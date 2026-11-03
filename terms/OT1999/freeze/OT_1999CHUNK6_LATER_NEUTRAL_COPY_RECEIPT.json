@@ -1,0 +1,194 @@
+{
+  "FISCHER": {
+    "packet": "OT_1999CHUNK6_FISCHER_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "7ec7be5ad267e481393bce208d77fee24d7a8ad6f0386b8b669e8b64e9e4f535",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_FISCHER.md",
+        "sha256": "291f268bbf8205621630e35834dd513cba26adf067931859c99e471ba7b804aa"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — 18 U.S.C. 666(a)–(c)",
+        "sha256": "c92a2bbd3334c4c4ecebf3beaf83b00d2f3bf1fa3c8eba9d4ab7c3db4e2650d8"
+      },
+      {
+        "source": "code1994-666.txt — section and historical notes",
+        "sha256": "82d87ab3eba87520f177fa87cd19cf38514b12abae89cdf2f74975aa7b374314"
+      },
+      {
+        "source": "medicare-41360.txt — 1999 edition §413.60 (program context; not proof of 1993 receipt or unchanged text)",
+        "sha256": "397223d2a1a20c9c91e2dd099ea8afc9b0a304bee801f1304cf560f9730c0393"
+      }
+    ]
+  },
+  "JOHNSON": {
+    "packet": "OT_1999CHUNK6_JOHNSON_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "3f4dcbdc19ded6f049fecb9c6b4ea1192480f993521100ddff735d2a0d78a52d",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_JOHNSON.md",
+        "sha256": "77c2d9cd6be6917884c207881744f946804a28cf8e847fd865f7cb8feefdae0b"
+      },
+      {
+        "source": "OT_1999CHUNK6_JOHNSON_MARCH1_PUBLIC.md",
+        "sha256": "43b31d677e3e82fcae3741b6beae8c9c1775a205a9cab9b03c0641c86398a3e7"
+      },
+      {
+        "source": "OT_1999CHUNK6_CARMELL_EFFECTIVE_PUBLIC.md",
+        "sha256": "4139ebd9e25c9baae5a4a0f9c6e7374fdfc905d9faba0eac296e05db37629e9c"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — Offense-date 18 U.S.C. 3583(e)(1)–(3), as quoted (source ellipses retained)",
+        "sha256": "c6f1a3900f2c1c3813ddc45754c6c228d8c2b3379ec2dff5e574e5252a2ac149"
+      },
+      {
+        "source": "code1994-3583.txt — amended1994 statute and historical notes; former(e)(3) quoted in notes",
+        "sha256": "fb07a7d55f6d96951f5f00a2f5524a3528bc4815d2ead4adb6c95181d21e73f6"
+      }
+    ]
+  },
+  "PUBLIC_LANDS": {
+    "packet": "OT_1999CHUNK6_PUBLIC_LANDS_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "b8bcbea4c8a421e2eee0e7649940a40f5487a66019e711a92f44b68858659855",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_PUBLIC_LANDS.md",
+        "sha256": "e62231bc685d7b7cd15b5402ef4df806b5a0faccc3b58c06259f03461108b268"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — Former grazing preference definition",
+        "sha256": "d34994310bf68312d0c8c34e8ecf81f975b06def5f5d53d8642dfed96a37ad98"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — 1995 grazing preference definition",
+        "sha256": "92a4e3e745b18adbe6da743ab22b3520f756a44fa7459783e3ec67715288df67"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — 1995 permitted-use definition",
+        "sha256": "f83cb031caa4e809073a8e6aa49148d89363a7586c13194e517bca346fd0bbb8"
+      },
+      {
+        "source": "code1994-315.txt — Taylor §§1–2 and notes",
+        "sha256": "30e99ad0318dff2394c31e8d9d773aa7472606217e4509b5d93475662b09f5cb"
+      },
+      {
+        "source": "code1994-315b.txt — Taylor §§3–4 and notes",
+        "sha256": "b85eb6fa11ccb81b579fc6f901171be895a3e38d5d3ac3fbf41479f16c455278"
+      },
+      {
+        "source": "grazing-final-rule.txt — definitions amendments (Federal Register amendment text; asterisks retain unchanged-text omissions)",
+        "sha256": "52a94188cddb6c203bda098e621345dadbdfc6c869d1d7a300bf35bfa57f5f65"
+      },
+      {
+        "source": "grazing-final-rule.txt — qualifications and permitted-use amendments (Federal Register amendment text; asterisks retain unchanged-text omissions)",
+        "sha256": "304a0965a793d62c905b5a72277e12d2d1e4e6d9c91570b99bfe201dcca631bb"
+      },
+      {
+        "source": "grazing-final-rule.txt — improvements (Federal Register amendment text; asterisks retain unchanged-text omissions)",
+        "sha256": "cdc4d047b57f492d9cbc4209f1caebcc8db628e40eb794d18bd3b1daae8dc88e"
+      },
+      {
+        "source": "grazing-final-rule.txt — permits and conditions (Federal Register amendment text; asterisks retain unchanged-text omissions)",
+        "sha256": "90d8ac7e562091995aa5be76fcaca328d37cff62f0ea2288dc739e6fe381fedd"
+      },
+      {
+        "source": "grazing-final-rule.txt — nonuse (Federal Register amendment text; asterisks retain unchanged-text omissions)",
+        "sha256": "e6f43296662cdfe6e4ef8e6646d3ebef17090d5ee1a875b8d0154215680d1ae4"
+      }
+    ]
+  },
+  "MCIVER": {
+    "packet": "OT_1999CHUNK6_MCIVER_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "e498a2362845c3a97cc7947311651c5390b5458d7cae1c73013eb80820db1ae9",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_MCIVER.md",
+        "sha256": "0a075d6983f7f36927d08a5876d2f7a106eb104dfe678d2b015f154051662438"
+      }
+    ]
+  },
+  "MORRISON": {
+    "packet": "OT_1999CHUNK6_MORRISON_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "bd4f3c62b6437ac98ec699dacc5513a998a4ed2e7aff76fe7f1cd697eb27b1f1",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_MORRISON.md",
+        "sha256": "fe7901d6047cc3db62572891e62fc5396759d8aa4756f3e1d666f0066feba599"
+      },
+      {
+        "source": "OT_1999CHUNK6_MORRISON_LOPEZ_PUBLIC.md",
+        "sha256": "f9e52f9a109aabe72bca263818c3aee28729ecd69e67604adb236479015ea4c9"
+      },
+      {
+        "source": "OT_1999CHUNK6_MORRISON_BOERNE_PUBLIC.md",
+        "sha256": "fc9451b2e73222c48d8aa521597951244e3790f391370c37b80b2d69139668bb"
+      },
+      {
+        "source": "code1994-13981.txt — full provision and notes",
+        "sha256": "1014dcede84ee60200f1afa8a53a83e2e9336fb60affe6cedd6195a38c66653e"
+      }
+    ]
+  },
+  "GEIER": {
+    "packet": "OT_1999CHUNK6_GEIER_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "ae69d78bbc2fd5f3d2b602a0297dc964763b4c5996e5df9b12d2229446871f4d",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_GEIER.md",
+        "sha256": "565d170f714deff1dee9a733a7d4f01d9eb1cb82a86f6af20280245842ec7134"
+      },
+      {
+        "source": "OT_1999CHUNK6_GEIER_MYRICK_PUBLIC.md",
+        "sha256": "16207dc83c5be140f5820af4ba31fbe2105813aa0eb62d269de2be12a2fa4081"
+      },
+      {
+        "source": "geier-06. Petitioners Brief_djvu.txt — original statute in statutory appendix, including full1392(d) and1397(k)",
+        "sha256": "bc8780293f1bf674f41dc2324f5510d16220c679952ef5bcdfec8621f68059b5"
+      }
+    ]
+  },
+  "JONES": {
+    "packet": "OT_1999CHUNK6_JONES_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "a1254aa736cf54dd52b644180e4d7a1bdce46b507154572f3634481a697dba93",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_JONES.md",
+        "sha256": "5aaff0eba6c50b6f9340d3caddd5f6aa421f3792af7ec91379f2414d2047ff1c"
+      },
+      {
+        "source": "code1994-844.txt — §844(i) offense element only; penalty omitted",
+        "sha256": "8e3da8e4f768505f7e27fdee9084d49f8249c0d55d87b0e6d25ac4d8a76bbfc2"
+      }
+    ]
+  },
+  "PLAYBOY": {
+    "packet": "OT_1999CHUNK6_PLAYBOY_NEUTRAL_VALIDATED.md",
+    "packet_sha256": "dbc604e34e5922212a9b550099448467b75835f78c1955f7d18de2c353968146",
+    "copied_sources": [
+      {
+        "source": "OT_1999CHUNK6_PLAYBOY.md",
+        "sha256": "0185cb887c372f9af4b123251327c7686ae102238042a76fba29dac141d637a6"
+      },
+      {
+        "source": "OT_1999CHUNK6_PLAYBOY_DENVER_PUBLIC.md",
+        "sha256": "582a4b2d52a4b6aa0c362759b5a24597e6dcabbfa289985a96d6b019cdbb0732"
+      },
+      {
+        "source": "OT_1999CHUNK6_PLAYBOY_RENO_PUBLIC.md",
+        "sha256": "50b81349b50a12feaab63180f18b1420cfbb992360d263ada93e39a37ce64d3d"
+      },
+      {
+        "source": "OT_1999CHUNK6_NCRL_EFFECTIVE_PUBLIC.md",
+        "sha256": "3b0a77aee1310bf5d1ed717edbcf3bf621873dac0d9f95b1699357f5356fed35"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — Cable section 505",
+        "sha256": "fa22fc53b101bd12310bf7a1113fdfcbdeab4b04551a0a34929d32f3df977583"
+      },
+      {
+        "source": "OT_1999CHUNK6_STATUTORY_EXTRACTS.md — Cable section 504",
+        "sha256": "7d52151ddd0a6f655e0ac19c827c7c2be8bc2631ec9fcda33bf15f69019a12f8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "id": 11349895,
+  "name": "Barbara PIOTROWSKI, Plaintiff-Appellant, v. CITY OF HOUSTON and the Houston Police Department, Defendants-Appellees",
+  "name_abbreviation": "Piotrowski v. City of Houston",
+  "decision_date": "1995-04-21",
+  "docket_number": "No. 93-2938",
+  "first_page": "512",
+  "last_page": "518",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 F.3d 512"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "40 F.3d 698",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10525770
+      ],
+      "pin_cites": [
+        {
+          "page": "715"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/40/0698-01"
+      ]
+    },
+    {
+      "cite": "611 F.2d 1129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        470336
+      ],
+      "pin_cites": [
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/611/1129-01"
+      ]
+    },
+    {
+      "cite": "779 F.2d 1136",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1539595
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1138"
+        },
+        {
+          "page": "1138",
+          "parenthetical": "\"The limitations period thus begins to run when the plaintiff either is or should be aware of both the injury and its connection with the alleged acts of the defendant.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/779/1136-01"
+      ]
+    },
+    {
+      "cite": "108 L.Ed.2d 785",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1784",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "494 U.S. 1067",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5445,
+        5095,
+        5321,
+        5226,
+        5259,
+        5116,
+        5481,
+        4746,
+        5233,
+        5363,
+        5397,
+        5398,
+        5436,
+        4831
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/1067-08",
+        "/us/494/1067-03",
+        "/us/494/1067-01",
+        "/us/494/1067-04",
+        "/us/494/1067-14",
+        "/us/494/1067-09",
+        "/us/494/1067-12",
+        "/us/494/1067-05",
+        "/us/494/1067-11",
+        "/us/494/1067-10",
+        "/us/494/1067-07",
+        "/us/494/1067-13",
+        "/us/494/1067-06",
+        "/us/494/1067-02"
+      ]
+    },
+    {
+      "cite": "886 F.2d 756",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10534063
+      ],
+      "pin_cites": [
+        {
+          "page": "758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/886/0756-01"
+      ]
+    },
+    {
+      "cite": "131 L.Ed.2d 218",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 1361",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 F.3d 198",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1852526
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/38/0198-01"
+      ]
+    },
+    {
+      "cite": "980 F.2d 299",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10512689
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/980/0299-01"
+      ]
+    },
+    {
+      "cite": "44 F.3d 1297",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7416076
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1306"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/44/1297-01"
+      ]
+    },
+    {
+      "cite": "963 F.2d 799",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11301813
+      ],
+      "pin_cites": [
+        {
+          "page": "803"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/963/0799-01"
+      ]
+    },
+    {
+      "cite": "488 U.S. 235",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1493613
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "249-50",
+          "parenthetical": "equating \u00a7 1983 claims with personal injury actions because both remedy injuries to personal rights"
+        },
+        {
+          "page": "581-82",
+          "parenthetical": "equating \u00a7 1983 claims with personal injury actions because both remedy injuries to personal rights"
+        },
+        {
+          "parenthetical": "equating \u00a7 1983 claims with personal injury actions because both remedy injuries to personal rights"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/488/0235-01"
+      ]
+    },
+    {
+      "cite": "981 F.2d 237",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1874931
+      ],
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/981/0237-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 378",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032186
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "385",
+          "parenthetical": "\"[0]ur first inquiry in any case alleging municipal liability under \u00a7 1983 is the question whether there is a direct causal link between a municipal policy or custom and the alleged constitutional deprivation.\""
+        },
+        {
+          "page": "1203",
+          "parenthetical": "\"[0]ur first inquiry in any case alleging municipal liability under \u00a7 1983 is the question whether there is a direct causal link between a municipal policy or custom and the alleged constitutional deprivation.\""
+        },
+        {
+          "parenthetical": "\"[0]ur first inquiry in any case alleging municipal liability under \u00a7 1983 is the question whether there is a direct causal link between a municipal policy or custom and the alleged constitutional deprivation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0378-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 658",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490618
+      ],
+      "weight": 5,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "691"
+        },
+        {
+          "page": "2036"
+        },
+        {
+          "page": "691"
+        },
+        {
+          "page": "2036"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0658-01"
+      ]
+    },
+    {
+      "cite": "980 F.2d 1514",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10519329
+      ],
+      "pin_cites": [
+        {
+          "page": "1521-22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/980/1514-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 111",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11305036
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "122",
+          "parenthetical": "tolling limitations period where \"the facts about causation may be in the control of the putative defendant, unavailable to the plaintiff or at least very difficult to obtain.\""
+        },
+        {
+          "page": "359",
+          "parenthetical": "tolling limitations period where \"the facts about causation may be in the control of the putative defendant, unavailable to the plaintiff or at least very difficult to obtain.\""
+        },
+        {
+          "parenthetical": "tolling limitations period where \"the facts about causation may be in the control of the putative defendant, unavailable to the plaintiff or at least very difficult to obtain.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0111-01"
+      ]
+    },
+    {
+      "cite": "635 F.2d 455",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1347975
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/635/0455-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 600",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11298261
+      ],
+      "pin_cites": [
+        {
+          "page": "606"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/0600-01"
+      ]
+    },
+    {
+      "cite": "708 F.2d 1023",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1123785
+      ],
+      "pin_cites": [
+        {
+          "page": "1027"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/708/1023-01"
+      ]
+    },
+    {
+      "cite": "121 L.Ed.2d 35",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 69",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "951 F.2d 681",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522329
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "684"
+        },
+        {
+          "page": "684",
+          "parenthetical": "\"The prescriptive period will not commence prior to the time the plaintiff is or should he aware of the causal connection between his injury and the acts of the defendant.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/951/0681-01"
+      ]
+    },
+    {
+      "cite": "122 L.Ed.2d 662",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 1266",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "832 F.2d 332",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10544800
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/832/0332-01"
+      ]
+    },
+    {
+      "cite": "968 F.2d 489",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10516027
+      ],
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/968/0489-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "195"
+        },
+        {
+          "page": "1003"
+        },
+        {
+          "page": "198"
+        },
+        {
+          "page": "1004"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 226",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221077
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "231-33",
+          "parenthetical": "establishing in qualified immunity context that first inquiry is existence of constitutional violation"
+        },
+        {
+          "page": "1793",
+          "parenthetical": "establishing in qualified immunity context that first inquiry is existence of constitutional violation"
+        },
+        {
+          "parenthetical": "establishing in qualified immunity context that first inquiry is existence of constitutional violation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0226-01"
+      ]
+    },
+    {
+      "cite": "19 F.3d 950",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10512087
+      ],
+      "pin_cites": [
+        {
+          "page": "954"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/19/0950-01"
+      ]
+    },
+    {
+      "cite": "19 F.3d 1017",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10512729
+      ],
+      "pin_cites": [
+        {
+          "page": "1021"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/19/1017-01"
+      ]
+    },
+    {
+      "cite": "28 F.3d 521",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10524225
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "524"
+        },
+        {
+          "page": "525"
+        },
+        {
+          "page": "525",
+          "parenthetical": "requiring allegation that policy or custom was \"a cause in fact of the deprivation of rights inflicted\""
+        },
+        {
+          "page": "531"
+        },
+        {
+          "page": "530-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/28/0521-01"
+      ]
+    },
+    {
+      "cite": "27 F.3d 1083",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10532449
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1086"
+        },
+        {
+          "page": "1086"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/27/1083-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1988,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 900,
+    "char_count": 18370,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 1.6966461473185045e-06,
+      "percentile": 0.9933480677831024
+    },
+    "sha256": "50b864090afeaaaf11c4b196f2dfc91cc4127fc1b28d3611e66c383dffb03edc",
+    "simhash": "1:a456da3387d29732",
+    "word_count": 2968
+  },
+  "last_updated": "2024-02-27T19:55:02.918545+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before SMITH and EMILIO M. GARZA, Circuit Judges, and BERRIGAN, District Judge."
+    ],
+    "parties": [
+      "Barbara PIOTROWSKI, Plaintiff-Appellant, v. CITY OF HOUSTON and the Houston Police Department, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "EMILIO M. GARZA, Circuit Judge:\nBarbra Piotrowski appeals the district court\u2019s dismissal of her civil rights suit against the City of Houston (the \u201cCity\u201d), which she brought under 42 U.S.C. \u00a7 1983 (1988). We modify and affirm.\nI\nIn 1980, gunmen shot Barbra Piotrowski in an attempt to kill her. According to Pio-trowski\u2019s complaint, Rick Waring told officers of the Houston Police Department five weeks prior to the shooting that Dudley Bell had solicited him to murder Piotrowski. The officers allegedly told Waring that they would investigate his information and instructed him not to warn Piotrowski of the attempt to solicit her murder. Contrary to their assurances to Waring, the officers did not proceed to investigate.\nPiotrowski sued the City in 1993, alleging that the officers had interfered with Waring\u2019s attempts to warn her of the danger she faced and that other officers had aided Bell and the other persons conspiring to kill her by providing them with a picture of her. Piotrow-ski stated that she had not learned of these actions until January, 1993, when one of the officers revealed the alleged interference and affirmative assistance in a deposition for a civil case concerning a book written about Piotrowski. The district court granted the City\u2019s motion to dismiss with prejudice under Rule 12(b)(6) of the Federal Rules of Civil Procedure on the grounds that Piotrowski\u2019s complaint was time-barred. Piotrowski appeals that dismissal.\nII\nPiotrowski contends that the district court erred in dismissing her suit as time-barred. \u2018We review a Rule 12(b)(6) dismissal de novo. We must accept all well-pleaded facts as true, and we review them in the light most favorable to the plaintiff.\u201d Green v. State Bar of Texas, 27 F.3d 1083, 1086 (5th Cir.1994). In our de novo review, we apply the same standard as that used by the district court: \u201c[A] claim may not be dismissed unless it appears certain that the plaintiff cannot prove any set of facts in support of his claim that would entitle him to relief.\u201d Leffall v. Dallas Indep. Sch. Dist., 28 F.3d 521, 524 (5th Cir.1994) (citing Norman v. Apache Corp., 19 F.3d 1017, 1021 (5th Cir.1994); Carney v. RTC, 19 F.3d 950, 954 (5th Cir.1994)); see also Green, 27 F.3d at 1086 (\u201cA dismissal will not be affirmed if the allegations support relief on any possible theory.\u201d).\nThe district court found that Pio-trowski\u2019s claim was that the Police Department violated her civil rights when it failed to investigate Waring\u2019s story and failed to protect her from Bell and Minns, and decided that such claims accrue at the time of the injury. Because Piotrowski knew at the time she was shot that the Police Department had failed to protect her, the district court held that her claim had accrued in 1980, more than two years before she filed suit. Pio-trowski argues, however, that she is making more than a fa\u00f1ure-to-protect claim. She argues that her complaint states a \u00a7 1983 claim for a violation of her civil rights that resulted from affirmative acts of the Police Department that contributed to the danger she faced, and that her claim did not accrue until she acquired knowledge of these acts in January, 1993.\nA\nPiotrowski argues that the police officers\u2019 affirmative acts of preventing Waring from warning her and giving the conspirators her picture support a \u00a7 1983 claim of a \u201cstate-created danger.\u201d \u201cTo state a claim under \u00a7 1983, a plaintiff must (1) allege a violation of rights secured by the Constitution or laws of the United States and (2) demonstrate that the alleged deprivation was committed by a person acting under color of state law.\u201d Leffall, 28 F.3d at 525. Our first inquiry is whether the plaintiff has alleged a violation of a constitutional right at all. Id.; cf. Siegert v. Gilley, 500 U.S. 226, 231-33, 111 5.Ct. 1789, 1793, 114 L.Ed.2d 277 (1991) (establishing in qualified immunity context that first inquiry is existence of constitutional violation).\nGenerally, \u201cnothing in the language of the Due Process Clause itself requires the State to protect the life, liberty, and property of its citizens against invasion by private actors.\u201d DeShaney v. Winnebago County Dep\u2019t of Social Servs., 489 U.S. 189, 195, 109 S.Ct. 998, 1003, 103 L.Ed.2d 249 (1989). \u201cThe Due Process Clause confers protection to the general public against unwarranted governmental interference, but it does not confer an entitlement to governmental aid as may be necessary to realize the advantages of liberty guaranteed by the Clause.\u201d Walton, 44 F.3d at 1302. While \u201cit is true that in certain limited circumstances the Constitution imposes upon the State affirmative duties of care and protection with respect to particular individuals,\u201d DeShaney, 489 U.S. at 198, 109 S.Ct. at 1004, Piotrowski must show that her situation fits those \u201ccertain limited circumstances.\u201d\nPiotrowski contends that her allegations qualify by satisfying the \u201cstate-created danger\u201d theory of \u00a7 1983 liability. While this Court has not affirmatively held that this theory is a valid exception to the DeShaney rule, see Johnson, 38 F.3d at 200 (discussing Fifth and other circuits\u2019 uncertainty regarding theory\u2019s validity and commenting that Salas discussed the theory only in dicta), it has addressed what a plaintiff would have to demonstrate to qualify for relief under this theory. First, a plaintiff must show that the state actors increased the danger to her. Second, a plaintiff must show that the state actors acted with deliberate indifference. In this case, Piotrowski alleges that the Police prevented Waring from warning her of the threat against her and assisted the conspirators by giving them a picture of her.\nB\nBefore we reach whether a \u201cstate-created danger\u201d constitutes a cognizable \u00a7 1983 theory, we determine first whether the district court correctly held that the statute of limitations would bar such a claim. Piotrowski contends that her claim accrued in January, 1993, when she discovered the relevant information from the police officer\u2019s deposition.\n\u201cUnder federal law, the [limitations] period begins to run \u2018the moment the plaintiff becomes aware that he has suffered an injury or has sufficient information to know that he has been injured.\u2019 \u201d Russell v. Board of Trustees, 968 F.2d 489, 493 (5th Cir.1992) (quoting Helton v. Clements, 832 F.2d 332, 335 (5th Cir.1987)), cert. denied, - U.S. -, 113 S.Ct. 1266, 122 L.Ed.2d 662 (1993). A plaintiffs awareness encompasses two elements: (1) The existence of the injury; and (2) causation, that is, the connection between the injury and the defendant\u2019s actions. See Stewart v. Parish of Jefferson, 951 F.2d 681, 684 (5th Cir.) (\u201cThe statute of limitations period commences once the plaintiff acquires possession of two eritical facts: (1) an injury has occurred; and (2) the identity of the person who inflicted the injury.\u201d), cert. denied, \u2014 U.S. -, 113 S.Ct. 69, 121 L.Ed.2d 35 (1992). A plaintiff need not realize that a legal cause of action exists; a plaintiff need only know the facts that would support a claim. See Harrison v. United States, 708 F.2d 1023, 1027 (5th Cir.1983) (\u201cThe plaintiff need not have knowledge of fault in the legal sense for the statute to begin to run, but she must have knowledge of facts that would lead a reasonable person (a) to conclude that there was a causal connection ... or (b) to seek professional advice, and then, with that advice, to conclude that there was a causal connection between the [defendant\u2019s acts] and injury.\u201d). Moreover, a plaintiff need not have actual knowledge if the circumstances would lead a reasonable person to investigate further. See Jensen v. Snellings, 841 F.2d 600, 606 (5th Cir.1988) (\u201cUnder federal law, the limitations period commences when \u2018the aggrieved party has either knowledge of the violation or notice of facts which, in the exercise of due diligence, would have led to actual knowledge\u2019 thereof.\u201d (quoting Vigman v. Community Nat\u2019l Bank & Trust Co., 635 F.2d 455, 459 (5th Cir.1981))).\nThe City argues that Piotrowski either knew of the facts underlying her claim at the time of the attack or should have inquired into the actions of the police officers at that time. In response, Piotrowski alleges that the police officers took active steps to suppress any information concerning their prior knowledge of the threat. When a defendant controls the facts surrounding causation such that a reasonable person could not obtain the information even with a diligent investigation, a cause of action accrues, but the statute of limitations is tolled. See United States v. Kubrick, 444 U.S. 111, 122, 100 S.Ct. 352, 359, 62 L.Ed.2d 259 (1979) (tolling limitations period where \u201cthe facts about causation may be in the control of the putative defendant, unavailable to the plaintiff or at least very difficult to obtain.\u201d); Frazier v. Garrison I.S.D., 980 F.2d 1514, 1521-22 (5th Cir.1993) (affirming summary judgment on limitations grounds, stating that: \u201cNo facts indicate to us that the alleged discrimination was either hidden or for some reason not apparent to a reasonable prudent person,\u201d and contrasting to scenario in which defendant\u2019s actions would not lead a reasonably prudent person to suspect critical facts and investigate further). Consequently, we cannot say as a matter of law that the limitations period started in 1980. Thus, if Piotrow-ski\u2019s \u201cstate-created danger\u201d theory raises a cognizable constitutional claim under \u00a7 1983, the district court erred in determining that her suit was time-barred.\nC\nWe need not decide, however, whether Piotrowski\u2019s \u201cstate-created danger\u201d claim is a cognizable \u00a7 1983 theory that is not time-barred. Even if she has alleged a \u201cstate-created danger,\u201d she has failed to allege facts that implicate the City itself. A municipality does not incur liability under \u00a7 1983 \u201cunless action pursuant to official municipal policy of some nature caused a constitutional tort.\u201d Monell v. Department of Soc. Servs., 436 U.S. 658, 691, 98 S.Ct. 2018, 2036, 56 L.Ed.2d 611 (1978); see also City of Canton v. Harris, 489 U.S. 378, 385, 109 S.Ct. 1197, 1203, 103 L.Ed.2d 412 (1989) (\u201c[0]ur first inquiry in any case alleging municipal liability under \u00a7 1983 is the question whether there is a direct causal link between a municipal policy or custom and the alleged constitutional deprivation.\u201d); Leffall, 28 F.3d at 525 (requiring allegation that policy or custom was \u201ca cause in fact of the deprivation of rights inflicted\u201d); Colle v. Brazos County, 981 F.2d 237, 244 (5th Cir.1993) (\u201c[0]nly when the execution of a county\u2019s policies or its customs deprives an individual of constitutional or federal rights does liability under \u00a7 1983 result.\u201d).\nPiotrowski alleges that the police officers increased the threat to her life, but she does not allege that the increased danger resulted from the City\u2019s policies. Nowhere in her substantive due process claim does Piotrowski allege that a causal link existed between a City policy or custom and the alleged state-created danger. Rather, she alleges that the increased danger resulted from the actions of certain police officers. Because the City cannot be held liable under a respondeat superior theory, Monell, 436 U.S. at 691, 98 S.Ct. at 2036, Piotrowski has failed to allege facts supporting a \u00a7 1983 claim against the City.\nIll\nFor the foregoing reasons, we AFFIRM the dismissal of Piotrowski\u2019s suit. We modify the district court\u2019s judgment, however, to dismiss without prejudice to Piotrow-ski\u2019s right to file an amended complaint.\n. Piotrowski\u2019s claim against the Houston Police Department as a separate defendant was dismissed and is not at issue in this appeal.\n. Piotrowski alleged that Dudley Bell, who worked for her boyfriend, Richard Minns, hired the gunmen.\n. Piotrowski alleged that Waring worked for Bell.\n. Piotrowski also alleged that she had reported previously to the police that Minns was trying to kill her.\n. Congress has not provided a statute of limitations in \u00a7 1983 cases; therefore, federal courts borrow the forum state's general personal injury limitations period. See Owens v. Okure, 488 U.S. 235, 249-50, 109 S.Ct. 573, 581-82, 102 L.Ed.2d 594 (1989) (equating \u00a7 1983 claims with personal injury actions because both remedy injuries to personal rights). In Texas, the pertinent limitation period is two years from the day the cause of action accrues. See Tex.Civ.Prac. & Rem.Code Ann. \u00a7 16.003(a) (Vernon 1986) (\"A person must bring suit for ... personal injury ... not later than two years after the day the cause of action accrues.\u201d); see also Rodriguez v. Holmes, 963 F.2d 799, 803 (5th Cir.1992) (borrowing two-year statute of limitations from Texas law for \u00a7 1983 case).\n. Piotrowski also argues that the police officers\u2019 actions created a \"special relationship\u201d that required them to protect her. Our recent en banc decision in Walton v. Alexander, 44 F.3d 1297 (5th Cir.1995) (en banc), precludes this argument, however, by requiring ' 'involuntary confine[ment] against [the plaintiff\u2019s] will through affirmative exercise of state power.\u201d 44 F.3d at 1306. Piotrowski has alleged no such confinement.\n. In Salas v. Carpenter, 980 F.2d 299 (5th Cir.1992), this Court stated in dicta that DeShaney\u2019s \"limited circumstances\u201d could include two situations. Salas, 980 F.2d at 307. \u201cFirst, a procedural'or substantive due process violation could occur if a state official causes injury by arbitrarily abusing governmental power. Second, a substantive due process violation could occur if uncommon circumstances create a duty for the state to protect a particular person.\" Id. Courts have referred to the first situation identified in Salas as the \"state-created danger\u201d theory of \u00a7 1983 liability: \u201cWhen state actors knowingly place a person in danger, the due process clause of the constitution has been held to render them accountable for the foreseeable injuries that result from their conduct....\u201d Johnson v. Dallas Indep. Sch. Dist., 38 F.3d 198, 200 (5th Cir.1994), cert. denied, - U.S. -, 115 S.Ct. 1361, 131 L.Ed.2d 218 (1995).\n. See Leffall, 28 F.3d at 531 (\"|T]he [state-created danger] cases consistently require a \u00a7 1983 plaintiff relying on substantive due process to show that the state actors are guilty of \u2018deliberate indifference\u2019 towards the victim of the deprivation.\").\nEven under the rationale of the cases recognizing a state-created danger theory of \u00a7 1983 liability, it is not enough to show that the state increased the danger of harm from third persons; the \u00a7 1983 plaintiff must also show that the state acted with the requisite culpability in failing to protect the plaintiff from that danger to make out a constitutional violation.\nId. at 530-31. Deliberate indifference requires the following: \"[TUhe environment created by the state actors must be dangerous; they must know it is dangerous; and ... they must have used their authority to create an opportunity that would not otherwise have existed for the third party's crime to occur.\u201d Johnson, 38 F.3d at 201.\n. Because we hold that Piotrowski\u2019s allegations fail on other grounds, however, we do not reach the question of whether her allegations satisfy the Rule 12(b)(6) threshold for alleging a \"state-created danger\u201d theory of \u00a7 1983 liability.\n. When a \u00a7 1983 cause of action accrues is a question of federal law. Id.\n. See also Chapman v. Homco, Inc., 886 F.2d 756, 758 (5th Cir.1989) (holding that limitations period on employment discrimination claim triggered on date of discharge, not on date of discovery of discriminatory intent), cert. denied, 494 U.S. 1067, 110 S.Ct. 1784, 108 L.Ed.2d 785 (1990); Longoria v. City of Bay City, 779 F.2d 1136, 1138 (5th Cir.1986) (holding that limitations period began to run when flooding occurred, not when plaintiffs learned city had been on notice of flooding potential and had fraudulent motive).\n. See also Stewart, 951 F.2d at 684 (\"The prescriptive period will not commence prior to the time the plaintiff is or should he aware of the causal connection between his injury and the acts of the defendant.\"); Longoria, 779 F.2d at 1138 (\u201cThe limitations period thus begins to run when the plaintiff either is or should be aware of both the injury and its connection with the alleged acts of the defendant.\u201d); Lavellee v. Listi, 611 F.2d 1129, 1131 (5th Cir.1980) (beginning limitations period \"when the plaintiff is, or should be, aware of both the injury and its connection with the acts of defendant\u201d).\n. Nor can we say as a matter of law that the limitations period did not start until January, 1993, when Piotrowski learned of the police officer\u2019s deposition. Although she acquired actual knowledge of the facts at that time, the City suggests that she could have obtained that information earlier. The lawsuit for which the 1993 deposition was taken concerned libel and slander claims brought by the police officers against the author of a book written about Piotrowski\u2019s case. The author acknowledges in the book that Pio-trowski helped her develop the book. Alleging that the book discussed at least some of the relevant actions of the police officers, the City suggests that Piotrowski either knew or should have known of the police officers' actions prior to the 1991 publication of the book. Determining the validity of the City\u2019s contention, however, would require us to go beyond the pleadings, and we will not entertain it at this time.\n. We dismiss without prejudice because we cannot say as a matter of law that Piotrowski cannot allege any set of facts supporting a causal link between a City policy and the alleged increased danger; we merely hold that she has not done so in the complaint filed in this case. See Nat'l Ass\u2019n of Gov\u2019t Employees v. City Pub. Serv. Bd., 40 F.3d 698, 715 (5th Cir.1994) (dismissing \u00a7 1983 suit without prejudice where no policy alleged but no limitations bar to amended complaint).",
+        "type": "majority",
+        "author": "EMILIO M. GARZA, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Marilyn Kay Lahr, Sumner & Schick, Dallas, TX, for appellant.",
+      "Andrea Chan, Arthur L. Pertile, III, Asst. City Atty., Houston, TX, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Barbara PIOTROWSKI, Plaintiff-Appellant, v. CITY OF HOUSTON and the Houston Police Department, Defendants-Appellees.\nNo. 93-2938.\nUnited States Court of Appeals, Fifth Circuit.\nApril 21, 1995.\nMarilyn Kay Lahr, Sumner & Schick, Dallas, TX, for appellant.\nAndrea Chan, Arthur L. Pertile, III, Asst. City Atty., Houston, TX, for appellees.\nBefore SMITH and EMILIO M. GARZA, Circuit Judges, and BERRIGAN, District Judge.\nDistrict Judge of the Eastern District of Louisiana, sitting by designation."
+  },
+  "file_name": "0512-01",
+  "first_page_order": 600,
+  "last_page_order": 606
+}

@@ -1,0 +1,50 @@
+{
+  "stage": "3B independent non-Stone modeling",
+  "event_cutoff": "2000-05-15 before uncoordinated same-day events",
+  "case": "FISCHER",
+  "inputs": [
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_FISCHER_NEUTRAL_VALIDATED.md",
+      "sha256": "7ec7be5ad267e481393bce208d77fee24d7a8ad6f0386b8b669e8b64e9e4f535"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY15_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "0620c06134186d49b5324c6e5a6607053daaf0c6a432b68dc9e47f79833efa5d"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MINING_REGIONS_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "c2722721f92f02b9111a7c2706536ff0329c1657781f0b487662856cafe4f4c9"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "sha256": "ffb7de824d00c37da02a6c793f87783109530552c41ac735def9759835e7c106"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "sha256": "9ec390a2bc0c2361a40748645454aef76eb1fb5e1faf1da1b219022467a4f634"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_FISCHER_REGIONS_PUBLIC.md",
+      "sha256": "8f087c0cc82670ceb56bbe1270977c5c9fb1ea9e48f0b69c35d0a57e96867189"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_FISCHER_RATZLAF_PUBLIC.md",
+      "sha256": "d50eedd62ea6b36d65d6fbdfc13742da74cb1fbb6e79c0664a562421250a1f1c"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_FISCHER_WELLS_PUBLIC.md",
+      "sha256": "414bd75e2c9550f07bd1bad6befbb48bbbe1a2ff9c757e30a6f57ac48559da49"
+    }
+  ],
+  "freeze_sha256": "844956c54e1adf335514f64fb1191449ae84f25cef74bbba1b6c57f3cc39a618",
+  "runtime_sha256": "844956c54e1adf335514f64fb1191449ae84f25cef74bbba1b6c57f3cc39a618",
+  "checks": {
+    "eight_named_Associates": true,
+    "copies_identical": true,
+    "final_neutral_certificate_read": true,
+    "no_same_day_borrowing": true,
+    "no_current_outcome_or_controlled_position_exposure": true,
+    "no_assignment": true
+  },
+  "substantive_validation": "Human-language judicial analysis; no program forms votes or decides law. Six Associates support confined institutional assistance; Scalia and Thomas oppose. Count allocation and special-payment facts not invented."
+}

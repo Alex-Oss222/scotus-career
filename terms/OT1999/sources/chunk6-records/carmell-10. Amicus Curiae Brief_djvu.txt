@@ -1,0 +1,592 @@
+Suprema Court, U.&. 
+HIDED 
+
+
+() ; SEP 16 1999 
+
+
+No. 98-7540 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+SCOTT L. CARMELL, 
+Petitioner, 
+a 
+
+
+THE STATE OF TEXAS, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Court of Appeals of Texas, Second District 
+
+
+BRIEF FOR THE NATIONAL ASSOCIATION OF 
+CRIMINAL DEFENSE LAWYERS AS AMICUS CURIAE 
+
+
+IN SUPPORT OF PETITIONER 
+Barbara Bergman Robert P. Marcovitch 
+Co-Chair, NACDL Amicus Counsel of Record 
+Committee Kilpatrick Stockton LLP 
+The University of New Mexico Suite 2800 
+School of Law 1100 Peachtree Street 
+1117 Stanford NE Atlanta, GA 30309-4530 
+Albuquerque, NM 87131-1431 (404) 815-6122 
+(505) 277-3304 
+Counsel for Amicus Curiae 
+
+
+National Association of Criminal Defense Lawyers 
+
+
+THE EX POST FACTO 
+CLAUSE ARE GOVERNED 
+BY ORIGINAL INTENT AS 
+EVIDENCED BY JUSTICE 
+
+
+A. The Viability of the 
+
+
+Fourth Calder Category .................... 6 
+
+B. The Meaning of the 
+Fourth Calder Category.................... 9 
+sasceseuneeseovonspeceiibehsenneietiebsdliciailail a aannntan 12 
+
+
+CONCLUSION 
+
+
+— 
+
+
+TABLE OF AUTHORITIES 
+
+CASES 
+Beazell v. Ohio, 269 U.S. 167 (1925) o.oo... coccoccoosseeee 7,8 
+Calder v. Bull, 3 U.S. 386 (1798)... 2, 3,9, 10, 11 
+Chapman v. California, 386 U.S. 18 (1967) o.oo... 1. 
+Collins v. Youngblood, 497 U.S. 37 (1990) ......2, 4, 5, 6, 7, 8 
+Hopt v. Utah, 110 U.S. $74 (1884). ooo oocccccsseeoceseeooee 10 
+Kring v. Missouri, 107 U.S. 221 (1883)..00.0..000..0.00.00c0000000. 6 
+Thompson v. Missouri, 171 U.S. 380 (1898) 00... 10 
+STATUTES 
+Tex. Code Crim. P. Amn. art. 38.07 ooo. ooocccccccccccseeoseeoeee 7 
+I ee ince. cccasesnscveceancass 3 
+OTHER AUTHORITIES 
+Derek J.T. Adler, Ex Post Facto Limitations 
+
+in Evidentiary Law: Repeal of 
+
+Accomplice Corroboration 
+
+Requirements, 55 Fordham L. Rev. 
+
+Hs EE cara NN cD 10 
+
+
+RULES 
+Fed. R. Crim. P. 52(a) 
+
+
+CERRO ee 
+
+
+BRIEF FOR THE NATIONAL ASSOCIATION OF 
+CRIMINAL DEFENSE LAWYERS AS AMICUS CURIAE 
+IN SUPPORT OF PETITIONER 
+
+
+This amicus curiae brief is submitted in support of 
+petitioner Scott L. Carmell. Written consents of the parties 
+to the filing of this brief have been submitted to the Court. ' 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+The National Association of Criminal Defense 
+Lawyers (NACDL) is a District of Columbia non-profit 
+organization whose membership is comprised of over 10,000 
+lawyers and 28,000 affiliate members representing every 
+state. Members serve in positions bringing them into daily 
+contact with the criminal justice system in the state and 
+federal courts. 
+
+
+The NACDL is the only national bar organization 
+working on behalf of public and private criminal defense 
+lawyers. The American Bar Association recognizes the 
+NACDL as an affiliated organization and awards it full 
+representation in the ABA House of Delegates. The NACDL 
+is dedicated to the preservation and improvement of our 
+adversary system of justice. 
+
+
+This case presents the issue of when, if ever, the 
+retroactive application of a new rule of evidence violates the 
+
+
+' As required by Rule 37.6 of this Court, amicus curiae submits the 
+following statement: no party authored this brief in whole or in part; and 
+no person or entity, other than amicus curiae, its members, or its 
+counsel has made a monetary contribution to the preparation or 
+submission of this brief. 
+
+
+Ex Post Facto Clause. The NACDL contends that in certain 
+circumstances, where such a retroactive application of an 
+evidentiary rule leads to a conviction that would not 
+otherwise have been obtained but for the rule change, the Ex 
+Post Facto Clause has been violated. The NACDL is 
+concerned that if this position is not adopted by this Court, 
+then criminal defendants will be afforded no ex post facto 
+protection from retroactively-applied changes to rules of 
+evidence, a result that would be inconsistent with the int ent of 
+the Framers. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+1. In his opinion in Calder v. Bull, 3 U.S. 386 
+(1798), Justice Chase set forth four categories of ex post facto 
+laws that are now enshrined in this Court’s ex post facto 
+jurisprudence. Recently, in Collins v. Youngblood, 497 U.S. 
+37 (1990), the Court made it clear that ex post facto 
+violations are to be measured only by the Calder categories, 
+which it viewed to be contemporaneous expressions of the 
+Founders’ intent regarding the Ex Post Facto Clause. 
+
+
+2. The fourth Calder category, which governs the 
+outcome in this case, classifies as an ex post facto law: “Every 
+law that alters the legal rules of evidence, and receives less, or 
+different, testimony, than the law required at the time of the 
+commission of the offence, in order to convict the offender.” 
+Calder, 3 U.S. at 390. This fourth category was not meant by 
+Justice Chase to be some useless appendage to the other three 
+categories. Instead, it was designed specifically to 
+independently address the retroactive application of new 
+evidentiary rules. Consistent with some of Justice Chase’s 
+discussion in Calder, and with the fundamental underpinnings 
+of the Ex Post Facto Clause, the fourth Calder category 
+
+
+should be interpreted to prevent the retroactive application of 
+a new rule of evidence when it is dispositive as to an ultimate 
+finding of guilt. 
+
+
+ARGUMENT 
+
+
+L. DETERMINATIONS UNDER THE EX POST 
+FACTO CLAUSE ARE GOVERNED BY 
+ORIGINAL INTENT AS EVIDENCED BY 
+JUSTICE CHASE’S OPINION IN CALDER ¥. 
+BULL. 
+
+
+A. Introduction: The Four Categories of Ex 
+Post Facto Laws. 
+
+
+Justice Chase’s opinion in Calder v. Bull, 3 U.S. 386, 
+390 (1792), sets forth four categories of ex post facto laws’ 
+that are now enshrined in this Court’s ex post facto 
+jurisprudence: 
+
+
+Ist. Every law that makes an action, done 
+before the passing of the law, and which was 
+innocent when done, criminal; and punishes 
+such action. 2nd. Every law that aggravates a 
+crime, or makes it greater than it was, when 
+committed. 3rd. Every law that changes the 
+punishment, and inflicts a greater punishment, 
+than the law annexed to the crime, when 
+committed. 4th. Every law that alters the legal 
+rules of evidence, and receives less, or 
+different, testimony, than the law required at 
+
+
+? The Constitution provides: “No State shall ... pass any ... ex post facto 
+Law....” U.S. CONST. art. I, § 10, cl. 1. 
+
+
+the time of the commission of the offence, in 
+order to convict the offender. 
+
+
+At issue in this case is the continuing viability and 
+meaning of the fourth Calder category. As demonstrated 
+below, that category retains significance and should be 
+interpreted to prevent the retroactive application of changes 
+in the rules of evidence in cases where such changes are 
+dispositive as to a defendant’s conviction. 
+
+
+B. The Significance of Collins v. Youngblood. 
+
+
+In Collins v. Youngblood, 497 U.S. 37 (1990), a case 
+involving the retroactive application of a Texas statute 
+allowing for the reformation of an improper verdict that 
+assesses unauthorized punishment, this Court clarified the 
+state of ex post facto law and laid the framework for the 
+determination of the issue presented by this case. 
+
+
+After setting forth the Calder factors and discussing 
+some of the historical background of the Ex Post Facto 
+Clause, the Court in Collins noted that the Texas statute 
+under consideration effected a “procedural change” in Texas 
+law. 497 U.S. at 44. The Court continued: 
+
+
+Several of our cases have described as 
+“procedural” those changes which, even 
+though they work to the disadvantage of the 
+accused, do not violate the Ex Post Facto 
+Clause. While these cases do not explicitly 
+define what they mean by the word 
+"procedural," it is logical to think that the 
+term refers to changes in the procedures by 
+which a criminal case is adjudicated, as 
+
+
+opposed to changes in the substantive law of 
+crimes. Respondent correctly notes, however, 
+that we have said that a procedural change 
+may constitute an ex post facto violation if it 
+affects matters of substance, by depriving a 
+defendant of substantial protections with which 
+the existing law surrounds the person accused 
+of crime, or arbitrarily infringing upon 
+substantial personal rights. 
+
+
+Collins, 497 U.S. at 45 (citations, internal quotations and 
+brackets omitted). The Court then commented: “We think 
+this language from the cases cited has imported confusion into 
+the interpretation of the Ex Post Facto Clause.” /d. 
+
+
+Therefore, in order to clarify the perceived confusion 
+as to the meaning of the Ex Post Facto Clause, especially as it 
+is implicated by the retroactive application of procedural 
+changes of law, the Court made it clear that ex post facto 
+violations are to be measured only by the Calder categories. 
+
+
+We think the best way to make sense out of 
+this discussion in the cases is to say that by 
+simply labeling a law “procedural,” a 
+legislature does not thereby immunize it from 
+scrutiny under the Ex Post Facto Clause.... 
+[T]he constitutional prohibition is addressed to 
+laws, whatever their form, which make 
+innocent acts criminal, alter the nature of the 
+offense, Shas tp pega se 
+
+
+Id. at 46 (citations and internal quotations omitted; emphasis 
+added). Indeed, the Court in Collins unmistakably viewed the 
+Calder factors as embodying the intent of the Founders. See 
+id. at 50 (overruling Kring v. Missouri, 107 U.S. 221 (1883), 
+“The holding in Kring can only be justified if the Ex Post 
+Facto Clause is thought to include not merely the Calder 
+categories, but any change which ‘alters the situation of a 
+party to his disadvantage.” We think such a reading of the 
+Clause departs from the meaning of the Clause as it was 
+understood at the time of the adoption of the Constitution, 
+and is not supported by later cases.”’). 
+
+
+Therefore, there can be no question that the outcome 
+of this case is dictated by the four Calder categories, and in 
+particular, the fourth such category. Although, as discussed 
+below, the viability of the fourth category in the circumstances 
+of this case has been called into question, the original intent of 
+the Framers, as evidenced by Justice Chase’s opinion in 
+Calder, was that the Ex Post Facto Clause should be applied 
+to prevent convictions obtained as a direct result of the 
+retroactive application of a new or changed rule of evidence. 
+
+
+Il. UNDER THE FOURTH CATEGORY OF 
+CALDER V. BULL, THE RETROACTIVE 
+APPLICATION OF A NEW RULE OF 
+EVIDENCE THAT IS DISPOSITIVE AS TO A 
+FINDING OF GUILT IS PROHIBITED. 
+
+
+A. The Viability of the Fourth Calder 
+Category. 
+
+
+On its face, the fourth Calder category -- “Every law 
+that alters the legal rules of evidence, and receives less, or 
+different, testimony, than the law required at the time of the 
+
+
+- +e 
+
+
+commission of the offence, in order to convict the offender” -- 
+applies in this case. The 1993 amendment to Article 38.07 of 
+the Texas Code of Criminal Procedure, retroactively applied 
+by the Texas trial court in this case, enabled the jury to hear 
+uncorroborated testimony of K.M. that otherwise would have 
+been prohibited under the version of that statute extant at the 
+time of the June 1992 offense at issue here. There can be 
+little question that Petitioner would not have been convicted 
+of that offense but for the testimony of K.M. Consequently, 
+the 199: amendment “alter[ed] the legal rules of evidence, 
+and fallowed for] ... different testimony fie. the 
+uncorroborated testimony of K.M.] than the law required at 
+the time cf the commission of the offence, in order to convict 
+the ... [Pevitioner]}.” 
+
+
+However, in a footnote in Collins, supra, this Court 
+called into question the viability of the fourth Calder factor: 
+“The Beazell [v. Ohio, 269 U.S. 167 (1925)] definition [of the 
+meaning of the Ex Post Facto Clause] omits the reference by 
+Justice Chase in Calder v. Bull to alterations in the ‘legal rules 
+of evidence.’ As cases subsequent to Calder make clear, this 
+language was not intended to prohibit the application of new 
+evidentiary rules in trials for crimes committed before the 
+changes.” Collins, 497 U.S. at 43 n.3 (citations omitted).’ 
+
+
+> In Beazell, this Court summarized the meaning of the Ex Post Facto 
+Clause as follows: 
+
+
+It is settled, by decisions of this court so well known 
+that their citation may be dispensed with, that any 
+statute which punishes as a crime an act previously 
+committed, which was innocent when done, which 
+makes more burdensome the punishment for a crime, 
+after its commission, or which deprives one charged 
+with crime of any defense available according to law at 
+
+
+Nevertheless, in light of (1) the Court’s decision in Collins v. 
+Youngblood, as discussed above, requiring the determination 
+of all alleged ex post facto violations by measurement against 
+the Calder categories, and (2) the fact that the fourth Calder 
+category had independent significance at the time of the 
+Calder decision, footnote 3 of Collins should not be read as 
+blanket authority for the retroactive application of new rules 
+of evidence. Instead, consistent with the tenor of Collins, and 
+to preserve some viability of the fourth Calder category, that 
+footnote should be interpreted simply to mean that the fourth 
+category “was not intended to prohibit [in every 
+circumstance] the application of new evidentiary rules in trials 
+for crimes committed before the changes.” Collins, 497 U.S. 
+at 43 n3. 
+
+
+The fourth Calder category was not devoid of 
+meaning at the time that it was first discussed in Calder. 
+Indeed, Justice Chase, in addressing the historical background 
+of the Ex Post Facto Clause, expressly discussed historical 
+examples of ex post facto changes in evidentiary rules: 
+
+
+The prohibition against their [i.e. the state 
+legislatures’] making any ex post facto laws 
+was introduced for greater caution, and very 
+probably arose from the knowledge, that the 
+Parliament of Great Britain claimed and 
+exercised a power to pass such laws... 
+Sometimes they respected the crime, by 
+declaring acts to be treason, which were not 
+
+
+the time when the act was committed, is prohibited as 
+ex post facto. 
+
+
+269 U.S. at 169-70. 
+
+
+treason, when committed, at other times, they 
+
+
+violated the rules of evidence (to supply a 
+defici fi itti 
+
+; 38 cg a 
+pe par meng ear gn ene wl oo ' 
+of i i the other 
+t whi s Ww 
+not admit. 
+
+
+Calder, 3 U.S. at 389 (footnotes deleted; emphasis added). 
+Justice Chase went on to state that it was “[t]o prevent such, 
+and similar, acts of violence and injustice, ... [that] the Federal 
+and State Legislatures, were prohibited from passing any bill 
+of attainder; or any ex post facto law.” Id. 
+
+
+Therefore, it is clear that the fourth Calder category 
+was not meant by Justice Chase to be some useless appendage 
+to the other three categories. Instead, the fourth category 
+was designed specifically to independently address the 
+retroactive application of new evidentiary rules. Accordingly, 
+because Collins expressly pegs ex post facto violations to the 
+Calder categories, and because the fourth category applicable 
+here had independent meaning when it was first set forth, that 
+category must retain viability. 
+
+
+B. The Meaning of the Fourth Calder 
+Category. 
+
+
+The question remains: what is the meaning of the 
+fourth Calder category? Although Justice Chase did not 
+provide a definitive analysis, he did provide indications that 
+the meaning of that category is that which is urged in this 
+brief: that a retroactive application of a rule of evidence that is 
+dispositive regarding an ultimate finding of guilt violates the 
+
+
+-10- 
+
+
+Ex Post Facto Clause. First, synopsized, the very words of 
+the fourth category prevent the retroactive application of any 
+“law that alters the legal rules of evidence ... in order to 
+convict the offender.” Calder, 3 U.S. at 390 (emphasis 
+added). Moreover, Justice Chase also wrote: “I do not 
+consider any law ex post facto, within the prohibition, that 
+mollifies the rigor of the criminal law; but only those that 
+create, or aggravate, the crime; or encrease the punishment, 
+or change the rules of evidence, for the purpose of 
+conviction.” See also Derek J.T. Adler, Ex Post Facto 
+Limitations in Evidentiary Law: Repeal of Accomplice 
+Corroboration Requirements, 55 Fordham L. Rev. 1191, 
+1211 (1987) (“An evidentiary change may also run afoul of 
+the ex post facto prohibition if it increases the likelihood of 
+conviction to such an extent as virtually to guarantee it.”).* 
+
+
+Thus, in the ordinary course, as suggested in footnote 
+3 of Collins, a simple change in a rule of evidence will not, in 
+the vast majority of cases, violate the Ex Post Facto Clause. 
+The rules prescribing the methods and means of the 
+presentation of evidence rarely have a direct influence on the 
+outcome in a criminal case. However, when a change of such 
+a rule is dispositive as to a finding of guilt, that change is 
+qualitatively different from an ordinary evidentiary rule 
+change. Fundamentally, whether it is applied to a change of 
+substantive law or of a law of evidence, the Ex Post Facto 
+
+
+* Cases of this Court upholding the retroactive application of a change 
+in an evidentiary rule are not inconsistent with the rule proposed here. 
+See Hopt v. Utah, 110 U.S. 574 (1884) (change of mule newly 
+authorizing the admission of testimony of felons); Thompson v. 
+Missouri, 171 U.S. 380 (1898) (changing rule to authorize admission of 
+handwriting exemplars). Although they are silent on the point, neither 
+Hopt nor Thompson suggests that the changes of evidentiary rules at 
+issue were dispositive as to conviction. 
+
+
+ie. 
+
+
+a) a 
+
+
+Clause is designed to prevent convictions and increases in 
+punishment based on the retroactive application of such 
+changes. In essence, the Ex Post Facto Clause is an adjunct 
+to the Due Process Clause in that it constitutionalizes a rule of 
+fairness. See Calder, 3 U.S. at 389 (the Ex Post Facto Clause 
+is designed “[t]o prevent such, and similar, acts of violence 
+and injustice”) (emphasis added), and at 390 (referring to the 
+four categories of ex post facto laws, Justice Chase stated: 
+“All these, and similar laws, are manifestly unjust and 
+oppressive.”) (emphasis added). And there should be no 
+constitutional difference between a conviction achieved 
+through a retroactively-applied change of the elements of an 
+offense and one obtained through a retroactively-applied 
+change of a rule of evidence -- the result is the same: a 
+conviction that would not have been obtained under the law 
+prevailing at the time of the conduct in question. 
+
+
+The rule proposed here is not some amorphous 
+standard of fairness. Instead, it would measure challenges to 
+retroactive applications of changes in rules of evidence by the 
+significance of the effect that those changes had on the 
+ultimate outcome: conviction. Therefore, if the proposed rule 
+were adopted by this Court, then courts would be required 
+simply to employ a test that mirrors the time-honored 
+harmless error test used by the Courts of Appeals every day 
+to determine the significance of errors committed in criminal 
+cases. See Fed. R. Crim P. 52(a) (“Any error, defect, 
+irregularity or variance which does not affect substantial rights 
+shall be disregarded.”); Chapman v. California, 386 U.S. 
+18, 24 (1967) (error is harmless if it appears “beyond a 
+reasonable doubt that the error complained of did not 
+contribute to the verdict obtained"). Courts of Appeals 
+regularly make determinations under the harmless error rule 
+as to the prejudicial nature of erroneously admitted evidence, 
+
+
+Liieeeeieerteiateatatiiiaiiitit iit iii iinet 
+
+
+sas 
+
+
+and there is no reason why they cannot perform a similar task 
+in evaluating the constitutional significance of retroactively- 
+applied rules of evidence. 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Appeals of Texas, 
+Second District, should be reversed. 
+
+
+Respectfully submitted, 
+
+
+ROBERT P. MARCOVITCH 
+Counsel of Record 
+
+Kilpatrick Stockton LLP 
+Suite 2800 
+
+1100 Peachtree Street 
+Atlanta, Georgia 30309-4530 
+(404) 815-6122 
+
+
+BARBARA BERGMAN 
+
+Co-Chair, NACDL Amicus Coinmittee 
+The University of New Mexico 
+School of Law 
+
+1117 Stanford NE 
+Albuquerque, NM 87231-1431 
+(505) 277-3304 
+
+

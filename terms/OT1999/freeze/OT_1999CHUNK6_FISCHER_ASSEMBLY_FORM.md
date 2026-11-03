@@ -1,0 +1,9 @@
+# Fischer — assembly form before assignment count
+
+The legal question after plenary review warrants one signed Opinion of the Court, not a summary or per curiam disposition. It resolves whether the proved ordinary Medicare payments qualify as institutional benefits under section 666(b), answers the ordinary-compensation objection while preserving section 666(c), and leaves the distinct offense requirements and unreviewed counts intact. These related propositions form one statutory opinion; no separate case or independently assignable part is needed.
+
+Stone's approved core supports affirmance and the actual continuing Medicare relationship: payments materially support the institution's operations in carrying out the federal program, while ordinary procurement, isolated market transactions, and payments without that relationship remain excluded. That supports the six affirming Associates' actual-program rationale. The compensation response explains why reimbursement form does not negate that approved classification; it neither attributes an alternative theory to Stone nor changes his rule, disposition or remedy. All seven can join the opinion in full. The statutory elements retained from Salinas are existing law, not a new Stone choice. No standing fallback is used.
+
+Scalia and Thomas retain their shared contrary benefits/compensation construction and dependent-count remedy. One dissent performs the required explanatory work. Its residual-lenity paragraph belongs to Scalia alone; Thomas joins the substantive statutory construction and remedy without that additional ground. No non-Stone commitment changes and no fictional circulation exchange is supplied.
+
+The form, propositions, coalition and scope above were settled before the assignment count was run or an author selected. Counts cannot alter them.

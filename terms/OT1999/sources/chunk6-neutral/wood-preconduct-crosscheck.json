@@ -1,0 +1,81 @@
+{
+  "case": "wood",
+  "cap_opinions": [
+    {
+      "type": "majority",
+      "author": "DAVID R. THOMPSON, Circuit Judge:"
+    },
+    {
+      "type": "dissent",
+      "author": "CARROLL, District Judge,"
+    }
+  ],
+  "cap_head_matter": "Linda K. WOOD, Plaintiff-Appellant, v. Steven C. OSTRANDER; Neil Maloney, Defendants-Appellees.\nNo. 87-3924.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted Feb. 3, 1988.\nReargued and Resubmitted on Rehearing Nov. 28, 1988.\nDecided June 27, 1989.\nPaul Lindenmuth and Neil J. Hoff, Tacoma, Wash., for plaintiff-appellant.\nTheresa L. Fricke, Asst. Atty. Gen., Olympia, Wash., for defendants-appellees.\nBefore FLETCHER and THOMPSON, Circuit Judges, and CARROLL, District Judge.\nAfter Judge Anderson’s death, Judge Thompson was substituted for Judge Anderson. He has listened to the tape of the initial oral argument, has read the briefs and excerpt of record, and has heard oral argument on rehearing.\nHonorable Earl H. Carroll, United States District Judge for the District of Arizona, sitting by designation.",
+  "cap_paragraphs_compared": 149,
+  "resource_paragraphs": 192,
+  "files_sha256": {
+    "wood-preconduct-resource.html": "38ecd9a11cd94c354ce8f9083225ad1fc54cac4e6a9b07f20bf00dcba46b64ee"
+  },
+  "least_similar_paragraphs": [
+    {
+      "similarity": 0.954,
+      "cap": "We are satisfied that Wood has presented genuine issues of material fact on the question of whether Ostrander deprived her of a liberty interest protected by the Constitution. See Ingraham v. Wright, supra; Haygood v. Younger, 769 F.2d at 1356.",
+      "resource": "We are satisfied that Wood has presented genuine issues of material fact on the question of whether Ostrander deprived her of a liberty interest protected by the Constitution.  See Ingraham v. Wright, supra;  Haygood v. Younger, 769 F.2d at 1356.II. Qualified Immunity"
+    },
+    {
+      "similarity": 0.99405,
+      "cap": "Linda Wood brought this action under 42 U.S.C. § 1983 against Washington State Trooper Steven Ostrander and his wife, and Neil Maloney, Chief Officer of the Washington State Patrol and his wife. Wood appeals the district court’s summary judgment dismissal of the case as to all defendants. We affirm the district court’s dismissal as to Maloney and his wife, but reverse the dismissal as to Ostrander and his wife.",
+      "resource": "Linda Wood brought this action under 42 U.S.C. Sec. 1983 against Washington State Trooper Steven Ostrander and his wife, and Neil Maloney, Chief Officer of the Washington State Patrol and his wife.  Wood appeals the district court's summary judgment dismissal of the case as to all defendants.  We affirm the district court's dismissal as to Maloney and his wife, but reverse the dismissal as to Ostrander and his wife.1"
+    },
+    {
+      "similarity": 0.99487,
+      "cap": "Justice Brennan recognizes that the majority opinion in DeShaney is contrary to White. Thus, he states in his dissent:",
+      "resource": "Justice Brennan recognizes that the majority opinion in DeShaney is contrary to White.3   Thus, he states in his dissent:"
+    },
+    {
+      "similarity": 0.99597,
+      "cap": "The opinions that cited White prior to September 1984, either distinguished the case from the one being decided (Williams v. City of Boston, 599 F.Supp. 363, 367 (D.Mass.1984)) (No liability for a student injured at a football game scheduled in a high crime area. The Court held the plaintiff “was no more foreseeable victim of harm than any other person in attendance at the football game ... Furthermore, as in Martinez, the causal connection between the defendants’ acts and the plaintiff’s injury is too tenuous to impose § 1983 liability.”); cited it for the proposition that gross or reckless conduct in a situation that would otherwise be simple negligence was sufficient to state a § 1983 claim, (e.g., Means v. City of Chicago, 535 F.Supp. 455 (N.D.Ill.1982)); or that mental or emotional distress may be compensable under § 1983, (James v. Bd. of Sch. Com’rs of Mobile County, Ala., 484 F.Supp. 705, 714 (S.D.Ala.1979). See also other cites: Coyne v. Boeckmann, 511 F.Supp. 667, 669 (E.D.Wis.1981) (coerced confession from a 17 yr. old); Seide v. Prevost, 536 F.Supp. 1121, 1125 (S.D.N.Y.1982) (state responsibility for committed and uncommitted disturbed persons); Larson v. Wind, 536 F.Supp. 108 (N.D.Ill.1982) (medical assistance for person in police custody); Arko v. Broom, 518 F.Supp. 669 (D.Colo.1981) (police officers exposed to dangerous or addictive drugs); Wedgeworth v. Harris, 592 F.Supp. 155 (W.D.Wis.1984) (sexual assault by a police officer).",
+      "resource": "The opinions that cited White prior to September 1984, either distinguished the case from the one being decided (Williams v. City of Boston, 599 F.Supp. 363, 367 (D.Mass.1984)) (No liability for a student injured at a football game scheduled in a high crime area.  The Court held the plaintiff \"was no more foreseeable victim of harm than any other person in attendance at the football game ... Furthermore, as in Martinez, the causal connection between the defendants' acts and the plaintiff's injury is too tenuous to impose Sec. 1983 liability.\");    cited it for the proposition that gross or reckless conduct in a situation that would otherwise be simple negligence was sufficient to state a Sec. 1983 claim, (e.g., Means v. City of Chicago, 535 F.Supp. 455 (N.D.Ill.1982));  or that mental or emotional distress may be compensable under Sec. 1983, (James v. Bd. of Sch. Com'rs of Mobile County, Ala., 484 F.Supp. 705, 714 (S.D.Ala.1979).  See also other cites:  Coyne v. Boeckmann, 511 F.Supp. 667, 669 (E.D.Wis.1981) (coerced confession from a 17 yr. old);  Seide v. Prevost, 536 F.Supp. 1121, 1125 (S.D.N.Y.1982) (state responsibility for committed and uncommitted disturbed persons);  Larson v. Wind, 536 F.Supp. 108 (N.D.Ill.1982) (medical assistance for person in police custody);  Arko v. Broom, 518 F.Supp. 669 (D.Colo.1981) (police officers exposed to dangerous or addictive drugs);  Wedgeworth v. Harris, 592 F.Supp. 155 (W.D.Wis.1984) (sexual assault by a police officer)."
+    },
+    {
+      "similarity": 0.99611,
+      "cap": "The fact that Ostrander arrested Bell, impounded his car, and apparently stranded Wood in a high-crime area at 2:30 a.m. distinguishes Wood from the general public and triggers a duty of the police to afford her some measure of peace and safety. See White v. Rockford, 592 F.2d at 384 and n. 6 (and authorities cited therein). See also Chambers-Castenes v. King Co., 100 Wash.2d 275, 669 P.2d 451 (1983); ... (policy of state to respond to requests for assistance in courteous and judicious manner).",
+      "resource": "The fact that Ostrander arrested Bell, impounded his car, and apparently stranded Wood in a high-crime area at 2:30 a.m. distinguishes Wood from the general public and triggers a duty of the police to afford her some measure of peace and safety.  See White v. Rochford, 592 F.2d at 384 and n. 6 (and authorities cited therein).  See also Chambers-Castenes v. King Co., 100 Wash.2d 275, 669 P.2d 451 (1983);  ...  (policy of state to respond to requests for assistance in courteous and judicious manner).1"
+    },
+    {
+      "similarity": 0.99653,
+      "cap": "On September 23, 1984, White v. Rockford, 592 F.2d 381 (7th Cir.1979), was the one and only case in all American jurisprudence holding — even inferentially — that an arresting officer owed a duty to passengers (children) in a car “to conduct an arrest in such a manner that the children’s interest in personal security was not infringed.” (concurring opinion, Id. at 388).",
+      "resource": "On September 23, 1984, White v. Rochford, 592 F.2d 381 (7th Cir.1979), was the one and only case in all American jurisprudence holding--even inferentially--that an arresting officer owed a duty to passengers (children) in a car \"to conduct an arrest in such a manner that the children's interest in personal security was not infringed.\"    (concurring opinion, Id. at 388)."
+    },
+    {
+      "similarity": 0.99669,
+      "cap": "Joshua [DeShaney] and his mother brought this action under 42 U.S.C. § 1983 in the United States District Court for the Eastern District of Wisconsin against respondents Winnebago County, its Department of Social Services, and various employees of the Department. The complaint alleged that respondents had deprived Joshua of his liberty without due process of law, in violation of his rights under the Fourteenth Amendment, by failing to intervene to protect him against a risk of violence at his father’s hands of which they knew or should have known.",
+      "resource": "Joshua [DeShaney] and his mother brought this action under 42 U.S.C. Sec. 1983 in the United States District Court for the Eastern District of Wisconsin against respondents Winnebago County, its Department of Social Services, and various employees of the Department.  The complaint alleged that respondents had deprived Joshua of his liberty without due process of law, in violation of his rights under the Fourteenth Amendment, by failing to intervene to protect him against a risk of violence at his father's hands of which they knew or should have known."
+    },
+    {
+      "similarity": 0.99707,
+      "cap": "For reasons detailed in this dissent, I do not agree that White v. Rockford, 592 F.2d 381 (7th Cir.1979) was “clearly established” law in 1984 with reference to the substantive due process issue in this case. I do not believe that White is precedential authority post DeShaney, for the proposition that Ostrander “acted with deliberate indifference to Wood’s interest in personal security under the fourteenth amendment.”",
+      "resource": "For reasons detailed in this dissent, I do not agree that White v. Rochford, 592 F.2d 381 (7th Cir.1979) was \"clearly established\" law in 1984 with reference to the substantive due process issue in this case.  I do not believe that White is precedential authority post DeShaney, for the proposition that Ostrander \"acted with deliberate indifference to Wood's interest in personal security under the fourteenth amendment.\""
+    },
+    {
+      "similarity": 0.9971,
+      "cap": "To repeat, the State did not create the unknown dangers, whatever they were, that Wood faced when she decided to accept a ride from a stranger rather than choose one of the other options that were available to her.",
+      "resource": "To repeat, the State did not create the unknown dangers, whatever they were, that Wood faced when she decided to accept a ride from a stranger rather than choose one of the other options that were available to her.4"
+    },
+    {
+      "similarity": 0.99737,
+      "cap": "The Supreme Court has recently adopted the standard of deliberate indifference as the culpability standard necessary to establish section 1983 liability of a municipality based upon a claim that the municipality’s lack of training for police officers was a policy causing a violation of a constitutional right of a person subject to police action. City of Canton v. Hams, — U.S. -, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989). The Court in Canton expressly reserved the question whether the deliberate indifference standard would also apply to “an underlying claim of a constitutional violation.” City of Canton v. Harris, 109 S.Ct. at 1204 n. 8. Despite this reservation, however, Canton calls into question our statements in Fargo and in our prior opinion in this case that, a showing of gross negligence will suffice to establish the requisite level of fault in a section 1983 action against an individual state actor such as Trooper Ostrander.",
+      "resource": "The Supreme Court has recently adopted the standard of deliberate indifference as the culpability standard necessary to establish section 1983 liability of a municipality based upon a claim that the municipality's lack of training for police officers was a policy causing a violation of a constitutional right of a person subject to police action.  City of Canton v. Harris, --- U.S. ----, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989).  The Court in Canton expressly reserved the question whether the deliberate indifference standard would also apply to \"an underlying claim of a constitutional violation.\"    City of Canton v. Harris, 109 S.Ct. at 1204 n. 8.    Despite this reservation, however, Canton calls into question our statements in Fargo and in our prior opinion in this case that a showing of gross negligence will suffice to establish the requisite level of fault in a section 1983 action against an individual state actor such as Trooper Ostrander."
+    },
+    {
+      "similarity": 0.9976,
+      "cap": "Wood also has raised at least a triable issue (if not an undisputed one) regarding Ostrander’s knowledge of the danger: official crime reports show that the area where Wood was stranded had the highest violent crime rate in the county outside the City of Tacoma. Ostrander, a state trooper stationed in that area since 1981, may well be chargeable with knowledge of these facts. Moreover, the inherent danger facing a woman left alone at night in an unsafe area is a matter of common sense. Cf. White v. Rockford, supra.",
+      "resource": "Wood also has raised at least a triable issue (if not an undisputed one) regarding Ostrander's knowledge of the danger:  official crime reports show that the area where Wood was stranded had the highest violent crime rate in the county outside the City of Tacoma.  Ostrander, a state trooper stationed in that area since 1981, may well be chargeable with knowledge of these facts.  Moreover, the inherent danger facing a woman left alone at night in an unsafe area is a matter of common sense.  Cf. White v. Rochford, supra."
+    },
+    {
+      "similarity": 0.9978,
+      "cap": "The Opinion observes (n. 4) that “The genesis of this notion [a special relationship] appears to lie in a statement in our opinion in Martinez v. California, 444 U.S. 277 [100 S.Ct. 553, 62 L.Ed.2d 481] (1980). In that case, we were asked to decide, inter alia, whether state officials could be held liable under the Due Process Clause of the Fourteenth Amendment for the death of a private citizen at the hands of a parolee. Rather than squarely confronting the question presented here — whether the Due Process Clause imposed upon the State an affirmative duty to- protect — we affirmed the dismissal of the claim on the narrower ground that the causal connection between the state officials’ decision to release the parolee from prison and the murder was too attenuated to establish a ‘deprivation’ of constitutional rights within the meaning of § 1983.”",
+      "resource": "The Opinion observes (n. 4) that \"The genesis of this notion [a special relationship] appears to lie in a statement in our opinion in Martinez v. California, 444 U.S. 277 [100 S.Ct. 553, 62 L.Ed.2d 481] (1980).  In that case, we were asked to decide, inter alia, whether state officials could be held liable under the Due Process Clause of the Fourteenth Amendment for the death of a private citizen at the hands of a parolee.  Rather than squarely confronting the question presented here--whether the Due Process Clause imposed upon the State an affirmative duty to protect--we affirmed the dismissal of the claim on the narrower ground that the causal connection between the state officials' decision to release the parolee from prison and the murder was too attenuated to establish a 'deprivation' of constitutional rights within the meaning of Sec. 1983.\""
+    }
+  ]
+}

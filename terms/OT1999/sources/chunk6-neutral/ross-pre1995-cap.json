@@ -1,0 +1,1256 @@
+{
+  "id": 10540983,
+  "name": "Ollie Belle ROSS, individually and as Administrator of the Estate of William Ross, deceased, Plaintiff-Appellant, v. UNITED STATES of America, County of Lake in State of Illinois, Clinton O. Grinnell, Sheriff of Lake County,* Gordon Johnson, Deputy Sheriff, City of Waukegan, Waukegan Fire Department and Paramedics, and Waukegan Lifeguards, Defendants-Appellees",
+  "name_abbreviation": "Ross v. United States",
+  "decision_date": "1990-08-16",
+  "docket_number": "No. 89-3318",
+  "first_page": "1422",
+  "last_page": "1434",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "910 F.2d 1422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "7th Cir.",
+    "id": 9010,
+    "name": "United States Court of Appeals for the Seventh Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "109 L.Ed.2d 496",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 2167",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "882 F.2d 1180",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1820963
+      ],
+      "pin_cites": [
+        {
+          "page": "1187"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/882/1180-01"
+      ]
+    },
+    {
+      "cite": "110 S.Ct. 3177",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6220451
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "court of appeals decision does not bind Supreme Court"
+        },
+        {
+          "parenthetical": "court of appeals decision does not bind Supreme Court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0871-01"
+      ]
+    },
+    {
+      "cite": "632 F.2d 680",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1417269
+      ],
+      "pin_cites": [
+        {
+          "page": "683"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/632/0680-01"
+      ]
+    },
+    {
+      "cite": "819 F.2d 174",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1710277
+      ],
+      "pin_cites": [
+        {
+          "page": "177-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/819/0174-01"
+      ]
+    },
+    {
+      "cite": "836 F.2d 346",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10543550
+      ],
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/836/0346-01"
+      ]
+    },
+    {
+      "cite": "104 L.Ed.2d 661",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 2099",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "864 F.2d 463",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10528881
+      ],
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/864/0463-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 327",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204748
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0327-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "738 F.2d 1443",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        661759
+      ],
+      "pin_cites": [
+        {
+          "page": "1448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/738/1443-01"
+      ]
+    },
+    {
+      "cite": "79 L.Ed.2d 720",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 1325",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "465 U.S. 1049",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11379344,
+        11379371
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/1049-01",
+        "/us/465/1049-02"
+      ]
+    },
+    {
+      "cite": "715 F.2d 1200",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1882240
+      ],
+      "pin_cites": [
+        {
+          "page": "1202"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/715/1200-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 635",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28199
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "640"
+        },
+        {
+          "page": "3039"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0635-01"
+      ]
+    },
+    {
+      "cite": "814 F.2d 1142",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1684384
+      ],
+      "pin_cites": [
+        {
+          "page": "1147-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/814/1142-01"
+      ]
+    },
+    {
+      "cite": "729 F.2d 903",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1938882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/729/0903-01"
+      ]
+    },
+    {
+      "cite": "797 F.2d 538",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1615098
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "539"
+        },
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/797/0538-01"
+      ]
+    },
+    {
+      "cite": "900 F.2d 101",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10527590
+      ],
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/900/0101-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209946
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "823-24"
+        },
+        {
+          "page": "2436-37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0808-01"
+      ]
+    },
+    {
+      "cite": "383 U.S. 715",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175285
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0715-01"
+      ]
+    },
+    {
+      "cite": "865 F.2d 920",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532566
+      ],
+      "pin_cites": [
+        {
+          "page": "922"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/865/0920-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174258
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "16-17"
+        },
+        {
+          "page": "2421-22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0001-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1343",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "475 U.S. 469",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204596
+      ],
+      "weight": 10,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "478-79"
+        },
+        {
+          "page": "1297-98"
+        },
+        {
+          "page": "479-80"
+        },
+        {
+          "page": "1298-99"
+        },
+        {
+          "page": "480-81"
+        },
+        {
+          "page": "1298-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0469-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 378",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032186
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0378-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 809",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 1338",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "847 F.2d 1211",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1778442
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "1220-23"
+        },
+        {
+          "page": "1223"
+        },
+        {
+          "page": "1218-20"
+        },
+        {
+          "page": "1218"
+        },
+        {
+          "page": "1219"
+        },
+        {
+          "page": "1219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/847/1211-01"
+      ]
+    },
+    {
+      "cite": "903 F.2d 499",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536339
+      ],
+      "pin_cites": [
+        {
+          "page": "502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/903/0499-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 6,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1003-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 658",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490618
+      ],
+      "weight": 5,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "694"
+        },
+        {
+          "page": "2037-38"
+        },
+        {
+          "page": "694-95"
+        },
+        {
+          "page": "2037-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0658-01"
+      ]
+    },
+    {
+      "cite": "27 App.D.C. 154",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1337319
+      ],
+      "pin_cites": [
+        {
+          "page": "163-64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/27/0154-01"
+      ]
+    },
+    {
+      "cite": "766 F.2d 265",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        343708
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "269"
+        },
+        {
+          "page": "269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/766/0265-01"
+      ]
+    },
+    {
+      "cite": "873 F.2d 1069",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537353
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1072"
+        },
+        {
+          "page": "1072"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/873/1069-01"
+      ]
+    },
+    {
+      "cite": "73 Ill.Dec. 144",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "150"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "453 N.E.2d 1133",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1139"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Ill.App.3d 933",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3482151
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "942"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/117/0933-01"
+      ]
+    },
+    {
+      "cite": "126 N.E.2d 836",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ill.2d 614",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        2703925
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/5/0614-01"
+      ]
+    },
+    {
+      "cite": "59 Ill.Dec. 461",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "431 N.E.2d 1218",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1220"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Ill.App.3d 806",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        5484237
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/103/0806-01"
+      ]
+    },
+    {
+      "cite": "48 Ill.Dec. 947",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "948-50",
+          "parenthetical": "fifteen-year old boy"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 N.E.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "680-82",
+          "parenthetical": "fifteen-year old boy"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Ill.App.3d 505",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3133379
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "509",
+          "parenthetical": "fifteen-year old boy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/93/0505-01"
+      ]
+    },
+    {
+      "cite": "84 Ill.Dec. 807",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "810",
+          "parenthetical": "nine-year old boy"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "472 N.E.2d 1203",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1206",
+          "parenthetical": "nine-year old boy"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Ill.App.3d 628",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3490147
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "631-32",
+          "parenthetical": "nine-year old boy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/129/0628-01"
+      ]
+    },
+    {
+      "cite": "105 Ill.Dec. 394",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "396",
+          "parenthetical": "nine-year old girl"
+        },
+        {
+          "page": "396",
+          "parenthetical": "\"Contrary to the plaintiffs' assertions, the real and obvious danger was the river.\""
+        },
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "504 N.E.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "265",
+          "parenthetical": "nine-year old girl"
+        },
+        {
+          "page": "265"
+        },
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ill.App.3d 202",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3574248
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "204-05",
+          "parenthetical": "nine-year old girl"
+        },
+        {
+          "page": "204-05"
+        },
+        {
+          "page": "205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/152/0202-01"
+      ]
+    },
+    {
+      "cite": "109 Ill.Dec. 31",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "36-37",
+          "parenthetical": "fourteen-year old boy"
+        },
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "509 N.E.2d 692",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "697-98",
+          "parenthetical": "fourteen-year old boy"
+        },
+        {
+          "page": "695"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Ill.App.3d 62",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3505152
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "66-67",
+          "parenthetical": "fourteen-year old boy"
+        },
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/156/0062-01"
+      ]
+    },
+    {
+      "cite": "137 Ill.Dec. 453",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "457-58",
+          "parenthetical": "boy in ninth grade"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "546 N.E.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "81-82",
+          "parenthetical": "boy in ninth grade"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Ill.App.3d 833",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2517850
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "boy in ninth grade"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/190/0833-01"
+      ]
+    },
+    {
+      "cite": "140 Ill.Dec. 780",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "781-82",
+          "parenthetical": "five- and seven-year old children"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "550 N.E.2d 665",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "666-67",
+          "parenthetical": "five- and seven-year old children"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "193 Ill.App.3d 963",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2496817
+      ],
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "964-67",
+          "parenthetical": "five- and seven-year old children"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/193/0963-01"
+      ]
+    },
+    {
+      "cite": "22 Ill.Dec. 701",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "704"
+        },
+        {
+          "page": "705"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 N.E.2d 177",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "180"
+        },
+        {
+          "page": "181"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 Ill.2d 316",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        5440682
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "326"
+        },
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/73/0316-01"
+      ]
+    },
+    {
+      "cite": "80 Ill.Dec. 40",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "44"
+        },
+        {
+          "page": "44",
+          "parenthetical": "seven-year old boy"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 N.E.2d 1023",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1027"
+        },
+        {
+          "page": "1027"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Ill.2d 278",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        3156283
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "286"
+        },
+        {
+          "page": "286-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-2d/102/0278-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1346",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 2671-2680",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "697 F.Supp. 974",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7400484
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "981-83"
+        },
+        {
+          "page": "981"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/697/0974-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1769,
+    "char_count": 42647,
+    "ocr_confidence": 0.759,
+    "pagerank": {
+      "raw": 6.853749360892233e-07,
+      "percentile": 0.9643558369619233
+    },
+    "sha256": "051349f53d4e1c76bac52adb2e9500cfcf01c6cf6f1e9dd39de70348e8e264bc",
+    "simhash": "1:5a8067938b9f2f15",
+    "word_count": 6878
+  },
+  "last_updated": "2024-02-27T23:42:56.070486+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WOOD, Jr., and RIPPLE, Circuit Judges, and CRABB, District Judge."
+    ],
+    "parties": [
+      "Ollie Belle ROSS, individually and as Administrator of the Estate of William Ross, deceased, Plaintiff-Appellant, v. UNITED STATES of America, County of Lake in State of Illinois, Clinton O. Grinnell, Sheriff of Lake County, Gordon Johnson, Deputy Sheriff, City of Waukegan, Waukegan Fire Department and Paramedics, and Waukegan Lifeguards, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "HARLINGTON WOOD, Jr., Circuit Judge.\nThe allegations in the plaintiffs complaint portray a stunning abuse of governmental power. Because we review this case after successful motions for summary judgment and for dismissal of the complaint, we have taken the facts in the light most favorable to the nonmoving plaintiff and have drawn all possible inferences in her favor. Thus, we have outlined the facts with these principles in mind, and our recitation should not be interpreted as an opinion on the veracity of any of the plaintiff's allegations. In addition, it should be remembered that none of the actors in this tragedy have had their day in court to disprove the plaintiffs claims.\nI.\nA. Factual Background\nOn August 11, 1985, the city of Wauke-gan, Illinois, held the Waukegan Lakefront Festival on the shores of Lake Michigan. Twelve-year old William Ross attended the event but abandoned the day\u2019s organized activities for a stroll with a friend on a breakwater that extended out into the lake. At the tip of the breakwater, William fell into the water and sank. Immediately, William\u2019s friend ran for help.\nThe plea of William\u2019s friend was answered promptly by on-duty Waukegan emergency personnel located at the nearby festival. Within ten minutes of William\u2019s entry into the water, two lifeguards, two firefighters, and one police officer were on the scene with equipment to effect a rescue. In addition, two nearby scuba-diving civilians offered the assistance of themselves, their boat, and their equipment.\nBefore any rescue attempt could begin, however, Lake County Deputy Sheriff Gordon Johnson arrived in a marine patrol boat. The city of Waukegan and Lake County had previously entered into an intergovernmental agreement that required the county to provide all police services in the entities\u2019 concurrent jurisdiction on Lake Michigan. Under its authority to police the lake, the county and its sheriff had promulgated a policy that directed all members of the sheriffs department to prevent any civilian from attempting to rescue a person in danger of drowning in the lake. This policy contemplated that only divers from the city of Waukegan Fire Department could carry out such a rescue.\nWith this policy in mind, Deputy Johnson ordered all of the persons then on the scene to cease their rescue efforts. When the civilian scuba divers stated that they would attempt the rescue at their own risk, Johnson responded that he would arrest them upon their entry into the water and even positioned his boat so as to prevent their dive. A Waukegan police officer agreed that Johnson had authority over the scene and advised his fellow city employees that they should heed Johnson\u2019s instructions.\nA full twenty minutes after the initial rescuers arrived at the scene and approximately thirty minutes after the boy had fallen into the water, the officially authorized divers finally retrieved William\u2019s body. Although William showed clinical signs of life after being pulled from the water, he was declared dead the following morning. For purposes of our decision, we must assume that William would have survived had Deputy Johnson not stopped the initial rescuers.\nThe United States Army Corps of Engineers built and maintained the breakwater. At the point where William fell off, part of the breakwater had broken away and had exposed a large crack. At the crack, the pitch of the breakwater\u2019s sloping angle suddenly became more pronounced and likely contributed to William\u2019s fall. Although the Army Corps of Engineers was aware of the breakwater\u2019s condition, it did nothing to repair the crack.\nB. Proceedings Below\nWilliam\u2019s mother, Ollie Belle Ross, brought this suit in her individual capacity and in her capacity as administrator for William\u2019s estate. Because the Army Corps of Engineers owned the breakwater, the complaint named the United States of America as one defendant. Under 42 U.S.C. \u00a7 1983, the plaintiff sued Deputy Johnson in both his individual and official capacity, alleging that Johnson violated William\u2019s civil rights by interposing state power to prevent rescue. The city of Waukegan, the sheriff of Lake County, and the county itself were sued for promulgating policies that led Deputy Johnson to prevent William\u2019s rescue. In addition, the plaintiff asserted pendent state-law claims against the nonfederal defendants. The plaintiff voluntarily dismissed with prejudice her claims against other defendants not relevant to this appeal.\nThe case was referred to a magistrate, who heard motions to dismiss by all non-federal defendants. The magistrate recommended that the district court deny these motions, and Judge Bua adopted this recommendation. Unsuccessful on his motion to dismiss the complaint for failure to state a claim, Deputy Johnson asserted qualified immunity and moved for summary judgment, but because the same law firm represented the potentially conflicting interests of the deputy and the county, the plaintiff moved that the law firm be disqualified. The magistrate denied the motion to disqualify but recommended that the district court grant Deputy Johnson\u2019s motion for summary judgment. While these proceedings were taking place, the case was reassigned from Judge Bua to Judge Zagel.\nJudge Zagel adopted the magistrate\u2019s recommendation and granted summary judgment to Deputy Johnson. Hoping to cure defects, the plaintiff filed a first amended complaint. The nonfederal defendants then received leave to file a renewed motion to dismiss the complaint, which Judge Zagel granted. See Ross v. United States, 697 F.Supp. 974 (N.D.Ill.1988). At the same time, the United States successfully sought dismissal of the claims against itself. See id. at 981-83. In a subsequent, unpublished decision, Judge Zagel considered retaining jurisdiction over the plaintiff\u2019s state-law claims but ultimately decided that these claims should be dismissed without prejudice to refile in state court. On the grounds that no defects in the pleadings could be cured, the plaintiff was also denied leave to file a second amended complaint.\nRoss has now appealed the district court\u2019s decision to this court, asserting that the district court made various errors as to each of the defendants. Specifically, she claims that the district court erred in dismissing the substance of her complaint and in ruling that Deputy Johnson was entitled to qualified immunity. Also, Ross argues that she should have been allowed leave to file a second amended complaint and that the county\u2019s law firm should be disqualified from further representation of either the county or Deputy Johnson. Finally, Ross claims that because of the advanced state of the litigation, the district court at least should have retained jurisdiction over her pendent state-law claims.\nII.\nA. Tort Liability of the United States\nThe plaintiff's claim against the United States arises under the Federal Tort Claims Act, 28 U.S.C. \u00a7\u00a7 2671-2680, and relies on the status of the United States as owner of the breakwater. Under these circumstances, the federal government is liable to the same extent that a private landowner would be liable under Illinois law. See 28 U.S.C. \u00a7\u00a7 1346(b), 2674.\nPrivate Illinois landowners do not guarantee the safety of children on their land. A landowner is under a duty to protect children from negligence only if (1) the landowner knows that children frequent the premises and (2) a dangerous condition exists on the land that is likely to cause injury to children who, by reason of their immaturity, are incapable of appreciating the risk involved. Cope v. Doe, 102 Ill.2d 278, 286, 464 N.E.2d 1023, 1027, 80 Ill.Dec. 40, 44 (1984); Corcoran v. Village of Libertyville, 73 Ill.2d 316, 326, 383 N.E.2d 177, 180, 22 Ill.Dec. 701, 704 (1978).\nEven assuming that the United States government, acting through the Army Corps of Engineers, should have known that children frequented its breakwater, the plaintiff cannot show that William was incapable of appreciating the risk involved. The risk involved in this case was the possibility that William would fall off the breakwater and drown. Agreeing with the Restatement (Second) of Torts, a legion of Illinois cases have held that the risk of drowning is one generally appreciated by children, even children of a much lesser age than twelve-year old William. E.g., Cope, 102 Ill.2d at 286-87, 464 N.E.2d at 1027, 80 Ill.Dec. at 44 (seven-year old boy); Wingate v. Camelot Swim Club, Inc., 193 Ill.App.3d 963, 964-67, 550 N.E.2d 665, 666-67, 140 Ill.Dec. 780, 781-82 (1990) (five- and seven-year old children); Hagy v. McHenry County Conservation Dist., 190 Ill.App.3d 833, 546 N.E.2d 77, 81-82, 137 Ill.Dec. 453, 457-58 (1989) (boy in ninth grade); Old Second Nat\u2019l Bank v. Aurora Township, 156 Ill.App.3d 62, 66-67, 509 N.E.2d 692, 697-98, 109 Ill.Dec. 31, 36-37 (1987) (fourteen-year old boy); Christon v. Kankakee Valley Boat Club, 152 Ill.App.3d 202, 204-05, 504 N.E.2d 263, 265, 105 Ill.Dec. 394, 396 (1987) (nine-year old girl); Weber v. Village of Carol Stream, 129 Ill.App.3d 628, 631-32, 472 N.E.2d 1203, 1206, 84 Ill.Dec. 807, 810 (1984) (nine-year old boy); Prince v. Wolf, 93 Ill.App.3d 505, 509, 417 N.E.2d 679, 680-82, 48 Ill.Dec. 947, 948-50 (1981) (fifteen-year old boy); see also Restatement (Seoond) of Torts \u00a7 339 comment j (1965) (\u201cThere are many dangers, such as those of fire and water, or of falling ^from a height, which under ordinary conditions may reasonably be expected to be fully understood and appreciated by any child of an age to be allowed at large.\u201d). Because the risk of falling off the breakwater and drowning is one generally appreciated by children of William\u2019s age, the United States, as a landowner, did not owe William a duty to protect him from this harm.\nUnderstandably, the plaintiff places some reliance on Pasierb v. Hanover Park Park District, 103 Ill.App.3d 806, 431 N.E.2d 1218, 59 Ill.Dec. 461 (1981), one of the few Illinois cases to impose landowner liability for a drowned child since the Illinois Supreme Court jettisoned the attractive nuisance doctrine in Kahn v. James Burton Co., 5 Ill.2d 614, 126 N.E.2d 836 (1955). The Pasierb court believed that a layer of ice and snow, completely disguising the location of a partially frozen creek, made for conditions where a child would not be able to discern the danger. Id. at 808-09, 431 N.E.2d at 1220, 59 Ill.Dec. at 463. Arguably, the conditions of the creek in Pasierb would even had made the danger unknown to an adult. Despite the best efforts of the plaintiff to cast her complaint in the rhetoric of Pasierb, no similar conditions exist in this case. William was certainly aware that Lake Michigan lurked a few feet away at the bottom of the sloping breakwater.\nIn an attempt to break from the authority of the Illinois cases, the plaintiff asserts that Illinois law only raises a presumption that children understand the risk of drowning in water. She wants a chance to go before a jury and prove that the circumstances of this case made William unable to appreciate the risk. Nevertheless, the plaintiff fails to explain why many of the Illinois cases were resolved prior to trial, without evidence as to the maturity of the particular child in question. The Illinois courts have flatly stated that the test is an objective one, and the existence of a legal duty has traditionally been allocated to the court as a question of law. Old Second Nat\u2019l Bank, 156 Ill.App.3d at 66, 509 N.E.2d at 695, 109 Ill.Dec. at 34; Fuller v. Justice, 117 Ill.App.3d 933, 942, 453 N.E.2d 1133, 1139, 73 Ill.Dec. 144, 150 (1983). Following the Illinois precedents, we are satisfied that we have all of the pertinent facts necessary for a resolution of this issue, and there is no need for further factual development. The issue is ripe for resolution on the pleadings.\nMuch of the plaintiffs argument is devoted to casting the breakwater as a menacing hazard, so \u201cdangerously slanted\u201d that a young boy would not appreciate the risk of falling. In the plaintiffs proffered second amended complaint, the breakwater becomes an even greater danger, with a half-hidden crack \u201cmaking the pitch of the sloping angle of the Breakwater\u2019s surface\u201d much more pronounced. Thus, according to the plaintiff, the hazard in this case was not Lake Michigan but the breakwater itself. No matter how the plaintiff attempts to dress it, the risk involved in this case is nothing more than the risk of falling and drowning. See Corcoran, 73 Ill.2d at 328, 383 N.E.2d at 181, 22 Ill.Dec. at 705 (\u201cIt is apparent that, in spite of plaintiffs\u2019 attempts to characterize the ditch as one with particularly hazardous attributes, the pleadings ... allege nothing more than the risk of falling into a ditch, a risk which is incident to any common ditch or obvious depression in the ground and' one which children generally would be expected to recognize and appreciate.\u201d); Christon, 152 Ill.App.3d at 204-05, 504 N.E.2d at 265, 105 Ill.Dec. at 396 (\u201cContrary to the plaintiffs\u2019 assertions, the real and obvious danger was the river.\u201d). The court in Christon held that children appreciate such a risk, and we agree. See 152 Ill.App.3d at 205, 504 N.E.2d at 265, 105 Ill.Dec. at 396. Because the plaintiff\u2019s second amended complaint did not cure these defects, the district court did not abuse its discretion in denying leave to file it against the United States. E.g., Williams v. United States Postal Serv., 873 F.2d 1069, 1072 (7th Cir.1989); Glick v. Koenig, 766 F.2d 265, 269 (7th Cir.1985).\nAll waterfront landowners cannot be expected to guard against the risk that a boy will find the water an attractive playground. \u201cEvery man who has been brought up with the freedom allowed to American boys knows that you might as well try to dam the Nile with bulrushes as to keep boys away from ponds, pools and other bodies of water.\u201d Sullivan v. Huidekoper, 27 App.D.C. 154, 163-64 (D.C.Cir.1906). Recognizing a legal duty on the part of the United States to protect William from harm on the breakwater would be akin to imposing a rule of absolute liability. Because Illinois law only imposes liability on landowners for those harms that are foreseeable, the United States was properly dismissed as a defendant from the suit.\nB. Liability of the City of Waukegan\nAs a municipal entity, the city of Waukegan can only be liable if it had an official policy or custom that caused an injury to be inflicted on the plaintiff. Monell v. Department of Social Servs., 436 U.S. 658, 694, 98 S.Ct. 2018, 2037-38, 56 L.Ed.2d 611 (1978). To present her case in these terms, the plaintiff alleges that the city had a policy directing its employees to acquiesce in the unconstitutional actions and policies of the county. Thus, under the plaintiffs theory, the city would be liable because its policy caused city emergency personnel to stand idly by while Deputy Johnson forbade efforts to rescue William.\nStripped of their surplusage, the plaintiffs allegations stand for nothing more than the proposition that the city of Wauk-egan\u2019s emergency personnel followed established procedure and thereby failed to save William from drowning. Absent a constitutional duty to provide these rescue services, however, the city cannot be held liable. On this point, we need do no more than cite the line of precedent from the Supreme Court and this court, holding that the government\u2019s failure to provide essential services does not violate the Constitution. See DeShaney v. Winnebago County Dep't of Social Servs., 489 U.S. 189, 109 S.Ct. 998, 1003-07, 103 L.Ed.2d 249 (1989); Doe v. Milwaukee County, 903 F.2d 499, 502 (7th Cir.1990); Archie v. City of Racine, 847 F.2d 1211, 1220-23 (7th Cir.1988) (en banc), cert. denied, - U.S.-, 109 S.Ct. 1338, 103 L.Ed.2d 809 (1989). The plaintiff\u2019s allegations of municipal policy cannot surmount the main obstacle to her claim: the city simply had no constitutional obligation to save William's life.\nBeyond liability under a traditional municipal liability theory, the plaintiff also advances a novel proposition. Because of the intergovernmental agreement, the county and not the city was the governmental unit with employees on the scene who had the authority to direct the rescue. The plaintiff argues that the city should not be allowed to escape section 1983 liability by abdicating its responsibility to police Lake Michigan and make policy about water rescues. Of course, as we just noted above, the city of Waukegan has no constitutional responsibility to provide any kind of police services on the lake, giving the city a compelling argument that it makes no difference what it decides to do about patrols on Lake Michigan. Nevertheless, a case could arise where a governmental entity transfers its policy-making authority so that it would be consistent with principles of municipal liability to hold the entity constitutionally responsible. This is not such a case.\nAt most, the city of Waukegan had concurrent jurisdiction with Lake County over shoreline patrols of Lake Michigan. The Illinois Constitution not only permits but encourages the use of intergovernmental agreements to coordinate the efforts of local governmental units. See III. Const. art. VII, \u00a7 10. Following the directives of their own state constitution, the city and county properly agreed to eliminate costly overlapping efforts, leaving the county with the city\u2019s patrol boat and sole responsibility for Lake Michigan emergency services. It is clear that this arrangement was not merely a method for the city to escape legal liability. Under the agreement, the city had no authority to influence the county\u2019s procedures, and imposing liability on the city for the county\u2019s policies would effectively be the respondeat superi- or liability that the Supreme Court has soundly condemned. See, e.g., City of Canton v. Harris, 489 U.S. 378, 109 S.Ct. 1197, 1203, 103 L.Ed.2d 412 (1989); Pembaur v. City of Cincinnati, 475 U.S. 469, 478-79, 106 S.Ct. 1292, 1297-98, 89 L.Ed.2d 452 (1986); Monell, 436 U.S. at 694-95, 98 S.Ct. at 2037-38. We agree with the city that a contrary result would read potential section 1983 liability into every intergovernmental agreement in the state of Illinois.\nA couple of procedural points need to be addressed. As was the case with her claim against the United States, the plaintiff\u2019s second amended complaint failed to cure the defects in her suit against the city, and consequently, it was not an abuse of discretion for the district court to deny leave to file it. E.g., Williams v. United States Postal Serv., 873 F.2d 1069, 1072 (7th Cir.1989); Glick v. Koenig, 766 F.2d 265, 269 (7th Cir.1985). In her second amended complaint, the plaintiff added more details as to the events surrounding William\u2019s death but changed little of substance. The second amended complaint, like her previous complaints, fails to show some constitutional duty that the city owed to William.\nThe plaintiff has also asserted numerous state law claims against the city, but because all federal claims were dismissed, some kind of pendent jurisdictional basis would be the only justification to retain the city as a defendant in the lawsuit. Whether the principles of pendent jurisdiction would ever provide a basis for retaining the city as a defendant in a lawsuit brought pursuant to 28 U.S.C. \u00a7 1343(3) and 42 U.S.C. \u00a7 1983 is doubtful. See Aldinger v. Howard, 427 U.S. 1, 16-17, 96 S.Ct. 2413, 2421-22, 49 L.Ed.2d 276 (1976); Huffman v. Hains, 865 F.2d 920, 922 (7th Cir.1989) (describing pendent party jurisdiction as an \u201cembattled concept\u201d). We need not resolve the issue here. The case has not proceeded past the pleading stage, and we cannot say that the district court abused its discretion in refusing to retain jurisdiction under the more general principles of pendent jurisdiction expressed in United Mine Workers v. Gibbs, 383 U.S. 715, 86 S.Ct. 1130, 16 L.Ed.2d 218 (1966). The city of Waukegan should be dismissed as a defendant to this suit.\nC. Liability of Lake County\nLike the city of Waukegan, Lake County can only be liable if one of its official policies or customs caused injury to William. We must accept as true the plaintiff\u2019s allegations that the county had a policy that required Deputy Johnson to prevent any unauthorized person from attempting to rescue another person in danger of drowning. As the complaint frames the facts, unauthorized persons on the scene could have saved William\u2019s life, making the policy a direct cause of his death.\nOn appeal, the county\u2019s main argument rests on statements made in the plurality opinion of City of Oklahoma City v. Tuttle, 471 U.S. 808, 823-24, 105 S.Ct. 2427, 2436-37, 85 L.Ed.2d 791 (1985), suggesting that proof of a single incident of unconstitutional activity is not sufficient to impose municipal liability unless it was the result of a facially unconstitutional policy. The county points out that the policy as alleged by the plaintiffs implies that the deputy on the scene could spontaneously authorize nearby civilians to attempt a rescue dive to save a drowning person. Thus, the policy does not necessarily contemplate that county deputies must cut off all means of private rescue, only that the deputies are imbued with a measure of discretion to balance the risk to private rescuers versus the likelihood that the victim will drown before waiting for an official rescue team to arrive. Using the county\u2019s theory, the policy is not facially unconstitutional, making the complaint defective because it only alleges a single application of the policy. This interpretation of the policy cuts against the rule that we take the plaintiffs allegations as true. More fundamentally, however, we believe that the county\u2019s argument was soundly rejected by the Supreme Court in Pembaur v. City of Cincinnati, 475 U.S. 469, 106 S.Ct. 1292, 89 L.Ed.2d 452 (1986).\nThe Pembaur Court made clear that the purpose of the \u201cofficial policy\u201d requirement is to distinguish between the act of a municipality and the acts of its employees. Id. at 479-80, 106 S.Ct. at 1298-99. Requiring proof of more than one application of an alleged policy helps to establish the existence of the policy and attribute any harm to the municipality. Where a particular course of action is authorized by a municipality\u2019s authorized de-cisionmakers, it represents a policy rightly attributed to the governmental entity, and in such a case, there is no need to resort to proof of the policy\u2019s multiple applications to attribute its existence to the municipality. See id. at 480-81, 106 S.Ct. at 1298-99; Yeskigian v. Nappi, 900 F.2d 101, 104 (7th Cir.1990). The plaintiff\u2019s complaint implies that the alleged policy came from the highest level of decisionmakers in the county government and in the sheriff\u2019s department. In such a case, even a single application of the policy is fairly attributed to the county.\nCausation alone, however, is not enough; the plaintiff is entitled to a remedy only if she suffered a constitutional injury. We find the plaintiff has sufficiently alleged that the county arbitrarily denied William his fourteenth amendment right to life. In dismissing the complaint, the district court ruled that to establish liability under section 1983, the plaintiff must allege a policy that is itself unconstitutional rather than application of an otherwise constitutional policy in an unconstitutional manner. We need not reach this issue, because we believe that the policy alleged by the plaintiff is itself unconstitutional.\nThe district court believed that the policy was merely one point in a range of policy choices that the county could make. See Ross v. United States, 697 F.Supp. 974, 981 (N.D.Ill.1988). Because the district court saw all of the county\u2019s alternatives as \u201crational,\u201d it believed the choice of an appropriate policy within that range was one for the legislature, not the judiciary. Id. Although a wide range of alternative policies certainly must have been available for the county\u2019s consideration, that fact alone does not relieve the county of its constitutional duty not to act toward its citizens in an arbitrary manner. For example, instead of handing out citations, a municipality could more effectively enforce its traffic laws by shooting the tires out of speeding motorists\u2019 cars. Even though it could be an alternative method of law enforcement, no one would question that shooting at the tires of scofflaw motorists would deprive the motorists of their right to due process of law.\nTo answer our hypothetical, one might argue that our proposed method of ensnaring speeders is \u201cirrational,\u201d while the alternative policy choices presented to Lake County were \u201crational.\u201d We think that such an analysis begs the question: what makes one policy \u201crational\u201d while the next policy is \u201cirrational\u201d? The distinction between \u201crational\u201d and \u201cirrational\u201d seems to be no different than stating the conclusion that one policy is \u201cconstitutional\u201d while the next policy is \u201cunconstitutional.\u201d Viewed in a traditional constitutional framework, the county\u2019s policy runs afoul of the fourteenth amendment.\nThis is not a case like DeShaney v. Winnebago County Department of Social Services, 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989) or Archie v. City of Racine, 847 F.2d 1211 (7th Cir.1988) (en banc), cert. denied, \u2014 U.S.-, 109 S.Ct. 1338, 103 L.Ed.2d 809 (1989). In those cases, the government\u2019s failure to provide services that would have saved a person from injury was held not to be a constitutionally cognizable claim. The plaintiff complains of a much different type of constitutional wrong. The plaintiff does not allege that the county had a policy of refusing to supply rescue services. Rather, the wrong suffered by the plaintiff and her decedent is the county\u2019s forced imposition of services that William did not want or need; the plaintiff alleges that the county had a policy of arbitrarily cutting off private sources of rescue without providing a meaningful alternative.\nIn Archie, we rejected a section 1983 plaintiff\u2019s claim that a municipality\u2019s failure to dispatch an ambulance to a dying woman was an unconstitutional deprivation of life. Nevertheless, we suggested that where the state \u201cgreatly increased the risk while constricting access to self-help,\u201d a constitutional injury occurred. 847 F.2d at 1223. \u201cWhen a state cuts off sources of private aid, it must provide replacement protection.\u201d Id. The plaintiff alleges that Lake County had a policy of cutting off private aid to drowning victims, even where the county\u2019s replacement protection would not effect a rescue. Because the county\u2019s policy led to the deprivation of William\u2019s constitutionally protected right to life, the plaintiff\u2019s claim is cognizable under section 1983.\nThe county argues that the policy alleged by the plaintiff does not evince a deliberate indifference or recklessness toward human life, either of which is a necessary prerequisite to a constitutional violation. See Archie, 847 F.2d at 1218-20. We take the policy alleged in the plaintiff\u2019s complaint at its face value. The plaintiff alleges that the county had a policy that prevented rescue even of persons \u201cin danger of drowning.\u201d Thus, as portrayed in the plaintiff\u2019s complaint, Lake County\u2019s policy not only tolerated a risk that someone might drown but actually contemplated that some persons would die for the sake of preventing harm to private rescuers. Protecting the lives of private rescuers rather than the lives of those drowning in the lake is an arbitrary choice. While no one suggests that the county desired to see people die in the waters of Lake Michigan, its alleged policy demonstrates a disregard for the value of the lives lost because of its enactment.\nWhether the plaintiff is later able to prove the existence of Lake County\u2019s policy is inconsequential to our decision. As we must, we reached our decision assuming the truth of the plaintiff\u2019s complaint, and our discussion does not relieve the plaintiff of her burden to eventually prove her case by a preponderance of the evidence. The allegations in the plaintiff\u2019s first amended complaint were sufficient to state a cause of action against Lake County and Sheriff Grinnell; there is no need to consider the plaintiff\u2019s claim that the district court should have allowed the filing of a second amended complaint. Similarly, because the district court dismissed the plaintiff\u2019s state law claims without considering their merits, those claims should be reinstated on remand. We turn now to the plaintiff\u2019s claim against Deputy Johnson in his individual capacity.\nD. Liability of Deputy Johnson\nBefore we consider the substance of the claims against Deputy Johnson, the plaintiff has raised a question about his lawyer\u2019s continued representation. Presumably financed by the county, the same law firm represents both Deputy Johnson and Lake County, which gives rise to a potential conflict of interest. Lake County\u2019s liability depends on the existence of the policy alleged in the plaintiffs complaint, but Deputy Johnson\u2019s cause will suffer if it is shown that he acted outside the authority of established county policies. The plaintiff raised this issue below, and the magistrate conditionally denied disqualification, contingent on the success of Deputy Johnson\u2019s motion for summary judgment. Of course, Johnson won his motion when the district court granted summary judgment to the deputy on the basis of qualified immunity.\nThe plaintiff failed to object to the magistrate\u2019s disqualification ruling, and normally that would waive the issue on appeal. Video Views, Inc. v. Studio 21, Ltd., 797 F.2d 538, 539 (7th Cir.1986). In promulgating this rule, we recognized its nonjurisdic-tional nature and stated that in special circumstances, the \u201cends of justice\u201d might require us to review a magistrate\u2019s decision to which an appealing party failed to object. Id. at 540. Here, the magistrate ruled conditionally, and the plaintiff\u2019s failure to object is understandable. If the condition did not occur, the magistrate would have reconsidered her ruling. Thus, this case arguably presents one of those special circumstances that warrant review of a magistrate\u2019s decision to which there was no objection. But we need not decide this issue. A decision to disqualify is an exercise of the court\u2019s discretion, and on appellate review, we decline to rest our ruling on the disqualification of the defendants\u2019 attorneys. Disqualification would send the parties back for new attorneys and new briefs, causing more delay in a case that has not proceeded past the pleading stage in four years. Neither Lake County\u2019s nor Deputy Johnson\u2019s cause has suffered in this court for want of competent representation.\nNevertheless, because we find that the plaintiff has stated a valid claim against Johnson, on remand the district court should revisit the disqualification issue. A serious potential for conflict exists in the differing interests of the county and its employee. While this circuit has rejected the almost absolute prohibition on dual representation of a municipality and its employees espoused in Dunton v. Suffolk County, 729 F.2d 903 (2d Cir.1984), we have remained sensitive to the fact that such conflicts can arise. See Coleman v. Smith, 814 F.2d 1142, 1147-48 (7th Cir.1987) (discussing issue although denying motion). It is not enough that the county would be liable for any compensatory damage award that Deputy Johnson would pay, see Ill.Rev.Stat. ch. 24, 111-4-6; Johnson will still suffer the effect of any punitive damages not to mention the injury to his reputation as a law enforcement officer. The law firm representing Johnson and Lake County has made every effort to avoid this conflict, but some conflicts are unavoidable. On remand, the district court should determine whether Deputy Johnson\u2019s interests are adverse to those of Lake County and, if these interests are diverse, whether the conflict is so severe that the interests of justice require disqualification even though both parties consent to the dual representation.\nIn our discussion of Lake County\u2019s liability, we held that William was illegally deprived of his life within the meaning of the fourteenth amendment. Because Deputy Johnson acted under the color of state law to cause this deprivation, he is liable unless he is entitled to qualified immunity on the grounds that the law was not clearly established at the time of the accident. We are mindful of the Supreme Court\u2019s admonition in Anderson v. Creighton, 483 U.S. 635, 640, 107 S.Ct. 3034, 3039, 97 L.Ed.2d 523 (1987) that the contours of the constitutional right in question \u201cmust be sufficiently clear that a reasonable official would understand that what he is doing violates that right.\u201d Consequently, we must decide whether it was clearly established on August 11, 1985, that a citizen in peril for his life had a constitutional right that prevented a police officer from cutting off private avenues of lifesaving rescue without providing an alternative. We believe that this right was clearly established on that date.\nIn 1983, we held that a police officer\u2019s failure to pull car accident victims from the burning wreckage was not a deprivation of life in violation of the fourteenth amendment, but in the course of that opinion we observed, \u201c[I]f officer Taylor, knowing the car was occupied and wanting the occupants to be burned to death, directed traffic away from the scene in order to prevent any passing driver from saving them, he would be liable.\u201d Jackson v. City of Joliet, 715 F.2d 1200, 1202 (7th Cir.1983), cert. denied, 465 U.S. 1049, 104 S.Ct. 1325, 79 L.Ed.2d 720 (1984). In 1984, we denied a section 1983 claim for deaths in a fire that occurred when Chicago police officers barred striking firefighters from entering a station house, but we agreed \u201cthat the state can deprive a person of life by directly inflicting harm on him or by preventing others from rescuing him.\u201d Jackson v. Byrne, 738 F.2d 1443, 1448 (7th Cir.1984). The point of quoting two passages of our dicta is not that we believe Deputy Johnson was an avid reader of the Federal Reporter and was aware of these statements. Rather, the passages demonstrate what has always been a fundamental tenet of our constitutional jurisprudence, even before the DeShaney and Archie decisions: the state cannot arbitrarily assert its power so as to cut short a person\u2019s life.\nTaking this abstract principle into the specific factual situation facing Deputy Johnson as Anderson says we must, a reasonable police officer in Deputy Johnson\u2019s position should have known that he could not use that authority to prevent private rescue efforts. When Johnson arrived on the scene, the complaint alleges that trained, on-duty rescue personnel were present. The identity of these persons should have been known to Johnson either through the uniforms they were wearing or through a few questions that Johnson could have quickly asked. There was simply no rational reason for Johnson to prefer \u201cauthorized\u201d but equally competent rescuers located away from the scene.\nFinally, Johnson argues that his actions were at most negligent, an insufficient mental state for a constitutional violation. See Davidson v. Cannon, 474 U.S. 344, 106 S.Ct. 668, 88 L.Ed.2d 677 (1986); Daniels v. Williams, 474 U.S. 327, 106 S.Ct. 662, 88 L.Ed.2d 662 (1986); Archie v. City of Racine, 847 F.2d 1211, 1218 (7th Cir.1988) (en banc), cert. denied, \u2014 U.S. -, 109 S.Ct. 1338, 103 L.Ed.2d 809 (1989). There is no suggestion in the complaint that Johnson maliciously desired the boy to die. But intent is not always required to establish a due process violation; our precedents have accepted recklessness as a proxy for actual intent. See, e.g., Bieneman v. City of Chicago, 864 F.2d 463, 466 (7th Cir.1988), cert. denied, \u2014 U.S.-, 109 S.Ct. 2099, 104 L.Ed.2d 661 (1989); Archie, 847 F.2d at 1219; Anderson v. Gutschenritter, 836 F.2d 346, 349 (7th Cir.1988). For recklessness in the constitutional sense, the state actor must ignore a known and significant risk of death. Archie, 847 F.2d at 1219.\nIn this case, the plaintiff has pleaded sufficient facts for a jury to conclude that Johnson acted in a reckless manner. When he arrived on the scene, Johnson knew that the boy had already been under the water for at least a few minutes, and because of his training, Johnson also knew that it could take as little as five minutes for a person to die by drowning. Either through their uniforms or through a quick inquiry, Johnson could have readily ascertained that the alternative on-site rescue personnel were qualified to save the drowning boy. Nevertheless, Johnson waited until twenty minutes later for the \u201cauthorized\u201d rescue squad to arrive. Using the facts alleged in the plaintiff\u2019s complaint, it is clear that Johnson knew there was a substantial risk of death yet consciously chose a course of action that ignored the risk. Such conduct is reckless.\nThe plaintiff has stated a cause of action against Johnson, and Johnson has failed to establish that he is qualifiedly immune. Becuase the district court dismissed them without reaching their merits, the pendent state claims should also be reinstated against Johnson.\nIII.\nUnderlying the defendants\u2019 arguments is the belief that the plaintiff will be unable at trial to prove any of the allegations in her complaint. That may be, but we have to accept those allegations as true, and the plaintiff has stated a section 1983 cause of action against the county defendants. The judgment of the district court dismissing the United States and the city of Wauke-gan defendants is affirmed. The judgments of the district court dismissing the Lake County defendants and granting summary judgment to Deputy Johnson are reversed. The case is remanded for further proceedings in accordance with this opinion. Circuit Rule 36 shall apply on remand. Each party shall bear their own costs.\nAffirmed in Part, Reversed in Part, and Remanded.\n. In their brief, defendants Lake County, Sheriff Grinnell, and Deputy Johnson imply that Ms. Ross's suit should be dismissed to the extent that she has sued in her individual capacity. These defendants contend that Ms. Ross has only alleged injuries to her deceased son and has asserted no right of recovery for herself. See Estate of Johnson v. Village of Libertyville, 819 F.2d 174, 177-78 (7th Cir.1987). Our examination of the complaint, however, reveals that Ms. Ross has asserted her own claim for reimbursement of her son's medical and funeral expenses pursuant to Ill.Rev.Stat. ch. 40, \u00b6 1015. Therefore, we decline the invitation to dismiss Ms. Ross from the suit in her individual capacity-\n. In addition to the City of Waukegan, the plaintiff also named the Waukegan Fire Department, the Waukegan Fire Department Paramedics, and Waukegan Lifeguards as party defendants. The plaintiff alleges that these entities are \"administrative subdivisions\u201d of the municipality but has not suggested that the liability of these entities differs in any way from that of the city. Therefore, our discussion of the city of Wauke-gan\u2019s liability applies equally to these administrative subdivisions.\n. Arguing law of the case, the plaintiff also takes exception to Judge Zagel\u2019s reversal of Judge Bua\u2019s previous decision. No matter what the relevance of the law of the case doctrine to district judges successively assigned to the same case, we are certainly not bound by either Judge Zagel's or Judge Bua\u2019s decision on appellate review. Champaign-Urbana News Agency, Inc. v. J.L. Cummins News Co., 632 F.2d 680, 683 (7th Cir.1980); see also Lujan v. National Wildlife Fed., - U.S.-, -n. 1, 110 S.Ct. 3177, 3185 n. 1, 111 L.Ed.2d 695 (1990) (court of appeals decision does not bind Supreme Court).\n. As alleged in the plaintiffs first amended complaint, the county had a policy that \"required Johnson to forbid and prevent any civilian, not explicitly authorized to do so, from attempting to rescue a person in danger of drowning, and to continue to restrain and prevent such rescue until the arrival of divers from the Waukegan Fire Department, even though the proximate result of such conduct would or could be the serious injury or death of the drowning victim.\u201d\n. We are mindful of the defendant's warning that the actions of the sheriff cannot be attributed to the county. See Thompson v. Duke, 882 F.2d 1180, 1187 (7th Cir.1989), cert. denied, - U.S. -, 110 S.Ct. 2167, 109 L.Ed.2d 496 (1990). Reading the complaint in a light most favorable to the plaintiff, however, the county and the sheriff acted together in promulgating the alleged policy. Thus, we use the term \"county\u201d in a loose sense, to denote the actions of both the sheriff and the county.",
+        "type": "majority",
+        "author": "HARLINGTON WOOD, Jr., Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Forrest L. Ingram, Kalish & Associates, Victor Potysman, Chicago, III, for plaintiff-appellant.",
+      "Daniel P. Field, Louis W. Brydges, Sr., Brydges, Riseborough, Morris, Franke & Miller, Waukegan, Ill., Nicholas Anaclerio, Jr., Darrell S. Dudzik, Brydges, Risebor-ough, Morris, Franke & Miller, Chicago, Ill., for County of Lake in State of Ill., Robert H. Babcock and Gordon Johnson.",
+      "Robert S. Markin, Jenner & Block, Chicago, Ill., for City of Waukegan.",
+      "Jeffrey D. Colman, Robert S. Markin, Glenn K. Seidenfeld, Jenner & Block, Chicago, Ill., for Waukegan Fire Dept, and Paramedics and Waukegan Lifeguards.",
+      "Anton R. Valukas, U.S. Atty., Gillum Ferguson, Asst. U.S. Atty., Office of the U.S. Atty., Chicago, Ill., for U.S."
+    ],
+    "corrections": "",
+    "head_matter": "Ollie Belle ROSS, individually and as Administrator of the Estate of William Ross, deceased, Plaintiff-Appellant, v. UNITED STATES of America, County of Lake in State of Illinois, Clinton O. Grinnell, Sheriff of Lake County, Gordon Johnson, Deputy Sheriff, City of Waukegan, Waukegan Fire Department and Paramedics, and Waukegan Lifeguards, Defendants-Appellees.\nNo. 89-3318.\nUnited States Court of Appeals, Seventh Circuit.\nArgued May 15, 1990.\nDecided Aug. 16, 1990.\nRehearing and Rehearing In Banc Denied Oct. 10, 1990.\nForrest L. Ingram, Kalish & Associates, Victor Potysman, Chicago, III, for plaintiff-appellant.\nDaniel P. Field, Louis W. Brydges, Sr., Brydges, Riseborough, Morris, Franke & Miller, Waukegan, Ill., Nicholas Anaclerio, Jr., Darrell S. Dudzik, Brydges, Risebor-ough, Morris, Franke & Miller, Chicago, Ill., for County of Lake in State of Ill., Robert H. Babcock and Gordon Johnson.\nRobert S. Markin, Jenner & Block, Chicago, Ill., for City of Waukegan.\nJeffrey D. Colman, Robert S. Markin, Glenn K. Seidenfeld, Jenner & Block, Chicago, Ill., for Waukegan Fire Dept, and Paramedics and Waukegan Lifeguards.\nAnton R. Valukas, U.S. Atty., Gillum Ferguson, Asst. U.S. Atty., Office of the U.S. Atty., Chicago, Ill., for U.S.\nBefore WOOD, Jr., and RIPPLE, Circuit Judges, and CRABB, District Judge.\nOriginally, this appeal was docketed with Robert H. Babcox as defendant-appellee in his official capacity as sheriff of Lake County. At oral argument, we were informed that Mr. Babcox died during the pendency of the district court proceedings. Accordingly, Clinton O. Grinnell has been substituted as defendant-appellee in his official capacity as the current sheriff of Lake County. See Fed.R.App.P. 43(c); Fed.R. CivP. 25(d).\nThe Honorable Barbara B. Crabb, Chief Judge for the Western District of Wisconsin, is sitting by designation."
+  },
+  "file_name": "1422-01",
+  "first_page_order": 1504,
+  "last_page_order": 1516
+}

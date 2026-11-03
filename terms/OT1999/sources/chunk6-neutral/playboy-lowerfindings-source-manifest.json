@@ -1,0 +1,74 @@
+{
+  "source_case": "PLAYBOY ENTERTAINMENT GROUP, INC., Plaintiff, v. UNITED STATES of America, et al., Defendants",
+  "date": "1998-12-28",
+  "docket": "No. Civ.A. 96-94-JJF",
+  "primary_url": "https://static.case.law/f-supp-2d/30/cases/0702-01.json",
+  "crosscheck_url": "https://hallapproved.com/de/cases/federal/district/1998/2417282/",
+  "crosscheck_lineage": "The independently hosted page identifies CourtListener bulk data as its source. Its complete opinion block, including 24 notes, is retained; site navigation, later citations, summaries and data-freshness wrapper are excluded.",
+  "download_sha256": "6022ed9f115b7eb5609292a50682bcb2b817ee507f410f8189210522acf30dd4",
+  "retrieval_date": "2026-11-03",
+  "extraction": "HTML opinion-combined section only; CAP opinions[0].text paragraphs copied by unique prefixes.",
+  "low_matching_paragraphs": [
+    {
+      "paragraph": 12,
+      "ratio": 0.8421052631578947,
+      "text": "1.Playboy challenges § 505 of the CDA, 47 U.S.C. § 561, entitled “Scrambling of sexually explicit adult video service programming.” This section requires a multisystem operator (“MSO”) either to fully scramble or to time channel “sexually explicit adult programming or other programming that is indecent” on any of its channels that are “primarily dedicated to sexually-oriented programming.” The purpose of this provision is to eliminate “signal bleed,” which is the partial reception of video images and/or audio sounds on a scrambled channel. The stated methods of eliminating signal bleed are either by blocking the transmission of the targeted programming or by limiting its transmission to the hours of the day when a significant number of children are not likely to view it (“safe harbour hours”). The FCC regulation implementing time channeling would limit adult programming to the period between 10:00 p.m. and 6:00 a.m. In re Implementation of Section 505 of the Telecommunications Act of 1996, CS Dkt. No. 96-40, FCC 96-84, Order & Notice of Proposed Rulemaking amending 47 C.F.R. § 76 ¶ 6."
+    },
+    {
+      "paragraph": 14,
+      "ratio": 0.875,
+      "text": "3. Playboy and Graf provide MSOs with adult, sexually oriented video programming. The MSOs then transmit the programming to premium subscribers and pay-per-view purchasers. Playboy owns two adult-programming networks, Playboy Television and AdulTVision. The programming on the Playboy network is virtually 100% sexually explicit adult programming. On a yearly basis, 3 million households subscribe to and/or receive pay-per-view sexually explicit adult programming through the Playboy or Graf channels."
+    },
+    {
+      "paragraph": 18,
+      "ratio": 0.6666666666666666,
+      "text": "7. Cable television technology has evolved over the last 20 years. A variety of scrambling technologies are used by MSOs when broadcasting in analog form. Forms of scrambling are"
+    },
+    {
+      "paragraph": 43,
+      "ratio": 0.7647058823529411,
+      "text": "19. The effect on Playboy of cable systems moving to time-channeling is primarily economic. However, Playboy argues that the economic impact of § 505 is significant and serves as a quantitative measure of the lost First Amendment opportunities suffered by Playboy and its viewers. Time channeling, the removal of sexually explicit programming during two-thirds of the broadcast day, precludes all households from receiving such programming during that time. Given that 30 to 50% of all adult programming is viewed by households prior to 10 p.m., the impact on Playboy and its viewers is significant. Playboy estimates its losses at $25 million through 2007, or 15% of revenues. The Gov-eminent estimates Playboy’s losses through 2002 at $6 million. The actual amount of Playboy’s losses is of little relevance to our First Amendment analysis. Suffice it to say that Playboy will lose a significant amount of money as a result of cable operators’ time channeling in order to comply with § 505."
+    },
+    {
+      "paragraph": 46,
+      "ratio": 0.875,
+      "text": "21. The CDA, of which §§ 504 and 505 are a part, went into effect on March 9,1996. The enforcement of § 505 was enjoined from March 6, 1996, three days prior to its implementation, until May 18, 1997. This stay provided a 14-month opportunity‘to observe the efficacy of § 504 without § 505. In that 14 months, the number of lockboxes distributed was minimal. A Government survey determined that cable operators distributed § 504 lockboxes to block adult cable channels to less than one-half of one percent (0.5%) of their subscribers. Tr. Trans. 655-59 (Dertouzos); DX 154, 145 (survey of 79 MSOs of roughly 6000 country-wide with 62 answering the question of how many adult-channel lockboxes they had distributed since the earliest known date?). A May 1997 memorandum from Jones Intercable (a leading MSO) to its cable systems appears to confirm the Government survey results. DX 137."
+    },
+    {
+      "paragraph": 81,
+      "ratio": 0.8888888888888888,
+      "text": "We hold therefore that § 504 is a less restrictive alternative to § 505 as long as MSOs provide “adequate notice” to their subscribers. We do not have jurisdiction over the MSOs to require them to provide such notice. We do, however, have jurisdiction over Playboy. As a consequence, we will require Playboy in its contractual arrangements with MSOs to ensure that MSOs provide “adequate notice” of the availability of § 504 blocking devices. If “adequate notice” is not provided, § 504 will no longer be a viable alternative to § 505."
+    },
+    {
+      "paragraph": 110,
+      "ratio": 0.8888888888888888,
+      "text": ". As we found, MSOs with incomplete scrambling technology chose time channeling because no other system-wide blocking technique is economically feasible. Faced with the choice between overhauling the transmission to ensure complete scrambling, such as through a systemic switch to digital transmission, or by providing channel-mapping converter boxes to all subscribers, or by reducing such transmissions to safe-harbor hours, the MSOs have unanimously chosen to stop all such programming on dedicated adult channels during the non-safe harbor hours."
+    }
+  ],
+  "files": {
+    "playboy-lowerfindings-cap-source.json": {
+      "bytes": 242,
+      "sha256": "3f42a00216ca09a3b33e936a5e501bd04628772fb998890b2da25ea00bf25849"
+    },
+    "playboy-lowerfindings-cap.json": {
+      "bytes": 91382,
+      "sha256": "b89f85dffcd1b719a7c17caef86c532a2ce13eb367204022bc57e62bf18b7be8"
+    },
+    "playboy-lowerfindings-cap.txt": {
+      "bytes": 69392,
+      "sha256": "4f5460ae5c2e1826a83efa9fadb591bd4817d8389a6d7badd9f435f945a6c095"
+    },
+    "playboy-lowerfindings-excerpts.md": {
+      "bytes": 20840,
+      "sha256": "35808f0c4877e75983805caf35b4eeb58260f664a1251eaa518cf508676a292f"
+    },
+    "playboy-lowerfindings-independent-body.html": {
+      "bytes": 91109,
+      "sha256": "44972caa564d99d533ac32381c6b7da8a9c13b0060f2b1789cd273536c164bb4"
+    },
+    "playboy-lowerfindings-independent-body.txt": {
+      "bytes": 68726,
+      "sha256": "ed9be123618ac75e3102d9d120ca4fd1a0ee20ab38fa6b96a990bdfa814f341a"
+    }
+  }
+}

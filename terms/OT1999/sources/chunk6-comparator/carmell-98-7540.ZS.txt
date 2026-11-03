@@ -1,0 +1,58 @@
+CARMELL V. TEXAS
+
+ 
+
+ 
+
+LII
+
+ 
+
+Supreme Court
+
+ 
+
+CARMELL V. TEXAS (98-7540) 
+963 S. W. 2d 833, reversed and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]Dissent
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CARMELL v. TEXAS
+
+CERTIORARI TO THE COURT OF APPEALS OF TEXAS, SECOND DISTRICT
+
+ 
+No. 98—7540. Argued November 30, 1999–Decided May 1, 2000
+
+In 1996, petitioner was convicted on 15 counts of committing sexual offenses against his stepdaughter from 1991 to 1995, when she was 12 to 16 years old. Before September 1, 1993, Tex. Code Crim. Proc. Ann., Art. 38.07, specified that a victim’s testimony about a sexual offense could not support a conviction unless corroborated by other evidence or the victim informed another person of the offense within six months of its occurrence, but that, if a victim was under 14 at the time of the offense, the victim’s testimony alone could support a conviction. A 1993 amendment allowed the victim’s testimony alone to support a conviction if the victim was under 18. The validity of four of petitioner’s convictions depends on which version of the law applies to him. Before the Texas Court of Appeals, he argued that the four convictions could not stand under the pre-1993 version of the law, which was in effect at the time of his alleged conduct, because they were based solely on the testimony of the victim, who was not under 14 at the time of the offenses and had not made a timely outcry. The court held that applying the 1993 amendment retrospectively did not violate the Ex Post Facto Clause, and the State Court of Criminal Appeals denied review.
+
+Held: Petitioner’s convictions on the counts at issue, insofar as they are not corroborated by other evidence, cannot be sustained under the Ex Post Facto Clause. Pp. 6—40.
+
+ (a) In Calder v. Bull, 3 Dall. 386, 390, Justice Chase stated that the proscription against ex post facto laws was derived from English common law well known to the Framers, and set out four categories of ex post facto criminal laws: “1st. Every law that makes an action done before the passing of the law, and which was innocent when done, criminal; and punishes such action. 2d. Every law that aggravates a crime, or makes it greater than it was, when committed. 3d. Every law that changes the punishment, and inflicts a greater punishment, than the law annexed to the crime, when committed. 4th. Every law that alters the legal rules of evidence, and receives less, or different, testimony, than the law required at the time of the commission of the offence, in order to convict the offender.” The Court has repeatedly endorsed this understanding, including the fourth category. Both Justice Chase and the common-law treatise on which he drew heavily cited the case of Sir John Fenwick as an example of the fourth category. England charged Fenwick with high treason in the late 17th century, but, under an Act of Parliament, he could not be convicted without the testimony of two witnesses. Parliament passed a bill of attainder making the two-witness rule inapplicable, and Fenwick was convicted on the testimony of only one witness. Pp. 6—15.
+
+ (b) Article 38.07 plainly fits within Calder’s fourth category. Requiring only the victim’s testimony to convict, rather than that testimony plus corroborating evidence, is surely “less testimony required to convict” in any straightforward sense of those words. Indeed, the circumstances here parallel those of Fenwick’s case. That Article 38.07 neither increases the punishment for, nor changes the elements of, the offense simply shows that the amendment does not fit within Calder’s first or third categories. Pp. 15—17.
+
+ (c) The fourth category resonates harmoniously with one of the principal interests that the Ex Post Facto Clause was designed to serve, fundamental justice. A law reducing the quantum of evidence required to convict is as grossly unfair as retrospectively eliminating an element of the offense, increasing punishment for an existing offense, or lowering the burden of proof. In each instance, the government refuses, after the fact, to play by its own rules, altering them in a way that is advantageous only to the State, to facilitate an easier conviction. There is plainly a fundamental fairness interest in having the government abide by the rules of law it establishes to govern the circumstances under which it can deprive a person of his or her liberty or life. Indeed, Fenwick’s case itself illustrates this principle. Pp. 17—20.
+
+ (d) None of the reasons that the United States as amicus advances for abandoning the fourth category is persuasive. It asserts that the fact that neither Blackstone nor ex post facto clauses in Ratification-era state constitutions mention the fourth category shows that Justice Chase simply got it wrong. Accepting this assertion would require the Court to abandon the third category as well, for it is also not mentioned in any of those sources. And it does not follow from the fact that Fenwick was convicted by a bill of attainder that his case cannot also be an example of an ex post facto law. In fact, all of the specific examples that Justice Chase listed in Calder were passed as bills of attainder. Nor, as the United States and Texas argue, was the fourth category effectively cast out in Collins v. Youngblood, 497 U.S. 37, which actually held that it was a mistake to stray beyond Calder’s four categories, not that the fourth category was itself mistaken. Pp. 20—25.
+
+ (e) Texas’ additional argument that the fourth category is limited to laws that retrospectively alter the burden of proof is also rejected. The Court’s decision in Cummings v. Missouri, 4 Wall. 277, nowhere suggests that a reversal of the burden of proof is all the fourth category encompasses; and laws that lower the burden of proof and laws that reduce the quantum of evidence necessary to meet that burden are indistinguishable in all meaningful ways relevant to concerns of the Ex Post Facto Clause. Texas’ assertion that Fenwick’s case concerns only a reduction in the burden of proof is based on a mistaken historical premise. And its argument that the present case is controlled by Hopt v. Territory of Utah, 110 U.S. 574, and Thompson v. Missouri, 171 U.S. 380, is also unpersuasive. Unlike the witness competency rules at issue there, Article 38.07 is a sufficiency of the evidence rule. It does not merely regulate the mode in which the facts constituting guilt may be placed before the jury, but governs the sufficiency of those facts for meeting the burden of proof. Indeed, Hopt expressly distinguished witness competency laws from laws altering the amount or degree of proof needed for conviction. Moreover, a sufficiency of the evidence rule resonates with the interests to which the Ex Post Facto Clause is addressed, in particular the elements of unfairness and injustice in subverting the presumption of innocence. Pp. 26—39.
+
+963 S. W. 2d 833, reversed and remanded.
+
+ Stevens, J., delivered the opinion of the Court, in which Scalia, Souter, Thomas, and Breyer, JJ., joined. Ginsburg, J., filed a dissenting opinion, in which Rehnquist, C. J., and O’Connor and Kennedy, JJ., joined.

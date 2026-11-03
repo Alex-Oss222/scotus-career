@@ -1,0 +1,1815 @@
+In The 
+Supreme Court of the United States 
+
+
+S 
+
+
+SCOTT LESLIE CARMELL, 
+
+
+Petitioner, 
+
+
+STATE OF TEXAS, 
+Respondent. 
+
+
+* 
+
+
+On Writ Of Certiorari To The 
+Texas Court Of Appeals 
+
+
+° 
+
+
+BRIEF OF PETITIONER 
+« 
+
+
+RicHarp D. BernsTEIN* 
+Carter G. Puiuips 
+KATHERINE L. ADAms 
+Paut A. HEMMERSBAUGH 
+BriAN C. Katt 
+
+Siptey & AusTIN 
+
+1722 Eye Street, N.W. 
+Washington, D.C. 20006 
+(202) 736-8000 
+
+
+Counsel for Petitioner 
+
+
+"Counsel of Record 
+September 17, 1999 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+we 
+
+
+. « ' 
+CTS ee Fe SL 
+. Re 4 4° a ant bed — 
+
+a fae Se ee ae 2 
+i.e . PELE fo A 
+<> ay * > Land . - 
+
+' wy aa ore x . ‘ 
+» oder" ee ‘ ~ k 
+
+
+mE 
++. 9 
+anes 
+
+5. ee 
+* | 
+
+
+uae 
+a «* 
+ae 
+¥ . 
+.m 
+hs 
+
+
+*i 
+mid 
+4 
+a 
+- 
+
+
+os 
+
+
+QUESTION PRESENTED 
+
+
+Whether the retroactive application of a criminal 
+statute that repeals a statutory requirement of two 
+witnesses to convict a criminal defendant violates the Ex 
+Post Facto Clause in Article I, Section 10 of the 
+Constitution, because it requires “less . . . testimony, than 
+the law required at the time of the commission of the 
+offence, in order to convict the offender,” Calder v. Bull, 3 
+U.S. (3 Dall.) 386, 390 (1798), and, in addition, because it 
+eliminates a defense on the merits. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTION PRESENTED... ..<ivscesscccceusdeecees i 
+TABLE OF AUTHORITIES ..........ccccccccvcccces iv 
+OPINION BELOW .....cssccescteveccseuaauebeseens 1 
+JURISDICTION ....ccscccvccncudenseentneneeeewanen 1 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED.............22+eeeeeees 1 
+STATEMENT OF THE CASE........scscoscccsssesss 2 
+A. The Statutory Change ...............-2-e00-- 2 
+B. The Alleged Crimes and Trial................ 3 
+C. The Retroactive Application of the 1993 
+Statwle .. ccc esncncngedetedhbysenenenee eaen 4 
+D. The State Appeals Court Decision ........... 7 
+SUMMARY OF ARGUMENT...............+-00000+ 8 
+ARGUMENT .....cccsccsivecepenensauemewene<nnene 12 
+
+
+I. RETROACTIVE APPLICATION OF THE 1993 
+AMENDMENT TO ARTICLE 38.07 VIOLATED 
+THE EX POST FACTO CLAUSE BY REDUCING 
+THE AMOUNT OF PROOF NECESSARY TO 
+SUPPORT A CONVICTION .............20.55. 12 
+
+
+A. Retroactive Application Of The 1993 Amend- 
+ments Violated The Ex Post Facto Clause By 
+Reducing The Amount Of Evidence 
+For Conviction, Contrary To The Fourth Cate- 
+gory OF Calder v. Ba. .icssccccchccekuwetnn 12 
+
+
+B. The Fourth Category Of Calder v. Bull Is 
+Essential To Fulfillment Of The Purpose Of 
+The Ex Post Facto Clause................. 14 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+C. Later Decisions By This Court Explicitly 
+Reaffirm The Continuing Vitality Of The 
+Fourth Calder Category ................... 21 
+
+
+Il. RETROACTIVE APPLICATION OF THE 1993 
+AMENDMENT ALSO VIOLATED THE EX 
+POST FACTO CLAUSE BY DEPRIVING PETI- 
+TIONER OF A DEFENSE AVAILABLE UNDER 
+THE LAW IN EFFECT AT THE TIME OF HIS 
+imesh bho dswasiasdescs bets ovecess 29 
+
+
+Ill. THE 1993 AMENDMENT CHANGED THE SUB- 
+STANTIVE CRIMINAL LAW, AND THUS ITS 
+RETROACTIVE APPLICATION TO PETI- 
+TIONER VIOLATES THE EX POST FACTO 
+
+
+i nl eedeucés 31 
+
+A. Whether Article 38.07 Is Labeled “Pro- 
+gE EEE ED 31 
+
+B. Amended Article 38.07 Affects Substance, 
+And Not Merely Procedure ............... 32 
+ES ESI ~ 34 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Aylor v. Texas, 727 S.W.2d 727 (Tex. App. 1987, pet. 
+
+ g PRENE SED YA Bene wp very” CARIES dP AE rth yo 22 
+Beazell v. Ohio, 269 U.S. 167 (1925).............. passim 
+Blair v. Manhattan Life Ins. Co., 692 F.2d 296 (3d 
+
+GOD BEE bbsccsadceynsededldslvensencteeesast wean 34 
+Bowen v. Arkansas, 911 S.W.2d 555 (Ark. 1995)....... 21 
+Bowers v. Texas, 914 S.W.2d 213 (Tex. App. 1996, 
+
+GE, COTES vc kscnces iu asverstecsecéanevetséeades 6, 31 
+Calder v. Bull, 3 U.S. (3 Dall.) 386 (1798) ........ passim 
+Carmell vy. Texas, 963 S.W.2d 833 (Tex. App.-Fort 
+
+Worth 1998, pet. ref’d), cert. granted, 119 S. Ct. 
+
+BEER: CHOSEN ccdtn vd pbvensewigeesienteedecsnss passim 
+Carmell v. Texas, No. 837-98 (Tex. Crim. App. Sept. 
+
+GE COU Abb eden todekecedytebucepdvusbotssawanecba 8 
+Carmell v. Texas, 119 S. Ct. 2336 (1999) ............... 8 
+
+
+Cities Serv. Oil Co. v. Dunlap, 308 U.S. 208 (1939) .... 33 
+City of Richmond vy. ].A. Croson Co., 488 U.S. 469 
+
+
+GUO atc ckancaeconssvdesdthipncéugadtedaboannebece 15 
+Collins v. Youngblood, 497 U.S. 37 (1990)......... passim 
+Cummings v. Missouri, 71 U.S. (4 Wall.) 277 (1866) .... 23 
+Delaware v. Moyer, 387 A.2d 194 (Del. 1978)......... 21 
+Dick v. New York Life Ins. Co., 359 U.S. 437 (1959) .... 34 
+Erie R.R. Co. v. Tompkins, 304 U.S. 64 (1938)......... 33 
+
+
+Fletcher v. Peck, 10 U.S. (6 Cranch) 87 (1810) ........ 14 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Friedel v. Texas, 832 S.W.2d 420 (Tex. App. 1992, no 
+DODD. 0:54 cede sen tpecbsunsrncveesscevncviqadesedeed 6, 30 
+Ex parte Garland, 71 U.S. (4 Wall.) 333 (1866)........ 23 
+Goode v. Florida, 39 So. 461 (Fla. 1905)............... 22 
+Hart v. Alabama, 40 Ala. 32 (Ala. 1866).............. 22 
+Heckathorne v. Texas, 697 S.W.2d 8 (Tex. App. 1985, 
+Ek 05 8 4 esa hape dk abached byaVilpvenanssedake 6 
+ee Th Be SBD onc cdccudccavives 22 
+Hopt v. Utah, 110 U.S. 574 (1884)................4... 24 
+Idaho v. Byers, 627 P.2d 788 (Idaho 1981) ............ 21 
+James v. United States, 366 U.S. 213 (1961)........... 17 
+Jones v. Texas, 789 S.W.2d 330 (Tex. App. 1990, pet. 
+SUE dicécien Leb ehsehadawedel ddabacersaeteaostives 30 
+Kaiser Aluminum & Chem. Corp. v. Bonjorno, 494 
+ee CEE fh deed wavosncnceudbevereaehserneas 14 
+Landgraf v. USI Film Prods., 511 U.S. 244 (1994)...14, 17 
+Lynce v. Mathis, 519 U.S. 433 (1997) ..............4.. 23 
+Maryland v. Craig, 497 U.S. 836 (1990)............... 20 
+Mattox v. United States, 156 U.S. 237 (1895).......... 16 
+Ex parte Merrill, 201 S.W.2d 232 (Tex. Crim. App. 
+Se Pacbc ur chanced dahechtenedeets ckucetssscasace 25, 30 
+Miller v. Florida, 482 U.S. 423 (1987)............. passim 
+
+
+Minnesota v. Niska, 514 N.W.2d 260 (Minn. 1994) .... 21 
+
+
+New York v. Caifa, 299 N.Y.S. 838 (N.Y. App. Div. 
+Pe von coviecoccqdesesiecvesssccesesucduscsusess 22 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Ogden v. Blackledge, 6 U.S. (2 Cranch) 272 (1804) .... 
+
+
+Palmer v. Hoffman, 318 U.S. 109 (1943)........... 
+Pennsylvania v. Hoetzel, 426 A.2d 669 (Pa. Super. 
+
+
+CA PED on ctccssdencsacd (étueetrecedecs cues 
+
+
+Scoggan v. Texas, 799 S.W.2d 679 (Tex. Crim. App. 
+
+
+SOs hh vs baceuscncneonencouuéapechendtaretvess 
+
+
+Shelby v. Texas, 800 S.W.2d 584 (Tex. App. 1990), 
+rev'd on other grounds, 819 S.W.2d 544 (Tex. 
+
+
+Cale. GO, TIGR sc ncn dicanvstsedecciscscces. 
+Thompson v. Missouri, 171 U.S. 380 (1898)........ 
+
+
+Tyrone v. Texas, 854 S.W.2d 153 (Tex. App. 1993, 
+
+
+OG, IPED oo vnk hcke peccnncvaccivsocccivevcepas 
+GOs cp ccccccecveberesascovénvadeendectetéucee 
+
+
+SEs Wiki cocedabed « dduddis SuGetanbhadd vee ot 
+United States v. Hise, 52 C.M.R. 195 (C.M.A. 1970) .... 
+
+
+United States v. Williams, 475 F.2d 355 (D.C. Cir. 
+
+
+Deiadihncedhbatessudials takekaarcerones rete 
+Utah v. Foust, 588 P.2d 170 (Utah 1978).......... 
+
+
+Virgin Islands v. Civil, 591 F.2d 255 (3rd Cir. 1979) 
+
+
+Weaver v. Graham, 450 U.S. 24 (1981)......... 15, 
+
+
+CONSTITUTION AND STATE STATUTES 
+
+
+a CORE OG. BR GD Sidescccsicuseccccvses 
+
+
+sanw Oe 
+
+
+17, 31 
+
+
+vii 
+TABLE OF AUTHORITIES - Continued 
+Page 
+Tex. Code Crim. Proc. art. 38.07 (1983)....1, 2, 5, 6, 30 
+art. 38.07 (1993), Acts 1993, 73rd Leg., ch. 900, 
+
+
+SP 0454 bed vae ees achoehss deataekedadornes 1, 3,7 
+Se See SE IE A ikek ta bbs ce keccuntddnives 1,2 
+CU ib nees cd pesssicncsedhus b0ush bine duveuad 1,2 
+GE Sek viddes Vink péskees semebSbuweietetrnusnke 1,2 
+
+
+Lecistative History 
+House Research Org., Bill Analysis (Mar. 15, 1993) .... 18 
+
+
+FOREIGN STATUTE 
+
+
+An Act to Attaint Sir John Fenwick Baronet of 
+High Treason, 8 Will. 3, ch. 4 (1696) (Eng.) ....... 16 
+
+
+SCHOLARLY AUTHORITY 
+
+
+Note, Corroborating Charges of Rape, 67 Colum. L. 
+Rs CEOF GOWN E kad Sivupoeepveuacasivgebatsesvcces 25 
+
+
+OrHeR AUTHORITIES 
+
+
+The Federalist No. 44 (James Madison) (Clinton 
+I Id: a da tee 14 
+
+
+John Hart Ely, Democracy and Distrust (1980) ........ 16 
+
+
+James Iredell (“Marcus”), Answers to Mr. Mason's 
+Objections to the New Constitution (1788), 
+reprinted in Pamphlets on the Constitution of the 
+United States, Published rR | Its Discussion by 
+the People, 1787-1788 (Paul L. Ford ed., De Capo 
+PU GED MEE ob Abe cues sasndes bes ececeadsunses 15 
+
+
+vill 
+
+
+TABLE OF AUTHORITIES - Continued 
+age 
+
+
+Joseph Story, Commentaries on the Constitution of 
+the United States (1833) ...........00ee 0 eee 16, 19, 21 
+
+
+7 John Henry Wigmore, Evidence (James H. Chad- 
+meet CEU BOGE) cicccccccvecsccsvedvoveeuseeseces 25 
+
+
+OPINION BELOW 
+
+
+The decision of the court of appeals affirming Peti- 
+tioner’s conviction is reported at Carmell v. Texas, 963 
+S.W.2d 833 (Tex. App.-Fort Worth 1998, pet. ref’d). 
+
+
+e 
+
+
+JURISDICTION 
+
+
+The judgment of the Texas Court of Appeals was 
+entered on February 12, 1998. The Texas Court of Crimi- 
+nal Appeals denied review on September 16, 1998. The 
+pro se Petition for Writ of Certiorari was filed on Decem- 
+ber 14, 1998, and granted on June 14, 1999. This Court 
+appointed counsel for Petitioner on July 21, 1999. This 
+Court has jurisdiction under 28 U.S.C. § 1257. 
+
+
+e 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Ex Post Facto Clause of the United 
+States Constitution, Article I, Section 10, 
+provides in pertinent part: “No State shall 
+... pass any .. . ex post facto law.” 
+
+
+2. Texas Code of Crim. Proc. article 38.07 
+(1983); Texas Code of Crim. Proc. Article 
+38.07 (1993); and Texas Penal Code Sections 
+21.11, 22.011, and 22.021. 
+
+
+S 
+
+
+STATEMENT OF THE CASE 
+A. The Statutory Change 
+
+
+In 1983, the Texas Legislature enacted a law govern- 
+ing certain types of sexual offense prosecutions. That law 
+provided, in pertinent part: 
+
+
+A conviction under Chapter 21, Section 22.011, 
+or Section 22.021, Penal Code, is supportable on 
+the uncorroborated testimony of the victim of 
+the sexual offense if the victim informed any 
+person, other than the defendant, of the alleged 
+offense within six months after the date on 
+which the offense is alleged to have occurred. 
+The requirement that the victim inform another 
+person of an alleged offense does not apply if 
+the victim was younger than i4 years of age at 
+the time of the alleged offense. 
+
+
+Tex. Code Crim. Proc. art. 38.07 (1983).! 
+
+
+Effective September 1, 1993, the Texas Legislature 
+amended Article 38.07 of the Texas Code of Criminal 
+Procedure to read, in pertinent part: 
+
+
+A conviction under Chapter 21, Section 22.011, 
+or Section 22.021, Penal Code, is supportable on 
+the uncorroborated testimony of the victim of 
+the sexual offense if the victim informed any 
+person, other than the defendant, of the alleged 
+offense within one year after the date on which 
+the offense is alleged to have occurred. The 
+
+
+! Texas Penal Code Chapter 21 covers sexual offenses, 
+including indecency with a child (section 21.11). Texas Penal 
+Code Chapter 22 covers “ Assaultive Offenses,” including sexual 
+assault (section 22.011) and aggravated sexual assault (section 
+22.021). 
+
+
+requirement that the victim inform another per- 
+son of an alleged offense does not apply if the 
+victim was younger than 18 years of age at the 
+time of the alleged offense. 
+
+
+Tex. Code Crim. Proc. art. 38.07 (1993), Acts 1993, 73rd 
+Leg., ch. 900, § 12.01. 
+
+
+B. The Alleged Crimes and Trial 
+
+
+Although Petitioner contests the facts as found by the 
+Texas Court of Appeals, the factual recitation herein is 
+based upon the opinion of the Texas Court of Appeals in 
+Carmell v. Texas, 963 S.W.2d 833 (Tex. App.-Fort Worth 
+1998, pet. ref’d), cert. granted, 119 S. Ct. 2336 (1999). 
+Petitioner Scott Leslie Carmell married Eleanor in 1988, 
+and became the stepfather of “KM,” a daughter born to 
+Eleanor and her previous husband on March 24, 1978.2 
+Carmell gave back rubs to KM every night before she 
+went to bed. Some time in the Spring of 1991, Carmell 
+touched KM on her pubic hair during one of the back 
+rubs. Later that Spring, Petitioner touched KM’s breast. 
+On two occasions in the summer of 1991, Petitioner 
+caused his penis to touch KM’s genital area. 
+
+
+Approximately one year later, in June 1992 (when 
+KM was 14), Petitioner’s penis touched KM’s genital area. 
+Id. at 835. In March 1993, Petitioner touched KM’s breast. 
+On or about June 1, 1993 and July 1, 1993, Petitioner 
+caused KM to touch his genitals. 
+
+
+2 To protect the identity of the complaining witness, this 
+brief follows the Court of Appeals’ practice of referring to her as 
+“KM,” and by not identifying her mother’s surname. 
+
+
+In September 1993, when KM was fifteen, she and 
+Petitioner had sexual intercourse for the first time. KM 
+and Petitioner had sexual intercourse on several subse- 
+quent occasions, ending in March 1995. KM did not tell 
+her mother or anyone else about her sexual contact with 
+Petitioner until March 1995. KM reported Petitioner's 
+alleged conduct to the police in March 1995. 
+
+
+Petitioner was indicted in Texas district court on 
+eight counts of indecency with a child, five counts of 
+sexual assault, and two counts of aggravated sexual 
+assault on December 19, 1996. Petitioner pleaded not 
+guilty to each count of the indictment. Petitioner’s trial 
+on the indictment commenced on January 6, 1997. There 
+was no testimony offered at trial to corroborate KM’s 
+account of the sexual contact between KM and Petitioner. 
+On January 9, 1997, the jury returned a verdict of guilty 
+on all counts. On January 10, 1997, the jury returned a 
+sentencing verdict imposing the maximum prison sen- 
+tence allowed by law on each count, which resulted in 
+two life sentences and several 20 year sentences, to be 
+served concurrently.* 
+
+
+C. The Retroactive Application of the 1993 Statute 
+
+
+All of the conduct alleged in Counts 7 - 10 of the 
+indictment occurred before the effective date of amended 
+
+
+3 Petitioner was sentenced to life imprisonment on Counts 
+3 and 4, and 20 years in prison for each of the other counts. The 
+trial court judgment shows the prison sentences are to be served 
+concurrently. J.A. 22-104. 
+
+
+Article 38.07, but after KM turned 14.4 The corroboration 
+statute in effect at the time of the conduct alleged in 
+Counts 7 — 10 of the indictment provided, in pertinent 
+part: 
+
+
+A conviction under Chapter 21, Section 22.011, 
+or Section 22.021, Penal Code [viz. for a sexual 
+offense], is supportable on the uncorroborated testi- 
+mony of the victim of the sexual offense if the victim 
+informed any person, other than the defendant, of the 
+alleged offense within six months after the date on 
+which the offense is alleged to have occurred. The 
+requirement that the victim inform another per- 
+son of an alleged offense does not apply if the 
+victim was younger than 14 years of age at the time 
+of the alleged offense. 
+
+
+Tex. Code Crim. Proc. art. 38.07 (1983) (emphases added). 
+Thus, the pre-amendment statute required eyewitness 
+corroboration to support a conviction except in cases in 
+which the alleged victim either (1) informed another per- 
+son within six months of the alleged offense; or (2) was 
+younger than age 14. Neither exception applies to the 
+counts of conviction challenged here. See Carmell, 963 
+
+
+* Count 7 alleged sexual assault on or about June 1, 1992. 
+Counts 8 — 10 alleged indecency with a child, occurring on or 
+about March 1, 1993, June 1, 1993, and July 1, 1993, respectively. 
+J.A. 16-18. ) 
+
+
+*° Respondent did not attempt at trial to satisfy the 
+corroboration requirement contained in the pre-amendment 
+version of Article 38.07. There was no eyewitness testimony, or 
+any other contemporaneous evidence, introduced at trial to 
+support KM’s testimony regarding Petitioner’s alleged conduct. 
+The corroborating testimony required by Article 38.07 is 
+testimony by an eyewitness to the alleged conduct. E.g., Shelby 
+
+
+S.W.2d at 836; see generally Resp’t’s Br. in Opp. to Cert. 
+at 5-7. Accordingly, under the terms of the statute in 
+effect at the time of the alleged conduct, as a matter of 
+law, Petitioner could not have been convicted of the 
+crimes alleged in Counts 7 — 10, because KM’s testimony 
+was uncorroborated. See Tex. Code Crim. Proc. Art. 38.07 
+(1983). 
+
+
+Effective September 1, 1993, the Texas Legislature 
+amended the statute to eliminate the corroboration 
+requirement for alleged victims under the age of 18: 
+
+
+A conviction under Chapter 21, Section 22.011, 
+or Section 22.021, Penal Code, is supportable on 
+the uncorroborated testimony of the victim of 
+the sexual offense if the victim informed any 
+person, other than the defendant, of the alleged 
+offense within one year after the date on which 
+
+
+v. Texas, 800 S.W.2d 584, 586 (Tex. App. 1990) (for purposes of 
+corroboration statute, “ ‘[u]ncorroborated testimony’ means 
+absence of any eye-witness other than the victim”), rev'd on other 
+grounds, 819 S.W.2d 544 (Tex. Crim. App. 1991); Heckathorne v. 
+Texas, 697 S.W.2d 8, 12 (Tex. App. 1985, pet. ref’d) (“We believe 
+art. 38.07 speaks to cases . . . wherein the State seeks a conviction 
+in the absence of any eyewitness . . . other than the young victim. 
+‘The lack of any other eyewitness’ is what is meant in Article 
+38.07 by ‘uncorroborated testimony.’ ”); see Bowers v. Texas, 914 
+S.W.2d 213, 215 (Tex. App. 1996, pet. ref’d) (holding that 
+retroactive application of amended Article 38.07 would be ex 
+post facto violation, finding “[the victim] was the only witness to 
+testify about the assault. Her testimony was uncorroborated.”); 
+Friedel v. Texas, 832 S.W.2d 420, 421-22 (Tex. App. 1992, no pet.) 
+(applying pre-amendment version of Article 38.07 to hold lack 
+of outcry within six months and lack of evidence to corroborate 
+victim’s account compelled acquittal; court suggested this was 
+harsh result, but found result was compelled by clear language 
+of statute and intent of legislature). 
+
+
+7 
+
+
+the offense is alleged to have occurred. The 
+requirement that the victim inform another person of 
+an alleged offense does not apply if the victim was 
+younger than 18 years of age at the time of the 
+alleged offense. 
+
+
+Tex. Code Crim. Proc. art. 38.07 (1993), Acts 1993, 73rd 
+Leg., ch. 900, § 12.01 (emphasis added). Because it is 
+undisputed that KM did not inform anyone of the alleged 
+conduct until well over a year after the last offense at 
+issue in this Petition (Count 10 of the indictment), the 
+1993 statutory change in the outcry period from six 
+months to one year is irrelevant here. Rather, Petitioner's 
+conviction on Counts 7 — 10 was possible solely because 
+of the retroactive application of the 1993 substantive 
+amendment to Texas criminal law that eliminated the 
+requirement for conviction of a second witness to corrob- 
+orate the account of the complaining witness. 
+
+
+D. The State Appeals Court Decision 
+
+
+On appeal, Petitioner raised several challenges, 
+including a challenge to the prosecution’s admitted fail- 
+ure to disclose impeachment evidence; the sufficiency of 
+testimony that Petitioner touched KM’s “genital area” to 
+prove the type and level of sexual contact required to 
+prove sexual assault; and a challenge to the retroactive 
+application of the 1993 amendment to Article 38.07 to 
+Petitioner’s pre-amendment conduct as an unconstitu- 
+tional ex post facto law. See Carmell, 963 S.W.2d 833.° The 
+
+
+© Carmell’s ex post facto appeal directly applied only to the 
+charges in Counts 7 - 10. J.A. 16-18. Similarly, the ex post facto 
+
+
+Texas Court of Appeals rejected Petitioner’s challenges 
+and affirmed his conviction. Id. at 838. Petitioner sought 
+and was denied discretionary review in the Texas Court 
+of Criminal Appeals. Carmell v. Texas, No. 837-98 (Tex. 
+Crim. App. Sept. 16, 1998). 
+
+
+Carmell filed a Petition for Writ of Certiorari with 
+this Court. The Court granted the Petition, confining its 
+consideration to the ex post facto and due process issues 
+set forth in the Petition’s first question. Carmell v. Texas, 
+119 S. Ct. 2336 (1999).7 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Straightforward and longstanding ex post facto princi- 
+ples demonstrate that Texas’ conviction of Petitioner on 
+the testimony of one witness, when the law in effect at 
+the time of his conduct required the testimony of two 
+witnesses, violates the Constitution. The retroactive 
+application of the amendment to Article 38.07 of the 
+Texas Code of Criminal Procedure falls squarely within a 
+category of prohibited retroactive criminal laws set forth 
+in this Court’s landmark ex post facto decision, Calder v. 
+Bull, 3 U.S. (3 Dall.) 386 (1798). That decision, written by 
+
+
+issues raised in this Petition ask this Court to reverse Carmell’s 
+conviction on those four counts only; Petitioner’s remaining 
+convictions are not directly at issue. 
+
+
+7 Because the Ex Post Facto Clause in Article I, Section 10 
+directly applies to the states and the precedent under that 
+Clause expressly addresses the question presented, this brief 
+does not address any additional due process limitations on 
+retroactivity. 
+
+
+Justice Chase shortly after ratification of the Constitution, 
+enumerated four types of laws repugnant to the Ex Post 
+Facto Clause, among them: “4th. Every law that alters the 
+legal rules of evidence, and receives less, or different, 
+testimony, that the law required at the time of the com- 
+mission of the offence, in order to convict the offender.” 
+Id. at 390. Justice Chase’s inclusion of this fourth category 
+stemmed directly from ex post facto acts passed by the 
+British Parliament, particularly one involving the case of 
+Sir John Fenwick. In that case, Parliament “violated the 
+rules of evidence (to supply a deficiency of legal proof) 
+by admitting one witness, when the existing law required 
+two” (id. at 389) to convict Fenwick of treason and to 
+sentence him to death. So too here. Texas convicted Peti- 
+tioner of a crime on the testimony of one witness when 
+the law in effect at the time of his conduct required the 
+testimony of two witnesses. This is a clear violation of the 
+Ex Post Facto Clause because it allowed the conviction of 
+Petitioner on less evidence than required by the law in 
+effect when the underlying conduct occurred. 
+
+
+The Framers believed the purpose of the Ex Post 
+Facto Clause - to prevent politically responsive legisla- 
+tures from retroactively changing criminal laws in order 
+to convict a class of unpopular defendants - was vital to 
+the protection of individual liberty. This protection was 
+considered so important that the state Ex Post Facto 
+Clause was among very few express limits on state power 
+in the original Constitution. The fourth category of Calder 
+v. Bull reflects the original understanding of the scope of 
+this fundamental protection. 
+
+
+During the ensuing two hundred years, this Court 
+has consistently reaffirmed that the Calder categories are 
+
+
+10 
+
+
+the foundation of ex post facto jurisprudence. Indeed, the 
+Court recently re-emphasized that the “prohibition which 
+may not be evaded is the one defined by the Calder 
+categories.” Collins v. Youngblood, 497 U.S. 37, 46 (1990). 
+
+
+Applying the Ex Post Facto Clause here will result in 
+limited but vital protection of individual rights without 
+restricting the states’ ability to implement routine 
+changes to rules of evidence or other criminal pro- 
+cedures. Although the fourth category of Calder v. Bull 
+provides an essential protection against overreaching leg- 
+islative acts, properly construed it is not applicable to 
+most retroactive evidentiary changes. It applies only to 
+those changes that allow conviction based on “less, or 
+different, testimony, than the law required at the time of 
+the commission of the offence, in order to convict the 
+offender.” Calder, 3 U.S. at 390. Thus, changes to neutral 
+rules of general application (for example, changes to the 
+Federal Rules of Evidence governing hearsay and similar 
+matters) which may help the prosecution in one case and 
+help a defendant in another, are not within the Calder 
+prohibitions and do not run afoul of the Ex Post Facto 
+Clause. 
+
+
+Retroactive application of the 1993 amendment to 
+Petitioner's pre-amendment conduct also violated the Ex 
+Post Facto Clause because it deprived him of an absolute 
+defense available at the time of his conduct. Laws proh.b- 
+ited by the Ex Post Facto Clause include “any stat- 
+ute ... which deprives one charged with [a] crime of any 
+defense available at the time when the act was commit- 
+ted.” Beazell v. Ohio, 269 U.S. 167, 169 (1925). Under the 
+law in effect at the time of Petitioner’s conduct, he had an 
+absolute defense on the merits to Counts 7 - 10, because 
+
+
+11 
+
+
+the prosecution produced no testimony to corroborate the 
+account of the complaining witness. This defense goes to 
+“guilt or innocence,” id. at 170, as a two-witness rule is 
+designed to prevent erroneous convictions. cike Calder, 
+the Beazell formulation of the reach of the Ex Post Facto 
+Clause has been recently and unequivocally endorsed by 
+this Court. Collins, 497 U.S. at 43. 
+
+
+The assertion of the Texas Court of Appeals that the 
+amendment to Article 38.07 was procedural is both irrele- 
+vant and incorrect. Collins reaffirms that the ex post facto 
+prohibition is not avoided merely because a law is labeled 
+“procedural.” Collins, 497 U.S. at 46. The touchstone for 
+ex post facto purposes is whether the change affects sub- 
+stantive rights. The 1993 amendment to Article 38.07 
+indubitably affected Petitioner’s substantive rights, 
+because it permitted his conviction on the testimony of 
+one, rather than two, witnesses, and eliminated a defense 
+on the merits. In any event, the amendment at issue has a 
+clear substantive purpose: making it easier to obtain con- 
+victions of those charged with sex offenses against teen- 
+agers. And, regardless of the characterization employed 
+by the State, as a matter of federal law (which governs 
+here, in interpreting the Ex Post Facto Clause), burden of 
+proof issues are matters of substance, not procedure. 
+
+
+Petitioner’s conviction on Counts 7 — 10 should be 
+reversed. 
+
+
+12 
+
+
+ARGUMENT 
+
+
+I. RETROACTIVE APPLICATION OF THE 1993 
+AMENDMENT TO ARTICLE 38.07 VIOLATED THE 
+EX POST FACTO CLAUSE BY REDUCING THE 
+AMOUNT OF PROOF NECESSARY TO SUPPORT 
+A CONVICTION. 
+
+
+A. Retroactive Application Of The 1993 
+Amendments Violated The Ex Post Facto Clause 
+By Reducing The Amount Of Evidence 
+Necessary For Conviction, Contrary To The 
+Fourth Category Of Calder v. Bull. 
+
+
+“Our understanding of what is meant by ex post facto 
+largely derives from the case of Calder v. Bull, 3 Dall. 386 
+(1798).” Miller v. Florida, 482 U.S. 423, 429 (1987). Barely a 
+decade after the ratification of the Constitution, Justice 
+Chase enumerated four types of laws “within the words 
+and intent of the prohibition” against ex post facto laws: 
+
+
+Ist. Every law that makes an action, done before 
+the passing of the law, and which was innocent 
+when done, criminal; and punishes such action. 
+2nd. Every law that aggravates a crime, or 
+makes it greater than it was, when committed. 
+3rd. Every law that changes the punishment, 
+and inflicts a greater punishment, than the law 
+annexed to the crime, when committed. 4th. 
+Every law that alters the legal rules of evidence, and 
+receives less, or different, testimony, than the law 
+required at the time of the commission of the offence, 
+in order to convict the offender. 
+
+
+Calder v. Bull, 3 U.S. (3 Dall.) 386, 390 (1798) (emphasis 
+added). In the lead opinion for a Court whose members 
+included Framers of the Constitution, Justice Chase 
+detailed the abuses of the British Parliament prior to the 
+
+
+13 
+
+
+American Revolution that led the Framers to prohibit the 
+states, as well as the federal government, from enacting 
+ex post facto laws. The abuses Justice Chase described 
+included retroactive acts of Parliament that “violated. the 
+rules of evidence (to supply a deficiency of legal proof) 
+by admitting one witness, when the existing law required 
+two.” Id. at 389. At the end of his survey of legislative 
+abuses, Chase concluded, “[t]o prevent such, and similar, 
+acts of violence and injustice . . . the Federal and State 
+Legislatures, were prohibited from passing any bill of 
+attainder; or any ex post facto law.” Id. 
+
+
+Under the clear language of Calder and the history it 
+summarizes, this is not a difficult case. The action of the 
+State of Texas in this case — convicting Petitioner of a crime 
+on the testimony of one witness when the law in effect at the 
+time of the person’s conduct required at least two witnesses 
+- is a violation of the Ex Post Facto Clause, because Texas 
+allowed “less . . . testimony” to support convictions on 
+Counts 7 —- 10 “than the law required at the time of” Peti- 
+tioner’s alleged conduct. Id. at 390. 
+
+
+Under the law in effect at the time of the conduct, 
+Petitioner simply could not have been convicted of 
+Counts 7 — 10. The absence of testimony corroborating the 
+account of complaining witness KM would have operated 
+as an absolute bar to conviction on those counts. Peti- 
+tioner’s conviction on those counts was made possible 
+solely by the September 1993 retroactive legislative 
+removal of the corroboration requirement for those 
+offenses. See supra pp. 4-7, infra pp. 25 n.14, 29-30. This 
+retroactive reduction of the amount of proof required for 
+conviction is proscribed by the Ex Post Facto Clause as 
+explicated by the fourth category of Calder v. Bull. 
+
+
+14 
+
+
+B. The Fourth Category Of Calder v. Bull Is Essential 
+To Fulfillment Of The Purpose Of The Ex Post 
+Facto Clause. 
+
+
+The fourth category of Calder v. Bull should be reaf- 
+firmed by this Court because it falls squarely within a 
+fundamental purpose of the Ex Post Facto Clause: to 
+prevent legislatures inclined to respond to an emotionally 
+charged electorate from changing criminal laws after the 
+fact in order to convict a class of unpopular defendants. 
+A “solid foundation of American law” is “the ‘principle 
+that the legal effect of conduct should ordinarily be 
+assessed under the law that existed when the conduct 
+took place . . . [This principle] has timeless and universal 
+human appeal.’ ” Landgraf v. USI Film Prods., 511 U.S. 244, 
+265 (1994); Kaiser Aluminum & Chem. Corp. v. Bonjorno, 494 
+U.S. 827, 855 (1990) (Scalia, J., concurring). The dual Ex 
+Post Facto Clause in the Constitution® embodies this solid 
+foundation. 
+
+
+The Framers rightly considered the Clause a vital 
+protection of individual liberty, one of the few deemed 
+worthy of inclusion in the original Constitution, prior 
+even to the adoption of the Bill of Rights. Even more 
+significant, the ban on state ex post facto laws was one of 
+the very few limits on state powers embodied in the 
+original Constitution. See, e.g., Fletcher v. Peck, 10 U.S. (6 
+Cranch) 87, 138 (1810) (Chief Justice Marshall described 
+art. I, § 10, cl. 1, as “a bill of rights for the people of each 
+state”); The Federalist No. 44, at 282 (James Madison) 
+
+
+* U.S. Const. art. I, § 9, cl. 3 (barring federal ex post facto 
+laws); id. § 10, cl. 1 (barring state ex post facto laws). 
+
+
+15 
+
+
+(Clinton Rossiter ed., 1961); James Iredell (“Marcus”), 
+Answers to Mr. Mason's Objections to the New Constitution 
+(1788), reprinted in Pamphlets on the Constitution of the 
+United States, Published During Its Discussion by the People, 
+1787-1788, at 368 (Paul L. Ford ed., De Capo Press 1968) 
+(1888) (referring to Ex Post Facto Clause as “one of the 
+most valuable parts of the new constitution,” and stating 
+that “[t}his very clause, I think, is worth ten thousand 
+declarations of rights, if this, the most essential right of 
+all, was omitted in them”). Indeed, the bans on ex post 
+facto laws, bills of attainder, and impairment of contracts 
+were essentially the only express limits on the States’ 
+actions affecting individual liberty in the pre-amendment 
+Constitution. See generally U.S. Const. art. I, § 10. The 
+few other limitations on the States set forth in the pre- 
+amendment Constitution were primarily concerned with 
+the relationship of the States to the federal government in 
+a federal system. See id. (prohibiting states from, inter 
+alia, entering treaties, coining money, and imposing 
+duties on imports and exports). 
+
+
+The Ex Post Facto Clause embodies the principle that 
+politically responsive legislatures should create penal 
+policy solely on a prospective basis, while the impartial 
+judiciary is charged with the application of those policies 
+to specific actors and conduct. See, e.g., Miller, 482 U.S. at 
+430; Weaver v. Graham, 450 U.S. 24, 29 n.10 (1981); City of 
+Richmond vy. J.A. Croson Co., 488 U.S. 469, 513 (1989) 
+(Stevens, J., concurring) (“Legislatures are primarily poli- 
+cymaking bodies that promulgate rules to govern future 
+conduct. The constitutional prohibitions against the 
+enactment of ex post facto laws and bills of attainder 
+reflect a valid concern about the use of the political 
+
+
+16 
+
+
+process to punish or characterize past conduct of private 
+citizens.”); Ogden v. Blackledge, 6 U.S. (2 Cranch) 272, 277 
+(1804); see also Joseph Story, Commentaries on the Constitu- 
+tion of the United States § 1338 n.28 (1833); John Hart Ely, 
+Democracy and Distrust 90 (1980). Cf. Calder, 3 U.S. at 389 
+(Chase, J.) (British ex post facto laws were “legislative 
+judgments” and thus “an exercise of judicial power”). 
+
+
+The Ex Post Facto Clause was enacted in response to 
+the Framers’ fear — based on contemporary examples in 
+Great Britain — that a legislature could use ex post facto 
+laws to single out unpopular groups or individuals for 
+retroactive application of new criminal laws. One signifi- 
+cant example of such vindictive legislation that was 
+familiar to the Framers’ generation is the 1696 case of Sir 
+John Fenwick. See generally An Act to Attaint Sir John 
+Fenwick Baronet of High Treason, 8 Will. 3, ch. 4 (1696) 
+(Eng.). Fenwick was indicted for high treason, a charge 
+that required at least two witnesses, but Fenwick had 
+secured the absence of the second witness. See Mattox v. 
+United States, 156 U.S. 237, 240 (1895). Parliament allowed 
+Fenwick to be convicted and sentenced to death anyway, 
+on the testimony of the remaining witness. In Calder, 
+Justice Chase cited Fenwick’s case as a paradigmatic 
+improper ex post facto law, noting that Parliament had 
+“violated the rules of evidence (to supply a deficiency of 
+legal proof) by admitting one witness, when the existing 
+law required two.” Calder, 3 U.S. at 389 (Chase, J.). Peti- 
+tioner’s challenged convictions here also rest on the retro- 
+active repeal of a two-witness rule. 
+
+
+As Justice Harlan once noted, the Ex Post Facto 
+Clause: 
+
+
+17 
+
+
+rest on the apprehension that the legislature, in 
+imposing penalties on past conduct, even 
+though the conduct could properly have been 
+made criminal and even though the defendant 
+who engaged in that conduct in the past 
+believed he was doing wrong . . . may be acting 
+with a purpose not to prevent dangerous con- 
+duct generally but to impose by legislation a 
+penalty against specific persons or classes of per- 
+sons. 
+
+
+James v. United States, 366 U.S. 213, 247 n.3 (1961) (Harlan, 
+]., separate opinion) (emphasis added). The Ex Post Facto 
+Clause thus provides critical safeguards of individual 
+liberty, protecting unpopular groups or individuals from 
+the potentially arbitrary, capricious, and vindictive 
+actions of a powerful State. See Miller, 482 U.S. at 429; 
+Weaver, 450 U.S. at 29; see also Landgraf, 511 U.S. at 266 
+(noting that popularly elected legislatures, in response to 
+political pressures, “may be tempted to use retroactive 
+legislation as a means of retribution against unpopular 
+groups or individuals.”).° 
+
+
+Plainly, the legislative purpose here was to exact 
+retribution against a paradigmatically unpopular group — 
+alleged sex offenders. In an analysis of the 1993 bill that 
+amended Article 38.07 done for the Texas House of Rep- 
+resentatives, supporters of the bill stated that the 
+“[cJurrent [outcry or corroboration requirement] creates 
+
+
+* This is not the only purpose served by the Ex Post Facto 
+Clause. As Miller explained, the Clause is additionally “aimed 
+at a second concern, namely, that legislative enactments ‘give 
+fair warning of their effect and permit individuals to rely on 
+their meaning until explicitly changed.’” 482 U.S. at 430 
+(quoting Weaver, 450 U.S. at 28-29)). 
+
+
+18 
+
+
+an absurd obstacle for prosecuting [sexual assault] 
+cases. .. . The outcry [or corroboration] requirement is an 
+especially difficult obstacle to overcome in sexual assault 
+and other sexual offense cases.” House Research Org., Bill 
+Analysis 14 (Mar. 15, 1993) (analyzing HB 261) (a copy of 
+this document has been lodged with the Clerk of Court). 
+
+
+As societal views of a particular crime change, a 
+legislature may become more willing to find a given class 
+of defendants guilty based on less evidence. A law speci- 
+fying the minimum amount of proof necessary for convic- 
+tion is inextricably intertwined with the question of the 
+defendant's guilt. See infra pp. 25-28, 32-34. The prosecu- 
+tion’s failure to produce the minimum amount of proof 
+requires a judgment of not guilty. It is, of course, entirely 
+proper for a legislature to reduce the minimum amount of 
+proof necessary for conviction, provided that change in 
+the criminal law is accomplished prospectively. 
+
+
+It is not surprising, however, that Texas singled out 
+those accused of sexual misconduct for a retroactive 
+change in the minimum amount of proof necessary for 
+conviction. History tells us that these kinds of legislative 
+attempts to guarantee convictions for past conduct by 
+reducing the legally required amount of proof are 
+reserved for those accused of the most heinous crimes, 
+such as treason, murder, or sexual offenses, supra pp. 8-9, 
+16-17; infra p. 21 n.11. 
+
+
+Convicting sex offenders is a laudable and important 
+purpose of the criminal law. But the Ex Post Facto Clause 
+requires that expansions of the criminal law be pursued 
+prospectively. Prospective application of new criminal 
+
+
+19 
+
+
+laws fully vindicates society’s interest in general deter- 
+rence, because a new criminal law cannot deter conduct 
+that already has occurred. And, society's interest in retri- 
+bution for, or specific deterrence of, an individual defen- 
+dant does not provide a legitimate basis for exceptions to 
+the Ex Post Facto Clause as, virtually by definition, such 
+exceptions would swallow the rule. As Justice Story 
+stated: 
+
+
+If the laws in being do not punish an offender, 
+let him go unpunished; let the legislature, 
+admonished of the defect of the laws, provide 
+against the commission or future crimes of the 
+same sort. The escape of one delinquent can 
+never produce so much harm to the community, 
+as may rise from the infraction of a rule, upon 
+which the purity of public justice, and the exis- 
+tence of civil liberty, essentially depend. 
+
+
+Joseph Story, Commentaries on the Constitution of the United 
+States § 1338 n.28. 
+
+
+Because the legitimate goals of the amended Article 
+38.07 can be met fully by prospective application of the 
+new rule, there is no reason to depart from the original 
+understanding of the Ex Post Facto Clause set forth in 
+Calder v. Bull. Indeed, this Court has noted that “ ‘ex post 
+facto law’ was a term of art with an established meaning 
+at the time of the framing of the Constitution,” and that 
+Calder reflects that meaning. Collins v. Youngblood, 497 
+U.S. 37, 41-42 (1990). Collins thus rightly emphasized the 
+
+
+20 
+
+
+continuing importance of “the original understanding of 
+the Ex Post Facto Clause.” Collins, 497 U.S. at 43.10 
+
+
+Finally, it is important to note that the fourth cate- 
+gory of Calder does not cover all retroactive changes in 
+the rules of evidence. It applies only if the change permits 
+“less, or different, testimony, than the law required at the time 
+of the commission of the offence, in order to convict the 
+offender.” Calder, 3 U.S. at 390 (emphases added). For 
+example, routine changes in the Federal Rules of Evi- 
+dence governing relevance, hearsay, leading questions 
+and the like would not fall within the fourth category. See 
+Collins, 497 U.S. at 43 n.3. Indeed, no rule in the Federal 
+Rules of Evidence specifies the minimum amount of evi- 
+dence required for conviction. Rather, the Federal Rules 
+of Evidence are neutral rules of general application; in 
+one case a given rule may help the prosecutor and in 
+another case the same rule may help the defendant. 
+Unlike the amended Article 38.07, the Federal Rules of 
+Evidence do not single out a specific class of unpopular 
+defendants for retroactive application of a new rule 
+designed to increase substantially their likelihood of con- 
+viction. 
+
+
+10 The Ex Post Facto Clause is different from other 
+constitutional provisions that apply to criminal trials, such as 
+the Confrontation Clause, in that a ruling that a state law is 
+unconstitutional under other provisions prevents both 
+retrospective and prospective application of that law. In light of 
+that prospective effect, it is understandable that changing 
+societal understandings of what is required for general 
+deterrence have played a role in this Court's interpretations of 
+other constitutional provisions. See, e.g., Maryland v. Craig, 497 
+U.S. 836, 853-55 (1990). 
+
+
+21 
+
+
+C. Later Decisions By This Court Explicitly Reaffirm 
+The Continuing Vitality Of The Fourth Calder 
+
+
+Category. 
+
+As Justice Story recognized, by 1833 it was well 
+settled that the Ex Post Facto Clause barred retroactive 
+changes in the criminal law “whereby different, or less 
+evidence, is required to convict an offender, than was 
+required, when the act was committed.” Story, Commen- 
+taries on the Constitution of the United States § 1339. Indeed, 
+for the past two centuries, lower courts have enforced 
+Calder’s fourth category against laws attempting to 
+change retroactively the minimum amount of proof 
+required for conviction of a variety of crimes.'! Over the 
+
+
+11 See, e.g., Bowen v. Arkansas, 911 S.W.2d 555, 562-64 (Ark. 
+1995) (retroactive application of aggravating factor in felony 
+murder case violates Ex Post Facto Clause); Minnesota v. Niska, 
+514 N.W.2d 260, 265 (Minn. 1994) (retroactive application of 
+statute shifting burden of proving affirmative defense of 
+justification from prosecution to defendant held 
+unconstitutional ex post facto law); United States v. Alexander, 805 
+F.2d 1458, 1461 n.2 (11th Cir. 1986) (retroactive application of 
+heightened burden of proof of insanity violated Ex Post Facto 
+Clause); Pennsylvania v. Hoetzel, 426 A.2d 669, 672 (Pa. Super. Ct. 
+1981) (retroactive change in burden of proving amount of 
+controlled substance violated Ex Post Facto Clause); Idaho v. 
+Byers, 627 P.2d 788, 795-96 (Idaho 1981) (court abolished 
+corroboration requirement for sexual assault, but refused to 
+apply retroactively because to do so would violate ex post facto 
+prohibition); Virgin Islands v. Civil, 591 F.2d 255, 259-60 (3rd Cir. 
+1979) (retroactive application of repeal of corroboration 
+requirement for criminal conviction was an unconstitutional ex 
+post facto law); Delaware v. Moyer, 387 A.2d 194, 197 (Del. 1978) 
+(in capital murder case, retroactive application of statute 
+placing burden on defendant to prove mitigating factor would 
+violate Ex Post Facto Clause by allowing punishment on “ ‘less 
+
+
+22 
+
+
+same period, all four of the Calder categories have 
+remained the foundation of ex post facto precedent in this 
+Court, and this Court has never undertaken to restrict the 
+core applications of any of Calder’s categories.'? 
+
+
+or different testimony’ ”); United States v. Williams, 475 F.2d 355, 
+356-57 (D.C. Cir. 1973) (retroactive application of statute 
+shifting burden to prove insanity to defendant violated Ex Post 
+Facto Clause); United States v. Bell, 371 F. Supp. 220, 221-22 (E.D. 
+Tex. 1973) (retroactive application of statutory change to 
+eliminate requirement of two witnesses for perjury conviction 
+violates Ex Post Facto Clause by allowing the government to 
+rely upon “less onerous proof”); United States v. Hise, 42 C.M.R. 
+195, 196-97 (C.M.A. 1970) (overturning sodomy conviction of 
+naval officer, even though he confessed, because trial court 
+retroactively applied reduced corroborating evidence 
+standard); New York v. Caifa, 299 N.Y.S. 838, 839 (N.Y. App. Div. 
+1937) (retroactive change in proof required to prove perjury 
+violates Ex Post Facto Clause); Goode v. Florida, 39 So. 461, 461-62 
+(Fla. 1905) (applying law requiring two witnesses for conviction 
+of illegal alcohol sales, even though law had been repealed — to 
+apply new law retroactively would violate Ex Post Facto 
+Clause); Hart v. Alabama, 40 Ala. 32, 34-35 (Ala. 1866) (court 
+refused to apply law eliminating requirement of corroborating 
+testimony for gambling conviction to conduct occurring before 
+change in the law, lack of corroborating witness compelled 
+acquittal). 
+
+
+12 Prior to the decision below, Texas courts had also applied 
+Calder’s fourth category. See, e.g., Aylor v. Texas, 727 S.W.2d 727, 
+729 (Tex. App. 1987, pet. ref’d) (finding retroactive application 
+of change in law would constitute impermissible ex post facto 
+law by allowing conviction on “less or different evidence,” but 
+holding defendant waived this objection by failing to raise it at 
+trial); see also Holt v. Texas, 2 Tex. 363, 364 (Tex. 1847) (using 
+Calder categories to apply Ex Post Facto Clause of Texas 
+Constitution). 
+
+
+oe 
+
+
+23 
+
+
+Earlier this decade, the Court confirmed the continu- 
+ing vitality of Calder and the four categories it describes, 
+holding that the constitutional ex post facto “prohibition 
+which may not be evaded is the one defined by the Calder 
+categories.” Collins, 497 U.S. at 46; see Lynce v. Mathis, 519 
+U.S. 433, 441 n.13 (1997) (quoting the four categories of ex 
+post facto laws proscribed by Calder). On numerous occa- 
+sions, the Court has left intact the core prohibition enun- 
+ciated in Calder’s fourth category: Laws that retroactively 
+change the amount of proof essential for conviction of a 
+crime are unconstitutional. 
+
+
+In Cummings v. Missouri, the Court struck down as an 
+unconstitutional ex post facto law a provision of the Mis- 
+souri constitution applied retroactively to punish a per- 
+son for conduct occurring prior to the adoption of the 
+state constitution. 71 U.S. (4 Wall.) 277 (1866). The Court 
+defined “an ex post facto law” to include “one which 
+
+. changes the rules of evidence by which less or 
+different testimony is sufficient to convict than was then 
+required.” Id. at 325-26." 
+
+
+Later cases that have upheld the retroactive applica- 
+tion of new procedural laws have been careful to distin- 
+guish them from Calder’s fourth category. Eighteen years 
+
+
+13 Although the dissent in Cummings would have held that 
+the law in question was civil, and thus not subject to the ex post 
+facto prohibition, it agreed that the four Calder categories were 
+definitive, noting that Calder’s “exposition of the nature of ex 
+post facto laws has never been denied.” Ex parte Garland, 71 U.S. 
+(4 Wall.) 333, 391 (1866) (Miller, J., Chase, C.J., Swayne and 
+Davis, J]., combined dissent for Cummings and Garland). 
+
+
+24 
+
+
+after Cummings, the Court upheld the retrospective appli- 
+cation of a procedural change to state law whose effect 
+was to make convicted felons competent to testify at trial. 
+Hopt v. Utah, 110 U.S. 574 (1884). Under Utah law in effect 
+at the time of the defendant's conduct, felons were not 
+allowed to testify in criminal trials. After the date of the 
+defendant's conduct, but before trial, Utah changed its 
+law and allowed felons to testify. Id. at 587-88. This Court 
+held that the expansion of persons eligible to testify was 
+merely a procedural change that did mot change the 
+“quantity or the degree of proof necessary” to convict the 
+defendant, explaining that “[s]tatutes which simply 
+enlarge the class of persons who may be competent to 
+testify in criminal cases are not ex post facto in their 
+application to prosecutions for crimes committed prior to 
+their passage, for they do not . . . lessen the amount or 
+measure, of the proof which was made necessary to con- 
+viction when the crime was committed.” Id. at 589 (sec- 
+ond emphasis added). 
+
+
+This case would be within the class of changes 
+
+
+allowed by Hopt if Texas had retained the corroboration 
+requirement, but retroactively changed Texas law to 
+allow felons to provide the corroborating testimony. What 
+Texas did here, however, was to reduce the amownt of 
+evidence and number of witnesses required for convic- 
+tion, not merely change who was allowed to be a witness. 
+Nor can the two Texas statutes at issue in this case be 
+viewed as witness competency rules based on the youth 
+of the wifnesses. To the contrary, under either statute, a 
+defendamt could be convicted based on the uncorrobo- 
+rated testimony of a 13-year-old, or a 5-year old. Rather, 
+the statutes reflect a policy judgment about the risk of 
+
+
+25 
+
+
+convictions based on uncorroborated, and thus poten- 
+tially false, allegations." The legislature changed its judg- 
+ment on this question in 1993, and the 1993 amendment 
+to Article 38.07 was designed to make conviction mark- 
+edly easier. See supra pp. 17-18. Stated differently, the 
+1993 legislature was willing to accept the greater risk of 
+an erroneous conviction inherent in making a reduced 
+amount of proof sufficient for conviction. Under Calder v. 
+Bull, however, such a change may only be applied pro- 
+
+
+spectively. 
+
+
+A second important difference between the situation 
+in Hopt and this case is that the amendment to Article 
+
+
+14 See, e.g., Scoggan v. Texas, 799 S.W.2d 679, 683 (Tex. Crim. 
+App. 1990) (en banc) (“The [1983] amendment to 38.07 clearly 
+expresses the legislature's intent to shield sexual assault victims 
+under 14 from the normal outcry or corroboration requirements, 
+but to require stricter proof when the sexual assault victim is 14 
+or older.”); Ex parte Merrill, 201 S.W.2d 232, 233-34 (Tex. Crim. 
+App. 1947) (“[A sexual assault] conviction will not be sustained 
+upon the uncorroborated testimony of the prosecutrix who 
+failed to make prompt outcry or report of the [sexual assault] 
+when opportunity to do so was reasonably afforded. Such rule 
+is founded not upon the idea that such failure to make outcry 
+tends to connect the prosecutrix with the alleged crime and 
+therefore require that she be corroborated as an accomplice but 
+because it tends to lessen or diminish the credit to be given to 
+her testimony.” (citations omitted)); Tyrone v. Texas, 854 S.W.2d 
+153, 155 (Tex. App. 1993, pet. ref’d); see generally 7 John Henry 
+Wigmore, Evidence § 2061, at 457 (James H. Chadbourn rev. 
+1978); Note, Corroborating Charges of Rape, 67 Colum. L. Rev. 
+1137, 1137 (1967) (“Because of the inordimate danger that 
+innocent men will be convicted of rape. some states have 
+adopted the rule that the unsupported testimony of tthe 
+complaining witness is not sufficient evidence to support a rape 
+conviction.”). 
+
+
+26 
+
+
+38.07 is not neutral; when it applies, it will always and 
+invariably work to the disadvantage of the defendant. 
+Admitting into evidence at trial the testimony of a class 
+of persons who had previously been barred from testify- 
+ing is a neutral and generally applicable change that 
+might help or might hurt a particular defendant, depend- 
+ing on the nature of the additional testimony. For exam- 
+ple, the testimony of a convicted felon might provide a 
+defendant with alibi testimony or other exculpatory evi- 
+dence. In contrast, the 1993 amendment to Article 38.07 
+indisputably will always disadvantage defendants in 
+Petitioner's circumstances, by allowing conviction on 
+proof that would have been legally inadequate at the time 
+of the alleged conduct. See Miller, 482 U.S. at 431-32 
+(retroactive change in law that disadvantages the accused 
+without any “ameliorative” effect violates prohibition 
+against ex post facto laws). Elimination of the requirement 
+of corroborating testimony to establish guilt can only 
+work to the disadvantage of the defendant. 
+
+
+The relevance of the distinction between facially neu- 
+tral evidentiary changes and one-sided changes lowering 
+the minimum amount of evidence for conviction is but- 
+tressed by Thompson v. Missouri, 171 U.S. 380 (1898). In 
+Thompson, state common law at the time of the offense 
+prohibited the use of documents handwritten by the 
+defendant to demonstrate that the handwriting on 
+another document was also that of the defendant. After 
+the alleged offense, Missouri enacted a statute repealing 
+the common law rule and allowing the introduction into 
+evidence of documents in the defendant's handwriting 
+for purposes of comparison with other documents alleged 
+to be in the defendant's handwriting. Jd. at 381. As 
+
+
+27 
+
+
+Thompson explained, the change in the law to allow the 
+admission of handwriting samples gave the prosecution 
+and the defense equal right to “have disputed writings 
+compared with writings proved . . . to be genuine.” Id. at 
+387-88. The Court held the retroactive application of the 
+statute to the defendant did not violate the Ex Post Facto 
+Clause because the statute merely admitted additional 
+evidence, and “did not require ‘less proof, in amount or 
+degree,’ than was required at the time of the commission 
+of the crime charged upon him.” Id. at 387. 
+
+
+Beazell v. Ohio, 269 U.S. 167 (1925), where the issue 
+was the retroactive application of a law allowing the joint 
+trial of co-defendants, contains a similar discussion. At 
+the time of the defendants’ -onduct, Ohio law provided 
+that defendants jointly indicted for a felony were entitled 
+to separate trials. After defendants’ conduct, but before 
+their indictment, Ohio changed the law to provide the 
+trial court with discretion to grant or deny a request for 
+separate trials. Id. at 169. The trial court denied defen- 
+dants’ motions for separate trials, and defendants were 
+tried and convicted in a single trial. Id. The Supreme 
+Court upheld the conviction against an ex post facto chal- 
+lenge, holding that retrospective application of the statute 
+allowing joint trials did not substantially disadvantage 
+the defendants, but rather affected “only the manner in 
+which the trial of those jointly accused shall be con- 
+ducted” and did “not deprive the [defendants] of any 
+defense previously available” to them. Id. at 170. Distin- 
+guishing the procedural change in Beazell from changes 
+that would transgress the requirements of the Ex Post 
+Facto Clause, the Court found that, under the new Ohio 
+statute, “{t}he quantum and kind of proof required to estublish 
+
+
+28 
+
+
+guilt, and all questions which may be considered by the 
+court and jury in determining guilt or innocence, remain 
+the same.” Id. (emphases added). 
+
+
+More recent decisions have also reaffirmed the Calder 
+categories. In Miller v. Florida, 482 U.S. 423 (1987), the 
+Court struck as unconstitutional a statute that had the 
+effect of retroactively disadvantaging a specific class of 
+convicted felons, sex offenders. Id. In Miller, between the 
+time of the defendant's sexual offense and the time of his 
+conviction, the State of Florida changed the presumptive 
+sentence for that offense from 3'/2 - 4'/2 years in prison to 
+5'/2 - 7 years in prison. Id. at 427. At the outset of the 
+opinion, the Court noted that the meaning of the prohibi- 
+tion against ex post facto laws “largely derives from the 
+case of Calder v. Bull,” and listed the four categories of 
+laws that Calder established were prohibited by the Ex 
+Post Facto Clause. Id. at 429. The Court held that the 
+retroactive change violated the prohibition against retro- 
+active increases in punishment established by Calder 
+(third category) and its progeny. Id. at 435-36 (citing 
+Weaver v. Graham, 450 U.S. 24, 36 (1981)). 
+
+
+In Collins, the Court upheld a Texas statute that 
+allowed reformation of a judgment to delete a punish- 
+ment that could not be combined with another. 497 U.S. at 
+39-40, 52. The amount of evidence necessary for convic- 
+tion, however, was unaffected by the new statute. More- 
+over, the Court reaffirmed that the formulations of the 
+proscriptions of the Ex Post Facto Clause set forth in 
+Calder remain good law. Collins v. Youngblood, 497 U.S. 37, 
+41-42 (citing, inter alia, Cummings v. Missouri dissent’s 
+statement that Calder’s “exposition of the nature of ex post 
+facto laws has never been denied”). Collins limited turn- 
+
+
+29 
+
+
+ef-the-century decisions that had suggested the reach of 
+the Ex Post Facto Clause extended beyond the Calder 
+categories to prohibit retrospective application of laws 
+that deprived a defendant of “substantial protections,” or 
+infringed upon “substantial personal rights.” Id. at 45-46 
+(discussing Duncan v. Missouri, 152 U.S. 377 (1894) and 
+Malloy v. South Carolina, 237 U.S. 180 (1915)). Finding that 
+the amorphous phrases “substantial personal rights,” and 
+“substantial protections” should not be read to expand 
+the reach of the Ex Post Facto Clause beyond the explicit 
+Calder formulation, the Court held “the prohibition which 
+may not be evaded is the one defined by the Calder categories.” 
+Id. at 46 (emphasis added). 
+
+
+Il. RETROACTIVE APPLICATION OF THE 1993 
+AMENDMENT ALSO VIOLATED THE EX POST 
+FACTO CLAUSE BY DEPRIVING PETITIONER OF 
+A DEFENSE AVAILABLE UNDER THE LAW IN 
+EFFECT AT THE TIME OF HIS CONDUCT. 
+
+
+Retroactive application of the 1993 amendment to 
+Petitioner's pre-amendment conduct also violated the Ex 
+Post Facto Clause by depriving him of an absolute 
+defense to Counts 7 - 10 available at the time of that 
+alleged, conduct. Laws prohibited by the Ex Post Facto 
+Clause include “any statute . . . which deprives one 
+charged with [a] crime of any defense available at the 
+time when the act was committed.” Beazell v. Ohio, 269 
+U.S. 167, 169 (1925); see Collins v. Youngblood, 497 U.S. 37, 
+52 (1990). Collins reaffirmed the Beazell formulation, stat- 
+ing that “[t}he Beazell formulation is faithful to our best 
+knowledge of the original understanding of the Ex Post 
+Facto Clause.” 497 U.S. at 43. 
+
+
+30 
+
+
+Under the law in effect at the time of Petitioner's 
+conduct, he had an absolute and insuperable defense to 
+Counts 7 — 10 of the indictment, because the prosecution 
+produced no corroborating testimony to support the testi- 
+mony of the complaining witness, nor was there evidence 
+that the complaining witness made a timely “outcry.” 
+E.g., Scoggan v. Texas, 799 S.W.2d 679, 683 (Tex Crim. 
+App. 1990) (applying 1983 version of Article 38.07, hold- 
+ing that absence of corroboration or timely outcry com- 
+pelled acquittal on sexual assault charge); Friedel v. Texas, 
+832 S.W.2d 420, 421 (Tex. App. 1992, no pet.) (same); Jones 
+v. Texas, 789 S.W.2d 330, 331 (Tex. App. 1990, pet. ref’d) 
+(same); see Tex. Code Crim. Proc. art. 38.07 (1983). This is 
+the kind of defense that cannot be repealed retroactively, 
+because it is a defense on the merits. That is, a two- 
+witness requirement provides a defense “considered by 
+the court .. . in determining guilt or innocence.” Beazell, 
+269 U.S. at 170. In particular, a two-witness rule is 
+designed to reduce the risk of erroneous convictions, i.e., 
+convictions that are wrong on the merits. See, e.g., Scog- 
+gan, 799 S.W.2d at 682; Ex parte Merrill, 201 S.W.2d 232, 
+233-34 (Tex. Crim. App. 1947); see also Utah v. Foust, 588 
+P.2d 170, 173 (Utah 1978) (“The real purpose behind the 
+law requiring corroboration . . . is to afford protection to 
+one falsely accused.”). Application of the amended 1993 
+corroboration statute to Petitioner’s pre-amendment con- 
+duct stripped him of this absolute defense on the merits 
+to Counts 7 — 10. 
+
+
+31 
+
+
+Ill. THE 1993 AMENDMENT CHANGED THE 
+SUBSTANTIVE CRIMINAL LAW, AND THUS 
+ITS RETROACTIVE APPLICATION TO PETI- 
+TIONER VIOLATES THE EX POST FACTO 
+CLAUSE. 
+
+
+The retroactive application of the amended Article 
+38.07 was a change in the substantive criminal law of 
+Texas. That change allowed Petitioner’s conviction on 
+less proof than would have been allowed under the law 
+in effect at the time of his conduct, and deprived him of a 
+defense on the merits requiring acquittal. The Texas 
+Court of Appeals stated, without analysis, that the 
+amendment to Article 38.07 was a procedural change that 
+did not offend the prohibition against ex post facto laws. 
+See Carmell v. Texas, 963 S.W.2d 833, 836 (Tex. App. 1998). 
+Another Texas Court of Appeals, however, has held that 
+“the amended article 38.07 is not merely a procedural 
+change.” Bowers v. Texas, 914 S.W.2d 213, 217 (Tex. App. 
+1996, pet. ref’d). In any event, the “procedural” label is 
+both irrelevant and wrong. 
+
+
+A. Whether Article 38.07 Is Labeled “Procedural” 
+Is Irrelevant. 
+
+
+Collins reaffirmed that the key to analyzing whether a 
+law offends the Ex Post Facto Clause is not whether it is 
+labeled “substantive” or “procedural,” but whether it 
+violates one of the Calder categories or Beazell. Collins v. 
+Youngblood, 497 U.S. 37, 46 (1990); Weaver v. Gratam, 450 
+U.S. 24, 29 n.12 (1981) (retroactive change in law can 
+violate Ex Post Facto Clause “even if the statute takes a 
+seemingly procedural form”). As Collins explained, 
+
+
+32 
+
+
+[Simply labeling a law “procedural,” . . . does 
+not... immunize it from scrutiny under the Ex 
+Post Facto Clause. Subtle ex post facto violations 
+are no more permissible than overt ones. 
+
+
+Collins, 497 U.S. at 46 (citation omitted). 
+
+
+B. Amended Article 38.07 Affects Substance, 
+And Not Merely Procedure. 
+
+
+In any event, for purposes of interpreting the Ex Post 
+Facto Clause, whether a state law affects substantive mat- 
+ters or merely procedure is a question of federal constitu- 
+tional law, not state law. See, e.g., Collins, 497 U.S. at 45. 
+Amended Article 38.07 clearly affects substantive matters 
+for purposes of the Ex Post Facto Clause because, as 
+demonstrated above, it falls squarely within the fourth 
+category of Calder v. Bull, and eliminates a defense on the 
+merits. 
+
+
+Moreover, unlike (for example) a provision of the 
+Federal Rules of Evidence, the 1993 amendment to Article 
+38.07 is not a neutral rule that will sometimes help defen- 
+dants and sometimes help prosecutors. Nor was it an 
+attempt to produce more efficient courtroom proceedings. 
+Rather, the 1993 amendment was consciously designed to 
+make it easier to convict those accused of sexual offenses 
+against teenagers. See supra pp. 17-18, 29-30. Stopping 
+sexual misconduct against teenagers is a vital public pur- 
+pose — but it is a substantive purpose, not a mere matter 
+of procedure. 
+
+
+A comparison to Miller v. Florida, 482 U.S. 423 (1987), 
+is instructive. Miller rejected Florida’s argument that a 
+change in sentencing range was merely a procedural 
+
+
+33 
+
+
+change, finding that “the sole reason for the increase [in 
+the presumptive sentencing range] was to punish sex 
+offenders more heavily; the amendment was intended to, 
+and did, increase the ‘quantum of punishment’ for [sex] 
+crimes.” Id. at 433-34. Similarly, in the present case, the 
+reason for Texas’ elimination of the requirement of cor- 
+roboration was to make it easier to convict persons 
+accused of sex crimes involving teenagers. Supra pp. 
+17-18, 29-30. The 1993 amendment to Article 38.07 was 
+intended to, and did, reduce the State’s required quantum 
+of proof by reducing the amount of evidence necessary 
+for a conviction. Just as in Miller, the 1993 amendment 
+worked entirely and unambiguously to Petitioner’s dis- 
+advantage, and had no feature that in any way “could be 
+considered ameliorative” with respect to Petitioner's 
+interests. 482 U.S. at 431-32. 
+
+
+Furthermore, what is substantive for purposes of 
+criminal cases, where the defendant's liberty is at stake, 
+ought to be at least as expansive as what is substantive in 
+a civil tort action in federal court. If a plaintiff had sued a 
+defendant for a tort, and Texas had a statute requiring a 
+corroborating witness for proof of that tort, or some other 
+specified minimum amount of proof, it would be crystal 
+clear that such a rule is substantive, and must be applied 
+in federal court in a diversity or ancillary jurisdiction 
+case under Erie R.R. Co. v. Tompkins, 304 U.S. 64 (1938). 
+Indeed, since Cities Service Oil Co. v. Dunlap, 308 U.S. 208 
+(1939), the Court has held that burden of proof issues are 
+substantive under Erie. Id. at 212; see Palmer v. Hoffman, 
+318 U.S. 109, 117 (1943) (“The question of the burden of 
+establishing contributory negligence is a question of local 
+law which federal courts in diversity of citizenship cases 
+
+
+34 
+
+
+must apply.”) (internal citation omitted); Dick v. New York 
+Life Ins. Co., 359 U.S. 437, 446 (1959) (“[u]nder the Erie 
+rule, presumptions (and their effects) and burden of proof 
+are ‘substantive’ ”) (footnote omitted); see also Blair v. 
+Manhattan Life Ins. Co., 692 F.2d 296, 302 (3d Cir. 1982) 
+(diversity action applying Pennsylvania law to question 
+of whether “testimony from two witnesses or from one 
+witness and corroborating circumstances” was required). 
+At a minimum, it would be anomalous to hold that a 
+Texas two-witness rule must be applied by a federal court 
+to avoid “forum-shopping” against a civil defendant, but 
+the same kind of rule can be jettisoned retroactively in a 
+criminal case, and thereby deprive a criminal defendant 
+of an absolute defense on the merits. 
+
+
+° 
+
+
+CONCLUSION 
+
+
+Petitioner’s convictions on Counts 7 - 10 should be 
+reversed, and the remainder of the case remanded for 
+further proceedings consistent with this Court’s opinion. 
+
+
+Respectfully Submitted, 
+
+
+RicHarp D. BernsTeIN* 
+Carter G. PHILuips 
+KATHERINE L. ADAMS 
+
+
+Pau A. HEMMERSBAUGH 
+Brian C. Katt 
+
+
+Siptey & AUSTIN 
+1722 I Street, N.W. 
+Washington, D.C. 20006 
+
+
+September 17, 1999 
+* Counsel of Record 
+
+

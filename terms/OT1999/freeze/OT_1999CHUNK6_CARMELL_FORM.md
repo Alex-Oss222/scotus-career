@@ -1,0 +1,7 @@
+# Carmell — form before assignment
+
+The legal form and propositions are fixed before the fresh assignment count. One signed plenary Opinion of the Court states the retained fourth Calder category, distinguishes legally sufficient proof from ordinary competence/admissibility changes, applies the former Article 38.07 age/report conditions to counts 7–10, and reverses/remands for the preserved corroboration contention on the existing trial record. A single dissent explains the witness-specific credibility classification and would affirm. The six supporting Justices share the complete controlling ground; there is no need for divided delivery or a separate concurrence repeating it.
+
+Stone's October 31 approved core supplies the sixth complete join. His express remand and record-sensitive condition preserve Texas's unresolved corroboration contention. No immediate acquittal, prosecutorial repair trial, unaffected-count relief, generic procedural-disadvantage test, parole probability test or new constitutional corroboration duty is added. The former-law insufficiency consequence remains acquittal if the actual record fails that requirement.
+
+Eligible complete-rationale authors, without regard to counts: Stone-Zsela, Stevens, Scalia, Souter, Thomas and Breyer. The Chief supports the judgment and assigns. O'Connor, Kennedy and Ginsburg support the contrary classification and cannot author this lead. Their substantive dissent needs no historical-author import. Counts and author selection follow separately.

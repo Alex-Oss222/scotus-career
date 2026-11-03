@@ -1,0 +1,839 @@
+{
+  "id": 10518223,
+  "name": "Garner GREGORY, Administrator of the Estate of Joe Edwin Gregory; Beate Gregory, individually and as mother and next friend of Joe Ray Gregory; and Donna Mae Fields, Appellants, v. The CITY OF ROGERS, ARKANSAS; Ptl. Ronnie Howell, individually and in his capacity as a police officer of the City of Rogers, Arkansas; and Imperial Casualty and Indemnity Co., Appellees",
+  "name_abbreviation": "Gregory v. City of Rogers",
+  "decision_date": "1992-09-09",
+  "docket_number": "No. 89-2863",
+  "first_page": "1006",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "974 F.2d 1006"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "945 F.2d 716",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10523802
+      ],
+      "pin_cites": [
+        {
+          "page": "724"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/945/0716-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 796",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209107
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "799",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "1573",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0796-01"
+      ]
+    },
+    {
+      "cite": "893 F.2d 1004",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11649557
+      ],
+      "pin_cites": [
+        {
+          "page": "1007"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/893/1004-01"
+      ]
+    },
+    {
+      "cite": "810 F.2d 1437",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1635226
+      ],
+      "pin_cites": [
+        {
+          "page": "1468-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/810/1437-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 381",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53148
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/0381-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 305",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "trooper knowingly left arrested driver's female passenger stranded in a high-crime area during inclement weather"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 341",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "trooper knowingly left arrested driver's female passenger stranded in a high-crime area during inclement weather"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "879 F.2d 583",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/879/0583-01"
+      ]
+    },
+    {
+      "cite": "297 F.2d 883",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        226147
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "885"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/297/0883-01"
+      ]
+    },
+    {
+      "cite": "23 L.Ed.2d 243",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 S.Ct. 1782",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "395 U.S. 926",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772103,
+        1771591,
+        1772204,
+        1771478,
+        1772088,
+        1771802,
+        1771483,
+        1772189
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0926-03",
+        "/us/395/0926-07",
+        "/us/395/0926-02",
+        "/us/395/0926-08",
+        "/us/395/0926-06",
+        "/us/395/0926-04",
+        "/us/395/0926-05",
+        "/us/395/0926-01"
+      ]
+    },
+    {
+      "cite": "416 F.2d 776",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2172987
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/416/0776-01"
+      ]
+    },
+    {
+      "cite": "484 F.2d 1255",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        238493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/484/1255-01"
+      ]
+    },
+    {
+      "cite": "864 F.2d 1429",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537375
+      ],
+      "pin_cites": [
+        {
+          "page": "1436"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/864/1429-01"
+      ]
+    },
+    {
+      "cite": "759 F.2d 676",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        388340
+      ],
+      "pin_cites": [
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/759/0676-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 1061",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6221570
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1068",
+          "parenthetical": "court must look to the complaint for a description of the constitutional right at stake"
+        },
+        {
+          "parenthetical": "court must look to the complaint for a description of the constitutional right at stake"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0115-01"
+      ]
+    },
+    {
+      "cite": "911 F.2d 52",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531038
+      ],
+      "pin_cites": [
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/911/0052-01"
+      ]
+    },
+    {
+      "cite": "869 F.2d 1146",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537992
+      ],
+      "pin_cites": [
+        {
+          "page": "1148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/869/1146-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "701"
+        },
+        {
+          "page": "1160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        7354
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "107"
+        },
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0097-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 4,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "196"
+        },
+        {
+          "page": "1003"
+        },
+        {
+          "page": "195, 199-200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 184",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 1121",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "489 U.S. 1012",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12038435,
+        12038277,
+        12038502,
+        12039015,
+        12038375,
+        12039143,
+        12038897,
+        12038323,
+        12038837,
+        12038645,
+        12038970,
+        12038780,
+        12039069,
+        12038559
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/1012-04",
+        "/us/489/1012-01",
+        "/us/489/1012-05",
+        "/us/489/1012-12",
+        "/us/489/1012-03",
+        "/us/489/1012-14",
+        "/us/489/1012-10",
+        "/us/489/1012-02",
+        "/us/489/1012-09",
+        "/us/489/1012-07",
+        "/us/489/1012-11",
+        "/us/489/1012-08",
+        "/us/489/1012-13",
+        "/us/489/1012-06"
+      ]
+    },
+    {
+      "cite": "852 F.2d 368",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10543179
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "370"
+        },
+        {
+          "page": "870"
+        },
+        {
+          "page": "370"
+        },
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/852/0368-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180876
+      ],
+      "weight": 5,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "140"
+        },
+        {
+          "page": "2692"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0137-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 527",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188807
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "535"
+        },
+        {
+          "page": "1913"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0527-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "347-48",
+          "parenthetical": "same"
+        },
+        {
+          "page": "670",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "page": "348"
+        },
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 327",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204748
+      ],
+      "weight": 7,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "328",
+          "parenthetical": "holding a government official's negligent conduct will not support a substantive due process claim under section 1983"
+        },
+        {
+          "page": "663",
+          "parenthetical": "holding a government official's negligent conduct will not support a substantive due process claim under section 1983"
+        },
+        {
+          "parenthetical": "holding a government official's negligent conduct will not support a substantive due process claim under section 1983"
+        },
+        {
+          "page": "330-31"
+        },
+        {
+          "page": "331"
+        },
+        {
+          "page": "328"
+        },
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0327-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 242",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206897
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "255"
+        },
+        {
+          "page": "2513"
+        },
+        {
+          "page": "248"
+        },
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0242-01"
+      ]
+    },
+    {
+      "cite": "950 F.2d 550",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10522591
+      ],
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/0550-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "921 F.2d 750",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546140
+      ],
+      "pin_cites": [
+        {
+          "page": "751-53"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/921/0750-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 381",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53148
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/592/0381-01"
+      ]
+    },
+    {
+      "cite": "879 F.2d 583",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535003
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/879/0583-01"
+      ]
+    },
+    {
+      "cite": "23 L.Ed.2d 243",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1969,
+      "opinion_index": 1
+    },
+    {
+      "cite": "89 S.Ct. 1782",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1969,
+      "opinion_index": 1
+    },
+    {
+      "cite": "395 U.S. 926",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772103,
+        1771591,
+        1772204,
+        1771478,
+        1772088,
+        1771802,
+        1771483,
+        1772189
+      ],
+      "year": 1969,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/395/0926-03",
+        "/us/395/0926-07",
+        "/us/395/0926-02",
+        "/us/395/0926-08",
+        "/us/395/0926-06",
+        "/us/395/0926-04",
+        "/us/395/0926-05",
+        "/us/395/0926-01"
+      ]
+    },
+    {
+      "cite": "416 F.2d 776",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2172987
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/416/0776-01"
+      ]
+    },
+    {
+      "cite": "484 F.2d 1255",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        238493
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/484/1255-01"
+      ]
+    },
+    {
+      "cite": "864 F.2d 1429",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537375
+      ],
+      "pin_cites": [
+        {
+          "page": "1436"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/864/1429-01"
+      ]
+    },
+    {
+      "cite": "911 F.2d 52",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531038
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/911/0052-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 4,
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1322,
+    "char_count": 33394,
+    "ocr_confidence": 0.778,
+    "pagerank": {
+      "raw": 1.0881401492185498e-06,
+      "percentile": 0.9852495261306741
+    },
+    "sha256": "b56801a54ef9192144a184b05f22d24274dcfd3b6477b08845b8cecc18af876e",
+    "simhash": "1:930dd513cd8c4427",
+    "word_count": 5450
+  },
+  "last_updated": "2024-02-27T18:33:03.861975+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before LAY, Chief Judge, HEANEY, Senior Circuit Judge, McMILLIAN, RICHARD S. ARNOLD, JOHN R. GIBSON, FAGG, BOWMAN, WOLLMAN, MAGILL, BEAM, and LOKEN, Circuit Judges, en banc."
+    ],
+    "parties": [
+      "Garner GREGORY, Administrator of the Estate of Joe Edwin Gregory; Beate Gregory, individually and as mother and next friend of Joe Ray Gregory; and Donna Mae Fields, Appellants, v. The CITY OF ROGERS, ARKANSAS; Ptl. Ronnie Howell, individually and in his capacity as a police officer of the City of Rogers, Arkansas; and Imperial Casualty and Indemnity Co., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "FAGG, Circuit Judge.\nGarner Gregory, Beate Gregory, and Donna Mae Fields (the appellants) appeal the district court\u2019s order granting summary judgment to the City of Rogers, Arkansas, and Officer Ronnie Howell (the ap-pellees) in this 42 U.S.C. \u00a7 1983 action. We affirm.\nI.\nWe review the district court\u2019s grant of summary judgment de novo. Gumersell v. Director, Fed. Emergency Management Agency, 950 F.2d 550, 553 (8th Cir.1991). Because this case comes to us on the appel-lees\u2019 motion for summary judgment, the appellants\u2019 evidence \u201c[must] be believed, and all justifiable inferences [must] be drawn in [the appellants\u2019] favor.\u201d Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 2513, 91 L.Ed.2d 202 (1986). Viewed in this light, the record reveals the following series of events leading to this lawsuit.\nOne weekend night in late March 1986, Joe Edwin Gregory, Donna Mae Fields, and Stanley Turner decided to visit several nightclubs together. Turner drove the three of them in Gregory\u2019s car and served as Gregory and Fields\u2019s \u201cdesignated driver\u201d for the evening. (Am.Compl. \u00b6 11; Fields Dep. at 21.) After the nightclubs closed, Turner started to drive Gregory and Fields home. Officer Howell, a Rogers policeman, stopped Turner for running a red light. Turner pulled into a local restaurant\u2019s parking lot and got out of the car. Fields, fearing she and Gregory would be arrested for public intoxication, told Gregory to be quiet to avoid drawing attention to themselves. (Fields Dep. at 7, 25.) Despite Fields\u2019s admonishment, Gregory got out of the car. Officer Marty Pollock, another Rogers policeman who was present, observed Gregory while he was outside the car. Gregory\u2019s behavior, however, did not reveal his intoxication. According to Officer Pollock, Gregory was neither belligerent nor argumentative, he got back in the car when Officer Pollock asked him to do so, and Officer Pollock \u201cdid not notice anything peculiar about him.\u201d (Pollock Dep. at 20-21.) Fields remained in the car and had no contact with either officer. Although Officer Howell walked up to the car, (Fields Dep. at 7), \u201c[he] was not aware that the passengers in the [car] were intoxicated. They were not unruly. [He] observed no open containers [and] did [not] smell alcohol in the car or on their persons.\u201d (Howell Aff. fl 9.) Likewise, although Fields stated she had several helium filled balloons in the car, at which she arid Gregory were batting \u201ctrying to keep them in the back\u201d [of the car when] \u201cthey kept coming up over the back of the seat,\u201d (Fields Dep. at 37), Officer Pollock could not recall seeing the balloons or hearing any noise coming from the Gregory car, (Pollock Dep. at 20).\nTurner talked with Officer Howell while standing at the rear of Gregory\u2019s car. During this discussion, Turner told Officer Howell that he, Gregory, and Fields were friends; they had decided \u201cto go out and party\u201d to take Gregory\u2019s mind off his marital problems; and they had visited \u201csome nightclubs.\u201d Turner also told Officer Howell that Gregory and Fields \u201chad been drinking\u201d and he was \u201cdriving them home.\u201d (Pollock Dep. at 19, 24.) Turner, however, did not tell Officer Howell that he was driving because Gregory and Fields were intoxicated. For his part, Turner was sober and fit to drive, and Gregory\u2019s appearance outside the car did nothing to suggest his condition was any different. Although Fields has little memory about the evening, she does not recall that \u201cshe did anything or took any action that would cause a police officer to arrest [her].\u201d (Fields Dep. at 21.)\nOfficer Howell requested a routine warrant check on Turner, which revealed an outstanding warrant for Turner\u2019s arrest. Because the warrant was not of a serious nature, Officer Howell granted Turner\u2019s request that he be allowed to drive to the Rogers police station to clear up the outstanding warrant. Gregory and Fields remained with Turner. Turner drove to the police station and parked on a city street in front of the station. As soon as Turner stopped in front of the station, Officer Pollock drove away and resumed his duties elsewhere. Officer Howell parked his patrol car in the police station\u2019s parking lot behind the building. Turner left Gregory and Fields in the car and walked into the station where he met Officer Howell. (Howell Dep. at 23.) Howell did not ask Turner about Gregory and Fields, id., and Howell\u2019s deposition does not show Turner said anything about Gregory and Fields or expressed any concern about them waiting in the car. It is undisputed that Gregory and Fields were never under Officer Howell\u2019s control, taken into custody, or placed under arrest.\nApproximately thirty minutes after Turner and Officer Howell met inside the station, \u201cGregory drove the car away from the police station.\u201d (Am.Compl. 1117.) Unlike Turner, Gregory and Fields were quite intoxicated. Regrettably, Gregory and Fields were involved in a single car accident that killed Gregory and injured Fields. Tests later confirmed that Gregory and Fields each had blood-alcohol contents above the Arkansas legal limits for operating a motor vehicle. The record shows that after Gregory had driven off, but before the accident occurred, the police dispatcher sent out a radio bulletin alerting patrolling officers to be on the lookout for the Gregory car because \u201cthe driver was probably going to be intoxicated.\u201d (Pollock Dep. at 33.) The record does not reveal how the dispatcher obtained this information, but Officer Howell first learned Gregory and Fields had driven away after the accident had occurred. (Howell Dep. at 25.)\nFields, together with Gregory\u2019s wife, son, and estate, brought this section 1983 action contending Officer Howell and the City of Rogers violated Gregory\u2019s. and Fields\u2019s Fourteenth Amendment substantive due process rights. According to the appellants, Officer Howell placed Gregory and Fields in danger by allowing them to remain in the car in front of the police station while waiting for Turner \u201cin spite of their obviously intoxicated condition.\u201d (Am.Compl. \u00b6\u00b6 15-16.) The district court, however, concluded the appellants\u2019 claims sounded in negligence and, thus, were insufficient to state a claim under section 1983. Daniels v. Williams, 474 U.S. 327, 328, 106 S.Ct. 662, 663, 88 L.Ed.2d 662 (1986) (holding a government official\u2019s negligent conduct will not support a substantive due process claim under section 1983); Davidson v. Cannon, 474 U.S. 344, 347-48, 106 S.Ct. 668, 670, 88 L.Ed.2d 677 (1986) (same). The district court granted the ap-pellees\u2019 motion for summary judgment and dismissed the appellants\u2019 lawsuit. The appellants appeal from this dismissal.\nII.\nTo prevail under section 1983, the appellants must show that persons acting under color of state law deprived Gregory and Fields \u201cof rights, privileges, or immunities secured by the Constitution or laws of the United States.\u201d Parratt v. Taylor, 451 U.S. 527, 535, 101 S.Ct. 1908, 1913, 68 L.Ed.2d 420 (1981), overruled on other grounds, Daniels, 474 U.S. at 330-31, 106 S.Ct. at 664-65. The parties do not dispute that Officer Howell and the City of Rogers acted under color of state law. Thus, our threshold inquiry is whether Officer Howell and the City of Rogers deprived Gregory and Fields of a substantive right arising under the Fourteenth Amendment. Baker v. McCollan, 443 U.S. 137, 140, 99 S.Ct. 2689, 2692, 61 L.Ed.2d 433 (1979); Wells v. Walker, 852 F.2d 368, 370 (8th Cir.1988), cert. denied, 489 U.S. 1012, 109 S.Ct. 1121, 103 L.Ed.2d 184 (1989).\nThe Fourteenth Amendment Due Process Clause, like its Fifth Amendment counterpart, protects persons against abusive, arbitrary, or oppressive government conduct. See DeShaney v. Winnebago County Dep\u2019t of Social Servs., 489 U.S. 189, 196, 109 S.Ct. 998, 1003, 103 L.Ed.2d 249 (1989); Daniels, 474 U.S. at 331, 106 S.Ct. at 665; Davidson, 474 U.S. at 348, 106 S.Ct. at 670. Many harms, though caused by a state actor, do not fall within the scope of section 1983, for section 1983 does not turn the Fourteenth Amendment into a font of tort law that supersedes the tort systems already available under individual state laws. See Estelle v. Gamble, 429 U.S. 97, 107, 97 S.Ct. 285, 292, 50 L.Ed.2d 251 (1976); Paul v. Davis, 424 U.S. 693, 701, 96 S.Ct. 1155, 1160, 47 L.Ed.2d 405 (1976). Indeed, \u201cthe [Fourteenth [A]mendment is not implicated by the lack of due care of an official causing unintended injury to life, liberty, or property.\u201d Abernathy v. Perry, 869 F.2d 1146, 1148 (8th Cir.1989) (citing Daniels, 474 U.S. at 328, 106 S.Ct. at 663; Davidson, 474 U.S. at 347, 106 S.Ct. at 670). Thus, to survive a motion for summary judgment, the appellants must show the summary judgment record supports their claim that the appellees\u2019 conduct rose to the level of a constitutional tort for which section 1983 provides a remedy.\nThe appellants contend Officer Howell violated Gregory\u2019s and Fields\u2019s substantive due process rights by failing to provide for their safety after he detained their designated driver. We disagree. In DeShaney, the Supreme Court explained that \u201cnothing in the language of the Due Process Clause ... requires the [sjtate to protect the life, liberty, and property of its citizens against invasion by private actors.\u201d DeShaney, 489 U.S. at 195, 109 S.Ct. at 1003. Although the Due Process Clause \u201cforbids the [sjtate itself to deprive individuals of life, liberty, or property without \u2018due process of law,\u2019 ... its language cannot fairly be extended to impose an affirmative obligation on the [sjtate to ensure that those interests do not come to harm through other means.\u201d Id. Only in limited circumstances does the Constitution impose on the state an affirmative duty to protect or care for particular individuals, id. at 198, 109 S.Ct. at 1004-05, and those circumstances are not present in this case.\nWe have held the Due Process Clause imposes a duty on state actors to protect or care for citizens in two situations: first, in custodial and other settings in which the state has limited the individuals\u2019 ability to care for themselves; and second, when the state affirmatively places a particular individual in a position of danger the individual would not otherwise have faced. Wells, 852 F.2d at 870; see also DeShaney, 489 U.S. at 195, 199-200, 109 S.Ct. at 1003, 1005; Freeman v. Ferguson, 911 F.2d 52, 55 (8th Cir.1990). The appellants do not contend that Officer Howell took Gregory and Fields into custody, exercised control over them, or had any special relationship with them. (Appellants\u2019 Br. at 23-24; Appellants\u2019 Reply Br. at 5, 9.) Nor do the appellants challenge Turner\u2019s arrest or the legitimacy of his detention, even though it disrupted Gregory and Fields\u2019s trip home, or suggest that Officer Howell was obligated to assume Turner\u2019s role as Gregory and Fields\u2019s designated driver and drive them home. Rather, the appellants contend that by allowing Gregory and Fields to remain unattended in Gregory\u2019s car, Officer Howell \u201cactively placed [them] in a situation of undeniable and certain danger\u201d they would not otherwise have encountered. (Appellants\u2019 Br. at 22-23; Am.Compl. \u00b6 24.)\nTo establish their claim that Gregory and Fields had a substantive due process right to Officer Howell\u2019s protective services, the appellants make two distinct contentions in their complaint. See Collins v. City of Harker Heights, \u2014 U.S. -, 112 S.Ct. 1061, 1068, 117 L.Ed.2d 261 (1992) (court must look to the complaint for a description of the constitutional right at stake). First, the appellants contend that Officer Howell \u201cknew or should have known\u201d Gregory and Fields were vulnerable because .of their intoxication and, thus, could not drive safely. (Am.Compl. \u00b6\u00b6 11, 14.) Second, the appellants contend that it was dangerous for Gregory and Fields to remain unattended in Gregory\u2019s car while Turner was in the police station. (Am.Compl. \u00b6\u00b6 15-16, 24.)\nTo withstand the appellees\u2019 motion for summary judgment, the appellants had the burden of presenting evidence sufficiently supporting the disputed material facts that a reasonable jury could return a verdict in their favor. Anderson, 477 U.S. at 248, 106 S.Ct. at 2510. The object of our review, then, is to determine whether the appellants submitted \u201csufficient probative evidence [that] would permit a finding in [their] favor on more than mere speculation, conjecture, or fantasy.\u201d Barnes v. Arden Mayfair, Inc., 759 F.2d 676, 681 (9th Cir.1985). A mere scintilla of evidence is insufficient to avoid summary judgment. Anderson, 477 U.S. at 252, 106 S.Ct. at 2512. If the evidence the appellants put forward \u201cis merely colorable,\u201d or \u201cis not significantly probative,\u201d the appellees are entitled to summary judgment as a matter of law. Id. at 249-50, 106 S.Ct. at 2510-11. With these principles in mind, we consider the appellants\u2019 contentions in turn.\nHaving considered the evidence supporting the appellants\u2019 first contention, we conclude a reasonable trier of fact could not find Officer Howell \u201cknew or should have known\u201d Gregory and Fields were intoxicated and unfit to drive. During the sixteen minutes it took to stop Turner and discover the outstanding arrest warrant, nothing happened to alert Officer Howell or Officer Pollock to Gregory and Fields\u2019s intoxicated condition. While standing at the rear of Gregory\u2019s car, Turner briefly \u201cexplained to Officer Howell that he was ... driving [Gregory and Fields] home. He said that they had been drinking and they were all friends and that because Gregory had been having some marital problems ... they all decided to go out and party.\u201d (Pollack Dep. at 24.) Turner also mentioned they had \u201cattendfed] some night clubs in the area.\u201d (Pollack Dep. at 19.) (The record contains no deposition or affidavit from Turner.) Although Turner probably knew of their intoxication, he did not tell Officer Howell that Gregory and Fields needed a designated driver because they were intoxicated. Nor did Turner disclose what Gregory and Fields had been drinking, how much they had consumed, or when they took their last drink.\nAs given, Turner\u2019s statements add up to nothing more than an explanation that the trio had gone out for an evening of entertainment and diversion, and Gregory and Fields had likely consumed alcohol. Turner\u2019s words fall short of giving Officer Howell grounds to believe Gregory and Fields were intoxicated. Indeed, from Officer Howell\u2019s perspective, the happenings surrounding the traffic stop presented nothing out of the ordinary \u2014 Turner was sober; the owner of the car, Gregory, appeared sober and coherent when he stepped outside the car; Gregory and Fields were not unruly and their conduct, if observed, was limited to keeping the floating balloons in the back of the car; Officer Howell noticed no odor of alcohol or beverage containers in view; and nothing Turner said suggested Gregory and Fields had consumed enough alcohol to reach the point of intoxication.\nGiven the absence of any detectable signs that Gregory and Fields were intoxicated, Turner\u2019s statement that they had been drinking does not provide a sufficient basis on which a jury could reasonably draw the inference that Officer Howell was aware of their intoxication and unfitness to drive. See Mercer v. Armontrout, 864 F.2d 1429, 1436 (8th Cir.1988) (evidence that person has consumed alcohol does not establish intoxication); Miles v. Ryan, 484 F.2d 1255, 1258 n. 6 (3d Cir.1973) (same); Pendergrast v. United States, 416 F.2d 776, 778 n. 1, 785 n. 51 (D.C.Cir.) (evidence that two persons had consumed a pint of whiskey and two beers does not imply they were intoxicated), cert. denied, 395 U.S. 926, 89 S.Ct. 1782, 23 L.Ed.2d 243 (1969). An inference is a logical deduction reasonably drawn from facts established by evidence in the record. See Mitchell v. Machinery Ctr., Inc., 297 F.2d 883, 885 (10th Cir.1961). The appellants\u2019 evidence, on the other hand, would allow the jury to draw nothing more than a mere supposition \u2014 a possibility or guess that a condition existed without a scintilla of proof that it did. See id. Based on the information available to Officer Howell, Gregory and Fields were nothing more than adult passengers, undoubtedly inconvenienced by Turner\u2019s arrest, who were at liberty to make their own arrangements if they did not want to wait for Turner. The appellants have thus failed to submit sufficient evidence to support the first contention on which they base their section 1983 claim.\nHaving failed to submit sufficient evidence to withstand summary judgment on their first essential contention, the appellants cannot prevail. Nevertheless, we also conclude that even if Officer Howell knew Gregory and Fields were intoxicated, a reasonable trier of fact could not find that Officer Howell affirmatively placed Gregory and Fields in danger when \u201cGregory and Fields were left in the car\u201d at the police station. (Am.Comp. \u00b6 15.) Officer Howell did not leave Gregory and Fields stranded at the place of Turner\u2019s arrest or in a dangerous area. See Wood v. Ostrander, 879 F.2d 583 (9th Cir.1989), cert. denied, \u2014 U.S. -, 111 S.Ct. 341, 112 L.Ed.2d 305 (1990) (trooper knowingly left arrested driver\u2019s female passenger stranded in a high-crime area during inclement weather); White v. Rockford, 592 F.2d 381 (7th Cir.1979) (police officers stranded young children on Chicago expressway during inclement weather). Nor did Officer Howell interfere with Gregory and Fields\u2019s decision to remain in the car with Turner\u2014 the person they had selected to serve as their \u201cdesignated driver\u201d and whom they characterize as their \u201ccaretaker.\u201d (Appellant\u2019s Br. at 22.) Instead, Officer Howell permitted Turner to drive the car to the police station, where Turner chose to park on a city street in front of the station.\nIn carrying out Turner\u2019s arrest in this manner, Officer Howell gave Turner a free hand to make suitable arrangements for his passengers before he joined Officer Howell in the police station. Although Turner\u2019s arrest delayed him from immediately driving Gregory and Fields home, Turner was clearly in a position to perform his caretaker role. After all, Turner was alone in the car with Gregory and Fields in front of a police station, he was under no pressure to rush into the station, he knew Gregory and Fields had not been taken into custody, and of all people, he knew the true extent of their drinking. If Gregory and Fields were too intoxicated to care for themselves or be left alone, Turner could have brought them inside the police station, made phone calls to other friends to take Gregory and Fields home (Turner was seated inside the police station; he was not placed in a cell), or informed Officer Howell that Gregory and Fields could not safely be left unsupervised. The record does not show that Turner took any of these actions; instead, he placed Gregory and Fields in danger when he failed to remove the keys from the car before he entered the police station. (Nothing in the complaint or record suggests Gregory had a second set of keys.) Tragically, all Turner had to do to protect Gregory and Fields from harm was retain those keys, which would have ensured Gregory could not drive away while intoxicated. Simply put, it was not unsafe for the intoxicated Gregory and Fields to wait for Turner inside the car where it was parked until Turner inexplicably left the keys with them. Certainly, Officer Howell could not foresee Turner abdicating his responsibility as their designated driver, and it was his abdication that placed Gregory and Fields in danger, not Officer Howell\u2019s performance of his official duty.\nNevertheless, the appellants assert that Officer Howell should have \u201ctaken [Gregory and Fields] inside the police station\u201d and should have \u201cremov[ed] the keys from the [ear].\u201d (Am.Compl. \u00b6\u00b6 15, 16.) These assertions amount to nothing more than a transparent effort to circumvent the general rule that Gregory and Fields had \u201cno constitutional right to be protected by [Officer Howell] against harm inflicted by [Turner].\u201d Wells, 852 F.2d at 370; Deskaney, 489 U.S. at 195-96, 109 S.Ct. at 1003. Truly, the appellants\u2019 case is bottomed on the flawed premise that Officer Howell endangered Gregory and Fields by leaving them in the company of their own designated driver.\nGiven the record in this case, a reasonable trier of fact could not conclude that Officer Howell \u201caffirmatively place[d] [Gregory and Fields] in a position of danger.\u201d Wells, 852 F.2d at 370. Instead, the appellants have failed to present a triable issue on their claim that Gregory and Fields \u201cpossessed a right arising under the [Fourteenth [A]mendment to be protected by [Officer Howell] from harm inflicted by a third party.\u201d Id. There being no deprivation of a protected right, we need not consider whether the district court properly characterized the appellants\u2019 complaint as stating nothing more than a mere negligence claim, see Baker, 443 U.S. at 140 & n. 1, 99 S.Ct. at 2692 & n. 1; see also Daniels, 474 U.S. at 328, 106 S.Ct. at 663, or what greater standard of care is necessary to state a substantive due process claim under section 1983, see Myers v. Morris, 810 F.2d 1437, 1468-69 (8th Cir.1987) (holding gross negligence does not implicate the due process clause).\nIII.\nThe appellants base their claim against the City of Rogers on theories that Officer Howell\u2019s conduct resulted from inadequate training and from following municipal policy or custom. Having concluded Officer Howell did not violate Fields\u2019s and Gregory\u2019s constitutional rights, the appellants cannot press a claim against the City of Rogers on either theory. Reynolds v. City of Little Rock, 893 F.2d 1004, 1007 (8th Cir.1990) (quoting City of Los Angeles v. Heller, 475 U.S. 796, 799, 106 S.Ct. 1571, 1573, 89 L.Ed.2d 806 (1986) (per curiam)); see also Tempkin v. Frederick County Comm\u2019rs, 945 F.2d 716, 724 (4th Cir.1991).\nWe affirm the district court.",
+        "type": "majority",
+        "author": "FAGG, Circuit Judge."
+      },
+      {
+        "text": "HEANEY, Senior Circuit Judge,\ndissenting, with whom LAY, Chief Judge, and McMILLIAN, RICHARD S. ARNOLD and JOHN R. GIBSON, Circuit Judges, join.\nI agree with much of the court\u2019s opinion. The court implicitly recognizes, and I agree, that if the plaintiffs\u2019 allegations are true, officer Howell is liable to the plaintiffs under section 1983. The allegations present a picture of active government intervention that placed the plaintiffs in greater danger and rendered them more vulnerable than they would have been otherwise, thus distinguishing this case from DeShaney v. Winnebago County Dep\u2019t of Social Services, 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989). I believe, however, that the record when viewed in the light most favorable to the plaintiffs contains sufficient evidence to withstand summary judgment. The plaintiffs offered evidence: (1) that the officers for the City of Rogers knew that Garner Gregory and Donna Mae Fields were drunk when they stopped and detained Stanley Turner, the plaintiffs\u2019 designated driver, and (2) that in light of this knowledge, the officers were reckless when they failed to prevent these intoxicated people from driving away from the police station. Accordingly, I dissent.\nI.\nAlthough the court sets forth the correct legal standards for evaluating the evidence presented below, it has neither viewed that evidence in the light most favorable to the plaintiffs nor drawn all justifiable inferences in the plaintiffs\u2019 favor. I turn first to the court\u2019s conclusion that \u201cduring the sixteen minutes it took to stop Turner and discover the outstanding arrest warrant, nothing happened to alert Officer Howell or Officer Pollock to Gregory\u2019s and Fields\u2019s intoxicated condition.\u201d See ante at 1010. The following evidence, viewed in the light most favorable to the plaintiffs, demonstrates that the court has erred by concluding that no reasonable fact finder could find that the officers knew or recklessly disregarded the fact that Garner Gregory and Donna Mae Fields were intoxicated on the night in question.\n1. Turner, the plaintiffs\u2019 designated driver, told Howell, the arresting officer, that his passengers \u201chad been drinking,\u201d had visited \u201csome nightclubs,\u201d had decided \u201cto go out and party,\u201d and that he was driving them home. Ante at 1008. Turner also explained that Gregory was going out to party because Gregory was having problems with his wife. Id. It is of little importance that Turner did not directly tell the officers \u201cthat he [Turner] was driving because Gregory and Fields were intoxicated.\u201d Ante at 1008. Given the ordinary usage of words like \u201cparty,\u201d the now-common custom of having a sober designated driver before visiting a string of nightclubs and bars, and the age-old practice of drinking heavily to drown ones\u2019 troubles, a reasonable trier of fact easily could conclude that Turner\u2019s \u201cdesignated driver\u201d status was obvious to the officers.\n2. The plaintiffs\u2019 actions during the stop only added to the evidence that Turner was the \u201cdesignated driver.\u201d Fields and Gregory were batting around four or five helium-filled balloons in the car while the police questioned Turner only a few feet away. Fields Dep. at 37; Pollock Dep. at 19. Gregory was making a lot of noise in the car, enough that Fields was concerned they might be arrested. Fields Dep. at 25, 37-38. A reasonable trier of fact could conclude that the officers could see and hear these goings on; the parking lot was well lit, the headlights of Pollock\u2019s police car were shining into the car, and Howell and Pollock stood no more than three or four feet behind the car. Fields Dep. at 37-38; Pollock Dep. at 20; Howell Dep. at 16. A trier of fact could reasonably conclude that sober people would not have behaved as Fields and Gregory did in the presence of police officers.\n3. A reasonable trier of fact could find that Officer Howell knew that Turner was the plaintiffs\u2019 designated driver because Gregory owned the car that Turner was driving. Howell and Pollock spent sixteen minutes with Turner in the parking lot after the stop. Officer Howell asked Turner for his driver\u2019s license. The dispatcher then ran a warrant check on Turner\u2019s license, a procedure that ordinarily takes three minutes, leaving thirteen minutes for other matters. Howell Dep. at 16-20. The warrant check revealed that there was a traffic warrant out for Turner. Howell did not recall running the license plate of the car to see if it was stolen, but \u201cif the dispatcher is not busy ... they will automatically do it for you.\u201d Howell Dep. at 17. The license plate check, of course, would have shown that Gregory, and not Turner, owned the car Turner was driving. It is difficult to believe that Howell did not learn during the stop that Gregory owned the car.\n4.The court\u2019s opinion downplays perhaps the most significant fact in this case. Shortly after the police took Turner into custody at the police station, the dispatcher alerted police officers over the radio that the Turner car \u201chad driven off from the station and that the driver was probably going to be intoxicated.\u201d Pollock Dep. at 33 (emphasis added). Both Turner and Officer Howell were in the police station at that time. Howell Dep. at 23-24. The record does not reveal who told the dispatcher (1) that the Gregory vehicle had been driven off, and (2) that the driver was intoxicated. A reasonable trier of fact could conclude that Howell went outside to the area where the Turner car had been parked, saw it was gone, and reported the facts to the dispatcher, who then alerted the other police officers. After all, Howell was freer to leave the police station than Turner, who was in custody, and Howell would have known that the passengers were drunk. Although Officer Howell claimed he did not learn about the plaintiffs\u2019 \u201cescape\u201d from the police station until after the accident, see Howell Dep. at 25, we cannot assume that claim to be true on a motion for summary judgment.\nII.\nA reasonable factfinder could conclude that Howell and Pollock knew: (1) that the plaintiffs were intoxicated, (2) that Turner had been their designated driver, and (3) that Turner had been driving Gregory\u2019s car. It naturally follows that a reasonable factfinder could conclude that Officers Howell and Pollock deliberately left Gregory and Fields to their own devices in Gregory\u2019s car, recklessly disregarding the grave risk that they would injure themselves as a result of driving while intoxicated. It was foreseeable that Gregory had the keys to his own car, and police officers have a heightened awareness of the dangers of an intoxicated driver. Nothing in the record, however, indicates that Howell or Pollock took any steps to ensure that Fields or Gregory would not drive away from the police station. In fact, after Turner was escorted to the police station, Officer Howell testified that Gregory and Fields were \u201cfree to go\u201d if they wanted. Howell Dep. at 25. Under these circumstances, the plaintiffs alleged sufficient facts to withstand summary judgment.\nIII.\nThis case does not present facts as compelling as those in Freeman v. Ferguson, 911 F.2d 52 (8th Cir.1990); Wood v. Ostrander, 879 F.2d 583 (9th Cir.1989); or White v. Rockford, 592 F.2d 381 (7th Cir.1979). Drunken people are far less sympathetic plaintiffs than crime victims or young children, and the plaintiffs here may well have difficulty obtaining a favorable jury verdict. Moreover, the record here is not as well developed as it could be. We do not have the depositions of two key players, Turner and the police dispatcher. Nonetheless, based on the record before us, the plaintiffs have set forth sufficient facts to preclude summary judgment. Accordingly, I dissent.\n. A complete statement of the relevant facts and claims of the parties is set forth in the opinion of the three-judge panel that initially heard this appeal on October 9, 1990. Gregory v. City of Rogers, Arkansas, 921 F.2d 750, 751-53 (8th Cir.1990).\n. For example, the court states as fact that \"Gregory's behavior [during the traffic stop] ... did not reveal his intoxication.\u201d See ante at 1008. Although this \"fact\u201d is a reasonable inference if one views the officers\u2019 testimony in a light favorable to them, it is not the only reasonable inference to be drawn from the evidence. See infra at 1013.\n. As backup officer, Pollock also was able to hear the conversation between Turner and Howell. Pollock Dep. at 19, 24.\n. Although the court acknowledges that Turner told Howell and Pollock that the plaintiffs had been drinking, it cites a number of cases to show that such a statement would not provide a jury with enough evidence to conclude that the officers were aware of their intoxication and unfitness to drive. See ante at 1010-1011. With all due respect, I read these cases differently, and I doubt their applicability here. For example, in Mercer v. Armontrout, 864 F.2d 1429, 1436 (8th Cir.1988), the question was whether counsel was ineffective for failing to highlight the defendant\u2019s diminished capacity and failing to elicit evidence about the defendant\u2019s consumption of alcohol before he committed a murder. We did not rule that such evidence could never support a finding of intoxication. In Pendergrast v. United States, 416 F.2d 776, 778 n. 1, 781 n. 51 (D.C.Cir.), cert. denied, 395 U.S. 926, 89 S.Ct. 1782, 23 L.Ed.2d 243 (1969), the question was whether the police had probable cause to arrest someone when the complainant upon which they relied had consumed some alcohol. The District of Columbia Circuit never said that evidence of alcohol consumption could not support a finding of intoxication. Finally, Miles v. Ryan, 484 F.2d 1255, 1258 n. 6 (3d Cir.1973), only dealt with the admissibility of witness evidence under Pennsylvania law, with a dissent vigorously contesting the court\u2019s conclusions.\nMoreover, as I demonstrate below, there was more in this case than mere words. Turner was driving Gregory\u2019s car; this, coupled with what Turner said to the officers, made it clear that he was the plaintiffs\u2019 designated driver. In addition, Gregory was loud and both Gregory and Fields were acting drunk by batting around the balloons in the car while officers were only a few feet away.\n. Other inferences could be drawn in the defendant's favor from the evidence, but that is not our task on summary judgment.",
+        "type": "dissent",
+        "author": "HEANEY, Senior Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Susan A. Fox, Springdale, Ark., argued en banc, for appellants.",
+      "David Harlan White, Hot Springs, Ark., argued en banc, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Garner GREGORY, Administrator of the Estate of Joe Edwin Gregory; Beate Gregory, individually and as mother and next friend of Joe Ray Gregory; and Donna Mae Fields, Appellants, v. The CITY OF ROGERS, ARKANSAS; Ptl. Ronnie Howell, individually and in his capacity as a police officer of the City of Rogers, Arkansas; and Imperial Casualty and Indemnity Co., Appellees.\nNo. 89-2863.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted May 13, 1991.\nDecided Sept. 9, 1992.\nSusan A. Fox, Springdale, Ark., argued en banc, for appellants.\nDavid Harlan White, Hot Springs, Ark., argued en banc, for appellees.\nBefore LAY, Chief Judge, HEANEY, Senior Circuit Judge, McMILLIAN, RICHARD S. ARNOLD, JOHN R. GIBSON, FAGG, BOWMAN, WOLLMAN, MAGILL, BEAM, and LOKEN, Circuit Judges, en banc.\nThe Honorable Donald P. Lay, Chief Judge of the United States Court of Appeals for the Eighth Circuit when this case was submitted, took senior status on January 7, 1992.\nThe Honorable Richard S. Arnold became Chief Judge of the United States Court of Appeals for the Eighth Circuit on January 7, 1992."
+  },
+  "file_name": "1006-01",
+  "first_page_order": 1086,
+  "last_page_order": 1095
+}

@@ -1,0 +1,38 @@
+{
+  "source_case": "gregory",
+  "primary_reproduction_url": "https://law.resource.org/pub/us/case/reporter/F2/974/974.F2d.1006.89-2863.html",
+  "independent_reproduction_url": "https://static.case.law/f2d/974/cases/1006-01.json",
+  "retrieval_date": "2026-11-03",
+  "historical_source_cutoff": "1995-06-19",
+  "extraction": "Python ElementTree itertext; no retyping of quoted paragraphs",
+  "files": {
+    "gregory-preconduct-cap-source.json": {
+      "bytes": 526,
+      "sha256": "c9e6e9c07212eda1dc338321d96fa2c10e9da1539756b46c349af99fe5774e8d"
+    },
+    "gregory-preconduct-cap.json": {
+      "bytes": 52415,
+      "sha256": "aefdefeb5e0df3c4fe57e319012ad09d18b80a0b87338edd2c94a7a740bb4e9c"
+    },
+    "gregory-preconduct-cap.txt": {
+      "bytes": 33194,
+      "sha256": "c464670fe45f27e4dcb1b8e406ab2dcd615304d128aec96c594e8c93226af4e9"
+    },
+    "gregory-preconduct-crosscheck.json": {
+      "bytes": 25831,
+      "sha256": "b7be3bd92b4b9135616c1e7881c984b0bfe772fccb04600fbeaf43a66db39cc8"
+    },
+    "gregory-preconduct-excerpts.md": {
+      "bytes": 9831,
+      "sha256": "e3517c1a63aee904286fe0eb948fca9b4a2b4937b1e86f411c958aee72ab9186"
+    },
+    "gregory-preconduct-resource.html": {
+      "bytes": 39600,
+      "sha256": "c16020eccb416ca77d6b2b465469ad2dcd2ae8da1805cf33aa6257a09398b578"
+    },
+    "gregory-preconduct-resource.txt": {
+      "bytes": 33950,
+      "sha256": "e9fa212fe92c49ccc07727f815b308d33043e2922d9051695427911657ebef03"
+    }
+  }
+}

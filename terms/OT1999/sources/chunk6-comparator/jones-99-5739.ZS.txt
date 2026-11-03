@@ -1,0 +1,54 @@
+JONES V. UNITED STATES
+
+ 
+
+ 
+
+LII
+
+ 
+
+Supreme Court
+
+ 
+
+JONES V. UNITED STATES (99-5739) 
+178 F.3d 479, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Concurrence
+ [ Stevens ]Concurrence
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+JONES v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+
+ 
+No. 99—5739. Argued March 21, 2000–Decided May 22, 2000
+
+Petitioner Jones tossed a Molotov cocktail into a home owned and occupied by his cousin as a dwelling place for everyday family living. The ensuing fire severely damaged the home. Jones was convicted in the District Court of violating, inter alia, 18 U.S.C. § 844(i), which makes it a federal crime to “maliciously damag[e] or destro[y], … by means of fire or an explosive, any building … used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce.” The Seventh Circuit affirmed, rejecting Jones’s contention that §844(i), when applied to the arson of a private residence, exceeds the authority vested in Congress under the Commerce Clause.
+
+Held: Because an owner-occupied residence not used for any commercial purpose does not qualify as property “used in” commerce or commerce-affecting activity, arson of such a dwelling is not subject to federal prosecution under §844(i). Pp. 3—10.
+
+ (a) In support of its argument that §844(i) reaches the arson of an owner-occupied private residence, the Government relies principally on the breadth of the statutory term “affecting … commerce,” words that, when unqualified, signal Congress’ intent to invoke its full Commerce Clause authority. But §844(i) contains the qualifying words “used in” a commerce-affecting activity. The key word is “used.” Congress did not define the crime as the explosion of a building whose damage or destruction might affect interstate commerce, but required that the damaged or destroyed property itself have been used in commerce or in an activity affecting commerce. The proper inquiry, therefore, is into the function of the building itself, and then into whether that function affects interstate commerce. The Court rejects the Government’s argument that the Indiana residence involved in this case was constantly “used” in at least three “activit[ies] affecting commerce”: (1) it was “used” as collateral to obtain and secure a mortgage from an Oklahoma lender, who, in turn, “used” it as security for the loan; (2) it was “used” to obtain from a Wisconsin insurer a casualty insurance policy, which safeguarded the interests of the homeowner and the mortgagee; and (3) it was “used” to receive natural gas from sources outside Indiana. Section 844(i)’s use-in-commerce requirement is most sensibly read to mean active employment for commercial purposes, and not merely a passive, passing, or past connection to commerce. See, e.g., Bailey v. United States, 516 U.S. 137, 143, 145. It surely is not the common perception that a private, owner-occupied residence is “used” in the “activity” of receiving natural gas, a mortgage, or an insurance policy. Cf. id., at 145. The Government does not allege that the residence here served as a home office or the locus of any commercial undertaking. The home’s only “active employment,” so far as the record reveals, was for the everyday living of Jones’s cousin and his family. Russell v. United States, 471 U.S. 858, 862–in which the Court held that particular property was being used in an “activity affecting commerce” under §844(i) because its owner was renting it to tenants at the time he attempted to destroy it by fire–does not warrant a less “use”-centered reading of §844(i) in this case. The Court there observed that “[b]y its terms,” §844(i) applies only to “property that is ‘used’ in an ‘activity’ that affects commerce,” and ruled that “the rental of real estate” fits that description, ibid. Here, the homeowner did not use his residence in any trade or business. Were the Court to adopt the Government’s expansive interpretation, hardly a building in the land would fall outside §844(i)’s domain, and the statute’s limiting language, “used in,” would have no office. Judges should hesitate to treat statutory terms in any setting as surplusage, particularly when the words describe an element of a crime. E.g., Ratzlaf v. United States, 510 U.S. 135, 140—141. Pp. 3—8.
+
+ (b) The foregoing reading is in harmony with the guiding principle that where a statute is susceptible of two constructions, by one of which grave and doubtful constitutional questions arise and by the other of which such questions are avoided, the Court’s duty is to adopt the latter. See, e.g., Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Constr. Trades Council, 485 U.S. 568, 575. In holding that a statute making it a federal crime to possess a firearm within 1,000 feet of a school exceeded Congress’ power to regulate commerce, this Court, in United States v. Lopez, 514 U.S. 549, stressed that the area was one of traditional state concern, see, e.g., id., at 561, n. 3, and that the legislation aimed at activity in which neither the actors nor their conduct had a commercial character, e.g., id., at 560—562. Given the concerns brought to the fore in Lopez, it is appropriate to avoid the constitutional question that would arise were the Court to read §844(i) to render the traditionally local criminal conduct in which Jones engaged a matter for federal enforcement. United States v. Bass, 404 U.S. 336, 350. The Court’s comprehension of §844(i) is additionally reinforced by other interpretive guides. Ambiguity concerning the ambit of criminal statutes should be resolved in favor of lenity, Rewis v. United States, 401 U.S. 808, 812, and when choice must be made between two readings of what conduct Congress has made a crime, it is appropriate, before choosing the harsher alternative, to require that Congress should have spoken in language that is clear and definite, United States v. Universal C. I. T. Credit Corp., 344 U.S. 218, 221—222. Moreover, unless Congress conveys its purpose clearly, it will not be deemed to have significantly changed the federal-state balance in the prosecution of crimes. Bass, 404 U.S., at 349. To read §844(i) as encompassing the arson of an owner-occupied private home would effect such a change, for arson is a paradigmatic common-law state crime. Pp. 8—9.
+
+178 F.3d 479, reversed and remanded.
+
+ Ginsburg, J., delivered the opinion for a unanimous Court. Stevens, J., filed a concurring opinion, in which Thomas, J., joined. Thomas, J., filed a concurring opinion, in which Scalia, J., joined.

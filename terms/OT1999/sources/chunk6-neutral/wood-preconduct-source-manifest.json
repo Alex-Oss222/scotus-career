@@ -1,0 +1,38 @@
+{
+  "source_case": "wood",
+  "primary_reproduction_url": "https://law.resource.org/pub/us/case/reporter/F2/879/879.F2d.583.87-3924.html",
+  "independent_reproduction_url": "https://static.case.law/f2d/879/cases/0583-01.json",
+  "retrieval_date": "2026-11-03",
+  "historical_source_cutoff": "1995-06-19",
+  "extraction": "Python ElementTree itertext; no retyping of quoted paragraphs",
+  "files": {
+    "wood-preconduct-cap-source.json": {
+      "bytes": 253,
+      "sha256": "645df0343de999b63c7373ac10e9e63cf11fb4989a5da59ece2cdd6661d0463d"
+    },
+    "wood-preconduct-cap.json": {
+      "bytes": 132244,
+      "sha256": "c849f5840b502e9bc5f5142dc2fa0f6f0896fbb2b917d15adeab33655098fd21"
+    },
+    "wood-preconduct-cap.txt": {
+      "bytes": 88423,
+      "sha256": "2c0049f86c0c0f9bfae0b741e085f2f4b00151c0d848da26302f06edb0bcf2e7"
+    },
+    "wood-preconduct-crosscheck.json": {
+      "bytes": 15753,
+      "sha256": "b4fe2e06ab7f893ecd12d0a10d0aa8a3ee39ca0727fef3d27faaf74884f52fe3"
+    },
+    "wood-preconduct-excerpts.md": {
+      "bytes": 10984,
+      "sha256": "0e38e997697489357f0e76efdcbf550d6cc0ccaceca62fc6cbad246aae4483ff"
+    },
+    "wood-preconduct-resource.html": {
+      "bytes": 108564,
+      "sha256": "38ecd9a11cd94c354ce8f9083225ad1fc54cac4e6a9b07f20bf00dcba46b64ee"
+    },
+    "wood-preconduct-resource.txt": {
+      "bytes": 89255,
+      "sha256": "87d8c4b56cb3f83e9d8c832747d3506e92cef0afe54d19531860fe29b14cfbff"
+    }
+  }
+}

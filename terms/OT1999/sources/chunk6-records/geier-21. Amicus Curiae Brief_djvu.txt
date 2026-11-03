@@ -1,0 +1,1714 @@
+- : 
+
+
+FILED 
+| 
+) Ve [tale 
+f NOY 19 
+No. 98-181] OFFICE OF THE CLERK 
+SS, s 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+ALEXIS GEIER, ET AL.. 
+Petitioners, 
+We 
+AMERICAN HONDA MOTOR Co., INC., ET AL.. 
+Respondents. 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The District Of Columbia Circuit 
+
+
+BRIEF FOR THE CHAMBER OF COMMERCE 
+OF THE UNITED STATES OF AMERICA AS 
+
+
+AMICUS CURIAE IN SUPPORT OF 
+RESPONDENT 
+
+Of Counsel: THEODORE B. OLSON 
+ROBIN S. CONRAD Counsel of Record 
+NATIONAL CHAMBER THEODORE J. BOUTROUS, JR. 
+
+LITIGATION CENTER, INC. THOMAS G. HUNGAR 
+1615H Street, N.W. GIBSON, DUNN & CRUTCHER LLP 
+Washington, D.C. 20062 1050 Connecticut Avenue, N.W. 
+(202) 463-5337 Washington, D.C. 20036 
+
+
+(202) 955-8500 
+
+
+Counsel for Amicus Curiae 
+
+
+QUESTION PRESENTED 
+
+
+Whether the National Traffic and Motor Vehicle 
+Safety Act of 1966, 15 U.S.C. §§ 1381 et seg. (1988), 
+and Federal Motor Vehicle Safety Standard 208, 49 
+C.F.R. § 571.208 (1987), preempt a state common-law 
+tort claim that an automobile manufactured in 1987 was 
+defectively designed because it did not contain an air- 
+bag. 
+
+
+ii 
+TABLE OF CONTENTS 
+
+Page 
+CUFESTION PIREIEIIC TSO cceccsscesssccoscunssctesctateebikipobtastinanal i 
+ey) Boe Pts, > 55 | FRO smc Tey iv 
+INTEREST OF THE AMICUS CURIAE .....................00+. l 
+STATIS accecosincesiitstatncciebieniicieb ta tea arr l 
+SUMMARY OF ARGUMENT ...........cccccccsccccccsccsscssseseeees 4 
+ARRAS TIIIGE cediiiccncatessitinicocdeibiiesaiscicticiacinte ete ae ele 6 
+
+I. PETITIONER’S SUIT IS EXPRESSLY PRE- 
+
+EMPTED BECAUSE IT SEEKS TO IMPOSE 
+
+A “STANDARD” DIFFERENT FROM THAT 
+IMPOSED BY FEDERAL LAW. ............cccccccseseeseeeees 6 
+
+A. Precedent Demonstrates That State Court 
+Adjudication Establishes “Standards”.................. 7 
+
+
+B. Common Sense And Experience Confirm 
+That State Court Adjudication Establishes 
+“Standards” That Industry Must Satisfy Or 
+Face Potentially Crushing Liability...................0. 9 
+C. Petitioners’ Suit Seeks To Establish A 
+“Standard” That Is Different From Stan- 
+
+
+Il. THE DOCTRINE OF IMPLIED PREEMP- 
+TION BARS PETITIONERS’ SUIT ..........ccccceseesees 14 
+
+
+A et 
+
+
+il 
+
+
+A. This Court’s Precedents Make Clear That 
+
+
+Implied Preemption Analysis Is Appropri- 
+ate Under Statutes Containing An Express 
+
+
+Preemption Provision ..............:..0c.sscssscseseseeeeesees 
+B. The Evisceration Of Implied Preemption 
+Analysis Sought By Petitioners And Their 
+Amici Would Work A Dramatic And Dis- 
+astrous Shift In The Balance Of State And 
+
+
+ST ilitiesidbh deinenthdicdainsinstisnasedenrseincsencsenssseenssenee 
+
+
+iv 
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+American Airlines, Inc. v. Wolens, 
+
+
+FED Un SEP CSOD ccnvtivrstcneemnatinnes ease -ctnisiipmndaiaie 
+
+
+American Tel. & Tel. Co. v. Central Office 
+
+
+Tel., Inc., 524 U.S. 214 (1998) .cs.ccccssccccsesessueseeee 
+
+
+Brown v. Hotel & Rest. Empls. & Bartenders 
+Int'l Union Local 54, 468 U.S. 491 
+
+
+CU i Re 
+
+
+Browning-Ferris Indus. of Vt., Inc. v. Kelco 
+
+
+Disposal, Inc., 492 U.S. 257 (1989) secc.cccccccsssesessues 
+
+
+CSX Transp., Inc. v. Easterwood, 
+
+
+SOF Wah GE CORSO cheentvctantntninnciesrnmeens 
+
+
+Camacho v. Honda Motor Co., 741 P.2d 
+
+
+RC A CITI ite tihenpicinbacheitninctittintgectaieasstnenaiin 
+
+
+Cipollone v. Liggett Group, Inc., 
+
+
+SOD ULE. FOO CED cenvinetneniirnennentemtmiseereninnss 
+
+
+Cox v. R.O. Corp., 470 So. 2d 790 (Fla. Dist. 
+
+
+he iin I i 
+
+
+Dallas v. F.M. Oxford Inc., 552 A.2d 1109 
+
+
+We ate Ci I saci sect heer 
+
+
+Davis v. Commercial Union Ins. Co., 
+
+
+S92 F 26 S7B (SEs Cit. BDBG) wcccoscccevccceceecescscersceseeee 
+
+
+Doty v. Navistar Int'l Transp. Corp., 639 
+
+
+N.Y.S.2d 592 (N.Y. App. Div. 1996) ..cccccccsssssssseee 
+
+
+_. 
+
+
+mee SC 
+
+
+Vv 
+
+
+Duncan v. Cessna Aircraft Co., 632 S.W.2d 
+375 (Tex. App. 1982), rev'd in part on 
+other grounds by Duncan v. Cessna Air- 
+craft Co., 665 S.W.2d 414 (Tex. 1984) 
+and Smithson v. Cessna Aircraft Co., 665 
+
+
+Ae 8 EE eee 9 
+Dura-Stilts Co. v. Zachry, 697 S.W.2d 658 
+
+(Tex. App. 1985, writ ref’d 1.1.€.) .....c.ccccececeeeeees 10 
+Felder v. Casey, 487 U.S. 131 (1988) ........ccccccccceeeseees 26 
+Free v. Bland, 369 U.S. 663 (1962) .......cccccccsseeeeeereeens 26 
+Freightliner Corp. v. Myrick, 
+
+I Ree 14,15,18 
+Geier v. American Honda Motor Co., 
+
+166 F.3d 1236 (D.C. Cir. 1999) .........cccceeees 2-3,14,15 
+Grover v. Grover, 972 S.W.2d 568 
+
+GR DR, Baa FE cenpcscssectercsterecicenpessetcommsencaseese 11 
+Hancock v. Paccar, Inc., 283 N.W.2d 25 
+
+ECE Ca 10 
+Hopper v. Crown, 646 So. 2d 933 (La. Ct. 
+
+Billy: TI cecharinbiinnstncinadentichamesittintetcteranamnanssieee 10 
+Hughes v. Oklahoma, 441 U.S. 322 (1977) .....ccccseese0 19 
+Ingersoll-Rand Co. v. McClendon, 
+
+i) Sf a 1,16 
+International Paper Co. v. Ouellette, 
+
+| OE __, aS eee 16 
+Joe Sartain Ford, Inc. v. American Indem. 
+
+Co., 399 So. 2d 281 (Ala. 1981), over- 
+
+
+ruled in part on other grounds by Lloyd 
+
+
+vi 
+
+
+Wood Coal Co. v. Clark Equip. Co., 543 
+
+
+So. 2d 671 (Alla. 1989) ..........c.ccccccererereesese 
+
+
+John Hancock Mutual Life Insurance Co. v. 
+Harris Trust & Savings Bank, 
+
+
+eS Fe 
+
+
+Jones v. Rath Packing Co., 430 U.S. 519 
+
+
+CRD ED ccmescemacretsinsarremnenstinseienteemmageines 
+
+
+Medtronic, Inc. v. Lohr, 
+
+
+FOS UD Se GRIGG cecenccisnnncnicsiinmmans 
+
+
+Miller v. Varity Corp., 922 S.W.2d 821 (Mo. 
+
+
+Ch, RA, GID ectetetersvcticennninitinsinlttones 
+
+
+Morales v. American Honda Motor Co., 151 
+
+
+F.3d 500 (6th Cir. 1998) ........cccccseeeereeeees 
+
+
+Morgen Indus., Inc. v. Vaughan, 471 S.E.2d 
+
+
+GED CUE. BODE enecsstensintshitnitinsinicnastcmes 
+
+
+Motor Vehicle Mfrs. Ass'n of the U.S., Inc. v. 
+State Farm Mut. Auto. Ins. Co., 
+
+
+SED Ul . Be Ge cntciieritrcrensticmnserencsnenes 
+
+
+New State Ice Co. v. Liebmann, 
+
+
+BOS UT. Bee CEDURE  cetcesestnestntncssireerncecemneces 
+
+
+Nicolodi v. Harley-Davidson Motor Co., 
+
+
+370 So. 2d 68 (Fla. Dist. Ct. App. 1979) ... 
+
+
+Norfolk & Western Ry. Co. v. American 
+Train Dispatchers’ Ass'n, 499 U.S. 117 
+
+
+CN i 
+
+
+Parklane Hosiery Co. v. Shore, 
+
+
+Ee 
+
+
+vii 
+
+
+Piper Aircraft Co. v. Reyno, 
+
+
+et Lt | 
+
+
+Rice v. Santa Fe Elevator Corp., 
+
+
+FEE Ce SUED ERIE D cccennectncsinsectcccsesenenisines 
+
+
+San Diego Building Trades Council v. Gar- 
+
+
+MON, 359 U.S. 236 (1959) .....ccecceeeserereees 
+
+
+Selmo v. Baratono, 184 N.W.2d 367 (Mich. 
+
+
+RS Ee cee 
+
+
+Simpson v. General Motors Corp., 
+
+
+483 N.E.2d 1 (Ill. 1985) ..........scceceessereees 
+
+
+Texas & Pac. Ry. Co. v. Abilene Cotton Oil 
+
+
+Co., 204 U.S. 426 (1907) ......cccscesersereeees 
+
+
+United States v. Locke, Nos. 98-1701 and 
+
+
+Watson v. Navistar Int'l Transp. Corp., 
+
+
+827 P.2d 656 (Idaho 1992) ...........s00000 
+
+
+Widson v. International Harvester Co., 
+200 Cal. Rptr. 136 (Cal. Ct. App. 1984) 
+
+
+Wisconsin Dep't of Industry, Labor & Hu- 
+man Relations v. Gould Inc., 
+
+
+SFIS UB. Fae CEPR) cxcccecssssesevesscocesescceces 
+
+
+CONSTITUTION 
+
+
+U.S. CONST. art. I, § 8, Cl. 3....ccccccercereenenees 
+ee ee 
+
+
+prepennvenetenes 18 
+
+
+Vill 
+
+
+STATUTES AND LEGISLATIVE MATERIALS 
+
+
+BS UB.C. GB USB1 60 Bie. (IGG ccscccnccsrnvensccessccsctocnnstons l 
+BS TTB © GBI ccnccctcssccreasisinnisiinttsnimnilectenssesttiniasietnaes 6 
+BS UGC. © SEDI EAD  cccccsccvssasiicitnsinsinesonsiviisuapiitipabiaibdininnse 6 
+BS ERC. © ROTI ccccnsceteintntactensiisiasticnitsteesionmaduiacte 2,4,7 
+RS TEBE. 6 CIPD cnsevcsnsnceccieccsbeastaiccietpegninaieviontene 3,16 
+BE Bis eI ectenccosckesicetiinbichinintnctenentevinianngiieeictapibe 7 
+GIGI A, © SVB IOW coticetsreccsssttinnsstennithinstiveseinigticinninn 2 
+GD CIR. © STUDER BAB secrcccccccvesstsorscsnvessncessesseses 2 
+49 Fed. Reg. 28,962 (1984) ............ccssscsssrsrsssrsseeeseresenes 2 
+Pub. L. No. 103-272, 108 Stat. 745 ........cccccccssesereresensees 1 
+MISCELLANEOUS 
+3 RECORDS OF THE FEDERAL CONVENTION 
+
+Chars Fae 06... TBTE) sccascsscscsvessennmansssrceeevsesenees 19 
+47 AM. JUR. 2D Judgments § 647 (1995) .........cccceeseee 12 
+
+
+Marc M. Arkin, Products Liability and the 
+Threat to Contraception, Manhattan In- 
+stitute Civil Justice Memo No. 36 (Feb. 
+
+
+1999) <http://www.manhattan- 
+
+institute.org/html/cjm_36.HtM> ............c0cceeeeeeereees 22 
+David E. Bernstein, The Breast Implant Fi- 
+
+asco, 87 CAL. L. REV. 457 (1999) .....cccccersceeseensenes 22 
+
+
+THE FEDERALIST No. 7 (Alexander Hamil- 
+tom) (amtaa O06. 196Z) ....<cosccoressrnnscversccssecescesccsssees 19 
+
+
+ix 
+
+
+THE FEDERALIST NO. 11 (Alexander Hamil- 
+
+
+ton) (Bantam ed. 1982) ..........ccccccesssseeseeseseeeees 
+
+
+Wayne C. Koff, The next steps toward a 
+global AIDS vaccine, SCIENCE, Nov. 25, 
+
+
+Fe inhebesacehindiociadiptasilapinabantienentbnesecinnseisovonsees 
+
+
+Michael W. McConnell, A Choice-of-Law 
+Approach to Products-Liability Reform, 
+in NEW DIRECTIONS IN LIABILITY LAW 
+
+
+90 (Walter Olson ed., 1988) ....c.cccccccssssssssseseen 
+
+
+Linda S. Mullenix, Resolving Aggregate 
+Mass Tort Litigation: The New Private 
+Law Dispute Resolution Paradigm, 
+
+
+33 VAL. U. L. REV. 413 (1999) .......ccccccceeeeeees 
+
+
+Richard Neely, THE PRODUCT LIABILITY 
+
+
+ECE UED . cvinksnevcoctniinbenseesisdduntasnetnnceesecessssoes 
+
+
+Gita F. Rothschild, Forum Shopping, 24 
+
+
+LITIGATION 40 (Spr. 1998) .....csscevecsssssssesssveeees 
+
+
+E.H. Schopler, Annotation, Comment Note: 
+Mutuality of Estoppel As Prerequisite of 
+Availability of Doctrine of Collateral 
+Estoppel to a Stranger to the Judgment, 
+
+
+31 A.L.R.3D 1044 (Supp. 1999) ...ccccccccsecseseee 
+
+
+INTEREST OF THE AMICUS CURIAE! 
+
+
+The Chamber of Commerce of the United States of 
+America (“the Chamber”) is the world’s largest business 
+federation. The Chamber ts an een pot 
+membership of nearly three million businesses 
+oh ma ede ee 
+sector region 0 country 
+Chamber has filed numerous amicus briefs in this Court 
+on the subject of federal ion. See, e.g., United 
+States v. Locke, Nos. 98-1701 and 98-1706 couee brief 
+filed Oct. 22, 1999): American Airlines, Inc. v. Wolens, 
+513 U.S. 219 (1995); Ingersoll-Rand Co. v. McClendon, 
+498 U.S. 133 (1990); Wisconsin Dep't of Industry, La- 
+bor & Human Relations v. Gould Inc., 475 U.S. 282 
+(1986). 
+
+
+STATEMENT 
+
+
+1. The National Traffic and Motor Vehicle Safety 
+Act of 1966, as amended, 15 U.S.C. §§ 1381 et seg. 
+(1988) (the “Act”),2 requires the Secretary of Transpor- 
+tation to ulgate federal motor vehicle safety stan- 
+dards. e Act includes a preemption provision that 
+precludes states from establishing or continuing in effect 
+
+
+! Pursuant to this Court’s Rule 37.6, amicus states that no 
+counsel for any party authored this brief in whole or in part, 
+and no person or entity other than amicus, its members, or its 
+counsel made a monetary contribution to the preparation or 
+submission of the brief. Counsel of record for both petitioners 
+and respondents have consented to the filing of this amicus 
+brief in letters that have Leen lodged with the clerk. 
+
+
+2 The Act was amended and recodified without substantive 
+change in 1994. Pub. L. No. 103-272, 108 Stat. 745. The court 
+below and the parties have continued to refer to the earlier ver- 
+sion of the Act, so for sake of clarity amicus will adhere to that 
+
+
+same practice. 
+
+
+2 
+
+
+“any safety standard” that is not “identical to” an exist- 
+ing federal motor vehicle safety standard applicable to 
+the same aspect of motor vehicle performance. 15 
+U.S.C. § 1392(d). 
+
+
+Pursuant to the Act, the Secretary has set forth uni- 
+form federal standards for motor vehicle occupant crash 
+protection in Federal Motor Vehicle Safety Standard 
+208. See 49 C.F.R. § 571.208. The version of Standard 
+208 at issue in this case was promulgated by the Secre- 
+tary in 1984. During the time period relevant to this 
+case, Standard 208 authorized motor vehicle manufac- 
+turers to achieve the requisite level of motor vehicle 
+safety without providing airbags in every motor vehicle. 
+49 C.F.R. § 571.208.84.1.3.1. Instead, Standard 208 di- 
+rected manufacturers to install a passive restraint system 
+of some type in 10 percent of cars manufactured in the 
+relevant model year, and gave manufacturers the right to 
+select a variety of passive restraint systems—including 
+but not limited to airbags—in order to satisfy this re- 
+quirement. Jd. The Secretary expressly refused to re- 
+quire manufacturers to include airbags in all cars, noting 
+a number of safety, economic, technological, and practi- 
+cal goals that would be frustrated by imposition of such 
+a requirement at that time. 49 Fed. Reg. 28,962, 29,000- 
+02 (1984). 
+
+
+2. Alexis Geier was injured when she lost control of 
+the 1987 Honda Accord she was driving and crashed 
+into a tree. She and her parents, petitioners herein, 
+brought suit against respondents claiming that the Honda 
+Accord was defective because it did not contain an air- 
+bag. 
+
+The United States District Court for the District of 
+Columbia granted respondents’ motion for summary 
+judgment and dismissed petitioners’ complaint. The 
+court ruled that petitioners’ theory of liability was ex- 
+pressly preempted by the Act’s preemption provision, 15 
+U.S.C. § 1392(d), and by Standard 208. See Geier v. 
+
+
+ee ee ete ee Ome mm 
+
+
+3 
+
+
+American Honda Motor Co., 166 F.3d 1236, 1238 (D.C. 
+Cir. 1999). om 
+
+
+The United States Court of for the District 
+4 Dy eee oft | affirmed. court noted that 
+“[t}he lan of § 1392(d) is fairly sweeping” and that 
+“fo]n its a. .. the term ‘standard’ in § 1392(d) could 
+apply to the requirements imposed by common law tort 
+verdicts.” 166 F.3d at 1240. The court declined to de- 
+cide whether petitioners’ claim was expressly pre- 
+empted, however, noting that the Act contains a so- 
+called “savings clause” providing that “[c]ompliance 
+with any Federal motor vehicle safety standard issued 
+under this subchapter does not exempt any person from 
+any liability under common law.” 15 U.S.C. § 1397(k); 
+see 166 F.3d at 1241. 
+
+
+Instead, the court of appeals joined several of its sis- 
+ter circuits in concluding that petitioners’ cause of action 
+was impliedly because “a verdict in her favor 
+would stand as an le to the federal government's 
+chosen method of achieving the Act’s safety objectives.” 
+Id. As the court explained, “[a] successful no-airbag 
+claim would mean that an automobile without an airbag 
+was defectively designed. Congress, however, delegated 
+authority to prescribe specific motor vehicle safety stan- 
+dards to the Secretary of Transportation, who in turn 
+explicitly rejected requiring airbags in all cars on the 
+ground that a more flexible approach would better serve 
+public safety.” Jd. at 1242 (citation omitted). Thus, the 
+court concluded, “allowing design defect claims based 
+on the absence of an airbag for the model-year car at is- 
+sue would frustrate the Department’s policy of encourag- 
+ing both public acceptance of the airbag technology and 
+experimentation with better passive restraint systems.” 
+Id. at 1243. Accordingly, petitioners’ claim was im- 
+plicitly preempted. /d. 
+
+
+4 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. The Act preempts “any” state-imposed “safety 
+standard” that is not “identical to” an existing federal 
+motor vehicle safety standard relating to the same aspect 
+of motor vehicle performance. 15 U.S.C. § 1392(d). 
+Petitioners err in contending that this provision is inap- 
+plicable to standards imposed through common-law ad- 
+judication. 
+
+In the first place, this Court has repeatedly recog- 
+nized that state common-law suits impose legal rules and 
+standards that have the same regulatory effect as legisla- 
+tive or administrative pronouncements. Thus, this Court 
+has concluded that common-law suits fall within the 
+scope of SS provisions that refer to “require- 
+ments,” “laws,” “standards,” and the like. The same 
+conclusion is equally appropriate here. 
+
+
+In addition, common sense and experience confirm 
+that state-law tort suits result in the imposition of safety 
+standards on industry. Applying modern tort-law doc- 
+trines, state courts and juries have repeatedly imposed li- 
+ability for products’ failures to meet ific safety- 
+related criteria. As even a limited sampling of the case 
+law demonstrates, there are countless cases in which 
+state courts have imposed or authorized findings of li- 
+ability based on a product’s inability to satisfy particular 
+performance standards or design criteria imposed by the 
+common law. The simple truth is that state courts and 
+juries are adopting and enforcing an ever-widening array 
+of ormance and design standards through the 
+mechanism of common-law adjudication, and thus it is 
+readily apparent that state-law tort suits like this one lead 
+to the establishment of “safety standard[s].” Petitioners’ 
+suit plainly seeks to establish a “safety standard” that is 
+not identical to the standard set forth in Standard 208, 
+and it is therefore expressly preempted by § 1392(d). 
+
+
+II. Petitioners’ suit is also impliedly preempted be- 
+cause, as the court of appeals correctly held, permitting 
+
+
+5 
+
+
+tort plaintiffs to subject manufacturers to liability for 
+failing to install airbags would frustrate the regulatory 
+goals that the Secretary of T ion sought to 
+achieve in promulgating Standard 208. Petitioners con- 
+tend that implied aa pata analysis is unavailable in 
+this case because the Act contains an express preemption 
+provision and a so-called “savings clause,” but petition- 
+ers’ argument is without merit, for two reasons. 
+
+
+First, this Court’s precedents make clear that implied 
+conflict preemption analysis is entirely iate in 
+these circumstances. Petitioners rely on Cipollone v. 
+Liggett Group, Inc., 505 U.S. 504 (1992), but that case 
+announces no prohibition against resort to implied pre- 
+emption analysis under statutes containing express pre- 
+emption clauses, and numerous ts of this Court 
+preclude adoption of any such rule. Equally flawed is 
+petitioners’ reliance on § 1397(k), the so-called “savings 
+clause.” This Court has consistently held that even the 
+existence of a true savings clause does not obviate the 
+need for implied conflict preemption analysis, because 
+such clauses “‘cannot in reason be construed as continu- 
+ing ... a common law right, the continued existence of 
+which would be absolutely inconsistent with the provi- 
+sions of the act.’” American Tel. & Tel. Co. v. Central 
+Office Tel., Inc., 524 U.S. 214, 227-28 (1998) (quoting 
+Texas & Pac. Ry. Co. v. Abilene Cotton Oil Co., 204 
+U.S. 426, 446 (1907)). 
+
+
+Second, persuasive considerations of public policy 
+compel rejection of the arguments advanced by petition- 
+ers and their amici, which would largely eviscerate the 
+doctrine of implied preemption as it has been recognized 
+and applied by this Court. Petitioners and their amici of- 
+fer no justification for so dramatic a departure from the 
+current understanding of federal-state relations. If any- 
+thing, recent trends in state tort law demonstrate an en- 
+hanced need for vigorous enforcement of implied pre- 
+emption principles in order to shield our national econ- 
+omy from the increasing burdens placed upon it by un- 
+
+
+6 
+
+
+constrained, arbitrary, inconsistent, and excessive tort 
+verdicts and liability rules. The same considerations that 
+impelled the Framers of our Constitution to grant Con- 
+gress ane eo to regulate interstate commerce and pre- 
+empt burdensome state economic regulations now com- 
+pel redoubled vigilance in judicial enforcement of im- 
+plied preemption doctrine, which is necessary to ensure 
+that the states do not impose undue burdens on interstate 
+commerce through their common-law tort systems, par- 
+ticularly in instances where, as here, Congress or the re- 
+sponsible federal agency has already spoken by adopting 
+a uniform national standard. 
+
+
+ARGUMENT 
+
+
+I. PETITIONER’S SUIT IS EXPRESSLY PRE- 
+EMPTED BECAUSE IT SEEKS TO IMPOSE 
+A “STANDARD” DIFFERENT FROM THAT 
+IMPOSED BY FEDERAL LAW 
+
+
+The National Traffic and Motor Vehicle Safety Act 
+of 1966 requires the Secretary of Transportation to es- 
+tablish “appropriate Federal motor vehicle safety stan- 
+dards” for “motor vehicle performance ... which [are] 
+practicable, which mr the need for motor vehicle 
+safety and which provide[] objective criteria.” 15 U.S.C. 
+§§ 1391(2), 1392(a). The Act expressly mandates fed- 
+eral preemption of any state-law “safety standard” that is 
+not identical to an existing Federal standard applicable to 
+the same aspect of performance: 
+
+
+Whenever a Federal motor vehicle safety stan- 
+dard established under this subchapter is in ef- 
+fect, no State or political subdivision of a State 
+shall have any authority either to establish, or to 
+continue in effect, with respect to any motor 
+vehicle or item of motor vehicle equipment any 
+safety standard applicable to the same aspect of 
+performance of such vehicle or item of equip- 
+ment which is not identical to the Federal stan- 
+dard. Nothing in this section shall be construed 
+
+
+7 
+
+
+as preventing State from enforcing an 
+safety standard which is identical to 2s Sebo 
+safety standard. 
+15 U.S.C. § 1392(d). 
+
+
+Petitioner contends (Pet. Br. 18-25) that this express 
+provision does not apply to common law 
+
+
+A. Precedent Demonstrates That State Court Ad- 
+judication Establishes “Standards” 
+
+
+This Court has repeatedly recognized that state 
+common-law suits are appropriately subjected to the 
+same preemption analysis as state statutes or administra- 
+tive regulations under express preemption provisions 
+analogous to § 1392(d), because common-law adjudica- 
+tion results in the imposition of legal rules and standards 
+that have the same regulatory i t as legislative or 
+administrative pronouncements. In Medtronic, Inc. v. 
+Lohr, 518 U.S. 470 (1996), for example, five Justices of 
+this Court concluded that common-law suits are subject 
+Ss eee © een, Saale pusemape. 
+
+“any requirement ” imposed by a “State or political 
+subdivision that is “different from, or in addition to,” 
+any requirement imposed by the federal regulator 
+por Bn 21 U.S.C. § 360k(a); see 518 U.S. at $04 (“One 
+can reasonably read the word ‘requirement’ as including 
+the legal requirements that grow out of the application, 
+in particular circumstances, of a State’s tort law.”) 
+(Breyer, J., concurring in part and concurring in the 
+judgment); id. at 509 (“state common-law damages ac- 
+tions do impose ‘requirements’ and are therefore pre- 
+empted where such requirements would differ from 
+
+
+those imposed by the [federal regulatory scheme]”) 
+(O’Connor, J., concurring in part and dissenting in part). 
+
+
+Similarly, in Cipollone v. Liggett Group, Inc., 505 
+U.S. 504 (1992), six Justices concluded that a statute 
+preempting certain “requirement[s] or prohibition(s} . . . 
+imposed under State law” was fully applicable to com- 
+mon-law actions. Jd. at 520-23 (opinion of Stevens, J.); 
+id. at 548-49 (Scalia, J., concurring in the judgment in 
+part and dissenting in part). The plurality explained that 
+“(t]he phrase ‘[n]o requirement or prohibition’ sweeps 
+broadly and suggests no distinction between e en- 
+actments and common law; to the contrary, words 
+easily encompass obligations that take the form of com- 
+mon-law rules.” Jd. at 521 (opinion of Stevens, J.). In- 
+dood, 22 the plavaliay noted, “"Ietetel ion can be as 
+effectively exerted through an a of damages as 
+through some form of preventive relief. The obligation 
+to pay compensation can be, and indeed is designed to 
+be, a potent method of governing conduct and control- 
+ling policy.” Jd. (quoting San Diego Building Trades 
+Council v. Garmon, 359 U.S. 236, 247 (1959)). Accord, 
+e.g., CSX Transp., Inc. v. Easterwood, 507 U.S. 658, 664 
+(1993) (“Legal duties — ... by the common law 
+fall within the scope of” statute preempting any state 
+“law, rule, regulation, order, or standard relating to rail- 
+road safety”) (emphasis added); Norfolk & Western Ry. 
+Co. v. American Train Dispatchers’ Ass'n, 499 U.S. 117, 
+128 (1991) (statutory provision preempting “‘the anti- 
+trust laws and all other law, including State and munici- 
+pal law,”” did “not admit of [any] distinction ... be- 
+tween positive enactments and common-law rules of li- 
+ability”). 
+
+These cases confirm that § 1392(d) must be con- 
+strued in accordance with its plain language to encom- 
+pass safety standards imposed by state tort law. Like the 
+terms “requirement,” “prohibition,” “law,” and “stan- 
+dard” at issue in the foregoing cases, the phrase “any 
+safety standard” as used in § 1392(d) is broad and all- 
+
+
+__ State courts and juries frequently impose strict liabil- 
+ity on the basis of particular porfitenanse standards ior 
+posed retroactively by operation of the common law. 
+For example, the Texas courts upheld a jury verdict 
+finding an aircraft manufacturer liable for the deaths of 
+two individuals caused when their seats broke loose 
+during a or crash. See Duncan v. Cessna Aircraft 
+Co., 632 S.W.2d 375 (Tex. App. 1982), rev'd in on 
+other grounds by Duncan v. Cessna Aircraft Co. 665 
+S.W.2d 414 (Tex. 1984), and Smithson v. Cessna Air- 
+craft Co., 665 S.W.2d 439 (Tex. 1984). This holding 
+was premised on a determination that the seat legs 
+should have been designed to withstand 25 G’s, but were 
+only one-fifth that strong. 632 S.W.2d at 382-83. 
+Equally specific performance standards have been im- 
+
+
+10 
+peep io ene Ge a 
+w. 
+
+
+Similarly, state courts frequently impose liability on 
+manufacturers for failure to satisfy fic design crite- 
+ria purportedly necessary to achieve the requisite level of 
+safety demanded by state tort law. In Dallas v. F.M. 
+Oxford Inc., 552 A.2d 1109 (Pa. . Ct. 1989), for 
+example, a Pennsylvania state court upheld a 
+jury verdict imposing liability on an elevator manufac- 
+turer for injuries caused by an elevator door. The liabil- 
+ity determination rested on the proposition that elevator 
+doors must have lectric cells, rather than simply 
+rubber “safety ” to make them retract when an 
+object comes between the doors. /d. at 1110, 1113. 
+Similarly, in Hopper v. Crown, 646 So. 2d 933 (La. Ct. 
+App. 1994), a Louisiana state appellate court upheld a 
+jury verdict against a forklift manufacturer. The com- 
+pany’s forklift design was declared defective because the 
+partially enclosed driver’s compartment had no door in 
+the back to keep a standing driver from being ejected 
+during a collision. /d. at 946. Numerous other courts 
+have imposed or upheld equally specific safety-related 
+
+
+3 See, e.g., Joe Sartain Ford, Inc. v. American Indem. Co., 
+399 So. 2d 281 (Ala. 1981) (a truck’s oil line should be made 
+of metal rather than neoprene), overruled in part on other 
+grounds by Lloyd Wood Coal Co. v. Clark Equip. Co., 543 So. 
+2d 671 (Ala. 1989); Selmo v. Baratono, 184 N.W.2d 367 
+(Mich. Ct. App. 1970) (a car’s bumper brackets should be suit- 
+able for use in towing the car); Hancock v. Paccar, Inc., 283 
+N.W.2d 25 (Neb. 1979) (a truck’s bumper should be strong 
+enough not to bend back and obstruct a wheel upon severe im- 
+pact); Dura-Stilts Co. v. Zachry, 697 S.W.2d 658 (Tex. App. 
+1985, writ ref’d n.r.e.) (the aluminum alloy used to make stilts 
+
+
+should be strong enough to support a foreseeable weight). 
+
+
+1] 
+design, requirements in a wide array of product liability 
+The simple truth is that state court judges and juries 
+
+
+have been adopting and enforcing . EB 
+ray of performance and desi standards i ‘. 
+
+
+4 See, e.g., Widson v. International Harvester Co.. 200 
+
+, . be Cal. 
+Rptr. 136 (Ct. App. 1984) (an earth mover should have an 
+audible device to warn that it is backing-up); Camacho vy. 
+Honda Motor Co., 741 P.2d 1240 (Colo. 1987) (en banc) (a 
+motorcycle should have leg-protection devices); Nicolodi v. 
+Harley-Davidson Motor Co., 370 So. 2d 68 (Fla. Dist. Ct. App. 
+1979) (same); Cox v. R.O. Corp., 470 So. 2d 790 (Fla. Dist. Ct. 
+App. 1985) (a truckbed-mounted crane should have an audible 
+device to warn that its Outriggers are about to deploy); Watson 
+v. Navistar Int'l Transp. Corp., 827 P.2d 656, 675-76 (Idaho 
+1992) (a four-inch gap in a combine’s auger cover should be 
+made smaller or guarded); Simpson v. General Motors Corp.., 
+483 N.E.2d 1 (Ill. 1985) (an earth scraper should have a roll 
+bar); Morales v. American Honda Motor Co., 151 F.3d 500 
+507 (6th Cir. 1998) (a children’s motorcycle should have 2 
+safety flag) (applying Kansas law); Davis v. Commercial Union 
+Ins. Co., 892 F.2d 378 (Sth Cir. 1990) (a lint-cleaning machine 
+should have interlock device to shut off its rollers when guard 
+is removed) (applying Louisiana law); Grover v. Grover, 972 
+S.W.2d 568 (Mo. Ct. App. 1998) (automobile ramps should 
+have barners to prevent a vehicle from easily rolling off); 
+Miller v. Varity Corp., 922 S.W.2d 821 (Mo. Ct. App. 1996) (a 
+tractor should have a rollover protection system); Doty v. Na- 
+vistar Int'l Transp. Corp., 639 N.Y.S.2d 592 (N.Y. App. Div. 
+1996) (a combine auger should be covered by a guard or have 
+tapered edges and non-protruding screws); Morgen Indus., Inc. 
+v. Vaughan, 471 S.E.2d 489, 492 (Va. 1996) (a conveyor belt 
+should have wheel guards at the nip points). 
+
+
+12 
+
+
+Petitioners’ amici protest that a single tort plaintiff's 
+success in court does not translate into a standard be- 
+cause “it does not relieve any subsequent plaintiff of the 
+burden of proving each element of their causes of ac- 
+tion.” Br. Amicus Curiae of Ass’n of Trial Lawyers of 
+America at 7. But that argument simply ignores reality. 
+In the first place, principles of stare decisis and respect 
+for precedent ly mean that one appellate court’s 
+decision upholding liability based on a icular pur- 
+ported defect or flaw potentially will be followed in fu- 
+ture cases. Moreover, one success—or even potential 
+success—by plaintiffs’ lawyers inevitably spawns a host 
+of copycat suits seeking to cash in on the same winning 
+theme, forcing industry to respond to an onslaught of 
+litigation at great cost. See Linda S. Mullenix, Resolving 
+Aggregate Mass Tort Litigation: The New Private Law 
+Dispute Resolution Paradigm, 33 VAL. U. L. REV. 413, 
+442 (1999). 
+
+
+The argument that one plaintiff's success does not 
+translate into a “standard” is further refuted by the fact 
+that, in the wake of this Court’s adoption of the doctrine 
+of non-mutual offensive collateral estoppel (see 
+Parklane Hosiery Co. v. Shore, 439 U.S. 322 (1979)), 
+nearly 30 states, including the District of Columbia, have 
+adopted some version of that doctrine. See 47 AM. JUR. 
+2D Judgments § 647 (1995); see also E.H. wom An- 
+notation, Comment Note: Mutuality of Estoppel As Pre- 
+requisite of Availability of Doctrine of Collateral Estop- 
+pel to a Stranger to the Judgment, 31 A.L.R.3D 1044 §§ 
+4(c) and 5 (Supp. 1999). As a consequence, individual 
+state tort suits may create the potential for the establish- 
+ment of de facto regulatory standards that in some cir- 
+cumstances may be binding on the defendant in future 
+cases as well. Moreover, once a single court or jury has 
+deemed a product defective for failing to satisfy a par- 
+ticular design or performance requirement, future plain- 
+tiffs will typically rely on that finding as a basis for 
+seeking punitive damages from the manufacturer, on the 
+theory that the prior jury award placed the manufacturer 
+
+
+13 
+
+
+on “notice” of the “defect.” Thus, defendants faced with 
+
+new court-imposed standards may have little choice but 
+
+bude cy alt reo’ Standards in order to minimize the 
+- ‘tigati a 
+
+cay - further litigation, punitive damages, and 
+
+C. Petitioners’ Suit Seeks To Establish A 
+
+
+aoe card” That Is Different From Standard 
+
+
+For all these reasons, therefore, there is no merit 
+petitioners’ argument that their lawsuit does not seek ° 
+impose “any safety standard” within the meaning of 
+§ 1392(d). By means of this state-law tort suit, petition- 
+ers plainly seek to obtain a judicially binding determina- 
+tion that ey | were obligated to incorporate an 
+airbag into the 1987 Honda Accord. That desired de- 
+termination 1s every bit as much a “safety standard” as 
+would be the identical requirement imposed by a state 
+legislature or regulatory agency, and nothing in 
+
+
+§ 1392(d) differentiates betw 
+LF noe » , een these different sources 
+
+
+Consequently, petitioners’ attempt to avoid 
+
+preemption reduces to their mete that the spade’ 
+savings clause” set forth in § 1397(k) requires rejection 
+. prod ssn = : — ag in order to immunize 
+mon-law liability rules from express preemption. 
+
+As Justice Breyer cogently observed when coulionaed 
+with a similar argument in Medtronic, however, “[t]o 
+distinguish between [state agency regulation and state 
+tort-law regulation] for preemption purposes would grant 
+greater power . . . to a single state jury than to state offi- 
+cials acting through state administrative or legislative 
+lawmaking processes.” 518 U.S. at 504 (Breyer, J., con- 
+curring in part and concurring in the judgment). In the 
+absence of compelling evidence that Congress expressly 
+considered and intended to achieve such an improbable 
+result, there is no justification for construing the Act in 
+this fashion. See id. (“Where Congress likely did not fo- 
+
+
+14 
+
+
+cus specifically upon the matter, ... I would not take it 
+to have intended this anomalous result.”’). 
+
+
+As has been ably demonstrated by respondents, 
+§ 1397(k) plainly was not intended to achieve the 
+“anomalous result” urged by petitioners. Instead, 
+§ 1397(k) (which does not even the issue of pre- 
+emption) was intended to ensure that a motor vehicle 
+manufacturer's compliance witi. federal requirements 
+would not automatically be deemed to establish the af- 
+firmative defense of compliance with applicable safety 
+regulations. Thus, contrary to the ents advanced 
+by petitioners and their amici, § 1397(k) does not trump 
+
+
+the plain language of § 1392(d), and petitioners’ cause of 
+
+
+action is expressly preempted. 
+
+
+ll. THE DOCTRINE OF IMPLIED PREEMP- 
+TION BARS PETITIONERS’ SUIT 
+
+
+Under this Court’s precedents, implied conflict pre- 
+emption will be found “where it is ‘impossible for a pri- 
+vate party to comply with both state and federal re- 
+
+uirements,’ or where state law ‘stands as an obstacle to 
+
+e accomplishment and execution of the full purposes 
+and objectives of Congress.” Freightliner Corp. v. 
+Myrick, 514 U.S. 280, 287 (1995) (citations omitted). 
+As the court below correctly recognized, petitioners’ at- 
+tempt to subject respondent to liability for failing to in- 
+stall airbags in its 1987 Honda Accords would te 
+the regulatory goals sought to be achieved by the Secre- 
+tary of Transportation in promulgating Standard 208 
+pursuant to the authority delegated by Congress. See 
+166 F.3d at 1242-43. Accordingly, petitioners’ suit is 
+impliedly preempted. 
+
+Petitioners contend, however, that the court of ap- 
+peals “should never have resorted to implied preemption 
+analysis here,” because such analysis is allegedly inap- 
+propriate when Congress has adverted to the issue of 
+
+ion in the statute. Pet. Br. 34-41. As demon- 
+strated below, this Court’s precedents compel rejection 
+
+
+ee | 
+
+
+wer ee ree - 
+
+
+15 
+
+
+of petitioners’ contention. Moreover, powerful consid- 
+erations of public policy confirm the need for implied 
+preemption analysis when, as here, Congress or a federal 
+agency has to adopt a uniform federal standard. 
+
+
+A. This Court’s Precedents Make Clear That 
+Implied Preemption Analysis Is Appropriate 
+Under Statutes Containing An Express Pre- 
+emption Provision 
+
+
+In support of their assertion that implied preemption 
+analysis is ina jate here, petitioners rely primarily 
+on Cipollone. n that case, the Court noted that there is 
+no need to infer preemptive intent from a statute’s sub- 
+stantive provisions when the statute also contains an ex- 
+press preemption provision that “provides a ‘reliable in- 
+dicium of con ional intent with respect to state 
+authority.”” 505 U.S. at 517. That observation is ina 
+posite here, however, and provides no justification for 
+petitioners’ attempt to rewrite preemption law to evis- 
+cerate the doctrine of implied conflict preemption. 
+
+
+Contrary to petitioners’ apparent belief, Cipollone 
+did not purport to lude implied preemption in in- 
+stances where the relevant federal — oe an “9 
+press preemption clause. Indeed, as the court of appeals 
+recognized (166 F.3d at 1241-42), that reading of 
+Cipollone was ly rejected in Freightliner Corp. v. 
+Myrick, 514 U.S. 280 (1995), which held that the argu- 
+ment that implied ption analysis is unavailable “is 
+without merit.” /d. at 287. In fact, as the Court in 
+Freightliner pointed out (id. at 288-89), Cipollone itself 
+conducted implied preemption analysis despite the pres- 
+ence of an ex mptive provision (505 U.S. at 
+518), so Cipollone ston cannot support the weight 
+that petitioners place on it. In short, Cipollone does not 
+“obviate the need for analysis of an some semper ae 
+pre-emptive effects,” including consideration of impli 
+
+ion. Freightliner, 514 U.S. at 289 (citing CSXY 
+ransp., Inc. v. Easterwood, 507 U.S. 658, 673 n.12 
+(1993). 
+
+
+16 
+
+
+Numerous other cases are to the same effect. In 
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 (1990), 
+for example, the Court first considered the express pre- 
+emption provision contained in the Employee Retire- 
+ment Income Security Act of 1974 (id. at 138-42), and 
+then went on to conduct an implied conflict ption 
+analysis as well (id. at 142-45), concluding that “the re- 
+quirements of conflict pre-emption are satisfied in this 
+case.” Jd. at 145. Accord, e.g., Jones v. Rath Packing 
+Co., 430 U.S. 519, 540-41, 543 (1977) (Court’s determi- 
+nation that state law was not expressly preempted “does 
+not ... resolve this case, for we still must determine 
+whether the state law ‘stands as an obstacle to the ac- 
+complishment and execution of the full purposes and 
+objectives of Congress’”) (citation omitted); see also 
+Medtronic, 518 U.S. at 503 (“the issue [of express pre- 
+emption] may not need to be resolved if the claim would 
+also be pre-empted under conflict pre-emption analysis”) 
+(opinion of Stevens, J.); CSX Transp., 507 U.S. at 673 
+n.12. 
+
+
+Equally flawed is petitioners’ suggestion that the 
+Act’s so-called “savings clause” (§ 1397(k)) somehow 
+displaces traditional je ary doctrine and precludes 
+resort to principles of implied conflict preemption. This 
+Court has tedly applied conflict preemption analy- 
+sis despite the presence of even a true savings clause, 
+reasoning that such clauses “‘cannot in reason be con- 
+strued as continuing . . . a common law right, the contin- 
+ued existence of which would be absolutely inconsistent 
+with the provisions of the act. In other words, the act 
+cannot be held to destroy itself.’” American Tel. & Tel. 
+Co. v. Central ce Tel., Inc., 524 U.S. 214, 227-28 
+(1998) (quoting Texas & Pac. Ry. Co. v. Abilene Cotton 
+Oil Co., 204 U.S. 426, 446 (1907)); see, e.g., Interna- 
+tional Paper Co. v. Ouellette, 479 U.S. 481, 493-94 
+(1987). 
+
+
+Indeed, this Court has already held that implied pre- 
+emption analysis is appropriate in circumstances essen- 
+
+
+17 
+
+
+tially identical to those that, in petitioners’ view, are pre- 
+sent here. In John Hancock Mutual Life Insurance Co. 
+v. Harris Trust & Savings Bank, 510 U.S. 86 (1993), the 
+relevant federal statute contained an express preemption 
+provision, but also contained a savings clause that the 
+Court found was directly applicable to the state law at is- 
+sue. Jd. at 99. Despite existence of this facially 
+applicable savings clause, the Court had no difficulty 
+concluding that implied preemption analysis was 
+
+jate; the savings clause provided “no solid basis for 
+
+lieving that Congress ... intended fundamentally to 
+sher traditional preemption analysis.” /d. Accordingly, 
+the Court concluded that where a challenged state law 
+“*stands as an obstacle to ry rT on i the a 
+purposes and objectives of Congress,’” implied conflict 
+preemption occurs even if that state law also falls within 
+the protective ambit of a general savings clause. /d. 
+(citation omitted). The same reasoning leads inexorably 
+to the conclusion that implied preemption analysis is ap- 
+propriate in this case as well, even assuming arguendo 
+that Congress intended § 1397(k) to be a savings clause 
+and that it extends to petitioners’ claims. 
+
+
+B. The Evisceration Of Implied Preemption 
+Analysis Sought By Petitioners And Their 
+Amici Would Work A Dramatic And Disas- 
+trous Shift In The Balance Of State And Fed- 
+eral Power 
+
+
+Not content with petitioners’ baseless attempt to 
+pretermit implied preemption analysis in this case, peti- 
+tioners’ amici level an even more sweeping (but equally 
+baseless) attack on the doctrine of implied preemption. 
+They argue that “the scope of implied conflict preemp- 
+tion in cts liability cases should be narrowly cir- 
+cumscribed” and “tightly constrained.” Br. Amicus Cu- 
+riae of Robert B. Leflar, et al. (“Leflar Br.”), at 6, 14. 
+Indeed, these amici assert that implied preemption is al- 
+together inappropriate unless Congress or a federal 
+regulatory agency has expressly dictated that a particular 
+
+
+18 
+
+
+federal standard “and no other” should govern the prod- 
+uct at issue. Jd. at 14 (citation omitted; hasis added). 
+Adoption of this view, of course, would effectively 
+eliminate implied preemption analysis altogether, be- 
+cause an express statement of federal exclusivity would 
+be required before preemption could occur. 
+
+
+Nothing in law or policy rts this proposed 
+drastic restriction of the scope of federal preemption. 
+This Court’s well-established ption case law 
+makes clear that state law is displaced where “Congress 
+intended federal law to occupy a field exclusively,” 
+where “it is ‘impossible for a private party to comply 
+with both state and federal requirements,” or where 
+“state law ‘stands as an obstacle to the accomplishment 
+and execution of the full p es and objectives of 
+Congress.”” Freightliner, 514 U.S. at 287. Petitioners 
+and their amici offer no justifications for departing from 
+this well-established line of precedent, nor could they. 
+
+
+If anything, recent developments and trends in state 
+tort law reveal an enhanced need for vigorous enforce- 
+ment of implied preemption principles and related con- 
+stitutional mandates in order to shield our national econ- 
+omy from the increasing burdens placed upon it by un- 
+constrained, arbitrary, inconsistent, and excessive tort 
+verdicts and ever-expanding liability rules. Indeed, an 
+examination of the rationale for the existence of Con- 
+gress’s power to preempt state economic regulation re- 
+veals that it is precisely these types of state-law excesses 
+that justify fal require the exercise of preemptive power 
+oe and enforcement of that power by the fed- 
+
+courts. 
+
+
+Congress’s power to regulate our national economy 
+and preempt undesirable or inconsistent state regulations 
+rests, of course, on the Commerce Clause (in conjunc- 
+tion with the Supremacy Clause). U.S. CONST. art. I, 
+§ 8, cl. 3; id. art. VI, cl. 2. The historical record clearly 
+reveals that the Commerce Clause was adopted precisely 
+in order to avoid the deleterious effects of excessive, in- 
+
+
+ee ee 
+
+
+19 
+
+
+consistent, and discriminatory state regulation of inter- 
+state commerce in a manner contrary to the interests of 
+the Nation as a whole. 
+
+
+The Articles of Confederation did not confer power 
+over interstate commerce upon the federal government 
+and, as James Madison explained, this “want of a gen- 
+eral power over Commerce led to an exercise of this 
+power separately, by the States, w[hi]ch not only proved 
+abortive, but engendered rival, conflicting and angry 
+regulations.” 3 RECORDS OF THE FEDERAL CONVEN- 
+TION, at 547-48 (Max Farrand ed., 1911). The adoption 
+of the Commerce Clause thus “reflected a central con- 
+cern of the Framers that was an immediate reason for 
+calling the Constitutional Convention: the conviction 
+that in order to succeed, the new Union would have to 
+avoid the tendencies toward economic Balkanization that 
+had plagued relations among the Colonies and later 
+among States under the Articles of Confederation.” 
+Hughes v. Oklahoma, 441 U.S. 322, 325-26 (1979). 
+
+
+In drafting the Commerce Clause, therefore, a central 
+goal of the Framers was to deny States “[t]he opportuni- 
+ties ... of rendering others tributary to them, by com- 
+mercial regulations,” THE FEDERALIST NO. 7, at 30 
+(Alexander Hamilton) (Bantam ed. 1982). What the 
+Framers hoped to create was “an unrestrained inter- 
+course between the States themselves [that would] ad- 
+vance the trade of each, by an interchange of their re- 
+spective productions,” and to ensure that “Commercial 
+enterprise [would] have much greater scope” than it had 
+under the Articles of Confederation. THE FEDERALIST 
+No. 11, at 53 (Alexander Hamilton). 
+
+
+The dramatic transformation of state tort law and 
+practice over the past several decades has given rise to 
+many of the same problems and concerns that originally 
+impelled the Framers to grant control over interstate 
+commerce to the federal government. Tort verdicts 
+readily transmogrify from tion for individual 
+plaintiffs into edicts that restructure national markets and 
+
+
+20 
+
+
+industries. The general economic interests of the Nation 
+are increasingly being sacrificed on the altar of the paro- 
+chial interests of particular states, as declared by local 
+state judges and lay juries. 
+
+
+When dealing with products that move in a national 
+market, individual states simply cannot, as a federalist 
+ideal would suggest, serve as laboratories conducting 
+“economic experiments without risk to the rest of the 
+country,” New State Ice Co. v. Liebmann, 285 U.S. 262, 
+311 (1932) (Brandeis, J., dissenting). To the contrary, 
+the rest of the Nation actually bears the risks of such ex- 
+periments by individual states. When a state’s tort sys- 
+tem imposes extra costs by means of stricter liability, 
+often accompanied by draconian awards of punitive 
+damages, manufacturers are forced to spread those costs 
+to the other states in which their products are sold. See 
+Michael W. McConnell, A Choice-of-Law Approach to 
+Products-Liability Reform, in NEW DIRECTIONS IN 
+LIABILITY LAW 90, 92 (Walter Olson ed., 1988). As a 
+result, the effects of even a small minority of states’ un- 
+duly strict liability standards come to be felt by consum- 
+ers in all states. They must either pay higher prices or 
+lose the option to buy ucts that have been with- 
+drawn from the market use potential liability costs 
+or litigation expenses are simply too high. 
+
+
+Thus, given the realities of today’s national product 
+markets, the Nation as a whole is increasingly being held 
+hostage to errors made by individual states—or individ- 
+ual juries—in the direction of over-deterrence. Regula- 
+tion through common-law tort verdicts and court deci- 
+sions is a particularly problematic mechanism for such 
+over-deterrence, because common-law decisionmaking 
+is notoriously ill-suited to the establishment of nation- 
+wide standards that strike the proper balance among the 
+multitude of societal interests at stake in a particular 
+regulatory setting. Common-law adjudication is de- 
+signed to take account only of the facts of individual 
+cases and is narrowly circumscribed by the nature of the 
+
+
+21 
+
+
+adversary process, the rules of evidence, and other tradi- 
+tional constraints on judicial decisionmaking. In the 
+Se ee 
+ver, there is often little contest between sympathy for a 
+local plaintiff and feelings about a wealthy, out-of-state 
+corporate defendant, especially when a skilled plaintiff's 
+attorney tugs on their ings. See, e.g., Richard 
+Neely, THE PRODUCT LIABILITY MESS 10-11 (1988). 
+The inevitable result is over-deterrence as local judges 
+and juries advance parochial local interests at ex- 
+pense of the Nation’s interest in a strong national econ- 
+omy. 
+
+
+When juries do render pro-plaintiff verdicts, more- 
+over, the repercussions are often vastly amplified by the 
+current trends in tort law. This Court scarcely needs to 
+be informed of the increasing use of massive class ac- 
+tions or of the skyrocketing rises in punitive-damages 
+awards. These factors alone catapult state tort systems 
+out of the world of mere compensation in individual 
+cases; even aberrational verdicts can now have crushing 
+effects on manufacturers. In addition, with the liberali- 
+zation of rules governing personal jurisdiction, venue, 
+forum non conveniens, and conflict-of-laws doctrines, 
+
+aintiffs can often gain access to those state courts that 
+
+ve the most favorable substantive law. See Piper Air- 
+craft Co. v. Reyno, 454 U.S. 235, 250 (1981) (“Jurisdic- 
+tion and venue requirements are often easily satisfied. 
+As a result, many plaintiffs are able to choose from 
+among several forums. Ordinarily, these plaintiffs will 
+select that forum whose choice-of-law rules are most ad- 
+vantageous.”); see also Gita F. Rothschild, Forum Shop- 
+ping, 24 LITIGATION 40, 40 (Spr. 1998) (“[T]he expan- 
+sion of personal jurisdiction in /nternational Shoe Co. v. 
+Washington, together with the nationwide business ac- 
+tivities of many large enterprises, have increased plain- 
+tiffs’ forum options and made forum shopping a com- 
+mon practice.”’) (citation omitted). 
+
+
+22 
+
+
+Inordinate costs are levied on businesses not only by 
+the imposition of excessive liability in a few states, but 
+also by Melinle jay @ of varying standards in all of the 
+states. M ury verdicts, delivered in multiple ju- 
+risdictions, Need ax disparate standards that take ac- 
+count of different theo g aoe combine with other state and 
+local legislation and regulation to make it difficult to as- 
+certain what the applicable standards are, much less to 
+comply with them all simultaneously. Such unpredict- 
+ability and inconsistency can stultify economic prosper- 
+ity as much as the welter of local tariffs the Framers 
+sought to eradicate in 1787. 
+
+
+Given all of these factors, it is not surprising that 
+products are often withdrawn from the market and 
+manufacturers driven into bankruptcy by a tower of law- 
+suits later seen to be without true foundation—most re- 
+cently and dramatically in the case of breast implants. 
+See, e.g., David E. Bernstein, The Breast Implant Fi- 
+asco, 87 CAL. L. REV. 457 (1999) (reviewing MARCIA 
+ANGELL, SCIENCE ON TRIAL (1996)); Mare M. Arkin, 
+Products Liability and the Threat to Contraception, 
+Manhattan Institute Civil Justice Memo No. 36 (Feb. 
+1999) <http://www.manhattan-institute.org/html/cjm_36 
+.htm> (describing lawsuits that led to withdrawal of 
+Copper-7 IUD from market). 
+
+
+Less apparent, but equally real, are the costs imposed 
+on society by the loss of potentially beneficial products 
+that are never developed, or never released to market, 
+because of concerns about potential liability. See, e.g., 
+Browning-Ferris Indus. of Vt., Inc. v. Kelco Disposal, 
+Inc., 492 U.S. 257, 282 (1989) (O” Connor, J., concurring 
+in apts and d dissenting in part) (“Some manufacturers of 
+
+un F . have decided that it is better to 
+pater eae iability than to introduce a new pill or 
+vaccine into the market. Similarly, designers of air- 
+planes and motor vehicles have been forced to abandon 
+new projects for fear of lawsuits that can often lead to 
+
+
+awards of punitive damages.”) (citations omitted); 
+
+
+23 
+
+
+Wayne C. Koff, The next steps toward a global AIDS 
+vaccine, SCIENCE, Nov. 25, 1994, at 1335 (risk of tort li- 
+ability is a “ si gnificant economic disincentive[]” that has 
+seco lah “Sestin Giedaiiiatenten to dindlaaia or enalo 
+back AIDS vaccine development”). 
+
+
+Every state of the Union suffers these adverse conse- 
+quences of the current tort system, even if only a relative 
+handful of states is to blame for the over-regulation and 
+over-deterrence resulting from out-of-control tort ver- 
+dicts and lawsuit abuse. Manufacturers and other busi- 
+nesses releasing their products or services into the 
+stream of commerce have no choice but to tailor their 
+productive activities to take account of the most exces- 
+sive and burdensome version of state tort-law 
+schemes. Thus, non-preemption should not be blithely 
+equated with true federalism. In a national market, the 
+common-law tort system itself shows scant respect for 
+the autonomy of those states that choose to adopt more 
+reasonable standards of tort liability in a vain attempt to 
+avoid the disadvantages of over-deterrence. Where each 
+state is already beholden to the whims and vagaries of 
+judges and juries in other states, federal ion does 
+not shatter a perfect picture of states’ ri 
+
+Given these realities of our modern national econ- 
+omy and tort system, it is more important than ever that 
+the federal courts vigorously police the boundaries be- 
+tween federal and state authority to ate economic 
+activity, because only if the courts are diligent in striking 
+down excessive local regulation will this Nation’s citi- 
+zens continue to enjoy the fruits of a truly national econ- 
+omy that the Framers sought to obtain more than two 
+centuries ago. Rather than weakening the doctrine of 
+implied preemption out of manufactured concerns for 
+“federalism,” as petitioners and their amici would have 
+it, the federal courts should instead redouble their vigi- 
+lance in this area. Implied preemption is absolutely es- 
+sential whenever state courts and local juries take steps 
+to impinge upon the province of federal regulatory re- 
+
+
+24 
+
+
+gimes that enhance the efficiency and productivity of the 
+national economy by providing consistent nationwide 
+standards and implicitly displacing the of 
+often-inconsistent local regulations and . 
+
+When federal regulators have made a considered de- 
+termination about what specifications a product in inter- 
+state commerce must meet (after evaluating the costs and 
+benefits to be borne by the Nation as a whole), it be- 
+comes especially likely that any stricter requirement im- 
+posed by an isolated state court or jury will not only 
+spawn confusion but also be inconsistent with the needs 
+and broader interests of the national economy. Although 
+petitioners’ amici argue that federal regulators are less 
+able to impose appropriate safety regulations than are 
+state court judges and juries (e.g, Leflar Br. 12-13), that 
+contention is flatly inconsistent with the reality that fed- 
+eral agencies like the Department of Transportation are 
+well suited to weigh competing interests and adopt ap- 
+propriate and uniform national standards to govern par- 
+ticular aspects of the national economy. See, e.g., Motor 
+Vehicle Mfrs. Ass'n of the U.S., Inc. v. State Farm Mut. 
+Auto. Ins. Co., 463 U.S. 29, 33 (1983) (Congress 
+adopted the Act and granted the Secretary authority to 
+establish motor vehicle safety standards because “con- 
+siderable e ise” is required to determine appropriate 
+standards; “(bjefore changes in automobile design could 
+be mandated, the effectiveness of these changes had to 
+be studied, their costs examined, and public acceptance 
+considered”). 
+
+Indeed, federal agencies typically enjoy the benefits 
+of specialized expertise and utilize procedures designed 
+to ensure that they consider the views of all affected 
+groups. As a consequence, uniform national standards 
+adopted by federal agencies offer considerable advan- 
+tages over the alternative mechanism urged by petition- 
+ers, namely, the continued imposition of arbitrary, un- 
+predictable, inconsistent, and excessively strict post hoc 
+standards selected on the basis of limited information by 
+
+
+25 
+
+
+state courts and juries. Far from adopting a stance of 
+heightened judicial skepticism towards the doctrine of 
+implied preemption, therefore, this Court should instead 
+take this opportunity to reemphasize the need for, and 
+the jety of, strict judicial enforcement of uniform 
+nati standards in instances where, as here, those 
+standards have been established by the federal agency 
+charged by Congress with responsibility for promulgat- 
+standards. 
+
+
+ing uniform 
+
+Petitioners and their amici make much of what they 
+characterize as the “presumption” against preemption, 
+but in reality there is no conflict between that “pre- 
+sumption” and the analysis set forth above. While this 
+Court has traditionally approached every preemption 
+case with an appropriate sense of respect for the author- 
+ity of state governments within their spheres of : 
+sibility, it is equally important to avoid frustrating Con- 
+sae purposes—and the overarching goals of the 
+Commerce Clause—by eviscerating the benefits of uni- 
+form national standards that have been authorized by 
+federal legislation and adopted by responsible federal 
+agencies. 
+
+Properly understood, in fact, there is no meaningful 
+“presumption” against implied preemption of state-law 
+requirements that are inconsistent with uniform federal 
+standards imposed pursuant to a comprehensive federal 
+regulatory scheme. To be sure, this Court has stated that 
+when Congress has “legislated .. . in a field which the 
+States have traditionally occupied,” the Court will “start 
+with the assumption that the historic police powers of 
+the States were not to be superseded by the Federal Act 
+unless that was the clear and manifest purpose of Con- 
+gress.” Rice v. Santa Fe Elevator Corp., 331 U.S. 218, 
+230 (1947), quoted in cn 51 , U.S. at 485. om 
+that bac ion no force in an i 
+
+Gin cots Setmii doses ann bo ao sasas for docht 
+that Congress intended to inconsistent or con- 
+flicting state laws; indeed, the Supremacy Clause renders 
+
+
+26 
+
+
+all such laws null and void. U.S. CONST. art. VI, cl. 2. 
+Accordingly, “[wJhere, as here, the issue is one of an as- 
+serted substantive conflict with a federal enactment, then 
+‘(t]he relative importance to the State of its own law is 
+not material ... for the Framers of our Constitution 
+provided that the federal law must prevai il.”” Brown v. 
+Hotel & Rest. Empls. & Bartenders Int'l Union Local 
+54, 468 U.S. 491, 1. 503 (1984) Fy Free v. Bland, 
+369 U.S. 663, 666 ( (1962)); acco Felder v. Casey, 
+487 U.S. 131, 138 (1988). 
+
+The “presumption” against preemption is doubly in- 
+appropriate in cases like this one that involve the clash 
+between uniform federal standards and state tort suits 
+because, as noted above, the modern tort system has 
+been transformed into a full-fledged regulatory scheme 
+that allows individual states (or, more precisely, state 
+judges and juries) to exert power and influence far be- 
+yond their borders, un ining or eliminating the abil- 
+ity of other states to choose different, and less excessive, 
+regulatory schemes. Thus, the se that federal 
+preemption of liberal state-law liability standards some- 
+how nett state sovereignty and requires a “pre- 
+sumption” against preemption has absolutely no force; 
+state “sovereignty” is already undermined by the exces- 
+sive regulatory schemes imposed by some states on the 
+Nation at large, and the actions of Con and federal 
+agencies in promulgating uniform balanced stan- 
+dards serve only to bring the federal s back into 
+balance, as avalos or the Framers when they granted 
+Congress the commerce power more than two centuries 
+ago. 
+
+
+27 
+
+
+CONCLUSION 
+
+For the ing reasons, the judgment of the court 
+of appeals should be affirmed. 
+
+Respectfully submitted. 
+Of Counsel: THEODORE B. OLSON 
+ROBIN S. CONRAD Counsel of Record 
+NATIONAL CHAMBER THEODORE J. BOUTROUS, JR. 
+
+LITIGATION CENTER, INC. | THOMAS G. HUNGAR 
+1615 H Street, N.W. GIBSON, DUNN & CRUTCHER LLP 
+bet ows we D.C. 20062 1050 Connecticut Avenue, N.W. 
+(202) 463-5337 Washington, D.C. 20036 
+(202) 955-8500 
+Counsel for Amicus Curiae 
+
+
+November 19, 1999 
+
+

@@ -1,0 +1,18 @@
+[
+  {
+    "source": "playboy-lowerfindings-cap.txt",
+    "source_sha256": "4f5460ae5c2e1826a83efa9fadb591bd4817d8389a6d7badd9f435f945a6c095",
+    "neutral_copy": "playboy-lowerfindings-cap-neutral.txt",
+    "neutral_sha256": "927b465e969df50e4e5f3050e4668ec01b5c0f77909e2fe96dbb3779218ce8ee",
+    "bounded_omissions": 2,
+    "method": "All remaining source text, including findings, legal analysis and footnotes, copied unchanged; no neutral fact or argument was authored."
+  },
+  {
+    "source": "playboy-lowerfindings-independent-body.txt",
+    "source_sha256": "ed9be123618ac75e3102d9d120ca4fd1a0ee20ab38fa6b96a990bdfa814f341a",
+    "neutral_copy": "playboy-lowerfindings-independent-body-neutral.txt",
+    "neutral_sha256": "351c2c6866e27ead1f8aa3d322df6b0356f85d103051a300fb825bdbfa3ff067",
+    "bounded_omissions": 2,
+    "method": "All remaining source text, including findings, legal analysis and footnotes, copied unchanged; no neutral fact or argument was authored."
+  }
+]

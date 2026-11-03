@@ -1,0 +1,1763 @@
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+ALEXIS GEIER, ET AL., 
+Petitioners, 
+Vv. 
+
+
+AMERICAN HONDA MOTOR Co., INC., ET AL., 
+Respondents. 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals For The 
+District of Columbia Circuit 
+
+
+AMICUS CURIAE BRIEF OF 
+THE ASSOCIATION OF TRIAL LAWYERS OF AMERICA 
+IN SUPPORT OF THE PETITIONERS 
+
+
+RICHARD H. MIDDLETON JEFFREY ROBERT WHITE* 
+
+
+1050 31st St., N.W. 1050 31st. St., N.W. 
+
+Washington, DC 20007 Washington, DC 20007 
+
+(202) 965-3500 (202) 965-3500 
+President, The Association Attorney for Amici Curiae 
+of Trial Lawyers of America *Counsel of Record 
+
+
+tinh 
+
+
+TABLE OF CONTENTS — 
+TABLE OF AUTHORITIES i 
+IDENTITY AND INTEREST OF AMICUS CURIAE........1 
+SUMMARY OF THE ARGUMENT 2 
+
+
+ARGUMENT 
+I. THE DECISION THAT PLAINTIFF’S COMMON 
+LAW CAUSES OF ACTION WERE PREEMPTED BY 
+THE NATIONAL TRAFFIC AND MOTOR VEHICLE 
+SAFETY ACT WAS BASED ON AN ERRONEOUS 
+VIEW OF PRODUCT LIABILITY LAW 4 
+
+
+Il. COURTS MUST NOT DEPRIVE TORT VICTIMS 
+OF LEGAL REDRESS UNLESS CONGRESS 
+CLEARLY AND UNAMBIGUOUSLY INTENDED TO 
+PREEMPT COMMON LAW REMEDIEG............c-cesesesereee 9 
+
+
+2. The Indirect Incentive for Safety Created by Potential 
+Common Law Liability Does Not Conflict With the Exercise 
+
+
+B. Courts Should Presume that Congress Does Not Intend 
+to Abolish Common Law Remedies In A Field that Is 
+Within the Responsibility of the States 16 
+
+
+i 
+Ill. THE MOTOR VEHICLE ACT DOES NOT 
+
+
+EXPRESSLY PREEMPT PRODUCT LIABILITY 
+CAUSES OF ACTION 19 
+
+
+A. The Text Of The Statute Indicates Congressional 
+Intent To Preempt State Positive Law, But Not Common 
+Law Remedies. 19 
+
+
+B. Plaintiff's Common Law Causes Of Action Do Not Fall 
+Within Congress’ Definition Of Safety Standard 22 
+
+
+IV. PRODUCT LIABILITY CAUSE OF ACTION DOES 
+NOT STAND AS AN OBSTACLE TO THE PURPOSES 
+AND OBJECTIVES OF CONGRESS. 25 
+
+
+A. Where Congress’ Express Preemption Does Not 
+Clearly Encompass State Tort Remedies, Courts Should 
+Not Undertake “Obstacle” Preemption. 25 
+
+
+B. Product Liability Based on Failure to Equip Cars With 
+Airbags Advances the Purposes and Objectives of 
+Congress. 28 
+
+
+CONCLUSION 30 
+
+
+TABLE OF AUTHORITIES 
+Cases 
+Artis v. Corona Corp., 703 A.2d 1214 (D.C. 1997) .............. 23 
+Atascadero State Hospital v. Scanlon, 
+EE ER 17 
+Bowler v.Stewart-Warner Corp., 563 A.2d 344 
+SEES ES ALE a 24 
+
+
+Cipollone v. Liggett Group, Inc., 505 U.S. 504 (1992) .. passim 
+Cottom v. McGuire Funeral Services, Inc., 
+
+
+Be Be is BOT crccccccesesececsesccveseeccccsescoscoscoes 24 
+Dewey v. R.J. Reynolds Tobacco Co., 577 A.2d 1239 
+
+EEE SEE 6 
+Dorsey v. Honda Motor Co., 655 F.2d 650 
+
+REEL SEN 13 
+Drattel v. Toyota Motor Corp., 699 N.E.2d 376 
+
+EE 8, 25 
+Duke Power Co. v. Carolina Environmental Study 
+
+Group, 438 U.S. 59 (1978) .....ccccccccccecceeseesersereereeneenes 18 
+East Penn Mfg. Co. v. Pineda, 578 A.2d 1113 
+
+EES an SE .  c 23 
+English v. General Electric Co., 496 U.S. 72 (1999). ........... 15 
+Erie Railroad Co. v. Tompkins, 304 U.S. 64 (1938).............. 16 
+Ferebee v. Chevron Chem. Co., 736 F.2d 1529 
+; ink cinisciabintatiatisninscnssccceocesecese 7,13 
+Florida Lime and Avocado Growers, Inc. v. Paul, 
+
+EES ED 16 
+Freightliner Corp. v. Myrick, 514 U.S. 280 (1995)........ passim 
+Garcia v. San Antonio Metropolitan Transit Auth., 
+
+ESS TT Le 17, 28 
+Goodyear Atomic Corp. v. Miller, 
+
+EE AE a 14 
+Grand Trunk Railway Co. of Canada v. Ives, 
+
+Ee 25 
+
+
+Greenman v. Yuba Power Products, 377 P.2d 897 
+I cesetetnanes ll 
+
+
+u 
+Gregory v. Ashcroft, 501 U.S. 452 (1991)....c.seerseeeees 16, 17 
+Harris v. Ford Motor Co., 110 F.3d 1410 
+
+SN EA SIP Piahictintcttinctiinenrisasnesnarentaiestenignentinaitasiubitinhidiiins 5 
+Henningsen v. Bloomfield Motors, Inc 
+
+Re | EE see 11 
+Hernandez-Gomez v. Leonardo, 917 P.2d 238 
+
+CE, FER ceeeiercsntntiniaitinkanbiipandintepemnanetsas 25 
+Hillsborough County v. Automated Medical 
+
+Laboratories, Inc., 471 U.S. 707 (1985)... 27 
+Hines v. Davidowitz, 312 U.S. 52 (1941). ....cccccccseeeeeeeees 26, 27 
+Kitts v. General Motors Corp., 875 F.2d 787 (10th 
+Cir. 1989), cert. denied, 494 U.S. 1065 (1990)...........c.c000 5, 6 
+Larsen v. General Motors Corp., 391 F.2d 495 (8th 
+Che, SRD cicceateiateciartlebiatedtnncistnnpeienbicasialtindtian 13 
+MacPherson v. Buick Motor Co., 
+
+FR 8 8k RE ee 11 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803).............. 18 
+Medtronic, Inc. v. Lohr, 518 U.S. 470 (1996) .........c0000 passim 
+Minton v. Honda of America Mfg., Inc., 
+
+684 N.E.2d 648 (Ohi0 1997) .0......ccccceccseeeeseeneeenees 8, 22 
+Missouri Pacific Ry. Co. v. Humes, 
+
+BED CEE Bre Ge chetegtiectccenteccacicttilancsatalninidinprins 18. 
+
+
+Motor Vehicle Manufacturers Association v. State 
+Farm Mutual Automobile Ins. Co., 463 U.S. 
+
+
+yp UIE SRE iene er Oe OO 30 
+Munroe v. Galati, 189 Ariz. 113, 
+
+SER Pe SENG nail tnseteietncseitiinhnntiitcnstaniton 5,8 
+National Women’s Health Network v. A.H. Robins 
+
+Co., 545 F. Supp. 1177 (D. Mass. 1982) ..........c.c000000: 6 
+New York Conference of Blue Cross v. Travelers Ins., 
+
+SEG ULE, GE Cir esccchid cipincrsstintiltnscnscsnciaapicaseessimes 15 
+Pokorny v. Ford Motor Co., 902 F.2d 1116 (3d Cir.), 
+
+cert. denied, 498 U.S. 853 (1990) .........ccccccererreereennnees 5 
+Raymond v. Riegel Textile Corp, 484 F.2d 1025 
+
+Cha Ge Te cccntiecterecesinticenideenitgctanitinsestacipinninmecepsntes 13 
+Rucker v. Norfolk & Western R.R., 
+
+
+396 N.B2d S34 (TEL. 1979) ...0000..cecreecscssrrerecsecseccessoese 13 
+
+
+‘as 
+Silkwood v. Kerr-McGee Corp., 464 U.S. 238 (1984):.... 14, 18 
+Stevens v. Parke, Davis & Co., 507 P.2d 653 
+
+Re RARTRIEI STRATE URES 55, = A 13 
+
+
+Taylor v General Motors Corp., 875 F.2d 816 
+(11th Cir. 1989), cert. denied, 494 U.S. 1065 
+
+
+(REET, CA ee Re AE a Se ee 5,6 
+Tebbetts v. Ford Motor Co., 140 N.H. 203, 665 A.2d 
+
+345 (1995), cert. denied, 516 U.S. 1072 
+
+Ee ettaticnsciedinciitubbapeinesiasiihiiidllasstaanpsencstinierstiicungeteia 9 
+United Construction Workers v. Laburnum Const. 
+
+a ee a CI hctitececnttetttniscicastsctnsesiinsce 18 
+Warner Fruehauf Trailer Company, Inc. v. Boston, 
+
+654 A.2d 1272, 1276 (1995) .0......c.cccecesseeeereereenes 23, 24 
+Will v. Michigan Dept. of State Police, 491 U.S. 58 
+
+SE iiiesl Achithectinnaghaltchdidttiesliihiamebinintighibimesetndcsnetoantecs 13 
+Wilson v. Pleasant, 660 N.E.2d 327 (Ind. 1995). ................00+- 9 
+Wood v. General Motors Corp., 865 F.2d 395 
+
+I I aidiclennntinidbiniinclechibidibantansiteomalitetccen 5,6 
+Statutes and Regulations 
+National Traffic and Motor Vehicle Safety Act of 
+RO, ee ee ee a ecccilicrcecccnsecnstincncnsceoeyesvstocen 4 
+RE dra cobcnininthlinsindamengesicainitecssnicnsiimemstontiins 4 
+I ad ceeiinintiainsooninnibads 5, 20 
+ee lati asicninidlilnpestaishinenightchiamnnimnciabteicines 4 
+Re itech atcniatcstetscaticiieaininitenctmanstnagesiitiigat 5 
+TD se disenictsdisthsctectincdutcitpesiicinencimnalionicns 8 
+Hew ececerncepncusittenistceccnsiinnnnanitinatesesins 29 
+Other Authorities 
+American Law Institute, Reporters’ Study: Enterprise 
+
+Responsibility For Personal Injury (1991)................. 13 
+
+
+Richard C. Ausness, Compensation For Smoking 
+Related Injuries: An Alternative to Strict 
+Liability in Tort, 46 Wayne L. R. 1085 (1990).......... 12 
+Brenner, Legal Requirements for the Equipment and 
+
+
+iv 
+Design of Private Motor Vehicles: State 
+Action and National Problems, 23 Geo. Wash. 
+
+
+Le, Fee Gy ee centccnnncinicnitineasiilaiiitetdipitiantaciacion 21 
+Guido Calabresi, THE COSTS OF ACCIDENTS (1970).............. 12 
+John Dudman, THE SINKING OF THE TITANIC (1988) ........... 30 
+Paul Finkelman, Baseball and the Rule of Law, 
+
+46 Cleveland St. L. Rev. 239 (1998). ........cccccecceseees 11 
+James A. Henderson, Jr. and Aaron D. Twerski, 
+
+Achieving Consensus on Defective Product 
+
+Design, 83 Cornell L. Rev. 867 (1998)............cc000e 23 
+Clarence Morris, The Role of Administrative Safety 
+
+Measures in Negligence Actions, 
+
+ye A | SS SRN 13 
+
+
+Ralph Nader and Joseph A. Page, Automobile-Design 
+
+Liability And Compliance With Federal 
+
+Standards 64 Geo. Wash. L. Rev. 415 (1996)...... 7, 30 
+Ralph Nader and Joseph A. Page, Automobile Design 
+
+and the Judicial Process, 
+
+Fee CR. Bak IE DY ertciccistsectenrecsetesinccensees 
+William L. Prosser, The Assault Upon the Citadel 
+
+(Strict Liability to the Consumer), 
+
+69 Yale L.J. 1099, 1119-20 (1960)..........cccccceccereeeeees 12 
+Restatement (Second) of Torts §288(C)(1965).............0.000» 12 
+Restatement (Second) of Torts §402A (1965). ................ 11,12 
+S. Rep. No. 1301, 89th Cong., 2d Sess. (1966). ..............+. 4,21 
+Teresa M. Schwartz, The Role of Federal 
+
+SafetyRegulations in Products Liability 
+
+Actions, 12 J. Prod. Liab. 305 (1989)... 13 
+Steven Shavell, Liability for Harm Versus Regulation 
+
+of Safety, 13 J. Legal Studies 357 (1984) .................. 13 
+Traffic Safety: Hearings on H.R. 13228 Before the 
+
+House Comm. on Interstate and Foreign 
+
+
+Commerce, 89th Cong., 2d Sess. (1966) ................ 21 
+Traffic Safety: Hearings on S. 3005 Before the Senate 
+
+Comm. on Commerce, 89th Cong., 2d Sess. 
+
+CRED iniasiictiscisatencssesivsisiiiaidllbiaitamaacnjitbaittamnegeee 21 
+
+
+Laurence H. Tribe, AMERICAN CONSTITUTIONAL LAW 
+
+
+20 
+
+
+el tiiilestiesettiideiedhildinicith iba ainiiinaceihaeevatabiade 
+Frank J. Vandall, Undermining Torts’ Policies: 
+
+Products Liability Legislation, 30 Am. U. L. 
+
+LAE MU Piiclasalinialibisetassththdeuhinsiiineditininesiissessenes 
+John W. Wade, On the Nature of Strict Tort Liability 
+
+for Products, 44 Miss. L.J. 825 (1973) .......ccccccecceseee 
+
+
+No. 98-9811 
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+ALEXIS GEIER, ET AL., 
+Petitioners, 
+Vv. 
+
+
+AMERICAN HONDA MOTOR CoO., INC., ET AL., 
+Respondents. 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals For The 
+District of Columbia Circuit 
+
+
+AMICUS CURIAE BRIEF OF 
+THE ASSOCIATION OF TRIAL LAWYERS OF AMERICA 
+IN SUPPORT OF THE PETITIONERS 
+
+
+IDENTITY AND INTEREST OF AMICUS CURIAE 
+
+
+The Association of Trial Lawyers of America 
+(“ATLA”) respectfully submits this brief as amicus curiae in 
+this case. Letters from both parties granting consent to the 
+filing of this brief have been filed with this Court.! 
+
+
+ATLA is a voluntary national bar association whose 
+
+
+approximately 50,000 trial lawyers primarily represent 
+injured plaintiffs in civil actions. State law has traditionally 
+
+
+' Pursuant to Rule 37.6, Amicus discloses that no counsel for a party 
+authored any part of this brief, nor did any person or entity other than 
+amicus curiae, its members, or its counsel make a monetary contribution 
+to the preparation or submission of this brief. 
+
+
+2 
+
+
+afforded a remedy in tort by which those victims may seek 
+fair compensation from wrongdoers. 
+
+Increasingly, those who may be defendants in state 
+tort actions seek refuge in the doctrine of federal preemption. 
+In too many instances, immunity from state law is urged by 
+those whose objective is immunity from any accountability, 
+where Congress has not provided an alternative means for 
+legal redress. ATLA views the decision below as leading to 
+an unwarranted denial of Americans’ fundamental right to 
+legal recourse for injury. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+1. The decision of the lower court that the compliance with 
+Motor Vehicle Standard 208 immunizes automakers from 
+product liability based on failure to install airbags is based on 
+a fundamental misunderstanding of the operation of product 
+liability lawsuits. A verdict in a product liability action is not 
+the functional equivalent of a state regulation requiring 
+airbags in cars. 
+
+A verdict for plaintiff in such common law cases 
+requires only that the defendant compensate the plaintiff for 
+injuries. Verdicts are not accompanied by any order or 
+requirement that the defendant modify its product. Nor does a 
+plaintiff's verdict force the defendant to choose between 
+changing the product’s design or facing massive liability. 
+Each jury assesses the reasonableness of a car’s design under 
+the individual circumstances existing when the automobile 
+was manufactured. A plaintiff's verdict does not relieve any 
+subsequent plaintiff from the burden of proving each element 
+of the tort action. 
+
+
+2. This Court should establish a guidepost for courts facing 
+the decision whether federal safety regulations preempt tort 
+actions traditionally available under state law. Unless an 
+express preemption provision clearly and unambiguously 
+indicates Congress’ intent to preempt common law remedies, 
+
+
+3 
+
+
+courts should presume that Congress intended that these 
+remedies to coexist with federal regulations. 
+
+Such a presumption a conforms to the traditional and 
+historical view that liability and regulation are 
+complementary means of promoting safety and that 
+regulations serve as a floor, not a ceiling. Although product 
+liability exerts an influence on the decisions of 
+manufacturers, this market-based incentive is not the type of 
+direct exercise of state authority that would conflict with 
+federal regulation. 
+
+In addition, requiring Congress to speak plainly when 
+it intends to eliminate state common law remedies allows 
+States to protect their interests through congressional 
+representation and would safeguard the fundamental right of 
+Americans to access to legal recourse for wrongful injury. 
+
+
+3. The lower court erred in finding that the express 
+preemption of state “standards” applies to product liability 
+actions. The plain language of the statute characterizes 
+federal standards as “minimum.” Plaintiff's causes of action 
+alleging negligent design, strict liability and breach of 
+warranty focus on whether the automaker acted unreasonably 
+under the circumstances existing at the time. Such a cause of 
+action does not establish objective criteria for the 
+performance of the car. Finally, the savings clause does not 
+conflict with the preemption provision, but makes clear 
+Congress’ intent to preserve product liability actions such as 
+plaintiff's. 
+
+4. The lower court erred in holding that product 
+liability remedies stand as an obstacle to federal purposes and 
+objectives. Courts should rarely engage in “object” 
+preemption in areas traditionally committed to state, rather 
+than national authority. 
+
+
+Potential product liability, far from frustrating the 
+purposes and objectives of Standard 208, was relied on by 
+NHTSA to spur adoption of airbags. 
+
+
+ARGUMENT 
+
+
+I. THE DECISION THAT PLAINTIFF’S COMMON 
+LAW CAUSES OF ACTION WERE PREEMPTED BY 
+THE NATIONAL TRAFFIC AND MOTOR VEHICLE 
+SAFETY ACT WAS BASED ON AN ERRONEOUS 
+VIEW OF PRODUCT LIABILITY LAW. 
+
+
+The lawmakers who drafted, debated and ultimately 
+enacted the National Traffic and Motor Vehicle Safety Act of 
+1966, 15 U.S.C. §§ 1381 et seqg., (“Safety Act”] surely are 
+entitled to scratch their heads. Highly publicized hearings 
+cast a spotlight on the “soaring rate of death and debilitation 
+on the Nation’s highways.” S. Rep. No. 1301, 89th Cong., 2d 
+Sess. 1 (1966). They included a memorable appearance by 
+consumer advocate Ralph Nader, whose recent book, 
+“Unsafe At Any Speed” castigated the auto industry for 
+neglecting the problem of the “second collision” and 
+crashworthiness. Without a dissenting vote, Congress 
+authorized the Secretary of Transportation to establish federal 
+motor vehicle safety standards. Congress’ sole stated purpose 
+was to “ reduce traffic accidents and deaths and injuries to 
+persons resulting from traffic accidents,” 15 U.S.C. §1381. 
+
+
+To avoid subjecting automakers to a multiplicity of 
+requirements, Congress included a preemption provision 
+which was narrowly limited to state safety standards: 
+
+
+Supremacy of federal standards . . . 
+
+Whenever a Federal motor vehicle safety standard 
+established under this subchapter is in effect, no State or 
+political subdivision of a State shall have any authority 
+either to establish or continue in effect, with respect to 
+any motor vehicle or item of motor vehicle equipment 
+any safety standard applicable to the same aspect of 
+performance of such vehicle or item of equipment which 
+is not identical to the federal standard. 
+
+
+t5-U.S.C. § 1392(d). 
+
+
+5 
+
+
+Although it had already defined federal safety 
+standards as “a minimum standard for motor vehicle 
+performance,” 15 U.S.C. §1391(2)(emphasis added), 
+Congress added a savings clause that removes any doubt that 
+automakers would continue to be subject to liability suits: 
+
+Continuation of common law liability 
+
+Compliance with any Federal motor vehicle safety 
+standard issued under this subchapter does not exempt 
+any person from any liability under common law. 
+
+
+15 U.S.C. §1397(k). 
+
+
+Lawmakers might well be perplexed, therefore, by the 
+decision by the lower court in this case that Honda’s 
+compliance with Safety Standard 208 does indeed exempt it 
+from common law liability. Lawmakers might agree with 
+Arizona Chief Justice Feldman that it “is difficult to imagine 
+just what language Congress could have used to make the 
+point more clear.” Munroe v. Galati, 189 Ariz. 113, 938 P.2d 
+1114, 1119 (1997). 
+
+
+This case is the latest in a string of similar federal 
+circuit court decisions. Each found the preemption of state 
+“safety standards” to be irreconcilable with the preservation 
+of common law liability. See Wood v. General Motors Corp., 
+865 F.2d 395, 402 (ist Cir. 1988); Pokorny v. Ford Motor 
+Co., 902 F.2d 1116 (3d Cir.), cert. denied, 498 U.S. 853 
+(1990); Kitts v. General Motors Corp., 875 F.2d 787 (10th 
+Cir. 1989), cert. denied, 494 U.S. 1065 (1990); Taylor v 
+General Motors Corp., 875 F.2d 816 (11th Cir. 1989), cert. 
+denied, 494 U.S. 1065 (1990); Harris v. Ford Motor Co., 110 
+F.3d 1410, 1415 (9th Cir. 1997). 
+
+
+ATLA suggests that the fault lies not in Congress, but 
+with those courts. A common element in these decisions is a 
+fundamental error that is encapsulated by the bare assertion 
+by the court below: “On its face, moreover, the term 
+‘standard’ in § 1392(d) could apply to the requirements 
+imposed by common law tort verdicts.” Pet. at App. 9. 
+
+
+6 
+
+
+(emphasis added). In the court’s view, a tort verdict would 
+operate to require an automaker to install airbags in its cars, 
+the functional equivalent to a state statute or regulation. Pet. 
+at App. 8. See also Wood, at 408 (verdict would be equivalent 
+to a state statute requiring all vehicles registered in the state 
+to have passive restraints); Taylor, at 824 n.16 (“the effect 
+would be similar to that produced by a state regulation 
+requiring automobiles to be equipped with airbags”); Kitts, at 
+789 (allowing a common law action “would be tantamount to 
+establishing a conflicting safety standard”). 
+
+On the contrary, ATLA submits, the only requirement 
+imposed by a product liability judgment is the obligation to 
+compensate the plaintiff for the injury caused. This Court has 
+suggested that it would “be rare indeed for a court hearing a 
+common- law cause of action to issue a decree that has ‘the 
+effect of establishing a substantive requirement for a specific 
+device.’”” Medtronic, Inc. v. Lohr, 518 U.S. 470, 503 (1996). 
+Indeed, common law causes of action by definition do not 
+provide such injunctive relief, Dewey v. RJ. Reynolds 
+Tobacco Co., 577 A.2d 1239, 1249 (N.J. 1990). ATLA has 
+been unable to locate an instance in which a common law 
+product liability damage verdict was accompanied by an 
+order that defendant alter its product. For example, in 
+National Women's Health Network v. A.H. Robins Co., 545 
+F. Supp. 1177, 1181 (D. Mass. 1982), the court held that 
+there was no basis under state product liability law to order 
+defendant to recall its allegedly defective [UD in addition to 
+awarding damages, adding: “No court has ever ordered a 
+notification and recall campaign on the basis of state law.” 
+
+
+Should a court attempt to issue an injunction 
+requiring the installation of airbags, such an action would 
+clearly be preempted. But a verdict and judgment in a 
+common law action for damages does not require the 
+defendant to do anything with respect to the product. The 
+manufacturer remains as free as before to decide whether to 
+modify its product or to leave the design unchanged. The 
+
+
+7 
+
+
+latter option leaves open the possibility that another 
+consumer might be similarly injured and bring a successful 
+damage suit. However, that is precisely the position the 
+manufacturer occupied prior to the first lawsuit. No 
+discernible requirement has been imposed under state law. 
+Ralph Nader and Joseph A. Page, Automobile-Design 
+Liability And Compliance With Federal Standards 64 Geo. 
+Wash. L. Rev. 415, 437-39 (1996). See Ferebee v. Chevron 
+Chemical Co., 736 F.2d 1529, 1540-41 (D.C. Cir. 1984). 
+
+
+It is equally erroneous that “[a] successful no-airbag 
+claim would mean that an automobile without an airbag was 
+defectively designed.” Pet. at App. 14, leaving the automaker 
+with the choice of either installing airbags in its cars or facing 
+massive liability claims. A jury verdict for plaintiff in this 
+case may boost the confidence of plaintiffs with similar 
+claims, but it does not relieve any subsequent plaintiff of the 
+burden of proving each element of their causes of action. The 
+first verdict does not confer any legal advantage on 
+subsequent claimants so as to result in a flood of verdicts. 
+Indeed, most manufacturers report that they did not change 
+their product design in response to product liability litigation, 
+though a majority undertook some measures to improve 
+
+
+safety.2 
+
+
+Moreover, each plaintiff asserting liability based on 
+the absence of airbags must establish the unreasonableness of 
+the particular car’s design in view of the circumstances 
+existing at the time it was marketed. A successful claim in 
+this case would mean only that the jury found the design of 
+plaintiff's car was unreasonably dangerous in view of the 
+
+
+2 Risk managers of Fortune 1000 corporations with actual product 
+liability experience reported that as a result (1) over 35% had improved 
+their product warnings and/or instructions; (2) over 30% had improved 
+the safety of their designs and (3) 65% had established formal safety 
+objectives. E. Patrick McGuire, The Impact of Product Liability 18 
+(Conference Bd. 1988), summarized in W. Page Keeton et al. , Products 
+Liability and Safety--Cases and Materials 1033-34 (2d ed. 1989). 
+
+
+foreseeable risk of harm, the gravity of the harm, and the 
+feasibility and cost of a safer alternative design under the 
+state of the art existing in 1987. Whether other cars lacking 
+airbags were also defectively designed would depend on their 
+relevant circumstances. For example, NHTSA determined in 
+1984 that in certain model cars airbags could readily be 
+installed by the 1987 model year. Others faced difficult 
+technological obstacles and design problems that would take 
+up to five years to overcome. 49 Fed. Reg. 28970 (1984). A 
+jury decision that makers of cars in the former group should 
+compensate plaintiffs for injuries that would have been 
+prevented by an airbag does not mean that the latter group of 
+cars was defective for lack of a safety device that was not yet 
+feasible. 
+
+
+The facts in this case illustrate that defective design is 
+a case-by-case determination. According to the complaint, 
+plaintiff was severely injured despite wearing her seatbelt 
+because the seat itself broke away from its moorings due to 
+inadequate design. If supported by the evidence, the jury 
+could determine that in view of this particular tendency, 
+Honda’s reliance on belts alone for occupant protection was 
+unreasonable. Such a verdict cannot be said to mean that any 
+automobile lacking airbags is defectively designed. 
+
+
+This misunderstanding of the operation of product 
+liability causes of action --that verdicts impose objective 
+design standards that are equivalent to federal safety 
+standards -- distorts the preemption analysis of the lower 
+court and other federal courts. The courts recite the 
+presumption against preemption, but they read the statutory 
+language through preemption-colored glasses. 
+
+
+Significantly, a number of state supreme courts, 
+which are most directly involved in the development and 
+application of state product liability law, have held that 
+causes of action are not preempted by Standard 208. Drattel 
+v. Toyota Motor Corp., 699 N.E.2d 376 (N.Y. 1998); Munroe 
+v. Galati, 189 Ariz. 113, 938 P.2d 1114 (1997); Minton v. 
+
+
+Honda of America Mfg., Inc., 684 N.E.2d 648 (Ohio 1997); 
+Tebbetts v. Ford Motor Co., 140 N.H. 203, 665 A.2d 345 
+(1995), cert. denied, 516 U.S. 1072 (1996); Wilson v. 
+Pleasant, 660 N.E.2d 327 (Ind. 1995). 
+
+
+Parts III and IV of this brief argue that plaintiff's 
+cause of action was neither expressly nor impliedly 
+preempted. However, ATLA urges this Court to provide 
+additional guidance to courts faced with preemption claims 
+that would eliminate the tort remedies for wrongful injury. 
+Specifically, this Court should instruct that courts may not 
+deprive injured victims of such common law actions in the 
+absence of a clear and unambiguous statement that Congress 
+intends such a result. Such a “plain statement” rule most 
+closely effectuates the intent of Congress and furthers the 
+constitutional design that underlies the preemption doctrine. 
+Il. COURTS MUST NOT DEPRIVE TORT VICTIMS 
+OF LEGAL REDRESS UNLESS CONGRESS 
+CLEARLY AND UNAMBIGUOUSLY INTENDED TO 
+PREEMPT COMMON LAW REMEDIES. 
+
+
+In recent years, this Court has twice addressed the 
+relationship between federal safety regulation of consumer 
+products and common law tort remedies traditionally 
+available to people injured by unsafe products. In both 
+instances, the Court addressed the issue of whether the scope 
+of express preemption encompassed not only state positive 
+law, but also common law damage suits. In Cipollone v. 
+Liggett Group, Inc., 505 U.S. 504 (1992) and Medtronic, Inc. 
+v. Lohr, 518 U.S. 470 (1996), the Court set out guideposts for 
+courts faced with the growing number of cases involving 
+federal preemption: The purpose of Congress “is the ultimate 
+touchstone” in every pre-emption case. Medtronic, at 485; 
+Cipollone, at 516. Secondly, the court must examine the plain 
+text of the preemption provision and examine each of the 
+plaintiff's causes of action. Cipollone, at 523-24; see 
+Medtronic, at 492-502. Finally, the scope of express 
+preemption is to be narrowly construed consistent with the 
+
+
+10 
+
+
+strong presumption against preemption. Cipollone, at 518; 
+Medtronic, at 485; 
+
+In ATLA’s view, the lower court ignored these basic 
+precepts. The court’s examination of the express preemption 
+provision at issue, 15 U.S.C. § 1392(d), is very brief. Pet. at 
+App. 8-9. The court did not inquire whether Congress 
+intended the term “standard” to include common law actions, 
+nor did it undertake a close examination of either the 
+statutory language or of plaintiff's causes of action. Its 
+reliance on Cipollone and Medtronic ignored the example set 
+by this Court that each statute be addressed on its own terms 
+and that the construction of preemption provisions cannot be 
+transplanted from one statute another. See Cipollone, at 522- 
+23; Medtronic at 489. The lower court’s conclusion -- 
+“Common law liability in this specific context, therefore, can 
+reasonal\!; be viewed as constituting a ‘standard’ that might 
+conflict with Standard 208,” Pet. at App. 9 -- is based on 
+little more than the court’s own ipse dixit. 
+
+This view that common law liability is necessarily at 
+odds with federal safety regulation stands in dramatic 
+contrast to the longstanding and widely accepted view that 
+tort liability complements governmental regulation in 
+promoting safety. Congress is capable of using unambiguous 
+language to preempt common law liability. In the absence of 
+plain statutory language to that effect, courts should presume 
+that Congress intends that common law remedies coexist 
+with federal safety regulation. 
+
+A. Courts Should Presume Congress Intends Common 
+Law Remedies to Coexist With Federal Safety 
+
+
+Regulation. 
+1. Tort Liability Complements Federal R ion in 
+Achieving Safety. 
+
+As the Twentieth Century has unfolded, efforts to 
+
+
+protect consumers from unsafe products have taken a two- 
+pronged approach. One means is to ensure that the 
+
+
+marketplace itself provides incentives for manufacturers to 
+make their products safe. However, where private decision 
+making by producers has been deemed insufficient, 
+government has stepped in to impose safety upon them. 
+
+
+Marketplace forces include the legal requirements 
+developed by the common law. The free market necessarily 
+exists within a legal environment. The law of contracts, 
+based on enforceable rights and obligations. In the absence of 
+this legal matrix, companies and individuals could no more 
+conduct business than eighteen people could accomplish a 
+game of baseball in the weightless vacuum of outer space.? 
+
+Product liability, an amalgam of tort and contract, is 
+the result of efforts by state common law courts to 
+accommodate the law to a modern marketplace in which 
+consumers seldom dealt directly with product makers and 
+America’s fledgling industries no longer required protection, 
+beginning with the landmark decision by Justice Brandeis in 
+MacPherson v. Buick Motor Co., 111 N.E. 1050 (N.Y. 1916), 
+and more fully developed in Henningsen v. Bloomfield 
+Motors, Inc., 161 A.2d 69 (N.J. 1960), and Greenman v. 
+Yuba Power Products, 377 P.2d 897 (Cal. 1963). Its most 
+prominent formulation is set forth in Restatement (Second) of 
+Torts §402A (1965). Although its purpose is to afford legal 
+redress for death and injury, this product liability also plays a 
+role, albeit an indirect one, in providing a disincentive to 
+marketing unreasonably dangerous products in the first place. 
+See John W. Wade, On the Nature of Strict Tort Liability for 
+Products, 44 Miss. L.J. 825, 826 (1973). 
+
+In his classic exposition, Dean Calabresi contrasts this 
+indirect influence exerted on the market by tort law, which he 
+calls “general deterrence” with governmental regulatory 
+
+
+3 On the importance of baseball to America’s common law tradition, see 
+Paul Finkelman, Baseball and the Rule of Law, 46 Cleveland St. L. Rev. 
+239 (1998). 
+
+
+12 
+
+
+mandates, or “specific deterrence. Guido Calabresi, THE 
+Costs OF ACCIDENTS 68-129 (1970). Manufacturers of 
+defective, unreasonably dangerous products who are shielded 
+from liability, are thereby able to externalize the cost of 
+injuries caused by their products. Those products are 
+therefore priced artificially low. Jd. at 70. The costs of 
+accidents are borne by the injured consumer, by first-party 
+insurance, and by taxpayers through various government 
+programs. But these entities are not in position to eliminate 
+the risk. Nonliability is, in effect, a subsidy to the makers of 
+unsafe products, giving them an economic advantage over 
+manufacturers who have invested in safety. Jd. 
+
+Product liability allocates to manufacturers the cost of 
+harm caused by an unreasonably dangerous product, so that 
+the purchase price reflects its true social cost. Market forces 
+then lead the manufacturer -- who is in the best position to do 
+so -- to determine the most cost-efficient means of 
+minimizing those costs. See also Restatement (Second) of 
+Torts §402A, comment c (1965); William L. Prosser, The 
+Assault Upon the Citadel (Strict Liability to the Consumer), 
+69 Yale L.J. 1099, 1119-20 (1960); Richard C. Ausness, 
+Compensation For Smoking-Related Injuries: An Alternative 
+to Strict Liability in Tort, 46 Wayne L. Rev. 1085, 1140 
+(1990)(“efficient allocation of resources is more likely if 
+product prices reflect their actual social costs”). To the extent 
+that prevention of injury is cheaper than the compensation of 
+the injured, there is an incentive for manufacturers to make 
+their products safer. Wade, supra, at 826. 
+
+
+Federal safety regulations also promote the safety of 
+products entering the marketplace. But they do so in a much 
+different manner. Administrative regulations are prospective, 
+liability assesses past conduct. Regulations take the form of 
+objective criteria applicable to a class of products. A liability 
+verdict assesses whether a manufacturer breached a duty of 
+care under the circumstances of a particular case. Regulatory 
+penalties and injunctions are designed to enforce compliance 
+
+
+13 
+
+
+with safety standards. The amount of a liability verdict is 
+designed to compensate for wrongful death and injury. 
+
+
+Federal safety regulation and state tort liability have 
+coexisted for decades. It is a widely accepted principle of tort 
+law that “Compliance with a legislative enactment or an 
+administrative regulation does not prevent a finding of 
+negligence when a reasonable person would take additional 
+precautions.” Restatement (Second) of Torts §288(C)(1965). 
+Prosser at 203-04. 
+
+Courts have harmonized product liability with federal 
+regulatory standards by viewing the latter as “a floor, not a 
+ceiling.” See Ferebee v. Chevron Chem. Co., 736 F.2d 1529, 
+1542-43 (D.C. Cir. 1984) (“federal legislation has 
+traditionally occupied a limited role as the floor of safe 
+conduct); Rucker v. Norfolk & Western R.R., 396 N.E.2d 534, 
+537 (Ill. 1979); Stevens v. Parke, Davis & Co., 507 P.2d 653, 
+661 (Cal. 1973); Raymond v. Riegel Textile Corp, 484 F.2d 
+1025 (1st Cir. 1973); Dorsey v. Honda Motor Co., 655 F.2d 
+650, 656 (Sth Cir. 1981); see generally, Clarence Morris, The 
+Role of Administrative Safety Measures in Negligence 
+Actions, 28 Tex. L. Rev. 143, 157-66 (1949). 
+
+
+In sum, liability and regulation have generally been 
+recognized as complementary means to promote safety. See 
+American Law Institute, Reporters’ Study: Enterprise 
+Responsibility For Personal Injury vol I, 47-49 (1991); 
+Teresa M. Schwartz, The Role of Federal Safety Regulations 
+in Products Liability Actions, 12 J. Prod. Liab. 305 (1989); 
+Steven Shavell, Liability for Harm Versus Regulation of 
+Safety, 13 J. Legal Studies 357 (1984). Congress may be 
+assumed to be familiar with these common law principles of 
+ordinary tort litigation. Will v. Michigan Dept. of State 
+Police, 491 U.S. 58, 67 (1989). 
+
+
+This view has specifically included the Safety Act. In 
+the landmark decision involving automobile crashworthiness, 
+Larsen v. General Motors Corp., 391 F.2d 495, 506 (8th Cir. 
+
+
+14 
+
+
+1968), the court stated: “It is apparent that the National 
+Traffic Safety Act is intended to be supplementary of and in 
+addition to the common law of negligence and product 
+liability.” 
+
+This Court has recognized that Congress may intend 
+that common law remedies coexist with federal safety 
+regulation. For example, the Court determined in Silkwood v. 
+Kerr-McGee Corp..,: 
+
+
+Congress did not believe that it was inconsistent to vest 
+the NRC with exclusive regulatory authority over the 
+safety aspects of nuclear development while at the same 
+time allowing plaintiffs like Mr. Silkwood to recover for 
+injuries caused by nuclear hazards. 
+
+464 U.S. 238, 258 (1984). Justice Blackmun, dissenting on 
+
+other issues, agreed with the majority on this point: 
+Whatever compensation standard a State imposes, 
+whether it be negligence or strict liability, a licensee 
+remains free to continue operating under federal 
+standards and to pay for the injury that results... . 
+Compensatory damages therefore complement the 
+federal regulatory standards, and are an implicit part of 
+the federal regulatory scheme. 
+
+
+Id. at 264 (Blackmun, J., dissenting)(emphasis added). 
+
+
+In such cases, ATLA suggests, courts should adopt 
+the presumption that “Congress assumed that traditional 
+principles of state tort law would apply with full force unless 
+they were expressly supplanted.” Jd at 255. 
+
+
+2. The Indirect Incentive for Safety Created by Potential 
+Common Law Liability Does Not Conflict With the Exercise 
+
+
+of Federal Safety Regulation. 
+
+The core of the preemption doctrine is the exercise of 
+federal power. The exercise of state authority through 
+administrative or legislative regulation may present a direct 
+conflict. with federal regulation. Common law liability 
+
+
+15 
+
+
+operates only indirectly, by enhancing market incentives for 
+safety, and does not constitute the type of direct exercise of 
+state authority that preemption addresses. As this Court 
+explained: 
+The effects of direct regulation on the operation of 
+federal projects are significantly more intrusive than the 
+incidental regulatory effects of such an additional award 
+provision. Appellant may choose to disregard Ohio 
+safety regulations and simply pay an additional workers’ 
+compensation award if an employee’s injury is caused 
+by a safety violation. We believe Congress may 
+reasonably determine that incidental regulatory pressure 
+is acceptable, whereas direct regulatory authority is not. 
+
+
+Goodyear Atomic Corp. v. Miller, 486 U.S. 174, 185 
+(1988)(emphasis added). Shortly thereafter, the Court 
+reaffirmed the importance of this distinction: 
+We recognize that a claim for intentional infliction of 
+emotional distress at issue here may have some effect on 
+these decisions, because liability for claims like 
+petitioner’s will attach additional consequences to 
+retaliatory conduct by employers. As employers find 
+retaliation more costly, they will be forced to deal with 
+complaints by whistleblowers by other means, including 
+altering radiological safety policies. Nevertheless, we 
+believe that this effect is neither direct nor substantial 
+enough to place petitioner's claim in the preempted field. 
+English v. General Electric Co., 496 U.S. 72, 85 (1990). 
+Highly persuasive is this Court’s decision in New 
+York Conference of Blue Cross v. Travelers Ins., 514 U.S. 
+645 (1995). The Court held that a state surcharge on hospital 
+bills covered by commercial insurers are not preempted by 
+|29 U.S.C. §144(a), which preempts state law that “relate to 
+any employee benefit plan.” The charges made nonprofit 
+insurance “more attractive (or less unattractive) as insurance 
+alternatives and thus have an indirect economic effect on 
+choices made by insurance buyers, including ERISA plans.” 
+
+
+16 
+
+
+Nevertheless, “laws with only an indirect economic effect on 
+the relative costs of various health insurance packages” are 
+not preempted. /d. at 659. 
+
+
+B. Courts Should Presume that Congress Does Not Intend 
+to Abolish Common Law Remedies In A Field that Is 
+Within the Responsibility of the States. 
+
+
+Providing legal recourse for those injured by 
+dangerous products has been the province of the states. 
+
+
+Congress has no power to declare substantive rules of 
+common law applicable in a State, whether they be local 
+in their nature or “general,” be they commercial law or a 
+part of the law of torts. And no clause in the 
+Constitution purports to declare such a power upon the 
+federal courts. 
+
+
+Erie Railroad Co. v. Tompkins, 304 US. 64, 78 
+(1938)(Emphasis added). 
+
+
+The states have a strong interest in developing and 
+preserving avenues for legal redress for victims of wrongful 
+injury. See Medtronic, at 487-89. Although Congress wields 
+the power to supersede state law, due regard for federalism 
+requires courts to “start with the assumption that the historic 
+police powers of the states were not to be superseded by [a] 
+federal act unless that was the clear and manifest purpose of 
+Congress.” Medtronic at 485; See also Florida Lime and 
+Avocado Growers, Inc. v. Paul, 373 U.S. 132, 146-147 
+(1963)(preemption of state law must be based on an 
+“unambiguous congressional mandate to that effect”). 
+
+This strong presumption against preemption of state 
+tort law is simply an application of the broader “plain 
+statement” doctrine which Justice O’Connor described in 
+Gregory v. Ashcroft, 501 U.S. 452 (1991): 
+
+
+“(I}f Congress intends to alter the usual constitutional 
+balance between States and the Federal government, it 
+must make its intention to do so unmistakably clear in 
+the language of the statute.” 
+
+
+17 
+
+
+Id. at 464. See also Atascadero State Hospital v. Scanion, 
+473 U.S. 234, 242 (1985). 
+
+
+Requiring Congress to speak plainly if it intends to 
+cut off traditional state tort remedies does no violence to the 
+principle that courts be guided by the intent of Congress. To 
+the contrary, it provides an essential safeguard against 
+judicial suppression of state law that was not intended by 
+federal lawmakers. In addition, this plain statement 
+requirement assures the states the opportunity to defend their 
+sovereign authority. This Court in Garcia v. San Antonio 
+Metropolitan Transit Auth., 469 U.S. 528 (1985), held that 
+the integrity and sovereignty of the states is safeguarded 
+primarily by their representation in Congress. 
+
+By declining to infer preemption in the face of 
+congressional ambiguity, the Court is . . . furthering the 
+spirit of Garcia by requiring that decisions restricting 
+State sovereignty be made in a deliberate manner by 
+Congress, through the explicit exercise of its lawmaking 
+power to that end. .. . 
+
+Application of the plain statement rule thus may avoid a 
+potential constitutional problem. Indeed, inasmuch as 
+this Court in Garcia has left primarily to the political 
+process the protection of the States against intrusive 
+exercises of Congress’ Commerce Clause powers, we 
+must be absolutely certain that Congress intended such 
+an exercise. 
+
+
+Gregory v. Ashcroft, 501 U.S. at 464. 
+
+
+C. Courts Should Presume Congress Does Not Intend 
+Preemption Which Would Deprive Wrongfully Injured 
+Persons Without a Remedy. 
+
+
+In one of this Court’s earliest pronouncements, Chief 
+Justice Marshall stated that 
+
+
+the very essence of civil liberty certainly consists in the 
+right of every individual to claim the protection of the 
+
+
+18 
+
+
+laws, whenever he receives an injury. One of the first 
+duties of government is to afford that protection. 
+
+
+Marbury v. Madison, 5 U.S. (1 Cranch) 137, 163 (1803). 
+This right of access to justice is so fundamental that this 
+Court has located “the duty of every State to provide, in the 
+administration of justice, for the redress of private wrongs” in 
+the Due Process Clause of the Fourteenth Amendment. 
+Missouri Pacific Ry. Co. v. Humes, 115 U.S. 512, 521 
+(1885). 
+
+
+In view of the importance of this right, this Court has 
+stated “{ijt is difficult to believe that Congress would, 
+without comment, remove all means of judicial recourse for 
+those injured by illegal conduct.” Silkwood v. Kerr-McGee 
+Corp., 464 U.S. 238, 251 (1984) quoted in Medtronic, at 487. 
+As Justice Blackmun added, “The absence of federal 
+regulation governing the compensation of victims is strong 
+evidence that Congress intended the matter be left to the 
+States.” Jd. at 464 U.S. at 264 n.7 (1984)(Blackmun, J., 
+dissenting). See also United Construction Workers v. 
+Laburnum Const. Co., 347 U.S. 656, 663-64 (1954). 
+
+
+Indeed, there is at least a substantial question whether 
+due process limits the authority of the federal government to 
+abolish common law remedies without providing a 
+reasonable alternative means for redress of injury. This was 
+left as an open question in Duke Power Co. v. Carolina 
+Environmental Study Group, 438 U.S. 59, 86-88, 91-93 
+(1978). There the Court suggested that the elimination of the 
+common law right to a tort remedy in the Price-Anderson Act 
+might violate due process but for the “panoply of remedies 
+and guarantees” provided by Congress. Jd. at 86-88 and 91- 
+93. 
+
+
+The lower court’s decision in this case, despite the 
+absence of a clear statement that Congress intended to do so, 
+has “the perverse effect of granting complete immunity from 
+design defect liability to an entire industry that, in the 
+
+
+19 
+
+
+judgment of Congress, needed more stringent regulation.” 
+Medtronic, at 487. 
+
+
+Il. THE MOTOR VEHICLE ACT DOES NOT 
+EXPRESSLY PREEMPT PRODUCT LIABILITY 
+CAUSES OF ACTION 
+
+
+The lower court determined that 15 U.S.C. 1392(d) 
+could be viewed as expressly preempting product liability 
+remedies. Pet. at App. 9. Finding this conclusion 
+irreconcilable with the savings clause, however, the court 
+undertook an implied preemption analysis. Pet. at App. 12. 
+ATLA submits that the proper construction of the preemption 
+provision clearly does not include plaintiff's common law 
+causes of action, even in the absence of the savings clause 
+
+
+This Court has spelled out the process for determining 
+whether an express preemption provision includes common 
+law causes of action. 
+
+
+we must fairly but-in light of the strong presumption 
+against pre-emption-narrowly construe the precise 
+language of [the preemption provision] and we must 
+look to each of petitioner's common law claims to 
+determine whether it is in fact pre-empted. The central 
+inquiry in each case is straightforward: we ask whether 
+the legal duty that is the predicate of the common law 
+damages action constitutes a [“safety standard”) giving 
+that clause a fair but narrow reading. 
+
+
+Cippolone, 505 U.S. at 523-24. 
+
+
+A. The Text Of The Statute Indicates Congressional 
+Intent To Preempt State Positive Law, But Not Common 
+Law Remedies. 
+
+
+As was true in Medtronic, “if Congress intended to 
+preclude all common-law causes of action, it chose a 
+singularly odd word with which to do it.” cite Although the 
+lower court suggests that the term “standard” could include 
+“requirements imposed by common law tort verdicts,” Pet. at 
+App. 9, such a reading demands that a jury be viewed as a 
+
+
+20 
+
+
+“State or political subdivision of a State.” Though it is true 
+that a jury award is “only enforceable under state law” by 
+entry of judgment by a court, it is not “imposed by the state.” 
+Cipollone, at 505 U.S. at 526 n.24. 
+
+
+The fact that Congress used the exact phrase “safety 
+standard” to refer to both the federal motor vehicle standard 
+and the preempted area of state law strongly indicates that 
+Congress intended to supersede only state administrative 
+regulations similar in nature to the federal standards. 
+Compare, Medtronic, 518 U.S. at 489. 
+
+
+Most importantly, the lower court ignored the 
+definition of “safety standard” that Congress itself provided 
+in the statute: Congress defined the term as: “[A] minimum 
+standard for motor vehicle performance, or motor vehicle 
+equipment performance, which is practicable, which meets 
+the need for motor vehicle safety and which provides 
+objective criteria.” 15 U.S.C. §1391(2). 
+
+
+By characterizing federal standards as “minimum” the 
+statute clearly permits standards to coexist with tort liability 
+with federal standards performing their traditional role as a 
+floor, not a ceiling. Indeed, an early and persuasive reading 
+of this language is that Congress wished to avoid centralizing 
+the function of promoting safe automobile design in a single 
+agency that would be the target of the considerable power of 
+the automotive industry. Rather, Congress may have intended 
+potential liability “to spur the industry toward greater safety 
+innovation, rather than permitting the manufacturers to 
+discharge their obligations to the public by mere compliance 
+with the administrative norms.” Ralph Nader and Joseph A. 
+Page, Automobile Design and the Judicial Process, 55 Calif. 
+L. Rev. 645, 677 (1967). 
+
+
+Even if some uncertainty remains whether Congress 
+intended § 1392(d) to immunize automakers from common 
+law liability the legislative history demonstrates that 
+Congress’ purpose was to preempt positive law only. 
+
+
+21 
+
+
+Prior to passage of the Act, various states had 
+attempted to impose legislative or administrative safety 
+regulations on automobiles, though without notable success. 
+Brenner, Legal Requirements for the Equipment and Design 
+of Private Motor Vehicles: State Action and National 
+Problems, 23 Geo. Wash. L. Rev. 429 (1955). Several state 
+officials involved in those efforts testified before Congress. 
+See Traffic Safety: Hearings on H.R. 13228 Before the House 
+Comm. on Interstate and Foreign Commerce, 89th Cong., 2d 
+Sess. pt. 1, at 413 (1966) (testimony of Iowa Attorney 
+General Lawrence F. Scalise); Traffic Safety: Hearings on S. 
+3005 Before the Senate Comm. on Commerce, 89th Cong., 
+2d Sess. 511 (1966) (testimony of New York State Senator 
+Edward Speno). Congress included the express preemption 
+provision to avoid a situation in which automakers might be 
+subjected to a multiplicity of such state regulations. 
+
+
+The Senate version of the bill, which contained a 
+preemption provision but no savings clause, was not intended 
+to affect product liability lawsuits. Indeed, the Senate Report 
+draws the distinction between preempted safety standards and 
+standards of care, which were deemed to be outside the scope 
+of express preemption. “Federal minimum safety standards 
+need not be interpreted as restricting State common law 
+standards of care. Compliance with such standards would 
+thus not necessarily shield any person from product liability 
+at common law.” S. Rep. No. 1301, 89th Cong. 2d Sess. at 14 
+(1966) : 
+
+
+The House bill contained the preemption provision 
+that was ultimately enacted. Prophetically, an attorney 
+testifying before the House Committee urged lawmakers to 
+guard against the situation where “in thousands of 
+courtrooms across the Nation wronged individuals will 
+encounter the stone wall of ‘Our product meets Government 
+standards.”” Hearings on H.R. 13228 Before the House 
+Committee on Interstate and Foreign Commerce, 89th Cong., 
+2d Sess. 1249 (1966)(statement of Tom Triplett). The 
+
+
+22 
+
+
+Committee Chair responded “we do not intend to put that 
+umbrella up, I assure you.” Jd. at 1258. Rep. Mackay re- 
+emphasized that the intent of the legislation was that 
+compliance with federal safety standards “does not preclude 
+building a car with higher standards of safety, nor does it 
+relieve makers of any legal liability whatsoever in terms of 
+their obligations to the consumer. Jd. at 1260. 
+
+
+It was in response to such concerns, and perhaps in an 
+abundance of caution, that the House Committee added the 
+savings clause, which ultimately was enacted as 15 U.S.C. § 
+1397(k). This history refutes the lower court’s conclusion 
+that this clause is in conflict with the preemption provision. 
+The savings clause the congressional intent that was already 
+expressed in § 1392(d) that common law remedies would 
+continue to be available to injured plaintiffs. This is not an 
+instance where legislative history yields mixed signals. 
+“Indeed, nowhere in the Safety Act's history have we 
+uncovered even the slightest hint that the preemption clause 
+was intended to foreclose any state common-law duties 
+enforced by damage actions.” Minton v. Honda of America 
+Mfg., Inc., 684 N.E.2d 648, (Ohio 1997) 
+
+
+B. Plaintiff's Common Law Causes Of Action Do Not Fall 
+Within Congress’ Definition Of Safety Standard. 
+
+
+The statutory definition also limits preempted safety 
+standards to standards “for motor vehicle performance” 
+which provide “objective criteria.” The court below did not 
+examine plaintiff's causes of action to determine “whether 
+the legal duty that is the predicate of the common law 
+damages ation constitutes” a safety standard within the 
+meaning of $ 1392(d). ATLA suggests that, to the extent that 
+plaintiff's causes of action can be said to establish a standard, 
+they represent a standard of care expected of product 
+manufacturers, not a standard of performance for the product. 
+Moreover, liability is determined by juries weighing the 
+circumstances in each individual case, not by applying 
+
+
+23 
+
+
+objective criteria. They do not, therefore, meet the statutory 
+definition of “safety standard.” 
+
+
+Plaintiff's complaint asserts liability under three 
+causes of action under the common law of the District of 
+Columbia: negligent design, strict liability, and breach of 
+implied warranty . The negligence cause of action requires a 
+defendant to pay for injury caused by failure to exercise 
+to occupants in the event of foreseeable crashes. 
+
+Strict liability for design defects differs only slightly from 
+negligence. Unlike liability for manufacturing defects, which 
+focuses solely on the product, strict liability for design 
+defects looks at the design choices made by the defendant. 
+Under strict liability “the reasonableness of the 
+manufacturer’s act of placing the product as designed on the 
+market is determined by the risk-utility analysis.” Warner 
+Fruehauf Trailer Company, Inc. v. Boston, 654 A.2d 1272, 
+1276 (1995). Plaintiffs “must ‘show the risks, costs and 
+benefits of the product in question and alternative designs,’ 
+and ‘that the magnitude of the danger from the product 
+outweighed the costs of avoiding the danger.’” Artis v. 
+Corona Corp., 703 A.2d 1214, 1216-17 (D.C. 1997) 
+(citations omitted).. This risk-utility analysis is essentially a 
+negligence standard. See |James A. Henderson, Jr. and Aaron 
+D. Twerski, Achieving Consensus on Defective Product 
+Design, 83 Cornell L. Rev. 867, 901 & 919 (1998). 
+
+The only substantive difference between negligence 
+and strict liability for design defects is that contributory 
+negligence is unavailable as a defense to strict liability. |East 
+Penn Mfg. Co. v. Pineda, 578 A.2d 1113, 1118-19 (D.C. 
+1990). Factors include “the likelihood that it will cause 
+injury, and the probable seriousness of the injury,” the 
+“availability of commercially feasible design alternatives,” 
+and “the manufacturer's ability to eliminate the unsafe 
+character of the product without impairing its usefulness or 
+
+
+24 
+
+
+making it too expensive to maintain its utility,” Warner, 654 
+A.2d at 1277. 
+
+The cause of action based on warranty is essentially 
+the same as the strict liability cause of action under D.C. law. 
+Cottom v. McGuire Funeral Services, Inc., 262 A.2d 807, 
+808-09 (D.C. 1970) (adopting implied warranty without 
+privity; any difference between warranty and strict liability is 
+purely conceptual); Bowler v.Stewart-Warner Corp., 563 
+A.2d 344 (D.C. 1989)(warranty and strict liability are one 
+and the same). 
+
+
+In sum, plaintiff's common law causes of action ask 
+the jury whether Honda breached a standard of care, not 
+whether the car met some criterion of performance. A jury 
+verdict for plaintiff would reflect its determination that 
+Honda’s decision to market the car without airbags was 
+unreasonable in view of the magnitude and gravity of the 
+risks to occupants and the feasibility and practicability of 
+using a safer alternative design under the state of the art 
+existing in 1987. 
+
+Manifestly, such a verdict establishes no objective 
+criteria for automobiles. Moreover, “the risk-utility analysis 
+must be applied in a flexible manner that is necessarily case 
+specific.” Warner, 654 A.2d a: 1277. Certainly the factors 
+considered by the jury will vary from case to case, and results 
+may vary. For example, a jury may be more likely to find the 
+decision to forego airbags unreasonable in smaller cars or, as 
+in this case, cars where the seat may break free, making belts 
+less protective. On the other hand, the design might not be 
+unreasonable in older cars, made airbag technology was less 
+developed. As this Court has long recognized: 
+
+
+There is no fixed standard in the law by which a court is 
+enabled to arbitrarily say in every case what conduct 
+shall be considered reasonable . .. What may be deemed 
+ordinary care in ome case _?, under different 
+
+
+surroundings and circumstances, be gross negligence. 
+
+
+25 
+
+
+Grand Trunk Railway Co. of Canada v. Ives, 144 U.S. 408, 
+417 (1892). Tort liability establishes no objective criteria. 
+
+
+At most, liability verdicts signal automakers of 
+potential liability for failure to exercise a high degree of care 
+for the protection of occupants in the event of motor vehicle 
+collisions. They do not establish an objective criteria for 
+vehicle performance and therefore do not constitute safety 
+standards within the preempted scope of § 1392(d). 
+
+Finally, the savings clause set forth in § 1397 is not in 
+conflict with the express preemption provision. As Arizona 
+Justice Chief Feldman recently stated, “the two clauses work 
+together to forbid states from enacting conflicting regulatory 
+standards but allow common-law tort actions.” Hernandez- 
+Gomez v. Leonardo, 917 P.2d 238, 241 (Ariz. 1996). 
+
+The Court in Cipollone cited the Comprehensive 
+Smokeless Tobacco Health Education Act of 1986, where 
+Congress expressly pre-empted State law but provided a 
+savings clause similar to § 1397, as an example of 
+congressional intent to preempt only positive law while 
+preserving state law damages actions. Cipollone, 505 U.S. at 
+518. 
+
+
+The savings clause “potently and pointedly negates 
+any lingering notion of express preemption of State 
+common-law claims. It is hard to imagine how Congress 
+could have been plainer in its intended meaning.” Drattel v. 
+Toyota Motor Corp., 699 N.E.2d 376, 382 (N.Y. 1998) 
+
+IV. PRODUCT LIABILITY CAUSE OF ACTION DOES 
+NOT STAND AS AN OBSTACLE TO THE PURPOSES 
+AND OBJECTIVES OF CONGRESS. 
+
+
+A. Where Congress’ Express Preemption Does Not 
+Clearly Encompass State Tort Remedies, Courts Should 
+Not Undertake “Obstacle” Preemption. 
+
+
+The lower court stated that it could not reconcile the 
+preemption provision with the savings clause. The court 
+
+
+26 
+
+
+therefore abandoned the effort to ascertain the intent of 
+congress and engaged in implied preemption analysis. The 
+Court in Myrick acknowledged that courts may find “implied 
+conflict pre-emption where . . . state law ‘stands as an 
+obstacle to the accomplishment and execution of the full 
+purposes and objectives of Congress.’Hines v. Davidowitz, 
+312 U. S. $2, 67 (1941).” 514 U.S. at 288-89. ATLA 
+suggests, however, that “obstacle” preemption is not 
+appropriate to deny tort remedies traditionally available 
+under state law. 
+
+
+The Court in Myrick stated that the existence of an 
+express preemption provision “supports a reasonable 
+inference-that Congress did not intend to pre-empt other 
+matters,” though it does not entirely foreclose any possibility 
+of implied pre-emption. Jd. Of course courts should consider 
+evidence that Congress intended to occupy the field or that it 
+is physically impossible to comply with federal and state 
+regulations, despite more narrowly drafted express 
+preemption language. 
+
+However, judicial preemption on the ground that state 
+law as an “obstacle” to the accomplishment of federal 
+purposes stands as an invitation to judicial policymaking. In 
+this case, for example, even accepting that the question of 
+express preemption of tort liability was too close to call, there 
+is a substantial chance the court preempted a broad area of 
+state law that Congress intended not to preempt. ATLA 
+suggests that a perceived inconsistency in Congress’ 
+preemption sections is an exceedingly weak basis for such 
+drastic action. If the court is truly in equipoise concerning 
+
+
+Congress’ intent, the presumption against preemption 
+counsels preservation of state law. 
+
+
+Permitting courts to find “obstacle” preemption might 
+be deemed appropriate where preemption would be 
+consistent with uniquely national interests at stake in the 
+statute. Indeed, the Court first articulated the language of 
+“obstacle” preemption in the course of preempting an Alien 
+
+
+27 
+
+
+Registration Act adopted by Pennsylvania. on the basis of 
+field preemption. Justice Black emphasized that the rule was 
+designed to preserve areas of peculiarly national authority 
+from state encroachment. 
+[This legislation is in a field which affects international 
+relations, the one aspect of our government that from the 
+first has been most generally conceded imperatively to 
+demand broad national authority. 
+
+
+Hines, 312 U.S. at 67-68. (Emphasis added). 
+
+This distinction was underscored in Hillsborough 
+County v. Automated Medical Laboratories, Inc., 471 U.S. 
+707 (1985), which involved local regulation of blood plasma. 
+Justice Marshall, for the Court, noted : 
+
+
+{Ijm the seminal case of Hines v. Davidowitz, [312 U.S. 
+52 (1941)], the Court inferred an intent to preempt from 
+the dominance of the federal interest in foreign affairs 
+~because ‘the supremacy of the national power in the 
+general field of foreign affairs . . . is made clear by the 
+Constitution,’ _ and the regulation of that field is 
+intimately blended and intertwined with responsibilities 
+of national government. Needless to say, those factors 
+are absent here. Rather, as we have stated, the regulation 
+of health and safety matters is primarily and historically, 
+a matter of local concern. 
+
+
+Id. at 719.4 
+ATLA suggests that where preemption would 
+supersede traditional state tort remedies and where Congress 
+
+
+has expressly addressed the scope of preemption in language 
+that does not clearly encompass those remedies, due regard 
+
+
+4 Compare International Paper Co. v. Ouellette, 479 U.S. 481 (1987), 
+involving the impact of the Federal Clean Water Act on a state suit 
+alleging pollution of a resort lake by a paper mill. The subject matter, 
+interstate water pollution, was an area of national interest. Moreover, the 
+Court emphasize that its holding “does not leave respondents without a 
+remedy.” Jd. at 497. 
+
+
+28 
+
+
+for federalism counsels against eliminating tort actions on the 
+basis of obstacle preemption. To hold otherwise, “inevitably 
+invites an unelected federal judiciary to make decisions about 
+which state policies it favors and which it dislikes.” Garcia v. 
+San Antonio Metro. Transit Auth., 469 U.S. 528, 546 (1985). 
+When the statute contains its own preemption or anti- 
+preemption provision, a court that fails to give that 
+provision dispositive effect and instead applies its own 
+preemption criteria is illegitimately disregarding the 
+source of its authority and, regardless of where its 
+preemption inquiry leads it, is pursuing a fundamentally 
+lawless path. 
+Laurence H. Tribe, AMERICAN CONSTITUTIONAL LAW §6-25, 
+at 483 n.8 (2d ed. 1988). 
+
+
+B. Product Liability Based on Failure to Equip Cars With 
+Airbags Advances the Purposes and Objectives of 
+
+
+Congress. 
+
+
+Even if the lower court were correct in undertaking an 
+implied preemption analysis, it is clear that plaintiff's lawsuit 
+does not “frustrate ‘the accomplishment and execution of the 
+full purposes and objectives of Congress.” Myrick, quoting 
+Hines, supra, at 67. Indeed, ATLA submits, common law 
+actions such as plaintiff's serve to advance those goals. 
+
+
+The court below looked to portions of NHTSA’s 1984 
+notice of final rulemaking with respect to Standard 208 and 
+its accompanying statement. 49 FR 28962ff (1984). ATLA 
+suggests that this document provides a compelling 
+demonstration that NHTSA fully anticipated that product 
+liability actions would not only remain available, but would 
+further the objective of promoting wider use of airbags. 
+
+
+NHTSA reaffirmed its view that airbags represent the 
+safest, though the most expensive, means of protecting 
+occupants during collisions. 49 Fed. Reg. 28963. Responding 
+to Congress’ prohibition against a rule requiring airbags in all 
+cars, NHTSA drafted Standard 208 to permit manufacturers 
+
+
+29 
+
+
+to choose between belts and bags for occupant protection. 
+However, Congress clearly did not prohibit the use of 
+incentives to encourage automakers to exceed the minimum 
+requirements of the rule. Indeed, NHTSA offered its own 
+incentive, crediting each automobile equipped with airbags as 
+a car-and-a-half toward the manufacturer’s compliance quota. 
+49 Fed. Reg. 29000. The additional incentive of avoiding 
+common law liability clearly advances the agency’s 
+objective. ' 
+
+Responding to comments suggesting that automakers 
+would overwhelmingly choose belts as the cheapest option, 
+NHTSA stated that “competition, potential liability for any 
+deficient systems and pride in one's product would prevent 
+this.” 49 Fed. Reg. 29000. Although pride in one’s product is 
+not to be disparaged, the agency was clearly relying on 
+potential liability to induce manufacturers to choose airbags. 
+
+NHTSA also addressed concerns of carmakers that 
+choosing hy he if = a “y fa ‘di ge y Bability 
+hatenh Gai ae ght id not j tba. 
+liability insurance premiums, NHSTA also suggested that 
+choosing not to use airbags could itself be a source of product 
+liability, quoting a comment by a representative of the 
+National Association for Public Health Policy: “If a 
+reasonable means of protection is being denied to the 
+motoring public, that denial should lead to liability .. . 
+People whose crash injury would have been averted had the 
+car been equipped with an airbag can sue the car 
+manufacturer to recover the dollar value of that injury.” 49 
+Fed. Reg. 28972. 
+
+
+The lower court essentially held that the 
+accomplishment of Congress’ purpose of reducing injuries 
+and deaths required NHTSA to work alone. ATLA submits 
+that removing the threat of liability may itself frustrate the 
+purpose of the Safety Act. For decades the industry “waged 
+the regulatory equivalent of war against the airbag” Motor 
+
+
+30 
+
+
+Vehicle Manufacturers Association v. State Farm Mutual 
+Automobile Ins. Co . 463 U.S. 29, 49 (1983). Reliance on 
+regulation alone would further “encourage manufacturers to 
+lobby for weaker regulations rather than developing safer 
+products.” Frank J. Vandall, Undermining Torts’ Policies: 
+Products Liability Legislation, 30 Am. U. L. Rev. 673, 687 
+(1981) 
+
+
+A cautionary example can be drawn from the sinking 
+of the Titanic, “which complied with British governmental 
+regulations setting minimum requirements for lifeboats when 
+it left port on its final, fateful voyage with boats capable of 
+carrying only about one-third of the people on board.” Nader 
+and Page, supra, 64 Geo. Wash. L. Rev. at 459; see John 
+Dudman, THE SINKING OF THE TITANIC 2, 30 (1988) 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Amicus urges this Court to 
+reverse the judgment of the court of appeals. 
+
+
+Respectfully submitted, 
+
+
+Jeffrey Robert White 
+
+1050 31st St., N.W. 
+Washington, DC 20007 
+(202) 965-3500 
+
+Attorney for Amicus Curiae 
+
+
+October 22, 1999 
+| 
+
+

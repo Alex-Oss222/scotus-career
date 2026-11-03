@@ -1,0 +1,2071 @@
+{
+  "id": 10535003,
+  "name": "Linda K. WOOD, Plaintiff-Appellant, v. Steven C. OSTRANDER; Neil Maloney, Defendants-Appellees",
+  "name_abbreviation": "Wood v. Ostrander",
+  "decision_date": "1989-06-27",
+  "docket_number": "No. 87-3924",
+  "first_page": "583",
+  "last_page": "607",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "879 F.2d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "471 U.S. 1053",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6296005,
+        6298983,
+        6296327,
+        6298059,
+        6297003,
+        6298348,
+        6296654,
+        6298639,
+        6297265,
+        6297524,
+        6297783,
+        6295774
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/1053-02",
+        "/us/471/1053-12",
+        "/us/471/1053-03",
+        "/us/471/1053-09",
+        "/us/471/1053-05",
+        "/us/471/1053-10",
+        "/us/471/1053-04",
+        "/us/471/1053-11",
+        "/us/471/1053-06",
+        "/us/471/1053-07",
+        "/us/471/1053-08",
+        "/us/471/1053-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 1020",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28228,
+        28166,
+        28135,
+        28327,
+        28359,
+        28075,
+        28107,
+        28333,
+        28079,
+        28177,
+        28153,
+        28350
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/1020-02",
+        "/us/483/1020-09",
+        "/us/483/1020-07",
+        "/us/483/1020-10",
+        "/us/483/1020-12",
+        "/us/483/1020-04",
+        "/us/483/1020-06",
+        "/us/483/1020-11",
+        "/us/483/1020-08",
+        "/us/483/1020-01",
+        "/us/483/1020-03",
+        "/us/483/1020-05"
+      ]
+    },
+    {
+      "cite": "429 U.S. 1066",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6368,
+        7393,
+        7169,
+        7971,
+        6183,
+        7404,
+        6925,
+        5932,
+        7983,
+        7313,
+        8083
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "prison officials' deliberate disregard of prisoner's serious illness or injury violates eighth amendment and is cognizable under section 1983"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/1066-02",
+        "/us/429/1066-07",
+        "/us/429/1066-03",
+        "/us/429/1066-04",
+        "/us/429/1066-06",
+        "/us/429/1066-09",
+        "/us/429/1066-05",
+        "/us/429/1066-01",
+        "/us/429/1066-11",
+        "/us/429/1066-08",
+        "/us/429/1066-10"
+      ]
+    },
+    {
+      "cite": "478 U.S. 1020",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6262720,
+        6264163,
+        6264805,
+        6265802,
+        6264491,
+        6263884,
+        6263568,
+        6263290,
+        6261334,
+        6265370,
+        6265083,
+        6263007
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/1020-02",
+        "/us/478/1020-07",
+        "/us/478/1020-09",
+        "/us/478/1020-12",
+        "/us/478/1020-08",
+        "/us/478/1020-06",
+        "/us/478/1020-05",
+        "/us/478/1020-04",
+        "/us/478/1020-01",
+        "/us/478/1020-11",
+        "/us/478/1020-10",
+        "/us/478/1020-03"
+      ]
+    },
+    {
+      "cite": "367 U.S. 643",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785580
+      ],
+      "weight": 3,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0643-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 183",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 165",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        640823
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0165-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202378
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0312-01"
+      ]
+    },
+    {
+      "cite": "743 F.2d 1372",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        607785
+      ],
+      "pin_cites": [
+        {
+          "page": "1376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/743/1372-01"
+      ]
+    },
+    {
+      "cite": "865 F.2d 982",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533259,
+        10533199
+      ],
+      "pin_cites": [
+        {
+          "page": "987"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/865/0982-02",
+        "/f2d/865/0982-01"
+      ]
+    },
+    {
+      "cite": "79 L.Ed.2d 720",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 1325",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "465 U.S. 1049",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11379344,
+        11379371
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/1049-01",
+        "/us/465/1049-02"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 859",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 772",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "809 F.2d 1406",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1643409
+      ],
+      "pin_cites": [
+        {
+          "page": "1408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/809/1406-01"
+      ]
+    },
+    {
+      "cite": "396 P.2d 793",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "795"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 Wash.2d 253",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1966301
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/65/0253-01"
+      ]
+    },
+    {
+      "cite": "841 F.2d 337",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11296512
+      ],
+      "pin_cites": [
+        {
+          "page": "339"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/841/0337-01"
+      ]
+    },
+    {
+      "cite": "807 F.2d 1483",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1649711
+      ],
+      "pin_cites": [
+        {
+          "page": "1487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/807/1483-01"
+      ]
+    },
+    {
+      "cite": "620 F.2d 160",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1372679
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/620/0160-01"
+      ]
+    },
+    {
+      "cite": "479 F.Supp. 486",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4117396
+      ],
+      "pin_cites": [
+        {
+          "page": "490-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/479/0486-01"
+      ]
+    },
+    {
+      "cite": "85 L.Ed.2d 479",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 2114",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "746 F.2d 614",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        649018
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/746/0614-01"
+      ]
+    },
+    {
+      "cite": "590 F.2d 294",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        823079
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/590/0294-01"
+      ]
+    },
+    {
+      "cite": "796 F.2d 266",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1620206
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/796/0266-01"
+      ]
+    },
+    {
+      "cite": "686 F.2d 616",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1457409
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/686/0616-01"
+      ]
+    },
+    {
+      "cite": "715 F.2d 1200",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1882240
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1206"
+        },
+        {
+          "page": "1204"
+        },
+        {
+          "page": "1206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/715/1200-01"
+      ]
+    },
+    {
+      "cite": "738 F.2d 1462",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        661683
+      ],
+      "pin_cites": [
+        {
+          "page": "1466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/738/1462-01"
+      ]
+    },
+    {
+      "cite": "754 F.2d 1512",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        287504
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "1514"
+        },
+        {
+          "page": "1515"
+        },
+        {
+          "page": "1515"
+        },
+        {
+          "page": "1513"
+        },
+        {
+          "page": "1515"
+        },
+        {
+          "page": "1515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/754/1512-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed.2d 762",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 3263",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "791 F.2d 1329",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10552431
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "1332"
+        },
+        {
+          "page": "1332"
+        },
+        {
+          "page": "1332"
+        },
+        {
+          "page": "1332"
+        },
+        {
+          "page": "1333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/791/1329-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 511",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512327
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0511-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 635",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28199
+      ],
+      "weight": 9,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "3038"
+        },
+        {
+          "page": "3039",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "3039"
+        },
+        {
+          "page": "3039"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0635-01"
+      ]
+    },
+    {
+      "cite": "859 F.2d 736",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531410
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "739"
+        },
+        {
+          "page": "739"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/859/0736-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "82 L.Ed.2d 919",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 26",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "468 U.S. 1226",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11352830,
+        11352500,
+        11352602,
+        11352347,
+        11352702
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/1226-05",
+        "/us/468/1226-02",
+        "/us/468/1226-03",
+        "/us/468/1226-01",
+        "/us/468/1226-04"
+      ]
+    },
+    {
+      "cite": "468 U.S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337565
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "194"
+        },
+        {
+          "page": "3019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0183-01"
+      ]
+    },
+    {
+      "cite": "669 P.2d 451",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Wash.2d 275",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142090
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/100/0275-01"
+      ]
+    },
+    {
+      "cite": "109 S.Ct. 998",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1006",
+          "parenthetical": "distinguishing situation where state \"played no part\" in creating the dangers that minor child faced by remaining in his father's custody \"nor did [the state] do anything to render [the child] any more vulnerable to them.\""
+        },
+        {
+          "parenthetical": "distinguishing situation where state \"played no part\" in creating the dangers that minor child faced by remaining in his father's custody \"nor did [the state] do anything to render [the child] any more vulnerable to them.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "92 L.Ed.2d 739",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 3333",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "769 F.2d 1350",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        361368
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1356"
+        },
+        {
+          "page": "1356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/769/1350-01"
+      ]
+    },
+    {
+      "cite": "780 F.2d 1444",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1531168
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1447"
+        },
+        {
+          "page": "1448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/780/1444-01"
+      ]
+    },
+    {
+      "cite": "460 U.S. 719",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199239
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/0719-01"
+      ]
+    },
+    {
+      "cite": "660 F.2d 1345",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        390941
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1352"
+        },
+        {
+          "page": "1352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/660/1345-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12126861
+      ],
+      "weight": 7,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "674-75",
+          "parenthetical": "child had liberty interest in personal security and freedom from restraint and infliction of pain"
+        },
+        {
+          "page": "1414",
+          "parenthetical": "child had liberty interest in personal security and freedom from restraint and infliction of pain"
+        },
+        {
+          "parenthetical": "child had liberty interest in personal security and freedom from restraint and infliction of pain"
+        },
+        {
+          "page": "674, 680-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0651-01"
+      ]
+    },
+    {
+      "cite": "782 F.2d 790",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1552418
+      ],
+      "pin_cites": [
+        {
+          "page": "792-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/782/0790-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 269",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 311",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "818 F.2d 1411",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716619
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1414"
+        },
+        {
+          "page": "1415"
+        },
+        {
+          "page": "1414-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/1411-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 517",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339213
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0517-01"
+      ]
+    },
+    {
+      "cite": "50 L.Ed.2d 785",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "prison officials' deliberate disregard of prisoner's serious illness or injury violates eighth amendment and is cognizable under section 1983"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 S.Ct. 798",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "prison officials' deliberate disregard of prisoner's serious illness or injury violates eighth amendment and is cognizable under section 1983"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        7354
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "104-05"
+        },
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0097-01"
+      ]
+    },
+    {
+      "cite": "109 S.Ct. 1197",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12032186
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0378-01"
+      ]
+    },
+    {
+      "cite": "811 F.2d 1243",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1165030
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1247"
+        },
+        {
+          "page": "1247"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/811/1243-01"
+      ]
+    },
+    {
+      "cite": "851 F.2d 1212",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11363098
+      ],
+      "pin_cites": [
+        {
+          "page": "1214-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/851/1212-01"
+      ]
+    },
+    {
+      "cite": "857 F.2d 638",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530773
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "640"
+        },
+        {
+          "page": "641"
+        },
+        {
+          "page": "641-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/857/0638-01"
+      ]
+    },
+    {
+      "cite": "752 F.2d 817",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        297090
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "828"
+        },
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/752/0817-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 381",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53148
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "385"
+        },
+        {
+          "page": "385",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "385",
+          "parenthetical": "opinion of court"
+        },
+        {
+          "page": "388",
+          "parenthetical": "concurrence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/0381-01"
+      ]
+    },
+    {
+      "cite": "820 F.2d 194",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1704811
+      ],
+      "pin_cites": [
+        {
+          "page": "199-200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/820/0194-01"
+      ]
+    },
+    {
+      "cite": "818 F.2d 791",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716449
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "793"
+        },
+        {
+          "page": "793, 795-97",
+          "parenthetical": "deliberate indifference to victim's well-being is more than negligence and supports section 1983 claim"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/0791-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 6,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "347"
+        },
+        {
+          "page": "670"
+        },
+        {
+          "parenthetical": "gross negligence or reckless indifference sufficient"
+        },
+        {
+          "parenthetical": "gross negligence or reckless indifference sufficient"
+        },
+        {
+          "parenthetical": "gross negligence or reckless indifference sufficient"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 327",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204748
+      ],
+      "weight": 7,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "330-32"
+        },
+        {
+          "page": "664-65"
+        },
+        {
+          "page": "330-31"
+        },
+        {
+          "page": "337-39"
+        },
+        {
+          "page": "331"
+        },
+        {
+          "page": "334-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0327-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 527",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188807
+      ],
+      "weight": 9,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "535"
+        },
+        {
+          "page": "1912"
+        },
+        {
+          "page": "536-37"
+        },
+        {
+          "page": "1913"
+        },
+        {
+          "page": "541-44"
+        },
+        {
+          "page": "1916-17"
+        },
+        {
+          "page": "545"
+        },
+        {
+          "page": "1917",
+          "parenthetical": "Blackmun, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0527-01"
+      ]
+    },
+    {
+      "cite": "831 F.2d 829",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1768032
+      ],
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/831/0829-01"
+      ]
+    },
+    {
+      "cite": "75 L.Ed.2d 468",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 1234",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "459 U.S. 1227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6555424,
+        6555266,
+        6555368,
+        6555312,
+        6555480,
+        6555230
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/1227-05",
+        "/us/459/1227-02",
+        "/us/459/1227-04",
+        "/us/459/1227-03",
+        "/us/459/1227-06",
+        "/us/459/1227-01"
+      ]
+    },
+    {
+      "cite": "690 F.2d 1240",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1474025
+      ],
+      "pin_cites": [
+        {
+          "page": "1250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/690/1240-01"
+      ]
+    },
+    {
+      "cite": "783 F.2d 874",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1544089
+      ],
+      "pin_cites": [
+        {
+          "page": "876"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/783/0874-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "774 F.2d 182",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        35619
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "195"
+        },
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/774/0182-01"
+      ]
+    },
+    {
+      "cite": "592 F.Supp. 155",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3692076
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/592/0155-01"
+      ]
+    },
+    {
+      "cite": "518 F.Supp. 669",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5608517
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/518/0669-01"
+      ]
+    },
+    {
+      "cite": "536 F.Supp. 108",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3438288
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/536/0108-01"
+      ]
+    },
+    {
+      "cite": "536 F.Supp. 1121",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3438111
+      ],
+      "pin_cites": [
+        {
+          "page": "1125"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/536/1121-01"
+      ]
+    },
+    {
+      "cite": "511 F.Supp. 667",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5577263
+      ],
+      "pin_cites": [
+        {
+          "page": "669"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/511/0667-01"
+      ]
+    },
+    {
+      "cite": "484 F.Supp. 705",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4134295
+      ],
+      "pin_cites": [
+        {
+          "page": "714"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/484/0705-01"
+      ]
+    },
+    {
+      "cite": "535 F.Supp. 455",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3429872
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/535/0455-01"
+      ]
+    },
+    {
+      "cite": "599 F.Supp. 363",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3722609
+      ],
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/599/0363-01"
+      ]
+    },
+    {
+      "cite": "89 L.Ed.2d 271",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        6202676
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/475/0335-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 547",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178394
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "554"
+        },
+        {
+          "page": "1218"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/386/0547-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6188632
+      ],
+      "weight": 4,
+      "year": 1982,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/457/0307-01"
+      ]
+    },
+    {
+      "cite": "855 F.2d 1421",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536710
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1425-26"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/855/1421-01"
+      ]
+    },
+    {
+      "cite": "444 U.S. 277",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306021
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/444/0277-01"
+      ]
+    },
+    {
+      "cite": "847 F.2d 1211",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1778442
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1220-1223",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/847/1211-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 183",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 1
+    },
+    {
+      "cite": "342 U.S. 165",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        640823
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/342/0165-01"
+      ]
+    },
+    {
+      "cite": "715 F.2d 1200",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1882240
+      ],
+      "pin_cites": [
+        {
+          "page": "1204",
+          "parenthetical": "distinguishing situation where arrest creates the danger, actionable under section 1983, from situation where danger existed before defendant acted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/715/1200-01"
+      ]
+    },
+    {
+      "cite": "754 F.2d 1512",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        287504
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/754/1512-01"
+      ]
+    },
+    {
+      "cite": "791 F.2d 1329",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10552431
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1332"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/791/1329-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 511",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512327
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "526"
+        },
+        {
+          "page": "535, n. 12"
+        },
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/472/0511-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 635",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28199
+      ],
+      "weight": 6,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "3039"
+        },
+        {
+          "page": "3038"
+        },
+        {
+          "page": "3038"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/483/0635-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "819"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "105 S.Ct. 26",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "2820, n. 12"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "468 U.S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337565
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/468/0183-01"
+      ]
+    },
+    {
+      "cite": "669 P.2d 451",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "100 Wash.2d 275",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1142090
+      ],
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/100/0275-01"
+      ]
+    },
+    {
+      "cite": "109 S.Ct. 998",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 4,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1006"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "769 F.2d 1350",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        361368
+      ],
+      "pin_cites": [
+        {
+          "page": "1356"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/769/1350-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12126861
+      ],
+      "year": 1977,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/430/0651-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        7354
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/429/0097-01"
+      ]
+    },
+    {
+      "cite": "109 S.Ct. 1197",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12032186
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0378-01"
+      ]
+    },
+    {
+      "cite": "811 F.2d 1243",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1165030
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1247"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/811/1243-01"
+      ]
+    },
+    {
+      "cite": "851 F.2d 1212",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11363098
+      ],
+      "pin_cites": [
+        {
+          "page": "1220"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/851/1212-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 381",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53148
+      ],
+      "weight": 13,
+      "pin_cites": [
+        {
+          "page": "385"
+        },
+        {
+          "parenthetical": "police officers violated due process when, after arresting the guardian of three young children, they abandoned the children on a busy stretch of highway at night"
+        },
+        {
+          "page": "388"
+        },
+        {
+          "page": "382"
+        },
+        {
+          "page": "387"
+        },
+        {
+          "page": "388-395"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "392"
+        },
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/592/0381-01"
+      ]
+    },
+    {
+      "cite": "818 F.2d 791",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716449
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/818/0791-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 2517,
+    "char_count": 87917,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 1.7701106890523887e-06,
+      "percentile": 0.9938334242652757
+    },
+    "sha256": "53cf767b607a85a2bb0e2b80f5dd87a9f6f509fb0e19591ea10bc746d540903d",
+    "simhash": "1:289fe5132c3c3726",
+    "word_count": 14347
+  },
+  "last_updated": "2024-02-27T18:16:00.539365+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLETCHER and THOMPSON, Circuit Judges, and CARROLL, District Judge."
+    ],
+    "parties": [
+      "Linda K. WOOD, Plaintiff-Appellant, v. Steven C. OSTRANDER; Neil Maloney, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "DAVID R. THOMPSON, Circuit Judge:\nLinda Wood brought this action under 42 U.S.C. \u00a7 1983 against Washington State Trooper Steven Ostrander and his wife, and Neil Maloney, Chief Officer of the Washington State Patrol and his wife. Wood appeals the district court\u2019s summary judgment dismissal of the case as to all defendants. We affirm the district court\u2019s dismissal as to Maloney and his wife, but reverse the dismissal as to Ostrander and his wife.\nFACTS\nAt 2:30 a.m., on the morning of September 23, 1984, Trooper Ostrander pulled a car to the side of the road for driying with its high beams on. Ostrander determined that the driver, Robert Bell, was intoxicated and placed him under arrest. Ostrander called for a tow truck to have the car impounded, and returned to the car and removed the keys. Wood, who was sitting in the car, asked Ostrander how she would get home. Ostrander replied that he was sorry, but that Wood would have to get out of the car. These facts are not disputed. Wood claims that Ostrander simply returned to his patrol car and drove away. Ostrander claims that he offered to call a friend or family member who could give Wood a ride home, but that she declined the offer. Although Wood claims that she did not see any open business at the time Ostrander drove away, Ostrander claims that a Shell service station and a Seven-Eleven store were clearly visible and open for business. Ostrander further claims that Wood was picked up by an unknown driver before Ostrander drove away, although Bell and Wood dispute this.\nOstrander left Wood near a military reservation in the Parkland area of Pierce County, which has the highest aggravated crime rate in the county outside the City of Tacoma. The temperature was fifty degrees and Wood was wearing only a blouse and jeans. Wood alleges that after walking one-half block toward her home, which was five miles away, and having turned down rides offered by three or four strangers, she accepted a ride with an unknown man. The driver took Wood to a secluded area and raped her.\nThe district court denied defendants\u2019 first summary judgment motion, ruling that Ostrander\u2019s actions could not be characterized as merely negligent. Subsequently, the district court granted defendants\u2019 second motion for summary judgment, on the ground that Ostrander was entitled to good faith qualified immunity, and that Ostrander owed no \u201caffirmative constitutional duty of protection\u201d to Wood.\nWe review the district court\u2019s grant of summary judgment de novo to determine whether there is any genuine issue of material fact and whether the substantive law was correctly applied. Darring v. Kincheloe, 783 F.2d 874, 876 (9th Cir.1986). All facts in the record and inferences drawn from them must be viewed in the light most favorable to the non-moving party. Clipper Exxpress v. Rocky Mountain Motor Tariff Bureau, Inc., 690 F.2d 1240, 1250 (9th Cir.1982), cert. denied, 459 U.S. 1227, 103 S.Ct. 1234, 75 L.Ed.2d 468 (1983).\nDISCUSSION\nI. Viability of the Section 1983 Claim\nTo sustain an action under section 1983, a plaintiff must show (1) that the conduct complained of was committed by a person acting under color of state law; and (2) that the conduct deprived the plaintiff of a federal constitutional or statutory right. Rinker v. County of Napa, 831 F.2d 829, 831 (9th Cir.1987) (citing Parratt v. Taylor, 451 U.S. 527, 535, 101 S.Ct. 1908, 1912, 68 L.Ed.2d 420 (1981)). It is not disputed that in arresting Bell and impounding the car, Ostrander was acting under color of state law. Ostrander argues, however, that Wood has failed to state a claim cognizable under section 1983 because, first, his conduct was at most negligent and, second, Wood has adequate state remedies to pursue her claim. These issues are considered in turn.\nA. The \u201cMere Negligence\u201d Bar\nIn Daniels v. Williams, 474 U.S. 327, 330-32, 106 S.Ct. 662, 664-65, 88 L.Ed.2d 662 (1986), and Davidson v. Cannon, 474 U.S. 344, 347, 106 S.Ct. 668, 670, 88 L.Ed.2d 677 (1986), the Supreme Court held that mere negligence or lack of due care by state officials does not trigger the protections of the fourteenth amendment and therefore does not state a claim under section 1983. In doing so, the Court overruled that part of Parratt, 451 U.S. at 536-37, 101 S.Ct. at 1913, which held that a negligent loss of property by state officials could be a \u201cdeprivation\u201d under the due process clause. Daniels, 474 U.S. at 330-31, 106 S.Ct. at 664-65. However, the Court expressly left open the question whether something less than intentional conduct, such as recklessness or \u2018gross negligence,\u2019 is enough to trigger the protections of the Due Process Clause.\u201d Id. at 334 n. 3, 106 S.Ct. at 667 n. 3.\nA number of circuits have held recklessness or gross negligence sufficient to state a section 1983 claim; none has held that only intentional misconduct will suffice. See, e.g., Taylor v. Ledbetter, 818 F.2d 791, 793 (11th Cir.1987) (en banc) (claim that state officials \u201cwere \u2018grossly negligent\u2019 or \u2018deliberately indifferent\u2019 \u201d is \u201csufficient to overcome either a Daniels or Davidson bar\u201d); Vinson v. Campbell County Fiscal Court, 820 F.2d 194, 199-200 (6th Cir.1987) (gross negligence cognizable under section 1983); White v. Rochford, 592 F.2d 381, 385 (7th Cir.1979) (gross negligence or reckless disregard for the safety of others cognizable); see also Davidson v. O\u2019Lone, 752 F.2d 817, 828 (3rd Cir.1984) (en banc), aff'd sub nom., Davidson v. Cannon, 474 U.S. 344, 106 S.Ct. 668, 88 L.Ed.2d 677 (1986) (gross negligence or reckless indifference sufficient) (plurality view).\nThe law in this circuit is unclear. In Fargo v. City of San Juan Bautista, 857 F.2d 638 (9th Cir.1988) we stated that \u201cgrossly negligent or reckless official conduct that infringes upon an interest protected by the due process clause is actionable under section 1983.\u201d Id. at 640. We based this statement, however, on the first opinion in this case, Wood v. Ostrander, 851 F.2d 1212, 1214-15 (9th Cir.1988). The first Wood opinion has been amended by this opinion. Moreover, the gross negligence standard which we articulated in our first Wood opinion was based on Ketchum v. County of Alameda, 811 F.2d 1243 (9th Cir.1987). Ketchum involved a claim by a woman who was raped by an escaped inmate. The victim contended the county had been grossly negligent in maintaining security at the facility where the inmate had been confined. We affirmed summary judgment in favor of the state defendants on the ground that the victim, as a member of the public at large, did not have \u201ca special relationship with the state or the criminal,\u201d and hence \u201chad no federal constitutional right to state protection from criminal attacks.\u201d Id. at 1247. We did not decide the question of what culpability standard would have been applicable if such a relationship had existed. Id. at 1246 n. 3.\nThe Supreme Court has recently adopted the standard of deliberate indifference as the culpability standard necessary to establish section 1983 liability of a municipality based upon a claim that the municipality\u2019s lack of training for police officers was a policy causing a violation of a constitutional right of a person subject to police action. City of Canton v. Hams, \u2014 U.S. -, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989). The Court in Canton expressly reserved the question whether the deliberate indifference standard would also apply to \u201can underlying claim of a constitutional violation.\u201d City of Canton v. Harris, 109 S.Ct. at 1204 n. 8. Despite this reservation, however, Canton calls into question our statements in Fargo and in our prior opinion in this case that, a showing of gross negligence will suffice to establish the requisite level of fault in a section 1983 action against an individual state actor such as Trooper Ostrander.\nHere, however, Wood has raised a genuine issue of fact tending to show that Trooper Ostrander acted with deliberate indifference to Wood\u2019s interest in personal security under the fourteenth amendment. See Taylor v. Ledbetter, 818 F.2d at 793, 795-97 (deliberate indifference to victim\u2019s well-being is more than negligence and supports section 1983 claim); Davidson v. O\u2019Lone, supra, 752 F.2d at 828; see also Estelle v. Gamble, 429 U.S. 97, 104-05, 97 S.Ct. 285, 291, 50 L.Ed.2d 251 (1976), reh\u2019g denied, 429 U.S. 1066, 97 S.Ct. 798, 50 L.Ed.2d 785 (1977) (prison officials\u2019 deliberate disregard of prisoner\u2019s serious illness or injury violates eighth amendment and is cognizable under section 1983). The rationale underlying Daniels\u2019 bar of negligence-based section 1983 claims is that mere lack of due care, such as leaving a pillow on the prison stairs (Daniels) or mislaying an inmate\u2019s property (Parratt) is \u201cquite remote\u201d from the fourteenth amendment\u2019s purpose of redressing abuses of power by state officials. 474 U.S. at 332, 106 S.Ct. at 665. In the present case, the facts put in issue by Wood \u2014 that Ostrander arrested the driver, impounded the car, and left Wood by the side of the road at night in a high-crime area \u2014 show an assertion of government power which, according to Wood\u2019s version of the case, tends to show a disregard for Wood\u2019s safety amounting to deliberate indifference.\nB. The \u201cState Remedies\u201d Bar\nParratt v. Taylor, 451 U.S. at 541-44, 101 S.Ct. at 1916-17, and its progeny hold that a deprivation of liberty or property is not cognizable under section 1983 when a state\u2019s post-deprivation remedies are adequate to protect a victim\u2019s procedural due process rights. See, e.g., Hudson v. Palmer, 468 U.S. 517, 533, 104 S.Ct. 3194, 82 L.Ed.2d 393 (1984). However, \u201c[t]he Parratt line of cases does not focus on the relevance of procedural protections to alleged violations of substantive constitutional rights.\u201d Smith v. City of Fontana, 818 F.2d 1411, 1414 (9th Cir.1987), cert. denied, \u2014 U.S. -, 108 S.Ct. 311, 98 L.Ed.2d 269 (1988). Accordingly, the existence of state remedies is irrelevant and the Parratt bar inapplicable where the plaintiff alleges a violation of a substantive right under either the Bill of Rights or the due process clause. Smith, 818 F.2d at 1415; accord Mann v. Tucson Dept. of Police, 782 F.2d 790, 792-93 (9th Cir.1986) (per curiam); see also Daniels, 474 U.S. at 337-39, 106 S.Ct. at 677-79 (Stevens, J., concurring) (section 1983 claim alleging violation of substantive due process not barred by existence of state remedy); Parratt, 451 U.S. at 545, 101 S.Ct. at 1917 (Blackmun, J., concurring) (due process clause extends beyond procedural matters).\nOstrander argues that the existence of a state tort remedy for Wood precludes the section 1983 claim under Parratt. According to Ostrander, the only distinction between this case and the Parratt line is that Parratt and its progeny involve deprivations of property whereas this case involves an alleged deprivation of liberty. See Ingraham v. Wright, 430 U.S. 651, 674-75, 97 S.Ct. 1401, 1414, 51 L.Ed.2d 711 (1977) (child had liberty interest in personal security and freedom from restraint and infliction of pain). Ostrander argues that we should anticipate a Supreme Court holding to the effect that Parratt extends to deprivations of liberty, because the Court cited certain section 1983 cases involving assaults to support its conclusion that Parratt extends to intentional deprivations of property. See Hudson v. Palmer, 468 U.S. at 531 n. 10, 533-34 n. 14, 104 S.Ct. at 3202 n. 10, 3204 n. 14. Ostrander also relies on this court\u2019s decision in Rutledge v. Arizona Board of Regents, 660 F.2d 1345, 1352 (9th Cir.1981), aff'd sub nom. Kush v. Rutledge, 460 U.S. 719, 103 S.Ct. 1483, 75 L.Ed.2d 413 (1983), which held in part that a college football coach\u2019s assault on a player was not cognizable under section 1983.\nOstrander\u2019s argument is unpersuasive, because it follows the wrong axis of analysis. This circuit has analyzed Parratt and its progeny not by distinguishing liberty versus property deprivations, but rather by analyzing substantive versus procedural rights deprivations. See, e.g., Smith v. City of Fontana, 818 F.2d at 1414-15. The relevant inquiry is whether the deprivation is sufficiently serious that \u201c \u2018the constitutional line ha[s] been crossed\u2019 so as to constitute a deprivation of substantive due process.\u201d Rutherford v. City of Berkeley, 780 F.2d 1444, 1447 (9th Cir.1986). Ingraham and Rutledge do not suggest otherwise. In Ingraham, the Court considered only a procedural due process challenge based on the lack of a hearing before corporal punishment was meted out. See 430 U.S. at 674, 680-83, 97 S.Ct. at 1417-19. In Rutledge, this court did not analyze the seriousness of the assault, deciding that Parratt was preclusive of such inquiry. 660 F.2d at 1352. To the extent that Rutledge found Parratt to bar section 1983 claims for substantive rights violated by official assaults, it does not survive this court\u2019s en banc ruling in Haygood v. Younger, 769 F.2d 1350, 1356 (9th Cir.1985), cert. denied, 478 U.S. 1020, 106 S.Ct. 3333, 92 L.Ed.2d 739 (1986). More generally, substantive due process violations comprise those acts by the state that are prohibited \u201cregardless of the fairness of the procedures used to implement them.\u201d Daniels, 474 U.S. at 331, 106 S.Ct. at 665.\nThe seriousness of the official misconduct may determine whether \u201cthe constitutional line\u201d between a procedural and a substantive due process violation \u201chas been crossed,\u201d so that the availability of state court relief will not bar a section 1983 claim. Clearly, the line is crossed in instances of serious police brutality. See, e.g., Rutherford, 780 F.2d at 1448. But Rutherford only \u201c[p]artially answer[ed] the question left open in Haygood\u201d as to whether \u201cofficial assaults, batteries or other invasions of personal liberty\u201d amount to substantive due process violations. Id. While brutality by police or prison guards is one paradigmatic example of a substantive due process violation, it does not exhaust the possibilities.\nAlthough Ostrander did not himself assault Wood, he allegedly acted in callous disregard for Wood\u2019s physical security, a liberty interest protected by the Constitution. See Ingraham v. Wright, supra.\nWood has raised a triable issue of fact as to whether Ostrander\u2019s conduct \u201caffirmatively placed the plaintiff in a position of danger.\u201d Ketchum, 811 F.2d at 1247; see Jackson v. City of Joliet, 715 F.2d at 1204 (distinguishing situation where arrest creates the danger, actionable under section 1983, from situation where danger existed before defendant acted); see also DeShaney v. Winnebago Cty. Soc. Servs. Dept., \u2014 U.S. -, 109 S.Ct. 998, 1006, 103 L.Ed.2d 249 (1989) (distinguishing situation where state \u201cplayed no part\u201d in creating the dangers that minor child faced by remaining in his father\u2019s custody \u201cnor did [the state] do anything to render [the child] any more vulnerable to them.\u201d). The fact that Ostrander arrested Bell, impounded his car, and apparently stranded Wood in a high-crime area at 2:30 a.m. distinguishes Wood from the general public and triggers a duty of the police to afford her some measure of peace and safety. See White v. Rockford, 592 F.2d at 384 & n. 6 (and authorities cited therein). See also Chambers-Castanes v. King Co., 100 Wash.2d 275, 669 P.2d 451 (1983); Plaintiffs Opposition to Summary Judgment, Exhibits 1, 2(c) (policy of state police to respond to requests for assistance in courteous and judicious manner).\nWood also has raised at least a triable issue (if not an undisputed one) regarding Ostrander\u2019s knowledge of the danger: official crime reports show that the area where Wood was stranded had the highest violent crime rate in the county outside the City of Tacoma. Ostrander, a state trooper stationed in that area since 1981, may well be chargeable with knowledge of these facts. Moreover, the inherent danger facing a woman left alone at night in an unsafe area is a matter of common sense. Cf. White v. Rockford, supra.\nMost of the factual disputes in this case go to the issue of danger. Defendants contend, and the trial court found, that a 24-hour Shell station and a 24-hour Seven-Eleven store were located within two blocks of the location of the stop. Defendants further contend that there were paved sidewalks. Even if there is no genuine factual dispute as to these matters, their relevance is open to question by the trier of fact. The district court and the defendants too readily assume that Wood\u2019s travail would have been over if she had only gone to the Shell station or the Seven-Eleven. It is for the trier of fact to determine whether a reasonable person should have regarded a gas station or convenience store, located in a high crime neighborhood, as some kind of safe haven where she would have been given assistance or permitted to stay until daybreak before walking five miles home. Nor is a telephone much help to a person who allegedly has no money to place a call and no one to call. These factual assumptions, either expressly or impliedly made, are particularly inappropriate for the district court to make on summary judgment.\nThere is a factual dispute as to whether Ostrander made any inquiry at all as to Wood\u2019s ability to get safely home, or whether, instead, he ignored her request for help. Certain evidence suggests that Ostrander untruthfully told his superiors that he was told that Wood was being picked up by some \u201cfriends,\u201d (Exhibit 4 to Plaintiff\u2019s Summary Judgment Opposition), and it is disputed whether Ostrander saw Wood picked up at all. Moreover, we cannot resolve on our review of summary judgment whether Wood acted unreasonably by accepting a ride with an unknown man. The resolution of these questions is for the trier of fact.\nWe are satisfied that Wood has presented genuine issues of material fact on the question of whether Ostrander deprived her of a liberty interest protected by the Constitution. See Ingraham v. Wright, supra; Haygood v. Younger, 769 F.2d at 1356.\nII. Qualified, Immunity\nState officials cannot be held liable for damages under section 1983 unless their conduct violates a clearly established constitutional right. Davis v. Scherer, 468 U.S. 183, 194, 104 S.Ct. 3012, 3019, 82 L.Ed.2d 139, reh\u2019g denied, 468 U.S. 1226, 105 S.Ct. 26, 82 L.Ed.2d 919 (1984). Officials are entitled to qualified immunity if their conduct is objectively reasonable \u201c \u2018as measured by reference to clearly established law.\u2019 \u201d Id. at 191, 104 S.Ct. at 3017 (quoting Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982)). Ostrander is entitled to summary judgment based on qualified immunity if he can show that as a reasonable officer he could have believed his actions toward Wood were constitutional even if they were not. Vaughan v. Ricketts, 859 F.2d 736, 739 (9th Cir.1988). See Anderson v. Creighton, 483 U.S. 635, 107 S.Ct. 3034, 3038, 97 L.Ed.2d 523 (1987). The district court concluded that Ostrander was shielded by qualified immunity. We review this conclusion de novo. \u201cAssuming that [Wood] can prove the acts attributed to [Ostrander], we must decide the entirely legal issue of \u2018whether the facts alleged ... support a claim of violation of clearly established law.\u2019 \u201d Vaughan v. Ricketts, at 739 (quoting Mitchell v. Forsyth, 472 U.S. 511, 528 n. 9, 105 S.Ct. 2806, 2816 n. 9, 86 L.Ed.2d 411).\nThe events on which Wood predicates her section 1983 claim occurred September 23, 1984. We have held above that Wood has raised genuine issues of material fact as to a number of these events. If the events occurred as Wood alleges, she has stated a violation of her constitutional right to personal security, a liberty interest protected by the fourteenth amendment. See Ingraham v. Wright, supra, We now consider, in light of Ostrander\u2019s qualified immunity defense, whether a reasonable police officer in his position could have believed on September 23, 1984, that his treatment of Wood, as alleged by her, comported with the Constitution even though, assuming the trier of fact accepts Wood\u2019s version of the case, it actually did not. To resolve this question, we must \u201csurvey the legal landscape\u201d as it existed in September 1984 to determine whether it had been clearly established at that time that Ostran-der\u2019s alleged conduct violated Wood\u2019s liberty interest under the Constitution. Ward v. County of San Diego, 791 F.2d 1329, 1332 (9th Cir.1986), cert. denied, 483 U.S. 1020, 107 S.Ct. 3263, 97 L.Ed.2d 762 (1987).\nA. The Law in 1984\nIn Capoeman v. Reed, 754 F.2d 1512, 1514 (9th Cir.1985), this court held that \u201cin the absence of binding precedent, a court should look to whatever decisional law is available to ascertain whether the law is clearly established under the Harlow test.\u201d Accord, Bilbrey v. Brown, 738 F.2d 1462, 1466 (9th Cir.1984). The available decisional law includes cases from state courts, other circuits and district courts. Ward v. County of San Diego, 791 F.2d at 1332.\nThe case most like our case is White v. Rockford, 592 F.2d 381 (7th Cir.1979), which reversed the dismissal of a section 1983 complaint. In White, the defendant police officers arrested a driver for drag racing on the Chicago Skyway, a busy, limited-access highway. The complaint alleged that the driver, who was uncle to the three minor children riding with him in the car, pleaded with the officers to take the children to the police station or a phone booth so that they could contact their parents. The officers refused, and instead left the children in the abandoned car on the roadside, in inclement weather. The court held that the alleged conduct stated a claim under section 1983. The officers \u201ccould not avoid knowing that, absent their assistance, the three children would be subjected to exposure to cold weather and .danger from traffic. This indifference in the face of known dangers certainly must constitute gross negligence.\u201d 592 F.2d at 385 (emphasis added).\nIn dealing with White, decided five years before the incident in this case, Ostrander frames the immunity issue thus:\nIn determining whether Ms. Wood was subjected to a constitutional deprivation it is the state of the law on September 23, 1984, which must be used to determine whether the violation occurred.... As of September 23, 1984, no court had ruled that a police officer owed a constitutional duty to make transportation arrangements for a non-intoxicated adult female who was left on the sidewalk of a major urban arterial within easy walking distance of at least two 24-hour businesses following the arrest of the person with whom she had previously been riding.\nAppellees\u2019 Brief at 9 (citation omitted). Ostrander seemingly suggests that this case can be disposed of if it does not bear a strict factual similarity to previous cases finding liability. However, this crabbed view of the good faith immunity principle cannot withstand analysis. As the Supreme Court recently reaffirmed, it is not the case that \u201can official action is protected by qualified immunity unless the very action in question has previously been held unlawful, ... but it is to say that in light of preexisting law the unlawfulness must be apparent.\u201d Anderson v. Creighton, 107 S.Ct. at 3039 (citation omitted); see Mitchell v. Forsyth, 472 U.S. at 535 n. 12, 105 S.Ct. at 2820 n. 12.\nThe first question is whether White is meaningfully distinguishable from the instant case. Both cases involve a police officer\u2019s roadside abandonment of non-arrested third parties. Ostrander apparently would have the court decide that stranding three children on a busy eight-lane expressway is much worse than stranding a lone woman in a high-crime area at 2:30 a.m., indeed so much worse that the former is a constitutional violation while the latter is not. It would seem that the Supreme Court\u2019s admonition in Anderson against looking for a repetition of \u201cthe very action in question\u201d applies forcefully against making this type of comparison. Although the dangers facing the victims in the two cases may come from very different sources, the degree of danger is high in both, and the alleged police indifference to exposing the plaintiffs to the dangers is apparent in both instances. Ostrander\u2019s suggestion that the children were in greater danger than Wood (\u201ccertain danger from the traffic and weather,\u201d Appellees\u2019 Brief at 10) is unpersuasive considering what actually occurred: none of the children was injured by a car (two suffered mental anguish, and a third suffered aggravation of his asthma condition from the weather), whereas Wood was raped.\nOstrander also argues that White was merely a \u201cplurality\u201d opinion and, further, adopted an \u201cin loco parentist\u201d rationale, finding that the officers owed a special duty to the children. This argument mis-characterizes White. The opinion of the court and the concurrence agree on the basic rationale of section 1983 liability: \u201cindifference [of the officers] in the face of known dangers,\u201d 592 F.2d at 385 (opinion of court); \u201c[unnecessarily endangering the innocent parties in reckless disregard of their safety,\u201d id. at 388 (concurrence) (emphasis added). The opinion of the court states that the officers could be liable under section 1983 based on two theories: (1) for an \u201cintrusion upon personal integrity\u201d as a result of gross negligence or reckless disregard for the safety of others, or (2) for conduct which \u201cshockfs] the conscience.\u201d White, 592 F.2d at 384-85 & n. 6. The \u201cin loco parentis\u201d concept was introduced only in the second half of a lengthy footnote to buttress the existence of the state\u2019s duty as it arose in the case, and not as the sole basis for such duty. Id. at 384 n. 6.\nThe immunity standard considers whether a reasonable law enforcement officer should view the White case as controlling. Given this element of reasonableness, the qualified immunity regime of clearly established law should not be held to allow section 1983 defendants to interpose lawyerly distinctions that defy common sense in order to distinguish away clearly established law. White holds that a police officer may be liable under section 1983 when he abandons passengers of arrested drivers under circumstances which expose them to unreasonable danger. It defies common sense to find a meaningful legal distinction between the dangers facing children crossing a busy highway and a woman left alone to fend for herself at 2:30 a.m. in a high-crime area.\nB. The Precedential Effect of White in This Circuit\nThe inquiry does not end here, however, because White did not necessarily establish law for this circuit. Where there are few cases on point, and none is binding, \u201can additional factor that may be considered in ascertaining whether the law is \u2018clearly established\u2019 is a determination of the likelihood that the Supreme Court or this circuit would have reached the same result\u201d as the non-binding authorities at that time. Capoeman, 754 F.2d at 1515; accord Ward, 791 F.2d at 1332.\nThere was no Supreme Court case, or case in this circuit, which was binding on this circuit when the events in this case occurred. Therefore, we begin with an analysis of whether it was likely, in September 1984, that our circuit would have come to the same result the Seventh Circuit did in White. In this analysis it is important to clarify the result in White. There were three opinions in the case. The lead opinion was written by Judge Sprecher. Judge Tone concurred in part. Judge Kilk-enny of our circuit was sitting by designation and he dissented. Judges Sprecher and Tone agreed that when the police officers arrested the children\u2019s uncle and took him away, they left the children exposed to the \u201chazards\u201d of \u201can immobilized car on a highspeed expressway and [the] cold\u201d, and that this conduct violated the children\u2019s \u201cfederally protected right to be free from unjustified intrusions on their personal security by the police.\u201d White at 387 (Tone, J., concurring); compare id. at 384-85 (Sprecher, J., lead opinion)).\nWhite was decided in 1979. Four years later the Seventh Circuit decided Jackson v. City of Joliet, 715 F.2d 1200 (7th Cir.1983). In Jackson, a car swerved off the road, crashed and burst into flames. Two minutes later a Joliet policeman arrived on the scene by chance. The car\u2019s wheels were spinning, its lights were on, its motor was running, and it was burning. The officer, however, made no attempt to determine whether it was occupied and did not call an ambulance. He did call the fire department. He then returned to the road and directed traffic away from the scene of the accident. Firemen arrived eight minutes later. They made no attempt to remove or assist the occupants of the car who were observed slumped in the front seat. The occupants died. An action was filed under section 1983 alleging that the occupants of the car could have been saved if the officer had aided them, or called an ambulance, or at least not directed traffic in a way that prevented other potential rescuers from saving them, or if the firemen had tried to aid them. The district court denied motions to dismiss for failure to state a claim. The Seventh Circuit reversed. The court stated:\nWe hold that an attempt by state officers to assist at an accident is not a deprivation of life without due process of law under the Fourteenth Amendment when the attempt fails because of the negligence or even gross negligence of the officers or their superiors, and the accident victim dies.\nId. at 1206. The Jackson court distinguished its \u201cofficer-who-comes-upon-an-accident\u201d case from White: \u201cIn White v. Rockford the arrest created the danger to the children; here the [occupants of the wrecked car] were in great danger before the [police and firemen] appeared.\u201d Id. at 1204. The Jackson court amplified its distinction of White as a case \u201cwhere the police arrested a driver and left his child passengers stranded in a driverless car, thus putting the children in a situation of peril for the consequences of which the police were held liable under section 1983\u201d. Id.\nBetween White and Jackson, the Seventh Circuit decided Bowers v, DeVito, 686 F.2d 616 (7th Cir.1982). Judge Posner wrote the opinions in Bowers and Jackson. In Jackson he noted that Jackson was closer to Bowers than to White. He stated that in Bowers \u201cthe state officers did not create but merely failed to avert danger, by negligently releasing from custody a dangerous lunatic who then killed the plaintiff\u2019s decedent.\u201d Jackson at 1204-05. In Bowers Judge Posner noted the difference which would exist if the state placed a person in danger. He stated:\nIf the state puts a man in a position of danger from private persons and then fails to protect him, it will not be heard to say that its role was merely passive; it is as much an active tortfeasor as if it had thrown him into a snake pit.\nBowers, 686 F.2d at 618.\nWould we, in 1984, have followed the holding of White, and the logic of Judge Posner\u2019s comments in Bowers and Jackson? We believe most certainly we would have. In Escamilla v. City of Santa Ana, 796 F.2d 266 (9th Cir.1986) we affirmed summary judgment in favor of police officers in a section 1983 action where the police had been involved in a shootout in a barroom and a bystander had been killed by a stray bullet fired by a suspect. We distinguished the Escamilla case from a case in which the officers \u201ccreate or exacerbate the danger,\u201d Escamilla at 269, and we cited Judge Posner\u2019s language from Bowers, quoted above, as support for this distinction. Id.\nWe do not look to Escamilla, a post-incident decision, to determine whether the law was \u201cclearly established\u201d at the time of the incident in the present case. Capoeman v. Reed, 754 F.2d at 1515. We don\u2019t have to. By 1984, the law had been established by White and clearly articulated by Bowers and Jackson. We do consult Escamilla to note that it cited Bowers with approval and quoted Judge Posner\u2019s comments in that case. Escamilla also cited Jackson. Having found Bowers and Jackson in 1986 when we wrote Escamilla, we have no doubt we would have found these cases in 1984. The question is, would we have followed their reasoning, and the White case which Jackson cited?\nIn Capoeman v. Reed, supra, we affirmed summary judgment in favor of prison officials who, in 1981, cut Capoeman\u2019s hair over his objection that he wore it long for religious purposes, and in spite of his citation to supporting Eighth Circuit authority. Capoeman, 754 F.2d at 1513. We noted that in addition to the Eighth Circuit case cited by Capoeman, there were two other opinions from the Second Circuit, all of which were on the books at the time the officials cut Capoeman\u2019s hair and all of which supported his position. We refused to follow these cases. We did not have a case in our circuit on point. We stated that \u201c[t]o make the determination [of the likelihood the Supreme Court or this circuit would have reached the same result as the cases which supported Capoeman], we examine the legal analysis employed by ... courts [which had considered the issue] and compare it to the analysis being used at that time by the Ninth Circuit in related but factually different situations.\u201d Id. at 1515. We then noted that various courts had \u201capplied a number of different legal standards to prisoner claims of infringement of free exercise rights.\u201d Id. We cited a law review article which identified \u201cat least seven different standards for analyzing prisoner free exercise claims.\u201d Id. Capoeman contended that instead of cutting his hair, the prison officials should have tied it back to take the picture they claimed they needed to identify him wearing short hair. He thus asserted a \u201cleast restrictive means\u201d for the prison to accomplish its purpose of prisoner identification. We noted that outside of our circuit there was a \u201cwide diversity\u201d in standards which had been applied by various courts of appeals in considering how to deal with such prisoner claims. Id. Within our circuit we cited Jones v. Bradley, 590 F.2d 294 (9th Cir.1979), in which an inmate challenged the prison\u2019s denial of the use of the prison chapel. We commented that in Jones our circuit had \u201cconcluded that the state had a legitimate interest in placing appropriate restrictions on chapel use that were reasonable to maintain order and security,\u201d (emphasis added), and that we had given \u201cno indication that \u2018appropriate restrictions\u2019 meant the least restrictive means\u201d for which Capoeman contended. Id. at 1515-16. In view of what appeared to be conflicting authority from other circuits, as well as case law from our circuit which cut against Capoeman\u2019s claim, we concluded that the law had not been so clearly established that the prison officials were not entitled to qualified immunity. Id. at 1516.\nAt the time of the incident in the present case, the Seventh Circuit cases previously noted had been decided. These cases support Wood\u2019s position. At the time of the incident in this case, no other case had rejected a section 1983 claim such as Wood\u2019s. There was no \"wide diversity\u201d of cases which had considered such claims and which had arrived at differing results. Cf. Capoeman, 754 F.2d at 1515. And there was nothing in our circuit to indicate that we would have decided this case differently from White or that we would have rejected Judge Posner\u2019s analysis in Bowers and Jackson. Cf. Capoeman at 1515-16 discussing Jones v. Bradley, 590 F.2d 294. We conclude that it was clearly established by September 1984 that Ostrander\u2019s alleged treatment of Wood violated her liberty interest in personal security under the fourteenth amendment. We next consider the question whether Ostrander, as a reasonable police officer, should have known of this clearly established constitutional right. See Anderson v. Creighton, 107 S.Ct. at 3039; Vaughan v. Ricketts, 859 F.2d at 739.\nThe answer to this question is compelled by Ward v. County of San Diego, 791 F.2d at 1332. There we stated:\n... [Capoeman ] places the responsibility for keeping abreast of constitutional developments in criminal law squarely on the shoulders of law enforcement officials. Given the power of such officials over our liberty, and sometimes even over our lives, this placement of responsibility is entirely proper. Law enforcement officials must be cognizant not only of how far their authority extends, but also of the point at which their authority ends. At the same time, however, we do not read [Capoeman ] to require of most government officials the kind of legal scholarship normally associated with law professors and academicians. A reasonable person standard adheres at all times.\nId. Ward was decided in 1986. It considered a strip search at a San Diego County jail facility which had occurred in 1981. We noted in Ward that by 1984 we had decided Giles v. Ackerman, 746 F.2d 614 (9th Cir.1984), cert. denied, 471 U.S. 1053, 105 S.Ct. 2114, 85 L.Ed.2d 479 (1985) in which \u201cwe established that strip searches of arrestees for a minor offense are unconstitutional absent individualized suspicion that such arrestee is carrying or concealing contraband or is suffering from a communicable disease.\u201d Ward, 791 F.2d at 1333. Obviously the jail officials in Ward were not aware of the 1984 Giles decision when they strip searched the plaintiff in 1981. But we stated in Ward that \u201c[p]re-1981 strip search cases, including Tinetti, harb-inged our decision in Giles....\u201d Ward at 1333, referring to Tinetti v. Wittke, 479 F.Supp. 486, 490-91 (E.D. Wis.1979), aff'd, 620 F.2d 160 (7th Cir.1980). The same is true here. Pre-1984 cases, including White, harbinged our decision in this case.\nWe conclude that if Wood establishes at trial the facts which she has stated in support of her section 1983 action, and which we must accept as true at this stage of the case, Ostrander will not be entitled to qualified immunity. A reasonable police officer who acted as Wood alleges Ostrander acted should have understood that what he was doing violated Wood\u2019s constitutional right to be free from an unjustified intrusion into her personal security in violation of her liberty interest under the fourteenth amendment. See Anderson v. Creighton, 107 S.Ct. at 3039; White v. Rockford, 592 F.2d at 384-85 & 387 (Tone, J., concurring).\nCONCLUSION\nIn sum, Wood has raised a genuine factual dispute regarding whether Ostrander deprived her of a liberty interest protected by the Constitution by affirmatively placing her in danger and then abandoning her. If Ostrander acted as Wood claims he did, Ostrander is not entitled to the defense of qualified immunity. Accordingly, the grant of summary judgment in favor of the defendant Ostrander is reversed. We also reverse the summary judgment in favor of Mrs. Ostrander, for the reasons stated in footnote 1, supra. The summary judgment in favor of Neil Maloney and his wife is affirmed.\nAFFIRMED IN PART, REVERSED IN PART, and REMANDED to the district court for further proceedings consistent with this opinion.\n. Wood has not presented any argument on appeal, or raised any issue, challenging the district court's dismissal of the case as to Maloney and his wife. It is well settled in this circuit that claims not addressed in an appellant\u2019s brief are deemed abandoned, absent a showing that manifest injustice will result. United States v. Loya, 807 F.2d 1483, 1487 (9th Cir.1987); Collins v. City of San Diego, 841 F.2d 337, 339 (9th Cir.1988). No such showing has been made in this case.\nThe claim against Mrs. Ostrander is different. Although no mention of her is made in the appellant\u2019s brief, it appears she was named as a defendant in the case solely for the purpose of attempting to subject the marital community of the Ostranders to liability for any judgment which might be entered against Trooper Ostran-der. See Brink v. Griffith, 65 Wash.2d 253, 396 P.2d 793, 795 (1964). We express no opinion on the merits of the claim against Mrs. Ostrander. However, given the limited purpose of this claim and its dependency on the claim against Trooper Ostrander, we do not deem it to have been abandoned at this time.\n. The district court did not rule on defendants\u2019 argument that the damages claim should be dismissed on proximate cause grounds. Although this court could presumably affirm on that basis if it had legal merit and factual support in the record, see, e.g., Lee v. United States, 809 F.2d 1406, 1408 (9th Cir.1987), cert. denied, \u2014 U.S. -, 108 S.Ct. 772, 98 L.Ed.2d 859 (1988), defendants have not raised the proximate cause argument on appeal. We have not examined its merits.\n. Jackson v. City of Joliet, 715 F.2d 1200, 1206 (7th Cir.1983), cert. denied, 465 U.S. 1049, 104 S.Ct. 1325, 79 L.Ed.2d 720 (1984), is not contra. There, the court found that a grossly negligent rescue attempt was not actionable under section 1983 where the plaintiffs decedents were already trapped in a burning car when the police arrived. The court expressly distinguished cases in which the state officials\u2019 actions created the danger or created a special duty of protection toward the plaintiff. See id. at 1204-05. We discuss Jackson in more detail infra.\n. A jury presented with these facts might find Ostrander\u2019s conduct to have been \"deliberately indifferent,\" \"reckless,\u201d \"grossly negligent,\u201d or merely \"negligent.\" See Fargo v. City of San Juan Bautista, 857 F.2d 638, 641 (9th Cir.1988) (\"When reasonable persons may disagree as to whether particular conduct constitutes negligence, gross negligence or recklessness, the question is one of fact to be decided by a jury.\u201d (footnote omitted)). It is thus likely the district court will face the difficult task of defining for the jury the terms \"negligence,\u201d \"gross negligence,\" \"recklessness,\u201d and \"deliberate indifference.\u201d See Daniels, 474 U.S. at 334-35, 106 S.Ct. at 666-67; Fargo, 857 F.2d at 641-42.\n. This aspect of Parratt was not overruled by Daniels.\n. Wood alleged that she had little or no money on her person at the time Ostrander put her out of the car. Although she lived with her parents, she did not try to call them for help because, according to her allegations, they would have been unable to pick her up: her mother has night-blindness and her stepfather suffers from brain damage. How much of these circumstances Wood may have told Ostrander is not clear from the record. Ostrander denies knowledge of any of these allegations.\n. Should the trier of fact find that Ostrander\u2019s treatment of Wood was deliberately indifferent, this alone might deprive Ostrander of his qualified immunity defense. See Wood v. Sunn, 865 F.2d 982, 987 (9th Cir.1988) (\"Despite [Anderson v. Creighton, 483 U.S. 635, 107 S.Ct. 3034, 97 L.Ed.2d 523 (1987) ], the [rule of Albers v. Whitley, 743 F.2d 1372, 1376 (9th Cir.1984), reversed on other grounds, 475 U.S. 312, 106 S.Ct. 1078, 89 L.Ed.2d 251 (1986) ] that \u2018a finding of deliberate indifference is inconsistent with ... qualified immunity\u2019 remains the law of the circuit.\u2019\u2019). We do not reach this issue, however, because we hold infra that apart from the applicable culpability standard for Ostrander's conduct, he is not entitled to qualified immunity under the facts presented by Wood.\n. Wood also argues that Ostrander\u2019s treatment of her was so egregious that it \"shocks the conscience\u201d and violated her constitutional right to substantive due process. See Rutherford, 780 F.2d at 1446-47 (citing Rochin v. California, 342 U.S. 165, 172, 72 S.Ct. 205, 209, 96 L.Ed. 183 (1952), overruled on other grounds, Mapp v. Ohio, 367 U.S. 643, 81 S.Ct. 1684, 6 L.Ed.2d 1081 (1961)). We do not decide this question because we resolve this appeal on the ground that Wood has shown sufficient facts which, if proven at trial, establish a violation of her right to personal security, a liberty interest protected by the fourteenth amendment. This does not foreclose Wood from attempting to show at trial that Ostrander\u2019s treatment of her was such that it \"shocks the conscience.\"",
+        "type": "majority",
+        "author": "DAVID R. THOMPSON, Circuit Judge:"
+      },
+      {
+        "text": "CARROLL, District Judge,\ndissenting:\nI disagree with the amended opinion issued following rehearing. The reasons expressed in my prior dissent remain as stated in Wood v. Ostrander, 851 F.2d 1212, 1220 (9th Cir.1988) and as supplemented by further review of the qualified immunity issue. Additional concerns are prompted by two opinions of the United States Supreme Court issued since this matter was reargued on November 23,1988, DeShaney v. Winnebago Cty. Soc. Servs. Dept., \u2014 U.S. -, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989) and Canton v. Harris, \u2014 U.S. -, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989).\nThe basic (initial) issue to be addressed in this case is whether Ostrander arguably violated Wood\u2019s liberty rights under the substantive component of the Due Process Clause. The majority opinion concludes as a matter of law that:\nThe fact that Ostrander arrested Bell, impounded his car, and apparently stranded Wood in a high-crime area at 2:30 a.m. distinguishes Wood from the general public and triggers a duty of the police to afford her some measure of peace and safety. See White v. Rockford, 592 F.2d at 384 and n. 6 (and authorities cited therein). See also Chambers-Castenes v. King Co., 100 Wash.2d 275, 669 P.2d 451 (1983); ... (policy of state to respond to requests for assistance in courteous and judicious manner).\nErgo, the majority opinion concludes, \u201cWe are satisfied that Wood has presented genuine issues of material fact on the question of whether Ostrander deprived her of a liberty interest protected by the Constitution. See Ingraham v. Wright, supra: Haygood v. Younger, 769 F.2d at 1356.\u201d I do not agree with this conclusion for the reasons stated in this dissent.\nThe first of two other issues, assuming the Due Process Clause required the State to protect Wood from her unknown assailant, concerns whether Ostrander has the requisite state of mind to make out a due process violation. The amended opinion concludes \u2014 post Canton \u2014 that \u201cWood has raised a genuine issue of fact tending to show that Trooper Ostrander acted with deliberate indifference to Wood\u2019s interest in personal security under the fourteenth amendment.\u201d Citing Taylor v. Ledbetter, 818 F.2d 791, 793 (11th Cir.1987) (en banc).\nCertiorari has been granted in Taylor, the case has been argued and an opinion can issue at any time. While I agree that \u201cdeliberate indifference\u201d is the appropriate standard, I believe that the record, construed in a manner most favorable to Wood, does not \u201ctend[] to show a disregard for Wood\u2019s safety amounting to deliberate indifference.\u201d\nThe last issue is whether Ostrander is entitled to a qualified immunity defense. Again, the majority opinion concludes, after a studied analysis:\n[T]hat if Wood establishes at trial the facts she has stated in support of her section 1983 action, and which we must accept as true at this stage of the case, Ostrander will not be entitled to qualified immunity. A reasonable police officer who acted as Wood alleges Ostrander acted should have understood that what he was doing violated Wood\u2019s constitutional right to be free from an unjustified intrusion into her personal security in violation of her liberty interest under the fourteenth amendment. See Anderson v. Creighton, 107 S.Ct., at 3039; White v. Rochford, 592 F.2d, at 384-85 & 387 (Tone, J., concurring).\nFor reasons detailed in this dissent, I do not agree that White v. Rockford, 592 F.2d 381 (7th Cir.1979) was \u201cclearly established\u201d law in 1984 with reference to the substantive due process issue in this case. I do not believe that White is precedential authority post DeShaney, for the proposition that Ostrander \u201cacted with deliberate indifference to Wood\u2019s interest in personal security under the fourteenth amendment.\u201d\nDISCUSSION\nI. Criteria for a Section 1983 Claim under the Substantive Component of the Fourteenth Amendment\u2019s Due Process Clause\nI respectfully submit that DeShaney is now the controlling authority to determine what are the relevant criteria for determining whether a section 1983 claim is stated under the substantive component of the Fourteenth Amendment\u2019s Due Process Clause.\nDeShaney, like the case at hand, involved the \u201csubstantive rather than the procedural component of the due process clause\u201d:\nJoshua [DeShaney] and his mother brought this action under 42 U.S.C. \u00a7 1983 in the United States District Court for the Eastern District of Wisconsin against respondents Winnebago County, its Department of Social Services, and various employees of the Department. The complaint alleged that respondents had deprived Joshua of his liberty without due process of law, in violation of his rights under the Fourteenth Amendment, by failing to intervene to protect him against a risk of violence at his father\u2019s hands of which they knew or should have known.\n109 S.Ct., at 1002.\nThe Supreme Court explained that it granted certiorari in DeShaney:\nBecause of the inconsistent approaches taken by the lower courts in determining when, if ever, the failure of a state or local governmental entity or its agents to provide an individual with adequate protective services constitutes a violation of the individual\u2019s due process rights, see Archie v. City of Racine, 847 F.2d 1211, 1220-1223, and n. 10 (CA 7 1988) (en banc) (collecting cases), cert. pending, No. 88-576, and the importance of the issue to the administration of state and local governments, ....\nId., at 1002.\nThe Supreme Court first outlined why it is that a state is not \u201ccategorically obligated\u201d to protect a person from private violence:\nBut nothing in the language of the Due Process Clause itself requires the State to protect the life, liberty, and property of its citizens against invasion by private actors. The Clause is phrased as a limitation on the State\u2019s power to act, not as a guarantee of certain minimal levels of safety and security. It forbids the State itself to deprive individuals of life, liberty, or property without \u2018due process of law,\u2019 but its language cannot fairly be extended to impose an affirmative obligation on the State to ensure that those interests do not come to harm through other means. Nor does history support such an expansive reading of the constitutional text. Like its counterpart in the Fifth Amendment, the Due Process Clause of the Fourteenth Amendment was intended to prevent government \u2018from abusing [its] power or employing it as an instrument of oppression\u2019.... Its purpose was to protect the people from the State, not to ensure that the State protected them from each other. The Framers were content to leave the extent of governmental obligation in the latter area to the democratic political processes.\nConsistent with these principles, our cases have recognized that the Due Process Clauses generally confer no affirmative right to governmental aid, even where such aid may be necessary to secure life, liberty, or property interests of which the government itself may not deprive the individual, [citations omitted] ... If the Due Process Clause does not require the State to provide its citizens with particular protective services, it follows that the State cannot be held liable under the Clause for injuries that could have been averted had it chosen to provide them, [footnote omitted]. As a general matter, then, we conclude that a State\u2019s failure to protect an individual against private violence simply does not constitute a violation of the Due Process Clause.\n109 S.Ct., at 1008-04.\nThe Court went on to discuss Petitioners\u2019 contention that a \u201cduty\u201d to provide \u201cadequate protective services\u201d arises out of \u201c \u2018special relationships\u2019 created or assumed by the State with respect to particular individuals.\u201d Petitioners argued that such a \u201cspecial relationship\u201d existed in DeSkaney \u201cbecause the State knew that Joshua faced a special danger of abuse at his father\u2019s hands, and specifically proclaimed by word and by deed its intention to protect him against that danger.\u201d Petitioners then argued that \u201cIts [the State\u2019s] failure to discharge that duty, ... was an abuse of governmental power, that so \u2018shocks the conscience\u2019, Rochin v. California, 342 U.S. 165, 172 [72 S.Ct. 205, 209, 96 L.Ed. 183] (1952), as to constitute a substantive due process violation.\u201d\nThe Opinion observes (n. 4) that \u201cThe genesis of this notion [a special relationship] appears to lie in a statement in our opinion in Martinez v. California, 444 U.S. 277 [100 S.Ct. 553, 62 L.Ed.2d 481] (1980). In that case, we were asked to decide, inter alia, whether state officials could be held liable under the Due Process Clause of the Fourteenth Amendment for the death of a private citizen at the hands of a parolee. Rather than squarely confronting the question presented here \u2014 whether the Due Process Clause imposed upon the State an affirmative duty to- protect \u2014 we affirmed the dismissal of the claim on the narrower ground that the causal connection between the state officials\u2019 decision to release the parolee from prison and the murder was too attenuated to establish a \u2018deprivation\u2019 of constitutional rights within the meaning of \u00a7 1983.\u201d\nIn this same footnote (n. 4) the Court commented that several Courts of Appeal have read the statement in Martinez:\n[T]he parole board was not aware that appellants\u2019 decedent, as distinguished from the public at large, faced any special danger. We need not and do not decide that a parole officer could never be deemed to \u2018deprive\u2019 someone of life by action taken in connection with the release of a prisoner on parole.\n\u201cas implying that once the State learns that a third party poses a special danger to an identified victim and indicates its willingness to protect the victim against danger, a \u2018special relationship\u2019 arises between State and victim, giving rise to an affirmative duty, enforceable through the Due Process Clause, to render adequate protection.\u201d The DeShaney opinion makes it clear that this construction of Martinez is overbroad.\nThe Supreme Court flatly rejected petitioners arguments in DeShaney and impliedly the Circuit Court opinions relying on similar arguments. (Balistreri v. Pacifica Police Dept., 855 F.2d 1421, 1425-26 (CA9 1988), (a special relationship case), was one of the Circuit Court opinions referenced in this regard). The Supreme Court cited its prior opinions to illustrate why it is \u201cthat in certain limited circumstances the Constitution imposes upon the State affirmative duties of care and protection with respect to particular individuals,\u201d i.e., \u201cadequate medical care to incarcerated prisoners;\u201d services to \u201cinvoluntarily committed mental patients ... as are necessary to ensure their \u2018reasonable safety\u2019 from themselves and others,\u201d and \u201cmedical care to suspects in police custody who have been injured while being apprehended by the police.\u201d The Court then noted:\nBut these cases afford petitioners no help. Taken together, they stand only for the proposition that when the State takes a person into its custody and holds him there against his will, the Constitution imposes upon it a corresponding duty to assume responsibility for his safety and general well-being.\n109 S.Ct., at 1005. The Court goes on to hold:\nThe affirmative duty to protect arises not from the State\u2019s knowledge of the individual\u2019s predicament or from its expressions of intent to help him, but from the limitation which it has imposed on his freedom to act on his own behalf. [Citation omitted]. In the substantive due process analysis, it is the State\u2019s affirmative act of restraining the individual\u2019s freedom to of personal liberty \u2014 which is the \u2018deprivation of liberty\u2019 triggering the protections of the Due Process Clause, not its failure to act to protect his liberty interests against harm inflicted by other means.\nId., 109 S.Ct. at 1006.\nAfter its discussion of Estelle v. Gamble, 429 U.S. 97, 97 S.Ct. 285, 50 L.Ed.2d 251 (1976) and Youngberg v. Romeo, 457 U.S. 307, 102 S.Ct. 2452, 73 L.Ed.2d 28 (1982), the DeShaney Court said:\nThe Estelle-Youngberg analysis simply has no applicability in the present case. Petitioners concede that the harms Joshua suffered did not occur while he was in the State\u2019s custody, but while he was in the custody of his natural father, who was in no sense a state actor, [footnote omitted]. While the State may have been aware of the dangers that Joshua faced in the free world, it played no part in their creation, nor did it render him any more vulnerable to them. That the State once took temporary custody of Joshua does not alter the analysis, for when it returned him to his father\u2019s custody, it placed him in no worse position than that in which he would have been had it not acted at all; the State does not become the permanent guarantor of an individual\u2019s safety by having once offered him shelter. Under these circumstances, the State had no constitutional duty to protect Joshua.\nId.\nHere, Wood was never in the State\u2019s custody. The person from whom Wood accepted a ride and who allegedly raped her was not a state actor. Assuming the State was aware of the speculative dangers that Wood faced or of any of her alleged circumstances concerning money, or the inability to call anyone to pick her up, or the distance she had to walk, the State played no part in their creation. Neither did the State render her more vulnerable than any other member of the general public in that area, whether walking about, standing by the side of the road, or going to or from one of the nearby 24-hour business establishments.\nThe State patently did not become the guarantor of Wood\u2019s safety when it arrested the drunken driver of the car in which she was riding. How could any reasonable police officer be aware that in not escorting Wood home, or taking her to a location she requested, he was violating her \u201cconstitutional right to be free from an unjustified intrusion into her personal security in violation of her liberty interest under the fourteenth amendment.\u201d This proposition is the most attenuated of claimed \u201cspecial relationships,\u201d and cannot pass constitutional muster. Consistent with DeShaney, the State owed no constitutional duty to Wood.\nThe Amended Opinion continues to rely on White v. Rockford, 592 F.2d 381, 385 (7th Cir.1979), after DeShaney. Thus White is cited for the proposition that \u201cgross negligence or reckless disregard for the safety of others\u201d is cognizable under section 1983; as well as supporting the majority\u2019s conclusion \u201cthat Ostrander having arrested Bell, impounded his car, and apparently stranded Wood in a high-crime area at 2:30 a.m. distinguishes Wood from the general public and triggers a duty of the police to afford her some measure of peace and safety.\u201d This latter proposition \u2014 a special relationship contention \u2014 is totally inconsistent with the legal principles enunciated so clearly in DeShaney.\nJustice Brennan recognizes that the majority opinion in DeShaney is contrary to White. Thus, he states in his dissent:\nCases from the lower courts also recognize that a State\u2019s actions can be decisive in assessing the constitutional significance of inaction. For these purposes, moreover, actual physical restraint is not the only State action that has been considered relevant. See, e.g., White v. Rochford, 592 F.2d 381 (CA7 1979) (police officers violated due process when, after arresting the guardian of three young children, they abandoned the children on a busy stretch of highway at night).\n106 S.Ct., at 1008.\nThe Amended Opinion\u2019s only reference to DeShaney is as follows:\nWood has raised a triable issue of fact as to whether Ostrander\u2019s conduct \u2018affirmatively placed the plaintiff in a position of danger.\u2019 Ketchum, 811 F.2d at 1247; See Jackson v. City of Joliet, 715 F.2d at 1204 (distinguishing situation where arrest creates the danger, actionable under section 1983, from situation where danger existed before defendant acted); see also DeShaney v. Winnebago Cty. Soc. Servs. Dept., \u2014 U.S. -, 109 S.Ct. 998, 1006 [103 L.Ed.2d 249] (1989), distinguishing situation where state,\u2018played no part\u2019 in creating the dangers that minor child faced by remaining in his father\u2019s custody \u2018nor did [the state] do anything to render [the child] any more vulnerable to them\u2019).\nThe limited quotes from DeShaney were not decisive to that opinion. This is readily apparent when it is recalled that the State had in fact taken custody of the child and thereafter \u201creturned him to his father\u2019s custody,\u201d while having knowledge of the father\u2019s abusive character. Nonetheless, the Supreme Court found that these circumstances were not \u201csufficiently analogous to incarceration or institutionalization to give rise to an affirmative duty to protect.\u201d 109 S.Ct., at 1006, n. 9.\nTo repeat, the State did not create the unknown dangers, whatever they were, that Wood faced when she decided to accept a ride from a stranger rather than choose one of the other options that were available to her.\nThe statement in the Amended Opinion, n. 6, that it \u201cdoes not foreclose Wood from attempting to show at trial [as a violation of a constitutional right to substantive due process] that Ostrander\u2019s treatment of her was such that it \u2018shocks the conscience,\u2019 \u201d appears to offend the plain holding of De-Shaney, wherein it rejected a similar argument. See also Comment, Substantive Due Process Analyses of Non-legislative State Action, A Case Study, 1980 Brig.Yg. L.Rev. 347. In discussing White v. Rockford,\u2014the case under study \u2014 the writer anticipated DeShaney when he concludes:\nRochin was not a substantive due process case at all. Its rationale and holding dealt strictly with the procedural guarantees of the due process clause; \u2018shocks the conscience\u2019 test to which the Rochin decision gave birth had nothing whatsoever to do with defining an independent and absolute right, as the Court in White apparently assumed. The liberty interest at stake in Rochin was liberty in its classical sense. It was an interest in freedom from physical restraint, a freedom deprived in that case as a result of criminal conviction and incarceration. The Rochin opinion was simply addressed to the question of whether the conviction was obtained by methods satisfying \u2018due process of law.\u2019\nId., at 369.\nII. The Requisite \u2014 \u201cState of Mind\u201d to make out a Due Process Violation\nThe amended opinion asserts in an ar-guendo fashion that if \u201creckless or gross negligence\u201d is not sufficient to state a section 1983 claim \u2014 as concluded in the original opinion, based on dictum in Ketchum v. County of Alameda, 811 F.2d 1243 (9th Cir.1987) \u2014 then \u201cWood has raised a genuine issue of fact tending to show that Trooper Ostrander acted with deliberate indifference to Wood\u2019s interest in personal security under the fourteenth amendment.\u201d The opinion does not explicate how it is that the character of Wood\u2019s version of the case has changed after rehearing from \u201creckless or gross negligence\u201d to \u201cdeliberate indifference.\u201d\nIII. Qualified Immunity\nI believe it is unnecessary to consider whether Ostrander is entitled to a qualified immunity defense, given that the Due Process Claim does not require the State to protect Wood from her unknown assailant. DeShaney, Id.\nAssuming for discussion purposes that DeShaney does not moot this issue, I would affirm the District Court\u2019s determination that a \u201cspecial relationship\u201d was not created in a constitutional sense between the State and Ms. Wood under the circumstances present during the early morning hours of September 23, 1984, and the District Court\u2019s further conclusion that Os-trander was entitled to qualified immunity:\nWood was an adult female, admittedly able to exercise the independent judgment of an ordinary adult. She was left within walking distance of two open businesses where she could seek help. In this case the State had not affirmatively committed itself to protecting this class of persons. The state at the time of the indictment had no guidelines requiring the safekeeping of passengers of arres-tees. In this case, it cannot be said that the state knew of Wood\u2019s plight. This is not the type of case where the state had knowledge of a particular madman who was likely to prey on Wood. The plaintiff alleges that this particular area is a high-crime area. To hold that the trooper had a duty of protection on that basis would be to create an affirmative constitutional duty of protection, in essence, to the public as a whole. This court declines to do so. Ostrander was unaware of whether or not she had money available to seek help. Thus, even assuming that an officer in 1984, through some crystal ball analysis, could foresee the analytical approach suggested by the Ninth Circuit in 1986, a special relationship was not created. At the time of the incident Ostrander\u2019s conduct did not violate a clearly established constitutional right. Ostrander is entitled to qualified immunity from suit for civil damages. (ER 54, p. 9).\nThe standard of qualified immunity outlined in Harlow v. Fitzgerald, 457 U.S. 800, 102 S.Ct. 2727, 73 L.Ed.2d 396 (1982), entitles a public official to immunity so long as his actions do not violate a clearly established statutory or constitutional right about which a reasonable person would have known.\nThis defense is a matter of consequence to public officials at every level of government. It allows them to exercise their discretion in situations where claimed rights have not been clearly established, and to act \u201cwith independence and without fear of consequences.\u201d Pierson v. Ray, 386 U.S. 547, 554, 87 S.Ct. 1213, 1218, 18 L.Ed.2d 288 (1967).\nQualified immunity is an entitlement not to stand trial under certain circumstances or to be burdened with broad reaching and costly pretrial discovery. Mitchell v. Forsyth, 472 U.S. 511, 105 S.Ct. 2806, 86 L.Ed.2d 411 (1985):\n\u201cThe entitlement is an immunity from suit rather than a mere defense to liability; and like an absolute immunity, it is effectively lost if a case is erroneously permitted to go to trial.\u201d 472 U.S. at 526, 105 S.Ct. at 2815.\nResolution of this issue is encouraged on summary judgment; a denial of the defense, to the extent it turns on an issue of law, is a final decision which may be reviewed by way of an interlocutory appeal. Id., at 530, 105 S.Ct. at 2817. Qualified immunity is a fact specific determination.\nThis \u201cimportant question\u201d was revisited in Anderson v. Creighton, 483 U.S. 635, 107 S.Ct. 3034, 3038, 97 L.Ed.2d 523 (1987). In Anderson the Court of Appeals for the Eighth Circuit had determined that a police officer was not entitled to summary judgment on qualified immunity grounds, \u201csince the right [he] was alleged to have violated \u2014 the right of persons to be protected from warrantless searches of their homes unless the searching officers have probable cause and there are exigent circumstances \u2014 was clearly established.\u201d Id.\nJustice Scalia, writing for the majority in Anderson, after giving an overview of the breadth of the qualified immunity defense, e.g., it \u201cprotects \u2018all but the plainly incompetent or those who knowingly violate the law,\u2019 \u201d concluded:\nSomewhat more concretely, whether an official protected by qualified immunity may be held personally liable for an allegedly unlawful official action generally turns on the \u2018objective legal reasonableness\u2019 of the action. Harlow, 457 U.S., at 819, 102 S.Ct., at 2739, assessed in light of the legal rules that were \u2018clearly established\u2019 at the time it was taken, id., at 818, 102 S.Ct., at 2738.\n107 S.Ct., at 3038.\nAnderson goes on to explain why the claimed violation of a broad general constitutional principle is not the kind of \u201cclearly established law\u201d upon which a damage claim can rest:\nThe operation of this standard, however, depends substantially upon the level of generality at which the relevant \u2018legal rule\u2019 is to be identified. For example, the right to due process of law is quite clearly established by the Due Process Clause, and thus there is a sense in which any action that violates that Clause (no matter how unclear it may be that the particular action is a violation) violates a clearly established right. Much the same could be said of any other constitutional or statutory violation. But if the test of \u2018clearly established law\u2019 were to be applied at this level of generality, it would bear no relationship to the \u2018objective legal reasonableness\u2019 that is the touchstone of Harlow. Plaintiffs would be able to convert the rule of qualified immunity that our cases plainly establish into a rule of virtually unqualified liability simply by alleging violation of extremely abstract rights. Harlow would be transformed from a guarantee of immunity into a rule of pleading. Such an approach, in sum, would destroy \u2018the balance that our cases strike between the interests in vindication of citizens\u2019 constitutional rights and in public officials\u2019 effective performance of their duties,\u2019 by making it impossible for officials \u2018reasonably [to] anticipate when their conduct may give rise to liability for damages.\u2019 Davis, 468 U.S., at 195, 104 S.Ct., at 3019. [footnote, omitted]. It should not be surprising, therefore, that our cases establish that the right the official is alleged to have violated must have been \u2018clearly established\u2019 in a more particularized, and hence more relevant, sense: The contours of the right must be sufficiently clear that a reasonable official would understand that what he is doing violates that right. This is not to say that an official action is protected by qualified immunity unless the very action in question has previously been held unlawful, see Mitchell, 472 U.S., at 535, n. 12, 105 S.Ct. at 2820, n. 12; but it is to say that in the light of preexisting law the unlawfulness must be apparent. See, e.g., Malley, supra, 475 U.S. [335], at 344-345, 106 S.Ct. [1092], at [1098] [89 L.Ed.2d 271]; Mitchell, supra, 472 U.S., at 528, 105 S.Ct., at 2816; Davis, supra, 468 U.S., at 191, 195, 104 S.Ct., at 3017, 1019.\nId., at 3038-39.\nIn Ward v. County of San Diego, 791 F.2d 1329 (9th Cir.1986), this Court discussed the qualified immunity defense and its application under Harlow and Capoeman v. Reed, 754 F.2d 1512 (9th Cir.1985):\nWe first note that Capoeman places the responsibility for keeping abreast of constitutional developments in criminal law squarely on the shoulders of law enforcement officials. Given the power of such officials over our liberty, and sometimes even over our lives, this placement of responsibility is entirely proper. Law enforcement officials must be cognizant not only of how far their authority extends, but also of the point at which their authority ends. At the same time, however, we do not read Capoeman to require of most government officials the kind of legal scholarship normally associated with law professors and academicians. A reasonable person standard adheres at all times.\n791 F.2d, at 1332.\nOn September 23, 1984, White v. Rockford, 592 F.2d 381 (7th Cir.1979), was the one and only case in all American jurisprudence holding \u2014 even inferentially \u2014 that an arresting officer owed a duty to passengers (children) in a car \u201cto conduct an arrest in such a manner that the children\u2019s interest in personal security was not infringed.\u201d (concurring opinion, Id. at 388).\nThe first question to be answered is what legal rules were expressed in White and were they \u201cclearly established\u201d by that opinion so that a reasonable police officer would understand that the \u201c \u2018law clearly proscribed the actions\u2019 \u201d he took. Anderson, 107 S.Ct. at 3038.\nThe majority opinion admonishes here that:\nThe immunity standard considers whether a reasonable law enforcement officer should view the White case as controlling. Given this element of reasonableness, the qualified immunity regime of clearly established law should not be held to allow section 1983 defendants to interpose lawyerly distinctions that defy common sense in order to distinguish away clearly established law ...\nOne is left to wonder who \u2014 if not the lawyers \u2014 will speak for these reasonable police officers in attempting to persuade a court whether a proposition is or is not clearly established law.\nIn the final analysis, White must be considered in its totality, as it might be understood by a reasonable police officer, and not, I submit, as the majority opinion has done, by excerpting seven words from the one judge lead opinion in White by Judge Sprecher and eleven words from the partially concurring opinion of Judge Tone (\u201cI agree in part, but not in all respects, with Judge Sprecher\u2019s reasons for reversal of the judgment as to the police officer defendants, and am therefore stating separately my reasons for concurring in that action.\u201d Id., at 386). Consideration is also required of Judge Kilkenny\u2019s dissenting opinion (\u201cThe majority, by implication, imagination, or otherwise paints a picture which finds no support in the record. The cases do not fit our facts.\u201d Id., at 392). It is evident that there are a variety of judgments that a reasonable police officer could reach after reviewing these three opinions.\nThe fact that the majority here believe that \u201cIt defies common sense to find a meaningful legal distinction between dangers facing children crossing a busy highway and a woman left alone to fend for herself at 2:30 a.m. in a high crime area,\u201d does not require that a reasonable police officer would have so concluded after reading White \u2014 he might well be uncertain whether the rationale of the lead and concurring opinions extended only to children passengers, or to any passengers.\nJudge Sprecher\u2019s opinion was obviously prompted by the fact that the passengers were minor children who had been deprived of the adult protection of their custodian. It would unduly extend this dissent to incorporate Judge Sprecher\u2019s extensive statements in this regard, or to include his references to state statutes concerning duties owed minor children by persons responsible for their custody. Suffice it to say that his statement of the issue presented on appeal illustrates what his concerns were:\nThe issue presented by this case is whether police officers may, with constitutional impunity, abandon children and leave them in health-endangering situations after having arrested their custodian and thereby deprived them of adult protection. We hold that they may not, and accordingly, we reverse the district court\u2019s dismissal of a complaint alleging such facts and remand for trial.\n592 F.2d, at 382.\nAlthough Judge Tone did not concur in all respects with Judge Sprecher\u2019s reasons for reversal, his concurring opinion could justifiably cause a reasonable police officer to believe that the minor children\u2019s custodial status was a controlling principle in the case:\nIn the case at bar the children in the car had a federally protected right to be free from the unjustified intrusions on their personal security by the police. Their personal security was under the protection of their uncle. If that protection was removed and no alternative protection was provided, they would be exposed to danger as occupants of an immobilized car on a highspeed expressway and to the cold. Arresting the uncle and thus removing their protection, and yet leaving the children exposed to these hazards, was an unjustified intrusion on the children\u2019s personal security.\nId., at 387.\nJust as the police officers are not held to the standards of legal scholars, neither should they be expected to analyze and parse an opinion (that they never heard of) utilizing the legal skills and reasoning of an appellate judge.\nThe opinions that cited White prior to September 1984, either distinguished the case from the one being decided (Williams v. City of Boston, 599 F.Supp. 363, 367 (D.Mass.1984)) (No liability for a student injured at a football game scheduled in a high crime area. The Court held the plaintiff \u201cwas no more foreseeable victim of harm than any other person in attendance at the football game ... Furthermore, as in Martinez, the causal connection between the defendants\u2019 acts and the plaintiff\u2019s injury is too tenuous to impose \u00a7 1983 liability.\u201d); cited it for the proposition that gross or reckless conduct in a situation that would otherwise be simple negligence was sufficient to state a \u00a7 1983 claim, (e.g., Means v. City of Chicago, 535 F.Supp. 455 (N.D.Ill.1982)); or that mental or emotional distress may be compensable under \u00a7 1983, (James v. Bd. of Sch. Com\u2019rs of Mobile County, Ala., 484 F.Supp. 705, 714 (S.D.Ala.1979). See also other cites: Coyne v. Boeckmann, 511 F.Supp. 667, 669 (E.D.Wis.1981) (coerced confession from a 17 yr. old); Seide v. Prevost, 536 F.Supp. 1121, 1125 (S.D.N.Y.1982) (state responsibility for committed and uncommitted disturbed persons); Larson v. Wind, 536 F.Supp. 108 (N.D.Ill.1982) (medical assistance for person in police custody); Arko v. Broom, 518 F.Supp. 669 (D.Colo.1981) (police officers exposed to dangerous or addictive drugs); Wedgeworth v. Harris, 592 F.Supp. 155 (W.D.Wis.1984) (sexual assault by a police officer).\nAt best, White is a \u201cspecial relationship\u201d case \u2014 dealing with a police officer and minor children in an unusual situation. The Seventh Circuit recognized that fact in Ellsworth v. City of Racine, 774 F.2d 182, 195 (7th Cir.1985), when it noted:\n\u201cIndeed, we have held that: the constitution creates a duty on the part of police officers to protect minor children from immediate hazards after police officers arrest the children\u2019s guardians. White v. Rochford,,....\u201d\nOne further statement in Ellsworth is pertinent:\n\u201cThe contours of what constitutes a \u2018special relationship\u2019 between a municipality, acting through its officials, and its citizens are hazy and indistinct. We have tried to lend clarity to the concept when faced with the facts presented by individual cases.\u201d Id., at 185.\nThat is what occurred in White when the Court considered the facts presented in that individual case. Could anyone fairly conclude that the White court would have found the same \u201cconstitutional\u201d violation if Ms. Wood had been the passenger left sitting in the car on the Chicago Skyway, rather than the minor children? I submit not.\nThe Precedential Effect of White in this Circuit\nIn light of the conclusions I reach regarding DeShaney and the fact that White does not identify a \u201cclearly established\u201d constitutional right allegedly violated by Ostrander, it is not necessary to address the majority opinion\u2019s conclusion that \u201cit was likely in September, 1984 the Ninth Circuit would have come to the same result as the Seventh Circuit did in White.\u201d\nI do not understand, however, how the majority opinion reaches this conclusion without addressing the concerns expressed by Judge Kilkenny in his dissent. (592 F.2d, at 388-395). I say this not because Judge Kilkenny is a long time Ninth Circuit Judge, but rather because of his thoughtful critique of the other two opinions, as well as his analysis of opinions relied on by Judges Sprecher and Tone:\n\u201cThe authorities cited by appellants are wide of the mark. In no way do they support appellants\u2019 principal claims that they were deprived of their constitutional rights to liberty, non-interference with family affairs or freedom to travel in interstate commerce.\u201d Id., at 397.\nWith respect to the \u201cliberty\u201d interest issue, Judge Kilkenny observed:\nThe majority, by implication, imagination, or otherwise paints a portrait which finds no support in the record. The cases cited do not fit our facts. These cases involve state or governmental agency action directed at a particular person whom the agency or officer has either taken into custody or over whom they have asserted responsibility. Nowhere does the majority face up to the distinction which I make as to the duty owed to the uncle, once arrested, and the absence of duty to the children against whom no action was taken.\nId., at 392.\nJudge Kilkenny also foresaw the DeSha-ney holding when he said \u201c[n]o authority is cited by either member of the majority which would place the actions of the officers in the instant case in violation of the second aspect of the Due Process Clause\u2019s protection, i.e., that their action \u2018shocks the conscience.\u2019 This is just a wishful way of attempting to create a constitutional remedy where none exists.\u201d Id., at 393.\nUnder Capoeman this court would have considered the law review comment in 1980 Brig.Yg.L.Rev. 347, referenced earlier in my dissent. The Comment\u2019s conclusion, captioned \u201cA Constitutional Misstep,\u201d is particularly insightful:\nIn White v. Rochford, the Seventh Circuit\u2019s conclusion that the offending policeman had deprived the plaintiff children of constitutional rights seem to follow emotional impulses more closely than it follows acceptable principles of due process analysis. The court gave only incomplete reference to appropriate case law, it refused to consider even the relevance of procedural questions, and it failed to note the special relevance that the recent Supreme Court decision in Ingraham v. Wright gave to the availability of independent causes of action under Illinois law. In so doing, the court successfully, even if perhaps not purposefully, avoided the balancing that has been commonly used to resolve due process conflicts between nonlegislative state action and constitutionally protected, but less than fundamental, personal interests.\nThe White decision\u2019s uniquely substantive approach to the due process issue evidences only an attempt to arrive at a \u2018just\u2019 result based on the appellate court\u2019s independent evaluation of the officers\u2019 alleged actions. The final judicial product is one that is blatantly inconsistent with evident Supreme Court policy that the due process clause is not a valid source of general federal tort liability. If the Seventh Circuit had good reasons to circumvent this policy, it could have masked its efforts more effectively. The holding in White could have been at least more clearly reasoned, even if not more solidly based, had it been decided on grounds of procedural insufficiency in the police officers' actions.\nSubstantive due process analysis has not disappeared from judicial decision making, but the trend, which should continue, has been to carefully limit its scope. Courts that are inclined to adopt a purely substantive approach toward no-nregulatory types of state action similar to that challenged in White should first insure that the rights involved are within the scope of \u2018fundamentals\u2019 that find solid root in specific constitutional language or values. The Seventh Circuit\u2019s failure to do so in White v. Rochford resulted in an obviously superficial analysis, wanting for necessary procedural considerations and balance.\n1980 Brig.Yg.L.Rev., at 374-75.\nIn deciding whether this circuit would have followed White in 1984, one must look at opinions of the United States Supreme Court as they exist today. I know of no case that holds a state official liable for conduct violative of the constitution when it occurred but no longer violative at the time the decision is being made. White, whatever its status in 1984, does not survive DeShaney as precedential authority for a claimed special relationship duty.\nOtherwise, I will leave for others to ultimately decide whether the majority correctly concludes that White was \u201cclearly established\u201d law and that it would have been followed in this Circuit in 1984. I suggest to the contrary on each proposition. Ca-poeman took a cautious view in a situation where several circuits had issued opinions on the point at issue \u2014 and appropriately found that there was uncertainty as to what would have been done in the Ninth Circuit. To take a contrary position on the basis of one opinion \u2014 and particularly of the uncertainty of White \u2014 would effectively void the qualified immunity defense for public officials and it would become but a barmecidal doctrine. Not only would a public official in the Ninth Circuit be charged with knowledge of Ninth Circuit precedent, but would be charged with knowledge of cases cited in opinions which were cited in Ninth Circuit opinions.\nConclusion\nThe State of Washington holds its police officers responsible for actions of the type alleged in this case. It was appropriate for the state to make that decision. State tort law is the arena within which to develop the procedures an officer should follow in deciding whether to offer assistance to a passenger and how that assistance should then be provided. It requires little prescience to anticipate the kind of disputes that will be generated in these instances concerning what was told the officer; mode of dress; weather forecasts; the crime rate at the arrest scene and environs; where the passenger wanted to be transported, etc. Like DeShaney and White (Judge Kilken-ny\u2019s dissent), officers will undoubtedly be faced with charges of false arrest, sexual harassment and assaults as they attempt to meet whatever burdens are imposed on them in the absence of state regulations spelling out procedures to be followed. Those are not problems to be addressed under the Due Process Clause of the Fourteenth Amendment.\n. I do not understand the relevance of this State Court opinion to issues in this appeal. The fact that the State of Washington has a policy that police officers should give assistance, etc., to motorists and their passengers would not make violation of that policy a section 1983 violation; neither would it serve to impose liability on the state for its failure to properly train state troopers to effectuate that policy.\n. The Supreme Court\u2019s decision in Taylor may further refine .the \"special relationship\u201d situations to include children \"involuntarily placed in a foster home\" as being \u201canalogous to a prisoner in a penal institution and a child confined in a mental health facility.\u201d 818 F.2d at 797. This is a far different situation than extending protection of Fourteenth Amendment rights to adult passengers in a vehicle where the driver is arrested.\n. Justice Brennan also cited White in his dissenting opinion (n. 3) in Davidson v. Cannon, 474 U.S. 344, 106 S.Ct. 668, 674, 88 L.Ed.2d 677 (1986).\n. The area where Wood's companion was arrested is a well-lighted thoroughfare in a commercial district. Two retail businesses in the immediate vicinity were open and lighted.\n. I do not agree that White was correctly decided on a constitutional basis. I believe, however, that there are meaningful legal distinctions between duties which law enforcement officers may owe to minor children and an adult when they arrest the driver of a car in which they are riding. I also believe that the dangers facing the minor children in White were immediate and apparent, whereas any dangers facing Wood were speculative, conjectural and subject to her control. The injury which she claims to have suffered could have occurred to any woman accepting a ride from a stranger at any hour of the day in any community.\n. White was first cited in this Circuit in Balistreri v. Pacifica Police Dept., 855 F.2d 1421 (9th Cir.1988) (submitted without argument on March 16, 1988 and the opinion issued August 23, 1988). Interestingly, Balistreri does not cite Wood, which was originally decided July 13, 1988.",
+        "type": "dissent",
+        "author": "CARROLL, District Judge,"
+      }
+    ],
+    "attorneys": [
+      "Paul Lindenmuth and Neil J. Hoff, Tacoma, Wash., for plaintiff-appellant.",
+      "Theresa L. Fricke, Asst. Atty. Gen., Olympia, Wash., for defendants-appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Linda K. WOOD, Plaintiff-Appellant, v. Steven C. OSTRANDER; Neil Maloney, Defendants-Appellees.\nNo. 87-3924.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted Feb. 3, 1988.\nReargued and Resubmitted on Rehearing Nov. 28, 1988.\nDecided June 27, 1989.\nPaul Lindenmuth and Neil J. Hoff, Tacoma, Wash., for plaintiff-appellant.\nTheresa L. Fricke, Asst. Atty. Gen., Olympia, Wash., for defendants-appellees.\nBefore FLETCHER and THOMPSON, Circuit Judges, and CARROLL, District Judge.\nAfter Judge Anderson\u2019s death, Judge Thompson was substituted for Judge Anderson. He has listened to the tape of the initial oral argument, has read the briefs and excerpt of record, and has heard oral argument on rehearing.\nHonorable Earl H. Carroll, United States District Judge for the District of Arizona, sitting by designation."
+  },
+  "file_name": "0583-01",
+  "first_page_order": 663,
+  "last_page_order": 687
+}

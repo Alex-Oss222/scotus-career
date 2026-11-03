@@ -1,0 +1,162 @@
+{
+  "completed_events": 11,
+  "stopped_matters": {
+    "United States v. McIver": "Stone's approved supplement expressly reaches independent public-road monitoring and affirms that component under Knotts, but the validated record shows McIver expressly did not challenge monitoring below. No approved conditional branch governs that concession. Renewed approval must supply Stone's resulting merits reach and judgment/remedy; a proposed branch is awaiting the user's answer."
+  },
+  "individual_stage_hashes": [
+    {
+      "case": "Carmell v. Texas",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_CARMELL_COMMITMENTS.md",
+      "sha256": "b83840a1fd4f21221b781eb66d4e68fbe8ccf74c69f5c586e4eb09e87fbb3b7b"
+    },
+    {
+      "case": "North Carolina Right to Life, Inc. v. Bartlett",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_NCRL_COMMITMENTS.md",
+      "sha256": "4676e1d2171ba612fa6248e605639cd5f3cfb34abd8cb8ae9356f1826cff8ea3"
+    },
+    {
+      "case": "National Mining Association v. United States Department of the Interior",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_MINING_COMMITMENTS.md",
+      "sha256": "d4c6c2216076b5d7925e32ba71acef94fce3a49205f3f816eef80df5c8a2c4e2"
+    },
+    {
+      "case": "Saenz v. Heldenfels Brothers, Inc.",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_SAENZ_COMMITMENTS.md",
+      "sha256": "1a14eb20b10fe407d48f7ee1b873190b4877787ec79f5494e2fc2bba4b5a2886"
+    },
+    {
+      "case": "Saenz v. Heldenfels Brothers, Inc.",
+      "stage": "COMMITMENTS_SOURCE_REVALIDATED",
+      "file": "OT_1999CHUNK6_SAENZ_COMMITMENTS_SOURCE_REVALIDATED.md",
+      "sha256": "892d7af575d0099b269fb9061be026bc5c314c9405f5462d6be1fc9ec54d9fad"
+    },
+    {
+      "case": "Fischer v. United States",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_FISCHER_COMMITMENTS.md",
+      "sha256": "844956c54e1adf335514f64fb1191449ae84f25cef74bbba1b6c57f3cc39a618"
+    },
+    {
+      "case": "Johnson v. United States",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_JOHNSON_COMMITMENTS.md",
+      "sha256": "91f1b024b0700c4e3d8c28db52ec2fd5a7ab7992d8452aebb016118770bd37bc"
+    },
+    {
+      "case": "Public Lands Council v. Babbitt",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_PUBLIC_LANDS_COMMITMENTS.md",
+      "sha256": "b2d40cafb4c5d198af6436223d6e6177fc38c0b09ce097806e55d639605eb15c"
+    },
+    {
+      "case": "United States v. Morrison / Brzonkala v. Morrison",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_MORRISON_COMMITMENTS.md",
+      "sha256": "10ff539b35c30fe7913100c34dc2a0e3ad35b637ad401392ba553f019d7f1aa2"
+    },
+    {
+      "case": "Geier v. American Honda Motor Co.",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_GEIER_COMMITMENTS.md",
+      "sha256": "7a876cb6fb2c1af8c229050c03bb410b16b2afdb1c9e3659dda0b905b7048509"
+    },
+    {
+      "case": "Jones v. United States",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_JONES_COMMITMENTS.md",
+      "sha256": "538b74088f24ccc4ea3cc22f116ef8851b82a251b529f1500f3dddb1217ecef3"
+    },
+    {
+      "case": "United States v. Playboy Entertainment Group, Inc.",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_PLAYBOY_COMMITMENTS.md",
+      "sha256": "adeeab443807fecd5b97c14398cf3e81bd4ccfba7c1cccae18977cbc2c0a0a9e"
+    },
+    {
+      "case": "United States v. McIver",
+      "stage": "COMMITMENTS",
+      "file": "OT_1999CHUNK6_MCIVER_COMMITMENTS.md",
+      "sha256": "1403999db08675deb9fbf8eced7f2122dcd1d97c69249a54475006bd69de8a92",
+      "status": "No completed judicial event"
+    },
+    {
+      "case": "Carmell v. Texas",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_CARMELL_RECONCILED.md",
+      "sha256": "cb1f590d83109108d15eaa4128f5f56385e1eb60ec98c7eb1da4581e6c4aecb1"
+    },
+    {
+      "case": "North Carolina Right to Life, Inc. v. Bartlett",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_NCRL_RECONCILED.md",
+      "sha256": "d8fe8edf172a490c230b7aa13f48f59493f230b7af305f4d50f7309a4d0e44fe"
+    },
+    {
+      "case": "National Mining Association v. United States Department of the Interior",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_MINING_RECONCILED.md",
+      "sha256": "f03c83238ff8b84eff082488ec21715cb2549f09ad9676a51ce8fb726b43e928"
+    },
+    {
+      "case": "Saenz v. Heldenfels Brothers, Inc.",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_SAENZ_RECONCILED.md",
+      "sha256": "e5168a5b30adcddf1684a88b05244bd25d12b699659d7b6913befe70b195ddaf"
+    },
+    {
+      "case": "Fischer v. United States",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_FISCHER_RECONCILED.md",
+      "sha256": "74bd9b94267d148365e2238e15e2ae95a4bc1ea50910cd3bc971d104658f81c1"
+    },
+    {
+      "case": "Johnson v. United States",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_JOHNSON_RECONCILED.md",
+      "sha256": "4d9343b397aee8775a939138db54941b6889aa033b7d451664190d11b4c467bd"
+    },
+    {
+      "case": "Public Lands Council v. Babbitt",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_PUBLIC_LANDS_RECONCILED.md",
+      "sha256": "92e9dc7c410582cac7a9ce9e2a6c396336e634dacf61a34370d5423793555caf"
+    },
+    {
+      "case": "United States v. Morrison / Brzonkala v. Morrison",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_MORRISON_RECONCILED.md",
+      "sha256": "91b1fc985c1a34430681de61f121d89b4f2db0b1fd0490e4660740a4c147b59f"
+    },
+    {
+      "case": "Geier v. American Honda Motor Co.",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_GEIER_RECONCILED.md",
+      "sha256": "3755e68e6dca9c4157fae48797a45c82f460634af414c9611608e5dae66ff441"
+    },
+    {
+      "case": "Jones v. United States",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_JONES_RECONCILED.md",
+      "sha256": "289c73136fd69358bd39d88ccab5c918f43950a5503b5580db8fc3bcb5f33f07"
+    },
+    {
+      "case": "United States v. Playboy Entertainment Group, Inc.",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_PLAYBOY_RECONCILED.md",
+      "sha256": "ea6436202b06649a4b830739a589fdd0b6dd8a3a904cf643f264cfe328dd40cb"
+    },
+    {
+      "case": "United States v. McIver",
+      "stage": "RECONCILED",
+      "file": "OT_1999CHUNK6_MCIVER_RECONCILED.md",
+      "sha256": "f1f3fb14929f5c5a2060110c9e38e21c86079878bda25ba78ef8ebe865184325",
+      "status": "No completed judicial event"
+    }
+  ],
+  "render_input_sha256": "23e0fe434be782d636f4c168968445a7185f4d3e5159832aa7331d43f00df46b",
+  "method": "Frozen stage files copied without substantive alteration; stock build_render_input.py copies Record Public Projections. No public Render or repository-history operation."
+}

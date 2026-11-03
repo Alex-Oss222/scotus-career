@@ -1,0 +1,9 @@
+# Playboy — form before assignment
+
+Form fixed from the frozen reconciliation, corrected lower-findings supplement and exact approved Stone position, before a fresh count or author selection.
+
+One signed lead after plenary review. Part I states the protected-speech premise and demanding content-based scrutiny, with the Government's ultimate burden. Part II holds that this record does not establish the comparative inadequacy of household-request blocking with adequate notice sufficient to justify §505's substantial adult burden. Part III affirms the adjudicated invalidation and enforcement injunction while preserving §504 and leaving any unreviewed collateral lower notice direction at its own procedural scope. It supplies no Supreme Court notice order or new notice-power holding.
+
+Stone's approved affirmance, burden rule and preservation of available notice/blocking measures support the six Associates' full sufficient ground. His position does not require a finding that adequate notice has occurred, a guaranteed implementation arrangement or a judicial command to create one. Scalia and Breyer share Part I's review framework and protected-speech premise but dissent from Parts II–III and the judgment, finding the defined default-protection scheme adequately justified. A common dissent can preserve their actual shared sufficient ground. No separate Scalia pandering theory, new obscenity ground or historical concurrence is imported.
+
+The judgment is one affirmance. Partial joins make an opinion topology table appropriate. Regulatory text, source conditions and competing record assessments remain distinct. The Court does not rewrite hours, add a digital/analog carveout, invent an adult/minor severance or create a separate implementation judgment. One of the seven complete-rationale supporters can carry every lead part, so no divided authorship is needed. These legal form choices precede and are independent of counts.

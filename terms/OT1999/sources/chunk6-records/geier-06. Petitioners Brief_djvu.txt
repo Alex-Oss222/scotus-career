@@ -1,0 +1,3219 @@
+re ee 
+
+
+Supreme Court, U9 
+ry 
+: 
+
+
+No. 98-1811 
+
+
+OCT 22 1999 | 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+Alexis Geier, et ai.. 
+
+
+Petitioners, 
+Vv. 
+
+
+American Honda Motor Company, Inc., et ai., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the 
+District of Columbia Circuit 
+
+
+BRIEF FOR PETITIONERS 
+
+Robert M.N. Palmer Arthur H. Bryant 
+The Law Offices of Robert (Counsel of Record) 
+
+M.N. Palmer, P.C. Leslie A. Brueckner 
+205 Park Central East, Ste.511 Trial Lawyers for Public 
+Springfield, MO 65801-5720 Justice, P.C. 
+(417) 865-3234 1717 Massachusetts Avenue, 
+James W. Taglieri as Sune S00 
+
+Washington, D.C. 20036 
+
+
+Cadeaux & Taglieri, P.C. 
+1100 Connecticut Avenue, 
+
+NW, Suite 800 
+Washington, D.C. 20036 
+(202) 785-3373 
+
+
+(202) 797-8600 
+
+
+QUESTION PRESENTED 
+
+
+Whether an automobile manufacturer’s compliance with 
+a federal motor vehicle safety standard promulgated pursuant to 
+the National Traffic and Motor Vehicle Safety Act of 1966, 15 
+U.S.C. §§ 1381-1431 (the “Safety Act”), preempts state 
+common law claims that an automobile was defectively 
+designed because it lacked an airbag where (1) the Safety Act 
+expressly provides that “[c]ompliance with any Federal motor 
+vehicle safety standard . . . does not exempt any person from 
+any liability under common law”; and (2) the federal safety 
+aaahad was a performance standard that 
+encouraged, but did not require, the installation of airbags in 
+cars? . 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+The parties to the proceedings below were petitioners 
+Alexis Geier, William Geier, and Claire Geier and respondents 
+American Honda Motor Company, Inc., Honda of America 
+Manufacturing, Inc., and Honda Motor Company, Ltd. 
+(collectively, “Honda”). 
+
+
+a Ee 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+ES ine 
+PARTIES TO THE PROCEEDINGS ................. ii 
+EE V 
+EE 
+kta secotccececese 
+
+
+STATUTORY AND REGULATORY PROVISIONS .... | 
+
+
+STATEMENT OF THE CASE ..........cccccceceess l 
+SE ee l 
+EE rade caveccccéeccesacecses 3 
+Sree sect bpoguesctdeustovece 5 
+
+UD cv vcccecevcecevcces 5 
+IE ccgiedetcccsotcescecces 7 
+ES occ ck as ves bveduvcsccccess 12 
+
+SUMMARY OF ARGUMENT ................6655: 14 
+
+ED WeSC LM dew enhance cecaceeceses 17 
+
+I. Petitioners’ Clams Are Not Expressly Preempted 
+And, In Fact, Are Expressly Preserved ............ 18 
+
+iii 
+
+
+A. The Preemption Provision Does Not 
+Encompass Common Law Claims........... 
+
+
+B. The Savings Clause Expressly Preserves 
+CO RPGS chs pdedsucedccsvcess 
+
+
+C. The Safety Act’s Legislative History 
+
+
+Confirms That Congress Intended To 
+Preserve Common Law Claims ............. 
+
+
+2: > Fah vogiebesncwes biccexes 
+3. The Senate-House Conference ......... 
+Il. Petitioners’ Claims Are Not Impliedly Preempted . . . 
+
+A. The Question Of Implied Preemption 
+
+Cannot Be Reached Because Congress 
+
+Unambiguously Preserved All Common 
+
+RAG wesc cep adbuseedaseseaiequen 
+B. Even Assuming That Implied Preemption 
+
+Can Be Reached Here, Petitioners’ Claims 
+
+Are Not Preempted Because They Do Not 
+
+Conflict With Federal Law ................ 
+
+
+1. Petitioners’ Claims Are Fully 
+Consistent with the Safety Act .......... 
+
+
+2. Petitioners’ Claims Are Fully 
+Consistent with Standard 208 .......... 
+
+
+COS os hh ods xed dseuviedicgs Shedacnedoes 
+
+
+iV 
+
+
+« Ew ere = 
+
+
+wear". pepe: 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Arbet v. Gussarson, 225 N.W.2d 431 (Wis. 1976) .............. 2 
+Atascadero State Hospital v. Scanlon, 473 U.S. 
+Span ET sitticniderikalicinaceilisisicsiiedina dein taiataidieas dntdbighpdesisii 39 
+BFP v. Resolution Trust Corp., 511 U.S. 531 
+SED sudincesinccnsiendilaieansieisebiiglidimeniantibatbditialakinesincinaitensestipiises 32 
+Brogan v. United States, 522 U.S. 398 (1998) .............000. 39 
+Burgess v. Ford Motor Co., No. DV79-355 (Ala. 
+a I cachiancetcsilepudlacelieathaaniellgepialestids ec dicing 48 
+California Fed. Sav. and Loan Ass'n v. Guerra, 
+Ps SIP ENT viichreitcnineciihaitsnobhddinisiphantinnnsinitcsaia 18, 38 
+CSX Transport, Inc. v. Easterwood, 507 U.S. 658 
+GUE eiciadtcntyiciistibiettnashalamnittapahiainahiiihasaiianinpiniaashianiituinnas 21 
+Chicago v. Environmental Defense Fund, 511 U.S. 
+RTE csttsiidieiaiciciatarinsigsiinsbiiiinasiiciatinnindiiiigaiaiiesteetintaatins 19 
+Cipollone v. Liggett Group, Inc., 505 U.S. 504 
+TEE siciniinasnicidiilgiehiitlatachabiabiciteidinbitinlediapa Uacanansittneiinele passim 
+College Savings Bank v. Florida Prepaid 
+Postsecondary Education Expense Board, 
+ETRE COS eae 39 
+Commissioner of Internal Revenue v. Asphalt 
+Products Co., Inc., 482 U.S. 117 (1987) .....cccccccccceceeeeee 40 
+v 
+
+
+Comstock v. General Motors Corp., 99 N.W.2d 
+627 (Mich. 1959) ..........cccssssresessereressersesnsssenenenssnssesnsennnenes 4 
+
+
+Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 
+ABD (1992) ....cencecsecescesercsssnsevsessnserenssnsnsnsnensenesossorsnrsnsereces 20 
+
+
+Dawson v. Chrysler Corp., 630 F.2d 950 (3d Cir. 
+1978), cert. denied, 450 U.S. 959 (1981) .......ceserceeeeeenees 2 
+
+
+Dorsey v. Honda Motor Co., Ltd., 655 F.2d 650 (5th 
+Cir. 1981), cert. denied, 459 U.S. 880 (1982)... 2 
+
+
+Drattel v. Toyota Motor Corp., 699 N.E.2d 376 
+(N.Y. 1998) .......cccececcecsrsssseesereesersnssensnenssnsnsnsnssnnensnsensnees 43 
+
+
+(1DBO)  .ncereoceresesessvenseorercosesseccescesscsnosovenssesssorsnascocsooses 17, 34 
+Florida Prepaid Postsecondary Education Expense 
+
+
+Board v. College Savings Bank, 119 S. Ct. 2199 
+(1999) .....ececcccscccesecessnssssnenssterensnenssnssenssnssssssssesensneansnsnnenees 39 
+
+
+197B) .....ncececsecacecsscscsssereossoonseverenoensasesesseneccsosessonsnrensssensness 2 
+Freightliner Corp. v. Myrick, 514 U.S. 280 (1995) .... passim 
+Freytag v. C.1.R, 501 U.S. 868 (1991) ....ccccceceeeesenerernenenens 26 
+
+
+General Motors Corp. v. Edwards, 482 So.2d 1176 
+(Alla. 1985) ...........cccscsscsssssssrerseesensennssssosssnesssnsnesrensnnenenenenes 2 
+
+
+Goodyear Atomic Corp. v. Miller, 486 U.S. 174 
+(19GB) ....cecscecsoscsvsvrereerccscsssssesserssnnsesensscenscosessossssoenees 33, 48 
+
+
+vi 
+
+
+Gregory v. Ashcroft, 501 U.S. 452 (1991) cooccccccccccececseeseees 39 
+
+
+H.P. Hood & Sons, Inc. v. Ford Motor Co., 345 
+
+
+PU GE GENO. BO UUD sissnitdcionimstdonssbenmiotiicesssinssomenemne 2 
+Hillsborough County v. Automated Med. Labs., 
+
+GU. SFG SAE, TOC ninssiccdebesiscieveccariocnieneniesmssisiunenen 41 
+Jones v. Rath Packing, 430 U.S. 519 (1997) coocccccccccccceoeees 17 
+Keene Corp. v. United States, 508 U.S. 200 (1993) .......... 19 
+
+
+Kippen v. Ford Motor Co., 546 F.2d 993 (D.C. Cir. 
+
+
+SIP OIID Sivinvteianbccntatiisiceuameniidininipphlligi ees sila A 3S 2 
+Larsen v. General Motors Corp., 391 F.2d 495 (8th 
+
+Sos MUD elciladitinnipsitsiatntcbiruieeninincdhieiicidhtilinaiaidecaiiahhdi as hace 2 
+Louisiana Public Service Commission v. FCC, 476 
+
+Sy SITET sinteitinnsiidnincriniianians Lidsinsindin ie Ni ete a * 41 
+Lyng v. Payne, 476 U.S. 926 (1986) ......ccccccccccseseseseeseereeees 41 
+Malone v. White Motor Corp., 435 U.S. 497 (1978) ......... 38 
+Medtronic v. Lohr, Inc., 518 U.S. 470 (1996) ............ passim 
+Morrison-Knudsen Const. v. Director, Office of 
+
+Workers Comp. Programs, 461 U.S. 624 (1983) ............ 20 
+Motor Vehicle Manufacturers Ass'n v. State Farm, 
+
+SP Es MIT sindicitbehliicseibdneitintnihs tale saettitned passim 
+Norfolk & Western Railway Co. v. American Train 
+Dispatchers’ Ass'n, 499 U.S. 117 (1991) cocccccccccccscececeseoees 39 
+
+
+vil 
+
+
+Schwartz v. American Honda Motor Co., Inc., 710 
+PF bo fs 8 EE eS SA aL Ue eI 2 
+
+
+Shipp v. General Motors Corp., 750 F.2d 418 (Sth 
+SE, PUD ccctastenessseshidstniptastitadadbaeasittintieabeabetiatipiaiaiantintng 2 
+
+
+Silkwood v. Kerr-McGee Corp., 464 U.S. 238 (1984) . 17, 33 
+
+
+Sours v. General Motors Corp., 717 F.2d 1511 (6th 
+
+
+ais BRUNE - cicsdaivennantinndsicsieiaseaiemniarneniiennnnembinnpiaamneinusnges 2 
+Stonehocker v. General Motors Corp., 587 F.2d 151 
+
+CEE GI FRE. ectrecstnentitenctiosnscincnincniiiveavatiabaitiabecines 2 
+TVA v. Hill, 437 U.S. 153 (1984) ..........scsccvecsessssesseeersrsenes 28 
+U.S. v. Lopez, 514 U.S. 549 (1995) .......cccsssesssseseeeseeenseens 39 
+
+
+Volkswagen of America, Inc. v. Young, 321 A.2d 737 
+COED. RO. FG cecnccccesvisiinivniinciiieiatnnaiiahilaninvinainnitianiaitiion 2 
+
+
+Yamaha Motor Corp. v. Calhoun, 516 U.S. 199 (1996) .... 33 
+
+
+Statutes: 
+Administrative Procedure Act, 5 U.S.C. § 553 (1994) ...... 40 
+Copyright Act of 1976, 17 U.S.C. § 301(a) (1977) ........... 19 
+
+
+Domestic Housing and International Recovery and 
+Financial Stability Act, 12 U.S.C. § 1715z-12, 
+
+
+EID ‘naiionccducnctnaptieinnapeaddedtabelabidiiannisendsaatens 19 
+National Traffic and Motor Vehicle Safety Act 
+of 1966, 15 U.S.C. §§ 1381-1431 oe eeeeeeees passim 
+Vili 
+
+
+OS CEES TI  caentenssscnitnerncesennsncienvigerenepreneneisonaneinion 3, 43 
+BS SEIRGS Bee capcecitetncercvesatetnememenavenvsiicatens 1, 3, 23, 46 
+BD TEs 1 Ge Vediterecttscctiennssicnn. <etrsiesmmeasiinpeetasiittiunitinn 3 
+OF PETA CII ‘cernrresenccsesnsssnniviininninetnciemneensnenies passim 
+BS RIE 6 RII eccetercciccesiericnssssvitceenncinsinirenlannssasiichinte 20 
+BS ULB. 6 RIGIIEE), CO 6D cccvcv crv erenincesrcsasorecenesusintiset 4 
+BS CLE, © CAI ssccveartctnticansenapnpnestenesepnentinencingetinwionainie 20 
+OS CLEC © TCR CD cxrreveveserncccivtsntennssseneneneeninnns 20 
+BS WEEE. B CEPI cicnicecatvcnnsittnisinaisctninimatation passim 
+ee es BM cervitnescerinneviincteniripstiieepinnvacionentataeniastiies l 
+AE ERIE. BID ccccctinievcieprctinctnriamesvaiteaptiopniiongaiitis 25 
+GTB. GD srccrcccrscsesctnsniesssvorveinimnectintnviine 5, 45, 48 
+Legislative Materials: 
+
+H.R. 13228, 89" Cong., 2d Sess. (March 2, 1966) ............ 29 
+H.R. Rep. No. 1776, 89th Cong., 2d Sess. 10-11 (1966) ..... 3 
+H.R. Rep. No. 1776, 89th Cong., 2d Sess. 24 (1966) ........ 30 
+S. Rep. No. 89-1301, 89th Cong., 2d Sess., 1-2 (1966) ....... 3 
+
+
+S. Rep. No. 89-1301, 89th Cong., 2d Sess. 6 (1966) ... 22, 28 
+
+
+ix 
+
+
+Hearings on H.R. 13228 Before the House 
+Committee on Interstate and Foreign Commerce, 
+
+
+89th Cong., 2d Sess. 1256-57, 1315, 1351 (1966) ...........-. 4 
+Hearings on S. 3005 Before the Senate Committee 
+
+on Commerce, 89th Cong., 2d Sess. 252 (1966) ..........00+++ 4 
+112 Cong. Rec. 14,230 (1966) ........cccsesereseserseersennennenenenes 29 
+112 Cong. Rec. 14,257 (1966) ........ceseecerseseeeennerscneenennnnes 28 
+112 Cong. Rec. 19,663-19,669 (1966) ........recseseerereerenees 31 
+112 Cong. Rec. 19,657 (1966) .........cseeeseereeseeesennnenennenes 30 
+112 Cong. Rec. 21,487 (1966) ........ceceesesesrerneeensnesnennnens 32 
+112 Cong. Rec. 21,490 (1966) .......ccecesesesesesersesesnnnnnennenens 32 
+Pub. L. No. 103-272, 108 Stat. 745, 941 ....ccccccceseeeeeenneenees l 
+Regulatory Materials: 
+
+Federal Motor Vehicle Safety Standard 208, 
+
+49 C.F.R. § 571.208 .......ccsccccsccsescerssenesseseesesensnnennnnens passim 
+49 CF.R. §§ S71.101 ef S€q ......ccsccsseseeseseseennnneennenennsnennenens 46 
+49 Fed. Reg. 28962-29010 (1984)  ......ccsecsesereereneneees passim 
+49 Fed. Reg. 28963 (1984) .......cccssesesesenesersnsnennenennenennennenens 9 
+49 Fed. Reg. 28965 (1984) .......ccccssssssneerensnseesnncesnesnennnnenens 8 
+49 Fed. Reg. 28966 (1984) .......cscsceseseneerensnnensnenseennnennnnenens 9 
+
+
+chet in hind Lg ES RPT Neate 11 
+as BE EN Sania oniitisdeasoes cco 1] 
+rer Setie cies Lec cen la PN ne MENIS LoS SET 9 
+4D Fed. Rag. 20906 (1984) ...n..ecccccscecesosescsccsesesasesess passim 
+4D Fed. Bag, ZESGD (19B4) ..esccscnsessssescecececeseseesessece. 45, 48 
+GP FO. Tag, ZOGIG (1GCG) .nsacccsescessececosocesseecsceosscceseonse 46 
+49 Fed. Reg. 28997 SEEEIIITEE sdepeipestiibinlagendicubtsneispaccatcaes bith 10, 46 
+coe Et SRT MRA NCCI 7 
+49 Fed. Reg. 29000 (1984) ..........ccccccssscesececscerereeseseens passim 
+49 Fed. Reg. 29001 (1984) ........cccccccccccscscscscesecsees 46, 47, 49 
+Or I i 49 
+Pe I UN CID ai ahcccs ccxccntctessemctusstanarcinsas 5 
+PP PU ED LED OD acsscvcnccasesscsonsnsdansnsesedinsdoseecdiccsse 7 
+Miscellaneous: 
+Kurt B. Chadwell, Automobile Passive Restraint 
+Claims Post-Cipollone: An End to the Federal 
+Preemption Defense, 46 Baylor L. Rev. 141 (1994) ...... + 
+Paul Deuffert, The Role of Regulatory Compliance 
+in Tort Actions, 26 Harv. J. on Legis. 175 (1989) ........ 27 
+
+
+xi 
+
+
+Restatement (Second) of Torts § 288C (1964) .........s-0:0000 27 
+
+
+xii 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1-16) is 
+reported at 166 F.3d 1236. The order of the district court 
+granting defendants’ motion for summary judgment (Pet. App. 
+17-21) is not reported. 
+
+
+JURISDICTION 
+
+
+The court of appeals entered judgment on February 5, 
+1999. This Court granted the petition for a writ of certiorari 
+on September 10, 1999. This Court has jurisdiction under 28 
+U.S.C. § 1254. 
+
+
+STATUTORY AND REGULATORY PROVISIONS 
+
+
+This case involves the National Traffic and Motor 
+Vehicle Safety Act of 1966, 15 U.S.C. §§ 1381-1431 (the 
+“Safety Act”), and Federal Motor Vehicle Safety Standard 208, 
+49 C.F.R. § 571.208 (“Standard 208”). Relevant portions of the 
+Safety Act and Standard 208 are in an appendix to this brief.' 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Introduction. Congress passed the Safety Act in 
+1966 to reduce motor vehicle injuries and deaths. To achieve 
+that goal, Congress authorized the federal government to issue 
+minimum safety standards for motor vehicle performance. 15 
+U.S.C. §§ 1391(2), 1392(a). At the same time, Congress made 
+clear that “[c]ompliance with any Federal motor vehicle safety 
+standard does not exempt any person from any liability under 
+common law.” 15 U.S.C. § 1397(k). In keeping with this 
+statutory directive, for 20 years after the Act’s passage, the 
+
+
+' On July 5, 1994, Congress recodified the Safety Act “without 
+substantive change.” Pub. L. No. 103-272, 108 Stat. 745, 941. The 
+relevant recodified provisions are also set forth in the appendix. 
+
+
+nation’s appellate courts unanimously agreed that common law 
+claims are not preempted by the Safety Act or by federal motor 
+vehicle safety standards.’ 
+
+
+Against this backdrop, in 1984, the National Highway 
+Traffic Safety Administration (“NHTSA”) amended the federal 
+motor vehicle safety standard governing occupant restraint 
+systems — Standard 208 — to include a performance requirement 
+encouraging, but not requiring, the installation of airbags. 
+Consistent with the Safety Act’s dictate, NHTSA never 
+suggested that compliance with Standard 208 would preempt 
+any common law claims involving airbags. To the contrary, the 
+agency found that “the most effective system is an airbag plus 
+a lap belt and shoulder harness” (49 Fed. Reg. 28962, 28986 
+(1984)) and, in keeping with Congress’ express preservation of 
+common law claims, specifically noted that “potential liability 
+for any deficient systems” would help spur auto manufacturers 
+to install the best system. Jd. at 29000. 
+
+
+This lawsuit harmonizes well with Congress’ and 
+NHTSA’s actions. Petitioners allege that Honda should have 
+
+
+? See Larsen v. General Motors Corp., 391 F.2d 495, 506 (8th Cir. 
+1968); Kippen v. Ford Motor Co., 546 F.2d 993, 1000 (D.C. Cir. 1976); 
+Fox v. Ford Motor Co., 575 F.2d 774, 778 (10th Cir. 1978); Stonehocker v. 
+General Motors Corp., 587 F.2d 151, 156-57 (4th Cir. 1978); Dawson v. 
+Chrysler Corp., 630 F.2d 950, 957-58 (3d Cir. 1978), cert. denied, 450 U.S. 
+959 (1981); Dorsey v. Honda Motor Co., Lid., 655 F.2d 650, 656-57 (Sth 
+Cir. 1981), cert. denied, 459 U.S. 880 (1982); Schwartz v. American Honda 
+Motor Co., Inc., 710 F.2d 378, 383 (7th Cir. 1983); Sours v. General Motors 
+Corp., 717 F.2d 1511, 1516-17 (6th Cir. 1983); Shipp v. General Motors 
+Corp., 750 F.2d 418, 421 (Sth Cir. 1985); General Motors Corp. v. 
+Edwards, 482 So. 2d 1176, 1198 (Ala. 1985); Volkswagen of America, Inc. 
+v. Young, 321 A.2d 737, 746 (Md. App. 1974); H.P. Hood & Sons, Inc. v. 
+Ford Motor Co., 345 N.E.2d 683, 688 (Mass. 1976); Arbet v. Gussarson, 
+225 N.W.2d 431, 438 (Wis. 1976). 
+
+
+done more than the bare minimum required by Standard 208 
+and that Alexis Geier would not have been seriously injured if 
+the 1987 Honda Accord she was driving contained the system 
+NHTSA called the “most effective”: an airbag plus a lap belt 
+and shoulder harness. The lower court nonetheless held that, 
+even if this allegation is true and Honda would be held liable at 
+common law, Honda is immune from suit solely because it 
+complied with Standard 208. This ruling violates the plain 
+terms of the Safety Act, misconstrues Standard 208, and 
+improperly interferes with both the power of the states in our 
+federal system and the power of Congress to establish the law. 
+
+
+B. The Safety Act. Congress enacted the Safety Act 
+in response to the deaths and injuries resulting from unsafe 
+vehicles. See S. Rep. No. 89-1301, 89" Cong., 2d Sess., 1-2 
+(1966), reprinted in 1966 U.S.C.C.A.N. 2709, 2709-10; H.R. 
+Rep. No. 89-1776, 89" Cong., 2d Sess. 10-11 (1966). The 
+Act’s sole stated purpose is “to reduce traffic accidents and 
+deaths and injuries to persons resulting from traffic accidents.” 
+15 U.S.C. § 1381. See also Motor Vehicle Mfrs. Ass'n v. State 
+Farm, 463 U.S. 29, 55 (1983) (“Congress intended safety to be 
+the pre-eminent factor under the Act.”). 
+
+
+To this end, Congress empowered the Department of 
+Transportation to prescribe “motor vehicle safety standards” 
+that “shall be practicable, meet the need for motor vehicle 
+safety, and be stated in objective terms.” 15 U.S.C. § 1392(a). 
+The Act further defines “safety standards” as “minimum 
+standard[s] for motor vehicle performance or motor vehicle 
+equipment performance. ...” 15 U.S.C. § 1391(2) (emphases 
+added). In issuing these minimum performance standards, the 
+agency is directed to consider “relevant available motor vehicle 
+safety data,” whether the proposed standard “is reasonable, 
+practicable and appropriate” for the particular type of motor 
+vehicle, and the “extent to which such standards will contribute 
+
+
+3 
+
+
+to carrying out the purposes” of the Act. 15 U.S.C. § 
+1392(f)(1), (3), (4). 
+
+
+When it enacted the Safety Act, Congress was fully 
+aware of the existence of state common law design defect 
+lawsuits against manufacturers.’ For that reason, Congress 
+explicitly addressed what it did and did not intend to preempt 
+in two separate sections of the Safety Act: the preemption 
+provision and the savings clause. The former does not mention 
+common law claims. Rather, it states in pertinent part: 
+
+
+Whenever a Federal motor vehicle safety 
+standard established under this subchapter is in 
+effect, no State or political subdivision of a 
+State shall have any authority either to establish, 
+or to continue in effect, with respect to any 
+motor vehicle or item of motor vehicle 
+equipment any safety standard applicable to the 
+same aspect of performance of such vehicle or 
+item of equipment which is not identical to the 
+Federal standard. 
+
+
+* See, e.g., Hearings on H.R. 13228 Before the House Committee 
+on Interstate and Foreign Commerce, 89" Cong., 2d Sess. 1256-57 (1966) 
+(“House Hearings”) (testimony of Representative Charles P. Farnsley 
+regarding design defect litigation involving the General Motors Corvair); id. 
+at 1315 (statement of Daniel P. Moynihan regarding Comstock v. General 
+Motors Corp., 99 N.W. 2d 627 (Mich 1959)); id. at 1351 (statement of Mr. 
+Maurice A. Gargell concerning Corvair design defect litigation); Hearings 
+on S. 3005 Before the Senate Committee on Commerce, 89" Cong., 2d Sess. 
+252 (1966) (testimony of Dr. Seymour Charles noting pendency of 100 
+lawsuits challenging safety design of the Corvair). See also generally Kurt 
+B. Chadwell, Automobile Passive Restraint Claims Post-Cipollone: An End 
+to the Federal Preemption Defense, 46 Baylor L. Rev. 141, 178 n.223 
+(1994). 
+
+
+15 U.S.C. § 1392(d). 
+
+
+The Safety Act’s savings clause, in contrast, expressly 
+refers to common law. It provides that “Compliance with any 
+Federal motor vehicle safety standard issued under this 
+subchapter does not exempt any person from any liability under 
+common law.” 15 U.S.C. § 1397(k). 
+
+
+C. Standard 208. Standard 208 sets forth minimum 
+performance requirements for the protection of vehicle 
+occupants in crashes. See 49 C.F.R. § 571.208. The version of 
+Standard 208 at issue here was promulgated in 1984, in 
+response to this Court’s decision in Motor Vehicle Mfrs. Ass'n 
+v. State Farm, 463 U.S. 29 (1983). Under this rule, 
+manufacturers were encouraged, but not required, to install 
+airbags in their vehicles. (Current law, in contrast, requires 
+airbags in all new vehicles. See 49 U.S.C. § 30127(b); 58 Fed. 
+Reg. 46551 (1993)). Although this case involves the 1984 
+amendments to Standard 208, a brief review of the Standard’s 
+prior history is essential to understanding the purposes of the 
+1984 rule. 
+
+
+1. Regulatory History. As originally issued in 1967, 
+Standard 208 simply required the installation of seatbelts in all 
+automobiles. See State Farm, 463 U.S. at 34. However, “[i]t 
+soon became apparent that the level of seatbelt use was too low 
+to reduce traffic injuries to an acceptable level.” /d. NHTSA 
+therefore began considering “passive restraint systems” that do 
+not require any independent action by the vehicle’s occupant. 
+Id. at 35. Two types of automatic protection emerged from the 
+investigation: automatic seatbelts and airbags. /d. Ultimately, 
+the agency’s investigation showed that these passive restraints 
+were substantially safer than manual alternatives, potentially 
+saving approximately 12,000 deaths and 100,000 serious 
+injuries annually. /d. 
+
+
+Based on these findings, in 1969, NHTSA proposed a 
+rule that would have required the installation of passive 
+restraints in automobiles. See id. After extensive rulemaking 
+proceedings, during which the agency repeatedly amended the 
+rule to require various sorts of passive restraints, see id. at 35- 
+36, and the automobile industry waged “the regulatory 
+equivalent of war against the airbag,” id. at 49-50, NHTSA 
+suspended the passive restraint requirement in 1976. /d. at 36. 
+Although Transportation Secretary William Coleman concluded 
+that airbags were safe and effective, he decided not to mandate 
+passive restraints because he expected that there would be 
+
+
+“widespread public resistance to the new systems.” /d. at 37. 
+
+
+Secretary Coleman’s successor, Brock Adams, reversed 
+the decision and mandated the phasing in of passive restraints 
+for mode! years 1982 to 1984. Jd. The two principal systems 
+that would satisfy the standard were airbags and automatic seat 
+belts; the choice of which system to install was left to the 
+manufacturers. See id. Seven months before the first deadline, 
+however, new Transportation Secretary Drew Lewis delayed 
+and then rescinded that order “due to changed circumstances 
+and, in particular, the difficulties of the automobile industry.” 
+Id. at 38. Finding that most manufacturers would install 
+detachable automatic seatbelts rather than the far-safer airbags, 
+he ruled that the passive restraint requirement would defeat auto 
+safety, because the automatic seatbelts would simply be 
+detached. Jd. at 38-39. 
+
+
+In 1983, this Court in State Farm held that the rescission 
+of Standard 208 was arbitrary and capricious. /d. at 57. The 
+Court was especially critical that, after deciding that detachable 
+automatic seat belts would not work, NHTSA had not even 
+considered requiring airbags as the only form of passive 
+restraints. Jd. at 48. This was clearly arbitrary, in the Court’s 
+view, because “the agency’s original proposed Standard 
+
+
+6 
+
+
+contemplated the installation of inflatable restraints [i.e. 
+airbags] in all cars.” /d. at 46.‘ Since that time, the agency had 
+reaffirmed “the life-saving potential of the airbag” as a highly 
+effective form of passive restraint. Jd. at 47-48. “Given the 
+effectiveness ascribed to airbags by the agency,” the Court 
+wrote, “the mandate of the Act to achieve traffic safety would 
+suggest that the logical response to the faults of detachable 
+seatbelts would be to require the installation of airbags.” Jd. at 
+48. Because “NHTSA’s . analysis of airbags was 
+nonexistent,” id., the Court vacated the agency’s decision 
+rescinding Standard 208 and remanded for further 
+consideration. /d. at 57. 
+
+
+2. The 1984 Rule. In the aftermath of State Farm, 
+Secretary of Transportation Elizabeth Dole reinstated the 
+passive restraint requirement, with a phase-in period beginning 
+September 1, 1986, and full implementation required by 
+September 1, 1989. 49 Fed. Reg. 28962 (1984).° Under the 
+new rule, auto manufacturers could satisfy the passive restraint 
+requirement “by using automatic detachable or nondetachable 
+
+
+* The Court noted that, “[wJhile NHTSA’s 1970 passive restraint 
+requirement permitted compliance by means other than the airbag . . 
+‘{tJhis rule was a de facto air bag mandate since no other technologies were 
+available to comply with the standard.’” /d. at 46 n.11 (citation omitted). 
+
+
+* Under the phase-in schedule, “a minimum of 10 percent of all 
+cars manufactured after September |, 1986, must have automatic occupant 
+crash protection. After September 1, 1987, the percentage is raised to 25 
+percent; after September 1, 1988, it is raised to 40 percent; and after 
+September 1, 1989, all new cars must have automatic occupant crash 
+protection.” 49 Fed. Reg. 28999. The rule further provided that the 
+requirement for passive restraints would be rescinded if, by the end of the 
+phase-in period (April 1, 1989), mandatory seatbelt use laws (“MULs”) 
+were passed by enough states to cover two-thirds of the U.S. population. /d. 
+at 28963. This never occurred, and the MUL provision was ultimately 
+deleted. See 58 Fed. Reg. 46563 (1993). 
+
+
+> 
+
+
+belts, airbags, passive interiors, or other systems that will 
+provide the necessary level of relief.” Jd. at 28996 (emphasis 
+added). Thus, under this version of the rule (which applies to 
+petitioners’ veb’ -le in this case), manufacturers were permitted, 
+but not required, to use airbags in their vehicles.° 
+
+
+Because this Court had found the prior Secretary’s 
+decision arbitrary and capricious for failing to consider an 
+“airbags only” requirement, Secretary Dole went to some length 
+to explain why the agency was not requiring “airbags only” — 
+instead of automatic seat belts and other types of passive 
+restraints — in all cars. First, comparing the two, she said that 
+“(although airbags may provide greater safety benefits, when 
+used with belts, and potentially larger injury premium 
+reductions than automatic belts, they are unlikely to be as cost 
+effective.” Jd. at 29001. Second, Secretary Dole expressed 
+concern that, due to public unfamiliarity with the technology, 
+a government-mandated “airbags only” rule “could lead toa 
+backlash affecting the acceptability of airbags.” /d. Third, 
+Secretary Dole noted that several commenters “questioned the 
+Department’s authority to issue an “airbags only” standard, 
+claiming that it would be a ‘design’ standard.” Jd. She said 
+that, “{e]ven if the Department could legally issue a 
+performance standard that could only be met by an airbag under 
+present technology,” doing so would create “a number of 
+problems” and could “unnecessarily stifle innovation” in other 
+types of passive systems, such as automatic belts and passive 
+
+
+* The agency noted that airbag technology had already been 
+employed by various auto makers at various times. See, e.g., 49 Fed. Reg. 
+at 28965 (noting that, between “1973 and 1976, General Motors produced 
+approximately 11,000 full-sized Chevrolets, Buicks, Oldsmobiles and 
+Cadillacs equipped ‘vith airbags, . . . Ford installed airbags in 831 Mercurys, 
+[and] a small number were installed in Volvos also.” ) NHTSA further 
+noted that, since the early 1980s, Mercedes Benz had sold approximately 
+22,000 airbag-equipped cars worldwide. /d. 
+
+
+interiors. /d. For these and other reasons, the agency declined 
+to mandate airbags in all vehicles. See id. 
+
+
+The agency made clear, however, that systems that 
+included airbags were the preferred option. Secretary Dole 
+repeatedly emphasized that the safest system was precisely the 
+one that the petitioners seek to prove was an available, safer 
+design in this case: “the most effective system is an airbag plus 
+a [manual] lap and shoulder belt.” Id. at 28986 (emphasis 
+added). See also id. at 28984. The Secretary also emphasized 
+that this was not merely the agency’s opinion; to the contrary, 
+the auto manufacturers themselves acknowledged that “the 
+combination of an airbag and manual lap and shoulder belts . . 
+. [is] the most effective system of all.” Jd. at 28966. 
+
+
+In keeping with these observations, the new rule was 
+designed to encourage the development and availability of 
+airbags. As NHTSA explained, “{ajutomatic occupant 
+protection systems that do not totally rely on belts, such as 
+airbags or passive interiors, offer significant additional 
+potential for preventing fatalities and injuries, at least in part 
+because the American public is likely to find them less 
+intrusive; their development should be encouraged through 
+appropriate incentives.” 49 Fed. Reg. at 28963 (emphasis 
+added). 
+
+
+The first such incentive was the use of a phase-in 
+requirement that permitted manufacturers gradually to install 
+passive restraints over a three-year period. Secretary Dole 
+explained, id. at 29000 (emphasis added): 
+
+
+If the Department had required full compliance 
+by September 1, 1987, it is very likely all of the 
+manufacturers would have had to comply 
+though the use of automatic belts. Thus, by 
+
+
+9 
+
+
+phasing-in the requirement, the Department 
+makes it easier for manufacturers to use other, 
+perhaps better, systems such as airbags and 
+passive interiors. 
+
+
+The second incentive to “encourage the use of non-belt 
+technologies during the phase-in period” (id. at 28997) was to 
+give manufacturers “extra credit” toward their percentage 
+requirement if they used “something other than an automatic 
+belt to provide the automatic protection to the driver.” /d. at 
+29001. Under the rule, “[ flor each car in which they do so [i.e., 
+install a non-belt passive restraint, such as an airbag], they will 
+receive credits for an extra one-half automobile toward their 
+percentage requirement.” Jd. at 29000. Although the credit 
+could be earned by non-belt passive restraints other than airbags 
+(such as “passive interiors,” see id. at 28965), NHTSA 
+“believe[d] that the primary system that would be used under 
+this ‘extra credit’ alternative would be the airbag.” /d. at 
+29000. This was desirable because “airbags should provide 
+very significant safety benefits.” /d. The agency added that, 
+“{e]ven though fewer cars would be equipped with automatic 
+protection if extra credit is given for airbag automobiles,” the 
+tradeoff was worth it because “airbags — when used with belts 
+~ are very effective.” Jd. 
+
+
+The final incentive identified by the agency to 
+encourage the use of non-belt alternatives — such as airbags — 
+was the threat of future liability imposed through the tort 
+system. According to Secretary Dole, “[s]}ome commentators 
+on the rule suggested that [auto] manufacturers would use the 
+cheapest system [automatic seatbelts] to comply with the 
+automatic restraint requirement . . ..” Jd. at 29000. In response, 
+she stated that “the Department does not agree with this 
+contention. It believes that competition, potential liability for 
+any deficient systems, and pride in one’s product would prevent 
+
+
+10 
+
+
+this.” Jd. (emphasis added). Thus, the agency believed that 
+“potential liability” could create an incentive for manufacturers 
+to avoid the cheapest passive restraint systems in favor of safer 
+alternatives — such as the one the agency identified as the safest 
+alternative of all: “an airbag plus a lap and shoulder belt.” 49 
+Fed. Reg. at 28986. 
+
+
+In keeping with this third incentive, the preamble to the 
+1984 rule contains no indication that the agency sought to 
+preempt any common law tort claims involving airbags or any 
+other type of occupant restraint. To the contrary, in addition to 
+the remark noted above, Secretary Dole explicitly noted 
+comments that the auto manufacturers could be sued by crash 
+victims who were injured because their cars lacked airbags: 
+
+
+Another potential source of manufacturer 
+liability was raised by Stephen Teret, 
+representing the National Association for Public 
+Health Policy: 
+
+
+“If a reasonable means of protection is being 
+denied to the motoring public, the denial should 
+lead to liability, even if the liability can be 
+imposed on each and every car manufacturer. 
+People whose crash injury would have been 
+averted had the car been equipped with an air 
+bag can sue the car manufacturer to recover the 
+dollar value of the injury.” 
+
+
+Id. at 28972. See also id. at 28971 (discussing various 
+comments relating to potential product liability claims 
+involving airbags under the 1984 rule). Thus, the agency was 
+aware of the possibility of future damage actions involving 
+airbags, yet it never suggested that such claims would conflict 
+
+
+ll 
+
+
+with the 1984 version of Standard 208 — or that such claims 
+would be preempted. 
+
+
+D. This Litigation. In 1992, Alexis Geier was driving 
+a 1987 Honda Accord in the District of Columbia. J.A. 2. At 
+the time the vehicle was manufactured, Standard 208 required 
+Honda to install some form.of passive restraint in at least 10 
+percent of its cars (see n.5, supra), and permitted Honda to 
+install passive restraints (including airbags) in all of its cars. 
+Honda elected not to install any passive restraint in the vehicle 
+driven by Ms. Geier; rather, her car contained the type of 
+system — a manual three-point lap belt and shoulder harness — 
+that was still permitted by Standard 208 during the phase-in 
+period, but would be legally barred thereafter. 
+
+
+At the time of the accident, Ms. Geier was wearing the 
+lap belt and shoulder harness provided for the driver in the 
+design of the car. Rounding a curve, the vehicle spun out of 
+control and collided with a tree. The lap belt and shoulder 
+harness did not adequately protect Ms. Geier, and she sustained 
+multiple serious injuries. J.A. 2-5. 
+
+
+On January 12, 1995, Ms. Geier and her parents filed 
+this lawsuit seeking damages against Honda under the common 
+law of the District of Columbia on theories of negligence, 
+breach of warranty, and strict product liability. J.A. 5-42. 
+Petitioners allege that the 1987 Honda Accord was negligently 
+and defectively designed because it lacked “an effective and 
+safe passive restraint system, including, but not limited to 
+airbags ...” (J.A. 3-4), and that, if the car had contained a 
+driver’s-side airbag in addition to the manual lap belt and 
+shoulder harness, Ms. Geier would not have been seriously 
+injured in the crash. 
+
+
+12 
+
+
+Even though the design advocated by petitioners was 
+fully consistent with Standard 208 (and was the safest option 
+identified by NTHSA in the preamble to the rule), Honda 
+moved for summary judgment on the ground that the Geiers’ 
+claims are preempted by the Safety Act and Standard 208. Pet. 
+App. 17. The district court granted the motion and the court of 
+appeals affirmed, holding that petitioners’ claims were 
+impliedly preempted because they conflict with the goals of 
+Standard 208. Pet. App. 17-20. 
+
+
+The appeals court first acknowledged it would be 
+“problematic” to find petitioners’ claims expressly preempted 
+in light of both the Act’s “broadly worded savings clause” and 
+the strong presumption against finding express preemption of 
+common law claims when Congress’ intent to preempt “is not 
+clear from the statute’s language.” Pet. App. 10-11. Given the 
+broad wording of the savings clause, the court reasoned, “‘it 
+would be difficult to discern a ‘clear and manifest purpose of 
+Congress’ to preempt a design defect claim based on the 
+absence of an airbag.” Pet. App. 11 (citations omitted). 
+
+
+The lower court ultimately decided that it need not 
+resolve the express preemption question, however, since it 
+instead found implied preemption of petitioners’ claims. Pet. 
+App. 12. The court first rejected petitioners’ assertion that, 
+under Cipollone v. Liggett Group, Inc., 505 U.S. 504 (1992), 
+the Safety Act’s clear express preemption provisions preclude 
+any inquiry into implied preemption. App. 14. The court went 
+on to hold that petitioners’ claims are “implicitly preempted” on 
+the ground that they conflict with the regulatory framework 
+established by Standard 208. App. 16. While conceding that 
+the 1984 rule “does not mandate or forbid the use of airbags” 
+(Pet. App. 14), the court held that imposition of common law 
+liability for failure to instali an airbag would frustrate the 
+federal government’s goals of “encouraging both public 
+
+
+13 
+
+
+acceptance of the airbag technology and experimentation with 
+better passive restraint systems.” Pet. App. 15. Thus, the court 
+concluded, Ms. Geier had no right to seek compensation for her 
+injuries at common law. : 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In determining whether a state cause of action is 
+preempted by federal law, the Court’s sole task is to ascertain 
+the intent of Congress. This determination of Congressional 
+intent is not made in a vacuum; rather, it is informed by a strong 
+presumption against preemption that can be overcome only by 
+a clear manifestation of congressional intent to the contrary. 
+
+
+Measured in this light, it is clear that Congress did not 
+intend to preempt common law tort claims under the Safety 
+Act. Indeed, the two provisions of the Safety Act that set forth 
+Congress’s intent with respect to preemption — the preemption 
+provision (15 U.S.C. § 1392(d)) and the savings clause (15 
+U.S.C. § 1397(k)) — reveal that common law claims are 
+expressly preserved, not preempted. 
+
+
+The language of the preemption provision shows that 
+Congress only intended to preempt state Jegislative or 
+administrative safety standards that are not identical to federal 
+safety standards governing the same aspect of motor vehicle 
+performance, and not to preempt common law tort actions. 
+Thus, the Safety Act’s express preemption provision does not 
+even encompass common law tort claims. 
+
+
+Any doubt on this point would be dispelled by the 
+savings clause, which states in sweeping and unambiguous 
+terms that “compliance with any . . . safety standard . . . does 
+not exempt any person from any liability under common law.” 
+Both the plain language of this “anti-preemption” provision and 
+
+
+14 
+
+
+its legislative history leave no room for a conclusion that 
+petitioners’ claims are expressly preempted by the Safety Act. 
+
+
+Nor are petitioners’ claims impliedly preempted by the 
+Safety Act. This Court has made clear that, where Congress has 
+spoken directly and clearly on the issue of preemption — as it 
+did in the Safety Act — there can be no finding of implied 
+preemption. Because the Safety Act contains both an express 
+preemption provision and an express anti-preemption provision 
+manifesting a congressional intent not to preempt, any inquiry 
+into implied conflict preemption is precluded. Thus, all of 
+Honda’s arguments about the alleged conflict between 
+petitioners’ claims and Standard 208 are irrelevant. 
+
+
+Even assuming, however, that this Court could reach the 
+issue of implied conflict preemption in this case, there is no 
+preemption here since petitioners’ claims do not conflict with 
+the Safety Act or Standard 208. Implied conflict preemption 
+applies only where it is impossible for a private party to comply 
+with both state and federal requirements or where state law 
+would frustrate the full purposes and objectives of Congress. 
+Impossibility is not an issue in this case, since Standard 208 
+undisputably would have permitted installation of an airbag in 
+Ms. Geier’s 1987 Honda and, in any event, would allow Honda 
+to pay damages to the Geiers. 
+
+
+Similarly, petitioners’ claims do not frustrate any federal 
+purpose. First, this lawsuit does not frustrate any Congressional 
+purpose, since Congress made clear (in the Act’s savings 
+clause) that the preservation of common law claims would aid 
+the accomplishment and execution of its full purposes. 
+Congress recognized that federal regulations and common law 
+liability can and should work together to create safer vehicles. 
+Given Congress’ expressed desire to preserve all common law 
+claims, petitioners’ claims would not frustrate the purpose of 
+
+
+15 
+
+
+the Safety Act. But a finding of implied preemption here 
+would. 
+
+
+Petitioners’ claims are also consistent with the goals 
+underlying Standard 208. As Congress intended, NHTSA 
+promulgated Standard 208 as a minimum performance standard 
+and left the common law undisturbed. NHTSA noted, however, 
+that the “most effective” system was “an airbag plus a lap belt 
+and shoulder harness,” 49 Fed. Reg. at 28986, and explicitly 
+relied on several incentives to encourage the use of airbags — 
+including the threat of “potential liability for any deficient 
+system.” Jd. at 29000. Petitioners’ attempt to hold Honda 
+liable for failing to install an airbag (in addition to a manual lap 
+belt and shoulder harness) in the 1987 Honda Accord is in 
+perfect harmony with this approach. 
+
+
+Finally, contrary to the lower court’s ruling, petitioners’ 
+claims do not frustrate the goals identified by NHTSA in its 
+1984 rule of “allowing consumers to adjust to the new [airbag] 
+technology” and “permitting experimentation with designs for 
+even safer systems.” Pet. App. 15. Regarding the former, the 
+agency declined to require airbags in all cars by administrative 
+fiat partly because it feared a public backlash. No such 
+backlash would result from common law liability in a no-airbag 
+suit, however, both because a manufacturer would not likely 
+change its conduct in response to a jury verdict and because, 
+even if the manufacturer did, it would make every effort to 
+promote public acceptability of airbags. This lawsuit is also in 
+line with NHTSA’s goal of promoting technological 
+experimentation, since (as Secretary Dole recognized) the 
+common law tort system actually encourages manufacturers to 
+experiment with safer product designs. Because petitioners’ 
+claims are entirely consistent with — and actually advance — the 
+goals underlying Standard 208, the lower court’s finding of 
+implied conflict preemption is in error. 
+
+
+16 
+
+
+ARGUMENT 
+
+
+This case is about federalism and the separation of 
+powers. For decades, this Court has emphasized that federal 
+preemption analysis is governed by two bedrock legal 
+principles based on these Constitutional concerns. 
+
+
+First, as the Court recently reaffirmed in Medtronic v. 
+Lohr, 518 U.S. 470, 485 (1996), a party seeking preemption of 
+state law bears a heavy burden of overcoming the long-standing 
+“presum[ption] that Congress does not cavalierly pre-empt 
+state-law causes of action.” In all preemption cases, a court 
+must start with an assumption “that the States’ historic police 
+powers cannot be superseded by a Federal Act unless that is 
+Congress’ clear and manifest purpose.” /d. (citation omitted). 
+These are not empty platitudes; they stem from and protect our 
+Constitutional system of federalism. See, e.g., Jones v. Rath 
+Packing, 430 U.S. 519, 525 (1977) (the presumption against 
+preemption “provides assurance that ‘the federal-state balance’ 
+. will not be disturbed unintentionally by Congress or 
+unnecessarily by the courts.”’) (citation omitted). 
+
+
+This presumption is especially strong where, as in this 
+case, preemption would displace the historic power of the states 
+to protect the health and safety of their citizens. See Medtronic, 
+518 U.S. at 485. Moreover, where preemption of common law 
+claims would leave injured individuals without any state or 
+federal remedy, which is the result sought by Honda here, a 
+court may find preemption only in the most compelling 
+circumstances. See English v. General Electric Corp.,496 U.S. 
+72, 87-90 (1990); Silkwood v. Kerr-McGee Corp., 464 U.S. 
+238, 251 (1984). 
+
+
+Second, in determining whether a state cause of action 
+is preempted by federal law, the Court’s “sole task is to 
+
+
+17 
+
+
+ascertain the intent of Congress.” California Fed. Sav. & Loan 
+Ass'n vy. Guerra, 479 U.S. 272, 280 (1987) (plurality). This 
+principle, too, is Constitutionally-based; it derives from and 
+preserves the separation of powers, limiting the courts to their 
+Constitutionally-assigned role. As long as Congress acts within 
+the scope of its powers, the courts must stay true to Congress’ 
+intent. They are not free to use the doctrine of implied 
+preemption (or anything else) to substitute their judgment for 
+that of Congress. 
+
+
+I, Petitioners’ Claims Are Not Expressly Preempted 
+And, In Fact, Are Expressly Preserved. 
+
+
+The provisions of the Safety Act that set forth Congress’ 
+intent regarding preemption — the preemption provision (15 
+U.S.C. § 1392(d)) and the savings clause (15 U.S.C. § 1397(k)) 
+— reveal that common law claims are expressly preserved, not 
+preempted. 
+
+
+A. The Preemption Provision Does Not 
+Encompass Common Law Claims. 
+
+
+The Safety Act’s preemption provision states in 
+pertinent part: 
+
+
+Whenever a Federal motor vehicle safety 
+standard established under this subchapter is in 
+effect, no State or political subdivision of a 
+State shall have any authority either to establish, 
+or to continue in effect, with respect to any 
+motor vehicle or item of motor vehicle 
+equipment any safety standard applicable to the 
+same aspect of performance of such vehicle or 
+item of equipment which is not identical to the 
+Federal standard. 
+
+
+18 
+
+
+15 U.S.C. § 1392(d). 
+
+
+The most notable feature of this language is the absence 
+of any reference at all to common law claims. Although the 
+absence of an explicit reference to common law does not 
+automatically preclude a finding of preemption, see Cipollone, 
+505 U.S. at 520-22, the absence of such a reference in Section 
+1392(d) combined with the express reference to “common law” 
+in the Act’s savings clause, 15 U.S.C. § 1397(k) (discussed in 
+more detail below), defeats any notion that Congress intended 
+the Safety Act’s preemption provision to encompass common 
+law claims. E.g., Chicago v. Environmental Defense Fund, 511 
+U.S. 328, 337 (1994) (“It is generally presumed that Congress 
+acts intentionally and purposely when it includes particular 
+language in one section of a statute but omits it in another.”) 
+(internal quotation marks omitted). Accord Keene Corp. v. 
+United States, 508 U.S. 200, 208 (1993).’ 
+
+
+Even putting aside the absence of any reference to 
+“common law” in the preemption provision, however, many 
+other aspects of Section 1392(d) and the Safety Act demonstrate 
+that Congress never intended to preempt tort suits against auto 
+manufacturers. 
+
+
+First, the preemption provision only prohibits a State 
+from establishing or continuing in effect a “safety standard” that 
+
+
+” The absence of any reference to common law claims in the Act’s 
+preemption provision would be telling even if the savings clause did not 
+exist. Congress has repeatedly shown its ability to refer to “common law” 
+when it intends to include it within the scope of a preemption clause. 
+Compare, e.g., Copyright Act of 1976, 17 U.S.C. § 301(a) (1977) 
+(preempting rights “under the common law, rule, or public policy”); 
+Domestic Housing and Internationa! Recovery and Financial Stability Act, 
+12 U.S.C. § 1715z-12, -18(e) (1989) (preempting any “State constitution, 
+statute, court decree, common law, rule or public policy”). 
+
+
+19 
+
+
+conflicts with a “Federal motor vehicle safety standard” 
+established under the Act. Although the term “safety standard,” 
+standing alone, may not be wholly self-defining, it does not 
+stand alone in Section 1392(d): rather, Congress used the same 
+term in the same provision fwice to refer, in the first instance, 
+to the type of federal law that is to be accorded preemptive 
+effect — a “Federal motor vehicle safety standard” — and, in the 
+other, to the type of state law that is subject to preemption — 
+again, a “safety standard.” “Safety standard,” moreover, is the 
+term used throughout the Act to refer to the administrative 
+standards that the Secretary is authorized to adopt pursuant to 
+the Act.* The use of the same term to refer to the state norms 
+that may be displaced by a Federal “safety standard” is, under 
+normal rules of statutory construction, indicative that the term 
+is meant to have the same meaning. See Estate of Cowart v. 
+Nicklos Drilling Co., 505 U.S. 469, 479 (1992) (It is a “basic 
+canon of statutory construction that identical terms within an 
+Act bear the same meaning.”) (citing cases); Morrison-Knudsen 
+Const. v. Director, Office of Workers Comp. Programs, 461 
+U.S. 624, 633 (1983) (“[A] word is presumed to have the same 
+meaning in all subsections of the same statute.”). See also 
+Medtronic, 518 U.S. at 489 (plurality opinion) (citing other uses 
+of the term “requirements” thrc ughout statute to demonstrate 
+that Congress’ focus is “enactments of positive law by 
+legislative or administrative bodies, not the application of 
+general rules of common law by judges and juries”). Thus, the 
+only sensible reading of the Safety Act’s preemption provision 
+
+
+* See, e.g., 15 U.S.C. § 1392(e) (“{[t}he Secretary may by order 
+amend or revoke any [fjederal motor vehicle safety standard . . .”); id. at 
+§ 1392(h) (“[t}he Secretary shall issue initial [f}ederal motor vehicle safety 
+standards. . .”); id. at § 1392(i)(1)A) (“the Secretary shall publish proposed 
+[f}ederal motor vehicle safety standards . . .”); id. at § 1392(i)(1)(B) (“the 
+Secretary shall promulgate [fjederal motor vehicle safety standards . . .”). 
+
+
+20 
+
+
+is that a “safety standard” promulgated under the Act will only 
+preempt a state legislative or administrative “safety standard” 
+that is not identical to the federal standard.’ 
+
+
+Second, the fact that Section 1392(d) limits the 
+preempted field to state and local safety standards “with respect 
+to” motor vehicles further demonstrates that preemption under 
+the Safety Act is limited to state positive law. The tort duties 
+respect to” motor vehicles, but rather are general state-law 
+responsibilities concerning the conduct of persons who 
+manufacture and sell all kinds of products. On the other hand, 
+state positive-law requirements to which the preemption 
+provision is directed are, in fact, standards “with respect to” 
+motor vehicles. See Medtronic, 518 U.S. at 501-02 (rejecting 
+preemption of common law claims on ground that “the general 
+state common-law requirements in this suit were not 
+specifically developed ‘with respect to’ medical devices. 
+Accordingly, they are not the kinds of requirements that 
+Congress and the [agency] feared would impede the ability of 
+federal regulators to implement and enforce specific federal 
+requirements.”’). 
+
+
+Third, the “safety standards” referred to in the Safety 
+Act’s preemption provision are “minimum standards” that 
+concern an “aspect of performance.” This was not an idle 
+
+
+* In this respect, the Safety Act is markedly different from the 
+statute in CSX Transp., Inc. v. Easterwood, 507 U.S. 658, 664 (1993), 
+which preempted any relevant “law, rule, regulation, order or standard,” 
+thus reaching virtually every method by which a State can impose legal 
+obligations, and the 1969 statute in Cipollone, which used the sweeping 
+
+
+term “requirement or prohibition . . . imposed under State law” to manifest 
+Congress’ intent to preempt all forms of State law. 505 U.S. at 521-22. 
+
+
+21 
+
+
+choice of words by Congress. As the Senate Report 
+accompanying the Safety Act explained: 
+
+
+Unlike the General Services Administration’s 
+procurement standards, which are primarily 
+design specifications, both the interim standards 
+and the new and revised standards are expected 
+to be performance standards, specifying the 
+required minimum safest performance of 
+vehicles but not the manner in which the 
+manufacturer is to achieve the specified 
+performance. .. . The Secretary would thus be 
+concerned with measurable performance of a 
+
+
+braking system, but not its design details. 
+
+
+S. Rep. No. 89-1301, 89th Cong., 2d Sess. 6 (1966) (emphasis 
+added). Common law claims, in contrast, do not set specific 
+minimum performance standards; they focus — as motor vehicle 
+safety standards do not — on the manner in which the 
+manufacturer chose to achieve the specific performance. 
+Indeed, this case focuses on whether Honda’s design was 
+negligent and/or defective. 
+
+
+Fourth, the preemption provision only applies to a 
+safety standard “establish[{ed]” or “continue[d] in effect” by a 
+“State or political subdivision of a State.” Construing an award 
+of damages to a tort victim as “establishing” or “continuing in 
+effect” an auto safety standard is at odds with the ordinary 
+meaning of Congress’ words. The duties relied on by tort 
+claimants are general duties under the common law that have 
+evolved over hundreds of years. Although a jury award of 
+damages would represent confirmation of a pre-existing 
+common law duty — for instance, the duty to act non-negligently 
+— only an inept grammarian could construe an award of 
+damages in a tort suit as “establishing” or “continuing in effect” 
+
+
+22 
+
+
+a safety standard or other regulation. On the other hand, it is 
+common parlance to say that a previously “established” statute 
+or regulation “continues in effect.” 
+
+
+Fifth, it makes no sense to construe the term “State or 
+political subdivision of a State” as encompassing a jury (or 
+judge) in a tort case. Political subdivisions of states, such as 
+counties and towns, often enact health and safety laws. For this 
+reason, it was logical for Congress to include “political 
+subdivisions” in the coverage of the Act’s preemption 
+provision, lest there be some ambiguity as to the breadth of the 
+term “State.” At the same time, no one would ordinarily 
+describe an award of damages by a jury or judge as being issued 
+by a “State or political subdivision of a State.” And it is 
+impossible to say that a jury or judge in an Article III federal 
+court is in any sense a “State or political subdivision thereof.” 
+
+
+Sixth, the Safety Act defines a “motor vehicle safety 
+standard” as a “minimum standard for motor vehicle 
+performance, which is practicable, which meets the need for 
+motor vehicle safety and which provides objective criteria.” 15 
+U.S.C. § 1391(2). This definition plainly encompasses state 
+statutory and administrative performance standards and, just as 
+plainly, does not encompass either general common law duties 
+or jury verdicts applying those duties in specific cases, neither 
+of which “provide objective criteria” of the type set forth in 
+administrative regulations. 
+
+
+Seventh, Section 1392(d) contains certain exceptions 
+that further show that Congress did not intend to preempt 
+common law claims. After describing its preemptive reach, the 
+statute provides that (1) states may “enforce” safety standards 
+that are “identical” to Federal safety standards; and (2) Federal, 
+state, and local governments may, with respect to vehicles 
+procured for their own use, establish safety requirements that 
+
+
+23 
+
+
+impose “a higher standard of performance” than that imposed 
+by an otherwise applicable federal standard. App. 1. Once 
+again, these provisions plainly relate to federal, state, and local 
+standards concerning the actual performance of vehicles — not 
+to common law claims, which have no conceivable relevance to 
+state and local “enforcement” of “identical” safety standards. 
+
+
+Eighth, if the preemption provision did apply to 
+common law claims, it would, by its terms, preempt virtually 
+all common law claims involving aspects of motor vehicle 
+performance governed by a federal safety standard, including 
+those routinely allowed by the courts over the past 30 years. 
+See n.2, supra. Federal motor vehicle safety standards are 
+currently in effect as to almost all aspects of performance of 
+motor vehicles and their equipment. If Honda is right, and the 
+preemption provision encompasses all common law claims 
+“which [are] not identical to [a] Federal standard” governing the 
+same “aspect of performance,” 15 U.S.C. § 1392(d), then 
+NHTSA’ s rules preempt almost all common law claims, leaving 
+design defect victims with no remedy. 
+
+
+This cannot be what Congress intended, especially since 
+the Safety Act provides no form of compensation for victims of 
+defectively designed automobiles. To use the words of 
+Medtronic, “{Honda’s} construction of [the statute] would 
+therefore have the perverse effect of granting complete 
+immunity from design defect liability to an entire industry that, 
+in the judgment of Congress, needed more stringent regulation 
+. . . It is, to say the least, ‘difficult to believe that Congress 
+would, without comment, remove all means of judicial recourse 
+for those injured by illegal conduct,’ and it would take language 
+much plainer than the text of [Section 1392(d)] to convince us 
+that Congress intended that result.” 518 U.S. at 487 (plurality) 
+
+
+24 
+
+
+(citation omitted). The same reasoning is applicable here. 
+Section 1392(d) does not encompass common law claims." 
+
+
+B. The Savings Clause Expressly 
+Preserves Common Law Claims. 
+
+
+If any doubt remained as to the inapplicability of the 
+Safety Act’s express preemption provision to common law 
+claims, it would be dispelled by the Safety Act’s express anti- 
+preemption provision — the savings clause — which 
+unambiguously preserves all common law claims. It states in 
+simple and straightforward terms: “Compliance with any 
+Federal motor vehicle safety standard issued under this 
+subchapter does not exempt any person from any common law 
+liability.” 15 U.S.C. § 1397(k) (emphasis added). 
+
+
+On its face, the savings provision is sweeping and 
+unambiguous. “Compliance with any Federal . . . safety 
+standard” is a phrase that does not admit of qualification. It 
+cannot be read to mean only compliance with certain federal 
+safety standards, or to except from its scope safety standards 
+that deal with the particular question of design or performance 
+at issue in a given common law action. Similarly, the phrase 
+“does not exempt any person from any common law liability” 
+
+
+'° The revised and recodified version of the preemption provision makes 
+even clearer that Congress did not intend to preempt common law claims. 
+It provides in pertinent part: “When a motor vehicle safety standard is in 
+effect under this chapter, a State or political subdivision of a State may 
+prescribe or continue in effect a standard applicable to the same aspect of 
+performance of a motor vehicle or motor vehicle equipment only if the 
+standard is identical to the standard prescribed under this chapter.” 49 
+U.S.C. § 30103(b), App. 2. Although the revisions were intended to make 
+no “substantive change,” Congress’ reference to safety standards being 
+“prescribed” further evidences that Congress has always had legislative and 
+administrative standards in mind. 
+
+
+25 
+
+
+does not on its face admit of qualification. “[A]ny common law 
+liability” is all-inclusive. That phrase cannot fairly be read to 
+mean that the Safety Act provides any basis for exempting any 
+defendant from any common law liability. 
+
+
+In the lower court, Honda attempted to avoid the plain 
+meaning of the savings clause by arguing that Section 1397(k) 
+is not really addressed to federal preemption at all. Instead, 
+Honda asserted that the savings clause was really designed to 
+ensure that compliance with a minimum federal standard would 
+not be a complete defense to liability under state law. This 
+reading of the savings clause makes no sense, particularly in 
+light of the interpretation of the Safety Act’s preemption 
+provision that Honda advanced below. According to Honda, 
+Section 1392(d) expressly preempts all common law claims that 
+relate to the same aspect of performance as a federal motor 
+vehicle safety standard. If that is so, there would be no need for 
+Congress to negate the affirmative state law defense of 
+compliance with those claims, because they would already be 
+extinguished by virtue of preemption. 
+
+
+Thus, under the reading advanced by Honda, the savings 
+clause could only logically relate to claims that survive the 
+preemption provision because they concern an aspect of motor 
+vehicle performance that is not subject to a federal safety 
+standard. But here Honda’s argument breaks down completely, 
+because there could be no affirmative defense of compliance 
+with a federal standard that does not exist. In other words, 
+under Honda’s reading of the preemption provision, the savings 
+clause could only apply in cases where it would necessarily 
+have no legal effect. Honda would essentially render the 
+section’s plain language meaningless — an approach this Court 
+has repeatedly disavowed. See Freytag v. C.I.R, 501 U.S. 868, 
+877 (1991) (our decisions “consistently have expressed a deep 
+reluctance to interpret a statutory provision so as to render 
+
+
+26 
+
+
+superfluous other provisions in the same enactment.”’) (citations 
+and internal quotation marks omitted). '' 
+
+
+Honda also argued below that Section 1397(k) is merely 
+a “general savings clause” and, as a rule, “general savings 
+clauses” only reflect Congress’ intent to preclude a finding of 
+implied field preemption. This argument fails for three reasons. 
+First, it blatantly conflicts with Honda’s other argument about 
+the meaning of Section 1397(k): i.e., that the savings clause was 
+designed to insure that mere compliance with a federal safety 
+standard is not an absolute defense to liability at common law. 
+Second, whatever the anti-preemptive effect of “general savings 
+clauses” may be, Section 1397(k) is not a “general savings 
+clause.” It specifically addresses and preserves from federal 
+preemption one aspect of state law: common law liability. 
+Assertions about “general savings clauses” simply do not apply 
+to it. Third, the assertion that Section 1397(k) only negates 
+implied field preemption cannot be squared with the language 
+of the preemption provision, which by its terms applies only 
+when there is a federal safety standard in place and a state 
+safety standard regulates “the same aspect of performance” as 
+the federal standard. 15 U.S.C. § 1392(d). Thus, the scope of 
+the preemption provision is clearly limited to situations where 
+state and federal regulations address the same matter. The 
+
+
+'' Even putting aside these insurmountable flaws in Honda’s 
+reasoning, it would have made no sense for Congress to include a provision 
+in the Safety Act negating the state law defense of compliance with federal 
+safety standards. At the time the Safety Act was enacted (and still today), 
+it was already the law in every state that compliance with a federal 
+regulation is not an absolute defense in an action for negligent failure to do 
+more. See Restatement (Second) of Torts § 288C (1964). See also Paul 
+Deuffert, The Role of Regulatory Compliance in Tort Actions, 26 Harv. J. 
+on Legis. 175 (1989). Since the law was already clear on this point at the 
+time Congress enacted the Safety Act, Honda’s interpretation would render 
+the savings clause a nullity in more ways than one. 
+
+
+27 
+
+
+preemption provision cannot be read to give rise to any broader 
+“field” preemption of matters not regulated by the federal 
+agency. Accordingly, there would be no reason for the savings 
+clause to address, and affirmatively negate, the prospect of such 
+broader field preemption. 
+
+
+c. The Safety Act’s Legislative History 
+Confirms That Congress Intended To 
+Preserve Common Law Claims. 
+
+
+Normally, the plain and unequivocal language of the 
+preemption provision and the savings clause would preclude 
+further analysis. See, e.g., TVA v. Hill, 437 U.S. 153, 184.29 
+(1984). But, if one looks to the Safety Act’s legislative history, 
+it only confirms that Congress intended to preserve all common 
+law claims. 
+
+
+1. The Senate Bill. The bill reported out of the 
+Senate Commerce Committee and passed by the full Senate 
+contained a preemption provision similar to the bill ultimately 
+enacted into law. See 112 Cong. Rec. 14,257 (1966). But the 
+Senate bill did not include a savings provision. Even so, the 
+Senate Committee Report stated, with respect to the preemption 
+provision of the bill, that: 
+
+
+[T]he Federal minimum safety standards need 
+not be interpreted as restricting State common 
+law standards of care. Compliance with such 
+standards would thus not necessarily shield any 
+person from product liability at common law. 
+
+
+S. Rep. No. 1301, 89th Cong., 2d Sess. 12 (1966). And Senator 
+
+
+Magnuson, the sponsor of the Senate bill, stated on the floor of 
+the Senate that: 
+
+
+28 
+
+
+one ee EP ER ee 
+
+
+Compliance with Federal standards would not 
+necessarily shield any person from broad 
+liability at the common law. The common law 
+on product liability still remains as it was. 
+
+
+112 Cong. Rec. 14,230 (1966) (emphasis added). 
+
+
+2. The House Bill. The original House bill 
+contained a preemption provision similar to the preemption 
+provision in the Senate bill, and, like the Senate bill, did not 
+contain a savings clause. See H.R. 13228, 89th Cong., 2d Sess. 
+(introduced on March 2, 1966). During hearings on that bill, 
+however, Tom Triplett, an attorney from South Carolina, raised 
+the following pointed concern regarding the possible effect of 
+the House bill on the liability of manufacturers under state law: 
+
+
+We need a traffic safety agency and we need to 
+research our problem from end to end, but we 
+don’t need to relieve the manufacturer of his 
+natural responsibility for the performance of his 
+product. 
+
+
+You may think that the manufacturer is afraid of 
+Government regulation but the cry you are 
+hearing may be “Brer Fox, please don’t throw 
+me in the briar patch.” If the Government 
+assumes the responsibility of safety design in 
+our vehicles, the manufacturers will join 
+together for another 30-year snooze under the 
+veil of Government sanction and in thousands of 
+courtrooms across the Nation wronged 
+individuals will encounter the stone wall of 
+“Our product meets Government standards,” 
+and an already compounded problem will be 
+
+
+recompounded. 
+
+
+29 
+
+
+House Hearings at 1249. 
+
+
+In direct response to Mr. Triplett’s testimony, the House 
+Committee amended the original House bill by inserting a 
+savings provision identical in all respects to the savings 
+provision ultinately signed into law: “Compliance with any 
+Federal motor vehicle safety standard issued under this title 
+does not exempt any person from any common law liability.” 
+See 112 Cong. Rec. at 19,657 (1966) (emphasis added). This 
+Savings provision was explained in the House Committee 
+Report as follows: 
+
+
+It is intended and this subsection specifically 
+establishes,\ that compliance with safety 
+siandards is not to be a defense or otherwise to 
+affect the rights of parties under common law 
+particularly those relating to warranty, 
+contract, and tort liability. 
+
+
+H.R. Rep. No. 1776, 89th Cong., 2d Sess. 24 (1966) (emphasis 
+added). 
+
+
+During the floor debates on the reported House bill, 
+Representative O’Neill proposed an amendment that would 
+have strengthened the remedial provisions of the bill by adding 
+criminal penalties for willful violations of the Act. In opposing 
+this amendment, Representative Dingell, a member of the 
+House Committee that had reported the bill, stated: 
+
+
+We are told . . . that this legislation is not strong 
+enough. A look at the bill, at what the 
+committee has brought to the floor, disproves 
+this. . . . [WJe have preserved every single 
+common-law remedy that exists against a 
+manufacturer for the benefit of a motor vehicle 
+
+
+30 
+
+
+purchaser. This means that all of the warranties 
+and all of the other devices of common law 
+which are afforded to the purchaser, remain in 
+the buyer, and they can be exercised against the 
+manufacturer. 
+
+
+112 Cong. Rec. 19,663 (1966) (emphasis added). 
+
+
+The amendment was defeated. /d. at 19,664. The 
+reported bill then passed the full House with certain minor 
+amendments not relevant here. /d. at 19,664-19,669. 
+
+
+3. The Senate-House Conference. A Senate- 
+House Conference Committee was convened to reconcile the 
+differences between the Senate and House bills. The 
+Conference Committee adopted the savings provision of the 
+House bill in haec verba, and also adopted the House version 
+of the preemption provision with certain minor changes not 
+relevant here. 
+
+
+The Conference Committee Report made no mention of 
+the Senate’s agreement to the savings provision included in the 
+House bill. But the Senate conferees’ understanding of the 
+savings provision was clearly stated on the floor of the Senate 
+by Senator Magnuson, the sponsor of the Senate bill, as well as 
+by Senator Cotton, a conferee. Senator Magnuson stated: 
+
+
+The Senate conferees accepted the House 
+provision that compliance with Federal 
+standards does not exempt any person from 
+common law liability. This provision makes 
+explicit, in the bill, a principle developed in the 
+Senate report. This provision does not prevent 
+any person from introducing in a lawsuit 
+evidence of compliance or noncompliance with 
+
+
+31 
+
+
+Federal standards. No court rules of evidence 
+are intended to be altered by this provision. 
+
+
+112 Cong. Rec. 21,487 (1966) (emphasis added) And Senator 
+Cotton explained: 
+
+
+The Senate conferees also yielded on a 
+provision, inserted by the House, declaring that 
+compliance with any Federal standard does not 
+exempt any person from common law liability. 
+Nevertheless, it seems clear and was, I believe, 
+the consensus of the conferees on both sides, 
+that proof of compliance with Federal standards 
+may be offered in any proceeding for such 
+relevance and weight as courts and juries may 
+give it. 
+
+
+Id. at 21,490. 
+*“* * 
+
+In sum, the legislative history confirms that the Safety 
+Act means what it says: Congress expressly preserved all 
+common law claims. It is impossible to find in the preemption 
+provision and the savings clause a “‘clear’ and ‘manifest’” 
+federal statutory purpose “[t]o displace traditional state [law] in 
+such a manner.” BFP vy. Resolution Trust Corp., 511 U.S. 531, 
+544 (1994) (quotation omitted). To the contrary, Congress 
+sought to achieve the Safety Act’s purposes both by authorizing 
+minimum federal performance standards and by preserving 
+common law tort remedies for those injured in car accidents — 
+and the incentive for design improvements that such remedies 
+create. 
+
+
+This approach is hardly unusual. Congress has 
+
+
+repeatedly preserved common law claims, despite their 
+arguably regulatory effect, while preempting direct state 
+
+
+32 
+
+
+regulation. For example, in Goodyear Atomic Corp. v. Miller, 
+486 U.S. 174 (1988), this Court held: 
+
+
+The effects of direct regulation on the operation 
+of federal projects are significantly more 
+intrusive than the incidental regulatory effects of 
+such an additional award provision. Appellant 
+may choose to disregard Ohio safety regulations 
+and simply pay an additional workers’ 
+
+
+compensation award if an employee’s injury is 
+caused by a safety violation. We believe 
+
+
+mo nae tac dag Of 
+Silkwood v. Kerr McGee Corp., 464 U.S. at 256 
+(Congress was willing to accept regulatory 
+consequences of application of state tort law to 
+radiation hazards even though direct state 
+regulation of safety aspects of nuclear energy 
+was preempted). 
+
+
+Id. at 185-86 (footnote omitted; emphasis added). Similarly, in 
+Cipollone, seven members of this Court agreed that, although 
+a i965 cigarette labeling act expressly preempted state 
+regulatory law, it did not preempt state common law, noting 
+that “there is no general, inherent conflict between [express] 
+federal preemption of state [regulatory] warning requirements 
+and the continued vitality of state common law [damages] 
+actions.” 505 U.S. at 518 (plurality); id. at 533-34 (Blackmun, 
+J., concurring)."” 
+
+
+" See also, e.g., Yamaha Motor Corp. v. Calhoun, 516 U.S. 199, 
+211 (1996) (variations in state remedies have “long been deemed compatible 
+with federal maritime interests,” and the lack of a federal comprehensive 
+tort recovery regime in the federal act suggests that state tort actions are not 
+
+
+33 
+
+
+This approach, moreover, makes good sense. As Honda 
+well knows, and Congress certainly understood when it passed 
+the Safety Act, regulatory agencies are notoriously subject to 
+capture by those they are intended to regulate and, even in the 
+best circumstances, move laboriously and cautiously. Given the 
+purpose of the Safety Act (to promote auto safety), it was 
+reasonable for Congress to preempt state legislative and 
+administrative standards that are different than federal 
+regulations, but continue to allow the common law tort system 
+to play its traditional role of compensating injury victims, 
+encouraging safer designs, and prompting the federal 
+government to set higher performance standards. That is 
+precisely the approach reflected in the Act, which expressly 
+preserves all common law claims. 
+
+
+Il. Petitioners’ Claims Are Not Impliedly Preempted. 
+
+
+Bypassing Congress’ express preservation of all 
+common law claims, the lower court held that petitioners’ 
+claims are impliedly preempted because, in the court’s view, 
+they would frustrate certain policies underlying Standard 208. 
+That ruling is wrong on two counts. First, the court should 
+never have resorted to implied preemption analysis here. When 
+Congress expressly and unequivocally states its intent to 
+preserve all common law claims, the courts are prohibited from 
+disregarding that clear statement and finding that Congress (or 
+a regulatory agency) implicitly preempted some of them 
+anyway. Second, even if it were permissible to resort to 
+
+
+preempted); English v. General Electric Co., 496 U.S. 72, 85 (1990) (state 
+minimum wage laws, child labor laws, and tort claims would not be 
+preempted by federal law at nuclear power plants even though they may 
+policies). 
+
+
+a 
+
+
+—— 
+
+
+implied , bysis here, petiti slain seictiaiie 
+the federal government’s decision to permit, but not mandate, 
+the installation of airbags in all automobiles. 
+
+
+A. The Question Of Implied Preemption 
+Cannot Be Reached Because Congress 
+Unambiguously Preserved All 
+Common Law Claims. 
+
+
+This Court has made clear that, where Congress has 
+spoken directly and clearly on the preemption issue at stake — 
+as it did in the Safety Act — the courts cannot search for some 
+implied Congressional intent that differs from what Congress 
+said. In Cipollone, a seven-member majority stated: 
+
+
+When Congress has considered the issue of 
+preemption and has included in the enacted 
+1 ieee ee ele othennsinh tent 
+issue, and when that provision provides a 
+‘reliable indicium of ‘onal i ids 
+respect to state authority,’ there is no need to 
+infer congressional intent to preempt state laws 
+from the substantive provisions of the 
+levislati 
+
+
+505 U.S. at 517 (quotations deleted). This approach, the Court 
+said “is a variant of the familiar principle of expressio unius est 
+exclusio alterius: Congress’ enactment of a provision defining 
+the preemptive reach of a statute implies that matters beyond 
+that reach are not preempted.” /d. 
+
+
+The lower court nevertheless conducted an implied 
+preemption analysis here, holding that this Court’s subsequent 
+decision in Freightliner Corp. v. Myrick, 514 J.S. 280 (1995), 
+
+
+35 
+
+
+authorized its foray and “rejected” our “interpretation” of 
+Cipollone. Pet. App. 13. In so doing, the lower court misread 
+Myrick and Cipollone — and misunderstood our view of both. 
+
+
+In Myrick, this Court held that the Safety Act does not 
+preempt a claim that a truck was defectively designed because 
+it lacked anti-lock brakes. 514 U.S. at 286-87. Unlike in this 
+case, there was no federal safety standard in effect in Myrick, so 
+the language of the Act’s preemption provision (15 U.S.C. 
+§1392(d)), which applies only when a federal standard is “in 
+effect,” and the savings clause (15 U.S.C. §1397(k)), which 
+applies only when there has been “compliance” with such a 
+standard, were simply not applicable. Without deciding the 
+effect or scope of those provisions, see 514 U.S. at 287 n.3, this 
+Court held that the state common law claims at issue were 
+neither expressly nor impliedly preempted because, at bottom, 
+there was no federal law in place with which they could even 
+arguably conflict. /d. at 286. 
+
+
+In the course of the decision, the Court took pains to 
+reject a misinterpretation of Cipollone that had surfaced in the 
+lower courts. The Court noted that some lower courts had read 
+Cipollone to hold that “implied pre-emption cannot exist when 
+Congress has chosen to include an express pre-emption clause 
+in a statute.” Jd. at 287. “This argument,” the Court said, “1s 
+without merit.” Jd. Myrick then re-emphasized what the Court 
+had already said in Cipollone — the inclusion of an express 
+preemption provision in a statute suggests, but does not 
+automatically mean, that matters beyond the provision’s reach 
+are not impliedly preempted: 
+
+
+The fact that an express definition of the pre- 
+emptive reach of a statute “implies” — ie. 
+supports a reasonable inference — that Congress 
+did not intend to pre-empt other matters does 
+
+
+36 
+
+
+514 U.S. at 288-89. 
+
+
+This was the language that the lower court cited as 
+demonstrating that resort to implied preemption here is proper 
+and that our interpretation of Cipollone is wrong. Pet. App. 13. 
+But we agree wholeheartedly with this language. Thus, if the 
+Safety Act only contained its express preemption clause, that 
+provision alone would not necessarily prohibit a finding of 
+implied preemption. “At best, Cipollone supports an inference. 
+.. , it does not establish a rule.” Myrick, 514 U.S. at 289. 
+
+
+The Safety Act, however, does not just contain an 
+express preemption clause; it also contains an express and 
+unequivocal anti-preemption clause. And that fact makes all of 
+the difference. For when Congress has expressly said that the 
+precise aspect of state law at issue is not preempted, the courts 
+are not free to search farther. The courts’ sole task is to 
+ascertain the intent of Congress and, if Congress has spoken 
+clearly (as it did in the Safety Act), the courts cannot imply 
+something contrary to what Congress expressly said. That 
+proposition is the core of this Court’s holding in Cipollone: 
+when Congress’ express words provide “a reliable indicium of 
+congressional intent with respect to state authority, there is no 
+need to infer congressional intent to preempt state laws. . ..” 
+505 U.S. at 517. And that proposition was in no way 
+disavowed in Myrick. 
+
+
+37 
+
+
+Cipollone, of course, did not involve statutes with 
+express anti-preemption provisions, but that fact is of no 
+moment; the principle is still applicable and sound. Moreover, 
+the two cases cited in Cipollone for this principle did contain 
+express anti-preemption provisions and, in both cases, this 
+Court held that those provisions barred resort to implied 
+preemption. Thus, in Malone v. White Motor Corp., 435 U.S. 
+497, 504-05 (1978), this Court noted that implied conflict 
+preemption may be found where “Congress does not clearly 
+state in its legislation whether it intends to preempt state laws,” 
+but refused to consider implied conflict preemption because of 
+the express anti-preemption provisions in the statutes at issue, 
+saying that “the expression of congressional intent [not to 
+preempt state law] should control the decision here.” Similarly, 
+in California Fed. Sav. & Loan Ass'n v. Guerra, 479 U.S. 272, 
+282 (1987), the Court refused to undertake an implied 
+preemption analysis because the express anti-preemption 
+provisions made Congress’ intent not to preempt clear. Accord 
+id. at 295 (Scalia, J., concurring). 
+
+
+By disregarding the Safety Act’s express anti- 
+preemption provision and conducting an implied preemption 
+inquiry, the lower court violated the teachings of these cases 
+and embarked on a journey contrary to the two basic principles 
+of preemption analysis emphasized most recently in Medtronic 
+~ and the constitutional values from which they flow. First, 
+because of the value the Constitution places on federalism, 
+preemption analysis begins with a strong presumption against 
+preemption. In recognition of this value, in myriad cases in 
+myriad areas, this Court has adopted and rigorously applied 
+“clear statement rules” to legislation that might encroach on the 
+
+
+38 
+
+
+states’ sovereign powers within our federalist system.'’ In so 
+doing, this Court has empbasized that Congress’ power to 
+impose its will on the states under the Supremacy Clause “is an 
+extraordinary power in a federalist system,” Gregory, 501 U.S. 
+at 460, and that, to avoid disrupting the “delicate balance” of 
+federalism, id., “it is incumbent upon the federal courts to be 
+certain of Congress’ intent before finding that federal law 
+overrides” state law. Atascadero State Hospital v. Scanlon, 473 
+U.S. 234, 242 (1985). In this case, however, Congress has 
+made a clear statement — of its intent not to preempt. To allow 
+consideration of implied preemption here would be to turn this 
+entire approach on its head. 
+
+
+Second, because of the value our Constitution places on 
+the separation of powers, the courts’ sole task in preemption 
+analysis is to ascertain Congress’ intent. In recognition of this 
+value, this Court has repeatedly made clear that Congress’ plain 
+words must be given their meaning — whether or not the courts 
+agree with the result." To permit a court to disregard an 
+
+
+'’ See, e.g., Florida Prepaid Postsecondary Educ. Expense Board 
+v. College Savings Bank, 119 S. Ct. 2199, 2205 (1999) (Congressional 
+abrogation of states’ sovereign immunity requires “unmistakably clear” 
+Statutory language); Gregory v. Ashcroft, 501 U.S. 452, 460 (1991) 
+(Congress may not encroach on sovereign powers reserved to states by 
+Tenth Amendment absent “plain statement” of intent to do to so); id. at 2401 
+(citing cases). See also U.S. v. Lopez, 514 U.S. 549, 610 (1995) (Souter, J., 
+dissenting) (discussing clear statement rules in various contexts). C/ 
+College Savings Bank v. Florida Prepaid Postsecondary Educ. Expense 
+Board, 119 S. Ct. 2219 (1999) (state cannot be deemed to have waived its 
+sovereign immunity absent “clear” and “unequivocal” declaration of intent 
+to do so). 
+
+
+See, e.g., Brogan v. United States, 522 U.S. 398, 408 (1998) 
+(“[c]ourts may not create their own limitations on legislation, no matter how 
+alluring the policy arguments for doing so. . .”); Norfolk & Western Railway 
+Co. v. American Train Dispatchers’ Ass'n, 499 U.S. 117, 128 (1991) (“[i}f 
+
+
+39 
+
+
+express anti-preemption provision as clearly worded as Section 
+1397(k) would contradict this fundamental tenet — and make 
+implied preemption an open invitation to judicial activism and 
+the displacement of state law in violation of Congress’ intent. 
+
+
+There is one additional reason here why resort to 
+implied preemption would be improper. In this case, faced with 
+the unequivocal language of the Safety Act’s savings clause and 
+the uniform appellate decisions rejecting federal preemption of 
+common law design defect claims, see n.2 supra, the federal 
+agency involved (NHTSA) did not purport to be exercising any 
+power to preempt any such claims. Thus, despite the extensive 
+rulemaking provisions of the Administrative Procedure Act, 5 
+U.S.C. § 553 (1994), and despite the intense political battle that 
+took place over the content of Standard 208, no one — no 
+person, no State, and no Member of Congress — received any 
+notice that any person’s right to bring state common law claims 
+might be preempted by the agency’s revised standard. And, in 
+the 48 pages of tiny print summarizing the comments and the 
+agency’s reasons for adopting the Rule, there is not a single 
+word suggesting that anyone ever commented on — or that the 
+agency even considered — that possibility. See 49 Fed. Reg. 
+28962-29010. 
+
+
+In other words, the type of implied preemption found by 
+the lower court here is implied preemption of state common law 
+by federal agency silence on the subject — in the face of an 
+
+
+the intent of Congress is clear, that is the end of the matter; for the court. . . 
+must give effect to the unambiguously expressed intent of Congress.”); 
+Commissioner of Internal Revenue v. Asphalt Products Co., Inc., 482 U.S. 
+117, 121 (1987) (“Judicial perception that a particular result would be 
+unreasonable may enter into the construction of ambiguous provisions, but 
+cannot justify disregard of what Congress has plainly and intentionally 
+provided.”). 
+
+
+40 
+
+
+express statutory provision prohibiting such preemption. 
+Surely, this will not do. To begin with, given Congress’ 
+express prohibition of preemption of common law claims, 
+NHTSA simply lacked the power to preempt such claims, even 
+if it wanted to. See, e.g., Lyng v. Payne, 476 U.S. 926, 937 
+(1986) (“an agency’s power is no greater than that delegated to 
+it by Congress”). Cf Louisiana Public Service Comm'n v. 
+FCC, 476 U.S. 355, 374 (1986) (“an agency literally has no 
+power to act, let alone pre-empt the validly enacted legislation 
+of a sovereign State, unless and until Congress confers power 
+upon it.”) Even assuming, however, that NHTSA has the 
+power to preempt common law, its failure to say a word on the 
+subject is further reason to foreclose any inquiry into implied 
+conflict preemption here. This Court has previously said that 
+“because agencies normally address problems in a detailed 
+manner and can speak through a variety of means, including 
+regulations, preambles, interpretive statements, and responses 
+to comments, we can expect that they will make their intentions 
+clear if they intend for their regulations to be exclusive.” 
+Hillsborough County v. Automated Med. Labs, Inc., 471 U.S. 
+714, 718 (1985). At a minimum, we should expect no less 
+before a court may find that an agency preempted state common 
+law claims under an authorizing statute expressly preserving 
+those claims. 
+
+
+B. Even Assuming That _ Implied 
+Preemption Can Be Reached Here, 
+Petitioners’ Claims Are Not 
+Preempted Because They Do Not 
+Conflict With Federal Law. 
+
+
+Even assuming, however, that implied preemption 
+analysis is proper in this case, there is no preemption here. As 
+Myrick explained, implied preemption only arises when there 
+is an “actual conflict” between federal and state law — either 
+
+
+4) 
+
+
+wa 
+
+
+because it would be “impossible for a private party to comply” 
+with both or because the state law “stands as an obstacle to the 
+accomplishment and execution of the full purposes of 
+Congress.” 514 U.S. at 287 (citations omitted). “Impossibility” 
+is not an issue in this case, because it is undisputed that 
+Standard 208 would have permitted installation of an airbag in 
+petitioners’ vehicle and, in any event, would allow the payment 
+of compensation to the Geiers. The question, then, is whether 
+petitioners’ claims somehow “stand as an obstacle” to federal 
+purposes. The answer is no, since this lawsuit complements the 
+goals of the Safety Act and Standard 208. 
+
+
+1. Petitioners’ Claims Are Fully 
+Consistent with the Safety Act. 
+
+
+First, there is no conflict between petitioners’ claims 
+and Congress’ goals in passing the Safety Act, given that 
+Congress made the policy judgment (as embodied in the Act’s 
+savings clause) that the preservation of all common law claims 
+would aid the accomplishment and execution of its full 
+purposes. If Congress’ words mean anything, they show that 
+Congress intended the common law tort system to exist 
+alongside the new regulatory regime. This approach makes 
+sense, as Congress has often relied on the combination of 
+minimum federal regulations and common law liability to 
+create safe and effective consumer products — while also giving 
+victims the right to compensation for their injuries. See supra 
+at 32-34. Given this fact, it can hardly be said that petitioners’ 
+claims would frustrate Congressional purposes; rather, it is a 
+finding of preemption that would impermissibly frustrate the 
+purposes and policies underlying the Safety Act. 
+
+
+The lower court nonetheless reasoned that allowing 
+
+
+Honda to be held liable in this case would “interfere with the 
+method by which Congress intended to meet its goal of 
+
+
+42 
+
+
+: 
+f 
+; 
+j 
+¥. 
+t 
+; 
+: 
+
+
+increasing automobile safety” — i.e., “delegat[ing] authority to 
+prescribe specific motor vehicle safety standards to the 
+Secretary of Transportation. . . .” Pet. App. 14 (citations 
+omitted; emphasis in original). Authorizing the Secretary of 
+Transportation to prescribe motor vehicle safety standards, 
+however, was only one of the methods by which Congress 
+intended to meet its goal of increasing auto safety. Another was 
+preserving common law claims. The lower court erred by 
+finding that the former method impliedly eliminated the latter, 
+when Congress expressly authorized both. 
+
+
+Honda made a similar error below, arguing that 
+petitioners’ claims would destroy the uniformity the Safety Act 
+is supposedly meant to achieve. Uniform safety standards may 
+be the goal of Section 1392(d), but preservation of common law 
+claims is the goal of Section 1397(k). Congress did not intend 
+either section to override the other. To the contrary, Congress © 
+adopted both sections — and preserved all common law claims 
+— to achieve the sole stated purpose of the Safety Act: “to 
+reduce traffic accidents and deaths and injuries to persons 
+resulting from traffic accidents.” 15 U.S.C. § 1381. As the 
+New York Court of Appeals recently explained, “the uniformity 
+argument is plainly insufficient in this case to supply the 
+implied ‘conflict’ preemption ‘kicker,’ necessary to override the 
+other express and controlling language of the Safety Act’s 
+preemption and savings clauses, and the legislative history.” 
+Drattel v. Toyota Motor Corp., 699 N.E.2d 376, 384 (N.Y. 
+1998) (quotations and citations omitted). 
+
+
+2. Petitioners’ Claims Are Fully 
+Consistent with Standard 208. 
+
+
+Petitioners’ claims are also fully consistent with the 
+
+
+letter and spirit of Standard 208. When Secretary Dole 
+promulgated Standard 208, she took the approach Congress 
+
+
+43 
+
+
+authorized under the Safety Act: she issued a performance 
+standard allowing manufacturers to use the designs of their 
+choice, but did not purport to preempt any common law claims. 
+At the same time, she specifically found that “an airbag plus a 
+lap and shoulder belt” was the “most effective system” (49 Fed. 
+Reg. at 28986) and relied on three separaté incentives to 
+encourage manufacturers to utilize this system: the phase-in of 
+the passive restraint requirement; the “extra credit” for the use 
+of “non-belt” passive restraints (i.e., airbags); and the threat of 
+“potential liability for any deficient systems.” Jd. at 29000-01. 
+Petitioners’ attempt to hold Honda liable for failing to install an 
+airbag (in addition to a manual lap belt and shoulder harness) in 
+the 1987 Honda Accord is in total harmony with this approach. 
+
+
+The lower court nevertheless held petitioners’ claims 
+impliedly preempted on the theory that they would conflict with 
+two goals underlying the Secretary’s decision to make airbags 
+“one of several options” available to comply with “the passive 
+restraint requirements of Standard 208” — specifically, 
+“allowing consumers to adjust to the new [airbag] technology” 
+and “permitting experimentation with designs for even safer 
+systems.” Pet. App. 15 (citation omitted). This holding was 
+erroneous for several reasons. 
+
+
+First, as a threshold matter, the court below failed to 
+recognize a simple, yet dispositive, fact: petitioners’ vehicle 
+was not subject to the passive restraint requirements of 
+Standard 208. As explained above, the 1984 version of 
+Standard 208 applicable in this case contained a phase-in 
+schedule that gave manufacturers three years to install some 
+form of passive restraint in their vehicles. When Ms. Geier’s 
+1987 Honda Accord was manufactured, Standard 208 required 
+that “a minimum of 10 percent of all cars . . . must have 
+automatic occupant crash protection.” App. 8. Honda did 
+manufacture 10 percent of its cars to meet that requirement 
+
+
+44 
+
+
+| 
+| 
+| 
+
+
+ee eed 
+
+
+see? 
+
+
+(with automatic seatbelts in some cars and airbags in others), 
+but the 1987 Honda Accord was not one of those cars. Given 
+that fact, acommon law claim that this vehicle should have had 
+an airbag (in addition to its manual lap belt and shoulder 
+harness) — even if successful — could not create any conflict 
+between state law and the federal passive restraint requirements. 
+
+
+Honda may nonetheless argue that petitioners’ claims 
+conflict with the federal government’s decision to phase in the 
+passive restraint requirement over a three-year period (rather 
+than require 100% compliance all at once). Thus, for example, 
+Honda might contend that the federal government chose a 
+gradual phase-in in order to promote public acceptance of 
+passive restraint technology, and that a tort verdict holding a 
+manufacturer liable for failing to install an airbag would 
+conflict with this goal. Any such argument would fail, however, 
+for the simple reason that, as a factual matter, no tort verdict 
+could have prompted any auto maker to start installing airbags 
+in its cars during the phase-in period. NHTSA itself estimated 
+that “installation of airbags in compact and larger cars would 
+require 3 to 4 years lead-time.” 49 Fed. Reg. at 28989. 
+Consequently, even if Honda was held liable the day after the 
+first 1987 Honda Accord was sold, the company could not 
+change its behavior and install airbags in all of its cars until 
+after the conclusion of the phase-in period. Moreover, since 
+the crash that prompted this case did not take place until 
+January 1992, when the phase-in period was over and Congress 
+had already enacted legislation ordering NHTSA to require 
+airbags in all new cars, 49 U.S.C. § 30127(b), petitioners’ 
+claims in this case could not possibly interfere with the 
+government’s decision to phase in passive restraints between 
+1986 and 1989. Thus, even assuming that tort verdicts have a 
+powerful regulatory effect on manufacturers’ conduct — a 
+dubious proposition at best (see infra at 47-48) — under the facts 
+of this case any claim of conflict is a chimera. 
+
+
+45 
+
+
+Second, the fact that the federal government made 
+airbags one of several options that manufacturers could choose 
+to comply with Standard 208 does not, in itself, pose any 
+conflict with the Geiers’ common law claim that Honda should 
+have installed an airbag, in addition to a manual lap belt and 
+shoulder harness, in the car in this case. Standard 208’s options 
+framework is simply a reflection of the Safety Act itself, which 
+authorizes NHTSA to issue minimum performance standards 
+(not mandate specific designs). See 15 U.S.C. § 1391(2)."° In 
+keeping with this statutory mandate, a// federal standards 
+promulgated pursuant to the Act permit design “options,” some 
+implicitly and others explicitly. Nothing in the Safety Act or its 
+legislative history suggests that the preemptive effect of a 
+federal standard turns on whether it implicitly or explicitly 
+permits such choices.'® 
+
+
+Moreover, to make preemption turn on whether the 
+design option in question was explicitly mentioned in the 
+federal standard would lead to bizarre and unjust results. If 
+preemption took place only when the federal standard explicitly 
+mentioned the design in question, then petitioners’ claims 
+would not be preempted if Standard 208 only required manual 
+
+
+'® Indeed, Secretary Dole noted that “several commenters 
+questioned the Department's authority to issue an airbag, only standard, 
+claiming it would be a ‘design’ standard,” and repeatedly emphasized that 
+she was issuing a “performance standard,” extolling the advantages of that 
+approach over issuing a federal mandate imposing even the best design. 49 
+Fed. Reg. at 29001. See also id. at 28996, 28997. 
+
+
+'* Standard 208 is not unique in explicitly providing optional 
+means of compliance. See, e.g., Standard 125 (warning devices); Standard 
+202 (head restraints); Standard 217 (bus emergency exits and window 
+retention and release). 49 C.F.R. §§ 571.101 et seq. (1998). Thus, if the 
+“options” argument is right, then at least some common law claims would 
+be barred in regard to each of these matters. 
+
+
+46 
+
+
+CE OEE OP LOI GOODY ER I IN LT 
+
+
+oo 
+
+
+belts (and silently permitted airbags), but would be preempted 
+because Standard 208 actually said that manufacturers could put 
+in airbags, too. Under this approach, the Geiers would actually 
+be worse off because NHTSA explicitly allowed Honda to use 
+the design the Geiers say it should have used. That cannot be 
+right. Moreover, from the manufacturers’ standpoint, it 1s 
+certainly “fairer” to hold Honda accountable for failing to use 
+a design that was specifically mentioned (and called “the most 
+effective system”) by the federal government than it would be 
+to hold Honda accountable for failing to use a design that was 
+never mentioned by the federal government. But the “options” 
+rationale leads to the opposite result. 
+
+
+Third, petitioners’ claims do not conflict with Secretary 
+Dole’s goal of “allowing consumers to adjust to the new 
+[airbag] technology.” Pet. App. 15. To be clear, Secretary 
+Dole did express concern that a federally-imposed “airbag 
+only” rule “could lead to a backlash affecting the acceptability 
+of airbags.” 49 Fed. Reg. at 29001. This makes sense, given 
+that the automobile industry had previously waged “the 
+regulatory equivalent of war against the airbag,” State Farm, 
+463 U.S. at 49-50, and no doubt would have made every effort 
+to poison public opinion against a government-mandate 
+requiring airbags in all cars. It was certainly reasonable for the 
+agency to expect that a new regulation requiring airbags in 
+every new vehicle across America would generate considerable 
+
+
+corporate opposition and public controversy. 
+
+
+The same could not be said, however, of a judge or jury 
+verdict holding a manufacturer liable for failing to install an 
+airbag. To begin with, unlike a government mandate, such a 
+common law verdict would not force a manufacturer to change 
+its conduct in any way — let alone to install airbags in its entire 
+fleet of vehicles. Rather, all the imposition of liability would 
+require is that the manufacturer compensate its victim for his or 
+
+
+47 
+
+
+her injuries. See Goodyear Atomic Corp. v. Miller, 486 U.S. at 
+185-86.'" Even assuming, however, that a manufacturer 
+decided to change its conduct and install airbags to avoid 
+further liability, it would undoubtedly make every effort to 
+promote the safety of the new systems, in order to sell more 
+cars. This is precisely the opposite of what Secretary Dole 
+feared the auto makers would do in response to a government- 
+mandated airbag requirement - /.e., launch another war against 
+NHTSA by claiming that airbags are unsafe. Thus, unlike a 
+government regulation requiring airbags in all cars, a jury 
+finding that a manufacturer was negligent for failing to install 
+an airbag would actually help educate the public about the 
+benefits of the technology, thereby promoting public 
+acceptability of airbags — which is exactly what the agency 
+wanted in the first place." 
+
+
+Fourth, for similar reasons, petitioners’ claims do not 
+conflict with NHTSA’s interest in “permitting experimentation 
+with designs for even safer systems.” Pet. App. 15. While a 
+federal “airbags only” mandate would outlaw such 
+
+
+'” Indeed, the first “no-airbag” recovery took place in 1984, when 
+Ford Motor Company paid $1.8 million to settle a claim that a Pinto was 
+defectively designed because it lacked an airbag. See Burgess v. Ford 
+Motor Co., No. DV79-355 (Ala. Cir. Ct. 1984). Yet the auto makers 
+continued to make cars without airbags for another decade, until Congress 
+finally passed a law mandating airbags in all vehicles. See 49 U.S.C. § 
+30127(b). 
+
+
+'* There are other reasons that common law claims would not 
+conflict with NHTSA's goal of allowing consumers to adjust to airbag 
+technology. To begin with, no manufacturer would decide to install airbags 
+in response to common law claims unless it was convinced the public would 
+accept them. In addition, any manufacturer that chose to install airbags in 
+response to common law verdicts would have several years to promote their 
+acceptance. See 49 Fed. Reg. at 28989 (estimating that “installation of 
+airbags in compact and large: ars would require 3 to 4 years lead-time”). 
+
+
+48 
+
+
+experimentation, the prosecution of common law claims would 
+encourage such experimentation by spurring the manufacturers 
+to avoid unduly dangerous designs and seek out especially safe 
+ones. As Secretary Dole recognized, common law claims create 
+an incentive for design innovation an. he development of safer 
+systems because the manufacturers understand that, if they do 
+not utilize an available safer system, they could be held liable 
+for the injuries that result. See 49 Fed. Reg. at 49000. 
+
+
+The argument that tort liability stifles innovation is also 
+belied by the auto manufacturers’ own arguments in the 1984 
+rulemaking. According to Secretary Dole, the auto industry 
+persistently complained that “the presence of the government in 
+the middle of the debate over passive restraints has distorted the 
+activities of both automobile manufacturers and insurance 
+companies.” 49 Fed. Reg. at 29003. “If the marketplace had 
+been allowed to work,” the industry argued, “insurance 
+incentives would have led to the voluntary adoption of one or 
+more systems by the manufacturers.” /d. Thus, in the 
+manufacturers’ opinion, an unregulated environment is the most 
+fertile ground for growth and adoption of diverse technology. 
+Any such environment, however, would necessarily include the 
+potential imposition of tort liability for defective designs, since 
+the Safety Act’s preemption clause only applies where there is 
+a “Federal motor vehicle safety standard in effect.” 15 U.S.C. 
+§ 1392(d). Thus, absent government regulation, there would be 
+no preemption of any form of state law. Clearly, then, the auto 
+manufacturers understand that the common law can and does 
+readily coexist with innovation and technological diversity. 
+
+
+In short, all of the safety goals that Secretary Dole 
+feared would be endangered by an “airbag only” government 
+design mandate are furthered by common law claims. Thus, it 
+is not surprising that Standard 208 is devoid of any reference 
+whatsoever to an administrative intent to preempt common law 
+
+
+49 
+
+
+claims. This silence speaks volumes, given that the agency was 
+clearly aware of the potential for ongoing litigation involving 
+airbags. Especially in light of the powerful presumption against 
+preemption — a presumption designed to protect the states’ 
+historic nght to provide compensation for their citizens through 
+the tort system — it would be perverse to conclude that, without 
+saying a word on the matter, NHTSA implicitly contravened 
+Congress’ explicit command and wiped out all common law 
+claims involving airbags, leaving victims like Ms. Geier with 
+no remedy at all for their injuries. 
+
+
+CONCLUSION 
+
+
+The lower court’s decision finding preemption of 
+petitioners’ claims should be reversed. 
+
+
+Respectfully submitted, 
+
+
+Robert M.N. Palmer Arthur H. Bryant 
+
+The Law Offices of (Counsel of Record) 
+
+Robert M.N. Palmer, P.C. Leslie A. Brueckner 
+
+205 Park Central East Trial Lawyers for Public 
+Suite 511 Justice , P.C. 
+
+Springfield, MO 65801-5720 1717 Massachusetts Avenue, 
+
+
+(417) 865-3234 NW, Suite 800 
+Washington, D.C. 20036 
+James W. Taglieri (202) 797-8600 
+
+
+Cadeaux & Taglieri, P.C. 
+1100 Connecticut Avenue, 
+
+NW, Suite 800 
+Washington, D.C. 20036 
+(202) 785-3373 
+
+
+Date: October 22, 1999 
+
+
+ee 
+
+
+STATUTORY AND REGULATORY APPENDIX 
+
+
+The National Traffic and Motor Vehicle Safety Act of 
+1966, as codified when the vehicle at issue in this case was 
+manufactured, provided in pertinent part: 
+
+
+15 U.S.C. § 1392(d). Supremacy of Federal 
+standards; allowable higher standards for 
+vehicles used by Federal or state 
+governments. Whenever a Federal motor 
+vehicle safety standard established under this 
+subchapter is in effect, no State or political 
+subdivision of a State shall have any authority 
+either to establish, or to continue in effect, with 
+respect to any motor vehicle or item of motor 
+vehicle equipment any safety standard 
+applicable to the same aspect of performance of 
+such vehicle or item of equipment which is not 
+identical to the Federal standard. Nothing in 
+this section shall be construed as preventing any 
+State from enforcing any safety standard which 
+is identical to a Federal safety standard. 
+Nothing in this section shall be construed to 
+prevent the Federal Government or the 
+government of any State or political subdivision 
+thereof from establishing a safety requirement 
+applicable to motor vehicles or motor vehicle 
+equipment procured for its own use if such 
+requirement imposes a higher standard of 
+performance than that required to comply with 
+the otherwise applicable Federal standard. 
+
+
+App. | 
+
+
+15 U.S.C. § 1397(k). Continuation of 
+common law liability. Compliance with any 
+Federal motor vehicle safety standard issued 
+under this subchapter does not exempt any 
+person from any liability under common law. 
+
+
+On July 5, 1994, Congress recodified the Act “without 
+substantive change” (Pub. L. No. 103-272, 108 Stat. 745, 941). 
+The new Code provisions, in relevant part, are as follows: 
+
+
+49 U.S.C. § 30103. Relationship to other 
+laws. 
+
+
+(b) Preemption. (1) When a motor vehicle 
+safety standard is in effect under this chapter, a 
+State or a political subdivision of a State may 
+prescribe or continue in effect a standard 
+applicable to the same aspect of performance of 
+a motor vehicle or motor vehicle equipment 
+only if the standard is identical to the standard 
+prescribed under this chapter. However, the 
+United States Government, a State, or a political 
+subdivision of a State may prescribe a standard 
+for a motor vehicle or motor vehicle equipment 
+obtained for its own use that imposes a higher 
+performance requirement than that required by 
+the otherwise applicable standard under this 
+chapter. 
+
+
+(2) A State may enforce a standard that is 
+identical to a standard prescribed under this 
+
+
+chapter. 
+
+
+App. 2 
+
+
+(e) Common Law Liability. Compliance 
+with a motor vehicle safety standard prescribed 
+under this chapter does not exempt a person 
+from liability at common law. 
+
+
+All of the applicable preemption cases, including the 
+decisions by the two courts below, discuss the provisions as 
+codified before the 1994 recodification. This brief, therefore, 
+uses the citations employed in those decisions. 
+
+
+B. Regulatory Provisions. 
+
+
+Federal Motor Vehicle Safety Standard 208, as codified 
+when the vehicle at issue in this case was manufactured (see 49 
+C.F.R. § 571.208 (October 1986)),' provided in pertinent part: 
+
+
+§ 571.208 Standard No. 208; Occupant crash protection. 
+
+
+Si. Scope. This standard specifies performance 
+requirements for the protection of vehicle occupants in crashes. 
+
+
+S2. Purpose. The purpose of this standard is to reduce 
+the number of deaths of vehicle occupants, and the severity of 
+
+
+' This version of the rule applies to vehicles manufactured during 
+model year 1987. It includes the amendments promulgated by the agency 
+in 1984, see 49 Fed. Reg. 28962 (July 17, 1984), and various clarifying 
+amendments that did not affect the substance of the 1984 rule. See 50 Fed. 
+Reg. 35237 (Aug. 30, 1985) (clarifying “extra-credit” provision for vehicles 
+meeting the passive restraint requirement by means other than any type of 
+seatbelt); 51 Fed. Reg. 9810 (March 21, 1986) (clarifying method for 
+calculating compliance with phase-in percentages), 51 Fed. Reg. 31771 
+(Sept. 5, 1986) (correcting typographical error in clarified method for 
+calculating compliance with phase-in percentages published at 51 Fed. Reg. 
+9810). 
+
+
+App. 3 
+
+
+injuries, by specifying vehicle crashworthiness requirements in 
+terms of forces and accelerations measured on anthropomorphic 
+dummies in test crashes and by specifying equipment 
+requirements for active and passive restraint systems. 
+
+
+S3. Application. This standard applies to passenger 
+cars, multipurpose passenger vehicles, trucks, and buses. In 
+addition, S9., Pressure vessels and explosive devices, applies to 
+vessels designed to contain a pressurized fluid or gas, and to 
+explosive devices, for use in the above types of motor vehicles 
+as part of a system designed to provide protection to occupants 
+in the event of a crash. 
+
+
+S4. General requirements. 
+
+
+S.4.1. Passenger cars. 
+
+
+** * 
+
+
+S.4.1.2 Passenger cars manufactured on or 
+afier September 1, 1973, and before September 1, 1986. Each 
+passenger car manufactured on or after September 1, 1973, and 
+before September 1, 1986, shall meet the requirements of 
+$4.1.2.1, 84.1.2.2 or §4.1.2.3. A protection system that meets 
+the requirements of $4./.2./ or S4./.2.2 may be installed at one 
+or more designated seating positions of a vehicle that otherwise 
+meets the requirements of $4. /.2.3. 
+
+
+S4.1.2.1 First option - frontal/angular 
+automatic protection system. The vehicle shall: 
+
+
+(a)  Ateach front outboard designated seating 
+position meet the frontal crash protection requirements of SS. / 
+[governing Occupant Crash Protection Requirements, front 
+impact] by means that require no action by vehicle occupants; 
+
+
+App. 4 
+
+
+(b) At the front center designated seating 
+position and at each rear designated seating position have a 
+Type | or Type 2 seat belt assembly that conforms to Standard 
+No. 209 [governing Seat Belt Assemblies} and to S7./ 
+[governing Seat Belt Assembly, Adjustment] and S7.2 
+[governing Seat Belt Assembly, Latch Mechanism); and 
+
+
+(c) Either. (1) Meet the lateral crash 
+protection requirements of S5.2 [governing Occupant Crash 
+Protection Requirements, side impact] and the rollover crash 
+protection requirements of $5.3 [governing Occupant Crash 
+Protection Requirements, rollover impact] by means that 
+require no action by vehicle occupants; or 
+
+
+(2) At each front outboard designated seating 
+position have a Type | or Type 2 seat belt assembly that 
+conforms to Standard No. 209 [governing Seat Belt Assemblies] 
+and S$7./ through S$7.3 [governing Seat Belt Asembly, 
+Adjustment, Latch Mechanism and warning system], and that 
+meets the requirements of S5./ [governing Occupant Crash 
+Protection Requirements, front impact] with front test dummies 
+as required by S5./ [governing Occupant Crash Protection 
+Requirements, front impact], restrained by the Type | or Type 
+2 seat belt assembly (or the pelvic portion of any Type 2 seat 
+belt assembly which has a detachable upper torso belt) in 
+addition to the means that require no action by the vehicle 
+
+
+occupant. 
+
+
+S4.1.2.2 Second option - head-on automatic 
+protection system. The vehicle shall — 
+
+
+(a) At each designated seating position have 
+a Type | seat belt assembly or Type 2 seat belt assembly with 
+a detachable upper torso portion that conforms to S§7./ 
+{governing Seat Belt Assembly, Adjustment] and $7.2 
+
+
+App. 5 
+
+
+[governing Seat Belt Assembly, Latch Mechanism] of this 
+standard. 
+
+
+(b) — Ateach front outboard designated seating 
+position, meet the frontal crash protection requirements of SJ. / 
+[governing Occupant Crash Protection Requirements, front 
+impact], in a perpendicular impact, by means that require no 
+action by vehicle occupants; 
+
+
+(c) Ateach front outboard designated seating 
+position, meet the frontal crash protection requirements of SJ. / 
+[governing Occupant Crash Protection Requirements, front 
+impact], in a perpendicular impact, with a test device restrained 
+by a Type | seat belt assembly; and 
+
+
+(d) At each front outboard designated 
+seating position, have a seat belt warning system that conforms 
+to $7.3 [governing Seat Belt Assembly, warning system). 
+
+
+$4.1.2.3 Third option - lap and shoulder belt 
+protection system with belt warning. 
+
+
+S.4.1.2.3.1 Except for convertibles and open- 
+body vehicles, the vehicle shall — 
+
+
+(a)  Ateach front outboard designated seating 
+position have a seat belt assembly that conforms to $7./ 
+[governing Seat Belt Assembly, Adjustment] and $7.2 
+[governing Seat Belt Assembly, Latch Mechanism) of this 
+standard, and a seat belt warning system that conforms to $7.3 
+[governing Seat Belt Assembly, warning system). The belt 
+assembly shall be either a Type 2 seat belt assembly with a 
+nondetachable shoulder belt that conforms to Standard No. 209 
+(§ 571.209) [governing Seat Belt Assemblies), or a Type | seat 
+belt assembly such that with a test device restrained by the 
+
+
+App. 6 
+
+
+ern 
+
+
+assembly the vehicle meets the frontal crash protection 
+requirements of S5./ [governing Occupant Crash Protection 
+Requirements, front impact] in a perpendicular impact. 
+
+
+a (b) At any center front designated seating 
+position, have a Type | or Type 2 seat belt assembly that 
+conforms to Standard No. 209 (§ 571.209) [governing Seat Belt 
+Assemblies| and to $7.1 [governing Seat Belt Assembly, 
+Adjustment] and $7.2 [governing Seat Belt Assembly, Latch 
+Mechanism) of this standard, and a seat belt warning system 
+that conforms to $7.3 [governing Seat Belt Assembly, warning 
+system); and 
+
+
+(c)  Ateach other designated seating position, 
+have a Type | or Type 2 seat belt assembly that conforms to 
+Standard No. 209 (§ 571.209) [governing Seat Belt Assemblies) 
+and $7./ [governing Seat Belt Assembly, Adjustment] and $7.2 
+[governing Seat Belt Assembly, Latch Mechanism] of this 
+standard. 
+
+
+S4.1.2.3. Convertibles and open-body type 
+vehicles shall at each designated seating position have a Type 
+1 or Type 2 seat belt assembly that conforms to Standard No. 
+209 (§ 571.209) [governing Seat Belt Assemblies] and to S7.1 
+[governing Seat Belt Assembly, Adjustment] and $7.2 
+[governing Seat Belt Assembly, Latch Mechanism] of this 
+standard, and at each front designated seating position have a 
+seat belt warning system that conforms to $7.3 [governing Seat 
+Belt Assembly, warning system]. 
+
+
+54.1.3 Passenger cars manufactured on or after 
+September 1, 1986, and before September 1, 1989. 
+
+
+S4.1.3.1 Passenger cars manufactured on or 
+afier September 1, 1986, and before September 1, 1987. 
+
+
+App. 7 
+
+
+S4.1.3.1.1 Subject to $4.1.3.1.2 and S4.1.3.4, 
+each passenger car manufactured on or after September 1, 1986, 
+and before September 1, 1987, shall comply with the 
+requirements of S4./.2.1, $4.1.2.2 or $4.1.2.3. A vehicle shall 
+not be deemed to be in noncompliance with this standard if its 
+manufacturer establishes that it did not have reason to know in 
+the exercise of due care that such vehicle is not in conformity 
+
+
+with the requirement of this standard. 
+
+
+S4.1.3.1.2 Subject to S4./.3.4 and S4.1.5, the 
+amount of passenger cars, specified in S4./.3./.] complying 
+with the requirements of S$4./.2.] shall be not less than 10 
+
+
+percent of: 
+
+
+(a) The average annual production of 
+passenger cars manufactured on or after September 1 ,1983, and 
+before September |, 1986, by each manufacturer, or 
+
+
+(b) The manufacturer’s annual production of 
+passenger cars during the period specified in $4./.3././. 
+
+
+S4.1.3.2 Passenger cars manufactured on or 
+after September 1, 1987, and before September 1, 1988. 
+
+
+S4.1.3.2.1 Subject to $4./.3.2.2 and S.4.1.3.4, 
+each passenger car manufactured on or after September 1, 1987, 
+and before September 1, 1988, shall comply with the 
+requirements of S4./.2./, $4./.2.2 or $4.1.2.3. A vehicle shall 
+not be deemed to be in noncompliance with this standard if its 
+manufacturer establishes that it did not have reason to know in 
+the exercise of due care that such vehicle is not in conformity 
+with the requirement of this standard. 
+
+
+$4.1.3.2.2 Subject to $4.1.3.4 and S.4.1.5, the 
+amount of passenger cars specified in $4./.3.2.] complying 
+
+
+App. 8 
+
+
+= 
+
+
+- 
+
+
+¢ meg 2 en ore al as 
+
+
+with the requirements of $4./.2./ shall be not less than 25 
+percent of: 
+
+
+(a) The average annual production of 
+passenger cars manufactured on or after September 1, 1984, and 
+before September 1, 1987, by each manufacturer, or 
+
+
+(b) | Themanufacturer’s annual production of 
+passenger cars during the period specified in $4. /.3.2.1/. 
+
+
+S4.1.3.3 Passenger cars manufactured on or 
+after September 1, 1988, and before September 1, 1989. 
+
+
+S4.1.3.3.1 Subject to $4./.3.3.2 and $4.1.3.4, 
+each passenger car manufactured on or after September 1, 
+1988, and before September 1, 1989, shall comply with the 
+requirements of $4./.2.], 84.1.2.2 or 4.1.2.3. A vehicle shall 
+not be deemed to be in noncompliance with this standard if its 
+manufacturer establishes that it did not have reason to know in 
+
+
+the exercise of due care that such vehicle is not in conformity 
+with the requirement of this standard. 
+
+
+S4.1.3.3.2 Subject to $4./.3.4 and S4.1.5, the 
+amount of passenger cars specified in $4./.3.3.] complying 
+with the requirements of S4./.2./ shall be not less than 40 
+
+
+percent of: 
+
+(a) The average annual production of 
+passenger cars manufactured on or after September |, 1985, and 
+before September 1, 1988, by each manufacturer; or 1 
+
+
+(b) The manufacturer’s annual production 
+of passenger cars during the period specified in $4. /.3.3.1. 
+
+
+S4.1.3.4 Calculation of complying passenger 
+
+
+App. 9 
+
+
+cars. 
+
+
+(a) For the purposes of calculating the 
+numbers of cars manufactured under S4./.3./.2, $4.1.3.2.2, or 
+$4.1.3.3.2 to comply with S$4./.2./: 
+
+
+(1) | Eachcar whose driver’s seating position 
+complies with the requirements of S$4./.2./(a) by means not 
+including any type of seat belt and whose front right seating 
+position will comply with the requirements of S$4./.2./(a) by 
+any means is counted as 1.5 vehicles, and 
+
+
+(2)  Eachcar whose driver’s seating position 
+complies with the requirements of S4./.2./(a) by means not 
+including any type of seat belt and whose front right seat 
+seating position is equipped with a manual Type 2 seat belt is 
+counted as one vehicle. 
+
+
+(b) For the purposes of complying with 
+$4. 1.3.1.2, a passenger car may be counted if it: 
+
+
+(1) — Ismanufactured on or after September 1, 
+1985, but before September 1, 1986, and 
+
+
+(2) Complies with $4./.2./. 
+
+
+(c) For the purposes of complying with 
+S4.1.3.2.2, a passenger car may be counted if it: 
+
+
+(1) Ismanufactured on or after September 1, 
+1985, but before September 1, 1987. 
+
+
+(2) Complies with S4./.2./, and 
+
+
+(3) Is not counted toward compliance with 
+
+
+App. 10 
+
+
+$4.1.3.1.2. 
+
+
+(d) For the purposes of complying with 
+S4./.3.3.2, a passenger car may be counted if it: 
+
+
+(1) = Ismanufactured on or after September 1, 
+1985, but before September 1, 1988, 
+
+
+(2) Complies with S4./.2./; and 
+
+
+(3) Is not counted toward compliance with 
+S$4.1.3.1.2 or $4.1.3.2.2. 
+
+
+$4.1.3.5 Passenger cars produced by more than 
+one manufacturer. 
+
+
+S4.1.3.5.1 For the purposes of calculating 
+average annual production of passenger cars for each 
+manufacturer and the amount of passenger cars manufactured 
+by each manufacturer under S4./.3./.2, $4.1.3.2.2 or S4.1.3.3.2, 
+a passenger car produced by more than one manufacturer shall 
+ee follows, subject to 
+
+1.3.5.2: 
+
+
+(a) | A passenger car which is imported shall 
+be attributed to the importer. 
+
+
+(b) A passenger car manufactured in the 
+United States by more than one manufacturer, one of which also 
+markets the vehicle, shall be attributed to the manufacturer 
+which markets the vehicle. 
+
+
+S4.1.3.5. A passenger car produced by more 
+than one manufacturer shall be attributed to any one of the 
+
+
+vehicle’s manufacturers specified by an express written 
+
+
+App. 11 
+
+
+contract, reported to the National Highway Traffic Safety 
+Administration under 49 CFR Part 585, between the 
+manufacturer so specified and the manufacturer to which the 
+vehicle would otherwise be attributed under S4./.3.5./. 
+
+
+S4.1.4 Passenger cars manufact ix: 'on or after 
+September 1, 1989. Except as provided in 54./.5, each 
+passenger car manufactured on or after September 1, 1989, shall 
+comply with the requirements of S4./.2./. A vehicle shall not 
+be deemed to be in noncompliance with this standard if its 
+manufacturer establishes that it did not have reason to know in 
+the exercise of due care that such vehicle is not in conformity 
+with the requirement of this standard. 
+
+
+S4.1.5 Mandatory seatbelt use laws. 
+
+
+S4.1.5.1 If the Secretary of Transportation 
+determines, by not later than April 1, 1989, that state mandatory 
+safety belt usage laws have been enacted that meet the criteria 
+specified in $4. /.5.2 and that are applicable to not less than two- 
+thirds of the total population of the 50 states and the District of 
+Columbia (based on the most recent Estimates of the Resident 
+Population of States, by Age, Current Population Reports, 
+Series P-25, Bureau of the Census), each passenger car 
+manufactured under $4. /.3 or S4./.4 on or after the date of that 
+determination shall comply with the requirements of S4./.2./, 
+$4.1.2.2 or $4.1.2.3. 
+
+
+S4.1.5.2 The minimum criteria for state 
+mandatory safety belt usage laws are: 
+
+
+(a) Require that each front seat occupant of 
+a passenger car equipped with safety belts under Standard No. 
+208 has a safety belt properly fastened about his or her body at 
+all times when the vehicle is in forward motio 1, 
+
+
+App. 12 
+
+
+(b) If waivers from the safety belt usage 
+requirement are to be provided, permit them for medical reasons 
+only. 
+
+
+(c) Provide for the following enforcement 
+
+
+(1)  Apenalty of not less than $25.00 (which 
+may include court costs) for each occupant of a car who violates 
+the belt usage requirement. 
+
+
+(2)  Aprovision specifying that the violation 
+of the belt usage requirement may be used to mitigate damages 
+with respect to any person who is involved in a passenger car 
+seeks in any subsequent litigation to recover damages for 
+injuries resulting from the accident. This requirement is 
+satisfied if there is a rule of law in the State permitting such 
+
+
+(3) Aprogram to encourage compliance with 
+the belt usage requirement. 
+
+
+(d) An effective date of not later than 
+September 1, 1989. 
+
+
+App. 13 
+
+

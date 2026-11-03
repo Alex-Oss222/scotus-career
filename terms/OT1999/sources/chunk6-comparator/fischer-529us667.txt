@@ -1,0 +1,1373 @@
+667
+OCTOBER TERM, 1999
+Syllabus
+FISCHER v. UNITED STATES
+certiorari to the united states court of appeals for
+the eleventh circuit
+No. 99–116.
+Argued February 22, 2000—Decided May 15, 2000
+Petitioner, while president and part owner of Quality Medical Consultants,
+Inc. (QMC), negotiated a $1.2 million loan to QMC from West Volusia
+Hospital Authority (WVHA), a municipal agency responsible for operat-
+ing two Florida hospitals, both of which participate in the federal Medi-
+care program.
+In 1993 WVHA received between $10 and $15 million
+in Medicare funds.
+After a 1994 audit of WVHA raised questions about
+the QMC loan, petitioner was indicted for violations of the federal brib-
+ery statute, including defrauding an organization which receives beneﬁts
+under a federal assistance program, 18 U. S. C. §666(a)(1)(A), and paying
+a kickback to one of its agents, §666(a)(2).
+A jury convicted him on all
+counts, and the District Court sentenced him to imprisonment, imposed
+a term of supervised release, and ordered the payment of restitution.
+On appeal petitioner argued that the Government failed to prove
+WVHA, as the organization affected by his wrongdoing, received “bene-
+ﬁts in excess of $10,000 under a Federal program,” as required by
+§666(b).
+In rejecting that argument and afﬁrming the convictions, the
+Eleventh Circuit held that funds received by an organization constitute
+“beneﬁts” within §666’s meaning if the source of the funds is a federal
+program, like Medicare, which provides aid or assistance to participat-
+ing organizations.
+Held: Health care providers such as the one defrauded by petitioner
+receive “beneﬁts” within the meaning of §666(b).
+Pp. 671–682.
+(a) Medicare’s nature and purposes provide essential instruction in
+resolving this controversy.
+Medicare is a federally funded medical in-
+surance program for the elderly and disabled.
+The Federal Govern-
+ment is the single largest source of funds for hospitals participating
+in Medicare.
+Such providers qualify to participate upon satisfying a
+comprehensive series of statutory and regulatory requirements, includ-
+ing licensing, quality assurance, stafﬁng, and other standards.
+Compli-
+ance with these standards provides the Government with assurance that
+participating providers possess the capacity to fulﬁll their statutory ob-
+ligation of providing “medically necessary” services “of a quality which
+meets professionally recognized standards of health care.”
+42 U. S. C.
+§1320c–5(a).
+Medicare attains its objectives through an elaborate fund-
+ing structure designed not only to compensate providers for the reason-
+
+
+668
+FISCHER v. UNITED STATES
+Syllabus
+able cost of the services actually rendered to patients, but also to en-
+hance health care organizations’ capacity to provide ongoing, quality
+services to the community at large.
+In the normal course Medicare
+disbursements occur periodically, often in advance of a provider’s ren-
+dering services, in order to protect providers’ liquidity and thereby as-
+sist in the ongoing provision of such services.
+The program, then, es-
+tablishes correlating and reinforcing incentives: The Government has an
+interest in making available a high level of quality of care for the elderly
+and disabled; and providers, because of their ﬁnancial dependence upon
+the program, have incentives to achieve program goals.
+Pp. 671–675.
+(b) Medicare provider payments are “beneﬁts,” as that term is used
+in its ordinary sense and as it is intended in §666(b).
+The Court rejects
+petitioner’s argument that Medicare provides beneﬁts only to the el-
+derly and disabled, not to participating health care organizations.
+While standard deﬁnitions of the term “beneﬁt” and provisions of Medi-
+care support petitioner’s assertion that qualifying patients rank as the
+program’s primary beneﬁciaries, the fact that one beneﬁciary of an as-
+sistance program can be identiﬁed does not foreclose the existence of
+others.
+Section 666(b)’s language specifying that beneﬁts can be in the
+form of “a grant, contract, subsidy, loan, guarantee, insurance, or other
+form of Federal assistance,” coupled with §666(a)’s broad substantive
+prohibitions, reveals Congress’ unambiguous intent to ensure the integ-
+rity of organizations participating in federal assistance programs.
+In
+removing from the statute’s coverage any “bona ﬁde salary, wages, fees,
+or other compensation paid, or expenses paid or reimbursed, in the usual
+course of business,” §666(c) does not exclude the payments here at issue
+from the meaning of “beneﬁts” within §666(b).
+Medicare payments are
+not simply compensation or reimbursement.
+The payments, in con-
+trast, assist the hospital in making available and maintaining a certain
+level and quality of medical care in both its own interests and those of
+the greater community.
+The provider itself is the object of substantial
+Government regulation, and adequate payment and assistance to the
+provider is itself one of Medicare’s objectives.
+Accordingly, the health
+care provider is receiving a beneﬁt in the conventional sense of the term,
+unlike the case of a contractor whom the Government does not regulate
+or assist for long-term objectives or for purposes beyond performance
+of an immediate transaction.
+Pp. 675–681.
+(c) The Court does not suggest that federal funds disbursed under an
+assistance program will result in coverage of all recipient fraud under
+§666(b).
+Adopting a broad, almost limitless use of the term “beneﬁts”
+would upset the proper federal balance.
+The statutory inquiry should
+examine the conditions under which the federal payments are received.
+The answer could depend, as it does here, on whether the recipient’s
+
+
+669
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+own operations are one of the reasons for maintaining the program.
+The Government has a legitimate and signiﬁcant interest in prohibiting
+ﬁnancial fraud or bribery being perpetrated upon Medicare providers:
+Such acts threaten the program’s integrity and raise the risk participat-
+ing organizations will lack the resources needed to provide the requisite
+level and quality of care.
+Pp. 681–682.
+168 F. 3d 1273, afﬁrmed.
+Kennedy, J., delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, Souter, Ginsburg, and Breyer, JJ.,
+joined.
+Thomas, J., ﬁled a dissenting opinion, in which Scalia, J., joined,
+post, p. 682.
+Mark L. Horwitz argued the cause for petitioner.
+With
+him on the briefs were Glen J. Ioffredo, Jeffrey T. Green, and
+Kristin G. Koehler.
+Lisa Schiavo Blatt argued the cause for the United States.
+With her on the brief were Solicitor General Waxman, As-
+sistant Attorney General Robinson, and Deputy Solicitor
+General Dreeben.*
+Justice Kennedy delivered the opinion of the Court.
+The federal bribery statute prohibits defrauding organiza-
+tions which “receiv[e], in any one year period, beneﬁts in
+excess of $10,000 under a Federal program.”
+18 U. S. C.
+§666(b).
+We granted certiorari to determine whether the
+statute covers fraud perpetrated on organizations participat-
+ing in the Medicare program.
+Upon consideration of the
+role and regulated status of hospitals as health care provid-
+ers under the Medicare program, we hold they receive “bene-
+ﬁts” within the meaning of the statute.
+We afﬁrm petition-
+er’s convictions.
+I
+Petitioner Jeffrey Allan Fischer was president and partial
+owner of Quality Medical Consultants, Inc. (QMC), a corpora-
+*Lisa Kemler ﬁled a brief for the National Association of Criminal
+Defense Lawyers as amicus curiae urging reversal.
+
+
+670
+FISCHER v. UNITED STATES
+Opinion of the Court
+tion which performed billing audits for health care organiza-
+tions.
+In 1993 petitioner, on QMC’s behalf, negotiated a $1.2
+million loan from West Volusia Hospital Authority (WVHA),
+a municipal agency responsible for operating two hospitals
+located in West Volusia County, Florida.
+Both hospitals
+participate in the Medicare program, and in 1993 WVHA
+received between $10 and $15 million in Medicare funds.
+A February 1994 audit of WVHA’s ﬁnancial affairs raised
+questions about the QMC loan.
+An investigation revealed
+QMC used the loan proceeds to repay creditors and to raise
+the salaries of its ﬁve owner-employees, including petitioner.
+It was determined that petitioner had arranged for QMC to
+advance at least $100,000 to a private company owned by an
+individual who had assisted QMC in securing a letter of
+credit in connection with the WVHA loan.
+QMC, at peti-
+tioner’s directive, also committed portions of the loan pro-
+ceeds to speculative securities.
+These investments yielded
+losses of almost $400,000.
+The investigation further uncov-
+ered use of the loan proceeds to pay, through an intermediate
+transfer, a $10,000 kickback to WVHA’s chief ﬁnancial ofﬁcer,
+the individual with whom petitioner had negotiated the loan
+in the ﬁrst instance.
+QMC defaulted on its obligation to
+WVHA and ﬁled for bankruptcy.
+In 1996 petitioner was indicted by a federal grand jury on
+13 counts, including charges of defrauding an organization
+which receives beneﬁts under a federal assistance program,
+18 U. S. C. §666(a)(1)(A), and of paying a kickback to one of
+its agents, §666(a)(2).
+A jury convicted petitioner on all
+counts charged, and the District Court sentenced him to 65
+months’ imprisonment and a 3-year term of supervised
+release.
+Petitioner, in addition, was ordered to pay $1.2
+million in restitution.
+On appeal petitioner argued that the Government failed to
+prove WVHA, as the organization affected by his wrongdo-
+ing, received “beneﬁts in excess of $10,000 under a Federal
+program,” as required by 18 U. S. C. §666(b).
+Rejecting the
+
+
+671
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+argument, the United States Court of Appeals for the Elev-
+enth Circuit afﬁrmed the convictions.
+168 F. 3d 1273 (1999).
+It held that funds received by an organization constitute
+“beneﬁts” within the meaning of §666(b) if the source of the
+funds is a federal program, like Medicare, which provides aid
+or assistance to participating organizations.
+Id., at 1276–
+1277.
+Entities receiving federal funding under ordinary
+commercial contracts, the court stated, fall outside the stat-
+ute’s coverage.
+Ibid. (citing and discussing United States v.
+Copeland, 143 F. 3d 1439 (CA11 1998) (holding that federal
+funds received under a contract to construct military aircraft
+did not constitute “beneﬁts” within the meaning of §666(b))).
+The court added that its construction furthered “the stat-
+ute’s purpose of protecting from fraud, theft, and undue
+inﬂuence by bribery the money distributed to health care
+providers, and WVHA in particular, through the federal
+Medicare program and other similar federal assistance pro-
+grams.”
+168 F. 3d, at 1277.
+It rejected the view that the
+Medicare program provides beneﬁts only to its “targeted re-
+cipients,” the qualifying patients.
+Id., at 1278 (disagreeing
+with United States v. LaHue, 998 F. Supp. 1182 (Kan. 1998),
+aff’d, 170 F. 3d 1026 (CA10 1999)).
+We granted certiorari, 528 U. S. 962 (1999), and we afﬁrm.
+II
+A
+The nature and purposes of the Medicare program give
+us essential instruction in resolving the present controversy.
+Established in 1965 as part of the Social Security Act, 42
+U. S. C. §1395 et seq. (1994 ed. and Supp. III), Medicare is a
+federally funded medical insurance program for the elderly
+and disabled.
+In ﬁscal 1997 some 38.8 million individuals
+were enrolled in the program, and over 6,100 hospitals were
+authorized to provide services to them.
+U. S. Dept. of
+Health and Human Services, Health Care Financing Admin-
+istration, 1998 Data Compendium 45, 75 (Aug. 1998).
+Medi-
+
+
+672
+FISCHER v. UNITED STATES
+Opinion of the Court
+care expenditures for hospital services exceeded $123 billion
+in 1998, making the Federal Government the single largest
+source of funds for participating hospitals.
+See Cowen
+et al., National Health Expenditures, 1998, 21 Health Care
+Financing Review 165, 208 (Winter 1999) (Table 11).
+This
+amount constituted 32% of the hospitals’ total receipts.
+Ibid.
+Providers of health care services, such as the two hospitals
+operated by WVHA, qualify to participate in the program
+upon satisfying a comprehensive series of statutory and
+regulatory requirements, including particular accreditation
+standards.
+Hospitals, for instance, must satisfy licensing
+standards, 42 CFR §482.11 (1999); possess a governing body
+to “ensure that there is an effective, hospital-wide quality
+assurance program to evaluate the provision of patient care,”
+§482.21; and employ a “well organized” medical staff account-
+able on matters relating to “the quality of the medical care
+provided to patients,” §482.22(b).
+Medicare’s implementing
+regulations also require hospitals, among many other stand-
+ards, to maintain and provide 24-hour nursing services,
+§482.23; complete medical record services, §482.24; “pharma-
+ceutical services that meet the needs of the patients,”
+§482.25; and organized dietary services staffed with qualiﬁed
+personnel, §482.28.
+The regulations go further, requiring
+hospital facilities to “be constructed, arranged, and main-
+tained to ensure the safety of the patient, and to provide
+facilities for diagnosis and treatment and for special hospi-
+tal services appropriate to the needs of the community.”
+§482.41.
+Compliance with these standards provides the
+Government with assurance that participating providers pos-
+sess the capacity to fulﬁll their statutory obligation of pro-
+viding “medically necessary” services “of a quality which
+meets professionally recognized standards of health care.”
+42 U. S. C. §1320c–5(a).
+Peer review organizations monitor
+providers’ compliance with these and other obligations.
+§1320c–3(a); 42 CFR §466.71 (1999).
+Sanctions for non-
+
+
+673
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+compliance include dismissal from the program.
+42 U. S. C.
+§1320c–5(b)(1).
+Medicare attains its objectives through an elaborate fund-
+ing structure.
+Participating health care organizations, in
+exchange for rendering services, receive federal funds on
+a periodic basis.
+§§1395g, 1395l.
+The amounts received
+reﬂect the “reasonable cost” of services rendered, deﬁned
+as “the costs necessary in the efﬁcient delivery of needed
+health services to individuals covered [by the program].”
+§1395x(v)(1)(A).
+Necessary costs are not limited to the im-
+mediate costs of an individual treatment procedure.
+Instead
+they are deﬁned in broader terms: “Necessary and proper
+costs are costs that are appropriate and helpful in developing
+and maintaining the operation of patient care facilities and
+activities.”
+42 CFR §413.9(b)(2) (1999).
+Allowable costs
+include amounts which enhance the organization’s capacity
+to provide ongoing, quality services not only to eligible pa-
+tients but also to the community at large.
+By way of exam-
+ple, amounts incurred for “certain educational programs for
+interns and residents, known as [graduate medical education]
+programs, are ‘allowable cost[s]’ for which a hospital (a pro-
+vider) may receive reimbursement.”
+Regions Hospital v.
+Shalala, 522 U. S. 448, 452 (1998) (citing 42 CFR §413.85(a)
+(1996)); see also §413.85(b) (1999); Thomas Jefferson Univ.
+v. Shalala, 512 U. S. 504, 507–508 (1994) (describing regula-
+tion of education programs).
+“These programs,” the Medi-
+care regulations explain, “contribute to the quality of patient
+care within an institution and are necessary to meet the com-
+munity’s needs for medical and paramedical personnel. . . .
+[M]any communities have not assumed responsibility for ﬁ-
+nancing these programs and it is necessary that support be
+provided by those purchasing healthcare.
+Until communi-
+ties undertake to bear these costs, the program will partici-
+pate appropriately in the support of these activities.”
+42
+CFR §413.85(c) (1999).
+Medicare also permits, indeed en-
+courages, these providers to deposit the amounts of reim-
+
+
+674
+FISCHER v. UNITED STATES
+Opinion of the Court
+bursements received for depreciation costs and other cash
+into sinking funds called “funded depreciation accounts.”
+§413.134(e).
+Investment income earned on these funds does
+not
+operate
+to
+reduce
+a
+provider’s
+interest
+expense,
+§413.153(b)(2)(iii), creating incentives to maintain modern
+medical equipment and facilities.
+The Medicare regulations, furthermore, afford certain pro-
+vider organizations “special treatment,” intended to ensure
+the ongoing availability of medical services for qualifying
+patients.
+See 42 CFR pt. 412G (1999).
+Providers qualify-
+ing as “Medicare-dependent, small rural hospital[s],” for in-
+stance, are entitled to additional, “lump sum” payments to
+compensate for signiﬁcant declines in demand for patient
+care.
+§412.108.
+The additional funds enable a provider to
+“maintai[n] [its] necessary core staff and services” and to sat-
+isfy its “ﬁxed (and semi-ﬁxed) costs.”
+§§412.108(d)(3)(A),
+(B).
+So too does the Medicare program authorize “special
+treatment” for, among other providers, “sole community hos-
+pitals,” “renal transplantation centers,” and “hospitals that
+serve a disproportionate share of low-income patients.”
+See
+§§412.92, 412.100, 412.106.
+The subsidies assist providers in
+satisfying those ﬁnancial obligations necessary to continue as
+going concerns in accordance with the program’s require-
+ments.
+See, e. g., §412.92(d)(2).
+In the normal course Medicare disbursements occur on a
+periodic basis, often in advance of a provider’s rendering
+services, 42 U. S. C. §1395g(a); 42 CFR §§413.60, 413.64
+(1999).
+The payment system serves to “protect providers’
+liquidity,” Good Samaritan Hospital v. Shalala, 508 U. S.
+402, 406 (1993), thereby assisting in the ongoing provision of
+services.
+42 CFR §413.5(b)(1) (1999) (requiring reimburse-
+ment method to “result in current payment so that institu-
+tions will not be disadvantaged, as they sometimes are under
+other arrangements, by having to put up money for the pur-
+chase of goods and services well before they receive reim-
+bursement”); §413.5(b)(6) (reimbursement system must oper-
+
+
+675
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+ate under “recognition of the need of hospitals and other
+providers to keep pace with growing needs and to make im-
+provements”).
+The program, then, establishes correlating
+and reinforcing incentives: The Government has an interest
+in making available a high level of quality of care for the
+elderly and disabled; and providers, because of their ﬁnancial
+dependence upon the program, have incentives to achieve
+program goals.
+The nature of the program bears on the
+question of statutory coverage.
+B
+Section 666 of Title 18 of the United States Code prohibits
+acts of theft and fraud against organizations receiving funds
+under federal assistance programs.
+The statute in relevant
+part provides as follows:
+“(a) Whoever, if the circumstance described in sub-
+section (b) of this section exists—
+“(1) being an agent of an organization, or of a State,
+local, or Indian tribal government, or any agency
+thereof—
+“(A) embezzles, steals, obtains by fraud, or otherwise
+without authority knowingly converts to the use of any
+person other than the rightful owner or intentionally
+misapplies, property that—
+“(i) is valued at $5,000 or more, and
+“(ii) is owned by, or is under the care, custody, or con-
+trol of such organization, government, or agency; or
+“(B) corruptly solicits or demands for the beneﬁt of
+any person, or accepts or agrees to accept, anything of
+value from any person, intending to be inﬂuenced or
+rewarded in connection with any business, transaction,
+or series of transactions of such organization, govern-
+ment, or agency involving anything of value of $5,000 or
+more; or
+“(2) corruptly gives, offers, or agrees to give anything
+of value to any person, with intent to inﬂuence or re-
+
+
+676
+FISCHER v. UNITED STATES
+Opinion of the Court
+ward an agent of an organization or of a State, local
+or Indian tribal government, or any agency thereof, in
+connection with any business, transaction, or series
+of transactions of such organization, government, or
+agency involving anything of value of $5,000 or more;
+“shall be ﬁned under this title, imprisoned not more than
+10 years, or both.
+“(b) The circumstance referred to in subsection (a) of
+this section is that the organization, government, or
+agency receives, in any one year period, beneﬁts in
+excess of $10,000 under a Federal program involving
+a grant, contract, subsidy, loan, guarantee, insurance,
+or other form of Federal assistance.
+“(c) This section does not apply to bona ﬁde salary,
+wages, fees, or other compensation paid, or expenses
+paid or reimbursed, in the usual course of business.”
+Liability for the acts prohibited by subsection (a) is predi-
+cated upon a showing that the defrauded organization “re-
+ceive[d], in any one period, beneﬁts in excess of $10,000
+under a Federal program.”
+§666(b).
+Those beneﬁts can be
+in the form of “a grant, contract, subsidy, loan, guarantee,
+insurance, or other form of Federal assistance.”
+Ibid.
+All
+agree Medicare is a federal assistance program, see 42 CFR
+§400.200 (1999), and that WVHA, as the organization de-
+frauded by petitioner’s actions, received in excess of $10,000
+in payments under the program.
+The sole point in conten-
+tion is whether those payments constituted “beneﬁts” within
+the meaning of subsection (b).
+Petitioner argues that the Medicare program provides
+beneﬁts to the elderly and disabled but not to the health care
+organizations.
+Provider organizations, in petitioner’s view,
+do no more than render services in exchange for compensa-
+tion.
+Under petitioner’s submission the Medicare program
+envisions a single beneﬁciary, the qualifying patient.
+The
+Government, in opposition, urges that a determination
+
+
+677
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+whether an organization receives “beneﬁts” within the
+meaning of §666(b) turns on whether the Federal Govern-
+ment was the source of the payment.
+Funds received under
+a federal assistance program, the Government asserts, can
+be traced from federal coffers, often through an intermediary
+or carrier, to the health care provider.
+Under its view, the
+“federal-program source of the funds” satisﬁes the beneﬁts
+deﬁnition.
+Brief for United States 11.
+We reject petitioner’s reading of the statute but without
+endorsing the Government’s broader position.
+We conclude
+Medicare payments are “beneﬁts,” as the term is used in its
+ordinary sense and as it is intended in the statute.
+The
+noun “beneﬁt” means “something that guards, aids, or pro-
+motes well-being: advantage, good”; “useful aid”; “payment,
+gift [such as] ﬁnancial help in time of sickness, old age, or
+unemployment”; or “a cash payment or service provided
+for under an annuity, pension plan, or insurance policy.”
+Webster’s Third New International Dictionary 204 (1971).
+These deﬁnitions support petitioner’s assertion that qualify-
+ing patients receive beneﬁts under the Medicare program.
+It is commonplace for individuals to refer to their retirement
+or health plans as “beneﬁts.”
+So it ought not to be disputed
+that the elderly and disabled rank as the primary beneﬁciar-
+ies of the Medicare program.
+See 42 U. S. C. §§1395c, 1395j;
+42 CFR §400.202 (1999) (deﬁning “beneﬁciary” as the “per-
+son who is entitled to Medicare beneﬁts”); Shalala v. Guern-
+sey Memorial Hospital, 514 U. S. 87, 91 (1995) (“Under the
+Medicare reimbursement scheme . . . participating hospitals
+furnish services to program beneﬁciaries and are reimbursed
+by the Secretary through ﬁscal intermediaries”); Good Sa-
+maritan Hospital, 508 U. S., at 404 (same).
+That one beneﬁciary of an assistance program can be iden-
+tiﬁed does not foreclose the existence of others, however.
+In
+this respect petitioner’s construction would give incomplete
+meaning to the term “beneﬁts.”
+Medicare operates with a
+purpose and design above and beyond point-of-sale patient
+
+
+678
+FISCHER v. UNITED STATES
+Opinion of the Court
+care, and it follows that the beneﬁts of the program extend
+in a broader manner as well.
+The argument limiting the
+term “beneﬁts” to the program’s targeted or primary bene-
+ﬁciaries would exclude, for example, a Medicare intermedi-
+ary (such as Blue Cross and Blue Shield), a result both par-
+ties disavow.
+For present purposes it cannot be disputed
+the providers themselves derive signiﬁcant advantage by
+satisfying the participation standards imposed by the Gov-
+ernment.
+These advantages constitute beneﬁts within the
+meaning of the federal bribery statute, a statute we have
+described as “expansive,” “both as to the [conduct] forbidden
+and the entities covered.”
+Salinas v. United States, 522
+U. S. 52, 56 (1997).
+Subsection (b) identiﬁes several sources as providing bene-
+ﬁts under a federal program—“a grant, contract, subsidy,
+loan, guarantee, insurance, or other form of Federal assist-
+ance.”
+18 U. S. C. §666(b).
+This language indicates that
+Congress viewed many federal assistance programs as pro-
+viding beneﬁts to participating organizations.
+Coupled with
+the broad substantive prohibitions of subsection (a), the lan-
+guage of subsection (b) reveals Congress’ expansive, unam-
+biguous intent to ensure the integrity of organizations par-
+ticipating in federal assistance programs.
+Subsection (c) of the statute bears on the analysis.
+The
+provision removes from the statute’s coverage any “bona ﬁde
+salary, wages, fees, or other compensation paid, or expenses
+paid or reimbursed, in the usual course of business.”
+§666(c).
+Petitioner argues that the subsection operates to
+exclude the payments in question because they are either
+“compensation” or “expenses paid or reimbursed,” or some
+combination of the two, and that the payments are made in
+the “usual course of business.”
+We disagree.
+The subsection provides that the speciﬁed sorts of pay-
+ments are not ones to which the section applies.
+One infer-
+ence from this formulation is that the described payments
+would have been beneﬁts but for the subsection (c) exemp-
+
+
+679
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+tion.
+We need not go so far.
+Even assuming the examples
+of subsection (c) bear upon the deﬁnition of beneﬁts, statu-
+tory examples of nonapplicability do not necessarily give rise
+to the inference that absent the enumeration the statute
+would otherwise apply.
+To deﬁne all subsection (c) pay-
+ments as exempted beneﬁts would go well beyond the ordi-
+nary meaning of the word.
+On the other hand, the statute
+is not written to say: “The term ‘beneﬁts’ does not include
+bona ﬁde salary, wages, fees, or other compensation paid, or
+expenses paid or reimbursed, in the usual course of busi-
+ness.”
+We must construe the term “beneﬁts,” then, in a
+manner consistent with Congress’ intent not to reach the
+enumerated class of transactions.
+See S. Rep. No. 98–225,
+p. 370 (1984) (“[N]ot every Federal contract or disbursement
+of funds would be covered [under §666].
+For example, if a
+government agency lawfully purchases more than $10,000 in
+equipment from a supplier, it is not the intent of this section
+to make a theft of $5,000 or more from the supplier a Fed-
+eral crime”).
+We do not accept the view that the Medicare payments
+here in question are for the limited purposes of compensating
+providers or reimbursing them for ordinary course expendi-
+tures.
+The payments are made for signiﬁcant and substan-
+tial reasons in addition to compensation or reimbursement,
+so that neither these terms nor the usual course of business
+conditions set forth in subsection (c) are met here.
+The pay-
+ments in question have attributes and purposes well beyond
+those described in subsection (c).
+These attributes and pur-
+poses are consistent with the deﬁnition of “beneﬁt.”
+While
+the payments might have similarities to payments an insurer
+would remit to a hospital quite without regard to the Medi-
+care program, the Government does not make the payment
+unless the hospital complies with its intricate regulatory
+scheme.
+The payments are made not simply to reimburse
+for treatment of qualifying patients but to assist the hospital
+in making available and maintaining a certain level and qual-
+
+
+680
+FISCHER v. UNITED STATES
+Opinion of the Court
+ity of medical care, all in the interest of both the hospital
+and the greater community.
+Here, as we have explained, the provider itself is the ob-
+ject of substantial Government regulation.
+Medicare is de-
+signed to the end that the Government receives not only re-
+ciprocal value from isolated transactions but also long-term
+advantages from the existence of a sound and effective
+health care system for the elderly and disabled.
+The Gov-
+ernment enacted speciﬁc statutes and regulations to secure
+its own interests in promoting the well being and advantage
+of the health care provider, in addition to the patient who
+receives care.
+The health care provider is receiving a bene-
+ﬁt in the conventional sense of the term, unlike the case of a
+contractor whom the Government does not regulate or assist
+for long-term objectives or for signiﬁcant purposes beyond
+performance of an immediate transaction.
+Adequate pay-
+ment and assistance to the health care provider is itself one
+of the objectives of the program.
+These purposes and ef-
+fects sufﬁce to make the payment a beneﬁt within the mean-
+ing of the statute.
+The structure and operation of the Medicare program
+reveal a comprehensive federal assistance enterprise aimed
+at ensuring the availability of quality health care for
+the broader community.
+Participating health care organiza-
+tions, as our above discussion shows, must satisfy a series
+of qualiﬁcation and accreditation requirements, standards
+aimed in part at ensuring the provision of a certain quality
+of care.
+See 42 CFR pt. 482 (1999).
+By reimbursing partic-
+ipating providers for a wide range of costs and expenses,
+including medical treatment costs, overhead costs, and edu-
+cation costs, Medicare’s reimbursement system furthers this
+objective.
+This scheme is structured to ensure that provid-
+ers possess the capacity to render, on an ongoing basis, medi-
+cal care to the program’s qualifying patients.
+The struc-
+ture, moreover, proves untenable petitioner’s assertion that
+Congress has no interest in the ﬁnancial stability of pro-
+
+
+681
+Cite as: 529 U. S. 667 (2000)
+Opinion of the Court
+viders once services are rendered to patients.
+Payments
+are made in a manner calculated to maintain provider
+stability.
+§413.5(b); Good Samaritan Hospital, 508 U. S.,
+at 406.
+Incentives are given for long-term improvements,
+such as capital costs and education.
+§§413.85, 413.134(e),
+413.153(b)(2)(iii).
+Subsidies, deﬁned as “special treatment,”
+are awarded to certain providers.
+Id., pt. 412G.
+In short,
+provider organizations play a vital role and maintain a high
+level of responsibility in carrying out the program’s pur-
+poses.
+Medicare funds, in turn, provide beneﬁts extending
+beyond isolated, point-of-sale treatment transactions.
+The
+funds health care organizations receive for participating in
+the Medicare program constitute “beneﬁts” within the mean-
+ing of 18 U. S. C. §666(b).
+Our discussion should not be taken to suggest that federal
+funds disbursed under an assistance program will result in
+coverage of all recipient fraud under §666(b).
+Any receipt
+of federal funds can, at some level of generality, be character-
+ized as a beneﬁt.
+The statute does not employ this broad,
+almost limitless use of the term.
+Doing so would turn al-
+most every act of fraud or bribery into a federal offense,
+upsetting
+the
+proper
+federal
+balance.
+To
+determine
+whether an organization participating in a federal assistance
+program receives “beneﬁts,” an examination must be under-
+taken of the program’s structure, operation, and purpose.
+The inquiry should examine the conditions under which the
+organization receives the federal payments.
+The answer
+could depend, as it does here, on whether the recipient’s own
+operations are one of the reasons for maintaining the pro-
+gram.
+Health care organizations participating in the Medi-
+care program satisfy this standard.
+The Government has a legitimate and signiﬁcant interest
+in prohibiting ﬁnancial fraud or acts of bribery being perpe-
+trated upon Medicare providers.
+Fraudulent acts threaten
+the program’s integrity.
+They raise the risk participating
+organizations will lack the resources requisite to provide the
+
+
+682
+FISCHER v. UNITED STATES
+Thomas, J., dissenting
+level and quality of care envisioned by the program.
+Cf. Sa-
+linas, 522 U. S., at 61 (stating that acceptance of bribes by
+an ofﬁcial of a jail housing federal prisoners pursuant to an
+agreement with the Government “was a threat to the integ-
+rity and proper operation of the federal program”).
+Other cases may present questions requiring further ex-
+amination and elaboration of the term “beneﬁts.”
+Here it
+sufﬁces to hold that health care providers such as the one
+defrauded by petitioner receive beneﬁts within the meaning
+of the statute.
+The judgment of the Court of Appeals is
+afﬁrmed.
+It is so ordered.
+Justice Thomas, with whom Justice Scalia joins,
+dissenting.
+In my view, the only persons who receive “beneﬁts” under
+Medicare are the individual elderly and disabled Medicare
+patients, not the medical providers who serve them.
+Pay-
+ments made by the Federal Government to a Medicare
+health care provider to reimburse the provider for the costs
+of services rendered, rather than to provide ﬁnancial aid to
+the hospital, are not “beneﬁts.”
+I respectfully dissent.
+I
+The jurisdictional provision of 18 U. S. C. §666(b) requires
+that an “organization, government, or agency receiv[e], in
+any one year period, beneﬁts in excess of $10,000 under a
+Federal program involving a grant, contract, subsidy, loan,
+guarantee, insurance, or other form of Federal assistance.”
+As the Court notes, an organization is not a beneﬁciary of
+a federal program merely because the organization receives
+federal funds.
+Ante, at 677, 681.
+Rather, as the Court ad-
+mits, a “beneﬁt” is something that “guards, aids, or promotes
+well-being”; “useful aid”; or a “payment, gift [as] ﬁnan-
+cial help in time of sickness, old age, or unemployment.”
+Webster’s Third New International Dictionary 204 (1971).
+
+
+683
+Cite as: 529 U. S. 667 (2000)
+Thomas, J., dissenting
+Therefore, the Court acknowledges, an organization “re-
+ceives . . . beneﬁts” within the meaning of §666(b) only if
+the federal funds are designed to guard, aid, or promote the
+well-being of the organization, to provide useful aid to the
+organization, or to give the organization ﬁnancial help in
+time of trouble.
+In my view, payments made by the Federal
+Government to a Medicare health care provider as part of a
+market transaction are not “beneﬁts.” 1
+The statutory and regulatory scheme governing Medicare
+reimbursements leaves no doubt that hospitals do not receive
+“beneﬁts” from the Federal Government within this meaning
+of the term, but merely receive payments for costs pursuant
+to a market transaction.
+Although the Medicare reimburse-
+ment scheme is quite complex, it sufﬁces to point out a few
+critical components.2
+Under the “reasonable cost” reimbursement provisions re-
+lied on by the Court, ante, at 673–675, the Federal Govern-
+ment reimburses providers for “the cost actually incurred,
+excluding therefrom any part of incurred cost found to be
+unnecessary in the efﬁcient delivery of needed health serv-
+1 Even if I thought that, under a reading of §666(b) standing alone, a
+market exchange of payment for services might amount to “beneﬁts,”
+§666(c) would eliminate that doubt.
+Section 666(c) makes clear that “bona
+ﬁde . . . expenses paid or reimbursed, in the usual course of business,” are
+not covered by the statute.
+As discussed below, Medicare payments to
+health care providers are precisely this type of payment.
+2 In 1993, the year relevant to the instant case, Medicare consisted of
+two separate programs, Parts A and B.
+Part A provides insurance for
+certain elderly or disabled persons to cover the costs of inpatient hospital
+care, nursing facility care, home health services, and hospice care.
+See
+generally 42 U. S. C. §§1395c to 1395i–4.
+Part B is a voluntary program
+that provides supplemental beneﬁts to elderly or disabled Medicare partic-
+ipants to cover the costs of, among other things, physician services, labora-
+tory and diagnostic tests, ambulance services, and prescription drugs.
+See generally §§1395j to 1395w–4.
+The Government did not present evi-
+dence at petitioner’s trial regarding which provisions of Medicare ac-
+counted for the payments made to the West Volusia Hospital Authority
+in 1993.
+
+
+684
+FISCHER v. UNITED STATES
+Thomas, J., dissenting
+ices.”
+42 U. S. C. §1395x(v)(1)(A).
+The Social Security Act
+that created Medicare instructed the Secretary of Health and
+Human Services to promulgate regulations establishing the
+methods of determining “reasonable costs” and speciﬁcally
+directed the Secretary to consider, among other things, reim-
+bursement methods used by private insurers.
+Ibid.
+See
+also Shalala v. Guernsey Memorial Hospital, 514 U. S. 87,
+91–92 (1995).
+Under these regulations, the Federal Government reim-
+burses medical providers based upon the lower of the provid-
+er’s reasonable cost of furnishing these services to beneﬁci-
+aries or the provider’s customary charges for the services.
+42 CFR §413.1(b) (1999).
+The regulations are designed
+to provide reimbursement for the actual cost of providing
+care to elderly and disabled Medicare beneﬁciaries.
+See
+§413.5(a) (“Thus, the application of this approach, with ap-
+propriate accounting support, will result in meeting actual
+costs of services to beneﬁciaries”).
+The regulations make
+clear that the Federal Government will reimburse hospitals
+only for the costs of providing medical care to Medicare
+patients, as opposed to nonbeneﬁciary patients.
+§413.80(d)
+(“Under Medicare . . . costs of services provided for other
+than beneﬁciaries are not to be borne by the Medicare pro-
+gram”); §413.9(a) (“All payments to providers of services
+must be based on the reasonable cost of services covered
+under Medicare and related to the care of beneﬁciaries”);
+§413.9(c)(3) (“The determination of reasonable cost of serv-
+ices must be based on cost related to the care of Medicare
+beneﬁciaries”).
+Although these reimbursement provisions permit hospi-
+tals to recover capital costs, such as the cost of maintaining
+building facilities, §413.9(c), the allowable reimbursement for
+these expenditures is only the amount reasonably attribut-
+able to Medicare patients as opposed to general maintenance
+of the facilities.
+See §413.9(b) (“The objective is that under
+the methods of determining costs, the costs with respect to
+
+
+685
+Cite as: 529 U. S. 667 (2000)
+Thomas, J., dissenting
+individuals covered by the program will not be borne by indi-
+viduals not so covered, and the costs with respect to individ-
+uals not so covered will not be borne by the program”).
+The “prospective payment system” adopted by Congress
+in 1983 to increase efﬁciency and reduce costs operates some-
+what differently from the “reasonable cost” provisions but
+is also designed to reimburse hospitals for the cost of provid-
+ing care to Medicare beneﬁciaries.
+42 U. S. C. §1395ww;
+42 CFR pt. 412 (1999).
+Under this system, the Medicare
+program pays hospitals a ﬁxed price for each case based on
+the patient’s diagnosis related grouping (DRG), which is
+assigned based on the patient’s diagnosis, age, and sex,
+among other things.
+42 U. S. C. §1395ww(e); 24 CFR
+§412.60 (1999).
+The DRG ﬁgure represents the average
+cost of treating patients within the DRG.
+42 U. S. C.
+§1395ww(d)(2); 49 Fed. Reg. 251 (1984).
+Signiﬁcantly, be-
+cause hospitals are paid ﬁxed amounts based on the DRG,
+the hospital, like any other private contractor, bears the risk
+of higher costs.
+See Kinney, Making Hard Choices under
+the Medicare Prospective Payment System: One Administra-
+tive Model for Allocating Medical Resources under a Govern-
+ment Health Insurance Program, 19 Ind. L. Rev. 1151, 1151–
+1152 (1986).
+Thus, the statute and regulations make clear that medical
+providers are entitled only to reimbursement for the actual
+or estimated cost of services rendered to Medicare patients
+and that individual elderly and disabled patients—not hospi-
+tals—are the beneﬁciaries of the Medicare program.
+In-
+deed, the Social Security Act explicitly says so.
+See 42
+U. S. C. §1395a(b)(5) (1994 ed., Supp. III) (“The term ‘medi-
+care beneﬁciary’ means an individual who is entitled to
+beneﬁts” (emphasis added)).
+The Act repeatedly refers
+to Medicare “beneﬁts” as assistance provided to individual
+participants, rather than to medical providers.
+See, e. g.,
+§1395a (“Any individual entitled to insurance beneﬁts under
+this subchapter”); §1395b–2 (“Such notice shall be mailed an-
+
+
+686
+FISCHER v. UNITED STATES
+Thomas, J., dissenting
+nually to individuals entitled to beneﬁts under part A or part
+B of this subchapter and when an individual applies for bene-
+ﬁts under part A of this subchapter or enrolls under part B
+of this subchapter”); §1395b–4(a) (“health insurance cover-
+age to individuals who are eligible to receive beneﬁts under
+this subchapter”); §1395b–4(b)(2)(A)(i) (“information that
+may assist individuals in obtaining beneﬁts”).
+In contrast,
+the Act commonly refers to “payments” to providers of medi-
+cal services.
+See, e. g., §1395g(a) (“no such payments shall
+be made to any provider unless it has furnished such infor-
+mation as the Secretary may request”); §1395f(a) (“payment
+for services furnished an individual may be made only to
+providers of services”); §1395n(a) (1994 ed. and Supp. III)
+(“payment for services . . . furnished an individual may be
+made only to providers of services which are eligible”).
+This terminology, and the Medicare regulations deﬁning al-
+lowable costs, reﬂect the fact that Medicare is a program for
+providing “ﬁnancial help” to individual elderly and disabled
+patients rather than to the health care providers who treat
+them.
+Medicare’s provisions for reimbursing providers’
+costs do nothing more than establish a market exchange of
+payment for services, and so cannot be said to provide “bene-
+ﬁts” within the meaning of 18 U. S. C. §666(b).
+II
+Although the statutory provisions and regulations cited
+above demonstrate that Medicare operates as a reimburse-
+ment scheme with respect to health care providers, and not
+as a means of providing them “useful aid” or “ﬁnancial help,”
+the Court ﬁnds in the statute and regulations evidence that
+health care providers are, along with the individual elderly
+and disabled patients, also target beneﬁciaries of the pro-
+gram.
+I think that the Court’s reasoning is both unpersua-
+sive and boundless; any funds ﬂowing from a federal assist-
+ance program could be deemed “beneﬁts” under the Court’s
+rationale, notwithstanding the Court’s concluding disclaimer
+
+
+687
+Cite as: 529 U. S. 667 (2000)
+Thomas, J., dissenting
+of such a result.
+Thus, although the Court purports to
+reject the Government’s argument that “beneﬁts” means
+“funds that originate in a federal assistance program,” the
+Court, in practice, adopts it.
+A
+First, the Court describes Medicare’s elaborate funding
+structure and notes that Medicare’s reasonable cost recovery
+system allows recovery of certain capital costs and the costs
+of education and training.
+Ante, at 673–674.
+These provi-
+sions of Medicare do not establish that hospitals receive
+“beneﬁts.”
+To the contrary, the capital costs recoverable
+under those provisions of Medicare are the costs tied to the
+treatment of Medicare patients.
+See supra, at 684–685.
+In
+this sense, the cost provisions of Medicare expressly defeat
+any suggestion that they are meant to provide a “beneﬁt” to
+the hospital.
+These provisions are not designed to provide
+ﬁnancial assistance to the hospital; they are designed to en-
+sure that Medicare beneﬁciaries receive quality medical care.
+And again, the Medicare program picks up only the portion
+of the costs attributable to the care of Medicare beneﬁciaries.
+42 CFR §§413.50, 413.85 (1999).
+In fact, the Court does not
+grapple with the evidence that Medicare systematically
+under-compensates health care providers, evidence that
+would further undermine the notion that hospitals are re-
+ceiving some form of ﬁnancial assistance from the program.
+See Utz, Federalism in Health Care: Costs and Beneﬁts, 28
+Conn. L. Rev. 127, 138–139 (1995).
+Second, the Court relies on the numerous obligations im-
+posed on health care providers participating in Medicare.
+Ante, at 672–675.
+The Court notes that health care provid-
+ers must satisfy licensing standards, provide a laundry list
+of particular health care services, and ensure an effective
+quality-assurance program.
+I assume, however, that the
+same could be said of most Government contractors.
+The
+defense contractor who agrees to build the military’s equip-
+
+
+688
+FISCHER v. UNITED STATES
+Thomas, J., dissenting
+ment is, no doubt, subject to an extensive list of statutory
+and regulatory requirements, not because the Government
+intends to provide “beneﬁts” to the contractor, but because
+the Federal Government intends to place controls on the ex-
+penditure of federal dollars.
+See United States v. Copeland,
+143 F. 3d 1439, 1442 (CA11 1998) (discussing regulatory bur-
+dens on defense contractors).
+Similarly, private insurers no
+doubt impose various requirements on those who receive re-
+imbursements from them.
+In requiring hospitals to meet
+certain standards, the Federal Government is no different
+from these private insurers, except that the Federal Govern-
+ment exercises vastly greater market power.
+In other
+words, the imposition on health care providers of an intricate
+regulatory scheme is irrelevant to the question whether
+funds paid pursuant to that scheme are beneﬁts.
+Third, the Court contends that some health care providers
+receive “special treatment” in the form of lump sum pay-
+ments designed to ensure the providers’ ability to satisfy
+ﬁnancial obligations.
+Ante, at 674.
+This feature of Medi-
+care is also insufﬁcient to show that any “beneﬁts” were re-
+ceived by West Volusia Hospital Authority.
+These payments,
+which are part of the prospective payment system, see
+supra, at 685, are based on estimated costs of providing serv-
+ices to Medicare beneﬁciaries.
+See, e. g., 42 CFR §412.108
+(1999).
+Like the standard reimbursement schemes outlined
+above, this payment system does not subsidize the hospital,
+it pays the hospital prospectively for performing a service.
+Finally, the Court concludes, based on its observations of
+Medicare, that “Medicare operates with a purpose and design
+above and beyond point-of-sale patient care,” namely, “ensur-
+ing the availability of quality health care for the broader
+community.”
+Ante, at 677, 680.
+According to the Court,
+Medicare guarantees that “providers possess the capacity to
+render, on an ongoing basis, medical care to the program’s
+qualifying patients.”
+Ante, at 680.
+In other words, Medi-
+care exists to guarantee patients’ access to quality medical
+
+
+689
+Cite as: 529 U. S. 667 (2000)
+Thomas, J., dissenting
+care.
+Quality medical care is available only if medical pro-
+viders remain ﬁnancially viable.
+Medicare payments create
+demand for medical services and, therefore, provide “bene-
+ﬁts” to health care providers.
+This syllogism, however,
+amounts to nothing more than the self-evident point that
+Medicare aims to ensure that the beneﬁciaries of the pro-
+gram—patients—are able to receive the program’s intended
+beneﬁts.
+It does not establish that Medicare exists to put
+hospitals on the dole.
+In short, none of the components of Medicare cited by
+the Court establishes that beneﬁts ﬂow to hospitals.
+It
+is signiﬁcant that, although the Court repeatedly invokes,
+mantra-like, its conclusion that Medicare exists for a purpose
+above and beyond reimbursing hospitals for treating Medi-
+care patients, see, e. g., ante, at 677–678, 679, 680, 681, when
+the Court comes around to actually identifying this purpose,
+it can only state: “The structure and operation of the Medi-
+care program reveal a comprehensive federal assistance en-
+terprise aimed at ensuring the availability of quality health
+care for the broader community.”
+Ante, at 680.
+The Court
+cannot bring itself to say, as it must, that Medicare exists for
+the hospital.3
+3 And even if I were to accept that some provisions of Medicare—the
+special treatment provisions, for example—provide a beneﬁt to health care
+providers, there is no evidence in the record that West Volusia Hospital
+Authority received any such payments.
+Without such evidence, the
+Court’s reliance on special provisions to uphold petitioner’s conviction is
+improper.
+Title 18 U. S. C. §666(b) is, after all, a jurisdictional provision
+that allows federal prosecution only if the speciﬁc organization at issue
+received more than $10,000 in “beneﬁts.”
+The Court treats the provision
+as window dressing.
+It is not necessary, under the Court’s view, to show
+that this organization received beneﬁts.
+It is sufﬁcient to show that some
+hospitals receive them.
+This approach is particularly inappropriate because §666(b), or some
+similar jurisdictional provision, is constitutionally required.
+Section 666
+was adopted pursuant to Congress’ spending power, Art. I, §8, cl. 1.
+We
+have held that the spending power requires, at least, that the exercise of
+federal power be related “to the federal interest in particular national
+
+
+690
+FISCHER v. UNITED STATES
+Thomas, J., dissenting
+B
+Although the Court disclaims the Government’s argument
+that “beneﬁts” means only funds provided under a federal
+assistance program, the Court, in practice, adopts it.
+The
+Court’s expansive rationale could be applied to any federal
+assistance program that provides funds to any organization.
+This result is inconsistent with the plain meaning of the stat-
+ute.
+If Congress had meant to apply §666 to any organiza-
+tion that receives “funds” totaling more than $10,000 per
+annum, it would have said so.
+Cf. 18 U. S. C. §665 (“Who-
+ever, being . . . connected in any capacity with any agency
+or organization receiving ﬁnancial assistance or any funds
+under [a certain federal program] knowingly enrolls an ineli-
+gible participant, embezzles, willfully misapplies, steals, or
+obtains by fraud any of the moneys, funds, assets, or prop-
+erty which are the subject of a ﬁnancial assistance agree-
+ment or contract pursuant to such Act shall be [punished]”).
+Congress, for that matter, could have omitted the word “ben-
+eﬁts” from the statute and provided simply that any organi-
+zation that “receives, in any one year period, in excess of
+$10,000 under a Federal program involving a . . . form of
+federal assistance” is covered by the statute.
+That Con-
+gress did not do so suggests that the word “beneﬁts” has a
+projects or programs.”
+South Dakota v. Dole, 483 U. S. 203, 207 (1987)
+(internal quotation marks omitted).
+See id., at 213 (O’Connor, J., dis-
+senting).
+Arguably, if Congress attempted to criminalize acts of theft or
+bribery based solely on the fact that—in circumstances unrelated to the
+theft or bribery—the victim organization received federal funds as pay-
+ment for a market transaction, this constitutional requirement would not
+be satisﬁed.
+Without a jurisdictional provision that would ensure that in
+each case the exercise of federal power is related to the federal interest
+in a federal program, §666 would criminalize routine acts of fraud or brib-
+ery, which, as the Court admits, would “upse[t] the proper federal bal-
+ance.”
+Ante, at 681.
+Cf. United States v. Lopez, 514 U. S. 549, 561 (1995)
+(“[Section] 922(q) contains no jurisdictional element which would ensure,
+through case-by-case inquiry, that the ﬁrearm possession in question af-
+fects interstate commerce”).
+
+
+691
+Cite as: 529 U. S. 667 (2000)
+Thomas, J., dissenting
+meaning separate and apart from the words “under a Federal
+program involving a . . . form of federal assistance.”
+I am
+doubtful that the Court’s interpretation gives any meaning
+at all to the word “beneﬁts” in §666(b) because, under the
+Court’s rationale, any organization that receives $10,000
+under a federal program involving federal assistance re-
+ceives “beneﬁts” in such an amount.
+This expansive construction of §666(b) is, at the very least,
+inconsistent with the rule of lenity—which the Court does
+not discuss.
+This principle requires that, to the extent that
+there is any ambiguity in the term “beneﬁts,” we should re-
+solve that ambiguity in favor of the defendant.
+See United
+States v. Bass, 404 U. S. 336, 347 (1971) (“In various ways
+over the years, we have stated that when choice has to be
+made between two readings of what conduct Congress has
+made a crime, it is appropriate, before we choose the harsher
+alternative, to require that Congress should have spoken in
+language that is clear and deﬁnite” (internal quotation
+marks omitted)).
+C
+I doubt that there is any federal assistance program that
+does not provide “beneﬁts” to organizations under the
+Court’s expansive rationale, but will illustrate my point with
+just one example employed by two lower courts.
+See
+United States v. Wyncoop, 11 F. 3d 119, 123 (CA9 1993);
+United States v. LaHue, 998 F. Supp. 1182, 1187 (Kan. 1998),
+aff’d, 170 F. 3d 1026 (CA10 1999).
+Many grocery stores ac-
+cept more than $10,000 per annum in food stamps distributed
+to individual beneﬁciaries as part of the Federal Food Stamp
+and Food Distribution Program.
+Like Medicare providers,
+stores participating in the Food Stamp Program are required
+to satisfy a comprehensive series of statutory and regulatory
+requirements.
+See 7 CFR pt. 278 (1999).
+For example,
+stores are qualiﬁed to participate only if they sell an ade-
+quate percentage of staple foods such as meat, cereal, and
+dairy products.
+§278.1(b)(1).
+Stores must document an
+
+
+692
+FISCHER v. UNITED STATES
+Thomas, J., dissenting
+ability to attract food stamp business and demonstrate the
+business integrity and reputation of the store owners
+and managers.
+§§278.1(b)(2)–(3).
+Like Medicare, the Food
+Stamp Program monitors the providers’ compliance with the
+program’s requirements.
+See §278.1(n).
+Like Medicare,
+the Food Stamp Program sanctions noncompliance with dis-
+missal from the program.
+§278.1(l).
+And, the Food Stamp
+Program is like Medicare in that it can be described as hav-
+ing “a purpose and design above and beyond point-of-sale” of
+food.
+Ante, at 677.
+Undoubtedly, the Food Stamp Program
+helps to address the “grocery gap,” that is, the lack of avail-
+ability of reasonably priced nutritional foods in some low-
+income and rural areas.
+See Note, Food Stamp Trafﬁcking:
+Why Small Groceries Need Judicial Protection from the De-
+partment of Agriculture (And from Their Own Employees),
+96 Mich. L. Rev. 2156, 2176–2177 (1998); Department of Agri-
+culture, Ofﬁce of Analysis & Evaluation, Food Retailers in
+the Food Stamp Program: Characteristics and Service to
+Program Participants 15 (Feb. 1997) (Table 6).
+There is
+ample evidence on the face of the statute and regulations
+that Congress and the agency had in mind the need to ensure
+that low-income communities have access to grocery stores.
+See 7 U. S. C. §2021(a) (1994 ed., Supp. IV) (requiring the
+Secretary to consider hardship to the community in making
+disqualiﬁcation determinations); 7 CFR §278.1(b)(1)(ii)(C)
+(1999) (listing availability of food stores in the community as
+a factor relevant to a ﬁrm’s application to participate in the
+program).
+It could be said, therefore, that the grocery
+store’s “own operations are one of the reasons for maintain-
+ing the program.”
+Ante, at 681.
+To my mind, the reason that a corner grocery does not
+receive “beneﬁts” is simply that it merely receives payment
+from the Government in a market transaction.
+I fail to see,
+however, how the Court could reach the same conclusion that
+I would.
+Although the Court assures us that its holding
+today is narrow and factbound, depending on the “structure,
+
+
+693
+Cite as: 529 U. S. 667 (2000)
+Thomas, J., dissenting
+operation, and purpose” of Medicare, ibid., the consequences
+of the Court’s reasoning are far reaching.
+In fact, the Court
+candidly acknowledges that its interpretation is expansive
+when it reads 18 U. S. C. §666(b) to suggest that “Congress
+viewed many federal assistance programs as providing bene-
+ﬁts to participating organizations.”
+Ante, at 678 (emphasis
+added).
+In contrast, I think that the plain language of
+§666(b) reﬂects a congressional intent to reach only those
+organizations that are themselves the beneﬁciaries of “useful
+aid” or “ﬁnancial help in time of sickness, old age, or unem-
+ployment,” rather than organizations that merely receive
+funds as part of a market transaction for goods or services.
+*
+*
+*
+For the foregoing reasons, I respectfully dissent.

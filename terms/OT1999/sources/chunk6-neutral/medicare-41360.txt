@@ -1,0 +1,144 @@
+443
+Health Care Financing Administration, HHS 
+§ 413.64
+9. Medicare inpatient general routine service cost ($423 Medicare private room cost differential + $69,598 Medicare cost of
+general routine inpatient services), $70,021.
+(2) Carve out method. The following il-
+lustrates how apportionment is deter-
+mined in a hospital reimbursed under
+the carve out method (subject to the
+private room differential provisions of
+paragraph (a)(1)(ii) of this section):
+HOSPITAL K
+[Determination of cost of routine SNF-type and ICF-type
+services and general routine hospital services1]
+Facts
+Days of care
+General
+routine
+hospital
+SNF-type
+ICF-type
+Total days of care .........
+2,000
+400
+100
+Medicare days of care ...
+600
+300
+................
+Average Medicaid rate ..
+N/A
+$35
+$20
+Total inpatient general routine service costs: $250,000
+Calculation of cost of routine SNF-type services applicable to
+Medicare:
+$35 × 300 = $10,500
+Calculation of cost of general routine hospital
+services:
+Cost of SNF-type services: $35 × 400 .........
+$14,000
+Cost of ICF-type services: $20 × 100 ..........
+2,000
+Total ..........................................................
+$16,000
+Average cost per diem of general routine hospital services:
+$250,000 — $16,000 ÷ 2,000 days = $117
+Medicare general routine hospital cost:
+$117 × 600 = $70,200
+Total Medicare reasonable cost for general routine inpatient
+days:
+$10,500 + $70,200 = $80,700
+[51 FR 34793, Sept. 30, 1986, as amended at 59
+FR 45401, Sept. 1, 1994; 61 FR 51616, Oct. 3,
+1996; 61 FR 58631, Nov. 18, 1996]
+§ 413.56
+[Reserved]
+Subpart E—Payments to Providers
+§ 413.60
+Payments to providers: Gen-
+eral.
+(a) The fiscal intermediaries will es-
+tablish a basis for interim payments to
+each provider. This may be done by one
+of several methods. If an intermediary
+is already paying the provider on a cost
+basis, the intermediary may adjust its
+rate of payment to an estimate of the
+result under the Medicare principles of
+reimbursement. If no organization is
+paying the provider on a cost basis, the
+intermediary may obtain the previous
+year’s financial statement from the
+provider and, by applying the prin-
+ciples of reimbursement, compute or
+approximate an appropriate rate of
+payment. The interim payment may be
+related to the last year’s average per
+diem, or to charges, or to any other
+ready basis of approximating costs.
+(b) At the end of the period, the ac-
+tual apportionment, based on the cost
+finding and apportionment methods se-
+lected by the provider, determines the
+Medicare reimbursement for the actual
+services provided to beneficiaries dur-
+ing the period.
+(c) Basically, therefore, interim pay-
+ments to providers will be made for
+services throughout the year, with
+final settlement on a retroactive basis
+at the end of the accounting period. In-
+terim payments will be made as often
+as possible and in no event less fre-
+quently than once a month. The retro-
+active payments will take fully into
+account the costs that were actually
+incurred and settle on an actual, rather
+than on an estimated basis.
+§ 413.64
+Payments to providers: Spe-
+cific rules.
+(a) Reimbursement on a reasonable cost
+basis. Providers of services paid on the
+basis of the reasonable cost of services
+furnished to beneficiaries will receive
+interim payments approximating the
+actual costs of the provider. These pay-
+ments will be made on the most expedi-
+tious schedule administratively fea-
+sible but not less often than monthly.
+A retroactive adjustment based on ac-
+tual costs will be made at the end of a
+reporting period.
+(b) Amount and frequency of payment.
+Medicare states that providers of serv-
+ices will be paid the reasonable cost of
+services 
+furnished 
+to 
+beneficiaries.
+Since actual costs of services cannot be
+determined until the end of the ac-
+counting period, the providers must be
+paid on an estimated cost basis during
+the year. While Medicare provides that
+interim payments will be made no less
+often than monthly, intermediaries are
+expected to make payments on the
+most 
+expeditious 
+basis 
+administra-
+tively feasible. Whatever estimated
+VerDate 12<OCT>99
+09:28 Oct 22, 1999
+Jkt 183166
+PO 00000
+Frm 00443
+Fmt 8010
+Sfmt 8010
+Y:\SGML\183166T.XXX
+pfrm03
+PsN: 183166T

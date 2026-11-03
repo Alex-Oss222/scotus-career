@@ -1,0 +1,58 @@
+{
+  "stage": "3B independent non-Stone modeling",
+  "event_cutoff": "2000-05-15 before uncoordinated same-day events",
+  "case": "MCIVER",
+  "inputs": [
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MCIVER_NEUTRAL_VALIDATED.md",
+      "sha256": "e498a2362845c3a97cc7947311651c5390b5458d7cae1c73013eb80820db1ae9"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY15_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "0620c06134186d49b5324c6e5a6607053daaf0c6a432b68dc9e47f79833efa5d"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MINING_REGIONS_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "c2722721f92f02b9111a7c2706536ff0329c1657781f0b487662856cafe4f4c9"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "sha256": "ffb7de824d00c37da02a6c793f87783109530552c41ac735def9759835e7c106"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "sha256": "9ec390a2bc0c2361a40748645454aef76eb1fb5e1faf1da1b219022467a4f634"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MID_PRIOR_SOURCE_READING.md",
+      "sha256": "90cc8881f74dacd84e0d24581e4878e1d17f10830483a720f1a4b25c81ea5087"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MID_PRIOR_SOURCE_HASHES.json",
+      "sha256": "a3ede98dc2fcafac2a39ba7f77d1582d29606d50e963011f865e6eb7e4008806"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MCIVER_HARMLESSNESS_SOURCE_READING.md",
+      "sha256": "5e312975849a9c67c0ae4dbb3d25096e81344e958fff9f650969de34a96940e4"
+    },
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/chapman-source.json",
+      "sha256": "98b7ee3d8590556a9fb45653f4bc750091ec800a639d8e1802730267b9138b79"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MCIVER_NEDER_PUBLIC.md",
+      "sha256": "35b625f242e7009e99b0e5874a731924e060566b5f2feb19cd4ea2bead3d3b5d"
+    }
+  ],
+  "freeze_sha256": "1403999db08675deb9fbf8eced7f2122dcd1d97c69249a54475006bd69de8a92",
+  "runtime_sha256": "1403999db08675deb9fbf8eced7f2122dcd1d97c69249a54475006bd69de8a92",
+  "checks": {
+    "copies_identical": true,
+    "all_eight_Associates_each_component": true,
+    "final_neutral_certificate_read": true,
+    "no_same_day_borrowing": true,
+    "no_current_outcome_or_controlled_position_exposure": true,
+    "no_assignment": true
+  },
+  "substantive_validation": "Seven support confined no-search/no-seizure installation affirmance; Stevens supports seizure ground and bounded vacatur/remand. All decline new independent monitoring holding given established concession. Justification, causal admissibility and direct-review harmlessness kept distinct; no missing proof or preservation facts supplied. Tools check byte identity, not merits."
+}

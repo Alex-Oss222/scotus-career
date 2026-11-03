@@ -1,0 +1,125 @@
+{
+  "kind": "Engine stage 3A May 22 entering-law neutral validation receipt",
+  "authorized_events": [
+    "Geier, 2000-05-22",
+    "Jones, 2000-05-22",
+    "Playboy, 2000-05-22"
+  ],
+  "research_cutoff": "2000-05-22",
+  "same_date_borrowing": false,
+  "effective_may15_events": [
+    "Fischer",
+    "Johnson No. 99-5153",
+    "Public Lands Council",
+    "Morrison / Brzonkala"
+  ],
+  "mciver_effective_event_included": false,
+  "mciver_status_for_this_certificate": "No completed judicial event or Record; no effective holding supplied or inferred.",
+  "supplement": {
+    "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY22_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+    "sha256": "20b81ed48bc3550cabdd945e213cfc15cd7448159a050912d1f1103af70a17f4",
+    "bytes": 20484
+  },
+  "inputs": [
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_GEIER_NEUTRAL_VALIDATED.md",
+      "sha256": "ae69d78bbc2fd5f3d2b602a0297dc964763b4c5996e5df9b12d2229446871f4d",
+      "bytes": 61250,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_JONES_NEUTRAL_VALIDATED.md",
+      "sha256": "a1254aa736cf54dd52b644180e4d7a1bdce46b507154572f3634481a697dba93",
+      "bytes": 63928,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_PLAYBOY_NEUTRAL_VALIDATED.md",
+      "sha256": "dbc604e34e5922212a9b550099448467b75835f78c1955f7d18de2c353968146",
+      "bytes": 138756,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_GEIER_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "466d730509b85718789e558385a2f3c46a306821a7596707bc3163823df6652b",
+      "bytes": 17099,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_PLAYBOY_LOWER_FINDINGS_NEUTRAL_VALIDATION.md",
+      "sha256": "63235dcf8f882ae4ea55172e786d642349bf52050bcebc7d7a4e305e73562381",
+      "bytes": 24093,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MAY15_EFFECTIVE_PUBLIC.md",
+      "sha256": "7b66c81e9b1320ca87f7df457bb379be0d0b84ca26f6b5c35d6f71395bb17fa6",
+      "bytes": 66439,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "sha256": "ffb7de824d00c37da02a6c793f87783109530552c41ac735def9759835e7c106",
+      "bytes": 17415,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "sha256": "9ec390a2bc0c2361a40748645454aef76eb1fb5e1faf1da1b219022467a4f634",
+      "bytes": 23265,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_NCRL_EFFECTIVE_PUBLIC.md",
+      "sha256": "82abee46967e487e7b7a0bbb9e5f0f56b049fae1d8a0404cab9bf9951fc3ad21",
+      "bytes": 15917,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY15_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "0620c06134186d49b5324c6e5a6607053daaf0c6a432b68dc9e47f79833efa5d",
+      "bytes": 13471,
+      "matches_frozen_or_start_of_pass_hash": true
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MINING_REGIONS_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "c2722721f92f02b9111a7c2706536ff0329c1657781f0b487662856cafe4f4c9",
+      "bytes": 8563,
+      "matches_frozen_or_start_of_pass_hash": true
+    }
+  ],
+  "base_packets_unchanged": true,
+  "source_supplements_unchanged": true,
+  "public_projection_checks": [
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MAY15_EFFECTIVE_PUBLIC.md",
+      "complete_eleven_block_projections": 4,
+      "exact_block_sequence": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "complete_eleven_block_projections": 1,
+      "exact_block_sequence": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "complete_eleven_block_projections": 1,
+      "exact_block_sequence": true
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_NCRL_EFFECTIVE_PUBLIC.md",
+      "complete_eleven_block_projections": 1,
+      "exact_block_sequence": true
+    }
+  ],
+  "ncrl_full_public_copy_exactly_present_in_playboy_base": true,
+  "validation_scope": "All four complete May 15 Public Projections read; original neutral packets refreshed with mandatory Geier and Playboy source supplements. Mining and Saenz full reading carried forward from the earlier neutral certificate. Prior packet authorities retained at their validated scopes.",
+  "no_full_record_private_or_current_case_supreme_court_source_opened": true,
+  "no_git_operation": true,
+  "local_link_check": {
+    "local_targets_checked": 9,
+    "all_within_authorized_term": true,
+    "all_exist": true,
+    "missing": []
+  }
+}

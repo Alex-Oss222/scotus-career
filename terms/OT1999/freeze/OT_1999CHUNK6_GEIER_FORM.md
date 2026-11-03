@@ -1,0 +1,11 @@
+# Geier — form before assignment
+
+Assembly form fixed from the frozen reconciled commitments and the approved per-case Stone supplement, before any assignment count or author choice.
+
+One signed lead opinion after plenary argument, with no division of authorship. The actual questions require an integrated reading of the Safety Act's express and common-law saving provisions and an application of the independent actual-conflict rule to the operative restraint-options transition. Neither summary treatment nor a per curiam form fits the disputed sufficient ground.
+
+Parts I–II state the common background and the shared propositions: former §1392(d), read with §1397(k), does not independently displace this saved common-law claim; the saving rule does not eliminate an independently established actual conflict. Part III holds that this general no-airbag duty defeats the demonstrated mixed-restraint transition, while preserving nonconflicting duties and rejecting compliance immunity. Stone's approved ground and O'Connor, Scalia, Kennedy and Breyer's frozen grounds support Part III. Stevens, Souter, Thomas and Ginsburg join Parts I–II and dissent from Part III and the judgment because the rule does not establish protected exclusivity against the liability Congress saved.
+
+The judgment is one affirmance at the scope of the presented general no-airbag theory. It makes no negligence, defect, causation, regulatory-violation or damages finding, and does not resolve a newly invented model-specific claim. A common dissent can state the four dissenters' supported sufficient ground and all their limits; no separate concurrence performs additional necessary legal work when the common writing preserves each join boundary.
+
+The opinion will retain the distinct original statutory exceptions; the three restraint alternatives and qualifications; the manufacture-date denominators, phase-in, credits, carry-forward, attribution and due-care conditions; the population-based mandatory-use-law determination and deadline; and the agency's own deficient-system-liability response. These regulatory details are background to the demonstrated objective, not additional holdings or findings about Honda's production or compliance practices. The form and proposition divisions are fixed for legal clarity and do not respond to authorship counts.

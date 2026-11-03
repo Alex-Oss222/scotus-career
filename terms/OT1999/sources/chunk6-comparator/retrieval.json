@@ -1,0 +1,266 @@
+{
+  "fischer": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-116.ZD.html",
+      "file": "fischer-99-116.ZD.html",
+      "sha256": "002654ad6b48ab0c6da757720ea52bcad782b5089dc060680679c3623344404e",
+      "text_chars": 23497
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-116.ZO.html",
+      "file": "fischer-99-116.ZO.html",
+      "sha256": "120165278d306a13a081e8e313e2a7fc7d111895cc9c358433cccba579ae2f1a",
+      "text_chars": 26314
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-116.ZS.html",
+      "file": "fischer-99-116.ZS.html",
+      "sha256": "992511e3e9c49e31fe12e69fdc13d65a086bccc4599d3bb564a9d37b6070b67b",
+      "text_chars": 6857
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-667.pdf",
+      "file": "fischer-529us667.pdf",
+      "sha256": "78ed431c5942d82081e12f083baa06710c2cc333f28840c9ec2f850da1bfb2b0",
+      "pages": 27,
+      "text_chars": 56745
+    }
+  ],
+  "carmell": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-7540.ZD.html",
+      "file": "carmell-98-7540.ZD.html",
+      "sha256": "ea0f0e6eec39c5769a275106ada2a07537cc9ad7e42305b17b022596f06668c5",
+      "text_chars": 48030
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-7540.ZO.html",
+      "file": "carmell-98-7540.ZO.html",
+      "sha256": "475c30f9ebcaddb7389db01d9045f31f8060cc17a796f844ade6a6245a8953a4",
+      "text_chars": 80768
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-7540.ZS.html",
+      "file": "carmell-98-7540.ZS.html",
+      "sha256": "41345532f1d3d89ca25b9eea65035b3b11d7e3a076d875ff97a1e8efbac4e4be",
+      "text_chars": 7630
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-513.pdf",
+      "file": "carmell-529us513.pdf",
+      "sha256": "2d11a3a7b5e8c98594d8e67137bc63fcaef60e42d97bc202641ae2b9b56dd94a",
+      "pages": 63,
+      "text_chars": 140060
+    }
+  ],
+  "johnson": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5153.ZC.html",
+      "file": "johnson-99-5153.ZC.html",
+      "sha256": "f790e10e925924e0c70173b465286dc7f81a4e24267035177afb41a0445be623",
+      "text_chars": 3598
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5153.ZC1.html",
+      "file": "johnson-99-5153.ZC1.html",
+      "sha256": "adae27a26484729d68bcbc22de3e98050132dc6efcf531a6829dbbf7caffff8f",
+      "text_chars": 1117
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5153.ZD.html",
+      "file": "johnson-99-5153.ZD.html",
+      "sha256": "9b9e3585522732f516b6100338107e36a7e58ec849dec2151610946df9914e8c",
+      "text_chars": 27935
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5153.ZO.html",
+      "file": "johnson-99-5153.ZO.html",
+      "sha256": "a1b5ab7bf8bf35338ef2ad682d4eba269623b014f0f5dc6abeb747efd98bd2a9",
+      "text_chars": 37981
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5153.ZS.html",
+      "file": "johnson-99-5153.ZS.html",
+      "sha256": "e36cd07aa9fbf58e176754b934dbb0e015fd537567d8cebdb944ed86fb8e32dd",
+      "text_chars": 6849
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-694.pdf",
+      "file": "johnson-529us694.pdf",
+      "sha256": "eb94f5e6a3e71f59c3e134cfbc6877945ed1566e1cc1103de04e05f0da4be619",
+      "pages": 34,
+      "text_chars": 77064
+    }
+  ],
+  "morrison": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5.ZC.html",
+      "file": "morrison-99-5.ZC.html",
+      "sha256": "1642f1bb08376f2324f6b2eac63a6b8dc63543a8c5dbd88fc527fe20abf869eb",
+      "text_chars": 1407
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5.ZD.html",
+      "file": "morrison-99-5.ZD.html",
+      "sha256": "f316c4e611195b43194392663833980ffdb9aa77ea7a86eb3720e7556f1820e0",
+      "text_chars": 59730
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5.ZD1.html",
+      "file": "morrison-99-5.ZD1.html",
+      "sha256": "a3332df68706bb877fce0040738c9d13f618d18acc8bb9085004eaa0d16be8ee",
+      "text_chars": 22599
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5.ZO.html",
+      "file": "morrison-99-5.ZO.html",
+      "sha256": "a892e0a8d78f4fbdeae8f46991b31db5435d562b6b00d23f2bb3be6f5692adfe",
+      "text_chars": 54014
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5.ZS.html",
+      "file": "morrison-99-5.ZS.html",
+      "sha256": "aa461f6d3b62b917d82dc84cea48ca6be11dc958477309d76cca22c6aac2c965",
+      "text_chars": 7413
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-598.pdf",
+      "file": "morrison-529us598.pdf",
+      "sha256": "7d32cded51f6a85b6f004a8ca9175031d2b81ba5964a6a9018d00099bb4206e4",
+      "pages": 69,
+      "text_chars": 150783
+    }
+  ],
+  "public-lands": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1991.ZC.html",
+      "file": "public-lands-98-1991.ZC.html",
+      "sha256": "9ea042a98e9d463b076ade9dd85dba9bb9d1b6d2def3b74756abc264fe364071",
+      "text_chars": 3729
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1991.ZO.html",
+      "file": "public-lands-98-1991.ZO.html",
+      "sha256": "ccc4368e98d401ccebc5a750f9d1a041353bc7101b2cccc796062ce0d9298f5d",
+      "text_chars": 38854
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1991.ZS.html",
+      "file": "public-lands-98-1991.ZS.html",
+      "sha256": "a2192772ba4b87a4d1a70c657041931e88fce18960535697bbb84f719ed452a4",
+      "text_chars": 7042
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-728.pdf",
+      "file": "public-lands-529us728.pdf",
+      "sha256": "c0251eba295d3211f69508caf1fc138732134472234166e2fced90107cf11492",
+      "pages": 25,
+      "text_chars": 50540
+    }
+  ],
+  "geier": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1811.ZD.html",
+      "file": "geier-98-1811.ZD.html",
+      "sha256": "32606213edc9aa6cb5eb4284325abf97faa5316e321ca7a4882bf40be997c647",
+      "text_chars": 58218
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1811.ZO.html",
+      "file": "geier-98-1811.ZO.html",
+      "sha256": "b15c9dcb8545d92ed6b536841b39a9155ac5819faecf16dd5fa34d429d6135dd",
+      "text_chars": 44936
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1811.ZS.html",
+      "file": "geier-98-1811.ZS.html",
+      "sha256": "cf75e018e1d43a592aba4847ddeafffaa0560f3cf5cac6ed5664cb349ce7634b",
+      "text_chars": 7890
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-861.pdf",
+      "file": "geier-529us861.pdf",
+      "sha256": "42db587d8e848633ce2b67c141098d38e2d30f1fbd0a737f26c2abe904a07fd1",
+      "pages": 53,
+      "text_chars": 115318
+    }
+  ],
+  "jones": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5739.ZC.html",
+      "file": "jones-99-5739.ZC.html",
+      "sha256": "c93b8e5a65a3defa08aa517c438bd7d1f69800f082286366d44baa5018802105",
+      "text_chars": 2359
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5739.ZC1.html",
+      "file": "jones-99-5739.ZC1.html",
+      "sha256": "6abdcb89cbf0392942f7d1bc799f44e29a93ea44e11b0f713ab33895ffa73353",
+      "text_chars": 834
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5739.ZO.html",
+      "file": "jones-99-5739.ZO.html",
+      "sha256": "141f2c001ceb0f4b27d2b5d6b8cf6f0e91555c3efccb6515a0b1b574a3ae8007",
+      "text_chars": 18829
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/99-5739.ZS.html",
+      "file": "jones-99-5739.ZS.html",
+      "sha256": "aa0be9c4563ffed91e884f1ccab8ae67043395212bff2bbe3fb1a164ae17a94d",
+      "text_chars": 7090
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-848.pdf",
+      "file": "jones-529us848.pdf",
+      "sha256": "6286c8861c045fa7b7fff637552c22856e424d2f45418fcefbd09b8b8cdb606b",
+      "pages": 13,
+      "text_chars": 27971
+    }
+  ],
+  "playboy": [
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1682.ZC.html",
+      "file": "playboy-98-1682.ZC.html",
+      "sha256": "5722d8d20ffea9aa5128dbc16deca5ed3e1f8a7241eca457eb5c6c8c05f24d44",
+      "text_chars": 2346
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1682.ZC1.html",
+      "file": "playboy-98-1682.ZC1.html",
+      "sha256": "95b32c604665ba605a118a214b6061a9610f5748da5e3446a3c9b534c475656e",
+      "text_chars": 4298
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1682.ZD.html",
+      "file": "playboy-98-1682.ZD.html",
+      "sha256": "48e50e807a95cb021ae77f4b91acf27d2db087028e7a40a75af3203a5d3f84b0",
+      "text_chars": 10320
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1682.ZD1.html",
+      "file": "playboy-98-1682.ZD1.html",
+      "sha256": "1b9adc8558b47f37f1a26107556cf299174aa0a9574c699d4e3649e8f0ffcd60",
+      "text_chars": 25904
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1682.ZO.html",
+      "file": "playboy-98-1682.ZO.html",
+      "sha256": "4c9f85b85f6b50f9795835386af1c851255ca546a27e3982bb6c3c9c700b55a4",
+      "text_chars": 45058
+    },
+    {
+      "url": "https://www.law.cornell.edu/supct/html/98-1682.ZS.html",
+      "file": "playboy-98-1682.ZS.html",
+      "sha256": "003b5159466b77c30920eeb5ab8a2a19396ec1578153f05b9941eb8f20e11a89",
+      "text_chars": 8773
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-803.pdf",
+      "file": "playboy-529us803.pdf",
+      "sha256": "ba93ffc0881b003aa9127ef5ed7138611c0049fe1059c72029d1cb2808b09759",
+      "pages": 45,
+      "text_chars": 96624
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": 10531038,
+  "name": "Kimberly Dawn FREEMAN, individually and as Administratrix of the Estate of Geraldine H. Downen, Deceased and Valerie D. Downen, Deceased, Appellant, v. Ronnie FERGUSON, individually and in his official capacity as Chief of Police of Dumas Police Department; Mark Norris, individually and in his official capacity as an Officer of the Dumas Police Department; Dwight Caldwell, individually and in his official capacity as an officer of the Dumas Police Department; Jessie Margaret Free, individually and in her official capacity as Mayor of Dumas Arkansas; City of Dumas, Arkansas; and Dumas Police Department, Appellees",
+  "name_abbreviation": "Freeman v. Ferguson",
+  "decision_date": "1990-08-06",
+  "docket_number": "No. 89-1405",
+  "first_page": "52",
+  "last_page": "57",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "911 F.2d 52"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "109 S.Ct. 1005",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1006"
+        },
+        {
+          "page": "1005-06"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "901 F.2d 696",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533720
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "700"
+        },
+        {
+          "page": "700-02",
+          "parenthetical": "plaintiff should be allowed to amend conclusory equal protection claim to include specific claim that defendant's conduct reflected discrimination based on plaintiff's status as a female victim of domestic violence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/901/0696-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 4,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "737 F.2d 1",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3799208,
+        669981
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/237/0219-01",
+        "/f2d/737/0001-01"
+      ]
+    },
+    {
+      "cite": "830 F.2d 237",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1763552,
+        4332306
+      ],
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/830/0237-01",
+        "/us-app-dc/265/0089-01"
+      ]
+    },
+    {
+      "cite": "569 F.2d 1031",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1423308
+      ],
+      "pin_cites": [
+        {
+          "page": "1033"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/569/1031-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 1059",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "110 S.Ct. 1156",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 1
+    },
+    {
+      "cite": "889 F.2d 159",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10526561
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "169"
+        },
+        {
+          "page": "170",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/889/0159-01"
+      ]
+    },
+    {
+      "cite": "897 F.2d 334",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10530046
+      ],
+      "pin_cites": [
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/897/0334-01"
+      ]
+    },
+    {
+      "cite": "908 F.2d 340",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535376
+      ],
+      "pin_cites": [
+        {
+          "page": "341-42"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/908/0340-01"
+      ]
+    },
+    {
+      "cite": "78 L.Ed.2d 141",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "104 S.Ct. 153",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 1
+    },
+    {
+      "cite": "464 U.S. 847",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6361248,
+        6362818,
+        6363654,
+        6362473,
+        6361450,
+        6362283,
+        6363305,
+        6362029,
+        6363473,
+        6361623,
+        6361820,
+        6363101
+      ],
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/464/0847-01",
+        "/us/464/0847-08",
+        "/us/464/0847-12",
+        "/us/464/0847-07",
+        "/us/464/0847-02",
+        "/us/464/0847-06",
+        "/us/464/0847-10",
+        "/us/464/0847-05",
+        "/us/464/0847-11",
+        "/us/464/0847-03",
+        "/us/464/0847-04",
+        "/us/464/0847-09"
+      ]
+    },
+    {
+      "cite": "705 F.2d 322",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1858722
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/705/0322-01"
+      ]
+    },
+    {
+      "cite": "762 F.2d 66",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        366100
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/762/0066-01"
+      ]
+    },
+    {
+      "cite": "901 F.2d 696",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10533720
+      ],
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/901/0696-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 855,
+    "char_count": 19127,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 6.093398734473247e-07,
+      "percentile": 0.9555360177369414
+    },
+    "sha256": "b1bb4de8b7c1e98f050f8f0b39a6a7ed28e81dd51c0e28e0fdad88361e854410",
+    "simhash": "1:2053c78087db57d4",
+    "word_count": 3083
+  },
+  "last_updated": "2024-02-27T17:30:24.581587+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McMILLIAN, Circuit Judge, MAGILL, Circuit Judge, and HANSON , Senior District Judge."
+    ],
+    "parties": [
+      "Kimberly Dawn FREEMAN, individually and as Administratrix of the Estate of Geraldine H. Downen, Deceased and Valerie D. Downen, Deceased, Appellant, v. Ronnie FERGUSON, individually and in his official capacity as Chief of Police of Dumas Police Department; Mark Norris, individually and in his official capacity as an Officer of the Dumas Police Department; Dwight Caldwell, individually and in his official capacity as an officer of the Dumas Police Department; Jessie Margaret Free, individually and in her official capacity as Mayor of Dumas Arkansas; City of Dumas, Arkansas; and Dumas Police Department, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "HANSON, Senior District Judge.\nAppellant asserts that the District Court erred in dismissing her cause of action under Rule 12(b)(6). The thrust of appellant\u2019s claim is that appellees, a municipality, the city police department, and municipal and police department employees, acted in violation of the Fourth, Fifth, and Fourteenth Amendments of the United States Constitution and in violation of provisions of the Arkansas Constitution, through the course of conduct they took with regard to plaintiffs decedents, Valerie D. Downen and Geraldine H. Downen. According to the pleadings, Geraldine Downen, age 38, and Valerie Downen, age 18,:\nmet a violent and untimely death at the hands of Geraldine H. Downen\u2019s estranged husband, Norman \u201cBud\u201d Dow-nen, Jr. At the time of the killings there was outstanding and in existence, a restraining order issued by the Chancery Court of Desha County, Arkansas, restraining Norman \u201cBud\u201d Downen, Jr. from harassing, coming about, intimidating, bothering or in any manner interfering with Plaintiff\u2019s decedent, Geraldine H. Downen. The Defendants, on numerous occasions, deliberately, indifferently, and intentionally, ignored, refused and failed to take seriously Geraldine H. Downen\u2019s pleas for help and demands to them to enforce the restraining order and to stop said Norman \u201cBud\u201d Downen, Jr. from threatening, coming about, and intimidating her.\nOn February 23, 1989 the District Court dismissed the action for failure to state a claim under DeShaney v. Winnebago County DSS, a case which the Supreme Court had issued on the previous day and which substantially altered the framework upon which cases such as that at bar are to be considered. 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989). We reverse the decision of the district court. Although we agree with the District Court that the original complaint was insufficient to state a claim under DeShaney, we find that appellant should have been given an opportunity to attempt to amend her complaint to conform with the rule of law established by DeShaney prior to dismissal of this action.\nDeShaney\nIn DeShaney the Supreme Court held that a state had no constitutional duty to protect a child, Joshua, from attacks by his father even though the state had received reports of the father physically abusing the child. 109 S.Ct. at 1001. The Court rejected the proposition that states have a general constitutional duty to protect their citizens from private violence, noting that each previous ease in which it had found a constitutional duty to protect had involved a person taken into custody by a state, and thereby a situation in which the state had taken an affirmative action which rendered an individual less able to care for himself. Id. at 1005. The Court distinguished such cases from the situation presented in De-Shaney as follows:\n[wjhile the State may have been aware of the dangers that Joshua faced in the free world, it played no part in their creation, nor did it do anything to render him any more vulnerable to them. That the State once took temporary custody of Joshua does not alter the analysis, for when it returned him to his father\u2019s custody, it placed him in no worse position than that in which he would have been had it not acted at all; the State does not become the permanent guarantor of an individual\u2019s safety by having once offered him shelter. Under these circumstances, the State had no constitutional duty to protect Joshua.\nId. at 1006.\nAppellant alleged at oral argument that this case is analogous to the cases in which a duty to protect has been recognized, and distinguishable from DeShaney. This allegation is based on the argument that in this case the state did play a part in the creation of the danger which resulted in the death of the Downens, and that the state did take actions which rendered them more vulnerable to such danger. The most specific allegation appellant presented with regard to this claim is that:\nwe could show conclusively that ... Mr. Downen was, in fact, a close bosom buddy of the Police Chief. We probably would be able to show that on occasions that some officers attempted to stop the conduct of Mr. Downen but they were directed not to [by the police chief] because that was, quote, Bud, end of quote. That he [Bud Downen] spent many of his days and nights with the police chief at the jail and his family had a very definite influence in this situation.\nRecording of Oral Argument, January 17, 1990.\nWe find that such an allegation is distinguishable from DeShaney. It presents a claim that the violence the decedents were subjected to was not solely the result of private action, but that it was also the result of an affirmative act by a state actor to interfere with the protective services which would have otherwise been available in the community \u2014 with such interference increasing the vulnerability of decedents to the actions of \u201cBud\u201d Downen and possibly ratifying or condoning such violent actions on his part. See generally Balistreri v. Pacifica Police Dept., 901 F.2d 696, 700 (9th Cir.1990) (rejecting due process claim based on failure to enforce restraining order in domestic abuse case because of lack of allegation that state actors had somehow affirmatively placed abuse victim in danger or had done anything to ratify, condone or instigate the actions of the victim\u2019s ex-husband). Without such affirmative actions on the part of the chief of police, the danger faced by the Downens would have arguably been less.\nIt is not clear, under DeShaney, how large a role the state must play in the creation of danger and in the creation of vulnerability before it assumes a corresponding constitutional duty to protect. It is clear, though, that at some point such actions do create such a duty. DeShaney, 109 S.Ct. 1005. To date the Supreme Court has found such a situation only in a custodial setting. Id. It is instructive, however, that in DeShaney the Court considered it necessary to review the state\u2019s actions with regard to Joshua\u2019s claim to determine whether the state had placed him in greater danger or made him more vulnerable, even though he was in a non-custodial setting. Id. at 1006. This analysis establishes the possibility that a constitutional duty to protect an individual against private violence may exist in a non-custodial setting if the state has taken affirmative action which increases the individual\u2019s danger of, or vulnerability to, such violence beyond the level it would have been at absent state action. Appellant\u2019s allegations indicate that in this case the state may have increased the dangers faced by the Downen women to such a level.\nIn fairness to the District Court we note that appellant\u2019s allegations made in oral argument regarding the Police Chief\u2019s actions in affirmatively placing decedents in a more vulnerable position were not pleaded this specifically in the complaint. Instead, appellant originally pleaded that the Police Chief \u201chad such a close personal relationship with Norman (Bud) Downen and others in the community, that he failed to act as incumbent upon him to perform the duties of Police Chief\u201d. Although the more specific allegation quoted above easily fits within this general claim, we agree with the District Court that after DeShaney such general allegations are insufficient to state a federal constitutional claim. However, appellant filed her complaint prior to DeShaney and had no opportunity to amend her complaint in response to the law established by DeShaney prior to its dismissal. We find that equity and fairness require that appellant be granted the right to amend her complaint with the more specific pleadings now required.\nClose examination of such a replead complaint may still leave the allegations short of what is now required to establish a constitutional claim against some or all of the appellees. It would be imprudent to so conclude at this juncture, though, as the law is not entirely established as to the extent to which the government must increase the danger of private violence before it assumes a corresponding duty to protect. DeShaney does establish that the overall danger must at least be greater than it would be absent state action, and it also establishes that the increased danger created in a custodial setting is sufficient to trigger the duty. Id. at 1005-06. It says little about the grey area in between. Accordingly, as we cannot determine from the current pleadings whether appellant\u2019s claims fall within this potential window, and if so where, we find that appellant must be given the opportunity to amend her complaint before a conclusive ruling on this issue can be made in this case.\nThe order of the District Court is reversed and the case is remanded with directions that appellant be allowed to amend in accordance with this decision. Although we have not discussed the equal protection claims the court is instructed that appellant also be allowed to replead these claims. As noted in DeShaney, the state may not \u201cselectively deny its protective services to certain disfavored minorities without violating the Equal Protection Clause.\u201d Id. at 1004 n. 3. See also Balistreri, 901 F.2d at 700-02 (plaintiff should be allowed to amend conclusory equal protection claim to include specific claim that defendant\u2019s conduct reflected discrimination based on plaintiff\u2019s status as a female victim of domestic violence).\nIt is so ordered.",
+        "type": "majority",
+        "author": "HANSON, Senior District Judge."
+      },
+      {
+        "text": "MAGILL, Circuit Judge,\ndissenting.\nI respectfully dissent. I agree with the majority that the general allegations of appellant\u2019s complaint are insufficient to state a federal constitutional claim. However, I disagree with the majority insofar as it reverses the district court and remands with directions to give appellant an opportunity to amend her complaint in accordance with DeShaney. Under well-settled principles in this circuit, we are barred from doing so.\nThe majority emphasizes that its decision to remand is based upon the fact that \u201cappellant filed her complaint prior to DeSha-ney and had no opportunity to amend her complaint in response to the law established by DeShaney prior to its dismissal.\u201d Ante at 55. The majority further states that \u201cequity and fairness require that appellant be granted the right to amend her complaint with the more specific pleadings now required.\u201d Id.; see also id. at 53, 55.\nThe majority ignores two procedural obstacles. First, appellant never argued on appeal that we should reverse on the basis relied upon by the majority. Instead, appellant chose to stand by her amended complaint, arguing that it did in fact satisfy the requirements of DeShaney. It is in this basket that appellant intentionally chose to place all her eggs. \u201cIt is well settled in this circuit if an issue is not raised on appeal it will be deemed abandoned.\u201d Borough v. Duluth, Missabe & Iron Range Ry. Co., 762 F.2d 66, 68 n. 1 (8th Cir.1985) (citing Kizzier Chevrolet Co., Inc. v. General Motors Corp., 705 F.2d 322, 325 n. 2 (8th Cir.), cert. denied, 464 U.S. 847, 104 S.Ct. 153, 78 L.Ed.2d 141 (1983)). Therefore, appellant abandoned the arguments that she should have been allowed to amend her complaint after DeShaney and the district court\u2019s failure to grant her another opportunity sua sponte constituted plain error. It is not appropriate to consider this argument as a basis for reversing the district court when it was never raised on appeal.\nSecond, appellant never argued to the district court even through a motion for reconsideration that she should be given an opportunity to amend her complaint based upon DeShaney. Unless appellant can demonstrate that manifest injustice would result from our refusal to consider whether she should have been allowed to amend her complaint, we are barred from addressing the issue. United States v. Carroll, 908 F.2d 340, 341-42 (8th Cir.1990) (per curiam) (citing Molasky v. C.I.R., 897 F.2d 334, 338 (8th Cir.1990)); cf. Brown v. Frey, 889 F.2d 159, 169 (8th Cir.1989) (when objection not raised below, we will only reverse the judgment entered if error constitutes plain error in the sense it has led to a miscarriage of justice; doctrine is extremely limited), cert. denied, \u2014 U.S. -, 110 S.Ct. 1156, 107 L.Ed.2d 1059 (1990); Williams v. McClellan, 569 F.2d 1031, 1033 (8th Cir.1978) (per curiam) (where appellant did not amend her complaint to respond to charge that the relief sought was moot nor to defendant\u2019s motion to dismiss on the same basis, dismissal of complaint proper). Of course, since appellant never even argued on appeal that she should have been allowed to amend her complaint again, she certainly has not met her burden of demonstrating manifest injustice. Principles of equity and fairness identified by the majority do not rise to the level of manifest injustice. The majority\u2019s opinion directly conflicts with this circuit\u2019s precedent by reversing the district court on a ground which it never had an opportunity to consider, without the requisite finding of manifest injustice.\nFinally, the majority relies on the offhand comments of appellant\u2019s counsel during oral argument that if given the opportunity, he could conclusively show at trial that the police chief affirmatively interfered with law enforcement\u2019s efforts to protect decedents. If appellant\u2019s counsel could so conclusively demonstrate this fact, then why did counsel not make this allegation in the original or amended complaint? Why did counsel not inform the district court of this fact? I do not believe it is appropriate to rely on factual representations made for the first time on appeal as the basis to reverse the judgment of the district court.\nIn a well-reasoned opinion, the district court found that appellant\u2019s \u201camended complaint [did] not allege a claim for federal relief.\u201d Freeman v. Ferguson, No. PBC-88-427, slip op. at 3 (E.D.Ark. Feb. 27, 1989). The majority nowhere faults the district court\u2019s reasoning. Given the majority\u2019s conclusion that appellant\u2019s complaint was deficient, it is puzzling why the majority feels compelled to ignore this circuit\u2019s well-established rules and reverse the district court\u2019s judgment. I would affirm.\n. I note that appellant was in fact given an opportunity to amend her complaint pursuant to her motion on February 1, 1989. It is the amended, not the original, complaint which the district court considered. Appellant\u2019s motion to amend her complaint was filed nearly three weeks before the Supreme Court announced its decision in DeShaney. On February 23, 1989, the district court granted appellant\u2019s motion for leave to amend her complaint, but, after considering the new allegations appellant desired to place into her amended complaint, dismissed it. On February 27, 1989, appellant nonetheless filed the amended complaint which conformed to her original motion for leave to amend the complaint.\nAppellant never requested, whether formally or informally, that she be allowed to amend her complaint a second time. I do acknowledge that the district court\u2019s order dismissing her first amended complaint was filed only one day after the Supreme Court announced its decision in DeShaney. However, appellant not only failed to ask the district court to reconsider its decision and grant her still another opportunity to amend her complaint based upon DeShaney, but she did not raise the issue on appeal. In Balistreri, the appellant, pro se, did in fact expressly, although informally, request to amend her complaint and did raise the issue on appeal. Balistreri, 901 F.2d at 701.\n. I note that appellant did not argue on appeal that the alleged error in failing to give her another opportunity to amend her complaint constituted plain error.\n. The comment was made for the first time in appellant\u2019s rebuttal during oral argument.\n. Appellant\u2019s amended complaint, filed five days after DeShaney, alleges that the police chief failed to act to enforce the restraining order and failed to cause his officers to enforce it. Nowhere does it allege any affirmative interference on the part of the police chief whereby he restrained his officers from enforcing the order. In fact, appellant\u2019s counsel acknowledged as much during the rebuttal portion of his oral argument.\n. The majority states that appellant\u2019s new allegation that the police chief affirmatively interfered with the enforcement of the law fits under the general allegation made in the original complaint that the police chief \u201chad such a close personal relationship with Norman (Bud) Dow-nen and others in the community, that he failed to act as incumbent upon him to perform the duties of Police Chief.\" Ante at 55 (emphasis added). I disagree. The majority\u2019s conclusion that the new allegation is subsumed by the old ignores this circuit\u2019s precedent on pleadings in \u00a7 1983 suits. \"Damage actions against government officials are subject to a heightened standard of pleading with sufficient precision ' \"to put defendants on notice of the nature of the claim and enable them to prepare a response and, where appropriate, a summary judgment motion on qualified immunity grounds.\u201d \u2019 \u201d Brown v. Frey, 889 F.2d at 170 (emphasis added) (quoting Martin v. Malhoyt, 830 F.2d 237, 254 (D.C.Cir.1987), quoting Hobson v. Wilson, 737 F.2d 1, 29 (D.C.Cir.1984)). In Brown v. Frey, we held that Brown's old allegation that he was threatened with retaliation because he filed lawsuits against prison officials in the courts did not encompass his new claim that he was threatened with retaliation when he filed grievances in the prison system. Id. at 170 n. 17. Appellant's new allegation, stated for the first time on appeal, charges the police chief with affirmative acts aimed at interfering with police protection. The original allegation charges the police chief with negative acts (i.e., failing to do something). The new allegation is of an entirely different character than the allegation originally pleaded. Accordingly, it does not even come close to meeting our requirement of a heightened standard of pleading with sufficient precision to put defendants on notice.",
+        "type": "dissent",
+        "author": "MAGILL, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Bill R. Holloway, McGehee, Ark., for appellant.",
+      "Brian Brown, Little Rock, Ark., for ap-pellees."
+    ],
+    "corrections": "",
+    "head_matter": "Kimberly Dawn FREEMAN, individually and as Administratrix of the Estate of Geraldine H. Downen, Deceased and Valerie D. Downen, Deceased, Appellant, v. Ronnie FERGUSON, individually and in his official capacity as Chief of Police of Dumas Police Department; Mark Norris, individually and in his official capacity as an Officer of the Dumas Police Department; Dwight Caldwell, individually and in his official capacity as an officer of the Dumas Police Department; Jessie Margaret Free, individually and in her official capacity as Mayor of Dumas Arkansas; City of Dumas, Arkansas; and Dumas Police Department, Appellees.\nNo. 89-1405.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted Jan. 17, 1990.\nDecided Aug. 6, 1990.\nBill R. Holloway, McGehee, Ark., for appellant.\nBrian Brown, Little Rock, Ark., for ap-pellees.\nBefore McMILLIAN, Circuit Judge, MAGILL, Circuit Judge, and HANSON , Senior District Judge.\nThe HONORABLE WILLIAM C. HANSON, Senior United States District Judge for the Southern District of Iowa, sitting by designation."
+  },
+  "file_name": "0052-01",
+  "first_page_order": 138,
+  "last_page_order": 143
+}

@@ -1,0 +1,49 @@
+{
+  "stage": "3B independent non-Stone modeling",
+  "event_cutoff": "2000-05-15 before uncoordinated same-day events",
+  "case": "JOHNSON",
+  "inputs": [
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_JOHNSON_NEUTRAL_VALIDATED.md",
+      "sha256": "3f4dcbdc19ded6f049fecb9c6b4ea1192480f993521100ddff735d2a0d78a52d"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY15_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "0620c06134186d49b5324c6e5a6607053daaf0c6a432b68dc9e47f79833efa5d"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MINING_REGIONS_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "c2722721f92f02b9111a7c2706536ff0329c1657781f0b487662856cafe4f4c9"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "sha256": "ffb7de824d00c37da02a6c793f87783109530552c41ac735def9759835e7c106"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "sha256": "9ec390a2bc0c2361a40748645454aef76eb1fb5e1faf1da1b219022467a4f634"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_JOHNSON_GRANDERSON_PUBLIC.md",
+      "sha256": "4f256efda52f6745d26d0a04b3bb9dba426329a8e1e1be74dc69cdd293c99254"
+    }
+  ],
+  "freeze_sha256": "91f1b024b0700c4e3d8c28db52ec2fd5a7ab7992d8452aebb016118770bd37bc",
+  "runtime_sha256": "91f1b024b0700c4e3d8c28db52ec2fd5a7ab7992d8452aebb016118770bd37bc",
+  "checks": {
+    "copies_identical": true,
+    "all_eight_Associates_both_components": true,
+    "final_neutral_certificate_read": true,
+    "no_same_day_borrowing": true,
+    "no_current_outcome_or_controlled_position_exposure": true,
+    "no_assignment": true
+  },
+  "arithmetic": {
+    "old_imposed_term_months": 36,
+    "revocation_prison_months": 18,
+    "renewed_supervision_months": 12,
+    "sum_months": 30,
+    "old_class_D_prison_cap_months": 24
+  },
+  "substantive_validation": "Eight reject subsection h application. Seven support old-law authority; Scalia opposes it. Old imposed term and amended authorized term kept distinct. Tools verify copies/arithmetic only."
+}

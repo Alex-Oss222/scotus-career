@@ -1,0 +1,54 @@
+PUBLIC LANDS COUNCIL V. BABBITT
+
+ 
+
+ 
+
+LII
+
+ 
+
+Supreme Court
+
+ 
+
+PUBLIC LANDS COUNCIL V. BABBITT (98-1991) 
+167 F.3d 1287, affirmed.
+Syllabus
+ Opinion
+ [ Breyer ]Concurrence
+ [ O'Connor ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+PUBLIC LANDS COUNCIL et al. v. BABBITT, SECRETARY OF THE INTERIOR, et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE TENTH CIRCUIT
+
+ 
+No. 98—1991. Argued March 1, 2000–Decided May 15, 2000
+
+The Taylor Grazing Act, inter alia, grants the Secretary of the Interior authority to divide the public rangelands into grazing districts, to specify the amount of grazing permitted in each district, and to issue grazing leases or permits to “settlers, residents, and other stock owners,” 43 U.S.C. § 315 315a, 315b; gives preference with respect to permits to “landowners engaged in the livestock business, bona fide occupants or settlers, or owners of water or water rights,” §315b; and specifies that grazing privileges “shall be adequately safeguarded,” but that the creation of a grazing district or the issuance of a permit does not create “any right, title, interest, or estate in or to the lands,” ibid. Since 1938, conditions placed on grazing permits have reflected the grazing privileges’ leasehold nature, and the grazing regulations in effect have preserved the Secretary’s authority to (1) cancel a permit under certain circumstances, (2) reclassify and withdraw land from grazing to devote it to a more valuable or suitable use, and (3) suspend animal unit months (AUMs) of grazing privileges in the event of range depletion. Petitioners, ranching-related organizations, challenged several 1995 amendments to the regulations. The District Court found four of the new regulations unlawful. The Tenth Circuit reversed as to three of them, upholding regulations that (1) changed the definition of “grazing preference,” 43 CFR § 4100.0—5; (2) permitted those who are not “engaged in the livestock business” to qualify for grazing permits, §4110.1(a); and (3) granted the United States title to all future “permanent” range improvements, §4120.3—2.
+
+Held: The regulatory changes do not exceed the Secretary’s Taylor Grazing Act authority. Pp. 10—21.
+
+ (a) Section 4100.0—5’s new definition of “grazing preference” does not violate 43 U.S.C. § 315b’s requirement that “grazing privileges” “be adequately safeguarded.” Before its amendment, §4100.0—5 defined “grazing preference” as “the total number of [AUMs] of livestock grazing on public lands apportioned and attached to base property owned or controlled by a permittee or lessee,” but the 1995 version refers only to a priority, not to a specific number of AUMs, and it adds a new term, “permitted use,” which refers to forage “allocated by, or under the guidance of an applicable land use plan.” The new definitions do not exceed the Secretary’s authority under §315b. First, §315b’s words “so far as consistent with the purposes” of the Act and “issuance of a permit” creates no “right, title, interest, or estate” make clear that the ranchers’ interest in permit stability is not absolute and that the Secretary is free reasonably to determine just how, and the extent to which, grazing privileges are to be safeguarded. Moreover, since Congress itself has directed development of land use plans, and their use in the allocation process, it is difficult to see how a definitional change that simply refers to using such plans could violate the Taylor Act by itself, without more. Given the broad discretionary powers that the Taylor Act grants the Secretary, the Act must be read as here granting him at least ordinary administrative leeway to assess “safeguard[ing]” in terms of the Act’s other purposes and provisions. Second, the pre-1995 AUM system that petitioners seek to “safeguard” did not offer them anything like absolute security, for the Secretary had well-established pre-1995 authority to cancel, modify, or decline to review permits, including the power to do so pursuant to a land use plan. Third, the new definitional regulations by themselves do not automatically bring about a self-executing change that would significantly diminish the security of grazing privileges. The Department represents that the new definitions merely clarify terminology. The new regulations do seem to tie grazing privileges to land use plans more explicitly than did the old. However, all Bureau of Land Management lands have been covered by land use plans for nearly 20 years, yet the ranchers have not provided a single example in which interaction of plan and permit has jeopardized or might jeopardize permit security. A particular land use plan might lead to a denial of privileges that the pre-1995 regulations would have provided, but the question here is whether the definition changes by themselves violate the Act’s requirement that grazing privileges be “adequately safeguarded.” They do not. Pp. 10—15.
+
+ (b) The deletion of the phrase “engaged in the livestock business” from §4110.1(a) does not violate the statutory limitation to “stock owners.” Section 315b, just two sentences after using “stock owners,” gives preference to “landowners engaged in the livestock business.” This indicates that Congress did not intend to make the phrases synonyms. Neither the Act’s legislative history nor its basic purpose suggests an absolute limit to those engaged in the livestock business was intended by the term “stock owner.” The ranchers’ underlying concern is that the amendment is part of a scheme to end grazing on public lands by allowing individuals to acquire a few livestock, obtain a permit for conservation, and then effectively mothball the permit. However, the remaining regulations, for livestock grazing use or suspended use, do not encompass the situation that the ranchers describe. Pp. 15—19.
+
+ (c) Section 4120.3—2, which specifies that title to permanent range improvements, such as fences, wells, and pipelines, made pursuant to cooperative agreements with the Government shall be in the name of the United States, does not violate the Act. Nothing in statute denies the Secretary authority reasonably to decide when or whether to grant title to those who make improvements. Any such person remains free to negotiate the terms upon which he will make those improvements, including how he might be compensated in the future for his work, either by the Government or by those granted a Government permit. Pp. 19—21.
+
+167 F.3d 1287, affirmed.
+
+ Breyer, J., delivered the opinion for a unanimous Court. O’Connor, J., filed a concurring opinion, in which Thomas, J., joined.

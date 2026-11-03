@@ -1,0 +1,858 @@
+\ ' 
+
+
+S41 ( | : 
+No og-meee- | OCf 20 1% 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+
+
+ScoTT LESLIE CARMELL. 
+Petitioner. 
+~ 
+STATE OF TEXAS, 
+Respondent. 
+
+
+On Writ of Certiorari 
+to the Texas Court of Appeals 
+
+
+BRIEF OF THE AMICI STATES 
+IN SUPPORT OF TEXAS 
+
+
+CARLA J. STOVALL 
+Kansas Attorney General 
+STEPHEN R. MCALLISTER 
+Kansas State Solicitor 
+
+(Counsel of Record) 
+301 S.W. 10th Avenue 
+Topeka, Kansas 66612 
+(785) 296-2215 
+
+
+Counsel for the Amici States 
+
+
+[Additional Counsel Listed After Conclusion] 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Se te ES os ae be ce iii 
+INTERESTS OF THE AMICI STATES ............. | 
+SUMMARY OF THE ARGUMENT................ l 
+REE CNS oes aie’ a Pe Lea's 6 oles 3 
+
+
+I. THE 1993 AMENDMENT TO THE TEXAS 
+“OUTCRY” STATUTE DID NOT CHANGE ANY 
+ELEMENTS OF AN OFFENSE, ELIMINATE AN 
+AFFIRMATIVE DEFENSE, NOR INCREASE THE 
+PUNISHMENT FOR AN OFFENSE ............ 3 
+
+
+A. Constitutional Ex Post Facto Prohibitions Do Not 
+Apply To Changes In Procedural Rules That Do Not 
+Alter The Elements Of An Offense, Eliminate An 
+Affirmative Defense, Nor Increase The Punishment 
+PRE I rs Pb are wile en's wake cx S pave 3 
+
+
+1. This Court Already Has Rejected The Proposition 
+That The Fourth Calder v. Bull Category Of Ex 
+Post Facto Legislation Has Legal Significance 
+Independent Of The First Three Categories .. 3 
+
+
+2. This Court’s Decisions Subsequent To Collins v. 
+Youngblood Confirm That Constitutional Ex Post 
+Facto Prohibitions Are Not Implicated By Every 
+Change In The Law That A Defendant Claims Is 
+SE Sa ie ass Cite vie Blin wk OS 6 
+
+
+B. Other Constitutional Provisions, Such As The Right 
+To Due Process, The Right To Confront Witnesses, 
+The Right To Compulsory Process, And The 
+Prohibition On Bills Of Attainder, Adequately Protect 
+Defendants In The Circumstances Presented Here 7 
+
+
+Il. PROCEDURAL RULES DO NOT CREATE 
+“DEFENSES” FOR EX POST FACTO 
+PURPOSES .3 0.5. eta) ke el ee 9 
+
+
+A. Only Rules That Affect The Legal Definition Of An 
+Offense Constitute A “Defense” For Ex Post Facto 
+Purpeees . . ...  o.  co ee Se eee 9 
+
+
+B. The Ex Post Facto Clause Does Not Prohibit 
+Changes In Evidentiary Rules............... 10 
+
+
+C. The Ex Post Facto Clause Does Not Prohibit 
+Changes In Statutes Of Limitation ........... 12 
+
+
+D. The 1993 Amendment Did Not Alter The Substantive 
+Criminal Law OF Tomes... 0000 a4 ee ee 14 
+
+
+CONCLUSION 25s aS ak Circe ae 15 
+
+
+——_ — 
+
+
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Addington v. Texas, 441 US. 418(1979) _........... 7 
+Beazell v. Ohio, 269 U.S. 167(1925) .........9, 11,13 
+Calder v. Bull, 3 Dall. 386(1798)............. 1,3 
+California Department of Corrections v. Morales, 
+
+Se PUI. OU Die viet o's 0 oe “dial Seale 
+Collins v. Youngblood, 497 U.S. 37 (1990). passim 
+Coy v. lowa, 487 U.S. 1012(1988) ........ .... x 
+Dawson v. Delaware, 503 US. 159 (1992). 4 
+Department of Revenue of Montana v. Kurth Ranch, 
+
+511 U.S. 767 (1995) . Sie. Aiae tina. | 6 
+
+Hopt v. Utah, 110 US. $74 (1884) a, | 10,11 
+Idaho v. Wright, 497 U.S. 805(1990) ._.. | s 
+Kansas v. Hendricks, §2\1 US. 346 (1997) 6 
+Kring v. Missouri, 107 US 221 (1883)... 5 
+Miller v. Florida, 482 U.S. 423 (1987) _.. 12 
+People v. Frazer, 2\ Cal 4th 737 (1999) _. 12, 13, 14 
+Thompson v. Utah, 170 US. 343 (1898)... 5 
+In re Winship, 397 U.S. 358 (1970) __. ae i 7 
+Constitutional Provisions and Statutes 
+HES TT ee eee 1,8 
+I s , ; Ube ee ae ole oe 12 
+a ee 12 
+RE ne 12 
+EEE ne 12, 13 
+Miscellaneous 
+
+
+— 
+
+
+INTERESTS OF THE AMICI STATES 
+The States have a substantial interest in the interpretation 
+and application of the Ex Post Facto Clause of Article I, 
+section 10 of the Constitution. Properly understood, the 
+
+
+crimes. But, as in this case, the States nonetheless have been 
+confronted with ex post facto claims when the States have 
+changed virtually any rule of evidence, criminal procedure, 
+prison admunuistration, or the statutes of limitation that apply to 
+various offenses. This case presents the Court with an 
+opportunity to clarify whether the constitutional ex post facto 
+prohibition applies at all to changes in the States’ laws that do 
+not fall within the three traditional ex post facto categories. 
+This issue arises with some frequency in litigation initiated 
+against the States, particularly as the volume of prisoner suits 
+has grown over the years. 
+SUMMARY OF THE ARGUMENT 
+
+
+The Court’s decision in Collins v. Youngblood, 497 U S. 
+37 (1990), establishes that the Ex Post Facto Clauses in the 
+Constitution apply only to retroactive changes that either (1) 
+alter the elements of a criminal offense, (2) eliminate an 
+affirmative defense, or (3) increase the punishment for an 
+offense. Collins and other decisions of the Court make clear 
+that the fourth category of ex post facto laws that Justice Chase 
+identified in Calder v. Bull, 3 Dall. 386, 390 (1798)—changes 
+in evidentiary rules that permit conviction on the basis of less 
+testimony—has no legal significance independent of the three 
+traditional categories. Indeed, there is no reason to give Justice 
+Chase’s fourth category any separate legal significance, 
+because the concerns raised by retroactive changes in 
+evidentiary rules are addressed by several other constitutional 
+provisions and doctrines, such as general procedural due 
+process principles, the nght to confront witnesses, the right to 
+
+
+2 
+
+
+compulsory process, and the prohibition against bills of 
+attainder. 
+
+
+Nor is there any merit to petitioner's suggestion that a 
+change in an evidentiary rule can deprive him of a “defense” for 
+ex post facto purposes. Only affirmative defenses that amount 
+to legal excuses or justification for otherwise criminal conduct 
+are “defenses” for ex post facto purposes. Thus, situations 
+such as insufficient evidence of the crime, the incompetency of 
+a witness, the scientific unreliability of evidence, or the 
+existence of a statute of limitations are not “defenses” within 
+the contemplation of the constitutional prohibitions on ex post 
+
+
+facto \egisliation. 
+
+
+Petitioner’s ex post facto claim must fail because the 1993 
+amendment to the Texas statute did not (1) alter the elements 
+of an offense, (2) eliminate an affirmative defense, or (3) 
+increase the punishment for an offense Instead, the substantive 
+criminal law of Texas has remained unchanged with respect to 
+the sexual offenses for which petitioner was convicted. 
+
+
+3 
+
+
+ARGUMENT 
+
+
+l. THE 1993 AMENDMENT TO THE TEXAS 
+“OUTCRY” STATUTE DID NOT CHANGE ANY 
+ELEMENTS OF AN OFFENSE, ELIMINATE AN 
+AFFIRMATIVE DEFENSE, NOR INCREASE THE 
+PUNISHMENT FOR AN OFFENSE 
+
+
+A. Constitutional Ex Post Facto Prohibitions Do Not 
+Apply To Changes In Procedural Rules That Do Not 
+Alter The Elements Of An Offense, Eliminate An 
+Affirmative Defense, Nor Increase The Punishment 
+For An Offense 
+
+
+1. This Court Already Has Rejected The Proposition 
+That The Fourth Calder v. Bull Category Of Ex Post 
+Facto Legislation Has Legal Significance 
+Independent Of The First Three Categories 
+
+
+This Court’s decision in Collins v. Youngblood, 497 U S. 
+37 (1990), establishes that the fourth ex post facto category 
+that Justice Chase identified in Calder v. Bull, 3 Dall. 386 
+(1798) (opinion of Chase, J.)'—the only category on which the 
+petitioner relies in this case—has no legal effect independent of 
+the first three categories. Thus, the Texas statutory 
+amendment at issue in this case cannot violate the ex post facto 
+prohibition unless it either (1) defines a new crime, (2) 
+aggravates the seriousness of a crime by, for example, 
+
+
+' Justice Chase identified four situations that, in his view, would 
+contravene the constitutional ex post facto prohibition: (1) a “law that 
+makes an action done before the passing of the law, and which was 
+imnocent when done, criminal”, (2) a “law that aggravates a crime, or 
+makes it greater than it was, when committed”, (3) a “law that changes 
+the punishment, and inflicts a greater punishment, than the law annexed 
+to the crime, when committed”; and (4) a “law that alters the legal rules 
+of evidence, and receives less, or different, testimony, than the law 
+required at the time of the commission of the offence, in order to convict 
+the offender.” 3 Dall. 386, 390 (opinion of Chase, J.). 
+
+
+4 
+
+
+eliminating an affirmative defense, or (3) increases the 
+punishment for a crime, none of which it does. 
+
+
+In Collins, this Court addressed a sex offender’s claim that 
+a new statute permitting an appellate court to reform an 
+otherwise improper verdict (rather than require a new trial of 
+the case) could not be applied retroactively. The Court 
+unanimously rejected the sex offender’s ex post facto claim. In 
+doing so, the majority opinion disavowed any notion that 
+Justice Chase’s fourth category—tretroactive changes in the 
+rules of evidence—has any legal meaning or significance 
+independent of the first three categories. 
+
+
+In his opinion for the Court, the C rief Justice pointed out 
+that the Court has not endorsed Justice Chase’s fourth 
+category. 497 U.S. at 43 n. 3. Instead, the Court has adopted 
+a “definition [that] omits the reference by Justice Chase in 
+Calder v. Bull to alterations in the ‘legal rules of evidence.’ As 
+cases subsequent to Calder make clear, this language was not 
+intended to prohibit the application of new evidentiary rules 
+in trials for crimes committed before the changes.” 497 U S. 
+at 43 n 3 (emphasis added, internal citations omitted). The 
+Court discussed several of those subsequent cases, some of 
+which relied upon a distinction between “procedural” and 
+“substantive” changes in the law, and declared that, in the ex 
+post facto context, “it is logical to think that the term 
+[‘ procedural’ ] refers to changes in the procedures by which a 
+criminal case is adjudicated, as opposed to changes in the 
+substantive law of crimes.” /d at 45. The Court emphasized 
+that labeling a law “procedural” does not insulate it from ex 
+post facto challenge. Rather, the Court held that “the 
+constitutional prohibition is addressed to laws, ‘whatever their 
+
+
+5 
+
+
+form,’ which make innocent acts criminal, alter the nature of 
+the offense, or increase the punishment.”’ /d. at 46. 
+
+
+In Collins, the Court recognized that some of its older ex 
+post facto decisions spoke in terms of changes in the law that 
+deprived a defendant of “substantial protections”, but the 
+Court used the Collins case to expressly disavow such 
+language. 497 US. at 45-46. Indeed, the Court overruled two 
+decisions that the Court found inconsistent with the proper 
+historical understanding of the ex post facto prohibition. /d. at 
+
+47-52 (overruling Kring v. Missouri, 107 U.S. 221 (1883), and 
+Thompson v. Utah, 170 U.S. 343 (1898)). In so doing, the 
+Court clarified that the constitutional ex post facto prohibition, 
+as summarized in the Calder v. Bull categories, does not 
+prohibit every “change which ‘alters the situation of a party to 
+his disadvantage.” 497 U.S. at 50. “[S]uch a reading of the 
+Clause departs from the meaning of the Clause as it was 
+understood at the time of the adoption of the Constitution, and 
+is not supported by later cases.” /d. 
+
+
+Thus, even though the Texas statute at issue in Collins 
+altered the law in a way that operated to the defendant's 
+disadvantage in that case, the Court found no ex post facto 
+violation. Instead, the Court concluded that 
+
+
+The Texas statute allowing reformation of improper 
+verdicts does not punish as a crime an act previously 
+committed, which was innocent when done, nor make more 
+burdensome the punishment for a crime, after its 
+commission, nor deprive one charged with crime of any 
+defense available according to law at the time when the act 
+was committed Its application to respondent therefore is 
+not prohibited by the Ex Post Facto Clause of Art. I, § 10 
+
+
+’ Thus, the States are not contending that a “procedural” change can never 
+violate the constitutional ex post facto prohibition, but that it 1s likely to 
+be a rare case in which such a violation occurs. 
+
+
+6 
+
+
+497 US. at 52. With all due respect, applying the same three 
+standards to the Texas “outcry” statute at issue in this case, the 
+only reasonable conclusion is that retroactive application of the 
+1993 amendment does not contravene ex post facto principles. 
+
+
+2. This Court’s Decisions Subsequent To Collins vy. 
+Youngblood Confirm That Constitutional Ex Post 
+Facto Prohibitions Are Not Implicated By Every 
+Change In The Law That A Defendant Claims Is 
+Detrimental 
+
+
+Since Collins, this Court on several occasions has reiterated 
+the proposition that the x Post Facto Clause does not prohibit 
+any and all retroactive changes in the law that may 
+“disadvantage” an offender. Thus, in California Dept. of 
+Corrections v. Morales, 514 U.S. 499 (1995), the Court 
+declared that “[a]fter Collins, the focus of the ex post facto 
+inquiry is not on whether a legislative change produces some 
+ambiguous sort of ‘disadvantage,’ .. . but on whether any such 
+change alters the definition of cnminal conduct or increases the 
+penalty by which a crime is punishable.” 514 US. at 506 n. 3. 
+C7. Kansas v. Hendricks, 521 U.S. 346 (1997) (involuntary 
+civil commitment statute that applies to sex offenders is not 
+punitive and therefore does not violate ex post facto principles 
+when applied retroactively to convicted sex off fers). 
+
+
+Indeed, this Court has expressly held that “whether a 
+sanction constitutes punishment is not determined from the 
+defendant’s perspective.” Department of Revenue of Montana 
+v. Kurth Ranch, 511 U.S. 767, 777 n. 14 (1995). See also 
+Harold J. Krent, 7he Puzzling Boundary Between Criminal 
+And Civil Retroactive Lawmaking, 84 Geo. L_.J. 2143 (1996). 
+Thus, the mere fact that the 1993 amendment to the Texas 
+statute may not please petitioner does not implicate the 
+constitutional ex post facto prohibition. Instead, the questions 
+are whether the Texas statute (1) created a new crime, (2) 
+increased the punishment for the crime, or (3) altered the 
+nature of the crime, for example, by eliminating an affirmative 
+
+
+7 
+
+
+defense. With all due respect, the 1993 amendment to the 
+Texas statute did none of those things. 
+
+
+B. Other Constitutional Provisions, Such As The Right 
+To Due Process, The Right To Confront Witnesses, 
+The Right To Compulsory Process, And The 
+Prohibition On Bills Of Attainder, Adequately 
+Protect Defendants In The Circumstances Presented 
+Here 
+
+
+Importantly, the Court’s decision in Collins that the fourth 
+Calder v. Bull category has no legal significance independent 
+of the first three categories leaves no gap in the constitutional 
+protection of criminal defendants. Other constitutional 
+provisions adequately protect defendants such as petitioner in 
+the context of changes or amendments to evidentiary or other 
+procedural rules. 
+
+
+To the extent petitioner's complaint goes to the 
+competency of his victim to testify against him, the 
+Constitution already addresses those concerns in other 
+provisions, making resort to the ex post facto prohibition 
+unnecessary. Due process principles generally assure 
+fundamental fairness in criminal proceedings. Basic procedural 
+due process principles, for example, limit a State’s ability to 
+lower the State’s burden of proof in criminal proceedings, e.g., 
+In re Winship, 397 U.S. 358 (1970), and some civil 
+proceedings. E.g., Addington v. Texas, 441 U.S. 418 (1979).’ 
+General due process principles also apply to issues concerning 
+the reliability and relevance of evidence. F.g., Dawson v. 
+Delaware, 503 U.S. 159 (1992). 
+
+
+* Thus, in the highly unlikely circumstance that a State enacted a statute 
+that retroactively altered the State's burden of proof for some or all 
+criminal offenses below the requirement of proof beyond a reasonsble 
+doubt, such a change would violate due process, whether applied 
+retroactively or prospectively, and there would be no reason to invoke the 
+ex post facto prohibition in order to declare the statute unconstitutional. 
+
+
+8 
+
+
+In addition, the Confrontation Clause of the Sixth 
+Amendment limits the use of hearsay evidence, see, e.g., Idaho 
+v. Wright, 497 U.S. 805 (1990), and limits the measures the 
+States may take to shield even very young child witnesses from 
+their alleged molesters. See, e.g., Coy v. lowa, 487 U.S. 1012 
+(1988). The Compulsory Process Clause of the Sixth 
+Amendment ensures that defendants have the assistance of 
+formal judicial process to compel the presence and testimony 
+of favorable witnesses. 
+
+
+Finally, Article I, § 10, the same provision that declares the 
+ex post facto prohibition applicable to the States, also prohibits 
+States from passing any bill of attainder. Thus, if the Texas 
+legislature had amended the statute in order to target petitioner, 
+or perhaps even child molesters generally, for retroactive 
+punishment, the constitutional prohibition on bills of attainder 
+might be implicated. 
+
+
+These substantial constitutional protections are directed 
+more specifically than the Ex Post Facto Clause to issues 
+arising from application of the rules of evidence to criminal 
+defendants and the witnesses who may testify against them. 
+Given the existence of these numerous provisions, and the 
+scope of the protections they provide, there is simply no reason 
+to stretch the constitutional ex post facto prohibition beyond its 
+historical roots to encompass retroactive changes in rules of 
+evidence that do not (1) create a new offense, (2) alter the 
+nature of an offense, or (3) increase the punishment for an 
+offense. 
+
+
+9 
+
+
+ll. PROCEDURAL RULES DO NOT CREATE 
+“DEFENSES” FOR EX POST FACTO PURPOSES 
+
+
+A. Only Rules That Affect The Legal Definition Of An 
+Offense Constitute A “Defense” For Ex Post Facto 
+Purposes 
+
+Collins v. Youngblood, 497 U.S. 37 (1990), makes clear 
+beyond any doubt that the “defenses” which the Ex Post Facto 
+Clause prohibits the States from altering retroactively,’ are 
+“legal” defenses, not simply any rule or procedure a defendant 
+might invoke to avoid prosecution or conviction. In Collins, 
+the Chief Justice expressly declared for the Court that “[a] law 
+that abolishes an affirmative defense of justification or excuse 
+contravenes Art. I, § 10, because it expands the scope of a 
+criminal prohibition after the act is done.” 497 U.S. at 49 
+(emphasis added). Thus, petitioner’s argument that the 
+amended Texas statute in this case deprives him of a “defense” 
+for ex post facto purposes is completely without merit. 
+
+
+Insufficient proof to support a _ conviction, the 
+incompetency of a particular witness to testify, the scientific 
+unreliability of particular forensic evidence, or the time 
+constraints imposed by a statute of limitations may be obstacles 
+to the prosecution of a criminal offense in specific cases, but 
+none of those situations amount to “defenses” to prosecution 
+in the sense the ex post facto prohibition contemplates. As 
+Collins expressly recognizes, for ex post facto purposes, 
+
+
+* Strictly speaking, none of the first three Calder v. Bull categories refer 
+to “defenses” at all, but this Court long appears to have recognized that 
+retroactive elimination of an affirmative defense to a crime would create 
+an ex post facto problem, apparently because it would “aggravate” the 
+offense (the second Calder v. Bull category). See, e.g., Beazell v. Ohio, 
+269 U.S. 167, 169-70 (1925) (a retroactive law “which deprives one 
+charged with crime of any defense available according to law at the time 
+when the act was committed, is prohibited as ex post facto”). 
+
+
+10 
+
+
+“defense” means an affirmative defense of “justification or 
+excuse” to criminal liability. 
+
+
+An affirmative defense is one that applies even though the 
+State can prove beyond a reasonable doubt ‘hat the defendant 
+committed the offense with which he has been charged. In 
+other words, an affirmative defense is a legal excuse or 
+justification for conduct that would otherwise be criminal 
+These defenses historically have included justifications such as 
+self-defense, defense of others, immunity, privilege, or some 
+other /egal justification for the defendant’s conduct. 
+Affirmative defenses, and thus the “defenses” recognized for ex 
+post facto purposes, do not include procedural or evidentiary 
+rules or even statutes of limitation that may, in a particular 
+case, preclude a successful criminal prosecution. 
+
+
+B. The Ex Post Facto Clause Does Not Prohibit 
+Changes In Evidentiary Rules 
+
+
+More than 100 years ago, the Court made plain that the Ex 
+Post Facto Clause does not prohibit the States from 
+retroactively changing rules of procedure or evidence, including 
+laws that govern the competency of witnesses to testify, like 
+the Texas statute at issue here. In Hopt v. Utah, 110 U.S. 574 
+(1884), the Court rejected an ex post facto challenge to a Utah 
+law that changed prior law by permitting convicted felons to 
+testify in criminal proceedings. At the time of the petitioner’s 
+crime, the law of Utah forbade convicted felons from testifying 
+in civil or criminal proceedings. But before petitioner’s trial, 
+the law was changed to permit felons to testify in criminal 
+proceedings, and a felon previously convicted of murder was 
+then a key witness in the petitioner’s trial. 
+
+
+In rejecting the petitioner’s ex past facto claim in Hopt, the 
+Court declared that “[s]tatutes which simply enlarge the class 
+of persons who may be competent to testify in criminal cases 
+are not ex post facto in their application to prosecutions for 
+crimes committed prior to their passage.” 110 U.S. at 589. In 
+
+
+ll 
+
+
+reaching that conclusion, the Court reasoned that such a law 
+did not criminalize a previously innocent act, aggravate any 
+previously existing crime, provide a greater punishment for a 
+crime, nor alter the degree of proof necessary to establish guilt. 
+Id. The Court emphasized that evidentiary rules, such as those 
+affecting the competency of witnesses to testify, “relate to 
+modes of procedure only, in which no one can be said to have 
+a vested right, and which the state, upon grounds of public 
+policy, may regulate at pleasure.” /d. at 590. 
+
+
+Similarly, in Beazel/ v. Ohio, 269 U.S. 167 (1925), the 
+Court reiterated that “it is now well settled that statutory 
+changes in the mode of trial or the rules of evidence, which do 
+not deprive the accused of a defense and which operate only in 
+a limited and unsubstantial manner to his disadvantage, are not 
+prohibited.” /d at 170. Furthermore, in Beaze// the Court 
+emphasized that “the constitutional [ex post facto] provision 
+was intended to secure substantial personal rights against 
+arbitrary and oppressive legislation, and not to limit the 
+legislative control of remedies and modes of procedure which 
+do not affect matters of substance.” /d. at 171. 
+
+
+Thus, the 1993 amendment is simply outside the categories 
+of retroactive laws the Ex Post Facto Clause prohibits. In 
+essence, petitioner's only complaint is that Texas in 1993 
+changed the rules regarding the competency of a juvenile 
+witness to testify against him with respect to sexual offenses, 
+a procedural change.* The Court’s cases make clear that it is 
+not whether anyone is adversely affected by a retroactive 
+legislative change but, rather, how they are affected that 
+
+
+* Petitioner also appears to suggest that the 1993 change is suspect because 
+the Texas Legislature did not amend the statute broadly enough to apply 
+to any minor victim of any crime, rather than limiting it to sex offenses. 
+See Brief of Petitioner, Argument [.B. (final paragraph). But the scope of 
+the amendment in that respect has no relevance to an ex post facto claim. 
+
+
+12 
+
+
+determines when a law violates the ex post facto prohibition.° 
+The only three ways that matter for ex post facto purposes are 
+retroactive (1) changes in the definition of an offense, (2) 
+increases in the punishment, or (3) elimination of an affirmative 
+defense, none of which are present in this case. 
+
+
+C. The Ex Post Facto Clause Does Not Prohibit 
+Change: In Statutes Of Limitation 
+
+
+Recently, the California Supreme Court applied Collins v. 
+Youngblood, 497 U.S. 37 (1990), in the context of an ex post 
+facto challenge to a retroactive change in the statute of 
+limitations in a criminal case. That court held, in People v. 
+Frazer, 21 Cal.4th 737 (1999), that a retroactive change in the 
+statute of limitations does not implicate ex post facto 
+protections. 
+
+
+In California, there is no statute of limitations for a small 
+number of specified offenses. Cal. Pen. Code § 799. 
+Otherwise, felony cases must be commenced either three years 
+or six years after commission of the offense, depending upon 
+the term of imprisonment prescribed for the crime. Cal. Pen. 
+Code §§ 800, 801. Penal Code section 803 sets forth 
+exceptions to these general rules and provides for the tolling or 
+extension of the generally-applicable statutes of limitations. 
+
+
+In 1994, the California legislature added subdivision (g) to 
+section 803 to provide that if an enumerated serious sex offense 
+was committed upon a victim who was a child at the time, and 
+if the normally-applicable statute of limitations had expired, a 
+criminal case could be filed nonetheless if the case was initiated 
+
+
+° For this reason, petitioner's reliance upon Miller v. Florida, 482 US. 
+423 (1987), is completely misplaced. See Brief of Petitioner, Arguments 
+LC, lll. Miller is a case in which the punishment for the offense 
+increased between the time the defendant committed the offense and the 
+ume of sentencing. Miller therefore, unlike this case, falls squarely within 
+one of the three traditional ex post facto categories. 
+
+
+13 
+
+
+within one year of the date on which the victim reported the 
+crime to a law enforcement agency and there was independent 
+evidence that clearly and convincingly corroborates the victim's 
+allegation. The legislature subsequently amended the statute to 
+make clear its intent that section 803(g) be applied retroactively 
+SO as to permit the prosecution of crimes that were time-barred 
+prior to 1994-the effective date of section 803(g). 
+
+
+In 1996, pursuant to section 803(g), Raymond Frazer was 
+charged with one felony sex offense against a child, which was 
+alleged to have been committed in 1984. He challenged the 
+action, claiming the charge had been time barred in 1990, and 
+retroactive application of the statute to permit his prosecution 
+would violate the Ex Post Facto Clauses of the United States 
+and California Constitutions. 
+
+
+The California Supreme Court rejected the claim’ The 
+Court began its analysis of the ex post facto issue by examining 
+Beazell v. Ohio, 269 U.S. 167 (1925) and Collins v. 
+Youngblood, 497 U.S. 37 (1990). These cases, the California 
+Supreme Court found, set forth a two-part test: “‘Legislatures 
+may not retroactively alter the “efinition of crimes or increase 
+the punishment for criminal acts” People v. Frazer, 21 
+Cal 4th at 756 (emphasis original) (quoting Collins, 497 U.S. 
+at 43). This Court made clear in Collins and subsequent cases, 
+the state supreme court stated, that “the two categories of 
+impermissible retroactive legislation—redefining criminal 
+conduct and increasing punishment—are exclusive.” /d 
+
+The state supreme court further found that this Court, in 
+Collins, had clarified language in Beazell prohibiting 
+retroactive elimination of defenses to criminal charges. In 
+
+
+’ Frazer also argued that applying the new statutory provision to him 
+violated due process principles. The majority held there was no ex post 
+facto or due process violation, the dissent found a due process violation 
+based on the state constitution, and so did not reach the ex post facto 
+claim. 
+
+
+14 
+
+
+particular, the California Supreme Court read Collins to clarify 
+that Beazel/ “should not be misread as creating a separate or 
+third category of impermissible ex post facto legislation.” 
+Frazer, 21 Cal 4th at 757. Rather, Collins explained that this 
+aspect of the ex post facto prohibition applies to retroactive 
+changes that alter “the legal definition of the offenses” or “the 
+nature or amount of the punishment imposed for its 
+commission.” /d Accordingly, “the only ‘defense[s]’ that 
+cannot be restricted or withdrawn for ex post facto purposes 
+are those bearing on the ‘definition’ or ‘elements’ of the 
+charged crime, or involving ‘an excuse or justification for the 
+conduct underlying such a charge.”” /d. (quoting Collins, 497 
+US. at 50) 
+
+
+Thus, the court held that “section 803(g) regulates the time 
+at which child sexual abuse defined and punished elsewhere in 
+the Penal Code may be charged, but it does not impermissibly 
+withdraw a ‘defense’ as that term of art is used for ex post 
+facto purposes in [Collins]."" Frazer, 21 Cal 4th at 760. In 
+other words, “[s]tatutes regulating the time at which a future 
+criminal prosecution may be filed do not implicate the manner 
+in which criminal conduct is defined and punished at the time 
+it occurs—the sole concern of the ex post facto clause.” /d. at 
+763. Hence, a retroactive change even in the statute of 
+limitations applicable to a criminal offense does not violate ex 
+post facto principles 
+
+
+D. The 1993 Amendment Did Not Alter The 
+Substantive Criminal Law Of Texas 
+
+
+Petitioner makes no claim that the 1993 amendment either 
+(1) created a new criminal offense or (2) increased the 
+punishment for existing offenses, (3) nor has he been deprived 
+of any affirmative defense that was recognized at the time he 
+committed sexual offenses against his stepdaughter Because 
+there has been no change in the substantive criminal law of 
+Texas, petitioner's ex post facto claim must fail 
+
+
+— .— 
+
+
+15 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, as well as the reasons set forth 
+in Texas's brief, the Court should affirm the judgment of the 
+
+
+Texas Court of Appeals upholding petitioner’s convictions 
+
+
+Attorney General 
+State of Indiana 
+
+
+Respectfully submitted, 
+
+
+CARLA J. STOVALL 
+Kansas Attorney General 
+STEPHEN R. MCALLISTER 
+Kansas State Solicitor 
+
+(Counsel of Record) 
+301 SW. 10th Avenue 
+Topeka, Kansas 66612 
+(785) 296-2215 
+
+
+Counsel for the Amici States 
+
+
+RICHARD P_ IEYOUB 
+Attorney General 
+State of Louisiana 
+
+
+JENNIFER M. GRANHOLM 
+Attorney General 
+State of Michigan 
+
+JOE MAZUREK 
+
+Attorney General 
+State of Montana 
+
+DON STERNBERG 
+
+
+Attorney General 
+State of Nebraska 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+State of Nevada 
+
+
+BETTY D MONTGOMERY 
+Attorney General 
+State of Ohio 
+
+
+W_.A DREW EDMONDSON 
+Attorney General 
+State of Oklahoma 
+
+
+CHARLES M. CONDON 
+Attorney Genera! 
+State of South Carolina 
+
+
+October 1999 
+
+
+16 
+
+
+JAN GRAHAM 
+Attorney General 
+State of Utah 
+
+
+WILLIAM H. SORRELL 
+Attorney General 
+State of Vermont 
+
+
+CHRISTINE O. GREGOIRE 
+Attorney General 
+State of Washington 
+
+

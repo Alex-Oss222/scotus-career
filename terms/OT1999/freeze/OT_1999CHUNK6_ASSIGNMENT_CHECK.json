@@ -1,0 +1,218 @@
+{
+  "checked_new_records": 11,
+  "checked_assignments": 11,
+  "pending_count_receipts_without_records": [],
+  "errors": [],
+  "assignments": [
+    {
+      "case": "Carmell v. Texas",
+      "date": "2000-05-01",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "lead_authors": [
+        "Stevens"
+      ],
+      "receipt": "OT_1999CHUNK6_CARMELL_COUNTS.json"
+    },
+    {
+      "case": "North Carolina Right to Life, Inc. v. Bartlett",
+      "date": "2000-05-01",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "lead_authors": [
+        "Souter"
+      ],
+      "receipt": "OT_1999CHUNK6_NCRL_COUNTS.json"
+    },
+    {
+      "case": "National Mining Association v. United States Department of the Interior",
+      "date": "2000-05-08",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "lead_authors": [
+        "Stevens"
+      ],
+      "receipt": "OT_1999CHUNK6_MINING_COUNTS.json"
+    },
+    {
+      "case": "Saenz v. Heldenfels Brothers, Inc.",
+      "date": "2000-05-09",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "lead_authors": [
+        "Breyer"
+      ],
+      "receipt": "OT_1999CHUNK6_SAENZ_COUNTS.json"
+    },
+    {
+      "case": "Fischer v. United States",
+      "date": "2000-05-15",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "receipt": "OT_1999CHUNK6_FISCHER_COUNTS.json"
+    },
+    {
+      "case": "Johnson v. United States",
+      "date": "2000-05-15",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "Souter"
+      ],
+      "receipt": "OT_1999CHUNK6_JOHNSON_COUNTS.json"
+    },
+    {
+      "case": "Public Lands Council v. Babbitt",
+      "date": "2000-05-15",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "Scalia"
+      ],
+      "receipt": "OT_1999CHUNK6_PUBLIC_LANDS_COUNTS.json"
+    },
+    {
+      "case": "United States v. Morrison / Brzonkala v. Morrison",
+      "date": "2000-05-15",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "receipt": "OT_1999CHUNK6_MORRISON_COUNTS.json"
+    },
+    {
+      "case": "Geier v. American Honda Motor Co.",
+      "date": "2000-05-22",
+      "counts_before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "receipt": "OT_1999CHUNK6_GEIER_COUNTS.json"
+    },
+    {
+      "case": "Jones v. United States",
+      "date": "2000-05-22",
+      "counts_before": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "Thomas"
+      ],
+      "receipt": "OT_1999CHUNK6_JONES_COUNTS.json"
+    },
+    {
+      "case": "United States v. Playboy Entertainment Group, Inc.",
+      "date": "2000-05-22",
+      "counts_before": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "receipt": "OT_1999CHUNK6_PLAYBOY_COUNTS.json"
+    }
+  ],
+  "limits": "Checks arithmetic, effective-date/alphabetical ordering, source membership and written count statements. Actual Record opinion tables supply authors; preserved durable ledger order excludes later-written earlier-dated events from retrospective counts. Counts prepared for unfinished assembly are reported separately and add no lead. Eligibility, opinion form and comparative fit remain the legal judgments recorded in each assembly receipt. No repository-history query or Git command."
+}

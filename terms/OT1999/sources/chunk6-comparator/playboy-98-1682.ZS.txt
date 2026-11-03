@@ -1,0 +1,58 @@
+UNITED STATES V. PLAYBOY ENTERTAINMENTGROUP, INC.
+
+ 
+
+ 
+
+LII
+
+ 
+
+Supreme Court
+
+ 
+
+UNITED STATES V. PLAYBOY ENTERTAINMENTGROUP, INC. (98-1682) 
+30 F. Supp. 2d 702, affirmed. 
+Syllabus
+ Opinion
+ [ Kennedy ]Concurrence
+ [ Stevens ]Concurrence
+ [ Thomas ]Dissent
+ [ Scalia ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES et al. v. PLAYBOY ENTERTAINMENT GROUP, INC.
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE
+
+ 
+No. 98—1682. Argued November 30, 1999–Decided May 22, 2000
+
+Section 505 of the Telecommunications Act of 1996 requires cable television operators providing channels “primarily dedicated to sexually-oriented programming” either to “fully scramble or otherwise fully block” those channels or to limit their transmission to hours when children are unlikely to be viewing, set by administrative regulation as between 10 p.m. and 6 a.m. Even before §505’s enactment, cable operators used signal scrambling to limit access to certain programs to paying customers. Scrambling could be imprecise, however; and either or both audio and visual portions of the scrambled programs might be heard or seen, a phenomenon known as “signal bleed.” The purpose of §505 is to shield children from hearing or seeing images resulting from signal bleed. To comply with §505, the majority of cable operators adopted the “time channeling” approach, so that, for two-thirds of the day, no viewers in their service areas could receive the programming in question. Appellee Playboy Entertainment Group, Inc., filed this suit challenging §505’s constitutionality. A three-judge District Court concluded that §505’s content-based restriction on speech violates the First Amendment because the Government might further its interests in less restrictive ways. One plausible, less restrictive alternative could be found in §504 of the Act, which requires a cable operator, “[u]pon request by a cable service subscriber … without charge, [to] fully scramble or otherwise fully block” any channel the subscriber does not wish to receive. As long as subscribers knew about this opportunity, the court reasoned, §504 would provide as much protection against unwanted programming as would §505. 
+
+Held: Because the Government failed to prove §505 is the least restrictive means for addressing a real problem, the District Court did not err in holding the statute violative of the First Amendment. Pp. 6—23.
+
+ (a) Two points should be understood: (1) Many adults would find the material at issue highly offensive, and considering that the material comes unwanted into homes where children might see or hear it against parental wishes or consent, there are legitimate reasons for regulating it; and (2) Playboy’s programming has First Amendment protection. Section 505 is a content-based regulation. It also singles out particular programmers for regulation. It is of no moment that the statute does not impose a complete prohibition. Since §505 is content-based, it can stand only if it satisfies strict scrutiny. E.g., Sable Communications of Cal., Inc. v. FCC, 492 U.S. 115, 126. It must be narrowly tailored to promote a compelling Government interest, and if a less restrictive alternative would serve the Government’s purpose, the legislature must use that alternative. Cable television, like broadcast media, presents unique problems, but even where speech is indecent and enters the home, the objective of shielding children does not suffice to support a blanket ban if the protection can be obtained by a less restrictive alternative. There is, moreover, a key difference between cable television and the broadcasting media: Cable systems have the capacity to block unwanted channels on a household-by-household basis. Targeted blocking is less restrictive than banning, and the Government cannot ban speech if targeted blocking is a feasible and effective means of furthering its compelling interests. Pp. 6—11.
+
+ (b) No one disputes that §504 is narrowly tailored to the Government’s goal of supporting parents who want sexually explicit channels blocked. The question here is whether §504 can be effective. Despite empirical evidence that §504 generated few requests for household-by-household blocking during a period when it was the sole federal blocking statute in effect, the District Court correctly concluded that §504, if publicized in an adequate manner, could serve as an effective, less restrictive means of reaching the Government’s goals. When the Government restricts speech, the Government bears the burden of proving the constitutionality of its actions. E.g., Greater New Orleans Broadcasting Assn., Inc. v. United States, 527 U.S. 173, 183. Of three explanations for the lack of individual blocking requests under §504–(1) individual blocking might not be an effective alternative, due to technological or other limitations; (2) although an adequately advertised blocking provision might have been effective, §504 as written does not require sufficient notice to make it so; and (3) the actual signal bleed problem might be far less of a concern than the Government at first had supposed–the Government had to show that the first was the right answer. According to the District Court, however, the first and third possibilities were “equally consistent” with the record before it, and the record was not clear as to whether enough notice had been issued to give §504 a fighting chance. Unless the District Court’s findings are clearly erroneous, the tie goes to free expression. With regard to signal bleed itself, the District Court’s thorough discussion exposes a central weakness in the Government’s proof: There is little hard evidence of how widespread or how serious the problem is. There is no proof as to how likely any child is to view a discernible explicit image, and no proof of the duration of the bleed or the quality of the pictures or sound. Under §505, sanctionable signal bleed can include instances as fleeting as an image appearing on a screen for just a few seconds. The First Amendment requires a more careful assessment and characterization of an evil in order to justify a regulation as sweeping as this. The Government has failed to establish a pervasive, nationwide problem justifying its nationwide daytime speech ban. The Government also failed to prove §504, with adequate notice, would be ineffective. There is no evidence that a well-promoted voluntary blocking provision would not be capable at least of informing parents about signal bleed (if they are not yet aware of it) and about their rights to have the bleed blocked (if they consider it a problem and have not yet controlled it themselves). A court should not assume a plausible, less restrictive alternative would be ineffective; and a court should not presume parents, given full information, will fail to act. The Government also argues society’s independent interests will be unserved if parents fail to act on that information. Even upon the assumption that the Government has an interest in substituting itself for informed and empowered parents, its interest is not sufficiently compelling to justify this widespread restriction on speech. The regulatory alternative of a publicized §504, which has the real possibility of promoting more open disclosure and the choice of an effective blocking system, would provide parents the information needed to engage in active supervision. The Government has not shown that this alternative would be insufficient to secure its objective, or that any overriding harm justifies its intervention. Although, under a voluntary blocking regime, even with adequate notice, some children will be exposed to signal bleed, children will also be exposed under time channeling, which does not eliminate signal bleed around the clock. The record is silent as to the comparative effectiveness of the two alternatives. Pp. 11—22.
+
+30 F. Supp. 2d 702, affirmed. 
+
+ Kennedy, J., delivered the opinion of the Court, in which Stevens, Souter, Thomas, and Ginsburg, JJ., joined. Stevens, J., and Thomas, J., filed concurring opinions. Scalia, J., filed a dissenting opinion. Breyer, J., filed a dissenting opinion, in which Rehnquist, C. J., and O’Connor and Scalia, JJ., joined.

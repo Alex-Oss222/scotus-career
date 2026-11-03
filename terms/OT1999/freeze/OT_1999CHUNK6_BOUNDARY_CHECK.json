@@ -1,0 +1,7 @@
+{
+  "protected_baseline_files": 123,
+  "protected_files_changed": [],
+  "new_text_artifacts_scanned": 572,
+  "forbidden_links": [],
+  "scope": "Explicit authorized roots only; no locked-directory or Git access."
+}

@@ -1,0 +1,1366 @@
+{
+  "id": 10512689,
+  "name": "Dora SALAS, Individually and as Representative of the Estate of obo Juanita Hermosillo, et al., Plaintiffs-Appellees, v. Don CARPENTER, Individually and in his capacity as Sheriff of Tarrant County, Texas, et al., Defendants-Appellants",
+  "name_abbreviation": "Salas v. Carpenter",
+  "decision_date": "1992-12-16",
+  "docket_number": "No. 91-1807",
+  "first_page": "299",
+  "last_page": "311",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "980 F.2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "489 U.S. 1065",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12074663,
+        12074250,
+        12074604,
+        12074382,
+        12073999,
+        12074832,
+        12074736,
+        12074549,
+        12074199,
+        12073944,
+        12074138,
+        12074077
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/1065-10",
+        "/us/489/1065-06",
+        "/us/489/1065-09",
+        "/us/489/1065-07",
+        "/us/489/1065-02",
+        "/us/489/1065-12",
+        "/us/489/1065-11",
+        "/us/489/1065-08",
+        "/us/489/1065-05",
+        "/us/489/1065-01",
+        "/us/489/1065-04",
+        "/us/489/1065-03"
+      ]
+    },
+    {
+      "cite": "484 U.S. 1065",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        599522,
+        600962,
+        602020,
+        601765,
+        601220,
+        601157,
+        601833,
+        601899,
+        601741,
+        601746,
+        600500,
+        599477,
+        600217,
+        599962
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/1065-14",
+        "/us/484/1065-11",
+        "/us/484/1065-01",
+        "/us/484/1065-02",
+        "/us/484/1065-03",
+        "/us/484/1065-13",
+        "/us/484/1065-07",
+        "/us/484/1065-04",
+        "/us/484/1065-09",
+        "/us/484/1065-10",
+        "/us/484/1065-12",
+        "/us/484/1065-08",
+        "/us/484/1065-05",
+        "/us/484/1065-06"
+      ]
+    },
+    {
+      "cite": "484 U.S. 828",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        601186,
+        599811,
+        602023,
+        600426,
+        599310,
+        602226,
+        602099,
+        601111,
+        600917,
+        601911,
+        599196,
+        601949,
+        599453
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0828-02",
+        "/us/484/0828-06",
+        "/us/484/0828-11",
+        "/us/484/0828-08",
+        "/us/484/0828-03",
+        "/us/484/0828-05",
+        "/us/484/0828-12",
+        "/us/484/0828-13",
+        "/us/484/0828-04",
+        "/us/484/0828-07",
+        "/us/484/0828-10",
+        "/us/484/0828-01",
+        "/us/484/0828-09"
+      ]
+    },
+    {
+      "cite": "483 U.S. 1021",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28259,
+        28067,
+        28229,
+        28103,
+        28265,
+        28137,
+        28363,
+        28076,
+        28205,
+        28270,
+        28181,
+        28277,
+        28155
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/1021-01",
+        "/us/483/1021-12",
+        "/us/483/1021-13",
+        "/us/483/1021-08",
+        "/us/483/1021-07",
+        "/us/483/1021-10",
+        "/us/483/1021-03",
+        "/us/483/1021-05",
+        "/us/483/1021-09",
+        "/us/483/1021-04",
+        "/us/483/1021-11",
+        "/us/483/1021-06",
+        "/us/483/1021-02"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 1061",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6221570
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1065"
+        },
+        {
+          "page": "1070"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0115-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 327",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204748
+      ],
+      "weight": 8,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "334"
+        },
+        {
+          "page": "666"
+        },
+        {
+          "page": "328"
+        },
+        {
+          "page": "663"
+        },
+        {
+          "page": "331-332"
+        },
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0327-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 990",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 1026",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "819 F.2d 1301",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1710250
+      ],
+      "pin_cites": [
+        {
+          "page": "1310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/819/1301-01"
+      ]
+    },
+    {
+      "cite": "817 F.2d 19",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1671020
+      ],
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/817/0019-01"
+      ]
+    },
+    {
+      "cite": "75 L.Ed.2d 481",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 1253",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 U.S. 1012",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213093,
+        6212327,
+        6213513,
+        6213932,
+        6214445,
+        6212624,
+        6213745,
+        6214196,
+        6214773,
+        6213302,
+        6212888
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1012-04",
+        "/us/460/1012-01",
+        "/us/460/1012-06",
+        "/us/460/1012-08",
+        "/us/460/1012-10",
+        "/us/460/1012-02",
+        "/us/460/1012-07",
+        "/us/460/1012-09",
+        "/us/460/1012-11",
+        "/us/460/1012-05",
+        "/us/460/1012-03"
+      ]
+    },
+    {
+      "cite": "684 F.2d 1159",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        529547
+      ],
+      "pin_cites": [
+        {
+          "page": "1163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/684/1159-01"
+      ]
+    },
+    {
+      "cite": "918 F.2d 1178",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539780
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1183"
+        },
+        {
+          "page": "1183"
+        },
+        {
+          "page": "1183"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/918/1178-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 635",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28199
+      ],
+      "weight": 8,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "640"
+        },
+        {
+          "page": "3039"
+        },
+        {
+          "page": "641"
+        },
+        {
+          "page": "639"
+        },
+        {
+          "page": "3039"
+        },
+        {
+          "page": "640"
+        },
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0635-01"
+      ]
+    },
+    {
+      "cite": "655 F.Supp. 801",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        586383
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "805"
+        },
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/655/0801-01"
+      ]
+    },
+    {
+      "cite": "698 F.2d 236",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1506144
+      ],
+      "pin_cites": [
+        {
+          "page": "240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/698/0236-01"
+      ]
+    },
+    {
+      "cite": "795 F.2d 1230",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1596083
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1233"
+        },
+        {
+          "page": "1233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/795/1230-01"
+      ]
+    },
+    {
+      "cite": "530 F.2d 657",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        621305
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "661"
+        },
+        {
+          "page": "660"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/530/0657-01"
+      ]
+    },
+    {
+      "cite": "632 F.2d 524",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1416931
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/632/0524-01"
+      ]
+    },
+    {
+      "cite": "815 F.2d 368",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        519407
+      ],
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/815/0368-01"
+      ]
+    },
+    {
+      "cite": "942 F.2d 299",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521841
+      ],
+      "pin_cites": [
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/942/0299-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 317",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207800
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "323"
+        },
+        {
+          "page": "2553"
+        },
+        {
+          "page": "324"
+        },
+        {
+          "page": "2553"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0317-01"
+      ]
+    },
+    {
+      "cite": "975 F.2d 137",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10512623
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "142"
+        },
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/975/0137-01"
+      ]
+    },
+    {
+      "cite": "934 F.2d 668",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540321
+      ],
+      "pin_cites": [
+        {
+          "page": "669-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/934/0668-01"
+      ]
+    },
+    {
+      "cite": "959 F.2d 539",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520939
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "544"
+        },
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/959/0539-01"
+      ]
+    },
+    {
+      "cite": "950 F.2d 272",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521317
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "278"
+        },
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/950/0272-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 1789",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6221077
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0226-01"
+      ]
+    },
+    {
+      "cite": "925 F.2d 844",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1789138
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "849"
+        },
+        {
+          "page": "851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/925/0844-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed.2d 764",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 3266",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "805 F.2d 558",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1111549
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/805/0558-01"
+      ]
+    },
+    {
+      "cite": "868 F.2d 1437",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10537036
+      ],
+      "pin_cites": [
+        {
+          "page": "1441-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/868/1437-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 511",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512327
+      ],
+      "weight": 8,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "526",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "2815",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "527"
+        },
+        {
+          "page": "2816"
+        },
+        {
+          "page": "530"
+        },
+        {
+          "page": "2817"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0511-01"
+      ]
+    },
+    {
+      "cite": "686 F.2d 616",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1457409
+      ],
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/686/0616-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 58",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 97",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "810 F.2d 1437",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1635226
+      ],
+      "pin_cites": [
+        {
+          "page": "1468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/810/1437-01"
+      ]
+    },
+    {
+      "cite": "820 F.2d 194",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1704811
+      ],
+      "pin_cites": [
+        {
+          "page": "199-200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/820/0194-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 808",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 1337",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "818 F.2d 791",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1716449
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/818/0791-01"
+      ]
+    },
+    {
+      "cite": "916 F.2d 1029",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539192
+      ],
+      "pin_cites": [
+        {
+          "page": "1031"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/916/1029-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 378",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032186
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0378-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 809",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 1338",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "847 F.2d 1211",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1778442
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1220"
+        },
+        {
+          "page": "1219-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/847/1211-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 183",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U.S. 165",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        640823
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0165-01"
+      ]
+    },
+    {
+      "cite": "911 F.2d 52",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531038
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "54"
+        },
+        {
+          "page": "55"
+        },
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/911/0052-01"
+      ]
+    },
+    {
+      "cite": "592 F.2d 381",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53148
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "382"
+        },
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/592/0381-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 305",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 341",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "879 F.2d 583",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535003
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/879/0583-01"
+      ]
+    },
+    {
+      "cite": "974 F.2d 119",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513392
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/974/0119-01"
+      ]
+    },
+    {
+      "cite": "974 F.2d 1006",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10518223
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1010"
+        },
+        {
+          "page": "1012",
+          "parenthetical": "officer did not create danger that drunks would drive car by leaving them unsupervised while dealing with driver inside station"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/974/1006-01"
+      ]
+    },
+    {
+      "cite": "798 F.Supp. 1267",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7408769
+      ],
+      "pin_cites": [
+        {
+          "page": "1272"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/798/1267-01"
+      ]
+    },
+    {
+      "cite": "738 F.2d 1443",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        661759
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1447"
+        },
+        {
+          "page": "1448"
+        },
+        {
+          "page": "1447"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/738/1443-01"
+      ]
+    },
+    {
+      "cite": "934 F.2d 1267",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        5681179
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1269"
+        },
+        {
+          "page": "1271"
+        },
+        {
+          "page": "1270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/290/0095-01"
+      ]
+    },
+    {
+      "cite": "910 F.2d 1422",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540983
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1433"
+        },
+        {
+          "page": "1424-25"
+        },
+        {
+          "page": "1432"
+        },
+        {
+          "page": "1431",
+          "parenthetical": "county policy cut off rescue source without \"meaningful alternative\""
+        },
+        {
+          "page": "1433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/910/1422-01"
+      ]
+    },
+    {
+      "cite": "79 L.Ed.2d 720",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 1325",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "465 U.S. 1049",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11379344,
+        11379371
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/1049-01",
+        "/us/465/1049-02"
+      ]
+    },
+    {
+      "cite": "715 F.2d 1200",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1882240
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/715/1200-01"
+      ]
+    },
+    {
+      "cite": "817 F.2d 351",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1671433
+      ],
+      "pin_cites": [
+        {
+          "page": "355"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/817/0351-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 17,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "197"
+        },
+        {
+          "page": "1004"
+        },
+        {
+          "page": "201"
+        },
+        {
+          "page": "1006"
+        },
+        {
+          "page": "202"
+        },
+        {
+          "page": "1007"
+        },
+        {
+          "page": "196-200"
+        },
+        {
+          "page": "1004-05"
+        },
+        {
+          "page": "201"
+        },
+        {
+          "page": "1006",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "202"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1784,
+    "char_count": 43019,
+    "ocr_confidence": 0.752,
+    "pagerank": {
+      "raw": 1.227922032965538e-06,
+      "percentile": 0.9882006634363625
+    },
+    "sha256": "60161d22b81b0da8277f8ad5a7717545654e98b91a0acf42f51022f5bedc2a53",
+    "simhash": "1:fd86d7ba221fcea9",
+    "word_count": 6875
+  },
+  "last_updated": "2024-02-27T19:33:25.902560+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HIGGINBOTHAM and DUH\u00c9, Circuit Judges, and HARMON, District Judge. ,"
+    ],
+    "parties": [
+      "Dora SALAS, Individually and as Representative of the Estate of obo Juanita Hermosillo, et al., Plaintiffs-Appellees, v. Don CARPENTER, Individually and in his capacity as Sheriff of Tarrant County, Texas, et al., Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "PATRICK E. HIGGINBOTHAM, Circuit Judge:\nIn this civil rights suit a former sheriff of Tarrant County, Texas appeals denial of dismissal or summary judgment based upon a claim of qualified immunity. Sheriff Don Carpenter commanded police efforts to free a hostage. The effort failed and Juanita Hermosillo, the hostage, was killed by her abductor. A public official enjoys a qualified \u201cimmunity from suit,\u201d not just immunity from liability, Mitchell v. Forsyth, 472 U.S. 511, 526, 105 S.Ct. 2806, 2815, 86 L.Ed.2d 411 (1985) (emphasis in original).' We find that no claim for deprivation of constitutional rights has been stated and in any event there is immunity. We reverse.\nI\nJuanita Hermosillo was a clerk in Tar-rant County Justice Court No. 1 from 1981 until her death. In 1982, Hermosillo began dating Manuel Cabano, who worked for the Tarrant County Sheriffs Department in the early 1980\u2019s. They married in 1988, but their relationship was at best strained and by 1989 they lived separately. On Monday, July 24, 1989, Hermosillo complained to the Tarrant County District Attorney\u2019s office that Cabano was sexually molesting her two daughters from a previous marriage. Hermosillo hid from Caba-no for the rest of the week, staying with a friend and not going to work. On July 31, Justice of the Peace Robert Ashmore told Hermosillo to return to work the next day. Cabano had not been arrested on the sexual assault complaint.\nAround 3:00 p.m. on Tuesday, August 1, 1989, Cabano entered Judge Ashmore\u2019s offices at the Tarrant County courthouse with two guns. Cabano took Hermosillo and Judge Ashmore hostage, but soon released the judge. Others fled the office when Cabano entered and called the Tar-rant County Sheriff\u2019s Department and the Fort Worth Police Department. Both agencies responded.\nThe Fort Worth Police Department dispatched its SWAT and hostage negotiation teams to the scene. They included negotiators with several years of training and experience. They began to set up a command post and communications equipment, in preparation for negotiating with Cabano. They were equipped to monitor or cut off Cabano\u2019s outside telephone calls and to record conversations between Cabano and negotiators. The SWAT team positioned snipers with a view of Judge Ashmore\u2019s offices. Fort Worth Chief of Police Thomas Windham was at the scene.\nBefore the Fort Worth police teams finished deploying, Tarrant County Sheriff Don Carpenter demanded that the police officers leave, claiming that courthouse security was within the exclusive jurisdiction of the sheriff\u2019s department. In a heated discussion, Carpenter refused Chief Wind-ham\u2019s offer of police assistance. Carpenter asserted that he did not need assistance, and ordered the police- officers to leave the courthouse, which they did. After Cabano demanded that snipers leave the nearby rooftop, Carpenter insisted upon their removal and Chief Windham complied.\nThe sheriff\u2019s department did not have a SWAT team in 1989. It also lacked a hostage negotiation policy. Five deputies attended one week of hostage negotiation training in 1988 and 1989, as a sixth deputy had in 1982. None had any actual experience, and only three of those trained were present during this crisis. The sheriff\u2019s department had no equipment to control communications in and out of Judge Ash-more\u2019s office, as the police department did. A telephone company employee assigned to the courthouse left the scene before successfully cutting off Cabano\u2019s contact with the outside world.\nCarpenter and several of his deputies knew- Cabano from his prior employment in the sheriff\u2019s department. Carpenter appointed Lt. Smith, the officer with the most recent negotiation training, as the chief negotiator. During the afternoon several civilians untrained in hostage negotiations spoke to Cabano.' Before Lt. Smith arrived, two investigators from the D.A.\u2019s office spoke with Cabano by telephone. During this conversation Cabano was upset and excited, speaking of the sexual abuse accusations against him. At one point, Carpenter spoke briefly to Cabano, who hung up on him. In the late afternoon, Cabano demanded to speak with his attorney, Alex Gonzalez. At Carpenter\u2019s order, Gonzalez was summoned to the courthouse and negotiated with Cabano. Meanwhile, Dr. James Greenstone, a leading hostage negotiation authority and instructor in North Texas, offered his services to Carpenter, but his offer was declined.\nTelephone negotiations continued throughout the afternoon and early evening, The negotiators were located in an office of the courthouse which became crowded with non-essential persons. Caba-no asked to speak to a reporter, and one was brought into the courthouse, although \u2022 Cabano was not given an opportunity to talk to him. Two soft drinks were delivered to Cabano, but he refused to make any good faith gesture such as surrendering one of his weapons. Carpenter rejected Investigator Byrnes\u2019 suggestion that the' courthouse air conditioning be shut down. At no time did Carpenter or his negotiators contact Hermosillo\u2019s family or the D.A.\u2019s office to learn about the charges against Cabano.\nBy evening, Cabano became unresponsive, and began to leave the telephone in Judge Ashmore\u2019s office off the cradle for long intervals. After 9:00 p.m., Hermosillo expressed a desire to talk with her children on the telephone. Members of the sheriff\u2019s department considered these as dangerous signs. They did not have SWAT weapons and training for executing a dynamic entry into Judge Ashmore\u2019s chambers and did not do so. Around 9:40 p.m., Cabano shot and killed Hermosillo, then himself.\nIn the days following this tragedy, Carpenter responded to criticism by saying that he was proud of his department. He stated that a SWAT team was neither necessary nor useful under these circumstances. He also stated, regarding Caba-no, \u201cI wouldn\u2019t have believed he would have done it, but he did it.\u201d\nPlaintiffs filed their section 1983 and tort claims in state court, and the defendants removed to federal district court. The complaint states that many of Carpenter\u2019s actions and decisions were wrongful, focusing on two in particular: the removal of Fort Worth police from the scene and the conduct of the negotiations. Plaintiffs claim that Carpenter deprived Hermosillo of her life by preventing the Fort Worth police SWAT and hostage negotiation teams from effectuating her release. Plaintiffs also claim that Carpenter caused Hermosillo\u2019s death by using incompetent hostage negotiators, including untrained civilians, rather than Fort Worth police negotiators or Dr. James Greenstone. Finally, plaintiffs argue that the sheriff failed to provide adequate training and equipment for a hostage situation, including SWAT weapons and communications equipment.\nPlaintiffs contend that Carpenter acted negligently, with deliberate indifference and with conscious disregard for Hermosillo. They support these allegations with Dr. Greenstone\u2019s affidavit. Plaintiffs also argue that Carpenter\u2019s statements to the press following August 1, 1989 demonstrate these mental states. Plaintiffs claim that Carpenter\u2019s actions were motivated by his ego, his jealousy of the courthouse, and professional envy of the police department.\nCarpenter\u2019s affidavit in support of his motion stated that at all relevant times Carpenter acted in his official capacity as sheriff in the performance of policing the courthouse. He stated that his \u201cobjective and intent on this occasion was to secure the release of the hostage unharmed, to apprehend the gunman, and to protect the safety of the general public and the peace officers involved.\u201d Plaintiffs moved to strike Carpenter\u2019s affidavit, on the basis that it improperly asserted inadmissible \u201cexpert\u201d opinions without foundation, ultimate facts, and conclusions of law. The district court granted this motion. Thereafter, the district court denied defendant\u2019s summary judgment motion on the basis that it was not supported by affidavit as required by rule 56. Fed.R.Civ.P. 56. The district court also denied Carpenter\u2019s motion to dismiss, on the ground that it was \u201cnot well taken.\u201d\nII\nDenial of dismissal or summary judgment for want of qualified immunity fits within the small class of interlocutory decisions qualifying for appellate review. Mitchell v. Forsyth, 472 U.S. 511, 527, 105 S.Ct. 2806, 2816, 86 L.Ed.2d 411 (1985). We may review the denial of a claim of qualified immunity \u201cto the extent it turns on an issue of law.\u201d ' Id. at 530, 105 S.Ct. at 2817. Plaintiffs argue that we lack jurisdiction because there are disputed factual issues material to immunity. See Feagley v. Waddill, 868 F.2d 1437, 1441-42 (5th Cir.1989). We conclude that no genuine issue of fact relevant to resolving the immunity question remains.\nUntil recently, uncertainty in this Circuit clouded whether or not we had jurisdiction in these interlocutory appeals to decide whether plaintiffs had stated a constitutional claim. Compare Gagne v. City of Galveston, 805 F.2d 558, 559 n. 1 (5th Cir.1986) (holding that denial of Rule 12(b)(6) motion asserting qualified immunity is appealable), cert. denied, 483 U.S. 1021, 107 S.Ct. 3266, 97 L.Ed.2d 764 (1987), with Chrissy F. by Medley v. Mississippi Dep\u2019t of Public Welfare, 925 F.2d 844, 849 (5th Cir.1991) (holding that denial of motion to dismiss for failure to state claim while asserting qualified immunity not appeal-able). The Supreme Court in Siegert v. Gilley, \u2014 U.S. -, 111 S.Ct. 1789, 114 L.Ed.2d 277 (1991), has now made it clear that our first inquiry in an appeal asserting qualified immunity is whether a valid constitutional claim has been made. See Duckett v. City of Cedar Park, 950 F.2d 272, 278 (5th Cir.1992); see also. White v. Taylor, 959 F.2d 539, 545 n. 4 (5th Cir.1992); Quives v. Campbell, 934 F.2d 668, 669-70 (5th Cir.1991). Our review is plenary accepting the facts in the light most favorable to the nonmoving party. Doe v. Taylor Ind. School Dist., 975 F.2d 137, 139 n. 2 (5th Cir.1992).\nIll\nPlenary review requires that we first settle the record by resolving issues of evidence. The district court struck Carpenter\u2019s affidavit, the only one submitted in support of his motion for summary judgment, and denied his motion for summary judgment on the ground that it was \u201cnot supported by affidavit as required by Rule 56.\u201d This basis for denial was improper. Rule 56 does not require that a moving party support its motion with affidavits. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986). In cases where the nonmoving party bears the burden of proof on a dispositive issue, a summary judgment motion may rely solely on the pleadings. Id. at 324, 106 S.Ct. at 2553. The movant can support its motion by pointing out the absence of evidence supporting the nonmovant\u2019s case. See Saunders v. Michelin Tire Corp., 942 F.2d 299, 301 (5th Cir.1991). Here, plaintiffs bear the burden of negating Carpenter\u2019s qualified immunity defense. Chrissy F, 925 F.2d at 851; see also infra section IV.\nThe district court also erred in striking Carpenter\u2019s entire affidavit. The court should disregard only the inadmissible portions of a challenged affidavit. Williamson v. United States Dep\u2019t of Agriculture, 815 F.2d 368, 383 (5th Cir.1987); Lee v. National Life Assurance Co. of Canada, 632 F.2d 524, 529 (5th Cir.1980). At least part of Carpenter\u2019s affidavit was admissible. Plaintiffs\u2019 claims make Carpenter\u2019s state of mind on August 1, 1989, material. His testimony of his intent that day may be admitted. Plaintiffs\u2019 contention that it goes to an ultimate fact misses the mark. This is not opinion testimony, but factual evidence of the sheriffs mental state. The Federal Rules of Evidence abandoned the ancient rule against testimony regarding ultimate facts, so long as such testimony is helpful to the jury. See Fed.R.Evid. 704 advisory committee\u2019s note (1972).\nOn the other hand, we find that a portion of the summary judgment evidence upon which plaintiffs rely is not admissible. Dr. James Greenstone testified by affidavit regarding the hostage crisis and pointed out many errors that he believes Carpenter committed. Dr. Greenstone stated what policies and procedures should, in his expert opinion, have been followed in negotiating with Cabano. The affidavit then asserts that Carpenter acted with deliberate indifference and conscious disregard, as those mental states are conventionally defined. Plaintiff cannot rely on these last assertions to create a genuine issue regarding Carpenter\u2019s mental state. .\nAffidavits submitted for summary judgment determinations must set forth facts \u201cas would be admissible in evidence.\u201d Fed. R.Civ.P. 56(e). \u201cEvidence inadmissible at trial cannot be used to avoid summary judgment.\u201d Broadway v. City of Montgomery, 530 F.2d 657, 661 (5th Cir.1976). As plaintiffs argued regarding Carpenter\u2019s affidavit, conclusory assertions cannot be used in an affidavit on summary judgment. See id. at 660. Expert witnesses may perform two roles: explaining evidence to a jury, and acting as the source of evidence for a jury. In re Air Crash Disaster at New Orleans, 795 F.2d 1230, 1233 (5th Cir.1986). When the expert speaks in the latter role, we give less deference to a district court\u2019s admissibility decision. Id. We conclude that Dr. Greenstone\u2019s conclu-sory assertions regarding Carpenter\u2019s state of mind are not admissible.\nAs an expert in the field of hostage negotiation, Dr. Greenstone can properly offer evidence on effective methods and explain to a jury faults in the methods employed by a police force. On the other hand, Dr. Greenstone is not in a better position than a juror to conclude whether Carpenter\u2019s actions demonstrated such a lack of concern for Hermosillo\u2019s safety as to constitute deliberate indifference or conscious disregard. Opening the door to ultimate issues did not \u201copen the door to all opinions.\u201d Owen v. Kerr-McGee Corp., 698 F.2d 236, 240 (5th Cir.1983). The focus in deciding whether an expert\u2019s opinion should be admitted is Rule 702\u2019s standard: whether the testimony will \u201cassist the trier of fact to understand the evidence or to determine a fact in issue.\u201d Fed.R.Evid. 702; 3 Jack B. Weinstein and Margaret A. Berger, Weinstein\u2019s Evidence \u00b6 702[01] (1992). \u201cStated more directly, the trial judge ought to insist that a proffered expert bring to the jury more than the lawyers can offer in argument.\u201d Air Crash at New Orleans, 795 F.2d at 1233. With these considerations in mind, we conclude that Dr. Greenstone\u2019s conclusory assertions regarding Carpenter\u2019s state of mind would not be helpful to a jury, were not admissible, and cannot be relied upon by plaintiffs to prevent summary judgment. See Taylor v. Watters, 655 F.Supp. 801, 805 (E.D.Mich.1987) (holding hostage situation expert\u2019s testimony that officials\u2019 conduct was reckless and conscience-shocking inadmissible).\nIV\nAs sheriff, Carpenter is entitled to qualified immunity from suit under section 1983 unless it is shown by specific allegations that he violated clearly established constitutional law. Anderson v. Creighton, 483 U.S. 635, 640, 107 S.Ct. 3034, 3039, 97 L.Ed.2d 523 (1987); Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982). The qualified immunity determination requires a two step analysis. First, in reviewing a denial of qualified immunity, we determine whether plaintiffs have stated a violation of rights secured by the Constitution. Duckett v. City of Cedar Park, 950 F.2d 272, 278 (5th Cir.1992). Since qualified immunity turns on whether a defendant violated a clearly established right, a \u201cnecessary concomitant\u201d to that decision is determining \u201cwhether the plaintiff has asserted a violation of a constitutional right at all.\u201d Siegert v. Gilley, \u2014 U.S. -, -, 111 S.Ct. 1789, 1793, 114 L.Ed.2d 277 (1991). If plaintiffs cross this threshold, we next examine the objective reasonableness of the defendant official\u2019s conduct. Pfannstiel v. City of Manon, 918 F.2d 1178, 1183 (5th Cir.1990); see also Creighton, 483 U.S. at 641, 107 S.Ct. at 3040.\nIn this circuit, the qualified immunity defense involves a shifting burden of proof. Although we sometimes short-handedly refer to only one party\u2019s burden, the law is that both bear a burden. The defendant official must initially plead his good faith and establish that he was acting within the scope of his discretionary authority. Saldana v. Garza, 684 F.2d 1159, 1163 (5th Cir.1982), cert. denied, 460 U.S. 1012, 103 S.Ct. 1253, 75 L.Ed.2d 481 (1983). Once the defendant has done so, the burden shifts to the plaintiff to rebut this defense by establishing that the official\u2019s allegedly wrongful conduct violated clearly established law. Id.; Whatley v. Philo, 817 F.2d 19, 20 (5th Cir.1987); United States v. Burzynski Cancer Research Inst., 819 F.2d 1301, 1310 (5th Cir.1987), cert. denied, 484 U.S. 1065, 108 S.Ct. 1026, 98 L.Ed.2d 990 (1988). The Fifth Circuit does not require that an official demonstrate that he did not violate clearly established federal rights; our precedent places that burden upon plaintiffs. In this case, Carpenter has claimed qualified immunity and established that he acted within his authority as sheriff. If plaintiffs have stated valid, claims, they bear the burden of demonstrating that Carpenter\u2019s actions violated clearly established law.\nA\nHermosillo was shot and killed by Caba-no. Despite plaintiffs\u2019 efforts at \u201cartful pleading,\u201d see Daniels v. Williams, 474 U.S. 327, 334, 106 S.Ct. 662, 666, 88 L.Ed.2d 662 (1986), they have failed to allege a state deprivation of rights secured by the Fourteenth Amendment. Recent Supreme Court decisions applying the due process clause to unintentional injuries lead us to this conclusion.\nThe due process clause is not implicated by a negligent act of an official which causes unintended loss of or injury to life, liberty, or property. Daniels v. Williams, 474 U.S. 327, 328, 106 S.Ct. 662, 663, 88 L.Ed.2d 662 (1986). The focus is on the Fourteenth Amendment\u2019s curb of deliberate abuses of governmental power. The Supreme Court has rejected the notion that an abuse of governmental power is a distinct and necessary element of \u00a7 1983 claims. See Collins v. City of Harker Heights, \u2014 U.S. -, -, 112 S.Ct. 1061, 1065, 117 L.Ed.2d 261 (1992). Even so, the arbitrary and abusive character of state action is relevant to determining whether a constitutional violation has occurred. See id.; Daniels, 474 U.S. at 331-332, 106 S.Ct. at 665. The Constitution does not supplant traditional tort law by creating liability for commonplace injuries, indeed finding a constitutional claim from such facts trivializes due process. Daniels, 474 U.S. at 332, 106 S.Ct. at 665.\nThe court applied Daniels in its companion case, Davidson v. Cannon, 474 U.S. 344, 106 S.Ct. 668, 88 L.Ed.2d 677 (1986). In Davidson, defendant prison officials negligently failed to protect the plaintiff after learning that he had been threatened by another prisoner, who later assaulted him. The Court held that the plaintiff did not have a due process claim.\nFar from abusing governmental power, or employing it as an instrument of oppression, [an official] mistakenly believed that the situation was not particularly serious,_ The guarantee of due process has never been understood to mean that the State must guarantee due care on the part of its officials.\nId. at 348, 106 S.Ct. at 670.\nThree years later, the Court addressed whether substantive due process requires a state to protect persons from private violence. DeShaney v. Winnebago Cty. Dep\u2019t of Social Services, 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989), held that \u201ca State\u2019s failure to protect an individual against private. violence simply does not constitute a violation of .the Due Process Clause.\u201d Id. at 197, 109 S.Ct. at 1004. State officials had many indications that a child\u2019s father was abusing him, and had even taken temporary custody of him while investigating. The father later severely injured the child. The Court concluded that the officials\u2019 failure to prevent this injury did not deny due process. The Constitution imposes no duty on states to provide protective services or otherwise prevent violence by private actors. Id. Even assuming that the state was aware of the danger the father posed, no duty arose because \u201cit played no part in their creation, nor did it do anything to render him any more vulnerable to them.\u201d Id. at 201, 109 S.Ct. at 1006. Since no duty to act existed, the failure to act did not violate the Constitution. Id. at 202, 109 S.Ct. at 1007.\nAlthough in each of these cases, the Court refused to find a constitutional violation, their principles allow room for some due process claims based on unintentional injuries to protected rights. If the state actor has a requisite mental state, a due process deprivation could occur under two sets of circumstances. First, a procedural or substantive due process violation could occur if a state official causes injury by arbitrarily abusing governmental power. Second, a substantive due process violation could occur if uncommon circumstances create a duty for the state to protect a particular person.\nNeither Daniels, Davidson, nor DeShaney involved intentional injury to protected rights. In each case, it was negligent conduct which allegedly caused harm. The Court has not decided.\u201cwhether something less than intentional conduct, such as recklessness or \u2018gross negligence,\u2019 is enough to trigger the protections of the Due Process Clause.\u201d Daniels, 474 U.S. at 334 n. 3, 106 S.Ct. at 666 n. 3; see also DeShaney, 489 U.S. at 202 n. 10, 109 S.Ct. at 1007 n. 10. We have held that a eonsti-tutional deprivation can result from \u201ctor-tious conduct exceeding mere negligence but not quite rising to the level of intentional, e.g., deliberate (or conscious) indifference, recklessness, or gross negligence.\u201d Doe v. Taylor Ind. School Dist., 975 F.2d 137, 142 (5th Cir.1992); see also Lopez v. Houston Ind. School Dist., 817 F.2d 351, 355 (5th Cir.1987).\nDaniels and Davidson demonstrate that negligent conduct does not implicate the due process clause. Nonetheless, unintentional conduct more culpable than negligence may deny due process. The Seventh Circuit has held, and we are not inclined to disagree, that officials who arbitrarily prevent the rescue of persons in known danger deny due process if they act with the requisite mental state. This would be the sort of abuse of governmental authority not found in Daniels or Davidson, but like the paradigmatic claim found in dicta in Jackson v. City of Joliet, 715 F.2d 1200 (7th Cir.1983), cert. denied, 465 U.S. 1049, 104 S.Ct. 1325, 79 L.Ed.2d 720 (1984). A police officer failed to discover that a burning car contained accident victims, and directed traffic away from the vehicle. The Jackson court stated that\nif officer Taylor, knowing the car was occupied and wanting the occupants to be burned to death, directed traffic away from the scene in order to prevent any passing driver from saving them, he would be liable under section 1983 for having under color of the city ordinance making him a public officer deprived the plaintiffs\u2019 decedents of their lives without due' process of law.\nId. at 1202. In that hypothetical case, an abuse of governmental power occurs, because it is the authority vested in the officer by the state which allows him to prevent any effort to rescue the endangered person.\nHolding that recklessness would proxy intent, the Seventh Circuit found a due' process violation on facts similar to its hypothetical. Ross v. United States, 910 F.2d 1422, 1433 (7th Cir.1990). In Ross, a twelve-year-old boy fell into Lake Michigan. Several minutes after he submerged, civilians, fire fighters, and a police officer reached the scene and desired to attempt a rescue. Before they could do so, however, a deputy sheriff on lake patrol arrived and barred anyone from entering the lake. He asserted a county policy that only fire department divers were to engage in rescues, and threatened to arrest anyone else who tried. Id. at 1424-25. The court held that the deputy committed a constitutional tort by interfering with private rescue efforts to save the child. The deputy acted recklessly, because he knew that the child had been submerged for several minutes and could die at any moment if not rescued immediately. Thus, the deputy violated the child\u2019s constitutional rights by \u201ccutting off private avenues of lifesaving rescue without providing an alternative.\u201d Id. at 1432.\nWe are not persuaded that the facts of this case present a- similar constitutional violation. Carpenter did not cut off all avenues of rescue for Hermosillo without providing an alternative. Even accepting plaintiffs\u2019 inferences regarding Carpenter\u2019s mental state, they have failed to show an abuse of power implicating the Fourteenth Amendment. Although Carpenter dismissed the Fort Worth police officers, sheriff\u2019s deputies were at the same time securing the courthouse and commencing negotiations with Cabano. The fact that sheriff\u2019s deputies were ultimately unable to prevent Cabano from killing Hermosillo does not mean that they were not a \u201cmeaningful\u201d source of protection for Hermosillo. See id. at 1431 (county policy cut off rescue source without \u201cmeaningful alternative\u201d). Because of the deputy\u2019s conduct in Ross, no effort was made to rescue a drowning boy for thirty minutes. In contrast, at the time Carpenter dismissed the police his deputies were present and negotiating with Cabano. Carpenter did not use his authority as a state officer to prevent any rescue, rather he exercised his authority to replace one rescue effort with another.\nThese facts resemble Andrews v. Wilkins, 934 F.2d 1267 (D.C.Cir.1991), because in neither case did officials use their authority to cut off a private rescue effort. In Andrews, a man fleeing from arrest for a misdemeanor tried to swim across a river channel. While in the channel he became unconscious, so police on shore hailed a private boat and directed it to him. Seeing that he was unable to reach a life jacket, the boaters intended to enter the water to rescue him, but police directed them not to, saying that the man was an escapee who might be dangerous. Id. at 1269. The court declined to consider this as reckless interference with a private rescue effort, noting that \u201crather than using their authority to interfere in a private rescue, the police officers used their authority to involve the [boaters] in the police rescue efforts.\u201d Id. at 1271. The officers did not cut off a private avenue of rescue, but controlled the conduct of a police rescue, considering factors such as the safety of those involved. In that way, they, like Carpenter, did not abuse their governmental power.\n\u25a0 DeShaney makes it plain that the state\u2019s failure to protect a person can amount to a deprivation only if the state had a duty to act. DeShaney recognized, however that some settings create a special relationship between the state and a person, imposing a duty to protect the person. 489 U.S. at 196-200, 109 S.Ct. at 1004-05. A substantive due process right to protective services exists when the state holds persons in custody or similarly limits their ability to care for themselves. Doe v. Taylor Ind. School Dist., 975 F.2d 137, 146 (5th Cir.1992). Generally, the absence of a special relationship defeats any due process claim based upon a failure to provide protective services. See also Jackson v. Byrne, 738 F.2d 1443, 1447 (7th Cir.1984); Handley v. City of Seagoville, 798 F.Supp. 1267, 1272 (N.D.Tex.1992) (Sanders, C.J.). Hermosillo was not held in state custody or otherwise prevented by the state from caring for herself. ' This was a failed rescue effort.\nCourts have found a denial of due process when the state creates the faced dangers. Gregory v. City of Rogers, 974 F.2d 1006, 1010 (8th Cir.1992) (en banc); see also L.W. v. Grubbs, 974 F.2d 119, 121 (9th Cir.1992); Wood v. Ostrander, 879 F.2d 583 (9th Cir.1989), cert. denied, \u2014 U.S. -, 111 S.Ct. 341, 112 L.Ed.2d 305 (1990); White v. Rockford, 592 F.2d 381 (7th Cir.1979). Plaintiffs must urge an expansion of this rule, for no reasonable jury could find that Carpenter created the danger that Cabano would kill Hermosillo. Cf. Gregory, 974 F.2d at 1012 (officer did not create danger that drunks would drive car by leaving them unsupervised while dealing with driver inside station). Freeman v. Ferguson, 911 F.2d 52 (8th Cir.1990), held that a claim may exist when officials increase a person\u2019s vulnerability to private violence by interfering with protective services which otherwise would be available. Id. at 54. Seeds for such an expansion are arguably found in DeSha-ney, where the Court stated that no duty to protect the plaintiff from free world dangers arose because the state \u201cplayed no part in their creation, nor did it do anything to render him any more vulnerable to them.\u201d 489 U.S. at 201, 109 S.Ct. at 1006 (emphasis added). The Eighth Circuit concluded that\na constitutional duty to protect an -individual against private violence may exist in a non-custodial setting if the state has taken affirmative action which increases the individual\u2019s danger of, or vulnerability to, such violence beyond the level it would have been at absent state action.\nFreeman, 911 F.2d at 55.\nHad Carpenter not acted, plaintiffs contend, the police department would have provided a better equipped and more experienced force to handle the hostage negotiations and possibly to conduct a dynamic entry to rescue Hermosillo. Thus, Carpenter' allegedly acted in a way which left Hermosillo, unlike Joshua DeShaney, in a worse position than if the state official had never been involved.\nWe are not persuaded, however, that Carpenter increased Hermosillo\u2019s vulnerability to danger in the sense envisioned by the Court in DeShaney. Nor do we agree that this case is governed by Rockford and Wood. In Wood, for example, a trooper arrested a driver and abandoned the female passenger in a high crime area in the middle of the night, creating the danger that she would be assaulted. 879 F.2d at 590. Police in Rockford arrested a driver and left children unattended on a highway. 592 F.2d at 382. In Grubbs, the state placed a nurse in danger by assigning her to work alone with a dangerous inmate and failing to warn her that she would be exposed to sex offenders. 974 F.2d at 120. In each of these cases, officials failed to take any action to alleviate the danger which they created or aggravated. Carpenter, on the other hand, did not worsen Hermosillo\u2019s position and abandon her to allow events to run their course. The sheriff continued at all times to supervise a law enforcement effort to secure her safe release. We decline to hold that this conduct shocks the conscience or is otherwise a deprivation of due process. See Rochford, 592 F.2d at 383; Rochin v. California, 342 U.S. 165, 172, 72 S.Ct. 205, 209, 96 L.Ed. 183 (1952).\nThe Fourteenth Amendment does not require Carpenter to train and equip members of the sheriff\u2019s department for special SWAT or hostage negotiation duties. The Constitution does not provide a right to protective services such as ambulance service, Archie v. City of Racine, 847 F.2d 1211, 1220 (7th Cir.1988) (en banc), cert. denied, 489 U.S. 1065, 109 S.Ct. 1338, 103 L.Ed.2d 809 (1989), or fire-fighting equipment, Jackson v. Byrne, 738 F.2d 1443, 1448 (7th Cir.1984). It does not mandate that law enforcement agencies maintain equipment useful in all foreseeable situations. With no constitutional duty to provide SWAT or hostage negotiation equipment, Carpenter\u2019s failure to do so does not deny due process. See DeShaney, 489 U.S. at 202, 109 S.Ct. at 1007.\nPlaintiffs argue that City of Canton v. Harris, 489 U.S. 378, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989), supports their claim that police who undertake to handle a hostage situation must be adequately trained. In Harris, however, the city\u2019s policy allegedly prevented a prisoner from receiving medical treatment which the city had a duty to provide. As an initial matter, this case does not involve municipal liability. Moreover, we do not read Harris to adopt for constitutional law the tort principle that if police undertake to perform a service not mandated by the Constitution, then adequate training for the conduct of that service would be constitutionally required. As the court noted in Andrews v. Wilkins, 934 F.2d 1267 (D.C.Cir.1991), it would be anomalous to impose liability for failing in an effort not required by the Constitution. Id. at 1270. Cf. Jackson v. City of Joliet, 715 F.2d 1200 (7th Cir.1983) (\u00a7 1983 claim may not be based on negligence of police who respond to an accident);. Jackson v. Byrne, 738 F.2d 1443, 1447 (7th Cir.1984) (city did not acquire constitutional duty to provide fire protection by once providing such services). Such a rule would create perverse incentives, discouraging police encountering unanticipated situations from responding.\nB\nIn addition to concluding that plaintiffs have failed to state a constitutional claim, we find that Carpenter was otherwise entitled to qualified\u2019 immunity. Even if an official\u2019s conduct violates a constitutional right, he is entitled to qualified immunity if the conduct was objectively reasonable. Pfannstiel v. City of Marion, 918 F.2d 1178, 1183 (5th Cir.1990). The objective reasonableness of allegedly illegal conduct is assessed in light of the legal rules clearly established at the time it was taken. Creighton, 483 U.S. at 639, 107 S.Ct. at 3038. A right will be considered clearly established only when its contours are sufficiently clear so that a reasonable official would understand that what he is doing violates that right. Id. at 640, 107 S.Ct. at 3039; White v. Taylor, 959 F.2d 539, 544 (5th Cir.1992). \u201cThis is not to say that an official action is protected by qualified immunity unless the very action in question has previously been held unlawful, but it is to say that in light of preexisting law the unlawfulness must be apparent.\u201d Creighton, 483 U.S. at 640, 107 S.Ct. at 3039 (citation omitted). On appeal from an order denying summary judgment based on qualified immunity, plaintiffs have the burden to come forward with evidence sufficient to create a genuine issue as to whether the defendant\u2019s conduct was objectively unreasonable in light of clearly established law. Pfannstiel v. City of Marion, 918 F.2d 1178, 1183 (5th Cir.1990). \u201cIf reasonable public officials could differ on the lawfulness of the defendant\u2019s actions, the defendant is entitled to immunity.\u201d White, 959 F.2d at 544.\nWe are not persuaded that the contours of the law in this area were well defined in August of 1989. Even today, it remains uncertain whether officials who cause harm by gross negligence can violate the due process clause. See supra at notes 7-8. Reasonable officials may disagree over when a duty to protect private citizens arises. See Freeman v. Ferguson, 911 F.2d 52, 55 (8th Cir.1990) (\u201cthe law is not entirely established as to the extent to which the government must increase the danger of private violence before it assumes a corresponding duty to protect\u201d). On the other hand, the Ninth Circuit held that it was clearly established in 1984 that a police officer\u2019s deliberate indifference, which enhances an individual\u2019s risk of being harmed by a private actor, violates due process. Wood v. Ostrander, 879 F.2d 583 (9th Cir.1989), cert. denied, \u2014 U.S. -, 111 S.Ct. 341, 112 L.Ed.2d 305 (1990). Plaintiffs have failed, however, to carry their burden of showing that Carpenter acted with deliberate indifference. The facts here are a far cry from those in Ross, where the deputy knew that the submerged child faced an almost certain risk of drowning if not immediately rescued. The only admissible evidence with which plaintiffs would demonstrate a culpable mental state are Carpenter\u2019s public statements following the tragedy. These statements are not probative of deliberate indifference or reckless disregard for a recognized danger. In fact, Carpenter\u2019s statement that he continued to believe that a SWAT team had not been necessary to handle the crisis tends to show that he did not recognize a danger resulting from the dismissal of that team. And, as we explained, the conclusory allegations of Dr. Greenstone\u2019s affidavit may not be relied upon to create a genuine issue of fact precluding summary judgment.\nMoreover, as Creighton demonstrates, the reasonableness of an official\u2019s conduct must be judged according to the uncertainty of the facts known, as well as the certainty of the law. 483 U.S. at 641, 107 S.Ct. at 3040 (determining objective reasonableness of conduct \u201cwill often require examination of the information possessed\u201d by officials). Qualified immunity will be granted if a reasonable official would be left uncertain of the law\u2019s application to the facts confronting him. Hopkins v. Stice, 916 F.2d 1029, 1031 (5th Cir.1990). On this basis, Carpenter is entitled to qualified immunity. While it should be clear to police officials that they cannot \u201carbitrarily assert [their] power so as to cut short a person\u2019s life,\u201d Ross, 910 F.2d at 1433, it would not have been apparent to a reasonable official that relying solely upon sheriff\u2019s department personnel would result in Hermosillo\u2019s death. Plaintiffs\u2019 expert, Dr. Greenstone, testified regarding what actions are best taken or avoided during a hostage situation. An objective official\u2019s possession of this knowledge, however, does not equate with knowledge that failure to follow such procedures will probably result in the death of the hostage. Carpenter attempted to negotiate Hermosillo\u2019s release with inexperienced deputies and untrained civilians. While this course of action may have been imprudent, even reckless, we are not persuaded that a reasonable official would recognize that it was contrary to law.\nAn important policy behind qualified immunity is to prevent litigation which \u201cwill unduly inhibit officials in the discharge of their duties.\u201d Creighton, 483 U.S. at 638, 107 S.Ct. at 3038. Second-guessing the decision of law enforcement officers regarding the choice of police personnel in a crisis would undermine that policy. Lawsuits alleging that police should have acted one way or another in response to a hostage situation \u201cpose[] a no-win situation for the police and do[] nothing to encourage law enforcement or a respect for constitutional rights.\u201d Taylor v. Watters, 655 F.Supp. 801, 807 (E.D.Mich.1987).\nWe do not say that this crisis was properly handled or that Sheriff Carpenter made no mistakes. We say only that there was no denial of Juanita Hermosillo\u2019s constitutional rights.\nV\nWe REVERSE the district court\u2019s denial of his motion to dismiss and for summary judgment.\n. Plaintiffs point to several errors made during the negotiations, including agreeing to demands for the snipers' removal and the presence of a reporter without obtaining a corresponding concession from Cabano, allowing persons acquainted with Cabano to speak to him, and allowing the command post to become overcrowded.\n. Plaintiffs objected to (1) the statement regarding Carpenter\u2019s capacity, as an ultimate fact; (2) the description of the situation as a police emergency, as an expert opinion; (3) the statement regarding making policy decisions, as a conclu-sory fact and/or conclusion of law; (4) the statement regarding his intent and objective, as an ultimate fact; and (5) the denial of conscious indifference and deliberate disregard, as ultimate facts.\n. Despite our disposition of this appeal, Tarrant County, Texas, remains a defendant in the district court. Our recitation of facts accepts plaintiffs' evidence and reasonable inferences from it as true, and should not be construed as expressing any opinion regarding the weight or credibility of the evidence.\n. \"Under Rules 701 and 702, opinions must be helpful to the trier of fact, and Rule 403 provides for exclusion of evidence which wastes time. These provisions afford ample assurances against the admission of opinions which would merely tell the jury what result to reach Fed.R.Evid. 704 advisory committee's note (1972).\n. The Court's resistance to efforts to constitu-tionalize tort law was again demonstrated in Collins v. City of Harker Heights, \u2014 U.S. -, 112 S.Ct. 1061, 117 L.Ed.2d 261 (1992). The Court rejected the assertion that a government employer\u2019s failure to adequately train or warn its employee of known dangers constituted a due process violation. It found that the city\u2019s alleged conduct was not \"arbitrary, or conscience-shocking, in a constitutional sense.\u201d Rather, \"[pjetitioner\u2019s claim is analogous to a fairly typical state law tort claim.\u201d Id. at -, 112 S.Ct. at 1070.\n. Other circuits are divided on the question of whether gross negligence is sufficiently different from negligence to justify basing a deprivation on such conduct. Compare Taylor v. Led-better, 818 F.2d 791, 793 (11th Cir.1987) (en banc) (holding pro), cert. denied, 489 U.S. 1065, 109 S.Ct. 1337, 103 L.Ed.2d 808 (1989) and Vinson v. Campbell Cty. Fiscal Court, 820 F.2d 194, 199-200 (6th Cir.1987) (accord) with Archie v. City of Racine, 847 F.2d 1211, 1219-20 (7th Cir.1988) (en banc) (holding con), cert. denied, 489 U.S. 1065, 109 S.Ct. 1338, 103 L.Ed.2d 809 (1989) and Myers v. Morris, 810 F.2d 1437, 1468 (8th Cir.) (accord), cert. denied, 484 U.S. 828, 108 S.Ct. 97, 98 L.Ed.2d 58 (1987).\n. See also Justice Brennan\u2019s dissent in DeSha-ney: \u201c[I]f a State cuts off private sources of aid and then refuses aid itself, it cannot wash its hands of the harm that results from its inaction.\u201d 489 U.S. at 206, 109 S.Ct. at 1009 (Brennan, J., dissenting).\n. \"If the state puts a man in a position of danger from private persons and then fails to protect him, it will not be heard to say that its role was merely passive; it is as much an active tortfea-sor as if it had thrown him into a snake pit.\" Bowers v. DeVito, 686 F.2d 616, 618 (7th Cir.1982).\n. We do not decide whether such a claim can properly be brought against Carpenter in his individual capacity, the capacity for which he seeks qualified immunity. Because of our resolution of the claim, we may assume arguendo that it can be.",
+        "type": "majority",
+        "author": "PATRICK E. HIGGINBOTHAM, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Van Thompson, Jr., Asst. Dist. Atty., Ft. Worth, Tex., for defendants-appellants.",
+      "James Warren Lane, Ft. Worth, Tex., for Salas.",
+      "Robert Charles Lyon, Lyon & Lyon, Rowlett, Tex., Burleson, Pate & Gibson, Dallas, Tex., for Patino."
+    ],
+    "corrections": "",
+    "head_matter": "Dora SALAS, Individually and as Representative of the Estate of obo Juanita Hermosillo, et al., Plaintiffs-Appellees, v. Don CARPENTER, Individually and in his capacity as Sheriff of Tarrant County, Texas, et al., Defendants-Appellants.\nNo. 91-1807.\nUnited States Court of Appeals, Fifth Circuit.\nDec. 16, 1992.\nVan Thompson, Jr., Asst. Dist. Atty., Ft. Worth, Tex., for defendants-appellants.\nJames Warren Lane, Ft. Worth, Tex., for Salas.\nRobert Charles Lyon, Lyon & Lyon, Rowlett, Tex., Burleson, Pate & Gibson, Dallas, Tex., for Patino.\nBefore HIGGINBOTHAM and DUH\u00c9, Circuit Judges, and HARMON, District Judge. ,\nDistrict Judge of the Southern District of Texas, sitting by designation."
+  },
+  "file_name": "0299-01",
+  "first_page_order": 387,
+  "last_page_order": 399
+}

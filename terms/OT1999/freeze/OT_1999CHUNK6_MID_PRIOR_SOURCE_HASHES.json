@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/karo-official.pdf",
+      "sha256": "ffd7a0a47f49eed43b18b85c90e44fdfbf255166c24300ec30c17d09c8398486"
+    },
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/karo-official.txt",
+      "sha256": "922f8c37b4104a04e23174991ed1d5082deea4baeebb6e50f4e64d4b8f2908ab"
+    },
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/class-official.pdf",
+      "sha256": "0d121bc7c25519bff9f255263d24152ec33bcec0e398c91f29f454ef876508b0"
+    },
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/class-official.txt",
+      "sha256": "b8c25d4efcd5f520fa83564601c01ca5050626b6174420cbdc3e3f48196ddaeb"
+    },
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/cardwell-official.pdf",
+      "sha256": "fb350326ea0483ebca4f9559a2b3380671684faf072960de26e36791a7d6a45a"
+    },
+    {
+      "path": "terms/OT1999/sources/chunk6-model-mid/cardwell-official.txt",
+      "sha256": "80f469bfe233389d5dee513fd9b15d780bc14f96c9c63b0839ef73b55f8c86cf"
+    }
+  ],
+  "receipt_sha256": "90cc8881f74dacd84e0d24581e4878e1d17f10830483a720f1a4b25c81ea5087"
+}

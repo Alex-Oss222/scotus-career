@@ -1,0 +1,42 @@
+{
+  "stage": "3B independent non-Stone modeling",
+  "event_cutoff": "2000-05-15 before uncoordinated same-day events",
+  "case": "MORRISON",
+  "inputs": [
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MORRISON_NEUTRAL_VALIDATED.md",
+      "sha256": "bd4f3c62b6437ac98ec699dacc5513a998a4ed2e7aff76fe7f1cd697eb27b1f1"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MORRISON_STATE_ACTION_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "3d5943319bea18e32d29f4f1b1bb23463d9514c002f550d02c1187f25e897571"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY15_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "0620c06134186d49b5324c6e5a6607053daaf0c6a432b68dc9e47f79833efa5d"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MINING_REGIONS_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "c2722721f92f02b9111a7c2706536ff0329c1657781f0b487662856cafe4f4c9"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "sha256": "ffb7de824d00c37da02a6c793f87783109530552c41ac735def9759835e7c106"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "sha256": "9ec390a2bc0c2361a40748645454aef76eb1fb5e1faf1da1b219022467a4f634"
+    }
+  ],
+  "freeze_sha256": "10ff539b35c30fe7913100c34dc2a0e3ad35b637ad401392ba553f019d7f1aa2",
+  "runtime_sha256": "10ff539b35c30fe7913100c34dc2a0e3ad35b637ad401392ba553f019d7f1aa2",
+  "checks": {
+    "copies_identical": true,
+    "all_eight_Associates_each_component": true,
+    "final_neutral_certificate_read": true,
+    "no_same_day_borrowing": true,
+    "no_current_outcome_or_controlled_position_exposure": true,
+    "no_assignment": true
+  },
+  "substantive_validation": "Four affirm on actual Commerce connection/fit and Section 5 remedial-relation grounds; four reverse under their expressly broader Lopez class-effects view and reserve Section 5. The latter is openly different from controlling law, not a manufactured application of it. Private-defendant labels, individualized constitutional violations, findings quantity, and national prevalence are not categorical tests. Color-of-law applications and unrelated litigation reserved. Tools check copy identity and row presence, not judicial substance."
+}

@@ -1,0 +1,9 @@
+# Morrison / Brzonkala — form before assignment count
+
+The consolidated dockets issue in one signed plenary Opinion of the Court. The enacted private-assault action presents distinct Commerce and section 5 questions requiring separate holdings in that opinion, not separate assignments. The Commerce holding applies the existing class/connection/fit architecture and all materially supported market, necessary-regime and externality paths. The section 5 holding concerns the insufficient fit of this defendant, private-assault trigger and relief to the invoked state constitutional denial, preserving existing preventive-remedial latitude and the unpresented color-of-law/severability limits.
+
+Stone's approved Commerce ground coincides with O'Connor, Scalia, Kennedy and Thomas. His exact proposed section 5 rule concerns a private assailant untethered to unconstitutional state conduct; read with his stated private/state distinction, it supports the particular remedial-connection holding, not a new categorical rule against every private defendant or an individual-violation requirement that current law rejects. No substantive Stone narrowing, alternative ground or fallback is used. These five may join the whole bounded opinion, and the Chief assigns.
+
+Stevens, Souter, Ginsburg and Breyer share one dissenting Commerce proposal that expressly would displace the connection-before-magnitude prerequisite where it defeats their rational substantial-class-effects rationale. They reserve the section 5 alternative. One substantive dissent suffices; neither a historical Thomas original-understanding writing nor a historical legislative-process alternative is added without a frozen current commitment.
+
+McIver is stopped without a Record and contributes no assignment count. These form, scope and coalition choices precede the fresh count or selection of an author.

@@ -1,0 +1,1221 @@
+- 
+
+
+No. 98°1811 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+ALEXIS GEIER, ef. al.. 
+Petitioners, 
+
+
+AMERICAN HONDA MOTOR COMPANY, INC.. ef ai.. 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the 
+District of Columbia Circuit 
+
+
+BRIEF OF WASHINGTON LEGAL FOUNDATION 
+AS AMICUS CURIAE 
+IN SUPPORT OF RESPONDENTS 
+
+
+DANIEL J. POPEO LAWRENCE S. EBNER 
+
+RICHARD A. SAMP (Counsel of Record) 
+
+WASHINGTON LEGAL MONICA A. AQUINO 
+FOUNDATION McKENNA & CUNEO. 
+
+2009 Massachusetts Ave, NW me 
+
+Washington, DC 20036 1900 K Street, NW 
+
+(202) 588-0302 Washington, DC 20006 
+
+
+(202) 496-7500 
+
+
+Date: November 19, 1999 
+
+
+BBEST AVAILABLE COPY 
+
+
+“> 
+
+
+TABLE OF CONTENTS 
+
+
+STATEMENT OF THE CASE 
+
+
+SUMMARY OF ARGUMENT 
+
+
+PREEMPTION OF STATE TORT LAW IS 
+ULTIMATELY AN ISSUE OF CONGRES- 
+SIONAL INTENT, AND AN INTENT TO 
+PREEMPT GEIER'S ACTION CAN BE 
+
+
+A FINDING OF PREEMPTION UNDER THE 
+NARROW CIRCUMSTANCES OF THIS CASE 
+DOES NOT UNDERMINE THE VIABILITY OF 
+STATE TORT LAW 
+
+
+. THE CONTENTION THAT PRODUCT SAFETY 
+[IS MORE FAIRLY DEALT WITH THROUGH 
+COMMON-LAW ACTIONS THAN THROUGH 
+FEDERAL ADMINISTRATIVE ACTION IS 
+MERITLESS, IN ADDITION TO BEING 
+
+
+Page 
+
+
+IV. FEDERAL AGENCIES SHOULD NOT BE 
+REQUIRED TO PREDICT WHA? UNKNOWN 
+FUTURE TORT CLAIMS MIGHT CONFLICT 
+WITH THE STATUTES, REGULATIONS, AND 
+PROGRAMS THEY ADMINISTER ........ 
+
+
+CUBMUBARIN 600 60a tb 0 0 'e-Sue sie eee 
+
+
+TABLE OF AUTHORITIES 
+Page 
+
+Cases: 
+Allis-Chalmers Corp. v. Lueck, 
+
+i iiss owas» 66s 0 6 4 12 
+Boyle v. United Techn. Corp., 
+
+a eat c once eeee eee 12 
+California Fed. Sav. and Loan Ass'n v. Guerra, 
+
+SE ee 7 
+CSX Transp., Inc. v. Easterwood, 
+
+EEE PP ee 12 
+Cipollone v. Liggett Group, Inc. 
+
+diss be p's s 6 4.0 0 66 0 8 passim 
+English v. General Electric Co., 
+
+eG da 669-40 0 0 sd e-0 6 0.0606 6 
+Gade v. Nat'l Solid Wastes Management Ass'n, 
+
+EE TPP TEE ETe 6 
+Hines v. Davidowitz, 
+
+es 6 OG 6 as os ose be o's 8 
+Ingersoll-Rand Co. v. McClendon, 
+
+RR Ee ee ee 12 
+Int'l Brotherhood of Electrical Workers 
+
+v. Hechler, 481 U.S. 851 (1987) ............ 12 
+Malone v. White Motor Corp.., 
+
+al aa able o bos «0.0. 6 eee 6 
+Medtronic, Inc. Lohr, 
+
+S18 U.S. 470 (1996) ........... 6, 12, 19, 20, 22 
+Metropolitan Life Ins. Co. v. Taylor, 
+
+a Ee bal els cw se 6:4. 0.00.0% 12 
+Int'l Paper Co. v. Ouellette, 
+
+a) a5 6 5 66 60.04 680 « 12 
+
+
+Ortiz v. Fibreboard Corp., 
+ee ees 15 
+
+
+Perry v. Mercedes Benz of North America, Inc., 
+
+
+957 F.2d 1257 (Sth Cir. 1992)............4.. 10 
+Rice v. Sante Fe Elevator Corp., 
+
+RR ete: Sot 6-7 
+San Diego Bldg. Trades Council v. Garmon, 
+
+OP ee eo eee ee 13 
+United Steelworkers of America, AFL-CIO- 
+
+CLC v. Rawson, 495 U.S. 362 (1990) ......... 12 
+Vermont Yankee Nuclear Power Corp. v. 
+
+Natural Resources Defense Council, 
+
+Ge Ga Sa ED 6 ho cewsaeateaewest oa 22 
+
+
+Statutes and Coenstitutiona! Provisiens: 
+
+
+U.S. Const., art. VI, cl. 2 ("Supremacy Clause") ... 7 
+Administrative Procedure Act ............... 21 
+5 ee et ks abiras a Cues eee 21 
+National Traffic and Motor Vehicle Safety Act 
+ea fg PROP ee Ce ere ee passim 
+Public Health Cigarette Smoking Act of 1969 ..... 11 
+Miscellaneous: 
+
+
+Robert A. Carp and Ronald Stidham, Judicial 
+Process in America, (4th ed. 1998) ........... 15 
+
+
+Donovan Leisure Newton & Irvine ADR Practice 
+Book, 605 PLI/Lit 947 (1999) .............. 16 
+
+
+Robert B. Leflar & Robert S. Adler, The Preemp- 
+
+tion Pentad: Federal Preemption of Products 
+Liability Claims After Medtronic, 
+
+Oe leis RUUD, 0 ow 64.0 sues ces ks 7 
+
+
+John Burritt McArthur, The Strange Case of Amer- 
+ican Civil Procedure and the Missing Uniform 
+Discovery Time Limits, 24 Hofstra 
+*— KF FRA Pea eos a> 16 
+
+
+Brian Ostrom and Neal Kauder, Examining the 
+Work of Staite Courts, 1994: A National Per- 
+spective from the Court Statistics Project, 
+National Ctr. for State Courts (1996) ......... 16 
+
+
+Scott D. Wiener, Note, Popular Justice: State 
+Judicial Elections and Procedural Due Process, 
+31 Harv. C.R.-C.L. L. Rev. 187 (1996) ....... 15 
+
+
+Timothy Wilson, Federalism Issues in “No Airbag” 
+
+Tort Claims: Preemption and Reciprocal Comity, 
+
+61 Notre Dame L. Rev. 30 (1986) ........... 17 
+Asbestos Litigation Problems, Hearing of the 
+
+Subcomm. on Admin. Oversight and the Courts, 
+
+Senate Committee on the Judiciary (1999) ...... 15 
+RESTATEMENT (THIRD) OF TorTs (1998) ........ 13 
+
+
+49 Fed. Reg. 28962, 29001 (July 17, 1984) ...... ll 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+No. 98-1811 
+
+
+ALEXIS GEIER, ef. ai., 
+Petitioners, 
+Vv. 
+
+
+AMERICAN HONDA MOTOR COMPANY, INC., ef ai., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the 
+District of Columbia Circuit 
+
+
+BRIEF OF WASHINGTON LEGAL FOUNDATION 
+AS AMICUS CURIAE 
+IN SUPPORT OF RESPONDENTS 
+
+
+INTERESTS OF AMICUS CURIAE 
+
+
+The Washington Legal Foundation (WLF) is a Wash- 
+ington, D.C.-based nonprofit public interest law and policy 
+center with supporters in all 50 states.’ WLF devotes 
+substantial resources to defending and promoting free enter- 
+
+
+' Pursuant to S. Ct. R. 37.6, WLF hereby affirms that no counsel for 
+either party authored any part of this brief, and that no person or entity, 
+other than WLF, its supporters, and its counsel, made a monetary 
+contribution to the preparation or submission of this brief. 
+
+
+2 
+
+
+prise, individual rights, and a limited and accountable 
+government. 
+
+
+To that end, WLF has appeared before this and other 
+state and federal courts in cases involving preemption issues, 
+seeking to point out the economic inefficiencies created 
+when multiple layers of government seek simultaneously to 
+regulate the same business activity. See, e.g., Medtronic, 
+Inc. v. Lohr, 518 U.S. 470 (1996); International Assoc. of 
+Independent Tanker Owners v. Locke, No. 98-1706 (dec. 
+
+
+pending). 
+
+
+WLF is particularly concerned that the American 
+economy suffers, and public safety or health can be 
+jeopardized, when state law, including state tort law, 
+imposes upon industry an unnecessary layer of regulation 
+that obstructs or frustrates the objectives or operation of 
+specific federal regulatory programs, such as the National 
+ey ee ee Act") at issue 
+
+re. 
+
+
+WLF supports each of the arguments raised by 
+Respondents in their brief. WLF is filing separately in 
+order to focus on arguments raised in the Brief Amicus 
+Curiae of Robert B. Leflar, Robert S. Adler, Michael 
+Green, and Joseph A. Page (the “Leflar Brief"). WLF 
+strongly disagrees with the Leflar Brief's proposal that the 
+Court's long-standing preemption jurisprudence be 
+overtumed and replaced with a regime under which implied 
+conflict preemption would be “narrowly circumscribed." 
+Leflar Br. 6. WLF submits this brief in support of 
+Respondents with the written consent of all parties. The 
+written consents are on file with the Clerk of the Court. 
+
+
+3 
+
+
+STATEMENT OF THE CASE 
+
+
+In the interest of judicial economy, WLF hereby 
+incorporates by reference the Statement of the Case 
+contained in Respondents’ Brief. 
+
+
+In brief, Petitioner Alexis Geier was injured while 
+driving a 1987 Honda Accord -- which did not have an 
+airbag -- when it crashed into a tree. Petition Appendix 
+("Pet. App.") 2. She filed suit against Respondents 
+American Honda Motor Company, ef al. ("Honda"), 
+alleging that the car was defectively designed because it did 
+not include an airbag. Jd. 
+
+
+The United States Court of Appeals for the District of 
+Columbia Circuit affirmed the district court's grant of 
+summary judgment to Honda, finding that Geier's design 
+defect claims were impliedly preempted by federal law. 
+Pet. App. 1-16. The appeals court held that allowing those 
+claims to continue would conflict with federal law by 
+frustrating the implementation of specific passive restraint 
+system policies adopted by the National Highway Traffic 
+Safety Administration ("NHTSA") pursuant to the Safety 
+Act. Id. at 15-16. 
+
+
+Geier thereafter filed a petition for a writ of certiorari, 
+noting that while the decision of the appeals court was 
+consistent with the decisions of other federal appeals courts, 
+it conflicted with the decisions of several state supreme 
+courts on this precise preemption issue. The Court granted 
+the petition on September 10, 1999. 
+
+
+4 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Preemption of state tort Jaw is ultimately an issue of 
+congressional intent. Once Congress's preemptive intent has 
+been identified, it is not the role of the courts to construe 
+preemption provisions broadly or narrowly, based (for 
+example) on the types of policy considerations identified in 
+the Leflar Brief. Because (as demonstrated by Honda in its 
+brief) tort suits based on “no airbag" claims stand as an 
+obstacle to the accomplishment and execution of the full 
+purposes and objectives of Congress, such suits are 
+preempted by operation of the Supremacy Clause of the 
+Constitution. 
+
+
+In any event, the policy arguments raised in the Leflar 
+Brief are not well-founded. The authors of the Leflar Brief 
+assert that a finding of preemption in this or similar cases 
+would undermine the viability of state tort law. But that 
+assertion overlooks the narrowness of the preemption 
+argument being made by Honda in this case. Honda limits 
+its argument to those few cases (as here) in which allowing 
+tort suits to go forward would conflict with motor vehicle 
+safety standards adopted by NHTSA. For example, Honda 
+does not allege that federal law preempts claims that 
+installed airbags were defectively designed, because no 
+NHTSA standard grants manufacturers the option of 
+
+
+adopting a particular airbag design. 
+
+
+Nor is there any merit to the Leflar Brief's contention 
+that common-law tort suits can address product liability 
+concerns more efficiently and fairly than can federal 
+administrative action. Indeed, the available evidence 
+suggests just the opposite: federal administrative agencies 
+can resolve safety issues more swiftly and have resources 
+
+
+5 
+
+
+available to them (including, e.g., expertise, experience, 
+information-gathering powers, national perspective, and 
+funding) that dwarf the resources available to any trial 
+factfinder. The Leflar Brief also asserts that common-law 
+tort actions serve interests not served by federal regulatory 
+programs -- in particular, compensation of the injured. But 
+to the extent that such actions interfere with federal policy 
+on airbag installation, preemption is clearly mandated under 
+existing case law, regardless whether the actions serve 
+interests distinct from those served by the federal programs. 
+
+
+Finally, there is no basis for the Leflar Brief's argument 
+that implied conflict preemption should be limited to those 
+cases in which a federal agency has conducted notice-and- 
+comment proceedings and has affirmatively concluded that 
+preemption is warranted. The argument overlooks a key 
+aspect of federal preemption: it is Congress and the 
+operation of the Supremacy Clause that determine the 
+preemptive scope of federal law. Once NHTSA has 
+established a federal motor vehicle safety standard, it is not 
+NHTSA's role to determine whether to permit states to 
+enforce laws that conflict with that standard. 
+
+
+ARGUMENT 
+
+
+I. PREEMPTION OF STATE TORT LAW IS 
+ULTIMATELY AN ISSUE OF CONGRESSIONAL 
+INTENT, AND AN INTENT TO PREEMPT 
+GEIER'S ACTION CAN BE INFERRED HERE 
+
+
+Whether the federal government has preempted an 
+assertion of regulatory authority by state or local govern- 
+ments in a given instance is ultimately an issue of the intent 
+of Congress and the operation of the Supremacy Clause. As 
+
+
+6 
+
+
+this Court has repeatedly emphasized, “Pre-emption 
+fundamentally is a question of congressional intent... .” 
+English v. General Electric Co., 496 U.S. 72, 78-79 (1990). 
+Cipollone v. Liggett Group, Inc., 505 U.S. 504, 516 (1992) 
+("'[t}he purpose of Congress is the ultimate touchstone’ of 
+preemption analysis") (quoting Malone v. White Motor 
+Corp., 435 U.S. 497, 504 (1978)); Medtronic, Inc. v. Lohr, 
+518 U.S. 470, 486-87 (1996) ("any understanding of the 
+scope of a pre-emption statute must rest primarily on ‘a fair 
+understanding of congressional purpose.'") (emphasis in 
+original) (quoting Cipollone, 505 U.S. at 530 n.27 (opinion 
+of Stevens, J.)). 
+
+
+In other words, it is the role of Congress, not a court, 
+to define how broad or narrow a federal statute's preemptive 
+reach should be. Of course, the courts look to a variety of 
+sources’ and employ a variety of interpretive techniques in 
+attempting to discern what Congress intended. But once 
+Congress's preemptive intent has been identified, it is not 
+the role of the courts to construe preemption provisions 
+broadly or narrowly, based (for example) on the types of 
+policy considerations identified in the Leflar Brief. A 
+court's “task in all pre-emption cases is to enforce the ‘clear 
+and manifest purpose of Congress.'" Gade, 505 U.S. at 
+111 (Kennedy, J., concurring in part and concurring in the 
+judgment) (quoting Rice v. Santa Fe Elevator Corp., 331 
+
+
+* "Congress' intent, or course, primarily is discerned from the 
+language of the pre-emption statute and the ‘statutory framework’ 
+surrounding it." Medtronic, 518 U.S. at 486 (quoting Gade v. Nat'l Solid 
+Wastes Management Ass'n, SOS U.S. 88, 111 (1992) (Kennedy, J., 
+
+
+concurring in part and concurring in the judgment)). 
+
+
+7 
+
+
+U.S. 218, 230 (1947)). That is exactly what the D.C. 
+Circuit did here.’ 
+
+
+Congress's intent to preempt state and local law may be 
+explicitly stated in its statutory language or implicitly 
+contained in the statute's structure or purpose. Cipollone, 
+505 U.S. at 516. State law is impliedly preempted if: (1) 
+it actually conflicts with federal law; or (2) federal law so 
+thoroughly occupies a legislative field "as to make 
+reasonable the inference that Congress left no room for the 
+States to supplement it." Jd. (citations omitted). State law 
+"actually conflicts" with federal law "either because 
+compliance with both federal law and state regulations is a 
+physical impossibility, or because the state law stands as an 
+obstacle to the accomplishment and execution of the full 
+purposes and objectives of Congress." California Fed. Sav. 
+and Loan Ass'n v. Guerra, 479 U.S. 272, 281 (1987) 
+(emphasis added and internal quotations omitted). 
+
+
+The D.C. Circuit held that Petitioners’ tort action is 
+barred under the second prong of conflict preemption -- that 
+is, the tort action "stands as an obstacle to the 
+
+
+. * In Robert B. Leflar & Robert S. Adler, The Preemption Pentad: 
+Federal Preemption of Products Liability Claims After Medtronic, 64 Tenn. 
+L. Rev. 691, 694-95 (1997), two of the authors of the Leflar Brief 
+denigrate this Court’s repeated emphasis on the importance of 
+congressional intent in analyzing preemption issues. They refer to it as a 
+“mantra” ~ “a formulaic incantation of black-letter law” that “[e]very 
+court addressing a preemption recites.” Jd. at 694. WLF respectfully 
+disagrees. It is beyond dispute that when Congress chooses to preempt 
+state and local regulation of commerce, it is entitled to do so under the 
+Supremacy Clause. U.S. Const., art. VI, cl. 2; Cipollone, 505 U.S. at 
+516. Accordingly, courts have no legitimate basis upon which to 
+determine preemption issues other than by examining congressional intent. 
+
+
+accomplishment and execution of the full purposes and 
+objectives of Congress." Pet. App. 13-14. The appeals 
+court held that “allowing design defect claims based on the 
+absence of an airbag for the model-year car at issue would 
+frustrate the Department [of Transportation's] policy of 
+encouraging both public acceptance of the airbag technology 
+and experimentation with better passive restraint systems," 
+id. at 15, and that Congress (through the Safety Act) had 
+authorized the Department to adopt such policies. Id. at 2. 
+Honda's brief thoroughly explains why Petitioners’ action 
+would (if allowed to go forward) "frustrate" federal policy, 
+and thus WLF will not repeat that explanation here. 
+
+
+The Leflar Brief does not seriously dispute the appeals 
+court's "frustrat[ion]" finding. Rather, it advances several 
+policy arguments in support of its contention that the bar 
+should be raised for defendants asserting that state tort 
+actions filed against them are preempted.* Those policy 
+
+
+* The Leflar Brief asserts: 
+
+
+Reasonable minds may differ on the merits of NHTSA's choice of 
+method. The question before the Court is not whether NHTSA's 
+phase-in strategy was justified. It is whether damage awards would 
+seriously disrupt the federal regulatory program. The Court of 
+Appeals failed to address this question. 
+
+
+Leflar Brief 16 (emphasis added). 
+
+
+For the past 60 years, however, the applicable test, often repeated by 
+this Court, has been whether state law “stands as an obstacle to the 
+accomplishment and execution of the full purposes and objectives of Con- 
+gress.” Hines v. Davidowitz, 312 U.S. 52, 67 (1941) (citing Savage v. 
+Jones, 225 U.S. 501, 533 (1912)). It appears that Prof. Leflar, et al., in 
+their efforts to narrowly circumscribe implied conflict preemption, simply 
+have invented their own test, which would preclude preemption even 
+
+(continued...) 
+
+
+—_—_ 
+
+
+9 
+
+
+arguments are not well-founded. More importantly, those 
+arguments simply are not relevant to the issue before the 
+Court: whether it can reasonably be inferred that Congress 
+intended to preempt torts actions such as Petitioners’. 
+
+
+Il. A FINDING OF PREEMPTION UNDER THE 
+NARROW CIRCUMSTANCES OF THIS CASE 
+DOES NOT UNDERMINE THE VIABILITY OF 
+STATE TORT LAW 
+
+
+The Leflar Brief's assertion that "implied preemption in 
+products liability cases should be narrowly circumscribed" 
+(Leflar Br. 6) is premised on the authors' view that a finding 
+of preemption in this or similar cases would undermine the 
+viability of state tort law. They assert that "a narrowly 
+cabined implied preemption doctrine” is necessary to 
+“allow[] for the coexistence of federal administrative 
+regulation and state tort law." Jd. (emphasis added). They 
+assert, "Congress assumed the continued existence of state 
+tort law" when it enacted consumer protection laws in the 
+1960s and 1970s, and "/pjermitting this traditional tort 
+regime to continue can partially ameliorate various limi- 
+tations of administrative agencies." Jd. (emphasis added). 
+
+
+The Leflar Brief is starting from a faulty premise: its 
+authors are simply incorrect in assuming that a finding that 
+Petitioners’ tort claims are preempted would in some way 
+undermine the "traditional tort regime." To the contrary, 
+the appeals court's holding has no effect on many other 
+types of potential design-defect claims that could be asserted 
+
+
+*(...continued) 
+where, as the court of appeals found here, state law would frustrate a 
+
+
+federal agency’s full implementation of a federal statute. 
+
+
+10 
+
+
+against automobile manufacturers, because it is not often 
+true that such claims stand as an obstacle to the 
+accomplishment and execution of the full purposes and 
+objectives of Congress. 
+
+
+Indeed, while the federal appeals courts are in agree- 
+ment that “no airbag" claims (such as those raised by Peti- 
+tioners) are preempted by the Safety Act, they have only 
+rarely found conflict preemption with respect to other types 
+of product liability claims involving airbag safety. For 
+example, in Perry v. Mercedes Benz of North America, Inc., 
+957 F.2d 1257 (Sth Cir. 1992), the Fifth Circuit rejected a 
+defense that the Safety Act preempted a claim that an air bag 
+was defectively designed. The manufacturer had elected to 
+install an airbag in the plaintiff's car; the plaintiff alleged 
+that the airbag was defective because it failed to perform in 
+a manner that the plaintiff thought reasonable. The Fifth 
+Circuit held that allowing the claim to go forward would not 
+stand as an obstacle to the accomplishment and execution of 
+the full purposes and objectives of Congress, because 
+Congress and NHTSA (when it adopted Standard 208, the 
+same motor vehicle safety standard at issue in this case) did 
+not grant a "safe harbor" to manufacturers that would allow 
+them to design airbags that met but did not exceed federal 
+safety standards. Perry, 957 F.2d at 1265. The court 
+explained that allowing tort liability based on defective 
+airbag design “would not remove or require any particular 
+choice, or otherwise frustrate ‘flexibility’ that the federal 
+scheme provides." Id. 
+
+
+In contrast, Honda has convincingly demonstrated that 
+permitting Petitioners' claims to go forward would frustrate 
+federal policy by denying to manufacturers an option (not 
+installing airbags in all cars) expressly granted them by 
+
+
+ll 
+
+
+Standard 208. Moreover, NHTSA established that policy in 
+furtherance of the Safety Act's goal of maximizing 
+automobile safety.’ The “traditional tort regime” is in no 
+way undermined by preempting tort actions in those unusual 
+Situations where (as here) the federal government has 
+determined that overall public safety is enhanced if use of 
+unproven safety devices is phased in over a period of years. 
+
+
+The Leflar Brief's assertion -- that preemption of tort 
+claims must be narrowly confined in order to prevent the 
+“traditional tort regime" from being undermined -- is belied 
+by the history of this Court's treatment of such preemption 
+claims. The Court has not adopted any overarching 
+presumptions regarding whether state tort claims should or 
+should not be deemed preempted by federal laws that do not 
+state explicitly whether such claims are to be preempted. 
+Rather, the Court has adopted a case-by-case approach that 
+examines whether, in light of the federal statutory 
+framework, Congress should be deemed to have preempted 
+each of the plaintiff's causes of action. That case-by-case 
+approach is well illustrated by Cipollone, where the Court 
+emphasized, "We must look to each of petitioner's common- 
+law claims to determine whether it is, in fact, preempted." 
+Cipollone, 505 U.S. at 523 (plurality opinion). After 
+examining Congress's purposes in adopting the Public 
+Health Cigarette Smoking Act of 1969, the Court 
+determined that the 1969 Act preempted the plaintiff's 
+common-law claims based on failure to warn but not those 
+claims based on express warranty, fraudulent 
+
+
+* For example, federal officials determined that a policy of phasing 
+in airbags, rather than mandating their immediate installation, would 
+maximize safety by encouraging “innovation in 
+systems." See 49 Fed. Reg. 28962, 29001 (July 17, 1984). 
+
+
+12 
+
+
+misrepresentation, or conspiracy. Jd. at 530-31 (plurality 
+opinion); id. at 554 (Scalia, J., concurring in the judgment 
+in part and dissenting in part). Similarly, the Court in 
+Medtronic did not base its holding on any all-encompassing 
+theory regarding the propriety of preempting common-law 
+tort actions; rather, the Court engaged in a claim-by-claim 
+analysis of whether Congress had intended to preempt the 
+plaintiffs' negligent design, negligent manufacture, and 
+failure-to-warn claims. Medtronic, 518 U.S. at 492-502. 
+
+
+The Court has, on a number of occasions, held that 
+common-law tort actions are preempted by the federal 
+statute at issue.° Yet despite these holdings, it cannot 
+
+
+* See, e.g., CSX Transp., Inc. v. Easterwood, 507 U.S. 658 (1993) 
+(preemption of negligence claim that a conductor operated a train at an 
+excessive speed); Cipollone v. Liggett Group, Inc., 50S U.S. 504 (1992) 
+(preemption of failure-to-warn claim and certain fraudulent 
+misrepresentation claims pertaining to adequacy of warnings regarding 
+dangers of cigarette smoking); Ingersoll-Rand Co. v. McClendon, 498 U.S. 
+133 (1990) (preemption of employee's state law wrongful discharge claim 
+based upon employer's alleged attempt to avoid payment into a pension 
+plan); United Steelworkers of Am., AFL-~CIO-CLC v. Rawson, 495 U.S. 
+362 (1990) (preemption of claims that union negligently conducted mine 
+safety inspections in a wrongful death action); Boyle v. United Tech. 
+Corp. , 487 U.S. 500 (1988) (preemption of state law that held government 
+contractors liable for design defects in military equipment under certain 
+circumstances); International Brotherhood of Elec. Workers, AFL-CIO v. 
+Hechler, 481 U.S. 851 (1987) (preemption of state law tort claim that a 
+union breached its duty of care to provide a union member with a safe 
+workplace); Metropolitan Life Ins. Co. v. Taylor, 481 U.S. 58 (1987) 
+(preemption of tort claims arising from -mployer’s insurer’s termination 
+of disability benefits); International Paper Co. v. Ouellette, 479 U.S. 481 
+(1987) (implied preemption of common-law nuisance claims which could 
+interfere with operation of federal enviroamental program); Allis-Chalmers 
+Corp. v. Lueck, 471 U.S. 202 (1985) (preemption of state-law tort claim 
+involving bad-faith handling of an iasurance claim); San Diego Bldg. 
+
+(continued. ..) 
+
+
+Ce — 
+
+
+13 
+
+
+seriously be contended that the common-law tort system has 
+been undermined or that tort suits no longer are an effective 
+means of providing compensation to those wrongfully 
+injured. Rather, the cited cases are simply a reflection of 
+Congress’ decision, in a limited number of instances, to bar 
+tort suits that threaten to interfere ith the accomplishment 
+and execution of the full purposes and objectives of 
+Congress. Similarly, given the Leflar Brief's concession 
+that Congress and NHTSA's purposes and objectives 
+included "a phase-in strategy” for airbag installation (Leflar 
+Br. at 16), there can be no justification for permitting a 
+common-law tort suit that would conflict with that phase-in 
+Strategy. But given the limited nature of Honda's 
+preemption claim, a holding that Petitioners’ tort suit is 
+preempted will not undermine “the traditional tort regime." 
+
+
+*(...continued) 
+Trades Council v. Garmon, 359 U.S. 236 (1959) (preemption of damages 
+claim based on union picketing). Indeed, the RESTATEMENT (THIRD) OF 
+TORTS (1998) recognizes that federal law can preempt tort claims: 
+
+
+[In federal preemption, the court decides as a matter of federal law 
+that the relevant federal statute or regulation reflects, expressly or 
+impliedly , the intent of Congress to displace state law, including state 
+tort law, with the federal statute or regulation. . Judicial 
+deference to federal product safety statutes or regulations occurs . . 
+because, when a federal statute or regulation is preemptive, the 
+Constitution mandates federal supremacy. 
+
+
+RESTATEMENT, § 4 cmt. e (emphasis added). 
+
+
+14 
+
+
+Il. THE CONTENTION THAT PRODUCT SAFETY IS 
+MORE FAIRLY DEALT WITH THROUGH 
+COMMON-LAW ACTIONS THAN THROUGH 
+FEDERAL ADMINISTRATIVE ACTION IS 
+MERITLESS, IN ADDITION TO BEING 
+IRRELEVANT 
+
+
+The Leflar Brief cites several “prudential 
+considerations” in support of its contention that implied 
+preemption of common-law actions be given a “narrow 
+scope.” Leflar Br. 12. Chief among those considerations 
+is the authors' claim that state tort systems are less 
+susceptible to political corruption than are federal admini- 
+strative agencies. They assert: 
+
+
+Federal agencies such as NHTSA suffer from various 
+limitations in carrying out their charges, limitations 
+which the coexistence of the tort system can partially 
+susceptibility to political pressure, as the tortured 
+history of airbag regulation demonstrates all too well. 
+. . . Agencies may issue and then withdraw safety 
+standards depending on the political winds, but if the 
+tort system is in place the steady pressure of potential 
+liability will provide a constant background incentive 
+for the achievement of reasonable safety. 
+
+
+Leflar Br. 12-13. 
+
+
+There is simply no empirical evidence to support the 
+Leflar Brief's contention. Indeed, what evidence there is 
+points in precisely the opposite direction. For example, 
+State courts, where much products liability litigation is 
+brought, are themselves subject to considerable political 
+
+
+15 
+
+
+influences -- primarily because “[pJopular election and 
+retention of state judges have been integral components of 
+the American legal and political systems since the early 
+nineteenth century.” Scott D. Wiener, Note, Popular 
+Justice: State Judicial Elections and Procedural Due 
+Process, 31 Harv. C.R.-C.L. L. Rev. 187 (1996); see also 
+Robert A. Carp and Ronald Stidham, Judicial Process in 
+America, 263-64 (4* ed. 1998). Political pressures on state 
+trial and appellate judges who must run for election or re- 
+election include, but are not limited to, the need to raise 
+Wiener, supra; Carp & Stidham, supra.’ 
+
+
+Another supposed "limitation" of federal administrative 
+actions is their "protracted" nature, which allegedly allows 
+technological progress to “race ahead of the agency's often 
+deliberate pace." Leflar Br. 13. But however dissatisfied 
+the authors of the Leflar Brief may be with the pace of 
+federal administrative agencies, they cannot seriously 
+contend that tort litigation results in safety issues being 
+resolved more quickly. Most state and federal trial court 
+
+
+’ Moreover, numerous commentators would take issue with the 
+Leflar Brief's contention that common-law product liability actions are 
+effective for achieving “reasonable safety." Leflar Br. 13. For example, 
+critics from all ends of the political spectrum agree that, in addressing 
+asbestos-related claims, the tort system has failed to achieve either 
+“reasonable safety” or just compensation for those injured. See Ortiz v. 
+Fibreboard Corp., 119 S. Ct. 2295, 2302 & n.1 (1999) (summarizing 
+“[t}]he most objectionable aspects” of the “elephantine mass of asbestos 
+cases”); Asbestos Litigation Problem, Hearing of the Subcomm. on 
+Administrative Oversight and the Courts of the Senate Committee on the 
+Judiciary, 106 Cong. (1999) (Testimony of Prof. Michael Green [one of 
+petag A nny ah a available at 1999 WL 27595226 (arguing 
+
+that “[ajsbestos compensation through the tort system is broken — 
+seriously, irreparably, and incontrovertibly”). 
+
+
+16 
+
+
+dockets are jammed, resulting in years of delay before a 
+product liability case can be tried.* Partially as a result of 
+long delays, less than 3% of state court product liability 
+cases ever go to jury trial, and less than 1% go to bench 
+trial. Brian Ostrom and Neal Kauder, Examining the Work 
+of State Courts, 1994: A National Perspective from the 
+Court Statistics Project, National Center for State Courts 
+(1996), at 34. Instead, the vast majority are settled or 
+dismissed. Id. Indeed, as this very case shows, whether the 
+product used by a plaintiff was defective can take years to 
+resolve: Ms. Geier was injured more than seven years ago, 
+yet her case has yet to go to trial. 
+
+
+The Leflar Brief also faults federal administrative 
+agencies for their allegedly “limited agency resources and 
+attention spans.” Leflar Br. at 13. The brief alleges that 
+agencies may fail to address “[i}nformation about newly- 
+discovered product risks or more effective safety designs" 
+because the agency has other, “more compelling” priorities. 
+Id. But if NHTSA has not addressed a particular safety 
+concern, the issue of federal preemption never arises; there 
+can be no conflict between state regulation and a federal 
+
+
+* See generally Donovan Leisure Newton & Irvine ADR Practice 
+Book, 605 PLI/Lit 947, 949 (1999) ("Perhaps the most descriptive words 
+for present day civil litigation are ‘glut’ and ‘stagnation’. . . [A] litigant 
+who gets a significant case to trial within three to four years is doing very 
+well; often it takes eight to ten years or more."); John Burritt McArthur, 
+The Strange Case of American Civil Procedure and the Missing Uniform 
+Discovery Time Limits, 24 Hofstra L. Rev. 867 (1996) (“Delay and 
+backlogs are regular features of American Justice.”); Brian Ostrom and 
+Neal Kauder, Examining the Work of State Courts, 1994: A National 
+Perspective from the Court Statistics Project, National Center for State 
+Courts (1996), at 35 (presenting statistics on the length of time from filing 
+to disposition of state court product liability actions). 
+
+
+17 
+
+
+product-safety policy if the federal government has not 
+developed a policy with respect to a specific safety concern. 
+Moreover, the complaint regarding “limited agency 
+resources” is wholly misplaced within the context of this 
+case: NHTSA has devoted more resources to Standard 208 
+than to any other motor vehicle safety standard in its 
+history. 
+
+
+Furthermore, the Leflar Brief provides no support for 
+its assertion that federal agencies are inferior to tort suits in 
+their fact-finding abilities. NHTSA, for example, has 
+resources (including, e¢.g., expertise, experience, 
+information-gathering powers, national perspective, and 
+funding) that dwarf those of any trial jury. NHTSA has 
+performed thousands of crash tests in order to investigate 
+air-bag safety; no jury can begin to replicate the expertise 
+thus acquired. Indeed, the Leflar Brief acknowledges that 
+federal agencies regulate product safety “more expertly" 
+than juries. Jd. at 18. See also Timothy Wilton, 
+Federalism Issues in “No Airbag” Tort Claims: Preemption 
+and Reciprocal Comity, 61 Notre Dame L. Rev. 30 (1986) 
+(“a jury inherently lacks the expertise of NHTSA in 
+evaluating . . . information. . . . Even the best trial cannot 
+present a jury with the range of information available to 
+NHTSA.”). . 
+
+
+In any event, all of these alleged "prudential consider- 
+ations" for limiting the scope of implied federal preemption 
+are largely beside the point. Congress and NHTSA adopted 
+a policy with respect to installation of airbags; given the 
+evidence that common-law tort actions undercut that policy, 
+the actions are impliedly preempted -- regardless whether 
+the Court is inclined to credit any of the prudential 
+arguments raised in the Leflar Brief. Moreover, there is no 
+
+
+18 
+
+
+evidence that Congress itself thought that product safety 
+could be dealt with more fairly through common-law 
+actions; indeed, it is highly unlikely that Congress would 
+deem the federal government institutionally incapable of 
+addressing such issues as fairly as state courts. The relevant 
+inquiry in this case is whether Congress intended to impose 
+limitations on the preemptive scope of its own federal 
+policies. In the absence of such evidence, there is no reason 
+to consider any of the "prudential considerations" raised in 
+the Leflar Brief. 
+
+
+Finally, the authors of the Leflar Brief assert that 
+common law tort actions serve many interests not served by 
+federal regulatory programs -- including compensation of 
+the injured, spreading the risk of loss throughout the entire 
+population, and upholding consumer expectations. Leflar 
+Br. 16-19. They assert that those interests are "worthy of 
+respect in our federal system" and thus should be subject to 
+federal preemption only in the rarest of circumstances. Id. 
+
+
+But to the extent that common-law tort actions undercut 
+federal policy on air-bag installation, preemption is clearly 
+mandated under existing case law, regardless whether the 
+tort actions serve interests distinct from those served by the 
+federal programs they undercut. The Court has stated 
+repeatedly that tort actions that undercut federal policy are 
+no less subject to preemption than "positive" actions under 
+State law -- such as statutes or written regulations issued by 
+a State agency. As the Court explained in Cipollone: 
+
+
+[S]tate regulation can be as effectively asserted through 
+an award of damages as through some other form of 
+preventive relief. The obligation to pay compensation 
+
+
+19 
+
+
+can be, indeed is designed to be, a potent method of 
+governing conduct and controlling policy. 
+
+
+Cipollone, 505 U.S. at 521 (plurality opinion) (citation 
+omitted); accord, id. at 548 (Scalia, J., concurring in the 
+judgment in part and dissenting in part). 
+
+
+A majority of the Court reaffirmed that principle in 
+Medtronic; as Justice Breyer explained, in parsing the 
+preemption language of the Medical Devices Amendments 
+of 1976: 
+
+
+One can reasonably read the word “requirement” as 
+including the legal requirements that grow out of the 
+application, in particular circumstances, of a State's tort 
+law. ... [O]rdinarily, insofar as the MDA pre-empts 
+a State requirement embodied in a state statute, rule, 
+regulation, or other administrative action, it would also 
+pre-empt a similar requirement that takes the form of a 
+standard of care or behavior imposed by a state-law tort 
+action. 
+
+
+Medtronic, 518 U.S. at 504-05 (Breyer, J., concurring in 
+part and concurring in the judgment); accord, id. at 512 
+(O'Connor, J., concurring in part and dissenting in part). 
+
+
+Petitioners argue that a judgment entered in 1999 will 
+not retroactively affect how automobile manufacturers 
+actually responded to Standard 208 in their production of 
+1987 model cars (such as Petitioners’ 1987 Honda Accord). 
+That is an unprincipled view of preemption. Tort law is 
+premised on a state-law duty -- here, alleged to consist of 
+a duty to install airbags in any 1987 vehicles. NHTSA 
+could not have implemented its phase-in policy, which was 
+
+
+20 
+
+
+dependent on achieving a variety of restraint designs, if state 
+law imposed that duty. Had they believed that such a duty 
+existed, manufacturers (contrary to Congress's and 
+NHTSA's policy goal) would have rushed to install airbags 
+in all new cars.” Moreover, the federal government would 
+have a much more difficult time obtaining compliance with 
+future federal policies regarding product safety if the Court 
+were to find against federal preemption in this case. 
+
+
+In sum, as the Court made clear in both Cipollone and 
+Medtronic, states may not avoid the preemptive effect of 
+federal law by regulating through their common law rather 
+than through statutes or administrative regulations. In either 
+circumstance, state regulation is impliedly preempted if it 
+stands as an obstacle to the accomplishment and execution 
+of the full purposes and objectives of Congress -- regardless 
+whether (as Petitioners contend) common-law tort actions 
+deal with product safety issues more fairly than do federal 
+administrative agencies and regardless whether they serve 
+interests not served by federal administrative regulation. 
+
+
+* The authors of the Leflar Brief suggest that manufacturers who 
+followed the federal phase-in policy did so because they had decided to 
+assume “the risk of later paying tort damages." Leflar Br. 7. Given the 
+catastrophic effect that tort damage awards can have on even the largest 
+corporations, it is unrealistic to think that any manufacturer would have 
+assumed such a risk voluntarily unless it had assured itself that adherence 
+to federal policy protected it from common-law tort liability. 
+
+
+21 
+
+
+IV. FEDERAL AGENCIES SHOULD NOT BE 
+REQUIRED TO PREDICT WHAT UNKNOWN 
+FUTURE TORT CLAIMS MIGHT CONFLICT 
+WITH THE STATUTES, REGULATIONS, AND 
+PROGRAMS THEY ADMINISTER 
+
+
+The authors of the Leflar Brief also propose that the 
+scope of implied conflict preemption be constricted in one 
+other significant way. They argue that claims under the 
+second prong of implied conflict preemption (preemption of 
+state law that stands as an obstacle to the accomplishment 
+and execution of the full purposes and objectives of 
+Congress) should be rejected “unless, at the least, the 
+agency has concluded after notice and opportunity to 
+comment that preemption is necessary to advance the 
+regulatory program's goals." Leflar Br. 22."° They assert 
+that such notice-and-comment procedures would ensure that 
+preemption would "be tested by public debate in the political 
+process, rather than imposed on the nation by the federal 
+judiciary." Id. 
+
+
+The argument is without merit. WLF notes initially that 
+the Leflar Brief cites no statutory authority for this notice- 
+and-comment requirement. Nothing in the federal Admini- 
+strative Procedure Act (APA), for example, requires public 
+notice and comment regarding the possible preemptive effect 
+of statutes or regulations on state tort claims. See 5 U.S.C. 
+§ 553. Thus, it is the authors of the Leflar Brief, not 
+
+
+'° They also assert that the Court should entirely abandon this second 
+prong of conflict preemption; they argue (without citing case authority) that 
+implied preemption should be limited to cases in which compliance with 
+
+
+both federal law and state regulation is a physical impossibility (preemption 
+in such cases is referred to by the Leflar Brief as “dictate preemption"). 
+
+
+Leflar Br. 14. 
+
+
+22 
+
+
+Respondents, who are proposing that the federal judiciary 
+create a new procedural rulemaking requirement and impose 
+it on federal agencies. This Court has stated in no uncertain 
+terms that it is not the role of the federal courts, acting on 
+their own, to create rulemaking procedures utilized by 
+federal agencies. See Vermont Yankee Nuclear Power Corp. 
+v. Natural Resources Defense Council, 435 U.S. 519, 543- 
+45 (1978). 
+
+
+Furthermore, the Leflar Brief’s proposal is hopelessly 
+unworkable. Even assuming that a federal agency wanted 
+to undertake the notice-and-comment procedure that the 
+Leflar Brief suggests, the agency could not possibly iden- 
+tify, in advance, every possible type of federally conflicting 
+tort claim that some plaintiff in some case at some point in 
+the future might attempt to assert under the current (or 
+future) law of any of the 50 states. There is little to 
+recommend a procedural rule that would allow common-law 
+tort actions to go forward even when (as Honda has 
+demonstrated here) they stand as an obstacle to the 
+accomplishment and execution of the full purposes and 
+objectives of a federal safety policy, simply because an 
+administrative agency failed to anticipate that such actions 
+might be brought. 
+
+
+Finally, the Leflar Brief's argument overlooks a key 
+aspect of federal preemption: it is Congress and the 
+operation of the Supremacy Clause that determine the pre- 
+emptive scope of federal law. Once NHTSA has established 
+a federal motor vehicle safety standard, it is not NHTSA's 
+role to determine whether to permit states to enforce laws 
+that conflict with that standard. See Medtronic, 518 U.S. at 
+
+
+512 (O'Connor, J. concurring in part and dissenting in 
+
+
+23 
+
+
+part).'’ By authorizing NHTSA to issue nationwide vehicle 
+safety standards, Congress preempted all state laws that 
+conflict with any properly promulgated standards. 
+Accordingly, NHTSA has no authority to conduct notice- 
+and-comment proceedings that would purport to second- 
+
+
+guess the preemptive scope attached by Congress to NHTSA 
+standards. 
+
+
+'' The Safety Act plainly authorized NHTSA to establish its passive 
+restraint system policy by issuing Standard 208, and WLF does not 
+understand Petitioners to contend otherwise. 
+
+
+24 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons and those presented in 
+Respondents’ brief, amicus curiae Washington Legal 
+Foundation respectfully requests that the decision of the 
+court below be affirmed. 
+
+
+Respectfully submitted, 
+
+
+LAWRENCE S. EBNER 
+
+(Counsel of Record) 
+MONICA A. AQUINO 
+MCKENNA & CUNEO, L.L.P. 
+1900 K Street, NW 
+Washington, DC 20006 
+(202) 496-7500 
+
+
+DANIEL J. POPEO 
+
+RICHARD A. SAMP 
+
+WASHINGTON LEGAL FOUNDATION 
+2009 Massachusetts Ave., NW 
+Washington, DC 20036 
+
+(202) 588-0302 
+
+
+(\ 
+
+

@@ -1,0 +1,60 @@
+{
+  "stage": "source preparation only; fresh isolated neutral validation required",
+  "official_url": "https://www.govinfo.gov/content/pkg/FR-1984-07-17/pdf/FR-1984-07-17.pdf",
+  "full_rule_printed_pages": [
+    28962,
+    29010
+  ],
+  "full_issue_pdf_zero_based_pages": [
+    153,
+    201
+  ],
+  "selected_printed_pages": [
+    28962,
+    28963,
+    28996,
+    28997,
+    28998,
+    28999,
+    29000,
+    29001,
+    29002,
+    29003,
+    29004,
+    29009,
+    29010
+  ],
+  "appendix_source": "sources/chunk6-records/geier-06. Petitioners Brief_djvu.txt",
+  "appendix_scan_source": "sources/chunk6-records/geier-06. Petitioners Brief.pdf",
+  "appendix_pdf_zero_based_pages": [
+    33,
+    38
+  ],
+  "extraction": "PyMuPDF get_text() original content order, not sort=True (which interleaves three columns)",
+  "files": {
+    "sources/chunk6-neutral/fmvss208-fr1984-official.pdf": {
+      "bytes": 61554141,
+      "sha256": "46df3f827d37f559d054c843e5b4905888910f780a60603d5be1a16d7249dc22"
+    },
+    "sources/chunk6-neutral/fmvss208-fr1984-rule-only.pdf": {
+      "bytes": 13167789,
+      "sha256": "16fb3b15ddfbf4d813bf88f11d79b4866fd095470772729a5d78742e8c7d64b8"
+    },
+    "sources/chunk6-neutral/fmvss208-fr1984-rule-only.txt": {
+      "bytes": 380263,
+      "sha256": "c7630e6d22700b17dbd4ae509ff46a28147bfc7dfc3926fb1f07d5b95f948f9a"
+    },
+    "sources/chunk6-neutral/geier-regulatory-appendix-scan.pdf": {
+      "bytes": 1760915,
+      "sha256": "7f67d11cf09e2e83f8861dc71657f40a9d171f7ba3fd0058f9775408a3aa27cf"
+    },
+    "preparation/OT_1999CHUNK6_GEIER_1984_RULE_EXACT_PAGES.md": {
+      "bytes": 98011,
+      "sha256": "4a2f6fc68054a30c43b48376b5631f5e1dffd8aafb140c81b5c8f31ffe0c2781"
+    },
+    "preparation/OT_1999CHUNK6_GEIER_1986_APPENDIX_EXACT.md": {
+      "bytes": 16577,
+      "sha256": "fdc4fd29c58578c4ffe23211fdbf0b686ae7b16a3a337272d305f4c1d5c11b73"
+    }
+  }
+}

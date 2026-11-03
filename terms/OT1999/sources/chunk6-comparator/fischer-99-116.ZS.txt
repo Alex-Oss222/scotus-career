@@ -1,0 +1,54 @@
+FISCHER V. UNITED STATES
+
+ 
+
+ 
+
+LII
+
+ 
+
+Supreme Court
+
+ 
+
+FISCHER V. UNITED STATES (99-116) 
+168 F.3d 1273, affirmed.
+Syllabus
+ Opinion
+ [ Kennedy ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+FISCHER v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+ 
+No. 99—116. Argued February 22, 2000–Decided May 15, 2000
+
+Petitioner, while president and part owner of Quality Medical Consultants, Inc. (QMC), negotiated a $1.2 million loan to QMC from West Volusia Hospital Authority (WVHA), a municipal agency responsible for operating two Florida hospitals, both of which participate in the federal Medicare program. In 1993 WHVA received between $10 and $15 million in Medicare funds. After a 1994 audit of WHVA raised questions about the QMC loan, petitioner was indicted for violations of the federal bribery statute, including defrauding an organization which receives benefits under a federal assistance program, 18 U.S.C. § 666(a)(1)(A), and paying a kickback to one of its agents, §666(a)(2). A jury convicted him on all counts, and the District Court sentenced him to imprisonment, imposed a term of supervised release, and ordered the payment of restitution. On appeal petitioner argued that the Government failed to prove WHVA, as the organization affected by his wrongdoing, received “benefits in excess of $10,000 under a Federal program,” as required by §666(b). In rejecting that argument and affirming the convictions, the Eleventh Circuit held that funds received by an organization constitute “benefits” within the §666’s meaning if the source of the funds is a federal program, like Medicare, which provides aid or assistance to participating organizations. 
+
+Held: Health care providers such as the one defrauded by petitioner receive “benefits” within the meaning of §666(b). Pp. 3—14. 
+
+ (a) Medicare’s nature and purposes provide essential instruction in resolving this controversy. Medicare is a federally funded medical insurance program for the elderly and disabled. The Federal Government is the single largest source of funds for hospitals participating in Medicare. Such providers qualify to participate upon satisfying a comprehensive series of statutory and regulatory requirements, including licensing, quality assurance, staffing, and other standards. Compliance with these standards provides the Government with assurance that participating providers possess the capacity to fulfill their statutory obligation of providing “medically necessary” services “of a quality which meets professionally recognized standards of health care.” 42 U.S.C. § 1320c—5(a). Medicare attains its objectives through an elaborate funding structure designed not only to compensate providers for the reasonable cost of the services actually rendered to patients, but also to enhance health care organizations’ capacity to provide ongoing, quality services to the community at large. In the normal course Medicare disbursements occur periodically, often in advance of a provider’s rendering services, in order to protect providers’ liquidity and thereby assist in the ongoing provision of such services. The program, then, establishes correlating and reinforcing incentives: The Government has an interest in making available a high level of quality of care for the elderly and disabled; and providers, because of their financial dependence upon the program, have incentives to achieve program goals. Pp. 3—7.
+
+ (b) Medicare provider payments are “benefits,” as that term is used in its ordinary sense and as it is intended in §666(b). The Court rejects petitioner’s argument that Medicare provides benefits only to the elderly and disabled, not to participating health care organizations. While standard definitions of the term “benefit” and provisions of Medicare support petitioner’s assertion that qualifying patients rank as the program’s primary beneficiaries, the fact that one beneficiary of an assistance program can be identified does not foreclose the existence of others. Section 666(b)’s language specifying that benefits can be in the form of “a grant, contract, subsidy, loan, guarantee, insurance, or other form of Federal assistance,” coupled with §666(a)’s broad substantive prohibitions, reveals Congress’ unambiguous intent to ensure the integrity of organizations participating in federal assistance programs. In removing from the statute’s coverage any “bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in the usual course of business,” §666(c) does not exclude the payments here at issue from the meaning of “benefits” within §666(b). Medicare payments are not simply compensation or reimbursement. The payments, in contrast, assist the hospital in making available and maintaining a certain level and quality of medical care in both its own interests and those of the greater community. The provider itself is the object of substantial Government regulation, and adequate payment and assistance to the provider is itself one of Medicare’s objectives. Accordingly, the health care provider is receiving a benefit in the conventional sense of the term, unlike the case of a contractor whom the Government does not regulate or assist for long-term objectives or for purposes beyond performance of an immediate transaction. Pp. 7—13.
+
+ (c) The Court does not suggest that federal funds disbursed under an assistance program will result in coverage of all recipient fraud under §666(b). Adopting a broad, almost limitless use of the term “benefits” would upset the proper federal balance. The statutory inquiry should examine the conditions under which the federal payments are received. The answer could depend, as it does here, on whether the recipient’s own operations are one of the reasons for maintaining the program. The Government has a legitimate and significant interest in prohibiting financial fraud or bribery being perpetrated upon Medicare providers: Such acts threaten the program’s integrity and raise the risk participating organizations will lack the resources needed to provide the requisite level and quality of care. Pp. 13—14.
+
+168 F.3d 1273, affirmed.
+
+ Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Souter, Ginsburg, and Breyer, JJ., joined. Thomas, J., filed a dissenting opinion, in which Scalia, J., joined.

@@ -1,0 +1,9 @@
+# Playboy source-preparation exposure receipt — operator only
+
+On November 3, 2026, while retrieving the exact district court citation for the assigned narrow source-verification task, web search output unexpectedly included later current-case Supreme Court text, outcome information, and reasoning. No current-case Supreme Court page was opened. This context cannot be represented as blind to those materials. The exposure was reported to root and neutral_later immediately; neither the outcome nor the reasoning was transmitted in those messages.
+
+Root directed the work to continue as source preparation only, with no modeling or recommendations, a draft under preparation rather than freeze, sanitized lower-opinion bodies, and a new unexposed validator before substantive use. This receipt deliberately does not reproduce the exposed later outcome, writings, or reasoning. Do not provide this receipt to the fresh source validator or model contexts.
+
+Authorized work after that direction: retrieve and read the complete December 28, 1998 district opinion at 30 F. Supp. 2d 702; preserve its complete CAP body and an independently hosted CourtListener-derived primary-text block; mechanically copy bounded paragraphs; describe only that lower opinion's findings and limits in a source-preparation draft. A rendered-browser attempt to the precise Justia lower page failed because the browser-access host was unavailable; no plain HTTP Justia fetch was made. The independent wrapper was removed after extraction so its navigation and later-citation material do not enter the source handoff.
+
+Earlier Wood/Gregory verification and its completed supplement predate this exposure and remain separate. No current commitments, Stone material, top-level stone/ paths, Git commands, or completed current-case Records were accessed. All work writes were confined to terms/OT1999/ and root tmp/; Python commands used -B for this assignment.

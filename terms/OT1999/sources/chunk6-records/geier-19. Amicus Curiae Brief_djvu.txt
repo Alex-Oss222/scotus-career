@@ -1,0 +1,1006 @@
+ae. Supreme Court, U.S. 
+FILED 
+
+
+O NOV 19 1999 
+No. 9871611 
+: CLERK 
+In The ’ 
+
+
+Supreme Court of the United States 
+
+
+* 
+
+
+GEIER, ET AL., 
+Petitioners, 
+
+
+AMERICAN HONDA MOTOR COMPANY, ET AL., 
+Respondents. 
+
+
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The District Of Columbia Circuit 
+
+
+> 
+
+
+BRIEF FOR THE BUSINESS ROUNDTABLE AS 
+AMICUS CURIAE IN SUPPORT OF RESPONDENTS 
+
+
+¢ 
+
+
+Davip OverLock STEWART 
+Counsel of Record 
+
+THomas M. SusMAN 
+
+MattTHew J. Marino 
+Ropes & Gray 
+1301 K Street, NW 
+Suite 800 East 
+Washington, DC 20005-3333 
+202-626-3900 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+BAe OP AUTON on nbs we ccctvccvccnccseces ii 
+INTEREST OF AMICUS CURIAE .................. 1 
+SUMMARY OF ARGUMENT...............5000008: 2 
+REE eos Sas bdeeeeienseddca de savant nadenix cet 3 
+
+
+I. The Inconsistently Applied Presumption Against 
+Preemption Of State Law Undermines Congres- 
+sional Intent As The “Touchstone” Of Preemp- 
+EP es Cre eee Pr es eee eee 3 
+
+
+Il. A Presumption Against Preemption Is Not Sup- 
+ported By The Text Or Purpose Of The Suprem- 
+
+
+acy Clause, Or The Constitutional Structure.... 6 
+A. Opening Debates: Protecting the Federal 
+Government From the States .............. 7 
+B. The Framers’ Ambivalence Towards State 
+SOR es Sik ccs cer dn vvaneccevcvesesuese 11 
+C. The Federal Judiciary Must Control State 
+IED i vadévncuaeedeeecnscktccdtece 13 
+
+
+D. The Federal Structure Does Not Support a 
+Presumption Against Preemption of State 
+SANE ce cGb Gs kde y Fi donwdeveccecdasowvececets 16 
+
+
+ii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Allis-Chalmers Corp. v. Lueck, 471 U.S. 202 (1985)...... 4 
+American Airlines v. Wolens, 513 U.S. 219 (1995)....... 5 
+Capital Cities Cable, Inc. v. Crisp, 467 U.S. 691 
+
+TROBE) oc we vcewccscnsccobeebausuneeeceeeieee 5 
+Cipollone v. Liggett Group, 505 U.S. 504 (1992)......... 5 
+FMC Corp. v. Holliday, 498 U.S. 52 (1990)............. 5 
+Farmer v. United Brotherhood of Carpenters & Joiners, 
+
+430 US. ZOD CAE ic eins Keb kanes tddicises lea 4 
+Florida Lime and Avocado Growers, Inc. v. Paul, 373 
+
+US. SHR CODE os cc cted ces beekeawoseelediescbics 5 
+Freightliner Corp. v. Myrick, 514 U.S. 280 (1995)....... 5 
+Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 
+
+SED CRRGE ov 8 va cckivsee<celedeeiesa eee 16 
+Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824)......... 5 
+International Union, United Auto, etc. v. Russell, 356 
+
+US. GO6 CRUG a icvncveccvsccabvcnnseasesdieoe 4 
+Jones v. Rath Packing Co., 430 U.S. 519 (1977)......... 5 
+Linn v. United Plant Guard Workers, 383 U.S. 53 
+
+CIDGGD « ccc cbviewe Wusbes sedulasecasraceeteenlees 4 
+Martin v. Hunter's Lessee, 14 U.S. (1 Wheat.) 304 
+
+CUBES) oo cecrenvesseckccucscneeseuuaneacuae nis 5 
+Medtronic, Inc. v. Lohr, 518 U.S. 470 (1996)............ 3 
+
+
+Morales v. Trans World Airlines, 504 U.S. 374 (1992) ..... 5 
+
+
+iii 
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+Norfolk & Western R. Co. v. American Train Dis- 
+
+patchers Ass'n, 499 U.S. 117 (1991) .........--4.065. 5 
+Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 (1987) ...... 4 
+Retail Clerks v. Schermerhorn, 375 U.S. 96 (1963)....... 3 
+Rice v. Santa Fe Elevator Corp., 331 U.S. 218 
+
+Rit eelbeds chbdenadéuctsececcceicces 3, 4,5 
+Silkwood v. Kerr-McGee Corp., 464 U.S. 238 (1984) ..... 4 
+Ware v. Hylton, 3 U.S. (3 Dall.) 199 (1796)............ 5 
+CONSTITUTION AND STATUTES 
+a 6 
+MISCELLANEOUS 
+Annals of Congress (1791) ........- 66-2. cc eeeeeeee 16 
+Max Farrand, ed., The Records of the Federal Con- 
+
+NE BEA ction db cccdecesvcccccccscceces passim 
+
+
+Oliver Wendell Holmes, Collected Legal Papers ..... 19 
+
+
+James Madison, Notes of Debates in the Federal 
+EE ae 7 
+
+
+Clinton Rossiter, ed., The Federalist.............. 17, 18 
+Joseph Story, Commentaries on the Constitution. .... 18 
+
+
+INTEREST OF AMICUS CURIAE 
+
+The Business Roundtable is an association of chief 
+executive officers of leading corporations with a com- 
+bined workforce of more than 10 million employees in the 
+United States. The chief executives are committed to 
+advocating public policies that foster vigorous economic 
+growth and a dynamic global economy.' The companies 
+represented in The Roundtable engaged in a wide variety 
+of businesses. These businesses are involved in litigation 
+in federal and state courts and administrative agencies 
+across the United States. In many instances, they are 
+subject to inconsistent or even conflicting regulatory 
+requirements of different states. For these businesses, 
+continued economic success requires effective, uniform, 
+and predictable national standards in important areas of 
+law. 
+
+
+This brief supports the respondents, and argues that 
+there should be no presumption against preemption of 
+state law. Such a presumption has not been applied con- 
+sistently by this Court and is contrary to the Framers’ 
+purpose in adopting the Supremacy Clause. By rejecting 
+that presumption, this Court can realize the original 
+intent to give Congress the powers to nurture a vibrant 
+national economy with uniform legal standards. 
+
+
+SJ 
+
+
+! Pursuant to Rule 37, both petitioners and respondents 
+have consented to filing of this brief in letters that are on file in 
+the Clerk’s office. The undersigned counsel alone have authored 
+this brief, and no other person has made a monetary 
+contribution to its preparation. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This Court’s analysis of preemption under the 
+Supremacy Clause has sometimes included a presump- 
+tion against the preemption of state laws, and sometimes 
+not. When articulated, that presumption customarily has 
+not been accompanied by any explanation of its constitu- 
+tional foundation. Petitioners rely heavily on that pre- 
+sumption in this case, yet similarly provide no reasoned 
+basis for presuming that state law is not preempted. See, 
+e.g., Brief for Petitioners at 17. This inconsistently applied 
+presumption should be reconsidered and abandoned. 
+
+
+First, a presumption against federal preemption flatly 
+contradicts this Court's correct insistence that congres- 
+sional intent is the “touchstone” of preemption analysis. 
+A presumption against preemption necessarily defeats 
+that touchstone. Since congressional intent should control 
+preemption analysis, this Court should construe congres- 
+sional enactments without placing any thumbs on the 
+interpretative scales. 
+
+
+Second, nothing in the text of the Supremacy Clause, 
+or the deliberations of the Framers, or the federal struc- 
+ture of the Constitution, supports the judicial creation of 
+a presumption against preemption of state laws. Because 
+of their sharp distrust of state governments and state 
+courts, the Framers directed through the Supremacy 
+Clause that the federal government shall not be crippled 
+by state encroachments on its power, as occurred during 
+the Confederation years. The Framers’ commitment to 
+restraining state powers militates strongly against any 
+presumption in favor of state laws. This Court should not 
+create limits on federal powers that were neither written 
+
+
+into the Constitution nor contemplated by the Framers. 
+As it has in many cases over the years, this Court should 
+analyze the preemption of state law as a straightforward 
+question of statutory interpretation, without any pre- 
+sumption in favor of, or against, state law. 
+
+
+° 
+
+
+ARGUMENT 
+
+
+I. The Inconsistently Applied Presumption Against 
+Preemption Of State Law Undermines Congres- 
+sional Intent As The “Touchstone” Of Preemption 
+Analysis 
+
+
+Under the Supremacy Clause, “the purpose of Con- 
+gress is the ultimate touchstone” in determining whether 
+state law has been preempted. Medtronic, Inc. v. Lohr, 518 
+U.S. 470, 485 (1996), quoting Retail Clerks v. Schermerhorn, 
+375 U.S. 96, 103 (1963). Despite that statement, Medtronic 
+embraced a broad presumption against preemption (518 
+U.S. at 485): 
+
+
+in all preemption cases, and particularly those 
+in which Congress has legislated . . . in a field 
+which the states have traditionally occupied, we 
+start with the assumption that the historic police 
+powers of the States were not to be superseded 
+by the Federal Act unless that was the clear and 
+manifest purpose of Congress. (quoting Rice v. 
+Santa Fe Elevator Corp., 331 U.S. 218, 230 (1947) 
+(internal quotation marks omitted)). 
+
+
+Petitioners and their supporting amici rely heavily on this 
+presumption. See, e.g., Brief for Petitioners at 17, 50; Brief 
+of Association of Trial Lawyers of America at 9-10; Brief 
+of States of Missouri, et al. at 9-10. 
+
+
+This Court has not directly confronted the inherent 
+contradiction between those two pronouncements. Since 
+the purpose of Congress is truly the “touchstone” of 
+preemption analysis, a presumption against preemption 
+can only lead the Court away from that touchstone, sub- 
+stituting instead a bias in favor of preserving state law. 
+
+
+In addition, this Court has not applied that presump- 
+tion consistently. In a variety of decisions involving the 
+preemption of state common law, the Court has made no 
+mention of any such presumption. 
+
+
+For example, Silkwood v. Kerr-McGee Corp., 464 U.S. 
+238, 255 (1984), found that a state common law claim was 
+not preempted, and used no language suggesting a pre- 
+sumption against preemption. See also Pilot Life Ins. Co. v. 
+Dedeaux, 481 U.S. 41, 57 (1987) (holding state common law 
+claims preempted by ERISA without mention of pre- 
+sumption against preemption). Many decisions under the 
+National Labor Relations Act also have addressed the 
+preemption of state law claims without employing a pre- 
+sumption against preemption. E.g., Allis-Chalmers Corp. v. 
+Lueck, 471 U.S. 202 (1985) (bad faith handling of insurance 
+claim); Farmer v. United Brotherhood of Carpenters & Joiners, 
+430 U.S. 290 (1977) (intentional infliction of emotional 
+distress claim); Linn v. United Plant Guard Workers, 383 
+U.S. 53 (1966) (libel claim); International Union, United 
+Auto, etc. v. Russell, 356 U.S. 634 (1958) (wrongful interfer- 
+ence with occupation claim). 
+
+
+The leading case proclaiming a presumption against 
+preemption, Rice v. Santa Fe Elevator Corp., 331 U.S. 218, 
+230 (1947), announced the “assumption” that the state’s 
+police powers are not superseded by federal law unless 
+
+
+that is the “clear and manifest purpose of Congress.” 
+Although Rice found that the state warehouse regulations 
+at issue were partially preempted, it has been cited 
+almost formulaically in support of a presumption against 
+preemption. E.g., Cipollone v. Liggett Group, 505 U.S. 504, 
+516 (1992); Jones v. Rath Packing Co., 430 U.S. 519, 525 
+(1977); Florida Lime and Avocado Growers, Inc. v. Paul, 373 
+U.S. 132, 142 (1963). Neither those rulings, nor Rice, pro- 
+vide a reasoned analysis of the constitutional basis for 
+that presumption. 
+
+
+Moreover, in the fifty years since Rice the Court has 
+issued a wide range of preemption decisions that never 
+refer to a presumption against preemption of state stat- 
+utes and regulations, resolving the preemption question 
+before the Court through ordinary statutory construction. 
+E.g., Freightliner Corp. v. Myrick, 514 U.S. 280 (1995); Amer- 
+ican Airlines v. Wolens, 513 U.S. 219 (1995); Morales v. Trans 
+World Airlines, 504 U.S. 374 (1992); Norfolk & Western R. 
+Co. v. American Train Dispatchers Ass'n, 499 U.S. 117 
+(1991); FMC Corp. v. Holliday, 498 U.S. 52 (1990); Capital 
+Cities Cable, Inc. v. Crisp, 467 U.S. 691 (1984). In fact, this 
+Court’s early preemption rulings never referred to any 
+presumption that state law is not preempted by federal 
+laws. E.g., Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1, 210 
+(1824); Martin v. Hunter's Lessee, 14 U.S. (1 Wheat.) 304, 
+343-44 (1816); Ware v. Hylton, 3 U.S. (3 Dall.) 199 (1796). 
+
+
+A presumption of such uncertain provenance. and 
+such inconsistent application should be reexamined and 
+abandoned by this Court. There is no constitutional basis 
+for it. 
+
+
+Il. A Presumption Against Preemption Is Not Sup- 
+ported By The Text Or Purpose Of The Supremacy 
+Clause, Or The Constitutional Structure 
+
+
+The Supremacy Clause proclaims the preemption of 
+state laws that conflict with federal law (U.S. Const., Art 
+VI, cl. 2): 
+
+
+This Constitution, and the Laws and Treaties of 
+the United States which shall be made in pur- 
+suance thereof; and all treaties made, or which 
+shall be made, under the Authority of the 
+United States, shall be the supreme Law of the 
+Land; and the Judges in every State shall be 
+bound thereby, any Thing in the Constitution or 
+Laws of any State to the Contrary notwithstand- 
+
+
+ing. 
+
+
+The text is clear: Federal law is supreme and state court 
+juc ces are specifically instructed to respect that suprem- 
+acy, no matter what state law may provide. 
+
+
+The proper federal-state relationship was at the cen- 
+ter of many of the constitutional debates in 1787. The 
+delegates to the Philadelphia Convention deliberated at 
+length over how to construct a strong national govern- 
+ment while leaving proper scope to the states. The consti- 
+tutional debates reinforce three key principles about 
+preemption that are embodied in the Supremacy Clause. 
+
+
+First, the federal government must be 
+guarded from state encroachments on its author- 
+
+
+ity. 
+Second, the Framers were skeptical of claims 
+
+
+of state sovereignty and harbored a particular 
+distrust of the state courts. 
+
+
+7 
+
+
+Third, the Framers accorded to the federal 
+judiciary the principal responsibility of balanc- 
+ing federal and state authority. 
+
+
+Each of these principles is opposed to a presumption 
+against preemption. Moreover, the federal structure does 
+not, by itself, justify such a presumption. Because the 
+Supremacy Clause assigns to this Court a special duty to 
+protect the national government from state encroach- 
+ment, that presumption has no place in preemption cases. 
+
+
+A. Opening Debates: Protecting the Federal Gov- 
+ernment From the States 
+
+
+The Philadelphia Convention was prompted by con- 
+cern over the weakness of the central government under 
+the Articles of Confederation, and the excessive powers 
+of the states. See Madison, Notes of Debates in the Fed- 
+eral Convention of 1787 14 (convention triggered by “the 
+imbecility and anticipated dissolution of the Confeder- 
+acy”). The question of federal supremacy was at the 
+center of the opening proposal by Edmund Randolph 
+known as the “Virginia Plan.” In presenting this proposal 
+on May 29, 1787, Randolph enumerated the defects of the 
+Articles of Confederation (Madison at 29-30 (emphasis 
+added)): 
+
+
+1. that the confederation produced no security 
+
+
+against foreign invasion . . . [and] particular 
+states might by their conduct provoke war without 
+controul .. . 
+
+
+2. that the federal government could not check the 
+quarrels between states, nor a rebellion in any... 
+
+
+4. that the federal government could not defend 
+itself against the incroachments from the states. 
+
+
+5. that it [the confederation] was not even para- 
+mount to the state constitutions, ratified, as it was 
+in many of the states. 
+
+
+Randolph's fourth point reflected the Framers’ over- 
+riding concern that the new federal government must be 
+protected from state encroachments on its power and 
+authority. George Mason of Virginia echoed Randolph's 
+views the next day, taking Randolph’s point one step 
+further. Mason “observed that the present confederation 
+was not only deficient in not providing for coercion & 
+punishment agst. delinquent States; but argued very 
+cogently that punishment could not in the nature of 
+things be executed on the states collectively, and there- 
+fore that such a Govt. was necessary as could directly 
+operate on individuals[.]” 1 Farrand, The Records of the 
+Federal Convention of 1787 34. 
+
+
+The need for a federal judiciary to control state 
+encroachments also emerged early in the deliberations. 
+On June 5, John Rutledge of South Carolina moved to 
+deny Congress the power to establish inferior federal 
+courts. Madison sprang to the defense of federal courts 
+and scorned the state courts (1 Farrand at 124 (emphasis 
+added)): 
+
+
+unless inferior [federal] tribunals were dis- 
+persed throughout the Republic with final juris- 
+diction in many cases, appeals would be 
+multiplied to a most oppressive degree; that 
+besides, an appeal would not in many cases be a 
+
+
+9 
+
+
+remedy. What was to be done after improper Ver- 
+dicts in State tribunals obtained from the biassed 
+directions of a dependent Judge, or the local preju- 
+dices of an undirected jury? To remand the cause 
+for a new trial would answer no purpose . . . [.] 
+
+
+Influential delegates shared Madison's concern that the 
+states would cripple federal authority. On June 6, James 
+Wilson rose (1 Farrand at 137): 
+
+
+[Wilson] saw no incompatibility between the 
+national & State Govts. provided the latter were 
+restrained to certain local purposes; nor any 
+probability of their being devoured by the for- 
+mer. In all confederated systems antient & mod- 
+ern the reverse had happened; the Generality 
+being destroyed gradually by the usurpations of 
+the parts composing it. 
+
+
+Wilson returned to this theme the next day, asserting that 
+“he did not see the danger of the States being devoured 
+by the Nationl. Govt.; [O]n the contrary, he wished to 
+keep them from devouring the national Govt.” 1 Farrand 
+at 153. 
+
+
+The need to reinforce the federal government against 
+state encroachments led Charles Pinckney of South Caro- 
+lina to move, on June 8, for a congressional veto over 
+state laws. Pinckney argued (1 Farrand at 164): 
+
+
+the States must be kept in due subordination to 
+the nation; that if the States were left to act of 
+themselves in any case, it wd. be impossible to 
+defend the national prerogatives, however 
+extensive they might be on paper; that the 
+acts of Congress had been defeated by this 
+means... [.] 
+
+
+10 
+
+
+Madison quickly supported the motion, echoing the 
+themes Wilson had articulated (1 Farrand at 164-165): 
+
+
+Experience had evinced a constant tendency in 
+the States to encroach on the federal authority; 
+to violate national Treaties, to infringe the rights 
+& interests of each other; to oppress the weaker 
+party within their respective jurisdictions. . . . 
+This prerogative of the General Govt. is the 
+great pervading principle that must controul the 
+centrifugal tendency of the States; which, with- 
+out it, will continually fly out of their proper 
+orbits and destroy the order & harmony of the 
+political system. 
+
+
+See also id. at 167 (John Dickinson of Delaware) (same). 
+
+
+Wilson used a colorful image to support Pinckney’s 
+proposal. He argued that after an initial show of coopera- 
+tion among the states under the Articles of Confederation 
+(id. at 166): 
+
+
+No sooner were the State Govts. formed than 
+their jealousy & ambition began to display 
+themselves. Each endeavoured to cut a slice 
+from the common loaf, to add to its own morsel, 
+till at length the confederation became frittered 
+down to the impotent condition in which it now 
+stands. 
+
+
+The congressional veto was not adopted at that time, 
+see 1 Farrand at 171-73, but surfaced again on June 13 as 
+Article 6 of the report of the Committee of the Whole on 
+the Virginia Plan. Article 6 stated that “the Natl. Legisla- 
+ture ought to be empowered to . . . negative all laws 
+passed by the several States contravening in the opinion 
+of the National Legislature the articles of Union, or any 
+
+
+_* 
+
+
+11 
+
+
+treaties subsisting under the authority of the Union.” 1 
+Farrand at 236. 
+
+
+A competing framework for the new government was 
+unveiled on June 15, when William Paterson presented 
+the New Jersey Plan, which was designed to protect state 
+powers and did not provide for lower federal courts. 1 
+Farrand at 242-245. Madison vehemently opposed the 
+New Jersey Plan as unwisely undermining federal 
+powers (1 Farrand at 316-322): 
+
+
+2. Will it prevent encroachments on the federal 
+authority? A tendency to such encroachments 
+has been sufficiently exemplified among our- 
+selves, as well as in every other confederated 
+republic antient and Modern... . 
+
+
+3. Will it prevent trespasses of the States on 
+each other? Of these enough has been already 
+seen. . . . The plan of Mr. Paterson, not giving 
+even a negative on the Acts of the States, left 
+them as much at liberty as ever to execute their 
+unrighteous projects agst. each other. 
+
+
+B. The Framers’ Ambivalence Towards State Sov- 
+ereignty 
+
+After the New Jersey Plan was quickly set aside, see 1 
+Farrand at 322, the delegates returned to the question of 
+state sovereignty, with Alexander Hamilton urging the 
+outright abolition of the states. Jd. at 323. Others offered 
+more tempered views. Rufus King of Massachusetts 
+argued that once a national consolidation occurred, the 
+states would not be sovereign: 
+
+
+12 
+
+
+[I]f the Union of the States comprises the idea of 
+a confederation, it comprises that also of consol- 
+idation. A Union of the States is a union of the 
+men composing them, from whence a national 
+character results to the whole. . . . If the States 
+therefore retained some portion of their sover- 
+eignty, they had certainly divested themselves 
+of essential portions of it. 
+
+
+Id. at 323-324 (emphasis in original). King “doubted much 
+the practicability of annihilating the States; but thought 
+that much of their power ought to be taken from them.” 
+Id. at 324; see id. at 467 (E. Gerry of Massachusetts) (“we 
+never were independent states, were not such now, & 
+never could be even on the principles of the Confedera- 
+tion”). 
+
+
+The delegates then debated the role of the states in 
+selecting the national legislature. As described by Wil- 
+liam Johnson of Connecticut on June 21, the Wilson/ 
+Madison position was “to leave the States in possession 
+of a considerable, tho’ a subordinate jurisdiction.” Id. at 
+355. He asked how that should be achieved in determin- 
+ing representation in the national legislature. In respond- 
+ing, Wilson emphasized that he “conceived that in spite 
+of every precaution the General Govt. would be in per- 
+petual danger of encroachments from the State Govts.” Id. 
+at 356. 
+
+
+Madison also emphasized to Johnson the need to 
+protect the federal government. He agreed with Wilson 
+that “there was 1. less danger of encroachment from the 
+Genl. Govt. than from the State Govts. 2. that the mischief 
+from encroachments would be less fatal if made by the 
+former, than if made by the latter.” Id. Madison stressed 
+
+
+- —— 
+
+
+13 
+
+
+that the “great objection” against abolishing the states 
+“was that the Gen’! Gov't could not extend its care to all 
+the minute objects which fell under the cognizance of the 
+local jurisdiction.” The risk, then, was not “abuse” by the 
+national government, but “imperfect use that could be 
+made of [its power] throughout so great an extent of 
+country.” Id. at 357. In short, under the new Constitution 
+the state governments would be a convenience, not com- 
+
+
+peting sovereigns. 
+
+
+C. The Federal Judiciary Must Control State 
+Encroachments 
+
+
+On July 17, the delegates returned to the proposed 
+congressional veto of state legislation. Roger Sherman of 
+Connecticut proposed a compromise, observing that “it 
+would be difficult to draw the line between the powers of 
+the Gen’l Legislatures and those to be left with the 
+States.” Sherman proposed (2 Farrand at 25): 
+
+
+to make laws binding on the people of the 
+United States in all cases which may concern the 
+common interests of the Union; but not to inter- 
+fere with the Government of the individual 
+States in any matters of internal police which 
+respect the Govt. of such States only, and 
+wherein the General welfare of the U. States is 
+not concerned. 
+
+
+Like Madison and Wilson, Sherman thus suggested two 
+distinct areas of government action: any federal law 
+addressing “the common interests of the Union” would 
+be supreme; matters of “internal police” would be left to 
+the states so long as no national interest was implicated. 
+
+
+14 
+
+
+This critical debate ultimately was resolved along the 
+lines proposed by Sherman and Gouverneur Morris of 
+Pennsylvania. Morris argued forcefully that the congres- 
+sional veto was “likely to be terrible to the States and not 
+necessary, if sufficient legislative authority should be 
+given to the Gen’l Government.” 2 Farrand at 27. Morris 
+endorsed the solution put forth by Sherman as a less 
+offensive means of ensuring the supremacy of federal law 
+(Id. at 28 (emphasis added)): 
+
+
+“[Morris] was more & more opposed to the neg- 
+ative. The proposal of it would disgust all the 
+States. A [state] law that ought to be negatived will 
+be set aside in the Judiciary departmt. and if that 
+security should fail; may be repealed by a Nation. 
+law. 
+
+
+This resolution included the central features of mod- 
+ern preemption doctrine. The federal judiciary had the 
+duty to set aside state laws encroaching on federal 
+powers. If the federal Courts failed in that duty, Congress 
+could enact unquestionably preemptive legislation. Fol- 
+lowing this synthesis of the supremacy issue, the dele- 
+gates rejected the congressional veto. 2 Farrand at 28. 
+
+
+Immediately after this vote, the Convention unani- 
+mously approved a new proposed resolution, which was 
+the first version of the Supremacy Clause (2 Farrarid at 
+22): 
+
+
+Resolved that the legislative acts of the United 
+States made by virtue and in pursuance of the 
+articles of Union and all Treaties made and rat- 
+ified under the authority of the United States 
+shall be the supreme law of the respective States 
+as far as those acts or Treaties shall relate to the 
+
+
+a 
+
+
+15 
+
+
+said States, or their Citizens and Inhabitants - 
+and that the Judiciaries of the several States 
+shall be bound thereby in their decisions, any 
+thing in the respective laws of the individual 
+States to the contrary notwithstanding. 
+
+
+This resolution embodied the views of Madison, Wilson, 
+Sherman, and Morris that federal law must be both 
+supreme and enforced by the federal judiciary. Id. This 
+provision also specifically expressed the delegates’ dis- 
+trust of state authority and especially state courts. 
+
+
+The next version of the Supremacy Clause emerged 
+from the Committee of Detail on August 6, as Article VIII 
+of the draft charter (2 Farrand at 183): 
+
+
+The Acts of the Legislature of the United States 
+made in pursuance of this Constitution, and all 
+treaties made under the authority of the United 
+States shall be the supreme law of the several 
+States, and of their citizens and inhabitants; and 
+the judges in the several States shall be bound 
+thereby in their decisions; anything in the Con- 
+stitutions or laws of the several States to the 
+contrary notwithstanding. 
+
+
+As with the first draft, the principles contained in this 
+provision were unanimously approved by the delegates. 
+Article VIII drew little comment during the vigorous 
+debate on the report of the Committee of Detail. See 2 
+Farrand at 380-395 (debating other provisions, but not 
+Article VIII). 
+
+
+The final Committee of Style reported to the Conven- 
+tion on September 12. The Supremacy Clause now 
+appeared as Article VI, and was little changed (2 Farrand 
+at 603): 
+
+
+16 
+
+
+This constitution, and the laws of the United 
+States which shall be made in pursuance 
+thereof; and all treaties made, or which shall be 
+made, under the authority of the United States, 
+shall be the supreme law of the land; and the 
+judges in every state shall be bound thereby, any 
+thing in the constitution or laws of any state to 
+the contrary notwithstanding. 
+
+
+The final text thus continued to express the Framers’ 
+distrust of the states, especially state courts. The third 
+clause specifically commands that “the judges in every 
+state shall be bound” by the Supremacy Clause. 
+
+
+In a debate later that same day on the power of states 
+to lay duties on trade, Madison repeated Gouverneur 
+Morris’ view that the federal judiciary must control the 
+power of the states: “The jurisdiction of the supreme 
+Court must be the source of redress. So far only had 
+provision been made by the plan agst. injurious acts of 
+the States.” 2 Farrand at 589. That special responsibility 
+resides in this Court still. 
+
+
+D. The Federal Structure Does Not Support a Pre- 
+sumption Against Preemption of State Law 
+
+
+The presumption in favor of state law cannot be 
+justified as somehow supporting the structure of federal- 
+state powers established by the Constitution. In the First 
+Congress, Madison explained that as long as Congress 
+exercised a delegated power under the Constitution, that 
+power stands supreme (2 Annals of Cong. 1897 (1791) 
+(quoted in Garcia v. San Antonio Metro. Transit Auth., 469 
+U.S. 528, 549 (1985))): 
+
+
+17 
+
+
+Interference with the power of the States was no 
+constitutional criterion of the power of Con- 
+gress. If the power was not given, Congress 
+could not exercise it; if given, they might exer- 
+cise it, although it should interfere with the 
+laws, or even the Constitution of the States.* 
+
+
+During the ratification debates, Madison and Ham- 
+ilton each stressed that the constitutional structure 
+ensures federal supremacy, not any presumption in favor 
+of state law. In Federalist No. 34, Hamilton argued that in 
+any consolidation of states, the incorporated units neces- 
+sarily surrender sovereignty (C. Rossiter ed. 172): 
+
+
+If individuals enter into a state of society, the 
+laws of that society must be the supreme regula- 
+tor of their conduct. If a number of political 
+societies enter into a larger political society, the 
+laws which the latter may enact, pursuant to the 
+powers intrusted to it by its constitution, must 
+necessarily be supreme over those societies and 
+the individuals of whom they are composed. It 
+would otherwise be a mere treaty, dependent on 
+the good faith of the parties, and not a govern- 
+ment, which is only another word for POLITI- 
+CAL POWER AND SUPREMACY. 
+
+
+2 Consistent with this reasoning, the adoption of the Tenth 
+Amendment in 1791 in no way modified the Supremacy Clause 
+or the role of this Court in enforcing it. The Tenth Amendment 
+confirms that Congress has limited powers, and non-delegated 
+powers remain with the states and the people. The Supremacy 
+Clause, on the other hand, operates when Congress has acted 
+
+
+pursuant to its delegated powers. 
+
+
+18 
+
+
+See also J. Story, Commentaries on the Constitution 684 
+(employing Hamilton’s language and making similar 
+arguments). 
+
+
+Madison, in No. 44, also insisted the Supremacy 
+Clause protected the federal-state structure. He pointed 
+out that some state constitutions “invest the State legisla- 
+tures with absolute sovereignty in all cases not excepted 
+by the existing Articles of Confederation.” The Federalist 
+No. 44, C. Rossiter ed. 254. Without the Supremacy 
+Clause, Madison observed, the Constitution would have 
+been “radically defective” (id. at 255): 
+
+
+19 
+
+
+CONCLUSION 
+
+
+Justice Holmes wrote (O.W. Holmes, Collected Legal 
+Papers, 291, 295-296): 
+
+
+I do not think the United States would come to 
+an end if we lost our power to declare an act of 
+Congress void. I do think the Union would be 
+imperiled if we could not make that declaration 
+as to the laws of the several States. For one in 
+my place sees how often a local policy prevails 
+with those who are not trained to national views 
+and how often action is taken that embodies 
+what the Commerce Clause was meant to end. 
+
+
+In fine, the world would have seen, for the 
+first time, a system of government founded on 
+an inversion of the fundamental principles of all 
+government; it would have seen the authority of 
+the whole society everywhere subordinate to its 
+parts; it would have seen a monster, in which 
+the head was under the direction of the mem- 
+
+
+That concern guided the Framers in crafting the 
+Supremacy Clause, and guides this Court in its enforce- 
+ment. The presumption against preemption of state law, 
+which has intermittently been recited in this Court's pre- 
+emption decisions without careful analysis, should be 
+abandoned as contrary to that fundamental national prin- 
+ciple. 
+
+
+bers. 
+
+
+The paramount purpose of the Supremacy Clause 
+was to establish and preserve federal prerogatives. State 
+governments, acting on local matters, warranted due 
+respect. But the Framers intended to protect the federal 
+“common loaf” from being sliced up by the states, each 
+intent on its own “morsel.” A presumption against pre- 
+emption of state law tilts the Court's analysis of preemp- 
+tion and thwarts the Framers’ intent that the Court apply 
+federal law without bias in favor of, or against, state 
+authority. 
+
+
+Respectfully submitted, 
+
+
+Davip Overtock STEWART 
+Counsel of Record 
+
+THomas M. SusMAN 
+
+MartHew J. Marino 
+Ropes & Gray 
+1301 K Street, NW 
+Suite 800 East 
+Washington, DC 20005-3333 
+202-626-3900 
+
+
+November 19, 1999 
+
+

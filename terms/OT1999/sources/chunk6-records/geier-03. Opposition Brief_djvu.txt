@@ -1,0 +1,1955 @@
+No. 98-1811 
+
+
+In The 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 1998 
+
+
+ALEXIS GEIER, et al., 
+Petitioners, 
+Vv. 
+
+
+AMERICAN HONDA MOTOR CO., INC., et al., 
+Respondents. 
+
+
+On Petition for a Writ of Certiorari To The United States 
+Court of Appeals For the District of Columbia Circuit 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+TO PETITION FOR WRIT OF CERTIORARI 
+
+
+Benjamin S. Boyd 
+
+(Counsel of Record) 
+
+PIPER & MARBURY, L.L.P. 
+1200 Nineteenth Street, N.W. 
+Washington, DC 20036 
+
+(202) 861-3900 
+
+
+Eric A. Portuguese 
+
+Lester Schwab Katz & Dwyer 
+120 Broadway 
+
+New York, NY 10271 
+
+(212) 964-6611 
+
+
+Attorneys for Respondents 
+
+
+% 
+
+
+QUESTION PRESENTED 
+
+
+Whether this Court should review a decision of the 
+United States Court of Appeals for the District of Columbia 
+Circuit which concluded that petitioners’ tort claim, that 
+respondents’ 1987-model automobile was defectively 
+designed because it was not equipped with an airbag, was 
+impliedly preempted by the National Traffic and Motor 
+Vehicle Safety Act of 1966. 
+
+
+ii 
+RULE 29.6 STATEMENT 
+American Honda Motor Co., Inc. 
+
+
+Calhac, Inc. 
+American Honda Finance Corp. 
+American Honda Insurance Services, Inc. 
+American Honda Receivables Corp. 
+American Honda Service Contract Corporation 
+Honda Canada Finance, Inc. 
+Honda of America Mfg., Inc. 
+Benton Water Supply, Inc. 
+Honda of America Foundation 
+Honda De Mexico S.A. De C.V. 
+Honda Power Equipment Mfg., Inc. 
+Honda Performance Development, Inc. 
+Honda Transmission Mfg. of America, Inc. 
+Honda South Carolina Mfg., Inc. 
+
+
+Honda Motor Co., Ltd. 
+
+
+Japan 
+Honda R&D Co., Ltd. 
+Honda Engineering Co., Ltd. 
+
+
+Hadsky, Inc. 
+Yutaka Giken Co., Ltd. 
+
+
+Honda Foundry Co., Ltd. 
+Asamagiken Co., Ltd. 
+Honda Lock Mfg., Co., Ltd. 
+Honda Access Sales Corp. 
+Honda Motor Parts Service Co., Ltd. 
+Honda Access Corp. 
+
+Honda Parts Sales Co., Ltd. 
+Honda Finance Co., Ltd. 
+Suzuka Circuitland Co., Ltd. 
+Honda Trading Corporation 
+Honda Leasing Corporation 
+
+
+Honda Sogo Tatempno Corp., Ltd. 
+Honda Verno Shin Tokyo Co., Ltd. 
+
+
+Twin Ring Motegi Co., Ltd. 
+North America 
+
+
+American Honda Motor Co., Inc. 
+Honda North America, Inc. 
+Honda of America Mfg., Inc. 
+American Honda Finance Corp. 
+Honda R&D North America, Inc. 
+Honda Canada Inc. 
+
+
+Honda Austria G.m.b.H. 
+
+Honda Europe N.V. 
+
+Honda Belgium N.V. 
+
+Honda Motor Europe Limited 
+Honda France S.A. 
+
+Honda Deutschland G.m.b.H. 
+Honda Nederland B.V. 
+
+Honda International Finance B.V. 
+Honda Italia Industriale-S.p.A. 
+Honda Automobili Italia S.p.A. 
+Honda Automovel de Portugal S.A. 
+Honda Motor de Portugal, S.A. 
+Honda Automoviles Espana, S.A. 
+Montesa Honda S.A. 
+
+Honda (Suisse) S.A. 
+
+Svenko Honda Bil Import A.B. 
+
+
+Rest of the World 
+
+
+P.T. Honda Prospect Engine Manufacturing 
+P.T. Honda Federal Inc. 
+
+
+Asian Honda Motor Co.., Ltd. 
+Thai Honda Manufacturing Co., Ltd. 
+
+
+IV Vv 
+
+
+Honda Motor do Brasil Ltda. 
+Honda de Mexico, S.A. de C.V. TABLE OF CONTENTS 
+Honda Australia Pty., Ltd. 
+Honda New Zealand Limited Page 
+Honda-Mindong Generator Co., Ltd. 
+Honda S. (a) Cars India Ltd. QUESTIONS PRESENTED ...0..........:0000000ccccccceccscseesss00- i 
+Kinetic Honda Motor Ltd. 
+P.T. Honda Prospect Engine Manufacturing 8 een ii 
+Honda Auto Parts Mfg. (M) Sdn. Bhd. 
+Honda Atlas Cars (Pakistan) Ltd. ee cirri benitveinercrectccdecesovascaceeeee Vv 
+Honda Philippines Inc. 
+Honda Engine Mfg. Philippines Inc TABLE OF AUTHORITIES .........ccccccccecccceecccecceececeeneess Vii 
+Honda Parts Manufacturing Corp. 
+Honda Cars Manufacturing (Thailand) Co., Ltd. RESPONDENT'S BRIEF IN OPPOSITION ................. l 
+Thai Honda Manufacturing Co., Ltd. 
+Honda Vietnam Co., Ltd. STATEMENT OF THE CASE................0..csccccccceoceeesse---- 2 
+Honda Gulf Pze. 
+Honda Anadolu Motorsiklet Uretim Ve Pazarlama A. Factual and Procedural Background ................... 2 
+smectite Sin henna B The Safety Act and FMVSS 208................000000. 5 
+Honda Del Peru S.A. REASONS FOR DENYING THE PETITION............... 13 
+Honda of American Mfg., Inc. A. The District of Columbia Circuit’s Ruling 
+is Consistent With the Decisions of Other 
+Benton Water Supply, Inc. Federal Circuit Courts .............cccccceccvseseeeeeeesveee- 13 
+Honda of America Foundation 
+Honda De Mexico S.A. De C.V. B. Nothing New Has Occurred Since this 
+Court’s Denial of Certiorari Last Year................ 16 
+
+
+od Review is Not Warranted Where the Entire 
+FMVSS Preemption Issue is Not Before This 
+
+
+D. Due to the Change in Federal Law Mandating 
+Airbags, the Issue of FMVSS 208 Preemption 
+
+
+vi vii 
+
+
+Page TABLE OF AUTHORITIES . 
+E. The District of Columbia Circuit Correctly 
+Applied Controlling Supreme Court Cases Page Nos. 
+EEE 19 
+American Tel. and Tel. Co. v. Central Office 
+F. A Common Law Rule Requiring Airbags in Tel. Inc., 524 U.S. 214 (1998)..........ccecssesvserssrsseees 23, 28 
+1987 Vehicles Would Destroy the Options and 
+Flexibility at the Heart of FMVSS 208................ 22 Baird v. General Motors Corp., 654 F.Supp. 28 
+Es CD BR Micbeahibdictnectcnshbachesttlissihantesnlinccse 15 
+G. Section 1397(k) of the Act Safety Does Not 
+Preserve Preempted State Claims........................ 24 Barnett Bank of Marion County v. Nelson, 517 
+es Fe ies iadacincichthianbtiihechibiiaiintebiitiegpiseanes 23 
+alll SES ARERR ins he EE 29 
+Bass v. General Motors Corp., 1987 WL 54449 
+CURES SNE Wee iedcdahevctenschstbisttecsciendbsientiesinisiasess 15 
+Beatty v. Trailmaster Prods, 625 A.2d 1005 
+cles tnceieeindinetainibecinisieeshhialabeegatedlliddeiitens 27 
+Beeman v. Lovelace, 1995 WL 813722 (W.D. 
+8 EE Ta oe 14 
+Blessing v. Freestone, 520 U.S. 329 (1997)........... 17 
+Boyle v. Chrysler Corp., 501 N.W.2d 865 
+FN BI Rcthicdiiecttititennctitlessitealiettiissdpisiaeateenee 15 
+Brand v. Mazda Motor Co., 978 F.Supp. 1382 
+A A Ae ibtaiehdlsnadbidiinineinctbbaniuenbildtiiimerinentense 14 
+Brooks v. Beech Aircraft Corp., 902 P.2d 54 
+I tincintehticentcilltiabiscsiibiillpsntninheriiuateebinanedetcent 27 
+
+
+California Federal Sav. & Loan Ass’n. v. 
+Guerra, 479 U.S. 272, 281 (2987)........ccceseeeeseeeees 19 
+
+
+Carlen v. General Motors Corp., No. 3:97-CV 
+
+
+606-R (W.D. Ky. November 13, 1998)................. 14 
+
+
+Page Nos. 
+Cellucci v. General Motors Corp., 706 A.2d 806 
+PU, Dire drvicntitltaceiaantinintceseeti-cipmcsintsiteitnnstiemliaiacnsne 15 
+Cerniak v. Nissan Motor Co., 1991 WL 147366 
+FLED. EE Py Bs SEO cncteineccccasicssnicattiiinaniabbitiitinees 14 
+Chicago & N.W. Transp. Co. v. Kalo Brick & 
+Tile Co. 450 U.S. 311 (1981).........cssercccossssesesceees 19, 23, 28 
+Cipollone v. Liggett Group, !nc., 505 U.S. 504 20, 21, 
+C FUE ciccstcininniitebiaitabasbitibaadbiibnuntentecstiihidabinbabhinass 22, 26 
+City of New York v. F.C.C., 486 U.S. 57 (1988) .. 20 
+Collins v. General Motors Corp., No. JFM-97- 
+401 (D.Md. March 31, 1998) .0............ccccccesseeeseeeees 14 
+Cooper v. General Motors Corp., 702 So.2d 428 
+ _,, RRR eR eee 15 
+Copenhaver v. Honda, No. 1: 94-CV-524 
+(W.D. Mich. February 6, 1997).....0......cccccccsccereeeees 14 
+Courtney v. Mitsubishi Motors Corp., 926 
+F.Supp. 223 (D. Mass. 1996) ..........c:ccccssesseseereeees 14 
+Cox v. Baltimore County, 646 F.Supp. 761 
+CA Is SI iaedhieaeicit iin nl dates iliiataesiceaealiniiebipenemine 15 
+CSX Transportation, Inc. v. Easterwood, 507 20, 22, 
+a Ce id aicieivciiceniagtiidertininbabneanleimaiseababetnbeis 23, 26 
+
+
+Dallas v. General Motors Corp., 725 F.Supp. 902 
+i & "% eee 14 
+
+
+Page Nos. 
+
+
+Deckle v. General Motors Corp., No. 95-10021- 
+MMP (N.D. Fla. June 5, 1998)..00.........ccccccceeseessenee 14 
+
+
+Dykema v. Volkswagen A.G., 525 N.W.2d 754 
+(Wis. App. 1994), cert. denied, 516 U.S. 811 
+
+
+(DDS) «.cacsssscosssscumsnnsonsctsssinsetinsesbestoscreseneeceeesescesees 15, 16 
+Fidelity Federal Sav. & Loan Ass’n. v. 
+
+De La Cuesta, 458 U.S. 141 (1982) ......cccceseseeeseees 20, 23 
+Folkes v. Volkswagen of America, Inc., No. 
+
+94-D-977 (D. Colo. June 11, 1997)......ccecesesesvereees 14 
+Freightliner Corp. v. Myrick, 514 U.S. 280 
+
+(ESDP sccecersccssonsesidnsashtsibbtonsactncnicibesshimnstisiteteecessoes 4, 20 
+Gade v. National Solid Wastes 
+
+Age t,, FED UB. TB (Oa pecrcsecsatsrssorrninsiessssectncecee 21 
+
+
+Geier v. American Honda Motor Co.., Inc., 166 
+Fe Be Cs Gs Bi ccrtintitncinlsthibciitnnistennes 13 
+
+
+Gills v. Ford Motor Co., 829 F.Supp. 894 
+Gl ee a 14 
+
+
+Gracia v. Volvo Europa Truck, N.V., 112 F.3d 
+251 (7" Cir. 1997), cert. denied, 118 S. Ct. 697 
+
+
+Soe SU ccsiasheainieneninetnstiitesinnincntediinanstinnasiancsees 13, 24 
+Heath v. General Motors Corp., 756 F.Supp. 
+
+
+fe 8 8 S|) eee 14 
+
+
+x 
+Page Nos. 
+
+Heftel v. General Motors Corp., 1988 WL 19615 
+(D.D.C. February 23, 1988) ..........cccssccsccessssoreeees 15 
+Hill v. General Motors Corp., No. 94-AR0088-S 
+(N.D. Ala. November 15, 1995)............ccccseeeeeersees 14 
+Hilst v. General Motors Corp., 1999 WL 339029 
+
+PY  § ee 15,17 
+Hines v. Davidowitz, 312 U.S. 52 (1941).............. 19 
+Howard v. American Motors Corp., Prod. Liab. 
+
+Rep. (CCH) § 11,995 (S.D. Tex. July 26, 1988).... 15 
+Hughes v. Ford Motor Co., 677 F. Supp. 76 
+
+TR, GREED, SOO iiccivantitnislibarinctntenesetebiitissidainidiipiieiows 15 
+Hunt v. Ford Motor Co., Prod. Liab. Rep. 
+
+(CCH) § 12,292 (N.D. Ala. March 30, 1989) ........ 14 
+Hunter v. General Motors Corp., Prod. Liab. 
+
+Rep. (CCH) 4 12,039 (D. Conn. December 27, 
+
+ROG eccocesiceviocsereuiccitibitinctaiiaitbeaiaslisaninnciiiamaidiasiiiateias 15 
+Hyundai Motor Co. v. Phillip, 639 So.2d 1064 
+
+(Fla. App. 1994), cert. denied, 513 U.S. 1111 
+
+CSOD scesreertancetnticnenstnsiincicnseitgiiibiatnincibibisaniaibiiaces 16 
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 
+
+FSD CoD cceiranesatnnsssiistiinitintenipetinmibasdiiaibsediiiibaisvciciias 21 
+International Paper Co. v. Ouellette, 479 U.S. 481 
+
+(TSF) ssccevsesacsoiveiinaniatecsenteicnsenhiitas aecelicinbetieesetiaiiaéa 19, 20 
+
+
+Page Nos. 
+v. Mazda Motor ., 136 F.3d 764 
+(11™ Cir. 1998), cert. denied, 119 S. Ct. 544 
+ei Midland atte iatdimiaieinicinandceinicnnitetereueas 13, 16, 17 
+Jefferson v. City of Tarrant, 522 U.S. 75 
+eae ladle eon “ayy > en RS Ca ae a a 16 
+John Hancock Mut. Life Ins. Co. v. Harris Trust 
+& Sav. Bank, 510 U.S. 86 (1993) ..0.....ccccccceseneeees 22, 25 
+Johnson v. General Motors Corp., 889 F. Supp. 
+tf 8  _ : SSaS ere ee 14 
+Jones v. Rath Packing Co., 430 U.S. 519 (1977)... 21 
+Kaiser v. Fuji Heavy Industries, Ltd., No. 
+95-B-633 (D. Colo. Sept. 24, 1996) ..........ccccceeseeee 14 
+v. General Motors .» 705 F.Supp. 303 
+eases a ee ee IETS eee ee 14 
+
+
+King v. Ford Motor Co., No. 95-117 (E.D. Ky 
+Fer ts Sa So a 14 
+
+
+Kitts v. General Motors Corp., 875 F.2d 787 
+(10" Cir. 1989), cert. denied, 494 U.S. 1065 
+(ORAL aes Aare ea aa 13, 16 
+
+
+Klugerman v. Nippon Seiko, K.K., No. 94- 
+11900-NG (D. Mass. Nov. 20, 1996)...........c.cc000008 14 
+
+
+Kolbeck v. General Motors Corp., 702 F.Supp. 
+a Pe Fle: BE rcnccncenicketitedecsncterdinctcasisbitineenine 14 
+
+
+Lejeune v. Wallace, No. 96-1170 (E.D. La. 
+
+
+Lightsey v. General Motors Corp., 12 F.Supp. 
+26 1346 (B.D. Ge. FGFT) -xccrccnccocsccsccssoreesseessesesssoes 
+
+
+Marcum v. General Motors Corp., No. 93-40 
+(E.D. Ky. November 21, 1996) ..........c.cccecseeeeeeeees 
+
+
+Martin v. Ford Motor Co., 914 F.Supp. 1449 
+CRED. GON, SOeetistracdhsicnnstebiintnedinipintibieendiinledinnies 
+
+
+Martinez v. Ford Motor Co., 568 N.W.2d 396 
+(PERCE. AG. VIG Piccccintacidecevibsitinnssincicinitlinasiitins tenons 
+
+
+McMasters v. Ford Motor Co., No. 96-110 
+Ae SS, ar 
+
+
+Medtronic, Inc. v. Lohr, 518 U.S. 470 (1996) ....... 
+
+
+Michigan Canners and Freezers Ass’n. v. 
+Agricultural Marketing & Bargaining Bd., 467 
+UB. SBE (Fae ep ensoseneesssssevsnssnopssennctsenetevnenencsetiioien 
+
+
+Miranda v. Fridman, 647 A.2d 167 (N.J. App. 
+EEUU CUED cecscicavticenilianinniisiestniecnacieniinennanlanl 
+
+
+rcs v. Honda Motor Co., 75 F.3d 1414 
+(10 Cir. 1996), cert. denied, 519 U.S. 814 
+
+
+Morales v. Trans World Airlines, Inc., 504 U.S. 
+FPO CORD rectetictaseccissenciailiaaspiinatnetitetilsntiiiltiliandaies 
+
+
+Motor Vehicle Mfrs. Ass’n. v. State Farm Mut. 
+Auto. Ins. Co., 463 U.S. 29 (1983) .........cccccceeceeeeee 
+
+
+Nissan Motor .v. ior Court, 212 Cal. 
+App. 3d 980 (1989), cert. denied 494 U.S. 1066 
+(ORM ey Lan ce ak RES TE eee 
+
+
+Pak v. Chrysler Motors Corp., 1990 WL 198821 
+(E.D. Pa. December 3, 1990), aff'd., 941 F.2d 
+
+
+wo oe 
+
+
+Pokorny v. Ford Motor Co., 902 F.2d 1116 
+(3 Cir.), cert. denied, 498 U.S. 853 (1990).......... 
+
+
+Public Citizen v. Steed, 851 F.2d 444 (D.C. Cir. 
+TIT snosussdibestiecaieinetihatiaidiianbidunenntesebidiisonthadaassenenttee 
+
+
+8, EEA eee 
+
+
+Schlotz v. Hyundai Motor Co., 557 N.W.2d 613 
+(Minn. App. 1997), cert. denied, 118 S. Ct. 80 
+UT i asiieninseidiaiihidainaibctbaaiiintaaininmanininteapeapansineineseens 
+
+
+Schneidewind v. ANR Pipeline Co., 485 U.S. 
+ey iatainieticpaawieatabatadiiinisenttiniiibesetbiniivcniates 
+
+
+Schroeder v. General Motors Corp., No. 8: 
+CV-96-591 (D. Neb. February 7, 1997)................. 
+
+
+Schuyler v. V A.G., No. 4:96 ev25 
+CEE. VO, FIIEEE Zi, TFG acccccccescsscsesccsecncscessccenese 
+
+
+Sheehan v. Cincinnati Shaper Co., 555 A.2d 
+SN I I init dentadeneunasientiliatenpeaienininnnss 
+
+
+Sieck v. General Motors Corp., 1996 WL 426818 
+
+
+14 
+
+
+14 
+
+
+27 
+
+
+14 
+
+
+XiV 
+
+
+Staggs v. Chrysler Corp., 678 F.Supp. 270 
+
+
+State Farm Mut. Auto. Ins. Co. v. Dole, 802 
+F.2d 474 (D.C. Cir. 1986), cert. denied, 480 
+
+
+U.S. 951 (1967) .....00.0.s000ces-secssoesesssonscocesscsssssesesses 
+
+
+Surles v. Ford Motor Co., 709 F.Supp. 732 
+
+
+(ND. Tex. 1968) .......0.-cseroccccccscorconsssronsessesscnseoss 
+
+
+Tammen v. General Motors Corp., 857 F.Supp. 
+TBS CD. Kate. 1996) ...0cccccccscsccseccoccsscccscsncecsscosenses 
+
+
+Taylor v. General Motors Corp., 1996 WL 
+
+
+671648 (N.D. Miss. Aug. 6, 1996).....cccvoosssvsvsses: 
+
+
+Taylor v. General Motors Corp., 875 F.2d 816 
+To 
+(11 Cir. 1989), cert. denied 494 U.S. 1065 
+
+
+Tebbets v. Ford Motor Co., 665 A.2d 345 
+
+
+(N.H. 1995), cert. denied, 516 U.S. 1072 (1996)... 
+
+
+Texas & Pacific Ry. v. Abilene Cotton Oil 
+
+
+Co., 204 U.S. 426, 446 (1907) ...ccssvessesssseeseeennnsees 
+
+
+Thomas v. General Motors Corp., No. 2:96 CV 
+38 (E.D. Tex. December 3, 1996) .......-.-:c-eseeseeeees 
+
+
+Vanover v. Ford Motor Co., 632 F.Supp. 1095 
+
+
+TEU, BaD, SOR anacliaindhiecddicdcitssieneadsiaiaaitin 
+
+
+Vasquez v. Ford Motor Co., 1986 WL 18670 
+
+
+(D. Ariz. November 18, 1986) ...........-ccssssesseeeees 
+
+
+14 
+
+
+14 
+
+
+13, 16, 
+23, 28 
+
+
+16 
+
+
+28 
+
+
+14 
+
+
+15 
+
+
+15 
+
+
+Wagner v. Clark Equip ». Co., 700 A.2d 38 
+8 GEAR ARE re eee 27 
+
+
+Waters v. Ford Motor Co., 1996 WL 114791 
+CELDD. FU: DERG TS, EID GY asceccciccsesscsctsncscsoicesecsees 14 
+
+
+Wattelet v. Toyota Motor Corp., 676 F.Supp. 
+PI ae: CNR HIPUNT aihsicehctchstntosisadincininnscicsesnrecess 15 
+
+
+Wickstrom v. ewood To Inc., 416 
+
+
+N.W.2d 838 (Minn. App. 1987); cert. denied, 
+PO, CB rast i erties 15, 16 
+
+
+Wiley v. General Motors Corp., No. 96-1692 
+(JHG) (D.D.C. November 15, 1996) ...........ccccc0000- 14 
+
+
+Wood v. General Motors Corp., 865 F.2d 395 
+(1™ Cir. 1988), cert. denied, 494 U.S. 1065 
+RES 9 0 ORE a passim 
+
+
+Zimmerman v. Volkswagen of America, Inc., 
+920 P.2d 67 (Idaho 1996), cert. denied, 520 U.S. 
+Se Gee epic ncclticemihetnietuibithiiblininibiinsemiinsstinees 15, 16 
+
+
+STATUTES 
+
+
+National Traffic and Motor Vehicle Safety Act, 
+15 U.S.C. § 1381 et seq. (now 49 U.S.C. 
+De Nh tt ITT AUR 5,13, 14 
+
+
+15 U.S.C. § 1391(1) (now 49 U.S.C. 
+ESET EO ATE 5 
+
+
+15 U.S.C. § 1392(a) (now 49 U.S.C. 
+Te SENak Salle Ss EST a A 5 
+
+
+aa 
+Page Nos. 
+STATUTES (continued) 
+15 U.S.C. § 1392(d) (now 49 U.S.C. 
+& SO LCD seceernienitsivicisaensbaietctlienansicgatetiiesii passim 
+15 U.S.C. § 1397(c) (recodified as § 1397(k) 
+and now 49 U.S.C. § 30103(€)).......--eeseeeeseeenenees 
+seveuscenenescnesusenabenanepensetvessonstsuntoessegnnenensansienasetnatnmnts passim 
+15 U.S.C. § 1410.........ccccsesseeseereeesenessnennsnnsnnensennnes 8 
+AD UBC. 6 SOUDE ceca passim 
+Pub. L. No. 102-240, § 2508, 105 Stat. 2086 
+(“SISTEA”) .....cscsccosssssnvsssersteneensnssssessssnsnannenenensnnsness 12 
+Pub. L. No. 103-272 § 1(e), 108 Stat. 943 ............. 7 
+Pub. L. No. 105-178 (1998) ..........ccccseeeeeeeeeneeenenees 13 
+Mich. Comp. L. Ann. § 600.2946(4) (West 
+1997) ........cceccesseresesscsessoserenseenarenessenssenssesosssssasooesees 27 
+Kan. Stat. Ann. § 60-3304(a) (1996)..........-0seeseee 27 
+Regulation and Administrative Materials 
+49 CF.R. § 571.208 (1987) ..-ccsessccssseessossssersecesnsess passim 
+32 Fed. Reg. 2415 (1967).......000+sssssesesersnsnsesensnnnes 8 
+37 Fed. Reg. 3911 (1972).....cssssseseersensnesesnsnennenes 8 
+
+
+xvii 
+
+
+and Administrative Materials Page Nes 
+Guaaiemeiotiona 
+1976), at 11-12, 32; 41 Fed. Reg. 24071 (1976)... 9 
+41 Fed. Reg. 24071 (1976) ..ccccccccccscvsscsscssssesseeeee 9 
+42 Fed. Reg. 34295 (1977) scccccccecseccssosessssseornseen 9 
+46 Fed. Reg. 53419 (1981) .....cccccccscssssssesesesseseeomen 9 
+49 Fed. Reg. 28962 (1984) .....cccccccsoocessessssssenen 10, 11, 22 
+$2 Fed. Reg. 42440 (1987) ..cccccccccccscosescscsseseseeeen 1 
+58 Fed. Reg. 46551 (1993) ..cccccccccccceccsesseeeeeeeevee 12 
+62 Fed. Reg. 798 (1997) ..cccccscsosesussssssesssseeee 13 
+62 Fed. Reg. 12960 (1997) ...cccccccccucscccccceseeeeeesesn 13 
+63 Fed. Reg. 49958 (1998)... ccccccccceeneeneee 13 
+Legislative Materials 
+ee 
+
+
+S. Rep. No. 1301, 89th Cong. 2d Sess. 4-12, 
+reprinted in 1966 U.S.C.C.A.N. 2709-2712 
+EE ee ae ee aT 5,6 
+
+
+Legislative Materials (continued) 
+
+
+112 Cong. Record at 21, 487 (1966) ............ssesee 
+112 Cong. Record at 21,490 (1966)... 
+
+
+Miscellaneous 
+
+
+Restatement (third) of Torts: Products Liability, 
+
+
+§ 4, CMT. e (Proposed Final Draft 1997).............. 
+
+
+Shapiro, Certiorari Practice: The 
+Court’s Shrinking Docket, 24 No. 3 Litigation 
+
+
+(| | en 
+
+
+Supreme Court Rule 14.1(8) ..........-...c-ssesesnseeeenenees 
+
+
+Wood v. General Motor, No. 89-46, U.S. 
+Supreme Court, Brief of the U.S. as Amicus 
+
+
+Curiae (March 1990) ...........sssssesseeessseesenenesenenene 
+
+
+Letter from NHTSA Administrator 
+
+
+27 
+
+
+No. 98-1811 
+
+
+In The 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 1998 
+
+
+ALEXIS GEIER, et al., 
+Petitioners, 
+
+
+v. 
+
+
+AMERICAN HONDA MOTOR CO., INC., et al., 
+
+
+Respondents. 
+
+
+On Petition for a Writ of Certiorari To The United States 
+Court of Appeals For the District of Columbia Circuit 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+TO PETITION FOR WRIT OF CERTIORARI 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+
+
+Joining five other circuit courts, the District of 
+Columbia Circuit Court of Appeals concluded that 
+petitioners’ no-airbag tort claim was impliedly preempted by 
+federal law because such tort claims conflict with the method 
+chosen by the federal government to achieve the goals of the 
+National Traffic and Motor Vehicle Safety Act of 1966 (“the 
+
+
+2 
+
+
+Safety Act”). In particular, the Court of Appeals carefully 
+reviewed the federal regulatory scheme, and recognized that 
+common law no-airbag tort claims would frustrate the 
+federal government’s policy of encouraging (1) public 
+acceptance of airbags, and (2) “experimentation with better 
+passive restraint systems.” App. 15. The Court of Appeals 
+correctly concluded that a no-airbag claim is preempted 
+because the Department of Transportation specifically 
+determined that “an all airbag rule would disserve the safety 
+purposes of the Act,” and that this policy “would be 
+disrupted by tort liability.” App. 16. Moreover, the Court of 
+Appeals correctly followed and applied controlling Supreme 
+Court precedents governing federal preemption of state 
+claims. Since this Court has repeatedly denied petitions for 
+writs of certiorari on this precise issue, including as recently 
+as last year, there is no reason for this Court to now exercise 
+its discretionary powers in this case. See e.g. Irving v. Mazda 
+Motor Corp., 136 F.3d 764 (11™ Cir. 1998), cert. denied, 119 
+S. Ct. 544 (1998). Moreover, this case is not the right 
+vehicle to resolve the FMVSS preemption issue inasmuch as 
+the Court of Appeals never reached express preemption -- 
+
+thus, a ruling in this Court could not resolve the entire 
+preemption issue. Finally, changes in the law since the 
+subject 1987 Honda Accord was manufactured require 
+airbags in all new passenger cars beginning September 1, 
+1997: therefore, this Court need not expend its judicial 
+resources on this issue of diminishing importance. 
+
+
+STATEMENT OF THE CASE 
+A. Factual and Procedural Background 
+
+
+This personal injury action arises out of a single 
+vehicle accident that occurred on January 16, 1992, at 
+approximately 10:30 p.m. in the 4900 block of MacArthur 
+Boulevard, N.W. in Washington, D.C. Petitioner Alexis 
+
+
+tree just off the right side of the road. 
+
+
+In compliance with Federal Motor Vehicle Safety 
+Standard (“FMVSS”) 208 (49 C.F.R. § 571.208) in 1987, 
+
+
+dash that indicated that the seat belt should be fastened. 
+
+
+Petitioners’ complaint was filed on January 12, 1995 
+in the United States District Court for the District of 
+Columbia against American Honda Motor Co., Inc., Honda 
+of America Mfg., Inc. and Honda Motor Co., Ltd. 
+(collectively “Honda”). The complaint asserted theories of 
+strict products liability and breach of warranty. The sole 
+claim is that the 1987 Honda Accord was defectively 
+er ee nnn aan ae 
+
+
+On October 26, 1995, Honda moved for summary 
+judgment on the ground that the petitioners’ common-law 
+tort claim was expressly and impliedly preempted by the 
+Safety Act and FMVSS 208. On December 10, 1997, Senior 
+Judge William B. Bryant granted Honda’s motion for 
+
+
+failure of a car manufacturer to install airbags during the 
+1980s is pre-empted by federal law.” App. 17-18. The 
+District Court found that recovery on tort claims, such as that 
+
+
+4 
+
+
+asserted by plaintiffs, is equivalent to a safety standard 
+promulgated by the state legislature, and such a claim is 
+preempted by section 1392(d) of the Safety Act and FMV 
+
+
+Court of Appeals declined to decide the express preemption 
+question “because we conclude that a verdict in [petitioners’] 
+favor would stand as an obstacle to the federal government’s 
+chosen method of achieving the Act’s Safety objectives, and 
+consequently, the Act implicitly preempts [petitioners’] 
+lawsuit.” App. 12. 
+
+
+The Court of Appeals rejected petitioners’ claim that 
+courts cannot reach implied preemption when there is an 
+express preemption provision, relying on this Court's 
+decision in Freightliner Corp. v. Myrick, 514 U.S. 280 
+(1995). The Court of Appeals, after reviewing the regulatory 
+history, concluded that “allowing design defect claims based 
+on the absence of an airbag for the model-year car at issue 
+would frustrate the Department [of Transportation’s] policy 
+of encouraging both public acceptance of the airbag 
+technology and experimentation with better passive restraint 
+systems. Even if the Secretary’s gradual adoption of an 
+airbag requirement has increased public acceptance of the 
+technology over time, concerns about public reaction still 
+existed when Geier’s 1987 Honda was manufactured.” App. 
+15-16. Therefore, the Court held “because potential 
+common law liability interferes with the regulatory methods 
+chosen by the federal government to achieve the Safety Act’s 
+stated goals,...Geier’s lawsuit claiming that the car she was 
+
+
+5 
+
+
+driving was defectively designed because it lacked airbags i 
+implicitly preempted.” App. 16. E 
+
+
+B. The Safety Act and FMVSS 208 
+
+
+4 In 1966, Congress determined that, given the 
+centralized, mass production, high volume character of the 
+motor vehicle manufacturing industry in the United States,” 
+the country needed motor vehicle safety standards that were 
+strong and adequately enforced” and "uniform 
+
+
+manufacturing industry must fall squarely upon the Federal 
+Government.” S. Rep. No. 1301, 89" Cong., 2d Sess. 4, 
+reprinted in 1966 U.S. Code Cong. & Ad. News 2709, 2712. 
+
+
+Accordingly, in 1966, Congress enacted the National 
+Traffic and Motor Vehicle Safety Act, 15 U.S.C. § 1381 et 
+seq. (“Safety Act”) (now 49 U.S.C. § 30101 et seq.). The 
+Safety Act directs the Department of Transportation, through 
+the National Highway Traffic Safety Administration 
+(“NHTSA”), to issue federal motor vehicle safety standards 
+that are “practicable,” that “meet the need for motor vehicle 
+safety,” and apply throughout the country. 15 U.S.C. § 
+1392(a) (now 49 U.S.C. § 30111(a)). Federal motor vehicle 
+safety standards must “protect against unreasonable risk of 
+death or injury” in the event of an accident. 15 U.S.C. § 
+1391(1) (now 49 U.S.C. § 30102(a)(8)). 
+
+
+To ensure that the federal standards will not be 
+undermined by application of a variety of state standards 
+
+
+addressing the same features, Congress expressly preempted 
+all non-identical state standards: 
+
+
+6 
+Supremacy of Federal standards... 
+
+
+Whenever a Federal motor vehicle safety 
+standard established under the subchapter is 
+in effect, no State or political subdivision of 
+a State shall have any authority either to 
+establish, or to continue in effect, with 
+respect to any motor vehicle or iteia of 
+motor vehicle equipment, any safety 
+standard applicable to the same aspect of 
+performance of such vehicle or item of 
+equipment which is not identical to the 
+Federal standard... 
+
+
+See 15 U.S.C. § 1392(d) (now 49 U.S.C. § 30103(b)). 
+Explaining the need for this preemption, the House Report 
+emphasized: 
+
+
+[T]his preemption subsection is intended to 
+result in uniformity of standards so that the 
+public as well as industry will be guided by 
+one set of criteria rather than a multiplicity 
+of diverse standards. 
+
+
+H.R. Rep. No. 1776, 89" Cong., 2d Sess., 17 (1966). The 
+Senate Report stated that inconsistent standards are 
+“preempted.” S. Rep. No. 1301, 89" Cong., 2d Sess., 12 
+(1966). 
+
+
+The Safety Act also contains a provision which 
+makes clear that Congress did not intend to occupy the entire 
+field of automotive safety (see 15 U.S.C. § 1397(k) 
+{currently codified at 49 U.S.C. § 30103(e)]). As the Senate 
+Report explained, this clause ensured that “compliance with 
+such (federal) standards would thus not necessarily shield 
+any person from product liability at common law.” S. Rep. 
+No. 1301, 89 Cong., 2d Sess. 11, reprinted in 1966 U.S. 
+Code Cong. & Ad. News (1966) (emphasis added). The 
+
+
+7 
+
+
+House Report also focused on compliance and defenses, not 
+preemption [“compliance with safety standards is not to be a 
+defense or otherwise to affect the rights of parties under 
+common law particularly those relating to warranty, contract 
+and tort liability”]. H.R. Rep. No. 1776, 89" Cong., 2d Sess. 
+24 (1966). The role of § 1397(k) was not to negate 
+preemption, but, as indicated in the Congressional debate, 
+related to the evidentiary considerations of compliance with 
+a safety standard. See 112 Cong. Rec. 21,490 (1966). 
+Senator Cotton stated that “compliance with Federal 
+standards may be offered in any proceeding for such 
+relevance and weight as courts and juries may give it.” 112 
+Cong. Rec. at 21,490 (1966). Senator Magnuson made the 
+point that “[nJo court rules of evidence are intended to be 
+altered by this provision.” 112 Cong. Rec. at 21,487 (1966).' 
+
+
+In exercising the Secretary of Transportation’s 
+authority under the Safety Act, the National Highway Traffic 
+Safety Administration (“NHTSA”) has promulgated 
+numerous standards on motor vehicle design and 
+performance. FMVSS 208, the occupant restraint standard, 
+addresses the “requirements for the protection of vehicle 
+occupants in crashes.” 49 C.F.R. § 571. 208, $1. Its stated 
+purpose te se the number of deaths of vehicle 
+occupants, severity of injuries by specifying vehicle 
+crashworthiness requirements in terms of forces and 
+accelerations measured on anthropomorphic dummies in test 
+
+
+: When Congress recodified the Safety Act in 1994, both 
+§ 1392(4) and § 1397(k) were appropriately placed in a new section, 49 
+U.S.C. § 30103, entitled “Relationship to other laws.” Significantly, 
+however, § 1392(d) was placed in 49 U.S.C. § 30103(b), labeled 
+Preemption,” whereas § 1397(k) was placed in an entirely different 
+subsection, 49 U.S.C. 30103(e), whose title (“Common law liability”) 
+makes no reference to the Supremacy Clause or federal preemption. See 
+Pub. L. 103-272, § 1(e), 108 Stat. 943. Since the petitioners and the 
+Court of Appeals used the original statutory designations, we use them as 
+
+
+well. 
+
+
+crashes, and by specifying equipment requirements for active 
+and passive restraint systems.” 49 C.F.R. § 571.208, $1.’ 
+
+
+NHTSA first adopted FMVSS 208 in 1967, and 
+required installation of manual lap belts in all new cars. 32 
+Fed. Reg. 2415 (1967). The decision whether and when to 
+require the installation of passive restraints, including 
+automatic seat belts and airbags, has been the subject of 
+extensive study, controversy, and modifications over the last 
+three decades by NHTSA and Congress. See Motor Vehicle 
+Mfrs. Ass’n. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 
+(1983); State Farm Mut. Auto. Ins. Co. v. Dole, 802 F.2d 
+474 (D.C. Cir. 1986), cert. denied, 480 U.S. 951 (1987). 
+
+
+In 1972, the Department of Transportation amended 
+FMVSS 208 to require installation of passive restraints (air 
+bags or automatic seat belts) for automobile manufactured 
+after August 15, 1975. 37 Fed. Reg. 3911 (1972). For 
+models built before that date, manufacturers could use 
+manual lap and shoulder belts coupled with an ignition 
+interlock. 
+
+
+That standard had a short life. The public did not like 
+ignition interlocks and made it known. Thereafter, in 1974, 
+Congress abolished the “ignition interlock” standard. 
+Congress also prohibited the Secretary of Transportation 
+from issuing any standard requiring air bags or any other 
+non-belt restraint system, among other things, unless the 
+standard was submitted first to both houses of Congress and 
+not disapproved by them. 15 U.S.C. § 1410(b), (c). 
+
+
+Thereafter, every Secretary of the Department of 
+Transportation rejected a mandatory air bag rule. In 1976, 
+
+
+, “Passive” restraints are “devices that do not depend for their 
+effectiveness upon any action taken by the occupant except that 
+necessary to operate the vehicle.” Motor Vehicle Mfrs. Ass'n v. State 
+Farm Mut. Auto Ins. Co., 463 U.S. 29, 34-35 (1983). 
+
+
+9 
+
+Secretary Coleman declined to issue a standard requiring air 
+bags. He determined that air bags were very costly and 
+might “cause or exacerbate injuries;” the public did not like 
+or want them; they might precipitate “disastrous economic 
+consequences for the whole nation;” and they provided no 
+greater protection than seat belts when used. “The 
+Secretary’s Decision Concerning Vehicle Occupant Crash 
+Protection,” D.O.T. (Dec. 6, 1976), at 11-12, 32; 41 Fed. 
+Reg. 24071 (June 14, 1976). 
+
+
+In 1977, Secretary Adams also rejected an air 
+only standard. Ho did issue a new FMVSS 208 requisite 
+passive restraints, either air bags or automatic belts, to be 
+rmsd som iles in 1981. He determined not to 
+
+passive restraints earlier, i air 
+seman “oitad thn ahr naar” to te nea co 
+1980s would have to be “completely redesigned” to 
+accommodate them. 42 Fed. Reg. 34295 (July 5, 1977). 
+
+
+In 1981, Secretary Lewis delayed Secretary Adams’ 
+prospective passive restraint standard, and then rescinded it. 
+46 Fed. Reg. 53419 (1981). The Secretary stated: 
+
+
+The agency is also seriously concerned 
+about the possibility that adverse public 
+reaction to the cost and presence of 
+automatic restraints could have a significant 
+adverse effect on present and future 
+acceptance of highway safety efforts. Id. 
+
+
+In 1983, this Court vacated Secretary Lewis’ 
+rescission decision, because the Secretary had not adequately 
+set forth the reasons for it. This Court, therefore, remanded 
+to the Secretary. See Motor Vehicle Mfrs. Ass’n. v. State 
+Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983). 
+
+
+Thereafter, Secretary Dole undertook “a thorough 
+review” of all restraint systems, 49 Fed. Reg. 28962 (July 17, 
+
+
+10 
+
+
+1984), and reached a “final decision” respecting passive 
+restraints. She determined to require a phase-in of them, but 
+the phase-in was not to begin if states with two-thirds of the 
+population enacted mandatory use laws (“MULS”) by 1989. 
+
+
+The 1984 regulation provided a three-year lead time 
+and phase-in to allow manufacturers an opportunity to 
+provide more reliable automatic systems, and to permit 
+consumers the opportunity to develop more information 
+about the benefits of these systems. 49 Fed. Reg. at 29000. 
+The phase-in schedule required a minimum of 10% of the 
+1987 model year cars manufactured after September 1, 1986 
+to use some type of automatic protection, but not necessarily 
+airbags, 25% of the 1988 model year cars, 40% of the 1989 
+model year cars, and 100% of cars from the 1990 model year 
+and later. Id. at 28999. “By starting off with a relatively 
+small percentage and building up to full compliance, the 
+phase-in will provide the manufacturers with a better 
+opportunity to manage unforeseen development and 
+production problems and, as a result, also make it less likely 
+that consumers will develop adverse impressions based upon 
+earlier experience.” Id. at 29000. Secretary Dole explained 
+that the phase-in was necessary because of “the need for the 
+public to become accustomed to the technology and the need 
+for protection, and [because] an across-the-board mandate 
+too quickly could engender adverse public reaction.” Id. at 
+28989. 
+
+
+Secretary Dole found “a number of reasons” not to 
+require air bags, id. at 29000, including: (1) “An air bag 
+alone is less effective” than three point seat belts when used. 
+Id. at 28986; (2) Air bags are costly, and are especially costly 
+to replace. Id. at 29001; (3) Air bags may cause injuries, 
+especially to children. Id. at 28992, 29001; (4) The public 
+fears air bags and may not accept them; (5) Doubts about 
+the efficacy of air bags (particularly in smaller cars). Id. at 
+28974, 29001; and (6) “(By) restricting the manufacturers (to 
+
+
+lal et i ie no- —w 
+
+
+11 
+
+
+air bags), the Department runs the risk of killing or seriously 
+ing dev of more effective, efficient 
+
+
+protection systems.” Id. at 29001 (emphasis added). 
+
+
+To allay public concerns, Secretary Dole encouraged 
+manufacturers to offer consumers a choice between 
+automatic safety belts and airbags. The Secretary noted that 
+“[iJt may be easier to overcome these [public] concerns if 
+airbags are not the only way of complying with an automatic 
+occupant protection requirement. Under the rule being 
+issued, if people have concerns about airbags, they can 
+purchase automobiles that use automatic belts.” 49 Fed. 
+Reg. at 29001. 
+
+
+Despite an attack on the Secretary’s rejection of a 
+mandatory airbag standard, the 1984 standard was upheld as 
+a careful balancing of policy interests. See State Farm Mut. 
+Auto. Ins. Co. v. Dole, 802 F.2d 474 (D.C. Cir. 1986), cert. 
+denied, 480 U.S. 951 (1987). The Court approved the 
+Secretary of Transportation’s reliance on cost-benefit 
+analysis and concerns about public acceptability (including 
+fears about chemicals used to deploy airbags and the 
+possibility of inadvertent deployment), reasoning that this 
+analysis is “most appropriately entrusted to the expertise of 
+an agency.” 802 F.2d at 488. 
+
+
+In the years before the 1987 Honda Accord at issue 
+was manufactured, NHTSA continued to refuse to mandate 
+airbags. The agency denied a petition to reconsider the 1984 
+regulation, stating “Standard No. 208 does not now require, 
+nor has it ever required, manufacturers to install air bags in 
+their cars...Instead...any restraint system that provides the 
+specified performance may be used to comply with the 
+standard” (52 Fed. Reg. 42440, 42445 [1987]). Another 
+challenge to the rule was rejected the year after this vehicle 
+was manufactured. The agency was held to have reasonably 
+
+
+12 
+
+
+considered long-term safety effects in its decision. See 
+Public Citizen v. Steed, 851 F.2d 444 (D.C. Cir. 1988). 
+
+
+In the 1987 model year, applicable here, Congress 
+granted the manufacturer three options as to what restraints 
+to install. In this vehicle, Honda chose the federally granted 
+option of lap and shoulder belts with belt warnings. See 49 
+C.F.R. 571.208, $4.1.2.3. (1987). 
+
+
+On December 18, 1991, Congress enacted the 
+Intermodal Surface Transportation Efficiency Act of 1991 
+("ISTEA”). See Pub. L. No. 102-240. Congress directed 
+NHTSA to amend FMVSS 208 to require, for the first time, 
+airbags in 95% of 1997-model automobiles and 100% of 
+1998-model automobiles. NHTSA’s final rule implementing 
+this provision of ISTEA was promulgated in 1993. See 58 
+Fed. Reg. 46551. Prior to this amendment, NHTSA 
+informed Congress that “most courts that have considered 
+the matter have ruled that [no air bag] claims are preempted 
+by the...Safety Act and/or the safety standards issued by 
+NHTSA.” — See letter to Congress from NHTSA 
+Administrator Jerry Curry, dated November 7, 1991. 
+Congress responded by specifying that: 
+
+
+Nothing in this section or in the amendments 
+made under this section to [FMVSS] 208 
+shall be construed by any court as indicating 
+an intention by Congress to effect, change or 
+modify in any way the liability, if any, of a 
+motor vehicle manufacturer under applicable 
+law relative to vehicles with or without 
+inflatable restraints. 
+
+
+Pub. L. No. 102-240 § 2508(d). 
+
+
+The debate over airbag technology and safety 
+continues. In 1997, NHTSA announced the need to 
+
+
+implement “a comprehensive plan of rulemaking and other 
+
+
+13 
+
+
+actions...addressing the adverse effects of airbags.” 62 
+Reg. 798 (1997). NHTSA also issued a rule aan 
+
+
+airbag induced injury. Pub. L. In 4 rior 
+thereafter, proposed to require “smart” or “advanced airbags’ 
+position occupants. 63 Fed. Reg. 49958 (1998). 
+
+REASONS FOR DENYING THE PETITION 
+
+The District of Columbia Circuit’s Ruling 
+
+is Consistent with the Decisions of Other 
+Federal Circuit Courts 
+
+
+All of the Federal Courts of Appeals that have 
+addressed the FMVSS 208 preemption issue have held that a 
+
+
+> 
+
+
+Act. See Geier v. American Honda Motor Co. 
+F.3d 1236 (D.C. Cir. 1999); Irving v. Mazda yon 
+136 F.3d 764 (11 Cir. 1998); cert. denied, 119 S. Ct. 544 
+(November 30, 1998); Harris v. Ford Motor Co., 110 F.3d 
+1410 (9 Cir. 1997); Montag v. Honda Motor Co., 75 F.3d 
+1414 (10 Cir. 1996), cert. denied, 519 U.S. 814 (1996); 
+v. Ford Motor Co., 902 F.2d 1116 (3 Cir.), cert. 
+denied, 498 U.S. 853 (1990); Kitts v. General Motors Corp., 
+875 F.2d 787 (10" Cir. 1989), cert. denied, 494 U.S. 1065 
+(1990); Taylor v. General Motors Corp., 875 F.2d 816 (11" 
+Cir. 1989), cert. denied 494 U.S. 1065 (1990); Wood v. 
+General Motors Corp., 865 F.2d 395 (1* Cir. 1988), cert. 
+denied, 494 U.S. 1065 (1990); see also Gracia v. Volvo 
+opa_T N.V., 112 F.3d 291 (7 Cir. 1997), cert. 
+d, 118 S. Ct. 697 (1998) [holding non-identical and 
+State common law standard on windshield 
+
+
+is equipped with one restraint option granted by FMVSS 
+208, instead of a different FMVSS 208 option.’ 
+
+
+a 
+
+
+é See, e.g. Carlen v. General Motors 
+(W.D. Ky. November 13, 1998); Deckle v. 
+95-10021-MMP (N.D. Fla. June 5, 1998); 
+
+
+Motor Co., No. 95-117 (E.D. Ky April 30, 1997); 
+Motor Co., No. 96-110 (W.D. Pa. March 5, 1997); 
+
+
+Motors Corp., No. 8: CV-96-591 (D. Neb. February 
+
+
+‘ . Vv. 
+Lovelace, 1995 WL 813722 (W.D. Okla. 2, 1995); Tammen 
+v. General Motors Corp., 857 F.Supp. 788 (D. Kan. 1994); Gills v. Ford 
+
+
+Cir. 1991); Dallas v. General Motors 725 F.Supp. 902 (W.D. Tex. 
+1989); Hunt v. F . Rep. (CCH) ¢ 12,292 (N.D. 
+Ala. March 30, 1989); Kelly v. General Motors Corp., 705 F.Supp. 303 
+(W.D. La. 1988); Kolbeck v. General Motors Corp., 702 F.Supp. 532 
+
+
+15 
+In addition, appellate courts in nine states have found 
+preemption of passive restraint claims.* Just recently, the 
+Appellate Court of Illinois in Hilst v. General Motors Corp., 
+
+
+1999 WL 339029 (Ill. App. May 26, 1999), concluded 
+“Go cia? cas aa as tele 
+
+
+$20 U.S. 1115 (1 no lap belt claim); v. Vi AG 
+525 N.W.2d 754 (Wis. App. 1994), cert. 516 US. ni 11553) [no 
+lap belt claim); v. 167 (NJ. App. 1994), 
+Say: v 
+
+
+501 N.W.2d 865 (Wis. App. 1993), rev. $10 
+Cal Agp. 34 500 (1509) cot dniad TUT 165 OEE Wictioee 
+Cal. App. 3d 980 (1989), cert. 1066 ( 
+v. 
+
+
+494 
+T Inc., 416 N.W.2d 838 (Minn. App. 1987); cert. 
+Soe ar US oe 1236 (1988). ee 
+
+
+16 
+
+
+that have held to the contrary do not warrant exercise of this 
+Court’s discretionary powers. None of these state courts 
+have yet rendered a final decision that would properly invoke 
+this Court's jurisdiction under Jefferson v. City of Tarrant, 
+§22 U.S. 75 (1997). 
+
+
+B. Nothing New Has Occurred Since This 
+Court’s Denial of Certiorari Last Year 
+
+
+It is not surprising that this Court has declined to 
+review the FMVSS preemption = fourteen times, 
+including two cases just last year. See Irving v. Mazda 
+Motor Corp., 136 F.3d 764 (11™ Cir. 1998), cert. denied, 119 
+S. Ct. 544 (1998), Gracia v. Volvo Europa Truck, N.V., 112 
+F.3d 291 (7" Cir. 1997), cert. denied, 118 S. Ct. 697 (1998).° 
+All of the state court cases relied upon by petitioners were 
+decided before this Court’s denial of the petition for 
+certiorari in Irving v. Mazda Motor Corp., supra. There is 
+nothing new in the Court of Appeals ruling here that should 
+
+
+: Other cases where this Court has denied a petition for a writ of 
+certiorari also involved the preemptive effect of occupant restraint system 
+
+
+options under FMVSS 208. See Schiotz v. Motor Co., 557 
+N.W.2d 613 (Minn. App. 1997), cert. denied, 11 (1997), 
+Zimmerman v. V of 920 P.2d 67 (Idaho 1996), 
+
+
+cert. denied, $20 U.S. 75 F.3d 
+Mi 10” Cir. 1996), cert. denied, 
+bee 4 665 A2d 345 (NH. 1995), cert. denied, 16 : 
+
+
+(1996), v. Vv AC 525 N.W2d 754 (Wis. App. 
+
+
+(1996); Dykema v. Volkswagen A.C., 
+1994), cert. denied, 516 U.S. 811 aa: 
+639 So.2d 1064 (Fla. App. 1994), 51 id 
+Pokorny v. Ford Motor Co., 902 F.2d 111 Cir.), 
+
+
+U.S. 853 (1990), Nissan Motor 
+
+
+General Motors Corp., . 
+
+U-S. 1065 (1990), Kitts v. General Motors ai 
+1989), cert. 494 U.S. 1065 (1 
+
+Corp., 865 F (1* Cir. 1908), sar. 
+
+Wickstrom v. .W.2d 838 oan. App. 
+
+
+1987), cert. denied, 487 U.S. 1236 (i ¥ 
+
+
+remand to the Court of Appeals would be in order to first 
+decide the express preemption issue. This Court ordinarily 
+v. Freestone, 520 U.S. 329, 340 (1997); Supreme Court 
+Rule,14.1(a). The parties have not, except in passing, 
+“It is generally more efficient for the Supreme Court to await 
+an appeal from a final judgment which allows the Court to 
+
+
+18 
+
+
+consider all issues in a single certiorari package.” Shapiro, 
+Certiorari Practice: The Supreme Court’s Shrinking Docket, 
+24 No. 3 Litigation 25 (1998). 
+
+
+Honda submits that, if review is ever warranted, this 
+Court should select a better case for review — one that has 
+actually decided both the express and implied components of 
+dispose of the entire controversy, and would not 
+meaningfully assist in the development of preemption law. 
+
+
+D. Due to the Change in Federal Law 
+Mandating Airbags, the Issue of FMVSS 
+
+
+Petitioners suggest that the FMVSS preemption issue 
+is somehow increasing in importance. We strongly disagree. 
+The ever-evolving nature of FMVSS 208, and the changes in 
+the law as it relates to airbag technology, demonstrate that 
+the claims presented by petitioners will surely fall by the 
+wayside as vehicles manufactured without airbags cease to 
+be driven. Petitioners greatly exaggerate the number of 
+future no-airbag claims. Pet. At 11. All cars manufactured 
+after September 1, 1997 are required to have airbags. App. 
+3. In addition, numerous manufacturers before that time 
+voluntarily equipped their cars with airbags. Consequently, 
+the number of remaining no-airbag suits has steadily 
+declined during the phase-in period and will continue to do 
+so. 
+
+
+In any event, this Court should not exercise its 
+discretionary powers to render a decision based on a phase-in 
+regulation that has since been replaced with a permanent rule 
+mandating airbags in all vehicles. Where the statute or 
+regulation upon which a controversy rests has been amended 
+in a manner which prevents the problem from arising in the 
+
+
+19 
+
+
+future, certiorari should be denied. See Robert L. Stern, et 
+al., Supreme Court Practice 172 (7" ed., 1993).° 
+
+
+E. The District of Columbia Circuit 
+
+
+Correctly Applied Controlling Supreme 
+Court Precedents 
+
+
+Review is also not warranted because the District of 
+
+
+federal law.” California Federal Sav. & Loan Ass’n. v. 
+Guerra, 479 U.S. 272, 281 (1987); see International Paper 
+Co. v. Ouellette, 479 U.S. 481, 491 (1987). Such conflicts 
+occur where the state law stands “as an obstacle to the 
+accomplishment and execution of the full purposes and 
+objectives of Congress.” Hines v. Davidowitz, 312 U.S. 52, 
+67 (1941); see Chicago & N.W. Transp. Co. v. Kalo Brick & 
+Tile Co. 450 U.S. 311, 317 (1981). 
+
+
+There is an actual conflict if there is a “prospect of 
+interference with the federal regulatory power,” 
+Schneidewind v. ANR Pipeline Co., 485 U.S. 293, 310 
+(1988), or if the state law “interferes with the methods by 
+ee eee» ee 
+
+
+goals[s}.” International Paper Co. v. Ouellette, 479 U.S. 
+
+
+: The decision below is also unsuitable for review because the 
+1987 Honda Accord at issue was manufactured and sold during the 
+passive restraint phase-in period (1987-1989), when manufacturers had to 
+install passive protection systems in only a percentage of their new cars. 
+Contrary to Petitioner’s suggestion (Pet. at 22), the United States did not 
+believe review was warranted for cases involving 1987 phase-in vehicles, 
+but believed that the vehicle should be manufactured after the phase-in 
+period was completed in 1990, before a suitable case might be presented 
+for certiorari. Brief of the United States as Amicus Curiae, on 
+
+
+Petition for Writ at 19-20, Wood v. Motors Corp., 494 
+U.S. 1065 (1990) (No. 89-46) peonteg eee eae ete to 
+
+
+phase-in vehicles). 
+
+
+20 
+
+
+481, 494 (1987); Michigan Canners and Freezers Ass'n v. 
+Agricultural Mktg. & Bargaining Bd., 467 U.S. 461, 477 
+(1984). Authorized regulations of an agency will preempt 
+any state law that conflicts with such regulations or frustrates 
+regulatory purposes. See City of New York v. F.C.C., 486 
+U.S. 57 (1988); Fidelity Fed. Sav. & Loan Ass’n v. De La 
+Cuesta, 458 U.S. 141, 153 (1982) [“federal regulations have 
+no less preemptive effect than federal statutes”). 
+
+
+Petitioners spend much of their Petition (Pet. 13-20) 
+arguing that this Court’s decision in Cipollone v. Liggett 
+Group, Inc., 505 U.S. 504 (1992) radically changed federal 
+preemption law and precludes resort to implied preemption 
+analysis in the face of an express preemption clause. But 
+this Court unanimously rejected this position as “without 
+merit” in Freightliner Corp. v. Myrick, 514 U.S. 280, 287 
+(1995); see also Medtronic, Inc. v. Lohr, 518 U.S. 470, 503 
+(1996) [rejecting express preemption argument but stating 
+that tort claim might “be under conflict 
+preemption analysis”]. The Myrick court held that “the fact 
+that an express definition of the preemptive reach of a statute 
+‘implies’ - - i.e., supports a reasonable inference - - that 
+Congress did not intend to preempt other matters does not 
+mean that the express clause entirely forecloses any 
+possibility of implied preemption.” The Myrick court noted 
+(1) that in Cipollone, “we engaged in a conflict preemption 
+analysis of the Federal Cigarette Labeling and Advertising 
+Act,” and (2) “our subsequent decisions have not read 
+Cipollone to obviate the need for analysis of an individual 
+statute’s preemptive effects. See, ¢.g., CSX Transportation, 
+Inc. v. Easterwood, 507 U.S. 658 (1993).” Myrick, 514 U.S. 
+at 288-89. Finally, the Myrick court actually applied the 
+traditional implied preemption test - whether the lawsuit 
+frustrates “the accomplishment and execution of the full 
+purposes and objectives of Congress.” Id. Since there was 
+no federal antilock braking standard, there were “no federal 
+objectives or purposes” to undermine. Id. Simply put, in 
+
+
+ae we 
+
+
+ee ee er i ee re 
+
+
+21 
+1996, this Court considered implied preemption under the 
+very same statute. The Court of Appeals could do no less. 
+
+
+Petitioners’ contention is further undercut by this 
+Court’s decision in Medtronic, Inc. v. Lohr, supra, where the 
+defendant manufactured a pacemaker without any premarket 
+review by the FDA, and needed to comply only with the 
+FDA’s general rules regulating manufacturing processes and 
+designs. A majority of this Court held that general FDA 
+regulations applicable to all medical devices, as opposed to 
+FDA regulations specific to a particular device, do not 
+preempt common-law actions because there was no analysis 
+by the federal government about the particular requirement 
+in question. 518 U.S. at 501. However, a majority of this 
+Court signaled that if there is a “substantive requirement for 
+a specific device,” there is no need to reach the express 
+preemption issue “if the claim would also be 
+under conflict preemption analysis.” 518 U.S. at 503; see 
+also 518 U.S. st 907 Gutlide Beuyer’s convuting opinion 
+citing to “ordinary principles of ‘conflict’... preemption”). 
+
+
+Nothing in the Cipollone opinion suggests that this 
+Court overruled prior preemption decisions, or charted new 
+ground. It is implausible that the Cipollone court intended to 
+silently repudiate a long line of preemption decisions 
+accepting implied preemption arguments regarding statutes 
+with express preemption clauses. See e.g., Ingersoll-Rand 
+Co. v. McClendon, 498 U.S. 133, 139 ( (1990); Jones v. Rath 
+Packing Co., 430 U.S. 519, 540 (1977). Indeed, this Court, 
+just six days before Cipollone, found implied preemption 
+notwithstanding the existence of an express preemption 
+clause. See Gade v. National Solid Wastes 
+Ass'n, 505 U.S. 88, 104 (1992) (“the implications of the text 
+of the statute evince a congressional intent to preempt non- 
+er State regulations when a federal standard is in 
+e . 
+
+
+22 
+
+
+Subsequent decisions of this Court also demonstrate 
+that there may be implied preemption in federal “oe ge 
+express preemption clauses. See CSX_ Transp. _V. 
+Easterwood, 507 U.S. 658 (1993); John Hancock Mut. Life 
+Ins. Co. v. Harris Trust & Sav. Bank, 510 U.S. 86 (1993). 
+
+
+In sum, the Court of Appeals properly determined 
+that “the tension between §§ 1392(d) and 1397(k) prevents 
+the identification of any ‘express definition’ of the reach of 
+preemption in the Safety Act”; therefore “Cipollone does not 
+bar this Court from considering Honda’s implied preemption 
+argument.” App. 13. 
+
+
+F. A Common Law Rule Requiring Airbags 
+in 1987 Vehicles Would Destroy The 
+Options and Flexibility at the Heart of 
+FMVSS 208 
+
+
+The Court of Appeals rightfully recognized that the 
+effect of allowing petitioners’ no-airbag claim to proceed 
+would “frustrate the Department’s policy of encouraging 
+both public acceptance of the airbag technology and 
+experimentation with better passive restraint systems”. App. 
+15. The Court analyzed the regulatory history, and noted 
+that “a performance standard making airbags one of several 
+options car manufacturers could choose to comply with the 
+passive restraint requirements of standard 208, rather than 
+mandating specific use of one safety device, would advance 
+public safety in two respects, by allowing consumers to 
+adjust to the new technology and by permitting 
+experimentation with designs for even safer systems. 49 
+Fed. Reg. at 28,988, 28,997.” App. 15. 
+
+
+The District of Columbia Circuit, of course, is 
+uniquely experienced in the analysis of federal regulatory 
+schemes both in general and in the particular context of 
+FMVSS 208. See e.g. Motor Vehicle Mfrs. Ass’n. of the 
+
+
+23 
+
+
+United States, Inc. v. State Farm Mut. Auto. Ins. Co., 463 
+U.S. 29 (i983); State Farm Mut. Auto. Ins. Co. v. Dole, 802 
+F.2d 474 (D.C. Cir. 1986), cert, denied, 480 U.S. 951 (1987); 
+Public Citizen v. Steed, 851 F.2d 444 (D.C. Cir. 1988) 
+
+
+{opinion by then Circuit Judge Ruth Bader Ginsburg]. 
+
+
+Petitioners’ asserted common law standard takes 
+away the federally mandated options and flexibility. See 
+Pokorny v. Ford Motor Co., 902 F.2d 1116 (3 Cir. 1990). 
+In Pokorny, the Third Circuit held that allowing plaintiff to 
+assert a no-airbag claim “frustrates the goals of the federal 
+regulatory framework and undermines the flexibility that 
+Congress and the Department of Transportation intended to 
+give to automobile manufacturers in this area.” The 
+Eleventh Circuit in Taylor v. General Motors Corp., 875 
+F.2d 816, 827 (11™ Cir. 1989) similarly noted that, if no- 
+airbag claims are allowed, this would “remove the element 
+of choice authorized in Safety Standard 208,” would “take 
+away the flexibility provided by a federal regulation” and 
+would thus “frustrate the regulatory scheme.” 
+
+
+Moreover, the District of Columbia’s decision is in 
+harmony with a number of this Court’s decisions on 
+preemption. See, e.g., American Tel. and Tel. Co. v. Central 
+Office Tel. Inc., 524 U.S. 214 (1998) [preempting state law 
+claims that sought to bar activity authorized by federal 
+statute]; Barnett Bank of Marion County v. Nelson, 517 U.S. 
+25 (1996) [preempting state law that prohibited activity 
+expressly permitted by federal statute]; CSX Transp. Inc. v. 
+Easterwood, 507 U.S. 658 (1993) [holding common law 
+standard based on train speed specifically permitted by an 
+applicable federal standard was preempted]; Fidelity Fed. 
+Sav. And Loan Ass’n v. de la Cuesta, 458 U.S. 141, 156 
+(1982) [finding preemption of common law claim seeking to 
+prohibit use of due-on-sale clause explicitly permitted by 
+federal statute]; Chicago and N.W. Transp. Co. v. Kalo Brick 
+& Tile Co., 450 U.S. 311, 325-26 (1981) [holding that a state 
+
+
+24 
+
+
+could not use “the threat of damages” to prevent the 
+defendant from doing that which the federal agency 
+specifically allowed under its duly-delegated authority]. 
+
+
+G. Section 1397(k) of the Safety Act Does 
+Not Preserve Preempted State Claims 
+
+
+_ Petitioners argue that there can be no preemption of 
+any common law claim because of § 1397(k), which 
+petitioners mischaracterize as an “anti-preemption 
+provision.” Pet. at 25. Im fact, § 1397(k): (1) never 
+mentions the word “preemption,” (2) never addresses the 
+preemption clause, and (3) is located several sections apart 
+from the preemption clause. While respondents have no 
+quarrel with the rule that words in a statute should be given 
+their plain and ordinary meaning, petitioners’ discussion of 
+an “anti-preemption provision” goes well beyond the actual 
+words of the statute. 
+
+
+Section 1397(k) provides: 
+
+
+Compliance with any federal motor vehicle 
+safety standard issued under this subchapter 
+does not exempt any person from any 
+liability under common law. 
+
+
+Several factors indicate that § 1397(k) was not 
+intended to be a provision that relates to the issue of 
+preemption. The Court of Appeals cited Harris v. Ford 
+Motor Co., 110 F.3d 1410, 1415 (9™ Cir. 1997) for the 
+proposition that “the most reasonable and plausible reading 
+of § 1397(k) ... is that compliance with federal standards 
+does not exempt anyone from liability that the states have 
+authority to impose.” § 1397(k) merely negates the 
+availability of compliance with all government standards as 
+an affirmative defense to common law actions. See Gracia 
+v. Volvo Europa Truck, N.V., 112 F.3d 291, 298 (7® Cir. 
+1997); see also Wood v. General Motors Corp., 865 F.2d 
+
+
+25 
+
+
+395, 417 (1* Cir. 1988) [compliance is not a complete 
+defense “on the merits of a defective design claim”). 
+
+
+The narrow language of § 1397(k) - “compliance 
+with any federal motor vehicle safety standard” - is much 
+narrower than the two exceptions incorporated into Section 
+1392(d), which are true savings clauses. Each of these two 
+savings clauses (for enforcement of identical state standards 
+and for vehicles bought for the state’s own use) begin with 
+the clear traditional savings language, “Nothing in this 
+section shall be construed.” The two savings clauses in 
+1392(d) state: 
+
+
+Nothing in this section shall be construed as 
+preventing any State from enforcing any 
+safety standard which is identical to a 
+Federal safety standard. Nothing in this 
+section shall be construed to prevent the 
+Federal Government or the government of 
+any State or political subdivision thereof 
+from establishing a safety requirement 
+applicable to motor vehicles or motor 
+vehicle equipment procured for its own use 
+of such requirement imposes a_ higher 
+standard of performance than that required 
+to comply with the otherwise applicable 
+Federal standard (emphasis added). 
+
+
+True savings clauses use broader language, not the 
+narrow “compliance with” language of § 1397(k). See 
+Wood v. General Motors Corp., supra. 865 F.2d at 401, n. 8, 
+417-18." Moreover, as this Court has recognized, “the 
+
+
+~ 
+
+
+ani nek SUS USOT Mut. Life Ins. Co. v. Harris Trust & 
+Retirement Income Security Act, 29 U.S.C. § 1144(b\2)A), which 
+states that the statute “shall not be construed to exempt or relieve any 
+person from any law of any state which regulates insurance banking, or 
+
+
+26 
+
+
+evidence of preemptive purpose is sought in the text and 
+structure of the statute at issue.” CSX Transp., Inc. v. 
+Easterwood, 507 U.S. 658 (1993). Here, § 1397(k) appears a 
+full five sections after 1392(d), evidence it was not intended 
+to address preemption. § 1392(d) is entitled “Supremacy of 
+Federal Standards.” §1397(k) makes no reference to the 
+Supremacy Clause. This further reinforces the conclusion 
+that 1397(k) was never intended to create a sweeping 
+exception to Section 1392(d). 
+
+
+Moreover, the legislative history demonstrates that 
+the purpose of § 1397(k) was only to negate the evidentiary 
+defense of compliance with federal standards [“compliance 
+with federal standards may be offered in any proceeding for 
+such relevance and weight as courts and juries may give it”] 
+(112 Cong. Rec. at 21,490); [“This provision does not 
+prevent any person from introducing in a lawsuit evidence of 
+compliance or non-compliance with federal standards. No 
+court rules of evidence are intended to be altered by this 
+provision”] (112 Cong. Rec. at 21,487). Compliance as a 
+defense on the merits, of course, is entirely different from 
+preemption. See Wood v. General Motors Corp., supra, 865 
+F.2d at 417. Moreover, the legislative history does not speak 
+to conflict preemption, and does not “specifically address the 
+status of conflicting design standards established through the 
+mechanism of common law suits.” See Wood v. General 
+Motors Corp., supra, 865 F.2d at 406. If anything, the 
+
+
+securities”]; Morales v. Trans World Airlines, Inc., 504 U.S. 374, 378 
+(1992) [interpreting savings clause of Federal Aviation Act of 1958, 49 
+U.S.C. § 1506, which states, “nothing...in this chapter shall in any way 
+abridge or alter the remedies now existing as common law or by statute, 
+but the provisions of the chapter are in addition to such remedies”); 
+Cipollone v. Liggett Group, Inc., 505 U.S. at 518 (1992) [ref-zring to 
+savings clause of Comprehensive Smokeless Tobacco Health Education 
+Act of 1986, 15 U.S.C. § 4406(c), which states, “nothing in this Act shall 
+relieve any person from any liability, under common law or under state 
+statutory law, to any other person”). 
+
+
+27 
+
+
+legislative history stresses the need for uniformity of 
+standards. See, e.g., 112 Cong. Rec. at 14253 (conflicting 
+oe eS ee 
+
+
+There is an “important distinction” between federal 
+preemption and “the question of whether and to what extent, 
+as a matter of state tort law, compliance with product safety 
+Statutes or administrative regulations affects liability for 
+product defecti iveness.” See Restatement (Third) of Torts: 
+Products Liability, § 4, cmt. e (Proposed Final Draft 1997). 
+The legislative history’s reference to “evidence” and 
+“relevance” establishes that the States will have the 
+flexibility to determine whether a party’s compliance with 
+pertinent federal requirements can serve as the basis for an 
+affirmative defense under state law. In practice, the States 
+have differed on this issue of state law.* 
+
+
+In any event, even if § 1397(k) is deemed to be a true 
+savings clause, a century of cases from this Court makes 
+
+
+Others hold compliance with federal standards is relevant to whether 
+there is a defect, but not conclusive or presumptive evidence. E.g., 
+
+
+meager v. Clark Equip. Co.. 700 A-2d 38, *»-50 (Conn. 1997); Brooks v. 
+Beech eo 1996). A few States hold 
+that conclusively negates any defect, see, ¢.g., Beatty v. 
+aay 625 A.2d 1005, 1013-14 (Md. 1993), while others 
+treat as irrelevant and inadmissible, see, ¢.g., Sheehan v. 
+Cc 555 A.2d 1352, 1355 (Pa. Super. 1989). 
+
+
+13 ) was enacted because Congress decided that the states 
+continue to maintain diverse views on this issue. 
+
+
+L 
+
+
+28 
+
+
+of the act”; an act “cannot be read to destroy itself.” Texas 
+& Pacific Ry. v. Abilene Cotton Oil Co., 204 U.S. 426, 446 
+(1907). That principle stands to this day. See American Tel. 
+And Tel. Co. v. Central Office Tel. Inc., 524 U.S. 214, 1965 
+(1998); Morales v. Trans World Airlines, Inc., 504 U.S. 374, 
+383 (1992); Chicago N.W. Transp. Co. v. Kalo Brick & Tile 
+Co., 450 U.S. 311, 328-31 (1981). 
+
+
+Thus, the Circuit Courts of Appeals have agreed that 
+“[g)jeneral savings clauses may not be read literally to pern." 
+common law actions that contradict and subvert a statutory 
+scheme.” Wood v. General Motors Corp., supra., 865 F.2d 
+at 415; see also Taylor v. General Motors Corp., supra, 875 
+F.2d at 827 n.20 [a “general savings clause, such as that 
+contained in the Safety Act, does not “foreclose a finding of 
+implied preemption”); v. Ford Motor Co., supra, 
+902 F.2d at 1125 [“it is well-established that a savings clause 
+like § 1397(k) does not ‘save’ common law actions that 
+would subvert a federal statutory or regulatory scheme”); see 
+also Miranda v. Fridman, 647 A.2d 167, 174 (N.J. App. Div. 
+1994) [“[I}t demeans Congress to conclude” that it 
+“purposely wrote the savings clause to tear down the barrier 
+clause was written to erect”). 
+
+In sum, the Court of Appeals correctly determined 
+
+
+that a statute should not be interpreted to destroy itself, or to 
+strip itself of its intended efficacy. 
+
+
+29 
+
+
+CONCLUSION 
+
+
+The Petition for a writ of certiorari should be denied. 
+
+
+Dated: July 9, 1999 
+
+
+Respectfully submitted, 
+
+
+(Counsel of Record) 
+
+PIPER & MARBURY, L.L.P. 
+1200 Nineteenth Street, N.W. 
+Washington, DC 20036 
+
+(202) 861-3900 
+
+
+Eric A. Portuguese 
+
+Lester Schwab Katz & Dwyer 
+120 Broadway 
+
+New York, New York 10271 
+(212) 964-6611 
+
+
+Attorneys for Respondents 
+American Honda Motor Co., Inc., 
+Honda of America Mfg., Inc. and 
+Honda Motor Co., Ltd. 
+
+

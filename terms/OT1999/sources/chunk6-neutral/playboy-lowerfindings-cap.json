@@ -1,0 +1,708 @@
+{
+  "id": 387785,
+  "name": "PLAYBOY ENTERTAINMENT GROUP, INC., Plaintiff, v. UNITED STATES of America, et al., Defendants",
+  "name_abbreviation": "Playboy Entertainment Group, Inc. v. United States",
+  "decision_date": "1998-12-28",
+  "docket_number": "No. Civ.A. 96-94-JJF",
+  "first_page": "702",
+  "last_page": "720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 F. Supp. 2d 702"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D. Del.",
+    "id": 8973,
+    "name": "United States District Court for the District of Delaware"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "413 U.S. 49",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11338826
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "57-61",
+          "parenthetical": "in the context of regulating obscene materials exhibited at \"adult\" theatres, rejecting the requirement of scientific data conclusively demonstrating the exposure to obscene material adversely affects people"
+        },
+        {
+          "parenthetical": "in the context of regulating obscene materials exhibited at \"adult\" theatres, rejecting the requirement of scientific data conclusively demonstrating the exposure to obscene material adversely affects people"
+        },
+        {
+          "parenthetical": "in the context of regulating obscene materials exhibited at \"adult\" theatres, rejecting the requirement of scientific data conclusively demonstrating the exposure to obscene material adversely affects people"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0049-01"
+      ]
+    },
+    {
+      "cite": "47 U.S.C. \u00a7 544",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "(d)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 60",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6191045
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "73-74",
+          "parenthetical": "parental discretion controlling access to unsolicited contraceptive advertisements in the home is the preferred method of dealing with such material"
+        },
+        {
+          "parenthetical": "parental discretion controlling access to unsolicited contraceptive advertisements in the home is the preferred method of dealing with such material"
+        },
+        {
+          "parenthetical": "parental discretion controlling access to unsolicited contraceptive advertisements in the home is the preferred method of dealing with such material"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0060-01"
+      ]
+    },
+    {
+      "cite": "938 F.2d 1535",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535037
+      ],
+      "pin_cites": [
+        {
+          "page": "1542"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/938/1535-01"
+      ]
+    },
+    {
+      "cite": "896 F.2d 780",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10535642
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/896/0780-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 728",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058121
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding a statute allowing private individuals to direct the Postmaster General to cease mailing \"erotically arousing or sexually provocative\" materials to their homes, noting that Congress passed the statute in order to protect the privacy of homes from unsolicited sexual materials"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0728-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 417",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216791
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "448-19",
+          "parenthetical": "justifying waiting period before minor may exercise her fundamental right to an abortion in part on the basis of parental interest in discussing implications of abortion decision, and providing guidance"
+        },
+        {
+          "parenthetical": "justifying waiting period before minor may exercise her fundamental right to an abortion in part on the basis of parental interest in discussing implications of abortion decision, and providing guidance"
+        },
+        {
+          "parenthetical": "justifying waiting period before minor may exercise her fundamental right to an abortion in part on the basis of parental interest in discussing implications of abortion decision, and providing guidance"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0417-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170178
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0205-01"
+      ]
+    },
+    {
+      "cite": "262 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141776
+      ],
+      "weight": 3,
+      "year": 1923,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/262/0390-01"
+      ]
+    },
+    {
+      "cite": "268 U.S. 510",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13076
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/268/0510-01"
+      ]
+    },
+    {
+      "cite": "134 F.3d 63",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11585264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/134/0063-01"
+      ]
+    },
+    {
+      "cite": "58 F.3d 654",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7411688,
+        5867538
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "661-62"
+        },
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/58/0654-01",
+        "/us-app-dc/313/0094-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 675",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6211457
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "empirical proof of harm not required for restriction of speech in school setting"
+        },
+        {
+          "parenthetical": "empirical proof of harm not required for restriction of speech in school setting"
+        },
+        {
+          "parenthetical": "empirical proof of harm not required for restriction of speech in school setting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0675-01"
+      ]
+    },
+    {
+      "cite": "321 U.S. 158",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        302055
+      ],
+      "weight": 3,
+      "year": 1944,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/321/0158-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 629",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176239
+      ],
+      "weight": 7,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "640-41",
+          "parenthetical": "upholding a statute prohibiting the sale to minors of sexually explicit magazines"
+        },
+        {
+          "parenthetical": "upholding a statute prohibiting the sale to minors of sexually explicit magazines"
+        },
+        {
+          "parenthetical": "upholding a statute prohibiting the sale to minors of sexually explicit magazines"
+        },
+        {
+          "page": "639"
+        },
+        {
+          "page": "641-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/390/0629-01"
+      ]
+    },
+    {
+      "cite": "492 U.S. 115",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6211936
+      ],
+      "weight": 7,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "126"
+        },
+        {
+          "page": "130-31"
+        },
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/492/0115-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 726",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769229
+      ],
+      "weight": 12,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "748-50",
+          "parenthetical": "radio broadcasting is pervasive and to which children are easily exposed"
+        },
+        {
+          "parenthetical": "radio broadcasting is pervasive and to which children are easily exposed"
+        },
+        {
+          "parenthetical": "radio broadcasting is pervasive and to which children are easily exposed"
+        },
+        {
+          "parenthetical": "Court relied on the Government's interest in the well-being of children in upholding the constitutionality of the FCC's decision to prohibit the radio broadcast of indecent language during the day"
+        },
+        {
+          "parenthetical": "Court relied on the Government's interest in the well-being of children in upholding the constitutionality of the FCC's decision to prohibit the radio broadcast of indecent language during the day"
+        },
+        {
+          "parenthetical": "Court relied on the Government's interest in the well-being of children in upholding the constitutionality of the FCC's decision to prohibit the radio broadcast of indecent language during the day"
+        },
+        {
+          "page": "3040"
+        },
+        {
+          "page": "3040"
+        },
+        {
+          "page": "749-50"
+        },
+        {
+          "page": "749-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0726-01"
+      ]
+    },
+    {
+      "cite": "139 L.Ed.2d 261",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 S.Ct. 336",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 F.3d 164",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7636472
+      ],
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-1412-01"
+      ]
+    },
+    {
+      "cite": "126 F.3d 555",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        943636
+      ],
+      "pin_cites": [
+        {
+          "page": "558-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/126/0555-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13521
+      ],
+      "weight": 5,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "319-21",
+          "parenthetical": "\"[I]f the ordinance [in Renton] was justified by the city's desire to prevent the psychological damage it felt was associated with viewing adult movies, then analysis of the measure as a content-based statute would have been appropriate.\""
+        },
+        {
+          "parenthetical": "\"[I]f the ordinance [in Renton] was justified by the city's desire to prevent the psychological damage it felt was associated with viewing adult movies, then analysis of the measure as a content-based statute would have been appropriate.\""
+        },
+        {
+          "parenthetical": "\"[I]f the ordinance [in Renton] was justified by the city's desire to prevent the psychological damage it felt was associated with viewing adult movies, then analysis of the measure as a content-based statute would have been appropriate.\""
+        },
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0312-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196723
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "46-47",
+          "parenthetical": "holding that a zoning ordinance that prohibited motion picture theatres from locating within 1000 feet of certain residential zones was properly analyzed as a time, place and manner restriction, and thus subject to intermediate scrutiny"
+        },
+        {
+          "parenthetical": "holding that a zoning ordinance that prohibited motion picture theatres from locating within 1000 feet of certain residential zones was properly analyzed as a time, place and manner restriction, and thus subject to intermediate scrutiny"
+        },
+        {
+          "parenthetical": "holding that a zoning ordinance that prohibited motion picture theatres from locating within 1000 feet of certain residential zones was properly analyzed as a time, place and manner restriction, and thus subject to intermediate scrutiny"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0041-01"
+      ]
+    },
+    {
+      "cite": "521 U.S. 844",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        916080
+      ],
+      "weight": 9,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[sjexual expression which is indecent but not obscene is protected by the First Amendment\""
+        },
+        {
+          "page": "2346",
+          "parenthetical": "\"[sjexual expression which is indecent but not obscene is protected by the First Amendment\""
+        },
+        {
+          "parenthetical": "\"[sjexual expression which is indecent but not obscene is protected by the First Amendment\""
+        },
+        {
+          "page": "2342"
+        },
+        {
+          "parenthetical": "Governmental interest in protecting children from indecent, but not obscene, materials does not justify an unnecessarily broad suppression of speech addressed to adults"
+        },
+        {
+          "page": "2346",
+          "parenthetical": "Governmental interest in protecting children from indecent, but not obscene, materials does not justify an unnecessarily broad suppression of speech addressed to adults"
+        },
+        {
+          "parenthetical": "Governmental interest in protecting children from indecent, but not obscene, materials does not justify an unnecessarily broad suppression of speech addressed to adults"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0844-01"
+      ]
+    },
+    {
+      "cite": "518 U.S. 727",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1729885
+      ],
+      "weight": 8,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "reaffirming the principle that sexual expression which is indecent but not obscene is protected by the First Amendment"
+        },
+        {
+          "parenthetical": "reaffirming the principle that sexual expression which is indecent but not obscene is protected by the First Amendment"
+        },
+        {
+          "parenthetical": "reaffirming the principle that sexual expression which is indecent but not obscene is protected by the First Amendment"
+        },
+        {
+          "page": "744",
+          "parenthetical": "these two factors are as applicable to cable television as to broadcasting"
+        },
+        {
+          "page": "754-55"
+        },
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0727-01"
+      ]
+    },
+    {
+      "cite": "47 U.S.C. \u00a7 560",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 C.F.R. \u00a7 76",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "918 F.Supp. 813",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7799313
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/918/0813-01"
+      ]
+    },
+    {
+      "cite": "137 L.Ed.2d 473",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"PI Opinion\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 1309",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "\"PI Opinion\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "945 F.Supp. 772",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5627431
+      ],
+      "weight": 14,
+      "pin_cites": [
+        {
+          "page": "792"
+        },
+        {
+          "page": "776-782"
+        },
+        {
+          "page": "779, \u00b6 14"
+        },
+        {
+          "page": "781, \u00b6 23"
+        },
+        {
+          "page": "785"
+        },
+        {
+          "page": "789"
+        },
+        {
+          "page": "781, \u00b6 24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/945/0772-01"
+      ]
+    },
+    {
+      "cite": "47 U.S.C. \u00a7 561",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "parenthetical": "\"CDA\""
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 2358,
+    "char_count": 68520,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 6.231522712253671e-08,
+      "percentile": 0.3853359790474271
+    },
+    "sha256": "2c870b95172ad237965a4f5f4178464bd0eaefed5c29da53263f60e2117504cb",
+    "simhash": "1:a4f234378b223a78",
+    "word_count": 10870
+  },
+  "last_updated": "2024-02-27T23:30:10.437844+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PLAYBOY ENTERTAINMENT GROUP, INC., Plaintiff, v. UNITED STATES of America, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nROTH, Circuit Judge.\nPlaintiff, Playboy Entertainment Group, Inc. (\u201cPlayboy\u201d) challenges the constitutionality of section 505 of the Communications Decency Act of 1996, 47 U.S.C. \u00a7 561 (\u201cCDA\u201d) which regulates signal bleed, i.e., the partial reception of sexually explicit adult cable television programming in the homes of non-subscribers to that programming. Playboy seeks a declaratory judgment that \u00a7 505 violates the First Amendment and the Equal Protection guarantee of the Fifth Amendment of the United States Constitution and also seeks injunctive relief, preventing the United States, the United States Department of Justice, Attorney General Janet Reno, and the Federal Communications Commission (collectively \u201cthe Government\u201d) from enforcing Section 505.\nI. Procedural Background\nThe procedural background of this lawsuit is described at length in our opinion denying the preliminary injunction. See Playboy Entertainment Group, Inc. v. United States of America, 945 F.Supp. 772 (D.Del.1996), aff'd mem., \u2014 U.S. \u2014, 117 S.Ct. 1309, 137 L.Ed.2d 473 (1997) (\u201cPI Opinion\u201d). We will set out that background briefly here.\nOn February 26, 1996, Playboy filed an action challenging \u00a7 505 of the CDA. Playboy\u2019s action was consolidated with one brought by Graff Pay-Per-View (\u201cGraff\u2019), owner of two adult networks, Adam & Eve and Spice. Judge Dolores K. Sloviter of the United States Court of Appeals for the Third Circuit then granted the parties\u2019 request to appoint a three-judge district court pursuant to \u00a7 561(a) of the CDA. She named to the panel Judge Joseph J. Farnan, Jr., of the U.S. District Court for the District of Delaware, Judge Jerome B. Simandle of the U.S. District Court for the District of New Jersey, and Judge Jane R. Roth of the U.S. Court of Appeals for the Third Circuit.\nOn March 7, 1996, Judge Farnan . granted Playboy\u2019s motion for a temporary restraining order, enjoining enforcement of \u00a7 505 until the matter could be heard by the three judge panel. Playboy Entertainment Group, Inc. v. United States of America, 918 F.Supp. 813 (D.Del.1996) (\u201cTRO Opinion\u201d).\nAfter a hearing, the three judge panel on November 9, 1996, denied Playboy\u2019s application for a preliminary injunction and lifted the temporary restraining order. See PI Opinion, 945 F.Supp. at 792. After affir-mance of that order by the Supreme Court, Graff withdrew from the litigation, but Playboy pressed on.\nPlayboy contends that \u00a7 505 infringes the free speech protections provided by the First Amendment of the U.S. Constitution. Additionally, Playboy asserts that the language of \u00a7 505 is unconstitutionally vague. Finally, Playboy claims that \u00a7 505 violates the Equal Protection guarantee of the Fifth Amendment of the U.S. Constitution by singling out Playboy as a network \u201cprimarily dedicated to sexually oriented programming,\u201d while not regulating signal bleed from other premium networks which transmit sexually oriented programs. The parties cross-moved for partial summary judgment on the vagueness issue; these motions were denied on October 31, 1997. A pretrial conference was held on February 19, 1998, and trial was held on March 4-6, 1998, and post-trial argument on May 28,1998.\nII. Findings of Fact\nWhile many of the background facts, especially regarding the technology of cable transmission, are set out in our opinion denying the preliminary injunction, see PI Opinion, 945 F.Supp. at 776-782, some bear repeating.\n1.Playboy challenges \u00a7 505 of the CDA, 47 U.S.C. \u00a7 561, entitled \u201cScrambling of sexually explicit adult video service programming.\u201d This section requires a multisystem operator (\u201cMSO\u201d) either to fully scramble or to time channel \u201csexually explicit adult programming or other programming that is indecent\u201d on any of its channels that are \u201cprimarily dedicated to sexually-oriented programming.\u201d The purpose of this provision is to eliminate \u201csignal bleed,\u201d which is the partial reception of video images and/or audio sounds on a scrambled channel. The stated methods of eliminating signal bleed are either by blocking the transmission of the targeted programming or by limiting its transmission to the hours of the day when a significant number of children are not likely to view it (\u201csafe harbour hours\u201d). The FCC regulation implementing time channeling would limit adult programming to the period between 10:00 p.m. and 6:00 a.m. In re Implementation of Section 505 of the Telecommunications Act of 1996, CS Dkt. No. 96-40, FCC 96-84, Order & Notice of Proposed Rulemaking amending 47 C.F.R. \u00a7 76 \u00b6 6.\n2. MSOs provide cable subscribers with various packages of cable channels for which the subscribers pay a monthly fee. There is a \u201cbasic\u201d package of local broadcast networks {e.g., ABC, CBS, Fox, and NBC), leased and public access channels, and news, education, music, sports and shopping networks. MSOs also provide \u201cpremium\u201d channels, for which they charge an additional fee. These premium channels include HBO, Cinemax, Showtime, and the adult entertainment channels. Premium programming may also be offered on a \u201cpay-per-view\u201d basis. The pay-per-view customer places an order with the cable operator for a specific program or a specific period of time. When a consumer places a pay-per-view order, the MSO unscrambles the signal for the viewing period and then rescrambles it by remote accessing a converter box in the subscriber\u2019s home.\n3. Playboy and Graf provide MSOs with adult, sexually oriented video programming. The MSOs then transmit the programming to premium subscribers and pay-per-view purchasers. Playboy owns two adult-programming networks, Playboy Television and AdulTVision. The programming on the Playboy network is virtually 100% sexually explicit adult programming. On a yearly basis, 3 million households subscribe to and/or receive pay-per-view sexually explicit adult programming through the Playboy or Graf channels.\n4. Other non-adult premium networks have obtained licenses to exhibit particular Playboy films. In addition, non-adult premium and basic cable channels will at times transmit sexually explicit programs or programs which contain some sexually explicit scenes. At the PI hearing, we noted as an example that the number of sexually explicit programs available on non-adult channels on one Friday evening in Denver, Colorado, was one-sixteenth that shown on the adult channels. Moreover, unlike the adult channels, the sexually explicit programming on non-adult channels was mainly \u201cR\u201d rated movies which contained some sexually explicit scenes but were not continuously sexually explicit.\n5. MSOs receive signals, mainly in analog form, from many sources, such as master antennas, satellites, and local television stations. The signals are received at the system transmitter or \u201chead-end\u201d where they are amplified and retransmitted by coaxial cable. Cable subscribers receive the channels directly by cable, if they own a cable-ready television, or by attaching the cable to a converter box if they own a non-cable-ready television. A recent development in signal transmission is the Head-End-in-the-Sky (\u201cHITS\u201d), an orbiting digital platform which takes network signals, like Playboy\u2019s, and bounces them from a satellite in digital form to a cable system\u2019s receive station. The cable system then pumps the digital signal down an analog cable television wire to a consumer\u2019s home where a set-top box converts the signal back to an analog one suitable for the standard contemporary television set. The box required to make this conversion is fairly expensive and there are fewer than 50,000 homes today with a digital box. An additional 3 million cable homes receive a direct digital signal.\n6. Because of the additional cost of premium and pay-per-view programming, MSOs seek to secure these signals for subscribers only. To prevent a signal from reaching the home of a non-subscriber, MSOs \u201cscramble\u201d the signal in an analog system by using either \u201cRF\u201d or \u201cbaseband\u201d technology. Generally, the scrambling affects only the video portion of the transmission.\n7. Cable television technology has evolved over the last 20 years. A variety of scrambling technologies are used by MSOs when broadcasting in analog form. Forms of scrambling are\na) \u201cRF\u201d or \u201cbaseband\u201d scrambling. This is the method most MSOs use for a signal sent by coaxial cable from the MSO to cable subscribers. Generally, this type of scrambling affects only the video portion of the transmission. Some baseband systems, however, include audio encryption as well. Once the signal is scrambled, the MSO must then descramble it for subscribers.\nb) Positive traps. These are devices that are installed at the MSO transmitter and jam the signal of the channel being secured. Nonsubscribers to that channel will receive only \u201csnow\u201d for video and a high-pitched beep for audio. Subscribers to the jammed channel receive a metal cylinder, the positive trap, which is attached to a cable-ready TV or to the set-top converter box in order to filter out the jamming signal.\nc) Negative traps. In the ease of negative trapping, the signal is transmitted in the clear, and the negative trap, installed on the cable wiring at the homes of the nonsubscri-bers, jams the signal. Negative traps cost between $12 and $15 per household.\nd) Addressable converters. These are boxes which are attached to the television set. The MSO can remotely \u201caddress\u201d an addressable converter by sending out an electrical impulse to deseramble or rescram-ble a signal. Addressable converter technology is the only type that provides the necessary equipment for pay-per-view requests. A converter costs approximately $115 per television set.\n8. Section 505 was enacted to remedy the problem of \u201csignal bleed.\u201d Signal bleed occurs when a signal is not completely scrambled by the MSO\u2019s RF or baseband equipment, and the video and/or audio is wholly or partially discernible. While signal bleed is caused by inadequate RF or baseband technology, bleed does not occur when RF or baseband technology is used in conjunction with positive or negative traps (\u201cdouble scrambling\u201d). In addition, bleed does not occur in systems where TVs have converter boxes, addressable or otherwise, with channel mapping. However, bleed does occur when consumers do not have a converter box with channel mapping or when they have a cable-ready TV, obviating the need for a converter box. Bleed does not occur when MSOs broadcast their signal in digital, as opposed to analog form.\n9. Signal bleed becomes a problem when a cable subscriber, who does not subscribe to a premium channel, tunes to that scrambled channel and receives a signal which may include all or portions of the video picture and/or audio signal. The cause of this phenomenon is known as random lockup. The severity of the problem varies from time to time and place to place, depending on the weather, the quality of the equipment, its installation, and maintenance. Because of the existence of this problem, a child may tune to a scrambled channel and receive discernible images even though the parent is a not a subscriber to the channel. This result\nis of particular concern where the programming is sexually explicit, intended for an adult-only audience.\n10. In addition to \u00a7 505, there are a variety of technologies available to consumers to ensure that they do not receive signal bleed. Under \u00a7 504 of the CD A, 47 U.S.C. \u00a7 560, an MSO, upon request of any cable service subscriber, must, free of charge, fully scramble or fully block both audio and video signals. This would eliminate reception both of undesired channels and of undesired signal bleed. In addition, modern TVs and VCRs have both lockout and V-chip features by which a consumer can program the TV or VCR to block reception either of an undesired channel or of offensive types of programming.\n11. The pervasiveness of the signal bleed problem is a matter of dispute between the parties. At the preliminary injunction stage, we found that 40 million households in the United States have the potential for signal bleed but that the actual number of homes with signal bleed would be less, depending on whether the local MSO employed effective scrambling techniques and on how many of these households already subscribed to adult channels. PI Opinion, 945 F.Supp. at 779, \u00b6 14. We invited the parties to present more specific evidence of this problem at the permanent injunction stage. The Government has now presented two types of evidence: a) a statistical analysis of the number of children potentially exposed to signal bleed, and b) anecdotal evidence of actual exposure.\na) Potential exposure \u2014 The Government presented expert witness testimony that 39 million homes with 29.5 million children have the potential to be exposed to signal bleed from sexually explicit programming on Playboy and Spice. See Defense Exhibit (\u201cDX\u201d) 82, \u00b6 25. Playboy argues that this estimate is too high because it fails to subtract 1) those households that are subscribers of adult programming and therefore are not subject to unwanted bleed, 2) those households on cable systems that employ more advanced technologies that prevent signal bleed, and 3) those households that have TVs, converters, and/or VCRs with built-in child lock circuitry that can bypass the audio and video of any channel. While it is not clear to what degree the Government\u2019s estimate of potential exposure should be lowered, the nature of this dispute points to the underlying problem with the Government\u2019s analysis. The Government presented evidence of households with the \u201cpotential to be exposed\u201d; the Government presented no evidence on the number of households actually exposed to signal bleed and thus has not quantified the actual extent of the problem of signal bleed.\nb) Anecdotal evidence \u2014 The Government presented evidence of two city councillors, eighteen individuals, one United States Senator, and the officials of one city who complained either to their MSO, to their local Congressman, or to the FCC about viewing signal bleed on television. DX 45-59, 61-64, 66-68, 70. In each instance, the local MSO offered to, or did in fact, rectify the situation for free (with the exception of 1 individual), with varying degrees of rapidity. Included in the complaints was the additional concern that other parents might not be aware that their children are exposed to this problem. In addition, the Government presented evidence of a child exposed to signal bleed at a friend\u2019s house. Cindy Omlin set the lockout feature on her remote control to prevent her child from tuning to adult channels, but her eleven year old son was nevertheless exposed to signal bleed when he attended a slumber party, at a friend\u2019s house. Omlin Dep. at 8-19.\n12. The Government has presented evidence of only a handful of isolated incidents over the 16 years since 1982 when Playboy started broadcasting. The Government has not presented any survey-type evidence on the magnitude of the \u201cproblem.\u201d Nor has the Government demonstrated that the theoretical calculation by Dr. Jackson on potential for signal bleed is actual reality \u2014 that in fact x million children are exposed to signal bleed. See Post-trial Argument Tr. 57-62.\nLegislative History of \u00a7 505\n13. On June 12, 1995, after hearings and debate had been held regarding the 1996 Telecommunications Act, Senator Diane Feinstein of California and Senator Trent Lott of Mississippi offered Amendment 1269 which ultimately became Section 505 of the Act.\n14. Senator Feinstein told members of the Senate that \u201c[pjarents ... come home after work only to find their children sitting in front of the television watching or listening to the adult\u2019s-only channel, a channel that many parents did not even know existed.\u201d Cong.Rec. S8167; see Playboy Exhibit (\u201cPX\u201d) 20. She noted that guidelines which put the burden on the subscriber to request complete scrambling of adult channels were inadequate because often non-subscribers are unaware that indecent audio and/or video signals could be received. Id. The object of the amendment, she said, was to \u201cproteet[ ] children by prohibiting sexually explicit programming to those individuals who have not specifically requested such programming.\u201d\n15. Senators Feinstein and Lott each spoke briefly about their proposed amendment. 141 Cong.Rec. S8166-S8169. Except for the statements of Senators Feinstein and Lott, there was no debate on the amendment and no hearings were held on it. The amendment passed easily in the Senate (91 votes in favor and none opposed) and became \u00a7 505 of the bill that emerged from the House/Senate conference.\nHarm from Exposure to Signal Bleed of Sexually Explicit Programming\n16. Playboy's expert witness, Dr. Richard Green, a psychiatrist specializing in the field of psyehosexual development, testified that in his opinion there were no adverse effects demonstrated from exposure of children or adolescents to sexually-explicit video materials. Dr. Green did acknowledge on cross-examination that he had written a book entitled Sex and the Life Cycle in which he stated at page 26 that\nThe overlap between many of the physical behaviors involved in typical sexual conduct and those involved with aggressive conduct renders the visual experiencing of adult sexuality by young children potentially confusing and hazardous.\n17. The Government presented no evidence of a clinical nature showing any harm associated with signal bleed. The Government\u2019s expert witness, Dr. Elissa P. Bene-dek, a board-certified child psychiatrist, testified about the nature and duration of harm that minors might suffer by virtue of being exposed to sexually explicit programming. Dr. Benedek then hypothesized that viewing signal bleed of sexually explicit programming would have a similar effect, perhaps to a lesser degree, as watching sexually explicit programming. For this postulation, Dr. Be-nedek relied on clinical studies done in a related area: the effect on minors of television violence, as well as on anecdotal evidence \u2014 a few isolated incidents of exposure by minors to signal bleed and their reactions.\na) Nature of harm \u2014 Dr. Benedek suggested that most minors would suffer dys-phoria which she explained as \u201ckind of a catch word for unpleasant feelings [that] encompasses disgust, horror, general distaste, and just not feeling good about something.\u201d Trial Tr. 471:24-472:2. In the rare child, Dr. Benedek explained, dysphoria might be correlated with other symptoms such as bed wetting or school phobia. Id at 476:21-77:9. Other children might exhibit modeling behavior: \u201cchildren will imitate, model, attend to, incorporate, assimilate ... materials they are exposed to.\u201d Trial Tr. at 487:18-20. Furthermore, viewing sexually explicit programming might affect a child\u2019s attitudes towards sex \u2014 \u201cthat sexually-explicit images can be confusing to children; that children although they should learn about adult sexuality, can acquire misperceptions about sexuality if they are exposed to explicit sexuality \u2014 especially out-of-context sexuality \u2014 in the wrong environment, and without sufficient preparation; [and] that as a result of viewing sexually explicit television, child\u2019s attitudes can change____\u201d Def. Post-trial R.Br. at 5. Of these harms associated with watching sexually-explicit programming, the only one that Dr. Benedek clearly linked to viewing signal bleed of sexually explicit programming was the modeling of unblocked audio. Trial Tr. at 487.\nb) Duration of Harm \u2014 Dr. Benedek explained that in the vast majority of cases, the effects postulated above would be transient, or temporary. Trial Tr. 501:1-4 (\u201cI would say that in the vast majority of cases, the effects are not long-term effects.\u201d); Benedek Dep. Tr. 138:9-10 (\u201cTransient is less than enduring, so it could be momentary.\u201d).\nThe Technological and Economic Impact of \u00a7 505\n18. At the time of the preliminary injunction hearing, it was not clear what any given MSO, with a system emitting signal bleed, would do when faced with complying with \u00a7 505. Each MSO would have the option of upgrading its technology from analog to digital transmission, of time channeling, or of distributing channel-mapping capable converters, lockboxes, or positive or negative traps to all their customers. Plaintiffs argued that MSOs would find time channeling the least costly choice, losing only 30% of their revenues, whereas losses would average 50% of revenues for the next best option, double scrambling, ie., scrambling via base-band or RF technology plus a positive trap. As predicted, the vast majority (in one survey, 69%) of cable operators have, in response to \u00a7 505, moved to time channeling. See DX 320; PL Post-trial Br. at 54-55. Neither Playboy nor the Government could identify a single cable system that had adopted double scrambling to comply with \u00a7 505. In effect, the practical impact of \u00a7 505 has been to reduce the broadcast day for sexually explicit programming to an eight-hour safe harbor period of 10:00 p.m. to 6:00 a.m. This is because most MSOs have no practical choice but to curtail such programming during the other sixteen hours or risk the penalties imposed by the CDA if any audio or video signal bleed occurs during these times.\n19. The effect on Playboy of cable systems moving to time-channeling is primarily economic. However, Playboy argues that the economic impact of \u00a7 505 is significant and serves as a quantitative measure of the lost First Amendment opportunities suffered by Playboy and its viewers. Time channeling, the removal of sexually explicit programming during two-thirds of the broadcast day, precludes all households from receiving such programming during that time. Given that 30 to 50% of all adult programming is viewed by households prior to 10 p.m., the impact on Playboy and its viewers is significant. Playboy estimates its losses at $25 million through 2007, or 15% of revenues. The Gov-eminent estimates Playboy\u2019s losses through 2002 at $6 million. The actual amount of Playboy\u2019s losses is of little relevance to our First Amendment analysis. Suffice it to say that Playboy will lose a significant amount of money as a result of cable operators\u2019 time channeling in order to comply with \u00a7 505.\nEfficacy of Section 504\n20. Section 504 of the CDA also requires MSOs to completely block upon request any programming that a cable systems customer desires, whether sexually explicit or otherwise. The MSO, not the subscriber, must bear the cost of providing the blocking mechanism. Playboy argues that \u00a7 504 presents a constitutionally \u201cless restrictive alternative\u201d to \u00a7 505 because it would achieve the same purpose: complete blocking for those who want it, with less restriction of Playboy\u2019s First Amendment rights. A key variable in the efficacy of \u00a7 504 is the type of notice that cable system customers receive about their rights under \u00a7 504. As we found at the preliminary injunction stage, \u201c[i]f the \u00a7 504 blocking option is not being promoted, it cannot become a meaningful alternative to the provisions of \u00a7 505.\u201d PI Opinion, 945 F.Supp. at 781, \u00b6 23. There, we invited the parties to present further evidence of \u201cthe actual and predicted impact and efficacy of \u00a7 504.\u201d Id.\n21. The CDA, of which \u00a7\u00a7 504 and 505 are a part, went into effect on March 9,1996. The enforcement of \u00a7 505 was enjoined from March 6, 1996, three days prior to its implementation, until May 18, 1997. This stay provided a 14-month opportunity\u2018to observe the efficacy of \u00a7 504 without \u00a7 505. In that 14 months, the number of lockboxes distributed was minimal. A Government survey determined that cable operators distributed \u00a7 504 lockboxes to block adult cable channels to less than one-half of one percent (0.5%) of their subscribers. Tr. Trans. 655-59 (Dertouzos); DX 154, 145 (survey of 79 MSOs of roughly 6000 country-wide with 62 answering the question of how many adult-channel lockboxes they had distributed since the earliest known date?). A May 1997 memorandum from Jones Intercable (a leading MSO) to its cable systems appears to confirm the Government survey results. DX 137.\n22.If, however, \u00a7 504 is to be an effective alternative to \u00a7 505, adequate notice of the availability of the no-cost blocking devices is critical. In order for Playboy to prevail on its claim that \u00a7 504 is a less restrictive alternative to \u00a7 505, Playboy must demonstrate that \u00a7 504 is efficacious. The type of notice given is crucial to the implementation of \u00a7 504. Parents must be aware that MSOs have the ability to, and are required to, block channels that parents find offensive. Parents must also be aware that the MSOs are required to do so free of charge. The Government notes that \u201ccable operators communicate the availability of channel blocking devices to their subscribers through a variety of means such as monthly billing inserts, special mailings, barker channels, and adult-channel advertisements.\u201d Gov\u2019t Post-trial Br. at 41 referring to two sample inserts PX 194, 196.\n23. Notwithstanding the adequacy of any notice given, the Government argues that \u00a7 504 is not a less restrictive alternative because it is not effective at controlling the problem of signal bleed; the mere fact that so few lockboxes were distributed suggests that voluntary requests for lockboxes will not solve the problem. Playboy provides an alternate explanation for the low number of boxes distributed \u2014 the lack of parents\u2019 concern. If parents don\u2019t think signal bleed is a problem, they won\u2019t request lockboxes, whether free or otherwise. The underlying premise of Playboy\u2019s argument is that parents are aware of the occasional signal-bleed situation and have decided that it is not a problem.\n24. The Government enumerates other potential problems regarding \u00a7 504. The Government suggests that it may take weeks for cable operators to comply with a subscriber\u2019s request for a lockbox. Cavalier Dep. at 17-22, 27; Bennett Dep. at 9-10. The Government also contends that the device may fail. Henne Dep. at 9-10. In addition, after a subscriber has installed a blocking device, the cable operator may move the adult network to a different channel, rendering the block ineffective. Henne Dep. at 11-16.\n25. Concerning the economic feasibility of \u00a7 504, the Government presented evidence that the distribution of lockboxes to a sufficient number of customers to effectively control the problem of signal bleed is not economically feasible. The Government\u2019s economics expert, Dr. Dertouzos studied the \u201cbreak-even\u201d point \u2014 the point at which the cost of distributing lockboxes would exhaust all of a cable system\u2019s adult channel reve-n\u00faes. He determined that even if a substantial number of parents requested lockboxes, it is \u201ceconomically unfeasible to distribute more than a trivial number of [lockboxes] to subscribers.\u201d Trial Tr. at 661-62. Using Playboy\u2019s buy rate for the first quarter of 1997 and the average retail price for Playboy programming during that period, the number of traps that could be distributed is 3.0 percent of the subscriber base. Gov\u2019t Post-trial Br. at 43. If one considers a five year revenue stream in the break-even analysis, the number of traps that could be distributed rises to 6.0 percent of the subscriber base. Id. The finding that the cost of distribution of boxes is not feasible for a cable system is confirmed by the statement of Playboy\u2019s expert witness, John Mancell. Maneell attested that the cost of distributing negative traps to 56 percent of subscribers without addressable converters would exceed $434 million, PX 61, \u00b6\u00b68, 20, which is far above cable operators\u2019 revenues from adult-networks, estimated at $78 million. PX 60, \u00b621. Economic theory would suggest that profit-maximizing cable operators would cease carriage of adult channels if the cost of distributing boxes exceeded the revenue generated by the adult channels, or even if costs rose to such a point that the profit from adult channels was less than the profit from channels unlikely to require blocking. Trial Tr. at 941.\nIII. Conclusions of Law\nPlayboy seeks a declaratory judgment that \u00a7 505 of the CDA is unconstitutional and an injunction against the Government from enforcing its provisions. Playboy challenges \u00a7 505 on the grounds that it is a content-based restriction on speech that must satisfy strict scrutiny under the First and Fifth Amendments, that the Government did not meet its burden of demonstrating that \u00a7 505 is necessary to serve a compelling governmental interest, and that \u00a7 505 does not employ the least restrictive means of addressing the issue of signal bleed. Playboy argues as well that \u00a7 505 violates the Equal Protection guarantee of the Fifth Amendment of the U.S. Constitution and contains unconstitutionally vague terminology. Because we find that \u00a7 505 is not the least restrictive means of addressing the issue of signal bleed, we hold that \u00a7 505 violates the First Amendment. For that reason, we do not reach Playboy\u2019s other arguments regarding equal protection and vagueness.\nStandard of Review\nPlayboy claims that \u00a7 505 burdens its rights guaranteed under the First Amendment by inhibiting its freedom of speech. The First Amendment provides: \u201cCongress shall make no law ... abridging the freedom of speech.\u201d U.S. Const, amend. I. Our first task is to determine the standard of review to which we will subject the statute at issue. At the preliminary injunction stage, we held that \u201c \u00a7 505 should be treated as a content-based restriction on speech\u201d and that \u201cwe should apply either strict scrutiny or something very close to strict scrutiny when a content-based law, applicable in the cable television context, is challenged on the grounds that it violates the First Amendment.\u201d PI Opinion, 945 F.Supp. at 784-85 & n. 24. We recognize in this regard that no majority of the Supreme Court has ever accepted the argument that sexually explicit, but not obscene, material receives less protection under the First Amendment than artistically, politically, or scientifically valued forms of speech. See Denver Area Educ. Telecommunications Consortium v. FCC, 518 U.S. 727, 116 S.Ct. 2374, 135 L.Ed.2d 888 (1996) (reaffirming the principle that sexual expression which is indecent but not obscene is protected by the First Amendment). Nothing presented at trial, and no jurisprudence subsequent to the Preliminary Injunction Opinion in 1996, has changed the analysis or outcome reached there. See, e.g., Reno v. AC.L.U., 521 U.S. 844, 117 S.Ct. 2329, 2346, 138 L.Ed.2d 874 (1997) (\u201c[sjexual expression which is indecent but not obscene is protected by the First Amendment\u201d).\nThe Government continues to argue that its constitutional burden is reduced by virtue of the fact that this legislation is content-neutral and attacks the \u201csecondary effects\u201d of exposure to sexually explicit material. See City of Renton v. Playtime Theatres, Inc., 475 U.S. 41, 46-47, 106 S.Ct. 925, 89 L.Ed.2d 29 (1986) (holding that a zoning ordinance that prohibited motion picture theatres from locating within 1000 feet of certain residential zones was properly analyzed as a time, place and manner restriction, and thus subject to intermediate scrutiny). But it is clear that the Renton \u201csecondary effects\u201d analysis does not apply where regulation of adult movie theatres is based on \u201cthe content of the films being shown inside the theatres.\u201d Boos v. Barry, 485 U.S. 312, 319-21, 108 S.Ct. 1157, 99 L.Ed.2d 333 (1988) (\u201c[I]f the ordinance [in Renton] was justified by the city\u2019s desire to prevent the psychological damage it felt was associated with viewing adult movies, then analysis of the measure as a content-based statute would have been appropriate.\u201d); Reno v. A.C.L.U., 521 U.S. 844, 117 S.Ct. 2329, 2342, 138 L.Ed.2d 874 (rejecting the Government characterization of a regulation on Internet indecency as \u201ccyber-zoning\u201d and thus subject to the Renton \u201csecondary effects\u201d time, place and manner analysis; rather holding that the purpose of the CDA is to protect children from the primary effects of \u201cindecent\u201d and \u201cpatently offensive speech and thus strict scrutiny is appropriate); U.S. Sound & Service, Inc. v. Township of Brick, 126 F.3d 555, 558-59 (3d Cir.1997) (\u201cIf the government regulates non-obscene expression based on its sexually explicit content, the restrictions imposed pass constitutional muster only if they survive \u2018strict scrutiny\u2019 \u2014 that is, only if they serve a compelling state interest in a manner which imposes the least possible burden on expression.\u201d); Phillips v. Borough of Keyport, 107 F.3d 164, 172 (3d Cir.) (en banc), cert. denied, \u2014 U.S. \u2014, 118 S.Ct. 336, 139 L.Ed.2d 261 (1997).\nAs in the preliminary injunction opinion, we continue to view \u00a7 505 as a content-based restriction on speech. See PI Opinion, 945 F.Supp. at 785. Although \u00a7 505 is aimed at preventing signal bleed, a content-neutral objective, the section applies only to signal bleed occurring during the transmission of \u201csexually explicit adult programming or other programming that is indecent.\u201d Signal bleed from the Disney Channel, for example, does not come within the purview of the statute. Congress\u2019s targeting of signal bleed of solely sexually explicit programming is a content-based restriction.\nTo be sure, the context of this content-based restriction must also be considered because speech does not occur in isolation. Cable television is a means of communication that is both pervasive and to which children are easily exposed. FCC v. Pacifica Foundation, 438 U.S. 726, 748-50, 98 S.Ct. 3026, 57 L.Ed.2d 1073 (1978) (radio broadcasting is pervasive and to which children are easily exposed); Denver Consortium, 518 U.S. at 744 (these two factors are as applicable to cable television as to broadcasting). Thus, this context cannot go unnoted.\nIn cases such as this, it is the Government\u2019s burden to demonstrate that its interests are compelling and that the means chosen \u201care carefully tailored to achieve those ends.\u201d Sable Communications of Cal., Inc. v. FCC, 492 U.S. 115, 126, 109 S.Ct. 2829, 106 L.Ed.2d 93 (1989). The Government must prove that \u00a7 505 is a \u201cleast restrictive alternative,\u201d ie., that no less restrictive measures are available to achieve the same ends the government seeks to achieve. Denver Consortium, 518 U.S. at 754-55, 116 S.Ct. 2374; Sable, 492 U.S. at 130-31, 109 S.Ct. 2829.\nCompelling Government Interest\nThe Government asserts three interests that in its view justify \u00a7 505: 1) the Government\u2019s interest in the well-being of the nation\u2019s youth \u2014 the need to protect children from exposure to patently offensive sex-related material; 2) the Government\u2019s interest in supporting parental claims of authority in their own household \u2014 the need to protect parents\u2019 right to inculcate morals and beliefs on their children; and 3) the Government\u2019s interest in ensuring the individual\u2019s right to be left alone in the privacy of his or her home \u2014 the need to protect households from unwanted communications.\nIn its First Amendment jurisprudence, the Supreme Court has recognized the need to protect children from \u201cexposure to patently offensive sex-related material.\u201d Denver Consortium, 518 U.S. at 743, 116 S.Ct. 2374. \u201cThe State has an interest \u2018to protect the welfare of children\u2019 and to see that they are \u2018safeguarded from abuses\u2019 which might prevent their \u2018growth into free and independent well-developed men and citizens.\u2019 \u201d Ginsberg v. New York, 390 U.S. 629, 640-41, 88 S.Ct. 1274, 20 L.Ed.2d 195 (1968) (upholding a statute prohibiting the sale to minors of sexually explicit magazines); Prince v. Massachusetts, 321 U.S. 158, 64 S.Ct. 438, 88 L.Ed. 645 (1944); F.C.C. v. Pacifica Foundation, 438 U.S. 726, 98 S.Ct. 3026, 57 L.Ed.2d 1073 (1978) (Court relied on the Government\u2019s interest in the well-being of children in upholding the constitutionality of the FCC\u2019s decision to prohibit the radio broadcast of indecent language during the day). There is no doubt that the State has an interest in protecting children. The question remains, however, whether the \u201charm,\u201d from which the State seeks to protect children, is in fact a harm to children. In other words, does viewing signal bleed of sexually explicit programming constitute a harm to children. If it is a harm, there is no doubt the State has a compelling interest in regulating it.\nThe Supreme Court has not required empirical proof of harm to justify content-based restrictions on constitutionally protected speech when children are involved. See Pacifica, 98 S.Ct. at 3040 (rationale for upholding the constitutionality of the FCC\u2019s decision to prohibit the radio broadcast of indecent language during the day was that broadcast \u201ccould have enlarged a child\u2019s vocabulary in an instant;\u201d not requiring the Government to prove that the monologue at issue could cause a scientifically articulable harm); Bethel School Dist. No. 403 v. Fraser, 478 U.S. 675, 106 S.Ct. 3159, 92 L.Ed.2d 549 (1986) (empirical proof of harm not required for restriction of speech in school setting); Action for Children\u2019s Television v. F.C.C., 58 F.3d 654, 661-62 (D.C.Cir.1995) (en banc) (\u201cthe Supreme Court has never suggested that a scientific demonstration of psychological harm is required in order to establish the constitutionality of measures protecting minors from exposure to indecent speech.\u201d). However, some evidence of harm must be presented. The mere articulation of a theoretical harm is not enough. See Eclipse Enterprises, Inc. v. Gulotta, 134 F.3d 63 (2d Cir.1997) (striking down a law restricting the dissemination of \u201cindecent crime materials to minors,\u201d explaining that although there was no dispute that protecting the psychological well-being of minors is a compelling interest, the Government could not enact an indecency regulation relying on \u201cexperience, knowledge and common sense,\u201d noting an absence of empirical proof that the law would serve the County's artictdated interests). In short, some evidence of harm short of definitive scientific proof must be presented. This case demonstrates a paucity of such evidence. \u25a0\nWe have detailed the evidence of harm put forward by the Government. The Government presents no clinical evidence linking child viewing of pornography to psychological harms. Rather, the Government argues by analogy to clinical studies showing the effect of child viewing of televised violence as well as anecdotal evidence of the effects of sexually explicit television. The reference to televised violence research is weakened by the lack of evidence establishing the appropriateness of the analogy. Even if watching televised violence causes children to be violent, should the same hold true for televised sex? We,cannot say that it would. The next weakly proven inference is that the effects of viewing signal bleed of sexually explicit television are the same as viewing sexually explicit television outright. This lack of evidence is reflected by the same dearth of evidence of harm within the legislative history of \u00a7 505. Moreover, there are clear ethical questions surrounding clinical research of the effects of children viewing sexually explicit programming.\nThe evidence presented on the type and duration of the harm is equally troubling. Dr. Benedek testified concerning transient dysphoria, modeling, and changed attitudes towards sexuality associated with susceptible children viewing explicit pornography. None of her views, however, are derived from observations of exposure to partially scrambled images and sounds of sexual activity. There is no evidence in this case that such scrambled, garbled, intermittent signal bleed has a harmful, potential similar to explicit pornography. Nevertheless, we are not prepared to say that there is no prospect of such harm.\nWe are troubled by the absence of evidence of harm presented both before Congress and before us that the viewing of signal bleed of sexually explicit programming causes harm to children and that the avoidance of this harm can be recognized as a compelling State interest. We recognize that the Supreme Court\u2019s jurisprudence does not require empirical evidence. Only some minimal amount of evidence is required when sexually explicit programming and children are involved. See Pacifica, 98 S.Ct. at 3040. In conclusion, then, on the basis of the few scientific studies that have been done in related areas, keeping in mind Dr. Benedek\u2019s experience as a clinician and the anecdotal evidence she was exposed to in that capacity, and considering Dr. Green\u2019s comment on the hazards of children visually experiencing adult sex, we conclude that there is sufficient risk of harm to susceptible minors to warrant protection from sexually explicit signal bleed.\nTurning then to the Government\u2019s next concern, concomitant with its interest in protecting children, it has an interest in protecting parent\u2019s authority to raise their children as they see fit. Pierce v. Society of Sisters, 268 U.S. 510, 45 S.Ct. 571, 69 L.Ed. 1070 (liberty of parents to direct the upbringing and education of their children) (1925); Meyer v. Nebraska, 262 U.S. 390, 43 S.Ct. 625, 67 L.Ed. 1042 (1923). A parent has a right to \u201cinculeat[e] moral standards, religious beliefs, and elements of good citizenship.\u201d Wisconsin v. Yoder, 406 U.S. 205, 233, 92 S.Ct. 1526, 32 L.Ed.2d 15 (1972); Cf. Hodgson v. Minnesota, 497 U.S. 417, 448-19, 110 S.Ct. 2926, 111 L.Ed.2d 344 (1990) (justifying waiting period before minor may exercise her fundamental right to an abortion in part on the basis of parental interest in discussing implications of abortion decision, and providing guidance). On the basis of this interest, the Supreme Court has held that governmental restrictions of access by children to sexually explicit, but not obscene, material is justifiable. See Ginsberg, 390 U.S. at 639, 88 S.Ct. 1274 (upholding a restriction on sale of sexually explicit magazines to minors in part based on the recognition that \u201cparents\u2019 claim to authority in their own household to direct the rearing of their children is basic in the structure of our society\u201d). In Pacifica, the Court recognized the parental interest in deciding whether their child would be allowed to hear an indecent radio broadcast; this interest helped \u201cjustify the special treatment of indecent broadcasting.\u201d 438 U.S. at 749-50, 98 S.Ct. 3026; see also Action far Children\u2019s Television v. FCC, 58 F.3d 654, 661 (D.C.Cir.1995) (\u201cthe Government has a compelling interest in supporting parental supervision of what children see and hear on the public airways\u201d). Section 505 addresses this compelling interest in that it ensures that parents can decide how best to teach their children about sex without the unwanted exposure to sexually explicit signal bleed. In short, \u00a7 505 ensures, for the most part that unwanted exposure does not occur.\nThe third interest of the Government is to protect the right of the individual to be left alone in the privacy of his or her home. See Pacifica, 438 U.S. at 749-50, 98 S.Ct. 3026 (relying on an individual\u2019s right to be left alone in his or her home to justify the content-based restriction of indecent radio broadcasting; \u201cPatently offensive, indecent material presented over the airways confronts the citizen, not only in public but also in the privacy of the home, where the individual\u2019s right to be left alone plainly outweighs the First Amendment rights of an intruder.\u201d); Rowan v. Post Office Dept., 397 U.S. 728, 90 S.Ct. 1484, 25 L.Ed.2d 736 (1970) (upholding a statute allowing private individuals to direct the Postmaster General to cease mailing \u201cerotically arousing or sexually provocative\u201d materials to their homes, noting that Congress passed the statute in order to protect the privacy of homes from unsolicited sexual materials). Section 505 embraces the individual\u2019s right to be left alone in his home by restricting signal bleed to the safe har-bour hours. Only individuals who subscribe to Playboy and who have therefore chosen to bring sexually explicit programming into their homes are exposed.\nLeast Restrictive Alternative Analysis\nRecognizing that \u00a7 505 addresses three interests which in sum can be labeled \u201ccompelling,\u201d we must determine whether \u00a7 505 is narrowly tailored to serve that end and whether it is the least restrictive alternative. Playboy argues that \u00a7 504 is a less restrictive alternative than \u00a7 505, mandating that we grant Playboy\u2019s request for declaratory judgment and injunction against the enforcement of \u00a7 505. The basic difference between \u00a7 504 and \u00a7 505 is in determining who takes the initiative to remediate the signal bleed problem. Section 505 is an advance blocking of channels required of MSOs. Section 504 is a voluntary blocking of channels upon individual request. In either event, the MSO must pay the cost.\nTo be a \u201cless restrictive alternative,\u201d \u00a7 504 must be both less restrictive in the sense that it inhibits protected speech to a lesser degree and it must be a viable alternative in that it allows the Government to achieve the ends that are its compelling interest. We think it is clear that \u00a7 504 is in fact less restrictive.\nThe restrietiveness of \u00a7 505 is now evident. The solution Congress crafted in \u00a7 505 to control the problem of signal bleed gave MSOs two alternative methods of compliance: 1) complete scrambling, or 2) time-channeling the programming into safe-harbor hours. There is no doubt that time channeling has proven to be the method of compliance of choice among MSOs. While the effect of time channeling on Playboy\u2019s profitability is perhaps not clear, time channeling certainly diminishes Playboy\u2019s opportunities to convey, and the opportunity of Playboy\u2019s viewers to receive, protected speech. Time channeling amounts to the removal of all sexually explicit programming at issue during two thirds of the broadcast day from all households on a cable system. Since 30-50% of all adult programming is viewed by households prior to 10 p.m. and since the restricted programming is protected speech, \u00a7 505 restricts a significant amount of protected speech. See Reno v. A.C.L.U, 521 U.S. 844, 117 S.Ct. 2329, 2346, 138 L.Ed.2d 874 (1997) (Governmental interest in protecting children from indecent, but not obscene, materials does not justify an unnecessarily broad suppression of speech addressed to adults). Section 505 was designed to protect minors, but cable operators are required to prevent bleed in all non-subscribing households, irrespective of whether a household has children. In fact, as we found, two-thirds of all households in the United States have no children.\nThe Government argues that the number of Playboy consumers is relatively small between 800,000 and 1.7 million, compared to the 16.7 million children potentially exposed to signal bleed. Moreover, as technology upgrades of equipment take place, more MSOs will be able to fully block signal bleed, rather than to time channel. The Government also argues that time channeling is a minor inconvenience, that the typical consumer can alter his or her viewing time to the safe harbour hours or can tape safe-harbour programming and play it back at his or her leisure. Therefore, the Government argues, the effects of time channeling are minimal. This misstates the issue. The question is not the significance of the totality of the effects of time channeling standing alone. It is instead the relative burden of one solution versus another. See Fabulous Associates, Inc. v. Pennsylvania Public Utility Comm\u2019n, 896 F.2d 780, 787 n. 6 (3d Cir.1990).\nSection 504, by contrast to \u00a7 505, is less restrictive of the First Amendment rights of Playboy and its subscribers. Section 504 provides for voluntary blocking. Those consumers who request a blocking device will have one installed free of charge. However, for those who wish to receive Playboy programming, MSOs will be able to broadcast it 24 hours per day. In this way, neither Playboy nor its subscribers will suffer any First Amendment ill-effects. For that reason, \u00a7 504 is not restrictive of anyone\u2019s First Amendment rights and is clearly \u201cless restrictive.\u201d\nFurthermore, \u00a7 504 is a content-neutral regulation. It does not apply only to signal bleed of \u201csexually explicit adult programming or other programming that is indecent,\u201d as \u00a7 505 does. Rather, it applies to any signal bleed or to any programming that the requesting subscriber finds offensive. The fact that \u00a7 504 is content-neutral differentiates it from the content-based restrictions of \u00a7 505. See Boos v. Barry, 485 U.S. at 329, 108 S.Ct. 1157 (the existence of a content-neutral alternative \u201cundercut[s] significantly\u201d any defense of a content-based statute).\nWhile \u00a7 504 is clearly less restrictive, it must also be a viable alternative. The Government argues that \u00a7 504 is not an effective alternative to \u00a7 505 because there are inherent limitations to parent-initiated blocking schemes which depend upon subscriber initiative and vigilance. Dial Information Services v. Thornburgh, 938 F.2d 1535, 1542 (2d Cir.1991) (rejecting voluntary blocking in the dial-a-porn context). Logically, a parent must be aware of the problem of signal bleed, before he or she is likely to examine potential solutions such as a lockbox. The Government argues that parents usually become aware of the problem only after the child has been exposed to signal bleed, and then the damage has been done. Furthermore, once aware of the problem, the success of \u00a7 504 depends on parental awareness that they have the right to receive a lockbox free of charge from their local MSO. Indeed, it was this same concern with parental awareness of signal bleed and of \u00a7 504 that motivated our rejection of \u00a7 504 as a less restrictive alternative at the preliminary injunction stage of this litigation. See PI Opinion, 945 F.Supp. at 789. There, we explained that \u201cwe ha[d] no evidence ... whether local cable operators or producers of sexually explicit programming [were] advertising the free availability of the \u00a7 504 lockbox or other blocking devices upon demand,\u201d and that we had no evidence whether \u201cparents [were] otherwise aware of the \u00a7 504 means of achieving complete blocking of. undesired channels.\u201d Id. \u201cUpon [that] record,\u201d we held that \u201cthe government ha[d not] demonstrated an expectation that \u00a7 504 [would] be a viable alternative.\u201d Id.\nThat record has now been supplemented with information during the 14 month period when \u00a7 504 was in effect and \u00a7 505 was not. In that time, MSOs distributed lockboxes to less than one half of one percent of their subscribers. The Government relies on this statistic to establish that \u00a7 504 is clearly ineffective. At most, it blocked 0.5% of signal bleed. The first problem with the Government\u2019s argument is that the finding of minimal lockbox distribution is equally consistent with an ineffective statute as it is with a societal response that signal bleed is not a pervasive problem. Indeed, the Government has not convinced us that it is a pervasive problem. Parents may have little concern that the adult channels be blocked.\nThe second problem with the Government\u2019s argument that the 0.5% statistic proves that \u00a7 504 is ineffective is that the argument is premised on adequate notice to subscribers. It is not clear, however, from the record that notices of the provisions of \u00a7 504 have been adequate.\nIn the interest of ensuring that adequate notice be given in the future, we suggest that it be given along the following lines: MSOs should communicate to their subscribers the information that certain channels broadcast sexually-oriented programming; that signal bleed, i.e., partially discernible video images and full audio of those channels, i may appear; that children may view signal bleed without their parents\u2019 knowledge or permission; that channel blocking devices that will block signal bleed are available free of charge from the subscriber\u2019s MSO; and that a request for a free device to block the offending channel can be made by a telephone call to the MSO.\nThe adequacy of the notice will also depend on the means by which it is made. Appropriate means would include inserts in monthly billing statements, barker channels (preview channels of programming coming up on Pay-Per-View), and on-air advertisement on channels other than the one broadcasting the sexually explicit programming. In addition, the notice should be conveyed on a regular basis, at reasonable intervals. Moreover, if an MSO were to change the channel on which it broadcasts sexually explicit programming, a special notice indicating this should be mailed to subscribers who have requested a lockbox.\nThe efficacy of \u00a7 504 with \u201cadequate notice\u201d must be compared to that of \u00a7 505. The time channeling requirement of \u00a7 505 ensures that during the hours wfyen children are likely to be watching television, signal bleed cannot occur. We note, however, that a resourceful minor can still watch signal bleed after the safe-harbour hours. By contrast, \u00a7 504 depends on parental vigilance. See Bolger v. Youngs Drug Products Corp., 463 U.S. 60, 73-74, 103 S.Ct. 2875, 77 L.Ed.2d 469 (1988) (parental discretion controlling access to unsolicited contraceptive advertisements in the home is the preferred method of dealing with such material). However, with adequate notice of the issue of signal bleed, parents can decide for themselves whether it is a problem. Thus to any parent for whom signal bleed is a concern, \u00a7 504, along with \u201cadequate notice,\u201d is an , effective solution. In reality, \u00a7 504 would appear to be as effective as \u00a7 505 for those concerned about signal bleed, while clearly less restrictive of First Amendment rights.\nWe hold therefore that \u00a7 504 is a less restrictive alternative to \u00a7 505 as long as MSOs provide \u201cadequate notice\u201d to their subscribers. We do not have jurisdiction over the MSOs to require them to provide such notice. We do, however, have jurisdiction over Playboy. As a consequence, we will require Playboy in its contractual arrangements with MSOs to ensure that MSOs provide \u201cadequate notice\u201d of the availability of \u00a7 504 blocking devices. If \u201cadequate notice\u201d is not provided, \u00a7 504 will no longer be a viable alternative to \u00a7 505.\nTo be sure, MSOs retain the right not to broadcast sexually explicit programming, if, for example, it proves not to be economically feasible. Playboy, however, as well as other providers of sexually explicit programming, will have the incentive to ensure the economic feasibility of lockbox distribution by MSOs.\nUnder \u00a7 504, the Government is undoubtedly correct that some minors will find access to signal bleed from sexually explicit programming if they are determined to do so. As the Supreme Court explained in the context of dial-a-porn regulations, \u201c[i]t may well be that there is no fail-safe method of guaranteeing that never will a minor be able to access the dial-a-porn system.\u201d Sable Communications, 492 U.S. at 130, 109 S.Ct. 2829. Nonetheless, the Court did not deem the desire to prevent \u201ca few of the most enterprising and disobedient young people,\u201d from securing access to the pornography, to justify a statutory provision that had the \u201cinvalid effect of limiting the content of adult telephone conversations to that which is suitable for children.\u201d Id. at 2839; see Fabulous Associates, 896 F.2d at 788. Similarly, \u00a7 504 with \u201cadequate notice\u201d is not a perfect solution; but neither is \u00a7 505. We have balanced the rights of Playboy and of its subscribers against the interest of the government in regulating sexually explicit programming. We find the balance struck by \u00a7 504 with \u201cadequate notice\u201d to be a less restrictive alternative to that provided by \u00a7 505. For this reason, we declare \u00a7 505 unconstitutional and enjoin its enforcement.\n. Section 561(a) of the CDA provides that a three judge district court shall be convened to decide \"any action' challenging the constitutionality on its face, of this title or any amendment made to this title ... pursuant to the provisions of section 2284 of title 28, United States Code.\"\n.Section 505 of the CDA, 47 U.S.C. \u00a7 561 provides:\n(a) REQUIREMENT \u2014 In providing sexually explicit adult programming or other programming that is indecent on any channel of its service primarily dedicated to sexually-oriented programming, a multichannel video programming distributor shall fully scramble or otherwise fully block the video and audio portion of such channel so that one not a subscriber to such channel or programming does not receive it.\n(b) IMPLEMENTATION \u2014 Until a multichannel video programming distributor complies with the requirement set forth in subsection (a) of this section, the distributor shall limit the access of children to the programming referred to in that subsection by not providing such programming during the hours of the day (as determined by the Commission) when a significant number of children are likely to view it.\n(c)DEFINITION \u2014 As used in this section, the term \"scramble\u201d means to rearrange the content of the signal of the programming so that the programming cannot be viewed or heard in an understandable manner.\n. Section 505 applies to \u201cmultichannel video programming distributors,\u201d which are also known as \"multisystem operators\u201d or \"MSOs.\u201d We will refer to them as MSOs.\n. Scrambling means \"rearrangfing] the content of the signal ... so that the programming cannot be viewed or heard in an understandable manner.\"\n. A converter box permits an older model television set, which can receive only a finite number of VHF or UHF channels, to receive the larger number of channels transmitted by cable systems. Converter boxes are electronic channel selectors. They are connected both to the subscriber's TV set and to the MSO\u2019s cable line. When a subscriber chooses a cable channel to view, the box \"converts\u201d the selected channel to a frequency that the subscriber\u2019s TV set can receive and display.\n. This technology is not necessary when an MSO sends its signal in digital form.\n. Channel mapping is a feature whereby when a consumer attempts to tune a scrambled channel, the converter box will not tune to that channel but will tune to another channel providing either a promotional message or a blue screen.\n. (a) SUBSCRIBER REQUEST \u2014 Upon request by a cable service subscriber, a cable operator shall, without charge, fully scramble or otherwise fully block the audio and video programming of each channel carrying such programming so that one not a subscriber does not receive it.\n(Emphasis added).\n.Dr. Charles Jackson, an expert on the cable television industry, took the number of subscribers to cable systems that carry Spice, 22.1 million, added the number of subscribers to cable systems that carry Playboy, 27.6 million, and subtracted the number of households on cable systems carrying both Playboy and Spice, 11.05 million, to conclude there are 38.65 million households with the potential to be exposed to signal bleed. Dr. Jackson used a Cable Advertising Bureau estimate of the number of cable households with children, 36.7%, and a Census estimate that the average household with children has slightly more than two children present (2.07). Multiplying the number of cable households by the number of cable households with children by the number of children in an average household yields the number of children in households with the potential to be exposed to signal bleed of sexually explicit television. He then concluded in these close to 39 million households with the potential to be exposed to signal bleed from both Playboy and Spice, there are roughly 29 million children (16.7 million at risk from Playboy). DX 82, \u00b6\u00b6 20-33.\n. Beth Mahlo, Rock Island City Council, Rock Island, IL.; Anthony Snesko, Poway City Council, Poway, CA.; Frank Allen, Jr., Oxnard, CA.; Ann Harris, Orange, CA.; Chuck Davis, Orange, CA.; John Augustine, Laureldale, PA.; Ann Trine, State Center, IA.; Betty J. Lewis, Bossier City, LA.; M.V. Walters, San Antonio, TX., Hugh Cunningham, Professor Emeritus, University of Florida College of Journalism, Gainsville, FL.; Pat Faulkenberry, Columbus, GA.; Timothy Joyce, Yorktown, NY.; Louisa Lindell, Wilmington, DE. (son viewed signal bleed at friend\u2019s house); Phil Vonder Haar, Webster Groves, MO. (viewed signal bleed at daughter's in St. Louis); Cecilia Flake, Battle Creek, MI. (told would be charged $6.00 to have signal blocked); David DeBerry, Assistant City Attorney, Orange, CA., on behalf of the City of Orange; Carol Beecher, Monticello, IN.; Jeff Schiske; Joseph & Ann Marie Schewe, Latham, N.Y.; Lorraine Serzega, Phoenixville, PA; Christina Petsas, Martinez, CA.; Senator Joseph R. Biden, Jr., Wilmington, DE.\n. When pressed at post-trial argument as to whether there was evidence, anecdotal or otherwise, of any child actually harmed by signal bleed, the Government could point to only one incident: Cindy Omlin's testimony that her child viewed signal bleed at a friend's house on a Friday night, and on the ensuing Monday morning awoke with a bad stomach ache, saying he didn't want to go to school. Dr. Benedek described these symptoms as school phobia. Post-trial Argument Tr. at 84-86.\n. The weight we gave to Dr. Benedek\u2019s testimony was diminished by the fact that she has not written or researched in any directly relevant area. Moreover, she has reviewed no literature concerning the effects of television viewing upon children except for the few articles provided to her by counsel for the government. She has never previously testified as an expert involving the media in general or television\u2019s effects in particular. She has in the past been retained to testify as an expert but this has been on a spectrum of other issues arising in unrelated products liability and personal injury contexts.\n. PX 152 at 2; PI Tr. 435-38 (Testimony of Defendant\u2019s expert Jonathan Kramer). Neither negative traps nor positive traps alone would be viable options because neither allow an MSO to broadcast any pay-per-view programming; revenues from pay-per-view programming constitute the vast majority of Playboy\u2019s revenue. PI Tr. 430-33. Alternatively, the cost of converting an analog-based system to digital at this point in time would be in the billions of dollars with each household needing a digital converter. This too would not be a viable option as it would be cost-prohibitive. PI Tr. 423-28. Alternatively, the cost of supplying every cable subscriber with state of the art converters with channel-mapping would also be cost-prohibitive. PI Tr. 428-29; PI Opinion, 945 F.Supp. at 781, \u00b6 24.\n. Defense Exhibit 320 is a Government survey of MSOs taken after \u00a7 505 was implemented on May 18, 1997. This survey demonstrates 68% of MSOs surveyed who carry adult programming went to time channeling. PX 106. This includes 23 of 24 Jones Intercable systems and 36 of 38 TCI systems. While only 17 of 39 Comcast systems surveyed are time-channeling, PX 104, Comcast has a reputation for having better, more up-to-date technology than other MSOs.\n. PX 184 (Jones Intercable showing that 55% of Playboy\u2019s buys, and 50% of Adult Vision buys occurred during non-safe harbour hours); PX 192 (Spice estimates that 30-50% of its buys occur between 6 AM and 9 PM); Sealed PX 216 (Time Warner-Rochester, N.Y. instituted a voluntary rollback to safe harbor hours demonstrating a significant decline in adult programming purchases); see also PL Post-trial Br. at 57 & n. 108.\n. The number of subscribers watching Playboy Television in a year is between 800,000 and 1.7 million.\n. The primary disagreement over losses is differing time horizons which stems from an uncertainty over when digital technology will be commonplace, obviating the need for cable operators to time channel. The Government economics expert, Dr. Dertouzos does not include losses after 2002 because of his uncertainty as to the pervasiveness of digital technology thereafter, but he acknowledges that he has no expertise regarding the conversion of the cable industry from analog to digital. Trial Tr. 746:9-12. Furthermore, Playboy presented experts knowledgeable in the area of cable conversion; all concluded that a considerable percentage of cable systems will remain \"analog only\" over the next ten years. Pi. Post-trial Br. at 59 & n. 112. Clearly then, the measure of damages is at least somewhat greater than the Government estimate of $6 million.\n. When \u00a7 504 and \u00a7 505 are both being enforced, with respect to regulating sexually explicit programming, \u00a7 504 does not relieve an MSO from complying with \u00a7 505. Complying with \u00a7 504, i.e., providing free lockboxes, does not comply with \u00a7 505's more stringent requirements.\n. The language \"earliest known date\u201d may slightly overestimate the utility of \u00a7 504 as a solution to the signal bleed problem because some of these lockboxes may have been distributed pursuant to 47 U.S.C. \u00a7 544(d)(2) (1984) which provided that cable operators shall provide lockboxes upon request of their subscribers, but they could charge subscribers for the blocking device.\n. It states that \"Jones cable companies have always complied with \u00a7 504\u201d by providing equipment to \"trap the audio and video signals on adult programming services,\u201d but only \"a minimal number\u201d of traps were requested. DX 137 at JIP000005.\n. These calculations are premised on a cost of $37 per blocking mechanism plus installation. Playboy\u2019s contention that negative traps can be mailed to subscribers thereby obviating the need for installation labor costs and lowering the cost per mechanism to the cost of the product plus postage, is unavailing. All experts agree that negative traps are installed on the cable pole or the cable itself outside the home, requiring installation. PX 65 (Ciciora PI Decl.), \u00b6 19; DX 303 (Jackson PI Deck), \u00b6 35; Ciciora Dep. at 146:20-21 (\"The presence of the negative trap is almost always outside on the pole\u201d).\n. It must be noted that where \"obscene\u201d material is involved, as opposed to the sexually explicit but not obscene material at issue here, the standard of proof to which the Government is put is much lower. See Ginsberg, 390 U.S. at 641-42, 88 S.Ct. 1274 (because the material at issue was obscene, and therefore not protected speech, the State need only be rational in its conclusion of harm associated with the material); Paris Adult Theatre I v. Slaton, 413 U.S. 49, 57-61, 93 S.Ct. 2628, 37 L.Ed.2d 446 (1973) (in the context of regulating obscene materials exhibited at \"adult\u201d theatres, rejecting the requirement of scientific data conclusively demonstrating the exposure to obscene material adversely affects people).\n. As we found, MSOs with incomplete scrambling technology chose time channeling because no other system-wide blocking technique is economically feasible. Faced with the choice between overhauling the transmission to ensure complete scrambling, such as through a systemic switch to digital transmission, or by providing channel-mapping converter boxes to all subscribers, or by reducing such transmissions to safe-harbor hours, the MSOs have unanimously chosen to stop all such programming on dedicated adult channels during the non-safe harbor hours.\n. As we find \u00a7 505 unconstitutional on First Amendment grounds, we do not reach the merits of the other claims put forward by Playboy, that \u00a7 505 is unconstitutionally vague and that \u00a7 505 violates the Equal Protection guarantee of the Fifth Amendment.",
+        "type": "majority",
+        "author": "ROTH, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "A. Gilchrist Sparks, III, Maryellen Norei-ka, Morris, Nichols, Arsht & Tunnell, Wilmington, DE, Robert Corn-Revere, Jean S. Moore, Ronald J. Wiltsie, II, Hogan & Hart-son, L.L.P., Washington, DC, of counsel Burton Joseph, of Barsy, Joseph & Lichtenstein, Chicago, IL, for Plaintiff.",
+      "Richard G. Andrews, Acting United States Attorney, Patricia C. Hannigan, Assistant United States Attorney of the United States Attorney\u2019s Office, Wilmington, DE, of counsel Daniel M. Armstrong, Associate General Counsel, P. Michele Ellison, Deputy Associate General Counsel, Nancy L. Kiefer, of the Office of General Counsel, Federal Communications Commission, Washington, DC, Frank W. Hunger, Assistant Attorney General, Dennis G. Linder, Director, Federal Programs Branch, Theodore C. Hirt, Assistant Director, Federal Programs Branch, James J. Gilligan, Judry L. Subar and Andrea G. Cohen, Trial Attorneys,. United States Department of Justice, Washington, DC, for Defendants."
+    ],
+    "corrections": "",
+    "head_matter": "PLAYBOY ENTERTAINMENT GROUP, INC., Plaintiff, v. UNITED STATES of America, et al., Defendants.\nNo. Civ.A. 96-94-JJF.\nUnited States District Court, D. Delaware.\nDec. 28, 1998.\nA. Gilchrist Sparks, III, Maryellen Norei-ka, Morris, Nichols, Arsht & Tunnell, Wilmington, DE, Robert Corn-Revere, Jean S. Moore, Ronald J. Wiltsie, II, Hogan & Hart-son, L.L.P., Washington, DC, of counsel Burton Joseph, of Barsy, Joseph & Lichtenstein, Chicago, IL, for Plaintiff.\nRichard G. Andrews, Acting United States Attorney, Patricia C. Hannigan, Assistant United States Attorney of the United States Attorney\u2019s Office, Wilmington, DE, of counsel Daniel M. Armstrong, Associate General Counsel, P. Michele Ellison, Deputy Associate General Counsel, Nancy L. Kiefer, of the Office of General Counsel, Federal Communications Commission, Washington, DC, Frank W. Hunger, Assistant Attorney General, Dennis G. Linder, Director, Federal Programs Branch, Theodore C. Hirt, Assistant Director, Federal Programs Branch, James J. Gilligan, Judry L. Subar and Andrea G. Cohen, Trial Attorneys,. United States Department of Justice, Washington, DC, for Defendants."
+  },
+  "file_name": "0702-01",
+  "first_page_order": 758,
+  "last_page_order": 776
+}

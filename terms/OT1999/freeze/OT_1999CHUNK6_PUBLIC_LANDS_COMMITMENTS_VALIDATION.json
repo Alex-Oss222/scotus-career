@@ -1,0 +1,38 @@
+{
+  "stage": "3B independent non-Stone modeling",
+  "event_cutoff": "2000-05-15 before uncoordinated same-day events",
+  "case": "PUBLIC_LANDS",
+  "inputs": [
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_PUBLIC_LANDS_NEUTRAL_VALIDATED.md",
+      "sha256": "b8bcbea4c8a421e2eee0e7649940a40f5487a66019e711a92f44b68858659855"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MAY15_ENTERING_LAW_NEUTRAL_VALIDATION_SUPPLEMENT.md",
+      "sha256": "0620c06134186d49b5324c6e5a6607053daaf0c6a432b68dc9e47f79833efa5d"
+    },
+    {
+      "path": "terms/OT1999/freeze/OT_1999CHUNK6_MINING_REGIONS_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "c2722721f92f02b9111a7c2706536ff0329c1657781f0b487662856cafe4f4c9"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_MINING_EFFECTIVE_PUBLIC.md",
+      "sha256": "ffb7de824d00c37da02a6c793f87783109530552c41ac735def9759835e7c106"
+    },
+    {
+      "path": "terms/OT1999/entering-law/OT_1999CHUNK6_SAENZ_EFFECTIVE_PUBLIC.md",
+      "sha256": "9ec390a2bc0c2361a40748645454aef76eb1fb5e1faf1da1b219022467a4f634"
+    }
+  ],
+  "freeze_sha256": "b2d40cafb4c5d198af6436223d6e6177fc38c0b09ce097806e55d639605eb15c",
+  "runtime_sha256": "b2d40cafb4c5d198af6436223d6e6177fc38c0b09ce097806e55d639605eb15c",
+  "checks": {
+    "copies_identical": true,
+    "all_eight_Associates_three_components": true,
+    "final_neutral_certificate_read": true,
+    "no_same_day_borrowing": true,
+    "no_current_outcome_or_controlled_position_exposure": true,
+    "no_assignment": true
+  },
+  "substantive_validation": "Eight independently support all three statutory-authority rules and confined affirmance. Stock-owner eligibility, permissible cancellation, existing rights and contributions preserved. No conservation-use or APA holding added. Tools check copy identity only."
+}

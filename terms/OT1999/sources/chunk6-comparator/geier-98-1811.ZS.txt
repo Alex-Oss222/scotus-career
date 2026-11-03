@@ -1,0 +1,54 @@
+GEIER V. AMERICAN HONDA MOTOR CO.
+
+ 
+
+ 
+
+LII
+
+ 
+
+Supreme Court
+
+ 
+
+GEIER V. AMERICAN HONDA MOTOR CO. (98-1811) 
+166 F.3d 1236, affirmed.
+Syllabus
+ Opinion
+ [ Breyer ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+GEIER et al. v. AMERICAN HONDA MOTOR CO., INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+ 
+No. 98—1811. Argued December 7, 1999–Decided May 22, 2000
+
+Pursuant to its authority under the National Traffic and Motor Vehicle Safety Act of 1966, the Department of Transportation promulgated Federal Motor Vehicle Safety Standard (FMVSS) 208, which required auto manufacturers to equip some but not all of their 1987 vehicles with passive restraints. Petitioner Alexis Geier was injured in an accident while driving a 1987 Honda Accord that did not have such restraints. She and her parents, also petitioners, sought damages under District of Columbia tort law, claiming, inter alia, that respondents (hereinafter American Honda) were negligent in not equipping the Accord with a driver’s side airbag. Ruling that their claims were expressly pre-empted by the Act, the District Court granted American Honda summary judgment. In affirming, the Court of Appeals concluded that, because petitioners’ state tort claims posed an obstacle to the accomplishment of the objectives of FMVSS 208, those claims conflicted with that standard and that, under ordinary pre-emption principles, the Act consequently pre-empted the lawsuit.
+
+Held: Petitioners’ “no airbag” lawsuit conflicts with the objectives of FMVSS 208 and is therefore pre-empted by the Act. Pp. 3—23.
+
+ (a) The Act’s pre-emption provision, 15 U.S.C. § 1392(d), does not expressly pre-empt this lawsuit. The presence of a saving clause, which says that “[c]ompliance with” a federal safety standard “does not exempt any person from any liability under common law,” §1397(k), requires that the pre-emption provision be read narrowly to pre-empt only state statutes and regulations. The saving clause assumes that there are a significant number of common-law liability cases to save. And reading the express pre-emption provision to exclude common-law tort actions gives actual meaning to the saving clause’s literal language, while leaving adequate room for state tort law to operate where, for example, federal law creates only a minimum safety standard. Pp. 3—5.
+
+ (b) However, the saving clause does not bar the ordinary working of conflict pre-emption principles. Nothing in that clause suggests an intent to save state tort actions that conflict with federal regulations. The words “[c]ompliance” and “does not exempt” sound as if they simply bar a defense that compliance with a federal standard automatically exempts a defendant from state law, whether the Federal Government meant that standard to be an absolute, or a minimum, requirement. This interpretation does not conflict with the purpose of the saving provision, for it preserves actions that seek to establish greater safety than the minimum safety achieved by a federal regulation intended to provide a floor. Moreover, this Court has repeatedly declined to give broad effect to saving clauses where doing so would upset the careful regulatory scheme established by federal law, a concern applicable here. The pre-emption provision and the saving provision, read together, reflect a neutral policy, not a specially favorable or unfavorable one, towards the application of ordinary conflict pre-emption. The pre-emption provision itself favors pre-emption of state tort suits, while the saving clause disfavors pre-emption at least some of the time. However, there is nothing in any natural reading of the two provisions that would favor one policy over the other where a jury-imposed safety standard actually conflicts with a federal safety standard. Pp. 5—11.
+
+ (c) This lawsuit actually conflicts with FMVSS 208 and the Act itself. DOT saw FMVSS 208 not as a minimum standard, but as a way to provide a manufacturer with a range of choices among different passive restraint systems that would be gradually introduced, thereby lowering costs, overcoming technical safety problems, encouraging technological development, and winning widespread consumer acceptance–all of which would promote FMVSS 208’s safety objectives. The standard’s history helps explain why and how DOT sought these objectives. DOT began instituting passive restraint requirements in 1970, but it always permitted passive restraint options. Public resistance to an ignition interlock device that in effect forced occupants to buckle up their manual belts influenced DOT’s subsequent initiatives. The 1984 version of FMVSS 208 reflected several significant considerations regarding the effectiveness of manual seatbelts and the likelihood that passengers would leave their manual seatbelts unbuckled, the advantages and disadvantages of passive restraints, and the public’s resistance to the installation or use of then-available passive restraint devices. Most importantly, it deliberately sought variety, rejecting an “all airbag” standard because perceived or real safety concerns threatened a backlash more easily overcome with a mix of several different devices. A mix would also help develop data on comparative effectiveness, allow the industry time to overcome safety problems and high production costs associated with airbags, and facilitate the development of alternative, cheaper, and safer passive restraint systems, thereby building public confidence necessary to avoid an interlock-type fiasco. The 1984 standard also deliberately sought to gradually phase-in passive restraints, starting with a 10% requirement in 1987 vehicles. The requirement was also conditional and would stay in effect only if two-thirds of the States did not adopt mandatory buckle-up laws. A rule of state tort law imposing a duty to install airbags in cars such as petitioners’ would have presented an obstacle to the variety and mix of devices that the federal regulation sought and to the phase-in that the federal regulation deliberately imposed. It would also have made adoption of state mandatory seatbelt laws less likely. This Court’s pre-emption cases assume compliance with the state law duty in question, and do not turn on such compliance-related considerations as whether a private party would ignore state legal obligations or how likely it is that state law actually would be enforced. Finally, some weight is placed upon DOT’s interpretation of FMVSS 208’s objectives and its conclusion that a tort suit such as this one would stand as an obstacle to the accomplishment and execution of those objectives. DOT is likely to have a thorough understanding of its own regulation and its objectives and is uniquely qualified to comprehend the likely impact of state requirements. Because there is no reason to suspect that the Solicitor General’s representation of these views reflects anything other than the agency’s fair and considered judgment on the matter, DOT’s failure in promulgating FMVSS 208 to address pre-emption explicitly is not determinative. Nor do the agency’s views, as presented here, lack coherence. Pp. 11—23.
+
+166 F.3d 1236, affirmed.
+
+ Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Kennedy, JJ., joined. Stevens, J., filed a dissenting opinion, in which Souter, Thomas, and Ginsburg, JJ., joined.

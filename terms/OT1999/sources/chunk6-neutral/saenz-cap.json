@@ -1,0 +1,361 @@
+{
+  "id": 11545013,
+  "name": "Jose Armando SAENZ, et al., Plaintiffs-Appellants, v. HELDENFELS BROTHERS, INC.; et al., Defendants, Brooks County; Beto Gonzalez, Brooks County Deputy Sheriff, Defendants-Appellees",
+  "name_abbreviation": "Saenz v. Heldenfels Bros.",
+  "decision_date": "1999-07-30",
+  "docket_number": "No. 98-40902",
+  "first_page": "389",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 F.3d 389"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "5th Cir.",
+    "id": 8820,
+    "name": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "51 F.3d 512",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11349895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/51/0512-01"
+      ]
+    },
+    {
+      "cite": "980 F.2d 299",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10512689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/980/0299-01"
+      ]
+    },
+    {
+      "cite": "910 F.2d 1422",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540983
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/910/1422-01"
+      ]
+    },
+    {
+      "cite": "28 F.3d 1388",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1838990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/28/1388-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 796",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209107
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "799",
+          "parenthetical": "per curiam"
+        },
+        {
+          "page": "1573",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0796-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "701"
+        },
+        {
+          "page": "1160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "503 U.S. 115",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221570
+      ],
+      "weight": 7,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "125"
+        },
+        {
+          "page": "1068"
+        },
+        {
+          "page": "129"
+        },
+        {
+          "page": "1071"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0115-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 344",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205124
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "348"
+        },
+        {
+          "page": "670"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0344-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 833",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11504410
+      ],
+      "weight": 4,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[T]he better approach to resolving cases in which the defense of qualified immunity is raised is to determine first whether the plaintiff has alleged a deprivation of a constitutional right at all.\""
+        },
+        {
+          "parenthetical": "\"[T]he better approach to resolving cases in which the defense of qualified immunity is raised is to determine first whether the plaintiff has alleged a deprivation of a constitutional right at all.\""
+        },
+        {
+          "parenthetical": "\"[T]he better approach to resolving cases in which the defense of qualified immunity is raised is to determine first whether the plaintiff has alleged a deprivation of a constitutional right at all.\""
+        },
+        {
+          "page": "1716",
+          "parenthetical": "\"[0]nly the most egregious official conduct can be said to be 'arbitrary in the constitutional sense' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0833-01"
+      ]
+    },
+    {
+      "cite": "119 S.Ct. 1292",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11133110
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/526/0286-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        },
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 189",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031841
+      ],
+      "weight": 15,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "196"
+        },
+        {
+          "page": "1003"
+        },
+        {
+          "page": "203"
+        },
+        {
+          "page": "1007"
+        },
+        {
+          "page": "197"
+        },
+        {
+          "page": "1004"
+        },
+        {
+          "page": "195"
+        },
+        {
+          "page": "1003"
+        },
+        {
+          "page": "199-200"
+        },
+        {
+          "page": "1005"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0189-01"
+      ]
+    },
+    {
+      "cite": "169 F.3d 996",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11768920
+      ],
+      "pin_cites": [
+        {
+          "page": "998"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/169/0996-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 790,
+    "char_count": 13051,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 3.7287638424811967e-07,
+      "percentile": 0.8941971134224428
+    },
+    "sha256": "c786fc97ef64a267fd29fa95a9510e03194be218f7087230fc7dee87e7380b7e",
+    "simhash": "1:3494870bb59fd301",
+    "word_count": 2102
+  },
+  "last_updated": "2024-02-27T18:51:45.241313+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before JONES, DUH\u00c9 and BARKSDALE, Circuit Judges."
+    ],
+    "parties": [
+      "Jose Armando SAENZ, et al., Plaintiffs-Appellants, v. HELDENFELS BROTHERS, INC.; et al., Defendants, Brooks County; Beto Gonzalez, Brooks County Deputy Sheriff, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "EDITH H. JONES, Circuit Judge:\nAppellants are the estates and surviving family members of Graciela Saenz and Jose Hinojosa, who were killed when Jose Hilario Zuniga, a drunk driver, struck their automobile. Appellants sued under 42 U.S.C. \u00a7 1983, alleging that (1) Deputy Sheriff Beto Gonzalez abused his governmental authority by ordering his partner, Reserve Deputy Antonio Martinez, to refrain from investigating Zuniga for drunken driving minutes before the accident occurred; and (2) Brooks County had a custom or policy tolerating Gonzalez\u2019s refusal to enforce drunk driving laws. We agree with the district court that appellants have not asserted the deprivation of a right secured by the United States Constitution.\nSince this is an appeal from a grant of summary judgment in favor of Gonzalez and Brooks County, this court reviews the facts in the light most favorable to the appellants, with all inferences and fact disputes resolved in their favor. See Davidson v. Glickman, 169 F.3d 996, 998 (6th Cir.1999). The facts of this case, when viewed in such a light, show that on the evening of June 19, 1995, Deputy Sheriff Gonzalez and Reserve Deputy Martinez approached the intersection of State Highway 285 and County Road 210 and pulled behind a red pickup truck standing at a stop sign. Gonzalez told Martinez that the truck belonged to Zuniga. Because the truck remained stationary at the stop sign for an extended time, Martinez suggested that the officers investigate. Gonzalez, the ranking officer, rejected the idea, telling Martinez that Zuniga is \u201calways drunk and I always stop the guy. So just leave him alone.\u201d A discussion ensued between Martinez and Gonzalez. Martinez, suspecting that Zuniga was drunk, wished to investigate Zuniga, but Gonzalez ordered Martinez to leave him, alone, uttering a crude Spanish imprecation against Zuniga. The two officers remained behind Zuniga at the stop sign for approximately 15 minutes and, per Gonzalez\u2019s orders, never investigated the situation.\nA few minutes later, the dispatcher called for the officers\u2019 assistance at the scene of an automobile accident. Zuniga\u2019s truck had crashed into an oncoming vehicle, killing two occupants and injuring three others. Zuniga was also severely injured. Tests confirmed that Zuniga was intoxicated and had a blood alcohol level of .21 \u2014 well over the legal limit.\nThe cornerstone of appellants\u2019 claim is that Gonzalez abused his governmental authority in violation of the Due Process Clause by ordering Martinez not to stop Zuniga (even though he was suspected of being drunk) and by implying that Zuniga could, roughly translated, \u201cgo kill himself.\u201d In addition, appellants allege that Brooks County had a ' custom or policy allowing Gonzalez to interfere with junior officers\u2019 attempts to arrest drunk drivers. The district court granted summary judgment in favor of Gonzalez, holding that, under DeShaney v. Winnebago County Dep\u2019t of Soc. Serv., 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989), Gonzalez had no constitutional duty to protect the appellants\u2019 lives from Zuniga\u2019s conduct and was therefore entitled to qualified immunity. The court also held that since the appellants did not allege a constitutional injury against Gonzalez, their claim against Brooks County likewise failed. State law claims were severed and remanded.\nDISCUSSION\nTo prevail on \u00a7 1983 claim against a state official performing a discretionary function, and to overcome the qualified immunity defense, a plaintiff must show that the officer violated \u201cclearly established ... constitutional rights of which a reasonable person would have known.\u201d Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982). The first inquiry is whether the appellants have alleged the deprivation of a constitutional right. See Conn v. Gabbert, \u2014 U.S. -, -, 119 S.Ct. 1292, 1295, 143 L.Ed.2d 399 (1999); County of Sacramento v. Lewis, 523 U.S. 833, 118 S.Ct. 1708, 1714 n. 5, 140 L.Ed.2d 1043 (1998) (\u201c[T]he better approach to resolving cases in which the defense of qualified immunity is raised is to determine first whether the plaintiff has alleged a deprivation of a constitutional right at all.\u201d). Only if the right exists do we need to determine whether that right was clearly established at the time of the alleged violation.\nIn this case, appellants have asserted that Gonzalez was \u201caware of the danger that Zuniga posed, and by ordering Martinez not to stop him, rendered the Plaintiffs more vulnerable to that danger in violation of the 5th and 14th Amendment[s].\u201d They charge that Gonzalez \u201cabused his governmental power\u201d by preventing Martinez from enforcing the law and by foreseeably placing the victims in danger because of Zuniga. For several reasons, we disagree that these allegations state a constitutional claim. First, neither the text nor the history of the Due Process Clause supports holding that an officer who orders another officer to refrain from arresting a suspected drunk driver has committed a constitutional tort. The Due Process Clause is intended to curb governmental abuse of power over the people it governs, not to require state officers to protect the people from each other. See DeShaney, 489 U.S. at 196, 109 S.Ct. at 1003; Davidson v. Cannon, 474 U.S. 344, 348, 106 S.Ct. 668, 670, 88 L.Ed.2d 677 (1986). The guarantee of due process has been limited to situations where a state officer deliberately chooses to deprive a person of life, liberty, or property. See Collins v. City of Harker Heights, 503 U.S. 115, 127 n. 10, 112 S.Ct. 1061, 1069 n. 10, 117 L.Ed.2d 261 (1992). Gonzalez\u2019s order to Martinez cannot be characterized as a governmental decision to deny the appellants their life, liberty, or property \u2014 especially since he was never subjectively aware that they were on the highway. A contrary conclusion would \u201cmake of the Fourteenth Amendment a font of tort law to be superimposed upon whatever systems may already be administered by the States.\u201d Paul v. Davis, 424 U.S. 693, 701, 96 S.Ct. 1155, 1160, 47 L.Ed.2d 405 (1976).\nSecond, the appellants have cited no case extending substantive due process to situations similar to the facts of this case. Appellants rely on the holding of Ross and dicta in Salas to support their argument that Gonzalez abused his authority. Those cases, however, are inapplicable because they state or suggest that a government officer can be held liable if he knows a victim faces actual distress but uses his authority to interfere or prohibit assistance, thereby directly increasing the harm suffered by the victim. In Ross, for instance, the Seventh Circuit held that a deputy sheriff committed a constitutional tort by ordering qualified bystanders not to rescue a drowning boy. See 910 F.2d at 1432-33. Unlike the deputy in Ross, Gonzalez was neither aware of an immediate danger facing a known victim, nor did he use his authority to prevent the appellants from receiving aid. This \u201cstate-created danger\u201d theory is inapposite without a known victim. \u201cThe most that can be said of [Gonzalez] in this case is that [he] stood by and did nothing when suspicious circumstances dictated a more active role for [him].\u201d DeShaney, 489 U.S. at 203, 109 S.Ct. at 1007.\nThird, because of the open-ended nature of substantive due process, the Supreme Court has cautioned federal courts to use \u201cjudicial self-restraint\u201d and \u201cexercise the utmost care\u201d when asked to find new rights secured by the Due Process Clause. Collins, 503 U.S. at 125, 112 S.Ct. at 1068. Based on the Supreme Court\u2019s reticence, we decline to issue the novel ruling that when one officer exercises his discretion by ordering another officer not to apprehend a drunk driver, a third party unknown to the officer at the time of the order who is later injured.by the drunk driver has a constitutional claim against the ordering officer.\nFinally, our holding is virtually compelled by the Supreme Court\u2019s decision in DeShaney. See 489 U.S. at 197, 109 S.Ct. at 1004. In DeShaney, the mother of a child abuse victim sued state social workers under \u00a7 1983 because they knew that her child was at risk but failed to remove him from the father\u2019s home. The Supreme Court rejected the claim, holding that \u201ca State\u2019s failure to protect an individual against private violence simply does not constitute a violation of the Due Process Clause.\u201d Id. The Court reasoned that while the Due Process Clause limits the State\u2019s power to take a person\u2019s life, liberty or property without due process of law, it does not guarantee \u201ccertain minimal levels of safety and security.\u201d Id. 489 U.S. at 195, 109 S.Ct. at 1003. If a state officer has no duty to protect an identified person from a known danger presented by a third party, he cannot offend due process by permitting an intoxicated driver to remain on the highway, thereby increasing the risk of harm to unidentified and unidentifiable members of the public. Gonzalez\u2019s decision, while imprudent and ultimately tragic, was not sufficiently willful and targeted toward specific harm to remove the case .into the domain of constitutional law. See Lewis, 118 S.Ct. at 1716 (\u201c[0]nly the most egregious official conduct can be said to be \u2018arbitrary in the constitutional sense\u2019 \u201d) (quoting Collins, 503 U.S. at 129, 112 S.Ct. at 1071).\nThe appellants attempt to escape De-Shaney \u2019s holding by describing their argument as an \u201cabuse of governmental authority\u201d rather than a constitutional failure to protect. This semantic dodge will not do. Other than the factually inapplicable state-created danger cases cited above \u2014 which reflect a theory that this court has not yet accepted \u2014 appellants cite no case, and we have found none, that upholds such an ephemeral distinction.\nThe appellants also sued Brooks County under \u00a7 1983, arguing that it had a custom or policy permitting Gonzalez to interfere with junior officers\u2019 attempts to apprehend drunk drivers. As the district court correctly found, however, \u201c[i]f a person has suffered no constitutional injury at the hands of the individual police officer, the fact that the departmental regulations might have authorized [his actions] is quite beside the point.\u201d Los Angeles v. Heller, 475 U.S. 796, 799, 106 S.Ct. 1571, 1573, 89 L.Ed.2d 806 (1986) (per curiam) (emphasis in original); see also Leatherman v. Tarrant County Narc. Intel. and Coord. Unit, 28 F.3d 1388, 1398 n. 15 (5th Cir.1994) (stating that a municipality cannot be liable when the \u201cindividual officers have been exonerated of any underlying constitutional violation\u201d).\nCONCLUSION\nBecause the appellants have failed to allege the deprivation of a constitutional right, their \u00a7 1983 claim fails and Gonzalez is shielded by his qualified immunity. See Harlow, 457 U.S. at 818, 102 S.Ct. at 2738. The county also has no liability. The judgment of the district court is AFFIRMED.\n. Martinez also testified that Gonzalez said \"he\u2019s always drinking so I have stopped him several times so I know he's drinking or he\u2019s drunk.\"\n. At this point, tine officers had no concrete evidence that Zuniga was intoxicated. According to Martinez, he suspected that Zuniga was drunk because Gonzalez stated that Zuni-ga was often drunk, Zuniga stood at the stop sign for an extended period of time, and Zuni-ga eventually made a wide right turn.\n. Gonzalez apparently ordered, \"I\u2019m telling you don't do anything to him because I don\u2019t want him to dirty my car or smell my car up or ... throw up in my car.\u201d\n.The appellants have argued their theory of liability ambivalently. At a hearing in the district court, appellants' counsel stated that \"the 'state-created danger\u2019 [theory is] the heart of this case.\" At oral arguments before this court, however, counsel stated that the \"abuse of government power\u201d theory is \"the heart and soul of our case.\u201d We address both arguments.\n. Ross v. United States, 910 F.2d 1422 (7th Cir.1990).\n. Salas v. Carpenter, 980 F.2d 299 (5th Cir.1992). Appellants also cite Piotrowski v. City of Houston, 51 F.3d 512 (5th Cir.1995), but this court again refused to adopt a state-created danger theory in that case.\n. There is, however, one exception to this rule, not applicable here: \"[W]hen the State takes a person into its custody and holds him there against his will, the Constitution imposes upon it a corresponding duty to assume some responsibility for his safety and general well-being.\u201d DeShaney, 489 U.S. at 199-200, 109 S.Ct. at 1005.\n. As noted in n. 7, supra, however, a state officer has additional liability when the state takes custody of individuals.",
+        "type": "majority",
+        "author": "EDITH H. JONES, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "J.B. Peacock, Jr., Gagnon & Peacock, Dallas, TX, for Plaintiffs-Appellants.",
+      "Phillip A. McKinney, Hornblower, Manning & Ward, Corpus Christi, TX, for Defendants-Appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Armando SAENZ, et al., Plaintiffs-Appellants, v. HELDENFELS BROTHERS, INC.; et al., Defendants, Brooks County; Beto Gonzalez, Brooks County Deputy Sheriff, Defendants-Appellees.\nNo. 98-40902.\nUnited States Court of Appeals, Fifth Circuit.\nJuly 30, 1999.\nJ.B. Peacock, Jr., Gagnon & Peacock, Dallas, TX, for Plaintiffs-Appellants.\nPhillip A. McKinney, Hornblower, Manning & Ward, Corpus Christi, TX, for Defendants-Appellees.\nBefore JONES, DUH\u00c9 and BARKSDALE, Circuit Judges."
+  },
+  "file_name": "0389-01",
+  "first_page_order": 425,
+  "last_page_order": 429
+}
