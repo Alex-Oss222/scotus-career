@@ -1,0 +1,3 @@
+# Hartford — form before assignment
+
+One signed plenary opinion states the single integrated statutory claimant rule and its preserved alternative-route limits. All nine support the rule, application and affirmance; no separate writing performs additional legal work. The opinion is signed because it resolves a contested statutory enforcement question after plenary review. It does not decide the amount, benefit, administrative allowance, financing-order theory or authorized derivative procedure. Form and propositions are fixed before counting and choosing an author; no parts or divisions serve assignment arithmetic.

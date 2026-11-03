@@ -1,0 +1,50 @@
+
+
+VERMONT AGENCY OF NATURAL RESOURCES V.UNITED STATES EX REL. STEVENS
+
+			LII
+
+			Supreme Court		 
+
+VERMONT AGENCY OF NATURAL RESOURCES V.UNITED STATES EX REL. STEVENS (98-1828) 
+162 F.3d 195, reversed.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Breyer ]Concurrence
+ [ Ginsburg ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+VERMONT AGENCY OF NATURAL RESOURCES v. UNITED STATES ex rel. STEVENS
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+
+No. 98—1828.  Argued November 29, 1999–Decided May 22, 2000
+
+Under the False Claims Act (FCA), a private person (the “relator”) may bring a qui tam civil action “in the name of the [Federal] Government,” 31 U.S.C. § 3730(b)(1), against “[a]ny person” who, inter alia, “knowingly presents … to … the … Government … a false or fraudulent claim for payment,” §3729(a).  The relator receives a share of any proceeds from the action.  §§3730(d)(1)—(2).  Respondent Stevens brought such an action against petitioner state agency, alleging that it had submitted false claims to the Environmental Protection Agency in connection with federal grant programs the EPA administered.  Petitioner moved to dismiss, arguing that a State (or state agency) is not a “person” subject to FCA liability and that a qui tam action in federal court against a State is barred by the Eleventh Amendment.  The District Court denied the motion, and petitioner filed an interlocutory appeal.  Respondent United States intervened in the appeal in support of respondent Stevens.  The Second Circuit affirmed.
+
+Held:  A private individual may not bring suit in federal court on behalf of the United States against a State (or state agency) under the FCA.  Pp. 4—21.
+
+    (a)  A private individual has standing to bring suit in federal court on behalf of the United States under the FCA.  Stevens meets the requirements necessary to establish Article III standing.  In particular, he has demonstrated “injury in fact”–a harm that is both “concrete” and “actual or imminent, not conjectural or hypothetical.”  Whitmore v. Arkansas, 495 U.S. 149, 155.  He contends he is suing to remedy injury in fact suffered by the United States–both the injury to its sovereignty arising from violation of its laws and the proprietary injury resulting from the alleged fraud.  The concrete private interest that Stevens has in the outcome of his suit, in the form of the bounty he will receive if the suit is successful, is insufficient to confer standing, since that interest does not consist of obtaining compensation for, or preventing, the violation of a legally protected right.  An adequate basis for Stevens’ standing, however, is found in the doctrine that the assignee of a claim has standing to assert the injury in fact suffered by the assignor.  Because the FCA can reasonably be regarded as effecting a partial assignment of the Government’s damages claim, the United States’ injury in fact suffices to confer standing on Stevens.  This conclusion is confirmed by the long tradition of qui tam actions in England and the American Colonies, which conclusively demonstrates that such actions were “cases and controversies of the sort traditionally amenable to, and resolved by, the judicial process.”  Steel Co. v. Citizens for Better Environment, 523 U.S. 83, 102.  Pp. 4—11.
+
+      (b)  The FCA does not subject a State (or state agency) to liability in a federal-court suit by a private individual on behalf of the United States.  Such a State or agency is not a “person” subject to qui tam liability under §3729(a).  The Court’s longstanding interpretive presumption that “person” does not include the sovereign applies to the text of §3729(a).  Although not a hard and fast rule of exclusion, the presumption may be disregarded only upon some affirmative showing of statutory intent to the contrary.  As the historical context makes clear, various features of the FCA, both as originally enacted and as amended, far from providing the requisite affirmative indications that the term “person” included States for purposes of qui tam liability, indicate quite the contrary.  This conclusion is buttressed by the ordinary rule of statutory construction that if Congress intends to alter the usual constitutional balance between States and the Federal Government, it must make its intention to do so unmistakably clear in the statute’s language, and by the doctrine that statutes should be construed so as to avoid difficult constitutional questions.  The Court expresses no view as to whether an action in federal court by a qui tam relator against a State would run afoul of the Eleventh Amendment, but notes that there is “a serious doubt” on that score.  Ashwander v. TVA, 297 U.S. 288, 348.  Pp. 11—21.
+
+162 F.3d 195, reversed.
+
+    Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Thomas, and Breyer, JJ., joined.  Breyer, J., filed a concurring statement.  Ginsburg, J., filed an opinion concurring in the judgment, in which Breyer, J., joined.  Stevens, J., filed a dissenting opinion, in which Souter, J., joined. 
+

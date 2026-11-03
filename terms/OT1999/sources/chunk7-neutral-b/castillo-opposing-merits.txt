@@ -1,0 +1,2643 @@
+— ͤ äAüEäů — — ——⅜ . 1 
+" » ~ 4 „ ä 
+SAUNA eee. } 
+
+7 ; , 
+
+
+Mar 3) ae; | 
+
+
+No. 99-658 
+
+
+In the Supreme Court of the United States 
+
+
+JAIME CASTILLO, ET AL., PETITIONERS 
+v. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+JAMES K. ROEINSON 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+EDWARD C. DUMONT 
+Assistant to the Solicitor 
+General 
+
+
+JOSEPH C. WYDERKO 
+Attorney 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+Whether the type of firearm used or carried by an 
+offender during and in relation to a predicate offense 
+was a sentencing factor, rather than an element of the 
+offense, under the version of 18 U.S.C. 924(c)(1) in 
+effect at the time of petitioners’ offenses. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+The type of firearm used in an offense under former 
+
+Section 924(c)(1) is a sentencing factor, not an 
+
+element of the offense 19 
+A. The text and structure of Section 924(c)(1) 
+
+
+create a single offense, with graduated penalties 
+based on the type of firearm used or carried in 
+
+
+making firearm type an element of crimes like 
+
+that defined in Section 924(c)(1) 26 
+C. The history of Section 924(c) supports the 
+
+conclusion that firearm type is a sentencing 
+
+factor 30 
+D. The doctrine of constitutional doubt does not 
+
+
+compel adoption of petitioner’s construction. ............. 42 
+Conclusion 47 
+Appendix la 
+
+TABLE OF AUTHORITIES 
+Cases: 
+Almendarez-Torres v. United States, 523 U.S. 224 
+(1998) passim 
+Apprendi v. New Jersey, No. 99-478 (argued 
+Mar. 28, 2000) 18, 28, 44 
+Bailey v. United States, 516 U.S. 137 (1995). 12, 20, 25 
+Busic v. United States, 446 U.S. 398 (1980) 32 
+
+
+(IID 
+
+
+Casee—Continued: Page 
+
+
+Callanan v. United States, 364 U.S. 587 (1961) ............... 43 
+Deal v. United States, 508 U.S. 129 (1993) 24 
+Garrett v. United States, 471 U.S. 773 (1985) ............... 24, 25 
+Holloway v. United States, 526 U.S. 1 (1999) ............... 28,48 
+Hurtado v. California, 110 U.S. 516 (1884) 46 
+Jones v. United States, 526 U.S. 227 (1999) ................ passim 
+Liparota v. United States, 471 U.S. 419 (1985) ................ 19 
+McMillan v. Pennsylvania, 477 U.S. 79 (1986) 19, 
+28, 40 
+Monge v. California, 524 U.S. 721 (1998) 24 
+Muscarello v. United States, 524 U.S. 125 (1998) ............ 43 
+Neder v. United States, 527 U.S. 1 (1999) 47 
+Pinkerton v. United States, 328 U.S. 640 (1946) 11, 25 
+Simpson v. United States, 435 U.S. 6 (1978) 82 
+Smith v. United States, 508 U.S. 223 (1993) 21 
+Staples v. United States, 511 U.S. 600 (199) 19 
+State v. Wedge, 652 P.2d 773 (Or. 1982) 27 
+Stirone v. United States, 361 U.S. 212 (1980) 46 
+United States v. Aduwo, 64 F.3d 626 (11th Cir. 
+1995) 26 
+
+
+United States v. Alborola-Rodriguez, 153 F.3d 
+1269 (11th Cir. 1998), cert. denied, 526 U.S. 1133 
+
+
+(1999) 20, 31 
+United States v. Alerta, 96 F.3d 1230 (9th Cir. 
+
+1996) 20 
+United States v. Anderson, 885 F.2d 1248 (5th 
+
+Cir. 1989) 30 
+United States v. Eads, 191 F.3d 1206 (10th Cir. 
+
+1999), petition for cert. pending, No. 99-6907 ................ 20, 31 
+United States v. Gallo, 195 F.3d 1278 (11th Cir. 
+
+
+1999) 26 
+United States v. Gonzales, 520 U.S. 1 (1997) 32 
+United States v. Irvin, 2 F.3d 72 (4th Cir. 1993), 
+cert. denied, 510 U.S. 1125 (1994) 26 
+
+26 
+
+
+United States v. Luiz, 102 F.3d 466 (11th Cir. 
+1996) 
+
+
+Cases—Continued: 
+
+
+United States v. Meadows, 91 F.3d 851 (7th Cir. 
+1996) 
+
+
+United States v. Olano, 507 U.S. 725 (1993) 
+United States v. Powell, 469 U.S. 57 (1984) 
+United States v. Rodriguez, 67 F.3d 1312 (7th 
+Cir. 1995), cert. denied, 517 U.S. 1174 (1998) 
+United States v. Rodriguez-Moreno, 526 U.S. 275 
+(1999) 
+United States v. Ruiz, 43 F.3d 985 (5th Cir. 1995) 
+United States v. Shea, 150 F.3d 44 (Ist Cir.), cert. 
+denied, 525 U.S. 1030 (1998) 
+United States v. Sims, 975 F 2d 1225 (6th Cir. 
+1992), cert. denied, 507 U.S. 982, 998 and 999 
+(1993) 
+United States v. Thompson/Center Arms Co., 504 
+U.S. 505 (1992) 
+United States v. Wells, 519 U.S. 482 (1997) 
+United States v. Whiting, 28 F.3d 1296 (Ist Cir.), 
+cert. denied, 513 U.S. 956, 994 and 1009 (199) 
+
+
+Statutes and regulation: 
+Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, 
+§ 6460, 102 Stat. 4373-4374 
+Comprehensive Crime Control Act of 1984, Pub. L. 
+No. 98-473, Tit. IT, f 1005(a), 98 Stat. 2138-2139 
+Crime Control Act of 1990, Pub. L. No. 101-647, 
+91101, 104 Stat. 4829: 
+Firearms Owners’ Protection Act, Pub. L. No. 99-308, 
+100 Stat. 449: 
+§ 102(9), 100 Stat. 452-453 
+§ 104(aX(2), 100 Stat. 456-457 
+Gun Control Act of 1968, Pub. L. No. 90-618, 82 Stat. 
+1213: 
+Tit. I. § 102, 82 Stat. 1223 
+Tit. II. 82 Stat. 1227 
+
+
+5 
+
+
+SS 8 RAS 
+
+
+8 
+2 
+
+
+VI VII 
+
+
+5 
+
+
+Statutes and regulation Continued: Statutes and regulation Continued: Page 
+
+Gun Control Act of 1968, 18 U.S.C. 921 et seg. 
+
+18USC. 921 (1988 & Supp. V 1998) 2 . 1008 wat 
+
+18 U.S.C. 921(a) (1988 & Supp. V 1993) la 21 U.S.C. 848 24 
+
+18 U.S.C. 921000) (1988 & Supp. V 1993) . 9, 21, 30, 39 Cal. Penal Code (West 1992): 
+
+18 U.S.C. 921(a)(5) (1988 & Supp. V 1993) 21 Section 969¢ 27 
+
+18U.S.C. ita) (1988 & Supp. V 1998) 21 Section 12022 — 
+
+18 U.S. C. 921(a)(7) (1988 & Supp. V 1998) 21 Section 12022(a) — 
+
+18 U.S. C. I)) (1988 & Supp. V 1993) 2¹ Section 12022(a)(2) — 
+
+18 USC. 922(a)(4) 29 Fla. Stat. Ann. (West 1992): 
+
+18 U.S.C. 922(b)(4) 29 Sect on 775.087(1) 27 
+
+18U.S.C. 922(0) 29 Sect on 775.087(2)-(3) 27 
+
+18U.S.C. N 29 Haw. lev. Stat. Ann. (1993): 
+
+18 U.S.C. 924 (1988 & Supp. V 1993) 2 Section 706.660.1(1) 27 
+
+18U.S.C. 924(c) (1982) 32 Section 706.660.1(3) 27 
+
+18 U.S.C. 924(c) (Supp. II 1984) 33 N.J. Stat. Ann. (West 1995): 
+
+18 U.S.C. 924(c) (Supp. IV 1986) 33 Section 2C:48-6(c) 28 
+
+18U.S.C. 924(c)(1988 & Supp. V 1993) passim Section 2C:43-6(d) 28 
+
+18U.S.C. 924(c) (Supp. V 1998) — Section 2C:43-6(g) 
+
+18 U.S.C. 924(c\(1) (Supp. V 1993) passim Section 2C:43-6(h) 28 
+
+18 U.S.C. 924(c)(1(B) (Supp. V 1998) 40 Section 2C:48-7(c)-(d) 28 
+
+18 U.S.C. 924(c(1(C) (Supp. V 1998) 40, 5a U.S. Sentencing Guidelines § 1B1.3(aX1\B) 26 
+National Firearms Act, 26 U.S.C. 5801 et seq. 29 
+
+26 U.S.C. 5845 30 Miscellaneous: 
+
+26 U.S.C. 5845(a) 29, 30 131 Cong. Rec. (1985): 
+
+26 U.S.C. 5845(b) 2, 21, 4a pp. 18,232-18,236 34 
+
+26 U.S.C. 5861 30 pp. 18,234-18,235 34 
+
+26 U.S.C. 5861(d) 2 pp. 28,265-28,275 34 
+Omnibus Crime Control Act of 1970, Pub. L. No. 182 Cong. Rec. (1986): 
+
+91-644, Tit. II, § 13, 84 Stat. 1889 31 p. 3809 34, 35 
+Violent Crime Control and Law Enforcement Act p. 4512 3⁵ 
+
+of 1994, Pub. L. No. 103-822, § 11010 24e), 108 Stat. p. 35 
+
+1998 39 p. 5811 35 
+8 U.S.C. 1326 36 p. 6885 35 
+8 U.S.C. 1826(a)-(b) 40 p. 6837 35 
+18 U.S.C. 248000) 40 p. 6843 36 
+18 U.S.C. 1112 2 p. 6850 36 
+18 U.S.C. 1114 2 p. 6856 36 
+18 U.S.C. 1117 9 p. 6857 36 
+18 U.S.C. 2113(e) 22 pp. 7086-7092 37 
+
+
+VIII 
+
+
+2388888 8 
+
+
+David A. Hardy, The Firearms Owners’ Protection 
+Act: A Historical and Legal Perspective, 17 Cumb. 
+L. Rev. 585 (1986) 
+
+H.R. 945, 99th Cong., Ist Sess. (1985) 34, 
+
+H.R. 4332, 99th Cong., 2d Sess. (1986) ............. * 34, 35, 36, 
+
+H.R. Rep. No. 344, 105th Cong., Ist Sess. (1997) ................ 
+
+H.R. Rep. No. 495, 99th Cong., 2d Sess. (1986) 35, 
+
+H.R. Rep. No. 489, 108d Cong., 2d Sess. (1994) = 
+
+H.R. Rep. No. 681, 101st Cong., 2d Sess. (1990) 
+
+S. 49, 99th Cong., Ist Sess. (1985) 34, 35, 
+
+S. Rep. No. 225, 98th Cong., Ist Sess. (1984) 
+
+
+83883888 
+
+
+In the Supreme Court of the United States 
+
+
+No. 99-658 
+JAIME CASTILLO, ET AL., PETITIONERS 
+
+
+V. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 144a- 
+162a) is reported at 179 F.3d 321. An earlier opinion of 
+that court (Pet. App. la-116a), affirming petitioners’ 
+convictions and remanding for resentencing on one 
+count, is reported at 91 F.3d 699. The opinions of the 
+district court on remand (Pet. App. 165a-169a) and in 
+connection with the original sentencing (Pet. App. 119a- 
+141a) are 
+
+
+JURISDICTION 
+The judgment of the court of appeals was entered on 
+June 22, 1999. Petitions for rehearing were denied on 
+July 28, 1999 (Pet. App. 163a-164a). The petition for a 
+writ of certiorari was filed on October 15, 1999, and 
+
+
+(1) 
+
+
+2 
+
+
+granted on January 14, 2000. The jurisdiction of this 
+Court rests on 28 U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Relevant portions of 18 U.S.C. 921 and 924(c) (1988 & 
+Supp. V 1998), 26 U.S.C. 5845(b), and the current ver- 
+sion of Section 924(c) are reprinted at App., infra, la- 
+6a. 
+
+
+STATEMENT 
+
+
+After a jury trial in the United States District Court 
+for the Western District of Texas, each petitioner was 
+convicted of using and carrying a firearm during and in 
+relation to a crime of violence, in violation of 18 U.S.C. 
+924(c)(1) (Supp. V 1993).’ Petitioners Castillo, Branch, 
+Avraam, and Whitecliff were also convicted of volun- 
+tary manslaughter of federal officers, in violation of 18 
+U.S.C. 1112 and 1114. Petitioner Craddock was con- 
+victed of possessing an unregistered destructive device, 
+in violation of 26 U.S.C. 5861(d). 
+
+Petitioners Castillo, Branch, Avraam, and Whitecliff 
+were sentenced to consecutive terms of ten years’ im- 
+prisonment for manslaughter and 30 years’ imprison- 
+ment for the firearms offense, to be followed by five 
+years of supervised release. Petitioner Craddock was 
+sentenced to consecutive terms of ten years for the 
+firearms offense and ten years for possession of a 
+destructive device, to be followed by five years of su- 
+pervised release. Petitioners Castillo, Branch, White- 
+cliff, and Craddock were fined $2000 each, petitioner 
+Avraam was fined $10,000, and petitioners together 
+were ordered to pay $1.1 million in restitution. The 
+
+
+1 Unless otherwise noted, references in this brief to 18 U.S.C. 
+921 and 924 are to the versions of those statutes in effect at the 
+time of petitioners’ offenses. 
+
+
+3 
+
+
+court of appeals affirmed. Pet. App. la-116a (original 
+appeal), 144a-162a (appeal after remand for resentenc- 
+ing on firearms convictions). 
+
+1. On February 28, 1993, agents of the Bureau of 
+Alcohol, Tobacco, and Firearms (ATF) attempted to 
+execute an arrest warrant for Vernon Howell, also 
+known as David Koresh, and a search warrant for a 
+large compound known as Mount Carmel outside Waco, 
+Texas. Koresh was the leader of the Branch Davidians, 
+a religious sect that resided at the compound. At daily 
+Bible studies, Koresh taught the Davidians that they 
+would be “translated” into heaven following an apoca- 
+lyptic confrontation with outsiders, to whom he re- 
+ferred as “the beast” and “the enemies.” Koresh in- 
+structed the Davidians to prepare for the final battle, 
+and preached that “if you can’t kill for God, you can’t 
+die for God.” The group fortified the Mount Carmel 
+compound, and built a large stockpile of weapons and 
+ammunition, in anticipation of a violent confrontation 
+with the outsiders. As part of their preparations, the 
+Davidians illegally converted semiautc_uatic rifles into 
+fully automatic machineguns. Pet. App. 2a-3a, 65a-67a, 
+75a; Gov't C. A. Br. 4-10. 
+
+Approximately 45 minutes before the ATF agents 
+arrived on February 28, Koresh learned that the agents 
+were planning a raid. Pet. App. 3a, 16a-17a, 66a-67a; 
+Gov't C.A. Br. 12-15. The ATF agents, who were wear- 
+ing raid uniforms that identified them as police officers, 
+arrived at Mount Carmel in two cattle trailers covered 
+with tarp. After several agents alighted and ap- 
+proached the entrance, announcing that they were 
+
+
+2 “Gov't C. A. Br.” refers to the government’s brief in the court 
+of appeals in connection with petitioners’ first set of appeals (Fifth 
+Circuit No. 94-50437). 
+
+
+4 
+
+
+police officers, gunfire erupted from the compound’s 
+front doors and windows. Pet. App. 4a, 17a-18a; Gov’t 
+C.A. Br. 15-16, 18-28.* Around the same time, three 
+National Guard helicopters flying toward the rear of 
+the compound (to create a visual diversion) turned back 
+after they were hit by gunfire from the compound. Pet. 
+App. 4a; Gov’t C.A. Br. 17-18. 
+
+The ensuing gun battle between the ATF agents and 
+the Branch Davidians lasted nearly two hours. During 
+the gun battle, the Davidians shot fully automatic fire- 
+arms at the agents.“ Agents Steven Willis, Conway 
+LeBleu, Todd McKeehan, and Robert Williams were 
+killed by gunfire from the compound. Twenty-two 
+other agents were wounded. Pet. App. 4a, 86a; Gov't 
+C.A. Br. 28-30, 33-40. 
+
+Although a cease-fire was negotiated, Koresh and 
+many of the Branch Davidians refused to leave the 
+
+
+8 Petitioners assert (Br. 5) that “{wJho fired the first shot was 
+disputed.” The court of appeals concluded that it he evidence [at 
+trial] dlid] not permit any reasonable inference but that the 
+Davidians fired the first shots that morning.” Pet. App. 20a. 
+
+At trial, thirteen ATF agents testified that they heard fully 
+automatic gunfire coming from the compound during the battle on 
+February 28. Tr. 1297, 1300-1301 (Ballesteros); 1744-1748 (Curtis); 
+1956-1958 (Mayfield); 1999-2000 (Richardson); 2067-2068, 2074-2075 
+(Champion); 2141-2143 (Alexander); 2220-2224 (Sprague); 2330- 
+2331 (Petrilli); 2404-2405, 2409-2410 (Shiver); 2514-2515 (Cohen); 
+2689-2690 (Buford); 3116 (Chisholm); 3624-3625 (Appelt). A 
+reporter who arrived on the scene shortly after the agents also 
+testified that he heard fully automatic gunfire at the compound. 
+Tr. 6561-6562. A local sheriff’s officer testified that he heard auto- 
+matic gunfire over the telephone when he answered a 911 call from 
+the compound during the battle. Tr. 6514-6515. An FBI expert 
+who reviewed the soundtrack of a videotape of parts of the gun 
+battle testified that some sounds on the tape were consistent with 
+automatic gunfire (Tr. 6124, 6128-6129). 
+
+
+5 
+
+
+compound. Agents of the Federal Bureau of Investiga- 
+tion (FBI) then surrounded the compound and engaged 
+in extended negotiations with Koresh, who instructed 
+the Davidians to open fire if agents attempted to enter 
+the compound. On April 19, 1993, after a 51-day stand- 
+off, the agents attempted to induce the compound’s 
+remaining occupants to leave by flooding the compound 
+with tear gas. Around noon, however, fire broke out in 
+the compound. Most of those remaining in the com- 
+pound died in the fire or from gunshot wounds. Pet. 
+App. 4a, 68a-69a, 121a; Gov’t C.A. Br. 42-55. 
+
+After the fire, Texas Rangers searched the com- 
+pound area. They recovered 46 rifles, as well as two 
+lower receivers, that had been modified to fire as fully 
+automatic machineguns. Tr. 1169-1171, 1175-1177, 1179- 
+1180, 1182-1183, 1187. Twenty-two illegal silencers and 
+several silencer components in various stages of 
+manufacture were also found. Tr. 835-836, 1004-1014, 
+1032-1034, 1037-1039, 1186-1190, 1196-1198, 4952-4956. 
+In addition, the Texas Rangers found hundreds of 
+fragments from exploded hand grenades. Tr. 915-916, 
+962, 997-998, 1002, 1057, 1077, 6145-6146. Numerous 
+other weapons were also found. Gov’t C.A. Br. 55-56. 
+
+2. a. The evidence at trial showed that petitioner 
+Castillo retrieved his AR-15 assault rifle and joined 
+Koresh and several other Davidians at the front doors 
+of the compound when the ATF agents first arrived on 
+February 28. When the gun battle began, Castillo 
+attempted to chamber a round and shoot his rifle, but it 
+jammed. He then retrieved a pistol from his room and 
+went down the hall to another room on the first floor. 
+Tr. 3049-3054, 3087-3089, 3091-3094, 3100-3101, 4516; 
+Pet. App. 45a-50a, 59a-6la, 67a, 7la-72a. Marjorie 
+Thomas, one of three Branch Davidians who testified at 
+trial, later saw Castillo briefly with a gun at the end of 
+
+
+6 
+
+
+the corridor on the second floor. Dep. Tr. 35-37, 45, 106- 
+107; Pet. App. 60a.° 
+
+After the cease-fire was declared, Castillo retrieved 
+an AK-47 assault rifle from the kitchen and stood guard 
+at the kitchen door. When ATF agents were allowed 
+into the interior courtyard to rescue a severely 
+wounded agent, Castillo briefly pointed his rifle at one 
+of the agents. Tr. 2971-2977, 2982-2995, 3109-3112, 
+3122-3125, 3132-3139; Pet. App. 60a-6la, 67a, 7la-72a. 
+During the stand-off, Castillo stood guard with an AK- 
+47 assault rifle in his room on the first floor. Tr. 4131- 
+4132, 4499-4501, 4514; Pet. App. 69a. 
+
+Castillo and two other Davidians escaped from the 
+compound during the fire on April 19 through a hole on 
+the right side of the building. Tr. 5349-5351, 5380-5381, 
+5393-5394, 6336-6337. Castillo, whom the FBI agents 
+had nicknamed “Elvis,” wore a black tank top and an 
+assault vest. Tr. 5009-5010, 5122-5124, 5883-5386, 5889- 
+5391, 5418-5421, 6330-6333; GX 1169, 2147. He and the 
+other two Davidians walked to a nearby boat, where 
+they were joined by another Davidian who had escaped 
+from the burning compound. They left two assault 
+vests, two pistols, ammunition, knives, clothing, and 
+other belongings in a pile. Tr. 5350-5355, 5359-5368, 
+5381-5386, 5390-5391, 5420-5425, 5469-5470, 5660-5661, 
+5665-5677. An FBI agent found a live hand grenade in 
+the assault vest that Castillo had taken off and left in 
+the pile. Tr. 5352-5355, 5662-5665, 6133, 6142-6143, 6147- 
+6148; GX 1112.° 
+
+
+5 “Dep. Tr.” refers to the transcript of Thomas’ videotaped 
+deposition, which was shown at trial. 
+
+s The following day, a Texas Ranger found a second hand gre- 
+nade in a blue jacket that was left in the pile by the boat. Tr. 5675, 
+5683-5686, 6132-6133, 6142-6143, 6147-6148; GX 1109B. 
+
+
+7 
+
+
+b. Petitioner Branch shot a rifle at ATF agents from 
+rooms on the second floor of the compound during the 
+gun battle on February 28. Tr. 4095-4100, 4109-4110, 
+4152-4155, 4157-4161, 4173, 4237-4238; Dep. Tr. 36-39, 
+45; Pet. App. 58a-59a, 67a, 71a. Victorine Hollings- 
+worth, the second Branch Davidian who testified at 
+trial, heard Branch exclaim, during the gun battle, “He 
+nearly got me and I got one.” Tr. 4099-4100; Pet. App. 
+59a. Kathryn Schroeder, the third Branch Davidian 
+who testified at trial, heard Branch running around and 
+yelling in the hallway on the first floor during the gun 
+battle. Tr. 4467; Pet. App. 59a. 
+
+During the stand-off, Branch, armed with an M-1A 
+308 caliber rifle, stood guard in the compound chapel 
+with Thomas and petitioner Whitecliff. Tr. 4502-4503, 
+4506, 4513, 4603-4605, 4608-4609; Dep. Tr. 47-51, 156; 
+Pet. App. 59a, 69a. Thomas overheard Branch brag to 
+Whitecliff, Castillo, and another Davidian that he had 
+shot an agent during the gun battle. Dep. Tr. 48-51; 
+Pet. App. 59a. Branch left the compound on March 19, 
+during the stand-off. Tr. 4539, 5082. 
+
+e. Petitioner Whitecliff shot at the helicopters that 
+approached the rear of the compound during the gun 
+battle on February 28. Tr. 4515, 4628-4629; Pet. App. 
+61a-62a, 67a, 71a, 73a. During the stand-off he stood 
+guard in the chapel with Thomas and petitioner Branch. 
+He was armed with a FN-FAL .308 caliber rifle. Tr. 
+4111-41138, 4198-4199, 4502-4503, 4513-4514; Dep. Tr. 45- 
+48; Pet. App. 61a, 69a, 73a. Thomas overheard White- 
+cliff tell Branch, Castillo, and another Davidian that he 
+had shot an agent during the gun battle. Dep. Tr. 48-51; 
+Pet. App. 61a-62a. Whitecliff, like Branch, left the 
+compound on March 19, during the stand-off. Tr. 4539, 
+5096 
+
+
+8 
+
+
+d. Petitioner Avraam fired a rifle at ATF agents 
+from the gymnasium on the right rear side of the com- 
+pound during the gun battle on February 28. Tr. 4515- 
+4517, 4654-4655; Pet. App. 57a-58a, 67a, 72a. During the 
+stand-off, Avraam stood guard in the areas above the 
+gymnasium and chapel, armed with a .50 caliber rifle. 
+Tr. 4496-4498, 4646, 4656-4658, 4726, 4734-4735, 4910- 
+4912; Dep. Tr. 56-57; Pet. App. 57a-58a, 69a, 72a. 
+Avraam escaped from the compound during the fire on 
+April 19 by climbing out a second-floor front window 
+and sliding off the lower roof. Before sliding down 
+himself, Avraam pulled a handgun and a magazine out 
+of his pockets and shoved them down the roof. Tr. 
+5242-5245, 5326-5331, 5340, 5349-5350, 5362-5371, 5375- 
+5380, 5418-5419, 5444-5452, 6090-6091. 
+
+After his arrest, Avraam shared a jail cell with 
+Bradley Rogans. Avraam told Rogans that during the 
+gun battle he had a fully automatic weapon that had 
+been issued to him sometime before the ATF raid on 
+February 28. Tr. 6088-6089.“ Avraam also told Rogans 
+that he had not shot at the agents, but then he laughed 
+and said he was not a bad shot. Tr. 6086-6088, 6095- 
+6096; Pet. App. 58a. 
+
+e. Petitioner Craddock learned from Koresh and 
+another Davidian on the morning of February 28 that 
+there would be a confrontation with ATF agents. Tr. 
+6383-6586; Pet. App. 68a. Craddock returned to his 
+room on the first floor, changed into his black 
+and retrieved his AR-15 assault rifle. Craddock then 
+went to the kitchen and loaded his 9 mm. handgun with 
+ammunition, but Koresh told him to stay in his room. 
+
+
+7 Koresh had distributed weapons to the Davidians during a 
+Bible study two weeks before the ATF raid. Tr. 4182-4134, 4726- 
+4727, 4734, 6348-6349; Dep. Tr. 65-67. 
+
+
+9 
+
+
+Tr. 6349-6351, 6383-6391, 6402-6404, 6407-6414; Pet. 
+App. 68a, 72a. During the stand-off, Craddock stood 
+guard in Schroeder’s bedroom on the first floor, carry- 
+
+
+ing both the AR-15 assault rifle and the 9 mm. pistol. 
+
+
+Tr. 4501-4502, 4513, 6348-6349, 6352; Dep. Tr. 45-46, 
+141-143, 150-152; Pet. App. 69a. 
+
+Craddock escaped from the compound during the fire 
+on April 19 and hid for a time in a cinder block building 
+next to the water tower. Tr. 6352-6354, 6397-6398. 
+After he was arrested, Craddock admitted to the Texas 
+Rangers that Koresh had given him a hand grenade 
+earlier that morning. Tr. 6351-6352, 6375-6376, 6404- 
+6406, 6441. The Texas Rangers found the hand gre- 
+nade, as well as a pistol, a magazine vest, a gas mask, 
+and ammunition, in the cinder block building. Tr. 6056- 
+6059, 6075-6077, 6133, 6142-6143, 6147-6148, 6354, 6898. 
+
+8. Petitioners were charged with, among other 
+crimes, conspiring to murder federal officers, in viola- 
+tion of 18 U.S.C. 1117, and using and carrying firearms 
+during and in relation to that conspiracy (a “crime of 
+violence”), in violation of 18 U.S.C. 924(c)(1). J. A. 14-21, 
+22-23. The district court instructed the jury that in 
+order to find a defendant guilty under Section 924(c)(1), 
+it must find It hat the Defendant under consideration 
+committed the crime alleged in Count One of the 
+Indictment,” which was the conspiracy to murder. J.A. 
+29. The instructions defined the term “firearm” to 
+mean “any weapon which will or is designed to or may 
+readily be converted to expel a projectile by the action 
+of an explosive.” J. A. 30; see 18 U.S.C. 921(aX(3). The 
+jury acquitted each petitioner on the q@nspiracy count, 
+
+
+8 The Rangers later found a fourth hand in the con- 
+crete bunker where Koresh stored some of hi@ weapons. Tr. 903, 
+912, 915-916, 980-981, 6133-6134, 6142-6143, 614796148. 
+
+
+10 
+
+
+but found each guilty of the firearms offense. J.A. 32- 
+33, 35-36. 
+
+In sentencing petitioners on the firearms count, the 
+district court observed that 48 machineguns, four live 
+hand grenades, and v merous grenade fragments were 
+retrieved from the ruins of the Mount Carmel com- 
+pound and vehicles immediately surrounding it. Pet. 
+App. 124a-125a. The court noted that each of the defen- 
+dants “stood guard [during the stand-off], with order(s] 
+to fire should the FBI agents attempt entry”; that 
+Injumerous witnesses testified to the use of automatic 
+weapons during the February 28th firefight with ATF 
+agents”; and that the testimony to that effect was 
+corroborated by an FBI agent’s identification of “fully 
+automatic weapon fire on the video recordings made on 
+that date.” Id. at 125a. 
+
+The court found that the evidence “established the 
+existence of not only a figurative but a literal fortress, 
+manned by each of the [petitioners],” and that each 
+petitioner had either “actual or constructive possession 
+of the numerous fully automatic weapons and hand 
+grenades present in the Compound before February 28, 
+1998, and through the 51 day siege.” Pet. App. 124a. In 
+addition, the court explained (id. at 122a) that “(bly its 
+verdict convicting the [petitioners] of violating Section 
+924(c)(1), the jury found that they were members of a 
+conspiracy to murder federal agents.” The court found 
+that three members of the conspiracy (including 
+petitioners Avraam and Craddock) actually possessed a 
+machinegun or destructive device between February 28 
+and April 19, and that “the use of fully automatic wea- 
+pons, and probably grenades and silencers, was fore- 
+seeable and foreseen by all” the conspirators. Id. at 
+126a-127a. For sentencing purposes, the court held, 
+each petitioner “should be held accountable under 
+
+
+11 
+
+
+Pinkerton (v. United States, 328 U.S. 640 (1946)] for 
+using and carrying machineguns, destructive devices 
+and silencers during their conspiracy to murder federal 
+officers.” Pet. App. 126a. 
+
+The district court rejected (Pet. App. 127a-134a) 
+petitioners’ argument that it could not impose a 30-year 
+sentence on any petitioner under Section 924(c)(1) in 
+the absence of a jury finding that that petitioner had 
+used or carried a machinegun, destructive device, or 
+silencer. The court held instead (id. at 129a-130a) that 
+the type of “firearm” involved in the offense was a 
+sentencing factor, “not an element of the offense.” 
+Having held that petitioners shared responsibility for 
+the use and carrying of machineguns and grenades in 
+relation to their conspiracy, the court concluded that 
+each petitioner was subject to a 30-year sentence under 
+Section 924(c)(1). Id. at 126a-127a, 134a.’ 
+
+4. The court of appeals affirmed petitioners’ convic- 
+tions, including those under Section 924(c)(1). Pet. App. 
+la-116a; see id. at 63a-73a. The court rejected the claim 
+that petitioners could not be convicted of using or 
+carrying firearms during and in relation to a conspiracy 
+to murder, when the jury had acquitted them on the 
+conspiracy count itself. Jd. at 65a. The court observed 
+that “(t]he record is replete with evidence of a 
+
+
+The court imposed 30-year terms on petitioners Castillo, 
+Branch, Avraam, and Whitecliff, consecutive to their 10-year sen- 
+tences for manslaughter. 6/16/94-6/17/94 Tr. 222-223 (Castillo), 226 
+(Branch), 227 (Avraam), 229 (Whitecliff). Although it held that 
+petitioner Craddock was subject to the same sentence under Sec- 
+tion 924(c), the court “depart{[ed] downward” in his case and im- 
+posed only a 10-year sentence, consecutive to a 10-year sentence 
+for possession of a grenade. Id. at 230-232; Pet. App. 79a, 146a & 
+n.2. The government did not challenge Craddock’s sentence on 
+appeal. See Pet. App. 79a. 
+
+
+12 
+
+
+conspiracy to murder federal agents and each individual 
+[petitioner’s] membership in that conspiracy.” Ibid.; 
+see id. at 65a-70a. Likewise, the court found “over- 
+whelming” evidence “that each of the five [petitioners] 
+‘used’ a firearm” within the meaning of Section 924(c) 
+(id. at 71a), and did so during and in relation Ito] the 
+conspiracy (id. at 72a). 
+
+The court also rejected petitioners’ argument that 
+the type of firearm used or carried was an offense ele- 
+ment, rather than a sentencing factor, under the appli- 
+cable version of Section 924(c)(1). Pet. App. 78a-85a. 
+Relying on the statute’s structure and history, the 
+court concluded that Congress did not intend to create 
+separate offenses when it amended Section 924(c) to 
+provide for stiffer penalties in cases involving certain 
+types of weapons. Id. at 8la, 85a. The court accord- 
+ingly held that It he Government need not charge in 
+the indictment nor must the jury find as part of its 
+verdict the particular type of firearm used or carried by 
+the defendant.” Id. at 85a. 
+
+The court held, however, that the sentences imposed 
+under Section 924(c) could not stand to the extent they 
+rested only on the district court’s finding that each 
+petitioner had “actual or constructive possession” of the 
+machineguns and grenades present in the Davidians’ 
+compound. Pet. App. 85a-86a. The court explained that 
+under this Court’s intervening decision in Bailey v. 
+United States, 516 U.S. 137 (1995), the government 
+must prove “active employment” of a firearm in order 
+to satisfy the “use” element of Section 924(c)(1). Pet. 
+App. 86a. Although there was “evidence from which it 
+could be found that machineguns and other enhancing 
+weapons were used by one or more members of the 
+conspiracy,” the court noted that “[w]ith Bailey the 
+district court must take another look and enter its 
+
+
+13 
+
+
+findings regarding active employment.“ Ibid. It 
+therefore vacated the sentences imposed under Section 
+924(c), and remanded for resentencing on that count. 
+The court made clear that if the district court “[sJhould 
+* * * find on remand that members of the conspiracy 
+actively employed machineguns, it [would be] free to 
+reimpose the 30-year sentence.” Ibid.” 
+
+5. After this Court denied review, 520 U.S. 1185 
+(1997), the district court reconsidered petitioners’ 
+sentences under Section 924(c) in accordance with the 
+court of appeals’ mandate. See Pet. App. 165a-169a. 
+Reviewing the evidence in light of Bailey, the court 
+found that petitioners Branch, Castillo, Craddock, and 
+Avraam each personally used or carried “enhancing 
+weapons” during and in relation to the conspiracy. Id. 
+at 167a." The court noted that there was “no direct 
+
+
+10 The court also concluded that the district court did not err in 
+
+
+sentences on the firearms counts. Id. at 98a-116a. 
+u Count 1 of the indictment charged that the conspiracy to 
+murder federal agents lasted from February 1992 through April 
+19, 1998. J. A. 14. The court found that Branch had been seen 
+com- 
+
+
+14 
+
+
+evidence that [petitioner] Whitecliff personally used or 
+carried an enhancing weapon,” but it reiterated that 
+Imjore than a preponderance of the evidence clearly 
+demonstrates that many members of the conspiracy 
+fired, brandished, displayed and carried fully automatic 
+machine guns and hand grenades during the period of 
+the conspiracy,” and that “those acts were foreseeable 
+and foreseen by each [petitioner].” Id. at 168a-169a; 
+9/4/97 Tr. 33. Relying in part on its previous discussion 
+of responsibility for co-conspirators’ acts under the 
+Pinkerton doctrine, see Pet. App. 125a-127a, the court 
+reimposed the same sentences that it had originally 
+imposed under Section 924(c)(1). Id. at 169a. 
+
+6. The court of appeals affirmed. Pet. App. 144a- 
+162a. Based on the law of the case doctrine, the court 
+declined to revisit its previous holding that the type of 
+firearm used or carried was a sentencing factor, not an 
+offense element, under former Section 924(c)(1). Id. at 
+15la-155a. 
+
+The court rejected (Pet. App. 154a) petitioners’ con- 
+tention that its position was inconsistent with this 
+Cour es intervening decisions in Almendarez-Torres v. 
+United States, 523 U.S. 224 (1998), and Jones v. United 
+States, 526 U.S. 227 (1999). It noted that its treatment 
+of the sentencing-factor issue on petitioners’ earlier 
+appeal “accord[ed] with the directive in Almendarez- 
+Torres * * * to look at ‘language, structure, subject 
+matter, context, and history’ in determining whether or 
+not Congress intended for a statute to define a separate 
+crime.” Pet. App. 154a (quoting Almendarez-Torres, 
+523 U.S. at 228). With respect to Jones, the court 
+
+
+February 28; that Castillo had a live grenade on his person when 
+he escaped from the compound on April 19, 1998; and that Crad- 
+dock also carried a grenade on April 19. Pet. App. 167a-168a. 
+
+
+15 
+
+
+concluded that in that case “the legislative history 
+contained conflicting indications of whether Congress 
+intended for * the statute at issueſ] to lay out 
+three distinct offenses or a single crime with three 
+maximum penalties,” whereas “the legislative history of 
+§ 924(c)(1) discloses that Congress consistently referred 
+to the machine gun clause as a penalty and never 
+indicated that it intended to create a new, separate 
+offense for machine guns.” Ibid. The court declined to 
+consider petitioners’ new arguments based on the 
+doctrines of “constitutional doubt” and lenity, observing 
+that petitioners had not advanced those arguments on 
+their first appeal, and had not shown that failure to 
+consider them belatedly would lead to “plain error.” Id. 
+at 151a, 155a. 
+
+The court also “decline{d] to reconsider [its] prior 
+approval of the district court’s application of the 
+Pinkerton doctrine” for purposes of sentencing. Pet. 
+App. 160a. In light of that ruling, the court did not 
+address petitioners’ claims that the district court 
+clearly erred in finding, on remand, that petitioners 
+Branch, Avraam, Castillo, and Craddock personally 
+used or carried machineguns or hand grenades, and in 
+relying on conduct after February 28 in resentencing 
+Castillo and Craddock. Id. at 160a n.16. The court 
+refused to revisit its holding that petitioners could be 
+convicted under Section 924(c) even though they had 
+been acquitted of conspiracy to murder (id. at 155a- 
+157a), and held that petitioners had waived any 
+objection to the jury instruction on “use” of a firearm 
+(id. at 157a-158a) or to the district court’s-use of a 
+preponderance standard in finding facts relevant to 
+sentencing (id. at 160a-161a). In this Court, petitioners 
+have challenged only the court of appeals’ construction 
+of former Section 924(c)(1). Pet. i; Pet. Br. i. 
+
+
+16 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Section 924(c)(1) varies the punishment for the use or 
+carrying of a firearm during and in relation to a 
+predicate offense based on the type of firearm involved 
+in the offense. The question here is whether proof of 
+the type of firearm is an element of the offense, which 
+must be submitted to the jury and found beyond a rea- 
+sonable doubt, or, alternatively, is a sentencing factor 
+for the judge. That question is first one of legislative 
+intent. Applying the traditional tools of statutory 
+construction—statutory text, structure, context, and 
+history—the type of firearm in a Section 924(c)(1) 
+offense is a sentencing factor. 
+
+The text of former Section 924(c)(1) contains a com- 
+plete set of offense-defining elements in the statute’s 
+introductory clause. A defendant who uses or carries a 
+firearm, during and in relation to a predicate crime of 
+violence or drug trafficking crime, has committed an 
+offense. Significantly, the statute bases liability on the 
+use or carrying of “a firearm,” without regard to type. 
+The critical factor is that the defendant has availed 
+himself of a firearm in the commission of another seri- 
+ous crime. Only in successive clauses does the statute 
+go on to specify higher penalties than the basic five- 
+year term in light of the type of weapon involved in the 
+offense, ¢.g., ten years for a short-barreled gun, and 30 
+years for a machinegun, destructive device, or firearm 
+equipped with a silencer. Those clauses addressing the 
+type of firearm, which are worded in the passive voice, 
+do not stand on their own as complete offenses. They 
+relate, instead, solely to the issue of punishment. 
+
+The structure of the statute supports the conclusion 
+that the type of firearm is a sentencing factor, and 
+differentiates Section 924(c)(1) from the carjacking 
+
+
+17 
+
+
+statute construed in Jones v. United States, 526 U.S. 
+227 (1999), in two critical respects. First, in contrast to 
+the enhancements in the carjacking statute for result- 
+ing injury and death, which introduced new issues into 
+the crime, Section 924(c)(1) already requires proof that 
+the defendant used or carried a firearm; the remaining 
+issue is solely of the type of firearm that will determine 
+the defendant’s sentence. Second, Section 924(c)(1) 
+provides sentence enhancements not only for type of 
+firearm, but also, in immediately adjacent clauses, for 
+the defendant’s recidivism. That conjunction of firearm 
+type with recidivism—the classic sentencing factor, see 
+Almendarez-Torres v. United States, 523 U.S. 224 
+(1998)—indicates a congressional intention to treat both 
+matters as relevant to sentence, not as creating new, 
+aggravated offenses. 
+
+There is no settled or traditional practice of making 
+firearm type an offense element that must be submitted 
+to the jury. Nor is there a pattern in federal gun 
+statutes that would argue in favor of treating type of 
+firearm as an offense element in Section 924(c)(1). 
+While some federal firearms statutes do focus on the 
+type of weapon at issue, those statutes, in contrast to 
+Section 924(c)(1), do not define an offense regardless of 
+the type of firearm involved. And the legislative his- 
+tory and evolution of Section 924(c)(1) support treating 
+firearm type as a sentencing factor. Congress consis- 
+tently spoke of “penalties” and “prison terms” in de- 
+scribing the machinegun clause and related enhance- 
+ments, and it never characterized those provisions of 
+Section 924(c)(1) as creating “offense elements.” 
+
+Finally, the principle that this Court will construe a 
+statute, if fairly possible, to avoid a difficult constitu- 
+tional question does not justify construing the machine- 
+gun enhancement in Section 924(c)(1) to be an element 
+
+
+18 
+
+
+of a separate offense. Unlike in Jones, where the Court 
+concluded, before turning to the doctrine of constitu- 
+tional doubt, that the fairest reading of the carjacking 
+statute was to treat the disputed factor as an offense 
+element, the fairest reading of Section 924(c)(1) is that 
+it creates a sentencing factor when a machinegun is 
+involved in the offense. In addition, this Court is 
+squarely presented with the question whether a 
+sentencing factor that raises the maximum authorized 
+sentence for a crime is constitutional in Apprendi v. 
+New Jersey, No. 99-478. If the Court resolves that 
+constitutional issue broadly in favor of the State, there 
+will be no constitutional doubt to weigh in the scies 
+here. If the Court resolves the constitutional issue 
+narrowly, whatever doubt remains will not be sufficient 
+to overcome the indications of Congress’s intent to 
+create sentencing factors in Section 924(c)(1)—and 
+petitioners have not asked this Court to resolve any 
+constitutional question. 
+
+If, however, the Court resolves Apprendi against the 
+State by adopting a broad constitutional prohibition 
+against sentencing enhancements that raise the maxi- 
+mum authorized punishment, as “suggest[ed]” in Jones, 
+526 U.S. at 243 n.6, then the Court will face in this case 
+the alternatives of either invalidating the sentencing 
+enhancements that Congress provided in Section 924(c) 
+for uses of particularly dangerous firearms, or deter- 
+mining that the statute should, under the circum- 
+stances, be applied in a way that avoids unconstitu- 
+tionality under controlling precedent. Because Cong- 
+ress clearly intended that greater punishment be avail- 
+able for defendants whose Section 924(c)(1) offenses 
+involved more dangerous weapons, and because there is 
+nothing to indicate that Congress would have refrained 
+from authorizing those sentences if additional proce- 
+
+
+— ee 
+
+
+19 
+
+
+dures were required, it would be more consistent with 
+Congress’s intent to preserve the availability of the 
+type-of-weapon enhancements, subject to compliance 
+with specified procedures, than to invalidate them 
+outright. Should the Court adopt that approach, it 
+would follow that the sentencing procedures in this case 
+involved constitutional error. In that event, it would be 
+appropriate to remand the case to allow the court of 
+appeals to consider the application of plain-error and 
+harmless-error principles. 
+ARGUMENT 
+
+
+THE TYPE OF FIREARM USED IN AN OFFENSE 
+UNDER FORMER SECTION 924(c)(1) IS A SEN- 
+TENCING FACTOR, NOT AN ELEMENT OF THE 
+OFFENSE 
+
+
+Within broad constitutional limits, “the definition of 
+the elements of a criminal offense is entrusted to the 
+legislature, particularly in the case of federal crimes, 
+which are solely creatures of statute.” Staples v. 
+United States, 511 U.S. 600, 604 (1994) (quoting Lipa- 
+rota v. United States, 471 U.S. 419, 424 (1985)). Ac- 
+cordingly, the question whether a particular factor 
+mentioned in a federal criminal statute—in this case, 
+the type of firearm used or carried during and in rela- 
+tion to a crime of violence—is an offense element or a 
+
+
+sentencing factor is first and foremost a question of 
+
+
+congressional intent. Almendarez-Torres v. United 
+States, 523 U.S. 224, 228 (1998); McMillan v. Pennsyl- 
+vania, 477 U.S. 79, 85 (1986); see also Jones v. United 
+States, 526 U.S. 227, 232-239 (1999). Like other such 
+questions, it is best approached in the first instance by 
+considering the “language, structure, subject matter, 
+context and history” of the provision in question. Al- 
+mendarez-Torres, 523 U.S. at 228. 
+
+
+20 
+
+
+A. The Text And Structure Of Section 924(c)(1) Create A 
+Single Offense, With Graduated Penalties Based On 
+The Type Of Firearm Used Or Carried In The Offense 
+
+
+1. The language and structure of former Section 
+924(c)(1) reflect Congress’s intent to define a single 
+offense of using or carrying any type of firearm— 
+including a machinegun or “destructive device”—dur- 
+ing and in relation to certain violent or drug-related 
+crimes.” The opening clauses of the text define the 
+elements of that offense: “Whoever, during and in 
+relation to any crime of violence or drug trafficking 
+crime * * *, uses or carries a firearm, shall, in addition 
+to the punishment provided for such crime of violence 
+, be sentenced to imprisonment for five years 
+* * *” That language sets out “two distinct conduct 
+elements—* * * the ‘using and carrying’ of a gun and 
+the commission of a [predicate crime].” United States 
+v. Rodriguez-Moreno, 526 U.S. 275, 280 (1999); see also 
+Bailey v. United States, 516 U.S. 137, 142-143 (1995) 
+(“Section 924(c)(1) requires the imposition of specified 
+penalties if the defendant, ‘during and in relation to any 
+crime of violence or drug trafficking crime . . ., uses or 
+
+
+12 Most courts of appeals that considered the question concluded 
+that firearm type was a sentencing factor, not an offense element, 
+under the version of Section 924(c)(1) at issue here. United States 
+v. Eads, 191 F.3d 1206, 1214 (10th Cir. 1999), petition for cert. 
+pending, No. 99-6907; United States v. Alborola-Rodriguez, 153 
+F.3d 1269, 1272 (11th Cir. 1998), cert. denied, 526 U.S. 1133 (1999); 
+United States v. Shea, 150 F.3d 44, 51-52 (Ist Cir.), cert. denied, 
+525 U.S. 1030 (1998); Pet. App. 78a-85a. The Ninth Circuit reached 
+the opposite conclusion in United States v. Alerta, 96 F.3d 1230, 
+1235 (1996). Contrary to petitioners’ claim (Br. 24), before Alerta 
+no circuit had squarely held that type of firearm was an element of 
+the offense. See Pet. App. 88a-84a. 
+
+
+— —— 
+
+
+21 
+
+
+carries a firearm.’”); Smith v. United States, 508 U.S. 
+223, 228 (1993) (same). 
+
+The opening language also includes the central 
+element that serves the statute’s distinctive purpose: 
+What the defendant “uses or carries” must be a “fire- 
+arm.” That term is elsewhere defined very broadly to 
+include, among other things, “any weapon (including a 
+starter gun) which will or is designed to or may readily 
+be converted to expel a projectile by the action of an 
+explosive,” or any “destructive device.” 18 U.S.C. 
+921(a)(3)." Thus, in this case, it was necessary to the 
+criminality of petitioners’ conduct under Section 
+924(c)(1) that they use or carry a type of “firearm” 
+during and in relation to unlawful conduct. By the same 
+token, however, the criminality of their conduct under 
+that Section was complete once they used or carried, 
+during and in relation to that conduct, any “firearm,” 
+whether it was a handgun, a short-barreled shotgun, or 
+a machinegun or “destructive device.” 
+
+
+18 As petitioners recognize (Br. 13 n.8), the “enhancing” wea- 
+pons specified in Section 924(c)(1) are merely subcategories of the 
+broader category of firearms. For example, Section 921(a)(23) 
+provides that “{tJhe term ‘machinegun’ has the meaning given such 
+term in * * 26 U.S.C. 5845(b).” Section 5845(b) defines 
+“machinegun” to include “any weapon which shoots, is designed to 
+shoot, or can be readily restored to shoot, automatically more than 
+one shot, without manual reloading, by a single function of the 
+trigger.” That definition covers any fully automatic weapon, see 
+Staples, 511 U.S. at 602 & n.1; and any weapon that falls within it is 
+necessarily also a “firearm” as defined in Section 921(a)(3). That 
+subsection also expressly includes “any firearm muffler or si- 
+lencer” and “any destructive device.“ See also 18 U.S.C. 921(a)(5) 
+and (6) (defining “shotgun” and “short-barreled shotgun”), 
+921(a)(7) and (8) (defining “rifle” and “short-barreled rifle”). Thus, 
+the enhancing weapons are types of “firearms” the use or carrying 
+of which is prohibited by Section’s 924(c)’s offense-defining clause. 
+
+
+22 
+
+
+The remaining provisions of Section 924(c)(1) do not 
+stand on their own as definitions of new offenses. 
+Compare, e.g., 18 U.S.C. 2113(e). Rather, once the 
+initial clauses have defined the prohibited conduct and 
+set a minimum penalty, the following clauses provide 
+for graduated penalties based on two additional factors: 
+whether the firearm involved in the criminal conduct 
+was of a specified type, and whether the defendant is a 
+repeat offender. In describing the enhancing weapons, 
+the statute is worded in the passive voice (“and if the 
+firearm is a machinegun”), rather than the active voice 
+of the introductory clause (“Whoever * * * uses or 
+carries a firearm”), making clear that no additional 
+conduct by the defendant is required for the stiffer 
+sentence. Rather, the issue, given that the defendant is 
+guilty of using or carrying the firearm, is what type of 
+firearm should be considered in imposing punishment. 
+
+2. As petitioners point out (see Br. 30-31), the struc- 
+ture of Section 924(c)(1) resembles in some respects 
+that of the federal carjacking statute, 18 U.S.C. 2119 
+(1994 & Supp. IV 1998), which defines a base offense 
+and then provides for heavier penalties in cases in- 
+volving serious bodily injury or death. In Jones v. 
+United States, 526 U.S. 227, 232-239 (1999), this Court 
+ultimately concluded that Congress intended serious 
+injury and death to be elements of separate, aggravated 
+offenses under Section 2119. There are, however, two 
+important structural differences between the statutes 
+that call for a different conclusion here. 
+
+First, unlike the injury and death elements at issue in 
+Jones, the considerations of firearm type that are 
+relevant to sentencing under Section 924(c)(1) do not 
+introduce into the statute any new factor, not already 
+embodied in the basic definition of the offense. The 
+elements of the basic carjacking offense—taking a car, 
+
+
+23 
+
+
+from another, by force or threat, and so on—do not 
+include any form of bodily injury. See Holloway v. 
+United States, 526 U.S. 1, 8-12 & n.6 (1999) (even after 
+addition of element requiring “intent to cause death or 
+serious bodily harm,” no actual or attempted harm 
+required to complete offense). In contrast, the basic 
+elements of the firearms offense defined by Section 
+924(c)(1) explicitly include the use or carrying of a 
+“firearm.” 
+
+As noted above, the definition of a “firearm” for 
+purposes of the statute includes all of the particularly 
+dangerous weapons for which the provision goes on to 
+specify enhanced punishments. Moreover, the Section’s 
+offense-defining language refers to any person who 
+“uses or carries a firearm” during and in relation to 
+criminal conduct, while the subsequent clauses refer 
+back to that language and provide for greater punish- 
+ment “if the firearm” involved is one of several specified 
+types. 18 U.S.C. 924(c)(1) (emphasis added). Because 
+those punishment provisions merely distinguish among 
+more and less serious manners or methods of com- 
+mitting the same firearms offense, rather than intro- 
+ducing any new or different factor or consideration 
+(such as resulting injury) into the analysis, they are 
+best understood as identifying sentencing factors, not 
+as defining extra elements of new offenses. Cf. United 
+States v. Sims, 975 F.2d 1225, 1236 (6th Cir. 1992) 
+(“(Bly establishing different sentences for different 
+types of weapons, Congress expressed its intention to 
+punish more severely the use and carrying of what it 
+considers to be more dangerous weapons.”), cert. 
+denied, 507 U.S. 982, 998 and 999 (1993). 
+
+Second, the punishment clauses in Section 924(c)(1), 
+unlike those in Section 2119, address two different sen- 
+tencing factors—and one of those factors is recidivism. 
+
+
+24 
+
+
+This Court has recognized that recidivism is a common, 
+and perfectly proper, sentencing factor. See Almen- 
+darez-Torres, 523 U.S. at 230; Monge v. California, 524 
+U.S. 721, 728-729 (1998); see also Jones, 526 U.S. at 248- 
+249. The fact that Congress coupled type-of-firearm 
+with the traditional recidivism factor in varying the 
+
+
+severity of punishment under Section 924(c)(1) indi- . 
+
+
+cates that Congress intended the courts to treat fire- 
+arm type, like recidivism, as a sentencing factor. 
+
+3. Petitioners do not address the textual features of 
+Section 924(c)(1) that differentiate it from the car- 
+jacking statute at issue in Jones. They do note (Br. 12) 
+that the term “firearm” and the specified firearm types 
+“are all in the same sentence and are separated by mere 
+commas.” That observation, however, more readily 
+leads to the conclusion that the first sentence of Section 
+924(c)(1) defines a single offense, with punishment 
+provisions that vary depending on precisely how the 
+offense is committed. Petitioners also contend (Br. 16- 
+17) that this Court’s interpretation of the term “convic- 
+tion” in Deal v. United States, 508 U.S. 129 (1993), 
+supports their position. Deal, however, construed the 
+statute’s recidivist provision, which stiffens penalties 
+“(ijn the case of [a] second or subsequent conviction.” 18 
+U.S.C. 924(c)(1). The Court held that this repeat- 
+offender enhancement applies even when the second 
+“conviction” was obtained in the same prosecution as 
+the first. 508 U.S. at 132. The Court did not discuss 
+what elements must be established in order to obtain 
+either conviction, and the decision has no bearing on 
+this case.” 
+
+
+4 Petitioners also seek to rely (Br. 17 n.14) on Garrett v. United 
+States, 471 U.S. 773 (1985), which held that the federal “continuing 
+criminal enterprise” statute, 21 U.S.C. 848, defines an offense sepa- 
+
+
+Finally, citing Bailey v. United States, 516 U.S. 137 
+(1995), and cases from the lower courts, petitioners 
+argue (Br. 20-26) that their construction of firearm type 
+as an offense element is somehow “inherent” (Br. 20) in 
+a different element-defining statutory phrase, “uses or 
+carries.” That is incorrect, because a jury could cer- 
+tainly find that a defendant “use[d]” a “firearm,” in the 
+sense of “active employment” required by Bailey, 516 
+U.S. at 148-149, without resolving the further question 
+whether the firearm in was also “a machine- 
+gun, or a destructive device, or * * * equipped witha 
+firearm silencer or firearm muffler.” 18 U.S.C. 
+924(c)(1). The question presented here is whether the 
+jury, rather than a judge, must make the latter finding 
+in order to support the 30-year sentence provided for 
+the “use[]” of those particular “firearms.” See Pet. i; 
+Pet. Br. i, 6-7. That question is not answered by Bailey, 
+or by any necessary implication from the phrase “uses 
+or carries.”” 
+
+
+rate from the predicate offenses of which it takes account, and may 
+give rise to separate and cumulative punishment. 471 U.S. at 784. 
+Garrett s discussion of the terms “convictions” and “convicted” in 
+the recidivist and forfeiture provisions of Section 848, id. at 781, 
+are not relevant here. 
+
+% The courts below held that Bailey's “active employment” 
+requirement was satisfied as to each petitioner. See pp. 13-15, 
+supra; Pet. App. 7la (“The evidence is overwhelming that each of 
+the five [petitioners] ‘used’ a firearm as the Supreme Court has 
+defined the term [in Bailey).”); see also id. at 167a-168a (findings 
+that petitioners Branch and Avraam personally used machineguns 
+during the gun battle on February 28, 1993, and that petitioners 
+Castillo and Craddock carried grenades on April 19, 1993). Those 
+holdings are not at issue here. Nor is petitioner’s argument (Br. 25- 
+26) against the use of sentencing principles derived from Pinker- 
+ton v. United States, 328 U.S. 640 (1946), germane to the question 
+on which this Court granted review. In any event, although the 
+
+
+B. There Is No Traditional Legislative Practice Of Making 
+Firearm Type An Element Of Crimes Like That Defined 
+
+
+In Section 924(c)(1) 
+
+
+In Jones, the Court noted that statutory drafting 
+may occur “against a backdrop * * * of traditional 
+treatment of certain categories of important facts, like 
+the degree of injury to victims of crime, in relation to 
+particular crimes.” 526 U.S. at 234. The Court then 
+observed that “serious bodily injury,” the factor at 
+issue in Jones, “has traditionally been treated, both by 
+Congress and by the state legislatures, as defining an 
+element of the offense of aggravated robbery.” Id. at 
+235. 
+
+There is no similar tradition of treating type of 
+firearm as an element of a separate offense consisting of 
+using or carrying a firearm during and in relation to 
+another offense. Although petitioners suggest that 
+modern “use a gun, go to jail” statutes like Section 
+
+
+jury acquitted petitioners on the conspiracy count of the indict- 
+ment, its guilty verdict on the firearms count required a finding 
+that petitioners did conspire to murder federal agents. See J.A. 29 
+(jury instructions); see generally United States v. Powell, 469 U.S. 
+57, 65-67 (1984) (inconsistent guilty verdict is valid so long as evi- 
+dence is sufficient to sustain conviction). Principles of co-conspira- 
+tor liability are commonly used in sentencing a defendant within 
+the range authorized for the offense of conviction. See, e. g., Sen- 
+tencing Guidelines § 1B1.3(a)(1)(B); United States v. Gallo, 195 
+F.3d 1278, 1281-1282 (11th Cir. 1999); United States v. Luiz, 102 
+F.3d 466, 468-469 (11th Cir. 1996) (per curiam); United States v. 
+Rodriguez, 67 F.3d 1312, 1324 (7th Cir. 1995), cert. denied, 517 US. 
+1174 (1996); United States v. Aduwo, 64 F.3d 626, 628-629 (11th 
+Cir. 1995); United States v. Ruiz, 43 F.3d 985, 992 (Sth Cir. 1995); 
+United States v. Irvin, 2 F.3d 72, 75-77 (4th Cir. 1998), cert. denied, 
+510 U.S. 1125 (1994). If, as we contend, type of firearm is a sen- 
+tencing factor under Section 924(c)(1), then there is no reason not 
+
+
+to apply the same principles in this case. 
+
+
+27 
+
+
+924(c) have their origins in common law offenses of 
+“affray” or “(carrying arms ‘malo animo, Pet. Br. 26- 
+27 & n.27, they offer only one curious example of an 
+early state statute focusing on specific weapon type. 
+See id. at 26-27 & nn.27-29. Their references to contem- 
+porary state statutes and cases (Br. 28-29 & nn.32-33; 
+Br. App. la-lla) produce similarly inconclusive re- 
+sults.” By petitioners’ reckoning (Br. App. la), for 
+
+
+6 Petitioners argue that “[s]ome State laws are structurally the 
+same as § 924(c),” Br. 28, but the examples they cite (Br. 28-29 & 
+nn. 32-33) provide scant support for that assertion. Cal. Penal 
+Code § 12022(a) (West 1992), for example, sets out greater en- 
+hancements for possession of an assault weapon or machinegun, 
+— f — Moreover, a 
+separate Section, Cal. Penal expressly that 
+— 2 — . — 
+that It he nature of the weapon or firearm must be set forth,” and 
+that “the question whether or not [the defendant] * * * was 
+armed with a firearm as alleged” must be resolved by the 
+factfinder at trial if the defendant pleads not guilty. (If the defen- 
+dant pleads guilty, however, that question “must be determined by 
+the court before pronouncing judgment.”) Florida’s and Hawaii’s 
+statutes, like California’s (and unlike Section 924(c)(1)), also deal 
+
+
+§ 706-660.1(1), (3) (1998). (Those provisions also impose mandatory 
+minimum sentences, rather than authorizing higher maximum 
+terms. Compare Fla. Stat. Ann. § 775.087(1) (West 1992) 
+
+
+structure to Section 924(c)(1). The cases petitioners cite (Br. 28 
+n. 32) do not, however, hold that weapon type must be pleaded and 
+proved under the current version of that statute; and v. 
+Wedge, 652 P. 2d 773, 774 n.1 (Or. 1982), makes clear that the 
+
+
+example, 17 States have no separate statute analogous 
+to Section 924(c), while 19 have such statutes, but “do 
+not necessarily impose a stiffer penalty for enhanced 
+type weapons.“ More pertinent here, therefore, is this 
+Court’s clear recognition that “the instrumentality used 
+in committing a violent felony” has “always been con- 
+sidered by sentencing courts to bear on 6— 
+McMillan, 477 U.S. at 89. 
+
+
+Oregon legislature drafted the original version, which did not 
+differentiate among firearm types, to depend on findings made by 
+the sentencing judge. 
+
+17 Petitioners’ classification of statutes is open to question. 
+They contend (Br. App. Ia), for example, that 17 States have no 
+separate statute addressing the use of a firearm in committing a 
+felony, but instead treat that issue under statutes creating 
+“aggravated felonies.” New Jersey is cited as an example of such a 
+State. Ibid. In fact, New Jersey has express sentence enhance- 
+ment provisions—adjacent to the one presently before the Court in 
+Apprendi v. New Jersey, No. 99-478 (argued Mar. 28, 2000)—that 
+do address the use of different types of firearms in the course of 
+committing other felonies; and those provisions do not make 
+firearm type an element of any offense. See N.J. Stat. Ann. 
+§ 2C:43-6(c) (West 1995) (mandatory minimum term if defendant, 
+“while in the course of committing” murder, robbery, or various 
+other crimes, “used or was in possession of a firearm”; mandatory 
+“extended term” (beyond ordinary statutory maximum) if previ- 
+ously convicted of another firearms offense)); id. § 2C:43-6(g) (same 
+but with greater minimum term if the firearm is “a machine gun or 
+assault firearm”); id. § 2C:43-6(d) and (h) (in each instance, the 
+enhancements do not apply “unless the ground therefor has been 
+established at a hearing{[,) * * * which may occur at the time of 
+sentencing, [and at which] the prosecutor shall establish by a 
+preponderance of the evidence that the weapon used or possessed 
+was a firearm,” or “was a machine gun or assault firearm”); see 
+also id. § 2C:43-7(c)-(d) (extended terms imposed under foregoing 
+provisions are greater if the weapon was a machine gun or assault 
+firearm). 
+
+
+With regard to federal practice, petitioners attempt 
+to draw support (Br. 14-15) from the fact that some 
+other provisions of the Gun Control Act of 1968, 18 
+U.S.C. 921-930, apply only to specified types of firearms 
+— which makes it necessary for the government to 
+prove that the defendant’s conduct involved one of 
+those specified types in order to establish commission of 
+the offense. See 18 U.S.C. 922(a)(4) (unlicensed trans- 
+portation of a destructive device, machinegun, short- 
+barreled shotgun or short-barreled rifle); 922(b)(4) (sale 
+or delivery of a destructive device, machinegun, short- 
+barreled shotgun or short-barreled rifle); 92200) (trans- 
+fer or possession of machinegun); 922(v)(1) (manufac- 
+ture, transfer, or possession of semiautomatic assault 
+weapon). None of the cited offenses, however, is 
+structurally similar to Section 924(c)(1). Indeed, those 
+provisions merely demonstrate that Congress knows 
+how to make the type of firearm an offense element 
+when it desires to do so.” 
+
+Petitioners also cite (Br. 14-15) the National Fire- 
+arms Act (NFA), 26 U.S.C. 5801 et seg., which was 
+amended and recodified as part of the Gun Control Act 
+of 1968, Pub. L. No. 90-618, Tit. II, 82 Stat. 1227. As 
+originally enacted in 1934, however, the NFA was 
+designed to exercise stringent control over the circula- 
+tion of machineguns and specific other dangerous, 
+gangster-type weapons through a strict registration 
+and taxation scheme. The definition of “firearm” in 26 
+U.S.C. 5845(a) is accordingly different from the defini- 
+
+
+18 In that regard, we note that Congress enacted Section 92200), 
+which prohibits transfer or possession of a machinegun, at the 
+same time that it first added enhanced penalties for using machine- 
+guns to Section 924(c). See Firearm Owners’ Protection Act, Pub. 
+L. No. 99-308, § 102(9), 100 Stat. 452-453. 
+
+
+30 
+
+
+tion of “firearm” in 21 U.S.C. 921(a)(3). For example, 
+the definition in Section 5845(a) includes machineguns, 
+but does not include semiautomatic weapons, or even 
+ordinary rifles. See United States v. Thompson/Center 
+Arms Co., 504 U.S. 505, 507 (1992) (“[t]he word ‘fire- 
+arm’ is used as a term of art in the NFA.”); see also 
+United States v. Anderson, 885 F.2d 1248, 1250-1251 
+(5th Cir. 1989) (en banc). 
+
+Contrary to petitioners’ contention (Br. 14), firearm 
+type is not an element of any NFA offense in the way 
+that petitioners would make it an element under 
+Section 924(c)(1). The criminal offenses set forth in the 
+NFA, 26 U.S.C. 5861, prohibit various acts involving “a 
+firearm.” Because, as just explained, “firearm” is a 
+limited term of art under the NFA, the government 
+must prove, in a prosecution under Section 5861, that 
+the weapon involved in the charged offense was a 
+machinegun, a short-barreled rifle, or some other type 
+of weapon that is included within Section 5845’s defini- 
+tion of that term. See United States v. Meadows, 91 
+F.3d 851, 856 (7th Cir. 1996); United States v. Whiting, 
+28 F.3d 1296, 1308-1309 (1st Cir. 1994), cert. denied, 513 
+U.S. 956, 994 and 1009 (1994). The appropriate analogy 
+to this case, however, is only that in a prosecution 
+under Section 924(c)(1), the government must prove 
+that the defendant used or carried some weapon that 
+comes within the applicable definition of “firearm” in 
+Section 921(a)(3). That requirement has never been 
+disputed, and was satisfied in this case. 
+
+
+C. The History Of Section 924(c) Supports The Conclu- 
+sion That Firearm Type Is A Sentencing Factor 
+
+As the court of appeals explained in its first opinion 
+
+in this case, the history of the enactment and amend- 
+
+
+31 
+
+
+ment of Section 924(c)’s penalty provisions also points 
+to the conclusion that Congress intended the greater 
+penalties for certain types of dangerous firearms to be 
+sentence enhancements, not to create new substantive 
+offenses. Pet. App. 8la-83a; see also United States v. 
+Eads, 191 F.3d 1206, 1214 (10th Cir. 1999), petition for 
+cert. pending, No. 99-6907; United States v. Alborola- 
+Rodriguez, 153 F.3d 1269, 1272 (11th Cir. 1998), cert. 
+denied, 526 U.S. 1133 (1999); United States v. Shea, 150 
+F.3d 40, 51-52 (Ist Cir.), cert. denied, 525 U.S. 1030 
+(1998). 
+
+1. Section 924(c) was originally enacted as part of the 
+Gun Control Act of 1968, Pub. L. No. 90-618, Tit. I, 
+§ 102, 82 Stat. 1223, and amended by the Omnibus 
+Crime Control Act of 1970, Pub. L. No. 91-644, Tit. II, 
+§ 13, 84 Stat. 1889. As so amended it did not include any 
+special machinegun provision, but provided, in per- 
+tinent part: 
+
+
+(c) Whoever — 
+
+
+(1) uses a firearm to commit any felony for 
+which he may be prosecuted in a court of the 
+United States, or 
+
+
+(2) carries a firearm unlawfully during the 
+commission of any felony for which he may be 
+prosecuted in a court of the United States, 
+
+
+shall, in addition to the punishment provided for the 
+commission of such felony, be sentenced to a term of 
+imprisonment for not less than one year nor more 
+than ten years. In the case of his second or sub- 
+sequent conviction under this subsection, such 
+person shall be sentenced to a term of imprisonment 
+
+
+32 
+
+
+for not less than two nor more than twenty-five 
+years * * *, 
+
+
+18 U.S.C. 924(c) (1982). In Simpson v. United States, 
+435 U.S. 6, 10 (1978), and Busic v. United States, 446 
+U.S. 398, 404 (1980), this Court concluded that the new 
+provision created an offense distinct from the underly- 
+ing federal felony, but that Congress did not intend to 
+allow prosecution or punishment under Section 924(c) if 
+the statute defining the predicate felony already 
+included its own penalty enhancement for use of a 
+firearm. 
+
+Partly in response to Simpson and Busic, see United 
+States v. Gonzales, 520 U.S. 1, 10 (1997), Congress sub- 
+stantially revised Section 924(c) in the Comprehensive 
+Crime Control Act of 1984, Pub. L. No. 98-473, Tit. II, 
+§ 1005(a), 98 Stat. 2188-2139. See also S. Rep. No. 225, 
+98th Cong., Ist Sess. 312-314 (1983). Congress retained 
+the concept that “Section 924(c) sets out an offense 
+distinct from the underlying felony and is not simply a 
+penalty provision.” Jd. at 312. But it rejected the view 
+that Section 924(c) was inapplicable where the pre- 
+dicate crime contained its own weapons enhancement. 
+The revised Section provided, in pertinent part: 
+
+
+(e) Whoever, during and in relation to any 
+crime of violence, including a crime of violence 
+which provides for an enhanced punishment if com- 
+mitted by the use of a deadly or dangerous weapon 
+or device, for which he may be prosecuted in a court 
+of the United States, uses or carries a firearm, shall, 
+in addition to the punishment provided for such 
+crime of violence, be sentenced to imprisonment for 
+five years. In the case of his second or subsequent 
+conviction under this subsection, such person shall 
+be sentenced to imprisonment for ten years. 
+
+
+eee 
+
+
+33 
+
+
+18 U.S.C. 924(c) (Supp. II 1984). 
+
+Two years later, Congress added the machinegun 
+clause to Section 924(c) as part of the Firearms Owners’ 
+Protection Act (FOPA), Pub. L. No. 99-308, § 104(a)(2), 
+100 Stat. 456-457." That Act provided for an enhanced 
+sentence of ten years for a first conviction, or 25 years 
+for a second or subsequent conviction, if the firearm the 
+defendant used or carried was a machinegun or was 
+equipped with a silencer or muffler. § 104(a)(2), 100 
+Stat. 456-457. As amended, the statute provided in 
+pertinent part: 
+
+(c)(1) Whoever, during and in relation to any 
+crime of violence or drug trafficking crime,[] includ- 
+ing a crime of violence or drug trafficking crime, 
+which provides for an enhanced punishment if com- 
+mitted by the use of a deadly or dangerous weapon 
+or device, for which he may be prosecuted in a court 
+of the United States, uses or carries a firearm, shall, 
+in addition to the punishment provided for such 
+crime of violence or drug trafficking erime, [] be 
+sentenced to imprisonment for five years, and if the 
+firearm is a machinegun, or is equipped with a 
+firearm silencer or firearm muffler, to imprisonment 
+conviction under this subsection , such person shall 
+be sentenced to imprisonment for ten years, and if 
+the firearm is a machinegun, or is equipped with a 
+firearm silencer or firearm muffler, to imprisonment: 
+for twenty years. 
+
+
+18 U.S.C. 924(c) (Supp. IV 1986). 
+
+
+19 FOPA also amended Section 924(c) to make it an offense to 
+use or carry a firearm during and in relation to a “drug trafficking 
+crime.” FOPA § 104(a)(2), 100 Stat. 456-457. 
+
+
+34 
+
+
+2. What eventually became the machinegun clause 
+adopted by FOPA had its genesis in competing bills 
+offered by Congressmen Hughes (H.R. 4332, 99th 
+Cong., 2d. Sess. (1986)) and Volkmer (H.R. 945, 99th 
+Cong., Ist Sess. (1985)) in the House of Representa- 
+tives. In July 1985, the Senate passed S. 49, 99th Cong., 
+Ist Sess. (1985), which was known as the McClure- 
+Volkmer bill, and referred it to the House. 131 Cong. 
+Rec. 18,232-18,236 (1985); id. at 18,545. The amend- 
+ments to Section 924(c) in S. 49 did not include the 
+machinegun clause. Id. at 18,234-18,235. S. 49 was 
+similar to an earlier bill introduced in the House by 
+Representative Volkmer, H.R. 945, that had not been 
+reported out of the House Judiciary Committee, and 
+Representative Volkmer attempted to bring both S. 49 
+and H.R. 945 to the House floor through a discharge 
+petition. 131 Cong. Rec. at 28,265-28,275. See generally 
+David A. Hardy, The Firearms Owners’ Protection Act: 
+A Historical and Legal Perspective, 17 Cumb. L. Rev. 
+585, 620-627 (1986). 
+
+Thereafter, Representative Hughes introduced a 
+competing bill, H.R. 4332, in the Judiciary Committee. 
+132 Cong. Rec. 3809 (1986) (Rep. Hughes). That bill’s 
+amendments to Section 924(c) included, for the first 
+time, a machinegun clause that subjected a defendant to 
+enhanced sentences of ten years for a first conviction 
+and 20 years for a second or subsequent conviction. 
+H.R. 4332, § 11.“ The House Report explained that the 
+
+
+20 Section 11 of H.R. 4882 was entitled “Enhanced Penalty for 
+Machinegun Use in Crime and Other Machinegun-Related Mat- 
+ters.” As this Court has noted, “[a] title that contains the word 
+‘penalties’ more often, but certainly not always, * * * signals a 
+provision that deals with penalties for a substantive crime.” 
+Almendarez-Torres, 523 U.S. at 234. 
+
+
+35 
+
+
+bill “add[ed] a new mandatory prison term of ten years 
+for using or carrying a machine gun during and in rela- 
+tion to a crime of violence or a drug trafficking offense 
+for a first offense, and twenty years for a subsequent 
+offense to the mandatory penalty provision of 18 U.S.C. 
+924(c).” H.R. Rep. No. 495, 99th Cong., 2d Sess. 28 
+(1986); see also id. at 2 (H.R. 4332 [plrovides a manda- 
+tory prison term of ten years for using or carrying a 
+machine gun during and in relation to a crime of 
+violence or a drug trafficking offense, and a mandatory 
+twenty years for any subsequent offense”); 132 Cong. 
+Rec. at 3809 (Rep. Hughes) (H.R. 4332 “imposes 
+mandatory prison terms on those that would use a 
+machinegun in the commission of a violent offense or a 
+drug offense”); 132 Cong. Rec. at 4512 (Rep. Hughes) 
+(“The bill provides a 10-year mandatory prison term for 
+carrying a machine gun.”). 
+
+After the House Judiciary Committee reported out 
+H.R. 4332, Representative Volkmer proposed an 
+amendment in the nature of a substitute. 132 Cong. 
+Rec. at 5309; id. at 6835. Unlike S. 49 and H.R. 945, the 
+Volkmer substitute included an amendment to Section 
+924(c) that added enhanced sentences “if the firearm 
+[was] a machinegun, or [was] equipped with a firearm 
+silencer or firearm muffler.” 132 Cong. Rec. at 5311. 
+
+During the floor debates on H.R. 4332 and the 
+Volkmer substitute, the supporters of both bills re- 
+ferred to the machinegun clauses in the two bills as 
+requiring enhanced sentences, not creating a new 
+offense within the existing Section 924(c). See 132 
+Cong. Rec. at 6837 (Rep. Hughes) (H.R. 4332 “strength- 
+ens the mandatory prison sentences for firearms used 
+in the commission of crime—violent crime, drug traf- 
+ficking crime or if a machinegun is used in the com- 
+mission of a violent offense or a drug trafficking of- 
+
+
+36 
+
+
+fense”); ibid. (Volkmer substitute “creat[es] a new 
+extra mandatory prison term for carrying a machine- 
+gun in a violent crime or a drug trafficking offense”); id. 
+at 6843 (Rep. Volkmer) (Volkmer substitute “includes 
+stiff mandatory sentences for the use of firearms, 
+including machineguns and silencers, in relation to 
+violent or drug trafficking crimes”); id. at 6850 (Rep. 
+Moore) (Volkmer substitute “strengthen[s] criminal 
+penalties as it * * * provides a mandatory 10-year 
+prison term for using or carrying a machinegun or 
+silencer in the commission of a violent crime or drug 
+trafficking offense and a 20-year mandatory term for a 
+subsequent offense”); id. at 6856 (Rep. Wirth) (combina- 
+tion of H.R. 4332 and the Volkmer substitute “would 
+have many benefits, including the expansion of manda- 
+
+
+tory sentencing to those persons who use a machinegun 
+in the commission of a violent crime or who carry a 
+
+
+firearm in connection with a narcotics-related crime”); 
+id. at 6857 (Rep. Gallo) (Volkmer substitute “provides a 
+mandatory prison term of 10 years for using a machine- 
+gun during commission of a crime”). As the court of 
+appeals noted, Inloticeably absent from both the 
+House Report and the floor debates was any discussion 
+suggesting the creation of a new offense.” Pet. App. 
+82a; see Almendarez- Torres, 523 U.S. at 234 (noting 
+that legislative history of 8 U.S.C. 1326 “contain[ed] no 
+language at all that indicates Congress intended to 
+create a new substantive crime”).” 
+
+
+21 In Jones, the Court found “unimpressive” several statements 
+in legislative history that referred to subsection (2) of Section 2119 
+as a penalty enhancement. 526 U.S. at 237-238. Those statements, 
+— 4 — — 
+
+option of, the relevant statutory language. Moreover, 
+the Court noted that the legislative history also contained] con- 
+trary indications in some of the statements made by the 1996 
+
+
+Wm 
+
+
+37 
+
+
+The House passed the Volkmer substitute and sub- 
+stituted it for S. 49. 132 Cong. Rec. at 7086-7092. The 
+House version of S. 49 was then referred back to the 
+Senate. Id. at 9556-9559. Senator Hatch inserted into 
+the record a comparison of the Senate and House ver- 
+sions of S. 49, which noted that the House version 
+“provide[d] mandatory penalties of 10 years for first 
+offenders and 20 years for subsequent offenders if the 
+firearm carried or used in violation of section 924(c) is a 
+machinegun. The penalty also applies if the firearm 
+carried or used is equipped with a silencer.” 132 Cong. 
+Rec. at 9598; see also id. at 9590 (Sen. Hatch) (“What 
+the bill establishes are strict additional penalties for 
+felonious use of a firearm.“). Senator McClure also 
+noted that “{ojur colleagues in the House have added 
+additional mandatory penalties for the use of a firearm 
+in a drug trafficking crime, and for the use of a machine- 
+gun or a silencer in a violent Federal felony.” Id. at 
+
+
+amendment’s sponsors, suggesting an assumption that subsection 
+(2) established an element or elements that had to be proven at 
+trial.” Jd. at 238. In contrast, as the court of appeals noted in this 
+case, “the legislative history of § 924(c)(1) discloses that Congress 
+consistently referred to the machine gun clause as a penalty and 
+never indicated that it intended to create a new, separate offense 
+for machine guns.” Pet. App. 154a. 
+
+2 Both the House and the Senate were aware of the distinction 
+between an offense element and a sentencing factor. The House 
+Report on H.R. 4382 noted that the version of S. 49 originally 
+passed by the Senate “add/ed] an unnecessary element to the 
+offense that the carrying be ‘in furtherance of any such crime of 
+violence. H.R. Rep. No. 495, supra, at 9. After the House passed 
+the Volkmer substitute to S. 49, the Senate comparison similarly 
+noted that the Senate version had proposed “a further element of 
+proof to Section 924(c) that the firearm was carried or used ‘in 
+furtherance of the violent Federal crime,” which was not part of 
+the House version. 132 Cong. Rec. at 9592. 
+
+
+9603. The Senate passed the House version of S. 49, 
+which became FOPA. Id. at 9606. 
+
+3. In 1988, Congress increased the enhanced prison 
+term for use of a machinegun or a firearm equipped 
+with a silencer or muffler to 30 years. Anti-Drug Abuse 
+Act of 1988, Pub. L. No. 100-690, § 6460, 102 Stat. 4373- 
+4374." Nothing in the legislative history of that Act 
+“suggests that, in doing so, Congress intended to 
+transform the statute’s basic nature.” See 134 Cong. 
+Rec. 32,697 (1988) (Senate Judiciary Committee analy- 
+sis noting that amendment “increases the mandatory 
+minimum penalties for violent crimes and drug offenses 
+involving firearms. * * * The mandatory penalty for 
+using a machine gun or a gun with a silencer is 
+increased from ten years to thirty years for a first 
+offense, and from twenty years to life for a subsequent 
+offense.”); compare Almendarez-Torres, 523 U.S. at 
+236. 
+Congress later added additional, intermediate en- 
+hanced penalties for use of a destructive device, a short- 
+barreled rifle, or a short-barreled Crime Con- 
+trol Act of 1990, Pub. L. No. 101-647, § 1101, 104 Stat. 
+4829.“ As the court of appeals explained, “[a}t no point 
+did Congress indicate that it intended to create a new, 
+separate offense for those weapons.” Pet. App. 83a. 
+Rather, the House report stated that the amendment 
+“increas[ed] the mandatory additional penalties for 
+using or carrying certain weapons during a crime of 
+violence or a drug felony. [The amendment] provides 
+
+
+* Section 6460 of the 1988 Act was entitled “Enhanced Penal- 
+ties For Use Of Certain Weapons In Connection With A Crime Of 
+Violence Or Drug Trafficking Crime.” 
+
+*% Section 1101 of the 1990 Act was entitled “Minimum Penalty 
+Relating To Short-Barreled Shotguns And Other Firearms.” 
+
+
+Mia = 
+
+
+1 
+
+
+—— te ions 
+
+
+an additional mandatory 10 years imprisonment when 
+the weapon in question is a sawed-off shotgun or rifle, 
+
+
+and an additional 30 years if the weapon is a destructive 
+device.” H.R. Rep. No. 681, 101st Cong., 2d Sess. Pt. 1, 
+at 107 (1990). Congress later included semiautomatic 
+assault weapons among the firearms meriting an 
+enhanced ten-year sentence. Violent Crime Control 
+and Law Enforcement Act of 1994, Pub. L. No. 103-322, 
+§ 110102(c), 108 Stat. 1998.” 
+
+4. Finally, in November 1998 (after this Court 
+decided Almendarez-Torres and Monge, but before it 
+decided Jones), Congress again substantially revised 
+Section 924(c)(1). See App., infra, 5a-Ga (setting out 
+current version). Apart from effectively su i 
+this Court’s decision in Bailey (by making it unlawful 
+not only to use or carry a firearm during and in relation 
+to a covered crime, but also to “possess[]” one “in fur- 
+therance” of such a crime), the revised statute includes 
+new provisions that address brandishing or di i 
+a firearm. The statute also sets forth the sentencing 
+provisions relating to the type of firearm involved in an 
+offense and those relating to recidivism in separate 
+
+
+% Section 110102(c) of the 1994 Act was entitled “Penalties.” 
+Curiously, the House Report states that the amendment “add{ed] 
+use of a semiautomatic assault weapon to the crimes covered by 
+the mandatory minimum of 5 years * * * for use in a federal 
+crime of violence or drug trafficking crime.” H.R. Rep. No. 489, 
+108d Cong., 2d Sess. 23 (1994). Because semiautomatic assault wea- 
+pons were included within the definition of “firearm” in Section 
+921(a)(3), a defendant who used or carried such a weapon was 
+already subject to the five-year mandatory minimum sentence 
+under Section 924(c). The effect of the 1994 amendment was to 
+make a defendant who used or carried such a firearm subject to an 
+enhanced, ten-year sentence instead. 
+
+
+40 
+
+
+subparagraphs. 18 U.S.C. 924(c)(1)(B) and (C) (Supp. 
+IV 1998). 
+
+
+In particular, subparagraph (B) now provides: 
+
+
+(B) If the firearm possessed by a person 
+convicted of a violation of this subsection— 
+
+
+(i) is a short-barreled rifle, short-barreled 
+shotgun, or semiautomatic assault weapon, the 
+person shall be sentenced to a term of imprison- 
+ment of not less than 10 years; or 
+
+
+(ii) is a machinegun or a destructive device, 
+or is equipped with a firearm silencer or firearm 
+muffler, the person shall be sentenced to a term 
+of imprisonment of not less than 30 years. 
+
+
+18 U.S.C. 924(c)(1)(B) (Supp. IV 1998). 
+
+Both in subparagraph (B) and in the rest of Section 
+924(c)(1), Congress has changed the various fixed terms 
+of imprisonment associated with the specified factors 
+from fixed sentences into statutory minimum sen- 
+tences, with an implicit statutory maximum sentence 
+of life imprisonment for any violation. The enactment 
+of a structurally separate sentencing provision, which 
+refers to persons “convicted of a violation” defined else- 
+where, and the change from fixed to minimum sen- 
+tences confirms Congress’s intent to make firearm type, 
+like recidivism (see new subparagraph (C)), a sentenc- 
+ing factor. Compare Almendarez-Torres, 523 U.S. at 
+230-233 (discussing language and structure of 8 U.S.C. 
+1326(a)-(b)); Jones, 526 U.S. at 235 (citing 18 U.S.C. 
+248(b)(2) and 2262(b)(2) (1994 & Supp. IV 1998) as 
+examples of statutes that “explicitly treatſ] serious 
+bodily injury as a sentencing factor”); McMillan, 477 
+U.S. at 89-90 (legislature “simply took one factor that 
+
+
+— — emia le A ay el Nl OT 
+
+
+41 
+
+
+has always been considered by sentencing courts to 
+bear on punishment—the instrumentality used in com- 
+mitting a violent felony—and dictated the precise 
+weight to be given that factor if the instrumentality is a 
+firearm”—or, in this case, a particular type of firearm). 
+While “subsequent legislative history” is certainly “a 
+hazardous basis for inferring the intent of an earlier 
+Congress,” Jones, 526 U.S. at 238 (internal quotation 
+marks omitted), in this instance there is nothing to 
+suggest that the 1998 amendments were intended to 
+change, rather than simply reorganize and clarify, the 
+statute’s treatment of firearm type (and recidivism) as 
+sentencing factors rather than elements. See generally 
+H.R. Rep. No. 344, 105th Cong., Ist Sess. 7 (1997) (“To 
+provide for increased mandatory minimum sentences 
+for criminals possessing firearms, and for other pur- 
+poses.”) (capitalization omitted). 
+
+5. In sum, the history of the machinegun clause in 
+Section 924(c) supports the view that Congress in- 
+tended the stiff penalty it provided to be a sentence 
+enhancement, not the differentiating element of a new, 
+aggravated form of the offense. As the court of appeals 
+noted, the clause’s original legislative history repeat- 
+edly refers to the new provision as requiring a “manda- 
+tory prison term,” “mandatory penalties,” or “manda- 
+tory sentences” for the use of a machinegun. Pet. App. 
+82a. Likewise, the history of subsequent amendments 
+to Section 924(c)—including those in 1998—supports 
+the conclusion that Congress intended to provide new 
+penalties, not to create new substantive offenses, when 
+it added provisions addressing other types of firearms 
+that it considered particularly dangerous when used or 
+carried in violation of the Section’s basic prohibition. 
+The statute’s history accordingly supports the straight- 
+forward reading of its text. 
+
+
+42 
+
+
+D. The Doctrine Of Constitutional Doubt Does Not Com- 
+pel Adoption Of Petitioners’ Construction 
+
+
+Relying on Jones, petitioners argue (Br. 30-43) that 
+firearm type must be treated as an offense element 
+under the doctrine of “constitutional doubt.” That doc- 
+trine, petitioners suggest, requires the Court to con- 
+strue the statute in favor of petitioners in order to 
+avoid addressing the question whether Congress may 
+constitutionally draft a criminal statute that, like 
+Section 924(c)(1), directs the district court to impose an 
+enhanced sentence if it finds specified facts. 
+
+Jones found the doctrine of constitutional doubt rele- 
+vant in construing the carjacking statute to the extent 
+that the government’s arguments in that case left un- 
+certainty about whether Congress intended serious 
+bodily harm to be a sentencing factor. See 526 U.S. at 
+239-252; id. at 243 n.6 (positing possible constitutional 
+rule that “any fact (other than prior conviction) that in- 
+creases the maximum penalty for a crime must be 
+charged in an indictment, submitted to a jury, and 
+proven beyond a reasonable doubt”). The Court dis- 
+cussed constitutional doubt, however, only after appli- 
+cation of the ordinary tools of statutory analysis, id. at 
+232-239, had led it to conclude that the “fairest 
+of the carjacking statute would “treat{] the fact of seri- 
+ous bodily harm [in 18 U.S.C. 2119] as an element, not a 
+mere enhancement” (526 U.S. 239). That approach is 
+consistent with the Court’s earlier observation that the 
+doctrine of doubt applies only if a statute is “genuinely 
+susceptible to two constructions after, and not before, 
+its complexities are unraveled” using other interpreta- 
+tive techniques. Almendarez-Torres, 523 U.S. at 238; 
+see also id. at 228 (“We therefore look to the statute be- 
+fore us and ask what Congress intended,” because 
+
+
+— — 
+
+
+— 
+
+
+43 
+
+
+whether a factor is an element or a sentencing factor “is 
+normally a matter for Congress.”). 
+
+In this case, application of the usual tools of statutory 
+construction leads to the conclusion that Congress in- 
+tended firearm type to be a sentencing factor under 
+Section 924(c)(1). See pp. 20-41, supra. The rule of 
+doubt accordingly does not come into play as an inter- 
+pretive principle.” If interpretation of the statute in 
+accordance with its terms raises a constitutional ques- 
+tion, that question should be addressed directly in some 
+case in which it is properly raised. Cf. Almendarez- 
+
+
+% The rule of lenity likewise has no application in this case. See 
+Pet. Br. 41-43. Notably, Jones did not invoke that doctrine in sup- 
+port of its holding. Nor did Almendarez-Torres imply that lenity 
+might have a role to play in deciding whether a specified factor 
+that increases punishment for an offense is an element or sentenc- 
+ing enhancment factor. Perhaps that omission is attributable to the 
+fact that there can be no doubt that Congress gave fair notice in 
+the statutes at issue in those cases that the factor in question 
+would result in enhanced punishment, and there is no settled 
+doctrine in this Court that would apply lenity in determining “the 
+required procedures for finding the facts that determine the 
+maximum permissible punishment.” Jones, 526 U.S. at 243 n.6. In 
+any event, lenity “only serves as an aid for resolving an ambiguity; 
+it is not to be used to beget one. * The rule comes into 
+operation at the end of the process of construing what Congress 
+has expressed, not at the beginning as an overriding consideration 
+of being lenient to ” Callanan v. United States, 364 
+U.S. 587, 596 (1961); see also Muscarello v. United States, 524 U.S. 
+125, 188-189 (1998); United States v. Wells, 519 U.S. 482, 499 
+(1997). The Court has “repeatedly stated that the rule of lenity 
+applies only if, after seizing everything dom aid can be derived, we 
+can make no more than a guess as to what Congress intended.” 
+Holloway v. United States, 526 U.S. 1, 12 n.14 (1999) (internal 
+
+omitted). No guesswork is required in order to find 
+that Section 924(c)(1)’s machinegun clause was intended as a sen- 
+tencing enhancement. 
+
+
+44 
+
+
+Torres, 523 U.S. at 238 (doctrine of doubt should help 
+“maintain[] a set of statutes that reflect, rather than 
+distort, the policy choices that elected representatives 
+have made”). This case would not be an appropriate 
+one in which to address the constitutional issue, how- 
+ever, because petitioners have consistently argued only 
+that Section 924(c) should be interpreted in their favor, 
+not that it is unconstitutional as construed by both 
+courts below in this case. See Pet. i; U.S. Br. in Opp. 
+18-20; Pet. Reply Br. 9 & n.9 (“Petitioners have from 
+the beginning argued that weapon type is an element of 
+the offense, and constitutional doubt is merely an 
+interpretative doctrine, not a substantive ground of 
+error.”; “No need exists to consider whether § 924(c) is 
+unconstitutional, for the Fifth Circuit’s reading is 
+hardly necessary.”). 
+
+In any event, the constitutional question is squarely 
+presented in Apprendi v. New Jersey, No. 99-478 
+(argued Mar. 28, 2000). If that case is resolved in favor 
+of the State, there may be little or no remaining doubt 
+about the constitutionality of the sentencing scheme at 
+issue here. See Almendarez-Torres, 523 U.S. at 238 
+(doubt doctrine “is not designed to * * creatfe] 
+(through the power of precedent) statutes foreign to 
+those Congress intended, simply through fear of a 
+constitutional difficulty that, upon analysis, will evapo- 
+rate”). If, alternatively, the Court decides Apprendi on 
+grounds that sustain the statute at issue there, but 
+leave some question about the constitutionality of 
+treating firearm type as a sentencing factor under 
+Section 924(c)(1), then the decision in this case should 
+nonetheless be affirmed, for the reasons explained 
+above. 
+
+If the Court were to resolve Apprendi against the 
+State by adopting the broad constitutional prohibition 
+
+
+45 
+
+
+“suggest[ed]” in Jones, 526 U.S. at 243 n.6, then 
+it would face two options in this case, under our read- 
+ing of the statute. It could, under such a decision in 
+Apprendi, declare that the sentencing enhancements 
+that Congress has provided for uses of particularly 
+dangerous firearms are facially invalid. Alternatively, 
+the Court could determine that the enhancements may 
+be applied only in accordance with procedures man- 
+dated in Apprendi, subject to standard principles of 
+appellate review such as plain error and harmless error. 
+The Court should, if it rules broadly against the State in 
+Apprendi, adopt the latter course. Congress clearly 
+intended to impose greater punishment on defendants 
+whose offenses involved more dangerous weapons, and 
+there is nothing to indicate that it would have refrained 
+from providing those stiffer sentences if additional 
+procedures were required. The course of preserving 
+the availability of the type-of-weapon enhancements, 
+subject to compliance with constitutionally mandated 
+procedures, would, accordingly, be more consistent 
+with Congress’s intent than invalidating the enhance- 
+ments outright.” 
+
+
+27 If the court in Apprendi were to adopt the rule suggested in 
+Jones, it would presumably find the procedures mandated by the 
+Constitution to be adequate notice of the possible enhancement, 
+and proof of the predicate fact to the jury beyond a reasonable 
+doubt. See Jones, 526 U.S. at 243 n.6 (“The constitutional safe- 
+guards that figure in our analysis concern * * * only the required 
+procedures for finding the facts that determine the maximum 
+permissible punishment; these are the safeguards going to the 
+formality of notice, the identity of the factfinder, and the burden of 
+proof.”); id. at 252 n.11 (“The constitutional guarantees that 
+prompt our interpretation bear solely on the procedures by which 
+the facts that raise the possible penalty are to be found, that is, 
+what notice must be given, who must find the facts, and what 
+burden must be satisfied to demonstrate them.”). Jones at times 
+
+
+46 
+
+
+Such a holding would mean that the 30-year sen- 
+tences in this case resulted from constitutionally insuffi- 
+cient procedures—although, as we have noted, peti- 
+tioners have never squarely raised a constitutional 
+claim. In that unusual circumstance, the Court should 
+remand this case to give the court of appeals the 
+opportunity to consider the application of plain-error 
+and harmless-error principles.” 
+
+
+refers to whether the fact justifying enhancement is “charged in an 
+indictment,” which would be the usual way to provide the requisite 
+“formal{] * * * notice” (ibid.) in a federal case. See, e. g., id. at 243 
+n.6, 248. The constitutional rule proposed in Jones, however, was 
+described as applying to state as well as federal prosecutions, and 
+the Constitution does not require States to proceed by indictment. 
+Hurtado v. California, 110 U.S. 516 (1884). Adoption of the Jones 
+rule would not, accordingly, prohibit enhanced sentencing in a 
+federal case solely because the indictment did not allege a 
+necessary predicate fact, so long as the defendant received 
+substantively adequate notice of the possible enhancement in some 
+other way. Compare Stirone v. United States, 361 U.S. 212, 215- 
+217 (1960) (where the right to indictment itself is at issue, a court 
+may not permit the defendant to be tried on charges not actually 
+preferred against him by the grand jury). 
+
+2 If Apprendi makes clear that petitioners’ present sentences 
+resulted from constitutional error, then that error might well be 
+“plain,” after Apprendi, for purposes of a case like this one that is 
+still pending on direct appeal. See Johnson v. United States, 520 
+U.S. 461, 467-468 (1997) (“[WJhere the law at the time of trial was 
+settled and clearly contrary to the law at the time of appeall,] it is 
+enough that an error be ‘plain’ at the time of appellate considera- 
+tion.”). Given the evidence at trial, we doubt that petitioners could 
+demonstrate that failure to treat firearm type as an offense ele- 
+ment in this case has “affected substantial rights” or resulted in a 
+“miscarriage of justice” that would “seriously affect the fairness, 
+integrity or public reputation of judicial proceedings,” as they 
+would be required to do in order to benefit from a constitutional 
+claim that they did not raise before the district court or the court 
+of appeals (and, indeed, have not squarely raised even before this 
+
+
+47 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed 
+
+
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+JAMES K. ROBINSON 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+EDWARD C. DUMONT 
+Assistant to the Solicitor 
+General 
+
+
+JOSEPH C. WYDERKO 
+Attorney 
+
+
+MaARcH 2000 
+
+
+Court). See United States v. Olano, 507 U.S. 725, 734, 736 (1993); 
+Johnson, 520 U.S. at 469-470; see also Neder v. United States, 527 
+U.S. 1, 8-20 (1999) (applying harmless error rule where court failed 
+to charge jury on element of offense). Nonetheless, under the 
+limited circumstances discussed in the text it would be appropriate 
+for the Court to remand this case to the court of appeals to allow 
+petitioners an opportunity to make the requisite showings to that 
+court in the first instance. 
+
+
+APPENDIX 
+
+
+1. At the time of petitioners’ offenses, 18 U.S.C. 
+
+
+924(c)(1) (Supp. V 1998) provided in pertinent part as 
+follows: 
+
+
+Whoever, during and in relation to any crime of 
+violence or drug trafficking crime (including a crime 
+of violence or drug trafficking crime which provides 
+for an enhanced punishment if committed by the use 
+of a deadly or dangerous weapon or device) for 
+which he may be prosecuted in a court of the United 
+States, uses or carries a firearm, shall, in addition to 
+the punishment provided for such crime of violence 
+or drug trafficking crime, be sentenced to imprison- 
+ment for five years, and if the firearm is a short- 
+barreled rifle, [or a] short-barreled shotgun to 
+imprisonment for ten years, and if the firearm is a 
+machinegun, or a destructive device, or is equipped 
+with a firearm silencer or firearm muffler, to 
+imprisonment for thirty years. In the case of his 
+second or subsequent conviction under this subsec- 
+tion, such person shall be sentenced to imprison- 
+ment for twenty years, and if the firearm is a 
+machinegun, or a destructive device, or is equipped 
+with a firearm silencer or firearm muffler, to life 
+imprisonment without release. 
+
+
+2. At the time of petitioners’ offenses, 18 U.S.C. 
+921(a) (1988 & Supp. V 1993) provided in pertinent part 
+as follows: 
+
+(a) As used in this chapter [18 U.S.C. 
+921-930}— 
+
+
+(la) 
+
+
+2a 
+
+
+(3) The term “firearm” means (A) any weapon 
+(including a starter gun) which will or is designed to 
+or may readily be converted to expel a projectile by 
+the action of an explosive; (B) the frame or receiver 
+of any such weapon; (C) any firearm muffler or 
+firearm silencer; or (D) any destructive device. Such 
+term does not include an antique firearm. 
+
+
+(4) The term “destructive device” means— 
+
+
+(A) any explosive, incendiary, or poison 
+gas— 
+
+
+(i) bomb, 
+(ii) grenade, 
+
+
+(iii) rocket having a propellant charge 
+of more than four ounces, 
+
+
+(iv) missile having an explosive or 
+incendiary charge of more than 
+one-quarter ounce, 
+
+
+(v) mine, or 
+
+
+(vi) device similar to any of the devices 
+described in the preceding clauses; 
+
+
+(B) any type of weapon (other than a shot- 
+gun or a shotgun shell which the Secretary finds 
+is generally recognized as particularly suitable 
+for sporting purposes) by whatever name known 
+which will, or which may be readily converted to, 
+expel a projectile by the action of an explosive or 
+other propellant, and which has any barrel with a 
+bore of more than one-half inch in diameter; and 
+
+
+3a 
+
+
+(C) any combination of parts either designed 
+or intended for use in converting any device into 
+any destructive device described in subpara- 
+graph (A) or (B) and from which a destructive 
+device may be readily assembled. 
+
+
+The term “destructive device” shall not include any 
+device which is neither designed nor redesigned for 
+use aS a weapon; any device, although originally 
+designed for use as a weapon, which is redesigned 
+for use as a signaling, pyrotechnic, line throwing, 
+safety, or similar device; surplus ordnance sold, 
+loaned, or given by the Secretary of the Army 
+pursuant to the provisions of section 4684(2), 4685, 
+or 4686 of title 10; or any other device which the 
+Secretary of the Treasury finds is not likely to be 
+used as a weapon, is an antique, or is a rifle which 
+the owner intends to use solely for sporting, 
+recreational or cultural purposes. 
+
+
+(5) The term “shotgun” means a weapon de- 
+signed or redesigned, made or remade, and intended 
+to be fired from the shoulder and designed or 
+redesigned and made or remade to use the energy of 
+the explosive in a fixed shotgun shell to fire through 
+a smooth bore either a number of ball shot or a 
+
+
+single projectile for each single pull of the trigger. 
+
+
+(6) The term “short-barreled shotgun” means a 
+shotgun having one or more barrels less than 
+eighteen inches in length and any weapon made 
+from a shotgun (whether by alteration, modification 
+or otherwise) if such a weapon as modified has an 
+overall length of less than twenty-six inches. 
+
+
+4a 
+
+
+(7) The term “rifle” means a weapon designed 
+or redesigned, made or remade, and intended to be 
+fired from the shoulder and designed or redesigned 
+and made or remade to use the energy of the 
+explosive in a fixed metallic cartridge to fire only a 
+single projectile through a rifled bore for each single 
+
+
+pull of the trigger. 
+
+
+(8) The term “short-barreled rifle” means a rifle 
+having one or more barrels less than sixteen inches 
+in length and any weapon made from a rifle 
+(whether by alteration, modification, or otherwise) if 
+such weapon, as modified has an overall length of 
+less than twenty-six inches. 
+
+
+(23) The term “machinegun” has the meaning 
+given such term in section 5845(b) of the National 
+Firearms Act (26 U.S.C. 5845(b)). 
+
+
+(24) The terms “firearm silencer” and “firearm 
+muffler” mean any device for silencing, muffling, or 
+diminishing the report of a portable firearm, includ- 
+ing any combination of parts, designed or redes- 
+igned, and intended for use in assembling or 
+fabricating a firearm silencer or firearm muffler, and 
+
+any part intended only for use in such assembly or 
+fabrication. 
+3. At the time of petitioners’ offenses, Section 
+5845(b) of the National Firearms Act, as amended, 26 
+U.S.C. 5845(b) (1988), provided as follows: 
+
+
+(b) Machinegun.— The term “machinegun” 
+means any weapon which shoots, is designed to 
+
+
+5a 
+
+
+shoot, or can be readily restored to shoot, auto- 
+matically more than one shot, without manual 
+reloading, by a single function of the trigger. The 
+term shall also include the frame or receiver of any 
+such weapon, any part designed and intended solely 
+and exclusively, or combination of parts designed 
+and intended, for use in converting a weapon into a 
+machinegun, and any combination of parts from 
+which a machinegun can be assembled if such parts 
+are in the possession or under the control of a 
+person. 
+
+
+4. As amended by Pub. L. No. 105-386, 112 Stat. 
+3469 (Nov. 13, 1998), Section 924(c)(1) now provides in 
+
+
+pertinent part: 
+
+
+(e) Except to the extent that a greater 
+minimum sentence is otherwise provided by this 
+subsection or by any other provision of law, any 
+person who, during and in relation to any crime of 
+violence or drug trafficking crime (including a crime 
+of violence or drug trafficking crime that provides 
+for an enhanced punishment if committed by the use 
+of deadly or dangerous weapon or device) for which 
+the person may be prosecuted in a court of the 
+United States, uses or carries a firearm, or who, in 
+furtherance of any such crime, possesses a firearm, 
+shall, in addition to the punishment provided for 
+such crime of violence or drug trafficking crime — 
+
+(i) be sentenced to a term of imprisonment 
+of not less than 5 years; 
+
+
+(ii) if the firearm is brandished, be sen- 
+tenced to a term of imprisonment of not less than 
+7 years; and 
+
+
+6a 
+
+
+(iii) if the firearm is discharged, be sen- 
+tenced to a term of imprisonment of not less than 
+
+
+10 years. 
+
+
+(B) Ifthe firearm possessed by a person convicted 
+of a violation of this subsection— 
+
+
+(i) is a short-barreled rifle, short-barreled 
+shotgun, or semiautomatic assault weapon, the 
+person shall be sentenced to a term of imprison- 
+ment of not less than 10 years; or 
+
+
+(ii) is a machinegun or a destructive device, 
+or is equipped with a firearm silence or firearm 
+muffler, the person shall be sentenced to a term 
+of imprisonment of not less than 30 years. 
+
+
+(C) In the case of a second or subsequent convic- 
+tion under this subsection, the person shall— 
+
+
+(i) be sentenced to a term of imprisonment 
+of not less than 25 years; and 
+
+
+(ii) if the firearm involved is a machinegun 
+or a destructive device, or is equipped with a 
+firearm silencer or firearm muffler, be sentenced 
+
+
+to imprisonment for life. 
+
+

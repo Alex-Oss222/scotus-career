@@ -1,0 +1,45 @@
+
+
+HARTFORD UNDERWRITERS INS. CO. V. UNIONPLANTERS BANK, N. A.
+
+			LII
+
+			Supreme Court		 
+
+HARTFORD UNDERWRITERS INS. CO. V. UNIONPLANTERS BANK, N. A. (99-409) 
+177 F.3d 719, affirmed.
+Syllabus
+ Opinion
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+HARTFORD UNDERWRITERS INSURANCE CO. v. 
+UNION PLANTERS BANK, N. A.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 99—409.  Argued March 20, 2000–Decided May 30, 2000
+
+During attempted reorganization under Chapter 11 of the Bankruptcy Code, debtor Hen House Interstate, Inc., obtained workers’ compensation insurance from petitioner Hartford Underwriters.  Although Hen House repeatedly failed to make the monthly premium payments required by the policy, Hartford continued to provide insurance.  The reorganization ultimately failed, and the court converted the case to a Chapter 7 liquidation proceeding and appointed a trustee.  Learning of the bankruptcy proceedings after the conversion, and recognizing that the estate lacked unencumbered funds to pay the premiums owed, Hartford attempted to charge the premiums to respondent bank, a secured creditor, pursuant to 11 U.S.C. § 506(c).  The Bankruptcy Court ruled for Hartford, and the District Court affirmed, but the en banc Eighth Circuit reversed, concluding that §506(c) could not be invoked by an administrative claimant.
+
+Held:  Section 506(c) does not provide an administrative claimant of a bankruptcy estate an independent right to seek payment of its claim from property encumbered by a secured creditor’s lien.  Pp. 3—12. 
+
+    (a)  As an administrative claimant, petitioner is not a proper party to seek recovery under §506(c), which provides: “The trustee may recover from property securing an allowed secured claim the … costs and expenses of preserving, or disposing of, such property … .”  The statute appears quite plain in specifying who may use §506(c)–“[t]he trustee.”  Although the statutory text does not actually say that persons other than the trustee may not seek recovery under §506(c), several contextual features support that conclusion.  First, a situation in which a statute authorizes specific action and designates a particular party empowered to take it is surely among the least appropriate in which to presume nonexclusivity.  Second, the fact that the sole party named–the trustee–has a unique role in bankruptcy proceedings makes it entirely plausible that Congress would provide a power to him and not to others.  Further, had Congress intended the provision to be broadly available, it could simply have said so, as it has in describing the parties who could act under other sections of the Code.  The Court rejects as unpersuasive petitioner’s arguments from §506(c)’s text: that the use in other Code provisions of “only” or other expressly restrictive language in specifying the parties at issue means that no party in interest is excluded from §506(c), and that the right of a nontrustee to recover under §506(c) is evidenced by §1109.  Pp. 3—7.
+
+      (b)  The Court also rejects arguments based on pre-Code practice and policy considerations that petitioner advances in support of its assertion that §506(c) is available to parties other than the trustee. It is questionable whether the pre-Code precedents relied on by petitioner establish a bankruptcy practice sufficiently widespread and well recognized to justify the conclusion of implicit adoption by Congress in enacting the Code.  In any event, where, as here, the meaning of the Code’s text is itself clear, its operation is unimpeded by contrary prior practice.  Also unavailing is petitioner’s argument that its reading is necessary as a matter of policy, since in some cases the trustee may lack an incentive to pursue payment.  It is far from clear that the relevant policy implications favor petitioner’s position, and, in any event, achieving a better policy outcome–if what petitioner urges is that–is a task for Congress, not the courts.  Pp. 7—12.
+
+177 F.3d 719, affirmed.
+
+    Scalia, J., delivered the opinion for a unanimous Court.
+

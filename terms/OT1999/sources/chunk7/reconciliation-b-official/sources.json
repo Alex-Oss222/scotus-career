@@ -1,0 +1,70 @@
+[
+  {
+    "page": 120,
+    "docket": "99-658",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-120.pdf",
+    "official_words": 4417,
+    "collation_words": 355,
+    "sha256": "2396c2c551508486b3d978b57669364c995e27c88e471ed56accce0173ecccc7",
+    "cornell_suffixes": [
+      "ZS",
+      "ZO"
+    ]
+  },
+  {
+    "page": 103,
+    "docket": "98-9537",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-103.pdf",
+    "official_words": 5642,
+    "collation_words": 433,
+    "sha256": "0f6e92411036b8f2d89ffc1e0cf6366649e31220effc25191711a255088ba128",
+    "cornell_suffixes": [
+      "ZS",
+      "ZO",
+      "ZC",
+      "ZD"
+    ]
+  },
+  {
+    "page": 57,
+    "docket": "99-138",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-57.pdf",
+    "official_words": 17045,
+    "collation_words": 4124,
+    "sha256": "8a33f9e92b3c0b1eebc9f7ee668b5a46bf831953bce459501a9fd8271719e6e2",
+    "cornell_suffixes": [
+      "ZS",
+      "ZO",
+      "ZC",
+      "ZC1",
+      "ZD",
+      "ZD1",
+      "ZD2"
+    ]
+  },
+  {
+    "page": 27,
+    "docket": "99-166",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-27.pdf",
+    "official_words": 10514,
+    "collation_words": 2647,
+    "sha256": "df75015939d351f8efb0ab7f3d60fd303055da13a07c753e8d17615c39fbca7b",
+    "cornell_suffixes": [
+      "ZS",
+      "ZO",
+      "ZC"
+    ]
+  },
+  {
+    "page": 238,
+    "docket": "99-579",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-238.pdf",
+    "official_words": 6158,
+    "collation_words": 835,
+    "sha256": "d21cf4a392084200201bac7074363045e12ee47e4a292fc615551909f3cf2cc5",
+    "cornell_suffixes": [
+      "ZS",
+      "ZO"
+    ]
+  }
+]

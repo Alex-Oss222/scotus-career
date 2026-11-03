@@ -1,0 +1,48 @@
+
+
+UNITED STATES V. HUBBELL
+
+			LII
+
+			Supreme Court		 
+
+UNITED STATES V. HUBBELL (99-166) 
+167 F.3d 552, affirmed.
+Syllabus
+ Opinion
+ [ Stevens ]Concurrence
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v. HUBBELL
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+No. 99—166.  Argued February 22, 2000–Decided June 5, 2000
+
+As part of a plea agreement, respondent promised to provide the Independent Counsel investigating matters relating to the Whitewater Development Corporation with information relevant to his investigation.  Subsequently, the Independent Counsel served respondent with a subpoena calling for the production of 11 categories of documents before a grand jury in Little Rock, Arkansas.  Respondent appeared before that jury, invoked his Fifth Amendment privilege against self-incrimination, and refused to state whether he had the documents.  The prosecutor then produced an order obtained pursuant to 18 U.S.C. § 6003(a) directing respondent to respond to the subpoena and granting him immunity to the extent allowed by law.  Respondent produced 13,120 pages of documents and testified that those were all of the responsive documents in his control.  The Independent Counsel used the documents’ contents in an investigation that led to this indictment of respondent on tax and fraud charges.  The District Court dismissed the indictment on the ground that the Independent Counsel’s use of the subpoenaed documents violated 18 U.S.C. § 6002–which provides for use and derivative-use immunity–because all of the evidence he would offer against respondent at trial derived either directly or indirectly from the testimonial aspects of respondent’s immunized act of producing the documents.  In vacating and remanding, the Court of Appeals directed the District Court to determine the extent and detail of the Government’s knowledge of respondent’s financial affairs on the day the subpoena issued.  If the Government could not demonstrate with reasonable particularity a prior awareness that the documents sought existed and were in respondent’s possession, the indictment was tainted.  Acknowledging that he could not satisfy the reasonable particularity standard, the Independent Counsel entered into a conditional plea agreement providing for dismissal of the indictment unless this Court’s disposition of the case makes it reasonably likely that respondent’s immunity would not pose a significant bar to his prosecution.  Because the agreement also provides for the entry of a guilty plea and a sentence should this Court reverse, the case is not moot.
+
+Held:  The indictment against respondent must be dismissed.  Pp. 6—18.
+
+    (a)  The Fifth Amendment protects a person from being “compelled in any criminal case to be a witness against himself.”  The word “witness” limits the relevant category of compelled incriminating communications to those that are “testimonial.”  In addition, a person such as respondent may be required to produce specific documents containing incriminating assertions of fact or belief because the creation of those documents was not “compelled” within the meaning of the privilege.  See Fisher v. United States, 425 U.S. 391.  However, the act of producing subpoenaed documents may have a compelled testimonial aspect.  That act, as well as a custodian’s compelled testimony about whether he has produced everything demanded, may certainly communicate information about the documents’ existence, custody, and authenticity.  It is also well settled that compelled testimony communicating information that may lead to incriminating evidence is privileged even if the information itself is not inculpatory.  Pp. 6—10.
+
+      (b)  Section 6002 is constitutional because the scope of the “use and derivative-use” immunity it provides is coextensive with the scope of the constitutional privilege against self-incrimination.  Kastigar v. United States, 406 U.S. 441.  When a person is prosecuted for matters related to immunized testimony, the prosecution has an affirmative duty to prove that the evidence it proposes to use is derived from a legitimate source wholly independent of that testimony.  Id., at 460.  This ensures that the grant of immunity leaves the witness and the Government in substantially the same position as if the witness had claimed his privilege in the grant’s absence.  The compelled testimony relevant here is not to be found in the contents of the documents produced, but is the testimony inherent in the act of producing those documents.  Pp. 10—13.
+
+      (c)  The fact that the Government does not intend to use the act of production in respondent’s criminal trial leaves open the separate question whether it has already made “derivative use” of the testimonial aspect of that act in obtaining the indictment and preparing for trial.  It clearly has.  It is apparent from the subpoena’s text that the prosecutor needed respondent’s assistance both to identify potential sources of information and to produce those sources.  It is undeniable that providing a catalog of existing documents fitting within any of the 11 broadly worded subpoena categories could provide a prosecutor with a lead to incriminating evidence or a link in the chain of evidence needed to prosecute.  Indeed, that is what happened here: The documents sought by one grand jury to see if respondent had violated a plea agreement led to the return of an indictment by another grand jury for offenses apparently unrelated to that agreement.  The testimonial aspect of respondent’s act of production was the first step in a chain of evidence leading to this prosecution.  Thus, the Court cannot accept the Government’s submission that respondent’s immunity did not preclude its derivative use of the produced documents because its possession of the documents was the fruit only of the simple physical act of production.  In addition, the Government misreads Fisher v. United States, 425 U.S., at 411, and ignores United States v. Doe, 465 U.S. 605, in arguing that the communicative aspect of respondent’s act of production is insufficiently testimonial to support a privilege claim because the existence and possession of ordinary business records is a “foregone conclusion.”  Unlike the circumstances in Fisher, the Government has shown no prior knowledge of either the existence or the whereabouts of the documents ultimately produced here.  In Doe, the Court found that the act of producing several broad categories of general business records would involve testimonial self-incrimination.  Pp. 13—18.
+
+167 F.3d 552, affirmed.
+
+    Stevens, J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ., joined.  Thomas, J., filed a concurring opinion, in which Scalia, J., joined.  Rehnquist, C. J., filed a dissenting statement.
+

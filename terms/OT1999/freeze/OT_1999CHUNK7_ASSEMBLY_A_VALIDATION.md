@@ -1,0 +1,45 @@
+# OT1999 chunk 7 — assembly A validation
+
+## Scope and handoff integrity
+
+Six events are durably recorded, in their required effective-date and alphabetical assignment order. The final reconciliation was explicitly released before any Stone supplement was opened. The original commitment freeze SHA-256 is `a8f0a46336119101096a7a6b65e8f5fe2bb9b6b133b4a9906765fbea995f01f1`; the authoritative final reconciliation SHA-256 is `e88730e62dcbe9d2c742334183e9edf5fe89987450a6e50b21c2b8081156be99`. A mechanical section comparison confirms that Ohler, Barrett, Eisenberg, Hartford and Raleigh conclusions are byte-identical across the two freezes. Vermont's Souter and Ginsburg rows changed only at reconciliation, for the Justice-specific statutory reasons recorded there. Neither freeze was altered.
+
+Only the first six case supplements were mechanically copied to the scoped temporary Stone files and substantively assembled. The full control-validation receipt was read as authorized assembly control material. The relevant neutral packets, source recitations, entering-law slices, final reconciled rows and actual prior opinion topology/assignment statements supplied the decisions. No neutral or reconciliation context received private Stone material from assembly.
+
+No Git command was executed. No top-level private Stone directory was read, listed, searched or modified. All writes were under `terms/OT1999/` or `tmp/`. No approved brief, earlier completed Record, foundation file, opening tracker or public render was changed. The fresh Records received only pending-validation wording/qualification cleanup before final readiness: Ohler's unnecessary public future-amendment reference was removed, Vermont's lower-source address was replaced with the exact recovered URL, and Hartford's allowed-secured-claim qualification was made explicit in both identical holdings copies. None changed a disposition, coalition or operative rule.
+
+## Completed decisions
+
+| Date | Case | Judgment | Signed lead | Material opinion scope |
+|---|---|---|---|---|
+| May 22 | [Ohler](../records/ohler-v-united-states_merits_2000-05-22.md) | Reverse/remand 5–4 | Stevens | Five-Justice preserved-objection rule; O'Connor dissent with Scalia, Kennedy and Thomas |
+| May 22 | [Barrett](../records/united-states-v-barrett_merits_2000-05-22.md) | Affirm ordinary collateral dismissal 9–0 | Ginsburg | All nine Part I; eight Associates Part II; Stone's residual-writ vote uses fallback without adopting a ground, and his concurrence states the additional statutory-innocence interpretation |
+| May 22 | [Vermont Agency](../records/vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md) | Reverse/remand 7–2 | Scalia | All nine assignment standing; seven bounded statutory exclusion; Stevens/Souter dissent on coverage |
+| May 30 | [Eisenberg](../records/eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md) | Vacate both appellate injunction directions 7–2 | Stone-Zsela | Seven Parts I/III; six Part II without Kennedy; Kennedy concurrence; Thomas/Scalia dissent |
+| May 30 | [Hartford](../records/hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md) | Affirm 9–0 | Thomas | Complete independent-claimant rule and all alternative-route limits |
+| May 30 | [Raleigh](../records/raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md) | Affirm 9–0 | Breyer | Complete source-of-persuasion rule; no new merits hearing or amount |
+
+All nine seated Justices participate at the established argument/submission and decision milestones in every case. No recusal, replacement, quorum issue or unsupported reason for nonparticipation is invented. Each Record contains the four required opening labels and Original decision lineage, actual source map and research cutoff, Stone compatibility and any fallback, assignment basis, exact opinion/judgment map, public noncontrolling-position section, procedure, adaptive annex and bounded eleven-block projection. No same-day substantive dependency is manufactured from assignment order.
+
+## Assignment and deterministic checks
+
+The six form receipts fix their propositions and signed forms before their respective counts. Every count reads actual prior Record opinion topology afresh, including earlier Records in this Run, with a date-and-case-name cutoff. The receipts preserve the exact source topology and source hashes. Prior assignment tally prose does not determine any count. Ohler and Barrett exclude same-day Playboy; Vermont includes it. Completed McIver enters every relevant recount without reopening an earlier assignment. The successive preassignment totals are 66, 67, 69, 70, 71 and 72. All Chief-selected authors lie in the recorded minimum-plus-one pool and support the complete assigned propositions.
+
+After Raleigh's counted lead, the totals are Stone-Zsela 8; Stevens 8; O'Connor 8; Scalia 8; Kennedy 8; Souter 8; Thomas 8; Ginsburg 9; Breyer 8, total 73. These are a completion check, not a substitute for B's required fresh recount.
+
+[ASSEMBLY_A_CHECKS.json](OT_1999CHUNK7_ASSEMBLY_A_CHECKS.json) records final file hashes and the completed deterministic checks: each public projection has exactly the eleven headings in required order; its Holdings block is byte-identical to the internal controlling-holdings block; every relative link resolves; all controlling explanations fall below 350 words. Explanation counts by case are Ohler 270; Barrett 242/87; Vermont 211/222; Eisenberg 224/202/215; Hartford 284; Raleigh 314. Judgment, part and author/join arithmetic was checked against the actual tables and the frozen commitments. The separate public positions preserve their legal work and limitations. No current retrieval dates, private approval information, assignment counts or workflow annotations appear in the public projections.
+
+The independent Run audit separately reviews these files. Full chunk ledger/manifest/continuity/neutral-projection integration, generated Render Input, deterministic term checks and any final provenance verification remain the parent operator's work. This receipt does not claim those unperformed integration steps passed. No Render output was commissioned or written here.
+
+## Later B-law eligibility assessment
+
+The parent may copy the six actual Public Projections into the later-events entering-law handoff. Their new holdings are effective before B's June events. No A decision changes a fact, statute, participation premise or pending procedural order in a B matter. The following are the material boundaries, not predicted votes or private positions:
+
+- **Ohler and Sims:** Ohler preserves an objection actually and timely made to a definitive evidentiary ruling after defensive disclosure. It decides neither initial issue presentation nor administrative issue exhaustion. It therefore supplies no dispositive new premise for an omitted Appeals Council issue; any analogy must preserve that factual and procedural difference.
+- **Barrett and Sims:** Barrett concerns an available claim omitted from an already merits-adjudicated collateral application under the enacted section 2255 scheme. It does not create an unexpressed issue-exhaustion rule in a different administrative scheme. Stone's broader statutory-innocence concurrence is not current law.
+- **Hartford and Harris Trust:** Hartford gives effect to the actor expressly named in section 506(c). It establishes no general requirement that every equitable defendant be expressly named and does not expand Mertens's separate ERISA holding. An ERISA claim must still be assessed under that statute's own plaintiff, remedy and defendant language. The common statutory-source principle is reinforced without supplying a new contrary Harris premise.
+- **Eisenberg and Mixon:** Eisenberg newly recognizes the bounded availability of supported K–12 educational integration as an objective for actual racial classifications and applies the existing substantial-justification standard. It does not decide Voting Rights Act section 2 coverage, dilution, an election-to-appointment restructuring or a constitutional claim not based on an actual governmental racial classification. No missing racial purpose, statutory injury or justification finding can be supplied from it.
+- **Vermont Agency and B:** The FCA partial-assignment standing rule and private State-defendant statutory exclusion are source-specific; they create no general citizen standing or sovereign-defendant rule resolving the supplied later controversies.
+- **Raleigh and B:** The actual tax-claim persuasion allocation remains distinct from a generalized federal evidentiary rule, ERISA equitable defenses or Social Security administrative procedure. No transposed burden follows.
+
+No material changed B premise requiring fresh modeling has been identified from these actual holdings. B must nevertheless receive the faithful public-law additions and perform its own case-specific compatibility check. This assessment supplies no private Stone material, new vote or additional holding.

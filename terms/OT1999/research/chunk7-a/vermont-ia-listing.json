@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 88,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;98-1828&quot; OR text:&quot;98-1828&quot; OR text__reviews:&quot;98-1828&quot;) OR title:&quot;Vermont Agency&quot;)",
+      "qin": "collection:us-supreme-court AND (&quot;98-1828&quot; OR title:&quot;Vermont Agency&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385014_0278",
+        "title": "Vermont Agency of Natural Resources v. United States Ex Rel. Stevens, 529 U.S. 765 (2000) (No. 98-1828)"
+      }
+    ]
+  }
+}

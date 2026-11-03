@@ -1,0 +1,136 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 182,
+    "params": {
+      "query": "collection:us-supreme-court AND title:Eisenberg",
+      "qin": "collection:us-supreme-court AND title:Eisenberg",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 29,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385011_1409",
+        "title": "Eisenberg v. United States, 466 U.S. 972 (1984) (No. 83-1339)"
+      },
+      {
+        "identifier": "micro_IA40386014_0626",
+        "title": "Montgomery County Public Schools v. Eisenberg, 529 U.S. 1019 (2000) (No. 99-1069)"
+      },
+      {
+        "identifier": "micro_IA40386418_1550",
+        "title": "Eisenberg v. Central Zone Property Corp. (No. 500)"
+      },
+      {
+        "identifier": "micro_IA40385006_0388",
+        "title": "Eisenberg v. United States, 444 U.S. 843 (1979) (No. 78-1920)"
+      },
+      {
+        "identifier": "micro_IA40385018_0672",
+        "title": "Wasserstrom v. Eisenberg, 474 U.S. 946 (1985) (No. 85-360)"
+      },
+      {
+        "identifier": "micro_IA40386018_0974",
+        "title": "Levene & Eisenberg v. Gold Coast Asset Acquisition, L. P., 119 S. Ct. 1035 (1999) (No. 98-940)"
+      },
+      {
+        "identifier": "micro_IA40386401_0122",
+        "title": "Milk Control Board v. Eisenberg Farm Products, 306 U.S. 346 (1939) (No. 426)"
+      },
+      {
+        "identifier": "micro_IA40385005_0398",
+        "title": "Eisenberg v. United States, 435 U.S. 995 (1978) (No. 77-1063)"
+      },
+      {
+        "identifier": "micro_IA40385004_0290",
+        "title": "Eisenberg v. United States, 429 U.S. 976 (1976) (No. 76-62)"
+      },
+      {
+        "identifier": "micro_IA40385605_1001",
+        "title": "Eisenberg v. Wisconsin, 402 U.S. 987 (1971) (No. 1537)"
+      },
+      {
+        "identifier": "micro_IA40385601_1673",
+        "title": "Eisenberg v. Goldstein, 377 U.S. 964 (1964) (No. 1020)"
+      },
+      {
+        "identifier": "micro_IA40385009_0028",
+        "title": "Eisenberg v. Crowley, 459 U.S. 827 (1982) (No. 81-2129)"
+      },
+      {
+        "identifier": "micro_IA40385005_0807",
+        "title": "Eisenberg v. Board of Wisconsin State Bar Commissioners, 436 U.S. 946 (1978) (No. 77-1605)"
+      },
+      {
+        "identifier": "micro_IA04386419_0905",
+        "title": "Eisenberg v. Smith, 360 U.S. 918 (1959) (No. 912)"
+      },
+      {
+        "identifier": "micro_IA40386417_0590",
+        "title": "Berlinsky v. Eisenberg, 341 U.S. 909 (1951) (No. 594)"
+      },
+      {
+        "identifier": "micro_IA40385018_0795",
+        "title": "Wasserstrom v. Eisenberg, 474 U.S. 946 (1985) (No. 85-514)"
+      },
+      {
+        "identifier": "micro_IA40386011_0663",
+        "title": "Bihler v. Eisenberg, 506 U.S. 818 (1992) (No. 91-1835)"
+      },
+      {
+        "identifier": "micro_IA40385010_2574",
+        "title": "Eisenberg v. Schwalbe, 469 U.S. 858 (1984) (No. 84-191)"
+      },
+      {
+        "identifier": "micro_IA40386416_1272",
+        "title": "Eisenberg v. Commissioner, 332 U.S. 767 (1947) (No. 222)"
+      },
+      {
+        "identifier": "micro_IA40385006_1102",
+        "title": "Eisenberg v. Eisenberg, 444 U.S. 976 (1979) (No. 79-623)"
+      },
+      {
+        "identifier": "micro_IA40385018_0710",
+        "title": "Weinstein v. Eisenberg (Nos. 85-407, 85-360, 85-514)"
+      },
+      {
+        "identifier": "micro_IA40385007_2229",
+        "title": "Local 9, International Chemical Workers Union v. Eisenberg, 454 U.S. 830 (1981) (No. 80-2052)"
+      },
+      {
+        "identifier": "micro_IA40386416_2470",
+        "title": "Eisenberg v. Commissioner, 338 U.S. 910 (1950) (No. 450)"
+      },
+      {
+        "identifier": "micro_IA40385010_2935",
+        "title": "Eisenberg v. United States, 469 U.S. 1157 (1985) (No. 83-1999)"
+      },
+      {
+        "identifier": "micro_IA40386416_1271",
+        "title": "Eisenberg v. Commissioner, 332 U.S. 767 (1947) (No. 221)"
+      },
+      {
+        "identifier": "micro_IA40385005_0615",
+        "title": "Eisenberg v. Ed Margis Plumbing & Heating Co., 436 U.S. 905 (1978) (No. 77-1300)"
+      },
+      {
+        "identifier": "micro_IA40385010_0368",
+        "title": "Eisenberg v. United States, 461 U.S. 927 (1983) (No. 82-1266)"
+      },
+      {
+        "identifier": "micro_IA40386416_2471",
+        "title": "Eisenberg v. Commissioner, 338 U.S. 910 (1950) (No. 451)"
+      },
+      {
+        "identifier": "micro_IA40386012_1341",
+        "title": "Eisenberg v. Bassler-Harsch, 514 U.S. 1051 (1995) (No. 94-1448)"
+      }
+    ]
+  }
+}

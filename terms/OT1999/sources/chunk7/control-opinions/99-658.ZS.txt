@@ -1,0 +1,40 @@
+
+
+CASTILLO V. UNITED STATES
+
+			LII
+
+			Supreme Court		 
+
+CASTILLO V. UNITED STATES (99-658) 
+179 F.3d 321, reversed and remanded.
+Syllabus
+ Opinion
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CASTILLO et al. v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+No. 99—658.  Argued April 24, 2000–Decided June 5, 2000
+
+Petitioners were indicted for, among other things, conspiring to murder federal officers.  At the time of their trial, 18 U.S.C. § 924(c)(1) read in relevant part: “Whoever, during and in relation to any crime of violence … , uses or carries a firearm, shall, in addition to the punishment provided for such crime … , be sentenced to imprisonment for five years, … and if the firearm is[, e.g.,] a machinegun, … to imprisonment for thirty years.”  The jury determined that petitioners had violated this section, and at sentencing, the judge found that the firearms included machineguns and imposed the mandatory 30-year prison sentence.  The Fifth Circuit affirmed, concluding that statutory words such as “machinegun” create sentencing factors, not elements of a separate crime.
+
+Held:  Section 924(c)(1) uses the word “machinegun” (and similar words) to state an element of a separate, aggravated crime.  The statute’s language, structure, context, history, and other factors helpful in determining its objectives lead to this conclusion.  First, while the statute’s literal language, taken alone, appears neutral, its overall structure strongly favors the “new crime” interpretation.  The first part of §924(c)(1)’s opening sentence clearly establishes the elements of the basic federal offense of using or carrying a gun during a crime of violence, and Congress placed that element and the word machinegun in a single sentence, not broken up with dashes or separated into subsections.  That, along with the fact that the next three sentences refer directly to sentencing, strongly suggests that the entire first sentence defines crimes.  Second, courts have not typically or traditionally used firearm types (such as “machinegun”) as sentencing factors where the use or carrying of the firearm is itself the substantive crime.  See Jones v. United States, 526 U.S. 227, 234.  Third, to ask a jury, rather than a judge, to decide whether a defendant used or carried a machinegun would rarely complicate a trial or risk unfairness.  Cf. Almendarez-Torres v. United States, 523 U.S. 224, 234—235.  Fourth, the legislative history favors interpreting §924(c) as setting forth elements rather than sentencing factors.  Finally, the length and severity of an added mandatory sentence that turns on the presence or absence of a “machinegun” (or any of the other listed firearm types) weighs in favor of treating such offense-related words as referring to an element in this context.  Such considerations make this a stronger “separate crime” case than either Jones or Almendarez-Torres–cases in which this Court was closely divided as to Congress’ likely intent.  Pp. 3—11.
+
+179 F.3d 321, reversed and remanded.
+
+    Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined, and in which Scalia, J., joined except as to point Fourth of Part II.
+

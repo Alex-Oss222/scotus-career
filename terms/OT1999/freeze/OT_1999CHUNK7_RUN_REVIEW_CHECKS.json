@@ -1,0 +1,1510 @@
+{
+  "scope": "Independent pending Run validation, OT1999 chunk 7; no Git check",
+  "reconciled_associate_rows_exact": 96,
+  "assignment_and_record_checks": {
+    "sources": [
+      {
+        "file": "public-law-106-43-section-5_admitted-source_1999-08-05.md",
+        "case": "Public Law 106-43, section 5; no judicial docket.",
+        "date": "1999-08-05",
+        "authors": [],
+        "exclusion": "enactment",
+        "sha256": "7f55aee110b947ba60ac797cf727f088c390f10daf2873c8f0bcf61693add78a"
+      },
+      {
+        "file": "fcc-99-223_admitted-source_1999-09-03.md",
+        "case": "FCC 99-223, CC Docket 96-115; telecommunications CPNI reconsideration.",
+        "date": "1999-09-03",
+        "authors": [],
+        "exclusion": "agency release",
+        "sha256": "d5b1bbf692085de3c05249f1037d908a3f5fe2fdffaeaefb392b8ad3831c43bc"
+      },
+      {
+        "file": "public-law-106-69-section-350_admitted-source_1999-10-09.md",
+        "case": "Public Law 106-69, section 350; DPPA disclosure, consent and transition provisions; no judicial docket.",
+        "date": "1999-10-09",
+        "authors": [],
+        "exclusion": "enactment",
+        "sha256": "c3fa8d72c3e2b4a2004a64e499fa96c43b16ab865f636e6fb67a2d4a20e20b53"
+      },
+      {
+        "file": "flippo-v-west-virginia_merits_1999-10-18.md",
+        "case": "Flippo v. West Virginia; No. 98-8770; Fayette County Circuit Court indictment No. 96-F-119",
+        "date": "1999-10-18",
+        "authors": [],
+        "exclusion": "summary per curiam",
+        "sha256": "8fc379081baf192f30c1dd132d312b7d8671e5372ee775d839568ae0e9ce9c1e"
+      },
+      {
+        "file": "public-law-106-81-section-5_admitted-source_1999-10-26.md",
+        "case": "Public Law 106-81, section 5; no judicial docket.",
+        "date": "1999-10-26",
+        "authors": [],
+        "exclusion": "enactment",
+        "sha256": "38fe6eff5e8fb53b6efffc1b0649474bc66f516d39d0fc807e2d2788699868a9"
+      },
+      {
+        "file": "texas-v-lesage_merits_1999-11-29.md",
+        "case": "Texas v. Lesage; No. 98-1111",
+        "date": "1999-11-29",
+        "authors": [],
+        "exclusion": "summary per curiam",
+        "sha256": "cfbb4ca635f73599e70b44830674fa857e9049a09af75a3f269eb5d390ee3e3b"
+      },
+      {
+        "file": "fiore-v-white_certification_1999-11-30.md",
+        "case": "Fiore v. White; No. 98-942",
+        "date": "1999-11-30",
+        "authors": [],
+        "exclusion": "certification, despite signed Court opinion",
+        "sha256": "5f3f7d212a444aeabf87e21c3b0ce53bd39ef0c66561fcfcbc19ffc5f6d539c8"
+      },
+      {
+        "file": "paul-p-v-verniero_merits_1999-12-06.md",
+        "case": "Paul P. v. Verniero; Third Circuit No. 97-5791, 170 F.3d 396; no separate Supreme Court docket number stated.",
+        "date": "1999-12-06",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "2819dfbff79f6740990d37970df50d0e1545f07063e149a3a9006b4025452db1"
+      },
+      {
+        "file": "drye-v-united-states_merits_1999-12-07.md",
+        "case": "Drye v. United States; No. 98-1101",
+        "date": "1999-12-07",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "cbe1d933825721626d84d9971c383b11f5ba386433a8f498454ffde90663c6ca"
+      },
+      {
+        "file": "los-angeles-police-department-v-united-reporting_merits_1999-12-07.md",
+        "case": "Los Angeles Police Department v. United Reporting Publishing Corp.; No. 98-678",
+        "date": "1999-12-07",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "06051e8fc4a5b9c9a698724874115008d3294bc871bca3b1077828fd3af3430f"
+      },
+      {
+        "file": "rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md",
+        "case": "Rayphand v. Sablan / Torres v. Sablan; No. 99-475; below No. 97-0029, 95 F. Supp. 2d 1133",
+        "date": "1999-12-13",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "b8f8ce6ada81306f12acb842df25d387da84277dd33eb8c01c0c8d7cfae0b786"
+      },
+      {
+        "file": "steamfitters-v-philip-morris_merits_2000-01-10.md",
+        "case": "Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.; Third Circuit No. 98-1426; 171 F.3d 912; no Supreme Court docket supplied",
+        "date": "2000-01-10",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "38887bc32e4c932fc1a284032f6da2821c8dd9398621badd298fe0028d38938b"
+      },
+      {
+        "file": "kimel-v-florida-board-of-regents_merits_2000-01-11.md",
+        "case": "Kimel v. Florida Board of Regents / United States v. Florida Board of Regents; Nos. 98-791 and 98-796",
+        "date": "2000-01-11",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "30899343c7924fac00d7447dde6e9978d387798baf3bfdade5f785de531d872f"
+      },
+      {
+        "file": "new-york-v-hill_merits_2000-01-11.md",
+        "case": "New York v. Hill; No. 98-1299.",
+        "date": "2000-01-11",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "a0104f745e6bf1f112748ba855dfe65f195f15367be38c1b37655b453824596f"
+      },
+      {
+        "file": "adarand-constructors-v-slater_summary-merits_2000-01-12.md",
+        "case": "Adarand Constructors, Inc. v. Slater; No. 99-295",
+        "date": "2000-01-12",
+        "authors": [],
+        "exclusion": "summary per curiam",
+        "sha256": "919ec43f12a720b04bb0aee604d004390bf9c17e8dd765fc7c2073348121ea0c"
+      },
+      {
+        "file": "friends-of-the-earth-v-laidlaw_merits_2000-01-12.md",
+        "case": "Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.; No. 98-822",
+        "date": "2000-01-12",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "722d88b86a047776ad44f6e914160c08edf935a7ff24f516e67c81f4d92208d3"
+      },
+      {
+        "file": "illinois-v-wardlow_merits_2000-01-12.md",
+        "case": "Illinois v. Wardlow; No. 98-1036",
+        "date": "2000-01-12",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "5f5c25d518248d214c174d9bc40b6ae55037bee7cd2d82ce1997a3e232fb6bb5"
+      },
+      {
+        "file": "martinez-v-court-of-appeal_merits_2000-01-12.md",
+        "case": "Martinez v. Court of Appeal of California, Fourth Appellate District; No. 98-7809",
+        "date": "2000-01-12",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "b1f81de58bf02c78e0255b3b50553adfc4e75de928c764a64736fb07ed3d90f5"
+      },
+      {
+        "file": "reno-v-condon_merits_2000-01-12.md",
+        "case": "Reno v. Condon; No. 98-1464",
+        "date": "2000-01-12",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "47ef2d6aaed7f3d7c1ff3cad910678e7a7846a583b5f135f7b72e458d8d6ad6c"
+      },
+      {
+        "file": "fraternal-order-of-police-v-united-states_merits_2000-01-18.md",
+        "case": "Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; 173 F.3d 898",
+        "date": "2000-01-18",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "6e9a3d9a49c4e268153d0c826effea451bb3cb68156dde50cdec1e5c58bb8f72"
+      },
+      {
+        "file": "gutierrez-v-ada_merits_2000-01-19.md",
+        "case": "Gutierrez v. Ada; No. 99-51",
+        "date": "2000-01-19",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "1c598428b8b21dc17d7a172fff458e2c179ee73b171df267734bfcfa32050bc4"
+      },
+      {
+        "file": "smith-v-robbins_merits_2000-01-19.md",
+        "case": "Smith v. Robbins; No. 98-1037",
+        "date": "2000-01-19",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "13bafda1245b651d98765ea53c2c4353190aef83f1a373db8bd83b432865c1ca"
+      },
+      {
+        "file": "united-states-v-martinez-salazar_merits_2000-01-19.md",
+        "case": "United States v. Martinez-Salazar; No. 98-1255",
+        "date": "2000-01-19",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "1f8f0ec2f1ee668beba21fbea4862230a61b035bf53b9ed13439cee3c09a6cff"
+      },
+      {
+        "file": "weeks-v-angelone_merits_2000-01-19.md",
+        "case": "Weeks v. Angelone; No. 99-5746.",
+        "date": "2000-01-19",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "8afe3d0cd2c7d93edd4266e1b4888887b9e2d21af14fdc6ffffdd5d5dad31886"
+      },
+      {
+        "file": "nixon-v-shrink-missouri-government-pac_merits_2000-01-24.md",
+        "case": "Nixon v. Shrink Missouri Government PAC; No. 98-963",
+        "date": "2000-01-24",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "d367876a4acfb0fd0e2e16ce6d7a2bdc3e5fd08d433bdb176349edb8515f6eb4"
+      },
+      {
+        "file": "reno-price-v-bossier-parish-school-board_merits_2000-01-24.md",
+        "case": "Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board; Nos. 98-405 and 98-406",
+        "date": "2000-01-24",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "cfa06985c18b045c3d63461b363eea8e837e1a622893984df27830892f03679d"
+      },
+      {
+        "file": "us-west-v-fcc_merits_2000-02-07.md",
+        "case": "U.S. West, Inc. v. Federal Communications Commission; Tenth Circuit No. 98-9518; no Supreme Court docket supplied.",
+        "date": "2000-02-07",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "4e15e66e44b7fa4c3429f0e627df275c54dd887a015a6008197487c656391d13"
+      },
+      {
+        "file": "richards-v-united-states_merits_2000-02-14.md",
+        "case": "Richards v. United States; No. 99-731",
+        "date": "2000-02-14",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "956e66fc7b3f64b68b72b863ded67eadb02300e10d4f2b3ee6f5275d35d29f78"
+      },
+      {
+        "file": "baral-v-united-states_merits_2000-02-22.md",
+        "case": "Baral v. United States; No. 98-1667",
+        "date": "2000-02-22",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "031967aa362d47980d3d5ec6c929df521de655be1fa5da349728a6559c655104"
+      },
+      {
+        "file": "hunt-wesson-v-franchise-tax-board_merits_2000-02-22.md",
+        "case": "Hunt-Wesson, Inc. v. Franchise Tax Board of California; No. 98-2043",
+        "date": "2000-02-22",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "2d6ee3f95e9127f386c5e1dd7893ed7f173de8fcea9cefef41ac0e7c353dbd27"
+      },
+      {
+        "file": "weisgram-v-marley_merits_2000-02-22.md",
+        "case": "Weisgram v. Marley Co.; No. 99-161",
+        "date": "2000-02-22",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "cc036875283da822c122423fc99000c9234de5c97dcb63113dc2d52a034a9996"
+      },
+      {
+        "file": "rice-v-cayetano_merits_2000-02-23.md",
+        "case": "Rice v. Cayetano; No. 98-818",
+        "date": "2000-02-23",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "f4e07425153d86bf14834bcd54f4c013cb0da704ca67fe8bdb23d542c50c9875"
+      },
+      {
+        "file": "roe-v-flores-ortega_merits_2000-02-23.md",
+        "case": "Roe v. Flores-Ortega; No. 98-1441",
+        "date": "2000-02-23",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "0af73a7e1acca497d32461fa2003854dd72d287c63f71ed219eee3dbf7dcc6ba"
+      },
+      {
+        "file": "rotella-v-wood_merits_2000-02-23.md",
+        "case": "Rotella v. Wood; No. 98-896",
+        "date": "2000-02-23",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "a2018e99e51566e687182508fbf014fc65b6abcbc309caae508a9f49362e7181"
+      },
+      {
+        "file": "village-of-willowbrook-v-olech_merits_2000-02-23.md",
+        "case": "Village of Willowbrook v. Olech; No. 98-1288",
+        "date": "2000-02-23",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "273b9317c88eab53c3455039386c13dec2ee6d0c03f7fc9b48968750306306bb"
+      },
+      {
+        "file": "strout-v-albanese_merits_2000-02-28.md",
+        "case": "Strout v. Albanese; review of 178 F.3d 57 (1st Cir. 1999)",
+        "date": "2000-02-28",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "620fdfffb49f12b46bd8c6d4084a9726e835fa679ff4f70792dc20469ac2f8e1"
+      },
+      {
+        "file": "shalala-v-illinois-council_merits_2000-02-29.md",
+        "case": "Shalala v. Illinois Council on Long Term Care, Inc.; No. 98-1109",
+        "date": "2000-02-29",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "01fb693a23e7404e08693b4d4a2263c1d3bb0e226f544802dfe4bce3bd537233"
+      },
+      {
+        "file": "united-states-v-johnson_merits_2000-03-01.md",
+        "case": "United States v. Johnson; No. 98-1696",
+        "date": "2000-03-01",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "7bc57fab48e39ec35a6207ad18682c2a95dd05a075fc1edcc691d00ad0fa5f28"
+      },
+      {
+        "file": "adams-v-commissioner_merits_2000-03-06.md",
+        "case": "Adams v. Commissioner of Internal Revenue; No. 99-798; below No. 98-7200.",
+        "date": "2000-03-06",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "23ed8f7920b3abfabd981e040cf9f92f101a3313f59e44c5879ef42f4d3ecff4"
+      },
+      {
+        "file": "portuondo-v-agard_merits_2000-03-06.md",
+        "case": "Portuondo v. Agard; No. 98-1170",
+        "date": "2000-03-06",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "b327d5bca95ea2a3cbe9bd34f61009dd9f5bb6b9678f20573b807baaba268ca6"
+      },
+      {
+        "file": "united-states-v-locke-intertanko-v-locke_merits_2000-03-06.md",
+        "case": "United States v. Locke / International Association of Independent Tanker Owners v. Locke; Nos. 98-1701 and 98-1706",
+        "date": "2000-03-06",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "4bcf6a6973029c61cd4653673ce1c52f9c566d71f55b0d044ce029160a27a098"
+      },
+      {
+        "file": "carter-v-city-of-philadelphia_merits_2000-03-13.md",
+        "case": "Carter v. City of Philadelphia; No. 98-1581 below; no Supreme Court docket supplied.",
+        "date": "2000-03-13",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "c8e6e7cfd75c02dae7cec9d7073b7ba7ee3708c1936beadfe78ac8eded89be19"
+      },
+      {
+        "file": "cortez-byrd-chips-v-bill-harbert_merits_2000-03-21.md",
+        "case": "Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co.; No. 98-1960; below No. 98-6404.",
+        "date": "2000-03-21",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "f8f4dd6a62c78e0f801b6a1fbfd7bf170f03c9e63dc7135d5523155329f03a58"
+      },
+      {
+        "file": "fda-v-brown-and-williamson_merits_2000-03-21.md",
+        "case": "FDA v. Brown & Williamson Tobacco Corp.; No. 98-1152.",
+        "date": "2000-03-21",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "320c217f14166b5c042bc746beff69a687cf0b77ff6fe5e4b9e4cfbc44ee17ea"
+      },
+      {
+        "file": "board-of-regents-v-southworth_merits_2000-03-22.md",
+        "case": "Board of Regents of the University of Wisconsin System v. Southworth; No. 98-1189; below Nos. 97-3510 and 97-3548.",
+        "date": "2000-03-22",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "fed6fbf3cf55929744eae1ee4a0c8df87295964e7b1f88b149de08dcd01c497a"
+      },
+      {
+        "file": "wal-mart-v-samara-brothers_merits_2000-03-22.md",
+        "case": "Wal-Mart Stores, Inc. v. Samara Brothers, Inc.; No. 99-150.",
+        "date": "2000-03-22",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "de4e59350d594997c95515884611d19db7f97f888d5f1180dbe2bc14e7812aa9"
+      },
+      {
+        "file": "browne-v-united-states_merits_2000-03-27.md",
+        "case": "Browne v. United States; Supreme Court No. 99-632; below No. 98-6124, 176 F.3d 25; District Court, 22 F. Supp. 2d 309.",
+        "date": "2000-03-27",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "ebe84c6ad03b1bf90688bab3b388b554388e619b01b2a743b103e4475290330a"
+      },
+      {
+        "file": "florida-v-j-l_merits_2000-03-28.md",
+        "case": "Florida v. J. L.; No. 98-1993.",
+        "date": "2000-03-28",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "39b744b1d2a060b6ad7ca4cbea12383b54b7d2d0b17343f3286eff1a387d3a5f"
+      },
+      {
+        "file": "garner-v-jones_merits_2000-03-28.md",
+        "case": "Garner v. Jones; No. 99-137.",
+        "date": "2000-03-28",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "e939bb5656322485e1ca26ab5b4c2a8a5a5b0a3e1064b887a7d63615bfe2e416"
+      },
+      {
+        "file": "city-of-erie-v-paps-am_merits_2000-03-29.md",
+        "case": "City of Erie v. Pap's A.M.; No. 98-1161.",
+        "date": "2000-03-29",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "f339cee9ad1800dea762364a2cfcf85e5b63c39f3fae091f929f1032f19b25a7"
+      },
+      {
+        "file": "free-v-abbott-laboratories_merits_2000-04-03.md",
+        "case": "Free v. Abbott Laboratories, Inc.; No. 99-391; judgment below, 176 F.3d 298 (5th Cir. 1999).",
+        "date": "2000-04-03",
+        "authors": [],
+        "exclusion": "unreasoned per curiam equal division",
+        "sha256": "acb4fdabf2edb788265f0395e5fbe384c9099b4ce9f497589d4c42a44532d88f"
+      },
+      {
+        "file": "powell-v-ridge_merits_2000-04-03.md",
+        "case": "Powell v. Ridge; review of 189 F.3d 387 (3d Cir. 1999); no Supreme Court docket supplied.",
+        "date": "2000-04-03",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738"
+      },
+      {
+        "file": "reform-party-v-allegheny-county_merits_2000-04-10.md",
+        "case": "Reform Party of Allegheny County v. Allegheny County Department of Elections; review of Third Circuit Nos. 96-3677 and 97-3359.",
+        "date": "2000-04-10",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1"
+      },
+      {
+        "file": "bond-v-united-states_merits_2000-04-17.md",
+        "case": "Bond v. United States; No. 98-9349.",
+        "date": "2000-04-17",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "a90097b16a59944d986d6465630703d90e313d67f624317658b5ac8475b462d9"
+      },
+      {
+        "file": "gillespie-v-city-of-indianapolis_merits_2000-04-17.md",
+        "case": "Gillespie v. City of Indianapolis; No. 99-626.",
+        "date": "2000-04-17",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "716024ae1f821f029be6bb2cf80906ae4c372a0c97db5eb513aa34024fb2097d"
+      },
+      {
+        "file": "norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md",
+        "case": "Norfolk Southern Railway Co. v. Shanklin; No. 99-312.",
+        "date": "2000-04-17",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "43c947090fc17d824b4a729cd13d9d3fcc28fbcb487090b06d581933e01f5dd2"
+      },
+      {
+        "file": "williams-v-taylor-michael-wayne_merits_2000-04-18.md",
+        "case": "Williams v. Taylor (Michael Wayne Williams); No. 99-6615.",
+        "date": "2000-04-18",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "aa168269c3d2804fd35f41ee7202a9b6b37627a2230023282f73abd8511152a2"
+      },
+      {
+        "file": "williams-v-taylor-terry-williams_merits_2000-04-18.md",
+        "case": "Williams v. Taylor (Terry Williams); No. 98-8384.",
+        "date": "2000-04-18",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "12b7d0c430b3d6c954cd62c9300270d504fca0f5116edeeeb6b8336c407ef389"
+      },
+      {
+        "file": "doe-v-rosenberg_merits_2000-04-24.md",
+        "case": "Doe v. Rosenberg; review of Second Circuit No. 98-7803, S.D.N.Y. No. 97 CIV. 3205(RWS).",
+        "date": "2000-04-24",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "5da85d1ac55b15ebe95620d7ab5af43935b71e6d9892219605943d7426cc8f52"
+      },
+      {
+        "file": "edwards-v-carpenter_merits_2000-04-25.md",
+        "case": "Edwards v. Carpenter; No. 98-2060.",
+        "date": "2000-04-25",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "c6daf8fc8a0faebc80a4d60c5e5abf7ebe6f0ae16b830f5b629738cd627f315b"
+      },
+      {
+        "file": "nelson-v-adams-usa-inc_merits_2000-04-25.md",
+        "case": "Nelson v. Adams USA, Inc.; No. 99-502.",
+        "date": "2000-04-25",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "3a61dec7c7b045fb7af8fd83639d61afd940e4bef95e9d61c6d14f80abc80c27"
+      },
+      {
+        "file": "beck-v-prupis_merits_2000-04-26.md",
+        "case": "Beck v. Prupis; No. 98-1480.",
+        "date": "2000-04-26",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "360f6028dc418139623b2708911b5f44957f334aa8abed8e1f498cb167209295"
+      },
+      {
+        "file": "slack-v-mcdaniel_merits_2000-04-26.md",
+        "case": "Slack v. McDaniel; No. 98-6322.",
+        "date": "2000-04-26",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "788834eb8c46545740e07899972ac1eeb6aea40c38e41b6a7252fcfbf6540395"
+      },
+      {
+        "file": "carmell-v-texas_merits_2000-05-01.md",
+        "case": "Carmell v. Texas; No. 98-7540.",
+        "date": "2000-05-01",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "2c24c9728fbffa4c64566044246c46fa3eaf960a14ab294e52f1c0476e2c40b0"
+      },
+      {
+        "file": "christensen-v-harris-county_merits_2000-05-01.md",
+        "case": "Christensen v. Harris County; No. 98-1167.",
+        "date": "2000-05-01",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "25ad5c2f4ee4010d07e441848b862f2e1d5a4fc527fcd05eb439c6a885b0e74e"
+      },
+      {
+        "file": "north-carolina-right-to-life-inc-v-bartlett_merits_2000-05-01.md",
+        "case": "North Carolina Right to Life, Inc. v. Bartlett; review of 168 F.3d 705; no separate Supreme Court docket supplied.",
+        "date": "2000-05-01",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "2fc76c99a5d719630c16c85f643ba60d0a975107cd7d5a4f58d4d47733d79705"
+      },
+      {
+        "file": "national-mining-association-v-department-of-interior_merits_2000-05-08.md",
+        "case": "National Mining Association v. United States Department of the Interior; review of 177 F.3d 1; no separate Supreme Court docket supplied.",
+        "date": "2000-05-08",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "8e99827df4c3fb9fee5abc61234ffec5b483e0c612b2a8da537fc2f41238764a"
+      },
+      {
+        "file": "saenz-v-heldenfels-brothers-inc_merits_2000-05-09.md",
+        "case": "Saenz v. Heldenfels Brothers, Inc.; review of 183 F.3d 389; Fifth Circuit No. 98-40902; no separate Supreme Court docket supplied.",
+        "date": "2000-05-09",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "3698c44f7a63ab949c738ae106bb3675f295ba173f25b1954de9d93055385140"
+      },
+      {
+        "file": "fischer-v-united-states_merits_2000-05-15.md",
+        "case": "Fischer v. United States; No. 99-116.",
+        "date": "2000-05-15",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "30e496ddbd9a0a3b3afd45f3ef99f81e32618e906b9b28498cc7cf8340b9fe4b"
+      },
+      {
+        "file": "johnson-v-united-states-99-5153_merits_2000-05-15.md",
+        "case": "Johnson v. United States; No. 99-5153.",
+        "date": "2000-05-15",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "54fc40b502516706cfc2696746c88e3a43f8d4f8e552a19a0bebdc6460645a49"
+      },
+      {
+        "file": "public-lands-council-v-babbitt_merits_2000-05-15.md",
+        "case": "Public Lands Council v. Babbitt; No. 98-1991.",
+        "date": "2000-05-15",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "79409d6989c6b62d534992af9e66368cf274d506d8295388dd21050e719de3a2"
+      },
+      {
+        "file": "united-states-v-mciver_merits_2000-05-15.md",
+        "case": "United States v. McIver; review of 186 F.3d 1119 (9th Cir. 1999); lower appellate Nos. 98-30145 and 98-30146; no separate Supreme Court docket supplied.",
+        "date": "2000-05-15",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "cce0e111dfdbf97e272df660cc3f07a6ca8f1c1251db52d658663950f1debd57"
+      },
+      {
+        "file": "united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md",
+        "case": "United States v. Morrison / Brzonkala v. Morrison; Nos. 99-5 and 99-29, consolidated.",
+        "date": "2000-05-15",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "639e15210c34573ff12251e6170327c54a61967078df7c5bfa2b941d60614e76"
+      },
+      {
+        "file": "geier-v-american-honda-motor-co_merits_2000-05-22.md",
+        "case": "Geier v. American Honda Motor Co.; No. 98-1811.",
+        "date": "2000-05-22",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "5f16e60f519632573a9bd908d0d5a55956f6ed28bc1e915fcb5277737eaa479e"
+      },
+      {
+        "file": "jones-v-united-states_merits_2000-05-22.md",
+        "case": "Jones v. United States; No. 99-5739.",
+        "date": "2000-05-22",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "0e778689a0f7af949901d20f0c8514f1c33ff16811efc144070779c0d650eba4"
+      },
+      {
+        "file": "ohler-v-united-states_merits_2000-05-22.md",
+        "case": "Ohler v. United States; No. 98-9828.",
+        "date": "2000-05-22",
+        "authors": [
+          "Stevens"
+        ],
+        "exclusion": null,
+        "sha256": "a7615d9e0ca05ea7846755f46ca415fc7ed0a80d255dccf5a03b1dcca55d80e5",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 7,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 7,
+          "Breyer": 7
+        },
+        "explanation_words": [
+          270
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 8
+      },
+      {
+        "file": "united-states-v-barrett_merits_2000-05-22.md",
+        "case": "United States v. Barrett; First Circuit No. 96-2355, 178 F.3d 34; no Supreme Court docket supplied.",
+        "date": "2000-05-22",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "f6f563a476ed27eb97e5148e963ee1f4976a0ef464f8c66c56d27c4549549f0b",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 7,
+          "Breyer": 7
+        },
+        "explanation_words": [
+          242,
+          87
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 9
+      },
+      {
+        "file": "united-states-v-playboy-entertainment-group-inc_merits_2000-05-22.md",
+        "case": "United States v. Playboy Entertainment Group, Inc.; No. 98-1682.",
+        "date": "2000-05-22",
+        "authors": [
+          "Ginsburg"
+        ],
+        "exclusion": null,
+        "sha256": "9986fc8893776efa8aa8ca77a938b027e2f3c575a8cc2af3a696b941964a75d8"
+      },
+      {
+        "file": "vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md",
+        "case": "Vermont Agency of Natural Resources v. United States ex rel. Stevens; No. 98-1828.",
+        "date": "2000-05-22",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "c95bbbf63642bbcb8b8822ea637f3932d42508a961142535cc9e6816fa2c9928",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "explanation_words": [
+          211,
+          222
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 10
+      },
+      {
+        "file": "eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md",
+        "case": "Eisenberg v. Montgomery County Public Schools; Fourth Circuit No. 98-2503, 197 F.3d 123; no Supreme Court docket supplied.",
+        "date": "2000-05-30",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "exclusion": null,
+        "sha256": "1e6d90c95f2d51fcc33ae86d3bcd0406c7eb910261b578a12a3c6c27dd97ec66",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "explanation_words": [
+          224,
+          202,
+          215
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 9
+      },
+      {
+        "file": "hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md",
+        "case": "Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A.; No. 99-409.",
+        "date": "2000-05-30",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "2199c5d28deaa24b27dc957145168120353105d4cc0453a489a21b678a4fd3b5",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "explanation_words": [
+          284
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 10
+      },
+      {
+        "file": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+        "case": "Raleigh v. Illinois Department of Revenue; No. 99-387.",
+        "date": "2000-05-30",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "1e23918bc7b68dbed58ca4a0edbeca0f8e8151f5d2a204e2919e9ec67e5e3b4c",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "explanation_words": [
+          314
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 11
+      },
+      {
+        "file": "castillo-v-united-states_merits_2000-06-05.md",
+        "case": "Castillo v. United States; No. 99-658.",
+        "date": "2000-06-05",
+        "authors": [
+          "Scalia"
+        ],
+        "exclusion": null,
+        "sha256": "1acfd68bd7ac20dc27adc93d11db0053c301682128ed5e8aa0083e9ebce01a57",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "explanation_words": [
+          263
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 10
+      },
+      {
+        "file": "mixon-v-ohio_merits_2000-06-05.md",
+        "case": "Mixon v. Ohio; Sixth Circuit No. 98-3368; no separate Supreme Court docket supplied.",
+        "date": "2000-06-05",
+        "authors": [
+          "Souter"
+        ],
+        "exclusion": null,
+        "sha256": "8f37c8e719f595b014aee3a9abd7530d7ef2306465411010f72b0c830f9305fa",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "explanation_words": [
+          158,
+          266
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 10
+      },
+      {
+        "file": "sims-v-apfel_merits_2000-06-05.md",
+        "case": "Sims v. Apfel; No. 98-9537.",
+        "date": "2000-06-05",
+        "authors": [
+          "O'Connor"
+        ],
+        "exclusion": null,
+        "sha256": "d1e961de2b034bb78bdf8c9508132a4b8f5c7ef1b667d1c8e965f2680e83d3a1",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "explanation_words": [
+          284
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 9
+      },
+      {
+        "file": "troxel-v-granville_merits_2000-06-05.md",
+        "case": "Troxel v. Granville; No. 99-138.",
+        "date": "2000-06-05",
+        "authors": [
+          "Breyer"
+        ],
+        "exclusion": null,
+        "sha256": "214fb1768ae7e9728750de565ff86e5923cf68ca930f2399611dc6906cd82079",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 9,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "explanation_words": [
+          189
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 13
+      },
+      {
+        "file": "united-states-v-hubbell_merits_2000-06-05.md",
+        "case": "United States v. Hubbell; No. 99-166.",
+        "date": "2000-06-05",
+        "authors": [
+          "Kennedy"
+        ],
+        "exclusion": null,
+        "sha256": "1ab8532e3bd29f55fc45fe53e400c60ee13e0d26f99a66a60e5e96334a03ac74",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 9,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 9
+        },
+        "explanation_words": [
+          287
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 11
+      },
+      {
+        "file": "harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md",
+        "case": "Harris Trust and Savings Bank v. Salomon Smith Barney Inc.; No. 99-579.",
+        "date": "2000-06-12",
+        "authors": [
+          "Thomas"
+        ],
+        "exclusion": null,
+        "sha256": "4236fdb1777518355ac888a861566625b2ec171e03f31bfc1a570b4fc010e4db",
+        "new": true,
+        "claimed_counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 9,
+          "Scalia": 9,
+          "Kennedy": 9,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 9
+        },
+        "explanation_words": [
+          334
+        ],
+        "holdings_identity": true,
+        "local_links_checked": 12
+      }
+    ],
+    "assignment_checks": [
+      {
+        "file": "ohler-v-united-states_merits_2000-05-22.md",
+        "counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 7,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 7,
+          "Breyer": 7
+        },
+        "last": "jones-v-united-states_merits_2000-05-22.md",
+        "words": [
+          270
+        ]
+      },
+      {
+        "file": "united-states-v-barrett_merits_2000-05-22.md",
+        "counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 7,
+          "Breyer": 7
+        },
+        "last": "ohler-v-united-states_merits_2000-05-22.md",
+        "words": [
+          242,
+          87
+        ]
+      },
+      {
+        "file": "vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md",
+        "counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 7,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "last": "united-states-v-playboy-entertainment-group-inc_merits_2000-05-22.md",
+        "words": [
+          211,
+          222
+        ]
+      },
+      {
+        "file": "eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md",
+        "counts": {
+          "Stone-Zsela": 7,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "last": "vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md",
+        "words": [
+          224,
+          202,
+          215
+        ]
+      },
+      {
+        "file": "hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 7,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "last": "eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md",
+        "words": [
+          284
+        ]
+      },
+      {
+        "file": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 7
+        },
+        "last": "hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md",
+        "words": [
+          314
+        ]
+      },
+      {
+        "file": "castillo-v-united-states_merits_2000-06-05.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 8,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "last": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+        "words": [
+          263
+        ]
+      },
+      {
+        "file": "mixon-v-ohio_merits_2000-06-05.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 8,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "last": "castillo-v-united-states_merits_2000-06-05.md",
+        "words": [
+          158,
+          266
+        ]
+      },
+      {
+        "file": "sims-v-apfel_merits_2000-06-05.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 8,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "last": "mixon-v-ohio_merits_2000-06-05.md",
+        "words": [
+          284
+        ]
+      },
+      {
+        "file": "troxel-v-granville_merits_2000-06-05.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 9,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 8
+        },
+        "last": "sims-v-apfel_merits_2000-06-05.md",
+        "words": [
+          189
+        ]
+      },
+      {
+        "file": "united-states-v-hubbell_merits_2000-06-05.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 9,
+          "Scalia": 9,
+          "Kennedy": 8,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 9
+        },
+        "last": "troxel-v-granville_merits_2000-06-05.md",
+        "words": [
+          287
+        ]
+      },
+      {
+        "file": "harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md",
+        "counts": {
+          "Stone-Zsela": 8,
+          "Stevens": 8,
+          "O'Connor": 9,
+          "Scalia": 9,
+          "Kennedy": 9,
+          "Souter": 9,
+          "Thomas": 8,
+          "Ginsburg": 9,
+          "Breyer": 9
+        },
+        "last": "united-states-v-hubbell_merits_2000-06-05.md",
+        "words": [
+          334
+        ]
+      }
+    ],
+    "final_counts": {
+      "Stone-Zsela": 8,
+      "Stevens": 8,
+      "O'Connor": 9,
+      "Scalia": 9,
+      "Kennedy": 9,
+      "Souter": 9,
+      "Thomas": 9,
+      "Ginsburg": 9,
+      "Breyer": 9
+    },
+    "excluded": {
+      "public-law-106-43-section-5_admitted-source_1999-08-05.md": "enactment",
+      "fcc-99-223_admitted-source_1999-09-03.md": "agency release",
+      "public-law-106-69-section-350_admitted-source_1999-10-09.md": "enactment",
+      "public-law-106-81-section-5_admitted-source_1999-10-26.md": "enactment",
+      "flippo-v-west-virginia_merits_1999-10-18.md": "summary per curiam",
+      "texas-v-lesage_merits_1999-11-29.md": "summary per curiam",
+      "fiore-v-white_certification_1999-11-30.md": "certification, despite signed Court opinion",
+      "adarand-constructors-v-slater_summary-merits_2000-01-12.md": "summary per curiam",
+      "free-v-abbott-laboratories_merits_2000-04-03.md": "unreasoned per curiam equal division"
+    }
+  },
+  "integration": {
+    "records": [
+      {
+        "file": "ohler-v-united-states_merits_2000-05-22.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "united-states-v-barrett_merits_2000-05-22.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": false
+      },
+      {
+        "file": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": false
+      },
+      {
+        "file": "castillo-v-united-states_merits_2000-06-05.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "mixon-v-ohio_merits_2000-06-05.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "sims-v-apfel_merits_2000-06-05.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "troxel-v-granville_merits_2000-06-05.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "united-states-v-hubbell_merits_2000-06-05.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      },
+      {
+        "file": "harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md",
+        "render_identity": true,
+        "ledger": true,
+        "manifest": true,
+        "workspace_blocks": [
+          "Holdings",
+          "Precedent Treatment",
+          "Law After Decision",
+          "Judgment & Remedy",
+          "Procedure After Action"
+        ],
+        "published_positions_preserved": true
+      }
+    ],
+    "record_count": 12,
+    "manifest_rows": 104,
+    "ledger_rows": 88,
+    "cursor": "2000-06-12",
+    "next_event": "Bradley v. Arkansas Department of Education, 2000-06-12",
+    "no_stopped_matter": true,
+    "no_public_render": true,
+    "sha256": {
+      "render-inputs\\OT_1999CHUNK7.md": "bba3ef247b9cbfd8e45019b4e226486462de6565824bd176847c0fa5278c14ac",
+      "workspace\\manifest.md": "84f72b5979926bb88faf689817f06b846b9483d92a790ef38ce736b3112dfde6",
+      "workspace\\ledger.md": "4665b3b910c1845c04df79ec696278e2ab7a74604b754eb249982b2cb971ad4b",
+      "workspace\\continuity.md": "ba828dd0e48c4be28308f4b59e5c2a4356fccf9c54f530f358b499d0e4c9d6e9",
+      "workspace\\neutral-projection.md": "37435e3bab6332ad9053e669c31b9c149d64746a4f260b5e6465b35c65b78026"
+    }
+  }
+}

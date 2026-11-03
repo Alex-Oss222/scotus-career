@@ -1,0 +1,264 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 227,
+    "params": {
+      "query": "collection:us-supreme-court AND title:Barrett",
+      "qin": "collection:us-supreme-court AND title:Barrett",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 61,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385606_1165",
+        "title": "Barrett v. Kunzig, 409 U.S. 914 (1972) (No. 72-74)"
+      },
+      {
+        "identifier": "micro_IA40386014_0964",
+        "title": "Barrett v. Harwood, 530 U.S. 1262 (2000) (No. 99-1742)"
+      },
+      {
+        "identifier": "micro_IA40385608_2104",
+        "title": "Barrett v. Zweibon, 425 U.S. 944 (1976) (No. 75-1046)"
+      },
+      {
+        "identifier": "micro_IA40385008_0876",
+        "title": "Thomas v. Barrett, 456 U.S. 925 (1982) (No. 81-1086)"
+      },
+      {
+        "identifier": "micro_IA40386407_0201",
+        "title": "Bode v. Barrett, 344 U.S. 583 (1953) (No. 187)"
+      },
+      {
+        "identifier": "micro_IA40385608_0693",
+        "title": "Barrett v. United States (No. 74-950)"
+      },
+      {
+        "identifier": "micro_IA40386002_0005",
+        "title": "Barrett v. Indiana, 229 U.S. 26 (1913) (No. 245)"
+      },
+      {
+        "identifier": "micro_IA40386017_0727",
+        "title": "Barrett v. United States (No. 09-32)"
+      },
+      {
+        "identifier": "micro_IA40386014_1510",
+        "title": "Barrett v. Borough of Carlisle, 531 U.S. 1148 (2001) (No. 00-977)"
+      },
+      {
+        "identifier": "micro_IA40386018_0100",
+        "title": "Barrett v. United States (No. 1), 169 U.S. 218 (1898) (Nos. 53, 175)"
+      },
+      {
+        "identifier": "per_scotus_1894_928",
+        "title": "Theodore Lambert, Appellant, vs. George Barrett, Sherife of The County of Camden, In The State of New Jersey. 1894: Vol 928"
+      },
+      {
+        "identifier": "per_scotus_1883_327",
+        "title": "Mary E. Barrett, Appellant, vs. Chas D. Failing and Xarifa J. Failing. 1883: Vol 327"
+      },
+      {
+        "identifier": "micro_IA40386006_0605",
+        "title": "Barrett Co. v. United States, 273 U.S. 227 (1927) (No. 105)"
+      },
+      {
+        "identifier": "per_scotus_1874_291",
+        "title": "William A, Simpson, Plaintiff in Error, vs. C. S. Greeley, W. M. Mcpherson, S. M. Edgall, E. Miller, M. Baird, R. M. Shoemaker, and J. W. Kinney, (Part-Ners As Shoemaker, Miller & Co.,) D. Ackers, W. R. Smith, George Arbold, H. Joiinson, A. Barrett,"
+      },
+      {
+        "identifier": "micro_IA40385608_2102",
+        "title": "Barrett v. Zweibon, 425 U.S. 944 (1976) (No. 75-1059)"
+      },
+      {
+        "identifier": "per_scotus_1895_771",
+        "title": "Theodore Lambert, Appellant, vs. Sheriff of the County of George Barrett. Camden, in the State of New Jersey. 1895: Vol 771"
+      },
+      {
+        "identifier": "micro_IA40386006_0040",
+        "title": "Missouri Ex Rel. Barrett v. Kansas Natural Gas Co., 265 U.S. 298 (1924) (No. 133 & 137)"
+      },
+      {
+        "identifier": "micro_IA40385010_0550",
+        "title": "Cattell v. Barrett, 462 U.S. 1131 (1983) (No. 82-1449)"
+      },
+      {
+        "identifier": "micro_IA40385019_0799",
+        "title": "Barrett v. United States, 484 U.S. 856 (1987) (No. 87-295)"
+      },
+      {
+        "identifier": "micro_IA40386012_0651",
+        "title": "Barrett v. Mississippi Bar, 513 U.S. 1044 (1994) (No. 94-697)"
+      },
+      {
+        "identifier": "micro_IA40386013_1157",
+        "title": "Barrett v. United States, 522 U.S. 867 (1997) (No. 97-193)"
+      },
+      {
+        "identifier": "per_scotus_1896_247",
+        "title": "The Texas and Pacific Railway Company, Plaintiff in Error, vs. William K. Barrett. 1896: Vol 247"
+      },
+      {
+        "identifier": "per_scotus_1842_56",
+        "title": "John H. Randolph, Executor of Algernon S. Randolph, Deceased, Plaintiff in Error, vs. Israel Barrett, Administrator of Joel F. Randolph, Deceased. 1842: Vol 56"
+      },
+      {
+        "identifier": "per_scotus_1894_12",
+        "title": "The Texas and Pacific Railway Company, Plaintiff in Error, vs. William K. Barrett. 1894: Vol 12"
+      },
+      {
+        "identifier": "micro_IA40385020_0487",
+        "title": "Barrett v. Burns, 493 U.S. 1003 (1989) (No. 89-636)"
+      },
+      {
+        "identifier": "micro_IA40385604_0353",
+        "title": "Hirschfield v. Barrett, 393 U.S. 1062 (1969) (No. 801)"
+      },
+      {
+        "identifier": "micro_IA40385003_1622",
+        "title": "Barrett v. Zweibon, 425 U.S. 944 (1976) (No. 75-1046)"
+      },
+      {
+        "identifier": "micro_IA40386010_0879",
+        "title": "Barrett v. Borough of Carlisle, 532 U.S. 973 (2001) (No. 00-1369)"
+      },
+      {
+        "identifier": "micro_IA40385012_0427",
+        "title": "Connecticut v. Barrett, 479 U.S. 523 (1987) (No. 85-899)"
+      },
+      {
+        "identifier": "micro_IA40386016_2289",
+        "title": "Barrett v. United States (No. 06-1255)"
+      },
+      {
+        "identifier": "micro_IA40386013_2246",
+        "title": "Barrett v. Harrington, 523 U.S. 1075 (1998) (No. 97-1362)"
+      },
+      {
+        "identifier": "micro_IA40385005_2228",
+        "title": "Grand Trunk Western Railroad v. Barrett, 440 U.S. 946 (1979) (No. 78-980)"
+      },
+      {
+        "identifier": "micro_IA40386410_0212",
+        "title": "Barrett v. Kunzig, 409 U.S. 914 (1972) (No. 72-74)"
+      },
+      {
+        "identifier": "micro_IA40386019_1447",
+        "title": "Barrett v. University of Mississippi, 531 U.S. 1052 (2000) (No. 00-613)"
+      },
+      {
+        "identifier": "micro_IA40385607_0472",
+        "title": "Barrett v. United States, 414 U.S. 824 (1973) (No. 72-1545)"
+      },
+      {
+        "identifier": "micro_IA40385012_0515",
+        "title": "Adams Fruit Co. v. Barrett, 494 U.S. 638 (1990) (No. 88-2035)"
+      },
+      {
+        "identifier": "micro_IA40386009_1303",
+        "title": "Green v. Barrett (No. 07-177)"
+      },
+      {
+        "identifier": "micro_IA40385019_1624",
+        "title": "Barrett v. United States, 492 U.S. 926 (1989) (No. 87-1705)"
+      },
+      {
+        "identifier": "micro_IA40385020_0977",
+        "title": "Barrett v. Continental Illinois National Bank & Trust Co., 494 U.S. 1028 (1990) (No. 89-1180)"
+      },
+      {
+        "identifier": "micro_IA40385003_0632",
+        "title": "Barrett v. United States, 423 U.S. 212 (1976) (No. 74-5566)"
+      },
+      {
+        "identifier": "per_scotus_1859_187",
+        "title": "Eber B. Ward, Plaintiff in Error, vs. Paul Babcock, Charles Mackin, Jesse L. Cochran, Charles S. Slauson, Charles G. Barrett, Parker P. Clark, Ira A. Libby, William King, Bainbridge S. Clark, and Darius W. Warren. 1859: Vol 187"
+      },
+      {
+        "identifier": "per_scotus_1869_413",
+        "title": "\u039aenneth H. Worthy, Plaintiff in Error, vs. John A. Barrett, Wesley F. Sewell, Calvin H. Smith, John Ritter, and Absalom Kelly, Commissioners of the County of Moore. 1869: Vol 413"
+      },
+      {
+        "identifier": "micro_IA40386020_1305",
+        "title": "Barrett v. Koren (No. 07-1233)"
+      },
+      {
+        "identifier": "micro_IA40386007_1430",
+        "title": "Daniels, Saltz, Mongeluzzi & Barrett, Ltd. v. Newcomb, 516 U.S. 1117 (1996) (No. 95-993)"
+      },
+      {
+        "identifier": "micro_IA40386002_0159",
+        "title": "Barrett v. City of New York, 232 U.S. 14 (1914) (Nos. 83, 84, 85, 86)"
+      },
+      {
+        "identifier": "micro_IA40385005_2167",
+        "title": "Barrett v. State Mutual Life Assurance Co., 440 U.S. 912 (1979) (No. 78-914)"
+      },
+      {
+        "identifier": "micro_IA40386006_0230",
+        "title": "Barrett v. Van Pelt, 268 U.S. 85 (1925) (No. 160)"
+      },
+      {
+        "identifier": "micro_IA40386007_1719",
+        "title": "Barrett v. Ventura County, 562 U.S. 1219 (2011) (No. 10-789)"
+      },
+      {
+        "identifier": "micro_IA40385009_0571",
+        "title": "Barrett v. South Carolina, 459 U.S. 1021 (1982) (No. 82-0228)"
+      },
+      {
+        "identifier": "micro_IA40386004_0153",
+        "title": "Barrett v. Virginian R. Co., 250 U.S. 473 (1919) (No. 275)"
+      },
+      {
+        "identifier": "micro_IA40385608_2103",
+        "title": "Barrett v. Zweibon, 425 U.S. 944 (1976) (No. 75-1056)"
+      },
+      {
+        "identifier": "per_scotus_1845_93",
+        "title": "Noel Jourdan and Joseph Landry, Plaintiffs in Error, vs. Thomas Barrett and al. 1845: Vol 93"
+      },
+      {
+        "identifier": "micro_IA40385008_0792",
+        "title": "Dallas County v. Barrett, 456 U.S. 936 (1982) (No. 81-989)"
+      },
+      {
+        "identifier": "micro_IA40386010_0806",
+        "title": "Barrett v. Borough of Carlisle, 532 U.S. 943 (2001) (No. 00-1292)"
+      },
+      {
+        "identifier": "micro_IA40385007_0842",
+        "title": "Garry Weber v. Benny B. Barrett, 450 U.S. 1022 (1981) (No. 80-840)"
+      },
+      {
+        "identifier": "per_scotus_1850_205",
+        "title": "Euclid Williamson, Thomas F. Eckert, & John Williamson, Plaintiffs in Error, vs. Alex. B. Barrett, Robert Clark, Nathaniel D. Terry, Henry Lyne, James T. Donaldson, William Brown, & Fohn B. Sprowle. 1850: Vol 205"
+      },
+      {
+        "identifier": "per_scotus_1881_948",
+        "title": "Mary E. Barrett, Appellant, vs. Chas D. Failing and Xarifa J. Failing, Appellees. 1881: Vol 948"
+      },
+      {
+        "identifier": "micro_IA40386007_0781",
+        "title": "Steubenville City Schools v. Barrett, 546 U.S. 813 (2005) (No. 04-1409)"
+      },
+      {
+        "identifier": "micro_IA40385607_0975",
+        "title": "Shapiro v. Barrett, 414 U.S. 1039 (1973) (No. 73-390)"
+      },
+      {
+        "identifier": "per_scotus_1883_327_0",
+        "title": "Mary E. Barrett, Appellant, vs. Chas D. Failing and Xariffa J. Failing, Appellees. Brief and Argument for Appellees. 1883: Vol 327"
+      },
+      {
+        "identifier": "micro_IA40386404_0193",
+        "title": "Barrett Line, Inc. v. United States, 326 U.S. 179 (1945) (No. 630)"
+      }
+    ]
+  }
+}

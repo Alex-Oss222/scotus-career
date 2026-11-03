@@ -1,0 +1,3 @@
+# Ohler — assembly form before assignment
+
+One signed plenary opinion states the preserved-objection rule, its defensive-disclosure conditions and exclusions, and the bounded reversal/remand. Those are a single integrated ground: the Court does not decide admissibility or prejudicial error. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer support that entire opinion. O'Connor, Scalia, Kennedy and Thomas support an affirmance on self-introduction and publish one common dissent. No partial join, divided authorship or additional proposition is needed. Form and propositions are fixed on the legal merits before the fresh assignment count; no count or candidate author determines this form.

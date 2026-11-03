@@ -1,0 +1,42 @@
+
+
+OHLER V. UNITED STATES
+
+			LII
+
+			Supreme Court		 
+
+OHLER V. UNITED STATES (98-9828) 
+169 F.3d 1200, affirmed.
+Syllabus
+ Opinion
+ [ Rehnquist ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+OHLER v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 98—9828.  Argued March 20, 2000–Decided May 22, 2000
+
+Petitioner Ohler was tried on drug charges.  The Federal District Court granted the Government’s motion in limine to admit her prior felony drug conviction as impeachment evidence under Federal Rule of Evidence 609(a)(1).  Ohler testified at trial and admitted the prior conviction on direct examination.  The jury convicted her.  In affirming, the Ninth Circuit rejected her challenge to  the District Court’s in limine ruling, holding that she waived her objection by introducing the evidence during her direct examination.
+
+Held:  A defendant who preemptively introduces evidence of a prior conviction on direct examination may not challenge the admission of such evidence on appeal.  Ohler attempts to avoid the well-established commonsense principle that a party introducing evidence cannot complain on appeal that the evidence was erroneously admitted by invoking Federal Rules of Evidence 103 and 609.  However, neither Rule addresses the question at issue here.  She also argues that applying such a waiver rule in this situation would compel a defendant to forgo the tactical advantage of preemptively introducing the conviction in order to appeal the in limine ruling.  But both the Government and the defendant in a criminal trial must make choices as the trial progresses.  Ohler’s submission would deny to the Government its usual right to choose, after she testifies, whether or not to use her prior conviction against her.  She seeks to short-circuit that decisional process by offering the conviction herself (and thereby removing the sting) and still preserve its admission as a claim of error on appeal.  But here she runs into the position taken by the Court in Luce v. United States, 469 U.S. 38, 41, that any possible harm flowing from a district court’s in limine ruling permitting impeachment by a prior conviction is wholly speculative.  Only when the Government exercises its option to elicit the testimony is an appellate court confronted with a case where, under normal trial rules, the defendant can claim the denial of a substantial right if in fact the district court’s in limine ruling proved to be erroneous.  Finally, applying this rule to Ohler’s situation does not unconstitutionally burden her right to testify, because the rule does not prevent her from taking the stand and presenting any admissible testimony she chooses.  Pp. 2—7.
+
+169 F.3d 1200, affirmed.
+
+    Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined.  Souter, J., filed a dissenting opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined.
+

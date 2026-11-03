@@ -1,0 +1,76 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 179,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;99-387&quot; OR text:&quot;99-387&quot; OR text__reviews:&quot;99-387&quot;) OR title:Raleigh)",
+      "qin": "collection:us-supreme-court AND (&quot;99-387&quot; OR title:Raleigh)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 14,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385011_2508",
+        "title": "Major Media of the Southeast, Inc. v. City of Raleigh, 479 U.S. 1102 (1987) (No. 86-981)"
+      },
+      {
+        "identifier": "micro_IA40386017_0145",
+        "title": "DeLon v. News and Observer Publishing Co. of Raleigh, North Carolina (No. 08-997)"
+      },
+      {
+        "identifier": "micro_IA40385007_1666",
+        "title": "Overseas Raleigh Manufacturing, Ltd. v. Pan American World Airways, Inc., 452 U.S. 962 (1981) (No. 80-1801)"
+      },
+      {
+        "identifier": "micro_IA40386014_1902",
+        "title": "Steakhouse, Inc. v. City of Raleigh, 534 U.S. 1113 (2002) (No. 00-1815)"
+      },
+      {
+        "identifier": "per_scotus_1884_64",
+        "title": "Herman R. Baltzer and William G. Taaks, Appellants, vs. The Raleigh and Augusta Air Line Railroad Company; The Raleigh and Gaston Railroad Company; John F. Pickrell, John D. Whitford, and William J. Hawkins. 1884: Vol 64"
+      },
+      {
+        "identifier": "per_scotus_1870_100",
+        "title": "The Raleigh and Gaston Railroad Company, Plaintiff in Error, vs. John A. Reid, Sherriff, etc. 1870: Vol 100"
+      },
+      {
+        "identifier": "micro_IA40386011_0408",
+        "title": "National Advertising Co. v. City of Raleigh, 504 U.S. 931 (1992) (No. 91-1555)"
+      },
+      {
+        "identifier": "micro_IA40386004_1627",
+        "title": "Mudie v. Miltland Raleigh-Durham, 519 U.S. 1041 (1996) (No. 96-594)"
+      },
+      {
+        "identifier": "micro_IA40385610_1102",
+        "title": "Morand v. Raleigh, 357 U.S. 343 (1958) (No. 949)"
+      },
+      {
+        "identifier": "micro_IA40385014_0333",
+        "title": "Raleigh v. Illinois Dept. of Revenue, 530 U.S. 15 (2000) (No. 99-387)"
+      },
+      {
+        "identifier": "micro_IA0438641_0982",
+        "title": "Holt v. Raleigh City Board of Education, 361 U.S. 818 (1959) (No. 114)"
+      },
+      {
+        "identifier": "micro_IA40385603_0852",
+        "title": "Midwest-Raleigh, Inc. v. Eastern Gas & Fuel Associates, 389 U.S. 951 (1967) (No. 553)"
+      },
+      {
+        "identifier": "micro_IA40386010_1419",
+        "title": "Raleigh v. Trischan, 535 U.S. 988 (2002) (No. 01-1199)"
+      },
+      {
+        "identifier": "micro_IA40386003_0208",
+        "title": "Seaboard Air Line Ry. v. City of Raleigh, 242 U.S. 15 (1916) (No. 59)"
+      }
+    ]
+  }
+}

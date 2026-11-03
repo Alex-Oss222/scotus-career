@@ -1,0 +1,196 @@
+{
+  "scope": "Six assembly B Records; writing and bounded projection checks only; coordinated term integration and fresh audit are separate",
+  "records": [
+    {
+      "file": "terms\\OT1999\\records\\castillo-v-united-states_merits_2000-06-05.md",
+      "bytes": 32311,
+      "sha256": "1acfd68bd7ac20dc27adc93d11db0053c301682128ed5e8aa0083e9ebce01a57",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_words": [
+        225
+      ],
+      "author": "Scalia",
+      "pre_assignment_total": 73,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": {
+        "file": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+        "case": "Raleigh v. Illinois Department of Revenue; No. 99-387.",
+        "date": "2000-05-30",
+        "authors": [
+          "Breyer"
+        ]
+      }
+    },
+    {
+      "file": "terms\\OT1999\\records\\mixon-v-ohio_merits_2000-06-05.md",
+      "bytes": 54534,
+      "sha256": "8f37c8e719f595b014aee3a9abd7530d7ef2306465411010f72b0c830f9305fa",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_words": [
+        158,
+        229
+      ],
+      "author": "Souter",
+      "pre_assignment_total": 74,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 9,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": {
+        "file": "castillo-v-united-states_merits_2000-06-05.md",
+        "case": "Castillo v. United States; No. 99-658.",
+        "date": "2000-06-05",
+        "authors": [
+          "Scalia"
+        ]
+      }
+    },
+    {
+      "file": "terms\\OT1999\\records\\sims-v-apfel_merits_2000-06-05.md",
+      "bytes": 40296,
+      "sha256": "d1e961de2b034bb78bdf8c9508132a4b8f5c7ef1b667d1c8e965f2680e83d3a1",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_words": [
+        239
+      ],
+      "author": "O'Connor",
+      "pre_assignment_total": 75,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 9,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": {
+        "file": "mixon-v-ohio_merits_2000-06-05.md",
+        "case": "Mixon v. Ohio; Sixth Circuit No. 98-3368; no separate Supreme Court docket supplied.",
+        "date": "2000-06-05",
+        "authors": [
+          "Souter"
+        ]
+      }
+    },
+    {
+      "file": "terms\\OT1999\\records\\troxel-v-granville_merits_2000-06-05.md",
+      "bytes": 63460,
+      "sha256": "214fb1768ae7e9728750de565ff86e5923cf68ca930f2399611dc6906cd82079",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_words": [
+        189
+      ],
+      "author": "Breyer",
+      "pre_assignment_total": 76,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 8
+      },
+      "last_counted": {
+        "file": "sims-v-apfel_merits_2000-06-05.md",
+        "case": "Sims v. Apfel; No. 98-9537.",
+        "date": "2000-06-05",
+        "authors": [
+          "O'Connor"
+        ]
+      }
+    },
+    {
+      "file": "terms\\OT1999\\records\\united-states-v-hubbell_merits_2000-06-05.md",
+      "bytes": 39311,
+      "sha256": "1ab8532e3bd29f55fc45fe53e400c60ee13e0d26f99a66a60e5e96334a03ac74",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_words": [
+        258
+      ],
+      "author": "Kennedy",
+      "pre_assignment_total": 77,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 9
+      },
+      "last_counted": {
+        "file": "troxel-v-granville_merits_2000-06-05.md",
+        "case": "Troxel v. Granville; No. 99-138.",
+        "date": "2000-06-05",
+        "authors": [
+          "Breyer"
+        ]
+      }
+    },
+    {
+      "file": "terms\\OT1999\\records\\harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md",
+      "bytes": 35987,
+      "sha256": "4236fdb1777518355ac888a861566625b2ec171e03f31bfc1a570b4fc010e4db",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_words": [
+        274
+      ],
+      "author": "Thomas",
+      "pre_assignment_total": 78,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 9,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 9
+      },
+      "last_counted": {
+        "file": "united-states-v-hubbell_merits_2000-06-05.md",
+        "case": "United States v. Hubbell; No. 99-166.",
+        "date": "2000-06-05",
+        "authors": [
+          "Kennedy"
+        ]
+      }
+    }
+  ],
+  "judgment_component_arithmetic": "Each event accounts for exactly nine participating Justices; Mixon 5 reverse / 1 vacate / 3 affirm on statutory component, Sims 6 reverse / 3 affirm, Troxel 6 affirm / 2 vacate / 1 reverse; other dispositions unanimous.",
+  "reconciled_b_sha256": "bc4c2a2cde8840c6d85e2dd894c5b7503e186e5862e26f0b97b12cc74fa71f1d",
+  "no_record_edits": "Each Record was created once; no existing Record was overwritten.",
+  "git": "No Git command or commit claim."
+}

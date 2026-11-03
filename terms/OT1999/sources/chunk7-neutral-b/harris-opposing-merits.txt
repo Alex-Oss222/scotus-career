@@ -1,0 +1,3028 @@
+HARRIS TRUST AND SAVINGS BANK, not individually but solely as 
+Trustee for the Ameritech Pension Trust; AMERITECH CORPORATION; 
+and JOHN A. EDWARDSON, 
+
+
+Petitioners, 
+
+
+—_—Vo— 
+
+
+SALOMON SMITH BARNEY INC. and SALOMON BROTHERS REALTY CORP., 
+‘ Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+Peter C. Hein 
+Counsel of Record 
+Andrew C. Houston 
+Michael A. Charish 
+WACHTELL, LIPTON, ROSEN & KATZ 
+51 West 52nd Street 
+New York, New York 10019 
+(212) 403-1000 
+
+
+William F. Conlon 
+Richard B. Kapnick 
+SIDLEY & AUSTIN 
+One First National Plaza 
+Chicago, Illinois 60603 
+i ae (312) 853-7000 
+. March 23, ae Counsel for Respondents 
+
+
+"5 BEST AVAILABLE COPY [BRR 
+
+
+BALL 
+hea 
+
+
+QUESTION PRESENTED 
+
+
+Does the Employee Retirement Income Security Act 
+(“ERISA”) affirmatively authorize a private cause of action 
+against a nonfiduciary party-in-interest on the theory that a non- 
+fiduciary’s entry into a “prohibited transaction” constitutes a 
+“direct” violation of ERISA § 406(a), 29 U.S.C. § 1106(a), 
+notwithstanding that: (a) the language of § 406(a) (“a fiduciary 
+... Shall not cause the plan to engage” in a prohibited transac- 
+tion) prohibits conduct only by fiduciaries; (b) the legislative 
+history demonstrates that Congress specifically considered 
+imposing civil liability on nonfiduciary parties-in-interest for 
+participating in prohibited transactions, but opted not to; and 
+(c) this Court has expressed an unwillingness to infer private 
+causes of action under ERISA? 
+
+
+Even if this Court were to allow the posited private cause of 
+action, there is an alternative ground for affirmance that pre- 
+sents a subsidiary question: whether liability under any such 
+implied cause of action may be imposed upon a nonfiduciary 
+party-in-interest even if it did not know that the fiduciary who 
+caused the plan to engage in the transaction was violating 
+§ 406(a); here, petitioners failed to proffer admissible evidence 
+that respondent Salomon knew that a fiduciary was violating 
+§ 406. 
+
+
+CORPORATE DISCLOSURE STATEMENT 
+PURSUANT TO SUPREME COURT RULE 29.6 
+
+
+Respondents Salomon Smith Barney Inc. and Salomon 
+Brothers Realty Corp. are wholly owned by Salomon Brothers 
+Holding Company Inc., which in turn is wholly owned by 
+Salomon Smith Barney Holdings Inc., which in turn is wholly 
+owned by Citigroup Inc., whose stock is publicly traded. 
+
+
+QUESTION PRESENTED 
+
+
+TABLE OF CONTENTS 
+
+
+CORPORATE DISCLOSURE STATEMENT 
+PURSUANT TO SUPREME COURT RULE 29.6..... 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+TABLE OF SELECTED ABBREVIATIONS 
+
+
+STATEMENT OF THE CASE 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A®GUMENT 
+
+
+I. 
+
+
+1. Factual background................ 
+
+
+2. Proceedings in the courts below... 
+
+
+3. Response concerning matters not before 
+
+
+I id a al a ak te 
+
+
+“eee eee eee eenenee 
+
+
+*eeeneeeeereeeneeeeee eee eee ee eee eee 
+
+
+“eee ee eee 
+
+
+“eee eee eee 
+
+
+PAGE 
+
+
+Vil 
+
+
+ERISA DOES NOT PROVIDE A PRIVATE CAUSE 
+OF ACTION AGAINST A NONFIDUCIARY 
+
+PARTY-IN-INTEREST THAT ENTERS INTO A 
+TRANSACTION PROHIBITED BY § 406....... 
+
+
+A. The statutory text does not authorize 
+
+
+the posited private cause of action 
+
+
+iv 
+PAGE 
+A nonfiduciary party-in-interest cannot 
+GSE GED bs ceaidesscddsenecteadtenese 6 
+a. Section 406 prohibits conduct by 
+RIED GE o deneecescccndetsics 6 
+
+
+b. The statutory context confirms that 
+§ 406 does not provide the predicate 
+duty and liability for a cause of 
+action against a nonfiduciary party- 
+ner concensccescesuscotnaes 9 
+
+
+Section 502(a)(3) does not authorize a 
+cause of action against nonviolators ... 12 
+
+
+a. There is no statutory basis for hold- 
+ing nonviolators liable to redress 
+someone else’s violation .......... 13 
+
+
+b. Section 502(a)(3) does not incor- 
+porate a body of common law 
+under which a nonfiduciary party- 
+in-interest could be liable as a 
+RE snddncbssccscctudionsese 15 
+
+
+c. Ameritech waived any claim that 
+Salomon can be held liable even 
+if Salomon did not violate § 406 .. 19 
+
+
+Ameritech’s arguments based on 
+statutory context lack merit ............ 22 
+
+
+2. Congress rejected the Senate’s proposals 
+to impose civil liability upon parties-in- 
+interest and authorize suits against per- 
+sons who receive plan assets in violation 
+GET. ccc vecccccacescccsacesesesneses 
+
+
+3. Ameritech’s legislative-history 
+arguments lack merit .................-- 
+
+
+Inferring the posited cause of action would 
+interfere with Congress’s policy choices and 
+raise separation-of-powers concerns ........ 
+
+
+This Court’s ERISA decisions support 
+rejection of the posited cause of action...... 
+
+
+Congress's decision not to provide the 
+posited private cause of action does not 
+compromise the ERISA enforcement 
+
+
+' scheme Congress enacted.................-.. 
+
+
+PAGE 
+4. ERISA’s explicit provisions for 
+liabilities and sanctions underscore 
+the absence of the posited cause 
+eee pveidéchdeceess 25 
+The legislative history confirms what the 
+statutory text reflects: Congress made a 
+deliberate choice not to provide the posited 
+CD GE GTI oh ccecccccvnddvescvesesssodese< 26 
+1. Congress designed the prohibited- 
+transaction rules to regulate fiduciary 
+SERN accccococedendnaenesiccancesceses 26 
+
+
+27 
+
+
+30 
+
+
+33 
+
+
+34 
+
+
+38 
+
+
+vi 
+PAGE 
+F. The posited cause of action would open the 
+door to a wide range of potential suits that 
+Congress did not contemplate or provide 
+SO BR oe cecusceduseuneécisantacscsccine 42 
+G. The Secretary of Labor’s “interpretation” 
+is not entitled to deference .................. 45 
+H. The court-of-appeals decisions that infer 
+the posited private cause of action are 
+I ED dvedceccacuccenduidedsctcondes 46 
+Il. AMERITECH’S FAILURE TO PROFFER 
+ADMISSIBLE EVIDENCE THAT SALOMON 
+KNEW A FIDUCIARY WAS VIOLATING 
+§ 406 PROVIDES AN INDEPENDENT GROUND 
+We Cs 0s dn nncckttdesvedipecidehecnasoncins 47 
+A. Knowledge that a fiduciary was violating 
+§ 406(a) must be an element................. 48 
+B. Ameritech did not offer evidence that 
+Salomon knew a fiduciary was violating 
+i i cudisdentiandtienbembsstialiianddadobmhad 50 
+GED cdc cntecccresviintdiusaseiedndatnebsote 50 
+
+
+vii 
+TABLE OF AUTHORITIES 
+Cases: PAGE 
+
+
+Adams Fruit Co. v. Barrett, 494 U.S. 638 (1990) ..... 45 
+
+
+American Fed'n of Television and Radio Artists Health 
+and Retirement Funds v. WCCO Television, Inc., 
+
+
+934 F.2d 987 (8th Cir. 1991)...................... 15 2.8 
+Board of Governors of Federal Reserve System v. 
+
+Dimension Fin. Corp., 474 U.S. 361 (1986)...... 39 
+Bowen v. Georgetown Univ. Hesp., 488 U.S. 204 
+
+SE ddbecusucnotentibbdadahedeenssdbhebidinetaesds 46 
+Central Bank v. First Interstate Bank, 
+
+FOS Dae BO COG cvccccccccsecees 10, 11, 14, 20 n.11, 
+
+34, 37 
+
+Chevron, U.S.A., Inc. v. Natural Resources Defense 
+
+Council, Inc., 467 U.S. 837 (1984) ............... 46 
+Commissioner v. Keystone Consol. Indus., 
+
+DTU GED cadtecusteqpabadesbocdacedcese 24 
+Firestone Tire & Rubber Co. v. Bruch, 
+
+Ge ae Be GED nvccncccandcsocentesnescesncss 17 1.9 
+Garcia v. United States, 469 U.S. 70 (1984) .......... 11 
+
+
+Health Cost Controls, Inc. v. Washington, 
+187 F.3d 703 (7th Cir. 1999), cert. denied, 
+Fee es ks SVU GE osedsctecdcccogscesccocuscvce 17 1.9 
+
+
+Herman v. South Carolina Nat'l Bank, 
+140 F.3d 1413 (11th Cir. 1998) ................... 46 
+
+
+Hughes Aircraft Co. v. Jacobson, 
+Se es Se EE ccnbodedsevedscocessccesess 9, 11, 16 
+
+
+Vili 
+PAGE 
+1.N.S. v. Cardoza-Fonseca, 480 U.S. 421 (1987) ...... 32 
+Karahalios v. National Fed'n of Fed. Employees, 
+
+Local 1263, 489 U.S. 527 (1989) ..............4.. 25 
+LeBlanc v. Cahill, 153 F.3d 134 (4th Cir. 1998)....... 8 n.5 
+Lockheed Corp. v. Spink, 
+
+517 U.S. 882 (1996)............ 14 n.7, 36, 37, 38 n.17, 
+
+47, 48 n.24 
+
+Massachusetts Mut. Life Ins. Co. v. 
+Russell, 473 U.S. 134 (1985) ............... 6, 9, 11, 25, 
+32, 33, 34 
+
+
+McDougall v. Donovan, 539 F. Supp. 596 
+Gee Bees Ce v0 0 cvinvdsenccacdbstnsncesases 48, 48 n.24 
+
+
+Meghrig v. KFC Western, Inc., 516 U.S. 479 (1996) .. 25 
+Mertens v. Hewitt Assocs., 508 U.S. 248 (1993)...... passim 
+Nero v. Industrial Molding Corp., 167 F.3d 921 
+
+
+SOE CODED Sen ccdadevcestnsutecdéasiseniccdedas 151.8 
+Northwest Airlines, Inc. v. Transport Workers 
+
+Union, 451 U.S. 77 (1981)...........cececececeees 25, 33 
+Peacock v. Thomas, 516 U.S. 349 (1996).............. 14n.7 
+Pennsylvania Dep’t of Corrections v. Yeskey, 
+
+Fe Wade SP CRNOED ch cncnnccdsccceseccseseseessve 21 
+Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 (1987).... 33 
+Public Citizen v. United States, 491 U.S. 440(1989). 33 
+Reich v. Compton, 57 F.3d 270 (3d Cir. 1995)......... 8 n.5 
+
+
+Reich v. Continental Cas. Co., 33 F.3d 754 
+Pe Gt GED Kdinccidcdendadtodceiesacwidendadbad 11 1.6 
+
+
+ix 
+
+
+PAGE 
+Reich v. Stangl, 73 F.3d 1027 (10th Cir. 1996)........ 47 
+Safe Deposit & Trust Co. v. Cahn, 
+
+62 A. 819 (Md. 1906) ........ ccc ccc e cece ences 19 n.10 
+South Cent. Bell Tel. Co. v. Alabama, 
+
+FED Bee CED CIGD ccvcccvcccevccccccsescsccscecs 22 
+South Dakota v. Yankton Sioux Tribe, 
+
+FE See FP CRUSE cc vceccsccanacccccacsescoscons 23 
+Strauss v. United States Fidelity & Guar. Co., 
+
+63 F.2d 174 (4th Cir. 1933)....... 0.000 cece eens 19 n.10 
+United States v. X-Citement Video, Inc., 
+
+Re RT | PTTITITITITITTITTT TTT TT Tee 47 
+Varity Corp. v. Howe, 516 U.S. 489 (1996) ....... 15, 16, 33 
+Statutes and Regulations: 
+
+12 U.S.C. § 37 1c-(1)(D)(L (A) «eee eee cece eee eens 8 n.4 
+BS UBL. § GES-G1) .cvccccccccccccccccccccccccccscese 8 n.4 
+5B DB. © OGG. cccccccscccsccccccsccevscccscccevces 45 n.23 
+86 UBS. BIGGIE) oc cccccccccccccccccssccccccccccces 45 n.23 
+22 U.S.C. § 27BO(D)(1)(A) «2... cece cece e cece cece ee eees 8n.4 
+BB UBL. § LFGSD) cc ccccccccccccccccsccsecceccecsesesens 3 
+ERISA § 3(14)(A), 29 U.S.C. § 1002(14)(A).......... 25 
+ERISA § 3(14)(B), 29 U.S.C. § 1002(14)(B) .......... 4, 43 
+ERISA § 3(14)(H), 29 U.S.C. § 1002(14)(H).......... 43 
+ERISA § 104, 29 U.S.C. § 1024........ 0. cece e cece e eens 39 
+ERISA § 206(e)(1), 29 U.S.C. § 1056(e)(1) ........... 8 
+
+
+x 
+
+PAGE 
+ERISA § 404, 29 U.S.C. §1104..................... 9, 10, 16 
+ERISA § 404(a), 29 U.S.C. §1104(a)........... 9, 15, 44, 45 
+ERISA § 404(a\(1), 29 U.S.C. § 1104(a)(1)............ 9 
+ERISA § 405, 29 U.S.C. §1105................ 10, 16, 40, 41 
+ERISA § 405(a), 29 U.S.C. §1105(a).......... 10, 13, 23, 25 
+ERISA § 405(a)(1), 29 U.S.C. § 1105(a)(1)............ 49 
+BRISA § 406, 29 U.S.C. § 1106... ccccccccccccccccces passim 
+ERISA § 406(a), 29 U.S.C. § 1106(a)................. passim 
+
+
+ERISA § 406(a)(1), 29 U.S.C. § 1106(a)(1) ..4, 5, 6, 9, 10, 37 
+ERISA § 406(a)(1)(D), 29 U.S.C. § 1106(a)(1)(D) .... 8, 37 
+
+
+ERISA § 406(a)(1)(E), 29 U.S.C. § 1106(a)(1)(E)..... 8 
+ERISA § 406(b), 29 U.S.C. § 1106(b).................. 8,9 
+ERISA § 406(b)(1), 29 U.S.C. § 1106(b)(1) ........... 25 
+ERISA § 406(b)(3), 29 U.S.C. § 1106(b)(3).......... 45 n.23 
+eee BSGF, BP OBK.x 8 IGT nccccccccssesescescccess 8 
+ERISA § 408, 29 U.S.C. §1108....................605- 22, 50 
+ERISA § 408(a), 29 U.S.C. § 1108(a)...............66. 22 
+ERISA § 408(c), 29 U.S.C. § 1108(c) ..............44. 22 
+ERISA § 409, 29 U.S.C. § 1109............. 5, 10, 16, 34, 40 
+ERISA § 409(a), 29 U.S.C. § 1109(a) ............. 13, 23, 25 
+ERISA § 410, 29 U.S.C. § 1110...............ceeeeeees 10 
+ERISA § 410(b), 29 U.S.C. § 1110(b)................ 40 n.18 
+
+
+PAGE 
+meee SES, SP UBC. GETZ... cccccccccccccccccecess 16 
+en B Fein BO OMe B BEF Bec c dcccccsccesccvccccece 16 
+ERISA § 502(a), 29 U.S.C. § 1132(a).................. 5,7 
+ERISA § 502(a)(1)(B), 29 U.S.C. § 1132(a)(1)(B)....17 n.9 
+ERISA § 502(a)(2), 29 U.S.C. § 1132(a)(2) ........... 34 
+ERISA § 502(a)(3), 29 U.S.C. § 1132(a)(3) .......... passim 
+ERISA § 502(a)(3)(B), 29 U.S.C. § 1132(a)(3)(B) .... 5 
+ERISA § 502(a)(3)(B)(i), 29 U.S.C. 
+SF PSs cebecdnesivecesesseccesscivesss 3, 83 
+ERISA § 502(a)(5), 29 U.S.C. § 1132(a)(5) ..15, 26, 28, 31, 
+32 n.14, 46 
+ERISA § 502(a)(6), 29 U.S.C. § 1132(a)(6) ........... 22, 36 
+ERISA § 502(e), 29 U.S.C. § 1132(e).................. 45 
+ERISA § 502(f), 29 U.S.C. § 1132(f) .................. 45 
+ERISA § 502(i), 29 U.S.C. § 1132(i) ............. 22, 23, 25, 
+28, 35, 36, 39, 
+41 n.19, 45 n.23 
+ERISA § 502(1), 29 U.S.C. § 1132(I) .................. 23 
+ERISA § 502(1)(1), 29 U.S.C. § 1132(1)(1)............ 23 
+ERISA § 502(1)(1)(B), 29 U.S.C. § 1132(1)(1)(B)..... 23 
+ERISA § 502(1)(4), 29 U.S.C. § 1132(1)(4)............ 23 
+ERISA § 514(d), 29 U.S.C. § 1144(d).................. 41 
+ERISA § 1031(a), IRC § 6058 .................ceeceees 39 
+ERISA § 2003, IRC § 4975 ........... 23, 24, 25, 31, 35, 36, 
+
+
+40, 41 n.19, 45 n.23 
+
+
+xii 
+PAGE 
+
+ERISA § 2003, IRC § 4975(a) .............. 0. cece eens 11, 35 
+ERISA § 2003, IRC § 4975(0) ........ccccccccccccccees 11, 35 
+ERISA § 2003, IRC § 4975(c)(1)(E)................... 24 
+ERISA § 2003, IRC § 4975(c)(1)(F)................... 24 
+ERISA § 2003, IRC § 4975(e)(2)(A).................4. 25 
+ee & Seay Beis SUED cncnccnccccadcccccccdeccs 24 
+ERISA § 3003(a), 29 U.S.C. § 1203(a) ................ 24 
+ERISA § 3003(c), 29 U.S.C. § 1203(c)................ 24, 25 
+Regulatory Materials: 
+FO CIB. FOS OD on cccnicnssvvcsccccccasccs 35 n.16 
+BS Cake © POR APs os san crisncebccdcccicccctdees 35 n.16 
+OCH SAPD cnccndescdsvcdnssccendsedes 35 n.16 
+40 Fed. Reg. 50,845 (1975) .................. 43, 43 n.21, 44 
+49 Fed. Reg. 9494 (1984) ...........ccccccscsceee 43, 43 n.21 
+Legislative History: 
+P.L. 93-406, reprinted in 3 Legislative 
+
+History of ERISA 4836 et seq. ...........0000ee0e- 23, 28 
+H.R. Rep. No. 93-533 (1973), 1 Legislative 
+
+History of ERISA 2348 et seq.............++. 26, 27 n.13 
+H.R. Rep. No. 93-1280 (1974), 2 Legislative 
+
+History of ERISA 4277 et seq........... 27 n.13, 28, 29, 
+
+
+30, 31, 32, 49 
+
+
+PAGE 
+
+S. Rep. No. 93-127 (1973), 1 Legislative 
+
+History of ERISA 587 et seq. ................ 26, 48 n.24 
+Comparison of Senate-Passed and House-Passed 
+
+Versions of H.R. 2 (1974), 3 Legislative 
+
+EE GEE ic cniidatdsddidencevcacadcens 28 
+Summary of Major Provisions of S. 4, 1 Legislative 
+
+re Sn nbicivnccdcedcddctecsececes 27 n.13 
+119 Cong. Rec. 12,076 (1973), 1 Legislative 
+
+iT EE SOME ncn desanechesscidensancnnass 27 
+119 Cong. Rec. 30,009 (1973), 1 Legislative 
+
+EE ED vince ccdandseceansdends 27 n.13 
+120 Cong. Rec. 29,933 (1974), 3 Legislative 
+
+EO bn ces kushavehadconsenseess 30, 31 
+120 Cong. Rec. 29,954 (1974), 3 Legislative 
+
+A I UR adcaccbosnsadesdidsccocatses 30, 31 
+120 Cong. Rec. 3980 (1974), 2 Legislative 
+
+EE SD 6 cou dncidutndvioedesdstnnt< 27 n.13 
+Other Authorities: 
+IIA Austin W. Scott & William F. Fratcher, 
+
+Law of Trusts (4th ed. 1987) ...............00000es 18 
+IV Austin W. Scott & William F. Fratcher, 
+
+Law of Trusts (4th ed. 1989)...............46- 17, 18,19 
+V_ Austin W. Scott & William F. Fratcher, 
+
+Law of Trusts (4th ed. 1989) ...............00 ee eee 18 
+
+
+George G. Bogert & George T. Bogert, Trusts & 
+SNES GG, Bnd oc cccccsvvecsecésaseseecs 19 n.10 
+
+
+Dan B. Dobbs, Law of Remedies (2d ed. 1993)........ 17 
+
+
+XIV 
+PAGE 
+Louis Loss & Joel Seligman, Securities Regulation 
+CEE GE. BO <cddivdedcsuckuddskcouedeseesaeuees 20 n.11 
+Restatement (Second) of Torts (1979) ................ 20 n.11 
+Restatement (Second) of Trusts (1959) ................ 17, 19 
+Restatement (Third) of Trusts (Prudent Investor Rule) 
+SOG ncwccccnceucedesudndghetenesenesdbesainbaan 18 
+
+
+GR a A NG I A — — . —_—— — 
+
+
+XV 
+
+
+TABLE OF SELECTED ABBREVIATIONS 
+
+
+JA 
+PB 
+
+
+Pet. 
+
+
+Pet. Reply 
+
+
+Resp. Opp. 
+
+
+Sal. C.A. App. 
+
+
+Sal. C.A. Reply App. 
+
+
+USB 
+
+
+Joint Appendix 
+
+
+Brief for the Petitioners 
+(filed February 22, 2000) 
+
+
+Petition for Writ of Certiorari 
+(filed October 4, 1999) 
+
+
+Reply Brief for Petitioners in 
+support of petition for writ of 
+certiorari (filed December 14, 1999) 
+
+
+Record in the District court (see 
+docket entries listed on JA 1-28) 
+
+
+Brief of Respondents in Opposition 
+to petition for writ of certiorari 
+(filed December 3, 1999) 
+
+
+Supplemental Appendix of 
+Defendants-Appellants in the Court 
+of Appeals (filed in the Court of 
+Appeals August 4, 1998) 
+
+
+Supplemental Reply Appendix of 
+Defendants-Appellants in the Court 
+of Appeals (filed in the Court of 
+Appeals on October 16, 1998) 
+
+
+Brief of the United States as Amicus 
+Curiae Supporting Petitioners 
+(filed February 22, 2000) 
+
+
+STATEMENT OF THE CASE 
+
+
+The Seventh Circuit unanimously held that ERISA does 
+not provide a private cause of action against a nonfiduciary 
+party-in-interest under ERISA § 406, rejecting petitioners’ 
+theory that such nonfiduciary’s entry into a prohibited trans- 
+action constitutes a “direct” violation of § 406(a). 
+
+
+1. Factual background. Petitioner Ameritech Pension 
+Trust (“APT”) is a trust for two employer-funded defined- 
+benefit plans sponsored by petitioner Ameritech Corporation 
+(“Ameritech Corp.”).' See Sal. C.A. App. 354. APT pur- 
+chased from Salomon four participation interests in cash 
+flow and appreciation of four groups of motel properties. See 
+JA 182-87, 192-99, 343. The purchases followed extensive 
+
+
+_ negotiations between Salomon and two fiduciaries of APT — 
+
+
+Ameritech Corp. and National Investment Services of Amer- 
+ica (“NISA”), APT’s investment manager. See JA 343; Sal. 
+C.A. App. 359, 373-88, 639-47, 668-73, 681-83. Ameritech 
+Corp. and NISA executives analyzed and negotiated the pur- 
+chases on APT’s behalf. See id. At the time, APT was 
+approximately the tenth largest pension fund in the country, 
+with about $10 billion of assets. See id. at 357. 
+
+
+At the time, none of those involved regarded Salomon as 
+a party-in-interest or believed that the transactions were 
+ERISA prohibited transactions: not Ameritech’s own chief 
+investment officer (JA 96-98), not the CEO of fiduciary 
+NISA (JA 65-67), and not the Salomon executives (JA 52, 
+55-56). See also Sal. C.A. App. 393-406, 635-38. For each 
+of the years 1987-1989 (when the transactions occurred), 
+Ameritech filed reports with the Government that repre- 
+sented that no prohibited transactions had occurred. See 
+JA 165-70; Sal. C.A. App. 397-406, 735-40. 
+
+
+But in 1990, the lodging market began to collapse. See 
+JA 99-100, 112-14, 117-18, 343; Sal. C_A. App. 624, 630, 652- 
+
+' Petitioners are sometimes collectively referred to herein as “Ameri- 
+tech” and respondents as “Salomon”. References to “APT” and “Ameri- 
+tech Corp.” are to those individual entities. 
+
+
+2 
+
+
+57. Motels of America (“MOA”), which owned three of the 
+four groups of motels involved, filed for bankruptcy in 
+December 1990. See Sal. C.A. App. 299, 367. Also in 1990, 
+the Ameritech pension plans’ management changed, and new 
+management revisited earlier investment policies and deci- 
+sions. See Sal. C.A. App. 360-61, 592, 627, 629, 648, 667. By 
+1991, fiduciaries Ameritech Corp. and NISA had agreed to 
+cooperate in litigation against Salomon. See JA 218; Sal. 
+C.A. App. 364. Also in 1991, APT sold its three MOA par- 
+ticipation interests to a company that acquired control of 
+MOA, and MOA also agreed to cooperate in litigation 
+against Salomon. See JA 156-59; Sal. C.A. App. 364-66. 
+
+
+In 1992, Ameritech filed suit, seeking to hold Salomon 
+alone responsible for APT’s participation-interest losses. 
+Fiduciary Ameritech Corp. elected not to sue itself; having 
+agreed to cooperate in litigation against Salomon, fiduciary 
+NISA was not sued either. Ameritech concedes that no 
+employee ever contributed any money to the plans; that 
+Ameritech Corp. is obliged to pay fixed benefits irrespective 
+of investment performance; and that any losses suffered by 
+APT on the participation-interest investments were borne by 
+Ameritech Corp. and did not cost any employee or retiree 
+any money. See JA 221-22. 
+
+
+2. Proceedings in the courts below. The district court’s 
+June 1996 Order granted summary judgment dismissing 
+Count I—alleging that Salomon breached its fiduciary 
+duties — because there was no evidence that Salomon was a 
+fiduciary of APT. See JA 289-99. The district court also dis- 
+missed Count III — alleging that fiduciary NISA caused APT 
+to enter into prohibited transactions in violation of § 406 and 
+that Salomon “knowingly participated” in NISA’s breach — 
+on the ground that nonfiduciaries cannot be held liable for 
+knowing participation in a fiduciary’s breach. See JA 320-21. 
+
+
+Count II alleged that “Salomon caused the Plan to engage 
+in” § 406(a) prohibited transactions. JA 39-42. The district 
+
+
+3 
+
+
+court dismissed any claim in Count II “premised on an 
+alleged breach of fiduciary duty” (JA 324), but upheld Count 
+II in part, to the extent that (as recharacterized by Ameri- 
+tech) Count II asserted a purported “direct” cause of action 
+against Salomon on the theory that Salomon, even if not a 
+fiduciary, violated § 406 as a party-in-interest by entering 
+into prohibited transactions. See JA 299-310. 
+
+
+On a §1292(b) interlocutory appeal, Salomon sought 
+reversal of the district court’s ruling upholding Count II in 
+part. Ameritech did not cross-appeal or otherwise contest 
+the dismissal of Counts I and III and partial dismissal of 
+Count II. The court of appeals unanimously reversed the dis- 
+trict court’s ruling upholding Count II and granted summary 
+judgment to Salomon. See JA 354. The panel circulated its 
+opinion to all judges of the court in regular active service. 
+Only one judge voted to rehear the case en banc. See id.” 
+
+
+3. Response concerning matters not before this Court. 
+The validity of Ameritech’s allegations that Salomon was a 
+party-in-interest and that the transactions were nonexempt 
+prohibited transactions (see PB 7-8) is not before this Court. 
+The courts below did not rule on the merits of these allega- 
+tions, and Salomon disputes them. See JA 347. As noted 
+above, none of those involved at the time believed Salomon 
+was a party-in-interest or that the transactions were prohib- 
+ited. APT transacted with Salomon at arm’s length and 
+Salomon was just one of dozens of securities firms with 
+whom APT and its outside investment managers dealt. See 
+JA 71-72, 98, 123, 183-84, 186-87, 193-94, 197-98; Sal. 
+C.A. App. 419-43; Sal. C.A. Reply App. 481-500. Salomon 
+disputes Ameritech’s contention that arm’s-length dealings 
+in principal transactions or nondiscretionary equity trades 
+(including trades where the plan is represented by its own 
+investment-manager fiduciary) make a broker-dealer a “per- 
+
+
+2 The Court of Appeals did not reach Salomon’s alternative argument 
+seeking reversal of the district court’s dismissal of Salomon’s contribu- 
+tion counterclaim, which Salomon reserves. See Resp. Opp. 14 n.7. 
+
+
+4 
+
+
+son providing services” to a plan and thus a party-in-interest 
+under ERISA § 3(14)(B). See R.141, pp. 10-13; R.143 (Vol. F, 
+19 271-337); Sal. C.A. Reply App. 474-500; R.167 pp. 1-8. 
+Were there to be further proceedings, Salomon would also 
+dispute many “facts” asserted by Ameritech (see PB 6-8), 
+including Ameritech’s “sound bites” from testimony of two 
+MOA employees. Compare PB 8 with JA 81-95, 102-15, 131- 
+46, 156-59, 219. Salomon’s position is that the participation 
+interests had substantial value at the time they were sold and 
+offered the potential for large gains (see, e.g., JA 44-49; Sal. 
+C.A. App. 444-55; Sal. C.A. Reply App. 508-22), but were 
+subject to substantial risks that Ameritech fully understood 
+(see, e.g., JA 125-26, 128-29; Sal. C.A. App. 436-43, 674; 
+Sal. C.A. Reply App. 522-41), and that APT’s losses resulted 
+from an adverse turn in the market (see pp. 1-2, supra).° 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Ameritech would have this Court read into ERISA duties 
+and civil liabilities of nonfiduciary parties-in-interest that are 
+not expressed in the statute, and thereby infer a cause of 
+action to enforce such implied duties and liabilities. 
+Ameritech argues that liability may be imposed even upon 
+defendants that are not violators and not wrongdoers. But 
+Ameritech’s positions find no support in the text of ERISA 
+and require an approach to statutory construction alien to 
+that employed in this Court’s decisions. 
+
+
+Section 406 prohibits conduct by fiduciaries. Subsection 
+406(a)(1) provides that “a fiduciary with respect to a plan 
+shall not cause the plan to engage in” certain transactions, 
+some (but not all) of which are between a plan and a party- 
+in-interest. JA 242-44. But Salomon was not a fiduciary of 
+APT. See p. 2, supra. Ameritech contends that Salomon is 
+
+> Ameritech’s parol evidence of a supposed agreement by Salomon to 
+monitor the investments (PB 8 n.6) is not germane to any issue before this 
+Court, was disputed, and (as the district court observed in ruling it inad- 
+missible) is contradicted by the terms of the assignments. See JA 295-99. 
+
+
+5 
+
+
+a nonfiduciary party-in-interest on the theory that it is 
+“a person providing services” to APT. However, in contrast 
+to the express prohibition directed at fiduciaries, § 406(a)(1) 
+does not prohibit conduct by a nonfiduciary party-in-inter- 
+est. And in contrast to § 409 (which provides expressly for 
+the imposition of liability on any “fiduciary” “who breaches” 
+any of the “duties imposed upon fiduciaries” by Title I of 
+ERISA), there is no provision in Title I that provides that a 
+nonfiduciary party-in-interest shall be liable for entering into 
+a transaction prohibited by § 406. See Point I.A.1, infra. 
+
+
+There is no statutory basis for Ameritech’s claim that a 
+nonviolator may be held liable under ERISA for “equitable 
+relief” “to redress” someone else’s violation of ERISA duties. 
+Section 502(a) simply provides that specified parties may 
+bring suit for particular relief; relief under § 502(a)(3)(B)(i) 
+is limited to “other appropriate equitable relief” “to redress” 
+violations of Title I or the terms of a plan. JA 254. By its 
+terms, § 502(a)(3)(B) does not prohibit any conduct, impose 
+any duties, or provide for civil liability. To determine what 
+violations may be redressed by suit under § 502(a)(3) one 
+must look to other provisions of Title I or to the terms of the 
+plan. In any event, this nonviolator-liability claim was not 
+pled in the sole count before this Court and was not pre- 
+sented in the court of appeals, and thus has been waived. See 
+Point I.A.2, infra. 
+
+
+The legislative history confirms that Congress meant 
+what it said. Congress specifically focused on whether to 
+create a cause of action against parties-in-interest who par- 
+ticipate in prohibited transactions — and decided not to. 
+Thus, the House bill limited liability to fiduciaries. See 
+JA 277-81. By contrast, the Senate proposed to provide for 
+civil liability of parties-in-interest (for damages and dis- 
+gorgement), and authorize civil actions “against any person 
+who has transferred or received any of the assets of a plan”. 
+JA 275-76 (emphasis added). The Conference Committee 
+staff recommended that the conferees “adopt the approach of 
+
+
+6 
+
+
+the House bill and not provide civil liability for parties-in- 
+interest”. JA 281-82 (emphasis added). That recommendation 
+was followed. See Point 1.B, infra. 
+
+
+Finally, even if the posited cause of action exists, there is 
+an alternative ground for affirmance: Knowledge of the fidu- 
+ciary’s violation of § 406(a) must be an element of the claim, 
+because the nonfiduciary’s liability would be dependent upon 
+proof of the fiduciary’s violation. Here, Ameritech failed to 
+proffer admissible evidence that Salomon knew that a fidu- 
+ciary was violating § 406. See Point II, infra. | 
+
+
+ARGUMENT 
+
+
+I. ERISA DOES NOT PROVIDE A PRIVATE CAUSE 
+OF ACTION AGAINST A NONFIDUCIARY PARTY- 
+IN-INTEREST THAT ENTERS INTO A TRANSAC- 
+TION PROHIBITED BY § 406. 
+
+
+A. The statutory text does not authorize the posited 
+private cause of action. 
+
+
+In evaluating whether a cause of action exists under 
+ERISA, this Court has looked to whether ERISA “expressly 
+authorize[s]” the suit. See Massachusetts Mut. Life Ins. v. 
+Russell, 473 U.S. 134, 145 (1985); see also Mertens v. 
+Hewitt, 508 U.S. 248, 255 n.5S (1993) (“affirmatively autho- 
+rizes”). No ERISA provision expressly authorizes a cause of 
+action against a nonfiduciary party-in-interest. 
+
+
+1. A nonfiduciary party-in-interest cannot vio- 
+late § 406. 
+
+
+a. Section 406 prohibits conduct by fiduciaries only. 
+The text of § 406(a)(1) prohibits fiduciary conduct only: “A 
+fiduciary with respect to a plan shall not cause the plan to 
+engage in a transaction, if he knows or should know that 
+such transaction constitutes” a nonexempt prohibited trans- 
+action (emphasis added). Section 406(a) does not contain any 
+
+
+oe 
+
+
+7 
+
+
+comparable prohibition addressed to nonfiduciary parties-in- 
+interest. No words of duty or prohibition, such as “shall not”, 
+are used to proscribe conduct by nonfiduciary parties-in- 
+interest. In addition, § 406(a) contains an express culpability 
+standard for fiduciaries who cause plans to enter into pro- 
+hibited transactions, but contains no culpability standard for 
+nonfiduciary parties-in-interest — an omission that makes 
+sense only if § 406 does not impose duties upon them. 
+
+
+The “act” that “violates” § 406 — and thus may potentially 
+be subject to civil suit under § 502(a) — can only be the act 
+that § 406 prohibits: a “fiduciary[’s] ... caus[ing] the plan to 
+engage in [the] transaction”. As the Seventh Circuit stated, 
+the “mere fact that § [406] mentions ‘parties in interest’ 
+when it describes the transactions that fiduciaries must avoid 
+does not mean that parties in interest are liable when a fidu- 
+ciary does engage in a prohibited transaction”. JA 349. 
+Ameritech faults the court of appeals for reading § 406(a) “as 
+merely prohibiting fiduciaries trom causing plans to engage 
+in transactions with parties in interest”. PB 19. But that is 
+what § 406(a) says. 
+
+
+Instead of reading § 406 as it is written, Ameritech argues 
+that “Congress intended to prohibit transactions between 
+plans and parties in interest” and, therefore, “the prohibitions 
+of Section 406(a) apply to parties in interest”. PB 20. But 
+Ameritech’s conclusion does not follow from its premise. 
+Since it is the fiduciary who has the power to cause the plan 
+to engage in the transaction, effecting the desired prohibition 
+by prohibiting fiduciaries — and fiduciaries alone — from 
+causing plans to enter into prohibited transactions makes 
+eminent sense. Indeed, if nonfiduciary parties-in-interest 
+who receive plan assets could be sued, there would exist the 
+specter of fiduciaries, through their choice of whom to sue, 
+seeking to shift to nonfiduciaries responsibility for § 406 
+violations — as Ameritech Corp. attempts to do here. See 
+p. 2, supra. A prohibition directed against only one party 
+to a transaction is not unique to § 406: Another section 
+
+
+8 
+
+
+of ERISA, § 206(e)(1), prohibits a fiduciary from permitting 
+what is defined as a “prohibited payment” during a period in 
+which a plan has a liquidity shortfall; this provision too is 
+directed only to a fiduciary (“the fiduciary ... shall not per- 
+mit’’). And the United States Code contains other provisions 
+entitled “prohibited transactions” that proscribe conduct of 
+only one party to the transaction.‘ 
+
+
+Ameritech’s contention that “it is the transaction that is 
+prohibited” (PB 21) also ignores that prohibitions are not 
+abstractions — rather prohibitions regulate the behavior of a 
+class of persons. In § 406, Congress chose to regulate fidu- 
+ciaries: “A fiduciary ... shall not”. Notably, both § 406(a) and 
+§ 406(b) use the same language (“[a] fiduciary ... shall not’’), 
+yet § 406(b) does not even mention the term party-in-inter- 
+est (nor does § 406(a)(1)(E)). The heading “prohibited trans- 
+actions” signifies only that § 406 specifies the transactions in 
+which a fiduciary is prohibited from engaging. 
+
+
+Ameritech seeks to distinguish parties-in-interest from 
+other nonviolators with a meaningless tautology: a “party- 
+in-interest is a necessary counter-party to a prohibited 
+transaction between a plan and a party-in-interest”. PB 46 
+(emphasis altered). But some of the transactions enumerated 
+in § 406 may not involve a party-in-interest counterparty. See 
+§ 406(a)(1)(D)-(E) and § 406(b). For example, a fiduciary 
+causing a plan to purchase employer securities in excess of 
+§ 407’s limits violates § 406(a)(1)(E) even if the seller has no 
+connection at all to the plan. And cases Ameritech itself 
+relies upon involve non-parties-in-interest as counterparties.° 
+
+
+* See, e.g., 12 U.S.C. § 371c-1(b)(1)(A) (“Prohibited transactions ... 
+A member bank or its subsidiary ... shall not ...”); 15 U.S.C. § 80b-6 
+(“Prohibited transactions by investment advisers ... It shall be unlawful for 
+any investment adviser [to] ...”); 22 U.S.C. § 2780(b)(1) (“Prohibited 
+transactions by United States Persons ... A United States person may 
+not....”). 
+
+
+5 See Reich v. Compton, 57 F.3d 270, 286-87 (3d Cir. 1995) 
+(§ 406(a)(1)(D)); LeBlanc v. Cahill, 153 F.3d 134, 151-53 (4th Cir. 1998) 
+(§ 406(b)). 
+
+
+= 
+
+
+9 
+
+
+Conversely, fiduciary violations of other ERISA provisions, 
+such as § 404(a), also may involve counterparties (who may 
+or may not be parties-in-interest). The sine qua non of a vio- 
+lation of § 406, like a violation of § 404(a), is the fiduciary’s 
+conduct — not the presence of a party-in-interest counter- 
+party. Similarly, that a party-in-interest has “full control over 
+its role” in a transaction (USB 25) does not distinguish a 
+party-in-interest from any other counterparty. 
+
+
+b. The statutory context confirms that § 406 does not 
+provide the predicate duty and liability for a cause of 
+action against a nonfiduciary party-in-interest. Section 
+406 is found in Title I, Subtitle B, Part 4 of ERISA, which 
+concerns “Fiduciary Responsibility”. Where Congress sought 
+to impose duties in Part 4, it did so expressly. Thus, § 404 
+sets forth certain affirmative fiduciary duties: “a fiduciary 
+shall ...” § 404(a)(1). In parallel fashion, §§ 406(a)(1) and (b) 
+set forth prohibitions on fiduciary conduct: “[a] fiduciary ... 
+shall not”. The linguistic parallel between §§ 404 and 406 
+confirms what § 406’s words convey: § 406 “simply describes 
+another variety of fiduciary breach”. JA 348. Section 406, 
+like §404(a), does not impose duties upon nonfiduciary 
+counterparties, whether they are parties-in-interest or not. 
+
+
+This Court itself has recognized that § 406, like § 404, 
+establishes duties applicable to fiduciaries: In Massachusetts 
+Mut. v. Russell, 473 U.S. at 143 n.10, this Court explained 
+that ERISA establishes “duties of loyalty and care for fidu- 
+ciaries. With regard to loyalty, the principal provision is 
+§ 406, which in general prohibits self-dealing and sales or 
+exchanges between the plan ... and ‘parties in interest’... 
+With regard to the duty of care, § 404, among other obliga- 
+tions, imposes a ‘prudent person’ standard....” (emphasis 
+added); see also Hughes Aircraft v. Jacobson, 525 U.S. 432, 
+437, 444-45 (1999) (referring to § 406 as one of ERISA’s 
+“fiduciary provisions”). 
+
+
+10 
+
+
+Similarly, where Congress sought to provide for civil 
+liability for breach of duties, it did so expressly. Thus, § 409 
+expressly imposes civil liability on: “a fiduciary .. who 
+breaches any of the ... duties imposed upon fiduciaries by 
+this title”. In parallel fashion, § 410 precludes only excul- 
+patory provisions that “purport[ ] to relieve a fiduciary from 
+responsibility or liability”. 
+
+
+Congress also expressly addressed what class of persons 
+should bear civil liability for participation in a fiduciary’s 
+breach of duty — and provided that only other fiduciaries 
+would bear such liability. Thus, § 405(a) provides that: “a 
+fiduciary ... shall be liable for a breach of fiduciary respon- 
+sibility of another fiduciary” in specified circumstances, 
+including when “he participates knowingly in” the fiduciary 
+breach. See Mertens, 508 U.S. at 254; see also Central Bank 
+v. First Interstate Bank, 511 U.S. 164, 184 (1994) (“The fact 
+that Congress chose to impose some forms of secondary lia- 
+bility, but not others, indicates a deliberate congressional 
+choice with which the courts should not interfere.”). 
+
+
+And Congress specified express standards of culpability 
+that vary from section to section, depending upon whether 
+the defendant-fiduciary is a primary violator (e.g., § 406(a)(1)) 
+or liable for participation in another fiduciary’s violation 
+(e.g., § 405(a)). If Congress had intended to provide a cause 
+of action against a nonfiduciary party-in-interest, Congress 
+would have said so — and would have expressly selected a 
+standard of culpability — as the proposed, but rejected, Sen- 
+ate bill did. See p. 27, infra. 
+
+
+By their terms, §§ 404, 405, 406 and 409 apply only to 
+fiduciaries. No provision of Title I of ERISA imposes com- 
+parable express duties or civil liability on nonfiduciary par- 
+ties-in-interest. This was neither inadvertent nor because 
+Congress was unable to find the right words. In ERISA’s 
+Title J] excise-tax provisions, Congress was explicit that 
+excise taxes may be imposed upon certain parties-in-interest 
+
+
+11 
+
+
+(called disqualified persons) who “participate[ ] in the pro- 
+hibited transaction”. IRC § 4975(a) & (b). And the Senate 
+had proposed a provision that would have expressly imposed 
+civil liability upon parties-in-interest — but it was rejected. 
+See Point I.B, infra. Plainly, “[i]f Congress had wanted to 
+place remedial power against nonfiduciaries in the hands of 
+private parties it would have done so more explicitly as it did 
+in the case of fiduciaries and in the case of co-fiduciaries.” 
+JA 350. Indeed, that several sections in Part 4 (“Fiduciary 
+Responsibility”) impose duties upon nonfiduciaries (see PB 
+22 n.11) only further supports Salomon’s position by demon- 
+strating that when Congress wished to impose duties or pro- 
+hibitions upon nonfiduciaries in Part 4, it did so explicitly. 
+
+
+To infer the posited cause of action would do violence to 
+fundamental principles this Court has prescribed for the 
+interpretation of statutes generally and ERISA in particular. 
+As this Court reiterated last Term in another ERISA case: 
+“(I]n any case of statutory construction, our analysis begins 
+with ‘the language of the statute.’ ... And where the statu- 
+tory language provides a clear answer, it ends there as well.” 
+Hughes Aircraft v. Jacobson, 525 U.S. at 438; see also, e.g., 
+Central Bank, 511 U.S. at 176-78 (since the text of § 10(b) 
+“does not itself’ encompass aiders and abettors, “that con- 
+clusion resolves the case”); Garcia v. United States, 469 U.S. 
+70, 75 (1984). 
+
+
+These general principles apply with particular force to 
+ERISA cases: This Court has pronounced its “unwillingness 
+to infer causes of action in the ERISA context, since that 
+statute’s carefully crafted and detailed enforcement scheme 
+provides ‘strong evidence that Congress did not intend to 
+authorize other remedies that it simply forgot to incorporate 
+expressly.’” Mertens, 508 U.S. at 254 (quoting Russell, 473 
+U.S. at 146-47) (emphasis added).° 
+
+® Apart from the absence of a substantive duty or liability upon non- 
+
+
+fiduciary parties-in-interest, Ameritech fails to show that it seeks “appro- 
+priate equitable relief”. Ameritech acknowledges that “[rJestitution is an 
+
+
+12 
+
+
+2. Section 502(a)(3) does not authorize a cause 
+of action against nonviolators. 
+
+
+As the court of appeals noted, Ameritech’s position before 
+that court was “that Salomon violated [ERISA] by engaging 
+in a transaction prohibited by § [406]” and that “[t]herefore 
+[Ameritech] may seek ‘appropriate equitable relief’ ... against 
+Salomon under § [502(a)(3)]”. JA 347 (emphasis added). 
+Ameritech’s claim that “Salomon violated” is answered in 
+Point I.A.1, supra. Now, in Ameritech’s merits brief before 
+this Court, Ameritech advances an additional claim. Ameri- 
+tech argues that under § 502(a)(3) a court may hold a non- 
+fiduciary party-in-interest liable — even if it did not violate 
+§ 406 (or any other ERISA Title I provision) and even if it did 
+not engage in wrongdoing — in order to “redress” a violation 
+by someone else. See PB 13, 15-18, 20, 28-31. 
+
+
+Ameritech thus recasts § 502(a)(3) as expanding the class 
+of persons who may be liable and thereby establishing what 
+might aptly be called “nonviolator liability”. To support this 
+nonviolator-liability claim, Ameritech now argues that “the 
+answer to the question presented ... does not ultimately 
+depend on whether a non-fiduciary party in interest ... violates 
+§ 406(a)”. PB 20 (emphasis added). This is the opposite 
+of Ameritech’s position in the court of appeals, where it 
+
+
+equitable remedy when sought in a case in equity, and a legal remedy 
+when sought in a case at law”. PB 29 n.14 (citing, inter alia, Reich v. 
+Continental Cas. Co., 33 F.3d 754, 755-56 (7th Cir. 1994)). Continental 
+Casualty explained that a suit seeking restitution from a nonfiduciary 
+would “normally be a suit at law”, but the case before it had a “special 
+wrinkle” — the equitable theory of aiding and abetting a fiduciary breach. 
+See id. Ameritech fails to articulate any theory under which a hypothet- 
+ical “direct” claim against a nonfiduciary party-in-interest for its own 
+“violation” of § 406 would be “a case in equity”. In fact, that claim would 
+be legal. It posits a direct statutory tort by a nonfiduciary. Instead of 
+defending the supposed equitable nature of the “direct” claim it presented 
+to the court of appeals, Ameritech now attempts to interject a separate, 
+purportedly equitable claim against Salomon to redress fiduciary NISA’s 
+violation of § 406. But as discussed in Point 1.A.2, this claim is not legally 
+viable and in any event has been waived. 
+
+
+13 
+
+
+argued that the question “depends entirely on the meaning of 
+§ [406(a)]”. Brief of Appellees at 18 (emphasis added). 
+
+
+Ameritech’s nonviolator-liability claim cannot logically be 
+confined to party-in-interest liability for prohibited trans- 
+actions — § 502(a)(3) does not mention parties-in-interest, 
+or prohibited transactions, or even, specifically, a fiduciary 
+violation. Rather, under Ameritech’s theory, any person could 
+be sued for “equitable relief” under § 502(a)(3) to “redress” 
+some other person’s violation. As shown below, there is no 
+merit to this claim and, in any event, it has been waived. 
+
+
+a. There is no statutory basis for holding nonviolators 
+liable to redress someone else’s violation. Ameritech’s 
+nonviolator-liability claim ignores the basic requirement that 
+there be a substantive basis for liability of a party before 
+relief will be awarded against it. The text of § 502(a)(3) does 
+not provide a basis for holding nonviolators liable for other 
+persons’ violations. Thus, § 502(a)(3) does not prohibit any 
+conduct or impose any duties: It contains no language such 
+as the familiar “shall not” used elsewhere in ERISA, such as 
+in § 406. Nor does § 502(a)(3) expressly impose civil lia- 
+bility: Phrases such as “shall be liable” (§ 405(a)) and “shall 
+be personally liable” (§ 409(a)) are nowhere to be found in 
+§ 502(a)(3). 
+
+
+Rather, § 502(a)(3) simply permits specified parties to 
+bring suit for particular relief, in the case of § 502(a)(3)(B)(i) 
+relief is limited to “other appropriate equitable relief” “to 
+redress” violations of Title I or the terms of a plan. To deter- 
+mine what violations may be redressed by suit under 
+§ 502(a)(3) one must look elsewhere: to other provisions of 
+Title I or to the terms of the plan. As the Seventh Circuit 
+observed, § 502(a)(3) “only serves to provide a private cause 
+of action for violations of ERISA; it does not expand the 
+scope of liability under the Act”. JA 349. Ameritech 
+attempts to turn § 502(a)(3) into something it is not — a pro- 
+vision imposing substantive duties and liabilities. 
+
+
+14 
+
+
+This Court has recognized that the threshold issues of duty 
+and liability are separate and distinct from the nature of the 
+relief sought. As stated in Mertens: § 502(a)(3) “does not 
+... authorize ‘appropriate equitable relief’ at large, but only 
+‘appropriate equitable relief’ for the purpose of redress[ing 
+any] violations or ... enfor[cing] any provisions of ERISA or 
+an ERISA plan.” 508 U.S. at 253-55 & n.5 (questioning 
+whether any “remediable wrong has been alleged” since “no 
+provision explicitly requires [nonfiduciaries] to avoid par- 
+ticipation (knowing or unknowing) in a fiduciary’s breach of 
+fiduciary duty”) (emphasis added) (internal quotation marks 
+omitted); see also Central Bank, 511 U.S. at 175 (“While 
+plaintiffs had a remedy against nonfiduciaries at common 
+law, that was because ‘nonfiduciaries had a duty to the ben- 
+eficiaries not to assist in the fiduciary’s breach.’ No com- 
+parable duty [is] set forth in ERISA”) (emphasis added) 
+(quoting Mertens, 508 U.S. at 255 n.5); Point I.D, infra.’ 
+
+
+Ameritech argues that Congress did not restrict who may 
+be sued under § 502(a)(3). See PB 17. But the fact that 
+§ 502(a)(3) only identifies who may be a plaintiff does not 
+mean Congress intended that anyone — including nonvio- 
+lators — could be held liable as defendants. Rather, to deter- 
+mine who can be held liable one must consult the other 
+provisions of Title I (or the terms of a plan) imposing duties 
+and liabilities. 
+
+
+Ameritech also points to the use of the term “any” in 
+§ 502(a)(3) (“any act or practice which violates any provi- 
+sion of this title”). See PB 16-17. But “any” means only that 
+any violation of Title I or the terms of a plan can be the pred- 
+
+
+7 See also Lockheed v. Spink, 517 U.S. 882, 888-91 (1996) (since 
+defendant Lockheed did not act in a fiduciary capacity, “there can be no 
+violation of § 406(a)(1) to warrant relief” under § 502(a)(3)); Peacock v. 
+Thomas, 516 U.S. 349, 353 (1996) (claim against nonfiduciary who 
+allegedly siphoned assets from fiduciary, seeking to recover unpaid judg- 
+ment previously entered against such fiduciary for breach of fiduciary 
+duties, does not arise under § 502(a)(3)). 
+
+
+15 
+
+
+icate for suit. It does not mean that when a fiduciary violates 
+a provision of Title I (or the terms of a plan), relief may be 
+obtained against someone else — a nonviolator. 
+
+
+Ameritech’s reliance on Varity v. Howe, 516 U.S. 489 
+(1996), is misplaced. In Varity, the defendant was a fiduciary 
+sued for its own violation of § 404(a) (id. at 503, 506, 508); 
+Varity does not suggest that nonviolators can be sued under 
+§ 502(a)(3) to redress someone else’s violation. It is one 
+thing to view § 502(a)(3) as a “catchall” provision autho- 
+rizing suits against persons subject to express duties and lia- 
+bilities provided elsewhere in Title I. But it is quite a 
+different matter to assume that Congress would have set 
+forth express provisions for duties and liabilities with 
+painstaking detail throughout Title I, yet intended that 
+§ 502(a)(3) impliedly create other duties and liabilities on a 
+“catchall” basis. 
+
+
+The common-sense interpretation of § 502(a)(3) as autho- 
+rizing specified plaintiffs to seek “appropriate equitable 
+relief” against violators of provisions that appear elsewhere 
+in Title I does not render §§ 502(a)(3) and (a)(5) “superflu- 
+ous”. See PB 17 n.8. As Varity itself demonstrates, there are 
+suits against fiduciaries that can be brought under (a)(3) or 
+(a)(5), but not (a)(2). And nonfiduciaries may also be sued 
+under §§ 502(a)(3) and (a)(5) — if they commit an “act or 
+practice” that “violates” Title I or the terms of a plan.° 
+
+
+b. Section 502(a)(3) does not incorporate a body of 
+common law under which a nonfiduciary party-in-inter- 
+est could be liable as a nonvio!ator. Ameritech argues that 
+the phrase “appropriate equitable relief” incorporates into 
+ERISA principles of the common law of trusts. See PB 18, 
+
+
+8 The cases abound. For examples of actions against nonfiduciaries for 
+Title I violations not involving prohibited transactions, see, e.g., Nero 
+v. Industrial Molding Corp., 167 F.3d 921, 927, 931 (Sth Cir. 1999); 
+American Fed'n v. WCCO Television, Inc., 934 F.2d 987, 990 & n.3 (8th 
+Cir. 1991). The § 502(a)(3) cases the United States cites (USB 12 n.3) are 
+examples of actions for violation of the terms of a plan. 
+
+
+16 
+
+
+28-31. But just last Term, this Court unanimously admon- 
+ished that “because ERISA is a comprehensive and reticu- 
+lated statute and is enormously complex and detailed, it 
+should not be supplemented by extra-textual remedies, such 
+as the common-law doctrines advocated by respondents.” 
+Hughes Aircraft v. Jacobson, 525 U.S. at 447 (internal quo- 
+tation marks omitted). The Court continued: “Although trust 
+law may offer a ‘starting point’ for analysis in some situa- 
+tions, it must give way if it is inconsistent with ‘the language 
+of the statute, its structure, or its purposes.’” Jd. (quoting 
+Varity, 516 U.S. at 497). 
+
+
+The phrase “appropriate equitable relief’ — which limits 
+the type of relief available in suits brought under § 502(a)(3) 
+(see Mertens, 508 U.S. at 255-63) — does not purport to 
+import into ERISA duties and liabilities existing under the 
+common law of trusts, much less any supposed doctrine 
+imposing liability upon nonviolators for someone else’s vio- 
+lation. With respect to fiduciaries, Congress did not simply 
+sweep duties and liabilities under the common law of trusts 
+into ERISA through general language in § 502 identifying 
+available remedies. Rather, Congress specified what conduct 
+by fiduciaries would generate liability, including liability 
+arising from participation in another fiduciary’s breach. See, 
+e.g., §§ 404, 405, 406, 409. In a few cases, duties and pro- 
+hibitions in Title I are expressly extended beyond fiduciaries 
+(e.g., § 412). It would be wholly illogical (as well as unsup- 
+ported by the statute) to think that Congress intended to 
+sweep into ERISA — through language in § 502(a)(3) iden- 
+tifying equitable relief as an available remedy — whatever 
+other duties and liabilities of nonfiduciaries (or even fidu- 
+ciaries, for that matter) that may exist under the common law 
+for which equitable relief could serve as a remedy. Such a 
+reading would turn a limitation on relief into an expansion of 
+liability. 
+
+
+17 
+
+
+Thus, even if a duty and liability of nonfiduciary coun- 
+terparties hypothetically did exist under the common law of 
+trusts, there would be no justification for implying it into 
+ERISA. As stated in Mertens: “The authority of Courts to 
+develop a ‘federal common law’ under ERISA ... is not the 
+authority to revise the text of the statute.” 508 U.S. at 259.’ 
+
+
+In any event, the common law of trusts never recognized 
+the cause of action Ameritech advances. Ameritech fails to 
+distinguish the issue of (i) whether a liability exists under 
+applicable substantive principles from (ii) the “relief” if a 
+substantive liability exists. See, e.g., Dobbs, Law of Reme- 
+dies § 4.1(1) at 552 (2d ed. 1993). Cases and authorities con- 
+cerning available remedies where a substantive liability 
+exists do not address the question of whether a substantive 
+liability would exist under the common law of trusts here, 
+which it would not. 
+
+
+First, under the common law of trusts, if the trustee did 
+not commit a breach, a transferee of trust property had no 
+liability. See Restatement (Second) of Trusts § 283 (1959); IV 
+Scott & Fratcher, Law of Trusts § 283 (4th ed. 1989). A 
+trustee’s causing the trust to enter into a transaction with a 
+service provider to the trust was not a breach of duty under 
+the common law; a fortiori the service provider could have 
+no liability for entering into the transaction. Indeed, under 
+the common law, there was no blanket prohibition against 
+trustees causing trusts to deal with parties related even to 
+themselves. Rather, a trustee’s sale of trust property to a 
+party related to the trustee was not a breach unless the 
+trustee was improperly influenced by his relationship to the 
+
+
+* Cases such as Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101 
+(1989) did not import common law principles to establish duties, liabil- 
+ities and causes of action not expressed in ERISA. Firestone, for exam- 
+ple, involved a suit for benefits; the plan established substantive rights and 
+§ 502(a)(1)(B) provided an express cause of action. In Health Cost Con- 
+trols v. Washington, 187 F.3d 703 (7th Cir. 1999), cert. denied, 120 S. Ct. 
+979 (2000), substantive rights arose under the plan, and the suit was one 
+to redress violations of, or to enforce, the terms of the plan. 
+
+
+18 
+
+
+purchaser such that he sold the property on less favorable 
+terms, or “otherwise abused his discretion in making the 
+sale”. Restatement (Third) of Trusts (Prudent Investor Rule) 
+§ 170 cmt. e, at 196 (1990); see also, ILA Scott & Fratcher. 
+§ 170.6, at 334-35. The provisions of § 406 regulating a fidu- 
+ciary’s ability to transact with certain parties with relation- 
+ships to the plan, and the defined term “parties-in-interest”, 
+are entirely statutory creations. 
+
+
+Ameritech thus proposes a hybrid cause of action that 
+combines (i) substantially broader prohibitions under ERISA 
+against conduct by fiduciaries with (ii) supposed common- 
+law grounds upon which nonfiduciaries may be liable for 
+participation in transactions that do involve a fiduciary 
+breach under the common law. On Ameritech’s theory, a 
+cause of action exists against a nonfiduciary party-in-inter- 
+est even though ERISA does not expressly impose duties and 
+liabilities upon the nonfiduciary and the nonfiduciary would 
+have no duties and liabilities under the common law. 
+
+
+Second, the common law in any event never recognized 
+anything like the strict-liability cause of action that Ameritech 
+posits. Rather, only culpable participation in a violation of 
+duty was actionable. See, e.g., Mertens, 508 U.S. at 254, 
+261-62 (referencing “knowing participation” liability under 
+common law of trusts); IV Scott & Fratcher, § 326.1, at 293- 
+95 (seller of property to a trust can be held liable if he “has 
+actual knowledge that the trustee is committing a breach”). 
+Ameritech asserts that “restitution” is not “limited to wrong- 
+doers”. See PB 30. But again Ameritech confuses the sepa- 
+rate issues of (i) liability and (ii) “relief” if liability exists. 
+None of Ameritech’s authorities states that a third-party who 
+sells property to a trust can be held liable for a trustee’s 
+breach of trust absent culpable knowledge of the trustee’s 
+breach. Compare, e.g., V Scott & Fratcher, § 462.2 (recog- 
+nizing there must be an underlying substantive liability for 
+unjust enrichment, such as in cases of fraud, mistake or a 
+
+
+19 
+
+
+gratuitous transfer made in breach of trust) with IV Scott & 
+Fratcher, § 326.1, cited above.'® 
+
+
+As Ameritech acknowledges in a footnote, there is no 
+claim at common law against “bona fide” purchasers for 
+value, i.e., non-gratuitous transferees that did not know of 
+the trustee’s breach. See PB 30 n.15. Salomon gave value 
+here — even if one accepts arguendo the claim that the Fee 
+Agreements “proved to be nearly worthless” (PB 8). See 
+Restatement (Second) of Trusts § 298 (“If money is paid or 
+other property is transferred or services are rendered as 
+consideration for the transfer of trust property, the transfer is 
+for value”); id. cmt. i. And even if one hypothesizes that 
+Salomon “failed to make timely disclosure” (PB 8) to APT’s 
+fiduciaries, that would not constitute the requisite knowledge 
+by Salomon of a breach of a common-law trust duty by 
+APT’s fiduciaries. 
+
+
+Plainly there is no warrant for implying duties and liabil- 
+ities into ERISA’s “carefully crafted and detailed enforce- 
+ment scheme” (Mertens, 508 U.S. at 254) that (for multiple 
+reasons) do not exist even under the common law. 
+
+
+c. Ameritech waived any claim that Salomon can be 
+held liable even if Salomon did not violate § 406. 
+Ameritech’s nonviolator-liability claim is a creation of its 
+Supreme Court merits brief. It is not pled in Count II (the 
+only claim before this Court), was never presented to the 
+court of appeals and was not advanced — at least not explic- 
+itly and directly — in the petition for certiorari. 
+
+
+The district court correctly understood Count II to rest 
+upon allegations that Salomon had violated § 406(a) and was 
+
+
+10 The United States recognizes that Mertens, 508 U.S. at 255 n.5, con- 
+tradicts its assertion that “restitution from a transferee of trust property 
+was not based on the nonfiduciary’s own breach”. USB 23. And the 
+Strauss and Cahn cases involved knowing-participation in fiduciary 
+breach. See 63 F.2d 174, 175-78 (4th Cir. 1933); 62 A. 819, 821-22 (Md. 
+1906). Bogert & Bogert, § 901 deals with the trust beneficiary's “Right 
+that Third Party Shall Not Knowingly Participate in a Breach of Trust.” 
+
+
+20 
+
+
+being sued under § 502(a)(3) to remedy Salomon’s own vio- 
+lation. See, e.g., JA 305 (“whether Salomon is a proper defen- 
+dant” turns “on whether it violated ERISA”); JA 311, 320, 
+323. Count II makes no allegation that someone other than 
+Salomon violated § 406 and that, therefore, Salomon could 
+be liable even if it did not violate § 406. See JA 39-41. By 
+contrast, Count //] was premised upon violation of § 406 
+by someone else — NISA. See JA 42. However, Count III 
+was dismissed in the June 1996 order and was thereafter 
+waived when Ameritech did not contest on appeal the dis- 
+missal of Count III (or any other aspect of that order). See 
+Resp. Opp. 5-10. On Ameritech’s nonviolator-liability claim, 
+liability of the nonviolator (Salomon) is dependent upon 
+whether the fiduciary (NISA) violated § 406(a) and it is 
+assertedly not even necessary to show that Salomon engaged 
+in wrongdoing or had knowledge of NISA’s alleged viola- 
+tion. See PB 13, 15-18, 20, 28-31. This is at best a more 
+extreme variant of the previously dismissed Count III sec- 
+ondary-liability claim." 
+
+
+'! Thus, the distinction between direct Rule 10b-5 claims and depen- 
+dent secondary-liability claims (as to which Central Bank rejected a pri- 
+vate right of action) has turned on whether proof of a violation by another 
+is required: (1) “primary violators” could be sued for their own miscon- 
+duct irrespective of conduct of others, but (2) a dependent secondary 
+claim had required the existence of a “primary violation.” See, e.g., Cen- 
+tral Bank, 511 U.S. at 194 (“the existence of a primary violation” was an 
+element of the 10b-5 aiding-and-abetting claim recognized in the lower 
+courts); Loss & Seligman, Securities Regulation, Chap. 11c at 4479 (3d 
+ed. 1989) (same). 
+
+As noted, Ameritech now asserts that a defendant can be liable even if 
+it did not violate ERISA or engage in wrongdoing. By contrast, pre- 
+Mertens secondary-liability cases required proof that the nonfiduciary 
+party-in-interest knew that the fiduciary violated § 406. See p. 48, infra. 
+And proof that the defendant provided substantial assistance to the vio- 
+lator typically is an additional requirement for secondary liability. See, 
+e.g., Central Bank, 511 U.S. at 168 (“substantial assistance given to the 
+primary violator by the aider and abettor” was an element of the 10b-5 
+aiding-and-abetting claim that the Court rejected); Restatement (Second) 
+of Torts § 876(b) (1979). 
+
+
+21 
+
+
+Furthermore, in the court of appeals, Ameritech expressly 
+relied on the claim that Salomon was liable as a violator, stat- 
+ing that “Salomon’s argument that there is no private right of 
+action under [§ 502(a)(3)] to redress party in interest viola- 
+tions of § [406] depends entirely on the meaning of § [406(a)].” 
+Brief of Appellees at 18 (emphasis added); see id. at 14 
+(“thrust” of Count II is “that Salomon, a party-in-interest ... 
+violated ... § 406(a)....”), 15, 17, 20, 22, 28, 29, 33, 35, 37 
+(“‘Salomon’s liability is premised on a direct violation of 
+§[ 406]’”), 39. And, as noted, the court of appeals understood 
+Ameritech’s claim to turn on whether “Salomon violated 
+[ERISA] by engaging in a transaction prohibited by § [406]”. 
+JA 347 (emphasis added); see also JA 348 (“The ‘act’ alleged 
+here is Salomon’s participation in a transaction prohibited by 
+§ [406]”) (emphasis added). 
+
+
+Salomon’s opposition to certiorari explicitly objected that 
+Ameritech had waived its secondary-liability claim. See Resp. 
+Opp. pp. 5-10. On reply, Ameritech did not dispute its waiver, 
+but argued that this was no reason to deny certiorari, stating 
+in effect that there was no serious secondary-liability argu- 
+ment to be made. See Pet. Reply 2-3, 6 n.5. Ameritech in a 
+footnote suggested that the “question presented” was general 
+enough to “fairly include[ ]” a secondary-liability theory. Jd. 
+at 3 n.2. But Ameritech cannot use its formulation of the 
+“question presented” to this Court to relieve itself of its prior 
+waiver in the court of appeals where it (i) failed to contest the 
+dismissal of Count III, its secondary-liability count, and (ii) 
+relied solely on a claim that Salomon violated § 406(a). More- 
+over, the formulation of a question presented must be read in 
+conjunction with what the underlying claim is; here, a claim 
+that Salomon was liable as a violator. 
+
+
+The Court should deem Ameritech’s nonviolator-liability 
+claim waived and decline to consider it. See cases cited in 
+Resp. Opp. p. 7; see also, e.g., Pennsylvania Dep't of Cor- 
+rections v. Yeskey, 524 U.S. 206, 212-13 (1998). A finding of 
+waiver is especially appropriate in light of the far-reaching 
+
+
+22 
+
+
+implications of Ameritech’s nonviolator-liability theory. See 
+South Cent. Bell Tel. Co. v. Alabama, 526 U.S, 160, 170-71 
+(1999). 
+
+
+3. Ameritech’s arguments based on statutory 
+context lack merit. 
+
+
+None of the other statutory provisions Ameritech relies 
+upon (PB 22-27) are Title I provisions that impose a duty 
+upon nonfiduciary parties-in-interest, breach of which could 
+constitute a violation of Title I and give rise to civil liability. 
+
+
+Section 408. That § 408 authorizes exemptions for “any 
+fiduciary or transaction, or class of fiduciaries or transac- 
+tions” does not indicate that it is the transaction that is pro- 
+hibited. Rather, § 408 indicates that Congress chose to permit 
+the Secretary of Labor to exempt either particular fiduciaries 
+or particular transactions (regardless of what fiduciaries are 
+involved). Other clauses in § 408(a) and § 408(c) likewise 
+refer only to fiduciaries: “[a]n exemption ... shall not relieve 
+a fiduciary ...”: “[nJothing in section 406 ... shall be con- 
+strued to prohibit any fiduciary...” (emphasis added). That 
+these clauses of § 408 refer only to fiduciaries underscores 
+
+
+that § 406 prohibits conduct only by fiduciaries. 
+
+
+Section 502(i). Section 502(i) provides for administrative 
+assessment of penalties by the Secretary of Labor in the case 
+of a prohibited transaction “by a party in interest” —a 
+penalty of up to 100% may apply if the transaction is not 
+“corrected”. A separate provision, § 502(a)(6), provides 
+express authority for suit to collect the penalty. Section 
+502(i) does not provide for duties or liabilities enforceable in 
+a civil cause of action. In any event, § 502(i) does not apply 
+to tax-qualified plans such as the plans involved here (see PB 
+35) and thus cannot conceivably create any duty here. But 
+what §§ 502(a)(6) and 502(i) do demonstrate is that Congress 
+knew how to create an express remedy that would extend to 
+nonfiduciary parties-in-interest when it wanted to do so. 
+
+
+23 
+
+
+Section 502(1). Section 502(1) was added in 1989, 15 years 
+after enactment of ERISA, to provide additional civil penal- 
+ties on violations by fiduciaries. Neither § 502(1) nor the “legis- 
+lative history” surrounding it (even if accurately depicted) 
+can have any bearing on what Congress provided 15 years 
+earlier in § 406. See, e.g., South Dakota v. Yankton Sioux 
+Tribe, 522 U.S. 329, 355 (1998). In any event, this Court has 
+specifically rejected similar reliance by a private litigant 
+upon § 502(1). See Mertens, 508 U.S. at 259-61. Since 
+§ 502(1)(1)(B) would permit assessment of civil penalties 
+upon co-fiduciaries who are liable under § 405(a) for know- 
+ing participation in another fiduciary’s breach, one does not 
+need to adopt the position that a cause of action exists against 
+nonfiduciaries in order to give meaning to § 502(1)(1)(B). Jd. 
+at 260-61. In fact, the distinction between the liability of a 
+fiduciary “who breaches” (§ 409(a)) and a co-fiduciary who 
+is liable under § 405(a) because it “participates knowingly 
+in” the breach, is echoed in the distinction in § 502(1)(1) 
+between “breach of fiduciary responsibility” and “knowing 
+participation in” the breach. And § 502(1)(4) could apply if 
+Fiduciary X violated § 406(a) by causing a plan to enter into 
+a nonexempt transaction with Fiduciary Y, who knowingly 
+participated in Fiduciary X’s breach. If Fiduciary Y paid a 
+§ 502(i) penalty or § 4975 tax, § 502(1)(4) would provide an 
+offset against its § 502(1)(1)(B) penalty. 
+
+
+IRC § 4975 (ERISA Title II, § 2003). Under § 4975, the 
+IRS may impose excise taxes on certain parties-in-interest 
+(including certain nonfiduciaries) who participate in non- 
+exempt prohibited transactions with tax-qualified plans — a 
+100% tax applies if the transaction is not “corrected”. But 
+IRC § 4975 (ERISA § 2003) is part of Title I] (not Title I) of 
+ERISA. See table of contents of P.L. 93-406, 3 Legislative 
+History of ERISA (“Leg. Hist.”) 4836-38. Thus, “violations” 
+of § 4975 cannot be the predicate for a civil action under 
+§ 502(a)(3), which is limited to violations of Title I. 
+
+
+24 
+
+
+C.I.R. v. Keystone Consol. Indus., 508 U.S. 152, 160 
+(1993), a tax decision under IRC § 4975, does not discuss 
+which parties have duties under § 406 that may give rise to 
+civil liability. That “Congress’ goal [in § 406] was to bar cat- 
+egorically a transaction that was likely to injure the pension 
+plan” (id. at 160) says nothing about whose conduct is pro- 
+hibited by § 406 or which parties may violate a Title I pro- 
+vision and be subject to civil liability. 
+
+
+Section 4975(h) merely provides for administrative coor- 
+dination between the Secretaries of Labor and Treasury, 
+giving Labor an “opportunity to obtain a correction ... or to 
+comment on the imposition of [the] tax”. Ameritech’s 
+-§ 4975(h) argument ignores the “or to comment” clause 
+and assumes, inter alia, that the only means by which the 
+Secretary of Labor could ever seek a correction of any 
+transaction would be by civil suit against a nonfiduciary 
+party-in-interest. In some cases, including cases in which the 
+counterparty is another fiduciary, Labor might seek correc- 
+tion by proceeding only against fiduciaries. Other prohibited 
+transactions may not involve receipt of plan assets by a non- 
+fiduciary at all (e.g., §§ 4975(c)(1)(E) and (F)). And even as 
+to nonfiduciaries, Labor could seek correction administra- 
+tively through use of the threat of IRS assessment of excise 
+taxes or at least “comment”. That § 4975(h)’s reference to 
+“opportunity to obtain a correction” does not have the sig- 
+nificance Ameritech ascribes to it is underscored by the fact 
+that the parallel provision in ERISA § 3003(a) provides only 
+that “in accordance with [§ 4975(h)]” Treasury shall “afford 
+the Secretary [of Labor] an opportunity to comment.” 
+
+
+Section 3003 (ERISA Title ITI). Section 3003(c) does not 
+attempt to define who can violate § 406; the text of § 406 does 
+that. Rather, § 3003(c) appears in ERISA Title III and con- 
+cerns transmission of information by the Secretary of Labor 
+to the Secretary of the Treasury. Since the reports go to 
+Treasury, it is not surprising that § 3003(c) uses the terms 
+“party-in-interest or disqualified person” — persons who (in 
+
+
+25 
+
+
+appropriate cases) may be subject to the excise tax adminis- 
+tered by Treasury. But § 3003(c) qualifies those terms with the 
+phrase “is violating section 406”. In the universe of parties- 
+in-interest and disqualified persons, there are some who can 
+violate §406 — namely, fiduciaries who cause a plan to 
+engage in a prohibited transaction (all fiduciaries are by 
+definition parties-in-interest and disqualified persons, see 
+§ 3(14)(A); IRC § 4975(e)(2)(A)). Section 3003(c) requires Labor 
+to report these violators. Indeed, a fiduciary who deals with plan 
+assets for his own account in violation of § 406(b)(1) must be 
+reported as a “party-in-interest or disqualified person [who] is 
+violating section 406” even if no nonfiduciary is involved. 
+
+
+4. ERISA’s explicit provisions for liabilities and 
+sanctions underscore the absence of the 
+posited cause of action. 
+
+
+Congress’s choice to impose (i) civil liability on breach- 
+ing fiduciaries (§ 409(a)) and on participating fiduciaries 
+(§ 405(a)), and (ii) excise taxes under § 4975 or penalties 
+under § 502(i) against certain parties-in-interest, “only makes 
+the absence of a specific provision imposing civil liability on 
+parties in interest all the more striking.” JA 350. 
+
+
+This Court has held that where a statutory scheme 
+expressly provides alternative methods of addressing 
+allegedly prohibited conduct, “it cannot be assumed that 
+Congress intended to authorize by implication additional 
+judicial remedies for private citizens suing under the 
+statute.” Meghrig v. KFC Western, 516 U.S. 479, 488 (1996) 
+(internal quotation marks omitted). Rather, “‘[i]t is an ele- 
+mental canon of statutory construction that where a statute 
+expressly provides a particular remedy or remedies, a court 
+must be chary of reading others into it.’” Jd.; accord, e.g., 
+Karahalios v. Nat’! Fed’n of Fed. Employees, 489 U.S. 527, 
+533 (1989); Russell, 473 U.S. at 147; Northwest Airlines, 
+Inc. v. Transport Workers Union, 451 U.S. 77, 93-94, 97 
+(1981) (“The presumption that a remedy was deliberately 
+
+
+26 
+
+
+omitted from a statute is strongest when Congress has 
+enacted a comprehensive legislative scheme including an 
+integrated system of procedures for enforcement.”). 
+
+
+The United States argues that the “primary focus” of the 
+excise-tax and penalty provisions is “obtaining restitution to 
+a plan from a nonfiduciary party in interest”, and that obtain- 
+ing such redress “takes priority over assessing against the 
+party in interest a civil penalty or tax.” USB 20-21. But if the 
+posited causes of actions existed, a plan fiduciary (or the 
+Secretary under § 502(a)(5)) could sue to compel restitution. 
+The excise-tax and penalty provisions would then be unnec- 
+essary as a means of forcing restitution. The United States’ 
+position requires one to assume that Congress intended that 
+the posited causes of actions be available (but neglected to 
+Say so expressly), yet did articulate expressly and in detail 
+excise-tax and penalty provisions whose “primary focus” — 
+obtaining restitution to the plan — would be redundant of 
+the causes of actions this Court is asked to infer. 
+
+
+B. The legislative history confirms what the statu- 
+tory text reflects: Congress made a deliberate 
+choice not to provide the posited cause of action. 
+
+
+1. Congress designed the prohibited-transaction rules 
+to regulate fiduciary conduct. From the outset in the 93rd 
+Congress, the original pension-reform bills included pro- 
+hibited-transaction provisions to complement ERISA’s affir- 
+mative fiduciary duties and establish “a twofold duty on 
+every fiduciary”. See, e.g., H.R. Rep. No. 93-533, at 13 
+(1973), 2 Leg. Hist. 2360; S. Rep. 93-127, at 30 (1973), 
+1 Leg. Hist. 616. The Department of Labor’s explanatory 
+statement to its proposed pension-reform bill described the 
+prohibited-transaction rules as being part of: 
+
+
+a twofold duty on every fiduciary: to act in his rela- 
+tionship to the plan’s fund as a prudent man in a similar 
+situation ... and to act solely in the interest of the par- 
+ticipants and beneficiaries of the plan; that is, to refrain 
+
+
+— 
+
+
+27 
+
+
+from involving himself in situations or transactions 
+(especially transactions with known parties in interest) 
+where his personal interests might conflict with the 
+interests of the participants and beneficiaries.... Thus, 
+section 14(b)(1) sets out the prudent man standard and 
+the attendant affirmative duties.... There follows a list 
+of proscriptions (section 14(b)(2)) which represent the 
+most serious types of fiduciary misconduct.... (119 
+Cong. Rec. 12,076 (1973), 1 Leg. Hist. 275-76.) '° 
+
+
+2. Congress rejected the Senate’s proposals to impose 
+civil liability upon parties-in-interest and authorize suits 
+against persons who receive plan assets in violation of 
+ERISA. The Senate Finance Committee decided to propose 
+that parties-in-interest be subject to civil liability for engag- 
+ing in prohibited transactions. To that end, the Finance 
+Committee crafted an express provision for party-in-interest 
+liability. It provided that “[a]ny party in interest who par- 
+ticipates in a [prohibited] transaction ... knowingly, or with 
+reason to know that the transaction was [prohibited], shall be 
+personally liable” for damages (“to make good to the fund 
+any losses”) and for disgorgement (“to pay to the fund any 
+profits realized by him from such transaction”). JA 274-75. 
+
+
+Ultimately, in 1974, the House and Senate passed com- 
+peting bills numbered H.R. 2. The House bill limited liability 
+for engaging in prohibited transactions to fiduciaries. See 
+JA 277-81. By contrast, the Senate bill included the provi- 
+sion to impose civil liability for damages and disgorgement 
+on parties-in-interest. See JA 275, 281. The two bills also 
+differed in their enforcement provisions. Unlike the House 
+provision, the Senate enforcement provision authorized civil 
+
+
+13 Other references to the precursors of § 406 likewise speak only of 
+prohibiting fiduciaries — as opposed to parties-in-interest — from engag- 
+ing in specified transactions. See, e.g., H.R. Rep. No. 93-1280, at 294 
+(1974), 3 Leg. Hist. 4561; H.R. Rep. No. 93-533, at 21 (1973), 2 Leg. 
+Hist. 2368; 120 Cong. Rec. 3980 (1974), 2 Leg. Hist. 3300; 119 Cong. 
+Rec. 30,009 (1973), 1 Leg. Hist. 1614 (Remarks of Sen. Ribicoff); Sum- 
+mary of Major Provisions of S. 4, 1 Leg. Hist. 200. 
+
+
+28 
+
+
+actions against “any person who has transferred or received 
+any of the assets of a plan”. Compare JA 280-81 with 
+JA 275-76 (emphasis added). Thus, the relief that Ameritech 
+seeks here is what hypothetically might have been available 
+to it under the Senate bill. Additionally, the Senate bill 
+imposed a two-tier excise tax on disqualified persons 
+(defined similarly to parties-in-interest) that engage in pro- 
+hibited transactions. The House bill did not contain an 
+excise-tax provision. See, e.g., 3 Leg. Hist. 4267. 
+
+
+The Conference Committee reported out a Conference 
+substitute of H.R. 2 that Congress enacted as ERISA. Regard- 
+ing party-in-interest liability, the Conference Committee 
+staff recommended that the conferees “adopt the approach of 
+the House bill and not provide civil liability for parties-in- 
+interest”. JA 281-82, 3 Leg. Hist. 5259 (emphasis added). 
+Following this recommendation, the conferees dropped the 
+Senate’s party-in-interest liability provision. See P.L. 93-406, 
+Title I, Part 4, 3 Leg. Hist. 4881-97. The Conference sub- 
+stitute enforcement provisions (including what became 
+§§ 502(a)(3) and (a)(5)) also generally conformed to the 
+form and substance of the provisions in the House bill, as 
+discussed below. Specifically, the Conferees did not adopt 
+the Senate’s very different proposal to permit civil actions 
+against “any person who has ... received ... assets of a plan”. 
+See pp. 31-32, infra. However, as part of overall compro- 
+mises, the Conferees did accept the Senate’s provisions for 
+excise taxes and also added a provision for penalties appli- 
+cable to certain parties-in-interest. See P.L. 93-406, §§ 502(i), 
+2003, 3 Leg. Hist. 4899-4900, 4978-86. 
+
+
+The Conference Report contrasts the Conference substitute 
+with the Senate bill. Under the Senate bill, “[fliduciaries 
+(and parties-in-interest) [would] be personally liable under 
+the labor provisions”. H.R. Rep. No. 93-1280 (“Conf. Rep.”), 
+at 295 (1974), 3 Leg. Hist. 4562 (emphasis added). But under 
+the Conference substitute, only fiduciaries would be subject 
+to civil liability under Title I: 
+
+
+—_—_——_— = =" ae 
+
+
+29 
+
+
+Fiduciary responsibility rules, in general 
+
+
+The conference substitute establishes rules governing 
+the conduct of plan fiduciaries under the labor laws 
+(title 1) and also establishes rules governing the conduct 
+of disqualified persons (who are generally the same 
+people as “parties in interest” under the labor provi- 
+sions) with respect to the plan under the tax laws (title 
+11). This division corresponds to the basic difference in 
+focus of the two departments. The labor law provisions 
+apply rules and remedies similar to those under tradi- 
+tional trust law to govern the conduct of fiduciaries. The 
+tax law provisions apply an excise tax on disqualified 
+persons who violate the new prohibited transaction rules 
+
+
+Civil liability 
+
+Fiduciaries. — Under the labor provisions (but not 
+the tax provisions) of the substitute, a fiduciary who 
+breaches the fiduciary requirements of the bill is to be 
+personally liable for any losses to the plan resulting 
+from this breach.... 
+
+
+Party-in-interest. — A party-in-interest who engages 
+in a prohibited transaction with respect to a plan that is 
+not qualified ... under the Internal Revenue Code may 
+be subject to a civil penalty of up to 5 percent of the 
+amount involved in the transaction. If the transaction is 
+not corrected after notice from the Secretary of Labor, 
+the penalty may be up to 100 percent of the transaction. 
+
+
+Conf. Rep. at 295, 320, 3 Leg. Hist. 4562, 4587; see also id. 
+at 307, 3 Leg. Hist. 4574 (“Under the labor provisions a fidu- 
+ciary will be liable for losses to a plan from a prohibited 
+transaction in which he engaged....”); id. at 327, 3 Leg. Hist. 
+4594 (“Under the conference agreement, civil actions may be 
+brought ... for relief from breach of fiduciary responsibility”). 
+
+
+30 
+
+
+When the Senate Conferees explained the Conference sub- 
+stitute to their colleagues, their explanations yet again under- 
+scored the Conferees’ decision to subject nonfiduciary 
+parties-in-interest to potential excise taxes or penalties only. 
+Thus, Senator Williams told the Senate that: 
+
+
+Under the conference substitute, enforcement of the 
+fiduciary provisions would primarily lie with the Sec- 
+retary of Labor who would be empowered to bring civil 
+actions to redress or restrain violations on the part of 
+fiduciaries. He is also authorized to impose civil penal- 
+ties On parties in interest who participate in prohibited 
+transactions with welfare plans which are not subject to 
+the tax qualification provisions of the Internal Revenue 
+Code. However, the Internal Revenue Service would 
+have responsibility for dealing with those who are “dis- 
+qualified persons” — similar to the parties in interest 
+defined in the labor portion of the conference substitute 
+— with authority to impose excise taxes on violators. 
+
+
+120 Cong. Rec. 29,933 (1974), 3 Leg. Hist. 4745 (emphasis 
+added); see also id. at 29,954, 3 Leg. Hist. 4803 (Remarks of 
+Sen. Nelson). 
+
+
+3. Ameritech’s legislative-history arguments lack 
+merit. Ameritech takes out of context the Conference 
+Report statement that “the conference substitute prohibits 
+plan fiduciaries and parties-in-interest from engaging in a 
+number of specific transactions”. See PB 39-40. The state- 
+ment appears in section “V” of the Conference Report, which 
+(as the section heading makes clear) discusses both ERISA 
+Title I provisions and Title II tax provisions. See Conf. Rep. 
+at 294, 3 Leg. Hist. 4561. And the paragraph from which 
+Ameritech excerpts goes on to say: 
+
+
+Under the labor provisions (title I), the fiduciary is the 
+main focus of the prohibited transaction rules. This cor- 
+responds to the traditional focus of trust law and of civil 
+enforcement of fiduciary responsibilities through the 
+
+
+31 
+
+
+courts. On the other hand, the tax provisions (title II) 
+focus on the disqualified person.... (Conf. Rep. at 306, 
+3 Leg. Hist. 4573, emphasis added). 
+
+
+Taken in context, then, the statement that the Conference 
+substitute “prohibits” parties-in-interest from engaging in 
+prohibited transactions at most suggests that IRC § 4975 (in 
+Title Il) — as distinct from § 406 (in Title I) — imposes a 
+“prohibition” on nonfiduciary parties-in-interest. But that 
+proposition cannot advance Ameritech’s case because 
+§ 502(a)(3) is limited to violations of Title I of ERISA. 
+
+
+In fact, the legislative history repeatedly evidences 
+Congress’s intent to prohibit only fiduciary conduct in § 406, 
+as the statute states. Thus, the Conference Report explains: 
+“The labor provisions ... provide general standards of con- 
+duct for fiduciaries, and make certain specific transactions 
+‘prohibited transactions’ which plan fiduciaries are not to 
+engage in.” Conf. Rep. at 295, 3 Leg. Hist. 4562 (emphasis 
+added). And in presenting the conference substitute to the 
+Senate, Senator Williams stated: “The bill prohibits fidu- 
+ciaries from engaging in transactions involving the transfer 
+of assets between the plan and parties in interest....” 120 
+Cong. Rec. 29,933 (1974), 3 Leg. Hist. 4743 (emphasis 
+added); accord, e.g., 120 Cong. Rec. 29,954 (1974), 3 Leg. 
+Hist. 4803 (Remarks of Sen. Nelson); see also pp. 26-27 & 
+n.13, supra. 
+
+
+Ameritech argues that “§ 502(a)(3) and (a)(5) originated in 
+the Senate bill[ ]” and that the “other appropriate equitable 
+relief” clause supposedly reflected a decision by the Con- 
+ferees “to insert language from the Senate bill”. PB 41. 
+These assertions are not supported by what Ameritech cites 
+and are wrong. In reality, §§ 502(a)(3) and (a)(5) as enacted 
+were based on the House bill. Compare House Dill 
+§ 503(e)(3), JA 280-81, 3 Leg. Hist. 4047 with Senate bill 
+§§ 692, 693, JA 275-76, 3 Leg. Hist. 3815-17. The sentence 
+on page 327 of the Conference Report, which immediately 
+
+
+32 
+
+
+precedes the sentence Ameritech quotes from twice (PB 41, 
+43), expressly states: “The conference agreement generally 
+conforms to the provisions as passed by the House.” Conf. 
+Rep. at 327, 3 Leg. Hist. 4594 (emphasis added)."* 
+
+
+The phrase “other appropriate equitable relief’, added by 
+the conferees in a new clause (B) in § 502(a)(3), remained 
+tied to the phrase “act or practice which violates any provi- 
+sion of this title” in clause (A) — the precise language used 
+in the House bill. Compare § 503(e)(3), JA 280-81, 3 Leg. 
+Hist. 4047, with § 502(a)(3), JA 254. By contrast, the Senate 
+proposal for civil actions against “any person who has ... 
+received ... assets of a plan” (JA 275-76) was not enacted. It 
+makes no sense to think that, by adding the phrase “other 
+appropriate equitable relief’, Congress intended to subject to 
+civil liability a party who did not violate a Title I provision 
+or the terms of a plan — much less to import into ERISA 
+through the back door rejected Senate provisions imposing 
+civil liability, for damages and disgorgement, upon parties- 
+in-interest”.'* 
+
+
+Obviously Congress did not “inadvertent[ly] omi[t]” civil 
+liability for parties-in-interest, or “simply forg[e]t” to pro- 
+vide it. See Russell, 473 U.S. at 146. “Few principles of 
+statutory construction are more compelling than the propo- 
+sition that Congress does not intend sub silentio to enact 
+statutory language that it has earlier discarded....” J.N.S. v. 
+Cardoza-Fonseca, 480 U.S. 421, 442-43 (1987). 
+
+
+'* This sentence concerned what became § 502(a)(5). The language of 
+§ 502(a)(3) parallels that of § 502(a)(5). 
+
+
+'S A 1973 Senate Report reference to constructive trusts as a potential 
+remedy (see PB 18 n.9, 29; USB 22) obviously cannot suggest that in 
+1974 the Conferees intended to make constructive trust available as a rem- 
+edy against nonfiduciary parties-in-interest, whom the Conferees had 
+determined would not have civil liability. 
+
+
+—— —— — 
+
+
+33 
+
+
+C. Inferring the posited cause of action would 
+interfere with Congress’s policy choices and 
+raise separation-of-powers concerns. 
+
+
+In this Court, Ameritech seeks to undo the legislative com- 
+promise to subject nonfiduciary parties-in-interest to excise 
+taxes and penalties (in appropriate cases), but not civil lia- 
+bility. But this Court has been clear that it will “respect the 
+‘policy choices reflected in the inclusion of certain remedies 
+and the exclusion of others’” in ERISA. Varity v. Howe, 516 
+U.S. at 515 (quoting Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 
+41, 54 (1987)). Thus, “[t}he federal judiciary will not engraft 
+a remedy on a statute, no matter how salutary, that Congress 
+did not intend to provide.” Russell, 473 U.S. at 145 (1985) 
+(internal quotes omitted). This approach recognizes that “the 
+authority to construe a statute is fundamentally different 
+from the authority to fashion a ... remedy which Congress 
+has decided not to adopt.... The judiciary may not, in the face 
+of such comprehensive legislative schemes, fashion ... reme- 
+dies that might upset carefully considered legislative pro- 
+grams.” Northwest Airlines, 451 U.S. at 97. 
+
+
+The posited cause of action is so at odds with the statutory 
+text and history of ERISA’s comprehensive enforcement 
+scheme that upholding it would not only depart from settled 
+principles of statutory construction, but would also raise sep- 
+aration-of-powers concerns. See id. at 94, 95 (“the federal 
+lawmaking power is vested in the legislative, not judicial, 
+branch of government”); see also Public Citizen v. United 
+States, 491 U.S. 440, 470 (1989) (Kennedy, J., concurring) 
+(discussing the “unhealthy process of amending the statute 
+by judicial interpretation”). Whatever one’s views on the 
+proper objectives and methods of statutory interpretation in 
+light of separation-of-powers concerns, surely no one would 
+dispute that there is something terribly wrong with the notion 
+that the legislative branch can decide to “not provide civil 
+liability for parties in interest” in ERISA (JA 281-82), only 
+
+
+34 
+
+
+to have the judicial branch “interpret” ERISA as providing 
+that civil liability. 
+
+
+D. This Court’s ERISA decisions support rejection 
+of the posited cause of action. 
+
+
+This Court has declined to infer causes of action under 
+ERISA. In Massachusetts Mut. v. Russell, 473 U.S. 134 (1985), 
+the Court held that a plan-participant could not recover 
+extracontractual damages under §§ 409 and 502(a)(2) for a 
+fiduciary’s delay in the payment of benefits, reasoning that 
+it could not find “express authority” for the posited cause of 
+action in the text of § 409. 473 U.S. at 144; see also id. 
+(“[nJothing ... expressly provides for” such recovery). Hav- 
+ing decided that “neither the statute nor the legislative his- 
+tory reveals a congressional intent to create a private right of 
+action”, the Court held that the inquiry goes no further. See 
+id. at 148. The Court stated that it was “reluctant to tamper 
+with an enforcement scheme crafted with such evident care 
+as the one in ERISA”. /d. at 147. 
+
+
+Mertens reiterates Russell’s approach to construction 
+of ERISA’s enforcement provisions. Mertens held that 
+§ 502(a)(3) does not authorize compensatory damages, but 
+instead permits only “equitable relief”. See 508 U.S. at 251, 
+255-63. In dictum, the Court expressed pointed doubt about 
+the threshold issue: whether a nonfiduciary’s participation 
+(“knowing or unknowing”) in a fiduciary’s breach violates 
+ERISA, and thus whether ERISA “affirmatively authorizes” 
+a cause of action against such a nonfiduciary — reempha- 
+sizing this Court’s “unwillingness to infer causes of action 
+in the ERISA context”. 508 U.S. at 253-55 & n.5. One year 
+later, this Court reiterated that the “omission of knowing par- 
+ticipation liability in ERISA ‘appears ... deliberate’” and 
+observed that Mertens “rejected” the argument that a “know- 
+ing participation cause of action ... should be available 
+under ERISA”. Central Bank, 511 U.S. at 175, 184. 
+
+
+—— cc 
+
+
+—_— ————_uueee GS ee 
+
+
+NN 5 Ae => 
+
+
+35 
+
+
+Further, Mertens expressly sets forth that: (i) ERISA is “a 
+‘comprehensive and reticulated statute,’ the product of a 
+decade of congressional study” (id. at 251); (ii) provisions of 
+Title I that assign duties to fiduciaries, and that make fidu- 
+ciaries liable for breach of those duties, by their terms apply 
+only to fiduciaries — there are no equivalent provisions 
+directed to nonfiduciaries (id. at 251-53); and (iii) § 502(a)(3) 
+— one of “ERISA’s ‘six carefully integrated civil enforce- 
+ment provisions’” (id. at 252) — should not be read to apply 
+to nonfiduciaries in the absence of “explicit[ ]” provisions in 
+Title I imposing duties and liabilities on such nonfiduciaries. 
+Id. at 253-55 & n.5. 
+
+
+The Seventh Circuit read in proper context dicta in 
+Mertens on which Ameritech relies. See JA 350-51. Mertens 
+states: 
+
+
+Professional service providers ... must disgorge assets 
+and profits obtained through participation as parties-in- 
+interest in transactions prohibited by § 406, and pay 
+related civil penalties, see § 502(i), 29 U.S.C. § 1132(i), 
+or excise taxes, see 26 U.S.C. § 4975; and (assuming 
+nonfiduciaries can be sued under § 502(a)(3)) may be 
+enjoined from participating in a fiduciary’s breaches, 
+compelled to make restitution, and subjected to other 
+equitable decrees. (508 U.S. at 262.) 
+
+
+The “disgorge assets and profits” clause does not refer to 
+civil liability. Rather, it refers to the “correction” of a pro- 
+hibited transaction required to avert a 100% penalty (under 
+§ 502(i)) or excise tax (under § 4975(b)).'® And the “related 
+civil penalties” or “excise taxes” refers to the 5% penalty 
+(under § 502(i)) or the excise tax (under § 4975(a)) to which 
+the party-in-interest could still be subject even after cor- 
+recting. In other words, the Secretary of Labor or IRS can 
+seek to force certain parties-in-interest to correct prohibited 
+
+
+'© A definition of “correction” appears in the agency regulations. 
+See 26 C.F.R. § 53.4941(e)-1(c); 26 C.F.R. § 141.4975-13; 29 C.F.R. 
+§ 2560.502i-1(c). 
+
+
+36 
+
+
+transactions “at peril of a ... penalty”. JA 351. That the ensu- 
+ing clause discusses the assumption that “nonfiduciaries can 
+be sued under § 502(a)(3)” — for injunctive relief, restitution, 
+and other equitable decrees — underscores that the preced- 
+ing “disgorge assets and profits” clause does not refer to 
+civil liability under § 502(a)(3). And the parenthetical phrase 
+— “assuming nonfiduciaries can be sued under § 502(a)(3)” 
+— was Stating an assumption concerning the potentiality of 
+a cause of action against nonfiduciaries for participation in 
+a fiduciary’s breach — an assumption that a majority of the 
+Court previously had made clear it was unwilling to make. 
+See JA 351; 508 U.S. at 253-55 & n.5. 
+
+
+Mertens’ further statement that “ERISA contains various 
+provisions that can be read as imposing obligations upon 
+nonfiduciaries” (508 U.S. at 253-54 & n.4) does not address 
+the issue here: whether a nonfiduciary party-in-interest who 
+enters into a prohibited transaction violates § 406(a) and may 
+be held liable in a private suit. Even if ERISA “can be read” 
+— in light of § 502(i) and IRC § 4975 — “as imposing obli- 
+gations upon nonfiduciaries”, that does not mean that 
+§ 406(a) imposes any such obligation or that ERISA “affir- 
+matively authorizes” (id. at 253-55 & n.5) civil actions to 
+impose civil liabilities upon nonfiduciaries — as distinct 
+from the authorizations in §§ 502(a)(6) and (i) and § 4975 for 
+penalties, suits to collect such penalties, or excise taxes. 
+
+
+Thereafter, this Court observed in Spink that: (i) these 
+statements in Mertens “were in any event dicta”; and (ii) 
+even “[i)nsofar as [these statements] apply to § 406(a)” — 
+which “was not at issue” in Mertens — these statements 
+“suggest liability for parties in interest only when a violation 
+of § 406(a) has been established — which ... requires a 
+showing that a fiduciary caused the plan to engage in the 
+transaction in question”. 517 U.S. at 889 n.3 (emphasis 
+added). 
+
+
+37 
+
+
+In sum, Mertens makes clear that “where ERISA does not 
+expressly impose a duty, there can be no cause of action”. 
+JA 348-49. The Seventh Circuit correctly applied that prin- 
+ciple in declining to infer a cause of action here, since, “by 
+its plain terms”, § 406 does not regulate nonfiduciary con- 
+duct, and “imposes no explicit duty on parties in interest”. 
+JA 348; see also JA 353-54. The principles set forth in 
+Mertens, and reiterated in Centrai Bank, also make it clear 
+that § 502(a)(3) does not permit suit against persons who 
+have not themselves violated an ERISA duty on a theory that 
+such nonviolators participated in someone else’s violation. 
+
+
+In Spink as well, this Court declined to read into ERISA 
+duties not expressly provided. The Ninth Circuit held the 
+defendant-employer-plan-sponsor liable as a party-in-inter- 
+est that benefited from a § 406 prohibited transaction. This 
+Court reversed, ruling that the Ninth Circuit “erred by not 
+asking whether fiduciary status existed in this case” on the 
+part of the defendant “before it found a violation of 
+§ 406(a)(1)(D)”. 517 U.S. at 889. Spink concludes that a pre- 
+requisite to any § 406 claim is a showing “that a fiduciary 
+caused the plan to engage in the allegedly unlawful trans- 
+action”: “Unless a plaintiff can make that showing, there can 
+be no violation of § 406(a)(1) to warrant relief under the 
+enforcement provisions”. Id. 888-89 (emphasis added). Spink 
+underscores that “the only transactions rendered impermis- 
+sible by § 406(a) are transactions caused by fiduciaries” and 
+that § 406 “prohibits fiduciaries...”, and “regulates the con- 
+duct of plan fiduciaries”. Jd. at 887-89 & n.3, 893. 
+
+
+Spink leaves open whether ERISA provides a cause of 
+action against nonfiduciary parties-in-interest who benefit 
+from a fiduciary’s violation of § 406(a). See id. 889 n.3. Nev- 
+ertheless, this Court’s approach to whether Lockheed and its 
+directors were liable is instructive. In Part III.A the Court 
+unanimously concluded that these defendants were not act- 
+ing as fiduciaries and so could not be liable under § 406(a), 
+even though Lockheed had allegedly received a benefit. The 
+
+
+38 
+
+
+Court did not address in Part III.A whether some other per- 
+son was a fiduciary who had caused the plan to enter into a 
+prohibited transaction, although there were other persons 
+who were alleged to be fiduciaries who violated § 406(a): 
+Lockheed’s Retirement Committee. Rather, the Court viewed 
+the nonfiduciary status of a defendant as ending the inquiry 
+as to that defendant.” 
+
+
+After Spink, Ameritech conceded that “fiduciary causation 
+is a prerequisite for nonfiduciary party-in-interest liability 
+under § 406” and that “[t]he presence of a party-in-interest 
+alone is not enough”. Sal. C.A. App. 478-79 (emphasis 
+added); see also PB 48. But Ameritech does not confront the 
+significance of this facet of Spink. In light of Spink, any lia- 
+bility of a nonfiduciary party-in-interest — were it to exist 
+— would be dependent upon the court first finding that a 
+fiduciary violated § 406. It is wholly illogical to think that 
+Congress, without expressly saying so, intended to establish 
+a cause of action against a nonfiduciary party-in-interest that 
+would turn on — not the culpability of such nonfiduciary — 
+but rather on whether the fiduciary acted with the requisite 
+culpability and thus violated § 406. 
+
+
+E. Congress’s decision not to provide the posited 
+private cause of action does not compromise the 
+ERISA enforcement scheme Congress enacted. 
+
+
+Policy-based arguments for why the excise-tax and penalty 
+sanctions that Congress chose to provide are supposedly 
+inadequate cannot overcome ERISA’s text. The Mertens 
+plaintiffs similarly argued that a construction of ERISA 
+under which plans lack remedies, including those available 
+at common law, contradicts ERISA’s “basic purpose.” See 
+
+
+'7 Spink involved a motion to dismiss a complaint alleging that the 
+Retirement Committee members were fiduciaries and had violated, inter 
+alia, § 406. See 517 U.S. at 886; JA 225-32. (In Part III.B, seven justices 
+concluded that “[iJt is not necessary for us to decide ... whether the Retire- 
+ment Committee members acted as fiduciaries,” 517 U.S. at 892, because 
+their conduct did not violate § 406.) 
+
+
+39 
+
+
+508 U.S. at 261. But this Court held that “vague notions of 
+a Statute’s ‘basic purpose’ are nonetheless inadequate to 
+overcome the words of its text regarding the specific issue 
+under consideration.... This is especially true with legislation 
+such as ERISA”, which “resolved innumerable disputes 
+between powerful competing interests — not all in favor of 
+potential plaintiffs”. Jd. at 261-62 (internal citation omitted); 
+accord, e.g., Board of Governors v. Dimension Fin. Corp., 
+474 U.S. 361, 373-74 (1986) (“Invocation of the ‘plain pur- 
+pose’ of legislation at the expense of the terms of the statute 
+itself takes no account of the processes of compromise, and, 
+in the end, prevents effectuation of congressional intent.”). 
+
+
+The policy arguments are fundamentally misguided. 
+Congress chose to place the onus of avoiding prohibited 
+transactions on fiduciaries, and also chose to provide that 
+only those fiduciaries would bear civil liability for violations 
+of § 406. The use of the excise tax and penalty scheme with 
+an allocation of enforcement responsibility between Treasury 
+and Labor was likewise a Congressional choice. Any issues 
+concerning the adequacy of agency incentives or resources 
+to carry out that scheme was inherent in that Congressional 
+choice. This Court has held that it will not substitute its 
+judgment for that of Congress. See p. 33, supra. 
+
+
+The policy arguments are also often unsupported or based 
+on incorrect premises: (1) Ameritech presents no data to 
+show that there in fact is an enforcement gap that a private 
+right of action could remedy (e.g., no data showing the num- 
+ber of instances in which a private party has asked Treasury 
+or Labor to act, but Treasury or Labor has failed to act 
+because of lack of resources). (2) The contention that col- 
+lection of the excise tax “depends largely on voluntary self- 
+assessment by the disqualified persons” (PB 36-37) is 
+misleading — it is plan fiduciaries or sponsors (such as 
+Ameritech Corp. here) who file annual reports with Labor 
+and Treasury. See JA 165-70; ERISA § 104; IRC § 6058. (3) 
+The fact that § 502(i) “applies only to a subset of ERISA plans” 
+
+
+40 
+
+
+(PB 35) is beside the point — § 4975 applies to the rest 
+(including the Ameritech plans here, see PB 35). (4) The fact 
+that a somewhat smaller class of persons are disqualified 
+persons than are parties-in-interest (PB 37-38) only shows 
+that Congress chose to limit which parties-in-interest it 
+would subject to enforcement. For example, the definition of 
+party-in-interest picks up all employees of certain parties-in- 
+interest, whereas only “highly compensated employees” are 
+deemed disqualified persons (PB 37). 
+
+
+Furthermore, Ameritech gives short shrift to the adequacy 
+of the remedies that do exist, even apart from the potential in 
+appropriate cases for the government to use excise taxes and 
+penalties (each as much as 100% or more of the amount 
+involved) to force the undoing of prohibited transactions. 
+First, there are civil actions for damages and other relief 
+against fiduciaries who cause a plan to enter into a prohib- 
+ited transaction and any other fiduciaries who knowingly 
+participate in that violation. See §§ 405, 406, 409. Here, if 
+there was any violation of § 406, there has been no showing 
+that the responsible fiduciaries, Ameritech Corp. and NISA, 
+could not compensate APT for any losses — and Ameritech 
+Corp., with its $20 billion in assets, clearly can. See Sal. 
+C.A. App. 353, 789. Indeed, any losses suffered by APT are 
+borne by Ameritech Corp., not its retirees or employees. 
+JA 221-22. And even if the responsible fiduciaries cannot 
+respond to a judgment, there is still the potential of recov- 
+eries from insurers of liable fiduciaries.'*® 
+
+
+Second, even though there is no cause of action under 
+ERISA against nonfiduciary parties-in-interest, counter- 
+parties potentially are subject to suit under other federal 
+or state laws, particularly if there is fraudulent conduct. A 
+party-in-interest may potentially be subject to suit under 
+other federal statutory schemes, ranging from the federal 
+securities laws to RICO. Even assuming that state law claims 
+
+
+'§ Plans, fiduciaries and employers can purchase insurance to cover 
+fiduciary liability for violations of ERISA. See § 410(b). 
+
+
+41 
+
+
+against a party-in-interest would be preempted (an issue that 
+is not before the Court here), ERISA does not preempt other 
+federal statutory remedies. See § 514(d). And if the coun- 
+terparty is not a party-in-interest, it may potentially be sub- 
+ject to state-law claims as well. In any event, concern about 
+the potential for preemption of state-law claims cannot over- 
+come the text of the statute on the issue that is before the 
+Court. See Mertens, 508 U.S. at 261."° 
+
+
+Third, allowing private civil actions only against fiducia- 
+ries may do more to further ERISA’s aims than allowing 
+suits against nonfiduciary parties-in-interest as well. Per- 
+mitting a fiduciary to shift liability for a § 406 violation to a 
+nonfiduciary party-in-interest could dilute the force of the 
+statutory proscription that a “fiduciary ... shall not cause” a 
+plan to engage in a prohibited transaction. In many cases, the 
+fiduciary that caused the alleged § 406(a) violation, or a co- 
+fiduciary who violated § 405, also controls who is sued. As 
+this case demonstrates, fiduciaries with that control will 
+rarely sue themselves. Here, there is substantial evidence 
+that executives of fiduciary Ameritech Corp. caused APT to 
+buy the participation interests or, at least, actively partici- 
+pated in making the investments.*° And fiduciary NISA 
+agreed that it would not knowingly engage in any prohibited 
+transaction. JA 151. Yet Ameritech Corp. is a plaintiff, not 
+a defendant, and NISA is not a party. APT’s fiduciaries are 
+
+
+'9 Here, Salomon denies that it is a party-in-interest. Salomon also 
+denies that the transactions were nonexempt prohibited transactions, dis- 
+putes that there was any unjust enrichment, asserts various equitable and 
+statutory defenses, and disputes the applicability of either § 4975 or 
+§ 502(i). Ameritech did not assert federal securities-law claims and its 
+RICO claims were dismissed. See Sal. C.A. App. 72-76. Salomon asserted 
+that Ameritech’s state-law claims were defective on numerous state-law 
+grounds. See R.123, R.210. Whether a remedy in fact exists against a par- 
+ticular party does not detract from the fact that Congress provided 
+expressly for some remedies but omitted others. 
+
+
+20 See, e.g., JA 68-71, 74-80, 120-21, 128-30, 147-48, 154-55, 161-63, 
+
+
+188-89, 200-03; Sal. C.A. App. 373-93, 459-69, 595-99, 609-10, 612-13, 
+639, 668-74, 677-78, 681-83, 687-92, 694-95, 724-28, 741-42, 758-68. 
+
+
+42 
+
+
+attempting to shift to Salomon — a nonfiduciary — respon- 
+sibility for an alleged violation of § 406 that Congress placed 
+squarely on them. 
+
+
+Finally, it is by no means certain that creating the posited 
+cause of action against nonfiduciaries that transact with 
+ERISA plans will ultimately benefit the plans. Mertens noted 
+the countervailing policy concern that expanding nonfidu- 
+ciary liability could “impose high insurance costs upon per- 
+sons who regularly deal with and offer advice to ERISA 
+plans, and hence upon ERISA plans themselves.” 508 U.S. at 
+262. And the specter of civil liability on Ameritech’s theory 
+may also prompt some nonfiduciaries to curtail transactions 
+with plans, leaving plans with a less competitive market in 
+which to invest. Mertens correctly recognized that this Court 
+should not “adjust the balance” that Congress struck between 
+competing goals. /d. at 263. 
+
+
+F. The posited cause of action would open the door 
+to a wide range of potential suits that Congress 
+did not contemplate or provide for in ERISA. 
+
+
+Not only would private suits against nonfiduciary parties- 
+in-interest open the door to the disquieting prospect of fidu- 
+ciaries attempting to hold nonfiduciaries responsible for a 
+fiduciary’s breach, but the pernicious impact of such suits 
+would be compounded if (as Ameritech has asserted) non- 
+fiduciaries could be liable on a basis akin to strict liability or 
+without regard to whether the defendant was a violator or 
+wrongdoer. The pernicious impact would be further com- 
+pounded if one seeks, as Ameritech does, to stretch the def- 
+inition of parties-in-interest to include outside parties 
+transacting at arm’s length with professional asset managers 
+for multi-billion dollar plans. 
+
+
+Yet additional unsettling consequences emerge when one 
+considers that many of the exemptions to § 406 are highly 
+technical and often depend on information or circumstances 
+beyond the knowledge and control of nonfiduciary parties- 
+
+
+—_— <r i.ldldlidgggjly, i ttt 
+
+
+43 
+
+
+in-interest. For instance, Prohibited Transaction Exemption 
+84-14 exempts certain transactions involving a defined class 
+of “qualified professional asset managers”, or “QPAMs”. See 
+49 Fed. Reg. 9494 (1984).?' Suppose Manager, a QPAM, 
+invests (as part of a diversification strategy) a small amount 
+of Executive Plan’s assets in interests in an oil-drilling ven- 
+ture sold by Driller. Driller is a diversified company whose 
+data-processing subsidiary provides ongoing computer ser- 
+vices to Executive Plan, allegedly making Driller a party- 
+in-interest. See §§ 3(14)(B) & (H). After the price of oil 
+unexpectedly plummets, Manager realizes that at the time the 
+investment was made the assets it managed for Executive 
+Plan— when combined with the assets it managed for 
+Employees Plan, an affiliate of Executive Plan — exceeded 
+20% of Manager’s total client assets. The exemption thus 
+does not apply and the transaction may be prohibited. See 
+PTE 84-14, §§ I(e) and V(c)(1), 49 Fed. Reg. at 9504-06. On 
+Ameritech’s theory, a plan fiduciary — including even Man- 
+ager, the fiduciary that violated § 406, who should monitor 
+its own compliance with exemptions — could sue Driller for 
+“equitable” relief. 
+
+
+Consider next PTE 75-1, which exempts certain securities 
+transactions with certain parties-in-interest. The exemption 
+imposes specific record-keeping requirements on the fidu- 
+ciary. See 40 Fed. Reg. 50,845 (1975). Suppose Fiduciary X 
+invests plan assets in securities issued in a private placement 
+by Web.com. The securities are purchased in the secondary 
+market from Broker, whose subsidiary provides ongoing cus- 
+todial services to the plan, allegedly rendering Broker a 
+party-in-interest. The pertinent conditions of PTE 75-1 
+obtain at the time of the transaction. But subsequently, the 
+Internet investment “bubble” bursts. Fiduciary Y is brought 
+
+
+2! The Prohibited Transaction Exemptions discussed here as examples 
+are safe harbors. For example, PTE 84-14 states that “the fact that a trans- 
+action is subject to an administrative or statutory exemption is not dis- 
+positive of whether the transaction is in fact a prohibited transaction.” 49 
+Fed. Reg. at 9504; accord 40 Fed. Reg. 50,845 (PTE 75-1). 
+
+
+aa 
+
+
+in to replace Fiduciary X, and discovers that Fiduciary X 
+carelessly misplaced the required recor¢s and that the trans- 
+action may thus be deemed prohibited. See PTE 75-1, § IIe), 
+40 Fed. Reg. at 50,847. PTE 75-1 would continue to exempt 
+Broker from excise taxes or penalties, but would not 
+expressly exempt Broker from the “restrictions of § 406(a)”. 
+Id. On Ameritech’s theory that § 406(a) could be the predi- 
+cate for civil liability, Broker would have no exemption from 
+civil liability and Fiduciary Y could sue Broker for “equi- 
+table” relief.** 
+
+
+It would be of little consolation to inform Driller and Bro- 
+ker that a court will not compel them to make restitution to 
+the plan unless they were unjustly enriched. Driller and Bro- 
+ker could still be dragged into court and subjected to liti- 
+gation over technical exemptions and arguments — with the 
+benefit of 20/20 hindsight — over “unjust enrichment”. 
+
+
+Moreover, as noted, Ameritech’s nonviolator-liability the- 
+ory cannot logically be confined to liability of parties-in- 
+interest for prohibited transactions. Rather, on this theory, 
+any person can be sued under § 502(a)(3) for some other per- 
+son's violation of Title I or the terms of a plan. Thus, sup- 
+pose Fiduciary Z violates its duty under § 404(a) to diversify 
+investments by using all of a plan’s assets to purchase a 
+highly leveraged equity-interest in an office building from 
+Seller, who had never before dealt with the plan. Then the 
+real estate market collapses. On Ameritech’s theory, Fidu- 
+
+
+22 In a case where an exemption is lost because of a fiduciary’s mis- 
+feasance, there is no rational reason for PTE 75-1 to exempt a nonfidu- 
+Ciary party-in-interest from excise taxes and penalties yet subject it to 
+civil suit. Thus, the omission from § II(e)(1) of any reference to contin- 
+ued exemption of nonfiduciary parties-in-interest from the “restrictions 
+of § 406(a)” shows that the Departments of Labor and Treasury originally 
+presumed that such parties were not subject to civil liability. The fact that 
+PTE 75-1 provides exemptions applicable to nonfiduciary parties-in-inter- 
+est in no way suggests that such parties potentially are subject to civil lia- 
+bility. The explicit purpose of PTE 75-1's application to nonfiduciary 
+parties-in-interest is to exempt them from excise taxes and penalties. 
+
+
+ee 
+
+
+45 
+
+
+ciary Z could now sue Seller for restitution to “redress” the 
+fiduciary’s own violation of § 404(a) — even absent any vio- 
+lation or wrongdoing by Seller. Or assume a plan provides 
+that only Fiduciary A is authorized to make real-estate 
+investments, but Fiduciary B purchases an apartment build- 
+ing for the plan from Seller. The investment is prudent in all 
+respects. But then the market declines and the plan violation 
+is detected. On Ameritech’s theory, either Fiduciary A or B 
+could sue Seller to “redress” Fiduciary B’s violation of the 
+terms of the plan, and yet more litigation over “unjust 
+enrichment” -in-hindsight ensues — litigation that Congress 
+neither authorized nor intended.” 
+
+
+G. The Secretary of Labor’s “interpretation” is not 
+entitled to deference. 
+
+
+Ameritech — but not amicus United States — argues that 
+the Secretary of Labor’s “interpretation” of the statutory lan- 
+guage is entitled to deference. However, Congress did not 
+delegate questions regarding the existence and scope of 
+causes of action under ERISA to the Secretary of Labor. 
+Rather, whether § 502(a)(3) authorizes a civil action is for 
+the courts to decide. See §§ 502(e) & (f). As stated in Adams 
+Fruit Co. v. Barrett, 494 U.S. 638, 649-50 (1990), “Congress 
+has expressly established the Judiciary and not the Depart- 
+ment of Labor as the adjudicator of private rights of action 
+arising under the statute.” None of the cases Ameritech cites 
+
+
+2 The hypothetical of a party-in-interest who bribes a plan fiduciary 
+to invest in its real-estate development (see USB 23-24) does not support 
+implying the posited cause of action. First, the harm to the plan arising 
+from the fiduciary’s acceptance of a bribe is the same whether the briber 
+is a party-in-interest or not. And in either case the fiduciary would violate, 
+e.g., § 406(b)(3), and the plan would have full recourse against the fidu- 
+ciary. Second, the party-in-interest would potentially be subject to dis- 
+gorging the investment, or be subject to an excise tax or penalty of 100% 
+or more under IRC § 4975 or § 502(i). Third, both the fiduciary and the 
+briber could be criminally liable and, additionally, their conduct may con- 
+stitute a RICO predicate act. See 18 U.S.C. §§ 1954, 1961(1). 
+
+
+46 
+
+
+involved judicial deference to an agency’s “interpretation” 
+of a statutory cause of action. 
+
+
+Moreover, even if the matter is within the purview of the 
+agency, where — as here — “the intent of Congress is clear, 
+that is the end of the matter; for the court, as well as the 
+agency, must give effect to the unambiguously expressed 
+intent of Congress.” Chevron v. Natural Resources Defense 
+Council, 467 U.S. 837, 842-43 (1984). Finally, Ameritech 
+does not contend that the Department of Labor has expressed 
+its position in any regulation or other interpretative pro- 
+nouncement. Rather, Ameritech points only to positions 
+taken in litigation. This Court has properly questioned 
+whether agency positions expressed in litigation, as opposed 
+to administrative regulation, are entitled to judicial defer- 
+ence. See, e.g., Bowen v. Georgetown Univ. Hosp., 488 U.S. 
+204, 213 (1988) (“Deference to what appears to be nothing 
+more than an agency’s convenient litigating position would 
+be entirely inappropriate.”). Deference would be particularly 
+inappropriate here since Labor’s current litigation position 
+contradicts the implicit assumption of the Departments of 
+Labor and Treasury in class exemption PTE 75-1 that non- 
+fiduciary parties-in-interest are not subject to civil liability. 
+See p. 44 n.22, supra. 
+
+
+H. The court-of-appeals decisions that infer the 
+posited cause of action are wrongly decided. 
+
+
+The court-of-appeals decisions that infer the posited cause 
+of action explicitly or implicitly engage in a dramatic burden 
+shifting in which the cause-of-action inquiry becomes 
+whether the statute does not bar such a suit instead of 
+“whether the statute affirmatively authorizes such a suit”. 
+Compare Mertens, 508 U.S. at 255 n.5 with, e.g., Herman v. 
+SCNB, 140 F.3d 1413, 1419-22 (11th Cir. 1998) (asserting 
+that § 406(a) “does not address, much less limit, who shall be 
+personally liable”, and “§ 502(a)(5) does not restrict the type 
+
+
+SS ee 
+
+
+47 
+
+
+of parties who can be so sued”) (internal quotation marks 
+omitted) (emphasis added). 
+
+
+Further, the circuit decisions almost entirely ignore the 
+legislative history that demonstrates Congress decided not to 
+impose civil liability upon parties-in-interest. The decisions 
+of five of the six circuits do not even mention that Congress 
+rejected an express civil-liability provision for parties-in- 
+interest. Only the Tenth Circuit, in Reich v. Stangl, 73 F.3d 
+1027 (10th Cir. 1996), even refers to this fact. Yet not even 
+the Tenth Circuit addressed the fact that this rejection fol- 
+lowed the Conference staff’s recommendation to “not pro- 
+vide civil liability for parties in interest”. Finally, several of 
+the circuit decisions pre-dated this Court’s decision in Lock- 
+heed v. Spink, which characterizes the Mertens passages on 
+which several of them rely as “dicta” “not at issue” in 
+Mertens, and which holds that “the only transactions ren- 
+dered impermissible by § 406(a) are transactions caused by 
+fiduciaries”. See 517 U.S. at 889 n.3. And the post-Spink 
+decisions do not consider the implications of Spink’s ruling 
+discussed in Point I.D, above. 
+
+
+Il. AMERITECH’S FAILURE TO PROFFER ADMIS- 
+SIBLE EVIDENCE THAT SALOMON KNEW A 
+FIDUCIARY WAS VIOLATING § 406 PROVIDES — 
+AN INDEPENDENT GROUND TO AFFIRM. 
+
+
+In the Seventh Circuit, Salomon argued in the alternative 
+that — even if the posited cause of action exists — a plain- 
+tiff must prove that the nonfiduciary party-in-interest knew 
+at the time that the fiduciary that caused the plan to engage 
+in the transaction was violating § 406(a) Yet Ameritech had 
+presented no admissible evidence that Salomon had the req- 
+uisite knowledge. The Seventh Circuit never reached this 
+alternative ground. Nevertheless, Salomon is entitled to rely 
+on it for affirmance. See, e.g., United States v. X-Citement 
+Video, Inc., 513 U.S. 64, 78 (1994). 
+
+
+48 
+
+
+A. Knowledge that a fiduciary was violating 
+§ 406(a) must be an element. 
+
+
+Ameritech would turn statutory silence into a virtue: The 
+statutory text provi‘«s no standard of culpability applicable 
+to the counterpart, .o the transaction, ergo, on such rea- 
+soning, liability may attach without regard to culpability or 
+wrongdoing. Indeed, the district court concluded that “under 
+§ [406(a)] defendants are held to a standard that approxi- 
+mates strict liability ...”. JA 337; see also JA 311. 
+
+
+For the fiduciaries §406(a) does expressly regulate, 
+§ 406(a) includes an express culpability standard (“knows or 
+should know”). And the rejected Senate bill that would have 
+imposed civil liability on nonfiduciary parties-in-interest did 
+include an express culpability standard. See Point 1.B.2, 
+supra. On Ameritech’s theory, nonfiduciaries sued for 
+§ 406(a) violations could be in a worse position than had the 
+Senate proposal been adopted. Plainly, the silence of ERISA 
+as enacted concerning any culpability standard applicable to 
+a nonfiduciary only further underscores that ERISA does not 
+provide the cause of action Ameritech posits. 
+
+
+In any event, Spink makes clear that a nonfiduciary party- 
+in-interest cannot be liable unless the court first finds that a 
+fiduciary violated § 406. See Point I.D, supra. It follows 
+from the dependent nature of any hypothetical claim against 
+a nonfiduciary party-in-interest that knowledge by it that the 
+fiduciary was violating § 406 must be an element. Know!- 
+edge of the fiduciary’s breach was required for the knowing 
+participation claim that Mertens in dictum rejected. See, e.g., 
+McDougall v. Donovan, 539 F. Supp. 596, 598 (N.D. III. 
+1982).** If knowledge of the fiduciary’s violation was 
+
+
+24 In ruling that a nonfiduciary party-in-interest could be held liable, 
+McDougall erroneously relied on language from a Senate committee 
+report on a proposed bill (S. 4). See 539 F. Supp. at 598 (citing S. Rep. 
+No. 93-127, at 35 (1973), 1 Leg. Hist. 621). That Senate bill was nor 
+enacted, and the underlying provision on which the report commented dif- 
+
+
+49 
+
+
+required for a pre-Mertens, dependent, knowing-participation 
+claim, it surely must be required for any (hypothetical) 
+dependent claim against a nonfiduciary party-in-interest that 
+might exist after Mertens and Spink. One cannot fairly con- 
+strue Mertens — with its emphasis on restricting remedies 
+and rights of action — as expanding the circumstances under 
+which a nonfiduciary party-in-interest can be liable by 
+(implicitly) overruling pre-Mertens case law that required 
+proof of knowing participation. 
+
+
+Furthermore, even a co-fiduciary who participates in a 
+prohibited transaction caused by another fiduciary can be 
+liable only if such co-fiduciary “know/s] such act or omis- 
+sion [by the other fiduciary] is a breach” (§ 405(a)(1)) 
+(emphasis added) —i.e., knows that the fiduciary who 
+caused the plan to enter into the transaction is violating 
+§ 406. See also Conf. Rep. at 299, 3 Leg. Hist. 4566 (to be 
+liable, the co-fiduciary, among other things, “must know that 
+he participated in the act that constituted a breach, and must 
+know that it was a breach”). Civil liability should not be 
+imposed upon a nonfiduciary party-in-interest upon less 
+proof than required to hold a participating fiduciary liable. 
+
+
+Ameritech suggests that this Court need not define the ele- 
+ments of the posited claim against nonfiduciary parties-in- 
+interest now, but should leave that to the future. See Pet. 
+Reply 6 n.6. But the very fact that the elements of the 
+posited claim — including even the standard of culpability 
+— require judicial determination underscores the perils of 
+implying a cause of action into a statute that not only pro- 
+vides detailed express duties, liabilities, and remedies, but 
+also provides explicit standards of culpability. 
+
+
+fers significantly from ERISA as enacted. This Court itself has rejected 
+reliance on that same language from the Senate committee report. See 
+Russell, 473 U.S. at 145-46. 
+
+
+50 
+
+
+B. Ameritech did not offer evidence that Salomon 
+knew a fiduciary was violating § 406(a). 
+
+
+Ameritech offered no admissible evidence that Salomon 
+knew at the time of the transactions (1987-1989) that a fidu- 
+ciary of APT was violating § 406(a). At the time, no one 
+thought that the transactions violated § 406. See, e.g., 
+p. 1, supra. Indeed, Ameritech represented in its 1987, 1988 
+and 1989 reports to the Government that there were no 
+non-exempt prohibited transactions. See p. 1, supra. That 
+Ameritech and NISA did not at the time believe the trans- 
+actions violated § 406 underscores the total absence of evi- 
+dence that Salomon somehow knew this (to say nothing of 
+the absence of evidence that Salomon knew that Ameritech 
+Corp. or NISA knew that they were violating § 406). 
+
+
+Ameritech has previously argued that, if any knowledge 
+requirement exists, it is sufficient for Ameritech to offer evi- 
+dence that Salomon (supposedly) knew that it was a service 
+provider, that it transacted with a plan and that NISA was a 
+fiduciary that caused the plan to enter into the transactions. 
+See Pet. Reply 6. But even putting aside that Ameritech’s 
+own Chief Investment Officer and NISA’s CEO have testi- 
+fied that they did not regard or identify Salomon as a party- 
+in-interest (see p. 1, supra), the matters to which Ameritech 
+points — even assuming arguendo they were all true — do 
+not establish that Salomon knew that NISA was violating 
+§ 406. Among other things, § 406(a) provides for exceptions: 
+“Except as provided in [§ 408)”. If a transaction falls within 
+an exemption — which may turn on matters that are within 
+the fiduciary’s knowledge or control (see Point I.F, supra) — 
+one does not have to go further; there simply can be no vio- 
+lation by the fiduciary. 
+
+
+CONCLUSION 
+
+
+The Court should affirm the judgment of the court of 
+appeals. 
+
+
+March 23, 2000 
+
+
+Respectfully submitted, 
+
+
+Peter C. Hein 
+Counsel of Record 
+Andrew C. Houston 
+Michael A. Charish 
+WACHTELL, LIPTON, ROSEN & KATZ 
+51 West 52nd Street 
+New York, New York 10019 
+(212) 403-1000 
+
+
+William F. Conlon 
+Richard B. Kapnick 
+SIDLEY & AUSTIN 
+
+One First National Plaza 
+Chicago, Illinois 60603 
+(312) 853-7000 
+
+
+Counsel for Respondents 
+
+

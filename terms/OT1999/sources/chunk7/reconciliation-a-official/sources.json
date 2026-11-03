@@ -1,0 +1,34 @@
+[
+  {
+    "docket": "98-9828",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-753.pdf",
+    "pdf": "98-9828.pdf",
+    "text": "98-9828.txt",
+    "pages": 12,
+    "sha256": "e895e75046ff66a4ae4b5eefb3722df12f273c08cb5193c28d3f462d44be103c"
+  },
+  {
+    "docket": "98-1828",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-765.pdf",
+    "pdf": "98-1828.pdf",
+    "text": "98-1828.txt",
+    "pages": 38,
+    "sha256": "581bf4b74272aa6ad91a0b329030cbb6b4a3c3f1c0962cce2016f7c999f14275"
+  },
+  {
+    "docket": "99-409",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-1.pdf",
+    "pdf": "99-409.pdf",
+    "text": "99-409.txt",
+    "pages": 14,
+    "sha256": "11ff3d3ad7af3e544d2c6212ad92d5f52a0316b727542b0e8b890c1a87b8421f"
+  },
+  {
+    "docket": "99-387",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-15.pdf",
+    "pdf": "99-387.pdf",
+    "text": "99-387.txt",
+    "pages": 12,
+    "sha256": "b844e81005e3f82bc9ff6be312cb52b8df10a9504d0ffb227b66a44d171cceb9"
+  }
+]

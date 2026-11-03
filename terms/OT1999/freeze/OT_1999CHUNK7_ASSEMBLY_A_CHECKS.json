@@ -1,0 +1,66 @@
+[
+  {
+    "file": "ohler-v-united-states_merits_2000-05-22.md",
+    "sha256": "a7615d9e0ca05ea7846755f46ca415fc7ed0a80d255dccf5a03b1dcca55d80e5",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      270
+    ],
+    "local_links": "resolved"
+  },
+  {
+    "file": "united-states-v-barrett_merits_2000-05-22.md",
+    "sha256": "f6f563a476ed27eb97e5148e963ee1f4976a0ef464f8c66c56d27c4549549f0b",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      242,
+      87
+    ],
+    "local_links": "resolved"
+  },
+  {
+    "file": "vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md",
+    "sha256": "c95bbbf63642bbcb8b8822ea637f3932d42508a961142535cc9e6816fa2c9928",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      211,
+      222
+    ],
+    "local_links": "resolved"
+  },
+  {
+    "file": "eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md",
+    "sha256": "1e6d90c95f2d51fcc33ae86d3bcd0406c7eb910261b578a12a3c6c27dd97ec66",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      224,
+      202,
+      215
+    ],
+    "local_links": "resolved"
+  },
+  {
+    "file": "hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md",
+    "sha256": "2199c5d28deaa24b27dc957145168120353105d4cc0453a489a21b678a4fd3b5",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      284
+    ],
+    "local_links": "resolved"
+  },
+  {
+    "file": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+    "sha256": "1e23918bc7b68dbed58ca4a0edbeca0f8e8151f5d2a204e2919e9ec67e5e3b4c",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      314
+    ],
+    "local_links": "resolved"
+  }
+]

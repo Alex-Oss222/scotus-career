@@ -1,0 +1,62 @@
+
+
+TROXEL V. GRANVILLE
+
+			LII
+
+			Supreme Court		 
+
+TROXEL V. GRANVILLE (99-138) 
+137 Wash. 2d 1, 969 P.2d 21, affirmed.
+Syllabus
+ Opinion
+ [ O’Connor ]Concurrence
+ [ Souter ]Concurrence
+ [ Thomas ]Dissent
+ [ Stevens ]Dissent
+ [ Scalia ]Dissent
+ [ Kennedy ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+TROXEL et vir. v. GRANVILLE
+
+CERTIORARI TO THE SUPREME COURT OF WASHINGTON
+
+No. 99—138.  Argued January 12, 2000–Decided June 5, 2000
+
+Washington Rev. Code §26.10.160(3) permits “[a]ny person” to petition for visitation rights “at any time” and authorizes state superior courts to grant such rights whenever visitation may serve a child’s best interest.  Petitioners Troxel petitioned for the right to visit their deceased son’s daughters.  Respondent Granville, the girls’ mother, did not oppose all visitation, but objected to the amount sought by the Troxels.  The Superior Court ordered more visitation than Granville desired, and she appealed.  The State Court of Appeals reversed and dismissed the Troxels’ petition.  In affirming, the State Supreme Court held, inter alia, that §26.10.160(3) unconstitutionally infringes on parents’ fundamental right to rear their children.  Reasoning that the Federal Constitution permits a State to interfere with this right only to prevent harm or potential harm to the child, it found that §26.10.160(3) does not require a threshold showing of harm and sweeps too broadly by permitting any person to petition at any time with the only requirement being that the visitation serve the best interest of the child.
+
+Held:  The judgment is affirmed.
+
+137 Wash. 2d 1, 969 P.2d 21, affirmed.
+
+    Justice O’Connor, joined by The Chief Justice, Justice Ginsburg, and Justice Breyer, concluded that §26.10.160(3), as applied to Granville and her family, violates her due process right to make decisions concerning the care, custody, and control of her daughters.  Pp. 5—17.
+
+      (a)  The Fourteenth Amendment’s Due Process Clause has a substantive component that “provides heightened protection against government interference with certain fundamental rights and liberty interests,” Washington v. Glucksberg, 521 U.S. 702, 720, including parents’ fundamental right to make decisions concerning the care, custody, and control of their children, see, e.g., Stanley v. Illinois, 405 U.S. 645, 651.  Pp. 5—8.
+
+      (b)  Washington’s breathtakingly broad statute effectively permits a court to disregard and overturn any decision by a fit custodial parent concerning visitation whenever a third party affected by the decision files a visitation petition, based solely on the judge’s determination of the child’s best interest.  A parent’s estimation of the child’s best interest is accorded no deference.  The State Supreme Court had the opportunity, but declined, to give §26.10.160(3) a narrower reading.  A combination of several factors compels the conclusion that §26.10.160(3), as applied here, exceeded the bounds of the Due Process Clause.  First, the Troxels did not allege, and no court has found, that Granville was an unfit parent.  There is a presumption that fit parents act in their children’s best interests, Parham v. J. R., 442 U.S. 584, 602; there is normally no reason for the State to inject itself into the private realm of the family to further question fit parents’ ability to make the best decisions regarding their children, see, e.g., Reno v. Flores, 507 U.S. 292, 304.  The problem here is not that the Superior Court intervened, but that when it did so, it gave no special weight to Granville’s determination of her daughters’ best interests.  More importantly, that court appears to have applied the opposite presumption, favoring grandparent visitation.  In effect, it placed on Granville the burden of disproving that visitation would be in her daughters’ best interest and thus failed to provide any protection for her fundamental right.  The court also gave no weight to Granville’s having assented to visitation even before the filing of the petition or subsequent court intervention.  These factors, when considered with the Superior Court’s slender findings, show that this case involves nothing more than a simple disagreement between the court and Granville concerning her children’s best interests, and that the visitation order was an unconstitutional infringement on Granville’s right to make decisions regarding the rearing of her children.  Pp. 8—14.
+
+      (c)  Because the instant decision rests on §26.10.160(3)’s sweeping breadth and its application here, there is no need to consider the question whether the Due Process Clause requires all nonparental visitation statutes to include a showing of harm or potential harm to the child as a condition precedent to granting visitation or to decide the precise scope of the parental due process right in the visitation context.  There is also no reason to remand this case for further proceedings.  The visitation order clearly violated the Constitution, and the parties should not be forced into additional litigation that would further burden Granville’s parental right.  Pp. 14—17.
+
+      Justice Souter concluded that the Washington Supreme Court’s second reason for invalidating its own state statute–that it sweeps too broadly in authorizing any person at any time to request (and a judge to award) visitation rights, subject only to the State’s particular best-interests standard–is consistent with this Court’s prior cases.  This ends the case, and there is no need to decide whether harm is required or to consider the precise scope of a parent’s right or its necessary protections.  Pp. 1—5.
+
+      Justice Thomas agreed that this Court’s recognition of a fundamental right of parents to direct their children’s upbringing resolves this case, but concluded that strict scrutiny is the appropriate standard of review to apply to infringements of fundamental rights.  Here, the State lacks a compelling interest in second-guessing a fit parent’s decision regarding visitation with third parties.  Pp. 1—2.
+
+    O’Connor, J., announced the judgment of the Court and delivered an opinion, in which Rehnquist, C. J., and Ginsburg and Breyer, JJ., joined.  Souter, J., and Thomas, J., filed opinions concurring in the judgment. Stevens, J., Scalia, J., and Kennedy, J., filed dissenting opinions.
+

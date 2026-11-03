@@ -1,0 +1,13 @@
+# Objective record recitations for neutral validation
+
+Control supplies objective facts for fresh neutral review without the historical Supreme Court outcome, lineup or reasoning. Published record recitations establish only the facts identified here; no original appendix or merits brief is claimed to have been independently read. Event cutoff: May 22, 2000 for Vermont and May 30, 2000 for Raleigh.
+
+## Vermont Agency
+
+U.S. Reports 529 U.S. 765, 770–772, record recitation, identifies the lower judgment as 162 F.3d 195 (2d Cir. 1998). Former employee Jonathan Stevens alleged that the Agency overstated employee time on federally funded projects and thereby obtained excess EPA grant payments. The United States declined intervention in the district-court action. The District Court denied the State's motion asserting both noncoverage under the FCA's person language and Eleventh Amendment protection. The Agency took an interlocutory appeal and district proceedings were stayed. The United States intervened in that appeal to support Stevens; this is not an assertion that it took over the underlying relator action. The divided Second Circuit affirmed the motion denial. No fraud liability, damages amount or final adjudication of the allegations was established.
+
+## Raleigh
+
+U.S. Reports 530 U.S. 15, 17–20, record recitation, identifies the lower judgment as In re Stoecker, 179 F.3d 546 (7th Cir. 1999). Chandler Enterprises acquired an airplane through a lease-purchase transaction, moved it to Illinois and ultimately took title. The Illinois Department assessed use-tax liability and a responsible-officer penalty against the bankrupt Stoecker. The record contained no direct evidence of his responsibility for tax filing or willful nonpayment. Illinois law placed production and persuasion burdens on the officer following the notice. The Seventh Circuit considered identification of another financial officer possibly sufficient for production but insufficient for persuasion. There was no evidence Stoecker saw or relied upon counsel's no-tax-due opinion letter. The Department prevailed in the Seventh Circuit because the court retained the state-law persuasion burden on the bankruptcy trustee. The raw packet's contrary statement that the judgment below shifted the burden to the State is an objective error and is superseded in the derived neutral handoff. This correction supplies no Supreme Court vote or disposition and changes no approved Stone legal position.
+
+The character of the state-law liability, the production presumption and the ultimate persuasion burden must remain distinct. The federal question concerns whether bankruptcy changes the substantive burden; it does not adjudicate every available state assessment defense anew.

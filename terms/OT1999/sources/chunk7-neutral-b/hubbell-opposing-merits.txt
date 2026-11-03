@@ -1,0 +1,1988 @@
+Supreme Court, U.S. 
+FILED 
+
+
+— 
+
+
+No. 99-166 
+
+
+c LERK 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+UNITED STATES OF AMERICA, 
+Petitioner, 
+Vv. 
+
+
+WEBSTER L. HUBBELL, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+ROBERT W. Ray * 
+
+Independent Counsel 
+
+PAUL ROSENZWEIG 
+
+Senior Litigation Counsel 
+DAVID G. BARGER 
+
+KARL N. GELLERT 
+
+Associate Independent Counsel 
+
+
+RONALD J. MANN 1001 Pennsylvania Ave., N.W. 
+The University of Michigan Suite 490-N 
+
+Law School Washington, D.C. 20004 
+625 So. State Street (202) 514-8688 
+
+
+Ann Arbor, MI 48109-1215 * Counsel of Record 
+
+
+WILSON-EPes PRINTING Co., INC. - (202) 789-0096 - WASHINGTON, D.C. 20001 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the Fifth Amendment’s privilege against 
+self-incrimination protects information previously recorded 
+in voluntarily created documents that a defendant delivers 
+to the government pursuant to an immunized act of 
+production. 
+
+
+2. Whether a defendant’s act of producing ordinary 
+business records constitutes a compelled testimonial com- 
+munication solely because the government cannot identify 
+the documents with reasonable particularity before they 
+are produced. 
+
+
+ii 
+
+
+PARTIES TO THE PROCEEDINGS 
+AND RULE 29.6 STATEMENT 
+
+
+Mr. Hubbell is respondent in these proceedings. In 
+addition, Suzanna W. Hubbell, Michael C. Schaufele, and 
+Charles C. Owen were parties to the proceedings in the 
+district court and the court of appeals. Ms. Hubbell, Mr. 
+Schaufele, and Mr. Owen were notified of the pendency of 
+these proceedings as required by Sup. Ct. R. 12.6. There- 
+after, they did not notify the Clerk of their interest in 
+remaining parties to this action. 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED ......................... 
+
+
+PARTIES TO THE PROCEEDINGS AND RULE 29.6 
+NUIT cetnescpestntussoubibtstosmemncces - 
+
+
+TABLE OF AUTHORITIES ... 
+
+
+OPINIONS BELOW 
+
+
+FE a 
+
+
+CONSTITUTIONAL AND STATUTORY PROVI- 
+SIONS INVOLVED 
+
+
+FEE EEE EEE EE EEE EEE EE EE EERE EE ESE EEE ORES 
+
+
+et ee ed 
+
+
+MENT 
+
+
+ARGUMENT .... 
+
+
+I. THE PRIVILEGE AGAINST SELF-INCRIM- 
+INATION DOES NOT EXTEND TO THE 
+CONTENTS OF VOLUNTARILY CREATED 
+DOCUMENTS SOLELY BECAUSE THE DE- 
+FENDANT IS COMPELLED TO PRODUCE 
+THE DOCUMENTS TO THE GOVERNMENT... 
+
+
+A. The Privilege Against Self-Incrimination 
+Does Not Protect Information Contained in 
+Voluntarily Created Documents 
+
+
+B. An Act of Production Does Not Automati- 
+cally Taint the Contents of Voluntarily Cre 
+ated Documents Simply Because It Includes 
+
+
+an Incriminating Testimonial Communica- 
+tion . 
+
+
+(iii) 
+
+
+ial 
+
+
+11 
+
+
+11 
+
+
+12 
+
+
+17 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+1. The Incriminating Testimonial Compo- 
+nent of the Act of Production Does Not 
+Automatically Taint the Contents of the 
+Produced Documents 200000000000... o.cc ccc ceeceeeeee 
+
+
+a. The Implications of Fisher 
+b. The Implications of the Later Cases.. 
+
+
+2. The Automatic-Taint Rule Announced by 
+the Court of Appeals Is Inconsistent with 
+Schmerber and Its Progeny ..................... 
+
+
+Il. A DEFENDANT’S PRODUCTION OF ORDI- 
+NARY BUSINESS RECORDS IN SPECIFIED 
+CATEGORIES DOES NOT IMPLICATE THE 
+FIFTH AMENDMENT WHEN THE DE- 
+FENDANT’S POSSESSION OF RECORDS OF 
+THE SPECIFIED CATEGORIES IS A FORE- 
+GONE CONCLUSION ........ 
+
+
+CONCLUSION ............ 
+
+
+18 
+18 
+
+
+3 
+
+
+Toe Wes oy 
+
+
+» 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+Baltimore City Dep’t of Social Services v. Bouk- 
+night, 493 U.S. 549 (1990) passim 
+Branzburg v. Hayes, 408 U.S. 665 (1972) -............. 27 
+Boyd v. United States, 116 U.S. 616 (1886) 8, 13 
+Braswell v. United States, 487 U.S. 99 (1988) _.. 20, 24-25 
+Doe v. United States, 487 U.S. 201 (1988) —......... 14 
+Fisher v. United States, 425 U.S. 391 (1976) ._..... passim 
+Gilbert v. California, 388 U.S. 263 (1967) —............ 14 
+Holt v. United States, 218 U.S. 245 (1910) .......... 14 
+Kastigar v. United States, 406 U.S. 441 (1972)... 8,27 
+Maryland v. Craig, 497 U.S. 836 (1990) ........ 15 
+Pennsylvania v. Muniz, 496 U.S. 582 (1990) _..... eal 14 
+Rochin v. California, 342 U.S. 165 (1952) .......... 27 
+Schmerber v. California, 384 U.S. 757 (1966) ..8, 14, 30-31 
+Segura v. United States, 468 U.S. 796 (1984)... 21 
+United States v. Dionisio, 410 U.S. 1 (1973)... 14 
+United States v. Doe, 465 U.S. 605 (1984) —.......... passim 
+United States v. R. Enterprises, 498 U.S. 292 
+(1991) = 28, 36-37 
+United States v. Wade, 388 U.S. 218 (1967) ........ 14 
+White v. Illinois, 502 U.S. 346 (1992) —............... 15 
+
+
+Wong Sun v. United States, 371 U.S. 471 (1963). 21 
+
+
+Constitutional Provisions, Statutes and Rules 
+
+
+Ce passim 
+TE passim 
+18 U.S.C. § 6003 ............. nihatanalabiereiigiibaibestubaininn 3 
+28 U.S.C. § 1254 1 
+Sup. Ct. R. 12.6 . ii 
+
+
+Miscellaneous 
+
+
+Samuel A. Alito, Jr., Documents and the Privilege 
+
+Against Self-Incrimination, 48 U. Pitt. L. REv. 
+
+fs £2 7 
+THE COMPLETE BILL OF RIGHTS: THE DRaAFTs, DE- 
+
+BATES, SOURCES AND ORIGINS (Neil H. Cogan ed. 
+
+RE a ee 16 
+Henry J. Friendly, The Fifth Amendment Tomor- 
+
+row: The Case for Constitutional Change, 37 
+
+U. Cin. L. REv. 671 (1968) 15, 29 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+JOSEPH D. GRANO, CONFESSIONS, TRUTH, AND TH: 
+Law (1993) 27 
+
+WAYNE R. LAFAVE, JEROLD H. ISRAEL, & NANCY 
+J. KING, CRIMINAL PROCEDURE (2d ed. 1999) ........ 13, 20, 
+-28 
+
+
+LEONARD W. LEVY, ORIGINS OF THE FIFTH AMEND- 
+MENT: THE RIGHT AGAINST SELF-INCRIMINA- 
+
+
+TION (1968) a. 16 
+Kenneth J. Melilli, Act-of-Production Immunity, 
+52 Onto St. L.J. 223 (1991) ‘ 22 
+
+
+Eben Moglen, Taking the Fifth: Reconsidering the 
+Origins of the Constitutional Privilege Against 
+Self-Incrimination, 92 Micw. L. Rev. 1086 
+
+
+In THE 
+
+
+Supreme Court of the United States 
+
+
+No. 99-166 
+
+
+UNITED STATES OF AMERICA, 
+Petitioner, 
+Vv. 
+WEBSTER L. HUBBELL, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-112a) 
+is reported at 167 F.3d 552. The opinion of the district 
+court (Pet. App. 113a-140a) is reported at 11 F. Supp. 
+2d 25. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was issued on 
+January 26, 1999. Pet. App. la. The court denied a 
+timely petition for rehearing and suggestion for rehearing 
+en banc on May 4, 1999. Pet. App. 141a-143a. The 
+petition for a writ of certiorari was filed on July 26, 1999. 
+This Court granted the petition on October 12, 1999. 
+The jurisdiction of this Court rests on 28 U.S.C. § 1254(1). 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The Fifth Amendment provides in relevant part: “No 
+person shall be * * * compelled in any minal case to 
+be a witness against himself.” 
+
+
+18 U.S.C. § 6002 provides in relevant part: 
+
+
+Whenever a witness refuses, on the basis of his 
+privilege against self-incrimination, to testify or pro- 
+vide other information in a proceeding before or 
+ancillary to— 
+
+
+(1) a court or grand jury of the United 
+States, * * * 
+
+
+and the person presiding over the proceeding com- 
+municates to the witness an order issued under this 
+title, the witness may not refuse to comply with the 
+order on the basis of his privilege against self- 
+incrimination; but no testimony or other information 
+compelled under the order (or any information 
+directly or indirectly derived from such testimony or 
+other information) may be used against the witness 
+in any criminal case, except a prosecution for perjury, 
+giving a false statement, or otherwise failing to 
+comply with the order. 
+
+
+STATEMENT 
+
+
+On April 30, 1998, a federal grand jury in the District 
+of Columbia returned a ten-count indictment charging 
+respondent and others with a variety of income tax-related 
+Offenses. J.A. 9-44. On July 1, 1998, the district court 
+dismissed the indictment (as to all defendants) as beyond 
+the jurisdiction of the Office of the Independent Counsel 
+and also (as to respondent alone) as a violation of re- 
+spondent’s Fifth Amendment privilege against compelled 
+self-incrimination. Pet. App. 113a-140a. On January 26, 
+
+
+3 
+
+
+1999, the court of appeals reversed both of those holdings 
+and remanded the case to the district court for proceed- 
+ings on the indictment. Pet. App. la-112a. The govern- 
+ment sought review of that decision by this Court because 
+the legal standard that the court of appeals articulated 
+on the self-incrimination question made it infeasible for 
+the government to bring respondent to trial. 
+
+
+1. The questions presented in this case arise from 
+a subpoena that a federal grand jury in the Eastern Dis- 
+trict of Arkansas issued to respondent in 1996. The sub- 
+poena sought production of a variety of specified business 
+and income records. See J.A. 46-53 (requiring produc- 
+tion of, generally, bank records, calendars, phone records, 
+and tax records). When respondent interposed a claim of 
+privilege under the Fifth Amendment, the government 
+obtained an order compelling production under 18 U.S.C. 
+§§ 6002, 6003. J.A. 60-61. Thereafter, respondent ap- 
+peared before the grand jury, produced a number of 
+documents, and testified that the produced materials were 
+the result of a complete search for documents responsive 
+to the subpoena. Pet. App. 25a-26a; see J.A. 62-70 (re- 
+spondent’s testimony before the grand jury). 
+
+
+The government used the information contained in 
+those documents, together with a variety of other investi- 
+gative sources, to develop the various tax-related charges 
+alleged in the indictment. Because all of the charges could 
+be substantiated without the use of the documents pro- 
+duced by respondent or evidence that he possessed them, 
+the government had no need to use the documents them- 
+selves at trial, although it did make substantial use of 
+their contents in the investigation that led to the indict- 
+ment. See Pet. App. 29a, 67a n.37. 
+
+
+2. The district court granted respondent’s motion to 
+dismiss the indictment on the ground that it violated his 
+
+
+4 
+
+
+Fifth Amendment privilege. Pet. App. 128a-137a.1 The 
+district court acknowledged the firmly established rule 
+“that the contents of voluntarily prepared documents are 
+never protected by the Fifth Amendment privilege” (Pet. 
+App. 131la), but ruled noneiheless that the Constitution 
+would not permit the government to use the contents of 
+those documents that respondent produced. The court 
+rested its ruling on the view that respondent’s production 
+of the documents constituted an implicit testimonial asser- 
+tion of the existence of those documents. Pet. App. 
+133a-137a. 
+
+
+The district court did not reject the government’s asser- 
+tion that the government already knew that respondent 
+maintained records of the types subpoenaed. Nor did the 
+district court indicate any respect in which it was incrimi- 
+nating for respondent to admit through his act of pro- 
+duction that the documents existed. Nevertheless, the 
+court held that the contents of the documents were pro- 
+tected by the Fifth Amendment privilege unless the gov- 
+ernment could establish that it already was aware of “the 
+existence of the information contained in the documents.” 
+Pet. App. 137a n.15. 
+
+
+3. The government appealed, and the Department of 
+Justice appeared as an amicus curiae urging reversal of 
+the district court’s decision on the Fifth Amendment issue.” 
+The court then unanimously rejected the district court’s 
+holding that the government could not use the contents 
+of the documents unless the government could establish 
+that it already was aware of the contents. Pet. App. 36a 
+
+
+1 The district court also dismissed the indictment as beyond the 
+jurisdictional authority of the Office of the Independent Counsel. 
+Pet. App. 114a-127a. 
+
+
+2 The court of appeals reversed the district court on the jurisdic- 
+tional issue. Pet. App. 2a-22a. No party has sought further re- 
+view of that question. 
+
+
+————— ——. 
+
+
+5 
+
+
+n.23. But the panel divided on the question of exactly 
+what the government must establish in order to use the 
+contents of the documents. 
+
+
+a. The majority of the panel first considered whether 
+the production of the documents was sufficiently testi- 
+monial to constitute a compelled testimonial communica- 
+tion. Pet. App. 36a-62a. On that point, the court rejected 
+the government’s contention that respondent’s production 
+of the documents did not rise to the level of testimony 
+because the existence of the documents was a foregone 
+conclusion. Compare Fisher v. United States, 425 U.S. 
+391, 411 (1976) (explaining that the productior of docu- 
+ments is not a testimonial communication if their existence 
+is a “foregone conclusion”). The panel ultimately con- 
+cluded that the existence of documents is not a foregone 
+conclusion for purposes of the Fifth Amendment unless 
+the government can “demonstrat[e] with reasonable par- 
+ticularity a prior awareness that the * * * documents 
+sought in the subpoena existed and were in [the defend- 
+ant]’s possession.” Pet. App. 62a. 
+
+
+The court also rejected the government’s view that pro- 
+duction of the documents was not incriminating (a view 
+that rests on the idea that respondent admitted at most 
+that he possessed several classes of customary business 
+records). Building on its analysis of the foregone conclu- 
+sion question, the court determined that the act of pro- 
+duction would be incriminating if the existence of the 
+produced documents was not a foregone conclusion or if 
+the act of production would authenticate those documents. 
+Pet. App. 62a-65a. 
+
+
+Having concluded that the act of production in this case 
+involved incriminating testimonial communications, the 
+court turned to the larger question—the extent to which 
+incriminating communications implicit in the act of pro- 
+
+
+6 
+
+
+duction can taint theretofore unprivileged contents of 
+documents that a defendant produces under compulsion. 
+Pet. App. 65a-72a. The court began by identifying the 
+“testimony” that is sometimes implicit in the act of pro- 
+duction: that the documents exist, that the defendant has 
+them in his possession, and that they are authentic. It 
+then broadly held that the implicit testimony that docu- 
+ments exist always taints the contents of the documents, 
+reasoning that the contents are “derived” from that im- 
+plicit testimony for purposes of the Fifth Amendment. 
+The court extended that rule even to cases (like this one) 
+in which the existence of the documents themselves (as 
+distinguished from the information that they contained) 
+was irrelevant to the investigation and would be irrelevant 
+to any trial of the charges contained in the indictment. 
+The court explained that, in its view, a contrary holding 
+“essentially eviscerates the act of production doctrine.” 
+Pet. App. 68a. 
+
+
+b. Judge Williams dissented from the court’s analysis 
+of the Fifth Amendment questions. Pet. App. 100a-12a. 
+In his view, this Court’s decision in Fisher compelled the 
+conclusion that the existence of the documents was a fore- 
+gone conclusion, because “these papers’ own physical 
+presence [wa]s ‘self-evident’ at the time and place of 
+production and so long thereafter as the government 
+maintains proper custody.” Pet. App. 105a. As he ex- 
+plained, “(t]he particular documents’ existence speaks for 
+itself once they have been delivered.” Pet. App. 106a. 
+
+
+Judge Williams also disputed the majority’s conclusion 
+that the testimonial aspects of the act of production tainted 
+the contents of the documents. He explained: “[T]he act 
+of production doctrine shields the witness from the use of 
+any information (resulting from his subpoena response) 
+beyond what the prosecutor would receive if the docu- 
+ments appeared in the grand jury room or in his office 
+
+
+7 
+
+
+unsolicited and unmarked, like manna from heaven.” Pet. 
+App. llla (citing DOJ Amicus Br. at 42; Samuel A. 
+Alito, Jr., Documents and the Privilege Against Self- 
+Incrimination, 48 U. Pitt. L. Rev. 27, 59-60 (1986)). 
+
+
+4. Because the standard articulated by the court of 
+appeals made it infeasible to bring respondent to trial, 
+and in view of the practical and legal significance of the 
+court’s analysis, the government filed a petition for rehear- 
+ing and a suggestion for rehearing en banc.* The court of 
+appeals denied the petition for rehearing, with Judge 
+Williams dissenting. Pet. App. 14la. With two judges 
+recused, the nine-member court denied the suggestion for 
+rehearing en banc over the dissent of four judges. Pet. 
+App. 142a-143a. 
+
+
+5. On June 30, 1999, after the mandate issued from 
+the court of appeals, respondent entered a conditional 
+guilty plea to a superseding information covering conduct 
+related to the indictment in this case. J.A. 104-115; see 
+J.A. 116-17 (text of superseding information). That 
+agreement includes a commitment by the government that 
+it will move to vacate respondent’s conviction if this Court 
+resolves this case in a way that “fails materially to im- 
+prove the United States’s position to the point that it is 
+reasonably likely that [respondent]’s act of production 
+immunity does not pose a significant bar to his prosecu- 
+tion.” Conversely, if the Court accepts our position in 
+this case, then the judgment of conviction will not be 
+vacated. J.A. 106-07. 
+
+
+3In response to a call for its views from the court of appeals, 
+the Department of Justice filed a brief supporting the suggestion 
+for rehearing en banc. 
+
+
+INTRODUCTION AND 
+SUMMARY OF ARGUMENT 
+
+
+The Fifth Amendment provides that “[n]o person * * * 
+shall be compelled in any criminal case to be a witness 
+against himself.” At the same time, 18 U.S.C. § 6002 
+permits the government to compel self-incriminating testi- 
+mony, so long as the government grants the witness im- 
+munity that is “coextensive” with the Fifth Amendment 
+privilege. Kastigar v. United States, 406 U.S. 441, 452-53 
+(1972). Here, respondent produced information under 
+the compulsion of Section 6002. The fundamental ques- 
+tion then is whether that information is derived from some 
+compelled testimonial aspect of respondent’s act of pro- 
+duction, thereby compelling respondent to be a witness 
+against himself. Our answer—that the information is not 
+derived from governmental compulsion because the gov- 
+ernment will make no use of the testimonial aspects of 
+respondent’s act of producing that information—follows 
+from the text of the Fifth Amendment, and this Court's 
+decisions construing the privilege against self-incrimination. 
+
+
+1. The Constitution affords no general Fifth Amend- 
+ment protection to the contents of voluntarily recorded 
+documents. The Court’s decisions in Fisher and in United 
+States v. Doe, 465 U.S. 605 (1984), substantially re- 
+jected the contrary decision in Boyd v. United States, 116 
+U.S. 616 (1886). Those decisions extended to the con- 
+text of documents a lengthy line of cases (originating with 
+Schmerber v. California, 384 U.S. 757 (1966)), which 
+generally recognize that the Fifth Amendment permits 
+investigative techniques that do not compel testimonial 
+communication. 
+
+
+The decisions in Fisher and Doe reflect the textual 
+limitations of the Fifth Amendment privilege and the diffi- 
+culty of extending the privilege to cases in which the 
+defendant is compelled only to produce documents. Em- 
+
+
+9 
+
+
+bodied in the Clause’s use of the phrase “to be a witness” 
+is a limitation that takes on particular significance when 
+contrasted with the markedly broader language used in 
+the contemporaneous state bill of rights provisions from 
+which the Fifth Amendment was drawn. Those provi- 
+sions, which more broadly prohibited compulsion to “give 
+evidence,” are much more readily applied to the produc- 
+tion of documents than the language of the Fifth Amend- 
+ment itself. 
+
+
+The view of the court of appeals—that any incriminat- 
+ing testimonial communication automatically taints the 
+contents of the produced documents and bars any investi- 
+gatory or prosecutorial use of those contents—is at odds 
+with the clear determination of the majority in Fisher and 
+Doe and disrupts the settled fabric of Fifth Amendment 
+law. In Fisher and Doe, the Court held that the contents 
+of documents generally are not protected by the Fifth 
+Amendment. Here the court of appeals has, in effect, 
+adopted the absolutist position Justice Marshall articu- 
+lated in his opinion concurring in the judgment in Fisher. 
+But in Fisher and Doe the Court adopted a more balanced 
+view, under which the government often would be able 
+to use the contents of compelled documents. 
+
+
+At a minimum, the government should be able to use 
+the contents of compelled documents unless there is some 
+substantial relation between the compelled testimonial 
+communications implicit in the act of production (as 
+opposed to the act of production standing alone) and 
+some aspect of the information used in the investigation 
+or the evidence presented at trial. Absent such a relation, 
+it makes no sense to conclude that the documents are 
+“derived” from the compelled testimonial communications 
+in any way. 
+
+
+Stated differently, the act of production itself cannot 
+taint the contents of the documents produced; the Fifth 
+
+
+id 
+
+
+Amendment is offended only if the government somehow 
+relies on a testimonial aspect of respondent’s production 
+of the documents-—by arguing, for example, that his pro- 
+duction of the documents proves that he possessed them. 
+In this case, none of the compelled testimonial commu- 
+nications are relevant to any aspect of the investigation 
+or proof of the charges: The government need not make 
+any use of respondent’s admission that he possessed 
+the documents, that the documents were authentic, or 
+that the documents ever existed. In short, nothing re- 
+sulted from the act of production alone that in any way 
+compelled respondent to be a “witness” against himself. 
+In these circumstances, the privilege does not prohibit the 
+government from making investigative use of the pre- 
+existing, voluntarily created contents of the documents. 
+
+
+The distinction between the protected testimonial com- 
+munications and the unprotected nontestimonial act of 
+production itself is not a mere formality. It rests directly 
+on the framework that the Constitution provides to regu- 
+late criminal investigation. That framework does not (and 
+could not sensibly) reflect a general distrust of investiga- 
+tory actions by the government, even when those actions 
+extract evidence from the target of an investigation. The 
+Constitution includes separate and specific provisions that 
+bar certain types of investigatory activity—precluding, for 
+example, unreasonable intrusions on interests protected 
+by the Fourth Amendment and forced testimonial com- 
+munication proscribed by the Fifth Amendment. Outside 
+those bounds, the government is free to use its powers of 
+compulsion, subject to the more general restrictions of the 
+Due Process Clause. Thus, it is central to this case that 
+the information contained in the documents produced was 
+recorded by respondent (or others) voluntarily—not under 
+compulsion—and that the government obtained that in- 
+formation not through the forbidden tactic of compelling 
+
+
+11 
+
+
+respondent to restate it or affirm its accuracy, but through 
+the entirely permissible tactic of compelling him to pro- 
+duce the physical evidence containing the information. 
+
+
+2. The case also presents a narrower question: whether 
+the act of production in this case included any admission 
+that constituted an “incriminating communication.” On 
+that question, the case is controlled by Fisher v. United 
+States, 425 U.S. 391 (1976). In Fisher, this Court con- 
+cluded that the mere production of documents did not 
+implicate the privilege because the defendant’s possession 
+of those documents was a “foregone conclusion.” This 
+case, like Fisher, invuives a subpoena that seeks produc- 
+tion of typical and customary business records (including 
+tax and bank account records), which the government 
+naturally would expect a businessman, like respondent, 
+to maintain. Under Fisher, respondent’s production of 
+such ordinary business records is not sufficiently testi- 
+monial to implicate the Fifth Amendment. The contrary 
+conclusion of the court of appeals is incorrect. 
+
+
+ARGUMENT 
+
+
+I. THE PRIVILEGE AGAINST SELF-INCRIMINA- 
+TION DOES NOT EXTEND TO THE CONTENTS 
+OF VOLUNTARILY CREATED DOCUMENTS 
+SOLELY BECAUSE THE DEFENDANT IS COM- 
+PELLLED TO PRODUCE THE DOCUMENTS TO 
+THE GOVERNMENT 
+
+
+The compelled testimonial communication implicit in 
+an act of production does not taint the otherwise un- 
+privileged, voluntarily created, pre-existing contents of the 
+documents produced. This is the case whenever the gov- 
+ernment makes investigative use of the contents of docu- 
+ments compelled under 18 U.S.C. § 6002 but does not 
+need to rely on a defendant’s testimonial communication 
+
+
+12 
+
+
+to prove his possession of the documents, the existence of 
+the documents or their authenticity. 
+
+
+Our analysis proceeds in two steps. First, it is now well- 
+established that the Constitution does not directly protect 
+the information contained in voluntarily recorded docu- 
+ments. Respondent attempts to avoid the implications of 
+that point by arguing that the government’s possession of 
+the information is derived from the compelled act of 
+production. Our second point rebuts that attempt: In- 
+formation that previously has been recorded voluntarily 
+before compulsion is brought to bear cannot sensibly be 
+treated as the fruit of any testimonial communication 
+implicit in the act of production. The government obtains 
+that information directly from the physical act of produc- 
+tion—an act that the Fifth Amendment does not protect— 
+and it in no sense is derived from respondent’s compelled 
+testimony. 
+
+
+A. The Privilege Against Self-Incrimination Does Not 
+Protect Information Contained in Voluntarily Cre- 
+ated Documents 
+
+
+For more than two decades, it has been clear that the 
+Self-Incrimination Clause does not protect a defendant 
+against incrimination by information that the defendant 
+(or others) voluntarily has recorded in a document. Thus, 
+as the Court explained in Doe, when “the preparation of 
+* * * papers * * * [i]s wholly voluntary, * * * they 
+cannot be said to contain compelled testimonial evidence, 
+either of the taxpayers or of anyone else.” 465 U.S. at 
+611. Stated most directly: “a person may not claim the 
+Amendment’s protections based upon the incrimination 
+that may result from the contents or nature of the thing 
+demanded.” Baltimore City Dep’t of Social Services v. 
+Bouknight, 493 U.S. 549, 555 (1990); see also Doe, 465 
+U.S. at 618 (O'Connor, J., concurring) (“{Tyhe Fifth 
+
+
+13 
+
+
+Amendment provides absolutely no protection for the 
+contents of private papers of any kind.”). 
+
+This Court’s decisions in Doe and Fisher reflect the 
+considered rejection of a much older line of authority 
+which recognized a general constitutional protection for 
+private papers. See, e.g., Boyd, 116 U.S. at 630; Doe, 
+465 U.S. at 618 (O’Connor, J., concurring) (“The notion 
+that the Fifth Amendment protects the privacy of papers 
+originated in Boyd.”). In recent decades, the Court re- 
+peatedly and explicitly has criticized the rationale of Boyd 
+and rejected its holdings. Thus, the Court in Fisher 
+rejected the “proposition”—-which the Court attributed to 
+Boyd—“that the Fifth Amendment prevents compelled 
+production of documents over objection that such produc- 
+tion might incriminate.” 425 U.S. at 405. The Court 
+explained that “[sJeveral of Boyd’s express or implicit 
+declarations have not stood the test of time,” id. at 407, 
+that “the foundations for the rule [of Boyd] have been 
+washed away,” id. at 409, and that “the prohibition against 
+forcing the production of private papers has long been a 
+rule searching for a rationale consistent with the proscrip- 
+tions of the Fifth Amendment,” id. Although the Court 
+has yet to expressly overrule Boyd, it is now clear that 
+
+
+_ “very little, if anything, remains of Boyd's Fifth Amend- 
+
+
+ment analysis.” WayNe R. LAFave, JeRotp H. ISRAEL, 
+& Nancy J. KinGc, CRIMINAL PrROcEDURE § 8.12(a), at 
+8-526 (2d ed. 1999) (forthcoming) [hereinafter LAFAvE, 
+IsRAEL & KING] (internal quotation omitted). 
+
+
+In rejecting Boyd, this Court has established beyond 
+any doubt that the Fifth Amendment “does not independ- 
+ently proscribe the compelled production of every sort 
+of incriminating evidence but applies only when the 
+accused is compelled to make a Testimonial Communica- 
+tion that is incriminating.” Fisher, 425 U.S. at 408. Thus, 
+
+
+14 
+
+
+the Court repeatedly has held that the Fifth Amendment 
+does not prohibit the compulsory production of physical 
+evidence, even when that production necessitates a wit- 
+ness’s physical act. The forced collection of blood samples 
+(Schmerber, 384 U.S. at 763-65), handwriting exemplars 
+(Gilbert v. California, 388 U.S. 263, 266-67 (1967)), 
+and voice exemplars (United States v. Dionisio, 410 U.S. 
+1, 5-7 (1973)) are all permitted. The Amendment also 
+permits compelled participation in a lineup (United States 
+v. Wade, 388 U.S. 218, 221-23 (1967)), the compelled 
+completion of a bank disclosure form (Doe v. United 
+States, 487 U.S. 201, 207-14 (1988) ), the forced produc- 
+tion of a child, even if examination of the child might 
+reveal incriminating information (Bouknight, 493 U.S. 
+at 554-555), the forced display of potentially incriminat- 
+ing attire (Holt v. United States, 218 U.S. 245, 252-53 
+(1910)), and the videotaping of slurred speech probative 
+of a defendant’s sobriety (Pennsylvania v. Muniz, 496 
+U.S. 582, 590-92 (1990),. All these cases make clear 
+that nontestimonial physical acts may be distinguished 
+from their implicit testimonial components and that com- 
+pelling the acts themselves is not proscribed by the Fifth 
+Amendment. 
+
+
+Applying that same reasoning, the Court in Fisher 
+concluded that the Constitution permits the enforcement 
+of a document subpoena. The Court acknowledged that 
+the enforcement of the subpoena “without doubt involves 
+substantial compulsion.” 425 U.S. at 409. Still, the Court 
+reasoned: 
+
+
+[I]t does not compel oral testimony; nor would it 
+ordinarily compel the taxpayer to restate, repeat, or 
+affirm the truth of the contents of the documents 
+sought. Therefore, the Fifth Amendment would not 
+be violated by the fact alone that the papers on their 
+
+
+15 
+
+
+face might incriminate the taxpayer, for the privilege 
+protects a person only against being incriminated by 
+his own compelled testimonial communications. Id. 
+
+
+at 409 (emphasis added). 
+
+
+As Justice Powell later explained in Doe, “[wJhere the 
+preparation of business records is voluntary,” the priv- 
+ilege is not implicated because “no compulsion is present.” 
+465 U.S. at 610. Given the concession of the respondent 
+in Doe that the documents were created voluntarily, the 
+Court concluded that “[t]he fact that the records are 
+in respondent’s possession is irrelevant to the determina- 
+tion of whether the creation of the records was compelled. 
+We therefore hold that the contents of those records are 
+
+
+not privileged.” Id. at 612. 
+
+
+The Court’s conclusion that the privilege does not pro- 
+tect the contents of voluntarily created documents is well- 
+grounded in the text of the Fifth Amendment. The crucial 
+phrase in the Self-Incrimination Clause bars only compul- 
+sion that results in respondent “be[coming] a witness 
+against himself.” It is at best a strain to treat the act 
+of producing documentary evidence as “be[ing] a witness.” 
+The words, on their face, most naturally refer to the 
+delivery of oral testimony. See Henry J. Friendly, The 
+Fifth Amendment Tomorrow: The Case for Constitutional 
+Change, 37 U. Cin. L. Rev. 671, 676 (1968) (“The 
+picture immediately conveyed is of a defendant on trial 
+for crime being dragged, kicking and screaming, to the 
+stand or, more realistically, being imprisoned for refusal 
+to testify.”); see also White v. Illinois, 502 U.S. 346, 
+358-60 (1992) (Thomas, J., concurring) (discussing the 
+meaning of the word “witness” at the time of the Bill of 
+Rights) (quoting Maryland v. Craig, 497 U.S. 836, 864- 
+65 (1990) (Scalia, J., dissenting) ). 
+
+
+If the Framers of the Bill of Rights had intended to 
+extend the privilege to any compelled production of evi- 
+
+
+16 
+
+
+dence, the existing state constitutions provided conspicu- 
+ously broader models. The most common phrasing pro- 
+vided that a person could not “be compelled to give evi- 
+dence against himself.” See Det. Dect. oF Ricuts § 15 
+(1776); Mp. Deci. or Ricuts art. 20 (1776); N.C. 
+Deci. oF Ricuts § VII (1776); Pa. Const., art. IX, 
+§ IX (1790); Va. Deci. or Ricuts art. VIII (1776); 
+and Vr. Const. ch. I, art. 10 (1777), reprinted in THE 
+ComMPLETE BiLt OF RIGHTS: THE DRAFTS, DEBATES, 
+SOURCES, AND OriGINns 328-30 (Neil H. Cogan ed. 1997) 
+{hereinafter Cogan, Oricins].* In drafting the Fifth 
+Amendment, Madison used narrower language seemingly 
+limited to actions that actually make the accused a “wit- 
+ness” against himself.® 
+
+
+Although neither the language of the Constitution nor 
+the Court’s emphatic rejection of Boyd in Fisher and Doe 
+directly addresses the reasoning of the court of appeals, 
+the vigor of the Court’s analysis in those cases casts grave 
+doubt on the court of appeals’s decision. That decision 
+
+
+4 This language apparently was drafted by George Mason for the 
+Virginia Declaration of Rights and taken from that document for 
+use in the other states. See LEonNARD W. LEvy, ORIGINS OF THE 
+FirtH AMENDMENT: THE RIGHT AGAINST SELF-INCRIMINATION 405- 
+10 (1968); Eben Moglen, Taking the Fifth: Reconsidering the 
+Origins of the Constitutional Privilege Against Self-Incrimination, 
+92 Micn. L. Rev. 1086, 1118-20 (1994). Massachusetts and New 
+Hampshire used a slightly different phrasing, providing that a 
+person could not be compelled “to accuse” or to “furnish evidence 
+against” himself. Mass. Const. pt. I, art. XII (1780); and N.H. 
+Const. pt. I, art. 15 (1783), reprinted in Cogan, OricINs, at 328-29. 
+
+
+5 The significance of Madison’s choice to prohibit only actions 
+that made the accused a “witness” is underscored by the frequency 
+with which state proposals for a federal bill of rights used the 
+broader “give evidence” language. See N.Y. Proposal, July 26, 
+1788; N.C. Proposal, Aug. 1, 1788; Pa. Minority Proposal, Dec. 12, 
+1787; R.I. Proposal, May 29, 1790; and Va. Proposal, June 27, 
+1788, reprinted in Cogan, ORIGINS, at 326-28. See generally Mog- 
+len, Taking the Fifth, 92 Micn. L. Rev. at 1121-22. 
+
+
+17 
+
+
+effectively resurrects the now-discarded result in Boyd and 
+sweeps the production of most—if not all—documentary 
+evidence back within the ambit of the Fifth Amendment 
+privilege. 
+
+
+B. An Act of Production Does Not Automatically 
+Taint the Contents of Voluntarily Recorded Docu- 
+ments Simply Becaues It Includes an Incriminating 
+Testimonial Communication 
+
+
+Starting from an unexceptional premise—the possibility, 
+recognized in Fisher and Doe, that acts of production 
+might involve incriminating testimonial communications— 
+the court of appeals proceeded to the dubious conclusion 
+that the contents of documents automatically are tainted 
+in any case in which the act of production involves such 
+a communication. Thus, while the court of appeals, of 
+course, did not directly revive Boyd and hold that the 
+contents of voluntarily recorded documents are directly 
+protected by the Fifth Amendment privilege, it neverthe- 
+less did so indirectly. 
+
+
+It is important to emphasize the breadth of the court of 
+appeals’s holding. The scope of the automatic taint rule 
+adopted by the court below is clearest from the passage at 
+Pet. App. 71a, where the court declared generally that 
+“Kastigar forbids the derivative use of the information 
+contained [in documents produced under compulsion] 
+against the immunized party”; see also Pet. App. 56a-57a 
+n.33 (concluding that the government’s “a posteriori 
+knowledge [of compelled documents] is inextricably linked 
+with the communicative testimony inherent in the sub- 
+poena response”). That language reflects the view of the 
+court of appeals regarding whether an act of production 
+involves a testimonial communication of sufficient incrim- 
+inating force to implicate the Fifth Amendment. And 
+the only qualification of that broad statement is a limita- 
+
+
+18 
+
+
+tion of the holding to cases in which “the government did 
+not have a reasonably particular knowledge of subpoenaed 
+documents’ actual existence,” Pet. App. 71a. Significantly, 
+in the view of the court of appeals, there are no cases in 
+which the voluntarily created contents of the produced 
+documents will not be entirely privileged whenever the 
+defendant’s compelled act of production also involves an 
+incriminating testimonial communication. 
+
+
+As we explain in Point II below, the court of appeals 
+erred in concluding that the act of production in this case 
+involved such a communication. But the more serious 
+error is the holding that any such communication auto- 
+matically taints the theretofore unprotected, voluntarily 
+created contents of the documents. The reasoning of the 
+court of appeals on that point undermines the decisions 
+of this Court in Fisher and Doe and, more generally, 
+ignores the reasoning and implications of this Court’s 
+decision in Schmerber. 
+
+
+1. The Incriminating Testimonial Component of the 
+Act of Production Does Not Automatically Taint 
+the Contents of the Produced Documents 
+
+
+a. The Implications of Fisher 
+
+
+The Court, in Fisher, recognized that “[t]he act of pro- 
+ducing evidence in response to a subpoena * * * has com- 
+municative aspects of its own, wholly aside from the con- 
+tents of the papers produced.” 425 U.S. at 410. For 
+example, “[c]ompliance with the subpoena tacitly con- 
+cedes the existence of the papers demanded and their pos- 
+session or control by the taxpayer.” Jd.; see also id. at 
+413 (discussing the possibility that compliance with a 
+subpoena would authenticate the produced documents). 
+By noting that the privilege extended to those kinds of 
+tacit testimonial communications, the Court suggested that 
+
+
+19 
+
+
+the privilege would prevent the government from using 
+such a compelled tacit communication against the defend- 
+ant. See id. at 413. For this reason, the Court in Fisher 
+did not articulate an absolute “no-taint” rule—that the 
+government would never be prohibited from using the 
+contents of voluntarily produced documents. Rather, the 
+Court recognized that there might be a class of cases 
+where the government’s use of the contents is derived from 
+some testimonial component of the act of production. 
+
+
+But the Court made it equally clear that those tacit 
+testimonial communications would be irrelevant in cases 
+in which “[t]he existence and possession or control of the 
+subpoenaed documents” were not “in issue,” id. at 412— 
+that is, where there was no nexus between the testimonial 
+communications and the government’s use of the volun- 
+tarily created contents of the documents produced. Not a 
+single word of the Fisher opinion supports the view of the 
+court of appeals—that the Court’s recognition of the rela- 
+tively inconsequential testimonial concessions implicit in 
+the act of production was designed to resurrect the 
+specter of Boyd by automatically tainting the contents 
+of the produced documents. 
+
+
+Indeed, the only substantial precedential support for 
+the court of appeals’s decision lies in the opinion of Jus- 
+tice Marshall, concurring in the judgment in Fisher. 
+Proposing an understanding of the Court’s opinion much 
+like that of the court of appeals, Justice Marshall argued 
+that the implicit testimony of existence would “effectively 
+shield the contents of the document, for the contents are 
+a direct fruit of the immunized testimony that the docu- 
+ment exists.” 425 U.S. at 434 (Marshall, J., concurring 
+in the judgment). 
+
+
+The reductive nature of Justice Marshall’s reading of 
+Fisher is evident from his frank acknowledgment that he 
+
+
+20 
+
+
+was “hopeful that the Court’s new theory * * * will pro- 
+vide substantially the same protection as our prior focus 
+on the contents of the documents.” 425 U.S. at 432 
+(Marshall, J., concurring in the judgment); see LAFAvE, 
+IsRAEL & KING, § 8.13(c), at 8-605 (“As a practical 
+matter, since act-of-production immunity would usually 
+be needed because of uncertainty as to existence and pos- 
+session, Justice Marshall’s view ordinarily would remove 
+the document from consideration in any possible prosecu- 
+tion of the person who produced it with act-of-production 
+immunity.”). Because Justice Marshall was unwilling to 
+join the opinion of the Court, and because his views did 
+not attract any Member of the Court who did join Fisher, 
+his opinion is hardly a reliable guide to the meaning of 
+the Court's decision.® 
+
+
+The vigor of Fisher's criticism of Boyd suggests that 
+Justice Marshall’s automatic-taint view is just as unaccept- 
+able as the opposing “no-taint” view. The former over- 
+emphasizes the importance of the communicative aspects 
+of an act while the latter ignores those aspects altogether. 
+Resolution of this case turns on defining the boundary of 
+the intermediate question left open by Fisher—precisely 
+when is it sensible to say that the government’s use of 
+the contents of documents produced under compulsion is 
+derived from a testimonial communication implicit in the 
+act of production? Fisher did not address the issue be- 
+cause that subpoena did not involve any testimonial com- 
+munication subject to the Fifth Amendment. See 425 
+U.S. at 414.7 That issue is presented here. 
+
+
+6 Justice Marshall’s subsequent determination to join Justice 
+Kennedy’s dissent in Braswell v. United States, 487 U.S. 99 (1988), 
+suggests that even Justice Marshall did not long retain the view 
+of Fisher that he expressed at the time. 
+
+
+7 Nor did Doe resolve the issue. In Doe, production of the docu- 
+ments at issue had not yet been compelled. See 465 U.S. at 607-08. 
+
+
+<< e e 
+
+
+21 
+
+
+The appropriate resolution of that issue should give force 
+to both this Court’s strong criticism of Boyd and its rec- 
+ognition of the testimonial implications of the act of pro- 
+duction. Thus, the privilege is not infringed unless there 
+is some substantial relation or connection between the 
+compelled testimonial communications and some aspect of 
+the information used in the investigation or the evidence 
+presented at trial. Cf. Segura v. United States, 468 U.S. 
+796, 815 (1984) (requiring significant causal connec- 
+tion to alleged government misconduct before suppres- 
+sion); Wong Sun v. United States, 371 U.S. 471, 487-88 
+(1963) (same). To put it more directly, the privilege 
+applies only if some information used by the government 
+is the fruit not only of the compelled physical act of pro- 
+duction, but, more specifically, of the compelled testi- 
+monial communications implicit in that act. In the lan- 
+guage of Fisher, the testimonial communications inherent 
+in an act of production infringe upon the Fifth Amend- 
+ment privilege only in cases in which an aspect of those 
+communications is “in issue,” 425 U.S. at 412 (emphasis 
+added). 
+
+
+To be sure, there are several classes of cases in which 
+the privilege would, under that construction, apply. The 
+classic case, for example, would be a prosecution in which 
+the defendant’s possession of the documents at the time 
+of the subpoena was “in issue” because the government 
+needed to prove his knowledge of their contents. Cf. 
+Bouknight, 493 U.S. at 555 (“her implicit communication 
+of control over Maurice at the moment of production 
+might aid the State in prosecuting Bouknight”). Fisher 
+would bar use of this act of production to prove a de- 
+fendant’s possession. Another obvious example would be 
+a case in which the government received a stack of docu- 
+ments that could be identified only by the nature of the 
+production: for example, a stack of papers covered only 
+
+
+22 
+
+
+with numbers produced in response to a subpoena calling 
+for “records of all of the contributions that you have 
+received from” specified individuals. Fisher would pre- 
+vent the government from using the defendant’s admissions 
+to establish the meaning and significance of the documents 
+which it can discern only from defendant’s act of pro- 
+duction. 
+
+
+Here, however, neither the information used in the 
+government’s investigation, nor the evidence that would 
+have been presented at trial, depends in any way on re- 
+spondent’s implicit testimonial communications that the 
+documents exist, that they are authentic, or that he pos- 
+sessed them. Respondent’s implicit testimony that the 
+documents existed is irrelevant here because the govern- 
+ment would not need to prove the existence of the particular 
+documents to establish the charges in the indictment. The 
+irrelevance of any implicit authentication of the docu- 
+ments or evidence of respondent’s control of the docu- 
+ments is even clearer. Neither the investigation nor the 
+prosecution of respondent is derived, directly or indirectly, 
+from any information contained in respondent’s compelled 
+testimonial communications, as distinguished from the vol- 
+untarily recorded information contained in the docu- 
+ments that he produced.* Thus, aside from the automatic- 
+taint view advanced by Justice Marshall in Fisher, there 
+
+
+8 As one commentator explains: 
+
+[Wlhere the government uses the contents solely to estab- 
+lish something other than the very testimonial fact which 
+rendered the act of production privileged, such use is outside 
+the ambit of derivative use and is permitted. In these circum- 
+stances, although there may very well be a tenuous causal 
+connection between the immunized act of production and the 
+government’s use of the produced items, that connection is too 
+attenuated to be afforded legal significance. 
+
+Kenneth J. Melilli, Act-of-Production Immunity, 52 Om1o St. L.J. 
+223, 261 (1991) (footnote omitted) (emphasis added). 
+
+
+23 
+
+
+is no plausible basis for application of the privilege in 
+this case. 
+b. The Implications of the Later Cases 
+
+
+Although none of the Court’s cases has directly re- 
+solved the question raised by Fisher and presented in this 
+case, the analysis of the Court in subsequent cases and 
+the assumptions that appear to underlie its reasoning cast 
+grave doubt on the automatic-taint rule of the court of 
+appeals and bolster a more measured understanding of 
+Fisher. 
+
+
+This Court, in Doe, specifically responded to a claim 
+identical to the claim presented here—that testimonial 
+communications implicit in the act of production auto- 
+matically bar the use by the government of the contents 
+of the produced documents—and dismissed “this conten- 
+tion” as “unfounded.” 465 U.S. at 617 n.17. The Court 
+explained that immunity “need be only as broad as the 
+privilege against self-incrimination,” and that “the priv- 
+ilege in this case extends only to the act of production. 
+Therefore, any grant of use immunity need only protect 
+respondent from the self-incrimination that might accom- 
+pany the act of producing his business records.” Jd. To 
+be sure, it is conceivable that the Court’s phrasing was 
+intended to convey that the “self-incrimination that might 
+accompany the act of producing his business records” 
+automatically would taint the contents of the documents, 
+but the unadorned rejection of this very result as “un- 
+founded” earlier in the text of the same footnote makes 
+
+
+9 The quoted language appears in a case in which the Court al- 
+ready had concluded that it was bound by the lower court findings 
+that the subpoena in question involved an incriminating testimonial 
+communication. See 465 U.S. at 613-14. Thus, the Doe Court con- 
+sidered a situation, similar to the one we presume for purposes of 
+this portion of our analysis, in which the defendant had made a 
+sufficiently substantial testimonial communication to call the Fifth 
+Amendment privilege into play. 
+
+
+24 
+
+
+that reading strained at best.° As with Fisher, the only 
+plausible reading of the opinion is this: The contents of 
+voluntarily created documents are not derived from the 
+testimonial communications implicit in the subsequent act 
+of production, and thus are not tainted by the compelled 
+nature of those communications. See also Doe, 465 U.S. 
+at 618 (O’Connor, J., concurring) (“[T]he Fifth Amend- 
+ment provides absolutely no protection for the contents 
+of private papers of any kind.”). The taint can come only 
+from some specific use of the defendant’s compelled testi- 
+monial communications—not his physical acts. 
+
+
+The Court’s more recent opinions in Braswell and Bouk- 
+night provide further support for our reading of Fisher 
+and Doe. In Braswell, the Court considered whether a 
+closely held corporation should be treated as an individual 
+(and thus entitled to assert the Fifth Amendment privi- 
+lege) or like a public corporation (which has no privi- 
+lege). Although the Court divided 5-4 on that question, 
+the Justices were of one mind on the point relevant to this 
+case: The contents of documents were unprivileged even 
+after their compelled production. The Court (per Rehn- 
+quist, C.J.) explained that “[t]here is no question but 
+that the contents of the subpoenaed business records are 
+not privileged.” 487 U.S. at 102 (emphasis added). Al- 
+though the Court discussed the effect of immunity at 
+length, it never qualified that absolute statement to suggest 
+that the incriminating testimonial communications implicit 
+in the act of production somehow would taint those con- 
+tents and extend the privilege to them. Justice Kennedvy’s 
+dissent (joined by Justices Brennan. Marshall. and Scalia) 
+makes the point more broadly, stating that “the contents 
+
+
+10 It also seems implausible to suggest that the author of the 
+Court’s opinion in Doe simply forgot or disrerarded the significance 
+of the opinion that he had written for the Court severs! yerrs 
+earlier in Kastigar. 
+
+
+. 
+: 
+3 
+
+
+tages Qe 
+
+
+25 
+
+
+of business records prepared without compulsion can be 
+used to incriminate even a natural person without im- 
+plicating Fifth Amendment concerns.” Id. at 120 (em- 
+phasis added). For the dissenters, “the contents of busi- 
+ness records produced by subpoena are not privileged 
+under the Fifth Amendment, absent some showing that the 
+documents were prepared under compulsion.” /d. at 121. 
+Both the majority and the dissent refer to documents that 
+the government would obtain under a compelled act of 
+production, and both describe the contents as unprivileged, 
+a consensus that simply cannot be reconciled with the 
+automatic-taint rule of the court of appeals. 
+
+
+Finally, the Court's analysis in Bouknight conflicts with 
+the decision below. In that case, the Court considered an 
+order compelling production of a minor child. The Court 
+recognized the possibility that production of the child 
+would lead to the discovery of incriminating evidence, 
+but dismissed that concern as insignificant: 
+
+
+When the government demands that an item be 
+produced, the only thing compelled is the act of pro- 
+ducing the item. The Fifth Amendment's protection 
+may nonetheless be implicated because the act of 
+complying with the government’s demand testifies to 
+the existence, possession, or authenticity of the things 
+produced. But a person may not claim the Amend- 
+ment’s protections based upon the incrimination that 
+may result from the contents or nature of the things 
+demanded. Bouknight therefore cannot claim the 
+privilege based upon anything that examination of 
+Maurice might reveal, nor can she assert the privilege 
+upon the theory that compliance would assert that 
+the child produced is in fact Maurice. 493 U.S. at 
+554-55 (alteration, internal quotation, and citations 
+omitted). 
+
+Again, it is possible to find an alternative explanation for 
+the ultimate decision—the Court also relied heavily on 
+
+
+26 
+the significance of the state’s regulatory regime related to 
+children, 493 U.S. at 556-61—but a Court interpreting 
+Fisher as respondent does could not have characterized so 
+blithely the ability of the government to use information 
+derived from the act of producing the child. 
+
+
+There is no square holding or precise statement by 
+this Court adopting our understanding of Fisher and Doe 
+and the implications of the Court’s rejection of the an- 
+tiquated Boyd precedent. But the Court’s consistent, re- 
+petitive, and emphatic statements that the voluntarily cre- 
+ated contents of documents are not privileged—even 
+documents produced under a compulsion that involves a 
+testimonial communication protected by the Fifth Amend- 
+ment—is flatly inconsistent with the view that any such 
+communication “inextricably” (Pet. App. 56a-57a n.33) 
+taints those contents. 
+
+
+2. The Automatic-Taint Rule Announced by the 
+Court of Appeals Is Inconsistent with Schmerber 
+
+
+and Its Progeny 
+
+
+The erroneous reasoning embraced by the court of ap- 
+peals starts with its unwillingness to grapple with the 
+logical implications of the line of decisions that begins 
+with Schmerber. Both of the lower courts proceeded from 
+the perspective that the Constitution generally is hostile 
+to investigative practices that allow the government to 
+build a case against a defendant based on evidence taken 
+from the defendant involuntarily. See Pet. App. 49a-50a 
+(court of appeals refers to “the anti-extortion principle 
+which has become the motivating force of self-incrimina- 
+tion doctrine”); Pet. App. 137a (district court criticizes 
+the government for “turn[ing]” respondent “into the pri- 
+mary informant against himself”). 
+
+That perspective reflects a fundamental misapprehen- 
+sion of the scope of the constitutional limits on the in- 
+
+
+27 
+
+
+vestigation of criminal activity. “(T]he Court has never 
+on any ground * * * applied the Fifth Amendment to 
+prevent the otherwise proper acquisition or use of evidence 
+which * * * did not involve compelled testimonial self- 
+incrimination.” Fisher, 425 U.S. at 399; see also Doe, 
+465 US. at 611 n.8. Thus, the Constitution includes 
+specific limitations on governmental investigatory prac- 
+tices, the most important of which are the Fourth Amend- 
+ment’s requirement that searches and seizures be reason- 
+able and the Fifth Amendment’s prohibition of compelled 
+self-incrimination. But outside those two areas, and sub- 
+ject to the general protections of the Due Process Clause, 
+see Rochin v. California, 342 U.S. 165, 168-74 (1952), 
+there is no general limitation on the government's power 
+to collect evidence from the targets of its investigations. 
+
+
+If the government wishes to search an individual's 
+premises, it either must show probable cause sufficient to 
+justify a warrant or present some justification adequate 
+to excuse the absence of a warrant. But if—as in this 
+case—it chooses not to invade the defendant's premises 
+with a nonconsensual search, then the government can 
+rely on “the long standing principle that ‘the public has a 
+right to every man’s evidence.’” Branzburg v. Hayes, 408 
+U.S. 665, 688 (1972) (ellipsis omitted); see also JosEPH 
+D. GRANO, CONFESSIONS, TRUTH, AND THE LAW 40-41 
+(1993) (discussing the view, dating to Bentham, that “an 
+intrusive search * * * seems more ‘cruel’ than requiring 
+suspects * * * to answer questions”). 
+
+
+The grand jury’s authority to compel the production of 
+evidence is “{a]mong the necessary and most important of 
+the powers * * * [that] assure the effective functioning of 
+government in an ordered society.” Kastigar, 406 U.S. at 
+444 (internal quotation omitted). As one leading treatise 
+explains, in a society without a general obligation to 
+provide evidence, “criminal activity could be hidden be- 
+
+
+28 
+
+
+hind a wall of silence that finds no justification in legal 
+privilege.” LAFAve, IsraeL & KiNG, § 8.6(a), at 8-254. 
+Because the grand jury obtains evidence without the pri- 
+vacy-invading intrusions regulated by the Fourth Amend- 
+ment, it generally is entitled to evidence free from any 
+restraint comparable to the necessity of showing probable 
+cause. See United States v. R. Enterprises, 498 U.S. 292, 
+297 (1991); LaFave, Israet & KiNG, § 8.6(a), at 8-255. 
+
+
+As a result, provided that the method does not violate 
+the Fourth Amendment or involve the compulsion of a 
+testimonial communication protected by the Fifth Amend- 
+ment, the Court regularly has countenanced the use of 
+procedures by which the government compels the target 
+of an investigation to provide incriminating evidence. The 
+most prominent example is Schmerber, which rejected 
+application of the privilege against self-incrimination to 
+the forcible collection of a blood sample. And Schmerber 
+is not an outlier limited by later decisions. To the con- 
+trary, it has been the fount of a long string of cases per- 
+mitting the involuntary collection of evidence in a wide 
+variety of circumstances. See supra page 14 (citing 
+cases that have extended Schmerber's reasoning). As a 
+result, modern police practice is founded on the govern- 
+ment’s authority to compel the production of physical 
+evidence. 
+
+
+Thus, it is not enough for respondent to rely solely on 
+what we concede—that the incriminating evidence was 
+derived from the documents that respondent produced. 
+Rather, the privilege prevents the government's use of the 
+contents of the documents only if two additional circum- 
+stances are present: (i) an implicit incriminating testi- 
+monial communication—something that, as we argue in 
+Point II, this case does not involve; and (ii) a determi- 
+nation that the voluntarily created information contained 
+in the documents produced is derived from that communi- 
+
+
+29 
+
+
+cation. On the latter point respondent's case definitively 
+falters: Whatever the Court might conclude about some 
+trivial testimonial communication implicit in respondent's 
+act of producing the documents in this case, it is not 
+plausible to contend that the information contained in 
+those documents—voluntarily recorded by respondent (or 
+others) long before compulsion was brought to bear— 
+somehow is derived from that communication. 
+
+
+We readily agree that the government has the docu- 
+ments—and the information that they contain—because 
+respondent gave them to the government. But the govern- 
+ment’s possession of the documents is the fruit only of a 
+simple physical act—the act of producing the documents. 
+The contrary view—that the documents are derived from 
+some testimonial communication—rests on the tortured 
+notion that the government obtained the documents not 
+through the physical act of production, but through re- 
+spondent’s implicit testimonial admission that the docu- 
+ments existed, an admission that is irrelevant to any sub- 
+stantive issue. As the opinion of the court of appeals 
+illustrates, that line of reasoning is almost Thomist in its 
+unremitting insistence on turning the focus of analysis 
+from the material and physical world to an invisible and 
+metaphysical conceptual system. See also Friendly, Fifth 
+Amendment Tomorrow, 37 U. Cin L. Rev. at 702 (argu- 
+ing that the reliance on testimonial assertions implicit in 
+the act of production to justify application of the privilege 
+in Boyd “reeks of the oil lamp”). 
+
+
+The conceptual error infecting the opinion of the court 
+of appeals is that it collapses the non-testimonial physical 
+act of production into the incidental testimonial admis- 
+sions sometimes implicit in the act of production. The 
+court seemed to equate the fact that the documents exist 
+with a testimonial communication asserting that existence. 
+Thus, the court of appeals views document production as 
+
+
+30 
+
+
+a primarily testimonial matter, with some incidental un- 
+privileged physical activity occurring on the side. See, 
+e.g., Pet. App. 50a n.31 (“[The act of producing docu- 
+ments] provides testimony rather than physical or real 
+evidence.”) (emphasis added). Yet, the dispositive por- 
+tion of the opinion (Pet. App. at 65a-72a) simply ignores 
+the rule that the Fifth Amendment does not protect the 
+contents of voluntarily created documents. The clear 
+analysis of Fisher—which imports the Schmerber analysis 
+to the area of document production, and firmly rejects the 
+Boyd notion that the Fifth Amendment should limit the 
+government’s access to this type of evidence—cannot be 
+reconciled with the reasoning of the court of appeals. 
+
+
+The illogical implications of the D.C. Circuit's analysis 
+are perhaps clearest in the pivotal, concluding portion of 
+its analysis. There, the majority defends its interpretation 
+of the Fifth Amendment by describing this as a case in 
+which “the testimonial value of document production is 
+high, and the government obtains a large quantum of 
+information directly from the witness’s mental faculties.” 
+Pet. App. 70a-7la. That analysis is entirely wrong. The 
+act of production in this case has absolutely no evidentiary 
+value—to prove the tax charges in the indictment, the 
+government would not have needed to establish that any 
+of the documents existed or were authentic, let alone that 
+the defendant was in possession of them or produced them 
+to the government—and the government is not exploiting 
+any information obtained from compelled exercise of the 
+witness’s mental faculties. What was compelled was the 
+physical act of production, which revealed nothing of 
+significance about respondent’s mental faculties; what re- 
+vealed information of significance about his mental facul- 
+ties (the contents of the documents) was not compelled. 
+Compare Schmerber, 384 U.S. at 763 (explaining that, 
+whatever the policies of the privilege might suggest in the 
+
+
+t 
+: 
+? 
+: 
+
+
+31 
+
+
+abstract, the constitutional privilege always has forbidden 
+only “the cruel, simple expedient of compelling [evidence] 
+from [the defendant's] own mouth”) (internal quotation 
+omitted); see also Fisher, 425 U.S. at 412 (the Fifth 
+Amendment does not limit the compelled production of 
+documents in cases in which “the existence and possession 
+or control of the subpoenaed documents [are] no more in 
+issue * * * than in the above cases”). 
+
+
+Finally, although not strictly relevant—because it is so 
+clearly established that Section 6002 extends immunity 
+precisely as far as, and no farther than, the Fifth Amend- 
+ment—this understanding of the Constitution is consistent 
+with the language of the statute. The immunity described 
+in Section 6002 is limited to “testimony or other informa- 
+tion compelled under the order (or any information di- 
+rectly or indirectly derived from such testimony or other 
+information).” That language is consistent with the gov- 
+ernment’s use of the information provided by respondent. 
+The information in question was neither “compelled under 
+the order”—respondent and other individuals voluntarily 
+recorded it at some earlier time—nor “directly or indi- 
+rectly derived from” testimony or information compelled 
+under the order. If it was derived from anything, it was 
+derived from two unprotected actions: (i) the voluntary 
+creation of the documents by respondent and others; and 
+(ii) respondent’s nontestimonial, physical act of produc- 
+tion. On that point, it is illuminating that the district 
+court felt it necessary to elide the crucial language of the 
+statute in order to explain its view that this case fell 
+within the statutory grant of immunity. See Pet. App. 
+130a (explaining that Section 6002 protects “information 
+{gained through a grant of immunity]”) (alteration by 
+district court); id. at 13la (dismissing the indictment 
+based on the finding that “the charges brought against 
+{respondent were] directly or indirectly derived from the 
+
+
+32 
+
+
+documents [respondent] produced under subpoena”) (em- 
+phasis added). 
+
+
+At bottom, all of the useful information that the govern- 
+ment obtained from respondent's act of production is de- 
+rived from the voluntary creation of the documents by 
+respondent and others. The relevant exercise of respond- 
+ent’s mental faculties occurred at the time the documents 
+were created, long before the subpoena was served. Be- 
+cause none of the information was “derived from” re- 
+spondent’s compelled communications, and because the 
+privilege protects only information that is compelled, all 
+of the information should be available for the govern- 
+ment’s investigation and prosecution of respondent. 
+
+
+Il. A DEFENDANT'S PRODUCTION OF ORDINARY 
+BUSINESS RECORDS IN SPECIFIED CATEGOR- 
+IES DOES NOT IMPLICATE THE FIFTH AMEND- 
+MENT WHEN THE DEFENDANT'S POSSESSION 
+OF RECORDS OF THE SPECIFIED CATEGORIES 
+IS A FOREGONE CONCLUSION 
+
+
+The discussion in Point I proceeds on the assumption 
+that the subpoena in this case in fact compelled a testi- 
+monial communication of sufficient substance to implicate 
+the Fifth Amendment. In our view, however, that as- 
+sumption is incorrect: Whatever testimonial communica- 
+tions may have been implicit in respondent’s act of pro- 
+duction, none were of sufficient significance to implicate 
+the Fifth Amendment. Thus, the lower court's analysis of 
+this second, more fact-specific issue is inconsistent with 
+the analysis of the Court in Fisher, the only case in which 
+the Court previously has analyzed the question. On this 
+ground, as well, the court of appeals’s error warrants 
+reversal. 
+
+
+As we explain in Point I, Fisher's analysis of the taint 
+question discussed above was, strictly speaking, dictum. 
+
+
+33 
+
+
+The reason, of course, is that the Court concluded that 
+the trivial testimonial communications compelled by en- 
+forcement of the subpoena in that case did not implicate 
+the privilege against self-incrimination. Fisher—like this 
+case—involved a standard subpoena seeking ordinary and 
+customary business records. 425 U.S. at 394.% Compul- 
+sion of testimony by such a subpoena, the Court held, did 
+not compel testimonial communications that implicated 
+the privilege against self-incrimination. The Court rea- 
+soned: 
+
+
+It is doubtful that implicitly admitting the exist- 
+ence and possession of the papers rises to the level 
+of testimony within the protection of the Fifth 
+Amendment. The papers * * * are the kind usually 
+prepared by an accountant working on the tax returns 
+of his client. Surely the Government is in no way 
+relying on the “truth-telling” of the taxpayer to prove 
+the existence of or his access to the documents. The 
+existence and location of the documents are a fore- 
+gone conclusion and the taxpayer adds little or noth- 
+ing to the sum total of the Government’s information 
+by conceding that he in fact has the papers. Under 
+these circumstances by enforcement of the summons 
+no constitutional rights are touched. The question is 
+not of testimony but of surrender. 425 U.S. at 411 
+(internal quotation and citations omitted). 
+
+
+Because the subpoena in this case, like the subpoena in 
+Fisher, called only for specified categories of ordinary 
+
+
+11 The Fisher subpoena sought “[a]ccountant’s workpapers per- 
+taining to Dr. E.J. Mason’s books and records of 1969, 1970 and 
+1971,” “[rjetained records of E.J. Mason’s income tax returns for 
+1969, 1970 and 1971,” and [r]etained copies of reports and other 
+correspondence between [specified individuals] during 1969, 1970 
+and 1971,” which were “analyses by the accountant of the taxpayers’ 
+income and expenses.” 425 U.S. at 394. The subpoena in this case 
+is in substance quite similar (albeit admittedly more verbose). 
+J.A. 47-53. 
+
+
+34 
+
+
+business records, the decision in Fisher calls for the same 
+conclusion here: The subpoena compelled respondent to 
+make no communication that rises to the level of testi- 
+mony within the protection of the Fifth Amendment. The 
+court of appeals, however, strayed from that straightfor- 
+ward application of Fisher, concluding instead that the 
+foregone-conclusion doctrine applies only when the gov- 
+ernment is “capable of demonstrating with reasonable par- 
+ticularity a prior awareness that the exhaustive litany of 
+documents sought in the subpoena existed and were in 
+[respondent]’s possession,” Pet. App. 62a. 
+
+
+Nothing in Fisher suggests that the government must 
+overcome so high a hurdle. Indeed, the Court’s discussion 
+in Fisher of handwriting exemplars strongly supports our 
+understanding of the doctrine: A testimonial communica- 
+tion implicit in an act-of-production which admits some- 
+thing that normally is true and not inherently incriminating 
+does not rise to the level of a testimonial communication 
+protected by the Fifth Amendment. 
+
+
+In the key passage in Fisher, the Court explained: 
+“When an accused is required to submit a handwriting 
+exemplar he admits his ability to write and impliedly 
+asserts that the exemplar is his writing. But in common 
+experience, the first would be a near truism and the latter 
+self-evident.” Fisher, 425 U.S. at 411. Two things about 
+that passage undermine the analysis of the court of ap- 
+peals. First, it plainly extends the doctrine to generalities 
+that are not necessarily true—there certainly are some 
+people who cannot write, so the government necessarily 
+obtains information by forcing a person to admit that he 
+can. See id. (the compulsion in Fisher “adds little or 
+nothing to the sum total of the Government’s informa- 
+tion”) (emphasis added). Second, the passage suggests 
+that a request for handwriting exemplars always would be 
+
+
+35 
+
+
+permissible, but not, as respondent would have it, because 
+the government can make a defendant-specific factual 
+showing of its advance knowledge of the defendant’s com- 
+pelled implicit testimonial admission of his ability to write. 
+Rather, the Fisher Court suggests that compulsion is per- 
+missible because in the general run of cases it conveys 
+nothing of significance to know that a defendant can write. 
+The same reasoning governs this case, in which the com- 
+pelled communication is an admission that respondent 
+maintains several customary (and perfectly lawful) classes 
+of business records. 
+
+
+The court of appeals nevertheless mischaracterized 
+Fisher as a case in which the government “had highly 
+specific knowledge as to the existence of the accountant’s 
+work papers as well as their location.” Pet. App. 33a. 
+But the Fisher Court’s explanation of its decision does not 
+mention any specific knowledge the government had about 
+those papers; this is a remarkable situation if (as the court 
+of appeals concluded) the decision turned on the govern- 
+ment’s possession of particularized knowledge of the sub- 
+poenaed documents. The error of the lower court’s analy- 
+sis is illuminated by its need to rely on the opinion of 
+Justice Brennan (concurring only in the judgment) to 
+support its view of the factual basis for the Fisher deci- 
+sion. See Pet. App. 37a (relying on government’s knowl- 
+edge of documents as reported in Justice Brennan’s opin- 
+ion, 425 U.S. at 430 n.9). 
+
+
+The court of appeals also erroneously suggested that its 
+narrow reading of Fisher was justified by a retreat from 
+Fisher in Doe. Pet. App. 34a-35a & 37a-39a n.24. The 
+Doe opinion cannot bear the reading that the court of 
+appeals attributes to it. The Court in Doe did briefly 
+mention the lower court finding that the production there 
+implicated the Fifth Amendment. The Court did not, how- 
+
+
+36 
+
+
+ever, affirmatively embrace that finding. Rather, it blandly 
+noted that the finding “essentially rest[ed] on [the lower 
+court’s] determination of factual issues,” 465 U.S. at 613- 
+14, and then addressed the questions on which it had 
+granted review. The Court’s decision not to be diverted 
+from those important questions by a review of the factual 
+findings that those questions presupposed hardly suggests 
+an intention to disavow or distinguish Fisher. See Pet. 
+App. 105-a-106a (Williams, J., dissenting). 
+
+
+The dire consequences of the “reasonable particularity” 
+standard adopted by the court of appeals cannot be over- 
+emphasized. That standard drains the “foregone conclu- 
+sion” doctrine of all force just as surely as the automatic- 
+taint rule criticized in Point I undermines Fisher’s rejec- 
+tion of Boyd. For all practical purposes, the identity of 
+a document is determined by its contents. Only by its 
+contents—what it says, not its shape, size, or texture— 
+may a document be described with any particularity, for 
+it is those contents that give the document significance. 
+Thus, a standard requiring identification of a document 
+with reasonable particularity is, in effect, a standard 
+that demands advance knowledge of the contents of the 
+documents. 
+
+
+In practice, the court of appeals has done in a more 
+intricate way exactly what it criticized the district court 
+for doing: Both decisions effectively require advance 
+knowledge of the contents of a document as a predicate 
+for lawful use of the document’s contents. That is a 
+daunting standard and, absent omniscience, one that few 
+prosecutors are likely to meet. Cf. United States v. R. 
+Enterprises, 498 U.S. 292, 297 (1991) (grand jury sub- 
+poenas need not be specific requests for relevant and ad- 
+missible information; “the Government cannot be required 
+to justify the issuance of a grand jury subpoena by pre- 
+
+
+37 
+
+
+senting evidence sufficient to establish probable cause be- 
+cause the very purpose of requesting the information is to 
+ascertain whether probable cause exists”). The court of 
+appeals’s standard would have precluded respondent's 
+prosecution here. Moreover, in practical effect, it puts 
+documents beyond the normal reach of a grand jury sub- 
+poena. Because the standard has no basis in the language 
+of the Fifth Amendment or the opinions of this Court, 
+and because it is inconsistent with the Court’s treatment 
+of virtually identical facts in Fisher, the decision of the 
+court of appeals cannot be sustained. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be vacated 
+and the case remanded to the district court for implemen- 
+tation of the plea agreement. 
+
+
+Respectfully submitted, 
+
+
+ROBERT W. RAY 
+Independent Counsel 
+PAUL ROSENZWEIG 
+Senior Litigation Counsel 
+DAVID G. BARGER 
+KARL N. GELLERT 
+Associate Independent Counsel 
+RONALD J. MANN 
+November 1999 Consultant 
+
+
