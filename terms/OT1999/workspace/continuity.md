@@ -1,14 +1,14 @@
 # OT1999 Term Continuity Note
 
-Records control over this cumulative projection. 71 Court events and 4 admitted nonjudicial sources are covered; Fiore remains open after certification. Weeks v. Angelone is remanded on the sentencing-response claim.
+Records control over this cumulative projection. 72 Court events and 4 admitted nonjudicial sources are covered; Fiore remains open after certification. Weeks v. Angelone is remanded on the sentencing-response claim.
 
 ## Scope and Chronology Cursor
 
 The opening [Holdings volumes](../../../state/holdings/), synchronized [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md) are the OT1998-close set: processed through June 23, 1999. They remain unchanged. Current-term Records supplement that baseline from their effective dates. [Court Composition](../../../foundation/COURT_COMPOSITION.md) controls the roster and allotments.
 
-71 Court events are completed: 60 through chunk 5 and 11 in chunk 6. Four nonjudicial sources retain their own effective provisions. The chronology cursor is 2000-05-22. Uncoordinated same-day decisions share entering law and operate together only prospectively. No institutional change is entered.
+72 Court events are completed: 60 through chunk 5 and 12 in chunk 6. Four nonjudicial sources retain their own effective provisions. The chronology cursor is 2000-05-22. Uncoordinated same-day decisions share entering law and operate together only prospectively. No institutional change is entered.
 
-The next unresolved scheduled item is United States v. McIver on 2000-05-15. Fiore, the fourteen opening carryovers, and the existing bounded remands retain their recorded stages. The completed chunk-six events retain each mandate and scope limit stated below.
+The next unresolved scheduled item is Ohler v. United States on 2000-05-22. Fiore, the fourteen opening carryovers, and the existing bounded remands retain their recorded stages. The completed chunk-six events retain each mandate and scope limit stated below.
 
 ## Completed Events and Admitted Sources
 
@@ -85,6 +85,7 @@ The next unresolved scheduled item is United States v. McIver on 2000-05-15. Fio
 | 2000-05-15 | [Fischer v. United States](../records/fischer-v-united-states_merits_2000-05-15.md) | Affirmed, 7–2, on the federal-benefits question. |
 | 2000-05-15 | [Johnson v. United States](../records/johnson-v-united-states-99-5153_merits_2000-05-15.md) | Affirmed, 7–2, under former §3583(e)(3). |
 | 2000-05-15 | [Public Lands Council v. Babbitt](../records/public-lands-council-v-babbitt_merits_2000-05-15.md) | Affirmed unanimously on all three presented statutory-authority questions. |
+| 2000-05-15 | [United States v. McIver](../records/united-states-v-mciver_merits_2000-05-15.md) | Affirmed, 7–2, on the reviewed attachment objection; no separate public-road monitoring disposition. |
 | 2000-05-15 | [United States v. Morrison / Brzonkala v. Morrison](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md) | Affirmed in both dockets, 5–4; neither asserted power sustains the presented private-assault action. |
 | 2000-05-22 | [Geier v. American Honda Motor Co.](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md) | Affirmed, 5–4, on the presented general no-airbag theory; express preemption rejected and independent actual-conflict analysis preserved. |
 | 2000-05-22 | [Jones v. United States](../records/jones-v-united-states_merits_2000-05-22.md) | Section 844(i) conviction reversed, 9–0; remanded for entry of acquittal on that count and lawful disposition of actual dependent consequences within procedural scope; constitutional question reserved. |
@@ -3036,6 +3037,95 @@ The [Taylor Grazing Act, 43 U.S.C. §§315–315c](https://www.govinfo.gov/conte
 
 The [published record account](https://www.law.cornell.edu/supct/html/98-1991.ZO.html) supports the review posture and the agency's representation concerning retained preference. That representation is not a finding that every future reduction complies with the Act. No individual improvement, reliance loss or applicant qualification is adjudicated.
 
+### United States v. McIver — 2000-05-15
+
+[Record](../records/united-states-v-mciver_merits_2000-05-15.md)
+
+#### Judgment & Remedy
+
+**Affirmed, 7–2.**
+
+**Supporting:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+**Opposing:** Stone-Zsela and Stevens.
+
+The seven supporting Justices reject both the search and seizure challenges to the attachment on this record. Stone-Zsela would reverse the judgment in part insofar as affirmance of the conviction rests on the no-search ruling and remand; he does not decide the seizure application. Stevens would vacate the installation-based ruling sustaining the conviction and remand on his seizure ground; he reserves the independent search theory. These are distinct dissenting dispositions, not a common rationale or a joint remand instruction.
+
+The Court orders no remand, suppression, new trial or special evidentiary proceeding. Other matters outside the reviewed attachment objection retain their existing status. There is no separate monitoring judgment.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion: both attachment holdings and their preservation, record and remedial limits |
+| Dissent | Stone-Zsela | No other Justice | Would reverse in part and remand on the attachment-as-search ground | Own writing only; no seizure application or separate monitoring disposition |
+| Dissent | Stevens | No other Justice | Would vacate and remand on the attachment-as-seizure ground | Own writing only; independent search theory reserved |
+
+Neither dissent joins any part of the Court's opinion or the other dissent. Agreement that independent monitoring is not reached does not change those joins.
+
+#### Holdings
+
+##### External attachment and the search inquiry
+
+**Holding and operative rule:** Attaching these devices to the exposed exterior of McIver's vehicle was not a search: the supported installation acquired no concealed information from the vehicle or a protected place, and the later ordinary public-road movements were exposed to observation. Investigative purpose and physical attachment alone do not establish a search on this record; the rule does not authorize interior installation, examination of concealed contents or acquisition of private-location information.
+
+**Authority:** O'Connor's Opinion of the Court, joined in full by Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. These seven adopt both attachment holdings and all stated limits. Stone-Zsela rejects this search holding; Stevens reserves the search theory. No fractured-decision synthesis is needed.
+
+**Controlling explanation:** Katz protects privacy retained even in a publicly accessible setting. Bond applies that principle to exploratory squeezing that reveals the concealed contents of closed luggage, and Pinson applies it to technological acquisition of concealed domestic information. Neither makes investigative purpose, equipment or every physical contact sufficient. The installation here examined no closed contents and obtained no otherwise concealed information from the effect.
+
+McIver's objection distinguishes looking at an exterior from using another person's vehicle as an investigative instrument. That difference must be examined, but it does not supply the missing acquisition of protected information. Hicks and Bond involved physical examination that revealed information beyond what ordinary observation or contact exposed. They do not establish a rule that this attachment itself is a search.
+
+Karo's installation occurred with the then-owner's consent before transfer, so it does not directly resolve attachment to an existing owner's vehicle without consent. Its separation of technological potential from actual acquisition of private information nevertheless supports the distinction here. Class recognizes that entering a vehicle interior is a search even when the VIN itself is public; its confined reasonableness ruling supplies no general installation authority. Cardwell's four-Justice exterior-examination rationale, resting on probable cause, likewise supplies no universal majority rule for external manipulation.
+
+The conceded noncurtilage location avoids a residential-entry question. Knotts supplies the existing public-travel context, not a new monitoring adjudication. Interior access, concealed information, prolonged aggregate surveillance and protected-premises entry remain outside this holding.
+
+##### External attachment and the seizure inquiry
+
+**Holding and operative rule:** A seizure requires meaningful interference with possession, control or use, even when no privacy interest is invaded. The unwanted installation and use of these small external devices did not meet that threshold on the established record: it neither displaced McIver's possession nor impaired his use, control or the vehicle's mechanical operation; damage or dispossession is not indispensable to every seizure.
+
+**Authority:** The same seven-Justice Opinion of the Court. Stevens rejects this application; Stone-Zsela states the meaningful-interference standard but does not apply it to this record and supplies no additional vote for the Court's no-seizure holding.
+
+**Controlling explanation:** Jacobsen supplies the meaningful-interference requirement. Soldal establishes that possession has protection independent of privacy and that the absence of a search cannot dispose of a seizure claim. The Court therefore examines the attachment's actual effect on McIver's control separately from the information it acquired.
+
+The strongest contrary argument is that an owner retains the right to exclude an unwanted government instrument even from an exposed exterior. The Court recognizes that interest. It does not equate every unauthorized occupation of space, however, with meaningful constitutional interference. Karo rejected that automatic equivalence in addressing an unwanted beeper's presence. Its original-owner-consent setting differs, but absence of consent here does not itself establish that the supported interference was meaningful.
+
+Officers attached two magnetized devices, including an antenna under the bumper cover. The GPS's failure did not establish that the vehicle failed or suffered damage. The record establishes no deprivation of driving use or comparable impairment of control. Possible mechanical or electrical danger is not a finding of actual impairment. On this degree of attachment and use, the appropriation argument does not satisfy the governing threshold.
+
+This conclusion does not make injury or dispossession a mandatory element, treat an automobile as unprotected property, or decide a materially different alteration or interference. Because the attachment was neither a search nor a seizure, the Court does not decide whether a warrant exception, independent source or harmlessness could sustain the conviction if an unlawful installation were established.
+
+##### Limits of review and relief
+
+The Court does not reach the independent lawfulness of public-road monitoring. McIver affirmatively declined that challenge below, the Court of Appeals did not decide it, and the grant alone does not renew it. All nine Justices observe that limit in their respective writings; the Court's preservation account is adopted by the seven who join its opinion. This is no separate merits holding that the monitoring was lawful.
+
+Knotts remains existing law at its actual scope. The concession to ordinary public-road observation does not establish that information obtained through the attached devices had a source independent of the attachment. The Court's lawful-attachment holdings make tracker causation and remedy unnecessary to decide; it does not adopt the lower concurrence's harmlessness conclusion. No installation probable cause, automobile exception, suppression consequence or new evidentiary opportunity is adjudicated. The ungranted camera-surveillance, evidence, instruction, sufficiency and sentencing questions, the dismissed possession count, and any independent claim of Eberle remain outside this judgment.
+
+#### Precedent Treatment
+
+- **Katz v. United States:** Applied to the distinction between exposed information and retained privacy; it does not make every purposeful physical contact a search.
+- **United States v. Karo:** Its consent-before-transfer installation is distinguished from this installation. Its separation of potential monitoring from acquired private information and its meaningful-possession analysis are applied by analogy; the Court does not treat its different installation facts as a direct resolution or overrule it.
+- **United States v. Jacobsen:** The meaningful possessory-interference standard is applied independently of the privacy inquiry; the standard is unchanged.
+- **Soldal v. Cook County:** Its independent protection of possession is applied. Its home-removal holding is not extended to make every unwanted attachment a seizure.
+- **Bond v. United States:** Its protection against exploratory examination of concealed luggage contents is distinguished from this attachment, which acquired no concealed contents. Its objective information-acquisition boundary remains in force.
+- **United States v. Pinson:** Its protection of concealed domestic information is distinguished; it supplies no universal equipment-use or attachment rule.
+- **Arizona v. Hicks:** Its distinction between observation and additional physical acquisition of concealed information is preserved; it does not itself decide this installation.
+- **New York v. Class:** Its interior-entry search holding and confined justification are preserved; publicity of the VIN is not general authority for physical intrusion or device installation.
+- **Cardwell v. Lewis:** The four-Justice exterior-examination rationale is recognized at its actual authority and probable-cause setting; it is not adopted as a universal majority rule.
+- **United States v. Knotts:** Its ordinary public-travel rule remains existing law. The Court neither expands it to all tracking nor enters an independent monitoring judgment.
+- **Pennsylvania v. Labron / Pennsylvania v. Kilgore:** The automobile exception, including its rejection of an additional exigency requirement, is left unchanged; it is not applied to justify this installation.
+
+No earlier decision is overruled. Chapman and Neder inform Stevens's proposed remedy only; this decision makes no Court holding about constitutional harmlessness.
+
+#### Law After Decision
+
+Effective May 15, 2000, the Court resolves this nonconsensual external installation under the separate search and seizure inquiries. On the supported record it acquired no concealed information at installation and caused no meaningful interference with possession. Neither exposure of an exterior nor lack of damage is a universal answer to every installation, search or seizure claim.
+
+The decision adds this bounded application without changing the governing protection of concealed information, independent possession or the automobile exception. Knotts remains in force, and no general rule about prolonged aggregate surveillance, private-location information or future tracking technology is adopted. The causal independence of observations and the consequences of an unlawful attachment remain undecided. The two dissents supply no controlling attachment rule or remand obligation.
+
+#### Source Notes
+
+The complete [Ninth Circuit opinion and Kleinfeld concurrence](https://law.resource.org/pub/us/case/reporter/F3/186/186.F3d.1119.98-30146.98-30145.html), cross-checked against the [reporter text](https://static.case.law/f3d/186/cases/1119-01.json), support the installation facts, express monitoring concession, conviction and lower grounds. The grant and submission dates are the established calendar dates for this review; no additional Supreme Court docket number or argument date is supplied.
+
+The published opinion gives September 23 in its installation narrative and September 22 in its later affidavit account. Neither date is selected here; the difference does not affect the holding. The source describes two devices on one vehicle and the GPS failure, not proved mechanical injury to the vehicle. Original suppression transcripts, affidavits and Supreme Court merits papers are not separately available in the source record; their contents are established only to the extent recited in the published opinion. This limit supplies no finding of litigant default or missing evidence in the court file.
+
 ### United States v. Morrison / Brzonkala v. Morrison — 2000-05-15
 
 [Record](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md)
@@ -3805,6 +3895,24 @@ The dissent confronts the Court's dual-beneficiary argument: genuine institution
 
 [Record](../records/public-lands-council-v-babbitt_merits_2000-05-15.md)
 
+### United States v. McIver — 2000-05-15
+
+**Chief Justice Stone-Zsela, dissenting, with no joins.** He would reverse the Court of Appeals' judgment insofar as affirmance of McIver's conviction rests on the determination that attachment was not a search, and remand. The Fourth Amendment protects effects as well as privacy: deliberately attaching a government tracking device to a person's vehicle to obtain information physically occupies the effect for investigation and is a search requiring a warrant or recognized exception. Observing what is exposed does not authorize that purposeful physical occupation. His disagreement concerns the attachment itself, not an extension of the ordinary public-road observation rule.
+
+He separately states that seizure requires meaningful interference with possession, control or use, but does not apply that standard here. His search ground alone supports his disposition. He enters no independent monitoring disposition: McIver expressly declined that claim below, the Court of Appeals did not decide it, and nothing renews it here. Williams's pressed-or-passed-upon practice does not excuse an affirmative waiver; Lebron's recognition of discretionary consideration of a disavowed argument does not require deciding this unrenewed question against a party who does not dispute it.
+
+Knotts remains existing law. The monitoring concession does not establish independence of device-derived information from the attachment. His remand would address warrant or exception questions and ordinary causation and harmlessness within their lawful procedural scope. He orders neither automatic suppression nor a special evidentiary instruction. He reserves prolonged aggregate monitoring, attachment with valid consent or a warrant, and the seizure application; matters not reviewed retain their status.
+
+**Justice Stevens, dissenting, with no joins.** He would vacate the installation-based ruling sustaining the conviction and remand because installing and using an operational device on this existing owner's vehicle appropriated control of the effect. His Karo separate opinion explains why exclusion and control can be meaningfully impaired without damage or loss of driving use. The original-owner-consent distinction strengthens that ground here; he does not claim that Karo's majority already adopted his view. Soldal requires a possession inquiry independent of privacy. He reserves the separate search theory and does not reach the conceded independent monitoring issue.
+
+No warrant, consent or established installation exception justifies the seizure on this record. Labron/Kilgore does not create an extra exigency requirement, but its automobile rule does not automatically authorize continuing device installation or supply an unadjudicated probable-cause finding. Any genuinely preserved justification remains confined to its own established facts and procedural availability.
+
+His remand first separates evidence caused by the installation from evidence with an established independent lawful source. For constitutional taint actually admitted, Chapman requires the Government to establish beyond a reasonable doubt that the error did not contribute to the verdict. Strong other evidence alone does not settle that question. Neder supports bounded appellate harmlessness review without making its omitted-element analysis a universal test for evidentiary error. The truck-warrant ruling excised house-entry information, which does not necessarily remove tracking-derived information. Kleinfeld's contrary assessment of extensive independent surveillance is substantial but was not the lower majority's harmlessness holding.
+
+Stevens would confine review to the existing record and lawfully available issues, with no new opportunity to create missing independent-source or harmlessness proof. The conviction would survive this objection if lawful admissibility or harmlessness were established; otherwise admitted constitutional taint not proved harmless would require setting aside the affected conviction, permitting a new trial. He finds no evidentiary insufficiency and orders no automatic suppression, acquittal or unconditional new trial. These are his proposed consequences, not the Court's mandate.
+
+[Record](../records/united-states-v-mciver_merits_2000-05-15.md)
+
 ### United States v. Morrison / Brzonkala v. Morrison — 2000-05-15
 
 **Breyer, dissenting, joined by Stevens, Souter and Ginsburg.** The dissent would uphold the action under the Commerce Clause and reverse the power-based dismissal. Congress could rationally find that the regulated class of gender-motivated violence substantially obstructs participation in interstate labor, travel, education and service markets, and choose reasonable means against the conduct creating that obstruction. The inquiry would retain judicial review, substantiality, a rational class-wide relationship and reasonable means; it would not make a congressional label, national importance or any conceivable economic consequence conclusive.
@@ -3909,7 +4017,7 @@ Paul P., Rayphand/Torres, Steamfitters, Fraternal Order of Police, Richards, Str
 | 62 | North Carolina Right to Life, Inc. v. Bartlett | 2000-05-01 | Granted — to be heard on the merits. |
 | 63 | National Mining Association v. United States Department of the Interior | 2000-05-08 | Granted — to be heard on the merits. |
 | 64 | Saenz v. Heldenfels Brothers, Inc. | 2000-05-09 | Granted — to be heard on the merits. |
-| 69 | United States v. McIver | 2000-05-15 | Granted — to be heard on the merits. |
+| 69 | United States v. McIver | 2000-05-15 | Completed: affirmed on the attachment objection, 7–2; no remand or separate monitoring disposition. |
 | 75 | United States v. Barrett | 2000-05-22 | Granted — to be heard on the merits. |
 | 78 | Eisenberg v. Montgomery County Public Schools | 2000-05-30 | Granted — to be heard on the merits. |
 | 83 | Mixon v. Ohio | 2000-06-05 | Granted — to be heard on the merits. |
@@ -4190,7 +4298,7 @@ Recounted from actual signed plenary lead authors in Record opinion tables. Per 
 |---|---:|
 | Stone-Zsela | 7 |
 | Stevens | 7 |
-| O'Connor | 7 |
+| O'Connor | 8 |
 | Scalia | 7 |
 | Kennedy | 8 |
 | Souter | 8 |
@@ -4254,6 +4362,8 @@ The prior thirty-day reopening/abandonment language does not begin anew. No limi
 
 **Public Lands Council v. Babbitt — 2000-05-15.** The three challenged rules remain in effect within their stated limits. The mandate affirms the Tenth Circuit on the presented statutory questions and orders no new agency proceeding. The separate conservation-use invalidation is not disturbed. A later application must stand or fall on its own lawful procedural footing; this judgment revives no unpresented claim and supplies no new pending matter. [Record](../records/public-lands-council-v-babbitt_merits_2000-05-15.md)
 
+**United States v. McIver — 2000-05-15.** The Ninth Circuit judgment remains in force on McIver's reviewed attachment objection. The mandate implements affirmance through ordinary procedure; no remand or new evidentiary direction issues. Independent matters outside the grant retain their existing procedural status. No further nonroutine act in this Supreme Court proceeding is directed. [Record](../records/united-states-v-mciver_merits_2000-05-15.md)
+
 **United States v. Morrison / Brzonkala v. Morrison — 2000-05-15.** The constitutional dismissal of the presented private-assault claim remains in force in both consolidated matters. The mandate affirms without a new evidentiary inquiry, statutory rewrite or merits remand. The Court directs no action concerning the ungranted Title IX litigation, independent state remedies or hypothetical other applications. [Record](../records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md)
 
 **Geier v. American Honda Motor Co. — 2000-05-22.** The mandate affirms the D.C. Circuit's judgment at the scope of the presented general no-airbag theory. Dismissal of that theory remains effective; no further factual or agency proceeding is directed. Ordinary mandate procedure applies. The decision supplies no new pending matter or adjudication of an unpresented alternative claim. [Record](../records/geier-v-american-honda-motor-co_merits_2000-05-22.md)
@@ -4264,9 +4374,7 @@ The prior thirty-day reopening/abandonment language does not begin anew. No limi
 
 ## Blockers and Revalidation Needs
 
-**United States v. McIver:** Stone's approved supplement expressly reaches independent public-road monitoring and affirms that component under Knotts, but the validated record shows McIver expressly did not challenge monitoring below. No approved conditional branch governs that concession. Renewed approval must supply Stone's resulting merits reach and judgment/remedy; a proposed branch is awaiting the user's answer.
-
-Prior open-matter stages and carryovers remain as specified above. Repository-history verification and commit remain with the operator under the no-Git instruction.
+All twelve chunk-six matters are completed. Prior open-matter stages and carryovers remain as specified above. Repository-history verification and commit remain with the operator under the no-Git instruction.
 
 ## Source and Research Cutoff
 
