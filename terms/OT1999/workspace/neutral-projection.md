@@ -6079,25 +6079,9 @@ A membership change requires complete reallotment; circuits do not pass automati
 
 The standing referral practice remains effective from October 7, 1991, with the signed-explanation and certification requirements effective October 2, 1995. An inventory-listed request for interim relief is referred by the Circuit Justice to the full Court and decided by a majority of participating Justices. The Court's order names the presenting Circuit Justice. Referral permits necessary temporary individual action by the Circuit Justice or the substitute designated by the term-effective Rules while the Court considers the application. Each action receives short signed explanations, including the Circuit Justice's explanation at final disposition whether prevailing or dissenting, and each participating Justice's statement on each Court action deciding relief. The Chief or the Chief's substitute certifies issuance. Participation begins on the judicial oath date. Applications outside the inventory remain subject to ordinary Circuit Justice practice. Engine section 10 and Standing State section 3 supply the governing requirements. No covered interim-relief application has been decided in chunks 1 through 3.
 
-### Remaining opening grants
+### Opening grants and direct appeal completed
 
-Paul P., Rayphand/Torres, Steamfitters, Fraternal Order of Police, Richards, Strout and Browne have reached the completed decisions above. Completed merits matters leave this pending-grant list; the remaining grants retain their carried stages. No grant date, poll or rationale is invented.
-
-| Inventory row | Matter | Scheduled date | Carried stage |
-| --- | --- | --- | --- |
-| 49 | Reform Party of Allegheny County v. Allegheny County Department of Elections | 2000-04-10 | Granted — to be heard on the merits. |
-| 52 | Gillespie v. City of Indianapolis | 2000-04-17 | Granted — to be heard on the merits. |
-| 55 | Doe v. Rosenberg | 2000-04-24 | Granted — to be heard on the merits. |
-| 62 | North Carolina Right to Life, Inc. v. Bartlett | 2000-05-01 | Granted — to be heard on the merits. |
-| 63 | National Mining Association v. United States Department of the Interior | 2000-05-08 | Granted — to be heard on the merits. |
-| 64 | Saenz v. Heldenfels Brothers, Inc. | 2000-05-09 | Granted — to be heard on the merits. |
-| 69 | United States v. McIver | 2000-05-15 | Completed: affirmed on the attachment objection, 7–2; no remand or separate monitoring disposition. |
-| 75 | United States v. Barrett | 2000-05-22 | Granted — to be heard on the merits. |
-| 78 | Eisenberg v. Montgomery County Public Schools | 2000-05-30 | Granted — to be heard on the merits. |
-| 83 | Mixon v. Ohio | 2000-06-05 | Granted — to be heard on the merits. |
-| 89 | Bradley v. Arkansas Department of Education | 2000-06-12 | Granted — to be heard on the merits. |
-| 94 | Hawkins v. Freeman | 2000-06-19 | Granted — to be heard on the merits. |
-| 99 | Henerey v. City of St. Charles, School District | 2000-06-26 | Granted — to be heard on the merits. |
+All opening grants and the Rayphand/Torres direct appeal scheduled for October Term 1999 have completed review. No opening grant remains awaiting merits review. The separate unresolved matters retain the stages listed below.
 
 ### Opening pending matters retained
 
@@ -6107,7 +6091,7 @@ Paul P., Rayphand/Torres, Steamfitters, Fraternal Order of Police, Richards, Str
 | *In re Vey*, No. 96-8005 | Original habeas and alternative mandamus or prohibition requests pending. | Unscheduled; no chunk or event date supplied. | Decision Record, April 14, 1997. |
 | *Board of County Commissioners of Bryan County v. Brown*, No. 95-1100 | Restored to the calendar for reargument; merits pending. | Unscheduled; no chunk or event date supplied. | Decision Record, April 28, 1997. |
 | *Vey v. Clinton*, No. 96-8796 | Certiorari petition pending for separate consideration. | Unscheduled; no chunk or event date supplied. | Decision Record, June 9, 1997. |
-| *United States v. Alaska*, No. 84, Original | Implementing decree entered June 29; limited implementation jurisdiction retained. | Inventory row 104; chunk 9; 2000-06-29; one matter, not an additional entry. | Decision Record, June 19, 1997. |
+| *United States v. Alaska*, No. 84, Original | Implementing decree entered June 29; limited implementation jurisdiction retained. | Inventory row 104; chunk 9; 2000-06-29; one matter, not an additional entry. | [Implementing-decree Record, June 29, 2000](../records/united-states-v-alaska_decree_2000-06-29.md) |
 | *Brown v. Williams*, No. 97-5370 | Certiorari petition pending for ordinary consideration. | Unscheduled; no chunk or event date supplied. | *Brown v. Williams*, Decision Record, October 20, 1997. |
 | *Arteaga v. United States Court of Appeals for the Ninth Circuit*, No. 97-6749 | Certiorari petition pending at the post-fee stage. | Unscheduled; no chunk or event date supplied. | *Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson*, Decision Record, February 23, 1998. |
 | *Arteaga v. Wilson*; no separate Supreme Court docket supplied | Separate certiorari petition pending at the post-fee stage. | Unscheduled; no chunk or event date supplied. | *Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson*, Decision Record, February 23, 1998. |
