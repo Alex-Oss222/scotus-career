@@ -7,12 +7,14 @@
 | 2000-06-12 | Bradley v. Arkansas Department of Education | Merits decision | Immunity denial affirmed; ordinary IDEA proceedings on mandate. |
 | 2000-06-12 | Carter v. United States | Merits decision | Denied-instruction judgment affirmed; conviction and sentence undisturbed on this ground. |
 | 2000-06-12 | Pegram v. Herdrich | Merits decision | Amended ERISA fiduciary count to be dismissed on remand. |
+| 2000-06-12 | Ramdass v. Angelone | Plenary merits decision | Parole-information disposition vacated and remanded; rejection of the factual-ground rationale remains in place; no present sentence relief. |
 | 2000-06-12 | Reeves v. Sanderson Plumbing Products, Inc. | Merits decision | Verdict supported by sufficient evidence; remaining independent appellate issues may be considered within the stated limits. |
 | 2000-06-19 | Arizona v. California | Original-jurisdiction decision | Fort Yuma issues returned to the Master; approved settlements await implementing decree provisions. |
 | 2000-06-19 | Crosby v. National Foreign Trade Council | Plenary merits decision | Judgment affirmed; procurement injunction remains operative. |
 | 2000-06-19 | Hawkins v. Freeman | Plenary merits decision | Denial of the substantive-due-process habeas claim affirmed. |
 | 2000-06-19 | Miller v. French / United States v. French | Plenary merits decision | Both dockets reversed and remanded for termination proceedings and any supported application objection. |
 | 2000-06-19 | Santa Fe Independent School District v. Doe | Plenary merits decision | Both football-policy judgments affirmed at the official-mechanism scope. |
+| 2000-06-26 | Apprendi v. New Jersey | Plenary merits decision | Enhanced Count 18 sentence vacated; remanded for lawful disposition; pleas and convictions remain intact. |
 | 2000-06-26 | Dickerson v. United States | Plenary merits decision | Statement suppression restored at the stated scope; prosecution continues on remand. |
 
 ## Decisions and Dispositions
@@ -292,6 +294,127 @@ The [Records and Briefs collection for this docket](https://archive.org/details/
 The case returns to the lower courts for dismissal of the reviewed amended ERISA fiduciary count. The existing $35,000 malpractice judgment and matters outside this review remain undisturbed. The mandate imposes no new medical, disclosure, regulatory or plan-payment duty and grants no separate right to amend.
 
 **End of entry: Pegram v. Herdrich, Merits decision, June 12, 2000.**
+
+---
+
+### Ramdass v. Angelone, No. 99-7000
+
+Plenary merits decision, June 12, 2000
+
+#### Chronology and Posture
+
+Argued April 18, 2000. On writ of certiorari to the United States Court of Appeals for the Fourth Circuit, 187 F.3d 396 (1999), which reversed the District Court's sentencing relief, 28 F. Supp. 2d 343 (E.D. Va. 1998). The question concerns the opportunity to answer the State's future-danger case with accurate parole information when a separate guilty verdict awaited entry of judgment. The conviction and unrelated claims are outside this review.
+
+The Domino's robbery produced a guilty verdict and an eighteen-year recommendation on January 7, 1993, but judgment entered February 18. The Kayani capital jury returned its guilt verdict January 28, asked about parole during the penalty proceedings January 29, and recommended death January 30. The capital judge imposed sentence April 2, after the Domino's judgment, retaining power to choose life. The Pizza Hut judgments entered January 22 and supply one qualifying strike because they arose from a common transaction. Virginia treats the unentered Domino's verdict as insufficient to count under its three-strikes parole law.
+
+The State used the Domino's robbery, prior trial and false denial to support future danger. The jury asked whether Ramdass could receive parole before his natural death, and the court directed it not to concern itself with what happened afterward. Counsel's prediction that he would never leave prison remains part of the actual presentation. The federal parole-information claim received a state merits decision on November 4, 1994. The federal habeas application was filed February 14, 1997.
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+#### Judgment
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Adverse disposition of the parole-information claim, including the categorical no-error, section 2254(d)(1)-extension and Teague-extension grounds | Vacated and remanded, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Determine completed substantive adjudication, the actual protected opportunity, independent statutory availability, any material retroactivity question and, only if the preceding conditions permit relief, error effect |
+| Rejection of the District Court's unreasonable-determination-of-fact ground | Left in place, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Disagreement with Virginia's legal definition of conviction does not itself establish section 2254(d)(2) error |
+
+The judgment does not reinstate the District Court's sentencing order or vacate the sentence. It orders no present writ, new penalty proceeding, evidentiary hearing or other evidentiary command, deadline, release, stay or execution-related relief. The conviction and unrelated claims remain untouched. Denial on a properly supported independent ground remains available on remand.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg and Breyer throughout; O'Connor, Scalia, Kennedy and Thomas in Part I only | Five-Justice vacatur/remand; unanimous preservation of the factual-ground rejection | I: state-law definition, statutory applicability and cutoff, common statutory rules, and legal rather than factual classification; II: absence of entry is not conclusive; III: independent statutory and retroactivity inquiries; IV: bounded mandate and reserved effect inquiry |
+| Opinion concurring in part and dissenting in part | Kennedy | Scalia and Thomas throughout; O'Connor in Part II only | Joins Court Part I; would affirm denial of the parole-information claim | I: no constitutional error at the jury stage; II: independently reasonable state adjudication under section 2254(d)(1) |
+| Opinion concurring in part and dissenting in part | O'Connor | No other Justice | Joins Court Part I and Kennedy Part II; would affirm | Preserves the qualification for a legally foreordained ministerial entry and withholds the categorical no-error ground |
+
+Part I of the Court's opinion has nine direct supporters. Parts II–IV have five direct supporters. No fractured-decision inference supplies any holding. The Court adopts neither four-Justice general allocation of the statutory clauses discussed in Williams v. Taylor (Terry Williams).
+
+#### Holdings
+
+##### I. State-law conviction status and federal review remain distinct
+
+**Holding and operative rule:** Virginia's definition of a qualifying conviction governs whether the unentered Domino's verdict already counted under its parole statute. Disagreement with that legal definition is not an unreasonable determination of fact under section 2254(d)(2), and a disagreement about state law alone supplies no federal custody violation under section 2254(a).
+
+**Authority:** Part I of Justice Stevens's opinion, joined by all eight other Justices, supplies nine direct votes. The appellate rejection of the District Court's factual-ground rationale remains in place.
+
+**Controlling explanation:** The disputed dates are not converted into disputed facts by disagreement over their legal significance. Virginia may require entry before the verdict counts as a conviction; the federal court cannot redefine that state-law predicate. The distinct federal question is what truthful information due process requires in the capital proceeding. Accepting Virginia's definition leaves that question open. Williams v. Taylor (Terry Williams), which separates the statutory legal and factual inquiries, supports this distinction. The Court resolves no separately supported historical-fact dispute and creates no evidentiary-hearing entitlement under section 2254(e)(2).
+
+##### II. Absence of entry does not conclusively defeat the truthful-response claim
+
+**Holding and operative rule:** When the State places future dangerousness at issue, the absence of formal entry of judgment on a separate guilty verdict does not by itself defeat a claim that due process required a truthful account of that verdict's conditional parole consequence. A case in which substantive adjudication was complete and only entry remained may require that account; mere expectation of conviction, confidence in guilt or a favorable release prediction does not.
+
+**Authority:** Part II of Stevens's opinion, joined by Stone-Zsela, Souter, Ginsburg and Breyer, supplies five direct votes.
+
+**Controlling explanation:** Simmons protects an effective opportunity to answer the State's future-danger case with accurate information about the legal alternative to death. Gardner supplies the opportunity to explain material sentencing information; Skipper applies that protection to a future-danger argument. Allridge distinguishes a fixed legal consequence from a prediction that a parole board will decline release. A completed substantive adjudication awaiting entry may fall on the former side of that distinction, even though Virginia does not yet count the verdict as a conviction.
+
+The State used this robbery and its trial as evidence of future danger. Its lawful use of the conduct does not prove that a third conviction existed, but neither does the absence of entry settle whether a truthful conditional account was required. The opposing view would make formal timing conclusive without examining whether any substantive adjudication remained. The Court rejects that foreclosure, not Virginia's definition of conviction. Ramos permits truthful release-related information and supplies no authority for a materially misleading account of the available sentence.
+
+The record does not establish that substantive adjudication was complete. Rule 3A:15 preserved judicial power to set aside the verdict for trial error or insufficient evidence; that power proves neither an actual pending defect nor that every substantive question had ended. Later entry proves neither proposition retrospectively. A verdict facing a genuine unresolved merits issue is outside this rule. Any required account must state the conditional consequence of entry; it may not falsely state that Ramdass was already ineligible during the jury's deliberations. The Court decides no separate arbitrary-manipulation claim or separate claim concerning the April 2 judicial sentencing.
+
+##### III. Statutory eligibility and retroactivity require their own determinations
+
+**Holding and operative rule:** Amended section 2254(d)(1) applies to the February 14, 1997 application, and its constitutional-law benchmark is the holdings clearly established on November 4, 1994. The lower court's categorical treatment of the asserted completed-adjudication claim as necessarily an impermissible extension under section 2254(d)(1) and Teague cannot stand without examining that actual claim; neither statutory eligibility nor retroactive availability is established by today's remand.
+
+**Authority:** Part I's applicability, cutoff and common statutory propositions have nine direct supporters. Part III's rejection of the categorical statutory and Teague grounds, and its corresponding remand, have the five supporters of Parts II–IV.
+
+**Controlling explanation:** Williams v. Taylor (Terry Williams) requires independent work by the contrary-to and unreasonable-application clauses. Conflict with a governing legal rule can satisfy the first without identical facts, as can an opposite result on materially indistinguishable facts. Unreasonable application is an objective legal inquiry, and a rule's generality does not alone exclude it from clearly established law. These common holdings do not adopt either competing exclusive allocation of the clauses or a universal refusal-to-extend rule.
+
+Simmons, Gardner, Skipper and Ramos were available at the state merits decision. Whether those holdings govern the supported completed-adjudication claim, and whether Virginia contradicted or objectively unreasonably applied them, must be determined separately. Calling the claim practical ineligibility does not resolve the distinction between an adjudication completed except for entry and a predicted future adjudication. Conversely, an error in the appellate classification does not prove that either statutory clause permits relief. The state court may have reached an objectively reasonable result.
+
+O'Dell makes the confined effective-response protection available against Teague; it does not classify every proposed entitlement to predicted events as old. A claim within that protection receives its existing treatment. A materially different proposed rule requires its own finality and exception analysis if those questions become necessary. The Court adds no Teague exception and substitutes no retroactivity ruling for statutory eligibility. Allridge and O'Dell are present-law authorities, not constitutional holdings retroactively placed in the November 1994 benchmark. Williams supplies the present statutory construction without moving that benchmark.
+
+##### IV. The mandate returns unresolved predicates without awarding sentencing relief
+
+**Holding and operative rule:** The lower courts must determine whether the Domino's proceeding had reached a completed substantive adjudication with only entry remaining, whether the actual opportunity conveyed the required accurate information, whether section 2254(d)(1) permits relief under the November 4, 1994 holdings, and any material Teague question. Only if those conditions permit relief must the error's effect be decided; the Court enters no present writ or sentence relief and leaves rejection of the factual-ground rationale intact.
+
+**Authority:** Part IV of Stevens's opinion has the five direct supporters of Parts II–IV. All nine agree that disagreement with the state-law definition supplies no factual-ground relief.
+
+**Controlling explanation:** O'Dell distinguishes removal of a categorical bar from proof of actual eligibility, a denied effective opportunity and an operative writ. Weeks likewise keeps statutory eligibility separate from constitutional error and causal effect. The same separation governs here. Counsel's prediction, the jury's question, the court's response and the prosecution's use of the robbery belong to the actual presentation. Neither the refused response nor the prediction alone decides whether an effective opportunity existed, and the question does not establish the jurors' eventual reasoning.
+
+The Court makes no whole-record harm finding, adopts no structural-error classification, and chooses no standard, burden or treatment of uncertainty for this distinct collateral error category. Brecht, O'Neal, Roy and Calderon v. Coleman retain their own defined applications; their differing settings do not automatically supply a universal rule here. An available violation requires the applicable effect inquiry before relief. The return permits further judicial consideration, but compels no new evidence and reinstates no prior sentencing clock. The conviction, unrelated claims and independent lawful custody remain undisturbed.
+
+#### Precedent Treatment
+
+- **Simmons v. South Carolina:** Applies its effective-opportunity protection and clarifies that entry alone does not conclusively foreclose a truthful account of a completed adjudication's conditional consequence. Actual entitlement and effect remain unresolved; no false statement of present ineligibility is authorized.
+- **Gardner v. Florida:** Applies the right to explain material capital-sentencing information; it supplies the opportunity-to-answer foundation, not a present writ.
+- **Skipper v. South Carolina:** Applies the protection for rebutting a State future-danger case; its distinct mitigation holding remains intact.
+- **California v. Ramos:** Preserves truthful release-related information and distinguishes it from a misleading account of the lawful alternative; no guarantee against clemency or future legislation is required.
+- **Allridge v. Scott:** Preserves the distinction between fixed legal consequences and release predictions. It does not settle whether the Domino's substantive adjudication was complete and does not supply a constitutional holding dated before November 1994.
+- **O'Dell v. Netherland:** Applies its confined retroactivity protection and separation of that protection from actual predicates and relief. Neither its old-rule holding nor its alternative watershed holding creates a new exception for predicted future adjudications; its later date remains intact for statutory review.
+- **Williams v. Taylor (Terry Williams):** Applies the common holdings on independent clauses, governing legal rules, the state-decision cutoff and objective unreasonableness. Neither four-Justice exclusive general allocation becomes controlling here.
+- **Weeks v. Angelone:** Applies the separation of constitutional error, statutory permission and causal entitlement; no conditional separate-writing effect proposal becomes Court law.
+- **Teague v. Lane:** Preserves the distinction between dictated applications and new procedural rules and the applicable exception inquiry when material; it is not interchangeable with section 2254(d)(1).
+- **Brecht v. Abrahamson:** Preserves State-borne Chapman review for preserved Doyle error, where the prosecution uses silence after Miranda warnings to impeach the defendant; no automatic extension to this parole-information claim follows.
+- **O'Neal v. McAninch:** Preserves State-borne Chapman review for its preserved personal-intent instructional and prosecutorial-argument category; it does not establish a universal collateral-error standard.
+- **California v. Roy:** Preserves the extension to a preserved personal-intent omission without accompanying prosecutorial argument; it supplies no automatic capital-information extension here.
+- **Calderon v. Coleman:** Preserves State-borne Chapman review for its properly available capital-selection commutation-instruction claim and the distinction between error and actual effect; that defined extension does not decide this different parole-information category.
+
+#### Law After Decision
+
+As of June 12, 2000, a separate guilty verdict's lack of formal entry cannot alone foreclose a claim for an accurate conditional parole explanation when substantive adjudication was complete and only entry remained. This does not settle whether Ramdass satisfies that premise, whether he received an effective opportunity, whether the November 1994 state adjudication satisfies section 2254(d)(1), or whether an available violation warrants relief. The rule supplies no right to a favorable release forecast or a false description of existing legal status.
+
+Virginia's conviction definition remains binding as state law, and the rejected factual-ground route remains unavailable on mere legal disagreement. The statutory and retroactivity inquiries remain separate. No exclusive general allocation of the two statutory clauses, new retroactivity exception, universal error-effect rule, hearing entitlement or immediate sentencing remedy is adopted.
+
+#### Separate Positions Relevant to the Decision
+
+**Justice Kennedy, concurring in part and dissenting in part, joined by Justices Scalia and Thomas throughout and by Justice O'Connor in Part II.** All four join the Court's Part I. Kennedy's Part I would also reject the constitutional claim: Simmons concerns the legal alternative presented when the jury chooses punishment, and the unentered verdict did not yet make ordinary parole unavailable under Virginia law. A later judgment differs from clemency or legislation changing an existing disability. The State could rely on the robbery conduct without representing that a third judgment existed. Entry before capital judicial sentencing does not retrospectively alter the jury-stage alternative; no distinct claim concerning the later judicial proceeding is decided.
+
+Part II independently would deny relief under section 2254(d)(1). Simmons's actual-ineligibility premise, Gardner's adverse-information setting, Skipper's future-danger rebuttal and Ramos's state-law latitude permitted Virginia's distinction under the holdings available in November 1994. The remaining power to set aside the verdict differentiates this case from legally inevitable entry. This is an objective comparison, not a poll of judges or a requirement of identical facts. The dissent needs neither a Teague bar nor a causal-effect finding. It accepts Virginia's definition and rejects the District Court's factual characterization without finding an actual pending defect.
+
+**Justice O'Connor, concurring in part and dissenting in part.** She joins the Court's Part I and Kennedy's statutory Part II but not his categorical no-error ground. If state law had left only a legally foreordained ministerial entry, that formality could not defeat the protected function. High likelihood, eventual entry and absence of proof of a particular pending defect are not the legal inevitability that qualification requires. Rule 3A:15's surviving judicial authority supports the objective reasonableness of the state adjudication here. She would affirm on that independent statutory basis, without finding a violation, joining the remand or deciding every possible direct-review formulation.
+
+#### Source Notes
+
+The Fourth Circuit opinion, 187 F.3d 396, reproduced in the joint appendix at pages 399–401, supplies its distinct no-error, statutory-extension, Teague-extension and legal-classification grounds. The joint appendix at pages 57–59 and 81 supplies the use of the Domino's conduct and trial; pages 88–91 supply the parole inquiry and response. The state decision, Ramdass v. Commonwealth, 450 S.E.2d 360 (Va. 1994), and the docket chronology establish the November 4, 1994 merits date and February 14, 1997 federal filing.
+
+Virginia Code section 53.1-151(B1) concerns three qualifying offenses outside a common act, transaction or scheme. The separate drug provision's intervening-liberty conditions are not imported into that rule, and minimum-service provisions are not treated as permanent ineligibility. Rule 3A:15 establishes continuing postverdict judicial authority, not an actual pending substantive defect. Neither later entry nor counsel's unsworn account of unnamed jurors proves the unresolved completion or causal-effect questions. The Court decides those questions only to the extent stated in its holdings.
+
+#### Mandate, Remedy, and Stage
+
+The case returns to the Fourth Circuit for proceedings consistent with the bounded mandate. The adverse parole-information disposition and its specified categorical grounds are vacated; rejection of the state-law-as-fact rationale remains in place. Any operative sentence relief requires the supported constitutional predicates, statutory availability, resolution of any material retroactivity question and the applicable error-effect determination. No new penalty proceeding, evidence-taking requirement, deadline, release, stay or execution order issues from this judgment.
+
+**End of entry: Ramdass v. Angelone, Plenary merits decision, June 12, 2000.**
 
 ---
 
@@ -830,6 +953,116 @@ The Fifth Circuit's football-policy judgment remains in force at the stated offi
 
 ---
 
+### Apprendi v. New Jersey, No. 99-478
+
+Plenary merits decision, June 26, 2000
+
+#### Chronology and Posture
+
+Argued March 28, 2000. On writ of certiorari to the Supreme Court of New Jersey, reviewing 159 N.J. 7, 731 A.2d 485 (1999), which affirmed 304 N.J. Super. 147, 698 A.2d 1265 (1997).
+
+The question is whether a disputed fact about the present offense that authorizes punishment above the maximum supported by the admitted offense must be determined by a jury beyond a reasonable doubt. The final state judgment is reviewable under 28 U.S.C. section 1257(a). Apprendi's plea expressly preserved this enhancement challenge; it did not admit racial purpose or waive the reserved jury and proof claims. Whether, or in what form, a State must charge that fact is not decided.
+
+Apprendi pleaded guilty to firearm-possession-for-an-unlawful-purpose Counts 3 and 18 and anti-personnel-bomb Count 22. Count 18 carried an ordinary five-to-ten-year range. The judge's later finding of racial purpose by a preponderance authorized a ten-to-twenty-year range and produced twelve years on that count. The actual seven-year Count 3 term and three-year Count 22 term ran concurrently. Possible consecutive terms on other counts do not establish authority for the actual Count 18 sentence. Its four-year parole restriction came from the distinct Graves Act provision, not a four-year command in the challenged bias provision.
+
+The indictment alleged racial intimidation in dismissed harassment counts, but not as an aggravating element of Count 18. An allegation in a dismissed count is not an admission in the firearm plea. The officer's account of racial purpose was disputed by Apprendi and counterevidence; the judge's resolution was not a jury finding. The state high court considered the evidence sufficient to meet the amended purpose standard even though the sentencing judge had not articulated that standard. That appellate assessment neither supplies the missing jury determination nor opens a separate state-law articulation issue outside the question decided.
+
+All nine Justices participated at argument and decision.
+
+#### Judgment
+
+**Reversed in the challenged sentencing respect; enhanced Count 18 sentence vacated and remanded, 6–3.**
+
+**Supporting:** Stone-Zsela, Stevens, Scalia, Souter, Thomas and Ginsburg.
+
+**Opposing:** O'Connor, Kennedy and Breyer.
+
+The New Jersey judgment is reversed insofar as it sustains the twelve-year Count 18 sentence. The constitutional rule adopted here requires vacatur of that enhanced sentence. On the existing admitted offense, a sentence within the five-to-ten-year range is permissible. Any further proceeding must have a basis in state law and comply with the governing plea, notice, waiver, sufficiency and double-jeopardy rules; the Court neither orders nor authorizes a new aggravated prosecution or enhancement jury merely by remanding.
+
+The pleas and convictions remain intact. The Court orders no acquittal, withdrawal of the pleas, specific new sentence, consecutive restructuring, aggregate sentence or release. The separate Graves Act question is not decided; any parole consequence must follow the lawful sentence and that provision's own terms rather than automatic retention of the former four-year figure.
+
+#### Opinion Topology
+
+**Opinion of the Court.** Stone-Zsela writes for the Court, joined by Stevens, Scalia, Souter, Thomas and Ginsburg. Their agreement covers the present-offense maximum rule, jury and reasonable-doubt guarantees, application, limits and remedy in full and supports reversal, enhanced-sentence vacatur and bounded remand.
+
+**Concurrence.** Thomas joins the Court in full. His separate writing addresses a broader element principle, including punishment-range changes and prior convictions, with separate capital and Guidelines reservations. No other Justice joins it.
+
+**Dissent.** O'Connor, joined by Kennedy and Breyer, would affirm against the presented federal allocation/proof challenge. The dissent addresses the bounded legislative sentencing classification and objections to the maximum-based rule.
+
+**Dissent.** Breyer joins O'Connor's dissent and would affirm. His separate writing supplies additional sentencing-administration and proportionality grounds. No other Justice joins it.
+
+The six Justices joining the Opinion of the Court adopt its governing propositions at the same level of generality. Thomas's concurrence adds no controlling proposition. No partial join, judgment-only coalition or Marks synthesis supplies the Court's rule.
+
+#### Holdings
+
+##### Present-offense facts necessary for a higher maximum require element protections
+
+**Holding and operative rule:** Under the Sixth Amendment's jury guarantee, applied to the States through the Fourteenth Amendment, and the Fourteenth Amendment's Due Process Clause, a fact concerning the commission or consequences of the present offense that is legally necessary to authorize punishment above the maximum supported by the verdict or plea is an element. It must be admitted as an element or proved to a jury beyond a reasonable doubt; a sentencing label does not remove those requirements.
+
+**Authority:** Justice Stone-Zsela's Opinion of the Court, joined by Stevens, Scalia, Souter, Thomas, Ginsburg. Six direct rationale votes control the rule, both procedural guarantees, the Count 18 application and the bounded remedy. This is a new constitutional holding; the earlier statutory decisions did not establish it.
+
+**Controlling explanation:** Duncan makes the criminal jury guarantee applicable to the States; Winship requires proof beyond a reasonable doubt of the facts constituting the offense. Gaudin assigns determination of an actual element to the jury. The question here is the antecedent one: what constitutional consequence follows when the legislature makes an additional present-offense fact necessary for a higher maximum?
+
+The fact's legal operation answers that question. The admitted offense authorizes one range; the additional finding alone creates authority for greater punishment. Mullaney prevents a label from defeating protection for a fact essential to aggravated punishment. Patterson preserves legislative authority to define crimes, but that authority does not permit the State to prescribe a necessary aggravating condition and then remove it from the jury merely by placing it in a sentencing provision. This rule governs the law actually enacted, not a different law that could have prescribed a broader ordinary range.
+
+The State invokes the completed firearm offense, the tradition of considering motive, notice, adversarial sentencing and the prejudice racial-purpose evidence could cause. Those considerations do not establish who may find a fact that first supplies additional punishment authority. Judges may consider motive within existing authority; lawful procedures may address prejudice. Neither proposition makes this disputed aggravator an admitted element. Potential aggregate punishment on other counts likewise does not authorize twelve years on Count 18.
+
+Almendarez-Torres, Jones, Castillo and Carter identified aggravated elements by statutory construction and left this constitutional question open. Their method cannot rewrite New Jersey's authoritative construction. McMillan concerned a minimum without a higher maximum; Witte and Watts concerned sentencing within conviction-based authority; Monge decided a bounded prior-conviction double-jeopardy question. None resolves this present-offense increase. Apprendi admitted an offense carrying at most ten years. The judge's contested preponderance finding cannot support twelve, so the enhanced sentence must be vacated.
+
+**Application and remedial limit:** The plea's express reservation permits this claim; knowledge of possible exposure and admission of an unlawful purpose to frighten or harass do not admit the additional racial purpose. The lower court's view of strong evidence supplies neither an admission nor a jury verdict. The judgment sustaining the enhanced term is reversed and the term vacated, with the limited remand stated in the Judgment section. This application adopts no universal structural-error classification and does not automatically extend Neder's qualified materiality-error inquiry to every sentencing aggravator or plea defect.
+
+**Questions not reached:** Facts of prior conviction are not decided; there is no constitutional prior-conviction exception in this holding. Whether, or in what form, a State must charge a covered fact is not decided, and the Fifth Amendment's grand-jury clause is not applied to the States. The federal charging consequences of the earlier statutory decisions remain intact. Judicial factfinding within punishment already authorized by the conviction remains permissible. Unchanged-maximum mandatory minima, general consecutive-sentence rules, capital eligibility or selection, and materially different sentencing systems, including general Guidelines classifications, remain outside this decision. McMillan and Walton are not overruled. No valid waiver of the reserved claim occurred here; any distinct lawful-waiver question retains its own requirements.
+
+#### Precedent Treatment
+
+- **Duncan v. Louisiana:** Supplies application of the criminal jury guarantee to state prosecutions; the present rule identifies the additional fact that receives that guarantee.
+- **In re Winship:** Supplies the reasonable-doubt protection for offense facts; that burden now governs the covered maximum-increasing present-offense fact.
+- **United States v. Gaudin:** Applies once the constitutional element is identified; the jury must determine that element, while Gaudin alone did not decide this antecedent classification.
+- **Mullaney v. Wilbur:** Supports examination of the fact's legal role rather than its label when necessary facts determine aggravated punishment.
+- **Patterson v. New York:** Preserves legislative definition of substantive offenses without permitting a label alone to transfer a covered aggravating element away from the jury.
+- **Almendarez-Torres v. United States:** Preserves its aggravated-reentry statutory construction and federal charging consequences; neither a general constitutional maximum rule nor a constitutional recidivism exception is attributed to it.
+- **Jones v. United States**, No. 97-6203: Preserves its construction of aggravated carjacking grades and associated federal element protections; the constitutional issue reserved there is decided here only at the present-offense scope.
+- **Castillo v. United States:** Preserves the statutory element treatment of the former firearm-type aggravators; it is an analogue, not an earlier constitutional holding.
+- **Carter v. United States:** Preserves its statutory value-element and distinct offense-comparison holdings; it does not supply a prior constitutional answer or a state charging rule.
+- **McMillan v. Pennsylvania:** Distinguished because its minimum left the maximum unchanged; that holding is not overruled.
+- **Witte v. United States:** Preserves ordinary sentencing consideration within punishment authorized by the conviction; it supplies no additional maximum here.
+- **United States v. Watts / United States v. Putra:** Preserves its within-authority sentencing operation; the Court does not extend it to the fact that first authorizes a higher maximum.
+- **Monge v. California:** Preserves its bounded noncapital prior-conviction double-jeopardy classification and reservations of independent charging, jury and proof questions; it supplies no rule for this nonrecidivist fact or automatic authority for a further proceeding.
+- **Neder v. United States:** Preserves its qualified actual-verdict inquiry for the materiality errors it decided; strong evidence does not supply an actual admission here, and no universal sentencing-error rule is adopted.
+- **Walton v. Arizona:** Leaves its capital rule undisturbed; the present noncapital decision does not resolve its relation to the broader constitutional theories in separate writings.
+
+#### Law After Decision
+
+Effective June 26, 2000, the constitutional jury and reasonable-doubt protections apply to a fact about commission or consequences of the present offense that the law makes necessary for punishment above the verdict- or plea-supported maximum. Before this decision, Almendarez-Torres, Jones, Castillo and Carter supplied statutory element holdings while reserving that constitutional question; Gaudin supplied allocation after element classification. The Court now adds the constitutional classification at the stated scope.
+
+The element must be admitted as an element or proved to a jury beyond a reasonable doubt. State charging requirements, prior-conviction facts, unchanged-maximum minima, general consecutive-sentence rules, capital sentencing and materially different sentencing systems remain undecided here. The rule creates no prior-conviction exception, leaves federal statutory charging holdings intact, and preserves judicial factfinding inside existing punishment authority. The Count 18 sentence is vacated under the new rule without withdrawing the plea or prescribing a further prosecution. Thomas's broader principle and the dissents are noncontrolling.
+
+#### Separate Positions
+
+**Thomas, concurring.** Thomas joins the Court's rule and remedy in full but adopts a broader principle: a fact that the law makes necessary to increase the kind, degree or range of punishment is an element of the aggravated crime. His common-law account draws on the treatment of value and grading in Smith, Hope, Larned, McDonald and Lacy and on Archbold's and Bishop's description of legally aggravated offenses. Those authorities concerning accusation help identify the offense to which jury and proof safeguards attach; he does not infer federal grand-jury incorporation against a State.
+
+The principle includes legally aggravating prior convictions and mandatory-minimum facts. A prior adjudication's validity and the lawful manner of proving or admitting its existence remain separate; adequate admissions, stipulations or lawful bifurcation may avoid prejudicial detail. He acknowledges that his earlier Almendarez-Torres dissent relied on the special prior-adjudication setting, and now concludes that this distinction does not categorically remove a fact's element status when the law uses it to enlarge punishment. His earlier statutory joins did not already decide that constitutional point. His view of minima conflicts with McMillan's contrary reasoning, but this case does not overrule McMillan.
+
+Thomas distinguishes lawful discretion inside an established range and facts mitigating an already authorized punishment. He reserves the capital question in light of its distinct constitutional structure, general Guidelines implications, limits on within-range discretion and legislative authority to prescribe broad ranges. He accepts the narrower present-offense holding as sufficient here. No other Justice joins this concurrence, and its broader conclusions do not control.
+
+**O'Connor, joined by Kennedy and Breyer, dissenting.** The dissent would sustain the challenged allocation under the legislature's bounded authority to distinguish an offense from sentencing considerations. Patterson preserves a substantive legislative role; Gaudin governs an element after it has been identified. The guilty plea establishes a complete serious firearm offense, motive traditionally informs sentencing, and the general enhancement provision combines a defined criterion with notice and adversarial inquiry. These features, in the dissent's view, permit the particular racial-purpose classification without granting unlimited power to relabel ordinary offense elements.
+
+The dissent accepts that this statute raises the maximum and therefore cannot be resolved merely by citing McMillan, Witte or Watts. Almendarez-Torres and Jones supply no constitutional holding sustaining it. Its conclusion instead rests on the merits of the legislative allocation. Notice and a hearing would not replace the jury if the fact were an element; the disagreement is its constitutional classification. The dissent objects that a legislature could enact a broad maximum and permit extensive judicial discretion, yet the Court forbids a more specifically guided increase. Walton presents a substantial tension because its factual aggravator bears on death eligibility, but no capital ruling is sought here. The dissent relies on neither hypothetical aggregate punishment, a fictional plea admission nor harmlessness, and would affirm only against the federal allocation/proof claim presented.
+
+**Breyer, dissenting.** Breyer also joins O'Connor's dissent and separately emphasizes proportionality and workable sentencing. Legislatures and judges need to account for varied offense and offender circumstances. He does not find a constitutionally decisive difference between broad judicial discretion under a high ceiling and narrower, legislatively guided discretion that adjusts a ceiling. A rigid maximum boundary may encourage broad ranges or mandatory minima without improving defendants' practical protection. Those concerns do not answer every jury objection or validate every label; he would sustain this defined scheme attached to a completed serious offense. He recognizes the real additional exposure and disputed purpose, but regards the bounded legislative classification as permissible. He adopts no universal conclusion about every Guidelines system and seeks no remedy beyond affirmance of this challenged judgment.
+
+#### Source Notes
+
+The January 19, 1995 indictment, joint appendix pages 2–12, identifies the 23 counts and the dismissed racial-intimidation allegations; pages 19–24 establish the plea and reservation. The petition appendix preserves the judgments below and their separate grounds; the merits briefs and appendix preserve the contested purpose evidence and the punishment imposed. These materials are collected in the [record and briefs](https://archive.org/details/micro_IA40385014_0338). The authoritative New Jersey construction is that stated in 159 N.J. 7, 731 A.2d 485 (1999). The lower court's assessment of the amended statutory standard is distinguished from the trial judge's articulation, and neither is a jury verdict or admission. No independent state charging or statutory-articulation claim is decided.
+
+#### Mandate, Remedy, and Stage
+
+The enhanced Count 18 sentence is vacated. The case returns to the New Jersey courts for lawful disposition consistent with the new constitutional rule. A sentence within the existing admitted offense's five-to-ten-year range is permissible; any different further proceeding depends on state law and the governing plea, notice, waiver, sufficiency and double-jeopardy rules. The Court sets no new trial, jury hearing, filing deadline or release date. The underlying pleas and convictions remain, and the separate parole provision retains its own lawful operation. Supreme Court review of the presented question is complete.
+
+**End of entry: Apprendi v. New Jersey, Plenary merits decision, June 26, 2000.**
+
+---
+
 ### Dickerson v. United States, No. 99-5525
 
 Plenary merits decision, June 26, 2000
@@ -936,9 +1169,3 @@ The case returns to the lower courts for ordinary continuation of the prosecutio
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Ramdass v. Angelone | Stone revalidation is required for an AEDPA-compatible disposition: the section 2254(d)(1) ground against November 4, 1994 law, supported application to the outstanding verdict, and the applicable error-effect standard, burden and remedy remain unspecified. No revised authorization has been received. |
-| Apprendi v. New Jersey | Renewed approval is required for the necessary new constitutional basis and state charging scope; these are not authorized by an applicable conditional branch. The actual prior decisions reserved the general constitutional sentencing rule. |
