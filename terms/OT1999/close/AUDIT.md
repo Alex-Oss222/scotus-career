@@ -1,80 +1,74 @@
 # October Term 1999 - Confirming Close Audit
 
-Audit date: November 3, 2026. Scope: the staged close through June 29, 2000; all 104 Court events and five Admitted Source Records in nine chunks. Repair reviewed: `af1039e1`.
+Audit date: November 3, 2026. Scope: the staged close through June 29, 2000, comprising 104 Court events and five Admitted Source Records in nine chunks. Repair reviewed: `4ea38c07`.
 
-**Result: not ready for Close Commit.** F1 and F2 are closed. The deterministic checks pass. The fresh legal-substance review is complete and finds one remaining attribution discrepancy, F3 (Low), described below. No additional defect in votes, coalitions, controlling rules, remedies or proposed tracker substance was found. This audit changes no adjudication or projection.
+**Result: ready for Close Commit. Unresolved discrepancies: none.** F1, F2 and F3 are closed. The deterministic checks pass, and the affected legal-substance review is clean. The prior completed full-term legal review remains applicable to the unchanged adjudications and candidates.
 
-## Sequence, authority and limits
+## Authority, sequence and scope
 
-The permitted `python tools/check_term.py OT1999` ran first and passed with one warning. The remaining deterministic checks passed before the fresh legal review began. The previous AUDIT expressly stopped before legal-substance review; this re-audit therefore performed that review across the entire term rather than assuming an earlier clean certification.
+The permitted `python tools/check_term.py OT1999` ran first and passed with one nondefect warning. The remaining deterministic checks completed before the fresh affected legal review. Records controlled; renders were cross-checks. This confirming audit does not claim to have repeated the prior full-term source research or comprehensively crawled external URLs.
 
-The checker warning concerns the hexadecimal document identifier in the Mixon Record's CaseMine source URL, at lines 168 and 284. That value is a document identifier, not a claimed provenance commit. It requires no Record correction. Read-only `git cat-file` lookups verified the repair commit, its parent and relevant blobs. No other independent Git command was run; commitment remains with the operator.
+The warning concerns the hexadecimal document identifier in the Mixon Record's CaseMine URL, at lines 168 and 284. It is a source document identifier, not a provenance commit. The broader internal-reference scan also distinguished a statutory-code token from a commit; every actual referenced commit checked exists. No Record correction is warranted by either token.
 
-The deliberate omission of GitHub repository URLs from published trackers is not a defect. Unresolved relative navigation within frozen and entering-law source copies is excluded as directed; those copies are not rewritten. External URLs were not comprehensively crawled. Targeted source checks were used where the legal review required them. No forbidden directory or filename was opened, listed or searched. Only this audit file is written, preserving its CRLF line endings and UTF-8 encoding without a BOM.
+The user's standing directions govern this review: published trackers deliberately omit GitHub repository URLs; source navigation preserved within freeze/ and entering-law/ copies is exempt from close-link defects; and seamless corrections require no correction note, receipt or correction lineage. The previous audit's proposed correction-metadata step is superseded by that direction and is not a remaining requirement. No forbidden directory or filename was read, listed or searched. Git use was limited to the permitted checker and read-only `git cat-file` lookups.
 
-## Verification of the previous repairs
+## Repair verification
 
-### F1 - Closed - Completed opening matters removed from the current pending list
+### F1 - Closed - Completed opening matters
 
-Both `terms/OT1999/workspace/continuity.md:6082` and `terms/OT1999/workspace/neutral-projection.md:6082` now identify the opening grants and direct appeal as completed. Their paragraph at line 6084 records that all opening matters scheduled for OT1999 completed review. The former pending list is gone. All 24 opening matters reconcile to dated completed Records and the manifest; none is erroneously carried as awaiting merits review. The separate unresolved-matters list remains intact and agrees with the Standing State candidate.
+Both `terms/OT1999/workspace/continuity.md:6082` and `terms/OT1999/workspace/neutral-projection.md:6082` identify the opening grants and direct appeal as completed. Their paragraphs at line 6084 preserve the separate unresolved matters without recreating pending merits review. All 24 opening review matters map to completed manifest Records and are absent from the next-term pending docket.
 
-### F2 - Closed - Alaska's present decree stage has the current authority
+### F2 - Closed - Alaska decree authority
 
-The Alaska row at `terms/OT1999/workspace/continuity.md:6094` and `terms/OT1999/workspace/neutral-projection.md:6094` now cites the implementing-decree Record of June 29, 2000. Both links resolve. The entered-decree stage and limited implementation jurisdiction agree with the decree, the manifest and the Standing State candidate; no new title question is invented.
+The Alaska row in each workspace projection, at line 6094, cites the June 29, 2000 implementing-decree Record. Both links resolve. The entered-decree stage and limited retained implementation jurisdiction agree with the Record, manifest and Standing State candidate. The completed decree is not mistaken for an outstanding direction to prepare one.
 
-Within OT1999, repair commit `af1039e1`, whose parent is `1fccb3dff523c67c679ebc14173c6fad839c802d`, changes only `workspace/continuity.md`, `workspace/neutral-projection.md` and `workspace/manifest.md`. Their working bytes match the repaired blobs. The manifest's related carried-grant and Alaska stage updates agree with the completed Records. Its introductory explanation preserves the historical opening-stage function of the remaining dependency columns; those columns do not override the completed status or recreate a pending matter. Records, Render Inputs, renders, frozen handoffs, entering-law copies and close candidates were unchanged by that repair.
+### F3 - Closed - Gillespie attribution in Morrison
+
+Every identified occurrence now names Gillespie v. City of Indianapolis:
+
+- `terms/OT1999/records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md:87` and line 215.
+- `terms/OT1999/render-inputs/OT_1999CHUNK6.md:900`.
+- `terms/OT1999/output/OT_1999CHUNK6.md:895`.
+- `terms/OT1999/workspace/continuity.md:3223`.
+- `terms/OT1999/workspace/neutral-projection.md:3223`.
+
+The Holdings candidate already used the correct caption at line 3205 and remains unchanged. Repair commit `4ea38c07`, compared with its parent `d6bd70279dd4166de3108013130d558fca580b41`, changes exactly these six caption occurrences in five OT1999 files. The comparison found no other textual change, changed vote, changed legal ground, changed remedy or added correction narrative. Each changed file preserves its committed line endings. The generated Render Input remains identical to the Record's Public Projection; other public entries remain byte-identical.
+
+All 3,120 tracked non-audit OT1999 working files match the repaired commit byte-for-byte. Between the preceding audit's baseline `af1039e1` and the repair's parent, only AUDIT.md changed within OT1999. This establishes the unchanged baseline for carrying forward the prior completed legal review, rather than assuming that unrelated adjudications remained stable.
 
 ## Deterministic verification
 
-| Check | Result |
+| Check | Confirming result |
 | --- | --- |
-| Repository checker and opening baseline | Passed, subject only to the CaseMine false positive above. Opening Holdings volumes and the continuous compatibility view agree. |
-| Inventory, Records and public events | All 104 inventory events reconcile to 104 Court Records, generated event blocks and public entries. Chunk counts are twelve for each of chunks 1-8 and eight for chunk 9. All 104 manifest items are completed. The ledger contains all 109 Records once, including the five admissions. |
-| Effective dates and chronology | Inventory dates and Record dates agree; generated events follow effective-date order. Ledger recording order is not treated as effective-date order. All 103 explicit argument/submission date mentions across 100 events precede or coincide with decision; three summary dispositions and the Alaska decree require no invented argument date. |
-| Participation, quorum, judgments and joins | Named judgment coalitions reconcile, including the special component and undisclosed formats. There are 102 ordinary nine-Justice events; Free has eight participants and an undisclosed 4-4 division; Alaska publishes no tally. All 224 named opinion author/join rows agree across the Records and renders, including partial and judgment-only joins. |
-| Runtime and generated handoffs | All nine runtime splits pass freshness checks. Each generated Render Input event is identical to its Record's bounded Public Projection. Required labels and block boundaries pass. |
-| Assignments | Thirty receipts containing counted-event lists were recounted. Ninety-seven distinct author/event pairs match the Records. Substantive eligibility and the reasons for the assignments were also reviewed during the legal stage. |
-| Render fidelity and length | Public judgment, opinion, holding, separate-position, precedent, remedy and stage information is retained. Adaptive consolidation does not change authority. All 246 explicitly labeled controlling explanations checked in Records and renders fall within the ordinary 350-word ceiling; the longest is 323 words. No public workflow blocker remains. |
-| Local navigation | All 1,856 checked local links across 140 scoped files and 299 referenced anchors resolve. Candidate links are evaluated at their intended publication targets. Frozen/entering-law navigation exemptions are honored. The semantic caption error F3 is separate from link resolution. |
-| Provenance | The repair commit and relevant parent/blob objects exist. No actual missing commit reference was identified. The one automated warning is the source-URL identifier explained above. |
-| Holdings candidate | The 1,199 opening entries become 1,320 candidate entries. The 121 additions, containing 256 question blocks, cover 103 Court events; Free properly creates no holding. Of the opening entry bodies, 1,196 remain unchanged and three have supported current-force or navigation updates. Controlling authority, operative limits and remedies reconcile to the Records. |
-| Standards candidate | The pass accounts for all 109 Records. Eight hundred opening entries become 869: 69 additions, 22 substantive updates and one navigation update. All 92 new or modified entries have required fields, and all 869 titles are unique. Substance was checked independently against Records before comparison with Holdings navigation. |
-| Standing State and carry-forward | All 109 Procedure After Action blocks were checked. Sixteen matters properly carry: thirteen inherited matters, Fiore, Arizona and Alaska's limited implementation jurisdiction. Lower-court remands are not converted into pending Supreme Court cases. |
-| Institutional setting | The nine seats and seniority match the OT2000 Composition. Thirteen circuit allotments and the standing referral practice agree with the governing setting. |
-| Staging and cleanup | The three candidate headers agree. Their retained OT1998 publication cutoff is expressly staged for coordinated advancement at Commit. Three candidates and five pass notes are proper before Commit. Final dossier/index generation, publication and candidate cleanup belong to that pass. |
-| Current projections | F1/F2 are repaired. Current law, published positions and pending stages reconcile to Records and candidates, subject to the shared caption error F3. |
+| Repository checker and opening baseline | Passed with only the CaseMine identifier warning explained above. Opening Holdings volumes and the continuous compatibility view are synchronized. |
+| Inventory, manifest, Records and public events | All 104 inventory events reconcile to completed manifest items, Court Records, generated event blocks and public entries. Chunks 1-8 each contain 12 events; chunk 9 contains eight. All 109 Records, including five admissions, appear once in the ledger. |
+| Chronology | Inventory, Record and public event dates agree; effective-date order passes. Argument or submission dates precede decisions for all 100 applicable events. Three summary dispositions and Alaska's decree require no argument date. Ledger recording order is not confused with effective order. |
+| Participation, judgments and joins | Machine checks reconcile 79 ordinary judgment rosters and 43 component rows. Review also clears the nine exceptional formats: Fiore, Paul P., Bossier, Free, Michael Williams, North Carolina Right to Life, Mixon, Stenberg and Alaska. Undisclosed lineups stay undisclosed, and judgment votes remain distinct from rationale joins. Record/render topology differences preserve authors, partial joins and component relationships. |
+| Runtime and generated handoffs | All nine runtime splits pass freshness checks. Every generated event is identical to its Record's bounded Public Projection, with correct event coverage and required block order. |
+| Assignment arithmetic | Recounted 67 assignment receipts containing event lists. Counts agree, and 97 distinct counted author/event pairs match the Records' lead writings. The unchanged substantive assignment review remains applicable. |
+| Public fidelity and length | No author, join, disposition, controlling-rule, remedy or stage discrepancy was identified. All 246 labeled controlling explanations in Records and all 246 in renders meet the ordinary 350-word ceiling; the maximum is 323 words. |
+| Local links and anchors | All 1,856 local references and 299 referenced anchors resolve across 140 scoped files. Candidate references are evaluated at their intended publication destinations. Frozen/entering-law navigation exemptions are honored. |
+| Holdings candidate | Recount confirms 1,199 opening entries and 1,320 candidate entries: 121 additions with 256 question blocks. All opening entries are retained; 1,196 bodies are unchanged, with the same three previously audited current-force/navigation changes. |
+| Standards candidate | Recount confirms 800 opening and 869 candidate entries: 69 additions, 22 substantive updates including the documented title change, and one related-navigation update. The 777 other entries are unchanged. All 92 new or modified entries have the required fields; titles are unique. The pass's coverage table accounts for all 109 Records exactly once. |
+| Carry-forward and setting | All 109 Procedure After Action blocks reconcile to 16 carried matters: 13 inherited matters, Fiore, Arizona and Alaska's limited implementation jurisdiction. Lower-court remands are not turned into pending Supreme Court matters. The nine seats, seniority, 13 circuit allotments and referral practice agree with the governing setting. |
+| Candidate staging and cleanup | The three publication headers agree and remain explicitly staged at the opening cutoff pending coordinated Commit. Three candidates and five pass notes properly remain. Dossier/index generation, publication, synchronized cutoff advancement and candidate/pass-note cleanup belong to Commit. |
 
-## Fresh legal-substance review
+## Confirming legal-substance review
 
-The review covered all 104 Court events and all five admissions: FCC 99-223, Pub. L. 106-69 section 350, Pub. L. 106-81 section 5, Pub. L. 106-43 section 5 and the June 7 Alaska stipulation. It examined the substantive Records and Justice-specific annexes, relevant opening and earlier-current-term law, approved runtime Stone positions, affected statutory and source material, proposed trackers, continuity and public renders. Records controlled; renders served as cross-checks.
+The prior full-term legal review covered all 104 Court events and five admissions and found only F3's caption discrepancy. The verified repair changes no adjudication, frozen commitment, candidate rule or procedural disposition. A fresh affected review examined Gillespie's and Morrison's controlling grounds, qualifications, coalitions, historical-comparison annexes and public projections, together with the corrected render and relevant candidate treatment. An independent review reached the same conclusion.
 
-No unsupported change in a Justice's commitment, invented coalition, aggregation of incompatible grounds into a majority, or remedy exceeding its stated legal basis was found. Judgment-only agreement and the standing fallback remain distinct from rationale joins. Historical departures have identified legal, factual, procedural or remedial premises and Justice-specific explanations. Statutory permissions remain distinct from commands, separate provisions retain their qualifications, and reserved questions do not become holdings in the candidates.
+Gillespie's April 17 holding supplies the precise recipient/supply relationship Morrison distinguishes on May 15: the prohibited-recipient restriction is a fitted component protecting a valid interstate firearm-supply regime. Gillespie separately retains the enacted statutory nexus and the prosecution's proof obligations. Its constitutional mechanism rests neither on prior interstate movement alone nor on generalized domestic-violence costs. Morrison accurately preserves that holding while finding no comparable necessary relationship for the private-assault action before it. The corrected caption identifies the existing authority without broadening it.
 
-Particular fracture and continuity checks include United Reporting, Bossier, Weeks, Terry Williams, Saenz, Johnson, Troxel and Mixon. Their different judgment and rationale coalitions remain explicit. The review also verified Vermont Agency's bounded seven-vote statutory rationale despite the changed Article I immunity law; Eisenberg's separate six-vote objective and seven-vote remedial propositions; Apprendi's reservation of prior-conviction questions; and Dickerson's distinct partial joins and statutory qualifications. Stenberg applies the existing six-step framework and preserves the health and procedure-specific limits of its relief. Mitchell retains the established Agostini framework. Alaska implements the controlling title rulings and stipulation while retaining only the specified implementation jurisdiction. None requires an adjudicative correction.
+Morrison retains Kennedy's two controlling grounds, joined by Stone-Zsela, O'Connor, Scalia and Thomas. Stevens, Souter, Ginsburg and Breyer would reverse on Commerce grounds and reserve Section 5; that reservation is not a vote sustaining Section 5 authority. The bounded affirmance, statutory qualifications, questions left open and Justice-specific historical explanations remain intact. No categorical economic-conduct or private-defendant prohibition, additional evidentiary proceeding or enlarged remedy arises from the repair. The Holdings candidate and existing reusable Commerce framework remain consistent; this application requires no new Standards entry.
 
-The legal substance is otherwise clean. F3 concerns the identity of a cited authority, not the rule attributed to it. The Holdings candidate already uses the correct caption, so its doctrine need not change.
+F1 and F2 likewise remain sound in substance. Completed opening review is distinguished from genuinely retained Court matters. Alaska's decree is entered and otherwise final, subject to its specified implementation obligations and retained jurisdiction; the carry-forward does not reopen title or invent further proceedings.
 
-## Unresolved discrepancy
+The legal-substance audit remains clean. There is no remaining F-numbered discrepancy or required repair.
 
-### F3 - Low - Morrison misnames the Gillespie precedent
+## Readiness and file scope
 
-**Files and lines:**
+The term is ready for the Close Commit. The ordinary coordinated Commit work remains; this audit does not publish trackers or perform that pass.
 
-- `terms/OT1999/records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md:87` - internal precedent-treatment bullet.
-- `terms/OT1999/records/united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md:215` - the same bullet in the Public Projection.
-- `terms/OT1999/render-inputs/OT_1999CHUNK6.md:900` - generated copy.
-- `terms/OT1999/output/OT_1999CHUNK6.md:895` - public precedent treatment.
-- `terms/OT1999/workspace/continuity.md:3223` - current-law copy.
-- `terms/OT1999/workspace/neutral-projection.md:3223` - current-law copy.
+Only `terms/OT1999/close/AUDIT.md` is changed as a repository artifact. Its UTF-8 encoding without a BOM and CRLF line endings are preserved. A before/after digest of 3,178 scoped non-audit files confirms no change. Scratch work is confined to ignored tmp/ files. Operator verification and commitment remain with the operator.
 
-The grouped precedent bullet names **United States v. Gillespie**. The intended authority is **Gillespie v. City of Indianapolis**, No. 99-626, decided April 17, 2000, as identified at `terms/OT1999/records/gillespie-v-city-of-indianapolis_merits_2000-04-17.md:1`. That decision supplies the fitted recipient/supply relationship accurately described in Morrison. This is an incorrect caption, not a different case supporting the proposition. `terms/OT1999/close/HOLDINGS.candidate.md:3205` already names the intended authority correctly.
-
-**Exact fix:** In an authorized caption-only correction, replace only `United States v. Gillespie` with `Gillespie v. City of Indianapolis` in both Morrison Record occurrences. Update the Record's `Version / lineage` line at line 4 with concise truthful lineage identifying the caption correction to the original Record as preserved at `af1039e1`; state that votes, grounds and relief are unchanged. Mechanically regenerate the affected Render Input from the corrected Public Projection. Replace the same caption in the two workspace occurrences and in Morrison's public-render entry, preserving all other entries byte-for-byte and preserving each file's line endings. Keep correction metadata internal. Leave the already-correct Holdings candidate and frozen source copies unchanged. Recheck generated identity, the six occurrences and the term checker. No new merits modeling or changed adjudication is needed.
-
-## Required continuation and file scope
-
-F3 is the only remaining discrepancy and prevents Close Commit under the requirement that the audit be clear of unresolved findings. Complete the bounded authorized correction, verify its propagation and replace this audit's readiness determination before committing the close. Ordinary Commit work then remains: advance all three publication headers together, write the dossier, publish the synchronized trackers, split and check Holdings volumes, generate close indexes and remove candidate/pass files as prescribed.
-
-Only `terms/OT1999/close/AUDIT.md` changed in this task, replacing the previous audit with repair verification, the completed legal review and F3's exact correction scope. A before/after digest of 1,404 scoped non-audit files is unchanged. The permitted checker was rerun after writing this audit and again passed with only the documented CaseMine warning.
-
-READY FOR CLOSE COMMIT: NO
+READY FOR CLOSE COMMIT: YES
