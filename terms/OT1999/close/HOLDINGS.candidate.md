@@ -3212,6 +3212,68 @@ Hypothetical color-of-law applications and unpresented severability are not reso
 - **Kimel v. Florida Board of Regents:** Its reservation of Section 5 supplies no decision of this question.
 - **Saenz v. Heldenfels Brothers, Inc. (May 9, 2000):** Distinguished an official's own affirmative removal of protection from private harm not prevented by the State. It supplies neither such an act in this complaint nor a holding on Congress's preventive enforcement power.
 
+### Federal sanctions and conflicting state procurement
+
+#### Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000)
+
+**Docket or dockets:** No. 99-474.
+**Decided:** June 19, 2000.
+
+##### The independent Burma procurement sanction conflicts with the enacted federal arrangement
+
+**Holding:** Massachusetts's Burma procurement restriction is preempted because its broader, independently continuing economic sanction frustrates Congress's integrated choice of covered conduct and persons, conditional sanctions, presidential flexibility under stated conditions, and a coordinated multilateral strategy in §570. A purchasing label and shared humanitarian ends do not save that demonstrated conflict; the injunction against enforcement of the challenged restriction remains in place.
+
+**Proposition-level authority:** Stone-Zsela's Opinion of the Court, unanimous.
+
+**Material application:** **Massachusetts provisions.** Sections 22G–22M reach the defined Burma business relationships, including operations, incorporation, majority-owned subsidiaries, specified financial services, government-controlled products and goods or services supplied to Burma's government. Their coverage includes foreign firms and ordinary commercial dealings. Section 22H(b) permits otherwise restricted procurement after written certification to the secretary, or the authority's chief operating officer, both that procurement is essential and that the restriction would eliminate the only bid or produce inadequate competition. Essential procurement must be necessary to the agency's mission, have no substitute, and avoid irreparable harm to its programs. Section 22H(d) separately permits a restricted award only if there is no unrestricted comparable low bid or offer: a responsive, responsible offer no more than ten percent above the lowest. The reported administrative addition of ten percent to restricted bids is distinct from that statutory definition. Section 22H(e) separately exempts operations solely for news reporting or solely for providing goods or services for international telecommunications.
+
+Section 22I permits medical purchases intended to preserve or prolong life or cure, prevent or ameliorate disease, including hospital, nutritional, diagnostic, pharmaceutical and nonprescription products specifically manufactured for identified health-care needs, or supplies for which there is no medical substitute. The requesting agency determines absence of a substitute under general medical and professional standards when relying on that alternative. Its written notice and compliance certification to the state purchasing agent suffice to allow the purchase. Absence of a substitute is not a condition of every medical purchase. A separate supplier exemption applies when the person's Burma dealings provide only those medical supplies; mixed medical and nonmedical dealings do not qualify. These permissions do not merge into a general medical-industry exemption.
+
+**Federal provisions.** Public Law 104-208, §570, was enacted September 30, 1996. Subsection (a)'s sanctions last until the President determines and certifies to Congress measurable and substantial progress in human-rights practices and democratic government. The bilateral-assistance prohibition excepts humanitarian assistance and assistance promoting human rights and democratic values. Counter-narcotics assistance under chapter 8 of part I of the Foreign Assistance Act of 1961, or crop-substitution assistance, separately requires regular Appropriations Committee notification and the Secretary of State's certification to the appropriate congressional committees that Burma fully cooperates with United States counter-narcotics efforts and that the programs are fully consistent with United States human-rights concerns in Burma and serve the national interest. Treasury must instruct United States directors of the covered international financial institutions to oppose any loan or other use of their funds to or for Burma. Those institutions include the International Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, Asian Development Bank and International Monetary Fund. The visa provision says the United States should not grant Burmese government officials entry visas, except as treaty obligations require or to staff Burma's mission to the United States; it is not an unconditional mandatory prohibition.
+
+Under subsection (b), the President is authorized and required to prohibit United States persons' new investment if he determines and certifies to Congress that, after enactment, Burma physically harmed, rearrested for political acts or exiled Daw Aung San Suu Kyi, or committed large-scale repression of or violence against the democratic opposition. Subsection (c) requires him to seek a comprehensive multilateral strategy with ASEAN members and other major trading and investment countries to bring democracy and improve human rights and quality of life, including dialogue between the State Law and Order Restoration Council and democratic opposition groups. Subsection (d) requires reports every six months to the chairmen of the Senate Foreign Relations, House International Relations and House and Senate Appropriations Committees on democratization; quality of life, including market reforms, living and labor standards, forced labor in tourism and environmental quality; and progress on that strategy.
+
+Subsection (e) permits temporary or permanent waiver of sanctions in (a) or (b) upon presidential determination and certification to Congress that application would conflict with United States national-security interests. Subsection (f)'s new investment covers the specified activity under an agreement with Burma's government or a nongovernmental entity there, entered on or after the subsection (b) certification, including exercise of rights under that agreement. It reaches contracts for economic development of Burmese resources or general supervision and guarantee of another's performance, ownership shares in that development, and participation in its royalties, earnings or profits regardless of form. It excludes entering, performing or financing a contract to sell or buy goods, services or technology. Executive Order 13047 of May 20, 1997 implemented the new-investment prohibition after the presidential findings.
+
+**Limits and questions not reached:** The Court does not construe §570(e) as a direct power to waive state law. Preemption follows from the Supremacy Clause and the demonstrated statutory conflict. Nor does federal permission for a transaction alone immunize it from every state purchasing choice. The integrated provisions supply the sufficient ground for affirmance, leaving the other constitutional theories below undecided.
+
+No general foreign-affairs field, dormant foreign-affairs, Foreign Commerce Clause, WTO-merits or private Uruguay Round enforcement holding is entered. The Court decides no general presumption against preemption and relies on no legislative-history, failed-bill or congressional-silence inference. Executive implementation must stay within the statute; litigation advocacy and diplomatic objections do not create preemptive law. Neutral procurement rules, nonbinding state statements and state action within genuine federal room remain available, subject to otherwise applicable law. Ordinary divestment, contract eligibility and every state measure with foreign effects are not adjudicated.
+
+**Operative remedy or transition:** The First Circuit judgment is affirmed on the sufficient federal-preemption ground. The injunction against enforcement of the challenged Massachusetts Burma procurement restriction remains in place. No additional remedial instruction, factual remand or decision on the alternative constitutional grounds is entered.
+
+**Treatment of earlier authority:**
+
+- **Geier v. American Honda Motor Co., May 22, 2000:** Applies the requirement to identify an operative federal method and the actual conflicting state duty. Its different restraint-transition application supplies no automatic outcome for sanctions or procurement.
+- **Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor), March 8, 1993:** Preserves genuine project-specific proprietary purchasing and its reservation for actual congressional displacement. This broader Burma condition receives no categorical purchaser immunity.
+- **Freightliner Corp. v. Myrick, April 18, 1995:** Applies its demand for an independently established conflict; distinguishes regulatory absence from §570's affirmative arrangement. No federal objective is manufactured from silence.
+- **Barclays Bank PLC v. Franchise Tax Board of California, June 20, 1994:** Preserves the distinction between binding federal authority and informative but nonbinding policy or foreign objections. Its independent foreign-commerce analysis is not converted into a statutory sanctions holding or overruled.
+
+### Legislative change to prospective relief
+
+#### Miller v. French / United States v. French, 530 U.S. 327 (2000)
+
+**Docket or dockets:** Nos. 99-224 and 99-582.
+**Decided:** June 19, 2000.
+
+##### II. Congress may change interim prospective law without deciding the case
+
+**Holding:** The automatic stay is not categorically unconstitutional under Article III merely because it temporarily suspends prospective relief before final adjudication of the termination motion. Congress may change the law governing future enforcement while leaving the court to decide the new law's factual and legal predicates; this holding does not resolve an application that actually deprives the court of a meaningful opportunity to adjudicate.
+
+**Proposition-level authority:** Part II of Souter's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; seven Justices directly adopt the bounded Article III holding.
+
+**Limits and questions not reached:** Here the interim enforcement rule itself changes prospective law. A party's motion triggers the legislated consequence; the party does not thereby establish lawful prison conditions or defeat the findings required to retain relief. Although the Pendleton decree followed adjudication in material part, the stay neither contradicts those past findings nor cancels accrued damages or completed lawful effects. Morgan Stanley and Plaut permit their defined reinstatement of securities limitations dismissals while preserving independent judicial work; they establish neither categorical immunity for every judgment nor unrestricted legislative control of adjudication. The prisoners correctly distinguish termination after findings from suspension before findings. That distinction requires attention to an actual denial of adjudication, but it does not make every interim prospective rule legislative adjudication. The Court rejects the Seventh Circuit's categorical structural ruling without declaring this timetable sufficient in every complex case or deciding a supported inability-to-adjudicate claim against the prisoners.
+
+**Treatment of earlier authority:**
+
+- **Robertson v. Seattle Audubon Society:** Applied to the distinction between changed governing law and legislative adjudication under unchanged law; its reserved questions are not converted into general permission to control judgments.
+- **United States v. Klein:** Its protection of independent adjudication remains; no legislative finding of prison compliance is authorized.
+- **Pennsylvania v. Wheeling & Belmont Bridge Co.:** Applied to the distinct prospective operation of an injunction, without extending it to every completed judgment.
+- **Agostini v. Felton:** Its distinction between a continuing injunction and completed adjudication supports examination of the current governing law; its Rule 60(b)(5) setting does not itself decide the automatic-stay issue.
+- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co.:** Its bounded securities-dismissal reinstatement holding is preserved, including independent statutory eligibility and merits adjudication; it supplies no universal reopening power.
+- **Plaut v. Spendthrift Farm, Inc.:** Its application of the same bounded reinstatement rule remains; neither its holding nor the completed-judgment objection determines every prospective-remedy question.
+
+For the mandatory statutory construction and genuine opportunity to present supported Article III or due-process application objections on remand, see Miller v. French / United States v. French, Nos. 99-224 and 99-582, June 19, 2000, under Federal Courts, automatic stays of prospective prison relief.
+
 ## Federal Courts
 
 ### Adequate and independent state grounds
@@ -14996,6 +15058,278 @@ For the timely-nomination equality holding and confined Childress relief in Refo
 
 For the political-committee and expenditure coverage holdings in North Carolina Right to Life v. Bartlett, May 1, 2000, review of 168 F.3d 705 (no Supreme Court docket supplied), see Election Law — Political-committee and independent-issue-expenditure coverage.
 
+### Assigned government claims and statutory State-defendant coverage
+
+#### Vermont Agency of Natural Resources v. United States ex rel. Stevens, 529 U.S. 765 (2000)
+
+**Docket or dockets:** No. 98-1828.
+**Decided:** May 22, 2000.
+
+##### I. Transfer of the government's financial claim supplies standing
+
+**Holding:** The FCA's partial assignment of the United States' concrete financial claim gives the relator standing to enforce that assigned claim, subject to the ordinary injury, traceability and redressability requirements at the litigation stage. A prospective reward alone would not create injury, and this assignment conclusion does not itself make the relator's action the United States' own suit for every other legal purpose.
+
+**Proposition-level authority:** Part I of Scalia's opinion is joined by all eight other Justices, giving nine direct votes.
+
+**Limits and questions not reached:** Standing leaves defendant coverage, constitutional immunity and Article II control separate. The Court does not settle every assignment, penalty-only suit or private public-interest action. The pleaded federal financial loss remains subject to the proof required at each litigation stage; no fraud is found.
+
+##### II. This private-relator action is not authorized against a sovereign State
+
+**Holding:** Section 3729's generic person category, read with the FCA's private-relator structure and section 3733's investigation-specific definition, contains no affirmative indication authorizing this privately maintained action against a sovereign State. The action against the Vermont Agency must therefore be dismissed on statutory grounds without deciding constitutional State immunity.
+
+**Proposition-level authority:** Part II is joined by Stone-Zsela, O'Connor, Kennedy, Thomas, Ginsburg and Breyer with Scalia, seven direct votes for this complete bounded ground. Stevens and Souter dissent.
+
+**Limits and questions not reached:** The Court leaves open suits brought by the United States, municipal liability, retaliation claims, differently drafted legislation and Article II questions. It decides neither ultimate fraud nor any remedy amount. Its rule is confined to this private-relator action against the State.
+
+**Material application:** The United States' appellate participation did not take over the relator's action. Receipt of federal grants establishes no consent; the decision supplies no categorical Article I immunity bar.
+
+**Operative remedy or transition:** The case returns through the Second Circuit for dismissal of the private-relator action against the Vermont Agency on the statutory ground. The dismissal does not adjudicate the alleged fraud, the amount of loss or constitutional immunity and authorizes no recovery.
+
+**Treatment of earlier authority:**
+
+- **Lujan v. Defenders of Wildlife:** Applied to require a real injury and litigation-stage support; an assigned government financial claim supplies a different basis from bare enforcement permission.
+- **Citizens for a Better Environment v. Steel Co.:** Applied by deciding Article III before contested statutory coverage.
+- **Friends of the Earth v. Laidlaw:** Distinguished from a claim that reward or deterrence alone creates injury; its independent-injury requirement remains.
+- **Florida Prepaid v. College Savings Bank:** Its Article I enforcement rule and distinct unmistakable-authorization requirement remain controlling; congressional power alone supplies no FCA coverage.
+- **Kimel v. Florida Board of Regents:** Applied to keep statutory clarity separate from constitutional power; its express authorization does not decide this differently drafted statute.
+- **College Savings Bank v. Florida Prepaid:** Its rejection of consent inferred from ordinary continued activity remains; no consent is found from receipt of grants.
+
+### Automatic stays of prospective prison relief
+
+#### Miller v. French / United States v. French, 530 U.S. 327 (2000)
+
+**Docket or dockets:** Nos. 99-224 and 99-582.
+**Decided:** June 19, 2000.
+
+##### I. The automatic stay displaces ordinary equitable continuation
+
+**Holding:** For the presented motion under 18 U.S.C. §3626(b)(2), subsection (e) automatically stays covered prospective relief beginning on the thirtieth day after filing and ending when the court enters a final order resolving the motion; the court may postpone the starting date for good cause by no more than sixty days, but general calendar congestion is not good cause. Beyond that express postponement, ordinary equitable authority does not permit the court to suspend the statutory stay.
+
+**Proposition-level authority:** Part I of Justice Souter's opinion of the Court has six direct rationale votes: O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Chief Justice Stone-Zsela joins the judgment without joining this statutory-construction part; Stevens and Breyer dissent from the construction.
+
+**Limits and questions not reached:** Section 3626(e)(4) makes orders staying, suspending, delaying or barring the automatic stay appealable as refusals to dissolve or modify an injunction under 28 U.S.C. §1292(a)(1), regardless of their label or preliminary or final character; it supplies review, not additional substantive authority to block the stay. The express subsection (e)(3) postponement is excluded from that special appeal treatment. Constitutional avoidance cannot replace this detailed statutory direction with a competing scheme. Subsection (e)(1)'s prompt-disposition duty and mandamus remedy remain. The retained 180-day timing language for motions under other law does not govern the immediate-termination motion presented here; its broader interaction with the amended under-subsection-(b) opening is not decided. Section 3626(a)(2)'s separate ninety-day expiration for newly entered preliminary relief does not turn this existing permanent decree into a preliminary order.
+
+##### III. The remand preserves a genuine adjudication of supported application objections
+
+**Holding:** In each docket, the Seventh Circuit's categorical invalidation is reversed and the case remanded, permitting a properly supported claim that the statutory timing, including available postponement, actually denies a meaningful opportunity to adjudicate to be presented and decided under Article III as well as any applicable due-process protection. No such violation is presumed, no feasibility hearing is required merely because time has elapsed, and no ordinary equitable exception or automatic continuation of the existing blocking injunction follows.
+
+**Proposition-level authority:** Part II of Souter's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; seven Justices directly join this operative remand and its limits.
+
+**Limits and questions not reached:** Benjamin requires a real opportunity to offer material current proof when it is necessary for statutory adjudication; Gavin and Hadix require the unperformed termination inquiry without making a new hearing universal. The reported postponements of the termination hearing establish neither constitutional impossibility nor prison compliance, present violations or deliberate delay. They therefore neither compel an evidentiary hearing about timing nor foreclose a supported application objection. On remand, such an objection must receive genuine consideration under ordinary procedure; this judgment does not restrict it to due process or decide the appropriate remedy in advance. The court must also decide the actual termination conditions: the movant must establish that covered relief was entered without substantive necessity, narrowness and least-intrusion findings, and sufficient findings require no ritual wording. Under amended §3626(b)(3), relief shall not terminate if written, record-based findings establish that it remains necessary to correct a current and ongoing federal-right violation, extends no further than necessary, is narrowly drawn and is the least intrusive necessary means. Each retained duty requires those findings; obsolete relief may not survive through disregard of the new law. This appeal neither decides those merits nor terminates the decree. Hadix's distinct pending automatic-stay appeal is not adjudicated here.
+
+**Operative remedy or transition:** The categorical Article III invalidation cannot sustain the blocking injunction. The remand permits a supported inability-to-adjudicate objection under Article III as well as due process to be presented and decided; it neither automatically continues the blocking order nor denies consideration of a properly supported constitutional claim. No prison-compliance finding or termination of the underlying decree is entered.
+
+**Treatment of earlier authority:**
+
+- **Inmates of Suffolk County Jail v. Rouse:** Applied to lawful changed prospective standards, actual findings and preservation of completed effects; its rejection of speculative compulsory inquiry remains.
+- **Benjamin v. Jacobson:** Applied to genuine opportunity for necessary current proof; its documented refusal of proof is not presumed from this hearing calendar.
+- **Gavin v. Branstad:** Applied to the actual statutory inquiry still required after rejection of a constitutional ground; it commands neither unconditional continuation nor a hearing in every case.
+- **Hadix v. Johnson:** Applied to independent adjudication of amended termination conditions; its separate automatic-stay appeal remains distinct.
+- **Plyler v. Moore:** Its original-text conditional termination rule and separate statutory route remain; the amended current-and-ongoing conjunction is not retroactively written into its holding.
+- **Lewis v. Casey:** Its scope and remedial-findings safeguards remain; the existing decree receives actual substantive examination rather than a ritual-words test.
+- **Rufo v. Inmates of Suffolk County Jail:** Its independent significant-change and tailored-modification route remains; it adds no prerequisite to the statutory termination route.
+
+For the bounded Article III holding, see Miller v. French / United States v. French, Nos. 99-224 and 99-582, June 19, 2000, under Constitutional Structure, legislative change to prospective relief.
+
+### Defendant-specific immunity in election-withdrawal litigation
+
+#### Mixon v. Ohio
+
+**Docket or dockets:** Sixth Circuit No. 98-3368; no separate Supreme Court docket supplied.
+**Decided:** June 5, 2000.
+
+##### Separate immunity of the State and municipal mayor
+
+**Holding:** Ohio retains immunity from the direct constitutional and state-law claims, while the mayor is a municipal defendant and the section 2 claim against Ohio retains its Fifteenth Amendment enforcement basis.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by all eight other Justices; nine direct joins.
+
+**Limits and questions not reached:** The direct constitutional and state-law immunity rulings do not eliminate the distinct statutory enforcement basis against Ohio. No separate intentional-discrimination count or purpose merits ruling is created, affirmed or reopened.
+
+**Operative remedy or transition:** The defendant-specific immunity and other independent dispositions remain undisturbed except for consequences necessarily affected by correction of the categorical section 2 ruling. No new purpose proceeding or interim relief is directed.
+
+The appointment, municipal-electorate and section 2 coverage questions have their primary location in Election Law, Appointed school boards and withdrawal of existing elections, for this case, Sixth Circuit No. 98-3368, decided June 5, 2000.
+
+### Federal habeas review of capital parole information
+
+#### Ramdass v. Angelone, 530 U.S. 156 (2000)
+
+**Docket or dockets:** No. 99-7000.
+**Decided:** June 12, 2000.
+
+##### I. State-law conviction status and federal review remain distinct
+
+**Holding:** Virginia's definition of a qualifying conviction governs whether the unentered Domino's verdict already counted under its parole statute. Disagreement with that legal definition is not an unreasonable determination of fact under section 2254(d)(2), and a disagreement about state law alone supplies no federal custody violation under section 2254(a).
+
+**Proposition-level authority:** Part I of Justice Stevens's opinion, joined by all eight other Justices, supplies nine direct votes. The appellate rejection of the District Court's factual-ground rationale remains in place.
+
+##### III. Statutory eligibility and retroactivity require their own determinations
+
+**Holding:** Amended section 2254(d)(1) applies to the February 14, 1997 application, and its constitutional-law benchmark is the holdings clearly established on November 4, 1994. The lower court's categorical treatment of the asserted completed-adjudication claim as necessarily an impermissible extension under section 2254(d)(1) and Teague cannot stand without examining that actual claim; neither statutory eligibility nor retroactive availability is established by today's remand.
+
+**Proposition-level authority:** Part I of Stevens's Opinion of the Court has nine supporters for applicability, the cutoff and the common statutory propositions. Part III's rejection of the categorical statutory and Teague grounds and remand is joined by Stone-Zsela, Souter, Ginsburg and Breyer; five Justices.
+
+**Limits and questions not reached:** Williams v. Taylor (Terry Williams) requires independent work by the contrary-to and unreasonable-application clauses. Conflict with a governing legal rule can satisfy the first without identical facts, as can an opposite result on materially indistinguishable facts. Unreasonable application is an objective legal inquiry, and a rule's generality does not alone exclude it from clearly established law. These common holdings do not adopt either competing exclusive allocation of the clauses or a universal refusal-to-extend rule.
+
+O'Dell makes the confined effective-response protection available against Teague; it does not classify every proposed entitlement to predicted events as old. A claim within that protection receives its existing treatment. A materially different proposed rule requires its own finality and exception analysis if those questions become necessary. The Court adds no Teague exception and substitutes no retroactivity ruling for statutory eligibility. Allridge and O'Dell are present-law authorities, not constitutional holdings retroactively placed in the November 1994 benchmark. Williams supplies the present statutory construction without moving that benchmark.
+
+##### IV. The mandate returns unresolved predicates without awarding sentencing relief
+
+**Holding:** The lower courts must determine whether the Domino's proceeding had reached a completed substantive adjudication with only entry remaining, whether the actual opportunity conveyed the required accurate information, whether section 2254(d)(1) permits relief under the November 4, 1994 holdings, and any material Teague question. Only if those conditions permit relief must the error's effect be decided; the Court enters no present writ or sentence relief and leaves rejection of the factual-ground rationale intact.
+
+**Proposition-level authority:** Part IV of Stevens's Opinion of the Court, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five Justices. All nine agree that disagreement with the state-law definition supplies no factual-ground relief.
+
+**Limits and questions not reached:** The Court makes no whole-record harm finding, adopts no structural-error classification, and chooses no standard, burden or treatment of uncertainty for this distinct collateral error category. Brecht, O'Neal, Roy and Calderon v. Coleman retain their own defined applications; their differing settings do not automatically supply a universal rule here. An available violation requires the applicable effect inquiry before relief. The return permits further judicial consideration, but compels no new evidence and reinstates no prior sentencing clock. The conviction, unrelated claims and independent lawful custody remain undisturbed.
+
+**Operative remedy or transition:** The judgment does not reinstate the District Court's sentencing order or vacate the sentence. It orders no present writ, new penalty proceeding, evidentiary hearing or other evidentiary command, deadline, release, stay or execution-related relief. The conviction and unrelated claims remain untouched. Denial on a properly supported independent ground remains available on remand.
+
+**Treatment of earlier authority:**
+
+- **O'Dell v. Netherland:** Applies its confined retroactivity protection and separation of that protection from actual predicates and relief. Neither its old-rule holding nor its alternative watershed holding creates a new exception for predicted future adjudications; its later date remains intact for statutory review.
+- **Williams v. Taylor (Terry Williams):** Applies the common holdings on independent clauses, governing legal rules, the state-decision cutoff and objective unreasonableness. Neither four-Justice exclusive general allocation becomes controlling here.
+- **Weeks v. Angelone:** Applies the separation of constitutional error, statutory permission and causal entitlement; no conditional separate-writing effect proposal becomes Court law.
+- **Teague v. Lane:** Preserves the distinction between dictated applications and new procedural rules and the applicable exception inquiry when material; it is not interchangeable with section 2254(d)(1).
+- **Brecht v. Abrahamson:** Preserves State-borne Chapman review for preserved Doyle error, where the prosecution uses silence after Miranda warnings to impeach the defendant; no automatic extension to this parole-information claim follows.
+- **O'Neal v. McAninch:** Preserves State-borne Chapman review for its preserved personal-intent instructional and prosecutorial-argument category; it does not establish a universal collateral-error standard.
+- **California v. Roy:** Preserves the extension to a preserved personal-intent omission without accompanying prosecutorial argument; it supplies no automatic capital-information extension here.
+- **Calderon v. Coleman:** Preserves State-borne Chapman review for its properly available capital-selection commutation-instruction claim and the distinction between error and actual effect; that defined extension does not decide this different parole-information category.
+
+For the substantive due-process rule concerning a completed adjudication awaiting entry, see Ramdass v. Angelone, No. 99-7000, June 12, 2000, under Criminal Procedure, capital parole information.
+
+### Judgment as a matter of law
+
+#### Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)
+
+**Docket or dockets:** No. 99-536.
+**Decided:** June 12, 2000.
+
+##### II. Rule 50 preserves reasonable jury inferences while considering the whole record
+
+**Holding:** Rule 50 requires consideration of the whole record, drawing reasonable inferences for the verdict winner and making no credibility choices or weighing of evidence. The court disregards evidence favorable to the movant that the jury was free to disbelieve, while considering uncontradicted and unimpeached evidence the jury was required to accept; testimony from disinterested witnesses is a relevant circumstance, not an inflexible witness-label rule.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, unanimous.
+
+**Treatment of earlier authority:**
+
+- **Anderson v. Liberty Lobby, Inc.:** Applies the prohibition on weighing and credibility choices in determining whether a reasonable factfinder may rule for the protected party.
+- **Weisgram v. Marley Co.; Neely v. Martin K. Eby Construction Co.:** Preserve lawful appellate Rule 50 authority and proper consideration of independently supported new-trial grounds. Neither permits reweighing this sufficient record or guarantees a new trial on remand.
+
+For the pretext inference, actual sufficiency determination and verdict-preserving mandate, see Reeves v. Sanderson Plumbing Products, Inc., No. 99-536, June 12, 2000, under Labor and Employment, intentional employment discrimination and pretext.
+
+### Preclusion in continuing original actions
+
+#### Arizona v. California, 530 U.S. 392 (2000)
+
+**Docket or dockets:** No. 8, Original.
+**Decided:** June 19, 2000.
+
+##### I. The belated Arizona I defense is unavailable in this proceeding
+
+**Holding:** In this continuing original action, the State parties forfeited their Arizona I claim-preclusion defense by omitting it when the enlarged Fort Yuma demand was presented in 1979 and again during the 1982 proceedings, despite the opportunity to assert it, and first presenting it in 1989 after the litigation had proceeded on the different grounds and boundary-review course described here. The Court overrules that exception without deciding whether a timely defense would have barred the enlarged claim.
+
+**Proposition-level authority:** Part I of Stevens's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg and Breyer, controls by seven direct joins.
+
+**Limits and questions not reached:** The later reopening order and the Master's consideration of the defense do not require disregarding the earlier forfeiture. Limited judicial authority to raise preclusion to avoid repeating an actual prior adjudication supplies no mandatory rescue here: the disputed title predicate was not actually decided. The Court adopts no general prohibition on appropriate judicial initiative and does not deny that claim preclusion can reach unlitigated theories.
+
+This is forfeiture from the supported litigation course, not a finding of intentional waiver, estoppel or a concession in an unavailable response. Interior's changed legal view is not newly discovered fact defeating otherwise applicable preclusion. The unresolved title, cession, boundary, irrigable-acreage and water-quantity predicates require adjudication before any additional Fort Yuma water may be awarded.
+
+##### II. The compensation compromise does not decide the reserved-water claim
+
+**Holding:** Docket 320's consent judgment finally settles the United States' and Tribe's claims against one another within that docket's reciprocal release, but it neither actually nor by a clearly intended binding determination resolves the disputed title predicate and does not release the distinct reserved-water demand against competing users. The Master's asserted consent-judgment bar therefore fails, while the compromise's lawful claim-finality effect remains intact.
+
+**Proposition-level authority:** Part II of Stevens's Opinion of the Court, unanimous. O'Connor and Thomas retain their different original-allocation ground opposing the Fort Yuma return.
+
+**Material application:** The $15 million judgment compromises alternative invalid-cession, trespass and uncompensated-taking theories. The disposition of those alternatives does not establish that one particular title theory was adjudicated. International Building requires attention to what a compromise actually determined before assigning issue-preclusive force. The reciprocal release addresses claims between the United States and Tribe; its no-admission clause reinforces the absence of an intended title adjudication without nullifying the judgment or its final releases. The appeal waiver also stands.
+
+**Operative remedy or transition:** O'Connor and Thomas's agreement on the separate Docket 320 and section 22 questions does not make them supporters of the Fort Yuma return: their original-allocation ground would independently end that enlarged water demand. The Court awards no additional Fort Yuma water, fixes no Fort Yuma boundary and resolves no disputed cession or title merits. Further original-jurisdiction proceedings, and implementing decree provisions faithfully incorporating the two approved agreements, remain necessary.
+
+**Treatment of earlier authority:**
+
+- **Arizona v. California, 373 U.S. 546 (1963), and the 1964 decree:** Preserve the original allocation. The Court does not decide the merits of the asserted bar arising from that allocation, and no Fort Yuma quantity is changed now.
+- **Arizona v. California, 460 U.S. 605 (1983):** Applies its recognition of finality in the continuing original action while preserving its boundary-litigation reservation. Its omitted-acreage holding is not overruled or declared inapplicable to a timely Fort Yuma defense.
+- **The 1979 and 1984 supplemental decrees:** Give effect to their conditional all-five-reservations adjustment language and its role in the litigation course; they do not themselves adjudicate the present preclusion merits or establish a final boundary.
+- **United States v. International Building Co., 345 U.S. 502 (1953):** Applies its distinction between a compromise disposition and an issue actually determined; the ambiguous title predicate gains no issue-preclusive force from compromise alone.
+- **Matsushita Electric Industrial Co. v. Epstein, February 27, 1996:** Preserves lawful consent-judgment effect and the separate binding prerequisites. Its section 1738 rules are not directly transposed to the federal Docket 320 judgment.
+- **Baker v. General Motors Corp., January 13, 1998:** Applies the distinction between an instrument's actual adjudicative effect and an additional effect against distinct rights; its rendering-state inquiry supplies no duty to revive a forfeited defense.
+- **Richards v. Jefferson County, 517 U.S. 793 (1996):** Preserves the need for a lawful basis to bind distinct rights; shared subject matter alone supplies neither claim identity nor binding scope.
+
+For the distinct section 22 bar and the particular settlement terms, see Arizona v. California, No. 8, Original, June 19, 2000, under Federal Indian Law, reserved water and compensation judgments.
+
+### Savings-clause review and residual writ authority
+
+#### United States v. Barrett
+
+**Docket or dockets:** First Circuit No. 96-2355, 178 F.3d 34; no Supreme Court docket supplied.
+**Decided:** May 22, 2000.
+
+##### I. An omitted available claim does not establish an inadequate section 2255 remedy
+
+**Holding:** Section 2255 is not inadequate or ineffective merely because a prisoner omitted an available claim in an earlier merits-adjudicated collateral proceeding and cannot satisfy the separate successive-motion conditions. Barrett's previously available Jencks Act claim cannot proceed under section 2241 on that ground; the Court leaves unresolved the exact savings treatment of an intervening substantive rule showing noncriminal conduct where no earlier reasonable opportunity existed.
+
+**Proposition-level authority:** Part I of Ginsburg's opinion has all nine Justices' direct joins in this necessary rule, application and bounded affirmance.
+
+**Material application:** The Jencks Act claim was available during an earlier collateral proceeding decided on its merits. Its mention in a reply did not amend the pleaded Brady claim. Excluding testimony for a Jencks violation would not itself establish noncriminal conduct or factual innocence.
+
+**Limits and questions not reached:** The grant reaches the independently reviewable collateral judgment identified by the First Circuit, not its concurrent authorization refusal. Felker, Triestman and Dorsainvil preserve the prohibition on ordinary review of that separate refusal; those cases establish no affirmative savings-clause test. The Court can therefore decide the asserted route without affirming authorization denial or deciding the assumed custodian forum. No intervening statutory-innocence claimant is before it. Meaningful-review problems on materially different facts, a genuinely independent authorized remedy and substantive Jencks liability remain unresolved.
+
+##### II. The All Writs Act supplies no substitute for the failed statutory route
+
+**Holding:** Section 1651 does not authorize Barrett to evade the statutory procedure governing this conviction challenge merely because he cannot now obtain relief under section 2255. A genuinely independent remedy must satisfy its own authority, forum and procedural conditions; none is established or ordered here.
+
+**Proposition-level authority:** Part II is joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer with its author Ginsburg, eight Justices. Stone-Zsela supports this component's judgment without joining its ground.
+
+**Limits and questions not reached:** The decision rejects this substitute use of section 1651; it does not abolish independent writs or decide their hypothetical availability, and it does not reach the underlying evidentiary merits.
+
+**Operative remedy or transition:** The ordinary collateral dismissal is affirmed. The distinct successive-motion authorization refusal is neither affirmed nor vacated. No writ, transfer, release, hearing, reopening or new merits adjudication is ordered.
+
+**Treatment of earlier authority:**
+
+- **Felker v. Turpin:** Applied to preserve the distinction between barred authorization review and an independently invoked collateral channel; retained jurisdiction remains separate from entitlement to relief.
+- **Triestman v. United States** and **In re Dorsainvil:** Their authorization-review prohibitions remain intact; neither supplied a Supreme Court savings-clause holding.
+- **Bousley v. United States:** Applied to separate substantive offense error, procedural default and factual innocence; exclusion of testimony alone is not factual innocence.
+- **Schlup v. Delo:** Its evidentiary innocence gateway remains distinct from statutory successive-motion requirements.
+- **Stewart v. Martinez-Villareal:** Distinguished because its actually presented premature claim remained reserved for first merits consideration.
+- **Slack v. McDaniel:** Distinguished because its exhaustion return followed no first federal merits adjudication; it does not excuse Barrett's omission here.
+- **Carlisle v. United States:** Applied to the residual-power boundary without eliminating genuinely independent remedies on their own predicates.
+
+### Sovereign immunity and accepted IDEA funding
+
+#### Bradley v. Arkansas Department of Education
+
+**Docket or dockets:** Eighth Circuit No. 98-1010; no Supreme Court docket number supplied.
+**Decided:** June 12, 2000.
+
+##### Actual acceptance of the disclosed IDEA funding condition supplies consent
+
+**Holding:** A State that voluntarily accepts IDEA assistance after the effective express condition in §§1403 and 1415 consents to federal judicial enforcement of the obligations of that funded program, within the recipient, claim and remedy covered by the condition. Arkansas's acceptance under that notice removes sovereign immunity from the Bradley IDEA action, including the same sovereign immunity asserted for the named officer in his official capacity; it supplies neither a general waiver for Arkansas nor consent inferred from ordinary regulated activity.
+
+**Proposition-level authority:** Thomas's Opinion of the Court, unanimous.
+
+**Material application:** The condition identifies the State, the federal forum and violations of IDEA. Section 1415 places federal judicial review among the procedures attached to the funded education program. Arkansas conceded both the spending-power validity of IDEA and its receipt of IDEA funds; its acceptance followed the express immunity condition. The present record supplies no retroactive surprise or coercive demand defeating that acceptance.
+
+**Limits and questions not reached:** The consent ground resolves the immunity appeal. The Court need not decide independent Article I or Section 5 abrogation. A difference between IDEA's protection and the constitutional minimum does not itself defeat preventive enforcement, as Boerne and Florida Prepaid establish, but neither does it establish IDEA's constitutional validity. No individual constitutional violation is an added prerequisite to proceeding on the consent ground.
+
+Section 1403(c) applies to violations occurring in whole or in part after October 30, 1990. Section 1403(b) makes legal and equitable remedies available only to the same extent as against another public entity; it creates no additional category of relief. The Bradleys seek prospective compliance, not compensatory or punitive damages. Lane's distinction between substantive coverage and consent to a particular remedy remains applicable; no unrequested damages question is decided.
+
+Section 1415(i)(2) permits an aggrieved party's civil action concerning the presented complaint after the specified administrative decision and appeal route: a party aggrieved under subsection (f) or (k) without a subsection (g) appeal, or a party aggrieved by the administrative appeal decision, may proceed in a competent state court or federal district court without an amount-in-controversy requirement. The court receives the administrative record, hears additional evidence at a party's request, and grants appropriate relief on the preponderance of the evidence. Section 1415(l) preserves rights, procedures and remedies under the Constitution, the Americans with Disabilities Act of 1990, title V of the Rehabilitation Act of 1973, and other federal laws protecting children with disabilities. Before a civil action under those laws seeking relief also available under IDEA is filed, it requires exhaustion of subsections (f) and (g) to the same extent as for an IDEA action. Immunity denial neither finds these predicates satisfied nor excuses them.
+
+The Court decides no educational violation, hearing violation, exhaustion issue, individual liability or particular decree. An independent prospective-officer claim still requires a connected officer, an ongoing federal violation and genuinely prospective relief; a treasury claim for past injury cannot become prospective by naming an employee. The Court creates no new defendant or officer claim. Jim C. and its Section 504 claim are outside the grant; IDEA acceptance establishes no Section 504 waiver. That statute's own federal-suit notice, accepted assistance and remedial scope require separate consideration in a case properly presenting them.
+
+**Operative remedy or transition:** The judgment denying sovereign immunity in the Bradley IDEA action is affirmed on the funding-consent ground. The case returns through the Eighth Circuit for ordinary adjudication in the District Court. The Court establishes no violation of a free appropriate public education obligation or hearing requirement and awards no damages, injunction, fees or other relief. The same sovereign-immunity defense asserted for Crowley in official capacity fails within the accepted condition; personal-capacity liability is not decided. No judgment is entered concerning Jim C., Section 504 or other ungranted claims.
+
+**Treatment of earlier authority:**
+
+- **Atascadero State Hospital v. Scanlon, 473 U.S. 234 (1985):** Applies its requirement of unmistakable notice of a federal-suit condition; actual IDEA acceptance under the express text satisfies that requirement rather than displacing it.
+- **Dellmuth v. Muth, 491 U.S. 223 (1989):** Distinguishes the earlier statutory absence of a clear State/federal-suit provision; its clarity requirement remains, while §1403 supplies the notice missing there.
+- **South Dakota v. Dole, 483 U.S. 203 (1987):** Applies relatedness to enforcement of this funded program and preserves the coercion limit; the record does not establish a coercive demand defeating the conceded program acceptance.
+- **College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board (June 23, 1999):** Applies the distinction between congressional intent and actual State consent. Its rejection of consent inferred from ordinary commercial participation remains; the Court resolves the reserved accepted-benefit question only for the identified IDEA condition.
+- **Cedar Rapids Community School District v. Garret F. (March 3, 1999):** Preserves the enforceability of a disclosed IDEA obligation despite continuity or substantial cost. Its service holding does not establish this claim's merits, immunity or a damages entitlement.
+- **Lane v. Peña, 518 U.S. 187 (1996):** Applies the distinction between substantive duty and consent to the asserted remedy. This State-program holding supplies no general federal or State damages waiver.
+- **Seminole Tribe of Florida v. Florida; Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank; Kimel v. Florida Board of Regents:** Preserve the distinct inquiries into express suit authorization and constitutional power. Florida Prepaid's Article I holding and Kimel's application remain controlling; this consent decision neither relies on nor rejects an independent application of that power to IDEA.
+- **City of Boerne v. Flores; Florida Prepaid; United States v. Morrison / Brzonkala v. Morrison:** Preserve fitted preventive Section 5 legislation reaching some conduct not independently unconstitutional. No blanket IDEA invalidity, constitutional education right or mandatory individual-violation rule follows; IDEA's Section 5 validity remains undecided here.
+- **Kentucky v. Graham, 473 U.S. 159 (1985):** Applies the identity of the sovereign immunity asserted in official capacity with that possessed by the governmental entity; the same consent defeats that immunity without deciding personal liability.
+- **Ex parte Young; Edelman v. Jordan; Idaho v. Coeur d'Alene Tribe of Idaho:** Preserve the connected-officer, ongoing-federal-violation and genuinely prospective-relief requirements, including the bar on treating retrospective treasury compensation as prospective relief. No separate officer decree is entered.
+
 ## Criminal Procedure
 
 ### Appellate finality
@@ -23269,6 +23603,243 @@ Knotts remains existing law at its actual scope. The concession to ordinary publ
 
 No earlier decision is overruled. Chapman and Neder inform Stevens's proposed remedy only; this decision makes no Court holding about constitutional harmlessness.
 
+### Bank robbery and lesser-included offenses
+
+#### Carter v. United States, 530 U.S. 255 (2000)
+
+**Docket or dockets:** No. 99-5716.
+**Decided:** June 12, 2000.
+
+##### I. Specific theft intent is an additional larceny element
+
+**Holding:** In the completed forcible-or-intimidating taking charged here, §2113(a)'s first paragraph requires knowing conduct satisfying its taking conditions, but does not require §2113(b)'s additional intent to steal or purloin. That additional purpose independently prevents either grade of §2113(b) from being necessarily included under Rule 31(c).
+
+**Proposition-level authority:** Part I of O'Connor's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five Justices.
+
+##### II. Carrying away independently prevents inclusion
+
+**Independent alternative holding:** Section 2113(b) requires taking and carrying away the property, while the charged completed-taking branch of §2113(a) does not require the additional carrying away. That difference independently defeats inclusion of either larceny grade, even if their culpability requirements were assumed to coincide.
+
+**Proposition-level authority for alternative holding:** Part II of O'Connor's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five Justices adopt this independently sufficient ground.
+
+##### III. The higher grade also requires value exceeding $1,000
+
+**Holding:** Value exceeding $1,000 is an element of §2113(b)'s grade carrying a ten-year maximum, and is not merely a sentencing factor. Because the charged §2113(a) taking has no value threshold, that higher larceny grade is not itself a statutory subset of robbery.
+
+**Proposition-level authority:** Part III of O'Connor's Opinion of the Court, unanimous on the additional value element and the limited higher-grade subset conclusion.
+
+**Limits and questions not reached:** The approximately $14,000 allegation and approximately $16,000 trial account do not make a value threshold an element of statutory robbery. Schmuck's comparison does not become an indictment-specific comparison merely because the amount is alleged. The correct threshold is $1,000, following the 1996 amendment; the proposed $100 instruction is not silently corrected. This holding alone does not decide the lower larceny grade, whose inclusion the Court rejects on Parts I and II. The Court does not determine whether the lower paragraph demands affirmative proof that value cannot exceed $1,000.
+
+##### IV. The elements failure resolves the requested instruction
+
+**Holding:** Because neither larceny grade is necessarily included in the charged completed robbery under the Court's intent and movement constructions, the denied §2113(b) instruction supplies no ground to disturb the conviction. A defendant's request alone does not create a Rule 31(c) exception to those statutory differences.
+
+**Proposition-level authority:** Part IV of O'Connor's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five Justices.
+
+**Limits and questions not reached:** The decision concerns the charged completed-taking configuration, not every extortion, attempt or entry offense. It decides neither entitlement to another offense instruction nor any independent trial error. Section 2113(a) permits a fine under title 18, imprisonment up to twenty years, or both. Section 2113(b)'s higher grade permits a fine under title 18, imprisonment up to ten years, or both; its lower paragraph specifies a fine no greater than $1,000, imprisonment up to one year, or both. These descriptions create no new sentencing determination in Carter's case.
+
+Awareness of facts, consent to an instruction, legal sufficiency of the indictment, grand-jury waiver and admission of an offense element remain distinct. No missing value allegation or completed waiver is found. The Court reserves whether the full indictment independently charges another offense and decides no separate charging route.
+
+**Operative remedy or transition:** The Third Circuit's judgment is affirmed as against the refusal of the requested §2113(b) instruction. Carter's robbery conviction and sentence remain undisturbed on this ground. No acquittal, substituted larceny conviction, sentence reduction or new trial is ordered. Independent issues not before the Court and the separate Pennsylvania convictions are unaffected.
+
+**Treatment of earlier authority:**
+
+- **Schmuck v. United States, 489 U.S. 705 (1989):** Applies legally construed statutory elements and preserves the independent rational-jury inquiry; factual overlap and a unilateral instruction request do not replace inclusion.
+- **Morissette v. United States, 342 U.S. 246 (1952):** Preserves appropriate culpability and common-law context without importing every common-law ingredient into the distinct statutory descriptions.
+- **Staples v. United States; United States v. X-Citement Video:** Apply contextual fault analysis; neither requires the additional theft purpose for this already culpable taking. X-Citement Video's distinction between an existing factual finding and unresolved indictment consequences remains.
+- **Bell v. United States, 462 U.S. 356 (1983):** Applies the recognition that bank-larceny coverage is not confined to unchanged common-law larceny; Bell does not itself decide Rule 31(c) inclusion.
+- **Jerome v. United States; Prince v. United States:** Preserve their actual statutory settings without using the statute's title or general structure to erase the contrasting completed-taking elements.
+- **Almendarez-Torres v. United States; Jones v. United States (March 24, 1999); Castillo v. United States (June 5, 2000):** Apply their statutory aggravated-element treatment as analogues for the higher-value grade. Their ordinary charging and jury consequences remain; no general constitutional sentencing rule or actual indictment defect is found here.
+- **Keeble v. United States, 412 U.S. 205 (1973):** Preserves the function of an included, evidence-supported alternative; neither prerequisite is removed.
+- **Stirone v. United States, 361 U.S. 212 (1960):** Preserves protection of the actual grand-jury charge; its prosecution-created enlargement setting does not itself settle every defendant-requested election.
+- **Mosley v. United States:** The Court's procedural disposition established no bank-larceny elements rule; it supplies no merits authority for this decision.
+
+### Capital parole information
+
+#### Ramdass v. Angelone, 530 U.S. 156 (2000)
+
+**Docket or dockets:** No. 99-7000.
+**Decided:** June 12, 2000.
+
+##### II. Absence of entry does not conclusively defeat the truthful-response claim
+
+**Holding:** When the State places future dangerousness at issue, the absence of formal entry of judgment on a separate guilty verdict does not by itself defeat a claim that due process required a truthful account of that verdict's conditional parole consequence. A case in which substantive adjudication was complete and only entry remained may require that account; mere expectation of conviction, confidence in guilt or a favorable release prediction does not.
+
+**Proposition-level authority:** Part II of Stevens's opinion, joined by Stone-Zsela, Souter, Ginsburg and Breyer, supplies five direct votes.
+
+**Limits and questions not reached:** The record does not establish that substantive adjudication was complete. Rule 3A:15 preserved judicial power to set aside the verdict for trial error or insufficient evidence; that power proves neither an actual pending defect nor that every substantive question had ended. Later entry proves neither proposition retrospectively. A verdict facing a genuine unresolved merits issue is outside this rule. Any required account must state the conditional consequence of entry; it may not falsely state that Ramdass was already ineligible during the jury's deliberations. The Court decides no separate arbitrary-manipulation claim or separate claim concerning the April 2 judicial sentencing.
+
+**Operative remedy or transition:** The judgment does not reinstate the District Court's sentencing order or vacate the sentence. It orders no present writ, new penalty proceeding, evidentiary hearing or other evidentiary command, deadline, release, stay or execution-related relief. The conviction and unrelated claims remain untouched. Denial on a properly supported independent ground remains available on remand.
+
+**Treatment of earlier authority:**
+
+- **Simmons v. South Carolina:** Applies its effective-opportunity protection and clarifies that entry alone does not conclusively foreclose a truthful account of a completed adjudication's conditional consequence. Actual entitlement and effect remain unresolved; no false statement of present ineligibility is authorized.
+- **Gardner v. Florida:** Applies the right to explain material capital-sentencing information; it supplies the opportunity-to-answer foundation, not a present writ.
+- **Skipper v. South Carolina:** Applies the protection for rebutting a State future-danger case; its distinct mitigation holding remains intact.
+- **California v. Ramos:** Preserves truthful release-related information and distinguishes it from a misleading account of the lawful alternative; no guarantee against clemency or future legislation is required.
+- **Allridge v. Scott:** Preserves the distinction between fixed legal consequences and release predictions. It does not settle whether the Domino's substantive adjudication was complete and does not supply a constitutional holding dated before November 1994.
+
+For state-law classification, the independent federal habeas gateways, and the bounded remand, see Ramdass v. Angelone, No. 99-7000, June 12, 2000, under Federal Courts, federal habeas review of capital parole information.
+
+### Constitutional elements and maximum punishment
+
+#### Apprendi v. New Jersey, 530 U.S. 466 (2000)
+
+**Docket or dockets:** No. 99-478.
+**Decided:** June 26, 2000.
+
+##### Present-offense facts necessary for a higher maximum require element protections
+
+**Holding:** Under the Sixth Amendment's jury guarantee, applied to the States through the Fourteenth Amendment, and the Fourteenth Amendment's Due Process Clause, a fact concerning the commission or consequences of the present offense that is legally necessary to authorize punishment above the maximum supported by the verdict or plea is an element. It must be admitted as an element or proved to a jury beyond a reasonable doubt; a sentencing label does not remove those requirements.
+
+**Proposition-level authority:** Justice Stone-Zsela's Opinion of the Court, joined by Stevens, Scalia, Souter, Thomas, Ginsburg. Six direct rationale votes control the rule, both procedural guarantees, the Count 18 application and the bounded remedy. This is a new constitutional holding; the earlier statutory decisions did not establish it.
+
+**Material application:** The plea's express reservation permits this claim; knowledge of possible exposure and admission of an unlawful purpose to frighten or harass do not admit the additional racial purpose. The lower court's view of strong evidence supplies neither an admission nor a jury verdict. The judgment sustaining the enhanced term is reversed and the term vacated, with the limited remand stated below. This application adopts no universal structural-error classification and does not automatically extend Neder's qualified materiality-error inquiry to every sentencing aggravator or plea defect.
+
+**Limits and questions not reached:** Facts of prior conviction are not decided; there is no constitutional prior-conviction exception in this holding. Whether, or in what form, a State must charge a covered fact is not decided, and the Fifth Amendment's grand-jury clause is not applied to the States. The federal charging consequences of the earlier statutory decisions remain intact. Judicial factfinding within punishment already authorized by the conviction remains permissible. Unchanged-maximum mandatory minima, general consecutive-sentence rules, capital eligibility or selection, and materially different sentencing systems, including general Guidelines classifications, remain outside this decision. McMillan and Walton are not overruled. No valid waiver of the reserved claim occurred here; any distinct lawful-waiver question retains its own requirements.
+
+**Operative remedy or transition:** The New Jersey judgment is reversed insofar as it sustains the twelve-year Count 18 sentence. The constitutional rule adopted here requires vacatur of that enhanced sentence. On the existing admitted offense, a sentence within the five-to-ten-year range is permissible. Any further proceeding must have a basis in state law and comply with the governing plea, notice, waiver, sufficiency and double-jeopardy rules; the Court neither orders nor authorizes a new aggravated prosecution or enhancement jury merely by remanding.
+
+The pleas and convictions remain intact. The Court orders no acquittal, withdrawal of the pleas, specific new sentence, consecutive restructuring, aggregate sentence or release. The separate Graves Act question is not decided; any parole consequence must follow the lawful sentence and that provision's own terms rather than automatic retention of the former four-year figure.
+
+**Treatment of earlier authority:**
+
+- **Duncan v. Louisiana:** Supplies application of the criminal jury guarantee to state prosecutions; the present rule identifies the additional fact that receives that guarantee.
+- **In re Winship:** Supplies the reasonable-doubt protection for offense facts; that burden now governs the covered maximum-increasing present-offense fact.
+- **United States v. Gaudin:** Applies once the constitutional element is identified; the jury must determine that element, while Gaudin alone did not decide this antecedent classification.
+- **Mullaney v. Wilbur:** Supports examination of the fact's legal role rather than its label when necessary facts determine aggravated punishment.
+- **Patterson v. New York:** Preserves legislative definition of substantive offenses without permitting a label alone to transfer a covered aggravating element away from the jury.
+- **Almendarez-Torres v. United States:** Preserves its aggravated-reentry statutory construction and federal charging consequences; neither a general constitutional maximum rule nor a constitutional recidivism exception is attributed to it.
+- **Jones v. United States**, No. 97-6203: Preserves its construction of aggravated carjacking grades and associated federal element protections; the constitutional issue reserved there is decided here only at the present-offense scope.
+- **Castillo v. United States:** Preserves the statutory element treatment of the former firearm-type aggravators; it is an analogue, not an earlier constitutional holding.
+- **Carter v. United States:** Preserves its statutory value-element and distinct offense-comparison holdings; it does not supply a prior constitutional answer or a state charging rule.
+- **McMillan v. Pennsylvania:** Distinguished because its minimum left the maximum unchanged; that holding is not overruled.
+- **Witte v. United States:** Preserves ordinary sentencing consideration within punishment authorized by the conviction; it supplies no additional maximum here.
+- **United States v. Watts / United States v. Putra:** Preserves its within-authority sentencing operation; the Court does not extend it to the fact that first authorizes a higher maximum.
+- **Monge v. California:** Preserves its bounded noncapital prior-conviction double-jeopardy classification and reservations of independent charging, jury and proof questions; it supplies no rule for this nonrecidivist fact or automatic authority for a further proceeding.
+- **Neder v. United States:** Preserves its qualified actual-verdict inquiry for the materiality errors it decided; strong evidence does not supply an actual admission here, and no universal sentencing-error rule is adopted.
+- **Walton v. Arizona:** Leaves its capital rule undisturbed; the present noncapital decision does not resolve its relation to the broader constitutional theories in separate writings.
+
+### Custodial statements and constitutional safeguards
+
+#### Dickerson v. United States, 530 U.S. 428 (2000)
+
+**Docket or dockets:** No. 99-5525.
+**Decided:** June 26, 2000.
+
+##### I. Miranda's constitutional safeguard cannot be replaced by voluntariness alone
+
+**Holding:** Miranda's warnings and waiver requirements implement the constitutional privilege against compelled self-incrimination in custodial interrogation, and Congress cannot authorize case-in-chief use of a statement that those requirements exclude merely because the statement is voluntary under 18 U.S.C. §3501(a)–(b). Genuinely equally effective safeguards remain permissible; no exact verbal formula is indispensable, and an unwarned statement is not necessarily actually coerced for every purpose.
+
+**Proposition-level authority:** Part I of Justice Stevens's Opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Seven direct rationale votes control the constitutional rule, statutory application, qualifications and suppression remedy.
+
+**Limits and questions not reached:** Subsection (a) concerns federal or District of Columbia criminal prosecutions. It requires the judge to resolve voluntariness outside the jury's presence and, upon finding the confession voluntary, to allow the jury to hear relevant voluntariness evidence and instruct it to give the confession the weight it deserves in light of all the circumstances. Its admission command remains subject to the constitutional safeguard stated above. Under subsection (b), all circumstances must be considered, including the arrest-to-arraignment interval when applicable, knowledge of the suspected offense, advice or knowledge concerning silence and use, prior advice of counsel rights, and absence of counsel during questioning and confession. The presence or absence of a listed factor need not be conclusive; consideration is mandatory, conclusiveness is not. Independent voluntariness review survives.
+
+The Court does not invalidate the whole section. Subsection (c) protects a voluntary confession against exclusion solely for presentment delay when its weight is left to the jury and it is given within six hours of the relevant arrest or detention; the time limit does not apply when the judge finds a longer delay reasonable considering transportation and distance to the nearest available qualifying magistrate or other committing officer. Alvarez-Sanchez's relevant-duty inquiry and unresolved post-six-hour and McNabb–Mallory questions remain. Subsection (d) does not bar voluntary statements given without interrogation or while the speaker is not under arrest or detention; those alternatives remain distinct. Subsection (e) includes an admission of guilt and any oral or written self-incriminating statement. Each provision remains subject to constitutional requirements.
+
+No automatic civil liability, general fruit-of-the-statement rule, mandatory warning wording or elimination of recognized exceptions follows. The separate apartment-evidence ruling, car-evidence dispute, refusal to reopen the suppression record and circuit authority to raise section 3501 are outside this review. The Court orders no new suppression hearing, dismissal, acquittal, release or vacatur of a conviction; none exists at this interlocutory stage.
+
+##### II. The Court retains Miranda's core against the separate request for judicial abandonment
+
+**Holding:** The Court declines to replace Miranda's core case-in-chief safeguard with a voluntariness-only rule: congressional preference for that rule and the existing distinctions between unwarned and actually compelled statements do not supply sufficient justification for abandonment here. Retention of the core leaves genuinely effective alternatives and the recognized, separately bounded exceptions available.
+
+**Proposition-level authority:** Part II of Stevens's Opinion of the Court is joined by O'Connor, Kennedy, Souter, Ginsburg and Breyer. These six directly adopt the additional stare-decisis ground. Stone-Zsela agrees that the alternative request for judicial abandonment is rejected but adds no ground and does not join Part II. No Marks combination is needed.
+
+**Operative remedy or transition:** The Fourth Circuit's judgment is reversed insofar as section 3501 supplied its basis for reversing statement suppression. The District Court's order suppressing the disputed statement from the prosecution's case in chief is restored, subject to a properly preserved exception, and the prosecution returns for further proceedings consistent with Miranda. The independent physical-evidence disposition is undisturbed. The Court neither reopens the suppression record nor directs a new hearing, dismisses the indictment, acquits Dickerson, orders release or vacates a nonexistent conviction.
+
+**Treatment of earlier authority:**
+
+- **Miranda v. Arizona, 384 U.S. 436 (1966):** Its constitutional custodial-interrogation safeguard, case-in-chief exclusion and allowance for equally effective alternatives are retained. Voluntariness alone cannot replace its applicable requirements.
+- **Withrow v. Williams, 507 U.S. 680 (1993):** Its constitutional habeas operation supports Miranda's status; its distinction between a warning claim and separately presented coercion remains. No new collateral-review rule is adopted.
+- **Michigan v. Tucker, 417 U.S. 433 (1974):** Its derivative-evidence setting and distinction between safeguards and actual compulsion remain; it does not authorize general case-in-chief use of the original unwarned statement.
+- **Oregon v. Elstad, 470 U.S. 298 (1985):** Its treatment of a later voluntary warned statement remains; the original unwarned statement's exclusion is not erased.
+- **Harris v. New York, 401 U.S. 222 (1971), and Oregon v. Hass, 420 U.S. 714 (1975):** Their impeachment uses remain subject to their own requirements and do not become ordinary prosecution case-in-chief permission.
+- **New York v. Quarles, 467 U.S. 649 (1984):** Its public-safety exception remains limited to its governing conditions; the decision does not replace the general warning rule.
+- **Colorado v. Connelly, 479 U.S. 157 (1986):** Police coercion remains necessary to due-process involuntariness; absence of warnings alone does not establish that distinct defect.
+- **Smith v. Robbins, January 19, 2000:** Its distinction between equivalent form and preservation of the required function informs the substitute inquiry; its appellate-counsel setting does not itself decide confession admissibility.
+- **United States v. Alvarez-Sanchez, 511 U.S. 350 (1994):** Its subsection-(c) relevant-presentment-duty rule, six-hour protection, transportation-and-distance proviso and reservations remain. Today's decision resolves the distinct voluntariness-only displacement question that it reserved.
+- **Stansbury v. California, 511 U.S. 318 (1994), and Thompson v. Keohane, 516 U.S. 99 (1995):** Their objective custody rule and distinction between ultimate constitutional classification and historical facts remain; no new custody or credibility finding is made.
+- **Davis v. United States, 512 U.S. 452 (1994):** Its actual postwaiver clarification, clear-invocation and waiver rules remain; its reservation of the overall section-3501 question is not treated as an earlier answer.
+
+### Firearm-type elements under former section 924(c)
+
+#### Castillo v. United States, 530 U.S. 120 (2000)
+
+**Docket or dockets:** No. 99-658.
+**Decided:** June 5, 2000.
+
+##### The former statute makes firearm type an aggravated-offense element
+
+**Holding:** Under offense-date, pre-1998 §924(c)(1), the machinegun, destructive-device, designated short-barreled-weapon, silencer and muffler classifications define aggravated offenses. Each applicable aggravator must be alleged in the indictment and, absent a valid admission as an element or valid jury waiver, proved to the jury beyond a reasonable doubt; a judge's weapon finding alone cannot authorize the aggravated grade.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, unanimous; all nine join the construction, element consequences and remedial limits.
+
+**Limits and questions not reached:** This is a construction of the former statute. The materially restructured 1998 provision, a general constitutional rule for every maximum-increasing fact, ordinary within-range judicial discretion and any unverified charging defect are not decided.
+
+**Operative remedy or transition:** The unsupported aggravated firearm-type sentences cannot stand; the judgment is reversed and remanded for lawful further proceedings. The actual charge, verdict, preservation and available error rules control. No acquittal, automatic retrial, five-year cap, replacement term or disposition of unrelated counts is ordered.
+
+**Treatment of earlier authority:**
+
+- **Almendarez-Torres v. United States** and **Jones v. United States (March 24, 1999):** Apply their aggravated-element and charging principles as statutory analogues; neither becomes a universal constitutional sentencing rule.
+- **Hamling v. United States:** Applies the requirement that the federal indictment allege the offense's elements.
+- **United States v. Gaudin:** Applies jury determination beyond a reasonable doubt to the classified element.
+- **McMillan v. Pennsylvania:** Distinguished because its mandatory minimum did not change the maximum; its bounded holding remains.
+- **Witte v. United States** and **United States v. Watts / United States v. Putra:** Preserve judicial findings within conviction-authorized punishment, without allowing this missing aggravated element.
+- **Neder v. United States:** Its materiality-error holding remains at its actual scope; the Court decides no universal omission or amendment rule here.
+
+### Immunized document production and derivative evidence
+
+#### United States v. Hubbell, 530 U.S. 27 (2000)
+
+**Docket or dockets:** No. 99-166.
+**Decided:** June 5, 2000.
+
+##### Compelled testimonial selection cannot become an immunized witness's investigative roadmap
+
+**Holding:** When a broad subpoena compels an immunized individual to use personal knowledge to identify, locate and assemble previously unidentified incriminating documents, and that production communicates information beyond a foregone conclusion, sections 6002–6003 bar direct criminal use of the compelled testimony and evidence derived from it. The Government bears the affirmative burden of proving legitimate sources wholly independent of that testimony; declining to introduce either the production act or the papers at trial does not satisfy that burden.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, joined by all eight other Justices. All nine directly adopt the full rule, its exceptions and the dismissal consequence.
+
+**Limits and questions not reached:** This protection is not immunity for every transaction described in a paper. Genuine foregone conclusions, third-party production, collective-entity doctrine and genuinely independent evidence retain their distinct operation; Balsys leaves domestic immunity intact. Section 6002 also retains its express exception for prosecution for perjury, giving a false statement or otherwise failing to comply with the order. None supplies the prosecution here.
+
+**Limits and questions not reached:** No general privilege for voluntary contents, transaction-wide immunity, new source hearing, disposition of other defendants or revival of the Independent Counsel authority issue follows.
+
+**Operative remedy or transition:** The mandate requires implementation of dismissal of this indictment under the immunity ruling and the conditional agreement. No new source inquiry is ordered. Other defendants' charges and the excluded Independent Counsel authority ruling remain outside the judgment; independent evidence retains its ordinary legal availability without any finding that such evidence exists here.
+
+**Treatment of earlier authority:**
+
+- **Fisher v. United States:** Applies the act/contents distinction and foregone-conclusion boundary; voluntary preparation does not excuse derivative use of compelled testimony.
+- **United States v. Doe (1984):** Applies protection for an incriminating individual act of production despite unprivileged contents.
+- **Kastigar v. United States:** Applies direct and derivative immunity and the Government's affirmative wholly independent-source burden.
+- **Doe v. United States (1988):** Distinguishes a noninformative hypothetical consent act from disclosure of the individual's knowledge.
+- **Braswell v. United States:** Preserves collective-entity doctrine and its treatment of the individual production act; it does not resolve this immunized personal subpoena by collapsing act into contents.
+- **United States v. Balsys:** Preserves domestic use-and-derivative-use immunity; its independent-foreign-risk rule does not narrow the protection here.
+
+### Preserving objections after defensive disclosure
+
+#### Ohler v. United States, 529 U.S. 753 (2000)
+
+**Docket or dockets:** No. 98-9828.
+**Decided:** May 22, 2000.
+
+##### Defensive disclosure does not itself abandon a preserved impeachment objection
+
+**Holding:** A defendant who timely and specifically objects to a definitive ruling admitting a prior conviction for impeachment does not lose review merely by disclosing that conviction first to reduce its prejudicial impact. The objection remains subject to ordinary admissibility and harmless-error review; preservation alone establishes no error or entitlement to a new trial.
+
+**Proposition-level authority:** Stevens's opinion, joined in full by Stone-Zsela, Souter, Ginsburg and Breyer, supplies five direct votes for the complete holding and remedy.
+
+**Limits and questions not reached:** Rule 609(a)(1) requires that qualifying felony impeachment of the accused have probative value outweighing its prejudicial effect to that accused. The Court does not decide that balance. Rule 609's separate treatment of other witnesses and dishonesty crimes remains intact. This holding concerns timely objection, a definitive ruling and defensive disclosure. Silence, tentative rulings, failure to testify, independent affirmative use, express consent, waiver and invited error remain distinct; broader constitutional questions are not decided.
+
+**Operative remedy or transition:** The Ninth Circuit's preservation bar is reversed. Admissibility and any resulting harmless-error question return for ordinary appellate decision. The trial convictions are not vacated, and the Court orders neither acquittal nor an automatic new trial.
+
+**Treatment of earlier authority:**
+
+- **Luce v. United States, 469 U.S. 38:** Distinguished because Ohler testified; its no-testimony preservation holding remains intact.
+- **United States v. Olano:** Applied to distinguish an actual surrender of the right from conduct that merely mitigates an adverse ruling; its forfeited-error framework is unchanged.
+- **New York v. Hill:** Applied at the actual-consent boundary; it creates no general presumption that a defensive tactic waives an objection.
+- **United States v. Martinez-Salazar:** Applied for the distinction between responding to an error and surrendering the underlying objection; it is not extended into a universal compelled-choice rule.
+- **Old Chief v. United States:** Its distinction between contextual evidence choices and independent whole-record harmlessness supports the preservation rule; its status-only adequate-substitute holding is not expanded to govern every impeachment use.
+
 ## Civil Rights
 
 ### Abortion emergency care
@@ -29425,6 +29996,159 @@ For the commerce and municipal-staffing holdings in Gillespie, April 17, 2000, N
 - Monell v. Department of Social Services, 436 U.S. 658, Collins v. City of Harker Heights, February 26, 1992, and City of Los Angeles v. Heller, 475 U.S. 796, preserve the distinction between federal deprivation, municipal responsibility and a personal immunity defense.
 - Freeman, Wood, Ross, Salas, Gregory, Piotrowski and the May 30, 1995 en banc Pinder opinion are considered as contemporaneous circuit authority at their actual holdings and reservations. They are not converted wholesale into Supreme Court rules, and neither side's competing notice application controls merely by collecting their citations.
 
+### Abortion method prohibitions and necessary-health protection
+
+#### Stenberg v. Carhart, 530 U.S. 914 (2000)
+
+**Docket or dockets:** No. 99-830.
+
+**Decided:** June 28, 2000.
+
+##### 1. The complete Casey standard governs the enacted duty and proved applications
+
+**Holding:** The complete six-step Casey standard, as applied in Fargo and Voinovich, governs Nebraska's method prohibition; an established substantial obstacle and denial of timely necessary life-and-health care are independently invalid, and the absence of an obstacle does not end review of remaining severe or meaningful interference. The Court applies that existing rule without substituting a numerical facial threshold, a no-valid-applications barrier, a physician-preference exemption or a new bodily-autonomy framework.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six direct joins. Kennedy does not join the completed applications.
+
+**Limits and questions not reached:** The complete six-step standard remains in the Casey entry. This decision applies baseline, obstacle and necessary-care protections; it makes no additional obstructive-purpose finding or new residual-interference application. A different precise method restriction with usable care safeguards remains subject to the complete framework.
+
+**Material application:** Before viability the patient decides whether to continue pregnancy without proving medical necessity or obtaining official approval of her reasons. The State may not prohibit that choice, confer effective control on another person, or prevent timely necessary life-and-health care. After viability, prohibition requires the life-and-health safeguard, including individualized physical and mental health considerations. Viability is individualized and medically supported, not a fixed constitutional week. Clinical appropriateness concerns safe and suitable care, not official approval of the patient's reasons; not every preference is a medical emergency.
+
+**Limits and questions not reached:** Challengers establish the duty, population, causation and triggering interference. The State then bears the applicable justification and tailoring or fit burden. This does not alter ordinary proof of disputed historical facts or the enacted burden for a separate statutory defense. No State substantiation burden arises merely because a law concerns abortion.
+
+##### 2. The enacted definition reaches ordinary D&E and creates a substantial obstacle
+
+**Holding:** Nebraska's definition reaches the supported ordinary dilation-and-evacuation sequence when the physician deliberately and intentionally brings a living fetus or a substantial portion into the vagina to perform a procedure the physician knows will cause death and that does cause death before delivery is completed. Prohibiting those ordinary D&E applications removes practical access to the predominant second-trimester method for the affected previability patients and creates a substantial obstacle, independently sustaining the existing bounded declaration and injunction.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six direct joins. Kennedy does not join the completed applications.
+
+**Material application:** The enacted substantial-portion alternative reaches the described living-limb D&E sequence when all intent, knowledge, life and timing elements are met. The Court does not prohibit every D&E by label or treat removal after death as satisfying the living-fetus requirement. The Attorney General's nonenforcement position is not an authoritative state-high-court construction or established control over every prosecutor.
+
+**Independent alternative holding:** Even if the prohibition could lawfully be confined to an intact procedure, it cannot be enforced in supported circumstances where compelling substitution for that method creates a material risk of death or serious health harm and the method is medically necessary for timely safe and suitable care. Nebraska's specified life-only exception and post-charge life-necessity evidence do not supply a usable exception for those necessary serious-health applications; this independent defect supports the existing protection at its proved nonviable scope.
+
+**Proposition-level authority for alternative holding:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six direct joins. Kennedy does not join the completed applications.
+
+**Material application:** Credited clinical evidence supports necessary risk reduction in identified recurring cases, not universal D&X superiority, every physician preference or a professional veto. Competent disagreement and the absence of controlled comparative studies do not erase those supported applications.
+
+**Limits and questions not reached:** Section 3(1), codified at section 28-328(1), permits the procedure only when necessary to save the mother's life endangered by physical disorder, illness or injury, including a life-endangering physical condition caused by or arising from the pregnancy. It supplies no independent serious-health exception. The separate emergency-situation definition turns on the physician's good-faith clinical judgment concerning a condition requiring immediate abortion to avert death or delay creating serious risk of substantial impairment of a major bodily function; section 3(1) does not invoke or incorporate that broader definition. A hearing after charges permits evidence on the same life criterion, not permission to provide the otherwise forbidden necessary-health treatment. Neither admissibility of the Director's findings nor a possible motion to delay trial supplies the missing substantive defense. Voinovich's Ohio alternative-method protections cannot be imported. This conclusion adds no general medical immunity and does not decide every future, precisely drawn method restriction with genuinely usable care safeguards.
+
+**Limits and questions not reached:** After criminal charges, the Attorney General must also petition for suspension or revocation, and a hearing must be set on the same life-necessity criterion. The defendant may move to delay the trial until the Director's order; delay is not automatic. The findings are admissible in the criminal case, not conclusive. None of these procedures supplies a preprocedure medical-board veto or the missing necessary-health defense.
+
+##### 4. Affirmance preserves the actual nonviable injunction and bars its evasion through dependent sanctions
+
+**Holding:** The existing declaration and injunction remain in force for Carhart, his patients and similarly situated persons regarding his D&E and D&X methods on nonviable fetuses, against the defendants and persons bound under Rule 65(d), with the existing county-attorney service direction. Criminal and licensing consequences cannot enforce those same unconstitutional applications, while independently lawful requirements and applications remain subject to Nebraska's section 8 severability direction and the judgment's actual limits.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six direct joins. Kennedy does not join the completed applications.
+
+**Operative remedy or transition:** The Eighth Circuit's judgment is affirmed. The existing declaration and permanent injunction protect Carhart, his patients and similarly situated persons regarding his D&E and D&X methods on nonviable fetuses. The defendants and their agents, servants and employees remain bound; Stenberg must serve the decision and judgment on Nebraska county attorneys, who and whose agents, servants and employees are bound as directed under Rule 65(d). Dependent criminal and license sanctions cannot enforce those protected applications. The Court adds no whole-statute facial invalidation, viable-fetus injunction, new hearing, damages award or separate fee decision. Independently lawful provisions and applications remain subject to section 8 and the actual judgment's limits.
+
+**Limits and questions not reached:** Nebraska section 8 preserves the validity of remaining portions when a section or part is unconstitutional. It supplies no power to insert an intact-only definition or health exception and does not erase the sanction provisions for every lawful application. The enacted Director, petition, hearing and evidentiary procedures remain material to what the law does; the Court neither converts the life-only hearing into a health defense nor decides the unnecessary relationship between section 3(4)'s mandatory wording and the general sanction menu. Patient immunity remains intact. No new hearing, administrative veto, prosecution, damages award or statewide medical-policy revision is ordered. Section 3(3) prohibits prosecution of the woman under this section or for conspiracy to violate it; that patient immunity is distinct from a physician defense.
+
+**Treatment of earlier authority:**
+
+- Planned Parenthood of Southeastern Pennsylvania v. Casey retains protected choice, individualized viability, timely necessary life-and-health care and the complete six-step rule. Both independent invalidity grounds are applications of that rule; residual severe- and meaningful-interference protections remain, and no obstacle-only substitute is adopted.
+- Fargo Women's Health Organization v. Schafer supplies the distinction between intelligibility, applicable fault and substantive access under the complete framework. An understandable life exception does not itself supply adequate necessary-health protection, and fault words do not automatically cure an exclusion of care.
+- Women's Medical Professional Corp. v. Voinovich requires attention to actual prohibited acts, usable alternatives, distinct statutory defenses and violation-matched relief. Its rejection of categorical notice reasoning remains; its remand on the Ohio method record does not require remand on every method law. Ohio's enacted alternative-method defenses and Ohio severability rules do not become Nebraska law.
+- Roe v. Wade and Doe v. Bolton retain the protected decision and clinical safeguards preserved in Casey; the independent trimester timetable remains displaced. No broader reconsideration or new fetal-personhood ruling is undertaken.
+
+### Parental liberty and third-party visitation
+
+#### Troxel v. Granville, 530 U.S. 57 (2000)
+
+**Docket or dockets:** No. 99-138.
+**Decided:** June 5, 2000.
+
+##### The protected parental choice and absence of a complete visitation standard
+
+**Authority of the judgment:** Affirmed, 6–3, leaving the petition dismissed and the visitation order unenforceable. Stone-Zsela, O'Connor, Souter, Thomas, Ginsburg and Breyer support affirmance; Stevens, Scalia and Kennedy oppose it. No controlling comprehensive visitation rationale exists under Marks.
+
+**Independently majority-supported proposition:** The protected liberty of a fit parent includes directing the child's care and upbringing. A court may not override that parent's visitation decision solely because the judge considers a different arrangement better for the child; ordinary judicial preference is not a sufficient constitutional justification.
+
+**Proposition-level authority:** Part I of Breyer's opinion has six direct joins: Stone-Zsela, O'Connor, Souter, Thomas, Ginsburg and Breyer. Their agreement is at precisely this level; their distinct additional scrutiny, trigger and statutory-scope rules are not combined.
+
+**Current force:** The parental-liberty and anti-substitution proposition controls at its stated level of generality; no complete visitation test follows from agreement in the judgment.
+
+**Limits and questions not reached:** The judgment binds the parties and leaves this order unenforceable. Part II's full special-weight and record-application analysis has three votes, O'Connor, Ginsburg and Breyer. Stone-Zsela's serious-harm or comparable-need rule, Souter's statutory-breadth rationale and Thomas's strict-scrutiny ground remain separate. No common scrutiny level, universal harm requirement, parental-unfitness prerequisite, proof burden or general facial invalidation receives a controlling adoption. No Marks synthesis supplies one. Other statutes and materially different nonparent relationships remain open; the Smith and Wolcott disputes and collateral fees are not adjudicated here.
+
+**Operative remedy or transition:** The Troxel petition remains dismissed and the visitation order unenforceable. No new best-interests proceeding, custody transfer, evidentiary hearing, fee award or disposition of the separate consolidated controversies is ordered. The decision leaves materially different visitation laws and relationships for cases presenting them.
+
+**Treatment of earlier authority:**
+
+- **Meyer v. Nebraska** and **Pierce v. Society of Sisters:** Apply the established protection of parental care and direction; neither supplies the entire ordinary-visitation test.
+- **Brown v. Hot, Sexy & Safer Productions, Inc.** and **Curtis v. School Committee of Falmouth:** Preserve protected family choice and instruction while distinguishing particular public-school veto claims from this intrusion.
+- **Baby Richard v. Kirchner:** Preserves its bounded child-transition interest and protection of lawful parental custody against preferred-home substitution; it creates no permanent grandparent-contact entitlement.
+- **A. St. P. C. v. B. C.:** Preserves the distinct clear-and-convincing rule before La. Rev. Stat. 9:364(D)'s mandatory complete-contact cutoff based on parental sexual abuse; it supplies no universal visitation burden.
+- **Washington v. Glucksberg:** Remains a decision concerning the asserted physician-assistance entitlement, without an exclusive most-specific-history method for all liberties.
+
+### Racial school-transfer classifications and educational integration
+
+#### Eisenberg v. Montgomery County Public Schools
+
+**Docket or dockets:** Fourth Circuit No. 98-2503, 197 F.3d 123; no Supreme Court docket supplied.
+**Decided:** May 30, 2000.
+
+##### I. The actual transfer restriction must satisfy the common standard
+
+**Holding:** A public school's racial transfer classification must satisfy Adarand's common substantial-justification standard: the government must establish an important objective within its lawful authority, a substantial evidence-supported relationship between the classification and that objective, and justification for its coverage and actual individual burdens, including a response to concrete practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Countywide percentages, administrative convenience, an inclusive label or racial allocation for its own sake cannot supply that showing.
+
+**Proposition-level authority:** Part I is joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer with Stone-Zsela, seven direct joins. Scalia and Thomas separately acknowledge the standard's binding force but dissent from this application and remedy.
+
+**Material application:** Race alone supplied the stated reason for this transfer denial. The actual restriction, including possible exclusion from the magnet lottery, imposes an individual burden requiring justification. The policy's unique-personal-hardship exception was used, including for siblings, but establishes neither this applicant's eligibility nor the policy's validity. Demographic figures alone establish neither the educational condition nor the denial's fit.
+
+**Limits and questions not reached:** Racial hierarchy, stereotypes, hostility, political favoritism and allocation for its own sake remain impermissible. A changed legal standard preserves supported findings and creates no automatic right to supplement the evidence.
+
+##### II. Supported educational benefits of K–12 integration may qualify
+
+**Holding:** Concrete educational benefits from meaningful integration and avoidance of serious racial isolation in K–12 public schooling can be an important lawful objective on a supported record. That permissible objective neither requires racial preferences nor validates this transfer mechanism; the government must still establish its educational claim, substantial fit and justified individual burdens under the common standard.
+
+**Proposition-level authority:** Part II has six direct joins: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. Kennedy expressly reserves this affirmative holding; Scalia and Thomas reject it.
+
+**Limits and questions not reached:** An adjudicated segregation violation is not the only possible basis for the objective, but the absence of a decree establishes no current remedial duty. No racial target, permanent policy or general obligation to use preferences is approved; the educational objective remains unproved here.
+
+##### III. Correct the injunction inquiry without deciding final relief
+
+**Holding:** The displaced legal premise requires vacatur of both appellate injunction directions and remand to apply the common standard to the preserved challenge and the ordinary requirements for preliminary and any properly available final relief. Further proceedings require an actual unresolved material issue under ordinary rules; the remand neither mandates new evidence nor establishes a right to a seat, final policy redesign or automatic denial of protection.
+
+**Proposition-level authority:** Part III has the same seven direct joins as Part I; Kennedy supports this standard-and-remedy resolution without joining Part II.
+
+**Limits and questions not reached:** The ordinary preliminary-relief inquiry retains its independent equitable requirements. Existing findings may suffice, and the lower courts must identify any unresolved material issue requiring further proceedings. Neither current enrollment, cessation of exposure nor loss of the controversy is presumed.
+
+**Operative remedy or transition:** The case returns for assessment under the correct constitutional and period-appropriate equitable standards. Both appellate injunction commands are set aside. Any interim arrangements must account for actual enrollment facts and ordinary procedural authority; no current placement, removal, stay, additional hearing or final policy is dictated by this judgment.
+
+**Treatment of earlier authority:**
+
+- **Adarand Constructors v. Peña:** Applied unchanged to the school transfer restriction, including evidence, coverage, burdens, alternatives and ordinary-remand limits; its displaced strict-scrutiny formulation is not restored.
+- **Hopwood v. Texas:** Its individual-opportunity and fitted-justification rules are applied. Its university-specific recognition of supported educational benefits is extended to the bounded K–12 objective adopted in Part II; its original reservation is not described as already deciding that extension.
+- **Texas v. Lesage:** Applied to distinguish unequal-process injury from entitlement to a seat and other relief; no race-free-only counterfactual is imposed where controlling law permits justified consideration.
+- **Adarand Constructors v. Slater:** Applied to preserve actual future-exposure and equitable predicates without assuming cessation, present enrollment or a vanished controversy.
+- **Blackwelder Furniture Co. v. Seilig Manufacturing Co.:** The period-appropriate preliminary-relief framework used below remains the procedural setting; no later injunction formula is substituted.
+
+### Substantive due process and mistaken parole
+
+#### Hawkins v. Freeman
+
+**Docket or dockets:** reviewing 195 F.3d 732 (4th Cir. 1999) (en banc); no Supreme Court docket number supplied.
+**Decided:** June 19, 2000.
+
+##### This mistaken conditional release does not constitutionally discharge the existing sentence
+
+**Holding:** A mistaken grant of parole does not require permanent release from the valid, unchanged and uncompleted sentence on this record: approximately twenty months of supervised community liberty, earlier correct eligibility notice, consideration of favorable adjustment evidence, a formal hearing, credit for the release period, and correction directed to enforcing the lawful sentence. The real liberty and successful adjustment do not themselves establish a fundamental entitlement to retain the unauthorized release or make this considered return to custody a substantive-due-process violation.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, unanimous on this bounded conclusion and its limits; no universal substantive-due-process methodology is adopted.
+
+**Limits and questions not reached:** The Court decides no state-law credit, estoppel, compensation or independent procedural defect in retaking. It does not decide a much longer state-caused delay, affirmative inducement of irreversible reliance, deliberate manipulation, bad faith, or custody after a sentence has legally ended. Reserving those different cases establishes neither an exception nor an entitlement, estoppel test, automatic remand or new balancing procedure. No general rule permits return after every duration or form of official abandonment. The Court finds no new dangerousness, behavioral violation, knowing procurement of error, mandatory revocation or promise of irrevocable release.
+
+**Operative remedy or transition:** The en banc Fourth Circuit judgment denying the presented substantive-due-process habeas claim is affirmed. Hawkins receives no release, sentence reduction, additional credit or new evidentiary proceeding. No independent procedural claim, damages claim or state-law remedy is adjudicated.
+
+**Treatment of earlier authority:**
+
+- **Young v. Harper, March 18, 1997:** Applies the recognition of actual parole-like community liberty while preserving the distinction between procedural protection and substantive irrevocability. Its preliminary and final safeguards are not redecided on an unpresented procedural claim.
+- **Morrissey v. Brewer, 408 U.S. 471:** Preserves the protected conditional liberty and distinction between initial detention and final revocation. It does not itself discharge an uncompleted sentence.
+- **Daniels v. Williams, 474 U.S. 327:** Preserves the negligence exclusion, while examining the later considered correction separately from the initial administrative mistake.
+- **Washington v. Glucksberg, June 26, 1997:** Preserves its bounded assistance-in-suicide holding and reservation of materially different particularized claims; rejects use of it as an exclusive most-specific-history method for all liberties.
+- **County of Sacramento v. Lewis, May 26, 1998:** Preserves its rapid-pursuit harmful-purpose rule and deliberation reservation. That emergency rule does not decide the Commission's considered action.
+- **Saenz v. Heldenfels Brothers, Inc., May 9, 2000:** Preserves separate identification of the interest, affirmative interference, culpability and causal effect. Its damages-immunity inquiry supplies no substitute merits bar in this habeas case.
+
 ## First Amendment
 
 ### Abortion information and compelled speech
@@ -32974,6 +33698,258 @@ For the continuing-controversy holding in City of Erie v. Pap's A.M., March 29, 
 - **Turner Broadcasting System, Inc. v. FCC:** Preserves independent evidentiary review and the distinct intermediate standard for content-neutral carriage. Neither conclusive deference nor that intermediate test governs §505.
 - **City of Erie v. Pap's A.M.:** Applies the distinction between communicative selection and genuinely general conduct regulation. The present content-directed command cannot receive incidental-burden treatment merely because it concerns distribution technology.
 
+### Close approaches and communication near health-care entrances
+
+#### Hill v. Colorado, 530 U.S. 703 (2000)
+
+**Docket or dockets:** No. 98-1856.
+
+**Decided:** June 28, 2000.
+
+##### 1. The law regulates a specified knowing approach, not all speech near a facility
+
+**Holding:** Colorado section 18-9-122(3) applies to a person who knowingly initiates an approach within eight feet of another person without that person's consent, for passing a leaflet or handbill to that person, displaying a sign to that person, or engaging that person in oral protest, education or counseling, on a public way or sidewalk within a radius of 100 feet from any entrance door to a facility legally licensed, certified, authorized or permitted to administer medical treatment in Colorado. Under the binding state construction, a stationary speaker need not retreat when someone else approaches; the law does not prohibit mere presence, all speech or signs within the area, or consensual communication.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I-III, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct joins.
+
+**Limits and questions not reached:** A recipient need not be a patient. The decision addresses subsection (3), not the separate knowing-obstruction offense, every permitted local law or the complete referenced civil cause of action. No petitioner's misconduct or liability is found.
+
+##### 2. The actual approach restriction is content neutral
+
+**Holding:** At its authoritative scope, subsection (3) regulates the manner of a close physical approach across subjects and viewpoints for access and treatment-related reasons independent of disagreement with the speaker's ideas. It is therefore reviewed as a content-neutral legislative time, place and manner restriction under Ward, rather than as a rule selecting a disfavored message or an individualized injunction.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I-III, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct joins.
+
+**Limits and questions not reached:** Classification requires actual operation and justification, not a benign objective or conduct label. The Court recognizes no general right to avoid unpopular ideas, no medical-area exception to public-forum rights and no independent suppression rationale based on emotional offense.
+
+##### 3. The limited approach rule satisfies Ward's fit and alternative-channel requirements
+
+**Holding:** Taken together, the eight-foot approach distance, 100-foot entrance-area limit, knowledge requirement, consent condition and binding no-retreat construction make subsection (3) narrowly tailored to significant access and medical-treatment interests while leaving ample usable communication channels. The facial challenge therefore fails under Ward, without establishing that every personal-distance rule is valid or foreclosing discriminatory-enforcement and materially broader as-applied challenges.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I-III, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct joins.
+
+**Material application:** The Court recognizes the burden on initiating a quiet exchange and taking a few steps to place a leaflet in a recipient's hand. The permitted channels must be practical, not merely theoretical: speakers can remain stationary and offer literature to passing people, display signs, speak audibly from a lawful distance, request consent, or converse with willing people who approach them. These opportunities are not identical to every preferred encounter, and amplification is not assumed to replace private conversation in every case. Their combined availability satisfies the present inquiry at the defined scope.
+
+**Limits and questions not reached:** Ward does not require the least restrictive conceivable means. The decision sustains the combination of limits, not eight feet alone; it creates no universal valid distance or mandatory retreat. Madsen's injunction standard and Schenck's invalidation of the moving fifteen-foot restraints remain.
+
+##### 4. The law is not facially vague at its authoritative scope
+
+**Holding:** The knowing speaker-initiated approach, ordinary communicative-purpose terms, consent condition, measurable geographic limits and binding no-retreat construction give adequate notice and constrain enforcement sufficiently to defeat this facial vagueness challenge. This conclusion does not decide every ambiguous encounter or approve punishment outside those elements.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Part IV, joined by Stevens, O'Connor, Souter and Ginsburg; five direct joins. Stone-Zsela agrees only with rejection of this ancillary claim.
+
+**Limits and questions not reached:** Knowledge operates with definite elements and the authoritative construction; it is not a universal cure for an undefined offense. Difficult mixed encounters or consent signals remain matters for concrete applications.
+
+##### 5. The facial record does not establish substantial unconstitutional overbreadth
+
+**Holding:** Coverage of all speakers and recipients in the specified public areas around qualifying health-care entrances does not, on this record and at the law's authoritative scope, establish a substantial unconstitutional sweep in relation to its valid applications. The facial overbreadth claim fails, while appropriate challenges to discriminatory enforcement, materially different applications, wide entrances or multipurpose buildings remain open.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Part IV, joined by Stevens, O'Connor, Souter and Ginsburg; five direct joins. Stone-Zsela agrees only with rejection of this ancillary claim.
+
+**Limits and questions not reached:** Harmless contacts and nonpatients are not excluded from the law or from overbreadth analysis. Neither general coverage alone nor hypothetical difficult settings establishes substantial unconstitutional reach here.
+
+##### 6. Consent to a close approach is not an official speech license
+
+**Holding:** Requiring the approached person's consent for the defined knowing close approach does not create an official licensing system or give that person authority to silence other speech, other willing listeners or stationary advocacy. The consent-based prior-restraint challenge therefore fails at this statutory scope.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Part IV, joined by Stevens, O'Connor, Souter and Ginsburg; five direct joins. Stone-Zsela agrees only with rejection of this ancillary claim.
+
+**Operative remedy or transition:** The Colorado Supreme Court's judgment is affirmed, leaving the defense summary judgment in place. No new remand, conviction, civil award or prospective injunction issues. Subsection (2)'s knowing obstruction offense remains distinct; subsection (5) permits local laws no less restrictive but receives no blanket constitutional approval; subsection (6) adds civil liability by reference to section 13-21-106.7 without a ruling on every element or remedy. A later challenge to actual discriminatory enforcement or a materially different application must be decided on its own facts and preserved legal grounds.
+
+**Treatment of earlier authority:**
+
+- Ward v. Rock Against Racism supplies content-neutral legislative time, place and manner review: significant interests, narrow tailoring and ample usable channels, without a least-restrictive-means requirement. It is applied to the actual combined limits of this approach rule.
+- Cincinnati v. Discovery Network supplies the limit that a benign objective alone does not cure speech-selective operation. The Court distinguishes this delivery mechanism while retaining that requirement.
+- City of Erie v. Pap's A.M. retains its rule against incidental-burden treatment when operation and justification principally target communicative expression. Its adult-entertainment holding does not decide this different, authoritatively confined approach mechanism, and its separate opinions are not combined into a broader rule.
+- Madsen v. Women's Health Center retains the more demanding injunction-fit standard and its invalidation of the 300-foot advance-invitation restraint. The smaller statutory approach rule and preserved channels do not revive that injunction or authorize another unsupported restraint.
+- Schenck v. Pro-Choice Network retains its invalidation of the particular moving fifteen-foot restraints and its qualified fixed-zone refusal provision. Neither supplies a universal numerical rule, a retreat duty here or a general power to silence an unwilling listener's surroundings.
+- Grayned v. City of Rockford supplies ordinary notice and constrained-enforcement requirements without mathematical certainty. It supports Part IV's facial clarity conclusion while preserving concrete application questions.
+- Broadrick v. Oklahoma supplies the requirement of substantial unconstitutional reach compared with legitimate operation. Part IV applies it without exempting time, place and manner regulations from overbreadth review.
+
+### Expressive association and adult leadership under an access law
+
+#### Boy Scouts of America v. Dale, 530 U.S. 640 (2000)
+
+**Docket or dockets:** No. 99-699.
+
+**Decided:** June 28, 2000.
+
+##### 1. An access-law defense requires an actual message, a relevant role and material expressive impairment
+
+**Holding:** A generally applicable public-accommodations law may govern an open civic organization's admission or retention of an otherwise qualified participant unless the organization establishes an actual message, shows that the particular role communicates it, and demonstrates that inclusion materially alters expression attributable to the group. An exclusion policy alone does not prove that connection; establishing a material burden would present further questions the Court need not decide here.
+
+**Proposition-level authority:** Souter's opinion of the Court, Parts I-III, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins. Part IV's stronger sustained-advocacy requirement and intimate-association reasoning have only four votes.
+
+**Limits and questions not reached:** Protected moral instruction may occur through adult example or quiet persuasion. The Court requires neither a single founding theme nor unanimity; genuine silence and direct-speech claims remain protected. Neither an exclusion policy nor societal approval proves the required expressive connection.
+
+##### 2. This record does not establish the necessary message-role-impairment connection
+
+**Holding:** On the record presented, retaining Dale as an assistant scoutmaster has not been shown materially to alter a defined message attributable to the Boy Scouts or to compel a contrary expressive presentation. The organization's moral instruction and authority over genuine role-related conduct remain protected, but neither Dale's status nor his external advocacy alone establishes the missing connection here.
+
+**Proposition-level authority:** Souter's opinion of the Court, Parts I-III, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins. Part IV's stronger sustained-advocacy requirement and intimate-association reasoning have only four votes.
+
+**Material application:** The oath, adult declaration, program and teaching by example establish expression, but do not prove the claimed homosexuality message or the effect of retaining Dale in this role. The dated policy statements are considered in their sequence; they are not all litigation inventions. Dale proposed no contrary Scouting lesson. The Court independently reviews expression and attribution while respecting credibility findings.
+
+**Limits and questions not reached:** A genuine leader who epitomizes an established contrary position could present a different application. This judgment creates no right to disregard lawful role-related instructions.
+
+##### 3. Neutral access enforcement may proceed without balancing away an established expressive burden
+
+**Holding:** Because the necessary material expressive impairment is not established, the State may enforce its ordinary nondiscrimination requirement in this adult-leadership application without a further balance against a proved serious expressive burden. The judgment leaves genuine spokespeople, materially expressive leadership roles, direct expressive presentations, intimate relationships and neutral discipline for role-related conduct subject to their own constitutional protections.
+
+**Proposition-level authority:** Souter's opinion of the Court, Parts I-III, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct joins. Part IV's stronger sustained-advocacy requirement and intimate-association reasoning have only four votes.
+
+**Limits and questions not reached:** State-law public-accommodation coverage does not itself defeat a federal defense. Public assistance or a federal charter alone does not establish state action. No membership-only compromise, general rule for youth members or other participant categories, or compelling-interest override of a proved serious burden is adopted.
+
+**Operative remedy or transition:** The New Jersey judgment is affirmed, and its existing remand proceeds within the adjudicated adult-leadership application. No final damages amount, new trial command or membership-only relief is supplied. The duplicative common-law claim remains dismissed. No other membership, employment or service application is decided.
+
+##### Whether the separate intimate-association defense defeats the adult-leadership application
+
+**Authority of the judgment:** Rejection of the defense remains in place. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer support that disposition, but Stone-Zsela adds no ground; only Stevens, Souter, Ginsburg and Breyer join Part IV's intimate-association rationale. O'Connor, Scalia, Kennedy and Thomas do not reach the defense. No controlling rationale or logical-subset rule under Marks is established.
+
+**Limits and questions not reached:** The judgment creates no new controlling intimate-association test. Genuine intimate relationships remain subject to their own constitutional protection.
+
+**Treatment of earlier authority:**
+
+- Roberts v. United States Jaycees supplies the actual expressive-burden inquiry and preserves both protected association and ordinary access enforcement; the Court does not decide that an antidiscrimination interest overrides a proved severe burden here.
+- Board of Directors of Rotary International v. Rotary Club of Duarte supplies attention to the association's actual activities, relationships and claimed impairment; a statutory label alone does not resolve the federal issue.
+- New York State Club Association v. City of New York supplies the distinction between real expressive injury and a general exemption from access regulation; its application-specific limits remain.
+- Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston remains controlling for private expressive composition, independent review and credibility deference. Its rule does not demand a single parade theme, and its direct expressive predicate is not established by mere status inclusion here.
+- California Democratic Party v. Jones retains its severe-burden holding for compelled outsider selection of official party nominees. The present record has not established the analogous material control of expression; Jones does not automatically decide every leadership or admission dispute.
+
+### Government-organized religious exercise in public schools
+
+#### Santa Fe Independent School District v. Doe, 530 U.S. 290 (2000)
+
+**Docket or dockets:** No. 99-62.
+**Decided:** June 19, 2000.
+
+##### The school may not delegate its official religious choice to a student majority
+
+**Holding:** A public secondary school may not organize an invocation as a representative component of its own football pregame ceremony and delegate to a student-majority election whether that official component will include religious exercise. The challenged board-created election mechanism violates the Establishment Clause under both its unrestricted and nonsectarian/nonproselytizing versions; relief reaches that mechanism while preserving genuinely voluntary private prayer, independent student expression, lawful secular messages and genuine neutral access.
+
+**Proposition-level authority:** Justice Breyer's opinion of the Court is joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, supplying seven direct votes for the rule, explanation and limited affirmance. The particular government-created representative religious choice is essential to all seven joins; the Court adopts no independent religious-pressure holding.
+
+**Limits and questions not reached:** The District stresses secular purposes, student authorship, no required prayer, optional attendance and the possibility of silence or a secular message. Those features do not remove the existing governmental mechanism. The Court assumes no official textual preapproval and no delivered October prayer; it does not rest on a finding that every secular purpose is a sham. The ability to decline use of the delegated religious authority does not transform it into neutral access. Pinette and Bronx Household protect actually private expression, where government has not adopted the devotion as its own event component. Tanford likewise distinguishes official organization from private composition, without making its adult setting identical to this school policy.
+
+The backup's religious-content limits retain the same official mechanism and do not cure it. The Court does not direct officials to edit private religion into acceptable language. Nor does it prohibit every election, invited student speaker or religious message. The existing mechanism suffices to affirm; Lee and Ingebretsen's separate protection against substantial practical religious pressure remains intact without requiring legal compulsion or compulsory attendance. No additional pressure finding, universal facial-challenge rule, new forum entitlement, graduation ruling or damages award is necessary.
+
+**Operative remedy or transition:** The judgment restrains the challenged official representative invocation mechanism. It preserves genuinely voluntary private prayer, independent student expression, lawful secular messages and genuine neutral access, and requires neither a new forum nor censorship of otherwise lawful private religious viewpoints. It does not decide graduation, damages or later incidents outside this record.
+
+**Treatment of earlier authority:**
+
+- **Agostini v. Felton:** Applied as the governing governmental-act/function inquiry; purpose, effects and entanglement remain evidence within that inquiry, not independent surviving prongs.
+- **Lemon v. Kurtzman:** Continues in the form Agostini adopted; the Court revives neither an independent purpose test nor an independent endorsement test.
+- **Lee v. Weisman:** Its official-organization rule applies to this school-created invocation mechanism. Its independently sufficient substantial-pressure rule remains, without a compulsory-attendance prerequisite; no new pressure holding is made here.
+- **Ingebretsen v. Jackson Public School District:** Its rejection of automatic insulation by student delivery and its protection of lawful private expression apply. Its provision-sensitive interim ruling is not recast as a universal rule invalidating every future religious message.
+- **Tanford v. Brand:** Preserved for its established official devotional program and its distinction between independent wording and private access; the Court does not transplant every feature of university commencement to football.
+- **Capitol Square Review and Advisory Board v. Pinette:** Its actual generally available private forum is distinguished from this selective representative event component; religious content and government location remain insufficient by themselves to establish attribution.
+- **Bronx Household of Faith v. Community School District No. 10:** Its independently organized private use remains protected; the school's own representative ceremony presents a different governmental function.
+- **Lamb's Chapel v. Center Moriches Union Free School District:** Its protection of religious viewpoints within genuine comparable private access remains intact; no schoolwide private forum is inferred here.
+- **Rosenberger v. Rector and Visitors of the University of Virginia:** Its independently directed private-expression relationship remains intact; it does not authorize government-organized worship.
+- **Chabad of Southern Ohio v. City of Cincinnati:** Its contextual attribution inquiry remains; neither a forum label nor location alone supplies the answer.
+- **Strout v. Albanese:** Its distinction between genuine private expression and governmental performance or purchase of a religious function is preserved; no football-specific rule is imported from its tuition setting.
+
+### Public instructional resources and actual religious use
+
+#### Mitchell v. Helms, 530 U.S. 793 (2000)
+
+**Docket or dockets:** No. 98-1648.
+
+**Decided:** June 28, 2000.
+
+##### 1. Neutral allocation does not cure the actual publicly financed religious function
+
+**Holding:** A publicly administered instructional-resource program violates the Establishment Clause when, in the application proved, it actually finances religious instruction or demonstrated religious use under the recipient's control as the funded instructional function. Neutral eligibility, a secular label, public title or allocation tied to school enrollment does not alone cure that defect; genuine individual benefits and independently controlled secular services remain distinct.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I-III, unanimous at the stated substantive scope. Agreement does not adopt earlier unjoined theories.
+
+**Limits and questions not reached:** Agostini's unified governmental-authority-and-function inquiry remains operative. An independently sufficient specific prohibition or established permissible relationship is addressed first; otherwise unresolved legally sufficient allegations receive ordinary attribution and function analysis. Per-capita enrollment allocation does not alone establish individual direction of the funded religious use.
+
+##### 2. Actual use is established here; affiliation and possible diversion cannot replace proof
+
+**Holding:** The actual financed religious instruction or demonstrated religious use in this application requires correction and may not be treated as a mere hypothetical risk on remand. Religious location or identity, recipient control, fungibility, potential diversion and incidental institutional savings, separately or merely by accumulation, do not alone establish such a violation in another application.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I-III, unanimous at the stated substantive scope. Agreement does not adopt earlier unjoined theories.
+
+**Limits and questions not reached:** Public title, content restrictions, independent provision and supplement-not-supplant requirements can support lawful administration; they are statutory commands whose compliance must be distinguished from their existence. The content restriction, the actual funded use and the supplement requirement do different work, and every statutory violation is not automatically a constitutional violation. The actual defect here cannot be reduced to religious affiliation or to a historically recalled book incident already corrected. Conversely, the established use proves neither the prevalence of misuse nor the failure of all controls. No universal failsafe-monitoring regime, separate corporate structure, wholly different personnel or mandatory new audit is imposed. Effective separation must address the actual financed function with measures appropriate to the application.
+
+##### 3. Equipment and library-book form do not justify a categorical prohibition
+
+**Holding:** Public provision of equipment or library books to a religious school is not unconstitutional as a category when the actual relationship reliably preserves lawful secular use or another independently protected benefit. Meek and Wolman cease to control insofar as their equipment-category reasoning conclusively condemns such a relationship by reference to recipient character or presumed diversion; their unrelated holdings and applicable safeguards remain intact.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I-III, unanimous at the stated substantive scope. Agreement does not adopt earlier unjoined theories.
+
+**Limits and questions not reached:** Source, path, control and practical instructional operation remain relevant evidence. The Court does not approve every historical practice, equate neutral eligibility with permissible direct institutional support, or derive a universal entitlement to religious uses from individual-benefit precedents.
+
+##### 4. The categorical declaration must be replaced by effective relief at the proved scope
+
+**Holding:** The reviewed federal declaration is vacated and the case remanded to determine the extent and severability necessary for effective prospective correction of the established financed religious use. The lower courts must preserve independently lawful applications and may use the existing record where sufficient; they may not require reproof of the established defect or continue it merely because every provider's use has not been quantified.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Part IV, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight direct joins. Stone-Zsela joins the substantive holdings but favors limited affirmance.
+
+**Operative remedy or transition:** The federal Chapter 2 declaration returns through the Fifth Circuit for effective relief against the established actual financed religious use, limited by provider, item, application and lawful severability as the record supports. The actual-use determination is not reopened. Existing materials may suffice; no new hearing is mandatory merely because some remedial extent remains to be determined. Any state-program consequence requires demonstrated legal dependence on the reviewed federal disposition. No unrelated program, separate docket, damages award or recoupment is decided.
+
+**Limits and questions not reached:** The established actual use supplies neither quantitative prevalence nor a finding of inseverability. No automatic new trial, school closure, categorical exclusion, statewide or nationwide invalidity, damages or recoupment is ordered.
+
+**Treatment of earlier authority:**
+
+- Agostini v. Felton governs through the modified, unified Lemon inquiry, with actual operational control and secular-service qualifications. Religious location and incidental savings do not supply a presumption, while nominal neutrality does not excuse actual devotional financing.
+- Lemon v. Kurtzman remains in force only as modified in Agostini; its former independent prongs do not return as an alternative test.
+- Jackson v. Benson supplies the actual financed-function prohibition and the conflict-specific remedial inquiry, preserving lawful separable applications rather than treating all benefits to religious education alike.
+- Strout v. Albanese preserves that financed-function boundary in its tuition relationship and expressly protects genuine secular separation; it is not a universal voucher judgment.
+- Meek v. Pittenger and Wolman v. Walter are displaced insofar as their conclusive equipment-category reasoning condemns reliably lawful secular relationships by religious character or presumed diversion. Unrelated holdings and applicable safeguards are not erased.
+- Rosenberger v. Rector and Visitors of the University of Virginia retains its combined private-editing, independent-attribution and controlled-payment safeguards; it does not generally authorize devotional purchases.
+- Board of Regents v. Southworth retains its actual independent-expression setting and does not make instructional loans a speech forum merely because allocation is neutral.
+- Mueller v. Allen and Witters v. Washington Department of Services for the Blind retain their actual individual-benefit holdings. Per-capita institutional allocation does not establish every predicate of those relationships.
+- Zobrest v. Catalina Foothills School District remains an antecedent-law remand without an Establishment Clause merits holding; no unadjudicated interpreter theory is treated as current law.
+
+### Student speech and sponsored campaign administration
+
+#### Henerey v. City of St. Charles, School District
+
+**Docket or dockets:** Eighth Circuit No. 98-3439; no Supreme Court docket number supplied.
+
+**Decided:** June 26, 2000.
+
+##### 1. This supervised campaign is governed by the school-sponsored-expression standard
+
+**Holding:** A school-created student-government campaign administered through advisers, campaign rules and material approval as an educational exercise is school-sponsored expression governed primarily by Hazelwood's legitimate-pedagogical-reason standard. Independent student advocacy outside that program retains the ordinary student-speech protections; the school's location alone does not establish sponsorship.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I-II, unanimous.
+
+**Limits and questions not reached:** The campaign's actual educational operation establishes sponsorship; a school location or student vote alone does not. Sponsorship does not turn each candidate's views into governmental assertions. No general off-program restriction is sustained.
+
+##### 2. Genuine campaign review can serve legitimate pedagogical purposes
+
+**Holding:** Within this sponsored campaign, the school may enforce clear, viewpoint-neutral material-approval requirements reasonably related to fair procedure, equal campaign access and responsible administration, including a reasonable disqualification for a material violation. The rule cannot serve as a pretext for suppressing a candidate's political viewpoint; an imagined lawful reason cannot defeat a supported material dispute about the actual ground of enforcement.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I-II, unanimous.
+
+**Material application:** The stated policy calls for submission by the preceding school day but expressly permits more than one school day for difficult material; it is not a guarantee of approval within twenty-four hours. Approval of a slogan does not approve every object carrying it.
+
+**Limits and questions not reached:** If protected conduct is established as a substantial or motivating factor, the separate same-decision defense requires proof by a preponderance; mere existence of an available rule does not automatically establish that defense. Advance review can promote evenhanded administration without proof of Tinker disruption or a least-restrictive-means showing for each campaign item. The Court sustains the genuine approval requirement as applied in this supervised campaign, without endorsing every content category, exception, distribution location or stamping requirement in the broader policy. It adopts no universal viewpoint-neutrality command governing every curricular content choice and no permission to rely on audience hostility as disruption.
+
+##### 3. This record supports the actual process ground and the campaign consequence
+
+**Holding:** On this summary-judgment record, the signed campaign undertaking, express all-materials warning and admitted failure to submit the new item establish a lawful actual approval-process ground, and the different approval history of conventional items does not create a reasonable material inference of viewpoint pretext. Disqualification for this material participation-condition violation was reasonable, so the defense judgment is affirmed without the appellate court's alternative sexual-content rationale.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Part III, joined by Stone-Zsela, O'Connor, Scalia and Thomas; five direct joins.
+
+**Limits and questions not reached:** Conventional items' different approval history matters without an identical-comparator requirement. The Court does not decide credibility after trial, find disruption or lewdness, or deem the separate same-decision defense proved. Personal immunity, municipal attribution and distinct remedial defenses are unnecessary to the judgment.
+
+**Operative remedy or transition:** The defense summary judgment is affirmed on the actual approval-process ground, without a remand, installation in office or damages award.
+
+**Treatment of earlier authority:**
+
+- Hazelwood School District v. Kuhlmeier governs this sponsored educational activity through genuine, reasonably related pedagogical control; it is not extended to all expression occurring at school.
+- Tinker v. Des Moines Independent Community School District retains its protection for independent student advocacy; its disruption formulation is not the primary test for this sponsored campaign.
+- Settle v. Dickson County School Board controls actual educational purpose, material summary-judgment inferences and the distinct substantial-factor and same-decision inquiries. The Court applies it without relaxing its evidentiary burdens.
+- Boring v. Buncombe County Board of Education supplies institutional control over instruction within its teacher-specific scope; it does not eliminate the student's own constitutional protection.
+- Good News/Good Sports Club v. School District of the City of Ladue retains its actual-private-access and program-function distinctions; no private forum is created by analogy alone.
+- Santa Fe Independent School District v. Doe retains its holding concerning the particular official religious-choice mechanism; student voting alone does not determine sponsorship or attribution here.
+- Bethel School District No. 403 v. Fraser supports practical school disciplinary authority within its proper setting. No lewdness finding or general condemnation of a sexual subject supplies the present disposition.
+- Mt. Healthy City School District Board of Education v. Doyle supplies the distinct causation and same-decision burdens preserved in Settle; the Court does not deem that defense independently proved merely because a rule was violated.
+
 ## Election Law
 
 ### Ballot access and political parties
@@ -34825,6 +35801,94 @@ For the separate Rule 60(b)(6) finality holding in Reform Party, April 10, 2000,
 
 For the pre-enforcement review holding in North Carolina Right to Life v. Bartlett, May 1, 2000, review of 168 F.3d 705 (no Supreme Court docket supplied), see Federal Courts — Pre-enforcement review of electoral speech restrictions.
 
+### Appointed school boards and withdrawal of existing elections
+
+#### Mixon v. Ohio
+
+**Docket or dockets:** Sixth Circuit No. 98-3368; no separate Supreme Court docket supplied.
+**Decided:** June 5, 2000.
+
+##### Genuine appointment and the municipal electorate
+
+**Holding:** A genuinely appointed school board does not become an elected body because the appointing mayor is elected; residents served by the district but outside Cleveland have no general constitutional entitlement to vote in that mayoral election.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by all eight other Justices; nine direct joins.
+
+**Limits and questions not reached:** Genuine appointment does not exempt the restructuring from other applicable law. An effects allegation neither establishes purposeful discrimination nor supplies a separate purpose claim; no such claim is adjudicated or reopened.
+
+##### A direct withdrawal of an existing election is not categorically outside section 2
+
+**Holding:** Section 2 can reach a direct replacement of an existing lawful election by appointment as a challenged withdrawal of racial political opportunity; the actual former electoral system supplies a practical, legally rooted comparison. Plaintiffs must still establish unequal protected-class opportunity caused by that restructuring under the statutory totality, with genuine institutional interests considered; universal loss of an election alone establishes neither racial inequality nor liability.
+
+**Proposition-level authority:** Part II of Souter's opinion has six direct joins: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. The five Associates also join Part III's reversal and ordinary remand; Stone-Zsela favors vacatur of the same categorical dismissal.
+
+**Limits and questions not reached:** No section 5 preclearance or private section 1971 ruling is made. No separate purpose claim is created or remanded, and no racial-purpose finding, proportional-election entitlement, new presumption or compulsory electoral remedy follows.
+
+**Material application:** The former lawful election supplies the available institutional comparison; it establishes no perpetual duty to preserve elections or superiority of the old system. Educational reform, the actual appointment structure and the required future referendum remain relevant. Racial inequality, causation and statutory totality must be proved independently.
+
+**Material judgment:** The categorical section 2 dismissal is reversed and remanded by Stevens, O'Connor, Souter, Ginsburg and Breyer. Stone-Zsela joins the controlling coverage rule but would vacate and remand; Scalia, Kennedy and Thomas would affirm. Genuine appointment and the extraterritorial mayoral-vote disposition are preserved unanimously.
+
+**Operative remedy or transition:** The section 2 claim returns for ordinary proceedings under the coverage and comparison rule. The lower courts retain the remaining pleading, proof and independent-ground issues. All other actual dispositions remain undisturbed except consequences necessarily affected by the statutory correction. No separate purpose proceeding, mandatory hearing, particular board structure or immediate election is directed.
+
+**Treatment of earlier authority:**
+
+- **Holder v. Hall:** Extends its structural-coverage and independently rooted comparison principles to this direct withdrawal; retains separate injury and remedy requirements.
+- **Presley v. Etowah County Commission:** Preserves its section 5 voting/governing boundary; the reserved replacement question and independent section 2 inquiry are distinct.
+- **Chisom v. Roemer** and **Houston Lawyers' Association:** Preserve ordinary appointment choices while separating statutory coverage, genuine institutional interests and proved unequal opportunity.
+- **Johnson v. De Grandy:** Applies independent totality and rejection of racial maximization or conclusive ratios.
+- **Valdespino v. Alamo Heights Independent School District:** Preserves its district-capacity requirements without transferring them mechanically to election withdrawal.
+- **Sailors v. Board of Education** and **Holt Civic Club v. Tuscaloosa:** Apply genuine-appointment and municipal-electorate distinctions.
+- **Kramer v. Union Free School District** and **Hadley v. Junior College District:** Preserve equality within actual elections without requiring an elected board here.
+- **Arlington Heights v. Metropolitan Housing Development Corp.** and **Personnel Administrator v. Feeney:** Preserve the elements of an actual intentional-discrimination claim, without deciding an unestablished count.
+- **Rice v. Cayetano:** Its protection against racial exclusion from an existing public ballot does not establish a duty to hold this election.
+
+The distinct defendant-immunity question is stated in the primary Federal Courts entry, Defendant-specific immunity in election-withdrawal litigation, for this case, Sixth Circuit No. 98-3368, decided June 5, 2000.
+
+### Official party nominees and compulsory outsider participation
+
+#### California Democratic Party v. Jones, 530 U.S. 567 (2000)
+
+**Docket or dockets:** No. 99-401.
+
+**Decided:** June 26, 2000.
+
+##### 1. Compulsory outsider selection of an official party nominee imposes a severe burden
+
+**Holding:** A State severely burdens political association when it requires an objecting party to give voters unaffiliated with that party equal participation in choosing its official nominee through this blanket-primary mechanism. The requirement therefore must be narrowly tailored to serve a compelling state interest; ordinary authority to administer elections does not alone supply that justification.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins.
+
+**Material application:** The burden concerns the legally designated nominee: retaining endorsement and advocacy does not restore the party's selection choice. Sincere crossover can matter without organized raiding; neither organizational collapse nor a universal numerical threshold is required.
+
+**Limits and questions not reached:** The rule does not decide conventional open primaries, every registration condition, national-delegate arrangements or an independent Elections Clause claim. Constitutional voting protections continue to limit party exclusion.
+
+##### 2. The asserted interests do not justify this compulsory nomination mechanism
+
+**Holding:** The interests advanced for Proposition 198 do not justify its severe interference with the objecting parties' nomination choices. Participation, choice, competition, privacy and stable elections may support appropriate election rules, but the State has not established a compelling justification and necessary fit for imposing equal outsider participation in the party's own official selection.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins.
+
+**Limits and questions not reached:** Nonpartisan candidate winnowing and a party's voluntary invitation illustrate less intrusive possibilities without validating every implementation. The Court does not invalidate all efforts to increase turnout, competition or choice.
+
+##### 3. Relief follows the nomination defect and does not decide other election systems
+
+**Holding:** The defense judgment must be reversed and the case remanded for declaratory and prospective injunctive relief against compulsory blanket selection of these objecting parties' official nominees. The ruling leaves ordinary election administration and constitutional voting protections intact and reserves the validity of unpresented primary designs and any remaining severability or implementation questions.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins.
+
+**Operative remedy or transition:** The case returns through the Ninth Circuit for declaratory and prospective injunctive relief confined to the unconstitutional compulsory nomination mechanism and any ordinary implementation questions properly remaining. No new election, damages award or statutory replacement is ordered. State and congressional nominations receive the same disposition; national-delegate arrangements and the amended presidential reporting provisions are not adjudicated.
+
+**Treatment of earlier authority:**
+
+- Tashjian v. Republican Party of Connecticut supplies protection for meaningful party associational choices within a regulated electoral system; this decision does not adopt an unlimited power of party leaders to override members.
+- Eu v. San Francisco County Democratic Central Committee supplies the protection against state control of party governance and political choice; ordinary election administration remains available.
+- Democratic Party v. Wisconsin ex rel. La Follette supplies protection against forced participation inconsistent with protected party selection rules; the present decision applies that principle to the challenged official nominations without deciding national-delegate questions.
+- Burdick v. Takushi supplies burden-sensitive review of election regulations. The severe burden here triggers compelling-interest and narrow-tailoring review rather than the lesser justification sufficient for ordinary mechanics.
+- Timmons v. Twin Cities Area New Party remains controlling as to its nonfusion restriction. Its retained means of choosing a consenting nominee distinguish it from compelled outsider participation in the actual choice.
+- Reform Party of Allegheny County v. Allegheny County Department of Elections retains its equal-access holding concerning a timely consensual cross-nomination and its limits on the independent association issue. It does not itself decide the present public-primary question.
+- Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston supplies protection for the composition of private expression, with its actual limits; this decision neither exempts ordinary services from neutral regulation nor classifies every regulated association as private expression.
+- The white-primary decisions, including Smith v. Allwright and Terry v. Adams, retain their prohibitions on unconstitutional exclusion from electoral processes. Associational protection supplies no exemption from those constitutional commands.
+
 ## Administrative Law
 
 ### Administrative fee awards
@@ -36623,6 +37687,31 @@ For the compensatory-time use holding in Christensen, May 1, 2000, No. 98-1167, 
 - Christensen v. Harris County preserves statutory authority, interpretive weight and textual fit as distinct inquiries. It does not convert every current agency interpretation into a binding or temporally valid rule.
 - Greenwich Collieries and Allentown Mack retain their particular adjudicatory-burden and review rules. The Court does not import them into the ungranted procedural-rule litigation or decide a new control presumption here.
 
+### Issue exhaustion in Social Security Appeals Council review
+
+#### Sims v. Apfel, 530 U.S. 103 (2000)
+
+**Docket or dockets:** No. 98-9537.
+**Decided:** June 5, 2000.
+
+##### The actual Council scheme does not forfeit these omitted issues
+
+**Holding:** A Social Security claimant who requests Appeals Council review and obtains a final decision does not forfeit judicial review of an issue merely by omitting it from that request where no statute or regulation requires issue exhaustion and the actual nonadversarial review scheme supplies no fair notice of such forfeiture. The permitted short request, optional briefing, whole-decision notice and plenary informal review together establish that rule here; it is not a general notice prerequisite for every prudential exhaustion rule.
+
+**Proposition-level authority:** O'Connor's Opinion of the Court has six direct joins: Stone-Zsela, Stevens, O'Connor, Souter, Thomas and Ginsburg. Each adopts this complete actual-scheme ground; no narrower-ground aggregation is necessary.
+
+**Limits and questions not reached:** ALJ-stage preservation, failure to request Council review, intentional waiver or deliberate sandbagging, materially new evidence and a valid future regulation remain open. No sandbagging is found. This is neither a jurisdictional defect nor a universal exemption for every nonadversarial agency.
+
+**Limits and questions not reached:** Representation by counsel does not alter the actual scheme or its notice. The broader agency-responsibility rationale has four supporters and supplies no separate controlling exemption.
+
+**Operative remedy or transition:** The case returns for ordinary judicial review of the vocational-hypothetical and consultative-examination objections. Any subsequent relief depends on their merits and governing review law. The Court orders neither benefits nor a new administrative hearing, and the separate selective-record decision remains undisturbed.
+
+**Treatment of earlier authority:**
+
+- **McCarthy v. Madigan:** Applies statutory primacy and assessment of actual agency design and interests; its damages-only BOP exception is not transplanted.
+- **Darby v. Cisneros:** Preserves its APA-specific superior-review rule; it is not a blanket bar to all issue-exhaustion requirements.
+- **Shalala v. Illinois Council on Long Term Care, Inc.:** Preserves prescribed channels and meaningful review while distinguishing a claimant who has already completed the required route.
+
 ## Immigration
 
 ### Persecution and review of agency findings
@@ -37636,6 +38725,35 @@ For the other questions and complete operative scope in El Paso Natural Gas Co. 
 - Hagen and Yankton retain their instrument-specific inquiry into actual federal displacement; land or ownership change alone does not decide every retained right.
 - Race Horse is limited: its broader equal-footing incompatibility premise cannot terminate otherwise surviving rights merely at statehood; its distinct treaty-condition construction is not decided here.
 - Winans and Tulee are applied with Fishing Vessel: treaty uses and lawful conservation regulation can coexist.
+
+### Reserved water and compensation judgments
+
+#### Arizona v. California, 530 U.S. 392 (2000)
+
+**Docket or dockets:** No. 8, Original.
+**Decided:** June 19, 2000.
+
+##### III. Section 22 does not establish the asserted third-party bar from this payment
+
+**Holding:** Payment of this alternative-theory compromise does not itself establish a taking, extinguishment of tribal title or release of dependent reserved-water claims against all persons under section 22 of the Indian Claims Commission Act. The distinct statutory discharge asserted by the State parties therefore does not bar the Fort Yuma claim on this record; differently supported judgments with an actual title or extinguishment predicate remain open for their own analysis.
+
+**Proposition-level authority:** Part III of Stevens's Opinion of the Court, joined by all seven other Associate Justices; eight Justices. Stone-Zsela agrees only in the disposition of this independent statutory component and adds no ground.
+
+**Limits and questions not reached:** Section 22(a) gives a Commission report determining entitlement to recovery, when filed with Congress, the effect of a final Court of Claims judgment and authorizes payment; payment discharges the United States from claims and demands touching the controversy. Section 22(b) separately makes an adverse final determination, made and reported under the Act, a bar to further claims against the United States arising from that matter. The recovery/payment trigger and the adverse-determination trigger are distinct, and both provisions identify claims against the United States.
+
+##### IV. The two submitted settlements are approved on their particular terms
+
+**Holding:** The Court approves the Fort Mojave and Colorado River Reservation agreements recommended by the Master and permits their incorporation into implementing decree provisions at the terms stated below. Approval rests on these agreements and this record under the Court's existing original-jurisdiction authority; it establishes no general approval test and resolves no additional title or water question.
+
+**Proposition-level authority:** Part IV of Stevens's Opinion of the Court, unanimous on both independent settlement approvals.
+
+**Material application:** **Fort Mojave terms:** The agreement specifies the reservation boundary near the Hay and Wood Reserve. It permits the lesser of an additional 3,022 acre-feet or enough water for 468 acres. The United States and Tribe may make no further reserved Colorado River water claims for lands within the Hay and Wood Reserve. Competing claims to title and jurisdiction over the bed of the last natural course of the Colorado River within that boundary remain reserved, as do private land claims, title and jurisdiction. Approval does not leave the specified reservation boundary wholly undetermined, but it does not decide those reserved riverbed and private rights.
+
+**Colorado River Reservation terms:** The agreement permits the lesser of an additional 2,100 acre-feet or enough water to irrigate 315 acres. The United States and Tribes may make no further reserved Colorado River water claims for reservation lands in California. The disputed boundary remains unadjudicated in this proceeding, including the competing ambulatory-west-bank and fixed-line theories; competing riverbed-title and jurisdiction claims remain reserved. The agreement requires both the Master's and Court's approval; the Court supplies its approval here on the Master's recommended agreement.
+
+**Limits and questions not reached:** No new release, additional water number, private-title adjudication, universal settlement framework or present final Fort Yuma decree follows. The Master shall continue the unresolved Fort Yuma proceedings and provide appropriate implementing decree provisions for the approved agreements, subject to the Court's further action. No objection deadline or final supplemental-decree text is entered by this decision.
+
+For the separate Arizona I forfeiture, Docket 320 preclusion holdings and Fort Yuma return, see Arizona v. California, No. 8, Original, June 19, 2000, under Federal Courts, preclusion in continuing original actions.
 
 ## Labor and Employment
 
@@ -40232,6 +41350,113 @@ For employee requests, customary schedules, peak demands, emergency staffing, su
 
 For the advisory-letter and regulatory-text holdings in Christensen, May 1, 2000, No. 98-1167, see Administrative Law — Advisory statutory interpretations and regulatory textual fit.
 
+### Equitable ERISA relief against nonfiduciary recipients
+
+#### Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238 (2000)
+
+**Docket or dockets:** No. 99-579.
+**Decided:** June 12, 2000.
+
+##### Equitable redress may reach a knowing nonfiduciary recipient
+
+**Holding:** Section 502(a)(3)'s authorized plaintiffs may obtain appropriate traditional equitable relief from a nonfiduciary party in interest to redress a prohibited, nonexempt section 406(a) transfer; section 406(a)'s direct duty remains the fiduciary's. For the assumed purchaser-for-value transferee here, equitable exposure requires actual or constructive notice of the circumstances making the transfer unlawful, while a purchaser for value without notice retains traditional protection; which party bears the burden on that protected status remains open.
+
+**Proposition-level authority:** Thomas's Opinion of the Court, joined by all eight other Justices; nine direct joins cover the complete holding and bounded remand.
+
+**Material application:** Those limits prevent the rule from becoming general investment-loss insurance. Restitution of tainted property or proceeds and disgorgement of resulting profits differ from ordinary compensation. Rescission and comparable equitable relief likewise require their actual predicates; calling price recovery restitution does not settle its classification. Notice concerns this assumed purchaser for value. The Court decides neither that every gratuitous recipient must have notice nor which party bears the purchaser-defense burden.
+
+**Limits and questions not reached:** Party-in-interest status, transaction prohibition, PTE75-1 or another exemption, notice, purchaser protection and burden, actual recoverable property/proceeds and the form or amount of equity remain open. No general damages action, universal monitoring duty, comprehensive future tracing formula, automatic fiduciary status or finding of initial worthlessness is adopted. No new finding about adequate alternative relief is made.
+
+**Limits and questions not reached:** Identifying the fiduciary's prohibited transfer as the violation redressed does not, without more, turn this consistently pleaded section 502(a)(3) equitable claim into a new claim.
+
+**Operative remedy or transition:** The claim returns to the lower courts for ordinary consideration of the preserved transaction, exemption, notice, purchaser-defense and equitable-relief questions. No specific amount, automatic purchase-price recovery, new fiduciary classification or special evidentiary hearing is ordered.
+
+**Treatment of earlier authority:**
+
+- **Mertens v. Hewitt Associates:** Applies its traditional-equitable-category limit while answering the distinct nonfiduciary-defendant question it reserved; ordinary compensation remains unavailable.
+- **Varity Corp. v. Howe:** Preserves the distinct individual-equity channel and its existing conditions; the Court neither classifies every monetary item as equity nor makes a new alternative-remedy adequacy finding.
+- **Peacock v. Thomas:** Applies the requirement of an actual ERISA or plan violation; equitable recipient redress rests on the alleged prohibited transfer, not a freestanding trust-law wrong.
+- **Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A.:** Preserves its source-specific restriction to section 506(c)'s designated claimant. Section 502(a)(3)'s identification of plaintiffs does not enact a categorical fiduciary-defendant restriction.
+- **Raleigh v. Illinois Department of Revenue:** Its preservation of the underlying tax claim's ultimate burden does not allocate the distinct purchaser defense left open here.
+
+### ERISA fiduciary functions and medical treatment
+
+#### Pegram v. Herdrich, 530 U.S. 211 (2000)
+
+**Docket or dockets:** No. 98-1949.
+**Decided:** June 12, 2000.
+
+##### I. Inseparable treatment decisions are not fiduciary administration
+
+**Holding:** A treating physician does not act as an ERISA fiduciary when making an inseparable decision about medically appropriate treatment and the benefit delivered through that treatment. A separate discretionary decision applying plan-coverage terms can be fiduciary administration, whoever makes it; the rule creates no general HMO exemption and does not exclude every decision involving medical information.
+
+**Proposition-level authority:** Part I of Ginsburg's Opinion of the Court, joined by all eight other Justices, supplies nine direct votes.
+
+##### II. An ordinary incentive arrangement alone establishes neither fiduciary breach nor plan assets
+
+**Holding:** Establishing or carrying out an ordinary general compensation and risk-sharing arrangement for providing medical care does not, by that fact alone, establish ERISA fiduciary conduct or breach. The HMO itself is not the employer's ERISA plan, and its revenues and profits are not automatically plan assets; actual authority or control over management or disposition of a plan asset remains governed by the statutory asset branch without an additional discretion requirement.
+
+**Proposition-level authority:** Part II of Ginsburg's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices. Stone-Zsela does not join.
+
+**Limits and questions not reached:** This is neither a general net-benefit defense to proved misconduct nor approval of every incentive system. A direct reward for denying a claim, an arrangement making impartial administration impossible, genuine asset diversion and actual disloyal administration present different predicates, none adjudicated by the pleaded general-arrangement theory.
+
+##### III. The amended structural theory fails even assuming genuine claims administration
+
+**Independent alternative holding:** Even assuming in Herdrich's favor that the amended reference to disputed and nonroutine claims describes genuine discretionary plan administration, the pleaded general year-end incentive arrangement alone states no independently disloyal claims determination, administration contrary to the plan or direct reward for denying a claim. The reviewed amended count therefore fails on that independent ground, and restoration of supplemental medical-expense payments cannot follow merely by labeling the entire HMO the plan.
+
+**Proposition-level authority for alternative holding:** Part III of Ginsburg's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices adopt this independently sufficient ground. Stone-Zsela joins the judgment on Part I only.
+
+**Limits and questions not reached:** Section 3(21)(A) separately reaches discretionary plan management, authority or control over management or disposition of plan assets, compensated investment advice or authority or responsibility to provide it, and discretionary authority or responsibility in plan administration. It also includes persons designated under §405(c)(1)(B). Its registered-investment-company qualification provides that plan investment in a registered company's securities alone does not make the company, adviser or principal underwriter a fiduciary or party in interest, except insofar as the company, its investment adviser or its principal underwriter acts in connection with a plan covering employees of the company, adviser or principal underwriter; duties under other law remain. That qualification is not a factual issue here.
+
+No independent disclosure, benefits-reimbursement, contract, malpractice-preemption, regulatory, personal-physician-liability or particular asset-ownership claim is decided. Prior statements about administrator or fiduciary status elsewhere do not establish the challenged function or a supported judicial-estoppel bar here; disclosure responsibility and responsibility for the disclosed incentive are distinct. The amended count does not revive superseded fraud allegations. Direct per-denied-claim rewards, actual asset misuse, misrepresentations and genuinely disloyal administration retain their own statutory predicates and remedies. The Court awards no plan amount and establishes no fee or amendment entitlement.
+
+**Operative remedy or transition:** The Seventh Circuit's revival of the reviewed amended fiduciary-breach count is reversed. On remand that count shall be dismissed. The $35,000 malpractice judgment and unreviewed counts remain undisturbed. No damages, plan restoration amount, disgorgement, fee award, new individual-physician claim or entitlement to amend is ordered.
+
+**Treatment of earlier authority:**
+
+- **Varity Corp. v. Howe:** Applies the function-specific inquiry and preserves concrete fiduciary administration and disloyal-misrepresentation liability; its individual equitable-redress holding does not convert this plan-focused claim into a different remedy channel.
+- **Lockheed Corp. v. Spink:** Applies the separation of design and actual implementation without immunizing independent administration; sponsor status alone does not decide this claim.
+- **Hughes Aircraft Co. v. Jacobson:** Applies its independent examination of implementation and breach predicates rather than equating an advantageous structure with misconduct. Its actual-asset and genuine-administration reservations remain.
+- **John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank:** Applies separate inquiries into asset status, function and breach, rather than equating business funds with plan property.
+- **Firestone Tire & Rubber Co. v. Bruch:** Preserves trust-law guidance within the enacted fiduciary functions; discretion over treatment alone is not discretion in plan administration.
+- **Mertens v. Hewitt Associates:** Preserves §502(a)(3)'s traditional-equity limits but does not bar lawful §409 restoration or supply the reason for dismissing this §502(a)(2) claim.
+- **New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co.; De Buono v. NYSA-ILA Medical and Clinical Services Fund:** Preserve the distinct operation of ordinary medical regulation; the Court makes no general preemption ruling here.
+
+### Intentional employment discrimination and pretext
+
+#### Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)
+
+**Docket or dockets:** No. 99-536.
+**Decided:** June 12, 2000.
+
+##### I. Prima facie proof and material falsity can support discrimination
+
+**Holding:** A prima facie case together with evidence permitting rejection of the employer's material explanation may support a finding of intentional discrimination without an additional category of direct or independent proof. It neither compels liability nor invariably defeats judgment as a matter of law: the strength of the initial inference, the probative force of falsity and the rest of the evidence the court must credit determine whether discrimination is a reasonable inference.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Hazen Paper requires age actually to motivate the decision. Falsehood, unfairness, personal hostility or another unlawful motive is not automatically age discrimination. A conclusively established different lawful reason can defeat the proposed inference. So can weak falsity evidence together with otherwise conclusive independent evidence against discrimination. These are applications of ordinary sufficiency, not a checklist demanding more evidence in every case. Merely imagining another possible motive does not defeat an inference reasonably supported by the actual proof. Substantial prima facie and falsity evidence can therefore sustain liability without a separate evidentiary category. The Court does not define every insufficient future case, alter an unpresented mixed-motive allocation or decide disparate impact.
+
+##### III. This record supports the verdict and cannot be rejected for lack of extra proof
+
+**Holding:** Reeves's prima facie showing, material evidence rebutting the recordkeeping explanation, and evidence connecting age-directed comments to Chesnut's role and influence permit a reasonable finding of intentional age discrimination. The employer is not entitled to judgment as a matter of law on this record, and the remand cannot restore the same sufficiency judgment through a renewed demand for additional proof.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Section 623(a)(1) concerns covered employment action because of age; §631(a) begins the Act's age protection at forty. The Court does not decide every ADEA proof framework or impose an under-forty comparator requirement. Employer production, plaintiff persuasion, evidentiary sufficiency and remaining remedial questions remain distinct. No liability follows merely from pension status, a mistaken business judgment, personal animosity or any false explanation.
+
+**Operative remedy or transition:** The Fifth Circuit's Rule 50 judgment for the employer is reversed. The trial evidence is legally sufficient to support the age-discrimination verdict; the verdict is to stand unless an ordinary, properly preserved and verdict-compatible independent ground warrants further relief. The remand permits consideration of remaining appellate issues, including an unresolved alternative new-trial ground if otherwise reviewable. It does not reopen the sufficiency question decided here, direct a particular new trial or make a new monetary, liquidated-damages or front-pay award.
+
+**Treatment of earlier authority:**
+
+- **St. Mary's Honor Center v. Hicks:** Applies its existing rejection of both compulsory liability from pretext alone and a mandatory further category of proof. No replacement persuasion allocation or revived presumption is adopted.
+- **Texas Department of Community Affairs v. Burdine; McDonnell Douglas Corp. v. Green:** Preserve employer production and ultimate plaintiff persuasion under the assumed indirect framework; disbelief has evidentiary force without shifting that burden.
+- **Postal Service Board of Governors v. Aikens:** Applies the focus on actual discrimination and the availability of circumstantial proof.
+- **Hazen Paper Co. v. Biggins:** Applies actual age motivation as the liability question; falsehood or another improper motive is not by itself age discrimination. Its willfulness and reserved disparate-impact issues are not redecided.
+- **O'Connor v. Consolidated Coin Caterers Corp.:** Preserves the evidentiary significance of relative age without an under-forty replacement condition or a categorical result from workforce ages.
+
+For the whole-record Rule 50 standard, see Reeves v. Sanderson Plumbing Products, Inc., No. 99-536, June 12, 2000, under Federal Courts, judgment as a matter of law.
+
 ## Maritime Law
 
 ### Longshore compensation and third-party settlements
@@ -41534,6 +42759,58 @@ For the other questions in McClellan Federal Credit Union v. Parker, decided 199
 - Associates Commercial Corp. v. Rash follows its particular retained-collateral valuation rule; it supplies no universal pension discount method.
 - LaSalle separates the legal allocation of rights from their numerical valuation and imposes no general market test on this claim.
 
+### Independent recovery from secured collateral
+
+#### Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A., 530 U.S. 1 (2000)
+
+**Docket or dockets:** No. 99-409.
+**Decided:** May 30, 2000.
+
+##### Section 506(c) gives the independent recovery power to the trustee
+
+**Holding:** Only the trustee, including a debtor in possession exercising the trustee's statutory powers, may invoke section 506(c) in its own right to recover reasonable, necessary costs of preserving or disposing of property securing an allowed secured claim, to the extent those costs benefit the secured claimholder. An unpaid administrative claimant's status and asserted benefit to the collateral do not create an independent section 506(c) action.
+
+**Proposition-level authority:** Thomas's opinion is joined in full by all eight other Justices; nine direct votes establish the complete holding and bounded affirmance.
+
+**Limits and questions not reached:** The Court reserves authorized derivative pursuit, assignment, actual trustee recovery, its allocation or recovery before payment of the expense, debtor-in-possession action and genuinely separate remedies on their own predicates. Hartford's Rule 7071/Rule 71 financing-order theory was first raised en banc and rejected as an unpleaded matter outside that limited review; the reservation does not revive it. Ultimate collateral benefit and administrative allowance remain unadjudicated.
+
+**Operative remedy or transition:** The en banc direction vacating the surcharge and dismissing Hartford's independent section 506(c) claim stands. Separate estate claims and genuinely authorized alternative procedures remain subject to their own preservation and substantive requirements; this judgment orders none and revives no unpleaded claim.
+
+**Treatment of earlier authority:**
+
+- **Patterson v. Shumate** and **Taylor v. Freeland & Kronz:** Applied for enforcing enacted bankruptcy text and distinct procedures; their actual exclusions, deadlines and reservations remain unchanged.
+- **United States v. Noland** and **United States v. Reorganized CF&I Fabricators:** Applied to preserve authorized bankruptcy equity while rejecting a substitute allocation unsupported by the Code; no universal misconduct rule is added.
+- **PBGC v. CF&I Fabricators:** Its distinction between underlying entitlement, allowance and distribution supports treating section 503 and section 506(c) as separate questions.
+- **Mertens v. Hewitt Associates:** Applied for attention to the statutorily authorized remedy; its ERISA remedy holding does not itself answer the different bankruptcy text.
+- **Dewsnup v. Timm:** Distinguished as a confined contextual construction of lien language; it creates no general authority to replace a named claimant with another.
+
+### State tax claims and the burden of persuasion
+
+#### Raleigh v. Illinois Department of Revenue, 530 U.S. 15 (2000)
+
+**Docket or dockets:** No. 99-387.
+**Decided:** May 30, 2000.
+
+##### Bankruptcy does not itself change the tax claim's burden of persuasion
+
+**Holding:** Unless the Bankruptcy Code expressly provides otherwise, the ultimate burden of persuasion governing a tax claim in bankruptcy remains the burden assigned by the substantive law creating that claim. Illinois's allocation therefore remains with the estate here; express federal burden rules, a proof of claim's prima-facie evidentiary effect and the underlying elements of tax liability remain distinct.
+
+**Proposition-level authority:** Breyer's opinion is joined in full by all eight other Justices, giving nine direct votes for the complete rule and bounded affirmance.
+
+**Material application:** Illinois's notice places production and persuasion on the responsible officer. The liability still requires control, supervision or responsibility for returns or payment and willful failure to perform the duty. Naming Pluhar as financial officer may meet production but does not itself carry persuasion. The lower record contained no proof of Stoecker's responsibilities or willfulness and no proof that he saw or relied on counsel's no-tax-due letter. This Court makes no new finding of knowing evasion or exclusive responsibility.
+
+**Limits and questions not reached:** Congress may supply a different federal rule. Valid assessment defenses, ordinary evidentiary requirements and federal dischargeability remain available on their actual predicates. The grant does not reopen the separate isolated-sale, tax-jurisdiction, timeliness or equitable-subordination determinations, and no amount or payment follows from allocating persuasion alone.
+
+**Operative remedy or transition:** The Seventh Circuit's existing disposition, including its remand, remains in force at the granted scope. Any remaining ordinary proceedings retain their actual basis. This Court orders no new evidentiary opportunity, exact recovery, priority change or payment and reopens none of the distinct lower determinations outside the grant.
+
+**Treatment of earlier authority:**
+
+- **Butner v. United States, 440 U.S. 48:** Applied to preserve the state claim's substantive incidents absent a governing federal change; it does not make every procedural detail state law.
+- **Grogan v. Garner, 498 U.S. 279:** Applied to separate underlying liability from the federal dischargeability inquiry and its burden.
+- **Director, OWCP v. Greenwich Collieries:** Its production/persuasion distinction is applied; its APA-based proponent burden is not transferred to bankruptcy without a statutory basis.
+- **United States v. Noland** and **United States v. Reorganized CF&I Fabricators:** Applied against generalized equitable alteration while preserving authorized claim-specific equity; federal priority characterization does not itself determine the burden of proving state tax liability.
+- **PBGC v. CF&I Fabricators:** Applied to require reconciliation of an external liability rule with federal allowance, not automatic replacement of the former.
+
 ## Federal Taxation
 
 ### Bankruptcy fiduciaries’ filing and payment duties
@@ -42612,6 +43889,15 @@ For the independent interest-refund, abatement-review and prospective-remedy thr
 **Operative remedy or transition:** Vacate both collected-addition RFRA determinations, each 5–4, and remand for their separate application-specific inquiries. Adequate existing facts and legal grounds may suffice; there is no automatic hearing, refund, waiver, suspension or compulsory levy.
 
 **Treatment of earlier authority:** Adams requires a separate RFRA inquiry for each addition and is distinguished by timely filing and acceptance of unrestricted levy. Clearwater, Swanner and American Life League supply the existing burden sequence and concrete-alternative inquiry; Lee supplies substantial revenue reasons, not a tax-wide RFRA exclusion. Boerne's state-and-local holding leaves federal RFRA validity open.
+
+### Tax-claim persuasion burdens in bankruptcy
+
+#### Raleigh v. Illinois Department of Revenue, 530 U.S. 15 (2000)
+
+**Docket or dockets:** No. 99-387.
+**Decided:** May 30, 2000.
+
+For whether bankruptcy changes the ultimate persuasion burden assigned by the substantive law creating a tax claim, see the primary entry in Bankruptcy, under State tax claims and the burden of persuasion.
 
 ## Tort Law
 
@@ -45249,6 +46535,67 @@ The 1999 unregistered-trade-dress nonfunctionality provision supplies no distinc
 - Reves retains the substantive enterprise-direction requirement without extending personal direction to every conspirator or deciding this private injury question by itself.
 - Rotella's complete-claim and known-injury limitations holding remains separate. No new limitations disposition is entered on the federal claim here.
 
+### Government contracts and withdrawal of a promised regulatory process
+
+#### Mobil Oil Exploration & Producing Southeast, Inc. v. United States / Marathon Oil Co. v. United States, 530 U.S. 604 (2000)
+
+**Docket or dockets:** Nos. 99-244 and 99-253.
+
+**Decided:** June 26, 2000.
+
+##### 1. The leases contain a clear continuing process undertaking that the Government breached
+
+**Holding:** These leases incorporate a continuing obligation to provide the specified Outer Continental Shelf Lands Act (OCSLA) exploration-plan approval process, including approval, after necessary modifications, of a compliant plan within thirty days of submission unless serious harm to life (including aquatic life), property, minerals, national security or defense, or the marine, coastal or human environment cannot be avoided by modification and requires disapproval. The Government's refusal to provide that approval because of the Outer Banks Protection Act's (OBPA) new conditions breached the undertaking; independent permits and state coastal-consistency requirements do not make the federal promise disappear.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Part I, unanimous.
+
+**Material application:** The leases' term, conditional operating rights and incorporation provisions establish an authorized continuing federal process undertaking. The incorporated sources include OCSLA, sections 302-303 of the Department of Energy Organization Act, existing regulations and the specified limited future regulations; the general catchall does not transfer every later statutory change to the lessees.
+
+**Limits and questions not reached:** Future regulations for waste prevention, resource conservation and correlative rights remain incorporated. Sections 9-10 require approved plans and compliance; section 13 preserves OCSLA suspension and cancellation, and separately suspension on the Defense Secretary's recommendation during war or a national emergency declared by Congress or the President, with just compensation. Section 19 reserves ungranted rights: other geological and geophysical exploration and other-mineral operations may not unreasonably interfere with or endanger lease operations; easements may serve other lands' work or product shipment. A defense designation requires the Defense Secretary and presidential approval; surface operations then require Defense concurrence. A resulting suspension also suspends rentals and royalties, extends the term and carries constitutionally required compensation. None supplies a blanket no-liability reservation. OCSLA permits suspensions at the lessee's request in the national interest, for proper development or transportation facilities and separate suspensions for threatened serious, irreparable or immediate harm to life, property, minerals or the marine, coastal or human environment; neither predicate is newly found merely because further environmental study is useful. A qualifying suspension extends the affected lease or permit for an equivalent period, except when the suspension results from gross negligence or willful violation of the lease, permit or applicable regulations. Approval remains conditional on compliance, necessary modifications and the specified serious-harm exception. Yet Interior's completed evaluation did not supply the legal approval withheld under the new Act. North Carolina made actual objections here; operations still require a lawful state-consistency resolution and separate discharge and drilling permissions. No concurrence or permit entitlement is found.
+
+##### 2. The statutory replacement of the promised process was material repudiation
+
+**Holding:** OBPA's prohibition and new prerequisites materially withdrew an essential part of the bargained-for federal process and constituted repudiation, rather than an ordinary permissible delay under the incorporated terms. That repudiation applies to the four submitted-plan leases and anticipatorily to the same promised future process on the fifth lease, without inventing a submitted plan or missed deadline on that tract.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Material application:** The Act barred the relevant approvals and drilling until the later of October 1, 1991 or forty-five days of continuous congressional session after the required report and certification. Continuity is broken only by adjournment of Congress without a further date, and recesses when either House adjourns for more than three days to a day certain are excluded from the count. The Secretary must consider the scientific panel and explain disagreements, but the panel has no absolute veto. The Court does not treat the gate as forty-five calendar days or an indefinite ban, or attribute every later delay to it.
+
+**Limits and questions not reached:** The same repudiation reaches the fifth lease anticipatorily despite the absence of a submitted plan for it. Congress retains regulatory power; the decision establishes financial responsibility for the particular assumed risk, not a rule that every delay or unfavorable enactment is total repudiation.
+
+##### 3. Restitution does not require proof that the project would have earned profits
+
+**Holding:** After this material repudiation, the injured lessees may elect restoration of consideration paid for the promised performance without proving that all independent approvals would have been obtained or profitable production would have occurred. Independent regulatory obstacles bear on the actual bargain and any cognizable benefit accounting, but do not automatically defeat restitution by making expectation profits unprovable.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Limits and questions not reached:** Independent state objections and permits remain relevant to the actual bargain and accounting. The Court guarantees no profitable production and finds no statutory cancellation or entitlement to OCSLA cancellation compensation.
+
+##### 4. The supplied continued-performance defense does not bar restoration
+
+**Holding:** Urging the repudiating party to perform, submitting the requested plan, pursuing independent approvals or seeking extensions does not by itself surrender the injured party's restitution election. Acceptance of significant substituted performance may matter, but the documented acts here do not establish acceptance of the withheld federal process as fulfilled or a waiver of restoration.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Material application:** The companies' submission, unsuccessful override efforts and MOU-related extensions kept the original opportunity alive; they did not obtain the approval process the Government had repudiated. The 1992 restitution suit asserted restoration rather than relinquishing it. Administrative work and additional lease time are not denied; they remain relevant at their lawful scope without being treated as performance of the withheld undertaking. The record also distinguishes earlier rent-free suspensions from the June 1995 letter's rent-bearing, five-year-capped suspension. No later renewal, continuous rent exemption or payment history through decision is assumed.
+
+**Limits and questions not reached:** The Court finds no unproved retraction, settlement, abandonment, forfeiture of a preservation objection or attribution of every act by one petitioner to the other. It does not reopen entitlement merely to decide an unsupported election theory.
+
+##### 5. The monetary remand is confined to genuine restoration and amount questions
+
+**Holding:** The petitioners' restitution entitlement requires return of proved bonus consideration with legally required restoration of corresponding rights and any established lawful credit or offset. The Federal Circuit must resolve its unreached, properly preserved calculation objections on the actual record; recovery of rentals, profits or interest does not follow automatically, and interest requires independent authority.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Operative remedy or transition:** The Court of Federal Claims separately denied rental recovery and, after a benefits hearing, found no cognizable offset established. The Federal Circuit never reached the Government's monetary challenges because it rejected liability. Reversal therefore permits review of genuinely remaining objections; it does not erase the existing benefits determination or command a new evidentiary hearing regardless of what remains disputed. Approximate descriptions of payments cannot substitute for the actual judgment and supported calculations. No decree compels a regulatory approval, invalidates North Carolina's objection, awards speculative production profits or converts OBPA's later repeal into performance at the promised time.
+
+**Treatment of earlier authority:**
+
+- United States v. Winstar Corp. supplies actual-undertaking and assumed-risk responsibility while preserving sovereign regulatory power and separate remedy analysis. Its noncontrolling broad sovereign-acts and unmistakability theories are not made controlling here; the particular continuing promise is clear even under the requirement to identify one unmistakably.
+- Roehm v. Horst supplies anticipatory-repudiation principles and the distinction between urging performance and surrendering a restoration election. It is applied to the essential future process, not every prospective administrative delay.
+- United States v. Behan supplies the distinction between recovery of value after prevented performance and proof of anticipated profits; independent obstacles to profitable production do not erase the restitution claim established here.
+- Pence v. Langdon supplies the distinction between preservation of a restoration right and conduct inconsistent with that election; the Court rejects waiver from the documented acts without assuming an unproved acceptance of significant substitute performance.
+
 ## Property and Economic Rights
 
 ### Complete economic deprivation of land
@@ -45725,6 +47072,10 @@ For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, O
 **Limits and questions not reached:** Section 6(e) supplies title-defeating intent, separately from §6(m)’s incorporation of the Submerged Lands Act. Neither general ownership nor wildlife purpose alone suffices. The 1960 reservation receives no retroactive effect; the 1980 enlargement does not set the original boundary. Scalia and Thomas do not join the geographic determination.
 
 **Operative remedy or transition:** Alaska’s baseline, Dinkum and Petroleum Reserve exceptions are overruled; the United States’ original Range exception is sustained. The parties must propose a conforming implementing decree; jurisdiction is retained and each bears its own costs. No final coordinate schedule, new survey, damages or oil-accounting award is entered.
+
+**Current-force modification:** The June 29, 2000 implementing decree completes the earlier direction to propose a decree. Its fixed offshore line, qualified reciprocal injunctions, lease-administration terms and 180-day Section 7 escrow-distribution obligation now govern implementation. The reservation coastlines remain ambulatory, and jurisdiction is retained to effectuate and supplement the decree and the parties' rights. The 1997 title and baseline holdings remain unchanged.
+
+**Later-authority backlinks:** United States v. Alaska, No. 84, Original, June 29, 2000: implementing decree, Paragraphs A-G and original Exhibit A; fixed offshore boundary, qualified resource rights, lease and escrow transitions, and retained jurisdiction.
 
 **Treatment of earlier authority:** Utah Division and Montana’s distinct inclusion and retention requirements govern. The statutory wildlife exclusion reaches this legally effective temporary segregation without treating every pending application as a completed reservation.
 
@@ -46395,6 +47746,72 @@ Section 4 retains reasonable-value payment before a later permit entitles its ho
 **Treatment of earlier authority:** National Mining Association v. Department of the Interior, May 8, 2000, preserves actual delegated authority and the distinction between present regulation and new consequences for completed conduct. Its mining-permit correction authority supplies no grazing-permit reopening or confiscation power.
 
 For the grazing-priority and applicant-qualification holdings in Public Lands Council v. Babbitt, No. 98-1991, May 15, 2000, see Environmental Law — Grazing priority, permitted use and applicant qualifications.
+
+### Submerged-land decree, fixed offshore line and reservation coasts
+
+#### United States v. Alaska, 530 U.S. 1021 (2000)
+
+**Docket or dockets:** No. 84, Original.
+
+**Decided:** June 29, 2000.
+
+##### 1. Entry implements the settled judgment and formally permits the counterclaim
+
+**Holding:** The jointly submitted decree is entered because its terms implement the Court's completed title and boundary judgment without enlarging or reopening it. Alaska receives leave to file its counterclaim as part of the existing original action, with no new merits hearing or alteration of the settled title classifications.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** The decree implements the June 19, 1997 judgment and the supported continuous-line agreement through Point Hope. It makes no new historic-title finding concerning Harrison Bay or Arco and supplies no title determination outside the described estates.
+
+##### 2. The offshore line is fixed and the reciprocal rights retain their qualifications
+
+**Holding:** Paragraph B fixes the federal-state offshore boundary at the original Exhibit A coordinates, with NAD 83/WGS 84 controlling and NAD 27 values serving only as conversion aids; under 43 U.S.C. section 1301(b), that line does not migrate with later coastal change. Against the other sovereign and persons claiming under it, the United States has exclusive exploration and natural-resource rights seaward, subject to section 1337(g) and Paragraph C, and Alaska has corresponding shoreward rights except within the Petroleum Reserve and Arctic Refuge and subject to section 1313 and Paragraph C; the reciprocal noninterference injunctions bind each sovereign, its privies, assigns, lessees and other persons claiming under it at that qualified scope.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** Section 1313 preserves lawfully and expressly acquired federal parcels and their accretions, resources and improvements; lands lawfully held under state law; lands expressly retained or ceded at statehood, apart from a merely general marginal-sea retention or cession; proprietary acquisitions by eminent domain, purchase, cession, gift or otherwise; federal-use filled, built-up or reclaimed lands; existing federal rights in lands presently and actually occupied under claim of right; lands or interests held for tribes, bands, groups or individual Indians; and structures and improvements constructed under the federal navigational servitude. No new parcel-specific application is decided.
+
+Section 1337(g)'s coastal-state revenue rights remain in force without transferring seaward title. Its ordinary account covers specified bonuses, rents, royalties and other bidding revenues from post-September 18, 1978 federal leases in the three-nautical-mile band, excluding federal income and windfall-profits taxes. Partial tracts ordinarily use the percentage of surface acreage within that band. Alaska's special treatment includes a partially covered tract's revenues until seven years after settlement of a boundary dispute under a section 1336 agreement made before January 1, 1986; for other Alaska tracts that special period ended April 15, 1993. Subject to the disputed-boundary provisions, the State receives 27 percent of the covered revenues with accrued interest by the last business day of the month after Treasury deposit, with the remainder sent simultaneously to federal miscellaneous receipts.
+
+For a section 1336 boundary dispute, section 1337(g)(5) credits the agreement account with qualifying post-1978 revenues from tracts wholly or partly within the State-asserted band if not already deposited. Its interim 27-percent payment with interest concerns tracts wholly within the federally asserted band and falls due on the later of thirty days after December 1, 1987 or the last business day of the month after deposit. At settlement, additional sums due are paid from escrow; an insufficiency is met from federal lease revenues under the statutory formula. The statute's information and confidentiality rules, common-deposit notification and optional sharing agreements, account investment, October 1, 1985 accounting-effective date, and equal division of the state share where a tract falls within two or more States' bands remain intact. The decree calculates no statutory award or disputed account balance.
+
+**Operative remedy or transition:** The original Exhibit A coordinate schedule in the entered decree controls, including its NAD 83/WGS 84 datum. The [original schedule](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370914/1000370914_001.pdf) is incorporated without numerical retranscription; conversions and illustrative maps cannot replace it.
+
+##### 3. Three lease categories govern administration and escrow without altering third-party rights
+
+**Holding:** Paragraph C governs accounting and administration by the three distinct categories below, with the Section 7 escrow deadline running no later than 180 days after entry on June 29, 2000. It preserves the sovereigns' rights and obligations toward lessees and third parties, whether arising under Section 7 agreements or otherwise, and all rights and obligations under present or future unitization, operating, enhanced-recovery, commingling or similar agreements between the parties or with others.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Material application:**
+
+| Lease category | Administration, distribution and transition |
+|---|---|
+| Existing and former leases subject to Section 7 agreements | Distribute escrow according to the agreements within 180 days after entry. Carry out all applicable agreement provisions and administer the leases under their terms. |
+| Existing nonagreement leases intersected by the fixed line | The original lessor continues administration and has the exclusive right to all past and future lease revenue. Upon expiration, relinquishment or termination, Paragraph B alone governs exploration and resource-exploitation rights in the formerly leased area. Fixing the line does not change distributions from former nonagreement leases that expired before entry and would have been intersected. |
+| Existing Section 7 agreement leases also intersected by the fixed line | The agreement governs escrow distribution and administration. Upon expiration, relinquishment or termination, Paragraph B alone governs the area's exploration and resource-exploitation rights. Fixing the line does not change distributions from former agreement leases that expired before entry and would have been intersected. |
+
+**Limits and questions not reached:** The decree determines no account amount, present delinquency, cancellation or new third-party obligation. Filing the proposal did not start the 180-day escrow period.
+
+##### 4. The two reservation coastal descriptions preserve their different measures
+
+**Holding:** Paragraph D identifies the Petroleum Reserve's coastal boundary as the continuous line beginning at the western bank of the Colville River and following the highest highwater mark westward, closing small-lagoon entrances including Peard Bay, Wainwright Inlet, the Kuk River, Kugrua Bay and River, and other small bays and river estuaries; it follows the ocean side of barrier islands and sandspits within three miles of shore and the ocean side of the Plover Islands to Icy Cape's northwestern extremity, approximately 70 degrees 21 minutes N., 161 degrees 46 minutes W. Paragraph E identifies the Arctic Refuge's coastal boundary from the international boundary between Alaska and Yukon Territory at extreme low water near Monument 1, westward along extreme low water and across lagoon entrances so that all offshore bars, reefs, islands and lagoons separating them from the mainland are within the Refuge, ending at Brownlow Point, approximately 70 degrees 10 minutes N., 145 degrees 51 minutes W.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** Highest highwater for the Petroleum Reserve is not substituted for extreme low water for the Refuge. Paragraph D preserves the submitted geographic description of the named reserve; it makes no new finding resolving the executive-order citation discrepancy. Paragraph E's reference to Public Land Order 2214, 25 Fed. Reg. 12598 (1960), identifies the descriptive coastline without making that order retroactively defeat state title. The legally operative 1957 segregation remains the earlier judgment's ground, and the 1980 enlargement does not supply the original statehood boundary. Neither paragraph decides title outside the described estate or replaces the original offshore coordinate schedule.
+
+##### 5. Reservation coasts may move, and jurisdiction remains for implementation
+
+**Holding:** Under Paragraph F the Petroleum Reserve and Arctic Refuge coastal boundaries migrate with changes in the relevant physical features, and the parties may address resulting disputes through negotiation, alternative dispute resolution or invocation of the Court's retained jurisdiction; they may jointly submit a boundary-location agreement for entry as a supplemental decree. Under Paragraph G the Court retains jurisdiction to entertain further proceedings, enter orders and issue writs necessary or advisable to effectuate and supplement this decree and the parties' rights; in all other respects the decree is final.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** The ambulatory reservation coasts differ from the fixed offshore line. Retained jurisdiction implements the decree; it does not reopen title, require a mandatory dispute-resolution sequence or find that a current boundary dispute exists.
+
+**Treatment of earlier authority:**
+
+- United States v. Alaska, June 19, 1997: implemented through the original schedule, qualified relief and administrative terms. The normal-baseline and Dinkum holdings and the separate Petroleum Reserve and prestatehood Refuge title grounds remain unchanged. No new title determination or new assent to the prior reasoning follows from entry of the decree.
 
 ## Antitrust
 
