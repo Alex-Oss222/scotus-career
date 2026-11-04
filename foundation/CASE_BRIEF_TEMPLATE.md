@@ -57,7 +57,8 @@ Repeat for each genuinely distinct issue:
 * **Current Reusable Doctrine:** [operative Standards & Tests provisions]
 * **Other Governing Law:** [constitutional, statutory, surviving, or effective noncase law]
 * **Material Other Authority:** [only authority that performs work]
-* **Open Point:** [what entering law leaves unresolved, if anything]
+* **Existing Rule's Reach:** [the questions and applications entering law already governs; distinguish a genuinely unresolved legal question from an ordinary future application that needs only fact-finding under a settled rule]
+* **Open Point:** [the legal question entering law actually leaves unresolved, if any]
 
 If Holdings and Standards & Tests materially conflict, state the conflict and stop that issue rather than synthesizing them.
 
@@ -67,8 +68,8 @@ For each material issue state compactly:
 
 * controlling reasoning below;
 * material alternative or unreached grounds;
-* petitioner's or appellant's strongest supported position;
-* respondent's or appellee's strongest supported position;
+* petitioner's or appellant's strongest supported position, including the general rule it asks the Court to adopt;
+* respondent's or appellee's strongest supported position, including the general rule it asks the Court to adopt;
 * necessary concessions or limiting principles;
 * Solicitor General or amicus position only when it could affect analysis.
 
@@ -81,7 +82,9 @@ Identify only materially plausible:
 * threshold paths;
 * merits paths;
 * judgment consequences;
-* remedial or remand consequences.
+* remedial or remand consequences, including the relief the parties would receive on each path.
+
+**Plausible Holding Scope:** For each materially plausible merits path, identify the legal rule it could establish, the breadth the question presented and the record reasonably support, and its consequences for analogous cases. Include a broader or narrower formulation only when the law genuinely supports it. Do not recommend a formulation or predict the Court's choice.
 
 State any record, source, posture, or legal uncertainty that could change the analysis.
 
@@ -121,6 +124,7 @@ Section II contains Stone's case-specific position. Keep current simulated law d
 * **Approval Date or Turn:** [only if actually approved]
 * **Current-Through Baseline:** [baseline]
 * **Conditions:** [if any]
+* **Discretion Envelope:** [only if approved: nonmaterial wording, compatible joins or partial joins, or an authorized narrower formulation the Engine may use without renewed approval]
 
 Do not claim that a newly drafted Stone position was previously approved.
 
@@ -129,23 +133,26 @@ Do not claim that a newly drafted Stone position was previously approved.
 For each docket or separable judgment component:
 
 * **Stone's Controlled Judgment or Disposition:** [exact disposition]
-* **Stone's Remedy and Remand Position:** [exact consequence]
+* **Stone's Remedy and Remand Position:** [exact consequence, including the relief the parties receive (damages, injunction, declaration, fees, reinstatement, or other) and, if remanding, the governing standard the lower court applies]
 
 ## C. ISSUE POSITIONS
+
+Answer each question Stone reaches as a whole: whether the right, power, or cause of action exists, its reach within the question, and the remedy. Do not leave reach or remedy for a later case unless a Boundary ground below applies.
 
 Repeat for each issue Stone lawfully reaches:
 
 ### Issue [number]: [short description]
 
-* **Threshold and Merits Reach:** [whether and why Stone reaches the issue]
-* **Question Stone Resolves:** [only if narrowing is required]
-* **Stone's Legal Position:** [apply current law, apply it differently, or propose changing it]
-* **Stone's Proposed Holding:** [legal proposition plus necessary case application]
+* **Threshold and Merits Reach:** [whether and why Stone reaches the issue, resting on the record rather than on Section I's summary]
+* **Question Stone Resolves:** [the question as presented; narrow it only if the Court must]
+* **Stone's Legal Position:** [apply current law, apply it differently, or propose changing it; say which]
+* **Stone's Proposed Holding:** [the complete answer: the controlling rule at the level of generality Stone's reasoning supports, the material applications it governs, and its application to this case; do not narrow or expand it merely to limit future consequences]
+* **Reach Within the Question:** [the persons, conduct, claims, or statutes the rule covers and any it excludes]
 * **Essential Reasoning and Record Application:** [compact but complete]
-* **Boundary or Reserved Question:** [when material]
-* **Approved Conditional Position or Fallback:** [only if one actually exists]
+* **Boundary or Reserved Question:** [only a question that lies outside the question presented, was not raised or preserved, or needs facts the record lacks; name which ground applies. Otherwise "None."]
+* **Approved Conditional Position or Fallback:** [only if one actually exists, for example an alternative judgment vote if five votes do not support Stone's own disposition]
 
-If Stone proposes changing current law, identify what current law is, what he would change, the replacement proposition, and what remains unchanged.
+If Stone proposes changing current law, identify what current law is, what he would change, the replacement proposition, and what remains unchanged. If Stone treats a rule as existing law, confirm that entering law actually adopted it rather than reserved it; otherwise state it as a new holding.
 
 ## D. CERTIORARI POSITION
 
