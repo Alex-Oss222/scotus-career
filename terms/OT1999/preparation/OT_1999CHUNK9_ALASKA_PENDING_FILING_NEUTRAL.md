@@ -1,0 +1,3 @@
+# Alaska pending-filing update
+
+Effective June 7, 2000, the United States and Alaska jointly filed the verified motion, memorandum and proposed decree in No. 84, Original. The original action therefore has the requested implementing proposal available for consideration rather than awaiting its submission. The filing creates no Court action, vote, holding, final boundary, payment obligation or implementation deadline. The June 19, 1997 decision remains controlling. The proposal awaits the scheduled June 29 consideration. Source: the actual June 7 joint motion in the Supreme Court Library original-jurisdiction collection. This change has no material effect on another completed matter.

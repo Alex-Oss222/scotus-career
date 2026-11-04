@@ -1,0 +1,19 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 266,
+    "params": {
+      "query": "collection:us-supreme-court AND (text:Henerey OR text:Henerey OR text__reviews:Henerey)",
+      "qin": "collection:us-supreme-court AND Henerey",
+      "fields": "_default_",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 0,
+    "start": 0,
+    "docs": []
+  }
+}

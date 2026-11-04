@@ -1,0 +1,40 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 23,
+    "params": {
+      "query": "collection:us-supreme-court AND (title:84 AND title:Alaska)",
+      "qin": "collection:us-supreme-court AND (title:(84) AND title:(Alaska))",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 5,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385017_2082",
+        "title": "Roop v. Alaska, 471 U.S. 1016 (1985) (No. 84-1238)"
+      },
+      {
+        "identifier": "micro_IA40385010_2566",
+        "title": "Smith v. Alaska Department of Commerce & Economic Development, 469 U.S. 858 (1984) (No. 84-183)"
+      },
+      {
+        "identifier": "micro_IA40385010_3098",
+        "title": "Copelin v. Alaska, 469 U.S. 1017 (1984) (No. 84-30)"
+      },
+      {
+        "identifier": "micro_IA40385012_0346",
+        "title": "Chevron U.S.A., Inc. v. William J. Sheffield, Governor of Alaska, 471 U.S. 1140 (1985) (No. 84-634)"
+      },
+      {
+        "identifier": "micro_IA40386009_1213",
+        "title": "Bickford v. Alaska (No. 07-84)"
+      }
+    ]
+  }
+}

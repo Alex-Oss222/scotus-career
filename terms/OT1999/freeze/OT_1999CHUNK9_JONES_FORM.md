@@ -1,0 +1,7 @@
+# Jones - form and governing propositions before assignment
+
+The reconciled six-Associate reversal coalition and Stone's approved position support a single signed plenary Opinion of the Court. Its governing propositions are: severe associational burden from compulsory outsider participation in the selection of an objecting party's official nominee; compelling-interest and narrow-tailoring review; failure of the asserted purposes and fit to justify this mechanism; reversal with fitted prospective relief, preserving ordinary election regulation and reserving other primary designs. Those propositions require no divided authorship. The legal form and scope are fixed before consulting the assignment count.
+
+The tentative judgment and complete-rationale coalition comprises Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Stevens and Ginsburg would affirm on the public-primary distinction and alternative contextual justification. A political-autonomy concurrence by Kennedy can join the Court in full. A dissent can state both dissenters' common grounds without adding the unpresented Elections Clause discussion.
+
+No additional commitment is sought from a dissenting Justice, and no material circulation change to a reconciled commitment is needed. The approved Stone position treats less intrusive designs as available alternatives, not as a judgment upholding every unpresented design. Its discretion envelope permits that express reservation.

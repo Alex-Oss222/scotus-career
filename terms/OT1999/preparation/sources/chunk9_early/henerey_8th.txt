@@ -1,0 +1,371 @@
+PAGE 1
+1Roger L. Wollman became Chief Judge of the United States Court of Appeals
+for the Eighth Circuit on April 24, 1999.
+2The Honorable Charles R. Wolle, United States District Judge for the Southern
+District of Iowa, sitting by designation.
+United States Court of Appeals
+FOR THE EIGHTH CIRCUIT
+___________
+No. 98-3439
+___________
+Adam Henerey, by and through his *
+parent and next friend Michael Henerey, *
+*
+Appellant, *
+* Appeal from the United States
+v. * District Court for the
+* Eastern District of Missouri.
+City of St. Charles, School District; *
+Jerry Cook, principal, individually and *
+in his official capacity; David Watson, *
+assistant principal, individually and in *
+his official capacity, *
+*
+Appellees. *
+___________
+Submitted:  April 21, 1999
+Filed:   December 29, 1999
+___________
+Before RICHARD S. ARNOLD and WOLLMAN,1 Circuit Judges, and
+WOLLE,2 District Judge.
+___________
+PAGE 2
+3The Honorable Charles A. Shaw, United States District Judge for the Eastern
+District of Missouri.
+-2-
+WOLLMAN, Chief Judge.
+Adam Henerey appeals from the district court’s3 grant of summary judgment in
+favor of the City of St. Charles School District (District) in this 42 U.S.C. § 1983
+action based on a claimed violation of the First Amendment.  We affirm.
+I.
+In March 1997, Henerey, then a sophomore at St. Charles High School, applied
+to run for junior class president in an upcoming student council election.  Although
+candidacy was open to all members of the sophomore class, those seeking to run were
+required to meet with Mary Stodden, the student council advisor, and to sign a contract
+of obligation.  Under the terms of the contract, candidates agreed to obey all school
+rules.  After Henerey signed the contract, a member of the student council advised him
+that all campaign flyers and posters had to be approved by the administration prior to
+distribution.
+The campaign officially began on April 7, 1997.  Henerey obtained approval
+from the administration for his campaign slogan, “Adam Henerey, The Safe Choice.”
+On the evening of April 7, Henerey was informed by Stodden that other candidates had
+complained that his posters had been posted over theirs and that references to other
+candidates were demeaning.  Stodden then told Henerey that all materials needed to be
+approved by the administration.
+On the morning of April 10, 1997, the day of the election, Henerey handed out
+in the school hallways some eleven condoms attached to stickers bearing his campaign
+PAGE 3
+-3-
+slogan.  He had given the administration no prior indication that he planned to distribute
+condoms or that his campaign would in any way involve sex-related topics.
+As Ms. Stodden was counting the ballots, a student complained to her about
+Henerey’s distribution of condoms.  Ms. Stodden in turn relayed the complaint to Dr.
+Jerry Cook, the school principal, who determined that Henerey should be disqualified
+from the student election for his failure to comply with School Board Rule KJ-R, which
+required students to get prior approval from the school principal or assistant principal
+before distributing any materials.  A subsequent count of the votes revealed that
+Henerey had received a majority of the votes for junior class president.
+Henerey then filed this action, alleging that the District violated 42 U.S.C. §
+1983 by suppressing his First Amendment right to free speech.  The district court found
+that although a material dispute existed whether Henerey’s conduct constituted
+constitutionally protected speech, the rule restricting the types of electioneering
+materials that could be distributed was constitutional.  The court concluded that the
+student election was a school-sponsored activity that took place in a nonpublic forum
+and that Dr. Cook’s decision to disqualify Henerey for his failure to comply with Rule
+KJ-R was reasonably related to the school’s legitimate pedagogical goals.
+Accordingly, it granted the District’s motion for summary judgment. 
+II.
+We review a grant of summary judgment de novo.  See Hossaini v. Western
+Missouri Med. Ctr., 140 F.3d 1140, 1142 (8th Cir. 1998).  Summary judgment should
+be granted if the evidence, viewed in the light most favorable to the nonmoving party,
+indicates that no genuine issue of material fact exists and that the moving party is
+entitled to judgment as a matter of law.  See id.; Fed. R. Civ. P. 56(c).
+PAGE 4
+-4-
+Although students do not “shed their constitutional rights to freedom of speech
+or expression at the schoolhouse gate,”  Tinker v. Des Moines Indep. Community Sch.
+Dist., 393 U.S. 503, 506 (1969), the Constitution does not compel “teachers, parents,
+and elected school officials to surrender control of the American public school system
+to public school students.”  Bethel Sch. Dist. No. 403 v. Fraser , 478 U.S. 675, 686
+(1986) (quoting Tinker, 393 U.S. at 526 (Black, J., dissenting)).  The constitutional
+rights of public school students “are not automatically coextensive with the rights of
+adults in other settings,”  Fraser, 478 U.S. at 682, and a school need not tolerate speech
+that is inconsistent with its pedagogical mission, even though the government could not
+suppress that speech outside of the schoolhouse.  See Hazelwood Sch. Dist. v.
+Kuhlmeier, 484 U.S. 260, 266 (1988) (citing Fraser, 478 U.S. at 685); Poling v.
+Murphy, 872 F.2d 757, 762 (6th Cir. 1989) (“Limitations on speech that would be
+unconstitutional outside the schoolhouse are not necessarily unconstitutional within
+it.”).   Therefore, courts must analyze First Amendment violations alleged by students
+“in light of the special characteristics of the school environment.”  Hazelwood, 484
+U.S. at 266 (quoting Tinker, 393 U.S. at 506).
+Purely individual speech by students constituting “personal expression that
+happens to occur on the school premises” is subject to a high degree of First
+Amendment protection.  Hazelwood, 484 U.S. at 271.  However, school officials may
+restrict even individual student expression that “materially and substantially interfere[s]
+with the requirements of appropriate discipline in the operation of the school,” or that
+“would substantially interfere with the work of the school or impinge upon the rights
+of other students.”  Tinker, 393 U.S. at 509 (citations and internal quotation marks
+omitted).
+When the expressive conduct at issue occurs in the context of a school-
+sponsored activity that is not also a public forum, the authority of schools to exercise
+control over the content of speech is at its greatest.  See, e.g., Hazelwood, 484 U.S. at
+276 (school may censor official student newspaper); Fraser, 478 U.S. at 678 (school
+PAGE 5
+-5-
+may ban sexually suggestive language in speech before high school assembly); Lacks
+v. Ferguson Reorg. Sch. Dist. R-2, 147 F.3d 718, 724 (8th Cir. 1998) (school may ban
+profanity in creative writing class), cert. denied, 119 S.Ct. 1158 (Mar. 8, 1999); Poling,
+872 F.2d at 764 (school may ban insulting references in student council election
+speech).  In the absence of a public forum, school officials may limit a student’s speech
+in a school-sponsored activity if the limitation is “reasonably related to legitimate
+pedagogical concerns.”  Hazelwood, 484 U.S. at 273.
+A.
+1.
+Henerey argues that the campaign for class president must be considered a forum
+for public expression.  The nature of the forum affects the degree of protection the First
+Amendment affords to expressive activity, even within the public school setting.  See,
+e.g., Hazelwood, 484 U.S. at 267 (conducting forum analysis as first step in addressing
+student speech claim); Perry Educ. Ass’n v. Perry Local Educators’ Ass’n, 460 U.S.
+37, 44 (1983) (“The existence of a right of access to public property and the standard
+by which limitations upon such a right must be evaluated differ depending on the
+character of the property at issue.”); Muller v. Jefferson Lighthouse Sch., 98 F.3d 1530,
+1540 (7th Cir. 1996) (prior restraint of student speech not unconstitutional in nonpublic
+forum).
+Although school facilities are traditionally deemed nonpublic fora, they may be
+designated public when school authorities have a policy or practice of opening them for
+indiscriminate use by the general public, or by some segment of the public such as
+student organizations.  See Good News/Good Sports Club v. School Dist. of the City
+of Ladue, 28 F.3d 1501, 1513 (8th Cir. 1994) (citing Hazelwood, 484 U.S. at 267).
+“The government does not create a public forum by inaction or by permitting limited
+discourse, but only by intentionally opening a nontraditional forum for public
+PAGE 6
+-6-
+discourse.”  Hazelwood, 484 U.S. at 267 (quoting Cornelius v. NAACP Legal Defense
+and Educ. Fund, Inc., 473 U.S. 788, 802 (1985)).
+Here, the District did not open the campaign to the public, and it obviously
+intended to control the speech associated with the student election.  Only enrolled
+students were eligible for candidacy in the election, and those who sought an elected
+position were required to sign an agreement stating that they would obey school rules.
+In addition, all campaign materials had to be approved prior to their distribution or use.
+Thus, because there is no evidence that the school intended by “policy or practice” to
+relinquish its control over the election and designate it a forum for public expression,
+see Good News, 28 F.3d at 1513, we conclude that the election was conducted within
+the context of a nonpublic forum.
+2.
+The next question is whether Henerey’s expression was school-sponsored speech
+or independent student speech.  See Hazelwood, 484 U.S. at 270-71.  A school may
+exercise greater control over student speech uttered during participation in a school-
+sponsored activity than that expressed during an independent activity because
+“students, parents, and members of the public might reasonably perceive [the school-
+sponsored speech] to bear the imprimatur of the school.”  Id. at 271.  Such control also
+“assure[s] that participants learn whatever lessons the activity is designed to teach, that
+readers or listeners are not exposed to material that may be inappropriate for their level
+of maturity, and that the views of the individual speaker are not erroneously attributed
+to the school.”  Id.  Although to be considered “school-sponsored,” expressive
+activities must be “curricular” in a broad sense, they need not “occur in a traditional
+classroom setting, so long as they are supervised by faculty members and designed to
+impart particular knowledge or skills to student participants and audiences.”  Id.
+(footnote omitted).
+PAGE 7
+-7-
+The election was supervised by a school administrator serving as the student
+council advisor,  and it ran for a limited time period set by the school.  It was operated
+under the auspices of the school administration, and any member of the public could
+reasonably have concluded that campaign materials were distributed with the implied
+approval of the school.  Moreover, the election was conducted for the pedagogical
+purposes of allowing candidates to learn leadership skills and exposing the general
+student body to the democratic process.  Accordingly, we agree with the district court
+that the election was a school-sponsored activity that was a part of the school’s
+curriculum.  See Poling, 872 F.2d at 762 (there can be “no doubt” that a student
+election is a school-sponsored activity for First Amendment purposes).  In this setting,
+the question becomes whether the District’s decision to disqualify Henerey from the
+election was reasonably related to legitimate pedagogical concerns.  See Hazelwood,
+484 U.S. at 273.
+B.
+1.
+We turn first to the District’s contention that the sole basis for its decision to
+disqualify Henerey was his violation of school rules.  The relevant portions of Rule KJ-
+R read as follows:
+ADVERTISING IN THE SCHOOLS  (Board Policy KJ-R)
+1. Places
+The distribution of such items may take place in a location approved
+by principal of the school.
+. . . .
+3. Approval
+The approval must be obtained the previous day or earlier from the
+principal or assistant principal.  (For materials not readily classifiable
+or approvable more than one school day should be allowed.)  The
+PAGE 8
+-8-
+approved articles will bear the official stamp of the school, “Approved
+for Distribution or Posting”
+. . . .
+5. Unacceptable Items
+Hate literature which attacks ethnic, religious or racial groups, other
+irresponsible publications aimed at encouraging hostility and violence;
+pornography, obscenity and materials unsuitable for distribution in the
+schools is unacceptable as well as:
+a. Materials judged libelous to specific individuals in or out of school
+b. Materials designed for commercial purposes - to advertise or
+promote a product or service for sale or rent.
+c. Materials which are designed to solicit funds unless approved by
+the superintendent or his assistant
+d. Materials the principal is convinced would materially disrupt class
+work or involve substantial disorder or invasion of the rights of
+others
+6. Acceptable Materials
+All materials not proscribed in “Unacceptable items”.
+The District’s position is that it disciplined Henerey simply because he had failed
+to comply with Rule KJ-R.  The District contends that it acted reasonably because it
+has a legitimate interest in disciplining students who do not obey school rules, noting
+that despite repeated warnings, Henerey failed to obtain prior approval for his
+campaign materials.
+Henerey argues that because other students distributed materials, such as candy
+and gum, without prior approval and were not disciplined, the District’s decision to
+disqualify him from the election was based on the content of his message.  The District
+responds by pointing out that handing out candy on election day has been a long-
+standing practice at the school, one that has been tacitly approved by the
+administration.  We find nothing in the record to challenge the District’s representation
+PAGE 9
+-9-
+on this point, and thus we conclude that Henerey has provided no evidence of selective,
+content-based enforcement of Rule KJ-R.
+2.
+Henerey  argues that Rule KJ-R is unconstitutional on its face as a prior restraint
+on speech and as unconstitutionally vague.  Generally, prior restraints are subject to the
+highest degree of scrutiny and are the form of regulation most difficult to sustain under
+the First Amendment.  See Near v. Minnesota ex rel. Olson , 283 U.S. 697, 713-20
+(1931).  However, the prior restraint of speech within secondary schools is not per se
+unconstitutional.  See Hazelwood, 484 U.S. at 273 n.6; Bystrom v. Fridley High Sch.,
+Indep. Sch. Dist. No. 14, 822 F.2d 747, 750 (8th Cir. 1987).
+As to vagueness, Henerey argues that Rule KJ-R effectively gives the principal
+unfettered discretion to determine what materials are unacceptable.  As we noted in
+Bystrom, however, “a high degree of generality is made necessary by the subject
+matter.  The concepts involved (indecency, vulgarity, likelihood of material disruption)
+are general by their very nature.”  822 F.2d at 750. The rule furthers several legitimate
+interests of public schools identified in Bystrom, including the interest in assuring that
+“school hours and school property are devoted primarily to education as embodied in
+the district’s prescribed curriculum,” and the interest in “preserv[ing] some trace of
+calm on school property.”  822 F.2d at 750.  More generally, Rule KJ-R appears to be
+“one expression of the ‘legitimate and substantial community interest in promoting
+respect for authority and traditional values be they social, moral, or political.’”  Id. at
+750-51 (quoting Board of Educ., Island Trees Union Free Sch. Dist. No. 26 v. Pico ,
+457 U.S. 853, 864 (1982) (opinion of Brennan, J., joined by Marshall and Stevens, JJ.,
+announcing the judgment of the Court)); cf. Bull v. Dardanelle Pub. Sch. Dist. No. 15,
+745 F.Supp. 1455, 1457 (E.D. Ark. 1990) (upholding policy preventing students from
+running for council based on “lack of cooperation, rude conduct in class, excessive
+PAGE 10
+-10-
+absences or tardies, lack of responsibility, or inappropriate behavior in or out of
+school”).  Moreover, the rule allows the principal a reasonable time period--twenty-four
+hours--to evaluate materials.  See, e.g., Muller, 98 F.3d at 1534, 1541 (upholding
+similar twenty-four-hour prescreening requirement in public school setting as a
+reasonable prior restraint).  Accordingly, we do not find the rule unconstitutional on its
+face, and we agree with the district court that Dr. Cook’s decision to disqualify
+Henerey for his failure to comply with the rule represented a reasonable response to
+that noncompliance.  See Poling, 872 F.2d at 763-64.
+C.
+Even assuming, for the purpose of argument, that Henerey’s action in handing
+out the condoms constituted the expression of constitutionally protected speech and that
+Dr. Cook’s action in disqualifying Henerey was motivated by a disagreement with the
+content of that speech, it does not follow that a First Amendment violation necessarily
+occurred.  As the Sixth Circuit observed in a case involving a student council election,
+“[t]he universe of legitimate pedagogical concerns is by no means confined to the
+academic.”  Poling, 872 F.2d at 762.  Thus, for example, “schools must teach by
+example the shared values of a civilized social order.”  Fraser, 478 U.S. at 683 (quoted
+in Poling, 872 F.2d at 762).  These shared values include “discipline, courtesy, and
+respect for authority.”  Poling, 872 F.2d at 762.  In addition,
+a school must be able to take into account the emotional maturity of the
+intended audience in determining whether to disseminate student speech
+on potentially sensitive topics, which might range from the existence of
+Santa Claus in an elementary school setting to the particulars of teenage
+sexual activity in a high school setting.  A school must also retain the
+authority to refuse to sponsor student speech that might reasonably be
+perceived to advocate drug or alcohol use, irresponsible sex, or conduct
+otherwise inconsistent with “the shared values of a civilized social order,”
+PAGE 11
+-11-
+or to associate the school with any position other than neutrality on
+matters of political controversy.
+Hazelwood, 484 U.S. at 272 (quoting Fraser) (citations omitted).  As the Sixth Circuit
+put it, “[c]ivility is a legitimate pedagogical concern.”  Poling, 872 F.2d at 758.  So,
+too, is compliance with school rules.  See Bull, 745 F.Supp. at 1459.
+The distribution of condoms is qualitatively different from the handing out of
+candy or gum.  The one can be read to signify approval or encouragement of teenage
+sexual activity.  The other constitutes the traditional bestowing of a de minimis gratuity
+not associated with any social or political message.  School districts have an interest
+in maintaining decorum and in preventing the creation of an environment in which
+learning might be impeded, an interest that was particularly strong in the present case
+because the condom distribution occurred within the context of a school-sponsored
+election.  Henerey’s distribution of the condoms carried with it the implied imprimatur
+of the school, see Hazelwood, 484 U.S. at 271, for the other students would most likely
+have assumed that Henerey had complied with Rule KJ-R and had secured approval
+for the distribution.  The District has a legitimate interest in divorcing its extracurricular
+programs from controversial and sensitive topics, such as teenage sex, see Hazelwood,
+484 U.S. at 272, an interest that would be brought to naught were the school
+administration not allowed to discipline those whose conduct would necessarily embroil
+those extracurricular activities in the very topics from which they were to remain free.
+Nor can there be any doubt that teenage sex is a controversial topic in the public
+schools.   For example, parents have brought suit against school districts because their
+children were exposed to offensive or graphic materials without their consent.  See,
+e.g., Parents United for Better Schools, Inc. v. School Dist. of Philadelphia Bd. of
+Educ., 148 F.3d 260 (3d Cir. 1998); Brown v. Hot, Sexy and Safer Productions, Inc.,
+68 F.3d 525 (1st Cir. 1995) .  At the very least, school districts have an interest in
+requiring prior notice from anyone proposing to introduce students to information or
+PAGE 12
+-12-
+materials of an explicit sexual nature, notice that would enable school administrators
+to avoid or at least minimize the threat of costly confrontations by arranging
+accommodations for those with strong objections to such material.  Thus, it was well
+within the District’s rights to disqualify Henerey for his actions in distributing material
+that ran counter to the District’s pedagogical concern and its educational mission.
+Conclusion
+“[T]he education of the Nation’s youth is primarily the responsibility of parents,
+teachers, and state and local school officials, and not of federal judges.”   Hazelwood,
+484 U.S. at 273.  “It is only when the decision to censor a school-sponsored . . . vehicle
+of student expression has no valid educational purpose that the First Amendment is so
+directly and sharply implicated as to require judicial intervention to protect students’
+constitutional rights.”  Id. (citations, internal quotation marks and brackets omitted).
+That was not the case here, and thus we affirm the summary judgment.
+The judgment is affirmed.
+WOLLE, District Judge, dissenting.
+In my view, Adam Henerey’s First Amendment claim deserved a better fate than
+summary judgment.  Genuinely disputed factual issues, decided in his favor, might well
+have resulted in a jury verdict granting him some relief in money damages from one or
+more of the defendants who disallowed his election as junior class president of St.
+Charles High School.  
+I focus on the reason that the school principal gave for disqualifying Henerey
+from holding his elected office, a reason this record discloses may have been a pretext
+for censoring the content of his safe-sex message.  Henerey had obtained advance
+approval of his campaign slogan – “Adam Henerey, The Safe Choice.”  On the date of
+PAGE 13
+-13-
+the election, he offered to hand out campaign stickers with about twenty condoms to
+any student who requested one.   The principal’s only stated reason to disqualify
+Henerey was his failure to comply with School Board Rule KJ-R, quoted in part in the
+majority opinion.  That rule, entitled, “ ADVERTISING IN THE SCHOOLS ”, may
+have given inadequate notice to students that materials Henerey wished to distribute
+might need advance approval while candy and buttons other candidates were handing
+out would not need advance approval.  Arguably the rule also failed to give Henerey
+adequate notice that handing out his materials might cause disqualification from serving
+in the elective office he sought.  
+I believe jurors, drawing reasonable inferences from the evidence, could find that
+the school principal and other administrators applied the Rule KJ-R to Henerey and not
+others only when they realized that Henerey’s message connoted prevention of sexual
+diseases by use of such protective devices as condoms.  From the principal’s approval
+of materials like candy and buttons distributed by other candidates and refusal to allow
+Henerey’s materials, a jury could well decide it was the message and not the approval
+process that cost Henerey his junior class presidency.  Reasonable jurors could also
+conclude that disqualification was a punishment disproportionate to Henerey’s failure
+to receive specific advance approval to distribute his materials to students requesting
+them.  
+I disagree with the suggestion that safe sex among high school students is such
+a controversial topic that school officials may squelch its discussion in a school-
+sponsored school election contest.  
+I therefore respectfully dissent from the summary rejection of Adam Henerey’s
+First Amendment claim.  
+PAGE 14
+-14-
+A true copy.
+Attest:
+CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT.

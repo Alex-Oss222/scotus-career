@@ -1,0 +1,91 @@
+{
+  "status": "PASS",
+  "prior_files_preserved": 169,
+  "changed_baseline_files": [
+    "terms/OT1999/workspace/continuity.md",
+    "terms/OT1999/workspace/ledger.md",
+    "terms/OT1999/workspace/manifest.md",
+    "terms/OT1999/workspace/neutral-projection.md"
+  ],
+  "new_records": [
+    {
+      "record": "boy-scouts-of-america-v-dale_merits_2000-06-28.md",
+      "explanation_words": [
+        159,
+        206,
+        151
+      ]
+    },
+    {
+      "record": "california-democratic-party-v-jones_merits_2000-06-26.md",
+      "explanation_words": [
+        199,
+        199,
+        98
+      ]
+    },
+    {
+      "record": "henerey-v-city-of-st-charles-school-district_merits_2000-06-26.md",
+      "explanation_words": [
+        136,
+        172,
+        188
+      ]
+    },
+    {
+      "record": "hill-v-colorado_merits_2000-06-28.md",
+      "explanation_words": [
+        142,
+        198,
+        258,
+        138,
+        132,
+        112
+      ]
+    },
+    {
+      "record": "mitchell-v-helms_merits_2000-06-28.md",
+      "explanation_words": [
+        171,
+        146,
+        144,
+        128
+      ]
+    },
+    {
+      "record": "mobil-oil-marathon-v-united-states_merits_2000-06-26.md",
+      "explanation_words": [
+        323,
+        228,
+        140,
+        167,
+        115
+      ]
+    },
+    {
+      "record": "stenberg-v-carhart_merits_2000-06-28.md",
+      "explanation_words": [
+        139,
+        253,
+        261,
+        168
+      ]
+    },
+    {
+      "record": "united-states-v-alaska-joint-decree-motion_admitted-source_2000-06-07.md",
+      "explanation_words": []
+    },
+    {
+      "record": "united-states-v-alaska_decree_2000-06-29.md",
+      "explanation_words": [
+        94,
+        106,
+        128,
+        111,
+        70
+      ]
+    }
+  ],
+  "render_input_events": 8,
+  "git_verification": "Not performed; all Git commands prohibited by user."
+}

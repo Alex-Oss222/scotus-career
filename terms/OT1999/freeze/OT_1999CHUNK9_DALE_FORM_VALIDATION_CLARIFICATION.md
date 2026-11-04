@@ -1,0 +1,7 @@
+# Dale - assembly validation clarification
+
+Before final Run validation, fresh assembly QA identified that the original form receipt's treatment of unequivocal advocacy over time through customary channels as a Stone-supported specification went beyond his express actual-message, role and material-attribution ground. The final Record confines that additional proof requirement to the four Associates in Part IV. The five-Justice Court rule states the common necessary nexus and this record's failure to establish it; it does not make satisfaction of that nexus an automatic exemption or decide every further justification question.
+
+The four Associates retain their complete reconciled commitments, including the stronger requirement; Stone retains his approved fixed core. His disposition-only fallback applies exclusively to the separately unanswered intimate-association defense, not to the advocacy proposition. No Associate commitment changes and no new Stone ground is inferred.
+
+The original one-lead, five-Justice I-III/four-Justice IV form, complete-lead eligible set, balance pool, actual count and Souter assignment remain the same. The scope correction was made for substantive fidelity, not to affect a count or author. The original form receipt is preserved as the pre-count artifact; this clarification and final Record control its corrected scope. No previously completed adjudication or prior chunk is changed.

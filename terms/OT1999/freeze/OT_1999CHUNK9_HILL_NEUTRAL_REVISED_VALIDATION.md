@@ -1,0 +1,11 @@
+# Hill — supplemental neutral validation of Erie public-law refresh
+
+**Status:** Material entering-law omission corrected in a new frozen handoff, `OT_1999CHUNK9_HILL_NEUTRAL_REVISED.md`. The original neutral freeze remains unchanged. Fresh affected modeling must use the revised packet before freezing a Hill commitment. This receipt supplies no vote, coalition or disposition.
+
+**Authorized narrow scope:** Read the original Hill neutral framing and relevant law, plus the completed March 29 Erie Public Projection copied into the authorized preparation addition. Validated the addition's date eligibility, its exact controlling proposition and authority limits, its relation to Hill's classification/fit inquiry, and each Associate's published distinct position. No raw Decision Record or current Hill commitment, comparator, reconciliation, private position or target historical Supreme Court source was accessed.
+
+**Materiality and limits:** Erie preserves analysis of actual operation and justification rather than reliance on a general conduct label. Its precise five-Justice rule about communicative targeting of adult entertainment does not automatically decide Colorado's approach statute. Four full Part II joins, three Part III alternative-ground joins, and the distinct Kennedy/Breyer/Souter remand grounds are preserved without aggregation. Ward remains distinct from the injunction rules in Madsen and Schenck. Erie adds no universal study requirement, hearing duty or least-restrictive-means rule. Its threshold holding supplies no invented Hill mootness facts.
+
+**Integrity checks performed:** New packet begins with every byte of the original frozen packet and ends with every byte of the complete Erie public-law addition. The original file hash was identical before and after. No public-law wording was independently rewritten. The explanatory supplement is expressly analytical framing, not a substitute source text or new holding.
+
+**Scope of certification:** This is a narrow current-law refresh, not a new certification of every original Hill source. The original statutory, factual, preservation and remedy qualifications remain. No unsupported historical reconstruction, filing, waiver, default or new Court action is adopted. No Git operation or top-level stone access occurred; writes were confined to the term.

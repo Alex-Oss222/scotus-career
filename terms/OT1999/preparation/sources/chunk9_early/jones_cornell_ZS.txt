@@ -1,0 +1,103 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+CALIFORNIA DEMOCRATIC PARTY V. JONES
+LII
+Supreme Court
+CALIFORNIA DEMOCRATIC PARTY V. JONES (99-401)
+169 F.3d 646, reversed.
+Syllabus
+Opinion
+[ Scalia ]
+Concurrence
+[ Kennedy ]
+Dissent
+[ Stevens ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+CALIFORNIA DEMOCRATIC PARTY et al.
+v.
+JONES, SECRETARY OF STATE OF CALIFORNIA, et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH  CIRCUIT
+No. 99—401.  Argued April 24, 2000–Decided June 26, 2000
+One way that candidates for public office in California gain access to the general ballot is by winning a qualified political party’s primary.  In 1996, Proposition 198 changed the State’s partisan primary from a closed primary, in which only a political party’s members can vote on its nominees, to a blanket primary, in which each voter’s ballot lists every candidate regardless of party affiliation and allows the voter to choose freely among them.  The candidate of each party who wins the most votes is that party’s nominee for the general election.  Each of petitioner political parties prohibits nonmembers from voting in the party’s primary.  They filed suit against respondent state official, alleging,
+inter alia,
+that the blanket primary violated their
+First Amendment
+rights of association.  Respondent Californians for an Open Primary intervened.  The District Court held that the primary’s burden on petitioners’ associational rights was not severe and was justified by substantial state interests.  The Ninth Circuit affirmed.
+Held:
+California’s blanket primary violates a political party’s
+First Amendment
+right of association.  Pp. 4—19.
+(a)  States play a major role in structuring and monitoring the primary election process, but the processes by which political parties select their nominees are not wholly public affairs that States may regulate freely.  To the contrary, States must act within limits imposed by the Constitution when regulating parties’ internal processes.  See,
+e.g., Eu
+v.
+San Francisco County Democratic Central Comm.,
+489 U.S. 214
+.  Respondents misplace their reliance on
+Smith
+v.
+Allwright,
+321 U.S. 649
+, and
+Terry
+v.
+Adams,
+345 U.S. 461
+, which held not that party affairs are public affairs, free of
+First Amendment
+protections, see,
+e.g., Tashjian
+v.
+Republican Party of Conn.,
+479 U.S. 208
+, but only that, when a State prescribes an election process that gives a special role to political parties, the parties’ discriminatory action becomes state action under the
+Fifteenth Amendment
+.  This Nation has a tradition of political associations in which citizens band together to promote candidates who espouse their political views.  The
+First Amendment
+protects the freedom to join together to further common political beliefs,
+id.,
+at 214—215, which presupposes the freedom to identify those who constitute the association, and to limit the association to those people,
+Democratic Party of United States
+v.
+Wisconsin ex rel. La Follette,
+450 U.S. 107
+, 122.  In no area is the political association’s right to exclude more important than in its candidate-selection process.  That process often determines the party’s positions on significant public policy issues, and it is the nominee who is the party’s ambassador charged with winning the general electorate over to its views.  The
+First Amendment
+reserves a special place, and accords a special protection, for that process,
+Eu, supra,
+at 224, because the moment of choosing the party’s nominee is the crucial juncture at which the appeal to common principles may be translated into concerted action, and hence to political power,
+Tashjian, supra,
+at 216.  California’s blanket primary violates these principles.  Proposition 198 forces petitioners to adulterate their candidate-selection process–a political party’s basic function–by opening it up to persons wholly unaffiliated with the party, who may have different views from the party.  Such forced association has the likely outcome–indeed, it is Proposition 198’s intended outcome–of changing the parties’ message.  Because there is no heavier burden on a political party’s associational freedom, Proposition 198 is unconstitutional unless it is narrowly tailored to serve a compelling state interest.  See
+Timmons
+v.
+Twin Cities Area New Party,
+520 U.S. 351
+, 358.  Pp. 4—14.
+(b)  None of respondents’ seven proffered state interests–producing elected officials who better represent the electorate, expanding candidate debate beyond the scope of partisan concerns, ensuring that disenfranchised persons enjoy the right to an effective vote, promoting fairness, affording voters greater choice, increasing voter participation, and protecting privacy–is a compelling interest justifying California’s intrusion into the parties’ associational rights.  Pp. 14—18.
+169 F.3d 646, reversed.
+Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, Thomas, and Breyer, JJ., joined.  Kennedy, J., filed a concurring opinion.  Stevens, J., filed a dissenting opinion, in which Ginsburg, J., joined as to Part I.

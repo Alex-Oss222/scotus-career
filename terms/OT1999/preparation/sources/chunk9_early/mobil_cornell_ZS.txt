@@ -1,0 +1,68 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+MOBIL OIL EXPLORATION & PRODUCINGSOUTHEAST, INC. v. UNITED STATES
+1
+">
+LII
+Supreme Court
+MOBIL OIL EXPLORATION & PRODUCINGSOUTHEAST, INC. v. UNITED STATES (99-244)
+177 F.3d 1331, reversed and remanded.
+Syllabus
+Opinion
+[ Breyer ]
+Dissent
+[ Stevens ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+MOBIL OIL EXPLORATION & PRODUCING
+SOUTHEAST, INC.
+v.
+UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+No. 99—244.  Argued March 22, 2000–Decided June 26, 2000
+1
+Two oil companies, petitioners here, paid the Government $158 million in return for lease contracts giving them the rights to explore for and develop oil off the North Carolina coast, provided that the companies received exploration and development permission in accordance with procedures set out in,
+inter alia,
+the Outer Continental Shelf Lands Act (OCSLA), the Coastal Zone Management Act of 1972 (CZMA), and regulations promulgated pursuant to those Acts.  OCSLA, among other things, requires the Department of the Interior to approve a company’s Plan of Exploration (Plan) within 30 days of its submission if the Plan meets certain criteria.  A company must also obtain an exploratory well drilling permit after certifying under CZMA that its Plan is consistent with each affected State’s coastal zone management program.  If a State objects, the Secretary of Commerce must override the objection or the certification fails.  Interior may grant the permit if Commerce rules against the State.  While the companies’  Plan was pending before Interior, the Outer Banks Protection Act (OBPA) became law.  OBPA prohibited the Interior Secretary from approving any Plan until,
+inter alia,
+an OBPA-created Environmental Sciences Review Panel (Panel) reported to the Secretary and the Secretary certified to Congress that he had sufficient information to make OCSLA-required approval decisions.  In no event could he approve any Plan for 13 months.  Interior told Mobil the Plan met OCSLA requirements but that it would not approve the Plan until the OBPA requirements were met.  It also suspended all North Carolina offshore leases.  After the Panel made its report, the Interior Secretary made the requisite certification to Congress but stated that he would not consider the Plan until he received further studies recommended by the Panel.  North Carolina objected to the CZMA certification, and the Commerce Secretary rejected Mobil’s override request.  Before the Commerce Secretary issued his rejection, the companies joined a breach of contract lawsuit in the Court of Federal Claims.  That court granted them summary judgment, finding that the Government had broken its contractual promise to follow OCSLA, that the Government thereby repudiated the contracts, and that that repudiation entitled the companies to restitution of their payments.  In reversing, the Federal Circuit held that the Government’s refusal to consider Mobil’s Plan was not the operative cause of any failure to carry out the contracts’ terms because the State’s objection to the CZMA certification would have prevented the exploration.
+Held:
+The Government broke its promise, repudiated the contracts, and must give the companies their money back.  Pp. 8—19.
+(a)  A contracting party is entitled to restitution if the other party “substantially” breached a contract or communicated its intent to do so.  Here, the Government breached the contracts and communicated such intent.  None of the provisions incorporated into the contracts granted Interior the legal authority to refuse to approve the companies’ Plan, while suspending the lease instead.  First, such authority does not arise from the OSCLA provision,
+43 U.S.C. § 1334
+(a)(1)(A), that permits the Secretary to promulgate regulations providing for suspension of an operation or activity only upon “the request of a lessee.”  Second, the contracts say that they are subject to then-existing regulations and future regulations issued under OCSLA and certain Department of Energy Organization Act provisions.  This explicit reference to future regulations makes it clear that the contracts’ catchall provisions referencing “all other applicable … regulations” must include only statutes and regulations already existing at the time of the contracts.  Thus, the contracts are not subject to future regulations promulgated under other statutes, such as OBPA.  Third, an OSCLA provision authorizing suspensions in light of a threat of serious harm to the human environment did not authorize the delay, for Interior explained that the Plan fully complied with current legal requirements and cited OBPA to explain the delay.  Insofar as the Government means to suggest that OBPA changed the relevant OSCLA standard, it must mean that OBPA in effect created a new requirement.  Such a requirement would not be incorporated into the contracts.  Finally, when imposing the delay, Interior did not rely upon any of the regulations to which the Government now refers.  OBPA required Interior to impose the contract-violating delay and changed pre-existing contract-incorporated requirements in several ways.  By communicating its intent to follow OBPA, the Government was communicating its intent to violate the contracts.  Pp. 8—14.
+(b)  The Government’s contract breach was substantial, for it deprived the companies of the benefit of their bargain.  Under the contracts, the incorporated procedures and standards amounted to a gateway to the companies’ enjoyment of their rights to explore and develop oil.  Timely and fair consideration of a submitted Plan was a material condition of the contracts, yet the Government announced an OBPA-required delay of 13 months minimum, and the delay turned out to be at least four years.  This modification of the procedures was not technical or insubstantial, and it amounted to a repudiation of the contracts.  Pp. 15—16.
+(c)  Although acceptance of a once-repudiated contract can constitute a waiver of the restitution right that repudiation would otherwise create, none of the events that the Government points to–that the companies submitted the Plan to Interior two days after OBPA became law, that the companies subsequently asked the Commerce Secretary to override North Carolina’s objection to the CZMA certification, and that the companies received suspensions of their leases pending OBPA-mandated approval delays–amounts to significant postrepudiation performance.  Pp. 16—18.
+(d)  Finally, the Government’s argument that OBPA caused the companies no injury because they could not have met the CZMA consistency requirements misses the point: The companies seek not damages for breach of contract but restitution of their initial payments.  Because the Government repudiated the contracts, the law entitles the companies to that restitution whether the contracts would, or would not, ultimately have produced a financial gain or led them to obtain a definite right to explore.  Pp. 18—19.
+177 F.3d 1331, reversed and remanded.
+Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined.  Stevens, J., filed a dissenting opinion.
+Notes
+1.
+Together with No. 99—253,
+Marathon Oil Co.
+v.
+United States,
+also on certiorari to the same court.

@@ -1,0 +1,62 @@
+# United States v. Alaska ? frozen decree reconciliation
+
+**Event:** No. 84, Original; June 29, 2000 implementing decree following the June 19, 1997 judgment.
+**Status:** Complete. All eight initial Associate commitments support confined entry of the submitted A?G terms and unchanged original Exhibit A. Scalia and Thomas preserve their prior substantive title objections. No Stone position, public tally or opinion assignment is supplied.
+**Research cutoff:** June 29, 2000.
+
+## Authorized inputs and historical verification
+
+Read [frozen neutral packet](OT_1999CHUNK9_ALASKA_NEUTRAL.md), [validation](OT_1999CHUNK9_ALASKA_NEUTRAL_VALIDATION.md), [initial commitments](OT_1999CHUNK9_ALASKA_COMMITMENTS.md), the runtime per-case comparator, the authorized [prior public entry](../preparation/OT_1999CHUNK9_ALASKA_PRIOR_PUBLIC.md), and [citation source note](../preparation/OT_1999CHUNK9_ALASKA_EO_CITATION_SOURCE_NOTE.md), together with the governing instructions. No Stone supplement, briefs, current Decision Record or assembly material was read and no Git command was run.
+
+The [official historical decree, 530 U.S. 1021](https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-1021.pdf), is preserved in `sources/chunk9/alaska/530us1021.pdf` and `.txt`. The complete operative decree, all A?G terms and the Exhibit A introductory instructions were read. The entire remaining schedule text was processed for coordinates, commands, zones and all noncoordinate text, and the final-page map was viewed. This verifies the document's complete structure and absence of additional narrative writings; it does not certify every numerical coordinate against survey evidence or independently recompute the line. The structural receipt is `preparation/OT_1999CHUNK9_ALASKA_RECONCILIATION_SOURCE_SCAN.json`. The original schedule is unchanged and controls, rather than a new transcription or the illustrative map.
+
+The actual [joint motion, memorandum and proposal](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370914/1000370914_001.pdf), preserved in `sources/chunk9/alaska/joint-motion-2000-06-07.pdf`, was read for the complete motion, memorandum and operative A?G terms. The proposal's original Exhibit A remains the submitted schedule. The later reporter is used only for reconciliation, not to pretend that its entered result was a predecision party act.
+
+The comparator is accurate: the Court granted the joint motion and entered a decree June 29, 2000. There is no reported tally, named lineup, signed merits opinion or separate writing. The decree implements the prior judgment and states boundary, qualified rights, lease/revenue, reservation-coastline and retained-jurisdiction provisions. Historical silence about individual votes does not establish unanimity or a new merits join by any Justice.
+
+## Clause-by-clause reconciliation
+
+| Component | Initial commitment | Historical/source check and reconciled conclusion |
+|---|---|---|
+| A. Counterclaim leave | All eight support formal leave | Retained. The pleading step completes the existing original action; it does not reopen the already decided title merits. |
+| B. Fixed offshore line | All eight support the original schedule and qualified reciprocal rights | Retained. The continuous line runs from Point Hope to the international boundary; NAD 83/WGS 84 controls, NAD 27 is a conversion aid. The line is fixed under ?1301(b), subject to the actual statutory and Paragraph C qualifications. |
+| C. Revenue and leases | All eight support the three separate categories and preserved rights | Retained. Section 7 agreements govern their leases and escrow; existing intersected nonagreement leases remain with the original lessor; intersected agreement leases remain governed by their agreements. Each applicable termination and pre-entry-expiration rule remains operative. The 180-day period begins at decree entry. |
+| D. Petroleum Reserve coast | All eight support implementation; Scalia/Thomas preserve title disagreement | Retained. Highest highwater, the named small-lagoon/estuary closures, specified barrier features and Plover Islands identify the coast from the western Colville bank to Icy Cape. No new numerical instrument-identity holding follows. |
+| E. Refuge coast | Same confined implementation posture | Retained. Extreme low water, the described lagoon closures and offshore features define the coast from the international boundary near Monument 1 to Brownlow Point. The descriptive 1960 reference does not replace the controlling 1957 segregation premise. |
+| F. Future reservation-coast changes | All eight support ambulatory reservation boundaries and optional resolution routes | Retained. This differs from B's fixed offshore line. Negotiation, alternative resolution and retained jurisdiction are available; no mandatory sequence or invented present dispute is imposed. |
+| G. Finality and jurisdiction | All eight support final decree with implementation jurisdiction retained | Retained. Supplementation and enforcement do not convert settled title into an open merits question. |
+
+The full historical decree confirms these operative distinctions. The memorandum's agreed westward extension and unexcepted Harrison Bay/Arco references support settlement conformity; they are not newly adjudicated historic-title findings. No coordinate change, fresh survey, accounting award or new lease obligation is justified by the comparison.
+
+## Justice-specific initial-to-reconciled conclusions
+
+All eight retain their formal entry commitments. The historical decree contains no Justice-specific vote evidence contradicting those independently supported commitments; each rests on the actual prior public position and present procedural question.
+
+| Justice | Own prior basis and continuing boundary | Reconciliation and writing willingness |
+|---|---|---|
+| Stevens | Complete 1997 join in baseline, Dinkum, separate inclusion/retention requirements and direction to prepare a decree | Entry follows the existing judgment and agreed continuous-line implementation. Agreement does not authorize a new federal presumption, parcel exception or money award. No separate writing required. |
+| O'Connor | Her 1997 opinion distinguishes title premises, geographic definitions and implementing relief | Enter the conforming terms and original schedule, preserving distinct highest-highwater/extreme-low-water rules and 1957 legal effect. No new survey or retroactive 1960 title theory. No signed new merits explanation required. |
+| Scalia | Joined Thomas's 1997 objections to Petroleum express retention and the legal effect of the pending Refuge application; joined baseline and Dinkum | Support implementation of the settled judgment and present joint proposal without adopting the disputed title reasoning or earlier geographic determination. Prior dissent is not withdrawn; no new dissent is necessary on this implementation record. |
+| Kennedy | Complete 1997 join in the demanding title-retention requirements and remedy | Qualified reciprocal protection implements those rights. Refuse an unqualified grant, new lessee obligation or elimination of future implementation jurisdiction. No separate writing required. |
+| Souter | Complete 1997 join, including legally effective prestatehood segregation and separate inclusion/retention analysis | Entry relies on the settled legal premises, not a new purpose-based title shortcut or the later descriptive order alone. Joint consent supports conformity rather than replacing statutory authority. No separate writing required. |
+| Thomas | His own 1997 separate writing preserves express-retention and pending-application objections and nonassent to the geographic determination, while accepting the decree mechanism conditionally | Accept the present implementing step under the Court's now-settled judgment without a new merits assent. A current proposition expanding ?11(b) or treating all pending applications as refuges would exceed his join. No new published dissent required merely to repeat the preserved position. |
+| Ginsburg | Complete 1997 join in statutory premises and implementation | Entry is compatible because C preserves the separate lease classes, pre-entry distributions, and lessee/third-party/agreement rights. No quantified statutory award or assumed accounting dispute is adopted. No separate writing required. |
+| Breyer | Complete 1997 join in the resolved rights and decree direction | Fixed offshore coordinates and ambulatory reservation coastlines do different work; F?G permit practical later resolution. No mandatory new survey, hearing or dispute procedure is needed. No separate writing required. |
+
+For Scalia and Thomas, the competing path would be renewed partial opposition because B, D and E make the disputed title outcome enforceable. Their prior reasons remain substantive and cannot be erased by the joint motion. The present question, however, is whether the parties' proposal implements a final ruling, not whether those exceptions should again be sustained. Their previously accepted decree mechanism, the absence of a substantive conformity defect and the joint implementation posture support entry without changed title views. This is a case-specific procedural conclusion, not a rule that dissenters always join subsequent decrees or that historical nonnotation proves their vote.
+
+For the other six Associates, the strongest objection is that consent cannot cure a decree inconsistent with the earlier judgment, statutory exceptions or actual geography. No such substantive defect appears in the authorized terms. Incorporating the submitted authoritative schedule preserves the parties' agreed line without claiming an independent judicial survey. A concrete coordinate or title defect, if later identified, would require correction of the affected stage; hypothetical uncertainty does not supply an invented present objection.
+
+## Executive-order citation limit
+
+The prior public Source Notes use 3797-A. Image-verified proposed Paragraph D uses 3739-A; the historical decree also prints 3739-A. The actual joint filing is internally inconsistent: its table of authorities lists 3797-A, while the memorandum's Paragraph D discussion and proposed Paragraph D use 3739-A. This confirms the existence of a citation discrepancy, not which number correctly identifies the original 1923 instrument.
+
+No source is silently repaired, no prior adjudication is corrected, and no new instrument-number holding is adopted. The named Petroleum Reserve estate, legally controlling prior judgment and complete geographic description are the operative referents. The discrepancy supplies no competing estate or demonstrated boundary ambiguity. Any later citation correction would require the original instrument or independent authoritative verification and a separate determination whether the underlying identity remains unchanged. Nothing in this handoff purports to make that correction.
+
+## Public action and remaining limits
+
+Assembly may state the Court's decree and any actually published notation. It must not publish an inferred 9?0 tally, named supporting roster, private reservations or a new substantive merits coalition from this internal eight-Associate agreement. The prior separate writing remains in internal continuity without inventing a current published separate writing.
+
+The seaward rights retain ?1337(g) and Paragraph C; shoreward rights retain the two reservations, ?1313 and Paragraph C. Section 1337(g) revenue sharing is not seaward title or a universal 27-percent award. Preserve its Alaska partial-tract, disputed-escrow, interest and payment qualifications as supplied, without deciding a parcel or calculating an amount. Section 1313's actual federal, Indian and navigational-servitude exceptions remain applicable without a new parcel-specific finding.
+
+The decree-entry clock, original-lessor treatment, agreement treatment, expiration/relinquishment/termination transitions, pre-entry distributions and C(2) protections must appear at their actual scopes. The filing itself starts no deadline. The result is an entered decree with retained jurisdiction, not appellate affirmance or remand. No material Historical departure line is warranted: no current historical individual lineup was disclosed, and the confined procedural action matches the verified comparator. There is no unresolved substantive blocker to assembly at this scope.

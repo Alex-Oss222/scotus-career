@@ -1,0 +1,141 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+MITCHELL V. HELMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+MITCHELL V. HELMS (98-1648) 
+151 F.3d 347, reversed.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ O’Connor ]Dissent
+ [ Souter ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+MITCHELL et al. v. HELMS et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+ 
+No. 98—1648.  Argued December 1, 1999–Decided June 28, 2000
+ 
+
+
+
+
+
+Chapter 2 of the Education Consolidation and Improvement Act of 1981 channels federal funds via state educational agencies (SEA’s) to local educational agencies (LEA’s), which in turn lend educational materials and equipment, such as library and media materials and computer software and hardware, to public and private elementary and secondary schools to implement “secular, neutral, and nonideological” programs.  The enrollment of each participating school determines the amount of Chapter 2 aid that it receives.  In an average year, about 30% of Chapter 2 funds spent in Jefferson Parish, Louisiana, are allocated for private schools, most of which are Catholic or otherwise religiously affiliated.  Respondents filed suit alleging, among other things, that Chapter 2, as applied in the parish, violated the First Amendment’s Establishment Clause.  Agreeing, the Chief Judge of the District Court held, under Lemon v. Kurtzman, 403 U.S. 602, 612—613, that Chapter 2 had the primary effect of advancing religion because the materials and equipment loaned to the Catholic schools were direct aid and the schools were pervasively sectarian.  He relied primarily on Meek v. Pittenger, 421 U.S. 349, and Wolman v. Walter, 433 U.S. 229, in which programs providing many of the same sorts of materials and equipment as does Chapter 2 were struck down, even though programs providing for the loan of public school textbooks to religious schools were upheld.  After the judge issued an order permanently excluding pervasively sectarian schools in the parish from receiving any Chapter 2 materials or equipment, he retired.  Another judge then reversed that order, upholding Chapter 2 under, inter alia, Zobrest v. Catalina Foothills School Dist., 509 U.S. 1, in which a public school district was allowed to provide a sign-language interpreter to a deaf student at a Catholic high school as part of a federal program for the disabled.  While respondents’ appeal was pending, this Court decided Agostini v. Felton, 521 U.S. 203, approving a program under Title I of the Elementary and Secondary Education Act of 1965 that provided public employees to teach remedial classes at religious and other private schools.  Concluding that Agostini had neither directly overruled Meek and Wolman nor rejected their distinction between textbooks and other in-kind aid, the Fifth Circuit relied on those two cases to invalidate Chapter 2.
+
+
+Held:  The judgment is reversed.
+
+
+151 F.3d 347, reversed.
+
+
+    Justice Thomas, joined by The Chief Justice, Justice Scalia, and Justice Kennedy, concluded that Chapter 2, as applied in Jefferson Parish, is not a law respecting an establishment of religion simply because many of the private schools receiving Chapter 2 aid in the parish are religiously affiliated.  Pp. 7—38.
+
+
+      (a)  In modifying the Lemon test–which asked whether a statute (1) has a secular purpose, (2) has a primary effect of advancing or inhibiting religion, or (3) creates an excessive entanglement between government and religion, see 403 U.S., at 612—613–Agostini examined only the first and second of those factors, see 521 U.S., at 222—223, recasting the entanglement inquiry as simply one criterion relevant to determining a statute’s effect, id., at 232—233.  The Court also acknowledged that its cases had pared somewhat the factors that could justify a finding of excessive entanglement.  Id., at 233—234.  It then set out three primary criteria for determining a statute’s effect: Government aid has the effect of advancing religion if it (1) results in governmental indoctrination, (2) defines its recipients by reference to religion, or (3) creates an excessive entanglement.  Id., at 233—234.  In this case, the inquiry under Agostini’s purpose and effect test is a narrow one.  Because the District Court’s holding that Chapter 2 has a secular purpose is not challenged, only Chapter 2’s effect need be considered.  Further, in determining that effect, only the first two Agostini criteria need be considered, because the District Court’s holding that Chapter 2 does not create an excessive entanglement is not challenged.  Pp. 7—9.
+
+
+      (b)  Whether governmental aid to religious schools results in religious indoctrination ultimately depends on whether any indoctrination that occurs could reasonably be attributed to governmental action.  See, e.g., Agostini, 521 U.S., at 226.  Moreover, the answer to the indoctrination question will resolve the question whether an educational aid program “subsidizes” religion.  See id., at 230—231.  In distinguishing between indoctrination that is attributable to the State and indoctrination that is not, the Court has consistently turned to the neutrality principle, upholding aid that is offered to a broad range of groups or persons without regard to their religion.  As a way of assuring neutrality, the Court has repeatedly considered whether any governmental aid to a religious institution results from the genuinely independent and private choices of individual parents, e.g., id., at 226.  Agostini’s second primary criterion–whether an aid program defines its recipients by reference to religion, 521 U.S., at 234–is closely related to the first.  It looks to the same facts as the neutrality inquiry, see id., at 225—226, but uses those facts to answer a somewhat different question–whether the criteria for allocating the aid create a financial incentive to undertake religious indoctrination, id., at 231.  Such an incentive is not present where the aid is allocated on the basis of neutral, secular criteria that neither favor nor disfavor religion, and is made available to both religious and secular beneficiaries on a nondiscriminatory basis.  Ibid.  Pp. 9—15.
+
+
+      (c)  Two rules offered by respondents to govern the determination whether Chapter 2 has the effect of advancing religion are rejected.  Pp. 15—27.
+
+
+          (i)  Respondents’ chief argument–that direct, nonincidental aid to religious schools is always impermissible–is inconsistent with this Court’s more recent cases.  The purpose of the direct/indirect distinction is to present “subsidization” of religion, and the Court’s more recent cases address this concern through the principle of private choice, as incorporated in the first Agostini criterion (i.e., whether any indoctrination could be attributed to the government).  If aid to schools, even “direct aid,” is neutrally available and, before reaching or benefiting any religious school, first passes through the hands (literally or figuratively) of numerous private citizens who are free to direct the aid elsewhere, the government has not provided any “support of religion.”  Witters v. Washington Dept. of Servs. for Blind, 474 U.S. 481, 489.  Although the presence of private choice is easier to see when aid literally passes through individuals’ hands, there is no reason why the Establishment Clause requires such a form.  Indeed, Agostini expressly rejected respondents’ absolute line.  521 U.S., at 225.  To the extent respondents intend their direct/indirect distinction to require that any aid be literally placed in schoolchildren’s hands rather than given directly to their schools, Meek and Wolman, the cases on which they rely, demonstrate the irrelevance of such formalism.  Further, respondents’ formalistic line breaks down in the application to real-world programs.  Whether a program is labeled “direct” or “indirect” is a rather arbitrary choice that does not further the constitutional analysis.  See Allen, supra, at 243—245.  Although “special Establishment Clause dangers” may exist when money is given directly to religious schools, see, e.g., Rosenberger v. Rector and Visitors of Univ. of Va., 515 U.S. 819, 842, such direct payments are not at issue here.  Pp. 17—21.
+
+
+          (ii)  Respondents’ second argument–that provision to religious schools of aid that is divertible to religious use is always impermissible–is also inconsistent with the Court’s more recent cases, particularly Zobrest, supra, at 18—23, and Witters and is also unworkable.  Meek and Wolman, on which respondents appear to rely for their divertibility rule, offer little, if any, support for their rule.  The issue is not divertibility but whether the aid itself has an impermissible content.  Where the aid would be suitable for use in a public school, it is also suitable for use in any private school.  Similarly, the prohibition against the government providing impermissible content resolves the Establishment Clause concerns that exist if aid is actually diverted to religious uses.  See, e.g., Agostini, supra, at 224—226.  A concern for divertibility, as opposed to improper content, is also misplaced because it is boundless–enveloping all aid, no matter how trivial–and thus has only the most attenuated (if any) link to any realistic concern for preventing an establishment of religion.  Finally, any aid, with or without content, is “divertible” in the sense that it allows schools to “divert” resources.  Yet the Court has not accepted the recurrent argument that all aid is forbidden because aid to one aspect of an institution frees it to spend its other resources on religious ends.  E.g., Committee for Public Ed. and Religious Liberty v. Regan, 444 U.S. 646, 658.  Pp. 21—27.
+
+
+      (d)  Additional factors cited by the dissent–including the concern for political divisiveness that post-Aguilar cases have disregarded, see, e.g., Agostini, supra, at 233—234, are rejected.  In particular, whether a recipient school is pervasively sectarian, a factor that has been disregarded in recent cases, e.g., Witters, supra, is not relevant to the constitutionality of a school-aid program.   Pp. 27—31.  
+
+
+      (e)  Applying the two relevant Agostini criteria reveals that there is no basis for concluding that Jefferson Parish’s Chapter 2 program has the effect of advancing religion.  First, Chapter 2 does not define its recipients by reference to religion, since aid is allocated on the basis of neutral, secular criteria that neither favor nor disfavor religion, and is made available to both religious and secular beneficiaries on a nondiscriminatory basis.  521 U.S., at 231.  There is no improper incentive because, under the statute, aid is allocated based on school enrollment.  Second, Chapter 2 does not result in governmental indoctrination of religion.  It determines eligibility for aid neutrally, making a broad array of schools eligible without regard to their religious affiliations or lack thereof.  See id., at 225—226.  It also allocates aid based on the private choices of students and their parents as to which schools to attend.  See id., at 222.  Thus, it is not problematic that Chapter 2 could fairly be described as providing “direct” aid.  Finally, the Chapter 2 aid provided to religious schools does not have an impermissible content.  The statute explicitly requires that such aid be “secular, neutral, and nonideological,” and the record indicates that the Louisiana SEA and the Jefferson Parish LEA have faithfully enforced this requirement insofar as relevant to this case.  Although there is evidence that equipment has been, or at least easily could be, diverted for use in relgious classes, that evidence is not relevant to the constitutional analysis.  Scattered de minimis statutory violations of the restrictions on content, discovered and remedied by the relevant authorities themselves before this litigation began almost 15 years ago, should not be elevated to such a level as to convert an otherwise unobjectionable parishwide program into a law that has the effect of advancing religion.  Pp. 31—37.
+
+
+      (f)  To the extent that Meek and Wolman conflict with the foregoing analysis, they are overruled.  Pp. 37—38.
+
+
+      Justice O’Connor, joined by Justice Breyer, concluded that Agostini v. Felton, 521 U.S. 203, controls the constitutional inquiry presented here, and requires reversal of the Fifth Circuit’s judgment that the Chapter 2 program is unconstitutional as applied in Jefferson Parish.  To the extent Meek v. Pittenger, 421 U.S. 349, and Wolman v. Walter, 433 U.S. 229, are inconsistent with the Court’s judgment today, they should be overruled.  Pp. 1—33.  
+
+
+      (a)  The plurality announces a rule of unprecedented breadth for the evaluation of Establishment Clause challenges to government school-aid programs.  That rule is particularly troubling because, first, its treatment of neutrality comes close to assigning that factor singular importance in the future adjudication of Establishment Clause challenges to school-aid programs.  Although neutrality is important, see, e.g., Agostini, 521 U.S., at 228, 231—232, the Court has never held that a government-aid program passes constitutional muster solely because of the neutral criteria it employs as a basis for distributing aid.  Rather, neutrality has heretofore been only one of several factors the Court considers.  See, e.g., id., at 226—228.  Second, the plurality’s approval of actual diversion of government aid to religious indoctrination is in tension with this Court’s precedents.  See, e.g., id., at 226—227.  Actual diversion is constitutionally impermissible.  E.g., Bowen v. Kendrick, 487 U.S. 589, 621—622, 624.  The Court should not treat a per-capita-aid program like Chapter 2 the same as the true private choice programs approved in Witters v. Washington Dept. of Servs. for Blind, 474 U.S. 481, and Zobrest v. Catalina Foothills School Dist., 509 U.S. 1.  Because Agostini represents the Court’s most recent attempt to devise a general framework for approaching questions concerning neutral school-aid programs, and involved an Establishment Clause challenge to a school-aid program closely related to the instant program, the Agostini criteria should control here.  Pp. 2—9.
+
+
+      (b)  Under Agostini, the Court asks whether the government acted with the purpose of advancing or inhibiting religion and whether the aid has the “effect” of doing so.  521 U.S., at 222—223.  The specific criteria used to determine an impermissible effect have changed in recent cases, see id., at 223, which disclose three primary criteria to guide the determination: (1) whether the aid results in governmental indoctrination, (2) whether the program defines its recipients by reference to religion, and (3) whether the aid creates an excessive entanglement between government and religion, id., at 234.  Finally, the same criteria can be reviewed to determine whether a program constitutes endorsement of religion.  Id., at 235.  Respondents neither question the Chapter 2 program’s secular purpose nor contend that it creates an excessive entanglement.  Accordingly, the Court need ask only whether Chapter 2, as applied in Jefferson Parish, results in governmental indoctrination or defines its recipients by reference to religion.  It is clear that Chapter 2 does not so define aid recipients.  Rather, it uses wholly neutral and secular criteria to allocate aid to students enrolled in religious and secular schools alike.  As to the indoctrination inquiry, the Chapter 2 program bears the same hallmarks of the program upheld in Agostini: Aid is allocated on the basis of neutral, secular criteria; it is supplementary to, and does not supplant, non-federal funds; no Chapter 2 funds reach the coffers of religious schools; the aid is secular; evidence of actual diversion is de minimis; and the program includes adequate safeguards.  Regardless of whether these factors are constitutional requirements, they are sufficient to find that the program at issue does not have the impermissible effect of advancing religion.  For the same reasons, the Chapter 2 program cannot reasonably be viewed as an endorsement of religion.  Pp. 9—14.
+
+
+      (c)  Respondents’ contentions that Agostini is distinguishable and that Meek and Wolman are controlling here, must be rejected.  Meek and Wolman created an inexplicable rift within the Court’s Establishment Clause jurisprudence.  Those decisions adhered to the prior holding in Board of Ed. of Central School Dist. No. 1 v. Allen, 392 U.S. 236, that statutes authorizing the lending of textbooks to religious school students did not violate the Establishment Clause, see, e.g., Meek, 421 U.S., at 359—362 (plurality opinion), but invalidated the lending of instructional materials and equipment to religious schools, e.g., id., at 362—366, on the ground that any assistance in support of the pervasively sectarian schools’ educational missions would inevitably have the impermissible effect of advancing religion, see, e.g., id., at 365—366.  The irrationality of this distinction is patent.  See Wallace v. Jaffree, 472 U.S. 38, 110.  Respondents’ assertion that materials and equipment, unlike textbooks, are reasonably divertible to religious uses is rejected because it does not provide a logical distinction: An educator can use virtually any instructional tool, even a textbook, to teach a religious message.  Pp. 14—22.
+
+
+      (d)  The Court should follow the rule applied in the context of textbook lending programs: To establish a First Amendment violation, plaintiffs must prove that the aid actually is, or has been, used for religious purposes.  See, e.g., Allen, supra, at 248.  Agostini and the cases on which it relied have undermined the assumptions underlying Meek and Wolman.  Agostini’s definitive rejection of the presumption that public-school employees teaching in religious schools would inevitably inculcate religion also stood for–or at least strongly pointed to–the broader proposition that such presumptions of religious indoctrination are normally inappropriate when evaluating neutral school-aid programs under the Establishment Clause.  Respondents’ contentions that Agostini should be limited to its facts, and that a presumption of religious inculcation for instructional materials and equipment should be retained, must be rejected.  The assumption that religious-school instructors can abide by restrictions on the use of government-provided textbooks, see Meek, supra, at 384, should extend to instructional materials and equipment.  School Dist. of Grand Rapids v. Ball, 473 U.S. 373, 399—400 (O’Connor, J., concurring in judgment in part and dissenting in part), distinguished.  Pp. 22—25.
+
+
+      (e)  Respondents’ contention that the actual administration of Chapter 2 in Jefferson Parish violated the Establishment Clause is rejected.  The limited evidence amassed by respondents during 4 years of discovery (which began approximately 15 years ago) is at best de minimis and therefore insufficient to affect the constitutional inquiry.  Their assertion that the government must have a failsafe mechanism capable of detecting any instance of diversion was rejected in Agostini, supra, at 234.  Because the presumption adopted in Meek and Wolman respecting the use of instructional materials and equipment by religious-school teachers should be abandoned, there is no constitutional need for pervasive monitoring under the Chapter 2 program.  Moreover, a review of the specific safeguards employed under Chapter 2 at the federal, state, and local levels demonstrates that they are constitutionally sufficient.  Respondents’ evidence does not demonstrate any actual diversion, but, at most, proves the possibility of diversion in two isolated instances.  The evidence of violations of Chapter 2’s supplantation and secular-content restrictions is equally insignificant and, therefore, should be treated the same.  This Court has never declared an entire aid program unconstitutional on Establishment Clause grounds solely because of violations on the miniscule scale of those at issue here.  The presence of so few examples tends to show not that the “no-diversion” rules have failed, but that they have worked.  Pp. 26—33.
+
+
+    Thomas, J., announced the judgment of the Court and delivered an opinion, in which Rehnquist, C. J., and Scalia and Kennedy, JJ., joined.  O’Connor, J., filed an opinion concurring in the judgment, in which Breyer, J., joined.  Souter, J., filed a dissenting opinion, in which Stevens and Ginsburg, JJ., joined.
+
+ 
+
+
+
+

@@ -1,0 +1,21 @@
+{
+  "official_reporter_pages": 161,
+  "joint_motion_pages": 164,
+  "exhibit_full_text_characters": 170786,
+  "coordinate_numeric_tokens": 9763,
+  "arc_commands": 814,
+  "straight_line_commands": 807,
+  "zones": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "end_map_visually_reviewed": true,
+  "legal_scope": "Read complete motion and operative A-G prose; scanned entire coordinate schedule for commands, datum/zone transitions and noncoordinate qualifications. Exact source schedule preserved without retyping; no independent resurvey or coordinate recalculation claimed.",
+  "source_hashes": {
+    "530us1021.pdf": "d536019ae2963c748e6d9933edfbecbe02a7ad2cb85086a7d2f0d66bbe1f5a75",
+    "joint-motion-2000-06-07.pdf": "1d6a3b43899fe2abac2744f23987ab6a17469e9f4b412cd8bd9c5ccd937633a0"
+  }
+}

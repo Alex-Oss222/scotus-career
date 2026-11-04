@@ -1,0 +1,778 @@
+{
+  "before_date": "2000-06-28",
+  "before_case": "Boy Scouts of America v. Dale",
+  "counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 10,
+    "Kennedy": 11,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 11,
+    "Breyer": 10
+  },
+  "total": 94,
+  "last_event": {
+    "date": "2000-06-26",
+    "case": "Mobil Oil Exploration & Producing Southeast, Inc. v. United States / Marathon Oil Co. v. United States",
+    "record": "mobil-oil-marathon-v-united-states_merits_2000-06-26.md",
+    "authors": [
+      "Ginsburg"
+    ]
+  },
+  "counted_events": [
+    {
+      "date": "1999-12-06",
+      "case": "Paul P. v. Verniero",
+      "record": "paul-p-v-verniero_merits_1999-12-06.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-12-07",
+      "case": "Drye v. United States",
+      "record": "drye-v-united-states_merits_1999-12-07.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-12-07",
+      "case": "Los Angeles Police Department v. United Reporting Publishing Corp",
+      "record": "los-angeles-police-department-v-united-reporting_merits_1999-12-07.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1999-12-13",
+      "case": "Rayphand v. Sablan / Torres v. Sablan",
+      "record": "rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-01-10",
+      "case": "Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc",
+      "record": "steamfitters-v-philip-morris_merits_2000-01-10.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-01-11",
+      "case": "Kimel v. Florida Board of Regents / United States v. Florida Board of Regents",
+      "record": "kimel-v-florida-board-of-regents_merits_2000-01-11.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-01-11",
+      "case": "New York v. Hill",
+      "record": "new-york-v-hill_merits_2000-01-11.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc",
+      "record": "friends-of-the-earth-v-laidlaw_merits_2000-01-12.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Illinois v. Wardlow",
+      "record": "illinois-v-wardlow_merits_2000-01-12.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Martinez v. Court of Appeal of California, Fourth Appellate District",
+      "record": "martinez-v-court-of-appeal_merits_2000-01-12.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Reno v. Condon",
+      "record": "reno-v-condon_merits_2000-01-12.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-01-18",
+      "case": "Fraternal Order of Police v. United States",
+      "record": "fraternal-order-of-police-v-united-states_merits_2000-01-18.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-01-19",
+      "case": "Gutierrez v. Ada",
+      "record": "gutierrez-v-ada_merits_2000-01-19.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-01-19",
+      "case": "Smith v. Robbins",
+      "record": "smith-v-robbins_merits_2000-01-19.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-01-19",
+      "case": "United States v. Martinez-Salazar",
+      "record": "united-states-v-martinez-salazar_merits_2000-01-19.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-01-19",
+      "case": "Weeks v. Angelone",
+      "record": "weeks-v-angelone_merits_2000-01-19.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-01-24",
+      "case": "Nixon v. Shrink Missouri Government PAC",
+      "record": "nixon-v-shrink-missouri-government-pac_merits_2000-01-24.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-01-24",
+      "case": "Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board",
+      "record": "reno-price-v-bossier-parish-school-board_merits_2000-01-24.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-02-07",
+      "case": "U.S. West, Inc. v. Federal Communications Commission",
+      "record": "us-west-v-fcc_merits_2000-02-07.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-02-14",
+      "case": "Richards v. United States",
+      "record": "richards-v-united-states_merits_2000-02-14.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-02-22",
+      "case": "Baral v. United States",
+      "record": "baral-v-united-states_merits_2000-02-22.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-02-22",
+      "case": "Hunt-Wesson, Inc. v. Franchise Tax Board of California",
+      "record": "hunt-wesson-v-franchise-tax-board_merits_2000-02-22.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-02-22",
+      "case": "Weisgram v. Marley Co",
+      "record": "weisgram-v-marley_merits_2000-02-22.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Rice v. Cayetano",
+      "record": "rice-v-cayetano_merits_2000-02-23.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Roe v. Flores-Ortega",
+      "record": "roe-v-flores-ortega_merits_2000-02-23.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Rotella v. Wood",
+      "record": "rotella-v-wood_merits_2000-02-23.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Village of Willowbrook v. Olech",
+      "record": "village-of-willowbrook-v-olech_merits_2000-02-23.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-02-28",
+      "case": "Strout v. Albanese",
+      "record": "strout-v-albanese_merits_2000-02-28.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-02-29",
+      "case": "Shalala v. Illinois Council on Long Term Care, Inc",
+      "record": "shalala-v-illinois-council_merits_2000-02-29.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-03-01",
+      "case": "United States v. Johnson",
+      "record": "united-states-v-johnson_merits_2000-03-01.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-03-06",
+      "case": "Adams v. Commissioner of Internal Revenue",
+      "record": "adams-v-commissioner_merits_2000-03-06.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-03-06",
+      "case": "Portuondo v. Agard",
+      "record": "portuondo-v-agard_merits_2000-03-06.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-03-06",
+      "case": "United States v. Locke / International Association of Independent Tanker Owners v. Locke",
+      "record": "united-states-v-locke-intertanko-v-locke_merits_2000-03-06.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-03-13",
+      "case": "Carter v. City of Philadelphia",
+      "record": "carter-v-city-of-philadelphia_merits_2000-03-13.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-03-21",
+      "case": "Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co",
+      "record": "cortez-byrd-chips-v-bill-harbert_merits_2000-03-21.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-03-21",
+      "case": "FDA v. Brown & Williamson Tobacco Corp",
+      "record": "fda-v-brown-and-williamson_merits_2000-03-21.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-03-22",
+      "case": "Board of Regents of the University of Wisconsin System v. Southworth",
+      "record": "board-of-regents-v-southworth_merits_2000-03-22.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-03-22",
+      "case": "Wal-Mart Stores, Inc. v. Samara Brothers, Inc",
+      "record": "wal-mart-v-samara-brothers_merits_2000-03-22.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-03-27",
+      "case": "Browne v. United States",
+      "record": "browne-v-united-states_merits_2000-03-27.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-03-28",
+      "case": "Florida v. J. L",
+      "record": "florida-v-j-l_merits_2000-03-28.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-03-28",
+      "case": "Garner v. Jones",
+      "record": "garner-v-jones_merits_2000-03-28.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-03-29",
+      "case": "City of Erie v. Pap's A.M",
+      "record": "city-of-erie-v-paps-am_merits_2000-03-29.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-04-03",
+      "case": "Powell v. Ridge",
+      "record": "powell-v-ridge_merits_2000-04-03.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-04-10",
+      "case": "Reform Party of Allegheny County v. Allegheny County Department of Elections",
+      "record": "reform-party-v-allegheny-county_merits_2000-04-10.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-04-17",
+      "case": "Bond v. United States",
+      "record": "bond-v-united-states_merits_2000-04-17.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-04-17",
+      "case": "Gillespie v. City of Indianapolis",
+      "record": "gillespie-v-city-of-indianapolis_merits_2000-04-17.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-04-17",
+      "case": "Norfolk Southern Railway Co. v. Shanklin",
+      "record": "norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-04-18",
+      "case": "Williams v. Taylor (Michael Wayne Williams)",
+      "record": "williams-v-taylor-michael-wayne_merits_2000-04-18.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-04-18",
+      "case": "Williams v. Taylor (Terry Williams)",
+      "record": "williams-v-taylor-terry-williams_merits_2000-04-18.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-04-24",
+      "case": "Doe v. Rosenberg",
+      "record": "doe-v-rosenberg_merits_2000-04-24.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-04-25",
+      "case": "Edwards v. Carpenter",
+      "record": "edwards-v-carpenter_merits_2000-04-25.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-04-25",
+      "case": "Nelson v. Adams USA, Inc",
+      "record": "nelson-v-adams-usa-inc_merits_2000-04-25.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-04-26",
+      "case": "Beck v. Prupis",
+      "record": "beck-v-prupis_merits_2000-04-26.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-04-26",
+      "case": "Slack v. McDaniel",
+      "record": "slack-v-mcdaniel_merits_2000-04-26.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-05-01",
+      "case": "Carmell v. Texas",
+      "record": "carmell-v-texas_merits_2000-05-01.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-05-01",
+      "case": "Christensen v. Harris County",
+      "record": "christensen-v-harris-county_merits_2000-05-01.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-05-01",
+      "case": "North Carolina Right to Life, Inc. v. Bartlett",
+      "record": "north-carolina-right-to-life-inc-v-bartlett_merits_2000-05-01.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-05-08",
+      "case": "National Mining Association v. United States Department of the Interior",
+      "record": "national-mining-association-v-department-of-interior_merits_2000-05-08.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-05-09",
+      "case": "Saenz v. Heldenfels Brothers, Inc",
+      "record": "saenz-v-heldenfels-brothers-inc_merits_2000-05-09.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-05-15",
+      "case": "Fischer v. United States",
+      "record": "fischer-v-united-states_merits_2000-05-15.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-05-15",
+      "case": "Johnson v. United States",
+      "record": "johnson-v-united-states-99-5153_merits_2000-05-15.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-05-15",
+      "case": "Public Lands Council v. Babbitt",
+      "record": "public-lands-council-v-babbitt_merits_2000-05-15.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-05-15",
+      "case": "United States v. McIver",
+      "record": "united-states-v-mciver_merits_2000-05-15.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-05-15",
+      "case": "United States v. Morrison / Brzonkala v. Morrison",
+      "record": "united-states-v-morrison-brzonkala-v-morrison_merits_2000-05-15.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-05-22",
+      "case": "Geier v. American Honda Motor Co",
+      "record": "geier-v-american-honda-motor-co_merits_2000-05-22.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-05-22",
+      "case": "Jones v. United States",
+      "record": "jones-v-united-states_merits_2000-05-22.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-05-22",
+      "case": "Ohler v. United States",
+      "record": "ohler-v-united-states_merits_2000-05-22.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-05-22",
+      "case": "United States v. Barrett",
+      "record": "united-states-v-barrett_merits_2000-05-22.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-05-22",
+      "case": "United States v. Playboy Entertainment Group, Inc",
+      "record": "united-states-v-playboy-entertainment-group-inc_merits_2000-05-22.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-05-22",
+      "case": "Vermont Agency of Natural Resources v. United States ex rel. Stevens",
+      "record": "vermont-agency-v-united-states-ex-rel-stevens_merits_2000-05-22.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-05-30",
+      "case": "Eisenberg v. Montgomery County Public Schools",
+      "record": "eisenberg-v-montgomery-county-public-schools_merits_2000-05-30.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-05-30",
+      "case": "Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A",
+      "record": "hartford-underwriters-v-union-planters-bank_merits_2000-05-30.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-05-30",
+      "case": "Raleigh v. Illinois Department of Revenue",
+      "record": "raleigh-v-illinois-department-of-revenue_merits_2000-05-30.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-06-05",
+      "case": "Castillo v. United States",
+      "record": "castillo-v-united-states_merits_2000-06-05.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-06-05",
+      "case": "Mixon v. Ohio",
+      "record": "mixon-v-ohio_merits_2000-06-05.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-06-05",
+      "case": "Sims v. Apfel",
+      "record": "sims-v-apfel_merits_2000-06-05.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-06-05",
+      "case": "Troxel v. Granville",
+      "record": "troxel-v-granville_merits_2000-06-05.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-06-05",
+      "case": "United States v. Hubbell",
+      "record": "united-states-v-hubbell_merits_2000-06-05.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Bradley v. Arkansas Department of Education",
+      "record": "bradley-v-arkansas-department-of-education_merits_2000-06-12.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Carter v. United States",
+      "record": "carter-v-united-states_merits_2000-06-12.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Harris Trust and Savings Bank v. Salomon Smith Barney Inc",
+      "record": "harris-trust-and-savings-bank-v-salomon-smith-barney_merits_2000-06-12.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Pegram v. Herdrich",
+      "record": "pegram-v-herdrich_merits_2000-06-12.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Ramdass v. Angelone",
+      "record": "ramdass-v-angelone_merits_2000-06-12.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Reeves v. Sanderson Plumbing Products, Inc",
+      "record": "reeves-v-sanderson-plumbing-products-inc_merits_2000-06-12.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Arizona v. California",
+      "record": "arizona-v-california_original-merits_2000-06-19.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Crosby v. National Foreign Trade Council",
+      "record": "crosby-v-national-foreign-trade-council_merits_2000-06-19.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Hawkins v. Freeman",
+      "record": "hawkins-v-freeman_merits_2000-06-19.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Miller v. French / United States v. French",
+      "record": "miller-v-french-united-states-v-french_merits_2000-06-19.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Santa Fe Independent School District v. Doe",
+      "record": "santa-fe-independent-school-district-v-doe_merits_2000-06-19.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-06-26",
+      "case": "Apprendi v. New Jersey",
+      "record": "apprendi-v-new-jersey_merits_2000-06-26.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-06-26",
+      "case": "California Democratic Party v. Jones",
+      "record": "california-democratic-party-v-jones_merits_2000-06-26.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-06-26",
+      "case": "Dickerson v. United States",
+      "record": "dickerson-v-united-states_merits_2000-06-26.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-06-26",
+      "case": "Henerey v. City of St. Charles, School District",
+      "record": "henerey-v-city-of-st-charles-school-district_merits_2000-06-26.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-06-26",
+      "case": "Mobil Oil Exploration & Producing Southeast, Inc. v. United States / Marathon Oil Co. v. United States",
+      "record": "mobil-oil-marathon-v-united-states_merits_2000-06-26.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 233,
+    "params": {
+      "query": "collection:us-supreme-court AND title:(United States Alaska)",
+      "qin": "collection:us-supreme-court AND title:(United States Alaska)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 19,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386004_0161",
+        "title": "United States Ex Rel. Alaska Smokeless Coal Co. v. Lane, 250 U.S. 549 (1919) (No. 36)"
+      },
+      {
+        "identifier": "micro_IA40386003_0643",
+        "title": "Alaska Pacific Fisheries v. United States, 248 U.S. 78 (1918) (No. 212)"
+      },
+      {
+        "identifier": "micro_IA40386414_0462",
+        "title": "United States v. Alaska, 422 U.S. 184 (1975) (No. 73-1888)"
+      },
+      {
+        "identifier": "micro_IA40386419_0435",
+        "title": "Alaska Steamship Co. v. United States, 358 U.S. 834 (1958) (No. 256)"
+      },
+      {
+        "identifier": "micro_IA40386005_1404",
+        "title": "North Star Alaska Housing Corp. v. United States, 512 U.S. 1220 (1994) (No. 93-1625)"
+      },
+      {
+        "identifier": "micro_IA40385018_0459",
+        "title": "Alaska v. United States, 474 U.S. 968 (1985) (No. 85-78)"
+      },
+      {
+        "identifier": "micro_IA40386008_0410",
+        "title": "Alaska Steamship Co. v. United States, 290 U.S. 256 (1933) (No. 56)"
+      },
+      {
+        "identifier": "micro_IA40385002_1627",
+        "title": "Alaska Pacific Inc. v. United States, 493 U.S. 846 (1989) (No. 89-4)"
+      },
+      {
+        "identifier": "micro_IA40385603_0846",
+        "title": "Wien Alaska Airlines, Inc. v. United States, 389 U.S. 940 (1967) (No. 496)"
+      },
+      {
+        "identifier": "micro_IA40386017_2313",
+        "title": "North Star Alaska Housing Corp. v. United States, 562 U.S. 1108 (2010) (No. 10-122)"
+      },
+      {
+        "identifier": "micro_IA40386004_0301",
+        "title": "United States v. Alaska SS Co., 253 U.S. 113 (1920) (No. 541)"
+      },
+      {
+        "identifier": "micro_IA40385013_0163",
+        "title": "United States v. Alaska, 503 U.S. 569 (1992) (No. 118)"
+      },
+      {
+        "identifier": "micro_IA40385016_0128",
+        "title": "Alaska v. United States, 545 U.S. 75 (2005) (No. 128)"
+      },
+      {
+        "identifier": "micro_IA40386019_0916",
+        "title": "Alaska v. United States, 510 U.S. 818 (1993) (No. 92-1885)"
+      },
+      {
+        "identifier": "micro_IA40386013_1676",
+        "title": "Alaska v. United States, 522 U.S. 1108 (1998) (No. 97-750)"
+      },
+      {
+        "identifier": "micro_IA40385003_0111",
+        "title": "United States v. Alaska, 422 U.S. 184 (1975) (No. 73-1888)"
+      },
+      {
+        "identifier": "micro_IA40386005_1347",
+        "title": "Alaska v. United States, 512 U.S. 1219 (1994) (No. 93-1564)"
+      },
+      {
+        "identifier": "micro_IA40386005_1415",
+        "title": "Alaska v. United States, 512 U.S. 1219 (1994) (No. 93-1639)"
+      },
+      {
+        "identifier": "micro_IA40385605_0409",
+        "title": "Alaska v. United States, 400 U.S. 967 (1970) (No. 286)"
+      }
+    ]
+  }
+}
