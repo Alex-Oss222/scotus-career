@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Antitrust
 
@@ -398,3 +398,25 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 - Brunswick Corp. v. Pueblo Bowl-O-Mat and Atlantic Richfield Co. v. USA Petroleum Co.: preserve the independent requirement of antitrust injury; competitor loss alone is insufficient.
 - Eastman Kodak Co. v. Image Technical Services: preserves inquiry into actual competitive conditions without finding market power or injury here.
 - Spectrum Sports v. McQuillan: preserves offense-specific elements; attempted monopolization is not merged with conspiracy to monopolize.
+
+### Directness of healthcare expenditure claims
+
+#### Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.
+
+**Docket or dockets:** Third Circuit No. 98-1426; 171 F.3d 912 identifies the judgment below; no Supreme Court docket supplied.
+**Decided:** January 10, 2000.
+
+##### Whether fund medical payments are sufficiently direct injury from suppression of safer tobacco products
+
+**Holding:** Under AGC's antitrust inquiry, these healthcare expenditures following participants' purchases, smoking and illness are not sufficiently direct injuries from the alleged suppression of safer tobacco products.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Nonconsumer/noncompetitor status informs the causal relation but is not an exclusive test. The sufficient directness defect leaves other antitrust-injury boundaries undecided.
+
+**Operative remedy or transition:** Affirm dismissal of the pleaded Clayton Act section 4 claim. No state claim or hypothetical amendment is decided.
+
+**Treatment of earlier authority:** Associated General Contractors supplies the distinct antitrust remoteness inquiry. McCready is distinguished because its reimbursement denial implemented the scheme; these payments arise through illness. Antitrust injury is not imported into RICO.
+
+
+For the RICO and fund-property holdings in Steamfitters, January 10, 2000, Third Circuit No. 98-1426, see Business and Commercial Law — Civil RICO directness and property injury.

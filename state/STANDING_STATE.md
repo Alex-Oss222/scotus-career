@@ -1,33 +1,33 @@
 # SUPREME COURT OF THE UNITED STATES: STANDING STATE
 
-**Opening October Term:** 1999  
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
-**State posture:** Opening of October Term 1999, before its first supplied event.
+**Opening October Term:** 2000  
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
+**State posture:** Opening of October Term 2000, before its first supplied event.
 **Controlled Justice:** Alex-Lamar Stone-Zsela, Chief Justice, Chief Justice line.
 
 ## 1. Current Court
 
-All nine seats are occupied at the opening of OT1999. The Supreme Court Composition register controls the roster, service dates and seniority. All nine Justices are seated before OT1999 opens, subject to established case-specific nonparticipation; no vacancy or new oath-date participation condition applies.
+All nine seats are occupied at the opening of OT2000. The Supreme Court Composition register controls the roster, service dates and seniority. All nine Justices are seated before OT2000 opens, subject to established case-specific nonparticipation; no vacancy or new oath-date participation condition applies.
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
 |---:|---|---|---|---|---|---|
 | 1 | Alex-Lamar Stone-Zsela | Chief Justice | Chief Justice line | October 7, 1991 | October 7, 1991 | Composition register; opening substitution effective October 7, 1991. |
-| 2 | John Paul Stevens | Senior Associate Justice | Stevens line | December 19, 1975 | December 19, 1975 | Composition register; seated at the OT1999 opening. |
-| 3 | Sandra Day O'Connor | Associate Justice | O'Connor line | September 25, 1981 | September 25, 1981 | Composition register; seated at the OT1999 opening. |
-| 4 | Antonin Scalia | Associate Justice | Scalia line | September 26, 1986 | September 26, 1986 | Composition register; seated at the OT1999 opening. |
-| 5 | Anthony M. Kennedy | Associate Justice | Kennedy line | February 18, 1988 | February 18, 1988 | Composition register; seated at the OT1999 opening. |
-| 6 | David H. Souter | Associate Justice | Souter line | October 9, 1990 | October 9, 1990 | Composition register; seated at the OT1999 opening. |
-| 7 | Clarence Thomas | Associate Justice | Marshall line | October 23, 1991 | October 23, 1991 | Composition register; seated at the OT1999 opening. |
-| 8 | Ruth Bader Ginsburg | Associate Justice | White line | August 10, 1993 | August 10, 1993 | Composition register; seated at the OT1999 opening. |
+| 2 | John Paul Stevens | Senior Associate Justice | Stevens line | December 19, 1975 | December 19, 1975 | Composition register; seated at the OT2000 opening. |
+| 3 | Sandra Day O'Connor | Associate Justice | O'Connor line | September 25, 1981 | September 25, 1981 | Composition register; seated at the OT2000 opening. |
+| 4 | Antonin Scalia | Associate Justice | Scalia line | September 26, 1986 | September 26, 1986 | Composition register; seated at the OT2000 opening. |
+| 5 | Anthony M. Kennedy | Associate Justice | Kennedy line | February 18, 1988 | February 18, 1988 | Composition register; seated at the OT2000 opening. |
+| 6 | David H. Souter | Associate Justice | Souter line | October 9, 1990 | October 9, 1990 | Composition register; seated at the OT2000 opening. |
+| 7 | Clarence Thomas | Associate Justice | Marshall line | October 23, 1991 | October 23, 1991 | Composition register; seated at the OT2000 opening. |
+| 8 | Ruth Bader Ginsburg | Associate Justice | White line | August 10, 1993 | August 10, 1993 | Composition register; seated at the OT2000 opening. |
 | 9 | Stephen G. Breyer | Most-junior Associate Justice | Blackmun line | August 3, 1994 | August 3, 1994 | Composition register; took seat August 3, 1994. |
 
 **Opinion-assignment seniority:** For each judgment component, the Chief Justice assigns when he is in the judgment majority. Otherwise the most senior participating Associate Justice in that majority assigns, in this order: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
 ## 2. Current Circuit Allotments
 
-The order effective August 3, 1994 governs at the OT1999 opening.
+The order effective August 3, 1994 governs at the OT2000 opening.
 
 | Circuit | Allotted Justice | Effective date | Source |
 |---|---|---|---|
@@ -53,45 +53,23 @@ The order effective August 3, 1994 governs at the OT1999 opening.
 
 ## 4. Docket of Cases Brought Up
 
-Fourteen matters remain pending before the Court. The twenty-three sim-granted cases in the OT1999 inventory are granted and to be heard on the merits, as is its direct appeal in *Rayphand v. Sablan / Torres v. Sablan*.
+Sixteen matters are carried from OT1999.
 
 | Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
 |---|---|---|---|---|
-| *Gaydos v. Sisk*; separate certiorari submission; no Supreme Court docket supplied | District-court No. 96-698; lower judgment not specified in the Record. | Carried from OT1998; separate submission left unresolved. | Separate certiorari submission unresolved; acceptance and timeliness unadjudicated. | *In re Gaydos*, No. 96-5831, Decision Record, December 2, 1996. |
-| *In re Vey*, No. 96-8005 | Original petition; no lower-court judgment under review through the financial motion. | Carried from OT1998; underlying requests left pending. | Original habeas and alternative mandamus or prohibition requests pending. | Decision Record, April 14, 1997. |
-| *Board of County Commissioners of Bryan County v. Brown*, No. 95-1100 | Fifth Circuit, 67 F.3d 1174 (1995); affirmed on the federal municipal-hiring ground. | Carried from OT1998; reargument ordered. | Restored to the calendar for reargument; merits pending. | Decision Record, April 28, 1997. |
-| *Vey v. Clinton*, No. 96-8796 | Third Circuit, No. 96-3571; appeal dismissed as legally frivolous, February 27, 1997. | Carried from OT1998; certiorari left pending. | Certiorari petition pending for separate consideration. | Decision Record, June 9, 1997. |
-| *United States v. Alaska*, No. 84, Original | Original action; no lower-court judgment under review. | Carried from OT1998; implementing decree remains before the Court. | Proposed implementing decree awaited; jurisdiction retained. | Decision Record, June 19, 1997. |
-| *Brown v. Williams*, No. 97-5370 | Sixth Circuit; appeal dismissed for nonpayment. | Carried from OT1998; certiorari left pending. | Certiorari petition pending for ordinary consideration. | *Brown v. Williams*, Decision Record, October 20, 1997. |
-| *Arteaga v. United States Court of Appeals for the Ninth Circuit*, No. 97-6749 | Ninth Circuit, Nos. 96-16222 and 96-16223; failure-to-amend dismissals affirmed. | Carried from OT1998; certiorari left pending. | Certiorari petition pending at the post-fee stage. | *Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson*, Decision Record, February 23, 1998. |
-| *Arteaga v. Wilson*; no separate Supreme Court docket supplied | Ninth Circuit, No. 96-16222; dismissal for failure to amend affirmed. | Carried from OT1998; separate certiorari petition left pending. | Separate certiorari petition pending at the post-fee stage. | *Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson*, Decision Record, February 23, 1998. |
-| *Glendora v. Porzio*, No. 97-7300 | Second Circuit; financial leave declined on appeal from dismissal of the federal action. | Carried from OT1998; certiorari left pending. | Certiorari petition pending at the post-fee stage. | *Glendora v. Porzio*, Decision Record, March 9, 1998. |
-| *Breard v. Greene*, No. 97-8214 | Fourth Circuit, 134 F.3d 615 (January 20, 1998); denial of federal habeas relief affirmed. | Carried from OT1998; certiorari left pending. | Certiorari petition pending. | *Breard v. Greene*, A-732, Decision Record, April 14, 1998. |
-| *Republic of Paraguay v. Gilmore*, No. 97-1390 | Fourth Circuit, 134 F.3d 622 (January 22, 1998); civil dismissal affirmed on immunity grounds. | Carried from OT1998; certiorari left pending. | Certiorari petition pending. | *Breard v. Greene and related applications*, A-738, Decision Record, April 14, 1998. |
-| *In re Breard*, No. 97-8660 | Original habeas petition; no lower-court judgment under appellate review. | Carried from OT1998; original habeas petition left pending. | Original habeas petition pending. | *Breard v. Greene and related applications*, A-767, Decision Record, April 14, 1998. |
-| *Republic of Paraguay v. Gilmore*, No. 125, Original | Original action; no lower-court judgment under review. | Carried from OT1998; leave-to-file request left pending. | Motion for leave to file an original complaint pending. | *Breard v. Greene and related applications*, A-771, Decision Record, April 14, 1998. |
-| *Federal Republic of Germany, et al. v. United States, et al.*, No. 127, Original | Original action; no lower-court judgment under review. | Carried from OT1998; original leave left pending. | Motion for leave to file an original complaint remains under consideration. | *Federal Republic of Germany*, original leave and interim order, Decision Record, March 3, 1999. |
-| *Paul P. v. Verniero* | Third Circuit, 170 F.3d 396 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 4. |
-| *Rayphand v. Sablan / Torres v. Sablan*, No. 99-475 | District Court for the Northern Mariana Islands, No. 97-0029, 95 F. Supp. 2d 1133 (1999). | Direct appeal in the OT1999 inventory. | To be heard on the merits. | User instruction; OT1999 case index No. 7. |
-| *Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.* | Third Circuit, 171 F.3d 912 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 8. |
-| *Fraternal Order of Police v. United States* | D.C. Circuit, 173 F.3d 898 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 16. |
-| *U.S. West, Inc. v. Federal Communications Commission* | Tenth Circuit, 182 F.3d 1224 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 23. |
-| *Richards v. United States*, No. 99-731 | Third Circuit, No. 98-7235, 176 F.3d 652 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 24. |
-| *Strout v. Albanese* | First Circuit, 178 F.3d 57 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 32. |
-| *Adams v. Commissioner of Internal Revenue*, No. 99-798 | Third Circuit, No. 98-7200, 170 F.3d 173 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 37. |
-| *Carter v. City of Philadelphia* | Third Circuit, 181 F.3d 339 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 38. |
-| *Browne v. United States*, No. 99-632 | Second Circuit, No. 98-6124, 176 F.3d 25 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 43. |
-| *Powell v. Ridge* | Third Circuit, 189 F.3d 387 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 48. |
-| *Reform Party of Allegheny County v. Allegheny County Department of Elections* | Third Circuit (en banc), 174 F.3d 305 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 49. |
-| *Gillespie v. City of Indianapolis*, No. 99-626 | Seventh Circuit, No. 98-2691, 185 F.3d 693 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 52. |
-| *Doe v. Rosenberg* | Second Circuit, 166 F.3d 507 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 55. |
-| *North Carolina Right to Life, Inc. v. Bartlett* | Fourth Circuit, 168 F.3d 705 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 62. |
-| *National Mining Association v. United States Department of the Interior* | D.C. Circuit, 177 F.3d 1 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 63. |
-| *Saenz v. Heldenfels Brothers, Inc.* | Fifth Circuit, 183 F.3d 389 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 64. |
-| *United States v. McIver* | Ninth Circuit, 186 F.3d 1119 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 69. |
-| *United States v. Barrett* | First Circuit, 178 F.3d 34 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 75. |
-| *Eisenberg v. Montgomery County Public Schools* | Fourth Circuit, 197 F.3d 123 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 78. |
-| *Mixon v. Ohio* | Sixth Circuit, 193 F.3d 389 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 83. |
-| *Bradley v. Arkansas Department of Education* | Eighth Circuit, 189 F.3d 745 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 89. |
-| *Hawkins v. Freeman* | Fourth Circuit (en banc), 195 F.3d 732 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 94. |
-| *Henerey v. City of St. Charles, School District* | Eighth Circuit, 200 F.3d 1128 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 99. |
+| *Gaydos v. Sisk*; separate certiorari submission; no Supreme Court docket supplied | District-court No. 96-698; lower judgment not specified in the Record. | Carried from OT1999; separate submission left unresolved. | Separate certiorari submission unresolved; acceptance and timeliness unadjudicated. | *In re Gaydos*, No. 96-5831, Decision Record, December 2, 1996. |
+| *In re Vey*, No. 96-8005 | Original petition; no lower-court judgment under review through the financial motion. | Carried from OT1999; underlying requests left pending. | Original habeas and alternative mandamus or prohibition requests pending. | Decision Record, April 14, 1997. |
+| *Board of County Commissioners of Bryan County v. Brown*, No. 95-1100 | Fifth Circuit, 67 F.3d 1174 (1995); affirmed on the federal municipal-hiring ground. | Carried from OT1999; reargument ordered. | Restored to the calendar for reargument; merits pending. | Decision Record, April 28, 1997. |
+| *Vey v. Clinton*, No. 96-8796 | Third Circuit, No. 96-3571; appeal dismissed as legally frivolous, February 27, 1997. | Carried from OT1999; certiorari left pending. | Certiorari petition pending for separate consideration. | Decision Record, June 9, 1997. |
+| *United States v. Alaska*, No. 84, Original | Original action; no lower-court judgment under review. | Carried from OT1999; limited implementation jurisdiction retained. | Implementing decree entered; jurisdiction retained to effectuate and supplement the decree and the parties' rights; otherwise final. | *United States v. Alaska*, No. 84, Original, implementing-decree Record, June 29, 2000. |
+| *Brown v. Williams*, No. 97-5370 | Sixth Circuit; appeal dismissed for nonpayment. | Carried from OT1999; certiorari left pending. | Certiorari petition pending for ordinary consideration. | *Brown v. Williams*, Decision Record, October 20, 1997. |
+| *Arteaga v. United States Court of Appeals for the Ninth Circuit*, No. 97-6749 | Ninth Circuit, Nos. 96-16222 and 96-16223; failure-to-amend dismissals affirmed. | Carried from OT1999; certiorari left pending. | Certiorari petition pending at the post-fee stage. | *Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson*, Decision Record, February 23, 1998. |
+| *Arteaga v. Wilson*; no separate Supreme Court docket supplied | Ninth Circuit, No. 96-16222; dismissal for failure to amend affirmed. | Carried from OT1999; separate certiorari petition left pending. | Separate certiorari petition pending at the post-fee stage. | *Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson*, Decision Record, February 23, 1998. |
+| *Glendora v. Porzio*, No. 97-7300 | Second Circuit; financial leave declined on appeal from dismissal of the federal action. | Carried from OT1999; certiorari left pending. | Certiorari petition pending at the post-fee stage. | *Glendora v. Porzio*, Decision Record, March 9, 1998. |
+| *Breard v. Greene*, No. 97-8214 | Fourth Circuit, 134 F.3d 615 (January 20, 1998); denial of federal habeas relief affirmed. | Carried from OT1999; certiorari left pending. | Certiorari petition pending. | *Breard v. Greene*, A-732, Decision Record, April 14, 1998. |
+| *Republic of Paraguay v. Gilmore*, No. 97-1390 | Fourth Circuit, 134 F.3d 622 (January 22, 1998); civil dismissal affirmed on immunity grounds. | Carried from OT1999; certiorari left pending. | Certiorari petition pending. | *Breard v. Greene and related applications*, A-738, Decision Record, April 14, 1998. |
+| *In re Breard*, No. 97-8660 | Original habeas petition; no lower-court judgment under appellate review. | Carried from OT1999; original habeas petition left pending. | Original habeas petition pending. | *Breard v. Greene and related applications*, A-767, Decision Record, April 14, 1998. |
+| *Republic of Paraguay v. Gilmore*, No. 125, Original | Original action; no lower-court judgment under review. | Carried from OT1999; leave-to-file request left pending. | Motion for leave to file an original complaint pending. | *Breard v. Greene and related applications*, A-771, Decision Record, April 14, 1998. |
+| *Federal Republic of Germany, et al. v. United States, et al.*, No. 127, Original | Original action; no lower-court judgment under review. | Carried from OT1999; original leave left pending. | Motion for leave to file an original complaint remains under consideration. | *Federal Republic of Germany*, original leave and interim order, Decision Record, March 3, 1999. |
+| *Fiore v. White*, No. 98-942 | Third Circuit, 149 F.3d 221; federal grant of habeas relief reversed. | Carried from OT1999; certified question pending. | Jurisdiction retained pending the Pennsylvania Supreme Court's answer; federal judgment and relief reserved. | Certification Decision Record, November 30, 1999. |
+| *Arizona v. California*, No. 8, Original | Original action; no lower-court judgment under review. | Carried from OT1999; original action left pending. | Original jurisdiction retained; unresolved Fort Yuma title, boundary, acreage and water issues before the Master; implementing decree provisions for the two approved settlements awaited. | Original-jurisdiction Decision Record, June 19, 2000. |

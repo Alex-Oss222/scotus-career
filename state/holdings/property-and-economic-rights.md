@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Property and Economic Rights
 
@@ -480,6 +480,10 @@ For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, O
 **Limits and questions not reached:** Section 6(e) supplies title-defeating intent, separately from §6(m)’s incorporation of the Submerged Lands Act. Neither general ownership nor wildlife purpose alone suffices. The 1960 reservation receives no retroactive effect; the 1980 enlargement does not set the original boundary. Scalia and Thomas do not join the geographic determination.
 
 **Operative remedy or transition:** Alaska’s baseline, Dinkum and Petroleum Reserve exceptions are overruled; the United States’ original Range exception is sustained. The parties must propose a conforming implementing decree; jurisdiction is retained and each bears its own costs. No final coordinate schedule, new survey, damages or oil-accounting award is entered.
+
+**Current-force modification:** The June 29, 2000 implementing decree completes the earlier direction to propose a decree. Its fixed offshore line, qualified reciprocal injunctions, lease-administration terms and 180-day Section 7 escrow-distribution obligation now govern implementation. The reservation coastlines remain ambulatory, and jurisdiction is retained to effectuate and supplement the decree and the parties' rights. The 1997 title and baseline holdings remain unchanged.
+
+**Later-authority backlinks:** United States v. Alaska, No. 84, Original, June 29, 2000: implementing decree, Paragraphs A-G and original Exhibit A; fixed offshore boundary, qualified resource rights, lease and escrow transitions, and retained jurisdiction.
 
 **Treatment of earlier authority:** Utah Division and Montana’s distinct inclusion and retention requirements govern. The statutory wildlife exclusion reaches this legally effective temporary segregation without treating every pending application as a completed reservation.
 
@@ -1121,3 +1125,98 @@ For the other questions in Dodd v. Hood River County, decided 1998-11-19, No. 98
 **Treatment of earlier authority:**
 
 New Jersey v. New York, decided May 26, 1998, is implemented without changing its Compact construction, territorial entitlement, rejected exchange or reserved questions.
+
+
+
+### Prospective title to cooperative grazing improvements
+
+#### Public Lands Council v. Babbitt, 529 U.S. 728 (2000)
+
+**Docket or dockets:** No. 98-1991.
+**Decided:** May 15, 2000.
+
+##### Title to future cooperative improvements
+
+**Holding:** Under the Taylor Act's cooperative-improvement authority, the Secretary may require federal title from the outset for future permanent improvements authorized after August 21, 1995, under cooperative agreements, subject to valid existing rights and the regulation's contribution protections. That prospective arrangement does not on its face transfer an already vested private improvement to the United States.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls each of the three holdings and every stated operative qualification. The concurrences withhold no join.
+
+**Limits and questions not reached:** The rule covers permanent structures such as fences, wells and pipelines; all new permanent water developments require cooperative agreements. Each agreement must allocate cost or labor, or both, between the United States and cooperators. BLM must document contributed funds, labor and materials for the credits governed by §§4120.3-5 and 4120.3-6(c). No credit formula or individual award is decided.
+
+Nonstructural improvements are federally titled. Under the separate range-improvement permit provision, a permittee or lessee **may** hold title to authorized removable livestock-handling improvements and temporary structural improvements; private title is not compulsory in every such case. Improvement work confers no exclusive right to the improvement or affected land.
+
+Section 4 retains reasonable-value payment before a later permit entitles its holder to use improvements constructed and owned by a prior occupant, and State partition-fence cost and maintenance law remains applicable. Where temporary forage use by another operator is lawfully authorized, the existing operator's reasonable use and maintenance compensation and fair-share procedures remain. The officer may mediate and determine the share after consultation; an unresolved settlement proceeds through a temporary authorization containing the compensation requirement. This supplies no individual award or validation of an excluded conservation-use predicate.
+
+**Limits and questions not reached:** The ruling establishes no particular taking, vested title, valuation, reliance loss or compensation award. Federal ownership of land does not itself extinguish independently existing private property.
+
+**Operative remedy or transition:** Affirm the prospective title rule; no individual property or compensation relief is granted.
+
+**Treatment of earlier authority:** National Mining Association v. Department of the Interior, May 8, 2000, preserves actual delegated authority and the distinction between present regulation and new consequences for completed conduct. Its mining-permit correction authority supplies no grazing-permit reopening or confiscation power.
+
+For the grazing-priority and applicant-qualification holdings in Public Lands Council v. Babbitt, No. 98-1991, May 15, 2000, see Environmental Law — Grazing priority, permitted use and applicant qualifications.
+
+### Submerged-land decree, fixed offshore line and reservation coasts
+
+#### United States v. Alaska, 530 U.S. 1021 (2000)
+
+**Docket or dockets:** No. 84, Original.
+
+**Decided:** June 29, 2000.
+
+##### 1. Entry implements the settled judgment and formally permits the counterclaim
+
+**Holding:** The jointly submitted decree is entered because its terms implement the Court's completed title and boundary judgment without enlarging or reopening it. Alaska receives leave to file its counterclaim as part of the existing original action, with no new merits hearing or alteration of the settled title classifications.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** The decree implements the June 19, 1997 judgment and the supported continuous-line agreement through Point Hope. It makes no new historic-title finding concerning Harrison Bay or Arco and supplies no title determination outside the described estates.
+
+##### 2. The offshore line is fixed and the reciprocal rights retain their qualifications
+
+**Holding:** Paragraph B fixes the federal-state offshore boundary at the original Exhibit A coordinates, with NAD 83/WGS 84 controlling and NAD 27 values serving only as conversion aids; under 43 U.S.C. section 1301(b), that line does not migrate with later coastal change. Against the other sovereign and persons claiming under it, the United States has exclusive exploration and natural-resource rights seaward, subject to section 1337(g) and Paragraph C, and Alaska has corresponding shoreward rights except within the Petroleum Reserve and Arctic Refuge and subject to section 1313 and Paragraph C; the reciprocal noninterference injunctions bind each sovereign, its privies, assigns, lessees and other persons claiming under it at that qualified scope.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** Section 1313 preserves lawfully and expressly acquired federal parcels and their accretions, resources and improvements; lands lawfully held under state law; lands expressly retained or ceded at statehood, apart from a merely general marginal-sea retention or cession; proprietary acquisitions by eminent domain, purchase, cession, gift or otherwise; federal-use filled, built-up or reclaimed lands; existing federal rights in lands presently and actually occupied under claim of right; lands or interests held for tribes, bands, groups or individual Indians; and structures and improvements constructed under the federal navigational servitude. No new parcel-specific application is decided.
+
+Section 1337(g)'s coastal-state revenue rights remain in force without transferring seaward title. Its ordinary account covers specified bonuses, rents, royalties and other bidding revenues from post-September 18, 1978 federal leases in the three-nautical-mile band, excluding federal income and windfall-profits taxes. Partial tracts ordinarily use the percentage of surface acreage within that band. Alaska's special treatment includes a partially covered tract's revenues until seven years after settlement of a boundary dispute under a section 1336 agreement made before January 1, 1986; for other Alaska tracts that special period ended April 15, 1993. Subject to the disputed-boundary provisions, the State receives 27 percent of the covered revenues with accrued interest by the last business day of the month after Treasury deposit, with the remainder sent simultaneously to federal miscellaneous receipts.
+
+For a section 1336 boundary dispute, section 1337(g)(5) credits the agreement account with qualifying post-1978 revenues from tracts wholly or partly within the State-asserted band if not already deposited. Its interim 27-percent payment with interest concerns tracts wholly within the federally asserted band and falls due on the later of thirty days after December 1, 1987 or the last business day of the month after deposit. At settlement, additional sums due are paid from escrow; an insufficiency is met from federal lease revenues under the statutory formula. The statute's information and confidentiality rules, common-deposit notification and optional sharing agreements, account investment, October 1, 1985 accounting-effective date, and equal division of the state share where a tract falls within two or more States' bands remain intact. The decree calculates no statutory award or disputed account balance.
+
+**Operative remedy or transition:** The original Exhibit A coordinate schedule in the entered decree controls, including its NAD 83/WGS 84 datum. The [original schedule](https://www.supremecourt.gov/pdfs/recordsandbriefs/1000370914/1000370914_001.pdf) is incorporated without numerical retranscription; conversions and illustrative maps cannot replace it.
+
+##### 3. Three lease categories govern administration and escrow without altering third-party rights
+
+**Holding:** Paragraph C governs accounting and administration by the three distinct categories below, with the Section 7 escrow deadline running no later than 180 days after entry on June 29, 2000. It preserves the sovereigns' rights and obligations toward lessees and third parties, whether arising under Section 7 agreements or otherwise, and all rights and obligations under present or future unitization, operating, enhanced-recovery, commingling or similar agreements between the parties or with others.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Material application:**
+
+| Lease category | Administration, distribution and transition |
+|---|---|
+| Existing and former leases subject to Section 7 agreements | Distribute escrow according to the agreements within 180 days after entry. Carry out all applicable agreement provisions and administer the leases under their terms. |
+| Existing nonagreement leases intersected by the fixed line | The original lessor continues administration and has the exclusive right to all past and future lease revenue. Upon expiration, relinquishment or termination, Paragraph B alone governs exploration and resource-exploitation rights in the formerly leased area. Fixing the line does not change distributions from former nonagreement leases that expired before entry and would have been intersected. |
+| Existing Section 7 agreement leases also intersected by the fixed line | The agreement governs escrow distribution and administration. Upon expiration, relinquishment or termination, Paragraph B alone governs the area's exploration and resource-exploitation rights. Fixing the line does not change distributions from former agreement leases that expired before entry and would have been intersected. |
+
+**Limits and questions not reached:** The decree determines no account amount, present delinquency, cancellation or new third-party obligation. Filing the proposal did not start the 180-day escrow period.
+
+##### 4. The two reservation coastal descriptions preserve their different measures
+
+**Holding:** Paragraph D identifies the Petroleum Reserve's coastal boundary as the continuous line beginning at the western bank of the Colville River and following the highest highwater mark westward, closing small-lagoon entrances including Peard Bay, Wainwright Inlet, the Kuk River, Kugrua Bay and River, and other small bays and river estuaries; it follows the ocean side of barrier islands and sandspits within three miles of shore and the ocean side of the Plover Islands to Icy Cape's northwestern extremity, approximately 70 degrees 21 minutes N., 161 degrees 46 minutes W. Paragraph E identifies the Arctic Refuge's coastal boundary from the international boundary between Alaska and Yukon Territory at extreme low water near Monument 1, westward along extreme low water and across lagoon entrances so that all offshore bars, reefs, islands and lagoons separating them from the mainland are within the Refuge, ending at Brownlow Point, approximately 70 degrees 10 minutes N., 145 degrees 51 minutes W.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** Highest highwater for the Petroleum Reserve is not substituted for extreme low water for the Refuge. Paragraph D preserves the submitted geographic description of the named reserve; it makes no new finding resolving the executive-order citation discrepancy. Paragraph E's reference to Public Land Order 2214, 25 Fed. Reg. 12598 (1960), identifies the descriptive coastline without making that order retroactively defeat state title. The legally operative 1957 segregation remains the earlier judgment's ground, and the 1980 enlargement does not supply the original statehood boundary. Neither paragraph decides title outside the described estate or replaces the original offshore coordinate schedule.
+
+##### 5. Reservation coasts may move, and jurisdiction remains for implementation
+
+**Holding:** Under Paragraph F the Petroleum Reserve and Arctic Refuge coastal boundaries migrate with changes in the relevant physical features, and the parties may address resulting disputes through negotiation, alternative dispute resolution or invocation of the Court's retained jurisdiction; they may jointly submit a boundary-location agreement for entry as a supplemental decree. Under Paragraph G the Court retains jurisdiction to entertain further proceedings, enter orders and issue writs necessary or advisable to effectuate and supplement this decree and the parties' rights; in all other respects the decree is final.
+
+**Proposition-level authority:** The Court's implementing decree, Paragraphs A-G and original Exhibit A. No individual participation lineup or tally is publicly announced; entry supplies no additional join in the 1997 title rationales.
+
+**Limits and questions not reached:** The ambulatory reservation coasts differ from the fixed offshore line. Retained jurisdiction implements the decree; it does not reopen title, require a mandatory dispute-resolution sequence or find that a current boundary dispute exists.
+
+**Treatment of earlier authority:**
+
+- United States v. Alaska, June 19, 1997: implemented through the original schedule, qualified relief and administrative terms. The normal-baseline and Dinkum holdings and the separate Petroleum Reserve and prestatehood Refuge title grounds remain unchanged. No new title determination or new assent to the prior reasoning follows from entry of the decree.

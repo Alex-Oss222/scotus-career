@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Business and Commercial Law
 
@@ -1331,6 +1331,8 @@ For the other questions in Atherton v. Federal Deposit Insurance Corporation, No
 
 **Treatment of earlier authority:** Agency Holding supplies the four-year period and Clayton Act analogy, not a general accrual trigger. Holmes and NOW preserve injury and direct causation; neither supplies a universal trigger. Grimmett’s unexplained dismissal created no accrual rule.
 
+**Later-authority backlinks:** Rotella v. Wood, No. 98-896, decided February 23, 2000, rejects postponement until pattern discovery when the cause of action is complete and the injury known. The general choice between injury-occurrence and injury-discovery accrual, and an injury preceding completion of the pattern, remain open.
+
 ##### A genuinely new injury and previously unprovable damages remain separately recoverable on their own predicates
 
 **Holding:** A later wrongful act directly causing a genuinely new injury may support timely recovery for that injury without reopening older damages. Separately, damages genuinely too speculative or incapable of proof to recover earlier may accrue when they occur under Zenith; continued accumulation of calculable loss, inadequate investigation and a later calculation of old harm do not satisfy that qualification.
@@ -1354,6 +1356,37 @@ For the other questions in Atherton v. Federal Deposit Insurance Corporation, No
 **Limits and questions not reached:** The granted legal question does not reopen factual diligence. The decision concerns civil-RICO concealment, not every equitable-estoppel doctrine.
 
 **Treatment of earlier authority:** Bailey and Holmberg protect diligent discovery frustrated by concealment, not diligence-free tolling. Brockamp’s tax-specific construction creates no universal prohibition on federal equitable tolling.
+
+#### Rotella v. Wood, 528 U.S. 549
+
+**Docket or dockets:** No. 98-896.
+
+**Decided:** February 23, 2000.
+
+##### A complete claim and known injury do not await discovery of the pattern
+
+**Holding:** When a civil RICO cause of action is complete and the plaintiff has discovered the injury, the four-year limitation period does not await actual or reasonable discovery of the racketeering pattern. Later recognition of the pattern cannot revive an otherwise stale claim for that injury; this decision does not choose between injury-occurrence and injury-discovery accrual generally or decide the case in which the injury precedes completion of the pattern.
+
+**Proposition-level authority:** Justice Souter's opinion of the Court, joined in full by all eight other Justices, supplies nine direct votes for the rule, its application and the preserved limits.
+
+**Material application:** Rotella conceded knowledge of injury by 1986 and did not dispute that the claim was then complete. Learning of the alleged pattern in 1994 does not make the 1997 action timely. The ten-year predicate interval defines a pattern, not a civil filing period.
+
+##### Distinct new injury, unprovable damages and diligent-concealment rules survive
+
+**Holding:** Rejection of pattern-discovery accrual does not displace Klehr's separate rules for a later wrongful act directly causing a genuinely new injury, damages genuinely too speculative or incapable of proof earlier, or concealment preventing timely discovery despite reasonable diligence. None of those routes is established merely by later recognition of the old injury's racketeering pattern.
+
+**Proposition-level authority:** The same unanimous opinion preserves these operative limitations while affirming the limitations judgment; it makes no independent award under any reserved route.
+
+**Limits and questions not reached:** A common product, defendant, loss type or pattern does not establish that every later injury is old. Continued calculable loss, inadequate investigation and later calculation of old harm are not previously unprovable damages. Concealment does not toll when reasonable inquiry would disclose the claim, but extraordinary investigation defeating otherwise successful concealment is unnecessary. No qualifying new injury, damages or tolling entitlement is established here; no general equitable-estoppel rule is adopted.
+
+**Operative remedy or transition:** The limitations judgment is affirmed without a tolling award, discovery order, new-injury hearing or finding that the alleged scheme occurred.
+
+**Treatment of earlier authority:**
+
+- Agency Holding Corp. v. Malley-Duff & Associates: applied for the four-year civil RICO period and Clayton Act analogy; it does not itself decide the universal accrual trigger.
+- Klehr v. A. O. Smith Corp.: applied to prevent stale-injury revival and preserve the distinct new-injury, unprovable-damage and diligent-concealment rules; today's decision answers the previously reserved pattern-discovery question only on a completed claim and known injury.
+- Zenith Radio Corp. v. Hazeltine Research: its protection for genuinely unprovable damages survives; delayed investigation or later computation of old harm is distinguished.
+- Hanover Shoe v. United Shoe Machinery: its new-injurious-transaction principle remains, without revival of stale damages.
 
 ### Securities source deception and tender-offer prevention
 
@@ -1789,3 +1822,177 @@ The District Court's invalidity result for issued claims 1–6 is sustained on t
 | Separate 1995 prospectus and later duty-to-correct theory | Dismissal left intact, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No new claim, amendment entitlement, or revival follows from the assistance remand. |
 
 No fraud, damages, discovery entitlement, or final pleading sufficiency is adjudged.
+
+### Civil RICO directness and property injury
+
+#### Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.
+
+**Docket or dockets:** Third Circuit No. 98-1426; 171 F.3d 912 identifies the judgment below; no Supreme Court docket supplied.
+**Decided:** January 10, 2000.
+
+##### Whether participant medical expenditures are sufficiently direct civil RICO injury
+
+**Holding:** Section 1964(c) requires factual causation and proximate cause, including a direct relation between the asserted business-or-property injury and the alleged violation. A fund's alleged medical payments arising through participants' smoking, illness and treatment do not satisfy that requirement on this pleaded chain, even when defendants allegedly intended the fund to bear the cost.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Material application:** The allegation of targeting accepts a real property loss but leaves intervening smoking, illness and treatment between the violation and fund payment. Limited duplicate recovery and the absence of a participant RICO bodily-injury claim do not remove those links.
+
+**Limits and questions not reached:** Holmes's attribution, overlapping-recovery and direct-plaintiff considerations are contextual, not three independent elements. Statistical proof is not categorically excluded; a damages model is not demanded at pleading.
+
+**Treatment of earlier authority:** Holmes supplies the direct-relation rule. McCready is distinguished because reimbursement denial there implemented the scheme. Sedima's rejection of special racketeering injury and prior-conviction conditions remains intact.
+
+
+##### Whether interference with fund cessation choices supplies a separate direct injury
+
+**Holding:** Describing concealment as interference with the funds' cost-control decisions does not make the claimed medical payments direct when loss still depends on different fund action, changed participant behavior, avoided illness and avoided treatment.
+
+**Proposition-level authority:** Thomas's unanimous opinion.
+
+**Limits and questions not reached:** No independently pleaded loss avoids the intervening illness chain. The Court determines no program's effectiveness and decides neither a different direct fraud nor hypothetical repleading.
+
+**Operative remedy or transition:** Affirm dismissal of this theory separately from the ordinary-expenditure claim.
+
+
+##### Whether benefit payments and fund status establish or preclude property injury and recovery
+
+**Holding:** Benefit payments reduce the funds' own property, but their legal form and payment duty neither transfer participants' bodily injuries nor create an exemption from RICO's causal requirements.
+
+**Proposition-level authority:** Thomas's unanimous opinion.
+
+**Limits and questions not reached:** The district court's no-property-injury rationale is not adopted. No categorical third-party-payer disability, borrowed antitrust-injury rule or purchaser-seller limitation is imposed.
+
+**Operative remedy or transition:** The pleaded RICO dismissals stand for directness. State-law claims and hypothetical amendment are outside adjudication.
+
+
+For the separate Clayton Act holding in Steamfitters, January 10, 2000, Third Circuit No. 98-1426, see Antitrust — Directness of healthcare expenditure claims.
+
+
+
+### Acquired distinctiveness of product-design trade dress
+
+#### Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000)
+
+**Docket or dockets:** No. 99-150.
+
+**Decided:** March 22, 2000.
+
+##### Whether unregistered product design may rely on inherent distinctiveness without acquired source significance
+
+**Holding:** A claimant asserting unregistered product-design trade dress under section 43(a) must prove secondary meaning: the design's primary significance to the relevant public identifies a source rather than the product itself, even if consumers do not know the source's name. Inherent distinctiveness alone is insufficient; acquired source significance does not dispense with nonfunctionality, likelihood of confusion or the remaining applicable requirements.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by all seven other Associate Justices; eight direct rationale votes. Stone-Zsela separately supports the acquired-source requirement and bounded judgment without joining the opinion.
+
+**Material application:** Samara's asserted garment combination is product design, and secondary meaning was not asserted below. Recognition, producer intent and copying do not establish acquired source identification. The Court decides a legal prerequisite without retrying the jury's facts or imposing a universal survey requirement.
+
+##### What relief may be disturbed by the product-design distinctiveness error
+
+**Holding:** The Second Circuit's judgment is reversed insofar as it sustains this product-design claim through inherent distinctiveness alone, and the case is remanded to remove reliance on that federal trade-dress ground and address consequent relief only as necessary. The independent copyright and state-law merits remain undisturbed, with overlapping injunction, damages, fee and cost components separated according to their lawful bases.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by all seven other Associate Justices; eight direct rationale votes. Stone-Zsela separately supports the acquired-source requirement and bounded judgment without joining the opinion.
+
+**Limits and questions not reached:** Remand supplies no presumed preservation of an unasserted theory, automatic reopening of proof or new trial. Earlier narrowing of the injunction and reductions of damages remain; independent copyright treatment is not converted into federal trade-dress relief.
+
+**Limits and questions not reached:** The garments are product design; no particular bottle, container or hybrid requires classification here. The Court does not adjudicate the garments' functionality, reopen the separate confusion presumption or labeling instruction, determine the copyrights' originality, change the state-law preemption disposition or establish a general aesthetic-functionality rule. It prescribes no universal survey or new consumer-proof method. Design remains eligible for protection after acquiring source significance, and not every design necessarily qualifies for copyright or patent protection.
+
+The 1999 unregistered-trade-dress nonfunctionality provision supplies no distinctiveness rule and no ruling about its temporal application to antecedent conduct or this earlier trial. Section 2(e)'s registration transition is not section 5's transition. The statutory design requirement and ordinary Rule 50 standard are separate; the Court neither retries the jury's historical facts nor supplies an unasserted secondary-meaning claim.
+
+**Operative remedy or transition:** Reverse and remand only to eliminate the inherent-distinctiveness ground and separate relief dependent on it from independently sustainable copyright and state-law relief. No new total, restored broad injunction or double recovery is ordered.
+
+**Treatment of earlier authority:**
+
+- **Two Pesos, Inc. v. Taco Cabana, Inc., June 26, 1992:** Its inherent-distinctiveness route for qualifying nonfunctional restaurant presentation remains effective. Its express reservation of other product-design categories permits the distinct acquired-source requirement now adopted; the accepted restaurant findings are not retried.
+- **Qualitex Co. v. Jacobson Products Co., March 28, 1995:** Its separation of eligible subject matter from acquired source significance is applied to product design. Its nonfunctional-color rule remains intact and supplies no blanket inherent-distinctiveness route for every aesthetic feature.
+- **Inwood Laboratories, Inc. v. Ives Laboratories, Inc., 456 U.S. 844 (1982):** Its definition of secondary meaning supplies the source-versus-product inquiry, while its essential-use-or-purpose and cost-or-quality functionality boundary remains independent. Its distinct contributory-infringement holding is unchanged.
+- **Weisgram v. Marley Co., February 22, 2000:** Its protection of an actual fair opportunity and genuinely supported new-trial grounds is preserved. It supplies neither an unasserted acquired-meaning theory nor an automatic right to reopen proof in this case.
+
+
+
+### Private RICO conspiracy injury
+
+#### Beck v. Prupis, 529 U.S. 494 (2000)
+
+**Docket or dockets:** No. 98-1480.
+**Decided:** April 26, 2000.
+
+##### Civil conspiracy recovery requires injury from an independently wrongful RICO act
+
+**Holding:** A plaintiff seeking private recovery under sections 1962(d) and 1964(c) must suffer injury to business or property caused by racketeering or another act independently wrongful under RICO; injury from a non-RICO act does not suffice merely because that act advances the unlawful agreement. The injury-producing act need not be personally committed by every conspirator, and this holding decides neither whether an actionable completed violation of subsections (a)–(c) is required nor whether a qualifying agreement plus at least one injury-producing racketeering act suffices.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's opinion, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, supplies seven direct votes for the rule, its application, reservations and bounded affirmance.
+
+**Material application:** The granted question assumes that the alleged retaliatory termination was neither racketeering nor otherwise independently wrongful under RICO. Its economic harm therefore fails the private injury requirement even if it advanced the scheme; the Court does not reject this direct firing as causally remote.
+
+**Limits and questions not reached:** The distinct substantive prohibitions, investment-injury question and general criminal overt-act reservation remain. Neither personal direction nor two personally performed predicates are imposed on every conspirator. The later securities qualification excludes actionable securities-fraud conduct, except an action against a person criminally convicted in connection with that fraud, whose period begins upon final conviction; this case decides no temporal application or securities theory. No scheme, fraud or lawful termination under other law is found.
+
+**Operative remedy or transition:** The termination-conspiracy summary judgment is affirmed. Independent federal, sanctions, costs and service rulings remain; the existing common-law pendent-state-claim remand is not displaced. On that remand limitations prejudice matters, and a defense waiver may protect the claims but is not required by this judgment. No damages or new discovery follows automatically.
+
+**Treatment of earlier authority:**
+
+- Holmes retains factual causation and contextual directness, without special racketeering injury, imported antitrust injury or a categorical shareholder/creditor bar. The new private conspiracy injury condition performs a distinct task.
+- Steamfitters is distinguished at its intervening-injury chain. Directness alone does not decide the type of compensable harm, and its actual remoteness result is not transferred to Beck's alleged firing.
+- Sedima retains rejection of special racketeering injury and a prior-conviction prerequisite; statutory breadth does not eliminate the private injury condition stated here.
+- Salinas retains knowing agreement without personally promised predicates and its reservation of a general criminal overt-act rule. Civil compensability adds no criminal element.
+- Reves retains the substantive enterprise-direction requirement without extending personal direction to every conspirator or deciding this private injury question by itself.
+- Rotella's complete-claim and known-injury limitations holding remains separate. No new limitations disposition is entered on the federal claim here.
+
+### Government contracts and withdrawal of a promised regulatory process
+
+#### Mobil Oil Exploration & Producing Southeast, Inc. v. United States / Marathon Oil Co. v. United States, 530 U.S. 604 (2000)
+
+**Docket or dockets:** Nos. 99-244 and 99-253.
+
+**Decided:** June 26, 2000.
+
+##### 1. The leases contain a clear continuing process undertaking that the Government breached
+
+**Holding:** These leases incorporate a continuing obligation to provide the specified Outer Continental Shelf Lands Act (OCSLA) exploration-plan approval process, including approval, after necessary modifications, of a compliant plan within thirty days of submission unless serious harm to life (including aquatic life), property, minerals, national security or defense, or the marine, coastal or human environment cannot be avoided by modification and requires disapproval. The Government's refusal to provide that approval because of the Outer Banks Protection Act's (OBPA) new conditions breached the undertaking; independent permits and state coastal-consistency requirements do not make the federal promise disappear.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Part I, unanimous.
+
+**Material application:** The leases' term, conditional operating rights and incorporation provisions establish an authorized continuing federal process undertaking. The incorporated sources include OCSLA, sections 302-303 of the Department of Energy Organization Act, existing regulations and the specified limited future regulations; the general catchall does not transfer every later statutory change to the lessees.
+
+**Limits and questions not reached:** Future regulations for waste prevention, resource conservation and correlative rights remain incorporated. Sections 9-10 require approved plans and compliance; section 13 preserves OCSLA suspension and cancellation, and separately suspension on the Defense Secretary's recommendation during war or a national emergency declared by Congress or the President, with just compensation. Section 19 reserves ungranted rights: other geological and geophysical exploration and other-mineral operations may not unreasonably interfere with or endanger lease operations; easements may serve other lands' work or product shipment. A defense designation requires the Defense Secretary and presidential approval; surface operations then require Defense concurrence. A resulting suspension also suspends rentals and royalties, extends the term and carries constitutionally required compensation. None supplies a blanket no-liability reservation. OCSLA permits suspensions at the lessee's request in the national interest, for proper development or transportation facilities and separate suspensions for threatened serious, irreparable or immediate harm to life, property, minerals or the marine, coastal or human environment; neither predicate is newly found merely because further environmental study is useful. A qualifying suspension extends the affected lease or permit for an equivalent period, except when the suspension results from gross negligence or willful violation of the lease, permit or applicable regulations. Approval remains conditional on compliance, necessary modifications and the specified serious-harm exception. Yet Interior's completed evaluation did not supply the legal approval withheld under the new Act. North Carolina made actual objections here; operations still require a lawful state-consistency resolution and separate discharge and drilling permissions. No concurrence or permit entitlement is found.
+
+##### 2. The statutory replacement of the promised process was material repudiation
+
+**Holding:** OBPA's prohibition and new prerequisites materially withdrew an essential part of the bargained-for federal process and constituted repudiation, rather than an ordinary permissible delay under the incorporated terms. That repudiation applies to the four submitted-plan leases and anticipatorily to the same promised future process on the fifth lease, without inventing a submitted plan or missed deadline on that tract.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Material application:** The Act barred the relevant approvals and drilling until the later of October 1, 1991 or forty-five days of continuous congressional session after the required report and certification. Continuity is broken only by adjournment of Congress without a further date, and recesses when either House adjourns for more than three days to a day certain are excluded from the count. The Secretary must consider the scientific panel and explain disagreements, but the panel has no absolute veto. The Court does not treat the gate as forty-five calendar days or an indefinite ban, or attribute every later delay to it.
+
+**Limits and questions not reached:** The same repudiation reaches the fifth lease anticipatorily despite the absence of a submitted plan for it. Congress retains regulatory power; the decision establishes financial responsibility for the particular assumed risk, not a rule that every delay or unfavorable enactment is total repudiation.
+
+##### 3. Restitution does not require proof that the project would have earned profits
+
+**Holding:** After this material repudiation, the injured lessees may elect restoration of consideration paid for the promised performance without proving that all independent approvals would have been obtained or profitable production would have occurred. Independent regulatory obstacles bear on the actual bargain and any cognizable benefit accounting, but do not automatically defeat restitution by making expectation profits unprovable.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Limits and questions not reached:** Independent state objections and permits remain relevant to the actual bargain and accounting. The Court guarantees no profitable production and finds no statutory cancellation or entitlement to OCSLA cancellation compensation.
+
+##### 4. The supplied continued-performance defense does not bar restoration
+
+**Holding:** Urging the repudiating party to perform, submitting the requested plan, pursuing independent approvals or seeking extensions does not by itself surrender the injured party's restitution election. Acceptance of significant substituted performance may matter, but the documented acts here do not establish acceptance of the withheld federal process as fulfilled or a waiver of restoration.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Material application:** The companies' submission, unsuccessful override efforts and MOU-related extensions kept the original opportunity alive; they did not obtain the approval process the Government had repudiated. The 1992 restitution suit asserted restoration rather than relinquishing it. Administrative work and additional lease time are not denied; they remain relevant at their lawful scope without being treated as performance of the withheld undertaking. The record also distinguishes earlier rent-free suspensions from the June 1995 letter's rent-bearing, five-year-capped suspension. No later renewal, continuous rent exemption or payment history through decision is assumed.
+
+**Limits and questions not reached:** The Court finds no unproved retraction, settlement, abandonment, forfeiture of a preservation objection or attribution of every act by one petitioner to the other. It does not reopen entitlement merely to decide an unsupported election theory.
+
+##### 5. The monetary remand is confined to genuine restoration and amount questions
+
+**Holding:** The petitioners' restitution entitlement requires return of proved bonus consideration with legally required restoration of corresponding rights and any established lawful credit or offset. The Federal Circuit must resolve its unreached, properly preserved calculation objections on the actual record; recovery of rentals, profits or interest does not follow automatically, and interest requires independent authority.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts II-V; eight Justices, with Stevens joining Part I only.
+
+**Operative remedy or transition:** The Court of Federal Claims separately denied rental recovery and, after a benefits hearing, found no cognizable offset established. The Federal Circuit never reached the Government's monetary challenges because it rejected liability. Reversal therefore permits review of genuinely remaining objections; it does not erase the existing benefits determination or command a new evidentiary hearing regardless of what remains disputed. Approximate descriptions of payments cannot substitute for the actual judgment and supported calculations. No decree compels a regulatory approval, invalidates North Carolina's objection, awards speculative production profits or converts OBPA's later repeal into performance at the promised time.
+
+**Treatment of earlier authority:**
+
+- United States v. Winstar Corp. supplies actual-undertaking and assumed-risk responsibility while preserving sovereign regulatory power and separate remedy analysis. Its noncontrolling broad sovereign-acts and unmistakability theories are not made controlling here; the particular continuing promise is clear even under the requirement to identify one unmistakably.
+- Roehm v. Horst supplies anticipatory-repudiation principles and the distinction between urging performance and surrendering a restoration election. It is applied to the essential future process, not every prospective administrative delay.
+- United States v. Behan supplies the distinction between recovery of value after prevented performance and proof of anticipated profits; independent obstacles to profitable production do not erase the restitution claim established here.
+- Pence v. Langdon supplies the distinction between preservation of a restoration right and conduct inconsistent with that election; the Court rejects waiver from the documented acts without assuming an unproved acceptance of significant substitute performance.

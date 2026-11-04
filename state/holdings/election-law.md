@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Election Law
 
@@ -844,6 +844,56 @@ For the superseding-final-judgment holding in Foreman v. Dallas County, June 27,
 
 **Treatment of earlier authority:** Morse and Young require a supported baseline. Clark supplies prospective nonuse; Monterey and Young require relief fitted to lawful remedial authority.
 
+#### Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board, 528 U.S. 320 (2000)
+
+**Docket or dockets:** Nos. 98-405 and 98-406.
+**Decided:** January 24, 2000.
+
+##### Whether a plan's continuing benchmark consequence preserves a live preclearance controversy
+
+**Holding:** A preclearance dispute remains live when the challenged plan's legal status has a concrete continuing consequence for the lawful benchmark used to assess a later covered voting change. The 1992 plan has that consequence here, notwithstanding the completed election and anticipated replacement; the rule does not make every superseded plan perpetually reviewable.
+
+**Proposition-level authority:** Breyer's Part I, unanimous.
+
+**Limits and questions not reached:** The actual benchmark consequence suffices without assuming a vacancy election, failure to replace the map or entitlement to a special election.
+
+##### Whether conceded nonretrogression resolves the independent purpose question
+
+**Holding:** Section 5's effects prong asks whether a covered change worsens protected voters' effective electoral position relative to the lawful operative benchmark. The conceded nonretrogression defeats this plan's effects objection; preservation of dilution, a feasible more favorable alternative or possible section 2 liability does not substitute for retrogression or resolve unlawful purpose.
+
+**Proposition-level authority:** Breyer's Part II, unanimous at its effects and separate-purpose scope.
+
+**Limits and questions not reached:** The lawful operative benchmark remains distinct from a feasible more favorable plan. No section 2 liability, maximization requirement or proportional-representation entitlement is determined.
+
+##### Whether the prior mandate permits renewed use of a retrogressive-purpose-only inquiry
+
+**Holding:** The May 12, 1997 mandate controls these appeals: section 5 bars a voting change adopted with an unconstitutional racial purpose to deny or abridge voting opportunity even if that purpose does not include worsening the benchmark. The jurisdiction retains its burden to establish absence of prohibited purpose; racial awareness, dilution, rejection of a feasible alternative or possible section 2 liability alone is not conclusive.
+
+**Proposition-level authority:** Breyer's Part III, joined by all nine at its mandate-enforcement scope. O'Connor, Scalia, Kennedy and Thomas retain their original reservations about the broader statutory rationale; the original five-Justice holding remains that rule's source.
+
+**Limits and questions not reached:** Arlington Heights contextual evidence retains its relevance without any single item becoming presumptive proof. Legitimate administrative reasons do not themselves establish that the identical plan would have been chosen without prohibited purpose.
+
+##### Whether the developed purpose record requires denial of the 1992 plan
+
+**Holding:** On the combined record, the Board has not established absence of the unconstitutional purpose to preserve racial dilution, and its 1992 plan must be denied preclearance in both appeals. Even assuming a same-decision defense is legally available, the Board has not established that independently sufficient lawful reasons would have produced this identical plan; no controlling rule here decides that defense's ultimate statutory availability or creates a new proof quantum.
+
+**Proposition-level authority:** Breyer's Part IV, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct votes. The other four would vacate and remand for a proper purpose finding.
+
+**Limits and questions not reached:** The combined history, adoption sequence and departures defeat the Board's burden, while actual precinct-administration concerns and disputed evidence retain their qualifications. Any broader no-purpose finding is clearly erroneous; an unperformed broader inquiry does not require another opportunity on this developed record. The legal availability of a proved same-decision defense remains unresolved.
+
+**Operative remedy or transition:** Reverse both preclearance judgments and remand with directions to deny clearance to the 1992 plan, rather than conduct another open-ended purpose inquiry. No new map, racial percentage, additional district, special election, damages or independent injunction is ordered. Completed-election consequences and a separate section 2 action are unadjudicated.
+
+**Treatment of earlier authority:**
+
+- Reno / Price v. Bossier Parish School Board (May 12, 1997): enforces its same-case mandate requiring broader unconstitutional-purpose review and relevant contextual evidence, with the jurisdiction's burden intact. Its separate effects benchmark, independent section 2 action and existing nonincorporation rule remain unchanged; the earlier reservations are not converted into new assent to every rationale.
+- Beer v. United States; City of Lockhart v. United States: apply the retrogression comparison for effects without narrowing the independent purpose rule or reconsidering Beer's correctness.
+- Village of Arlington Heights v. Metropolitan Housing Development Corp.: applies contextual intent evidence and preserves the distinction between real lawful interests and an identical-decision showing. Its causation analogy does not itself establish a section 5 defense.
+- City of Pleasant Grove v. United States; City of Richmond v. United States: retain the independent prohibition on unlawful purpose despite nonretrogressive effects.
+- Johnson v. De Grandy; Shaw v. Reno (June 28, 1993): preserve the separate section 2 predicates, rejection of automatic maximization and distinction between purposeful dilution and racial awareness or district design alone. Neither a feasible alternative nor possible section 2 liability decides purpose by itself; designated preclearance-review channels remain intact.
+- Mt. Healthy City School District Board of Education v. Doyle: supplies a causation analogy only; the Court does not hold its defense automatically available in statutory preclearance.
+- Texas v. Lesage (November 29, 1999): preserves the distinction between an equal-process injury and the causation required for particular admissions remedies; its same-decision rule is not transplanted into section 5.
+- Adarand Constructors, Inc. v. Slater (January 12, 2000): applies the distinction between an uncertain future change and an established end to a concrete legal stake; its certification and program questions remain distinct. Friends of the Earth v. Laidlaw likewise supplies the need for a genuinely ended controversy without deciding this statutory benchmark.
+
 ### Districting consent decrees and preserved claims
 
 #### Lawyer v. Department of Justice
@@ -1628,3 +1678,267 @@ The preliminary injunction continues for plaintiffs, plaintiff-intervenors and t
 The demographic and disclosure rulings are sustained by seven direct votes: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Scalia and Thomas express only conditional agreement if the dilution framework is applied. Those positions do not supply direct joins in the evidence holding or the numerical rule.
 
 Vacatur concerns the categorical sub-fifty bar. The lower courts must assess the functional route on the preserved admissible record and any supplementation independently permitted under ordinary procedure. They must then consider the remaining statutory conditions and totality if necessary. No liability, district, election system, new trial or automatic survey admission follows. The claim may still fail.
+
+### Territorial legislative representation
+
+#### Rayphand v. Sablan / Torres v. Sablan
+
+**Docket or dockets:** No. 99-475, one direct appeal; below No. 97-0029, 95 F. Supp. 2d 1133.
+**Decided:** December 13, 1999.
+
+##### Whether the expressly protected federal territorial settlement may retain one equal-island chamber
+
+**Holding:** The constitutional requirements for this unincorporated territory permit Congress's express accommodation of equal municipal representation in one chamber alongside a population-based other chamber. This specific protected territorial arrangement does not violate equal protection merely because it would fail the population rule governing both chambers of an ordinary State legislature.
+
+**Proposition-level authority:** Kennedy's merits portion, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices. Stone-Zsela joins jurisdiction only.
+
+**Material application:** Covenant section 203(c) requires equal municipal representation; section 501(b) preserves that settlement against simple transplantation of section 501(a)'s as-if-a-State language. The territorial relationship, local self-government and population-based other chamber support the constitutional accommodation; mutual consent alone cannot waive individual rights.
+
+**Limits and questions not reached:** The Court holds neither that equal protection is inapplicable in territories nor that every territorial departure survives. An ordinary State or municipality cannot invoke this founding arrangement as permission for the same inequality. No universal historical-bargain exception, numerical deviation threshold, wholesale endorsement of every territorial precedent, or finding that union would otherwise have been impossible is adopted.
+
+**Operative remedy or transition:** Affirm denial of the requested injunction. No map, seat count, special election, ouster or invalidation of past legislation is ordered.
+
+**Treatment of earlier authority:** Reynolds and Board of Estimate retain their state/local population rules but do not decide this federal territorial settlement. Verdugo-Urquidez supplies context-sensitive territorial analysis; El Vocero rejects a blanket territorial exemption. Shaw and the Miller group preserve actual participation claims without deciding this merits issue. Atalig and Wabol are lower-court analyses, not adopted Supreme Court holdings.
+
+
+For direct appellate jurisdiction in Rayphand / Torres, December 13, 1999, No. 99-475, see Federal Courts — Territorial apportionment and direct appellate jurisdiction.
+
+### Territorial election statutes
+
+#### Gutierrez v. Ada, 528 U.S. 250 (2000)
+
+**Docket or dockets:** No. 99-51.
+**Decided:** January 19, 2000.
+
+##### Which votes form the Guam gubernatorial-majority denominator
+
+**Holding:** Under 48 U.S.C. §1422, a gubernatorial slate obtains the required majority when it receives more than half the votes cast for Governor and Lieutenant Governor jointly; general-election ballots expressing no choice in that contest are excluded from this denominator. If no slate receives a majority of those votes, the statute requires a runoff on the fourteenth day between the slates receiving the highest and second-highest vote totals; the ruling does not decide invalid candidate votes, fraud or materially different statutory language.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The established slate received a majority of gubernatorial votes. Votes in unrelated contests do not enlarge the denominator; invalid candidate votes, fraud, materially different statutory language and a general constitutional majority requirement remain outside the holding.
+
+**Operative remedy or transition:** Reverse the runoff order and remand for recognition of the existing certified slate's statutory majority under the correct denominator. No additional certificate, new election, hearing or independent final-officeholding decree is ordered.
+
+**Treatment of earlier authority:**
+
+Rayphand v. Sablan / Torres v. Sablan (December 13, 1999) remains confined to its territorial constitutional accommodation and does not construe this Guam election provision. No earlier constitutional election rule is changed or a territorial franchise exception created.
+
+### Candidate contribution limits
+
+#### Nixon v. Shrink Missouri Government PAC, 528 U.S. 377 (2000)
+
+**Docket or dockets:** No. 98-963.
+**Decided:** January 24, 2000.
+
+##### Whether Missouri justified the presented indexed statewide contribution ceiling
+
+**Holding:** Under Russell, government must justify a direct candidate-contribution ceiling by an objectively grounded, sufficiently important corruption or appearance interest and a close fit that preserves meaningful association and effective campaign advocacy. Missouri meets that burden for the presented $1,075 statewide/state-auditor ceiling, indexed biennially from the January 1, 1995 $1,000 base and rounded to the nearest $25; this record-specific ruling establishes no dollar floor, safe harbor, other-office approval or immunity from a future materially different suppression challenge.
+
+**Proposition-level authority:** O'Connor's opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices.
+
+**Limits and questions not reached:** The combined identified gift-related risk and supported practical campaign capacity satisfy the government's burden despite serious contrary spending and competition trends. Allegations are not findings of completed exchanges, and the contributor-count statistic does not measure contributed dollars or the effect of this ceiling. No literal-impossibility burden is placed on challengers, ordinary donor agreement or access is not sufficient by itself, and indexing supplies no safe harbor.
+
+**Operative remedy or transition:** Reverse the presented invalidation and remand for judgment for state officials; vacate the pending-appeal restraint against this ceiling only insofar as it remains operative. No other office tier, replacement amount, retrospective enforcement liability, refund or damages is decided.
+
+**Treatment of earlier authority:**
+
+- Russell v. Burris (April 28, 1999): applies its sufficient-interest, close-fit and meaningful-association rule and its government burden. Its invalidation of the named statewide $300 and appellate-office $100 ceilings remains effective; neither those outcomes nor its sustained residual/PAC applications establish a monetary floor or automatic analogy to this category.
+- Buckley v. Valeo: retains the distinction between candidate contributions and independent expenditures, but does not replace Russell with a presumption of validity or a fixed federal-dollar benchmark.
+- Day v. Holahan (May 15, 1995): preserves meaningful pooling and actual circumvention fit for intermediary receipt restrictions; other associations or aggregate political success do not automatically cure a burden on the chosen association.
+- Colorado Republican Federal Campaign Committee v. FEC (June 26, 1996): preserves genuinely independent party expression and its actual-connection inquiry; it does not immunize direct candidate cash or decide this ceiling.
+
+### Racial ancestry and the public franchise
+
+#### Rice v. Cayetano, 528 U.S. 495
+
+**Docket or dockets:** No. 98-818.
+
+**Decided:** February 23, 2000.
+
+##### Racial ancestry cannot define the electorate for public state office
+
+**Holding:** A State may not restrict the electorate for public state office by racial ancestry on the ground that the office serves a particular beneficiary community. Hawaii's ancestry qualification for voting in the public OHA trustee election violates the Fifteenth Amendment and may not be enforced against otherwise qualified voters.
+
+**Proposition-level authority:** Justice Thomas's opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia and Kennedy. Those five directly adopt this rule and its explanation. Souter and Breyer support reversal on a distinct ground stated separately; their judgment votes do not enlarge the Court opinion's coalition.
+
+**Material application:** The public OHA electorate uses the broader Hawaiian definition covering descendants of the pre-1778 aboriginal peoples, not the narrower one-half-ancestry native-Hawaiian benefit class. In this setting ancestry operates as race despite imperfect correspondence with present identity or absence of hostility. Public trustees' beneficiary responsibilities do not make their election an internal tribal election.
+
+**Limits and questions not reached:** The Fourteenth Amendment claim, tribal membership, genuine sovereign tribal elections, federal recognition power, benefit eligibility, OHA programs and trusts, candidate qualifications and the separate sovereignty ballot are not decided. The Court prescribes no blood quantum or replacement election design and invalidates no earlier trustee act.
+
+**Operative remedy or transition:** The Ninth Circuit is reversed and the matter remanded for relief preventing the ancestry exclusion and permitting otherwise qualified voters to participate. Seven support that judgment; only the five identified Court-opinion joiners supply its public-state-election rationale.
+
+**Treatment of earlier authority:**
+
+- Gomillion v. Lightfoot: applied; state control of electoral structure remains limited by the prohibition of racial disfranchisement.
+- Morton v. Mancari: distinguished; its political and self-government rationale remains valid but does not authorize this ancestry restriction in a public state election.
+- Salyer Land Co. v. Tulare Lake Basin Water Storage District: distinguished; its special-purpose vote-weight holding creates no racial-franchise exception.
+- Ball v. James: distinguished on the same vote-weight versus racial-exclusion distinction; its proper special-purpose field remains.
+- Shaw v. Reno: its design-only boundary is preserved and distinguished from Rice's personal exclusion from the electorate.
+- Miller and consolidated cases: their separation of territorial predominance from independently cognizable unequal participation is preserved.
+- Adarand Constructors v. Peña: its substantial-justification rule in equal protection remains; it does not displace the Fifteenth Amendment's separate prohibition.
+- Hopwood v. Texas: its application of the equal-protection standard remains distinct from eligibility to vote in a public election.
+- Rayphand v. Sablan / Torres v. Sablan: its confined territorial accommodation is distinguished; it supplies no exception for this State's ancestry restriction.
+
+
+
+### Equal nomination opportunity and confined relief
+
+#### Reform Party of Allegheny County v. Allegheny County Department of Elections
+
+**Docket or dockets:** Third Circuit Nos. 96-3677 and 97-3359; no separate Supreme Court docket supplied. The judgment below is reported at 174 F.3d 305.
+**Decided:** April 10, 2000.
+
+##### II. Timely minor-party nomination requires a justification for unequal treatment
+
+**Holding:** When Pennsylvania permits major parties to cross-nominate for common-pleas judge, Philadelphia Municipal Court judge, Philadelphia Traffic Court judge, elective school director and justice of the peace, it may not reject an otherwise qualifying minor party's pre-primary nomination solely because the candidate filed major-party petitions or later won those primaries without a sufficient justification for that unequal burden. The court evaluates the actual voting and associational burden, the precise regulatory interests, and their fit; severe restrictions require narrow tailoring to compelling interests, while reasonable nondiscriminatory restrictions ordinarily may rest on important regulatory interests.
+
+**Proposition-level authority:** All nine Justices join Part II of Justice Breyer's opinion.
+
+**Material application:** Childress filed before the primaries and won both major-party nominations. The asserted sore-loser, party-support and candidate-generation interests do not justify withholding the minor party's corresponding nomination opportunity in that application.
+
+**Limits and questions not reached:** The Court retains deletion of the independent associational declaration and establishes neither a suspect class nor a new fixed tier of scrutiny. It decides no universal fusion right, post-primary nomination entitlement, duplicate-vote right, party-specific total or ballot design. Lawful neutral deadlines, support and consent requirements remain available.
+
+##### III. Relief in Childress must follow the application proved
+
+**Holding:** Childress's timely-filing violation supports relief against that unequal application, not an unconditional entitlement to add a nomination after the major-party primaries. The unqualified prospective relief is vacated only insofar as it lies within Childress review, and the lower court must confine that relief while preserving final obligations outside the appeal.
+
+**Proposition-level authority:** Part III of Justice Breyer's opinion is joined by Justices O'Connor, Scalia, Kennedy and Thomas and controls with five votes.
+
+**Operative remedy or transition:** Prospective relief is vacated only to the extent lawfully before the Court in Childress's appeal. The lower court must identify the relationship between the decrees and confine the reviewed relief to the timely-filing violation without dissolving independent final obligations. Pennsylvania severability preserves valid applications unless inseparably dependent on the invalid part or unable to operate consistently with legislative intent. The mandate does not itself restore post-primary enforcement or reopen an election.
+
+**Treatment of earlier authority:**
+
+- Anderson and Burdick are applied for review of actual burdens, asserted interests and fit; their calibrated election review remains in force.
+- Timmons is distinguished by Pennsylvania's unequal permitted nomination opportunity. Its particular Minnesota holding remains intact and is not enlarged into universal fusion approval or prohibition.
+- Norman is applied to independently qualified party participation and the continuing election controversy; meaningful support rules remain available.
+- Storer, Jenness and Munro retain their allowance for preventive election administration; that allowance does not dispense with a justification for the distinction imposed here.
+
+For the separate Rule 60(b)(6) finality holding in Reform Party, April 10, 2000, Third Circuit Nos. 96-3677 and 97-3359, see Federal Courts — Relief from final judgments.
+
+
+
+### Political-committee and independent-issue-expenditure coverage
+
+#### North Carolina Right to Life, Inc. v. Bartlett
+
+**Docket or dockets:** No separate Supreme Court docket supplied; review of 168 F.3d 705 (4th Cir. 1999).
+**Decided:** May 1, 2000.
+
+##### Incidental influence on elections cannot trigger this full political-committee regime
+
+**Holding:** North Carolina may not impose its full political-committee registration, recordkeeping and continuing reporting regime on an issue organization lacking a major electoral purpose merely because some communications discuss candidates or incidentally influence an election. Section 163-278.6(14)'s primary-or-incidental-purpose and election-influence coverage is facially invalid for its substantial reach into genuine independent issue discussion without a determinate electoral-financing boundary.
+
+**Proposition-level authority:** Souter's unanimous Opinion of the Court.
+
+**Limits and questions not reached:** Actual candidate financing remains subject to its own transaction predicates. Sponsor, candidate and party disclosure, lawful coordinated-spending rules and committee treatment of organizations with a major electoral purpose are preserved; NCRLPAC’s separate conduct is not attributed to NCRL.
+
+##### The expenditure provisions lack a sufficiently definite electoral-advocacy boundary
+
+**Holding:** North Carolina may not prohibit genuine independent issue advocacy under §163-278.6(16)'s political-purpose language, as used by §§163-269 and 163-278.19, merely because the speech seeks to influence an election. Regulated expenditure coverage must supply a sufficiently definite electoral-advocacy boundary; the present general influence formula and nonbinding narrowing assurance do not do so.
+
+**Proposition-level authority:** Souter's unanimous Opinion of the Court.
+
+**Limits and questions not reached:** The Court does not decide the exact second guide's lawfulness under a different, sufficiently definite rule; create an organization-wide major-purpose exemption for actual candidate financing; rule on every contextual definition; import federal dollar thresholds or membership exclusions into state law; decide NCRL's direct corporate candidate-giving rights; or reopen the session restrictions and donor-identification declaration outside the grant.
+
+**Operative remedy or transition:** The existing facial invalidation of §163-278.6(14) and the relief against independent-issue-expenditure coverage remain in force within the grant. Independent direct-corporate-gift, session contribution/solicitation and donor-identification components receive no new merits determination.
+
+**Treatment of earlier authority:**
+
+- Buckley v. Valeo, 424 U.S. 1, supplies the distinction between genuine issue discussion and electoral financing; its protection does not require a single mandatory vocabulary, and its distinct campaign-finance disclosure holdings remain in force.
+- FEC v. Massachusetts Citizens for Life, Inc., 479 U.S. 238, preserves the independent-expression boundary and its separate protection based on an organization's actual characteristics. It is not enlarged into a categorical direct-candidate-gift exemption.
+- Akins v. FEC, June 25, 1997, remains governing for genuinely covered candidate financing and actual transaction predicates. The present relief does not replace that holding with the lower court's categorical organizational exemption or determine a covered NCRL transaction.
+- FEC v. Maine Right to Life Committee, Inc., September 14, 1998, retains its actual-controversy holding, cumulative limited-context statutory construction and unresolved constitutional questions. No new endorsement of its disputed contextual rationale or judgment about the present guide is necessary to today's common ground.
+- Clifton v. FEC, September 14, 1998, applies at its independent-inquiry boundary; real campaign services retain their own requirements, and the decision is not converted into a universal bar on fitted contact or reporting safeguards.
+- Day v. Holahan and Kentucky Right to Life, Inc. v. Stengel preserve the distinction between fact-dependent nonprofit independent-spending protection and direct candidate contributions. Their different subjects are not resolved by the present issue-speech holding.
+- McIntyre v. Ohio Elections Commission preserves individual anonymous leaflets without determining every organizational disclosure duty. Russell v. Burris and Nixon v. Shrink Missouri Government PAC preserve their contribution-limit rules without supplying the missing expenditure-coverage boundary here.
+
+For the pre-enforcement review holding in North Carolina Right to Life v. Bartlett, May 1, 2000, review of 168 F.3d 705 (no Supreme Court docket supplied), see Federal Courts — Pre-enforcement review of electoral speech restrictions.
+
+### Appointed school boards and withdrawal of existing elections
+
+#### Mixon v. Ohio
+
+**Docket or dockets:** Sixth Circuit No. 98-3368; no separate Supreme Court docket supplied.
+**Decided:** June 5, 2000.
+
+##### Genuine appointment and the municipal electorate
+
+**Holding:** A genuinely appointed school board does not become an elected body because the appointing mayor is elected; residents served by the district but outside Cleveland have no general constitutional entitlement to vote in that mayoral election.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by all eight other Justices; nine direct joins.
+
+**Limits and questions not reached:** Genuine appointment does not exempt the restructuring from other applicable law. An effects allegation neither establishes purposeful discrimination nor supplies a separate purpose claim; no such claim is adjudicated or reopened.
+
+##### A direct withdrawal of an existing election is not categorically outside section 2
+
+**Holding:** Section 2 can reach a direct replacement of an existing lawful election by appointment as a challenged withdrawal of racial political opportunity; the actual former electoral system supplies a practical, legally rooted comparison. Plaintiffs must still establish unequal protected-class opportunity caused by that restructuring under the statutory totality, with genuine institutional interests considered; universal loss of an election alone establishes neither racial inequality nor liability.
+
+**Proposition-level authority:** Part II of Souter's opinion has six direct joins: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. The five Associates also join Part III's reversal and ordinary remand; Stone-Zsela favors vacatur of the same categorical dismissal.
+
+**Limits and questions not reached:** No section 5 preclearance or private section 1971 ruling is made. No separate purpose claim is created or remanded, and no racial-purpose finding, proportional-election entitlement, new presumption or compulsory electoral remedy follows.
+
+**Material application:** The former lawful election supplies the available institutional comparison; it establishes no perpetual duty to preserve elections or superiority of the old system. Educational reform, the actual appointment structure and the required future referendum remain relevant. Racial inequality, causation and statutory totality must be proved independently.
+
+**Material judgment:** The categorical section 2 dismissal is reversed and remanded by Stevens, O'Connor, Souter, Ginsburg and Breyer. Stone-Zsela joins the controlling coverage rule but would vacate and remand; Scalia, Kennedy and Thomas would affirm. Genuine appointment and the extraterritorial mayoral-vote disposition are preserved unanimously.
+
+**Operative remedy or transition:** The section 2 claim returns for ordinary proceedings under the coverage and comparison rule. The lower courts retain the remaining pleading, proof and independent-ground issues. All other actual dispositions remain undisturbed except consequences necessarily affected by the statutory correction. No separate purpose proceeding, mandatory hearing, particular board structure or immediate election is directed.
+
+**Treatment of earlier authority:**
+
+- **Holder v. Hall:** Extends its structural-coverage and independently rooted comparison principles to this direct withdrawal; retains separate injury and remedy requirements.
+- **Presley v. Etowah County Commission:** Preserves its section 5 voting/governing boundary; the reserved replacement question and independent section 2 inquiry are distinct.
+- **Chisom v. Roemer** and **Houston Lawyers' Association:** Preserve ordinary appointment choices while separating statutory coverage, genuine institutional interests and proved unequal opportunity.
+- **Johnson v. De Grandy:** Applies independent totality and rejection of racial maximization or conclusive ratios.
+- **Valdespino v. Alamo Heights Independent School District:** Preserves its district-capacity requirements without transferring them mechanically to election withdrawal.
+- **Sailors v. Board of Education** and **Holt Civic Club v. Tuscaloosa:** Apply genuine-appointment and municipal-electorate distinctions.
+- **Kramer v. Union Free School District** and **Hadley v. Junior College District:** Preserve equality within actual elections without requiring an elected board here.
+- **Arlington Heights v. Metropolitan Housing Development Corp.** and **Personnel Administrator v. Feeney:** Preserve the elements of an actual intentional-discrimination claim, without deciding an unestablished count.
+- **Rice v. Cayetano:** Its protection against racial exclusion from an existing public ballot does not establish a duty to hold this election.
+
+The distinct defendant-immunity question is stated in the primary Federal Courts entry, Defendant-specific immunity in election-withdrawal litigation, for this case, Sixth Circuit No. 98-3368, decided June 5, 2000.
+
+### Official party nominees and compulsory outsider participation
+
+#### California Democratic Party v. Jones, 530 U.S. 567 (2000)
+
+**Docket or dockets:** No. 99-401.
+
+**Decided:** June 26, 2000.
+
+##### 1. Compulsory outsider selection of an official party nominee imposes a severe burden
+
+**Holding:** A State severely burdens political association when it requires an objecting party to give voters unaffiliated with that party equal participation in choosing its official nominee through this blanket-primary mechanism. The requirement therefore must be narrowly tailored to serve a compelling state interest; ordinary authority to administer elections does not alone supply that justification.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins.
+
+**Material application:** The burden concerns the legally designated nominee: retaining endorsement and advocacy does not restore the party's selection choice. Sincere crossover can matter without organized raiding; neither organizational collapse nor a universal numerical threshold is required.
+
+**Limits and questions not reached:** The rule does not decide conventional open primaries, every registration condition, national-delegate arrangements or an independent Elections Clause claim. Constitutional voting protections continue to limit party exclusion.
+
+##### 2. The asserted interests do not justify this compulsory nomination mechanism
+
+**Holding:** The interests advanced for Proposition 198 do not justify its severe interference with the objecting parties' nomination choices. Participation, choice, competition, privacy and stable elections may support appropriate election rules, but the State has not established a compelling justification and necessary fit for imposing equal outsider participation in the party's own official selection.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins.
+
+**Limits and questions not reached:** Nonpartisan candidate winnowing and a party's voluntary invitation illustrate less intrusive possibilities without validating every implementation. The Court does not invalidate all efforts to increase turnout, competition or choice.
+
+##### 3. Relief follows the nomination defect and does not decide other election systems
+
+**Holding:** The defense judgment must be reversed and the case remanded for declaratory and prospective injunctive relief against compulsory blanket selection of these objecting parties' official nominees. The ruling leaves ordinary election administration and constitutional voting protections intact and reserves the validity of unpresented primary designs and any remaining severability or implementation questions.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins.
+
+**Operative remedy or transition:** The case returns through the Ninth Circuit for declaratory and prospective injunctive relief confined to the unconstitutional compulsory nomination mechanism and any ordinary implementation questions properly remaining. No new election, damages award or statutory replacement is ordered. State and congressional nominations receive the same disposition; national-delegate arrangements and the amended presidential reporting provisions are not adjudicated.
+
+**Treatment of earlier authority:**
+
+- Tashjian v. Republican Party of Connecticut supplies protection for meaningful party associational choices within a regulated electoral system; this decision does not adopt an unlimited power of party leaders to override members.
+- Eu v. San Francisco County Democratic Central Committee supplies the protection against state control of party governance and political choice; ordinary election administration remains available.
+- Democratic Party v. Wisconsin ex rel. La Follette supplies protection against forced participation inconsistent with protected party selection rules; the present decision applies that principle to the challenged official nominations without deciding national-delegate questions.
+- Burdick v. Takushi supplies burden-sensitive review of election regulations. The severe burden here triggers compelling-interest and narrow-tailoring review rather than the lesser justification sufficient for ordinary mechanics.
+- Timmons v. Twin Cities Area New Party remains controlling as to its nonfusion restriction. Its retained means of choosing a consenting nominee distinguish it from compelled outsider participation in the actual choice.
+- Reform Party of Allegheny County v. Allegheny County Department of Elections retains its equal-access holding concerning a timely consensual cross-nomination and its limits on the independent association issue. It does not itself decide the present public-primary question.
+- Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston supplies protection for the composition of private expression, with its actual limits; this decision neither exempts ordinary services from neutral regulation nor classifies every regulated association as private expression.
+- The white-primary decisions, including Smith v. Allwright and Terry v. Adams, retain their prohibitions on unconstitutional exclusion from electoral processes. Associational protection supplies no exemption from those constitutional commands.

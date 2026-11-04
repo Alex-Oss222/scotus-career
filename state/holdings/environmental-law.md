@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Environmental Law
 
@@ -354,3 +354,50 @@ For Bennett v. Spear, No. 95-813, decided March 19, 1997, the personal-injury ho
 
 - **Key Tronic Corp. v. United States, June 6, 1994:** Applied for attention to the actual statutory function; its response-cost and fee rules are not enlarged.
 - **Peacock v. Thomas, February 21, 1996:** Distinguished in its separate judgment-collection jurisdiction setting; its distinction between derivative liability and an independently founded duty informs the two routes here.
+
+
+
+### Grazing priority, permitted use and applicant qualifications
+
+#### Public Lands Council v. Babbitt, 529 U.S. 728 (2000)
+
+**Docket or dockets:** No. 98-1991.
+**Decided:** May 15, 2000.
+
+##### Grazing preference and permitted use
+
+**Holding:** The Secretary may define grazing preference as priority against competing permit or lease applicants attached to owned or controlled base property and specify the forage allocation separately as permitted use. This distinction does not vest a fixed forage quantity, eliminate the Taylor Grazing Act's adequate-safeguarding command, or authorize a particular unlawful reduction or cancellation.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls each of the three holdings and every stated operative qualification. The concurrences withhold no join.
+
+**Limits and questions not reached:** Recognized grazing privileges must be adequately safeguarded so far as consistent with the Act. Its protection of water rights, permit duration and renewal remains; a compliant permittee's renewal cannot be denied where denial would impair the value of a grazing unit pledged as security for a bona fide loan. A permit itself creates no right, title, interest or estate in federal land, but that provision extinguishes no independently existing right.
+
+The ordinary permitted-use rule includes authorized livestock use and suspended use. Designated ephemeral ranges, where authorization depends on forage availability, and designated annual ranges retain their different treatment; an applicable land-use or activity plan may prescribe vegetation standards instead of the ordinary forage-allocation measure. Changes in permitted use require monitoring, field observations, ecological inventory or other acceptable data. Ordinary reductions or management changes require consultation, cooperation and coordination with the affected permittee or lessee, the State and interested public, followed by documented agreement or a proposed decision.
+
+If soil, vegetation or other resources need immediate protection because of conditions such as drought, fire, flood or insect infestation, or continued grazing presents an imminent likelihood of significant resource damage, the officer must close the affected area or modify use after consultation or a reasonable attempt to consult the specified participants. The notice may be a final decision effective on issuance or its specified date, remaining effective during appeal unless the Office of Hearings and Appeals grants a stay under 43 C.F.R. §4.21. This exception does not erase the ordinary route.
+
+##### Deletion of the commercial-livestock-business qualification
+
+**Holding:** The Secretary may remove engagement in a commercial livestock business as a universal regulatory prerequisite for a grazing permit. The deletion preserves §3's eligibility for bona fide settlers, residents and other stock owners who meet lawful regulatory qualifications, together with its distinct preferences; it does not grant an unrestricted stock-free or conservation-only permit entitlement.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls each of the three holdings and every stated operative qualification. The concurrences withhold no join.
+
+**Limits and questions not reached:** Section 3 separately prefers nearby landowners engaged in the livestock business, bona fide occupants or settlers, and owners of water or water rights where necessary for proper use of their property. Permits remain limited to United States citizens, persons who have filed the required declarations of intention, and groups, associations or corporations authorized to do business under the relevant State's law. Base-property and other lawful qualifications remain. Where an acquisition agreement, Act or Executive Order requires recognition of existing permits or leases on acquired land, their acquisition-date terms remain applicable; this decision creates no exemption from those instruments.
+
+If substantial authorized use has not occurred for two consecutive grazing fee years, **or** water base property has not been maintained or used in the grazing operation, the officer **may** cancel the amount of permitted use not made after consultation, coordination and cooperation with the permittee or lessee and any recorded lienholder. Cancellation is discretionary, and the two-year condition is not added to the separate water-base ground.
+
+Temporary nonuse requires conformity with the applicable land-use, allotment-management or other activity plan and rangeland-health rules, stated reasons and annual approval; it may continue for no more than three consecutive years. Reasons may include financial circumstances or annual livestock fluctuations. Temporarily available forage may be offered to qualified others under the governing procedure. These provisions neither validate permanent abandonment of grazing nor restore the conservation-use rule outside this case.
+
+**Limits and questions not reached:** The facial statutory ruling depends on meaningful preservation of existing active and suspended-use priority; a later unlawful allocation is not approved. The conservation-use invalidation, unpresented arbitrary-and-capricious challenge and individual permit or compensation claims remain outside the judgment.
+
+**Operative remedy or transition:** Affirm the two statutory-authority rulings without a new agency proceeding.
+
+**Treatment of earlier authority:**
+
+- **Smiley v. Citibank (South Dakota), N.A.; Good Samaritan Hospital v. Shalala:** Their allowance of explained change within genuine authority is consistent with these rules; change alone is not invalidity. They do not excuse statutory contradiction, disregarded reliance or inadequate agency reasons, and no general deference question is decided here.
+- **FDA v. Brown & Williamson Tobacco Corp.; Christensen v. Harris County:** Applied the requirement that asserted authority fit the connected statutory scheme. A regulation's form or the desirability of its policy cannot supply a power the statute withholds.
+- **National Railroad Passenger Corp. v. Boston & Maine Corp.:** Preserved its actual-agency-ground rule; the Court does not invent findings or a replacement administrative rationale.
+- **National Mining Association v. Department of the Interior (May 8, 2000):** Applied its discipline of express authority, distinct conditions and actual temporal effect. Its mining-permit correction holding supplies no independent grazing-permit reopening or improvement-taking power.
+- **Allentown Mack Sales & Service, Inc. v. NLRB:** Its whole-record evidentiary rule is not extended to decide the arbitrary-and-capricious question absent from this grant.
+
+For prospective ownership of cooperative improvements in Public Lands Council v. Babbitt, No. 98-1991, May 15, 2000, see Property and Economic Rights — Prospective title to cooperative grazing improvements.

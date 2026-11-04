@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Constitutional Structure
 
@@ -638,6 +638,43 @@ For the separate questions concerning Wyoming's Article III injury and exercise 
 - ASARCO Inc. v. Idaho Tax Commission, 458 U.S. 307 (1982): applied to reject the business-purpose rationale and to treat capital gain under the same nexus rule as dividend income.
 - F. W. Woolworth Co. v. Taxation and Revenue Department, 458 U.S. 354 (1982): applied; no actual integration is shown, and two noncontrolling board seats do not establish centralized operational management.
 - Container Corp. of America v. Franchise Tax Board, 463 U.S. 159 (1983): distinguished on the facts; its operational finance and services are absent. Its taxpayer burden and review for use of the correct legal standard remain governing; duration alone is not made a constitutional test.
+
+#### Hunt-Wesson, Inc. v. Franchise Tax Board of California, 528 U.S. 458
+
+**Docket or dockets:** No. 98-2043.
+
+**Decided:** February 22, 2000.
+
+##### An expense adjustment must respect the constitutional tax base
+
+**Holding:** Under the Due Process and Commerce Clauses, a State may not enlarge a nondomiciliary corporation's taxable unitary income through an interest-deduction adjustment measured by constitutionally excluded nonunitary receipts unless the adjustment fairly attributes expense to the income it generates. Expenses properly attributable to excluded income need not be deducted from taxable income, and a supported reasonable allocation may establish that attribution without tracing every borrowed dollar.
+
+**Proposition-level authority:** Justice Kennedy's opinion of the Court, joined in full by the other eight Justices, controls each holding by nine direct votes.
+
+**Limits and questions not reached:** The parties conceded the receipts' lack of an independent California nexus. The taxpayer's clear-and-cogent burden remains; neither a general burden shift nor transaction-by-transaction tracing is required.
+
+##### Section 24344 fails under either proposed construction
+
+**Holding:** The challenged section 24344 mechanism unreasonably allocates borrowing expense by reference to excluded receipts and therefore cannot sustain this assessment. Its defect remains whether the section covers only unitary-business interest expense under the tax forms or all interest expense under California's proposed construction, so the Court need not choose between those readings.
+
+**Proposition-level authority:** Justice Kennedy's opinion of the Court, joined in full by the other eight Justices, controls each holding by nine direct votes.
+
+**Material application:** Section 24344 first offsets interest expense against formula-allocated interest income. The balance is deductible only insofar as it exceeds nonformula interest and dividends; dividends deductible under section 24402 because declared from income included in the specified California tax measure are excepted. The remaining expense offsets nonformula receipts. This receipts-based allocation fails to reflect the borrowing attributable to them, under either proposed construction.
+
+**Limits and questions not reached:** This is neither a ban on all deduction limitations nor an equal-protection ruling. The competing state-law constructions need not be resolved.
+
+**Operative remedy or transition:** The assessment cannot stand on the invalid offset. The state appellate judgment is reversed and remanded for supported allocation, recalculation and corresponding lawful relief; no fixed refund or replacement formula is prescribed.
+
+**Treatment of earlier authority:**
+
+- Allied-Signal: applied to preserve the unitary or operational connection and the separate fair-allocation inquiry; its clear-and-cogent taxpayer burden remains.
+- ASARCO: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- F. W. Woolworth: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- Mobil Oil: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- Container Corp.: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- National Life Insurance Co. v. United States: applied for the rule that a deduction adjustment cannot accomplish forbidden taxation indirectly.
+- Denman v. Slayton: distinguished to preserve reasonable allocation of expenses associated with excluded income; it does not sustain this receipts-based mechanism.
+- First National Bank of Atlanta v. Bartow County Board of Tax Assessors: distinguished to preserve reasonable allocation of expenses associated with excluded income; it does not sustain this receipts-based mechanism.
 
 ### State-tax collection and interstate commerce
 
@@ -1600,6 +1637,49 @@ For the other questions in this decision, see First Amendment — Adult-business
 **Limits and questions not reached:** Section 1397(k)'s compliance saving clause is not held to immunize every common-law action from an actual conflict. The Court does not decide whether tort duties are standards under §1392(d), every effect of the saving clause when a standard exists, or a federal field-wide ceiling. It does not find all air-brake regulation absent, invent an agency policy from an unproduced revision, or decide defect, accident causation, consortium entitlement, wrongful-death recovery, or damages.
 
 **Operative remedy or transition:** The return of the Myrick and Lindsey common-law claims for further proceedings is affirmed. The abandoned Georgia RICO contention, Fruehauf dismissal and stipulated predecessor treatment are undisturbed. Ordinary liability proof and defenses remain.
+
+
+
+#### Geier v. American Honda Motor Co., 529 U.S. 861 (2000)
+
+**Docket or dockets:** No. 98-1811.
+**Decided:** May 22, 2000.
+
+##### I. The express clause does not independently extinguish this saved common-law claim
+
+**Holding:** Former §1392(d), read with §1397(k), does not expressly displace this common-law no-airbag claim merely because the car complied with FMVSS 208. The common-law saving rule defeats categorical compliance immunity without declaring that damages duties can never be state safety standards.
+
+**Proposition-level authority:** Part I of Stone-Zsela's Opinion of the Court, joined by all eight other Justices; nine direct joins.
+
+**Limits and questions not reached:** Section 1392(d) permits enforcement of identical standards and higher performance requirements for vehicles or equipment procured for government use. Section 1397(k) separately saves common-law liability despite compliance; the procurement permission is not transplanted into that provision.
+
+##### II. Preserved common-law claims remain subject to an independently established actual conflict
+
+**Holding:** The presence of the express clause and compliance saving provision does not foreclose an independently demonstrated conflict between a state common-law duty and an operative federal command or supported regulatory objective. Federal compliance, overlapping regulation, agency preference or regulatory silence alone does not establish that conflict.
+
+**Proposition-level authority:** Part II of Stone-Zsela's Opinion of the Court, joined by all eight other Justices; nine direct joins.
+
+##### III. The general no-airbag duty defeats this deliberately chosen transition
+
+**Holding:** The presented general duty to install a driver's airbag is preempted because it would displace FMVSS 208's deliberately retained restraint alternatives and phased transition, which were operative means of promoting safety through development and public acceptance. This conflict sustains dismissal only of that general theory; compliance does not immunize every federally permitted design, and nonconflicting federal-minimum, noncompliance, defective-installation, performance, risk-specific and genuinely model-specific duties remain available when otherwise supported.
+
+**Proposition-level authority:** Part III of Stone-Zsela's Opinion of the Court, joined by O'Connor, Scalia, Kennedy and Breyer; five direct joins. The four partial joiners dissent from this holding and the judgment.
+
+**Material application:** The operative alternatives, phase-in percentages and differentiated incentives supported the chosen development-and-acceptance transition. The conflict requires no fixed technology mix, minimum count of airbag-free vehicles, or command that this Accord lack an airbag. Later safety evidence cannot change the governing historical regulation.
+
+**Limits and questions not reached:** No general motor-vehicle field immunity, fixed technology allocation, binding deference to litigation advocacy, universal all-tort exemption or impossibility-only test is adopted. No Honda-specific production, credit, attribution, due-care or testing fact, and no completed belt-law trigger, is found. The Court neither invalidates the standard nor decides whether an independently presented different duty would conflict.
+
+**Operative remedy or transition:** Affirm dismissal only of the general no-airbag theory. No factual remand, agency proceeding, new claim or determination of ordinary tort elements follows.
+
+**Treatment of earlier authority:**
+
+- **Freightliner Corp. v. Myrick:** Applies its independent actual-conflict inquiry and distinguishes its regulatory absence from this affirmative, operative transition. Its rejection of compliance immunity and unsupported federal purposes remains intact.
+- **Cipollone v. Liggett Group, Inc.:** Applies clause- and duty-specific construction. Its distinct cigarette provisions supply neither a universal tort exemption nor a rule excluding every independent conflict inquiry.
+- **Gade v. National Solid Wastes Management Association:** Preserves the rejection of automatic displacement from regulatory overlap. No separate physical-impossibility formulation becomes the Court's exclusive rule.
+- **Medtronic, Inc. v. Lohr:** Applies the need to compare actual substantive duties and keep interpretive weight within statutory authority. Damages duties can be requirements without every such duty being preempted.
+- **Norfolk Southern Railway Co. v. Shanklin:** Preserves its specific device-selection holding and its distinction from a universal minimum-standard ceiling; this case rests on its own regulatory method.
+- **United States v. Locke / Intertanko v. Locke:** Preserves its subject-specific federal allocation and full enacted saving language. Its national vessel field does not establish a motor-vehicle field immunity.
+- **National Mining Association v. Department of the Interior; Public Lands Council v. Babbitt:** Preserve actual delegated authority, distinct statutory conditions and temporal limits. Neither authorizes later advocacy to manufacture an earlier regulatory objective or to disregard common-law saving language.
 
 ### Congressional control of airport administration
 
@@ -2875,3 +2955,321 @@ No general ownership precedent is overruled. The statutory immobilization conseq
 No earlier Supreme Court decision is overruled. The lower court's affiliation requirement and legal-challenge-only sentencing ground cannot sustain the judgment.
 
 For the other questions in United States v. Wright, decided 1998-10-05, Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket., see Civil Rights, Criminal Procedure.
+
+### Federal regulation of state-held information
+
+#### Reno v. Condon, 528 U.S. 141 (2000)
+
+**Docket or dockets:** No. 98-1464.
+**Decided:** January 12, 2000.
+
+##### Whether the DPPA disclosure class has a sufficient interstate-commerce connection
+
+**Holding:** Congress may regulate disclosure and redistribution of the DPPA's defined personal motor-vehicle information because the enacted distribution class participates in the supported interstate information market. The source-disclosure and private-redisclosure rules reasonably fit that class; Congress need not show that each release is compensated, interstate or independently substantial, but this holding creates no power over every state record or local activity through generalized privacy-related economic consequences.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The regulated class is disclosure and redistribution of identifying information obtained in connection with a state motor-vehicle permit, title, registration or identification-card record. Personal information includes photographs, Social Security and driver-identification numbers, names, addresses other than the five-digit ZIP code, telephone numbers, and medical or disability information; accident information, driving violations and driver status are excluded. Mandatory motor-vehicle-purpose disclosures and the Act's separate permitted-use and consent routes retain their own terms; no particular use or exception is adjudicated. The holding does not rest on generalized privacy costs, add a transaction-specific commerce element, or decide materially different applications, private-treasury liability, sanctions, speech, or an individual information-privacy right.
+
+##### Whether compliance duties for state data holders impermissibly compel state administration
+
+**Holding:** A valid federal law may directly regulate a State's own handling and disclosure of motor-vehicle information and private recipients' redistribution of that information without compelling state legislation or assigning state officers a federal regulatory or coercive-enforcement program against unrelated private persons. The personnel work needed to comply does not itself transform the DPPA into an impermissible command; whether general applicability is constitutionally indispensable or Congress could regulate States alone remains undecided because this scheme also regulates private handlers.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The DPPA assigns no state-legislative or private-person enforcement program. General applicability's constitutional necessity and a States-only scheme remain undecided. Printz/Mack's limited temporary-assistance permission and fiscal reservations are neither extended nor resolved.
+
+**Operative remedy or transition:** Reverse and remand to dissolve the facial permanent injunction and enter judgment for the United States on the Commerce Clause and structural challenge. Dissolution accelerates no statutory duty and establishes no violation or sanction. Section 350(g)'s distinct transitions remain: subsections (a) and (e) generally operate from October 9, 1999, with Wisconsin, South Carolina and Oklahoma allowed 90 days after the final Condon decision; subsections (b)–(d) generally operate June 1, 2000, with Arkansas, Montana, Nevada, North Dakota, Oregon and Texas allowed 90 days from the next legislative convening, and Wisconsin, South Carolina and Oklahoma allowed 90 days after the final decision if in session, otherwise from their next convening after that decision. No legislative-session fact or present default is determined.
+
+**Treatment of earlier authority:**
+
+- United States v. Lopez (April 26, 1995): applies identification of the enacted class and interstate mechanism before magnitude or aggregation; no judicially inserted element, generalized downstream-effects power or traditional-governmental-function immunity follows.
+- Pic-A-State Pennsylvania, Inc. v. Reno (April 28, 1997): applies the distinction between commercial information transmission and merely remote effects on commerce; its particular transaction does not become a DPPA element.
+- United States v. Robinson (March 23, 1998): applies the requirement of a concrete commercial connection before class-wide magnitude; its offense-specific elements and business-asset rule are not imported into the DPPA.
+- National Association of Home Builders v. Babbitt (June 8, 1998): applies the requirement of material support fitted to the enacted class; no new externality or anti-evasion rule is necessary.
+- Garcia v. San Antonio Metropolitan Transit Authority: preserves otherwise valid generally applicable regulation of state activity; immunity for traditional governmental functions is not revived.
+- South Carolina v. Baker: applies direct regulation of the State's own activity despite the work state employees must perform to comply; no duty to regulate others follows.
+- New York v. United States (June 19, 1992): distinguishes its compulsory legislation or ownership/liability arrangement; its state-activity reservation and structural prohibition survive.
+- Printz v. United States / Mack v. United States (June 27, 1997): preserves its confined temporary records-assistance permission and unresolved fiscal objections; the present direct-regulation ground neither requires an extension nor resolves those objections.
+- Paul P. v. Verniero (December 6, 1999): leaves its limited residential-information right and safeguards intact; it supplies no additional enumerated power here.
+- Los Angeles Police Department v. United Reporting (December 7, 1999): leaves its commercial-speech rules and unresolved application intact; this structural judgment decides no speech claim.
+- Kimel / United States v. Florida Board of Regents (January 11, 2000): retains the distinction between regulatory authority and enforcement questions; no DPPA private-treasury or sanction claim is decided.
+
+### Firearm supply restrictions and state staffing
+
+#### Fraternal Order of Police v. United States
+
+**Docket or dockets:** D.C. Circuit No. 97-5304; judgment below, 173 F.3d 898. No Supreme Court docket supplied.
+**Decided:** January 18, 2000.
+
+##### Whether the domestic-violence possession restriction is a fitted part of the valid supply regime
+
+**Holding:** Section 922(g)(9)'s restriction on possession by persons with qualifying misdemeanor convictions for domestic violence is within Congress's Commerce and Necessary and Proper Clause authority because it is a fitted anti-evasion and anti-impairment component of the valid prohibition on supplying firearms and ammunition to that class. This prospective associational judgment establishes no individual's commerce connection; the Government must prove the applicable enacted commerce element in an actual prosecution.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The constitutional supply/recipient relationship does not replace section 922(g)'s distinct enacted shipment, possession and receipt elements. No individual commerce connection, culpability, conviction qualification, restoration or private-possession claim is decided, and section 922(d)(9)'s supply knowledge element is not imported.
+
+##### Whether the firearm disability commandeers state staffing or enforcement
+
+**Holding:** Applying section 922(g)(9) to state and local officers does not commandeer state government where the federal law directly restricts possession and requires no state legislation, termination, investigation, prosecution, firearm seizure or administration of a federal program. The loss of an armed-duty staffing option is a consequence of the valid substantive restriction, not itself a federal command to govern others.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The October 7, 1998 standing, official-use arms and equal-protection holdings remain effective. No actual compulsory administrative instruction or agency action exceeding statutory authority is adjudicated; Printz/Mack's separate limited-assistance and fiscal questions remain intact.
+
+**Operative remedy or transition:** Affirm the return judgment on both preserved constitutional grounds. No individual prosecution, sanction, new injunction or additional factual proceeding is ordered.
+
+**Treatment of earlier authority:**
+
+- Hiley v. Barrett, October 9, 1998 — applied to the fitted recipient/supply mechanism and absence of a state-administration command; neither holding is enlarged.
+- Fraternal Order of Police v. United States, October 7, 1998 — its mandate and settled standing, official-use arms and equal-protection holdings remain fully effective.
+- United States v. Lopez — applied to require an identifiable constitutional connection before aggregate magnitude; no bare jurisdictional-word or remote-movement rule replaces it.
+- United States v. Hale and United States v. Kirk — their necessary-inclusion reasoning supports the identified regulatory relationship; their machinegun holdings supply no universal possession power.
+- New York v. United States — its prohibition of compulsory legislation or ownership and liability, and its preserved field of direct regulation, remain intact.
+- Garcia v. San Antonio Metropolitan Transit Authority and South Carolina v. Baker — applied to distinguish regulation of state activity from compulsory government of others.
+- Reno v. Condon, January 12, 2000 — its direct-regulation distinction is applied without extending its separate information-market holding.
+- Printz v. United States / Mack v. United States — distinguished at its confined records-assistance and reserved fiscal boundaries; no broader compulsory-administration rule follows.
+
+### Federal preemption of vessel and waterway regulation
+
+#### United States v. Locke / International Association of Independent Tanker Owners v. Locke, 529 U.S. 89
+
+**Docket or dockets:** Nos. 98-1701 and 98-1706, consolidated for decision.
+
+**Decided:** March 6, 2000.
+
+##### National vessel standards and local waterway measures require different inquiries
+
+**Holding:** PWSA Title II occupies the assigned national subjects of general vessel design, construction, alteration, repair, maintenance, equipment, operation, manning and personnel qualifications; a State cannot add standards within that field. Genuinely local port and waterway measures outside that assignment require a separate Title I inquiry into operative federal law, actual conflict or an affirmative federal determination that additional regulation is inappropriate; overlap, federal silence and agency preference alone do not displace them.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts I–III, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer; all nine directly adopt these holdings at their stated scope.
+
+**Limits and questions not reached:** Classification turns on actual function, not a spill-prevention label. Federal rules may differ for domestic trade and exceed international standards; cargo types and grades and consultation with governmental and knowledgeable parties remain required. Those federal powers confer no independent state authority within the assigned field.
+
+##### The Oil Pollution Act savings do not repeal the separate vessel regime
+
+**Holding:** Section 2718 preserves its express additional liabilities, requirements, removal measures, funds and penalties against the specified preemptive effects of the Oil Pollution Act, the 1851 Act and 26 U.S.C. §9509, according to each subsection's own terms. It does not repeal the independent PWSA occupation of general vessel subjects or exempt every state regulation bearing an oil-pollution purpose.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts I–III, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer; all nine directly adopt these holdings at their stated scope.
+
+**Limits and questions not reached:** Section 2718(a) preserves state/local oil-discharge and removal liabilities or requirements and Solid Waste Disposal Act/state-law obligations against the Oil Pollution Act and 1851 Act. Paragraph (b) protects state oil-pollution funds and contributions against the Oil Pollution Act and section 9509. Paragraph (c) protects additional governmental liabilities, requirements and discharge-or-threat penalties against all three named enactments. Paragraph (d) creates no individual federal-employee cause of action for official conduct. The savings are not limited to money liability.
+
+##### Training, language and the general watch rules regulate assigned vessel subjects
+
+**Holding:** Washington's comprehensive additional crew-training and drill requirement, WAC 317-21-230; general master/deck-officer language and communication requirements, §317-21-250; and general minimum-watch and fleet bridge-management component of §317-21-200 are displaced as national training, qualification, manning and operation standards. The separate restricted-visibility rule and other unresolved provisions must receive their own classification and any necessary conflict analysis on remand.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Parts I–III, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer; all nine directly adopt these holdings at their stated scope.
+
+**Material application:** The training rule adds comprehensive training and recurring drills; the language rule governs master/deck-officer English, crew communication and written instructions; the general-watch rule requires two licensed deck officers, a helmsman, a lookout and fleet bridge management. These national personnel and operation standards are distinct from restricted-visibility measures.
+
+##### The additional worldwide operating-history condition is displaced
+
+**Holding:** WAC 317-21-130's worldwide operating-history reporting requirement for operators for the five years before filing a prevention plan and thereafter imposes an additional general vessel operating-history condition within the national maritime arrangement and is displaced. The conclusion preserves the uniform State reporting, compilation and submission role expressly authorized by §6102 and does not invalidate every state casualty report or genuinely local incident measure.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Part IV, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Breyer; seven directly adopt this reporting holding. Souter and Thomas withhold this portion.
+
+**Limits and questions not reached:** The holding concerns the additional worldwide five-year-and-continuing operating-history condition, not every state report, record-preservation requirement or local notice measure. The following federal reporting qualifications retain their separate operation; no exact conflict, excluded-casualty or treaty ground is adjudicated.
+
+Section 6101 requires rules addressing death, serious injury, material property loss, material damage affecting seaworthiness or efficiency, and significant environmental harm, with reports within five days under the part and its regulations and information about alcohol's contribution. Its foreign-vessel branch (d)(1) concerns casualties on United States navigable waters. Branch (d)(2) separately concerns vessels constructed or adapted to carry, or carrying, oil in bulk as cargo or residue, casualties affecting seaworthiness/efficiency or significantly harming the environment, and United States jurisdictional waters including the Exclusive Economic Zone, only consistently with generally recognized international-law principles. Neither grants worldwide tanker jurisdiction.
+
+The separate nonfatal-casualty classification requires attention to injury, damage, danger, and each vessel's size, occupation and propulsion. The distinct foreign-passenger provision concerns casualties involving a United States citizen on a vessel operating south of 75 degrees north, west of 35 degrees west and east of the International Date Line, or south of 60 degrees south, that embarks or disembarks passengers in the United States or carries passengers under air-and-sea packages marketed here. When an investigation of that casualty occurs it must be thorough and timely and produce safety findings and recommendations; the Secretary may seek a multinational investigation or conduct one under chapter 63. No passenger-vessel question is decided.
+
+Section 6102 requires the uniform State reporting system and State compilation and submission, including alcohol-related statistics. The Secretary collects, analyzes and publishes casualty material with appropriate findings and recommendations. If a State system restricts public disclosure of report-derived information other than statistics, or prohibits its use by the State or another person in proceedings against a person, the Secretary may use State-provided information only as the State may use it. The Court makes no finding that Washington satisfies that condition; it creates no unqualified secrecy or reporting exemption.
+
+Under 46 CFR 4.05-1, immediate notice follows attention to resulting safety concerns. Its triggers are unintended grounding or bridge strike; intended grounding or bridge strike creating a navigation, environmental or vessel-safety hazard or satisfying another listed criterion; propulsion or primary-steering loss reducing maneuverability; an occurrence materially and adversely affecting seaworthiness or fitness for service or route; death; injury needing professional treatment beyond first aid, with inability to perform routine duties additionally required for persons employed or engaged aboard commercial-service vessels; and property damage exceeding $25,000. The damage calculation includes restoration labor and materials and excludes salvage, cleaning, gas-freeing, drydocking and demurrage. Section 4.05-5 requires vessel identification, owner or agent, casualty circumstances and locality, injuries and property damage. Section 4.05-10 adds a written report within five days to a Coast Guard Marine Safety or Marine Inspection Office, on CG-2692 with necessary CG-2692A/B supplements; a report filed without delay may also satisfy immediate notice. Notice under 33 CFR 160.215 separately suffices when the casualty involves a hazardous condition within 33 CFR 160.203; no unquoted cross-reference is expanded here.
+
+Section 4.01-3 excludes vessels subject to 33 CFR 173.51 from subpart 4.05; preserves the notice exclusion for diving accidents reported under §197.484 involving deaths or injuries incapacitating for more than 72 hours; and preserves the shipyard/harbor-worker death or injury notice exclusion only when the accident results from neither a vessel nor vessel-equipment casualty and is subject to OSHA reporting under 29 CFR 1904. Public vessels are excluded from the part except as subpart 4.40 provides. The older (d)/(e) notice references in the diving and worker clauses are not resolved here against the later numbered notice text. No disposition depends on an excluded casualty, that reference mismatch, an unquoted state qualification or a treaty ground.
+
+**Operative remedy or transition:** In both dockets, prohibit enforcement of sections 317-21-230 and -250 and the general-watch portion of -200 unanimously, and -130 by seven votes; Souter and Thomas seek only vacatur/remand of reporting. Leave the unchallenged -265 equipment invalidation intact. Vacate the other categorical approvals and remand restricted visibility and, insofar as undecided, navigation (-205), engineering (-210), prearrival tests (-215), emergencies (-220), postevent preservation (-225), drugs/alcohol (-235), personnel evaluation (-240), work hours (-245), training records (-255), management (-260) and entry/safety reports (-540). Confine declaratory and injunctive relief to the displaced requirements; no blanket approval or invalidation of the remainder, damages or past-penalty adjudication follows.
+
+**Treatment of earlier authority:**
+
+- **Ray v. Atlantic Richfield Co.:** Applied to the national vessel-standard/local-waterway distinction; the Court preserves local measures outside the assigned field subject to a separate federal inquiry.
+- **Gade v. National Solid Wastes Management Association:** Applied at its limited controlling rejection of automatic overlap preemption. Actual statutory occupation remains possible; neither physical impossibility alone nor every Justice's separate positive theory becomes the governing test.
+- **Freightliner Corp. v. Myrick:** Applied to the actual regulated aspect and need for operative law or an affirmative federal decision; absence of regulation and agency preference do not establish displacement.
+- **Hines v. Davidowitz:** Its conflict principles remain available where actually supported; simultaneous state and federal requirements alone establish no exact conflict here.
+- **Florida Lime & Avocado Growers, Inc. v. Paul:** Its conflict principles remain available where actually supported; the Court neither infers impossibility from overlap nor makes physical impossibility the exclusive preemption test.
+
+
+
+### Federal preemption of railroad warning-device duties
+
+#### Norfolk Southern Railway Co. v. Shanklin, 529 U.S. 344 (2000)
+
+**Docket or dockets:** No. 99-312.
+**Decided:** April 17, 2000.
+
+##### The completed federal warning project displaces an independent state device-selection duty
+
+**Holding:** When federal funds participate in an approved warning-device installation governed by 23 C.F.R. §§646.214(b)(3)–(4), and the devices required under that project have been installed and are operating, those regulations govern warning-device selection and adequacy and preempt an independent state tort duty to require different or additional devices; no additional crossing-specific federal hearing or individualized-study prerequisite applies. Coverage does not establish compliance with every federal command or displace maintenance, federal-standard, negligent-operation or other duties that the same regulation does not substantially subsume.
+
+**Proposition-level authority:** Justice Thomas's opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Breyer, supplies seven direct votes for this rule, its complete qualifications, its application and the confined judgment. No aggregation of separate rationales is necessary.
+
+**Limits and questions not reached:** Under section 646.214(b)(3)(i), gates with flashing lights are required for multiple main tracks; nearby tracks capable of concealing another approaching train; high-speed trains with limited sight distance; high speed combined with moderately high highway and rail traffic; high highway or train volumes, substantial schoolbus or hazardous-material truck traffic, unusually limited visibility, continuing accidents or combinations; or a diagnostic-team recommendation. Under (b)(3)(ii), a diagnostic team's justification that gates are inappropriate permits FHWA to determine those requirements inapplicable. It does not require gates to be omitted, and no such justification or determination is found here. When (b)(3) does not apply, (b)(4) requires FHWA approval of the device choice.
+
+Section (b)(2) separately addresses crossings within or near the terminus of federal-aid highway construction or improvement projects and conditions unrestricted opening or project acceptance on adequate installed and functioning devices. That route is not collapsed into every federally participating sign project.
+
+Former 45 U.S.C. §434, recodified as 49 U.S.C. §20106 without material change, permits additional or more stringent covered state requirements only when necessary to eliminate or reduce an essentially local safety hazard, not incompatible with federal law and not an unreasonable burden on interstate commerce. These conditions are cumulative. Crossing-specific conditions alone do not establish the exception; no such exception is asserted here.
+
+**Material application:** The completed federally funded project brings warning-device selection within the federal scheme without proving comprehensive compliance. Design conformity does not establish that every required device was installed; the pavement-marking objection remains an argument rather than a finding. No separate federal-compliance damages claim is established.
+
+**Operative remedy or transition:** The independent inadequate-device ruling is reversed and judgment must be entered for the railroad on that theory. The lower courts must determine the consequence for the unallocated four-theory verdict and award. Delayed braking, horn warning and vegetation keep their existing posture and defenses; the speed and ditch-light dismissals remain. No replacement award, new trial, compliance claim, agency study or gate installation is mandated.
+
+**Treatment of earlier authority:**
+
+- Easterwood is applied to substantial subsumption of the actual duty and the specific federal device-selection scheme. Its missing-installation application is distinguished by this approved and completed project; its separate speed holding and reserved individual-hazard question remain unchanged.
+- Medtronic is applied at its actual federal/state requirement comparison: a precise operative selection rule differs from generic regulatory permission, and displacement of an independent duty does not establish that all equal-duty claims are displaced.
+- Locke retains its subject-specific federal allocation and distinction between national and local subjects. Its vessel regime and separate reporting question supply no automatic railroad result.
+- Gade retains its rejection of automatic displacement from overlap; this holding rests on the identified selection regulations, not the mere presence of federal regulation.
+- Myrick retains the need for operative federal law or an affirmative governing decision; regulatory absence or preference alone is not the basis here.
+
+
+
+### Prohibited firearm recipients and municipal staffing
+
+#### Gillespie v. City of Indianapolis
+
+**Docket or dockets:** No. 99-626; Seventh Circuit No. 98-2691, reported at 185 F.3d 693.
+**Decided:** April 17, 2000.
+
+##### The recipient restriction fits the interstate supply regime
+
+**Holding:** Section 922(g)(9) may reach Gillespie's possession because the qualifying-recipient restriction is a fitted anti-evasion and anti-impairment component of the valid national restriction on supplying firearms and ammunition to that class, and the enacted commerce connection is accepted in this civil application. The Commerce and Necessary and Proper Clauses support that inclusion; the applicable statutory nexus remains separately necessary and must be proved in an actual prosecution.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Past interstate movement addresses the accepted civil statutory premise, not the entire constitutional justification. The shipment/transportation, possession-in-or-affecting-commerce and prior-interstate-receipt branches retain their distinct terms. The supply offense's knowledge-or-reasonable-cause requirement is not imported as the recipient offense's full culpability rule. No prosecution, notice, mental-state or criminal-proof question is decided.
+
+##### A staffing consequence is not a federal administrative command
+
+**Holding:** A valid federal firearm disability does not commandeer a municipality merely because its own job requirements make an affected employee ineligible for an armed position. This application of section 922(g)(9) directly restricts possession and commands no termination, legislation, conviction investigation, prosecution, firearm seizure, background-check administration, appropriation or other administration of a federal program.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The City independently requires armed service. The Court decides no actual enforcement command, state-law entitlement to another position or broader constitutional immunity from direct regulation.
+
+**Operative remedy or transition:** The civil dismissal is affirmed without ordering any employment action or administering a federal enforcement program.
+
+**Treatment of earlier authority:**
+
+- Hiley is applied to the fitted supply/recipient mechanism and absence of a compulsory administrative duty; its other constitutional holdings are not reopened.
+- Fraternal Order of Police, January 18, 2000, is applied to its reaffirmed commerce and staffing grounds.
+- Lopez is applied to require a constitutional mechanism distinct from aggregate costs and statutory nexus words.
+- Kirk supports necessary inclusion in an identified valid regime; it establishes no universal possession authority.
+- New York retains its actual anti-compulsion boundary and preserved field of direct regulation.
+- Garcia and South Carolina v. Baker are applied to distinguish direct regulation from compelled government of others.
+- Condon is applied for that same distinction without extending its information-market holding.
+- Printz/Mack is distinguished at its affirmative-command, confined-assistance and reserved fiscal boundaries; no new administrative power is recognized.
+
+For the individual-arms official-use holding in Gillespie, April 17, 2000, No. 99-626, see Civil Rights — Individual arms right and official-use firearm disability.
+
+
+
+### Congressional power over the private gender-violence action
+
+#### United States v. Morrison / Brzonkala v. Morrison, 529 U.S. 598 (2000)
+
+**Docket or dockets:** Nos. 99-5 and 99-29, consolidated.
+**Decided:** May 15, 2000.
+
+##### Commerce authority for the enacted private-assault action
+
+**Holding:** Congress's findings of the serious economic consequences of gender-motivated violence do not supply the constitutionally adequate interstate connection needed to sustain §13981's presented private-assault action. The enacted class is not directed at an actual interstate market, shown reasonably necessary to prevent evasion or material impairment of an identified valid interstate regulatory regime, or supported as a substantial interstate externality that individual States cannot reasonably internalize; downstream economic magnitude cannot replace that missing connection.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia and Thomas, supplies five direct votes for both constitutional holdings and their stated limits. Stevens, Souter, Ginsburg and Breyer dissent on Commerce grounds and reserve the Section 5 alternative; their reservation is not a vote sustaining that alternative.
+
+**Limits and questions not reached:** No categorical economic-conduct requirement, universal jurisdictional element, individual border crossing, numerical threshold or findings checklist is adopted. National prevalence alone does not establish a noninternalizable interstate externality, and inclusion in a broad federal package alone does not prove anti-evasion necessity.
+
+##### Section 5 and the relationship to discriminatory state protection
+
+**Holding:** Section 5 does not sustain the presented nationwide action against a private assailant for gender-motivated violence when its defendant, triggering private wrong and relief lack a sufficient remedial relationship to the unconstitutional state denial invoked to support it. A private assailant's gender animus does not itself establish the State's constitutional denial, and Congress's account of discriminatory state justice does not, without that fit, convert liability for the private assault into enforcement of equal state protection.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia and Thomas, supplies five direct votes for both constitutional holdings and their stated limits. Stevens, Souter, Ginsburg and Breyer dissent on Commerce grounds and reserve the Section 5 alternative; their reservation is not a vote sustaining that alternative.
+
+**Limits and questions not reached:** State action includes official administration, judicial action and legally operative custom. The holding requires remedial fit, not individual proof of a completed violation in every case, a universal bar on private defendants, a geographic restriction, a sunset or a findings quota. The four dissenters reserve Section 5 rather than vote to uphold this alternative.
+
+**Limits and questions not reached:** The action concerns a crime of violence committed because of or on the basis of gender and due at least in part to gender animus. The referenced violence includes acts or a series constituting a felony against the person, or a felony against property presenting a serious risk of physical injury, within the State or federal offenses described in 18 U.S.C. §16; it also includes otherwise qualifying conduct excluded only because of the relationship between actor and victim. The definition does not require occurrence in federal maritime, territorial or prison jurisdiction. Gender motivation must be shown by a preponderance of the evidence; random violence unrelated to gender is excluded. No prior criminal complaint, prosecution or conviction is required.
+
+Section 13981(c) includes a person acting under color of state statute, ordinance, regulation, custom or usage and provides compensatory and punitive damages, injunctions, declarations and other appropriate relief. Federal and state courts share jurisdiction. Neither §13981(c) nor 28 U.S.C. §1367, by reason of this claim, confers federal jurisdiction over state-law claims seeking a divorce, alimony, equitable distribution of marital property or child-custody decree. None of these distinct provisions supplies an omitted interstate-commerce or unconstitutional-state-denial element.
+
+Hypothetical color-of-law applications and unpresented severability are not resolved. Title IX litigation, state remedies and other VAWA provisions remain outside the judgment. The Court adds neither an interstate-commerce element nor a state-failure element.
+
+**Operative remedy or transition:** Affirm dismissal of the presented private-assault claim in both consolidated dockets. Neither asserted source of power sustains it; no finding of assault, animus, causation or liability, damages award or new proof opportunity follows.
+
+**Treatment of earlier authority:**
+
+- **United States v. Lopez (April 26, 1995):** Applied its enacted-class, eligible-connection and fit sequence and its rejection of downstream magnitude as a substitute for connection. The Court declines the dissent's proposed revision; the rule remains controlling.
+- **American Life League v. Reno; United States v. Bird:** Distinguished direct interference with an actual interstate medical-service market from the enacted class of private assault. Their service-market holdings remain effective.
+- **United States v. Robinson; Reno v. Condon:** Distinguished operating business assets with an enacted commerce element and the identified interstate information market. Neither makes a victim's eventual spending or a crime's costs a sufficient connection.
+- **United States v. Hale; United States v. Kirk; Hiley v. Barrett; Gillespie v. City of Indianapolis:** Preserved their fitted anti-evasion or material-impairment relationships to valid interstate supply regimes. The Court finds no analogous identified relationship for this action; domestic violence alone was not their constitutional mechanism.
+- **National Association of Home Builders v. Babbitt:** Applied its independent substantial-cross-border-externality route and evidentiary/fit requirements. The route remains available for noneconomic conduct; national prevalence is not its substitute, and its particular existing-record remand created no general right to another evidentiary chance.
+- **United States v. Hinds:** Distinguished its statutory property-use inquiry from the constitutional mechanism and text of §13981. It supplies no judicially inserted element here.
+- **The Civil Rights Cases, 109 U.S. 3 (1883); United States v. Harris, 106 U.S. 629 (1883):** Applied the boundary between state constitutional denial and unsupported private wrong, retaining their recognition of official administration and appropriately adapted corrective legislation. Neither is read as a categorical private-defendant bar. The 1883 Harris is distinct from the later Commerce case bearing that name.
+- **City of Boerne v. Flores:** Applied its congruence-and-proportionality requirement and prohibition on replacing the substantive right while retaining preventive coverage beyond individually proven violations. No geographic, temporal or findings-count prerequisite is added.
+- **Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank:** Distinguished its upheld preventive patent-property remedy, tied to the States' deprivations, exclusive federal infringement jurisdiction and uncertain alternative redress. That holding remains intact.
+- **College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board:** Applied the requirement of an actual constitutional injury rather than a statutory tort alone.
+- **Kimel v. Florida Board of Regents:** Its reservation of Section 5 supplies no decision of this question.
+- **Saenz v. Heldenfels Brothers, Inc. (May 9, 2000):** Distinguished an official's own affirmative removal of protection from private harm not prevented by the State. It supplies neither such an act in this complaint nor a holding on Congress's preventive enforcement power.
+
+### Federal sanctions and conflicting state procurement
+
+#### Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000)
+
+**Docket or dockets:** No. 99-474.
+**Decided:** June 19, 2000.
+
+##### The independent Burma procurement sanction conflicts with the enacted federal arrangement
+
+**Holding:** Massachusetts's Burma procurement restriction is preempted because its broader, independently continuing economic sanction frustrates Congress's integrated choice of covered conduct and persons, conditional sanctions, presidential flexibility under stated conditions, and a coordinated multilateral strategy in §570. A purchasing label and shared humanitarian ends do not save that demonstrated conflict; the injunction against enforcement of the challenged restriction remains in place.
+
+**Proposition-level authority:** Stone-Zsela's Opinion of the Court, unanimous.
+
+**Material application:** **Massachusetts provisions.** Sections 22G–22M reach the defined Burma business relationships, including operations, incorporation, majority-owned subsidiaries, specified financial services, government-controlled products and goods or services supplied to Burma's government. Their coverage includes foreign firms and ordinary commercial dealings. Section 22H(b) permits otherwise restricted procurement after written certification to the secretary, or the authority's chief operating officer, both that procurement is essential and that the restriction would eliminate the only bid or produce inadequate competition. Essential procurement must be necessary to the agency's mission, have no substitute, and avoid irreparable harm to its programs. Section 22H(d) separately permits a restricted award only if there is no unrestricted comparable low bid or offer: a responsive, responsible offer no more than ten percent above the lowest. The reported administrative addition of ten percent to restricted bids is distinct from that statutory definition. Section 22H(e) separately exempts operations solely for news reporting or solely for providing goods or services for international telecommunications.
+
+Section 22I permits medical purchases intended to preserve or prolong life or cure, prevent or ameliorate disease, including hospital, nutritional, diagnostic, pharmaceutical and nonprescription products specifically manufactured for identified health-care needs, or supplies for which there is no medical substitute. The requesting agency determines absence of a substitute under general medical and professional standards when relying on that alternative. Its written notice and compliance certification to the state purchasing agent suffice to allow the purchase. Absence of a substitute is not a condition of every medical purchase. A separate supplier exemption applies when the person's Burma dealings provide only those medical supplies; mixed medical and nonmedical dealings do not qualify. These permissions do not merge into a general medical-industry exemption.
+
+**Federal provisions.** Public Law 104-208, §570, was enacted September 30, 1996. Subsection (a)'s sanctions last until the President determines and certifies to Congress measurable and substantial progress in human-rights practices and democratic government. The bilateral-assistance prohibition excepts humanitarian assistance and assistance promoting human rights and democratic values. Counter-narcotics assistance under chapter 8 of part I of the Foreign Assistance Act of 1961, or crop-substitution assistance, separately requires regular Appropriations Committee notification and the Secretary of State's certification to the appropriate congressional committees that Burma fully cooperates with United States counter-narcotics efforts and that the programs are fully consistent with United States human-rights concerns in Burma and serve the national interest. Treasury must instruct United States directors of the covered international financial institutions to oppose any loan or other use of their funds to or for Burma. Those institutions include the International Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, Asian Development Bank and International Monetary Fund. The visa provision says the United States should not grant Burmese government officials entry visas, except as treaty obligations require or to staff Burma's mission to the United States; it is not an unconditional mandatory prohibition.
+
+Under subsection (b), the President is authorized and required to prohibit United States persons' new investment if he determines and certifies to Congress that, after enactment, Burma physically harmed, rearrested for political acts or exiled Daw Aung San Suu Kyi, or committed large-scale repression of or violence against the democratic opposition. Subsection (c) requires him to seek a comprehensive multilateral strategy with ASEAN members and other major trading and investment countries to bring democracy and improve human rights and quality of life, including dialogue between the State Law and Order Restoration Council and democratic opposition groups. Subsection (d) requires reports every six months to the chairmen of the Senate Foreign Relations, House International Relations and House and Senate Appropriations Committees on democratization; quality of life, including market reforms, living and labor standards, forced labor in tourism and environmental quality; and progress on that strategy.
+
+Subsection (e) permits temporary or permanent waiver of sanctions in (a) or (b) upon presidential determination and certification to Congress that application would conflict with United States national-security interests. Subsection (f)'s new investment covers the specified activity under an agreement with Burma's government or a nongovernmental entity there, entered on or after the subsection (b) certification, including exercise of rights under that agreement. It reaches contracts for economic development of Burmese resources or general supervision and guarantee of another's performance, ownership shares in that development, and participation in its royalties, earnings or profits regardless of form. It excludes entering, performing or financing a contract to sell or buy goods, services or technology. Executive Order 13047 of May 20, 1997 implemented the new-investment prohibition after the presidential findings.
+
+**Limits and questions not reached:** The Court does not construe §570(e) as a direct power to waive state law. Preemption follows from the Supremacy Clause and the demonstrated statutory conflict. Nor does federal permission for a transaction alone immunize it from every state purchasing choice. The integrated provisions supply the sufficient ground for affirmance, leaving the other constitutional theories below undecided.
+
+No general foreign-affairs field, dormant foreign-affairs, Foreign Commerce Clause, WTO-merits or private Uruguay Round enforcement holding is entered. The Court decides no general presumption against preemption and relies on no legislative-history, failed-bill or congressional-silence inference. Executive implementation must stay within the statute; litigation advocacy and diplomatic objections do not create preemptive law. Neutral procurement rules, nonbinding state statements and state action within genuine federal room remain available, subject to otherwise applicable law. Ordinary divestment, contract eligibility and every state measure with foreign effects are not adjudicated.
+
+**Operative remedy or transition:** The First Circuit judgment is affirmed on the sufficient federal-preemption ground. The injunction against enforcement of the challenged Massachusetts Burma procurement restriction remains in place. No additional remedial instruction, factual remand or decision on the alternative constitutional grounds is entered.
+
+**Treatment of earlier authority:**
+
+- **Geier v. American Honda Motor Co., May 22, 2000:** Applies the requirement to identify an operative federal method and the actual conflicting state duty. Its different restraint-transition application supplies no automatic outcome for sanctions or procurement.
+- **Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor), March 8, 1993:** Preserves genuine project-specific proprietary purchasing and its reservation for actual congressional displacement. This broader Burma condition receives no categorical purchaser immunity.
+- **Freightliner Corp. v. Myrick, April 18, 1995:** Applies its demand for an independently established conflict; distinguishes regulatory absence from §570's affirmative arrangement. No federal objective is manufactured from silence.
+- **Barclays Bank PLC v. Franchise Tax Board of California, June 20, 1994:** Preserves the distinction between binding federal authority and informative but nonbinding policy or foreign objections. Its independent foreign-commerce analysis is not converted into a statutory sanctions holding or overruled.
+
+### Legislative change to prospective relief
+
+#### Miller v. French / United States v. French, 530 U.S. 327 (2000)
+
+**Docket or dockets:** Nos. 99-224 and 99-582.
+**Decided:** June 19, 2000.
+
+##### II. Congress may change interim prospective law without deciding the case
+
+**Holding:** The automatic stay is not categorically unconstitutional under Article III merely because it temporarily suspends prospective relief before final adjudication of the termination motion. Congress may change the law governing future enforcement while leaving the court to decide the new law's factual and legal predicates; this holding does not resolve an application that actually deprives the court of a meaningful opportunity to adjudicate.
+
+**Proposition-level authority:** Part II of Souter's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; seven Justices directly adopt the bounded Article III holding.
+
+**Limits and questions not reached:** Here the interim enforcement rule itself changes prospective law. A party's motion triggers the legislated consequence; the party does not thereby establish lawful prison conditions or defeat the findings required to retain relief. Although the Pendleton decree followed adjudication in material part, the stay neither contradicts those past findings nor cancels accrued damages or completed lawful effects. Morgan Stanley and Plaut permit their defined reinstatement of securities limitations dismissals while preserving independent judicial work; they establish neither categorical immunity for every judgment nor unrestricted legislative control of adjudication. The prisoners correctly distinguish termination after findings from suspension before findings. That distinction requires attention to an actual denial of adjudication, but it does not make every interim prospective rule legislative adjudication. The Court rejects the Seventh Circuit's categorical structural ruling without declaring this timetable sufficient in every complex case or deciding a supported inability-to-adjudicate claim against the prisoners.
+
+**Treatment of earlier authority:**
+
+- **Robertson v. Seattle Audubon Society:** Applied to the distinction between changed governing law and legislative adjudication under unchanged law; its reserved questions are not converted into general permission to control judgments.
+- **United States v. Klein:** Its protection of independent adjudication remains; no legislative finding of prison compliance is authorized.
+- **Pennsylvania v. Wheeling & Belmont Bridge Co.:** Applied to the distinct prospective operation of an injunction, without extending it to every completed judgment.
+- **Agostini v. Felton:** Its distinction between a continuing injunction and completed adjudication supports examination of the current governing law; its Rule 60(b)(5) setting does not itself decide the automatic-stay issue.
+- **Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co.:** Its bounded securities-dismissal reinstatement holding is preserved, including independent statutory eligibility and merits adjudication; it supplies no universal reopening power.
+- **Plaut v. Spendthrift Farm, Inc.:** Its application of the same bounded reinstatement rule remains; neither its holding nor the completed-judgment objection determines every prospective-remedy question.
+
+For the mandatory statutory construction and genuine opportunity to present supported Article III or due-process application objections on remand, see Miller v. French / United States v. French, Nos. 99-224 and 99-582, June 19, 2000, under Federal Courts, automatic stays of prospective prison relief.

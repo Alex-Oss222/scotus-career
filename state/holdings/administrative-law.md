@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Administrative Law
 
@@ -1636,3 +1636,193 @@ For the other questions in AT&T Corp. v. Iowa Utilities Board, decided 1999-01-2
 - MCI Telecommunications Corp. v. AT&T and National Credit Union Administration v. First National Bank require enforcement of enacted boundaries before deference.
 - AT&T Corp. v. Iowa Utilities Board separates general authority, particular rule validity and unresolved applications; it creates no automatic validation or universal remand rule.
 - NFFE/FLRA v. Department of the Interior distinguishes legally available discretion from its lawful exercise; its distinct remedy does not compel a new Customs proceeding.
+
+### Telecommunications customer approval
+
+#### U.S. West, Inc. v. Federal Communications Commission
+
+**Docket or dockets:** Tenth Circuit No. 98-9518; judgment below, 182 F.3d 1224. No Supreme Court docket supplied.
+**Decided:** February 7, 2000.
+
+##### Whether the general statutory approval language permits affirmative consent
+
+**Holding:** Section 222(c)(1), read with the confidentiality duty, permits the FCC to require an affirmative customer decision through oral, written or electronic means without unambiguously compelling that exclusive method for every general CPNI use. After independent rejection of the presented speech challenge, that choice receives ordinary Chevron deference; the asserted speech-based constitutional doubt cannot sustain vacatur, while the unreached takings and other arbitrary-and-capricious claims remain for review.
+
+**Proposition-level authority:** Ginsburg's Part IV, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Breyer; seven direct votes. Stevens and Kennedy's abstract textual agreement is not a join in this part or the judgment.
+
+**Limits and questions not reached:** The construction concerns general section 222(c)(1), not every CPNI category. Constitutional validity receives independent review before ordinary statutory deference. Takings and other arbitrary-and-capricious objections, every collateral restriction, final ownership and compensation, and the later emergency-information cross-reference remain undecided.
+
+**Treatment of earlier authority:** Chevron is applied to the general approval gap after independent constitutional review. AT&T preserves statutory limits and separate review of unresolved objections. No avoidance principle permits assumed speech invalidity to replace the analysis required by the governing cases.
+
+For the independent commercial-speech holdings in U.S. West, February 7, 2000, Tenth Circuit No. 98-9518, see First Amendment — Confidential telecommunications information and marketing.
+
+**Operative remedy or transition:** Reverse the general approval-construction ground as well as the speech ground and remand for unreached takings and arbitrary-and-capricious claims and relief conforming to intervening instruments. Reversal does not reinstate every former rule, prescribe a new consent system, or establish ownership, compensation, violation or sanctions.
+
+Public Law 106-81 section 5 took effect October 26, 1999 without a section 5 delay. Section 222(f) separately requires express prior authorization for wireless call-location information except the specified section 222(d)(4) emergency uses, and for automatic-crash-notification information except use in operating an automatic-crash-notification system. The location exceptions permit provision to a public safety answering point, emergency medical or dispatch provider, public safety, fire-service or law-enforcement official, or hospital emergency or trauma-care facility to respond to the user's emergency-services call; informing the legal guardian or immediate family of the user's location in an emergency risking death or serious physical harm; and provision to information- or database-management providers solely to assist delivery of emergency services in response to an emergency. Those exceptions do not permit ordinary marketing; the crash-notification exception remains separate.
+
+The amendment adds location to CPNI, moves definitions to subsection (h), and imposes a separate emergency-service information duty. Despite subsections (b), (c) and (d), new subsection (g) separately directs telephone-exchange-service carriers to provide the information it describes, including unlisted or unpublished subscriber information and other carriers' subscriber information in their possession or control, on a timely and unbundled basis, on nondiscriminatory and reasonable rates, terms and conditions, to emergency-service and emergency-support-service providers solely for delivering or assisting emergency services. Its enacted cross-reference is preserved in the exact source text and is not construed in this admission. The Court neither construes subsection (g)'s enacted cross-reference nor adjudicates those later provisions' constitutionality. They do not retroactively establish the FCC's 1998 explanation or permit a general assertion that opt-out is available for every CPNI category.
+
+FCC 99-223, adopted August 16, released September 3 and published October 1, 1999, retains affirmative approval in paragraph 95. Paragraphs 185 and 190 condition amended information-collection rules on OMB approval and a later effective-date publication; no such publication is established in this record. Paragraphs 187 and 188 separately remove the winback and same-document notice restrictions. Paragraph 189 postpones enforcement of amended section 64.2009(a) and (c) safeguards until eight months after release. Equipment/information-service and safeguard amendments are not all treated as effective on publication, and reversal does not resurrect removed provisions. No compliance, default, sanction exposure or expired transition is determined.
+
+
+
+### Statutory limits on customary-tobacco regulation
+
+#### FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120 (2000)
+
+**Docket or dockets:** No. 98-1152.
+
+**Decided:** March 21, 2000.
+
+##### Which FDCA version governs any tobacco authority after the 1997 Act
+
+**Holding:** Public Law 105-115, section 422, leaves the question of tobacco authority unchanged and requires any such authority to be exercised under the FDCA as it stood on November 20, 1997. The Act's new mission and regulatory procedures therefore supply neither a new tobacco delegation nor a means to avoid a restriction of that earlier regime.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by O'Connor, Scalia, Kennedy and Thomas; five direct votes.
+
+**Limits and questions not reached:** Section 501's generally applicable ninety-day effective date after November 21, 1997 yields to express provisions and excludes sections 111, 121, 125 and 307. It does not override section 422. Section 406's new mission and later classification, review and evidentiary procedures do not enter the earlier tobacco regime; preexisting qualified scientific-evidence and reclassification flexibility remains.
+
+##### Whether the connected statutory scheme authorizes the asserted customary-tobacco drug/device regime
+
+**Holding:** Read with its operative safety and marketing requirements and Congress's distinct tobacco enactments, the FDCA does not authorize the asserted drug/device regime for tobacco as customarily marketed. The FDA cannot obtain that power by construing broad coverage terms to include a continuing-market accommodation that the connected statutory requirements do not permit; the challenged rule is invalid on that ground.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by O'Connor, Scalia, Kennedy and Thomas; five direct votes.
+
+**Material application:** Intended-use evidence is assumed for this inquiry. The chemical action of nicotine does not decide the delivery component's classification, and therapeutic advertising is not the sole possible intended use. Combination-product assignment of responsibility under section 353(g) does not waive independent drug, misbranding, safety, approval or cessation commands. The Court rejects the claimed continuing-market accommodation under this particular scheme; it adopts no magnitude-based major-questions rule or categorical bar to reasoned agency reinterpretation.
+
+**Limits and questions not reached:** The following distinctions limit the statutory reasoning; they are not new enforcement findings:
+
+- **Directions and warnings:** Section 352(f)(1) requires an exemption by regulation when adequate directions are unnecessary for public-health protection. That directions exemption does not waive section 352(f)(2)'s separate necessary warnings concerning pathological conditions, childhood use, unsafe dosage, method or duration. Section 352(j) concerns danger under labeled dosage, manner, frequency or duration; existing tobacco warnings do not automatically establish FDCA compliance.
+- **Classification and approval:** Device classes depend on their statutory control and information criteria, including the qualified low-risk route; risk alone does not compel an immediate judicial ban. The earlier scientific-evidence and reclassification procedures remain. No particular classification, new-drug application, grandfather status or approval is adjudicated. Section 321(p)'s pre-June 25, 1938 exception requires the drug's prior-Act status and unchanged labeling representations; the Court does not find those conditions satisfied or unsatisfied here.
+- **Restricted devices:** Section 360j(e) permits practitioner-authorization or other sale, distribution or use conditions upon the required determination that harmful potential or necessary collateral measures prevent reasonable assurance of safety and effectiveness otherwise. Training or facility limits require their own safe-use determination; lack of specified board eligibility or certification alone cannot exclude a user. Required label statements remain. None of those permissions is a general exemption from another command.
+- **Ban proceedings:** Section 360f permits rulemaking on findings of substantial deception or unreasonable and substantial risk. When the Secretary has determined that labeling can correct the problem and provided written notice specifying the change and time allowed, failure to make that change is separately required. Immediate effect additionally requires unreasonable, direct and substantial danger and advance manufacturer notice, followed by prompt notice, an informal-hearing opportunity and expeditious affirmance, modification or revocation.
+- **Cessation and recall:** Section 360h(e)(1) requires immediate cessation of distribution and notification and cessation-of-use instructions to health professionals and user facilities after a reasonable-probability finding that a human-use device would cause serious adverse health consequences or death. An informal-hearing opportunity must be provided within ten days of the order, and inadequate grounds require vacatur. Recall requires a further determination, timetable and progress reports; it cannot reach devices held by individuals, and the greater-risk exception concerns recall from user facilities. Those recall limits do not make the initial cessation command elective. Individual risk-notice duties remain. The Court makes none of the required enforcement determinations itself.
+- **Other enactments and State law:** The cigarette statutes' labeling and advertising limits and the smokeless-tobacco statute's distinct package/advertisement rules retain their own scopes, including the latter's outdoor-billboard exception. Section 360k requires a relevant federal device requirement and a different or additional State duty in the specified subject relationship. Its exemption procedure requires an application, regulation, notice and oral-hearing opportunity; greater stringency is one route, compelling local conditions without violating federal requirements another. Medtronic therefore prevents treating coverage alone as universal displacement of State youth-access laws. No particular preemption or exemption is decided.
+
+The Court decides no advertising merits, constitutional objection, therapeutic-claim product, biological-license question, particular new-drug refusal ground, international coordination requirement or later classification procedure. It does not pronounce every risky device unmarketable, require therapeutic claims for every drug, create a general prohibition on agency change, or require Congress to use particular words in every delegation. Congress may confer tobacco authority expressly.
+
+**Operative remedy or transition:** Affirm invalidation of the August 28, 1996 rule for want of the asserted authority. Only genuinely necessary implementation or severability proceedings remain permissible. No replacement rule, tobacco ban, recall, damages or retrospective liability is ordered; the separately vacated advertising construction remains unadopted.
+
+**Treatment of earlier authority:**
+
+- **Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.:** Applies statutory construction before deference; agency reasonableness cannot supply a delegation absent from the enacted scheme.
+- **United States v. Haggar Apparel Co.:** Preserves the distinction between genuine delegated ambiguity, regulatory validity and application; formal rulemaking alone does not establish authority.
+- **MCI Telecommunications Corp. v. American Telephone & Telegraph Co.:** Applies its requirement that a bounded agency power preserve an operative statutory obligation. It creates no universal magnitude-based exception to delegation.
+- **Babbitt v. Sweet Home Chapter of Communities for a Great Oregon:** Preserves broad statutory coverage within actual delegated language and concrete limits; it does not authorize disregard of a connected command.
+- **AT&T Corp. v. Iowa Utilities Board:** Preserves separate analysis of general implementing power, particular statutory constraints and unresolved applications.
+- **Good Samaritan Hospital v. Shalala:** Preserves considered interpretive change within the statute; the FDA's former position is not an automatic legal bar.
+- **National Railroad Passenger Corp. v. Boston & Maine Corp.:** Preserves recognition of the agency's actual discernible ground without supplying missing findings or a judicial replacement policy.
+- **Adams Fruit Co. v. Barrett:** Preserves the requirement of an actual congressional delegation; an agency cannot create its own authority.
+- **United States v. Bacto-Unidisk:** Its broad protective reading of the FDCA remains, subject to the entire enacted scheme rather than isolated definitions.
+- **United States v. Rutherford:** Preserves statutory safety and effectiveness requirements against a judicially created exemption; it is not a present tobacco ban or an adjudication of an application.
+- **Medtronic, Inc. v. Lohr:** Preserves the actual federal/state counterpart and subject conditions for device preemption; federal coverage does not automatically eliminate every State rule.
+- **United States v. Locke:** Its particular national-vessel and local-waterway allocation remains distinct; overlap alone supplies no general preemption rule here.
+
+
+
+### Advisory statutory interpretations and regulatory textual fit
+
+#### Christensen v. Harris County, 529 U.S. 576 (2000)
+
+**Docket or dockets:** No. 98-1167.
+**Decided:** May 1, 2000.
+
+##### II. This advisory letter receives persuasive consideration, not controlling statutory weight
+
+**Holding:** The supported advisory opinion letter lacks the force of law and does not command controlling statutory deference under Chevron. Its interpretation remains entitled to consideration under Skidmore according to the quality of its reasoning, experience, consistency and persuasive force; the specific-consent restriction is unpersuasive for the statutory reasons the Court adopts.
+
+**Proposition-level authority:** Part II has five votes: Stone-Zsela, O'Connor, Kennedy, Souter and Thomas. Scalia's agreement with the judgment does not support this ground.
+
+**Limits and questions not reached:** The holding concerns the established advisory status and reasoning of this letter, not every informal agency interpretation. No unprovided endorsement, internal delegation or changed policy is assumed.
+
+##### III. Regulatory interpretation cannot turn optional agreement terms into a mandatory condition
+
+**Holding:** Auer does not authorize adding a specific-consent requirement for compulsory use to section 553.23(a)(2)'s unambiguous permission to include compatible preservation, use or cashout terms. The responsible agency may interpret its regulation fairly within the text, but may not amend that permission into the additional prohibition asserted here.
+
+**Proposition-level authority:** Part III has six votes: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas.
+
+**Limits and questions not reached:** Auer requires a responsible agency's fair and considered reading that is not plainly erroneous or inconsistent with its regulation. This decision imposes no universal rulemaking-format prerequisite and does not decide the Secretary's authority to adopt a valid future rule restricting compulsory use.
+
+**Operative remedy or transition:** These grounds sustain the defense judgment on the categorical FLSA claim without ordering an agreement hearing, agency amendment or new award.
+
+**Treatment of earlier authority:**
+
+- Chevron is distinguished at the threshold of this letter's supported advisory authority; the Court does not treat every agency statement as binding.
+- Skidmore remains an independent basis for persuasive consideration, including where controlling statutory weight is unavailable.
+- Auer retains fair, responsible interpretation within regulatory text; it permits no amendment of the unambiguous permission at issue.
+- NationsBank and Smiley retain their actual delegated and authoritative administrative constructions; their holdings do not automatically give this advisory response the same legal force.
+- Boston & Maine preserves an agency's actual discernible ground and forbids judicial invention of its reasoning or authority.
+- FDA and U.S. West retain distinct inquiries into statutory authority, permissible interpretation and independent legal constraints; neither eliminates this statute's implementing grant or makes it unlimited.
+
+For the compensatory-time use holding in Christensen, May 1, 2000, No. 98-1167, see Labor and Employment — Public compensatory time and compulsory paid use.
+
+
+
+### Mining-permit control, temporal operation and correction
+
+#### National Mining Association v. United States Department of the Interior
+
+**Docket or dockets:** No separate Supreme Court docket supplied; D.C. Circuit No. 98-5248; review of 177 F.3d 1.
+**Decided:** May 8, 2000.
+
+##### I. The ordinary permit rule requires current control; former control has separate statutory conditions
+
+**Holding:** Section 510(c), 30 U.S.C. §1260(c), ordinarily bars issuance when the schedule or other information shows a currently violating surface coal mining operation currently owned or controlled by the applicant, including actual downstream control through intermediary entities. After ordinary control ends, the separate former-control provision requires a demonstrated pattern of willful violations of the chapter, of such nature and duration, and with such resulting irreparable environmental damage, as to indicate an intent not to comply; mere former ownership or control cannot substitute for those cumulative conditions.
+
+**Proposition-level authority:** Part I of Stevens's opinion, joined by all eight other Justices. Nine Justices adopt this holding and its stated limits.
+
+**Limits and questions not reached:** The required three-year schedule lists notices, but the separate permit command reaches a current violation shown by that schedule or other information. The schedule period therefore does not supply a general age limit for violations considered. The block continues until the applicant supplies proof that the violation has been corrected or is in the process of being corrected to the satisfaction of the authority having jurisdiction. Completed correction is not invariably required.
+
+##### II. Antecedent dates alone do not bar present eligibility rules addressing current control and a current violation
+
+**Holding:** An otherwise lawful current-control permit condition is not categorically inapplicable merely because both the underlying violation and acquisition of control predate November 2, 1988, when the actual operative predicates are current control, a current violation and present eligibility for prospective operations. This does not authorize a genuinely new disability resting solely on completed conduct, backdate the rule, determine a displaced-clear-guidance claim or resolve the validity of a particular permit application.
+
+**Proposition-level authority:** Part II of Stevens's opinion, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices. The common ground is the particular current-condition distinction and Smiley's qualified interpretation rule. Scalia, Kennedy and Thomas do not adopt Landgraf's entire general method anew. Stone-Zsela dissents on this component.
+
+**Limits and questions not reached:** The present application date alone cannot validate a past-conduct disability. The older-violation/post-rule-acquisition branch remains permissible at this temporal level. No displaced clear guidance or actual reliance finding is made; existing Smiley qualifications remain.
+
+##### III. Express correction authority remains subject to lawful predicates and required procedures
+
+**Holding:** Section 201(c)(1), 30 U.S.C. §1211(c), supplies authority to suspend, revoke or withhold a permit for failure to comply with the chapter or valid regulations, including correction of an improperly issued permit that failed a lawful eligibility requirement. Section 510(c)'s issuance language does not eliminate that express power, but the correction must rest on valid substantive and temporal predicates and comply with the applicable procedures; no unlimited implied reopening authority or reopening of a particular final adjudication is decided.
+
+**Proposition-level authority:** Part III of Stevens's opinion, joined by all eight other Justices; nine Justices.
+
+**Limits and questions not reached:** The state-primacy requirements retain their independent force. For ordinary non-imminent violations, the applicable sequence includes notice, an abatement opportunity, an opportunity for public hearing, a written finding after the abatement period that the violation remains unabated, and a cessation order stating the steps necessary for expeditious abatement. The separate imminent-danger provisions remain distinct. General correction authority cannot bypass the required state-program procedures.
+
+**Limits and questions not reached:** The Court does not newly decide the officer/director, equity, asset-control, general-partner, operating or coal-right presumptions; additional schedule-information demands; section 2462 or whether permit blocking is punitive or remedial; the separate due-process or APA persuasion-burden challenge; a particular permit's factual or procedural validity; or a new replacement rule. Their separate existing dispositions or unresolved status are preserved.
+
+**Operative remedy or transition:** Affirm the ordinary former-control limit and express correction authority; reverse the categorical two-pre-rule-date bar only for actual current control and a current violation. The existing rule-correction remand must reflect these limits. No particular permit is denied, withdrawn or reopened, and no new liability or evidentiary program is ordered.
+
+**Treatment of earlier authority:**
+
+- Landgraf v. USI Film Products supplies the distinction between actual new legal consequences and antecedent facts. Its controlling general framework and the different relevant-activity concurrence retain their respective force; the common current-condition holding does not merge them.
+- Bowen v. Georgetown University Hospital, 488 U.S. 204, retains the prohibition on unauthorized retroactive legislative rulemaking. Present regulation of continuing statutory conditions and Smiley's qualified interpretive use do not confer general retrospective power.
+- Smiley v. Citibank (South Dakota), N.A. supplies the qualified use of current authoritative interpretation for antecedent transactions without clear prior official guidance. Its reservation for displacement of clear guidance, protection of legitimate reliance in reasoned change, and prohibition on backdating remain intact.
+- FDA v. Brown & Williamson Tobacco Corp. requires agency authority to fit the connected enacted scheme. Its tobacco-specific result supplies no universal major-questions rule or new mining exemption.
+- Christensen v. Harris County preserves statutory authority, interpretive weight and textual fit as distinct inquiries. It does not convert every current agency interpretation into a binding or temporally valid rule.
+- Greenwich Collieries and Allentown Mack retain their particular adjudicatory-burden and review rules. The Court does not import them into the ungranted procedural-rule litigation or decide a new control presumption here.
+
+### Issue exhaustion in Social Security Appeals Council review
+
+#### Sims v. Apfel, 530 U.S. 103 (2000)
+
+**Docket or dockets:** No. 98-9537.
+**Decided:** June 5, 2000.
+
+##### The actual Council scheme does not forfeit these omitted issues
+
+**Holding:** A Social Security claimant who requests Appeals Council review and obtains a final decision does not forfeit judicial review of an issue merely by omitting it from that request where no statute or regulation requires issue exhaustion and the actual nonadversarial review scheme supplies no fair notice of such forfeiture. The permitted short request, optional briefing, whole-decision notice and plenary informal review together establish that rule here; it is not a general notice prerequisite for every prudential exhaustion rule.
+
+**Proposition-level authority:** O'Connor's Opinion of the Court has six direct joins: Stone-Zsela, Stevens, O'Connor, Souter, Thomas and Ginsburg. Each adopts this complete actual-scheme ground; no narrower-ground aggregation is necessary.
+
+**Limits and questions not reached:** ALJ-stage preservation, failure to request Council review, intentional waiver or deliberate sandbagging, materially new evidence and a valid future regulation remain open. No sandbagging is found. This is neither a jurisdictional defect nor a universal exemption for every nonadversarial agency.
+
+**Limits and questions not reached:** Representation by counsel does not alter the actual scheme or its notice. The broader agency-responsibility rationale has four supporters and supplies no separate controlling exemption.
+
+**Operative remedy or transition:** The case returns for ordinary judicial review of the vocational-hypothetical and consultative-examination objections. Any subsequent relief depends on their merits and governing review law. The Court orders neither benefits nor a new administrative hearing, and the separate selective-record decision remains undisturbed.
+
+**Treatment of earlier authority:**
+
+- **McCarthy v. Madigan:** Applies statutory primacy and assessment of actual agency design and interests; its damages-only BOP exception is not transplanted.
+- **Darby v. Cisneros:** Preserves its APA-specific superior-review rule; it is not a blanket bar to all issue-exhaustion requirements.
+- **Shalala v. Illinois Council on Long Term Care, Inc.:** Preserves prescribed channels and meaningful review while distinguishing a claimant who has already completed the required route.

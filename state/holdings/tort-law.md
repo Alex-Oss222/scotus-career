@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Tort Law
 
@@ -273,3 +273,39 @@ These grounds are not nested rules. A protected policy choice may be unrelated t
 **Opposing in part:** Justices Stevens, Scalia, Souter and Ginsburg. They agree that actual protected policy-selection claims cannot proceed, but would vacate the categorical dismissal of separable storage, administration and warning-execution allegations and remand for the statutory inquiry.
 
 No damages, discovery, new evidentiary hearing or remand is ordered. The wives' claims and Military Claims Act branch remain outside review. The Court does not decide the combatant-activities or foreign-country exceptions, state tort requirements, causation or the unresolved venue question.
+
+### Federal tort claims and military service
+
+#### Richards v. United States
+
+**Docket or dockets:** No. 99-731; judgment below, 176 F.3d 652; Third Circuit No. 98-7235.
+**Decided:** February 14, 2000.
+
+##### Whether the private homeward journey bars ordinary road-operation and equipment claims
+
+**Holding:** Feres does not bar the pleaded negligent-operation, negligent-maintenance and knowingly-unsafe-road-use theories arising from Richards's authorized personal journey home in his own car on a public road after permission to leave work early. His continuing active-duty status, lack of a formal pass or furlough and location within the installation bear on the connection with service but do not make this accepted private journey service-incident; the dismissal of those theories and their derivative claims is reversed and remanded for the remaining FTCA requirements and defenses.
+
+**Proposition-level authority:** Scalia's Part I, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct votes.
+
+**Limits and questions not reached:** The accepted private trip controls dismissal review even assuming, without finding, an on-post home and connecting route. No required residence, prescribed route or assigned errand is established. The decision creates no general commuting, public-road, private-purpose or assigned-task-only exception. Once service incidence exists, Stanley requires no additional actual-disciplinary-disruption showing.
+
+##### Whether military permission and assignment-order claims remain barred
+
+**Holding:** Shearer bars the theories that the Army negligently allowed an allegedly unlicensed soldier to drive this class of truck and negligently ordered him to drive despite inadequate skill or experience. Those allegations directly challenge military selection and direction of a servicemember for an assignment; the dismissal of those theories and their derivative claims is affirmed notwithstanding the injured member's accepted private travel.
+
+**Proposition-level authority:** Scalia's Part II, joined by every other Associate; eight direct votes. Stone-Zsela dissents from this component.
+
+**Limits and questions not reached:** The claims directly challenge selection and direction for a military assignment, not equipment ownership alone. No actual directive, violation, negligence or independent discretionary-function ruling is found. The family losses derive from Richards's death and follow each component; there is no separate civilian bodily injury.
+
+**Operative remedy or transition:** Reverse dismissal of the three ordinary operation/equipment theories and derivative claims; affirm dismissal of the permission and order theories and their derivative claims. Remaining negligence, causation, local-law entitlement, contributory negligence, damages, any material destination dispute and independent FTCA defenses remain for ordinary proceedings. Potts's admitted federal employment scope is not reopened; no damages, discovery entitlement, hearing, deadline or benefit offset is ordered.
+
+**Treatment of earlier authority:**
+
+- Feres v. United States — retained as the bar for service-incident injuries; neither active status nor installation geography alone supplies its threshold.
+- Brooks v. United States — applied to the accepted independent personal journey and ordinary road-safety claims; it does not create a universal public-road, commuting or formal-leave rule.
+- United States v. Brown — its distinction between military causal history and the later wrong is preserved; its postdischarge facts do not make Richards a civilian.
+- Stencel Aero Engineering Corp. v. United States — distinguished because its indemnity holding begins with a service-incident injury and does not decide the disputed classification here.
+- United States v. Johnson — retained: the tortfeasor's civilian status supplies no exception for an injury already incident to service; no such exception is adopted for this military driver.
+- United States v. Stanley — retained as foreclosing an additional case-specific disruption requirement once service incidence is established; its Bivens holding concerns an implied constitutional remedy, and its FTCA jurisdictional ruling does not decide Richards's classification.
+- United States v. Shearer — applied to the actual permission and order theories; off-duty character and ordinary-negligence terminology do not remove a direct command challenge.
+- Minns v. United States — its controlling protection of actual policy discretion, subject to binding-direction and protected-choice requirements, remains in force; its fragmented judgment supplies no controlling Feres extension or automatic military-vehicle immunity.

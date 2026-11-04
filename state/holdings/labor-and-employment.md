@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Labor and Employment
 
@@ -2567,3 +2567,141 @@ The cases return through the Fourth Circuit to the Authority for reconsideration
 - AT&T Technologies v. Communications Workers: preserves judicial determination of the submission actually made before arbitration may be compelled.
 - First Options of Chicago v. Kaplan (May 22, 1995): applies antecedent assent and independent judicial determination; its arbitrability-delegation rule is not expanded into an already-decided universal collective-waiver rule.
 - Mastrobuono v. Shearson Lehman Hutton: applies integrated, instrument-specific construction; no contractual presumption supplies missing statutory-forum language.
+
+
+
+### Public compensatory time and compulsory paid use
+
+#### Christensen v. Harris County, 529 U.S. 576 (2000)
+
+**Docket or dockets:** No. 98-1167.
+**Decided:** May 1, 2000.
+
+##### I. The statute does not make employee requests the exclusive means of using accrued time
+
+**Holding:** Section 207(o) does not categorically forbid a public employer from directing paid use of lawfully accrued compensatory time merely because no agreement specifically authorizes compulsory use. The employer remains bound by lawful agreement restrictions, protected employee requests and the statute's accrual, value and overtime requirements; compelled paid use is not permission to confiscate credits or evade overtime.
+
+**Proposition-level authority:** Part I of Justice Kennedy's opinion is supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas, six Justices in all.
+
+**Limits and questions not reached:** For the covered state, local and interstate public agencies, a wholly time-based substitute must accrue at least one-and-one-half hours for each overtime hour under the applicable representative agreement or prior individual understanding. For employees outside the applicable representative-agreement route who were hired before April 15, 1986, regular practice on that date itself supplies the agreement; no additional individual agreement is required. Moreau preserves the later-hire individual route where the chosen representative cannot lawfully enter a binding agreement. Unwritten understandings require a record; an express employment condition requires knowing, voluntary acceptance and information about preservation, use and cashout. Notice and failure to object may evidence assent, but coercion or pressure may not substitute for it. Compatible agreements may mix cash and time or set use terms while preserving the statutory premium; inconsistent terms yield to the Act.
+
+The cap is 480 hours for the specified public-safety, emergency-response or seasonal work, and 240 for other covered work. Additional overtime at the applicable cap must be compensated as overtime. Cashout may occur at any time using the regular rate when paid. Termination requires at least the higher of the final regular rate or the average over the last three years. For termination-rate averaging, employment after a break is treated as a new period when the break was intended to be permanent and post-April 14, 1986 credits were cashed out at the initial separation; if the final period is shorter than three years, averaging uses that period. No termination or rate calculation is decided here.
+
+For employee requests, customary schedules, peak demands, emergency staffing, substitutes and compatible agreement terms inform a reasonable period. An employer must reasonably and in good faith anticipate an unreasonable burden on acceptable public service to establish undue disruption; inconvenience alone is insufficient, and the statute does not guarantee the employee's exact chosen date. Section 553.25 forbids using time to evade overtime or coercing acceptance beyond what can realistically and in good faith be made available within a reasonable request period. Its request provisions exclude separately defined other compensatory time, including pre-April 15, 1986 accruals. The separate court-reporter transcript provision is not presented in this Sheriff's Department case. No violation of these distinct protections is found.
+
+**Limits and questions not reached:** No constitutional property question or blanket employer power is decided. The absence of a demonstrated agreement term defeating the categorical claim is not a finding that every employee consented or that no agreement exists.
+
+**Operative remedy or transition:** Judgment for the County and other defendants is affirmed against the categorical claim. The employees' declaration and dependent fee award remain displaced, without new agreement proceedings or revival of abandoned wrongful-refusal and retaliation claims.
+
+**Treatment of earlier authority:**
+
+- Moreau retains its distinct earlier-hire practice and later-hire legally capable representative rules; it supplies no finding about this class's actual scheduling terms or general bargaining right.
+
+For the advisory-letter and regulatory-text holdings in Christensen, May 1, 2000, No. 98-1167, see Administrative Law — Advisory statutory interpretations and regulatory textual fit.
+
+### Equitable ERISA relief against nonfiduciary recipients
+
+#### Harris Trust and Savings Bank v. Salomon Smith Barney Inc., 530 U.S. 238 (2000)
+
+**Docket or dockets:** No. 99-579.
+**Decided:** June 12, 2000.
+
+##### Equitable redress may reach a knowing nonfiduciary recipient
+
+**Holding:** Section 502(a)(3)'s authorized plaintiffs may obtain appropriate traditional equitable relief from a nonfiduciary party in interest to redress a prohibited, nonexempt section 406(a) transfer; section 406(a)'s direct duty remains the fiduciary's. For the assumed purchaser-for-value transferee here, equitable exposure requires actual or constructive notice of the circumstances making the transfer unlawful, while a purchaser for value without notice retains traditional protection; which party bears the burden on that protected status remains open.
+
+**Proposition-level authority:** Thomas's Opinion of the Court, joined by all eight other Justices; nine direct joins cover the complete holding and bounded remand.
+
+**Material application:** Those limits prevent the rule from becoming general investment-loss insurance. Restitution of tainted property or proceeds and disgorgement of resulting profits differ from ordinary compensation. Rescission and comparable equitable relief likewise require their actual predicates; calling price recovery restitution does not settle its classification. Notice concerns this assumed purchaser for value. The Court decides neither that every gratuitous recipient must have notice nor which party bears the purchaser-defense burden.
+
+**Limits and questions not reached:** Party-in-interest status, transaction prohibition, PTE75-1 or another exemption, notice, purchaser protection and burden, actual recoverable property/proceeds and the form or amount of equity remain open. No general damages action, universal monitoring duty, comprehensive future tracing formula, automatic fiduciary status or finding of initial worthlessness is adopted. No new finding about adequate alternative relief is made.
+
+**Limits and questions not reached:** Identifying the fiduciary's prohibited transfer as the violation redressed does not, without more, turn this consistently pleaded section 502(a)(3) equitable claim into a new claim.
+
+**Operative remedy or transition:** The claim returns to the lower courts for ordinary consideration of the preserved transaction, exemption, notice, purchaser-defense and equitable-relief questions. No specific amount, automatic purchase-price recovery, new fiduciary classification or special evidentiary hearing is ordered.
+
+**Treatment of earlier authority:**
+
+- **Mertens v. Hewitt Associates:** Applies its traditional-equitable-category limit while answering the distinct nonfiduciary-defendant question it reserved; ordinary compensation remains unavailable.
+- **Varity Corp. v. Howe:** Preserves the distinct individual-equity channel and its existing conditions; the Court neither classifies every monetary item as equity nor makes a new alternative-remedy adequacy finding.
+- **Peacock v. Thomas:** Applies the requirement of an actual ERISA or plan violation; equitable recipient redress rests on the alleged prohibited transfer, not a freestanding trust-law wrong.
+- **Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A.:** Preserves its source-specific restriction to section 506(c)'s designated claimant. Section 502(a)(3)'s identification of plaintiffs does not enact a categorical fiduciary-defendant restriction.
+- **Raleigh v. Illinois Department of Revenue:** Its preservation of the underlying tax claim's ultimate burden does not allocate the distinct purchaser defense left open here.
+
+### ERISA fiduciary functions and medical treatment
+
+#### Pegram v. Herdrich, 530 U.S. 211 (2000)
+
+**Docket or dockets:** No. 98-1949.
+**Decided:** June 12, 2000.
+
+##### I. Inseparable treatment decisions are not fiduciary administration
+
+**Holding:** A treating physician does not act as an ERISA fiduciary when making an inseparable decision about medically appropriate treatment and the benefit delivered through that treatment. A separate discretionary decision applying plan-coverage terms can be fiduciary administration, whoever makes it; the rule creates no general HMO exemption and does not exclude every decision involving medical information.
+
+**Proposition-level authority:** Part I of Ginsburg's Opinion of the Court, joined by all eight other Justices, supplies nine direct votes.
+
+##### II. An ordinary incentive arrangement alone establishes neither fiduciary breach nor plan assets
+
+**Holding:** Establishing or carrying out an ordinary general compensation and risk-sharing arrangement for providing medical care does not, by that fact alone, establish ERISA fiduciary conduct or breach. The HMO itself is not the employer's ERISA plan, and its revenues and profits are not automatically plan assets; actual authority or control over management or disposition of a plan asset remains governed by the statutory asset branch without an additional discretion requirement.
+
+**Proposition-level authority:** Part II of Ginsburg's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices. Stone-Zsela does not join.
+
+**Limits and questions not reached:** This is neither a general net-benefit defense to proved misconduct nor approval of every incentive system. A direct reward for denying a claim, an arrangement making impartial administration impossible, genuine asset diversion and actual disloyal administration present different predicates, none adjudicated by the pleaded general-arrangement theory.
+
+##### III. The amended structural theory fails even assuming genuine claims administration
+
+**Independent alternative holding:** Even assuming in Herdrich's favor that the amended reference to disputed and nonroutine claims describes genuine discretionary plan administration, the pleaded general year-end incentive arrangement alone states no independently disloyal claims determination, administration contrary to the plan or direct reward for denying a claim. The reviewed amended count therefore fails on that independent ground, and restoration of supplemental medical-expense payments cannot follow merely by labeling the entire HMO the plan.
+
+**Proposition-level authority for alternative holding:** Part III of Ginsburg's Opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices adopt this independently sufficient ground. Stone-Zsela joins the judgment on Part I only.
+
+**Limits and questions not reached:** Section 3(21)(A) separately reaches discretionary plan management, authority or control over management or disposition of plan assets, compensated investment advice or authority or responsibility to provide it, and discretionary authority or responsibility in plan administration. It also includes persons designated under §405(c)(1)(B). Its registered-investment-company qualification provides that plan investment in a registered company's securities alone does not make the company, adviser or principal underwriter a fiduciary or party in interest, except insofar as the company, its investment adviser or its principal underwriter acts in connection with a plan covering employees of the company, adviser or principal underwriter; duties under other law remain. That qualification is not a factual issue here.
+
+No independent disclosure, benefits-reimbursement, contract, malpractice-preemption, regulatory, personal-physician-liability or particular asset-ownership claim is decided. Prior statements about administrator or fiduciary status elsewhere do not establish the challenged function or a supported judicial-estoppel bar here; disclosure responsibility and responsibility for the disclosed incentive are distinct. The amended count does not revive superseded fraud allegations. Direct per-denied-claim rewards, actual asset misuse, misrepresentations and genuinely disloyal administration retain their own statutory predicates and remedies. The Court awards no plan amount and establishes no fee or amendment entitlement.
+
+**Operative remedy or transition:** The Seventh Circuit's revival of the reviewed amended fiduciary-breach count is reversed. On remand that count shall be dismissed. The $35,000 malpractice judgment and unreviewed counts remain undisturbed. No damages, plan restoration amount, disgorgement, fee award, new individual-physician claim or entitlement to amend is ordered.
+
+**Treatment of earlier authority:**
+
+- **Varity Corp. v. Howe:** Applies the function-specific inquiry and preserves concrete fiduciary administration and disloyal-misrepresentation liability; its individual equitable-redress holding does not convert this plan-focused claim into a different remedy channel.
+- **Lockheed Corp. v. Spink:** Applies the separation of design and actual implementation without immunizing independent administration; sponsor status alone does not decide this claim.
+- **Hughes Aircraft Co. v. Jacobson:** Applies its independent examination of implementation and breach predicates rather than equating an advantageous structure with misconduct. Its actual-asset and genuine-administration reservations remain.
+- **John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank:** Applies separate inquiries into asset status, function and breach, rather than equating business funds with plan property.
+- **Firestone Tire & Rubber Co. v. Bruch:** Preserves trust-law guidance within the enacted fiduciary functions; discretion over treatment alone is not discretion in plan administration.
+- **Mertens v. Hewitt Associates:** Preserves §502(a)(3)'s traditional-equity limits but does not bar lawful §409 restoration or supply the reason for dismissing this §502(a)(2) claim.
+- **New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance Co.; De Buono v. NYSA-ILA Medical and Clinical Services Fund:** Preserve the distinct operation of ordinary medical regulation; the Court makes no general preemption ruling here.
+
+### Intentional employment discrimination and pretext
+
+#### Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)
+
+**Docket or dockets:** No. 99-536.
+**Decided:** June 12, 2000.
+
+##### I. Prima facie proof and material falsity can support discrimination
+
+**Holding:** A prima facie case together with evidence permitting rejection of the employer's material explanation may support a finding of intentional discrimination without an additional category of direct or independent proof. It neither compels liability nor invariably defeats judgment as a matter of law: the strength of the initial inference, the probative force of falsity and the rest of the evidence the court must credit determine whether discrimination is a reasonable inference.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Hazen Paper requires age actually to motivate the decision. Falsehood, unfairness, personal hostility or another unlawful motive is not automatically age discrimination. A conclusively established different lawful reason can defeat the proposed inference. So can weak falsity evidence together with otherwise conclusive independent evidence against discrimination. These are applications of ordinary sufficiency, not a checklist demanding more evidence in every case. Merely imagining another possible motive does not defeat an inference reasonably supported by the actual proof. Substantial prima facie and falsity evidence can therefore sustain liability without a separate evidentiary category. The Court does not define every insufficient future case, alter an unpresented mixed-motive allocation or decide disparate impact.
+
+##### III. This record supports the verdict and cannot be rejected for lack of extra proof
+
+**Holding:** Reeves's prima facie showing, material evidence rebutting the recordkeeping explanation, and evidence connecting age-directed comments to Chesnut's role and influence permit a reasonable finding of intentional age discrimination. The employer is not entitled to judgment as a matter of law on this record, and the remand cannot restore the same sufficiency judgment through a renewed demand for additional proof.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Section 623(a)(1) concerns covered employment action because of age; §631(a) begins the Act's age protection at forty. The Court does not decide every ADEA proof framework or impose an under-forty comparator requirement. Employer production, plaintiff persuasion, evidentiary sufficiency and remaining remedial questions remain distinct. No liability follows merely from pension status, a mistaken business judgment, personal animosity or any false explanation.
+
+**Operative remedy or transition:** The Fifth Circuit's Rule 50 judgment for the employer is reversed. The trial evidence is legally sufficient to support the age-discrimination verdict; the verdict is to stand unless an ordinary, properly preserved and verdict-compatible independent ground warrants further relief. The remand permits consideration of remaining appellate issues, including an unresolved alternative new-trial ground if otherwise reviewable. It does not reopen the sufficiency question decided here, direct a particular new trial or make a new monetary, liquidated-damages or front-pay award.
+
+**Treatment of earlier authority:**
+
+- **St. Mary's Honor Center v. Hicks:** Applies its existing rejection of both compulsory liability from pretext alone and a mandatory further category of proof. No replacement persuasion allocation or revived presumption is adopted.
+- **Texas Department of Community Affairs v. Burdine; McDonnell Douglas Corp. v. Green:** Preserve employer production and ultimate plaintiff persuasion under the assumed indirect framework; disbelief has evidentiary force without shifting that burden.
+- **Postal Service Board of Governors v. Aikens:** Applies the focus on actual discrimination and the availability of circumstantial proof.
+- **Hazen Paper Co. v. Biggins:** Applies actual age motivation as the liability question; falsehood or another improper motive is not by itself age discrimination. Its willfulness and reserved disparate-impact issues are not redecided.
+- **O'Connor v. Consolidated Coin Caterers Corp.:** Preserves the evidentiary significance of relative age without an under-forty replacement condition or a categorical result from workforce ages.
+
+For the whole-record Rule 50 standard, see Reeves v. Sanderson Plumbing Products, Inc., No. 99-536, June 12, 2000, under Federal Courts, judgment as a matter of law.

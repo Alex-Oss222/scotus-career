@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Federal Taxation
 
@@ -948,3 +948,146 @@ For the other questions in Jefferson County v. Acker, decided 1999-06-21, at the
 McKesson supplies authority to review the federal questions in a State's own judgment and the conditional duty of backward-looking relief. Richards defeats the asserted nonparty bar while preserving genuine representative and party preclusion. Oregon Waste, West Lynn Creamery and Fulton govern the practical tax comparison; Oregon Waste and Fulton require all three compensatory predicates and preserve genuinely equivalent taxes. Tracy's regulated-service distinction does not control this classification. Reich supplies the independent prohibition against withdrawing a clearly held-out postpayment remedy. No Supreme Court precedent is overruled.
 
 For the other questions and complete operative scope in South Central Bell Telephone Co. v. Alabama, 1999-03-23, No. 97-2045, see Federal Courts.
+
+### Tax liens and state-created property rights
+
+#### Drye v. United States, 528 U.S. 49 (1999)
+
+**Docket or dockets:** No. 98-1101.
+**Decided:** December 7, 1999.
+
+##### Whether a federal tax lien reaches an existing power to accept or redirect an inheritance
+
+**Holding:** A legally effective state-created power to accept an inheritance or channel its value to another by disclaimer is a right to property within 26 U.S.C. §6321 on this record. State law defines the control, but federal law determines whether the lien reaches it; state relation back cannot erase control that already existed for federal lien purposes.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The Court does not reach a disclaimer completed before legally cognizable control arises, every prior expectancy, a spendthrift-trust interest, valuation, the recipient's liability, or any competing priority.
+
+**Operative remedy or transition:** Affirm the lien judgment on the established state-created control. No new valuation, distribution or recipient-liability ruling is entered.
+
+**Treatment of earlier authority:** United States v. National Bank of Commerce is applied for state definition of rights followed by federal lien classification. United States v. Irvine is applied by analogy to the distinction between local disclaimer effects and federal tax consequences; its gift-tax reasonable-time exception is not imported into §6321. United States v. Estate of Romani preserves specific statutory priority protections and is distinguished from the present attachment question. No precedent is overruled.
+
+### Refund payment dates and recoverable amount
+
+#### Baral v. United States, 528 U.S. 431
+
+**Docket or dockets:** No. 98-1667.
+
+**Decided:** February 22, 2000.
+
+##### Withholding and estimated income tax have their statutory payment dates
+
+**Holding:** For sections 6511 and 6512, income tax actually deducted and withheld under chapter 24 is deemed paid by the income recipient on the fifteenth day of the fourth month following the taxable year for which it is allowable as a section 31 credit; estimated income tax is deemed paid on the last day prescribed for filing that year's return without regard to filing extensions. A later return or assessment does not postpone either date.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by all eight Associate Justices, supplies nine direct votes for each proposition; no fractured rationale is involved.
+
+**Limits and questions not reached:** The decision does not classify remittances outside section 6513 or displace the distinct treatment of a genuine deposit.
+
+##### A timely claim remains subject to the separate recoverable-amount ceiling
+
+**Holding:** For a claim within section 6511(a)'s return-based period, section 6511(b)(2)(A) limits a credit or refund to tax paid during the three years immediately preceding the claim plus any extension for filing the return. Compliance with the claim-filing period does not bring payments outside that window within the recoverable amount.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by all eight Associate Justices, supplies nine direct votes for each proposition; no fractured rationale is involved.
+
+**Material application:** The withholding and estimated payment are deemed paid April 15, 1989. The June 1, 1993 claim's three-year window, enlarged by the four-month filing extension, begins February 1, 1990; neither payment falls within it. The extension enlarges the amount window without changing the estimated-payment date.
+
+**Limits and questions not reached:** Section 6511(a) timeliness is conceded, not adjudicated. No Tax Court hypothetical, incapacity, fraud, inducement, special period or general jurisdictional classification is decided.
+
+**Operative remedy or transition:** The denial of the requested $1,175 credit is affirmed because the recoverable amount is zero, not because the claim was filed late. No refund, new assessment or further hearing is ordered.
+
+**Treatment of earlier authority:**
+
+- Rosenman v. United States: distinguished as a suspense-account estate-tax deposit; its deposit rule survives for its proper setting.
+- Commissioner v. Lundy: applied for the distinction between claim timing and payment lookback; its notice-date hypothetical does not govern this actual claim.
+- United States v. Brockamp: applied for the independent recovery-amount ceiling; its reservation of genuine deposits is preserved.
+
+
+
+### Religious objections to tax collection and additions
+
+#### Adams v. Commissioner of Internal Revenue
+
+**Docket or dockets:** No. 99-798; Third Circuit No. 98-7200.
+
+**Decided:** March 6, 2000.
+
+##### Whether a conceded collection interest alone disposes of the federal RFRA defense
+
+**Holding:** For the federal RFRA defense presented here, Adams must establish a substantial burden on religious exercise; the Government must then produce evidence and persuade that applying that burden to her furthers a compelling interest by the least restrictive means. The rejection of her collection defense must be vacated because the conceded compelling collection interest and the general need for uniform taxation do not themselves complete that application-specific inquiry.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five direct votes.
+
+**Material application:** Substantial burden is assumed only for review. Adams proposes payment restricted to nonmilitary use; neither feasibility nor equivalence to unrestricted revenue is established. The Government may justify refusal on adequate existing facts and legal grounds without a mandatory study, hearing or negotiation.
+
+##### Whether the failure-to-file addition requires a separate RFRA justification
+
+**Holding:** RFRA separately governs the challenged section 6651(a)(1) failure-to-file addition. Neither a lawful underlying tax obligation nor failure to qualify for the Code exception alone establishes the Government's justification under RFRA, so the adverse RFRA determination concerning this addition is vacated for consideration of its actual filing-enforcement function and the relief sought.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five direct votes.
+
+**Limits and questions not reached:** The section 6651(a)(1) exception requires reasonable cause and absence of willful neglect. Religious sincerity alone establishes neither objective inability nor eligibility; the independent Code determination remains outside the grant.
+
+##### Whether the estimated-tax addition requires its own timely-installment justification
+
+**Holding:** RFRA separately governs the challenged section 6654 estimated-tax addition, whose justification must address timely installment revenue and the actual accommodation sought. The rejection of that RFRA defense is vacated; neither the principal tax obligation nor the independent failure to obtain a statutory waiver supplies a conclusive answer.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Scalia, Kennedy, Souter and Thomas; five direct votes.
+
+**Limits and questions not reached:** The statutory qualifications remain distinct. Section 6654(e)(3)(A) bars the addition to the extent the Secretary determines that casualty, disaster or other unusual circumstances would make its imposition against equity and good conscience. It is not a general reasonable-cause exception. Section 6654(e)(3)(B), not claimed applicable here, requires retirement after age 62 or becoming disabled in the taxable year at issue or its predecessor, together with underpayment due to reasonable cause and not willful neglect. Neither provision is section 6651's exception. Their existence does not establish comparable treatment or Adams's eligibility.
+
+**Limits and questions not reached:** The Court decides the granted RFRA defenses only. Federal RFRA's constitutional validity was not contested below and remains undecided. The independent Code and Free Exercise determinations are outside the grant and remain undisturbed without adoption as Supreme Court holdings. The Court makes no final substantial-burden finding, tax calculation, finding of selective enforcement or objective incapacity, ruling on an unidentified additional sanction, or finding that any proposed accommodation is operationally feasible. It judges neither the truth of Adams's beliefs nor the wisdom of government expenditure. No general rule allows taxpayers to direct public spending, and no general rule forecloses all tax accommodations.
+
+**Operative remedy or transition:** Vacate the collection and both specified addition determinations under RFRA and remand for separate application of its burdens. The independent Code and constitutional determinations remain undisturbed without becoming holdings of this Court. No tax cancellation, suspension, refund, exemption, spending direction or hearing is ordered.
+
+**Treatment of earlier authority:**
+
+- **Church of Scientology Flag Service Organization, Inc. v. City of Clearwater, December 5, 1994:** Its claimant-specific RFRA threshold and Government production-and-persuasion requirements apply to these federal tax defenses; the statutory burden sequence is unchanged.
+- **Swanner v. Anchorage Equal Rights Commission, March 27, 1995:** Its rejection of categorical justification from a regulatory label applies to the asserted tax-uniformity shortcut; its statutory reasoning remains operative within RFRA's valid field.
+- **American Life League v. Reno, November 13, 1995:** Its federal-enforcement inquiry, consideration of concrete alternatives and legally comparable exceptions, and rejection of a universal claimant duty to prove alternatives are applied. Its later-federal-enactment rule is unchanged.
+- **City of Boerne v. Flores, June 25, 1997:** Its limitation on RFRA's state-and-local application under Fourteenth Amendment section 5 does not decide federal RFRA's validity or displace the statutory reasoning used here.
+- **United States v. Lee, 455 U.S. 252 (1982):** Its uniform-tax and third-party-burden reasoning remains substantial guidance for the justification inquiry. Its pre-RFRA result does not dispense with RFRA's enacted application-specific requirements.
+- **Hernandez v. Commissioner, 490 U.S. 680 (1989):** Its general-revenue analysis and caution against treating every exception as comparable remain relevant; they establish no tax-wide exclusion from RFRA and no factual comparator here.
+- **United States v. Boyle, 469 U.S. 241 (1985):** Its filing-duty, reasonable-cause and genuine-inability distinctions inform the section 6651 analysis without replacing RFRA or establishing that Adams satisfies a Code exception.
+- **Employment Division v. Smith, 494 U.S. 872 (1990):** Its constitutional neutral-law rule remains unchanged and does not replace the distinct federal statutory test.
+
+#### Browne v. United States
+
+**Docket or dockets:** No. 99-632; Second Circuit No. 98-6124.
+
+**Decided:** March 27, 2000.
+
+For the independent interest-refund, abatement-review and prospective-remedy threshold holdings in Browne, March 27, 2000, No. 99-632, see Federal Courts — Tax refund and prospective-remedy thresholds.
+
+##### Whether the collected failure-to-pay addition requires its own RFRA determination
+
+**Holding:** When a taxpayer challenges the section 6651(a)(2) failure-to-pay addition under RFRA, lawful principal liability and failure to satisfy a Code exception do not by themselves justify that additional religious burden. The taxpayer must establish substantial burden; the Government must then produce evidence and persuade that applying the addition advances a compelling interest by the least restrictive means, considering the actual proposed collection alternative and the period challenged.
+
+**Proposition-level authority:** Scalia's Part I, joined by O'Connor, Kennedy, Souter and Thomas; five direct rationale votes for the specified addition.
+
+**Material application:** The Brownes filed timely and accepted unrestricted levy; this is neither Adams's nonfiling nor its nonmilitary earmark proposal. Accessible assets and unnecessary delay are allegations at the pleadings stage. Compulsory collection differs from timely voluntary payment and may support justification, but the actual proposal and challenged period require assessment. Substantial burden is assumed only for review.
+
+**Limits and questions not reached:** Section 6651 requires both reasonable cause and no willful neglect. The payment regulation requires ordinary business care and prudence despite inability to pay or undue hardship, which means substantial financial loss rather than inconvenience. Sincerity does not establish eligibility. RFRA creates no preliminary claimant feasibility burden, duty to refute every imaginable alternative or mandatory negotiation.
+
+##### Whether the collected estimated-tax addition requires a separate timely-installment inquiry
+
+**Holding:** A RFRA challenge to section 6654 must be decided against the addition's own timely-installment function, under the same substantial-burden and Government justification sequence. Later levy neither supplies payment at an earlier installment date nor, by itself, resolves whether the challenged application satisfies RFRA; the lower courts' derivative rejection is vacated for that distinct determination.
+
+**Proposition-level authority:** Scalia's Part I, joined by O'Connor, Kennedy, Souter and Thomas; five direct rationale votes for the specified addition.
+
+**Limits and questions not reached:** Section 6654(e)(3)(A) turns on the Secretary's determination that casualty, disaster or other unusual circumstances make imposition contrary to equity and good conscience. Paragraph (B) separately requires retirement after age 62 or disability in the taxable year or its predecessor, with reasonable cause and no willful neglect; 1988 retirement does not establish the timing requirement for 1993–1995. Neither exception is section 6651's exception. Later levy does not restore earlier installment revenue, and alleged avoidable delay does not itself erase already accrued additions.
+
+**Limits and questions not reached:** No final substantial-burden finding, statutory waiver eligibility, computation or religious exemption is established. Independent constitutional and ungranted Code merits retain their existing scope. Federal RFRA's constitutional validity is not decided.
+
+**Operative remedy or transition:** Vacate both collected-addition RFRA determinations, each 5–4, and remand for their separate application-specific inquiries. Adequate existing facts and legal grounds may suffice; there is no automatic hearing, refund, waiver, suspension or compulsory levy.
+
+**Treatment of earlier authority:** Adams requires a separate RFRA inquiry for each addition and is distinguished by timely filing and acceptance of unrestricted levy. Clearwater, Swanner and American Life League supply the existing burden sequence and concrete-alternative inquiry; Lee supplies substantial revenue reasons, not a tax-wide RFRA exclusion. Boerne's state-and-local holding leaves federal RFRA validity open.
+
+### Tax-claim persuasion burdens in bankruptcy
+
+#### Raleigh v. Illinois Department of Revenue, 530 U.S. 15 (2000)
+
+**Docket or dockets:** No. 99-387.
+**Decided:** May 30, 2000.
+
+For whether bankruptcy changes the ultimate persuasion burden assigned by the substantive law creating a tax claim, see the primary entry in Bankruptcy, under State tax claims and the burden of persuasion.

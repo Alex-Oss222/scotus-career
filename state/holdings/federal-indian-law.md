@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Federal Indian Law
 
@@ -567,3 +567,32 @@ For the other questions and complete operative scope in El Paso Natural Gas Co. 
 - Hagen and Yankton retain their instrument-specific inquiry into actual federal displacement; land or ownership change alone does not decide every retained right.
 - Race Horse is limited: its broader equal-footing incompatibility premise cannot terminate otherwise surviving rights merely at statehood; its distinct treaty-condition construction is not decided here.
 - Winans and Tulee are applied with Fishing Vessel: treaty uses and lawful conservation regulation can coexist.
+
+### Reserved water and compensation judgments
+
+#### Arizona v. California, 530 U.S. 392 (2000)
+
+**Docket or dockets:** No. 8, Original.
+**Decided:** June 19, 2000.
+
+##### III. Section 22 does not establish the asserted third-party bar from this payment
+
+**Holding:** Payment of this alternative-theory compromise does not itself establish a taking, extinguishment of tribal title or release of dependent reserved-water claims against all persons under section 22 of the Indian Claims Commission Act. The distinct statutory discharge asserted by the State parties therefore does not bar the Fort Yuma claim on this record; differently supported judgments with an actual title or extinguishment predicate remain open for their own analysis.
+
+**Proposition-level authority:** Part III of Stevens's Opinion of the Court, joined by all seven other Associate Justices; eight Justices. Stone-Zsela agrees only in the disposition of this independent statutory component and adds no ground.
+
+**Limits and questions not reached:** Section 22(a) gives a Commission report determining entitlement to recovery, when filed with Congress, the effect of a final Court of Claims judgment and authorizes payment; payment discharges the United States from claims and demands touching the controversy. Section 22(b) separately makes an adverse final determination, made and reported under the Act, a bar to further claims against the United States arising from that matter. The recovery/payment trigger and the adverse-determination trigger are distinct, and both provisions identify claims against the United States.
+
+##### IV. The two submitted settlements are approved on their particular terms
+
+**Holding:** The Court approves the Fort Mojave and Colorado River Reservation agreements recommended by the Master and permits their incorporation into implementing decree provisions at the terms stated below. Approval rests on these agreements and this record under the Court's existing original-jurisdiction authority; it establishes no general approval test and resolves no additional title or water question.
+
+**Proposition-level authority:** Part IV of Stevens's Opinion of the Court, unanimous on both independent settlement approvals.
+
+**Material application:** **Fort Mojave terms:** The agreement specifies the reservation boundary near the Hay and Wood Reserve. It permits the lesser of an additional 3,022 acre-feet or enough water for 468 acres. The United States and Tribe may make no further reserved Colorado River water claims for lands within the Hay and Wood Reserve. Competing claims to title and jurisdiction over the bed of the last natural course of the Colorado River within that boundary remain reserved, as do private land claims, title and jurisdiction. Approval does not leave the specified reservation boundary wholly undetermined, but it does not decide those reserved riverbed and private rights.
+
+**Colorado River Reservation terms:** The agreement permits the lesser of an additional 2,100 acre-feet or enough water to irrigate 315 acres. The United States and Tribes may make no further reserved Colorado River water claims for reservation lands in California. The disputed boundary remains unadjudicated in this proceeding, including the competing ambulatory-west-bank and fixed-line theories; competing riverbed-title and jurisdiction claims remain reserved. The agreement requires both the Master's and Court's approval; the Court supplies its approval here on the Master's recommended agreement.
+
+**Limits and questions not reached:** No new release, additional water number, private-title adjudication, universal settlement framework or present final Fort Yuma decree follows. The Master shall continue the unresolved Fort Yuma proceedings and provide appropriate implementing decree provisions for the approved agreements, subject to the Court's further action. No objection deadline or final supplemental-decree text is entered by this decision.
+
+For the separate Arizona I forfeiture, Docket 320 preclusion holdings and Fort Yuma return, see Arizona v. California, No. 8, Original, June 19, 2000, under Federal Courts, preclusion in continuing original actions.

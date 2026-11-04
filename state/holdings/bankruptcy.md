@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1998
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
-**Edition:** October 29, 2026
+**Last completed October Term:** 1999
+**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
+**Edition:** November 3, 2026
 
 ## Bankruptcy
 
@@ -745,3 +745,55 @@ For the other questions in McClellan Federal Credit Union v. Parker, decided 199
 - Haggar supplies actual-authority and statutory-limit review, distinct from particular validity and application.
 - Associates Commercial Corp. v. Rash follows its particular retained-collateral valuation rule; it supplies no universal pension discount method.
 - LaSalle separates the legal allocation of rights from their numerical valuation and imposes no general market test on this claim.
+
+### Independent recovery from secured collateral
+
+#### Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A., 530 U.S. 1 (2000)
+
+**Docket or dockets:** No. 99-409.
+**Decided:** May 30, 2000.
+
+##### Section 506(c) gives the independent recovery power to the trustee
+
+**Holding:** Only the trustee, including a debtor in possession exercising the trustee's statutory powers, may invoke section 506(c) in its own right to recover reasonable, necessary costs of preserving or disposing of property securing an allowed secured claim, to the extent those costs benefit the secured claimholder. An unpaid administrative claimant's status and asserted benefit to the collateral do not create an independent section 506(c) action.
+
+**Proposition-level authority:** Thomas's opinion is joined in full by all eight other Justices; nine direct votes establish the complete holding and bounded affirmance.
+
+**Limits and questions not reached:** The Court reserves authorized derivative pursuit, assignment, actual trustee recovery, its allocation or recovery before payment of the expense, debtor-in-possession action and genuinely separate remedies on their own predicates. Hartford's Rule 7071/Rule 71 financing-order theory was first raised en banc and rejected as an unpleaded matter outside that limited review; the reservation does not revive it. Ultimate collateral benefit and administrative allowance remain unadjudicated.
+
+**Operative remedy or transition:** The en banc direction vacating the surcharge and dismissing Hartford's independent section 506(c) claim stands. Separate estate claims and genuinely authorized alternative procedures remain subject to their own preservation and substantive requirements; this judgment orders none and revives no unpleaded claim.
+
+**Treatment of earlier authority:**
+
+- **Patterson v. Shumate** and **Taylor v. Freeland & Kronz:** Applied for enforcing enacted bankruptcy text and distinct procedures; their actual exclusions, deadlines and reservations remain unchanged.
+- **United States v. Noland** and **United States v. Reorganized CF&I Fabricators:** Applied to preserve authorized bankruptcy equity while rejecting a substitute allocation unsupported by the Code; no universal misconduct rule is added.
+- **PBGC v. CF&I Fabricators:** Its distinction between underlying entitlement, allowance and distribution supports treating section 503 and section 506(c) as separate questions.
+- **Mertens v. Hewitt Associates:** Applied for attention to the statutorily authorized remedy; its ERISA remedy holding does not itself answer the different bankruptcy text.
+- **Dewsnup v. Timm:** Distinguished as a confined contextual construction of lien language; it creates no general authority to replace a named claimant with another.
+
+### State tax claims and the burden of persuasion
+
+#### Raleigh v. Illinois Department of Revenue, 530 U.S. 15 (2000)
+
+**Docket or dockets:** No. 99-387.
+**Decided:** May 30, 2000.
+
+##### Bankruptcy does not itself change the tax claim's burden of persuasion
+
+**Holding:** Unless the Bankruptcy Code expressly provides otherwise, the ultimate burden of persuasion governing a tax claim in bankruptcy remains the burden assigned by the substantive law creating that claim. Illinois's allocation therefore remains with the estate here; express federal burden rules, a proof of claim's prima-facie evidentiary effect and the underlying elements of tax liability remain distinct.
+
+**Proposition-level authority:** Breyer's opinion is joined in full by all eight other Justices, giving nine direct votes for the complete rule and bounded affirmance.
+
+**Material application:** Illinois's notice places production and persuasion on the responsible officer. The liability still requires control, supervision or responsibility for returns or payment and willful failure to perform the duty. Naming Pluhar as financial officer may meet production but does not itself carry persuasion. The lower record contained no proof of Stoecker's responsibilities or willfulness and no proof that he saw or relied on counsel's no-tax-due letter. This Court makes no new finding of knowing evasion or exclusive responsibility.
+
+**Limits and questions not reached:** Congress may supply a different federal rule. Valid assessment defenses, ordinary evidentiary requirements and federal dischargeability remain available on their actual predicates. The grant does not reopen the separate isolated-sale, tax-jurisdiction, timeliness or equitable-subordination determinations, and no amount or payment follows from allocating persuasion alone.
+
+**Operative remedy or transition:** The Seventh Circuit's existing disposition, including its remand, remains in force at the granted scope. Any remaining ordinary proceedings retain their actual basis. This Court orders no new evidentiary opportunity, exact recovery, priority change or payment and reopens none of the distinct lower determinations outside the grant.
+
+**Treatment of earlier authority:**
+
+- **Butner v. United States, 440 U.S. 48:** Applied to preserve the state claim's substantive incidents absent a governing federal change; it does not make every procedural detail state law.
+- **Grogan v. Garner, 498 U.S. 279:** Applied to separate underlying liability from the federal dischargeability inquiry and its burden.
+- **Director, OWCP v. Greenwich Collieries:** Its production/persuasion distinction is applied; its APA-based proponent burden is not transferred to bankruptcy without a statutory basis.
+- **United States v. Noland** and **United States v. Reorganized CF&I Fabricators:** Applied against generalized equitable alteration while preserving authorized claim-specific equity; federal priority characterization does not itself determine the burden of proving state tax liability.
+- **PBGC v. CF&I Fabricators:** Applied to require reconciliation of an external liability rule with federal allowance, not automatic replacement of the former.
