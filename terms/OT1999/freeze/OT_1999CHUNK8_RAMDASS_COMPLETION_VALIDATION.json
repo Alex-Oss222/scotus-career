@@ -1,0 +1,58 @@
+{
+  "record": "ramdass-v-angelone_merits_2000-06-12.md",
+  "date": "2000-06-12",
+  "form_selected_before_count": true,
+  "fresh_count_total": 82,
+  "chosen_author": "Stevens",
+  "full_opinion_joins": [
+    "Stevens",
+    "Stone-Zsela",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "part_i_joins": [
+    "Stevens",
+    "Stone-Zsela",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "vacatur_support": 5,
+  "vacatur_opposition": 4,
+  "fact_ground_rejection_preserved_support": 9,
+  "independent_statutory_dissent": 4,
+  "categorical_no_error_dissent": 3,
+  "public_projection_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_public_identity": true,
+  "no_fresh_commitment_needed": true,
+  "prior_process_files_unchanged": true,
+  "full_term_validation": "Parent operator integration pending",
+  "controlling_explanation_word_counts": [
+    88,
+    264,
+    242,
+    167
+  ],
+  "all_explanations_within_350_words": true,
+  "public_block_order_valid": true,
+  "seamless_record_text_check": true,
+  "individual_precedent_lines": true,
+  "own_record_checks_complete": true
+}

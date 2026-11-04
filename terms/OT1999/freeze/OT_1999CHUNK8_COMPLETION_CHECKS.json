@@ -1,0 +1,74 @@
+{
+  "completed_chunk8_events": 12,
+  "stopped_matters": {},
+  "prior_render_input_entries_unchanged": 10,
+  "existing_files_changed": [
+    "render-inputs/OT_1999CHUNK8.md",
+    "runtime/OT_1999CHUNK8_STOPS.json",
+    "workspace/continuity.md",
+    "workspace/ledger.md",
+    "workspace/manifest.md",
+    "workspace/neutral-projection.md"
+  ],
+  "new_files": [
+    "freeze/OT_1999CHUNK8_APPRENDI_ASSEMBLY_VALIDATION.json",
+    "freeze/OT_1999CHUNK8_APPRENDI_ASSIGNMENT_FIT.md",
+    "freeze/OT_1999CHUNK8_APPRENDI_COUNTS.json",
+    "freeze/OT_1999CHUNK8_APPRENDI_FORM.md",
+    "freeze/OT_1999CHUNK8_APPRENDI_RAMDASS_LAW_REVIEW.md",
+    "freeze/OT_1999CHUNK8_COMPLETION_CHECKS.json",
+    "freeze/OT_1999CHUNK8_COMPLETION_VALIDATION.md",
+    "freeze/OT_1999CHUNK8_RAMDASS_COMPLETION_FORM.md",
+    "freeze/OT_1999CHUNK8_RAMDASS_COMPLETION_VALIDATION.json",
+    "records/apprendi-v-new-jersey_merits_2000-06-26.md",
+    "records/ramdass-v-angelone_merits_2000-06-12.md",
+    "runtime/chunk8_complete_apprendi.py",
+    "runtime/validate_apprendi_completion.py"
+  ],
+  "assignment_counts": [
+    {
+      "receipt": "OT_1999CHUNK8_RAMDASS_COMPLETION_COUNTS.json",
+      "matches_actual_earlier_records": true,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 9,
+        "Souter": 9,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 9
+      },
+      "total": 82
+    },
+    {
+      "receipt": "OT_1999CHUNK8_APPRENDI_COUNTS.json",
+      "matches_actual_earlier_records": true,
+      "counts": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "total": 89
+    }
+  ],
+  "records": [
+    {
+      "record": "ramdass-v-angelone_merits_2000-06-12.md",
+      "sha256": "f87c6c4d36bc6d3dd136ad7340bc9be8b16e2f106dd5b199872fa417bba730ba"
+    },
+    {
+      "record": "apprendi-v-new-jersey_merits_2000-06-26.md",
+      "sha256": "d0142e64e2ef12989dd83764e8c68567149c017eba9030168072d1803cf7b6ca"
+    }
+  ],
+  "errors": [],
+  "repository_verification": "Git commands prohibited; no repository-reference existence check performed. Prior assignment receipts remain historical and are not re-evaluated after later-written earlier-date Records."
+}

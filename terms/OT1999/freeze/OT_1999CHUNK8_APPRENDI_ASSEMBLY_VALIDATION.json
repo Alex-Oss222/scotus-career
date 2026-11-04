@@ -1,0 +1,29 @@
+{
+  "record": "apprendi-v-new-jersey_merits_2000-06-26.md",
+  "record_sha256": "d0142e64e2ef12989dd83764e8c68567149c017eba9030168072d1803cf7b6ca",
+  "public_projection_sha256": "836214e38f6e852df9c865d226c412cfda73751a751edf016c2c50f752ae1c9a",
+  "eleven_blocks_in_order": true,
+  "substantive_projection_identity": true,
+  "controlling_explanation_words": 299,
+  "all_relative_links_resolve": true,
+  "original_action_language_check": true,
+  "legal_review": "Frozen commitments, renewed approved Stone scope and bounded final joins compared in assembly; no new independent modeling claimed.",
+  "judgment_support": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "judgment_opposition": [
+    "O'Connor",
+    "Kennedy",
+    "Breyer"
+  ],
+  "counted_author_credits": 89,
+  "earlier_ramdass_lead_counted": true,
+  "same_date_later_dickerson_excluded": true,
+  "author": "Stone-Zsela",
+  "no_git_command_used": true
+}
