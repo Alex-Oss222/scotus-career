@@ -15,3 +15,5 @@ A case-specific Section II may cite one of these files to explain Stone's method
 | [STONE_EQUALITY_VOTING_TRACKER.md](STONE_EQUALITY_VOTING_TRACKER.md) | Working tracker | Equality and voting only: completed cases by term; reserved landmark cases with their historical questions and blank Stone disposition and reasoning fields; current doctrine and how it operates; cleanup questions with vehicles and blank answer fields. Registers and Records control. |
 
 No superseded duplicate build is retained in this directory as of the OT1993 opening preparation. `STONE_FULL_BUILD_THROUGH_OT2001.md` is a one-line pointer to the renamed build, kept so links in completed OT1994 materials resolve; it carries no content.
+
+Branch practice: the user authorized on November 6, 2026 that changes to Stone planning files in this directory may be committed directly to `main`.
