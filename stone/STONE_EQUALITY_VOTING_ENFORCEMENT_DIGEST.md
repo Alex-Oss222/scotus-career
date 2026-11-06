@@ -1,6 +1,6 @@
 # Stone: equality, Fourteenth Amendment and VRA doctrine at the OT2000 opening
 
-Planning material under `stone/README.md`. This file extracts Stone's equal protection, Fourteenth and Fifteenth Amendment enforcement, state immunity, private enforcement and Voting Rights Act positions from `STONE_FULL_BUILD_THROUGH_OT2001.md`, checks each against the law the Court actually made through June 29, 2000, and lists the questions Stone still has to answer. It is not entering law and fills no Section II. The Holdings and Standards and Tests registers, the Canonical Decision Records and approved Section II positions control over anything here.
+Planning material under `stone/README.md`. This file extracts Stone's equal protection, Fourteenth and Fifteenth Amendment enforcement, state immunity, private enforcement and Voting Rights Act positions from `STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md`, checks each against the law the Court actually made through June 29, 2000, and lists the questions Stone still has to answer. It is not entering law and fills no Section II. The Holdings and Standards and Tests registers, the Canonical Decision Records and approved Section II positions control over anything here.
 
 Sources checked: `state/holdings/civil-rights.md`, `election-law.md`, `constitutional-structure.md`, `federal-courts.md`; `state/STANDING_STATE.md`; `terms/OT1992` through `terms/OT1999` close indexes (`SEPARATE_WRITINGS.md`, `DEPARTURES.md`) and selected records; `terms/OT2000/case-list.md`; `stone/MASTER_JURISPRUDENCE.md` Parts II and IV. No OT2000 brief exists yet.
 
@@ -14,7 +14,7 @@ The largest problem is internal. On state immunity, the build and the master jur
 
 ## 2. Stone's doctrine as the build states it
 
-This section extracts the equal protection, Fourteenth Amendment, Fifteenth Amendment and Voting Rights Act positions from `stone/STONE_FULL_BUILD_THROUGH_OT2001.md`, stripped of case narration. Each item is Stone's position, not law; section 3 says which items became law.
+This section extracts the equal protection, Fourteenth Amendment, Fifteenth Amendment and Voting Rights Act positions from `stone/STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md`, stripped of case narration. Each item is Stone's position, not law; section 3 says which items became law.
 
 ### 2.1 Method common to every case
 
