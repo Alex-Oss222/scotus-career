@@ -115,7 +115,7 @@ Do not include Stone's merits position, Stone's certiorari vote, historical peti
 
 # SECTION II: STONE POSITION SUPPLEMENT
 
-Section II contains Stone's case-specific position. Keep current simulated law distinct from Stone's personal view.
+Section II records Stone's own legal judgment, reasoning, and preferred disposition. It does not establish the Court's holding, determine which Justices agree with him, or make his position binding precedent; those consequences belong to the simulation of the Court. Keep current simulated law distinct from Stone's personal view. Subsections B and C govern merits-stage positions; Subsection D separately governs certiorari, and a petition-stage brief does not require a merits holding.
 
 ## A. STATUS
 
@@ -137,16 +137,16 @@ For each docket or separable judgment component:
 
 ## C. ISSUE POSITIONS
 
-Answer each question Stone reaches as a whole: whether the right, power, or cause of action exists, its reach within the question, and the remedy. Do not leave reach or remedy for a later case unless a Boundary ground below applies.
+For each question Stone reaches, state his complete position on it: whether the right, power, or cause of action exists, its reach within the question, and the remedy. Do not leave reach or remedy for a later case unless a Boundary ground below applies. Stone need not reach a question his judgment does not require, such as a constitutional question when a sufficient statutory ground decides the case; say so under Threshold and Merits Reach. Do not decide additional questions merely to complete the template.
 
 Repeat for each issue Stone lawfully reaches:
 
 ### Issue [number]: [short description]
 
 * **Threshold and Merits Reach:** [whether and why Stone reaches the issue, resting on the record rather than on Section I's summary]
-* **Question Stone Resolves:** [the question as presented; narrow it only if the Court must]
+* **Question Stone Resolves:** [the question Stone must answer to reach his judgment, including necessary antecedent questions, framed as presented; its scope follows the law, record, and posture, not the anticipated votes of other Justices]
 * **Stone's Legal Position:** [apply current law, apply it differently, or propose changing it; say which]
-* **Stone's Proposed Holding:** [the complete answer: the controlling rule at the level of generality Stone's reasoning supports, the material applications it governs, and its application to this case; do not narrow or expand it merely to limit future consequences]
+* **Stone's Proposed Holding:** [the legal rule Stone would adopt, at the level of generality his reasoning supports, the material applications it governs, and its application to this case; state whether he applies existing law or would change it. This is Stone's proposed rule, not the Court's holding. Do not narrow or expand it merely to limit future consequences.]
 * **Reach Within the Question:** [the persons, conduct, claims, or statutes the rule covers and any it excludes]
 * **Essential Reasoning and Record Application:** [compact but complete]
 * **Boundary or Reserved Question:** [only a question that lies outside the question presented, was not raised or preserved, or needs facts the record lacks; name which ground applies. Otherwise "None."]
@@ -162,7 +162,7 @@ Complete only if Stone has an expressly approved petition-stage position.
 * **Case-Specific Institutional Ground:** [ground]
 * **Status:** [final or interim]
 
-Otherwise omit this subsection. The Engine will simulate Stone's petition-stage vote neutrally.
+Otherwise omit this subsection. The Engine will simulate Stone's petition-stage vote from the neutral petition-stage materials, without his merits position.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
