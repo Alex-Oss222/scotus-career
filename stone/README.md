@@ -10,5 +10,6 @@ A case-specific Section II may cite one of these files to explain Stone's method
 | [STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md](STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md) | Live multi-term roadmap | Stone-only Commerce Clause/federalism planning. Later roadmap entries are not earlier-term law. |
 | [STONE_FULL_BUILD_THROUGH_OT2001.md](STONE_FULL_BUILD_THROUGH_OT2001.md) | Live multi-term roadmap | Stone-only voting, equality, congressional-power, institutional-access, and related planning through OT2001. Causal docket deletions/reconstructions are planning instructions until implemented in a term inventory. |
 | [Second_Amendment.md](Second_Amendment.md) | Live multi-term roadmap | Stone-only Second Amendment planning. Future vehicles and status labels are proposals, not silently imported holdings. |
+| [STONE_EQUALITY_VOTING_ENFORCEMENT_DIGEST.md](STONE_EQUALITY_VOTING_ENFORCEMENT_DIGEST.md) | Working digest at the OT2000 opening | Extracts the build's equality, enforcement and VRA positions, checks them against controlling law through June 29, 2000, and lists the open questions for OT2000 Section II preparation. Registers and Records control. |
 
 No superseded duplicate build is retained in this directory as of the OT1993 opening preparation.
