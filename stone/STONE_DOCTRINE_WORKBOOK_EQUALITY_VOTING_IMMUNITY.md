@@ -199,7 +199,7 @@ These are side questions the Article I rule opened that no landmark will answer 
 5. State-court forum beyond the FLSA. Alden's rule is FLSA-specific in its holding.
 6. The Seminole leftover. Direct-State amenability under the gaming statute is still fractured, though Florida Prepaid Pt III's logic covers the Indian Commerce power.
 
-These have to be closed by vehicles, since no historical Supreme Court case will raise them in this form. Candidate lower-court vehicles from 1999 to 2002, to be verified before any is added to a case list (court and year from memory; citations not yet checked): Alsbrook v. City of Maumelle (Eighth Circuit en banc, 1999), ADA Title II abrogation, for item 3; Hason v. Medical Board of California (Ninth Circuit, 2002), Title II and professional licensing, for item 3; Jim C. v. United States (Eighth Circuit en banc, 2000), the Arkadelphia school case, for §504 consent by accepting funds, which Bradley left open, decided without reaching Sossamon's damages-scope question. No vehicle yet identified for items 1, 2 or 4. None of these is in any inventory now.
+These have to be closed by vehicles, since no historical Supreme Court case will raise them in this form. Vehicles for these items are in Part F.
 
 ### B.3 What stays reserved
 
@@ -276,28 +276,70 @@ These have to be closed by vehicles, since no historical Supreme Court case will
 33. The §1983 rights test. Gonzaga (OT2001) decides its own question; later Armstrong (OT2014) and Talevski (OT2022) reserved.
 34. Catalyst fees. Buckhannon (OT2000) decides its own question.
 
-## Part D. Collisions on the OT2000 list
+## Part D. Collisions on the OT2000 list, with the user's decisions
 
-| Vehicle | Its question | Landmark it collides with | Options |
+The user decided on November 6, 2026 that collisions may be answered now and reinforced later, except where Parents Involved (OT2006) or the Obergefell line would be affected.
+
+| Vehicle (case-list No., chunk) | Collides with | Decision | Note |
 |---|---|---|---|
-| Chen v. City of Houston (May 21, 2001) | Does equal protection permit apportionment by total population when citizen voting-age populations differ materially? | Evenwel v. Abbott (OT2015), the same question | (a) Decide it and record Evenwel as pre-decided. (b) Decide narrowly on Houston's record and reserve the general question, though the question as framed leaves little room. (c) Drop or reframe the vehicle. |
-| Daggett (December 11, 2000), Question 2 | Are matching funds triggered by an opponent's spending permitted? | Arizona Free Enterprise Club v. Bennett (OT2010) | Same three options. Daggett's other questions (Maine's $250 limit; combined coercion) do not collide. |
-| Brewer v. West Irondequoit (January 9, 2001) | May a voluntary transfer program restrict eligibility by race to reduce isolation absent de jure segregation? | Parents Involved (OT2006); the objective is already decided by Eisenberg | Decide on the preliminary-injunction posture, the interdistrict structure, or state-law authority, and reserve the general fit of racial eligibility rules. Verify which judgment is under review; historically the Second Circuit had already vacated the injunction. |
-| Nguyen (June 11, 2001), remedy | If the statute fails, what remedy? | Morales-Santana (OT2016) | Follow Stone's Miller dissent: remand with options, without choosing leveling up or down. |
-| Sterling (April 24, 2001) | Informational privacy and sexual orientation | Lawrence, Windsor, Obergefell (orientation tier) | Decide on privacy and immunity; hold nothing about the equality tier. |
+| Daggett (No. 10, chunk 1) | Arizona Free Enterprise (OT2010) | Delete | Only Question 2 (matching funds) is Arizona Free Enterprise's question. Questions 1 (Maine's $250 limit) and 3 (combined coercion) do not collide; deleting the case drops them too. |
+| Brewer v. West Irondequoit (No. 17, chunk 2) | Parents Involved (OT2006) | Delete | Eisenberg Pt II already answered Parents Involved's objective question. Deleting Brewer protects only the method question (whether individual students may be assigned by race), which is the part still open. |
+| Sterling v. Borough of Minersville (No. 59, chunk 5) | The Lawrence, Windsor and Obergefell line | Delete | |
+| Chen v. City of Houston (No. 72) | Evenwel (OT2015) | Keep and decide | Evenwel becomes pre-decided. |
+| Nguyen v. INS (No. 93) | Morales-Santana (OT2016) | Keep and decide, including the remedy | Morales-Santana becomes an application if the simulation reaches it. |
+
+Deleting the three removes them from `terms/OT2000/case-list.md` (114 matters become 111, renumbered; chunk sizes become 11, 14, 14, 15, 13, 15, 14 and 15) and from the sim-granted docket in `state/STANDING_STATE.md` (27 sim grants become 24). Not yet applied; awaiting the user's confirmation after the Daggett note above.
+
+No other OT2000 entry touches Parents Involved or the orientation line. For later terms, avoid adding Parents Involved's own lower-court cases (Seattle, Louisville, and Comfort v. Lynn School Committee) or orientation vehicles such as Lofton v. Secretary of the Florida Department of Children and Families (Eleventh Circuit, 2004) as vehicles.
 
 ## Part E. What I need from the user
 
 The user's answers are needed only where the choice is a value judgment Stone's materials do not settle. The law, records, case histories and consequences are research questions, and the analysis above already rests on them.
 
 In docket order:
-1. Part D: each collision's option, starting with Daggett (December 11) and Brewer (January 9).
-2. Part A.8: the districting choices, and whether to find a dedicated vehicle before OT2005.
+1. Part D: confirm the three deletions (Daggett, Brewer, Sterling) after the Daggett note. Decided: Chen and Nguyen stay.
+2. Part F.1: which vehicles to add to which term's case list. The districting choices in A.8 are then answered case by case as those vehicles are briefed.
 3. Sinkfield: confirm dropping the Vera standing narrowing.
-4. Part B.5: immunity cleanup order, Garrett on Article I alone, the B.1 recordings, the B.3 reservations.
-5. C.2 items 17 and 18 (alternatives element; neutral means), before Brewer.
-6. C.3 item 27 (citizenship standard) before Nguyen.
+4. Part B.5 and F.2: immunity cleanup vehicles, Garrett on Article I alone, the B.1 recordings, the B.3 reservations.
+5. C.2 item 17 (alternatives element). Item 18 (neutral means) can wait now that Brewer is deleted.
+6. C.3 item 27 (citizenship standard) and the remedy direction before Nguyen.
 7. C.4 item 32 (Powell) before Sandoval.
-8. Area by area, whether the "free play" fields in 0.3 replace their historical landmarks or should be held to the same branch policy.
 
 A useful way to answer each: say what result Stone would want in the hardest case on each side. For unequal participation, would Stone want a claim to exist where a county closes polls only in Black neighborhoods and no one admits a racial purpose? Would he want one where a district is 60% Black but every voter votes under identical rules? Those two answers mostly fix the elements.
+
+## Part F. Vehicles: the case and the question
+
+Each entry gives a real case, where it sits historically, the question as it would be framed for this timeline, and which open element it defines. Every vehicle still needs a case-list entry with its question presented and, where this timeline's law changes its posture, an Engine §14 reconstruction premise. Facts below were checked against the opinions or reliable summaries on November 6, 2026; points not confirmed are marked.
+
+### F.1 The districting injuries, in the order they would arrive
+
+| Term | Vehicle | Question | Defines |
+|---|---|---|---|
+| OT2000 | Sinkfield v. Kelley (already listed) | Do voters in districts next to the challenged districts have standing, and does standing depend on the specific injury they claim? | Standing follows injury; whether to drop the Vera narrowing |
+| OT2000 | Easley v. Cromartie (already listed) | What independent claim, if any, survived Hunt's mandate? Do legislators' official statements describing a district in racial terms (the record includes a staff email reporting that the "Greensboro Black community" had been moved into the 12th District) establish a civic-status injury? Is "other independently cognizable deprivation" a residual category? | A.8 item 3 (statements: evidence or injury); the catch-all |
+| OT2002 | Cano v. Davis, 211 F. Supp. 2d 1208 (C.D. Cal. 2002) (three-judge court), summarily affirmed, 537 U.S. 1100 (January 13, 2003) | (1) Does a legislature act with the purpose required for intentional vote dilution when it deliberately limits the number of Latino voters in a district to protect an incumbent from a Latino-preferred primary challenger, without hostility toward Latino voters? (2) Once that purpose is shown, what dilutive effect must the plaintiff prove: the full Gingles showing, a relaxed version, or only a reduced opportunity compared with an alternative? | A.2 element 3 (purpose) and element 2 (effect) |
+| OT2002 | Black v. McGuffage, 209 F. Supp. 2d 889 (N.D. Ill. 2002) (motion to dismiss denied; later settled) | Does a State's use of voting equipment that leaves materially more ballots uncounted where Black and Latino voters are concentrated state (a) an equal-protection claim of unequal treatment of ballots without any racial classification, and (b) a racial unequal-participation claim where the disparity correlates with race but no racial purpose or assignment is alleged? | A.3 element 2 ("materially worse terms") and element 3 (correlation is evidence, not causation); the link to Bush v. Gore |
+| OT2002 | Arakaki v. Hawaii, 314 F.3d 1091 (9th Cir. December 31, 2002) | May a State restrict candidacy for a public office to persons of a specified ancestry? Is the restriction analyzed as a denial of the franchise (Fifteenth Amendment), as inferior civic status (Equal Protection), or under §2? | A.4 element 1 (legal operation) and element 3 (no proof that the excluded candidate would have won); Rice's reserved candidate-qualification question |
+| OT2003 or OT2004 | Johnson v. Governor of Florida, 353 F.3d 1287 (11th Cir. 2003), vacated and reheard en banc, 405 F.3d 1214 (11th Cir. 2005) | Does a felon-disenfranchisement provision adopted in 1868 for the purpose of excluding Black voters still violate the Equal Protection Clause after its 1968 reenactment, and what must a reenacting legislature do to remove the original purpose? | A.1 (exclusion by proven purpose); how purpose carries forward. The case also has a §2 felon-disenfranchisement claim, a vote-denial question the user may leave out. |
+| OT2004 | Spencer v. Blackwell, 347 F. Supp. 2d 528 (S.D. Ohio November 1, 2004); stayed, Summit County Democratic Central & Executive Committee v. Blackwell, 388 F.3d 547 (6th Cir. 2004); Justice Stevens declined to vacate the stay, Spencer v. Pugh, 543 U.S. 1301 (2004) | Does a polling-place challenge system alleged to discriminate against Black voters impose materially unequal participation on account of race? Is that injury complete before any voter is turned away? Are party-designated challengers acting under state statute state actors? | A.3 element 3 (racial assignment to worse terms); Miller's "complete when government imposes it"; state action. The complaint alleged the system discriminated against Black voters; precinct-level deployment facts not yet confirmed. |
+| OT2004 | Bone Shirt v. Hazeltine, 336 F. Supp. 2d 976 (D.S.D. September 15, 2004), affirmed, 461 F.3d 1011 (8th Cir. 2006) | Does placing a cohesive minority group in a district at about 90% of the population, far above what it needs to elect its candidates, when a lawful alternative would create an additional opportunity district, establish dilution under §2? What evidence separates unnecessary packing from a reasonable margin of safety? | A.2 element 2 for packing; A.8 item 4 (packing as evidence). Statutory only, so it does not decide constitutional purpose. |
+
+What Cano actually held, for the record: the three-judge court treated the Equal Protection claim as both a Shaw claim and a "traditional Equal Protection vote dilution claim." It assumed that the map-drawer, the incumbent's brother, moved Latino voters out of District 28 to reduce the incumbent's exposure to a Latino primary challenger, "seriously question[ed]" whether that is the invidious purpose Mobile v. Bolden requires, and rested its judgment on effect instead. It said "the effects standard for an intentional vote dilution claim is uncertain, largely because of a dearth of precedent," held that intent may justify relaxing the first or second Gingles conditions, and required at minimum proof that the group is unlikely to elect its candidates because of the hostility of other voters. The opinion is per curiam (Reinhardt, Snyder and Morrow); no separate writing appears. In this timeline its Shaw component is foreclosed, and its dilution questions are exactly A.2's open elements.
+
+Answering A.8 through these vehicles: item 1 (the four design choices) can be stated in Cano, the first case that needs the full structure; item 2 in Spencer or Black v. McGuffage; item 3 in Easley and Arakaki; item 4 in Bone Shirt and Cano; item 5 is answered by this table. All arrive before LULAC (OT2005).
+
+### F.2 State-immunity cleanup
+
+| Item | Vehicle | Question | Status |
+|---|---|---|---|
+| B.2(1) valid duty; B.2(2) clear statement | Garrett (OT2000, already listed) | Applying Florida Prepaid Pt III: does the ADA unmistakably authorize suit, and is Title I's duty within the commerce power as applied to state employers? | Stating both steps as the rule's elements is applying the rule, not deciding more than needed. |
+| B.2(2) clear statement with general language | Raygor v. Regents of the University of Minnesota, 534 U.S. 533 (decided February 27, 2002; OT2001, a historical Supreme Court case) | Does 28 U.S.C. §1367(d), which tolls limitations for "any claim asserted under subsection (a)," unmistakably reach claims against a nonconsenting State? | Real docket; becomes more significant now that Article I abrogation exists. |
+| B.2(3) sovereign functions | Hason v. Medical Board of California, 279 F.3d 1167 (9th Cir. 2002); certiorari granted, No. 02-479, then dismissed April 7, 2003 | May Congress, under Article I, authorize private suits against a State for its professional-licensing decisions? If not, is ADA Title II valid §5 legislation as applied to licensing? | Real Supreme Court grant (OT2002). Arrives before Lane (OT2003); to keep Lane's court-access question open, decide the Article I part and the licensing application only. |
+| B.2(4) remedy limits | Barnes v. Gorman, 536 U.S. 181 (decided June 17, 2002; OT2001) | Are punitive damages available in private suits under ADA Title II and §504? | Partly on point: the defendant was a municipal police board and the theory was spending-contract. No verified vehicle presents punitive or liquidated damages against a State under Article I; the simulation's own Kimel and Alden remands (ADEA and FLSA liquidated damages) could, with reconstruction. |
+| B.2(5) state-court forum beyond the FLSA | None verified | | Historically these suits were barred after 1999, so no real record exists. Needs reconstruction, or wait for a statute that presents it. |
+| B.2(6) the Seminole leftover | None verified | | The simulation's own Seminole remand is the only natural vehicle. |
+| Spending consent under §504 | Jim C. v. United States, 235 F.3d 1079 (8th Cir. en banc), certiorari denied, 533 U.S. 949 (2001) | Does a State's acceptance of Rehabilitation Act funds under 42 U.S.C. §2000d-7 consent to §504 suits, and does the consent reach only the agency receiving the funds? | Bradley left §504 open. Decide without reaching Sossamon's damages-scope question. |
+| Litigation waiver | Lapides v. Board of Regents, 535 U.S. 613 (decided May 13, 2002; OT2001) | Does a State waive immunity by removing a case to federal court? | Historical docket; answers the waiver question Schacht and Florida Prepaid left open. |
+| Agency forum | FMC v. South Carolina State Ports Authority (OT2001) | In this timeline: does the Shipping Act clearly authorize private complaints against States before the agency? | Historical docket. |
+
+Alsbrook v. City of Maumelle, 184 F.3d 999 (8th Cir. 1999) (en banc), holding Title II invalid under §5 for police-officer certification, is an alternative to Hason. Its Supreme Court disposition (petition No. 99-423) is not confirmed, and OT1999 is closed, so Hason is the cleaner vehicle.
