@@ -1,12 +1,334 @@
 # Stone tracker: commerce power, commandeering and state immunity
 
-Scope: the commerce power and the Necessary and Proper Clause (with the treaty power), commandeering and spending conditions, state sovereign immunity, and Congress's power under §5 of the Fourteenth Amendment as it bears on immunity, with Fifteenth Amendment enforcement where it meets §5. The dormant Commerce Clause and preemption are not tracked here.
+Scope: the commerce power and the Necessary and Proper Clause (with the treaty power), commandeering and spending conditions, state sovereign immunity, and Congress's power under §5 of the Fourteenth Amendment as it bears on immunity, with Fifteenth Amendment enforcement where it meets §5. The working foundation also addresses preemption and the dormant Commerce Clause; the numbered case tracker retains its commerce, commandeering, spending, immunity and enforcement focus.
 
 Organization:
-1. Completed cases.
-2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
-3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; vehicles appear where one has been identified), the state immunity cleanup, and the decisions pending.
+
+- Working foundation for future cases.
+- Completed cases.
+- Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
+- The doctrine as it stands, how it operates, and where this Court departed from history.
+- Questions to answer before the landmarks (questions only; vehicles appear where one has been identified), the state immunity cleanup, and the decisions pending.
+
+## Working foundation for future cases
+
+This section states Stone's working positions, their limits and their application to hypothetical disputes. It does not itself establish Court law or decide a reserved case. Completed holdings and approved case-specific positions retain their authority; a proposed extension must be identified when it changes the governing rule.
+
+Apply the law, record and knowledge available at the date of the case. Later developments do not supply facts or authority to an earlier proceeding.
+
+### Central principle
+
+Federalism allocates legally bounded authority while keeping governments accountable for their decisions. Federal action requires a constitutional source and an appropriate connection between that source and the particular obligation. Implementation must respect the constitutional independence of state institutions. Valid federal obligations remain enforceable through legally authorized proceedings. State regulation retains substantial room to operate, subject to valid federal displacement and constitutional protection of interstate commerce.
+
+A desirable result cannot supply missing authority. A lawful source of power does not automatically authorize every administrative method, defendant, proceeding or remedy.
+
+### The decision sequence
+
+These are organizing questions, not a new universal constitutional test or a requirement to produce a special factual record in every case.
+
+1. **Identify the case.** Fix the relevant date, parties, claims, requested relief, procedural posture and questions properly presented. Determine jurisdiction, standing, immunity and other applicable threshold rules without predetermining merits-dependent questions.
+2. **Identify the actual duty.** State precisely what conduct is required, prohibited, permitted or made actionable, and who bears the obligation.
+3. **Identify authority.** Separate constitutional power, statutory authorization and any valid implementing regulation. Distinguish commerce, taxation, spending, Reconstruction enforcement and other sources.
+4. **Identify the mechanism.** Explain the interstate connection, preventive relationship, actual federal-state conflict, discrimination or other relationship the governing doctrine requires.
+5. **Identify material facts and the proper standard.** Apply the law's existing burdens. Distinguish legal interpretation, legislative and predictive judgments, and disputed facts about the parties.
+6. **Examine operation.** Identify who controls implementation, who bears costs, whether participation is genuinely voluntary, what conduct is affected outside the state, and what alternatives matter under the applicable rule.
+7. **Treat precedent expressly.** Apply, distinguish or propose revising the actual holding. Do not change a trigger or burden while describing the change as factual application.
+8. **Choose the necessary judgment.** Resolve only the properly presented questions needed for the disposition. Do not decide an additional constitutional source merely as insurance.
+9. **Determine relief independently.** Identify its source, defendant, scope, prerequisites and practical ability to correct the established violation.
+10. **State unresolved points.** Identify assumptions, the strongest opposing interpretation, facts that would change the result, and any question the available law or record does not resolve.
+
+Congress receives substantial latitude over reasonably supported legislative and predictive judgments within its authority. Courts independently determine constitutional boundaries. Agencies receive the technical latitude their lawful authority and governing standard permit. None of these principles creates a universal demand for statistics, formal findings, scientific certainty or the least restrictive imaginable alternative.
+
+### Commerce and Necessary and Proper authority
+
+#### Connection before magnitude
+
+Congress may regulate interstate commerce and protect its channels, instrumentalities, persons and things. Outside those categories, identify the regulated class and a legally recognized interstate mechanism before using aggregation to measure its significance.
+
+The principal mechanisms include direct interference with an interstate market, prevention of evasion or material impairment of a valid interstate scheme, and demonstrated substantial interstate spillovers that individual states cannot reasonably confine or internalize. A widespread problem or a chain through general social costs does not establish the connection.
+
+Ecological and comparable interstate harms may supply the spillover connection when their substantial cross-border operation is demonstrated and the federal response is appropriately fitted. Neither physical boundary crossing nor the seriousness of a problem becomes a freestanding federal police power.
+
+Class-level evidence is appropriate for cumulative phenomena. Each person, emission or transaction need not independently cause substantial interstate harm. An enacted jurisdictional element must nevertheless be proved when the statute requires it; a court cannot add an omitted element to rescue a conviction.
+
+#### Local conduct and market entry
+
+Personal use creates no automatic exemption. Inclusion of a defined local class requires a supported explanation that exclusion would permit evasion or materially impair an already valid interstate regime. Calling a scheme comprehensive does not establish that explanation.
+
+Compulsory market entry remains a narrow possibility whose validity must be decided on the particular obligation and record. Eventual participation alone is insufficient. Reliable facts concerning practically inevitable participation, uncompensated cost shifting and the specific financing obligation must support the proposed distinction. Taxing authority remains separate.
+
+Necessary and Proper authority requires a valid constitutional end and appropriate means. Its applications beyond commerce, and the outer scope of treaty implementation, remain source-specific reserved questions.
+
+### State institutions and federal administration
+
+Distinguish the state as employer, proprietor, records custodian, legislature, executive administrator and court. The same employee or institution can act in more than one capacity.
+
+Under ordinary commerce authority, Congress cannot command a state legislature to enact federal policy or assign unwilling state executives a new investigative or enforcement mission. Valid regulation of the state's own conduct is a separate question. State courts' obligations under valid federal law, and duties independently supported by the Reconstruction Amendments, require their own analysis.
+
+#### Limited records assistance
+
+Stone permits a legally authorized, bounded request through an existing institutional records function:
+
+- The federal obligation serves a valid federal responsibility and rests on an actual statute.
+- The task concerns information already lawfully maintained and a defined matter or transaction.
+- A new performance of an existing routine task may qualify; the matter need not already be a filed lawsuit or criminal case.
+- New investigation, fact gathering, systems creation or policymaking is outside this exception.
+- Federal payment covers attributable assistance costs unless the state genuinely agrees to contribute.
+- Federal responsibility for the governing policy and coercive enforcement remains identifiable.
+
+Examine cumulative workload, interference with state priorities, operational control, information safeguards and the ability to challenge excessive requests. Reimbursement does not itself cure institutional conscription.
+
+Recurring volume alone supplies no fixed numerical threshold. Assess whether the arrangement becomes an ongoing federal assignment. This inquiry does not itself require a federal workload register, universal alternatives study or particular reporting system.
+
+The reimbursement principle concerns assistance with federal administration. It does not require federal payment of every cost a state incurs complying with valid regulation of its own conduct.
+
+### Cooperation and spending
+
+Examine the actual offer, including money, equipment, services and materially equivalent assistance. Identify the legal authority for each form of assistance.
+
+Conditions must be authorized, clear, related to the program, consistent with independent constitutional protections and noncoercive. Neither formal agreement nor financial dependence is conclusive.
+
+A state may decline a genuine offer and forgo its associated benefits. There is no automatic entitlement to replacement assistance. Earlier refusal alone does not justify permanent exclusion from a later program; later eligibility follows then-current lawful rules, including justified requirements concerning capacity or past misconduct.
+
+Congress may revise future programs. Evaluate changes to established arrangements through their legal terms, purpose, reliance, magnitude and timing of threatened losses, institutional effects and realistic ability to decline. Losing a new benefit differs from losing independent existing assistance to secure an unrelated demand.
+
+No fixed funding percentage determines coercion. Fiscal difficulty does not automatically establish compulsion, and the government's label does not establish a genuine choice. Any additional presumption that changes the governing test must be identified and justified as a proposed doctrinal change.
+
+### State accountability and judicial access
+
+Stone permits unmistakably authorized private suits against states when both the underlying duty and its enforcement fall within the invoked federal power.
+
+Florida Prepaid and Kimel supply the Article I foundation at the scope of their holdings. Alden supplies the stated state-court FLSA application. Further applications retain their statute, forum and remedy questions.
+
+Separate the existence of a duty, cause of action, jurisdiction, proper defendant, immunity, procedure, liability and relief. State status does not establish immunity for every related entity. Actual waiver, funding consent and prospective officer relief retain their distinct requirements. Officer relief cannot be used as a label for unauthorized retrospective treasury liability.
+
+#### Notice and correction
+
+Mandatory pre-suit notice requires lawful legislative authorization. Existing access remains where applicable law imposes no such prerequisite.
+
+The notice process principally concerns nonurgent, ongoing, correctable statutory violations. Notice should be accessible and factual, with a defined endpoint, appropriate treatment of adequate prior complaints, protection against deadline forfeiture and early access after definitive refusal or inability to correct. Urgent serious harm requires preservation of legally available immediate protection.
+
+Good-faith but unsuccessful efforts cannot postpone enforcement indefinitely. Nonresponse permits proceeding when the applicable requirements are met; it does not establish liability. A corrected practice does not automatically resolve an independently actionable past injury or systemic pattern.
+
+There is no universal county-to-state-to-federal exhaustion ladder. The preferred design does not authorize courts to invent exceptions or tolling contrary to an existing statute.
+
+#### Reconstruction enforcement
+
+Congress may enact supported preventive and remedial protections beyond the constitutional minimum in each individual application. Under the governing Fourteenth Amendment framework, congruence and proportionality constrain that authority; Congress cannot redefine the judicially enforceable right.
+
+Once a preventive statutory category is valid, a claimant proves its statutory elements, without an additional personal constitutional violation the law does not require. The Fifteenth Amendment's relationship to the Fourteenth Amendment test remains reserved. Do not decide Section 5 unnecessarily when a sufficient Article I ground resolves the presented case.
+
+### Preemption
+
+Concurrent operation is the starting point in traditional state fields. Valid federal authority does not establish exclusive control over every related subject.
+
+#### Grounds and limits
+
+- **Express preemption:** Apply the enacted text, definitions, scope and savings provisions.
+- **Impossibility:** Compare the specific duties governing the same conduct at the relevant time.
+- **Obstacle preemption:** Identify the operative federal arrangement and the state duty that defeats it. Abstract uniformity, regulatory silence and an agency's preference are insufficient.
+- **Field preemption:** Establish Congress's exclusive allocation of the particular subject. Regulatory detail does not prove occupation of every related field, including compensation.
+
+An agency's interpretation carries weight only within delegated authority and insofar as its reasoning establishes the relevant legal conflict.
+
+#### Market withdrawal and compensation
+
+The possibility of ceasing an activity does not by itself reconcile otherwise incompatible duties. Federal permission to conduct the activity does not by itself establish immunity from state liability.
+
+Determine whether federal law prohibits a change, requires prior approval, permits a relevant unilateral change, or merely approves the existing product. Distinguish an actually available compliance path from a speculative earlier opportunity.
+
+A damages claim may impose a substantive requirement and can be preempted. Calling it compensation does not insulate it. Conversely, expense or pressure from litigation does not by itself establish a forbidden technical requirement. Identify the duty the claim would enforce.
+
+Loss of the only otherwise viable compensation remedy weighs strongly against an expansive inference of displacement where interpretation remains uncertain. It cannot defeat clear valid displacement or make genuinely incompatible duties compatible. A request for particularly convincing reasoning must not silently become a new evidentiary burden or universal express-statement requirement.
+
+Review claims separately. Displacement of one design theory does not automatically extinguish distinct manufacturing, fraud, reporting or other duties; each surviving theory must still satisfy its own law.
+
+### Dormant Commerce Clause
+
+The doctrine protects interstate commerce against protectionism and unjustified barriers while preserving meaningful state regulatory authority. It does not require maximum economic efficiency or national uniformity.
+
+#### Discrimination
+
+Examine purpose, text, exemptions, enforcement and actual operation. Formal equality does not cure disguised local favoritism. The fact that most affected firms are elsewhere does not, alone, establish discrimination.
+
+Established discrimination requires a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve. Apply the governing burden without inventing perfect-certainty or every-imaginable-alternative requirements.
+
+#### Market access and conduct elsewhere
+
+A state ordinarily may regulate the terms of sales within its territory, including relevant production practices. Health, safety, environmental protection and animal welfare can support such conditions. An identical finished product does not negate a legitimate transaction-connected interest.
+
+Distinguish conditions on goods actually sold in the state from commands governing unrelated production or business elsewhere. Market participation supplies a connection, not unlimited jurisdiction over the entire producer.
+
+Separate ordinary compliance costs, broader economic effects and demonstrated serious interference with interstate operations. National conformity chosen for commercial convenience is not automatically equivalent to unavoidable legal compulsion. Conflicting requirements must be shown, not assumed from a hypothetical fifty-state patchwork.
+
+#### Neutral burdens and Pike
+
+Pike subjects evenhanded laws to review for interstate burdens clearly excessive relative to local benefits. Stone favors restrained judicial evaluation of legitimate political values and serious examination of factual claims, protectionism, operational incompatibility and market disruption.
+
+Nonmonetary interests do not become valueless because they cannot be priced. Evidence may test causal claims without deciding the moral value of the objective. Practicable, comparably effective alternatives can matter; judges should not redefine the state's objective to make an alternative appear equivalent.
+
+**Continuity limit:** A categorical requirement of a separate constitutional violation, a new heightened proof quantum, or review limited exclusively to operational incompatibility would change the inherited Pike framework. Such a rule requires an express proposal under the precedent method. The power to invalidate a genuinely neutral law under Pike remains. A narrower structural rule remains a proposed direction unless expressly adopted.
+
+#### Public activity, taxation and congressional authorization
+
+Government purchasing is confined to the service or transaction actually bought. Public ownership does not make every independent private transaction a government purchase. Genuine public-service arrangements require examination of actual ownership, control, financial responsibility, revenues and concealed favoritism; public status does not create blanket immunity.
+
+State taxation retains nexus, apportionment, nondiscrimination and service-relationship requirements. Their specialized applications require the pertinent tax precedents, including any governing collection rules.
+
+Congress may unmistakably authorize a particular departure from dormant-commerce restrictions. Other constitutional limitations remain. Protection under a market-participant rule does not immunize a state measure from valid federal preemption.
+
+### Precedent and effective relief
+
+Stone starts with the prior holding, legal foundation, factual premises, subsequent treatment, workability and concrete reliance. A different preferred outcome or changed Court membership is insufficient.
+
+Legally justified change may respond to conflict with superior law, internal contradiction, unworkability, a failed factual premise or systematic defeat of the doctrine's protection. Statutory precedent ordinarily receives added weight. Reliance on equal standing, access and procedural protections receives real protection; an expectation of another person's continued exclusion does not receive equivalent weight.
+
+Every proposed change identifies the prior rule, legal reason, new boundary, unaffected law and treatment of reliance. Remedy remains separate.
+
+Relief must have a lawful source and correct the established violation effectively. An injunction specifies the defendant's required conduct and preserves lawful alternatives. Structural obligations require a demonstrated connection to the violation, administrable measures and conditions for ending supervision. Broader relief requires its own lawful basis.
+
+Compensation, restitution, punitive relief, fees, interest and sanctions have distinct sources and elements. Neither liability nor serious injury supplies every remedy. Whether to adopt a general presumption against treasury punitive damages remains open; no automatic rule applies across every statute.
+
+#### Discriminatory tax benefits
+
+For future periods, lawful correction may extend a benefit, withdraw it or establish another neutral arrangement. Severability, enacted structure, reliance and institutional authority govern the choice.
+
+Prospective change does not itself discharge an established entitlement to correction for past discriminatory collections. Where governing law requires backward-looking relief, assess an authorized refund, constitutionally lawful and effective retrospective equalization, or a valid combination. Preserve lawful procedural conditions and reject unfair withdrawal of a previously held-out remedy.
+
+Do not assume every taxpayer is entitled to a refund regardless of the available process. Do not presume interest, consequential damages, lost profits or a federal forum. Fiscal and administrative concerns can affect lawful implementation without eliminating a remedy the law requires. Economic incidence does not by itself authorize withholding required correction.
+
+Stone's exemption preference in Camps was case-specific. Prospective withdrawal remains available in other cases where lawful, without changing that case-specific position or the Court's judgment.
+
+### Applications in difficult cases
+
+These hypothetical applications assume a proper judicial vehicle and the facts expressly stated. They illustrate the rules and their limits without deciding reserved cases. Translate a merits conclusion into affirmance, reversal, vacatur or remand only after identifying the lower court's judgment.
+
+#### 1 Interstate pollution with valid statutory authority
+
+**Application:** A supported national rule addressing substantial cross-border harm within the agency's actual delegation ordinarily survives the power challenge.
+
+**Reasoning and precedent:** Apply the connection and spillover analysis. The strongest objection is a mismatch between the established mechanism and the particular regulatory instrument, not the absence of individual source-to-victim tracing.
+
+**Relief and changing facts:** Reject the presented power challenge if its premises fail. A missing statutory authorization can instead require setting aside the agency measure on statutory grounds. Resolve that ground without unnecessarily deciding broader constitutional authority.
+
+#### 2 Personal production within a valid national market regime
+
+**Application:** A defined personal-use class may be included where its exclusion would materially enable evasion.
+
+**Reasoning and precedent:** Apply anti-evasion authority; neither personal use nor comprehensive coverage is conclusive. The strongest objection is that the exclusion would not materially impair the regime.
+
+**Relief and changing facts:** Sustain only the supported coverage. Where material facts are unresolved, use the governing burden and posture. Do not invent a defendant-specific element or remand to prove an element Congress omitted.
+
+#### 3 Advance financing for a practically inevitable market
+
+**Application:** The possibility remains open; the particular obligation and record determine the outcome.
+
+**Reasoning and precedent:** Require the specific connection among practically inevitable participation, uncompensated cost shifting and the demanded obligation. The strongest objection is that financing necessity is being used to manufacture commerce authority.
+
+**Relief and changing facts:** Evaluate any independently presented tax ground separately. If the obligation fails, severability and the actual statutory arrangement determine the consequence; do not presume the entire program falls.
+
+#### 4 Paid records requests become a federal operation
+
+**Application:** The bounded existing-record task may proceed. Demands controlling staffing, priorities or new investigations require separate scrutiny and cannot rely on the limited-assistance exception alone.
+
+**Reasoning and precedent:** Apply the limited-assistance holding while identifying any extension beyond its temporary scope. Payment answers fiscal responsibility, not the whole institutional question.
+
+**Relief and changing facts:** Constrain the unlawful assignment through the authorized claim and remedy, preserving severable lawful requests. A genuine voluntary agreement or an independently valid constitutional source can alter the analysis.
+
+#### 5 Existing health funding threatened over an unrelated policy
+
+**Application:** An established unrelated demand cannot be justified merely by threatening independent benefits; authority, relatedness and coercion require separate examination.
+
+**Reasoning and precedent:** Examine statutory authority, relatedness and coercion. The strongest defense would show a genuine program connection or a lawful general revision rather than unrelated leverage.
+
+**Relief and changing facts:** Prevent the unlawful condition or withholding where relief is authorized. Do not create a perpetual funding entitlement, appropriation or replacement program.
+
+#### 6 Authorized state suit after unsuccessful correction
+
+**Application:** Permit the action to proceed once a lawful correction period ends; allow legally available urgent protection where necessary.
+
+**Reasoning and precedent:** Apply the valid-duty, valid-enforcement and unmistakable-authorization framework. State effort does not decide whether the violation persists. The strongest defense may concern the underlying duty, procedural compliance or remedy authorization.
+
+**Relief and changing facts:** Determine liability normally. Correct ongoing violations and award monetary relief only through a valid source. Successful correction may narrow prospective relief without eliminating independently actionable past harm.
+
+#### 7 Preventive civil-rights protection without individual constitutional proof
+
+**Application:** Support statutory enforcement if the preventive category is valid under the applicable Reconstruction power.
+
+**Reasoning and precedent:** Apply the governing fit standard to the category, then apply its enacted elements. The strongest objection challenges the category's scope or connection to constitutional injury.
+
+**Relief and changing facts:** Award only authorized relief against a proper defendant. If category validity fails, separately assess any surviving direct constitutional or statutory claim rather than assuming all protection disappears.
+
+#### 8 Federal product approval and an otherwise viable injury claim
+
+**Application:** Approval, abstract uniformity or litigation expense alone does not establish preemption, particularly where displacement would eliminate the only compensation route.
+
+**Reasoning and precedent:** Compare actual duties under Myrick, Geier and the applicable statute. The strongest defense identifies an affirmative protected federal choice, occupied subject or genuine impossibility.
+
+**Relief and changing facts:** Allow a nonconflicting claim to proceed without deciding negligence or damages. An operative federal requirement forbidding the conduct demanded by the claim can reverse the preemption conclusion.
+
+#### 9 A state duty demands a federally forbidden product change
+
+**Application:** The conflicting state duty is displaced if the legal conflict is genuine and no lawful path satisfies that duty.
+
+**Reasoning and precedent:** Market exit alone does not establish compatibility. Calling the award compensatory does not remove its substantive duty. The strongest objection identifies a genuinely independent claim or available compliance route.
+
+**Relief and changing facts:** Resolve the conflicting theory narrowly and assess other claims separately. A complete compensation gap is acknowledged, not cured by inventing a cause of action.
+
+#### 10 Evenhanded animal-welfare conditions on in-state sales
+
+**Application:** The condition ordinarily survives where the transaction connection is credible and the claimed burden consists of ordinary compliance expense.
+
+**Reasoning and precedent:** No automatic invalidity follows from out-of-state production or nonmonetary benefits. Apply inherited discrimination and Pike rules, distinguishing any proposed refinement.
+
+**Relief and changing facts:** Reject the presented categorical challenge. Local favoritism, control over unrelated operations or demonstrated serious interstate interference can require further proceedings or a different outcome. A failed challenge does not validate every application.
+
+#### 11 Incompatible state requirements for continuous interstate transport
+
+**Application:** The outcome depends on actual incompatibility, justification and feasible accommodations; a demonstrated barrier to continuous interstate transport warrants close scrutiny.
+
+**Reasoning and precedent:** Apply the relevant transportation and Pike authorities. A real barrier to continuous interstate movement differs from ordinary expense. The strongest defense establishes compatibility, a necessary safety justification or a workable accommodation.
+
+**Relief and changing facts:** Address the proven barrier within the proper claim. Do not invent a national technical standard or automatically prefer one state's rule. Additional material facts can require remand.
+
+#### 12 A neutral-looking certification rule favors local competitors
+
+**Application:** Invalidate the discriminatory operation if the exemptions and actual operation establish protectionism without adequate justification.
+
+**Reasoning and precedent:** Apply discrimination analysis rather than disguising the issue as ordinary neutral-cost balancing. The strongest defense establishes genuinely different regulatory circumstances and adequate nondiscriminatory treatment.
+
+**Relief and changing facts:** Remove or prevent the discriminatory operation through lawful severability and relief. Do not presume damages, universal certification approval or invalidity of independent safety requirements.
+
+#### 13 A discriminatory tax exemption is withdrawn prospectively
+
+**Application:** Permit a genuinely lawful neutral future arrangement, while resolving any established entitlement to past correction separately.
+
+**Reasoning and precedent:** Apply the governing tax-remedy and severability law. Camps does not create an automatic extension rule. The strongest dispute concerns the lawful process available to this taxpayer and whether the proposed retrospective correction actually equalizes treatment.
+
+**Relief and changing facts:** Require the meaningful correction legally owed. A promised postpayment remedy cannot be unfairly withdrawn after payment. Limitations, lawful reliance protection and the feasibility of retrospective assessments can determine the available form.
+
+### Reserved boundaries
+
+The precise cumulative-assistance limit, difficult coercion applications, new forums and remedies against states, the outer reach of Necessary and Proper and treaty authority, specialized tax doctrines, and the exact scope of any proposed change to Pike remain for cases that properly present them.
+
+A working position does not settle every application or authorize an unstated proof standard. Identify any genuinely new choice and its consequences before treating it as resolved.
+
+### Reusable case assessment
+
+For each case, identify:
+
+1. The question, relevant date, posture and relief sought.
+2. The governing law and Stone's position, with their distinct status.
+3. The precise duty and legal source.
+4. Material established facts, disputed facts and stated assumptions.
+5. Stone's proposed disposition and principal ground.
+6. The strongest opposing argument and the fact or legal premise that could change the result.
+7. Whether precedent is applied, distinguished or proposed for revision, with the five required explanations for change.
+8. The authorized remedy, its necessary scope, any remand and what lawful conduct remains available.
+9. Any uncertainty affecting the reasoning, disposition or remedy.
+10. Any genuinely unresolved choice requiring Stone's decision.
+
+A case assessment supplies no missing vote, binds no other Justice, creates no case fact and amends no completed judgment.
 
 ## 1. Completed cases
 
