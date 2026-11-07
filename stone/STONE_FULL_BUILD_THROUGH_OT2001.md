@@ -1,3 +1,3 @@
-# Renamed
+# Retired
 
-This file is now [STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md](STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md). This pointer stays so that links in completed OT1994 materials (the chunk 9 brief, runtime, freeze file and the Miller Record), which are never edited, still resolve.
+This was the original name of Stone's full doctrinal build through OT2001 (later `STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md`). The build was retired on November 7, 2026. Its planned positions are kept word for word, by area of law, October Term and case, in [STONE_PLANNED_POSITIONS.md](STONE_PLANNED_POSITIONS.md); its live equality questions and docket decisions are in [STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md](STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md). The complete original file is in repository history at commit 7f3304bc. This pointer stays so that links in completed OT1994 materials (the chunk 9 brief, runtime, freeze file and the Miller Record), which are never edited, still resolve.
