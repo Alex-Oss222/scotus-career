@@ -1,12 +1,12 @@
 # Stone tracker: federal habeas corpus
 
-Planning material under `stone/README.md`. Scope: collateral review of state convictions (28 U.S.C. §2254) and federal convictions (§2255), the general habeas statute (§2241) and the Suspension Clause, the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), harmless error on collateral review, exhaustion, procedural default and its innocence gateways, fact development, new-rule retroactivity (Teague), successive petitions, certificates of appealability, and capital stays. The constitutional claims prisoners bring (due process, the Fourth, Fifth, Sixth and Eighth Amendments) belong to their own documents; this one covers when and how a federal court may hear them after a conviction is final. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
+Scope: collateral review of state convictions (28 U.S.C. §2254) and federal convictions (§2255), the general habeas statute (§2241) and the Suspension Clause, the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), harmless error on collateral review, exhaustion, procedural default and its innocence gateways, fact development, new-rule retroactivity (Teague), successive petitions, certificates of appealability, and capital stays. As to the constitutional claims prisoners bring (due process, the Fourth, Fifth, Sixth and Eighth Amendments), this document covers when and how a federal court may hear them after a conviction is final, not their merits.
 
 Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; the user finds the vehicles).
+4. Questions to answer before the landmarks (questions only).
 
 A closing footnote explains why Almendarez-Torres is a sleeper for the jury-sentencing line.
 
@@ -505,7 +505,7 @@ Two innocence gateways open the door to a barred claim. For guilt, the prisoner 
 
 Keeney v. Tamayo-Reyes in plain terms. Tamayo-Reyes, a Cuban immigrant, pleaded no contest to manslaughter through an interpreter; he later claimed the intent element was never properly translated, but his state postconviction lawyer did not develop that evidence. The real Court (White, 5-4) held that a prisoner who failed to develop facts in state court gets a federal hearing only by showing cause and prejudice. Here the Court (O'Connor, joined by Stone, Blackmun, Stevens and Kennedy) kept the older rule: only a deliberate bypass, a knowing choice to skip state process, forfeits the hearing. Counsel's carelessness does not. That rule still governs pre-AEDPA applications.
 
-For later applications, §2254(e)(2) applies as Michael Williams construed it (Part I, unanimous). A prisoner "failed to develop" the facts only if he or his counsel lacked diligence or did worse; an incomplete record alone is not enough, and diligence is measured against the leads and procedures actually available. Once triggered, the bar yields only if the claim rests on a new retroactive rule or on facts that could not have been discovered earlier with diligence, and clear and convincing evidence shows that no reasonable factfinder would have found guilt but for the error. Because this Court's Keeney never adopted cause and prejudice, the register rejects the historical explanation that (e)(2) continued Keeney's rule: here it is a new restriction. Whether a diligent applicant is entitled to a hearing under the older standards is undecided.
+For later applications, §2254(e)(2) applies as Michael Williams construed it (Part I, unanimous). A prisoner "failed to develop" the facts only if he or his counsel lacked diligence or did worse; an incomplete record alone is not enough, and diligence is measured against the leads and procedures actually available. Once triggered, the bar yields only if the claim rests on a new retroactive rule or on facts that could not have been discovered earlier with diligence, and clear and convincing evidence shows that no reasonable factfinder would have found guilt but for the error. Because this Court's Keeney never adopted cause and prejudice, the historical explanation that (e)(2) continued Keeney's rule does not hold here: it is a new restriction. Whether a diligent applicant is entitled to a hearing under the older standards is undecided.
 
 ### 3.6 Review of state-court decisions
 
@@ -577,7 +577,7 @@ Questions only. Under each, the landmarks it should be answered before.
 
 ### 4.2 Default, cause and innocence
 
-6. Is actual innocence, standing alone, a constitutional claim, and if so what showing does it require? Herrera and Delo v. Blair left it open; Stone alone would require clear and convincing evidence. See also the due process tracker, question 20.
+6. Is actual innocence, standing alone, a constitutional claim, and if so what showing does it require? Herrera and Delo v. Blair left it open; Stone alone would require clear and convincing evidence.
     > Answer before: OT2005, House v. Bell.
 7. Under Schlup, may the court weigh all the evidence, including evidence that would be inadmissible at trial, and how do appellate courts review a gateway ruling? Schlup reserved the second point.
     > Answer before: OT2005, House v. Bell.
@@ -623,7 +623,7 @@ Questions only. Under each, the landmarks it should be answered before.
 
 22. After O'Dell, what test identifies a watershed rule, and which other rules qualify?
     > Answer before: OT2003, Schriro v. Summerlin; OT2007, Danforth v. Minnesota; OT2020, Edwards v. Vannoy.
-23. Is a rule that moves a sentencing fact from judge to jury (Apprendi, and Ring when it comes) substantive or procedural for Teague, and could it be watershed? See the footnote below and the due process tracker, question 23.
+23. Is a rule that moves a sentencing fact from judge to jury (Apprendi, and Ring when it comes) substantive or procedural for Teague, and could it be watershed? See the footnote below.
     > Answer before: OT2003, Schriro v. Summerlin.
 24. Has a rule been "made retroactive to cases on collateral review by the Supreme Court" under §2244(b)(2)(A) only when a holding says so, or also when it follows from several holdings taken together?
     > Answer before: OT2000, Tyler v. Cain (on the OT2000 list).
@@ -651,4 +651,4 @@ In history, Almendarez-Torres v. United States (1998, 5-4) held that the Constit
 
 Here Almendarez-Torres came out the other way on a statutory ground: the prior conviction in §1326(b)(2) is an element to be charged and proved (Scalia's Part I, with Stone, Stevens, Souter and Ginsburg). Only Stone would have rested that on the Constitution, and no majority decides whether a constitutional prior-conviction exception exists. Apprendi (Stone for six) contains no such exception and reserves state charging practice, mandatory minimums, capital eligibility and guidelines systems. So the constitutional question history answered in 1998 is open here, and every later jury-sentencing landmark arrives built on an answer this Court never gave.
 
-That is why it is a sleeper. It looks like a narrow statutory case about an immigration reentry statute, and it changed no constitutional rule, so nothing flags it. But prior convictions are the most common sentencing enhancement there is (career-offender and armed-career-criminal statutes, three-strikes laws, guidelines criminal-history scores), and it reaches across documents: due process, where Almendarez-Torres and Apprendi sit; this one, through Summerlin and a watershed exception that is still alive after O'Dell; and capital sentencing, through Ring. Vehicles are already on the OT2000 list: Buford v. United States (March 20, 2001; a guidelines ruling on how judges classify prior convictions), and Daniels and Lackawanna (sentences enhanced by prior convictions). The jury-and-sentencing line is now tracked in `STONE_JURY_AND_SENTENCING.md`.
+That is why it is a sleeper. It looks like a narrow statutory case about an immigration reentry statute, and it changed no constitutional rule, so nothing flags it. But prior convictions are the most common sentencing enhancement there is (career-offender and armed-career-criminal statutes, three-strikes laws, guidelines criminal-history scores), and it reaches across fields: due process, where Almendarez-Torres and Apprendi sit; federal habeas, through Summerlin and a watershed exception that is still alive after O'Dell; and capital sentencing, through Ring. Vehicles are already on the OT2000 list: Buford v. United States (March 20, 2001; a guidelines ruling on how judges classify prior convictions), and Daniels and Lackawanna (sentences enhanced by prior convictions).

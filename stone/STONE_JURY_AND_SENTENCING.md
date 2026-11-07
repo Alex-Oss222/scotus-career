@@ -1,12 +1,12 @@
 # Stone tracker: jury trial and sentencing
 
-Planning material under `stone/README.md`. Scope: the Sixth Amendment jury right and due process as they decide which facts are elements the jury must find beyond a reasonable doubt and which a judge may find at sentencing: the Apprendi line; prior convictions (Almendarez-Torres) and the categorical approach that depends on them; mandatory minimums; capital aggravators; sentencing guidelines and the remedy if they violate the jury right; relevant and acquitted conduct; fines, forfeiture and restitution; supervised-release revocation; jury unanimity; harmless and plain error for omitted elements; and materiality and similar element questions for the jury. Federal habeas, including whether jury-finding rules apply retroactively (Schriro v. Summerlin), is in the habeas tracker; due process generally, including excessive fines and retroactive laws, is in the due process tracker. The due process tracker's question 23 and the habeas tracker's closing footnote point to this document. Capital sentencing appears here only as to who finds the facts that make a defendant eligible for death and how the jury's role is protected. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
+Scope: the Sixth Amendment jury right and due process as they decide which facts are elements the jury must find beyond a reasonable doubt and which a judge may find at sentencing: the Apprendi line; prior convictions (Almendarez-Torres) and the categorical approach that depends on them; mandatory minimums; capital aggravators; sentencing guidelines and the remedy if they violate the jury right; relevant and acquitted conduct; fines, forfeiture and restitution; supervised-release revocation; jury unanimity; harmless and plain error for omitted elements; and materiality and similar element questions for the jury. Federal habeas, including whether jury-finding rules apply retroactively (Schriro v. Summerlin), and due process generally, including excessive fines and retroactive laws, appear here only where they touch these questions. Capital sentencing appears here only as to who finds the facts that make a defendant eligible for death and how the jury's role is protected.
 
 Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. A short primer, the doctrine as it stands, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; the user finds the vehicles).
+4. Questions to answer before the landmarks (questions only).
 
 ## 1. Completed cases
 
@@ -162,25 +162,25 @@ Character recommended reasoning:
 
 ### OT2000: Daniels v. United States, 532 U.S. 374 (No. 99-9136)
 
-Area: Prior convictions used to enhance a federal sentence; collateral attack. Also in the habeas tracker.
+Area: Prior convictions used to enhance a federal sentence; collateral attack.
 Status: Framed. Custis (O'Connor for six, with Stone) holds that a federal court sentencing under the Armed Career Criminal Act need hear attacks on the prior state convictions only for a complete denial of appointed counsel; the defendant may seek whatever review of those convictions remains and return if he succeeds. Parke lets a State presume an old conviction regular. Custis did not decide what happens once no review remains. On the OT2000 list (April 25, 2001).
 Question, as stated in the opinion: whether, after the sentencing proceeding has concluded, the individual who was sentenced may challenge his federal sentence through a motion under 28 U.S.C. § 2255 (1994 ed., Supp. V) on the ground that his prior convictions were unconstitutionally obtained.
 
-Character recommended disposition: see the habeas tracker.
+Character recommended disposition:
 
-Character recommended reasoning: see the habeas tracker.
+Character recommended reasoning:
 
 ### OT2000: Lackawanna County District Attorney v. Coss, 532 U.S. 394 (No. 99-1884)
 
-Area: Prior convictions used to enhance a state sentence; collateral attack. Also in the habeas tracker.
+Area: Prior convictions used to enhance a state sentence; collateral attack.
 Status: Framed, by the same Custis rules and reservations. Garlotte treats a prisoner serving consecutive sentences as in custody under each conviction in the series, but here the earlier sentence had fully expired. On the OT2000 list (April 25, 2001).
 Question, as stated in the opinion: whether federal postconviction relief is available when a prisoner challenges a current sentence on the ground that it was enhanced based on an allegedly unconstitutional prior conviction for which the petitioner is no longer in custody.
 
-Character recommended disposition: see the habeas tracker.
+Character recommended disposition:
 
-Character recommended reasoning: see the habeas tracker.
+Character recommended reasoning:
 
-Also on the OT2000 list, touching this line: Cleveland v. United States (November 7, 2000; whether state licenses are property, an element of mail fraud); Fiore v. White (January 9, 2001; a conviction where the State never proved an element as later construed; due process tracker, question 21); Lopez v. Davis (January 10, 2001; categorical exclusions from discretionary early release); Shafer v. South Carolina (March 20, 2001; telling a capital jury that the alternative sentence carries no parole); Penry v. Johnson (June 4, 2001; habeas tracker); Tyler v. Cain (June 28, 2001; whether the Cage reasonable-doubt rule, whose violation Sullivan made structural, applies retroactively; habeas tracker).
+Also on the OT2000 list, touching this line: Cleveland v. United States (November 7, 2000; whether state licenses are property, an element of mail fraud); Fiore v. White (January 9, 2001; a conviction where the State never proved an element as later construed); Lopez v. Davis (January 10, 2001; categorical exclusions from discretionary early release); Shafer v. South Carolina (March 20, 2001; telling a capital jury that the alternative sentence carries no parole); Penry v. Johnson (June 4, 2001); Tyler v. Cain (June 28, 2001; whether the Cage reasonable-doubt rule, whose violation Sullivan made structural, applies retroactively).
 
 ### 2.2 Facts that set the range: maximums, minimums and the indictment
 
@@ -253,7 +253,7 @@ Character recommended reasoning:
 ### OT2019: McKinney v. Arizona, 589 U.S. 139 (No. 18-1109)
 
 Area: Appellate reweighing; capital resentencing.
-Status: Framed, and it depends on Ring and Hurst. Richmond v. Lewis (eight Justices) and Sochor (six) accept a genuine appellate cure of a capital weighing error, by lawful reweighing or by Chapman review, but not a mere count of surviving aggravators. Whether appellate reweighing remains available once a jury must find the eligibility facts, and which law governs a reweighing years later, is open. Retroactivity of a jury-finding rule is in the habeas tracker.
+Status: Framed, and it depends on Ring and Hurst. Richmond v. Lewis (eight Justices) and Sochor (six) accept a genuine appellate cure of a capital weighing error, by lawful reweighing or by Chapman review, but not a mere count of surviving aggravators. Whether appellate reweighing remains available once a jury must find the eligibility facts, and which law governs a reweighing years later, is open.
 > 1. Whether the Arizona Supreme Court was required to apply current law when weighing mitigating and aggravating evidence to determine whether a death sentence is warranted.
 > 2. Whether the correction of error under Eddings v. Oklahoma, 455 U.S. 104 (1982), requires resentencing
 
@@ -488,7 +488,7 @@ Jones v. United States (federal death penalty) in plain terms. Jones was convict
 
 ### 3.8 Fines, forfeiture and restitution
 
-Doctrine now: the authorized fines count in deciding whether an offense is serious enough to require a jury (Nachtigal; Lewis), and serious criminal contempt fines, here about $52 million, require a jury (Bagwell, 9-0). Under the federal drug statutes, the extent of criminal forfeiture is part of the sentence, and the Sixth Amendment does not require a jury to decide it (Libretti Part II-A, five Justices; Stone, Stevens, Souter and Ginsburg reserved the constitutional source of the forfeiture jury); a defendant may knowingly waive the statutory forfeiture jury, but consent cannot enlarge what the statute allows (Libretti Part I-B, unanimous). Excessive-fines review (Bajakajian) is in the due process tracker. No decision addresses restitution or whether Apprendi reaches fines.
+Doctrine now: the authorized fines count in deciding whether an offense is serious enough to require a jury (Nachtigal; Lewis), and serious criminal contempt fines, here about $52 million, require a jury (Bagwell, 9-0). Under the federal drug statutes, the extent of criminal forfeiture is part of the sentence, and the Sixth Amendment does not require a jury to decide it (Libretti Part II-A, five Justices; Stone, Stevens, Souter and Ginsburg reserved the constitutional source of the forfeiture jury); a defendant may knowingly waive the statutory forfeiture jury, but consent cannot enlarge what the statute allows (Libretti Part I-B, unanimous). Excessive fines are reviewed under Bajakajian. No decision addresses restitution or whether Apprendi reaches fines.
 
 Libretti v. United States in plain terms. After several days of trial, Libretti pleaded guilty to running a continuing criminal enterprise and agreed to forfeit property. He later argued that the court needed an independent factual basis for the forfeiture and that he had a right to a jury on it. The real Court (O'Connor, 8-1) held that forfeiture is part of the sentence, not an element, so neither the plea rule's factual-basis requirement nor the Sixth Amendment jury right applies to it. Here the result is the same, 8-1, but the Sixth Amendment holding has only five votes (O'Connor, Scalia, Kennedy, Thomas and Breyer). Stone concurred on the ground that Libretti knowingly gave up the forfeiture jury, and said that a sentencing label alone cannot answer the constitutional question.
 
@@ -502,7 +502,7 @@ Doctrine now: a federal jury must agree unanimously on each element, and in a co
 
 ### 3.11 Harmless error and plain error
 
-Doctrine now: a reasonable-doubt instruction that vitiates the standard for all findings is structural error and requires reversal (Sullivan). Omitting or withdrawing an element is trial error reviewed under Chapman: the Government must prove beyond a reasonable doubt that the error did not contribute to the actual verdict. It may rely on supported inferences from the whole record, but only after examining what the instructions required and what the jury actually considered; a hypothetical properly instructed verdict, or strong evidence alone, will not do (Neder Part III, seven Justices; Roy Part III, five). On habeas, Chapman also governs instructions that omit, or let the jury skip, the defendant's own intent (O'Neal, Roy), as the habeas tracker explains. An unpreserved error may be corrected only if it is plain and affected substantial rights (Olano), and then only if it seriously affects the fairness, integrity or public reputation of the proceedings; when the law changes after trial, plainness is judged at the time of appeal (Johnson v. United States, 1997). A Guidelines error is harmless only if the record shows the judge would have imposed the same sentence (Williams). Apprendi adopted no structural-error rule for a missing sentencing finding and did not automatically extend Neder to it.
+Doctrine now: a reasonable-doubt instruction that vitiates the standard for all findings is structural error and requires reversal (Sullivan). Omitting or withdrawing an element is trial error reviewed under Chapman: the Government must prove beyond a reasonable doubt that the error did not contribute to the actual verdict. It may rely on supported inferences from the whole record, but only after examining what the instructions required and what the jury actually considered; a hypothetical properly instructed verdict, or strong evidence alone, will not do (Neder Part III, seven Justices; Roy Part III, five). On habeas, Chapman also governs instructions that omit, or let the jury skip, the defendant's own intent (O'Neal, Roy). An unpreserved error may be corrected only if it is plain and affected substantial rights (Olano), and then only if it seriously affects the fairness, integrity or public reputation of the proceedings; when the law changes after trial, plainness is judged at the time of appeal (Johnson v. United States, 1997). A Guidelines error is harmless only if the record shows the judge would have imposed the same sentence (Williams). Apprendi adopted no structural-error rule for a missing sentencing finding and did not automatically extend Neder to it.
 
 Neder v. United States in plain terms. Neder was convicted of filing false tax returns and of mail, wire and bank fraud; the trial judge decided materiality himself instead of giving it to the jury. All nine Justices agreed that materiality is an element of the fraud statutes and that the jury had to decide it. The question was the remedy. The real Court (Rehnquist) held the omission harmless when the omitted element was uncontested and supported by overwhelming evidence, so that the verdict would have been the same. Here Thomas, for seven, adopted a narrower test: the Government must show the error did not contribute to the verdict the jury actually returned, and strong evidence alone fails if the omission keeps the court from connecting the evidence to that verdict. Applying it, the tax convictions stood, 6-3, because the jury's actual findings on the specific false income figures supplied that connection; Stone, Scalia and Ginsburg dissented. The fraud counts were sent back for the first proper harmlessness review, and Stone would instead have ordered new trials on all affected counts. The narrower test builds on Part III of Roy.
 
@@ -534,7 +534,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2012, Descamps v. United States; OT2015, Mathis v. United States.
 6. How deferentially do appellate courts review a Guidelines classification of prior convictions, such as whether they were related because consolidated for sentencing? Koon chose abuse-of-discretion review for departures.
     > Answer before: OT2000, Buford v. United States (on the OT2000 list).
-7. After sentencing, may a prisoner attack an expired prior conviction that enhanced his sentence, through §2255 or §2254, and with what exceptions? Custis reserved it. See also the habeas tracker, question 26.
+7. After sentencing, may a prisoner attack an expired prior conviction that enhanced his sentence, through §2255 or §2254, and with what exceptions? Custis reserved it.
     > Answer before: OT2000, Daniels v. United States (on the OT2000 list); OT2000, Lackawanna County District Attorney v. Coss (on the OT2000 list).
 8. Does Nichols's limited permission (a valid fine-only uncounseled misdemeanor may add a Guidelines point where the defendant can contest it and seek a departure) reach recidivist laws that add prison time automatically? Stone's Nichols dissent would extend Baldasar's concern to any Guidelines increase.
     > Answer before: no listed landmark.
@@ -574,7 +574,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2007, Kimbrough v. United States.
 23. Does a Guidelines error that adds prison time count as prejudice under Strickland, whatever its size? Here Lockhart v. Fretwell denies prejudice only for the loss of a benefit the law does not recognize, and Terry Williams (eight Justices, without Stone) adds no general unfairness requirement.
     > Answer before: OT2000, Glover v. United States (on the OT2000 list).
-24. If the Guidelines become advisory, does applying a harsher amended guideline to earlier conduct violate the Ex Post Facto Clause? See the due process tracker on retroactive laws.
+24. If the Guidelines become advisory, does applying a harsher amended guideline to earlier conduct violate the Ex Post Facto Clause?
     > Answer before: no listed landmark; OT2012, Peugh v. United States is the historical vehicle.
 
 ### 4.4 Capital sentencing
@@ -589,8 +589,8 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2019, McKinney v. Arizona.
 29. If aggravators are elements, does a jury's failure to agree on death, or a default life sentence, act as an acquittal that bars a second capital proceeding? Schiro held an advisory recommendation not an acquittal; Monge preserved Bullington for capital acquittals; Jones (1999) holds that a deadlocked federal jury requires a nondeath sentence.
     > Answer before: no listed landmark; OT2002, Sattazahn v. Pennsylvania is the historical vehicle.
-30. Is a rule moving capital-eligibility findings from judge to jury substantive or procedural under Teague, and could it be a watershed rule? See the habeas tracker, question 23.
-    > Answer before: OT2003, Schriro v. Summerlin (in the habeas tracker).
+30. Is a rule moving capital-eligibility findings from judge to jury substantive or procedural under Teague, and could it be a watershed rule?
+    > Answer before: OT2003, Schriro v. Summerlin.
 
 ### 4.5 Fines, forfeiture and restitution
 

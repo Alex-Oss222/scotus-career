@@ -1,12 +1,12 @@
 # Stone tracker: due process
 
-Planning material under `stone/README.md`. Scope: substantive due process (abortion, unenumerated liberties, executive conduct, punitive damages and retroactive economic laws); criminal due process and punishment limits (civil commitment, competency and medication, defenses and elements, vagueness, forfeiture and excessive fines, civil sanctions and double jeopardy, ex post facto, actual innocence, sex-offender notification); and procedural due process in civil settings (prison liberty, public employment, benefits and contracts). Federal habeas, the Fourth Amendment, the Second Amendment (including arms protection under due process) and equal protection have their own documents. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
+Scope: substantive due process (abortion, unenumerated liberties, executive conduct, punitive damages and retroactive economic laws); criminal due process and punishment limits (civil commitment, competency and medication, defenses and elements, vagueness, forfeiture and excessive fines, civil sanctions and double jeopardy, ex post facto, actual innocence, sex-offender notification); and procedural due process in civil settings (prison liberty, public employment, benefits and contracts). Federal habeas, the Fourth Amendment, the Second Amendment (including arms protection under due process) and equal protection appear here only where they touch these subjects.
 
 Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; the user finds the vehicles).
+4. Questions to answer before the landmarks (questions only).
 
 ## 1. Completed cases
 
@@ -184,7 +184,7 @@ OT1999
 
 ## 2. Reserved landmark cases
 
-Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For the OT2000 and OT2001 cases, whose question documents are not online, the question comes from the Court's opinion and is marked "as stated in the opinion" (quoted) or "as described in the opinion" (close paraphrase). Long preambles are omitted and marked. Lawrence and Obergefell also appear in `STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md`; Stone's disposition should be entered once and cross-referenced.
+Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For the OT2000 and OT2001 cases, whose question documents are not online, the question comes from the Court's opinion and is marked "as stated in the opinion" (quoted) or "as described in the opinion" (close paraphrase). Long preambles are omitted and marked.
 
 ### 2.1 On the OT2000 list
 
@@ -237,7 +237,7 @@ Character recommended reasoning:
 ### OT2000: Rogers v. Tennessee, 532 U.S. 451 (No. 99-6218)
 
 Area: Criminal due process (retroactive judicial change in criminal law).
-Status: Framed by Lanier (fair warning; Stone wrote it) and Carmell. Bouie appears nowhere in the register. On the OT2000 list (May 14, 2001).
+Status: Framed by Lanier (fair warning; Stone wrote it) and Carmell. On the OT2000 list (May 14, 2001).
 Question, as stated in the opinion:
 > The question before us is whether, in doing so, the court denied petitioner due process of law in violation of the Fourteenth Amendment.
 
@@ -414,15 +414,15 @@ Character recommended reasoning:
 
 ### OT2002: Lawrence v. Texas, 539 U.S. 558 (No. 02-102)
 
-Area: Liberty; sexual orientation. Also in the equality tracker.
+Area: Liberty; sexual orientation.
 Status: Open. Bowers is not overruled but is confined to its specified conduct (Thompson).
 > 1. Whether Petitioners' criminal convictions under the Texas "Homosexual Conduct" law - which criminalizes sexual intimacy by same-sex couples, but not identical behavior by different-sex couples - violate the Fourteenth Amendment guarantee of equal protection of the laws?
 > 2. Whether Petitioners' criminal convictions for adult consensual sexual intimacy in the home violate their vital interests in liberty and privacy protected by the Due Process Clause of the Fourteenth Amendment?
 > 3. Whether Bowers v. Hardwick, 478 U.S. 186 (1986), should be overruled?
 
-Character recommended disposition: see the equality tracker.
+Character recommended disposition:
 
-Character recommended reasoning: see the equality tracker.
+Character recommended reasoning:
 
 ### OT2005: Ayotte v. Planned Parenthood of Northern New England, 546 U.S. 320 (No. 04-1144)
 
@@ -448,15 +448,15 @@ Character recommended reasoning:
 
 ### OT2014: Obergefell v. Hodges, 576 U.S. 644 (Nos. 14-556 and others)
 
-Area: Liberty; marriage. Also in the equality tracker.
+Area: Liberty; marriage.
 Status: Open.
 Questions as granted:
 > 1) Does the Fourteenth Amendment require a State to license a marriage between two people of the same sex?
 > 2) Does the Fourteenth Amendment require a State to recognize a marriage between two people of the same sex when their marriage was lawfully licensed and performed out-of-state?
 
-Character recommended disposition: see the equality tracker.
+Character recommended disposition:
 
-Character recommended reasoning: see the equality tracker.
+Character recommended reasoning:
 
 ### OT2015: Whole Woman's Health v. Hellerstedt, 579 U.S. 582 (No. 15-274)
 
@@ -633,7 +633,7 @@ Questions only. Under each, the landmarks it should be answered before.
 
 14. Does "mental abnormality" plus dangerousness suffice for sex-offender commitment, or must the State prove serious difficulty controlling behavior? Must the State provide treatment? Hendricks reserved both.
     > Answer before: OT2001, Kansas v. Crane.
-15. May a person confined under a civil scheme challenge it as punitive as applied to him? Your Hendricks is itself an as-applied ruling; the real Seling barred such challenges.
+15. May a person confined under a civil scheme challenge it as punitive as applied to him? This Court's Hendricks is itself an as-applied ruling; the real Seling barred such challenges.
     > Answer before: OT2000, Seling v. Young (on the OT2000 list).
 16. Is sex-offender registration (as opposed to notification) punishment, and does listing on a registry require a dangerousness hearing? W.P. reserved registration alone and Internet registries.
     > Answer before: OT2002, Smith v. Doe; OT2002, Connecticut Department of Public Safety v. Doe.
@@ -652,7 +652,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2000, Rogers v. Tennessee (on the OT2000 list); OT2000, Fiore v. White (on the OT2000 list).
 22. What vagueness standard governs residual clauses that ask courts to imagine an "ordinary case"?
     > Answer before: OT2014, Johnson v. United States; OT2017, Sessions v. Dimaya.
-23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these. This line is tracked in `STONE_JURY_AND_SENTENCING.md`.
+23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these.
     > Answer before: OT2001, Ring v. Arizona; OT2003, Blakely v. Washington; OT2004, United States v. Booker.
 
 ### 4.5 Forfeiture, fines and civil sanctions
