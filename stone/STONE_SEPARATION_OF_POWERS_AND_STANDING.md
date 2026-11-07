@@ -1,6 +1,6 @@
 # Stone tracker: separation of powers and Article III standing
 
-Planning material under `stone/README.md`. Scope: Article III standing, mootness, ripeness, the order of deciding jurisdiction, political questions, and the allocation of power among Congress, the President and the courts (Congress and final judgments, appointments, removal, delegation, legislative process, presidential immunity and review, legislative immunity, non-Article III adjudication). Districting standing is tracked in `STONE_EQUALITY_VOTING_TRACKER.md`; state immunity and commandeering belong to `STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md`. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
+Planning material under `stone/README.md`. Scope: Article III standing, mootness, ripeness, the order of deciding jurisdiction, political questions, and the allocation of power among Congress, the President and the courts (Congress and final judgments, appointments, removal, delegation, legislative process, presidential immunity and review, legislative immunity, non-Article III adjudication). Districting standing is tracked in `STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md`; state immunity and commandeering belong to `STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md`. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
 
 Organization:
 1. Completed cases.

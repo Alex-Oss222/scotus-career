@@ -184,7 +184,7 @@ OT1999
 
 ## 2. Reserved landmark cases
 
-Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For the OT2000 and OT2001 cases, whose question documents are not online, the question comes from the Court's opinion and is marked "as stated in the opinion" (quoted) or "as described in the opinion" (close paraphrase). Long preambles are omitted and marked. Lawrence and Obergefell also appear in `STONE_EQUALITY_VOTING_TRACKER.md`; Stone's disposition should be entered once and cross-referenced.
+Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For the OT2000 and OT2001 cases, whose question documents are not online, the question comes from the Court's opinion and is marked "as stated in the opinion" (quoted) or "as described in the opinion" (close paraphrase). Long preambles are omitted and marked. Lawrence and Obergefell also appear in `STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md`; Stone's disposition should be entered once and cross-referenced.
 
 ### 2.1 On the OT2000 list
 
