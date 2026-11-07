@@ -652,7 +652,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2000, Rogers v. Tennessee (on the OT2000 list); OT2000, Fiore v. White (on the OT2000 list).
 22. What vagueness standard governs residual clauses that ask courts to imagine an "ordinary case"?
     > Answer before: OT2014, Johnson v. United States; OT2017, Sessions v. Dimaya.
-23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these. This line may deserve its own document.
+23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these. This line is tracked in `STONE_JURY_AND_SENTENCING.md`.
     > Answer before: OT2001, Ring v. Arizona; OT2003, Blakely v. Washington; OT2004, United States v. Booker.
 
 ### 4.5 Forfeiture, fines and civil sanctions
