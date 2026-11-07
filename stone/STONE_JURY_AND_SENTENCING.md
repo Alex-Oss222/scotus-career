@@ -3,10 +3,203 @@
 Scope: the Sixth Amendment jury right and due process as they decide which facts are elements the jury must find beyond a reasonable doubt and which a judge may find at sentencing: the Apprendi line; prior convictions (Almendarez-Torres) and the categorical approach that depends on them; mandatory minimums; capital aggravators; sentencing guidelines and the remedy if they violate the jury right; relevant and acquitted conduct; fines, forfeiture and restitution; supervised-release revocation; jury unanimity; harmless and plain error for omitted elements; and materiality and similar element questions for the jury. Federal habeas, including whether jury-finding rules apply retroactively (Schriro v. Summerlin), and due process generally, including excessive fines and retroactive laws, appear here only where they touch these questions. Capital sentencing appears here only as to who finds the facts that make a defendant eligible for death and how the jury's role is protected.
 
 Organization:
+
+Working foundation: Stone's personal commitments, supported inferences, reasoning, and remedies for future cases.
+
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. A short primer, the doctrine as it stands, and where this Court departed from history.
 4. Questions to answer before the landmarks (questions only).
+
+## Working foundation: Stone's jury and sentencing doctrine
+
+### His doctrine, commitments, and beliefs
+
+Stone believes that punishment must rest on authority the government has lawfully earned. A conviction authorizes the punishment attached to what was actually established through the required criminal process. The government cannot obtain additional punishment authority merely by giving a disputed allegation to the sentencing judge or calling it a sentencing factor. His central distinction is between establishing what punishment the law permits and choosing an appropriate sentence within that permission.
+
+The jury matters because it places an independent body of citizens between an accusation and the government's power to punish. Proof beyond a reasonable doubt assigns the risk of an unproved criminal allegation to the government. Unanimity requires agreement on the elements that authorize conviction and punishment. Stone grounds these protections in the Sixth Amendment's allocation of criminal factfinding and due process's requirement of adequate proof. He treats them as restraints on public power. A judge's confidence that an allegation is true does not itself supply the decision the Constitution assigns to a jury.
+
+His general commitment reaches facts that increase either the maximum punishment or the mandatory minimum. A higher minimum matters because it takes away the judge's lawful ability to impose a lesser sentence. The government has increased the punishment it can require even if the outer ceiling remains unchanged. For prior convictions, his developing position would extend the same protection when the old conviction authorizes a higher maximum or minimum, while preserving ordinary use of criminal history within an already lawful range. That is a proposed change from his acceptance of a narrow prior-conviction exception.
+
+He also believes in substantial, accountable judicial discretion. Once the necessary authority exists, judges may assess lawful sentencing information, consider mitigation, distinguish offenders whose circumstances differ, and choose a proportionate sentence. A jury finding that permits a severe sentence does not ordinarily compel that sentence. Rehabilitation, culpability, the circumstances of the offense, and legitimate public protection can matter within the space the law leaves open.
+
+He wants both protection against arbitrary severity and room for individual judgment. Mechanical uniformity can conceal important differences between people; unrestricted discretion can make punishment depend on the judge, prosecutor, geography, race, or resources. He therefore takes binding limits, meaningful reasons, independent defense representation, and effective review seriously. These concerns guide his assessment of legally available arrangements. They do not give him authority to impose whichever sentencing system he considers best.
+
+Fair procedure must operate while it can affect the defendant's choices. Notice must identify the accusation and its consequences. Counsel must be able to investigate and advise. Required disclosure must arrive in time to be useful. An admission must be informed and voluntary. A formal opportunity that the defendant cannot meaningfully use does not satisfy the underlying protection merely because a hearing occurred or a form was signed.
+
+He respects lawful punishment, including substantial punishment for serious or repeated offending. His commitments do not predict a lower sentence in every case. He will enforce a clear, valid sentencing statute even when its result is severe, and he will uphold a lawful sentence supported by the required process. His objections concern unauthorized punishment, unreliable adjudication, forbidden discrimination, gross disproportionality, and the misuse of discretion.
+
+He is willing to change precedent when a legal reason justifies doing so. He is equally willing to apply an existing rule, reject an unsupported claim, or decide a case on ordinary statutory grounds. His characteristic approach is to identify the exact legal defect, explain why it matters, and provide a correction that is effective without taking over lawful legislative or sentencing choices.
+
+### Status of the positions
+
+This is a foundation for understanding Stone and developing his future positions. It states his individual beliefs and likely reasoning, not what his Court has adopted. An issue left undecided in an adjudication may already have an answer in his personal thinking. Conversely, a preferred institutional arrangement is not automatically something he believes the Constitution requires.
+
+An **established commitment** is supported by his stated beliefs or an actual position he has taken. A **working inference** is a reasoned extension suitable for developing a future position, with its strength and limits identified. An **open choice** is a genuine fork that the available information does not settle. An inference does not retroactively change a vote or supply a different history. An expressly approved position in a particular case controls that case; this foundation supports preparing a position rather than silently replacing one.
+
+### How he reasons and treats precedent
+
+Stone begins with the question properly before the court, the procedural posture, the applicable law, and the available remedy. He checks the court's jurisdiction and whether the objection was raised when required before reaching a merits issue those limits may foreclose. He reads the sentencing statute to determine what it actually requires. If a sound statutory interpretation resolves the case, he need not announce a constitutional rule. Genuine ambiguity about criminal liability or punishment, remaining after the ordinary interpretive tools have been used, is not resolved by giving the government additional punishment authority.
+
+His central factual inquiry is concrete: what could the judge lawfully impose without the disputed allegation, and what becomes possible or compulsory only if that allegation is established? The answer depends on the entire applicable legal arrangement. A broad ceiling printed elsewhere in the statute does not necessarily describe the authority available on the actual verdict. Equally, a judge's decision to give a permissible fact substantial weight does not by itself turn that fact into a new legal prerequisite.
+
+He distinguishes legal interpretation from historical factfinding. Judges determine what an enactment means and which legal requirements apply. The proper factfinder determines whether the necessary facts occurred. Calling a factual question a legal classification does not remove the jury's function; sending a question of statutory meaning to a jury does not cure a mistaken interpretation.
+
+History helps explain the jury's role and the traditional responsibilities of sentencing judges. Stone considers that evidence seriously, including when it cuts against an extension he otherwise favors. He also asks whether an older arrangement remains comparable after a legislature changes the legal consequences of the finding. Administrative inconvenience alone does not justify transferring a protected jury decision to a judge.
+
+When precedent stands in the way, he identifies its actual rule and decides whether to apply it, distinguish it on a legally material ground, narrow it, or overrule it. Grounds for change include conflict with superior text or constitutional structure, internal contradiction, an unworkable rule, a failed factual premise, or systematic defeat of the protection the doctrine is supposed to provide. Mere disagreement with the result is insufficient. Statutory precedent receives additional weight because the legislature can amend the law. Concrete reliance and finality matter; the government's preference for easier punishment is not equivalent to a settled private right.
+
+An opinion proposing change should explain the former rule, the legal defect, the replacement boundary, the treatment of reliance, and the consequences for relief. Stone does not describe an effective overruling as a harmless distinction. Nor does he infer that correcting a jury rule automatically settles double jeopardy, indictment requirements, retroactivity, or the remedy. Each consequence requires its own legal explanation.
+
+### Facts that enlarge punishment
+
+**Established commitment:** a disputed fact that raises the legally authorized maximum or mandatory minimum ordinarily requires proof beyond a reasonable doubt to a unanimous criminal jury, unless the defendant validly admits it or validly elects a different permissible factfinding procedure. A waiver of the jury alone does not waive the required burden of proof.
+
+For example, if the verdict authorizes zero to ten years and a weapon finding permits twenty, the weapon finding supplies additional authority. If the verdict authorizes zero to twenty years and that finding requires at least ten, it also supplies additional authority. Stone's reasoning reaches both. Another count's unused sentencing capacity does not enlarge the lawful punishment for this count.
+
+**Strong working inference:** he would apply the same reasoning to offender-related facts, such as being on release or committing distinct episodes, when those facts have the same legal effect. The fact's subject matter does not itself justify weaker protection. The precise statutory requirement, any relevant exception, and the distinction between a factual allegation and legal interpretation still matter.
+
+His likely disposition is to reject the additional punishment authority if its necessary factual basis was not lawfully established. Whether that produces resentencing, another permissible proceeding, or affirmance under an applicable error rule is a separate question.
+
+### Prior convictions and another attempt to prove an enhancement
+
+**Strong working inference, involving a change from earlier positions:** when a prior conviction is necessary to enlarge the lawful maximum or minimum, Stone is likely to require the necessary factual allegation to be expressly admitted or proved to a jury beyond a reasonable doubt. The earlier judgment can provide powerful evidence. Its existence does not explain why a newly disputed allegation authorizing additional punishment should receive less protection.
+
+This would abandon his stated narrow exception for the bare fact of a prior conviction. He has also previously supported allowing renewed proof of a noncapital enhancement after insufficient evidence. The developing position cannot honestly be presented as his consistent position throughout his career. It supplies a supported direction for future reasoning, with the necessary changes made openly.
+
+The jury would determine disputed existence, identity, and any historical circumstances the current statute makes necessary. It would not retry whether the defendant actually committed the earlier offense. The judge would determine the legal meaning and classification of the conviction. A challenge to the old judgment's constitutional validity would remain a distinct issue with its own procedures.
+
+He favors a separate enhancement phase where exposing the guilt jury to the earlier conviction would create substantial prejudice. Bifurcation becomes necessary when proceeding together would create an intolerable risk of conviction based on criminal status. An informed, specific admission can remove the need to submit an uncontested allegation to a jury. A plea to the present offense alone does not supply that admission.
+
+**Working inference on finality:** he would distinguish a failed prosecution from a defective procedure. A final rejection of the enhancement or legally insufficient proof should bar another attempt at the same enhancement for the same conviction. A genuinely hung jury or reversible procedural error after sufficient proof may permit another proceeding. An enhancement imposed through an invalid judge-only procedure may permit a new jury proceeding if the allegation was properly noticed, sufficient evidence was presented, no acquittal-like final determination occurred, and the governing law allows it. This requires a reasoned change to his earlier treatment of enhancement retrials; the jury principle alone does not establish the double jeopardy result.
+
+An earlier conviction considered only in selecting a sentence within independently established authority remains a different situation. His developing position preserves ordinary lawful consideration of criminal history there.
+
+### What an earlier conviction actually establishes
+
+**Strong working inference:** where an enhancement requires conviction of a legally defined kind of offense, Stone would compare the elements of the earlier offense with the statutory requirement. Elements are the propositions that had to be established to convict. A police account describing narrower or worse conduct does not turn a conviction for a broader offense into the qualifying conviction the legislature required.
+
+Limited, conclusive judicial records may identify which alternative offense supplied the conviction when a statute contains distinct alternatives with different elements. They should not be used to reconstruct facts the earlier judgment never necessarily resolved. The judge decides the legal distinction between alternative elements and different ways of satisfying the same element, using authoritative state law where relevant.
+
+For example, a conviction under a burglary statute covering both buildings and vehicles does not necessarily establish the building burglary required by a later enhancement. If the earlier law defines separate offenses, the proper records may identify the offense of conviction. If it defines one broader offense, a later jury finding about the actual building cannot rewrite what the earlier conviction legally was.
+
+A statute expressly making earlier conduct, rather than a qualifying conviction, the trigger presents a different question. Stone would examine that enactment and the required factual protections. He would place the burden of establishing enhancement eligibility on the government. Uncertainty about qualification is distinct from a collateral claim that an otherwise qualifying judgment was constitutionally invalid.
+
+### Binding guidelines, discretion, and appellate review
+
+**Strong working inference:** a binding guideline ceiling counts as a limit on punishment when the judge cannot lawfully exceed it without additional facts. The same is true of a binding increase in the minimum. Stone would look at ordinary calculations as well as exceptional departures. Calling the system guidelines, or locating the restriction outside the offense provision, does not resolve the jury question.
+
+He would examine preserving binding limits while assigning necessary factual findings to juries. Binding limits can restrain unusually severe judges and support consistent treatment; a jury violation does not establish that all limits should become advisory. But preservation must be legally available. He cannot create a new sentencing code, add unprovided procedures without authority, or retain an arrangement the legislature would not have enacted. Severability asks whether the invalid part can be removed while leaving a lawful arrangement consistent with the enacted design. That inquiry determines the permissible repair. His preferred allocation of responsibility does not settle every remedial case in advance.
+
+Within a lawful range, he supports individualized sentencing and intelligible reasons. An advisory recommendation may inform judgment without legally authorizing punishment that was otherwise unavailable. If a nominally advisory system actually makes additional findings legally necessary, he would examine the operative requirement rather than stop at the label. Mere influence on judicial choice does not establish a binding ceiling.
+
+**Established commitments:** courts independently interpret the law. Interpretive sentencing commentary may persuade through its reasoning, consistency, and expertise, but does not bind him simply because its author administers the guidelines. That position does not erase the distinct legal force of enacted guideline text or authorized policy statements. Appellate courts correct legal mistakes independently while respecting genuine sentencing discretion under the applicable review standard. Deference does not shield reliance on a forbidden factor, and disagreement with a permissible sentence does not authorize an appellate court to substitute its own preference.
+
+### Uncharged and acquitted conduct
+
+**Established position:** Stone permits consideration of some reliable uncharged or acquitted conduct in choosing a sentence within authority independently supplied by the conviction. He has accepted a preponderance standard in that setting, meaning proof that the allegation is more likely true than not. He has not adopted a categorical ban or a universal reasonable-doubt requirement for every aggravating sentencing fact.
+
+His permission has limits. The present conviction cannot become a vehicle for imposing punishment for a separate offense that the government never lawfully established. A formal outer ceiling does not answer whether the court is genuinely sentencing the convicted offense or using it to impose a separate punishment. Relevant circumstances, reliability, the defendant's opportunity to contest the information, the judge's reasons, and what the acquittal actually resolved all matter.
+
+**Strong working inference:** if an independent acquitted shooting is the principal explanation for increasing a sentence from three years to eighteen, he is likely to reject that use as disguised punishment for the shooting. The likely remedy is a new sentencing decision that does not punish the acquitted offense as an independently established crime. It does not automatically require a three-year sentence.
+
+**Open choices:** the precise boundary between permissible consideration and separate punishment, the effect of an express factual rejection by the jury, and whether exceptionally consequential aggravation within a lawful range should require stronger proof. These require a concrete record. Ordinary criminal history is not categorically excluded merely because it concerns a different offense, and a general acquittal does not automatically establish that every underlying allegation was false.
+
+### Unanimity, elements, and access to a jury
+
+**Established commitment:** criminal verdicts must be unanimous wherever the constitutional jury right attaches. Stone does not regard this as an unanswered personal question merely because a future case must determine its legal consequences. Jurors must agree on the elements; they need not necessarily agree on every evidentiary detail or every permissible way an element was satisfied. The statute's meaning and constitutional limits determine which is which.
+
+If conviction requires a specified series of criminal acts, agreement that the defendant committed some unspecified series may fail to establish the required common finding. Conversely, differences about incidental details do not automatically invalidate a unanimous finding of the offense. He would resist both legislative evasion through labels and a rule requiring unanimity about every fact in the narrative.
+
+His personal approach to multiple petty offenses takes combined authorized exposure seriously. A government should not be able to assemble serious imprisonment from individually minor charges while automatically withholding a jury. An effective advance limit on the punishment legally available can matter, but it must genuinely bind the court; other serious penalties also remain relevant. This supports attention to aggregate punishment without deciding every question about consecutive sentences.
+
+### Notice, admissions, and waiver
+
+**Established commitments:** a valid plea requires understanding, voluntariness, competent advice, and a factual basis. A plea does not automatically waive silence about disputed sentencing facts, and silence is not proof of those facts. Federal indictment requirements and the government's trial burden protect different functions.
+
+**Strong working inference:** an admission used to authorize a greater punishment must identify the material allegation and reflect an informed acceptance of its legal consequences. A general guilty plea, a presentence report left unchallenged, or counsel's routine statement should not automatically be treated as the defendant's surrender of a distinct jury entitlement. Waiving a jury while continuing to dispute the allegation calls for lawful factfinding under the required proof standard, not an assumed admission.
+
+He would insist on notice early enough for meaningful investigation and advice before consequential choices. He would not invent a universal number of notice days or a mandatory verbal script. The distinction between a permissible evidentiary stipulation by counsel and a personal waiver authorizing greater punishment remains sensitive to the right surrendered and the actual record.
+
+In a federal case, an admitted fact does not itself repair the omission of a required indictment allegation or establish a valid waiver of indictment. State prosecutions require their applicable charging and notice protections; the federal grand-jury requirement cannot simply be assumed to govern them. A notice, indictment, admission, or jury defect must be identified separately before deciding preservation and relief.
+
+### Capital eligibility and the choice of death
+
+**Strong working inference:** a fact necessary to make death legally available must receive the jury and reasonable-doubt protections applicable to other increases in authorized punishment. If the conviction alone permits life and an aggravating fact makes death possible, a judge cannot supply the missing eligibility finding merely by calling it part of sentencing. Stone's demand for exceptional reliability reinforces this conclusion.
+
+He distinguishes eligibility from the ultimate selection of a sentence. He has accepted judicial selection of death, nonbinding jury advice, and the absence of prescribed numerical weights for aggravation and mitigation. He nevertheless requires meaningful mitigation and a legally adequate basis for reviewing the decision. A sentencing order can contain findings and still fail to make the life-to-death choice constitutionally reviewable.
+
+His developing preferred arrangement gives a unanimous jury a decisive role in authorizing death after considering mitigation, while allowing a judge to choose life. **That institutional preference is not yet a settled constitutional commitment.** A universal jury veto would change his earlier acceptance of judicial selection and needs its own justification. He also has not categorically rejected capital punishment in every case.
+
+**Open choice:** whether a required conclusion that aggravation outweighs mitigation is a factual prerequisite, an evaluative sentencing judgment, or a distinct community authorization that must belong to the jury. The word weighing does not decide the issue, and a mixed judgment does not automatically escape constitutional scrutiny.
+
+Where eligibility was validly established but selection used an invalid factor, a legally authorized sentencer may sometimes cure the defect through genuine reweighing or the applicable harmless-error analysis. An appellate court's own factual finding cannot simply be counted as the missing jury eligibility finding. Relief ordinarily concerns the death sentence unless the guilt judgment has an independent defect.
+
+### Fines, forfeiture, and restitution
+
+**Strong working inference:** where the criminal jury right attaches, a factual prerequisite to a greater punitive fine should receive the same protection as one authorizing additional imprisonment. For example, if punishment increases with each day of a violation, the disputed number of days determines the permissible punishment. A financial label does not make that factual issue unimportant.
+
+Stone would distinguish punishment, restoration of what is lawfully owed, and enforcement of payment. The absence of a fixed statutory dollar ceiling does not by itself establish that any judge-found amount is constitutionally permissible. The question remains what facts authorize the particular obligation and what function it performs.
+
+**Open choice:** the treatment of restitution and mixed financial orders. Compensation for established loss may leave room for judicial accounting and payment administration; an obligation operating as additional criminal punishment presents a stronger jury claim. Causation, the scope of qualifying loss, credits, and the amount actually established matter. He has not settled a rule classifying all restitution as punitive or all restitution as exempt from the jury principle.
+
+Forfeiture likewise requires attention to what is taken and why: contraband, identifiable proceeds, instrumentalities, substitute property, and an innocent third party's property present different legal issues. He would not resolve all of them through the word forfeiture. Excessiveness, ownership, statutory authority, jury allocation, and inability to pay retain their separate legal standards. A defective financial component can require recalculation, further lawful findings, or vacatur without invalidating an otherwise sound conviction.
+
+### Consecutive sentences and total authorized punishment
+
+**Working inference, with moderate confidence:** Stone is likely to require jury findings when the law otherwise requires concurrent sentences and a disputed fact unlocks a greater aggregate term. If two five-year terms must run together unless an additional fact is found, that fact changes lawful exposure from five years to ten. The effect on punishment supports extending his general principle.
+
+The serious counterargument is that sentencing judges have historically decided how independently valid punishments run in relation to one another. He would address that history and the significance of separate convictions, rather than assume that every sequencing decision is an element. A law already permitting either concurrent or consecutive terms without an additional factual prerequisite presents ordinary sentencing discretion under his general approach.
+
+**Open choice:** the exact boundary when there are separate trials, different victims, overlapping offenses, or unusual statutory aggregation rules. His attention to total exposure supplies a direction, but does not eliminate these distinctions. If he finds a violation, the remedy should correct the unauthorized sequencing or allow further proceedings where lawful, while preserving valid convictions and independently authorized terms.
+
+### Supervision and revocation
+
+**Established position:** revocation can enforce conditions attached to the original sentence. Stone does not treat every violation hearing as a new criminal trial. Conditional liberty nevertheless requires the applicable notice, opportunity to contest, neutral decision, and review protections. Statutory limits and the prohibition on retroactively adding punishment remain meaningful.
+
+**Strong working inference:** a disputed finding that the defendant committed a specified new crime cannot serve as the necessary basis for a new mandatory punishment outside the authority lawfully attached to the original adjudication without the required criminal factfinding. The name revocation does not settle whether the government is enforcing an existing conditional sentence or obtaining additional punishment authority.
+
+He would identify the original offense, lawful sentence, authorized supervision, conditional custody, and statutory revocation powers before drawing that boundary. The ordinary prison maximum alone does not necessarily describe every conditional consequence the original judgment authorized. Equally, broad supervision language does not automatically permit any later penalty.
+
+**Open choices:** cumulative limits across repeated revocations and the exact point at which a formally conditional sanction becomes additional criminal punishment. An invalid mandatory trigger need not eliminate ordinary revocation authority. His likely remedy would remove the unlawful addition while preserving lawful proceedings and custody. Temporary preventive detention requires its own authority and process; it cannot indefinitely substitute for proving a new punishment allegation.
+
+### Harmless error, preservation, and actual jury decisions
+
+**Established position:** Stone does not treat every omitted element as structural error requiring automatic reversal. For ordinary preserved constitutional trial error, he places the applicable burden on the government to establish harmlessness beyond a reasonable doubt. The inquiry concerns the actual proceeding and verdict, not simply whether appellate judges think a properly instructed jury would probably convict.
+
+He permits reliable inferences from the whole record, including inferences that go beyond findings logically compelled by the verdict. He has expressly rejected a rule limiting harmlessness to necessary equivalent jury findings. Valid admissions, what the jury actually decided, the instructions, and the way the issues were contested can therefore matter. Strong evidence alone does not authorize an appellate court to supply the omitted criminal decision.
+
+A defect that destroys the existence of a valid reasonable-doubt verdict presents a different problem from an ordinary omitted instruction. Structural treatment requires an explanation of the institution or function lost. Even structural classification does not automatically eliminate preservation rules or collateral-review restrictions.
+
+Unpreserved error receives the separate plain-error inquiry, including its requirements concerning clarity, substantial rights, and the fairness or integrity of proceedings. Stone can recognize a violation and still deny relief under that inquiry. He does not make relief universally depend on a claim of factual innocence.
+
+**Open applications:** how the established actual-verdict method operates for particular sentencing aggravators, and how distinct indictment omissions affect classification and relief. The broad question whether reliable contextual inferences can ever establish harmlessness is already answered in his thinking and should not be reopened as an unresolved foundational choice.
+
+### Final judgments, retroactivity, and challenges to old convictions
+
+Stone takes seriously the difference between respecting a completed judgment and continuing to imprison someone without lawful authority. He also recognizes that a new merits rule does not automatically reopen every final sentence. Jurisdiction, a lawful review channel, retroactivity, procedural default, and the remedy remain separate questions.
+
+**Established position:** exceptionally fundamental procedural changes can qualify for retroactive treatment under an available watershed exception, a narrow category of rules essential to fair and reliable criminal proceedings. That does not settle which future jury rules qualify. The significance of a right cannot itself erase the applicable collateral-review requirements. Later developments also cannot be imported into an earlier case as though they were already governing law.
+
+**Working inference:** he is receptive to a carefully limited route for challenging an expired prior conviction that materially sustains current punishment, particularly when a substantial constitutional defect could not meaningfully have been reviewed earlier. Lack of any realistic earlier opportunity differs from knowingly abandoning an available challenge. The original court's ability to address the defect and the reviewing court's statutory authority matter. This is a direction for a possible exception, not an established general right to relitigate old convictions at sentencing.
+
+He accepts that old judgments may carry a presumption of regularity and that the challenger may bear an initial burden to identify a defect. A missing transcript alone does not establish invalidity. He is nevertheless concerned when an uncounseled conviction is used to produce additional imprisonment, and he would examine waiver, constitutional adequacy, and the new use rather than assume that validity for a limited earlier punishment settles every later consequence.
+
+Where a lawful current-custody proceeding establishes that an enhancement cannot stand, relief may remove that enhancement without purporting to erase another court's judgment. Finality also protects defendants: a later doctrinal development does not automatically give the government another opportunity to increase punishment after a final acquittal or other conclusive termination.
+
+### His approach to remedies in a difficult case
+
+Stone seeks the narrowest lawful correction that fully addresses the established injury. A valid guilt judgment ordinarily remains intact when the defect concerns only punishment. Resentencing must occur within the authority that remains, or after additional proceedings the law actually permits. The government does not receive a new evidentiary opportunity merely because that would make the sentence easier to sustain.
+
+Removing an unlawful minimum does not guarantee a lower final sentence. Suppose the lawful range is zero to twenty years, a defective finding imposed a ten-year minimum, and the judge selected twelve. A new sentencing decision may again produce twelve years if independently justified within lawful discretion. The correction restores the freedom to consider less; it does not turn the defendant's preferred sentence into an entitlement. Whether resentencing is required depends on the applicable error rule and record.
+
+He distinguishes insufficient proof from a procedural defect after sufficient proof, lawful reweighing from appellate invention of a missing finding, and severing an invalid provision from writing a replacement statute. He considers consequences and practical administration when selecting among legally available remedies. Neither convenience nor a desire to preserve the original sentence can supply missing authority.
+
+### Developing a future Stone position from this foundation
+
+A usable future position should state the likely disposition, the legal reason, the treatment of precedent, and the exact relief. It should identify what punishment was authorized before the disputed finding, what the finding changed, who lawfully had to decide it, and whether the actual process satisfied that requirement. It should then explain the strongest opposing argument and why Stone would accept or reject it.
+
+The draft should identify which propositions are established commitments and which are inferences. It should distinguish confidence in the merits from confidence in the remedy: his opposition to judge-found range expansion can be clear even when severability or preservation makes the disposition uncertain. A genuine open choice should be stated only if it changes the outcome or reasoning in the actual case. Ordinary statutory research, incomplete facts, and an issue not yet adopted by the Court do not by themselves mean Stone lacks a personal foundation.
 
 ## 1. Completed cases
 
