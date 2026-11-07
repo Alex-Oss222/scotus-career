@@ -1,13 +1,13 @@
 # Stone tracker: equality, voting and enforcement
 
-Planning material under `stone/README.md`. Scope: equal protection, the Fourteenth and Fifteenth Amendments, Voting Rights Act sections 2 and 5, districting, the franchise and vote counting, racial classifications, sex, sexual orientation and gender identity, other classifications, congressional enforcement power and private enforcement. State immunity and commandeering are in `STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md`. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here. Stone's full planned positions from the earlier equality build are kept word for word in `STONE_PLANNED_POSITIONS.md`. This document replaces four earlier files (`STONE_EQUALITY_VOTING_TRACKER.md`, `STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md`, `STONE_EQUALITY_VOTING_ENFORCEMENT_DIGEST.md` and `STONE_DOCTRINE_WORKBOOK_EQUALITY_VOTING_IMMUNITY.md`), whose full texts remain in repository history at commit 6070e508.
+Scope: equal protection, the Fourteenth and Fifteenth Amendments, Voting Rights Act sections 2 and 5, districting, the franchise and vote counting, racial classifications, sex, sexual orientation and gender identity, other classifications, congressional enforcement power and private enforcement.
 
 Organization:
 1. Completed cases, each with what it held.
-2. Reserved landmark cases, with their historical questions, blank fields for Stone's disposition and reasoning, and any plan the retired build, digest or workbook recorded for the case.
-3. The doctrine as it stands, how it operates, and which landmarks it is waiting for; the four districting injuries, with their candidate elements, stop lines and the user's open decisions; and where Stone's earlier materials still disagree.
+2. Reserved landmark cases, with their historical questions, blank fields for Stone's disposition and reasoning, and any earlier plan for the case.
+3. The doctrine as it stands, how it operates, and which landmarks it is waiting for; the four districting injuries, with their candidate elements, stop lines and open decisions; and where Stone's earlier materials still disagree.
 4. Questions to answer before the landmarks, each with its vehicle, the landmark it must precede and a blank answer field; then the questions reserved for the landmarks themselves.
-5. Docket decisions and carried-forward plans: the live post-Shaw docket rules, the OT2000 collision decisions and their status, the build's corrections that still bind, and Stone's planned positions for the OT2000 and OT2001 matters that are not section 2 landmarks.
+5. Docket decisions and carried-forward plans: the live post-Shaw docket rules, the OT2000 collision decisions and their status, the corrections that still apply, and Stone's planned positions for the OT2000 and OT2001 matters that are not section 2 landmarks.
 
 ## 1. Completed cases
 
@@ -227,7 +227,7 @@ OT1999
 
 Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp) for OT2002 onward, and from the Court's opinions for the four OT2000 cases, whose question documents are not online. Where the Court limited or rewrote the question, the granted question is quoted. Long factual preambles are omitted and marked.
 
-Status key: Open (the central question has not been reached); Partly decided (an earlier simulated decision answered part of it); Pre-decided (an earlier simulated decision answered it, or will, by the user's choice); Predicate removed (the question assumes a rule this timeline rejected, so the case returns only in a changed form or is deleted under the causal rule).
+Status key: Open (the central question has not been reached); Partly decided (an earlier decision of this Court answered part of it); Pre-decided (an earlier decision of this Court answered it, or an earlier case chosen to decide it will); Predicate removed (the question assumes a rule this timeline rejected, so the case returns only in a changed form or is deleted under the causal rule).
 
 ### OT2000: Bush v. Palm Beach County Canvassing Board, 531 U.S. 70 (No. 00-836)
 
@@ -236,7 +236,7 @@ Status: Open. On the OT2000 list (December 4, 2000).
 Question, as stated in the Court's opinion:
 > We granted certiorari on two of the questions presented by petitioner: whether the decision of the Florida Supreme Court, by effectively changing the State's elector appointment procedures after election day, violated the Due Process Clause or 3 U.S.C. §5, and whether the decision of that court changed the manner in which the State's electors are to be selected, in violation of the legislature's power to designate the manner for selection under Art. II, §1, cl. 2 of the United States Constitution.
 
-Earlier plan (retired build): Join a narrow vacatur and remand so the Florida Supreme Court can clarify the basis of its judgment, without declaring that ordinary state-court interpretation of election statutes unconstitutionally alters the legislature's method of appointing electors. The federal safe harbor is a legal advantage under its conditions, not a command to end every unresolved contest on that date.
+Earlier plan: Join a narrow vacatur and remand so the Florida Supreme Court can clarify the basis of its judgment, without declaring that ordinary state-court interpretation of election statutes unconstitutionally alters the legislature's method of appointing electors. The federal safe harbor is a legal advantage under its conditions, not a command to end every unresolved contest on that date.
 
 Character recommended disposition:
 
@@ -249,7 +249,7 @@ Status: Open. On the OT2000 list (December 12, 2000).
 Question, as stated in the Court's opinion:
 > The petition presents the following questions: whether the Florida Supreme Court established new standards for resolving Presidential election contests, thereby violating Art. II, §1, cl. 2, of the United States Constitution and failing to comply with 3 U.S.C. § 5 and whether the use of standardless manual recounts violates the Equal Protection and Due Process Clauses.
 
-Earlier plan (retired build): Dissolve the stay, vacate only the recount procedures that let materially equivalent ballots be treated inconsistently, reject the Article II challenge (federal review asks only whether a state court materially replaced the legislature's pre-election rules or reassigned authority), and remand for continued counting under one uniform statewide standard implementing Florida's pre-election law. December 12 is a safe-harbor advantage, not a stop date; disputes left unresolved go to Congress's electoral count, and the Court declares no winner.
+Earlier plan: Dissolve the stay, vacate only the recount procedures that let materially equivalent ballots be treated inconsistently, reject the Article II challenge (federal review asks only whether a state court materially replaced the legislature's pre-election rules or reassigned authority), and remand for continued counting under one uniform statewide standard implementing Florida's pre-election law. December 12 is a safe-harbor advantage, not a stop date; disputes left unresolved go to Congress's electoral count, and the Court declares no winner.
 
 Character recommended disposition:
 
@@ -258,11 +258,11 @@ Character recommended reasoning:
 ### OT2000: Easley v. Cromartie, 532 U.S. 234 (Nos. 99-1864, 99-1865)
 
 Area: Territorial districting.
-Status: Predicate changed. Historical Easley reviewed a post-trial finding that race predominated; Hunt v. Cromartie (OT1998) forbids relief on predominance alone. Needs an Engine §14 reconstruction premise before a brief. On the OT2000 list (April 18, 2001).
+Status: Predicate changed. Historical Easley reviewed a post-trial finding that race predominated; Hunt v. Cromartie (OT1998) forbids relief on predominance alone. Its posture must be reconstructed for this timeline before it is decided. On the OT2000 list (April 18, 2001).
 Question, as stated in the Court's opinion:
 > The issue in this case is evidentiary. We must determine whether there is adequate support for the District Court's key findings, particularly the ultimate finding that the legislature's motive was predominantly racial, not political.
 
-Earlier plan (retired build): The build would have deleted Easley as part of the historical Shaw chain, an instruction superseded by Hunt v. Cromartie (OT1998) and the OT2000 list. The workbook would first supply an Engine §14 reconstruction premise, then give judgment for the State under Hunt's mandate if no independent claim was preserved, or treat a reconstructed preserved claim as packing-based intentional dilution.
+Earlier plan: Easley was first to be deleted as part of the historical Shaw chain, an instruction superseded by Hunt v. Cromartie (OT1998) and the OT2000 list. The later plan was to reconstruct its posture first, then give judgment for the State under Hunt's mandate if no independent claim was preserved, or treat a reconstructed preserved claim as packing-based intentional dilution.
 
 Character recommended disposition:
 
@@ -271,11 +271,11 @@ Character recommended reasoning:
 ### OT2000: Tuan Anh Nguyen v. INS, 533 U.S. 53 (No. 99-2071)
 
 Area: Sex.
-Status: Open. The user has decided to decide it in full, including the remedy, so Morales-Santana (OT2016) becomes an application. On the OT2000 list (June 11, 2001).
+Status: Open. It is to be decided in full, including the remedy, so Morales-Santana (OT2016) becomes an application. On the OT2000 list (June 11, 2001).
 Question, as stated in the Court's opinion:
 > The question before us is whether the statutory distinction is consistent with the equal protection guarantee embedded in the Due Process Clause of the Fifth Amendment.
 
-Earlier plan (retired build): Hold §1409(a)(4)'s father-only condition unconstitutional under heightened scrutiny, sever it under the INA's severability clause, recognize Nguyen's citizenship at birth under the remaining statute, and vacate the removal order. Stone's actual Miller v. Albright dissent would instead remand for a lawful remedy (section 3.10, item 5).
+Earlier plan: Hold §1409(a)(4)'s father-only condition unconstitutional under heightened scrutiny, sever it under the INA's severability clause, recognize Nguyen's citizenship at birth under the remaining statute, and vacate the removal order. Stone's actual Miller v. Albright dissent would instead remand for a lawful remedy (section 3.10, item 5).
 
 Character recommended disposition:
 
@@ -562,7 +562,7 @@ Character recommended reasoning:
 ### OT2016: Sessions v. Morales-Santana, 582 U.S. 47 (No. 15-1191)
 
 Area: Sex.
-Status: Pre-decided through Nguyen (OT2000), including the remedy, by the user's choice.
+Status: Pre-decided through Nguyen (OT2000), including the remedy.
 [Preamble omitted.]
 > 1. Whether Congress's decision to impose a different physical-presence requirement on unwed citizen mothers of foreign-born children than on other citizen parents of foreign-born children through 8 U.S.C. 1401 and 1409 (1958) violates the Fifth Amendment's guarantee of equal protection.
 > 2. Whether the court of appeals erred in conferring U.S. citizenship on respondent, in the absence of any express statutory authority to do so.
@@ -702,7 +702,7 @@ Character recommended reasoning:
 ### OT2025: Little v. Hecox (No. 24-38) and West Virginia v. B.P.J. (No. 24-43)
 
 Area: Sex; gender identity.
-Status: Open. The user is willing to close sex-equality questions early; whether the sex-separated-teams question counts as sex equality or stays reserved with gender identity is the user's call.
+Status: Open. Sex-equality questions may be closed early; whether the sex-separated-teams question counts as sex equality or stays reserved with gender identity is still to be decided.
 No. 24-38 [preamble omitted]:
 > Whether laws that seek to protect women's and girls' sports by limiting participation to women and girls based on sex violate the Equal Protection Clause of the Fourteenth Amendment.
 
@@ -717,49 +717,6 @@ Character recommended reasoning:
 ## 3. The doctrine as it stands
 
 Each area states the rule as of June 29, 2000, how a court applies it step by step, and which landmarks are waiting on it.
-
-### 3.0 A plain-language primer: the terms these questions use
-
-This primer explains general terms in ordinary words so the questions in section 4 can be answered by someone who is not a lawyer. It describes how the concepts work in general and, where noted, in this Court. What this Court has actually held is in 3.1 to 3.10.
-
-Drawing districts
-- Districts and redistricting. Most legislatures and councils are elected from districts. After each census, district lines are redrawn so that each district holds roughly the same number of people.
-- At-large election. Everyone in a city or county votes for every seat. If a majority group votes as a bloc, it can win every seat even when a sizable minority votes the other way.
-- Packing and cracking. The two ways to draw lines that weaken a group's votes. Packing puts far more of the group's voters into a few districts than they need to win there, so their extra votes are wasted. Cracking splits the group across many districts so that it is outnumbered in all of them.
-- Majority-minority, opportunity, crossover and coalition districts. A majority-minority district is one where a racial or language minority makes up most of the voters. An opportunity district is one where the minority group can realistically elect its preferred candidate. A crossover district elects the group's candidate with help from some majority voters. A coalition district joins two minority groups, for example Black and Latino voters, who vote together (question D11).
-
-The injuries
-- Vote dilution. Every voter casts a ballot and every ballot is counted, but the lines or the election system are arranged so that a group's votes carry less weight than they would under a fair arrangement. Example: a county that is 35 percent Black elects five commissioners at large. White voters, who vote as a bloc, win all five seats in every election, although fair single-member districts would give Black voters a real chance in one or two. Nobody was turned away from the polls; the system turned their votes into fewer wins. That is dilution. It can be challenged as intentional (the Constitution, which requires proof of purpose) or under §2 of the Voting Rights Act (which looks at results).
-- Racial gerrymander (the Shaw claim). A different injury: the State sorts voters into districts mainly by race, whether or not anyone's voting strength is reduced. Historically the Court required strict scrutiny when race was the predominant reason for a district's lines (Shaw v. Reno, Miller v. Johnson). This Court went the other way: deliberate or predominant use of race in drawing a shared district is not, by itself, an injury, a trigger for heightened review or a basis for an injunction (Shaw, Miller, Vera, Hunt here). A voter must prove one of the four injuries below (3.1, 3.9).
-- The four districting injuries Stone is building (3.9, planning, not law): racial exclusion (keeping people from voting or from the process because of race); intentional vote dilution (dilution done on purpose); materially unequal participation (rules or equipment that make it materially harder for one group's votes to be cast or counted, such as voting machines that discard more ballots in minority neighborhoods, question D6); and legally inferior civic status (government marking some citizens as lesser members of the political community, such as limiting who may run for office by ancestry, question D8).
-- Disenfranchisement. Taking away the vote, for example from people with felony convictions. A disenfranchisement law adopted to exclude Black voters is unconstitutional (Hunter v. Underwood, 1985); question D9 asks whether reenacting such a law later removes the taint.
-
-The Voting Rights Act
-- Section 2. Applies nationwide and forbids voting rules and districts that result in minority voters having less opportunity to participate and elect candidates of their choice. Proof of intent is not required. A claim normally starts with the three Gingles conditions (1986): the minority group is large and compact enough to form a majority in a reasonable district; it votes cohesively; and the majority usually votes as a bloc to defeat its preferred candidates. The court then looks at the "totality of circumstances," such as history, campaign appeals to race and how often minority candidates win.
-- Section 5 and preclearance. Certain jurisdictions with a history of discrimination (chosen by the coverage formula in §4(b)) had to get federal approval before changing any voting rule. Approval was denied if the change was retrogressive (left minority voters worse off than before) or, depending on the period, adopted with a discriminatory purpose. Shelby County (OT2012) is the landmark on the coverage formula.
-
-Equal population
-- One person, one vote. Districts must hold roughly equal numbers of people so that each vote counts about the same (Reynolds v. Sims, 1964). State and local plans may vary somewhat; congressional districts must be nearly exact.
-- Total population versus citizen voting-age population (CVAP). Districts are usually equalized by counting everyone, including children and noncitizens. Some argue they should be equalized by counting eligible voters only. Where noncitizens are concentrated, the two counts give very different maps (Chen, questions D12 and D16; Evenwel, OT2015).
-- Partisan gerrymandering. Drawing lines to help one party. Whether courts can decide such claims is the Vieth (OT2003) and Rucho (OT2018) question.
-
-Standards of review
-- Strict scrutiny: the government must show a compelling interest and that the measure is narrowly tailored to it. Historically applied to racial classifications.
-- Intermediate scrutiny: an important objective and a substantial relationship to it; for sex, an "exceedingly persuasive justification" (United States v. Virginia). Applied to sex classifications.
-- Rational basis: a legitimate purpose and a rational connection. Most laws pass, though the Court has struck laws resting on bare hostility (Romer v. Evans).
-- This Court's common standard for racial classifications (Adarand here): government must show an important objective within its lawful authority and a substantial, evidence-supported relationship between the racial treatment and that objective, justify the measure's coverage and actual burdens, and answer concrete, practicable alternatives that would work about as well with less racial disadvantage. It is one standard for all racial classifications, not strict scrutiny (3.5).
-
-Purpose and impact
-- Intent versus effect. The Equal Protection Clause is violated only by discriminatory purpose; a law's disproportionate effect alone is not enough (Washington v. Davis, 1976). Purpose can be proved by circumstances: the size of the impact, the history, the sequence of events, departures from normal procedure and what officials said (Arlington Heights, 1977).
-- Disparate impact. Some statutes and regulations forbid practices with unjustified unequal effects even without intent, for example the Title VI regulations at issue in Sandoval.
-
-Enforcement
-- Title VI. Section 601 forbids intentional discrimination by programs receiving federal money; §602 lets agencies write regulations, which have forbidden disparate impact.
-- Private right of action. Whether an individual may sue to enforce a statute or regulation, as opposed to only the government enforcing it. This Court answered it for §602 regulations in Powell v. Ridge (OT1999): no private action and no §1983 right (question P1).
-- Section 1983. The federal law that lets people sue state and local officials for violating federal rights. Whether a spending statute creates rights enforceable this way is the Gonzaga question (P2).
-- Congress's enforcement power. Section 5 of the Fourteenth Amendment and §2 of the Fifteenth let Congress enforce those amendments. Historically, legislation reaching beyond what courts would find unconstitutional must be "congruent and proportional" to real violations (City of Boerne); this Court's version is in the commerce tracker's section 3. Whether the Fifteenth Amendment follows the same test is question D15.
-- State action. The Constitution limits government, not private parties. A nominally private body counts as government when it is deeply entwined with it (Brentwood, OT2000).
-- Political-process doctrine. A law that moves decisions affecting a minority to a harder level of government (for example from a school board to a statewide vote) can violate equal protection (Hunter v. Erickson; Washington v. Seattle School District). Question S3 asks whether the idea extends to sex.
 
 ### 3.1 Territorial districting
 
@@ -851,7 +808,7 @@ Reserved for: no listed landmark through OT2025.
 
 ### 3.9 The four districting injuries: candidate elements (planning, not law)
 
-Workbook tag for the whole subsection: cleanup. The Shaw change left these four injuries as the remaining routes, and no historical case defines them, because historically the Shaw claim made them unnecessary. They need elements before the landmarks in 3.1 arrive. Everything below is a candidate answer for the user to accept, change or reject; none of it binds another Justice.
+This whole subsection is a cleanup question. The Shaw change left these four injuries as the remaining routes, and no historical case defines them, because historically the Shaw claim made them unnecessary. They need elements before the landmarks in 3.1 arrive. Everything below is a candidate answer to accept, change or reject; none of it binds another Justice.
 
 The problem. Every districting decision since 1993 says predominant racial design is not an injury, but that racial exclusion, intentional dilution, materially unequal participation, legally inferior civic membership and other independently cognizable deprivations remain actionable and keep their own elements. Miller adds that a status or participation injury can be complete when government itself imposes unequal racial treatment, without electoral loss, and that a discriminatory participation or constituent-service practice requires its own examination. The Court relies on Gomillion, Anderson v. Martin, White v. Regester and McLaurin to keep these injuries alive, but has never stated their elements, and Hunt left them open. Without elements, lower courts have a rejection rule and no replacement; plaintiffs who lost the Shaw claim will relabel it, with no principled way to sort a real claim from a relabeled one; and the historical racial-gerrymandering landmarks (Alabama Legislative Black Caucus, OT2014; Bethune-Hill and Cooper v. Harris, OT2016; Alexander, OT2023) can return here only as one of these four claims.
 
@@ -887,9 +844,9 @@ Candidate elements:
 3. Purpose: the structure was adopted or kept in material part because it would produce that effect.
 4. Remedy: a lawful plan removing the dilution, with no racial floor or proportional result.
 
-The application to think about now is packing defended as VRA compliance. Suppose a State draws a district at 60% Black voting-age population when the evidence shows 45% would reliably elect the community's candidates, and the surplus came from a neighboring district where those voters had real influence. If the purpose was to drain that neighboring influence, that is intentional dilution, and the compliance label does not save it. Master Section 9 already says statutory implementation cannot authorize "intentional destruction of a protected electoral opportunity." This is how the Bethune-Hill and Cooper fact patterns could return: not as "race predominated" but as "race was used to pack us so we would count for less." Those cases' historical central question (strict scrutiny of predominance) no longer exists here, so closing this point is cleanup, not pre-decision.
+The application to think about now is packing defended as VRA compliance. Suppose a State draws a district at 60% Black voting-age population when the evidence shows 45% would reliably elect the community's candidates, and the surplus came from a neighboring district where those voters had real influence. If the purpose was to drain that neighboring influence, that is intentional dilution, and the compliance label does not save it. Stone's stated principles on equal political membership already say statutory implementation cannot authorize "intentional destruction of a protected electoral opportunity." This is how the Bethune-Hill and Cooper fact patterns could return: not as "race predominated" but as "race was used to pack us so we would count for less." Those cases' historical central question (strict scrutiny of predominance) no longer exists here, so closing this point is cleanup, not pre-decision.
 
-Choice for the user: whether unnecessary packing alone supports an inference of purpose, or is one factor among the ordinary purpose evidence. Candidate answer: strong circumstantial evidence, not an automatic finding (master Section 8: impact is evidence, not conversion).
+Choice to make: whether unnecessary packing alone supports an inference of purpose, or is one factor among the ordinary purpose evidence. Candidate answer: strong circumstantial evidence, not an automatic finding (Stone's stated principle on discriminatory purpose: impact is evidence, not conversion).
 
 #### 3.9.3 Materially unequal participation
 
@@ -910,11 +867,11 @@ What it looks like in districting:
 - A county uses a new line to send Black-majority precincts to one distant consolidated polling place while other precincts keep neighborhood polls.
 - An officeholder limits constituent offices, meetings or casework to parts of a district chosen by race. This is Miller's reserved "constituent-service practice."
 
-Outside districting: targeted precinct closures (master Section 8's example), a registration window open only when one group can use it (Lane), or ballots counted under different rules in different racial areas.
+Outside districting: targeted precinct closures (an example Stone's stated principles on discriminatory purpose give), a registration window open only when one group can use it (Lane), or ballots counted under different rules in different racial areas.
 
-The link to Bush v. Gore (OT2000), which asks whether materially equivalent ballots must get substantially equal treatment and is decided in its own case: if Stone's rule there is the build's (equivalent ballots, a consistent nonarbitrary method), unequal participation can be defined as the racial branch of the same principle: the same comparison, plus racial causation, plus the racial-equality consequences. One theory of equal participation, not two inventions.
+The link to Bush v. Gore (OT2000), which asks whether materially equivalent ballots must get substantially equal treatment and is decided in its own case: if Stone's rule there is the earlier plan's (equivalent ballots, a consistent nonarbitrary method), unequal participation can be defined as the racial branch of the same principle: the same comparison, plus racial causation, plus the racial-equality consequences. One theory of equal participation, not two inventions.
 
-Choice for the user: whether element 3 accepts racial assignment to worse terms without separate proof of purpose. Candidate answer: yes; sorting people by race into a worse procedure is itself racial treatment. That is consistent with Miller, because the shared district there imposed worse terms on no one.
+Choice to make: whether element 3 accepts racial assignment to worse terms without separate proof of purpose. Candidate answer: yes; sorting people by race into a worse procedure is itself racial treatment. That is consistent with Miller, because the shared district there imposed worse terms on no one.
 
 #### 3.9.4 Legally inferior civic status
 
@@ -947,16 +904,16 @@ These keep the reserved landmark questions open:
 - LULAC v. Perry (OT2005). Reserved: whether mid-decade redistricting or partisan motive changes the analysis; whether a State that dismantles an opportunity district can offset it by creating one elsewhere; the partisan-gerrymandering test. The dilution elements should be stated for a plan considered on its own, without deciding offsets or partisan overlap.
 - Georgia v. Ashcroft (OT2002). Reserved: whether replacing majority-minority districts with influence or coalition districts is backsliding under VRA §5. Valdespino's ability-to-elect focus frames it but does not decide it.
 - Abbott v. Perez (OT2017). Reserved: whether legislatures get a presumption of good faith when purpose is contested. The dilution purpose element should rely on the ordinary purpose evidence without choosing a presumption.
-- Vieth (OT2003) and Rucho (OT2018). Reserved: partisan-gerrymandering justiciability and test. Master Elections has a position; no vehicle should adopt it.
+- Vieth (OT2003) and Rucho (OT2018). Reserved: partisan-gerrymandering justiciability and test. Stone's stated jurisprudence on elections has a position; no vehicle should adopt it.
 - Easley and the race-versus-party problem (OT2000; Alexander, OT2023). Hunt Pt I already sends a genuine race-versus-politics dispute to trial when motive is material. How a court separates the two at trial is reserved.
 
 #### 3.9.7 Applying the structure to OT2000
 
-- Sinkfield v. Kelley (November 27, 2000). This is itself a historical case (per curiam, 2000), so it decides its own question: whether voters next to the challenged districts have standing. Under "standing follows the injury," they do if they claim their own votes were diluted (for example, that the neighboring district was packed to drain them), and not if they only object to the neighbor district's composition. That resolves Stone's own tension: keep his Miller personal-exposure rule, require exposure to the specific injury claimed, and drop the Vera narrowing. Master Elections already says the territorial rule "is a position on the electoral claim, not a general restriction on standing." Decide only that; do not use Sinkfield to state the merits elements. (Question D1.)
-- Easley v. Cromartie (April 18, 2001). The historical plaintiffs pleaded only racial predominance. If no independent claim was preserved, Hunt's mandate requires judgment for the State and no elements are needed. If the record is reconstructed with a preserved claim, it is most plausibly packing-based dilution. Either way the case needs a reconstruction premise first. (Questions D2 and D13.)
+- Sinkfield v. Kelley (November 27, 2000). This is itself a historical case (per curiam, 2000), so it decides its own question: whether voters next to the challenged districts have standing. Under "standing follows the injury," they do if they claim their own votes were diluted (for example, that the neighboring district was packed to drain them), and not if they only object to the neighbor district's composition. That resolves Stone's own tension: keep his Miller personal-exposure rule, require exposure to the specific injury claimed, and drop the Vera narrowing. Stone's stated jurisprudence on elections already says the territorial rule "is a position on the electoral claim, not a general restriction on standing." Decide only that; do not use Sinkfield to state the merits elements. (Question D1.)
+- Easley v. Cromartie (April 18, 2001). The historical plaintiffs pleaded only racial predominance. If no independent claim was preserved, Hunt's mandate requires judgment for the State and no elements are needed. If the record is reconstructed with a preserved claim, it is most plausibly packing-based dilution. Either way its posture must be reconstructed first. (Questions D2 and D13.)
 - Chen v. City of Houston (May 21, 2001). A collision with Evenwel, kept and decided; see section 5(b) and question D12.
 
-#### 3.9.8 Decisions needed from the user
+#### 3.9.8 Decisions needed
 
 1. Adopt the four design choices (purpose, comparator, remedy follows injury, standing follows injury).
 2. Unequal participation: does racial assignment to worse terms substitute for separate proof of purpose?
@@ -968,14 +925,14 @@ A useful way to answer: say what result Stone would want in the hardest case on 
 
 #### 3.9.9 Vehicles, in the order they would arrive
 
-Each entry is a real case, where it sits historically, the question as it would be framed for this timeline, and which open element it defines. Every vehicle still needs a case-list entry with its question presented and, where this timeline's law changes its posture, an Engine §14 reconstruction premise. Facts were checked against the opinions or reliable summaries on November 6, 2026; points not confirmed are marked. Which of these to add to which term's case list is a pending user decision (section 5(b)).
+Each entry is a real case, where it sits historically, the question as it would be framed for this timeline, and which open element it defines. Every vehicle still needs an entry on a term's case list with its question presented and, where this timeline's law changes its posture, a reconstructed posture. Points not confirmed against the opinions or reliable summaries are marked. Which of these to add to which term's case list is still to be decided (section 5(b)).
 
 - OT2000: Sinkfield v. Kelley (already listed). Do voters in districts next to the challenged districts have standing, and does standing depend on the specific injury they claim? Defines: standing follows injury, and whether to drop the Vera narrowing (D1).
 - OT2000: Easley v. Cromartie (already listed). What independent claim, if any, survived Hunt's mandate? Do legislators' official statements describing a district in racial terms (the record includes a staff email reporting that the "Greensboro Black community" had been moved into the 12th District) establish a civic-status injury? Is "other independently cognizable deprivation" a residual category? Defines: decision 3 (statements: evidence or injury) and the catch-all (D2, D13).
 - OT2002: Cano v. Davis, 211 F. Supp. 2d 1208 (C.D. Cal. 2002) (three-judge court), summarily affirmed, 537 U.S. 1100 (January 13, 2003). (1) Does a legislature act with the purpose required for intentional vote dilution when it deliberately limits the number of Latino voters in a district to protect an incumbent from a Latino-preferred primary challenger, without hostility toward Latino voters? (2) Once that purpose is shown, what dilutive effect must the plaintiff prove: the full Gingles showing, a relaxed version, or only a reduced opportunity compared with an alternative? Defines: dilution element 3 (purpose) and element 2 (effect) (D3, D4).
 - OT2002: Black v. McGuffage, 209 F. Supp. 2d 889 (N.D. Ill. 2002) (motion to dismiss denied; later settled). Does a State's use of voting equipment that leaves materially more ballots uncounted where Black and Latino voters are concentrated state (a) an equal-protection claim of unequal treatment of ballots without any racial classification, and (b) a racial unequal-participation claim where the disparity correlates with race but no racial purpose or assignment is alleged? Defines: participation element 2 ("materially worse terms") and element 3 (correlation is evidence, not causation), and the link to Bush v. Gore (D6).
 - OT2002: Arakaki v. Hawaii, 314 F.3d 1091 (9th Cir. December 31, 2002). May a State restrict candidacy for a public office to persons of a specified ancestry? Is the restriction analyzed as a denial of the franchise (Fifteenth Amendment), as inferior civic status (equal protection), or under §2? Defines: status element 1 (legal operation) and element 3 (no proof that the excluded candidate would have won), and Rice's reserved candidate-qualification question (D8).
-- OT2003 or OT2004: Johnson v. Governor of Florida, 353 F.3d 1287 (11th Cir. 2003), vacated and reheard en banc, 405 F.3d 1214 (11th Cir. 2005). Does a felon-disenfranchisement provision adopted in 1868 for the purpose of excluding Black voters still violate the Equal Protection Clause after its 1968 reenactment, and what must a reenacting legislature do to remove the original purpose? Defines: exclusion by proven purpose, and how purpose carries forward (D9). The case also has a §2 felon-disenfranchisement claim, a vote-denial question the user may leave out.
+- OT2003 or OT2004: Johnson v. Governor of Florida, 353 F.3d 1287 (11th Cir. 2003), vacated and reheard en banc, 405 F.3d 1214 (11th Cir. 2005). Does a felon-disenfranchisement provision adopted in 1868 for the purpose of excluding Black voters still violate the Equal Protection Clause after its 1968 reenactment, and what must a reenacting legislature do to remove the original purpose? Defines: exclusion by proven purpose, and how purpose carries forward (D9). The case also has a §2 felon-disenfranchisement claim, a vote-denial question that may be left out.
 - OT2004: Spencer v. Blackwell, 347 F. Supp. 2d 528 (S.D. Ohio November 1, 2004); stayed, Summit County Democratic Central & Executive Committee v. Blackwell, 388 F.3d 547 (6th Cir. 2004); Justice Stevens declined to vacate the stay, Spencer v. Pugh, 543 U.S. 1301 (2004). Does a polling-place challenge system alleged to discriminate against Black voters impose materially unequal participation on account of race? Is that injury complete before any voter is turned away? Are party-designated challengers acting under state statute state actors? Defines: participation element 3 (racial assignment to worse terms), Miller's "complete when government imposes it," and state action (D7). The complaint alleged the system discriminated against Black voters; precinct-level deployment facts are not yet confirmed.
 - OT2004: Bone Shirt v. Hazeltine, 336 F. Supp. 2d 976 (D.S.D. September 15, 2004), affirmed, 461 F.3d 1011 (8th Cir. 2006). Does placing a cohesive minority group in a district at about 90% of the population, far above what it needs to elect its candidates, when a lawful alternative would create an additional opportunity district, establish dilution under §2? What evidence separates unnecessary packing from a reasonable margin of safety? Defines: dilution element 2 for packing, and decision 4 (packing as evidence) (D5). Statutory only, so it does not decide constitutional purpose.
 
@@ -985,27 +942,27 @@ Answering the decisions in 3.9.8 through these vehicles: decision 1 (the four de
 
 ### 3.10 Where Stone's earlier materials still disagree
 
-These are conflicts among the retired build, the master jurisprudence and Stone's recorded votes. Each still needs a decision, because a Section II that silently follows one source will contradict another. Three conflicts the earlier digest listed are no longer open and are dropped: Article I abrogation (the user confirmed Stone keeps the position his votes made law, and the subject belongs to the commerce document), the Dallas Fire Fighters disposition (the Record fixes it), and the build's stale status notes (retired with the build).
+These are conflicts among Stone's earlier planned positions, his stated jurisprudence and his recorded votes. Each still needs a decision, because a position Stone states in a case that silently follows one source will contradict another. Earlier conflicts that are no longer open: Article I abrogation (decided: Stone keeps the position his votes made law) and the Dallas Fire Fighters disposition (the Court's decision fixes it).
 
-1. Sexual-orientation tier. Master Section 6 lists orientation as Elevated (intermediate scrutiny), and Stone's separate writings in Walmer and Shahar propose intermediate scrutiny as an openly stated change. But he wrote Nabozny for a unanimous Court applying rational basis to orientation, joined Romer and Equality Foundation on rational basis, and joined Stevens's rationality dissents in Thomasson and Richenberg. This is coherent only under a stated practice: apply governing law when writing for the Court, press intermediate scrutiny in separate writings. That practice is nowhere written down. See question O1.
-2. Disability tier and the equal-protection modification duty. Master Section 6 lists disability as Elevated, and master Equal Protection states an equal-protection duty of reasonable modification for government-controlled civic institutions. The build's Garrett entry said Stone "does not make disability a suspect classification." Heller v. Doe, which Stone joined, applied rational basis and did not reach heightened scrutiny. See question O2.
-3. Territorial standing. Stone wrote Miller Pt I-A (nine votes: voters personally subjected to the challenged assignment have standing), then in Vera proposed narrowing it so assignment alone does not supply injury. The build's Vera entry and its corrections followed the Vera position. Master Elections says the territorial rule "is a position on the electoral claim, not a general restriction on standing," which matches Miller I-A, not his Vera writing. The workbook recommends dropping the Vera narrowing; the user has not yet confirmed. See question D1.
-4. The racial-justification structure. The Adarand holding is one common standard: important objective, substantial evidence-supported relationship, justification of coverage and burdens, and a response to concrete, practicable, comparably effective alternatives. Engineering Contractors Pt II (eight Associates) adds that race-neutral alternatives must be seriously considered. Master Section 9 is a two-route structure: public justification for prospective objectives, and a defined corrective permission whose satisfaction "resolves the corrective justification" so that a court does not "reopen the same justification through an additional impartiality balance." Its corrective conditions list no alternatives element, and Stone's Engineering Contractors dissent lists corrective requirements without one either. Either master Section 9 restates Adarand, with the alternatives inquiry inside "reasonably fitted" (the workbook's candidate answer), or it proposes a change to his own majority opinion, which master Section 16 would require him to say. See question R1.
-5. Remedy in sex-based citizenship cases. The build's Miller v. Albright and Nguyen entries direct recognition of citizenship after severance. Stone's actual Miller dissent rejected directed recognition and would remand for a lawful remedy with three options (an equal proof regime, an opportunity for Congress, or recognition of citizenship if no narrower cure exists). The user has decided that Nguyen decides the remedy in full; which remedy is still open. See question S2.
-6. Title VI private enforcement. The build would affirm the private action in Sandoval and calls the Powell position coherent with it. Stone joined Powell's holding that the §602 disparate-impact regulation supports no implied action and no §1983 right. See question P1.
-7. Bush v. Gore counting standards. Master Elections requires counting standards "established by law or valid procedure, communicated before the count, and applied consistently." The build's Bush v. Gore remedy has Florida institutions adopt one statewide operational standard after Election Day, clarifying how the voter-intent rule applies to recurring ballot conditions. Whether a post-election operational standard implementing a pre-election legal rule counts as "fixed in advance" has to be answered, or the remedy contradicts the master rule. See question F1.
+1. Sexual-orientation tier. Stone's stated jurisprudence lists orientation as Elevated (intermediate scrutiny), and Stone's separate writings in Walmer and Shahar propose intermediate scrutiny as an openly stated change. But he wrote Nabozny for a unanimous Court applying rational basis to orientation, joined Romer and Equality Foundation on rational basis, and joined Stevens's rationality dissents in Thomasson and Richenberg. This is coherent only under a stated practice: apply governing law when writing for the Court, press intermediate scrutiny in separate writings. That practice is nowhere written down. See question O1.
+2. Disability tier and the equal-protection modification duty. Stone's stated jurisprudence lists disability as Elevated and states an equal-protection duty of reasonable modification for government-controlled civic institutions. His earlier Garrett plan said Stone "does not make disability a suspect classification." Heller v. Doe, which Stone joined, applied rational basis and did not reach heightened scrutiny. See question O2.
+3. Territorial standing. Stone wrote Miller Pt I-A (nine votes: voters personally subjected to the challenged assignment have standing), then in Vera proposed narrowing it so assignment alone does not supply injury. His earlier Vera plan and its corrections followed the Vera position. Stone's stated jurisprudence on elections says the territorial rule "is a position on the electoral claim, not a general restriction on standing," which matches Miller I-A, not his Vera writing. The recommended course is to drop the Vera narrowing; that is not yet confirmed. See question D1.
+4. The racial-justification structure. The Adarand holding is one common standard: important objective, substantial evidence-supported relationship, justification of coverage and burdens, and a response to concrete, practicable, comparably effective alternatives. Engineering Contractors Pt II (eight Associates) adds that race-neutral alternatives must be seriously considered. Stone's stated principles on equal political membership, impartial government and repair set out a two-route structure: public justification for prospective objectives, and a defined corrective permission whose satisfaction "resolves the corrective justification" so that a court does not "reopen the same justification through an additional impartiality balance." Their corrective conditions list no alternatives element, and Stone's Engineering Contractors dissent lists corrective requirements without one either. Either those principles restate Adarand, with the alternatives inquiry inside "reasonably fitted" (the candidate answer), or they propose a change to his own majority opinion, which his stated principle of candid change in precedent would require him to say. See question R1.
+5. Remedy in sex-based citizenship cases. His earlier Miller v. Albright and Nguyen plans direct recognition of citizenship after severance. Stone's actual Miller dissent rejected directed recognition and would remand for a lawful remedy with three options (an equal proof regime, an opportunity for Congress, or recognition of citizenship if no narrower cure exists). It has been decided that Nguyen decides the remedy in full; which remedy is still open. See question S2.
+6. Title VI private enforcement. The earlier plan would affirm the private action in Sandoval and calls the Powell position coherent with it. Stone joined Powell's holding that the §602 disparate-impact regulation supports no implied action and no §1983 right. See question P1.
+7. Bush v. Gore counting standards. Stone's stated jurisprudence on elections requires counting standards "established by law or valid procedure, communicated before the count, and applied consistently." The earlier Bush v. Gore plan's remedy has Florida institutions adopt one statewide operational standard after Election Day, clarifying how the voter-intent rule applies to recurring ballot conditions. Whether a post-election operational standard implementing a pre-election legal rule counts as "fixed in advance" has to be answered, or the remedy contradicts that stated rule. See question F1.
 
 ## 4. Questions to answer before the landmarks
 
-Each question has a vehicle, the landmark it must arrive before, and a blank answer field. Every vehicle not already on a case list needs an entry with its question presented and, where this timeline changes its posture, an Engine §14 reconstruction premise.
+Each question has a vehicle, the landmark it must arrive before, and a blank answer field. Every vehicle not already on a case list needs an entry with its question presented and, where this timeline changes its posture, a reconstructed posture.
 
-Branch policy (the user's rule). The landmark historical cases keep their central question open so the simulation can decide them in their own cases. Lower-court vehicles are used to close the side questions that Stone's own doctrinal changes opened, so the landmarks arrive on a clean, coherent record. Cases should not decide more than their question requires; Vera decided more than it had to, which created branches that now need tracking word by word. On November 6, 2026 the user added that collisions may be answered now and reinforced later, except where Parents Involved (OT2006) or the Obergefell line would be affected (section 5(b)). Questions carry one of four tags:
-- Cleanup: a side question the simulation's own changes opened, which no landmark will answer in the form this timeline needs. Close it with a vehicle before the related landmark arrives.
+Branch policy. The landmark historical cases keep their central question open so this Court can decide them in their own cases. Lower-court vehicles are used to close the side questions that Stone's own doctrinal changes opened, so the landmarks arrive on a clean, coherent record. Cases should not decide more than their question requires; Vera decided more than it had to, which created branches that now need tracking word by word. Added November 6, 2026: collisions may be answered now and reinforced later, except where Parents Involved (OT2006) or the Obergefell line would be affected (section 5(b)). Questions carry one of four tags:
+- Cleanup: a side question this Court's own changes opened, which no landmark will answer in the form this timeline needs. Close it with a vehicle before the related landmark arrives.
 - Reserved: the central question of a landmark case. Leave it open. A vehicle that touches it decides on a narrower ground and names the question in its "Limits and questions not reached."
 - Collision: a scheduled vehicle whose question presented is a landmark's central question. Decide whether to narrow the vehicle, accept that it pre-decides the landmark, or drop it.
-- Pre-decided: a landmark whose central question an earlier simulated decision has already answered. Record it, so the case list treats the landmark as changed, reconstructed or deleted under the causal rule.
+- Pre-decided: a landmark whose central question an earlier decision of this Court has already answered. Note it, so the case list treats the landmark as changed, reconstructed or deleted under the causal rule.
 
-Tracking: when a cleanup decision stops at the edge of a reserved question, its Record should name that question in "Limits and questions not reached." The Holdings register then carries the reservation forward, and a search of the register for the landmark's issue shows whether anything has closed it.
+Tracking: when a cleanup decision stops at the edge of a reserved question, the decision should name that question in its "Limits and questions not reached," so the reservation carries forward and it stays clear whether anything has closed it.
 
 Already answered; do not reopen:
 - Does the first Gingles condition require a 50% district? No; a cohesive group that can elect with dependable crossover support qualifies on rigorous proof (Valdespino, June 17, 1999, OT1998).
@@ -1013,25 +970,6 @@ Already answered; do not reopen:
 - What standard governs racial classifications? The common substantial-justification standard (Adarand; Hopwood, Engineering Contractors, Dallas, Eisenberg).
 - May a school district pursue K-12 integration without a desegregation decree? Yes, if supported, under the common standard (Eisenberg Pt II).
 - Does VRA §5 reach dilutive purpose without intended backsliding? Yes (Bossier I Pt III, Bossier II).
-
-### 4.0 Where to start: the answering order
-
-Answer in this order. The first group is needed before the OT2000 chunks run, in chunk order; the second before OT2001 and OT2002; the third later. The section 3.0 primer explains the terms.
-
-Before OT2000 runs, in chunk order:
-1. Chunk 1: confirm or reverse the Daggett deletion (section 5(b)); D1 (Sinkfield, standing for each injury); F1 (Bush v. Palm Beach County and Bush v. Gore, counting standards).
-2. Chunk 2: nothing here if the Brewer deletion is applied; otherwise R5.
-3. Chunk 3: F2 (Cook v. Gralike). Garrett's Article I or §5 choice sits in the commerce tracker.
-4. Chunk 4: D13, then D2 (Easley v. Cromartie).
-5. Chunk 5: P1 (Sandoval, already answered in substance by Powell v. Ridge); O4 only if the Sterling deletion is reversed.
-6. Chunk 6: D12, then D16 (Chen); P3 (Buckhannon).
-7. Chunk 7: S4, then S2 (Nguyen).
-
-Before OT2001 and OT2002: P2 (Gonzaga); R4 (Adarand v. Mineta, only if a merits dispute arises); D3 and D4 (Cano, the purpose and effect of intentional dilution); D6 (Black v. McGuffage, unequal participation); D8 (Arakaki, inferior civic status); R3 (Grutter and Gratz); O1 (Lawrence); R1 and S1 (Concrete Works).
-
-Later: D17 (Larios); O2 (Lane); D9 (Johnson v. Governor of Florida); D5 and D7 (Bone Shirt, Spencer v. Blackwell); D10 and D11 (before LULAC); D15 (before Northwest Austin); S3 (before Schuette); D14, O3 and R2 when a vehicle appears.
-
-D1 and D3 to D7 together define the four districting injuries, the core of what Stone is building in this area; answering them early keeps the OT2000 districting cases consistent with it.
 
 ### 4.1 Territorial districting
 
@@ -1141,25 +1079,25 @@ S3. Does the political-process inquiry of Coalition v. Wilson extend to sex?
 Vehicle: none verified.
 Character answer:
 
-### 4.5 Further questions carried from the workbook and digest
+### 4.5 Further questions
 
-Live questions from the retired workbook (Parts C and E) and digest (section 5) that 4.1 to 4.4 did not already ask. Questions on state immunity, Article I abrogation and the Garrett immunity plan are in the commerce document.
+Live questions that 4.1 to 4.4 did not already ask.
 
 Districting and the Voting Rights Act
 
 D13. Easley's posture. What judgment is actually under review in this timeline, given Hunt v. Cromartie's mandate (no injunction on predominance alone; remand limited to independently cognizable claims)? If the district court again enjoined on predominance, does Stone reverse summarily on that mandate? If an independent claim was preserved, what are its elements (3.9), and is race-versus-politics clear-error review needed because that claim makes motive material?
 > Answer before: OT2000, Easley v. Cromartie (on the OT2000 list).
 
-Vehicle: Easley v. Cromartie itself, which needs an Engine §14 reconstruction premise before a brief can be written.
+Vehicle: Easley v. Cromartie itself.
 Character answer:
 
-D14. Open §2 and §5 questions likely to recur: (a) influence-only claims (assumed but not decided in Voinovich); (b) the §2 population denominator and citizenship; (c) a §5 same-decision defense (in Bossier II Stone alone would allow one, with the burden on the jurisdiction); (d) whether §5 covers replacing an elected office with an appointed one (Presley reserved it; Stone was not in the Presley majority). Workbook tags: influence districts and retrogression under §5 are reserved for Georgia v. Ashcroft, and bailout for NAMUDNO (4.6).
+D14. Open §2 and §5 questions likely to recur: (a) influence-only claims (assumed but not decided in Voinovich); (b) the §2 population denominator and citizenship; (c) a §5 same-decision defense (in Bossier II Stone alone would allow one, with the burden on the jurisdiction); (d) whether §5 covers replacing an elected office with an appointed one (Presley reserved it; Stone was not in the Presley majority). Influence districts and retrogression under §5 are reserved for Georgia v. Ashcroft, and bailout for NAMUDNO (4.6).
 > Answer before: no listed landmark.
 
 Vehicle: none identified.
 Character answer:
 
-D15. The Fifteenth Amendment. (a) Does it reach vote dilution, which Voinovich assumed without deciding? (b) Does Boerne's congruence-and-proportionality test govern Fifteenth Amendment enforcement legislation, or do Katzenbach and City of Rome still control? Stone's only statement is his solo concurrence in Lopez v. Monterey County (1996) on the Katzenbach and City of Rome ground. The retired build proposed that within a valid preventive category the claimant proves only the enacted statutory elements, and that preclearance of State-compelled changes is valid Fifteenth Amendment enforcement because waiting for completed discrimination would defeat its function. Workbook tags: (a) is a cleanup candidate, but because it feeds Shelby County it should be decided only if a vehicle needs it; (b) is reserved for NAMUDNO and Shelby County, and no vehicle should choose the standard (the commerce document's question 28 agrees).
+D15. The Fifteenth Amendment. (a) Does it reach vote dilution, which Voinovich assumed without deciding? (b) Does Boerne's congruence-and-proportionality test govern Fifteenth Amendment enforcement legislation, or do Katzenbach and City of Rome still control? Stone's only statement is his solo concurrence in Lopez v. Monterey County (1996) on the Katzenbach and City of Rome ground. An earlier plan proposed that within a valid preventive category the claimant proves only the enacted statutory elements, and that preclearance of State-compelled changes is valid Fifteenth Amendment enforcement because waiting for completed discrimination would defeat its function. (a) is a cleanup candidate, but because it feeds Shelby County it should be decided only if a vehicle needs it; (b) is reserved for NAMUDNO and Shelby County, and no vehicle should choose the standard.
 > Answer before: OT2008, Northwest Austin Municipal Utility District No. One v. Holder; OT2012, Shelby County v. Holder.
 
 Vehicle: none; decide (a) only if a vehicle needs it.
@@ -1167,13 +1105,13 @@ Character answer:
 
 Representation
 
-D16. Chen consistency. If total population is permitted (D12), how does that square with Stone's Rayphand dissent relying on Reynolds and Board of Estimate, and with Valdespino's use of citizen voting-age shares for a different question? The retired build's answer: the denominator follows the question (representation of residents in Chen, practical ability to elect in Valdespino).
+D16. Chen consistency. If total population is permitted (D12), how does that square with Stone's Rayphand dissent relying on Reynolds and Board of Estimate, and with Valdespino's use of citizen voting-age shares for a different question? The earlier plan's answer: the denominator follows the question (representation of residents in Chen, practical ability to elect in Valdespino).
 > Answer before: OT2000, Chen v. City of Houston (on the OT2000 list).
 
 Vehicle: Chen v. City of Houston (OT2000, on the list).
 Character answer:
 
-D17. One person, one vote and partisan population deviations. Workbook tag: reserved in part for Larios (OT2003, summary affirmance); no other vehicle should close it.
+D17. One person, one vote and partisan population deviations. Reserved in part for Larios (OT2003, summary affirmance); no other vehicle should close it.
 > Answer before: OT2003, Larios (summary affirmance).
 
 Vehicle: Larios itself.
@@ -1181,19 +1119,19 @@ Character answer:
 
 Race
 
-R3. Higher-education diversity. What concrete-benefit-and-mechanism test does Stone state for an admissions program? Hopwood Pt II (six votes) says a supported educational-diversity interest can qualify, and Kennedy reserves; master Section 9 says "neither invocation of diversity nor a generalized aspiration to improve society supplies the required connection." Workbook tag: reserved (method, degree, duration and deference stay open for the landmarks); this asks only for Stone's own test before an admissions program reaches the Court.
+R3. Higher-education diversity. What concrete-benefit-and-mechanism test does Stone state for an admissions program? Hopwood Pt II (six votes) says a supported educational-diversity interest can qualify, and Kennedy reserves; Stone's stated principles on equal political membership and repair say "neither invocation of diversity nor a generalized aspiration to improve society supplies the required connection." This is reserved (method, degree, duration and deference stay open for the landmarks); it asks only for Stone's own test before an admissions program reaches the Court.
 > Answer before: OT2002, Grutter v. Bollinger; OT2002, Gratz v. Bollinger.
 
 Vehicle: none; Grutter and Gratz decide it.
 Character answer:
 
-R4. Federal contracting evidence. Under the common standard, what evidence supports a federal contracting preference, and how is Adarand's reserved §8(d) regulatory conflict resolved? Workbook tag: cleanup; Adarand v. Mineta (OT2001) is procedural historically.
+R4. Federal contracting evidence. Under the common standard, what evidence supports a federal contracting preference, and how is Adarand's reserved §8(d) regulatory conflict resolved? This is cleanup; Adarand v. Mineta (OT2001) is procedural historically.
 > Answer before: no listed landmark.
 
 Vehicle: Adarand Constructors v. Mineta (OT2001) only if a properly presented merits dispute arises (section 5(d)); otherwise none.
 Character answer:
 
-R5. If Brewer v. West Irondequoit is kept (its deletion is decided but not applied; section 5(b)): (a) can a rigid racial eligibility gate, as opposed to Eisenberg's capacity-first policy, satisfy fit and burden? (b) does a voluntary interdistrict program need authority or a predicate beyond Eisenberg (Milliken limits only court-ordered interdistrict remedies, and the register says nothing about voluntary interdistrict programs)? (c) which judgment is actually under review (historically the Second Circuit had already vacated the preliminary injunction, so verify before adopting the build's framing)? (d) is a current state-law authority question preserved? Eisenberg Pt II (six votes) already answers the abstract question of the objective.
+R5. If Brewer v. West Irondequoit is kept (its deletion is decided but not applied; section 5(b)): (a) can a rigid racial eligibility gate, as opposed to Eisenberg's capacity-first policy, satisfy fit and burden? (b) does a voluntary interdistrict program need authority or a predicate beyond Eisenberg (Milliken limits only court-ordered interdistrict remedies, and no decision yet addresses voluntary interdistrict programs)? (c) which judgment is actually under review (historically the Second Circuit had already vacated the preliminary injunction, so verify before adopting the earlier plan's framing)? (d) is a current state-law authority question preserved? Eisenberg Pt II (six votes) already answers the abstract question of the objective.
 > Answer before: OT2006, Parents Involved in Community Schools v. Seattle School District No. 1.
 
 Vehicle: Brewer v. West Irondequoit (OT2000, on the list until the deletion is applied).
@@ -1201,7 +1139,7 @@ Character answer:
 
 Sex and citizenship
 
-S4. Nguyen posture. Confirm from the brief whether the father is a co-petitioner, as he was historically; if so, the third-party objection that kept O'Connor and Kennedy from reaching the merits in Miller v. Albright drops out.
+S4. Nguyen posture. Confirm whether the father is a co-petitioner, as he was historically; if so, the third-party objection that kept O'Connor and Kennedy from reaching the merits in Miller v. Albright drops out.
 > Answer before: OT2000, Tuan Anh Nguyen v. INS (on the OT2000 list).
 
 Vehicle: Nguyen v. INS (OT2000, on the list).
@@ -1209,25 +1147,25 @@ Character answer:
 
 Sexual orientation, disability and other classifications
 
-O1. Sexual-orientation practice. Does Stone (a) accept rational basis tied to the actual disadvantage as settled and work within it, as Nabozny and the Thomasson dissent did, or (b) keep proposing intermediate scrutiny in separate writings while applying rational basis when writing for the Court? If (b), the practice should be written into master Section 16 so later writings are consistent (3.10, item 1). Workbook tag: the tier is reserved for Lawrence, Windsor and Obergefell; Stone states his intermediate-scrutiny view in separate writings at most, and no vehicle (Sterling included) should hold it.
+O1. Sexual-orientation practice. Does Stone (a) accept rational basis tied to the actual disadvantage as settled and work within it, as Nabozny and the Thomasson dissent did, or (b) keep proposing intermediate scrutiny in separate writings while applying rational basis when writing for the Court? If (b), the practice should be added to Stone's stated principles on precedent and candid change so later writings are consistent (3.10, item 1). The tier is reserved for Lawrence, Windsor and Obergefell; Stone states his intermediate-scrutiny view in separate writings at most, and no vehicle (Sterling included) should hold it.
 > Answer before: OT2002, Lawrence v. Texas.
 
 Vehicle: none.
 Character answer:
 
-O2. Disability. Does Stone press master Section 6's Elevated listing and the equal-protection duty of reasonable modification for government-controlled civic institutions, or treat them as aspirational positions he will not state against Heller v. Doe (3.10, item 2)? If a case reaches §5, does he argue under Heller's rational basis or state the Elevated tier as a proposed change? Workbook tag: reserved for Tennessee v. Lane (OT2003) for §5 purposes; Garrett need not reach it, and Olmstead-type and Title II cases follow.
+O2. Disability. Does Stone press the Elevated listing in his stated jurisprudence and the equal-protection duty of reasonable modification for government-controlled civic institutions, or treat them as aspirational positions he will not state against Heller v. Doe (3.10, item 2)? If a case reaches §5, does he argue under Heller's rational basis or state the Elevated tier as a proposed change? This is reserved for Tennessee v. Lane (OT2003) for §5 purposes; Garrett need not reach it, and Olmstead-type and Title II cases follow.
 > Answer before: OT2003, Tennessee v. Lane.
 
 Vehicle: none.
 Character answer:
 
-O3. Federal alienage. What standard governs federal classifications by alienage? Workbook tag: cleanup candidate.
+O3. Federal alienage. What standard governs federal classifications by alienage? This is a cleanup candidate.
 > Answer before: no listed landmark.
 
 Vehicle: none yet.
 Character answer:
 
-O4. If Sterling v. Borough of Minersville is kept (its deletion is decided but not applied; section 5(b)): the questions presented are whether informational privacy protects an adult arrestee against an officer's threat to disclose suspected sexual orientation to a family member, and whether that right was clearly established in April 1997. The workbook would decide it on privacy and qualified immunity alone, without stating an orientation tier. The digest asks: (a) whether orientation is protected information (Sheets protects objectively intimate information against intentional official disclosure causing public dissemination; Doe v. SEPTA did not declare dissemination indispensable); (b) whether a threatened disclosure, or disclosure to one relative, is covered; (c) whether Stone states his intermediate-scrutiny view, which matters only if an equality claim is preserved; (d) conduct-date qualified immunity.
+O4. If Sterling v. Borough of Minersville is kept (its deletion is decided but not applied; section 5(b)): the questions presented are whether informational privacy protects an adult arrestee against an officer's threat to disclose suspected sexual orientation to a family member, and whether that right was clearly established in April 1997. The earlier plan would decide it on privacy and qualified immunity alone, without stating an orientation tier. Open questions: (a) whether orientation is protected information (Sheets protects objectively intimate information against intentional official disclosure causing public dissemination; Doe v. SEPTA did not declare dissemination indispensable); (b) whether a threatened disclosure, or disclosure to one relative, is covered; (c) whether Stone states his intermediate-scrutiny view, which matters only if an equality claim is preserved; (d) conduct-date qualified immunity.
 > Answer before: OT2002, Lawrence v. Texas.
 
 Vehicle: Sterling v. Borough of Minersville (OT2000, on the list until the deletion is applied).
@@ -1235,7 +1173,7 @@ Character answer:
 
 Franchise and counting
 
-F1. Bush v. Gore preparation. (a) Does a post-election operational counting standard that implements a pre-election legal rule count as "fixed in advance" under master Elections (3.10, item 7)? (b) Is the equal-protection rule limited to presidential elections, or a general recount rule? (c) Does Stone write the Article II limiting rule (material replacement of the legislature's pre-election rules or reassignment of authority) as a holding, or only as the ground for rejecting this challenge? (d) What does Stone do if no majority forms for dissolving the stay or for any remedy? No controlling law addresses Article II, §1, cl. 2, 3 U.S.C. §5, or equal protection in recounts.
+F1. Bush v. Gore preparation. (a) Does a post-election operational counting standard that implements a pre-election legal rule count as "fixed in advance" under Stone's stated jurisprudence on elections (3.10, item 7)? (b) Is the equal-protection rule limited to presidential elections, or a general recount rule? (c) Does Stone write the Article II limiting rule (material replacement of the legislature's pre-election rules or reassignment of authority) as a holding, or only as the ground for rejecting this challenge? (d) What does Stone do if no majority forms for dissolving the stay or for any remedy? No controlling law addresses Article II, §1, cl. 2, 3 U.S.C. §5, or equal protection in recounts.
 > Answer before: OT2000, Bush v. Palm Beach County Canvassing Board; OT2000, Bush v. Gore.
 
 Vehicle: the landmarks themselves.
@@ -1251,13 +1189,13 @@ Note: Wood v. Meadows (OT2000, on the list) is ordinary ballot-access law under 
 
 Private enforcement
 
-P1. Title VI private enforcement. Powell v. Ridge (OT1999, a vehicle, Stone in the five) held that the §602 disparate-impact regulation supports no implied private action and no §1983 right, answering Sandoval's central question before Sandoval arrived. Powell's holding names the Education Department regulation, but its reasoning is not agency-specific. Does Stone (a) follow Powell and reverse; (b) distinguish the Justice Department's regulation, which needs a real ground; or (c) vote to overrule a precedent he joined a year earlier, which master Section 16 would require him to justify openly? Does he address §601 intent claims, which Powell preserved? Workbook tag: pre-decided by Powell.
+P1. Title VI private enforcement. Powell v. Ridge (OT1999, a vehicle, Stone in the five) held that the §602 disparate-impact regulation supports no implied private action and no §1983 right, answering Sandoval's central question before Sandoval arrived. Powell's holding names the Education Department regulation, but its reasoning is not agency-specific. Does Stone (a) follow Powell and reverse; (b) distinguish the Justice Department's regulation, which needs a real ground; or (c) vote to overrule a precedent he joined a year earlier, which his stated principle of candid change in precedent would require him to justify openly? Does he address §601 intent claims, which Powell preserved? Pre-decided by Powell.
 > Answer before: OT2000, Alexander v. Sandoval (on the OT2000 list).
 
 Vehicle: Alexander v. Sandoval itself.
 Character answer:
 
-P2. The §1983 rights test. Can a statute's identification of protected persons, protected records and required conditions create an individual right enforceable under §1983 even when the enforcement scheme also directs a funding agency, and does administrative oversight displace §1983? Workbook tag: Gonzaga decides its own question; the later Armstrong (OT2014) and Talevski (OT2022) questions stay reserved.
+P2. The §1983 rights test. Can a statute's identification of protected persons, protected records and required conditions create an individual right enforceable under §1983 even when the enforcement scheme also directs a funding agency, and does administrative oversight displace §1983? Gonzaga decides its own question; the later Armstrong (OT2014) and Talevski (OT2022) questions stay reserved.
 > Answer before: OT2001, Gonzaga University v. Doe.
 
 Vehicle: Gonzaga University v. Doe itself.
@@ -1271,7 +1209,7 @@ Character answer:
 
 ### 4.6 Reserved for the landmarks, and questions the Court left open
 
-Reserved questions (workbook tag "reserved"; leave open, and a vehicle that touches one decides on a narrower ground and names it in "Limits and questions not reached"):
+Reserved questions (leave open, and a vehicle that touches one decides on a narrower ground and names it in "Limits and questions not reached"):
 - Influence districts and retrogression under §5: Georgia v. Ashcroft (OT2002).
 - The §2 vote-denial test (rules on how people vote, not district lines): Brnovich (OT2020). Vehicles in between should decide on narrower grounds.
 - Separating race from party: Easley (OT2000) at trial level; Alexander (OT2023).
@@ -1285,59 +1223,59 @@ Reserved questions (workbook tag "reserved"; leave open, and a vehicle that touc
 - Sexual-orientation tier: Lawrence (OT2002), Windsor (OT2012), Obergefell (OT2014).
 - Gender identity: Bostock (OT2019, Title VII), Skrmetti (OT2024).
 - Disability tier and the equal-protection modification duty, for §5 purposes: Lane (OT2003).
-- Remedy direction in sex-based citizenship cases (extend the better rule to the disfavored group, or apply the worse rule to everyone): historically Morales-Santana (OT2016); by the user's choice Nguyen (OT2000) decides it, so Morales-Santana becomes an application.
+- Remedy direction in sex-based citizenship cases (extend the better rule to the disfavored group, or apply the worse rule to everyone): historically Morales-Santana (OT2016); here Nguyen (OT2000) decides it, so Morales-Santana becomes an application.
 
 Questions the Court expressly reserved, as of June 29, 2000:
 - Equality: Adarand's §8(d) regulatory conflict; Hopwood's federal classifications and employment; Eisenberg's policy validity and Kennedy's reservation; Engineering Contractors' sufficiency of the racial evidence and a redesigned women's program; Dallas's full plan, future promotions and Scalia's reservation on repair; J.E.B.'s private-party strikes; Virginia's private single-sex education and parallel programs; Kelley's orientation and gender identity; Romer's tier and Bowers; the military cases' §654(b)(1) and (b)(3), APA, procedural due process, liberty and speech claims; Heller's heightened scrutiny for disability; M.L.B.'s other civil litigation; Miller v. Albright's scrutiny level, remedy and the support and presence conditions; Campbell's fair-cross-section claim; Olech's ill-will theory; Saenz's broader Slaughter-House question; Lesage's §1981, §1983 and Title VI remedies; Powell's regulation validity and intent theories.
 - Voting: influence and coalition claims; the §2 denominator; Fifteenth Amendment dilution; elements of independent districting injuries; VRA compliance as a compelling interest; nonresident standing; whether a districting decree needs an established violation (Lawyer); Hunt's state-law condition and the replacement map; the §5 same-decision defense; wholly federally compelled conduct (Young); elective-to-appointive replacement under §5; bailout and retrospective relief; Morse's refund, defendant and baseline questions; Rice's Fourteenth Amendment claim, tribal elections, benefits and candidate qualifications.
-- Enforcement: Smith and the Fifteenth Amendment in Boerne; Morrison's color-of-law applications; catalyst fees. The state-immunity reservations (State amenability under IGRA, waiver by litigation conduct, Daniels for patents, other Lanham theories under §5, ADEA §5, IDEA abrogation and §504 waiver, whether immunity is jurisdictional and whether removal waives it, ADA Title II abrogation) are in the commerce document.
+- Enforcement: Smith and the Fifteenth Amendment in Boerne; Morrison's color-of-law applications; catalyst fees. The state-immunity reservations are State amenability under IGRA, waiver by litigation conduct, Daniels for patents, other Lanham theories under §5, ADEA §5, IDEA abrogation and §504 waiver, whether immunity is jurisdictional and whether removal waives it, and ADA Title II abrogation.
 
 ## 5. Docket decisions and carried-forward plans
 
 ### (a) Post-Shaw docket instructions still in force
 
-The retired build's post-Shaw table has been carried out or overtaken. Hays, Shaw v. Hunt / Pope and Abrams were deleted. Miller (OT1994) and Vera (OT1995) were reconstructed as counterfactual grants and decided. The instruction to delete Hunt v. Cromartie was superseded when the Court decided Hunt in OT1998, and the instruction to delete Easley v. Cromartie was superseded by the OT2000 list, where Easley needs an Engine §14 reconstruction premise (question D13). What remains live:
+The earlier post-Shaw docket table has been carried out or overtaken. Hays, Shaw v. Hunt / Pope and Abrams were deleted. Miller (OT1994) and Vera (OT1995) were reconstructed as counterfactual grants and decided. The instruction to delete Hunt v. Cromartie was superseded when the Court decided Hunt in OT1998, and the instruction to delete Easley v. Cromartie was superseded by the OT2000 list, where Easley's posture must be reconstructed (question D13). What remains live:
 1. The causal rule. A changed precedent removes a later historical case only when the later cause of action, standing theory, judgment, remedy or procedural posture materially depended on the rule that changed. A famous historical caption is not preserved merely because it would be useful. A reconstructed grant is used only when a genuine surviving legal question can be grounded in the historical dispute and is marked openly as counterfactual.
 2. The independent voting-rights line stays on its own schedule. Later statutory or constitutional voting cases are not deleted merely because Shaw changed; their own statutes, constitutional claims, records and procedural histories control.
-3. Each retained case supplies the historical issue, Stone's proposed disposition of the judgment that actually exists in this simulation, and his reasoning; reconstructed grants are expressly identified. A remand states what remains to be proved and does not manufacture favorable findings. A later case whose record an earlier simulated judgment has altered must be revalidated before it is run.
-4. A "simulation vehicle" is an actual lower-court case assigned a hypothetical Supreme Court hearing. Its OT placement follows the simulation slot, while its actual reporter citation and decision year stay separately identified; register aliases are not historical Supreme Court grants.
+3. Each retained case supplies the historical issue, Stone's proposed disposition of the judgment that actually exists here, and his reasoning; reconstructed grants are expressly identified. A remand states what remains to be proved and does not manufacture favorable findings. A later case whose record an earlier judgment of this Court has altered must be revalidated before it is run.
+4. A "vehicle" is an actual lower-court case this Court takes up. Its OT placement follows its assigned slot, while its actual reporter citation and decision year stay separately identified; this Court's grant of a vehicle is not a historical Supreme Court grant.
 5. Stone can take these positions whether he writes for the Court, concurs or dissents; which description applies depends on the votes actually cast.
 
-### (b) OT2000 collision decisions (workbook Part D)
+### (b) OT2000 collision decisions
 
-The user decided on November 6, 2026 that collisions may be answered now and reinforced later, except where Parents Involved (OT2006) or the Obergefell line would be affected.
+Decided November 6, 2026: collisions may be answered now and reinforced later, except where Parents Involved (OT2006) or the Obergefell line would be affected.
 
-- Daggett v. Commission on Governmental Ethics & Election Practices (case-list No. 10, chunk 1). Collides with Arizona Free Enterprise (OT2010). Decision: delete. Note: only Question 2 (matching funds triggered by an opponent's spending) is Arizona Free Enterprise's question. Questions 1 (Maine's $250 limit) and 3 (combined coercion) do not collide, and deleting the case drops them too.
+- Daggett v. Commission on Governmental Ethics & Election Practices (No. 10, chunk 1). Collides with Arizona Free Enterprise (OT2010). Decision: delete. Note: only Question 2 (matching funds triggered by an opponent's spending) is Arizona Free Enterprise's question. Questions 1 (Maine's $250 limit) and 3 (combined coercion) do not collide, and deleting the case drops them too.
 - Brewer v. West Irondequoit Central School District (No. 17, chunk 2). Collides with Parents Involved (OT2006). Decision: delete. Eisenberg Pt II already answered Parents Involved's objective question; deleting Brewer protects only the method question (whether individual students may be assigned by race), which is the part still open.
 - Sterling v. Borough of Minersville (No. 59, chunk 5). Collides with the Lawrence, Windsor and Obergefell line. Decision: delete.
 - Chen v. City of Houston (No. 72). Collides with Evenwel (OT2015). Decision: keep and decide; Evenwel becomes pre-decided.
-- Tuan Anh Nguyen v. INS (No. 93). Collides with Morales-Santana (OT2016). Decision: keep and decide, including the remedy; Morales-Santana becomes an application if the simulation reaches it.
+- Tuan Anh Nguyen v. INS (No. 93). Collides with Morales-Santana (OT2016). Decision: keep and decide, including the remedy; Morales-Santana becomes an application if this Court reaches it.
 
-Status: the three deletions (Daggett, Brewer and Sterling) are decided but not yet applied. They await the user's confirmation after the Daggett note above, and until then all three remain on the OT2000 list. When applied, they remove the three from `terms/OT2000/case-list.md` (114 matters become 111, renumbered; chunk sizes become 11, 14, 14, 15, 13, 15, 14 and 15) and from the sim-granted docket in `state/STANDING_STATE.md` (27 sim grants become 24). Chen and Nguyen are kept.
+Status: the three deletions (Daggett, Brewer and Sterling) are decided but not yet applied. They await confirmation after the Daggett note above, and until then all three remain on the OT2000 list. When applied, they remove the three from the OT2000 list (114 matters become 111, renumbered; chunk sizes become 11, 14, 14, 15, 13, 15, 14 and 15) and from the docket of granted lower-court cases (27 become 24). Chen and Nguyen are kept.
 
 No other OT2000 entry touches Parents Involved or the orientation line. For later terms, avoid adding Parents Involved's own lower-court cases (Seattle, Louisville, and Comfort v. Lynn School Committee) or orientation vehicles such as Lofton v. Secretary of the Florida Department of Children and Families (Eleventh Circuit, 2004).
 
-Also pending from the user (workbook Part E): which of the districting vehicles in 3.9.9 to add to which term's case list; the districting decisions in 3.9.8 are then answered case by case as those vehicles are briefed.
+Also pending: which of the districting vehicles in 3.9.9 to add to which term's case list; the districting decisions in 3.9.8 are then answered case by case as those vehicles are reached.
 
-### (c) Corrections from the retired build that still apply
+### (c) Corrections that still apply
 
-The build's list of corrections to carry into future simulation materials, as far as it concerns this area (its item on state immunity is in the commerce document), with present status:
-1. Shaw is fixed (build item 1). The June 28, 1993 simulated judgment rejects the territorial racial-design-only equal-protection theory. Do not later treat historical Shaw as controlling law.
-2. Deleted progeny (build item 2). Hays, Shaw II / Pope and Abrams stay off future case lists and render inputs. The Hunt and Easley deletions are superseded (Hunt was decided in OT1998; Easley is on the OT2000 list). A genuinely independent later dispute gets its own lineage rather than inheriting a deleted caption automatically.
-3. Reconstructed cases (build item 3). Miller (OT1994) and Vera (OT1995) were run only as expressly counterfactual grants with revised questions and new lineage; done.
-4. Predominance is evidence, not a trigger (build item 4). It does not by itself create constitutional injury, a scrutiny tier or liability; that is now law (Shaw, Miller, Vera, Hunt). The build also said it does not by itself create standing; Miller Pt I-A and Vera recognize standing for voters personally assigned, and whether Stone narrows that is question D1.
-5. Remove the abandoned racial framework (build item 5). Do not use the old numbered lanes, the nonexclusive/discrete-benefit split, or any parallel standards section that would recreate them. Actual racial treatment is evaluated through lawful authority, objective support, operation, burdens, alternatives and continued justification.
-6. Adarand (build item 6). Superseded: the common standard is law (Stone for five), and the Stevens fallback never operated. The build's OT1994 status note saying the fallback prevailed is wrong.
-7. No branded replacement test (build item 7). Do not give the Adarand reasoning a special doctrinal title; state the legal questions in ordinary terms and tie each to the source and problem it addresses.
-8. VRA separation (build item 8). Section 2 remains a statutory results inquiry where its enacted elements control. Race-conscious statutory implementation is not itself a constitutional injury. A constitutional challenge, statutory coverage, statutory validity, implementation, cause of action and remedy remain distinct.
-9. School integration (build item 9). Do not relabel voluntary integration as remediation when no remedial predicate exists; identify the prospective educational objective and test the actual racial means and burdens (now Eisenberg).
-10. Chen (build item 11). Retain the total-population question. The separate design-only Shaw theory is foreclosed unless the pleadings preserve an independently cognizable voting or equality injury.
-11. Actual records (build item 12). Do not copy simulation-created favorable findings into historical cases, do not treat a proposed crossover district as already proven effective, and do not turn preliminary-injunction records into final merits records.
-12. Procedural dependencies (build item 13). Recheck the reconstructed Miller and Vera line, the Bossier sequence and the Adarand sequence after each simulated judgment. New reasoning does not authorize invention of the next record.
+Corrections to carry forward, as far as they concern this area, with present status:
+1. Shaw is fixed. The June 28, 1993 judgment rejects the territorial racial-design-only equal-protection theory. Do not later treat historical Shaw as controlling law.
+2. Deleted progeny. Hays, Shaw II / Pope and Abrams stay off future case lists. The Hunt and Easley deletions are superseded (Hunt was decided in OT1998; Easley is on the OT2000 list). A genuinely independent later dispute gets its own lineage rather than inheriting a deleted caption automatically.
+3. Reconstructed cases. Miller (OT1994) and Vera (OT1995) were run only as expressly counterfactual grants with revised questions and new lineage; done.
+4. Predominance is evidence, not a trigger. It does not by itself create constitutional injury, a scrutiny tier or liability; that is now law (Shaw, Miller, Vera, Hunt). The earlier plan also said it does not by itself create standing; Miller Pt I-A and Vera recognize standing for voters personally assigned, and whether Stone narrows that is question D1.
+5. Remove the abandoned racial framework. Do not use the old numbered lanes, the nonexclusive/discrete-benefit split, or any parallel standards section that would recreate them. Actual racial treatment is evaluated through lawful authority, objective support, operation, burdens, alternatives and continued justification.
+6. Adarand. Superseded: the common standard is law (Stone for five), and the Stevens fallback never operated. Any statement that the fallback prevailed in OT1994 is wrong.
+7. No branded replacement test. Do not give the Adarand reasoning a special doctrinal title; state the legal questions in ordinary terms and tie each to the source and problem it addresses.
+8. VRA separation. Section 2 remains a statutory results inquiry where its enacted elements control. Race-conscious statutory implementation is not itself a constitutional injury. A constitutional challenge, statutory coverage, statutory validity, implementation, cause of action and remedy remain distinct.
+9. School integration. Do not relabel voluntary integration as remediation when no remedial predicate exists; identify the prospective educational objective and test the actual racial means and burdens (now Eisenberg).
+10. Chen. Retain the total-population question. The separate design-only Shaw theory is foreclosed unless the pleadings preserve an independently cognizable voting or equality injury.
+11. Actual records. Do not copy favorable findings created by this Court's own rulings into historical cases, do not treat a proposed crossover district as already proven effective, and do not turn preliminary-injunction records into final merits records.
+12. Procedural dependencies. Recheck the reconstructed Miller and Vera line, the Bossier sequence and the Adarand sequence after each of this Court's judgments. New reasoning does not authorize invention of the next record.
 
 ### (d) Stone's planned positions for OT2000 and OT2001 matters that are not section 2 landmarks
 
-From the retired build. These are proposals, not holdings; begin each case from the law, record and coalition that actually exist when it is run. Bush v. Palm Beach, Bush v. Gore, Easley and Nguyen are in section 2. The Garrett plan is in the commerce document.
+These are proposals, not holdings; begin each case from the law, record and coalition that actually exist when it is run. Bush v. Palm Beach, Bush v. Gore, Easley and Nguyen are in section 2.
 
 OT2000
 - Brentwood Academy v. Tennessee Secondary School Athletic Association (on the OT2000 list). Reverse the categorical private-actor ruling and remand the merits. Actual institutional governance and entwinement can establish state action, though membership, funding or regulation alone does not always do so (complementing Lebron and American Manufacturers).
@@ -1349,6 +1287,6 @@ OT2000
 
 OT2001
 - Adarand Constructors v. Mineta. Dismiss the writ as improvidently granted if the historical mismatch remains (a judgment about state and local federal-aid procurement used to challenge direct federal procurement, with standing and merits not presented in that posture). If a properly presented merits dispute arises, identify the controlling standard and examine the program's objective, evidence, operation and burdens; do not force a dismissal solely to reproduce history (question R4).
-- Barnes v. Gorman. Reverse the punitive-damages award under ADA Title II and §504: a valid substantive access right and a compensatory remedy do not establish punitive damages, given the statutes' cross-references and notice to covered recipients, while ordinary compensation for proved injury remains. The commerce document also lists Barnes as a reserved landmark on funding-condition remedies.
+- Barnes v. Gorman. Reverse the punitive-damages award under ADA Title II and §504: a valid substantive access right and a compensatory remedy do not establish punitive damages, given the statutes' cross-references and notice to covered recipients, while ordinary compensation for proved injury remains. Barnes is also a reserved landmark on funding-condition remedies.
 - Gonzaga University v. Doe. Reject the categorical no-right holding and preserve §1983 enforceability of FERPA's specifically protected confidentiality interest, following the Stevens dissent; administrative oversight does not automatically displace §1983, but a private university does not become a state actor by accepting federal money, and state action, policy or practice, causation and remedy are remanded. Stone must explain both routes: Sandoval concerns an implied statutory action and regulations, Gonzaga the legislatively supplied §1983 remedy (question P2).
 - Utah v. Evans. Affirm the judgment for the Census Bureau, recognizing Utah's standing but rejecting the statutory and constitutional objections: hot-deck imputation fills missing information about particular census units rather than replacing the enumeration with prohibited sampling, consistent with Wisconsin v. City of New York and Commerce v. House.
