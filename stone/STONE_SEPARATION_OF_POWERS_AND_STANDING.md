@@ -6,7 +6,8 @@ Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; no vehicles are identified).
+4. Original questions to answer before the landmarks.
+5. [Working foundation for future cases](#working-foundation-for-future-cases): Stone's commitments, reasoning, disposition guidance, and remaining reservations.
 
 ## 1. Completed cases
 
@@ -611,7 +612,7 @@ Doctrine now: a sitting President has no temporary immunity from a civil suit ov
 
 ## 4. Questions to answer before the landmarks
 
-Questions only. Under each, the landmarks it should be answered before.
+This is the original landmark checklist. Some questions are now answered for Stone in the [working foundation below](#working-foundation-for-future-cases), which also identifies his remaining reservations. Consult that foundation before treating a question here as unanswered. Each entry retains the landmarks it concerns.
 
 ### 4.1 Standing
 
@@ -670,3 +671,111 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2014, Zivotofsky v. Kerry.
 23. May the President direct state courts to comply with an international judgment, and are treaties enforceable in state courts without implementing legislation?
     > Answer before: OT2007, Medellín v. Texas.
+
+## Working foundation for future cases
+
+### Stone's commitments
+
+Each branch must exercise the authority law gives it. Courts enforce individual rights and constitutional limits while respecting policy choices lawfully assigned elsewhere. An emergency, an important objective, or institutional convenience creates no additional power.
+
+A violation of an individually held right can itself be an injury. General disagreement with government cannot. The claimant must still identify the responsible defendant, a lawful route to court, and relief that addresses the injury. Constitutional structure protects both accountable government and independent adjudication; neither executive control nor institutional independence is an end that overrides those requirements.
+
+Congress may change law without deciding lawsuits. Agencies may exercise bounded discretion without determining the extent of their own authority. Presidential office supplies no blanket immunity from actionable wrongdoing. Precedent may be distinguished, narrowed, or overruled for an identified legal reason, with an explanation of the new boundary and the treatment of reliance.
+
+### Status and use
+
+This section draws on Stone's [current jurisprudence](MASTER_JURISPRUDENCE.md), completed votes and writings, and stated choices to guide future reasoning and dispositions. It includes his proposed developments; the Court's adopted law remains separately stated in section 3 and the controlling Records. No completed vote or holding changes, and no other Justice's agreement is implied. Approved case-specific positions control Stone in adjudication; express reservations below require a choice when a case necessarily presents them.
+
+Begin with the preserved question, posture, actual record, and law effective at the event's date. Identify whether Stone is applying an existing rule, disputing its application, or proposing a change. The inquiries below organize legal reasoning; they do not make every consideration a mandatory element or add a burden unsupported by the governing source. Later historical decisions supply neither an automatic disposition nor earlier in-world authority.
+
+### Standing: individual rights and public enforcement
+
+**Individual rights.** Identify the protected interest, the person to whom performance is owed, and the actual deprivation or sufficiently supported threat. An entitlement to information, fair consideration, protected conduct, or an individual benefit need not produce financial or physical loss. A right held by millions remains individually held. Congress may create new entitlements without supplying an old common-law equivalent.
+
+Distinguish the substantive entitlement from permission to sue. Ask whether the duty would remain intelligible as performance owed to this claimant if the litigation authorization were removed. A consumer's right to receive their file has that character; a declaration that every citizen may demand universally lawful administration does not establish it by label. This inquiry examines the enacted relationship, not whether the entitlement existed before Congress created it. A procedural claim still must protect the claimant's concrete interest, without proof that the procedure would have changed the outcome.
+
+**Authorized public enforcement.** A claimant may instead act through an assignment of a genuine government claim or another constitutionally permissible representative arrangement. This route does not depend on inventing a personal injury. Require clear authorization, an identified underlying claim, defined authority, and remedies tied to that claim. Examine public control, protection against repetitive proceedings, and the allocation of enforcement power under the particular scheme. This is no blanket approval of citizen suits, qui tam arrangements, or private coercive authority.
+
+Associations asserting members' rights require an identified injured member and a germane interest; the ordinary individual-participation restriction remains subject to valid statutory displacement. An organization claiming its own injury must show direct impairment, not expenditure manufactured to obtain standing. Public representation is a distinct capacity, not an implied exception to these rules.
+
+**Causation and relief.** Use evidence appropriate to the litigation stage. Predictable market or institutional responses may establish traceability; independent third-party choice is not a categorical bar or a substitute for proof. Credible imminent threats and substantial risks supporting reasonable present precautions can qualify. Partial relief suffices when it materially reduces the claimant's injury. Treasury penalties require a supported deterrent connection to ongoing or recurring harm. Past injury alone does not establish a claim to prospective relief.
+
+If an element is absent, dismiss without deciding the merits. If a lower court used the wrong rule and the existing record does not resolve the correct inquiry, remand without inventing injury, a right to discovery, or an entitlement to amendment. Nominal damages require an authorized remedy and a completed violation; their precise effect on mootness remains a reserved application, not an assumed holding.
+
+**Other justiciability limits.** A credible enforcement threat or costly present compliance can support pre-enforcement review; contingent disagreements wait. Voluntary cessation requires the defendant's heavy showing that recurrence cannot reasonably be expected. A dispute capable of repetition yet evading review remains live for the same party. Political-question dismissal requires a constitutional commitment elsewhere or a genuine absence of judicially manageable standards. Political stakes, military or diplomatic context, and remedial difficulty do not suffice.
+
+### Government plaintiffs and representatives
+
+States receive no relaxed standing test. Their proprietary interests, authority to make and enforce law, and legally cognizable interests in their populations must be identified separately. A State cannot sue the United States merely as parent of its citizens unless Congress validly authorizes that route. Direct burdens imposed on state programs differ from costs the State voluntarily assumes in response to federal treatment of others. An individual legislator's lost influence is insufficient; an authorized institution may assert an actual nullification of its constitutional power, and one chamber cannot claim the whole legislature's injury.
+
+Private persons may represent a genuine governmental legal interest through valid public authorization, defined powers, enforceable duties, and meaningful accountability. Ordinary official supervision can suffice, but a properly constituted independent public role may also qualify. State law determines who may speak for the State; federal constitutional requirements still govern the controversy. Initiative sponsorship, political commitment, or a statutory declaration of personal injury alone does not establish representation. Without personal standing or a valid representative capacity, the proposed representative cannot maintain the action or appeal independently.
+
+### Religious-taxpayer injury
+
+Stone's working extension recognizes an individual interest against compulsory governmental financing of religious exercise. Require an actual fiscal relationship with the taxing government, an identifiable government-directed financing mechanism allegedly supporting religious exercise, and relief capable of ending that alleged compulsory support. No tracing of particular dollars, increase in tax liability, earmarked tax, or special legislative appropriation is necessary.
+
+Establish the financing relationship with stage-appropriate support without requiring proof of the entire Establishment Clause violation at the threshold. Targeted tax credits may qualify when their operation is materially equivalent to public financing. Ordinary deductions, secular services supplied by religious organizations, and independent private spending do not automatically qualify. Treatment of neutral parental-choice arrangements remains record-dependent and reserved. Standing permits adjudication; it neither proves unconstitutional support nor creates a general taxpayer right to challenge government spending.
+
+### Congress, pending litigation, and final judgments
+
+Congress may change substantive law governing pending litigation, including law concerning a specific subject. Specificity, timing, and an intention to affect litigation are relevant evidence, not automatic constitutional defects. Examine what the law actually does and what independent judicial work remains. A genuine policy change may defeat a statutory claim; Congress cannot declare compliance with unchanged law, require findings contrary to the record, or replace judicial application of law with a legislative finding of liability.
+
+Targeted withdrawal of jurisdiction requires separate attention to the substantive entitlement, the available forums, and any constitutionally required review. Do not infer that every statutory forum or remedy is irrevocable. Equally, describing an outcome command as jurisdictional cannot settle its constitutionality. Whether constitutional review of the new statute alone supplies adequate independent adjudication, and when a targeted withdrawal of the sole statutory forum crosses the line, remain reserved. The diagnostic question is whether Congress changed policy or appropriated the judicial role, not whether a court can identify one subjective motive shared by legislators.
+
+**Finality.** Morgan Stanley and Plaut already permit bounded reinstatement of qualifying final limitations dismissals, with judges deciding eligibility and merits. Stone would distinguish a full and fair final adjudication of liability: Congress may not reopen it merely to apply a subsequently preferred liability rule. Generality and a second independent trial do not by themselves preserve the finality of the first adjudication.
+
+That proposed boundary leaves room for source-authorized judicial correction of fraud, concealed decisive evidence, or fundamental procedural failure. It does not authorize every newly designed reopening procedure. Examine the actual defect, neutral eligibility conditions, judicial control, reliance, lost evidence, and whether the statute genuinely creates a new obligation rather than undoing a resolved dispute. A systemic-misconduct exception beyond ordinary correction remains reserved. Changes to future decree obligations remain distinct from erasing completed effects; judges must retain a meaningful opportunity to decide the statutory predicates and supported constitutional objections.
+
+### Delegation and administrative adjudication
+
+Congress may assign technical, predictive, and policy judgment within an identifiable domain, authorized tools, and judicially enforceable limits. Courts independently determine that assignment. An agency's expertise can support its judgment within the assignment but cannot enlarge it. A range of lawful policy choices is compatible with bounded delegation.
+
+Stone's major-questions principle concerns entry into a materially new regulatory domain through vague or ancillary language. Importance alone does not defeat authority, and applying an existing assignment to new circumstances is not automatically a new delegation. Identify the actual statutory defect before setting aside action; courts cannot replace the agency's lawful policy choice with their own.
+
+Agencies may adjudicate matters lawfully assigned to them with fair procedure and independent legal review. Traditional private disputes cannot be transferred to executive tribunals to evade the judicial power or jury protection, and criminal punishment cannot be made administrative merely by using a civil label. The boundary of public-rights adjudication, civil-penalty jury entitlement, and the effect of consent remain unresolved. Protection from political interference does not itself establish constitutional authority to decide a particular class of claims.
+
+### Officers, supervision, and removal
+
+Identify the office and authority actually exercised. A continuing position with substantial legally assigned power to compel evidence, impose sanctions, decide rights, or issue consequential orders points toward officer status. Finality is not the only relevant power. A person preparing recommendations under a superior's retained responsibility presents a different question. Job title, salary, or the agency's label cannot decide constitutional classification; routine revocable authority remains a boundary requiring case-specific examination.
+
+Edmond establishes inferior status under the combination of supervision and review actually present there. Stone would ordinarily preserve a superior's ability to correct important legal and policy decisions without requiring personal review of every routine case. Whether external judicial review and prospective supervision suffice for an inferior adjudicator's final factual decisions remains reserved.
+
+For-cause protection is ordinarily permissible for multimember expert commissions, genuine adjudicators, and appropriate inferior officers. A single principal officer exercising broad executive policy and enforcement authority is ordinarily removable. Stone's working extension rejects counting two protective layers as conclusive: examine whether the arrangement actually disables lawful supervision, correction of consequential errors, or discipline for misconduct, bias, persistent incompetence, or refusal to perform lawful duties. A lawful adjudicatory outcome disliked by an administration is not misconduct. Broad, independently binding executive policymaking requires stronger superior control than impartial application of settled law to individual disputes.
+
+### Remedies for structural defects
+
+Keep invalid appointment distinct from unlawful removal protection. A timely challenge to an unlawfully appointed adjudicator warrants the fresh lawful hearing already recognized in Ryder. Legi-Tech permits genuine reconsideration by a properly constituted agency, not a prediction that the same result was inevitable or a cure that skips mandatory steps or revives expired authority.
+
+For a properly appointed officer with unlawful removal protection, correct the restriction without treating every completed act as automatically void. Stone's proposed approach requires a concrete mechanism connecting the restriction to the challenged decision. An attempted removal, resisted lawful direction, or comparable contemporaneous evidence may establish a substantial possibility of material influence; general political disagreement does not.
+
+On that showing, require the government to produce evidence that the restriction did not affect the decision or that an accountable decisionmaker genuinely reconsidered it. This proposed shift concerns production of evidence and does not silently reassign ultimate persuasion. Unrebutted evidence of material influence ordinarily supports meaningful reconsideration; continuing coercive injury may require a stay or targeted invalidation. Do not demand certainty about an unknowable alternative presidency. Protect settled judgments and innocent third parties; temporary preservation of an unlawful action requires a lawful basis and stated terms. Exact evidentiary thresholds and ultimate persuasion remain reserved where they determine the result.
+
+### Presidential power and judicial review
+
+Identify the specific act, its claimed constitutional or statutory source, and the limit allegedly violated. Distinguish exclusive constitutional power, congressionally authorized action, a genuinely unresolved allocation, and action contrary to a valid statute. Necessity creates no new authority. The President cannot cancel enacted legal obligations, spend without authority, or substitute policy disagreement for faithful execution.
+
+Stone rejects blanket immunity based on office or an official label. Civil liability still requires an authorized claim, actionable conduct, responsibility, causation, and an available remedy. Criminal liability requires a validly applicable offense and proof of its elements; lawful exercise of exclusive constitutional power cannot itself be criminalized. Alleged illegality does not automatically turn official conduct into private conduct. Where precedent provides broader immunity, propose the change openly rather than concealing it in classification.
+
+Review legality independently while respecting committed discretion. Ordinarily direct effective relief against implementing officials and accommodate demonstrated presidential burdens through scheduling, discovery limits, and justified evidentiary protection. Presidential disagreement alone does not authorize defiance of a judgment binding the executive. Direct coercive orders against the President, APA coverage, the treatment of precedent beyond binding judgments, and the timing of proceedings against a sitting President remain reserved. A reservation supplies neither blanket immunity nor authority for courts to direct lawful policymaking.
+
+### Foreign affairs and treaties
+
+Identify the particular function rather than treating foreign affairs as one power. Presidential authority to conduct diplomacy and make recognition decisions does not by itself establish exclusivity against Congress. Require a specific constitutional justification and an actual interference with the claimed exclusive function. Congress retains its assigned powers over commerce, appropriations, war, and domestic legislation. Diplomatic consequences alone do not invalidate their exercise.
+
+Examine treaty provisions individually. Article VI supports domestic application of operative treaty rules, subject to their terms, valid ratification conditions, and constitutionally reserved legislative functions. A definite rule protecting inheritance may be judicially applicable while a commitment to appropriate funds or create crimes requires legislation. International obligation, domestic legal force, an individual right, a route to suit, and a remedy are separate questions. An international commitment cannot itself transfer Congress's powers to the President or a court.
+
+Recognition exclusivity against contrary legislation, disputed-territory recognition, the validity and effect of non-self-execution declarations, treaty termination, and treaty-statute conflicts remain reserved. No future landmark disposition follows merely from a general preference for diplomacy or accountability.
+
+### Turning the foundation into a disposition
+
+**Inference from the commitments above:** this guide supplies a reasoning method, not preselected votes in reserved cases.
+
+| What the case establishes | Stone's course |
+|---|---|
+| Missing jurisdiction or an unripe or moot controversy | Resolve that threshold and give no advisory merits ruling. A permissible nonmerits sequence does not authorize hypothetical merits jurisdiction. |
+| Standing is established, but the asserted right fails on the merits | Decide the merits under its own rule; do not retroactively call the plaintiff uninjured merely because the legal theory loses. |
+| A sufficient statutory ground resolves the dispute | Use it before an unnecessary constitutional holding; a saving construction must remain textually plausible. |
+| The wrong legal rule was applied and material findings remain genuinely open | Vacate or reverse as the error requires and remand for the necessary inquiry, without supplying facts or predetermining the result. |
+| A constitutional defect is established | Identify the authorized remedy separately; correct the defect completely while preserving lawful discretion and addressing severability and reliance. |
+| Existing precedent conflicts with Stone's proposed rule | State the controlling rule, legal reason for change, replacement boundary, what remains intact, and treatment of reliance. His proposal becomes Court law only through an actual controlling decision. |
+| An express reservation is necessary to the outcome | Identify that precise missing Stone choice before fixing his case-specific reasoning or disposition. Do not select an answer from presumed ideology or a later historical result. |
