@@ -13,97 +13,97 @@ Organization:
 
 OT1991
 - Hilton v. South Carolina Public Railways Commission
-  - Held (Kennedy for 5, 6-2): The Federal Employers' Liability Act's coverage of state-owned interstate railroads remains enforceable in a competent state court. The rule does not revive constructive waiver of immunity in federal court or set a general rule for every Article I damages action against a State.
+  > Held (Kennedy for 5, 6-2): The Federal Employers' Liability Act's coverage of state-owned interstate railroads remains enforceable in a competent state court. The rule does not revive constructive waiver of immunity in federal court or set a general rule for every Article I damages action against a State.
 - New York v. United States
-  - Held (O'Connor for the Court; take-title provision 6-3, incentives 9-0): Congress may not use its commerce power to make an unwilling State choose between regulating private radioactive waste under federal instructions and taking title to it, so that provision is invalid and severed. The Act's monetary and access incentives are valid inducements.
+  > Held (O'Connor for the Court; take-title provision 6-3, incentives 9-0): Congress may not use its commerce power to make an unwilling State choose between regulating private radioactive waste under federal instructions and taking title to it, so that provision is invalid and severed. The Act's monetary and access incentives are valid inducements.
 
 OT1992
 - Puerto Rico Aqueduct and Sewer Authority v. Metcalf & Eddy
-  - Held (White for 7, 8-1): A State or a claimed arm of a State may immediately appeal a conclusive denial of Eleventh Amendment immunity from federal suit. Appealability does not establish that the claimant is immune.
+  > Held (White for 7, 8-1): A State or a claimed arm of a State may immediately appeal a conclusive denial of Eleventh Amendment immunity from federal suit. Appealability does not establish that the claimant is immune.
 
 OT1994
 - Hess v. Port Authority Trans-Hudson Corp.
-  - Held (Stevens for the Court, 6-3): A bistate compact entity shares the States' immunity only if its actual legal, financial and institutional relationship shows that the States made it their arm and Congress concurred; exposure of the state treasury is highly probative. The Port Authority Trans-Hudson Corporation, a financially self-supporting enterprise, lacks Eleventh Amendment immunity.
+  > Held (Stevens for the Court, 6-3): A bistate compact entity shares the States' immunity only if its actual legal, financial and institutional relationship shows that the States made it their arm and Congress concurred; exposure of the state treasury is highly probative. The Port Authority Trans-Hudson Corporation, a financially self-supporting enterprise, lacks Eleventh Amendment immunity.
 - United States v. Harris
-  - Held (Stone for the Court, 9-0): Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the vehicle's interstate connection, so the original carjacking statute is valid as applied. The Court did not adopt the lower court's aggregate-effects rationale.
+  > Held (Stone for the Court, 9-0): Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the vehicle's interstate connection, so the original carjacking statute is valid as applied. The Court did not adopt the lower court's aggregate-effects rationale.
 - United States v. Lopez
-  - Held (Stone for 5, 5-4): Connection before magnitude: for conduct that is not commerce or its channels, instrumentalities, persons or things, the Court first identifies the regulated class and its interstate mechanism, and only then may aggregation measure size. The school-zone gun possession ban fails, since chains through crime and education costs cannot supply the connection, and no commerce element will be read into it.
+  > Held (Stone for 5, 5-4): Connection before magnitude: for conduct that is not commerce or its channels, instrumentalities, persons or things, the Court first identifies the regulated class and its interstate mechanism, and only then may aggregation measure size. The school-zone gun possession ban fails, since chains through crime and education costs cannot supply the connection, and no commerce element will be read into it.
 - United States v. Robertson
-  - Held (Breyer for the Court, 9-0): An enterprise is engaged in interstate commerce under the federal racketeering statute, §1962(a), when it directly takes part in interstate acquisition, production or distribution of goods or services. This mine's interstate purchasing, recruiting and shipment of its own output qualified, without a separate showing that it substantially affected interstate commerce.
+  > Held (Breyer for the Court, 9-0): An enterprise is engaged in interstate commerce under the federal racketeering statute, §1962(a), when it directly takes part in interstate acquisition, production or distribution of goods or services. This mine's interstate purchasing, recruiting and shipment of its own output qualified, without a separate showing that it substantially affected interstate commerce.
 
 OT1995
 - American Life League v. Reno
-  - Held (Kennedy for the Court, 9-0 on the commerce question): Congress may regulate force, threats, obstruction and destruction intentionally aimed at and directly interfering with reproductive health services, because that conduct operates on an interstate medical-services market. The connection comes from that operation on the market, not from generalized health-care or crime costs.
+  > Held (Kennedy for the Court, 9-0 on the commerce question): Congress may regulate force, threats, obstruction and destruction intentionally aimed at and directly interfering with reproductive health services, because that conduct operates on an interstate medical-services market. The connection comes from that operation on the market, not from generalized health-care or crime costs.
 - United States v. Bishop / United States v. Stokes
-  - Held (O'Connor for the Court, 9-0 on the commerce question): Under Harris, the original carjacking statute validly applies to these armed vehicle takings as protection of an instrumentality of interstate commerce. The separate requirement that the vehicle itself have moved in interstate commerce remains necessary.
+  > Held (O'Connor for the Court, 9-0 on the commerce question): Under Harris, the original carjacking statute validly applies to these armed vehicle takings as protection of an instrumentality of interstate commerce. The separate requirement that the vehicle itself have moved in interstate commerce remains necessary.
 - United States v. Hale
-  - Held (O'Connor for the Court, 9-0 on the commerce question): Congress may include possession in §922(o)'s ban on additions to the post-1986 civilian machinegun market, because excluding possession would let the banned stock be acquired, kept or circulated and materially impair the ban. No transaction-specific interstate element is required.
+  > Held (O'Connor for the Court, 9-0 on the commerce question): Congress may include possession in §922(o)'s ban on additions to the post-1986 civilian machinegun market, because excluding possession would let the banned stock be acquired, kept or circulated and materially impair the ban. No transaction-specific interstate element is required.
 - Seminole Tribe of Florida v. Florida
-  - Held (Souter for 5, 5-4; no majority rationale on State amenability): Ex parte Young permits prospective relief against the Governor for an ongoing violation of the gaming statute's good-faith negotiation duty, within the statute's limits. Florida's own dismissal was set aside 5-4 with no controlling rationale on whether it may be sued, and Union Gas was not overruled.
+  > Held (Souter for 5, 5-4; no majority rationale on State amenability): Ex parte Young permits prospective relief against the Governor for an ongoing violation of the gaming statute's good-faith negotiation duty, within the statute's limits. Florida's own dismissal was set aside 5-4 with no controlling rationale on whether it may be sued, and Union Gas was not overruled.
 - Lane v. Peña
-  - Held (Souter for the Court, 7-2): The Rehabilitation Act does not unequivocally waive the United States' immunity from compensatory damages for discrimination in a federally conducted program. The nondiscrimination duty does not itself supply consent to a money remedy.
+  > Held (Souter for the Court, 7-2): The Rehabilitation Act does not unequivocally waive the United States' immunity from compensatory damages for discrimination in a federally conducted program. The nondiscrimination duty does not itself supply consent to a money remedy.
 
 OT1996
 - Regents of the University of California v. Doe
-  - Held (Stone for the Court, 9-0): A third party's promise to reimburse a state instrumentality's litigation costs or judgment does not strip it of Eleventh Amendment immunity. Arm-of-the-State status still turns on the instrumentality's full legal, financial and institutional relationship with the State.
+  > Held (Stone for the Court, 9-0): A third party's promise to reimburse a state instrumentality's litigation costs or judgment does not strip it of Eleventh Amendment immunity. Arm-of-the-State status still turns on the instrumentality's full legal, financial and institutional relationship with the State.
 - Pic-A-State Pennsylvania v. Reno
-  - Held (Kennedy for the Court, 9-0): Congress may bar a business from transmitting information across state lines to buy chances in another State's lottery, because the transmission is itself interstate commerce. The agreement exception lets the States concerned permit the business and removes dormant Commerce Clause limits on that choice.
+  > Held (Kennedy for the Court, 9-0): Congress may bar a business from transmitting information across state lines to buy chances in another State's lottery, because the transmission is itself interstate commerce. The agreement exception lets the States concerned permit the business and removes dormant Commerce Clause limits on that choice.
 - Idaho v. Coeur d'Alene Tribe
-  - Held (Stone for 5, 5-4): The Eleventh Amendment does not bar prospective relief against officials for an ongoing violation of federal tribal property rights merely because the case requires deciding a disputed title question or touches important sovereign interests. The decree may not bind the State's title, award retrospective compensation or require the State to convey title.
+  > Held (Stone for 5, 5-4): The Eleventh Amendment does not bar prospective relief against officials for an ongoing violation of federal tribal property rights merely because the case requires deciding a disputed title question or touches important sovereign interests. The decree may not bind the State's title, award retrospective compensation or require the State to convey title.
 - City of Boerne v. Flores
-  - Held (Kennedy for the Court, 6-3): Section 5 legislation may reach some conduct that is not itself unconstitutional, but its means must be congruent and proportional to the constitutional injury and may not replace the right's judicially enforceable content. RFRA's general application to state and local law fails that test, and the claim against the City is dismissed.
+  > Held (Kennedy for the Court, 6-3): Section 5 legislation may reach some conduct that is not itself unconstitutional, but its means must be congruent and proportional to the constitutional injury and may not replace the right's judicially enforceable content. RFRA's general application to state and local law fails that test, and the claim against the City is dismissed.
 - Printz v. United States / Mack v. United States
-  - Held (Souter for 5 on Part I; judgment 5-4 with no majority fiscal rationale): Congress is not categorically barred from requiring appropriate, temporary, records-based help within a state executive officer's proper function, where federal law supplies the rule and federal authorities keep coercive enforcement. The judgment was vacated and remanded on the officers' unresolved fiscal objections.
+  > Held (Souter for 5 on Part I; judgment 5-4 with no majority fiscal rationale): Congress is not categorically barred from requiring appropriate, temporary, records-based help within a state executive officer's proper function, where federal law supplies the rule and federal authorities keep coercive enforcement. The judgment was vacated and remanded on the officers' unresolved fiscal objections.
 - United States v. Mussari / United States v. Schroeder
-  - Held (O'Connor for the Court, 9-0): Congress may punish willful failure to pay a fixed past-due child-support obligation when obligor and child live in different States, because §228 directly protects that cross-border payment obligation. The statute commands the private obligor, not the State, so it does not commandeer.
+  > Held (O'Connor for the Court, 9-0): Congress may punish willful failure to pay a fixed past-due child-support obligation when obligor and child live in different States, because §228 directly protects that cross-border payment obligation. The statute commands the private obligor, not the State, so it does not commandeer.
 
 OT1997
 - United States v. Rybar
-  - Held (Kennedy for the Court, 9-0 on the commerce question): Under Hale, §922(o) validly reaches Rybar's possession of two machineguns as an anti-evasion part of the ban on additions to the post-1986 civilian stock, without a transaction-specific interstate element.
+  > Held (Kennedy for the Court, 9-0 on the commerce question): Under Hale, §922(o) validly reaches Rybar's possession of two machineguns as an anti-evasion part of the ban on additions to the post-1986 civilian stock, without a transaction-specific interstate element.
 - United States v. Kirk
-  - Held (Stone for the Court, 9-0): Section 922(o) may reach possession of a post-1986 machinegun without proof of a defendant-specific interstate transaction, because the possession ban is reasonably necessary to prevent evasion or material impairment of the national restriction on that stock.
+  > Held (Stone for the Court, 9-0): Section 922(o) may reach possession of a post-1986 machinegun without proof of a defendant-specific interstate transaction, because the possession ban is reasonably necessary to prevent evasion or material impairment of the national restriction on that stock.
 - United States v. Robinson
-  - Held (Kennedy for the Court, 9-0): The Hobbs Act validly reaches robbery of an active interstate business's operating assets when the taking directly impairs its commercial operations and the Act's commerce element is proved. Aggregation measures the size of that connected class, but a business label or generalized costs of crime do not supply the connection.
+  > Held (Kennedy for the Court, 9-0): The Hobbs Act validly reaches robbery of an active interstate business's operating assets when the taking directly impairs its commercial operations and the Act's commerce element is proved. Aggregation measures the size of that connected class, but a business label or generalized costs of crime do not supply the connection.
 - United States v. Hinds
-  - Held (Stevens for the Court, 8-1): The arson statute, §844(i), requires that the damaged property's own use connect it to interstate commerce; the owner's affiliations, purchases or insurance do not establish that merely by existing. The affirmance was vacated for review of the existing trial record, with acquittal required if the proof falls short.
+  > Held (Stevens for the Court, 8-1): The arson statute, §844(i), requires that the damaged property's own use connect it to interstate commerce; the owner's affiliations, purchases or insurance do not establish that merely by existing. The affirmance was vacated for review of the existing trial record, with acquittal required if the proof falls short.
 - United States v. Bird
-  - Held (Kennedy for the Court, 9-0 on the commerce question): Congress may apply the clinic-access statute to intentional force and true threats aimed at stopping reproductive health services, because that conduct operates directly on access to an interstate service market. Neither the offender nor each clinic must separately cross a state line.
+  > Held (Kennedy for the Court, 9-0 on the commerce question): Congress may apply the clinic-access statute to intentional force and true threats aimed at stopping reproductive health services, because that conduct operates directly on access to an interstate service market. Neither the offender nor each clinic must separately cross a state line.
 - National Association of Home Builders v. Babbitt
-  - Held (Stone for the Court, 5-4): Noneconomic intrastate conduct may be regulated when needed to prevent evasion or material impairment of a valid interstate regime (seven votes), or when a supported record shows a substantial interstate externality the States cannot confine (five votes). The projects' commercial features did not supply the connection for the Endangered Species Act's taking class, so the case was remanded to test the record.
+  > Held (Stone for the Court, 5-4): Noneconomic intrastate conduct may be regulated when needed to prevent evasion or material impairment of a valid interstate regime (seven votes), or when a supported record shows a substantial interstate externality the States cannot confine (five votes). The projects' commercial features did not supply the connection for the Endangered Species Act's taking class, so the case was remanded to test the record.
 - Wisconsin Department of Corrections v. Schacht
-  - Held (Thomas for the Court, 9-0): A case presenting substantial federal claims is removable even though the Eleventh Amendment bars particular claims against the State or its officials. The bar blocks the affected claims but does not defeat jurisdiction over the rest or require remand of the whole action.
+  > Held (Thomas for the Court, 9-0): A case presenting substantial federal claims is removable even though the Eleventh Amendment bars particular claims against the State or its officials. The bar blocks the affected claims but does not defeat jurisdiction over the rest or require remand of the whole action.
 
 OT1998
 - Hiley v. Barrett
-  - Held (O'Connor for 8, 9-0): The ban on firearm possession by persons with qualifying domestic-violence misdemeanor convictions is a valid anti-evasion part of the federal ban on supplying firearms to them. It does not commandeer the sheriff, because it commands no state legislation, termination, prosecution, background checks or appropriation.
+  > Held (O'Connor for 8, 9-0): The ban on firearm possession by persons with qualifying domestic-violence misdemeanor convictions is a valid anti-evasion part of the federal ban on supplying firearms to them. It does not commandeer the sheriff, because it commands no state legislation, termination, prosecution, background checks or appropriation.
 - Lopez v. Monterey County (1999) (Fifteenth Amendment enforcement)
-  - Held (Thomas for the Court, 9-0): A county covered by Section 5 of the Voting Rights Act must obtain preclearance before administering a voting change, even one that a noncovered State requires and leaves it no discretion over. The Court adopted no separate constitutional justification for Section 5.
+  > Held (Thomas for the Court, 9-0): A county covered by Section 5 of the Voting Rights Act must obtain preclearance before administering a voting change, even one that a noncovered State requires and leaves it no discretion over. The Court adopted no separate constitutional justification for Section 5.
 - South Central Bell Telephone Co. v. Alabama
-  - Held (Stone for the Court, 9-0): The Eleventh Amendment does not bar this Court from reviewing federal questions decided by a State's own courts, which differs from a new damages suit against the State. The preclusion and Commerce Clause judgments were reversed and the case remanded for adequate state relief.
+  > Held (Stone for the Court, 9-0): The Eleventh Amendment does not bar this Court from reviewing federal questions decided by a State's own courts, which differs from a new damages suit against the State. The preclusion and Commerce Clause judgments were reversed and the case remanded for adequate state relief.
 - Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank
-  - Held (Stevens for 5, 5-4): Congress may authorize private suits against States when the duty and the enforcement measure fall within an Article I power and the authorization is unmistakable, so the Patent Clause supports the patent remedy. Section 5 independently sustains it as congruent and proportional prevention of property deprivations.
+  > Held (Stevens for 5, 5-4): Congress may authorize private suits against States when the duty and the enforcement measure fall within an Article I power and the authorization is unmistakable, so the Patent Clause supports the patent remedy. Section 5 independently sustains it as congruent and proportional prevention of property deprivations.
 - College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board
-  - Held (Stone for the Court in part; reversed 5-4 with no majority rationale on amenability): Section 5 does not support the Lanham Act suit on the own-product false-advertising theory (eight votes), and a State's continued ordinary commerce is not consent to suit (five votes). Five Justices nonetheless reversed the immunity dismissal on differing grounds.
+  > Held (Stone for the Court in part; reversed 5-4 with no majority rationale on amenability): Section 5 does not support the Lanham Act suit on the own-product false-advertising theory (eight votes), and a State's continued ordinary commerce is not consent to suit (five votes). Five Justices nonetheless reversed the immunity dismissal on differing grounds.
 - Alden v. Maine
-  - Held (Souter for 5, 5-4): Acting within its commerce power, Congress may displace a State's immunity from an expressly authorized private FLSA suit in the State's own competent court, which must hear it. The case was remanded for ordinary adjudication without any wage award.
+  > Held (Souter for 5, 5-4): Acting within its commerce power, Congress may displace a State's immunity from an expressly authorized private FLSA suit in the State's own competent court, which must hear it. The case was remanded for ordinary adjudication without any wage award.
 
 OT1999
 - Kimel v. Florida Board of Regents
-  - Held (Ginsburg for 5, 5-4): The ADEA unmistakably authorizes private suits against state employers (seven votes), and Article I supports that suit because both the age-employment duty and its enforcement fall within Congress's power. The categorical immunity dismissal was reversed; whether the ADEA is valid §5 legislation was reserved.
+  > Held (Ginsburg for 5, 5-4): The ADEA unmistakably authorizes private suits against state employers (seven votes), and Article I supports that suit because both the age-employment duty and its enforcement fall within Congress's power. The categorical immunity dismissal was reversed; whether the ADEA is valid §5 legislation was reserved.
 - Reno v. Condon
-  - Held (Scalia for the Court, 9-0): Congress may regulate disclosure of state motor-vehicle records because they move in an interstate information market, and a valid law may directly regulate a State's own handling of that data without commandeering. Whether such a law must also reach private parties was left open.
+  > Held (Scalia for the Court, 9-0): Congress may regulate disclosure of state motor-vehicle records because they move in an interstate information market, and a valid law may directly regulate a State's own handling of that data without commandeering. Whether such a law must also reach private parties was left open.
 - Fraternal Order of Police v. United States (2000)
-  - Held (O'Connor for the Court, 9-0): The domestic-violence firearm possession ban is a fitted anti-evasion part of the valid supply ban, within the Commerce and Necessary and Proper Clauses. Applying it to state and local officers does not commandeer, because it requires no state legislation, termination, prosecution or administration.
+  > Held (O'Connor for the Court, 9-0): The domestic-violence firearm possession ban is a fitted anti-evasion part of the valid supply ban, within the Commerce and Necessary and Proper Clauses. Applying it to state and local officers does not commandeer, because it requires no state legislation, termination, prosecution or administration.
 - Gillespie v. City of Indianapolis
-  - Held (Stone for the Court, 9-0): Section 922(g)(9) may reach Gillespie's possession as a fitted anti-evasion part of the national supply restriction. A federal firearm disability does not commandeer a city merely because its own job rules make an affected employee ineligible for armed work.
+  > Held (Stone for the Court, 9-0): Section 922(g)(9) may reach Gillespie's possession as a fitted anti-evasion part of the national supply restriction. A federal firearm disability does not commandeer a city merely because its own job rules make an affected employee ineligible for armed work.
 - United States v. Morrison
-  - Held (Kennedy for 5, 5-4): Findings of the economic costs of gender-motivated violence do not supply the interstate connection for §13981's private-assault action. Section 5 does not support it either, because a private assailant's animus is not the State's denial of equal protection.
+  > Held (Kennedy for 5, 5-4): Findings of the economic costs of gender-motivated violence do not supply the interstate connection for §13981's private-assault action. Section 5 does not support it either, because a private assailant's animus is not the State's denial of equal protection.
 - Jones v. United States
-  - Held (Thomas for the Court, 9-0): Section 844(i) requires that the property's own function connect it to interstate commerce; a home's out-of-state mortgage, insurance and natural gas do not suffice. The conviction was reversed for entry of acquittal, and the constitutional question was reserved.
+  > Held (Thomas for the Court, 9-0): Section 844(i) requires that the property's own function connect it to interstate commerce; a home's out-of-state mortgage, insurance and natural gas do not suffice. The conviction was reversed for entry of acquittal, and the constitutional question was reserved.
 - Vermont Agency of Natural Resources v. United States ex rel. Stevens
-  - Held (Scalia for the Court, 7-2): A relator has standing as partial assignee of the United States' claim (9-0), but the False Claims Act does not authorize a private relator's action against a State. The action was dismissed on that statutory ground without deciding constitutional immunity.
+  > Held (Scalia for the Court, 7-2): A relator has standing as partial assignee of the United States' claim (9-0), but the False Claims Act does not authorize a private relator's action against a State. The action was dismissed on that statutory ground without deciding constitutional immunity.
 - Bradley v. Arkansas Department of Education
-  - Held (Thomas for the Court, 9-0): A State that voluntarily accepts IDEA funds after the express condition takes effect consents to federal suit enforcing that program's obligations, within the recipient, claim and remedy the condition covers. The consent is not a general waiver and is not inferred from ordinary regulated activity.
+  > Held (Thomas for the Court, 9-0): A State that voluntarily accepts IDEA funds after the express condition takes effect consents to federal suit enforcing that program's obligations, within the recipient, claim and remedy the condition covers. The consent is not a general waiver and is not inferred from ordinary regulated activity.
 
 ## 2. Reserved landmark cases
 
@@ -528,78 +528,78 @@ Questions only. Under each, the landmarks it should be answered before.
 ### 4.1 Commerce power
 
 1. When may Congress reach purely local, noncommercial activity because it is part of a class Congress regulates as a national market, even if the individual never enters the market?
-    - Answer before: OT2004, Gonzales v. Raich.
+    > Answer before: OT2004, Gonzales v. Raich.
 2. What counts as a substantial interstate externality under Home Builders Part II-B, and what record must Congress or the government build?
-    - Answer before: OT2000, Solid Waste Agency of Northern Cook County v. Army Corps of Engineers; OT2004, Gonzales v. Raich.
+    > Answer before: OT2000, Solid Waste Agency of Northern Cook County v. Army Corps of Engineers; OT2004, Gonzales v. Raich.
 3. May Congress require individuals to enter a market, and is the taxing power an independent source?
-    - Answer before: OT2011, National Federation of Independent Business v. Sebelius.
+    > Answer before: OT2011, National Federation of Independent Business v. Sebelius.
 4. How much work must a jurisdictional element do, and may a court treat an activity as within commerce as a matter of law?
-    - Answer before: OT2015, Taylor v. United States.
+    > Answer before: OT2015, Taylor v. United States.
 5. How far beyond an enumerated end does the Necessary and Proper Clause reach (custodial commitment, limitations tolling, evidentiary privileges)?
-    - Answer before: OT2002, Pierce County v. Guillen; OT2002, Jinks v. Richland County; OT2009, United States v. Comstock.
+    > Answer before: OT2002, Pierce County v. Guillen; OT2002, Jinks v. Richland County; OT2009, United States v. Comstock.
 6. May Congress implement a treaty beyond its Article I powers?
-    - Answer before: OT2013, Bond v. United States (Bond II).
+    > Answer before: OT2013, Bond v. United States (Bond II).
 7. When should courts read a federal statute narrowly to avoid a commerce question?
-    - Answer before: OT2000, Solid Waste Agency of Northern Cook County v. Army Corps of Engineers.
+    > Answer before: OT2000, Solid Waste Agency of Northern Cook County v. Army Corps of Engineers.
 
 ### 4.2 Commandeering and spending
 
 8. After Printz Part I, where is the line between permitted limited assistance from state executives and forbidden conscription, and who pays for the assistance?
-    - Answer before: OT2022, Haaland v. Brackeen.
+    > Answer before: OT2022, Haaland v. Brackeen.
 9. Does a federal ban on States repealing or modifying their own laws commandeer state legislatures?
-    - Answer before: OT2017, Murphy v. National Collegiate Athletic Association.
+    > Answer before: OT2017, Murphy v. National Collegiate Athletic Association.
 10. Must a federal law that regulates States also apply to private parties (Reno v. Condon reserved)?
-    - Answer before: OT2017, Murphy v. National Collegiate Athletic Association; OT2022, Haaland v. Brackeen.
+    > Answer before: OT2017, Murphy v. National Collegiate Athletic Association; OT2022, Haaland v. Brackeen.
 11. When does a funding condition become coercive, and how related must it be to the funded program?
-    - Answer before: OT2000, Kansas v. United States (on the list); OT2003, Sabri v. United States; OT2011, National Federation of Independent Business v. Sebelius.
+    > Answer before: OT2000, Kansas v. United States (on the list); OT2003, Sabri v. United States; OT2011, National Federation of Independent Business v. Sebelius.
 12. How clear must a funding condition be about the remedies it carries (damages, punitive damages, expert fees)?
-    - Answer before: OT2001, Barnes v. Gorman; OT2005, Arlington Central School District v. Murphy; OT2010, Sossamon v. Texas.
+    > Answer before: OT2001, Barnes v. Gorman; OT2005, Arlington Central School District v. Murphy; OT2010, Sossamon v. Texas.
 13. May a private individual raise a federalism or Tenth Amendment objection?
-    - Answer before: OT2002, Pierce County v. Guillen; OT2010, Bond v. United States (Bond I).
+    > Answer before: OT2002, Pierce County v. Guillen; OT2010, Bond v. United States (Bond I).
 
 ### 4.3 State immunity
 
 14. Valid-duty limit: Congress may authorize suits only to enforce an obligation it could lawfully impose on the State. Stated, or left implied? (Workbook B.2(1).)
-    - Answer before: OT2000, Board of Trustees of the University of Alabama v. Garrett.
+    > Answer before: OT2000, Board of Trustees of the University of Alabama v. Garrett.
    - Vehicle: Garrett (OT2000, already listed). Question as framed: Applying Florida Prepaid Pt III: does the ADA unmistakably authorize suit, and is Title I's duty within the commerce power as applied to state employers? Note: Stating both steps as the rule's elements is applying the rule, not deciding more than needed.
 15. Does a general term such as "any claim" or "any employer" satisfy the unmistakable-authorization rule, or must the statute name States? (Workbook B.2(2).)
-    - Answer before: OT2001, Raygor v. Regents of the University of Minnesota.
+    > Answer before: OT2001, Raygor v. Regents of the University of Minnesota.
    - Vehicle: Garrett (OT2000, already listed), as under question 14.
    - Vehicle: Raygor v. Regents of the University of Minnesota, 534 U.S. 533 (decided February 27, 2002; OT2001, a historical Supreme Court case). Question as framed: Does 28 U.S.C. §1367(d), which tolls limitations for "any claim asserted under subsection (a)," unmistakably reach claims against a nonconsenting State? Note: Real docket; becomes more significant now that Article I abrogation exists.
 16. Does Article I abrogation reach a State's sovereign functions (courts, prisons, licensing), or only its conduct as employer and market participant? (Workbook B.2(3).)
-    - Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
+    > Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
    - Vehicle: Hason v. Medical Board of California, 279 F.3d 1167 (9th Cir. 2002); certiorari granted, No. 02-479, then dismissed April 7, 2003. Question as framed: May Congress, under Article I, authorize private suits against a State for its professional-licensing decisions? If not, is ADA Title II valid §5 legislation as applied to licensing? Note: Real Supreme Court grant (OT2002). Arrives before Lane (OT2003); to keep Lane's court-access question open, decide the Article I part and the licensing application only.
    - Alternative vehicle: Alsbrook v. City of Maumelle, 184 F.3d 999 (8th Cir. 1999) (en banc), holding Title II invalid under §5 for police-officer certification, is an alternative to Hason. Its Supreme Court disposition (petition No. 99-423) is not confirmed, and OT1999 is closed, so Hason is the cleaner vehicle.
 17. Are punitive or liquidated (double) damages available against a State under an Article I authorization? (Workbook B.2(4).)
-    - Answer before: OT2001, Barnes v. Gorman.
+    > Answer before: OT2001, Barnes v. Gorman.
    - Vehicle: Barnes v. Gorman, 536 U.S. 181 (decided June 17, 2002; OT2001). Question as framed: Are punitive damages available in private suits under ADA Title II and §504? Note: Partly on point: the defendant was a municipal police board and the theory was spending-contract. No verified vehicle presents punitive or liquidated damages against a State under Article I; the simulation's own Kimel and Alden remands (ADEA and FLSA liquidated damages) could, with reconstruction.
 18. Does the state-court rule of Alden reach statutes other than the FLSA? (Workbook B.2(5).)
-    - Answer before: OT2021, Torres v. Texas Department of Public Safety.
+    > Answer before: OT2021, Torres v. Texas Department of Public Safety.
    - Vehicle: None verified. Note: Historically these suits were barred after 1999, so no real record exists. Needs reconstruction, or wait for a statute that presents it.
 19. Does immunity apply in federal agency adjudication, and what authorization would displace it?
-    - Answer before: OT2001, Federal Maritime Commission v. South Carolina State Ports Authority.
+    > Answer before: OT2001, Federal Maritime Commission v. South Carolina State Ports Authority.
    - Vehicle: FMC v. South Carolina State Ports Authority (OT2001). Question as framed: In this timeline: does the Shipping Act clearly authorize private complaints against States before the agency? Note: Historical docket.
 20. Does a State waive immunity by removing a case, appearing, or counterclaiming?
-    - Answer before: OT2001, Lapides v. Board of Regents.
+    > Answer before: OT2001, Lapides v. Board of Regents.
    - Vehicle: Lapides v. Board of Regents, 535 U.S. 613 (decided May 13, 2002; OT2001). Question as framed: Does a State waive immunity by removing a case to federal court? Note: Historical docket; answers the waiver question Schacht and Florida Prepaid left open.
 21. Is a State's direct amenability under the gaming statute (left fractured in Seminole Tribe) now settled by Florida Prepaid Pt III? (Workbook B.2(6).)
-    - Answer before: no listed landmark.
+    > Answer before: no listed landmark.
    - Vehicle: None verified. Note: The simulation's own Seminole remand is the only natural vehicle.
 22. How far do officer suits reach: claims under federal statutes enforced against state commissions, and suits by one state agency against other state officers?
-    - Answer before: OT2001, Verizon Maryland Inc. v. Public Service Commission of Maryland; OT2010, Virginia Office for Protection and Advocacy v. Stewart.
+    > Answer before: OT2001, Verizon Maryland Inc. v. Public Service Commission of Maryland; OT2010, Virginia Office for Protection and Advocacy v. Stewart.
 23. Is a State immune from suit in another State's courts?
-    - Answer before: OT2018, Franchise Tax Board of California v. Hyatt.
+    > Answer before: OT2018, Franchise Tax Board of California v. Hyatt.
 24. May the federal government delegate its power to condemn state-owned land to private parties?
-    - Answer before: OT2020, PennEast Pipeline Co. v. New Jersey.
+    > Answer before: OT2020, PennEast Pipeline Co. v. New Jersey.
 
 ### 4.4 Section 5
 
 25. When Article I already supports a suit, should the Court still decide §5 (the branch policy says no unless needed)?
-    - Answer before: OT2000, Board of Trustees of the University of Alabama v. Garrett; OT2002, Nevada Department of Human Resources v. Hibbs; OT2011, Coleman v. Court of Appeals of Maryland.
+    > Answer before: OT2000, Board of Trustees of the University of Alabama v. Garrett; OT2002, Nevada Department of Human Resources v. Hibbs; OT2011, Coleman v. Court of Appeals of Maryland.
 26. What record and fit does §5 require for duties on sovereign functions, and is review facial or as applied?
-    - Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
+    > Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
 27. How does the level of scrutiny for a classification (disability, sex) affect the §5 record Congress needs?
-    - Answer before: OT2002, Nevada Department of Human Resources v. Hibbs; OT2003, Tennessee v. Lane.
+    > Answer before: OT2002, Nevada Department of Human Resources v. Hibbs; OT2003, Tennessee v. Lane.
 28. Does Boerne's congruence test govern Fifteenth Amendment legislation? Reserved for Shelby County (OT2012) under the equality tracker; no cleanup vehicle should decide it.
 
 ### 4.5 State immunity cleanup (from the retired workbook)
@@ -607,7 +607,7 @@ Questions only. Under each, the landmarks it should be answered before.
 Carried from the retired doctrine workbook, Parts B and F.2. These are side questions the Article I rule opened that no landmark will answer in the form this timeline needs, so they have to be closed by vehicles, since no historical Supreme Court case will raise them in this form. Questions 14 to 18 and 21 above are the workbook's items B.2(1) to B.2(6); questions 19 and 20 are its agency-forum and litigation-waiver items. Their vehicles are listed under them. Every vehicle still needs a case-list entry with its question presented and, where this timeline's law changes its posture, an Engine §14 reconstruction premise. The workbook checked vehicle facts against the opinions or reliable summaries on November 6, 2026; points not confirmed are marked.
 
 29. Spending consent under §504: does a State's acceptance of Rehabilitation Act funds under 42 U.S.C. §2000d-7 consent to §504 suits, and does the consent reach only the agency receiving the funds?
-    - Answer before: OT2010, Sossamon v. Texas.
+    > Answer before: OT2010, Sossamon v. Texas.
    - Vehicle: Jim C. v. United States, 235 F.3d 1079 (8th Cir. en banc), certiorari denied, 533 U.S. 949 (2001). Note: Bradley left §504 open. Decide without reaching Sossamon's damages-scope question.
 
 #### Workbook notes behind the cleanup questions and the pending decisions
