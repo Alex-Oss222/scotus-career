@@ -3,11 +3,529 @@
 Scope: equal protection, the Fourteenth and Fifteenth Amendments, Voting Rights Act sections 2 and 5, districting, the franchise and vote counting, racial classifications, sex, sexual orientation and gender identity, other classifications, congressional enforcement power and private enforcement.
 
 Organization:
+The working foundation appears first, followed by the existing numbered case and tracking sections.
+
 1. Completed cases, each with what it held.
 2. Reserved landmark cases, with their historical questions, blank fields for Stone's disposition and reasoning, and any earlier plan for the case.
 3. The doctrine as it stands, how it operates, and which landmarks it is waiting for; the four districting injuries, with their candidate elements, stop lines and open decisions; and where Stone's earlier materials still disagree.
 4. Questions to answer before the landmarks, each with its vehicle, the landmark it must precede and a blank answer field; then the questions reserved for the landmarks themselves.
 5. Docket decisions and carried-forward plans: the live post-Shaw docket rules, the OT2000 collision decisions and their status, the corrections that still apply, and Stone's planned positions for the OT2000 and OT2001 matters that are not section 2 landmarks.
+
+## Working foundation for future cases
+
+This foundation supplies Stone’s current approved positions where older planning entries below still leave a character question open. It does not alter completed adjudications, supply other Justices’ votes, or convert a preferred rule into a holding of the Court.
+
+Prepared November 6, 2026; revised November 7, 2026. Fictional Court baseline: June 29, 2000.
+
+This foundation states Stone’s preferred legal positions and methods for the subjects covered by this tracker. It is a self-contained foundation for making reasoned inferences about his disposition, legal reasoning, and separate opinions in future cases. It does not turn a personal preference into an existing holding or decide a reserved case without its facts. Completed decisions establish the fictional Court’s law; this foundation identifies Stone’s position where that law leaves room for judgment or where he would propose an express change.
+
+**Three commitments govern this foundation:** Stone rejects universal procedural requirements; he assigns no presumptive priority to race-neutral alternatives and does not require them as a prerequisite or substitute for justified racial repair or independently justified prospective programs; and he does not make history, studies, or empirical evidence the primary method of deciding every legal question. Race-neutral alternatives receive the consideration the governing rule requires, without becoming the central inquiry or an automatic reason to reject racial consideration. Earlier language suggesting a mandatory study, historical-wrongdoing prerequisite for every prospective program, investigation, comparison exercise, or race-neutral prerequisite must be read subject to these clarifications.
+
+The proposed applications below explain what follows from those commitments. Real Supreme Court decisions supply comparisons and opposing arguments. Their historical rules do not displace the different holdings already adopted in Stone’s fictional timeline. Sources after June 2000 are marked as later comparisons and cannot be attributed to Stone in an earlier case.
+
+**Stone’s willingness to change precedent is settled.** He will distinguish, narrow, or overrule a precedent when the legal reasons justify that course, including a decision he previously joined or wrote. His task is to identify and defend the proper legal move. A conflict with precedent is not an unresolved question about his willingness to act.
+
+### Foundation 1. The central commitment
+
+Government must treat people as persons of equal standing. It may draw distinctions for lawful public purposes, including repairing established exclusion, but must satisfy the particular constitutional or statutory rule governing the distinction. Racial caste, deliberate civic subordination, and other independently forbidden treatment cannot be justified by predicted benefits.
+
+Equal treatment sometimes requires removing an obstacle or repairing an institution that government helped make unequal. Identical wording or identical treatment does not always accomplish that. At the same time, unequal outcomes do not, by themselves, establish unconstitutional treatment or an entitlement to equal group results.
+
+Stone therefore asks what government actually did, which legal guarantee governs it, and what justification that guarantee requires. He does not begin by deciding whether the policy is socially desirable and then search for a legal route to that result.
+
+**A sufficient legal reason may consist of text, controlling precedent, a sound comparison, the design of the rule, ordinary reasoning, or an appropriately supported judgment about facts. No single method has a universal priority over the others apart from the authority the governing law assigns it.**
+
+### Foundation 2. How Stone reasons: law, comparisons, experience, and research
+
+#### Legal reasoning has an independent role
+
+Whether government possesses authority, whether a constitutional prohibition applies, what a statute means, and whether a precedent controls are legal questions. A study does not answer them. A constitutional defect apparent in a rule’s words or necessary operation can be decided without commissioning research about its effects.
+
+For example, if a public office is legally closed to a racial group, the exclusion itself supplies the relevant treatment. Stone need not demand proof that the excluded applicants suffered lower lifetime earnings before addressing the constitutional injury. Conversely, a study showing that a policy improves average outcomes cannot supply power that the government lacks.
+
+#### Several kinds of comparison can do different work
+
+| Method | What it helps decide | Example and limit |
+|---|---|---|
+| Constitutional and statutory text, structure, and precedent | What government may do and what rule governs | A controlling decision may resolve the classification or remedy. Later research does not silently erase that decision. |
+| Analogy to another legal case | Whether the same principle applies to a new setting | Explain why the earlier case’s reason reaches this case, and whether a difference matters to that reason. Similar political controversy is not enough. |
+| Comparison of people or situations | Whether the asserted reason explains different treatment | Compare applicants with the qualifications relevant to the actual task. Do not demand an otherwise identical person where the doctrine does not require one. |
+| Comparison within the government’s own policy | Whether exemptions, boundaries, and operation fit its explanation | If the same asserted risk is accepted for one group but used to exclude another, ask what relevant difference explains it. An exception is informative, not automatically fatal. |
+| Comparison of practical methods | Whether another method exposes an avoidable burden or weak connection | A different testing method may identify qualified workers more accurately. Its availability does not automatically create a constitutional duty to choose it. |
+| Institutional experience, ordinary reasoning, and reasonable prediction | Whether a practical judgment has a supportable basis | An administrator may explain how a modification affects a real operation. Unsupported tradition or a stereotype does not become expertise through repetition. |
+| Testimony, documents, historical materials, and empirical research | Whether a material factual proposition is established | Records may directly establish exclusion; a study may illuminate a causal pathway. Neither must be accompanied by every other form of proof. |
+
+These methods are not all substitutes for one another. Precedent can determine what must be proved; it cannot establish a disputed fact about what a particular official did. A comparison can reveal a contradiction without quantifying its social consequences. Research can establish a relevant factual premise without determining its constitutional significance.
+
+Comparative reasoning also supplies affirmative reasons to sustain a program. A legal analogy may establish that an institution may pursue the objective; comparison of program designs may explain how the chosen arrangement serves it; and comparison of the opportunities actually offered may demonstrate that burdens are justified under the applicable rule. These are independent forms of legal and practical reasoning. Their role is not limited to filling gaps until a study becomes available, and describing every argument broadly as “evidence” must not obscure that distinction. A comparison about actual conditions still needs a sound factual footing where those conditions are material and disputed.
+
+Historical practice also needs interpretation. A tradition formed while a group was excluded may show the history of exclusion rather than a legitimate reason to preserve it. Comparative experience from other jurisdictions may illuminate feasibility or consequences, but is persuasive material rather than controlling domestic law merely because another jurisdiction adopted it.
+
+#### Comparisons must follow the purpose of the institution
+
+The relevant question is not simply whether two people are alike in every respect. It is whether their differences matter to the lawful purpose being pursued. A firefighter’s capacity to perform essential tasks, a student’s access to an educational opportunity, and an athlete’s eligibility for a competitive category pose different questions.
+
+A government cannot make its policy self-justifying by defining the task to include the challenged exclusion. Nor may a court ignore a real functional difference because it prefers equal numerical outcomes. Comparators should test the actual legal explanation, not be selected to guarantee one side’s victory.
+
+**Three real decisions illustrate independent forms of reasoning:** *Cleburne* examined the city’s reasons against its treatment of comparable residential uses; *Romer* examined the unusual scope and structure of a legal disadvantage; *Palmore* rejected giving legal effect to private racial prejudice even if its social consequences were real. These demonstrate comparative, structural, and normative legal reasoning, respectively. They do not establish Stone’s entire proposed doctrine. [Cleburne (1985)](https://www.law.cornell.edu/supremecourt/text/473/432), [Romer (1996)](https://www.law.cornell.edu/supct/html/94-1039.ZO.html), [Palmore (1984)](https://www.law.cornell.edu/supremecourt/text/466/429).
+
+#### What the rejection of universal procedures means
+
+Stone imposes no general requirement to commission studies, enter formal findings, consult a prescribed list of experts, conduct an individual hearing, test every alternative, publish a fixed report, or repeat an assessment on a judicially invented schedule. Missing paperwork is not itself an equal-protection violation. Elaborate paperwork is not a defense to an unlawful rule.
+
+Specific procedural duties still apply when a statute, controlling decision, administrative rule, or independent constitutional guarantee actually requires them. A departure from ordinary procedure may also help establish discriminatory purpose. Neither proposition creates a universal procedure for all equality decisions.
+
+#### What happens when facts genuinely matter
+
+Stone identifies the proposition that could change the result and the party responsible for establishing it. Stipulated facts need no second demonstration. Admissible testimony, records, comparisons, experience, and reasonable inferences may suffice. Complex causal claims may warrant stronger empirical support because of the claim being made, not because empirical research is the default language of constitutional law.
+
+A court should distinguish the absence of support for a necessary premise from the absence of a study. It should also distinguish disagreement among experts from the absence of any reasonably supportable judgment. Predictions need the support appropriate to the governing standard; they need not be certain.
+
+Where material facts remain genuinely disputed, the court follows the rules for that stage of litigation. It may require trial, remand, decide a narrower question, or apply the burden of proof. It does not invent facts, resolve credibility improperly, or create an extra record-building obligation to postpone a legal decision.
+
+After a fair opportunity to establish a necessary proposition, failure of proof has the consequence the governing rule assigns it. Remand is not an automatic extra opportunity for the party that lost. Stronger justification for a serious burden also does not automatically mean a higher formal standard of proof, a larger number of studies, or a different scrutiny tier.
+
+### Foundation 3. Which rule applies, and what has the fictional Court adopted?
+
+“Intermediate scrutiny” means that government must establish an actual important objective and a substantial relationship between that objective and the challenged distinction. It does not generally demand the best imaginable policy or the least restrictive means. “Rational-basis review” gives ordinary policy choices considerable latitude. “Strict scrutiny” requires a compelling objective and narrow tailoring under its governing doctrine.
+
+| Classification or question | Stone’s preferred rule | Status relevant to this project |
+|---|---|---|
+| Race, national origin, and ancestry or ethnicity operating as race | The common racial-justification rule and defined permission for supported repair explained below | The fictional *Adarand* line already adopts a common important-objective/substantial-relationship standard. The detailed repair permission must be applied consistently with that line or an express change identified. |
+| Sex | Intermediate scrutiny | Adopted in the fictional tracker. |
+| Pregnancy | Treated as a sex classification | Stone’s personal position; do not assume every application has already been decided. |
+| Sexual orientation | Intermediate scrutiny | Personal minority position; the fictional Court still uses rational-basis review. |
+| Gender identity | Intermediate scrutiny | Personal position; the fictional Court has not adopted a governing rule. |
+| Disability | Intermediate scrutiny, plus the bounded access duty described below | Personal position; the fictional Court’s disability baseline remains rational basis. |
+| Nonmarital birth or legal circumstances of parentage | Intermediate scrutiny | Stone’s personal position; verify the controlling case for each application. |
+| State or local alienage outside the narrow political-function setting | Strict scrutiny | Stone’s personal position; the political-function exception has its own boundaries. |
+| Federal alienage | Source-specific: immigration functions retain their own doctrine; ordinary interior rules receive intermediate scrutiny in Stone’s view | Do not convert a personal position into an already adopted federal rule. |
+| Ordinary economic distinctions, age, wealth, and other unlisted categories | Rational basis | Ordinary review remains the default; hardship alone does not add a protected classification. |
+
+Religion, political affiliation, tribal political membership, fundamental rights, and election rules retain their own legal sources. A valid sovereign tribal classification is not automatically racial. A racial proxy remains subject to the rule governing its actual operation. Several overlapping claims keep their separate elements; combining them does not manufacture a new tier.
+
+Territorial districting has an especially important boundary in the fictional tracker: consideration or predominance of race in drawing a shared district does not, by itself, establish the equality injury or trigger racial strict scrutiny. Exclusion, intentional dilution, materially inferior participation, and inferior civic status require their own elements. This working doctrine does not bypass those holdings by treating district design as an ordinary allocation of a benefit.
+
+The fictional tracker’s ordinary economic rule permits reasonably conceivable legitimate explanations. Stone must not import an actual-purpose requirement or a duty to produce studies into that field. The real *Beach Communications* decision likewise permits rational policy inference without empirical proof and gives legislatures latitude in drawing imperfect lines. [Beach Communications (1993)](https://www.law.cornell.edu/supct/html/92-603.ZO.html).
+
+Ordinary review still rejects bare hostility and other purposes forbidden by the applicable doctrine. Those limits protect unlisted groups as well. They do not authorize a free-ranging judicial assessment of whether every policy is fair or sufficiently well researched.
+
+The source of the challenged action matters as well. The Fourteenth Amendment governs state action; the federal equality constraint operates through the Fifth Amendment. Private discrimination requires the relevant basis for attributing conduct to government or a separate statutory prohibition. A constitutional right, a right to sue, the proper defendant, immunity, and an available remedy remain distinct questions.
+
+### Foundation 4. Racial distinctions: a common rule with a defined permission for repair
+
+Federal, state, and local governments owe the same duty of equal standing. Their powers and responsibilities differ, so a purpose available to Congress may not be available to a city. That difference concerns authority and justification, not different grades of citizenship.
+
+The claimant first establishes the unequal treatment or other legally recognized injury, and its connection to the challenged action, as the particular claim requires. Government then carries the burden of justifying its racial distinction.
+
+The fictional Court’s common rule requires an important lawful objective, a substantial supported relationship between the distinction and that objective, and justification of its actual coverage and burdens. Stone’s preferred repair permission supplies a more definite application of that principle when government is correcting a supported condition of exclusion.
+
+This is a substantial departure from actual historical racial strict-scrutiny doctrine. It must be attributed to the fictional *Adarand* line rather than described as the real Court’s rule. [Actual Adarand (1995)](https://www.law.cornell.edu/supct/html/93-1841.ZO.html); [fictional tracker, §3.5](https://github.com/Alex-Oss222/scotus-career/blob/main/stone/STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md#35-governmental-racial-classifications).
+
+#### What establishes permission to repair
+
+Government must have authority to address the condition, a supported identification of discrimination, segregation, exclusion, persisting effects, or a serious risk of recurrence, and a remedy reasonably connected to that condition. The relevant setting may be an institution, practice, market, or valid legislative category.
+
+Beneficiaries and the method of assistance must fit the corrective purpose. Eligibility respects qualifications genuinely needed for the opportunity. The measure preserves meaningful continuing opportunity for outsiders, respects legally protected existing interests, and does not create permanent racial entitlement or continue beyond its justification.
+
+These are substantive conditions, not mandatory research stages. An official exclusionary rule, established institutional history, a comparison of actual treatment, or other sufficient materials may establish what matters. Neither a prior judgment against the administering institution nor proof of personal injury to every beneficiary is universally required.
+
+Once these conditions are established, the corrective justification is satisfied. A court does not subject the same program to an additional undefined fairness balance, require a second independent social benefit, or silently impose strict scrutiny. A challenger can still contest the conditions, challenge implementation outside them, or invoke an independently applicable right or statute.
+
+#### The connection to the wrong must be real, but need not be perfectly reconstructed
+
+Historical injustice and present inequality can provide reasons to investigate. They do not automatically establish responsibility for a particular present disparity or justify every preference benefiting a racial group.
+
+Stone accepts supported pathways of continuing harm: exclusion from property ownership may affect inheritance; exclusion from training may affect access to a skilled trade; discriminatory institutions may preserve barriers after their explicit rules change. He does not demand a complete alternative history showing each family’s wealth or career absent discrimination.
+
+Competing explanations matter where they bear on a necessary causal claim. A present qualification gap may help explain a decision without explaining how the gap arose. Conversely, a history of exclusion does not prove that every present decision reflects intentional bias. Those are distinct propositions, sometimes requiring different comparisons.
+
+For contracting, the relevant comparison may involve firms qualified, willing, and able to perform the work, rather than the racial composition of the whole population. Yet an eligibility measure may itself preserve the exclusion being repaired. Stone examines that issue rather than treating every existing qualification as either innocent or tainted. The real *Croson* decision illustrates the importance of connecting a contracting remedy to its relevant market and comparison group; its historical scrutiny rule is not imported into Stone’s alternative doctrine. [Croson (1989)](https://supreme.justia.com/cases/federal/us/488/469/).
+
+#### Beneficiaries need the connection appropriate to the kind of repair
+
+| Kind of measure | Connection Stone would require |
+|---|---|
+| Compensation for a person’s own loss | A legally sufficient connection between that person, the wrong, and the loss covered by the claim. |
+| Restitution or payment to a successor | A valid inherited entitlement or legally authorized successor claim; racial identity alone is insufficient. |
+| Repair of a continuing institutional barrier | Membership in the supported affected category or exposure to the barrier; individual damages proof is not invariably needed. |
+| Legislative collective repair | Authority and a defensible connection between the identified wrong, continuing consequences, covered class, and assistance. |
+
+These distinctions keep an individual damages case from becoming an unlimited group entitlement, while allowing government to address collective wrongs through lawful collective measures. Current wealth does not automatically defeat a valid restitution claim. Poverty alone does not establish inherited entitlement.
+
+Missing historical records do not automatically defeat a claim. The applicable scheme may allow reasonable inferences, alternative documentation, or presumptions. Stone does not create a universal presumption or dispense with eligibility whenever records are difficult to obtain.
+
+#### The limited role of race-neutral alternatives
+
+Stone has no general doctrinal preference for race-neutral programs over justified race-conscious programs. His central inquiry is whether the actual program pursues a lawful important objective, substantially serves that objective, and justifies its coverage and burdens under the governing rule. Neutrality by itself receives no preferred status and supplies no automatic tie-breaker.
+
+Government need not first enact, exhaust, or fail at race-neutral programs before using an otherwise justified racial remedy. An income-based program is not necessarily an adequate substitute for repairing an identified racial exclusion, even if both programs help many of the same people. An independently justified prospective program likewise does not become a fallback available only after neutral methods fail.
+
+Concrete alternatives remain relevant when they materially test the justification for a particular burden. A phased remedy, narrower coverage, different allocation method, targeted outreach, or another race-conscious design may matter. This inquiry is broader than asking whether a neutral substitute exists.
+
+Stone does not require a contest among every conceivable program or invalidate a supported choice merely because a judge prefers another. If a genuinely practicable method accomplishes the same legally defined repair while avoiding a serious burden, government should have a supportable explanation for rejecting it under the applicable rule. That explanation may rest on experience, design, or ordinary reasoning rather than a comparative study.
+
+Alternatives therefore have no presumptive dominance in Stone’s analysis. A particular alternative may become important if it exposes a material defect in the claimed fit or justification of a burden; its importance comes from that defect, not from being race-neutral. Required consideration is substantive consideration under the governing rule, without an added requirement to commission a comparison study or produce a prescribed administrative report.
+
+The fictional *Engineering Contractors* holding already requires serious consideration of race-neutral alternatives. The present clarification is compatible with considering concrete alternatives without requiring their exhaustion or automatic selection. Abandoning that existing consideration rule altogether would require an express doctrinal change. This draft proposes no such silent change.
+
+#### Outsiders retain meaningful opportunity, not unchanged odds
+
+A person outside the assisted category need not retain the exact competitive advantage or probability of selection that existed before repair. But opportunity must remain realistic rather than nominal. Consider the relevant market or institution, the economic importance of what remains available, the measure’s duration, and the combined operation of related restrictions.
+
+This does not promise every applicant a seat, promotion, contract, or eventual success. It also does not excuse effective exclusion by pointing to remote, inaccessible, or economically insignificant opportunities elsewhere. The breadth of a meaningful comparison depends on the opportunity being regulated.
+
+Limited allocations and numerical measures are not automatically forbidden under Stone’s preferred rule. Nor does describing a measure as a small preference settle its real burden: a few points can decide nearly every contested admission.
+
+Displacing an existing innocent employee or destroying an established livelihood calls for an especially strong justification under the same governing rule. This is not a newly invented scrutiny tier or a categorical veto on restitution to the rightful owner. Existing rights, directness of loss, available mitigation, and the remedy’s legal source matter.
+
+Real cases supply contrasting illustrations. The *Wygant* judgment invalidated a racial layoff arrangement; Powell’s plurality emphasized the concentrated burden of layoffs. *Paradise* upheld a temporary, conditional promotion remedy after persistent official discrimination and resistance. Its leading rationale was also a plurality. These cases support attention to context and the kind of burden, not an assertion that either announced Stone’s rule. [Wygant (1986)](https://www.law.cornell.edu/supremecourt/text/476/267), [Paradise (1987)](https://supreme.justia.com/cases/federal/us/480/149/).
+
+#### Duration follows justification
+
+A remedy may address persistent effects or a serious recurrence risk after overt discrimination has stopped. Improvement can reflect the remedy’s success; it neither proves permanent necessity nor automatically requires termination.
+
+No uniform expiration date, annual study, or mandatory cycle of relitigation follows from this doctrine. When continuing authority is properly challenged, a material change in conditions or operation matters. The remedy should contract or end when its basis no longer supports its reach. Existing judicial orders follow the governing standards for modification and termination.
+
+#### Legislative repair and judicial relief are different powers
+
+A legislature with appropriate authority may create a permissible repair program without waiting for a court to find the same constitutional violation against every implementing institution. An institution implementing a valid statutory category need not recreate the legislature’s entire investigation; it must satisfy the statute’s actual coverage and application requirements.
+
+A court ordering a remedy must have a violation, remedial authority, and a legally sufficient connection between the wrong and the relief. Permission for a legislature to adopt a policy does not itself authorize a judge to order it. Neither constitutional permission nor administrative approval overrides an applicable statutory restriction.
+
+### Foundation 5. Prospective integration and public benefits
+
+Government may pursue a genuinely distinct prospective objective within its lawful function, including supported integration, institutional access, or educational benefits. It need not falsely describe every such objective as compensation for its own past misconduct.
+
+**A prospective program stands on its own public justification.** Under Stone’s preferred rule, the institution identifies a lawful important objective, explains the substantial relationship between the racial consideration and that objective, and justifies the program’s actual coverage and burdens. A history of the institution’s wrongdoing is not a universal prerequisite. Nor must the institution prove that neutral programs have failed. History and research can inform the inquiry when relevant; neither defines the only route to a sufficient justification.
+
+The institution must identify the benefit concretely enough to explain the distinction’s role. A university might identify educational interactions that its program actually promotes. A school district might explain how assignment rules reduce an established barrier to integrated education. Neither must promise a numerical social return or prove its judgment through an experiment.
+
+#### Comparisons that can justify a future program
+
+| Comparison or form of reasoning | What it can establish without requiring historical or statistical proof as the primary method |
+|---|---|
+| The proposed objective and an objective already recognized in controlling precedent | Whether the legal principle permits the institution to pursue this public purpose; factual differences still matter where the precedent makes them relevant. |
+| The proposed arrangement and the institution’s lawful function | Whether the program’s design bears an intelligible and substantial relationship to the work the institution is authorized to perform. |
+| Different arrangements within the same institution | Whether access is meaningful, whether participants share the relevant opportunity, and whether a nominally inclusive arrangement preserves separation in practice. |
+| The institution’s treatment of comparable opportunities and burdens | Whether its stated explanation coherently accounts for whom it assists, whom it burdens, and the opportunities that remain. |
+| Experience with genuinely comparable institutions or programs | Whether a proposed mechanism is workable and a prediction supportable, with attention to relevant differences in setting. |
+| Different designs for pursuing the same objective | Whether coverage, timing, assignment, eligibility, or another design feature improves the connection to the objective or avoids an unjustified burden. Both designs may consider race. |
+
+For example, a school district defending an integration plan could compare two assignment designs by examining the schools and classrooms pupils would actually share, access to the relevant educational programs, the administrative operation, and the burdens each arrangement creates. Legal precedent, the assignment rules themselves, maps, institutional experience, and reasoned explanation may do substantial work. A study is not automatically needed to establish what follows from the design. A separate claim that the plan will produce a particular measurable academic improvement would require support appropriate to that factual claim.
+
+These comparisons can support permission as well as expose a defect. They are not six mandatory stages. Stone asks which reasoning actually answers the governing legal question, without demanding a historical narrative or a statistical demonstration when the question can be adequately resolved otherwise.
+
+Racial identity cannot substitute for an individual’s beliefs, ability, or entitlement to speak for a group. Demographic targets may sometimes diagnose a problem or describe a permitted remedy; proportional representation is not an independent constitutional end. The policy’s actual operation and burdens remain subject to the common justification rule.
+
+A failed repair rationale cannot be rescued by renaming it diversity. A genuinely different supported purpose can be considered, but government must establish its connection to the policy. The fictional *Hopwood* and *Eisenberg* holdings leave room for supported educational and integration objectives while leaving important methods for later decisions.
+
+Permission to adopt a program does not require government to adopt it. A change in policy must nevertheless be distinguished from changing the political process itself so that citizens seeking racial equality face a distinctive obstacle to ordinary decisionmaking. Stone examines who can seek a policy, through which institutions, and on what terms, under the applicable political-process doctrine. Neither the desirability of the program nor its repeal alone establishes the answer. This distinction supplies the starting point for the reserved political-process cases.
+
+**Later comparison:** the real *Students for Fair Admissions* decision invalidated the Harvard and UNC admissions programs, addressing their objectives, treatment of race, stereotyping, and endpoints. Stone’s more permissive personal approach must be explained as an alternative doctrine; collecting better studies would not by itself establish compliance with the real majority’s rule. [SFFA (2023)](https://www.supremecourt.gov/opinions/22pdf/20-1199_l6gn.pdf).
+
+### Foundation 6. Discriminatory purpose, concealed classifications, and mixed motives
+
+A rule may classify through its express terms, a criterion that necessarily identifies the group, a deliberate proxy, selective administration, or a nominally neutral design adopted for a legally operative discriminatory purpose. A neutral title does not resolve the question.
+
+Unequal effects may help establish purpose, but effects alone do not automatically establish a constitutional purpose claim. Knowledge that a policy will affect groups differently is also not necessarily a purpose to impose that disadvantage. Direct statements, sequence, selective exceptions, departures from ordinary practice, shifting reasons, and the treatment of comparable people can support the inference. No confession or statistical study is universally required. These distinctions have real historical roots in *Arlington Heights* and *Feeney*. [Arlington Heights (1977)](https://www.law.cornell.edu/supremecourt/text/429/252), [Feeney (1979)](https://www.law.cornell.edu/supremecourt/text/442/256).
+
+Where the governing rule treats discriminatory purpose as a motivating factor, it need not be the sole or dominant motive. That finding and the effect of any same-decision defense remain separate questions; an initial inference requiring an explanation is not the same as an ultimate finding of discriminatory motivation.
+
+Stone examines discrimination at the intersection where it occurs. Favorable treatment of Black men and white women does not necessarily answer a claim about exclusion of Black women. The claim must still establish the elements of an applicable cause of action; intersectional analysis does not create a higher scrutiny tier.
+
+#### Recommended treatment of mixed motives
+
+The sound default for this project is to preserve the governing causation rule and the fictional *Lesage* distinction. This develops the existing framework without inventing a universal rule that every improper motive always produces damages—or that it never matters unless it changed the final award.
+
+1. **Identify the injury and requested relief.** A denied promotion, unequal opportunity to compete, legally inferior status, and exposure to an ongoing barrier are not interchangeable injuries.
+2. **Apply the particular claim’s purpose and causation rules.** A preliminary showing requiring an explanation is different from proving that discrimination materially motivated the decision. Do not move every burden merely because a disparity exists.
+3. **Give a recognized same-decision defense its proper effect.** Government must establish that it would have reached the same decision without the forbidden consideration, where that defense applies. Showing that it could have done so is insufficient.
+4. **Examine any continuing barrier separately.** Failure to establish entitlement to the particular award does not automatically defeat a properly supported challenge to future unequal competition.
+
+The real *Lesage* decision treats a proven same decision as defeating liability for the discrete rejection claim described there, while distinguishing prospective challenges to an ongoing discriminatory program. It does not establish a universal right to nominal damages whenever an improper consideration appears. Any separate injury or statutory claim needs its own legal basis and elements. [Lesage (1999)](https://www.law.cornell.edu/supct/html/98-1111.ZPC.html).
+
+Government also cannot defeat a continuing challenge merely by announcing that it might lawfully reach the same result someday. Purpose, persistence, the claimant’s exposure, and the requested remedy must be assessed under the actual doctrine. Conversely, a claimant without an ongoing or imminent injury does not acquire standing for an injunction simply by having encountered past wrongdoing.
+
+### Foundation 7. Sex, pregnancy, sexual orientation, and gender identity
+
+Stone’s preferred protection is intermediate scrutiny for these classifications. Government must identify an actual important purpose and establish why the distinction substantially serves it. Social discomfort, assumptions about proper family roles, or unsupported beliefs about a group’s abilities do not carry that burden.
+
+The real *United States v. Virginia* opinion is a useful foundation for actual-purpose review and the rejection of overbroad generalizations. Its demanding justification requirement does not turn every sex case into strict scrutiny. The fictional Court has already adopted that distinction. [United States v. Virginia (1996)](https://www.law.cornell.edu/supct/html/94-1941.ZO.html).
+
+#### Function matters more than labels
+
+For a job, Stone asks what competent performance actually requires. Standards may demand difficult skills, strength, endurance, judgment, and safety. The benchmark is qualified performance with appropriate training, equipment, and ordinary teamwork—not whether an average untrained member of the population could do the work.
+
+A task-based assessment can be a powerful comparison with a categorical exclusion. It is not constitutionally mandatory in every occupation or setting merely because it can be imagined. A categorical distinction must still satisfy the applicable standard; an individual assessment must measure the real job rather than manufacture a barrier through irrelevant demands.
+
+An existing practice illustrates the available approach: the fire service’s Candidate Physical Ability Test assesses specified job tasks and was introduced in 1999. Its existence supports the feasibility of task-oriented assessment, not automatic validation of every local test or a universal legal requirement to adopt that particular test. [IAFF, Candidate Physical Ability Test](https://www.iaff.org/cpat/).
+
+Pregnancy distinctions receive intermediate scrutiny under Stone’s personal rule. A pregnancy-related medical or safety question may involve a relevant functional difference, but the government must connect that difference to its actual rule. Independent bodily autonomy, due process, statutory accommodation, or employment protections retain their own requirements.
+
+For orientation and gender identity, Stone should identify what the challenged rule actually classifies. Mentioning medical treatment, privacy, sex, or identity does not answer that legal question. Biology can be relevant to a particular function without establishing that every broad exclusion substantially serves it. Nor is a classification automatically unlawful merely because it uses a trait on Stone’s protected roster.
+
+For intimate choice and civil status, Stone’s preferred position also has an independent liberty basis. Government may not criminalize consensual adult intimacy merely from moral disapproval, and a civil status administered exclusively by the State must be available on equal constitutional terms. Religious institutions retain control over religious observances. These commitments do not require government to create every desired family institution or benefit. The particular liberty, equality classification, statutory recognition rule, and authorized remedy must each be identified; a higher equality tier is not a substitute for explaining the liberty claim. Contrary fictional precedent must be addressed openly, and these personal positions do not decide the reserved *Lawrence*, *Windsor*, or *Obergefell* cases by themselves.
+
+#### Sports require their own comparison
+
+Sports categories organize competition, so the question is broader than whether a particular person is physically able to participate. Competitive fairness, safety, and meaningful opportunities may be important purposes. The relationship between a category and those purposes depends on the rule, the level and kind of competition, and the factual propositions legally material to the challenge.
+
+Stone does not infer a universal result from average differences between groups, a single laboratory measure, or an assertion that every athlete is unique. A category can tolerate some variation without becoming irrational or unconstitutional. An exception can matter without every athlete being entitled to an individualized constitutional hearing.
+
+Comparisons may involve the institution’s treatment of similar competitive advantages, the actual rationale for sex categories, the scope of the disputed rule, practical administration, and relevant experience. Scientific research matters when a necessary physiological or safety claim genuinely requires it. The doctrine does not require a fresh sport-specific study in every case or prescribe hormone treatment as the default solution to a legal eligibility dispute.
+
+**Later legal comparisons:** *Bostock* interpreted Title VII’s employment prohibition and did not decide the constitutional scrutiny tier or every facility and sports question. *Skrmetti* applied rational-basis review to the challenged Tennessee treatment restrictions after rejecting the asserted heightened-scrutiny triggers. Those holdings must not be expanded into rules about every identity-related law. [Bostock (2020)](https://www.law.cornell.edu/supremecourt/text/17-1618), [Skrmetti (2025)](https://www.supremecourt.gov/opinions/24pdf/23-477_2cp3.pdf).
+
+The real Court’s June 2026 *West Virginia v. B. P. J.* decision, considered with *Little v. Hecox*, upheld the challenged sports classifications and rejected a constitutional requirement for athlete-by-athlete exceptions under its intermediate-scrutiny analysis. That supplies a concrete later position for Stone to assess. His preferred protection does not predetermine agreement or disagreement; he must identify the legal difference if he proposes another result. [West Virginia v. B. P. J. (2026), majority opinion, Parts II–III](https://www.supremecourt.gov/opinions/25pdf/609us2r68_hgci.pdf).
+
+### Foundation 8. Disability and meaningful access
+
+Stone prefers intermediate scrutiny for disability classifications. He also supports a bounded constitutional duty to modify government-controlled civic institutions or legal processes when their design makes meaningful participation practically impossible for an otherwise qualified person.
+
+For that access duty, the modification must be necessary, reasonable in cost and administration, and consistent with the institution’s lawful function. Government bears the burden of substantiating an asserted fundamental alteration or undue burden. This is Stone’s proposed constitutional position, not a claim that the real Court has adopted a general constitutional version of the ADA.
+
+The individual should identify the barrier and a plausible effective adjustment. Their experience is relevant to whether an offered alternative actually works. Government may choose an equally effective reasonable method rather than the individual’s preferred one. Neither side receives an automatic veto based on a label.
+
+Government can substantiate an operational limitation through practical explanation, experience, relevant records, costs, or other appropriate materials. It need not prepare a prescribed dossier. A conclusory reference to expense or tradition, however, does not establish the burden it has asserted. An avoidable design choice and the actual resources reasonably available may matter to that judgment.
+
+“Fundamental alteration” protects the real lawful function. It does not mean that any change to longstanding practice is forbidden. Likewise, formal access to a building does not necessarily establish meaningful access to the proceeding inside it.
+
+The duty remains limited to its stated institutional setting and conditions. It does not create a general entitlement to every desired public service, preferred accommodation, private employer adjustment, or unlimited expenditure. Other constitutional and statutory protections must be examined under their own sources.
+
+**Later comparisons:** *Garrett* distinguishes the constitutional disability baseline from broader statutory obligations. *Tennessee v. Lane* concerns Congress’s authority to enforce access-to-court protections through Title II. Neither establishes Stone’s general intermediate-scrutiny proposal. Their actual federalism and immunity outcomes also require separate treatment in the fictional timeline. [Garrett (2001)](https://www.law.cornell.edu/supct/html/99-1240.ZO.html), [Lane (2004)](https://www.law.cornell.edu/supct/html/02-1667.ZO.html).
+
+### Foundation 9. Remedies: make the right effective through lawful relief
+
+A remedy begins with the violation proved, the person or institution responsible, and the authority of the court. Stone should distinguish stopping a current unlawful practice, compensating a legally attributable past loss, and permitting a legislature to adopt broader future reform.
+
+Stopping a discriminatory rule may be required even when no particular claimant can prove entitlement to the scarce benefit. An award of that benefit or damages requires the additional legal basis and causal showing appropriate to that relief. A constitutional violation does not automatically establish a damages action against every official or the government treasury.
+
+#### Extension, withdrawal, and institutional choice
+
+If a benefit was unlawfully limited, a court may sometimes extend eligibility; in other circumstances the lawful solution is withdrawal, severance, or an opportunity for the legislature to choose. Statutory structure, legislative intent, severability, reliance, and independent rights matter.
+
+Stone favors effective inclusion where the law permits it, particularly when withdrawal would needlessly harm the people the program was enacted to protect. He rejects gratuitous destruction of a workable benefit as an automatic response to equality. But that preference does not create authority to fund an enlarged program or defeat a legally required remedy.
+
+Real decisions illustrate the distinction: *Westcott* approved extension of family benefits; *Heckler v. Mathews* explains that equal treatment can sometimes be achieved by withdrawal as well as extension. The later *Morales-Santana* decision applied the more demanding citizenship rule prospectively rather than extending the favored exception. No universal “always level up” rule follows. [Westcott (1979)](https://www.law.cornell.edu/supremecourt/text/443/76), [Heckler v. Mathews (1984)](https://www.law.cornell.edu/supremecourt/text/465/728), [Morales-Santana (2017)](https://www.law.cornell.edu/supremecourt/text/15-1191).
+
+#### Scarcity, reliance, and urgency
+
+A court should examine whether a new competition, removal of a barrier, revised eligibility, transition period, reinstatement, compensation, or other authorized relief actually addresses the violation. An existing innocent participant’s interests matter, but do not automatically preserve an unlawful practice. Genuine scarcity constrains available remedies; it does not make intentional discrimination lawful.
+
+Preliminary relief follows its own requirements, including the relevant showing of likely success and threatened harm. A court should neither demand final proof prematurely nor treat urgency as permission to skip jurisdiction and the elements of the claim.
+
+Funding must have a lawful basis. *OPM v. Richmond*, for example, rejected payment from the Treasury contrary to statute based on erroneous official advice. That decision is a warning against inventing fiscal authority, not a holding that all judicial remedies with budgetary consequences are forbidden. [OPM v. Richmond (1990)](https://www.law.cornell.edu/supremecourt/text/496/414).
+
+Structural relief must remain connected to the violation and the governing remedial law. Stone does not promise indefinite judicial supervision, a perpetual racial allocation, or a fixed termination date independent of actual compliance and remaining legally relevant effects.
+
+### Foundation 10. How actively Stone should press his preferred protections
+
+Stone actively advances a stronger rule when a case fairly presents the question and the legal reasoning supports it. He will distinguish, narrow, or overrule precedent when that is the legally justified way to decide the case. He need not wait for a majority before explaining why orientation, identity, disability, or another question deserves his preferred treatment. A concurrence or dissent can state the proposed rule, apply it, and develop the case for its adoption.
+
+**Distinguishing means identifying a difference that matters to the earlier decision’s legal reason.** Different statutory language, the actual issue decided, a materially different governmental act, or a relevant difference in the parties’ circumstances may establish that boundary. Stone does not invent a distinction to conceal his disagreement with the rule.
+
+**When the earlier rule itself is the problem, he addresses the rule.** He will argue for narrowing or overruling it and explain why the new rule better implements the governing legal source. Its age, repetition, or his own earlier support does not immunize it from correction. If he previously joined or wrote the decision, he acknowledges that history and explains the change in his reasoning.
+
+An express change identifies the prior rule, the legal reason for changing it, the new boundary, the matters left intact, and the treatment of concrete reliance interests. He does not wait for a new study or newly discovered fact when the sufficient ground for correction is legal. A change in the Court’s personnel alone supplies no legal reason, and he states any change in burdens, statutory interpretation, or remedial doctrine directly.
+
+He may decide on an adequate existing ground when that fully resolves the case. He does not use a narrower route merely to avoid a squarely presented question that needs doctrinal correction. The scope of the judgment follows the issue properly before the Court; his separate writing may explain the broader principle without pretending the majority adopted it.
+
+This is an assertive judicial posture with an identifiable legal basis. Stone supplies the argument, confronts the strongest lawful objection, and acts on the conclusion. Whether other Justices join him determines the Court’s holding, not whether he may advocate the position. Reserved cases remain actual applications requiring their own records and reasoning.
+
+### Foundation 11. Illustrations for future decisions
+
+These are conditional applications of the working doctrine, not additional precedents or substitutes for actual case records.
+
+| Situation | Starting analysis | What could change the conclusion |
+|---|---|---|
+| A city repairs an expressly documented exclusion from its contracting system | The records may establish the wrong without a commissioned disparity study. Examine authority, affected market, beneficiaries, scope, and actual opportunity for outsiders. | The assisted category extends beyond the supported exclusion, or the allocation effectively closes the viable market to others. |
+| A city adopts a preference based only on national inequality figures | The figures alone do not establish the needed connection to this measure. | A valid broader legislative category or additional institutional history supplies the missing connection; a genuinely distinct prospective purpose may have its own support. |
+| A claimant seeks restitution for property taken from an ancestor | Begin with title, succession, the legal wrong, limitation rules, and remedial authority. | A valid claim may survive current wealth; racial identity without the required entitlement does not establish ownership or compensation. |
+| A public employer excludes all women while already testing each applicant’s ability to perform the job | Compare the exclusion with the work and the existing test. A contradiction may be apparent without a new study. | Government establishes a relevant function that the existing assessment does not address and justifies the classification under intermediate scrutiny. |
+| A rule cites safety while exempting comparable situations posing the same asserted risk | Examine the explanation for the exceptions and whether the distinction is legally relevant. | The situations differ materially, or the applicable standard allows the justified incremental line. An exception alone does not decide the case. |
+| An applicant proves a forbidden consideration, but government proves the same rejection would have occurred | Apply the claim’s same-decision rule to the discrete loss. | An ongoing barrier and the claimant’s future exposure support a distinct prospective claim; another statute may prescribe different consequences. |
+| A courthouse offers a nominally accessible process that the claimant cannot meaningfully use | Apply Stone’s proposed bounded access duty and any existing court-access or statutory protection. | A reasonable effective alternative is available, or government substantiates a true alteration of function or undue burden under the governing source. |
+| A proposed sports exception turns on the purpose of the category and its legal coverage | Decide those legal questions before assuming laboratory data will determine the result. | A legally material claim about safety, development, or competitive effects requires support appropriate to that claim and the governing standard. |
+| An ordinary licensing rule draws an imperfect economic line | Rational basis generally permits practical line-drawing without studies or formal findings. | A separate right, an actual protected classification, a deliberate proxy, or a legally sufficient showing of animus changes the inquiry. |
+
+### Foundation 12. A short decision worksheet
+
+This is a tool for writing Stone’s opinions. It is not a procedure government must complete to make its actions lawful. Use only the questions relevant to the case.
+
+1. **What exactly happened to this claimant?** Identify the treatment, barrier, loss, or status injury without assuming entitlement to the ultimate benefit.
+2. **What law governs it?** Name the constitutional or statutory source, the proper defendant, and the route to relief. Separate any overlapping claims.
+3. **What is the law at this point in Stone’s career?** State the controlling fictional holding, Stone’s personal preference, and any proposed change separately.
+4. **What distinction did government actually use?** Examine text, necessary operation, administration, and any properly established proxy or discriminatory purpose.
+5. **What is the decisive legal reason or comparison?** Identify the precedent, comparable treatment, contradiction, institutional function, or other argument that bears directly on the rule.
+6. **What factual proposition could change the answer?** Identify who must establish it and what legally permissible material can do that work. Do not request a study merely to make the opinion appear rigorous.
+7. **Has the required justification been established?** Apply the correct standard. For repair, examine the conditions of permission without a second undefined balance. Consider concrete alternatives only in the role the standard assigns them.
+8. **What is the strongest lawful argument on the other side?** Address its legal source, relevant comparison, practical concern, and any genuine limitation in Stone’s reasoning.
+9. **What can this court properly decide now?** Distinguish a legal ruling, unresolved material facts, the holding needed for the case, and questions reserved.
+10. **What relief follows?** Explain why the remedy is authorized, addresses the proved injury, and respects the applicable limits.
+
+A compact opinion can state: “The governing rule is ___. The decisive legal reason or comparison is ___. The material factual question, if any, is ___. Under the applicable burden, ___. The holding is limited to ___. The authorized remedy is ___.”
+
+### Foundation 13. How the empirical material should be used
+
+The supplied studies belong in a factual reference library, not at the foundation of every legal decision. Their relevance depends on the proposition being disputed, the available methods, the governing law, and the date of the fictional case.
+
+**Persistence of racial wealth inequality.** Derenoncourt and colleagues reconstruct the long history of the wealth gap and model pathways through which starting conditions and subsequent accumulation affect it. This supports taking intergenerational mechanisms seriously. It does not establish a particular defendant’s present intent, calculate an individual claimant’s legal entitlement, or validate a particular local preference. The 2022 paper is unavailable to a fictional court deciding a case in 2000. [The Wealth of Two Nations, 2022 working paper](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_168_2022.pdf).
+
+**Mortgage decisions and competing explanations.** Bhutta, Hizmo, and Ringo’s 2022 study attributes much of the examined denial gap to measured risk characteristics and finds a comparatively limited role for differential treatment at that stage. That stage-specific finding does not establish that lending systems are free of discrimination or explain away discrimination that may have shaped accumulated wealth and credit histories. It illustrates why the question and comparison must be defined before interpreting a result. [Federal Reserve study, 2022](https://www.federalreserve.gov/econres/feds/how-much-does-racial-bias-affect-mortgage-lending.htm).
+
+**Athletic performance research.** The October 2026 Harper and colleagues review examined 14 studies involving 259 transgender women after at least 12 months of hormone treatment. Its abstract reports differing results across laboratory measures, including higher absolute grip strength and peak oxygen consumption in some comparisons, and no statistically significant differences in several others. The authors identify limitations and a need for stronger studies. Laboratory outcomes do not directly establish performance in every sport, injury risk, or the legal adequacy of a category. Absence of a statistically significant difference is not itself proof of equivalence. [Harper and colleagues, 2026](https://pubmed.ncbi.nlm.nih.gov/42868614/).
+
+A 2024 analysis by Lundberg and colleagues argues that male developmental advantages can persist despite testosterone suppression and criticizes the then-existing IOC framework. It supplies a contrasting scientific argument to examine, not a finding that every athlete, treatment history, and sport produces the same advantage. Its policy discussion should not be mistaken for a statement of the IOC’s current rules. [Lundberg and colleagues, 2024](https://onlinelibrary.wiley.com/doi/10.1111/sms.14581).
+
+The separate 2026 synthesis described in the supplied text as covering 52 studies is not used here to support a substantive conclusion. A correction is indexed, but its full implications for the supplied summary were not verified. The corrected publication should be checked before relying on those findings. [Indexed correction](https://pubmed.ncbi.nlm.nih.gov/42303293/). No medical intervention or categorical eligibility outcome is recommended on the basis of this research appendix.
+
+For any future use, ask what the study actually measured, whether its population and setting match the legal proposition, what plausible alternatives remain, and what its limitations permit the court to infer. Those questions govern the use of a study when one matters; they are not mandatory empirical stages for every case.
+
+### Foundation 14. What is settled enough to use, and what remains for future cases
+
+The materials are sufficient to construct a realistic working doctrine now. Its core is equal standing, source-specific legal reasoning, meaningful comparison, supported repair, independently justified prospective programs, actual functional justification where the governing standard requires it, and effective lawful remedies. The express clarifications reject history or studies as a universal primary method, universal administrative procedures, and presumptive priority, exhaustion, or mandatory substitution for race-neutral alternatives. Comparative legal and practical reasoning can affirmatively justify a program; it is not merely an alternative way to assemble an empirical record.
+
+Future cases must still settle concrete boundaries: what the protected opportunity is in a particular institution; which program characteristics satisfy repair permission; when a category is sufficiently connected to a function; what causation rule governs the asserted injury; and what relief the court has authority to grant. Those are applications requiring legal judgment, not omissions that must be filled with predetermined outcomes.
+
+When an application establishes a new rule, the project should record the holding, its reach, its votes, and what it leaves open. Stone’s preference remains separately identified until the Court adopts it. Later research and later real-world decisions may inform preparation for later fictional cases, but cannot be inserted into an earlier opinion as though they were then available.
+
+### Foundation 15. Voting, districting, and electoral opportunity
+
+#### Existing law and Stone’s preferred development
+
+The fictional Court’s June 2000 holdings permit consideration of race in shared territorial districts without treating that consideration alone as a constitutional injury. They preserve separate claims for exclusion, intentional dilution, materially unequal participation, and inferior civic status. The following preferred developments must be identified as Stone’s positions until an appropriate decision adopts them. They do not silently reverse the territorial rule.
+
+The Voting Rights Act’s sections 2 and 5 also remain distinct. Under the fictional §2 doctrine, a statutory results claim need not establish discriminatory intent, and a cohesive group may demonstrate an opportunity to elect with dependable crossover support without constituting a numerical majority. The other statutory conditions and totality inquiry remain. Under the fictional §5 doctrine, covered changes require advance approval, the effects inquiry protects against worsening electoral opportunity, and the purpose inquiry reaches dilutive purpose even without intended worsening. [Tracker §§3.1–3.3](https://github.com/Alex-Oss222/scotus-career/blob/main/stone/STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md).
+
+#### Deliberate fragmentation can injure participation without eliminating a winnable district
+
+Stone would recognize a distinct constitutional injury when government deliberately uses protected racial identity to fracture actual political association or materially impair realistic coalition-building or participation, even if no lawful alternative map would enable the community to elect its first-choice candidate.
+
+The protected interest is an equal political opportunity to associate, organize, participate, and form effective coalitions. It is not a guaranteed seat, proportional representation, a particular policy result, or a judicially assigned amount of political influence. Shared racial identity alone does not establish political agreement or a functioning coalition.
+
+For this proposed claim, identify the affected voters, the actual governmental arrangement, the discriminatory purpose or unequal legal treatment, a concrete mechanism of material impairment, and the causal connection. A group’s dissatisfaction with its electoral leverage is insufficient. Examples of a relevant mechanism could include deliberately breaking an operating nomination coalition, dividing an organized community to obstruct its participation, or imposing discriminatory access to its elected officials. Each example still needs the legal source and facts appropriate to the injury asserted.
+
+A claim based on an independently forbidden exclusion or unequal civic status need not establish an additional loss of electoral success. A claim specifically alleging lost coalition or participation opportunities must establish that impairment; improper intent alone does not prove its existence. Neither claim is revived merely by pointing to the racial composition of a shared district.
+
+Language-minority protection requires attention to its source. A statutory language-minority claim follows the statute’s coverage. A constitutional claim identifies the racial or national-origin treatment, deliberate proxy, protected association, or other constitutional injury actually present. The term does not automatically add a new scrutiny tier for every language distinction.
+
+A partisan objective does not automatically excuse deliberate racial impairment. Awareness of a correlation between race and party does not, by itself, prove that impairment either. Stone must explain what was targeted and why the required intent and injury are established.
+
+This constitutional proposal does not automatically create a new VRA §2 influence-only results claim. That statutory question must be resolved through the enacted language and applicable precedent, or through an expressly proposed legislative amendment. The statutory text separately addresses equal participation and opportunity to elect, while disclaiming an entitlement to proportional representation. [VRA §2 text](https://www.law.cornell.edu/uscode/text/52/10301).
+
+#### Preserve effective electoral opportunity before crediting broader influence
+
+Stone would reject dismantling a protected, reliable opportunity to elect merely because the State predicts sympathetic legislators, more favorable policy, or weaker influence across more districts. What matters is the affected voters’ practical electoral opportunity, not the racial percentage printed beside a district or a statewide total of nominal opportunities.
+
+A reduction from a numerical majority to a smaller share can be permissible where dependable coalition support preserves the relevant opportunity. Conversely, reducing excessive concentration may improve opportunity elsewhere without sacrificing it in the original community. Neither a fixed demographic floor nor maximization of minority districts supplies Stone’s rule.
+
+| Proposed change | Stone’s preferred treatment |
+|---|---|
+| One effective opportunity becomes two genuinely effective coalition opportunities | Potentially permissible where the affected voters retain or strengthen real electoral agency and the assessment accounts for realistic electoral conditions and applicable legal requirements. |
+| One reliable opportunity becomes several plausible but uncertain opportunities | The claimed preservation needs closer support. Examine the actual sources of uncertainty, including whether the new opportunities depend on the same fragile crossover or turnout assumption. The governing claim determines the burden and consequence of unresolved doubt. |
+| One reliable opportunity disappears in exchange for nondecisive influence or hoped-for policy gains | Those promises do not establish preservation of the protected opportunity and cannot alone justify its destruction. |
+
+The benchmark depends on the claim. A statutory backsliding inquiry compares the change with the legally prescribed benchmark; a §2 dilution claim may require comparison with a lawful workable alternative. Stone does not freeze an unlawful arrangement or exchange those benchmarks merely because they involve the same map.
+
+Community preferences receive serious weight, but neither an incumbent nor an advocacy organization automatically speaks for every affected voter. Surveys, community proposals, testimony, participation, and other relevant comparisons can inform the assessment without becoming universal requirements. Consent does not by itself establish preservation of equal electoral opportunity or waive the rights of other or future voters.
+
+These principles settle Stone’s preferred answer to the two general questions previously left open in this foundation. They do not predetermine the exact reach of every statutory provision or the outcome of a reserved case. In real legislation, Congress added explicit ability-to-elect language to VRA §5 in 2006; those later words must not be imported into a fictional opinion issued under the earlier text. [VRA §5 text and amendment history](https://www.law.cornell.edu/uscode/text/52/10304).
+
+#### Comparisons and alternative maps
+
+Stone may compare lawful plans, treatment of similarly situated communities, the State’s own districting criteria, the selection process, institutional operation, and realistic coalition opportunities. Documentary evidence, testimony, practical experience, and direct legal reasoning can establish relevant propositions. A map’s unusual shape or statistical outlier status alone does not establish a violation.
+
+A large collection of alternative maps can help assess whether the enacted arrangement is unusual and reduce dependence on a conveniently selected comparison. Its force depends on the legal constraints, assumptions, selection method, and opportunities it measures. Thousands of maps generated under an unsuitable assumption do not become a constitutional baseline through their number.
+
+There is no universal requirement to run simulations, generate a minimum number of maps, conduct a fixed statistical test, or show that every plausible alternative performs better. A legally sufficient comparator may sometimes be a single workable plan. Where the claim depends on electoral performance or durability, its necessary factual premise still requires appropriate support; comparative reasoning cannot invent the premise.
+
+#### Partisan entrenchment, ordinary election rules, and representation
+
+Stone permits judicial review when districting predominantly imposes a substantial and durable burden on disfavored voters’ representation or association, insufficiently explained by legitimate criteria, and materially impairs democratic correction across reasonably foreseeable electoral conditions. Ordinary advantage, political awareness, compactness tradeoffs, and disproportional outcomes alone are insufficient. No fixed seat percentage, symmetry measure, election count, or mandatory simulation determines the result.
+
+This is his preferred constitutional position. The later real Court’s categorical rejection of federal partisan-gerrymandering claims as nonjusticiable is a position he would have to confront openly, not an outcome automatically imported into this timeline. [Rucho (2019)](https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf).
+
+Ordinary election administration uses its governing burden standard. Stone examines how rules operate together on actual voters, including registration, identification, polling access, deadlines, and cure procedures. Reasonable nondiscriminatory administration receives latitude; severe or discriminatory burdens demand the justification the governing rule requires. Integrity is a legitimate concern, but its invocation does not establish a disputed mechanism or excuse an independent prohibition.
+
+Materially equivalent ballots should receive materially equivalent treatment under lawful standards. A later explanation may legitimately clarify an existing rule; it must not become a new substantive standard selected after officials learn who benefits. The difference depends on the actual preexisting law and proposed implementation. A recount dispute therefore requires attention to authority, consistency, timing, available relief, and the actual ballots, not a predetermined national outcome.
+
+Representatives serve residents, including people unable to vote. Stone’s planned position permits total population for that representational question; an opportunity-to-elect inquiry may require a different denominator. The choice must follow the legal question rather than a universal preferred count. State choices of other population bases require their own authority and constitutional analysis.
+
+Disputes about authority over federal elections must identify the particular constitutional allocation, the relevant state lawmaking process, and the lawful role of state courts and administrators. A State may administer an election without acquiring power to add federal candidate qualifications or use its official ballot to disadvantage a policy position. A state-court judgment does not automatically settle a distinct federal constitutional question; federal review likewise requires an identified federal limit rather than disagreement with an ordinary state-law interpretation. The precise issue in a case such as *Moore* still requires its own analysis of text, precedent, and institutional responsibility.
+
+#### Prevention, transparency, and remedies
+
+Stone supports constitutionally authorized preventive review where a supported pattern or serious recurrence risk makes waiting for repeated completed violations inadequate. The validity and continuing fit of a coverage category, release from supervision, and the standards of congressional enforcement remain distinct questions. Success does not automatically prove that protection has become unnecessary.
+
+Transparent mapmaking, early public participation, language assistance, independent review, monitoring, and accessible data are supported legislative and administrative choices. They become enforceable duties when an applicable legal source requires them. Their mention here does not revoke Stone’s rejection of universal procedural requirements or make every deficient hearing an equal-protection violation.
+
+Alternative electoral systems may be considered where authorized and appropriate. A court may not redesign the system merely because it prefers another model. Local authority must be identified; using multimember districts for ordinary congressional elections would require addressing the federal single-member-district statute. [2 U.S.C. §2c](https://www.law.cornell.edu/uscode/text/2/2c).
+
+Relief removes the proved unlawful exclusion, unequal treatment, or impairment through an authorized remedy. It may require lawful replacement boundaries, equalized participation, or removal of a discriminatory designation, but does not award a guaranteed seat or policy concessions. The tracker’s candidate restriction of redrawing to dilution claims is too categorical: correcting boundaries may also be necessary to restore people excluded from a political unit. [Gomillion (1960)](https://www.law.cornell.edu/supremecourt/text/364/339).
+
+### Foundation 16. Congressional power, private enforcement, and access to a remedy
+
+#### Identify the power and the right separately
+
+Congress must act under an actual constitutional power. The importance of equality does not supply a general federal police power. Congress may enforce Reconstruction guarantees through appropriate remedial and preventive laws; a valid constitutional prohibition and a statutory duty extending beyond that minimum remain different propositions.
+
+Stone favors substantial congressional latitude to respond to established patterns or serious risks of exclusion and evasion through reasonably fitted preventive categories. The support may include legal design, historical and institutional experience, comparisons, testimony, and reasonable prediction. Congress does not universally need findings in a prescribed form or a completed constitutional violation by every covered jurisdiction.
+
+Courts independently determine constitutional scope. Congress cannot simply redefine the judicially enforceable right by calling a substantive change enforcement. The governing standard and amendment must be identified; Stone’s preferred account must be reconciled expressly with any contrary fictional holding. The real *Boerne* decision’s congruence-and-proportionality rule is a legal comparison, not proof that the fictional Court has adopted that exact rule or that it automatically governs every Reconstruction power. [City of Boerne (1997)](https://www.law.cornell.edu/supct/html/95-2074.ZO.html).
+
+Once a preventive provision is valid, a covered claimant proves its enacted elements. Stone does not add a personal constitutional violation or discriminatory intent that the statute does not require. Implementing institutions may rely on the valid category’s legislative basis, subject to actual coverage and application requirements. A valid enforcement law still cannot excuse an independently established constitutional wrong.
+
+A law directed at private conduct needs a source capable of reaching that conduct. Where a claim or power requires state action, misconduct does not become governmental merely because it is grave, widespread, regulated, or publicly funded. Governmental control, attribution, delegated public functions, joint action, or institutional entwinement must be analyzed under their actual doctrines. Other powers and statutes may regulate private discrimination without converting it into constitutional state action.
+
+#### Distinguish the right from the means of enforcing it
+
+For a private suit, Stone identifies the right-holder, duty, authorized action, defendant, jurisdiction, causation, and relief. The statute’s text, structure, and remedial scheme govern. A substantive violation alone does not establish a private action, and recognizing an action does not automatically authorize every kind of damages.
+
+Section 1983 supplies an enacted enforcement route where its conditions are met; it is not the same inquiry as implying a new cause of action directly from another statute. Stone’s planned approach recognizes that a statute can confer an enforceable individual right while also directing an agency to oversee a program. Administrative supervision alone does not necessarily displace private enforcement. Conversely, a general program instruction does not become an individual entitlement merely because a person benefits from compliance.
+
+Regulations may implement authority that legislation actually confers; they do not create otherwise missing power or eliminate statutory limits. Whether a regulation specifies the content of an already enforceable right or imposes a distinct obligation without the asserted private remedy is a question requiring the actual enactment and governing precedent.
+
+The tracker records that Stone joined the fictional *Powell v. Ridge* holding denying the private regulatory disparate-impact action, while an earlier *Sandoval* plan would allow it. His willingness to distinguish or change *Powell* is settled. The later opinion must identify a material legal distinction if one exists; if the same rule controls and he concludes it is wrong, he will argue for narrowing or overruling it. His earlier vote is part of the explanation, not a bar to changing his position. The remaining work is to establish the statutory reasoning, the scope of the change, and its consequences. The real *Sandoval* and *Gonzaga* decisions illustrate the separate questions of an implied action and rights enforceable through §1983; their outcomes do not dictate Stone’s alternative timeline. [Sandoval (2001)](https://www.law.cornell.edu/supct/html/99-1908.ZO.html), [Gonzaga (2002)](https://www.law.cornell.edu/supct/html/01-679.ZO.html).
+
+#### Immunity and the proper defendant
+
+Immunity determines whether this defendant can face this claim for this relief in this forum. It does not make the challenged conduct lawful. Stone requires an applicable waiver or a valid congressional removal of immunity where sovereign immunity applies, with the necessary clarity and constitutional source.
+
+His preferred general position is that Article I ordinarily does not authorize private suits against nonconsenting States, while valid Reconstruction-enforcement legislation may remove immunity under its governing standard. The tracker records the Article I dispute as already resolved through his votes; verify those actual holdings rather than reopening the issue from an obsolete plan or assuming every exception has been decided.
+
+An ongoing violation may support authorized prospective relief against a responsible official with a real enforcement connection. That route does not automatically authorize retrospective treasury damages. Public enforcement by the United States, state consent, statutory conditions, and claims against local bodies have their own rules. A court must not collapse them into a universal conclusion that government either can or cannot be sued.
+
+Personal defenses, institutional attribution, and the availability of monetary relief must likewise be identified under the applicable law. The seriousness of an injury does not supply a missing damages action or erase a defense. Once a lawful channel exists, Stone favors relief that actually addresses the established violation.
+
+#### Funding conditions, fees, and remedial limits
+
+Funding conditions need the clarity, statutory authority, connection, and constitutional validity that the governing doctrine requires. A practically coercive arrangement is not made voluntary by its contractual label. Notice of the duty and notice of a particular remedy may be separate issues.
+
+Stone’s carried-forward *Barnes* plan illustrates the distinction: he would reject punitive damages under the provisions at issue while preserving authorized compensation for proved injury. That position does not deny the substantive access right. His *Buckhannon* plan favors catalyst fees where a nonfrivolous, legally grounded suit materially caused the relief, with the applicable fee statute and causal requirements identified. Neither plan is an already adopted holding merely because it appears in a planning document.
+
+These principles let Stone support an equality guarantee, recognize a statutory protection beyond the constitutional minimum, and still reject an unauthorized defendant, forum, or remedy. A disposition should explain which question controls the judgment and what remains available.
+
+### Foundation 17. Using the foundation to infer future dispositions
+
+The foundation is sufficient for educated character inference across the tracker’s subjects. It cannot predetermine every future judgment without the statute, case posture, record, and controlling fictional decisions. That is a limit of adjudication, not a need to collect a new general statement of Stone’s values for each case.
+
+For a proposed opinion, record:
+
+1. **The law at the date of the case.** Identify controlling fictional decisions, the enacted text then in force, and any preserved reservation. Do not import later research or legislation.
+2. **Stone’s applicable commitment.** Point to a stated rule in this foundation. Identify whether the proposed application is expressly settled here, a strong inference, or a genuinely open choice.
+3. **The reasoning that connects the two.** Explain the relevant legal analogy, comparator, institutional function, factual premise, or source of authority. Give the strongest lawful opposing argument a real answer.
+4. **The likely disposition.** State affirmance, reversal, vacatur, remand, dismissal, or a narrower partial disposition, and identify which legal or factual condition supports it. A favorable view of a right does not automatically imply judgment for the claimant on this record.
+5. **The role of his opinion.** Distinguish what he could join under existing law, what he would add in concurrence, and what would require dissent or an express proposal to change precedent. His preference does not establish other Justices’ votes.
+6. **Relief and limits.** State the authorized consequence and the questions not decided. Do not use a narrow remedy to conceal a change in the underlying rule.
+
+An educated inference should be conditional where a missing fact could change the result: “Stone would likely reject this exclusion if the asserted operational difference is unsupported, but would remand if that material factual issue was never properly resolved.” It should not invent the needed facts, attribute an unrecorded vote, or disguise a proposed legal rule as settled law.
+
+The latest voting answers settle the preferred protection for intentional fragmentation and the refusal to exchange reliable electoral opportunity for merely diffuse influence. The optional use of many alternative maps and support for transparency are interpreted consistently with the existing rejection of universal procedures. They do not establish a simulation prerequisite or a new racial-design-only claim.
+
+Several disputes still require legal analysis in their actual cases. These include the basis for distinguishing or changing *Powell* in *Sandoval*, the boundary between some *Miller/Vera* statements about standing and merits, the precise constitutional standard for particular enforcement legislation, and statutory questions not answered by personal support for protection. Stone’s willingness to act is not an open character question. The analysis must determine and defend the legal route, rather than treat the presence of contrary precedent as a reason to stop.
+
+For territorial standing, the recommended reconciliation is to focus on injury to the particular claimant and keep the existence of a claim separate from whether racial district design itself violates equal protection. It must be explained against the actual holdings and Stone’s earlier writings rather than presented as a correction that already occurred.
 
 ## 1. Completed cases
 
