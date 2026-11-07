@@ -1,12 +1,12 @@
 # Stone tracker: separation of powers and Article III standing
 
-Planning material under `stone/README.md`. Scope: Article III standing, mootness, ripeness, the order of deciding jurisdiction, political questions, and the allocation of power among Congress, the President and the courts (Congress and final judgments, appointments, removal, delegation, legislative process, presidential immunity and review, legislative immunity, non-Article III adjudication). Districting standing is tracked in `STONE_EQUALITY_VOTING_AND_ENFORCEMENT.md`; state immunity and commandeering belong to `STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md`. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
+Scope: Article III standing, mootness, ripeness, the order of deciding jurisdiction, political questions, and the allocation of power among Congress, the President and the courts (Congress and final judgments, appointments, removal, delegation, legislative process, presidential immunity and review, legislative immunity, non-Article III adjudication).
 
 Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; the user finds the vehicles).
+4. Questions to answer before the landmarks (questions only; no vehicles are identified).
 
 ## 1. Completed cases
 
@@ -196,7 +196,7 @@ Character recommended reasoning:
 ### OT2006: Hein v. Freedom From Religion Foundation, 551 U.S. 587 (No. 06-157)
 
 Area: Standing (federal taxpayers, Establishment Clause).
-Status: Open. No taxpayer-standing case decided; overlaps the religion document.
+Status: Open. No taxpayer-standing case decided.
 > Whether taxpayers have standing under Article III of the Constitution to challenge on Establishment Clause grounds the actions of Executive Branch officials pursuant to an Executive Order, where the plaintiffs challenge no Act of Congress, the Executive Branch actions at issue are financed only indirectly through general appropriations, and no funds are disbursed to any entities or individuals outside the government.
 
 Character recommended disposition:
@@ -219,7 +219,7 @@ Character recommended reasoning:
 ### OT2010: Arizona Christian School Tuition Organization v. Winn, 563 U.S. 125 (No. 09-987)
 
 Area: Standing (state taxpayers, tax credits).
-Status: Open. Overlaps the religion document.
+Status: Open.
 > 1. Do Respondents lack taxpayer standing because they do not allege, nor can they, that the Arizona Tuition Tax Credit involves the expenditure or appropriation of state funds?
 > 2. Is the Respondents' alleged injury-which is solely based on the theory that Arizona's tax credit reduces the state's revenue-too speculative to confer taxpayer standing, especially when considering that the credit reduces the state's financial burden for providing public education and is likely the catalyst for new sources of state income?
 > 3. Given that the Arizona Supreme Court has authoritatively determined, under state law, that the money donated to tuition granting organizations under Arizona's tax credit is private, not state, money, can the Respondents establish taxpayer standing to challenge the decisions of private taxpayers as to where they donate their private money?
@@ -346,7 +346,7 @@ Character recommended reasoning:
 ### OT2000: Whitman v. American Trucking Associations, 531 U.S. 457 (Nos. 99-1257, 99-1426)
 
 Area: Delegation.
-Status: Open. Loving sustained a delegation to the President and reserved enhanced specificity for criminal delegations; Clinton v. City of New York reserved nondelegation.. On the OT2000 list (February 27, 2001).
+Status: Open. Loving sustained a delegation to the President and reserved enhanced specificity for criminal delegations; Clinton v. City of New York reserved nondelegation. On the OT2000 list (February 27, 2001).
 Questions, as stated in the Court's opinion:
 > (1) Whether §109(b)(1) of the Clean Air Act (CAA) delegates legislative power to the Administrator of the Environmental Protection Agency (EPA). (2) Whether the Administrator may consider the costs of implementation in setting national ambient air quality standards (NAAQS) under §109(b)(1). (3) Whether the Court of Appeals had jurisdiction to review the EPA's interpretation of Part D of Title I of the CAA, 42 U.S.C. §§ 7501-7515, with respect to implementing the revised ozone NAAQS. (4) If so, whether the EPA's interpretation of that part was permissible.
 
@@ -550,9 +550,9 @@ Character recommended disposition:
 
 Character recommended reasoning:
 
-### Carried from the retired equality build
+### Other planned positions
 
-Utah v. Evans (OT2001), census imputation. Earlier plan (retired build): recognize Utah's standing and affirm the judgment for the Census Bureau. This is an OT2001 matter, not a reserved landmark; it is recorded here so the plan stays visible after the build's retirement.
+Utah v. Evans (OT2001), census imputation. Earlier plan: recognize Utah's standing and affirm the judgment for the Census Bureau. This is an OT2001 matter, not a reserved landmark.
 
 ## 3. The doctrine as it stands
 
@@ -588,9 +588,9 @@ Doctrine now: courts must establish their jurisdiction before reaching the merit
 
 Doctrine now: Congress may change the law that governs pending cases, even with an eye to particular litigation, without directing results (Robertson). Congress may change the conditions for continuing prospective relief, such as prison decrees, because judges still find the facts (Plyler, Rouse, Hadix, Benjamin, Gavin); a mandatory automatic stay of that relief is not categorically invalid (Miller v. French). And, departing from history, Congress may by a general and objective law require reinstatement of cases already finally dismissed as untimely (Morgan Stanley, Plaut).
 
-What Plaut means in plain terms. In 1991 the Court shortened the time limit for private securities-fraud suits and applied it to pending cases, so many suits were thrown out as late. Congress responded with §27A(b): any such suit dismissed as late after June 19, 1991, that would have been timely under the old rule, "shall be reinstated" if the plaintiff asked within 60 days. Plaut's case had already been dismissed and not appealed, so the dismissal was final. The real Court said Article III makes a final judgment the judiciary's last word, and Congress can never order it reopened. Your Court said that §27A(b) does not decide anyone's case. It creates a new legal right to have the case heard, defined by objective criteria that judges apply. Judges still decide eligibility, fraud, liability and damages.
+What Plaut means in plain terms. In 1991 the Court shortened the time limit for private securities-fraud suits and applied it to pending cases, so many suits were thrown out as late. Congress responded with §27A(b): any such suit dismissed as late after June 19, 1991, that would have been timely under the old rule, "shall be reinstated" if the plaintiff asked within 60 days. Plaut's case had already been dismissed and not appealed, so the dismissal was final. The real Court said Article III makes a final judgment the judiciary's last word, and Congress can never order it reopened. This Court said that §27A(b) does not decide anyone's case. It creates a new legal right to have the case heard, defined by objective criteria that judges apply. Judges still decide eligibility, fraud, liability and damages.
 
-The limits your Court stated: Congress may not order courts to make findings contrary to the record, declare named defendants liable, or disguise an individual award as a reopening law. Left undecided: whether Congress may reopen final judgments on the merits (as opposed to timeliness dismissals), and individualized legislative commands aimed at a single case. Later cases describe the result as "neither absolute finality nor unrestricted congressional reopening power."
+The limits this Court stated: Congress may not order courts to make findings contrary to the record, declare named defendants liable, or disguise an individual award as a reopening law. Left undecided: whether Congress may reopen final judgments on the merits (as opposed to timeliness dismissals), and individualized legislative commands aimed at a single case. Later cases describe the result as "neither absolute finality nor unrestricted congressional reopening power."
 
 How it operates:
 1. Is Congress changing the law for pending cases (permitted) or directing a result under existing law (forbidden)?
@@ -619,7 +619,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2015, Spokeo, Inc. v. Robins; OT2020, TransUnion LLC v. Ramirez.
 2. Do States receive special standing for sovereign or quasi-sovereign interests beyond their own revenue?
     > Answer before: OT2006, Massachusetts v. EPA; OT2022, United States v. Texas.
-3. Does taxpayer standing exist for Establishment Clause challenges (federal, state and municipal), and does it reach tax credits and executive spending? Coordinate with the religion document.
+3. Does taxpayer standing exist for Establishment Clause challenges (federal, state and municipal), and does it reach tax credits and executive spending?
     > Answer before: OT2006, Hein v. Freedom From Religion Foundation; OT2010, Arizona Christian School Tuition Organization v. Winn.
 4. How imminent must a threatened injury be, and does a substantial risk of future harm count?
     > Answer before: OT2012, Clapper v. Amnesty International USA; OT2020, TransUnion LLC v. Ramirez.

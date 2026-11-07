@@ -1,13 +1,12 @@
 # Stone tracker: commerce power, commandeering and state immunity
 
-Planning material under `stone/README.md`. Scope: the commerce power and the Necessary and Proper Clause (with the treaty power), commandeering and spending conditions, state sovereign immunity, and Congress's power under §5 of the Fourteenth Amendment as it bears on immunity, with Fifteenth Amendment enforcement where it meets §5. The dormant Commerce Clause and preemption are not tracked here; Stone's planning on them is in `STONE_PLANNED_POSITIONS.md`. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here.
+Scope: the commerce power and the Necessary and Proper Clause (with the treaty power), commandeering and spending conditions, state sovereign immunity, and Congress's power under §5 of the Fourteenth Amendment as it bears on immunity, with Fifteenth Amendment enforcement where it meets §5. The dormant Commerce Clause and preemption are not tracked here.
 
 Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; vehicles appear where the retired doctrine workbook identified one), the state immunity cleanup carried over from that workbook, and the decisions pending from the user.
-- Appendix: where Stone's commerce and federalism planning build now lives (`STONE_PLANNED_POSITIONS.md`).
+4. Questions to answer before the landmarks (questions only; vehicles appear where one has been identified), the state immunity cleanup, and the decisions pending.
 
 ## 1. Completed cases
 
@@ -212,7 +211,7 @@ Area: Spending conditions; remedies.
 Status: Open.
 Question, as described in the opinion: whether punitive damages may be awarded in a private suit under §202 of the Americans with Disabilities Act and §504 of the Rehabilitation Act.
 
-Earlier plan (retired build): Reverse the punitive-damages award. A valid access right and a compensatory remedy do not establish a punitive remedy, and the statutes' cross-references and notice to covered recipients matter; ordinary compensation for proved injury is preserved without authorizing every remedy under every civil-rights statute.
+Earlier plan: Reverse the punitive-damages award. A valid access right and a compensatory remedy do not establish a punitive remedy, and the statutes' cross-references and notice to covered recipients matter; ordinary compensation for proved injury is preserved without authorizing every remedy under every civil-rights statute.
 
 Character recommended disposition:
 
@@ -282,7 +281,7 @@ Status: Result pre-decided through Article I (Florida Prepaid Pt III, Kimel; Kim
 Question, as stated in the opinion:
 > We decide here whether employees of the State of Alabama may recover money damages by reason of the State's failure to comply with the provisions of Title I of the Americans with Disabilities Act of 1990.
 
-Earlier plan (retired build): Affirm and let the Title I damages claims proceed because the abrogation is valid §5 legislation, reaching §5 directly on the premise that Article I could not do the remedial work after Seminole Tribe and resting on Title I's qualification, reasonable-accommodation and undue-hardship limits. Dismiss the inadequately briefed Title II employment portion as improvidently granted.
+Earlier plan: Affirm and let the Title I damages claims proceed because the abrogation is valid §5 legislation, reaching §5 directly on the premise that Article I could not do the remedial work after Seminole Tribe and resting on Title I's qualification, reasonable-accommodation and undue-hardship limits. Dismiss the inadequately briefed Title II employment portion as improvidently granted.
 
 Character recommended disposition:
 
@@ -326,7 +325,7 @@ Status: Changed. Under Florida Prepaid Pt III the question becomes whether the S
 Question, as stated in the opinion:
 > This case presents the question whether state sovereign immunity precludes petitioner Federal Maritime Commission (FMC or Commission) from adjudicating a private party's complaint that a state-run port has violated the Shipping Act of 1984.
 
-Earlier plan (retired build): Reverse the appellate extension of immunity to this federal administrative proceeding and let the statutory process continue, following the historical dissent's rejection of immunity in executive regulatory adjudication. The agency's authority and any judicial enforcement are identified under the statute, and a private complainant is not assumed to control federal enforcement because it filed the complaint.
+Earlier plan: Reverse the appellate extension of immunity to this federal administrative proceeding and let the statutory process continue, following the historical dissent's rejection of immunity in executive regulatory adjudication. The agency's authority and any judicial enforcement are identified under the statute, and a private complainant is not assumed to control federal enforcement because it filed the complaint.
 
 Character recommended disposition:
 
@@ -559,21 +558,21 @@ Questions only. Under each, the landmarks it should be answered before.
 
 ### 4.3 State immunity
 
-14. Valid-duty limit: Congress may authorize suits only to enforce an obligation it could lawfully impose on the State. Stated, or left implied? (Workbook B.2(1).)
+14. Valid-duty limit: Congress may authorize suits only to enforce an obligation it could lawfully impose on the State. Stated, or left implied?
     > Answer before: OT2000, Board of Trustees of the University of Alabama v. Garrett.
    - Vehicle: Garrett (OT2000, already listed). Question as framed: Applying Florida Prepaid Pt III: does the ADA unmistakably authorize suit, and is Title I's duty within the commerce power as applied to state employers? Note: Stating both steps as the rule's elements is applying the rule, not deciding more than needed.
-15. Does a general term such as "any claim" or "any employer" satisfy the unmistakable-authorization rule, or must the statute name States? (Workbook B.2(2).)
+15. Does a general term such as "any claim" or "any employer" satisfy the unmistakable-authorization rule, or must the statute name States?
     > Answer before: OT2001, Raygor v. Regents of the University of Minnesota.
    - Vehicle: Garrett (OT2000, already listed), as under question 14.
    - Vehicle: Raygor v. Regents of the University of Minnesota, 534 U.S. 533 (decided February 27, 2002; OT2001, a historical Supreme Court case). Question as framed: Does 28 U.S.C. §1367(d), which tolls limitations for "any claim asserted under subsection (a)," unmistakably reach claims against a nonconsenting State? Note: Real docket; becomes more significant now that Article I abrogation exists.
-16. Does Article I abrogation reach a State's sovereign functions (courts, prisons, licensing), or only its conduct as employer and market participant? (Workbook B.2(3).)
+16. Does Article I abrogation reach a State's sovereign functions (courts, prisons, licensing), or only its conduct as employer and market participant?
     > Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
    - Vehicle: Hason v. Medical Board of California, 279 F.3d 1167 (9th Cir. 2002); certiorari granted, No. 02-479, then dismissed April 7, 2003. Question as framed: May Congress, under Article I, authorize private suits against a State for its professional-licensing decisions? If not, is ADA Title II valid §5 legislation as applied to licensing? Note: Real Supreme Court grant (OT2002). Arrives before Lane (OT2003); to keep Lane's court-access question open, decide the Article I part and the licensing application only.
    - Alternative vehicle: Alsbrook v. City of Maumelle, 184 F.3d 999 (8th Cir. 1999) (en banc), holding Title II invalid under §5 for police-officer certification, is an alternative to Hason. Its Supreme Court disposition (petition No. 99-423) is not confirmed, and OT1999 is closed, so Hason is the cleaner vehicle.
-17. Are punitive or liquidated (double) damages available against a State under an Article I authorization? (Workbook B.2(4).)
+17. Are punitive or liquidated (double) damages available against a State under an Article I authorization?
     > Answer before: OT2001, Barnes v. Gorman.
    - Vehicle: Barnes v. Gorman, 536 U.S. 181 (decided June 17, 2002; OT2001). Question as framed: Are punitive damages available in private suits under ADA Title II and §504? Note: Partly on point: the defendant was a municipal police board and the theory was spending-contract. No verified vehicle presents punitive or liquidated damages against a State under Article I; the simulation's own Kimel and Alden remands (ADEA and FLSA liquidated damages) could, with reconstruction.
-18. Does the state-court rule of Alden reach statutes other than the FLSA? (Workbook B.2(5).)
+18. Does the state-court rule of Alden reach statutes other than the FLSA?
     > Answer before: OT2021, Torres v. Texas Department of Public Safety.
    - Vehicle: None verified. Note: Historically these suits were barred after 1999, so no real record exists. Needs reconstruction, or wait for a statute that presents it.
 19. Does immunity apply in federal agency adjudication, and what authorization would displace it?
@@ -582,7 +581,7 @@ Questions only. Under each, the landmarks it should be answered before.
 20. Does a State waive immunity by removing a case, appearing, or counterclaiming?
     > Answer before: OT2001, Lapides v. Board of Regents.
    - Vehicle: Lapides v. Board of Regents, 535 U.S. 613 (decided May 13, 2002; OT2001). Question as framed: Does a State waive immunity by removing a case to federal court? Note: Historical docket; answers the waiver question Schacht and Florida Prepaid left open.
-21. Is a State's direct amenability under the gaming statute (left fractured in Seminole Tribe) now settled by Florida Prepaid Pt III? (Workbook B.2(6).)
+21. Is a State's direct amenability under the gaming statute (left fractured in Seminole Tribe) now settled by Florida Prepaid Pt III?
     > Answer before: no listed landmark.
    - Vehicle: None verified. Note: The simulation's own Seminole remand is the only natural vehicle.
 22. How far do officer suits reach: claims under federal statutes enforced against state commissions, and suits by one state agency against other state officers?
@@ -600,26 +599,26 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
 27. How does the level of scrutiny for a classification (disability, sex) affect the §5 record Congress needs?
     > Answer before: OT2002, Nevada Department of Human Resources v. Hibbs; OT2003, Tennessee v. Lane.
-28. Does Boerne's congruence test govern Fifteenth Amendment legislation? Reserved for Shelby County (OT2012) under the equality tracker; no cleanup vehicle should decide it.
+28. Does Boerne's congruence test govern Fifteenth Amendment legislation? Reserved for Shelby County (OT2012); no cleanup vehicle should decide it.
 
-### 4.5 State immunity cleanup (from the retired workbook)
+### 4.5 State immunity cleanup
 
-Carried from the retired doctrine workbook, Parts B and F.2. These are side questions the Article I rule opened that no landmark will answer in the form this timeline needs, so they have to be closed by vehicles, since no historical Supreme Court case will raise them in this form. Questions 14 to 18 and 21 above are the workbook's items B.2(1) to B.2(6); questions 19 and 20 are its agency-forum and litigation-waiver items. Their vehicles are listed under them. Every vehicle still needs a case-list entry with its question presented and, where this timeline's law changes its posture, an Engine §14 reconstruction premise. The workbook checked vehicle facts against the opinions or reliable summaries on November 6, 2026; points not confirmed are marked.
+These are side questions the Article I rule opened that no landmark will answer in the form this timeline needs, so they have to be closed by vehicles, since no historical Supreme Court case will raise them in this form. The cleanup questions are questions 14 to 21 above and question 29 below. Their vehicles are listed under them. Every vehicle still needs an entry on the case list with its question presented and, where this timeline's law changes its posture, a reconstruction premise. Vehicle facts were checked against the opinions or reliable summaries; points not confirmed are marked.
 
 29. Spending consent under §504: does a State's acceptance of Rehabilitation Act funds under 42 U.S.C. §2000d-7 consent to §504 suits, and does the consent reach only the agency receiving the funds?
     > Answer before: OT2010, Sossamon v. Texas.
    - Vehicle: Jim C. v. United States, 235 F.3d 1079 (8th Cir. en banc), certiorari denied, 533 U.S. 949 (2001). Note: Bradley left §504 open. Decide without reaching Sossamon's damages-scope question.
 
-#### Workbook notes behind the cleanup questions and the pending decisions
+#### Notes on the cleanup questions and the pending decisions
 
-Candidate answers are the workbook's analysis for the user to accept, change or reject; none is an approved Stone position.
+The candidate answers below are analysis to be accepted, changed or rejected; none is an approved Stone position.
 
-- B.2(1), the valid-duty limit (question 14): That excludes commandeering (Congress cannot order a legislature to legislate, so it cannot authorize damages for refusing) and duties outside the enumerated power. The rule implies this; no decision says it.
-- B.2(2), unmistakable authorization (question 15): Kimel Pt I found the ADEA clear, statute-specific. Candidate: the text must refer to States or their immunity expressly.
-- B.2(3), sovereign functions (question 16): Candidate: the abrogation follows the duty; where the commerce power does not reach a sovereign function, Article I supplies neither the duty nor the suit, and §5 is the route. This is the line that keeps Lane and Georgia meaningful.
-- B.2(4), remedy limits (question 17): "Award-specific limits" were left open. Candidate: compensatory damages follow from valid authorization; punitive damages against a State require their own clear statement and face a presumption against them, since punishing a sovereign falls on its taxpayers.
+- The valid-duty limit (question 14): The limit excludes commandeering (Congress cannot order a legislature to legislate, so it cannot authorize damages for refusing) and duties outside the enumerated power. The rule implies this; no decision says it.
+- Unmistakable authorization (question 15): Kimel Pt I found the ADEA clear, statute-specific. Candidate: the text must refer to States or their immunity expressly.
+- Sovereign functions (question 16): Candidate: the abrogation follows the duty; where the commerce power does not reach a sovereign function, Article I supplies neither the duty nor the suit, and §5 is the route. This is the line that keeps Lane and Georgia meaningful.
+- Remedy limits (question 17): "Award-specific limits" were left open. Candidate: compensatory damages follow from valid authorization; punitive damages against a State require their own clear statement and face a presumption against them, since punishing a sovereign falls on its taxpayers.
 
-B.1, landmarks this branch already pre-decided. The Article I rule is general: any Article I power, unmistakable authorization, valid duty. That already answers the central question of several later landmarks before they arrive, much as Vera did for districting:
+Landmarks this branch already pre-decided. The Article I rule is general: any Article I power, unmistakable authorization, valid duty. That already answers the central question of several later landmarks before they arrive, much as Vera did for districting:
 
 | Landmark | Historical central question | Status here |
 |---|---|---|
@@ -631,36 +630,32 @@ B.1, landmarks this branch already pre-decided. The Article I rule is general: a
 
 These should be recorded in the case lists as changed landmarks under the causal rule, not left to arrive as if their questions were open.
 
-B.3, what stays reserved (in the Barnes row, "item 4" is B.2(4), question 17):
+What stays reserved:
 
 | Landmark | Reserved question | Why it stays open |
 |---|---|---|
 | Tennessee v. Lane (OT2003) | Is ADA Title II valid §5 legislation as applied to access to courts? | The real §5 test: a sovereign function Article I may not reach. |
 | United States v. Georgia (OT2005) | Title II damages for conduct that also violates the Constitution | Same. |
 | FMC v. South Carolina Ports Authority (OT2001) | Does immunity bar a federal agency from adjudicating a private complaint against a State? | Survives in changed form: here it becomes whether the statute clearly authorizes the agency forum. |
-| Barnes v. Gorman (OT2001) | Punitive damages under Title II and §504 | A spending-contract question distinct from item 4, which concerns Article I authorization. Do not close item 4 in a way that decides Barnes. |
+| Barnes v. Gorman (OT2001) | Punitive damages under Title II and §504 | A spending-contract question distinct from question 17, which concerns Article I authorization. Do not close question 17 in a way that decides Barnes. |
 | Sossamon (OT2010) | Does consent to suit by accepting funds include consent to damages? | Spending-consent scope; reserved. |
 | PennEast (OT2020) | May the United States delegate its eminent-domain power to sue States to private parties? | A different theory (structural consent); reserved. |
 | Shelby County (OT2012), NAMUDNO (OT2008) | The Fifteenth Amendment enforcement standard; coverage formula; bailout | Boerne reserved Fifteenth Amendment power and Lopez II adopted no separate justification. No vehicle should choose the standard. |
 
-B.4, Garrett under the branch policy. Here "my earlier suggestion" is the workbook author's, and "the build" is the retired equality build, whose Garrett plan is the "Earlier plan" line under Garrett in section 2:
+Garrett under the branch policy:
 1. Did Congress clearly authorize suit? The ADA says a State "shall not be immune under the eleventh amendment" (42 U.S.C. §12202). Yes.
 2. Is Title I's duty within Article I as applied to States? Title I regulates employment, and Garcia and EEOC v. Wyoming let Congress regulate state employment under the commerce power. Kimel already says so. Yes.
 3. The damages claims therefore proceed on Article I alone.
-4. Under the branch policy, Stone should not also reach §5. My earlier suggestion to bank a §5 holding as insurance is withdrawn: it would decide disability's §5 status in a case that does not need it and pre-decide part of Lane. The cost is losing a second foundation if the five-vote Article I rule is later narrowed; Lane remains the place to build §5.
-5. The Title II employment portion: the build would dismiss it as improvidently granted because statutory coverage was not briefed. That also keeps Lane's ground clear.
+4. Under the branch policy, Stone should not also reach §5. The earlier suggestion to bank a §5 holding as insurance is withdrawn: it would decide disability's §5 status in a case that does not need it and pre-decide part of Lane. The cost is losing a second foundation if the five-vote Article I rule is later narrowed; Lane remains the place to build §5.
+5. The Title II employment portion: the earlier plan under Garrett in section 2 would dismiss it as improvidently granted because statutory coverage was not briefed. That also keeps Lane's ground clear.
 
-### 4.6 Decisions pending from the user
+### 4.6 Decisions pending
 
-From the retired workbook, Part B.5, verbatim. B.2(1) to B.2(4) are questions 14 to 17; B.1, B.3 and B.4 are set out in 4.5.
+The pre-decided landmarks, the reservations and the Garrett analysis referred to below are set out in 4.5.
 
-1. Close items B.2(1) to B.2(4) by vehicle before Lane (OT2003), in that order of priority.
-2. Garrett on Article I alone (B.4).
-3. Record the B.1 landmarks as changed in the case lists.
-4. Confirm the B.3 reservations, especially Shelby County's Fifteenth Amendment standard.
+1. Close questions 14 to 17 by vehicle before Lane (OT2003), in that order of priority.
+2. Garrett on Article I alone.
+3. Mark the pre-decided landmarks as changed in the case lists.
+4. Confirm the reservations, especially Shelby County's Fifteenth Amendment standard.
 
-The workbook's Part E, item 4, asks for the same answers together with the cleanup vehicles now listed under questions 14 to 21 and 29: "Part B.5 and F.2: immunity cleanup vehicles, Garrett on Article I alone, the B.1 recordings, the B.3 reservations."
-
-## Appendix: Stone's commerce and federalism positions
-
-The planning build that used to follow here (the roadmap table, the standards Stone is building, and the case-by-case entries from the inherited baseline through OT2014) is kept word for word in `STONE_PLANNED_POSITIONS.md`, under "Commerce, commandeering and state immunity". This tracker is the working document.
+These answers are to be given together with a choice of the cleanup vehicles listed under questions 14 to 21 and 29.

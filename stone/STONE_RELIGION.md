@@ -1,12 +1,12 @@
 # Stone tracker: religion
 
-Planning material under `stone/README.md`. Scope: the Establishment Clause (government prayer and religious displays, religion in the public schools, government aid and funding including vouchers, tax credits and school aid, and delegation of civic power to religious bodies), the Free Exercise Clause (Smith's general-applicability rule and its exceptions, religious targeting, discretionary exemptions), religious speakers in public forums and government programs (the Lamb's Chapel, Rosenberger and Good News Club line), the Religious Freedom Restoration Act (RFRA) and the Religious Land Use and Institutionalized Persons Act (RLUIPA), church autonomy and the ministerial exception, and Title VII religious accommodation as it bears on Groff. Taxpayer standing for Establishment Clause claims is tracked in `STONE_SEPARATION_OF_POWERS_AND_STANDING.md` and is only cross-referenced here; Boerne's §5 holding and RLUIPA damages against States (Sossamon) are in `STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md`; parental liberty as such is in `STONE_DUE_PROCESS.md`. Stone's planned religion principles in `MASTER_JURISPRUDENCE.md` ("## Religion") are used in section 4 only to frame questions; they are not law and not answers. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here. Stone's earlier planned positions on religion cases are kept word for word in `STONE_PLANNED_POSITIONS.md`.
+Scope: the Establishment Clause (government prayer and religious displays, religion in the public schools, government aid and funding including vouchers, tax credits and school aid, and delegation of civic power to religious bodies), the Free Exercise Clause (Smith's general-applicability rule and its exceptions, religious targeting, discretionary exemptions), religious speakers in public forums and government programs (the Lamb's Chapel, Rosenberger and Good News Club line), the Religious Freedom Restoration Act (RFRA) and the Religious Land Use and Institutionalized Persons Act (RLUIPA), church autonomy and the ministerial exception, and Title VII religious accommodation as it bears on Groff. Taxpayer standing for Establishment Clause claims appears only through its two landmark cases in section 2.8. Stone's planned religion principles are used in section 4 only to frame questions; they are not law and not answers.
 
 Organization:
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only; the user finds the vehicles).
+4. Questions to answer before the landmarks (questions only).
 
 Section 3.3 sets out where funding doctrine stands in full, because Zelman v. Simmons-Harris (OT2001) is expected to come out differently from history and that difference will carry into the later funding and inclusion landmarks; sections 4.1 to 4.3 collect the questions that ripple raises.
 
@@ -106,7 +106,7 @@ OT1999
 
 ## 2. Reserved landmark cases
 
-Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For Good News Club (OT2000), Zelman (OT2001) and the Roman Catholic Diocese of Brooklyn application (OT2020), which have no question document online, the question comes from the Court's opinion: "as stated" follows the opinion's own statement, "as described" is a close paraphrase. Long preambles are omitted and marked. The two taxpayer-standing landmarks in 2.8 appear only as cross-references; their questions and Stone fields are kept in the separation-of-powers tracker.
+Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For Good News Club (OT2000), Zelman (OT2001) and the Roman Catholic Diocese of Brooklyn application (OT2020), which have no question document online, the question comes from the Court's opinion: "as stated" follows the opinion's own statement, "as described" is a close paraphrase. Long preambles are omitted and marked.
 
 Status says what this Court's law already does to each case: Open (nothing decided bears directly), Framed (decided law sets the terms but leaves the question), Partly answered, Reshaped (the question arrives in a different form because a predicate differs from history), or Collision (deciding it as history did would require overruling this Court's own holding).
 
@@ -160,7 +160,7 @@ Character recommended reasoning:
 ### OT2019: Espinoza v. Montana Department of Revenue, 591 U.S. 464 (No. 18-1195)
 
 Area: Funding; tax-credit scholarships; state no-aid clauses.
-Status: Reshaped. History held that a State funding private-school scholarships may not exclude schools because they are religious. Here Jackson and Strout make public payment for integrated devotional instruction a federal Establishment Clause problem and hold a refusal to pay for it consistent with free exercise, while saying religious identity alone establishes no defect; whether a tax-credit scholarship is public payment at all is undecided (Mueller's general tax deduction survives as a distinct relationship), and taxpayer standing is in the separation-of-powers tracker. If such scholarships count as public payment, history's result would collide with Jackson Part I.
+Status: Reshaped. History held that a State funding private-school scholarships may not exclude schools because they are religious. Here Jackson and Strout make public payment for integrated devotional instruction a federal Establishment Clause problem and hold a refusal to pay for it consistent with free exercise, while saying religious identity alone establishes no defect; whether a tax-credit scholarship is public payment at all is undecided (Mueller's general tax deduction survives as a distinct relationship), and taxpayer standing is undecided (section 2.8). If such scholarships count as public payment, history's result would collide with Jackson Part I.
 > Does it violate the Religion Clauses or Equal Protection Clause of the United States Constitution to invalidate a generally available and religiously neutral student-aid program simply because the program affords students the choice of attending religious schools?
 
 Character recommended disposition:
@@ -385,7 +385,7 @@ Character recommended reasoning:
 ### OT2004: Cutter v. Wilkinson, 544 U.S. 709 (No. 03-9877)
 
 Area: RLUIPA; accommodation and the Establishment Clause.
-Status: Framed. No case construes RLUIPA. Agostini's operative limits treat restoring private exercise restricted by custody as an accommodation question, not an automatic financing prohibition, and Kiryas Joel and Amos (entering law) allow accommodation beyond what free exercise requires, short of denominational allocation. Boerne's §5 holding and RLUIPA's congressional-power footing are in the commerce tracker.
+Status: Framed. No case construes RLUIPA. Agostini's operative limits treat restoring private exercise restricted by custody as an accommodation question, not an automatic financing prohibition, and Kiryas Joel and Amos (entering law) allow accommodation beyond what free exercise requires, short of denominational allocation.
 > Whether Congress violated the Establishment Clause by enacting the Religious Land Use and Institutionalized Persons Act, 42 U.S.C. § 2000cc-l through § 2000cc-5, which requires state officials to lift unnecessary governmental burdens imposed on the religious exercise of institutionalized persons under their control.
 
 Character recommended disposition:
@@ -462,7 +462,7 @@ Character recommended reasoning:
 ### OT2020: Tanzin v. Tanvir, 592 U.S. 43 (No. 19-71)
 
 Area: RFRA remedies; damages against officials.
-Status: Open. Clearwater and Swanner reserved retrospective monetary liability under RFRA, and Browne left RFRA's appropriate-relief language undecided for recovering collected interest. Damages against States under RLUIPA (Sossamon) are in the commerce tracker.
+Status: Open. Clearwater and Swanner reserved retrospective monetary liability under RFRA, and Browne left RFRA's appropriate-relief language undecided for recovering collected interest.
 > Whether the Religious Freedom Restoration Act of 1993, 42 U.S.C. 2000bb et seq., permits suits seeking money damages against individual federal employees.
 
 Character recommended disposition:
@@ -519,17 +519,29 @@ Character recommended disposition:
 
 Character recommended reasoning:
 
-### 2.8 Cross-references: taxpayer standing
+### 2.8 Taxpayer standing
 
 ### OT2006: Hein v. Freedom From Religion Foundation, 551 U.S. 587 (No. 06-157)
 
 Area: Taxpayer standing (federal; Establishment Clause).
-Status: Open. This Court's Establishment Clause standing rulings require personal, concrete exposure: Robinson accepted repeated personal receipt of the city's seal and rejected general residence or taxation, and Ingebretsen recognized no general taxpayer standing. The question and Stone's fields are kept in `STONE_SEPARATION_OF_POWERS_AND_STANDING.md`, section 2.1, and are not repeated here.
+Status: Open. This Court's Establishment Clause standing rulings require personal, concrete exposure: Robinson accepted repeated personal receipt of the city's seal and rejected general residence or taxation, and Ingebretsen recognized no general taxpayer standing.
+> Whether taxpayers have standing under Article III of the Constitution to challenge on Establishment Clause grounds the actions of Executive Branch officials pursuant to an Executive Order, where the plaintiffs challenge no Act of Congress, the Executive Branch actions at issue are financed only indirectly through general appropriations, and no funds are disbursed to any entities or individuals outside the government.
+
+Character recommended disposition:
+
+Character recommended reasoning:
 
 ### OT2010: Arizona Christian School Tuition Organization v. Winn, 563 U.S. 125 (No. 09-987)
 
 Area: Taxpayer standing (state tax credits for religious-school tuition).
-Status: Open, as for Hein; the question and Stone's fields are kept in the separation-of-powers tracker. The merits question Winn never reached, whether tax-credit scholarships are public financing, is question 9 below.
+Status: Open, as for Hein. The merits question Winn never reached, whether tax-credit scholarships are public financing, is question 9 below.
+> 1. Do Respondents lack taxpayer standing because they do not allege, nor can they, that the Arizona Tuition Tax Credit involves the expenditure or appropriation of state funds?
+> 2. Is the Respondents' alleged injury-which is solely based on the theory that Arizona's tax credit reduces the state's revenue-too speculative to confer taxpayer standing, especially when considering that the credit reduces the state's financial burden for providing public education and is likely the catalyst for new sources of state income?
+> 3. Given that the Arizona Supreme Court has authoritatively determined, under state law, that the money donated to tuition granting organizations under Arizona's tax credit is private, not state, money, can the Respondents establish taxpayer standing to challenge the decisions of private taxpayers as to where they donate their private money?
+
+Character recommended disposition:
+
+Character recommended reasoning:
 
 ## 3. The doctrine as it stands
 
@@ -572,7 +584,7 @@ Doctrine now:
 - Refusals to fund. A State may refuse to pay for integrated devotional instruction, and the refusal does not violate the Free Exercise Clause whether or not attending the school is a central religious tenet (Strout). A refusal may not rest on religious hostility or exclude religious speakers from a neutral private-expression forum, and Strout reserved whether a State may categorically reject genuinely severable secular work solely because the provider is religious.
 - Remedy. Relief must address the established conflict and preserve lawful, severable applications; it does not require cutting off every payment or excluding every religious provider, and a categorical declaration cannot substitute for that scope inquiry (Jackson Part II; Mitchell Holding 4).
 
-What is undecided: any voucher program other than Jackson's provider-cost payment and Strout's capped tuition; whether parents' range of secular options matters; tax credits (Mueller covers a deduction, and taxpayer standing is in the separation-of-powers tracker); what "reliable separation" a private religious school must show; whether the Free Exercise Clause forbids excluding religious providers from secular programs; religious charter schools; and whether a public service delivered to a child at a religious school (Zobrest's interpreter, onsite special education) is an Agostini service or purchased instruction. Two OT2000 vehicles reach these edges: K.D.M. v. Reedsport School District and Children's Healthcare Is a Legal Duty v. Min De Parle.
+What is undecided: any voucher program other than Jackson's provider-cost payment and Strout's capped tuition; whether parents' range of secular options matters; tax credits (Mueller covers a deduction, and taxpayer standing is undecided); what "reliable separation" a private religious school must show; whether the Free Exercise Clause forbids excluding religious providers from secular programs; religious charter schools; and whether a public service delivered to a child at a religious school (Zobrest's interpreter, onsite special education) is an Agostini service or purchased instruction. Two OT2000 vehicles reach these edges: K.D.M. v. Reedsport School District and Children's Healthcare Is a Legal Duty v. Min De Parle.
 
 Zobrest in plain terms. James Zobrest, who is deaf, attended a Catholic high school; the school district refused to supply a sign-language interpreter there under the federal disability-education law, so his parents paid for one and sued. The real Court (Rehnquist, 5-4) held that providing the interpreter would not violate the Establishment Clause, a ruling history later used as a bridge to its Agostini, Mitchell and Zelman decisions. Here the Court (O'Connor, joined by Stone, Blackmun, Stevens and Souter, 5-4) decided no Establishment Clause question: it sent the live reimbursement claim back so the lower courts could first decide whether federal law, the regulation or state law authorized or barred the service, holding that the absence of a federal duty is not itself a prohibition. White, Scalia, Kennedy and Thomas would have reached and rejected the Establishment Clause bar. Every later funding case here repeats that Zobrest supplies no Establishment Clause holding.
 
@@ -655,7 +667,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2001, Zelman v. Simmons-Harris; OT2021, Carson v. Makin; OT2024, Oklahoma Statewide Charter School Board v. Drummond.
 8. Is the funded-function rule applied payment by payment, school by school or program-wide? If most participating schools integrate devotion, is the program invalid, or only the payments to those schools? Jackson required relief confined to the established conflict, with lawful severable applications preserved and no all-provider exclusion, and Mitchell required relief at the proved scope.
     > Answer before: OT2001, Zelman v. Simmons-Harris.
-9. Is a tax credit for donations to a scholarship organization, or a tax deduction for tuition, public payment under the funded-function rule? Mueller's general deduction survives for its own relationship; Stone's separate opinion in Jackson (noncontrolling) would have reached tax credits. Taxpayer standing is in the separation-of-powers tracker.
+9. Is a tax credit for donations to a scholarship organization, or a tax deduction for tuition, public payment under the funded-function rule? Mueller's general deduction survives for its own relationship; Stone's separate opinion in Jackson (noncontrolling) would have reached tax credits.
     > Answer before: OT2010, Arizona Christian School Tuition Organization v. Winn; OT2019, Espinoza v. Montana Department of Revenue.
 10. Is a publicly controlled service delivered to a child at a religious school (Zobrest's sign-language interpreter, onsite special education) an Agostini service that may be provided with safeguards, or purchased instruction? Zobrest's remand left the statutory and constitutional questions open; K.D.M. v. Reedsport School District, on the OT2000 list, presents onsite special education.
     > Answer before: OT2001, Zelman v. Simmons-Harris.
@@ -731,7 +743,7 @@ Questions only. Under each, the landmarks it should be answered before.
 
 37. Is RFRA a valid exercise of congressional power as applied to federal law? Boerne decided only its State and local reach; Adams and Browne applied federal RFRA without deciding its validity.
     > Answer before: OT2005, Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal.
-38. Does a statute requiring prisons to accommodate religious exercise violate the Establishment Clause? Agostini treats restoring exercise restricted by custody as an accommodation question, and Kiryas Joel and Amos allow accommodation beyond what free exercise requires, short of denominational allocation. The congressional-power side is in the commerce tracker.
+38. Does a statute requiring prisons to accommodate religious exercise violate the Establishment Clause? Agostini treats restoring exercise restricted by custody as an accommodation question, and Kiryas Joel and Amos allow accommodation beyond what free exercise requires, short of denominational allocation.
     > Answer before: OT2004, Cutter v. Wilkinson.
 39. How specific must the government's RFRA showing be? This Court requires proof as applied to the claimant, with concrete alternatives and legally comparable exceptions, and held that a conceded collection interest and the need for uniform taxation do not complete it (Adams, Browne, Stone dissenting). Do congressional findings about a dangerous drug or a treaty obligation settle the showing?
     > Answer before: OT2005, Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal.
@@ -741,7 +753,7 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2015, Zubik v. Burwell.
 42. Does RFRA authorize, or require, agencies to create religious exemptions from a statutory duty, and must they account for those who lose a statutory benefit? American Life League holds that RFRA reaches later federal statutes unless Congress expressly excludes it.
     > Answer before: OT2019, Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania.
-43. Does RFRA's "appropriate relief" include damages against individual federal officials? Clearwater and Swanner reserved retrospective monetary liability, and Browne left the relief language undecided. Damages against States under RLUIPA (Sossamon) are in the commerce tracker.
+43. Does RFRA's "appropriate relief" include damages against individual federal officials? Clearwater and Swanner reserved retrospective monetary liability, and Browne left the relief language undecided.
     > Answer before: OT2020, Tanzin v. Tanvir.
 44. How much deference do prison officials' security judgments receive under a least-restrictive-means test, including for grooming rules and for a spiritual adviser's presence, touch and audible prayer in the execution chamber?
     > Answer before: OT2014, Holt v. Hobbs; OT2021, Ramirez v. Collier.
