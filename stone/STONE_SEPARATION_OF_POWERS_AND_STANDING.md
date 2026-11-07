@@ -485,7 +485,7 @@ Character recommended reasoning:
 ### OT2019: Seila Law LLC v. Consumer Financial Protection Bureau, 591 U.S. 197 (No. 19-7)
 
 Area: Removal.
-Status: Open. No removal case has been decided; Humphrey's Executor and Morrison v. Olson are entering law.
+Status: Open. No removal case has been decided; Humphrey's Executor and Morrison v. Olson are still good law.
 > Whether the vesting of substantial executive authority in the Consumer Financial Protection Bureau, an independent agency led by a single director, violates the separation of powers.
 
 The Court added: if the Bureau is unconstitutional on the basis of the separation of powers, can 12 U.S.C. §5491(c)(3) be severed from the Dodd-Frank Act?

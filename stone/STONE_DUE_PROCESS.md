@@ -377,7 +377,7 @@ Character recommended reasoning:
 ### OT2004: Town of Castle Rock v. Gonzales, 545 U.S. 748 (No. 04-278)
 
 Area: Procedural due process (enforcement of restraining orders).
-Status: Framed by Sandin's test for state-created entitlements (substantive law that genuinely constrains officials); DeShaney is entering law.
+Status: Framed by Sandin's test for state-created entitlements (substantive law that genuinely constrains officials); DeShaney is still good law.
 > 1. Whether, in conflict with decisions of the Sixth, Seventh, Eighth, and D.C. Circuits, the Tenth Circuit's decision permitting a procedural due process claim against a local government for its failure to protect the holder of a partial restraining order from private violence, when the State itself provides no such remedy, so circumvents as to effectively repudiate this Court's holding in DeShaney rejecting a similar substantive due process claim?
 > 2. If the Fourteenth Amendment's Due Process Clause is read to permit, via its procedural aspects, the same substantive claims already rejected by this Court in DeShaney, what kind of process is required for police inaction with respect to a partial restraining order not to violate the constitution?
 

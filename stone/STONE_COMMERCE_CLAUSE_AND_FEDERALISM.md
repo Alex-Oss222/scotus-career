@@ -571,7 +571,7 @@ Questions only. Under each, the landmarks it should be answered before.
    - Alternative vehicle: Alsbrook v. City of Maumelle, 184 F.3d 999 (8th Cir. 1999) (en banc), holding Title II invalid under §5 for police-officer certification, is an alternative to Hason. Its Supreme Court disposition (petition No. 99-423) is not confirmed, and OT1999 is closed, so Hason is the cleaner vehicle.
 17. Are punitive or liquidated (double) damages available against a State under an Article I authorization?
     > Answer before: OT2001, Barnes v. Gorman.
-   - Vehicle: Barnes v. Gorman, 536 U.S. 181 (decided June 17, 2002; OT2001). Question as framed: Are punitive damages available in private suits under ADA Title II and §504? Note: Partly on point: the defendant was a municipal police board and the theory was spending-contract. No verified vehicle presents punitive or liquidated damages against a State under Article I; the simulation's own Kimel and Alden remands (ADEA and FLSA liquidated damages) could, with reconstruction.
+   - Vehicle: Barnes v. Gorman, 536 U.S. 181 (decided June 17, 2002; OT2001). Question as framed: Are punitive damages available in private suits under ADA Title II and §504? Note: Partly on point: the defendant was a municipal police board and the theory was spending-contract. No verified vehicle presents punitive or liquidated damages against a State under Article I; this Court's own Kimel and Alden remands (ADEA and FLSA liquidated damages) could, with reconstruction.
 18. Does the state-court rule of Alden reach statutes other than the FLSA?
     > Answer before: OT2021, Torres v. Texas Department of Public Safety.
    - Vehicle: None verified. Note: Historically these suits were barred after 1999, so no real record exists. Needs reconstruction, or wait for a statute that presents it.
@@ -583,7 +583,7 @@ Questions only. Under each, the landmarks it should be answered before.
    - Vehicle: Lapides v. Board of Regents, 535 U.S. 613 (decided May 13, 2002; OT2001). Question as framed: Does a State waive immunity by removing a case to federal court? Note: Historical docket; answers the waiver question Schacht and Florida Prepaid left open.
 21. Is a State's direct amenability under the gaming statute (left fractured in Seminole Tribe) now settled by Florida Prepaid Pt III?
     > Answer before: no listed landmark.
-   - Vehicle: None verified. Note: The simulation's own Seminole remand is the only natural vehicle.
+   - Vehicle: None verified. Note: This Court's own Seminole remand is the only natural vehicle.
 22. How far do officer suits reach: claims under federal statutes enforced against state commissions, and suits by one state agency against other state officers?
     > Answer before: OT2001, Verizon Maryland Inc. v. Public Service Commission of Maryland; OT2010, Virginia Office for Protection and Advocacy v. Stewart.
 23. Is a State immune from suit in another State's courts?
