@@ -600,85 +600,85 @@ Questions only. Under each, the landmarks it should be answered before.
 ### 4.1 Abortion
 
 1. In a facial challenge, what share of the affected women must face the burden? Casey's spousal-notice holding uses "large fraction" while saying it adopts no numerical formula.
-   - Answer before: OT2005, Ayotte v. Planned Parenthood of Northern New England; OT2006, Gonzales v. Carhart.
+    - Answer before: OT2005, Ayotte v. Planned Parenthood of Northern New England; OT2006, Gonzales v. Carhart.
 2. May a State ban one specific method (the intact procedure) if it is precisely drawn and keeps usable health safeguards? Stenberg reserved this.
-   - Answer before: OT2006, Gonzales v. Carhart.
+    - Answer before: OT2006, Gonzales v. Carhart.
 3. Under the meaningful-interference tier, what evidence must a State produce to "substantiate" a health justification for clinic regulations such as admitting privileges or facility standards?
-   - Answer before: OT2015, Whole Woman's Health v. Hellerstedt; OT2019, June Medical Services v. Russo.
+    - Answer before: OT2015, Whole Woman's Health v. Hellerstedt; OT2019, June Medical Services v. Russo.
 4. What does the post-viability mental-health exception require (Voinovich), and what other duties may follow viability?
-   - Answer before: OT2006, Gonzales v. Carhart.
+    - Answer before: OT2006, Gonzales v. Carhart.
 5. What must a minor's judicial bypass provide: standard of proof, emergencies, practical usability, appeals (Lambert reserved)?
-   - Answer before: OT2005, Ayotte v. Planned Parenthood of Northern New England.
+    - Answer before: OT2005, Ayotte v. Planned Parenthood of Northern New England.
 6. Casey reserved public funding, conscience claims and specific drug approvals. Which does Stone want answered before Dobbs (OT2021) arrives as a request to overrule Casey?
-   - Answer before: OT2021, Dobbs v. Jackson Women's Health Organization.
+    - Answer before: OT2021, Dobbs v. Jackson Women's Health Organization.
 
 ### 4.2 Unenumerated liberties
 
 7. What is the general method for recognizing an unenumerated liberty, now that Glucksberg's history-only test is disclaimed?
-   - Answer before: OT2002, Lawrence v. Texas; OT2014, Obergefell v. Hodges; OT2021, Dobbs v. Jackson Women's Health Organization.
+    - Answer before: OT2002, Lawrence v. Texas; OT2014, Obergefell v. Hodges; OT2021, Dobbs v. Jackson Women's Health Organization.
 8. Is Bowers v. Hardwick overruled, or confined to its "specified conduct" (Thompson)?
-   - Answer before: OT2002, Lawrence v. Texas.
+    - Answer before: OT2002, Lawrence v. Texas.
 9. Does a general right of informational privacy exist over data the government holds, including medical information (Doe v. SEPTA assumed it)?
-   - Answer before: no listed landmark; OT2010, NASA v. Nelson is the historical vehicle.
+    - Answer before: no listed landmark; OT2010, NASA v. Nelson is the historical vehicle.
 10. What scrutiny protects parental decisions, and must a State show harm or unfitness before overriding them (Troxel reserved)?
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 11. When does a marriage-related rule "directly and substantially" interfere with marrying (Wright v. MetroHealth)?
-   - Answer before: OT2014, Obergefell v. Hodges.
+    - Answer before: OT2014, Obergefell v. Hodges.
 12. What remains of a particularized assisted-death claim (O'Connor's reservation in Glucksberg)?
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 13. When is government liable for danger it created or failed to prevent, and does a restraining-order statute create a protected entitlement to enforcement?
-   - Answer before: OT2004, Town of Castle Rock v. Gonzales.
+    - Answer before: OT2004, Town of Castle Rock v. Gonzales.
 
 ### 4.3 Civil commitment and punishment
 
 14. Does "mental abnormality" plus dangerousness suffice for sex-offender commitment, or must the State prove serious difficulty controlling behavior? Must the State provide treatment? Hendricks reserved both.
-   - Answer before: OT2001, Kansas v. Crane.
+    - Answer before: OT2001, Kansas v. Crane.
 15. May a person confined under a civil scheme challenge it as punitive as applied to him? Your Hendricks is itself an as-applied ruling; the real Seling barred such challenges.
-   - Answer before: OT2000, Seling v. Young (on the OT2000 list).
+    - Answer before: OT2000, Seling v. Young (on the OT2000 list).
 16. Is sex-offender registration (as opposed to notification) punishment, and does listing on a registry require a dangerousness hearing? W.P. reserved registration alone and Internet registries.
-   - Answer before: OT2002, Smith v. Doe; OT2002, Connecticut Department of Public Safety v. Doe.
+    - Answer before: OT2002, Smith v. Doe; OT2002, Connecticut Department of Public Safety v. Doe.
 17. May the government detain a removable person indefinitely when removal is not reasonably foreseeable? Foucha reserved narrower preventive regimes.
-   - Answer before: OT2000, Zadvydas v. Davis (on the OT2000 list).
+    - Answer before: OT2000, Zadvydas v. Davis (on the OT2000 list).
 
 ### 4.4 Defenses, evidence and elements
 
 18. May a State abolish the insanity defense, or exclude mental-disease evidence on the mental element? Egelhoff bars excluding relevant evidence on a retained element without sufficient justification; Foucha reserved the scope of state insanity defenses.
-   - Answer before: OT2005, Clark v. Arizona; OT2019, Kahler v. Kansas.
+    - Answer before: OT2005, Clark v. Arizona; OT2019, Kahler v. Kansas.
 19. May the government forcibly medicate a defendant to restore competence for trial, and must the court first weigh effects on the trial? Riggins reserved it.
-   - Answer before: OT2000, United States v. Weston (on the OT2000 list), which collides with OT2002, Sell v. United States.
+    - Answer before: OT2000, United States v. Weston (on the OT2000 list), which collides with OT2002, Sell v. United States.
 20. Is there a freestanding claim of actual innocence, and a due-process right to postconviction access to evidence? Herrera left it open.
-   - Answer before: OT2008, District Attorney's Office v. Osborne.
+    - Answer before: OT2008, District Attorney's Office v. Osborne.
 21. May a court apply an unforeseeable judicial change in a criminal rule to past conduct? Must a State apply a clarifying interpretation of a criminal statute to final convictions?
-   - Answer before: OT2000, Rogers v. Tennessee (on the OT2000 list); OT2000, Fiore v. White (on the OT2000 list).
+    - Answer before: OT2000, Rogers v. Tennessee (on the OT2000 list); OT2000, Fiore v. White (on the OT2000 list).
 22. What vagueness standard governs residual clauses that ask courts to imagine an "ordinary case"?
-   - Answer before: OT2014, Johnson v. United States; OT2017, Sessions v. Dimaya.
+    - Answer before: OT2014, Johnson v. United States; OT2017, Sessions v. Dimaya.
 23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these. This line may deserve its own document.
-   - Answer before: OT2001, Ring v. Arizona; OT2003, Blakely v. Washington; OT2004, United States v. Booker.
+    - Answer before: OT2001, Ring v. Arizona; OT2003, Blakely v. Washington; OT2004, United States v. Booker.
 
 ### 4.5 Forfeiture, fines and civil sanctions
 
 24. What test identifies a forfeitable "instrumentality," and does the Excessive Fines Clause bind the States? Bennis reserved both.
-   - Answer before: OT2018, Timbs v. Indiana.
+    - Answer before: OT2018, Timbs v. Indiana.
 25. How do Ursery and Hudson's surviving Halper approach apply to new civil sanctions?
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 
 ### 4.6 Retroactive laws
 
 26. May a legislature revive prosecutions already barred by a limitations period?
-   - Answer before: OT2002, Stogner v. California.
+    - Answer before: OT2002, Stogner v. California.
 27. How far does the Morales and Garner test for parole changes reach (abolition of parole, different substitutes)?
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 
 ### 4.7 Procedural due process
 
 28. Under Sandin's test, what makes a prison rule a genuine constraint, and what process does supermax-type confinement require?
-   - Answer before: no listed landmark; OT2004, Wilkinson v. Austin is the historical vehicle.
+    - Answer before: no listed landmark; OT2004, Wilkinson v. Austin is the historical vehicle.
 29. What process is due when a State withholds payment under a public contract?
-   - Answer before: OT2000, Lujan v. G & G Fire Sprinklers, Inc. (on the OT2000 list).
+    - Answer before: OT2000, Lujan v. G & G Fire Sprinklers, Inc. (on the OT2000 list).
 
 ### 4.8 Punitive damages
 
 30. How should appellate courts review a punitive award's amount: de novo, as Bajakajian's eight Justices required for fines, or with deference? Stone's BMW view would not review the amount at all.
-   - Answer before: OT2000, Cooper Industries, Inc. v. Leatherman Tool Group, Inc. (on the OT2000 list).
+    - Answer before: OT2000, Cooper Industries, Inc. v. Leatherman Tool Group, Inc. (on the OT2000 list).
 31. What ratio guidance, and what limits on punishing harm to nonparties, follow from BMW?
-   - Answer before: OT2002, State Farm Mutual Automobile Insurance Co. v. Campbell; OT2006, Philip Morris USA v. Williams.
+    - Answer before: OT2002, State Farm Mutual Automobile Insurance Co. v. Campbell; OT2006, Philip Morris USA v. Williams.

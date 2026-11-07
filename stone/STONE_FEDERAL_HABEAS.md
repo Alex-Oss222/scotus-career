@@ -565,85 +565,85 @@ Questions only. Under each, the landmarks it should be answered before.
 ### 4.1 Timeliness and exhaustion
 
 1. What makes a state postconviction application "properly filed" under §2244(d)(2), and does one containing procedurally barred claims stop the one-year clock?
-   - Answer before: OT2000, Artuz v. Bennett (on the OT2000 list).
+    - Answer before: OT2000, Artuz v. Bennett (on the OT2000 list).
 2. Does a pending federal petition stop the clock, and what happens to a prisoner whose timely federal petition is dismissed for failure to exhaust after the year has run?
-   - Answer before: OT2000, Duncan v. Walker (on the OT2000 list); OT2004, Rhines v. Weber.
+    - Answer before: OT2000, Duncan v. Walker (on the OT2000 list); OT2004, Rhines v. Weber.
 3. May a district court stay a mixed petition while the prisoner exhausts, instead of dismissing it under Rose v. Lundy, and on what showing?
-   - Answer before: OT2004, Rhines v. Weber.
+    - Answer before: OT2004, Rhines v. Weber.
 4. Is the one-year period subject to equitable tolling, and can a lawyer's misconduct or gross negligence qualify?
-   - Answer before: OT2009, Holland v. Florida.
+    - Answer before: OT2009, Holland v. Florida.
 5. Does a credible showing of actual innocence excuse an untimely petition, and does delay count against the showing?
-   - Answer before: OT2012, McQuiggin v. Perkins.
+    - Answer before: OT2012, McQuiggin v. Perkins.
 
 ### 4.2 Default, cause and innocence
 
 6. Is actual innocence, standing alone, a constitutional claim, and if so what showing does it require? Herrera and Delo v. Blair left it open; Stone alone would require clear and convincing evidence. See also the due process tracker, question 20.
-   - Answer before: OT2005, House v. Bell.
+    - Answer before: OT2005, House v. Bell.
 7. Under Schlup, may the court weigh all the evidence, including evidence that would be inadmissible at trial, and how do appellate courts review a gateway ruling? Schlup reserved the second point.
-   - Answer before: OT2005, House v. Bell.
+    - Answer before: OT2005, House v. Bell.
 8. Can a postconviction lawyer's ineffectiveness ever supply cause for a default, despite Coleman? Does it matter that state law sends ineffective-assistance-of-trial-counsel claims to postconviction proceedings?
-   - Answer before: OT2011, Martinez v. Ryan; OT2021, Shinn v. Ramirez.
+    - Answer before: OT2011, Martinez v. Ryan; OT2021, Shinn v. Ramirez.
 9. May a federal court raise procedural default, or untimeliness, on its own when the State has not? Trest reserved it.
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 
 ### 4.3 Fact development
 
 10. After Michael Williams, is a diligent post-AEDPA applicant entitled to an evidentiary hearing under the Townsend and Keeney standards, or only permitted one?
-   - Answer before: OT2010, Cullen v. Pinholster.
+    - Answer before: OT2010, Cullen v. Pinholster.
 11. Is review under §2254(d)(1) limited to the record that was before the state court?
-   - Answer before: OT2010, Cullen v. Pinholster.
+    - Answer before: OT2010, Cullen v. Pinholster.
 12. When a court excuses a default because postconviction counsel was ineffective, is that same lawyer's lack of diligence still attributed to the prisoner under §2254(e)(2)?
-   - Answer before: OT2021, Shinn v. Ramirez.
+    - Answer before: OT2021, Shinn v. Ramirez.
 
 ### 4.4 Deference under §2254(d)
 
 13. How do the "contrary to" and "unreasonable application" clauses divide their work? The general division split 4-4 in Terry Williams and Stone joined neither group.
-   - Answer before: OT2002, Lockyer v. Andrade; OT2010, Harrington v. Richter.
+    - Answer before: OT2002, Lockyer v. Andrade; OT2010, Harrington v. Richter.
 14. Must a federal court first decide whether the state court erred before asking whether its decision was unreasonable?
-   - Answer before: OT2002, Lockyer v. Andrade.
+    - Answer before: OT2002, Lockyer v. Andrade.
 15. Does §2254(d) apply to a state court's unexplained summary denial, and if so what reasons must a federal court assume the state court had?
-   - Answer before: OT2010, Harrington v. Richter.
+    - Answer before: OT2010, Harrington v. Richter.
 16. Is a state court's refusal to extend a rule of this Court to a new context an "unreasonable application"? Terry Williams left it open.
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 17. How do §2254(d)(2) (unreasonable fact determinations) and §2254(e)(1) (clear and convincing evidence to rebut state findings) relate? Terry Williams left it open.
-   - Answer before: OT2002, Miller-El v. Cockrell.
+    - Answer before: OT2002, Miller-El v. Cockrell.
 18. Does §2254(d) violate Article III or the Suspension Clause in any application? Terry Williams reserved it.
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 
 ### 4.5 Harmless error
 
 19. For constitutional errors outside the four Chapman categories, which standard governs on habeas: Chapman, Kotteakos (with or without O'Neal's grave-doubt rule), or a test by type of error? Who bears the burden?
-   - Answer before: OT2006, Fry v. Pliler.
+    - Answer before: OT2006, Fry v. Pliler.
 20. Does Stone want a general rule (his O'Neal Part III view, which had three votes) or to keep deciding category by category?
-   - Answer before: OT2006, Fry v. Pliler.
+    - Answer before: OT2006, Fry v. Pliler.
 21. When a state court has already applied Chapman, does a federal court apply Chapman itself, defer to the state ruling under §2254(d), or require both?
-   - Answer before: OT2014, Davis v. Ayala; OT2021, Brown v. Davenport.
+    - Answer before: OT2014, Davis v. Ayala; OT2021, Brown v. Davenport.
 
 ### 4.6 New rules
 
 22. After O'Dell, what test identifies a watershed rule, and which other rules qualify?
-   - Answer before: OT2003, Schriro v. Summerlin; OT2007, Danforth v. Minnesota; OT2020, Edwards v. Vannoy.
+    - Answer before: OT2003, Schriro v. Summerlin; OT2007, Danforth v. Minnesota; OT2020, Edwards v. Vannoy.
 23. Is a rule that moves a sentencing fact from judge to jury (Apprendi, and Ring when it comes) substantive or procedural for Teague, and could it be watershed? See the footnote below and the due process tracker, question 23.
-   - Answer before: OT2003, Schriro v. Summerlin.
+    - Answer before: OT2003, Schriro v. Summerlin.
 24. Has a rule been "made retroactive to cases on collateral review by the Supreme Court" under §2244(b)(2)(A) only when a holding says so, or also when it follows from several holdings taken together?
-   - Answer before: OT2000, Tyler v. Cain (on the OT2000 list).
+    - Answer before: OT2000, Tyler v. Cain (on the OT2000 list).
 25. Must state courts use Teague, or may they give new rules broader effect? Must they give new substantive rules retroactive effect?
-   - Answer before: OT2007, Danforth v. Minnesota; OT2015, Montgomery v. Louisiana.
+    - Answer before: OT2007, Danforth v. Minnesota; OT2015, Montgomery v. Louisiana.
 
 ### 4.7 Prior convictions, federal prisoners and jurisdiction
 
 26. May a prisoner attack an expired prior conviction that enhances his current sentence, through §2254 or §2255, and what exceptions (complete denial of counsel, no meaningful earlier review, newly discovered evidence) apply? Custis and Trest reserved these.
-   - Answer before: OT2000, Daniels v. United States (on the OT2000 list); OT2000, Lackawanna County District Attorney v. Coss (on the OT2000 list).
+    - Answer before: OT2000, Daniels v. United States (on the OT2000 list); OT2000, Lackawanna County District Attorney v. Coss (on the OT2000 list).
 27. When may a federal prisoner use §2241 through §2255(e)'s saving clause after a later statutory ruling shows his conduct was not a crime?
-   - Answer before: OT2022, Jones v. Hendrix.
+    - Answer before: OT2022, Jones v. Hendrix.
 28. Do §2244(b)(1)-(2) bind this Court's original habeas jurisdiction? Felker reserved it.
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 29. How far does the Suspension Clause protect noncitizens: removal orders resting on legal error, detainees held abroad, and expedited removal at the border? Felker and Goncalves frame it.
-   - Answer before: OT2000, INS v. St. Cyr (on the OT2000 list); OT2007, Boumediene v. Bush; OT2019, Department of Homeland Security v. Thuraissigiam.
+    - Answer before: OT2000, INS v. St. Cyr (on the OT2000 list); OT2007, Boumediene v. Bush; OT2019, Department of Homeland Security v. Thuraissigiam.
 30. Does any State qualify for chapter 154's expedited capital procedures, and in what proceeding may that be decided after Ashmus?
-   - Answer before: no listed landmark.
+    - Answer before: no listed landmark.
 31. Does Heck's favorable-termination rule bar a §1983 damages claim when habeas was never available to the plaintiff?
-   - Answer before: OT2000, Randell v. Johnson (on the OT2000 list).
+    - Answer before: OT2000, Randell v. Johnson (on the OT2000 list).
 
 ## Footnote: why Almendarez-Torres is a sleeper
 

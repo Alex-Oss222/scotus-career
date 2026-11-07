@@ -12,88 +12,155 @@ Organization:
 
 OT1991
 - Wyoming v. Oklahoma
+  - Held (Stone for the Court, 7-2): Wyoming's documented loss of coal severance-tax revenue, caused by Oklahoma's law requiring its utilities to buy a share of Oklahoma coal, was the State's own Article III injury, and the Court exercised its original jurisdiction. The law was struck down as discrimination against interstate commerce.
 - Robertson v. Seattle Audubon Society
+  - Held (Thomas for the Court, 9-0): Congress's timber provision changed the law governing the pending forest suits by substituting new requirements while leaving courts to decide compliance, so it did not violate Article III by directing results under unchanged law.
 - Lujan v. Defenders of Wildlife
+  - Held (Scalia for the Court, 7-2): A plaintiff must prove a concrete, imminent personal injury, traceable to the defendant and likely to be redressed, with evidence suited to the stage of the case. Past visits and a vague intention to return to see endangered species abroad were not enough, and a citizen-suit clause cannot replace that injury.
 - United States Department of Commerce v. Montana
+  - Held (Stevens for the Court, 9-0): A constitutional challenge to the method Congress chose for apportioning House seats among the States is reviewable and not a political question, and the challengers had standing to bring it. On the merits, the equal-proportions method was upheld.
 - Franklin v. Massachusetts
+  - Held (Stone for the Court, 9-0): Massachusetts and its voters had standing to challenge counting overseas federal personnel in the census that cost the State a House seat, and, for five Justices, the Secretary of Commerce's completed census decision is final agency action reviewable under the Administrative Procedure Act even though the President transmits the result. The inclusion was upheld.
 - Nordlinger v. Hahn
+  - Held (Blackmun for the Court, 8-1): A taxpayer who claimed no burden on her own interstate travel could not obtain stricter review by asserting the rights of absent interstate travelers, because she showed neither a qualifying relationship with them nor any obstacle to their suing for themselves.
 - Georgia v. McCollum
+  - Held (Blackmun for the Court, 7-2): A State may object to a criminal defendant's purposeful racial peremptory strikes by asserting the excluded jurors' equal-protection rights, because the discrimination harms its own tribunal, it has a direct relationship with the jurors, and the jurors face substantial obstacles to suing on their own.
 
 OT1992
 - Church of Scientology of California v. United States
+  - Held (Stevens for the Court, 9-0): Complying with an order enforcing an IRS summons does not make a timely appeal moot, because a court could still give partial relief by ordering the Government to return or destroy copies it kept.
 - Nixon v. United States
+  - Held (Stone for the Court, 9-0): The Senate's use of a committee to take evidence in an impeachment trial, while the full Senate hears argument and decides, is committed to the Senate and not reviewable by courts. Six Justices joined this ground, which leaves open whether courts may enforce the oath, presiding-officer or two-thirds requirements.
 - Northeastern Florida Chapter, AGC v. Jacksonville
+  - Held (Thomas for the Court, 7-2): Contractors able and ready to bid suffer a concrete injury when a set-aside denies them an equal chance to compete, without proving they would have won a contract. Repeal did not moot the case because the replacement ordinance continued the same exclusion.
 
 OT1993
 - Weiss v. United States
+  - Held (Kennedy for the Court, 9-0): Military judges are officers under the Appointments Clause, but commissioned officers already appointed by the President and confirmed by the Senate need no second appointment to serve as military judges, because those duties are germane to the offices they already hold.
 - Dalton v. Specter
+  - Held (Souter for the Court, 9-0): The 1990 Base Closure Act bars a suit under the Administrative Procedure Act to stop carrying out an approved package of base closures because of alleged defects in the selection process. The Court rested on that statutory bar alone, not on whether the recommendations were final agency action.
 - Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co.
+  - Held (Stone for the Court, 5-3): Article III permits section 27A(b), which requires courts to reinstate securities-fraud suits dismissed as untimely after June 19, 1991 that were timely under the earlier rule, because courts independently apply its objective conditions and decide the claims. The holding gives no unrestricted power to reopen completed judgments.
 
 OT1994
 - U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership
+  - Held (Scalia for the Court, 9-0): When a case becomes moot while under review, the Court may still decide what to do with the judgment below, but a party that settles voluntarily is ordinarily not entitled to have that judgment vacated. Vacatur was denied and the case dismissed as moot.
 - FEC v. NRA Political Victory Fund
+  - Held (Thomas for the Court, 6-2): The Federal Election Commission could not petition for certiorari on its own authority in this enforcement case, and an authorization from the Solicitor General given after the filing period had run could not ratify the petition. The writ was dismissed.
 - Lebron v. National Railroad Passenger Corp.
+  - Held (Scalia for the Court, 8-1): When the Federal Government creates a corporation by special law to pursue governmental objectives and permanently keeps the power to appoint a majority of its directors, the corporation is part of the government for First Amendment purposes, whatever the statute calls it, and Amtrak meets that test. The speech claim was remanded.
 - Plaut v. Spendthrift Farm, Inc.
+  - Held (Stone for the Court, 5-4): Applying Morgan Stanley, Congress may require reinstatement under section 27A(b) of a qualifying securities suit even though its dismissal as untimely had become final without appeal, because courts apply the objective conditions and decide every claim and defense. The holding does not permit legislative findings, dictated liability, or reopening of final merits judgments.
 - Metropolitan Washington Airports Authority v. Hechinger
+  - Held (Stevens for the Court, 9-0): Congress may advise, oversee and require reports, but may not give its own agent legally operative control over an executive body's decisions. The airports authority's revised Board of Review was such an agent, so its control provisions are unconstitutional.
 - Ryder v. United States
+  - Held (Ginsburg for the Court, 9-0): A litigant who makes a timely challenge to the appointment of the officers deciding his case is entitled to a fresh hearing before properly appointed officers, and the de facto officer doctrine does not save the defective panel's judgment.
 - Gutierrez de Martinez v. Lamagno
+  - Held (Ginsburg for the Court, 6-3): A Westfall Act certification that a federal employee acted within the scope of employment is subject to court review before substitution of the United States as defendant becomes final; the certification is conclusive only for removal to federal court.
 - Miller v. Johnson (standing)
+  - Held (Stone for the Court, 9-0 on standing): Voters personally assigned to the challenged district may sue over their asserted unequal treatment even though their constitutional theory ultimately fails, but residence alone is not automatic standing. On the merits, the judgment for Georgia was affirmed, 5-4.
 
 OT1995
 - Wisconsin v. City of New York (standing)
+  - Held (Stevens for the Court, 9-0): In a part Stone did not join, eight Justices held that the voter appellants had standing because the census decision was concretely tied to a claimed lost California seat and court review was substantially likely to redress it. The judgment below was reversed on the constitutional merits.
 - United Food and Commercial Workers v. Brown Group
+  - Held (Souter for the Court, 9-0): The rule that an association's suit must not require its members' individual participation is prudential, so Congress may set it aside, and the WARN Act does so by letting a union sue for its members' back pay. Article III injury, traceability and redress must still be shown.
 - Loving v. United States
+  - Held (Kennedy for the Court, 9-0): Congress validly delegated to the President the definition of aggravating factors for military capital sentencing, because Congress defined the capital offenses and punishments and set intelligible limits, even assuming capital delegations require greater specificity. Thomas concurred only in the judgment.
 - Bush v. Vera (standing)
+  - Held (Thomas for the Court, 9-0 on standing): Voters personally assigned to the challenged districts had standing without showing further harm, but a plaintiff with no personal connection to those districts had no independent standing. Stone agreed only in the judgment on standing.
 - Felker v. Turpin
+  - Held (O'Connor for the Court, 9-0): The 1996 habeas statute's bar on certiorari review of a court of appeals' decision on authorizing a second habeas application required dismissal of the certiorari petition but left the Court's original habeas power intact. As applied, the scheme neither suspends habeas review nor dictates a judicial outcome.
 
 OT1996
 - Humane Society v. Babbitt
+  - Held (Souter for the Court, 9-0): Even assuming injury from Lota's absence from the Milwaukee Zoo, the Society lacked standing because an earlier, independent donation caused that loss, not the challenged certificate amendment. Invoking a procedural right does not cure the missing link to a concrete interest.
 - Abebe-Jira v. Negewo
+  - Held (Stevens for the Court, 9-0 on the political question): Individual claims of official torture abroad are not barred as a political question, because deciding them applies a definite prohibition to personal conduct without judging Ethiopia's government or directing foreign policy. The damages judgment was affirmed, 7-2.
 - FEC v. Legi-Tech
+  - Held (Thomas for the Court, 9-0): After the congressional officers were removed from the Federal Election Commission, the lawfully constituted Commission's actual reconsideration and fresh probable-cause finding cured the earlier structural defect, so its enforcement action may continue. Such a cure cannot replace a skipped mandatory step or revive an expired deadline.
 - Arizonans for Official English v. Arizona
+  - Held (Stevens for the Court, 9-0): A state employee's challenge to a state employment rule became moot when the employee voluntarily left state employment with no intention to return. The Court vacated the lower courts' judgments and directed dismissal without deciding whether the initiative sponsors had standing.
 - Bennett v. Spear
+  - Held (Scalia for the Court, 9-0): Irrigators who allege loss of water because of a Biological Opinion that the operating agency said it would follow have standing. The Endangered Species Act's authorization for any person to sue removes the zone-of-interests limit for claims within its channels, and the other claims may proceed under the Administrative Procedure Act.
 - Robinson v. City of Edmond
+  - Held (Breyer for the Court, 9-0): Repeatedly receiving the City's own allegedly sectarian seal gives a person standing to seek relief from its continued use, but residence, employment, paying taxes, mere awareness or a concession of jurisdiction is not enough. Stone agreed only that the Court should reach the merits.
 - Kadic v. Karadzic
+  - Held (Ginsburg for the Court, 9-0 on the political question): Claims against an individual are not a political question merely because they arise during a foreign civil war or concern a political leader; dismissal requires an identified constitutional commitment, a lack of manageable standards or another concrete obstacle, and none was shown. Both actions were returned for further proceedings, 7-2.
 - Pic-A-State Pennsylvania v. Reno
+  - Held (Kennedy for the Court, 9-0): A business that stopped its interstate lottery-ticket service but intends to resume, facing serious criminal penalties, brings a concrete and ripe pre-enforcement challenge without waiting for prosecution. On the merits, Congress may prohibit the interstate transmission, so relief was denied.
 - Edmond v. United States
+  - Held (Stone for the Court, 9-0): The civilian judges of the Coast Guard Court of Criminal Appeals are inferior officers whom the Secretary of Transportation may appoint, because their work is directed and supervised by superior officers, including review of their decisions by presidentially appointed, Senate-confirmed judges. Souter concurred on a different rationale.
 - Clinton v. Jones
+  - Held (Scalia for the Court, 9-0): A sitting President has no temporary immunity from a federal civil suit over unofficial conduct before taking office, and official-act immunity turns on the function performed, not the office. Ordering in advance that trial wait until the term ended was an abuse of discretion; particular presidential duties receive case-specific accommodation.
 - Citizens for a Better Environment v. Steel Co.
+  - Held (Scalia for the Court, 9-0): A federal court may not assume disputed Article III jurisdiction in order to decide the merits (five Justices), and relief such as civil penalties or a declaration cannot redress reporting violations that ended before suit (six Justices). The case was ordered dismissed.
 - Plyler v. Moore
+  - Held (Kennedy for the Court, 9-0): The Prison Litigation Reform Act's termination provision, applied with its full original safeguard for relief still needed, does not violate Article III by changing the law governing continued enforcement of a prison decree, because courts still decide the violation, the facts and the scope of relief.
 - Lawyer v. Department of Justice
+  - Held (Breyer for the Court, 8-1): A voter personally assigned to the challenged district may obtain review of a districting consent decree even though his design-only theory fails, and the three-judge court's order was directly appealable. Approval of the decree was vacated for reconsideration under governing law.
 - Akins v. FEC
+  - Held (Souter for the Court, 7-2): Voters denied campaign-finance information that federal election law allegedly requires to be disclosed suffer a concrete injury even when many voters share it, and may obtain court review of the Commission's legally mistaken dismissal. In a part joined by five Justices, the Court also held there is no categorical major-purpose exemption for genuinely covered candidate financing.
 - Raines v. Byrd
+  - Held (Scalia for the Court, 7-2): Individual Members of Congress whose votes were fully counted lack Article III standing to challenge the Line Item Veto Act for abstract dilution of Congress's power, and a statute authorizing them to sue cannot supply the missing personal injury. The Act's validity was not decided.
 
 OT1997
 - Inmates of Suffolk County Jail v. Rouse
+  - Held (Kennedy for the Court, 9-0 on Article III): Congress may change the conditions for continuing prospective relief, such as a jail decree, while courts decide the actual violations, findings and scope of relief. Applied here, the statute did not dictate a result, command false facts, or undo damages and completed effects.
 - Lee v. Harcleroad
+  - Held (Stevens for the Court, 9-0 and 6-3): A terminally ill patient did not show imminent exposure to an unwanted assisted death, so the judgment and injunction resting on patients' claims stayed vacated, 9-0. By 6-3, the compelled-participation claims were remanded, because the lack of an express penalty does not by itself defeat injury or ripeness.
 - Alexander v. Whitman
+  - Held (Souter for the Court, 9-0): The mother's alleged denial of the letters of administration she needed for her state-law suit was a concrete injury permitting review of her own constitutional challenge, and, applying Roe, a fetus not born alive is not a person under the Fourteenth Amendment. Stone did not join the threshold reasoning.
 - National Credit Union Administration v. First National Bank & Trust Co.
+  - Held (Stone for the Court, 5-4): Banks that compete directly with credit unions have standing and fall at least arguably within the interests protected by the statute's membership limit, so they may obtain court review of the expanded membership approvals without being the statute's intended beneficiaries. The challenged membership policy exceeds the statute.
 - Bogan v. Scott-Harris
+  - Held (Thomas for the Court, 9-0): Local officials have absolute immunity from personal damages under section 1983 for legislative acts, judged by the function performed. Introducing, voting for and signing the budget ordinance that abolished the plaintiff's department were legislative acts, protected despite the finding of retaliatory motive.
 - Spencer v. Kemna
+  - Held (Breyer for the Court, 8-1): Once a parole-revocation sentence has expired, a habeas petition is moot unless the petitioner shows an actual continuing consequence that the case could redress; collateral injury is not presumed, and speculative future uses of the revocation are not enough.
 - Aktepe v. United States
+  - Held (Kennedy for the Court, 5-4): A military setting alone does not make a damages suit nonjusticiable, but these claims could not proceed because deciding the alleged duties would require choosing among military training, obedience and safety policies without a manageable legal standard.
 - Texas v. United States
+  - Held (Stevens for the Court, 9-0): Texas's request to exempt possible future state interventions in school districts from Voting Rights Act preclearance was not ripe, because no definite intervention existed and Texas showed no substantial present hardship.
 - Campbell v. Louisiana
+  - Held (Breyer for the Court, 9-0): A white defendant has standing to raise his own due-process objection to alleged racial discrimination in choosing the grand jury foreperson, a voting member of the body that indicted him, and, by six votes, to assert the excluded Black citizens' equal-protection rights. Discrimination itself remains to be proved.
 - Miller v. Albright
+  - Held (no opinion of the Court, 5-4): Six Justices, writing separately, agreed that Miller could assert her citizen father's equality claim even though he had been dismissed and did not appeal. The judgment against her citizenship claim was affirmed without a controlling merits rationale.
 - Benjamin v. Jacobson
+  - Held (Scalia for the Court, 9-0): Congress may change the conditions for continuing prospective prison relief because courts still decide violations, eligibility and the scope of relief, and termination ends only future decree duties without erasing completed effects. The case was remanded because the court had refused relevant current evidence.
 - Ohio Forestry Association v. Sierra Club
+  - Held (Scalia for the Court, 9-0): A challenge to a programmatic forest plan is not ripe when the plan authorizes no immediate logging, imposes no significant present legal hardship, and leaves later project decisions open to review. The claims were dismissed without prejudice.
 - Gavin v. Branstad
+  - Held (Scalia for the Court, 9-0): The Prison Litigation Reform Act validly changes the conditions for continuing prospective prison relief while courts decide eligibility, violations and relief. Because the District Court had refused termination only on constitutional grounds, the case was remanded for the statutory inquiry.
 - Calderon v. Ashmus
+  - Held (Stone for the Court, 9-0): A class of prisoners may not seek a standalone declaration that chapter 154 of the federal habeas statute will not apply to future habeas cases, because that would settle only an isolated procedural question, not a complete controversy. The question can be decided in an actual habeas proceeding.
 - Clinton v. City of New York
+  - Held (Stevens for the Court, 6-3): Once spending and tax provisions have become law, Congress may not authorize the President to cancel their legal force on a later policy judgment outside bicameral passage and presentment, so the two cancellations had no legal effect. New York and the Snake River cooperative each had standing.
 - Hadix v. Johnson
+  - Held (Scalia for the Court, 9-0): On the Article III objection presented, the Prison Litigation Reform Act's termination provisions validly change the conditions for continuing prison decrees while judges find the facts and decide relief, without annulling completed effects. The case returned for the statutory inquiry.
 
 OT1998
 - NAACP Los Angeles Branch v. Jones
+  - Held (Scalia for the Court, 9-0): A federal court may not assume disputed Article III standing in order to decide contested constitutional claims, so the Ninth Circuit's merits judgment was vacated for a standing determination on the actual pleadings and record.
 - Wisconsin Right to Life v. Paradise
+  - Held (Stone for the Court, 7-2): A speaker seeking relief before enforcement must show a concrete, imminent injury traceable to the defendants and redressable by relief against them; a credible threat of enforcement suffices without prosecution, but self-censorship or private enforcement provisions alone do not. The judgment was vacated for the correct claim-specific jurisdictional inquiry.
 - Department of Commerce v. United States House of Representatives / Clinton v. Glavin
+  - Held (Souter for the Court, 7-2 on the House's standing): A statute authorizing the House to sue does not give it Article III standing to challenge a future census method it considers unlawful, so its suit was dismissed. In Glavin, a voter facing a supported threat to his own representation could sue, and by 5-4 the Census Act was held to permit the two proposed sampling methods.
 - Ruhrgas AG v. Marathon Oil Co.
+  - Held (Scalia for the Court, 9-0): A federal court may dismiss for lack of personal jurisdiction before deciding subject-matter jurisdiction when the personal-jurisdiction question is straightforward and the subject-matter question is difficult, though ordinarily an easy subject-matter question should come first.
 - Clinton v. Goldsmith
+  - Held (Kennedy for the Court, 9-0): The All Writs Act lets the military appeals court protect jurisdiction it already has over court-martial findings and sentences, but not enjoin a separate executive personnel action outside that review, here dropping an officer from the rolls.
 
 OT1999
 - Friends of the Earth v. Laidlaw Environmental Services
+  - Held (O'Connor for the Court, 7-2): Members who reasonably curtail their use of a river because of ongoing discharges have standing without separate proof of environmental harm, and civil penalties paid to the Treasury can redress continuing violations by deterring them. A defendant claiming voluntary cessation must make absolutely clear the conduct cannot reasonably recur.
 - Adarand Constructors, Inc. v. Slater
+  - Held (per curiam, 9-0): A bidder's challenge to unequal competitive treatment did not become moot when it obtained state certification, because federal acceptance and lasting effect remained unsettled; the party relying on cessation must show the disadvantage will not reasonably recur.
 - City of Erie v. Pap's A.M. (mootness)
+  - Held (Stevens for the Court, 7-2 on mootness): The case stayed alive after Pap's closed its business because the state judgment still barred the City from enforcing its ordinance and Pap's kept defending that judgment. Six Justices joined this rationale; Stone voted separately to reach the merits.
 - Vermont Agency of Natural Resources v. United States ex rel. Stevens
+  - Held (Scalia for the Court, 9-0 on standing): A private relator has standing under the False Claims Act because the Act partially assigns the United States' own financial claim to the relator. By 7-2, the Act does not authorize such a private suit against a State, so the claim was dismissed without deciding constitutional immunity.
 - Miller v. French
+  - Held (Souter for the Court, 7-2): The Prison Litigation Reform Act's automatic stay of prison-conditions relief is not categorically invalid under Article III, because Congress may change the law governing future enforcement while courts decide its predicates. A claim that a particular application denies a meaningful chance to adjudicate remains open.
 
 ## 2. Reserved landmark cases
 
@@ -483,6 +550,10 @@ Character recommended disposition:
 
 Character recommended reasoning:
 
+### Carried from the retired equality build
+
+Utah v. Evans (OT2001), census imputation. Earlier plan (retired build): recognize Utah's standing and affirm the judgment for the Census Bureau. This is an OT2001 matter, not a reserved landmark; it is recorded here so the plan stays visible after the build's retirement.
+
 ## 3. The doctrine as it stands
 
 Rules as of June 29, 2000.
@@ -540,39 +611,62 @@ Doctrine now: a sitting President has no temporary immunity from a civil suit ov
 
 ## 4. Questions to answer before the landmarks
 
-Questions only. Each names the landmarks it should arrive before.
+Questions only. Under each, the landmarks it should be answered before.
 
 ### 4.1 Standing
 
-1. How far may Congress define new injuries? Is the bare violation of a statutory right, with no further harm, a concrete injury (Stone's Steel Co. view says invasion of a statutory information right is), or does Raines's rule that a statute cannot itself supply injury control? Before: Spokeo (OT2015), TransUnion (OT2020).
-2. Do States receive special standing for sovereign or quasi-sovereign interests beyond their own revenue? Before: Massachusetts v. EPA (OT2006), United States v. Texas (OT2022).
-3. Does taxpayer standing exist for Establishment Clause challenges (federal, state and municipal), and does it reach tax credits and executive spending? Before: Hein (OT2006), Arizona Christian v. Winn (OT2010). Coordinate with the religion document.
-4. How imminent must a threatened injury be, and does a substantial risk of future harm count? Before: Clapper (OT2012), TransUnion (OT2020).
-5. When may an organization sue for its members, and must it identify a specific injured member? Before: Summers (OT2008).
-6. Who may defend a law in court when the government will not (initiative sponsors, legislative bodies)? Before: Hollingsworth (OT2012), Windsor (OT2012).
-7. When does a legislature, or a house of Congress, have institutional standing? Raines left this open. Before: no listed landmark.
-8. Does a government's change of policy after suit moot a claim for nominal damages for the past violation? Before: Uzuegbunam (OT2020).
-9. Does the political question doctrine bar enforcement of a statute that touches foreign affairs? Before: Zivotofsky v. Clinton (OT2011).
+1. How far may Congress define new injuries? Is the bare violation of a statutory right, with no further harm, a concrete injury (Stone's Steel Co. view says invasion of a statutory information right is), or does Raines's rule that a statute cannot itself supply injury control?
+    - Answer before: OT2015, Spokeo, Inc. v. Robins; OT2020, TransUnion LLC v. Ramirez.
+2. Do States receive special standing for sovereign or quasi-sovereign interests beyond their own revenue?
+    - Answer before: OT2006, Massachusetts v. EPA; OT2022, United States v. Texas.
+3. Does taxpayer standing exist for Establishment Clause challenges (federal, state and municipal), and does it reach tax credits and executive spending? Coordinate with the religion document.
+    - Answer before: OT2006, Hein v. Freedom From Religion Foundation; OT2010, Arizona Christian School Tuition Organization v. Winn.
+4. How imminent must a threatened injury be, and does a substantial risk of future harm count?
+    - Answer before: OT2012, Clapper v. Amnesty International USA; OT2020, TransUnion LLC v. Ramirez.
+5. When may an organization sue for its members, and must it identify a specific injured member?
+    - Answer before: OT2008, Summers v. Earth Island Institute.
+6. Who may defend a law in court when the government will not (initiative sponsors, legislative bodies)?
+    - Answer before: OT2012, Hollingsworth v. Perry; OT2012, Windsor.
+7. When does a legislature, or a house of Congress, have institutional standing? Raines left this open.
+    - Answer before: no listed landmark.
+8. Does a government's change of policy after suit moot a claim for nominal damages for the past violation?
+    - Answer before: OT2020, Uzuegbunam v. Preczewski.
+9. Does the political question doctrine bar enforcement of a statute that touches foreign affairs?
+    - Answer before: OT2011, Zivotofsky v. Clinton.
 
 ### 4.2 Congress and the courts
 
-10. May Congress require courts to reopen final judgments on the merits, not only timeliness dismissals? Before: none listed; it shapes Bank Markazi (OT2015).
-11. May Congress pass a statute aimed at a single pending case, or direct dismissal of one named suit, without amending the general law? Before: Bank Markazi (OT2015), Patchak v. Zinke (OT2017).
-12. What is the full reach of United States v. Klein's rule against Congress prescribing rules of decision? Robertson reserved it. Before: Bank Markazi.
-13. When may an agency or a bankruptcy court, rather than an Article III court, finally decide a claim involving private rights, and does consent cure the problem? Before: Stern (OT2010), Wellness (OT2014), Oil States (OT2017), Jarkesy (OT2023).
-14. Does the Seventh Amendment require a jury when an agency seeks civil penalties? Before: Jarkesy (OT2023).
+10. May Congress require courts to reopen final judgments on the merits, not only timeliness dismissals?
+    - Answer before: no listed landmark; it shapes OT2015, Bank Markazi v. Peterson.
+11. May Congress pass a statute aimed at a single pending case, or direct dismissal of one named suit, without amending the general law?
+    - Answer before: OT2015, Bank Markazi v. Peterson; OT2017, Patchak v. Zinke.
+12. What is the full reach of United States v. Klein's rule against Congress prescribing rules of decision? Robertson reserved it.
+    - Answer before: OT2015, Bank Markazi v. Peterson.
+13. When may an agency or a bankruptcy court, rather than an Article III court, finally decide a claim involving private rights, and does consent cure the problem?
+    - Answer before: OT2010, Stern v. Marshall; OT2014, Wellness International Network v. Sharif; OT2017, Oil States Energy Services v. Greene's Energy Group; OT2023, SEC v. Jarkesy.
+14. Does the Seventh Amendment require a jury when an agency seeks civil penalties?
+    - Answer before: OT2023, SEC v. Jarkesy.
 
 ### 4.3 Executive structure
 
-15. May Congress restrict the President's power to remove officers, including the head of a single-director agency or officers protected by two layers of for-cause removal? Before: Free Enterprise Fund (OT2009), Seila Law (OT2019), Collins (OT2020).
-16. Who is an "officer" rather than an employee, and is an officer whose decisions no principal officer can review a principal officer? Edmond reserved the second question. Before: Lucia (OT2017), Arthrex (OT2020).
-17. When may the President make recess appointments? Before: Noel Canning (OT2013).
-18. Is there an enforceable limit on how much policymaking Congress may delegate, and should courts require clear authorization for major agency actions? Loving reserved enhanced specificity for criminal delegations. Before: Whitman (OT2000, on the list), Gundy (OT2018), West Virginia v. EPA (OT2021).
-19. What remedy follows a removal or appointment defect: setting aside the action, a fresh hearing, or severing the restriction? Before: Collins (OT2020), Arthrex (OT2020).
+15. May Congress restrict the President's power to remove officers, including the head of a single-director agency or officers protected by two layers of for-cause removal?
+    - Answer before: OT2009, Free Enterprise Fund v. Public Company Accounting Oversight Board; OT2019, Seila Law LLC v. Consumer Financial Protection Bureau; OT2020, Collins v. Yellen.
+16. Who is an "officer" rather than an employee, and is an officer whose decisions no principal officer can review a principal officer? Edmond reserved the second question.
+    - Answer before: OT2017, Lucia v. SEC; OT2020, United States v. Arthrex, Inc.
+17. When may the President make recess appointments?
+    - Answer before: OT2013, NLRB v. Noel Canning.
+18. Is there an enforceable limit on how much policymaking Congress may delegate, and should courts require clear authorization for major agency actions? Loving reserved enhanced specificity for criminal delegations.
+    - Answer before: OT2000, Whitman v. American Trucking Associations (on the list); OT2018, Gundy v. United States; OT2021, West Virginia v. EPA.
+19. What remedy follows a removal or appointment defect: setting aside the action, a fresh hearing, or severing the restriction?
+    - Answer before: OT2020, Collins v. Yellen; OT2020, United States v. Arthrex, Inc.
 
 ### 4.4 The President
 
-20. Does a former President have immunity from criminal prosecution for official acts, and how does Clinton v. Jones's function test apply? Clinton v. Jones reserved criminal proceedings. Before: Trump v. United States (OT2023).
-21. Is the President an "agency" whose actions are reviewable under the APA? Franklin and Dalton left it open. Before: no listed landmark.
-22. Does the President hold exclusive power to recognize foreign governments against a contrary statute? Before: Zivotofsky v. Kerry (OT2014).
-23. May the President direct state courts to comply with an international judgment, and are treaties enforceable in state courts without implementing legislation? Before: Medellín (OT2007).
+20. Does a former President have immunity from criminal prosecution for official acts, and how does Clinton v. Jones's function test apply? Clinton v. Jones reserved criminal proceedings.
+    - Answer before: OT2023, Trump v. United States.
+21. Is the President an "agency" whose actions are reviewable under the APA? Franklin and Dalton left it open.
+    - Answer before: no listed landmark.
+22. Does the President hold exclusive power to recognize foreign governments against a contrary statute?
+    - Answer before: OT2014, Zivotofsky v. Kerry.
+23. May the President direct state courts to comply with an international judgment, and are treaties enforceable in state courts without implementing legislation?
+    - Answer before: OT2007, Medellín v. Texas.
