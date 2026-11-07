@@ -1,14 +1,258 @@
 # Stone tracker: religion
 
-Scope: the Establishment Clause (government prayer and religious displays, religion in the public schools, government aid and funding including vouchers, tax credits and school aid, and delegation of civic power to religious bodies), the Free Exercise Clause (Smith's general-applicability rule and its exceptions, religious targeting, discretionary exemptions), religious speakers in public forums and government programs (the Lamb's Chapel, Rosenberger and Good News Club line), the Religious Freedom Restoration Act (RFRA) and the Religious Land Use and Institutionalized Persons Act (RLUIPA), church autonomy and the ministerial exception, and Title VII religious accommodation as it bears on Groff. Taxpayer standing for Establishment Clause claims appears only through its two landmark cases in section 2.8. Stone's planned religion principles are used in section 4 only to frame questions; they are not law and not answers.
+Scope: the Establishment Clause (government prayer and religious displays, religion in the public schools, government aid and funding including vouchers, tax credits and school aid, and delegation of civic power to religious bodies), the Free Exercise Clause (Smith's general-applicability rule and its exceptions, religious targeting, discretionary exemptions), religious speakers in public forums and government programs (the Lamb's Chapel, Rosenberger and Good News Club line), the Religious Freedom Restoration Act (RFRA) and the Religious Land Use and Institutionalized Persons Act (RLUIPA), church autonomy and the ministerial exception, and Title VII religious accommodation as it bears on Groff. Taxpayer standing for Establishment Clause claims appears only through its two landmark cases in section 2.8. Section 0 states Stone's prospective personal foundation for religion claims; it is distinct from the Court's completed holdings. Section 4 retains the questions framed against that completed record.
 
 Organization:
+0. Foundation for future cases: religion claims (Stone's personal doctrine).
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
 4. Questions to answer before the landmarks (questions only).
 
 Section 3.3 sets out where funding doctrine stands in full, because Zelman v. Simmons-Harris (OT2001) is expected to come out differently from history and that difference will carry into the later funding and inclusion landmarks; sections 4.1 to 4.3 collect the questions that ripple raises.
+
+## 0. Foundation for future cases: religion claims
+
+**Status.** This is Stone's prospective personal doctrine for religion claims. It consolidates his recorded positions and the refinements developed for future cases. It does not convert his separate writings into holdings of the Court, alter completed votes, or decide an unpresented case. Sections 1–3 retain the completed record and the Court's existing law. Section 4 remains an inventory of questions against that record; a question answered here for Stone is not thereby answered for the Court.
+
+The rules below state his position. The applications expressly labeled **inferences** explain how those rules would likely operate on the stated facts. A case-specific commitment, a different material fact, or an unresolved question of statutory authority may change the disposition.
+
+**Definition.** Stone protects religious exercise and serious nonreligious conscience within a secular government. Government may not conduct worship, prescribe religious truth, finance religious formation as an institutional undertaking, or give religious authority control over civil rights. It must protect independent religious expression, genuine religious self-government, and equal civic access. Public support turns on what the government actually purchases or provides, not the recipient's religious identity, an intermediary's involvement, or the mere possibility of institutional savings. Accommodation protects conscience without making other people surrender their legal entitlements or bear serious involuntary burdens.
+
+### 0.1 Belief, conscience, and ordinary civil obligations
+
+Belief, disbelief, changes of faith, and sincere non-theistic conviction receive protection. Courts may examine sincerity and the actual conduct required by law; they may not decide whether a belief is true, sensible, orthodox, central to an established faith, or shared by a sufficiently large denomination. A recently adopted or unfamiliar belief is not disqualified on that account.
+
+Neutral, generally applicable civil laws ordinarily govern religiously motivated conduct. Sincerity alone supplies no general constitutional exemption. The inquiry changes when government targets religion in its text, purpose, design, or enforcement; treats comparable secular conduct more favorably; administers discretionary exemptions against religion; or acts with religious hostility. Comparability concerns the harm or operational interest the government invokes, not whether the activities look alike in every respect. A government cannot demand restraint from religious conduct while tolerating comparable secular sources of the same harm.
+
+Where the governing constitutional rule requires heightened justification, government must justify the particular restriction and its fit. Where a statute supplies additional protection, that statute receives its own analysis. Neither an Establishment Clause objection nor a Free Exercise claim disposes of the other by label.
+
+### 0.2 Government worship, religious identity, and civil authority
+
+Government may not make prayer, devotional observance, religious profession, or an invitation to conversion part of its own secular program. The rule reaches classrooms, graduations, sporting events, public workplaces, civic ceremonies, and legislative proceedings. An adult audience, nonsectarian wording, tradition, a disclaimer, or permission to leave does not turn official worship into private exercise. A student vote or private delivery does not cure worship selected and organized by the institution.
+
+Private observance remains protected. A public employee's position does not make every personal prayer governmental; conversely, calling a supervisor's or teacher's organized exercise “personal” does not settle its character. Control of the occasion, official duties, use of institutional authority, recruitment of participants, and practical pressure matter. A genuine period of silence that directs no religious observance is permissible.
+
+Government may teach about religion and preserve religious history. It may not adopt a faith's propositions as governmental truth or use a faith's symbol as the present badge of civil authority. A historical exhibit, a sacred work studied as art, and an official devotional display require different treatment. Age alone does not validate present governmental religious identification. A nominal transfer of a monument to private ownership is insufficient if government continues the same religious use.
+
+Genuinely private displays in an actual public forum are assessed by sponsorship, selection, control, and context. Religious content and proximity to a seat of government do not alone make a private display governmental. Officials may use accurate identification of private sponsorship; a disclaimer cannot contradict the program's actual operation.
+
+Religious bodies may govern their religious affairs, but government may not give a denomination civil veto power, regulatory authority over outsiders, or a specially constituted governmental jurisdiction because of its religion. Accommodation does not justify that delegation.
+
+### 0.3 Schools, religious instruction, and private expression
+
+Public education may study religion, religious history, literature, and sacred music for genuine educational purposes. The relevant inquiry is what the lesson or performance does, judged against the educational discipline and the actual setting. An academic or artistic label cannot conceal worship or teaching doctrine as truth.
+
+Exposure to an idea that conflicts with a family's beliefs is not by itself compelled religious exercise. Stone distinguishes learning about a belief from being required to affirm it, perform a religious act, or violate a protected practice. Parents have no general religious veto over legitimate public instruction. Claims involving actual profession, observance, penalties, or a particular statutory accommodation receive separate examination.
+
+Students retain private religious expression on the terms applicable to comparable student expression. Teachers may enforce genuine assignment requirements but may not reject an otherwise eligible contribution merely because its perspective is religious. In after-school activities, the children's age, timing, sponsorship, supervision, and ability to decline help determine whether an activity is genuinely private or institutionally organized.
+
+Government may define a forum's genuine subjects and activities. Within the forum actually opened, it may not exclude a religious treatment of an admitted subject. A meeting does not lose protection merely because it advocates conversion. Conversely, a program limited to specified activities need not become a general venue for every institutional religious service. Any exclusion must rest on a real, consistently applied activity boundary rather than a religious label.
+
+### 0.4 Public money, fungibility, and separable secular work
+
+**The central question is what public resources purchase.** Public payment for worship, devotional teaching, clergy formation, religious conversion as an institutional undertaking, or inseparably devotional education is prohibited, subject to the specifically defined access and expressive-forum rules below. Neutral eligibility and private selection do not authorize an expenditure that actually purchases those activities.
+
+**Fungibility is relevant evidence, not an automatic prohibition.** A religious recipient's ability to save private money, benefit economically, control an item, or conceivably divert aid does not establish unconstitutional financing. Otherwise meals, transport, disability services, and ordinary civic infrastructure would become suspect whenever they benefited religious people. The defect must be connected to what the program funds, replaces, or actually supports.
+
+The distinction is between an independently identifiable secular service that incidentally benefits an institution and support for an integrated religious operation whose devotional work is part of the publicly financed product. An accounting label cannot divide an inseparable activity. Conversely, a secular service does not become religious simply because the institution uses its own remaining resources for religion.
+
+Stone applies five inquiries:
+
+1. **Identify the expenditure.** Determine whether government is buying a service, supporting independent expression, supplying individual access, or underwriting institutional operations.
+2. **Identify the funded function.** Establish the actual content, personnel duties, recipients, delivery, and uses of facilities or equipment.
+3. **Require meaningful separation.** The secular work must be distinguishable in operation and accounts, with controls proportionate to the risk of diversion.
+4. **Protect eligible recipients.** Receiving the publicly funded secular service cannot depend on worship, profession of faith, or surrender of an otherwise applicable legal entitlement.
+5. **Verify compliance.** Objective records and ordinary professional oversight must identify public costs and uses without requiring officials to resolve theology.
+
+Separate governance or wholly separate personnel can provide strong safeguards but are not invariably necessary. What matters is whether the public purchase remains identifiable and enforceable in practice. The same worker may perform different roles if funded time, duties, and delivery are genuinely separated. An integrated devotional curriculum cannot be made secular by allocating a percentage of its cost to “ordinary education.”
+
+An otherwise eligible provider may not be excluded solely because it is religious. It must meet the same legitimate service, accountability, and nondiscrimination conditions as comparable providers. Religious identity proves neither impermissible use nor immunity from those conditions.
+
+### 0.5 Tuition, vouchers, tax treatment, and private resources
+
+A voucher, restricted education account, provider-redeemable payment, scholarship intermediary, or program-created credit does not become private money merely because a parent selects the recipient. Where the arrangement finances integrated devotional schooling or clergy training, Stone's funding prohibition applies. More secular options or a tuition cap do not separate the religious function.
+
+A genuinely severable secular educational service may qualify on the terms in section 0.4. A publicly financed religious charter school cannot avoid the funding inquiry by adopting a private corporate form. Whether it also exercises governmental authority is an additional question; the public purchase of integrated religious formation can itself decide the religion claim.
+
+An unrestricted general cash benefit becomes the recipient's resource when the program genuinely leaves its use to the recipient and contains no religious earmark or provider-redemption design. A later independent donation or religious purchase is private conduct. This does not describe an education payment designed around approved providers.
+
+Tax treatment must be assessed by its operation. A broad exemption or deduction available on ordinary secular criteria can include qualifying religious organizations. Stone opposes both special tax privileges granted solely because an activity is religious and special tax burdens imposed for that reason. General tax treatment is not automatically equivalent to a targeted credit functioning as payment for a designated religious service. The amount, legal structure, restrictions, and practical operation of the particular provision matter.
+
+Religious objection to government spending does not ordinarily exempt a person from generally applicable taxes. Any applicable statutory claim still receives the required examination of the particular obligation or penalty; objection to an expenditure does not itself establish an entitlement to redirect public revenue.
+
+### 0.6 Independent expressive forums and discretionary grants
+
+**A genuine independent expressive forum is a defined qualification to the funding prohibition.** Government may provide ordinary facilities, publication resources, or controlled printing support for a broadly available program of independent private expression. An eligible religious speaker receives the same expressive opportunity as an eligible political, ethical, or philosophical speaker. Advocating conversion does not alone turn that participation into a publicly purchased ministry.
+
+The controlling considerations are who selects and controls the message, why the program exists, whether government seeks a religious outcome, how support is allocated, whose expression the public is encountering, and whether government is supporting a forum or purchasing religious activity. Broad availability means access within genuine, consistently applied program criteria; it does not require unlimited funding or admission of every proposed project.
+
+Government may not commission an evangelistic campaign or purchase religious persuasion as its institutional objective. An independent selection panel does not automatically cure that expenditure. Nor does discretionary selection automatically make every arts or publication grant governmental religious speech: the nature of the program and the funded product remain decisive.
+
+A mixed literary and devotional magazine can receive ordinary support as private expression within a genuine forum. Outside that setting, a grant restricted to a specified secular project requires demonstrable separation of that project. A grant underwriting an organization's integrated conversion mission is prohibited.
+
+The distinction concerns both governmental adoption and the funded function. Absence of official endorsement alone cannot validate a purchase of ministry. Equally, the religious viewpoint of an independent forum participant cannot by itself establish such a purchase.
+
+### 0.7 Individual services and disability access
+
+Government may provide eligible individuals with genuinely secular services in religious settings, including meals, transportation, public health assistance, and disability support. Eligibility, delivery, and accountability must remain religion neutral, and the public service must be identifiable apart from institutional religious operations.
+
+**Communication access is judged by the professional role being funded.** An interpreter may convey privately financed religious instruction or voluntary worship without becoming a religious teacher or officiant. Signing another person's prayer, including its first-person language, does not by itself make the interpreter a worship leader. The inquiry is whether the interpreter transmits communication or personally professes, directs, teaches, or performs an institutional religious office.
+
+A permissible access arrangement requires an actual disability-related communication need; neutral eligibility within the program's lawful scope; independent control of payment and professional standards; faithful communication responsive to the user's needs; and no publicly financed teaching, conversion, or officiating role. Shared or remote interpretation can qualify when it serves eligible participants effectively.
+
+Public payment must not simply replace an institution's independently enforceable duty to provide the service. Any separately authorized public assistance addressing an unmet need requires its own justification. The institution's incidental savings are relevant to that inquiry but do not establish religious financing by themselves.
+
+This distinction does not authorize tuition vouchers: tuition purchases the underlying educational undertaking, while a properly confined interpreter supplies an additional means of accessing an activity financed independently of the state. Government cannot condition secular disability services on participation in worship. If a religious rite requires the interpreter to occupy a religious office, officials must respect that characterization without undertaking the office at public expense under the ordinary accessibility program.
+
+Constitutional permission, statutory eligibility, and a statutory duty to provide or reimburse the service are separate questions. An allowable service is not automatically an entitlement, and absence of a duty is not itself a prohibition.
+
+### 0.8 Accommodation and effects on other people
+
+Accommodation may involve ordinary administration, manageable institutional expense, voluntary arrangements, and incidental inconvenience. Stone does not treat every measurable cost or every unwanted scheduling change as unconstitutional. Institutions should ordinarily absorb reasonable costs of complying with accommodation duties.
+
+An accommodation may not remove another person's protected legal right or earned entitlement, materially impair its exercise, require religious observance, or impose a serious nonconsensual practical burden on an identifiable person. Magnitude, duration, recurrence, concentration, actual freedom to refuse, and available mitigation matter. Repeated small burdens may become serious in combination. Resentment of religion, speculative harm, or a preference never to be inconvenienced is insufficient.
+
+An alternative must preserve the substantive entitlement on materially equivalent terms: actual availability, appropriate timing, qualified service, reasonable accessibility, privacy, and equal treatment. Significant added expense, delay, travel, or procedural obstacles cannot be concealed by saying that a benefit remains formally available.
+
+A public officer cannot reject an entitled person because the officer condemns that person's identity or lawful conduct and then treat another counter as a complete cure. A workable internal reassignment arranged in advance may be different if the public receives equal service and no official duty is left unmet. The institution bears responsibility for making the alternative real.
+
+The requester identifies the sincere conflict and the requirement causing it. The responsible institution investigates workable alternatives and substantiates claimed operational burdens, using information in its control. Affected people need not prove inaccessible staffing or financial details before their concrete concerns receive consideration. These practical responsibilities do not reverse a governing statute's allocation of the ultimate burden of proof.
+
+An arrangement should be reconsidered when staffing, demand, voluntariness, cumulative burdens, or the availability of alternatives materially changes. A once-workable accommodation is not permanently valid regardless of its effects.
+
+### 0.9 Equal consideration of nonreligious conscience
+
+**Stone requires equal consideration of comparable conscience claims.** When government provides a conscience accommodation, it may not exclude an otherwise comparable serious secular moral or ethical claim solely because its foundation is nonreligious. Different treatment needs a reason connected to the accommodation's purpose, the actual conflict, practical burdens, or the rights at stake.
+
+The relevant claim concerns a sincere obligation about how the person must act. Convenience, taste, or disagreement with public policy alone does not suffice. Officials examine sincerity and the conflict without demanding adherence to a comprehensive philosophy, a long history of belief, or an approved account of moral truth.
+
+Equal consideration means the same seriousness of inquiry and the same relevant standards. It does not guarantee the requested arrangement, require identical institutional machinery for unlike needs, or create a general constitutional exemption from every neutral law. An accommodation responding to a distinct religious burden can remain distinct where that difference explains its scope.
+
+For example, if a prison accommodates a religious objection to eating meat, an equally sincere secular ethical objection with the same practical requirements receives equivalent consideration. Fair access to religious leaders does not require inventing a secular equivalent to every sacrament; comparable requests for ethical discussion, association, or support are assessed by their actual function.
+
+Stone grounds this governmental obligation in religious neutrality and equal civic treatment. It is distinct from the interpretation of a statute covering religious exercise. Some non-theistic beliefs may already satisfy a statute's definition; claims outside that definition cannot simply be inserted into the statute by relabeling them. Constitutional duties ordinarily bind government. A private employer's accommodation duties require an applicable statute or another independent legal obligation.
+
+### 0.10 Custody, institutional dependency, and paid clergy
+
+When government substantially restricts ordinary private access through custody, military service, or comparable enforced dependency, it bears responsibility for reasonable, meaningful access to exercise. Officials must address the requested practice and actual institutional circumstances. Offering an unrelated religious activity does not answer a restriction on the claimant's own practice.
+
+Stone's baseline is reasonable access, not a guarantee of every requested service, preferred provider, frequency, or form of ministry. Genuine security, staffing, and logistical limits require specific support. The baseline does not displace stronger protection supplied by an applicable statute.
+
+Publicly paid coordination may arrange visits, materials, scheduling, space, and communication for different faiths and comparable secular conscience needs. Private access and facilitation are preferred when adequate. **Direct payment for requested ministry is a narrow accommodation of government-created dependency** when ordinary access is impracticable and a workable, less entangling arrangement is insufficient. Its object is restoring access, not advancing a religious mission.
+
+The arrangement requires genuine demand, qualified provision, voluntary participation, equitable treatment, and limits tied to the demonstrated need. Equitable access may use visiting clergy, contracts, shared facilities, or remote services; it does not require one full-time official for every tradition. Popularity alone cannot justify neglecting a minority faith's feasible request.
+
+Government may not finance institutional evangelism, condition unrelated benefits or release opportunities on religious participation, or reward conversion through privileges or living conditions. The state remains an administrator of access; religious acts remain those of the participants and their religious providers.
+
+### 0.11 Statutory religious freedom
+
+The constitutional baseline and statutory accommodation are separate. Stone first identifies the statute, its operative version, the covered claimant and government, the conduct regulated, and the authority supporting its application. A broad preference for religious freedom does not settle the validity of federal legislation.
+
+Under applicable RFRA protection, the claimant establishes protected religious exercise and a substantial governmental burden. Government must then demonstrate that applying that burden to the claimant serves a compelling interest through the least restrictive means. General assertions about the importance of a law do not replace the application-specific inquiry. The government's statutory burden includes evidence and persuasion. [RFRA rule](https://www.law.cornell.edu/uscode/text/42/2000bb-1); [burden definition](https://www.law.cornell.edu/uscode/text/42/2000bb-2).
+
+Sincerity does not conclusively establish a substantial burden. Stone identifies the actual legal requirement, sanctions, and connection to the claimant's conduct while avoiding judgments about theological correctness. Mere disapproval of another person's independent conduct is not automatically a governmental burden on the claimant's exercise.
+
+A lawful, effective alternative must be evaluated rather than presumed either available or impossible. Protecting other people's enforceable entitlements can supply a compelling interest, but government still carries the justification burden the statute assigns. Imagined, unauthorized, unfunded, or ineffective alternatives do not defeat a supported showing.
+
+For institutionalized-person claims covered by RLUIPA, substantial burdens receive the statute's compelling-interest and least-restrictive-means analysis. Alternative opportunities for exercise do not automatically justify restricting the particular practice. Neutral security and administration remain legitimate interests, tested against actual risks and alternatives. [Institutionalized-person provision](https://www.law.cornell.edu/uscode/text/42/2000cc-1).
+
+Religious land-use claims likewise require the applicable statutory provision and its jurisdictional conditions; religious status supplies neither immunity from genuine land-use rules nor permission for discriminatory exclusion. No later enactment or historical decision is treated as already controlling before its applicable date in the completed record.
+
+### 0.12 Religious organizations and internal autonomy
+
+Religious communities control doctrine, worship, membership in the religious body, and the selection and retention of genuine religious leaders. Courts may resolve independently secular disputes where that can be done without deciding religious truth or taking over those functions.
+
+The ministerial boundary turns on actual responsibility for teaching the faith, leading worship, or exercising religious leadership. Titles and institutional labels are evidence, not conclusive answers. Incidental prayer or employment in a religious school does not automatically make a mathematics teacher, administrator, or maintenance worker a minister. Mixed roles require examination of their real duties.
+
+The protection is substantive and claim-specific. It does not remove the court's jurisdiction over every dispute involving a minister or religious organization, and it does not erase separable secular claims. Stone favors limiting religion-based hiring preferences to genuine doctrinal, worship, and religious-leadership functions. A broader enacted exemption or contrary precedent must be addressed directly rather than ignored or silently rewritten.
+
+**Organizational statutory protection does not require an independent corporate conscience.** Where the applicable statute includes the organization, it may assert genuine religious exercise conducted through its authorized operations. The claim must identify the human exercise involved and a valid connection to the organization's governance and conduct. A manager's assertion, commercial label, or closely held ownership alone does not establish the claim.
+
+Eligibility does not establish substantial burden or entitlement to an exemption. Owners' faith is not attributed to employees, customers, or dissenting members. A commercial organization acquires no general authority to make its beliefs govern other people's civil entitlements.
+
+An organizational claim may succeed where the statutory test is satisfied and an independently lawful, reliable arrangement preserves affected people's rights and practical access. A proposal that simply leaves employees without an entitlement or moves the organization's ordinary duties onto an unwilling party fails that protection. Public financing of a substitute requires independent authority and justification.
+
+### 0.13 Workplace accommodation
+
+Stone's preferred interpretation of workplace “undue hardship” requires substantial, demonstrated hardship in the employer's actual circumstances. Routine inconvenience or a cost merely greater than trivial is insufficient. This is a prospective change from the lower threshold applied in the completed record; it requires candid treatment of that precedent.
+
+The employee identifies a genuine covered conflict. The employer examines effective alternatives such as adjusted schedules, voluntary exchanges, leave, reassignment, or changes in work arrangements. It may choose among effective accommodations; the employee is not entitled to a preferred method regardless of cost or feasibility.
+
+Hardship depends on actual incremental expense, recurrence, qualified staffing, safety, operational requirements, and the employer's overall resources. A small business and a large institution may reasonably reach different conclusions on the same nominal cost. Artificially isolating a small departmental budget does not prove institutional hardship.
+
+Coworkers' earned entitlements and serious involuntary burdens receive protection under section 0.8. Ordinary fair scheduling changes are not equivalent to repeatedly forcing the same employees to surrender weekends or accept unsafe hours. Hostility toward religion is not hardship.
+
+No accommodation is required to eliminate an essential responsibility where no lawful, effective arrangement can cover it without substantial hardship or impermissible effects on others. Changed circumstances require evidence, not speculation about unlimited future requests. Equal consideration of secular conscience operates within the constitutional and statutory boundaries in section 0.9. [Title VII accommodation text](https://www.law.cornell.edu/uscode/text/42/2000e#j).
+
+### 0.14 Evidence and administration of religion claims
+
+A provider seeking public payment for separable secular work must supply objective information sufficient to establish eligibility and compliance. Public contracts may require clear service definitions, records of time and expenditure, ordinary audits, repayment for diversion, and suspension of unlawful uses.
+
+That application responsibility does not presume a constitutional violation whenever a religious recipient is sued. A challenger must establish the prohibited governmental act or financing under the governing litigation rules. Religious affiliation, possible diversion, and institutional savings cannot replace proof. A concentration of awards among religious recipients may warrant examination of selection and operation; the distribution alone does not establish favoritism.
+
+Oversight must concern the publicly funded function, not the truth or adequacy of religious doctrine. Monitoring that requires government continually to direct an integrated ministry is evidence that the proposed separation is not workable. Controls for an expressive forum must preserve independent editorial judgment rather than turning officials into theological editors.
+
+Religious targeting, exclusion, and accommodation disputes require evidence of actual comparators, reasons, alternatives, and burdens. On an incomplete material record, Stone may require further findings rather than announce a categorical result that assumes the missing facts.
+
+### 0.15 Precedent and refinements of Stone's position
+
+Stone begins with the actual controlling rule, its source, factual premise, and current force. A distinction must concern something that matters to that rule. He may narrow or overrule precedent for a demonstrated legal defect, including conflict with constitutional text or structure, internal contradiction, unworkability, or a failed factual premise. Disagreement with the outcome or a changed majority is insufficient.
+
+A change must identify the prior rule, the legal reason for changing it, the replacement boundary, what remains valid, and the treatment of concrete reliance. Statutory precedent ordinarily receives additional weight because the legislature can amend the law. Transition may protect settled arrangements without allowing an established violation to continue indefinitely.
+
+The following boundaries are explicit in this foundation:
+
+- The independent-forum rule qualifies a categorical prohibition on funding publications that advocate conversion. A religious viewpoint within a genuine private-expression program is not automatically a purchased ministry.
+- Independent disability communication access can remain secular while conveying religious instruction or voluntary worship. The interpreter's function, rather than the religious words alone, controls.
+- Directly paid ministry is confined to the stated government-created-dependency exception. It supplies no general permission to fund religious outreach.
+- Separation of publicly funded secular work must be operationally real; a wholly separate corporation, governing board, or staff is not mandatory in every arrangement.
+- Ordinary institutional expense and incidental inconvenience are distinguishable from loss of entitlements and serious involuntary burdens. The rule does not prohibit every measurable cost.
+- Statutory organizational protection is assessed under enacted coverage and genuine human exercise, rather than rejected solely because an organization has no human conscience.
+- The substantial-hardship workplace rule and equal consideration of comparable secular conscience are Stone's prospective positions, not retroactive descriptions of every earlier vote or existing statutory coverage.
+
+The completed record preserves permissions and rules that may conflict with this foundation: certain individual educational benefits, the lower workplace-hardship threshold, broader religious-employer exemptions, and some official religious acknowledgments. A future case must confront the particular precedent if its holding actually controls. Public payment for inseparable religious formation cannot be reconciled merely by calling it an individual benefit; conversely, a genuinely unrestricted personal benefit or independent expressive forum cannot be discarded without addressing the difference.
+
+This foundation does not silently replace the Court's recorded Establishment Clause test with a historical-tradition test, rewrite an earlier dissent as a majority, or assume that later historical Supreme Court decisions have occurred in this Court.
+
+### 0.16 Enforcement and remedies in religion cases
+
+A claimant must establish the injury, its connection to the challenged conduct, and relief that can address it through a lawful cause of action or equitable channel. A substantive objection to religious financing does not by itself establish taxpayer standing. Personal coercion, exclusion, denial of a benefit, economic injury, and concrete exposure require analysis under the applicable standing rule; neither sympathy nor abstract disagreement supplies jurisdiction.
+
+Relief must end the proven violation and preserve lawful, severable activity where possible. Unlawful devotional payments may be stopped, restricted, or separated; eligible secular services should not be terminated merely because the same provider also conducts privately financed religion. Where the funded operation is genuinely inseparable, effective relief may require ending the payment as administered. Calling an order narrow cannot justify leaving the violation intact.
+
+An unlawful exclusion from a forum ordinarily calls for equal access or reconsideration under lawful criteria, subject to the government's lawful choices about the program. An invalid accommodation should be corrected without unnecessarily stripping the claimant of feasible protection. Where equal treatment can be restored either by extending a benefit or withdrawing a preference, statutory design, existing entitlements, and remedial authority determine the choice; the court does not invent an appropriation.
+
+An injunction against official worship or religious identification should identify the governmental conduct that must cease while preserving lawful private expression and accurate historical preservation. Superficial relabeling, a student intermediary, or a nominal transfer cannot evade the order.
+
+Damages require an authorizing source, a proper defendant, and satisfaction of applicable immunity and liability rules. A statutory right does not automatically authorize every form of monetary relief against every public body or official. Conversely, prospective relief does not compensate a completed injury where an authorized damages claim remains. Fair-notice concerns must rest on the governing liability rule, not an invented requirement that an identical religion case already exist.
+
+Where material facts remain unresolved, remand may be necessary. Where the record establishes the violation and permits a complete judgment, further proceedings must have a legal purpose. Each remedy should state the protected claimant or group, prohibited conduct, responsible defendant, lawful scope, and any justified transition.
+
+### 0.17 Difficult applications: reasoned inferences
+
+These are **inferences from the foundation**, not completed dispositions. Each depends on the stated facts and the applicable legal source.
+
+| Situation | Likely application and decisive boundary |
+|---|---|
+| A religious school seeks a grant for a genuinely separate secular accessibility or safety project. | Inclusion is favored on ordinary neutral terms. Religious identity and resulting savings do not defeat eligibility; actual devotional use or failure of credible separation changes the result. |
+| Parents direct restricted public tuition payments to a school whose funded instruction integrates devotional formation. | Stone would reject the payment as designed. Parent choice, payment routing, and a cap do not separate the purchased activity. Relief should preserve any independently lawful secular service. |
+| A Deaf participant requests an interpreter for privately financed catechism or voluntary worship. | Permit qualifying communication access if the interpreter remains an independent accessibility professional. Public payment for teaching, officiating, or replacing an institution's existing legal duty requires a different analysis. |
+| A general student-publication program supports a magazine that urges conversion. | Include it on the same genuine forum terms as other eligible expression. A program commissioning evangelism rather than supporting independent speakers fails that boundary. |
+| An arts panel funds a mixed literary and devotional book. | The panel's independence alone decides nothing. A genuine expressive program can support the work; a specified secular-project grant requires separation; underwriting an integrated ministry is prohibited. |
+| A confined minority-faith adherent requests ministry that volunteers cannot provide. | Require a concrete examination of meaningful access, available alternatives, demand, and institutional limits. Necessary paid provision may qualify under the narrow dependency exception; every requested provider or service is not guaranteed. |
+| A secular ethical vegetarian seeks the same feasible prison diet given to a religious vegetarian. | Equivalent consideration is required. A refusal needs a relevant difference in purpose, burden, or circumstances, not merely the absence of religion. |
+| An employer can accommodate observance only by repeatedly imposing unsafe or seriously burdensome shifts on unwilling coworkers. | Reject that arrangement and examine workable alternatives. Ordinary administration or modest institutional expense is a different case. |
+| An eligible organization seeks statutory relief while an authorized alternative preserves employees' full benefits and practical access. | The claim can proceed and may succeed if the government cannot carry the statutory justification burden. Eligibility alone grants no exemption; an ineffective or unauthorized alternative changes the result. |
+| A school calls every teacher a minister although the disputed position performs secular teaching with incidental religious tasks. | Stone would examine actual religious responsibility rather than accept the label. A genuine faith-teaching or worship-leadership role receives stronger autonomy protection. |
+| A public employee prays privately while students or coworkers are nearby. | Private observance remains protected. Institutional organization, supervisory pressure, recruitment, or use of official authority can change the attribution and result. |
+| A university applies an all-comers condition to a religious group's voting membership or leaders. | Distinguish access to a public program from control over genuine religious leadership; examine the program, consistency of the condition, and actual role. The foundation does not predetermine every membership restriction or benefit condition. |
+
+### 0.18 Matters requiring a case-specific legal decision
+
+The foundation supplies a usable substantive position without claiming that every procedural or statutory question is settled. Remaining decisions include the permissible reach of taxpayer standing; the constitutional power supporting a particular religious-accommodation enactment; the precise statutory coverage of an organization or conscience claim; the availability of damages against a specified defendant; and the extent to which a particular precedent must be retained, distinguished, or changed.
+
+Mixed expression, mixed employment roles, disputed separability, and competing access arrangements ordinarily require evidence applying the stated boundaries. Their difficulty does not justify reopening settled commitments to secular government, independent expression, equal conscience consideration, or protection of other people's legal entitlements.
 
 ## 1. Completed cases
 
