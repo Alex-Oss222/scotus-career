@@ -1,6 +1,6 @@
 # Stone's planned positions by area
 
-This document collects, in one place, Chief Justice Stone's planned positions as they were written in three earlier build documents: the equality build (STONE_EQUALITY_VOTING_AND_ENFORCEMENT_BUILD.md), the commerce build (the planning appendix of STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md) and the Second Amendment build (Second_Amendment.md). It is arranged by area of law, then by October Term, then by case. These positions are Stone's plans, not law. The doctrinal registers and the Canonical Decision Records control what the Court has decided. Entries for terms already decided are kept as the record of what Stone planned; the Records show what the Court actually did, which can differ. The text is carried over word for word from the three builds, whose original files remain in repository history at commit 7f3304bc. Only headings were changed: heading levels were adjusted, and each build's term headings became plain OT headings, with their wording kept in the "Source:" line that each entry and note carries to name its build and the heading it sat under there. Where more than one build wrote about the same case, the entries follow one another, and a "Cross-reference:" line marks where an entry from the commerce or Second Amendment build was placed under a different area. Links are carried as written, so some point to sections of the original files. The blank "Character recommended" fields in the trackers are filled separately, not in this document.
+Chief Justice Stone's planned positions, arranged by area of law, then by October Term, then by case. These are Stone's plans, not law. Entries for terms already decided show what Stone planned; the Court's actual decisions can differ. Where more than one plan addresses the same case, the entries follow one another.
 
 Contents:
 
@@ -22,8 +22,6 @@ Contents:
 
 #### Justice Stone: full doctrinal build through OT2001
 
-Source: equality build, its title and opening text.
-
 This document is a working doctrinal map, not a set of predetermined holdings. The positions, through-lines, and later-case directions below identify where Stone is presently inclined to go and the problems he is trying to solve, but they do not control the outcome of any future simulated case.
 
 For each case, begin with the law, record, procedural posture, available evidence, and actual coalition that exist at that point in the simulation. Treat the material below as relevant context and a source of proposed reasoning, not as an instruction to force the case into the projected doctrinal path. A later case may strengthen, narrow, qualify, redirect, or defeat an earlier proposal if its facts, legal source, precedent, administrability, institutional consequences, or available votes point elsewhere.
@@ -37,8 +35,6 @@ The purpose of this document is to preserve continuity without predetermining de
 **Working preparation for the continued simulation. Earlier simulated decisions are fixed when they have already been reached; later entries are proposed Stone positions, not predetermined Court holdings.**
 
 #### Scope and how to use this build
-
-Source: equality build, top-level section.
 
 This build begins with *Shaw v. Reno*, decided June 28, 1993 during **OT1992**, and continues through **OT2001**, including decisions issued in 2002. It covers the voting, equal-protection, affirmative-action, integration, congressional-power, enforcement, institutional-access, campaign-finance, and related procedural cases most likely to develop or test Stone's positions. It does not rewrite unrelated areas merely to make a doctrinal program come out cleanly.
 
@@ -86,8 +82,6 @@ Stone can take these positions whether he writes for the Court, concurs, or diss
 The [research assessment](#what-the-empirical-research-supports-and-what-it-does-not), [consistency checks](#consistency-checks-across-the-build), and [vulnerability assessment](#where-the-plan-is-strongest-and-where-it-remains-vulnerable) follow the cases.
 
 #### Recurring reasoning and source boundaries
-
-Source: equality build, top-level section.
 
 ##### Identify the right, actor, treatment, and remedy
 
@@ -153,8 +147,6 @@ A remedy must address the proved or validly prevented mechanism. Government need
 
 #### What the empirical research supports, and what it does not
 
-Source: equality build, top-level section.
-
 The evidence below informs the proposed standards. It is not a substitute for the actual case record. A study published after a case can test the plan in hindsight, but Stone cannot cite it as contemporary knowledge. Nor should an opinion silently take judicial notice of disputed social-science conclusions that the parties had no opportunity to address.
 
 | Research or administrative source | Available for which stage? | What it contributes | Limit on the inference |
@@ -194,8 +186,6 @@ The example uses shares of **votes cast**, not population shares. Census CVAP ca
 
 #### Consistency checks across the build
 
-Source: equality build, top-level section.
-
 | Potential conflict | Stone's resolution |
 |---|---|
 | *Shaw* rejects a design-only injury, while VRA implementation may require explicit attention to race. | Race-conscious analysis or district design is not itself an electoral deprivation. Statutory duties and independently cognizable constitutional injuries retain their own elements. Awareness is evidence where the governing source makes it relevant. |
@@ -217,8 +207,6 @@ Source: equality build, top-level section.
 | *Plaut* protects finality while *Agostini* and *Miller v. French* permit changes to injunctions. | Completed judgments and continuing prospective supervision have different legal consequences. |
 
 #### Where the plan is strongest, and where it remains vulnerable
-
-Source: equality build, top-level section.
 
 **Strongest: the separation of authority, proof, and remedy.** The framework uses established judicial tasks. Trial courts already evaluate intent, voting patterns, comparators, agency, statutory rights, reasonable accommodation, and remedial scope. Congress already develops legislative records and makes predictive judgments. Stone is changing some governing standards, not inventing an entirely new factfinding institution.
 
@@ -247,8 +235,6 @@ Source: equality build, top-level section.
 These are conditional legal consequences. A single Justice's consistent opinions do not themselves establish them as law. Nor does adoption through OT2001 guarantee survival after a change in the Court. A later majority could overrule the racial standard, narrow the statutory categories, restrict causes of action, or revise immunity. Existing final judgments, statutes, administrative arrangements, and reliance may make reversal more disruptive, but continuing decrees can change under the rules illustrated by *Agostini* and *Miller v. French*.
 
 #### Corrections that must carry into future simulation materials
-
-Source: equality build, top-level section.
 
 1. **Shaw is fixed:** the June 28, 1993 simulated judgment rejects the territorial racial-design-only Equal Protection theory. Do not later treat historical *Shaw* as controlling law.
 2. **Delete five historical progeny:** omit *Hays*, *Shaw II/Pope*, *Abrams*, *Hunt*, and *Easley* from future term case lists and render inputs unless a genuinely independent later dispute arises. A new independent dispute gets its own lineage rather than inheriting the deleted caption automatically.
@@ -279,15 +265,11 @@ Source: equality build, top-level section.
 
 #### Opinion sequence Stone can reuse
 
-Source: equality build, top-level section.
-
 First identify the historical question and procedural posture. Then state the governing right and congressional or institutional authority. Specify who bears each burden. Explain the relevant evidence and what inference it supports. Apply the appropriate standard to the particular treatment and remedy. State what remains unresolved and what the lower court must do next.
 
 Across these cases, government may take supported action to remedy exclusion, prevent recurrence, or carry out other lawful institutional responsibilities, but the court must keep authority, evidence, actual burden, statutory duty, constitutional injury, and remedy in their proper places. Permission to act and limits on that action are both enforced through the sources that supply them.
 
 #### Continuing tracker: OT2000–OT2050
-
-Source: equality build, top-level section.
 
 The historical questions below are carried forward from the old working build. **Proposed** means the question is in the research plan; it does **not** mean the case has been granted, heard, or decided in this simulation. No proposed Stone judgment is included. When a matter is decided, replace its status and enter the answer and any question expressly left open from the Canonical Decision Record.
 
@@ -370,15 +352,11 @@ The tracker continues through **OT2050**. These later terms are reserved without
 
 #### Simulation status after completed OT1992
 
-Source: equality build, under "OT1992: the 1993 foundation".
-
 > **Actual simulated law controls the proposals below.** OT1992 established the foundation Stone wanted, most importantly in *Shaw v. Reno*. The Court **affirmed dismissal of the racial-design-only Equal Protection theory, 5–4**, with Stone supplying the controlling distinction between deliberate racial consideration in territorial districting and an independently cognizable constitutional injury. Racial exclusion, intentional dilution, materially unequal participation, inferior civic status, and independent statutory voting-rights claims remain available under their own rules. The federal-official challenge was separately left dismissed, 9–0, under the designated preclearance-review channel. See the [canonical *Shaw* record](../terms/OT1992/records/Shaw_v_Reno_merits_1993-06-28.md).
 >
 > **What Stone banked in OT1992:** a durable injury-first method. Governmental awareness of race is not automatically the legal injury; the Court must identify the right, the treatment imposed on the claimant, and the governing source before choosing scrutiny or relief. Later voting, equality, and remedial cases begin from that rule rather than from historical *Shaw*.
 
 #### Shaw v. Reno, 509 U.S. 630 (1993)
-
-Source: equality build, under "OT1992: the 1993 foundation".
 
 **Historical questions.** Did the complaint state an equal-protection claim against North Carolina's unusually shaped congressional plan, alleged to separate voters predominantly by race? Could the related claims against the federal preclearance officials proceed in this action?
 
@@ -392,8 +370,6 @@ The holding does not immunize intentional vote dilution, racial exclusion, discr
 
 #### Northeastern Florida Chapter, Associated General Contractors v. Jacksonville, 508 U.S. 656 (1993)
 
-Source: equality build, under "OT1992: the 1993 foundation".
-
 **Historical questions.** Must contractors show they would have won particular contracts to challenge a racial contracting barrier? Did replacement of the ordinance moot the dispute?
 
 **Stone's disposition.** Reverse and remand. An able and ready competitor may establish injury from unequal competitive treatment; the successor ordinance does not automatically eliminate the controversy.
@@ -404,15 +380,11 @@ Source: equality build, under "OT1992: the 1993 foundation".
 
 #### Simulation status after completed OT1993
 
-Source: equality build, under "OT1993: decisions principally issued in 1994".
-
 > **Actual simulated law controls the proposals below.** Stone converted the *Shaw* foundation into a statutory voting-rights framework without turning §2 into a guarantee of proportional representation. In [*Holder v. Hall*](../terms/OT1993/records/Holder_v_Hall_merits_1994-06-30.md), the Court preserved §2 liability and the existing remedial remand **5–4**, while six Justices accepted threshold coverage. In [*Johnson v. De Grandy*](../terms/OT1993/records/Johnson_v_De_Grandy_merits_1994-06-30.md), the Court rejected maximization and reversed the House liability/remedy while affirming the Senate judgment, **7–2 on each disposition**, preserving contextual totality analysis and treating proportionality as relevant but not dispositive. In [*J.E.B. v. Alabama*](../terms/OT1993/records/JEB_v_Alabama_ex_rel_TB_merits_1994-04-19.md), the Court extended equal-protection limits on jury strikes to sex, **7–2**, while keeping sex-equality doctrine distinct from Stone's racial-treatment project.
 >
 > **What Stone banked in OT1993:** statutory voting protection with administrable limits, separation of statutory and constitutional injuries, and a recurring refusal to convert useful evidence or demographic outcomes into automatic legal elements.
 
 #### Holder v. Hall, 512 U.S. 874 (1994)
-
-Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 **Historical questions.** Can §2 reach the size of a governing body, here Bleckley County's sole commissioner? Is there a sufficiently objective alternative against which dilution can be assessed? What remains of the intentional-discrimination claim?
 
@@ -424,8 +396,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 #### Johnson v. De Grandy, 512 U.S. 997 (1994)
 
-Source: equality build, under "OT1993: decisions principally issued in 1994".
-
 **Historical questions.** Did Florida's legislative districts violate §2 despite approximately proportional minority opportunity districts? Did the state validation proceeding preclude the federal litigation?
 
 **Stone's disposition.** Preserve the rejection of preclusion; reject the House-district §2 liability finding and preserve the Senate-district no-liability result on the record actually reviewed.
@@ -433,8 +403,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 **Reasoning.** Proportionality is relevant evidence, not a safe harbor, entitlement, or demand to maximize districts. Assess the practical opportunity in the relevant geographic area and the entire statutory record. A state proceeding does not automatically bind different federal claimants or decide claims it did not adjudicate. This decision keeps the broader *Holder* rule from becoming a machine for compulsory additional seats. [Opinion](https://supreme.justia.com/cases/federal/us/512/997/).
 
 #### J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127 (1994)
-
-Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 **Historical question.** May the state exercise peremptory jury challenges based on sex in a paternity and child-support proceeding?
 
@@ -446,8 +414,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 #### Simulation status after completed OT1994
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 > **Actual simulated law controls the proposals below.** OT1994 produced several of Stone's largest gains, but also one important failure of his preferred program. In [*United States v. Lopez*](../terms/OT1994/records/United_States_v_Lopez_merits_1995-04-26.md), Stone joined the **5–4** Court invalidating the original Gun-Free School Zones Act provision; his broader six-route account of commerce authority remained a separate concurrence rather than the Court's exhaustive test. In [*Missouri v. Jenkins*](../terms/OT1994/records/Missouri_v_Jenkins_merits_1995-06-12.md), the Court **affirmed both reviewed judgments 5–4**, preserving effective desegregation remedies and a genuine route to partial or full release; Stone's joint-development and independent-review model remained a noncontrolling concurrence.
 >
 > In [*Adarand Constructors v. Peña*](../terms/OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md), Stone's preferred replacement standard did **not** become law. His authorized Stevens fallback did: the Court **affirmed 5–4** under the inherited federal remedial framework, leaving *Metro Broadcasting* and *Fullilove* operative at their stated federal scope while *Croson* remains distinct state/local law. Later entries must therefore not treat Stone's proposed common racial-treatment standard as an accomplished *Adarand* holding.
@@ -457,8 +423,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 > **What Stone banked in OT1994:** a real Commerce Clause boundary, durable remedial authority in desegregation, a stronger territorial-districting doctrine, and several institutionally bounded access and speech rules. **What he did not bank:** his preferred unified affirmative-action standard. That proposal remains Stone's jurisprudential project, not controlling law.
 
 #### Adarand Constructors v. Peña, 515 U.S. 200 (1995)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Historical questions.** What equal-protection standard governs federal race-based contracting incentives? Does the challenged compensation arrangement satisfy that standard, including the use of presumptions of social and economic disadvantage?
 
@@ -512,8 +476,6 @@ Under the fallback, the proposed displacement of *Croson* and *Metro* does not b
 Contemporary theoretical context includes Michel Rosenfeld's [*Affirmative Action and Justice* (1991)](https://larc.cardozo.yu.edu/faculty-books/73/) and Cass Sunstein's [“The Anticaste Principle” (1994)](https://repository.law.umich.edu/mlr/vol92/iss8/4/). The [1994 GAO highway DBE review](https://www.gao.gov/products/rced-94-168) supplies related administrative context about developing firms capable of independent competition, not findings about the precise challenged arrangement. Scholarship is not controlling authority, and later studies or later updates on source pages do not enter the 1995 evidentiary record.
 
 #### Miller v. Johnson, 515 U.S. 900 (1995)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Status and selected approach.** Reconstructed counterfactual merits matter combining equal political membership with constitutional room for voluntary race-conscious electoral inclusion. The user's September 28, 2026 acceptance of the researched recommendations controls the current six-question position. The supplied three-judge judgment is for Georgia, with no injunction or unresolved independent claim. This is approved Stone planning and brief preparation, not a completed Court decision or a prediction of another Justice's vote.
 
@@ -573,8 +535,6 @@ Contemporary scholarship provides context, not controlling law or findings about
 
 #### Missouri v. Jenkins, 515 U.S. 70 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical questions and scope.** Did the district court exceed its remedial authority through the challenged salary orders, including funding for noninstructional personnel? Did continuation of the quality-education programs improperly make an unspecified level of student achievement a condition of partial unitary status? Stone addresses those questions on the established remedial record. He follows Souter's objection to using them to reopen the broader foundation of the magnet-school remedy without adequate notice and briefing.
 
 **Stone's disposition: affirm now, preserve a meaningful route to release.** Affirm the Eighth Circuit's judgment sustaining the challenged salary and quality-education orders on the record as understood by the dissent. Missouri has not established an entitlement to partial release on that record. The affirmance leaves the district court's continuing remedial jurisdiction in place and leaves Missouri free to seek partial or full release through a proper motion and supporting evidence. National test-score parity is not an indispensable condition of release. Affirmance does not make every program permanent or predetermine the result of a later release motion.
@@ -603,8 +563,6 @@ A release motion does not require the plaintiffs' agreement, the reviewer's endo
 
 #### U.S. Term Limits v. Thornton, 514 U.S. 779 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical question.** Could Arkansas impose congressional term limits through restrictions on ballot eligibility?
 
 **Stone's disposition.** Affirm invalidation.
@@ -612,8 +570,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 **Reasoning.** States cannot add qualifications for federal legislative office indirectly through the ballot. Protecting voter choice here follows constitutional structure, not a general judicial power to redesign Congress or require competitive elections. This supplies the foundation for *Cook v. Gralike*. [Opinion](https://supreme.justia.com/cases/federal/us/514/779/).
 
 #### Kelley v. Board of Trustees, 35 F.3d 265 (7th Cir. 1994)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Simulation vehicle: OT1994, May 22, 1995.**
 
@@ -627,8 +583,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 #### Simulation status through completed Chunk 7 only
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 > **Cutoff: June 10, 1996.** This note records only decisions completed through **OT1995 Chunk 7**. It intentionally says nothing about the merits or outcome of Chunks 8–10; every later OT1995 entry below remains prospective unless and until the simulation actually decides it.
 >
 > Stone has already added three important pieces to the long-term build. In [*Morse v. Republican Party of Virginia*](../terms/OT1995/records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md), the Court **reversed and remanded 6–3**: the convention-fee change is subject to §5 and the asserted private §10 action may proceed, while the ultimate legality of the fee remains unresolved. In [*Romer v. Evans*](../terms/OT1995/records/Romer_v_Evans_merits_1996-05-20.md), the Court **affirmed 7–2 on ordinary rational-basis review**, invalidating Amendment 2 without creating a new suspect-classification tier. Together those decisions strengthen Stone's anti-exclusion and private-enforcement architecture without collapsing distinct doctrines into one equality test.
@@ -640,8 +594,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 > **Where Stone stands at the Chunk 7 cutoff:** the *Shaw–Miller* territorial line is established; the VRA line has real statutory enforcement through *Holder*, *De Grandy*, and *Morse*; *Romer* adds a bounded anti-exclusion principle; *Lopez* supplies a federal-power limit; *Jenkins* preserves serious remedial authority. The two principal unresolved structural projects are the future shape of affirmative-action doctrine after the *Adarand* fallback and sovereign immunity after the fractured *Seminole Tribe* result. No later OT1995 case is treated here as decided.
 
 #### Bush v. Vera, 517 U.S. 952 (1996)
-
-Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 **Status.** Reconstructed counterfactual simulated grant. The historical Shaw merits posture does not naturally survive the simulated *Shaw*. The reconstruction uses the standing issue actually present in the Texas litigation rather than recreating the historical racial-gerrymandering cause of action.
 
@@ -657,8 +609,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Morse v. Republican Party of Virginia, 517 U.S. 186 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical questions.** Did the party's fee for participation in a convention nominating a U.S. Senate candidate require §5 preclearance? Could private plaintiffs sue under §10's poll-tax provisions?
 
 **Stone's disposition.** Reverse and remand on both issues: preclearance is required, and the private §10 claim is cognizable. Leave whether the particular fee is an unlawful poll tax for initial merits determination below.
@@ -666,8 +616,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 **Reasoning.** A party exercising a state-authorized role in selecting candidates cannot automatically move a regulated voting practice beyond the VRA by using a convention. The Act's structure, contemporaneous remedial context, and express recognition of private enforcement support the §10 action. Statutory coverage is not an adjudication of the ultimate poll-tax claim. This establishes a concrete private-enforcement foundation before *Sandoval*. [Opinion](https://supreme.justia.com/cases/federal/us/517/186/).
 
 #### United States v. Virginia, 518 U.S. 515 (1996)
-
-Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 **Historical questions.** Did excluding women from VMI violate equal protection, and did the proposed separate program cure the violation?
 
@@ -677,8 +625,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Romer v. Evans, 517 U.S. 620 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical question.** Did Colorado's Amendment 2 violate equal protection by broadly withdrawing ordinary legal protections from gay, lesbian, and bisexual people?
 
 **Stone's disposition.** Affirm invalidation.
@@ -687,8 +633,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Wisconsin v. City of New York, 517 U.S. 1 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical question.** Was the Secretary's refusal to statistically adjust the 1990 census constitutionally permissible, or was heightened judicial review required?
 
 **Stone's disposition.** Reverse the Second Circuit and uphold the refusal on this record.
@@ -696,8 +640,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 **Reasoning.** The Constitution permits reasoned discretion over enumeration methods. Numerical accuracy and distributive accuracy are not identical, and the court cannot select a statistical adjustment merely because it might improve one measure. Review for a reasonable relationship to an actual enumeration, while preserving challenges to proven discrimination or arbitrary action. This case permits adjustment where lawful and justified; it does not require it. [Opinion](https://supreme.justia.com/cases/federal/us/517/1/).
 
 #### Klinger v. Department of Corrections, 31 F.3d 727 (8th Cir. 1994)
-
-Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 **Simulation vehicle: OT1995, December 4, 1995.**
 
@@ -709,8 +651,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Southern Christian Leadership Conference of Alabama v. Sessions, 56 F.3d 1281 (11th Cir. 1995)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Simulation vehicle: OT1995, December 18, 1995.**
 
 **Historical questions.** Did Alabama's methods of electing circuit and district judges dilute minority votes under §2 or reflect unconstitutional discrimination? Were the proposed alternatives legally feasible given the state's asserted linkage between a judge's electoral base and jurisdiction?
@@ -721,8 +661,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Voting Rights Coalition v. Wilson, 60 F.3d 1411 (9th Cir. 1995)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Simulation vehicle: OT1995, February 26, 1996.**
 
 **Historical question.** Could California resist or obtain a stay of federal registration duties imposed by the NVRA on constitutional federalism grounds?
@@ -732,8 +670,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 **Reasoning.** The Elections Clause expressly authorizes federal alteration of regulations for congressional elections. Ordinary anti-commandeering analogies cannot erase that specific allocation. Distinguish the scope of the enacted federal-election duty from any claim that Congress generally controls all state-only election administration. [Actual appellate ruling](https://caselaw.findlaw.com/court/us-9th-circuit/1320549.html).
 
 #### Ayers v. Fordice, 879 F. Supp. 1419 (N.D. Miss. 1995)
-
-Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 **Simulation alias: NAACP v. Fordice; OT1995, March 25, 1996.**
 
@@ -747,8 +683,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Lopez v. Monterey County, 519 U.S. 9 (1996)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Could the district court order elections under an unprecleared judicial-election plan in a covered county?
 
 **Stone's disposition.** Reverse and remand; enforce the preclearance requirement before implementation, subject to the recognized rules for genuinely court-fashioned relief.
@@ -756,8 +690,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** A federal court cannot ordinarily give an unprecleared legislative change an implementation route that the covered jurisdiction itself lacks. Coverage, appropriate interim relief, and ultimate substantive validity are distinct. This case does not yet decide the later question whether a covered county must preclear changes required by a noncovered state. [Opinion](https://supreme.justia.com/cases/federal/us/519/9/).
 
 #### Young v. Fordice, 520 U.S. 273 (1997)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Historical questions.** What was Mississippi's operative preclearance benchmark, and did discretionary registration changes in implementing the NVRA require separate §5 review?
 
@@ -767,8 +699,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### Reno v. Bossier Parish School Board, 520 U.S. 471 (1997), Bossier I
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical questions.** Could §5 preclearance be denied solely because a plan violated §2? Was evidence of a §2 violation relevant to discriminatory purpose under §5?
 
 **Stone's disposition.** Preserve the distinction between the two statutes' operative inquiries, vacate the preclearance judgment, and remand for consideration of the relevant purpose evidence.
@@ -776,8 +706,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** Section 5's effect inquiry protects against retrogression; it need not become a second, complete §2 trial. But evidence that the jurisdiction rejected a workable nondilutive alternative can illuminate purpose. The adjudicator must examine that evidence rather than exclude it categorically. Stone flags that statutory purpose is not necessarily limited to an intent to worsen an already discriminatory baseline. The broader purpose issue can be reserved here and squarely decided in *Bossier II*. [Opinion](https://supreme.justia.com/cases/federal/us/520/471/).
 
 #### City of Boerne v. Flores, 521 U.S. 507 (1997)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Historical question.** Was RFRA's imposition of its substantial-burden/compelling-interest command on state and local government a valid exercise of Fourteenth Amendment §5 power?
 
@@ -793,8 +721,6 @@ He then states an affirmative rule: Congress may define a preventive class when 
 
 #### City of Boerne v. Flores, 521 U.S. 507 (1997)
 
-Source: commerce build, under "OT1996".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Could Congress use its Fourteenth Amendment enforcement power to impose the Religious Freedom Restoration Act's standard on state and local government?
@@ -807,8 +733,6 @@ Source: commerce build, under "OT1996".
 
 #### Cohen v. Brown University, 101 F.3d 155 (1st Cir. 1996)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Simulation vehicle: OT1996, June 23, 1997.**
 
 **Historical questions.** Were Title IX's three alternative athletics-compliance routes valid, did Brown violate its effective-accommodation obligation, and was the prescribed remedy appropriate?
@@ -819,8 +743,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### Walmer v. Department of Defense, 52 F.3d 851 (10th Cir. 1995)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Simulation vehicle: OT1996, January 13, 1997.**
 
 **Historical questions.** Was denial of a preliminary injunction against discharge under the earlier Army homosexual-conduct regulation proper under equal protection and the Bill of Attainder Clause?
@@ -830,8 +752,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** The challenged rule was an executive regulation, and an unfavorable personnel rule is not automatically legislative punishment. The distinct equality question warrants intermediate scrutiny of a classification burdening a historically disfavored group, with substantial respect for demonstrated military needs. The earlier regulation and the later §654 statute must not be conflated. Stone cannot declare that Walmer's case concerned identity alone when conduct was part of the record. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/52/851/573233/).
 
 #### Thomasson v. Perry, 80 F.3d 915 (4th Cir. 1996)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Simulation vehicle: OT1996, June 9, 1997.**
 
@@ -847,8 +767,6 @@ The First Amendment leads to the same administrable boundary. Speech does not be
 
 #### Foster v. Love, 522 U.S. 67 (1997)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical question.** Was Louisiana's system, which could conclusively elect members of Congress before the federally prescribed election day, preempted?
 
 **Stone's disposition.** Affirm preemption of the conflicting arrangement.
@@ -857,8 +775,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 #### Miller v. Albright, 523 U.S. 420 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical questions.** Could the citizenship claimant challenge different statutory requirements for an unmarried citizen father and mother? Were the requirements constitutional, and could a court supply the claimed citizenship remedy?
 
 **Stone's disposition.** Permit the sex-equality challenge, hold the paternal-only requirements unconstitutional, sever the discriminatory conditions, and direct recognition of Miller's citizenship at birth under the remaining statutory grant.
@@ -866,8 +782,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 **Reasoning.** The differential conditions rest on sex-based assumptions about which unmarried parent will prove parentage, assume responsibility, or form the relevant relationship. Those assumptions do not satisfy heightened scrutiny where Congress can require neutral proof of biological parentage and whatever parent-child connection it considers lawfully necessary without assigning different legal burdens by sex. Stone also answers the remedy question. The INA contains a broad severability command, and the challenged provisions operate as restrictions on an otherwise automatic statutory grant of citizenship at birth. Excising the unconstitutional paternal-only conditions does not ask a court to naturalize someone in equity; it leaves Congress's remaining grant to operate according to its own terms. Where the neutral parentage and citizen-parent residence predicates are established on this record, the proper judgment is a declaration of citizenship, not another remand to decide whether courts possess a remedy. [Opinions](https://supreme.justia.com/cases/federal/us/523/420/).
 
 #### Duffy v. Wolle, 123 F.3d 1026 (8th Cir. 1997)
-
-Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 **Simulation vehicle: OT1997, June 3, 1998.**
 
@@ -878,8 +792,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 **Reasoning.** Answer the remedial questions before remanding the factual one. Hiring a chief probation officer is important to judicial administration, but it is an employment decision rather than adjudication between parties, so *Forrester* forecloses absolute judicial immunity. *Davis* already recognizes a damages remedy for federal sex discrimination in a setting without an exclusive congressionally created remedial system. An administratively adopted EEO process can provide useful relief without silently extinguishing that constitutional action; displacement requires a legally attributable congressional choice, not the existence of any alternative complaint procedure. Qualified immunity protects reasonable legal error, not intentional sex discrimination under a clearly established equal-protection rule. The unresolved question is factual: whether the panel actually selected the successful applicant because of sex. Duffy is entitled to discovery sufficient to test the asserted nondiscriminatory reasons, not a general inquiry into judges' adjudicative work. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/123/1026/624823/).
 
 #### Richenberg v. Perry, 97 F.3d 256 (8th Cir. 1996)
-
-Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 **Simulation alias: Richenberg v. Cohen; OT1997, December 8, 1997.**
 
@@ -895,8 +807,6 @@ The First Amendment permits evidentiary use of speech to prove a legally relevan
 
 #### Lopez v. Monterey County, 525 U.S. 266 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical questions.** Must a covered county obtain §5 preclearance for voting changes required by a noncovered state, even where the county lacks discretion? Is that application within Congress's Fifteenth Amendment enforcement power?
 
 **Stone's disposition.** Reverse and remand; require preclearance.
@@ -907,8 +817,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### Department of Commerce v. U.S. House of Representatives, 525 U.S. 316 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical questions.** Did the challengers establish standing? Did the Census Act permit the planned sampling for congressional apportionment? Was a constitutional ruling necessary?
 
 **Stone's disposition.** Sustain the injunction on the statutory ground in the private-plaintiff litigation; handle the companion House case consistently with that dispositive ruling. Leave the Enumeration Clause question unresolved.
@@ -917,8 +825,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### Saenz v. Roe, 526 U.S. 489 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical question.** Could California limit new residents' welfare benefits to the level paid by their former state during their first year of residence, including under federal statutory permission?
 
 **Stone's disposition.** Affirm the injunction against the unequal newcomer rule.
@@ -926,8 +832,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** The Fourteenth Amendment's protection of equal citizenship upon becoming a state resident limits durational discrimination. Congress cannot authorize a state to violate that constitutional protection. This is an important instance where a formally enacted congressional permission still cannot supply a valid gateway. [Opinion](https://supreme.justia.com/cases/federal/us/526/489/).
 
 #### Dallas Fire Fighters Association v. City of Dallas, 150 F.3d 438 (5th Cir. 1998)
-
-Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 **Simulation alias: City of Dallas v. Dallas Fire Fighters Association; OT1998, June 18, 1999.**
 
@@ -941,8 +845,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### Adarand Constructors v. Slater, 528 U.S. 216 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Did the plaintiff's later disadvantaged-business certification moot its challenge, given uncertainty about federal acceptance and continued eligibility?
 
 **Stone's disposition.** Reverse the mootness judgment and remand if the historical controversy still exists.
@@ -952,8 +854,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Dependency.** The outcome of the 1995 case, whether remand under Stone's preferred standard, affirmance under the Stevens fallback, or another controlling disposition, may produce a different program or judgment. Use the actual resulting controversy, not the historical certification story automatically.
 
 #### Reno v. Bossier Parish School Board, 528 U.S. 320 (2000), Bossier II
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Historical questions.** Did the case remain live after the challenged plan's election cycle? Does §5's purpose prong prohibit discriminatory but nonretrogressive purpose?
 
@@ -965,8 +865,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Gutierrez v. Ada, 528 U.S. 250 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Did the Organic Act's majority requirement for Guam's gubernatorial election count ballots not expressing a vote in that contest?
 
 **Stone's disposition.** Reverse the construction requiring a runoff based on the broader ballot denominator.
@@ -974,8 +872,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** Identify the statutory electoral unit and the votes cast for the office. Do not use a general commitment to participation to count abstentions in a contest as votes against every candidate. This is a statutory denominator question, not a judicial choice of the best election system. [Opinion](https://supreme.justia.com/cases/federal/us/528/250/).
 
 #### Rice v. Cayetano, 528 U.S. 495 (2000)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Historical question.** Could Hawaii limit voting for Office of Hawaiian Affairs trustees to persons satisfying the ancestry restriction?
 
@@ -985,8 +881,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Village of Willowbrook v. Olech, 528 U.S. 562 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Could an individual state an equal-protection claim alleging intentionally unequal treatment without a rational basis, even without membership in a protected group?
 
 **Stone's disposition.** Affirm the claim's sufficiency at the pleading stage.
@@ -995,8 +889,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Texas v. Lesage, 528 U.S. 18 (1999)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** What effect does conclusive proof that the same admissions decision would have occurred without the allegedly unlawful racial consideration have on the §1983 claim? What other claims or prospective relief remained?
 
 **Stone's disposition.** Reverse the appellate refusal to recognize the same-decision defense to retrospective liability for that decision; remand the remaining statutory and prospective issues.
@@ -1004,8 +896,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** A claimant seeking forward-looking equal-process relief need not establish entitlement to admission. A retrospective claim tied to the discrete denial is different when the government conclusively proves the same lawful outcome. Do not confuse this with a finding that the challenged racial policy was valid. The actual case also left issues involving §§1981 and 2000d and prospective relief open. [Opinion](https://supreme.justia.com/cases/federal/us/528/18/).
 
 #### Valdespino v. Alamo Heights Independent School District, 168 F.3d 848 (5th Cir. 1999)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Simulation vehicle: OT1999, May 16, 2000.**
 
@@ -1021,8 +911,6 @@ There is no contradiction in showing defeat under the existing at-large electora
 
 #### Eisenberg v. Montgomery County Public Schools, 197 F.3d 123 (4th Cir. 1999)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Simulation vehicle: OT1999, June 20, 2000.**
 
 **Historical question.** Was denial of a preliminary injunction proper where the county refused Jacob Eisenberg's requested magnet-school transfer because of his race and the sending school's diversity profile?
@@ -1036,8 +924,6 @@ The county must explain the relationship between its countywide comparisons, the
 **The express extension.** Stone recognizes meaningful integrated public education and prevention of serious racial isolation as independently important interests. They are not restricted to compensation for proved constitutional wrongdoing. The extension is legally contestable but doctrinally candid. It does not confer automatic validity on the county's numerical rule or create a general racial-balancing power.
 
 #### Mixon v. Ohio, 193 F.3d 389 (6th Cir. 1999)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Simulation vehicle: OT1999, June 27, 2000.**
 
@@ -1053,8 +939,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Bush v. Palm Beach County Canvassing Board, 531 U.S. 70 (2000)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical questions.** What grounds supported the Florida Supreme Court's construction of the presidential-election deadlines, and did that construction raise an Article II issue or affect the federal safe-harbor provision?
 
 **Stone's disposition.** Join a narrow vacatur and remand for clarification of the state judgment's basis, without declaring that ordinary state judicial interpretation is an unconstitutional legislative alteration.
@@ -1062,8 +946,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 **Reasoning.** The federal court should know what the state court actually decided before resolving an Article II challenge. The safe harbor provides a federal legal advantage under its conditions; it does not itself command termination of every unresolved election contest on that date. Preserve the normal role of state courts in interpreting election statutes. [Opinion](https://supreme.justia.com/cases/federal/us/531/70/).
 
 #### Bush v. Gore, 531 U.S. 98 (2000)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Historical questions.** Did the ordered presidential recount treat materially equivalent ballots under inconsistent standards in violation of equal protection? Did the Florida Supreme Court materially depart from the manner of appointing electors established by the Florida Legislature in violation of Article II, § 1, cl. 2? What remedy follows, and what legal significance should be given to the federal safe-harbor date?
 
@@ -1087,8 +969,6 @@ Time nevertheless matters. Florida must proceed expeditiously because the electo
 
 #### Cook v. Gralike, 531 U.S. 510 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical question.** Could Missouri place unfavorable ballot labels next to congressional candidates who did not support its term-limits position?
 
 **Stone's disposition.** Affirm invalidation.
@@ -1096,8 +976,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 **Reasoning.** Elections Clause authority regulates the manner of elections; it does not empower a state to use the official ballot to favor a policy commitment or handicap particular federal candidates. This extends *Thornton* through the actual device at issue, rather than a general fairness power over political campaigns. [Opinion](https://supreme.justia.com/cases/federal/us/531/510/).
 
 #### Nguyen v. INS, 533 U.S. 53 (2001)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Historical questions.** Were the different statutory citizenship requirements for unmarried citizen fathers and mothers constitutional? What relief followed for Nguyen's nationality claim in removal proceedings?
 
@@ -1108,8 +986,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 Stone also answers the remedial question left open in the old build. The INA's general severability clause creates a strong presumption that an invalid condition can be excised. Removing § 1409(a)(4) does not amount to equitable naturalization; the remaining statute itself confers citizenship at birth when its valid predicates are met. Under Nguyen's applicable statutory version and the established parentage and citizen-parent predicates in this record, the Court should recognize the citizenship Congress's remaining text supplies rather than remand the same legal question. [Opinion and dissent](https://supreme.justia.com/cases/federal/us/533/53/).
 
 #### Brewer v. West Irondequoit Central School District, 212 F.3d 738 (2d Cir. 2000)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Simulation vehicle: OT2000, March 26, 2001.**
 
@@ -1123,8 +999,6 @@ An older federal funding history is not a continuing congressional mandate after
 
 #### Chen v. City of Houston, 206 F.3d 502 (5th Cir. 2000)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Simulation vehicle: OT2000, September 10, 2001.**
 
 **Historical questions.** Was Houston's use of total population rather than eligible-voter population constitutional? Did the plaintiffs' separate racial-gerrymandering theory survive summary judgment?
@@ -1137,8 +1011,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Adarand Constructors v. Mineta, 534 U.S. 103 (2001)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical questions.** Could the Court review a challenge to direct federal procurement when the judgment below concerned materially different state and local federal-aid procurement regulations, and the necessary standing and merits issues had not been presented in that posture?
 
 **Stone's disposition.** Dismiss the writ as improvidently granted if the historical procedural mismatch remains.
@@ -1148,8 +1020,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Dependency.** The actual 1995 disposition and subsequent proceedings may eliminate the later mismatch; do not assume a remand if the Stevens fallback instead produces affirmance. If a properly presented merits dispute arises, identify the controlling standard and Stone's position under the branch actually reached, then examine the challenged program's objective, evidence, operation, and burdens. Do not force a dismissal solely to reproduce history.
 
 #### Utah v. Evans, 536 U.S. 452 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical questions.** Did Utah have standing to challenge the apportionment result? Was hot-deck imputation prohibited sampling under the Census Act, or inconsistent with an actual enumeration?
 
@@ -1163,15 +1033,11 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Appendix: Stone's commerce and federalism build (planning)
 
-Source: commerce build, the appendix heading and its opening text.
-
 The original planning build, titled "Justice Stone: Commerce Clause and Federalism build, OT1991 baseline through OT2014," reproduced verbatim with its headings moved down one level. Several entries predate the decisions they describe; see "Roadmap entries superseded by decisions" below.
 
 **Concerns Justice Stone only. Proposed positions, not predetermined Court holdings.**
 
 #### Scope and how to use this build
-
-Source: commerce build, top-level section.
 
 Stone begins every case with the law actually governing at that historical moment. He then either applies it, applies it differently, clarifies it, or openly proposes a change; his jurisprudence itself is not authority, and that distinction is built into the Master Jurisprudence. Later cases must not be silently imported into earlier Terms — fix the legal world and date first, and keep existing law separate from proposed doctrinal development.
 
@@ -1187,8 +1053,6 @@ The organizing proposition is **enumerated end first, accountable means second**
 | **Stone roadmap** | A future case whose proposed disposition and doctrinal purpose were planned but had not yet become simulation law at the synchronized cutoff. |
 
 #### Navigation
-
-Source: commerce build, top-level section.
 
 | Term | Cases | Status | Doctrinal job |
 |---|---|---|---|
@@ -1219,13 +1083,9 @@ Source: commerce build, top-level section.
 
 #### Roadmap entries superseded by decisions
 
-Source: commerce build, top-level section.
-
 The roadmap below predates these decisions; each entry now carries a "Simulation result" line: Seminole Tribe, Printz, Florida Prepaid, College Savings, Alden, Kimel. Standard F5's statement that Article I does not itself authorize private damages suits against States, and F2's description of Printz as extending the anti-commandeering bar to executives, are likewise superseded.
 
 #### The standards Stone is building
-
-Source: commerce build, top-level section.
 
 ##### F1. The Commerce Clause line: identify the mechanism
 
@@ -1253,8 +1113,6 @@ Stone is not a States'-rights Justice — a valid national power gets its legiti
 
 #### Lower-court sim case index
 
-Source: commerce build, top-level section.
-
 For avoidance of doubt, these are the principal cases in this build brought into the simulation from the lower courts rather than being historical Supreme Court merits cases — a future session must not describe any of them as a historical Supreme Court merits decision; each is a real lower-court case used as a simulation Supreme Court vehicle.
 
 - **OT1994:** *United States v. Harris.*
@@ -1267,13 +1125,9 @@ For avoidance of doubt, these are the principal cases in this build brought into
 
 #### One-sentence description of the entire project
 
-Source: commerce build, top-level section.
-
 Stone is trying to build a federalism jurisprudence in which national power is strong when a genuine constitutionally assigned national mechanism exists, State power is strong when no federal source displaces it, neither sovereign can hide responsibility for its choices, and courts enforce those boundaries through rules that governments can understand before they litigate rather than through labels that merely announce who wins.
 
 #### State immunity and enforcement
-
-Source: equality build, under "Recurring reasoning and source boundaries".
 
 The build no longer assumes that any Article I power, standing alone, lets Congress subject a nonconsenting State to a private damages action. Stone's preferred position is that Article I ordinarily does not supply that authority. Valid Reconstruction-Amendment enforcement legislation may abrogate state immunity when Congress speaks unmistakably and acts within the relevant enforcement power. A State may also waive immunity.
 
@@ -1281,13 +1135,9 @@ Prospective officer relief, public enforcement by the United States, statutory p
 
 ### OT1991
 
-Source: commerce build, text directly under "Baseline: inherited before OT1992 opens".
-
 These are already behind Stone when the restart opens; do not treat them as new OT1992 developments.
 
 #### New York v. United States, 505 U.S. 144 (1992)
-
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 **Status.** Inherited baseline.
 
@@ -1299,8 +1149,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 #### Quill Corp. v. North Dakota, 504 U.S. 298 (1992)
 
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
-
 **Status.** Inherited baseline.
 
 **Historical background.** A dormant-Commerce and state-tax case concerning a State's authority to require an out-of-state mail-order business to collect use tax.
@@ -1310,8 +1158,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 **What this establishes.** Stone expressly separates Due Process nexus from dormant-Commerce nexus. Purposeful market exploitation can satisfy adjudicative fairness even where the then-existing Commerce rule still protects a remote seller from a collection duty. The physical-presence rule is therefore narrow, precedent-dependent, and revisable rather than a general constitutional definition of state taxing power. Later tax cases must ask separately about nexus, fair allocation, nondiscrimination, multiple taxation, territorial reach, administrability, and reliance rather than letting one formal feature answer every question.
 
 #### Chemical Waste Management v. Hunt, 504 U.S. 334 (1992)
-
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 **Status.** Inherited baseline.
 
@@ -1323,8 +1169,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 #### Fort Gratiot Sanitary Landfill v. Michigan Department of Natural Resources, 504 U.S. 353 (1992)
 
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
-
 **Status.** Inherited baseline.
 
 **Historical background.** Michigan authorized counties to restrict importation of waste originating outside the county, including from other States.
@@ -1334,8 +1178,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 **What this establishes.** The Constitution examines practical economic barriers, not the geographic vocabulary used to construct them.
 
 #### Morales v. Trans World Airlines, 504 U.S. 374 (1992)
-
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 **Status.** Inherited baseline.
 
@@ -1347,8 +1189,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 #### Gade v. National Solid Wastes Management Association, 505 U.S. 88 (1992)
 
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
-
 **Status.** Inherited baseline.
 
 **Historical background.** A federal occupational-safety regime and an overlapping state licensing scheme for hazardous-waste workers.
@@ -1358,8 +1198,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 **What this establishes.** The limited negative rule is controlling by five votes: Souter, Blackmun, Stevens, Thomas, and Stone. Souter's broader impossibility-only approach has four votes and is noncontrolling; Stone's separate positive conflict formulation is not itself a Court-wide test. The durable rule is therefore provision-specific: occupational overlap plus the absence of an approved state plan is insufficient by itself, and courts must identify an actual statutory or operational basis for displacement. This becomes the opening structural premise for the later duty-specific preemption line.
 
 #### Cipollone v. Liggett Group, 505 U.S. 504 (1992)
-
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 **Status.** Inherited baseline.
 
@@ -1371,8 +1209,6 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 #### Kraft General Foods v. Iowa Department of Revenue and Finance, 505 U.S. 71 (1992)
 
-Source: commerce build, under "Baseline: inherited before OT1992 opens".
-
 **Status.** Inherited baseline.
 
 **Historical background.** A state tax scheme's treatment of foreign-source dividend income.
@@ -1383,13 +1219,9 @@ Source: commerce build, under "Baseline: inherited before OT1992 opens".
 
 ### OT1992
 
-Source: commerce build, text directly under "OT1992: the first Term of the restart".
-
 None of these cases should prematurely create *Lopez*. This Term's job is the surrounding architecture: proprietor versus regulator, neutral state taxation, disciplined preemption, functional statutory classification, and careful sovereign-immunity procedure.
 
 #### Building & Construction Trades Council v. Associated Builders & Contractors (Boston Harbor), 507 U.S. 218 (1993)
-
-Source: commerce build, under "OT1992: the first Term of the restart".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1403,8 +1235,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 
 #### Itel Containers International Corp. v. Huddleston, 507 U.S. 60 (1993)
 
-Source: commerce build, under "OT1992: the first Term of the restart".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Tennessee taxed the local lease of cargo containers that later traveled extensively in international commerce.
@@ -1416,8 +1246,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 **What this establishes.** The start of the Stone tax line producing *Jefferson Lines* and *Wynne*. A State cannot turn a formally neutral tax into protectionism, double taxation, or taxation of value belonging elsewhere.
 
 #### CSX Transportation v. Easterwood, 507 U.S. 658 (1993)
-
-Source: commerce build, under "OT1992: the first Term of the restart".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1431,8 +1259,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 
 #### District of Columbia v. Greater Washington Board of Trade, 506 U.S. 125 (1992)
 
-Source: commerce build, under "OT1992: the first Term of the restart".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** A District law required employers to provide equivalent health-insurance coverage to injured workers, measured against their existing ERISA plan.
@@ -1444,8 +1270,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 **What this establishes.** The particular result without the disastrous broad ERISA-preemption vocabulary that later needs years of retreat.
 
 #### Department of Treasury v. Fabe, 508 U.S. 491 (1993)
-
-Source: commerce build, under "OT1992: the first Term of the restart".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1459,8 +1283,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 
 #### Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy, 506 U.S. 139 (1993)
 
-Source: commerce build, under "OT1992: the first Term of the restart".
-
 **Status.** Historical Supreme Court merits case, secondary.
 
 **Historical questions.** May a public authority immediately appeal the denial of a claimed sovereign-immunity defense before final judgment?
@@ -1472,8 +1294,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 **What this establishes.** The start of Stone's insistence on separating entity status, immunity, forum, underlying federal duty, cause of action, and remedy. Build sovereign immunity from legal status, structure, historical immunity, and the particular judicial act being resisted — not abstract rhetoric about "dignity."
 
 #### United States v. California, 507 U.S. 746 (1993)
-
-Source: commerce build, under "OT1992: the first Term of the restart".
 
 **Status.** Historical Supreme Court merits case, secondary.
 
@@ -1489,8 +1309,6 @@ Source: commerce build, under "OT1992: the first Term of the restart".
 
 #### Oregon Waste Systems v. Department of Environmental Quality, 511 U.S. 93 (1994)
 
-Source: commerce build, under "OT1993".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Oregon charged a higher per-ton surcharge on waste originating outside the State.
@@ -1503,8 +1321,6 @@ Source: commerce build, under "OT1993".
 
 #### C & A Carbone v. Town of Clarkstown, 511 U.S. 383 (1994)
 
-Source: commerce build, under "OT1993".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** A town ordinance required all local waste to pass through a designated private transfer facility.
@@ -1516,8 +1332,6 @@ Source: commerce build, under "OT1993".
 **What this establishes.** The private-enterprise side of the later public/private distinction — a reservation that matters enormously later. Do not decide that all public waste routing is unconstitutional.
 
 #### West Lynn Creamery v. Healy, 512 U.S. 186 (1994)
-
-Source: commerce build, under "OT1993".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1533,8 +1347,6 @@ Source: commerce build, under "OT1993".
 
 #### Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 30 (1994)
 
-Source: commerce build, under "OT1994".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Is a bistate transportation authority an "arm of the State" for Eleventh Amendment purposes?
@@ -1547,8 +1359,6 @@ Source: commerce build, under "OT1994".
 
 #### Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 30 (1994)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical question.** Was the bistate railway entity protected by the states' Eleventh Amendment immunity against the employees' FELA suits?
 
 **Stone's disposition.** Reverse the immunity ruling.
@@ -1556,8 +1366,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 **Reasoning.** Identify the entity's actual legal relationship to the states and responsibility for its debts. A governmental connection is not enough to make every public corporation an arm of the state. Keep this institutional-status inquiry separate from Congress's power to abrogate immunity where immunity otherwise exists. [Opinion](https://supreme.justia.com/cases/federal/us/513/30/).
 
 #### Oklahoma Tax Commission v. Jefferson Lines, 514 U.S. 175 (1995)
-
-Source: commerce build, under "OT1994".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1571,8 +1379,6 @@ Source: commerce build, under "OT1994".
 
 #### American Airlines v. Wolens, 513 U.S. 219 (1995)
 
-Source: commerce build, under "OT1994".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Frequent-flyer program changes were challenged under state consumer-fraud law and ordinary contract law.
@@ -1584,8 +1390,6 @@ Source: commerce build, under "OT1994".
 **What this establishes.** Contractual accountability preserved alongside respect for federal deregulation — an early example of Stone refusing to turn preemption into substantive immunity.
 
 #### Freightliner Corp. v. Myrick, 514 U.S. 280 (1995)
-
-Source: commerce build, under "OT1994".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1599,8 +1403,6 @@ Source: commerce build, under "OT1994".
 
 #### United States v. Lopez, 514 U.S. 549 (1995)
 
-Source: commerce build, under "OT1994".
-
 **Status.** Historical Supreme Court merits case, foundational.
 
 **Historical questions.** Did the Gun-Free School Zones Act's application to a student possessing a firearm near a school rest on a valid exercise of the commerce power?
@@ -1613,8 +1415,6 @@ Source: commerce build, under "OT1994".
 
 #### United States v. Lopez, 514 U.S. 549 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical question.** Did Congress have Commerce Clause authority to enact the original Gun-Free School Zones Act's possession prohibition?
 
 **Stone's disposition.** Affirm invalidation of the provision before the Court.
@@ -1622,8 +1422,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 **Reasoning.** An attenuated chain from local noneconomic conduct to national economic effects does not establish unlimited federal police power. A jurisdictional connection or materially different statutory scheme must be assessed on its own terms. This limit does not govern the Elections Clause or the Reconstruction Amendments, whose texts confer different powers. [Opinion](https://supreme.justia.com/cases/federal/us/514/549/).
 
 #### United States v. Lopez, 514 U.S. 549 (1995)
-
-Source: Second Amendment build, under "OT1994: the enumerated-powers foundation".
 
 **Status.** Essential, structural — not itself a Second Amendment case.
 
@@ -1637,8 +1435,6 @@ Source: Second Amendment build, under "OT1994: the enumerated-powers foundation"
 
 #### United States v. Harris, 25 F.3d 1275
 
-Source: commerce build, under "OT1994".
-
 **Status.** Lower-court sim case.
 
 **Historical questions.** Does the federal carjacking statute survive as applied to a particular vehicle, after *Lopez*?
@@ -1650,8 +1446,6 @@ Source: commerce build, under "OT1994".
 **What this establishes.** *Lopez* is a theory of connection, not a campaign against federal criminal law.
 
 #### United States v. Robertson, 514 U.S. 669 (1995)
-
-Source: commerce build, under "OT1994".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1665,11 +1459,9 @@ Source: commerce build, under "OT1994".
 
 ### OT1995
 
-Cross-reference: the commerce build's entry "United States v. Hale, 978 F.2d 1016" is placed under Second Amendment, OT1995, beside the Second Amendment build's entry for that case.
+See also: United States v. Hale, 978 F.2d 1016, under Second Amendment, OT1995.
 
 #### American Life League v. Reno, 47 F.3d 642
-
-Source: commerce build, under "OT1995".
 
 **Status.** Lower-court sim case.
 
@@ -1682,8 +1474,6 @@ Source: commerce build, under "OT1995".
 **What this establishes.** Direct interference with market transactions, distinguished from the generalized economic consequences of crime. Ordinary assault, trespass, protest, or disturbance near a clinic does not become federally regulable merely by location.
 
 #### Seminole Tribe v. Florida, 517 U.S. 44 (1996)
-
-Source: commerce build, under "OT1995".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1699,8 +1489,6 @@ Source: commerce build, under "OT1995".
 
 #### Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical questions.** Could Congress authorize the IGRA suit against Florida through its Indian Commerce power? Could a suit against the governor proceed under *Ex parte Young*?
 
 **Stone's disposition.** Affirm dismissal of the direct action against Florida, but reverse the categorical rejection of the prospective officer action and remand that claim for enforcement within IGRA's statutory sequence.
@@ -1708,8 +1496,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 **Reasoning.** Stone answers both questions. Congress has substantive authority over Indian commerce and unmistakably authorized the IGRA action, but Article I authority does not by itself remove the State's immunity from being made the defendant in a private federal suit. A federal duty, a cause of action, the defendant, immunity, and relief are separate legal questions. The officer action is different: a responsible officer maintaining an ongoing violation of federal law may be ordered prospectively to comply. That route does not enlarge IGRA. The court must respect Congress's negotiation, good-faith determination, mediation, timing, and other remedial limits rather than use *Young* to invent a broader bargaining decree. Valid Reconstruction-Amendment abrogation and actual state waiver remain separate sources for later cases.
 
 #### United States v. Bishop, 66 F.3d 569
-
-Source: commerce build, under "OT1995".
 
 **Status.** Lower-court sim case.
 
@@ -1723,8 +1509,6 @@ Source: commerce build, under "OT1995".
 
 #### Medtronic v. Lohr, 518 U.S. 470 (1996)
 
-Source: commerce build, under "OT1995".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Does federal medical-device regulation preempt a state common-law damages action?
@@ -1736,8 +1520,6 @@ Source: commerce build, under "OT1995".
 **What this establishes.** Matures *Cipollone*/*Easterwood*/*Myrick* into an operational claim-by-claim comparison.
 
 #### SSC Corp. v. Town of Smithtown, 66 F.3d 502
-
-Source: commerce build, under "OT1995".
 
 **Status.** Lower-court sim case.
 
@@ -1751,11 +1533,9 @@ Source: commerce build, under "OT1995".
 
 ### OT1996
 
-Cross-reference: the commerce build's entry "City of Boerne v. Flores, 521 U.S. 507 (1997)" is placed under Equality, voting and enforcement, OT1996, beside the equality build's entry for that case.
+See also: City of Boerne v. Flores, 521 U.S. 507 (1997), under Equality, voting and enforcement, OT1996.
 
 #### Pic-A-State Pennsylvania v. Reno, 76 F.3d 1294
-
-Source: commerce build, under "OT1996".
 
 **Status.** Lower-court sim case.
 
@@ -1769,8 +1549,6 @@ Source: commerce build, under "OT1996".
 
 #### Idaho v. Coeur d'Alene Tribe, 521 U.S. 261 (1997)
 
-Source: commerce build, under "OT1996".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Could a tribe sue state officials for prospective relief concerning disputed lake-bed ownership?
@@ -1783,8 +1561,6 @@ Source: commerce build, under "OT1996".
 
 #### Idaho v. Coeur d'Alene Tribe, 521 U.S. 261 (1997)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Could the tribe pursue its submerged-land claim against state officers under *Ex parte Young*, notwithstanding state immunity?
 
 **Stone's disposition.** Permit the properly prospective federal-law officer claim to proceed and reject the special-sovereignty exception relied on to bar it; follow the core position of the historical dissent.
@@ -1792,8 +1568,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** Courts should identify the relief and the alleged ongoing federal violation, rather than withhold a federal forum whenever the subject is important to a state. Ordinary limits against retrospective compensation and state-law commands remain. This preserves a usable enforcement route without treating every nominal officer suit as valid. [Opinion and dissent](https://supreme.justia.com/cases/federal/us/521/261/).
 
 #### Printz v. United States / Mack v. United States, 521 U.S. 898 (1997)
-
-Source: commerce build, under "OT1996".
 
 **Status.** Historical Supreme Court merits case, foundational.
 
@@ -1809,8 +1583,6 @@ Source: commerce build, under "OT1996".
 
 #### Printz v. United States, 521 U.S. 898 (1997)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Could Congress compel state and local chief law-enforcement officers to perform the Brady Act's interim background-check duties?
 
 **Stone's disposition.** Reverse the appellate judgment sustaining the compulsory executive duties.
@@ -1818,8 +1590,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** Retain a bounded anti-commandeering rule under ordinary Article I regulation. Distinguish regulation of states as employers or market participants, conditions on voluntarily accepted grants, and the Constitution's specific allocation of election-regulation authority. Nothing here decides whether a properly fitted Reconstruction Amendment enforcement measure can impose a particular duty. This qualification is an identification of a different constitutional source, not a generic civil-rights exception. [Opinion](https://supreme.justia.com/cases/federal/us/521/898/).
 
 #### Printz v. United States, 521 U.S. 898 (1997)
-
-Source: Second Amendment build, under "OT1996: structural support".
 
 **Status.** Structural foundation, not a Second Amendment merits case.
 
@@ -1830,8 +1600,6 @@ Source: Second Amendment build, under "OT1996: structural support".
 **Reasoning.** *Printz*'s significance here is anti-commandeering, not the substantive right to possess a firearm. Stone's later distinction, applied repeatedly in *Fraternal Order of Police* and *Gillespie*, is exact: Congress may directly regulate an individual who possesses a firearm, provided it has an enumerated-power basis; Congress may not require a State or its officers to administer a federal program merely because the subject involves firearms; the practical effect of federal law on state employment qualifications does not itself amount to commandeering; and the federal government cannot evade *Printz* by describing compelled state administration as ordinary regulation.
 
 #### United States v. Mussari, 95 F.3d 787
-
-Source: commerce build, under "OT1996".
 
 **Status.** Lower-court sim case.
 
@@ -1845,8 +1613,6 @@ Source: commerce build, under "OT1996".
 
 #### Regents of the University of California v. Doe, 519 U.S. 425 (1997)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Does a federal agreement to indemnify a state university remove its Eleventh Amendment immunity?
 
 **Stone's disposition.** Reverse the ruling that indemnification alone defeats immunity.
@@ -1855,11 +1621,9 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 ### OT1997
 
-Cross-reference: the commerce build's entry "United States v. Rybar, 103 F.3d 273" is placed under Second Amendment, OT1997, beside the Second Amendment build's entry for that case.
+See also: United States v. Rybar, 103 F.3d 273, under Second Amendment, OT1997.
 
 #### United States v. Robinson
-
-Source: commerce build, under "OT1997".
 
 **Status.** Lower-court sim case.
 
@@ -1873,8 +1637,6 @@ Source: commerce build, under "OT1997".
 
 #### United States v. Hinds
 
-Source: commerce build, under "OT1997".
-
 **Status.** Lower-court sim case.
 
 **Historical questions.** Is a house of worship a building "used in" interstate commerce for purposes of the federal arson statute, § 844(i)?
@@ -1887,8 +1649,6 @@ Source: commerce build, under "OT1997".
 
 #### United States v. Bird, 124 F.3d 667
 
-Source: commerce build, under "OT1997".
-
 **Status.** Lower-court sim case.
 
 **Historical questions.** Does FACE survive as applied to force or true threats specifically intended to prevent reproductive-health services?
@@ -1898,8 +1658,6 @@ Source: commerce build, under "OT1997".
 **Reasoning.** The market relationship comes from intentional interference with provision or receipt of the service, not the generic economic consequences of violence.
 
 #### Waste Management v. Metropolitan Government of Nashville
-
-Source: commerce build, under "OT1997".
 
 **Status.** Lower-court sim case.
 
@@ -1913,8 +1671,6 @@ Source: commerce build, under "OT1997".
 
 #### National Association of Home Builders v. Babbitt, 130 F.3d 1041
 
-Source: commerce build, under "OT1997".
-
 **Status.** Lower-court sim case, major Commerce development.
 
 **Historical questions.** Does application of the Endangered Species Act to a purely local land-development project exceed the commerce power?
@@ -1927,8 +1683,6 @@ Source: commerce build, under "OT1997".
 
 #### Wisconsin Department of Corrections v. Schacht, 524 U.S. 381 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical question.** Did the presence of a potentially immune state claim prevent removal of the entire action to federal court?
 
 **Stone's disposition.** Reverse that categorical jurisdictional rule.
@@ -1938,8 +1692,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 ### OT1998
 
 #### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, 527 U.S. 627 (1999)
-
-Source: commerce build, under "OT1998".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1955,8 +1707,6 @@ Source: commerce build, under "OT1998".
 
 #### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, 527 U.S. 627 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical question.** Did Congress validly remove state immunity for the patent-infringement damages action?
 
 **Stone's disposition.** Reverse the Federal Circuit and dismiss the direct damages action against the nonconsenting state entity on sovereign-immunity grounds.
@@ -1964,8 +1714,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** *Seminole Tribe* removes the Article I shortcut. The Patent Clause validly imposes federal patent obligations on States, but a private damages action against the State requires waiver or a separate constitutional source for abrogation. Section 5 does not supply that source here. Congress did not identify a sufficiently developed pattern of States intentionally or otherwise unconstitutionally depriving patent owners of property without adequate process, while the remedy applies to infringement categorically without tracking unconstitutional deprivation, culpability, or the availability of process. Patent infringement and a Fourteenth Amendment deprivation therefore remain distinct legal concepts. The patent duty survives; waiver, federal enforcement, and properly available prospective officer relief remain separate mechanisms. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/527/627/).
 
 #### College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board, 527 U.S. 666 (1999)
-
-Source: commerce build, under "OT1998".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -1981,8 +1729,6 @@ Source: commerce build, under "OT1998".
 
 #### College Savings Bank v. Florida Prepaid, 527 U.S. 666 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical questions.** Did Congress validly abrogate immunity for the Lanham Act false-advertising claim? Had the State waived immunity by participating in the relevant market?
 
 **Stone's disposition.** Affirm the immunity dismissal on both theories.
@@ -1990,8 +1736,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** Congress clearly attempted to authorize the action, but after *Seminole Tribe* the Commerce Clause does not provide power to make a nonconsenting State a private damages defendant. The false-advertising claim also supplies no independent § 5 basis for retrospective state liability. Waiver is different from abrogation and must be an actual, voluntary, sufficiently clear choice by the State. Participation in a federally regulated market cannot be converted into fictional consent to suit merely because Congress could regulate the activity. Substantive federal false-advertising rules may still govern the State's conduct through constitutionally available enforcement channels. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/527/666/).
 
 #### Alden v. Maine, 527 U.S. 706 (1999)
-
-Source: commerce build, under "OT1998".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2007,8 +1751,6 @@ Source: commerce build, under "OT1998".
 
 #### Alden v. Maine, 527 U.S. 706 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical question.** Could Congress authorize the employees' FLSA action against a nonconsenting State in its own courts?
 
 **Stone's disposition.** Affirm Maine's immunity dismissal of the private damages action.
@@ -2019,13 +1761,11 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 ### OT1999
 
-Cross-reference: the commerce build's entry "Fraternal Order of Police v. United States, 173 F.3d 898" is placed under Second Amendment, OT1999, beside the Second Amendment build's entry for that case.
+See also: Fraternal Order of Police v. United States, 173 F.3d 898, under Second Amendment, OT1999.
 
-Cross-reference: the commerce build's entry "Gillespie v. City of Indianapolis, 185 F.3d 693" is placed under Second Amendment, OT1999, beside the Second Amendment build's entry for that case.
+See also: Gillespie v. City of Indianapolis, 185 F.3d 693, under Second Amendment, OT1999.
 
 #### Kimel v. Florida Board of Regents, 528 U.S. 62 (2000)
-
-Source: commerce build, under "OT1999".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2041,8 +1781,6 @@ Source: commerce build, under "OT1999".
 
 #### Kimel v. Florida Board of Regents, 528 U.S. 62 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical questions.** Did the ADEA clearly authorize private suits against States, and did Congress possess constitutional authority for that abrogation?
 
 **Stone's disposition.** Affirm the immunity dismissal of the private retrospective damages claims.
@@ -2050,8 +1788,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** The ADEA clearly includes state employers, so Stone answers the power question rather than hiding behind statutory ambiguity. *Seminole Tribe* and *Alden* foreclose Article I as the abrogation source. Section 5 also does not sustain this remedy. Age classifications generally violate equal protection only when irrational, while the ADEA broadly prohibits many age distinctions that the Constitution permits. The state-employment record does not establish a recurring pattern of unconstitutional age discrimination strong enough to justify that breadth as a preventive § 5 damages remedy. This does not invalidate the ADEA's substantive regulation of state employment under the Commerce Clause or foreclose federal enforcement and other constitutionally available remedies. [Opinion and Stevens dissent](https://supreme.justia.com/cases/federal/us/528/62/).
 
 #### Reno v. Condon, 528 U.S. 141 (2000)
-
-Source: commerce build, under "OT1999".
 
 **Status.** Historical Supreme Court merits case, major anti-commandeering clarification.
 
@@ -2065,8 +1801,6 @@ Source: commerce build, under "OT1999".
 
 #### Reno v. Condon, 528 U.S. 141 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Did the Driver's Privacy Protection Act's restrictions on disclosure of personal motor-vehicle data violate federalism limits?
 
 **Stone's disposition.** Reverse invalidation and uphold the statute as applied to the state databases.
@@ -2074,8 +1808,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** Congress regulated the state's activity involving information in interstate commerce rather than conscripting the state to regulate its citizens. This implements the line preserved in *Printz* and shows that administrable federalism does not require categorical immunity for state institutions. [Opinion](https://supreme.justia.com/cases/federal/us/528/141/).
 
 #### United States v. Locke, 529 U.S. 89 (2000)
-
-Source: commerce build, under "OT1999".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2086,8 +1818,6 @@ Source: commerce build, under "OT1999".
 **What this establishes.** Field preemption must be tied to statutory architecture, not administrative preference.
 
 #### United States v. Morrison, 529 U.S. 598 (2000)
-
-Source: commerce build, under "OT1999".
 
 **Status.** Historical Supreme Court merits case, major Commerce limit.
 
@@ -2101,8 +1831,6 @@ Source: commerce build, under "OT1999".
 
 #### United States v. Morrison, 529 U.S. 598 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Could Congress authorize the VAWA civil damages action against private perpetrators through the Commerce Clause or Fourteenth Amendment §5?
 
 **Stone's disposition.** Affirm invalidation of that particular civil remedy under those asserted powers.
@@ -2110,8 +1838,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** The evidentiary record concerning violence and failures in state justice systems was serious. Nevertheless, the enacted cause of action directly targeted private perpetrators without making the remedy depend on a constitutionally relevant state violation or a sufficient interstate-commercial connection. A record documenting a grave problem does not itself authorize every chosen federal remedy. Stone distinguishes valid protection against state electoral discrimination and Congress's regulation of states as employers. He does not hold that Congress is powerless to address gender violence through properly grounded criminal, spending, or state-accountability measures. [Opinion and dissents](https://www.law.cornell.edu/supct/html/99-5.ZO.html).
 
 #### Jones v. United States, 529 U.S. 848 (2000)
-
-Source: commerce build, under "OT1999".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2125,8 +1851,6 @@ Source: commerce build, under "OT1999".
 
 #### Geier v. American Honda, 529 U.S. 861 (2000)
 
-Source: commerce build, under "OT1999".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Does a federal safety standard giving manufacturers a choice among restraint systems preempt a state tort theory that would have required one particular option?
@@ -2138,8 +1862,6 @@ Source: commerce build, under "OT1999".
 **What this establishes.** Stone's restrictive approach to preemption is not anti-preemption — actual federal policy can preempt; the key word is actual.
 
 #### Crosby v. National Foreign Trade Council, 530 U.S. 363 (2000)
-
-Source: commerce build, under "OT1999".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2153,8 +1875,6 @@ Source: commerce build, under "OT1999".
 
 #### Bradley v. Arkansas Department of Education
 
-Source: commerce build, under "OT1999".
-
 **Status.** Lower-court sim case.
 
 **Historical questions.** Did Arkansas's acceptance of federal special-education funding constitute genuine consent to private federal enforcement of IDEA?
@@ -2166,8 +1886,6 @@ Source: commerce build, under "OT1999".
 **What this establishes.** The lawful-consent side of Spending Clause federalism, before confronting coercion; later qualified by *Kansas* — formal ability to refuse is not always practical voluntariness.
 
 #### Bradley v. Arkansas Department of Education, 189 F.3d 745 (8th Cir. 1999)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Simulation vehicle: OT1999, June 29, 2000.**
 
@@ -2181,8 +1899,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Solid Waste Agency of Northern Cook County v. Army Corps of Engineers (SWANCC), 531 U.S. 159 (2001)
 
-Source: commerce build, under "OT2000".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Does the Clean Water Act's jurisdiction reach isolated, nonnavigable, wholly intrastate ponds used by migratory birds?
@@ -2194,8 +1910,6 @@ Source: commerce build, under "OT2000".
 **What this establishes.** *Jones* applied to federal environmental regulation — *Jones → SWANCC → Bond II* becomes an important Stone avoidance sequence.
 
 #### Board of Trustees of the University of Alabama v. Garrett, 531 U.S. 356 (2001)
-
-Source: commerce build, under "OT2000".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2209,8 +1923,6 @@ Source: commerce build, under "OT2000".
 
 #### Board of Trustees of the University of Alabama v. Garrett, 531 U.S. 356 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical questions.** Could state employees recover money damages under ADA Title I, given sovereign immunity and Congress's asserted enforcement authority? What should the Court do with the portion of the grant concerning Title II employment claims when the antecedent statutory-coverage issue was not adequately briefed?
 
 **Stone's disposition.** Affirm the appellate rejection of the Title I immunity barrier and allow those damages claims to proceed because the Title I abrogation is valid § 5 enforcement. Dismiss the inadequately presented Title II portion as improvidently granted.
@@ -2220,8 +1932,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 The rule is broader than the constitutional minimum, as preventive legislation often is, but it is not detached from that minimum. Stone does not make disability a suspect classification or hold that every failure to accommodate is independently unconstitutional. The distinction from *Kimel* is evidentiary and remedial: Congress identified a more substantial pattern of constitutionally suspect exclusion and used qualification and hardship limits that focus the preventive rule on the mechanism producing that exclusion. [Historical opinion](https://www.law.cornell.edu/supct/html/99-1240.ZO.html); [Breyer dissent](https://www.law.cornell.edu/supct/html/99-1240.ZD.html).
 
 #### Buckman Co. v. Plaintiffs' Legal Committee, 531 U.S. 341 (2001)
-
-Source: commerce build, under "OT2000".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2235,8 +1945,6 @@ Source: commerce build, under "OT2000".
 
 #### Kansas v. United States
 
-Source: commerce build, under "OT2000".
-
 **Status.** Lower-court sim case, foundational Spending case.
 
 **Historical questions.** Did a federal funding condition become unconstitutionally coercive?
@@ -2249,8 +1957,6 @@ Source: commerce build, under "OT2000".
 
 #### Kansas v. United States, 214 F.3d 1196 (10th Cir. 2000)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Simulation vehicle: OT2000, April 16, 2001.**
 
 **Historical question.** Did the federal child-support enforcement requirements and their relationship to federal welfare funding exceed the Spending Clause, including through coercion?
@@ -2261,8 +1967,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### United States v. Oakland Cannabis Buyers' Cooperative, 532 U.S. 483 (2001)
 
-Source: commerce build, under "OT2000".
-
 **Status.** Historical Supreme Court merits case, statutory precursor.
 
 **Historical questions.** Does the Controlled Substances Act contain an implied medical-necessity defense?
@@ -2272,8 +1976,6 @@ Source: commerce build, under "OT2000".
 **What this establishes.** Keeps statutory exceptions separate from constitutional power.
 
 #### Gibbs v. Babbitt
-
-Source: commerce build, under "OT2000".
 
 **Status.** Lower-court sim case, major Commerce application.
 
@@ -2287,8 +1989,6 @@ Source: commerce build, under "OT2000".
 
 #### United States v. Angle (grant)
 
-Source: commerce build, under "OT2000".
-
 **Status.** Lower-court sim case; certiorari granted June 25, 2001, merits decided the following Term.
 
 **Historical questions.** Can intrastate possession of actual child pornography be federalized because production materials previously traveled through interstate commerce, or as an anti-evasion component of the interstate trafficking regime?
@@ -2298,8 +1998,6 @@ Source: commerce build, under "OT2000".
 ### OT2001
 
 #### Michigan v. Environmental Protection Agency
-
-Source: commerce build, under "OT2001".
 
 **Status.** Lower-court sim case.
 
@@ -2313,8 +2011,6 @@ Source: commerce build, under "OT2001".
 
 #### Lapides v. Board of Regents, 535 U.S. 613 (2002)
 
-Source: commerce build, under "OT2001".
-
 **Status.** Historical Supreme Court merits case.
 
 **Historical questions.** Does a State's voluntary removal of a case to federal court waive its sovereign-immunity objection to that forum?
@@ -2327,8 +2023,6 @@ Source: commerce build, under "OT2001".
 
 #### Lapides v. Board of Regents, 535 U.S. 613 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Did a state's voluntary removal waive its Eleventh Amendment objection to state-law claims for which it had already consented to suit in its own courts?
 
 **Stone's disposition.** Reverse the contrary immunity ruling at that limited scope.
@@ -2336,8 +2030,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** A state may not voluntarily invoke the federal forum and then use the forum choice to defeat the already permitted claims. Do not turn this into a decision that removal waives every possible immunity for every unconsented federal claim. Stone's broader congressional-abrogation rule remains a separate route. [Opinion](https://supreme.justia.com/cases/federal/us/535/613/).
 
 #### Verizon Maryland v. Public Service Commission, 535 U.S. 635 (2002)
-
-Source: commerce build, under "OT2001".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2351,8 +2043,6 @@ Source: commerce build, under "OT2001".
 
 #### Verizon Maryland Inc. v. Public Service Commission, 535 U.S. 635 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical questions.** Did federal jurisdiction exist over the asserted federal-law challenge to the commission's order, and could prospective relief against commissioners proceed under *Ex parte Young*?
 
 **Stone's disposition.** Vacate the dismissal and permit the properly framed federal claim to proceed.
@@ -2360,8 +2050,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** The threshold officer-suit inquiry asks whether the complaint alleges an ongoing federal violation and seeks prospective relief. It does not require the claimant first to win the merits. The commission's own immunity and the lawfulness of its order remain distinct questions. [Opinion](https://supreme.justia.com/cases/federal/us/535/635/).
 
 #### Federal Maritime Commission v. South Carolina State Ports Authority, 535 U.S. 743 (2002)
-
-Source: commerce build, under "OT2001".
 
 **Status.** Historical Supreme Court merits case.
 
@@ -2375,8 +2063,6 @@ Source: commerce build, under "OT2001".
 
 #### Federal Maritime Commission v. South Carolina State Ports Authority, 535 U.S. 743 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Did state sovereign immunity bar the FMC from adjudicating a private party's Shipping Act complaint against the state port authority?
 
 **Stone's disposition.** Reverse the appellate extension of immunity to this federal administrative proceeding and allow the statutory process to continue.
@@ -2384,8 +2070,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** Stone follows the historical dissent's rejection of that extension into executive regulatory adjudication. The agency's authority and any resulting judicial enforcement must be identified under the statute. Do not assume a private complainant controls federal enforcement merely because it initiated the complaint. This position fits Stone's rejection of immunity as a general power to disregard valid federal obligations. [Opinion and dissents](https://supreme.justia.com/cases/federal/us/535/743/).
 
 #### United States v. Angle (merits)
-
-Source: commerce build, under "OT2001".
 
 **Status.** Lower-court sim case, major Commerce decision.
 
@@ -2399,15 +2083,11 @@ Source: commerce build, under "OT2001".
 
 ### OT2002
 
-Source: commerce build, text directly under "OT2002".
-
 No mandatory core Commerce/Federalism roadmap case. This is intentional — a jurisprudence becomes unrealistic if every Term conveniently supplies a vehicle for doctrinal expansion. Existing law should be allowed to operate until a case actually presents a meaningful unresolved question.
 
 ### OT2003
 
 #### Tennessee Student Assistance Corp. v. Hood, 541 U.S. 440 (2004)
-
-Source: commerce build, under "OT2003".
 
 **Status.** Stone roadmap.
 
@@ -2423,8 +2103,6 @@ Source: commerce build, under "OT2003".
 
 #### Granholm v. Heald, 544 U.S. 460 (2005)
 
-Source: commerce build, under "OT2004".
-
 **Status.** Stone roadmap.
 
 **Historical questions.** Do state laws permitting in-state wineries to ship directly to consumers while barring out-of-state wineries from doing the same survive dormant-Commerce scrutiny, notwithstanding the Twenty-first Amendment?
@@ -2436,8 +2114,6 @@ Source: commerce build, under "OT2004".
 **What this establishes.** Applies *Oregon Waste*/*Carbone*/*West Lynn* to a heavily regulated State field without erasing legitimate alcohol regulation.
 
 #### Gonzales v. Raich, 545 U.S. 1 (2005)
-
-Source: commerce build, under "OT2004".
 
 **Status.** Stone roadmap, major Commerce case.
 
@@ -2453,8 +2129,6 @@ Source: commerce build, under "OT2004".
 
 #### Central Virginia Community College v. Katz, 546 U.S. 356 (2006)
 
-Source: commerce build, under "OT2005".
-
 **Status.** Stone roadmap.
 
 **Historical questions.** Does the Bankruptcy Clause permit a bankruptcy trustee to recover a preferential transfer from a state agency without the State's consent?
@@ -2468,8 +2142,6 @@ Source: commerce build, under "OT2005".
 ### OT2006
 
 #### United Haulers Association v. Oneida-Herkimer Solid Waste Management Authority, 550 U.S. 330 (2007)
-
-Source: commerce build, under "OT2006".
 
 **Status.** Stone roadmap.
 
@@ -2485,8 +2157,6 @@ Source: commerce build, under "OT2006".
 
 #### Department of Revenue of Kentucky v. Davis, 553 U.S. 328 (2008)
 
-Source: commerce build, under "OT2007".
-
 **Status.** Stone roadmap.
 
 **Historical questions.** Does a state tax exemption favoring interest on its own municipal bonds over other States' bonds violate the dormant Commerce Clause?
@@ -2499,15 +2169,11 @@ Source: commerce build, under "OT2007".
 
 ### OT2008
 
-Source: commerce build, text directly under "OT2008".
-
 No mandatory core roadmap case. Again, no filler.
 
 ### OT2009
 
 #### United States v. Comstock, 560 U.S. 126 (2010)
-
-Source: commerce build, under "OT2009".
 
 **Status.** Stone roadmap, Necessary and Proper.
 
@@ -2523,8 +2189,6 @@ Source: commerce build, under "OT2009".
 
 #### Virginia Office for Protection & Advocacy v. Stewart, 563 U.S. 247 (2011)
 
-Source: commerce build, under "OT2010".
-
 **Status.** Stone roadmap.
 
 **Historical questions.** Can a state agency created by the State itself sue another state officer for prospective relief under federal law?
@@ -2537,8 +2201,6 @@ Source: commerce build, under "OT2010".
 
 #### Sossamon v. Texas, 563 U.S. 277 (2011)
 
-Source: commerce build, under "OT2010".
-
 **Status.** Stone roadmap.
 
 **Historical questions.** Does a State's acceptance of federal funding under RLUIPA constitute consent to private damages actions against the State?
@@ -2550,8 +2212,6 @@ Source: commerce build, under "OT2010".
 **What this establishes.** Combines *Bradley* and *Kansas*: clear consent concerns not merely substantive obligations but the remedies to which the State agreed.
 
 #### Bond v. United States (Bond I), 564 U.S. 211 (2011)
-
-Source: commerce build, under "OT2010".
 
 **Status.** Stone roadmap.
 
@@ -2567,8 +2227,6 @@ Source: commerce build, under "OT2010".
 
 #### Arizona v. United States, 567 U.S. 387 (2012)
 
-Source: commerce build, under "OT2011".
-
 **Status.** Stone roadmap, preemption.
 
 **Historical questions.** Does federal immigration law preempt SB 1070's separate alien-registration offense, unauthorized-employment offense, warrantless arrest authority, and mandatory immigration-status inquiry?
@@ -2580,8 +2238,6 @@ Source: commerce build, under "OT2011".
 **What this establishes.** The culmination of *Easterwood → Myrick → Medtronic → Geier → Crosby → Arizona*: preemption turns on the actual federal rule, the state mechanism, and operational conflict. The same statute can therefore contain both displaced provisions and a provision that survives facial review subject to concrete implementation limits.
 
 #### National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)
-
-Source: commerce build, under "OT2011".
 
 **Status.** Stone roadmap, Commerce, Taxing, and Spending.
 
@@ -2603,15 +2259,11 @@ Source: commerce build, under "OT2011".
 
 ### OT2012
 
-Source: commerce build, text directly under "OT2012".
-
 No mandatory Commerce/Federalism roadmap case. Do not invent one.
 
 ### OT2013
 
 #### Bond v. United States (Bond II), 572 U.S. 844 (2014)
-
-Source: commerce build, under "OT2013".
 
 **Status.** Stone roadmap.
 
@@ -2625,13 +2277,9 @@ Source: commerce build, under "OT2013".
 
 ### OT2014
 
-Source: commerce build, text directly under "OT2014".
-
 *Opinions in this Term's remaining roadmap cases occur in calendar year 2015, the end point of this planning horizon.*
 
 #### Armstrong v. Exceptional Child Center, 575 U.S. 320 (2015)
-
-Source: commerce build, under "OT2014".
 
 **Status.** Stone roadmap.
 
@@ -2644,8 +2292,6 @@ Source: commerce build, under "OT2014".
 **What this establishes.** Preserves *Coeur d'Alene*/*VOPA*/*Verizon* while taking statutory remedial design seriously.
 
 #### Comptroller of the Treasury of Maryland v. Wynne, 575 U.S. 542 (2015)
-
-Source: commerce build, under "OT2014".
 
 **Status.** Stone roadmap.
 
@@ -2663,13 +2309,9 @@ Source: commerce build, under "OT2014".
 
 #### Justice Stone: Second Amendment build, OT1994 through OT2015
 
-Source: Second Amendment build, its title and opening text.
-
 **Simulation handoff. Proposed positions, not predetermined Court holdings.**
 
 #### Scope and how to use this build
-
-Source: Second Amendment build, top-level section.
 
 This build runs from *United States v. Lopez* in OT1994 through OT2015 and now deliberately develops a fuller mature doctrine rather than stopping at the home-defense core. It remains a stable individual-right doctrine, not a maximal all-weapons presumption: ordinary arms and lawful self-defense receive strong protection, while demonstrated dangerous persons, dangerous and unusual weapons, specially regulated weapon categories, objective registration, classification-changing modifications, sensitive places, and genuine safety administration remain regulable. The planning instruction still rejects adding a case merely because an October Term otherwise lacks a gun decision; the added vehicles below perform specific doctrinal work that the project now affirmatively wants.
 
@@ -2678,8 +2320,6 @@ This build runs from *United States v. Lopez* in OT1994 through OT2015 and now d
 **Status tags.** "Essential" means the case is load-bearing for the architecture now requested. "Recommended" means it materially improves the doctrine and should ordinarily be taken if the vehicle remains clean. "Optional" remains a genuine refinement rather than filler. "Deliberate silence" means Stone should not manufacture a gun case merely to occupy an October Term.
 
 #### Navigation
-
-Source: Second Amendment build, top-level section.
 
 | Term | Case or development | Status | Doctrinal job |
 |---|---|---|---|
@@ -2707,8 +2347,6 @@ Source: Second Amendment build, top-level section.
 | OT2015 | *Heller v. District of Columbia* ("*Heller III*") | Essential | Establish detailed objective registration, fee, training, appearance, renewal, and cumulative-burden rules |
 
 #### The standards Stone is building
-
-Source: Second Amendment build, top-level section.
 
 **Status note.** These standards describe Stone's mature target architecture. A proposition is not controlling simulation law merely because it appears here; before the case that supplies the relevant vehicle, it is a planned position. The case sections below identify what has actually been established, what remains proposed, and what should remain open.
 
@@ -2888,21 +2526,17 @@ It does not use a nonviolent felony label, drug status, diagnosis, arrest, accus
 
 #### Questions that should remain unresolved through OT2015
 
-Source: Second Amendment build, top-level section.
-
 Even with the fuller architecture, do not pretend the simulation has adjudicated every branch merely because Stone now has a target rule. Unless a genuine later vehicle is deliberately selected, the following remain unresolved as holdings: categorical treatment of nonviolent felonies and very old convictions; the circumstances in which a completed violent conviction constitutionally requires restoration; particular mental-health restoration procedures; emergency ex parte risk-order timing and burdens of proof; substance-use disabilities outside present intoxication or independently dangerous conduct; age restrictions for eighteen-to-twenty-year-olds; exact magazine classifications beyond the *Heller II* record; particular suppressor, short-barreled, destructive-device, and classification-changing modification statutes; serial-number rules and personally manufactured firearms; dealer-zoning rules; waiting periods beyond the general principle; ammunition taxes and unusually hazardous ammunition categories; transportation across jurisdictions; vehicle-specific sensitive-place rules; universities, transit systems, demonstrations, parks, polling-place perimeters, and private-property default rules; corporate Second Amendment rights; advanced or recreational training; and a universal test for every imaginable arm, component, claimant, or location.
 
 The project should carry forward a sharp distinction between **mature target architecture** and **controlling simulated holdings**. Future cases may apply these planned principles, alter them when the record exposes a defect, or leave them undeveloped. The roadmap is not a substitute for an actual vehicle.
 
 ### OT1994
 
-Cross-reference: the Second Amendment build's entry "United States v. Lopez, 514 U.S. 549 (1995)" is placed under Commerce, commandeering and state immunity, OT1994, beside the other builds' entries for that case.
+See also: United States v. Lopez, 514 U.S. 549 (1995), under Commerce, commandeering and state immunity, OT1994.
 
 ### OT1995
 
 #### Love v. Pepersack, 47 F.3d 120 (1996)
-
-Source: Second Amendment build, under "OT1995: the initial individual-right position and the machinegun branch".
 
 **Status.** Essential; Stone's underlying individual-right reasoning is a noncontrolling concurrence.
 
@@ -2916,8 +2550,6 @@ Source: Second Amendment build, under "OT1995: the initial individual-right posi
 
 #### United States v. Hale, 978 F.2d 1016 (1996)
 
-Source: Second Amendment build, under "OT1995: the initial individual-right position and the machinegun branch".
-
 **Status.** Essential, narrow controlling holding.
 
 **Historical questions.** Wilbur Hale was convicted on thirteen counts of possessing machineguns under § 922(o) and three counts involving unregistered firearms, after federal agents recovered fully automatic weapons, conversion equipment, receivers, and a silenced pistol. Does § 922(o) violate the Second Amendment as applied to his post-1986 possession, and does the statute exceed the commerce power?
@@ -2929,8 +2561,6 @@ Source: Second Amendment build, under "OT1995: the initial individual-right posi
 **What this establishes.** One narrow category placed outside the eventual protected core, before that core is defined, so that later recognition of an individual right cannot be misconstrued as a right to possess every weapon. Ordinary handguns, semiautomatic rifles, ordinary shotguns, home possession, operability, public carry, licensing, training, ranges, every other automatic-weapon restriction, and whether legislatively labeled "military-style" weapons fall outside the right all remain undecided; the machinegun category must not later be extended to semiautomatic firearms merely through rhetoric.
 
 #### United States v. Hale, 978 F.2d 1016
-
-Source: commerce build, under "OT1995".
 
 **Status.** Lower-court sim case, major Commerce development.
 
@@ -2944,13 +2574,11 @@ Source: commerce build, under "OT1995".
 
 ### OT1996
 
-Cross-reference: the Second Amendment build's entry "Printz v. United States, 521 U.S. 898 (1997)" is placed under Commerce, commandeering and state immunity, OT1996, beside the other builds' entries for that case.
+See also: Printz v. United States, 521 U.S. 898 (1997), under Commerce, commandeering and state immunity, OT1996.
 
 ### OT1997
 
 #### United States v. Rybar, 103 F.3d 273 (1997)
-
-Source: Second Amendment build, under "OT1997: stabilizing the machinegun rule".
 
 **Status.** Essential, unanimous at its narrow scope.
 
@@ -2963,8 +2591,6 @@ Source: Second Amendment build, under "OT1997: stabilizing the machinegun rule".
 **What this establishes.** By the end of OT1997, a stable machinegun rule exists, but the simulation still lacks a controlling ordinary-arms core. The right is being developed category by category, not from an all-weapons presumption.
 
 #### United States v. Rybar, 103 F.3d 273
-
-Source: commerce build, under "OT1997".
 
 **Status.** Lower-court sim case.
 
@@ -2979,8 +2605,6 @@ Source: commerce build, under "OT1997".
 ### OT1999
 
 #### Fraternal Order of Police v. United States, 173 F.3d 898 (2000)
-
-Source: Second Amendment build, under "OT1999: the first person-based disqualification branch".
 
 **Status.** Essential.
 
@@ -2998,8 +2622,6 @@ Government employment does not erase the predicate; issuance of a firearm by a p
 
 #### Fraternal Order of Police v. United States, 173 F.3d 898
 
-Source: commerce build, under "OT1999".
-
 **Status.** Lower-court sim case, major Commerce clarification.
 
 **Historical questions.** Does § 922(g)(9)'s firearm disqualification for domestic-violence misdemeanants commandeer state police departments or exceed the commerce power as applied to their officers?
@@ -3012,8 +2634,6 @@ Source: commerce build, under "OT1999".
 
 #### Gillespie v. City of Indianapolis, 185 F.3d 693 (2000)
 
-Source: Second Amendment build, under "OT1999: the first person-based disqualification branch".
-
 **Status.** Essential, narrow.
 
 **Historical questions.** Jerald Gillespie, a police officer of more than twenty-five years, lost his ability to carry a firearm under § 922(g)(9) after a misdemeanor battery conviction involving his former wife, threatening his position because the department required officers to be armed. He challenged the law under the Commerce Clause, Tenth Amendment, equal protection, and Second Amendment.
@@ -3025,8 +2645,6 @@ Source: Second Amendment build, under "OT1999: the first person-based disqualifi
 **What this establishes.** No expansion of *Fraternal Order of Police* to nonviolent convictions, no decision on restoration, and no holding that employment consequences are irrelevant in every constitutional case. It simply recognizes that a generally applicable federal possession rule does not become commandeering because state employment makes firearm possession occupationally necessary.
 
 #### Gillespie v. City of Indianapolis, 185 F.3d 693
-
-Source: commerce build, under "OT1999".
 
 **Status.** Lower-court sim case.
 
@@ -3042,8 +2660,6 @@ Source: commerce build, under "OT1999".
 
 #### United States v. Emerson, 270 F.3d 203 (2002)
 
-Source: Second Amendment build, under "OT2001: the temporary protective-order branch".
-
 **Status.** Recommended. Historical certiorari disposition: cert. denied, 536 U.S. 907 (2002).
 
 **Historical questions.** Emerson was indicted under § 922(g)(8) for possessing a firearm while subject to a domestic-violence restraining order entered after a state-court evidentiary hearing at which his wife testified about threats; the order prohibited threats and bodily injury. The district court dismissed the indictment on Second and Fifth Amendment grounds and the Fifth Circuit reversed and remanded, so the case reaches the certiorari stage before any final conviction. The statute applied only when the order followed a hearing with actual notice and an opportunity to participate, restrained harassment, stalking, threats, or comparable conduct involving an intimate partner or child, and contained either a credible-threat finding or an explicit prohibition on force expected to cause bodily injury.
@@ -3057,8 +2673,6 @@ Source: Second Amendment build, under "OT2001: the temporary protective-order br
 ### OT2007
 
 #### District of Columbia v. Heller, 554 U.S. 570 (2008) — "Heller I"
-
-Source: Second Amendment build, under "OT2007: the essential home-defense core".
 
 **Status.** Absolutely essential.
 
@@ -3074,8 +2688,6 @@ Source: Second Amendment build, under "OT2007: the essential home-defense core".
 
 #### McDonald v. City of Chicago, 561 U.S. 742 (2010)
 
-Source: Second Amendment build, under "OT2009: incorporation without a redundant case".
-
 **Status.** Recommended: do not take.
 
 **Historical questions.** The real case's principal function was to hold that the right recognized in *Heller* applies against state and local governments through the Fourteenth Amendment.
@@ -3088,8 +2700,6 @@ Source: Second Amendment build, under "OT2009: incorporation without a redundant
 
 #### Heller v. District of Columbia, 670 F.3d 1244 (2011) — "Heller II"
 
-Source: Second Amendment build, under "OT2011: the first post-core regulatory case, and an optional access branch".
-
 **Status.** Essential.
 
 **Historical questions.** After *Heller I*, the District enacted a scheme requiring registration, prohibiting firearms classified as "assault weapons," and prohibiting magazines holding more than ten rounds, along with numerous registration conditions including fingerprinting, photographs, background checks, training, and purchase-frequency restrictions. When does a firearm regulation administer the right, and when does it destroy a protected application?
@@ -3101,8 +2711,6 @@ Source: Second Amendment build, under "OT2011: the first post-core regulatory ca
 **What this establishes.** The line between regulation and destruction without a general license for judicial policy balancing: government may administer the exercise of the right through objective, supported, and nonprohibitory measures, but may not use labels, cumulative burdens, or categorical prohibitions to eliminate an ordinary protected arm or the meaningful exercise of the home-defense core.
 
 #### Ezell v. City of Chicago, 651 F.3d 684 (2011)
-
-Source: Second Amendment build, under "OT2011: the first post-core regulatory case, and an optional access branch".
 
 **Status.** Optional.
 
@@ -3117,8 +2725,6 @@ Source: Second Amendment build, under "OT2011: the first post-core regulatory ca
 ### OT2013
 
 #### Moore v. Madigan, 702 F.3d 933 (7th Cir. 2012)
-
-Source: Second Amendment build, under "OT2013: public carriage".
 
 **Status.** Essential lower-court simulation vehicle.
 
@@ -3136,8 +2742,6 @@ Stone should avoid forcing the open-carry versus concealed-carry issue unnecessa
 
 #### Jackson v. City and County of San Francisco, 746 F.3d 953 (9th Cir. 2014)
 
-Source: Second Amendment build, under "OT2014: safe storage and ammunition access".
-
 **Status.** Essential lower-court simulation vehicle.
 
 **Historical questions.** San Francisco required a handgun in the home to be stored in a locked container or disabled with a trigger lock unless carried on the person, and separately restricted local commercial sale of certain ammunition while leaving possession and use lawful. How far may safe-storage rules go after *Heller I*, and does practical ammunition access fall within the constitutional right?
@@ -3154,8 +2758,6 @@ A right to an operable firearm would be hollow if government could eliminate eve
 
 #### Bonidy v. United States Postal Service, 790 F.3d 1121 (10th Cir. 2015)
 
-Source: Second Amendment build, under "OT2015: sensitive places and detailed registration".
-
 **Status.** Recommended lower-court simulation vehicle.
 
 **Historical questions.** A licensed carrier sought to carry a firearm into a post-office building or at least store it in his vehicle in the adjacent customer parking lot. A federal regulation prohibited firearms throughout postal property. Is every piece of government-owned property a sensitive place?
@@ -3169,8 +2771,6 @@ The government remains free to establish secure perimeters, employee-only areas,
 **What this establishes.** Courthouses, secure government facilities, and comparable genuinely sensitive places may prohibit firearms, but public ownership is not a categorical exception from the Second Amendment. The decision preserves later case-by-case treatment of schools, universities, transit, polling places, legislatures, demonstrations, parks, and private property open to the public.
 
 #### Heller v. District of Columbia, 801 F.3d 264 (2015) — "Heller III"
-
-Source: Second Amendment build, under "OT2015: sensitive places and detailed registration".
 
 **Status.** Essential. The project now affirmatively wants a detailed registration and administration branch.
 
@@ -3196,8 +2796,6 @@ This case also supplies the administrative principle for later modification regu
 
 #### Board of Education of Kiryas Joel Village School District v. Grumet, 512 U.S. 687 (1994)
 
-Source: equality build, under "OT1993: decisions principally issued in 1994".
-
 **Historical question.** Did creation of a special school district for a religious enclave violate the Establishment Clause?
 
 **Stone's disposition.** Affirm invalidation of the special delegation.
@@ -3207,8 +2805,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 ### OT1996
 
 #### Agostini v. Felton, 521 U.S. 203 (1997)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Historical questions.** Should the Court reconsider the Establishment Clause precedent governing publicly employed remedial teachers in religious schools, and did Rule 60(b)(5) permit relief from the resulting continuing injunction?
 
@@ -3220,8 +2816,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### Mitchell v. Helms, 530 U.S. 793 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Did the federal program supplying instructional materials and equipment violate the Establishment Clause as administered in the participating religious schools?
 
 **Stone's disposition.** Reverse invalidation, following the bounded approach of O'Connor's concurrence rather than treating neutral distribution as sufficient in every conceivable application.
@@ -3231,8 +2825,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 ### OT2001
 
 #### Zelman v. Simmons-Harris, 536 U.S. 639 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Did the Cleveland school-choice aid program violate the Establishment Clause because participating families could select religious schools?
 
@@ -3246,8 +2838,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Turner Broadcasting System v. FCC, 512 U.S. 622 (1994)
 
-Source: equality build, under "OT1993: decisions principally issued in 1994".
-
 **Historical question.** What First Amendment scrutiny governs cable must-carry rules, and did the summary-judgment record justify them?
 
 **Stone's disposition.** Vacate and remand for the required factual inquiry under content-neutral intermediate scrutiny.
@@ -3255,8 +2845,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 **Reasoning.** Congress may make predictive judgments about market structure and access, but courts need evidence connecting the burden to the identified danger. The lesson is institutional: predictive judgments can be supported and tested without transplanting First Amendment doctrine into equal protection. [Opinion](https://supreme.justia.com/cases/federal/us/512/622/).
 
 #### Madsen v. Women's Health Center, 512 U.S. 753 (1994)
-
-Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 **Historical questions.** What First Amendment standard governed the clinic-access injunction, and which buffer, noise, visual, and residential restrictions were justified?
 
@@ -3268,8 +2856,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 #### McIntyre v. Ohio Elections Commission, 514 U.S. 334 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical question.** Could Ohio punish anonymous distribution of the leaflets at issue concerning a school-tax referendum?
 
 **Stone's disposition.** Reverse.
@@ -3277,8 +2863,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 **Reasoning.** Broad identification mandates require a justification fitted to the regulated speech. The state's interests do not justify this application to an individual's political leaflet. Preserve separate analysis of candidate finance disclosure, fraud, and organizations whose spending creates distinct informational concerns. [Opinion](https://supreme.justia.com/cases/federal/us/514/334/).
 
 #### Day v. Holahan, 34 F.3d 1356 (8th Cir. 1994)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Simulation vehicle: OT1994, May 15, 1995.**
 
@@ -3290,8 +2874,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 #### Rosenberger v. Rector and Visitors of the University of Virginia, 515 U.S. 819 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical questions.** Did exclusion of a student publication because of its religious viewpoint violate free speech, and would payment of its printing costs through the generally available program violate the Establishment Clause?
 
 **Stone's disposition.** Reverse and require viewpoint-neutral access to the printing benefit on the historical program's terms.
@@ -3299,8 +2881,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 **Reasoning.** The university supports student expression through a generally available arrangement, without adopting each publication's message. Equal access here differs from specially delegating governmental power to a religious enclave. Limits on the benefit and the independent character of the publication matter; the decision is not an unrestricted authorization of direct government sponsorship of worship. [Opinion](https://supreme.justia.com/cases/federal/us/515/819/).
 
 #### Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, 515 U.S. 557 (1995)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Historical question.** Could Massachusetts require private parade organizers to include an identifiable contingent conveying a message the organizers did not wish to include?
 
@@ -3312,8 +2892,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 #### Colorado Republican Federal Campaign Committee v. FEC, 518 U.S. 604 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical question.** Could the party's actual independent expenditure be treated as a coordinated contribution subject to the statutory limit?
 
 **Stone's disposition.** Vacate and remand; the expenditure cannot be restricted on a conclusive presumption of coordination merely because a party made it.
@@ -3324,8 +2902,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Timmons v. Twin Cities Area New Party, 520 U.S. 351 (1997)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Did Minnesota's generally applicable prohibition on fusion candidacies violate a minor party's associational rights?
 
 **Stone's disposition.** Uphold the neutral prohibition on the historical record, without endorsing protection of major parties from competition as an independent legitimate objective.
@@ -3334,8 +2910,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### Turner Broadcasting System v. FCC, 520 U.S. 180 (1997), Turner II
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Did the developed record justify the must-carry rules under the applicable intermediate scrutiny?
 
 **Stone's disposition.** Affirm the rules on that record.
@@ -3343,8 +2917,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** Congress's supported predictions need not be the only empirically possible predictions. Judicial review tests the evidentiary connection and the burden, rather than selecting an optimal communications policy. This makes the earlier remand meaningful: sufficiently supported legislation can actually win. [Opinion](https://supreme.justia.com/cases/federal/us/520/180/).
 
 #### Schenck v. Pro-Choice Network of Western New York, 519 U.S. 357 (1997)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Historical question.** Were the fixed and floating buffer zones in the clinic-access injunction consistent with the First Amendment?
 
@@ -3356,8 +2928,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### Arkansas Educational Television Commission v. Forbes, 523 U.S. 666 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical question.** Did a public broadcaster violate the First Amendment by excluding an independent candidate from a televised candidate debate?
 
 **Stone's disposition.** Reverse the appellate judgment requiring inclusion; sustain reasonable, viewpoint-neutral selection in the nonpublic-forum debate on the historical record.
@@ -3368,8 +2938,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 #### Buckley v. American Constitutional Law Foundation, 525 U.S. 182 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical question.** Were Colorado's petition-circulator registration, identification, and disclosure restrictions consistent with the First Amendment?
 
 **Stone's disposition.** Affirm invalidation of the challenged restrictions at the scope adjudicated.
@@ -3377,8 +2945,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** Initiative circulation involves political advocacy and association. Examine each restriction's actual relation to fraud prevention, identification, and disclosure rather than presume all election regulations are harmless. Preserve narrower accountability measures that do not impose the same burden. [Opinion](https://supreme.justia.com/cases/federal/us/525/182/).
 
 #### Russell v. Burris, 146 F.3d 563 (8th Cir. 1998)
-
-Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 **Simulation vehicle: OT1998, April 28, 1999.**
 
@@ -3392,8 +2958,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### Nixon v. Shrink Missouri Government PAC, 528 U.S. 377 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Were Missouri's candidate-contribution limits constitutional, and what evidentiary justification was required?
 
 **Stone's disposition.** Reverse the appellate invalidation and sustain the limits on the record presented.
@@ -3402,8 +2966,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### California Democratic Party v. Jones, 530 U.S. 567 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Could California require parties to select their nominees through a blanket primary open to voters affiliated with other parties?
 
 **Stone's disposition.** Reverse and invalidate that forced nominating arrangement.
@@ -3411,8 +2973,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** Meaningful access to the political process includes associational autonomy in selecting a party's standard-bearer. This does not invalidate every nonpartisan election format, prescribe closed primaries universally, or decide a later top-two system. The exact function of the primary matters. [Opinion](https://supreme.justia.com/cases/federal/us/530/567/).
 
 #### Reform Party of Allegheny County v. Allegheny County Department of Elections, 174 F.3d 305 (3d Cir. 1999)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Simulation vehicle: OT1999, May 8, 2000.**
 
@@ -3424,8 +2984,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### North Carolina Right to Life v. Bartlett, 168 F.3d 705 (4th Cir. 1999)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Simulation vehicle: OT1999, June 6, 2000.**
 
 **Historical questions.** Were the political-committee definition and its application to issue advocacy valid? Could the state apply its corporate-expenditure prohibition to the nonprofit organization? Were the legislative-session restrictions on lobbyist and related PAC contributions and solicitation constitutional?
@@ -3436,8 +2994,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Boy Scouts of America v. Dale, 530 U.S. 640 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Did applying New Jersey's public-accommodations law to require reinstatement of Dale as an assistant scoutmaster violate expressive-association rights?
 
 **Stone's disposition.** Affirm the state court's application of its law on the historical record, following the core approach of the dissent.
@@ -3445,8 +3001,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** A claimant asserting expressive association must establish a real connection between the excluded person's participation and a material impairment of the association's expression. A bare assertion of an exclusionary message should not automatically defeat generally applicable civil-rights law. Stone treats the record concerning the organization's actual message as inadequate for the claimed exemption, while preserving protection for genuinely expressive associations. This is an independent First Amendment analysis. The constitutional analysis governing governmental racial treatment does not apply to a private club as though it were the State. [Opinion and dissent](https://supreme.justia.com/cases/federal/us/530/640/).
 
 #### Board of Regents v. Southworth, 529 U.S. 217 (2000)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Historical question.** Could a public university require student activity fees supporting diverse student expression, and what allocation safeguards were required?
 
@@ -3458,8 +3012,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### FEC v. Colorado Republican Federal Campaign Committee, 533 U.S. 431 (2001), Colorado II
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical question.** Could Congress limit a political party's expenditures coordinated with its candidate?
 
 **Stone's disposition.** Reverse the appellate invalidation and uphold the coordinated-expenditure limits.
@@ -3468,8 +3020,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Legal Services Corp. v. Velazquez, 531 U.S. 533 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical question.** Could a federal legal-services funding restriction bar lawyers from challenging existing welfare law in the representation at issue?
 
 **Stone's disposition.** Affirm invalidation of the restriction at issue.
@@ -3477,8 +3027,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 **Reasoning.** Congress funded private representation within an adversarial legal system, not transmission of a government-approved message. The restriction distorted the lawyer's role and the court's access to legal arguments. This protects meaningful legal access while preserving Congress's authority to define a program's subject matter within constitutional limits. [Opinion](https://supreme.justia.com/cases/federal/us/531/533/).
 
 #### Daggett v. Commission on Governmental Ethics & Election Practices, 205 F.3d 445 (1st Cir. 2000)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Simulation vehicle: OT2000, February 12, 2001.**
 
@@ -3489,8 +3037,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 **Reasoning.** The matching amount was capped; the nonparticipant remained free to speak and spend. Evaluate practical voluntariness and the entire scheme, rather than count the existence of an opponent's responsive subsidy as an automatic constitutional injury. Financing a functioning alternative to dependence on private contributions supplies the relevant purpose. This does not make every escalating subsidy, unusually restrictive private limit, or major-party preference valid. The cap and the whole program distinguish the actual Maine record from the earlier Minnesota vehicle. [Actual appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/205/445/559226/).
 
 #### Mariani v. United States, 212 F.3d 761 (3d Cir. 2000)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Simulation vehicle: OT2000, March 12, 2001.**
 
@@ -3504,8 +3050,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Watchtower Bible & Tract Society v. Village of Stratton, 536 U.S. 150 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Could the village require a permit before the broad range of door-to-door advocacy covered by its ordinance?
 
 **Stone's disposition.** Reverse and invalidate the permit requirement at the challenged scope.
@@ -3513,8 +3057,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** The ordinance burdens spontaneous, anonymous, religious, and political advocacy more broadly than the stated interests justify. Preserve targeted fraud, trespass, and homeowner-choice protections. Broadening access does not mean disabling ordinary neutral safeguards. [Opinion](https://supreme.justia.com/cases/federal/us/536/150/).
 
 #### Republican Party of Minnesota v. White, 536 U.S. 765 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Did Minnesota's prohibition on judicial candidates announcing views on disputed legal or political issues violate the First Amendment?
 
@@ -3528,8 +3070,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Plaut v. Spendthrift Farm, 514 U.S. 211 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical question.** Could Congress require federal courts to reopen final judgments dismissing securities claims?
 
 **Stone's disposition.** Affirm invalidation of that reopening requirement.
@@ -3540,8 +3080,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 #### FEC v. Akins, 524 U.S. 11 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical questions.** Did voters denied allegedly required campaign information have standing to challenge the FEC's dismissal, and how should the agency's political-committee determination be reviewed?
 
 **Stone's disposition.** Recognize the concrete informational injury and remand for the appropriate agency consideration.
@@ -3551,8 +3089,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 ### OT1999
 
 #### Miller v. French, 530 U.S. 327 (2000)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Historical questions.** Did the PLRA's automatic stay of prospective prison relief violate separation of powers, and could ordinary equitable authority displace the statutory operation?
 
@@ -3566,8 +3102,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Lewis v. Casey, 518 U.S. 343 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical question.** Did the statewide prison-access injunction rest on sufficient actual injury and remain within the proved violation?
 
 **Stone's disposition.** Vacate the overbroad injunction and remand for claimant- and remedy-specific findings.
@@ -3577,8 +3111,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 ### OT1996
 
 #### M.L.B. v. S.L.J., 519 U.S. 102 (1996)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Historical question.** Could Mississippi condition an indigent parent's appeal from termination of parental rights on payment for the record?
 
@@ -3590,8 +3122,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### American Manufacturers Mutual Insurance Co. v. Sullivan, 526 U.S. 40 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical questions.** Were private insurers' decisions to withhold disputed workers' compensation payments state action, and did claimants possess the asserted present property entitlement before medical necessity was established?
 
 **Stone's disposition.** Reverse the appellate due-process ruling on the historical showing.
@@ -3601,8 +3131,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 ### OT2001
 
 #### Christopher v. Harbury, 536 U.S. 403 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Did the complaint adequately plead a backward-looking denial-of-access claim, including the lost underlying legal claim and a remedy unavailable through another surviving action?
 
@@ -3616,8 +3144,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Campbell v. Louisiana, 523 U.S. 392 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical question.** Could a white criminal defendant challenge racial discrimination in selecting a grand-jury foreperson and grand jurors?
 
 **Stone's disposition.** Reverse the standing barrier and remand.
@@ -3629,8 +3155,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 ### OT1992
 
 #### St. Mary's Honor Center v. Hicks, 509 U.S. 502 (1993)
-
-Source: equality build, under "OT1992: the 1993 foundation".
 
 **Historical question.** Does disbelief of an employer's stated reasons compel judgment for a Title VII plaintiff who established a prima facie case?
 
@@ -3644,8 +3168,6 @@ Source: equality build, under "OT1992: the 1993 foundation".
 
 #### Harris v. Forklift Systems, 510 U.S. 17 (1993)
 
-Source: equality build, under "OT1993: decisions principally issued in 1994".
-
 **Historical question.** Must a Title VII hostile environment produce serious psychological injury?
 
 **Stone's disposition.** Reverse and remand; no such injury requirement.
@@ -3654,8 +3176,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 #### Landgraf v. USI Film Products, 511 U.S. 244 (1994), and Rivers v. Roadway Express, 511 U.S. 298 (1994)
 
-Source: equality build, under "OT1993: decisions principally issued in 1994".
-
 **Historical questions.** Do the Civil Rights Act of 1991's new damages and jury-trial provisions, and its expansion of §1981, apply to conduct predating enactment?
 
 **Stone's dispositions.** Affirm the nonretroactivity results in both cases.
@@ -3663,8 +3183,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 **Reasoning.** Congress can strengthen civil-rights remedies prospectively, but courts should not create new retrospective liability without the required legislative direction. Distinguish statutes that change legal consequences from judicial interpretations of existing law. This is an administrable reliance rule and a limit on Stone's remedial ambitions. [*Landgraf*](https://supreme.justia.com/cases/federal/us/511/244/); [*Rivers*](https://supreme.justia.com/cases/federal/us/511/298/).
 
 #### Livadas v. Bradshaw, 512 U.S. 107 (1994)
-
-Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 **Historical questions.** Was California's refusal to enforce a generally applicable wage-payment protection for a union employee preempted by federal labor law, and could the resulting federal-rights violation be remedied through §1983?
 
@@ -3676,8 +3194,6 @@ Source: equality build, under "OT1993: decisions principally issued in 1994".
 
 #### McKennon v. Nashville Banner Publishing Co., 513 U.S. 352 (1995)
 
-Source: equality build, under "OT1994: decisions principally issued in 1995".
-
 **Historical question.** Does after-acquired evidence of employee wrongdoing defeat an ADEA claim arising from an unlawfully motivated discharge?
 
 **Stone's disposition.** Reverse and remand; liability is not erased, but relief is limited by proof of what the employer lawfully would have done once it learned the facts.
@@ -3685,8 +3201,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 **Reasoning.** Separate the original discrimination from the counterfactual remedial loss. Backpay and reinstatement must reflect their actual legal predicates. This prevents the equal-access project from turning into a windfall while preserving an enforceable prohibition. [Opinion](https://supreme.justia.com/cases/federal/us/513/352/).
 
 #### City of Edmonds v. Oxford House, 514 U.S. 725 (1995)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Historical question.** Was a zoning rule defining permitted household composition exempt from the Fair Housing Act as a maximum-occupancy restriction?
 
@@ -3698,8 +3212,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 #### Lane v. Peña, 518 U.S. 187 (1996)
 
-Source: equality build, under "OT1995: decisions principally issued in 1996".
-
 **Historical question.** Did the Rehabilitation Act clearly waive federal sovereign immunity for the compensatory damages sought for an executive agency's §504 violation?
 
 **Stone's disposition.** Affirm the rejection of that damages claim for lack of the necessary waiver.
@@ -3710,8 +3222,6 @@ Source: equality build, under "OT1995: decisions principally issued in 1996".
 
 #### Blessing v. Freestone, 520 U.S. 329 (1997)
 
-Source: equality build, under "OT1996: decisions principally issued in 1997".
-
 **Historical question.** Did Title IV-D create a privately enforceable §1983 right to statewide substantial compliance with federal child-support requirements?
 
 **Stone's disposition.** Vacate and remand to identify any specific enforceable rights; reject an undifferentiated right to overall program compliance.
@@ -3719,8 +3229,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 **Reasoning.** An administrative performance metric is not automatically an individual entitlement. A claimant may nevertheless identify a concrete statutory duty protecting that claimant, subject to congressional displacement and ordinary §1983 requirements. This is a manageable line between enforcing enacted rights and placing an entire agency under open-ended judicial administration. [Opinion](https://supreme.justia.com/cases/federal/us/520/329/).
 
 #### Board of County Commissioners of Bryan County v. Brown, 520 U.S. 397 (1997)
-
-Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 **Historical question.** Could a county be liable under §1983 for a sheriff's hiring decision alleged to have caused a deputy's use of excessive force?
 
@@ -3732,8 +3240,6 @@ Source: equality build, under "OT1996: decisions principally issued in 1997".
 
 #### Bragdon v. Abbott, 524 U.S. 624 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical questions.** Was asymptomatic HIV a disability under the ADA, and what evidence governed the dentist's claimed direct-threat justification?
 
 **Stone's disposition.** Uphold disability coverage and remand the threat analysis to the extent required by the record.
@@ -3741,8 +3247,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 **Reasoning.** Assess the relevant major life activity and actual medical risk. A professional's sincere belief is not the same as an objectively supported threat. Use knowledge available at the time of the decision, not later science to manufacture retrospective fault. This is statutory access adjudication with a concrete safety defense. [Opinion](https://supreme.justia.com/cases/federal/us/524/624/).
 
 #### Pennsylvania Department of Corrections v. Yeskey, 524 U.S. 206 (1998)
-
-Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 **Historical question.** Does ADA Title II cover state prisoners and the prison program at issue?
 
@@ -3752,8 +3256,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 #### Gebser v. Lago Vista Independent School District, 524 U.S. 274 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical question.** When is a federally funded school district liable in damages under Title IX for a teacher's sexual harassment of a student?
 
 **Stone's disposition.** Vacate the no-liability judgment and remand for application of ordinary, appropriately bounded agency principles to the teacher's exercise of delegated educational authority. Reject a universal requirement that a separate corrective official receive actual notice before the recipient can be liable for its agent's abuse of that authority.
@@ -3761,8 +3263,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 **Reasoning.** Stone adopts the central position of the historical dissent. The recipient is already on notice that intentional sex discrimination in its educational program is prohibited. The harder issue is attribution, not whether Congress used the exact later judicial formula for administrative notice. The district is not automatically liable for every private act by an employee: plaintiffs must establish actionable harassment, a legally sufficient agency connection, and compensable injury. This distinction will matter in *Davis*, involving other students rather than a teacher's delegated authority. [Opinion and dissent](https://supreme.justia.com/cases/federal/us/524/274/).
 
 #### Oncale v. Sundowner Offshore Services, 523 U.S. 75 (1998)
-
-Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 **Historical question.** Can same-sex workplace harassment violate Title VII?
 
@@ -3772,8 +3272,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 #### Faragher v. City of Boca Raton, 524 U.S. 775 (1998), and Burlington Industries v. Ellerth, 524 U.S. 742 (1998)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical questions.** When is an employer responsible under Title VII for supervisor harassment, and what role do a tangible employment action and preventive/corrective measures play?
 
 **Stone's dispositions.** Apply vicarious responsibility for the supervisor's legally attributable conduct; recognize the limited affirmative defense where no tangible employment action occurred. In *Faragher*, reverse the appellate judgment; in *Ellerth*, affirm the remand under the appropriate framework.
@@ -3781,8 +3279,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 **Reasoning.** Institutions should have incentives to prevent discrimination, provide usable complaint routes, and correct it. Claimants likewise must act reasonably where the applicable defense requires that inquiry. Neither a paper policy nor an employee's job title conclusively establishes effective prevention or employer responsibility. These are Title VII rules; transfer to Title IX requires a separate statutory argument. [*Faragher*](https://supreme.justia.com/cases/federal/us/524/775/); [*Ellerth*](https://supreme.justia.com/cases/federal/us/524/742/).
 
 #### Crawford-El v. Britton, 523 U.S. 574 (1998)
-
-Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 **Historical question.** Could courts impose a clear-and-convincing proof requirement for unconstitutional motive in damages litigation against public officials?
 
@@ -3794,8 +3290,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 #### Olmstead v. L.C., 527 U.S. 581 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical questions.** Can unjustified institutional isolation constitute ADA Title II discrimination, and what limits follow from professional suitability, the individual's wishes, reasonable accommodation, and fundamental alteration?
 
 **Stone's disposition.** Affirm the integration principle, vacate the overly restrictive treatment of the state's resource defense, and remand.
@@ -3803,8 +3297,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** A service may be formally available while its unjustified mode of delivery denies meaningful community participation. Apply the enacted integration and modification rules where community placement is appropriate, is not opposed by the individual, and can reasonably be accommodated. Consider the system's resources and other people with disabilities. A credible plan and a waiting list moving at a reasonable pace may matter; a perpetual administrative promise is not compliance. This is a bounded statutory service obligation, not a constitutional guarantee of every requested placement. [Opinion](https://supreme.justia.com/cases/federal/us/527/581/).
 
 #### Sutton v. United Air Lines, 527 U.S. 471 (1999), and Murphy v. UPS, 527 U.S. 516 (1999)
-
-Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 **Historical questions.** Must mitigating measures be considered when identifying an ADA disability? Did the applicants or employee satisfy the actual-disability or regarded-as definition on their records?
 
@@ -3814,8 +3306,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### Albertson's, Inc. v. Kirkingburg, 527 U.S. 555 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical questions.** What showing establishes disability for a monocular driver, and must an employer participate in the experimental DOT waiver program despite the otherwise applicable federal vision standard?
 
 **Stone's disposition.** Uphold the employer's ability to rely on the applicable federal safety qualification in the circumstances presented. Reject any categorical rule that monocularity always establishes disability, while applying Stone's *Sutton* approach to mitigating measures.
@@ -3823,8 +3313,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** Distinguish coverage from qualification. The ADA does not require the employer to disregard an applicable federal safety rule merely because an experimental waiver route exists. This does not authorize employers to invent unsupported safety rules of their own. [Opinion](https://supreme.justia.com/cases/federal/us/527/555/).
 
 #### Davis v. Monroe County Board of Education, 526 U.S. 629 (1999)
-
-Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 **Historical question.** Could a school district be liable in damages under Title IX for deliberate indifference to known student-on-student sexual harassment?
 
@@ -3834,8 +3322,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### NCAA v. Smith, 525 U.S. 459 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical question.** Did receipt of dues from federally funded member institutions make the NCAA a recipient of federal financial assistance under Title IX?
 
 **Stone's disposition.** Vacate and remand; dues alone do not establish recipient status. Leave properly preserved alternative recipient theories for consideration below.
@@ -3843,8 +3329,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 **Reasoning.** Statutory coverage must have a defensible stopping point. An entity does not become a federal funding recipient whenever money once associated with federal assistance enters its accounts. This limit is compatible with holding a genuinely covered institution responsible for its own program. [Opinion](https://supreme.justia.com/cases/federal/us/525/459/).
 
 #### Cedar Rapids Community School District v. Garret F., 526 U.S. 66 (1999)
-
-Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 **Historical question.** Did IDEA require the district to provide the continuous school-day nursing services needed for the student to attend school, or were they excluded medical services?
 
@@ -3856,8 +3340,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 
 #### Reeves v. Sanderson Plumbing Products, 530 U.S. 133 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Was judgment as a matter of law against the discrimination plaintiff proper despite a prima facie case, evidence undermining the employer's reasons, and the full trial record?
 
 **Stone's disposition.** Reverse and reinstate the jury's role under the appropriate sufficiency standard.
@@ -3865,8 +3347,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 **Reasoning.** *Hicks* permits an inference of discrimination from pretext and the surrounding evidence; it does not demand an additional category of independent proof. Courts must review the whole record without weighing credibility against the verdict. An inference is permissible rather than compulsory in every case. [Opinion](https://supreme.justia.com/cases/federal/us/530/133/).
 
 #### Powell v. Ridge, 189 F.3d 387 (3d Cir. 1999)
-
-Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 **Simulation vehicle: OT1999, April 24, 2000.**
 
@@ -3880,8 +3360,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 
 #### Alexander v. Sandoval, 532 U.S. 275 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical question.** Could private plaintiffs enforce Title VI disparate-impact regulations to challenge Alabama's English-only driver's-license examinations?
 
 **Stone's disposition.** Affirm the availability of the private enforcement action and the judgment at the scope of the granted question. Do not decide unpresented challenges to the regulation's validity or announce that every language difference violates Title VI.
@@ -3892,8 +3370,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### PGA Tour, Inc. v. Martin, 532 U.S. 661 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical questions.** Did ADA Title III cover the relevant tour competition and participant, and would permitting Martin to use a golf cart fundamentally alter the competition?
 
 **Stone's disposition.** Affirm the required modification on the individual record.
@@ -3901,8 +3377,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 **Reasoning.** The statute requires evaluation of the actual rule and person, not automatic deference to an organization's declaration that every customary rule is essential. The findings supported a modification without the claimed fundamental alteration. Preserve meaningful safety and essential-program defenses in cases where evidence supports them. [Opinion](https://supreme.justia.com/cases/federal/us/532/661/).
 
 #### Buckhannon Board & Care Home v. West Virginia Department of Health and Human Resources, 532 U.S. 598 (2001)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Historical question.** Could a plaintiff be a prevailing party for statutory attorney's fees when the suit caused the defendant to change its conduct voluntarily, without a merits judgment or consent decree?
 
@@ -3912,8 +3386,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Booth v. Churner, 532 U.S. 731 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical question.** Must a prisoner exhaust an available administrative process when seeking money that the process cannot award?
 
 **Stone's disposition.** Affirm the exhaustion requirement where the process can provide some responsive relief.
@@ -3922,8 +3394,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Saucier v. Katz, 533 U.S. 194 (2001)
 
-Source: equality build, under "OT2000: decisions principally issued in 2001".
-
 **Historical questions.** How should courts analyze constitutional violation and clearly established law in qualified-immunity cases, and was the officer entitled to immunity here?
 
 **Stone's disposition.** Accept qualified immunity on the historical excessive-force record, but decline to require constitutional merits adjudication first in every case.
@@ -3931,8 +3401,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 **Reasoning.** Courts should usually clarify legal duties where doing so is necessary and suitably presented, but a mandatory sequence can force unnecessary constitutional decisions on incomplete records. Officials retain protection where the law did not give adequate notice; that protection does not make clearly wrongful conduct immune merely because no factually identical reported case exists. *Hope* completes that clarification. [Opinion and separate writings](https://supreme.justia.com/cases/federal/us/533/194/).
 
 #### Harris v. Garner, 216 F.3d 970 (11th Cir. 2000)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Simulation vehicle: OT2000, September 24, 2001.**
 
@@ -3946,8 +3414,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** What constitutes a substantial limitation in performing manual tasks, and did the Sixth Circuit correctly grant partial summary judgment on disability?
 
 **Stone's disposition.** Vacate the partial summary judgment and remand for a complete functional inquiry. Reject both a test confined to the employee's narrow assembly-line tasks and a newly heightened requirement that the impairment prevent or severely restrict activities central to most people's daily lives.
@@ -3955,8 +3421,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** The enacted term “substantially” requires a meaningful limitation, not total incapacity. Assess the person's actual range of major activities, duration, and degree of limitation. The ability to perform some household tasks does not automatically defeat coverage. Stone's approach extends his original-statute reading in *Sutton*; it does not retroactively invoke the 2008 amendments. [Opinion](https://supreme.justia.com/cases/federal/us/534/184/).
 
 #### EEOC v. Waffle House, 534 U.S. 279 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Did an employee's arbitration agreement prevent the EEOC from seeking victim-specific relief in its public enforcement action?
 
@@ -3966,8 +3430,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Swierkiewicz v. Sorema, 534 U.S. 506 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Must an employment-discrimination complaint plead the evidentiary elements of the *McDonnell Douglas* prima facie case?
 
 **Stone's disposition.** Reverse dismissal under that heightened pleading demand.
@@ -3975,8 +3437,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** An evidentiary method is not a universal pleading code. Apply the Federal Rules then in force and require fair notice of the discrimination claim. Do not require a plaintiff to possess evidence uniquely held by the employer before relevant discovery. This preserves the practical operation of *Hicks*, *Reeves*, and *Crawford-El*. [Opinion](https://supreme.justia.com/cases/federal/us/534/506/).
 
 #### Porter v. Nussle, 534 U.S. 516 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Does PLRA exhaustion apply to a prisoner's claim about an individual excessive-force incident as well as general prison conditions?
 
@@ -3986,8 +3446,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Owasso Independent School District v. Falvo, 534 U.S. 426 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Did students' peer grading violate FERPA's rules concerning education records maintained by an educational institution?
 
 **Stone's disposition.** Reverse the ruling that ordinary peer grading itself violates the provision.
@@ -3995,8 +3453,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** Read “maintained” records in its statutory setting. A statute protecting educational privacy need not sweep in every classroom exchange. Reserve the general private-enforcement question for a case presenting it, as *Gonzaga* subsequently does. This demonstrates that an enforceable right can remain bounded and practically administrable. [Opinion](https://supreme.justia.com/cases/federal/us/534/426/).
 
 #### US Airways, Inc. v. Barnett, 535 U.S. 391 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** When does an accommodation conflicting with an employer's seniority system remain reasonable under the ADA?
 
@@ -4006,8 +3462,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Chevron U.S.A. Inc. v. Echazabal, 536 U.S. 73 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Could the EEOC permissibly authorize a defense based on a significant threat to the employee's own health?
 
 **Stone's disposition.** Reverse rejection of the regulation and remand its application.
@@ -4015,8 +3469,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** The safety defense can fit the statutory delegation, but requires an individualized, objectively supported assessment, including accommodation. It is not a permission for paternalistic assumptions about disability or a general excuse to exclude people who may face some additional risk. [Opinion](https://supreme.justia.com/cases/federal/us/536/73/).
 
 #### National Railroad Passenger Corp. v. Morgan, 536 U.S. 101 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical questions.** How do Title VII filing deadlines apply to discrete discriminatory acts and a hostile environment extending across time?
 
@@ -4026,8 +3478,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Barnes v. Gorman, 536 U.S. 181 (2002)
 
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
-
 **Historical question.** Were punitive damages available in the private action under ADA Title II and §504 of the Rehabilitation Act?
 
 **Stone's disposition.** Reverse the punitive-damages award under the remedial framework governing those statutes.
@@ -4035,8 +3485,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Reasoning.** A valid substantive access right and compensatory remedy do not establish an additional punitive remedy. The statutory cross-references and notice to covered recipients matter. Stone can preserve ordinary compensation for proved injury without using this case to authorize every remedy under every civil-rights statute. [Opinion](https://supreme.justia.com/cases/federal/us/536/181/).
 
 #### Gonzaga University v. Doe, 536 U.S. 273 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Did FERPA's education-record confidentiality provisions create a right enforceable through §1983 in the damages litigation before the Court?
 
@@ -4047,8 +3495,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 **Relationship to Sandoval.** *Sandoval* concerns an existing implied statutory action and implementing regulations. *Gonzaga* concerns the separate, legislatively supplied §1983 remedy. Stone must explain both routes; he cannot claim that the word “rights” has the same procedural function in every statute. *Blessing* and *Owasso* preserve enforceable boundaries.
 
 #### Hope v. Pelzer, 536 U.S. 730 (2002)
-
-Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 **Historical question.** Were prison officials entitled to qualified immunity for the hitching-post treatment because no prior case matched the facts closely enough?
 
@@ -4062,8 +3508,6 @@ Source: equality build, under "OT2001: decisions from late 2001 through 2002".
 
 #### Shalala v. Illinois Council on Long Term Care, 529 U.S. 1 (2000)
 
-Source: equality build, under "OT1999: decisions principally issued in 2000".
-
 **Historical question.** Did Medicare's designated review channel foreclose this anticipatory federal-question action challenging enforcement regulations?
 
 **Stone's disposition.** Reverse the appellate judgment allowing the bypass on the historical showing, while preserving the distinction between delayed review and the practical foreclosure of all judicial review.
@@ -4073,8 +3517,6 @@ Source: equality build, under "OT1999: decisions principally issued in 2000".
 ### OT2000
 
 #### United States v. Mead Corp., 533 U.S. 218 (2001)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Historical question.** Did the customs classification ruling receive controlling *Chevron* deference, and what other persuasive weight could it have?
 
@@ -4088,8 +3530,6 @@ Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 #### Daubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993)
 
-Source: equality build, under "OT1992: the 1993 foundation".
-
 **Historical question.** Does the Federal Rules of Evidence framework supersede *Frye*'s general-acceptance requirement for scientific expert evidence, and what screening must judges perform?
 
 **Stone's disposition.** Vacate and remand under a flexible reliability-and-relevance inquiry.
@@ -4099,8 +3539,6 @@ Source: equality build, under "OT1992: the 1993 foundation".
 ### OT1994
 
 #### Lebron v. National Railroad Passenger Corp., 513 U.S. 374 (1995)
-
-Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 **Historical question.** Is Amtrak a governmental actor for constitutional purposes despite Congress's statutory declaration that it is not a federal agency?
 
@@ -4112,8 +3550,6 @@ Source: equality build, under "OT1994: decisions principally issued in 1995".
 
 #### General Electric Co. v. Joiner, 522 U.S. 136 (1997)
 
-Source: equality build, under "OT1997: decisions principally issued in 1998".
-
 **Historical question.** What appellate standard applies to exclusion of scientific expert evidence, and was the exclusion within the trial court's discretion?
 
 **Stone's disposition.** Reverse the appellate court's overly searching standard and remand consistently with abuse-of-discretion review.
@@ -4124,8 +3560,6 @@ Source: equality build, under "OT1997: decisions principally issued in 1998".
 
 #### Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999)
 
-Source: equality build, under "OT1998: decisions principally issued in 1999".
-
 **Historical question.** Does reliability screening apply to technical and other specialized expertise, and how flexibly may a trial court conduct it?
 
 **Stone's disposition.** Reverse the ruling limiting *Daubert* to scientific testimony and sustain the flexible gatekeeping approach.
@@ -4135,8 +3569,6 @@ Source: equality build, under "OT1998: decisions principally issued in 1999".
 ### OT2000
 
 #### Brentwood Academy v. Tennessee Secondary School Athletic Association, 531 U.S. 288 (2001)
-
-Source: equality build, under "OT2000: decisions principally issued in 2001".
 
 **Historical question.** Was the nominally private athletic association a state actor because of the pervasive entwinement of public schools and officials in its structure?
 
