@@ -14,88 +14,155 @@ A closing footnote explains why Almendarez-Torres is a sleeper for the jury-sent
 
 OT1991
 - Estelle v. McGuire
+  - Held (White for the Court, 5-3): On habeas review, admitting evidence of the child's prior nonaccidental injuries to show the killing was intentional did not violate due process, and the instruction created no reasonable likelihood that the jury skipped proof of an element. The Ninth Circuit's grant of relief was reversed.
 - Stringer v. Black
+  - Held (Kennedy for the Court, 6-3): Teague did not bar the vague-aggravator claim, because Godfrey already forbade unguided heinousness aggravation before Stringer's sentence became final in 1985, and applying it to Mississippi's weighing system was not a new rule. The case was reversed and remanded, with the State's default defense still open.
 - Gomez v. United States District Court and Vasquez v. Harris (stay applications)
+  - Held (Gomez: per curiam, 6-3; Vasquez: unsigned orders, 7-2 and 6-3): Gomez vacated the Ninth Circuit's execution stays because Harris's unexplained delay in raising his cyanide-gas challenge through four earlier federal habeas proceedings left them without equitable support, apart from any habeas bar. The Vasquez orders vacated two later stays (7-2) and directed that no federal court stay Harris's execution again without this Court's order (6-3, Stone dissenting from that direction).
 - Keeney v. Tamayo-Reyes
+  - Held (O'Connor for the Court, 5-4): Under Townsend v. Sain, a habeas petitioner whose material facts were not adequately developed in state court loses a federal hearing only by deliberate bypass, not by counsel's ordinary negligence. Tamayo-Reyes was entitled to a hearing limited to whether the manslaughter mental-state element was explained to him.
 - Coleman v. Thompson (stay application; petition disposition)
+  - Held (per curiam, 6-3): The stay of execution was denied because Coleman's innocence presentation showed no significant possibility of overcoming the independent state default and successive-petition bars, deciding neither innocence nor a general innocence rule. Certiorari was later denied on June 15, 1992.
 - Wright v. West
+  - Held (no opinion of the Court, 9-0): The trial evidence let a rational juror find larceny under Jackson v. Virginia, so West's insufficiency claim warranted no habeas relief, and the judgment was reversed and remanded. No majority adopted a general rule of deference to state-court rulings on legal or mixed questions.
 - Sawyer v. Whitley
+  - Held (Kennedy for 5, 9-0 judgment): To reach a barred claim by showing innocence of the death penalty, a prisoner must show by clear and convincing evidence that, absent the error, no reasonable juror would find him eligible for death; mitigation evidence does not count. Sawyer's evidence fell short, so his claims remained barred.
 
 OT1992
 - Grubbs v. Delo (administrative stay)
+  - Held (unsigned order; internal tally 9-0, not published): The Court temporarily stayed the execution pending its further order so it could examine the application and the State's response. The order decided no habeas claim and no entitlement to a longer stay.
 - Parke v. Raley
+  - Held (O'Connor for 8, 9-0 judgment): Due process let Kentucky, once it proved a prior conviction, require the defendant to produce evidence that the guilty plea was invalid, and did not demand clear-and-convincing proof of validity. Under former §2254(d) the state findings were presumed correct, Raley's 1981 plea was valid, and the Sixth Circuit's conditional writ was reversed.
 - Dobbs v. Zant
+  - Held (per curiam for 6; 8 for reversal, White would have granted full review): An appellate court may not exclude, without justification, a recovered capital-sentencing transcript that materially contradicts the facts behind an earlier habeas ruling and then rely on law of the case. The judgment was reversed and remanded for consideration of the transcript.
 - Graham v. Collins
+  - Held (Souter for the Court, 5-4): Teague did not bar Graham's claim, because Jurek, Lockett and Eddings already required before his 1984 finality that Texas's special issues allow effective use of youth and background mitigation. The special issues gave his youth no adequate route, so he was granted conditional relief from the death sentence.
 - Herrera v. Collins
+  - Held (no opinion of the Court, 5-4): Herrera's late and inconsistent affidavits did not entitle him to federal habeas relief or justify the innocence-based stay, even assuming a truly persuasive innocence showing could bar an execution. No majority decided whether a freestanding innocence claim exists or what it would require.
 - Lockhart v. Fretwell
+  - Held (O'Connor for the Court, 6-3): Counsel's failure to win the benefit of a rule later rejected is not Strickland prejudice when the lost benefit is one the law does not recognize, and Teague does not require ignoring that later correction. The rule adds no general unfairness requirement to ordinary prejudice analysis; habeas relief was reversed.
 - Delo v. Lashley
+  - Held (per curiam, 7-2): The Constitution does not require an instruction on a mitigating circumstance that no evidence supports, so Missouri could refuse the no-significant-criminal-history instruction. The grant of habeas relief on that ground was reversed and remanded.
 - Brecht v. Abrahamson
+  - Held (White for the Court, 5-4): Impeaching Brecht with his silence after Miranda warnings was Doyle trial error, and on habeas Chapman governs this preserved error: the State must prove beyond a reasonable doubt that it did not contribute to the verdict. Kotteakos was not applied, and the case was vacated and remanded for Chapman review.
 - Withrow v. Williams
+  - Held (Souter for the Court, 6-3): Stone v. Powell's bar does not extend to Miranda claims, so a full and fair state hearing does not foreclose federal habeas review of them. Unanimously, relief on an unpleaded coercion theory was reversed because the State never had a fair chance to litigate it.
 - Gilmore v. Taylor
+  - Held (O'Connor for the Court, 7-2): Falconer's rule on these murder and voluntary-manslaughter instructions was a new rule under Teague, the State's concession of error did not waive its Teague defense, and neither exception applied. The grant of habeas relief was reversed.
 - Delo v. Blair (stay application)
+  - Held (equally divided Court, 4-4): The State's application to vacate the Eighth Circuit's stay of execution was denied, so the stay remained in effect. The division set no precedent and decided nothing about Blair's innocence showing.
 
 OT1993
 - Burden v. Zant
+  - Held (per curiam, 9-0): A habeas judgment resting on deference to a district-court finding that was never made must be reversed. On remand the courts must decide whether trial counsel had an actual conflict of interest that adversely affected his performance, without presuming it from joint representation.
 - Schiro v. Farley
+  - Held (O'Connor for the Court, 7-2): Teague is not jurisdictional, so when the State first raises it in merits briefing the Court may decline to consider it, and it did so here. On the merits the sentencing proceeding did not violate double jeopardy, and the denial of habeas relief was affirmed.
 - Caspari v. Bohlen
+  - Held (O'Connor for the Court, 8-1): The State's preserved Teague defense was fairly included in the question presented, and a rule barring renewed proof of persistent-offender status was new at Bohlen's 1986 finality and fit neither exception. The grant of habeas relief was reversed without deciding the double jeopardy merits.
 - Custis v. United States
+  - Held (O'Connor for the Court, 6-3): At sentencing under the Armed Career Criminal Act, a defendant may attack a prior state conviction only for a complete denial of appointed counsel, not for ineffective assistance or an involuntary plea. He may seek review of those convictions through other available procedures and, if he succeeds, seek relief from the enhancement.
 - Reed v. Farley
+  - Held (Stone for the Court, 5-4): A claimed violation of the Interstate Agreement on Detainers is a federal-law claim cognizable under §2254, but a nonconstitutional error supports habeas relief only if it is a fundamental defect causing a complete miscarriage of justice. Reed's assumed timing violation did not meet that standard, so the denial of relief was affirmed.
 - McFarland v. Scott
+  - Held (Stevens for the Court; 7-2 on counsel, 6-3 on the stay): A capital defendant may obtain appointed counsel under §848(q)(4)(B) before filing a habeas petition, and that request starts a proceeding in which a federal court may stay the execution under §2251. A stay is discretionary, not automatic.
 
 OT1994
 - Schlup v. Delo
+  - Held (Stevens for the Court, 6-3): To pass through successive or abusive petition barriers by showing innocence of the crime, a prisoner must present reliable new evidence showing it more likely than not that no reasonable juror would convict, considering all the evidence. Sawyer's clear-and-convincing test is confined to death eligibility; the judgment was vacated and remanded.
 - O'Neal v. McAninch
+  - Held (O'Connor for 5, 7-2 judgment): On habeas, Chapman governs a preserved error in instructions and argument that let the jury convict without finding the defendant's own required intent, so the State must prove harmlessness beyond a reasonable doubt. The Sixth Circuit's judgment was vacated for review under that standard; no broader rule for other errors drew a majority.
 - Kyles v. Whitley
+  - Held (Souter for the Court, 6-3): Suppressed evidence is material when its combined effect creates a reasonable probability of a different result, the prosecutor answers for evidence known to the police, and a material Brady violation needs no second harmlessness review. The Court ordered a conditional writ requiring release unless Louisiana retries Kyles.
 - Garlotte v. Fordice
+  - Held (Ginsburg for the Court, 8-1): A prisoner serving consecutive sentences remains in custody under an earlier conviction in the series, even after its term is served, when invalidating it would advance his release. The judgment was reversed and remanded for the remaining habeas inquiries.
 
 OT1995
 - Tuggle v. Netherland
+  - Held (Stevens for the Court, 9-0): In a nonweighing capital system, a surviving valid aggravator does not by itself defeat a claim of denied psychiatric assistance under Ake or show that the denial did not affect the death sentence. The ruling was vacated and remanded without choosing a harmless-error standard for habeas.
 - Thompson v. Keohane
+  - Held (O'Connor for the Court, 8-1): Whether a suspect was in custody for Miranda purposes is a mixed question that federal habeas courts decide independently; the §2254(d) presumption of correctness covers only historical facts and credibility findings. The judgment was vacated and remanded for independent review.
 - Allridge v. Scott
+  - Held (Souter for the Court, 9-0): Simmons does not entitle a capital defendant to a prediction of release when the alternative sentence allows ordinary parole, but a court may not reject admitted mitigation merely because it fails to show a severe permanent disability. That mitigation ruling was vacated and remanded; no sentencing writ issued.
 - Lonchar v. Thomas
+  - Held (Stevens for the Court, 9-0): A first federal habeas petition that meets jurisdictional and pleading requirements may not be dismissed on general equitable grounds for delay; delay supports dismissal only under Rule 9 or another lawful source. The order vacating the district court's stay was set aside and the stay restored pending redetermination.
 - Bowersox v. Williams (stay application)
+  - Held (O'Connor for the Court, 5-4): A stay pending a second or successive habeas petition requires substantial grounds on which relief might be granted, and Williams's identified claims supplied none. Missouri's application was granted and the Eighth Circuit's stay vacated, with Stone dissenting.
 - AEDPA Title I (admitted source: enacted April 24, 1996)
+  - Effect: Enacted April 24, 1996, Title I added one-year limitations periods (§2244(d) and §2255), the certificate-of-appealability requirement (§2253), limits on relief for claims decided on the merits in state court and on federal hearings (§2254), circuit authorization for successive petitions (§2244(b)), and chapter 154's special capital procedures, which §107(c) expressly applies to pending cases. The admission decided no case, transition question, or whether any State qualifies for chapter 154.
 - Calderon v. Moore
+  - Held (per curiam, 9-0): A State's steps toward a new trial under an unstayed conditional habeas writ do not moot its appeal while reversal could still lift the duty to retry. The Ninth Circuit's dismissal as moot was reversed and remanded.
 - Gray v. Netherland
+  - Held (Souter for the Court, 5-4): Gray's claim that last-minute evidence denied him a real opportunity to answer it at capital sentencing rested on law dictated before his 1987 finality, so Teague did not bar it, and the proven denial and prejudice required restoring conditional sentencing relief. His separately dismissed Brady claim stayed dismissed, 9-0.
 - Felker v. Turpin
+  - Held (O'Connor for the Court, 9-0): AEDPA's §2244(b)(3)(E) bars certiorari review of a circuit's ruling on permission to file a successive petition, but it leaves this Court's original habeas jurisdiction intact and, as applied, does not suspend the writ. The certiorari petition was dismissed and the original petition and stay application denied.
 
 OT1996
 - California v. Roy
+  - Held (Souter for the Court, 6-3): Omitting the defendant's personal intent from an instruction is trial error subject to harmlessness review, and on habeas Chapman governs, with the State proving beyond a reasonable doubt that the error did not contribute to the verdict. The Ninth Circuit's judgment was vacated and remanded for that review.
 - Lynce v. Mathis (threshold)
+  - Held (Thomas for 8, 9-0 judgment): Before granting habeas relief on Lynce's ex post facto claim, the lower courts must decide whether he exhausted state remedies and what the State's qualified futility concession means. The certificate denial was vacated and the case remanded for exhaustion-first proceedings.
 - Lambrix v. Singletary
+  - Held (Stevens for the Court, 6-3): Procedural default and Teague are distinct nonjurisdictional limits, and a court may decide either first; Lambrix's Espinosa claim invoked a rule already dictated at his 1986 finality (five votes). The judgment was vacated and remanded to resolve the State's preserved default defense.
 - Bracy v. Gramley
+  - Held (Kennedy for the Court, 9-0): Under Habeas Rule 6, good cause for discovery exists when specific allegations give reason to believe that fully developed facts may show entitlement to relief. Bracy's allegations linking the corrupt trial judge to his own trial justified focused discovery on judicial bias.
 - O'Dell v. Netherland
+  - Held (Stevens for the Court, 6-3): Teague did not bar O'Dell's claim to tell the jury he was legally ineligible for parole, on two independent five-vote grounds: Gardner and Skipper already dictated the rule, and alternatively Simmons is a watershed rule (the only ground Stone joined). The adverse ruling was vacated and remanded.
 - Lindh v. Murphy
+  - Held (Ginsburg for the Court, 6-3): AEDPA's chapter 153 amendments, including the new §2254(d), do not govern a noncapital habeas application filed before April 24, 1996. The judgment was reversed and remanded for decision under prior law.
 - Kolster v. INS
+  - Held (Souter for the Court, 9-0): AEDPA §440(a) ended direct appellate review of Kolster's deportation order, so dismissal of his petition was affirmed. Separately, with six votes, the general habeas statute (§2241) still permits review of substantial legal and constitutional challenges to deportation.
 
 OT1997
 - Trest v. Cain
+  - Held (Stevens for the Court, 9-0): A court of appeals is not obliged to raise a procedural default the State has not asserted, because default does not deprive a federal court of jurisdiction. Whether a court may raise it on its own was left open; the judgment was vacated and remanded.
 - Buchanan v. Angelone
+  - Held (O'Connor for the Court, 6-3): Virginia's charge gave the jury an effective way to consider Buchanan's mitigation, so no additional mitigation instructions were constitutionally required. The denial of habeas relief was affirmed, and a separate due process claim was rejected 9-0.
 - Carriger v. Stewart
+  - Held (Stevens for the Court, 5-4): Pre-AEDPA law, including former §2254(d)(8), governs a capital application already pending when AEDPA took effect, and the innocence gateway requires Schlup's whole-record probability inquiry. The new-trial order was set aside and the case remanded for that inquiry and, if the gateway opens, the Brady claim.
 - Calderon v. Thompson
+  - Held (O'Connor for the Court, 5-4): A court of appeals may recall its mandate to reopen the merits of a completed habeas case only on a miscarriage-of-justice showing under Schlup (for guilt) or Sawyer (for death eligibility). Thompson met neither, so the recall was reversed and the mandate denying relief reinstated.
 - Bousley v. United States
+  - Held (Ginsburg for the Court, 7-2): Bailey's reading of the firearm statute is substantive law, so Teague does not bar it, but Bousley's plea claim, defaulted on direct review, may proceed only on cause and prejudice or factual innocence. The Government may rebut innocence with evidence outside the plea record; the judgment was reversed and remanded.
 - Stewart v. Martinez-Villareal
+  - Held (Souter for the Court, 7-2): The Court may review a circuit's ruling that authorization was unnecessary (9-0), and a Ford competency claim dismissed as premature in a first petition is not second or successive when renewed. The claim returns to the district court without circuit authorization.
 - Calderon v. Ashmus
+  - Held (Stone for the Court, 9-0): A prisoner class's suit for a declaration that chapter 154 does not apply would settle only one issue in future habeas cases and presents no Article III controversy, so it must be dismissed. Chapter 154's applicability is to be decided in a concrete habeas proceeding.
 - Hohn v. United States
+  - Held (Ginsburg for the Court, 6-3): A court of appeals' denial of a certificate of appealability is reviewable on certiorari under §1254(1), and House v. Mayo is overruled to that extent. The denial was vacated and remanded for reconsideration.
 - Lucas v. Johnson
+  - Held (O'Connor for the Court; 9-0 to 5-4 by component): Commutation to life mooted the death-only claims, and former §2254(d) governs this pending pre-AEDPA application; most conviction claims were denied. Denial of the Brady claim was vacated and remanded, 5-4, for the full suppression and materiality inquiry.
 
 OT1998
 - Calderon v. Coleman
+  - Held (per curiam, 7-2): On habeas, Chapman governs a misleading commutation instruction affecting the capital jury's choice between death and life without parole (five votes). The appellate sentence ruling was vacated for a genuine whole-record inquiry into the error's effect, leaving the conviction undisturbed.
 - Stewart v. LaGrand
+  - Held (per curiam, 7-2): LaGrand waived his challenge to lethal gas by choosing it twice when lethal injection was available; independently, with five votes, a later favorable ruling did not supply cause for omitting a gas claim that was reasonably available earlier. The gas-specific injunction was vacated.
 - Reno v. Goncalves
+  - Held (Stone for the Court, 6-3): AEDPA and IIRIRA did not clearly withdraw habeas jurisdiction under §2241 over a substantial legal challenge to the denial of eligibility for discretionary relief (9-0). AEDPA §440(d) does not apply to a section 212(c) application pending when AEDPA took effect.
 - O'Sullivan v. Boerckel
+  - Held (Souter for the Court, 6-3): Under pre-AEDPA law, a prisoner must present each federal claim through one complete round of the State's ordinary appellate process, including a discretionary petition to its highest court when that is an ordinary step. Claims omitted once that opportunity expired are procedurally defaulted, subject to the existing cause and innocence gateways.
 - Strickler v. Greene
+  - Held (Stevens for the Court; 9-0 on the conviction, 6-3 on the sentence): Suppression of documents together with counsel's reasonable reliance on the prosecution's open-file practice established cause for the omitted Brady claim (8-1). But the suppressed documents were not material to guilt or to the death sentence, so relief was denied.
 
 OT1999
 - Fiore v. White (certification)
+  - Held (Stevens for the Court, 9-0): The Court certified to the Supreme Court of Pennsylvania whether its later Scarpone construction stated the statute's meaning when Fiore's conviction became final or changed the law. It retained jurisdiction and reserved the federal judgment.
 - Smith v. Robbins
+  - Held (Stevens for the Court, 5-4): California's Wende procedure is inadequate because appointed counsel need not identify any arguable issue, and Teague does not bar relief because Anders and its successors already dictated that protection. The conditional writ restoring adequate appellate review was affirmed.
 - Weeks v. Angelone
+  - Held (Breyer for the Court, 5-4): The claim was fairly presented and not defaulted, and for this post-AEDPA application relief requires meeting §2254(d)(1) (both 9-0). The response to the jury's question left a reasonable likelihood that jurors could not give mitigation effect, so the case was remanded to decide §2254(d)(1) eligibility and the error's effect.
 - Portuondo v. Agard
+  - Held (Kennedy lead opinion, 6-3): Pre-AEDPA law governs Agard's 1995 application and the Court declined to consider the State's belated Teague argument (eight votes). On the merits, the prosecutor's summation remark on Agard's presence at trial supplied no constitutional ground for the writ, though no rationale for that conclusion drew a majority.
 - Williams v. Taylor (Terry Williams)
+  - Held (Breyer for the Court, 7-2): The two clauses of §2254(d)(1) do independent work, and clearly established law includes general rules such as Strickland (eight votes, without Stone). The Virginia court unreasonably applied Strickland by truncating the mitigation evidence (seven votes, with Stone), so Williams receives a conditional writ for resentencing.
 - Williams v. Taylor (Michael Wayne Williams)
+  - Held (Ginsburg for the Court; 9-0 and 8-1): Section 2254(e)(2) bars a hearing only when the applicant or counsel failed to use diligence in developing the facts in state court; the claim based on a known psychiatric report was barred, 8-1. The concealed juror-relationship and prosecutor-nondisclosure claims were not barred, and cause was shown for their default, with prejudice left to the lower courts.
 - Edwards v. Carpenter
+  - Held (Souter for 7, 9-0 judgment): An ineffective-assistance claim offered as cause for another default must itself be preserved, or its own default excused by cause and prejudice or a miscarriage-of-justice showing. The Sixth Circuit's judgment was reversed and remanded.
 - Slack v. McDaniel
+  - Held (Ginsburg for the Court, 7-2): An appeal begun after April 24, 1996 needs a certificate of appealability, which for a procedural dismissal requires that reasonable jurists could debate both the constitutional claim and the procedural ruling. A petition refiled after a dismissal for failure to exhaust is not second or successive.
 - Ramdass v. Angelone
+  - Held (Stevens for the Court, 5-4): Amended §2254(d)(1) applies, measured by this Court's holdings as of November 4, 1994, but the lower court could not reject the parole-information claim categorically under §2254(d)(1) and Teague without examining it. The case was remanded with no present sentencing relief.
 
 ## 2. Reserved landmark cases
 
@@ -477,75 +544,106 @@ O'Dell v. Netherland in plain terms. O'Dell argued that his capital jury should 
 
 ### 3.9 Successive petitions, appeals, counsel and stays
 
-Before AEDPA, abuse-of-the-writ doctrine and former §2244(b) govern repeat petitions (McCleskey v. Zant, entering law), and a court may not dismiss a first petition on free-floating equitable grounds (Lonchar). After AEDPA, a circuit's ruling granting or denying authorization for a successive petition cannot be reviewed on certiorari, but this Court's original habeas jurisdiction survives and the scheme did not suspend the writ as applied (Felker); whether §2244(b)(1)-(2) bind this Court directly is reserved. This Court may review a circuit's ruling that authorization was unnecessary, and a competency-to-be-executed claim dismissed as premature is not successive when renewed (Martinez-Villareal, 7-2). A certificate of appealability issues when reasonable jurists could debate the claim, and for a procedural dismissal also the procedural ruling (Slack); a denial is reviewable on certiorari, overruling House v. Mayo in part (Hohn, 6-3). A capital prisoner may have counsel appointed before filing, with a stay meanwhile (McFarland). Bracy (9-0) ordered focused discovery under Rule 6 on a specific claim of judicial bias. In stay practice, Vasquez v. Harris vacated the specified stays but, unlike history, entered no order barring further stays; Bowersox v. Williams vacated a stay 5-4 with Stone dissenting.
+Before AEDPA, abuse-of-the-writ doctrine and former §2244(b) govern repeat petitions (McCleskey v. Zant, entering law), and a court may not dismiss a first petition on free-floating equitable grounds (Lonchar). After AEDPA, a circuit's ruling granting or denying authorization for a successive petition cannot be reviewed on certiorari, but this Court's original habeas jurisdiction survives and the scheme did not suspend the writ as applied (Felker); whether §2244(b)(1)-(2) bind this Court directly is reserved. This Court may review a circuit's ruling that authorization was unnecessary, and a competency-to-be-executed claim dismissed as premature is not successive when renewed (Martinez-Villareal, 7-2). A certificate of appealability issues when reasonable jurists could debate the claim, and for a procedural dismissal also the procedural ruling (Slack); a denial is reviewable on certiorari, overruling House v. Mayo in part (Hohn, 6-3). A capital prisoner may have counsel appointed before filing, with a stay meanwhile (McFarland). Bracy (9-0) ordered focused discovery under Rule 6 on a specific claim of judicial bias. In stay practice, Vasquez v. Harris vacated the specified stays and, as in history, barred any further federal stay of that execution without this Court's order (6-3, Stone dissenting); Bowersox v. Williams vacated a stay 5-4 with Stone dissenting.
 
 ### 3.10 Where this Court departed from history
 
 Results that differ: Keeney (deliberate bypass kept); Brecht (Chapman on habeas); Graham v. Collins; Gray v. Netherland; Lambrix; O'Dell (a watershed rule recognized); Weeks; Ramdass; Smith v. Robbins (California's Wende procedure inadequate, Stevens for five); Delo v. Blair (stay left in place, 4-4, where history vacated it); Johnson v. Texas (a direct-review capital case that, with Graham, changes the predicate for Penry).
 
-Same results, different reasoning: O'Neal, Roy and Calderon v. Coleman (Chapman, not Brecht); Herrera (no opinion of the Court); Terry Williams (O'Connor's framework is not law); Lockhart v. Fretwell (a narrow rule with no general unfairness requirement); Michael Williams (§2254(e)(2) is a new restriction, not Keeney codified); Vasquez v. Harris (no bar on further stays).
+Same results, different reasoning: O'Neal, Roy and Calderon v. Coleman (Chapman, not Brecht); Herrera (no opinion of the Court); Terry Williams (O'Connor's framework is not law); Lockhart v. Fretwell (a narrow rule with no general unfairness requirement); Michael Williams (§2254(e)(2) is a new restriction, not Keeney codified).
 
 Same results by wider margins: Withrow, Lindh and Hohn (6-3 where history was 5-4).
 
 No historical counterpart: Carriger (certiorari was denied in history), Allridge, Lucas v. Johnson.
 
-Stone's distinctive positions, none controlling: Herrera (recognize a freestanding innocence claim proved by clear and convincing evidence); Sawyer (a broader "more likely than not" test for innocence of the death penalty); O'Neal Part III (Chapman for all preserved trial errors); the Coleman stay (would have granted it); Lambrix (decide default before Teague); O'Dell and Weeks (would grant relief outright); Michael Williams (dissent on the psychiatric-report claim); Strickler (dissent on materiality to the death sentence); Terry Williams (joined neither group on the division between the clauses).
+Stone's distinctive positions, none controlling: Herrera (recognize a freestanding innocence claim proved by clear and convincing evidence); Sawyer (a broader "more likely than not" test for innocence of the death penalty); O'Neal Part III (Chapman for all preserved trial errors); the Coleman stay (would have granted it); Lambrix (decide default before Teague); O'Dell and Weeks (would grant relief outright); Michael Williams (dissent on the psychiatric-report claim); Strickler (dissent on materiality to the death sentence); Terry Williams (joined neither group on the division between the clauses); Vasquez v. Harris (would not have barred further stays).
 
 ## 4. Questions to answer before the landmarks
 
-Questions only. Each names the landmarks it should arrive before.
+Questions only. Under each, the landmarks it should be answered before.
 
 ### 4.1 Timeliness and exhaustion
 
-1. What makes a state postconviction application "properly filed" under §2244(d)(2), and does one containing procedurally barred claims stop the one-year clock? Before: Artuz (OT2000, on the list).
-2. Does a pending federal petition stop the clock, and what happens to a prisoner whose timely federal petition is dismissed for failure to exhaust after the year has run? Before: Duncan (OT2000, on the list), Rhines (OT2004).
-3. May a district court stay a mixed petition while the prisoner exhausts, instead of dismissing it under Rose v. Lundy, and on what showing? Before: Rhines (OT2004).
-4. Is the one-year period subject to equitable tolling, and can a lawyer's misconduct or gross negligence qualify? Before: Holland (OT2009).
-5. Does a credible showing of actual innocence excuse an untimely petition, and does delay count against the showing? Before: McQuiggin (OT2012).
+1. What makes a state postconviction application "properly filed" under §2244(d)(2), and does one containing procedurally barred claims stop the one-year clock?
+   - Answer before: OT2000, Artuz v. Bennett (on the OT2000 list).
+2. Does a pending federal petition stop the clock, and what happens to a prisoner whose timely federal petition is dismissed for failure to exhaust after the year has run?
+   - Answer before: OT2000, Duncan v. Walker (on the OT2000 list); OT2004, Rhines v. Weber.
+3. May a district court stay a mixed petition while the prisoner exhausts, instead of dismissing it under Rose v. Lundy, and on what showing?
+   - Answer before: OT2004, Rhines v. Weber.
+4. Is the one-year period subject to equitable tolling, and can a lawyer's misconduct or gross negligence qualify?
+   - Answer before: OT2009, Holland v. Florida.
+5. Does a credible showing of actual innocence excuse an untimely petition, and does delay count against the showing?
+   - Answer before: OT2012, McQuiggin v. Perkins.
 
 ### 4.2 Default, cause and innocence
 
-6. Is actual innocence, standing alone, a constitutional claim, and if so what showing does it require? Herrera and Delo v. Blair left it open; Stone alone would require clear and convincing evidence. Before: House (OT2005). See also the due process tracker, question 20.
-7. Under Schlup, may the court weigh all the evidence, including evidence that would be inadmissible at trial, and how do appellate courts review a gateway ruling? Schlup reserved the second point. Before: House (OT2005).
-8. Can a postconviction lawyer's ineffectiveness ever supply cause for a default, despite Coleman? Does it matter that state law sends ineffective-assistance-of-trial-counsel claims to postconviction proceedings? Before: Martinez (OT2011), Shinn (OT2021).
-9. May a federal court raise procedural default, or untimeliness, on its own when the State has not? Trest reserved it. Before: no listed landmark.
+6. Is actual innocence, standing alone, a constitutional claim, and if so what showing does it require? Herrera and Delo v. Blair left it open; Stone alone would require clear and convincing evidence. See also the due process tracker, question 20.
+   - Answer before: OT2005, House v. Bell.
+7. Under Schlup, may the court weigh all the evidence, including evidence that would be inadmissible at trial, and how do appellate courts review a gateway ruling? Schlup reserved the second point.
+   - Answer before: OT2005, House v. Bell.
+8. Can a postconviction lawyer's ineffectiveness ever supply cause for a default, despite Coleman? Does it matter that state law sends ineffective-assistance-of-trial-counsel claims to postconviction proceedings?
+   - Answer before: OT2011, Martinez v. Ryan; OT2021, Shinn v. Ramirez.
+9. May a federal court raise procedural default, or untimeliness, on its own when the State has not? Trest reserved it.
+   - Answer before: no listed landmark.
 
 ### 4.3 Fact development
 
-10. After Michael Williams, is a diligent post-AEDPA applicant entitled to an evidentiary hearing under the Townsend and Keeney standards, or only permitted one? Before: Pinholster (OT2010).
-11. Is review under §2254(d)(1) limited to the record that was before the state court? Before: Pinholster (OT2010).
-12. When a court excuses a default because postconviction counsel was ineffective, is that same lawyer's lack of diligence still attributed to the prisoner under §2254(e)(2)? Before: Shinn (OT2021).
+10. After Michael Williams, is a diligent post-AEDPA applicant entitled to an evidentiary hearing under the Townsend and Keeney standards, or only permitted one?
+   - Answer before: OT2010, Cullen v. Pinholster.
+11. Is review under §2254(d)(1) limited to the record that was before the state court?
+   - Answer before: OT2010, Cullen v. Pinholster.
+12. When a court excuses a default because postconviction counsel was ineffective, is that same lawyer's lack of diligence still attributed to the prisoner under §2254(e)(2)?
+   - Answer before: OT2021, Shinn v. Ramirez.
 
 ### 4.4 Deference under §2254(d)
 
-13. How do the "contrary to" and "unreasonable application" clauses divide their work? The general division split 4-4 in Terry Williams and Stone joined neither group. Before: Lockyer (OT2002), Richter (OT2010).
-14. Must a federal court first decide whether the state court erred before asking whether its decision was unreasonable? Before: Lockyer (OT2002).
-15. Does §2254(d) apply to a state court's unexplained summary denial, and if so what reasons must a federal court assume the state court had? Before: Richter (OT2010).
-16. Is a state court's refusal to extend a rule of this Court to a new context an "unreasonable application"? Terry Williams left it open. Before: no listed landmark.
-17. How do §2254(d)(2) (unreasonable fact determinations) and §2254(e)(1) (clear and convincing evidence to rebut state findings) relate? Terry Williams left it open. Before: Miller-El v. Cockrell (OT2002).
-18. Does §2254(d) violate Article III or the Suspension Clause in any application? Terry Williams reserved it. Before: no listed landmark.
+13. How do the "contrary to" and "unreasonable application" clauses divide their work? The general division split 4-4 in Terry Williams and Stone joined neither group.
+   - Answer before: OT2002, Lockyer v. Andrade; OT2010, Harrington v. Richter.
+14. Must a federal court first decide whether the state court erred before asking whether its decision was unreasonable?
+   - Answer before: OT2002, Lockyer v. Andrade.
+15. Does §2254(d) apply to a state court's unexplained summary denial, and if so what reasons must a federal court assume the state court had?
+   - Answer before: OT2010, Harrington v. Richter.
+16. Is a state court's refusal to extend a rule of this Court to a new context an "unreasonable application"? Terry Williams left it open.
+   - Answer before: no listed landmark.
+17. How do §2254(d)(2) (unreasonable fact determinations) and §2254(e)(1) (clear and convincing evidence to rebut state findings) relate? Terry Williams left it open.
+   - Answer before: OT2002, Miller-El v. Cockrell.
+18. Does §2254(d) violate Article III or the Suspension Clause in any application? Terry Williams reserved it.
+   - Answer before: no listed landmark.
 
 ### 4.5 Harmless error
 
-19. For constitutional errors outside the four Chapman categories, which standard governs on habeas: Chapman, Kotteakos (with or without O'Neal's grave-doubt rule), or a test by type of error? Who bears the burden? Before: Fry (OT2006).
+19. For constitutional errors outside the four Chapman categories, which standard governs on habeas: Chapman, Kotteakos (with or without O'Neal's grave-doubt rule), or a test by type of error? Who bears the burden?
+   - Answer before: OT2006, Fry v. Pliler.
 20. Does Stone want a general rule (his O'Neal Part III view, which had three votes) or to keep deciding category by category?
-21. When a state court has already applied Chapman, does a federal court apply Chapman itself, defer to the state ruling under §2254(d), or require both? Before: Ayala (OT2014), Davenport (OT2021).
+   - Answer before: OT2006, Fry v. Pliler.
+21. When a state court has already applied Chapman, does a federal court apply Chapman itself, defer to the state ruling under §2254(d), or require both?
+   - Answer before: OT2014, Davis v. Ayala; OT2021, Brown v. Davenport.
 
 ### 4.6 New rules
 
-22. After O'Dell, what test identifies a watershed rule, and which other rules qualify? Before: Summerlin (OT2003), Danforth (OT2007), Edwards v. Vannoy (OT2020).
-23. Is a rule that moves a sentencing fact from judge to jury (Apprendi, and Ring when it comes) substantive or procedural for Teague, and could it be watershed? Before: Summerlin (OT2003). See the footnote below and the due process tracker, question 23.
-24. Has a rule been "made retroactive to cases on collateral review by the Supreme Court" under §2244(b)(2)(A) only when a holding says so, or also when it follows from several holdings taken together? Before: Tyler (OT2000, on the list).
-25. Must state courts use Teague, or may they give new rules broader effect? Must they give new substantive rules retroactive effect? Before: Danforth (OT2007), Montgomery (OT2015).
+22. After O'Dell, what test identifies a watershed rule, and which other rules qualify?
+   - Answer before: OT2003, Schriro v. Summerlin; OT2007, Danforth v. Minnesota; OT2020, Edwards v. Vannoy.
+23. Is a rule that moves a sentencing fact from judge to jury (Apprendi, and Ring when it comes) substantive or procedural for Teague, and could it be watershed? See the footnote below and the due process tracker, question 23.
+   - Answer before: OT2003, Schriro v. Summerlin.
+24. Has a rule been "made retroactive to cases on collateral review by the Supreme Court" under §2244(b)(2)(A) only when a holding says so, or also when it follows from several holdings taken together?
+   - Answer before: OT2000, Tyler v. Cain (on the OT2000 list).
+25. Must state courts use Teague, or may they give new rules broader effect? Must they give new substantive rules retroactive effect?
+   - Answer before: OT2007, Danforth v. Minnesota; OT2015, Montgomery v. Louisiana.
 
 ### 4.7 Prior convictions, federal prisoners and jurisdiction
 
-26. May a prisoner attack an expired prior conviction that enhances his current sentence, through §2254 or §2255, and what exceptions (complete denial of counsel, no meaningful earlier review, newly discovered evidence) apply? Custis and Trest reserved these. Before: Daniels and Lackawanna (OT2000, on the list).
-27. When may a federal prisoner use §2241 through §2255(e)'s saving clause after a later statutory ruling shows his conduct was not a crime? Before: Jones v. Hendrix (OT2022).
-28. Do §2244(b)(1)-(2) bind this Court's original habeas jurisdiction? Felker reserved it. Before: no listed landmark.
-29. How far does the Suspension Clause protect noncitizens: removal orders resting on legal error, detainees held abroad, and expedited removal at the border? Felker and Goncalves frame it. Before: St. Cyr (OT2000, on the list), Boumediene (OT2007), Thuraissigiam (OT2019).
-30. Does any State qualify for chapter 154's expedited capital procedures, and in what proceeding may that be decided after Ashmus? Before: no listed landmark.
-31. Does Heck's favorable-termination rule bar a §1983 damages claim when habeas was never available to the plaintiff? Before: Randell v. Johnson (OT2000, on the list).
+26. May a prisoner attack an expired prior conviction that enhances his current sentence, through §2254 or §2255, and what exceptions (complete denial of counsel, no meaningful earlier review, newly discovered evidence) apply? Custis and Trest reserved these.
+   - Answer before: OT2000, Daniels v. United States (on the OT2000 list); OT2000, Lackawanna County District Attorney v. Coss (on the OT2000 list).
+27. When may a federal prisoner use §2241 through §2255(e)'s saving clause after a later statutory ruling shows his conduct was not a crime?
+   - Answer before: OT2022, Jones v. Hendrix.
+28. Do §2244(b)(1)-(2) bind this Court's original habeas jurisdiction? Felker reserved it.
+   - Answer before: no listed landmark.
+29. How far does the Suspension Clause protect noncitizens: removal orders resting on legal error, detainees held abroad, and expedited removal at the border? Felker and Goncalves frame it.
+   - Answer before: OT2000, INS v. St. Cyr (on the OT2000 list); OT2007, Boumediene v. Bush; OT2019, Department of Homeland Security v. Thuraissigiam.
+30. Does any State qualify for chapter 154's expedited capital procedures, and in what proceeding may that be decided after Ashmus?
+   - Answer before: no listed landmark.
+31. Does Heck's favorable-termination rule bar a §1983 damages claim when habeas was never available to the plaintiff?
+   - Answer before: OT2000, Randell v. Johnson (on the OT2000 list).
 
 ## Footnote: why Almendarez-Torres is a sleeper
 

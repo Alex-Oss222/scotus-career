@@ -12,98 +12,175 @@ Organization:
 
 OT1991
 - Collins v. City of Harker Heights
+  - Held (Stevens for the Court, 9-0): The Due Process Clause does not require a city to give its voluntary employees a workplace free of unreasonable risks. Taking a public job is not the kind of custody that creates a constitutional duty of care.
 - Foucha v. Louisiana
+  - Held (White for the Court, 6-3): Once Louisiana conceded that an insanity acquittee was no longer mentally ill, it could not keep him in psychiatric confinement because he failed to prove he was not dangerous. Five Justices added that a new commitment requires proof of current mental illness and dangerousness by clear and convincing evidence.
 - Riggins v. Nevada
+  - Held (O'Connor for 6, judgment 7-2): Once a pretrial detainee objects to antipsychotic medication, the State must show it is medically appropriate and needed enough to override his refusal, considering less intrusive means. Forced medication through trial without that showing required vacating the convictions for a new trial.
 - Medina v. California
+  - Held (no opinion of the Court, 6-3): Six Justices agreed that California may require a defendant claiming incompetence to prove it by a preponderance of the evidence at an adequate hearing. No single opinion drew five joins, so no general method controls.
 - Planned Parenthood of Southeastern Pennsylvania v. Casey
+  - Held (Stone for 6): Before viability a woman keeps the right to decide whether to continue a pregnancy, and the State may not forbid that choice, give anyone else control over it, or block timely care needed for her life or health. In a part joined by five, the Court replaced the trimester timetable with a six-step standard for previability regulation.
 
 OT1992
 - Herrera v. Collins
+  - Held (no opinion of the Court, 5-4): Herrera's late, inconsistent affidavits do not entitle him to federal habeas relief, even assuming a truly persuasive showing of innocence could bar an execution. Whether such a freestanding innocence claim exists was left undecided.
 - Reno v. Flores
+  - Held (Scalia for 6, judgment 7-2): A juvenile held pending deportation who has no available parent, guardian or close relative has no fundamental right to release to an unrelated willing adult instead of temporary, nonpunitive government care. Review on request, rather than an automatic hearing, is not facially inadequate.
 - Sullivan v. Louisiana
+  - Held (Scalia for the Court, 9-0): A reasonable-doubt instruction that vitiates the standard for all of the jury's findings leaves no valid guilty verdict. The error is structural and requires reversal without harmless-error review.
 - Heller v. Doe
+  - Held (Souter for the Court, 5-4): Kentucky's lower proof burden for committing adults with intellectual disability (clear and convincing evidence, against proof beyond a reasonable doubt for mental illness) violates equal protection. In a six-Justice part by Kennedy, letting relatives take part as parties does not by itself deny the adult due process where he has counsel and a fair chance to contest.
 - TXO Production Corp. v. Alliance Resources Corp.
+  - Held (no opinion of the Court, 5-4): The $10 million punitive award was affirmed. Five Justices agreed only that the jury process and judicial review given here satisfied due process; no rule about a permissible award size commands a majority.
 - Austin v. United States
+  - Held (Blackmun for the Court, 9-0): Civil forfeitures under 21 U.S.C. 881(a)(4) and (a)(7) are at least partly punishment and so are subject to the Excessive Fines Clause. The case was remanded to decide whether this forfeiture is excessive.
 - Alexander v. United States
+  - Held (Souter for 6): A criminal RICO forfeiture taken as punishment is subject to the Excessive Fines Clause regardless of the validity of the convictions or the prison term, so the lower court must weigh the forfeiture against the offenses. All nine accepted that remand.
 
 OT1993
 - Cavanaugh v. Roller
+  - Held (O'Connor for the Court, 6-3): Applying to an earlier offender a later law that stretches parole reconsideration from every year to every two years violates the Ex Post Facto Clause when it removes a meaningful release opportunity with no substitute. The prisoner need not prove the lost hearing would have freed him.
 - United States v. James Daniel Good Real Property
+  - Held (Kennedy for the Court, 6-3): Before seizing real property for civil forfeiture, the Government must ordinarily give the owner notice and a hearing. Skipping that step requires showing that less drastic measures, such as a recorded notice, a restraining order or a bond, would not prevent sale, destruction or continued illegal use.
 - Albright v. Oliver
+  - Held (no opinion of the Court, 7-2): Dismissal of Albright's claimed substantive due process right against prosecution without probable cause was affirmed. No rationale drew a majority, so no general rule follows.
 - Victor v. Nebraska / Sandoval v. California
+  - Held (O'Connor for the Court, 9-0): A reasonable-doubt instruction violates due process if, read as a whole, there is a reasonable likelihood the jury understood it to allow conviction on less than proof beyond a reasonable doubt; no set wording is required. Both charges passed that test (Victor 6-3, Sandoval 9-0).
 - Department of Revenue of Montana v. Kurth Ranch
+  - Held (Blackmun for the Court, 6-3): Montana's drug tax, collected in a separate proceeding after criminal punishment for the same offense, is a second punishment barred by the Double Jeopardy Clause. That conclusion rests on the tax's combined features, not any single one.
 - Honda Motor Co. v. Oberg
+  - Held (Blackmun for the Court, 8-1): A State may not abolish judicial review of the amount of a punitive damages award without an adequate substitute. Oregon's safeguards did not replace that review, so the $5 million award was sent back for proper review.
 - Shannon v. United States
+  - Held (Souter for the Court, 6-3): Federal law does not require telling the jury what happens to a defendant found not guilty only by reason of insanity. A corrective instruction may be needed to fix a specific misstatement at trial, such as a claim that the defendant would go free, but none is reported here.
 
 OT1994
 - Fargo Women's Health Organization v. Schafer
+  - Held (Souter for the Court, 6-3): Casey's complete six-step standard governs challenges to previability access rules, without Salerno's no-valid-application barrier, and finding no substantial obstacle does not end review. The access ruling was vacated and remanded; the vagueness challenges to the law's definitions failed, 8-1.
 - California Department of Corrections v. Morales
+  - Held (O'Connor for the Court, 5-4): Applying California's 1981 hearing-deferral law to a 1980 offense violates the Ex Post Facto Clause because it takes away required annual parole consideration without a proven substitute. The prisoner must show a meaningful lost opportunity but need not show the hearing would have freed him; the State must substantiate any substitute it invokes.
 - Sandin v. Conner
+  - Held (Breyer for the Court, 5-4): A State creates protected prison liberty when its substantive rules genuinely limit officials' power to impose a significant deprivation; mandatory wording alone is not enough. The case was remanded to decide the constraint, the deprivation and the process due.
 - United States v. Gaudin
+  - Held (Scalia for the Court, 9-0): When materiality is an element of a criminal false-statement offense, the Fifth and Sixth Amendments require the jury, not the judge, to decide it beyond a reasonable doubt.
 
 OT1995
 - A. St. P. C. v. B. C.
+  - Held (Stone for the Court, 5-4): Louisiana must prove a parent's sexual abuse of a child by clear and convincing evidence before applying its statute cutting off all visitation and contact. A bare preponderance cannot trigger that severe restriction.
 - Bennis v. Michigan
+  - Held (Stone for the Court, 5-4): Due process bars forfeiting a co-owner's share of a car because of another's misuse when she proves she neither took part in nor knew of the misuse and did all she reasonably could to prevent it. The case was remanded so Tina Bennis could prove that defense.
 - Planned Parenthood, Sioux Falls Clinic v. Miller
+  - Held (O'Connor for the Court, 6-3): Under Casey's six-step standard, South Dakota's compulsory parental notice for minors' previability abortions is invalid where its operation gives a parent practical control or substantially obstructs timely care. Independently, the State failed to justify it against a confidential maturity or best-interests alternative.
 - Cooper v. Oklahoma
+  - Held (Kennedy for the Court, 9-0): Due process forbids making a defendant prove incompetence to stand trial by clear and convincing evidence, though a preponderance burden remains permissible. The conviction may stand only if a reliable look back finds he was competent at trial.
 - Sheets v. Salt Lake County
+  - Held (Stevens for the Court, 7-2): The Fourteenth Amendment protects intimate marital and family information given to officials for a limited criminal investigation against intentional official disclosure that causes its publication and lacks sufficient justification.
 - BMW of North America, Inc. v. Gore
+  - Held (Stevens for the Court, 5-4): A grossly excessive punitive award violates due process, judged by reprehensibility, its relation to the harm, and comparable sanctions, and this $2 million award was grossly excessive. Six Justices, including Stone, held that a State may not punish conduct that was lawful where it occurred and had no effect in the State.
 - Montana v. Egelhoff
+  - Held (O'Connor for the Court, 5-4): Because Montana's courts read deliberate homicide as still requiring purpose or knowledge, due process forbids barring otherwise admissible intoxication evidence on that element without sufficient justification. The new-trial order stands.
 - Leavitt v. Jane L.
+  - Held (per curiam, 5-4): Utah's severability clause lets its separate ban after twenty weeks (section 302(3)) operate even though the separate prohibition in section 302(2) is invalid, so the appeals court could not strike it on inseverability alone. Its federal validity was left for the lower courts.
 - Baby Richard v. Kirchner
+  - Held (Stone for the Court, 5-4): When the State abruptly ends an established caregiving relationship to carry out a lawful custody transfer, the child has a liberty interest against serious, avoidable harm from how the transfer is done and must get a prompt chance to show it. That interest gives no right to defeat the father's custody.
 - Lewis v. Casey
+  - Held (Kennedy for 5): A prisoner claiming denial of court access must show actual or imminent hindrance of a nonfrivolous legal claim, though not that he would have won it. In a unanimous part, the Court held that books alone do not satisfy the access right for prisoners who cannot use them without help.
 - United States v. Ursery
+  - Held (O'Connor for 5): These civil forfeitures are not criminal punishment for double jeopardy purposes, because a civil label is overcome only by the clearest proof of punitive purpose or effect. Coverage by the Excessive Fines Clause does not settle that question.
 
 OT1996
 - United States v. Sahhar
+  - Held (Souter for the Court, 9-0): Federal civil commitment under 18 U.S.C. 4246 does not end merely because the charges were dismissed or custody has outlasted the longest possible sentence. Continued custody must rest on current mental illness causing danger, with review, release and state-placement safeguards.
 - Curtis v. School Committee of Falmouth
+  - Held (Souter for the Court, 9-0): An optional school condom-availability program does not violate parental liberty or family privacy merely because parents cannot make the school exclude their children or notify them. Participation is voluntary and the program does not displace parents' own teaching.
 - Lynce v. Mathis
+  - Held (Thomas for 8, judgment 9-0): Before granting habeas relief on Lynce's Ex Post Facto claim, the lower courts must first decide exhaustion and the effect of the State's limited futility concession. The merits were not decided.
 - Brown v. Hot, Sexy & Safer Productions
+  - Held (Ginsburg for the Court, 9-0): Parental liberty protects choosing among lawful schooling options and teaching one's own children, but gives no parent a veto over each public-school lesson reasonably related to a genuine teaching goal. The complaint about a required school presentation stated no federal claim.
 - Wright v. MetroHealth Medical Center
+  - Held (Breyer for the Court, 9-0): A marriage-triggered employment rule gets heightened scrutiny only if it directly and substantially interferes with marrying. This hospital's limit on spouses working together in its flight unit was an incidental assignment burden that passes rational-basis review.
 - Young v. Harper
+  - Held (Breyer for the Court, 9-0): A prisoner released to live at home and work under a preparole program has conditional liberty protected by Morrissey v. Brewer. Revoking it requires Morrissey's preliminary and final hearing protections.
 - Lambert v. Wicklund
+  - Held (per curiam, 9-0): Montana's judicial bypass is not defective because it waives parental notice when notice is not in the minor's best interests, rather than asking whether the abortion itself is. A finding on notice alone requires authorization without notice.
 - Doe v. SEPTA
+  - Held (Kennedy for the Court, 5-4): Assuming without deciding a constitutional interest against unjustified government acquisition and use of intimate medical information, the transit agency's limited, benefits-related inquiry into the medical information it received did not violate it.
 - Edwards v. Balisok
+  - Held (Scalia for the Court, 9-0): A prisoner's damages claim that a disciplinary officer hid evidence or was biased cannot proceed under section 1983 while his loss of good-time credits stands, if success would necessarily show that loss invalid. Claims that do not imply invalidity are analyzed on their own.
 - Gilbert v. Homar
+  - Held (Breyer for the Court, 8-1): Assuming a property interest, due process allows a brief unpaid suspension of a police officer without a prior hearing after an independent felony arrest and formal charges, if prompt later process follows. All nine held that continued nonpayment requires a prompt, meaningful chance to contest it.
 - Mazurek v. Armstrong
+  - Held (per curiam, Part I for 6): A physician-only abortion rule must be reviewed under Casey's complete six-step standard, including its purpose inquiry and its protection against interference short of a substantial obstacle. Five Justices vacated the appeals court's judgment and remanded.
 - Kansas v. Hendricks
+  - Held (Breyer for the Court, 5-4): A law labeled civil is punishment only on the clearest proof of punitive purpose or effect, and Hendricks's commitment, added after his prison term, prisonlike and with inadequate treatment, met that test. Applied to his earlier conduct it violates the Ex Post Facto Clause; no due process holding was made.
 - Vacco v. Quill
+  - Held (Thomas for 5, judgment 9-0): New York does not deny equal protection by letting competent patients refuse treatment while banning assisted suicide. The line rests on consent, causation and intent and serves legitimate protective interests.
 - Washington v. Glucksberg
+  - Held (Kennedy for 5, judgment 9-0): The Due Process Clause gives competent, terminally ill adults no fundamental right to a physician's help in suicide through a lethal prescription, so Washington's ban needs only a rational basis, which its protective interests supply. A narrower, more particular claim is not foreclosed.
 
 OT1997
 - Hudson v. United States
+  - Held (Breyer for 7, judgment 9-0): A civil label on sanctions is overcome only by the clearest proof that their purpose or effect is criminal; these banking penalties and the occupational bar fall short, so the later prosecution is not double jeopardy. Six Justices held that Halper's remedial-relationship test for personal civil penalties survives.
 - Valot v. Southeast Local School District Board of Education
+  - Held (Souter for 8, judgment 9-0): Treating employees who applied for unemployment benefits differently is rational when viewed apart from any penalty on a protected right, and the record shows no fundamental right to renewal or substantive due process deprivation.
 - LaChance v. Erickson
+  - Held (Souter for the Court, 9-0): The due process right to answer an agency's misconduct charge does not protect a knowingly false denial from a falsification charge or penalty. An unsuccessful defense is not itself a lie; the agency must prove actual falsity and culpability.
 - Alexander v. Whitman
+  - Held (Souter for the Court, 9-0): A fetus not born alive is not a person under the Fourteenth Amendment, as Roe held, though States may give broader prenatal protection. New Jersey's live-birth line for wrongful-death and survival claims is rational.
 - Johnson v. Rodriguez
+  - Held (Kennedy for the Court, 9-0): Texas's parole scheme creates no entitlement to release because it does not meaningfully limit the Board's discretion. Prisoners therefore have no due process right to correct or see confidential protest material or to an adversarial parole hearing.
 - W.P. v. Verniero
+  - Held (Souter for 8): Before Tier 2 or Tier 3 community notification, an offender must get a meaningful advance chance to contest both the risk tier and the notification plan, with the prosecutor bearing persuasion; five Justices required clear and convincing proof of the tier. Six held the notification is not punishment.
 - Almendarez-Torres v. United States
+  - Held (Scalia for the Court, 5-4): The prior aggravated-felony conviction in 8 U.S.C. 1326(b)(2) is an element that must be charged and proved to a jury beyond a reasonable doubt, so this sentence may not exceed the two-year maximum of section 1326(a). The ruling is statutory; no majority adopts a general constitutional rule.
 - Ohio Adult Parole Authority v. Woodard
+  - Held (O'Connor for 6): An established capital-clemency process must give minimal safeguards against fundamentally arbitrary procedure, such as deciding by coin flip. Ohio's process creates no entitlement to clemency, and five Justices found its notice and offered interview sufficient.
 - United States v. Scheffer
+  - Held (Thomas for the Court, 8-1): The right to present a defense permits evidence rules justified by legitimate trial interests and proportionate to them. Serious reliability concerns justify Rule 707's categorical exclusion of polygraph evidence.
 - Women's Medical Professional Corp. v. Voinovich
+  - Held (Souter for 7): A State may ban abortion after viability but must allow it when needed, in competent medical judgment, to avert grave, medically established danger of severe, lasting mental or emotional injury. Ohio's method ban was returned for application of the full Casey standard, 5-4.
 - United States v. Thompson
+  - Held (Thomas for the Court, 9-0): Any constitutional protection for voluntary marital intimacy does not bar this court-martial conviction under Article 125, because the act was done to stop an ongoing deadly assault, not as a voluntary intimate choice. Whether truly voluntary private conduct may be punished remains undecided.
 - County of Sacramento v. Lewis
+  - Held (Kennedy for 6, judgment 9-0): In a fast-moving high-speed chase, recklessness or deliberate indifference is not enough for a substantive due process violation. The officer must have intended harm unrelated to a legitimate law-enforcement goal, which this record does not show.
 - United States v. Bajakajian
+  - Held (Thomas for the Court, 6-3): A punitive forfeiture violates the Excessive Fines Clause when grossly disproportionate to the gravity of the offense, a rule all nine joined. Forfeiting the full $357,144 for this willful reporting offense was grossly disproportionate.
 - Eastern Enterprises v. Apfel
+  - Held (no opinion of the Court, 5-4): Eastern's Coal Act tier-three assessments may not be enforced, but three Justices relied on the Takings Clause and two (Kennedy and Stone) on due process, so no rationale controls. Five Justices held that a duty to pay money from general assets is not a taking.
 
 OT1998
 - City of West Covina v. Perkins
+  - Held (Kennedy for 7, judgment 9-0): When police seize property, due process requires notice that lets the owner identify the property and who holds it. It does not require individualized instructions on return procedures available in published statutes and decisions.
 - American Manufacturers Mutual Insurance Co. v. Sullivan
+  - Held (Kennedy for 8): General eligibility for workers' compensation gives no constitutional right to payment of each disputed medical bill before its reasonableness is decided. Seven Justices held that private insurers withholding payment under state law are not state actors.
 - Jones v. United States (carjacking)
+  - Held (Scalia for the Court, 6-3): Under the federal carjacking statute, serious bodily injury and death are elements of aggravated offenses that must be charged and proved to a jury beyond a reasonable doubt. Jones's sentence may not exceed the basic fifteen-year maximum.
 - Conn v. Gabbert
+  - Held (Stone for the Court, 9-0): The liberty to practice a profession does not protect against every government interruption. A search that interrupted a lawyer's consultation with his client, without barring his practice, did not deprive him of that liberty, even assuming the timing was deliberate.
 - City of Chicago v. Morales
+  - Held (Stone for the Court, 7-2): A criminal ordinance is void for vagueness when every prosecution depends on an officer's judgment that people are remaining in public with no apparent purpose and the law gives no objective standard. A later refusal to disperse does not cure that defect.
 - Neder v. United States
+  - Held (Thomas for 7): Withholding an element such as materiality from the jury is a trial error reviewed for harmlessness, so the Government must prove beyond a reasonable doubt that the error did not contribute to the actual verdict; strong evidence alone is not enough. All nine agreed the jury must decide materiality when it is an element.
 
 OT1999
 - Fiore v. White (certification)
+  - Held (Stevens for the Court, 9-0): The Court asked the Pennsylvania Supreme Court whether its later reading of the statute stated what the law meant when Fiore's conviction became final or changed it. The Court kept jurisdiction and reserved the federal due process question.
 - Paul P. v. Verniero
+  - Held (Kennedy for 7): When the State deliberately spreads compiled, nonpublic home-address information in a way that exposes the household, the Fourteenth Amendment protects a limited privacy interest against disclosure not sufficiently tied to the protective purpose. Public conviction information is not protected, and the notification provisions survive, with safeguards examined on remand.
 - Garner v. Jones
+  - Held (O'Connor for the Court, 7-2): Applying California Department of Corrections v. Morales, Jones's retroactive eight-year parole deferral removed a meaningful reconsideration opportunity. Georgia's discretionary expedited-review policy must be tested for legal basis, practical availability and timeliness, so the case was remanded.
 - Doe v. Rosenberg
+  - Held (Kennedy for the Court, 9-0): Private physicians' and a private hospital's commitment decisions are not state action merely because a statute authorizes the confinement, the hospital is heavily regulated and court review is available.
 - Carmell v. Texas
+  - Held (Stevens for the Court, 6-3): The Ex Post Facto Clause bars applying to past conduct a law that removes a requirement of additional evidence needed to convict. Ordinary changes in witness competence, admissibility or trial procedure remain allowed.
 - Troxel v. Granville
+  - Held (Breyer for 6, judgment 6-3): A fit parent's liberty includes directing the child's upbringing, and a court may not override the parent's visitation decision merely because the judge thinks another arrangement is better for the child. No complete visitation standard was adopted.
 - Hawkins v. Freeman
+  - Held (Kennedy for the Court, 9-0): A prisoner mistakenly paroled has no right to stay free; returning him to serve his valid, uncompleted sentence after notice, a hearing and credit for his time on release does not violate substantive due process.
 - Apprendi v. New Jersey
+  - Held (Stone for the Court, 6-3): Under the Sixth Amendment jury right and the Due Process Clause, any fact about the present offense needed to raise punishment above the maximum the verdict or plea supports is an element. It must be admitted or proved to a jury beyond a reasonable doubt.
 - Stenberg v. Carhart
+  - Held (Souter for the Court, 6-3): Nebraska's method ban reaches the ordinary dilation-and-evacuation procedure and so places a substantial obstacle before previability patients. Independently, it cannot be enforced where forcing another method creates a material risk of death or serious harm to health and the banned method is medically necessary.
 
 ## 2. Reserved landmark cases
 
@@ -518,59 +595,90 @@ Stone's distinctive positions, none controlling: BMW (no federal review of a pun
 
 ## 4. Questions to answer before the landmarks
 
-Questions only. Each names the landmarks it should arrive before.
+Questions only. Under each, the landmarks it should be answered before.
 
 ### 4.1 Abortion
 
-1. In a facial challenge, what share of the affected women must face the burden? Casey's spousal-notice holding uses "large fraction" while saying it adopts no numerical formula. Before: Ayotte (OT2005), Gonzales v. Carhart (OT2006).
-2. May a State ban one specific method (the intact procedure) if it is precisely drawn and keeps usable health safeguards? Stenberg reserved this. Before: Gonzales v. Carhart (OT2006).
-3. Under the meaningful-interference tier, what evidence must a State produce to "substantiate" a health justification for clinic regulations such as admitting privileges or facility standards? Before: Whole Woman's Health (OT2015), June Medical (OT2019).
-4. What does the post-viability mental-health exception require (Voinovich), and what other duties may follow viability? Before: Gonzales v. Carhart.
-5. What must a minor's judicial bypass provide: standard of proof, emergencies, practical usability, appeals (Lambert reserved)? Before: Ayotte.
+1. In a facial challenge, what share of the affected women must face the burden? Casey's spousal-notice holding uses "large fraction" while saying it adopts no numerical formula.
+   - Answer before: OT2005, Ayotte v. Planned Parenthood of Northern New England; OT2006, Gonzales v. Carhart.
+2. May a State ban one specific method (the intact procedure) if it is precisely drawn and keeps usable health safeguards? Stenberg reserved this.
+   - Answer before: OT2006, Gonzales v. Carhart.
+3. Under the meaningful-interference tier, what evidence must a State produce to "substantiate" a health justification for clinic regulations such as admitting privileges or facility standards?
+   - Answer before: OT2015, Whole Woman's Health v. Hellerstedt; OT2019, June Medical Services v. Russo.
+4. What does the post-viability mental-health exception require (Voinovich), and what other duties may follow viability?
+   - Answer before: OT2006, Gonzales v. Carhart.
+5. What must a minor's judicial bypass provide: standard of proof, emergencies, practical usability, appeals (Lambert reserved)?
+   - Answer before: OT2005, Ayotte v. Planned Parenthood of Northern New England.
 6. Casey reserved public funding, conscience claims and specific drug approvals. Which does Stone want answered before Dobbs (OT2021) arrives as a request to overrule Casey?
+   - Answer before: OT2021, Dobbs v. Jackson Women's Health Organization.
 
 ### 4.2 Unenumerated liberties
 
-7. What is the general method for recognizing an unenumerated liberty, now that Glucksberg's history-only test is disclaimed? Before: Lawrence (OT2002), Obergefell (OT2014), Dobbs (OT2021).
-8. Is Bowers v. Hardwick overruled, or confined to its "specified conduct" (Thompson)? Before: Lawrence (OT2002).
-9. Does a general right of informational privacy exist over data the government holds, including medical information (Doe v. SEPTA assumed it)? Before: no listed landmark; NASA v. Nelson (OT2010) is the historical vehicle.
-10. What scrutiny protects parental decisions, and must a State show harm or unfitness before overriding them (Troxel reserved)? Before: no listed landmark.
-11. When does a marriage-related rule "directly and substantially" interfere with marrying (Wright v. MetroHealth)? Before: Obergefell (OT2014).
-12. What remains of a particularized assisted-death claim (O'Connor's reservation in Glucksberg)? Before: no listed landmark.
-13. When is government liable for danger it created or failed to prevent, and does a restraining-order statute create a protected entitlement to enforcement? Before: Castle Rock (OT2004).
+7. What is the general method for recognizing an unenumerated liberty, now that Glucksberg's history-only test is disclaimed?
+   - Answer before: OT2002, Lawrence v. Texas; OT2014, Obergefell v. Hodges; OT2021, Dobbs v. Jackson Women's Health Organization.
+8. Is Bowers v. Hardwick overruled, or confined to its "specified conduct" (Thompson)?
+   - Answer before: OT2002, Lawrence v. Texas.
+9. Does a general right of informational privacy exist over data the government holds, including medical information (Doe v. SEPTA assumed it)?
+   - Answer before: no listed landmark; OT2010, NASA v. Nelson is the historical vehicle.
+10. What scrutiny protects parental decisions, and must a State show harm or unfitness before overriding them (Troxel reserved)?
+   - Answer before: no listed landmark.
+11. When does a marriage-related rule "directly and substantially" interfere with marrying (Wright v. MetroHealth)?
+   - Answer before: OT2014, Obergefell v. Hodges.
+12. What remains of a particularized assisted-death claim (O'Connor's reservation in Glucksberg)?
+   - Answer before: no listed landmark.
+13. When is government liable for danger it created or failed to prevent, and does a restraining-order statute create a protected entitlement to enforcement?
+   - Answer before: OT2004, Town of Castle Rock v. Gonzales.
 
 ### 4.3 Civil commitment and punishment
 
-14. Does "mental abnormality" plus dangerousness suffice for sex-offender commitment, or must the State prove serious difficulty controlling behavior? Must the State provide treatment? Hendricks reserved both. Before: Kansas v. Crane (OT2001).
-15. May a person confined under a civil scheme challenge it as punitive as applied to him? Your Hendricks is itself an as-applied ruling; the real Seling barred such challenges. Before: Seling v. Young (OT2000, on the list).
-16. Is sex-offender registration (as opposed to notification) punishment, and does listing on a registry require a dangerousness hearing? W.P. reserved registration alone and Internet registries. Before: Smith v. Doe (OT2002), Connecticut Department of Public Safety v. Doe (OT2002).
-17. May the government detain a removable person indefinitely when removal is not reasonably foreseeable? Foucha reserved narrower preventive regimes. Before: Zadvydas (OT2000, on the list).
+14. Does "mental abnormality" plus dangerousness suffice for sex-offender commitment, or must the State prove serious difficulty controlling behavior? Must the State provide treatment? Hendricks reserved both.
+   - Answer before: OT2001, Kansas v. Crane.
+15. May a person confined under a civil scheme challenge it as punitive as applied to him? Your Hendricks is itself an as-applied ruling; the real Seling barred such challenges.
+   - Answer before: OT2000, Seling v. Young (on the OT2000 list).
+16. Is sex-offender registration (as opposed to notification) punishment, and does listing on a registry require a dangerousness hearing? W.P. reserved registration alone and Internet registries.
+   - Answer before: OT2002, Smith v. Doe; OT2002, Connecticut Department of Public Safety v. Doe.
+17. May the government detain a removable person indefinitely when removal is not reasonably foreseeable? Foucha reserved narrower preventive regimes.
+   - Answer before: OT2000, Zadvydas v. Davis (on the OT2000 list).
 
 ### 4.4 Defenses, evidence and elements
 
-18. May a State abolish the insanity defense, or exclude mental-disease evidence on the mental element? Egelhoff bars excluding relevant evidence on a retained element without sufficient justification; Foucha reserved the scope of state insanity defenses. Before: Clark v. Arizona (OT2005), Kahler (OT2019).
-19. May the government forcibly medicate a defendant to restore competence for trial, and must the court first weigh effects on the trial? Riggins reserved it. Before: Weston (OT2000, on the list), which collides with Sell (OT2002).
-20. Is there a freestanding claim of actual innocence, and a due-process right to postconviction access to evidence? Herrera left it open. Before: Osborne (OT2008).
-21. May a court apply an unforeseeable judicial change in a criminal rule to past conduct? Must a State apply a clarifying interpretation of a criminal statute to final convictions? Before: Rogers v. Tennessee and Fiore v. White (OT2000, on the list).
-22. What vagueness standard governs residual clauses that ask courts to imagine an "ordinary case"? Before: Johnson (OT2014), Dimaya (OT2017).
-23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these. Before: Ring (OT2001), Blakely (OT2003), Booker (OT2004). This line may deserve its own document.
+18. May a State abolish the insanity defense, or exclude mental-disease evidence on the mental element? Egelhoff bars excluding relevant evidence on a retained element without sufficient justification; Foucha reserved the scope of state insanity defenses.
+   - Answer before: OT2005, Clark v. Arizona; OT2019, Kahler v. Kansas.
+19. May the government forcibly medicate a defendant to restore competence for trial, and must the court first weigh effects on the trial? Riggins reserved it.
+   - Answer before: OT2000, United States v. Weston (on the OT2000 list), which collides with OT2002, Sell v. United States.
+20. Is there a freestanding claim of actual innocence, and a due-process right to postconviction access to evidence? Herrera left it open.
+   - Answer before: OT2008, District Attorney's Office v. Osborne.
+21. May a court apply an unforeseeable judicial change in a criminal rule to past conduct? Must a State apply a clarifying interpretation of a criminal statute to final convictions?
+   - Answer before: OT2000, Rogers v. Tennessee (on the OT2000 list); OT2000, Fiore v. White (on the OT2000 list).
+22. What vagueness standard governs residual clauses that ask courts to imagine an "ordinary case"?
+   - Answer before: OT2014, Johnson v. United States; OT2017, Sessions v. Dimaya.
+23. After Almendarez-Torres and Apprendi, which facts must the jury find: mandatory minimums, capital aggravators, guideline facts, the nature of prior convictions? Apprendi reserved these. This line may deserve its own document.
+   - Answer before: OT2001, Ring v. Arizona; OT2003, Blakely v. Washington; OT2004, United States v. Booker.
 
 ### 4.5 Forfeiture, fines and civil sanctions
 
-24. What test identifies a forfeitable "instrumentality," and does the Excessive Fines Clause bind the States? Bennis reserved both. Before: Timbs v. Indiana (OT2018).
-25. How do Ursery and Hudson's surviving Halper approach apply to new civil sanctions? Before: no listed landmark.
+24. What test identifies a forfeitable "instrumentality," and does the Excessive Fines Clause bind the States? Bennis reserved both.
+   - Answer before: OT2018, Timbs v. Indiana.
+25. How do Ursery and Hudson's surviving Halper approach apply to new civil sanctions?
+   - Answer before: no listed landmark.
 
 ### 4.6 Retroactive laws
 
-26. May a legislature revive prosecutions already barred by a limitations period? Before: Stogner (OT2002).
-27. How far does the Morales and Garner test for parole changes reach (abolition of parole, different substitutes)? Before: no listed landmark.
+26. May a legislature revive prosecutions already barred by a limitations period?
+   - Answer before: OT2002, Stogner v. California.
+27. How far does the Morales and Garner test for parole changes reach (abolition of parole, different substitutes)?
+   - Answer before: no listed landmark.
 
 ### 4.7 Procedural due process
 
-28. Under Sandin's test, what makes a prison rule a genuine constraint, and what process does supermax-type confinement require? Before: no listed landmark; Wilkinson v. Austin (OT2004) is the historical vehicle.
-29. What process is due when a State withholds payment under a public contract? Before: Lujan v. G & G (OT2000, on the list).
+28. Under Sandin's test, what makes a prison rule a genuine constraint, and what process does supermax-type confinement require?
+   - Answer before: no listed landmark; OT2004, Wilkinson v. Austin is the historical vehicle.
+29. What process is due when a State withholds payment under a public contract?
+   - Answer before: OT2000, Lujan v. G & G Fire Sprinklers, Inc. (on the OT2000 list).
 
 ### 4.8 Punitive damages
 
-30. How should appellate courts review a punitive award's amount: de novo, as Bajakajian's eight Justices required for fines, or with deference? Stone's BMW view would not review the amount at all. Before: Cooper Industries (OT2000, on the list).
-31. What ratio guidance, and what limits on punishing harm to nonparties, follow from BMW? Before: State Farm (OT2002), Philip Morris (OT2006).
+30. How should appellate courts review a punitive award's amount: de novo, as Bajakajian's eight Justices required for fines, or with deference? Stone's BMW view would not review the amount at all.
+   - Answer before: OT2000, Cooper Industries, Inc. v. Leatherman Tool Group, Inc. (on the OT2000 list).
+31. What ratio guidance, and what limits on punishing harm to nonparties, follow from BMW?
+   - Answer before: OT2002, State Farm Mutual Automobile Insurance Co. v. Campbell; OT2006, Philip Morris USA v. Williams.
