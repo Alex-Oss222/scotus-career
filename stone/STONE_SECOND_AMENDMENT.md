@@ -3,10 +3,266 @@
 Planning material under `stone/README.md`. Scope: the Second Amendment right to keep and bear arms and who holds it; its application to the States through the Fourteenth Amendment; federal and state firearm laws as they bear on the right, including the possession bans of 18 U.S.C. §922(g) and their restoration rules, licensing, dealers and background checks, storage, training, carry, transport and sensitive places, categories of arms (machineguns, destructive devices and other National Firearms Act weapons, semiautomatic arms, magazines), accessories, parts kits and ATF rules; and the line between the right and Congress's commerce power. The commerce power itself, including Lopez, the machinegun and §922(g) commerce holdings and Printz's commandeering rule, is tracked in `stone/STONE_COMMERCE_CLAUSE_AND_FEDERALISM.md`; those cases appear here only as they bear on the right. Cases construing the federal statutes that punish using or carrying a gun during another crime or that enhance sentences for prior convictions (18 U.S.C. §924(c) and §924(e): Smith, Deal, Custis, Bailey, Muscarello, Castillo), and evidence rules in §922(g) trials (Old Chief), are not tracked here; habeas and due process have their own documents. Stone's planned positions and the standards of the former Second Amendment build are kept in `stone/STONE_PLANNED_POSITIONS.md`; this document records only what the Court has decided and what it must still answer. The Holdings and Standards and Tests registers and the Canonical Decision Records control over anything here. Stone's planned standards (S1 to S24) and case-by-case positions from the earlier Second Amendment build are kept word for word in `STONE_PLANNED_POSITIONS.md`.
 
 Organization:
+0. Stone's intended doctrine: the character's goal, not the Court's law.
 1. Completed cases.
 2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
 4. Questions to answer before the landmarks (questions only; the user finds the vehicles).
+
+## 0. Stone's intended doctrine (the character's goal, not the Court's law)
+
+This is the framework Stone is working toward, in the user's words. It is not law. The Court adopted its core in United States v. Wright (1998): Stage 1, the three tiers of review and the home-possession floor, with five votes for the framework. Section 3.3 states exactly what Wright adopted and what it reserved, including public-carry licensing, training and recertification (part 10 below). The distance between this section and section 3.3 is the work left to do.
+
+**Core-Preservation Review: Stone-Zsela’s Second Amendment Framework**
+
+The Second Amendment protects an individual right whose exercise may be regulated but whose protected function must remain meaningfully available.
+
+The governing principle is a **sliding scale of constitutional burden, governmental justification, and regulatory fit**:
+
+> The more seriously a regulation interferes with protected keeping, bearing, or lawful use of arms, the stronger the government’s justification must be and the closer the relationship between the restriction and the harm it addresses. Government cannot preserve the right in name while making its exercise practically unavailable.
+
+The framework has two stages: **constitutional coverage** and **constitutional justification**. Within the second stage, the actual burden determines the applicable level of review.
+
+**1. Stage One: Identify the protected activity**
+
+The initial question is whether the challenged law interferes with conduct protected by the Second Amendment.
+
+The right belongs to individuals and does not depend on enrollment in an organized militia. Its central protection includes possession of an ordinary, functional defensive firearm in the home. Its protection also extends to activities necessary to make keeping and bearing arms meaningful.
+
+The court identifies precisely what the person seeks to do:
+
+- Keep an arm for lawful defense.
+- Acquire an arm through a lawful transaction.
+- Obtain ammunition necessary for its lawful operation.
+- Maintain, repair, or train with an arm.
+- Transport an arm for acquisition, repair, training, lawful use, or relocation.
+- Carry an arm for lawful defense outside the home.
+- Possess or use a particular type of arm, feature, or accessory.
+
+These activities are related, but their constitutional treatment depends on their function and the restriction imposed.
+
+Necessary acquisition cannot be separated from possession so completely that government permits ownership while preventing people from obtaining usable arms. Likewise, permission to possess a firearm means little if necessary ammunition is effectively unavailable.
+
+Transportation of an unloaded, secured firearm is distinguishable from carrying a loaded firearm for immediate defensive use. A rule justified for one activity does not automatically justify the same restriction on the other.
+
+Coverage is determined through constitutional text, structure, history, and applicable precedent. The challenged prohibition cannot establish its own constitutionality by defining the protected conduct as unlawful. Nor does a regulatory label, such as “military,” “dangerous,” or “assault,” resolve whether an arm or activity receives protection.
+
+If the conduct falls outside constitutional coverage, the Second Amendment claim ends. Other constitutional objections remain independently available.
+
+**2. Identify the actual burden**
+
+If protected activity is implicated, the court determines what the restriction does to that activity in practice.
+
+Relevant considerations include:
+
+- Whether the law regulates the manner of exercise or prevents exercise altogether.
+- Whether it affects ordinary defensive arms or a specified characteristic associated with a particular danger.
+- The restriction’s duration and geographic reach.
+- Its costs, delays, administrative demands, and conditions.
+- Whether exceptions are realistically available.
+- Whether remaining lawful options preserve the protected activity.
+- Whether requirements challenged together create a substantially greater burden than each would impose separately.
+
+These are considerations for judgment, not mandatory elements that every litigant must separately prove.
+
+The inquiry concerns the law’s text and reasonably established operation. A nominal licensing system that rarely issues licenses may function as a prohibition. A formally available training course may provide no meaningful access if its cost, location, or scheduling makes completion practically impossible for ordinary qualified applicants.
+
+The existence of some alternative does not automatically answer the constitutional objection. The alternative must preserve the relevant protected function. At the same time, the right does not guarantee freedom from every inconvenience or entitlement to every preferred method of exercise.
+
+**3. Stage Two: Select the level of review**
+
+The framework uses three defined levels of review. The sliding scale governs how the court classifies the burden and evaluates justification and fit within the applicable level.
+
+| Actual constitutional burden | Governing standard |
+|---|---|
+| **Core deprivation or severe interference:** the restriction eliminates, nearly eliminates, or seriously defeats a central protected activity. | **Strict scrutiny** |
+| **Substantial regulation:** the restriction materially conditions or limits protected activity while leaving meaningful exercise available. | **Intermediate scrutiny** |
+| **Incidental regulation:** the restriction imposes a minor burden that does not materially obstruct protected activity. | **Deferential reasonableness review** |
+
+The government’s description of the law does not control its classification. An effective prohibition receives demanding review even when described as an administrative requirement or safety measure.
+
+Location informs the analysis but does not settle it. A restriction outside the home does not automatically receive deferential review.
+
+Likewise, invoking the Second Amendment does not automatically trigger strict scrutiny. The court must identify the actual protected activity and the seriousness of the interference.
+
+**4. Strict scrutiny: Core deprivation and severe interference**
+
+The government must establish:
+
+1. A compelling governmental interest.
+2. Narrow tailoring between the restriction and that interest.
+3. The absence of a comparably effective, materially less restrictive alternative.
+
+The government must explain why the severe burden is necessary. A general assertion of public safety does not establish that a particular restriction satisfies these requirements.
+
+The court examines the specific danger, the restriction’s operation, the people and conduct it reaches, and the practical availability of measures that would address the danger while preserving substantially more protected activity.
+
+A restriction effectively eliminating meaningful lawful public carry receives strict scrutiny. A restriction seriously obstructing ordinary defensive possession in the home receives the same demanding review.
+
+There is also an **irreducible core of protection**: government cannot abolish meaningful possession of ordinary, functional defensive arms in the home by ordinary qualified individuals. A universal requirement that renders those arms continuously unavailable for immediate lawful defense defeats that protection.
+
+This constitutional floor does not make every weapon, possession circumstance, or individual immune from regulation. Restrictions directed at particular dangers must receive their own analysis.
+
+**5. Intermediate scrutiny: Substantial regulation**
+
+The government must establish:
+
+1. An important governmental objective.
+2. A substantial, supportable relationship between the restriction and that objective.
+3. A burden that does not unnecessarily or effectively eliminate the protected activity.
+
+The justification must address the regulation actually imposed. The court evaluates whether the rule materially advances its objective and whether its burdens extend substantially beyond what that explanation supports.
+
+Intermediate scrutiny permits reasonable legislative judgments and supported predictions. It does not require proof that the legislature selected the single least restrictive conceivable policy.
+
+Nevertheless, practical alternatives may expose an unjustified mismatch between the restriction and its purpose. The government cannot defend substantial interference through speculation alone when the decisive factual premises are genuinely disputed.
+
+A law that effectively destroys access cannot remain in this category merely because it takes the form of a licensing condition.
+
+**6. Deferential reasonableness: Incidental regulation**
+
+Minor regulations that leave protected activity realistically available receive substantial legislative latitude.
+
+The requirement must serve a legitimate governmental objective and bear a reasonable relationship to that objective. Ordinary experience, the regulation’s design, and reasonable predictions may provide sufficient support.
+
+This level can accommodate routine administration, modest commercial requirements, and equipment or handling rules that impose no meaningful obstruction.
+
+Deference does not protect arbitrary restrictions, discriminatory administration, or requirements whose cumulative operation materially burdens the right.
+
+If the established operation reveals substantial interference, the court must reconsider the classification and apply the appropriate heightened standard.
+
+**7. Identify the harm and explain the regulatory fit**
+
+At every level, the analysis must connect the restriction to an identifiable governmental objective.
+
+Public safety can supply an important or compelling interest. Its invocation does not independently prove the validity of every firearms regulation.
+
+The court identifies the particular concern, such as:
+
+- Armed violence by persons with qualifying violent histories.
+- Accidental discharge or unsafe handling.
+- Diversion into unlawful transactions.
+- A weapon’s particular operating characteristics.
+- Armed coercion in institutions requiring secure proceedings.
+- Unauthorized access by children or other prohibited users.
+
+The court then examines how the restriction addresses that concern:
+
+- Does the regulated characteristic bear the asserted relationship to the danger?
+- Does the rule reach the relevant conduct, equipment, or category of persons?
+- Do exceptions support or materially undermine the explanation?
+- Does the restriction burden protected activity beyond what its justification supports?
+- Under the applicable scrutiny, do practical alternatives undermine the claimed need for the burden?
+
+Neither overinclusion nor underinclusion automatically invalidates a law. Government may address problems incrementally. But as the burden increases, unexplained mismatches become less acceptable.
+
+**8. Allocate evidentiary responsibility according to the standard**
+
+The claimant must identify the protected activity and establish the interference necessary to support the challenge. A burden apparent from the law’s text or necessary operation does not require additional proof of facts already evident.
+
+Under intermediate and strict scrutiny, the government bears the burden of establishing the required justification and fit.
+
+Relevant support may include:
+
+- Established or stipulated facts.
+- Legislative and administrative materials.
+- Historical experience.
+- Reliable empirical research.
+- Institutional knowledge.
+- Reasonable inferences from the nature of the regulated conduct.
+
+Scientific certainty is unnecessary. A formal legislative record, individualized hearing, or new evidentiary proceeding is not universally required.
+
+The court must distinguish general legislative judgments from facts about a particular person. A sufficiently justified category based on qualifying violent convictions need not require a new personal dangerousness trial in every application. Conversely, an accusation cannot be treated as an adjudicated conviction, and a court cannot invent an individual’s history.
+
+Unresolved material facts are handled through the governing procedural rules and burdens of proof. They are not filled with assumptions favoring either side.
+
+**9. Apply the framework to the particular regulatory setting**
+
+| Regulatory setting | Governing considerations |
+|---|---|
+| **Home possession and defensive availability** | Preserve meaningful access to ordinary, functional defensive arms. Evaluate whether restrictions defeat immediate lawful defense. |
+| **Weapons, features, and accessories** | Identify the actual characteristic, its protected function, and its relationship to harm. Neither military utility nor a military label determines the result. |
+| **Ammunition** | Recognize its necessary relationship to usable arms. Examine restrictions on particular characteristics separately from measures that effectively prevent lawful operation. |
+| **Disqualification of persons** | Require a defensible relationship between the predicate and the danger addressed. Examine the reliability of the predicate, procedural protections, scope, and duration. |
+| **Public carry and licensing** | Preserve a meaningful route for qualified individuals to carry, while permitting justified competence, safety, and eligibility requirements. |
+| **Sensitive places** | Examine the place’s function and the particular need for security or freedom from armed coercion. A label cannot substitute for justification. |
+| **Storage and handling** | Consider the danger addressed and whether the requirement preserves practical access for lawful defense. |
+| **Acquisition and transportation** | Preserve the activities necessary to obtain, maintain, and lawfully use arms. Distinguish secured transportation from immediate defensive carriage. |
+| **Manufacture, sale, transfers, records, and registration** | Evaluate actual costs, delays, availability, and administrative burdens. Registration systems also require adequate protection against disclosure and misuse. |
+
+Danger-related disqualifications may rest on serious violent convictions, qualifying domestic-violence predicates, or judicial danger findings supported by adequate process.
+
+An unrelated nonviolent offense, unresolved accusation, or administrative designation does not supply sufficient justification merely because the legislature calls it disqualifying.
+
+Where restoration procedures exist, they must be genuinely available. The framework does not automatically create a new restoration procedure for every restriction.
+
+Sensitive-place restrictions require attention to institutional function. Courts, legislatures, polling places, schools, and comparable settings can present particular security concerns. Treating virtually every publicly accessible location as sensitive must be evaluated as the resulting broad restriction on public carry.
+
+Courts evaluate legislative lines; they do not invent magazine capacities, ammunition quantities, training hours, waiting periods, or storage specifications without a legal basis for doing so.
+
+**10. Public-carry licensing, training, and recertification**
+
+A system imposing substantial qualifications on public carry ordinarily receives intermediate scrutiny, provided it preserves meaningful access.
+
+Permissible requirements can include:
+
+- Background checks.
+- Firearm-safety instruction.
+- Written examinations.
+- Demonstrated safe handling and practical proficiency.
+- Periodic refresher training.
+- Recertification before renewal.
+- Compliance with otherwise valid weapon and modification restrictions.
+
+Each requirement must have a genuine relationship to the relevant safety or eligibility objective.
+
+A qualified applicant who satisfies lawful, objective requirements must receive the license. Officials cannot deny permission through standardless discretion, personal opposition to civilian carry, or an additional unwritten demand.
+
+The system must operate within reasonable timeframes. Fees, training access, examination procedures, and renewal requirements must be assessed together when their combined effect is challenged.
+
+Legislatures may choose reasonable training and renewal arrangements. Courts determine whether those arrangements satisfy the constitutional standard; they do not prescribe a preferred curriculum simply because another policy appears better.
+
+If the system effectively prevents ordinary qualified individuals from carrying, its actual burden requires more demanding review.
+
+**11. Keep history, precedent, governmental authority, and other rights distinct**
+
+History informs constitutional meaning, protected purposes, and the character of permissible regulation. An identical historical restriction is not the exclusive condition of constitutional validity.
+
+Historical practices must be examined in context. Past exclusion from arms ownership does not automatically justify continuing that exclusion.
+
+Applicable precedent remains binding according to its actual holding, limitations, and effective date. A judicial preference or proposed doctrinal refinement does not itself change governing law.
+
+When a departure is legally available and expressly proposed, the analysis must identify:
+
+- The existing rule.
+- The legal reason for changing it.
+- The replacement rule and its boundaries.
+- What remains intact.
+- The relevant reliance interests.
+
+Other constitutional questions require independent analysis. A legislature must possess authority to enact the regulation, and a valid exercise of legislative power must still respect the individual right. Equal protection, due process, and restrictions on searches and seizures retain their own standards.
+
+Private property rights also require separate treatment. Recognition of a right against government does not automatically establish permission to carry on another person’s property.
+
+**12. Reach the judgment and select the authorized remedy**
+
+The framework supports a substantive decision whenever the legal questions, procedural posture, and established record permit one. It creates no automatic preference for invalidation, affirmance, avoidance, or remand.
+
+The final analysis should answer:
+
+1. **What precise provision or governmental action is challenged?**
+2. **What protected activity does it affect?**
+3. **What burden does it impose in its established operation?**
+4. **Which level of review follows from that burden, and why?**
+5. **What governmental objective justifies the restriction?**
+6. **What evidence and reasoning establish or defeat the required fit?**
+7. **Does the restriction satisfy the applicable standard and preserve the protected constitutional function?**
+8. **What judgment and legally authorized relief follow?**
+
+Relief must correspond to the constitutional defect and the claims properly before the court. Whether relief applies to a particular person, a provision, or a broader regulatory scheme depends on the governing rules for the challenge, severability, and remedies.
+
+Further proceedings are appropriate when unresolved material issues require them. When the record and governing law establish the result, the court should decide it.
 
 ## 1. Completed cases
 
