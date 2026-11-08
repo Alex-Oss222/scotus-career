@@ -17,6 +17,7 @@
 | 2001-03-05 | Department of the Interior v. Klamath Water Users Protective Association | Merits decision | Affirmed; the case returns for ordinary FOIA relief. |
 | 2001-03-19 | Ohio v. Reiner | Petition grant and reasoned summary decision | Certiorari granted; reversed and remanded under the federal privilege rule, preserving independent state questions. |
 | 2001-03-19 | United States v. Hilario | Merits decision | Affirmed; ordinary prosecution may continue under the valid appointment. |
+| 2001-03-20 | Shafer v. South Carolina | Merits decision | Reversed and remanded for future dangerousness and any required harmless-error inquiry; informational adequacy may not be reopened. |
 
 ## Decisions and Dispositions
 
@@ -1031,8 +1032,115 @@ The First Circuit's judgment reversing dismissal of the indictment is affirmed, 
 
 ---
 
-## Workflow Blockers
+### Shafer v. South Carolina, No. 00-5250
 
-| Case or matter | Exact blocker |
-|---|---|
-| Shafer v. South Carolina | Approval is needed for Stone's judgment and remand scope after the corrected record establishes repeated until-death instructions and permitted natural-life defense argument, together with the later direction excluding parole eligibility from consideration. The existing approval does not resolve the adequacy of that combined presentation or the scope of remand. |
+Merits decision, March 20, 2001
+
+#### Chronology and Posture
+
+Argued January 9, 2001, on writ of certiorari to the Supreme Court of South Carolina, 340 S.C. 291, 531 S.E.2d 524. Reported at 532 U.S. 36.
+
+The state court affirmed the death sentence because it considered Simmons inapplicable to the State's staged capital procedure. The questions are whether an alternative sentence available only to the judge if the jury finds no statutory aggravator defeats the parole-information right at the jury's later death-or-life choice, and whether the instructions and permitted argument supplied an effective opportunity to explain the actual life alternative if future dangerousness was in issue. The state supreme court did not decide the dangerousness predicate. Shafer seeks reversal of the death-sustaining judgment; the State seeks affirmance.
+
+The jury first decides whether a statutory aggravator has been proved unanimously beyond a reasonable doubt. Without that finding it makes no sentencing recommendation, and the judge imposes life imprisonment or a mandatory minimum thirty-year term. With that finding, the jury's alternatives are death and life without ordinary parole. Here the jury found murder during attempted armed robbery and recommended death, which the judge imposed.
+
+The judge repeatedly defined life as confinement until death and described a natural-life verdict. Counsel could argue that Shafer would die in prison and never go home, but could not give the requested express statutory parole explanation. The jury then asked two questions about parole eligibility after a murder conviction; neither expressly specified a life sentence. The supplemental response again defined life as continuing until death and excluded parole eligibility or ineligibility from the jury's consideration.
+
+All nine Justices participated at argument and decision.
+
+#### Judgment
+
+**Reversed and remanded, 7–2.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+
+**Opposing:** Scalia and Thomas, each on a separate ground.
+
+The judgment of the Supreme Court of South Carolina sustaining the death sentence against this federal parole-information claim is reversed, and the case is remanded for further proceedings consistent with the Court's opinion.
+
+The same seven Justices support rejection of the categorical staged-scheme bar, the conditional determination of inadequate informational opportunity, and the bounded remand. The state court must decide whether the prosecution placed future dangerousness in issue and, if so, whether the State establishes beyond a reasonable doubt that the error did not contribute to selection of death. Informational adequacy is decided here and may not be determined anew on remand. Failure to establish harmlessness requires a new lawful penalty proceeding if death is pursued; a lawful noncapital sentence remains available. The judgment does not itself vacate the death sentence, substitute a sentence or order an immediate new penalty hearing. Guilt and the separate sentences remain intact.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer | Reversal and remand | All three holdings, explanations, qualifications and remedy in full |
+| Dissent | Scalia | No other Justice | Would affirm against the federal claim | Constitutional objection to extending the parole-information duty; no separate adequacy or harmlessness ground |
+| Dissent | Thomas | No other Justice | Would affirm against the federal claim | Adequate combined presentation assuming Simmons applies; no absence-of-danger or harmlessness ground |
+
+All three controlling propositions have the seven direct joins identified in the Court-opinion row. Neither dissent joins the other; agreement on statutory alternatives alone supplies no additional constitutional join.
+
+#### Holdings
+
+##### The jury's actual sentencing alternatives govern the information right
+
+**Holding and operative rule:** When the State places future dangerousness in issue and a capital jury, after finding the required statutory aggravator, can choose only death or life without ordinary parole, due process requires an effective opportunity to explain that ineligibility through accurate defense presentation or an adequate instruction. A lesser sentence available only to the judge if the jury finds no aggravator does not defeat that protection at the later jury sentencing choice; the rule governs this staged procedure and materially equivalent choices.
+
+**Authority:** Justice Souter's opinion of the Court, joined throughout by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Ginsburg and Breyer, supplies seven direct votes for this and the following two holdings. No combination of separate rationales is necessary.
+
+**Controlling explanation:** The sentencing alternatives matter when the jury exercises the choice between death and continued life. Under section 16-3-20, a jury that has not found an aggravator performs a factual task and cannot recommend a sentence. If no aggravator is found, the judge becomes the sentencer. Once the aggravator is found, the jury has no thirty-year option. The State's reliance on the statute's complete list of possible punishments therefore mistakes a conditional judicial alternative for an alternative available at the decision Simmons protects.
+
+Simmons supplies the right to answer a State future-danger case with the legally accurate noncapital alternative. Gardner supplies the opportunity to answer material capital-sentencing information, and Skipper protects a defendant's response to the State's future-danger premise. The protection cannot depend on whether the same two sentencing choices follow a preliminary factual determination. Ramdass likewise requires attention to actual legal consequences and a truthful account of any genuinely conditional consequence. Here life without ordinary parole is the actual alternative after the aggravator finding, not an anticipated conviction or uncertain future event.
+
+The preliminary aggravator inquiry itself does not involve the sentencing discretion addressed by this rule. The right still requires a State future-danger case and a legally accurate ineligibility premise. The Court rejects the categorical structural bar without finding that the dangerousness predicate was satisfied in this trial.
+
+##### The combined presentation was inadequate if future dangerousness was in issue
+
+**Holding and operative rule:** If the prosecution put future dangerousness in issue, the repeated until-death definitions and permitted natural-life defense argument did not provide an effective informational opportunity in this case when considered together with the refusal of the requested statutory parole explanation and the supplemental direction excluding parole eligibility or ineligibility after the jury's questions. This determination concerns the legal adequacy of the complete presentation, requires no particular words, and makes no finding about any juror's actual belief.
+
+**Authority:** The seven-Justice Court opinion identified above controls this complete, conditional adequacy determination.
+
+**Controlling explanation:** The Court considers what counsel was allowed to say as well as what the judge said. This was not merely an undefined reference to life imprisonment: the judge repeatedly described confinement until death, and counsel argued that Shafer would spend his natural life in prison and never go home. Those explanations support the State's argument that the substance of ineligibility was conveyed. Simmons, however, requires an effective opportunity to use the accurate legal answer, not simply the presence of accurate duration language somewhere in the presentation.
+
+After refusing the requested express statutory explanation, the court answered the parole inquiries by repeating the duration definition while placing both parole eligibility and ineligibility outside the jury's consideration. Taken as a whole, the presentation did not make ordinary-parole ineligibility available as the answer to a future-danger case. The questions referred generally to a murder conviction and do not establish what the jurors thought about a life sentence. Their generality nevertheless does not answer the legal question the combined presentation left unavailable at the jury's actual death-or-life choice.
+
+The conclusion rests on that combination, not the refusal alone, the supplemental direction alone, or a requirement to use the word parole. Accurate effective defense presentation or an equivalent adequate judicial explanation remains sufficient. Ramos permits truthful release-related information; it does not require a guarantee against clemency or later legislation, and neither does this decision. The State remains free to present truthful evidence of danger within prison. Whether the State raised future dangerousness and whether an established violation affected death selection remain separate inquiries.
+
+##### The remand returns dangerousness and error effect, not informational adequacy
+
+**Holding and operative rule:** The state court must determine on the trial record whether the prosecution's evidence or argument placed future dangerousness in issue; if it did, informational inadequacy is settled and the State must prove beyond a reasonable doubt that the error did not contribute to the selection of death. If the State fails that burden, a new lawful penalty proceeding is required if it seeks death, or a lawful noncapital sentence may be imposed; if future dangerousness was not in issue, this Simmons due-process claim alone establishes no violation.
+
+**Authority:** The same seven Justices join the Court's remand and its governing standard in full.
+
+**Controlling explanation:** The South Carolina Supreme Court's categorical view of the sentencing scheme prevented it from deciding whether the prosecution raised future danger. The evidence, the purpose for which it was offered, the prosecutor's argument and the jury's questions must be assessed together. No prescribed phrase is necessary to raise future dangerousness, and circumstantial or qualitative proof cannot be disregarded merely because the prosecutor did not use that phrase. The jury's questions alone establish neither the predicate nor its absence. The state court must perform that record-based inquiry rather than return to the rejected structural bar.
+
+If the predicate exists, the Court's second holding establishes the informational error. Chapman supplies the direct-review burden: the State must establish beyond a reasonable doubt that the error did not contribute to death selection. Simmons applies that burden to this kind of error and requires a lawful new penalty proceeding if the State cannot carry it and continues to seek death. Simmons's finding of harmfulness on its own record does not resolve the effect of this different presentation. The error is not structural and neither harmlessness nor harmfulness is found here.
+
+Ramdass's distinct federal habeas conditions do not govern this direct review. The remaining predicate and effect determinations are ordinary work on remand under settled rules, not an invitation to decide adequacy again. No immediate new hearing, sentence substitution or sentence vacatur follows from the present judgment. Guilt and the separate sentences are unaffected.
+
+**Limits and questions not reached:** The broader instruction right when the State has not raised future danger is not decided because the federal question resolved here is the conditional Simmons protection. No independently sufficient Eighth Amendment instruction ground is adopted. The actual dangerousness predicate and, if necessary, error effect await state adjudication on the existing record; these are application and remedial work under the holdings, not gaps in the legal adequacy rule.
+
+#### Precedent Treatment
+
+- **Simmons v. South Carolina, 512 U.S. 154 (1994):** Applied to the actual death-or-life choice in a staged sentencing procedure and to the complete instructional presentation. Its effective-opportunity rule, alternative means of explanation and direct-review remedy remain controlling. Its own harmfulness finding is confined to its record.
+- **Gardner v. Florida, 430 U.S. 349 (1977):** Its opportunity to answer material capital-sentencing information supplies the due-process foundation; no new disclosure rule independent of the Simmons predicates is adopted.
+- **Skipper v. South Carolina, 476 U.S. 1 (1986):** Its protection for rebutting a State future-danger case supports accurate parole information; its distinct mitigation protection remains intact.
+- **California v. Ramos, 463 U.S. 992 (1983):** Distinguished to preserve truthful release-related information without treating hypothetical clemency as ordinary parole or requiring a guarantee against future legal change.
+- **Ramdass v. Angelone, 530 U.S. 156 (2000):** Its attention to actual and conditional legal consequences is applied. Its separate habeas requirements and unresolved factual predicates do not control this direct-review remedy or establish error effect here.
+- **Chapman v. California, 386 U.S. 18 (1967):** Applied without changing the State's burden to establish beyond a reasonable doubt that a constitutional error did not contribute to the death verdict.
+
+#### Law After Decision
+
+Effective March 20, 2001, Simmons governs South Carolina's staged capital procedure and materially equivalent jury choices: an earlier conditional judicial sentence does not eliminate the information right when the jury actually chooses death or life without ordinary parole. The State-raised-danger trigger and accurate legal ineligibility premise remain necessary, and effective defense presentation or adequate instruction remains sufficient without a required script.
+
+The combined presentation in this case fails that requirement if the danger predicate is established. Adequacy is settled for the remand. The state court must decide danger and, if present, apply Chapman's State-burden inquiry before determining whether a new capital penalty proceeding or a lawful noncapital sentence is required. This application does not overrule a precedent, impose automatic reversal or settle a broader instruction right without the danger predicate.
+
+#### Separate Writings
+
+**Scalia, dissenting, joined by no other Justice.** He would affirm because due process does not authorize this additional constitutional parole-information requirement. His Simmons objection distinguishes Gardner's unavailable adverse sentencing material and Skipper's excluded rebuttal evidence from a general duty to explain parole law; Ramos preserves substantial state control of truthful sentencing information. He accepts the logical relation between Simmons and this actual death-or-life choice but would confine that precedent to its facts. Sound instructional policy does not itself establish a constitutional command. No affirmative State representation that ordinary release was available establishes the distinct misleading-assertion problem. He decides neither adequate compliance under the Court's rule nor harmlessness and does not join Thomas's dissent.
+
+**Thomas, dissenting, joined by no other Justice.** Assuming Simmons applies, he finds its substance satisfied by the repeated judicial until-death definitions, the natural-life verdict description and counsel's permitted argument that Shafer would remain in prison and never go home. The questions about someone convicted of murder are compatible with inquiry about the judge's options if no aggravator is found; they do not necessarily contradict the jury's explained life alternative. In his view the supplemental response confined the jury to its own task without affirmatively suggesting ordinary release. Simmons permits substance to be conveyed without preferred words, and greater precision does not itself justify constitutional intervention. He would affirm for adequate opportunity even assuming future danger, not because danger was absent or error harmless. His disagreement with Simmons remains a reservation, not a second independent ground here. He makes no finding about jurors' actual beliefs and does not join Scalia's dissent.
+
+#### Source Notes
+
+The reported state judgment is State v. Shafer, 340 S.C. 291, 531 S.E.2d 524 (2000). The [published record recitations](https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-36.pdf), at 532 U.S. 41–46, 52 and 56–57, support the sentencing procedure, requests, repeated instructions, permitted defense argument and jury exchange. Section 16-3-20(A)–(C), as reproduced there, supplies the statutory sentencing alternatives and parole consequence.
+
+Those recitations do not establish what any juror believed, whether the prosecution placed future dangerousness in issue or whether an informational error contributed to death selection.
+
+#### Mandate, Remedy, and Stage
+
+The case returns to the Supreme Court of South Carolina for the future-dangerousness determination on the existing record and, if that predicate is satisfied, the State-burden harmlessness inquiry. The structural and informational-adequacy holdings bind that court. If error is harmful, the State must provide a new lawful penalty proceeding to pursue death or obtain a lawful noncapital sentence. The present judgment neither vacates the death sentence itself nor commands an immediate penalty hearing. The convictions and separate sentences remain intact. No new filing deadline, stay, retained federal jurisdiction or subsequent state result is established.
+
+**End of entry: Shafer v. South Carolina, merits decision, March 20, 2001.**
+
+---
