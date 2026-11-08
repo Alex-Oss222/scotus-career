@@ -1,0 +1,59 @@
+{
+  "record": "Daniels_v_United_States_merits_2001-04-25.md",
+  "result": "PASS",
+  "checks": [
+    "four labels",
+    "natural-key date",
+    "eleven blocks",
+    "internal/public holdings-topology-precedent-writings identity",
+    "explanation ceiling",
+    "public/private and prohibited-path-language scan",
+    "preassignment target/date",
+    "judgment and exact opinion-row coalition arithmetic"
+  ],
+  "controlling_explanation_word_counts": [
+    278,
+    125
+  ],
+  "before_counts": {
+    "Stone-Zsela": 5,
+    "Stevens": 6,
+    "O'Connor": 6,
+    "Scalia": 5,
+    "Kennedy": 5,
+    "Souter": 6,
+    "Thomas": 5,
+    "Ginsburg": 7,
+    "Breyer": 6
+  },
+  "last_counted_event": {
+    "date": "2001-04-24",
+    "case": "Sterling v. Borough of Minersville",
+    "record": "Sterling_v_Borough_of_Minersville_merits_2001-04-24.md"
+  },
+  "manual_checks": [
+    "approved core and frozen commitments",
+    "judgment/proposition/partial-join arithmetic",
+    "source-supported facts and remedy",
+    "assignment eligibility and pool",
+    "effective-law boundary"
+  ],
+  "unperformed_operator_checks": [
+    "repository commitment",
+    "workspace projections",
+    "Render Input identity",
+    "whole-term validation"
+  ],
+  "deterministic_arithmetic": {
+    "judgment_support": 5,
+    "judgment_opposition": 4,
+    "opinion_row_coalition_sizes": [
+      5,
+      1,
+      1,
+      3,
+      1
+    ],
+    "nine_unique_participants": true
+  }
+}

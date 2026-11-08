@@ -1,0 +1,68 @@
+{
+  "record": "Alexander_v_Sandoval_merits_2001-04-24.md",
+  "result": "PASS",
+  "checks": [
+    "four opening labels and natural-key date",
+    "exact eleven Public Projection blocks",
+    "internal/public holdings, opinion table and separate-writing identity",
+    "ordinary explanation ceilings",
+    "judgment and opinion-join arithmetic",
+    "nine unique participating Justices",
+    "fresh recorded assignment count and minimum-plus-one pool",
+    "referenced scoped handoffs exist",
+    "public/private and forbidden-path-language scan"
+  ],
+  "controlling_explanation_word_counts": [
+    299,
+    258
+  ],
+  "judgment": {
+    "supporting": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opposing": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ]
+  },
+  "author": "Stone-Zsela",
+  "eligible_authors": [
+    "Stone-Zsela",
+    "Stevens",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "balance_pool": [
+    "Stone-Zsela",
+    "Souter"
+  ],
+  "before_counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 6,
+    "O'Connor": 6,
+    "Scalia": 5,
+    "Kennedy": 5,
+    "Souter": 5,
+    "Thomas": 5,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "last_counted_event": {
+    "date": "2001-04-23",
+    "case": "Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle",
+    "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md"
+  },
+  "unperformed_operator_checks": [
+    "repository commitment",
+    "workspace projections",
+    "generated Render Input identity",
+    "whole-term validation"
+  ]
+}

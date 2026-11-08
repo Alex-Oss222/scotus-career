@@ -1,0 +1,684 @@
+Filed November 2, 2000
+
+UNITED STATES COURT OF APPEALS
+FOR THE THIRD CIRCUIT
+
+No. 00-1425
+
+UNITED STATES OF AMERICA,
+       Appellant
+
+v.
+
+LARRY VALENTINE, a/k/a HASSAN DELOA TCH,
+a/k/a HASSAN DELOACH, a/k/a SHAWN VALENTINE
+
+On Appeal from the United States District Court
+for the District of New Jersey
+(D.C. Civil No. 99-cr-00345-1)
+District Judge: Honorable Katharine S. Hayden
+
+Argued October 6, 2000
+
+Before: NYGAARD, GREENBERG and COWEN,
+Circuit Judges
+
+(Filed: November 2, 2000)
+
+       George S. Leone, Esq.
+       Michael F. Buchanan, Esq. (Argued)
+       Office of the United States Attorney
+       970 Broad Street, Rm. 700
+       Newark, NJ 07102
+
+        Counsel for Appellant
+
+
+
+
+       Kevin F. Carlucci, Esq. (Argued)
+       Office of the Federal Public Defender
+       972 Broad Street
+       Newark, NJ 07102
+
+        Counsel for Appellee
+
+OPINION OF THE COURT
+
+COWEN, Circuit Judge:
+
+After receiving a tip from an infor mant, two officers
+stopped Larry Valentine on a city str eet late at night and
+discovered a gun. The gun was subsequently suppressed,
+however, when the government pr osecuted Valentine for
+being a felon in possession of a firear m in violation of 18
+U.S.C. S 922(g)(1) and (2).
+
+In suppressing the gun, the District Court r easoned that
+under Florida v. J.L., 529 U.S. 266, 120 S.Ct. 1375 (2000)
+the informant's tip about Valentine and the surrounding
+circumstances did not provide reasonable suspicion that
+Valentine was engaged in crime. The District Court also
+concluded that Valentine's actions after the officers ordered
+him to stop should not be considered, notwithstanding the
+Supreme Court's analysis of seizures under the Fourth
+Amendment in California v. Hodari D., 499 U.S. 621, 111
+S.Ct. 1547 (1991).
+
+We will reverse. We hold that the officers had reasonable
+suspicion before ordering Valentine to stop. This case is
+distinguishable from J.L. and our r ecent decision in United
+States v. Ubiles, 224 F.3d 213 (3d Cir . 2000). We also
+conclude that the District Court erred in interpreting
+Hodari D. Valentine's acts after the officers ordered him to
+stop should have been considered.
+
+I
+
+Around 1:00 a.m. on May 8, 1999, Officers W oodard and
+Contreras were patrolling near the intersection of Columbia
+and 18th Avenues in Irvington, New Jersey, an area that
+the officers described in uncontradicted testimony as "very
+
+                                2
+
+
+bad" with "[a] lot of shootings." App. at 63. As the officers
+approached the intersection, a young black man in his
+early twenties flagged them down and explained that he
+had just seen a man with a gun.
+
+The informant said that the gunman was wearing a blue
+sweat top, blue pants, and a gold chain around his neck.
+He added that the suspect was dark skinned, had a beard,
+and was accompanied by a young man. When asked to
+identify himself, the informant refused, a response that
+Officer Woodard testified is common, and one that is
+understandable if the informant feared r etribution from the
+armed man or entanglement with the police. The officers
+did not question the informant further and immediately
+went in search of the gunman.
+
+About 50 to 100 feet north of the intersection wher e the
+officers had met the informant, Woodard and Contreras saw
+three men standing in a well-lit parking lot near a chicken
+restaurant. One of the men matched the infor mant's
+description of the armed suspect given moments ago, and
+another was a young male in his twenties, also as the
+informant described. The third was an older man who
+appeared to be in his sixties.
+
+The officers, who were in uniform and in a marked car,
+stopped and stepped out of their vehicle. The thr ee men in
+the parking lot reacted by walking away, northwards.
+Contreras ordered the young male with Valentine to stop,
+and he obeyed, putting his hands up and walking toward
+the squad car. But when Woodar d told Valentine, who was
+about ten feet away, to come over and place his hands on
+the car, Valentine responded,"Who, me?" and charged
+southwards toward Woodard. As Valentine ran, trying to
+push aside Woodard's outstretched arms, the officer
+grabbed his shirt and wrestled him to the gr ound. During
+the scuffle, Woodard heard a ting as Valentine's silver, fully-
+loaded handgun hit the ground. Neither officer had seen the
+gun before that moment.
+
+We have jurisdiction under 18 U.S.C. S 3731, and
+conduct plenary review of the District Court's determination
+of whether the officers had reasonable suspicion to stop
+and frisk Valentine. Ornelas v. United States, 517 U.S. 690,
+
+                                3
+
+
+116 S.Ct. 1657 (1996); United States v. Riddick , 156 F.3d
+505, 509 (3d Cir. 1998).
+
+II
+
+Under Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868 (1968)
+and subsequent cases, "an officer may, consistent with the
+Fourth Amendment, conduct a brief, investigatory stop
+when the officer has a reasonable, articulable suspicion
+that criminal activity is afoot." Illinois v. Wardlaw, 528 U.S.
+119, ___, 120 S.Ct. 673, 675 (2000). Reasonable suspicion
+is "a less demanding standard than pr obable cause and
+requires a showing considerably less than preponderance of
+the evidence." 528 U.S. at ___, 120 S.Ct. at 675-76.
+Elaborating on this point, the Supreme Court has said,
+"Reasonable suspicion is a less demanding standar d than
+probable cause not only in the sense that r easonable
+suspicion can be established with information that is
+different in quantity or content than that required to
+establish probable cause, but also in the sense that
+reasonable suspicion can arise from infor mation that is less
+reliable than that required to show probable cause."
+Alabama v. White, 496 U.S. 325, 330, 110 S.Ct. 2412, 2416
+(1990). The question we must address is whether Officers
+Woodard and Contreras had the "minimal level of objective
+justification" necessary for a Terry  stop. United States v.
+Sokolow, 490 U.S. 1, 7, 109 S.Ct. 1581, 1585 (1989). And
+in evaluating reasonable suspicion, "we must consider `the
+totality of the circumstances--the whole picture.' " Sokolow,
+490 U.S. at 8, 109 S.Ct. at 1585 (quoting United States v.
+Cortez, 499 U.S. 411, 417, 101 S.Ct. 690, 696 (1981)).
+
+We begin our analysis with the Supreme Court's recent
+opinion, J.L., the case that prompted the District Court to
+reconsider its initial denial of Valentine's suppression
+motion. In J.L. the Supreme Court held that police officers
+lacked reasonable suspicion to make a T erry stop when an
+anonymous caller reported that "a young black male
+standing at a particular bus stop and wearing a plaid shirt
+was carrying a gun." Florida v. J.L., 529 U.S. at ___, 120
+S.Ct. at 1377. The Supreme Court explained that the
+precise issue before the Court was "whether the tip pointing
+to J.L. had [sufficient] indicia of r eliability." 529 U.S. at ___,
+
+                                4
+
+
+120 S.Ct. at 1378. Finding the tip unreliable, the Court did
+not consider under what circumstances a r eliable tip that
+someone was carrying a gun would provide the police with
+reasonable suspicion. Instead, the Court concluded, "All the
+police had to go on in this case was the bar e report of an
+unknown, unaccountable informant who neither explained
+how he knew about the gun nor supplied any basis for
+believing he had inside information about J.L." 529 U.S. at
+___, 120 S.Ct. at 1379.
+
+Discussing the reliability of anonymous tips, the Court
+explained, "Unlike a tip from a known infor mant whose
+reputation can be assessed and who can be held
+responsible if her allegations turn out to be fabricated, see
+Adams v. Williams, 407 U.S. 143, 146-147, 92 S.Ct. 1921,
+1923-24 (1972), `an anonymous tip alone seldom
+demonstrates the informant's basis of knowledge or
+veracity.' " J.L., 529 U.S. at ___, 120 S.Ct. at 1378 (quoting
+Alabama v. White, 496 U.S. at 329, 110 S.Ct. at 2415).
+Nevertheless, even in the context of probable cause, the
+Court has rejected its earlier, inflexible two-prong test for
+tips set forth in Aguilar v. Texas, 378 U.S. 108, 84 S.Ct.
+1509 (1964) and Spinelli v. United States, 393 U.S. 410, 89
+S.Ct. 584 (1969). Under Aguilar and Spinelli, the
+government could not rely on a tip unless the government
+could demonstrate both the basis of the infor mant's
+knowledge and the informant's reliability or veracity. The
+Court now uses a flexible standard that assesses the
+relative value and reliability of an infor mant's tip in light of
+the totality of the circumstances. See, e.g., Illinois v. Gates,
+462 U.S. 213, 230-35, 103 S.Ct. 2317, 2328-30 (1983);
+Alabama v. White, 496 U.S. at 329, 110 S.Ct. at 2415.
+
+The informant's tip in our case is dif ferent from the
+telephone call in J.L. First, unlike J.L., the officers in our
+case knew that the informant was reporting what he had
+observed moments ago, not what he learned fr om stale or
+second-hand sources. At the suppression hearing, Officer
+Woodard was asked, "Did [the infor mant] say how long ago
+that he saw the individual carrying a gun?" W oodard
+replied, "About--maybe a second ago, two seconds ago."
+App. at 68. So the officers could expect that the informant
+had a reasonable basis for his beliefs. The Supreme Court
+
+                                5
+
+
+has recognized the greater weight carried by a witness's
+recent report, such as when "the victim of a street crime
+seeks immediate police aid and gives a description of the
+assailant." Adams v. Williams, 407 U.S. at 147, 92 S.Ct. at
+1924.
+
+Second, the officers had more reason to believe that the
+informant was credible than the officers did in J.L., for a tip
+given face to face is more reliable than an anonymous
+telephone call. As the Fourth Circuit r ecently explained,
+when an informant relates information to the police face to
+face, the officer has an opportunity to assess the
+informant's credibility and demeanor . United States v.
+Christmas, 222 F.3d 141, 144 (4th Cir . 2000). And when an
+informant gives the police information about a neighbor (as
+in Christmas) or someone nearby (as in our case), the
+informant is exposed to a risk of retaliation from the person
+named, making it less likely that the informant will lie. Id.
+Similarly, as the Fourth Circuit noted, "citizens who
+personally report crimes to the police ther eby make
+themselves accountable for lodging false complaints." Id.
+(citing Illinois v. Gates, 462 U.S. at 233-34, 103 S.Ct. at
+2329-30 (1983); Adams v. Williams, 407 U.S. at 146-47, 92
+S.Ct. at 1923).
+
+Many cases have recognized the differ ence between in-
+person informants and anonymous telephone calls. See,
+e.g., Florida v. J.L., 529 U.S. at ___, 120 S.Ct. at 1381
+(Kennedy, J., concurring) ("If an informant places his
+anonymity at risk, a court can consider this factor in
+weighing the reliability of the tip. An instance where a tip
+might be considered anonymous but nevertheless
+sufficiently reliable to justify a pr oportionate police
+response may be when an unnamed person driving a car
+the police officer later describes stops for a moment and,
+face to face, informs the police that criminal activity is
+occurring."); Davis v. United States, No. 97-CF-1882, 2000
+WL 1358490 (D.C. Sept. 21 2000) (An officer had pr obable
+cause for a search after an informant who declined to give
+his name flagged down the officer and told him that a man
+nearby in a wheelchair was selling crack out of his right
+shoe.); United States v. Salazar, 945 F .2d 47, 50-51 (2d Cir.
+1991) ("[A] face-to-face informant must, as a general
+
+                                6
+
+
+matter, be thought more reliable than an anonymous
+telephone tipster, for the former runs the greater risk that
+he may be held accountable if his information proves
+false."); United States v. Sierra-Her nandez, 581 F.2d 760,
+763 (9th Cir. 1978) ("[A]lthough the informant did not
+identify himself by name, he would have been available for
+further questioning if the agent had judged the pr ocedure
+appropriate. Unlike a person who makes an anonymous
+telephone call, this informant confronted the agent
+directly."); United States v. Gorin, 564 F.2d 159, 161 (4th
+Cir. 1977) (per curiam) ("[S]tandar ds of reliability should
+not prevent appropriate action when a victim of a crime
+immediately has contacted the police. That same analysis
+applies [when a witness informs the police in person about
+a crime].").
+
+Valentine contends that the District Court made a finding
+that the informant left the area after giving the officers the
+tip, and therefore this informant could not have been easily
+held accountable. He also complains that the officers could
+have questioned the informant further. In response to the
+latter objection, we are not going to second-guess the
+officers' decision to pursue the suspect immediately. The
+officers knew the suspect was still in the vicinity, and had
+they stalled for more lengthy questioning of the informant,
+the armed suspect could have escaped detection.
+
+In response to the former objection, we have reviewed the
+record carefully and conclude that the District Court made
+no factual finding about what the informant did. Indeed,
+because no evidence was presented either way on the issue,
+any factual finding that the informant did leave the area
+would have been clearly erroneous. We simply do not know
+what the informant did after the officers left.
+
+What matters for our purposes is not that the officers
+could guarantee that they could track down the infor mant
+again. As the Supreme Court has said in cases like Gates,
+the question is whether the tip should be deemed
+sufficiently trustworthy in light of the total cir cumstances.
+And in this case the circumstances support the reliability of
+the tip: the informant was exposed to r etaliation from
+Valentine and knew that the officers could quickly confirm
+or disconfirm the tip; and the officers could assess the
+
+                                7
+
+
+informant's credibility as he spoke, knew what the
+informant looked like, and had some opportunity to find
+the informant if the tip did not pan out. Fr om the fact that
+the officers acted, and acted quickly, after r eceiving the tip,
+a court may deduce that the officers thought the tipster's
+demeanor, voice, and perhaps a host of other factors
+supported the reliability of the tip. Cf. Ornelas, 517 U.S. at
+699, 116 S.Ct. at 1663 ("[A] police officer views the facts
+through the lens of his police experience and expertise. The
+background facts provide a context for the historical facts,
+and when seen together yield inferences that deserve
+deference.").
+
+The reliability of a tip, of course, is not all that we must
+consider in evaluating reasonable suspicion; the content of
+the tip must also be taken into account, as well as other
+surrounding circumstances. If we focus on the content of
+the tip, Valentine can invoke our recent holding that, in
+some contexts, even if police officers have a r eliable tip
+saying that someone is carrying a gun, that infor mation
+alone will not provide enough evidence to support a Terry
+stop. See United States v. Ubiles, 224 F .3d 213 (3d Cir.
+2000).
+
+In Ubiles several officers were overseeing a festival in the
+Virgin Islands when an elderly man appr oached them and
+pointed out a man he had seen in the crowd with a gun.
+We suppressed the gun recover ed from the officers' frisk of
+the suspect, and explained, "For all the officers knew, even
+assuming the reliability of the tip that Ubiles possessed a
+gun, Ubiles was another celebrant lawfully exer cising his
+right under Virgin Island law to possess a gun in public."
+Id. at 218.
+
+We also acknowledged, however, that r easonable
+suspicion does not require that the suspect's acts must
+always be themselves criminal. In many cases the Supreme
+Court has found reasonable suspicion based on acts
+capable of innocent explanation. Most recently, in Wardlaw
+the Court held that headlong flight from the police in a
+high-crime area provides reasonable suspicion, despite the
+fact that flight is not by itself illegal and could have
+completely lawful and rational explanations. The Court
+explained:
+
+                                8
+
+
+       Even in Terry, the conduct justifying the stop was
+       ambiguous and susceptible of an innocent explanation.
+       The officer observed two individuals pacing back and
+       forth in front of a store, peering into the window and
+       periodically conferring. Terry, 392 U.S., at 5-6, 88 S.Ct.
+       1868. All of this conduct was by itself lawful, but it
+       also suggested that the individuals were casing the
+       store for a planned robbery. T erry recognized that the
+       officers could detain the individuals to r esolve the
+       ambiguity. Id., at 30, 88 S.Ct. 1868.
+
+Wardlaw, 528 U.S. at ___, 120 S.Ct. at 677.
+
+Despite the obvious danger posed by an armed man in a
+crowd, we concluded in Ubiles that the tip, standing alone,
+did not provide reasonable suspicion because nothing in
+"the defendant's behavior pointed to the pr esence of illegal
+activity." 224 F.3d at 217. In particular , we said that under
+the laws of the Virgin Islands, a citizen could lawfully
+possess a gun during a festival, and there was no reason to
+think Ubiles's gun was unregistered or had an altered serial
+number, the two ways we mentioned that the gun
+possession could have been illegal.
+
+Our case is distinguishable from Ubiles. First, there is
+the broader context. Valentine was walking around at 1:00
+a.m. in a high-crime area known for shootings. While an
+individual's presence in a high-crime ar ea is not by itself
+sufficient to warrant a Terry stop, Wardlaw, 528 U.S. at
+___, 120 S.Ct. at 676 (citing Brown v. Texas, 443 U.S. 47,
+99 S.Ct. 2637 (1979)), "the fact that the stop occurred in a
+`high crime area' [is] among the r elevant contextual
+considerations in a Terry analysis." Id. (citing Adams v.
+Williams, 407 U.S. at 144 and 147-48, 92 S.Ct. at 1922
+and 1924). The constellation of likely criminal acts in a
+high-crime area at 1:00 a.m. goes well beyond simply
+carrying a gun without registration or with altered serial
+numbers. Indeed, given the large number of potential
+crimes and the danger posed by an armed criminal, we
+think that if the police officers had done nothing and
+continued on their way after receiving the informant's tip,
+the officers would have been remiss. People who live in
+communities torn by gunfire and violence are entitled to be
+free from fear of victimization and have police investigate
+
+                                9
+
+
+before shootings occur. As the Supr eme Court said in
+Wardlaw, when the police lear n of potentially suspicious
+conduct, officers can stop and question the suspects to
+resolve ambiguity about the suspects' conduct.
+
+Moreover, it is well established that officers are allowed to
+ask questions of anyone--and gun owners ar e no exception
+--without having any evidence creating suspicion. Florida v.
+Bostick, 501 U.S. 429, 434, 111 S.Ct. 2382, 2386 (1991)
+("Since Terry we have held r epeatedly that mere police
+questioning does not constitute a seizure."). Given that the
+original rationale in Terry for per mitting frisks was to
+safeguard officers while they ask questions, see Terry, 392
+U.S. at 23-24, 88 S.Ct. at 1881, a ruling in V alentine's
+favor would produce inexplicable results. We would be
+holding that while diligent officers would have questioned
+Valentine after receiving the tip, the officers were not
+permitted to frisk him, even though they encountered him
+late at night in a high-crime area known for shootings, and
+even though, unlike Terry, the officers had specific, reliable
+reasons for believing that he was armed. We do not think
+the Supreme Court's jurisprudence supports such a result.
+
+As the Supreme Court noted in a case much like ours, an
+officer has "ample reason to fear for his safety" while
+investigating a person reported to have a concealed weapon
+at 2:15 in the morning in a high-crime ar ea. Adams v.
+Williams, 407 U.S. at 147-48, 92 S.Ct. at 1924. See also
+Terry, 392 U.S. at 23-24, 88 S.Ct. at 1881 ("[E]very year in
+this country many law enforcement officers ar e killed in the
+line of duty, and thousands more are wounded. Virtually all
+of these deaths and a substantial portion of the injuries are
+inflicted with guns and knives.").
+
+In evaluating the totality of the circumstances, we must
+also take into account that Valentine and the two men with
+him immediately began walking away from the patrol car
+when it arrived. Walking away from the police hardly
+amounts to the headlong flight considered in Wardlaw and
+of course would not give rise to reasonable suspicion by
+itself, even in a high-crime area, but it is a factor that can
+be considered in the totality of the cir cumstances. As the
+Supreme Court recently said, "nervous, evasive behavior is
+a pertinent factor in determining reasonable suspicion."
+
+                                10
+
+
+Wardlaw, 528 U.S. at ___, 120 S.Ct. at 676. See also United
+States v. Sokolow, 490 U.S. at 8-9, 109 S.Ct. at 1585-86;
+United States v. Brignoni-Ponce, 422 U.S. 873, 885, 95 S.Ct.
+2574 (1975); Florida v. Rodriguez, 469 U.S. 1, 6, 105 S.Ct.
+308, 311 (1984) (per curiam). As the First Cir cuit recently
+stated in the context of a search of a taxi,"slouching,
+crouching, or any other arguably evasive movement, when
+combined with other factors particular to the defendant or
+his vehicle, can add up to reasonable suspicion." United
+States v. Woodrum, 202 F.3d 1, 7 (1st Cir. 2000) (citing
+United States v. Sharpe, 470 U.S. 675, 682 n.3, 105 S.Ct.
+1568, 1573 n.3 (1985); United States v. Aldaco , 168 F.3d
+148, 152 (5th Cir. 1999)). See also United States v. Brown,
+159 F.3d 147 (3d Cir. 1998).
+
+In summary, we conclude that the officers had
+reasonable suspicion after they received the face-to-face tip,
+were in a high-crime area at 1:00 a.m., and saw Valentine
+and his two companions walk away as soon as they noticed
+the police car.
+
+The government offers another gr ounds for distinguishing
+this case from Ubiles. Unlike the V irgin Islands, New Jersey
+not only makes it a crime when a person "knowingly has in
+his possession any handgun, including any antique
+handgun, without first having obtained a per mit to carry
+the same," N.J.S.A. S 2C:39-5(b), but also New Jersey
+presumes that someone carrying a handgun does not have
+a permit to possess it until the person establishes
+otherwise. See N.J.S.A. S 2C:39-2(b). New Jersey also has
+strict permit requirements and a rigid investigation and
+approval process that buttress the statutory presumption.
+See N.J.S.A. S 2C:58-4.
+
+Given the evidence supporting the informant's tip in this
+case, we need not consider New Jersey's regulatory scheme
+or determine under what circumstances New Jersey's
+presumption would provide reasonable suspicion for a
+Terry stop.
+
+IV
+
+The District Court expressly held that inquiry about
+reasonable suspicion in this case should be confined to
+
+                                11
+
+
+events before Woodard order ed Valentine to stop. Because
+the District Court reached this issue, we think it is
+important to explain why that holding was err oneous.
+
+While it is true that the "reasonableness of official
+suspicion must be measured by what the officers knew
+before they conducted their search," J.L., 529 U.S. at ___,
+120 S.Ct. at 1379, the District Court's analysis did not take
+into account that there can be no Fourth Amendment
+violation until a seizure occurs. In Hodari D. the Supreme
+Court held that for there to be a seizur e, the police must
+apply physical force to the person being seized or, where
+force is absent, have the person seized submit to a show of
+police authority. Hodari D., 499 U.S. at 626-28, 111 S.Ct.
+at 1550-51; Abraham v. Raso, 183 F.3d 279, 291 (3d Cir.
+1999); United States v. Bradley, 196 F .3d 762, 768 (7th Cir.
+1999). Thus, if the police make a show of authority and the
+suspect does not submit, there is no seizur e. Hodari D.,
+499 U.S. at 626, 111 S.Ct. at 1551; United States v.
+$32,400 in United States Currency, 82 F .3d 135, 139 (7th
+Cir. 1992). As the Supreme Court r ecently explained,
+"Attempted seizures of a person are beyond the scope of the
+Fourth Amendment." County of Sacramento v. Lewis, 523
+U.S. 833, 845 n.7, 118 S.Ct. 1708, 1716 n.7 (1998). Cf.
+Brower v. Inyo County, 489 U.S. 593, 596-97, 109 S.Ct.
+1378, 1381 (1989) (A seizure did not occur during the 20
+miles in which a police car, with flashing lights, chased a
+suspect, and instead only occurred when the suspect's car
+crashed into a police blockade.).
+
+The facts of Hodari D. illustrate how the concept of a
+seizure should be applied. When two police officers
+approached a group of four or five youths gathered around
+a car, the group immediately dispersed, prompting one
+officer to pursue Hodari, the respondent. By taking a side
+street, the officer was able to overtake Hodari. Surprised,
+Hodari tossed away what appeared to be a small rock,
+moments before the officer tackled him. The central
+question before the Supreme Court was whether the small
+rock, which turned out to be crack, should be suppressed.
+
+The Court held that even assuming that the officers did
+not have reasonable suspicion to stop Hodari when the
+pursuit began, the crack should not have been suppr essed,
+
+                                12
+
+
+for Hodari never complied with the police officers' original
+show of authority and therefore was not seized when he
+threw the crack aside.
+
+Other courts have applied Hodari D. and considered a
+suspect's conduct after he failed to comply with an officer's
+show of authority. See, e.g., United States v. Johnson, 212
+F.3d 1313 (D.C. Cir. 2000); United States v. Smith, 217 F.3d
+746 (9th Cir. 2000); United States v. Santamaria-
+Hernandez, 968 F.2d 980 (9th Cir . 1992).
+
+In Johnson, for example, two officers in an unmarked car
+were patrolling a high-crime area and pulled into a parking
+lot where two people were sitting in a parked car with a
+young woman standing nearby. As the officers appr oached,
+they saw the woman lean into the passenger's window and
+hand the defendant, Johnson, an object. As the officers
+drew closer, the woman walked away, and Johnson made
+what the officers described as a "shoving down" motion.
+Thinking Johnson might be armed, one officer drew his
+gun, advised his partner to do the same, and shouted, "Let
+me see your hands." 212 F.3d at 1315. But Johnson did
+not comply and continued to shove down with his ar ms
+several more times. In response, the officer quickly strode
+up to the car, reached in, and discover ed crack.
+
+The D.C. Circuit reasoned that if the seizure had taken
+place when the officers drew their guns and ordered
+Johnson to show his hands, the court "doubt[ed] very
+much" whether the officers would have had r easonable
+suspicion to make a stop. Id. at 1316. Johnson did not
+comply, however, with the officers' show of authority. "On
+the contrary, he continued to make `shoving down' motions,
+gestures that were the very opposite of complying with
+Fulton's order, and which a reasonable officer could have
+thought were actually suggestive of hiding (or retrieving) a
+gun." Id. at 1316-17. Those actions, the court held, gave
+the officers reasonable suspicion for the search that
+revealed the crack. Cf. Watkins v. City of Southfield, 221
+F.3d 883 (6th Cir. 2000) (A suspect's refusal to comply with
+an officer's order to stop contributed to the officer's
+suspicion.); United States v. Moorefield, 111 F.3d 10, 14 (3d
+Cir. 1997) (When officers stopped the defendant's car, his
+"furtive hand movements and refusal to obey the officers'
+
+                                13
+
+
+orders" helped provide the officers with reasonable
+suspicion.).
+
+We conclude that as in Johnson and Moorefield, what
+Valentine did after he failed to comply with the police
+officers' orders can be considered in evaluating reasonable
+suspicion. Valentine hopes to distinguish cases like
+Johnson and Smith by claiming that in fact he had already
+been seized before he charged towar d Officer Woodard. He
+says that when Woodard order ed him to come over and
+place his hands on the car, he momentarily"complied" with
+the order, stopped, and gave his name. This "compliance,"
+he protests, was enough to trigger a seizur e.
+
+We have reviewed the record carefully and find no
+evidence in support of Valentine's theory that he even
+momentarily complied, and some evidence, such as
+Woodard's police report, appears to rebut the theory. But
+regardless, no factual determination is necessary, for even
+if we accept Valentine's version, it would not show that he
+was seized before he charged Woodard.
+
+Under some circumstances we have held that a
+defendant was seized despite his subsequent flight. In
+United States v. Coggins, 986 F.2d 651, 653-54 (3d Cir.
+1993) police officers stopped the defendant in a stairwell at
+an airport and asked him a number of questions, which he
+answered. After the defendant later asked per mission to go
+to the bathroom and was allowed to leave, hefled. On
+appeal we rejected the government's ar gument that the
+defendant had not been seized.
+
+But Valentine's case is easily distinguishable, for his
+momentary "compliance" is a far cry fr om the lengthy
+detention in Coggins. Cf. United States v. Hernandez, 27
+F.3d 1403, 1407 (9th Cir. 1994) (The defendant's
+momentary hesitation and direct eye contact with officer
+prior to his flight did not constitute a seizur e.); United
+States v. Sealey, 30 F.3d 7, 10 (1st Cir . 1994) (A defendant
+was not seized when an officer approached him and called
+out, "Hey Stephen, what's up?"); United States v.
+Washington, 12 F.3d 1128, 1132 (D.C. Cir. 1994) (The
+defendant was not seized when he stopped his car at the
+curb in response to police commands, but then sped away
+
+                                14
+
+
+when the officer approached on foot.). Even if Valentine
+paused for a few moments and gave his name, he did not
+submit in any realistic sense to the officers' show of
+authority, and therefore there was no seizure until Officer
+Woodard grabbed him.
+
+And once we consider Valentine's actions after Woodard's
+order, it is clear that we have an independent ground for
+finding that the officers had reasonable suspicion. For if
+headlong flight in a high-crime area pr ovides reasonable
+suspicion under Wardlaw, then charging toward a police
+officer in a high-crime area also by itself provides
+reasonable suspicion.
+
+For the foregoing reasons, the District Court's order of
+April 27, 2000, will be reversed. The case will be remanded
+to the District Court for further proceedings consistent with
+this opinion.
+
+A True Copy:
+Teste:
+
+       Clerk of the United States Court of Appeals
+       for the Third Circuit
+
+                                15

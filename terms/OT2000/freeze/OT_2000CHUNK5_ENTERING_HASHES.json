@@ -1,0 +1,31 @@
+{
+  "term": "OT2000",
+  "chunk": 5,
+  "workspace_snapshots": [
+    {
+      "source": "terms/OT2000/workspace/manifest.md",
+      "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_manifest.md",
+      "sha256": "2ec8c88048dacd0c962f87b7e32d02f4d32697f087151557ff554004b141f5d9",
+      "bytes": 76290
+    },
+    {
+      "source": "terms/OT2000/workspace/ledger.md",
+      "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_ledger.md",
+      "sha256": "b5446fb5e5ebf7b26d286da6965ee8e55c2e4f3f6df8e98f1e8e52300d0721be",
+      "bytes": 29828
+    },
+    {
+      "source": "terms/OT2000/workspace/continuity.md",
+      "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_continuity.md",
+      "sha256": "08dd642fa93da5326e23c66dd2a81de2b4483e4db1aa35c2fb1ed0316c8ab61b",
+      "bytes": 522356
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "snapshot": "terms/OT2000/freeze/OT_2000CHUNK5_ENTERING_neutral_projection.md",
+      "sha256": "ed2ea4cb2b5c0e3b556633c00c008985d0f84637aa1fc9c15d8057e2390586d8",
+      "bytes": 519214
+    }
+  ],
+  "verification": "Four entering snapshots are byte-identical to the workspace source at preservation."
+}

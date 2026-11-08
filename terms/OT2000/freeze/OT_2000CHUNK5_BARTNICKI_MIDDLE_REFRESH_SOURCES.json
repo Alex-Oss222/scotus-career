@@ -1,0 +1,36 @@
+{
+  "scope": "Bounded Public Projections only, after middle fidelity repair completion",
+  "sources": [
+    {
+      "record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+      "projection_sha256": "e538d8379ea62f096bc543da8eae76aeede0559e1512d207887c8b03b96a1a9e",
+      "projection_characters": 6794
+    },
+    {
+      "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+      "projection_sha256": "6a71fa8037d295087fce69c68f75a6bd114e6bf3993bddabf4bb69498a7abc6b",
+      "projection_characters": 9901
+    },
+    {
+      "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+      "projection_sha256": "b38535b5acca45931aaa34273499dea0b61a129f4481048f5828e82f4bfc7979",
+      "projection_characters": 11445
+    },
+    {
+      "record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+      "projection_sha256": "5d9461b7f3f4984011ffdaa23f834a8caa1725939e37e1011001f557b10b72a9",
+      "projection_characters": 11781
+    },
+    {
+      "record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+      "projection_sha256": "45f48b830a4185ee059d62f42947466ed8bf258d5893010bf01e919e586c4277",
+      "projection_characters": 9610
+    },
+    {
+      "record": "United_States_v_Valentine_merits_2001-05-14.md",
+      "projection_sha256": "d00fae29e6fd14d82563fca00f5bcd0475101fb6f7ec2bb3afed833bdc420d12",
+      "projection_characters": 14716
+    }
+  ],
+  "reading_copy_sha256": "1fb984f92d7687b2421de80ba7a04eab5942c6f9c6b2d3e6049aec20471ee72e"
+}

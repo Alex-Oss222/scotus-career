@@ -1,0 +1,32 @@
+{
+  "status": "Prepublication validation fidelity repairs; no adjudication changed",
+  "authority": "Control expressly authorized these two bounded repairs while this Run remains under validation.",
+  "changes": [
+    {
+      "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+      "before_sha256": "075d0d71d6ae5e8b9e40fbb9dd68aa4fbf2fd17331af5fe90e6373f1881bd99b",
+      "after_sha256": "bd92dbcbcb625e1a92bc9d19e34a2da8ea90c0ed0f677bd638188ad64758af55",
+      "old_exact_text": "The additional remedial rule forbids the reviewing court",
+      "new_exact_text": "The additional remedial rule ordinarily forbids the reviewing court",
+      "replacement_count": 2,
+      "reverse_replacement_restores_all_original_text": true,
+      "lineage_unchanged": true,
+      "before_file_bytes_sha256": "94178f2557d657eec6752b20fecd167a67bb31d2e5a691f31ef8a78d2f075a2c",
+      "after_file_bytes_sha256": "db4e3390c25c8b9c40965d112cc77a36fc0f2b1108ca5587ef4ba25e83769804"
+    },
+    {
+      "record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+      "before_sha256": "08e97e2e45fc9b25c063c5c1549e21a71c57e976cccd47669ac83480bab997d9",
+      "after_sha256": "910255ffd0617063fe39a3b9c8685498ed49eab71519cea352c6b949a98199bb",
+      "old_exact_text": "expressly sharing the case-specific sufficient warning ground",
+      "new_exact_text": "expressly sharing the case-specific insufficient-warning ground",
+      "replacement_count": 1,
+      "reverse_replacement_restores_all_original_text": true,
+      "lineage_unchanged": true,
+      "before_file_bytes_sha256": "7bbd3e70620bdd0c5a6a3081df21a5dc7eb767e160a2a79cb6180373d6e4d822",
+      "after_file_bytes_sha256": "aad2432ca706029ad8540f1124eb9590cd02f2438d5dc4112a0d7bcb2e16ba9b"
+    }
+  ],
+  "unchanged": "Holdings, joins, judgment, remedy, assignments and original-decision lineage. No other Record text changed.",
+  "hash_domain": "Existing before_sha256 and after_sha256 fields hash UTF-8 text normalized to LF; explicit file-byte hashes are also provided."
+}

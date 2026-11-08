@@ -1,0 +1,30 @@
+{
+  "record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+  "sha256": "aed07d5d4d5e8e37e67805ba85e414793a697fa21ee2898bfdd42365ef4714c5",
+  "four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    203
+  ],
+  "opinion_table_width": true,
+  "public_workflow_scan": true,
+  "manual_vote_and_join_arithmetic": "passed at supported proposition scope",
+  "earlier_law_comparison": "The event is plenary certiorari review on the supplied April 30 date; all nine participated and satisfy the six-Justice quorum, with five required for controlling law. The authoritative frozen neutral selection, CL reconciliation and CL entering-law slice provide the contract, reconsidered lower judgment, actual Kiowa and First Options law. The earlier historical Supreme Court remand is not imported as an entered action; the reviewable reconsidered judgment independently supplies posture.\n\n`tmp/CHUNK5_PUBLIC_BEFORE_CL.md` mechanically copies the five completed April 24–25 public projections. Sandoval concerns Title VI's prospective beneficiary action; Atwater concerns additional custody after conceded probable cause; Sterling concerns intimate confidentiality and immunity; Daniels concerns section 2255 access to expired predicates; Randell concerns civil necessary-invalidity and unavailable review. None changes actual tribal waiver, integrated assent, confirmation authority or the remedy here. No material premise changes and no clean-stage restart is required. Coss remains stopped and supplies no outcome. Research cutoff: immediately before April 30, 2001.",
+  "assignment": "Form first: one signed plenary Court opinion resolving one integrated waiver question, with no division or separate writing needed. That form and scope were fixed before counting. Chief Justice Stone-Zsela assigns from the unanimous judgment and rationale coalition.\n\nImmediately before this assignment, `tmp/chunk5_count_leads.py` recounted actual earlier internal opinion tables into `runtime/OT_2000CHUNK5_ASSIGNMENT_BEFORE_CL.json` and its bounded source extract. Counts: Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 5; Kennedy 5; Souter 6; Thomas 5; Ginsburg 7; Breyer 6. Last counted event: Randell v. Johnson, April 25, 2001. All nine are eligible because each directly supports every proposition and limit. Minimum eligible count is 5; the balance pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Breyer. O'Connor and Ginsburg are outside the pool solely by the rule's count boundary.\n\nThe Chief selects Kennedy, count 5. The opinion's work is to construe actual consent while separating sovereign immunity, ordinary court competence, merits and execution. His Kiowa and First Options positions directly support that complete allocation. Breyer is a strong alternative for the same integrated contractual analysis but has count 6 and no necessary accommodation unique to his authorship; Stone likewise offers no concrete advantage sufficient to prefer his higher count. Scalia and Thomas are also capable pool alternatives. Kennedy can carry the fully shared rule without expansion or a special drafting concession. Historical authorship plays no part. The final complete joins meet the eligibility assumptions; this signed lead counts once.",
+  "whole_term_publication": "pending control",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
+  "file_bytes_sha256": "9873a914ef8dacddfe95a4b1ec0faf5c39fb7521dd1d4729093aff6bc8e3a037"
+}

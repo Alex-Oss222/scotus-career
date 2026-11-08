@@ -1,0 +1,114 @@
+*Circuit Judge of the Seventh Circuit, sitting by designation.
+REVISED, October 13, 2000
+ UNITED STATES COURT OF APPEALS
+For the Fifth Circuit
+___________________________
+ No. 99-11092  
+___________________________
+TOMMY RANDELL,
+Plaintiff-Appellant,
+VERSUS
+GARY L. JOHNSON, Director, Texas Department of Criminal Justice,
+Institutional Division; MELINDA BOZARTH, Director, Texas Board of
+Pardons and Paroles; JOHN DOE, I; JOHN DOE, II,
+Defendants-Appellees.
+___________________________________________________
+Appeal from the United States District Court
+For the Northern District of Texas
+  ___________________________________________________
+September 26, 2000
+Before WOOD*, DAVIS, and BARKSDALE, Circuit Judges.
+PER CURIAM:
+The district court held that Tommy Randell’s 42 U.S.C. § 1983
+complaint for damages was frivolous and therefore dismissed his
+complaint.  Because we determine that the complaint fails to state
+a cause of action upon which relief may be granted, we affirm.
+I.
+Randell was arrested and charged with driving while
+
+2See 28 U.S.C. § 2254(a) (stating that “a district court shall entertain
+an application for a writ of habeas corpus in behalf of a person in custody
+pursuant to the judgment of a State court only on the ground that he is in
+custody in violation of the Constitution or laws or treaties of the United
+States.”).
+2
+intoxicated.  He alleges that he was incarcerated from September
+27, 1996 until June 25, 1997 pursuant to a warrant from the Texas
+Board of Pardons and Paroles, but was not given credit for this
+time and therefore had to serve the time over again.
+By June 18, 1999, the date on which he commenced this
+litigation, Randell was no longer in custody for the term of
+confinement in dispute and therefore was ineligible for federal
+habeas relief.2  He therefore pursued relief in forma pauperis
+under § 1983, requesting compensatory damages of $1000 for each day
+he had “served over his sentence.”  The district court dismissed
+Randell’s § 1983 complaint as frivolous and Randell appealed.  We
+affirm the district court on the grounds that Randell’s complaint
+fails to state a claim upon which relief may be granted.  FED. R.
+CIV. P. 12(b)(6).
+II.
+Randell points out, pro se, that he is no longer in custody
+and thus can not file a habeas petition.  Randell therefore asserts
+that he does not need to prove that the underlying proceedings upon
+which his conviction was based have been terminated in his favor,
+since he can no longer seek habeas relief.  However, in Heck v.
+Humphrey, 512 U.S. 477, 486-87 (1994), the Court unequivocally
+stated:
+We hold that, in order to recover damages for allegedly
+
+3Heck v. Humphrey, 512 U.S. 477, 487, 114 S.Ct. 2364, 2372 (1994).
+4See Jenkins v. Haubert, 179 F.3d 19, 26 (2d Cir. 1999); Shamaeizadeh v.
+Cunigan, 182 F.3d 391, 396 n.3 (6th Cir. 1999); and Carr v. O’Leary, 167 F.3d
+1124, 1127 (7th Cir. 1999).  
+3
+unconstitutional conviction or imprisonment, or for other
+harm caused by actions whose unlawfulness would render a
+conviction or sentence invalid, [footnote omitted] a §
+1983 plaintiff must prove that the conviction or sentence
+has been reversed on direct appeal, expunged by executive
+order, declared invalid by a state tribunal authorized to
+make such determination, or called into question by a
+federal court’s issuance of a writ of habeas corpus, 28
+U.S.C. § 2254.
+Therefore, the Court unequivocally held that unless an authorized
+tribunal or executive body has overturned or otherwise invalidated
+the plaintiff’s conviction, his claim “is not cognizable under
+[section] 1983.”3  Because Randell is seeking damages pursuant to
+§ 1983 for unconstitutional imprisonment and has not satisfied the
+favorable termination requirement of Heck, he is barred from any
+recovery and fails to state a claim upon which relief may be
+granted.
+Based on dicta from concurring and dissenting opinions in
+Spencer v. Kemna, 523 U.S. 1 (1998), three circuits4 have concluded
+that the Supreme Court - if presented with the question - would
+relax Heck’s universal favorable termination requirement for
+plaintiffs who have no procedural vehicle to challenge their
+conviction.  Randell has not shown that such a procedural vehicle
+is lacking; he speaks only of inability to obtain habeas relief.
+In the alternative, we decline to announce for the Supreme
+Court that it has overruled one of its decisions.    
+
+5The Ninth Circuit also follows this course.  See Cabrera v. City of
+Huntington Park, 159 F.3d 374, 380 n.6 (9th Cir. 1998).
+4
+We agree with the First Circuit,5 which stated:
+We are mindful that dicta from concurring and dissenting
+opinions in a recently decided case, Spencer v. Kemna,
+523 U.S. 1, 118 S.Ct. 978, 140 L.Ed.2d 43 (1998), may
+cast doubt upon the universality of Heck’s “favorable
+termination” requirement.  See id.at ----, 118 S.Ct. at
+989 (Souter, J., concurring); id. at ----, 118 S.Ct. at
+990 (Ginsberg, J., concurring); id. at n.8, 118 S.Ct. at
+992 n.8 (Stevens, J., dissenting).  The Court, however,
+has admonished the lower federal courts to follow its
+directly applicable precedent, even if that precedent
+appears weakened by pronouncements in its subsequent
+decisions, and to leave to the Court “the prerogative of
+overruling its own decisions.”  Agostini v. Felton, 521
+U.S. 203, ----, 117 S.Ct. 1997, 2017, 138 L.Ed.2d 391
+(1997); see also Rodriguez de Quijas v. Shearson/American
+Express, Inc.,490 U.S. 477, 484, 109 S.Ct. 1917, 104
+L.Ed.2d 526 (1989).  We obey this admonition.
+Figueroa v. Rivera, 147 F.3d 77, 81 n.3 (1st Cir. 1998).
+III.
+For the above reasons, the judgment is AFFIRMED.

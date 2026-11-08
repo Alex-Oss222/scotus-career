@@ -1,0 +1,227 @@
+{
+  "status": "Six durable Records validated; no substantive blocker",
+  "records": [
+    {
+      "record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+      "sha256": "aed07d5d4d5e8e37e67805ba85e414793a697fa21ee2898bfdd42365ef4714c5",
+      "counted_author": "Kennedy",
+      "lead_ground_supporters": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "lead_ground_count": 9,
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": true,
+      "published_separate_section_identity": true,
+      "individual_validation": "runtime/OT_2000CHUNK5_CL_ASSEMBLY_VALIDATION.json",
+      "file_bytes_sha256": "9873a914ef8dacddfe95a4b1ec0faf5c39fb7521dd1d4729093aff6bc8e3a037"
+    },
+    {
+      "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+      "sha256": "1ba986f3bbcef1c0f8ba4554cc5966ad8d9f1eaf59f6590d8ee09f63b3c203b9",
+      "counted_author": "Thomas",
+      "lead_ground_supporters": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "lead_ground_count": 7,
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": true,
+      "published_separate_section_identity": true,
+      "individual_validation": "runtime/OT_2000CHUNK5_COOPER_ASSEMBLY_VALIDATION.json",
+      "file_bytes_sha256": "1c537269979e558418b18f92ff8d3e9b21bdfa04a8be0591ad113a67a1deb95b"
+    },
+    {
+      "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+      "sha256": "bd92dbcbcb625e1a92bc9d19e34a2da8ea90c0ed0f677bd638188ad64758af55",
+      "counted_author": null,
+      "lead_ground_supporters": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "lead_ground_count": 8,
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": true,
+      "published_separate_section_identity": true,
+      "individual_validation": "runtime/OT_2000CHUNK5_GARVEY_ASSEMBLY_VALIDATION.json",
+      "file_bytes_sha256": "db4e3390c25c8b9c40965d112cc77a36fc0f2b1108ca5587ef4ba25e83769804"
+    },
+    {
+      "record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+      "sha256": "910255ffd0617063fe39a3b9c8685498ed49eab71519cea352c6b949a98199bb",
+      "counted_author": "Breyer",
+      "lead_ground_supporters": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Thomas",
+        "Breyer"
+      ],
+      "lead_ground_count": 5,
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": true,
+      "published_separate_section_identity": true,
+      "individual_validation": "runtime/OT_2000CHUNK5_ROGERS_ASSEMBLY_VALIDATION.json",
+      "file_bytes_sha256": "aad2432ca706029ad8540f1124eb9590cd02f2438d5dc4112a0d7bcb2e16ba9b"
+    },
+    {
+      "record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+      "sha256": "b676f7aa04b1167278182a5bec52dfd87bd9d68e3d906ea67d4ae9e6db5fd854",
+      "counted_author": "Scalia",
+      "lead_ground_supporters": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "lead_ground_count": 8,
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": true,
+      "published_separate_section_identity": true,
+      "individual_validation": "runtime/OT_2000CHUNK5_OAKLAND_ASSEMBLY_VALIDATION.json",
+      "file_bytes_sha256": "3b753d2b585b9c4b7416945b4e8bf076adcb897f8f6195b08c76dece5d9b9554"
+    },
+    {
+      "record": "United_States_v_Valentine_merits_2001-05-14.md",
+      "sha256": "805756afad7d18a8d0a949d29691deb34df42d969c3e43c49e90046d446d5ccb",
+      "counted_author": "Stevens",
+      "lead_ground_supporters": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "lead_ground_count": 5,
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": true,
+      "published_separate_section_identity": true,
+      "individual_validation": "runtime/OT_2000CHUNK5_VALENTINE_ASSEMBLY_VALIDATION.json",
+      "file_bytes_sha256": "8e0537b6687922ec889c3a1fa8e8cd9770a1994ee2e5e1d47674dc53ff1f4415"
+    }
+  ],
+  "count_after_middle": {
+    "target": {
+      "date": "2001-05-15",
+      "case": "Post-middle assignment check"
+    },
+    "counts": {
+      "Stone-Zsela": 6,
+      "Stevens": 7,
+      "O'Connor": 7,
+      "Scalia": 6,
+      "Kennedy": 6,
+      "Souter": 6,
+      "Thomas": 6,
+      "Ginsburg": 7,
+      "Breyer": 7
+    },
+    "counted_events": 58,
+    "counted_leads": 58,
+    "last_counted_event": {
+      "date": "2001-05-14",
+      "case": "United States v. Valentine",
+      "record": "United_States_v_Valentine_merits_2001-05-14.md"
+    }
+  },
+  "fidelity_repairs": "runtime/OT_2000CHUNK5_MIDDLE_FIDELITY_REPAIRS.json",
+  "legal_checks": "Each final text checked against frozen non-Stone scope and approved per-case core; Valentine uses the fresh affirmative join audit. Rogers keeps application-five and framework-five distinct; Garvey keeps grant and summary votes distinct; Oakland has eight participants.",
+  "effective_law": "Actual earlier public-law copies checked, including C & L for Garvey and Atwater for Valentine; no material premise change. Same-date law excluded.",
+  "excluded_work": "No workspace, render-input, output, foundation or state updates; no stopped Coss adjudication.",
+  "pending": "Independent final wording confirmation and control integration/whole-term checks.",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes."
+}

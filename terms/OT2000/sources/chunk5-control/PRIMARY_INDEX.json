@@ -1,0 +1,90 @@
+[
+  {
+    "case": "Sandoval",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-275.pdf",
+    "pages": 43,
+    "characters": 99736,
+    "pdf": "terms/OT2000/sources/chunk5-control/Sandoval.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Sandoval.txt"
+  },
+  {
+    "case": "Atwater",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-318.pdf",
+    "pages": 56,
+    "characters": 121451,
+    "pdf": "terms/OT2000/sources/chunk5-control/Atwater.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Atwater.txt"
+  },
+  {
+    "case": "Daniels",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-374.pdf",
+    "pages": 20,
+    "characters": 42624,
+    "pdf": "terms/OT2000/sources/chunk5-control/Daniels.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Daniels.txt"
+  },
+  {
+    "case": "Coss",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-394.pdf",
+    "pages": 17,
+    "characters": 35775,
+    "pdf": "terms/OT2000/sources/chunk5-control/Coss.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Coss.txt"
+  },
+  {
+    "case": "CL",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-411.pdf",
+    "pages": 13,
+    "characters": 29075,
+    "pdf": "terms/OT2000/sources/chunk5-control/CL.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/CL.txt"
+  },
+  {
+    "case": "Cooper",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-424.pdf",
+    "pages": 27,
+    "characters": 59495,
+    "pdf": "terms/OT2000/sources/chunk5-control/Cooper.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Cooper.txt"
+  },
+  {
+    "case": "Rogers",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-451.pdf",
+    "pages": 32,
+    "characters": 69320,
+    "pdf": "terms/OT2000/sources/chunk5-control/Rogers.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Rogers.txt"
+  },
+  {
+    "case": "Oakland",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-483.pdf",
+    "pages": 21,
+    "characters": 46425,
+    "pdf": "terms/OT2000/sources/chunk5-control/Oakland.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Oakland.txt"
+  },
+  {
+    "case": "Garvey",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-504.pdf",
+    "pages": 10,
+    "characters": 22061,
+    "pdf": "terms/OT2000/sources/chunk5-control/Garvey.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Garvey.txt"
+  },
+  {
+    "case": "Bartnicki",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-514.pdf",
+    "pages": 43,
+    "characters": 93217,
+    "pdf": "terms/OT2000/sources/chunk5-control/Bartnicki.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Bartnicki.txt"
+  },
+  {
+    "case": "Hatter",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-557.pdf",
+    "pages": 31,
+    "characters": 63912,
+    "pdf": "terms/OT2000/sources/chunk5-control/Hatter.pdf",
+    "text": "terms/OT2000/sources/chunk5-control/Hatter.txt"
+  }
+]

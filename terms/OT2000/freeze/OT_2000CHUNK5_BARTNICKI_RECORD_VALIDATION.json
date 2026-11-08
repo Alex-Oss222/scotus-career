@@ -1,0 +1,109 @@
+{
+  "status": "Passed local Record checks; root integration and term-wide checks remain separate",
+  "record": "Bartnicki_v_Vopper_United_States_v_Vopper_merits_2001-05-21.md",
+  "record_sha256": "e3f4da33d043bce30b62973dc6e031799d94d74dab26bb94a732f4ef076f2abc",
+  "public_projection_sha256": "2c57a1e84283ab98ecc822ebbed7bb023927105a6bbaac6b81daf5aec2050d25",
+  "headers": "exact four labels",
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": "Exact internal/public text match",
+  "explanation_words": [
+    172,
+    330
+  ],
+  "judgment": {
+    "supporting": [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    "opposing": [
+      "Scalia",
+      "Thomas"
+    ],
+    "count": "7–2 in both dockets"
+  },
+  "court_opinion": {
+    "author": "Kennedy",
+    "full_joins": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "concurrence": {
+    "author": "Breyer",
+    "joins": [
+      "O'Connor"
+    ],
+    "relationship": "Full Court-opinion and judgment joins"
+  },
+  "dissent": {
+    "author": "Scalia",
+    "joins": [
+      "Thomas"
+    ]
+  },
+  "before_counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 6,
+    "Thomas": 6,
+    "Ginsburg": 7,
+    "Breyer": 7
+  },
+  "before_total": 58,
+  "last_preassignment_event": {
+    "date": "2001-05-14",
+    "case": "United States v. Valentine",
+    "record": "United_States_v_Valentine_merits_2001-05-14.md"
+  },
+  "after_counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 6,
+    "Kennedy": 7,
+    "Souter": 6,
+    "Thomas": 6,
+    "Ginsburg": 7,
+    "Breyer": 7
+  },
+  "after_total": 59,
+  "eligible_and_pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counted_current_authors": [
+    "Kennedy"
+  ],
+  "local_links_checked": 12,
+  "intervening_projection_identity": "Sterling and all six middle projections match actual Records",
+  "remaining": "Root workspace integration, tool-generated Render Input identity and final term-wide validation; no render requested"
+}

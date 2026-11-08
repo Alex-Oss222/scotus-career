@@ -1,0 +1,32 @@
+{
+  "record": "United_States_v_Valentine_merits_2001-05-14.md",
+  "sha256": "805756afad7d18a8d0a949d29691deb34df42d969c3e43c49e90046d446d5ccb",
+  "four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    193,
+    178,
+    181
+  ],
+  "opinion_table_width": true,
+  "public_workflow_scan": true,
+  "manual_vote_and_join_arithmetic": "passed at supported proposition scope",
+  "earlier_law_comparison": "The approved inventory and neutral packet supply merits-stage review of both questions on the organizational date May 14, 2001. The authorized present event is taken on merits submission, without a separately reconstructed oral argument or earlier grant action. This procedural form is a scheduling premise of the supplied merits review, not a claimed historical Supreme Court docket or hearing; no filing, notice, waiver, disputed deadline or new evidence is invented. All nine participate at submission and decision, satisfying quorum, with five required. The lawful review is appellate review of the federal court of appeals' suppression judgment in the inventoried merits matter. The public entry identifies the lower docket and does not invent a Supreme Court docket.\n\nThe frozen neutral and clarification supplement, VALENTINE entering slice, original reconciliation and fresh `freeze/OT_2000CHUNK5_VALENTINE_JOIN_AUDIT.md` establish the sources and exact final scope. No genuine factual dispute or mandatory evidentiary hearing is supplied by the published record. The four vacatur Associates' new affirmative permitting proposition has the required clean audit; it is not self-certified in assembly.\n\n`tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` supplies actual earlier law. Atwater regulates additional transport and confinement after conceded probable cause for an observed fine-only offense. Its functional rule and fractured application do not answer initial Terry suspicion, whether Valentine submitted or what facts preceded the first seizure. Its supported-record discipline is consistent with the bounded existing-record return but supplies no new factual premise. Sterling's confidentiality/immunity, Sandoval's Title VI action, Daniels's collateral-review channel, Randell's civil invalidation exception and C & L's tribal confirmation waiver likewise change none of the relevant suspicion, licensing or timing grounds. Same-date rulings are not substantive entering law; Coss has no outcome. No material premise change requires renewed modeling. Research cutoff: immediately before May 14, 2001.",
+  "assignment": "Form first: one signed merits opinion on both presented questions and the preserved bare-presumption issue, with one dissent. The exact scope is supported by the frozen handoff and fresh audit before counting; no part is added or divided to affect eligibility. The supplied merits-stage submission supports a signed lead; no petition-stage summary posture or inferred historical argument is used. Chief Justice Stone-Zsela is in the judgment majority and assigns.\n\nThe fresh actual-table recount in `runtime/OT_2000CHUNK5_ASSIGNMENT_BEFORE_VALENTINE.json` gives Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 6; Kennedy 6; Souter 6; Thomas 6; Ginsburg 7; Breyer 7. Last counted event: United States v. Oakland Cannabis Buyers' Cooperative, May 14, 2001. Eligible authors for the complete lead: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. The minimum is 6 and ceiling 7, so all five are in the pool.\n\nThe Chief selects Stevens, count 6, for fit. His actual J. L. opinion directly handles the essential distinction between reliable identification/possession and a reliable indication of unlawful conduct, including concrete rather than exclusively predictive assurances. His Wardlow and Ornelas joins support the totality and existing-record boundaries. He can state the audited licensing clarification without turning it into a categorical gun or verification rule and coordinate it with the actual-submission analysis. Souter at the same count is a strong alternative on successive-intrusion timing; Stevens offers the more direct fit to the report-versus-wrongdoing issue that structures the first two holdings. Ginsburg and Breyer can carry the same formulation but have higher counts without a necessary unique accommodation. Stone has the same count but no concrete authorial advantage over Stevens for this task. Final complete joins satisfy the eligibility assumptions; historical authorship is nonexistent and unused. The signed lead counts once.",
+  "whole_term_publication": "pending control",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
+  "file_bytes_sha256": "8e0537b6687922ec889c3a1fa8e8cd9770a1994ee2e5e1d47674dc53ff1f4415"
+}

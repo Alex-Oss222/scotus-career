@@ -1,0 +1,189 @@
+{
+  "sources": [
+    {
+      "stage": "COMMITMENTS",
+      "case": "Alexander v. Sandoval",
+      "file": "OT_2000CHUNK5_COMMITMENTS_SANDOVAL.md",
+      "sha256": "5964a6b2943ae066b59f2a9c91d2f6fa26f0fef03cc18ec39f51d2c29ce6dbde"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Atwater v. City of Lago Vista",
+      "file": "OT_2000CHUNK5_COMMITMENTS_ATWATER_REFRESH.md",
+      "sha256": "da4bcf76f219813df45bb5f4da09de7bee80be690f057c6c9d87fb52f086b663"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Sterling v. Borough of Minersville",
+      "file": "OT_2000CHUNK5_COMMITMENTS_STERLING.md",
+      "sha256": "264d10e921870513e42462c4bf8d94378d45a4800b6dbcadeaef95f26c6d529c"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Daniels v. United States",
+      "file": "OT_2000CHUNK5_COMMITMENTS_DANIELS.md",
+      "sha256": "ac77f1b09cb3022f5fb8dd145c331b2ad0b07f66e8667a806977a5ef26c6e57b"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Lackawanna County District Attorney v. Coss",
+      "file": "OT_2000CHUNK5_COMMITMENTS_COSS_REFRESH.md",
+      "sha256": "1cfe8fd82c89a673c62ce785876020a8c562787134957bef75415b4b6cbd17c8"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Randell v. Johnson",
+      "file": "OT_2000CHUNK5_COMMITMENTS_RANDELL.md",
+      "sha256": "00487a1bd8ca1484b752fa94a86d7937303a44b8c93c80061f22b12b0353cd6c"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "C & L Enterprises",
+      "file": "OT_2000CHUNK5_COMMITMENTS_CL.md",
+      "sha256": "d5eb7b2bb9059dad43b6e602debafed639a6ba36e2b897b6fcd30727170c61f5"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Cooper Industries",
+      "file": "OT_2000CHUNK5_COMMITMENTS_COOPER.md",
+      "sha256": "e508ef4aeae58306b728e9e59aa50d77f3f329eb46badeb5b7bb71b9d717535c"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Major League Baseball Players Association v. Garvey",
+      "file": "OT_2000CHUNK5_COMMITMENTS_GARVEY.md",
+      "sha256": "d7a8598ef9241409c452da779004ec48291629a0f0e4858c1fcbee86f80c7e79"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Rogers v. Tennessee",
+      "file": "OT_2000CHUNK5_COMMITMENTS_ROGERS.md",
+      "sha256": "39ac8e9991a608269439cf11c3d29ccafbf93e7d23873ff4440be4e188d9ce3d"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "United States v. Oakland Cannabis Buyers Cooperative",
+      "file": "OT_2000CHUNK5_COMMITMENTS_OAKLAND.md",
+      "sha256": "190bb75bbc32a6eb389f78801ad33d71b896f1b5ccaf00a74b08482a6ca088fc"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "United States v. Valentine",
+      "file": "OT_2000CHUNK5_COMMITMENTS_VALENTINE.md",
+      "sha256": "eb214f0d258f5c2e8af1a05342f45f1618f6235e67d1e1a309cc6b433401e279"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "case": "Bartnicki v. Vopper / United States v. Vopper",
+      "file": "OT_2000CHUNK5_COMMITMENTS_bartnicki.md",
+      "sha256": "c9b5a190b1bfcb5c19b5820740181de24b7dca8e3e389541395a162c2b29e3ab"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Alexander v. Sandoval",
+      "file": "OT_2000CHUNK5_RECONCILED_SANDOVAL.md",
+      "sha256": "d3ab79b1d4395a070f5b322dc720974ba6d092ed6f49813a71000e2d2f4d58d3"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Atwater v. City of Lago Vista",
+      "file": "OT_2000CHUNK5_RECONCILED_ATWATER_REFRESH.md",
+      "sha256": "6a03c539fc890308fd4a62cb4b17ca1dcfe4269d2843010cc00b1736fa1b149d"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Atwater v. City of Lago Vista",
+      "file": "OT_2000CHUNK5_ATWATER_JOIN_AUDIT.md",
+      "sha256": "cf533146ca2bad0f5e479e92ee436ff34be05f5bb09f6b9c7e5d9301731f85d8"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Sterling v. Borough of Minersville",
+      "file": "OT_2000CHUNK5_RECONCILED_STERLING.md",
+      "sha256": "9c84c4039c1341310a175827c3d2dddf077e689ee1bdc5b4e511592490c0ebde"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Daniels v. United States",
+      "file": "OT_2000CHUNK5_RECONCILED_DANIELS.md",
+      "sha256": "9544fbe384043810b2997a439ef4d22083f1a389f2ae783af19dd7b7af69838b"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Lackawanna County District Attorney v. Coss",
+      "file": "OT_2000CHUNK5_RECONCILED_COSS_REFRESH.md",
+      "sha256": "34d9329d7e8bcc94e0267736b59c0616e9ad7b2ae8ad66d980dbf60d0eb39015"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Lackawanna County District Attorney v. Coss",
+      "file": "OT_2000CHUNK5_COSS_JOIN_AUDIT.md",
+      "sha256": "8d5ffd0b15e3f87188ce6ffdfc49de33ed286fc0ef05185f8eb3386d1a48c3e6"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Randell v. Johnson",
+      "file": "OT_2000CHUNK5_RECONCILED_RANDELL.md",
+      "sha256": "078e1e0d901d536cae5990c506c2029a6fd6f053dced89e37b35f5ff650ef091"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "C & L Enterprises",
+      "file": "OT_2000CHUNK5_RECONCILED_CL.md",
+      "sha256": "15a2d4762542e7dd64b5c79ecf122c37fa55e7818662d1085da0f75068d5feca"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Cooper Industries",
+      "file": "OT_2000CHUNK5_RECONCILED_COOPER.md",
+      "sha256": "2a480dda5b8010090fbe7eb22a79fa07d50c8416717bdb67267f0ef5c1ec717e"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Major League Baseball Players Association v. Garvey",
+      "file": "OT_2000CHUNK5_RECONCILED_GARVEY.md",
+      "sha256": "193dee836fa43b62b00e993c782a738e119e413d0c6b96033b9dc724c3c1fdb4"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Major League Baseball Players Association v. Garvey",
+      "file": "OT_2000CHUNK5_CERT_RECONCILED_GARVEY.md",
+      "sha256": "80624ff36ed5a8d3042b5c83be4fb7c99c2f8a519b17a402763b6954a539c3f4"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Rogers v. Tennessee",
+      "file": "OT_2000CHUNK5_RECONCILED_ROGERS.md",
+      "sha256": "bbcebd75c534b66a96a75cc7a0a8431386091e30733586a25e6a477bdb6990d2"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "United States v. Oakland Cannabis Buyers Cooperative",
+      "file": "OT_2000CHUNK5_RECONCILED_OAKLAND.md",
+      "sha256": "960c8fec96a83e18ded48d781e9cf675b9f7948f6b897c2326c7dfc0fdfec170"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "United States v. Valentine",
+      "file": "OT_2000CHUNK5_RECONCILED_VALENTINE.md",
+      "sha256": "951203e656876b8b932437d4e69f58f1e08601b1999b21bb989fc7113c360ac5"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "United States v. Valentine",
+      "file": "OT_2000CHUNK5_VALENTINE_JOIN_AUDIT.md",
+      "sha256": "52a786531422600cc639df794f2b1a5cffb4d0fcc74596c290a08be849d44239"
+    },
+    {
+      "stage": "RECONCILED",
+      "case": "Bartnicki v. Vopper / United States v. Vopper",
+      "file": "OT_2000CHUNK5_RECONCILED_BARTNICKI.md",
+      "sha256": "72c3a6e41100d4cef86b17ef9005954469dcbd608cdc46198aa5fc44124fbec0"
+    }
+  ],
+  "separate_stone_certiorari": "OT_2000CHUNK5_STONE_CERT_GARVEY.md",
+  "stopped": {
+    "United States v. Hatter": "The supplied review presupposes a 1996 no-quorum disposition under 28 U.S.C. section 2109, but no authorized in-world entry or operative mandate for that action was found in the targeted continuity check. The historical disposition at 519 U.S. 801 alone cannot establish a post-divergence Court action. An existing authorized disposition and its scope, or an approved revised procedural premise and matching controlled position, is required before this matter can proceed.",
+    "Lackawanna County District Attorney v. Coss": "The supported positions do not establish the required majority for one exact judgment and mandatory remand. The proposed common disposition failed the final join audit, and the narrower supported alternative is not compatible with every position needed for a majority. Further lawful consideration establishing a supported common disposition, or authorization for an appropriate subsequent procedural step, is required. No judgment, equal division, opinion assignment or new Court order has been entered."
+  }
+}

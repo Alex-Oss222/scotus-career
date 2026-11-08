@@ -1,0 +1,30 @@
+{
+  "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+  "sha256": "1ba986f3bbcef1c0f8ba4554cc5966ad8d9f1eaf59f6590d8ee09f63b3c203b9",
+  "four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    229
+  ],
+  "opinion_table_width": true,
+  "public_workflow_scan": true,
+  "manual_vote_and_join_arithmetic": "passed at supported proposition scope",
+  "earlier_law_comparison": "Plenary certiorari review follows the supplied and verified February 26 argument and May 14 decision dates. All nine participate, satisfying quorum, with five necessary for controlling law. The frozen Cooper neutral and reconciliation, later preflight and COOPER entering-law slice provide actual BMW, Gasperini, Bajakajian, Ornelas, Oberg, TXO, TrafFix and Buford. Their exact legal/factual and statutory-task boundaries remain intact.\n\n`tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` copies the six actual completed earlier chunk events, excluding same-date decisions. Sandoval's Title VI action, Atwater's additional custody rule, Sterling's confidentiality and immunity, Daniels's collateral-review channel, Randell's civil invalidation exception, and C & L's express tribal confirmation waiver alter no punitive-review premise, factual protection, limited grant or remedy. No material change requires a new clean stage. May 14 alphabetical processing affects only assignment counts, not substantive entering law; Coss remains stopped. Research cutoff: immediately before May 14, 2001.",
+  "assignment": "Form first: one signed Court opinion confined to the granted standard, with the source reservation and opposing allocation stated separately. Seven share the actual reasoning before any count or author is considered. Stone is outside the tentative judgment majority, so senior Associate Justice Stevens assigns under his own priorities; the Chief's mandatory pool selection does not bind this assignment.\n\nThe fresh recount in `runtime/OT_2000CHUNK5_ASSIGNMENT_BEFORE_COOPER.json` derives every count from actual earlier opinion tables. Counts: Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 5; Kennedy 6; Souter 6; Thomas 5; Ginsburg 7; Breyer 6. Last counted: C & L Enterprises, April 30, 2001. Eligible authors for the whole bounded opinion: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The count-based pool, reported for transparency though not binding on Stevens, is Stevens, Scalia, Kennedy, Souter, Thomas and Breyer, with minimum 5 and ceiling 6.\n\nStevens selects Thomas, count 5. The legal work is a disciplined division of independent constitutional application from protected facts while treating BMW as settled for the grant. Thomas's actual Bajakajian and Ornelas joins and his reconciled willingness to apply the existing BMW premise support every proposition. Assigning him the bounded review opinion permits the majority to state the common rule precisely without renewing the contested substantive foundation; his own objection remains in the separate concurrence. This is consistent with Stevens's support for independent review and institutional allocation, not an attribution of agreement with Thomas's source objection. Stevens and Breyer are capable alternatives for the same functional task, but no accommodation requires either to write. Historical authorship is unused. The final full joins satisfy the chosen form, and this signed lead counts once.",
+  "whole_term_publication": "pending control",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
+  "file_bytes_sha256": "1c537269979e558418b18f92ff8d3e9b21bdfa04a8be0591ad113a67a1deb95b"
+}

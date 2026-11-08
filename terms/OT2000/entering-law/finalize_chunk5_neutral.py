@@ -1,0 +1,20 @@
+from pathlib import Path
+import re
+import hashlib
+
+base=Path(__file__).resolve().parents[1]
+memo=base/'entering-law/OT_2000CHUNK5_PREFLIGHT_LATER.md'
+extra=(base/'sources/chunk5-control/Oakland-neutral-order-extract.txt').read_text(encoding='utf-8')
+t=memo.read_text(encoding='utf-8')
+t+='\n## Sanitized Oakland lower-order terms\n\n'+extra+'\n'
+t+='\n## Verified argument chronology\n\nControl extracted the following objective caption dates from the respective official reports. These dates supply no prior grant action, present result or participation reason.\n\n| Matter | Argued |\n|---|---|\n| Alexander v. Sandoval | January 16, 2001 |\n| Atwater v. City of Lago Vista | December 4, 2000 |\n| Daniels v. United States | January 8, 2001 |\n| Lackawanna County District Attorney v. Coss | February 20, 2001 |\n| C & L Enterprises | March 19, 2001 |\n| Cooper Industries | February 26, 2001 |\n| Rogers v. Tennessee | November 1, 2000 |\n| Oakland Cannabis Buyers Cooperative | March 28, 2001 |\n\nBartnicki and Hatter argument dates are already in their neutral entries. Garvey has no authenticated argued merits hearing in the supplied packet; no date is invented. Sterling, Randell and Valentine have no authenticated Supreme Court argument date in these inputs; submission remains a scheduling matter to be identified by the operator if needed, without inventing a historical hearing.\n'
+memo.write_text(t.rstrip()+'\n',encoding='utf-8')
+source=(base/'runtime/OT_2000CHUNK5_NEUTRAL.md').read_text(encoding='utf-8')
+cases=re.split(r'(?m)(?=^# (?!SECTION|OT_))',source)[1:]
+ready=[c for c in cases if c.splitlines()[0]!='# United States v. Hatter']
+assert len(cases)==14 and len(ready)==13
+header='# OT_2000CHUNK5 — frozen ready neutral selection\n\nThirteen entries are copied verbatim from the refreshed split. United States v. Hatter is excluded because its prior in-world no-quorum action and mandate remain unsupported. Read with the two neutral preparation receipts in `entering-law/OT_2000CHUNK5_PREFLIGHT_APR24_25.md` and `entering-law/OT_2000CHUNK5_PREFLIGHT_LATER.md`, which supply current-law updates, source completions and exact limits. This freeze supplies no adjudication or commitment.\n\n'
+(base/'freeze/OT_2000CHUNK5_NEUTRAL.md').write_text(header+'\n'.join(ready).rstrip()+'\n',encoding='utf-8')
+receipt='# OT2000 chunk 5 neutral freeze validation\n\n**Ready:** Thirteen matters; all supplied matters except United States v. Hatter.\n\n**Stopped:** Hatter requires an authorized in-world 1996 no-quorum disposition and its operative mandate, or express authority for a bounded chronology correction and continuity review. Historical 519 U.S. 801 cannot be imported as an in-world Court action. No Hatter commitment, new order or terminal closure is supplied.\n\n**Copy validation:** All thirteen source case sections are copied without substantive alteration. The source remains the freshly generated neutral runtime file; the full approved brief was not opened. Addenda and authority slices are separate from the immutable input.\n\n**Source digest:** SHA-256 of the full neutral runtime bytes: '+hashlib.sha256((base/'runtime/OT_2000CHUNK5_NEUTRAL.md').read_bytes()).hexdigest()+'.\n\n**Boundary:** No current-case disposition, lineup, historical comparator, private position supplement or adjudicative annex was opened. Control supplied only sanitized objective participation, lower-order terms, lower-opinion verification and caption dates. No independent commitment is created by this receipt.\n\n**Entering law:** Matter-specific slices were produced with the repository builder for reusable standards and script copies of selected opening holdings, earlier public decisions and current neutral-projection sections. Read the two preparation receipts for exact selections and current-term updates. April 24, April 25 and May 21 same-date rules remain operative. Refresh affected later matters after current-chunk decisions actually become effective.\n'
+(base/'freeze/OT_2000CHUNK5_NEUTRAL_VALIDATION.md').write_text(receipt,encoding='utf-8')
+print('Ready neutral freeze: 13 exact case sections; Hatter explicitly excluded.')

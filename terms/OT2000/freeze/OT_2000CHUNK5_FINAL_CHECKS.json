@@ -1,0 +1,457 @@
+{
+  "mode": "final clerical inspection",
+  "status": "CLERICAL_CHECKS_PASSED_WITH_STATED_LIMITS",
+  "errors": [],
+  "pending": [],
+  "checks": [
+    "Current Record census: 68 total; 12 chunk5",
+    "Immutable handoff hash and runtime pair checks: 30",
+    "Approved-brief runtime split freshness checked with read-only --check",
+    "New-artifact local links inspected: 2257"
+  ],
+  "manual_review_and_limits": [
+    "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md: balance-pool wording needs manual comparison with declared eligibility",
+    "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md: explicit selected-author field absent; actual tables counted",
+    "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md: balance-pool wording needs manual comparison with declared eligibility",
+    "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md: explicit selected-author field absent; actual tables counted",
+    "Legal substance, eligibility decisions, coalition feasibility, precedent treatment and remedies are not script-verified.",
+    "Named arithmetic checks cover explicit parsed components and table cells; they do not infer unpublished votes, partial-join meaning or controlling status.",
+    "Randell_v_Johnson_merits_2001-04-25.md: balance-pool wording needs manual comparison with declared eligibility",
+    "Repository object existence, commitment order and provenance remain DEFERRED; no repository command is invoked by this checker.",
+    "Rogers_v_Tennessee_merits_2001-05-14.md: balance-pool wording needs manual comparison with declared eligibility",
+    "Rogers_v_Tennessee_merits_2001-05-14.md: explicit selected-author field absent; actual tables counted",
+    "Run the existing bounded chunk5_run_tools.py check separately after integration; this checker does not claim that whole-term check.",
+    "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md: balance-pool wording needs manual comparison with declared eligibility",
+    "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md: explicit selected-author field absent; actual tables counted",
+    "United_States_v_Valentine_merits_2001-05-14.md: balance-pool wording needs manual comparison with declared eligibility",
+    "United_States_v_Valentine_merits_2001-05-14.md: explicit selected-author field absent; actual tables counted",
+    "Verbatim workspace snapshots and derived tracker extracts retain source-relative links; those targets were checked in their original workspace/state directory context, not as relocated browser links."
+  ],
+  "assignment_checks": [
+    {
+      "record": "Alexander_v_Sandoval_merits_2001-04-24.md",
+      "actual_lead_authors": [
+        "Stone-Zsela"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-23",
+        "case": "Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle",
+        "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle",
+        "resolved_record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+        "date": "2001-04-23"
+      },
+      "pool_check": "pool arithmetic checked using declared eligibility; eligibility not adjudicated"
+    },
+    {
+      "record": "Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md",
+      "actual_lead_authors": [
+        "Ginsburg"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-24",
+        "case": "Alexander v. Sandoval",
+        "record": "Alexander_v_Sandoval_merits_2001-04-24.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Alexander v. Sandoval",
+        "resolved_record": "Alexander_v_Sandoval_merits_2001-04-24.md",
+        "date": "2001-04-24"
+      },
+      "pool_check": "pool arithmetic checked using declared eligibility; eligibility not adjudicated"
+    },
+    {
+      "record": "Bartnicki_v_Vopper_United_States_v_Vopper_merits_2001-05-21.md",
+      "actual_lead_authors": [
+        "Kennedy"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "last_counted": {
+        "date": "2001-05-14",
+        "case": "United States v. Valentine",
+        "record": "United_States_v_Valentine_merits_2001-05-14.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "United States v. Valentine",
+        "resolved_record": "United_States_v_Valentine_merits_2001-05-14.md",
+        "date": "2001-05-14"
+      },
+      "pool_check": "pool arithmetic checked using declared eligibility; eligibility not adjudicated"
+    },
+    {
+      "record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+      "actual_lead_authors": [
+        "Kennedy"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 6,
+        "Thomas": 5,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-25",
+        "case": "Randell v. Johnson",
+        "record": "Randell_v_Johnson_merits_2001-04-25.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Randell v. Johnson",
+        "resolved_record": "Randell_v_Johnson_merits_2001-04-25.md",
+        "date": "2001-04-25"
+      },
+      "pool_check": "not mechanically parsed"
+    },
+    {
+      "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+      "actual_lead_authors": [
+        "Thomas"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 5,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-30",
+        "case": "C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma",
+        "record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "C & L Enterprises",
+        "resolved_record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+        "date": "2001-04-30"
+      },
+      "pool_check": "not mechanically parsed"
+    },
+    {
+      "record": "Daniels_v_United_States_merits_2001-04-25.md",
+      "actual_lead_authors": [
+        "O'Connor"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 6,
+        "Thomas": 5,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-24",
+        "case": "Sterling v. Borough of Minersville",
+        "record": "Sterling_v_Borough_of_Minersville_merits_2001-04-24.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Sterling v. Borough of Minersville",
+        "resolved_record": "Sterling_v_Borough_of_Minersville_merits_2001-04-24.md",
+        "date": "2001-04-24"
+      },
+      "pool_check": "pool arithmetic checked using declared eligibility; eligibility not adjudicated"
+    },
+    {
+      "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+      "actual_lead_authors": [],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-05-14",
+        "case": "Cooper Industries, Inc. v. Leatherman Tool Group, Inc.",
+        "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Cooper Industries",
+        "resolved_record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+        "date": "2001-05-14"
+      },
+      "pool_check": "not mechanically parsed"
+    },
+    {
+      "record": "Randell_v_Johnson_merits_2001-04-25.md",
+      "actual_lead_authors": [
+        "Stone-Zsela"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 6,
+        "Thomas": 5,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-25",
+        "case": "Daniels v. United States",
+        "record": "Daniels_v_United_States_merits_2001-04-25.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Daniels v. United States",
+        "resolved_record": "Daniels_v_United_States_merits_2001-04-25.md",
+        "date": "2001-04-25"
+      },
+      "pool_check": "not mechanically parsed"
+    },
+    {
+      "record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+      "actual_lead_authors": [
+        "Breyer"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-05-14",
+        "case": "Cooper Industries, Inc. v. Leatherman Tool Group, Inc.",
+        "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Cooper Industries",
+        "resolved_record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+        "date": "2001-05-14"
+      },
+      "pool_check": "not mechanically parsed"
+    },
+    {
+      "record": "Sterling_v_Borough_of_Minersville_merits_2001-04-24.md",
+      "actual_lead_authors": [
+        "Souter"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last_counted": {
+        "date": "2001-04-24",
+        "case": "Atwater v. City of Lago Vista",
+        "record": "Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Atwater v. City of Lago Vista",
+        "resolved_record": "Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md",
+        "date": "2001-04-24"
+      },
+      "pool_check": "pool arithmetic checked using declared eligibility; eligibility not adjudicated"
+    },
+    {
+      "record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+      "actual_lead_authors": [
+        "Scalia"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "last_counted": {
+        "date": "2001-05-14",
+        "case": "Rogers v. Tennessee",
+        "record": "Rogers_v_Tennessee_merits_2001-05-14.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "Rogers v. Tennessee",
+        "resolved_record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+        "date": "2001-05-14"
+      },
+      "pool_check": "not mechanically parsed"
+    },
+    {
+      "record": "United_States_v_Valentine_merits_2001-05-14.md",
+      "actual_lead_authors": [
+        "Stevens"
+      ],
+      "preassignment_counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 6,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 7
+      },
+      "last_counted": {
+        "date": "2001-05-14",
+        "case": "United States v. Oakland Cannabis Buyers' Cooperative",
+        "record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md"
+      },
+      "last_statement": "identity and date match",
+      "last_statement_resolution": {
+        "status": "identity and date match",
+        "claimed_caption": "United States v. Oakland Cannabis Buyers' Cooperative",
+        "resolved_record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+        "date": "2001-05-14"
+      },
+      "pool_check": "not mechanically parsed"
+    }
+  ],
+  "arithmetic_coverage": [
+    {
+      "record": "Alexander_v_Sandoval_merits_2001-04-24.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 2
+    },
+    {
+      "record": "Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 5
+    },
+    {
+      "record": "Bartnicki_v_Vopper_United_States_v_Vopper_merits_2001-05-21.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 3
+    },
+    {
+      "record": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 1
+    },
+    {
+      "record": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 3
+    },
+    {
+      "record": "Daniels_v_United_States_merits_2001-04-25.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 5
+    },
+    {
+      "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 4
+    },
+    {
+      "record": "Randell_v_Johnson_merits_2001-04-25.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 3
+    },
+    {
+      "record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 4
+    },
+    {
+      "record": "Sterling_v_Borough_of_Minersville_merits_2001-04-24.md",
+      "judgment_components_checked": 2,
+      "opinion_rows_checked": 5
+    },
+    {
+      "record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 1
+    },
+    {
+      "record": "United_States_v_Valentine_merits_2001-05-14.md",
+      "judgment_components_checked": 1,
+      "opinion_rows_checked": 2
+    }
+  ],
+  "record_counts": {
+    "term": 68,
+    "chunk5": 12
+  },
+  "repository_commands_run": 0
+}

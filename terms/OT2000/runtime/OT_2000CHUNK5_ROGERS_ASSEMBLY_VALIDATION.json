@@ -1,0 +1,32 @@
+{
+  "record": "Rogers_v_Tennessee_merits_2001-05-14.md",
+  "sha256": "910255ffd0617063fe39a3b9c8685498ed49eab71519cea352c6b949a98199bb",
+  "four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    212,
+    102
+  ],
+  "opinion_table_width": true,
+  "public_workflow_scan": true,
+  "manual_vote_and_join_arithmetic": "passed at supported proposition scope",
+  "earlier_law_comparison": "The supplied and verified chronology establishes plenary certiorari review, argument November 1, 2000 and decision May 14, 2001. All nine participate, satisfying quorum; five are required. The frozen neutral, ROGERS entering slice and reconciled handoff preserve Tennessee's authoritative survival determination, the undisputed interval and the distinction between causal medical evidence and the legal limitation. Actual Lanier, Carmell and Fiore have their stated distinct scopes. The relevant notice date is May 6, 1994; research and governing-law cutoff is immediately before May 14, 2001.\n\nThe six earlier public projections copied in `tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` change no judicial-retroactivity, conduct-time warning, state-law or remedy premise. Sandoval concerns a Title VI action; Atwater concerns additional custody after probable cause; Sterling's conduct-date immunity remains consistent with, and does not replace, Lanier's notice method; Daniels and Randell address review channels and have no new offense-retroactivity rule; C & L concerns tribal confirmation consent. The same-date Cooper and Garvey dispositions are excluded as substantive entering law. Coss supplies no outcome. No material premise correction requires renewed modeling.",
+  "assignment": "Form first: signed lead on the shared case-specific warning ground, with a distinct framework concurrence, additional structural concurrence and affirming dissent. The broader theories do not enter the lead to make its coalition appear more unified. This form and all governing propositions precede the count. The Chief is within the judgment majority and assigns the bounded lead.\n\nThe fresh actual-table recount in `runtime/OT_2000CHUNK5_ASSIGNMENT_BEFORE_ROGERS.json` gives Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 5; Kennedy 6; Souter 6; Thomas 6; Ginsburg 7; Breyer 6. Last counted event: Cooper Industries, May 14, 2001; Garvey is excluded as summary per curiam. Eligible authors for every lead proposition: Stone-Zsela, Stevens, Scalia, Thomas and Breyer. The minimum is 5 and the ceiling 6, so all five are in the balance pool.\n\nThe Chief selects Breyer, count 6, under expansion. The identifiable formulation issue is keeping the independently sufficient case-specific warning ground separate from the stronger structural objection so that his necessary fifth reversal join remains faithful, while preserving the other four Justices' sufficient ground. Breyer's frozen position supplies that accommodation directly. His authorship offers a concrete advantage in stating what the shared analysis does and does not require; his separate concurrence makes his framework agreement explicit without attributing it to the lead's other joiners. Scalia, count 5, is the strongest lower-count alternative and can write the shared ground, but his additional structural account creates no need to prefer him over the pool member whose precise distinction preserves the necessary join. Stone has the same count and can express the limited legal-boundary rule, but has no greater advantage in articulating Breyer's distinct framework relationship. No numerical margin alone, historical authorship or subject interest determines the selection. Final compatibility confirms every full lead join; the signed lead counts once, and the separate writings do not count.",
+  "whole_term_publication": "pending control",
+  "bounded_fidelity_receipt": "runtime/OT_2000CHUNK5_MIDDLE_FIDELITY_REPAIRS.json",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
+  "file_bytes_sha256": "aad2432ca706029ad8540f1124eb9590cd02f2438d5dc4112a0d7bcb2e16ba9b"
+}

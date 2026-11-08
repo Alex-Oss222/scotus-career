@@ -1,0 +1,75 @@
+{
+  "new_events": 12,
+  "term_events": 68,
+  "remaining_inventory": 46,
+  "stopped": {
+    "United States v. Hatter": "The supplied review presupposes a 1996 no-quorum disposition under 28 U.S.C. section 2109, but no authorized in-world entry or operative mandate for that action was found in the targeted continuity check. The historical disposition at 519 U.S. 801 alone cannot establish a post-divergence Court action. An existing authorized disposition and its scope, or an approved revised procedural premise and matching controlled position, is required before this matter can proceed.",
+    "Lackawanna County District Attorney v. Coss": "The supported positions do not establish the required majority for one exact judgment and mandatory remand. The proposed common disposition failed the final join audit, and the narrower supported alternative is not compatible with every position needed for a majority. Further lawful consideration establishing a supported common disposition, or authorization for an appropriate subsequent procedural step, is required. No judgment, equal division, opinion assignment or new Court order has been entered."
+  },
+  "latest": "2001-05-21",
+  "event_reclassifications": [
+    {
+      "case": "Major League Baseball Players Association v. Garvey",
+      "scheduled": "Merits decision",
+      "completed": "Certiorari grant and summary merits disposition",
+      "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md"
+    },
+    {
+      "case": "United States v. Valentine",
+      "scheduled": "Merits decision",
+      "completed": "Merits submission and decision",
+      "record": "United_States_v_Valentine_merits_2001-05-14.md"
+    }
+  ],
+  "records": [
+    {
+      "file": "Alexander_v_Sandoval_merits_2001-04-24.md",
+      "sha256": "f956ef92403165ce1dfe44dce136aa881ce7f26bd8a0fae65cf9b372dedd7823"
+    },
+    {
+      "file": "Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md",
+      "sha256": "4927cae9ce6d68829c51e429ed65ae8472fbe661705174052ccf42dc337db9b0"
+    },
+    {
+      "file": "Sterling_v_Borough_of_Minersville_merits_2001-04-24.md",
+      "sha256": "cfae680e78985e2f3b4884d45e092065d41bd5d970959d6dd064aa7b12911814"
+    },
+    {
+      "file": "Daniels_v_United_States_merits_2001-04-25.md",
+      "sha256": "7b052d9a145d2bf47158c620e67c1c5cb14ed1e0dfa548c12f4bd9b2d12b8735"
+    },
+    {
+      "file": "Randell_v_Johnson_merits_2001-04-25.md",
+      "sha256": "e0d6b08a61b43c99cf66f3a1e5b802dfe4b100605bb1cc49eeb6337157264c13"
+    },
+    {
+      "file": "C_L_Enterprises_v_Citizen_Band_Potawatomi_Indian_Tribe_merits_2001-04-30.md",
+      "sha256": "9873a914ef8dacddfe95a4b1ec0faf5c39fb7521dd1d4729093aff6bc8e3a037"
+    },
+    {
+      "file": "Cooper_Industries_v_Leatherman_Tool_Group_merits_2001-05-14.md",
+      "sha256": "1c537269979e558418b18f92ff8d3e9b21bdfa04a8be0591ad113a67a1deb95b"
+    },
+    {
+      "file": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+      "sha256": "db4e3390c25c8b9c40965d112cc77a36fc0f2b1108ca5587ef4ba25e83769804"
+    },
+    {
+      "file": "Rogers_v_Tennessee_merits_2001-05-14.md",
+      "sha256": "aad2432ca706029ad8540f1124eb9590cd02f2438d5dc4112a0d7bcb2e16ba9b"
+    },
+    {
+      "file": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+      "sha256": "3b753d2b585b9c4b7416945b4e8bf076adcb897f8f6195b08c76dece5d9b9554"
+    },
+    {
+      "file": "United_States_v_Valentine_merits_2001-05-14.md",
+      "sha256": "8e0537b6687922ec889c3a1fa8e8cd9770a1994ee2e5e1d47674dc53ff1f4415"
+    },
+    {
+      "file": "Bartnicki_v_Vopper_United_States_v_Vopper_merits_2001-05-21.md",
+      "sha256": "e3f4da33d043bce30b62973dc6e031799d94d74dab26bb94a732f4ef076f2abc"
+    }
+  ],
+  "method": "Preserved cumulative opening and prior-chunk material; copied current law and procedure from the bounded Public Projections and published separate-writing sections. No independent source of law is created."
+}

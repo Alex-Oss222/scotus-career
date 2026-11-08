@@ -1,0 +1,86 @@
+{
+  "sandoval": {
+    "caption": "Alexander v. Sandoval",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_sandoval.md",
+    "STONE": "OT_2000CHUNK5_STONE_sandoval.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_sandoval.md"
+  },
+  "atwater": {
+    "caption": "Atwater v. City of Lago Vista",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_atwater.md",
+    "STONE": "OT_2000CHUNK5_STONE_atwater.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_atwater.md"
+  },
+  "sterling": {
+    "caption": "Sterling v. Borough of Minersville",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_sterling.md",
+    "STONE": "OT_2000CHUNK5_STONE_sterling.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_sterling.md"
+  },
+  "daniels": {
+    "caption": "Daniels v. United States",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_daniels.md",
+    "STONE": "OT_2000CHUNK5_STONE_daniels.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_daniels.md"
+  },
+  "coss": {
+    "caption": "Lackawanna County District Attorney v. Coss",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_coss.md",
+    "STONE": "OT_2000CHUNK5_STONE_coss.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_coss.md"
+  },
+  "randell": {
+    "caption": "Randell v. Johnson",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_randell.md",
+    "STONE": "OT_2000CHUNK5_STONE_randell.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_randell.md"
+  },
+  "cl": {
+    "caption": "C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_cl.md",
+    "STONE": "OT_2000CHUNK5_STONE_cl.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_cl.md"
+  },
+  "cooper": {
+    "caption": "Cooper Industries, Inc. v. Leatherman Tool Group, Inc.",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_cooper.md",
+    "STONE": "OT_2000CHUNK5_STONE_cooper.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_cooper.md"
+  },
+  "rogers": {
+    "caption": "Rogers v. Tennessee",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_rogers.md",
+    "STONE": "OT_2000CHUNK5_STONE_rogers.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_rogers.md"
+  },
+  "oakland": {
+    "caption": "United States v. Oakland Cannabis Buyers' Cooperative",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_oakland.md",
+    "STONE": "OT_2000CHUNK5_STONE_oakland.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_oakland.md"
+  },
+  "garvey": {
+    "caption": "Major League Baseball Players Assn. v. Garvey",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_garvey.md",
+    "STONE": "OT_2000CHUNK5_STONE_garvey.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_garvey.md"
+  },
+  "valentine": {
+    "caption": "United States v. Valentine",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_valentine.md",
+    "STONE": "OT_2000CHUNK5_STONE_valentine.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_valentine.md"
+  },
+  "bartnicki": {
+    "caption": "Bartnicki v. Vopper / United States v. Vopper",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_bartnicki.md",
+    "STONE": "OT_2000CHUNK5_STONE_bartnicki.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_bartnicki.md"
+  },
+  "hatter": {
+    "caption": "United States v. Hatter",
+    "NEUTRAL": "OT_2000CHUNK5_NEUTRAL_hatter.md",
+    "STONE": "OT_2000CHUNK5_STONE_hatter.md",
+    "COMPARATOR": "OT_2000CHUNK5_COMPARATOR_hatter.md"
+  }
+}

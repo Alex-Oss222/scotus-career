@@ -1,0 +1,31 @@
+{
+  "record": "United_States_v_Oakland_Cannabis_Buyers_Cooperative_merits_2001-05-14.md",
+  "sha256": "b676f7aa04b1167278182a5bec52dfd87bd9d68e3d906ea67d4ae9e6db5fd854",
+  "four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    202,
+    133
+  ],
+  "opinion_table_width": true,
+  "public_workflow_scan": true,
+  "manual_vote_and_join_arithmetic": "passed at supported proposition scope",
+  "earlier_law_comparison": "Plenary certiorari review follows the verified March 28 argument and May 14 decision dates. The frozen neutral participation supplement controls: eight participate and Breyer took no part in consideration or decision. The six-member quorum is satisfied; five participating votes are required for controlling law. No reason for Breyer's absence or vote is invented. The live injunction-modification controversy remains separate from moot contempt and the separate government appeal. No historical Supreme Court stay is imported as an entered event.\n\nThe Oakland neutral, later preflight, participation/record supplement, entering-law slice and reconciled handoff supply the exact distributor scope, four conjunctive lower conditions, actual Meghrig and Grupo Mexicano and source limitations. The six pre-May-14 public projections in `tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` alter none of the Act's authorization channels or the source-specific remedial distinction. Sandoval's action arises from Title VI read as a whole and expressly requires actual congressional authority; it creates no contrary general power to supply an exemption through relief. C & L's express immunity consent likewise supplies no medical-distribution authorization. Atwater, Sterling, Daniels and Randell address different rights, review channels and remedies. No material premise changes. Same-date events are excluded as substantive law; Coss supplies no outcome. Research cutoff: immediately before May 14, 2001.",
+  "assignment": "Form first: one signed plenary opinion resolving the statutory ground and the independently offered equitable ground within the precise distributor scope. All eight share that formulation and the complete remedy before any count or author is considered. The Chief is in the judgment majority and assigns.\n\nThe fresh actual-table recount in `runtime/OT_2000CHUNK5_ASSIGNMENT_BEFORE_OAKLAND.json` gives Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 5; Kennedy 6; Souter 6; Thomas 6; Ginsburg 7; Breyer 7. Last counted: Rogers v. Tennessee, May 14, 2001. Eligible authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; Breyer is absent. Minimum eligible count 5 produces the pool Stone-Zsela, Stevens, Scalia, Kennedy, Souter and Thomas. O'Connor and Ginsburg are outside that pool by count only.\n\nThe Chief selects Scalia, count 5, for fit. The opinion must read an enacted prohibition, classification and research route together, then distinguish genuine discretion over authorized relief from creation of a substantive permission. His actual Grupo Mexicano opinion and Meghrig join directly support that legal work while the frozen Oakland commitment accepts every distributor-only limit. Souter, count 6, is a strong alternative through Meghrig and his flexible-equity position, but the accommodated scope is already shared and requires no unique author to secure a join. Stone likewise supports the source/remedy separation but offers no concrete advantage over the lower-count author. No broadened analysis is required by Scalia's authorship; final joins are tested against the bounded text. Historical authorship is unused. The signed lead counts once.",
+  "whole_term_publication": "pending control",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
+  "file_bytes_sha256": "3b753d2b585b9c4b7416945b4e8bf076adcb897f8f6195b08c76dece5d9b9554"
+}

@@ -1,0 +1,32 @@
+{
+  "record": "Major_League_Baseball_Players_Association_v_Garvey_summary_2001-05-14.md",
+  "sha256": "bd92dbcbcb625e1a92bc9d19e34a2da8ea90c0ed0f677bd638188ad64758af55",
+  "four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    199,
+    84
+  ],
+  "opinion_table_width": true,
+  "public_workflow_scan": true,
+  "manual_vote_and_join_arithmetic": "passed at supported proposition scope",
+  "earlier_law_comparison": "This is petition-record review, not an invented plenary hearing. All nine participate, satisfying quorum. Four affirmative votes are required to grant certiorari; five are required for summary merits disposition. The grant and terminal summary action are integrated in this Record but their distinct voting predicates are separately established. The frozen merits and certiorari handoffs and the separately frozen Stone petition position are the only sources for those positions.\n\n`tmp/CHUNK5_PUBLIC_BEFORE_MAY14.md` copies the six actual earlier public projections. C & L's actual April 30 holding gives effect to express consent to judicial confirmation and preserves ordinary award defenses; it neither creates independent factual review of a conceded labor submission nor changes section 301, Misco or Enterprise Wheel. Sandoval's Title VI action, Atwater's added custody, Sterling's confidentiality, Daniels's section 2255 channel and Randell's civil invalidation exception likewise change no arbitration premise. Cooper is same-date and is not substantive entering law. Coss has no Record or outcome. No material law correction requires a new clean stage. Research cutoff: immediately before May 14, 2001.",
+  "assignment": "Form first: integrated grant and reasoned per curiam summary reversal on the petition record. A plenary signed opinion would require a proceeding not established here, and a bare order would fail to explain the controlling application and distinct additional remedy. The actual legal posture, not counts, determines this unsigned summary form. No signed lead author or counted assignment is selected.\n\nFor the chronological count check, `runtime/OT_2000CHUNK5_COUNT_BEFORE_GARVEY.json` freshly reads actual prior opinion tables: Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 5; Kennedy 6; Souter 6; Thomas 6; Ginsburg 7; Breyer 6. Last counted event: Cooper Industries, May 14, 2001. These counts determine no form or author. The per curiam disposition and its signed separate writings are excluded from section 8's lead-opinion count; no eligibility pool is applicable.",
+  "whole_term_publication": "pending control",
+  "bounded_fidelity_receipt": "runtime/OT_2000CHUNK5_MIDDLE_FIDELITY_REPAIRS.json",
+  "hash_domain": "sha256 hashes UTF-8 text normalized to LF; file_bytes_sha256 hashes exact on-disk bytes.",
+  "file_bytes_sha256": "db4e3390c25c8b9c40965d112cc77a36fc0f2b1108ca5587ef4ba25e83769804"
+}
