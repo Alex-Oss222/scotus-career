@@ -1,0 +1,44 @@
+[
+  {
+    "file": "1994-title26-sec61.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title26/html/USCODE-1994-title26-chap1-subchapB-partI-sec61.htm",
+    "sha256": "21b8ab10c467478498569557c860a8c323101d3f71f29683aae3b46f5c6e0886",
+    "characters": 15946
+  },
+  {
+    "file": "1994-title26-sec108.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title26/html/USCODE-1994-title26-chap1-subchapB-partIII-sec108.htm",
+    "sha256": "cb95d0daa86f6c986424e9b74c31ac5586ca79aa1210bc05a0594884468bdb1b",
+    "characters": 53713
+  },
+  {
+    "file": "1994-title26-sec1366.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title26/html/USCODE-1994-title26-chap1-subchapS-partII-sec1366.htm",
+    "sha256": "ef229c1ed5848e7fe21208bafeca7c86116634936d868ddb40be196e40bc24b4",
+    "characters": 10679
+  },
+  {
+    "file": "1994-title26-sec1367.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title26/html/USCODE-1994-title26-chap1-subchapS-partII-sec1367.htm",
+    "sha256": "df700d58b8a22230d954ec73d5fb834eb3455f81eeb7320e015ae45eec475e17",
+    "characters": 5166
+  },
+  {
+    "file": "2000-title33-sec1251.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title33/html/USCODE-2000-title33-chap26-subchapI-sec1251.htm",
+    "sha256": "c608de91afc8a317e109d0ddc23ac4e7dbf419f4915008ed2b25f8457f3eaed0",
+    "characters": 30938
+  },
+  {
+    "file": "2000-title33-sec1344.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title33/html/USCODE-2000-title33-chap26-subchapIV-sec1344.htm",
+    "sha256": "36e1a557fe12fba66174c021123ba721ecb546f91907187e7f2a9e7e11f7fc3c",
+    "characters": 33227
+  },
+  {
+    "file": "2000-title33-sec1362.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title33/html/USCODE-2000-title33-chap26-subchapV-sec1362.htm",
+    "sha256": "3c33825e6845823e896e68cabc7f13f7da450a4df624aa68ff47390bf5fda50a",
+    "characters": 9574
+  }
+]

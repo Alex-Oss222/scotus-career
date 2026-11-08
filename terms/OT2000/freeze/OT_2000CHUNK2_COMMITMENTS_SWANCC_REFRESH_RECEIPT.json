@@ -1,0 +1,124 @@
+{
+  "scope": "SWANCC only; fresh independent Associate Justice modeling",
+  "cutoff": "2001-01-09",
+  "created_at_utc": "2026-11-08T04:10:29.707554+00:00",
+  "status": "frozen as files; no repository command performed",
+  "mode": "fresh scoped context; no earlier current-matter commitments supplied",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/workspace/neutral-projection.md",
+      "sha256": "913e67a2f0014732e1c2321bc4d6b9ae8fd4e039750a9368ba06d2e4127ccf28"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
+      "sha256": "5336e5a6992aad9cc38ad9e004deaf7b8166ee8db1bf4cac9ffbbfa3648273fc"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
+      "sha256": "e435cf4d9bf80d8adecafed6c6f3859163f8d3c711958d807f3a56fb993e0fc5"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_positions.md",
+      "sha256": "8e68cd36e9941b1438d5149931aac2a87e337f75999b73fa229b319487646491"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_statutes.md",
+      "sha256": "5ad2f69f900b61c997890137ebbff65b0c3b3b5f067dcb01f8728b6386ce092f"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_riverside.md",
+      "sha256": "37bcc6475dd30a5029a262c279cdc411d47737798e19d59cabbf03464dafa7a2"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_homebuilders_positions.md",
+      "sha256": "2fdee8e657d07472b2430eb446f70d55c37a11ae36dcb0eed2cf602163a04e05"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md",
+      "sha256": "159a06838d2ec39950c91cc4ea1d32e75ba10c99360caea469c7ff286963f52e"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md",
+      "sha256": "7107f65e0914f792d81bbfc936d61f6c77d8375cd13c5824bb13ecf7d9ff902a"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION.md",
+      "sha256": "1d75663930f6ef214f7e2f65f875ffc079a41792d44afa93a3c60e45c2121a8d"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION_RECEIPT.json",
+      "sha256": "635e570381973930d23a86420fefd4aaf24bb88e91fe6c267b267b7701d42376"
+    },
+    {
+      "path": "terms/OT2000/sources/swancc-refresh/Holland-252-416-full.txt",
+      "sha256": "2694439c7e243d69ddef636ddbdd975c2b3490745c2280e327fffd1b1b939c1c"
+    },
+    {
+      "path": "terms/OT2000/sources/swancc-refresh/Holland-source.json",
+      "sha256": "e781606d540ce54a9956e63fe6e676d4c107d3ea05f8c99d43632f6328e942c0"
+    }
+  ],
+  "input_read_scope": {
+    "AGENTS.md": "governing task and modeling instructions",
+    "foundation/ENGINE.md": "independent-context, modeling and research rules; generic Engine text was also displayed at initial read",
+    "terms/OT2000/workspace/neutral-projection.md": "current-law, cutoff and participation projection; no linked raw Records opened",
+    "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md": "SWANCC correction and relevant argument milestone",
+    "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md": "authorized sanitized facts; SWANCC facts applied",
+    "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md": "release and source-status limits; no withheld artifacts opened",
+    "law_slices": "SWANCC governing law, positions, statutes, Riverside Bayview note and Home Builders separate writings read",
+    "neutral_addition": "complete addition and receipt read; expected addition hash verified",
+    "Holland": "complete judicial opinion read at Cornell, official reporter checked in full across bounded views; complete reporter text copied programmatically"
+  },
+  "not_opened": [
+    "earlier present-case commitments",
+    "historical comparator",
+    "reconciliation",
+    "controlled current-case position",
+    "control revalidation or exposure receipts",
+    "full brief",
+    "raw current-term Decision Records",
+    "current-matter historical Supreme Court opinion",
+    "restricted personal directory"
+  ],
+  "additional_source": {
+    "case": "Missouri v. Holland, 252 U.S. 416 (1920)",
+    "official_url": "https://www.govinfo.gov/content/pkg/USREPORTS-252/pdf/USREPORTS-252-416.pdf",
+    "parallel_url": "https://www.law.cornell.edu/supremecourt/text/252/416",
+    "scope": "Treaty holding and bounded territorial context; no current-case treaty or Commerce holding added"
+  },
+  "outputs": [
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH.md",
+      "sha256": "8a570f7bbeee4609bdcec61c69a43485fa1c49e661085535493e8d8c6b8d1951"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH.md",
+      "sha256": "8a570f7bbeee4609bdcec61c69a43485fa1c49e661085535493e8d8c6b8d1951"
+    }
+  ],
+  "checks_completed": [
+    "16 input hashes unchanged from prewrite capture",
+    "Expected neutral-addition hash matches release",
+    "All eight Associate Justice sections present exactly once",
+    "Runtime and freeze bytes identical",
+    "No forbidden service-name strings in newly authored output",
+    "No local-machine link in newly authored output",
+    "No opinion assignment or final Court majority made",
+    "Conditional constitutional stances kept separate from selected judgment positions",
+    "Report recitations, agency findings and inference kept distinct",
+    "No missing research document treated as litigant default"
+  ],
+  "substantive_validation": "Legal positions are independent modeled conclusions; scripts verify only identity and structure. Historical reconciliation and final assembly remain separate."
+}

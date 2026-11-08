@@ -1,0 +1,20 @@
+{
+  "scope": "corroborating actual prior law and public positions for Seling historical reconciliation",
+  "sources": [
+    {
+      "path": "state/holdings/criminal-procedure.md",
+      "sha256": "14d6906974e7ba023e7aea58d7299b1ca173bfbc1b8bd47423cd1efa73a0745c",
+      "selection": "lines 5705-5739"
+    },
+    {
+      "path": "terms/OT1997/output/OT_1997CHUNK2.md",
+      "sha256": "a8cffdf602ea807cd261fa7905ff8a5697613ec5df5af9d5d5b88b6b54232095",
+      "selection": "bounded Hudson public entry"
+    }
+  ],
+  "output": {
+    "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_HUDSON_RECONCILIATION.md",
+    "sha256": "d4ec30d5b7bede75e2ed0e6fb58672f5d29757573a1f9bf3ea4492f7375ac5d8",
+    "bytes": 13790
+  }
+}

@@ -1,0 +1,360 @@
+Rehearing en banc granted by order filed 6/3/99;
+published opinion filed 2/10/99 is vacated.
+
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+MELVIN I. UROFSKY; PAUL SMITH;
+BRIAN J. DELANEY; DANA HELLER;
+BERNARD H. LEVIN; TERRY L.
+MEYERS,
+Plaintiffs-Appellees,
+v.
+JAMES S. GILMORE, III, in his official
+capacity as Governor of the
+No. 98-1481
+Commonwealth of Virginia,
+Defendant-Appellant.
+AMERICAN ASSOCIATION OF
+UNIVERSITY PROFESSORS; THE
+AUTHOR'S GUILD; THE THOMAS
+JEFFERSON CENTER FOR THE
+PROTECTION OF FREE EXPRESSION,
+Amici Curiae.
+Appeal from the United States District Court
+for the Eastern District of Virginia, at Alexandria.
+Leonie M. Brinkema, District Judge.
+(CA-97-701-A)
+Argued: October 29, 1998
+Decided: February 10, 1999
+Before WILKINS, HAMILTON, and LUTTIG, Circuit Judges.
+_________________________________________________________________
+Reversed by published opinion. Judge Wilkins wrote the majority
+opinion, in which Judge Luttig joined. Judge Hamilton wrote a con-
+curring opinion.
+
+COUNSEL
+ARGUED: William Henry Hurd, Senior Counsel to the Attorney
+General, OFFICE OF THE ATTORNEY GENERAL, Richmond,
+Virginia, for Appellant. Marjorie Heins, AMERICAN CIVIL LIBER-
+TIES UNION FOUNDATION, New York, New York, for Appellees.
+ON BRIEF: Mark L. Earley, Attorney General of Virginia, Peter R.
+Messitt, Senior Assistant Attorney General, Alison Paige Landry,
+Assistant Attorney General, Ritz R. Woltz, Assistant Attorney Gen-
+eral, OFFICE OF THE ATTORNEY GENERAL, Richmond, Vir-
+ginia, for Appellant. Ann Beeson, AMERICAN CIVIL LIBERTIES
+UNION FOUNDATION, New York, New York; Louis M. Bograd,
+AMERICAN CIVIL LIBERTIES UNION FOUNDATION, Washing-
+ton, D.C.; Michael H. Hammer, Todd G. Hartman, WILLKIE, FARR
+& GALLAGHER, Washington, D.C., for Appellees. Jonathan Alger,
+Donna Euben, AMERICAN ASSOCIATION OF UNIVERSITY
+PROFESSORS, Washington, D.C.; J. Joshua Wheeler, Robert M.
+O'Neil, THE THOMAS JEFFERSON CENTER FOR THE PRO-
+TECTION OF FREE EXPRESSION, Charlottesville, Virginia;
+Edward M. McCoyd, THE AUTHORS GUILD, New York, New
+York, for Amici Curiae.
+_________________________________________________________________
+OPINION
+WILKINS, Circuit Judge:
+Six professors employed by various public colleges and universi-
+ties in Virginia brought this action1 challenging the constitutionality
+of a Virginia law restricting state employees from accessing sexually
+explicit material on computers that are owned or leased by the state.
+See Va. Code Ann. § 2.1-804 to -806 (Michie Supp. 1998) (the Act).
+The district court granted summary judgment in favor of Plaintiffs,
+holding that the Act unconstitutionally infringed on state employees'
+_________________________________________________________________
+1 The professors named George Allen, then Governor of Virginia, as
+defendant. Subsequently, James S. Gilmore, III was elected Governor
+and was substituted as a party. For ease of reference, we refer to Gilmore
+as "the Commonwealth."
+                                2
+
+First Amendment rights. See Urofsky v. Allen, 995 F. Supp. 634 (E.D.
+Va. 1998). We reverse.
+I.
+The central provision of the Act states:
+Except to the extent required in conjunction with a bona
+fide, agency-approved research project or other agency-
+approved undertaking, no agency employee shall utilize
+agency-owned or agency-leased computer equipment to
+access, download, print or store any information infrastruc-
+ture files or services having sexually explicit content. Such
+agency approvals shall be given in writing by agency heads,
+and any such approvals shall be available to the public under
+the provisions of the Virginia Freedom of Information Act.
+Va. Code Ann. § 2.1-805.2 Another section of the Act defines "sexu-
+ally explicit content" to include:
+(i) any description of or (ii) any picture, photograph, draw-
+ing, motion picture film, digital image or similar visual rep-
+resentation depicting sexual bestiality, a lewd exhibition of
+nudity, as nudity is defined in § 18.2-390, sexual excite-
+ment, sexual conduct or sadomasochistic abuse, as also
+defined in § 18.2-390, coprophilia, urophilia, or fetishism.
+_________________________________________________________________
+2 Other provisions of the Act provide additional relevant definitions:
+ "Agency" means any agency, authority, board, department,
+division, commission, institution, institution of higher education,
+bureau, or like governmental entity of the Commonwealth,
+except the Department of State Police.
+ "Information infrastructure" means telecommunications,
+cable, and computer networks and includes the Internet, the
+World Wide Web, Usenet, bulletin board systems, online sys-
+tems, and telephone networks.
+Va. Code Ann. § 2.1-804 (emphasis omitted).
+                                3
+
+Va. Code Ann. § 2.1-804.3
+As its language makes plain, the Act prohibits state employees
+from accessing sexually explicit material on computers owned or
+leased by the Commonwealth. But, the Act does not prohibit all
+access by state employees to such materials, for a state agency head
+may give permission for a state employee to access such information
+on computers owned or leased by the Commonwealth if the agency
+head deems such access to be required in connection with a bona fide
+research project or other undertaking. Further, state employees remain
+free to access sexually explicit materials from their personal or other
+computers. Thus, the Act prohibits state employees from accessing
+sexually explicit materials only when the employees are using com-
+puters that are owned or leased by the Commonwealth and permission
+to access the material has not been given by the appropriate agency
+head.
+_________________________________________________________________
+3 Section 18.2-390 provides in pertinent part:
+ (2) "Nudity" means a state of undress so as to expose the
+human male or female genitals, pubic area or buttocks with less
+than a full opaque covering, or the showing of the female breast
+with less than a fully opaque covering of any portion thereof
+below the top of the nipple, or the depiction of covered or uncov-
+ered male genitals in a discernibly turgid state.
+ (3) "Sexual conduct" means actual or explicitly simulated acts
+of masturbation, homosexuality, sexual intercourse, or physical
+contact in an act of apparent sexual stimulation or gratification
+with a persons clothed or unclothed genitals, pubic area, buttocks
+or, if such be female, breast.
+ (4) "Sexual excitement" means the condition of human male
+or female genitals when in a state of sexual stimulation or
+arousal.
+ (5) "Sadomasochistic abuse" means actual or explicitly simu-
+lated flagellation or torture by or upon a person who is nude or
+clad in undergarments, a mask or bizarre costume, or the condi-
+tion of being fettered, bound or otherwise physically restrained
+on the part of one so clothed.
+Va. Code Ann. § 18.2-390(2)-(5) (Michie 1996) (emphasis omitted).
+                                4
+
+Plaintiffs maintain that this restriction--the denial of access to sex-
+ually explicit materials on computers owned by or leased to the Com-
+monwealth when permission for such access has not been given by
+the appropriate department head--is violative of their First Amend-
+ment right to freedom of expression. Plaintiffs do not assert that they
+possess a First Amendment right to access this information on state-
+owned or leased computers for their personal use; rather, Plaintiffs
+confine their challenge to the denial of access to sexually explicit
+material for work-related purposes.4
+II.
+It is well settled that citizens do not relinquish all of their First
+Amendment rights by virtue of accepting public employment. See
+United States v. National Treasury Employees Union, 513 U.S. 454,
+465 (1995); Connick v. Myers, 461 U.S. 138, 142 (1983); Pickering
+v. Board of Educ., 391 U.S. 563, 574 (1968). Nevertheless, the state,
+as an employer, undoubtedly possesses greater authority to restrict the
+speech of its employees than it has as sovereign to restrict the speech
+of the citizenry as a whole. See Waters v. Churchill, 511 U.S. 661,
+671 (1994) (plurality) (recognizing "that the government as employer
+... has far broader powers than does the government as sovereign");
+Pickering, 391 U.S. at 568 (explaining "that the State has interests as
+an employer in regulating the speech of its employees that differ sig-
+nificantly from those it possesses in connection with regulation of the
+speech of the citizenry in general"). A determination of whether a
+restriction imposed on a public employee's speech is violative of the
+_________________________________________________________________
+4 Plaintiffs asserted that the Act violated their First Amendment rights
+to free speech by hindering their ability to perform their employment
+duties, e.g., teaching and researching. The lead plaintiff, Melvin I. Urof-
+sky, alleged that he had declined to assign an online research project on
+indecency law because he feared he would be unable to verify his stu-
+dents' work without violating the Act. Another plaintiff, Terry L. Mey-
+ers, contended that he is affected by the Act because his ability to access
+Virginia's database to research sexually explicit poetry in connection
+with his study of Victorian poets is restricted by the policy. Plaintiff Paul
+Smith's website has been censored as a result of the Act. And, plaintiffs
+Dana Heller, Bernard H. Levin, and Brian J. Delaney maintained that
+they were hesitant to continue their Internet research of various aspects
+of human sexuality.
+                                5
+
+First Amendment requires "`a balance between the interests of the
+[employee], as a citizen, in commenting upon matters of public con-
+cern and the interest of the State, as an employer, in promoting the
+efficiency of the public services it performs through its employees.'"
+Connick, 461 U.S. at 142 (alteration in original) (quoting Pickering ,
+391 U.S. at 568). This balancing involves an inquiry first into whether
+the speech at issue touches upon a matter of public concern, and, if
+so, whether the employee's interest in First Amendment expression
+outweighs the public employer's interest in what the employer has
+determined to be the appropriate operation of the workplace. See
+Pickering, 391 U.S. at 568; see also Connick, 461 U.S. at 146 (noting
+that if a public employee's speech cannot be characterized "as relating
+to any matter of political, social, or other concern to the community,"
+the constitutional inquiry comes to an end).
+Thus, our threshold inquiry is whether the Act regulates speech5 by
+employees of the Commonwealth in their capacity as citizens upon
+matters of public concern. See Connick, 461 U.S. at 146.6 If a public
+employee's speech does not touch upon a matter of public concern,
+the Commonwealth, as employer, may regulate it without infringing
+any First Amendment protection. See Holland v. Rimmer, 25 F.3d
+_________________________________________________________________
+5 There is no dispute concerning whether "speech" is at issue here. First
+Amendment protection of expression encompasses the right to access
+information. See Kleindienst v. Mandel, 408 U.S. 753, 762-63 (1972);
+Stanley v. Georgia, 394 U.S. 557, 564 (1969).
+6 The Commonwealth initially maintains that the speech regulated by
+the Act is not entitled to First Amendment protection because the Act
+regulates only obscene material. See Miller v. California, 413 U.S. 15,
+23 (1973) (holding that obscene material is not entitled to First Amend-
+ment protection). We disagree. Although the definition of "sexually
+explicit content" in the Act includes some obscene speech, i.e., speech
+that "lacks serious literary, artistic, political, or scientific value;" that is
+"patently offensive;" and that appeals primarily to a "prurient interest,"
+id. at 24, the Act regulates additional speech as well. For example, the
+Act is sufficiently broad to govern research and debate on sexual themes
+in art, literature, history, and the law; speech and research by medical
+and mental health professionals concerning sexual disease, sexual dys-
+function, and sexually related mental disorders; and the routine exchange
+of information among social workers on sexual assault and child abuse.
+Accordingly, the Act regulates more than obscene speech.
+                                6
+
+1251, 1255 n.11 (4th Cir. 1994). 7 Whether speech touches upon a
+matter of public concern is a question of law for the court and,
+accordingly, we review the matter de novo. See Connick, 461 U.S. at
+147-48 & n.7; Hall v. Marion Sch. Dist. No. 2, 31 F.3d 183, 192 (4th
+Cir. 1994); Holland, 25 F.3d at 1255.
+Speech involves a matter of public concern when it affects a social,
+political, or other interest of a community. See Connick, 461 U.S. at
+146. And, to determine whether speech involves a matter of public
+concern, we examine the content, context, and form of the speech at
+issue in light of the entire record. See id. at 147-48. An inquiry into
+whether a matter is of public concern does not involve a determina-
+tion of how interesting or important the subject of an employee's
+speech is. See Terrell v. University of Tex. Sys. Police, 792 F.2d 1360,
+1362 (5th Cir. 1986). Further, the pl ace where the speech occurs is
+irrelevant: An employee may speak as a citizen on a matter of public
+concern at the workplace, and an employee may speak in his capacity
+as an employee away from the workplace. Compare Rankin v.
+McPherson, 483 U.S. 378, 388-92 (1987) (holding public employee's
+discharge was violative of First Amendment when based on comment
+by employee on a matter of public concern made at work), with
+DiMeglio v. Haines, 45 F.3d 790, 805 (4th Cir. 1995) (recognizing
+that speech by a public employee outside the workplace was made in
+the employee's official capacity). Critical to a determination of
+whether speech touches upon a matter of public concern is whether
+the speech is "made primarily in the [employee's] role as citizen or
+primarily in his role as employee." Terrell, 792 F.2d at 1362; see
+Boring v. Buncombe County Bd. of Educ., 136 F.3d 364, 368-69 (4th
+Cir.) (en banc) (holding that the discharge of a high school drama
+teacher as a result of her selection of a high school play was not viola-
+tive of the First Amendment because the choice of the play did not
+involve a matter of public concern since the choice was made by the
+teacher in her capacity as a teacher in a matter dealing with curricu-
+_________________________________________________________________
+7 When a public employee's speech does not touch upon a matter of
+public concern, that speech is not "totally beyond the protection of the
+First Amendment," but "absent the most unusual circumstances, a federal
+court is not the appropriate forum in which to review the wisdom of a
+[restriction on a public employee's speech] taken by a public agency."
+Connick, 461 U.S. at 147.
+                                7
+
+lum), cert. denied, 119 S. Ct. 47 (1998); DiMeglio, 45 F.3d at 805
+(noting that "the Court ha[s] distinguished between speaking as a citi-
+zen and as an employee, and ha[s] focused on speech as a citizen as
+that for which constitutional protection is afforded"); cf. Rust v.
+Sullivan, 500 U.S. 173, 198-99 (1991) (rejecting argument that the
+First Amendment rights of the staff of clinics accepting federal fund-
+ing were violated by regulations prohibiting abortion counseling by
+clinics receiving federal funds, stating that "[t]he employees' freedom
+of expression is limited during the time that they actually work for the
+project[,] but this limitation is a consequence of their decision to
+accept employment in a project, the scope of which is permissibly
+restricted by the funding authority").
+The challenged aspect of the Act does not regulate the speech of
+the citizenry in general, but rather the speech of state employees in
+their capacity as employees. It cannot be doubted that in order to pur-
+sue its legitimate goals effectively, the Commonwealth must retain
+the ability to control the manner in which its employees discharge
+their duties and to direct its employees to undertake the responsibili-
+ties of their positions in a specified way. Cf. Waters, 511 U.S. at 675
+(plurality) (explaining that restrictions on speech may be necessary
+when "the government is employing someone for the very purpose of
+effectively achieving its goals"); id. at 672 (noting that "even many
+of the most fundamental maxims of ... First Amendment jurispru-
+dence cannot reasonably be applied to speech by government employ-
+ees"); Connick, 461 U.S. at 143 (acknowledging that "government
+offices could not function if every employment decision became a
+constitutional matter"). The essence of Plaintiffs' claim is that they
+are entitled to access sexually explicit material in their capacity as
+state employees. Because Plaintiffs assert only an infringement on the
+manner in which they perform their work as state employees, they
+cannot demonstrate that the speech to which they claim entitlement
+would be made in their capacity as citizens speaking on matters of
+public concern.8
+_________________________________________________________________
+8 Our conclusion that the Act does not infringe on protected speech is
+dispositive of Plaintiffs' claim that the Act is overbroad. See Boos v.
+Barry, 485 U.S. 312, 331 (1988) (recognizing that a regulation that "does
+not reach a substantial amount of constitutionally protected" speech is
+                                8
+
+III.
+We reject the conclusion of the district court that Va. Code Ann.
+§§ 2.1-804 to -806, restricting state employees from accessing sexu-
+ally explicit material on computers that are owned or leased by the
+Commonwealth unless given permission to do so, infringes upon the
+First Amendment rights of state employees. The Act regulates the
+speech of individuals speaking in their capacity as Commonwealth
+employees, not as citizens, and thus the Act does not touch upon a
+matter of public concern. Consequently, the speech may be restricted
+consistent with the First Amendment.
+REVERSED
+HAMILTON, Circuit Judge, concurring:
+The Plaintiffs claim that they have a First Amendment right to
+access and disseminate sexually explicit materials on computers that
+are owned and operated by the Commonwealth. The Plaintiffs' access
+to, and dissemination of, sexually explicit materials is necessary for
+them to perform their duties as educators; but, nevertheless, the Plain-
+tiffs' access to, and dissemination of, sexually explicit materials is
+accomplished in their capacities as state employees. Because the
+Plaintiffs' access to, and dissemination of, sexually explicit materials
+is accomplished in their capacities as state employees, the court today
+correctly concludes that the speech in this case, under the implicit
+holding of our en banc decision in Boring v. Buncombe County Bd.
+of Educ., 136 F.3d 364 (4th Cir.) (en banc), cert. denied, 119 S. Ct.
+47 (1998), is employee speech, and, therefore, not entitled to First
+Amendment protection.
+I joined Judge Motz's dissent in Boring which persuasively
+explains why a public employee should enjoy far greater First
+_________________________________________________________________
+not overbroad). Further, Plaintiffs' claim that the Act violates their First
+Amendment right to academic freedom is foreclosed by our en banc
+decision in Boring. See Boring, 136 F.3d at 368-69. Finally, the Act is
+not unconstitutionally vague because it gives a "person of ordinary intel-
+ligence a reasonable opportunity to know what is prohibited." Grayned
+v. City of Rockford, 408 U.S. 104, 108 (1972).
+                                9
+
+Amendment protection than that contemplated by Boring. See id. at
+378-80. Left to my own devices, I would hold that the Plaintiffs'
+speech in this case is entitled to some measure of First Amendment
+protection, thus triggering application of the Connick/Pickering bal-
+ancing test. However, being bound by the en banc court's decision in
+Boring, I concur in the court's opinion.
+Finally, I write separately to make clear that we leave unanswered
+the question of whether a governmental employee who seeks to
+access and disseminate sexually explicit materials rising to the level
+of matters of public concern, not in his or her role as a governmental
+employee, but rather as a private citizen, is entitled to some measure
+of First Amendment protection. The facts of this case leave that issue
+for another day.
+                                10

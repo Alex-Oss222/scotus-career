@@ -1,0 +1,1123 @@
+=== PDF PAGE 1 ===
+_—~ i} 5 . SA Supreme Court, U.S. 
+- oe & itr - FILED 
+') \ ese © a 
+N *) Lak 6 2000 . | OFFICE OF THE CLERK 
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1999 
+PAUL L. GLOVER, 
+Petitioner, 
+Vv. 
+UNITED STATES OF AMERICA, 
+Respondent. 
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Seventh Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+MICHAEL L. WALDMAN 
+(Counsel of Record) 
+FRIED, FRANK, HARRIS, SHRIVER 
+& JACOBSON 
+1001 Pennsylvania Avenue, NW, Suite 800 
+Washington, DC 20004 
+(202) 639-7000 
+Counsel for Petitioner 
+
+
+=== PDF PAGE 2 ===
+QUESTION PRESENTED PARTIES 
+One year after his direct appeal had concluded, Mr. Glover discovered that his 84-month All of the parties to the proceedings below are listed in the caption of the case, supra. See 
+prison sentence was based on an incorrect calculation under the U.S. Sentencing Guidelines. Sup. Ct. R. 14.1(b). 
+While his original case was pending, the Seventh Circuit had issued a decision in another case 
+interpreting a Guidelines issue in favor of defendants. Mr. Glover filed the instant action 
+pursuant to 28 U.S.C. § 2255 to correct his sentence, on the ground that his attorney had 
+provided ineffective assistance in failing to raise this binding Seventh Circuit decision. 
+The court of appeals affirmed the dismissal of Mr. Glover’s Section 2255 action. In light 
+of the dispositive appellate ruling that his counsel never raised, the court of appeals assumed that 
+Glover's attorney performed inadequately. It also assumed that the deficient performance led to 
+an offense level under the Sentencing Guidelines which was two levels higher than it should 
+have been, and that this error caused Mr. Glover to receive a sentence that was 6 to 21 months 
+higher than he should have received. Nevertheless, the Seventh Circuit held that such an 
+increased sentence due to counsel’s deficient performance "is not sufficiently significant to be 
+cognizable on collateral attack." (App. 2). The questions on which review is sought are: 
+1. Whether the court of appeals erred in holding that an additional 6 to 21 months in 
+prison due to counsel’s error relating to the sentencing guidelines fails to satisfy the “prejudice” | 
+prong of Strickland v. Washington, 466 U.S. 668 (1984). 
+2. Whether the court of appeals erred in holding that a 2-level error in the offense 
+level under the sentencing guidelines was per se insufficient to satisfy the “prejudice” prong of 
+Strickland v. Washington, 466 U.S. 668 (1984), even where this 2-level error resulted in the 
+petitioner being sentenced to an additional 6 to 21 months in prison. 
+
+
+=== PDF PAGE 3 ===
+—~ 
+TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESENTED..........-ssssssssssssssssesesssneesssnsennnanenssnnnsssnnnssennnansacnnnnasananassennssts i 
+PARTIES .......ececscsosesesescecesessssesecevcsssssnsssoossssssscseosesensnsesssssnsnsssanonsssenoqssssansnssosnonssosnensneeees ii 
+TABLE OF AUTHORITIES ............:s:ssssssssesesssssssssssensnssssnensnsesssensnensnsnnansnsensnanensnensnanenss iv 
+OPINIONS BELOW.........:.:s:scssssssssssssssssssssesnessnessnenensnssnensnsnsensnensnenansnsanensensnensnananensnsess l 
+JURISDICTION .....--:-:s:sssesecsssscessssssssssssssssseesenesnssensanensnsensnsncensnenssnenensansnsansnsnsnsnnesenensgss 2 
+PERTINENT CONSTITUTIONAL AND STATUTORY PROVISIONS ........:-:++++0000 2 
+SUMMARY OF THE ARGUMENT .........:::::+:s:sesssesenensnesnsnsnssnsnensnaasnansnsnanansnananesnanens 2 
+STATEMENT OF THE CASE..........:ssscsssssssessssssesssnensnessnsnrsnsnssnsnenensnsnsensenensnsasonenesennoes 5 
+l. Conviction and Sentence...............ccscsseeecseeeneeeeneeseersressensennneenens 5 
+2. Section 2255 Motion. ...........:ccsscsssssesesseesceeeeeeeeeeesenseeesensseessnensnnees 5 
+3. District Court’s Decision .............:sssssesseseeeeseneeeenesensnnsnensnneneenney 6 
+4 Court of Appeals’ Decision .............:::ssssessnsssnsrenenenenensnenenanens 7 
+REASONS FOR GRANTING THE PETITION ...........:::ssssssssssserenenenensnenensnenensananenennnnes 8 
+A. The Seventh Circuit’s “Significant Prejudice” 
+Requirement Is Contrary to Supreme Court Precedentt.............-+:-+s-se-0000 9 
+B. The Seventh Circuit’s Interpretation of “Prejudice” Conflicts 
+With Other Circuits and District Courts ..........:.:sscseeeserseersreeeesennnnnnennnes 14 
+C. The Seventh Circuit’s “Significant Prejudice” Requirement 
+Leads to Arbitrary And Inconsistent Results ..............:0:0:0:sssesseeeeeesenenenens 20 
+D. This Case Presents An Issue of Recurring Importance............-.---++s+e+eee9 22 
+24 CONCLUSION .....:-:sssessesesssssssssssssssessersssensnssneesenssnnensnsnansaseanensensnsnssnnenssnssnnsnnsnsannesnoansen® 
+ili 
+i eee 
+TABLE OF AUTHORITIES 
+Cases P age 
+Allen v. United States, 
+ESN 8, 21, 23 
+Argersinger v. Hamlin, 
+ee 3,12 
+Arredondo v. United States, 
+ee 19 
+Baldasar v. Illinois, 
+a 13 
+Baldwin v. New York, 
+_— ee 12, 13 
+Burgos v. United States, 
+968 F.Supp. 380 (N.D. Tl. 1997) 0.0... .ccccccccccesccsesessssessesesssseeveeeeseeseseeceseeeecee. 8, 23 
+Davis v. United States, 
+1998 WL 142369 (N.D. Ill. March 19, SESE ae ee ae 8, 23 
+Day v. United States, 
+191 F.3d 455, 1999 WL 528145 (7th Cir. a 23 
+Duncan v. Louisiana, 
+| 13 
+Durrive v. United States, 
+ae passim 
+Fout v. United States, 
+165 F.3d 32, 1998 WL 636780 (7th Cir. Sean 23 
+Gil v. United States, 
+4 F. Supp. 2d 760 (ND. Ill. 1998) .0.........ccccccccecceccesssssessessssosseseeeseseessese., 14, 23 
+Gonzalez v. United States, 
+967 F. Supp. 326 (N.D. Tl. 1997) 0.0... .ccccccccccccessessesssessmesseesssseeeseseeseeces. 14, 23 
+Harden v. United States, 
+191 F.3d 456, 1999 WL 547979 (7th Cir. EERE oe are eee 23 
+
+
+=== PDF PAGE 4 ===
+Jackson v. Leonardo, 
+Ea ee aN Ee 16, 17 
+Lockhart v. Fretwell, 
+ina ieet decent etlcinianinlhin ini bib ieiadedbildiaaiol passim 
+Martin v. United States, 
+NOT IE CUE cxcsceccnsscsscerssscsnennentuninentetenmnnnemmmnesiateanietanemabentinmiatess passim 
+Robinson v. United States, 
+EC ee eT, 23 
+Scott v. Illinois, 
+Re ae Ne ee aT ee 13 
+Smith v. United States, 
+ee 19 
+Spriggs v. Collins, 
+kT eT a 4, 17, 18,19 
+Strickland v. Washington, 
+ET en ee en a TTT, passim 
+Unger v. United States, 
+ee LOE ee eee ER LTT 23 
+United States v. Allen, 
+a ne Ee RI . 
+United States v. Day, 
+I I each inch ice 22 
+United States v. Evans, 
+ee 23 
+United States v. Ford, 
+ET er EN EEE! 15 
+United States v. Glover, 
+I Ee Se 5,6 
+United States v. Granados, 
+ee ET a ETT 15 
+United States v. Harfst, 
+CME GUE casenconssenenasenstininisentiitaiimntctansinestaaittiiaaasiatataaiiatiiait laa 19 
+United States v. Headley, ““ 
+GG Ue pannnenemenpuspessesstsemmmnmmanmsnioiaissaieseness 16 
+United States v. Hubbard, 
+1997 WL 639232 (ND. Ill. Oct. 6, 1997) .....cccccccccccssssecsssssseessssueessssueesessnuveseesnneee 14, 22, 23 
+United States v. Kissick, 
+SC RT TE 19 
+United States v. Murray, 
+176 F.3d 476, 1999 WL 187192, (4th Cir. 1999) o.oo. ooccccccccccsssescsssseeseessseeeessseeensesnenee 18 
+United States v. Pale-nba, 
+SE ee ee eT 17 
+United States v. Paz, | | 1997 WL 158338 (N.D. Ill. March 31, 1997) ..........ccccccscssccssssessssueessssuesessesneeeeeenneeenee 21, 23 
+United States v. Segler, 
+EL Seer es ee COE TS 18 
+United States v. Soto, 
+NE Ce De Ma ae a 16, 22 
+United States v. Tai, 
+EE Ras Pa ee ETN 22, 23 
+United States v. 
+27 F.3d 671 (D.C. Ci.) .occcccccccsseee: Sa ner Cee a OO OLR RST REE 16 
+United States v. Wheeler, 
+81 F.3d 171, 1996 WL 155139 (9th Cir. April 2, 1996) ....00.ccccccccccccccccscscseseerereceeeereenees 17 
+United States v. Wilson, TT I AS TELE SN TST a 
+Statutes, Regulations and Other Materials ; 
+EE Rae CNC ee ae Se ae Oe tet aE NTT 5 
+iia i a Ns oa 5 
+18 U.S.C. § 1962(d) - 
+EE ™ 5 
+
+
+=== PDF PAGE 5 ===
+28 U.S.C. § TT 2 . OOOO 
+Beis 1 a hcensecnsenconsnescenenspecmatenneatnnmmenssenmncebinnnegecatnmienmmpnpmnnenreunepataispesinbasaastineaias passim IN THE 
+I Ge Ba, HR a rcs en cnsecnssccsnsnsncscnnasencensesnnniensscqnnannnenapesssmnsstnnsenensanesessneniemmaieiseanammapeesematteaants ii SUPREME COURT OF THE UNITED STATES 
+Oe a 5,7 OCTOBER TERM. 1999 
+No. 
+PAUL L. GLOVER, 
+Petitioner, 
+v. 
+UNITED STATES OF AMERICA, 
+Respondent. 
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Seventh Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+Paul L. Glover respectfully petitions for a writ of certiorari to review the judgment of the 
+United States Court of Appeals for the Seventh Circuit in this case. 
+OPINIONS BELOW 
+The opinion of the court of appeals was reported at 182 F.3d 921 (7th Cir. 1999) (Table) 
+and is reproduced in the Appendix at App. 1. The opinion of the United States District Court for 
+the Northern District of Illinois was not reported and is reproduced in the Appendix at App. 3. 
+
+
+=== PDF PAGE 6 ===
+JURISDICTION 
+The judgment of the court of appeals was entered on July 15, 1999. A timely petition for 
+rehearing was denied on October 7, 1999. (App. 8). This Court’s jurisdiction is invoked under 
+28 U.S.C. § 1254(a). 
+PERTINENT CONSTITUTIONAL AND STATUTORY PROVISIONS 
+The relevant constitutional provisions are the Sixth and Fourteenth Amendments to the 
+United States Constitution. 
+SUMMARY OF THE ARGUMENT 
+This case raises an issue of recurring importance — whether defense counsel’s error 
+relating to the U.S. Sentencing Guidelines which causes the defendant to be sentenced to 
+additional months of incarceration (in this case, between 6 and 21 months of additional 
+imprisonment) constitutes ineffective assistance of counsel under the Sixth Amendment. Here, 
+due to counsel’s ineffective performance, the district court made a clear error in calculating the 
+offense level. Under the correct offense level, petitioner’s a of imprisonment should have 
+been between 6 to 21 months lower than the 84-month sentence he actually received. 
+Nevertheless, while conceding counsel’s deficient performance and the incorrect sentencing 
+calculations, the court of appeals denied petitioner's motion under 28 U.S.C. § 2255 to correct 
+his sentence. Applying the governing case law in the circuit, the Seventh Circuit held that an 
+additional 6 to 21 months in prison was not “sufficiently significant” to satisfy the prejudice 
+prong of the ineffective assistance of counsel standard. According to the Seventh Circuit, to be 
+“significant prejudice,” a counsel’s error —_ lead to an incorrect sentence of more than two 
+offense levels under the Sentencing Guidelines. 
+The Seventh Circuit’s rule represents a marked and unwarranted departure from this 
+Court’s established precedents relating to constitutionally ineffective assistance of counsel. In 
+adding a a new “significance” threshhold, the Seventh Circuit misconstrues the prejudice 
+requirement as set out in Strickland v. Washington, 466 U.S. 668 (1984), and interpreted in 
+Lockhart v. Fretwell, 506 U.S. 364 (1993). Nowhere in Strickland does the Court even suggest 
+that additional months in prison due to counsel’s deficient performance would not constitute 
+prejudice. Contrary to the Seventh Circuit’s reasoning, the Supreme Court’s decision in 
+Lockhart also does not support the conclusion that defendant must show “significant prejudice.” 
+Lockhart addressed the narrow circumstances where the habeas petitioner’s ineffectivenesss 
+claim was based on the attorney’s failure to invoke at sentencing a court of appeals decision that 
+was later overruled. The Lockhart Court refused to allow the habeas petitioner to obtain “a 
+windfall;” that is a far cry from the instant case where Mr. Glover simply asks for the correct 
+application of the Sentencing Guidelines. Moreover, the Seventh Circuit’s decision is contrary to 
+this Court’s Sixth Amendment jurisprudence which has recognized that any term of 
+imprisonment, even one day, requires the effective assistance of counsel. See Argersinger v. 
+Hamlin, 407 U.S. 25 (1972) (rejecting argument that right to counsel exists only for felony 
+offenses and hoiding that no person may be imprisoned for any period without presence of 
+counsel at trial). 
+Not surprisingly, the decision below also conflicts with other courts of appeals and 
+district courts which have declined to adopt the Seventh Circuit’s “significant prejudice” 
+requirement. The D.C., Third, and Eighth Circuits have not adopted the Seventh Circuit’s 
+“significant prejudice” rule and have granted Section 2255 motions where the change due to 
+counsel’s error is two offense levels or less. Furthermore, and even more striking, the Second 
+
+
+=== PDF PAGE 7 ===
+and Ninth Circuits have granted Section 2255 motions where there is no effect on the actual 
+prison term of the petitioner. Even those circuit courts which favor a “significant prejudice” test 
+— the Fourth, Fifth and Tenth Circuits -- have not adopted the Seventh Circuit’s rule that a two- 
+offense level change due to counsel’s deficient performance is per se insufficient to constitute 
+“prejudice” under Strickland. The Fifth Circuit has expressly recognized “an exception” for the 
+very type of situation raised by Mr. Glover here -- “when a deficiency by counsel resulted in a 
+specific, demonstrable enhancement in sentencing.”' Spriggs v. Collins, 993 F.2d 85, n.4 (Sth 
+Cir. 1993). 
+The Seventh Circuit’s “significant prejudice” rule also has led to inconsistent results in 
+the lower courts. These courts have not been provided guidelines or standards for determining 
+whether an increased sentence due to counsel’s error is “significant.” Instead, the lower courts 
+are left to their c wn devices in attempting to evaluate if it is the number of months, number of 
+offense levels, percentage of total sentence, or some other variable which is critical to showing 
+sufficient prejudice. The seemingly arbitrary nature of the lower court decisions relating to what 
+constitutes “significant prejudice” damages the public’s confidence in the court system and 
+precludes the consistency in sentencing which was the goal of the Sentencing Guidelines. 
+This Court’s review is necessary to establish uniformity on the issue of whether, and in 
+what circumstances, additional months in prison due to counsel’s deficient performance 
+constitutes constitutionally ineffective assistance. There already have been numerous cases 
+I The Sixth Circuit has noted the split within the courts of appeals and expressed doubts about the 
+Seventh Circuit’s position. Thus far, however, the Sixth Circuit has not been required to rule on 
+the issue. 
+across the country which involve the precise situation and issue raised by Mr. Glover’s case. 
+Given the frequently recurring nature of the problem of mistakes by counsel relating to 
+Sentencing Guidelines calculations, it is especially important that this Court grant the writ in this 
+case and end the confusion among the lower courts. 
+STATEMENT OF THE CASE 
+1. Conviction and Sentence 
+Following a jury trial, defendant Paul Glover was found guilty of one count of a 
+conspiracy in violation of the Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. 
+§ 1962(d); eleven counts of soliciting and receiving kickbacks in violation of 18 U.S.C. § 1954; 
+two counts of money laundering in violation of 18 U.S.C. § 1956(a)(1)(B)(I); and four counts of 
+tax evasion in violation of 26 U.S.C. § 7206. At the time of sentencing, it was determined that 
+Mr. Glover’s total offense level was 28 and his criminal history category was level I, resulting in 
+a guideline range of 78 to 97 months. He was sentenced to 84 months’ incarceration. Mr. 
+Glover’s conviction and sentence were affirmed on direct appeal, where he was represented by 
+the same counsel who represented him at trial. See United States v. Glover, 101 F.3d 1183 (7th 
+Cir. 1996). ; 
+2. Section 2255 Action 
+Less than one year after the decision on appeal became final, Glover filed his present 
+action in the U.S. District Court for the Northern District of Illinois pursuant to 28 U.S.C. § 2255 
+to vacate, set aside or correct his sentence. Mr. Glover contended that his sentencing range was 
+incorrectly calculated because his money laundering offenses were not grouped with his 
+conspiracy and kickback offenses. See U.S.S.G. § 301.2. He further contended that his counsel 
+
+
+=== PDF PAGE 8 ===
+<— 
+was ineffective for failing to urge this issue at the time of sentencing and for failing to raise the 
+issue at all on direct appeal. Jn United States v. Wilson, 98 F.3d 281, 282-84 (7th Cir. 1996), the 
+Seventh Circuit had held that money laundering offenses and mail fraud offenses should be 
+grouped together. As the government conceded before the district court, Wilson would be 
+controlling as to the grouping of Mr. Glover’s conspiracy, kickback, and money laundering 
+offenses. The Wilson case was argued on April 1, 1996 and issued on October 17, 1996, months 
+before the decision on Mr. Glover’s appeal was issued. Glover, 101 F.3d a! 1183. 
+I). ».s Section 2255 motion, Mr. Glover claimed that his counsel’s ineffective assistance 
+during the sentencing had caused Glover to receive an incorrect sentence. Mr. Glover was 
+sentenced to 84 months incarceration based on the court’s finding of an offense level of 28 and a 
+guideline range of 78 to 97 months. Had the money laundering been grouped with the 
+conspiracy and kickback offenses, the total offense level would have been 26 and the guideline 
+range would have been 63 to 78 months. Due to his counsel’s deficient performance, Mr. 
+Glover’s sentence was incorrectly extended by at least 6 months and possibly up to 21 months. 
+3. District Court’s Decision 
+The federal district court dismissed petitioner’s Section 2255 motion. The district court 
+found it unnecessary to consider the issue of whether Mr. Glover’s counsel’s performance was 
+deficient. (App. 5). The court noted that Seventh Circuit precedent required that “[wJhen, as 
+here, the constitutional basis for relief on such a claim is ineffective assistance of counsel, the 
+potential change in sentence must be a ‘significant’ amount in order to satisfy the prejudice 
+prong of an ineffective assistance of counsel claim.” (App. 5). Applying the Seventh Circuit's 
+rulings in Durrive v. United States, 4 F.3d 548 (7th Cir. 1993), and Martin v. United States, 109 
+F.3d 1177, 1178 (7th Cir. 1996), cert. denied, 522 U.S. 931 (1997), the district court concluded 
+6 
+that the Seventh Circuit stated a per se rule that a change of two offense levels would not be 
+sufficient to constitute “significant prejudice.” (App. 5-6). Accordingly, the district court held 
+that “Because the error claimed in the present case [between 6 and 21 months of additional 
+ienprisonment] did not have a significant effect on Glover’s sentence, he does not state any basis 
+for granting § 2255 relief.” (App. 6). 
+4. Court of Appeals’ Decision 
+The Seventh Circuit affirmed on appeal, relying on the same basic rationale as the district 
+court. The court of appeals assumed that Mr. Glover’s attorneys had performed deficiently in 
+failing to argue the correct interpretation of U.S.S.G. § 301.2 relating to the grouping of his 
+money laundering offenses with his conspiracy and kickback offenses. (App. 1). The Seventh 
+Circuit, however, held that under the existing precedent in that court, Mr. Glover could not 
+demonstrate sufficient prejudice to satisfy the second prong of Strickland v. Washington, 466 
+U.S. 668, 687 (1984). The Seventh Circuit stated, in pertinent part: 
+This court has held that only a significant increase in the 
+sentencing rises to the level of the type of prejudice that will 
+support an ineffective assistance of counsel claim on collateral 
+attack. 
+At sentencing, the district court determined that Glover’s adjusted 
+offense level under the Sentencing Guidelines was 28 and his 
+criminal history category was I, resulting in a sentencing range of 
+78 to 97 months in prison. The court selected a mid-point in the 
+range, sentencing Glover to 84 months in prison. Glover alleges 
+that, but for the errors of his counsel, his adjusted offense level 
+would have been 26, resulting in a range of 63-78 months 
+imprisonment. Thus, he argues, his sentence would have been 6 to 
+21 months lower than the 84-month sentence he received. 
+Unfortunately for Glover, under Martin and Durrive, this potential 
+decrease is not sufficiently significant to be cognizable on 
+collateral attack. 
+
+
+=== PDF PAGE 9 ===
+(App. 1-2) (citations omitted). 
+REASONS FOR GRANTING THE PETITION 
+In Durrive v. United States, 4 F.3d 548 (7th Cir. 1993), the Seventh Circuit first 
+announced that errors in sentencing calculations caused by counsel’s deficient performance must 
+be “significant” to constitute constitutionally ineffective assistance of counsel. According to the 
+Durrive court, only “Grave errors by judge and counsel” -- “[flor instance, an error that produces 
+a large effect on the sentence” — could be deemed prejudicial for Strickland purposes. Id at 551. 
+Subsequent panels within the Seventh Circuit, including in the instant case, have followed 
+Durrive. See, e.g., Martin, 109 F.3d at 1177-78; Allen v. United States,, 175 F.3d 560, 563 (7th 
+Cir. 1999). 
+This Court should grant the writ in Mr. Glover’s case to review and reverse this Seventh 
+Circuit rule requiring “significant prejudice” of more than two offense levels under the 
+Sentencing Guidelines. The Seventh Circuit’s rule has no support in Strickland or subsequent 
+Supreme Court jurisprudence. The “significant prejudice” rule also has not been widely 
+followed in the circuit courts or trial courts outside of the Seventh Circuit. Even within the 
+Seventh Circuit, three judges, including one of its original proponents, have strongly attacked the 
+rule that additional months in prison does not constitute “significant” prejudice, Martin v. United 
+States, 109 F.3d 1177, 1178 (7th Cir. 1997) (Judge Rovner, dissenting on denial of en banc 
+review), and district courts have considered the reasoning underlying this rule to be 
+“questionable,” Burgos v. United States, 968 F.Supp. 380, 384 (N.D. Ill. 1997), and “the source 
+of considerable debate.” Davis v. United States, 1998 WL 142369 *3 n.5 (N.D. Ill. March 19, 
+1998) (citing numerous cases). 
+A. The Seventh Circuit’s “Significant Prejudice” Requirement Is Contrary to 
+Supreme Court Precedent 
+The Seventh Circuit has adopted a rule that an increased prison term due to a sentencing 
+error caused by counsel’s deficient performance does not constitute prejudice for the purpose of 
+the Strickland analysis unless the increase is significant. Unfortunately, the Seventh Circuit’s 
+rule is contrary to Supreme Court precedent. 
+The Supreme Court in Strickland v. Washington, 466 U.S. 668, 690 (1984), established a 
+two-part test for reviewing claims of ineffective assistance of counsel. First, a defendant must 
+demonstrate that his counsel’s performance fell below an objective standards of reasonableness. 
+Second, a defendant must demonstrate that he suffered prejudice due to his counsel’s deficient 
+performance. This second prong requires that the defendant “show that there is a reasonable 
+probability ... that, but for counsel’s unprofessional errors, the result of the proceeding would 
+have been different.” /d. at 694. 
+Nowhere in Strickland does the Court state that the defendant must show “significant 
+prejudice.” Nor is there any indication that the defendant must show a large increase in his 
+prison sentence. Instead, Strickland makes clear that the test is whether counsel’s errors have 
+adversely affected the proceeding’s outcome: “taking due account of the effect of the errors on 
+the remaining findings, a court making the prejudice inquiry must ask if the defendant has met 
+the burden of showing that the decision reached would reasonably likely have been different 
+absent the errors.” Jd. at 696. Plainly, as the court of appeals itself assumed here, Mr. Glover 
+can demonstrate that the sentence in his case “would reasonably likely have been different” had 
+his counsel asserted the groupings issue and the dispositive Seventh Circuit case in his favor. 
+
+
+=== PDF PAGE 10 ===
+In support of gra:ting a “significant prejudice ” requireme’ _ nto Strickland, the Seventh 
+Circuit in Durrive relied on a single quote from Lockhart v. Frets 6 U.S. 364 (1993): 
+[A]n analysis focusing solely on mere outcome determination 
+without attention to whether the result of the proceeding was 
+fundamentally unfair or unreliable, is defective. To set aside a 
+conviction or sentence solely because the outcome would have 
+been different but for counsel’s error may grant the defendant a 
+windfall to which the law does not entitle him. 
+Durrive, 4 F.3d at 551 (quoting Lockhart, 506 U.S. at 369-70).2 The Seventh Circuit, however, 
+failed to explain why this quotation from Lockhart should mandate a requirement that counsel’s 
+error cause a sizeable increase in defendant’s prison sentence. There can be no doubt that the 
+“result of the proceeding was fundamentally unfair or unreliable” in Mr. Glover's case—in fact, 
+Glover received a sentence which was 6 to 21 months more than he should have received under 
+the applicable law and regulations. There also can be no claim that Glover received “a windfall 
+to which the law does not entitle him”—in fact, his counsel’s deficient performance caused 
+Glover to receive an injury which he should not have received, i.e., a sentence longer than the 
+Sentencing Guidelines properly allowed. 
+Lockhart involved a highly unusual set of facts. The question in Lockhart was whether a 
+habeas petitioner could prevail on an ineffectiveness claim based on the attorney’s failure to 
+invoke at sentencing a decision of the Eighth Circuit that was later overruled. Faced with this 
+: As Judge Rovner noted in criticizing the reasoning behind the Seventh Circuit’s rule, 
+Although Durrive held out Lockhart as the foundation for its holding, | 
+believe the court overlooked not only the context of the Supreme Court’s 
+(Lockhart) decision but limitations in the very language of its opinion. 
+Martin, 109 F.3d at 1180 (Judge Rovner, dissenting). 
+10 
+issue, the court of appeals in Lockhart had ruled in favor of Fretwell on the ground that had his 
+counsel made a timely objection, the trial court s.vuld have been compelled to follow then- 
+controlling Eighth Circuit law and modify his sentence to life imprisonment. The Supreme 
+Court disagreed with this single-minded focus on “mere outcome determination, ” believing that 
+such an approach would provide an unwarranted “windfall” to Fretwell since he was attempting 
+to rely on counsel’s failure to raise case law which subsequently had been discredited and 
+rejected. According to the Lockhart court, c unsel’s error had, at most, “deprived [Fretwell] of 
+the chance to have the state court make an error in his favor.” /d. at 371. 
+Fretwell’s situation was in stark contrast to the instant case where Mr. Glover has been 
+harmed by his counsel’s failure to have the court apply the proper law relating to his sentence. 
+As Judge Rovner noted in her dissent: 
+Absolutely nothing in Lockhart addresses this situation. Nowhere 
+does Lockhort suggest that a sentencing may still be described as 
+fair and reliable when it is clear that the sentencing court has 
+sentenced the petitioner to an excessive term, and only his 
+attorney's ineffectiveness has prevented correction of the error 
+either in the district court or on direct appeal. Nothing in 
+Lockhart remotely suggests that only when an attorney's 
+ineffectiveness results in a ‘significant’ harsher sentence may the 
+prejudice be recognized on collateral review. 
+Martin, 109 F.3d at 1181-82 (emphasis added). Thus, the single Supreme Court case relied on by 
+the Seventh Circuit does not support its attempt to add a “significance” requirement to the 
+prejudice prong of the Strickland analysis. ‘ 
+3 As the Lockhart Court noted, the defendant “has no entitlement to the luck of a lawless 
+decisionmaker.” 506 U.S. at 370 (quoting Strickland, 466 U.S. at 695). 
+4 The decision in Lockhart is a narrow one. As Justice O’Connor explained in her concurrence: 
+Footnote continued 
+11 
+
+
+=== PDF PAGE 11 ===
+The Seventh Circuit’s rule also cannot be reconciled with fundamental Sixth Amendment 
+jurisprudence. The Supitine Court has previously rejected the argument that a few months 
+imprisonment is ‘insignificant’ for the purposes of a defendant's constitutional right to effective 
+counsel. This was the precise issue in Argersinger v. Hamlin, 407 U.S. 25 (1972). There, the 
+petitioner had been unrepresented by counsel ir. cor ection with a misdemeanor offense which 
+had a maximum punishment of six months imprisonment. He had been convicted and sentenced 
+to serve three months in prison. The Argersinger Court unanimously reversed the conviction, 
+holding that petitioner was entitled to counsel in any case resulting in imprisonment. According 
+to the Court, “no person may be imprisoned for any offense, whether classified as petty, 
+misdemeanor or felony, unless he was represented by counsel at his trial.” Jd at 37. The 
+Supreme Court in Argersinger saw no reason to differentiate between three months or six months 
+or twelve months in prison, but considered any term of imprisonment to be significant enough to 
+implicate the Sixth Amendment’s right to counsel. As the Court noted, “the prospect of 
+imprisonment for however short a time will seldom be viewed by the accused as a ‘trivial’ or 
+‘petty’ matter and may well result in quite serious reprecussions. . .” /d. (quoting Baldwin v. New 
+York, 399 U.S. 66, 73 (1970)). 
+Footnote continued from previous page 
+Specifically, today we hold that the court making the prejudice determination 
+may not cousider the effect of an objection it knows to be wholly meritless 
+under current governing law, even if the objection might have been 
+considered meritorious at the time of its omission. That narrow holding, of 
+course, precisely disposes of this case as it appeared before the Eighth 
+Circuit. 
+506 U.S. at 374. 
+12 
+In subsequent decisions, this Court has reaffirmed its Argersinger decision and 
+emphasized the special nature of imprisonment. In finding no right to counsel where the 
+defendant was ultimately fined and not imprisoned, Chief Justice Rehnquist noted: 
+the [Argersinger] Court’s conclusion [was] that incarceration was 
+so severe a sanction that it should not be imposed as a result of a 
+criminal trial unless an indigent defendant had been offered 
+appointed counsel to assist in his defense, regardless of the cost to 
+the States implicit in such a rule. The Court in its opinion 
+repeatedly referred to trials “where an accused is deprived of his 
+liberty” id, at 32, and to “a case that actually leads to imprisonment 
+even for a brief period,” id. at 33. The Chief Justice in his opinion 
+concurred in the result also observed that “any deprivation of 
+liberty is a serious matter.” Id. at 41. 
+Scott v. Illinois, 440 U.S. 367, 372-73 (1979). See also Baldasar v. Illinois, 446 U.S. 222 (1980) 
+(holding that uncounseled misdemeanor conviction may not be used under an enhanced penalty 
+statue to convert a subsequent misdemeanor into a felony with a prison term). 
+The Seventh Circuit’s rule -- that 6 to 21 additional months imprisonment is not 
+“significant” -- also clashes with this Court’s teachings under the right to trial by jury. The right 
+to a jury trial is guaranteed by the Sixth Amendment for any trial where the potential punishment 
+is imprisonment of six months or more. See Baldwin v. New York, 399 U.S. at 66; Duncan v. 
+Louisiana, 391 U.S. 145 (1968). As the controlling opinion of Justice White stated in Baldwin, 
+“no offense can be deemed ‘petty’ for purposes of the right to trial by jury where imprisonment 
+for more than six months is authorized.” 399 U.S. at 69. 
+Footnote continued from previous page 
+13 
+
+
+=== PDF PAGE 12 ===
+The Seventh Circuit’s rule requiring a showing of “significant prejudice” has no support 
+in this Court’s decisions in Strickland or Lockhart. Furthermore, it conflicts with the Supreme 
+Court’s prior holdings that any term of imprisonment implicates the right to the effective 
+assistance of counsel. The Seventh Circuit’s decision below also is flatly inconsistent with the 
+Supreme Court’s conclusion that even the six months in prison is sufficient to warrant the full 
+guarantees of the right to trial by jury. Accordingly, this Court should grant the writ and reverse 
+the Seventh Circuit's mistaken interpretation of the Sixth Amendment of the U.S. Constitution. 
+B. The Seventh Circuit’s Interpretation of “Prejudice” Conflicts With 
+Other Circuits and District Courts 
+The Seventh Circuit has ruled that prejudice under Strickland requires a “significant” 
+increase in one’s prison sentence due to counsel’s ineffective assistance. The Seventh Circuit has 
+further held, as the instant case demonstrates, that such “significant prejudice” requires, at a 
+minimum, an increase in a defendant’s sentence of more than two offense levels under the 
+sentencing guidelines. (App. 1-2).5 The Seventh Circuit’s interpretation of prejudice — that it 
+must be “significant” and, at a minimum, exceed two offense levels under the sentencing 
+5 See Durrive, 4 F.3d at 551 (“Adjusting the offense level by two or three steps is exactly the 
+routine decision that is supposed to be handled at sentencing and on direct appeal. . . . [N]o one 
+would have dreamed that choices influencing the term of imprisonment within such a narrow 
+range could be relitigated on collateral attack.”); Martin, 109 F.3d at 1178 (“the sort of increase 
+produced by a few levels’ difference in sentencing calculations cannot be raised indirectly on 
+collateral attack by complaining about counsel’s work”), Gil v. United States, 4 F. Supp. 2d 760, 
+769 (N.D. Ill. 1998) (“This two-point difference does not constitute a significant difference in 
+Gil’s sentence,” citing Martin), United States v. Hubbard, 1997 WL 639232, *4 (N.D. Ill. Oct. 6, 
+1997) (“The Seventh Circuit [in Martin] appeared to state a per se rule that a change of two 
+offense levels would not satisfy the “significant” change requirement.”); Gonzalez v. United 
+States, 967 F. Supp. 326, 332 (N.D. Ill. 1997) (“Gonzalez — just like Durrive and Martin — 
+14 
+guidelines — has not been followed by other courts of appeal or district courts outside the circuit. 
+Indeed, there is a wide divergence of view among the lower courts on this issue of what 
+constitutes prejudice under Strickland for sentencing errors. 
+The Eighth Circuit, for example, has twice taken a diametrically opposite position from 
+the Seventh Circuit and granted Section 2255 motions nearly identical to Mr. Glover’s action 
+here. In United States v. Granados, 168 F.3d 343 (8th Cir. 1999), the petitioner challenged his 
+conviction and 175-month sentence. He was sentenced as an offense level 32, which resulted in 
+a range of 151-1$8 months. Petitioner’s offense level should have been a level 30, or a range of 
+121-151 months. The court noted that Granados has been sentenced to additional months in 
+prison solely “because his attorney was not familiar with the Guidelines.” Jd. at 346. In these 
+circumstances, the Eighth Circuit did not consider there to be any question that Granados 
+suffered prejudice and granted Granados’ motion: “There can be little doubt that the petitioner’s 
+substantial rights are affected if his prison sentence is longer than it should have been.” /d.° 
+Similarly, in United States v. Ford, 918 F.2d 1343, 1350 (8th Cir. 1990), the Eighth Circuit 
+found a two offense level error sufficient to satisfy Strickland. As the Ford court noted, “Had 
+_Ford’s trial counsel objected to the base offense level of 34, it is possible the district court would 
+have modified the level to reflect Ford’s acceptance of responsibility. Ford’s original sentence, 
+Footnote continued from previous page 
+complains about a two-level difference, i.e., a ‘few levels’ difference.’ Such an argument is 
+barred from review by way of a § 2255 motion pursuant to the holdings of Durrive and Martin.”). 
+6 In fact, the Granados court raised sua sponte the whole issue of counsel’s ineffective assistance 
+concerning the Sentencing Guidelines, despite the fact that it had never been raised by petitioner 
+in his pleadings. 
+15 
+
+
+=== PDF PAGE 13 ===
+300 months, is 38 months longer than the maximum sentence resulting from a base offense level 
+of 32. Counsel’s error had an effect on Ford’s sentence, and therefore we reverse Ford’s 
+sentence...” /d. 
+The D.C. Circuit also has not adopted a “significant prejudice” requirement. In United 
+States v. Thompson, 27 F.3d 671 (D.C. Cir.), cert. denied, 513 U.S. 1050 (1994), the D.C. Circuit 
+found the prejudice prong of Strickland was satisfied by a one offense level change. Despite the 
+United States’ argument that Thompson had not demonstrated prejudice, the D.C. Circuit 
+disagreed and remanded for a determination as to whether, but for counsel's deficient 
+performance, Thompson would have been sentenced as if his offense level was 34 instead of 35. 
+In United States v. Soto, 132 F.3d 56, 59 (D.C. Cir. 1997), the D.C. Circuit also applied the 
+Strickland test without any “significant prejudice” threshold. The Court found in favor of Soto’s 
+ineffective assistance claim, noting that Soto’s counsel error would have reduced Soto's sentence 
+by at least two offense levels (17 months). /d. 
+The Third Circuit also has analyzed the same fact pattern as Soto, namely, petitioner's 
+counsel failing to argue for a downward departure under the Guidelines for being a minimal 
+participant in the conspiracy. United States v. Headley, 923 F.2d 1079 (3d Cir. 1991). The Third 
+Circuit also did not impose any “significant prejudice” requirement, nor any requirement that the 
+incorrect sentence involve more than two offense levels. /d. at 1081-82, 1084. 
+The Second and Ninth Circuits also have declined to graft a “significance” requirement 
+onto the Strickland prejudice prong and, instead, have found prejudice where the counsel’s 
+deficient performance causes no additional prison time. These circuits addressed ineffective 
+assistance of counsel claims in connection with convictions on counts which were to run 
+concurrently with other, unreviewed convictions. See Jackson v. Leonardo, 162 F.3d 81 (2d Cir. 
+16 
+1998); United States v. Palomba, 31 F.3d 1456 (9th Cir. 1994). Even though there was no actual 
+effect on the petitioner’s sentence, these courts found that the possibility of enhanced sentence 
+should petitioner be later arrested and sentenced under a repeat offender statutes constituted 
+sufficient prejudice under Strickland. See Jackson, 162 F.3d at 86; Palomba, 31 F.3d at 1465.’ 
+The D.C. and Ninth Circuits did not debate whether the possibility of later injury from a 
+conviction on an additional count was “significant.” Nor was there any discussion about whether 
+the possible later injury equaled a two offense level increase in prison time. These courts 
+believed that the possibility of an impact on defendant’s sentence was sufficient to satisfy 
+Strickland: “\t is settled that an error that may increase a defendant’s sentence is prejudicial.” 
+Palomba, 31 F.3d at 1465 (citations omitted). While recognizing that “the degree of prejudice 
+may not seem great,” Jackson, 162 F.3d at 86, these circuits held that the mere possibility of a 
+later enhanced sentence “satisfied the unfair prejudice prong under Strickland and [Lockhart v.]} 
+Fretwell’s test for ineffective assistance.” Palomba, 31 F.3d at 1466.* 
+Moreover, even the circuits which have required “significant prejudice” have indicated 
+that they would not adopi the two-offense level per se rule that the Seventh Circuit applied here. 
+Thus, the Seventh Circuit in Durrive pointed to the decision in Spriggs v. Collins, 993 F.2d 85 
+(5th Cir. 1993), in support of its rule. Spriggs had complained of counsel’s failure to object to 
+7 Other possible sources of prejudice include the stigma of an improper conviction and its possible 
+use to impeach the defendant’s credibility in future proceedings. 31 F.3d at 1465. 
+8 in fact, the Ninth Circuit has expressly declined to adopt the “significant prejudice” rule of the 
+Seventh Circuit: “To begin with, the Ninth Circuit has not adopted Spriggs (and Durrive] and 
+continues to use the regular Strickland test.” United States v. Wheeler, 81 F.3d 171, 1996 WL 
+155139 (9th Cir. April 2, 1996). - 
+17 
+
+
+=== PDF PAGE 14 ===
+certain facts in the presentence report which might have affected the judge’s exercise of his 
+discretion in sentencing. Given the latitude of the judge’s discretion, the Spriggs court required a 
+showing that the attorney’s deficient performance had led to a significant increase in the 
+defendant’s prison term. Yet, in Spriggs, the Fifth Circuit was careful to state that the 
+“significant prejudice” concept should not be the rote, automatic rule of the Seventh Circuit here. 
+In language which would be controlling in Mr. Glover’s case, the Spriggs court qualified its 
+“significant prejudice” requirement: 
+“Significance” is a relative term here.... We note that one 
+foreseeable exception to this requirement would be when a 
+deficiency by counsel resulted in a specific, demonstrable 
+enhancement in sentencing—such as an automatic increase for a 
+‘career’ offender or an enhancement for use of a handgun during a 
+felony— which would have not occurred but for counsel’s error. 
+Id. at n.4. The Fifth Circuit also has made clear that, rather than the Seventh Circuit’s inflexible 
+rule, the “significance” test in the Fifth Circuit involved the trial court’s consideration of a host 
+of factors: 
+In deciding whether such prejudice occurred, a court should consider 
+a number of factors: the actual amount of the sentence imposed on 
+the defendant by the sentencing judge or jury; the minimum and 
+maximum sentences possible under the relevant statute or sentencing 
+guidelines, the relative placement of the sentence actually imposed 
+within that range, and the various relevant mitigating and aggravating 
+factors that were properly considered by the sentences. 
+Id. at 88-9. See also United States v. Segler, 37 F.3d 1131, 1136 (Sth Cir. 1994) (same). 
+The Fourth and Tenth Circuits also have accepted the “significant prejudice” requirement, 
+but these two circuits do not appear to have adopted the Seventh Circuit’s rule that a two-offense 
+level change is per se insufficient to demonstrate prejudice. In fact, courts in these circuits have 
+found two-offense level changes to be satisfactory. See, e.g., United States v. Murray, 176 F.3d 
+18 
+476, 1999 WL 187192,*5S (4th Cir. 1999) (Strickland prejudice found where counsel’s deficient 
+performance may have caused petitioner to be sentenced as level 39, rather than level 37); United 
+States v. Kissick, 69 F.3d 1048 (10th Cir. 1995) (Strickland prejudice found where counsel’s 
+deficient performance may have caused petitioner to be assigned a criminal history category VI, 
+rather than a IV) (noting that, “Importantly, the Spriggs [decision] added that ‘one foreseeable 
+exception to this requirement would be when a deficiency by counsel resulted in a specific, 
+demonstrable enhancement in sentencing — such as an automatic increase for a ‘career’ offender 
+or an enhancement for use of a handgun during a felony — which would have not occurred but for 
+counsel’s error.”” Jd. at 1055); United States v. Harfst, 168 F.3d 398 (10th Cir. 1999) (Strickland 
+prejudice demonstrated where counsel’s deficient performance may have caused petitioner to be 
+sentenced at a two or four offense levels too high.); Smith v. United States, 871 F. Supp. 251, 256 
+(E.D. Va. 1994) (Strickland prejudice found where counsel’s deficient performance may have 
+caused petitioner to be sentenced as an offense level 40, rather than level 38). 
+Finally, the Sixth Circuit-has recognized that the Fifth, Seventh and Tenth Circuits “have 
+modified the second prong of the Strickland test” by requiring “that but for trial counsel’s errors 
+the defendants’ non-capital sentence would have been significantly less harsh.” Arredondo v. 
+United States, 178 F.3d 778, 784 (6th Cir. 1999). The Arredondo court also noted that the Fifth 
+Circuit provided for an “exception” where counsel’s deficient performance resulted in a 
+“specific, demonstrable enhancement in sentencing,” but that it was “unclear” whether the 
+Seventh or Tenth Circuit recognized this exception. /d. Because the case before it satisfied even 
+a heightened standard of prejudice, the Sixth Circuit concluded that it “need not resolve today the 
+degree of prejudice that is required for Strickland to apply to claims of ineffective assistance 
+19 
+
+
+=== PDF PAGE 15 ===
+during noncapital senter. ing proceedings.” /d. Nevertheless, the Sixth Circuit expressed serious 
+misgivings about the Seventh Circuit’s reasoning in Durrive, noting 
+we question whether this issue is best addressed by modifying the 
+prejudice prong of Strickland. The degree of the attorney’s error 
+may better be evaluated directly, under Strickland’s performance. 
+Id. 
+Here, Mr. Glover suffered from a “clear, demonstrable enhancement in sentencing” due 
+to his counsel’s deficient performance — he was sentenced at an offense level 28 rather than a 
+level 26, resulting in an additional sentence of between 6 to 21 months. The Seventh Circuit has 
+held that Mr. Glover cannot demonstrate prejudice as a matter of law. As demonstrated above, 
+this decision directly conflicts with the holdings of numerous other circuit courts. The courts of 
+appeals have expressed widely divergent views on this issue. Accordingly, this Court should 
+grant certiorari in this case to resolve this conflict and create uniformity in the federal court’s 
+handling of this important issue. 
+Cc. The Seventh Circuit’s “Significant Prejudice” Requirement Leads to 
+Arbitrary And Inconsistent Results 
+The Seventh Circuit refuses to find constitutionally ineffective assistance of counsel 
+unless counsel’s error relating to the sentencing guidelines causes a “significant” increase in the 
+defendant’s sentence. Other than to state that a change in “a few levels” is not sufficient 
+prejudice, however, the Seventh Circuit has not explained how the lower courts are to determine 
+what is a “significant” increase in a defendant’s sentence. The inevitable result has been 
+arbitrary and inconsistent lower court decisions. 
+Mr. Glover’s case is an example of the problems inherent in the Seventh Circuit’s broad 
+rule. As an offense level 28, Glover’s sentencing guideline range was 78 to 97 months and he 
+20 
+received an 84-month sentence. But for his counsel’s deficient performance, Glover should have 
+been sentenced as an offense level 26 with a guidelines range of 63 to 78 months. Assuming that 
+he would have been sentenced to the low end of the correct sentencing range, Mr. Glover 
+received an “extra” 21 months in prison due to his counsel’s error. Is the Seventh Circuit saying 
+that 21 months can never rise to the level of “significant prejudice”? The Seventh Circuit has 
+characterized its “significant prejudice” requirement as “a rule of proportionality.” Martin, 109 
+F.3d at 1178. Here, Mr. Glover’s sentence was increased by up to 25 percent (21 months 
+increase on an 84-month sentence). Is the Seventh Circuit’s view that an increase in one’s term 
+of imprisonment of 25% can never rise to the level of “significant prejudice”? The Seventh 
+Circuit seems committed to its per se rule that two or three offense levels can never satisfy the 
+prejudice prong of Strickland. But in some cases, two or three offense levels can mean 89 to 112 
+months of additional time in prison. See Martin, 109 f.3d at 1183 (Judge Rovner, dissenting). 
+Does the Seventh Circuit believe that eight or nine additional years in prison is not 
+“significant”?? 
+Without any real guidance, judges are left to their own unfettered discretion. It is not 
+surprising in these circumstances that the lower courts’ application of the Seventh Circuit's 
+“significant prejudice” rule has been inconsistent. Compare, e.g., Allen v. United States, 175 
+F.3d 560 (7th Cir. 1999) (42 additional months in prison; no prejudice); United States v. Paz, 
+1997 WL 158338 (N.D. Ill. March 31, 1997) (41 additional months in prison; no prejudice); with 
+9 “If an increase of eight or nine years is not ‘significant,’ what is? Does the ‘significance’ depend 
+on the overall length of the petitioner’s term? In other words, would an increase of a year be 
+‘insignificant’ for someone serving a ten-year term, but ‘significant’ for someone serving a two- 
+year term?” Martin, 109 F.3d at 1183 (Judge Rovner, dissenting). 
+21 
+
+
+=== PDF PAGE 16 ===
+United States v. Tai, 972 F. Supp. 434 (N.D. Ill. 1997) (15 to 42 additional months in prison; 
+prejudice found) (“An increase of more than 15 months in the length of a prisoner’s sentence 
+seems “significant” to us. Jd. at 437); United States v. Hubbard, 1997 WL 639232 (N.D. Ill. Oct. 
+6, 1997) (40 additional months in prison; prejudice found). 
+The arbitrary nature of the Seventh Circuit’s rule corrodes public confidence in the 
+federal judicial system and undermines the purpose of the Sentencing Guidelines. As Judge 
+Rovner wrote: 
+I cannot help but believe that in the adoption of this “significant” 
+test, we have transformed ourselves into a kind of feudal duchy, 
+with the power to grant or deny a reprieve to wrongfully sentenced 
+prisoners according to our own whim. This is repugnant not only 
+to our office as appellate judges but to the Guidelines themselves, 
+which after all were adopted to achieve greater consistency in 
+sentencing among similar situated defendants. 
+Martin, 109 F.3d at 1184. Accordingly, this Court should grant the writ and end these 
+inconsistent and arbitrary results. 
+D. This Case Presents An Issue of Recurring Importance 
+“Familiarity with the structure and basic content of the [Sentencing] Guidelines . . . has 
+become a necessity for counsel who seek to give effective representation.” United States v. Soto, 
+132 F.3d 56, 59 (D.C. Cir. 1997) (quoting United States v. Day, 969 F.2d 39, 43 (3d Cir. 
+1992)).'° It is true, unfortunately, that many attorneys have not successfully mastered the 
+10 “Whether lawyers get the Guidelines wrong by misinterpreting the implication of a particular 
+provision or by failing altogether to raise a potentially helpful provision, . . . such drastic missteps 
+clearly . . . amount to errors ‘so serious that counsel was not functioning as the ‘counsel’ 
+guaranteed the defendant by the Sixth Amendment.”” United States v. Soto, 132 F.3d at 59 
+(quoting Strickland, 466 U.S. at 687). 
+workings of the Guidelines. Accordingly, the problem of errors by counsel relating to the 
+Sentencing Guidelines is a common and serious one. 
+The recurring nature of this issue is reflected in the numerous court of appeals decisions 
+discussed above. See supra Section B. Yet, these cases do not fully reflect the scope of the 
+problem. Many more trial court decisions address this issue of counsel’s mistakes in interpreting 
+the Sentencing Guidelines, including countless cases that go unreported. In the Seventh Circuit 
+alone, for example, the court of appeals and district courts have addressed th.'s issue on numerous 
+occasions.!! 
+In Mr. Glover’s case, as in many cases in the Seventh Circuit and other jurisdictions, the 
+courts have conceded that the defendant was sentenced to an incorrect prison term under the 
+Sentencing Guidelines. The courts also have conceded that the defendant’s counsel performed 
+below the acceptable professional norm. These courts, however, are unwilling to correct these 
+incorrect sentences. Instead, while acknowledging that “an extra year in custody is significant 
+from the defendant’s perspective,” Durrive, 4 F.3d at 551, the courts have concluded that it is not 
+11 See, e.g., Robinson v. United States, 196 F.3d 748, 754 (7th Cir. 1999); Day v. United States, 191 
+F.3d 455, 1999 WL 528145 (7th Cir. July 20, 1999); Harden v. United States, 191 F.3d 456, 
+1999 WL 547979 (7th Cir. July 20, 1999); Allen v. United States, 175 F.3d 560 (7th Cir. 1999); 
+Martin v. United States, 109 F.3d 1177 (7th Cir. 1996); Durrive v. United States, 4 F.3d 548 (7th 
+Cir. 1993); Unger v. United States, 8 F. Supp. 1151 (E.D. Wis. 1998); Gil v. United States, 4 F. 
+Supp. 2d 760 (N.D. Ill. 1998); Fout v. United States, 165 F.3d 32, 1998 WL 636780 (7th Cir. 
+Aug. 27, 1998); Davis v. United States, 1998 WL 142369 (N.D. Ill. March 19, 1998); United 
+States v. Tai, 972 F. Supp. 434 (N.D. Ill. 1997); Burgos v. United States, 968 F. Supp. 380 (N.D. 
+Ill. 1997); Gonzalez v. United States, 967 F. Supp. 326 (N.D. Ill. 1997); United States v. Paz, 
+1997 WL 158338 (N.D. Ill. March 31, 1997);United States v. Hubbard, 1997 WL 639232 (N.D. 
+Ill. Oct. 6, 1997); United States v. Evans, 1995 WL 423693 *8-9 (N.D. Ill. July 17, 1995). 
+23 
+
+
+=== PDF PAGE 17 ===
+worth their time and attention unless the additional time in prison achieves some unspecified 
+higher level of “significant increase.” 
+Having defendants serve prison sentences longer than the period called for by the 
+applicable laws and regulations is an anathema to the rule of law. It is unjust, unfair and wrong. 
+Yet, it is the current state of the law, not only for Mr. Glover, but in the Seventh Circuit and 
+several other circuits. Absent intervention by this Court, more and more defendants will become 
+victims of this wrongheaded and misguided “significant prejudice” rule. We therefore urge this 
+Court to grant the writ of certiorari in this case and review this issue of recurring importance. 
+CONCLUSION 
+For all of the foregoing reasons, the petition for writ of certiorari should be granted. 
+Respectfully submitted, 
+MICHAEL L. WALDMAN 
+(Counsel of Record) 
+FRIED, FRANK, HARRIS, SHRIVER 
+& JACOBSON 
+1001 Pennsylvania Avenue, NW, Suite 800 
+Washington, DC 20004 
+(202) 639-7000 
+Counsel for Petitioner 
+207475/DC01 
+24 , 
+
+
+=== PDF PAGE 18 ===
+APP. 1 
+2ND CASE of Level | printed in FULL format. 
+PAUL L. GLOVER. Petitioner-Appeliam. ». UNITED STATES of AMERICA. Respondent-Appeliee 
+No. 98-402! 
+UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT 
+1999 U.S. App. LEXIS 16876 
+June 23. 1999 *. Submited 
+* After an examunation of the briefs and the record. we have concluded that oral argument 1s 
+unnecessary. Thus. the appeal is submutted on the briefs and the record. See Fed. R. App. P. 34a) 
+(2). 
+July 15, 1999, Decided 
+NOTICE: (*1] RULES OF THE SEVENTH CIRCUIT 
+COURT OF APPEALS MAY LIMIT CITATION TO 
+UNPUBLISHED OPINIONS. PLEASE REFER TO 
+THE RULES OF THE UNITED STATES COURT OF 
+APPEALS FOR THIS CIRCUIT. 
+SUBSEQUENT HISTORY: Reported in Table Case 
+_- o"eanhosma-ai i 229. 6) S Appr LEXIS 47) 
+PRIOR HISTORY: Appeal from the United States 
+District Court for the Northern Districi of Illinois. 
+Eastern Division. No. 97 C 8382. William T. Han. 
+Judge. 
+DISPOSITION: AFFIRMED. 
+COUNSEL: PAUL L. GLOVER, Petitioner - Appellant. 
+Pro se. Marion. IL USA. 
+For UNITED STATES OF AMERICA. Respondent 
+- Appellee: Stephen Andersson, OFFICE OF THE 
+UNITED STATES. Chicago, IL USA. 
+JUDGES: Before Hon. DANIEL A. MANION. Circuit 
+Judge. Hon. MICHAEL S. KANNE. Circuit Judge. 
+Hon. DIANE P. WOOD. Circuit Judge. 
+OPINION: ORDER 
+Paul Glover was convicted of conspiracy. soliciting 
+and receiving kickbacks. money laundering. and tax eva- 
+sion. and was sentenced to 84 months in prison. He filed 
+a motion under 28 U.S.C. § 2255 to vacate. set aside. or 
+correct his sentence. on the ground that his lawvers were 
+ineffective in failing to argue that the sentencing cour _ 
+his conspiracy and kickback offenses under U.S.S.G. § 
+3D1.2. The district court denied his motion, and we 
+affirm. 
+In order (*2] to successfully claim ineffective assis- 
+tance of counsel. Glover would need to show that his 
+counsel performed below a constitutional threshold and 
+that the deficient performance prejudiced him. See 
+Strickland v. Washington, 466 U.S. 668. 687. 80 L. Ed. 
+2d 674, 104 S. Ct. 2052 (1984). Even if we were to 
+assume that Glover's attorneys performed inadequately, 
+the second prong. prejudice, is missing here. Glover 
+argues that his attorneys’ failure to argue the correct 
+imerpretation of U.S.S.G. § 3D1.2 led to an adjusted 
+offense level two levels higher than 1 should have been. 
+This court has held that only a significant increase in the 
+semtence rises to the level of the type of prejudice that 
+will support an ineffective assistance of counsel claim on 
+collateral attack. Allen v. United States, 175 F.3d 560. 
+1999 WL 243623 (7th Cir. 1999); Martin v. United 
+States, 109 F.3d 1177, 1178 (7th Cir. 1996): Durrive v. 
+Unued States, 4 F.3d 548, 551 (7th Cir. 1993). 
+Al sentencing. the district court determined that 
+Glover's adjusted offense level under the Sentencing 
+Guidelines was 28 and his criminal history category |*3}) 
+was |, resulting in a sentencing range of 78 to 97 months 
+in prison. The court selected a midpoint in the range. 
+sentencing Glover to 84 months in prison. Glover al- 
+leges that, but for the errors of his counsel, his adjusted 
+offense level would have been 26, resulting in a range 
+of 63-78 months imprisonment. Thus, he argues. his 
+sentence would have been 6 to 2! months lower than 
+APP. 2 
+the 84-month sentence he received. Unforwnately for 
+Glover. under Martin and Durrive. this potential de- 
+crease 1s not sufficiently significant to be cognizable on 
+collateral attack. 
+The judgment of the distnct cour is AFFIRMED 
+
+
+=== PDF PAGE 19 ===
+APP #3 
+PAGE 2 
+3RD CASE of Level 1 printed in FULL format. 
+UNITED STATES OF AMERICA, Plaintiff, v. PAUL L. GLOVER, 
+Defendant. 
+No. 97 C 8382, (95 CR 40) 
+UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF 
+ILLINOIS, EASTERN DIVISION 
+1998 U.S. Dist. LEXIS 14238 
+September 3, 1998, Decided 
+DISPOSITION: {*1) Defendant's motion to vacate sentence [1] denied. 
+COUNSEL: For UNITED STATES OF AMERICA, plaintiff (97-CV-8382): AUSA, United 
+States Attorney's Office, Chicago, IL. 
+PAUL L GLOVER, defendant (97-CV-8382), Pro se, Marion, IL. 
+For PAUL L GLOVER, defendant (95-CR-40): George Joseph Murtaugh, Jr., Attorney 
+st Law, Chicago, Ici. 
+For PAUL L GLOVER, defendant (95-CR-40): Thomas Michael Breen, Martin, Breen & 
+Merrick, Chicago, IL. 
+J. S$. Attorneys: Stephen Dale Anderson, United States Attorney's Office, 
+Thiago, IL. 
+JUDGES: William T. Hart, JNITED STATES DISTRICT JUDGE. 
+SPINIONBY: William T. Hart 
+PINION: MEMORANDUM OPINION AND ORDER 
+Following a jury trial, defendant Paul Glover was found guilty of one count 
+>f a conspiracy in violation of the Racketeer Influenced and Corrupt 
+S9rganizations Act, 18 U.S.C. @ 1962(d); 11 counts of soliciting and 
+receiving kickbacks in violation of 18 U.S.C. @ 1954; two counts of money 
+laundering in violation of 18 U.S.C. @ 1956(a) (1) (B) (i); and four counts of 
+tax evasion in violation of 26 U.S.C. @ 7206. He was sentenced to concurrent 
+terms of incarceration with the longest term being 84 months. The term 
+of incarceration is to be followed by [*2) three years’ supervised release. 
+Additionally, Glover was required to forfeit $ 325,000. Glover's conviction 
+and sentence were affirmed on direct appeal, where he was represented by the 
+same counsel who represented him at trial. See United States v. Glover, 101 F.3d 
+1183 (7th Cir. 1996). Less than one year after the decision on appeal became 
+final, Glover filed his present motion pursuant to 28 U.S.C. @ 2255. 
+Glover presently contends that his guideline sentencing range was incorrectly 
+calculated in that his money laundering offenses should have been grouped with 
+his conspiracy and kickback offenses. See U.S.S. G. @ 3D1.2. He further contends 
+that his counsel were ineffective for failing to adequately raise this issue at 
+che time of sentencing and for failing to raise the issue at all on direct 
+appeal. At the time of sentencing, it was determined that Glover's total 
+oe 
+APP #4 
+PAGE 3 
+1998 U.S. Dist. LEXIS 14238, * 
+offense level was 28 and his criminal history category was I for a guideline 
+range of 78 to 937 months. He was sentenced to 84 months’ incarceration. Had 
+the money laundering been grouped with the conspiracy and kickback offenses, 
+the total offense level would have been 26 and the guideline range would have 
+been ([*3) 63 to 78 months. nl Glover's sentence would have had to have been 
+reduced by at least 6 months and possibly up to 21 months, though it is unlikely 
+that he would have been sentenced to the low end of the 63-78 month range since 
+he was not sentenced on the low end of the 78-97 month range. n2 
+nl The government contends that reducing the newly grouped offense level to 
+26 would require that. an additional level be added based on the separately 
+.grouped tax offenses being within 8 points of the 26 offense level. See U.S.S.G. 
+@ 3D1.4(b). However, the tax offenses had an offense level of 16, not the 18 
+referred to in the government's brief. Perhaps the government was adding two 
+points for obstruction of justice, but the probation officer did not recommend 
+such an adjustment for the tax offenses and no finding to that effect was made. 
+Since the tax offenses would be 10 levels lower than the other group, no 
+adjustment would be made. See id. @ 3D1.4ic). 
+m2 The tax offenses could have been a basis for not sentencing on the low 
+end. See U.S.S.G. @ 3D1l.4(ic). 
+At the time plaintiff was sentenced, the Seventh Circuit had not yet 
+considered the particular grouping issue that Glover now attempts to raise. 
+Other circuits had held that separate grouping was required. See, e.g., United 
+States v. Lombardi, 5 F.3d 568, 570-71 (lst Cir. 1993) (grouping money 
+laundering separate from conspiracy/mail fraud); United States v. Taylor, 984 
+F.2d 298, 303 (9th Cir. 1993) (grouping money laundering separate from wire 
+fraud); United States v. Smith, 13 F.3d 1421, 1428 (10th Cir.), cert. denied, 
+513 U.S. 878 (1994) (grouping money laundering separate from mail fraud). In 
+United States v. Wilson, 98 F.3d 281, 282-84 (7th Cir. 1996), the Seventh 
+Circuit held that the @ 1956 money laundering offenses and mail fraud offenses 
+involved in that case should be grouped. The government apparently concedes that 
+Wilson would be controlling as to the grouping of Glover's conspiracy, kickback, 
+and money laundering offenses. Glover was sentenced on September 21, 1995, his 
+appeal was argued September 13, 1996, and the decision on appeal was issued 
+December 2, 1996. Wilson was argued April 1, 1996 and issued October 17, 1996. 
+To succeed on an ([(*5) ineffective assistance of counsel claim, it must be 
+shown both that counsel's performance was deficient and that the deficient 
+performance prejudiced the defendant. Melvin v. United States, 78 F.3d 327, 329 
+(7th Cir.), cert. denied, 519 U.S. 963, 136 L. Ed. 2d 301, 117 S. Ct. 384 
+(1996). The government contends that counsel's performance could not have 
+been deficient, at sentencing or on appeal, for failing to raise an issue that 
+had not yet been decided by the Seventh Circuit. n3} Glover disagrees, arguing 
+that other case law that predated the sentencing made it clear thst this was a 
+viable issue that should have been raised by effective counsel. Tne government 
+also contends that Glover cannot satisfy the prejud.ce component of 
+an ineffective assistance of counsel claim because “he potential effect on 
+his sentence is not significant enough to satisfy the prejudice requirement. 
+
+
+=== PDF PAGE 20 ===
+APP #5 
+PAGE 4 
+1998 U.S. Dist. LEXIS 14236, * , 
+ecause it is held that Glover does not satisfy the prejudice requirement, it is 
+nnecessary to consider the issue of deficient performance. See Melvin, 78 F.3d 
+it 329. 
+n3 The government also contends that counsel adequately argued the issue 
+it sentencing. As discussed below, none of the deficiency of performance issues 
+eed be resolved. Additionally, the adequacy of trial performance issue need not 
+e resolved because, even if the grouping issue was adequately argued 
+t sentencing, there is no dispute that it was not raised at all on appeal. 
+Claimed errors in guideline calculations generally are not cognizable on a @ 
+255 motion. Martin v. United States, 109 F.3d 1177, 1178 (7th Cir. 1996), 
+ert. denied, 139 L. Ed. 2d 260, 118 S. Ct. 335 (1997); Durrive v. United 
+tates, 4 F.3d 548, 549-51 (7th Cir. 1993); Scott v. United States, 997 F.2d 340 
+7th Cir. 1993). When, as here, the constitutional basis for relief on such a 
+‘laim is ineffective assistance of counsel, the potential change of sentence 
+wst be a “significant” amount in order to satisfy the prejudice prong of 
+nm ineffective assistance of counsel claim. Martin, 109 F.3d at 1178; Durrive, 
+| F.3d at 551. Durrive involved a maximum reduction of two offense levels with a 
+ossible reduction of sentence from 120 months’ incarceration to somewhere 
+yetween 98-and 108 months. n4 The Seventh Circuit held this was not 
+| significant change that would satisfy the prejudice requirement. In Martin, 
+he dispute involved a change of one criminal history category, which is 
+quivalent to two offense levels. The effect in terms of length of incarceration 
+as not specified. nS The Seventh Circuit appeared to state a per se rule that a 
+hange of [*7) two offense levels would not satisfy the significant change 
+equirement. Martin, 109 F.3d at 1178. See also United States v. Hubbard, 1997 
+.S. Dist. LEXIS 16023, 1997 WL 639232 *4 (N.D. Ill. Oct. 6, 1997); Gonzalez v. 
+mited States, 967 F. Supp. 326, 332 (N.D. Ill. 1997). 
+n4 The low end of the guideline range would have been 87 months, but the 
+eventh Circuit assumed the sentencing judge would not have gone below the 
+liddle of the guideline range. 
+nS Martin's original sentence was 137 months. See United States v. Martin, 
+64 F.2d 714, 716 (7th Cir. 1992); United States v. Martin, 1995 U.S. Dist. 
+EXIS 3459, 1995 WL 124126 *4 (N.D. Ill. March 20, 1995). 
+The Seventh Circuit has not directly addressed the question of how much time 
+ould actually be enough to satisfy the significant change requirement. In 
+lartin, 109 F.3d at 1178, the court states: “Although we recognized in Durrive 
+that any extra time in prison is significant from the defendant's perspective, 
+we adopted a rule of proportionality: the sort of increase produced by a few 
+*8) levels’ difference in sentencing calculations cannot be raised indirectly 
+ym collateral attack by complaining about counsel's work.” This implies that a 
+change of more than a few levels can be significant. But even taking that 
+APP #6 
+PAGE S 
+1998 U.S. Dist. LEXIS 14238, * 
+implication as authoritative, “few” is not a precise term and the Seventh 
+Circuit does not indicate how the difference in length of sentence should be 
+considered. And by referring to proportionality, the Seventh Circuit may be 
+indicating that the percentage change in sentence is also to be 
+considered--a one-year increase doubling a one-year sentence may be considered 
+significant even if a one-year increase to a 30-year sentence is not. 
+The present case arguably involves a potential change in sentence that is 
+slightly larger (proportionally) than that involved in Durrive. Durrive involved 
+an offense level change from 30 to 28 n6 and a sentence reduction of 19 to 18.3 
+per cent. n? The present case involves an offense level change from 28 to 26 and 
+@ sentence reduction of 7.1 to 25 per cent. n8 The potential sentence reduction 
+in the present cass is not large enough to satisfy the significant change 
+requirement of Durrive and Martin and other cases ([*9] have so held as 
+to proportionally larger changes. See Unger v. United States, 8 F. Supp. 2d 
+1151, 1998 U.S. Dist. LEXIS 9303, 1998 WL 337476 *3 (E.D. Wis. June 22, 1998) 
+(reduction in total offense level from 28 to 24); Davis v. United States, 1998 
+U.S. Dist. LEXIS 3624, 1998 WL 142369 *3 (N.D. Ill. March 19, 1998) (two-level 
+reduction changing the sentence of incarceration from 51 months to 37 months). 
+Because the error claimed in the present case did not have a significant effect 
+on Glover's sentence, he does not state any basis for granting @ 2255 relief. 
+n6 United States v. Durrive, 902 F.2d 1221, 1231 n.8 (7th Cir. 1990), 
+indicates that Durrive's total offense level was 30 (28 plus a two-level 
+enhancement). With a criminal history category of II, a two-level change would 
+have changed his guideline range from 108-135 to 87-108, the ranges referred to 
+in Durrive, 4 F.3d at 549, 551. 
+n? 120 months reduced by 12 to 22 months. 
+n8 84 months reduced by 6 to 21 months. However, if like Durrive, it is not 
+assumed that the potential reduction is to the low end, but instead is to 6 
+above the low end as was the original sentence, then the maximum reduction is to 
+69, for a percentage change of 17.9 per cent (15/84). 
+IT IS THEREFORE ORDERED that defendant's motion to vacate sentence [1) is 
+denied. The Clerk of the Court is directed to enter judgment in favor of the 
+government and against defendant denying the @ 2255 motion. If defendant wishes 
+to appeal this order, he must file a Notice of Appeal to the United States Court 
+of Appeals for the Seventh Circuit with the Clerk of the Court, United States 
+District Court for the Northern District of Illinois, 219 South Dearborn Street, 
+20th Floor, Chicago, Illinois 60604, within sixty (60) days of the entry of the 
+judgment in this case. Any notice of appeal should be accompanied by a request 
+for a certificate of appealability, including a statement as to why 
+a certificate should issue. See 28 U.S.C. @ 2253; Fed. R. App. P. 22(b); 7th 
+Cir. R. 22.1. 
+
+
+=== PDF PAGE 21 ===
+APP #7 
+PAGE 6 
+1998 U.S. Dist. LEXIS 14238, °* 
+William T. Hart 
+UNITED STATES DISTRICT JUDGE 
+ated: SEPTEMBER 3, 1998 
+JUDGMENT IN A CIVIL CASE 
+ecision by Court. This action came to hearing before the Court. The issues have 
+een heard and a decision has been rendered. 
+T IS HEREBY ORDERED AND ADJUDGED that pursuant to Memorandum Opinion and Order 
+lated September 3, 1998, judgment is entered in favor of the United States 
+*11) of America and against defendant Paul L. Glover denying the @ 2255 
+iotion. 
+ate: 9/3/1998 
+‘ cue 3 APP #8 
+United States Court of Appeals 
+For the Seventh Circuit 
+Chicago, Dlinois 60604 
+October 7, 1999 
+Before 
+Hon. DANIEL A MANION, Circuit Judge 
+Hon. MICHAEL S. KANNE, Circuit Judge 
+Hon. DIANE P. WOOD, Circuit Judge 
+PAUL L GLOVER, Appeal from the United States 
+Petitc.ser-Appellant, Distnet Court for the Northern 
+District of Illinois, Eastern Division 
+No. 98-402] v. 
+No. 97 C 8382 
+UNITED STATES of AMERICA, 
+Respondent-Appellee William T. Hart, Judge 
+ORDER 
+Petitioner-appellant filed a petition for rehearing and petition for rehearing en banc. No judge in regular active service has requested a vote on the petition for reheanng en banc, and all of the judges on the panel have voted to deny renearing. The petition for rehearing 1s therefore DENIED 
+APPENDIX C — 
+
+
+=== PDF PAGE 22 ===
+No. 
+IN THE SUPREME COURT OF THE UNITED STATES 
+October Term, 1999 
+PAUL L. GLOVER, PETITIONER 
+Vv. 
+UNITED S“ ATES, RESPONDENT 
+CERTIFICATE OF SERVICE 
+Pursuant to this Court’s Rule 29.5(b), I certify that I am a member of the Bar of this 
+Court. I further certify that on March 6, 2000, at the time of hand delivery to this Court, I served 
+three copies of the foregoing Petition for Certiorari and the Motion to Proceed In Forma 
+Pauperis, pursuant to Rules 29.3 and 29.4(a), on counsel for the respondent, whose telephone 
+number is (202) 514-2201, by depositing a copy of the same, first class postage prepaid, in the 
+United States mails, addressed to: 
+Seth P. Waxman, Esq. 
+Solicitor General of the United States 
+U. S. Department of Justice, Room 5614 
+950 Pennsylvania Avenue, NW 
+Washington, DC 20530-0001 
+As a result, | state pursuant to Rule 29.5 that all parties requi nie 
+MICHAEL WALDMAN 
+FRIED, FRANK, HARRIS, SHRIVER & 
+JACOBSON 
+i001 Pennsylvania Avenue, NW, Suite 800 
+Washington, DC 20004 
+(202) 639-7000 
+Counsel for the Petitioner 

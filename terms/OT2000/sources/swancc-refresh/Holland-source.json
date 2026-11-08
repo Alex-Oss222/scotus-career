@@ -1,0 +1,10 @@
+{
+  "source_url": "https://www.govinfo.gov/content/pkg/USREPORTS-252/pdf/USREPORTS-252-416.pdf",
+  "parallel_full_opinion_url": "https://www.law.cornell.edu/supremecourt/text/252/416",
+  "reporter": "252 U.S. 416",
+  "decision_date": "1920-04-19",
+  "pages": 20,
+  "pdf_sha256": "43e8e1a9a0e2600c06415749cf0138c8c7b743ca94e9ca24f66e2857693967c2",
+  "text_sha256": "2694439c7e243d69ddef636ddbdd975c2b3490745c2280e327fffd1b1b939c1c",
+  "extraction": "Complete PDF text, including printed counsel arguments; Court opinion begins at printed page 430. Source text copied programmatically, not retyped."
+}

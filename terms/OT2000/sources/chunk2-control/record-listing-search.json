@@ -1,0 +1,222 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (\"99-8576\" OR title:Glover)",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2299-8576%22+OR+title%3AGlover%29&output=json&rows=50&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "numFound": 45,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "micro_IA40385002_1317",
+          "title": "Eastern Nebraska Community Office of Retardation v. Glover, 492 U.S. 916 (1989) (No. 88-1805)"
+        },
+        {
+          "identifier": "micro_IA43086415_0764",
+          "title": "Glover v. Texas, 314 U.S. 676 (1941) (No. 647)"
+        },
+        {
+          "identifier": "per_scotus_1891_52",
+          "title": "The Patent Clothing Company, Limited, Appellant, vs. H. B. Glover, John B. Glover, L. C. Bissell, and A. J. Parker, Composing the Firm of H. \u0412. Glover & Co. 1891: Vol 52"
+        },
+        {
+          "identifier": "micro_IA40385017_2097",
+          "title": "Glover v. United Grocers, Inc., 471 U.S. 1115 (1985) (No. 84-1257)"
+        },
+        {
+          "identifier": "per_scotus_1896_78",
+          "title": "Augusta P. Glover and John M. Glover, Appellants, vs. Mary E. Patten, Josephine A. Patten, Edith Patten, and Helen Patten 1896: Vol 78"
+        },
+        {
+          "identifier": "micro_IA40386002_1491",
+          "title": "Jaspan v. Glover Bottled Gas Corp., 519 U.S. 821 (1996) (No. 95-2020)"
+        },
+        {
+          "identifier": "per_scotus_1888_202",
+          "title": "Sarah M. Jones, Appellant, vs. Matilda A. Van Doren, Samuel J. Jones and Samuel J. Glover. 1888: Vol 202"
+        },
+        {
+          "identifier": "per_scotus_1875_225",
+          "title": "John F. Bailey, Assignee of Benjamin Glover, A Bankrupt, Appellant, vs. Hugh Weir, Nathaniel B. Glover, and Elenora Glover. 1875: Vol 225"
+        },
+        {
+          "identifier": "micro_IA40386014_0155",
+          "title": "Glover v. City of Memphis, 528 U.S. 1005 (1999) (No. 99-577)"
+        },
+        {
+          "identifier": "micro_IA40386006_1005",
+          "title": "Glover v. McCaughtry, 563 U.S. 938 (2011) (No. 10-1114)"
+        },
+        {
+          "identifier": "micro_IA40386013_0321",
+          "title": "Glover v. Durham, 520 U.S. 1157 (1997) (No. 96-1353)"
+        },
+        {
+          "identifier": "per_scotus_1894_57",
+          "title": "The State of Indiana Ex Rel. Walter Stanton, Trustee, Plaintiff in Error. vs. Arista Glover, James F. Glover, Kitann Glover, Thomas M. Rinn, and Daniel F. Gruenert. 1894: Vol 57"
+        },
+        {
+          "identifier": "per_scotus_1885_89",
+          "title": "William L. Huse, James L. Huse, Horatio G. Loomis, and Luther Loomis, Appellants, vs. Joseph O. Glover, Martin Kingman and Benjamin F. Shaw. 1885: Vol 89"
+        },
+        {
+          "identifier": "micro_IA40385017_0180",
+          "title": "Alabama Department of Corrections v. Glover, 474 U.S. 806 (1985) (No. 84-1768)"
+        },
+        {
+          "identifier": "micro_IA40386416_2528",
+          "title": "Glover v. Coffing, 339 U.S. 904 (1950) (No. 534)"
+        },
+        {
+          "identifier": "micro_IA40386418_0365",
+          "title": "Kelley, Glover & Vale, Inc. v. Coffing, 350 U.S. 968 (1956) (No. 609)"
+        },
+        {
+          "identifier": "micro_IA40386417_1921",
+          "title": "Glover v. McFaddin, 346 U.S. 900 (1953) (No. 426)"
+        },
+        {
+          "identifier": "micro_IA40385014_0402",
+          "title": "Glover v. United States, 531 U.S. 198 (2001) (No. 99-8576)"
+        },
+        {
+          "identifier": "micro_IA40386416_1107",
+          "title": "Glover v. Coffing, 331 U.S. 829 (1947) (No. 1253)"
+        },
+        {
+          "identifier": "per_scotus_1873_518",
+          "title": "John F. Bailey, Assignee, vs. Nathaniel B. Glover, et al 1873: Vol 518"
+        },
+        {
+          "identifier": "micro_IA40386417_2237",
+          "title": "Glover v. Officers of the Congregational Church, 348 U.S. 825 (1954) (No. 149)"
+        },
+        {
+          "identifier": "micro_IA40386016_1651",
+          "title": "Glover v. Leavitt (No. 06-574)"
+        },
+        {
+          "identifier": "micro_IA34086415_1579",
+          "title": "Kelley, Glover & Vale, Inc. v. Heitman, 319 U.S. 762 (1943) (No. 1013)"
+        },
+        {
+          "identifier": "micro_IA40386005_1219",
+          "title": "Glover v. McDonnell Douglas Corp., 511 U.S. 1070 (1994) (No. 93-1428)"
+        },
+        {
+          "identifier": "micro_IA43086415_1052",
+          "title": "Glover v. United States, 316 U.S. 690 (1942) (No. 1158)"
+        },
+        {
+          "identifier": "per_scotus_1894_88",
+          "title": "The Board of Flour Inspectors for the Port of New Orleans et al., Appellants, vs. Booth F. Glover and Frederick J. Odendahl, Composing the Firm Of Glover & Odendahl; Et Al. 1894: Vol 88"
+        },
+        {
+          "identifier": "micro_IA40385004_2382",
+          "title": "Glover v. Herald Co., 434 U.S. 965 (1977) (No. 77-248)"
+        },
+        {
+          "identifier": "per_scotus_1890_144",
+          "title": "Hallet Kilbourn, Plaintiff in Error, vs. John G. Thompson, John M. Glover, J. D. New, B. B. Lewis, and A. Herr Smith. 1890: Vol 144"
+        },
+        {
+          "identifier": "micro_IA40386414_0123",
+          "title": "Butz v. Glover Livestock Commission Co., 411 U.S. 182 (1973) (No. 71-1545)"
+        },
+        {
+          "identifier": "micro_IA40386418_1411",
+          "title": "Kelley, Glover & Vale, Inc. v. Coffing (No. 308)"
+        },
+        {
+          "identifier": "micro_IA40386416_2107",
+          "title": "Glover v. Maloney, 337 U.S. 917 (1949) (No. 710)"
+        },
+        {
+          "identifier": "micro_IA40386003_0881",
+          "title": "Monga v. Glover Landing Condominium Trust, 510 U.S. 1093 (1994) (No. 93-896)"
+        },
+        {
+          "identifier": "micro_IA40385017_1165",
+          "title": "Glover v. McDonnell Douglas Corp, 510 U.S. 802 (1993) (No. 93-34)"
+        },
+        {
+          "identifier": "micro_IA40386008_0585",
+          "title": "Faith Center Church Evangelistic Ministries v. Glover, 128 S. Ct. 143 (2007) (No. 06-1633)"
+        },
+        {
+          "identifier": "micro_IA40386002_1414",
+          "title": "Glover v. McGinnis, 519 U.S. 816 (1996) (No. 95-1935)"
+        },
+        {
+          "identifier": "micro_IA40385011_2374",
+          "title": "Glover Bottled Gas Corp. v. National Labor Relations Board, 479 U.S. 1085 (1987) (No. 86-819)"
+        },
+        {
+          "identifier": "micro_IA40385007_0006",
+          "title": "Glover Allison v. Fulton-Dekalb Hospital Authority, 449 U.S. 939 (1980) (No. 79-6743)"
+        },
+        {
+          "identifier": "micro_IA40385011_1476",
+          "title": "Glover v. United States, 466 U.S. 905 (1984) (No. 83-1415)"
+        },
+        {
+          "identifier": "micro_IA40385010_1083",
+          "title": "Tower v. Glover, 464 U.S. 813 (1983) (No. 82-1988)"
+        },
+        {
+          "identifier": "micro_IA40386012_1862",
+          "title": "Glover Bottled Gas Corp. v. National Labor Relations Board, 516 U.S. 816 (1995) (No. 94-1987)"
+        },
+        {
+          "identifier": "micro_IA40386413_0047",
+          "title": "Glover v. St. Louis-San Francisco Railway Co., 393 U.S. 324 (1969) (No. 38)"
+        },
+        {
+          "identifier": "micro_IA40385006_0535",
+          "title": "Andrus v. Glover Construction Co., 445 U.S. 923 (1980) (No. 79-48)"
+        },
+        {
+          "identifier": "per_scotus_1866_158",
+          "title": "Elizur Mitchell and William B. Glover, Plaintiffs in Error, vs. The City of Burlington. 1866: Vol 158"
+        },
+        {
+          "identifier": "micro_IA40386004_0875",
+          "title": "Glover v. West, 120 S. Ct. 1960 (2000) (No. 99-1191)"
+        },
+        {
+          "identifier": "micro_IA40386010_1163",
+          "title": "Glover Et Ux. v. Standard Federal Bank, 537 U.S. 943 (2002) (No. 01-1648)"
+        }
+      ]
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (\"99-1953\" OR title:\"Tri County\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2299-1953%22+OR+title%3A%22Tri+County%22%29&output=json&rows=50&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "numFound": 5,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "micro_IA40386007_1553",
+          "title": "Tri-County Industries, Inc. v. Mercer County, 516 U.S. 1173 (1996) (No. 95-1127)"
+        },
+        {
+          "identifier": "micro_IA40386015_0978",
+          "title": "Tri-County Concerned Citizens Ass'n v. Carr, 538 U.S. 907 (2003) (No. 02-1017)"
+        },
+        {
+          "identifier": "micro_IA40385014_0379",
+          "title": "District of Columbia v. Tri County Industries, Inc., 530 U.S. 1305 (2000) (No. 99-1953)"
+        },
+        {
+          "identifier": "micro_IA40385004_0599",
+          "title": "Wood v. Stark Tri-County Building Trades Council, 429 U.S. 940 (1976) (No. 76-371)"
+        },
+        {
+          "identifier": "micro_IA40385011_2604",
+          "title": "Manufacturers Ass'n of Tri-County v. Knepper, 480 U.S. 929 (1987) (No. 86-1102)"
+        }
+      ]
+    }
+  }
+]

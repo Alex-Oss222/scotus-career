@@ -1,0 +1,190 @@
+{
+  "stage": "independent non-Stone modeling",
+  "scope": [
+    "Lopez 2001-01-10",
+    "City News 2001-01-17",
+    "Denius 2001-01-17",
+    "Seling 2001-01-17",
+    "Kansas 2001-01-22"
+  ],
+  "preservation": "byte-identical file freeze; no repository command run",
+  "isolated_context": true,
+  "withheld_inputs_accessed": false,
+  "source_limits": [
+    "No current-matter historical Supreme Court disposition or lineup retrieved.",
+    "Current-term projection read at its relevant public-law, chronology and participation portions; whole-file hash fixes source identity, not a claim that every unrelated paragraph was necessary.",
+    "Prior public render entries were searched only within the expressly authorized term output directories; copied opinion tables and separate positions, and Yang holdings, are fixed by their separate selection receipt.",
+    "Denius lower opinion and Pesce, Schaill, Anderson v. Romero read in full; the latter three are conduct-date legal sources, not new event facts or Supreme Court law.",
+    "No original current-matter briefs or appendices newly recovered. No reconstruction premise or factual default created.",
+    "Medical coverage in Denius remains unproved; controlled-position approval is outside this stage.",
+    "Any newly effective preceding chunk decision must be checked by control before dependent assembly."
+  ],
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "input_sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48",
+      "bytes": 34310
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "input_sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf",
+      "bytes": 91525
+    },
+    {
+      "path": "terms/OT2000/workspace/neutral-projection.md",
+      "input_sha256": "913e67a2f0014732e1c2321bc4d6b9ae8fd4e039750a9368ba06d2e4127ccf28",
+      "bytes": 104020
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_lopez.md",
+      "input_sha256": "d8591fca828b2a357ed472d2b32b1e7ff929a038cc606bd794ab6f0d55c397f8",
+      "bytes": 5851
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_lopez.md",
+      "input_sha256": "87219ccdf91c5b281f998a7f669672b4058fae4402628f1e806c5ff0f263e5f3",
+      "bytes": 25090
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_citynews.md",
+      "input_sha256": "5b4ca75d3e2de910d90238b123506ed42b4e192033f9ac043fab885c3b31bb4a",
+      "bytes": 5922
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_citynews.md",
+      "input_sha256": "e6448bf76d847c7f45909eb5608c20ba289dbf2d4ab811265f41efbb674b6aa2",
+      "bytes": 29703
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_denius.md",
+      "input_sha256": "4210caae2aaccddaa4ec57f0f9ac123aefae4b9a142b9d1c8ff647740b165f2b",
+      "bytes": 8888
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_denius.md",
+      "input_sha256": "46d90dc427ba0df9368b0e6f8a165c1ee927323fee7b81f9eae3ea1c45be0d16",
+      "bytes": 59895
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_seling.md",
+      "input_sha256": "3a6b4bf67c432477fcab53dd8587f88fd946c67b27dff10b9b3c8c98a7ef6dc4",
+      "bytes": 7089
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_seling.md",
+      "input_sha256": "e8730267ed79f2a4d12b77db98402ac681f9f46fa6dc97a38b3e16bc896feea4",
+      "bytes": 26678
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_kansas.md",
+      "input_sha256": "351a19186e4d1a6162e35f94f1c8be973bf43ee19f8d83151ee5f2c0714d15c5",
+      "bytes": 7465
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_kansas.md",
+      "input_sha256": "9391ee0bde426db21f8ce3fa75dd7654c3f6c454730b60465a7f1ca25071645a",
+      "bytes": 36130
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "input_sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba",
+      "bytes": 21047
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ADDED_FACTS.md",
+      "input_sha256": "ea41cd626094b056c6bae996bf8377886914f8810518e176a96ea12c00838f08",
+      "bytes": 19539
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_CONTROL_FACTS.md",
+      "input_sha256": "2b2ddf419d9648131067f5981a896a26f56db164a990b344550bf43b979d2c53",
+      "bytes": 15856
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md",
+      "input_sha256": "7107f65e0914f792d81bbfc936d61f6c77d8375cd13c5824bb13ecf7d9ff902a",
+      "bytes": 6709
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md",
+      "input_sha256": "159a06838d2ec39950c91cc4ea1d32e75ba10c99360caea469c7ff286963f52e",
+      "bytes": 12563
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS.md",
+      "input_sha256": "2b94b941d2a2776a57ab472ccfda3c4f6b9302a6bf0733fd3b280fae38886a79",
+      "bytes": 39889
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS_SELECTION.json",
+      "input_sha256": "5e12e046ace41cc2ceed77cb16083d24e8424aae1a14334346c3a160cbdf6a74",
+      "bytes": 2770
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/denius.txt",
+      "input_sha256": "d70f2f148dfb5ad4785db6e6b96e9ce018941e263c298cc59d7bfe09a48b86e5",
+      "bytes": 50459
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/denius-verified-extracts.md",
+      "input_sha256": "9aba89277235c611a2cafd9aac56891e3d2c90ff0b97e3ef8761f29b1ccfa722",
+      "bytes": 3557
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/kansas-statutory-extracts.md",
+      "input_sha256": "01995651bebb7b4b6670d41902cb75caf254e1917bb0cad9a69470339f017a09",
+      "bytes": 6902
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-middle/anderson-romero.txt",
+      "input_sha256": "1049736c9d2a10b3a40b0f030e4ba2df31f78c689c4d39d8a269e05086ea77b8",
+      "bytes": 38421
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-middle/pesce.txt",
+      "input_sha256": "a088fa883a4877c622e84ea2072c6f5a72d9d0b0655c7da618bad25c29d0881f",
+      "bytes": 37255
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-middle/schaill.txt",
+      "input_sha256": "a680850bacb048b420402d33a9a5be2359445a5ad3cb1657f2fa9ae0b81c9ccd",
+      "bytes": 66557
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-middle/18usc3621-2000.txt",
+      "input_sha256": "d0ca15a3d3c5b6e9fb8bd30c7eb69e3ba20e82dd83ed57d0164bdc4de2258052",
+      "bytes": 8530
+    }
+  ],
+  "external_read_sources": [
+    {
+      "url": "https://www.law.cornell.edu/supremecourt/text/461/458",
+      "coverage": "full predivergence Heckler opinion, writings and notes"
+    },
+    {
+      "url": "https://www.law.cornell.edu/supremecourt/text/483/203",
+      "coverage": "full predivergence Dole opinion, writings and notes"
+    },
+    {
+      "url": "https://openjurist.org/72/f3d/518",
+      "coverage": "parallel reporter cross-check of Anderson civilian/prisoner distinction; saved source full reading is separate"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title18/html/USCODE-2000-title18-partII-chap229-subchapC-sec3621.htm",
+      "coverage": "full section and amendment notes, saved"
+    }
+  ],
+  "output": {
+    "runtime": "terms/OT2000/runtime/OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+    "freeze": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+    "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618",
+    "bytes": 57441,
+    "identical": true
+  },
+  "validation": {
+    "five_case_sections": true,
+    "each_associate_has_five_rows": true,
+    "no_assignment_made": true,
+    "no_state_or_records_mutation": true
+  }
+}

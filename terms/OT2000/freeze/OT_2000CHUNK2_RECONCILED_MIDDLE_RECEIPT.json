@@ -1,0 +1,214 @@
+{
+  "stage": "isolated historical reconciliation",
+  "scope": [
+    "Lopez 2001-01-10",
+    "City News 2001-01-17",
+    "Denius 2001-01-17",
+    "Seling 2001-01-17",
+    "Kansas 2001-01-22"
+  ],
+  "preservation": "identical runtime and file freeze; repository verification and commitment pending with operator",
+  "private_controlled_inputs_accessed": false,
+  "raw_records_accessed": false,
+  "independent_freeze_preserved": true,
+  "changes": [
+    "Lopez: Kennedy affirm to reverse; Souter and Breyer reverse to affirm; the full historical arguments and actual prior law do not sustain the provisional departures.",
+    "Seling: all eight change formal remedy from vacatur to affirmance of the supported punishment remand; substantive proof and remedial limits preserved.",
+    "Denius: corrected comparator posture expressly restated; no change to frozen component commitments.",
+    "City News and Kansas: no commitment changes."
+  ],
+  "new_material_neutral_fact_or_reconstruction_premise": false,
+  "corroborating_source_addition": "actual Hudson holding and bounded public entry, mechanically copied under explicit authorization; not claimed as original modeling input",
+  "coverage": {
+    "complete_historical_texts": [
+      "Lopez including both writings and notes",
+      "City News including both notes",
+      "Seling including all four writings and notes"
+    ],
+    "actual_law": "pertinent portions of permitted per-case slices and public positions; additional bounded Hudson sources read completely",
+    "neutral_handoffs": "pertinent five-case portions, common chronology, source limits and validation; file hashes identify full source bytes",
+    "lower_case_sources": "already validated Denius and Kansas handoffs, with attributed independent source-work receipt; no fresh full-reading claim",
+    "term_projection": "relevant law, chronology and participation excerpts carried in the per-case slices; whole source hash fixes provenance"
+  },
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48",
+      "bytes": 34310
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf",
+      "bytes": 91525
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+      "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618",
+      "bytes": 57441
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_MIDDLE_RECEIPT.json",
+      "sha256": "1d494a0f12e755e39493a93e1be2d8ae03244448aeb263bc7701dfdc2f3c97ac",
+      "bytes": 7949
+    },
+    {
+      "path": "terms/OT2000/workspace/neutral-projection.md",
+      "sha256": "913e67a2f0014732e1c2321bc4d6b9ae8fd4e039750a9368ba06d2e4127ccf28",
+      "bytes": 104020
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS.md",
+      "sha256": "2b94b941d2a2776a57ab472ccfda3c4f6b9302a6bf0733fd3b280fae38886a79",
+      "bytes": 39889
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/CONTROL_SOURCE_RECEIPT.md",
+      "sha256": "bec523a2d69db4b4dfe8490ed6b74f49f1a7c11b9f33ea65c5251b8bf1cb15ae",
+      "bytes": 10443
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_SOURCE_VERIFICATION.md",
+      "sha256": "e5a9d6e94d5e581caf98d27a76e521d9c3b83a9d7975b4fc10248cb4403fa8c7",
+      "bytes": 2829
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_lopez.md",
+      "sha256": "d8591fca828b2a357ed472d2b32b1e7ff929a038cc606bd794ab6f0d55c397f8",
+      "bytes": 5851
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_lopez.md",
+      "sha256": "87219ccdf91c5b281f998a7f669672b4058fae4402628f1e806c5ff0f263e5f3",
+      "bytes": 25090
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_lopez.md",
+      "sha256": "7714a0cd1ee20f807223501f1791fd02d630b7e27f7015cbc7f27a84c6656c1d",
+      "bytes": 788
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_citynews.md",
+      "sha256": "5b4ca75d3e2de910d90238b123506ed42b4e192033f9ac043fab885c3b31bb4a",
+      "bytes": 5922
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_citynews.md",
+      "sha256": "e6448bf76d847c7f45909eb5608c20ba289dbf2d4ab811265f41efbb674b6aa2",
+      "bytes": 29703
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_citynews.md",
+      "sha256": "55de56186ae66438b21f6a5cd236c714d4ca920f87f8a2a869781dd206da7d87",
+      "bytes": 859
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_denius.md",
+      "sha256": "4210caae2aaccddaa4ec57f0f9ac123aefae4b9a142b9d1c8ff647740b165f2b",
+      "bytes": 8888
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_denius.md",
+      "sha256": "46d90dc427ba0df9368b0e6f8a165c1ee927323fee7b81f9eae3ea1c45be0d16",
+      "bytes": 59895
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_denius.md",
+      "sha256": "708389418032184490df008fab804245eb081f385f6123c8221032b6876fcc58",
+      "bytes": 1042
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_seling.md",
+      "sha256": "3a6b4bf67c432477fcab53dd8587f88fd946c67b27dff10b9b3c8c98a7ef6dc4",
+      "bytes": 7089
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_seling.md",
+      "sha256": "e8730267ed79f2a4d12b77db98402ac681f9f46fa6dc97a38b3e16bc896feea4",
+      "bytes": 26678
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_seling.md",
+      "sha256": "8ad854464dccfae3370c5602b9d50a25e4524215bee851dec9f30ff06eef90be",
+      "bytes": 984
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_kansas.md",
+      "sha256": "351a19186e4d1a6162e35f94f1c8be973bf43ee19f8d83151ee5f2c0714d15c5",
+      "bytes": 7465
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_kansas.md",
+      "sha256": "9391ee0bde426db21f8ce3fa75dd7654c3f6c454730b60465a7f1ca25071645a",
+      "bytes": 36130
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_kansas.md",
+      "sha256": "55d2490671bf723b1174df2aaadc76af8003bab4d6bd5bb23117cb24df23b407",
+      "bytes": 924
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba",
+      "bytes": 21047
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md",
+      "sha256": "159a06838d2ec39950c91cc4ea1d32e75ba10c99360caea469c7ff286963f52e",
+      "bytes": 12563
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ADDED_FACTS.md",
+      "sha256": "ea41cd626094b056c6bae996bf8377886914f8810518e176a96ea12c00838f08",
+      "bytes": 19539
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_CONTROL_FACTS.md",
+      "sha256": "2b2ddf419d9648131067f5981a896a26f56db164a990b344550bf43b979d2c53",
+      "bytes": 15856
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md",
+      "sha256": "7107f65e0914f792d81bbfc936d61f6c77d8375cd13c5824bb13ecf7d9ff902a",
+      "bytes": 6709
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/Lopez.txt",
+      "sha256": "d7095846940aba5d7543b23e3d59503847a11c896c460f26a9eb06e4f10686fa",
+      "bytes": 47391
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/City-News.txt",
+      "sha256": "335419d536803cc2ddffc9778a1edadf796278f4b2a06617cfa67e5eec00aa66",
+      "bytes": 20745
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/Seling.txt",
+      "sha256": "942b5e2d0750aa8cbe243c4f1cdcc7525c51762f231bda9d27be91525cb80284",
+      "bytes": 65733
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_HUDSON_RECONCILIATION.md",
+      "sha256": "d4ec30d5b7bede75e2ed0e6fb58672f5d29757573a1f9bf3ea4492f7375ac5d8",
+      "bytes": 13790
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_HUDSON_RECONCILIATION_RECEIPT.json",
+      "sha256": "037d5fa5a085c51bb6978b8574f3b3230f2abb706e0c4b74e47d05cc922fe57c",
+      "bytes": 740
+    }
+  ],
+  "output": {
+    "runtime": "terms/OT2000/runtime/OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+    "freeze": "terms/OT2000/freeze/OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+    "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3",
+    "bytes": 86309,
+    "identical": true
+  },
+  "validation": {
+    "five_case_sections": true,
+    "no_assignment_made": true,
+    "no_records_or_state_mutation": true,
+    "repository_verification": "pending operator",
+    "final_assembly": "not performed"
+  }
+}

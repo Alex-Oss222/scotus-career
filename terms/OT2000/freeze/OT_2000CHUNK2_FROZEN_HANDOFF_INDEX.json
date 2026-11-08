@@ -1,0 +1,229 @@
+{
+  "status": "Durable file freeze; repository verification and commitment remain with the operator.",
+  "case_handoffs": {
+    "brewer": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_brewer.md",
+        "sha256": "838639f49e20922292df751ecd3dfcd233ae7b2783b461204c439f1a933de1f8"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_JAN9.md",
+        "sha256": "0cd5b7bd78d0630509d771b37973fb824aacf9d56a78e083a18b52a466d49f33"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_EARLY.md",
+        "sha256": "29ea88f8f990a60c017474c52c1367b03fa54ee7115a6bcbac007cb23152938a"
+      }
+    },
+    "fiore": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_fiore.md",
+        "sha256": "30ed4f269d7764704a1143034377d310145c8a30c4b822d2bcfd6359e4f164c0"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_JAN9.md",
+        "sha256": "0cd5b7bd78d0630509d771b37973fb824aacf9d56a78e083a18b52a466d49f33"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_EARLY.md",
+        "sha256": "29ea88f8f990a60c017474c52c1367b03fa54ee7115a6bcbac007cb23152938a"
+      }
+    },
+    "gitlitz": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_gitlitz.md",
+        "sha256": "50460444146c2f6314d3d2b2759b084c9c2334bbd39bd227617eaf7b51d401fb"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_JAN9.md",
+        "sha256": "0cd5b7bd78d0630509d771b37973fb824aacf9d56a78e083a18b52a466d49f33"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_EARLY.md",
+        "sha256": "29ea88f8f990a60c017474c52c1367b03fa54ee7115a6bcbac007cb23152938a"
+      }
+    },
+    "glover": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_glover.md",
+        "sha256": "ee17d440a8d677130bb91ff11d5c219687cf1cdc623137bd36e6f32abbb91334"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_JAN9.md",
+        "sha256": "0cd5b7bd78d0630509d771b37973fb824aacf9d56a78e083a18b52a466d49f33"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_EARLY.md",
+        "sha256": "29ea88f8f990a60c017474c52c1367b03fa54ee7115a6bcbac007cb23152938a"
+      }
+    },
+    "swancc": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_swancc.md",
+        "sha256": "5336e5a6992aad9cc38ad9e004deaf7b8166ee8db1bf4cac9ffbbfa3648273fc"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH.md",
+        "sha256": "8a570f7bbeee4609bdcec61c69a43485fa1c49e661085535493e8d8c6b8d1951"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md",
+        "sha256": "507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4"
+      }
+    },
+    "lopez": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_lopez.md",
+        "sha256": "d8591fca828b2a357ed472d2b32b1e7ff929a038cc606bd794ab6f0d55c397f8"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+        "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+        "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3"
+      }
+    },
+    "citynews": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_citynews.md",
+        "sha256": "5b4ca75d3e2de910d90238b123506ed42b4e192033f9ac043fab885c3b31bb4a"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+        "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+        "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3"
+      }
+    },
+    "denius": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_denius.md",
+        "sha256": "4210caae2aaccddaa4ec57f0f9ac123aefae4b9a142b9d1c8ff647740b165f2b"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+        "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+        "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3"
+      }
+    },
+    "seling": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_seling.md",
+        "sha256": "3a6b4bf67c432477fcab53dd8587f88fd946c67b27dff10b9b3c8c98a7ef6dc4"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+        "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+        "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3"
+      }
+    },
+    "kansas": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_kansas.md",
+        "sha256": "351a19186e4d1a6162e35f94f1c8be973bf43ee19f8d83151ee5f2c0714d15c5"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_MIDDLE.md",
+        "sha256": "83668a73a040b9db565490d6dcfba417f18594d742de6a04b5be140af6dc2618"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_MIDDLE.md",
+        "sha256": "672443c633e88e26ada93c499ca13dc0ff829188af3e1fc925749910fac813f3"
+      }
+    },
+    "tricounty": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_tricounty.md",
+        "sha256": "4eacf1aa84495dad4693ad4cea1628e82b2faa88a62597cb115cf42593783b6d"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_LATER.md",
+        "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_LATER.md",
+        "sha256": "4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106"
+      }
+    },
+    "brentwood": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_brentwood.md",
+        "sha256": "3ca8e0e3b2b171caa552c8da4603cd67d674a36ec4afa9a7a7a19e3ba7493d6a"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_LATER.md",
+        "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_LATER.md",
+        "sha256": "4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106"
+      }
+    },
+    "cobank": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_cobank.md",
+        "sha256": "758b4c2740cb0c3c1f592e254a9cc47a8e5174bf5ce71ea331c6632a29dc4c8e"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_LATER.md",
+        "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_LATER.md",
+        "sha256": "4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106"
+      }
+    },
+    "mcarthur": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_mcarthur.md",
+        "sha256": "ca5be9bfe75badf6f39340b6fc03405ac5b2adba708abeade3e80b0388513a0d"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_LATER.md",
+        "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_LATER.md",
+        "sha256": "4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106"
+      }
+    },
+    "urofsky": {
+      "neutral": {
+        "file": "OT_2000CHUNK2_NEUTRAL_urofsky.md",
+        "sha256": "b2f675f975eab0fb6be3f6a64985c077a0792e1fe148437174998530e604fe73"
+      },
+      "model": {
+        "file": "OT_2000CHUNK2_COMMITMENTS_UROFSKY.md",
+        "sha256": "61a6cc15b47d6989c3f02a25bb9e98a1ea9c566ff5fa0fbde6195d6eb6a27a8b"
+      },
+      "reconciled": {
+        "file": "OT_2000CHUNK2_RECONCILED_UROFSKY.md",
+        "sha256": "27a31e27961b70ff61c7c37fc3184f53cb9347cc542faf27ca5c5ed4fb7edaf5"
+      }
+    }
+  },
+  "aggregate_hashes": {
+    "OT_2000CHUNK2_NEUTRAL.md": "9e99726d76dcc3c6ff5b00dac3005a8ed48ea5e4af0e19d47582ba0bf6a4f995",
+    "OT_2000CHUNK2_COMMITMENTS.md": "e2d9287d1b6ef9a4cefcdb3ddba2df5d7a6a81eb160d7a8e042fcb06176e50e7",
+    "OT_2000CHUNK2_RECONCILED.md": "b36dac21153ec5d97558af49322b8cbfb68501bd2677bb3acab4ad3f3c4f15b7"
+  },
+  "superseded_model_section": "Only the SWANCC section in the original JAN9 model; all original bytes retained.",
+  "required_supplements": [
+    "OT_2000CHUNK2_INTERVENING_LAW_ASSEMBLY_REVIEW.md",
+    "OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+    "OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION.md",
+    "OT_2000CHUNK2_UROFSKY_INTERVENING_LAW_REVIEW.md",
+    "OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_ADDITION.md",
+    "OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE.md"
+  ]
+}

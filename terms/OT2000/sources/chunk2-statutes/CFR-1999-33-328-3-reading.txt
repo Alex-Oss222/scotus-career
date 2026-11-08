@@ -1,0 +1,55 @@
+Pt. 328
+
+33 CFR Ch. II (7–1–99 Edition)
+
+shall be posted in appropriate government buildings and provided to newspapers of general circulation for publication. Comments received as form letters or petitions may be acknowledged as a group to the person or organization responsible for the form letter or petition.
+(b) The notice shall contain time, place, and nature of hearing; the legal authority and jurisdiction under which the hearing is held; and location of and availability of the draft environmental impact statement or environmental assessment.
+PART 328—DEFINITION OF WATERS OF THE UNITED STATES
+Sec. 328.1 Purpose. 328.2 General scope. 328.3 Definitions. 328.4 Limits of jurisdiction. 328.5 Changes in limits of waters of the
+United States.
+AUTHORITY: 33 U.S.C. 1344.
+SOURCE: 51 FR 41250, Nov. 13, 1986, unless otherwise noted.
+§ 328.1 Purpose.
+This section defines the term ‘‘waters of the United States’’ as it applies to the jurisdictional limits of the authority of the Corps of Engineers under the Clean Water Act. It prescribes the policy, practice, and procedures to be used in determining the extent of jurisdiction of the Corps of Engineers concerning ‘‘waters of the United States.’’ The terminology used by section 404 of the Clean Water Act includes ‘‘navigable waters’’ which is defined at section 502(7) of the Act as ‘‘waters of the United States including the territorial seas.’’ To provide clarity and to avoid confusion with other Corps of Engineer regulatory programs, the term ‘‘waters of the United States’’ is used throughout 33 CFR parts 320 through 330. This section does not apply to authorities under the Rivers and Harbors Act of 1899 except that some of the same waters may be regulated under both statutes (see 33 CFR parts 322 and 329).
+§ 328.2 General scope.
+Waters of the United States include those waters listed in § 328.3(a). The lat-
+
+eral limits of jurisdiction in those waters may be divided into three categories. The categories include the territorial seas, tidal waters, and nontidal waters (see 33 CFR 328.4 (a), (b), and (c), respectively).
+§ 328.3 Definitions.
+For the purpose of this regulation these terms are defined as follows:
+(a) The term waters of the United States means
+(1) All waters which are currently used, or were used in the past, or may be susceptible to use in interstate or foreign commerce, including all waters which are subject to the ebb and flow of the tide;
+(2) All interstate waters including interstate wetlands;
+(3) All other waters such as intrastate lakes, rivers, streams (including intermittent streams), mudflats, sandflats, wetlands, sloughs, prairie potholes, wet meadows, playa lakes, or natural ponds, the use, degradation or destruction of which could affect interstate or foreign commerce including any such waters:
+(i) Which are or could be used by interstate or foreign travelers for recreational or other purposes; or
+(ii) From which fish or shellfish are or could be taken and sold in interstate or foreign commerce; or
+(iii) Which are used or could be used for industrial purpose by industries in interstate commerce;
+(4) All impoundments of waters otherwise defined as waters of the United States under the definition;
+(5) Tributaries of waters identified in paragraphs (a) (1) through (4) of this section;
+(6) The territorial seas; (7) Wetlands adjacent to waters (other than waters that are themselves wetlands) identified in paragraphs (a) (1) through (6) of this section. (8) Waters of the United States do not include prior converted cropland. Notwithstanding the determination of an area’s status as prior converted cropland by any other Federal agency, for the purposes of the Clean Water Act, the final authority regarding Clean Water Act jurisdiction remains with EPA.
+
+454
+
+Corps of Engineers, Dept. of the Army, DoD
+
+§ 328.5
+
+Waste treatment systems, including treatment ponds or lagoons designed to meet the requirements of CWA (other than cooling ponds as defined in 40 CFR 423.11(m) which also meet the criteria of this definition) are not waters of the United States.
+(b) The term wetlands means those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas.
+(c) The term adjacent means bordering, contiguous, or neighboring. Wetlands separated from other waters of the United States by man-made dikes or barriers, natural river berms, beach dunes and the like are ‘‘adjacent wetlands.’’
+(d) The term high tide line means the line of intersection of the land with the water’s surface at the maximum height reached by a rising tide. The high tide line may be determined, in the absence of actual data, by a line of oil or scum along shore objects, a more or less continuous deposit of fine shell or debris on the foreshore or berm, other physical markings or characteristics, vegetation lines, tidal gages, or other suitable means that delineate the general height reached by a rising tide. The line encompasses spring high tides and other high tides that occur with periodic frequency but does not include storm surges in which there is a departure from the normal or predicted reach of the tide due to the piling up of water against a coast by strong winds such as those accompanying a hurricane or other intense storm.
+(e) The term ordinary high water mark means that line on the shore established by the fluctuations of water and indicated by physical characteristics such as clear, natural line impressed on the bank, shelving, changes in the character of soil, destruction of terrestrial vegetation, the presence of litter and debris, or other appropriate means that consider the characteristics of the surrounding areas.
+(f) The term tidal waters means those waters that rise and fall in a predict-
+
+able and measurable rhythm or cycle due to the gravitational pulls of the moon and sun. Tidal waters end where the rise and fall of the water surface can no longer be practically measured in a predictable rhythm due to masking by hydrologic, wind, or other effects.
+[51 FR 41250, Nov. 13, 1986, as amended at 58 FR 45036, Aug. 25, 1993]
+§ 328.4 Limits of jurisdiction.
+(a) Territorial Seas. The limit of jurisdiction in the territorial seas is measured from the baseline in a seaward direction a distance of three nautical miles. (See 33 CFR 329.12)
+(b) Tidal Waters of the United States. The landward limits of jurisdiction in tidal waters:
+(1) Extends to the high tide line, or (2) When adjacent non-tidal waters of the United States are present, the jurisdiction extends to the limits identified in paragraph (c) of this section. (c) Non-Tidal Waters of the United States. The limits of jurisdiction in non-tidal waters: (1) In the absence of adjacent wetlands, the jurisdiction extends to the ordinary high water mark, or (2) When adjacent wetlands are present, the jurisdiction extends beyond the ordinary high water mark to the limit of the adjacent wetlands. (3) When the water of the United States consists only of wetlands the jurisdiction extends to the limit of the wetland.
+§ 328.5 Changes in limits of waters of the United States.
+Permanent changes of the shoreline configuration result in similar alterations of the boundaries of waters of the United States. Gradual changes which are due to natural causes and are perceptible only over some period of time constitute changes in the bed of a waterway which also change the boundaries of the waters of the United States. For example, changing sea levels or subsidence of land may cause some areas to become waters of the United States while siltation or a change in drainage may remove an area from waters of the United States.
+
+455
+
+

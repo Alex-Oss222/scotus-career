@@ -1,0 +1,522 @@
+
+  
+
+    
+William FIORE v. Gregory WHITE, Warden of the State Correctional Institution at Pittsburgh; The Attorney General of the Commonwealth of Pennsylvania, Appellants.
+
+    
+No. 97-3288.
+
+    
+United States Court of Appeals, Third Circuit.
+
+    
+Argued March 9, 1998.
+
+    
+Decided July 21, 1998.
+
+    
+
+      
+*222
+D. Michael Fisher, Attorney General, William H. Ryan, Jr., Executive Deputy Attorney General, Robert A. Graci, Chief Deputy Attorney General, Andrea F. McKenna (Argued), Senior Deputy Attorney General, Office of Attorney General, Harrisburg, Pennsylvania, for Appellants.
+
+    
+James B. Lieber, M. Jean Cliekner, Lieber & Hammer, Pittsburgh, Pennsylvania, Harold Gondelman (Argued), Plowman Spiegel & Lewis, Pittsburgh, Pennsylvania, for Ap-pellee.
+
+    
+Before: STAPLETON and ALITO, Circuit Judges, and SHADUR, District Judge 
+*
+.
+
+    
+
+      
+*
+
+      
+ Milton I. Shadur, Senior United States District Judge for the Northern District of Illinois, sitting by designation.
+
+    
+
+  
+
+  
+
+    
+OPINION OF THE COURT
+
+    
+ALITO, Circuit Judge:
+
+    
+This is an appeal from an order granting a writ of habeas corpus to William Fiore, a state prisoner in Pennsylvania. The district court granted the writ after concluding that the Supreme Court of Pennsylvania violated Fiore’s constitutional rights by failing to apply one of its decisions retroactively. Because state courts are under no constitutional obligation to apply their decisions retroactively, we reverse.
+
+    
+I.
+
+    
+William Fiore owned and operated a waste disposal facility in Elizabeth Township, Pennsylvania, during the late 1970s and early 1980s. In 1983, after the Pennsylvania Department of Environmental Resources (DER) discovered that hazardous wastes were seeping into a monitoring pipe underneath the facility, Fiore instructed the facility’s general manger, David Scarpone, to alter the flow of the monitoring pipe. The alteration allowed hazardous wastes to be deposited surreptitiously in a nearby tributary while clean water flowed through the inspected portion of the monitoring pipe. State officials discovered the alteration in 1984 and brought criminal charges against Fiore and Scarpone under the Pennsylvania Solid Waste Management Act (SWMA), 35 P.S. §§ 6018.101.
+
+    
+Among other things, the criminal information charged that Fiore and Scarpone operated a hazardous waste facility without a permit in violation of 35 P.S. § 6018.401(a), a second degree felony under 35 P.S. § 6018.606(f). Although the state did not dispute the fact that Fiore had obtained a permit from the DER, 
+see 
+Supp.App. at 51, the state proceeded on the theory that Fiore and Scarpone “so altered the monitoring system and so significantly departed from the terms of the permit that the operation of the hazardous waste facility thereafter was an unpermitted operation.” 
+Id. 
+at 52. Following a jury trial, Fiore and Scarpone were convicted of operating a hazardous waste facility without a permit in violation of §§ 401(a) and 606(f). After a separate non-jury trial involving additional allegatiqns of unauthorized activities, Fiore again was convicted of operating a hazardous waste facility 
+*223
+without a permit in violation of §§ 401(a) and 606(f).
+1
+ On April 10, 1987, the Court of Common Pleas sentenced Fiore to a prison term of two and one-half to five years, plus ten years’ probation, for the jury-trial conviction under §§ 401(a) and 606(f). The court then sentenced Fiore to a consecutive prison term of two and one-half to five years, plus ten years’ probation, for the non-jury-trial conviction under §§ 401(a) and 606(f). In addition, the court imposed a fine of $100,000 for each conviction under §§ 401(a) and 606(f).
+
+    
+■ On direct appeal to the Pennsylvania Superior Court,
+2
+ Fiore contended that there was insufficient evidence to sustain his convictions under §§ 401(a) and 606(f) in light of the fact that he possessed a permit to operate a hazardous waste facility. The Superior Court rejected this argument and adopted the trial court’s reasoning that Fiore’s actions “represented such a significant departure from the terms of the existing permit that the operation of the hazardous waste facility was ‘un-permitted.’ ” App. 51, 63-64, 125-26. Fiore’s convictions became final when the Supreme Court of Pennsylvania denied his petition for allowance of appeal on March 13,1990.
+
+    
+More than a year after Fiore exhausted his direct appeal, the Commonwealth Court of Pennsylvania reversed Scarpone’s conviction under §§ 401(a) and' 606(f). 
+Scarpone v. Commonwealth, 
+141 Pa.Cmwlth. 560, 
+596 A.2d 892
+, 895 (1991). The Commonwealth Court concluded that Scarpone could not be convicted of operating a hazardous waste facility without a permit when Fiore actually possessed a permit for the facility. 
+Id.
+ 
+In reaching this conclusion, the court explained that it would have been more appropriate to charge Scarpone with violating the terms of a permit, a first-degree felony under the SWMA. 
+Id.
+ 
+The Supreme Court of Pennsylvania granted review in Scarpone’s ease, and Fiore filed a petition for extraordinary relief asking the Supreme Court to consolidate his ease with Scarpone’s. After denying Fiore’s petition, the court affirmed the reversal of Scarpone’s conviction. 
+Commonwealth v. Scarpone, 
+535 Pa. 273
+, 
+634 A.2d 1109
+, 1112 (1993). The court explained:
+
+    
+The alteration of the monitoring pipe here was execrable and constituted a clear violation of the conditions of the permit. But to conclude that the alteration constituted the operation of a new facility without a permit is a bald fiction we cannot en-dorse____ We agree with the Commonwealth Court that the statutory language here cannot be stretched to include criminal activities which clearly fall under another statutory section or subsection. The Commonwealth Court was right in reversing Mr. Scarpone’s conviction of operating without a permit when the facility clearly had one.
+
+    
+
+      
+Id.
+
+    
+
+    
+Following the Supreme Court of Pennsylvania’s decision in 
+Scarpone, 
+Fiore again sought extraordinary relief, and again his application was denied. Fiore then filed a petition pursuant to the Pennsylvania Post Conviction Relief Act (PCRA), 42 P.S. § 9541, claiming that what he was “charged with having done is not a crime as decided by the Supreme Court of Pennsylvania on these very facts.” SuppApp. at 14. The Court of Common Pleas and the Superior Court both denied Fiore’s petition on the ground that Pennsylvania law does not allow post-conviction relief in cases where the alleged error was litigated on direct appeal. Supp.App. at 22; 
+Commonwealth v. Fiore, 
+445 Pa.Super. 401
+, 
+665 A.2d 1185
+, 1192-93 (1995). In addition, the Superior Court refused to apply the 
+Scarpone 
+decision retroactively based on state-law principles of retroactivity. 
+Id. 
+at 1193
+. The Supreme Court of Pennsylvania subsequently denied Fiore’s petition for allowance of appeal from the Superior Court’s decision.
+
+    
+
+      
+*224
+Fiore then filed a petition for a federal writ of habeas corpus. The petition presented two issues:
+
+    
+1. Whether Mr. Fiore was convicted, sentenced and incarcerated on the basis of facts which did not establish each element of the crime charged.
+
+    
+2. Whether the Pennsylvania Courts have denied Petitioner William Fiore due process and equal rights by refusing to grant him the benefit of the Pennsylvania Supreme Court’s decision in 
+Scarpone.
+
+    
+
+    
+Report of the Magistrate Judge at 11-12.
+
+    
+The magistrate judge concluded that the Supreme Court of Pennsylvania’s “failure to grant relief pursuant to 
+Scarpone ... 
+served to deny Fiore due process of law and equal protection of the law.” 
+Id. 
+at 20. Accordingly, the magistrate judge “recommended that Fiore’s petition for [a] writ of habeas corpus be granted” and “further recommended that the grant of the writ should be accomplished through the retroactive application of’ 
+Scar-pone. Id. 
+at 22. The district court adopted the report and recommendation of the magistrate judge and ordered that Fiore be released from the portion of his sentence pertaining to both the jury and non-jury trial convictions under §§ 401(a) and 606(f).
+
+    
+On appeal, the Commonwealth challenges the district court’s conclusion that the federal Constitution requires retroactive application of 
+Scarpone. 
+We exercise plenary review over this purely legal conclusion. 
+Yohn v. Love, 
+76 F.3d 508
+, 515 (3d Cir.1996).
+
+    
+II.
+
+    
+To be eligible for a federal writ of habeas corpus, a state prisoner must show that “he is in custody in violation of the Constitution or laws or treaties of the United States.” 
+28 U.S.C. § 2254
+(a).
+3
+ Fiore contends that he meets this requirement because, under the Supreme Court of Pennsylvania’s decision in 
+Scarpone, 
+his conduct does not constitute the crime with which he was charged. 
+See In re Winship, 
+397 U.S. 358
+, 364, 
+90 S.Ct. 1068
+, 
+25 L.Ed.2d 368
+ (1970) (“[T]he Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged.”). Fiore’s argument would have force had 
+Scar-pone 
+been the law in Pennsylvania at the time of his conviction. However, 
+Scarpone 
+was decided after Fiore’s conviction became final, and the Pennsylvania courts refused to apply the decision to Fiore’s case based on state retroactivity principles. 
+See Commonwealth v. Fiore, 
+445 Pa.Super. 401
+, 
+665 A2d 1185
+, 1193 (1995). Since “it is not the province of a federal habeas court to reexamine state-court determinations on state-law questions,” 
+Estelle v. McGuire, 
+502 U.S. 62
+, 67-68, 
+112 S.Ct. 475
+, 
+116 L.Ed.2d 385
+ (1991), Fiore is entitled to relief only if federal law requires retroactive application of 
+Scarpone.
+
+    
+
+    
+The district court held, and Fiore maintains on appeal, that' the Due Process and Equal Protection Clauses of the Fourteenth Amendment require retroactive application of 
+Scarpone. 
+This conclusion, however, is at odds with the Supreme Court’s longstanding position that “the federal constitution has no voice upon the subject” of retroactivity. 
+Great Northern Ry. Co. v. Sunburst Oil & Refining Co., 
+287 U.S. 358
+, 364, 
+53 S.Ct. 145
+, 
+77 L.Ed. 360
+ (1932). 
+See Solem v. Stumes, 
+465 U.S. 638
+, 642, 
+104 S.Ct. 1338
+, 
+79 L.Ed.2d 579
+ (1984); 
+United States v. Johnson, 
+457 U.S. 537
+, 542, 
+102 S.Ct. 2579
+, 
+73 L.Ed.2d 202
+ (1982). While the Court has concluded that some federal criminal decisions should apply retroactively, 
+see Davis v. United States, 
+417 U.S. 333
+, 346-47, 
+94 S.Ct. 2298
+, 
+41 L.Ed.2d 109
+ (1974); 
+United States v. United States Coin & Currency, 
+401 U.S. 715
+, 724, 
+91 S.Ct. 1041
+, 
+28 L.Ed.2d 434
+ (1971), it has made clear that state courts are under no constitutional obligation to apply their own criminal decisions retroactively. 
+Wainwright v. Stone, 
+414 U.S. 21
+, 23-24, 
+94 S.Ct. 190
+, 
+38 L.Ed.2d 179
+ (1973). Thus, just as the Supreme Court has fashioned retroac-
+*225
+tivity rules for the federal courts based on principles of judicial integrity, fairness, and finality, 
+see Teague v. Lane, 
+489 U.S. 288
+, 304-310, 
+109 S.Ct. 1060
+, 
+103 L.Ed.2d 334
+ (1989), the state courts are free to adopt their own retroactivity rules after independent consideration of these and other relevant principles. As the Supreme Court explained in 
+Sunburst Oil:
+
+    
+
+    
+A state in defining the limits of adherence to precedent may make a choice for itself between the principle of forward operation and that of relation backward____ The alternative is the same whether the subject of the new decision is common law or statute. The choice for any state may be determined by the juristic philosophy of the judges of her courts, their conceptions of law, its origin and nature. We review not the wisdom of their philosophies, but the legality of their acts____ [W]e are not at liberty, 
+for anything contained in the constitution of the United States, 
+to thrust upon those courts a different conception of the binding force of precedent or of the meaning of judicial process.
+
+    
+287 U.S. at 364-66
+, 
+53 S.Ct. 145
+ (emphasis added) (citations omitted).
+
+    
+Consistent with the Supreme Court’s admonition that federal courts not require retroactive application of state judicial decisions, this court has refused to require application of new state decisions in habeas proceedings. In 
+Martin v. Warden, Huntingdon State Correctional Institution, 
+653 F.2d 799
+ (3d Cir.1981), the petitioner claimed that the trial court’s jury instructions misstated the requirements of the Pennsylvania felony-murder rule. 
+Id. 
+at 810
+. Although the Supreme Court of Pennsylvania rejected Martin’s argument on direct appeal, it subsequently interpreted the felony-murder rule in a manner that cast doubt on the charge given in Martin’s case. 
+Id. 
+at 810-11
+. We rejected Martin’s argument for retroactive application of the new decision, stating:
+
+    
+Even were [the new decision] to be given retroactive effect ... it would not, be the responsibility of a federal court to apply this newly formed state decisional law to a state conviction obtained almost a decade ago. Martin’s remedy on such a claim is not in this court. ' Therefore, under the 
+then-existing 
+Pennsylvania law of felony murder, the judge adequately charged the jury....
+
+    
+
+      
+Id. 
+at 811
+ (emphasis added). 
+Accord Houston v. Dutton, 
+50 F,3d 381
+, 385 (6th Cir.1995) (denying habeas relief to a state prisoner because “[n]o federal issues are implicated and no federal question is presented in determining whether a change in state law is to be applied retroactively”).. In light of this court’s decision in 
+Martin, 
+as well as the Supreme Court’s rulings in 
+Sunburst Oil 
+and 
+Wainwright, 
+we must reject Fiore’s argument that the constitution requires retroactive application of the 
+Scarpone 
+decision.
+
+    
+Our conclusion is not altered by Fiore’s reliance on 
+Davis v. United States, 
+417 U.S. 333
+, 346, 
+94 S.Ct. 2298
+, 
+41 L.Ed.2d 109
+ (1974). In 
+Davis, 
+the Supreme. Court reviewed a § 2255 petition filed by a federal prisoner who had been convicted under the Selective Service Act for failing to comply with an induction order. On Davis’ direct appeal, the Ninth Circuit had concluded that his induction order was valid and that he could be prosecuted for failing to comply with the order. In a subsequent casé, however, the same court found that an induction order issued under “virtually identical” circumstances was “illegal and created no duty on[the defendant’s] part to report for induction.” 
+Id. 
+at 339-40
+, 
+94 S.Ct. 2298
+. Davis filed a § 2255 petition based on the new Ninth Circuit decision, and the Supreme Court held that Davis raised a cognizable claim. The Court explained:
+
+    
+If [Davis’] contention is well taken, then[his] conviction and punishment are for an act that the law does not make criminal. There can be no room for doubt that such a circumstance inherently results in a complete miscarriage of justice and presents exceptional, circumstances that justify collateral relief under § 2255.
+
+    
+
+      
+Id. 
+at 346-47
+, 
+94 S.Ct. 2298
+ (internal quotations and alterations omitted).
+
+    
+Based on 
+'Davis, 
+Fiore contends that he is entitled to retroactive application of the 
+Scarpone 
+decision.- However, Fiore’s argument fails to account for the fact that 
+Davis 
+
+      
+*226
+concerned the interpretation of a federal, not state, statute. Section 2255 allows federal prisoners to assert habeas claims if their confinement is “in violation of the Constitution or 
+laws 
+of the United States.” 
+28 U.S.C. § 2255
+ (emphasis added). Since Davis claimed that his conviction resulted from an improper construction of a federal statute, the Supreme Court allowed him to seek relief without alleging a violation of the Constitution. 
+See Davis 
+417 U.S. at 342-346
+, 
+94 S.Ct. 2298
+ (relying solely on the “or laws” language of § 2255). Fiore, by contrast, must allege a violation of the Constitution since there is no federal statute at issue in his case. Given that the 
+Davis 
+Court never mentioned a constitutional basis for its decision, and given that the Supreme Court explicitly has held that the Constitution does not require retroactive application of state criminal decisions, 
+Wainwright, 
+414 U.S. at 23-24
+, 
+94 S.Ct. 190
+, we reject Fiore’s contention that he has a due process right under 
+Davis 
+to have the 
+Scarpone 
+decision applied retroactively.
+4
+
+    
+
+    
+We likewise are unconvinced by Fiore’s equal protection argument. Fiore maintains that Pennsylvania is treating him differently from Scarpone with respect to his “fundamentally protected right to liberty.” Appellee’s Br. at 17-18. Admittedly, this argument has intuitive appeal: Fiore and Scarpone were tried together for the same crime, convicted on the same facts, and the Pennsylvania courts have concluded that Fiore can be imprisoned while Scarpone must be released. Nevertheless, Fiore’s equal protection claim cannot be reconciled with the Supreme Court’s retroactivity jurisprudence. While the Court has recognized that “the principle of treating similarly situated defendants the same” should be considered in shaping federal retroactivity rules, 
+Teague v. Lane, 
+489 U.S. 288
+, 304, 
+109 S.Ct. 1060
+, 
+103 L.Ed.2d 334
+ (1989) (plurality), the Court has never tied application of this principle to the Equal Protection Clause. In fact, the 
+Teague 
+rule itself— which largely denies the benefit of new constitutional rules to defendants on collateral review, 
+id. 
+at 310
+, 
+109 S.Ct. 1060
+ — inevitably results in the differential treatment of defendants who, while convicted at the same time, exhaust their direct appeals at different times. Were we to accept Fiore’s equal protection argument, we would be casting doubt on 
+Teague 
+and its progeny. Moreover, we would be carving out an exception to the rule that the “the federal constitution has no voice upon the subject” of retroactivity. 
+Great Northern Ry. Co. v. Sunburst Oil & Refining Co., 
+287 U.S. 358
+, 364, 
+53 S.Ct. 145
+, 
+77 L.Ed. 360
+ (1932). 
+See Solem v. Stumes, 
+465 U.S. 638
+, 642, 
+104 S.Ct. 1338
+, 
+79 L.Ed.2d 579
+ (1984); 
+United States v. Johnson, 
+457 U.S. 537
+, 542, 
+102 S.Ct. 2579
+, 
+73 L.Ed.2d 202
+ (1982); 
+Wainwright v. Stone, 
+414 U.S. 21
+, 23-24, 
+94 S.Ct. 190
+, 
+38 L.Ed.2d 179
+ (1973). Since it is not the role of this court to second guess the decisions of the Supreme Court, we reject Fiore’s claim that the Equal Protection Clause requires the 
+Scarpone 
+decision to be retroactively applied.
+
+    
+In sum, we conclude that neither the Due Process Clause nor the Equal Protection Clause mandates retroactive application of the Supreme Court of Pennsylvania’s decision in 
+Scarpone. 
+Accordingly, we reverse 
+*227
+the district court’s grant of a writ of habeas corpus.
+
+    
+When a decision providing a new interpretation of a state criminal statute is not made fully retroactive, some defendants convicted prior to the new interpretation will almost always continue to suffer the consequences of a conviction based on conduct that would not constitute a crime under the new interpretation, and that is the fate that has befallen Fiore. His situation is particularly striking because the new interpretation was handed down by the state courts in his co-defendant’s appeal, which happened to follow a different procedural track. However, any relaxation of the Pennsylvania rules regarding retroactivity due to the particular circumstances present in this case must come from the Pennsylvania courts or the governor. Although we might be inclined to grant relief if it were within our power, the limitations of our authority under the habeas corpus statute prevent us from doing so.
+
+    
+
+      
+1
+
+      
+. Between his two trials, Fiore was convicted of sixty counts of violating the SWMA and other statutes. Only the § 401(a) convictions are at issue here.
+
+    
+
+    
+
+      
+2
+
+      
+. While the Commonwealth Court normally exercises jurisdiction over appeals from SWMA convictions, Fiore successfully petitioned to have his case transferred to the Superior Court. 
+See Commonwealth v. Fiore, 
+445 Pa.Super. 401
+, 
+665 A.2d 1185
+, 1187 (1995). As a result, Fiore and Scarpone had their appeals heard by different courts.
+
+    
+
+    
+
+      
+3
+
+      
+. Because Fiore filed his § 2254 petition after April 24, 1996, he is subject to the additional requirements of the Antiterrorism and Effective Death Penalty Act of 1996, Pub.L. No. 104-132, § 104, 
+110 Stat. 1214
+, 1218-19. However, since we conclude that Fiore cannot succeed on the merits of his claim, we need not decide whether Fiore exhausted his claim, 
+id.
+ 
+§ 104(b), or whether the state courts adjudicated his claim on the merits. 
+Id.
+ 
+at § 104(d).
+
+    
+
+    
+
+      
+4
+
+      
+. In holding that the 
+Davis 
+retroactivity rule is not required by the Due Process Clause, we join two other circuits. 
+See Young v. United States, 
+124 F.3d 794
+, 799 (7th Cir.1997); 
+Brennan v. United States, 
+867 F.2d 111
+, 121 (2d Cir.1989).
+
+      
+We note that the Supreme Court recently reaffirmed 
+Davis 
+in 
+Bousley v. United States, 
+— U.S. -, -, 
+118 S.Ct. 1604
+, 1610, 
+140 L.Ed.2d 828
+ (1998). 
+Bousley 
+involved a federal prisoner who filed a motion under 
+28 U.S.C. § 2255
+ seeking retroactive application of the Supreme Court's interpretation of 
+18 U.S.C. § 924
+(c)(1) in 
+Bailey v. United States, 
+516 U.S. 137
+, 144, 
+116 S.Ct. 501
+, 
+133 L.Ed.2d 472
+ (1995). The 
+Bousley 
+Court held that Bailey's interpretation of § 924(c)(1) was fully retroactive, explaining that "under our federal system it is only Congress, and riot the courts, which can make conduct criminal.” 
+Bousley, 
+- U.S. at -, 
+118 S.Ct. at 1610
+. 
+See also 
+id. 
+at 1612
+ (Stevens, J., concurring) 
+(Bailey 
+"did not change the law. It merely explained what § 924(c) had meant ever since the statute had been enacted.”). Because the 
+Bousley 
+decision rested on the Supreme Court’s understanding of the balance of power in the federal system, it differs critically from the current case, which involves a state court’s refusal to give retroactive effect to a judicial interpretation of a state statute.
+
+    
+
+  
+

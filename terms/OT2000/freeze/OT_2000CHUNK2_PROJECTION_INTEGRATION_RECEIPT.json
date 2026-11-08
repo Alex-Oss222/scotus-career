@@ -1,0 +1,84 @@
+{
+  "status": "published",
+  "new_record_count": 12,
+  "total_completed": 24,
+  "remaining_inventory_events": 90,
+  "stopped_count": 3,
+  "latest_effective_date": "2001-02-20",
+  "sources": [
+    {
+      "record": "Brewer_v_West_Irondequoit_Central_School_District_merits_2001-01-09.md",
+      "sha256": "43c044d5e7dc2b6efcb5b94e7d09d66add53d3a2c11f6c64512136bbef2b1882"
+    },
+    {
+      "record": "Fiore_v_White_merits_2001-01-09.md",
+      "sha256": "105e08f677bce261247fe1fc268c1c8af097e909059f55348dcedaa2cbe2c592"
+    },
+    {
+      "record": "Gitlitz_v_Commissioner_merits_2001-01-09.md",
+      "sha256": "60bfd03b0761b6439c945fb643caa1a23cb322e6612c7c53a5f88f281b24ade3"
+    },
+    {
+      "record": "Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md",
+      "sha256": "26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d"
+    },
+    {
+      "record": "Lopez_v_Davis_merits_2001-01-10.md",
+      "sha256": "96e0ae565cced9d0a436da2c0d45a7b6f7ac8c939082a7b380b0754135fcdfcf"
+    },
+    {
+      "record": "City_News_and_Novelty_v_City_of_Waukesha_mootness-dismissal_2001-01-17.md",
+      "sha256": "b430a33983bea69c3845bb8f721d3a33dfb09634cc745fe05650f19bf9cdfbf9"
+    },
+    {
+      "record": "Seling_v_Young_merits_2001-01-17.md",
+      "sha256": "c992cf0a06d8b4bb03aaa0600f4b25f685f292ae60298f783a2639c49371403a"
+    },
+    {
+      "record": "Kansas_v_United_States_merits_2001-01-22.md",
+      "sha256": "e9897492d0c7c1c9bdb55a5ca87317231427a8ffd72f371951570d96cb84ad47"
+    },
+    {
+      "record": "Brentwood_Academy_v_Tennessee_Secondary_School_Athletic_Association_merits_2001-02-20.md",
+      "sha256": "690c3da5850ea1b32d120fd2b17c43b80518a882773971658eb47adf32916985"
+    },
+    {
+      "record": "Director_of_Revenue_of_Missouri_v_CoBank_ACB_merits_2001-02-20.md",
+      "sha256": "6ca14e8d5557dc930fd5ddace7e2f1a96f46bdf9d041c9d48e32dee81faeba41"
+    },
+    {
+      "record": "Illinois_v_McArthur_merits_2001-02-20.md",
+      "sha256": "5045d8f166ddbf4cacdeffe26e3e0c6d6b0e3d1823ceebd522fe4645de170442"
+    },
+    {
+      "record": "Urofsky_v_Gilmore_merits_2001-02-20.md",
+      "sha256": "1b1f5bdfa52e3aa86725756ddea6f1967ff17df450425ec9e9677c53756b84c7"
+    }
+  ],
+  "preserved_prior_sections": [
+    {
+      "section": "neutral prior law",
+      "sha256": "b0c676352ade1d3cdaefb332f71c0b32a3892fe64b240761ba7206dee1543924"
+    },
+    {
+      "section": "neutral prior separate positions",
+      "sha256": "fd7f04bf033deefa767c3ad3f3fb25dc6f3861b70acaa49ed7d930ea789e3fc2"
+    },
+    {
+      "section": "continuity prior law",
+      "sha256": "b0c676352ade1d3cdaefb332f71c0b32a3892fe64b240761ba7206dee1543924"
+    },
+    {
+      "section": "continuity prior separate positions",
+      "sha256": "fd7f04bf033deefa767c3ad3f3fb25dc6f3861b70acaa49ed7d930ea789e3fc2"
+    }
+  ],
+  "prior_section_hash_basis": "UTF-8 text normalized to LF, with outer blank lines removed; substantive sections retained intact.",
+  "outputs": {
+    "continuity.md": "d0e39ea1cd0d57feac64dd7336ffdb813b1a6569f8ca22fefc3b5d3364204362",
+    "neutral-projection.md": "d1686d3f01ac2768d14a932778a64cd2888432d6955a1a6dfc18cff3f2054dd3"
+  },
+  "manifest_extra_cells_updated": true,
+  "new_record_links_and_anchors_checked": 144,
+  "source_rule": "New legal and published-position blocks copied from Record Public Projections; headings only adjusted. No new substantive law or private modeling material added to the neutral projection."
+}

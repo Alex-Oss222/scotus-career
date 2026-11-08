@@ -1,0 +1,234 @@
+{
+  "stage": "final isolated historical reconciliation",
+  "scope": "Tri County, Brentwood, CoBank, McArthur; SWANCC separately final",
+  "created_utc": "2026-11-08T04:24:30.909478+00:00",
+  "status": "file freeze; operator verification pending",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 34310,
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "bytes": 91525,
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_LATER.md",
+      "bytes": 44532,
+      "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_LATER_INPUTS.json",
+      "bytes": 8433,
+      "sha256": "a3a86e58ac158a5e0f64e1e884e89df6eb636ca4ea4ad421607a01fefd9b6583"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "bytes": 21047,
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md",
+      "bytes": 12563,
+      "sha256": "159a06838d2ec39950c91cc4ea1d32e75ba10c99360caea469c7ff286963f52e"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_CONTROL_FACTS.md",
+      "bytes": 15856,
+      "sha256": "2b2ddf419d9648131067f5981a896a26f56db164a990b344550bf43b979d2c53"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md",
+      "bytes": 6709,
+      "sha256": "7107f65e0914f792d81bbfc936d61f6c77d8375cd13c5824bb13ecf7d9ff902a"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_TRI_COUNTY_CONTROL_FACTS.md",
+      "bytes": 13958,
+      "sha256": "c7a83b25c481d90f21d13d2bd212f6cda25464a7f120253a4985f776d629b0c6"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_LATER_PUBLIC_POSITIONS.md",
+      "bytes": 48263,
+      "sha256": "6d03673923d5b7d72499d3733f360f61d4497703e4454290b4d26c3139178850"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank_statutes.md",
+      "bytes": 9306,
+      "sha256": "267bbfa7e79036b0ae6366e82ee6d3a41e0e6d213d22de39e38601a00b997c83"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/CONTROL_SOURCE_RECEIPT.md",
+      "bytes": 10443,
+      "sha256": "bec523a2d69db4b4dfe8490ed6b74f49f1a7c11b9f33ea65c5251b8bf1cb15ae"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_SOURCE_VERIFICATION.md",
+      "bytes": 2829,
+      "sha256": "e5a9d6e94d5e581caf98d27a76e521d9c3b83a9d7975b4fc10248cb4403fa8c7"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/manifest.json",
+      "bytes": 4385,
+      "sha256": "d884152580171be2001989d6a7c08d0dba3f35c04dc2717b6137bc82d93c3825"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_tricounty.md",
+      "bytes": 9155,
+      "sha256": "4eacf1aa84495dad4693ad4cea1628e82b2faa88a62597cb115cf42593783b6d"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_tricounty.md",
+      "bytes": 22669,
+      "sha256": "93740ef119937cffab64529b94e0f9ce611977a2c1ee14f7598eb0e56dada5cd"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_tricounty.md",
+      "bytes": 1040,
+      "sha256": "a53265cf21f9433d01ba2d51b7ae779d7aa5c98c975fe920c48089b4ba8de706"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/Tri-County.txt",
+      "bytes": 949,
+      "sha256": "38731a4171bf81226a4bab772ed9ba20eb092e24c94dd0aa3ca06d961ebcbd32"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_brentwood.md",
+      "bytes": 8098,
+      "sha256": "3ca8e0e3b2b171caa552c8da4603cd67d674a36ec4afa9a7a7a19e3ba7493d6a"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_brentwood.md",
+      "bytes": 34310,
+      "sha256": "5eb23434f9bd5449902fb4f50c1aa9d6a25a80da586b106069c2121a119a050f"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_brentwood.md",
+      "bytes": 1010,
+      "sha256": "51687767f619ac9638b2b110e8ca65663971d01d6cad23084c28de09694dfe02"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/Brentwood.txt",
+      "bytes": 64512,
+      "sha256": "e4675957456c05376b994f0a9b8fa03b7e533a37bec9e02af6c30b64970c89b0"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_cobank.md",
+      "bytes": 6269,
+      "sha256": "758b4c2740cb0c3c1f592e254a9cc47a8e5174bf5ce71ea331c6632a29dc4c8e"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank.md",
+      "bytes": 19762,
+      "sha256": "bbed1733e84beee86e6bfb35fe938343e5d154085b8b394a4779a0b626a46b07"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_cobank.md",
+      "bytes": 856,
+      "sha256": "fde293ee32d832c75c4e6e7e0f7a9f309750fcad24e11c0d95a80a6a5202d933"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/CoBank.txt",
+      "bytes": 21678,
+      "sha256": "f5e86f85bbaa2364df0139cd1cc3273098be88432d68d9ff7cdfc59e85d9c2af"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_mcarthur.md",
+      "bytes": 6502,
+      "sha256": "ca5be9bfe75badf6f39340b6fc03405ac5b2adba708abeade3e80b0388513a0d"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_mcarthur.md",
+      "bytes": 30732,
+      "sha256": "233499c25fe663c6386642c01283ee9022afc7919f9f88f4e5dc60bdfd844c88"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_mcarthur.md",
+      "bytes": 941,
+      "sha256": "12653f8e8ace7ed5362de677ccd16461b55a819ab836c83736e8883523927c39"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/McArthur.txt",
+      "bytes": 33076,
+      "sha256": "0e1b0585d69b4414fc802fdda3dcdf80e53c96dbb1888ffdf5a6dae59a597892"
+    }
+  ],
+  "read_scope": {
+    "governing": "applicable AGENTS Run/reconciliation and Engine 3C,7,8,14",
+    "neutral": "complete four case packets, applicable supplement/control/root sections, complete Tri County facts and validation release",
+    "law": "complete copied Gasperini, Lebron and American Manufacturers public entries; complete relevant CoBank statutory provisions; relevant percase law and current Edmond sections; chronology and participation from copied projection excerpts",
+    "historical": "all four complete official historical texts, including syllabus, all writings and notes; complete authorized source verification receipts",
+    "original_record": "prior source contexts full-reading receipts relied on; current context did not independently reopen petition, merits briefs, reply or appendix",
+    "other_source_limits": "earlier First Agricultural, Welsh, Segura and Tarkanian verification attributed to frozen model/source receipt; no fresh independent full-read claim"
+  },
+  "outputs": [
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_RECONCILED_LATER.md",
+      "bytes": 83807,
+      "sha256": "4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_RECONCILED_LATER.md",
+      "bytes": 83807,
+      "sha256": "4a8990a191a101184bd362c73d2ad4161a44c2cbd3951d3146249e48a8ed3106"
+    }
+  ],
+  "byte_identity": true,
+  "adopted_model_text_preserved": true,
+  "model_immutable": true,
+  "eight_final_rows_each": {
+    "## 1. District": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "## 2. Brentwood": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "## 3. Director": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    },
+    "## 4. Illinois": {
+      "Stevens": 1,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    }
+  },
+  "substantive_reconciliation_changes": {
+    "Tri County": "Five Associates select discretionary dismissal on stated actual review-scope/vehicle ground; three retain merits preferences. Historical poll and reasons expressly unknown. Full merits/remedy positions retained conditionally. No Court action entered.",
+    "McArthur": "Stevens first prefers dismissal; conditional merits affirmance retained. Souter full join plus supported separate writing retained. Other seven merits positions unchanged.",
+    "Brentwood": "All eight dispositions and proposition commitments retained; official-capacity inference distinguished from lower finding.",
+    "CoBank": "All eight confined statutory dispositions retained; exact deletion and exemptions preserved."
+  },
+  "source_or_neutral_material_added": false,
+  "assignment_made": false,
+  "excluded_current_controlled_material_received": false,
+  "current_adjudication_entered": false,
+  "validation": "Deterministic checks cover only file identity, hashes, copied model and structure. Legal judgments are qualitative."
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Glover-docket.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0402/micro_IA40385014_0402%2001.%20Docket_djvu.txt",
+    "sha256": "26d6c0944cba76f339829d9139642f3aca9a4cd022bef340eef62f8bbe6a31ca"
+  },
+  {
+    "name": "Tri-County-docket.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2001.%20Docket_djvu.txt",
+    "sha256": "d865b126e7191334045c1c67634a76e621fa6d4e5cb4729a9cdb1d451ef085b0"
+  }
+]

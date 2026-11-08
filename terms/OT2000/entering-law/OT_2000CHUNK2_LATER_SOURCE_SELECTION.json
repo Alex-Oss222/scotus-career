@@ -1,0 +1,83 @@
+[
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/Tarkanian_1988.txt",
+    "source": "https://www.law.cornell.edu/supremecourt/text/488/179",
+    "sha256": "9d22795cd293f81fd1220185b0caf234ccf01ee6d0ae7e298448a5f216a66b69"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/Welsh_1984.txt",
+    "source": "https://www.law.cornell.edu/supremecourt/text/466/740",
+    "sha256": "132919fdc1a052a350c0a9bdc25787e881b651dee9fb4460c17bffc948bd12f9"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/Segura_1984.txt",
+    "source": "https://www.law.cornell.edu/supremecourt/text/468/796",
+    "sha256": "5f9c716ea104a7874e1fff30c5647d3fa14fac3c4f7cf5c92339d0014a1ca930"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/First_Agricultural_1968.txt",
+    "source": "https://www.law.cornell.edu/supremecourt/text/392/339",
+    "sha256": "62ce50283bc1ce125da40c163cb45a74c255657cbb92bda0426ba981d9a22e59"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2134_code.txt",
+    "source": "https://www.law.cornell.edu/uscode/text/12/2134",
+    "sha256": "a18c0252812e72b6fe7897d5a302a3a90afa13868e251684abe4bbc0c27d6671"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2023_code.txt",
+    "source": "https://www.law.cornell.edu/uscode/text/12/2023",
+    "sha256": "11db3d00c8b2f83f84d87a72a5a925cf212a8b73a642e001eaf5a3b3a5bc702b"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2098_code.txt",
+    "source": "https://www.law.cornell.edu/uscode/text/12/2098",
+    "sha256": "6ec18545b14aa7515e80acdb41dc6f2c8080f502bcf283dd25dad14bdcc41366"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1971.txt",
+    "excerpt_sha256": "04fce179a238fa0fda60c68c2cc8ebcdc0bb81ef4cae888aecc8a20e27cb9118",
+    "start": "SEC. 3.13.",
+    "end": "TITLE IV"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1985.txt",
+    "excerpt_sha256": "a50cd701d4059b676bef913ae2068717a119e976fe274c051d0afcb5b4f69b11",
+    "start": "(10) striking out the last two sentences",
+    "end": "(f) Title IV"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1985.txt",
+    "excerpt_sha256": "ce7d2108fc4dc25c02a6b705a6f7eaa1680ac11c8034074ead9f055c8758f5b9",
+    "start": "SEC 101.",
+    "end": "APPOINTMENT OF CONSERVATOR"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1988.txt",
+    "excerpt_sha256": "a3664d9a13ea6dbd0c8db429e5444551b8b15f72973bffac01d686c0fcaf4c80",
+    "start": "(p) Section 3.13",
+    "end": "12 use 2154."
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2134_code.txt",
+    "excerpt_sha256": "bbe2a3301b1b7a6a8578830fe64d52784dd092ccb4a9e319999fda57fea4de3b",
+    "start": "Each bank",
+    "end": "Editorial Notes"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2023_code.txt",
+    "excerpt_sha256": "181c9e6d9587909467b3a320fd86c23c120db6ed57eee82f2f0c25fc8280d687",
+    "start": "The Farm Credit Banks",
+    "end": "Editorial Notes"
+  },
+  {
+    "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2098_code.txt",
+    "excerpt_sha256": "22ad125ab9e7c27eef83fabd3bda32781b8c4e627a544efdec4df72d7985476e",
+    "start": "Each Federal land bank association",
+    "end": "Editorial Notes"
+  },
+  {
+    "output": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank_statutes.md",
+    "sha256": "267bbfa7e79036b0ae6366e82ee6d3a41e0e6d213d22de39e38601a00b997c83"
+  }
+]

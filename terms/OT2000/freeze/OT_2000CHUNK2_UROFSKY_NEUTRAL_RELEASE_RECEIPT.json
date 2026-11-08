@@ -1,0 +1,107 @@
+{
+  "status": "released for independent modeling on identified existing-law baseline; intervening-law check remains before assembly",
+  "case": "Urofsky v. Gilmore",
+  "event_date": "2001-02-20",
+  "opening_law_cutoff": "2000-06-29",
+  "reviewed_current_projection_cutoff": "2000-12-12",
+  "denius_status": "Operator confirms unadjudicated; no Decision Record or holding; no Denius outcome assumed",
+  "dependency": "Conditional refresh of any actual applicable earlier effective holding; no adjudicate-Denius-first prerequisite",
+  "validated_at_utc": "2026-11-08T04:15:32.491428+00:00",
+  "inputs": [
+    {
+      "path": "foundation/ENGINE.md",
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_urofsky.md",
+      "sha256": "b2f675f975eab0fb6be3f6a64985c077a0792e1fe148437174998530e604fe73"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky.md",
+      "sha256": "e468834d99248d5723324f0d5de725acbbb5251eb79e1876d6486ffe23e84509"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ADDED_FACTS.md",
+      "sha256": "ea41cd626094b056c6bae996bf8377886914f8810518e176a96ea12c00838f08"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba"
+    },
+    {
+      "path": "terms/OT2000/workspace/neutral-projection.md",
+      "sha256": "913e67a2f0014732e1c2321bc4d6b9ae8fd4e039750a9368ba06d2e4127ccf28"
+    },
+    {
+      "path": "terms/OT1998/output/OT_1998CHUNK4.md",
+      "sha256": "d7ef6fc2b172e6659854353762078168f9c5548886aadbebc6a25d0a850bc4a3"
+    },
+    {
+      "path": "terms/OT1994/output/OT_1994CHUNK3.md",
+      "sha256": "f96e2eb2f10b0c62d3f257df059ef5f6ca76cde13263e3e67a1d0bac0675ffeb"
+    }
+  ],
+  "read_scope": {
+    "engine": "Chronology; neutral and modeling boundaries; rolling-term refresh; Law-Entering Snapshot; bounded failure rule",
+    "neutral_projection": "Scope and cutoff; headings; Urofsky dependency; same-day rule; Wasson law and public positions; participation; source limits",
+    "neutral_supplement": "Urofsky section only",
+    "prior_public_renders": "Boring and NTEU bounded event sections only"
+  },
+  "copied_public_sections": [
+    {
+      "source": "terms/OT1998/output/OT_1998CHUNK4.md",
+      "source_sha256": "d7ef6fc2b172e6659854353762078168f9c5548886aadbebc6a25d0a850bc4a3",
+      "event": "Boring v. Buncombe County Board of Education",
+      "heading": "#### Opinion Topology",
+      "excerpt_sha256": "460605d61b730215b4450c17a9c50bc72331ac1fd39ccbef7adeb5be35a13c45",
+      "copy_method": "Exact bounded section copied programmatically from saved public render"
+    },
+    {
+      "source": "terms/OT1998/output/OT_1998CHUNK4.md",
+      "source_sha256": "d7ef6fc2b172e6659854353762078168f9c5548886aadbebc6a25d0a850bc4a3",
+      "event": "Boring v. Buncombe County Board of Education",
+      "heading": "#### Separate Positions Relevant to the Decision",
+      "excerpt_sha256": "605afd843ebc0d3cd53104e09c5a79a3dac2ec266811662e5748a6c10abe3ebd",
+      "copy_method": "Exact bounded section copied programmatically from saved public render"
+    },
+    {
+      "source": "terms/OT1994/output/OT_1994CHUNK3.md",
+      "source_sha256": "f96e2eb2f10b0c62d3f257df059ef5f6ca76cde13263e3e67a1d0bac0675ffeb",
+      "event": "United States v. National Treasury Employees Union",
+      "heading": "#### Opinion Topology",
+      "excerpt_sha256": "df75359ce6a454cbd977316dc00e0379ecb4e6dd124147215dab1737f36e1dd3",
+      "copy_method": "Exact bounded section copied programmatically from saved public render"
+    },
+    {
+      "source": "terms/OT1994/output/OT_1994CHUNK3.md",
+      "source_sha256": "f96e2eb2f10b0c62d3f257df059ef5f6ca76cde13263e3e67a1d0bac0675ffeb",
+      "event": "United States v. National Treasury Employees Union",
+      "heading": "#### Separate Positions Relevant to the Decision",
+      "excerpt_sha256": "19372b25c921807cc9436d84db59214b55ab0a030f89a73c2f3f61d10876c4e2",
+      "copy_method": "Exact bounded section copied programmatically from saved public render"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE.md",
+      "sha256": "268a83b7cf5f966072a31f88bcbac61f7e67bcf941370c8a20bdb3b3eccc9db6"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky_prior_positions.md",
+      "sha256": "1e40a9b7d13e3fdb254c099f5b43dd6cdda5671e735fe35a39bcd9eda1e9b0d3"
+    }
+  ],
+  "checks": [
+    "Neutral dependency is phrased in terms of actual earlier effective holding",
+    "Public projection identifies no specific further prerequisite",
+    "No source fact requires Denius adjudication to classify the Urofsky claim",
+    "Boring university reservation and NTEU protected-interest prerequisite preserved",
+    "Exact published positions copied programmatically with source and excerpt hashes",
+    "No-request-denied fact kept distinct from a challenge to prior approval",
+    "Amended statutory qualifications and agency exception preserved",
+    "Existing frozen inputs unchanged; all eight input hashes verified after writing"
+  ],
+  "pending_before_assembly": "Sanitized comparison of all actual effective intervening law; if material change, repeat affected neutral, modeling and reconciliation stages",
+  "excluded": "No current commitments, private positions, comparator, reconciliation, control-revalidation material, or raw current Records read",
+  "votes_modeled": false
+}

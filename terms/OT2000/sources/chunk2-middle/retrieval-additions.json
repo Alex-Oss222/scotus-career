@@ -1,0 +1,14 @@
+[
+  {
+    "source": "https://law.resource.org/pub/us/case/reporter/F2/830/830.F2d.789.87-1041.html",
+    "file": "terms/OT2000/sources/chunk2-middle/pesce.txt",
+    "sha256": "a088fa883a4877c622e84ea2072c6f5a72d9d0b0655c7da618bad25c29d0881f",
+    "chars": 37097
+  },
+  {
+    "source": "https://law.resource.org/pub/us/case/reporter/F2/864/864.F2d.1309.88-1288.html",
+    "file": "terms/OT2000/sources/chunk2-middle/schaill.txt",
+    "sha256": "a680850bacb048b420402d33a9a5be2359445a5ad3cb1657f2fa9ae0b81c9ccd",
+    "chars": 66333
+  }
+]

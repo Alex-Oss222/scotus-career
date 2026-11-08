@@ -1,0 +1,130 @@
+{
+  "stage": "final isolated historical reconciliation, SWANCC only",
+  "cutoff": "2001-01-09",
+  "created_utc": "2026-11-08T04:14:28.233815+00:00",
+  "status": "file freeze; operator verification pending",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 34310,
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "bytes": 91525,
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH.md",
+      "bytes": 39914,
+      "sha256": "8a570f7bbeee4609bdcec61c69a43485fa1c49e661085535493e8d8c6b8d1951"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_SWANCC_REFRESH_RECEIPT.json",
+      "bytes": 6113,
+      "sha256": "1b35ea7e33a0e92f516dfb05addf8c5b195b20c4b2e23f33aa5632f1ee0551d5"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
+      "bytes": 7620,
+      "sha256": "5336e5a6992aad9cc38ad9e004deaf7b8166ee8db1bf4cac9ffbbfa3648273fc"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
+      "bytes": 66793,
+      "sha256": "e435cf4d9bf80d8adecafed6c6f3859163f8d3c711958d807f3a56fb993e0fc5"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_positions.md",
+      "bytes": 44646,
+      "sha256": "8e68cd36e9941b1438d5149931aac2a87e337f75999b73fa229b319487646491"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_statutes.md",
+      "bytes": 13414,
+      "sha256": "5ad2f69f900b61c997890137ebbff65b0c3b3b5f067dcb01f8728b6386ce092f"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_riverside.md",
+      "bytes": 1381,
+      "sha256": "37bcc6475dd30a5029a262c279cdc411d47737798e19d59cabbf03464dafa7a2"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_homebuilders_positions.md",
+      "bytes": 6553,
+      "sha256": "2fdee8e657d07472b2430eb446f70d55c37a11ae36dcb0eed2cf602163a04e05"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "bytes": 21047,
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md",
+      "bytes": 12563,
+      "sha256": "159a06838d2ec39950c91cc4ea1d32e75ba10c99360caea469c7ff286963f52e"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md",
+      "bytes": 6709,
+      "sha256": "7107f65e0914f792d81bbfc936d61f6c77d8375cd13c5824bb13ecf7d9ff902a"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION.md",
+      "bytes": 11004,
+      "sha256": "1d75663930f6ef214f7e2f65f875ffc079a41792d44afa93a3c60e45c2121a8d"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_swancc.md",
+      "bytes": 967,
+      "sha256": "f523b39473ed42fe28747d3493183979b0de9e407bb84d9fa7453e5b22f7cacc"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/CONTROL_SOURCE_RECEIPT.md",
+      "bytes": 10443,
+      "sha256": "bec523a2d69db4b4dfe8490ed6b74f49f1a7c11b9f33ea65c5251b8bf1cb15ae"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_SOURCE_VERIFICATION.md",
+      "bytes": 2829,
+      "sha256": "e5a9d6e94d5e581caf98d27a76e521d9c3b83a9d7975b4fc10248cb4403fa8c7"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/manifest.json",
+      "bytes": 4385,
+      "sha256": "d884152580171be2001989d6a7c08d0dba3f35c04dc2717b6137bc82d93c3825"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/SWANCC.txt",
+      "bytes": 92640,
+      "sha256": "cac25c423b12c441ee30a21c7f418ddfb594277c1a88cd1ed1976f5188ecf489"
+    }
+  ],
+  "read_scope": {
+    "governing": "applicable Run/reconciliation instructions and Engine 3C,7,8,14",
+    "commitments": "complete adopted copy; eight rows and common grounds reviewed; initial output truncation completed for the missing OConnor row",
+    "neutral": "complete case packet and addition; applicable supplement and root-facts sections; validation release and limits",
+    "law": "relevant Commerce, administrative and environmental rules and all supplied separate positions; common chronology and roster from copied neutral projection; no raw Records",
+    "historical": "complete official 39-page opinion, syllabus and all notes in three contiguous bounded text reads; comparison source receipts read",
+    "source_limits": "source receipts establish earlier retrieval work; original report, appendix and merits filings not independently read here"
+  },
+  "outputs": [
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md",
+      "bytes": 56186,
+      "sha256": "507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_RECONCILED_SWANCC_FINAL.md",
+      "bytes": 56186,
+      "sha256": "507b801cf382e0d24616be2f685c072caa9b45099651bca4dc781644a50d64f4"
+    }
+  ],
+  "byte_identity": true,
+  "model_immutable": true,
+  "selected_statutory_dispositions_unchanged": true,
+  "assignments_made": false,
+  "excluded_current_controlled_material_received": false,
+  "remaining_substantive_blocker": null,
+  "validation": "Hashes and identity checked mechanically; substantive reconciliation was qualitative."
+}

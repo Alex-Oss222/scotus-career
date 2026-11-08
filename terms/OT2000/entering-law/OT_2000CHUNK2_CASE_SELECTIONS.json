@@ -1,0 +1,284 @@
+[
+  {
+    "case": "Fiore v. White",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_fiore.md",
+    "law_sha256": "b669e36574d5f577c6dbfdaa9ee5c3a4d0fd08312ebd54de7e0cb191fb201103",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_fiore.md",
+    "packet_sha256": "30ed4f269d7764704a1143034377d310145c8a30c4b822d2bcfd6359e4f164c0",
+    "standard_indices": [
+      0,
+      3,
+      4,
+      7,
+      8
+    ],
+    "holdings": [
+      "Fiore v. White, 528 U.S. 23 (1999)",
+      "Lindh v. Murphy",
+      "Williams v. Taylor (Terry Williams), 529 U.S. 362 (2000)"
+    ],
+    "current": [
+      "Artuz v. Bennett — 2000-11-07"
+    ]
+  },
+  {
+    "case": "Glover v. United States",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_glover.md",
+    "law_sha256": "260d6b0306b141bb5d70ac895b2026c1abbfc1a1c794604ba87df3a1cc124747",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_glover.md",
+    "packet_sha256": "ee17d440a8d677130bb91ff11d5c219687cf1cdc623137bd36e6f32abbb91334",
+    "standard_indices": [
+      0,
+      7,
+      16,
+      19
+    ],
+    "holdings": [
+      "Lockhart v. Fretwell, 506 U.S. 364 (1993)",
+      "Williams v. Taylor (Terry Williams), 529 U.S. 362 (2000)"
+    ],
+    "current": []
+  },
+  {
+    "case": "Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
+    "law_sha256": "e435cf4d9bf80d8adecafed6c6f3859163f8d3c711958d807f3a56fb993e0fc5",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
+    "packet_sha256": "5336e5a6992aad9cc38ad9e004deaf7b8166ee8db1bf4cac9ffbbfa3648273fc",
+    "standard_indices": [
+      0,
+      7,
+      23,
+      27
+    ],
+    "holdings": [
+      "Christensen v. Harris County, 529 U.S. 576 (2000)",
+      "United States v. Lopez",
+      "National Association of Home Builders v. Babbitt",
+      "United States v. Morrison / Brzonkala v. Morrison, 529 U.S. 598 (2000)"
+    ],
+    "current": []
+  },
+  {
+    "case": "Gitlitz v. Commissioner",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_gitlitz.md",
+    "law_sha256": "6d00c497a65dc665cc3353199a8e4dc3760a16349f63d1c51ad7f3ea58c5796f",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_gitlitz.md",
+    "packet_sha256": "50460444146c2f6314d3d2b2759b084c9c2334bbd39bd227617eaf7b51d401fb",
+    "standard_indices": [
+      0,
+      7
+    ],
+    "holdings": [],
+    "current": []
+  },
+  {
+    "case": "Brewer v. West Irondequoit Central School District",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_brewer.md",
+    "law_sha256": "2a3f1ce56bffa7ba44e492c27655d3f7accd885957d4fa554a7ce59432754449",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_brewer.md",
+    "packet_sha256": "838639f49e20922292df751ecd3dfcd233ae7b2783b461204c439f1a933de1f8",
+    "standard_indices": [
+      0,
+      7,
+      22
+    ],
+    "holdings": [
+      "Adarand Constructors, Inc. v. Peña",
+      "Eisenberg v. Montgomery County Public Schools"
+    ],
+    "current": [
+      "Sinkfield v. Kelley — 2000-11-27"
+    ]
+  },
+  {
+    "case": "Lopez v. Davis",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_lopez.md",
+    "law_sha256": "87219ccdf91c5b281f998a7f669672b4058fae4402628f1e806c5ff0f263e5f3",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_lopez.md",
+    "packet_sha256": "d8591fca828b2a357ed472d2b32b1e7ff929a038cc606bd794ab6f0d55c397f8",
+    "standard_indices": [
+      0,
+      7,
+      15,
+      24
+    ],
+    "holdings": [
+      "INS v. Yueh-Shaio Yang",
+      "Reno v. Koray"
+    ],
+    "current": []
+  },
+  {
+    "case": "Seling v. Young",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_seling.md",
+    "law_sha256": "e8730267ed79f2a4d12b77db98402ac681f9f46fa6dc97a38b3e16bc896feea4",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_seling.md",
+    "packet_sha256": "3a6b4bf67c432477fcab53dd8587f88fd946c67b27dff10b9b3c8c98a7ef6dc4",
+    "standard_indices": [
+      0,
+      7,
+      8,
+      20
+    ],
+    "holdings": [
+      "Kansas v. Hendricks; Hendricks v. Kansas",
+      "Lindh v. Murphy"
+    ],
+    "current": []
+  },
+  {
+    "case": "City News & Novelty, Inc. v. City of Waukesha",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_citynews.md",
+    "law_sha256": "e6448bf76d847c7f45909eb5608c20ba289dbf2d4ab811265f41efbb674b6aa2",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_citynews.md",
+    "packet_sha256": "5b4ca75d3e2de910d90238b123506ed42b4e192033f9ac043fab885c3b31bb4a",
+    "standard_indices": [
+      0,
+      1,
+      5,
+      7,
+      9
+    ],
+    "holdings": [
+      "Arizonans for Official English v. Arizona",
+      "Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc., 528 U.S. 167 (2000)"
+    ],
+    "current": []
+  },
+  {
+    "case": "District of Columbia v. Tri County Industries, Inc.",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_tricounty.md",
+    "law_sha256": "93740ef119937cffab64529b94e0f9ce611977a2c1ee14f7598eb0e56dada5cd",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_tricounty.md",
+    "packet_sha256": "4eacf1aa84495dad4693ad4cea1628e82b2faa88a62597cb115cf42593783b6d",
+    "standard_indices": [
+      0,
+      2,
+      7
+    ],
+    "holdings": [
+      "Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996)"
+    ],
+    "current": []
+  },
+  {
+    "case": "Denius v. Dunlap",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_denius.md",
+    "law_sha256": "46d90dc427ba0df9368b0e6f8a165c1ee927323fee7b81f9eae3ea1c45be0d16",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_denius.md",
+    "packet_sha256": "4210caae2aaccddaa4ec57f0f9ac123aefae4b9a142b9d1c8ff647740b165f2b",
+    "standard_indices": [
+      0,
+      7,
+      10,
+      12,
+      13,
+      21,
+      25
+    ],
+    "holdings": [
+      "Elder v. Holloway, 510 U.S. 510",
+      "Crawford-El v. Britton",
+      "Sheets v. Salt Lake County",
+      "Doe v. Southeastern Pennsylvania Transportation Authority",
+      "Waters v. Churchill, 511 U.S. 661",
+      "United States v. National Treasury Employees Union"
+    ],
+    "current": [
+      "Wasson v. Sonoma County Junior College — 2000-11-27"
+    ]
+  },
+  {
+    "case": "Kansas v. United States",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_kansas.md",
+    "law_sha256": "9391ee0bde426db21f8ce3fa75dd7654c3f6c454730b60465a7f1ca25071645a",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_kansas.md",
+    "packet_sha256": "351a19186e4d1a6162e35f94f1c8be973bf43ee19f8d83151ee5f2c0714d15c5",
+    "standard_indices": [
+      0,
+      7
+    ],
+    "holdings": [
+      "New York v. United States, 505 U.S. 144 (1992)",
+      "Printz v. United States; Mack v. United States"
+    ],
+    "current": []
+  },
+  {
+    "case": "Brentwood Academy v. Tennessee Secondary School Athletic Association",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_brentwood.md",
+    "law_sha256": "5eb23434f9bd5449902fb4f50c1aa9d6a25a80da586b106069c2121a119a050f",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_brentwood.md",
+    "packet_sha256": "3ca8e0e3b2b171caa552c8da4603cd67d674a36ec4afa9a7a7a19e3ba7493d6a",
+    "standard_indices": [
+      0,
+      7,
+      11,
+      14
+    ],
+    "holdings": [
+      "Lebron v. National Railroad Passenger Corp.",
+      "American Manufacturers Mutual Insurance Co. v. Sullivan"
+    ],
+    "current": []
+  },
+  {
+    "case": "Illinois v. McArthur",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_mcarthur.md",
+    "law_sha256": "233499c25fe663c6386642c01283ee9022afc7919f9f88f4e5dc60bdfd844c88",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_mcarthur.md",
+    "packet_sha256": "ca5be9bfe75badf6f39340b6fc03405ac5b2adba708abeade3e80b0388513a0d",
+    "standard_indices": [
+      0,
+      7,
+      17,
+      18
+    ],
+    "holdings": [
+      "Whren v. United States, 517 U.S. 806",
+      "Bond v. United States, 529 U.S. 334 (2000)"
+    ],
+    "current": [
+      "City of Indianapolis v. Edmond — 2000-11-28"
+    ]
+  },
+  {
+    "case": "Director of Revenue of Missouri v. CoBank ACB",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank.md",
+    "law_sha256": "bbed1733e84beee86e6bfb35fe938343e5d154085b8b394a4779a0b626a46b07",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_cobank.md",
+    "packet_sha256": "758b4c2740cb0c3c1f592e254a9cc47a8e5174bf5ce71ea331c6632a29dc4c8e",
+    "standard_indices": [
+      0,
+      6,
+      7
+    ],
+    "holdings": [
+      "Arkansas v. Farm Credit Services of Central Arkansas"
+    ],
+    "current": []
+  },
+  {
+    "case": "Urofsky v. Gilmore",
+    "law_path": "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky.md",
+    "law_sha256": "e468834d99248d5723324f0d5de725acbbb5251eb79e1876d6486ffe23e84509",
+    "packet_path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_urofsky.md",
+    "packet_sha256": "b2f675f975eab0fb6be3f6a64985c077a0792e1fe148437174998530e604fe73",
+    "standard_indices": [
+      0,
+      7,
+      21,
+      25,
+      26
+    ],
+    "holdings": [
+      "Boring v. Buncombe County Board of Education",
+      "United States v. National Treasury Employees Union",
+      "Waters v. Churchill, 511 U.S. 661"
+    ],
+    "current": [
+      "Wasson v. Sonoma County Junior College — 2000-11-27"
+    ]
+  }
+]

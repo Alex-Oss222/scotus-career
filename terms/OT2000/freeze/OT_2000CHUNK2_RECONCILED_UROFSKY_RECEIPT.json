@@ -1,0 +1,173 @@
+{
+  "status": "Reconciled commitments preserved as identical runtime and freeze files; ready for assembly subject to the stated effective-law check",
+  "case": "Urofsky v. Gilmore",
+  "event_date": "2001-02-20",
+  "frozen_at_utc": "2026-11-08T04:38:41.241122+00:00",
+  "mode": "Fresh scoped historical reconciliation",
+  "excluded": "No present private Stone material, full approved brief, assembly artifact, raw current-term Record, or other case private material read",
+  "inputs": [
+    {
+      "path": "foundation/ENGINE.md",
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_urofsky.md",
+      "sha256": "b2f675f975eab0fb6be3f6a64985c077a0792e1fe148437174998530e604fe73"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ADDED_FACTS.md",
+      "sha256": "ea41cd626094b056c6bae996bf8377886914f8810518e176a96ea12c00838f08"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE.md",
+      "sha256": "268a83b7cf5f966072a31f88bcbac61f7e67bcf941370c8a20bdb3b3eccc9db6"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE_RECEIPT.json",
+      "sha256": "17ca5d5d49fc808ae4129359f045440249c44b8ff5fb9551d5fadf1345ffe296"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_ADDITION.md",
+      "sha256": "660efdcc2a58ec45bade2bd939288c2ebd70462b1904e27954c6646a343e6895"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_SOURCE_RECEIPT.json",
+      "sha256": "338a661de41bba4b496a4f8be1b15401e7b68be7498efd0243f154d9a7e27f73"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_INTERVENING_LAW_REVIEW.md",
+      "sha256": "7ecaaeaf08e8a5da312421d140f1336642e006949b8127829dd31506242c9e57"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky.md",
+      "sha256": "e468834d99248d5723324f0d5de725acbbb5251eb79e1876d6486ffe23e84509"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky_prior_positions.md",
+      "sha256": "1e40a9b7d13e3fdb254c099f5b43dd6cdda5671e735fe35a39bcd9eda1e9b0d3"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_UROFSKY.md",
+      "sha256": "61a6cc15b47d6989c3f02a25bb9e98a1ea9c566ff5fa0fbde6195d6eb6a27a8b"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_UROFSKY_RECEIPT.json",
+      "sha256": "57d99487ec7daac549d7dc79d61a3924ea30f1b6dcc7bb3a0f7c721a847eeddd"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMPARATOR_urofsky.md",
+      "sha256": "37ed4f021afcd45c4a62f336890fad9cdeaaf64759b83c587e25417de50ac6a5"
+    }
+  ],
+  "sources": [
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-981481A.P.pdf",
+      "sha256": "246a8e33ae39cf8b12c8ec0533de04b9e611d0406d686bddb9b0d7d4e3f294da"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-981481A.P.pdf.txt",
+      "sha256": "39924ecfc104e9508343d354254c794a28e461c210321f8c6d4a1a841b70c515"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-district.txt",
+      "sha256": "d311edae10dc013100f179de416a985844e44d47c7f8192a1ad869f64f8279b1"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-district-source.json",
+      "sha256": "9721e565ea4350784e7b97f2754bf195507e3bd8d7e9c5469d0268fbd1b69f58"
+    },
+    {
+      "path": "terms/OT2000/sources/model-urofsky/keyishian.txt",
+      "sha256": "999d84f7f8aa87f015b040d1db1257a6b747736d915569c02ef38ea785de4084"
+    },
+    {
+      "path": "terms/OT2000/sources/model-urofsky/sweezy.txt",
+      "sha256": "5408037bb8bafa129ab4a4c1a83ee1edbe1c8cabaf993b7e514d753b452cfba5"
+    }
+  ],
+  "read_scope": {
+    "engine": "Authority; physical-stage boundaries; sections 4, 6, 7, 8 and 14; no assignment made",
+    "neutral_supplement_and_added_facts": "Urofsky sections only",
+    "prior_positions": "Supplied public Boring and NTEU topology and separate positions; Waters controlling scope and attributed public grounds in entering-law copy",
+    "official_en_banc": "Complete corrected text, 158156 characters, all majority and separate writings and notes; PDF hashed as parent source, not separately rendered",
+    "district": "Complete published text, 42851 characters, order and all eight notes; underlying original submissions not independently read",
+    "keyishian": "Original main opinion through judgment and remand, particularly speech-vagueness and membership holdings; bounded check, not a new claim to read the complete webpage appendix and dissent",
+    "sweezy": "Original judgment identification, operative plurality discussion and complete Frankfurter-Harlan concurrence; bounded check, not a new full-page read",
+    "intervening": "Clean validated eight-event relevance review through January 22; underlying raw Records not opened"
+  },
+  "historical_comparator": {
+    "type": "Lower-court merits decision; no historical Supreme Court merits vote identified",
+    "lower_lineup_verified_against_official_text": true,
+    "historical_denial_imported": false,
+    "supreme_court_historical_departures": "None identifiable; no historical Supreme Court merits vote exists in the comparator"
+  },
+  "adoption": {
+    "model_sha256": "61a6cc15b47d6989c3f02a25bb9e98a1ea9c566ff5fa0fbde6195d6eb6a27a8b",
+    "copy_method": "Original model bytes appended programmatically without rewriting",
+    "verbatim_copy_verified": true,
+    "changes_to_justice_commitments": [],
+    "final_overrides": [],
+    "threshold_and_general_component_associates": 8,
+    "academic_vacate_remand": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "academic_affirm": [
+      "O'Connor",
+      "Scalia",
+      "Thomas"
+    ],
+    "separate_grounds": "O'Connor assumed-interest balance; Scalia-Thomas antecedent-interest ground plus independent assumed-interest balance",
+    "marks_claim": false,
+    "assignment": "Not performed"
+  },
+  "hashes_matched_existing_model_receipt": [
+    "foundation/ENGINE.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_urofsky.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_ADDED_FACTS.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE_RECEIPT.json",
+    "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky.md",
+    "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky_prior_positions.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_ADDITION.md",
+    "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_SOURCE_RECEIPT.json",
+    "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_INTERVENING_LAW_REVIEW.md",
+    "terms/OT2000/sources/chunk2-added/urofsky-981481A.P.pdf.txt",
+    "terms/OT2000/sources/chunk2-added/urofsky-district.txt",
+    "terms/OT2000/sources/model-urofsky/keyishian.txt",
+    "terms/OT2000/sources/model-urofsky/sweezy.txt"
+  ],
+  "checks": [
+    "Expected frozen model hash matched",
+    "Current outputs byte-identical",
+    "Original model retained verbatim and unchanged",
+    "Eight named Associates reconciled by component and sufficient rationale",
+    "Five direct common-rationale joins distinguished from three affirmance votes",
+    "No new evidentiary premise, denied application, default, or automatic research-gap remand inferred",
+    "Original and amended definitions kept distinct",
+    "Documented burdens, complaints and permissions retained with source qualifications",
+    "No historical Supreme Court vote, denial, author or join imported",
+    "Restricted strings and local-machine links absent from handoff and receipt"
+  ],
+  "remaining": "Any additional actual effective law requires preassembly relevance review; a material change returns through the affected clean stages",
+  "new_material_record_blocker": null,
+  "preservation": "Durable file freeze only; no repository command, assignment, Record, public render, tracker update or entered Court action",
+  "outputs": [
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK2_RECONCILED_UROFSKY.md",
+      "sha256": "27a31e27961b70ff61c7c37fc3184f53cb9347cc542faf27ca5c5ed4fb7edaf5"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_RECONCILED_UROFSKY.md",
+      "sha256": "27a31e27961b70ff61c7c37fc3184f53cb9347cc542faf27ca5c5ed4fb7edaf5"
+    }
+  ]
+}

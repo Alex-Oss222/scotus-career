@@ -1,0 +1,72 @@
+[
+  {
+    "file": "42usc-602-2000.txt",
+    "bytes": 19663,
+    "sha256": "d4bc89dc01b94744baf82e2551b9f99e8b7d17fed0e732f24301f2cd6fbe44b1"
+  },
+  {
+    "file": "42usc-609-2000.txt",
+    "bytes": 35789,
+    "sha256": "f8bf49893683362b7caba9b986b9f624261077c84fa827d8fbe48cf6881ba5ff"
+  },
+  {
+    "file": "42usc-654-2000.txt",
+    "bytes": 69289,
+    "sha256": "c709f559401207f553ae04a7ff131e1b4f403084277de7f78e5923cc4b651913"
+  },
+  {
+    "file": "42usc-666-2000.txt",
+    "bytes": 81017,
+    "sha256": "8b1014e4712d98cc47e869693a82a8d86ddd62cdafd17338dad67835b5e4b2ae"
+  },
+  {
+    "file": "brewer.txt",
+    "bytes": 74061,
+    "sha256": "f01f439b9fdfaf9ab70d5a693e1036d31539c7a4a650d8834a1f7730c438fdb9"
+  },
+  {
+    "file": "denius-verified-extracts.md",
+    "bytes": 3557,
+    "sha256": "9aba89277235c611a2cafd9aac56891e3d2c90ff0b97e3ef8761f29b1ccfa722"
+  },
+  {
+    "file": "denius.txt",
+    "bytes": 50459,
+    "sha256": "d70f2f148dfb5ad4785db6e6b96e9ce018941e263c298cc59d7bfe09a48b86e5"
+  },
+  {
+    "file": "kansas-statutory-extracts.md",
+    "bytes": 6902,
+    "sha256": "01995651bebb7b4b6670d41902cb75caf254e1917bb0cad9a69470339f017a09"
+  },
+  {
+    "file": "kansas.txt",
+    "bytes": 28132,
+    "sha256": "7b69efe1d79c20627611d35bc02d292ecd418de773060269aac46d34c5c90c12"
+  },
+  {
+    "file": "urofsky-981481A.P.pdf",
+    "bytes": 276796,
+    "sha256": "246a8e33ae39cf8b12c8ec0533de04b9e611d0406d686bddb9b0d7d4e3f294da"
+  },
+  {
+    "file": "urofsky-981481A.P.pdf.txt",
+    "bytes": 160758,
+    "sha256": "39924ecfc104e9508343d354254c794a28e461c210321f8c6d4a1a841b70c515"
+  },
+  {
+    "file": "urofsky-vacated-panel.pdf",
+    "bytes": 39521,
+    "sha256": "14eb87f0760e47277d6641676663ddd0ed898648ef2bc6e7661f11dc83693122"
+  },
+  {
+    "file": "urofsky-vacated-panel.txt",
+    "bytes": 20910,
+    "sha256": "29ce363ca682e3e27b9a287093aa0910e5fe9cc3ebeae1dd1e92174df04e4156"
+  },
+  {
+    "file": "urofsky.txt",
+    "bytes": 154875,
+    "sha256": "ddddd727bed0643a2d0b3d705dc2c26f28e17eab837e0271d0abf924918b3b76"
+  }
+]

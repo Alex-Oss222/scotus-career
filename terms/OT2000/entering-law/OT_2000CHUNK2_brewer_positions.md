@@ -1,0 +1,9 @@
+# Brewer: published prior positions
+
+Source: terms/OT1999/output/OT_1999CHUNK7.md, Eisenberg, May 30, 2000. Copied public writing; these separate grounds are noncontrolling.
+
+#### Separate Writings
+
+Kennedy concurs in Parts I and III and in the judgment on May 30, 2000. The displaced strict-scrutiny premise and race-free-only final command warrant vacatur under the governing standard, and absence of a decree does not alone settle justification. As in his Hopwood position, he reserves affirmative adoption of the K–12 educational-benefit ground in Part II. His agreement does not presume this policy valid, excuse its decisive individual burden or approve numerical balance without support. This objective reservation is noncontrolling; six Justices adopt Part II directly.
+
+Thomas, joined by Scalia, dissents. The challenged application denies one child an opportunity solely because of race through comparison with county percentages. Both retain their stricter individual-equality position from Adarand and their objection to adopting the new affirmative K–12 justification. Independently, they conclude that this percentage-driven denial is unsupported racial allocation under the binding common standard. Their objection does not rest simply on the absence of a decree: Thomas's Hopwood dismantlement position preserves actual continuing duties when proved, and neither Justice treats numerical imbalance as proof of such a duty. The existing record, in their view, supplies the relevant failure of fit rather than merely an unresolved inquiry. They would preserve immediate preliminary admission and the final race-free reconsideration direction for Jacob's challenged application, without extending the injunction to every future policy, ordering damages or adjudicating every voluntary integration method. These contrary grounds and remedy are noncontrolling.

@@ -1,0 +1,70 @@
+{
+  "scope": "SWANCC only; neutral source addition; fresh modeling of all eight Associate Justices required",
+  "cutoff": "2001-01-09",
+  "status": "released for fresh independent modeling; no present-case commitment supplied",
+  "validated_at_utc": "2026-11-08T04:00:46.603173+00:00",
+  "inputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_ADDITIONAL_SOURCE_FACTS.md",
+      "sha256": "1ca65956c2e1b268ea9ea3c45c1ce4013ac999c68a7d8ba1cffd90f8d1d26ab3"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/FWS-1988-wetlands-release.txt",
+      "sha256": "be66fe9e829629446eff6a793521b4bab97945b25193830b45ef6abc56a233c7"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-control/FWS-1988-wetlands-release-source.json",
+      "sha256": "0f575ef2c923014ee74815233d49a76e9d853bad13156b2e8db50765c4090bbb"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
+      "sha256": "5336e5a6992aad9cc38ad9e004deaf7b8166ee8db1bf4cac9ffbbfa3648273fc"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc.md",
+      "sha256": "e435cf4d9bf80d8adecafed6c6f3859163f8d3c711958d807f3a56fb993e0fc5"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_swancc_positions.md",
+      "sha256": "8e68cd36e9941b1438d5149931aac2a87e337f75999b73fa229b319487646491"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_homebuilders_positions.md",
+      "sha256": "2fdee8e657d07472b2430eb446f70d55c37a11ae36dcb0eed2cf602163a04e05"
+    }
+  ],
+  "full_read_in_this_reopening": [
+    "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_ADDITIONAL_SOURCE_FACTS.md",
+    "terms/OT2000/sources/chunk2-control/FWS-1988-wetlands-release.txt",
+    "terms/OT2000/sources/chunk2-control/FWS-1988-wetlands-release-source.json",
+    "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_swancc.md",
+    "terms/OT2000/entering-law/OT_2000CHUNK2_homebuilders_positions.md"
+  ],
+  "law_review": "Existing authorized entering-law and positions slices; the Commerce standard and Home Builders separate positions were checked at their stated scope. No new current-case historical opinion was opened.",
+  "publisher_source_metadata": {
+    "url": "https://www.fws.gov/sites/default/files/documents/historic-news-releases/1988/19881213B.PDF",
+    "publication_date": "1988-12-13",
+    "sha256": "a834d33a563325a4bc2b77405b2b7d73d4765925b24102a493b4626c235885aa"
+  },
+  "publisher_metadata_hash_note": "The source metadata hash is preserved as supplied. This reopening hashes the text and metadata actually read; it does not claim a new independent hash verification of the publisher PDF.",
+  "checks": [
+    "Complete three-page official December 13, 1988 release read",
+    "Report regions and named states distinguished from the Illinois site",
+    "No 50 percent production estimate appears in the release; published-recitation status retained",
+    "Up-to qualifier, production measure, United States denominator, and absence of site-specific attribution retained",
+    "Agency findings distinguished from new judicial findings",
+    "Northeastern Illinois colony ranking preserved",
+    "Protected-bird descriptions do not become individual status findings for all observed species",
+    "Jurisdiction separated from abandoned permit-merits challenge",
+    "Original-report unavailability treated neither as default nor automatic failure of proof",
+    "No vote modeled; no existing frozen input changed",
+    "All listed input hashes unchanged after writing addition"
+  ],
+  "output": {
+    "path": "terms/OT2000/freeze/OT_2000CHUNK2_SWANCC_NEUTRAL_ADDITION.md",
+    "sha256": "1d75663930f6ef214f7e2f65f875ffc079a41792d44afa93a3c60e45c2121a8d"
+  },
+  "original_report": "Not independently retrieved or read; exact category definitions and record placement not invented",
+  "new_authority": "No Holland holding added; identified citation only",
+  "other_matters": "No change"
+}

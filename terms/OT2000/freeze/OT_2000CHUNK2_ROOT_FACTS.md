@@ -1,0 +1,33 @@
+# OT2000 chunk 2 — additional objective source facts
+
+This is a sanitized control extraction for fresh neutral validation. It states source-supported facts and scope, not the Supreme Court's historical disposition, reasoning or alignment.
+
+## Gitlitz
+
+The official report's factual account identifies the 1991 discharge as $2,021,296, corporate insolvency as $2,181,748, and each shareholder's half share and losses as $1,010,648. The dispute concerns income characterization and the statutory sequence; the figures are reported facts, not a newly calculated award. The statutory version governing those returns controls. Source: [official report](https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-206.pdf), factual narrative at 209–211; saved source `sources/chunk2-control/Gitlitz.txt`.
+
+The operative provisions include §108(d)(7)(A)'s direction to apply subsections (a), (b), (c) and (g) at the corporate level, and §108(d)(7)(B)'s treatment of shareholder losses disallowed under §1366(d)(1) for the discharge year as a net operating loss for attribute reduction. These perform different work from §108(b)(4)(A)'s direction concerning reduction after determination of the discharge-year tax. Section 1366(a)(1)(A) includes items of income, including tax-exempt income, whose separate treatment could affect shareholder tax liability. Section 1366(d) limits current losses to basis and carries disallowed losses forward. Nothing in this extraction resolves the competing interpretations of these provisions.
+
+## Solid Waste Agency
+
+The Corps asserted jurisdiction under part (b) of its 1986 explanatory statement, concerning habitat for migratory birds crossing state lines. The ponds were not wetlands under the Corps' vegetation definition. The statement appeared in a preamble without notice and comment. This describes its promulgation; it does not establish preservation of an administrative-procedure challenge. The underlying regulation was 33 CFR §328.3(a)(3), concerning specified intrastate waters whose use, degradation or destruction could affect interstate or foreign commerce. Sources: [official report](https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-159.pdf), factual narrative at 163–166 and note 1; 51 Fed. Reg. 41217; saved source `sources/chunk2-control/SWANCC.txt`.
+
+The agency's site determination identified approximately 121 bird species and the habitat use of the ponds. The denial identified alternative-disposal, drinking-water-risk and habitat-mitigation concerns. Those are agency findings and reasons, not independent findings by this Court. SWANCC obtained the described state and local approvals by 1993. It challenged both jurisdiction and the permit denial, then abandoned the separate permit-merits challenge after summary judgment on jurisdiction. A jurisdictional disposition therefore cannot revive that abandoned challenge or itself issue a landfill permit. It leaves independently applicable law intact.
+
+## McArthur
+
+The underlying incident occurred April 2, 1997. The wife emerged after collecting belongings and reported that she had seen McArthur slide drugs under the couch. Officers initially remained outside. McArthur declined a requested search. An officer and the wife departed to obtain a warrant; another officer prevented unaccompanied reentry, while permitting two or three entries for cigarettes and telephone use with observation from just inside the doorway. The warrant was obtained around 5 p.m., following arrival around 3:15 p.m. These are reported record facts; whether they establish a sufficient destruction risk remains a legal question. Source: [official report](https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-326.pdf), factual narrative at 328–330; saved source `sources/chunk2-control/McArthur.txt`.
+
+The Illinois appellate opinion and opposition brief treated probable cause as uncontested. The charges were possession of less than 2.5 grams of marijuana and drug paraphernalia, punishable respectively by up to thirty days and one year in jail. Their misdemeanor classification does not make them nonjailable. Consent to observational entries is reported but supplies no consent to the later evidentiary search or general surrender of the residential claim. The question concerns this temporary restraint, not automatic authorization for entry and search. Sources: official report at 334–336, reporting 304 Ill. App. 3d 395, 397, 713 N.E.2d 93, 95 and the pertinent Illinois provisions.
+
+## Seling
+
+Young filed his federal habeas application in 1994. The Ninth Circuit's 1999 judgment left adverse due-process, equal-protection and commitment-procedure determinations undisturbed. Young did not petition for review of those portions. The pending question concerns the remand on punishment-based grounds, not a new review of those separately rejected claims. Sources: [official report](https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-250.pdf), account of proceedings at 258–260; saved source `sources/chunk2-control/Seling.txt`.
+
+The allegations concern excessive security, room confinement and searches, abuse, prison-system involvement, treatment staffing and therapy practices, and the practical availability of release. They are allegations, supported in part by identified reports, rather than adjudicated findings that the commitment constitutes punishment. The separate Turay conditions case produced a 1994 verdict and injunction requiring improvements in care and treatment. A 2000 published district-court opinion reported some progress. Neither the injunction nor that progress resolves Young's distinct custody claim or proves full compliance.
+
+The Washington provisions describe annual examination, a state-authorized release petition when the person's condition has changed sufficiently, an independently initiated petition and show-cause process, and conditional release to a less restrictive alternative subject to specified treatment, housing, security and compliance findings. Their existence is not a finding that they operated adequately for Young. Existing state judgments treating the statute as civil remain lower-court determinations; they cannot establish a binding federal characterization contrary to the actual entering law. The historical account's characterization of this Court's prior Hendricks action is excluded from this factual extraction.
+
+## Argument dates
+
+Official captions support October 2, 2000 for Gitlitz; October 31, 2000 for Solid Waste Agency and Seling; November 1, 2000 for McArthur. These dates establish argument milestones only. They do not admit a historical Supreme Court disposition.

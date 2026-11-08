@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tri-County-JA",
+    "url": "https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2005.%20Joint%20Appendix.pdf",
+    "source_sha256": "38ae862b34ee9f863106b6885c5ee7a0e8cae8a3e8599540d910fe1f78428305",
+    "text_sha256": "9eb80bdeb4a8a42601e0d467983d1ff489bdce3da3f51a5528bd2fc65ecf641a",
+    "pages": 82,
+    "characters": 200877
+  },
+  {
+    "name": "Tri-County-petitioners-merits",
+    "url": "https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2006.%20Petitioners%20Brief.pdf",
+    "source_sha256": "ab2205aad0d049dca78402c52377be7f2c20353f43a4dc9f4b3fa71e0e9e92ef",
+    "text_sha256": "af62c6297fd8c99e8ad8d8252351d65d012fe03acf4fe49e3c25eccaf121d360",
+    "pages": 31,
+    "characters": 99449
+  },
+  {
+    "name": "Tri-County-respondents-merits",
+    "url": "https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2007.%20Respondents%20Brief.pdf",
+    "source_sha256": "b478f76939e0659a828c2cccbe3e7199babff5d23fe7e77bdb02e319c80ef363",
+    "text_sha256": "ab8e5c1d78e5be3c2b9b461d4506bde8f4edb2b4865ef25ac0a870f6834dd5b2",
+    "pages": 27,
+    "characters": 97192
+  }
+]

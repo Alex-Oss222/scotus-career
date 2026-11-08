@@ -1,0 +1,218 @@
+{
+  "scope": "Independent non-Stone modeling: Tri County, Brentwood, CoBank, McArthur only",
+  "mode": "isolated-context",
+  "source_scope": "Only authorized neutral/source-only materials and bounded prior public writings; the three earlier output files were read only through their named case entries.",
+  "preservation": "File freeze only under user command restriction; no repository commitment command used.",
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 34310,
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "bytes": 91525,
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/workspace/neutral-projection.md",
+      "bytes": 104020,
+      "sha256": "913e67a2f0014732e1c2321bc4d6b9ae8fd4e039750a9368ba06d2e4127ccf28"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_tricounty.md",
+      "bytes": 9155,
+      "sha256": "4eacf1aa84495dad4693ad4cea1628e82b2faa88a62597cb115cf42593783b6d"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_tricounty.md",
+      "bytes": 22669,
+      "sha256": "93740ef119937cffab64529b94e0f9ce611977a2c1ee14f7598eb0e56dada5cd"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_brentwood.md",
+      "bytes": 8098,
+      "sha256": "3ca8e0e3b2b171caa552c8da4603cd67d674a36ec4afa9a7a7a19e3ba7493d6a"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_brentwood.md",
+      "bytes": 34310,
+      "sha256": "5eb23434f9bd5449902fb4f50c1aa9d6a25a80da586b106069c2121a119a050f"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_cobank.md",
+      "bytes": 6269,
+      "sha256": "758b4c2740cb0c3c1f592e254a9cc47a8e5174bf5ce71ea331c6632a29dc4c8e"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank.md",
+      "bytes": 19762,
+      "sha256": "bbed1733e84beee86e6bfb35fe938343e5d154085b8b394a4779a0b626a46b07"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_mcarthur.md",
+      "bytes": 6502,
+      "sha256": "ca5be9bfe75badf6f39340b6fc03405ac5b2adba708abeade3e80b0388513a0d"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_mcarthur.md",
+      "bytes": 30732,
+      "sha256": "233499c25fe663c6386642c01283ee9022afc7919f9f88f4e5dc60bdfd844c88"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_SUPPLEMENT.md",
+      "bytes": 21047,
+      "sha256": "5865704723069106ffda2c324380fd600994824539f1c2a8d198d19e603998ba"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_VALIDATION.md",
+      "bytes": 12563,
+      "sha256": "159a06838d2ec39950c91cc4ea1d32e75ba10c99360caea469c7ff286963f52e"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_CONTROL_FACTS.md",
+      "bytes": 15856,
+      "sha256": "2b2ddf419d9648131067f5981a896a26f56db164a990b344550bf43b979d2c53"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ROOT_FACTS.md",
+      "bytes": 6709,
+      "sha256": "7107f65e0914f792d81bbfc936d61f6c77d8375cd13c5824bb13ecf7d9ff902a"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_TRI_COUNTY_CONTROL_FACTS.md",
+      "bytes": 13958,
+      "sha256": "c7a83b25c481d90f21d13d2bd212f6cda25464a7f120253a4985f776d629b0c6"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_LATER_PUBLIC_POSITIONS.md",
+      "bytes": 48263,
+      "sha256": "6d03673923d5b7d72499d3733f360f61d4497703e4454290b4d26c3139178850"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_LATER_PUBLIC_POSITIONS_SELECTION.json",
+      "bytes": 859,
+      "sha256": "26d7fd3ee3dd3f3822ecf492b656075f8c0754496aa79580bd9cd33bc4eeb89e"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_cobank_statutes.md",
+      "bytes": 9306,
+      "sha256": "267bbfa7e79036b0ae6366e82ee6d3a41e0e6d213d22de39e38601a00b997c83"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_LATER_SOURCE_SELECTION.json",
+      "bytes": 3548,
+      "sha256": "dd740a70a78e3817a403c0a153fd71d8a6b5a132b2d33a437f93ec8daac2e350"
+    },
+    {
+      "path": "terms/OT1995/output/OT_1995CHUNK9.md",
+      "bytes": 200628,
+      "sha256": "d6d22a1b3a8d983591d1b6f39eb79c12d7e69a1f6cf82a0782d0501073e9e4c6"
+    },
+    {
+      "path": "terms/OT1994/output/OT_1994CHUNK2.md",
+      "bytes": 199830,
+      "sha256": "3425ff734f5f90412abd33cc16dcf430daa0cf8d2a384b47cb13ef1ed68c4e24"
+    },
+    {
+      "path": "terms/OT1998/output/OT_1998CHUNK5.md",
+      "bytes": 148374,
+      "sha256": "5cf2aa9039bd8d017043ea2dd71b88295ca7d420ba90f9902f33e71a160d8704"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1971.txt",
+      "bytes": 166793,
+      "sha256": "68b50e5ecd855506401ce5ce0fd4a57f2ff3826f0d986622d023397772ab44dd"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1985.txt",
+      "bytes": 119911,
+      "sha256": "f19c2f9f4ae48e982a7108ee2c08a3c711a043d1356f828257980164b5c3e084"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1988.txt",
+      "bytes": 467706,
+      "sha256": "553e3a2da51f2b534ed5f19844f06b5c5adb51b0274bf55c609bb2218075195a"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2023_code.txt",
+      "bytes": 6681,
+      "sha256": "11db3d00c8b2f83f84d87a72a5a925cf212a8b73a642e001eaf5a3b3a5bc702b"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2098_code.txt",
+      "bytes": 3530,
+      "sha256": "6ec18545b14aa7515e80acdb41dc6f2c8080f502bcf283dd25dad14bdcc41366"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_2134_code.txt",
+      "bytes": 3077,
+      "sha256": "a18c0252812e72b6fe7897d5a302a3a90afa13868e251684abe4bbc0c27d6671"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/First_Agricultural_1968.txt",
+      "bytes": 48783,
+      "sha256": "62ce50283bc1ce125da40c163cb45a74c255657cbb92bda0426ba981d9a22e59"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/Segura_1984.txt",
+      "bytes": 102025,
+      "sha256": "5f9c716ea104a7874e1fff30c5647d3fa14fac3c4f7cf5c92339d0014a1ca930"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/Tarkanian_1988.txt",
+      "bytes": 57228,
+      "sha256": "9d22795cd293f81fd1220185b0caf234ccf01ee6d0ae7e298448a5f216a66b69"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/Welsh_1984.txt",
+      "bytes": 54767,
+      "sha256": "132919fdc1a052a350c0a9bdc25787e881b651dee9fb4460c17bffc948bd12f9"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1971.pdf",
+      "bytes": 8582330,
+      "sha256": "9ae6b865e65a56ac0a4d8393e6906c53eb2913f7c2ad5f0bf8cef3ba0313c6fe"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1985.pdf",
+      "bytes": 6497418,
+      "sha256": "d4df358909bda5beb9603f9c1873b42fdb4c50c937ed67728900e1de78026c5e"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-later-model/CoBank_1988.pdf",
+      "bytes": 24511095,
+      "sha256": "c5f1f79e0cb1d15c58cd04dc74d1f8c9987015f85a4991c8bfabcb5f55eddbcc"
+    }
+  ],
+  "output": {
+    "path": "terms/OT2000/runtime/OT_2000CHUNK2_COMMITMENTS_LATER.md",
+    "bytes": 44532,
+    "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+  },
+  "freeze": {
+    "path": "terms/OT2000/freeze/OT_2000CHUNK2_COMMITMENTS_LATER.md",
+    "bytes": 44532,
+    "sha256": "904fca909f581bd6ee3a7ada9e7623fac444ddace47b4d05f2c411084d42355c"
+  },
+  "byte_identity": true,
+  "justice_rows_per_case": {
+    "Stevens": 4,
+    "O'Connor": 4,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "excluded_material_received": false,
+  "new_current_chunk_law_used": false,
+  "cutoffs": {
+    "tricounty": "2001-01-17",
+    "brentwood": "2001-02-20",
+    "cobank": "2001-02-20",
+    "mcarthur": "2001-02-20"
+  },
+  "source_limits": "Statutory OCR artifacts retained in exact copies; only dated pre-event enactments used. No claim of reading withheld current-matter opinions or complete unprovided appellate submissions."
+}

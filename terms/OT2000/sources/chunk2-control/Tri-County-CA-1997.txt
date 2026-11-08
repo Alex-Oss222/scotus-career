@@ -1,0 +1,246 @@
+TRI COUNTY INDUSTRIES, INC., a Maryland corporation, Appellant, v. DISTRICT OF COLUMBIA, a municipal corporation, et al., Appellees.
+No. 96-7022.
+United States Court of Appeals, District of Columbia Circuit.
+Argued Oct. 10, 1996.
+Decided Jan. 14, 1997.
+*456
+Frank J. Emig, Greenbelt, MD, argued the cause and filed the briefs, for appellant.
+Martin B. White, Assistant Corporation Counsel, argued the cause, for appellees. Charles F.C. Ruff, Corporation Counsel, Charles L. Reisehel, Deputy Corporation Counsel, and Lutz Alexander Prager, Assistant Deputy Corporation Counsel, Washington, DC, were on the brief with him.
+Before: EDWARDS, Chief Judge, WILLIAMS and SENTELLE, Circuit Judges.
+Opinion for the Court filed by Circuit Judge WILLIAMS.
+STEPHEN F. WILLIAMS, Circuit Judge:
+On September 20, 1993 the acting director of the District of Columbia Department of Consumer and Regulatory Affairs (“DCRA”), Hampton Cross, summarily and without a hearing suspended a building permit issued to Tri County Industries, Inc. Tri County contends that the suspension deprived it of its property without due process of law, in violation of the Fifth Amendment. Although we reject its “substantive due process” claim,
+*457
+we agree that the suspension violated Tri County’s procedural rights.
+Tri County is in the business of decontaminating soil tainted with oil and other hazardous materials. In July 1992 it applied to the District of Columbia government for a building permit to convert an empty warehouse in Washington, D.C. into a facility for its decontamination work. In pursuing the application, it sought and obtained both an air quality permit and a waiver of the requirement that it file an environmental impact statement. Both were prerequisites to the issuance of Tri County’s building permit. See District of Columbia Municipal Regulations §§ 20-200.1, 20-7200.1.
+On February 26, 1993 the DCRA issued the building permit. Its licensing in place, Tri County completed some work renovating the facility, but nearly six months later was not yet ready to begin operations, primarily because of delays in the delivery of the decontaminating equipment. On September 7 it was issued a citation for storing soil at the facility without the required certificate of occupancy.
+In the meantime, public opposition to the project had grown. On September 20, 1993 D.C. officials held a public meeting, attended by residents of the nearby community, representatives of Tri County, Hampton Cross of the DCRA, and one Merrick Malone, a representative of D.C.’s Department of Housing and Community Development. The meeting was by all accounts a loud and sometimes unruly affair. In the course of it Malone stated, incorrectly as it later turned out, that a new public housing project was to be built immediately adjacent to the facility. Cross thereupon stated that he was suspending Tri County’s building permit, to the applause of the crowd. According to his later testimony, he acted on the basis of Malone’s statement. This suspension, Tri County contends, also suspended its air quality permit.
+Two days later, on September 22, Tri County was issued a stop work order for continuing operations without a certificate of occupancy in violation of the September 7 citation. Tri County took no action to challenge either the September 20 suspension, which all parties now agree had no legal basis at all, or the stop work order, which is not challenged here and which all agree was a legally sufficient bar to Tri County’s continuing work on the facility. See District of Columbia Municipal Regulations § 12-118.0.
+More trouble followed. On October 15, 1993, Tri County was sent a letter by an official working for Cross requesting additional information on the environmental effects of the project. This request was also of dubious legal authority. Although it cited authorization from § 4(c)(3)(C) of the District’s Environmental Policy Act (D.C.Code § 6-983(c)(3)(C)), the review process referenced in that section presumably had ended when the waiver was granted. In any case, Tri County had already answered many of the same questions as part of that original review process. Tri County did not respond. On December 6, Cross sent another letter, again without clear basis in the D.C.Code, rescinding the environmental waiver and stating that the District would soon start proceedings to revoke the building permit. In fact it appears that the District never did start the revocation proceedings. (In all probability the permit would have expired by now as a result of the permittee’s abandonment of the authorized work. See District of Columbia Municipal Regulations § 12-112.8.) Tri County did nothing in response to this last missive except to remove the soil that had been the basis of the September 7 citation.
+One year to the day after the fateful public meeting, Tri County filed suit in féderal court under
+42 U.S.C. § 1983
+, alleging deprivation of its property without procedural or substantive due process. It identifies as deprivations not only the suspension of its building permit on September 20, 1993 but also the implied simultaneous suspension of its air quality permit on the same date and the explicit rescission of its environmental waiver on December 6,1993.
+The district court granted the District’s motion for summary judgment. It rejected the substantive due process claim on the ground that Cross’s actions were at most
+*458
+negligent and the procedural due process claim on the ground that the budding permit suspension was only an “interim suspension” for which Cross had “sufficient factual basis” and for which prompt review was available, citing
+Barry v. Barchi,
+443 U.S. 55
+, 64,
+99 S.Ct. 2642
+, 2649,
+61 L.Ed.2d 365
+(1979). See
+Tri-County Industries, Inc. v. District of Columbia,
+932 F.Supp. 4
+, 6, 7 (D.D.C.1996). We review de novo. See
+Diamond v. Atwood,
+43 F.3d 1538
+, 1540 (D.C.Cir.1995).
+We first dispose of Tri County’s claim that the implied suspension of the air quality permit on September 20, and the explicit rescission the environmental waiver on December 6, were deprivations that require our review. As to the air quality permit, the only ground for regarding it as suspended at all is the idea that it was joined at the hip with the building permit, so that the suspension of the budding permit equady suspended the air quality permit. That may wed be true: the letter issuing the permit says that it wid not become vadd (as authorization for a stationary source of air podution) untd a valid budding permit is received by the issuing office. See letter of December 11,1992 to Tri County from the Environmental Regulation Administration of the DCRA. But it would seem to fodow that reactivation of the budding permit would reactivate the air quadty permit. Accordingly, it is hard to see how the latter’s suspension adds anything to that of the budding permit.
+Of course the air quadty suspension might generate an additional issue
+if
+the District defended the suspension (if indeed there was a suspension) as an appdcation of procedures expdcitly laid out for suspension of air quadty permits; in that event we would be caded on to review the constitutionadty of the specified procedures. But the District makes no such claim. Rather, as we discuss in detad below, since the suspension of both permits did not fit any
+authorized
+procedure, we evaluate Cross’s act, for procedural due process purposes, by inferring a hypothetical procedure from his actual conduct. That conduct was, of course, identical for both permits. Accordingly, the air quadty permit seems to add nothing to the case that is not encompassed in analysis of the budding permit.
+Tri County’s attack on the rescission of the environmental waiver fads for a different reason. Whde the air quadty permit is legady stated as a prerequisite to construction and operation of a major stationary source (apart from the need for a budding permit), the waiver is merely a step towards the acquisition of the budding permit. District law requires that the enviromhental impact of a “major action” be evaluated “before an agency shad approve any major action, or issue any lease, permit, dcense, certificate, or other entitlement” approving the action. See District of Columbia Municipal Regulations § 20-7200.1. The waiver was simply an administrative finding that no more was required by way of satisfying that requirement for issuance of the budding permit. But the due process clauses (here, that of the 5th Amendment, see
+Bolling v. Sharpe,
+347 U.S. 497
+, 499,
+74 S.Ct. 693
+, 694,
+98 L.Ed. 884
+(1954)) protect persons only against deprivations of life, dberty or property. Whde satisfaction of each of the many steps toward issuance of a budding permit (conceded by the District to be a property right) is undoubtedly a useful mdestone, Tri County offers no authority for the proposition that an agency “deprives” an appdcant of “property” whenever it backtracks on a prior favorable finding on one of those steps, independently of withdrawal of the permit itself.
+* * *
+“Substantive” due process
+Tri County’s substantive due process claim is not crystal clear. In part the argument appears to be that the District’s conduct was a taking of its property, unconstitutional because it was without just compensation. Tri County says that the District’s “idegal and improper actions” inflicted “financial losses and delays” which in turn forced Tri County to abandon its plans and rendered the project “worthless.” See Amended Complaint at 22. As to this claim, the District’s ripeness defense is clearly sound. Under
+Williamson Cty. Regional Planning Comm’n v. Hamilton
+*459
+Bank,
+473 U.S. 172
+,
+105 S.Ct. 3108
+,
+87 L.Ed.2d 126
+(1985), a plaintiff advancing a claim for just compensation under the Taking Clause must have pursued its administrative remedies far enough to establish conclusively the effect of the regulations; only then can the court determine whether the impact has been draconian enough to make out a taking without just compensation.
+Id.
+at 186-97
+,
+105 S.Ct. at 3116-22
+. As Cross’s ukase of September 20, 1993 purported only to
+suspend
+Tri County’s permit, and Tri County sought no relief, it cannot be said to have met this requirement.
+1
+Alternatively Tri County appears to be invoking the more nebulous branch of substantive due process, which in our circuit requires the plaintiff to show “grave unfairness” by state (or District) officials. See
+Silverman v. Barry,
+845 F.2d 1072
+, 1080 (D.C.Cir.1988). There is some authority under which the very closeness of this claim to the taking argument might be a ground for rejecting it. “Where a particular Amendment ‘provides an explicit textual source of constitutional protection’ against a particular sort of government behavior, ‘that Amendment, not the more generalized notion of “substantive due process” must be the guide for analyzing’ these claims.”
+Albright v. Oliver,
+510 U.S. 266
+, 273,
+114 S.Ct. 807
+, 813,
+127 L.Ed.2d 114
+(1994) (quoting
+Graham v. Connor,
+490 U.S. 386
+, 395,
+109 S.Ct. 1865
+, 1871,
+104 L.Ed.2d 443
+(1989)) (plurality opinion of Rehnquist, C.J.). But in this circuit at least, under
+Silverman,
+the requirements of the takings clause cannot be said to exhaust the Fifth Amendment’s substantive protection of property rights from government imposition. See also
+Albright,
+510 U.S. at 286-87
+,
+114 S.Ct. at 819-20
+(Souter, J., concurring) (noting that the Court has rejected the proposition that “the Constitution’s application to a general subject (like prosecution) is necessarily exhausted by protection under particular textual guarantees addressing specific events within that subject (like search and seizure)”). We thus turn to the District’s ripeness defense to the
+Silverman
+claim.
+We identified in
+Silverman
+two ways in which a plaintiff might show the “grave unfairness” that it requires. “Only [1] a substantial infringement of state law prompted by personal or group animus, or [2] a deliberate flouting of the law that trammels significant personal or property rights, qualifies for relief ...”
+845 F.2d at 1080
+. A mere state law violation does not give rise to a substantive due process violation, although “the manner in which the violation occurs as well as its consequences are crucial factors to be considered.”
+Committee of U.S. Citizens Living in Nicaragua v. Reagan,
+859 F.2d 929
+, 944 (D.C.Cir.1988).
+Thus, both types of “substantive” due process under
+Silverman
+have a substantiality requirement built in — unlike procedural due process, under which there may be recovery even for nominal damages. See
+Carey v. Piphus,
+435 U.S. 247
+, 266-67,
+98 S.Ct. 1042
+, 1053-54,
+55 L.Ed.2d 252
+(1978). This requirement is obvious enough in the first formulation — “a substantial infringement_” And we think it implicit in the second as well. Theoretically, the reference to “trammel[ling] significant personal or property rights” might embrace trivial trammelling of an important property right, but we think our clear intent in
+Silverman
+was to confine the concept of substantive due process, itself oxy-moronic, see
+Gosnell v. City of Troy,
+59 F.3d 654
+, 656 (7th Cir.1995), to actions that in their totality are genuinely drastic. Although
+Williamson
+addressed only taking claims, its logic appears to us ordinarily to apply to Silvermamesque invocations of the due process clause: unless the victim of government imposition has pushed its local remedies to the hilt, it ordinarily will not be able to show the necessary substantiality. Given that on its face the order of September 20 was only a suspension, and that Tri County failed to pursue its apparent remedy under
+*460
+District of Columbia Municipal Regulations § 12-123.0 (allowing appeal of agency action within a department and then to Board of Appeals and Review), the claim must fail either for want of ripeness or on the merits.
+We thus affirm the district court’s dismissal of the substantive due process claim.
+Procedural due process
+We turn next to the procedural due process claim. Section 1983 explicitly treats the District of Columbia as a state, and there is no doubt that Hampton Cross acted “under color” of District law when he suspended Tri County’s building permit. As noted above, the District concedes that the permit was a property right.
+The district judge believed that Cross’s act did not violate the due process cause because it was a mere “interim suspension,” for which Cross had a “sufficient factual basis” and for which prompt review was available.
+Tri-County Industries,
+932 F.Supp. at 7
+. We disagree on the adequacy of Cross’s grounds, but, more pertinently, the central issue is the adequacy not of his facts but of the
+process
+that he purported to follow.
+The District acknowledges that the D.C.Code makes no provision at all for oral orders of suspension. So far as suspension itself is concerned, it points to District of Columbia Municipal Regulations § 12-118.1, which allows stop work orders in the event that work on a structure is being performed contrary to code or “in an unsafe and dangerous manner.” Assuming that Cross’s act could be equated with a stop work order (such as was issued two days later), the District’s classification here would still not be pertinent. Cross never claimed to have issued his pronouncement because of defects in the manner of Tri County’s construction— and the sequence of events at the public meeting would have undercut any such claim. Rather, Cross candidly rested his suspension on Malone’s statement that a public housing project would be built adjacent to Tri County’s site. The District does not even suggest to us that there was some procedure for summary suspension based on word of such a prospect.
+Given this total deficiency, one might expect the District to defend the due process claim on the theory that Cross’s act was “random and unauthorized.” See
+Parratt v. Taylor,
+451 U.S. 527
+, 541,
+101 S.Ct. 1908
+, 1916,
+68 L.Ed.2d 420
+(1981). Because the losses from such an act are not the result of any state procedure, and because the state cannot predict when such losses will occur, such acts are not violations of the due process clause so long as there is an adequate post-deprivation remedy.
+Id.
+at 541-42
+,
+101 S.Ct. at 1916
+; see also
+Doe v. District of Columbia,
+93 F.3d 861
+, 868-69 (D.C.Cir.1996).
+In this case, however, the District has not only failed to argue
+Parratt
+but has explicitly thrown the point away, “assum[ing], for purposes of this appeal, that the doctrine of
+Parratt
+... does not apply to actions by the Director of a government agency acting within the general scope of his authority.” In fact, there is a circuit split on this issue. Compare
+Easter House v. Felder,
+910 F.2d 1387
+, 1400 (7th Cir.1990) (en banc)
+(Parratt
+does apply to actions of high officials);
+id.
+at 1408-10
+(Easterbrook, J., concurring), with
+Piatt v. MacDougall,
+773 F.2d 1032
+, 1036 (9th Cir.1985) (en banc)
+(Parratt
+does not apply). It being inappropriate for us to resolve this sharply contested issue in a case where the parties appear to resolutely agree, we do not take that approach.
+Evaluation of the adequacy of pre-deprivation procedures is governed by the balancing test stated in
+Mathews v. Eldridge,
+424 U.S. 319
+, 335,
+96 S.Ct. 893
+, 903,
+47 L.Ed.2d 18
+(1976). The first step, of course, is to identify the procedure, a matter normally accomplished by looking at state (or District) law. In the case of a random and unauthorized act, however, there is, by definition, no explicitly articulated procedure. Accordingly, the procedure must be reverse engineered from the official’s act — how might a procedure authorizing such an act have been stated? (An advantage of the view that
+Parratt
+applies even to the acts of high officials is that it renders this construction project unnecessary.)
+Here Cross acted on the basis of an assertion by another government official,
+*461
+made at a public meeting attended by the representatives of the permit holder, that at some time in the indefinite future there would be a greater population than had formerly been expected near the site; thus more people were likely to be affected by whatever air pollution the project would emit once it was constructed and operational. He had no formal evidence before him suggesting that the calculations on which his own agency had relied in issuing both the environmental waiver and the air quality permit were unsound, with or without regard to the new (mis)information about the supposed increase in the population affected. Even summarizing this “procedure” most favorably to the District, it appears to permit indefinite suspension of a building permit on the basis of information about greater adverse impacts than projected at the time the permit was issued, expected to occur several years in the future, without any factual basis for believing that the information, if true, would justify revocation of the permit.
+But to call the suspension “indefinite” requires another step — consideration of the speed of any post-deprivation hearing and possible correction. See
+Barry v. Barchi,
+443 U.S. at 61,
+66
+,
+99 S.Ct. at 2647, 2650
+(suspension of horse trainer’s license without pre-deprivation hearing unconstitutional because neither rule nor practice applied to trainer assured timely post-deprivation hearing);
+Cokinos v. District of Columbia,
+728 F.2d 502
+, 503 (D.C.Cir.1983) (car towing without pre-deprivation hearing valid in light of assurance of prompt post-deprivation hearing).
+The District appears to provide two ways to appeal a suspension by the Director. The first is District of Columbia Municipal Regulations § 12-112.13, but the subsection entitling a permit holder to an “expedited hearing” is available only for a permit
+revocation
+under § 12-112.9.3. Alternatively, Tri County could have sought to have the Director himself review his illegal act under District of Columbia Municipal Regulations § 12-123.1.2, which requires that an official within the DCRA review actions against a permit holder within three days and that the Director review any decision by that official within another three days. Given that the reviewing official under both provisions would have been Cross himself, and that the rules appear to specify no minimum procedural entitlement for the aggrieved permit holder, these procedures do not advance the ball. Finally, however, Tri County could have appealed to the,Board of Appeals and Review, which may provide a “hearing.” See
+id.
+§§ 123.2, 123.3. Pending ultimate decision, the Board could have issued a stay of the Director’s order, but there appears to be no assurance that any such stay would be issued promptly. See
+id.
+§ 5-503.5-12. In short, then, there is provision for correction of the sort of suspension issued by Cross, but uncertainty .as to its likely speed.
+We evaluate these procedures under the tripartite test of
+Mathews v. Eldridge:
+First, the private interest that will be affected by the official action; second, the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and finally, the Government’s interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail.
+424 U.S. at 335
+,
+96 S.Ct. at 903
+.
+The property interest here — the entitlement to continue construction without unfair interference — is substantial; any interruption of construction is likely to be very costly. It might be claimed in favor of the District that the holder of a permit would not want to pour money into a project during the course of more thorough procedures, if revocation were at all likely. But that is a calculation that the permit-holder would want to make for itself, balancing the costs of interruption against the costs of spending that may prove fruitless. While the harm is mitigated by assurance of higher-level review, the absence of time limits leaves the degree of mitigation in doubt.
+The risk of erroneous deprivation is high. It is in principle reduced by the official character of Cross’s informant (Malone was speaking of matters in his agency’s jurisdiction) and by the presence of Tri County’s
+*462
+representatives. Even so, the gaps were substantial. Cross’s own department had conducted an elaborate review of the air quality impacts of Tri County’s project. Assuming the full truth of Malone’s statement about the housing project, Cross so far as appears pursued no procedure at all to assess whether the alleged change in circumstances materially undermined his agency’s prior finding. Thus, although the “procedure” applied was not formally ex parte, it was a classic case of shooting from the hip on complex technical matters. It is a safe understatement to say that modest improvements in procedure — even rudimentary ones for testing the relationship between the new claims and the previously established facts— had a high probability of reducing the risk of error.
+Finally, the government interest in swift action was negligible. Assuming the unbuilt housing project was ever to be built, or that the air pollution from Tri County might affect its residents materially, there was no gain whatever in halting construction a few days sooner than, could have occurred if Cross had afforded Tri County an opportunity for testing his assumptions. Cross’s “procedure” thus deprived Tri County of property without due process of law.
+This conclusion is not affected by the uncertainties arising from Tri County’s failure to contest either Cross’s suspension or the stop work order. A violation of procedural due process may occur even if the damages are only nominal, see
+Carey v. Piphus,
+435 U.S. at 266-67
+,
+98 S.Ct. at 1053-54
+, and one pursuing a procedural due process claim need not exhaust his local remedies, see
+Patsy v. Board of Regents,
+457 U.S. 496
+, 516,
+102 S.Ct. 2557
+, 2568,
+73 L.Ed.2d 172
+(1982). In calculating any damages, however, both the possibility of relief from the District’s Board of Appeals and Review, as well as the possible mooting effect of the stop work order, may be pertinent.
+Thus, finding Tri County’s procedural due process rights violated by Cross’s suspension of the building permit, we vacate the judgment and remand the case to the district court to consider the extent of Tri County’s damages.
+So ordered.
+1
+. Insofar as a suit for damages for a regulation that "goes too far” to be a permissible exercise of the police power is analytically distinguishable from a suit for failure to supply just compensation, see
+Williamson,
+473 U.S. at 197
+,
+105 S.Ct. at 3122
+, a failure to establish the impact of the suspension is similarly fatal,
+id.
+at 198-200
+,
+105 S.Ct. at 3122-24
+. Finally, there is no claim for a "temporaiy taking.” See
+First English Evangelical Lutheran Church of Glendale v. Los Angeles,
+482 U.S. 304
+, 318,
+107 S.Ct. 2378
+, 2387-88,
+96 L.Ed.2d 250
+(1987).

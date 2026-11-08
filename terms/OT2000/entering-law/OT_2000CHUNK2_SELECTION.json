@@ -1,0 +1,334 @@
+{
+  "tool": "tools/build_entering_law.py",
+  "standards": [
+    "Presented questions, subsidiary arguments and exceptional Supreme Court review",
+    "Equitable vacatur after settlement moots review",
+    "State compensation limits within federal new-trial review",
+    "Exhaustion and merits denial under amended §2254",
+    "State-court merits decisions and factual development under amended §2254",
+    "Continuing individual controversy and legally unavailable damages",
+    "Private federal instrumentalities and the state-tax forum bar",
+    "Article III power before disputed statutory merits",
+    "Temporal reach of ordinary AEDPA habeas amendments",
+    "Voluntary cessation and continuing controversy",
+    "Relevant precedent in appellate qualified-immunity review",
+    "Special federal corporations as governmental actors",
+    "Circumstantial proof of unconstitutional motive despite qualified immunity",
+    "Official dissemination of intimate marital and family information",
+    "Private payment choices and governmental attribution",
+    "Federal detention credit, initial computation and conditional release",
+    "Loss of a displaced substantive rule and counsel prejudice",
+    "Objective probable cause for an ordinary initial traffic stop",
+    "Exploratory tactile examination of closed personal luggage",
+    "Mitigation investigation and prejudice in capital sentencing",
+    "Punitive purpose or effect in nominally civil commitment",
+    "Prospective restrictions on employees’ citizen expression",
+    "Common substantial-justification standard for governmental racial classifications",
+    "Commerce connection, mechanism, and class-wide effects",
+    "Discretionary waiver of entry-related immigration fraud",
+    "Public-employee speech and the employer’s mistaken factual account",
+    "Assigned school productions and teachers’ personal speech",
+    "Persuasive weight of a nonbinding agency advisory interpretation"
+  ],
+  "standing": [
+    "1. Current Court"
+  ],
+  "bounded_copies": [
+    {
+      "source": "state/holdings/administrative-law.md",
+      "heading": "Christensen v. Harris County, 529 U.S. 576 (2000)",
+      "start": 1725,
+      "end": 1760,
+      "sha256": "61bdb22fa1859175930f9fa15475b1b0cd957add59415f2402e599e85123b83d"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Elder v. Holloway, 510 U.S. 510",
+      "start": 1922,
+      "end": 1947,
+      "sha256": "01110d15afc4da33a8209647cabf0e124219fcad589874f69dbd323d0e3a08c9"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Adarand Constructors, Inc. v. Peña",
+      "start": 2335,
+      "end": 2381,
+      "sha256": "d1c297a8920102c1d645ad4c7203198ccdb478460d4c01f38f58826e991331da"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Crawford-El v. Britton",
+      "start": 2411,
+      "end": 2456,
+      "sha256": "69d48719404646d59a46bf497a25c49d5837b227ba392e93bfb09bbe0928fa14"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Sheets v. Salt Lake County",
+      "start": 2791,
+      "end": 2821,
+      "sha256": "f762918b197cc2f4bda3413c332f3760c86ad0c37958b681654de9cae2cb3a12"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Doe v. Southeastern Pennsylvania Transportation Authority",
+      "start": 3538,
+      "end": 3554,
+      "sha256": "adf5c696fba32cbfb9fbb15c52b939b0a333bf849cffbf799b18fa1639649cc7"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "American Manufacturers Mutual Insurance Co. v. Sullivan",
+      "start": 4878,
+      "end": 4917,
+      "sha256": "6ccb32517dc31e64dca81fd30215dcdb318009329c5bc614ea5b566e9295dc85"
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Eisenberg v. Montgomery County Public Schools",
+      "start": 6249,
+      "end": 6289,
+      "sha256": "eb8d35fdac4ae8bb4f1bb942413207c4373a20fd536814d12538e339201cb206"
+    },
+    {
+      "source": "state/holdings/constitutional-structure.md",
+      "heading": "New York v. United States, 505 U.S. 144 (1992)",
+      "start": 97,
+      "end": 221,
+      "sha256": "b91b480b409e7a1491fcd2019d1db5fae127b6b04e4f485cc97dcb14b8ab441e"
+    },
+    {
+      "source": "state/holdings/constitutional-structure.md",
+      "heading": "United States v. Lopez",
+      "start": 1325,
+      "end": 1376,
+      "sha256": "47876c67dd3374db6aaf78f2ed696009c2d5b99b21a0d02ff86a10eb362b3679"
+    },
+    {
+      "source": "state/holdings/constitutional-structure.md",
+      "heading": "Printz v. United States; Mack v. United States",
+      "start": 2282,
+      "end": 2311,
+      "sha256": "23feb92abb15e8fd9c79139df9362bea15e9b877d40b08dc1d5ab3d8b7e776d7"
+    },
+    {
+      "source": "state/holdings/constitutional-structure.md",
+      "heading": "National Association of Home Builders v. Babbitt",
+      "start": 2568,
+      "end": 2625,
+      "sha256": "0531ea07e093bbf76b8f12c95bfc5824bf487025fca0320b2fc360db2724344b"
+    },
+    {
+      "source": "state/holdings/constitutional-structure.md",
+      "heading": "United States v. Morrison / Brzonkala v. Morrison, 529 U.S. 598 (2000)",
+      "start": 3171,
+      "end": 3214,
+      "sha256": "840d722358e904d660a609f84d69e7100869cef6a09765fbb816d8b5836f0a2c"
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Reno v. Koray",
+      "start": 563,
+      "end": 584,
+      "sha256": "74bf3d82d73034abab5d559ae3082fab4eb6f520ea97f32ad8efc01a7ba505f4"
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Lockhart v. Fretwell, 506 U.S. 364 (1993)",
+      "start": 1552,
+      "end": 1586,
+      "sha256": "ac3cd1729b1bfaa9e05e3190e7ce914ff7e9ed5c428ba6fdde5ab62fa1b4c4bb"
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Whren v. United States, 517 U.S. 806",
+      "start": 4830,
+      "end": 4860,
+      "sha256": "77d772850e8fc2707571ac469f53dc9d79f68a04c2f5b697fcaa4bef746f7e8e"
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Kansas v. Hendricks; Hendricks v. Kansas",
+      "start": 5483,
+      "end": 5512,
+      "sha256": "3dea0a5f25c9c97bc1763f46f8409258a9719c9af70259e028b001df4874e03f"
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Bond v. United States, 529 U.S. 334 (2000)",
+      "start": 8100,
+      "end": 8129,
+      "sha256": "4dfefbfee250efd201ef0dce39f05707d83da90a94f123526f983db76ee87562"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Lebron v. National Railroad Passenger Corp.",
+      "start": 4424,
+      "end": 4446,
+      "sha256": "c9e563c4e8278f73e970229ba8043c87de951f1e64bb36f8ba67beb1134927ac"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Lebron v. National Railroad Passenger Corp.",
+      "start": 4449,
+      "end": 4470,
+      "sha256": "ba915f5bc82d6fe71bbee796b3f1e169837c98a67f7fa0a4bb3142ac326d9f30"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Arkansas v. Farm Credit Services of Central Arkansas",
+      "start": 4764,
+      "end": 4790,
+      "sha256": "68d3a7df1e20dd22173519db40be2bf04c8bcde873059d1aaa11ed5d694b217d"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996)",
+      "start": 5704,
+      "end": 5744,
+      "sha256": "e447f84930deb0117746d731d9da17cdbbdd1388d473622c50c204ecf02d9973"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "INS v. Yueh-Shaio Yang",
+      "start": 6316,
+      "end": 6335,
+      "sha256": "df5a5edc8682710775d1f10ffd5648d036d7157532a6787ffbd3824bd049344b"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Arizonans for Official English v. Arizona",
+      "start": 6552,
+      "end": 6590,
+      "sha256": "c9bfa017d281668e3ca39a553f457a144b0ede5613028114dc0631c2bd5ea653"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Lindh v. Murphy",
+      "start": 7278,
+      "end": 7297,
+      "sha256": "6d1fc28edf47c9ce8b67c746c01eded3e841ba777f59c03dd674a517f291d5ba"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Fiore v. White, 528 U.S. 23 (1999)",
+      "start": 11063,
+      "end": 11079,
+      "sha256": "707950ced660ae21dd10de5c3d3182419093c4d683f491a5d2ce521b9c92ce72"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc., 528 U.S. 167 (2000)",
+      "start": 11165,
+      "end": 11207,
+      "sha256": "f2f81b5f66bf360c182c32174dc71daa5d8fc994c5870b214e2f03ff98b62f46"
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Williams v. Taylor (Terry Williams), 529 U.S. 362 (2000)",
+      "start": 11573,
+      "end": 11637,
+      "sha256": "7f22327a930316c69b9c87efa9218e9f3e3fa65674c1850da03ac92846644312"
+    },
+    {
+      "source": "state/holdings/first-amendment.md",
+      "heading": "Waters v. Churchill, 511 U.S. 661",
+      "start": 709,
+      "end": 764,
+      "sha256": "6f1fa560430cf7ee8e09710000b687a29708ba2b9bdfae7bade6e9926b2f095a"
+    },
+    {
+      "source": "state/holdings/first-amendment.md",
+      "heading": "Lebron v. National Railroad Passenger Corp.",
+      "start": 1331,
+      "end": 1355,
+      "sha256": "dbb87dfeb48e420f948df7cca43b448c5d8bdd4ce266f9c1e728f524f1d50c60"
+    },
+    {
+      "source": "state/holdings/first-amendment.md",
+      "heading": "United States v. National Treasury Employees Union",
+      "start": 1384,
+      "end": 1404,
+      "sha256": "f8b0563afacb9f8469bf254dd92238acec164185bc354cff05babceeff9a75ce"
+    },
+    {
+      "source": "state/holdings/first-amendment.md",
+      "heading": "Boring v. Buncombe County Board of Education",
+      "start": 3148,
+      "end": 3180,
+      "sha256": "4bc0895b909a10a50010ab5d84e4e15955dc64aef170ee4b22fd98eb07f82d86"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Scope and chronology",
+      "start": 3,
+      "end": 10,
+      "sha256": "e1ac8345496391480710f1c6d58234d62f550dabecef4d260a84f0b27b50ff9c"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Artuz v. Bennett — 2000-11-07",
+      "start": 27,
+      "end": 34,
+      "sha256": "b4932f5a0818fd087e919540303f49febb852b8a92f142d7a9385936300564ea"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Sinkfield v. Kelley — 2000-11-27",
+      "start": 43,
+      "end": 50,
+      "sha256": "b9224645d8cdbeb64d0c2ef898d2bbc5ada8087fa3b1f4ba69f6b00d26e9e780"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Wasson v. Sonoma County Junior College — 2000-11-27",
+      "start": 51,
+      "end": 58,
+      "sha256": "1b240113e73ae045ef70a6ec1a7ea22c3c3d1bfc06d8c9cf76a10ca71ef5dfb6"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Wasson v. Sonoma County Junior College — 2000-11-27",
+      "start": 344,
+      "end": 351,
+      "sha256": "f879ac44ea983c5723f294dc8c821e4811c6b6be54a6645e88ea28fc222edd9f"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "City of Indianapolis v. Edmond — 2000-11-28",
+      "start": 59,
+      "end": 66,
+      "sha256": "a875463c19727b945a3383941370a1ee4630b44e82726bd2d1ee607c98858431"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "City of Indianapolis v. Edmond — 2000-11-28",
+      "start": 352,
+      "end": 359,
+      "sha256": "899a28da354afb4f63daf3af71f942e4535a1b7cc28b824365d1bb5885545dad"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Court and participation",
+      "start": 190,
+      "end": 209,
+      "sha256": "d9a17f37b530db6f173388accca0d5ef77f04a76ccc30eaa847c2d94e0e1744a"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Current public procedure",
+      "start": 236,
+      "end": 265,
+      "sha256": "169071cdc51acac0dec9c20f11e1725718a198e079c8de05de84c17c8b5a96c2"
+    },
+    {
+      "source": "terms/OT2000/workspace/neutral-projection.md",
+      "heading": "Same-day chronology",
+      "start": 266,
+      "end": 278,
+      "sha256": "a7dd5f68df630be58ac0a14549e99b6b813cdd22b6d53c57b1409a1bf5b932df"
+    }
+  ],
+  "output": "terms/OT2000/entering-law/OT_2000CHUNK2.md",
+  "output_sha256": "bc4aa4701ee5c475f87770a25e1beb1c146782515655c7b6dea4c01bd79536cf"
+}

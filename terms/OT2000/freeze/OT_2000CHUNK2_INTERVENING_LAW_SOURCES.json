@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "date": "2001-01-09",
+      "case": "Brewer v. West Irondequoit Central School District; 212 F.3d 738; no separate Supreme Court docket supplied.",
+      "record": "Brewer_v_West_Irondequoit_Central_School_District_merits_2001-01-09.md",
+      "sha256": "43c044d5e7dc2b6efcb5b94e7d09d66add53d3a2c11f6c64512136bbef2b1882"
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Fiore v. White, No. 98-942.",
+      "record": "Fiore_v_White_merits_2001-01-09.md",
+      "sha256": "105e08f677bce261247fe1fc268c1c8af097e909059f55348dcedaa2cbe2c592"
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Gitlitz v. Commissioner, No. 99-1295.",
+      "record": "Gitlitz_v_Commissioner_merits_2001-01-09.md",
+      "sha256": "60bfd03b0761b6439c945fb643caa1a23cb322e6612c7c53a5f88f281b24ade3"
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers, No. 99-1178.",
+      "record": "Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md",
+      "sha256": "26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d"
+    },
+    {
+      "date": "2001-01-10",
+      "case": "Lopez v. Davis, No. 99-7504.",
+      "record": "Lopez_v_Davis_merits_2001-01-10.md",
+      "sha256": "96e0ae565cced9d0a436da2c0d45a7b6f7ac8c939082a7b380b0754135fcdfcf"
+    },
+    {
+      "date": "2001-01-17",
+      "case": "City News & Novelty, Inc. v. City of Waukesha, No. 99-1680.",
+      "record": "City_News_and_Novelty_v_City_of_Waukesha_mootness-dismissal_2001-01-17.md",
+      "sha256": "b430a33983bea69c3845bb8f721d3a33dfb09634cc745fe05650f19bf9cdfbf9"
+    },
+    {
+      "date": "2001-01-17",
+      "case": "Seling v. Young, No. 99-1185.",
+      "record": "Seling_v_Young_merits_2001-01-17.md",
+      "sha256": "c992cf0a06d8b4bb03aaa0600f4b25f685f292ae60298f783a2639c49371403a"
+    },
+    {
+      "date": "2001-01-22",
+      "case": "Kansas v. United States; Tenth Circuit No. 98-3341, 214 F.3d 1196; no separate Supreme Court docket supplied.",
+      "record": "Kansas_v_United_States_merits_2001-01-22.md",
+      "sha256": "e9897492d0c7c1c9bdb55a5ca87317231427a8ffd72f371951570d96cb84ad47"
+    }
+  ],
+  "copy_sha256": "19a6f4402f0fe61d6c3c01ab2c076bc2a17085be603a491e50ea880246fb4b91",
+  "scope": "Exact public projections only; current-case private materials excluded."
+}

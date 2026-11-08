@@ -1,0 +1,152 @@
+[
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_fiore.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "5eb807d769eae0c24027431ff0c0584c1e256905151af4f17bb8b79f45d602c2"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_glover.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "f15906916fc42ea7ed2e85479877151ce0a6ff69807223a963ed99431182a62d"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_swancc.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "9c7e081b2cff69210f3e42aa8dd932e14a6551855e5842dc58feaf756e843a55"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_gitlitz.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "7823c09f49a0946dcaa345bbd707142c3efc2d52dd9a5d4e092e88d81245e2d9"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_brewer.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "87ad396558dd97dfce2198af234890d90483562fa6d14edaa9394b0398bc7f67"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_lopez.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "be9c437c1435aa807e6b396f747dcb2b9dd80b5f2fab1fb6b691d2ab257d5038"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_seling.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "fe1e588966767cce8e561d675d3c78c6ccf0b6a40670611b566c377b91add0d0"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_citynews.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "f1ec54f6ca4c82392b0a10be106f98e785442bd35132a7c05205b2e9c70857c9"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_tricounty.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "e7a09c1347d7f84c4a32b9f54bc5a32a5c9cc61a99af72e9c23b4a5727fc61ef"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_denius.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "45b83b255ad3645ebd22c314885d01dd36c570d8a822a570807273c9526d574f"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_kansas.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "1d1335e543c0db9544e20265c5641b020f1da2e219fa6d117e53f825dafc8490"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_brentwood.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "c0a518f492c780031e3a49f0e1ba14180953c67a2321cabef73204a71f0d7bb9"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_mcarthur.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "9babe1623810a32cb1f7314af4587b5e412ec0c031bf12603a2189211076c113"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_cobank.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "8fdd864e2a8a231e7637717e93134c4eb53c41386eec2e83aea901743973c5f6"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_STONE_urofsky.md",
+    "source": "runtime/OT_2000CHUNK2_STONE.md",
+    "sha256": "2da5a9bdd85604509ee89d5640630572f88d745aa72463ae95a2ed6d25a4ed86"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_fiore.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "8ad20752ab917969fc896d55cee2629b8e0dff15121990cc1f3db897f599a7e8"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_glover.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "4efede7ae70e2d45cc33c3b70e121435ecd1a355e39e28077d5af89d55942236"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_swancc.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "f523b39473ed42fe28747d3493183979b0de9e407bb84d9fa7453e5b22f7cacc"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_gitlitz.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "583c58e00a06b31324e1ed002d41fa4bbdc4f87936470224aa3abd86bd3f12a7"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_brewer.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "0039d29765fda139b352aec2514f111acbbfb30e64613ffe37d08234fac04fb6"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_lopez.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "7714a0cd1ee20f807223501f1791fd02d630b7e27f7015cbc7f27a84c6656c1d"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_seling.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "8ad854464dccfae3370c5602b9d50a25e4524215bee851dec9f30ff06eef90be"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_citynews.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "55de56186ae66438b21f6a5cd236c714d4ca920f87f8a2a869781dd206da7d87"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_tricounty.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "a53265cf21f9433d01ba2d51b7ae779d7aa5c98c975fe920c48089b4ba8de706"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_denius.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "708389418032184490df008fab804245eb081f385f6123c8221032b6876fcc58"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_kansas.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "55d2490671bf723b1174df2aaadc76af8003bab4d6bd5bb23117cb24df23b407"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_brentwood.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "51687767f619ac9638b2b110e8ca65663971d01d6cad23084c28de09694dfe02"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_mcarthur.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "12653f8e8ace7ed5362de677ccd16461b55a819ab836c83736e8883523927c39"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_cobank.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "fde293ee32d832c75c4e6e7e0f7a9f309750fcad24e11c0d95a80a6a5202d933"
+  },
+  {
+    "file": "runtime/OT_2000CHUNK2_COMPARATOR_urofsky.md",
+    "source": "runtime/OT_2000CHUNK2_COMPARATOR.md",
+    "sha256": "37ed4f021afcd45c4a62f336890fad9cdeaaf64759b83c587e25417de50ac6a5"
+  }
+]

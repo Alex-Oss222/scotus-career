@@ -1,0 +1,213 @@
+
+
+    214 F.3d 1196
+
+214 F.3d 1196 (10th Cir. 2000)
+
+STATE OF KANSAS, Plaintiff-Appellant,
+v.
+UNITED STATES OF AMERICA; DEPARTMENT OF HEALTH AND HUMAN SERVICES; DONNA SHALALA, in her official capacity as secretary of Health and Human Services,
+Defendants-Appellees,
+
+No. 98-3341
+
+UNITED STATES COURT OF APPEALS, TENTH CIRCUIT
+
+June 1, 2000
+
+Appeal from the United States District Court for the District of Kansas (D.C. No. 97-4256-RDR) Stephen R. McAllister (Carla J. Stovall, Kansas Attorney General, John W. Campbell, Senior Deputy Attorney General, and M. J. Willoughby, Assistant Attorney General, on the briefs), Topeka, Kansas, for Plaintiff-Appellant.
+
+Michael S. Raab, Attorney, Appellate Staff (Mark B. Stern, Attorney, Appellate Staff, with him on the brief), Washington, D.C., for Defendants-Appellees.
+
+Before SEYMOUR, Chief Judge, MCKAY, Senior Circuit Judge, and EBEL, Circuit Judge.
+
+SEYMOUR, Chief Judge.
+
+      1
+
+Kansas brought this action for declaratory and injunctive relief in response to changes in child support enforcement policy brought about by Title III of the Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA). Pub. L. No. 104-193, 110 Stat. 2105 (1996). The district court granted the United States' motion to dismiss for failure to state a claim, and Kansas appeals. We review this decision de novo, see Morse v. Regents of the Univ. of Colorado, 154 F.3d 1124, 1126 (10th Cir. 1998) (grant of  motion to dismiss); United States v. Bolton, 68 F.3d 396, 398 (10th Cir. 1995) (determination of federal statute's constitutionality), and affirm.
+
+      2
+
+* The PRWORA, also known as "welfare reform," made sweeping changes in social policy relating to low-income people. It replaced the Aid to Families with Dependent Children (AFDC) program with the Temporary Assistance to Needy Families (TANF) program. The new program consists of federal block grants that are distributed to states, which then use the money to provide cash assistance and other supportive services to low-income families within their borders. Although this funding structure gives the states greater flexibility in designing their own public assistance programs, they are required to work toward program goals, satisfy a maintenance-of-effort requirement for the expenditure of state funds, and abide by federal regulations.
+
+      3
+
+Title III of the PRWORA amended the Child Support Enforcement Program (IV-D),1 which provides federal money to assist states in collecting child support from absent parents. See 42 U.S.C.  651-669. State IV-D programs must currently provide child support services to all cases in which the custodial parent either receives temporary assistance under TANF or Medicaid, or requests IV-D assistance.2
+
+      4
+
+The PRWORA imposes greater federal oversight and control over the states' participation in the IV-D program in an effort to increase efficiency in child support enforcement, particularly in interstate case, through information sharing, mass case processing, and uniformity. Among other things, the states must establish a Case Registry which contains all child support orders within the state, see id.  653a, and a Directory of New Hires, see id.  654a. These databases are regularly matched against one another and against a Federal Case Registry and National Directory of New Hires, which function as part of the existing Federal Parent Locator Service. See id.  653.
+
+      5
+
+The PRWORA also requires states to adopt the Uniform Interstate Family Support Act. See id.  666(f). This act, which has been passed by the legislatures of all fifty states, allows state agencies to send income-withholding orders across state lines directly to employers. In addition, the PRWORA requires states to pass laws facilitating genetic testing and paternity establishment, see id.  666(a)(5), and authorizing state child support agencies to take expedited enforcement action against non-paying noncustodial parents, see id.  666(c). When a parent fails to pay child support, the PRWORA requires states to revoke passports, suspend professional and other licenses, place liens on property, and notify consumer credit reporting agencies, see id.  652(k), 666(a)(1)-(4), (6)-(7), (16).
+
+      6
+
+Significantly, states are not required to participate in the IV-D program. A state that elects to receive the federal block grant under the TANF program, however, must operate a child support enforcement program that meets IV-D's requirements. If a state's child support enforcement program fails to conform to the requirements of IV-D, the state risks the denial of both its IV-D child support enforcement funding and its TANF funding. The parties do not dispute that in fiscal year 1996, Kansas received $29.3 million in IV-D money from the federal government, and $101.9 million in TANF funding. These federal funds provide 66% of Kansas' IV-D program operating costs, and 80% of the expenditures relating to its computerized data systems. See id.  655(a)(2)(C), (3)(B).
+
+II
+
+      7
+
+Kansas argues that the amended IV-D program requirements are too onerous and expensive, necessitate too much manpower, and encroach upon its ability to determine its own laws. Because of the amount of money at stake, Kansas contends it is being coerced into implementing the program requirements in violation of two provisions of the United States Constitution, specifically the Spending Clause of Article 1, 8 and the Tenth Amendment.3 These claims are essentially mirror images of each other: if the authority to act has been delegated by the Constitution to Congress, then it may act pursuant to Article I; if not, the power has been reserved to the states by the Tenth Amendment. See New York v. United States, 505 U.S. 144, 156 (1992). Because the legislation at issue was enacted pursuant to Congress' spending power, we will address the issue as arising under the Spending Clause.
+
+A. Spending Clause Challenges Generally
+
+      8
+
+Congress' spending power enables it "to further broad policy objectives by conditioning receipt of federal moneys upon compliance by the recipient with federal statutory and administrative directives." Fullilove v. Klutznick, 448 U.S. 448, 474 (1980). The most instructive case on the Spending Clause issue is South Dakota v. Dole, 483 U.S. 203 (1987), in which the Supreme Court upheld a legislative provision directing the Secretary of Transportation to withhold federal highway money from states refusing to raise their legal drinking age to 21.
+
+      9
+
+The Court in Dole recognized four general restrictions on Congress' exercise of power under the Spending Clause. First, Congress' object must be in pursuit of "the general welfare." Id. at 207. In considering whether an expenditure falls into this category, courts should defer substantially to the judgment of Congress. See, e.g., Helvering v. Davis, 301 U.S. 619, 640-41 (1937). Second, if Congress desires to place conditions on the state's receipt of federal funds, it must do so unambiguously so that states know the consequences of their decision to participate. See Dole, 483 U.S. at 207. Third, the conditions must be related to the federal interest in the particular program. See id. The required degree of this relationship is one of reasonableness or minimum rationality. See New York, 505 U.S. at 167 (conditions must "bear some relationship to the purpose of the federal spending"); id. at 172 (conditions imposed are "reasonably related to the purpose of the expenditure"). Fourth, there can be no independent constitutional bar to the conditions. See Dole, 483 U.S. at 208. The Tenth Amendment itself does not act as a constitutional bar; rather, the fourth restriction stands for the more general proposition that Congress may not induce the states to engage in activities that would themselves be unconstitutional. See id. at 210.
+
+      10
+
+Kansas does not seriously argue that the IV-D conditions in the PRWORA violate the four restrictions outlined in Dole. The first two restrictions are easily dispensed with. As the district court noted in its opinion below, the "general welfare" test is substantially deferential to Congress, and can clearly be met here.4 And although contending that some of the requirements associated with the computerized database are vague, Kansas fails to assert that the alleged ambiguity resulted in its inability to exercise its choice to accept the funds knowingly and "cognizant of the consequences of . . . participation," as required by Dole. Id. at 207 (citing Pennhurst State Sch. & Hosp. v. Halderman, 451 U.S. 1, 17 (1981)). The PRWORA unambiguously attaches its many conditions to the TANF and IV-D funds, and Kansas does not claim it accepted the money without knowledge of those conditions.
+
+      11
+
+Regarding the third Dole requirement, under which the conditions must be related to the federal interest in the program, Kansas asserts that the IV-D conditions are not sufficiently related to the larger TANF program. This contention is based on Justice O'Connor's dissent in Dole, in which she argued for a closer correlation between the funding condition and the federal interest, stating that the drinking age condition was "far too over and under-inclusive" in addressing the problem of drunk driving. Id. at 214-15, 218 (O'Connor, J., dissenting). The majority in Dole, however, endorsed a much less demanding test and determined that the drinking age condition was reasonably related to the highway program because of the connection between the drinking age and highway fatalities.
+
+      12
+
+The TANF program, which provides financial support for low-income families, is clearly related to the IV-D program and its requirements, which assist low-income families in collecting child support from absent parents. See H.R. Rep. No. 104-651, at 1410 (1996), reprinted in, 1996 U.S.C.C.A.N. 2183, 2469 (noting IV-D complements the TANF program because establishing paternity and collecting child support may enable families to reduce dependence on the welfare system). Indeed, child support enforcement was conceived of as a related component of the AFDC system. See S. Rep. No. 93-1356 (1974), reprinted in, 1974 U.S.C.C.A.N. 8133, 8145-48 (discussing the interrelationship between the welfare system and non-support of children by absent parents). It is no coincidence that the AFDC/TANF and the child support programs are both set forth in the same subchapter of the Social Security Act, which bears the heading "Grants to States for Aid and Services to Needy Families with Children and for Child-Welfare Services."5
+
+      13
+
+Finally, Kansas makes a few cursory arguments to the effect that the United States is requiring it to violate the privacy and procedural due process rights of its citizens. These claims center around the requirements that the state keep a directory of new hires, and that it take automatic enforcement action against those parents found to be in arrears on child support. Neither of these arguments is developed in the brief, and neither appears to have merit. In fact, Congress has expressly required participating states to adopt safeguards to protect against the unauthorized use or disclosure of confidential information handled by a state child support enforcement agency. See 42 U.S.C.  654(26). Moreover, the states are free to adopt other measures to protect the information they receive.
+
+      14
+
+In general, Kansas bears a very heavy burden in seeking to have the PRWORA declared unconstitutional. There are no recent relevant instances in which the Supreme Court has invalidated a funding condition. See Oklahoma v. Schweiker, 655 F.2d 401, 406 (D.C. Cir. 1981) ("Although there may be some limit to the terms Congress may impose, we have been unable to uncover any instance in which a court has invalidated a funding condition.").6 On the other hand, there have been many cases in which the Supreme Court has upheld conditions placed on the receipt of federal funds. See, e.g., Fullilove, 448 U.S. 448 (upholding the conditioning of federal public works funds on states' implementation of affirmative action programs for contracting), overruled on other grounds by Adarand Constructors, Inc. v. Pena, 515 U.S. 200 (1995); Lau v. Nichols, 414 U.S. 563 (1974) (approving section of 1964 Civil Rights Act under which schools that practice racial discrimination are excluded from federal financial assistance); Oklahoma v. United States Civil Serv. Comm'n, 330 U.S. 127 (1947) (upholding decision to remove federal highway funds from Oklahoma for violations of the Hatch Act, where employee was member of the State Highway Commission while chairman of state Central Democratic Committee).
+
+      15
+
+Federal courts of appeal have been similarly reluctant to invalidate funding conditions. For example, in Schweiker, 655 F.2d 401, the D.C. Circuit upheld Congress' conditioning of Medicaid funds on state implementation of a provision in the Supplemental Security Income program. See also California v. United States, 104 F.3d 1086 (9th Cir. 1997) (upholding conditioning receipt of Medicaid funds on agreement to provide emergency medical services to illegal aliens); Padavan v. United States, 82 F.3d 23, 28-29 (2d Cir. 1996) (same); Planned Parenthood v. Dandoy, 810 F.2d 984 (10th Cir. 1987) (upholding Medicaid funding condition which required changes in state law regarding the provision of family planning advice to minors) (per curiam); New Hampshire v. Marshall, 616 F.2d 240 (1st Cir. 1980) (upholding requirements in the Federal Unemployment Tax Act).
+
+      16
+
+Virginia v. Riley, 106 F.3d 559 (4th Cir. 1997) (en banc) (per curiam) (superseded by statute), represents the rare case in which a federal court invalidated a funding condition. In Riley, the Fourth Circuit found that conditions in the Individuals with Disabilities Education Act were not sufficiently clear and unambiguous to satisfy Dole's second requirement. Specifically, the court objected to conditions requiring every state to provide a free, appropriate education to learning disabled students, which the United States Department of Education later interpreted to apply even where school authorities had expelled a student for behavioral problems unrelated to the learning disability. Because we have determined that the conditions at issue in the present case do not violate Dole's ambiguity restriction, however, Riley is inapposite.
+
+B. Coercion Theory
+
+      17
+
+In addition to the four categorical restrictions, the Court in Dole articulated a fifth, indistinct limit on the spending power: "[I]n some circumstances the financial inducement offered by Congress might be so coercive as to pass the point at which 'pressure turns into compulsion.'" Dole, 483 U.S. at 211 (quoting Steward Mach. Co. v. Davis, 301 U.S. 548, 590 (1937)). It is this coercion theory upon which Kansas primarily relies. The crux of Kansas' argument is that the size of its IV-D and TANF grants, totalling over $130 million, leaves it no choice but to accept the PRWORA's many requirements. In this connection, Kansas correctly argues that the Court in Dole specifically pointed out that the federal government there was only threatening to withhold 5% of South Dakota's federal highway funds:
+
+      18
+
+When we consider . . . that all South Dakota would lose if she adheres to her chosen course as to a suitable minimum drinking age is 5% of the funds otherwise obtainable under specified highway grant programs, the argument as to coercion is shown to be more rhetoric than fact.
+
+      19
+
+Id.
+
+      20
+
+This passage does not get Kansas far. It is merely an instance in which the Court acknowledged circumstances not sufficient to constitute coercion. In fact, the cursory statements in Steward Machine and Dole mark the extent of the Supreme Court's discussion of a coercion theory.7 The Court has never employed the theory to invalidate a funding condition, and federal courts have been similarly reluctant to use it. "The coercion theory has been much discussed but infrequently applied in federal case law, and never in favor of the challenging party." Nevada v. Skinner, 884 F.2d 445, 448 (9th Cir. 1989). Most of the treatment given the theory in the federal courts has been negative.
+
+      21
+
+The boundary between incentive and coercion has never been made clear, and courts have found no coercion in situations where similarly large amounts of federal money were at stake. For example, numerous courts have upheld conditions on Medicaid grants even where the removal of Medicaid funding would devastate the state's medical system. In Schweiker, 665 F.2d 401, Oklahoma argued that the threat of losing all Medicaid funding was so drastic that it had no choice but to comply in order to prevent the collapse of its medical system. The D.C. Circuit stated: "[t]he courts are not suited to evaluating whether the states are faced here with an offer they cannot refuse or merely with a hard choice. . . . We therefore follow the lead of other courts that have explicitly declined to enter this thicket when similar funding conditions have been at issue." Id. at 414. See also California, 104 F.3d 1086 (conditioning receipt of Medicaid funds); Padavan, 82 F.3d at 28-29 (same); Planned Parenthood v. Dandoy, 810 F.2d 984 (upholding Medicaid funding condition). But see Virginia v. Riley, 106 F.3d at 561 (noting in dicta that a "substantial constitutional question under the Tenth Amendment would be presented," if the provision were not already being struck down on ambiguity grounds, because it "resembles impermissible coercion").
+
+      22
+
+In any event, the coercion theory is unclear, suspect, and has little precedent to support its application. Indeed, in Steward Machine, the first case to articulate the coercion theory, the Court minimized its force, observing, "to hold that motive or temptation is equivalent to coercion is to plunge the law in endless difficulties. The outcome of such a doctrine is the acceptance of a philosophical determinism by which choice becomes impossible." 301 U.S. at 589-590. For all these reasons, we hold that the conditioning of TANF funds on Kansas' compliance with the requirements contained in IV-D does not present a situation of impermissible coercion.8
+
+C. New York and Printz
+
+      23
+
+Kansas devotes a significant portion of its brief to a discussion of two cases that invalidated acts of Congress, New York v. United States, 505 U.S. 144 (1992), and Printz v. United States, 521 U.S. 898 (1997). Neither of these cases is persuasive to us because neither concerned legislation passed pursuant to the Spending Clause.
+
+      24
+
+New York v. United States involved a provision of the Low-Level Radioactive Waste Policy Act, which was not passed pursuant to Congress' spending power.9 The provision required states to either take title to nuclear waste generated within their borders, or regulate waste disposal according to Congressional instruction. The Court found that the take-title provision "crossed the line distinguishing encouragement from coercion," because it directly compelled the states to either take action or submit to federal regulation, and did not offer the option of declining to administer the federal program. Id. at 175, 177. Since neither of the alternatives presented to the states was within Congress' authority, the states had no real choice to avoid coercive government power.
+
+      25
+
+Congress has not held out the threat of exercising its spending power or its commerce power: it has instead held out the threat, should the states not regulate according to one federal instruction, of simply forcing the states to submit to another federal instruction. A choice between two unconstitutional coercive regulatory techniques is no choice at all.
+
+      26
+
+Id. at 176.
+
+      27
+
+The circumstances here are clearly distinguishable. The take-title mandate in New York was coercive because it gave states a "choice" between two unconstitutional alternatives. It was not a condition attached to the receipt of federal funding. In the present case, the states have a real choice, albeit a hard one, between accepting the money and the conditions or declining both.
+
+      28
+
+Printz v. United States involved a provision of the Brady Act which improperly compelled state and local law enforcement officers to execute background checks for handgun purchasers. In striking down this provision, the Court held that Congress could not circumvent the prohibition against compelling states to enact or enforce federal regulatory programs "by conscripting the State's officers directly." Printz, 521 U.S. at 935. Kansas argues that its employees are being similarly conscripted to administer what amounts to a federal child support enforcement policy. We are not persuaded.
+
+      29
+
+The Court in Printz distinguished the Brady Act, which was passed pursuant to Congress' commerce power, from Spending Clause legislation:
+
+      30
+
+[Some] federal statutes enacted within the past few decades that require the participation of state or local officials in implementing federal regulatory schemes . . . are connected to federal funding measures and can perhaps be more accurately described as conditions upon the grant of federal funding than as mandates to the States . . . . For deciding the issue before us here, they are of little relevance.
+
+      31
+
+Id. at 917-18. Moreover, in Printz Congress directly commanded state officers to enforce a federal program. Here, state employees have to meet federal program requirements as a condition of receiving federal money under the program. While the amount of money to be lost through non-compliance is substantial, the PRWORA does not directly compel or command state employees to take any action whatsoever. States are free to refuse to implement the conditions and to decline the grant money. Both New York and Printz are inapposite to the case at bar.
+
+III
+
+      32
+
+Kansas has invited us to forge new ground in Spending Clause jurisprudence by invalidating the child support enforcement conditions Congress attached to its social welfare funding program. In doing so, it asks that we expand the concept of "coercion" as it applies to relations between the state and federal governments, and find a large federal grant accompanied by a set of conditional requirements to be coercive because of the powerful incentive it creates for the states to accept it. We decline the invitation. In this context, a difficult choice remains a choice, and a tempting offer is still but an offer. If Kansas finds the IV-D requirements so disagreeable, it is ultimately free to reject both the conditions and the funding, no matter how hard that choice may be. See Kathleen M. Sullivan, Unconstitutional Conditions, 102 Harv. L. Rev. 1413, 1428 (May 1989) (discussing the resilience of the argument that "offers of conditioned benefits expand rather than contract the options of the beneficiary class, and so present beneficiaries with a free choice"). Put more simply, Kansas' options have been increased, not constrained, by the offer of more federal dollars.
+
+      33
+
+The requirements contained in IV-D represent a reasoned attempt by Congress to ensure that its grant money is used to further the state and federal interest in assisting needy families, in part through improved child support enforcement. This is a valid exercise of Congress' spending power, and the requirements do not render the PRWORA unconstitutional.
+
+      34
+
+We AFFIRM the judgment of the district court.
+
+NOTES:
+
+        1
+
+ The Child Support Enforcement Program is commonly called IV-D because of its location in Subchapter IV, Part D of the Social Security Act.
+
+        2
+
+ Although originally focused on AFDC families, amendments to the program in 1984 established the requirement that states provide assistance in obtaining support for all children for whom such support is requested. See Child Support Enforcement Amendments of 1984, H.R. Conf. Rep. No. 98-925, at 29 (1984), reprinted in 1984 U.S.C.C.A.N. 2447.
+
+        3
+
+ Under the Tenth Amendment, "[t]he powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people." U.S. Const. amend. X. The Spending Clause provides that "[t]he Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; . . ." U.S. Const. art. I,  8, cl. 1.
+
+        4
+
+ In its brief to this court, Kansas tries to downplay the seriousness of the problem of unpaid child support, perhaps in an attempt to argue that the general welfare requirement is not met. Kansas makes numerous references to "the perceived need to crack down on the elusive and rumored population of 'deadbeat dads'" "believed to be running from state to state," and the "rare" "so-called dead-beat dads allegedly fleeing from State to State," Plaintiff's Br. at 8, 10, 19, 29. These characterizations do nothing to advance Kansas' argument.
+
+Congress made clear that non-payment of child support, particularly in interstate cases, is a widespread problem which has significant deleterious effects on children, particularly those in low-income families. The changes in IV-D's requirements were made in response to the widespread belief that the system of pursuing child support across state lines was "far too sluggish to be effective" and "universally regarded as broken." H.R. Rep. No. 104-651, at 1405, reprinted in 1996 U.S.C.C.A.N. 2183, 2464. For example, Congress found that in 1992 only 54% of single-parent families with children had a child support order established and, of that 54%, only about one-half received the full amount due. 42 U.S.C.  601 note. Only 18% of the cases enforced through the public child support enforcement system resulted in a collection. Id. Interstate cases represent almost 30% of all child support orders, yet yield only 10% of collections. See H.R. Rep. No. 104-651, at 1405, reprinted in 1996 U.S.C.C.A.N. 2183, 2464. While lawyers may legitimately debate the application of the laws which address the non-payment of child support, no one is served by denying the existence of the problem.
+
+        5
+
+ As stated previously, child support enforcement falls under Subchapter IV, Part D of the statute. The TANF program is contained in Subchapter IV, Part A.
+
+        6
+
+ The Court did strike down a funding condition in United States v. Butler, 297 U.S. 1 (1936), but that case relied on an overly narrow view of Congress' enumerated powers to determine that Congress had overstepped its authority. The analysis in Butler has been discredited as flawed and unworkable, and has not been followed. See, e.g., Laurence H. Tribe, American Constitutional Law  5-b, at 836 (3d ed. 2000) ("[T]he Supreme Court has effectively ignored Butler in judging the limits of congressional spending power.").
+
+        7
+
+ The Court also acknowledged the coercion theory in passing in College Sav. Bank v. Florida Prepaid Postsecondary Educ. Expense Bd., 119 S. Ct. 2219, 2231 (1999). The Court merely quoted the language from Dole and Steward Machine but did not have an occasion to apply it.
+
+        8
+
+ Moreover, IV-D contains a "safety valve" provision which allows states to be exempted from requirements that will not increase the effectiveness and efficiency of their CSE programs. See 42 U.S.C.  666(d). In light of this, Kansas' prediction that it will be forced to labor under a cumbersome and byzantine set of regulations appears to be overstated.
+
+        9
+
+ Significantly, the Court upheld two other provisions of the Act which were enacted under the commerce and spending powers. See New York, 505 U.S. at 173, 174.
+
+CC∅ | Transformed by Public.Resource.Org
+

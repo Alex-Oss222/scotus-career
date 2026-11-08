@@ -1,0 +1,78 @@
+[
+  {
+    "source": "terms/OT1991/output/OT_1991CHUNK12.md",
+    "source_sha256": "41a54bc94b05e441ad6d27cde060780c91345c27c3f61b555a887b93a3319f2d",
+    "entry_heading": "### New York v. United States",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Positions Relevant to the Decision"
+    ]
+  },
+  {
+    "source": "terms/OT1994/output/OT_1994CHUNK3.md",
+    "source_sha256": "f96e2eb2f10b0c62d3f257df059ef5f6ca76cde13263e3e67a1d0bac0675ffeb",
+    "entry_heading": "### United States v. National Treasury Employees Union",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Positions Relevant to the Decision"
+    ]
+  },
+  {
+    "source": "terms/OT1994/output/OT_1994CHUNK6.md",
+    "source_sha256": "5f32ccffe987289a26a087510f824751f9e5c980b1e242424b25a63533243a10",
+    "entry_heading": "### Reno v. Koray",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Positions Relevant to the Decision"
+    ]
+  },
+  {
+    "source": "terms/OT1995/output/OT_1995CHUNK6.md",
+    "source_sha256": "cd350023c15358cd9dce95235d46b96da749acf3dc0490a9625bd706313eeec4",
+    "entry_heading": "### Sheets v. Salt Lake County",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Positions Relevant to the Decision"
+    ]
+  },
+  {
+    "source": "terms/OT1996/output/OT_1996CHUNK1.md",
+    "source_sha256": "60c8ef5d863a97610e0f295fc1bd034ff304697177ae8428cd12d004e82eeb48",
+    "entry_heading": "### INS v. Yueh-Shaio Yang",
+    "selected_sections": [
+      "Opinions and Joins",
+      "Holdings"
+    ]
+  },
+  {
+    "source": "terms/OT1996/output/OT_1996CHUNK7.md",
+    "source_sha256": "543d9099b2fb1997ab4568835808689b77fd23aa1eb7e946e319a9c221635951",
+    "entry_heading": "### Doe v. Southeastern Pennsylvania Transportation Authority",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Positions Relevant to the Decision"
+    ]
+  },
+  {
+    "source": "terms/OT1996/output/OT_1996CHUNK11.md",
+    "source_sha256": "39c69406adcec80154f25d33e3e39c4644ca1d0eb8fd338e6f9aace593df8e15",
+    "entry_heading": "### Kansas v. Hendricks",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Writings"
+    ]
+  },
+  {
+    "source": "terms/OT1996/output/OT_1996CHUNK13.md",
+    "source_sha256": "8c921a0539e40bb75304619c2f3f15d0b111d0a2a3aed0d94e1e60c276e185be",
+    "entry_heading": "### Printz v. United States",
+    "selected_sections": [
+      "Opinion Topology",
+      "Separate Positions Relevant to the Decision"
+    ]
+  },
+  {
+    "output": "terms/OT2000/entering-law/OT_2000CHUNK2_MIDDLE_PUBLIC_POSITIONS.md",
+    "sha256": "2b94b941d2a2776a57ab472ccfda3c4f6b9302a6bf0733fd3b280fae38886a79"
+  }
+]

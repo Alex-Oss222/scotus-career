@@ -1,0 +1,105 @@
+# OT2000 chunk 2 — neutral preflight supplement
+
+This preparation artifact supplements the mechanically separated neutral packets. It changes no adjudication. It contains no commitment, current controlled position, comparator or reconciliation. The generated runtime packet remains unchanged. Each matter uses its case packet, this applicable supplement, its entering-law slice and the authorized source-facts handoffs identified here.
+
+## Common entering law and chronology
+
+The opening tracker cutoff is June 29, 2000. Effective current-term public law through December 12, 2000 also enters every matter in this chunk. The supplied statement that no effective Edmond decision has been established is obsolete. Case slices incorporate the relevant current public projection, including Wasson for the employment and immunity questions and Edmond for McArthur. These sources do not predetermine the new cases.
+
+There are fifteen distinct matters: five on January 9, one on January 10, four on January 17, one on January 22 and four on February 20, 2001. Events on each uncoordinated date share their pre-date legal baseline. File order does not make Fiore law for Glover. Urofsky must receive a fresh neutral update after any effective Denius decision; no prospective Denius result enters the initial packet.
+
+The roster remains Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All are seated throughout the identified submission and decision period; no matter-specific nonparticipation is supplied. Nine participating Justices would satisfy the six-Justice quorum and require five for a judgment majority. This is a participation premise subject to any subsequently verified nonparticipation, not a vote determination. No argument date has been supplied for the organizationally scheduled cases; none is invented.
+
+## Glover
+
+The statement that counsel did not adequately press grouping describes the asserted omission. It is not a found constitutional deficiency. Deficient performance, the correct grouping treatment, causation and any properly preserved independent procedural ground remain distinct. Control's original-petition verification corrects the packet's broader-scope statement: the two presented questions concern whether an additional six to twenty-one months and a two-level Guidelines increase can be rejected categorically as insufficient prejudice. They assume deficient performance and sentencing error for those legal questions. The government's broader merits arguments do not enlarge that scope. Actual performance and grouping remain unresolved applications; an answer to the categorical legal rule supplies neither their findings nor automatic resentencing. The original-petition source receipt remains with control's facts handoff.
+
+## Brewer
+
+Eisenberg's controlling rule includes ordinary-remand limits: a changed legal standard creates no automatic entitlement to new evidence, another hearing or a seat. Existing supported findings may suffice; further proceedings require an actual unresolved material issue under ordinary rules. No present grade placement, enrollment, continuing temporary arrangement or vanished controversy is inferred from the earlier school-year order. A remand may require the lower court to establish those current facts before directing prospective relief. These limits do not establish that relief is unavailable.
+
+The complete Brewer section of `OT_2000CHUNK2_ADDED_FACTS.md` is validated and incorporated. Haak's written acceptance preceded its race-based withdrawal. The actual program's directional eligibility must be distinguished from the funding statute and regulation: their reduction-of-isolation requirement is not itself a categorical statutory prohibition on white city pupils transferring outward. The temporary protection extended only through 1999–2000 and only if she had begun attending; it is not a continuing January 2001 order. The actual mandatory-preliminary-injunction posture, the lower court's irreparable-harm finding, unappealed contract and estoppel grounds, regulation qualifications and separate judges' assessments retain the statuses specified in that handoff.
+
+## Gitlitz
+
+The sanitized control extraction in `OT_2000CHUNK2_ROOT_FACTS.md`, Gitlitz, is accepted as an objective source supplement. Its amount figures remain reported facts, not a calculated judgment. Section 108(d)(7)(A)'s corporate-level direction, section 108(d)(7)(B)'s treatment of disallowed shareholder losses as a corporate attribute, section 108(b)(4)(A)'s timing instruction and sections 1366–1367's pass-through and basis provisions must each receive independent treatment. Neither a generic corporate-level label nor an asserted double benefit resolves their interaction. The applicable 1991 version controls, without importing a later amendment.
+
+## Solid Waste Agency
+
+The sanitized control extraction in `OT_2000CHUNK2_ROOT_FACTS.md`, Solid Waste Agency, is accepted as an objective source supplement. The water bodies are not wetlands under the Corps' vegetation definition. The asserted criterion is part (b) of the 1986 explanatory statement, involving migratory birds crossing state lines, within the agency's stated reliance on 33 CFR section 328.3(a)(3). The statement's preamble and notice-and-comment status informs the weight and source of its interpretation; it supplies no independently preserved procedural claim.
+
+The packet's suggestion of leaving a separate permit-merits challenge for review is corrected: that challenge was abandoned after summary judgment on jurisdiction. The present case concerns jurisdiction. The Court cannot revive the abandoned permit challenge, grant a permit or override independent law. The agency's species count and denial reasons remain agency findings, not new judicial findings. Those facts do not establish the constitutional mechanism or predetermine statutory coverage.
+
+## McArthur
+
+The sanitized control extraction in `OT_2000CHUNK2_ROOT_FACTS.md`, McArthur, is accepted as an objective source supplement. Probable cause was treated as uncontested. The wife reported observed concealment under the couch; both charged misdemeanors carried possible incarceration. The restraint, two or three accompanied entries, observed doorway position, warrant effort and approximate duration are the particular record. Consent to limited observation supplies neither general consent to search nor abandonment of the home-access objection.
+
+Edmond's current holding distinguishes suspicionless ordinary-crime checkpoints from stops with individualized suspicion and lawful checkpoint exceptions. Its program-purpose threshold does not itself supply a residential-restraint rule; Whren's objective ordinary-enforcement framework and the independent warrant, scope and duration limits retain their distinct work. The actual destruction risk, proportionality and diligence remain for adjudication on this record.
+
+## Fiore
+
+The facts-only extraction in `OT_2000CHUNK2_CONTROL_FACTS.md`, Fiore v. White, is validated for neutral use. The authoritative Pennsylvania answer was issued August 21, 2000, after acceptance on December 20, 1999 and submission on March 14, 2000. It identifies Scarpone as clarification of the existing statute, including its meaning when Fiore's conviction became final. This compatible state response supplies the predicate reserved by the actual November 30, 1999 certification; it establishes no federal judgment by itself.
+
+There are two challenged no-permit convictions under sections 6018.401(a) and 6018.606(f), one after the jury trial and one after the separate bench trial. The district writ concerned the sentence portions attributable to both. The packet's singular descriptions must not limit the issue to one conviction. Nor does this dispute encompass every conviction among the sixty convictions across the trials. The challenged statutory clause concerns owning or operating a facility without the required permit; the authorization and transportation-license clauses are distinct. Permit deviations retain their separate statutory treatment. The Commonwealth's undisputed permit fact and former deviation theory do not establish innocence of unrelated offenses.
+
+The post-April 24, 1996 federal filing is supported, but no exact filing date is supplied. The Third Circuit expressly left exhaustion and state merits adjudication unresolved. Conflicting source expressions of precise finality and minimum sentence are immaterial to the certified temporal answer and are not resolved by assumption. If either becomes necessary to a proposed ground or remedy, obtain the exact needed record first. Federal constitutional error, any applicable section 2254 gate and conviction-specific relief remain separate.
+
+## Lopez v. Davis
+
+The facts-only extraction in `OT_2000CHUNK2_CONTROL_FACTS.md`, Lopez v. Davis, is validated for neutral use. The channel is section 2241; the district court ordered eligibility reconsideration, not release. The 1997 discretionary category must not be conflated with the earlier definition of a violent offense. The notice-and-comment objection was advanced only by amici, was not raised or decided below and was absent from the petition. The packet's hypothetical procedural-defect path is therefore not a supported live decisional path on the presented record.
+
+## Seling
+
+The facts-only extraction in `OT_2000CHUNK2_ROOT_FACTS.md`, Seling, is validated for neutral use. The unpetitioned due-process, equal-protection and commitment-procedure determinations remain outside this review. The alleged conditions, separate Turay injunction and reported progress preserve their different source status. Neither an injunction nor partial improvement establishes punishment, actual civil operation or full compliance. The state statute's examination, petition, show-cause and conditional-release mechanisms exist; their existence does not prove their operation for Young. If the decision applies a particular conditional-release requirement, its actual terms must be supplied rather than described as an unspecified qualification.
+
+## City News
+
+The facts-only extraction in `OT_2000CHUNK2_CONTROL_FACTS.md`, City News, is validated for neutral use. The grant covered only the third question concerning prompt access or determination, not the persuasion burden or variation of punishment. The June 2000 letters, business closure, abandoned renewal and absence of a present licensing plan are objective facts. The 1995 violation disabilities expired in 2000. No disability through 2005 or further council violation finding is established; the council allowed continued operation during state review. The claimant's conjectured new disability cannot be treated as an imposed restriction.
+
+## CoBank
+
+The facts-only extraction in `OT_2000CHUNK2_CONTROL_FACTS.md`, CoBank, is validated for neutral use. The 1985 amendment deleted both the stock-related exemption sentence and its federal-ownership limitation, while eliminating the relevant federal stock-purchase authority. The packet's characterization of that deletion as merely obsolete is a party's legal position, not an accepted factual conclusion. Whether the deletion continued or changed the tax treatment is the disputed interpretation. Surviving section 2134 provisions concerning bank obligations and holders' interest do not state a blanket bank-income exemption. Other Farm Credit categories retain their separate texts.
+
+## Argument milestones
+
+The authorized source extraction establishes October 2, 2000 for Gitlitz; October 31, 2000 for Solid Waste Agency and Seling; and November 1, 2000 for McArthur. The established roster is unchanged at these argument and decision dates. Dates not yet supplied remain unverified, rather than invented.
+
+## Denius
+
+Control's facts-only verification of the full lower opinion corrects the packet's appellate posture. The Seventh Circuit affirmed damages immunity for the attorney-client and financial-information claims, reversed the medical-information damages-immunity ruling, and reversed the rejection of the equitable claims for further proceedings. It did not reverse attorney-client damages immunity. The constitutional claims, monetary immunity and prospective remedies must therefore remain component-specific.
+
+The challenged authorization lasted one year. The earlier 1994 criminal-and-education authorization, which was not challenged, had no time limit. Whether the challenged language in fact covered medical records remained unresolved in the lower opinion's note 8; its possible coverage must not become an established fact. The separate release of legal causes of action was waived, as identified in note 10. The medical claim requires its actual coverage predicate, and the waived release theory supplies no independent merits basis.
+
+The complete Denius section of `OT_2000CHUNK2_ADDED_FACTS.md` is now validated and incorporated, including its full-source and parallel-text receipt. It confirms these corrections and supplies the enumeration of records, sole stated reason for employment termination, uncommunicated intended limitation, absence of an actual collection finding, distinct equitable claims and successor-official substitution. Those record recitations remain summary-judgment premises rather than trial findings. They are sufficient for modeling the corrected questions and component-specific disposition without presuming medical coverage, resolving immunity from the 2001 decision date or reinstating a waived claim.
+
+## Kansas
+
+The complete Kansas section of `OT_2000CHUNK2_ADDED_FACTS.md` is validated and incorporated. Fiscal-year 1996 funding figures establish historical program amounts, not adjudicated present forfeitures or inability to exit. Complete refusal to operate a required program and an implementation deficiency in a continuing program are distinct. Section 609(a)(8)'s specified findings, corrective year, graduated reductions, substantial-compliance exceptions and technical-defect provisions must not be replaced by an automatic-total-loss assumption.
+
+Section 666(d) permits rather than requires an exemption when the State satisfies the Secretary, using the specified data or estimates, that the particular requirement by or pursuant to section 666 would not improve effectiveness and efficiency. The continuing-review and termination conditions remain. It is not an unconditional exemption from every program obligation. Section 654(26)'s confidentiality, protective-order, risk-of-harm, notice and court-screening safeguards remain distinct from the separate constitutional coercion claim. The complete material statutory extracts identified in the added facts are an authorized supplemental reading source for any path applying their specific terms. A newly dispositive sanction theory needs its actual preservation and statutory route; a general challenge does not authorize findings about unlitigated individual applications.
+
+## Urofsky
+
+The complete Urofsky section of `OT_2000CHUNK2_ADDED_FACTS.md` is validated and incorporated. The amended dominant-theme and lascivious-content definition, agency-head written approval, public availability, separate research-project and other-undertaking branches, and State Police exclusion must each be preserved. The statute names agency heads; the described academic delegation is a record account, not a universal statutory peer-review requirement. No record premise establishes that an outside nonacademic state officer must decide every university request.
+
+The listed present effects are allegations; they are neither absent merely because no approval was denied nor findings of unlawful denials. Existing waivers do not prove that every proposed inquiry would be approved. The challenge concerns work-related activity, and no personal-use entitlement, damages award, disciplinary dismissal or actual project refusal is presented. These verified source corrections do not remove the need for an actual Denius entering-law refresh.
+
+## Tri County
+
+Control's original-petition verification identifies the presented issue as whether Gasperini invalidates the appellate approach that constrains trial-court new-trial discretion and expands appellate review. The packet's damages and mitigation discussion remains relevant to reviewing the actual grounds under that standard. It is not an additional grant to reassess settled liability or decide every damages theory. Any independent postjudgment-interest component must remain tied to the operative judgment and actual review scope.
+
+The final `OT_2000CHUNK2_TRI_COUNTY_CONTROL_FACTS.md` is validated in full and incorporated as the source-supported clarification of the original petition, both merits briefs, reply and joint appendix. The actual new-trial order, excluded proffers, admitted evidence, instructions and parties' competing explanations retain their distinct statuses. The joint appendix contains selected trial excerpts; it does not become a complete transcript, and an exhibit's presence there does not establish admission to the jury.
+
+The July 23 order supplied several grounds: a categorical mitigation conclusion for future profits, concerns about the profit evidence and amount, and reconsideration of exclusions concerning future community resistance and regulatory activity. Its rejection of the mitigation objection to sunk investment is distinct. The new-trial direction permitted conditional rebuttal if lost profits were presented again. The Court must examine each material ground under the correct standard, including whether a lawful independent ground sustains the order after a different ground fails. Neither an earlier permissible exclusion nor a later decision to reconsider it is automatically decisive merely because it came first or last.
+
+The actual first-trial exclusions did reach the identified letters, health-and-safety testimony and expert proffer. They did not remove every mitigation or independent-regulatory defense: the citation, stop-work order, nonpayment and failure-to-appeal matters remained available within the jury instructions. The conditional operating approval and environmental waiver did not guarantee unrestricted future operation. Conversely, the disputed residence, traffic and emissions accounts, prospective opposition and proposed occupancy or citizen-review mechanisms establish neither fraud nor an inevitable lawful closure. The court's actual demand for a relevant legal mechanism and adequate evidentiary foundation must be considered alongside the District's later-reconsideration argument and Tri County's deficient-proffer response.
+
+Reasonable mitigation remains a supported-record question. The estimated appeal delay and carrying costs, emergency procedures and uncertainty of expedition are separate evidence, not findings of inevitable success or futility. The profit calculation has identified component evidence and stated weaknesses; neither the jury's smaller award nor a generic speculative-business label alone resolves review. Evidence first introduced at the second trial cannot retroactively support the original order.
+
+Preservation is contested. Respondent's rehearing-only argument is not a judicial waiver finding; the reply's claim that deferential review was requested earlier is not an admitted resolution either. The distinction between a new claim and an additional argument supporting an existing issue must be applied to the supported procedural record. The unexplained rehearing denial supplies no reason by inference.
+
+Lawful supported paths include affirmance if the court of appeals applied proper abuse-of-discretion review and the actual order lacks an independently sustainable ground; or correction and remand if the appellate court displaced a permissible discretionary assessment, used an impermissible categorical review rule, or failed to examine an independent basis. Any threshold disposition must rest on a supported preservation or review-scope ground. These alternatives are analytical possibilities, not commitments. Sustaining the new-trial order does not automatically reinstate the $100 second verdict: respondent's separate second-trial challenges were not reached and require their lawful appellate treatment. Settled procedural liability and rejected substantive-due-process liability remain outside this grant. No new amount or immediate final damages award is supplied by this preparation.
+
+## Remaining dependent update
+
+Urofsky's independent modeling remains held for a fresh neutral update after an effective Denius decision. Its initial legal snapshot supplies no assumed Denius outcome. Tri County's original-record source hold is resolved by the validated final handoff above; it is released for independent modeling on that complete bounded input. Any genuinely new material source gap identified by a proposed path must still be resolved before that commitment is fixed. These are preparation limits, not decisions disposing of the cases.

@@ -1,0 +1,112 @@
+{
+  "status": "Source addition validated; independent modeling may continue after incorporating it",
+  "case": "Urofsky v. Gilmore",
+  "event_date": "2001-02-20",
+  "prepared_at_utc": "2026-11-08T04:31:30.551604+00:00",
+  "district_source": {
+    "url": "https://static.case.law/f-supp/995/html/0634-01.html",
+    "date": "1998-02-26",
+    "html_sha256": "f6c421b79bfc806b275d6846ce279e56425693282d23ddf153df25848ca8df0a",
+    "text_sha256": "d311edae10dc013100f179de416a985844e44d47c7f8192a1ad869f64f8279b1"
+  },
+  "primary_full_read": {
+    "path": "terms/OT2000/sources/chunk2-added/urofsky-district.txt",
+    "characters": 42851,
+    "character_ranges_read": [
+      [
+        0,
+        15000
+      ],
+      [
+        15000,
+        30000
+      ],
+      [
+        30000,
+        42851
+      ]
+    ],
+    "footnotes_read": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "order_read": true,
+    "hashes_match_metadata": true
+  },
+  "crosscheck_scope": "Court-issued en banc text: opening statutory-version and no-denial account, note 9 allegations, and bounded approval/delegation passages. No claim of a new full reread of the en banc opinion.",
+  "original_evidence": "Statements of undisputed facts, declarations, deposition transcripts, and exhibits not independently read; published references retain their status",
+  "inputs": [
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-district.txt",
+      "sha256": "d311edae10dc013100f179de416a985844e44d47c7f8192a1ad869f64f8279b1"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-district.html",
+      "sha256": "f6c421b79bfc806b275d6846ce279e56425693282d23ddf153df25848ca8df0a"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-district-source.json",
+      "sha256": "9721e565ea4350784e7b97f2754bf195507e3bd8d7e9c5469d0268fbd1b69f58"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk2-added/urofsky-981481A.P.pdf.txt",
+      "sha256": "39924ecfc104e9508343d354254c794a28e461c210321f8c6d4a1a841b70c515"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_NEUTRAL_urofsky.md",
+      "sha256": "b2f675f975eab0fb6be3f6a64985c077a0792e1fe148437174998530e604fe73"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_ADDED_FACTS.md",
+      "sha256": "ea41cd626094b056c6bae996bf8377886914f8810518e176a96ea12c00838f08"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_RELEASE.md",
+      "sha256": "268a83b7cf5f966072a31f88bcbac61f7e67bcf941370c8a20bdb3b3eccc9db6"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_urofsky.md",
+      "sha256": "e468834d99248d5723324f0d5de725acbbb5251eb79e1876d6486ffe23e84509"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK2_intervening_public_law.md",
+      "sha256": "19a6f4402f0fe61d6c3c01ab2c076bc2a17085be603a491e50ea880246fb4b91"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_NEUTRAL_DISTRICT_ADDITION.md",
+      "sha256": "660efdcc2a58ec45bade2bd939288c2ebd70462b1904e27954c6646a343e6895"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK2_UROFSKY_INTERVENING_LAW_REVIEW.md",
+      "sha256": "7ecaaeaf08e8a5da312421d140f1336642e006949b8127829dd31506242c9e57"
+    }
+  ],
+  "source_limits": [
+    "District opinion concerns broader original definition; operative 1999 amendment preserved",
+    "No statutory request denial inferred from Smith blocking",
+    "No SUF label treated as concession",
+    "Prompt and blanket approvals retain historical and example-specific scope",
+    "Five nonwork incidents do not establish criminal guilt or adjudicated harassment",
+    "District legal and evaluative conclusions not admitted as facts",
+    "Unrecovered original evidence is not failure of proof"
+  ],
+  "intervening_law": {
+    "events_read": 8,
+    "latest_supplied_effective_date": "2001-01-22",
+    "sha256": "19a6f4402f0fe61d6c3c01ab2c076bc2a17085be603a491e50ea880246fb4b91",
+    "effect": "No material change to the employee-speech baseline or resolution of individual academic freedom; case-specific distinctions in separate review",
+    "denius": "No holding",
+    "same_day_precedence_assumed": false
+  },
+  "existing_inputs_unchanged": true,
+  "votes_modeled": false,
+  "pending": "Model must incorporate source addition before freezing; any later actual applicable law requires preassembly relevance review"
+}

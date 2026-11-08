@@ -1,0 +1,112 @@
+[
+  {
+    "case": "Fiore",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-225.pdf",
+    "pdf": "Fiore.pdf",
+    "pdf_sha256": "353b2876a09ae53480792d85ca85ff9796699572546dcdbcfe139a4c3d46fe73",
+    "text": "Fiore.txt",
+    "text_sha256": "bbcff831e0fc3e3958653e6a582b08e5a09086612625791fd9591c4ad4d57e91",
+    "pages": 5,
+    "characters": 9406
+  },
+  {
+    "case": "Glover",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-198.pdf",
+    "pdf": "Glover.pdf",
+    "pdf_sha256": "2127ff4be275ad662ec7452a06953406ab2b4973c63c6ffc051ebfd8deb2573e",
+    "text": "Glover.txt",
+    "text_sha256": "ed55b23baa5b53e9dcae10d9721d9fc8e0dd3b28d145a9800ae66af262537f86",
+    "pages": 8,
+    "characters": 17491
+  },
+  {
+    "case": "SWANCC",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-159.pdf",
+    "pdf": "SWANCC.pdf",
+    "pdf_sha256": "d4468b9c25f726997f034d92d7d0e131269d88574e1c011e72c3779180797813",
+    "text": "SWANCC.txt",
+    "text_sha256": "cac25c423b12c441ee30a21c7f418ddfb594277c1a88cd1ed1976f5188ecf489",
+    "pages": 39,
+    "characters": 88960
+  },
+  {
+    "case": "Gitlitz",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-206.pdf",
+    "pdf": "Gitlitz.pdf",
+    "pdf_sha256": "e1330e1a8c3d0d5841fe70df865a347b6b07fcf97a0b60b7466c8379e8815cf4",
+    "text": "Gitlitz.txt",
+    "text_sha256": "e96a549ade8b9a2d2fa640529873ae14ab84e611bd9a75ee69181e5055be31cb",
+    "pages": 19,
+    "characters": 42379
+  },
+  {
+    "case": "Lopez",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-230.pdf",
+    "pdf": "Lopez.pdf",
+    "pdf_sha256": "fd8d8e912ddb95d6eae90bb620d411df1ce0ac2dba664ccf6eee4489c04059f4",
+    "text": "Lopez.txt",
+    "text_sha256": "d7095846940aba5d7543b23e3d59503847a11c896c460f26a9eb06e4f10686fa",
+    "pages": 20,
+    "characters": 45724
+  },
+  {
+    "case": "Seling",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-250.pdf",
+    "pdf": "Seling.pdf",
+    "pdf_sha256": "a768cefd4e7a35d5a713d5b6faf3ec458be89ad1a844220adc380d7080760eb4",
+    "text": "Seling.txt",
+    "text_sha256": "942b5e2d0750aa8cbe243c4f1cdcc7525c51762f231bda9d27be91525cb80284",
+    "pages": 28,
+    "characters": 63381
+  },
+  {
+    "case": "City-News",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-278.pdf",
+    "pdf": "City-News.pdf",
+    "pdf_sha256": "83d1f54e48a819590e04d52dc4e5ede294595e605864ecb4e6aeef2474b39fed",
+    "text": "City-News.txt",
+    "text_sha256": "335419d536803cc2ddffc9778a1edadf796278f4b2a06617cfa67e5eec00aa66",
+    "pages": 9,
+    "characters": 20135
+  },
+  {
+    "case": "Tri-County",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-287.pdf",
+    "pdf": "Tri-County.pdf",
+    "pdf_sha256": "a5e4852dc1c98a49091ddefb705d21f30e11cfc69640b1e7c45d64bb696c40b3",
+    "text": "Tri-County.txt",
+    "text_sha256": "38731a4171bf81226a4bab772ed9ba20eb092e24c94dd0aa3ca06d961ebcbd32",
+    "pages": 1,
+    "characters": 918
+  },
+  {
+    "case": "Brentwood",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-288.pdf",
+    "pdf": "Brentwood.pdf",
+    "pdf_sha256": "b482ca6e492cfe75f341783cb214575497495077bd018130bcaf5f1e0bb05b8d",
+    "text": "Brentwood.txt",
+    "text_sha256": "e4675957456c05376b994f0a9b8fa03b7e533a37bec9e02af6c30b64970c89b0",
+    "pages": 28,
+    "characters": 62419
+  },
+  {
+    "case": "McArthur",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-326.pdf",
+    "pdf": "McArthur.pdf",
+    "pdf_sha256": "d28835ca94524bf210e67c2e78cdc3b1b171964eceec2386154ddfea5e3e79fa",
+    "text": "McArthur.txt",
+    "text_sha256": "0e1b0585d69b4414fc802fdda3dcdf80e53c96dbb1888ffdf5a6dae59a597892",
+    "pages": 15,
+    "characters": 31982
+  },
+  {
+    "case": "CoBank",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-316.pdf",
+    "pdf": "CoBank.pdf",
+    "pdf_sha256": "564ec2d0ebe90133524387869ca6e5fc302a1a3e360e00fe54a85bcbd1b9f7fd",
+    "text": "CoBank.txt",
+    "text_sha256": "f5e86f85bbaa2364df0139cd1cc3273098be88432d68d9ff7cdfc59e85d9c2af",
+    "pages": 10,
+    "characters": 21064
+  }
+]

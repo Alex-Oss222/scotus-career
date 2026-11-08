@@ -1,0 +1,12 @@
+{
+  "inventory_rows": 114,
+  "matched_manifest_rows": 114,
+  "status_counts": {
+    "completed": 24,
+    "stopped": 3,
+    "open": 87
+  },
+  "case_list_sha256": "bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118",
+  "adapter": "Only labeled chunk cells and parenthetical date annotations are parsed differently. Original rebuilder handles all status and preservation logic. Source inventory, date-basis metadata and governing tool are unchanged.",
+  "verification": "Every row compared for date, chunk, caption, docket, category, event type and area; full original manifest scheduling cells are preserved by the rebuilder."
+}

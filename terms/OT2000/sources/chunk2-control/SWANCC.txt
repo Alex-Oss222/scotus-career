@@ -1,0 +1,1610 @@
+=== PDF PAGE 1 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+159OCTOBER TERM, 2000
+Syllabus
+SOLID WASTE AGENCY OF NORTHERN COOK
+COUNTY v. UNITED STATES ARMY CORPS
+OF ENGINEERS et al.
+certiorari to the united states court of appeals for
+the seventh circuit
+No. 99–1178. Argued October 31, 2000—Decided January 9, 2001
+Petitioner, a consortium of suburban Chicago municipalities, selected as a
+solid waste disposal site an abandoned sand and gravel pit with excava-
+tion trenches that had evolved into permanent and seasonal ponds. Be-
+cause the operation called for ﬁlling in some of the ponds, petitioner
+contacted federal respondents, including the Army Corps of Engineers
+(Corps), to determine if a landﬁll permit was required under § 404(a) of
+the Clean Water Act (CWA), which authorizes the Corps to issue per-
+mits allowing the discharge of dredged or ﬁll material into “navigable
+waters.” The CWA deﬁnes “navigable waters” as “the waters of the
+United States,” 33 U. S. C. § 1362(7), and the Corps’ regulations deﬁne
+such waters to include intrastate waters, “the use, degradation or de-
+struction of which could affect interstate or foreign commerce,” 33 CFR
+§ 328.3(a)(3). In 1986, the Corps attempted to clarify its jurisdiction,
+stating, in what has been dubbed the “Migratory Bird Rule,” that
+§ 404(a) extends to intrastate waters that, inter alia, provide habitat for
+migratory birds. 51 Fed. Reg. 41217. Asserting jurisdiction over the
+instant site pursuant to that Rule, the Corps refused to issue a § 404(a)
+permit. When petitioner challenged the Corps’ jurisdiction and the
+merits of the permit denial, the District Court granted respondents
+summary judgment on the jurisdictional issue. The Seventh Circuit
+held that Congress has authority under the Commerce Clause to regu-
+late intrastate waters and that the Migratory Bird Rule is a reasonable
+interpretation of the CWA.
+Held: Title 33 CFR § 328.3(a)(3), as clariﬁed and applied to petitioner’s
+site pursuant to the Migratory Bird Rule, exceeds the authority granted
+to respondents under § 404(a) of the CWA. Pp. 166–174.
+(a) In United States v. Riverside Bayview Homes, Inc., 474 U. S. 121,
+this Court held that the Corps had § 404(a) jurisdiction over wetlands
+adjacent to a navigable waterway, noting that the term “navigable” is
+of “limited import” and that Congress evidenced its intent to “regulate
+at least some waters that would not be deemed ‘navigable’ under [that
+term’s] classical understanding,” id., at 133. But that holding was
+based in large measure upon Congress’ unequivocal acquiescence to, and
+
+=== PDF PAGE 2 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+160 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Syllabus
+approval of, the Corps’ regulations interpreting the CWA to cover wet-
+lands adjacent to navigable waters. See id., at 135–139. The Court
+expressed no opinion on the question of the Corps’ authority to reg-
+ulate wetlands not adjacent to open water, and the statute’s text will
+not allow extension of the Corps’ jurisdiction to such wetlands here.
+Pp. 166–168.
+(b) The Corps’ original interpretation of the CWA in its 1974 regula-
+tions—which emphasized that a water body’s capability of use by the
+public for transportation or commerce determines whether it is naviga-
+ble—is inconsistent with that which it espouses here, yet respondents
+present no persuasive evidence that the Corps mistook Congress’ intent
+in 1974. Respondents contend that whatever its original aim, when
+Congress amended the CWA in 1977, it approved the more expansive
+deﬁnition of “navigable waters” found in the Corps’ 1977 regulations.
+Speciﬁcally, respondents submit that Congress’ failure to pass legisla-
+tion that would have overturned the 1977 regulations and the extension
+of the Environmental Protection Agency’s jurisdiction in § 404(g) to in-
+clude waters “other than” traditional “navigable waters” indicates that
+Congress recognized and accepted a broad deﬁnition of “navigable
+waters” that includes nonnavigable, isolated, intrastate waters. This
+Court recognizes congressional acquiescence to administrative interpre-
+tations of a statute with extreme care. Failed legislative proposals are
+a particularly dangerous ground on which to rest an interpretation of a
+prior statute, Central Bank of Denver, N. A. v. First Interstate Bank
+of Denver, N. A., 511 U. S. 164, 187, because a bill can be proposed or
+rejected for any number of reasons. Here, respondents have failed to
+make the necessary showing that Congress’ failure to pass legislation
+demonstrates acquiescence to the 1977 regulations or the 1986 Migra-
+tory Bird Rule. Section 404(g) is equally unenlightening, for it does
+not conclusively determine the construction to be placed on the use of
+the term “waters” elsewhere in the CWA. Riverside Bayview Homes,
+supra, at 138, n. 11. Pp. 168–172.
+(c) Even if § 404(a) were not clear, this Court would not extend defer-
+ence to the Migratory Bird Rule under Chevron U . S. A. Inc. v. Natural
+Resources Defense Council, Inc., 467 U. S. 837. Where an adminis-
+trative interpretation of a statute would raise serious constitutional
+problems, the Court will construe the statute to avoid such problems
+unless the construction is plainly contrary to Congress’ intent. Edward
+J . DeBartolo Corp. v. Florida Gulf Coast Building & Constr. Trades
+Council, 485 U. S. 568, 575. The grant of authority to Congress under
+the Commerce Clause, though broad, is not unlimited. See, e. g., United
+States v. Morrison, 529 U. S. 598. Respondents’ arguments, e. g., that
+the Migratory Bird Rule falls within Congress’ power to regulate intra-
+
+=== PDF PAGE 3 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+161Cite as: 531 U. S. 159 (2001)
+Syllabus
+state activities that substantially affect interstate commerce, raise sig-
+niﬁcant constitutional questions, yet there is nothing approaching a
+clear statement from Congress that it intended § 404(a) to reach an aban-
+doned sand and gravel pit such as the one at issue. Permitting respond-
+ents to claim federal jurisdiction over ponds and mudﬂats falling within
+the Migratory Bird Rule would also result in a signiﬁcant impingement
+of the States’ traditional and primary power over land and water use.
+The Court thus reads the statute as written to avoid such signiﬁcant
+constitutional and federalism questions and rejects the request for ad-
+ministrative deference. Pp. 172–174.
+191 F. 3d 845, reversed.
+Rehnquist, C. J., delivered the opinion of the Court, in which O’C on-
+nor, Scalia, Kennedy, and Thomas, JJ., joined. Stevens, J., ﬁled a
+dissenting opinion, in which Souter, Ginsburg, and Breyer, JJ., joined,
+post, p. 174.
+Timothy S. Bishop argued the cause for petitioner. With
+him on the briefs were Kaspar J . Stoffelmayr, Sharon
+Swingle, and George J . Mannina, Jr.
+Deputy Solicitor General Wallace argued the cause for
+respondents. With him on the brief for the federal respond-
+ents were Solicitor General Waxman, Assistant Attorney
+General Schiffer, Malcolm L. Stewart, and John A. Bryson.
+Myron M. Cherry ﬁled a brief for respondents Village of
+Bartlett et al.*
+*Briefs of amici curiae urging reversal were ﬁled for the State of Ala-
+bama by Bill Pryor, Attorney General, Alice Ann Byrne, Assistant Attor-
+ney General, and Jeffrey S. Sutton; for the American Farm Bureau Feder-
+ation et al. by William G. Myers III; for Arid Operations, Inc., by Charles
+L. Kaiser; for Cargill, Inc., by Leslie G. Landau, Edgar B. Washburn, and
+David M. Ivester; for the Cato Institute et al. by Theodore M. Cooperstein,
+William H. Mellor, Clint Bolick, Scott G. Bullock, Timothy Lynch, Rob-
+e r tA .L e v y ,and Ronald D . Rot unda; for the Center for the Original In-
+tent of the Constitution by Michael P . Farris and Scott W . Somerville; for
+the Chamber of Commerce of the United States by Robert R. Gasaway,
+Jeffrey B. Clark, Daryl Joseffer, and Robin S. Conrad; for the Claremont
+Institute Center for Constitutional Jurisprudence by Edwin Meese III; for
+Defenders of Property Rights by Nancie G. Marzulla; for the National
+Association of Home Builders by Thomas C. Jackson; for the Nationwide
+
+=== PDF PAGE 4 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+162 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Opinion of the Court
+Chief Justice Rehnquist delivered the opinion of the
+Court.
+Section 404(a) of the Clean Water Act (CWA or Act), 86
+Stat. 884, as amended, 33 U. S. C. § 1344(a), regulates the dis-
+charge of dredged or ﬁll material into “navigable waters.”
+The United States Army Corps of Engineers (Corps) has
+interpreted § 404(a) to confer federal authority over an
+abandoned sand and gravel pit in northern Illinois which pro-
+vides habitat for migratory birds. We are asked to decide
+whether the provisions of § 404(a) may be fairly extended to
+these waters, and, if so, whether Congress could exercise
+such authority consistent with the Commerce Clause, U. S.
+Const., Art. I, § 8, cl. 3. We answer the ﬁrst question in the
+negative and therefore do not reach the second.
+Petitioner, the Solid Waste Agency of Northern Cook
+County (SWANCC), is a consortium of 23 suburban Chicago
+Public Projects Coalition et al. by Lawrence R. Liebesman; for the Paciﬁc
+Legal Foundation et al. by Anne M. Hayes and M. Reed Hopper; for the
+Serrano Water District et al. by Virginia S. Albrecht and Stephen J .
+Wenderoth; for the Washington Legal Foundation et al. by Mark A. Perry,
+Daniel J . Popeo, and Paul D. Kamenar; for the U. S. Conference of Mayors
+et al. by Richard Ruda and James I. Crowley; and for James J. Wilson by
+Steven A. Steinbach and Gerald A. Feffer.
+Briefs of amici curiae urging afﬁrmance were ﬁled for the State of
+California et al. by Bill Lockyer, Attorney General of California, Richard
+M. Frank, Chief Assistant Attorney General, J . Matthew Rodriguez, Se-
+nior Assistant Attorney General, Dennis M. Eagan, Supervising Deputy
+Attorney General, and Joseph Barbieri, Deputy Attorney General, and by
+the Attorneys General for their respective States as follows: Thomas J .
+Miller of Iowa, Andrew Ketterer of Maine, John J . Farmer, Jr., of New
+Jersey, W . A. Drew Edmondson of Oklahoma, Hardy Myers of Oregon,
+William H. Sorrell of Vermont, and Christine O. Gregoire of Washington;
+for the Anti-Defamation League et al. by Martin E. Karlinsky, Steven M.
+Freeman, Michael Lieberman, and Elliot M. Mincberg; and for Environ-
+mental Defense et al. by L o u i sR .C o h e nandMichael Bean.
+Briefs of amici curiae were ﬁled for the American Forest & Paper Asso-
+ciation et al. by Russell S. Frye; for the Center for Individual Rights by
+Michael E. Rosman; for the National Stone Association by Kurt E. Blase;
+and for Dr. Gene Likens et al. by Michael Bean.
+
+=== PDF PAGE 5 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+163Cite as: 531 U. S. 159 (2001)
+Opinion of the Court
+cities and villages that united in an effort to locate and de-
+velop a disposal site for baled nonhazardous solid waste.
+The Chicago Gravel Company informed the municipalities of
+the availability of a 533-acre parcel, bestriding the Illinois
+counties Cook and Kane, which had been the site of a sand
+and gravel pit mining operation for three decades up until
+about 1960. Long since abandoned, the old mining site
+eventually gave way to a successional stage forest, with its
+remnant excavation trenches evolving into a scattering of
+permanent and seasonal ponds of varying size (from under
+one-tenth of an acre to several acres) and depth (from several
+inches to several feet).
+The municipalities decided to purchase the site for disposal
+of their baled nonhazardous solid waste. By law, SWANCC
+was required to ﬁle for various permits from Cook County
+and the State of Illi nois before it could begin operation of its
+baleﬁll project. In addition, because the operation called for
+the ﬁlling of some of the permanent and seasonal ponds,
+SWANCC contacted federal respondents (hereinafter re-
+spondents), including the Corps, to determine if a federal
+landﬁll permit was required under § 404(a) of the CWA, 33
+U. S. C. § 1344(a).
+Section 404(a) grants the Corps authority to issue permits
+“for the discharge of dredged or ﬁll material into the naviga-
+ble waters at speciﬁed disposal sites.” Ibid. The term
+“navigable waters” is deﬁned under the Act as “the waters of
+the United States, including the territorial seas.” § 1362(7).
+The Corps has issued regulations deﬁning the term “waters
+of the United States” to include
+“waters such as intrastate lakes, rivers, streams (includ-
+ing intermittent streams), mudﬂats, sandﬂats, wetlands,
+sloughs, prairie potholes, wet meadows, playa lakes, or
+natural ponds, the use, degradation or destruction of
+which could affect interstate or foreign commerc e.... ”
+33 CFR § 328.3(a)(3) (1999).
+
+=== PDF PAGE 6 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+164 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Opinion of the Court
+In 1986, in an attempt to “clarify” the reach of its jurisdic-
+tion, the Corps stated that § 404(a) extends to instrastate
+waters:
+“a. Which are or would be used as habitat by birds
+protected by Migratory Bird Treaties; or
+“b. Which are or would be used as habitat by other
+migratory birds which cross state lines; or
+“c. Which are or would be used as habitat for endan-
+gered species; or
+“d. Used to irrigate crops sold in interstate commerce.”
+51 Fed. Reg. 41217.
+This last promulgation has been dubbed the “Migratory
+Bird Rule.” 1
+The Corps initially concluded that it had no jurisdiction
+over the site because it contained no “wetlands,” or areas
+which support “vegetation typically adapted for life in satu-
+rated soil conditions,” 33 CFR § 328.3(b) (1999). However,
+after the Illinois Nature Preserves Commission informed the
+Corps that a number of migratory bird species had been ob-
+served at the site, the Corps reconsidered and ultimately as-
+serted jurisdiction over the baleﬁll site pursuant to subpart
+(b) of the “Migratory Bird Rule.” The Corps found that ap-
+proximately 121 bird species had been observed at the site,
+including several known to depend upon aquatic environ-
+ments for a signiﬁcant portion of their life requirements.
+Thus, on November 16, 1987, the Corps formally “determined
+that the seasonally ponded, abandoned gravel mining depres-
+sions located on the project site, while not wetlands, did qual-
+ify as ‘waters of the United States’ . . . based upon the follow-
+ing criteria: (1) the proposed site had been abandoned as a
+gravel mining operation; (2) the water areas and spoil piles
+had developed a natural character; and (3) the water areas
+1 The Corps issued the “Migratory Bird Rule” without following the no-
+tice and comment procedures outlined in the Administrative Procedure
+Act, 5 U. S. C. § 553.
+
+=== PDF PAGE 7 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+165Cite as: 531 U. S. 159 (2001)
+Opinion of the Court
+are used as habitat by migratory bird [sic] which cross state
+lines.” U. S. Army Corps of Engineers, Chicago District,
+Dept. of Army Permit Evaluation and Decision Document,
+Lodging of Petitioner, Tab No. 1, p. 6.
+During the application process, SWANCC made several
+proposals to mitigate the likely displacement of the migra-
+tory birds and to preserve a great blue heron rookery located
+on the site. Its baleﬁll project ultimately received the nec-
+essary local and state approval. By 1993, SWANCC had re-
+ceived a special use planned development permit from the
+Cook County Board of Appeals, a landﬁll development per-
+mit from the Illinois Environmental Protection Agency, and
+approval from the Illinois Department of Conservation.
+Despite SWANCC’s securing the required water qual-
+ity certiﬁcation from the Illinois Environmental Protection
+Agency, the Corps refused to issue a § 404(a) permit. The
+Corps found that SWANCC had not established that its pro-
+posal was the “least environmentally damaging, most practi-
+cable alternative” for disposal of nonhazardous solid waste;
+that SWANCC’s failure to set aside sufﬁcient funds to reme-
+diate leaks posed an “unacceptable risk to the public’s drink-
+ing water supply”; and that the impact of the project upon
+area-sensitive species was “unmitigatable since a landﬁll sur-
+face cannot be redeveloped into a forested habitat.” Id.,
+at 87.
+Petitioner ﬁled suit under the Administrative Procedure
+A c t ,5U .S .C .§7 0 1et seq., in the Northern District of Illinois
+challenging both the Corps’ jurisdiction over the site and the
+merits of its denial of the § 404(a) permit. The District
+Court granted summary judgment to respondents on the ju-
+risdictional issue, and petitioner abandoned its challenge to
+the Corps’ permit decision. On appeal to the Court of Ap-
+peals for the Seventh Circuit, petitioner renewed its attack
+on respondents’ use of the “Migratory Bird Rule” to assert
+jurisdiction over the site. Petitioner argued that respond-
+ents had exceeded their statutory authority in interpreting
+
+=== PDF PAGE 8 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+166 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Opinion of the Court
+the CWA to cover nonnavigable, isolated, intrastate waters
+based upon the presence of migratory birds and, in the alter-
+native, that Congress lacked the power under the Commerce
+Clause to grant such regulatory jurisdiction.
+The Court of Appeals began its analysis with the constitu-
+tional question, holding that Congress has the authority to
+regulate such waters based upon “the cumulative impact
+doctrine, under which a single activity that itself has no dis-
+cernible effect on interstate commerce may still be regulated
+if the aggregate effect of that class of activity has a substan-
+tial impact on interstate commerce.” 191 F. 3d 845, 850
+(CA7 1999). The aggregate effect of the “destruction of the
+natural habitat of migratory birds” on interstate commerce,
+the court held, was substantial because each year m illions of
+Americans cross state lines and spend over a b illion dollars
+to hunt and observe migratory birds. 2 Ibid. The Court of
+Appeals then turned to the regulatory question. The court
+held that the CWA reaches as many waters as the Commerce
+Clause allows and, given its earlier Commerce Clause ruling,
+it therefore followed that respondents’ “Migratory Bird
+Rule” was a reasonable interpretation of the Act. See id.,
+at 851–852.
+We granted certiorari, 529 U. S. 1129 (2000), and now
+reverse.
+Congress passed the CWA for the stated purpose of
+“restor[ing] and maintain[ing] the chemical, physical, and
+biological integrity of the Nation’s waters.” 33 U. S. C.
+§ 1251(a). In so doing, Congress chose to “recognize, pre-
+serve, and protect the primary responsibilities and rights of
+2 Relying upon its earlier decision in Hoffman Homes, Inc. v. EP A,999
+F. 2d 256 (CA7 1993), and a report from the United States Census Bureau,
+the Court of Appeals found that in 1996 approximately 3.1 million Ameri-
+cans spent $1.3 billion to hunt migratory birds (with 11 percent crossing
+state lines to do so) as another 17.7 million Americans observed migratory
+birds (with 9.5 million traveling for the purpose of observing shorebirds).
+See 191 F. 3d, at 850.
+
+=== PDF PAGE 9 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+167Cite as: 531 U. S. 159 (2001)
+Opinion of the Court
+States to prevent, reduce, and eliminate pollution, to plan
+the development and use (including restoration, preserva-
+tion, and enhancement) of land and water resources, and to
+consult with the Administrator in the exercise of his author-
+ity under this chapter.” § 1251(b). Relevant here, § 404(a)
+authorizes respondents to regulate the discharge of ﬁll mate-
+rial into “navigable waters,” 33 U. S. C. § 1344(a), which the
+statute deﬁnes as “the waters of the United States, including
+the territorial seas,” § 1362(7). Respondents have inter-
+preted these words to cover the abandoned gravel pit at
+issue here because it is used as habitat for migratory birds.
+We conclude that the “Migratory Bird Rule” is not fairly sup-
+ported by the CWA.
+This is not the ﬁrst time we have been called upon to eval-
+uate the meaning of § 404(a). In United States v. Riverside
+Bayview Homes, Inc., 474 U. S. 121 (1985), we held that the
+Corps had § 404(a) jurisdiction over wetlands that actually
+abutted on a navigable waterway. In so doing, we noted
+that the term “navigable” is of “limited import” and that
+Congress evidenced its intent to “regulate at least some wa-
+ters that would not be deemed ‘navigable’ under the classical
+understanding of that term.” Id., at 133. But our holding
+was based in large measure upon Congress’ unequivocal ac-
+quiescence to, and approval of, the Corps’ regulations inter-
+preting the CWA to cover wetlands adjacent to navigable
+waters. See id., at 135–139. We found that Congress’ con-
+cern for the protection of water quality and aquatic ecosys-
+tems indicated its intent to regulate wetlands “inseparably
+bound up with the ‘waters’ of the United States.” Id., at
+134.
+It was the signiﬁcant nexus between the wetlands and
+“navigable waters” that informed our reading of the CWA in
+Riverside Bayview Homes. Indeed, we did not “express
+any opinion” on the “question of the authority of the Corps
+to regulate discharges of ﬁll material into wetlands that are
+not adjacent to bodies of open water.... ” Id., at 131–132,
+
+=== PDF PAGE 10 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+168 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Opinion of the Court
+n. 8. In order to rule for respondents here, we would have
+to hold that the jurisdiction of the Corps extends to ponds
+that are not adjacent to open water. But we conclude that
+the text of the statute will not allow this.
+Indeed, the Corps’ original interpretation of the CWA,
+promulgated two years after its enactment, is inconsistent
+with that which it espouses here. Its 1974 regulations de-
+ﬁned § 404(a)’s “navigable waters” to mean “those waters of
+the United States which are subject to the ebb and ﬂow of
+the tide, and/or are presently, or have been in the past, or
+may be in the future susceptible for use for purposes of inter-
+state or foreign commerce.” 33 CFR § 209.120(d)(1). The
+Corps emphasized that “[i]t is the water body’s capability of
+use by the public for purposes of transportation or commerce
+which is the determinative factor.” § 209.260(e)(1). Re-
+spondents put forward no persuasive evidence that the
+Corps mistook Congress’ intent in 1974. 3
+Respondents next contend that whatever its original aim
+in 1972, Congress charted a new course ﬁve years later when
+it approved the more expansive deﬁnition of “navigable wa-
+ters” found in the Corps’ 1977 regulations. In July 1977, the
+Corps formally adopted 33 CFR § 323.2(a)(5) (1978), which
+deﬁned “waters of the United States” to include “isolated
+wetlands and lakes, intermittent streams, prairie potholes,
+and other waters that are not part of a tributary system to
+interstate waters or to navigable waters of the United
+States, the degradation or destruction of which could affect
+3 Respondents refer us to portions of the legislative history that they
+believe indicate Congress’ intent to expand the deﬁnition of “navigable
+waters.” Although the Conference Report includes the statement that
+the conferees “intend that the term ‘navigable waters’ be given the broad-
+est possible constitutional interpretation,” S. Conf. Rep. No. 92–1236,
+p. 144 (1972), neither this, nor anything else in the legislative history to
+which respondents point, signiﬁes that Congress intended to exert any-
+thing more than its commerce power over navigation. Indeed, respond-
+ents admit that the legislative history is somewhat ambiguous. See Brief
+for Federal Respondents 24.
+
+=== PDF PAGE 11 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+169Cite as: 531 U. S. 159 (2001)
+Opinion of the Court
+interstate commerce.” Respondents argue that Congress
+was aware of this more expansive interpretation during its
+1977 amendments to the CWA. Speciﬁcally, respondents
+point to a failed House bill, H. R. 3199, that would have de-
+ﬁned “navigable waters” as “all waters which are presently
+used, or are susceptible to use in their natural condition or
+by reasonable improvement as a means to transport inter-
+state or foreign commerce.” 123 Cong. Rec. 10420, 10434
+(1977).4 They also point to the passage in § 404(g)(1) that
+authorizes a State to apply to the Environmental Protection
+Agency for permission “to administer its own individual and
+general permit program for the discharge of dredged or ﬁll
+material into the navigable waters (other than those waters
+which are presently used, or are susceptible to use in their
+natural condition or by reasonable improvement as a means
+to transport interstate or foreign commerce . . . , including
+wetlands adjacent thereto) within its jurisdiction . . . .” 33
+U. S. C. § 1344(g)(1). The failure to pass legislation that
+would have overturned the Corps’ 1977 regulations and the
+extension of jurisdiction in § 404(g) to waters “other than”
+traditional “navigable waters,” respondents submit, indicate
+that Congress recognized and accepted a broad deﬁnition of
+“navigable waters” that includes nonnavigable, isolated, in-
+trastate waters.
+Although we have recognized congressional acquiescence
+to administrative interpretations of a statute in some situa-
+tions, we have done so with extreme care. 5 “[F]ailed legis-
+4 While this bill passed in the House, a similarly worded amendment to
+a bill originating in the Senate, S. 1952, failed. See 123 Cong. Rec. 26710,
+26728 (1977).
+5 In Bob Jones Univ. v. United States, 461 U. S. 574, 595, 600–601 (1983),
+for example, we upheld an Internal Revenue Service (IRS) Revenue Rul-
+ing that revoked the tax-exempt status of private schools practicing racial
+discrimination because the IRS’ interpretation of the relevant statutes
+was “correct”; because Congress had held “hearings on this precise issue,”
+making it “hardly conceivable that Congress—and in this setting, any
+Member of Congress—was not abundantly aware of what was going on”;
+
+=== PDF PAGE 12 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+170 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Opinion of the Court
+lative proposals are ‘a particularly dangerous ground on
+which to rest an interpretation of a prior statute.’ ” Central
+Bank of Denver, N. A. v. First Interstate Bank of Denver,
+N. A., 511 U. S. 164, 187 (1994) (quoting Pension Beneﬁt
+Guaranty Corporation v. LT V Co r p., 496 U. S. 633, 650
+(1990)). A bill can be proposed for any number of reasons,
+and it can be rejected for just as many others. The relation-
+ship between the actions and inactions of the 95th Congress
+and the intent of the 92d Congress in passing § 404(a) is
+also considerably attenuated. Because “subsequent history
+is less illuminating than the contemporaneous evidence,”
+Hagen v. Utah, 510 U. S. 399, 420 (1994), respondents face
+a difﬁcult task in overcoming the plain text and import of
+§ 404(a).
+We conclude that respondents have failed to make the nec-
+essary showing that the failure of the 1977 House bill demon-
+strates Congress’ acquiescence to the Corps’ regulations or
+the “Migratory Bird Rule,” which, of course, did not ﬁrst
+appear until 1986. Although respondents cite some legisla-
+tive history showing Congress’ recognition of the Corps’ as-
+sertion of jurisdiction over “isolated waters,” 6 as we ex-
+plained in Riverside Bayview Homes, “[i]n both Chambers,
+debate on the proposals to narrow the deﬁnition of navigable
+waters centered largely on the issue of wetlands preserva-
+tion.” 474 U. S., at 136. Beyond Congress’ desire to regu-
+and because “no fewer than 13 bills introduced to overturn the IRS inter-
+pretation” had failed. Absent such overwhelming evidence of acquies-
+cence, we are loath to replace the plain text and original understanding of
+a statute with an amended agency interpretation. See Consumer Prod-
+uct Safety Comm’n v. GTE Sylvania, Inc., 447 U. S. 102, 118, n. 13 (1980)
+(“[E]ven when it would otherwise be useful, subsequent legislative history
+will rarely override a reasonable interpretation of a statute that can be
+gleaned from its language and legislative history prior to its enactment”).
+6 Respondents cite, for example, the Senate Report on S. 1952, which
+referred to the Corps’ “isolated waters” regulation. See S. Rep. No. 95–
+370, p. 75 (1977). However, the same report reiterated that “[t]he com-
+mittee amendment does not redeﬁne navigable waters.” Ibid.
+
+=== PDF PAGE 13 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+171Cite as: 531 U. S. 159 (2001)
+Opinion of the Court
+late wetlands adjacent to “navigable waters,” respondents
+point us to no persuasive evidence that the House bill was
+proposed in response to the Corps’ claim of jurisdiction over
+nonnavigable, isolated, intrastate waters or that its failure
+indicated congressional acquiescence to such jurisdiction.
+Section 404(g) is equally unenlightening. In Riverside
+Bayview Homes we recognized that Congress intended the
+phrase “navigable waters” to include “at least some waters
+that would not be deemed ‘navigable’ under the classical un-
+derstanding of that term.” Id., at 133. But § 404(g) gives
+no intimation of what those waters might be; it simply refers
+to them as “other...waters.” Respondents conjecture that
+“other . . . waters” must incorporate the Corps’ 1977 regula-
+tions, but it is also plausible, as petitioner contends, that
+Congress simply wanted to include all waters adjacent to
+“navigable waters,” such as nonnavigable tributaries and
+streams. The exact meaning of § 404(g) is not before us and
+we express no opinion on it, but for present purposes it is
+sufﬁcient to say, as we did in Riverside Bayview Homes, that
+“§ 404(g)(1) does not conclusively determine the construction
+to be placed on the use of the term ‘waters’ elsewhere in
+the Act (particularly in § 502(7), which contains the relevant
+deﬁnition of ‘navigable waters’) .... ” Id., at 138, n. 11. 7
+We thus decline respondents’ invitation to take what they
+see as the next ineluctable step after Riverside Bayview
+Homes: holding that isolated ponds, some only seasonal,
+wholly located within two Illinois counties, fall under
+§ 404(a)’s deﬁnition of “navigable waters” because they serve
+7 Respondents also make a passing reference to Congress’ decision in
+1977 to exempt certain types of discharges from § 404(a), including, for
+example, “discharge of dredged or ﬁll material . . . for the purpose of
+construction or maintenance of farm or stock ponds or irrigation ditches,
+or the maintenance of drainage ditches.” § 67, 91 Stat. 1600, 33 U. S. C.
+§ 1344(f)(C). As § 404(a) only regulates dredged or ﬁll material that is
+discharged “into navigable waters,” Congress’ decision to exempt certain
+types of these discharges does not affect, much less address, the deﬁnition
+of “navigable waters.”
+
+=== PDF PAGE 14 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+172 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Opinion of the Court
+as habitat for migratory birds. As counsel for respondents
+conceded at oral argument, such a ruling would assume that
+“the use of the word navigable in the statute . . . does not
+have any independent signiﬁcance.” Tr. of Oral Arg. 28.
+We cannot agree that Congress’ separate deﬁnitional use of
+the phrase “waters of the United States” constitutes a basis
+for reading the term “navigable waters” out of the statute.
+We said in Riverside Bayview Homes that the word “naviga-
+ble” in the statute was of “limited import,” 474 U. S., at 133,
+and went on to hold that § 404(a) extended to nonnavigable
+wetlands adjacent to open waters. But it is one thing to
+give a word limited effect and quite another to give it no
+effect whatever. The term “navigable” has at least the im-
+port of showing us what Congress had in mind as its author-
+ity for enacting the CWA: its traditional jurisdiction over
+waters that were or had been navigable in fact or which
+could reasonably be so made. See, e. g., United States v.
+Appalachian Elec. Power Co., 311 U. S. 377, 407–408 (1940).
+Respondents—relying upon all of the arguments ad-
+dressed above—contend that, at the very least, it must be
+said that Congress did not address the precise question of
+§ 404(a)’s scope with regard to nonnavigable, isolated, intra-
+state waters, and that, therefore, we should give deference
+to the “Migratory Bird Rule.” See, e. g., Chevron U . S. A.
+Inc. v. Natural Resources Defense Council, Inc., 467 U. S.
+837 (1984). We ﬁnd § 404(a) to be clear, but even were we
+to agree with respondents, we would not extend Chevron
+deference here.
+Where an administrative interpretation of a statute in-
+vokes the outer limits of Congress’ power, we expect a clear
+indication that Congress intended that result. See Edward
+J . DeBartolo Corp. v. Florida Gulf Coast Building & Constr.
+Trades Council, 485 U. S. 568, 575 (1988). This requirement
+stems from our prudential desire not to needlessly reach con-
+stitutional issues and our assumption that Congress does not
+casually authorize administrative agencies to interpret a
+
+=== PDF PAGE 15 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+173Cite as: 531 U. S. 159 (2001)
+Opinion of the Court
+statute to push the limit of congressional authority. See
+ibid. This concern is heightened where the administrative
+interpretation alters the federal-state framework by permit-
+ting federal encroachment upon a traditional state power.
+See United States v. Bass, 404 U. S. 336, 349 (1971) (“[U]nless
+Congress conveys its purpose clearly, it will not be deemed
+to have signiﬁcantly changed the federal-state balance”).
+Thus, “where an otherwise acceptable construction of a stat-
+ute would raise serious constitutional problems, the Court
+will construe the statute to avoid such problems unless such
+construction is plainly contrary to the intent of Congress.”
+DeBartolo, supra, at 575.
+Twice in the past six years we have reafﬁrmed the proposi-
+tion that the grant of authority to Congress under the Com-
+merce Clause, though broad, is not unlimited. See United
+States v. Morrison, 529 U. S. 598 (2000); United States v.
+Lopez, 514 U. S. 549 (1995). Respondents argue that the
+“Migratory Bird Rule” falls within Congress’ power to regu-
+late intrastate activities that “substantially affect” interstate
+commerce. They note that the protection of migratory birds
+is a “national interest of very nearly the ﬁrst magnitude,”
+Missouri v. Holland, 252 U. S. 416, 435 (1920), and that, as
+the Court of Appeals found, millions of people spend over a
+billion dollars annually on recreational pursuits relating to
+migratory birds. These arguments raise signiﬁcant consti-
+tutional questions. For example, we would have to evaluate
+the precise object or activity that, in the aggregate, substan-
+tially affects interstate commerce. This is not clear, for al-
+though the Corps has claimed jurisdiction over petitioner’s
+land because it contains water areas used as habitat by mi-
+gratory birds, respondents now, post litem motam, focus
+upon the fact that the regulated activity is petitioner’s mu-
+nicipal landﬁll, which is “plainly of a commercial nature.”
+Brief for Federal Respondents 43. But this is a far cry, in-
+deed, from the “navigable waters” and “waters of the United
+States” to which the statute by its terms extends.
+
+=== PDF PAGE 16 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+174 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+These are signiﬁcant constitutional questions raised by re-
+spondents’ application of their regulations, and yet we ﬁnd
+nothing approaching a clear statement from Congress that it
+intended § 404(a) to reach an abandoned sand and gravel pit
+such as we have here. Permitting respondents to claim fed-
+eral jurisdiction over ponds and mudﬂats fa lling within the
+“Migratory Bird Rule” would result in a signiﬁcant impinge-
+ment of the States’ traditional and primary power over land
+and water use. See, e. g., Hess v. Port Authority Trans-
+Hudson Corporation, 513 U. S. 30, 44 (1994) (“[R]egulation
+of land use [is] a function traditionally performed by local
+governments”). Rather than expressing a desire to readjust
+the federal-state balance in this manner, Congress chose to
+“recognize, preserve, and protect the primary responsibil-
+ities and rights of States...t o plan the development and
+use . . . of land and water resources . . . .” 33 U. S. C.
+§ 1251(b). We thus read the statute as written to avoid the
+signiﬁcant constitutional and federalism questions raised by
+respondents’ interpretation, and therefore reject the request
+for administrative deference. 8
+We hold that 33 CFR § 328.3(a)(3) (1999), as clariﬁed and
+applied to petitioner’s baleﬁll site pursuant to the “Migratory
+Bird Rule,” 51 Fed. Reg. 41217 (1986), exceeds the authority
+granted to respondents under § 404(a) of the CWA. The
+judgment of the Court of Appeals for the Seventh Circuit
+is therefore
+Reversed.
+Justice Stevens, with whom Justice Souter, Justice
+Ginsburg, and Justice Breyer join, dissenting.
+In 1969, the Cuyahoga River in Cleveland, Ohio, coated
+with a slick of industrial waste, caught ﬁre. Congress re-
+8 Because violations of the CWA carry criminal penalties, see 33 U. S. C.
+§ 1319(c)(2), petitioner invokes the rule of lenity as another basis for reject-
+ing the Corps’ interpretation of the CWA. Brief for Petitioner 31–32.
+We need not address this alternative argument. See United States v.
+Shabani, 513 U. S. 10, 17 (1994).
+
+=== PDF PAGE 17 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+175Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+sponded to that dramatic event, and to others like it, by
+enacting the Federal Water Pollution Control Act (FWPCA)
+Amendments of 1972, 86 Stat. 817, as amended, 33 U. S. C.
+§ 1251 et seq., commonly known as the Clean Water Act
+(Clean Water Act, CWA, or Act). 1 The Act proclaimed the
+ambitious goal of ending water pollution by 1985. § 1251(a).
+The Court’s past interpretations of the CWA have been fully
+consistent with that goal. Although Congress’ vision of zero
+pollution remains unfulﬁlled, its pursuit has unquestionably
+retarded the destruction of the aquatic environment. Our
+Nation’s waters no longer burn. Today, however, the Court
+takes an unfortunate step that needlessly weakens our prin-
+cipal safeguard against toxic water.
+It is fair to characterize the Clean Water Act as “wa-
+tershed” legislation. The statute endorsed fundamental
+changes in both the purpose and the scope of federal reg-
+ulation of the Nation’s waters. In § 13 of the Rivers and
+Harbors Appropriation Act of 1899 (RHA), 30 Stat. 1152,
+as amended, 33 U. S. C. § 407, Congress had assigned to
+the Army Corps of Engineers (Corps) the mission of regu-
+lating discharges into certain waters in order to protect
+their use as highways for the transportation of interstate
+and foreign commerce; the scope of the Corps’ jurisdiction
+under the RHA accordingly extended only to waters that
+were “navigable.” In the CWA, however, Congress broad-
+ened the Corps’ mission to include the purpose of protecting
+the quality of our Nation’s waters for esthetic, health, rec-
+reational, and environmental uses. The scope of its juris-
+diction was therefore redeﬁned to encompass all of “the
+waters of the United States, including the territorial seas.”
+§ 1362(7). That deﬁnition requires neither actual nor poten-
+tial navigability.
+The Court has previously held that the Corps’ broadened
+jurisdiction under the CWA properly included an 80-acre
+1 See R. Adler, J. Landman, & D. Cameron, The Clean Water Act: 20
+Years Later 5–10 (1993).
+
+=== PDF PAGE 18 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+176 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+parcel of low-lying marshy land that was not itself navigable,
+directly adjacent to navigable water, or even hydrologically
+connected to navigable water, but which was part of a larger
+area, characterized by poor drainage, that ultimately abutted
+a navigable creek. United States v. Riverside Bayview
+Homes, Inc., 474 U. S. 121 (1985). 2 Our broad ﬁnding in
+Riverside Bayview that the 1977 Congress had acquiesced
+in the Corps’ understanding of its jurisdiction applies equally
+to the 410-acre parcel at issue here. Moreover, once Con-
+gress crossed the legal watershed that separates navigable
+streams of commerce from marshes and inland lakes, there
+is no principled reason for limiting the statute’s protection
+to those waters or wetlands that happen to lie near a naviga-
+ble stream.
+In its decision today, the Court draws a new jurisdictional
+line, one that invalidates the 1986 migratory bird regulation
+as well as the Corps’ assertion of jurisdiction over all waters
+2 See also App. to Pet. for Cert. 25a, and Brief for United States 8,
+n. 7, in Riverside Bayview, O. T. 1984, No. 84–701. The District Court in
+Riverside Bayview found that there was no direct “hydrological” connec-
+tion between the parcel at issue and any nearby navigable waters. App.
+to Pet. for Cert. in Riverside Bayview 25a. The wetlands characteristics
+of the parcel were due, not to a surface or groundwater connection to any
+actually navigable water, but to “poor drainage” resulting from “the Lam-
+son soil that underlay the property.” Brief for Respondent in Riverside
+Bayview 7. Nevertheless, this Court found occasional surface runoff from
+the property into nearby waters to constitute a meaningful connection.
+Riverside Bayview, 474 U. S., at 134; Brief for United States in Riverside
+Bayview 8, n. 7. Of course, the ecological connection between the wet-
+lands and the nearby waters also played a central role in this Court’s
+decision. Riverside Bayview, 474 U. S., at 134–135. Both types of con-
+nection are also present in many, and possibly most, “isolated” waters.
+Brief for Dr. Gene Likens et al. as Amici Curiae 6–22. Indeed, although
+the majority and petitioner both refer to the waters on petitioner’s site as
+“isolated,” ante, at 172; Brief for Petitioner 11, their role as habitat for
+migratory birds, birds that serve important functions in the ecosystems
+of other waters throughout North America, suggests that—ecologically
+speaking—the waters at issue in this case are anything but isolated.
+
+=== PDF PAGE 19 ===
+531US1 Unit: $U10 [04-16-02 07:30:58] PAGES PGT: OPIN
+177Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+except for actually navigable waters, their tributaries, and
+wetlands adjacent to each. Its holding rests on two equally
+untenable premises: (1) that when Congress passed the 1972
+CWA, it did not intend “to exert anything more than its com-
+merce power over navigation,” ante, at 168, n. 3; and (2) that
+in 1972 Congress drew the boundary deﬁning the Corps’ ju-
+risdiction at the odd line on which the Court today settles.
+As I shall explain, the text of the 1972 amendments affords
+no support for the Court’s holding, and amendments Con-
+gress adopted in 1977 do support the Corps’ present inter-
+pretation of its mission as extending to so-called “isolated”
+waters. Indeed, simple common sense cuts against the par-
+ticular deﬁnition of the Corps’ jurisdiction favored by the
+majority.
+I
+The signiﬁcance of the FWPCA Amendments of 1972 is
+illuminated by a reference to the history of federal water
+regulation, a history that the majority largely ignores. Fed-
+eral regulation of the Nation’s waters began in the 19th cen-
+tury with efforts targeted exclusively at “promot[ing] water
+transportation and commerce.” Kalen, Commerce to Con-
+servation: The Call for a National Water Policy and the Evo-
+lution of Federal Jurisdiction Over Wetlands, 69 N. D. L. Rev.
+873, 877 (1993). This goal was pursued through the various
+Rivers and Harbors Acts, the most comprehensive of which
+was the RHA of 1899. 3 Section 13 of the 1899 RHA, com-
+monly known as the Refuse Act, prohibited the discharge of
+“refuse” into any “navigable water” or its tributaries, as well
+as the deposit of “refuse” on the bank of a navigable water
+“whereby navigation shall or may be impeded or obstructed”
+without ﬁrst obtaining a permit from the Secretary of the
+Army. 30 Stat. 1152.
+3 See also Rivers and Harbors Appropriations Act of 1896, 29 Stat. 234;
+River and Harbor Act of 1894, 28 Stat. 363; River and Harbor Appropria-
+tions Act of 1890, 26 Stat. 426; The River and Harbor Appropriations Act
+of 1886, 24 Stat. 329.
+
+=== PDF PAGE 20 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+178 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+During the middle of the 20th century, the goals of federal
+water regulation began to shift away from an exclusive focus
+on protecting navigability and toward a concern for prevent-
+ing environmental degradation. Kalen, 69 N. D. L. Rev., at
+877–879, and n. 30. This awakening of interest in the use
+of federal power to protect the aquatic environment was
+helped along by efforts to reinterpret § 13 of the RHA in
+order to apply its permit requirement to industrial dis-
+charges into navigable waters, even when such discharges
+did nothing to impede navigability. See, e. g., United States
+v. Republic Steel Corp., 362 U. S. 482, 490–491 (1960) (noting
+that the term “refuse” in § 13 was broad enough to include
+industrial waste).4 Seeds of this nascent concern with pollu-
+tion control can also be found in the FWPCA, which was
+ﬁrst enacted in 1948 and then incrementally expanded in the
+following years. 5
+4 In 1970, the House Committee on Government Operations followed the
+Court’s lead and advocated the use of § 13 as a pollution control provision.
+H. R. Rep. No. 91–917, pp. 14–18 (1970). President Nixon responded by
+issuing Executive Order No. 11574, 35 Fed. Reg. 19627 (1970) (revoked by
+Exec. Order No. 12553, 51 Fed. Reg. 7237 (1986)), which created the Refuse
+Act Permit Program. Power, The Fox in the Chicken Coop: The Regula-
+tory Program of the U. S. Army Corps of Engineers, 63 Va. L. Rev. 503,
+512 (1977) (hereinafter Power). The program ended soon after it started,
+however, when a District Court, reading the language of § 13 literally, held
+the permit program invalid. Ibid.; see Kalur v. Resor, 335 F. Supp. 1, 9
+(DC 1971).
+5 The FWPCA of 1948 applied only to “interstate waters.” § 10(e), 62
+Stat. 1161. Subsequently, it was harmonized with the Rivers and Harbors
+Act such that—like the earlier statute—the FWPCA deﬁned its jurisdic-
+tion with reference to “navigable waters.” Pub. L. 89–753, § 211, 80 Stat.
+1252. None of these early versions of the FWPCA could fairly be de-
+scribed as establishing a comprehensive approach to the problem, but they
+did contain within themselves several of the elements that would later be
+employed in the CWA. Milwaukee v. Illinois, 451 U. S. 304, 318, n. 10
+(1981) (Rehnquist, J.) (Congress intended to do something “quite differ-
+ent” in the 1972 Act); 2 W. Rodgers, Environmental Law: Air and Water
+§ 4.1, pp. 10–11 (1986) (describing the early versions of the FWPCA).
+
+=== PDF PAGE 21 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+179Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+The shift in the focus of federal water regulation from
+protecting navigability toward environmental protection
+reached a dramatic climax in 1972, with the passage of the
+CWA. The Act, which was passed as an amendment to the
+existing FWPCA, was universally described by its support-
+ers as the ﬁrst truly comprehensive federal water pollution
+legislation. The “major purpose” of the CWA was “to estab-
+lish a comprehensive long-range policy for the elimination of
+water pollution.” S. Rep. No. 92–414, p. 95 (1971), 2 Legisla-
+tive History of the Water Pollution Control Act Amendments
+of 1972 (Committee Print compiled for the Senate Committee
+on Public Works by the Library of Congress), Ser. No. 93–1,
+p. 1511 (1971) (hereinafter Leg. Hist.) (emphasis added).
+And “[n]o Congressman’s remarks on the legislation were
+complete without reference to [its] ‘comprehensive’ na-
+ture . . . .” Milwaukee v. Illinois, 451 U. S. 304, 318 (1981)
+(Rehnquist, J.). A House sponsor described the bill as “the
+most comprehensive and far-reaching water pollution bill we
+have ever drafted,” 1 Leg. Hist. 369 (Rep. Mizell), and Sena-
+tor Randolph, Chairman of the Committee on Public Works,
+stated: “It is perhaps the most comprehensive legislation
+that the Congress of the United States has ever developed
+in this particular ﬁeld of the environment.” 2 id., at 1269.
+This Court was therefore undoubtedly correct when it de-
+scribed the 1972 amendments as establishing “a comprehen-
+sive program for controlling and abating water pollution.”
+Train v. City of New York, 420 U. S. 35, 37 (1975).
+Section 404 of the CWA resembles § 13 of the RHA, but,
+unlike the earlier statute, the primary purpose of which is
+the maintenance of navigability, § 404 was principally in-
+tended as a pollution control measure. A comparison of the
+contents of the RHA and the 1972 Act vividly illustrates the
+fundamental difference between the purposes of the two pro-
+visions. The earlier statute contains pages of detailed ap-
+propriations for improvements in speciﬁc navigation facili-
+ties, 30 Stat. 1121–1149, for studies concerning the feasibility
+
+=== PDF PAGE 22 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+180 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+of a canal across the Isthmus of Panama, id., at 1150, and
+for surveys of the advisability of harbor improvements at
+numerous other locations, id., at 1155–1161. Tellingly, § 13,
+which broadly prohibits the discharge of refuse into naviga-
+ble waters, contains an exception for refuse “ﬂowing from
+streets and sewers ...i nal iquid state.” Id., at 1152.
+The 1972 Act, in contrast, appropriated large sums of
+money for research and related programs for water pollution
+control, 86 Stat. 816–833, and for the construction of water
+treatment works, id., at 833–844. Strikingly absent from its
+declaration of “goals and policy” is any reference to avoiding
+or removing obstructions to navigation. Instead, the princi-
+pal objective of the Act, as stated by Congress in § 101, was
+“to restore and maintain the chemical, physical, and bio-
+logical integrity of the Nation’s waters.” 33 U. S. C. § 1251.
+Congress therefore directed federal agencies in § 102 to
+“develop comprehensive programs for preventing, reducing,
+or eliminating the pollution of the navigable waters and
+ground waters and improving the sanitary condition of
+surface and underground waters.” 33 U. S. C. § 1252. The
+CWA commands federal agencies to give “due regard,” not
+to the interest of unobstructed navigation, but rather to
+“improvements which are necessary to conserve such waters
+for the protection and propagation of ﬁsh and aquatic life
+and wildlife [and] recreational purposes.” Ibid.
+Because of the statute’s ambitious and comprehensive
+goals, it was, of course, necessary to expand its jurisdic-
+tional scope. Thus, although Congress opted to carry over
+the traditional jurisdictional term “navigable waters” from
+the RHA and prior versions of the FWPCA, it broadened
+the deﬁnition of that term to encompass all “waters of the
+United States.” § 1362(7). 6 Indeed, the 1972 conferees ar-
+rived at the ﬁnal formulation by speciﬁcally deleting the
+6 The deﬁnition of “navigable water” in earlier versions of the FWPCA
+had made express reference to navigability. § 211, 80 Stat. 1253.
+
+=== PDF PAGE 23 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+181Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+word “navigable” from the deﬁnition that had originally
+appeared in the House version of the Act. 7 The majority
+today undoes that deletion.
+The Conference Report explained that the deﬁnition in
+§ 502(7) was intended to “be given the broadest possible
+constitutional interpretation.” S. Conf. Rep. No. 92–1236,
+p. 144 (1972), reprinted in 1 Leg. Hist. 327. The Court dis-
+misses this clear assertion of legislative intent with the back
+of its hand. Ante, at 168, n. 3. The statement, it claims,
+“signiﬁes that Congress intended to exert [nothing] more
+than its commerce power over navigation.” Ibid.
+The majority’s reading drains all meaning from the con-
+ference amendment. By 1972, Congress’ Commerce Clause
+power over “navigation” had long since been established.
+The Daniel Ball, 10 Wall. 557 (1871); Gilman v. Philadel-
+phia, 3 Wall. 713 (1866); Gibbons v. Ogden, 9 Wheat. 1 (1824).
+Why should Congress intend that its assertion of federal
+jurisdiction be given the “broadest possible constitutional
+interpretation” if it did not intend to reach beyond the very
+heartland of its commerce power? The activities regulated
+by the CWA have nothing to do with Congress’ “commerce
+power over navigation.” Indeed, the goals of the 1972 stat-
+ute have nothing to do with navigation at all.
+As we recognized in Riverside Bayview, the interests
+served by the statute embrace the protection of “ ‘signiﬁcant
+natural biological functions, including food chain production,
+general habitat, and nesting, spawning, rearing and resting
+sites’ ” for various species of aquatic wildlife. 474 U. S., at
+134–135. For wetlands and “isolated” inland lakes, that in-
+7 The version adopted by the House of Representatives deﬁned “navi-
+gable waters” as “the navigable waters of the United States, including
+the territorial seas.” H. R. 11896, 92d Cong., 2d Sess., § 502(8) (1971),
+reprinted in 1 Leg. Hist. 1069. The CWA ultimately deﬁned “navigable
+waters” simply as “the waters of the United States, including the territo-
+rial seas.” 33 U. S. C. § 1362(7).
+
+=== PDF PAGE 24 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+182 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+terest is equally powerful, regardless of the proximity of the
+swamp or the water to a navigable stream. Nothing in the
+text, the stated purposes, or the legislative history of the
+CWA supports the conclusion that in 1972 Congress contem-
+plated—much less commanded—the odd jurisdictional line
+that the Court has drawn today.
+The majority accuses respondents of reading the term
+“navigable” out of the statute. Ante, at 172. But that was
+accomplished by Congress when it deleted the word from the
+§ 502(7) deﬁnition. After all, it is the deﬁnition that is the
+appropriate focus of our attention. Babbitt v. Sweet Home
+Chapter, Communities for Great Ore., 515 U. S. 687, 697–698,
+n. 10 (1995) (refusing to be guided by the common-law deﬁ-
+nition of the term “take” when construing that term within
+the Endangered Species Act of 1973 and looking instead to
+the meaning of the terms contained in the deﬁnition of
+“take” supplied by the statute). Moreover, a proper under-
+standing of the history of federal water pollution regulation
+makes clear that—even on respondents’ broad reading—the
+presence of the word “navigable” in the statute is not in-
+explicable. The term was initially used in the various Riv-
+ers and Harbors Acts because (1) at the time those statutes
+were ﬁrst enacted, Congress’ power over the Nation’s waters
+was viewed as extending only to “water bodies that were
+deemed ‘navigable’ and therefore suitable for moving goods
+to or from markets,” Power 513; and (2) those statutes had
+the primary purpose of protecting navigation. Congress’
+choice to employ the term “navigable waters” in the 1972
+Clean Water Act simply continued nearly a century of usage.
+Viewed in light of the history of federal water regulation,
+the broad § 502(7) deﬁnition, and Congress’ unambiguous in-
+structions in the Conference Report, it is clear that the term
+“navigable waters” operates in the statute as a shorthand
+for “waters over which federal authority may properly be
+asserted.”
+
+=== PDF PAGE 25 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+183Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+II
+As the majority correctly notes, ante, at 168, when the
+Corps ﬁrst promulgated regulations pursuant to § 404 of the
+1972 Act, it construed its authority as being essentially the
+same as it had been under the 1899 RHA. 8 The reaction to
+those regulations in the federal courts, 9 in the Environmen-
+tal Protection Agency (EPA), 10 and in Congress 11 convinced
+8 The Corps later acknowledged that the 1974 regulations “limited the
+Section 404 permit program to the same waters that were being regulated
+under the River and Harbor Act of 1899.” 42 Fed. Reg. 37123 (1977).
+Although refusing to defer to the Corps’ present interpretation of the
+statute, ante, at 172, the majority strangely attributes some signiﬁcance
+to the Corps’ initial reluctance to read the 1972 Act as expanding its
+jurisdiction, ante, at 168 (“Respondents put forward no persuasive evi-
+dence that the Corps mistook Congress’ intent in 1974”). But, stranger
+still, by construing the statute as extending to nonnavigable tributaries
+and adjacent wetlands, the majority reads the statute more broadly than
+the 1974 regulations that it seems willing to accept as a correct construc-
+tion of the Corps’ jurisdiction. As I make clear in the text, there is abun-
+dant evidence that the Corps was wrong in 1974 and that the Court is
+wrong today.
+9 See, e. g., Natural Resources Defense Council v. Callaway, 392
+F. Supp. 685, 686 (DC 1975); United States v. Holland, 373 F. Supp. 665
+(MD Fla. 1974).
+10 In a 1974 letter to the head of the Corps, the EPA Administrator
+expressed his disagreement with the Corps’ parsimonious view of its own
+jurisdiction under the CWA. Section 404 of the Federal Water Pollution
+Control Act Amendments of 1972: Hearings before the Senate Committee
+on Public Works, 94th Cong., 2d Sess., 349 (1976) (letter dated June 19,
+1974, from Russell E. Train, Administrator of EPA, to Lt. Gen. W. C. Grib-
+ble, Jr., Chief of Corps of Engineers). The EPA is the agency that gen-
+erally administers the CWA, except as otherwise provided. 33 U. S. C.
+§ 1251(d); see also 43 Op. Atty. Gen. 197 (1979) (“Congress intended to
+confer upon the administrator of the [EPA] the ﬁnal administrative author-
+ity” to determine the reach of the term “navigable waters”).
+11 The House Committee on Government Operations noted the disagree-
+ment between the EPA and the Corps over the meaning of “navigable
+waters” and ultimately expressed its agreement with the EPA’s broader
+reading of the statute. H. R. Rep. No. 93–1396, pp. 23–27 (1974).
+
+=== PDF PAGE 26 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+184 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+the Corps that the statute required it “to protect water qual-
+ity to the full extent of the [C]ommerce [C]lause” and to ex-
+tend federal regulation over discharges “to many areas that
+have never before been subject to Federal permits or to this
+form of water quality protection.” 40 Fed. Reg. 31320 (1975).
+In 1975, the Corps therefore adopted the interim regula-
+tions that we upheld in Riverside Bayview. As we noted
+in that case, the new regulations understood “the waters
+of the United States” to include, not only navigable waters
+and their tributaries, but also “nonnavigable intrastate wa-
+ters whose use or misuse could affect interstate commerce.”
+474 U. S., at 123. The 1975 regulations provided that the
+new program would become effective in three phases: phase
+1, which became effective immediately, encompassed the nav-
+igable waters covered by the 1974 regulation and the RHA;
+phase 2, effective after July 1, 1976, extended Corps juris-
+diction to nonnavigable tributaries, freshwater wetlands ad-
+jacent to primary navigable waters, and lakes; and phase 3,
+effective after July 1, 1977, extended Corps jurisdiction to
+all other waters covered under the statute, including any
+waters not covered by phases 1 and 2 (such as “intermittent
+rivers, streams, tributaries, and perched wetlands that are
+not contiguous or adjacent to navigable waters”) that “the
+District Engineer determines necessitate regulation for the
+protection of water quality.” 40 Fed. Reg. 31325–31326
+(1975). The ﬁnal version of these regulations, adopted in
+1977, made clear that the covered waters included “isolated
+lakes and wetlands, intermittent streams, prairie potholes,
+and other waters that are not part of a tributary system to
+interstate waters or to navigable waters of the United
+States, the degradation or destruction of which could affect
+interstate commerce.” 12
+12 42 Fed. Reg. 37127 (1977), as amended, 33 CFR § 328.3(a)(3) (1977).
+The so-called “migratory bird” rule, upon which the Corps based its as-
+sertion of jurisdiction in this case, is merely a speciﬁc application of the
+more general jurisdictional deﬁnition ﬁrst adopted in the 1975 and 1977
+
+=== PDF PAGE 27 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+185Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+The Corps’ broadened reading of its jurisdiction provoked
+opposition among some Members of Congress. As a result,
+in 1977, Congress considered a proposal that would have lim-
+ited the Corps’ jurisdiction under § 404 to waters that are
+used, or by reasonable improvement could be used, as a
+means to transport interstate or foreign commerce and their
+adjacent wetlands. H. R. 3199, 95th Cong., 1st Sess., § 16(f)
+(1977). A bill embodying that proposal passed the House
+but was defeated in the Senate. The debates demonstrate
+that Congress was fully aware of the Corps’ understanding
+of the scope of its jurisdiction under the 1972 Act. We sum-
+marized these debates in our opinion in Riverside Bayview:
+“In both Chambers, debate on the proposals to narrow
+the deﬁnition of navigable waters centered largely on
+the issue of wetlands preservation. See [123 Cong.
+Rec.], at 10426–10432 (House debate); id., at 26710–26729
+(Senate debate). Proponents of a more limited § 404 ju-
+risdiction contended that the Corps’ assertion of juris-
+diction over wetlands and other nonnavigable ‘waters’
+had far exceeded what Congress had intended in enact-
+ing § 404. Opponents of the proposed changes argued
+that a narrower deﬁnition of ‘navigable waters’ for pur-
+poses of § 404 would exclude vast stretches of crucial
+wetlands from the Corps’ jurisdiction, with detrimental
+effects on wetlands ecosystems, water quality, and the
+aquatic environment generally. The debate, particu-
+larly in the Senate, was lengthy. In the House, the de-
+bate ended with the adoption of a narrowed deﬁnition of
+rules. The “rule,” which operates as a rule of thumb for identifying the
+waters that fall within the Corps’ jurisdiction over phase 3 waters, ﬁrst
+appeared in the preamble to a 1986 repromulgation of the Corps’ deﬁnition
+of “navigable waters.” 51 Fed. Reg. 41217 (1986). As the Corps stated
+in the preamble, this repromulgation was not intended to alter its jurisdic-
+tion in any way. Ibid. Instead, the Corps indicated, the migratory bird
+rule was enacted simply to “clarif[y]” the scope of existing jurisdictional
+regulations. Ibid.
+
+=== PDF PAGE 28 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+186 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+‘waters’; but in the Senate the limiting amendment was
+defeated and the old deﬁnition retained. The Confer-
+ence Committee adopted the Senate’s approach: efforts
+to narrow the deﬁnition of ‘waters’ were abandoned; the
+legislation as ultimately passed, in the words of Senator
+Baker, ‘retain[ed] the comprehensive jurisdiction over
+the Nation’s waters exercised in the 1972 Federal Water
+Pollution Control Act.’ ” 474 U. S., at 136–137.
+The net result of that extensive debate was a congres-
+sional endorsement of the position that the Corps maintains
+today. We explained in Riverside Bayview:
+“[T]he scope of the Corps’ asserted jurisdiction over
+wetlands was speciﬁcally brought to Congress’ atten-
+tion, and Congress rejected measures designed to curb
+the Corps’ jurisdiction in large part because of its con-
+cern that protection of wetlands would be unduly ham-
+pered by a narrowed deﬁnition of ‘navigable waters.’
+Although we are chary of attributing signiﬁcance to
+Congress’ failure to act, a refusal by Congress to over-
+rule an agency’s construction of legislation is at least
+some evidence of the reasonableness of that construc-
+tion, particularly where the administrative construction
+has been brought to Congress’ attention through legisla-
+tion speciﬁcally designed to supplant it.” Id., at 137.
+Even if the majority were correct that Congress did not
+extend the Corps’ jurisdiction in the 1972 CWA to reach
+beyond navigable waters and their nonnavigable tributaries,
+Congress’ rejection of the House’s efforts in 1977 to cut back
+on the Corps’ 1975 assertion of jurisdiction clearly indicates
+congressional acquiescence in that assertion. Indeed, our
+broad determination in Riverside Bayview that the 1977
+Congress acquiesced in the very regulations at issue in this
+case should foreclose petitioner’s present urgings to the con-
+trary. The majority’s refusal in today’s decision to acknowl-
+edge the scope of our prior decision is troubling . Compare
+
+=== PDF PAGE 29 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+187Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+id., at 136 (“Congress acquiesced in the [1975] administrative
+construction [of the Corps’ jurisdiction]”), with ante, at 170
+(“We conclude that respondents have failed to make the nec-
+essary showing that the failure of the 1977 House bill demon-
+strates Congress’ acquiescence to the Corps’ regulations
+... ” ) .13 Having already concluded that Congress acquiesced
+in the Corps’ regulatory deﬁnition of its jurisdiction, the
+Court is wrong to reverse course today. See Dickerson v.
+United States, 530 U. S. 428, 443 (2000) (Rehnquist, C. J.)
+(“ ‘[T]he doctrine [of stare decisis ] carries such persuasive
+force that we have always required a departure from prece-
+dent to be supported by some “special justiﬁcation” ’ ”).
+More important than the 1977 bill that did not become
+law are the provisions that actually were included in the
+1977 revisions. Instead of agreeing with those who sought
+to withdraw the Corps’ jurisdiction over “isolated” waters,
+13 The majority appears to believe that its position is consistent with
+Riverside Bayview because of that case’s reservation of the question
+whether the Corps’ jurisdiction extends to “certain wetlands not necessar-
+ily adjacent to other waters,” 474 U. S., at 124, n. 2. But it is clear from
+the context that the question reserved by Riverside Bayview did not con-
+cern “isolated” waters, such as those at issue in this case, but rather “iso-
+lated” wetlands. See id., at 131–132, n. 8 (“We are not called upon to
+address the question of the authority of the Corps to regulate discharges
+of ﬁll material into wetlands that are not adjacent to bodies of open
+water... ” ) . U n l i k et h eopen waters present on petitioner’s site, wetlands
+are lands “that are inundated or saturated by surface or ground water
+at a frequency and duration sufﬁcient to support, and that under normal
+circumstances do support, a prevalence of vegetation typically adapted
+for life in saturated soil conditions. Wetlands generally include swamps,
+marshes, bogs, and similar areas.” 33 CFR § 328.3(b) (2000). If, as I be-
+lieve, actually navigable waters lie at the very heart of Congress’ com-
+merce power and “isolated,” nonnavigable waters lie closer to (but well
+within) the margin, “isolated wetlands,” which are themselves only mar-
+ginally “waters,” are the most marginal category of “waters of the United
+States” potentially covered by the statute. It was the question of the
+extension of federal jurisdiction to that category of “waters” that the Riv-
+erside Bayview Court reserved. That question is not presented in this
+case.
+
+=== PDF PAGE 30 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+188 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+Congress opted to exempt several classes of such waters
+from federal control. § 67, 91 Stat. 1601, 33 U. S. C. § 1344(f).
+For example, the 1977 amendments expressly exclude from
+the Corps’ regulatory power the discharge of ﬁll material
+“for the purpose of construction or maintenance of farm or
+stock ponds or irrigation ditches, or the maintenance of
+drainage ditches,” and “for the purpose of construction of
+temporary sedimentation basins on a construction site which
+does not include placement of ﬁll material into the navigable
+waters.” Ibid. The speciﬁc exemption of these waters
+from the Corps’ jurisdiction indicates that the 1977 Congress
+recognized that similarly “isolated” waters not covered by
+the exceptions would fall within the statute’s outer limits.
+In addition to the enumerated exceptions, the 1977 amend-
+ments included a new section, § 404(g), which authorized the
+States to administer their own permit programs over certain
+nonnavigable waters. Section 404(g)(1) provides, in rele-
+vant part:
+“The Governor of any State desiring to administer
+its own individual and general permit program for the
+discharge of dredged or ﬁll material into the navigable
+waters (other than those waters which are presently
+used, or are susceptible to use in their natural condition
+or by reasonable improvement as a means to transport
+interstate or foreign commerce...,i ncluding wetlands
+adjacent thereto) within its jurisdiction may submit to
+the Administrator a full and complete description of the
+program it proposes to establish and administer under
+State law or under an interstate compact.” 33 U. S. C.
+§ 1344(g)(1).
+Section 404(g)(1)’s reference to navigable waters “other
+than those waters which are presently used, or are suscepti-
+ble to use,” for transporting commerce and their adjacent
+wetlands appears to suggest that Congress viewed (and ac-
+cepted) the Act’s regulations as covering more than naviga-
+
+=== PDF PAGE 31 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+189Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+ble waters in the traditional sense. The majority correctly
+points out that § 404(g)(1) is itself ambiguous because it does
+not indicate precisely how far Congress considered federal
+jurisdiction to extend. Ante, at 171. But the Court ignores
+the provision’s legislative history, which makes clear that
+Congress understood § 404(g)(1)—and therefore federal ju-
+risdiction—to extend, not only to navigable waters and non-
+navigable tributaries, but also to “isolated” waters, such as
+those at issue in this case.
+The Conference Report discussing the 1977 amendments,
+for example, states that § 404(g) “establish[es] a process to
+allow the Governor of any State to administer an individual
+and general permit program for the discharge of dredged or
+ﬁll material into phase 2 and 3 waters after the approval of
+a program by the Administrator.” H. R. Conf. Rep. No. 95–
+830, p. 101 (1977), reprinted in 3 Legislative History of the
+Clean Water Act of 1977 (Committee Print compiled for
+the Committee on Environment and Public Works by the
+Library of Congress), Ser. No. 95–14, p. 285 (emphasis added)
+(hereinafter Leg. Hist. of CWA). Similarly, a Senate Re-
+port discussing the 1977 amendments explains that, under
+§ 404(g), “the [C]orps will continue to administer the section
+404 permit program in all navigable waters for a discharge
+of dredge or ﬁll material until the approval of a State pro-
+gram for phase 2 and 3 waters. ” S. Rep. No. 95–370, p. 75
+(1977), reprinted in 4 Leg. Hist. of CWA 708 (emphases
+added).
+Of course, as I have already discussed, “phase 1” wa-
+ters are navigable waters and their contiguous wetlands,
+“phase 2” waters are the “primary tributaries” of navigable
+waters and their adjacent wetlands, and “phase 3” waters
+are all other waters covered by the statute, and can include
+such “isolated” waters as “intermittent rivers, streams, trib-
+utaries, and perched wetlands that are not contiguous or
+adjacent to navigable waters.” The legislative history of
+the 1977 amendments therefore plainly establishes that,
+
+=== PDF PAGE 32 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+190 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+when it enacted § 404(g), Congress believed—and desired—
+the Corps’ jurisdiction to extend beyond just navigable wa-
+ters, their tributaries, and the wetlands adjacent to each.
+In dismissing the signiﬁcance of § 404(g)(1), the majority
+quotes out of context language in the very same 1977 Senate
+Report that I have quoted above. Ante, at 170, n. 6. It is
+true that the Report states that “[t]he committee amend-
+ment does not redeﬁne navigable waters.” S. Rep. No. 95–
+370, at 75, reprinted in 4 Leg. Hist. of CWA 708 (emphasis
+added). But the majority fails to point out that the quoted
+language appears in the course of an explanation of the
+Senate’s refusal to go along with House efforts to narrow
+the scope of the Corps’ CWA jurisdiction to traditionally
+navigable waters. Thus, the immediately preceding sen-
+tence warns that “[t]o limit the jurisdiction of the [FWPCA]
+with reference to discharges of the pollutants of dredged
+or ﬁll material would cripple efforts to achieve the act’s ob-
+jectives.” 14 Ibid. The Court would do well to heed that
+warning.
+The majority also places great weight, ante, at 171, on our
+statement in Riverside Bayview that § 404(g) “does not con-
+14 In any event, to attach signiﬁcance to the Report’s statement that
+the committee amendments do not “redeﬁne navigable waters,” one must
+ﬁrst accept the majority’s erroneous interpretation of the 1972 Act. But
+the very Report upon which the majority relies states that “[t]he 1972
+[FWPCA] exercised comprehensive jurisdiction over the Nation’s waters
+to control pollution to the fullest constitutional extent. ” S. Rep. No. 95–
+370, at 75, reprinted in 4 Leg. Hist. of CWA 708 (emphases added). Even
+if the Court’s ﬂawed reading of the earlier statute were correct, however,
+the language to which the Court points does not counsel against ﬁnding
+congressional acquiescence in the Corps’ 1975 regulations. Quite the con-
+trary. From the perspective of the 1977 Congress, those regulations con-
+stituted the status quo that the proposed amendments sought to alter.
+Considering the Report’s favorable references to the Corps’ “continu[ing]”
+jurisdiction over phase 2 and 3 waters, the language concerning the failure
+of the amendments to “redeﬁne navigable waters” cuts strongly against
+the majority’s position, which instead completely excises phase 3 waters
+from the scope of the Act. Ibid.
+
+=== PDF PAGE 33 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+191Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+clusively determine the construction to be placed on the use
+of the term ‘waters’ elsewhere in the Act,” 474 U. S., at 138,
+n. 11 (emphasis added). This is simply more selective read-
+ing. In that case, we also went on to say with respect to
+the signiﬁcance of § 404(g) that “the various provisions of the
+Act should be read in pari materia. ” Ibid. Moreover, our
+ultimate conclusion in Riverside Bayview was that § 404(g)
+“suggest[s] strongly that the term ‘waters’ as used in the
+Act” supports the Corps’ reading. Ibid.
+III
+Although it might have appeared problematic on a “lin-
+guistic” level for the Corps to classify “lands” as “waters” in
+Riverside Bayview, 474 U. S., at 131–132, we squarely held
+that the agency’s construction of the statute that it was
+charged with enforcing was entitled to deference under
+Chevron U . S. A. Inc. v. Natural Resources Defense Council,
+Inc., 467 U. S. 837 (1984). Today, however, the majority re-
+fuses to extend such deference to the same agency’s con-
+struction of the same statute, see ante, at 172–174. This
+refusal is unfaithful to both Riverside Bayview and Chevron.
+For it is the majority’s reading, not the agency’s, that does
+violence to the scheme Congress chose to put into place.
+Contrary to the Court’s suggestion, the Corps’ interpreta-
+tion of the statute does not “encroac[h]” upon “traditional
+state power” over land use. Ante, at 173. “Land use plan-
+ning in essence chooses particular uses for the land; environ-
+mental regulation, at its core, does not mandate particular
+uses of the land but requires only that, however the land is
+used, damage to the environment is kept within prescribed
+limits.” California Coastal Comm’n v. Granite Rock Co.,
+480 U. S. 572, 587 (1987). The CWA is not a land-use code;
+it is a paradigm of environmental regulation. Such regula-
+tion is an accepted exercise of federal power. Hodel v. Vir-
+ginia Surface Mining & Reclamation Assn., Inc., 452 U. S.
+264, 282 (1981).
+
+=== PDF PAGE 34 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+192 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+It is particularly ironic for the Court to raise the specter
+of federalism while construing a statute that makes explicit
+efforts to foster local control over water regulation. Faced
+with calls to cut back on federal jurisdiction over water pol-
+lution, Congress rejected attempts to narrow the scope of
+that jurisdiction and, by incorporating § 404(g), opted instead
+for a scheme that encouraged States to supplant federal
+control with their own regulatory programs. S. Rep. No.
+95–370, at 75, reprinted in 4 Leg. Hist. of CWA 708 (“The
+committee amendment does not redeﬁne navigable waters.
+Instead, the committee amendment intends to assure contin-
+ued protection of all the Nation’s waters, but allows States
+to assume the primary responsibility for protecting those
+lakes, rivers, streams, swamps, marshes, and other portions
+of the navigable waters outside the [C]orps program in the
+so-called phase I waters” (emphasis added)). Because Illi-
+nois could have taken advantage of the opportunities offered
+to it through § 404(g), the federalism concerns to which the
+majority adverts are misplaced. The Corps’ interpretation
+of the statute as extending beyond navigable waters, tribu-
+taries of navigable waters, and wetlands adjacent to each is
+manifestly reasonable and therefore entitled to deference.
+IV
+Because I am convinced that the Court’s miserly construc-
+tion of the statute is incorrect, I shall comment brieﬂy on
+petitioner’s argument that Congress is without power to pro-
+hibit it from ﬁlling any part of the 31 acres of ponds on its
+property in Cook County, Illinois. The Corps’ exercise of
+its § 404 permitting power over “isolated” waters that serve
+as habitat for migratory birds falls well within the bound-
+aries set by this Court’s Commerce Clause jurisprudence.
+In United States v. Lopez, 514 U. S. 549, 558–559 (1995),
+this Court identiﬁed “three broad categories of activity that
+Congress may regulate under its commerce power”: (1) chan-
+nels of interstate commerce; (2) instrumentalities of inter-
+
+=== PDF PAGE 35 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+193Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+state commerce, or persons and things in interstate com-
+merce; and (3) activities that “substantially affect” interstate
+commerce. Ibid. The migratory bird rule at issue here is
+properly analyzed under the third category. In order to
+constitute a proper exercise of Congress’ power over intra-
+state activities that “substantially affect” interstate com-
+merce, it is not necessary that each individual instance of the
+activity substantially affect commerce; it is enough that,
+taken in the aggregate, the class of activities in question
+has such an effect. Perez v. United States, 402 U. S. 146
+(1971) (noting that it is the “class” of regulated activities,
+not the individual instance, that is to be considered in the
+“affects” commerce analysis); see also Hodel, 452 U. S., at
+277; Wickard v. Filburn, 317 U. S. 111, 127–128 (1942).
+The activity being regulated in this case (and by the
+Corps’ § 404 regulations in general) is the discharge of ﬁll
+material into water. The Corps did not assert jurisdiction
+over petitioner’s land simply because the waters were “used
+as habitat by migratory birds.” It asserted jurisdiction
+because petitioner planned to discharge ﬁll into waters
+“used as habitat by migratory birds.” Had petitioner in-
+tended to engage in some other activity besides discharging
+ﬁll ( i. e., had there been no activity to regulate), or, con-
+versely, had the waters not been habitat for migratory birds
+(i. e., had there been no basis for federal jurisdiction), the
+Corps would never have become involved in petitioner’s use
+of its land. There can be no doubt that, unlike the class of
+activities Congress was attempting to regulate in United
+States v. Morrison, 529 U. S. 598, 613 (2000) (“[g]ender-
+motivated crimes”), and Lopez, 514 U. S., at 561 (possession
+of guns near school property), the discharge of ﬁll material
+into the Nation’s waters is almost always undertaken for eco-
+nomic reasons. See V . Albrecht & B. Goode, Wetland Regu-
+lation in the Real World, Exh. 3 (Feb. 1994) (demonstrating
+that the overwhelming majority of acreage for which § 404
+
+=== PDF PAGE 36 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+194 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+permits are sought is intended for commercial, industrial, or
+other economic use). 15
+Moreover, no one disputes that the discharge of ﬁll into
+“isolated” waters that serve as migratory bird habitat will,
+in the aggregate, adversely affect migratory bird popula-
+tions. See, e. g., 1 Secretary of the Interior, Report to Con-
+gress, The Impact of Federal Programs on Wetlands: The
+Lower Mississippi Alluvial Plain and the Prairie Pothole
+Region 79–80 (Oct. 1988) (noting that “isolated,” phase 3
+waters “are among the most important and also [the] most
+threatened ecosystems in the United States” because “[t]hey
+are prime nesting grounds for many species of North Ameri-
+can waterfowl . . .” and provide “[u]p to 50 percent of the
+[U. S.] production of migratory waterfowl”). Nor does peti-
+tioner dispute that the particular waters it seeks to ﬁll are
+home to many important species of migratory birds, in-
+cluding the second-largest breeding colony of Great Blue
+Herons in northeastern Illinois, App. to Pet. for Cert. 3a,
+and several species of waterfowl protected by international
+treaty and Illinois endangered species laws, Brief for Federal
+Respondents 7.16
+In addition to the intrinsic value of migratory birds, see
+Missouri v. Holland, 252 U. S. 416, 435 (1920) (noting the
+importance of migratory birds as “protectors of our forests
+and our crops” and as “a food supply”), it is undisputed that
+15 The fact that petitioner can conceive of some people who may dis-
+charge ﬁll for noneconomic reasons does not weaken the legitimacy of the
+Corps’ jurisdictional claims. As we observed in Perez v. United States,
+402 U. S. 146 (1971), “[w]here the class of activities is regulated and that
+class is within the reach of federal power, the courts have no power to
+excise, as trivial, individual instances of the class.” Id., at 154 (internal
+quotation marks omitted).
+16 Other bird species using petitioner’s site as habitat include the “ ‘Great
+Egret, Green-backed Heron, Black-crowned Night Heron, Canada Goose,
+Wood Duck, Mallard, Greater Yellowlegs, Belted Kingﬁsher, Northern
+Waterthrush, Louisiana Waterthrush, Swamp Sparrow, and Red-winged
+Blackbird.’ ” Brief for Petitioner 4, n. 3.
+
+=== PDF PAGE 37 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+195Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+literally millions of people regularly participate in bird-
+watching and hunting and that those activities generate a
+host of commercial activities of great value. 17 The causal
+connection between the ﬁlling of wetlands and the decline
+of commercial activities associated with migratory birds is
+not “attenuated,” Morrison, 529 U. S., at 612; it is direct
+and concrete. Cf. Gibbs v. Babbitt, 214 F. 3d 483, 492–493
+(CA4 2000) (“The relationship between red wolf takings
+and interstate commerce is quite direct—with no red wolves,
+there will be no red wolf related tourism . . .”).
+Finally, the migratory bird rule does not blur the “distinc-
+tion between what is truly national and what is truly local.”
+Morrison, 529 U. S., at 617–618. Justice Holmes cogently
+observed in Missouri v. Holland that the protection of mi-
+gratory birds is a textbook example of a national problem.
+252 U. S., at 435 (“It is not sufﬁcient to rely upon the States
+[to protect migratory birds]. The reliance is vain . . .”).
+The destruction of aquatic migratory bird habitat, like so
+many other environmental problems, is an action in which
+the beneﬁts (e. g., a new landﬁll) are disproportionately local,
+while many of the costs (e. g., fewer migratory birds) are
+widely dispersed and often borne by citizens living in other
+States. In such situations, described by economists as in-
+volving “externalities,” federal regulation is both appro-
+priate and necessary. Revesz, Rehabilitating Interstate
+17 In 1984, the U. S. Congress Ofﬁce of Technology Assessment found
+that, in 1980, 5.3 million Americans hunted migratory birds, spending
+$638 million. U. S. Congress, Ofﬁce of Technology Assessment, Wetlands:
+Their Use and Regulation 54 (OTA–O–206, Mar. 1984). More than 100
+million Americans spent almost $14.8 billion in 1980 to watch and photo-
+graph ﬁsh and wildlife. Ibid. Of 17.7 million birdwatchers, 14.3 million
+took trips in order to observe, feed, or photograph waterfowl, and 9.5
+million took trips speciﬁcally to view other water-associated birds, such as
+herons like those residing at petitioner’s site. U. S. Dept. of Interior, U. S.
+Fish and Wildlife Service and U. S. Dept. of Commerce, Bureau of Census,
+1996 National Survey of Fishing, Hunting, and Wildlife-Associated Recre-
+ation 45, 90 (issued Nov. 1997).
+
+=== PDF PAGE 38 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+196 SOLID WASTE AGENCY OF NORTHERN COOK CTY .
+v. ARMY CORPS OF ENGINEERS
+Stevens, J.,dissenting
+Competition: Rethinking the “Race-to-the-Bottom” Ration-
+ale for Federal Environmental Regulation, 67 N. Y . U. L.
+Rev. 1210, 1222 (1992) (“The presence of interstate externali-
+ties is a powerful reason for intervention at the federal
+level”); cf. Hodel, 452 U. S., at 281–282 (deferring to Con-
+gress’ ﬁnding that nationwide standards were “essential” in
+order to avoid “destructive interstate competition” that
+might undermine environmental standards). Identifying
+the Corps’ jurisdiction by reference to waters that serve as
+habitat for birds that migrate over state lines also satisﬁes
+this Court’s expressed desire for some “jurisdictional ele-
+ment” that limits federal activity to its proper scope. Mor-
+rison, 529 U. S., at 612.
+The power to regulate commerce among the several States
+necessarily and properly includes the power to preserve the
+natural resources that generate such commerce. Cf. Spor-
+hase v. Nebraska ex rel. Douglas, 458 U. S. 941, 953 (1982)
+(holding water to be an “article of commerce”). Migratory
+birds, and the waters on which they rely, are such resources.
+Moreover, the protection of migratory birds is a well-
+established federal responsibility. As Justice Holmes noted
+in Missouri v. Holland, the federal interest in protecting
+these birds is of “the ﬁrst magnitude.” 252 U. S., at 435.
+Because of their transitory nature, they “can be protected
+only by national action.” Ibid.
+Whether it is necessary or appropriate to refuse to allow
+petitioner to ﬁll those ponds is a question on which we have
+no voice. Whether the Federal Government has the power
+to require such permission, however, is a question that is
+easily answered. If, as it does, the Commerce Clause em-
+powers Congress to regulate particular “activities causing
+air or water pollution, or other environmental hazards that
+may have effects in more than one State,” Hodel, 452 U. S.,
+at 282, it also empowers Congress to control individual ac-
+tions that, in the aggregate, would have the same effect.
+
+=== PDF PAGE 39 ===
+531US1 Unit: $U10 [04-16-02 07:30:59] PAGES PGT: OPIN
+197Cite as: 531 U. S. 159 (2001)
+Stevens, J.,dissenting
+Perez, 402 U. S., at 154; Wickard, 317 U. S., at 127–128. 18
+There is no merit in petitioner’s constitutional argument.
+Because I would afﬁrm the judgment of the Court of
+Appeals, I respectfully dissent.
+18 Justice Thomas is the only Member of the Court who has expressed
+disagreement with the “aggregation principle.” United States v. Lopez,
+514 U. S. 549, 600 (1995) (concurring opinion).

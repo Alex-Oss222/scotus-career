@@ -1,0 +1,16 @@
+[
+  {
+    "source": "https://law.resource.org/pub/us/case/reporter/F3/072/72.F3d.518.94-1251.html",
+    "file": "terms/OT2000/sources/chunk2-middle/anderson-romero.txt",
+    "sha256": "1049736c9d2a10b3a40b0f030e4ba2df31f78c689c4d39d8a269e05086ea77b8",
+    "chars": 38346
+  },
+  {
+    "source": "https://law.resource.org/pub/us/case/reporter/F2/830/830.F2d.789.86-2484.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://law.resource.org/pub/us/case/reporter/F2/864/864.F2d.1309.88-1551.html",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

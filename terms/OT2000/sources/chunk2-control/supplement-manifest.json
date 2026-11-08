@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Glover-petition",
+    "url": "https://archive.org/download/micro_IA40385014_0402/micro_IA40385014_0402%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+    "source_sha256": "a20699cacde5d4d7401f117acdfb70da343c8371578a14cfcbd4cd8e1c9d2208",
+    "text_sha256": "f770563052efbeccda5ee21ebe88fb336d61ff8655692b04011744fede4a915b",
+    "pages": 22,
+    "characters": 72343
+  },
+  {
+    "name": "Tri-County-petition",
+    "url": "https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+    "source_sha256": "d8c8dd3e5c83d06490fd48633cb7bfab173c8c3e13d0fcb7e35e15f7459436c1",
+    "text_sha256": "61a887c5bd8d4cca1ef4371bb1d1cd63c4bb704650f81228aece50aa4431f470",
+    "pages": 28,
+    "characters": 78444
+  },
+  {
+    "name": "Tri-County-CA-2000",
+    "url": "https://static.case.law/f3d/200/html/0836-01.html",
+    "source_sha256": "e0312bb89ca9e531daedff13360aa78992c20f71cc74a17b997c8b28de292b9b",
+    "text_sha256": "4907b102cc30f4975c52618eab6ff13bed411623865c6cdad1412b50d69d1404",
+    "pages": null,
+    "characters": 20384
+  },
+  {
+    "name": "Tri-County-amendment",
+    "url": "https://static.case.law/f3d/208/html/1066-01.html",
+    "source_sha256": "ff8424f8894ba1200e3cde57287db620605406f6cef140d04708dd7a97103e3e",
+    "text_sha256": "d0471e74da275f63219dbc4b56e20efc6e3d5d6b3eca4e87481835ebb75ee6b4",
+    "pages": null,
+    "characters": 1422
+  }
+]

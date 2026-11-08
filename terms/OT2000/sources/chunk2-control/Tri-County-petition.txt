@@ -1,0 +1,1473 @@
+=== PDF PAGE 1 ===
+\ Supreme 
++reR 
+991953 JUN-. 29 
+OFFICE UE THE CLERK 
+IN THE SUPREME COURT OF THE UNITED STATES — 
+DISTRICT OF COLUMBIA, ET AL., 
+Petitioners, 
+v. 
+TRI COUNTY INDUSTRIES, INC., 
+Respondent. 
+Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the District of Columbia Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+ROBERT R. RIGSBY 
+Corporation Counsel 
+CHARLES L. REISCHEL 
+Deputy Corporation Counsel 
+Appellate Division 
+DONNA M. MURASKY 
+Senior Assistant Corporation Counsel 
+Counsel of Record 
+Office of the Corporation Counsel 
+Government of the District of Columbia 
+One Judiciary Square — 6th Floor South 
+441 Fourth Street, N.W. 
+Washington, D.C. 20001 
+Telephone: (202) 727-6252 
+(202) 724-5691 
+
+
+=== PDF PAGE 2 ===
+QUESTION PRESENTED 
+Gasperini v. Center for Humanities, Inc., 518 U:S. 415 
+(1996), holds that the Seventh Amendment does not preclude 
+district courts from exercising substantial discretion in grant- 
+ing new trials but does constrain appellate review of such 
+orders. The question presented is whether, as some Circuits 
+have recognized, Gasperini invalidates the contrary approach 
+of other Circuits, including the D.C. Circuit here, which hold 
+that the Seventh Amendment strictly circumscribes a district 
+court’s discretion to grant a new trial and thereby expands the 
+scope of appcllate review. 
+
+
+=== PDF PAGE 3 ===
+PARTIES 
+The parties are Tri County industries, Inc.; District of 
+Columbia; Mayor Anthony Williams (as successor to Sharon 
+Pratt Kelly); the District of Columbia Department of Consum- 
+er and Regulatory Affairs; the Director of the District of 
+Columbia Department of Consumer and Regulatory Affairs, 
+Lloyd J. Jordan (as successor to Hampton Cross); and Ted 
+Gordon, Senior Deputy Director for Health Assurance, the 
+District of Columbia Department of Health (as successor to 
+Ferial Bishop, Administrator of the Environmental Regulation 
+Administration of the District of Columbia Department of 
+Consumer and Regulatory Affairs). Tri County Industries has 
+represented that it is a privately owned corporation organized 
+under the laws of Maryland; primarily engages in the business 
+of removing underground fuel storage tanks and contaminated 
+soil; and does not have any parent companies, subsidiaries or 
+affiliates that issue shares or debt securities to the public. 
+** 
+. ll - 
+TABLE OF CONTENTS 
+Page 
+IE ww ccc cccciccccececeees i 
+EEE LEE ESET OPO TTT TTT ee ii 
+TABLE OF AUTHORITIES ................... iv 
+ES ] 
+EEE EEE ee l 
+LEGAL PROVISIONS INVOLVED ................. 2 
+STATEMENT OF THE CASE ................... 2 
+Se 2 
+EEE 3 
+en 6 
+A. Preliminary Matters ................ 6 
+i 6 
+C. The District's Motion For A New Trial .... 8 
+D. The District Court's New Trial Order ..... ) 
+EE 10 
+F. The D.C. Circuit’s Decision .......... 1] 
+G. Rehearing Denied ................ 13 
+REASONS FOR GRANTING THE WRIT ............ 14 
+I. THE D.C. Circurr’s STANDARD FoR REVIEWING 
+ORDERS GRANTING NEW TRIALS CONFLICTS WITH 
+THIS COURT'S DECISION IN GASPERINI ........ 15 
+Ce 15 
+B. The D.C. Circuit's Conflicting Approach .... 18 
+Il. UNLESS GASPERINI IS APPLIED TO RESOLVE IT, 
+THERE IS AN INTOLERABLE CONFLICT AMONG THE 
+CIRCUITS OVER THE STANDARD TO-BE APPLIED To 
+APPELLATE REVIEW OF NEW TRIAL ORDERS .... 23 
+
+
+=== PDF PAGE 4 ===
+APPENDIX 
+Opinion of the United States Court of Appeals for the 
+District of Columbia Circuit in Tri County Industries, 
+Inc. v. District of Columbia, No. 99-7028 
+(Jan. 18, 20D) 2... ee eee eee e renee 
+Judgment on the Verdict in Tri County Industries, Inc. 
+v. District of Columbia, Civil Action No. 94-20140R) 
+DDG. hat. B, WD . occ cc ccccccccces 11 
+Memorandum Order in Tri County Industries, Inc. 
+v. District of Columbia, Civil Action No. 94-2014(JR) 
+(D.D.C. Jul. 23, 1998) ... 2... eee eee eee 12 
+Judgment on the Verdict in Tri County Industries, Inc. 
+v. District of Columbia, Civil Action No. 94-20140R) 
+(D.D.C. Feb. 4, 1999)... 2. ee ee eee eee 15 
+Order of the United States Court of Appeals for the 
+District of Columbia Circuit in Tri County Industries, 
+Inc. v. District of Columbia, No. 99-7028 
+(Mar. 8, 2000), denying petition for rehearing ... 16 
+Order of the United States Court of Appeals for the 
+District of Columbia Circuit in Tri County Industries, 
+Inc. v. District of Columbia, No. 99-7028 (Mar. 8, 
+2000), denying petition for rehearing en banc .... 17 
+-iv- 
+TABLE OF AUTHORITIES 
+CASES 
+“a Corp. v. Daiflon, Inc., 449 U.S. 33 
+Blunt v. Little, 3 F. Cas. 760, 761-62 (No. 1,578) wg MS ee ee epee 17 
+Brady v. Fort Bend County, 145 F.3d 691 (Sth Cir. 
+1998), cert. denied, 525 U.S. 1105 (1999) ...... 24 
+Bright v. Eynon, | Burr. 390, 393 (K.B. 1757) ..... 17 
+Byrd v. Blue Ridge Rural Elec. Cooperative, Inc., 
+TS Oc 17 
+’ Carey v. Piphus, 435 U.S. 247 (1978)...... 3, 6, 9, 10 
+Central Office Tel., Inc. v. American Tel. and Tel. Co., 
+108 F.3d 981 (9th Cir. 1997), rev'd on other 
+grounds, 524 U.S. 214 (1998) ........... 16, 25 
+Consorti v. Armstrong World Industries, Inc.. Baw Woe SOG. TORR ww ccc ccc ccc ccce 25 
+— Long Island R. Co., 289 F.2d 797 (2d Cir. 
+TELETT ST eT OL Teer Te Te 16, 18, 19 
+Donovan v. Penn Shipping Co., 429 U.S. 648 (1977) 
+Pa 6 6 © 666%.6 66 COhS 0b eek ks< 18 
+Eastern Air Lines, Inc. v. Union Trust Co. , 239 F.2d 25 
+(D.C. Cir.), cert. denied, 353 U.S. 942 (1956) .. 11 
+Fireman's Fund Insurance Co. v. Aaico Wrecking Co., Inc. 
+466 F.2d 179 (8th Cir. 1972), cert. denied, ; iyi eal 24 
+Gasperini v. Center for Humanities, Inc., 66 F.3d 427 
+a. 1995), vacated and remanded, 518 U.S. 415 
+Gasperini v. Center for Humanities, Inc., 518 U.S. 415 o 
+I eh Salil ak ah allie teal ei li ah passim 
+Pv SE Uedesivesecebencoaeeda 25 
+
+
+=== PDF PAGE 5 ===
+Holmes v. Massillon, Ohio, 78 F.3d 1041 (6th Cir.), 
+cert. denied sub nom., Fabianich v. Holmes, 
+519 U.S. 935 (1996) 6. ww ee ee ee ee eee 24 
+Hutchinson v. Stuckey, 952 F.2d 1418 (D.C. Cir. 
+TD ooceeoeese6egs sb eeeneer ens 12, 24 
+Johansen v. Combustion Eng’g, Inc., 170 F.3d 1320 
+(11th Cir.), cert. denied sub nom., Combustion 
+Eng’g, Inc. v. McGill, 120 S. Ct. 329 (1999) . . 17, 25 
+Langevine v. District of Columbia, 106 F.3d 1018 
+D.C. Gis. IORF) oc ccc cccsccceces 12, 14, 21 
+Lind v. Schenley Industries, Inc., 278 F.2d 79 (3rd Cir.) 
+(en banc), cert. denied, 364 U.S. 835 (1960) . . 24, 25 
+McClain v. Owens-Corning Fiberglas Corp., 139 F.3d 
+1124 (7th Cir. 1998) 2.0... cece eee eee 24 
+McNeal v. Hi-Lo Powered Scaffolding, Inc. , 
+836 F.2d 637 (D.C. Cir. 1988) .......... 11, 22 
+Medcom Holding Co. v. Baxter Travenol Laboratories, 
+Inc., 106 F.3d 1388 (7th Cir. 1997) ....... 15, 23 
+Schneider v. Lockheed Aircraft Corp., 658 F.2d 835 
+(D.C. Cir. 1981), cert. denied, 455 U.S. 994 
+DED ccsetecesssobeoressesseeeedes 11 
+Taylor v. Washington Terminal Co., 409 F.2d 145 
+(D.C.Cir.), cert. denied, 396 U.S. 835 (1969) 18, 19 
+Tri County Industries, Inc. v. District of Columbia, 
+104 F.3d 455 (D.C. Cir. 1997) ......... 2,6, 19 
+Wilburn v. Maritrans GP, Inc. , 139 F.3d 350 (3rd Cir. 
+DE scence ssendectneeuans sean eans 24 
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+U.S. ConsT. Amend. VII ..-.....-.. Pees passim 
+SOE EE oc cs kccadvastesnduetes 1 
+> ee OG OD on eis kes kk ts thee 2 
+6A Moore’s Federal Practice 459.05[2] (2d ed. 1996) . 17 
+-1] Wright & Miller, Federal Practice and Procedure, 
+§§ 2805 and 2819 (1973) ...........2006: 25 
+ste 
+DISTRICT OF COLUMBIA, ET AL., 
+Petitioners, 
+v. 
+Tri COUNTY INDUSTRIES, INC., 
+Respondent. 
+Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the District of Columbia Circuit 
+The District of Columbia, ef al., petition this Court for a 
+writ of certiorari to review a decision of the United States 
+Court of Appeals for the District of Columbia Circuit. 
+OPINIONS BELOW 
+The January 18, 2000, decision of the United States Court 
+of Appeals for the District of Columbia Circuit (App. 1-10) is 
+reported at 200 F.3d 836; 2000 U.S. App. LEXIS 624; and 
+50 ERC (BNA) 1249.~The July 23, 1998, decision of the 
+United States District Court for the District of Columbia 
+(App. 12-14) is not reported. = 
+JURISDICTION 
+The D.C. Circiiit issued its decision on January 18, 2000. App. 1. On February 17, petitioners filed a timely petition 
+for rehearing and a suggestion for rehearing en banc. App. 
+16 & 17. The petition and suggestion were denied on March 
+8, 2000. App. 16 & 17. 
+This Court has jurisdiction pursuant to 28 U.S.C. § 1254(1). 
+
+
+=== PDF PAGE 6 ===
+2 
+LEGAL PROVISIONS INVOLVED 
+i United This case involves the Seventh Amendment to the 
+States Constitution (U.S. Const. Amend. VII), which pro- 
+vides: 
+In Suits at common law, where the value in controver- 
+sy shall exceed twenty dollars, the right of tnal by 
+jury shall be preserved, and no fact tried by a jury, 
+shall be otherwise re-examined in any Court of the 
+United States, than according to the rules of the com- 
+mon law. 
+This case also involves Fed. R. Civ. P. 59(a), which 
+provides in pertinent part: 
+A new trial may be granted as to all or any of the 
+parties and on all or part of the issues (1) in an action 
+in which there has been a trial by jury, for any of the 
+reasons for which new trials have heretofore been 
+granted in actions at law in the courts of the United 
+States.... 
+STATEMENT OF THE CASE 
+I. INTRODUCTION. 
+This appeal involves the award of damages for a procedur- 
+al due process violation -- the suspension, without a prior 
+hearing, of a permit to construct a soil remediation cility in 
+the District of Columbia. See Tri County Industries, Inc. Vv. 
+District of Columbia, 104 F.3d 455, 460-62 (D.C. Cir. 1997). 
+On remand from that appeal, the case was tried to a jury 
+which awarded $5,000,000 in damages. Following the award, 
+the district court, the Honorable James Robertson, ordered a 
+3 
+new trial because the damages award was excessive and he 
+had disabled the jury from performing its job by excluding 
+and striking evidence from its consideration. A second jury, 
+which considered a fuller evidentiary record in light of Carey 
+v. Piphus, 435 U.S. 247, 266-67 (1978), and the rule that a 
+party must mitigate its damages arising from an unlawful 
+injury, awarded nominal damages of $100. 
+On appeal, citing Seventh Amendment concerns, the D.C. 
+Circuit transformed an abuse of discretion standard of appel- 
+late review into a “more searching inquiry" standard. App. 
+5 & 10. Under that revised standard, the court set aside the 
+district court’s order granting the District of Columbia a new 
+trial. We submit that in doing so, the D.C. Circuit contra- 
+vened this Court’s teaching in Gasperini v. Center for Human- 
+ities, Inc., 518 U.S. 415 (1996). Gasperini holds that district 
+court judges retain substantial discretion under the Seventh 
+Amendment to order new trials and that appellate courts must 
+exercise restraint in applying the abuse of discretion standard 
+of appellate review of new trial orders. The decision here 
+turns Gasperini on its head. 
+Il. THE FActs.' 
+Tri County’s history in the District of Columbia has been 
+a history of ignoring public health and safety. In the early 
+1990’s, Tri County first entered the soil remediation market 
+by opening a processing facility on New York Avenue, N.E. 
+SA529-30 & SA534. The facility was closed both because Tri 
+County did not have a certificate of occupancy and because it 
+violated the District’s zoning laws. SA533-34. 
+‘References to the record below are as follows: "A" (Appendix filed 
+in the D.C. Circuit); "SA" (Supplemental Appendix filed in the D.C. 
+Circuit); and “T* (Trial Transcript). 
+
+
+=== PDF PAGE 7 ===
+4 
+In 1993, Tri County secured a building permit to construct 
+a soil remediation facility several blocks away. SA457 (PI. 
+Exh. 5). Some five months later, Tri County began to accept 
+delivery of contaminated soil, although it had not yet secured 
+a certificate of occupancy. On September 2, 1993, a veteran 
+zoning inspector from the District’s Department of Consumer 
+and Regulatory Affairs ("DCRA") inspected the facility. 
+SA570-71. The gate to the premises was open; it had no 
+lock. There was no security gate for the facility; and a door 
+was open. No one was there. The inspector went into one of 
+the big rooms in the building where he saw lots of “rotten 
+soil." SA572. The soil “had a terrible smell" and "it was so 
+bad" that it “irritated” his eyes. SA572. He wrote a Notice 
+of Infraction for storing contaminated soil without a certificate 
+of occupancy. SA423 (Def. Exh. 1); SA570-74. 
+Tri County did not respond to this Notice even though the 
+Notice advised that Tri County would “be subject to the 
+maximum penalties permitted by law, suspension of your 
+license/permit, . . . and/or sealing of your business," and that 
+the fine would double if not paid within 15 days. SA423 
+(emphasis added). Tri County continued to accept tons and 
+tons of contaminated soil. SA434-35; SA526-27. 
+On September 22, 15 days after service of the Infraction 
+Notice, the DCRA dispatched a construction inspector to the 
+facility. SA5S76-77. The inspector saw that Tri County was 
+“storing . . . a whole lot of dirt". SA577. The Tri County 
+representative could not produce a permit or a certificate of 
+occupancy. SA577-78. The inspector issued a stop work 
+order. A391-92; SA578. 
+The DCRA’s Office of Adjudication scheduled a hearing 
+on the Infraction Notice for October 13. SA425. Tri County 
+defaulted. An Administrative Law Judge found it guilty, 
+5 
+based on the testimony of the inspector who had i 
+Notice, and added to the original $500 fine a $1 eet 
+and $25 in costs. SA426-27 (Def. Exh. 2). The decision een ng gs “or to arrange for payment of all - 
+, penalties, and costs within fifteen (15) days of service 
+of this decision SHALL OPERATE TO SUSPEND AUTOMATICALLY 
+THE LICENSE OR PERMIT." SA427 (emphasis in decision). Tri 
+County neither appealed nor arranged for payment. 
+In the meantime, on September 20, Tri County attended Nevorcnge meeting about the facility. At this, meeting, 
+pton Cross, DCRA’s Acting Director, suspended Tri County s building permit because he had been informed 
+(mistakenly, as it turned out) that this facility was going to be very close to a proposed housing development. App. 3. 
+; the DCRA’s Environmental Regulation Administration 
+("ERA") followed up on Mr. Cross’s temporary suspension 
+On October 15, it sent a letter to Tri County, referencing the community meeting and the (mis)information about the pro- posed housing development. A394-95 (Def. Exh. 11). Given that information, the ERA had determined that "further review 1s Necessary" pursuant to the District’s Environmental Polic 
+Act of 1989. A394. The letter requested information hon ten matters, including the precise distance of the facility from nearby residences and from the property which Mr. Cross mistakenly believed was to be developed. A394-95. 
+Tri County did not answer this letter. A292. Ins i President, Glenn Selzer, called to inform the heme one = had _ already provided the information in Tri County’s application. A291-94. Shortly thereafter, in November. Tri County abandoned the project. A72. 
+
+
+=== PDF PAGE 8 ===
+6 
+On December 6, 1993, Mr. Cross, unaware of Tri Coun- 
+ty’s decision, sent it a letter. A396 (Def. Exh. 12). Citing its 
+failure to respond to the October 15 letter, he rescinded the 
+DCRA’s environmental approval of the project. A396-97. 
+This letter also cited Tri County’s misrepresentation of the 
+distance of its proposed facility to nearby residences, less than 
+100 feet as opposed to more than 700 feet. A396. 
+Il. THE LITIGATION. 
+A. Preliminary Matters. 
+On September 20, 1994, Tri County brought suit in U.S. 
+District Court claiming, inter alia, that Mr. Cross’s oral 
+suspension of its permit on September 20, 1993, violated the 
+Due Process Clause of the Fifth Amendment. The D.C. 
+Circuit agreed and remanded the case “to consider the extent 
+of Tri County’s damages." Tri County Industries, Inc. v. 
+District of Columbia, 104 F.3d at 462. In its decision, the 
+court observed that "Tri County took no action to challenge 
+either the September 20 suspension, which all parties now 
+agree had no legal basis at all, or the [September 22] stop 
+work order, which is not challenged here and which all agree 
+was a legally sufficient bar to Tri County’s continuing work 
+on the facility." Jd. at 457. It also directed that, "[i}n calcu- 
+lating any damages, . . . the possibility of relief from the 
+District’s Board of Appeals and Review, as well as the possi- 
+ble mooting effect of the stop work order, may be pertinent." 
+Id. at 462. 
+B. The First Trial. 
+At a four-day trial in 1998, Tri County sought more than 
+$11,000,000 in damages, mostly for lost future profits. In 
+opposition, the District made two basic Carey v. Piphus 
+7 
+arguments: (1) all or some of Tri County’s damages follow- 
+ing Mr. Cross’s procedurally deficient suspension of Tri 
+County’s permit on September 20 would have occurred never- 
+theless because of events independent of the suspension (i.e., 
+the stop work order issued two days later; the automatic 
+suspension of Tri County’s building permit following Tri 
+County’s default on the early September Notice of Infraction; 
+and other regulatory health and safety hurdles); and (2) Tri 
+County had failed to mitigate, or to avoid, avoidable damages 
+arising from the District’s failure to afford it an opportunity 
+to be heard prior to Mr. Cross’s suspension. 
+In support of the first argument, the District called an 
+District environmental specialist, who testified, inter alia, that 
+the distance of Tri County’s plant from residences was much 
+less than Tri County had represented in its application. See 
+A188; T. 419-32 & 442-46. In addition, the District unsuc- 
+cessfully proffered Dr. Alfred A. Siess to demonstrate that Tri 
+County’s proposed plant was unsafe. See SA492-506. In 
+support of the second argument, the District, inter alia, intro- 
+duced “the two letters from the District of Columbia govern- 
+ment to Tri County, October 15 and December 6, 1993, 
+asking for follow-up information and informing them that they 
+would be suspended if they didn’t give that information." 
+A188. Mr. Cross testified that the October 15 letter was sent 
+to Tri County “so establish a process which would afford -- 
+which would resolve the issues that had arisen, to establish a 
+process and to get the necessary information fror: Tri Coun- 
+ty." SA485 (emphasis added). 
+Importantly, before sending the case to the jury, the court 
+struck “all of the testimony . . . on the health and safety 
+aspects of this project" because it had determined "that the 
+permitting process fully considered those issues and resolved 
+
+
+=== PDF PAGE 9 ===
+8 
+them." A189 (emphasis added).? The evidence stricken 
+included much of the testimony of the District’s environmental 
+specialist and of Mr. Cross. See T. 389-99; SA488-90. See 
+also T. 315-18 (certificate of occupancy conditions); App. 3 
+n.1 (certificate of occupancy requirements). In addition, the 
+court struck the District’s October 13 invitation to be heard, 
+as well as the December 6 letter suspending Tri County’s 
+project for failing to respond to the October 13 letter. 
+On this truncated evidentiary record, the jury awarded 
+$5,000,000. 
+C. The District’s Motion For A New Trial. 
+In its post-trial motion seeking a new trial (Docket Entry 
+("DE") 115), the District argued that the damages award was 
+grossly excessive and speculative. Given Tri County’s total 
+failure to mitigate and its speculative projections of future 
+profits, the damages award was grossly excessive. The 
+District urged: "Tri County made no effort to avert the 
+damages they assert, not even the preparation of a response to 
+the two page, October 15, 1993 letter. . ..". DE 115 at 19- 
+20; see also DE 115 at 6 & 11. 
+The District also argued that the court’s evidentiary 
+rulings precluded the jury from performing its job. The court 
+had wrongly excluded the District’s post-suspension invitation 
+to Tri County to be heard and Tri County’s failure to respond 
+to that invitation. The court had also wrongly excluded health 
+and safety evidence: "Although plaintiffs retained the burden 
+of establishing their right to more than nominal damages, 
+2However, the permit required Tri County to comply with District laws 
+and subjected it to numerous reviews, reporting requirements, and condi- 
+tions. SA422; 429-30. 
+9 
+resolution of that right under Carey v. Piphus depended on the 
+credibility of conflicting witnesses and the jury’s evaluation of 
+the evidence regarding the impact that the project would have 
+{had} on the health, safety and welfare of the community . . 
+. evidence . . . essential to defendants{’] case that the project 
+would have been halted anyway." DE 115 at 24. 
+| D. The District Court’s New Trial Order. 
+The district court granted a new trial for several reasons. 
+First, although Tri County could be excused from expending 
+considerable sums of money to protect its investment of under 
+$500,000 in the project, the court ruled "unreasonable per se" 
+Tri County’s position that it was entitled to some $11,000,000 
+in future profits “without investing a penny to seek reinstate- 
+ment of the unlawfully suspended building permit." App. 13. 
+Second, the district court ruled that "[t]he jury’s award of 
+future profits . . . was based on expert testimony that should 
+not have been received -- or, at least, should not have been 
+received without allowing the District of Columbia to adduce 
+proof that plaintiff s soil remediation facility would never have 
+been permitted to operate." App. 13. The court criticized Tri 
+County’s "pro-forma statement of income and expense" (App. 
+13), which it had ruled pretrial was "insufficient to establish 
+loss of profits with reasonable certainty." DE 67 at 4. 
+Furthermore, Tri County had “no experience in the business 
+of ‘burning’ soil for remediation" and Tri County’s expert had 
+failed to analyze the significance of "the recent failure of a 
+similar remediation facility" in the area and of "the diminish- 
+
+
+=== PDF PAGE 10 ===
+10 
+ing market price per ton for cleaning petroleum contaminated 
+soil." App. 13.° 
+Third, the court ruled that "the jury’s award of some $4.5 
+million in assertedly lost profits was in any event grossly 
+excessive and shocks the judicial conscience, particularly in 
+view of the realistic prospect, which I did not permit defen- 
+dants to prove at trial, that there would be continued commu- 
+nity resistance" to the project and "a very real likelihood that 
+the District of Columbia would have closed down the remedia- 
+tion facility sooner or later in any event, or that it never 
+would have been permitted to commence operations at all." 
+App. 13-14. 
+Accordingly, a new trial was necessary unless Tri County 
+accepted "a remittitur of the jury’s verdict to $1 million." 
+App. 14. Tri County declined. 
+E. The Second Trial. 
+At the second trial, the court admitted the District’s 
+evidence (1) supporting its Carey v. Piphus/mitigation-of- 
+damages arguments and (2) rebutting Tri County’s claims that 
+only Mr. Cross’s suspension stood in the way of it securing a 
+certificate of occupancy. This evidence included the District’s 
+written invitation to Tri County to be heard and its failure to 
+respond. This evidence also included health and safety 
+*Tri County’s pro forma statement projected whopping profits. For 
+example, in its first year of operation, it projected revenues of $3,367,500 
+and expenses of $1,335,908, resulting in a profit of $2,031,592, a profit 
+even its expert admitted was “extraordinary.” A143-47, A171 & A209. 
+The court found this evidence speculative, in light of, inter alia, unex- 
+plained information in the expert’s report “about how the competition is 
+driving down the price per ton until it just covers operating costs. . . . And 
+that that has driven one of the competitors out of business . . ..” SA483. 
+11 
+information about the project and about regulatory hurdles Tri 
+County would have faced irrespective of the procedurally 
+flawed suspension. 
+With a more complete record before it, the jury returned 
+a verdict of $100. 
+F. The D.C. Circuit’s Decision. 
+Tri County appealed the order granting the new trial. 
+Citing McNeal v. Hi-Lo Powered Scaffolding, Inc. , 836 F.2d 
+637 (D.C. Cir. 1988), it argued that, on appeal, under the 
+abuse of discretion standard, “[t}he trial court’s decision to 
+grant a new trial will be given close scrutiny in order to 
+protect the litigants’ right to a jury trial." Brief for Plaintiff- 
+Appellant at 30. 
+The District countered that, under an abuse of discretion 
+standard, “‘[a} trial court has wide discretion in setting aside 
+a jury verdict where . . . the motion granted is for a new trial, 
+not judgment n.o.v.; the court’s decision concerns matters of 
+fact, not law; and the new trial is ordered because’ the first 
+trial ‘created a potential for injustice.’" Brief for Appellees 
+at 24-25, quoting Schneider v. Lockheed Aircraft Corp., 658 
+F.2d 835, 849 (D.C. Cir. 1981) (footnote omitted), cert. 
+denied, 455 U.S. 994 (1982). The District also countered that 
+““it is the duty of the judge to set aside the verdict and grant 
+a new trial, if he is of the opinion that the verdict is against 
+the clear weight of the evidence, or is based upon evidence 
+which is false or will result in a miscarriage of justice, even 
+though there may be substantial evidence which would prevent 
+the direction of a verdict.’" Brief for Appellees at 24, quoting 
+Eastern Air Lines, Inc. v. Union Trust Co., 239 F.2d 25, 29 
+(D.C. Cir.), cert. denied, 353 U.S. 942 (1956). 
+
+
+=== PDF PAGE 11 ===
+12 
+The D.C. Circuit rejected the District’s position. Instead, 
+the court applied (App. 5 & 10) its recently developed “more 
+searching inquiry" standard. See, e.g., Langevine v. District 
+of Columbia, 106 F.3d 1018, 1023 (D.C. Cir. 1997); Hutchin- 
+son v. Stuckey, 952 F.2d 1418, 1421 (D.C. Cir. 1992). This 
+standard arises from the court’s “‘concern that a judge’s 
+nullification of the jury’s verdict tay encroach on the jury’s 
+important fact-finding mission.’" App. 5, quoting Langevine, 
+106 F.3d at 1023. Accordingly, “close scrutiny is required in 
+order to protect the litigants’ [Seventh Amendment] night to 
+jury trial." Hutchinson, 952 F.2d at 1421. 
+Using its "more searching inquiry" standard, the D.C. 
+Circuit ruled that the district court had abused its discretion in 
+granting a new trial. Thus, despite acknowledging the legal 
+requirement that an injured party take “all the reasonable 
+steps” to mitigate its damages, Tri County, even when seeking 
+$11,000,000, and recovering $4,500,000, in lost future 
+profits, need not take any steps at all. App. 7. In its view, 
+the district court’s failure-to-mitigate ruling was an impermis- 
+sible per se ruling. App. 7. 
+The court also “question{ed]" the ruling that the award 
+was grossly excessive and shocking. App. 9. In its view, the 
+award was in the reasonable range because it was less than 
+half of the amount Tri County had claimed. App. 9. 
+Finally, the D.C. Circuit stated: 
+. . . [TJhe trial court tried to cover all bases in its 
+order granting a new trial but the order reveals that 
+the court’s real concern was its exclusion of evidence 
+regarding health and safety issues which may have led 
+to community resistance and, perhaps, regulatory 
+barriers to Tri County’s project. 
+13 
+App. 9. In assessing the evidentiary rulings, the D.C. Circuit 
+should have asked whether the district court acted permissibly 
+in ultimately concluding that it should have admitted this 
+evidence. Instead, in a misguided effort to preserve the jury’s 
+verdict, the D.C. Circuit asked whether the district court 
+could permissibly have excluded the District’s health and 
+safety evidence. The D.C. Circuit ruled that “the district 
+court did not abuse its discretion in excluding the evidence.” 
+App. 10. Again invoking its "‘more searching inquiry’” stan- 
+dard, the court ruled: “In light of our findings that Tri 
+County’s evidence was properly before the jury and the 
+District’s evidence was properly excluded, we conclude that 
+the district court, in granting a new trial based on a revised 
+nn did abuse its discretion." App. 
+G. Rehearing Denied. 
+The District filed a petition for rehearing and a suggestion 
+for rehearing en banc. It argued that the D.C. Circuit had 
+extant two conflicting standards for reviewing district court 
+orders granting new jury trials and that Gasperini v. Center 
+for Humanities, Inc., 518 U.S. 415 (1996), unequivocally had 
+ruled that the District's proffered standard was correct. In 
+addition, and related to that point, the District urged that the 
+court had erred in reviewing the district court’s trial decisions 
+excluding and striking evidence, rather than its ultimate, post- 
+trial decision that this evidence should have been admitted and 
+‘For reasons we do not understand, the D.C. Circuit mistakenly 
+seemed to believe (see App. 3) that the first jury was permitted to consider 
+the District’s written invitation to Tri County to be heard and Tri County’s 
+refusal to respond. This oversight is important, given that this case is a 
+procedural due process case in which the District contended that Tri 
+County had failed to mitigate its damages from the procedurally flawed 
+suspension. 
+
+
+=== PDF PAGE 12 ===
+14 
+thus that a new trial was required for that reason, as well as 
+for the others set forth in its new trial order. 
+The D.C. Circuit denied rehearing. 
+REASONS FOR GRANTING THE WRIT 
+The D.C. Circuit has impermissibly overturned the consid- 
+ered judgment of the district court ordering a new trial and 
+reinstated a $5,000,000 jury verdict against the District of 
+Columbia. For the reasons that follow, this Court should 
+either summarily vacate and remand for reconsideration in 
+light of Gasperini v. Center for Humanities, Inc., 518 U.S. 
+415 (1996), or order plenary consideration of the D.C. Cir- 
+cuit’s decision. 
+The D.C. Circuit applied the wrong legal standard in 
+reversing the decision to order a new trial. Gasperini holds 
+that the Seventh Amendment affords district court judges 
+broad discretion in overseeing jury trials and that appellate 
+courts are correspondingly strictly constrained by an abuse of 
+discretion standard in reviewing new trial decisions. By 
+contrast, the D.C. Circuit maintains that the Seventh Amend- 
+ment strictly limits the discretion of district court judges to 
+order new trials and that, as a consequence, appellate courts 
+must apply a "‘more searching inquiry’ standard in reviewing 
+orders granting new trials. App. 5, quoting Langevine, 106 
+F.3d at 1023; see also App. 10. The D.C. Circuit’s standard 
+is flatly inconsistent with Gasperini. 
+As an adjunct to its “more searching inquiry” standard, 
+and to further protect its understanding of the Seventh Amend- 
+ment, the D.C. Circuit has ruled that it will review on appeal, 
+under an abuse of discretion standard, evidentiary rulings at 
+trial even when the district court judge, in the context of the 
+15 
+entire case, abandoned those rulings in a post-trial order er Act Accordingly, the ultimate judgment of strict court judge may be ignored even if that judgment 1s not an abuse of discretion. This approach wrongfully permits an appellate court to substitute its j Soets hae judgment for that of 
+The D.C. Circuit’s standard also confi; i 1- sions of other Circuits. For example, rp ety er following Gasperini, has held that the usual abuse of discre- tion standard applies to appellate review of orders granting new trials and that an appellate court must give due regard to 
+Review is thus necessary to conform the D.C. Circuit’s standard for reviewing orders granting new trials to Gasperini: to resolve a conflict among the Circuits on the fundamental issue of the scope of a trial court’s discretion to order new tals; and to ensure that district court judges in the Nation’s { apial exercise the discretion the law gives them to grant new 
+
+
+=== PDF PAGE 13 ===
+16 
+I. THE D.C. Circurr’s STANDARD FOR REVIEWING 
+ORDERS GRANTING NEW TRIALS CONFLICTS WITH 
+THis COURT’S DECISION IN GASPERINI. 
+A. GASPERINI. 
+The D.C. Circuit’s "more searching inquiry" standard and 
+its strict constraints on the discretion of district courts to grant 
+new trials conflict with this Court’s decision in Gasperini. 
+Gasperini stands for two fundamental principles. First, it 
+holds "that the re-examination clause of the [seventh] amend- 
+ment does not inhibit the power of the trial judge to grant new 
+trials or to order remittitur." Central Office Tel., Inc. Vv. 
+American Tel. and Tel. Co., 108 F.3d 981, 993 (9th Cir. 
+1997), rev’d on other grounds, 524 U.S. 214 (1998). Second, 
+appellate courts, in reviewing grants of new trials, must 
+exercise “‘restraint’” and "‘give the benefit of every doubt to 
+the judgment of the trial judge.’” Gasperini, 518 U.S. at 438- 
+39, quoting Dagnello v. Long Island R. Co., 289 F.2d 797, 
+806 (2d Cir. 1961) (emphasis added). Or, as this Court put 
+it twenty years ago, “(t]he authority to grant a new trial... 
+is confided almost entirely to the exercise of discretion on the 
+part of the trial court." Allied Chemical Corp. v. Daiflon, 
+Inc., 449 U.S. 33, 36 (1980). 
+Gasperini was a diversity case in which the Court ruled 
+that federal courts could apply a state statute providing for 
+close judicial scrutiny of jury damages awards without offend- 
+ing the Seventh Amendment.’ In so ruling, the Court relied 
+on history and longstanding precedent. It acknowledged that 
+SUnder the state law in question, courts were “empowered to review 
+the size of jury verdicts and to order new trials when the jury’s award 
+‘deviates materially from what would be reasonable compensation.’* 
+Gasperini, 518 U.S. at 418. 
+17 
+"*[t]he power of the English common law trial courts 
+a new trial for a variety Sammaathnsenartnainte: 
+ment of justice was well established prior to the establishment 
+of our Government." 518 U.S. at 433, quoting 6A Moore’s 
+Federal Practice 459.05[2], pp. 59-44 to 59-46 (2d ed. 
+1996).° Furthermore, quoting Justice Story, the Court reaf- 
+firmed that, “‘[iJf it should clearly appear that the jury have 
+committed a gross error . . . or have given damages excessive 
+in relation to the person or the injury, it is as much the duty 
+of the court to interfere, to prevent the wrong, as in any other 
+case.’" Id. at 433, quoting Blunt v. Little, 3 F. Cas. 760 
+761-62 (No. 1,578) (C.C. Mass. 1822). In short, "‘the trial judge in the federal system oe) ee discretion to grant a 
+new trial if the verdict appears to [the judge] to be against the 
+weight of the evidence,’" and this “discretion includes over- 
+turning verdicts for excessiveness and ordering a new trial 
+without qualification, or conditioned on the verdict winner’s 
+refusal to agree to a reduction (remittitur).” Jd. at 433 
+quoting Byrd v. Blue Ridge Rural Elec. Cooperative, Inc. 356 pe . : (1958) (brackets supplied by the Court) (em- 
+In Gasperini, the Court also addressed the erini, respective roles 
+ween trial judges and appellate courts in administering the 
+stantive law governing damages. Even in a diversity case, 
+these are distinctly federal questions: “The proper role of the 
+caden 7 S tee Meventh Ciccuit bas put it, 0 district court's authority to 
+-_" a new trial is located in the common-law principle, later codified in 
+ludiciary Act of 1789, that “*[t)rials by jury in civil causes could not 
+Sen Sew eno peat, camatante, gluse ann Cie coc BS 
+utely necessary to justice, that there should, upon many occasions, be 
+opportunities of reconsidering the cause by a new trial.’* Johansen v. 
+Combustion Eng’g, Inc., 170 F.3d 1320, 1328 (11th Cir.), quoting Bright 
+v. Eynon, 1 Burr. 390, 393 (K.B. 1757) (Lord Mansfield), ndunbed 
+nom. , Combustion Eng’g, Inc. v. McGill, 120 S. Ct. 329 (1999). 
+
+
+=== PDF PAGE 14 ===
+18 
+trial and appellate courts in the federal system in reviewing 
+the size of jury verdicts is. . . a matter of federal law.’" Id. 
+at 437, quoting Donovan v. Penn Shipping Co. , 429 U.S. 648, 
+649 (1977) (per curiam).’ 
+According to the Court, “primary responsibility" for 
+application of damages law is “lodge{d] in the district court, 
+not the court of appeals... .." /d. at 438. The Court ex- 
+plained: "Trial judges have the ‘unique opportunity to consid- 
+er the evidence in the living courtroom context,’ . . . while 
+appellate judges see only the ‘cold paper record.’" Id. at 438, 
+quoting respectively Taylor v. Washington Terminal Co. , 409 
+F.2d 145, 148 (D.C. Cir.), cert. denied, 396 U.S. 835 
+(1969), and Gasperini v. Center for Humanities, Inc. , 66 F.3d 
+427, 431 (2d Cir. 1995). As a consequence, if an appellate 
+court reverses, “‘it must be because of an abuse of discretion 
+_... The very nature of the problem counsels restraint . . 
+.." Id. at 438, quoting Dagnello, 289 F.2d at 806. Such 
+restraint requires a federal appellate court to "‘give the benefit 
+of every doubt to the judgment of the trial judge.’" Id. at 438- 
+39, quoting Dagnello, 289 F.2d at 806 (emphasis added). 
+B. THe D.C. Cmcurr’s CONFLICTING APPROACH. 
+The D.C. Circuit’s "more searching inquiry" standard for 
+appellate review of district court decisions granting new trials 
+plainly conflicts with Gasperini. The D.C. Circuit gave no 
+deference to Judge Robertson’s “‘unique opportunity to 
+consider the evidence in the living courtroom context’” and he 
+was not “give[n] the benefit of every doubt" in his decision to 
+grant a new trial. Gasperini, 518 U.S. at 438, quoting Taylor 
+"The state law at issue in Gasperini provided that both the state trial 
+and intermediate appellate courts should apply the “materially deviates” 
+standard. 518 U.S. at 437-38. 
+te Pe oN — - 
+A ett ta eaehielicid the caatie. yehdhhh ital meet lee ore Wes oe ee Ee — - 
+ae 
+19 
+v. Washington Terminal Co., 409 F.2d at 148, and Dagnello 
+289 F.2d at 806. Instead, based on its misunderstanding of —omge A Amendment, the D.C. Circuit brushed aside the in ord “py > a — reasons the trial judge gave for grant- 
+First, the D.C. Circuit ruled that the district court had somehow applied a per se rule on the issue whether Tri County had taken reasonable steps to mitigate the damages 
+arising from Mr. Cross’s suspension of its permit without a hearing. However, as the trial court was well aware Tri County not only failed to seek administrative review of Mr Cross s suspension, but even failed to respond to his post- suspension invitation to be heard. The trial court had struck this evidence from the jury’s consideration. 
+yy because the jury had awarded only about half w Tri County had requested, the D.C. Circuit “ques- tion[ed]" the district court’s considered judgment that the damages award was excessive. The "rule of thumb" applied po we mgs seriously intruded into the district court’s ysis 0 excessiveness of the a in thi on the evidence it had heard. a 
+Third, unlike the district court, the D.C. Circuit appeared = ' appreciate the narrow scope of the constitutional viola- here -- the oral suspension of Tri County’s building permit without a hearing. See Tri County Industries, Inc. v District of Columbia, 104 F.3d at 460-62. Indeed, two days later, a valid stop work order was entered against Tri County 
+*The District’s rehearing petiti pointed out that the Gasperini irict’s r tion ted ini- Led thal capasns it had cited in its brief as setting the standard of review eee their | gia in Taylor, a D.C. Circuit decision cited favorably in 
+
+
+=== PDF PAGE 15 ===
+20 
+for a regulatory violation. Id. at 457 & 462 (observing that 
+“all [parties] agree" that “the stop work order . . . was a 
+legally sufficient bar to Tri County’s continuing work on the 
+facility” and remanding for consideration of “the possible 
+mooting effect of the stop work order"). In addition, several 
+weeks later, a District adjudicatory body found Tri County 
+guilty of a pre-suspension regulatory violation, which resulted 
+in an independent suspension of its building permit as a matter 
+of law.° 
+Furthermore, in what we believe is an unprecedented step, 
+the D.C. Circuit, as part of its effort to preserve the jury’s 
+verdict at the first trial, elected to review not the district 
+court’s ultimate evidentiary rulings but its abandoned trial 
+rulings. On the latter point, the D.C. Circuit ruled that “the 
+district court did not abuse its discretion in excluding the 
+evidence” of health and safety concerns that might have 
+triggered additional regulatory responses or have otherwise 
+allowed the District to rescind its approval of Tri County’s 
+building permit. App. 10. This ruling, however, misses the 
+mark. The issue was not whether the district court’s aban- 
+doned trial rulings excluding and striking evidence were 
+within its discretion but whether, in the living courtroom 
+context, it abused its discretion in its post-trial ruling granting 
+a new trial because, in its view, the damages award was 
+°To be sure, the district court did not spell out in detail its reasoning. 
+However, “[a] trial judge is not required to enter supporting findings of 
+fact and conclusions of law when granting a new-trial motion.” Allied 
+Chemical Corp. v. Daiflon, Inc., 449 U.S. at 36 n.3. Furthermore, it 
+should not be assumed that the district court, in its new trial order, 
+"intended to set forth each and every reason for its order.” Jd. at 36 n.3. 
+21 
+excessive and its evidentiary rulings had unfairl judi 
+the District.'° . oe 
+In short, the D.C. Circuit’s “more searching inquiry” 
+standard is improper when the trial judge grants a new trial 
+‘on the ground that the verdict is against the weight of the evidence.’" App. 10, quoting Langevine, 106 F.3d at 1023. 
+That standard becomes even more improper when it causes an 
+appellate court to review evidentiary rulings abandoned by the 
+trial judge instead of the evidentiary rulings he finally con- 
+cluded were proper. In the case of such evidentiary rulings, 
+the tnal judge’s role vis-a-vis the jury is exclusive, and when 
+a trial judge grants a new trial based, in whole or in part, on 
+a reassessment of his own evidentiary rulings, he has conclud- 
+ms that he has disabled the jury from performing its func- 
+on. 
+Here, the D.C. Circuit wrongly substituted its judgment 
+for the considered discretionary judgment of the district court 
+ae a new na The district court acted well within its 
+On in ruling that a new trial was necessary because, 
+inter alia, (1) his evidentiary rulings disabled the jury on 
+properly performing its function; (2) an injured party who 
+seeks more than $11,000,000 in damages, based upon a 
+procedural due process violation, cannot be said to have taken 
+reasonable steps to mitigate damages when it takes no avail- 
+able steps whatsoever; and (3) Tri County’s profit projections 
+“On this point, the D.C. Circuit criticized the District on the grounds 
+that it “never met the trial court’s repeated injunction to show how their 
+health and safety issue would have triggered additional regulatory proce- dures or otherwise allowed the District to rescind its earlier approval." 
+App. 10. With all due respect, this is a matter that should have been left 
+to the district court to resolve in light of the entire case. 
+
+
+=== PDF PAGE 16 ===
+22 
+were speculative, especially given the evidence of real market 
+conditions." 
+"Finally, 
+standard of review made a di 
+(see supra at 11): 
+THE COURT: What is your best ground for supporting Judge 
+*s decision? / 
+ae eee Given the fact that there is a very tough stan 
+dard in this Circuit -- = 
+THE courT: Yes, I’m thinking of High-Low. 
+THE COURT: - of taking the case from the jury. 
+: Right. 
+peyote = : . [T]his Court has to find that Judge 
+Robertson abused his discretion, which is also a high standard. 
+THE COURT: No, now wait, no, no, no. 
+THE COURT: No. . is 
+THE COURT: No. That's not what High-Low says, does it: 
+_MURASKY: I thought it did. 
+aneumn High-Low, which both Judge Edwards and I sat 
+on Judge Edwards wrote the opinion, sets forth a rather restric- 
+tive standard for a District Judge taking away from = a 
+verdict and ordering a new trial. You are familiar with the case, 
+aren't you? 
+MS. MURASKY: Yes, | am. 
+Transcript of Argument 16 (Nov. 12, 1999). 
+In fact Hi-Lo does state that “[t]he decision whether to grant a mouot 
+1 should be reversed on appeal only if” the distn 
+‘hi = 836 F.2d at 646 (internal quotation has eviscerated 
+for a new trial . 
+court’s "discretion has been abused. 6 (is 
+paar ahr However, as is obvious, the D.C. Circuit 
+this standard by interpretation. 
+23 
+Il. UNLESS GASPERINI IS APPLIED TO RESOLVE It, 
+THERE Is AN INTOLERABLE CONFLICT AMONG THE 
+CIRCUITS OVER THE STANDARD TO BE APPLIED TO 
+APPELLATE REVIEW OF NEW TRIAL ORDERS. 
+There is an intolerable conflict among the Circuits over 
+the standard of appellate review of new trial orders. This 
+conflict continues despite Gasperini, whose significance has 
+eluded several Circuits, including the D.C. Circuit. On one 
+side are the Circuits which~ understand that the Seventh 
+Amendment affords district courts substantial discretion to 
+order new trials; on the other are the Circuits which hold that 
+the Seventh Amendment strictly constrains the district court’s 
+discretion in this respect and requires close appellate scrutiny 
+of new trial orders. 
+The significance of Gasperini in granting broad discretion 
+to district courts to order new trials and in constraining 
+appellate court review of such orders has been recognized by 
+the Seventh Circuit, which previously had followed a standard 
+similar to the D.C. Circuit’s current approach. In Medcom 
+Holding Co. v. Baxter Travenol Laboratories, Inc., 106 F.3d 
+1388 (7th Cir. 1997), the Seventh Circuit applied Gasperini’s 
+abuse of discretion standard to review a district court’s grant 
+of a new trial. In so ruling, the court observed that, prior to 
+Gasperini, it had “applied this standard ‘somewhat more 
+exacting[ly]’ when the district court granted a new trial 
+because of Seventh Amendment considerations." Jd. at 1397. 
+Given Gasperini, however, the court, pursuant to its Circuit 
+Rule 40(e), overruled its prior jurisprudence; abandoned its 
+exacting scrutiny standard for appellate review; and announced 
+that it would review rants of new trials "with somewhat more 
+deference to the district court, utilizing an ordinary abuse of 
+discretion standard .. .." Jd. at 1397. The Seventh Circuit 
+subsequently explained that “[g]enerally, an abuse of discre- 
+
+
+=== PDF PAGE 17 ===
+24 
+tion only occurs where no reasonable person could take the 
+view adopted by the trial court." McClain v. Owens-Corning 
+Fiberglas Corp., 139 F.3d 1124, 1126 (7th Cir. 1998) (up- 
+holding order granting a new trial on damages) (internal 
+quotation marks omitted). 
+The conflict among the Circuits over the standard to be 
+applied to appellate review of orders granting new trials runs 
+even deeper. On one side are the Circuits applying a strict 
+scrutiny standard in reviewing new trial orders granted be- 
+cause, in the view of the trial judge, the verdict is against the 
+weight of the evidence. See, e.g., Lind v. Schenley Indus- 
+tries, Inc., 278 F.2d 79, 90 (3rd Cir.) (en banc) (appellate 
+courts must carefully scrutinize orders granting new trials to 
+ensure that trial judge does not usurp function of jury), cert. 
+denied, 364 U.S. 835 (1960); Wilburn v. Maritrans GP, Inc., 
+139 F.3d 350, 363 (3rd Cir. 1998) (ruling, without citing 
+Gasperini, that "a closer degree of scrutiny" applies to new 
+trial orders); Brady v. Fort Bend County, 145 F.3d 691, 713 
+(Sth Cir. 1998) (ruling, without citing Gasperini, that standard 
+of appellate review governing denial of motion for new trial 
+is more deferential than standard governing grant of new 
+trial), cert. denied, 525 U.S. 1105 (1999); Holmes vy. Mas- 
+sillon, Ohio, 78 F.3d 1041, 1047 (6th Cir.) (ruling post- 
+Gasperini, and citing Lind and Hutchinson v. Stuckey, that 
+appellate court “must closely scrutinize the trial court’s 
+justifications in order to protect the litigant’s night to a jury 
+trial"), cert. denied sub nom., Fabianich v. Holmes, 519 U.S. 
+935 (1996); and Fireman’s Fund Insurance Co. v. Aalco 
+Wrecking Co., Inc., 466 F.2d 179, 187 (8th Cir. 1972) 
+(following Lind), cert. denied, 410 U.S. 930 (1973).” 
+"The Fireman's Fund decision provoked a spirited dissent from an 
+order denying en banc reconsideration. 466 F.2d at 188-90 (dissenting 
+(continued...) 
+25 
+. On the other side are a number of other Circuits includ- ing, as already noted, the Seventh Circuit. See, €.g., ee v. Armstrong World Industries, Inc., 103 F.3d 2, 5 (2d Cir. 1996) (ruling, on remand from this Court for reconsideration in light of Gasperini, that trial court decision on new trial 
+tal court orders granting remittitur or new jury trial, given trial Judge’s unique Opportunity to consider the evidence including the credibility of witnesses), ) 
+-‘motion for new trial is addressed to the judicial discretion of , the trial Judge and will not be reversed except for a clear abuse of that discretion’*) (id. at 188 (emphasis supplied by dissent)). 
+
+
+=== PDF PAGE 18 ===
+26 
+evidence and the standard of appellate review applicable to a 
+new trial order. This Court should make clear that Gasperini 
+resolves this conflict. 
+CONCLUSION 
+Tri County was not deprived of its Seventh Amendment 
+right to a jury trial by the district court’s order granting a new 
+trial. Instead, it received a jury trial in a proceeding that was 
+fair to both sides, and the jury awarded it $100. 
+The Court should grant this petition for review and 
+summarily vacate and remand this case to the D.C. Circuit for 
+reconsideration in light of Gasperini. In the alternative, it 
+should grant plenary review. 
+Respectfully submitted, 
+ROBERT R. RIGSBY 
+Corporation Counsel 
+CHARLES L. REISCHEL 
+Deputy Corporation Counsel 
+Appellate Division 
+DONNA M. MURASKY 
+Senior Assistant Corporation Counsel 
+Counsel of Record 
+Office of the Corporation Counsel 
+Government of the District of Columbia 
+One Judiciary Square -- 6th Floor South 
+441 Fourth Street, N.W. 
+Washington, D.C. 20001 
+Telephone: (202) 727-6252 
+(202) 724-5691 
+
+
+=== PDF PAGE 19 ===
+APPENDIX 
+
+
+=== PDF PAGE 20 ===
+Gnited States Court of Appeals 
+FOR THE DISTR'CT OF COLUMBIA CIRCUIT 
+No. 99-7028 
+Tri County Inpustrigs, Inc. 
+Vv 
+APPELLEES 
+District oF COLUMBIA, ET AL. 
+Court 
+(No. 94cv02014) 
+Appeal from the United States District 
+for the District of Columbia 
+argued the cause for the appellant. 
+the 
+14 days 
+upon motions 
+Frank J. Emig 
+Donna 
+
+
+=== PDF PAGE 21 ===
+2 
+Charles L. Reischel, Deputy Corporation Counsel, Office of 
+the Corporation Counsel, were on brief for the appellees. 
+Before: Epwarps, Chief Judge, SitBERMAN and HENDERSON, 
+Circuit Judges. 
+Opinion for the court filed by Circuit Judge HENDERSON. 
+Karen LeCrart Henperson, Circuit Judge: This appeal 
+arises from proceedings determining what damages, if any, 
+appellant Tri County Industries, Inc. (Tri County) should be 
+awarded to compensate for what this court previously deter- 
+mined to be the District of Columbia’s (District) violation of 
+its fifth amendment right to procedural due process. See Tri 
+County Indus., Inc. v. District of Columbia, 104 F.3d 455, 
+460-62 (D.C. Cir. 1997). Following the first of two trials, the 
+jury awarded $5,000,000. The trial court then granted a new 
+trial, nisi remittitur to $1,000,000, which was refused. At the 
+second trial, the district court admitted evidence excluded 
+from the first and the jury returned nominal damages of 
+$100. Tri County challenges the court’s order granting the 
+District’s alternative motion for a new trial as well as several 
+evidentiary rulings in the second trial and requests reinstate- 
+ment of the first award or, in the alternative, a new trial due 
+to allegedly erroneous evidentiary rulings during the second 
+trial. For the reasons set forth below, we reverse the district 
+court’s order of July 23, 1998 and reinstate the original jury 
+verdict of $5,000,000. 
+I. 
+On February 26, 1993 Tri County obtained a building 
+permit from the District authorizing conversion of an empty 
+warehouse into a facility for its business of decontaminating 
+soil tainted with oil and other hazardous materials. While 
+securing the permit, Tri County also obtained an air quality 
+permit as well as a waiver of the required environmental 
+impact statement. Even several months after it obtained the 
+necessary permits, however, it had not begun operating due 
+to equipment delivery delays. On September 7 it received a 
+District citation for storing soii at the facility without the 
+3 
+required certificate of occupancy.' Tri County neither re- moved the soil nor paid the fine; consequently, the District issued a stop-work order on September 22. Tri County did not challenge the citation or order. Its failure to respond led to an order by the District Department of Consumer and Regulatory Affairs (DCRA) dated October 13, 1993 purport- ing to suspend Tri County’s building permit. 
+The building permit had already been suspended on Sep- tember 20, however, when, prompted by a groundswell of community opposition to the project, Hampton Cross, acting DCRA director, summarily suspended Tri County’s building permit. The DCRA sent Tri County a letter requesting further information on October 15, 1993 to which Tri County did not respond. On December 6 the DCRA sent another letter, this time rescinding the environmental impact state- ment waiver and threatening imminent revocation proceed- ings on the building permit. Tri County’s only response was to remove the soil that had caused the initial citation. Tri County’s counsel advised it that an appeal likely would be influenced by politics given the strong community opposition and that he could not guarantee when such an appeal would be heard. Given the high rental cost of the property ‘in question and the necessity of purchasing, without delay, costly equipment in high demand, Tri County estimated the costs of an appeal at nearly $1,000,000 With no assurance of a prompt hearing and the prospect of a politically influenced review process, Tri County abandoned its project. 
+Tri County brought suit under 42 U.S.C. § 1983 and suc- ceeded in its challenge to the September 20 suspension of its building permit when this court reversed the district court’s dismissal, holding that the suspension violated Tri County’s right to procedural due process. See Tri County Indus., 104 F.3d at 460-62. We remanded for consideration of damages. 
+‘A certificate of occupancy is issued when renovation of a struc- ture has been completed in conformity with the earlier application — ene gen and the building is found to be in compliance with applicable zoning regulations and the building code. See 12 DCMR § 118, 39 DCR 8711-12. : 
+
+
+=== PDF PAGE 22 ===
+4 
+See id. at 462. The subsequent proceedings in the district 
+court are at issue in this appeal. 
+The first trial began on April 14, 1998. Tri County pre- 
+sented evidence of its costs already incurred, evidence of lost 
+profits through the testimony of a mechanical engineer and 
+the report of an economist and evidence as to the local 
+market demand for a soil treatment facility through the 
+testimony of a geologist at an environmental consulting firm. 
+The District largely accepted the testimony, often failing to 
+object or seriously cross-examine. Instead, the District re- 
+lied on its argument that Tri County failed to mitigave its 
+damages when it refused to provide the information the 
+DCRA requested and when it declined to challenge the stop- 
+work and suspension orders. The District also sought to 
+demonstrate that Tri County might not have been allowed to 
+operate its facility because community opposition, arising 
+largely out of concern over the facility’s effect on the health 
+and safety of the community, would derail the regulatory 
+procedures. Hindering its argument was the trial court's 
+exclusion or striking of evidence relating to health and safety 
+concerns. See Joint Appendix (JA) 186-89. The court found 
+the District’s permitting process had resolved the issues as a 
+matter of law. See id. at 182-83, 189. In the end, the jury 
+awarded $5,000,000. 
+The trial court denied the District’s post-trial motion for 
+judgment as a matter of law but granted the alternative 
+motion for a new trial, nisi remittitur to $1,000,000. Ad- 
+dressing the District’s primary argument, the court ruled that 
+the District had to establish both the standard for reasonable 
+mitigation under the circumstances and that Tri County failed 
+to meet it. The District failed to sustain that burden, particu- 
+larly in light of Tri County’s evidence that it would have to 
+spend nearly $1,000,000 to recoup its expenses of $536,421. 
+The court reversed field, however, in reviewing the award for 
+future damages which, assuming the $536,421 in costs were 
+awarded, constituted $4,463,579 of the $11,628,174 figure Tri 
+County presented to the jury. Emphasizing that Tri County 
+did not “invest{] a penny to seek reinstatement of the 
+unlawfully suspended building permit,” the court ruled that 
+5 
+the District need not have established a reasonableness stan- 
+dard because Tri County’s failure to mitigate was unreason- 
+able per se. District Court’s Memorandum Order filed July 
+23, 1998 (Memorandum Order), at 2. The court also found 
+the lost profits evidence should not have been considered by 
+the jury without the District having the chance to prove that 
+the facility might not have been allowed to operate. Accord- 
+ingly, the court found the estimate of lost profits “too specula- 
+tive and remote” and, in any event, found the award “grossly 
+excessive.” Jd. 
+Tri County declined the $1,000,000 remittitur and a second 
+trial commenced on January 29, 1999. In this trial, the 
+district court allowed the District to admit the health and 
+safety evidence originally excluded. This time the District 
+challenged Tri County’s experts and offered the testimony of 
+three new witnesses, one of whom refuted Tri County’s 
+estimate of future profits. Another witness discussed a po- 
+tential zoning bar to the facility and the third discussed 
+health and safety hazards associated with soil remediation. 
+joan second jury awarded Tri County nominal damages of 
+II. 
+We review the district court’s grant of a new trial for abuse 
+of discretion. See Langevine v. District of Columbia, 106 
+F.3d 1018, 1023 (D.C. Cir. 1997) (citing Hutchinson v. Stuck- 
+ey, 952 F.2d 1418, 1420-21 (D.C. Cir. 1992)). “{A] more 
+searching inquiry is required” if the new trial is granted than 
+if denied, however, because of “the concern that a judge’s 
+nullification of the jury’s verd*-t may encroach on the jury’s 
+important fact-finding function.” Jd. at 1023 (quoting Vander 
+Zee v. Karabatsos, 589 F.2d 723, 729 (D.C. Cir. 1978)). 
+In its post trial order, the trial court stated three reasons 
+for granting a new trial: (1) Tri County’s failure to mitigate; 
+(2) the speculativeness in Tri County’s projecticns of future 
+profits; and (3) the “grossly excessive” jury verdict. Memo- 
+randum Order at 2. The court also thought it had erred in its 
+evidentiary rulings excluding evidence related to community 
+
+
+=== PDF PAGE 23 ===
+6 
+opposition to the project. See Memorandum Order at 2 
+(plaintiff's expert testimony should not have been received 
+“without allowing [the District] to adduce proof that plaintiff's 
+soil remediation facility would never have been permitted to 
+operate”). Tri County challenges each ground. 
+First, the court found Tri County’s failure to expend any 
+resources to seek reinstatement of its building permit per se 
+unreasonable in light of the $11,628,174 it claimed in lost 
+profits. See id. Tri County contends that the determination 
+of whether a party satisfied its duty to mitigate, a question 
+that turns on what action was reasonable under the circum- 
+stances, see, e.g., Berger v. Iron Workers Reinforced Rodmen, 
+Local 201, 170 F.3d 1111 (D.C. Cir. 1999); Lennon v. United 
+States Theatre Corp., 920 F.2d 996 (D.C. Cir. 1990), is a jury 
+question. Here, we agree with Tri County that its alleged 
+failure to mitigate was an issue properly submitted to the 
+jury. See Hilord Chem. Corp. v. Ricoh Elecs., Inc., 875 F.2d 
+32, 38-39 (2d Cir. 1989); Waldorf v. Shuta, 142 F.3d 601, 623- 
+24 (3d Cir. 1998). Moreover, failure to mitigate is an affirma- 
+tive defense and the party asserting it bears the burden of 
+demonstrating the opposing party’s failure to act reasonably 
+under the circumstances. See Lennon, 920 F.2d at 1000; see 
+also Mark Keshishian & Sons, Inc. v. Washington Square, 
+Inc., 414 A.2d 834, 842 n.19 (D.C. 1980) (burden of showing 
+mitigation is on party raising issue) (citing Camalier & 
+Buckley-Madison, Inc. v. Madison Hotel, Inc., 513 F.2d 407, 
+419-20 n.92 (D.C. Cir. 1975)). 
+Tri County created a jury issue when it offered an explana- 
+tion for its failure to challenge the DCRA’s suspension order 
+or otherwise pursue administrative remedies. Its explanation 
+included evidence that it believed suggested the reviewing 
+body, the District’s Board of Appeals and Review, might not 
+have acted impartially due to political influence and that an 
+appeal would have been indefinitely slow and expensive.’ 
+2 Tri County’s lawyer (in 1993) testified that Cross told him that 
+the Board of Appeals and Review would act at the direction of the 
+District’s Mayor and the Mayor’s chief of staff. Tri County intro- 
+duced Cross’s deposition testimony indicating he had met with the 
+7 
+Moreover, a jury justifiably could have found it reasonable for Tri County not to contest the September 22 stop-work order and subsequent suspension resulting from the failure to pay the fine given the pre-existing September 20 suspension. 
+The District argues simply that the evidence it presented regarding Tri County’s failure to mitigate “was firmer by far.” Brief of Appellee at 30. Tri County responds that it is improper to now assess the relative strength of the parties’ — ene} the trial court properly gave the failure to asens ay ' = jury and properly instructed the jury on 
+[T]he law requires that an injured party take all the reasonable Steps it can to avoid further injury and reduce its loss. Tri County may not recover damages for any portion of its injury which it could have avoided through 
+the exercise of reasonable care and prudence.... The District asserts that Tri County by failing to pay the $500 fine ... and by failing to appeal the stop work order, is not entitled to any damages. 
+JA 193. Thus, to the extent the district court based its new trial decision on the mitigation issue, it abused its discretion in declaring ex post that Tri County’s failure to pursue administrative remedies to reinstate its permit was per se unreasonable, thereby withdrawing the mitigation issue from the jury. See generally Tatum v. Morton, 562 F.2d 1279, 1283 (D.C. Cir. 1977) (“(T]he district court’s per se approach of imposing an absolute duty to mitigate was not sound.”). 
+The trial court also found that Tri County’s evidence of lost profits was “too speculative and remote” and that the award 
+of less than half of the amount Tri County estimated was “grossly excessive.” Memorandum Order at 2. Where, as here, the fact of injury has been established and the defen- dant’s action (suspension of the building permit) affected the plaintiff's ability to present actual revenue and cost figures to 
+Mayor and members of the community opposition following the — om — permit. Tri County’s lawyer also testified that it wo ve taken eight to twelve months to resolve th administratively. JA 76~77. roa oe 
+
+
+=== PDF PAGE 24 ===
+8 
+support a lost profits projection, the applicable standard for 
+proving lost profits damages is the one this court enunciated 
+in Samaritan Inns, Inc. v. District of Columbia, 114 F.3d 
+1227 (D.C. Cir. 1997): : 
+Where the tort itself is of such a nature as to preclude 
+the ascertainment of the amount of damages with cer- 
+tainty, it would be a perversion of fundamental principles 
+of justice to deny all relief to the injured person.... In 
+such case, while the damages may not be determined by 
+mere speculation or guess, it will be enough if the 
+evidence show the extent of the damages as a matter of 
+just and reasonable inference, although the result be only 
+approximate. Thus, while a plaintiff seeking to recover 
+lost profits must ordinarily prove the fact of injury with 
+reasonable certainty, proof of the amount of damages 
+may be based on a reasonable estimate. Although a 
+court will not permit a plaintiff to recover damages based 
+on “mere speculation or guess,” the fact that an estimate 
+is uncertain or inexact will not defeat recovery. ... 
+114 F.3d at 1234-35 (quoting Story Parchment Co. v. Pater- 
+son Parchment Paper Co., 282 U.S. 555, 563 (1931)) (citations 
+omitted). 
+Tri County produced evidence indicating it sustained lost 
+profits of $11,628,174. The evidence included the testimony 
+of eight witnesses’ and ranged from projections of tons of 
+contaminated soil the facility would treat per hour and the 
+number of hours it would operate per day to estimates of 
+equipment and labor costs. With expert testimony regarding 
+the accessible market for soil remediation and a comparison 
+of service rates for similar operations, an economist projected 
+the profitability of Tri County’s facility. Their respective 
+opinions were left largely unchallenged by the District. Re- 
+gardless whether the estimates were on the high end, that is, 
+3The witnesses included its President, Glenn Selzer, its Vice 
+President and its CPA. In addition, a chemical engineer, a remedi- 
+ation expert, a financial economist, a mechanical engineer and an 
+expert in soil remediation testified as to Tri County’s costs and lost 
+profits. 
+9 
+“uncertain or inexact,” Samaritan Inns, 114 F.3d at 1235, 
+they were sufficiently well-founded to avoid characterization 
+as “mere speculation or guess.” /d. 
+Moreover, we question the trial court’s finding that the 
+award “shock[{ed] the judicial conscience.” Memorandum Or- 
+der at 2. Tri County presented evidence that its costs 
+amounted to $536,421 and its lost profits amounted to 
+$11,628J74. The jury awarded $5,000,000, less than half of 
+the total amount claimed and, for that matter, less than haif 
+of the future profits estimate standing alone. The award was 
+within the “reasonable range within which the jury may 
+properly operate.” Langevine, 106 F.3d at 1024. 
+As demonstrated above, the trial court tried to cover all 
+bases in its order granting a new trial but the order reveals 
+that the court’s real concern was its exclusion of evidence 
+regarding health and safety issues which may have led to 
+community resistance and, perhaps, regulatory barriers to Tri 
+County’s project. For example, while declaring the award 
+grossly excessive, the district court expressed its dissatisfac- 
+tion with its original evidentiary rulings: 
+(T}he jury’s award ... shocks the judicial conscience, 
+particularly in view of the realistic prospect, which I did 
+not permit defendants to prove at trial, that there would 
+be continued community resistance to increased dump 
+truck traffic ... and a very real likelihood that the 
+District of Columbia would have closed down the remedi- 
+ation facility ... or that it never would have been 
+permitted to commence operations at all. 
+Memorandum Order at 2-3; see also id. at 2 (plaintiff's 
+expert testimony should not have been received “without 
+allowing [the District) to adduce proof that plaintiff's soil 
+remediation facility would never have been permitted to 
+operate”). 
+In the excerpt above, the district court alluded to the 
+District’s argument under Carey v. Piphus, 435 U.S. 247, 
+266-67 (1978), that a plaintiff who suffers a procedural due 
+process violation is entitled only to nominal damages if he 
+
+
+=== PDF PAGE 25 ===
+10 
+would have suffered the same “injury” absent the violation. 
+Thus, the District argues that here the procedural violation 
+caused no compensable injury because the action taken, sus- 
+pension of the permit, was justified even if improperly execut- 
+ed. The District claimed that Tri County’s damages were 
+minimal because the facility either would not have become 
+operational or would not have been operational for long due 
+to community resistance. 
+The trial court excluded the District’s health and safety 
+evidence under Rule 403 and determined that the permitting 
+process disposed of these issues as a matter of law. See JA 
+178, 189. The District argues that the evidentiary rulings 
+practically negated its argument under Carey that the project 
+would have been halted anyway. Despite its reliance on this 
+argument, the District never met the trial court’s repeated 
+injunction to show how the health and safety issue would have 
+triggered additional regulatory procedures or otherwise al- 
+lowed the District to rescind its earlier approval. See JA 172; 
+see also id. at 168-69, 172-75, 186-87. In short, the District 
+failed to show that community concern would be brought to 
+bear on Tri County’s operation, specifically through the regu- 
+latory process. Accordingly, the district court did not abuse 
+its discretion in excluding the evidence. In light of our 
+findings that Tri County’s evidence was properly before the 
+jury and the District’s evidence was properly excluded, we 
+conclude that the district court, in granting a new trial based 
+on a revised view of its original rulings, did abuse its discre- 
+tion. See Langevine, 106 F.3d at 1023 (a “more searching 
+inquiry” is particularly necessary “when the motion [for new 
+trial] is granted on the ground that the verdict is against the 
+weight of the evidence”). 
+For the foregoing reasons, we reverse the district court’s 
+order of July 23, 1998, reinstate the original jury verdict of 
+$5,000,000 and vacate the verdict and judgment resulting 
+from the second trial. 
+So ordered. 
++In light of our holding, we need not reach Tri County’s alterna- 
+tive grounds for reversal based on the second trial. 
+ll 
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+Tri-County Industries, Inc., 
+Plaintiff(s), 
+v. Civil Action No. 94-2014 (JR) 
+District of Columbia, et al. 
+Defendant(s). FILED 
+APR 20 1998 
+NANCY MAYER-WHITTINGTON, CLERK 
+U.S. DISTRICT COURT 
+JUDGMENT ON THE VERDICT 
+FOR PLAINTIFF 
+This cause having been tried by the Court and a Jury, 
+before the Honorable James Robertson, Judge presiding, 
+and the issues having been duly tried and the Jury having 
+— its verdict; now, therefore, pursuant to the 
+ve ; 
+IT IS ORDERED, ADJUDGED AND DECREED that 
+the plaintiff(s) Tri-County Industries, Inc. have and recov- 
+er of and from the defendant(s) District of Columbia, et al. 
+— sum of Five Million Dollars ($5,000,000.00), together 
+costs. 
+NANCY MAYER-WHITTINGTON, Clerk 
+Dated: /s/ April 20, 1998 By: /s/ Jackie Francis 
+Deputy Clerk 
+
+
+=== PDF PAGE 26 ===
+12 
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+TRI-COUNTY INDUSTRIES, INC. 
+Plaintiff, 
+Vv. Civil Action No. 94-2014 (JR) 
+DISTRICT OF COLUMBIA, ef al. FILED 
+Defendants. JUL 23 1998 
+CLERK, U.S. DISTRICT COURT 
+DISTRICT OF COLUMBIA 
+MEMORANDUM ORDER 
+Before the Court is defendants’ motion for judgment 
+notwithstanding the verdict or in the alternative for a new trial 
+[#115]. 
+The motion for JNOV (now, of course, properly styled 
+judgment as a matter of law, Fed. R. Civ. P. 50), will be 
+denied. The most important grounds for defendants’ motion, 
+set forth as well in several pretrial motions, is that plaintiff 
+failed to mitigate its damages. The mitigation question turns 
+upon what would have been reasonable for Tri-County to do 
+by way of mitigation. Plaintiff adduced proof that it would 
+have had to make capital expenditures, continue in possession 
+of a lease, and incur substantial legal expenses over a long 
+period of time to have a chance of going forward with its 
+business. The jury might reasonably have found that it would 
+have been unreasonable to spend nearly a million dollars to 
+recoup the $536,421 in expenses Tri-County had already 
+incurred. In any case, the party raising mitigation as an 
+affirmative defense must prove that there is a standard for 
+reasonableness and that plaintiff did not meet it. Norms v. 
+13 
+Green, 656 A.2d 282 (D.C. 1995). The District of Columbia 
+did not sustain that burden at trial. 
+The jury’s award of future profits is another matter. 
+Plaintiff's position is that it was entitled to recover 
+$11,628,174 of future profits (the jury apparently awarded 
+$4,463,579) without investing a penny to seek reinstatement 
+of the unlawfully suspended building permit. No proof of a 
+standard of reasonable mitigation efforts is required to evalu- 
+ate that proposition: it is unreasonable per se. 
+The jury’s award of future profits, moreover, was based 
+on expert testimony that should not have been received -- or, 
+at least, should not have been received without allowing the 
+District of Columbia to adduce proof that plaintiff's soil 
+remediation facility would never have been permitted to 
+operate. Plaintiff's proof of future profits consisted of what 
+amounted to a pro-forma statement of income and expense. 
+Plaintiff had no experience in the business of “burning” soil 
+for remediation. Plaintiff's expert testimony acknowledged 
+the recent failure of a similar remediation facility in Virginia, 
+but the impact of that failure upon plaintiff's hoped-for future 
+profits was not analyzed, nor was the implication of the 
+diminishing market price per ton for cleaning petroleum- 
+contaminated soil. Upon reflection, I am convinced that the 
+evidence of lost future profits was too speculative and remote 
+and that it failed to meet the required standard of reasonable 
+certainty. 
+In addition, the jury’s award of some $4.5 million in 
+assertedly lost profits was in any event grossly excessive and 
+shocks the judicial conscience, particularly in view of the 
+realistic prospect, which I did not permit defendants to prove 
+at trial, that there would be continued community resistance 
+to increased dump truck traffic along Bryant Street, where the 
+
+
+=== PDF PAGE 27 ===
+14 
+remediation facility was located, and a very real likelihood 
+that the District of Columbia would have closed down the 
+remediation facility sooner or later in any event, or that it 
+never would have been permitted to commence operations at 
+all. . 
+Accordingly, it is necessary to grant the motion for a new 
+trial. At the new trial, if plaintiff is again permitted to adduce 
+proof of lost future profits, defendants will be permitted to 
+rebut that proof with evidence of the likely course of future 
+community resistance and regulatory activities with respect to 
+the remediation facility. 
+Because a new trial on damages may be unduly burden- 
+some upon the parties, however, the order for a new trial will be nisi titur. See Fai Nationwide M ay 
+839 F.2d 680, 693-94 (D.C. Cir. 1987); Hutchinson v. 
+Stuckey, 952 F.2d 1418, 1423 n.5 (D.C. Cir. 1992); Lange- 
+vine v. District of Columbia, 106 F.3d 1018, 1026 n.3 (D.C. 
+Cir. 1997) (Henderson, J., concurring in part and dissenting 
+in part). 
+The motion for a new trial will be granted unless, within 
+thirty days after entry of this order, plaintiff accepts a remitti- 
+tur of the jury’s verdict to $1 million. 
+Dated: /s/ July 23, 1998 /s/_ James Robertson 
+JAMES ROBERTSON 
+United States District Judge 
+15 
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF COLUMBIA 
+TRI-COUNTY INDUSTRIES, INC. 
+Plaintiff(s) 
+v. Civil Action No. 94-2014 
+DISTRICT OF COLUMBIA, ET AL. 
+Defendant(s). FILED 
+FEB - 4 1999 
+NANCY-MAYER WHITTINGTON, CLERK 
+U.S. DISTRICT COURT 
+JUDGMENT ON THE VERDICT 
+FOR PLAINTIFF 
+This cause having been tried by the Court and a Jury, 
+before the Honorable James Robertson, Judge presiding, 
+and the issues having been duly tried and the Jury having 
+duly rendered its verdict; now, therefore, pursuant to the 
+verdict, 
+IT Is ORDERED, ADJUDGED AND DECREED that 
+the plaintiff(s) Tri-County Industries, Inc. have and recov- 
+er of and from the defendant(s) District of Columbia, the 
+Mayor of the District of Columbia, the Department of 
+Consumer and Regulatory Affairs, the Director of the 
+Department of Consumer and Regulatory Affairs and the 
+Administrator of Environmental Regulation Administration 
+the sum of One Hundred Dollars ($100.00) as nominal 
+damages, together with costs. 
+NANCY MAYER-WHITTINGTON, Clerk 
+Dated: /s/ Feb. 4, 1999 _—_ By: /s/ Joseph G. Burgess 
+Deputy Clerk 
+
+
+=== PDF PAGE 28 ===
+16 
+UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+No. 99-7028 September Term, 1999 
+94cv02014 
+Tri-County Industries, Inc., 
+a Maryland Corporation, —_ UNITED STATES COURT OF APPEALS 
+Appellant FOR DISTRICT OF COLUMBIA CIRCUIT 
+Vv. FILED MAR 8 2000 
+District of Columbia, CLERK 
+a municipal corporation, et al., 
+Appellees 
+BEFORE: Edwards, Chief Judge, Silberman and 
+Henderson, Circuit Judges 
+ORDER 
+Upon consideration of appellees’ petition for rehearing 
+filed February 17, 2000, it is 
+ORDERED that the petition be denied. 
+Per Curiam 
+FOR THE COURT: 
+Mark J. Langer, Clerk 
+BY: /s/ Robert A. Bonner 
+Robert A. Bonner 
+Deputy Clerk 
+17 
+UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+No. 99-7028 September Term, 1999 
+94cv02014 
+Tri-County Industries, Inc., 
+a Maryland Corporation, _ uNTTED STATES COURT OF APPEALS 
+Appellant FOR DISTRICT OF COLUMBIA CIRCUIT 
+Vv. FILED MAR 8 2000 
+District of Columbia, CLERK 
+a municipal corporation, et al., 
+Appellees 
+BEFORE: Edwards, Chief Judge; Silberman, Williams, 
+Ginsburg, Sentelle, Henderson, Randolph, 
+Rogers, Tatel and Garland, Circuit Judges 
+ORDER 
+Upon consideration of appellees’ petition for rehearing en 
+banc, and the absence of a request by any member of the 
+court for a vote, it is 
+ORDERED that the petition be denied. 
+Per Curiam 
+FOR THE COURT: 
+Mark J. Langer, Clerk 
+BY: /s/ Robert A. Bonner 
+Robert A. Bonner 
+Deputy Clerk 
+Circuit Judge Tatel did not participate in this matter. 

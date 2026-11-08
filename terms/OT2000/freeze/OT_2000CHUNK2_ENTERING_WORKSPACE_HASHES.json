@@ -1,0 +1,22 @@
+[
+  {
+    "source": "workspace/neutral-projection.md",
+    "frozen": "freeze/OT_2000CHUNK2_ENTERING_neutral_projection.md",
+    "sha256": "913e67a2f0014732e1c2321bc4d6b9ae8fd4e039750a9368ba06d2e4127ccf28"
+  },
+  {
+    "source": "workspace/continuity.md",
+    "frozen": "freeze/OT_2000CHUNK2_ENTERING_continuity.md",
+    "sha256": "ec0b0dd4555b70a2d671d7a8920cacfded19191755a34d97b10b23f6c8fc4865"
+  },
+  {
+    "source": "workspace/manifest.md",
+    "frozen": "freeze/OT_2000CHUNK2_ENTERING_manifest.md",
+    "sha256": "f237324b24e51f262a25dc5ce78de9e3d81cc5b6ee6194697e4be2a149b76d83"
+  },
+  {
+    "source": "workspace/ledger.md",
+    "frozen": "freeze/OT_2000CHUNK2_ENTERING_ledger.md",
+    "sha256": "7e192be7d33648e6cf097cce95ea1021f65ff848ae40c9c0efb22665fc23df5f"
+  }
+]

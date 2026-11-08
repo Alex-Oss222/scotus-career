@@ -1,0 +1,23 @@
+[
+  {
+    "case": "Fiore-PA-2000",
+    "url": "https://static.case.law/pa/562/html/0634-01.html",
+    "html_sha256": "e2457515552bd03ebe31784cd015aec3f6a21195b63b46fd30700c066fca7c45",
+    "text_sha256": "48ae300c460eac7b63017582d5f83f8bdaff2d94e61a4599adfac7dfbda1a3c3",
+    "characters": 24433
+  },
+  {
+    "case": "Scarpone-PA-1993",
+    "url": "https://static.case.law/pa/535/html/0273-01.html",
+    "html_sha256": "131103d6a6235dfbf572f09f55ddab7a91ceb26147f95454f8b66daddd86717d",
+    "text_sha256": "3cbdab70412ac1df8d843da2ee6359e81e53944d09c1c289d6c53cccd73fc7f1",
+    "characters": 13795
+  },
+  {
+    "case": "Fiore-CA3-1998",
+    "url": "https://static.case.law/f3d/149/html/0221-01.html",
+    "html_sha256": "1d5e86edadd256ad6ffd3bc9ab47c9503fe8a586b96e99e9a692def4227c612c",
+    "text_sha256": "94774ad935c17db74023ed7b05d93d11f23cbfa9e413cbf15362e74507b5d1f5",
+    "characters": 22353
+  }
+]

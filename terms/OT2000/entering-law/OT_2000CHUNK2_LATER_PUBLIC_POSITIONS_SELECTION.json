@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "source": "terms/OT1995/output/OT_1995CHUNK9.md",
+      "sha256": "d6d22a1b3a8d983591d1b6f39eb79c12d7e69a1f6cf82a0782d0501073e9e4c6",
+      "excerpt_sha256": "3825506801e27f67e7916780c1d70458555ce61962ae3c6303d34e05d988626f"
+    },
+    {
+      "source": "terms/OT1994/output/OT_1994CHUNK2.md",
+      "sha256": "3425ff734f5f90412abd33cc16dcf430daa0cf8d2a384b47cb13ef1ed68c4e24",
+      "excerpt_sha256": "37637e61d7ed66cf9ee82a8f61c35663626d8480742ceac526c419e955ff1053"
+    },
+    {
+      "source": "terms/OT1998/output/OT_1998CHUNK5.md",
+      "sha256": "5cf2aa9039bd8d017043ea2dd71b88295ca7d420ba90f9902f33e71a160d8704",
+      "excerpt_sha256": "b671c0d3fa9c629f37b3f98739192f79fc8bd547838502b29e25298926a58dcd"
+    }
+  ],
+  "output_sha256": "6d03673923d5b7d72499d3733f360f61d4497703e4454290b4d26c3139178850"
+}
