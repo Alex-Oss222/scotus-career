@@ -1,0 +1,11 @@
+{
+  "term": "OT2000",
+  "chunk": 6,
+  "nonrepository_check_exit": 0,
+  "repository_object_existence": "DEFERRED: prohibited by operator instruction; not verified",
+  "repository_commitment_order": "DEFERRED: not verified",
+  "references_deferred": [
+    "991768a"
+  ],
+  "repository_commands_run": 0
+}

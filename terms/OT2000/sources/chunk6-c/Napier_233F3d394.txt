@@ -1,0 +1,515 @@
+
+  
+    
+233 F.3d 394
+    
+    
+    
+    
+    
+  
+  
+    
+233 F.3d 394 (6th Cir. 2000)
+    
+United States of America, Plaintiff-Appellee,
+v.
+Harvey Lloyd Napier, Defendant-Appellant.
+    
+No. 00-5290
+    
+UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+    
+Argued: September 20, 2000
+Decided and Filed: November 21, 2000
+    
+      
+1
+      
+Appeal from the United States District Court for the Eastern District of Kentucky at London.  No. 99-00032--Jennifer B. Coffman, District Judge.
+    
+    
+      
+2
+      
+James E. Arehart, Charles P. Wisdom, Jr., ASSISTANT UNITED STATES ATTORNEY,  Lexington, Kentucky, Martin L. Hatfield, ASSISTANT UNITED STATES ATTORNEY, London, Kentucky, for Appellee.
+    
+    
+      
+3
+      
+Robert I. Cusick, Jr.,  Pamela J. Ledford, WYATT, TARRANT & COMBS, Louisville, Kentucky, Warren N. Scoville, SCOVILLE, CESSNA &  ASSOCIATES, London, Kentucky, for Appellant.
+    
+    
+      
+4
+      
+Before: MERRITT and GILMAN, Circuit Judges; BELL, District Judge
+*
+.
+    
+    
+OPINION
+    
+      
+5
+      
+BELL, District Judge.
+    
+    
+      
+6
+      
+Defendant-Appellant Harvey Lloyd Napier appeals his conviction under 18 U.S.C.§ 922(g)(8) for  possession of firearms while subject to a domestic violence order. For the reasons set forth below, we AFFIRM Napier's  conviction.
+    
+    
+I.
+    
+      
+7
+      
+The essential facts are not in dispute
+1
+.  On January 30, 1999, Napier's estranged wife called the Corbin, Kentucky,  Police Department to report an assault by Napier. When Napier's vehicle was stopped, the officers found a 10 mm Glock  Model 20 semi-automatic pistol and twenty-two rounds of 10 mm ammunition on the floorboard in the rear of the vehicle.  Napier was arrested.
+    
+    
+      
+8
+      
+At the time of his arrest Napier was subject to two domestic violence orders. One domestic violence order was entered  by the Harlan County Circuit Court on December 9, 1996. The other domestic violence order was entered by the Whitley  County District Court on September 28, 1998. Both domestic violence orders contained a finding that acts of domestic  violence had occurred and may occur again, and restrained Napier from committing further acts of domestic violence  against his spouse and their children. Both orders contained the following notice in boldface type: "Pursuant to 18 U.S.C. §  (section) 922(g), it is a federal violation to purchase, receive or possess a firearm while subject to this order." Napier had  received actual notice and had an opportunity to participate in both hearings prior to issuance of the orders.
+    
+    
+      
+9
+      
+Napier was indicted by a federal grand jury on two counts of possession of firearms by a person subject to a domestic  violence order in violation of 18 U.S.C. § 922(g)(8)
+2
+.  Count One of the indictment charged him with possession of a  semi-automatic handgun on January 30, 1999, while he was subject to two domestic violence orders, and Count Two  charged him with possession of twenty-two rounds of 10 mm ammunition on the same date, while he was subject to the  same domestic violence orders.
+    
+    
+      
+10
+      
+Napier filed three motions to dismiss the indictment. In his first motion he argued that § 922(g)(8) violates the Second  and Fifth Amendments of the Constitution and is an unconstitutional exercise of the commerce power. In his second  motion he argued that the underlying domestic violence orders were either void or did not qualify as predicate offenses. In  his third motion he argued that the domestic violence orders do not fulfill the substantive requirements of 18 U.S.C.  §922(g)(8)(i) and (ii). The district court denied all three motions. On the eve of trial the government made two oral motions in limine to exclude evidence regarding the validity of the domestic violence orders and regarding Napier's belief  as to the existence ofthe domestic violence orders at the time of the instant offense. The district court granted the  government's motions.
+    
+    
+      
+11
+      
+In light of the district court's rulings, Napier entered a conditional plea of guilty to both counts of the indictment. He  admitted that on January 30, 1999, in Knox County, in the Eastern District of Kentucky, he knowingly possessed the gun  and ammunition. He further admitted that at the time he possessed the firearm and ammunition, he was subject to domestic  violence orders in Whitley County, Kentucky, and Harlan County, Kentucky. Finally, Napier admitted that the firearm and  ammunition he possessed at the time of the instant offenses were manufactured outside the Commonwealth of Kentucky,  and therefore traveled in interstate commerce prior to coming into his possession. As a condition of the plea of guilty,  Napier reserved the right to appeal the orders of the district court denying his motions to dismiss the indictment.
+    
+    
+II.
+    
+      
+12
+      
+We review the district court's determination of the constitutionality of a federal statute de novo. United States v. Baker,  197 F.3d 211, 215 (6th Cir. 1999), cert. denied, --- U.S. ----, 120 S. Ct. 1262, 146 L.Ed.2d 117 (2000).
+    
+    
+      
+13
+      
+Napier's contention that § 922(g)(8) violates the Due Process Clause and the Commerce Clause of the United States  Constitution are not unprecedented. This Circuit previously upheld § 922(g)(8) against similar attacks in Baker, supra.
+    
+    
+      
+14
+      
+"A fundamental principle of this court is that '[a] panel ... cannot overrule the decision of another panel. The prior  decision remains controlling authority unless an inconsistent decision of the United States Supreme Court requires  modification of the decision or this Court sitting en banc overrules the prior decision.'" United States v. Ables, 167 F.3d  1021, 1027 (6th Cir. 1999) (quoting Salmi v. Secretary of Health and Human Servs., 774 F.2d 685, 689 (6th Cir. 1985)).  Accordingly, unless Baker is distinguishable, or if there are inconsistent decisions of the Supreme Court that require  modification of Baker, Baker precludes us from ruling in Napier's favor on his Due Process and Commerce Clause  challenges to § 922(g)(8).
+    
+    
+III.
+    
+      
+15
+      
+Napier challenges § 922(g)(8) on due process grounds on its face because it fails to require notice of its prohibitions.  Napier also challenges the statute as applied because he contends he did not in fact receive notice that his conduct violated  federal law.
+    
+    
+      
+16
+      
+According to Napier, § 922(g)(8) is a technical, obscure statute which punishes conduct that a reasonable person  ordinarily would not consider to be criminal. In support of this contention, Napier relies on Judge Posner's dissent in United  States v. Wilson, 159 F.3d 280 (7th Cir. 1998), cert. denied, 119 S.Ct. 2371 (1999), and the determination in United States  v. Emerson, 46 F.Supp.2d 598 (N.D. Tex. 1999), that §922(g)(8) violates the Fifth Amendment because it is an obscure,  highly technical statute with no mens rea requirement that renders a person subject to prosecution without proof of  knowledge that he was violating the statute.
+    
+    
+      
+17
+      
+We rejected just such a challenge to § 922(g)(8) in Baker, supra. The defendant in Baker argued that the district court  erred in failing to instruct the jury that it could not convict him of violating § 922(g)(8) unless he knew that the law forbade  him to possess firearms while subject to a domestic violence order. 197 F.3d at 218. We noted the general rule that citizens  are presumed to know the requirements of the law. We also noted that this rule is not absolute, and may be abrogated when  a law is "so technical or obscure that it threatens to ensnare individuals engaged in apparently innocent conduct," because to presume knowledgeof such a law would violate a core due process principle, namely that citizens are entitled to fair  warning that their conduct may be criminal. 197 F.3d at 218-19. We ultimately determined, however, that it was not  necessary to interpret the statute to recognize ignorance of the law as an excuse because Baker did receive adequate notice  with respect to the requirements of § 922(g)(8). Id. at 219. Each of the domestic violence orders entered against Baker  featured a bold print warning that he could not lawfully possess firearms. Id.
+    
+    
+      
+18
+      
+Although the domestic violence orders entered against Napier contained the same bold print warning that was found  adequate in Baker, Napier contends that his case is distinguishable from Baker because he never received a copy of either  domestic violence order entered against him.
+    
+    
+      
+19
+      
+The defendant in Baker made a similar argument, which this court held was "of no moment." Id. at 220 n. 6. Even if  Baker had not received direct notice of his firearms disability, his prosecution under § 922(g)(8) would still not have  resulted in a violation of his due process rights:
+    
+    
+      
+20
+      
+The fact that Baker had been made subject to a domestic violence protection order provided him with notice that his  conduct was subject to increased government scrutiny. Because it is not reasonable for someone in his position to  expect to possess dangerous weapons free from extensive regulation, Baker cannot successfully claim a lack of fair  warning with respect to the requirements of § 922(g)(8).
+    
+    
+      
+21
+      
+197 F.3d at 220.
+    
+    
+      
+22
+      
+Although this language in Baker might be considered dicta, its reasoning was adopted in United States v. Beavers, 206  F.3d 706 (6th Cir. 2000), to support the determination that §922(g)(9), which makes it a crime for one who has been  convicted of a misdemeanor crime of domestic violence to possess a firearm, is constitutional even though it does not  require the government to prove that the defendant had actual knowledge that his possession of a firearm was illegal. Id. at  709-10. We concluded in Beavers that the defendant's conviction on a domestic violence offense sufficiently placed him on  notice that the government might regulate his ability to own or possess a firearm. Id. at 710.
+    
+    
+      
+23
+      
+Napier suggests that in considering whether the domestic violence order proceeding should have put him on notice that  the government might regulate his possession of a firearm, the Court should consider the fact that domestic violence order  proceedings are often informal and uncounseled.
+    
+    
+      
+24
+      
+While there are procedural differences between a domestic violence order and a misdemeanor conviction on a domestic  violence offense, we do not find those procedural differences significant. As we pointed out in Baker, the nature of the  proceeding is not what is important under the statute. It is the status of the individual as one subject to a domestic violence  order. 197 F.3d at 216-17:
+    
+    
+      
+25
+      
+The fact that Baker's status makes him criminally liable for possessing a firearm does not imbue the process by which  he attained that status with constitutional significance. Indeed, a legally relevant status under §922(g) may arise in  the absence of any formal proceeding. For example, § 922(g)(3) prohibits an individual addicted to controlled  substances from possessing a firearm, yet an individual attains the status of a drug addict without a court proceeding  of any kind.
+    
+    
+      
+26
+      
+197 F.3d at 216-17. "Regardless as to how Baker became subject to a domestic violence protection order, he attained that  status and thus must comply with § 922(g)(8)." Id. at 217.
+    
+    
+      
+27
+      
+Every circuit court which has considered a due process challenge similar to Napier's has rejected it. See, e.g., United  States v. Kafka, 222 F.3d 1129, 1131-32 (9th Cir. 2000) (no departure from rule that ignorance of the law is no excuse was warrantedbecause the restraining order transformed the otherwise "innocent" nature of the defendant's gun possession); United States v. Reddick, 203 F.3d 767, 769-71 (10th Cir. 2000) ("We agree with every circuit court that has considered  due process challenges to § 922(g)(8) and conclude that due process does not require actual knowledge of the federal  statute."); United States v. Meade, 175 F.3d 215, 225-26 (1st Cir. 1999) (individual under domestic violence protection  order "would not be sanguine about the legal consequences of possessing a firearm"); United States v. Bostic, 168 F.3d 718,  722-23 (4th Cir. 1999) ("Like a felon, a person [subject to a domestic violence protection order] cannot reasonably expect  to be free from regulation when possessing a firearm"); United States v. Wilson, 159 F.3d 280, 288-89 (7th Cir. 1998), cert.  denied, 527 U.S. 1024, 119 S. Ct. 2371, 144 L. Ed.2d 774 (1999).
+    
+    
+      
+28
+      
+We find no basis for requiring actual notice of the gun prohibition. Napier was notified of the proceedings that led up to  issuance of the domestic violence orders and did in fact attend those hearings. He was made subject to a domestic violence  order. As we stated in Baker, whether or not he received or read those domestic violence orders is of no moment. His status  alone, as one subject to a domestic violence order, was sufficient to preclude him from claiming a lack of fair warning with  respect to the requirements of §922(g)(8).
+    
+    
+IV.
+    
+      
+29
+      
+Napier contends the district court erred in granting the government's motions in limine to exclude evidence at trial  regarding the validity of the domestic violence orders and regarding Napier's knowledge of the existence of any valid  domestic violence orders.
+    
+    
+      
+30
+      
+Napier entered into a plea agreement which reserved his right to appeal the orders of the district court denying his  motions to dismiss the indictment. He did not reserve the right to appeal the district court's pretrial evidentiary ruling.  Napier expressly admitted, in a document entitled "Factual Basis for Guilty Plea" that at the time he possessed the firearm  and ammunition "he was subject to Domestic Violence Orders in Whitley County, Kentucky, and Harlan County,  Kentucky." Napier did not preserve the issue regarding the validity of the domestic violence orders for appeal.
+    
+    
+      
+31
+      
+Moreover, in light of our determination above that §922(g)(8) does not require that the defendant have actual  knowledge of the firearm restrictions, the district court correctly concluded that the evidence Napier sought to introduce  regarding his knowledge as to the existence of those orders was irrelevant.
+    
+    
+V.
+    
+      
+32
+      
+Napier also challenges the constitutionality of § 922(g)(8) on the basis that it represents an unconstitutional exercise of  Congress' power under the Commerce Clause. Napier contends that § 922(g)(8) is an unconstitutional attempt to regulate  domestic abuse, which is strictly a matter of state concern.
+    
+    
+      
+33
+      
+Our review of the Commerce Clause challenge begins with the recognition that congressional enactments are entitled to  a presumption of constitutionality. "[W]e invalidate a congressional enactment only upon a plain showing that Congress  has exceeded its constitutional bounds." United States v. Morrison, 120 S. Ct. 1740, 1748 (2000). There are three broad  categories of activity that Congress may regulate under its commerce power: 1)the use of the channels of interstate  commerce; 2) the instrumentalities of interstate commerce, or persons or things in interstate commerce; and 3) those  activities having a substantial relation to interstate commerce. Id. at 1749.
+    
+    
+      
+34
+      
+In support of his commerce clause challenge to § 922(g)(8), Napier contends that the Supreme Court's opinion in United  States v. Lopez, 514 U.S. 549 (1995), requires a finding that Congress exceeded the proper scope of the Commerce Clause  when it enacted §922(g)(8).
+    
+    
+      
+35
+      
+A similar argument relying on Lopez was made and rejected in Baker, supra.  In Lopez the Supreme Court struck down  a federal law prohibiting firearm possession in a school zone because it exceeded Congress' authority under the Commerce  Clause.
+3
+ One of the Court's considerations was that the statute contained "no express jurisdictional element which might  limit its reach to a discrete set of firearm possessions that additionally have an explicit connection with or effect on  interstate commerce." 514 U.S. at 562.
+    
+    
+      
+36
+      
+We determined in Baker that § 922(g)(8) did not suffer from the same infirmity because it contains the jurisdictional  element that was lacking in Lopez.  Section 922(g) only applies to firearms or ammunition that are shipped or transported in  interstate or foreign commerce, or possessed in or affecting commerce. 18 U.S.C. § 922(g). With this jurisdictional  element, § 922(g) "both explicitly relates to commerce and ensures only those activities affecting interstate commerce fall  within its scope." Baker, 197 F.3d at 218.
+    
+    
+      
+37
+      
+Baker does not stand alone. In United States v. Chesney, 86 F.3d 564, 568-70 (6th Cir. 1996), and United States v.  Turner, 77 F.3d 887, 889 (6th Cir. 1996), we relied on this jurisdictional element in upholding § 922(g)(1) against a  Commerce Clause challenge. As we stated in Turner, every court of appeals that has been faced with the Commerce Clause  challenge to § 922(g) since Lopez has held that "the jurisdictional element of § 922(g) provides the requisite nexus with  interstate commerce that § 922(q) lacked." Turner, 77 F.3d at 889.
+    
+    
+      
+38
+      
+Notwithstanding our determination in Baker that §922(g)(8) is a proper exercise of congressional power under the  Commerce Clause, Napier contends that his case is distinguishable from Baker because Baker purchased a gun after he was  subject to a domestic violence order. Napier, on the other hand, had possessed his gun for years before a domestic violence  order was entered against him. He contends that any commerce involving the firearm had long since ceased, and the link  between his conduct and the effect on commerce is too attenuated to come within Congress' power under the Commerce  Clause. He contends that even if Congress has the authority to regulate persons who purchase guns when they are subject to  domestic violence orders, it does not have the authority to regulate persons who already own guns before they become  subject to a domestic violence order.
+    
+    
+      
+39
+      
+A similar argument was rejected in Chesney. Although there was no question that Chesney's gun had moved in  interstate commerce, Chesney argued that Lopez requires the government to prove that his possession of the gun in itself  had a substantial connection to interstate commerce. 86 F.3d at 570. We rejected that argument because it read Lopez too  broadly. "Lopez . . . did not disturb the Supreme Court's precedents which indicate that a firearm that has been transported at any time in interstate commerce has a sufficient effect on commerce to allow congress to regulate the possession of that  firearm pursuant to its Commerce Clause powers." Chesney, at 570-71 (emphasis added). As we noted in Chesney,  "[p]rohibiting possession by felons limits the market for firearms, and discourages shipping, transporting, and receiving  firearms in or from interstate commerce. Regulation of interstate gun trafficking, which isclearly commercial activity, is  thus facilitated by regulation of possession in or affecting commerce." Id. at 571-72.
+    
+    
+      
+40
+      
+The same analysis applies to those subject to domestic violence orders. See also Gillespie v. City of Indianapolis, 185  F.3d 693, 706 (7th Cir. 1999) ("Without question, Congress has the power to regulate the interstate trade in firearms. . . . So  long as that gun has moved across state lines at least once, it is subject to the exercise of congressional Commerce Clause  authority."); United States v. Barry, 98 F.3d 373, 378 (8th Cir. 1996) (§922(g)(1) constitutionally applied to a defendant  who possessed a shotgun that had traveled in interstate commerce); United States v. Hanna, 55 F.3d 1456, 1462 n. 2 (9th  Cir. 1995) ("Section 922(g)'s requirement that the firearm have been, at some time, in interstate commerce is sufficient to  establish its constitutionality under the Commerce Clause.").
+    
+    
+      
+41
+      
+Napier suggests that the recent Supreme Court opinion in Jones v. United States, 120 S. Ct. 1904 (2000), puts the Chesney analysis in question. In Jones the Court held that the arson of an owner-occupied private residence was not subject  to prosecution under 18 U.S.C. §844(i) (prohibiting malicious destruction by fire of property used in or affecting interstate  commerce), because such a residence was not used in interstate commerce or in a commerce-affecting activity. Id. at 1912.  The Supreme Court held that § 844(i)'s use-in-commerce requirement "is most sensibly read to mean active employment  for commercial purposes, and not merely a passive, passing, or past connection to commerce." Id. at 1910.
+    
+    
+      
+42
+      
+Jones does not invalidate the Chesney analysis. In contrast to § 844(i), § 922(g) does not contain the "use" requirement  that was at the heart of the Jones opinion. Nothing in Jones suggests that the Supreme Court is backing off of its opinion  that § 1202(a), the predecessor of § 922(g)(1), required only "the minimal nexus that the firearm have been, at some time,  in interstate commerce."  Scarborough v. United States, 431 U.S. 563, 575 (1977).
+    
+    
+      
+43
+      
+We accordingly reject Napier's contention that he could not be convicted under §922(g)(8) unless the government could  show that his continued possession of the gun had a substantial connection to interstate commerce. There is no question  that the firearm and ammunition possessed by Napier had previously traveled in interstate commerce. That is sufficient to  establish the interstate commerce connection.
+    
+    
+      
+44
+      
+Napier also argues that Baker should not control the disposition of this case because the Supreme Court's recent decision  in United States v. Morrison, 120 S. Ct. 1740 (2000), is inconsistent with Baker and compels the conclusion that Congress  went too far in enacting § 922(g)(8), and that lower courts have erred in construing Lopez too narrowly.
+    
+    
+      
+45
+      
+In Morrison the Supreme Court struck down the civil remedy provision of the Violence Against Women Act, 42 U.S.C.  § 13981, on the ground that it exceeded Congress' power under the Commerce Clause. The Court rejected the argument that  Congress may regulate noneconomic violent criminal conduct based solely on that conduct's aggregate effect on interstate  commerce. Id. at 1754. The Court expressed concern that if the Commerce Clause could be satisfied by following a but-for  causal chain from a crime to every attenuated effect it had upon interstate commerce, it would obliterate the constitution's  distinction between national and local authority. Id. at 1752. It would even give Congress authority over "family law and  other areas of traditional state regulation since the aggregate effect of marriage, divorce, and childrearing on the national  economy is undoubtedly significant." Id. at 1753.
+    
+    
+      
+46
+      
+Napier contends that the domestic disputes of a married couple addressed in domestic violence orders are precisely the  type of purely intrastate activity, typically regulated by the state's police power, that the Supreme Court was concerned  about in Morrison.
+    
+    
+      
+47
+      
+We are not convinced by Napier's argument. The Morrison Court began its analysis of the Violence Against Women Act  by noting that § 13981, like the Gun-Free School Zones Act at issue in Lopez, contained no jurisdictional element  establishing that the federal cause of action was in pursuance of Congress' power to regulate interstate commerce. Id. at  1751. Section 922(g)(8), by contrast, does contain a jurisdictional element that establishes that it was enacted in pursuance  of Congress' power to regulate interstate commerce in firearms and ammunition. In addition, the Violence Against Women  Act is regulating a purely intrastate activity. Nothing in Morrison casts doubt on the validity of § 922(g), which regulates a  product of interstate commerce. See United States v. Wesela, 223 F.3d 656, 660 (7th Cir. 2000) ("Nothing in [Morrison or Jones] causes us to think that a different result is now required for § 922(g). . . Nothing in either case casts doubt on the  validity of § 922(g), which is a law that specifically requires a link to interstate commerce.") .
+    
+    
+VI.
+    
+      
+48
+      
+Finally, Napier contends that § 922(g)(8) violates his individual right to bear arms under the UnitedStates and the  Kentucky Constitutions.
+    
+    
+      
+49
+      
+In contrast to the Due Process and Commerce Clause issues discussed above, this Court has never addressed a Second  Amendment challenge to § 922(g)(8). That is not to say that this Court enters this territory without substantial guidance.
+    
+    
+      
+50
+      
+The Second Amendment provides:  A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms,  shall not be infringed.
+    
+    
+      
+51
+      
+U.S. Const. Amend.2.
+    
+    
+      
+52
+      
+In United States v. Warin, 530 F.2d 103 (6th Cir. 1976), the defendant raised a Second Amendment challenge to his  conviction for possession of an unregistered submachine gun in violation of the National Firearms Act as amended by the  Gun Control Act of 1968, 26 U.S.C. § 5801 et seq. This Court rejected the challenge on the basis that "the Second  Amendment guarantees a collective rather than an individual right." Id. at 106.
+    
+    
+      
+53
+      
+Since the Second Amendment right "to keep and bear Arms" applies only to the right of the State to maintain a  militia and not to the individual's right to bear arms, there can be no serious claim to any express constitutional right  of an individual to possess a firearm.
+    
+    
+      
+54
+      
+Id. at 106 (quoting Stevens v. United States, 440 F.2d 144, 149 (6th Cir. 1971)). Even the collective right of the militia is  limited to keeping and bearing arms that have "some reasonable relationship to the preservation or efficiency of a well  regulated militia." Warin, 530 F.2d at 106 (quoting United States v. Miller, 307 U.S. 174, 178 (1939))
+4
+.
+    
+    
+      
+55
+      
+Napier has made no effort to show that § 922(g)(8) has some impact on the collective right of the militia. He argues  instead that the Second Amendment grants him an individual right to bear arms. He does not contend Warin has been  overruled by an en banc decision of this Court, nor does he cite any inconsistent decisions of the Supreme Court authority  that would require modification of Warin. He merely argues that Warin was wrongly decided and lacks the benefit of the  impressive Second Amendment scholarship that has developed in recent years. Recent scholarship, however, does not  provide a sufficient basis for overruling an earlier decision of this Court. See Ables, 167 F.3d at 1027.
+    
+    
+      
+56
+      
+The case law subsequent to Warin overwhelmingly suggests that our holding in Warin was sound. It is well-established  that the Second Amendment does not create an individual right. Since Miller, "the lower federal courts have uniformly held  that the Second Amendment preserves a collective, rather than individual, right." Love v. Pepersack, 47 F.3d 120, 124 (4th  Cir. 1995). The Ninth Circuit stated in Hickman v. Block, 81 F.3d 98 (9th Cir. 1996), that it was following its sister circuits  in holding that "the Second Amendment is a right held by the states, and does not protect the possession of a weapon by a  private citizen." Id. at 101. The Eleventh Circuit held in United States v. Wright, 117 F.3d 1265 (11th Cir. 1997), vacated in  part on other grounds, 133 F.3d 1412 (11th Cir. 1998), that the Second Amendment protects "only the use or possession of  weapons that is reasonably related to a militia actively maintained and trained by the states." Id. at 1273.
+    
+    
+      
+57
+      
+Although the Supreme Court noted in Staples v. United States, 511 U.S. 600 (1994), that "[t]here is a long tradition of  lawful gun ownership by private individuals in this country," this language does not suggest an individual right to gun  ownership under the Second Amendment and it does not infer that lawful gun ownership means unregulated gun  ownership. The Supreme Court clearly reiterated in Lewis v. United States, 445 U.S. 55 (1980), that legislative restrictions  on the use of firearms do not trench upon any constitutionally protected liberties. Id. at 65 n. 8.
+    
+    
+      
+58
+      
+Every circuit court which has had occasion to address the issue has upheld §922 generally against challenges under the  Second Amendment. See United States v. Chavez, 204 F.3d 1305 (11th Cir. 2000); Gillespie v. City of Indianapolis, 185  F.3d 693, 709 (7th Cir. 1999) (finding § 922(g)(9) does not violate Second Amendment); Fraternal Order of Police v.  United States, 173 F.3d 898, 906 (D.C. Cir. 1999) (rejected challenge to § 922(g)(9) by police fraternal organization, since  the statute "does not hinder the militia service of all police officers, only of domestic violence misdemeanants whose  convictions have not been expunged"); United States v. Waller, 218 F.3d 856 (8th Cir. 2000) ("it is now well-settled that  Congress did not violate the Second Amendment" in enacting 18 U.S.C. § 922(g)(1)); United States v. Smith, 171 F.3d 617,  624 (8th Cir. 1999) (Second Amendment is inapplicable to conviction under § 922(g)(9)); United States v. Mack, 164 F.3d  467, 473 (9th Cir. 1999) (18 U.S.C. §922(k) did not violate the Second Amendment right to bear arms); United States v.  Three Winchester 30-30 Caliber Lever Action Carbines, 504 F.2d 1288, 1290, n. 5 (7th Cir. 1974) (§ 1202(a)(1) does not  violate the Second Amendment); United States v. Johnson, 497 F.2d 548 (4th Cir. 1974) (§ 922(g) does not violate the  Second Amendment); Cody v. United States, 460 F.2d 34 (8th Cir. 1972) (§ 922(a)(6) does not violate the Second  Amendment).
+    
+    
+      
+59
+      
+The only case Napier has cited in support of his contention that § 922(g)(8) violates the Second Amendment is United  States v. Emerson, 46 F. Supp. 2d 598 (N.D. Tex. 1999). In Emerson, Judge Cummings observed that "It is absurd that a boilerplate state court divorce order can collaterally and automatically extinguish a law-abiding citizen's Second  Amendment rights, particularly when neither the judge issuing the order, nor the parties, nor their attorneys are aware of the  federal criminal penalties arising from firearm possession after entry of the restraining order. That such a routine civil order  has such extensive consequences totally attenuated from divorce proceedings makes the statute unconstitutional. There  must be a limit to government regulation on lawful firearm possession. This statute exceeds that limit, and therefore it is  unconstitutional." Id. at 611.
+    
+    
+      
+60
+      
+Emerson stands alone in holding that the Second Amendment guarantees an individual right to bear arms. Even a sister  district court in Texas declined to follow Emerson, choosing instead to follow the majority path. See United States v.  Spruill, 61 F. Supp.2d 587, 591 (W.D. Tex. 1999).
+    
+    
+      
+61
+      
+We find no reason to retreat from our determination in Warin that the Second Amendment does not guarantee an  individual right to bear arms, and we accordingly hold that §922(g)(8) does not violate the Second Amendment.
+    
+    
+      
+62
+      
+Napier's argument that § 922(g)(8) impermissibly violates his State constitutional right to bear arms is also unavailing.  The Constitution of the Commonwealth of Kentucky provides in pertinent part:
+    
+    
+      
+63
+      
+All men are, by nature, free and equal, and have certain inherent and inalienable rights, among which may be  reckoned:
+    
+    
+      
+64
+      
+Seventh: The right to bear arms in defense of themselves and of the State, subject to the power of the General  Assembly to enact laws to prevent persons from carrying concealed weapons.
+    
+    
+      
+65
+      
+Ky. Const § 1.
+    
+    
+      
+66
+      
+This state constitutional provision, however, is trumped by the Supremacy Clause of the United States Constitution,  which provides that federal law "shall be the supreme Law of the Land ... any Thing in the Constitution or Laws of any  State to the Contrary notwithstanding." U.S. Const. art. VI. "Thus, as has been clear since the Supreme Court's decision in M'Culloch v. Maryland, 17 U.S. (4 Wheat.), 316, 4 L.Ed. 579 (1819), any state law that conflicts with federal law is  'without effect.'" King v. Ford Motor Co., 209 F.3d 886, 891 (6th Cir. 2000) (quoting Cipollone v. Liggett Group, Inc., 505  U.S. 504, 516 (1992)).
+    
+    
+      
+67
+      
+An argument similar to Napier's was rejected in United States v. Minnick, 949 F.2d 8 (1st Cir. 1991). The First Circuit  held that the Supremacy Clause prevents reliance on the qualified right to bear arms contained in the New Hampshire  Constitution as a defense to §922(g)(1)). Id. at 10-11. The court also rejected the argument that the federal gun-control  legislation intrudes on the right of the state of New Hampshire to decide who should possess firearms. "The integrity of  New Hampshire, which the Tenth Amendment protects, is not violated by a federal statute that outlaws a felon's possession  of firearms. The statute is not directed at states as such, but at individual behavior." Id. at 10 (citation omitted).
+    
+    
+CONCLUSION
+    
+      
+68
+      
+For the reasons stated above, we AFFIRM the district court's decision to overrule Napier's various challenges to his  convictions under 18 U.S.C. § 922(g)(8).
+    
+    
+      
+        
+Notes:
+      
+      
+        
+*
+        
+  The Honorable Robert Holmes Bell, United States District Judge for the Western District of Michigan, sitting by  designation.
+      
+      
+        
+1
+        
+  The factual predicate for the plea is contained in the transcript of the plea proceeding on November 18, 1999, and in a  document entitled "Factual Basis for Guilty Plea" signed by the Defendant and his counsel on November 11, 1999.
+      
+      
+        
+2
+        
+  The statute makes it unlawful for any person
+        
+(8) who is subject to a court order that--
+        
+(A) was issued after a hearing of which such person received actual notice, and at which such person had an opportunity to  participate;
+        
+(B) restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such  intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily  injury to the partner or child; and
+        
+(C)(i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or  child; or (ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such  intimate partner or child that would reasonably be expected to cause bodily injury;
+        
+. . .
+        
+to ship or transport in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition; or  to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.
+        
+18 U.S.C. § 922(g)(8).
+      
+      
+        
+3
+        
+  The Gun-Free School Zones Act struck down in Lopez was formerly codified at 18 U.S.C. § 922(q)(1)(A).
+      
+      
+        
+4
+        
+  Although we have not had occasion since Warin to rule on the scope of the Second Amendment right to bear arms, we  have followed Warin in subsequent cases. We noted in Peoples Rights Organization, Inc. v. City of Columbus, 152 F.3d  522, 539 (6th Cir. 1998), that "the Second Amendment guarantees a collective rather than an individual right." Id. at 539  (quoting Warin, 530 F.2d at 106). We also rejected the argument in Baker, supra, that § 922(g)(8) deprived Baker of equal  protection of the laws in that it "infringes upon the exercise of a fundamental right and operates to a disadvantage of a  suspected class." Baker, 197 F.3d at 216. Although Baker did not specify what fundamental right was at issue, we noted  that he had no fundamental right to possess an assault rifle based upon the finding in Warin that the Second Amendment  does not guarantee a personal right to bear arms. Id. (citing Warin, 530 F.2d at 106-07).
+      
+    
+    
+      
+CC∅
+ | Transformed by 
+Public.Resource.Org
+    
+  

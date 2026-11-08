@@ -1,0 +1,34 @@
+# Chen — frozen historical reconciliation
+
+Event: accepted population-base merits question, 2001-05-21; Fifth Circuit No. 98-20440, 206 F.3d 502. Status: ready for assembly. Research cutoff: law effective before May 21, 2001. No current controlled position or separately modeled certiorari position was received. This handoff does not assign an opinion author.
+
+## Sources and comparator verification
+
+Read the assigned frozen neutral packet, `OT_2000CHUNK6_NEUTRAL_A.md`, `OT_2000CHUNK6_COMMITMENTS_chen.md`, the assigned comparator, and the relevant entering-law selections and prior public Holder positions. The complete saved Fifth Circuit opinion, including all twenty notes, supports the comparator: Judge Garwood wrote for Judges Duhe and Benavides; the panel affirmed the defense judgment. Its population-base analysis appears in Part IV. There is no historical Supreme Court merits lineup to import. The accepted merits posture and full-merits-papers submission are the authorized premises, not a historical petition disposition.
+
+The lower opinion distinguishes the numerical disadvantage alleged by eligible voters from a constitutional requirement to select that denominator. It discusses both electoral and representational equality and does not command total population in every case. Its concluding reference to political choice does not supply a nonjusticiability holding for this Court. Its racial-predominance analysis is outside the accepted question and is not adopted; current Easley/Smallwood law governs that separate subject.
+
+Source: [Fifth Circuit opinion, 206 F.3d 502](https://law.resource.org/pub/us/case/reporter/F3/206/206.F3d.502.98-20440.html), saved in `sources/CHUNK6_A/Chen_lower.txt`. This is the full judicial text, not a summary. No unproduced underlying filing is represented as read.
+
+## Final non-Stone disposition, rule and remedy
+
+Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer affirm on the population-base question. Each joins the following complete sufficient ground: a municipality may use total resident population to apportion ordinary representative council districts even when materially unequal citizen voting-age populations result. Representatives serve all residents, including children and noncitizens; the Equal Protection Clause does not require the city to discard that representational measure merely because eligible electorates differ. This permission neither mandates total population universally nor approves every alternative denominator, an intentional exclusion, or a separately proved dilution mechanism.
+
+Reynolds and Avery require equality in representative districting but do not resolve every population-base choice. Burns's particular allowance does not command a citizen voting-age denominator. Voinovich's deviation inquiry applies after identification of the constitutionally permissible measure: its ten-percent threshold cannot prove in advance that citizen voting-age population is compulsory, and a deviation below ten percent is not categorical immunity. Department of Commerce preserves judicial review despite lawful legislative choice; its interstate whole-seat allocation holding supplies no exemption from intrastate equality.
+
+The eligible-elector disparity is a real competing equality consideration, not imaginary. It does not alone establish that equal representation of all residents is forbidden. The Court need not find whether a hypothetical plan could equalize both populations. It decides no exact demographic estimate, alternative map or additional claim. Preclearance does not decide the federal constitutional question. Affirm the Fifth Circuit only insofar as the accepted denominator claim is concerned; order no redistricting, demographic hearing, election or cancellation of an election. The separate racial claim remains outside review.
+
+## Individual reconciliation and exact join boundaries
+
+| Justice | Final commitment and date-eligible basis | Limit retained |
+|---|---|---|
+| Stevens | Affirm and join the resident-representation ground. His Department of Commerce opinion and Holder concurrence distinguish protected electoral opportunity from a uniquely compulsory institutional arrangement. | No proportional officeholding, universal denominator, or exemption from independently proved discrimination. |
+| O'Connor | Affirm and join. Her Voinovich opinion requires the actual legal measure and substantiated justification; Holder Part II rejects assuming a desired comparison as the constitutional or statutory norm. | Below ten percent is not immunity; citizenship figures do not select their own mandatory baseline. |
+| Scalia | Affirm and join the sufficient permission. His Department of Commerce and Voinovich joins coexist with his Holder objection to judicial selection of a theory of representation without legal support. | His Holder statutory dissent neither eliminates constitutional review nor rejects all constitutional vote-dilution claims here. |
+| Kennedy | Affirm and join. His Department of Commerce and Voinovich joins and Holder comparison position support the legally grounded measure. | His Easley racial-assignment objection is not a denominator ruling; no racial claim is reopened. |
+| Souter | Affirm and join. His Department of Commerce and Voinovich joins and Holder opinions protect actual equality while requiring a legally relevant comparison. | Governmental preference alone cannot defeat an independently established injury. |
+| Thomas | Affirm and join the sufficient resident-representation ground and rejection of compulsory citizen voting-age districts here. His Department of Commerce and Voinovich joins and Holder dissent oppose assuming an exclusive theory without constitutional support. | His statutory Holder proposal is not controlling law and does not become nonjusticiability or a universal approval of alternative bases. |
+| Ginsburg | Affirm and join. Her Holder Court and Stevens-concurrence joins protect opportunity under an actual legal comparison. | No inference of intentional dilution from citizenship distribution alone; preclearance is not dispositive. |
+| Breyer | Affirm and join. The inherited Reynolds/Avery/Burns framework and effective Department of Commerce, Voinovich and Easley holdings support the distinct denominator inquiry. | Administrative convenience alone would not justify any base; the sufficient ground is representation of all residents. |
+
+These are direct joins to the same proposition and explanation, not a combination of conflicting theories through Marks. No additional separate-writing function is necessary. No historical Supreme Court merits departure is asserted because there is no such comparator; the independent constitutional inference remains identified as such. No newly discovered fact changes the frozen neutral premises, and no material blocker remains.

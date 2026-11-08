@@ -1,0 +1,116 @@
+{
+  "scope": "Group A neutral preparation and independent commitments; no comparator or controlled merits input",
+  "restricted_token_scan": "passed",
+  "files": [
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_APPALACHIAN.md",
+      "sha256": "e26a756ee4164c9c5e65d8f0c2a8c3a9f2a84d69b5661b0cc674aea389040488",
+      "bytes": 241566
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_ATKINSON.md",
+      "sha256": "ff6a385b53ec962c2710a08048db297fbc2e8dc34206647ee6d6823f0bdd8e33",
+      "bytes": 69949
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_CHEN.md",
+      "sha256": "d9c8c79044586885d77408b1105b323bbf1e7e079a52c128be1499ba557dfbd4",
+      "bytes": 248505
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_CURRENT.md",
+      "sha256": "3fe6b121b74705af8e5f514a0957ea98c141ac07cc8a0478f411fd6b6e7c9b4a",
+      "bytes": 52290
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_FOCUS.md",
+      "sha256": "ab5bedc39c0ff542b3c6406fc353fd6293addc2bdd82213c44d69670a306dbbc",
+      "bytes": 60820
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_PRIOR_PUBLIC.md",
+      "sha256": "3667de95767fb9d0032eea43bdcfbebf2588e90dd9c11736dd3c686a0bf94aa9",
+      "bytes": 59576
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_SULLIVAN.md",
+      "sha256": "9fbaa9373f47bda16b754cb58ead22af932fb8a4749e148fe7b05d484670d15d",
+      "bytes": 985703
+    },
+    {
+      "file": "entering-law/OT_2000CHUNK6_A_WHARF.md",
+      "sha256": "c54614c0837292fdf491d594565be5736aa485dc442dd9f1b4c777261cde3c35",
+      "bytes": 254067
+    },
+    {
+      "file": "sources/CHUNK6_A/Appalachian_lower.html",
+      "sha256": "1947ef28b9409fa743b91602e8a84eb508cb3b36ed571a8b6afda7e296836488",
+      "bytes": 61392
+    },
+    {
+      "file": "sources/CHUNK6_A/Appalachian_lower.txt",
+      "sha256": "c89958c172f369a390c35ca0b82233b9d09aba35132481f8d73af3e76f4267fb",
+      "bytes": 51026
+    },
+    {
+      "file": "sources/CHUNK6_A/Chen_lower.html",
+      "sha256": "58fc1b0e41de0f11171b93c7c3cba2ecfbe16960448741d1cc74c40458d3cd46",
+      "bytes": 116406
+    },
+    {
+      "file": "sources/CHUNK6_A/Chen_lower.txt",
+      "sha256": "3ab02acf0c1a79922c387a9872a951ab3c75b6b5873895f73335af43f89b9ebc",
+      "bytes": 105066
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_COMMITMENTS_wharf.md",
+      "sha256": "e907cb0439652febc72d2ab3f276b3940f9be74f43c828621d0dea33b69ae4b2",
+      "bytes": 6259
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_COMMITMENTS_chen.md",
+      "sha256": "7ecaaf2dd215d93ca90c7241b3f94d9e03fcf1aca06ece068a2c44638539a7ae",
+      "bytes": 8797
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_COMMITMENTS_appalachian.md",
+      "sha256": "3c9e20a55456ea535824ac981d8fc97c83f5fee4e71b8bcb2e046ad5021fd940",
+      "bytes": 9767
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_COMMITMENTS_atkinson.md",
+      "sha256": "768863da32864ed4437c57f267dbe89e893151be5b0b722ced335aa20141cb81",
+      "bytes": 8355
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_COMMITMENTS_sullivan.md",
+      "sha256": "d35b00bdaa79adb950ef2aee19b0574dc3fdc67e207a4c4666c031cfc587cf28",
+      "bytes": 10273
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_NEUTRAL_A.md",
+      "sha256": "6f7f89c893a5fb202cd0ffff0bdd10235279bcc8650febdbdb7a0717ef7e6b7c",
+      "bytes": 13106
+    },
+    {
+      "file": "freeze/OT_2000CHUNK6_NEUTRAL_CERT_SULLIVAN.md",
+      "sha256": "5776f7218798009cfb6d5aad68f14f0bce9bbafb88e493e32b8563088563f519",
+      "bytes": 2858
+    },
+    {
+      "file": "entering-law/extract_group_a.py",
+      "sha256": "2136c8cc0abed1ae547a4b7914797bf382eff2cf55e4b3b6243d9368bcbc811f",
+      "bytes": 1952
+    }
+  ],
+  "absolute_local_link_scan": "passed",
+  "associate_rows": {
+    "wharf": 8,
+    "chen": 8,
+    "appalachian": 8,
+    "atkinson": 8,
+    "sullivan": 8
+  },
+  "petition_stage_handoff": "OT_2000CHUNK6_NEUTRAL_CERT_SULLIVAN.md",
+  "material_blockers": []
+}

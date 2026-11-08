@@ -1,0 +1,5 @@
+# Wharf — objective state-law predicate addendum
+
+The Tenth Circuit held that the option agreement was enforceable under the then-applicable Colorado statute of frauds, Colorado Revised Statutes section 4-8-319, which was repealed in 1996. The accepted federal securities question does not reopen that state-law determination. The packet therefore presents an oral option treated as enforceable under applicable state law; it does not establish a decision about a state-law-unenforceable agreement.
+
+Source support: official reported recitation of the lower-court determination, [532 U.S. 588, 596](https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-588.pdf), saved in `sources/chunk6-control/USREPORTS-532-588.txt`. This addendum reports the lower court's determination and accepted review boundary, not a new factual finding or a historical Supreme Court disposition, vote or rationale. It is submitted for fresh neutral validation and affected commitment review before use in assembly.

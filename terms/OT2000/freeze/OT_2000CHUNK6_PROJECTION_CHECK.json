@@ -1,0 +1,23 @@
+{
+  "records": 85,
+  "new_records": 15,
+  "open_inventory": 29,
+  "substantive_source": "Public Projection blocks only",
+  "new_record_sha256": {
+    "Chen_v_City_of_Houston_merits_2001-05-21.md": "b4ba7b9bc0ed4d5ff0814450e5660962ac058ce4012c1ea71aff43c85c45114b",
+    "Wharf_Holdings_Ltd_v_United_International_Holdings_Inc_merits_2001-05-21.md": "6d88c08fe36801e6c1bc4f434d8de60eaa291e1347141f5d41e845d3361f07ad",
+    "Appalachian_Power_Co_v_EPA_merits_2001-05-29.md": "56d0bfb5b18f29b7cd9ccea5f13aea81af0e86b6f4f19938e768ac6a29ecaaab",
+    "Arkansas_v_Sullivan_summary-merits_2001-05-29.md": "8441f3fd5b8ae0e407f3f86a6996ac473455a3212cc6d2d0c149fdc5d106b695",
+    "Atkinson_Trading_Co_v_Shirley_merits_2001-05-29.md": "afbf32d550176491d81aa3d7a7aec91a5a7b771a02f1b0cc50a538be212e5b44",
+    "Becker_v_Montgomery_merits_2001-05-29.md": "a5404f08f3cef2bf29afffd22fe86682b2e3dd3f5f221cd7c252faf79c3ca769",
+    "Booth_v_Churner_merits_2001-05-29.md": "1a1d0fc3482bcebf06f9adb2ee7155a7f192aa93cd029538e2131561e6770063",
+    "Buckhannon_Board_and_Care_Home_v_West_Virginia_merits_2001-05-29.md": "57b7e0a388b6aa5306791f2dd3f07f453c47832d707323c405615e5f13122332",
+    "Harris_v_Garner_merits_2001-05-29.md": "c06cf3e501ba6696336aad44422fd0403e1e079cca8278cf6841d2f4b72d07c4",
+    "new_hampshire_v_maine_merits_2001-05-29.md": "7d3c774b14e547e1b8b24ac0bf52069506562cc9a55a634c13ce9e2b0c0aa46f",
+    "NLRB_v_Kentucky_River_Community_Care_merits_2001-05-29.md": "ccf8a518aa5f839cd9c997f1e4ecd286a4abaa766567565bed451207aa2333e1",
+    "pga_tour_v_martin_merits_2001-05-29.md": "b0944ae5f6a0b298e776e725cf8b5442dd816a70b07e8ad80a8bde899169b682",
+    "united_states_v_napier_merits_2001-06-01.md": "668951e1f2e4ca277acc653e3b262250e9484eb0c0fc910d7f8c76d7949eb21e",
+    "penry_v_johnson_merits_2001-06-04.md": "cb00a4bab58633691d76aea08ae37ae6452195da592d57d6eb436ca4713b0571",
+    "pollard_v_du_pont_merits_2001-06-04.md": "287c94df173e66628507d06cc8367437ce893fbb3aa3b099e088fdafef9d4d70"
+  }
+}

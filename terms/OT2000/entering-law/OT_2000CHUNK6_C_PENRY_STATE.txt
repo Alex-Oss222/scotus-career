@@ -1,0 +1,2764 @@
+
+  
+    
+Johnny Paul PENRY, Appellant, v. The STATE of Texas, Appellee.
+    
+No. 71130.
+    
+Court of Criminal Appeals of Texas.
+    
+Feb. 22, 1995.
+    
+Rehearing Overruled June 7, 1995.
+    
+      
+*726
+John E. Wright, Huntsville, TX, Robert S. Smith, Glenda G. Grace, New York City, for appellant.
+    
+Jim W. James, Sp. Prosecutor, Bryan, TX, Joe Price, Dist. Atty., Coldspring, TX, Robert Huttash, State’s Atty., Austin, for State.
+  
+  
+    
+OPINION
+    
+PER CURIAM
+*
+    
+    
+In July 1990, a Walker County
+1
+ jury found appellant, Johnny Paul Penry, guilty of the capital offense of murder in the course of committing aggravated sexual assault.
+2
+      
+See 
+Tex.Penal Code § 19.03(a)(2). The jury answered the special punishment issues affirmatively, and the trial court assessed punishment at death. 
+See 
+Tex.Code Crim.Proe. art. 37.071(b).
+3
+ Appeal to this Court is automatic. 
+See 
+Article 37.071(h). On appeal, appellant raises 135 points of error, but he does not challenge the sufficiency of the evidence to support the jury’s finding of guilt.
+4
+ We will affirm.
+    
+      
+COMPETENCY TRIAL
+    
+    
+Appellant maintains in points of error 121-123 that the trial court abused its discretion when it denied his motion for change of venue raised at the competency trial.
+5
+ The motion and accompanying affidavits alleged that appellant could not get a fair trial in Walker County due to pretrial publicity. He argues that the trial court’s failure to change venue violated his rights under the Sixth, Eighth, and Fourteenth Amendments to the United States Constitution.
+    
+At the venue hearing, appellant presented evidence of various articles appearing in four Texas newspapers, 
+The Houston Chronicle, The Houston Post, The Dallas Morning News, 
+and 
+The Huntsville Item. 
+The majority of the articles appeared in January and February 1989, when appellant’s original case
+6
+ was before the Supreme Court, and again in June and July 1989, when the Su
+*727
+preme Court issued its opinion reversing his original conviction. This was more than six months prior to the May 1990 competency trial. Only three articles were printed in February and March of 1990. Two of those articles dealt with the original change of venue from Polk to Walker County; the tim’d article was a letter to the editor.
+    
+Hal Ridley, a criminal-defense lawyer practicing in Walker County, testified for appellant. He suggested that the public was already familiar with the case and was familiar with the fact that appellant had already received a death sentence which had been overturned. Ridley did admit, however, that many of the newspaper articles were favorable to appellant. He further stated that because so many potential jurors were connected with the Texas Department of Criminal Justice (T.D.C.J.),
+7
+ the potential jurors could not help being prejudiced against appellant. The State presented only its controverting affidavit to rebut appellant’s assertions.
+    
+The trial court took judicial notice of the voir dire examination of the competency veni-re. During voir dire, it was determined that twenty-one veniremembers had heard something about the ease, most having read about it in their local newspaper. Only two venire-members stated that the information they had obtained would bias their opinions, and they were excused for cause.
+8
+ Of the remaining panelists who were questioned about their knowledge, three were aware that appellant was a death-row inmate but did not know any details of his offense; three others knew only that he had killed someone; one knew there had been a change of venue; another knew appellant’s name and was aware that he had done something “against the law;” and one 
+thought 
+he may have seen appellant as an inmate in the prison in Huntsville.
+    
+Article 31.08(a) provides that a change of venue may be granted on a defendant’s motion if “there exists in the county where the prosecution is commenced so great a prejudice against him that he cannot obtain a fair and impartial trial.” However, merely because a case has been well publicized in the media does not automatically establish prejudice so as to require a change of venue; due process does not require that jurors be completely ignorant of the facts of the case. 
+Narvaiz v. State, 
+840 
+S.W.2d 415
+, 428 (Tex.Crim.App.1992); 
+Ransom v. State, 
+789 S.W.2d 572
+, 579 (Tex.Crim.App.1989). Due process requires only that a juror lay aside his impression or opinion and render a verdict based on the evidence presented in court. Morris 
+v. State, 
+488 S.W.2d 768
+, 771-72 (Tex.Crim.App.1973).
+    
+A defendant seeking a change of venue on grounds of pretrial publicity must show the existence of such prejudice in the community that the likelihood of obtaining a fair trial is doubtful. 
+Narvaiz, 
+840 S.W.2d at 428
+. An appellate court will not reverse a trial court’s decision to deny a change of venue absent an abuse of discretion. 
+Id.; Hathorn v. State, 
+848 S.W.2d 101
+, 109 (Tex.Crim.App.1992).
+    
+Appellant has shown us nothing in the record that demonstrates that the trial court’s denial of his motion to change venue was outside the realm of reasonableness. 
+See Narvaiz, 
+840 S.W.2d at 428
+. No member of the competency venire not struck for cause had formed an opinion as to appellant’s competency or guilt. Points of error 121-123 are overruled.
+    
+Points of error 124 and 125 aver that the trial court erred in refusing to conduct individual voir dire and in refusing to sequester the jurors at the competency phase even though “a large number of the panel members had been exposed to extensive publicity.” However, because appellant has provided no argument or authority regarding these issues, we consider the points inadequately briefed and as presenting nothing for our review. Tex.R.App.Proc. 74(f); 
+Robinson v. State, 
+851 S.W.2d 216
+ n. 4 (Tex.Crim.App.
+*728
+1991). Points of error 124 and 125 are overruled.
+    
+In points of error 126-131, appellant alleges that the trial court made numerous reversible errors during jury selection at the competency trial. Specifically, he contends the trial court erred in overruling his challenges for cause because the veniremembers had biases or prejudices against him. 
+See 
+Article 35.16(a)(9).
+    
+The denial or grant of a challenge for cause is within the discretion of the trial court and will not be overturned absent an abuse of that discretion. 
+Mooney v. State, 
+817 S.W.2d 693
+, 701 (Tex.Crim.App.1991). We examine the record as a whole to determine whether there is support for the trial court’s decisions, and, in doing so, we give great deference to the trial court. 
+Satterwhite v. State, 
+858 S.W.2d 412
+, 415 (Tex.Crim.App.1993). The trial court is able to consider such factors as demeanor and tone of voice that do not come through when reviewing a cold record. 
+Mooney, 
+817 S.W.2d at 701
+. Appellant was granted no additional peremptory strikes.
+    
+In point of error 126, appellant complains that prospective juror Taylor was biased because he knew appellant was a death-row inmate and felt psychologists were trying to run a “con game” to help appellant avoid the consequences of his actions.
+    
+There is no requirement in our law that jurors be completely ignorant of the facts of a case. 
+Cockrum v. State, 
+758 S.W.2d 577
+, 589 (Tex.Crim.App.1988); 
+Nethery v. State, 
+692 S.W.2d 686
+, 694 (Tex.Cr.App.1985). The sole question is whether a juror can put aside prior knowledge and opinion and render an impartial verdict. 
+Cockrum, 
+758 S.W.2d at 589
+; 
+see also Murphy v. Florida, 
+421 U.S. 794
+, 799-800, 
+95 S.Ct. 2031
+, 2035-36, 
+44 L.Ed.2d 589
+ (1975). During voir dire, Taylor stated that he knew appellant was an inmate on death row, but also that he knew no facts about the crime. Moreover, Taylor assured the trial court and the attorneys that he had formed no opinion as to appellant’s competency and was not affected by his knowledge of appellant’s death-row status.
+    
+Next, Taylor initially stated that he believed psychiatrists were trying to run a “con game” by testifying that defendants are incompetent. He believed that the “business of competency” was a way for a defendant to avoid being prosecuted. However, Taylor also stated that he would be able to put that opinion behind him and render a competency verdict strictly on the evidence, including psychiatric evidence, presented.
+    
+There is a distinction between prejudice on the part of a juror and the mere entertaining of an opinion. 
+Kemp v. State, 
+846 S.W.2d 289
+, 299 (Tex.Crim.App.1992). Simply because Taylor stated he felt some defendants might attempt to feign incompetence did not mean he had formed a conclusion as to 
+appellant’s 
+competency. Taylor was not disqualified as a matter of law from serving as a juror in this case. We see no abuse of discretion on the part of the trial court. Point of error 126 is overruled.
+    
+In point of error 127, appellant asserts that prospective juror Watkins should have been disqualified as a juror because he knew appellant was a death-row inmate through a bulletin he received at work. Appellant argues in points of error 128 through 131 that, due to media coverage, prospective jurors Moore, Massey, Weinzierk, and Rit-chey each knew that appellant had killed someone and, therefore, they should also be disqualified. Massey also knew that appellant was on death row and that venue had been changed from Polk County.
+    
+All these jurors stated unequivocally that they had formed no opinions regarding appellant’s competency. They all stated that they could set aside their knowledge and render a verdict based strictly on the evidence. As we have previously stated, the mere fact that a prospective juror has received some information about the accused’s case through the news media does not automatically disqualify him from serving as a juror. 
+Cockrum, 
+758 S.W.2d at 589
+. Because each of these jurors assured the trial court that he or she could put aside prior knowledge and render an impartial verdict, the trial court did not abuse its discretion. 
+Id.
+Points of error 127 through 131 are overruled.
+    
+      
+*729
+In points of error 117-119, appellant complains that the burden of proof at the competency hearing should have been placed on the State. Appellant argues that placing the burden to prove incompetency on him violated § 2.05 of the Texas Penal Code, the Eighth Amendment to the U.S. Constitution, and the due process guarantees of both the U.S. and Texas Constitutions.
+    
+At trial, appellant objected to the burden of proof only on the basis of due process. Because his trial objection does not comport with the Penal Code and Eighth Amendment issues raised on appeal, he has not preserved them for our review. Tex.R.App.Proc. 52(a); 
+Barnes v. State, 
+876 S.W.2d 316
+, 325 (Tex. Crim.App.1994); 
+Johnson v. State, 
+803 S.W.2d 272
+, 293 (Tex.Crim.App.1990). Therefore, we shall address appellant’s argument only as it relates to due process.
+    
+A defendant is presumed competent and shall be found competent to stand trial unless proved incompetent by a preponderance of the evidence. 
+See 
+Article 46.02, § 1(b). The burden of proof in a competency hearing is on the defendant. 
+Barber v. State, 
+757 S.W.2d 359
+, 363 (Tex.Crim.App.1988).
+    
+In 
+Medina v. California, 
+505 U.S. 437
+, 449-50, 
+112 S.Ct. 2572
+, 2579-80, 
+120 L.Ed.2d 353
+ (1992), the Supreme Court stated:
+    
+Once a State provides a defendant access to procedures for making a competency evaluation ... we perceive no basis for holding that due process further requires the State to assume the burden of vindicating the defendant’s constitutional right by persuading the trier of fact that the defendant is competent to stand trial.
+    
+⅜ ⅝ ⅜: ⅝ ⅜
+    
+The Due Process Clause does not ... require a State to adopt one procedure over another on the basis that it may produce results 
+more 
+favorable to the accused. Consistent with our precedents, it is enough that the State affords the criminal defendant on whose behalf a plea of incompetence is asserted a reasonable opportunity to demonstrate that he is not competent to stand trial.
+    
+(Citations omitted.) 
+Medina 
+is plainly applicable to the instant case,
+    
+We hold that Article 46.02 provides adequate procedures to protect a defendant’s right to due process at a competency trial, The trial court did not err in denying appellant’s requested instructions to place the burden of proof on the State. Points of error 117-119 are overruled.
+    
+In point of error 120, appellant complains that the trial court erroneously refused to submit his requested instruction No. 5, which would have informed the jury of the effect of a finding of incompetence. He argues that the absence of the requested instruction rendered the finding of competence unreliable, thus violating his Fourteenth Amendment right to due process and his Eighth Amendment right to be free from cruel and unusual punishment. The trial court charged the jury according to the requirements in Article 46.02. Appellant cites us to no other authority for his argument.
+    
+Appellant did not raise any constitutional objections regarding the submission of his requested instruction. Because his trial objection does not comport with the issues raised on appeal, he has preserved nothing for our review. 
+Barnes, 
+876 S.W.2d at 325
+; 
+Johnson, 
+803 S.W.2d at 293
+. Point of error 120 is overruled.
+    
+In points of error 115 and 116, appellant contends the trial court erred in failing to instruct the jury on the meaning of the statutory phrase, “sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding.” Specifically, he complains that the trial court refused his request to define the terms “rational,” “reasonable,” and “understanding,” which, he claims, are vague and indefinite.
+    
+The test to determine competency is “whether [the defendant] has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding—and whether he has a rational as well as factual understanding of the proceedings against him.” 
+Dusky v. U.S., 
+362 U.S. 402
+, 402, 
+80 S.Ct. 788
+, 788, 
+4 L.Ed.2d 824
+ (1960). Texas has codified this standard in Article 46.02, § 1(a). Neither the Supreme Court 
+*730
+nor our statute requires any definition of the terms found therein.
+    
+We do not believe that the terms “rational,” “reasonable,” and “understanding” have become so technical that they are legal terms of art requiring the trial court to define them. “Where terms used are words simple in themselves and are used in their ordinary meaning, jurors are supposed to know such common meaning and terms, and under such circumstances such common words are not necessarily to be defined in the charge to the jury.” 
+Russell v. State, 
+665 S.W.2d 771
+, 780 (Tex.Crim.App.1983) (citations omitted). The jury was entitled to give the terms their ordinary meanings. The trial court did not err in failing to instruct the jury on the definition of these terms. Points of error 115 and 116 are overruled.
+9
+    
+    
+      
+CHANGE OF VENUE
+    
+    
+In his 35th point of error, appellant complains of the trial court’s overruling of his motion for a change of venue of the trial on the merits. As in his previous hearing at the competency trial, appellant alleged that so great a prejudice existed against him in Walker County that he could not obtain a fair trial. Specifically, he complained of extensive prejudicial publicity, the proximity of the community to the situs of the crime, and the fact a number of Walker County residents were employed by the T.D.C.J. He asserts that the alleged error violated his rights under the Sixth, Eighth, and Fourteenth Amendments.
+    
+The authorities and standard of review for a denial of a motion to change venue for the trial on the merits are identical to those set out in points of error 121 through 123, 
+supra. 
+Therefore, we need not repeat them.
+    
+The hearing on the motion took place on May 22, 1990. The evidence presented showed that the population of Walker County was 55,206. The T.D.C.J. employed 5,168, although not all employees were residents of Walker County. The 
+Huntsville Item, Houston Post, 
+and 
+Houston Chronicle 
+were shown to have reasonably large circulations in the county. Approximately seventy articles from those papers were admitted in evidence. The articles covered a time range of approximately 660 days. About fourteen of the articles appeared in the six months preceding trial, and they dealt mainly with the original change of venue from Polk County and competency matters. Also admitted in evidence was the partial script of a news broadcast out of Bryan and two videotapes of news broadcasts out of Houston, dated October 19, 1988, and January 1, 1989. A review of the record reveals that the majority of news reports centered around the time appellant’s case was before the Supreme Court.
+    
+Appellant called five witnesses to testify. Professor Raymond Teske presented an opinion poll comparing the percentage of people aware of the case and willing to assess the death penalty in Walker County versus Galveston County.
+10
+ Attorneys William Ha-bern, Kay Douglas, and Jane Swanson testified that they did not believe appellant could receive a fair trial due to the bias in the 
+*731
+community. Finally, Professor Edward Bronson testified regarding the potential prejudicial effect created by the news media.
+11
+    
+    
+In rebuttal, the State called six witnesses who expressed the opinion that appellant could obtain a fair trial in Walker County. The -witnesses included Oscar Thorn, the Walker County Tax Assessor-Collector; Dale Meyers, Walker County Sheriff; Randy Ellisor, the manager of Huntsville Cable T.V.; Randall Davis, a local insurance agent; Travis McDonald, an assistant prosecutor for the Prison Prosecution Unit in Huntsville; and Judge Frank Robinson. Each testified that he had heard very little, if any, talk about the ease and had seen little newspaper coverage. McDonald also testified that he did not believe that employment by T.D.C.J. would affect a juror’s ability to fairly decide a criminal case.
+    
+The trial court further took judicial notice of the voir dire that occurred at the competency trial and the general voir dire held the day before the instant hearing. At the general voir dire, when the trial court asked the ninety-six prospective jurors if anyone had heard or read about the case, approximately forty raised their hands. During the State’s voir dire, after discussing the case in more detail, twelve more people also indicated that they had heard or read about the case. Four of these people were excused because they had already formed opinions regarding appellant’s guilt. The trial court denied the motion to change venue.
+    
+Appellant re-urged his motion after the completion of the voir dire, giving the trial judge an additional barometer of the community climate. Fourteen of the jurors were excused because they had formed opinions that appellant was guilty. All other venire-members familiar with the ease stated they could try the case strictly on the evidence adduced at trial. Appellant used his fifteen peremptory challenges plus two additional challenges granted him by the trial court. Of the twelve jurors selected for trial, five knew nothing about the case; six heard or read very little and none knew of the details or purported facts; and, finally, one had some detailed knowledge but stated that he had formed no opinion and could afford appellant a presumption of innocence. The trial court again denied the motion.
+    
+After a careful review of the record, we conclude that appellant has failed to show that publicity created a prejudice so great as to prevent a fair trial. 
+See Faulder v. State, 
+745 S.W.2d 327
+, 338-39 (Tex.Crim.App.1987); 
+Freeman v. State, 
+556 S.W.2d 287
+, 294-96 (Tex.Crim.App.1977).
+12
+ Further, appellant sets forth no evidence to show that employees of the T.D.C.J. would be inherently biased jurors. It appears that appellant was tried by jurors who had no opinion as to his guilt and that he received a fair trial.
+    
+As this Court has previously noted:
+    
+Our courts cannot and do not operate in a vacuum. Courts deal with people and crimes which are newsworthy. To require a trial of jurors who had never heard of a highly publicized crime would be impractical if not impossible. Certainly, it was never intended that jurors were to be selected from those who did not read newspapers or keep up with current events through other media. Jurors selected from such a group, if there are enough to be called a group, would not be representative. To hold otherwise would be to hold that the perpetrator of a very highly publicized crime such as the assassination of a president or any widely known person could never be tried.
+    
+      
+Morris, 
+488 S.W.2d at 771-72
+ (citations omitted).
+    
+The trial court did not err in denying appellant’s motion to change venue. Point of error 35 is overruled.
+    
+      
+*732
+      
+VOIR DIRE
+    
+    
+In twenty-four points of error (points 86 through 59), appellant complains that the trial court erred at voir dire. The record reveals appellant exhausted all his peremptory challenges and was granted two additional strikes. After his request for more peremptory strikes was denied, appellant identified several venirepersons as objectionable jurors who were seated on the jury. Error, if any, was preserved. 
+Demouchette v. State, 
+731 S.W.2d 75
+, 83 (Tex.Crim.App.1986). However, because the trial court granted appellant two additional peremptory strikes, we can not reverse appellant’s conviction unless he demonstrates that the trial court committed error in discharging 
+three 
+jurors.
+13
+      
+Martinez v. State, 
+763 S.W.2d 413
+, 425 (Tex.Crim.App.1988); 
+Rector v. State, 
+738 S.W.2d 235
+, 247 (Tex.Crim.App.1986). Appellant challenges twelve veniremembers. Because we hold the trial court did not abuse its discretion regarding ten of those venire-persons and because appellant was given two extra peremptory strikes, appellant can show no harm. 
+See Chambers v. State, 
+866 S.W.2d 9
+, 23 (Tex.Crim.App.1993). Therefore, we need not address the points of error pertaining to prospective jurors Falknor and Anderson (points of error 45 through 47, 52, 53 and 59).
+    
+      
+1. Challenges for Cause
+    
+    
+In points of error 36 through 53, appellant posits the trial court erred in overruling his challenges for cause because the venireper-sons in question held prejudices against aspects of the law upon which he was entitled to rely. 
+See 
+Article 35.16(c)(2). The authorities and standard of review for a challenge for cause are identical to those set out in points of error 126 through 131, 
+swpra.
+    
+    
+In points of error 36, 37 and 39, appellant argues that prospective jurors Waggoner, Blair, and Lawson could not distinguish between the terms “deliberate,” as used in the first punishment issue, and “intentional,” the culpable mental state of the crime:
+    
+      
+Prospective Juror Waggoner:
+    
+    
+[By the Prosecutor, after a recitation of various hypotheticals and explanations of the differences between the two terms]: Would you follow the court’s instructions and answer this question based on the evidence and not simply because you had already found him guilty? Could you do that?
+    
+A Yeah. I mean, I could do that.
+    
+Q. Would you answer [the first special issue] based on the evidence?
+    
+A. Yes.
+    
+Q. Okay. And just because you found him guilty, you are not going to come along and answer this one yes automatically, are you?
+    
+A. No.
+    
+⅜ ⅜ ⅜ ⅜ ⅜: ⅜:
+    
+[By Defense Counsel]: When we are talking about special issue number one, let’s say, in your mind, do you see that there is — or there is a distinction between intentional versus deliberate?
+    
+A. If so, I don’t know what it is.
+    
+Q. Let me ask you this. If you had gone back and, of course, you realize you don’t get to these particular questions until you have already found somebody guilty of intentionally committing a murder ... If you had already done that, and just because you had answered that somebody had committed a capital murder, that they intentionally and knowingly killed ... just because you have answered that he had done this, and he was guilty of that crime, does that mean in and of itself that you automatically answer special issue number one that he deliberately did that?
+    
+A. No.
+    
+      
+*733
+Q. Okay. So, there is a distinction between deliberate and intentional now in your mind?
+    
+A. Well, I don’t know exactly what it would be. I’m sure there is a fine line.
+    
+Q. You just don’t know yourself, you can’t verbalize it?
+    
+A. I mean, if I told someone I intentionally did something, I mean, I could turn around and say I deliberately did it, and I would mean the same thing by it.
+    
+Q. In your mind, though, can you think of any situation where there would be a distinction?
+    
+A. No.
+    
+⅝ ⅜ ⅜ ⅝ ⅜ ⅜
+    
+Q. Well, the State says intentional in one, or somebody intentionally commits a murder.
+    
+A. Right.
+    
+Q. Then they turned right back around and they use a different word, deliberate, in special issue number one.
+    
+A. Right. I am sure there is a reason for their different terminology.
+    
+      
+    
+    
+Q. You say you still don’t see the distinction?
+    
+A. No, unless you explain it some other way.
+    
+      
+    
+    
+Q. Okay. Again going back to the special issue, intentional, if you found a person guilty of intentionally committing capital murder, that is, in and of itself, sufficient to you, you don’t have to think, if he intentionally did it, that is good enough for me, I can answer special issue number one yes?
+    
+A. There is more to it than that.
+    
+Q. With the reasonable expectation that the death of the deceased or another would result?
+    
+A. Yes. You have to be able to—
+    
+Q. Well, if he intentionally killed somebody, wouldn’t you think that you could reasonably expect the death of the deceased to result?
+    
+A. Yes.
+    
+Q. Okay. So, now, back to the same question on intentional. You have answered guilt or innocence, you have found him guilty.
+    
+A. If I found him guilty, I would answer number one.
+    
+Q. Automatically?
+    
+A. No.
+    
+      
+Prospective Juror Blair:
+    
+    
+[By Defense Counsel]: Alright. And, then, you come back and we have a second part of the trial, where evidence may or may not presented [sic], but, anyway, you have already found that he intentionally committed the particular murder.
+    
+A. Yes, sir.
+    
+Q. Now, based upon your strong viewpoint, do you believe that the question Number One is automatically answered, just because he intentional [sic] kills somebody, would that be answering Number One, right away?
+    
+A. Yes, sir, pretty much.
+    
+Q. And, there is no distinction in your mind between deliberate and intentional, they are one in the same, if the man committed a murder in the course of committing some other crime?
+    
+A. Yes, sir.
+    
+⅜ ⅝ ⅜ ⅜ ⅝ ⅜
+    
+Q. Question Number One is answered, I don’t need any other information, I do not want any, because intentional and deliberate is [sic] one in the same, you guys can sit here and talk about the Legislature, and talk about it all day long, but Question Number One is answered, boom?
+    
+A. Basically, unless there is something I just can’t think of, I would say yes, sir, that’s right, you have no reason to be there.
+    
+⅜ ⅜ ⅜ ⅜ ⅜ ¾:
+    
+[By the State]: Okay. With respect to that, and I gave you probably a poor example of the difference between deliberate and intentional awhile ago, when I said, about the guy holding the pistol, cocked and looks off and sees a little movement and pulls the trigger. That could be com
+*734
+pared to a guy facing him with a trigger, with a gun on him, getting the money and he is thinking that he is the only witness here, I ain’t going to leave him alive, he gets the money and he goes boom, you know, looking him dead on. You see what I am talking about. Now, you may consider both of those deliberate and both of those intentional, that’s not my point, to try to convince you one way or the other. My point is, though, is that there is a distinction, sometimes, or most of the time, maybe both would be true, most of the things that we have been talking about intentional, and likely to be deliberate, and vice versa. What that question though, it does use a different term, and it is worded a little different, and ask you to answer that question based on the evidence, and the fact that the State has a burden of proof on all three of these questions to prove that the answers was [sic] yes, beyond a reasonable doubt, and in order to answer it, you must be convinced by the evidence, not by the fact that you found him guilty earlier, but, by the evidence, and if you were convinced again that it was deliberate and also intentional, so be it, but, could you do that?
+    
+A. Yes, sir.
+    
+⅜ ⅜ ⅛ * * *
+    
+[By Defense Counsel]: That is why I was asking you the question about intentional versus deliberate. That extreme feeling that you feel is such that you have told me that you would answer Question Number One automatically, because you already found the man doing that extreme penalty that you feel very deeply about?
+    
+A. Here again, I would have to hear the facts, okay? But, I do have a feeling, you know, you shouldn’t be there, or you shouldn’t be in someone’s home or in their store or something. I mean, you shouldn’t do that. You know, that’s normal, I would think.
+    
+⅝ ⅜ ⅜ ⅜ ⅜ ⅝
+    
+Q. Would there be any real decision upon your part, after having first found somebody guilty, to answering these questions in any other way but the way that you feel?
+    
+A. I don’t think so. You know, I don’t think I would have any problem.
+    
+Q. Do you feel like that they would automatically be answered yes?
+    
+A. Not if you read the question.
+    
+Q. No. In your belief?
+    
+A. No, I don’t think it would be automatically answered yes.
+    
+      
+Prospective Juror Lawson:
+    
+    
+[By Defense Counsel]: Okay. If I go up and — it is kind of tricky there, intentionally and deliberately is the same in your mind. In other words, what you are saying, if you have it all set up, and the Legislature goes back and talks about all of these words, but that deliberately and intentional are the same thing, no matter what you guys talked about, in your mind? A. Yes, sir.
+    
+* ⅜ ⅜ ⅜ He *
+    
+Q. Is there something that I could give you that would help show you the distinction? Is there some way I can explain it to you different? Mr. Lawyer, you are sitting there all day long and talking at this time about it, you are just splitting hairs, and that doesn’t make any sense to me. A. Well, the way — the only thing I can say, the way the two words are used, based on the same definition, but they are used different, in different ways to the defendant. It all goes back to the same thing.
+    
+⅜ ⅜ ⅜ ⅜ ⅜ ⅜
+    
+Just used different. The same definition to me.
+    
+⅜ * ⅜ * ‡ ⅝
+    
+[By the State]: [W]ith respect to the first issue up there, where it asks about was the conduct done deliberately, would you answer that question based on whatever your definition of deliberate is, but would you answer that question based on the evidence that was before you as opposed to just answering it because you had already found the man guilty? In other words, I find him guilty, I’m going to automatically answer this issue yes. That is one proposition. The other proposition would be, I 
+*735
+have found him guilty based on the evidence, and then when I get down to this first issue, Fm going to answer that issue based on the evidence, too. I am not going to answer just because I have found him guilty. Which way would you do that?
+    
+A. I will treat this just like the whole trial.
+    
+Q. You would answer it just on the evidence?
+    
+A. True.
+    
+Q. It wouldn’t matter that you had already found him guilty or not, you are going to look at the evidence?
+    
+A. Look at it as all over the trial.
+    
+Q. And you would look at that question, then, I take it, and whatever in your mind deliberate meant, that is what you would do, you would apply it to whatever the evidence was?
+    
+A. Yes, sir.
+    
+      
+    
+    
+Q. Okay. But the bottom line is, irregardless [sic] of what definition you attach to the word deliberately, would you answer that first question totally on the evidence, just on the evidence, and not for any other reason? Could you do that?
+    
+A. Yes, sir.
+    
+⅜ ⅜ ⅜ ⅜ ⅜ ⅜
+    
+[By Defense Counsel]: Because you have already found that person had already intentionally committed a crime does that mean that you can answer number one automatically yes, because you have already found that he intentionally committed a crime?
+    
+A. No, sir.
+    
+After reviewing the entire voir dire for each veniremember, it is apparent that they were confused and equivocating in their responses. It is not error for the trial court to deny a challenge for cause to veniremembers who give equivocating answers on whether they could answer a punishment issue in the negative. 
+Sattiewhite v. State, 
+786 S.W.2d 271
+, 281 (Tex.Crim.App.1989). In the instant case, each prospective juror stated that he was capable of following the law and answering the punishment issues impartially. Therefore, we hold the trial court did not abuse its discretion by overruling appellant’s challenges for cause. 
+Id.; see also Mooney, 
+817 S.W.2d at 701
+. Points of error 86, 37, and 39 are overruled.
+    
+In point of error 38, appellant contends that prospective juror Blair was biased against the law pertaining to special issue three concerning provocation.
+14
+ Appellant asked Blair the following:
+    
+Q. Assuming that you are convinced beyond a reasonable doubt that the defendant deliberately murdered a woman during the course of intentionally raping her and you are convinced beyond a reasonable doubt that he is a violent person, who will pose a threat to society, and there was no mitigating evidence offered on his behalf, assume that when the defendant was raping the woman, she provoked him in some sort of way, anyway, that you can, at all, would anybody ever be able to convince you that it was reasonable for the defendant to respond to the provocation by deliberately taking her life?
+    
+After Blair blurted out his negative answer, the State objected that the question was improper because it sought to bind the juror to a specific fact situation. The trial court sustained the objection.
+    
+Without deciding whether a defendant may base a challenge for cause on a question sustained as improper, we hold no error occurred here. During the State’s voir dire, Blair stated he could follow the law and base his answer to the third special issue on the evidence adduced. The record reflects further that the State was permitted, without objection, to read the indictment to Blair. Given these facts, we cannot say there is anything wrong with Blair visualizing himself as satisfied beyond a reasonable doubt that the defendant’s killing of the deceased was not a reasonable response to any provocation. 
+Cf. White v. State, 
+779 S.W.2d 809
+, 818 (Tex.Crim.App.1989). Blair did not state, and was not asked, how he would answer given a 
+*736
+different fact situation. The trial court did not abuse its discretion. Point of error 38 is overruled.
+    
+In points of error 40 through 42, appellant challenges prospective juror Duncan on three separate grounds. Appellant argues that Duncan could not consider his mitigating evidence, that he was unable to disregard illegally obtained evidence, and that he would find any confession admitted in evidence to be voluntary.
+    
+In the first of the three challenges, appellant states that Duncan was unable to consider evidence of his mental condition. We disagree. Duncan never stated that he would not 
+consider 
+evidence of appellant’s mental condition. He merely stated his opinion that he probably would not find the evidence to be mitigating unless it showed appellant could not distinguish between right and wrong. This Court has stated before:
+    
+In Texas, this mitigating evidence is admissible at the punishment phase of a capital murder trial. Once admitted, the jury may then give it weight, if in their individual minds it is appropriate, when answering the questions which determine sentence. However, “[t]he amount of weight that the factfinder might give any particular piece of mitigating evidence is left to ‘the range of judgment and discretion’ exercised by each juror.”
+    
+      
+Johnson v. State, 
+773 S.W.2d 322
+, 331 (Tex.Crim.App.1989), 
+affirmed in part, Johnson v. Texas, 
+- U.S. -, 
+113 S.Ct. 2658
+, 
+125 L.Ed.2d 290
+ (1993) (citations omitted).
+15
+ The trial court did not err. Point of error 40 is overruled.
+    
+In his second challenge to the veniremember, appellant maintains that Duncan would not be able to disregard illegally obtained evidence, even if instructed to do so by the trial court. Duncan never unequivocally stated that he would not disregard the evidence; he stated that he “would give it a good shot, but [he] couldn’t guarantee that [he] could completely blot it from memory.” But later he stated that he would be able to follow the trial court’s instructions. The trial court did not abuse its discretion in overruling appellant’s challenge for cause. Point of error 41 is overruled.
+    
+His third challenge to Duncan alleges that the juror would consider any confession voluntary merely because the trial court admitted it into evidence over objection. Duncan stated first that he would give some weight to the court’s ruling to admit a confession. However, he further stated that he would consider the mental capacity of the person confessing, whether the person understood the language being used, and the person’s life history. Duncan never clearly stated that he 
+could not 
+disregard such a confession. According deference to the trial court’s ruling and upon the record before us, we hold the trial court did not abuse its discretion in overruling appellant’s challenge. 
+See White, 
+779 S.W.2d at 820
+. Point of error 42 is overruled.
+    
+Points of error 43 and 48 contend prospective jurors Mangham and Burt would automatically answer special issue three on provocation in the affirmative. During the voir dire examination, the following was elicited from veniremember Mangham:
+    
+Q. [C]an you consider that a killing could be reasonable, yet not be a self-defense issue?
+    
+A. No.
+    
+Q. Looking at Special Issue No. Three, then, can you think of any sort of factual situation, and, of course, you have to realize that there is now somebody dead, a murder has occurred, because you would have already found somebody guilty, and now you are dealing with this on punishment. It reads, “If raised by the evidence, whether the conduct of the defendant in killing the deceased was unreasonable in response to the provocation, if any, by the deceased.”
+    
+      
+*737
+Do you think that there is any sort of factual situation at all that you can conceive of, where the killing would not have been — where the killing would have been reasonable by the defendant towards the deceased?
+    
+A. No.
+    
+Q. And is there anything I can — I can’t give you any kind of hypothetical or anything, could I, that would change your mind regarding that particular point?
+    
+A. Maybe.
+    
+Q. Okay Let’s find out. What this is asking you to do is think of, in the process of the murder occurring, is that something that the decedent did which will not rise to the level of self-defense, could have provoked the defendant into committing the murder.
+    
+A. Okay.
+    
+Q. All right? I don’t know if that helps you any, but now, is there anything that you could think of, any factual situation, and stop and think about it, where you could even consider answering that question anything but a simple no answer? A. Well, looking at it that way, I imagine there is.
+    
+Q. You can conceive of a factual situation of some sort?
+    
+A. Yes.
+    
+Q. Do you have one on your mind right now?
+    
+A. No.
+    
+      
+Prospective Juror Burt:
+    
+    
+Q. Lets go to Special Issue Number Three. I like to focus on that word unreasonable there. Obviously, Mr. Price gave you some examples on that. You already have somebody convicted of capital murder, and so, you would know at that time that it was not self-defense because if it was self-defense, never have a conviction for anything?
+    
+A. Right.
+    
+Q. Self-defense is not murder. Okay. Can you think of a situation where a killing not in self-defense is truly reasonable?
+    
+A. No, I can’t.
+    
+A veniremember is not challengeable for cause merely because he cannot think of a specific fact situation. 
+See Hogue v. State, 
+711 S.W.2d 9
+, 27 (Tex.Crim.App.1986). Mangham stated that he 
+could 
+conceive of a fact situation where he would answer special issue three in the negative. 
+See Harris v. State, 
+784 S.W.2d 5
+, 24 (Tex.Crim.App.1989). Burt was not questioned further on the issue. Article 35.16(c)(2) provides that a juror is challengeable for cause if “he has a bias or prejudice against any of the law applicable to the case upon which the defense is entitled to rely.” Neither Mangham nor Burt showed such prejudice. The trial court did not abuse its discretion by overruling appellant’s challenges for cause. Points of error 43 and 48 are overruled.
+    
+In points of error 44 and 49, appellant claims that the trial court erred in overruling appellant’s challenges to prospective jurors Baker and Burt. Specifically, appellant argues that the veniremembers could not consider child abuse in mitigation of punishment and, therefore, were biased against the law upon which he was entitled to rely.
+    
+During voir dire, Baker and Burt each stated that they would not consider child abuse to be a mitigating factor. However, each did say that they would follow the court’s instructions. Further, Baker later stated that his consideration of child abuse would depend on the “whole history” of the abuse; and Burt stated that she would consider it as “part of the overall picture.”
+    
+Baker and Burt were not shown to have bias or prejudice against the law. The mere fact that they acknowledged that they believed such evidence deserves little or no weight does not create a sustainable challenge for cause under Article 35.16. 
+Johnson, 
+773 S.W.2d at 331
+; 
+Allridge v. State, 
+850 
+S.W.2d 471
+, 482 (Tex.Crim.App.1991). Appellant’s 44th and 49th points of error are overruled.
+    
+In points of error 50 and 51, appellant claims the trial court erred in overruling his challenge for cause to prospective juror Blake. At the conclusion of his voir dire of Blake, appellant stated:
+    
+      
+*738
+We will challenge this juror for cause. He violated the Court’s order by discussing this case that worked [sic] after he was instructed not to do so, and if he can’t follow those instructions, he can’t be expected to follow the court’s charge. He also indicated that he would have to take the victim impact into account. Further, he indicated that he is less likely to believe Johnny than a peace officer. He has already made up his mind about that. That is our challenge for cause on this juror.
+    
+In his brief, appellant complains that Blake was biased against him, that Blake would not presume appellant to be innocent, and that Blake would not hold the State to its burden of proof. Because the basis for the challenge during voir dire differed from these complaints made on appeal, appellant has waived any error as to these complaints. 
+Harris, 
+784 S.W.2d at 27
+.
+    
+Appellant also argues under these points that Blake did not follow the trial court’s instructions and discussed the case with other people. He argues that this created harm because some of these “people” expressed opinions about the case and made Blake biased against appellant. We have stated before that “[p]rior knowledge of a crime from the news media and community discussion is not sufficient grounds to require that a venireman be excused for cause. The sole question for determination is whether a juror can put aside prior knowledge and opinion and render an impartial verdict.” 
+Kemp v. State, 
+846 S.W.2d 289
+, 298 (Tex.Crim.App.1992) (citations omitted). After a review of the voir dire, we hold that the record supports the trial court’s implicit finding that Blake was capable of discarding any preconceived conclusions he may have had and would follow the law as given to him by the court. 
+Id. 
+at 299
+. The trial court did not abuse his discretion. Points of error 50 and 51 are overruled.
+    
+      
+2. Improper Questions
+    
+    
+In points of error 54 through 59, appellant contends that the trial court erred by refusing to allow him to ask six prospective jurors proper questions during voir dire, thereby preventing the intelligent use of his peremptory strikes.
+    
+In 
+Nunfio v. State, 
+808 S.W.2d 482
+, 484 (Tex.Crim.App.1991), we held:
+    
+The standard of review in a case where the defendant claims he was improperly restricted on voir dire is whether the trial court abused its discretion. The propriety of the question which the defendant sought to ask is determinative of the issue. We have held that a question is proper if it seeks to discover a juror’s views on an issue applicable to the case.
+    
+      
+See also Woolridge v. State, 
+827 S.W.2d 900
+, 904 (Tex.Crim.App.1992). However, the trial court does have the authority to impose reasonable restrictions on the exercise of voir dire examination. 
+Guerra v. State, 
+771 S.W.2d 453
+, 467 (Tex.Crim.App.1988). The denial of a proper question during voir dire is always reversible error and will not be subject to a harm analysis under rule 81(b)(2) of the Texas Rules of Appellate Procedure. 
+Nunfio, 
+808 S.W.2d at 485
+.
+    
+In point of error 54, appellant complains that the trial court prevented him from inquiring whether venireperson Lawson could distinguish between the terms “intentional” and “deliberate.” After questioning by both appellant and the State on the terms relating to special issue number one, the following occurred during appellant’s re-examination of Lawson:
+    
+Q. Because you have already found that person had already intentionally committed a crime, does that mean that you can answer number one automatically yes, because you have already found that he intentionally committed a crime?
+    
+A. No, sir.
+    
+Q. I’m sorry?
+    
+A. No, sir.
+    
+Q. Okay. So, in your mind, there now is a distinction between deliberate and intentional?
+    
+[By the Prosecutor]: Objection, Your Hon- or. That is an improper question. Just because he said he would answer that question based on the evidence, doesn’t mean that there is a distinction at all. The Court: Sustain the objection.
+    
+      
+*739
+Although the State’s objection was improper, the question had already been asked and answered when Lawson replied that he would not automatically answer yes to special issue one if appellant were found guilty of intentionally committing the crime. It is within the discretion of the trial court to refuse questions that are duplicitous or unnecessary. 
+Guerra, 
+771 S.W.2d at 467
+. The trial court did not abuse its discretion. Point of error 54 is overruled.
+    
+Appellant argues in point of error 55 that he was not allowed to determine prospective juror Duncan’s attitude towards the mentally retarded. The trial court did not permit appellant to ask Duncan whether persons who are mentally retarded should be allowed to serve on juries. Appellant had previously been allowed to ask Duncan the following questions:
+    
+Q. Do you think that mental retardation might have an effect on the voluntariness of a person’s statement given to a peace officer?
+    
+⅜ ⅜ ⅝ ⅜ ⅜ ⅝
+    
+Q. Can you fairly weigh and consider the testimony of that person’s mental retardation, on the effect of the mental retardation on the communication skills of those who are so afflicted?
+    
+⅜ ⅜ ⅜ ⅝ ⅜ ⅜
+    
+Q. Do you feel that a person’s mental state can be so affected by mental retardation or mental illness that he cannot actually appreciate the gravity of his act, does it seem fair to you that you would consider this evidence in making your decision in determining whether or not the person did anything, has a conscious objective or desire as required by law, or even be the awareness of a reasonable certainty that a death would result?
+    
+⅜ ⅜: ⅜ ⅜ ⅜ ⅜
+    
+Q. Do you think a mental illness can be as debilitating as a physical ailment?
+    
+⅜ ⅜ ⅜ ⅜ ⅜ ⅜
+    
+Q. Do you have an opinion as to whether or not mental [sic] retarded persons should be permitted to vote?
+    
+Appellant asked various questions pertaining to Duncan’s attitude towards mentally retarded persons. As stated before, a trial court does not abuse its discretion by restricting duplicitous questioning. 
+Guerra, 
+771 S.W.2d at 467
+. In any case, the prohibited question did not relate to an issue in the case and was, therefore, improper. 
+Nunfio, 
+808 S.W.2d at 484
+; 
+Woolridge, 
+827 S.W.2d at 904
+. Point of error 55 is overruled.
+    
+In point of error 56, appellant maintains that the trial court prevented him from inquiring whether venireperson McClure would be unduly affected by evidence of any impact the murder had on the victim’s family. Appellant asked McClure the following:
+    
+Q. Well, do you feel it is important to consider, in determining whether the sentence should be life or death, any impact, if there was, on the victim’s family?
+    
+A. Well, I kind of answered that already. When it gets to the same thing, it was something in my family, you know, I think if someone in my family — I have already answered how I feel about it, and any time there is any kind of brutal death, I think that it has a great impact on that family, the immediate family and outside family, too, friends, but I don’t know if that would make my opinion looking at this family, I guess it could probably come into my opinion a little, because like I said, I could.
+    
+I wouldn’t want to put myself in this family’s shoes, but I think I could also relate to what they are going through.
+    
+Q. Well, do you suppose that any facts that might somehow or another get before you in a trial of a capital murder case, about the victim’s family, can you assure us that those facts would not prevent you or substantially impair you from imposing a life sentence as opposed to a death sentence?
+    
+PROSECUTOR: Objection, Your Honor, trying to commit the juror.
+    
+THE COURT: Sustain the objection.
+    
+Q. It may seem to some that I am trying to commit you, but I am not, really. I am trying to state this fair. Let us assume that you are considering in the penalty phase of any capital murder case, okay? 
+*740
+And some of the evidence that has come in shows that the victim’s family was greatly impacted and terribly grieved and greatly harmed by the facts.
+    
+A. Uh huh.
+    
+Q. Okay? Can you assure us that the knowledge of those facts would not prevent you or substantially impair you in considering a life sentence in such a case?
+    
+PROSECUTOR: Objection again, he is trying to bind the juror.
+    
+THE COURT: Restate just the last part, Mr. Wright. The objection is sustained.
+    
+DEFENSE COUNSEL: The question is, Judge—■
+    
+THE COURT: I understand the question. Restate it.
+    
+* ⅜ * ⅜ * *
+    
+PROSECUTOR: I would like to also interject, object to being repetitious. The witness has already answered the question.
+    
+We agree that the question had already been asked and answered. 
+See Guerra, swpra. 
+Furthermore, the question at issue attempted to commit McClure to what his view would be under a particular fact situation. While it is proper to pose hypothetical fact situations to explain the application of the law, it is improper to inquire how a veniremember would respond to particular circumstances. 
+Cuevas v. State, 
+742 S.W.2d 831
+, 836 n. 6 (Tex.Crim.App.1987). The trial court did not restrict appellant’s questioning on the subject matter but rather restricted the form appellant used to ask his question. We conclude the trial court did not abuse its discretion. 
+See Allridge v. State, 
+762 S.W.2d 146
+, 163-64 (Tex.Crim.App.1988). Point of error 56 is overruled.
+    
+In appellant’s 57th point of error, he contends the trial court improperly restricted him from questioning prospective juror Mangham about her potential bias against defense character witnesses:
+    
+Q. Would you give little or no credence to the defendant’s character witnesses, if they came to testify as to mitigation of circumstances, just because they were related to the defendant?
+    
+PROSECUTOR: Trying to pin the juror as to what she would do in a particular type of evidence.
+    
+THE COURT: Sustain the objection. You can restate the question, Mr. Smith. DEFENSE COUNSEL: Your Honor, I believe that that is a permissible statement under—
+    
+THE COURT: Objection sustained. Excuse me.
+    
+* ***** *
+    
+Q. Could you consider a lay witness’ testimony about the defendant’s mental condition, and that means like a next door neighbor or something like that?
+    
+A. No.
+    
+Q. Mother or father?
+    
+A. Yes.
+    
+Appellant’s question constituted an attempt to require Mangham to commit herself as to how she would pass upon the credibility of character witnesses prior to trial. 
+See Guerra, 
+771 S.W.2d at 468-69
+ (police witnesses). The trial court was not limiting appellant’s questions in this area but merely restricted the form. As can be seen, when appellant reworded the question to elicit whether Mangham could 
+consider 
+testimony from his relatives, it was not found objectionable. Appellant’s 57th point of error is overruled.
+16
+    
+    
+In point of error 58, appellant complains that he was not allowed to ask whether veniremember Roberts could follow an instruction placing the burden of proof on the State to 
+disprove 
+appellant’s evidence of mental retardation and child abuse. The State objected to the questions on the ground that they were a misstatement of the law. The trial court sustained the objections and explained that the law only requires the State to prove each of the special issues beyond a reasonable doubt.
+    
+      
+*741
+To support appellant’s claim that he needed to be able to question Roberts on his ability to follow the proffered instruction on the burden of proof, “it must at least be plausible that the jurors might actually have to follow that instruction.” 
+Spence v. State, 
+795 S.W.2d 743
+, 755 (Tex.Crim.App.1990). Because appellant’s instruction was a misstatement of the law 
+(see 
+points of error 83-86, 
+infra), 
+we hold the trial court did not abuse its discretion. We also note that appellant was able to ask the following question and get an answer:
+    
+Alright, [w]ell, you feel like it would be fair to require the State to remove any doubt about mental retardation or child abuse beyond a reasonable doubt?
+    
+No error is shown. Point of error 58 is overruled.
+    
+      
+MISSTATEMENTS OF LAW TO PROSPECTIVE JURORS DURING VOIR DIRE
+    
+    
+In point of error 60, appellant argues that the trial court erred in allowing the State to misstate the law to various prospective jurors. Specifically, he complains that the State improperly equated mitigating factors with factors that reduce appellant’s 
+blame 
+for the crime.
+    
+Appellant’s complaint is without merit. A review of the voir dire examination reveals that, although the State defined “mitigating” in limited terms, defense counsel had the opportunity to cross-examine each venire-member regarding the meaning of mitigating. Further, the trial court instructed each juror prior to his individual voir dire that anything the attorneys said could not be considered as evidence, and also defined the term “mitigating” in the court’s charge.
+17
+ Any error in the State’s earlier definition was, therefore, harmless. 
+See Adanandus v. State, 
+866 S.W.2d 210
+, 225 (Tex.Crim.App.1993). Point of error 60 is overruled.
+    
+Point of error 61 avers that the trial court erred in allowing the State to incorrectly tell prospective jurors that “deliberate” is not necessarily distinct from “intentional.”
+    
+Appellant made no objection to the State’s definition during voir dire.
+18
+ Therefore, he has preserved nothing for our review. Tex. R.App.Proc. 52(a); 
+Draughon v. State, 
+831 S.W.2d 331
+, 336-37 (Tex.Crim.App.1992). Point of error 61 is overruled.
+    
+In appellant’s 62nd point of error, he complains that the State used an improper hypothetical example of an intentional killing during its general voir dire and the individual voir dire of several veniremembers. Appellant points to only one veniremember, Gui-dry, apparently the last one with whom the State used the complained-of hypothetical. Appellant concedes that he failed to object during the general voir dire and the previous individual voir dire. Therefore, appellant has preserved error for our review only with regard to veniremember Guidry. 
+See 
+Tex. R.App.Proc. 52(a); 
+Johnson, 
+803 S.W.2d at 291
+.
+    
+The State posed the following hypothetical to veniremember Guidry:
+    
+When I get to give you an example, say you got a murder in the course of an armed robbery, and it occurs as follows: You’ve got an individual. He goes into a convenience store to rob it, and he has got a gun. He walks up to the counter, cocks the gun, and just sticks it right in the clerk’s face, and says, you know, give me the money, this is a stick-up. About that 
+*742
+time, let’s say that he heard a noise out the front door, that he may have thought was a customer driving up or whatever, and he looked out the front door, holding the gun cocked on the clerk at the same time, and he is looking out the front door, and he sees a movement out of the corner of his eye. He never even turns his head back around, just pulls the trigger, boom, instinctively. The clerk maybe was just reaching for the money, like he had told him to, but all of this happened real quick, looks out the front door, sees a movement, pulls the trigger. Okay? He intended to fire the gun, so a jury might find him guilty of capital murder because he intentionally shot the clerk. He intended to do that because at the moment he fired, he had the conscious desire to fire that gun, it was not an accident. You see what I’m talking about? But it didn’t require hardly any thought at all, almost a reflex response.
+    
+Appellant objected that this was an improper hypothetical, but the trial court overruled the objection. Appellant cites 
+Morrow v. State, 
+753 S.W.2d 372
+ (Tex.Crim.App.1988), in support of his position.
+    
+In 
+Morrow, 
+the State posed a hypothetical question which was intended to demonstrate the difference between a murder that is committed intentionally and one that is done deliberately. However, the hypothetical, as represented by the State, could not constitute capital murder under Texas Penal Code § 19.03(a)(2):
+19
+ a man robs a convenience store and intentionally shoots a person in the knee; the person later dies of medical complications or bleeds to death. 
+Morrow, 
+753 S.W.2d at 373-75
+. The example failed to suggest that the accused had any intent to murder his victim. We held such a representation could only give a veniremember the impression that 
+any 
+intentional act indirectly causing the death of a victim during a robbery will raise the crime to capital murder. 
+Id. 
+at 375
+; 
+see also Lane v. State, 
+743 S.W.2d 617
+, 619-29 (Tex.Crim.App.1987) (robber intentionally fires shot into the ceiling and it ricochets, killing someone); 
+Gardner v. State, 
+730 S.W.2d 675
+, 686-87 (Tex.Crim.App.1987) (robber intentionally shoots man in the leg, and man later dies).
+    
+Unlike the hypothetical in 
+Morrow, 
+the hypothetical posed here is a proper example of both murder, Texas Penal Code § 19.02(a)(1), and capital murder, Texas Penal Code § 19.03(a)(2). It can be inferred that an accused who, during the course of a robbery, intentionally shoots his victim in the face, had the conscious objective or desire that death should result. 
+See 
+Tex.Penal Code § 6.03(a) (definition of “intentional”). The death did not indirectly occur. We find no error in the State’s hypothetical. Point of error 62 is overruled.
+    
+In point of error 63, appellant complains that the State erroneously stated that a prospective juror could decide not to consider mental retardation as a mitigating circumstance. The State asked veniremember Gillaspie the following question:
+    
+If mental retardation were presented to you, as a mitigating factor, and I am not going to even ask whether or not you consider that a mitigating factor because I would think that first of all, it would be important to know what type of crime was involved to start with, but, secondly, would you feel like it would be important to know the degree or to have evidence on the extent of the retardation?
+    
+Appellant failed to object to this question. Therefore, he has failed to preserve any error for our review.
+20
+ Tex.R.App.Proc. 52(a); 
+*743
+      
+Johnson, 
+803 S.W.2d at 291
+. 63 is overruled.
+21
+ Point of error
+    
+Appellant’s 64th point of error avers that the trial court used a flawed proposed mitigation instruction during voir dire that was not used at punishment, and, therefore, appellant was unable to conduct his jury selection properly.
+    
+The sample instruction given by the trial judge to the prospective jurors stated the following:
+    
+If you determine, when giving effect to the mitigating evidence, if any, that a life sentence, as reflected by a negative finding to the issue under consideration, rather than a death sentence, is an appropriate response to the personal culpability of the defendant, a negative finding should be given to that special issue under consideration.
+    
+The instruction given at punishment stated:
+    
+If you determine, when giving effect to the mitigating evidence, if any, that a life sentence, as reflected by a negative finding to the issue under consideration, rather than a death sentence, is an appropriate response to the personal culpability of the defendant, a negative finding should be given to one of the special issues.
+    
+There was no significant difference between the two instructions. Because we have held that the instruction given at punishment was proper (points of error one through eleven, infra), we hold the sample instruction used during voir dire was also proper.
+    
+As to appellant’s contention that the differing instructions somehow harmed him during jury selection, no objection was ever made. Therefore, appellant has waived any error. 
+See 
+Tex.R.App.Proc. 52(a); 
+Johnson, 
+803 S.W.2d at 291
+. Point of error 64 is overruled.
+    
+      
+SEARCH
+    
+    
+In appellant’s 71st point of error, he complains that the trial court incorrectly granted the State’s motion for neurological testing. He further argues that the admission of information obtained from the testing violated his rights under the Fourth Amendment to the U.S. Constitution and Article I, section 9 of the Texas Constitution. Appellant, in both phases of the trial, raises the issue of his mental status through evidence regarding mental retardation, organic brain damage, and his I.Q. The State in countering this assertion argues that the evidence was necessary to combat appellant’s claimed brain dysfunction and requested a search warrant in order to gain the following information:
+    
+(1) The determination and diagnosis of this defendant’s mental condition at all times relevant to these proceedings; (2) To determine the existence and/or extent of any brain dysfunction and its effects upon the defendant’s mental status, and intent; (3) To determine the defendant’s true neurological condition as it may bear upon the issues of voluntariness, ability to comprehend legal issues, ability to voluntarily reform conduct to the requirements of the law, the intent required to commit the offense charged and as same may have a bearing upon any mitigating or aggravating evidence as well as the likelihood of the defendant to commit future acts of violence and constitute a continuing threat to society.
+    
+Article 18.02 sets out the grounds for issuance of a search warrant. Appellant argues that the only feasible ground of issuance in the instant case can be found in Article 18.02(10): “property or items, except personal writings by the accused ... constituting evidence of an offense or constituting evidence tending to show that a particular person committed an offense.” He asserts that neurological testing does not fit within the article.
+    
+Neurological testing is a 
+tool 
+used to determine a person’s mental status and is equated with testing of a psychiatric or psychological 
+*744
+nature. Further, mental status is relevant to a person’s competency to stand trial and his personal culpability. Therefore, the trial court properly ordered the tests under 
+Estelle v. Smith, 
+451 U.S. 454
+, 465, 
+101 S.Ct. 1866
+, 1874, 
+68 L.Ed.2d 359
+ (1981).
+22
+ Appellant’s rights under the Fourth Amendment and Article I, section 9 were not violated.
+    
+Because the trial court properly ordered the tests under 
+Estelle v. Smith, 
+we need not consider whether article 18.02 is applicable.
+23
+ Point of error 71 is overruled.
+    
+      
+CONFESSIONS
+    
+    
+In points of error 66 through 70, appellant argues that the trial court erred in finding his confessions voluntary at the pretrial suppression hearing and then admitting them during both phases of the trial. He maintains that given his mental impairment, he did not understand the warnings given to him and that he did not make a knowing, voluntary, and intelligent waiver under 
+Miranda 
+and Article 3S.22.
+24
+ He asserts finally that his Fifth Amendment rights were violated because the officers did not effectively communicate the statutory warnings to him.
+    
+At a suppression hearing, the trial court is the sole judge of the credibility of witnesses and the weight of their testimony. 
+Romero v. State, 
+800 S.W.2d 539
+, 543 (Tex.Crim.App.1990). Therefore, if the record supports the trial court’s findings, we will not disturb those findings. We only consider whether the trial court applied the law to the facts properly. 
+Id.
+    
+    
+Article 38.21 provides that a statement of an accused may be used in evidence against . him if it appears that it was freely and voluntarily made without compulsion or persuasion. The determination of whether a confession is voluntary is based on an examination of the totality of circumstances surrounding its acquisition. 
+Griffin v. State, 
+765 S.W.2d 422
+, 429 (Tex.Crim.App.1989).
+    
+Mental deficiency is a factor, but not alone determinative, in ascertaining the vol-untariness of a confession and the waiver of the Fifth Amendment privilege against self-incrimination. 
+Smith v. State, 
+779 S.W.2d 417
+, 429 n. 8 (Tex.Crim.App.1989); 
+see also Casias v. State, 
+452 S.W.2d 483
+, 488 (Tex.Crim.App.1970). In analogous cases of mentally-slow or retarded defendants, this Court has found confessions to be voluntary. 
+See Casias, 
+452 S.W.2d at 488
+ (confession admissible even though defendant had I.Q. of 68, was illiterate, and had mental age of eight to ten years); 
+White v. State, 
+591 S.W.2d 851
+, 858 (Tex.Crim.App.1979) (confession admissible even though defendant was borderline mentally retarded); 
+Grayson v. State, 
+438 S.W.2d 553
+, 555 (Tex.Crim.App.1969) (statements admissible from a defendant with an I.Q. of 51 and mental age of six years).
+    
+The following evidence was elicited regarding the two written confessions; Officer Billy 
+*745
+Ray Nelson, present at appellant’s arrest,
+25
+ testified that he was familiar with appellant. He stated that he had had conversations with appellant and that appellant seemed to be of normal intelligence. Nelson was present when Officer Bob Grissom first read appellant his statutory rights at the scene of the arrest. He confirmed that Grissom read appellant each of his rights and asked appellant whether he understood those rights. Appellant responded that he did.
+    
+Appellant was then brought before Judge Garnet Galloway, who advised appellant of the charge against him, again read him his rights, and set bond. Galloway verified that appellant understood his rights. Further, appellant’s father was present and also read appellant his rights. His father then asked him whether “he did it.” Appellant replied that he did.
+    
+Appellant next gave his statement to Chief William F. Smith.
+26
+ Prior to taking his statement, Smith again read appellant his statutory rights and asked whether he understood each right. Smith then asked whether appellant wished to give a statement. Appellant replied that he did. The statement took approximately three hours. After he completed his statement, appellant told Smith that he could not read or write.
+    
+In order to confirm that appellant’s statement was correct, Smith brought in two civilians off the street to witness the reading and signing of the statement. The entire statement, including another recitation of the statutory warnings, was read to appellant in the presence of the two witnesses. Appellant was then given the opportunity to make any changes to his statement before he signed it.
+    
+A second, more-detailed confession was taken the next day by Texas Ranger Maurice Cook. Cook read the statutory warnings to appellant, made sure that appellant understood the meaning of “lawyer,” “urge,” and “trial,” and generally explained the warnings in basic terms. At one point, Cook even exaggerated a fact from the previous day’s confession to see whether appellant would correct him. Appellant did. Appellant was questioned for about five hours during the second confession, but was given “hamburgers and cokes” during that time. Again, two people were brought in to witness the reading and signing of the statement. Statutory warnings were again given to appellant at this time.
+    
+Dr. Windall Dickerson, a psychologist for the defense, testified that he believed appellant did not voluntarily waive his rights because appellant could not comprehend the consequences of that waiver. In Dickerson’s opinion, appellant is a severely limited, mentally retarded individual. He noted appellant’s I.Q. scores ranged from the forties to the seventies and that appellant had very poor judgment. He testified that many retarded people attempt to answer what they think others want to hear in order to appear smarter. Further, he stated that without further explanation, appellant could not have understood the statutory warnings.
+    
+In addition to the evidence elicited at the hearing, the trial court took judicial notice of all evidence from the 1980 suppression hearing in which the confessions were found voluntary; the prior testimony of Dr. Felix Peebles; and the finding of competency from appellant’s first trial. There was no evidence of governmental coercion.
+    
+Appellant argues that the State did not meet its burden of showing that the confessions were voluntary because no evidence was presented to rebut Dickerson’s testimony that the officers inadequately explained appellant’s rights to him. Specifically, he maintains that the officers should have done extensive follow-up questioning and elicited explanations from him in his own words to ensure that his statements were voluntary. However, appellant presents no case law to suggest that the officers were obligated to follow these procedures, and we find that 
+*746
+there was no such obligation under these circumstances.
+27
+    
+    
+The record shows appellant was advised of his statutory rights, he understood them, and voluntarily waived them before making his statements. The confessions were written as appellant related his story, and they were read to him before he signed them. Appellant’s evidence of mental retardation and illiteracy does not, standing alone, render his confessions inadmissable. 
+See Casias, 
+452 S.W.2d at 488
+; 
+White, 
+591 S.W.2d at 858
+; 
+Grayson, 
+438 S.W.2d at 555
+. The bulk of the evidence shows that appellant had the basic reasoning skills necessary to understand the warnings. We hold that the trial court did not err by overruling appellant’s motion to suppress and admitting his confessions into evidence. Points of error 66 through 70 are overruled.
+    
+In points of error 89 through 102, appellant complains that the trial court improperly instructed the jury regarding the voluntariness of the confessions. Because appellant offered evidence that he was mentally retarded, he claims he raised an issue of fact as to whether the confessions were voluntary. Therefore, he asserts, the trial court was required to instruct the jury on the issue of voluntariness. 
+See 
+Article 38.22, §§ 6 & 7; 
+Rogers v. State, 
+549 S.W.2d 726
+, 729 (Tex.Crim.App.1977). An instruction on the vol-untariness of appellant’s confession was given in the jury charge at guilt/innocence.
+28
+    
+    
+Points of error 90, 92, 93, 98, 101 and 102 each pertain to the trial court’s failure to instruct the jury at the punishment phase on the voluntariness of appellant’s confession. In appellant’s prior case, this Court held that, although a defendant does have the statutory right to have the issue of voluntariness submitted to the jury, he is not entitled to have it 
+resubmitted 
+at the penalty phase when such issues have already been submitted at guilt/innocence. 
+Penry v. State, 
+691 S.W.2d 636
+, 652 (Tex.Crim.App.1985), 
+rev’d on other grounds, Penry v. Lynaugh, supra.
+    
+    
+Under the doctrine of the law of the case, where determinations as to questions of law have already been made on prior appeal 
+*747
+to a court of last resort, those determinations •will generally be held to govern the case throughout all of its subsequent stages. 
+Ex parte Granger, 
+850 
+S.W.2d 513
+, 516 (Tex.Crim.App.1993). This issue having been previously decided adversely to appellant, his points of error are overruled.
+    
+In point of error 89, appellant complains that the trial court erred in failing to instruct the jury on the meaning of the word “intelligently.” He objected to the court’s charge because it failed to define “intelligently” so as to require “an appreciation of the significance of the relinquishment of those [statutory] rights in a mature and meaningful way.” He argues that the jury charge did not require any substantial mental capacity for a waiver of his rights, and thus harmed him by allowing the jury to determine that he had made a valid waiver when he did not have the necessary intelligence.
+    
+The Supreme Court has said that waivers must not only be voluntary, but must also constitute a knowing and intelligent relinquishment of a known right or privilege, taking into account the background, experience, and conduct of the accused. 
+Edwards v. Arizona, 
+451 U.S. 477
+, 482, 
+101 S.Ct. 1880
+, 1883, 
+68 L.Ed.2d 378
+ (1981). In Texas, waiver of the rights defined in the warnings set out in Article 38.22
+29
+ must be made “knowingly, intelligently, and voluntarily.” Article 38.22. Neither the Supreme Court nor the statute requires any definition of the terms found therein.
+    
+“Where terms used are words simple in themselves and are used in their ordinary meaning, jurors are supposed to know such common meaning and terms, and under such circumstances such common words are not necessarily to be defined in the charge to the jury.” 
+Russell, 
+665 S.W.2d at 780
+. In this context “intelligently” is used in its ordinary sense. Jurors are expected to decide whether appellant had an intelligent understanding of his statutory rights, given the available evidence. Appellant erroneously concludes that he must also be found to have had an intelligent understanding of the repercussions of waiving his rights. While a defendant must be instructed that his statements can be used against him in court, the Supreme Court has stated that he need not realize all the possible consequences of the waiver for it to be found to be knowing and intelligent. 
+Colorado v. Spring, 
+479 U.S. 564
+, 574-75, 
+107 S.Ct. 851
+, 857-58, 
+93 L.Ed.2d 954
+ (1987); 
+Moran v. Burbine, 
+475 U.S. 412
+, 422-23, 
+106 S.Ct. 1135
+, 1141-42, 
+89 L.Ed.2d 410
+ (1986). The jury was entitled to give the term its common and ordinary meaning. Point of error 89 is overruled.
+    
+In point of error 91, appellant argues that the trial court erred in failing to instruct the jury that the statutory warnings must have been “effectively communicated” to appellant. He also complains of the trial court’s failure to define the word ‘warn’ as used in the charge. Appellant’s “Objection No. 8” stated:
+    
+The Defendant objects to the charge of the Court concerning the giving of warnings in connection with the custodial interrogation of an accused in that it fails to instruct the jury that the officer taking the statement must effectively communicate each of the warnings to the accused in order to obtain a lawful custodial confession, and that the statement must be disregarded for failure to do so.
+    
+We note initially that appellant’s objection below did not complain about the trial court’s failure to define “warn” in the charge. Therefore, that particular issue is not preserved for our review. Tex.R.App.Proc. 52(a); 
+Barnes, 
+876 S.W.2d at 325
+; 
+Johnson, 
+803 S.W.2d at 293
+.
+    
+With respect to appellant’s other argument, he contends that the officers should have taken more care in giving the warnings to him because he was obviously mentally deficient. Therefore, given his mental handicap, he argues, the jury should have been instructed that the warnings must have been “effectively communicated” to him.
+    
+      
+*748
+The trial court instructed the jury not to consider appellant’s statements for any purpose unless they found he had been given the proper warnings, and had “knowingly, intelligently, and voluntarily” waived his statutory rights. ' This instruction was a correct statement of the law on the admissibility of appellant’s confession. 
+Bell v. State, 
+582 S.W.2d 800
+, 812 (Tex.Crim.App.1979). The trial court did not err in overruling appellant’s objection because the court had already fully instructed the jury on the applicable law. 
+Id.
+Point of error 91 is overruled.
+    
+In point of error 94, appellant argues that the trial court erred in refusing to instruct the jury that his confession should not be considered if they believed, or had a reasonable doubt, that appellant was so mentally deficient as to be incapable of understanding the nature and effect of his confession. Appellant claims the requested instruction asked the jury to take his mental retardation into account in regard to the voluntariness of his confession, and that the trial court had an obligation to instruct the jury on this relevant legal issue.
+    
+Article 36.14 states that a jury charge should set forth the applicable law of the case without expressing an opinion on the weight of the evidence, summing up the testimony, or discussing the facts or using jury argument to arouse the sympathy or excite the passions of the jury. When the trial court properly instructs the jury on the issue of voluntariness, a special instruction singling out the issue of mental retardation would be an improper comment on the weight of the evidence. 
+Bell, 
+582 S.W.2d at 812
+.
+    
+Here, the trial court properly submitted the voluntariness issue to the jury, requiring that before considering the confession, the jury had to find beyond a reasonable doubt that all the proper warnings were given prior to appellant’s statement, that the statement was freely and voluntarily made, and that appellant knowingly, intelligently, and voluntarily waived his rights before and during the making of the statement. Therefore, it would have been an improper comment on the evidence for the court to include the issue of mental retardation in the charge. Appellant’s argument concerning his mental retardation should have been (and was) argued to the jury during closing arguments. Appellant’s point of error is overruled.
+30
+    
+    
+In point of error 95, appellant argues that the trial court erred in refusing to instruct the jury not to consider his confessions if they believed appellant was induced to confess by the promise made by Ted Everett, an investigator for the District Attorney’s office. Everett promised appellant he would not “put anything on [him] that [he] did not do.” Appellant argues that, given his mental status, this promise by Everett could have misled him to believe he could “say nearly anything” to the interrogating officers and Everett would “correct things for him later.”
+    
+If a promise made by a person in authority induced a confession, then that confession is inadmissible. 
+Alvarez v. State, 
+649 S.W.2d 613
+, 620 (Tex.Crim.App.1982). Generally, the determination of the voluntariness of the confession depends on the totality of the circumstances surrounding the confession. 
+Id.
+However, before a promise will render a confession inadmissible, the promise must be shown to have induced the confession because it was positive for the defendant, made or sanctioned by someone in authority, and of such an influential nature that appellant might speak untruthfully in response. 
+Muniz v. State, 
+851 S.W.2d 238
+, 254 (Tex.Crim.App.1993). In our review, we look to whether the circumstances of the promise would reasonably induce a defendant to admit to a crime he did not commit. 
+Sossamon v. State, 
+816 S.W.2d 340
+, 345 (Tex.Crim.App.1991).
+    
+Everett described the conversation with appellant as follows:
+    
+      
+*749
+I asked him if he would go with us back downtown, to which he replied, yes, I will, if you will promise me one thing, and I said, well, what is that, Johnny, and he said if you will promise me that you won’t try to hang anything on me that I didn’t do, and I said, well, Johnny, you know me better than that, I am not going to do that, and he said okay, I will do it.
+    
+Here, Everett merely promised not to charge appellant with a crime he did not commit. There is no reason to believe that, in response to this promise, even a mentally retarded person would have expected Everett to protect him from prosecution for a crime he freely admitted. Furthermore, the promise was made in response to Everett’s request that appellant accompany him downtown. 
+No connection 
+was expressed or implied to the later questioning by Chief Smith and Ranger Cook or any other potential confession by appellant. It does not follow that this promise could have reasonably induced appellant to confess to a crime he did not commit.
+    
+The totality of the circumstances does not indicate that this promise in any way eroded the voluntariness of appellant’s statements. Therefore, appellant was not entitled to his requested instruction. 
+See Hernandez v. State, 
+819 S.W.2d 806
+, 812 (Tex.Crim.App.1991). Point of error 95 is overruled.
+    
+In points of error 96 and 97, appellant argues that the trial court should have instructed the jury that an independent vol-untariness determination must be made separate from the determination that warnings were given and 
+Miranda 
+rights were waived. He says the jury charge did not clearly explain that the confession must be found voluntary whether or not 
+Miranda 
+warnings were given. We disagree.
+    
+The instructions given to the jury for each confession clearly set forth two conditions which must be met before the jury may consider those confessions as evidence. 
+See 
+footnote 24, 
+supra. 
+The first condition concerned the giving of the Article 38.22 statutory warnings. If that condition was met, the jury was instructed that “before you may consider such statement as evidence in this case, you must find from the evidence beyond a reasonable doubt that prior to and during such statement, if any, the defendant knowingly, intelligently and voluntarily waived the rights_”
+    
+Appellant further complains that the term “appears” in the first paragraph of the instruction makes the charge ambiguous. The instruction states: ‘You are instructed that under our law a confession of a defendant ... shall be admissible in evidence if it 
+appears 
+that the same was freely and voluntarily made ...” This language complies with Article 38.21. Appellant views the charge piecemeal, whereas this Court views it as a whole. The charge was not ambiguous and clearly delineates between the 
+Miranda 
+and voluntariness requirements. 
+See Bell, 
+582 S.W.2d at 812
+; 
+Burdine v. State, 
+719 S.W.2d 309
+, 320 (Tex.Crim.App.1986). Points of error 96 and 97 are overruled.
+31
+    
+    
+In points of error 99 and 100, appellant argues the trial court erred in failing to instruct the jury not to consider the truth or falsity of appellant’s confessions in deciding whether they were voluntary and admissible. Appellant further argues that the State, in its argument to the jury, emphasized the reliability of the confessions with the implication that it counteracted appellant’s evidence that his confessions were not voluntary. Appellant contends that his mental retardation makes this error particularly egregious because the jury was discouraged from fully evaluating the impact of appellant’s mental impairment on the voluntariness of his confession.
+    
+Appellant made no objection on these grounds to the State’s argument at trial; therefore, he did not preserve the issue of 
+*750
+the alleged jury argument error. Tex. R.App.Proc. 52(a).
+    
+In addition, we find no oral or written objections by appellant on these grounds to 
+the 
+jury charge. If no objection is made at trial, a jury charge will be reversed only for error which created so much harm that appellant was denied a fair trial. 
+Almanza v. State, 
+686 S.W.2d 157
+, 171 (Tex.Crim.App.1985).
+    
+In this case, appellant was allowed to present evidence of his mental impairment to the jury, and the trial court gave an instruction on voluntariness which accurately described the law. Points of error 99 and 100 are overruled.
+    
+      
+GUILT/INNOCENCE PHASE
+    
+    
+In points of error 75 and 76, appellant posits that the trial court erred by allowing State’s witnesses Cindy Peters and Dr. Edward McClendon to testify over objection about statements made by the deceased before her death. Appellant asserts that the statements were hearsay and violated his right to confrontation under the Sixth Amendment.
+32
+    
+    
+The issue pertaining to the testimony of Cindy Peters has already been addressed by this Court. 
+Penry v. State, 
+691 S.W.2d at 646-47
+. We held that the deceased’s statement to Peters was admissible as a spontaneous exclamation. 
+Id. 
+at 647
+. We also held that appellant’s constitutional rights under the confrontation clause were not violated because the deceased was unavailable and the statement bore adequate indicia of reliability. 
+Id.
+    
+    
+Under the doctrine of the law of the case, where determinations as to questions of law have already been made on prior appeal to a court of last resort, those determinations will generally be held to govern the case throughout all of its subsequent stages. 
+Ex parte Granger, 
+850 S.W.2d at 516
+. This issue having been previously decided adversely to appellant, his 76th point of error is overruled.
+    
+In point of error 75, appellant complains about the testimony elicited from Dr. McClendon, the emergency room physician who treated the victim. McClendon testified that the deceased stated that she had been raped and gave him a description of her attacker:
+    
+I asked her, you know, if this was a white man, and she said yes, and then, I asked what color his hair was and she told me it was black. I asked her, I asked about his size, and she said he was slim built and short.
+    
+Both appellant and the State concede that these were hearsay statements. 
+See 
+Rule 801(d).
+33
+    
+    
+Appellant posits that these statements were inadmissable under the “medical treatment” exception to the hearsay rule because McClendon admitted he asked the deceased some questions, “I guess, for informa-tion_” 
+See 
+Rule 803(4). Further, he states that neither statement could meet the “dying declaration” exception to the hearsay rule because the deceased’s medical condition was stabilized for a short time in the emergency room. 
+See 
+Rule 804(b)(2). We need not address these contentions, however, because the statements were properly admitted as “excited utterances” under Rule 803(2).
+34
+    
+    
+An excited utterance is any “statement relating to a startling event or condition made while the declarant was under the stress of excitement caused by the event or condition.” Rule 803(2). While the period of time that elapsed between the occurrence of 
+*751
+the startling event and the making of the statement is a factor to consider in determining the admissibility of such statements, the critical factor is whether the declarant was still dominated by the emotions, excitement, fear, or pain of the event. 
+McFarland v. State, 
+845 S.W.2d 824
+, 846 (Tex.Crim.App.1992).
+    
+A review of the record shows a startling event occurred in the instant case. The deceased was delivered to the emergency room approximately thirty to forty-five minutes after being stabbed. She had a sucking chest wound, a collapsed lung, a ruptured kidney, bruises to her face and side, and was bleeding profusely. She was not permitted any pain medication and she died within one and a half hours of her arrival. It is apparent to us that the deceased was still under the physical and emotional stress of the assault when she made the statements about which appellant complains. 
+Id.
+Finally, both statements made related to the circumstances of the startling occurrence. 7d
+35
+    
+    
+Appellant’s contention that his Sixth Amendment right to confrontation was violated must also fail. The confrontation clause requires a showing that a hearsay declarant is unavailable and that the statement bears adequate “indicia of reliability.” 
+Ohio v. Roberts, 
+448 U.S. 56
+, 66, 
+100 S.Ct. 2531
+, 2539, 
+65 L.Ed.2d 597
+ (1980). Reliability may be inferred where the evidence falls within a firmly rooted hearsay exception. 
+Id.
+    
+    
+As we held in 
+Penry v. State, 
+the deceased was obviously unavailable and the “excited utterance” exception to the hearsay rule is “old and firmly rooted.” 
+691 S.W.2d at 647
+. The trial court did not err in admitting the statements. Point of error 75 is overruled.
+    
+In points of error 72 through 74, appellant complains of various photographs entered into evidence.
+36
+ He asserts that the photographs were irrelevant and introduced solely to prejudice the jury.
+    
+A photograph is relevant if it has “any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence.” Rule 401. The admission into evidence of photographs is within the discretion of the trial court and will not be disturbed absent an abuse of that discretion. 
+Moreno v. State, 
+858 S.W.2d 453
+, 463 (Tex.Crim.App.1993). Our review shows that the trial court was justified in finding the evidence relevant to material issues in the case.
+    
+The identity of the victim and the manner and means of death are certainly facts that are of consequence to the determination of the action. 
+Long v. State, 
+823 S.W.2d 259
+, 271 n. 18 (Tex.Crim.App.1991). State’s exhibit 65, a portrait of the deceased, was introduced during the testimony of Bruce Carpenter, her former husband. The portrait was relevant to prove up the identity of the deceased. State’s exhibits 52, 54A, 55A, and 56A depict the deceased’s body at the autopsy. These were relevant to show the means of death and various other injuries sustained. State’s exhibit 5 is a photograph of the deceased’s small dog. The photo is relevant because it corroborated appellant’s confession wherein he stated that the deceased ordered her dog to bite him and he kicked it away. 
+See Moreno, 
+858 S.W.2d at 465
+; 
+Long, 
+823 S.W.2d at 273
+.
+    
+When determining whether the trial court erred in admitting the relevant photographs into evidence, our review is limited to determining whether the probative value of the photos is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, or needless presentation of cumulative evidence. Rule 403; 
+Long v. State, 
+823 S.W.2d at 271
+, citing 
+Montgomery v. State, 
+810 S.W.2d 372
+, 389 (Tex.Crim.App.1991) (Opinion on Rehearing).
+    
+      
+*752
+A court may consider many factors in determining whether the probative value of evidence is substantially outweighed by the danger of unfair prejudice. These factors include: the number of exhibits offered, their gruesomeness, their detail, their size, whether they are in color or black and white, whether they are close-up, and whether the body depicted is clothed or naked. 
+Long, 
+823 S.W.2d at 272
+. A court, however, should not be limited by this list. The availability of other means of proof and the circumstances unique to each individual case should also be considered. 
+Id.
+    
+    
+The portrait of the deceased was an 8" by 10" color photograph and was used to prove the identity of the deceased. We do not conclude that it’s probative value was substantially outweighed by its prejudicial effect.
+    
+In reviewing the four autopsy photographs, we note initially that three were color and 3½" by 5" in size, and the remaining photograph was 8" by 10" and was black and white. Appellant does not explain why he believes the photographs were inflammatory and prejudicial. He does point out that they were cumulative. We fail, however, to conclude that the photos were cumulative because no other pictures of the wounds were offered into evidence. The photos were used at trial to show the wound causing death and the bruises to the deceased’s side, back, and face. Although the pictures were gruesome and detailed, they were not enhanced in any way and portrayed no more than the gruesomeness of the injuries inflicted. 
+See Narvaiz, 
+840 S.W.2d at 429
+. After reviewing all of the objected-to photographs, we are not persuaded that the danger of unfair prejudice substantially outweighed their probative value. Therefore, we hold that the trial court did not err in admitting the exhibits.
+    
+Appellant also complains that the introduction of the complained-of exhibits presented evidence of victim impact. He cites, as direct authority, 
+Booth v. Maryland, 
+482 U.S. 496
+, 
+107 S.Ct. 2529
+, 
+96 L.Ed.2d 440
+ (1987).
+37
+    
+    
+At appellant’s trial, the witnesses identifying the deceased and the dog were questioned about their relationship with the deceased and the animal and the identification of both. There was no testimony as to opinions of appellant, the alleged crime, or the appropriate sentence. Thus, the testimony concerning the exhibits was not the type of evidence contemplated by 
+Booth v. Maryland. 
+The trial court did not err in admitting the exhibits. Points of error 72 through 74 are overruled.
+    
+In point of error 103, appellant argues that the trial court erred in failing to explain the meaning of “acquit” in the jury charge. Appellant contends that, without a definition, the jury may have believed that they would be declaring appellant “completely innocent” if they acquitted him.
+38
+    
+    
+As we stated previously with regards to the terms “rational,” “reasonable,” and “understanding,” we do not believe that the term “acquit” has become so technical that it is a legal term of art requiring the trial court to define it. It is not necessary to define terms that are simple and used in their ordinary meaning; jurors are presumed to know such common meaning and terms. 
+Russell, 
+665 S.W.2d at 780
+. The jury was entitled to give the term its common and ordinary meaning. Appellant’s point of error 103 is overruled.
+    
+In points of error 104 through 106, appellant argues that the trial court erred in failing to include the statutory definition of “elements of the offense” in the jury charge. 
+See 
+TexJPenai Code § 1.07(13). At trial, however, appellant asked the trial court to define “elements of the offense” as “both the 
+*753
+required mental state, ‘intentionally’ and the prohibited acts.” Because appellant’s trial objection does not comport with his argument on appeal, any error is waived. Tex. R.App.Proc. 52(a); 
+Barnes, 
+876 S.W.2d at 325
+; 
+Johnson, 
+803 S.W.2d at 293
+.
+    
+Further, we note that the trial court did instruct the jury as to the applicable law. When a refused charge is substantially the same or is adequately covered by the charge given, there is no harm in the failure to give the refused charge. 
+Hawkins v. State, 
+660 S.W.2d 65
+, 81-82 (Tex.Crim.App.1983). In its charge to the jury, the court set out each element of the offense including the required culpable mental state. The instruction also contained the definition of “intentionally” and stated that the jury would have to find “beyond a reasonable doubt” that appellant intentionally committed the crime. We conclude the charge given adequately covered the charge refused. Points of error 104 through 106 are overruled.
+    
+In points of error 107 through 110, appellant contends that the trial court erred in refusing to instruct the jury to consider appellant’s mental condition in making its determination of whether he had the specific intent to kill.
+39
+ He argues that the statutory definition of “intentional” given to the jury presupposes that the accused is able to connect his acts with them results. 
+See 
+Tex.Penal Code § 6.03(a). Therefore, he asserts, the jury was afforded no opportunity to give effect to the evidence of his poor reasoning ability and may have shifted the burden of proof to the defense on the issue of intent. Appellant also complains that the charge failed to emphasize to the jury that they should take all evidence, especially any abnormal physical or mental conditions, into account when deciding the issue of intent.
+    
+The trial court instructed the jury as follows on the issue of intent to kill and the burden of proof:
+    
+A person commits capital murder when such person intentionally causes the death of another while such person is in the course of committing or attempting to commit the offense of aggravated rape....
+    
+A person acts “intentionally,” or with intent, with respect to the nature of his conduct or with respect to a result of his conduct when it is Ms conscious objective or desire to engage in the conduct or cause the result....
+    
+Unless you find from the evidence beyond a reasonable doubt that the defendant, on said occasion, specifically intended to kill the said Pamela Carpenter when he stabbed her, if he did stab her, you cannot convict him of the offense of capital murder.
+    
+The burden of proof in all criminal cases rests upon the State throughout the trial, and never shifts to the defendant.
+    
+All persons are presumed to be innocent and no person may be convicted of an 
+*754
+offense unless each element of the offense is proved beyond a reasonable doubt.
+    
+Article 36.14 states that a jury charge should set forth the applicable law without expressing an opinion on the evidence, summing up testimony, or discussing facts or using jury argument to arouse the sympathy or excite the passions of the jury. Further, this Court has held that when the charge accurately describes the applicable law, a requested instruction specifically emphasizing evidence of mental retardation is an improper comment on the weight of the evidence. 
+Bell, 
+682 S.W.2d at 812.
+    
+Here, the trial court instructed the jury to make findings as to appellant’s intent to kill and other elements of the offense from the evidence. The trial court also properly submitted the statutory definition of “intentional.” 
+See 
+Tex.Penal Code § 6.03(a). Appellant presented extensive evidence on his mental handicap at trial and emphasized it during jury argument. We see no reason to conclude that the jury did not consider this evidence in making its findings. A specific instruction calling attention to the evidence on appellant’s impaired mental abilities was unnecessary, and might have inappropriately vested this evidence with a disproportionate legal significance in the eyes of the jury. 
+See Bell, 
+582 S.W.2d at 812
+.
+40
+    
+    
+Appellant complains further that the trial court failed to narrow the range of offenders subject to the death penalty in the charge to the jury. He specifically states that persons with a substantial mental disease or defect may be unaware that their conduct is “wrong.” Therefore, the trial court should have instructed the jury that these mentally-impaired persons could not be convicted of capital murder. We address this issue in point of error 132, 
+infra. 
+The trial court did not err in failing to submit this instruction. Appellant’s points of error 107 through 110 are overruled.
+    
+In his 111th through 114th points of error, appellant contends that the trial court erred in denying his requested jury instructions on “reasonable doubt” in both the guilt/innocence and punishment phases of trial. He argues that because his requested instructions are similar to the one required in 
+Geesa v. State, 
+820 S.W.2d 154
+ (Tex.Crim.App.1991), special circumstances apply to his case which justify the retroactive application of our holding in 
+Geesa. 
+During both phases of trial, appellant requested the following instruction:
+    
+A reasonable doubt is based upon reason and common sense, and not the mere possibility of guilt. A reasonable doubt is the kind of doubt that would make a reasonable person hesitate to act. Proof beyond a reasonable doubt, therefore, must be proof of such convincing character that a reasonable person would not hesitate to act and rely on it.
+    
+We have already held that it is not error for a trial court to refuse to define reasonable doubt during the guilVinnocence and punishment phases of a pre-Geesa ease. 
+Barnes v. State, 
+876 S.W.2d at 328
+.
+    
+Appellant further contends that the trial court erred in failing to give an instruction comparing the reasonable doubt standard to the standards of preponderance of the evidence and clear and convincing proof. We do not perceive this argument as novel. Requiring the trial court to compare the different standards of proof is merely another method of defining the term “reasonable doubt.” We have already held that was not required. Points of error 111 through 114 are overruled.
+    
+In point of error 114a, appellant claims that the trial court erred in not including an instruction in the charge on the lesser-
+*755
+included offense of voluntary manslaughter. Appellant specifically argues that the lesser-included offense of voluntary manslaughter was raised because the jury may have disbelieved his two confessions, they may have believed the victim was not raped, and his diminished capacity for reasoning rendered him incapable of cool reflection.
+    
+In determining whether appellant is entitled to a charge on a lesser-included offense, we must consider all of the evidence introduced at trial, whether produced by the State or the defendant. 
+Goodwin v. State, 
+799 S.W.2d 719
+, 740 (Tex.Crim.App.1990); 
+Dowden v. State, 
+758 S.W.2d 264
+, 269 (Tex.Crim.App.1988). This Court uses a two-pronged test in its review. 
+Goodwin, 
+799 S.W.2d at 740-41
+; 
+Dowden 
+758 S.W.2d at 268
+. First, the lesser-included offense must be included within the proof necessary to establish the offense charged. Second, there must be some evidence in the record that if the defendant is guilty, he is guilty only of the lesser-included offense. The credibility of the evidence and whether it conflicts with other evidence or is controverted may not be considered in determining whether an instruction on a lesser-included offense should be given. 
+Rousseau v. State, 
+855 S.W.2d 666
+, 672-73 (Tex.Crim.App.1993); 
+Marras v. State, 
+741 S.W.2d 395
+, 405 (Tex.Crim.App.1987).
+41
+    
+    
+Voluntary manslaughter is a lesser-included offense of capital murder. 
+Nobles v. State, 
+843 S.W.2d 503
+, 511 (Tex.Crim.App.1992). Therefore, appellant has met the first prong of the test. However, he fails to meet the second prong. A charge on voluntary manslaughter should be given when evidence is presented that the defendant acted “under the immediate influence of sudden passion arising from an adequate cause.” Tex. Penal Code § 19.04(a); 
+Vuong v. State, 
+830 S.W.2d 929
+, 938 (Tex.Crim.App.1992). “Sudden passion” is defined as “passion directly caused by and arising out of provocation by the individual killed or another acting with the person killed which passion arises at the time of the offense and is not solely the result of former provocation.” Tex. Penal Code § 19.04(b). “Adequate cause is cause that would commonly produce a degree of anger, rage, resentment, or terror in a person of ordinary temper, sufficient to render the mind incapable of cool reflection.” Tex. Penal Code § 19.04(c).
+    
+The following evidence was adduced at trial: Appellant’s confessions state that he became acquainted with the victim when he was assisting another man with a delivery of some appliances to her home about three weeks prior to October 25, 1979. On the morning of October 25th, he decided he would go to the victim’s house and rape her. Appellant knew that if he went over to the victim’s home and raped her, he would have to kill her because she would tell the police. After arriving at the victim’s home, he forced his way in and threatened her with a pocket knife. After a struggle during which appellant hit the victim, knocked her to the floor, and shoved her into the stove, the victim managed to grab a pair of scissors and stab appellant in the back.
+    
+Appellant knocked the scissors out of the victim’s hand and dragged her into the bedroom. The victim refused to get undressed so appellant kicked her with his boots and “stomped” her once. The victim eventually complied and pulled her underpants down by her knees. Appellant unzipped his pants and attempted to get on top of her, but the victim got up. Appellant pushed her back down to the floor, hit her two or three times in the chest, and threatened to kill her if she would not “make love” to him. Appellant then had intercourse with the victim for about thirty minutes.
+    
+After sexually assaulting the victim, appellant got up and retrieved the scissors. He then came back and sat on the victim’s stomach. Appellant told her that he hated to kill her but he thought that she would squeal on him. He then plunged the scissors into her chest.
+    
+The defense and the State both presented evidence concerning appellant’s mental status. Appellant had I.Q. scores ranging from the forties to the seventies. No evidence was presented concerning how appellant’s mental 
+*756
+status would affect his knowledge of right from wrong or how he would react to a victim’s retaliation.
+    
+This Court has held that “[w]hen a defendant begins a violent criminal episode, his or her subsequent acts of violence cannot constitute an ‘adequate cause’ so as to warrant an instruction on voluntary manslaughter.” 
+Vuong, 
+830 S.W.2d at 939
+. Thus, the trial court did not err.
+    
+Appellant further argues that because there was no corroborating evidence of rape or attempted rape,
+42
+ he should have gotten a voluntary manslaughter charge. We disagree. The fact that the rape may not have been corroborated would merely require the trial court to submit an instruction on the lesser-included offense of murder. This was done. The trial court did not err in denying appellant’s requested charge on voluntary manslaughter. Point of error 114a is overruled.
+    
+      
+JURY ARGUMENT
+    
+    
+In points of error 33 and 34, appellant contends that the prosecution made improper jury arguments. In point of error 33, appellant argues that the prosecutor engaged in improper argument by interjecting his personal opinion regarding appellant’s guilt. He further asserts that the prosecutor’s statements suggested that the prosecutor knew of “additional, undisclosed information obtained from the investigatory phase.” The State made the following argument at trial:
+    
+If you think he is not guilty, then, you can go back there and write on that line, not guilty. I, never in my life have I stood before a jury and said that, but, I feel that confident. I feel that strong about this case, and I am biased, I will tell you that right now, I am biased. I was in Livingston on October 25, 1979. I am very biased, and I want you to know it. I am an advocate, I represent the State of Texas in this case, and I came into this case believing that he was guilty. I came into this case with one thought in mind, and that is to present evidence to you so that you
+    
+would be as convinced as I am of the guilt of this—
+    
+⅜ ⅜ * * # *
+    
+DEFENSE COUNSEL: Objection to the Prosecutor expressing his personal convictions about the testimony. That is improper.
+    
+THE COURT: The objection is overruled. You are not to express your personal opinions, though, Mr. Price.
+    
+The prosecutor made his statement while discussing the standard of proof the jury would use during its deliberations. He stated that he was biased in his belief that his case was strong, but this belief was apparently based on the evidence he brought forth in trial. A prosecutor “may argue his opinions concerning issues in the case so long as the opinions are based on the evidence in the record and not constituting unsworn testimony.” 
+Felder v. State, 
+848 S.W.2d 85
+, 95 (Tex.Crim.App.1992). Such was the case here. No error occurred. Point of error 33 is overruled.
+    
+In point of error 34, appellant challenges the following argument made at the guilt/innocence stage:
+    
+Would Pam Carpenter [the victim] lie to you about [the rape]? Did she lie on October 25, 1979, as she was dying? I don’t think so.
+    
+Citing 
+Menefee v. State, 
+614 S.W.2d 167
+ (Tex.Crim.App.1981), appellant contends that the foregoing argument constituted an improper attempt by the prosecutor to inject his personal opinion of the victim’s credibility. The complained-of argument in 
+Menefee 
+was as follows:
+    
+And Virse [a witness], I don’t believe I have ever seen anybody that I thought was more honest than she is.
+    
+This Court concluded that the trial court reversibly erred in overruling defense counsel’s objections to the State’s argument. 
+Id. 
+at 168
+.
+    
+      
+*757
+The argument in the instant case, however, did not constitute an attempt to personally vouch for the victim’s honesty and credibility. Here, the victim was in the process of dying. The prosecutor’s argument merely pointed out the inherent reliability of dying declarations. As such, the argument amounted to a reasonable deduction from the evidence and, therefore, fell into one of the permissible categories of jury argument. 
+Felder, 
+848 S.W.2d at 94-95
+. Point of error 34 is overruled.
+    
+      
+PSYCHIATRIC EVIDENCE
+    
+    
+In points of error twelve through seventeen, appellant contends that the trial court erred in admitting the testimony of three expert witnesses based on “involuntary psychiatric examinations.” He asserts these examinations violated his Fifth and Sixth Amendment rights under 
+Estelle v. Smith, 
+451 U.S. 454
+, 
+101 S.Ct. 1866
+, 
+68 L.Ed.2d 359
+ (1981).
+    
+Before appellant’s July 1990 trial, defense counsel requested a hearing to determine appellant’s competency to stand trial. In addition, defense counsel filed a notice of intent to raise the issue of insanity.
+43
+ The State then asked the trial court to appoint a disinterested psychiatrist to examine appellant. The trial court granted the State’s request and appointed Drs. Fred Fason and Walter Quijano to examine appellant for competency. A jury later found appellant competent to stand trial.
+    
+At trial, the State presented three psychiatric witnesses. Dr. Fason testified at guilt/innocence in rebuttal concerning appellant’s mental retardation. Drs. Quijano and Stanton Samenow testified at punishment concerning future dangerousness. Samenow did not examine appellant. Appellant also complains about a 1977 competency examination performed by Dr. Felix Peebles for a previous aggravated rape conviction that was used by Fason, Quijano, and Samenow in reaching their conclusions.
+    
+      
+Applicable Law
+    
+    
+In 
+Estelle v. Smith, 
+the Court held that, because the defendant was not informed that what he said during the competency examination could be used against him at the punishment phase of his capital trial on the issue of future dangerousness, his Fifth Amendment right against compelled self-incrimination was violated. The Court left open the issue of the admissibility of such compelled testimony in response to a defendant’s assertion of the insanity defense or to a defendant’s use of psychiatric evidence in his own behalf on the issue of future dangerousness. The Court further held that Smith’s Sixth Amendment right to counsel was violated because, even if Smith’s counsel had been informed about the examination, his counsel was not aware that the examination would include an inquiry into Smith’s future dangerousness. 451 U.S. at 471, 101 S.Ct. at 1877.
+    
+In 
+Buchanan v. Kentucky, 
+483 U.S. 402
+, 
+107 S.Ct. 2906
+, 
+97 L.Ed.2d 336
+ (1987), the Supreme Court addressed the issue left open in 
+Smith 
+concerning the State’s use of psychiatric testimony for 
+rebuttal 
+purposes when the defendant has initiated the use of psychiatric evidence. In 
+Buchanan, 
+defense counsel joined with the prosecutor in a motion for involuntary hospitalization of the defendant for treatment of mental illness. At trial, the defendant attempted to establish the affirmative defense of “extreme emotional disturbance,” relying on psychological reports and letters read into the record by a social worker. 
+Id. 
+at 408-09
+, 107 S.Ct. at 2910-11. In response, the prosecutor introduced part of a report made by a doctor concerning his observations about the defendant’s mental state when the defendant was involuntarily hospitalized. Buchanan objected that his Fifth and Sixth Amendment rights under 
+Smith 
+were being violated because his counsel had not been present during the exam and he had not been informed that the results could be used against him at trial.
+    
+Relying on language in 
+Smith, 
+the Court stated:
+    
+      
+*758
+[I]f a defendant requests such an evaluation or presents psychiatric evidence, then, at the very least, the prosecution may rebut this presentation with evidence from the reports of the examination that the defendant requested. The defendant would have no Fifth Amendment privilege against the introduction of this psychiatric testimony by the prosecution.
+    
+      
+Id. 
+at 422-23, 107 S.Ct. at 2917-18 (citations omitted). The Court noted this report did not describe any statements made by the defendant dealing with the offenses for which he had been charged. The Court concluded that use of such a report for “this limited rebuttal purpose” was not a Fifth Amendment violation. 
+Id. 
+at 424,107 S.Ct. at 2918.
+    
+Next, the Court held Buchanan’s Sixth Amendment rights were not violated. The proper concern of the Sixth Amendment is whether the defendant had effective consultation with counsel. Effective consultation must be based on counsel being informed about the scope and nature of the proceeding. 
+Id. 
+at 424, 107 S.Ct. at 2918. The Court held on the facts of 
+Buchanan:
+    
+    
+There is no question that [Buchanan’s] counsel had this information. To be sure, the effectiveness of the consultation also would depend on counsel’s awareness of the possible uses to which petitioner’s statements in the proceeding could be put. Given our decision in 
+Smith, 
+however, counsel was certainly on notice that if, as appears to be the case, he intended to put on a “mental status” defense for [Buchanan], he would have to anticipate the use of psychological evidence by the prosecution in rebuttal.
+    
+      
+Id. 
+at 424-25, 107 S.Ct. at 2918-19.
+    
+      
+Discussion
+    
+    
+During the guilt/innocence phase of the instant ease, Dr. Fason testified in rebuttal to appellant’s mental-status evidence. Concerning his examination of appellant, Fason discussed his general observations of appellant such as whether appellant was able to control himself during the interview and whether he was coherent. The only testimonial evidence attributed to appellant was whether he could identify his defense counsel present at the interview. No other testimonial evidence was discussed. 
+Cf. Smith, 
+451 U.S. at 
+464 and 465 n. 9,101 S.Ct. at 1874 and 1874 n. 9. Fason did state that he used his interview with appellant in reaching his conclusions regarding appellant’s I.Q. tests and mental retardation.
+    
+As in 
+Buchanan, 
+appellant presented mental health evidence by having a third-party
+44
+ read into the record various reports concerning appellant’s I.Q. and mental retardation. While the reports did not state that appellant was insane or incompetent at the time of the offense, their information regarding appellant’s mental status was part of the foundation upon which appellant based his defense. Further, language in 
+Smith 
+and 
+Buchanan 
+indicates that if a defendant introduces psychiatric evidence in some form, the State may also introduce psychiatric evidence in some form. 
+Smith, 
+451 U.S. at 465-66, 101 S.Ct. at 1874-75; 
+Buchanan, 
+483 U.S. at 422
+, 107 S.Ct. at 2917. Therefore, appellant’s Fifth Amendment privilege was not violated at the guilt/innocence phase by the State’s use, in rebuttal, of testimony by Fason concerning appellant’s I.Q. and mental retardation.
+45
+    
+    
+Further, appellant’s counsel was on notice that if he intended to put on a “mental status” defense, he would have to anticipate the use of psychological evidence by the prosecution in rebuttal. 
+Buchanan, 
+483 U.S. 
+*759
+at 424-25
+, 107 S.Ct. at 2918-19.
+46
+ The Sixth Amendment danger addressed by the Supreme Court is failure to notify counsel of a psychiatric examination concerning future dangerousness. 
+Smith, 
+451 U.S. at 471
+, 101 S.Ct. at 1877; 
+Satterwhite v. Texas, 
+486 U.S. 249
+, 254, 
+108 S.Ct. 1792
+, 1796, 
+100 L.Ed.2d 284
+ (1988); 
+Powell v. Texas, 
+492 U.S. 680
+, 681, 
+109 S.Ct. 3146
+, 3148, 
+106 L.Ed.2d 551
+ (1989). Appellant was not examined for future dangerousness; nor did Fason testify about it. Therefore, no error occurred. Points of error sixteen and seventeen are overruled.
+    
+At punishment, Dr. Quijano testified as to appellant’s future dangerousness. However, Quijano did not base his opinion on his examination of appellant:
+    
+Q. [By State] Dr. Quijano, the last question that I asked you pertained to the likelihood of this Defendant committing a criminal act of violence in the future, and you testified, to the various elements and basis that you arrived at that opinion, and I want to specifically ask you, did you, in arriving at that opinion, rely upon your personal interview with the Defendant, back in May, to reach that opinion or conclusion?
+    
+A. No, I did not.
+    
+Because Quijano did not use his examination of appellant to reach his conclusion, no error occurred.
+47
+      
+See Hernandez v. State, 
+805 S.W.2d 409
+, 412 (Tex.Crim.App.1990). Points of error twelve and thirteen are overruled.
+    
+As for the 1977 examination by Dr. Peebles, appellant contends first that it was involuntary. However, Clayton Malone, appellant’s former defense counsel for the unrelated 1977 rape ease, testified that he requested the examination himself.
+48
+ Therefore, no Sixth Amendment violation occurred. Further, no expert witness referred to any testimonial statements by appellant in the report.
+    
+Next, appellant maintains that the Peebles’ exam violated his Fifth Amendment rights. He asserts that Samenow’s opinion of future dangerousness was based on the Peebles’ examination. Samenow never made such a statement. He merely stated that the Pee-bles’ exam was one of many documents he reviewed in coming to his conclusion. Appellant also asserts that Quijano and Fason relied on the Peebles’ exam. However, Qui-jano never stated he used the exam and, even though he mentioned he reviewed the exam, Fason did not testify as to future dangerousness.
+    
+We hold 
+Estelle 
+is inapplicable to the facts of this case. The Peebles’ exam was conducted two years prior to the offense at issue here and thirteen years prior to the capital murder trial which is the subject of this appeal.
+49
+ As we stated in 
+Nelson v. State:
+    
+    
+The Fifth Amendment is not implicated because, at the time appellant made his statements, he was not confronted with someone who was essentially an agent for the State whose function was to gather evidence that might be used against him in 
+*760
+connection with the crime for which he was incarcerated.
+    
+848 S.W.2d 126
+, 185 (Tex.Crim.App.1992) (statements made to psychiatrist, etc., while incarcerated for a previous offense). The trial court did not err. Points of error fourteen and fifteen are overruled.
+    
+Finally, appellant asserts that the State improperly used and relied on each of the experts’ testimony during closing argument. He also specifically states that the prosecutor argued at punishment that Fason testified as to future dangerousness. Because appellant failed to object to any of these arguments when made, he has preserved nothing for our review. Tex.R.App. Proc. 52(a); 
+Johnson, 
+803 
+S.W.2d at 291
+.
+    
+PUNISHMENT PHASE
+    
+In his 65th point of error, appellant avers that the trial court erred in denying appellant’s request to make an opening statement at the punishment phase. Appellant relies on Article 36.01 as authority.
+    
+Article 36.01 sets out the order of proceedings at the guflt/innocence phase of trial. The failure to allow a defendant to make an opening statement under the provisions of the article constitutes reversible error. 
+Farrar v. State, 
+784 S.W.2d 54
+, 56 (Tex.App.—Dallas 1989). However, Article 36.01 does not apply to the punishment phase of trial.
+    
+For capital cases, Article 37.071 requires the trial court to conduct a separate sentencing proceeding before the jury to determine whether the defendant shall be sentenced to death or life imprisonment. The article is silent as to whether the State or the defendant has a right to an opening statement.
+    
+Even if we were to follow appellant’s argument that Article 36.01 is applicable at the punishment phase, the trial court still would not have erred in denying his request. Article 36.01 allows a defendant to make an opening statement prior to presentation of the State’s case only when the State first makes one. 
+Moore v. State, 
+868 S.W.2d 787
+, 790-91 (Tex.Crim.App.1993). The State did not request or make an opening statement during punishment. Point of error 65 is overruled.
+    
+In points of error eighteen through 25, appellant argues that the trial court erred in admitting State’s exhibits 91 and 96 through 102. Appellant alleges these exhibits contain documents which are inadmissible because they (1) constitute hearsay, (2) are irrelevant, (3) have prejudicial character which outweighs their probative value, (4) violate his Sixth Amendment right to confront witnesses, and (5) violate his Fifth and Sixth Amendment rights with respect to custodial examinations of appellant. We find no reversible error.
+    
+We first note that appellant made no objections to exhibit 98
+50
+ at trial. Therefore, nothing is preserved for our review. Tex. RApp.Proc. 52(a); 
+Johnson, 
+803 S.W.2d at 291
+. Point of error 21 is overruled.
+    
+Further, appellant has provided no argument or authority regarding his relevancy, prejudice,
+51
+ and custodial examination claims. Therefore, we consider these issues inadequately briefed and as presenting nothing for our review. Tex.R.App.Proc. 74(f); 
+Robinson, 
+851 S.W.2d at 
+222 n. 4.
+    
+Exhibits 91, 96, 97, 99, 100, 101, and 102 each include records from a particular mental-health facility, school, or other institution with which appellant had been involved.
+52
+ These records contain appellant’s various I.Q. scores, mental health background, and evaluations. Appellant also cites specific portions of exhibits 91, 96, and 97 pertaining to medical records documenting alleged past homosexual and arson-related activities. The prosecutor referred to the disputed exhibits, in some cases before they 
+*761
+were admitted into evidence, in Ws cross-examination of defense expert Dr, Randall Price and others. The documents were offered during the cross-examination of Price.
+    
+Appellant first complains that the foregoing exhibits contain hearsay and hearsay within hearsay. Aside from those stated above, appellant has not pointed out which portions of the exhibits contain hearsay. After a review of each exhibit, we conclude that any objectionable hearsay seems to involve appellant’s disciplinary problems as a youth, his activities concerning arson, his previous rape conviction, and his alleged homosexuality. We agree with appellant that these portions of the exhibits constitute hearsay. 
+See 
+Rule 801. However, any error in the admission of the evidence was harmless, because the evidence was also presented to the jury through other means. 
+See 
+Tex.R.App.Proc. 52(a).
+    
+As noted before, exhibit 98 was admitted without objection. Therefore, any other reference regarding appellant’s disciplinary problems while in school were properly admitted into evidence. Evidence of appellant’s arson charge came into evidence through exhibit 95-c
+53
+ and the testimony of his aunt, Patsy Fuller Ross. Proof of appellant’s previous rape conviction came in through his “pen packet” and plea papers for the extraneous offense,
+54
+ the testimony of Nell Lowe, the District Clerk of Polk County, and the testimony of the rape victim. Finally, evidence of appellant’s homosexuality also came into evidence through the unobjeeted-to testimony of his sister, Trudy Ross.
+    
+We further note that evidence regarding appellant’s homosexuality and arson-related activities was also properly addressed during the State’s cross-examination of Dr. Price. 
+See 
+Rules 703 and 705. Dr. Price testified that he reviewed two of the eight specific documents cited by appellant in his brief: a letter dated August 15,1973, from Dr. Exter Bell to Mr. William Leikam, which discusses alleged homosexual and fire-setting activities by appellant, and an admission note to the Austin State Hospital Adolescent Center dated September 17,1973, discussing past arson charges and appellant’s father’s reaction to appellant’s homosexual activities at the Me-xia School.
+    
+Rules 703 and 705 allow an expert witness to rely on inadmissible evidence under limited circumstances when testifying. 
+See Joiner v. State, 
+825 S.W.2d 701
+, 707 (Tex.Crim.App.1992). This Court has said that during cross-examination of an expert witness, it is improper to disclose the results of studies by asking leading questions when it has not been established that the expert relied on those studies in his testimony. 
+Ramirez v. State, 
+815 S.W.2d 636
+, 651 (Tex.Crim.App.1991). However, Dr. Price testified that he did review these two documents at the request of defense counsel. Because Dr. Price relied on evidence of appellant’s homosexual and arson-related acts in his testimony, the State’s questions about these topics during cross-examination were not improper.
+    
+Appellant next maintains that the admission of these documents violated his rights under the confrontation clause of the Sixth Amendment because the documents contain generalized statements from sources of unknown reliability. However, out-of-court statements, even by unidentified informants, are admissible for sentencing purposes and do not violate the confrontation clause, where there is additional corroboration. 
+U.S. v. Young, 
+981 F.2d 180
+, 187 (5th Cir.1992), 
+cert. denied, Allman v. U.S., 
+— U.S. -, 
+113 S.Ct. 2454
+, 
+124 L.Ed.2d 670
+ and 
+Crow v. U.S., 
+— U.S. -, 
+113 S.Ct. 2983
+, 
+125 L.Ed.2d 680
+ (1993); 
+U.S. v. Rodriguez, 
+897 F.2d 1324
+,1328 (5th Cir.1990), 
+cert. denied, 
+498 U.S. 857
+, 
+111 S.Ct. 158
+, 
+112 L.Ed.2d 124
+ (1990). The disputed statements from appellant’s medical records were corroborated by statements made by in-court witnesses available for cross-examination and by other records submitted by appellant.
+    
+In addition, the rights of confrontation and cross-examination are not absolute. Cross-examination is not necessary where the evidence bears indicia of reliability suffi
+*762
+cient to ensure the integrity of the fact-finding process. 
+Porter v. State, 
+578 S.W.2d 742
+, 745 (Tex.Crim.App.1979). Most of the disputed statements were made many years ago by appellant’s family, doctors, and nurses in the context of appellant’s medical treatment, and not in the context of this criminal proceeding. Thus, the circumstances surrounding these statements show indicia of reliability, since the declarants had no obvious motive for bias against appellant and in many cases described the events while they were fresh on their minds. Points of error eighteen through 25 are overruled.
+    
+In points of error 27 and 28, appellant contends that the trial court erred in excluding two exhibits offered in mitigation during the punishment phase. The trial court excluded these exhibits containing the mental health records of appellant’s mother because they were irrelevant. Appellant argues the records were relevant because they contained evidence that appellant’s mother suffered from severe mental illness, thus bolstering the testimony of his mitigation witnesses that he had been abused by her.
+    
+The mental health records in question described the hospitalization of appellant’s mother for post-partum psychosis on two occasions. The records did not discuss whether appellant’s mother abused any of her children, or even whether her mental condition made it likely that she would abuse her children. There was no evidence that her psychological problems would have led to child abuse. Because appellant explicitly offered this testimony for the purpose of reinforcing his evidence that his mother abused him, it was not relevant and was, therefore, inadmissible. 
+See 
+Rules 401 and 402. Points of error 27 and 28 are overruled.
+55
+    
+    
+In point of error 77, appellant maintains that the trial court erred in allowing Dr. Stanton Samenow to testify as an expert on mental retardation. Appellant argues that Samenow was not qualified to give his expert opinion on the subject. Appellant does not question the doctor’s expertise on any other subject about which he testified.
+    
+The special knowledge which qualifies a witness to give an expert opinion may be derived from specialized education, practical experience, a study of technical works, or a varying combination of these things. Rule 702; 
+Holloway v. State, 
+613 S.W.2d 497
+, 501 (Tex.Crim.App.1981). Whether a witness offered as an expert possesses the required qualifications is a question which rests largely in the trial court’s discretion, and the decision to admit or exclude the testimony will not be disturbed absent a clear abuse of discretion. 
+Duckett v. State, 
+797 S.W.2d 906
+, 910 (Tex.Crim.App.1990). The party proffering the expert witness bears the burden of showing that the witness is qualified on the specific matter in question. Rule 702.
+    
+Appellant objected to Samenow’s testimony because he had not been qualified as being an expert on mental retardation. We disagree. The State asked various questions regarding Samenow’s experience and training in the areas of clinical psychology. Sam-enow testified to his extensive educational background and professional memberships, and listed several publications he authored dealing with criminal psychology. He further testified that he had been teaching at professional seminars on criminal behavior for various groups, including mental health professionals, since 1977. He conducted a study in forensic psychiatry for seventeen years at St. Elizabeth’s Hospital, which was run by the National Institute for Mental Health.
+    
+      
+*763
+After the State asked Samenow if he had reviewed appellant’s various IQ tests taken over the years and how they pertained to his varying degrees of assessed mental retardation, appellant objected that the State had not laid a foundation for Samenow’s expertise on mental retardation. The trial court overruled his objection. Samenow then testified about his familiarity with I.Q. tests, their relationship to determining mental retardation, and the differences between the various tests that are given.
+    
+The trial court did not abuse its discretion in allowing Dr. Samenow to testify about the relationship between appellant’s I.Q. tests and his mental retardation. Point of error 77 is overruled.
+    
+In a similar argument, in point of error 26, appellant contends that the State elicited an inadmissible lay opinion which was outside the scope of the defense witness’ expertise. Specifically, appellant called Dr. Randolph Price to testify as a defense expert regarding neuropsychology, organic brain damage, mental retardation, and the effects of malingering on relevant psychological tests. On cross-examination, the State questioned Price about appellant’s future dangerousness. The State contends that appellant failed to preserve any error. We agree.
+    
+The following occurred during cross-examination:
+    
+THE PROSECUTOR: Based on your examination of those records that were furnished to you, as well as those others that you gave Dr. Mount, if you saw any of them, and based on all of your training, and experience and all of your qualifications, that you told the jury about yesterday, in your opinion, Doctor, is [appellant] a dangerous individual?
+    
+DEFENSE COUNSEL: Objection, Your Honor.
+    
+s{t ⅜ ⅜ ⅜ * ⅜
+    
+No basis for asking this witness about that, that is not the subject of his testimony. THE COURT: Overrule the objection.
+    
+DR. PRICE: If he was in the free world, I would consider him dangerous.
+    
+Appellant’s trial objection does not comport with the issue raised on appeal. Therefore, he has preserved nothing for our review. 
+Barnes, 
+876 S.W.2d at 325
+; 
+Johnson, 
+803 S.W.2d at 293
+. We do note that appellant later made the proper objection. However, Price had already stated his opinion. To be timely, an objection must be raised at the earliest opportunity or as soon as the ground of objection becomes apparent. Tex.R.App.Proe. 52(a); 
+Barnes, 
+876 S.W.2d at 325
+. Appellant’s 26th point of error is overruled.
+    
+ In points of error 29 and 31, appellant contends that the trial court erred in not instructing the jury that, and in not allowing in evidence that, if not given the death penalty he would spend the remainder of his life in jail.
+    
+At punishment, appellant attempted to have admitted the following “waiver of parole”:
+    
+July 16, 1990
+    
+I, Johnny Penry, am putting my name on this paper to show that I want to give up my right to parole for the rest of my life. I understand that I cannot change my mind later, and that I will have to serve life in prison, without parole.
+    
+_/s/
+    
+Johnny Paul Penry
+    
+The trial court denied appellant’s request. On appeal, appellant cites no authority or argument as to why this document would be binding. He instead claims that whether the document is binding is irrelevant,
+56
+ but that the issue of waiver is nevertheless relevant to the jury’s consideration of future dangerousness. He notes that if the document had been admitted into evidence, it would have “opened the door to other evidence on the realistic likelihood of Penry’s parole, perhaps including expert witnesses for both sides.”
+    
+      
+*764
+Appellant further objected to the charge as a whole because it failed to “instruct the jury that it must presume that the defendant will remain in prison for his entire life when considering the evidence, if any, related to a ‘continuing threat to society.’ ”
+    
+The matter of parole or a defendant’s release thereon is not a proper consideration for a jury’s deliberations in the punishment phase of a capital murder trial. 
+Stoker v. State, 
+788 S.W.2d 1
+, 16 (Tex.Crim.App.1989); 
+White v. State, 
+629 S.W.2d 701
+, 708 (Tex.Crim.App.1981); 
+but see Simmons v. South Carolina, 
+— U.S. -, 
+114 S.Ct. 2187
+, 
+129 L.Ed.2d 133
+ (1994). A jury’s only task at the punishment phase is to answer the special issues as required in Article 37.071. 
+Stoker, 
+788 S.W.2d at 16
+. It has also been consistently held that it is not error for a trial court to refuse appellant’s requested instruction to the jury explaining the parole laws of this state. 
+Id.; O’Bryan v. Estelle, 
+714 F.2d 365
+ (5th Cir.1983), 
+cert. denied, 
+465 U.S. 1013
+, 
+104 S.Ct. 1015
+, 
+79 L.Ed.2d 245
+ (1984).
+    
+The effect of appellant’s request and objection was to place the issue of parole before the jury. Because this was an impermissible area of inquiry for the jury, the trial court did not err. Further, appellant’s “waiver” is no more than an attempt to create “life without parole,” which the Legislature has not yet seen fit to create. Points of error 29 and 31 are overruled.
+    
+In point or error 30, appellant contends that the trial court failed to instruct the jury not to speculate on the possibility of parole if appellant were to receive life imprisonment. The trial court instructed the jury:
+    
+In reaching your decision, you must not consider what effect, if any, the laws on parole will have upon a life sentence.
+    
+We do not perceive a difference between what appellant desired to have included in the charge and the trial court’s actual instruction. Accordingly, we hold that appellant’s point of error 30 is without merit and is overruled.
+    
+In appellant’s 32nd point of error, he maintains that the trial court erred in overruling his motion for mistrial premised on the State’s improper argument based on the possibility of parole. Appellant complains of the following argument:
+    
+Dr. Felix Pebbles [sic] ... said that it is my further professional opinion, that if [appellant] were released from custody, that he would be dangerous to other persons. That was written on May 19, 1977. Two years later, and in August of 1979, [appellant] was released from custody on parole, less than sixty days later, he murdered and raped Pam Carpenter. You have a responsibility to see that that never occurs again.
+    
+Appellant did not object to the argument or request an instruction to disregard but moved for a mistrial after the jury had already retired to begin its deliberations.
+    
+The proper method of preserving error in cases of prosecutorial misconduct is to (1) object on specific grounds, (2) request an instruction that the jury disregard the comment, and (3) move for a mistrial. 
+Cook v. State, 
+858 S.W.2d 467
+, 473 (Tex.Crim.App.1993). By failing to object at the earliest possible moment, appellant has preserved nothing for our review. Tex.R.App.Proe. 52(a).
+    
+In points of error one through eleven and 78 through 80, appellant complains that the trial court submitted an improper jury instruction on mitigating evidence. We disagree.
+    
+At punishment, the jury must be allowed to consider and give effect to proffered evidence regarding the defendant’s background, his character, and circumstances surrounding the offense that, reasonably, could be thought mitigating and warranting a sentence less than death. 
+Eddings v. Oklahoma, 
+455 U.S. 104
+, 110, 
+102 S.Ct. 869
+, 874, 
+71 L.Ed.2d 1
+ (1982); 
+Lockett v. Ohio, 
+438 U.S. 586
+, 605-06, 
+98 S.Ct. 2954
+, 2965-66, 
+57 L.Ed.2d 973
+ (1978). As the Supreme Court stated in 
+Penry v. Lynaugh:
+    
+    
+Underlying 
+Lockett 
+and 
+Eddings 
+is the principle that 
+punishment should be directly related to the personal culpability of the criminal defendant. 
+If the senteneer is to make an individualized assessment of the appropriateness of the death penalty, 
+*765
+“evidence about the defendant’s background and character is relevant because of the belief, long held by this society, that defendants who commit criminal acts that are attributable to a disadvantaged background, or to emotional and mental problems, may be less culpable than defendants who have no such excuse.”
+    
+492 U.S. at 319
+, 
+109 S.Ct. at 2947
+ (emphasis added).
+    
+The special issues required by Article 37.071 allow the jury to consider and give effect to most types of mitigating evidence. 
+Jurele v. Texas, 
+428 U.S. 262
+, 273-74, 
+96 S.Ct. 2950
+, 2957-58, 
+49 L.Ed.2d 929
+ (1976). However, defendants occasionally proffer mitigating evidence that is not relevant to the special issues or that has relevance to the defendant’s moral culpability beyond the scope of the special issues. 
+Penry v. Lynaugh, 
+492 U.S. at 329
+, 
+109 S.Ct. at 2952
+. In such a case, the jury must be given a special instruction in order to allow it to consider and give effect to such evidence. 
+Id.
+The trial court in the instant case submitted the following charge:
+    
+You are instructed that when you deliberate on the questions posed in the Special Issues, you are to consider mitigating circumstances, if any, supported by the evidence presented in both phases of the trial, whether presented by the State or the defendant. A mitigating circumstance may include, but is not limited to, any aspect of the defendant’s character and record or circumstances of the crime which you believe could make a death sentence inappropriate in this case. If you find that there are any mitigating circumstances in this case, you must decide how much weight they deserve, if any, and therefore, give effect and consideration to them in assessing the defendant’s personal culpability at the time you answer the special issue. If you determine, when giving effect to the mitigating evidence, if any, that a life sentence, as reflected by a negative finding to the issue under consideration, rather than a death sentence, is an appropriate response to the personal culpability of the defendant, a negative finding should be given to one of the special issues.
+    
+We have already held that a nullification instruction such as this one is sufficient to meet the constitutional requirements of 
+Penry v. Lynaugh. Coble v. State, 
+871 S.W.2d 192
+, 206-207 (Tex.Crim.App.1993), 
+cert. filed; see also Coleman v. State, 
+881 S.W.2d 344
+, 356 (Tex.Crim.App.1994). Points of error one through eleven and 78 are overruled.
+    
+Appellant addresses points 11a and lib in a footnote. Without citing any authority, he asserts that because the charge did not instruct the jury to construe the terms “reasonable” and “unreasonable” in the first and third special issues to encompass his mitigating evidence, the jury did not have a vehicle with which to give effect to such evidence. Appellant makes no further argument. We will not entertain arguments which are inadequately briefed. Tex.R.App. Proc. 74(f). Points of error 11a and lib are overruled.
+    
+In points of error 79 and 80, appellant maintains that the instruction did not include a clear and accurate definition of mitigating evidence and circumstances. The trial court submitted the following definition:
+    
+A mitigating circumstance may include, but is not limited to, any aspect of the defendant’s character and record or circumstances of the crime which you believe could make a death sentence inappropriate in this ease.
+    
+Appellant does not contest this definition 
+per se. 
+He complains that the trial court limited its application by instructing the jury to “give effect and consideration to [the mitigating circumstances] in assessing the 
+defendant’s personal culpability 
+” and by deciding whether a death sentence “is an appropriate response to the 
+personal culpability 
+of the defendant.” He also asserts that by not defining “personal culpability,” the instruction did not distinguish it from “guilt”; therefore, he argues, it allowed the jury to not consider any mitigating evidence that failed to cast a doubt on appellant’s guilt. Again, we have previously approved the use of such an instruction. 
+See Coble, 
+871 S.W.2d at 206-07
+; 
+Coleman, 
+881 S.W.2d at 356
+. Points of error 79 and 80 are overruled.
+    
+      
+*766
+In his 81st and 82nd points of error, appellant complains that the trial court violated the Eighth Amendment by instructing the jury that “you are not to be swayed by mere sentiment, conjecture, sympathy, passion, prejudice, public opinion or public feeling in considering all the evidence before you and in answering the special issue.” Specifically, appellant argues that the instruction precludes the jury’s proper consideration of his mitigating evidence.
+    
+We have already addressed the validity of this exact charge. 
+Wheatfall v. State, 
+882 S.W.2d 829
+, 842 (Tex.Crim.App.1994). Because appellant raises no novel argument to persuade us to revisit this holding, we overrule his 81st and 82nd points of error.
+    
+In points of error 83 through 86, appellant posits that the trial court erred in failing to instruct the jury that the burden of proof was on the State to disprove the existence of sufficient mitigating circumstances, and to prove beyond a reasonable doubt that there were insufficient mitigating circumstances to make the death sentence inappropriate. We disagree.
+    
+This Court has previously stated:
+    
+Neither this Court nor the Texas Legislature has ever assigned a burden of proof on the issue of mitigating evidence. 
+See 
+Article 37.071. The Eighth and Fourteenth Amendments do not require that a burden be placed on the State. In a plurality opinion, the United States Supreme Court in 
+Walton v. Arizona 
+affirmatively declined to “adopt as a constitutional imperative a rule that would require the court to consider the mitigating circumstances claimed by a defendant unless the State negated them by a preponderance of the evidence.” 
+497 U.S. 639
+, at 650, 
+110 S.Ct. 3047
+, at 3055, 
+111 L.Ed.2d 511
+, at 526 (1990) (plurality opinion). The plurality in 
+Walton 
+further held that it is not unconstitutional to place a burden on the defendant to establish sufficient mitigating circumstances by a preponderance of the evidence. 
+Id.
+497 U.S. at 649-651
+, 
+110 S.Ct. at 3055-56
+, 
+111 L.Ed.2d at 525-27
+. Because neither legislation nor constitution places a burden of proof upon the State to negate the existence of mitigating evidence, we refuse to fault the trial court for failing to give the jury such an instruction.
+    
+      
+Barnes, 
+876 S.W.2d at 330
+. We decline to reconsider the issue. Appellant’s points of error 83 through 86 are overruled.
+    
+In appellant’s 87th and 88th points of error, he contends that the trial court erred in not affirmatively submitting his defensive theory of mitigation. Specifically, appellant objected that the trial court failed “to submit each of the mitigating circumstances that [he] had clearly proffered for the jury’s consideration — mental retardation, brain impairment, and child abuse.” The State responds that there is no requirement that the mitigating factors be spelled out. We agree.
+    
+During punishment, jurors must not be precluded from considering any relevant mitigating evidence in answering the special issues. 
+Cuevas, 
+742 S.W.2d at 345-36
+; 
+Allridge, 
+850 S.W.2d at 482
+. However, the trier of fact is not mandated to give any specified weight to a particular piece of evidence. 
+Id.
+“The amount of weight that the fact-finder must give any particular piece of mitigating evidence is left to the range of judgement and discretion exercised by each juror.” 
+Id.
+    
+    
+Because each individual juror decides whether he believes a particular piece of evidence may or may not be mitigating, we conclude that it was not error for the trial court to deny appellant’s objections to the charge. Points of error 87 and 88 are overruled.
+    
+Finally, in his 132nd point of error, appellant asserts that it would be cruel and unusual punishment under the Eighth Amendment to execute a person like himself “given his mental retardation, brain damage, and history of suffering severe and protracted abuse as a child.” He argues that, because of his mitigating circumstances, he lacked the moral culpability to be sentenced to death.
+    
+The Eighth Amendment does not preclude the execution of mentally retarded persons. 
+Penry v. Lynaugh, 
+492 U.S. at 335-38
+, 
+109 S.Ct. at 2955-57
+. Nor is there authority stating that it is unconstitutional to execute 
+*767
+persons who have brain damage or were abused as children. “So long as sentencers can consider and give effect to mitigating evidence of mental retardation in imposing sentence, an individualized determination of whether ‘death is the appropriate punishment’ can be made in each particular case.” 
+Id.
+The jury in the instant case had the means to consider all of the evidence, including appellant’s mitigating circumstances, and yet determined that death was the appropriate punishment. Because appellant’s sentence does not violate the Eighth Amendment, we overrule his 132nd point of error.
+    
+The judgment of the trial court is AFFIRMED.
+    
+CLINTON, OVERSTREET and MEYERS, JJ., concur in the result.
+    
+      
+*
+      
+ This opinion was originally prepared by Judge Charles F. "Chuck” Campbell prior to his leaving the Court.
+    
+    
+      
+1
+      
+. Appellant’s trial was held in Walker County on a change of venue from Polk County.
+    
+    
+      
+2
+      
+. Appellant was found guilty of the same offense in a previous trial, but that conviction was reversed by the United States Supreme Court. 
+See Penry v. Lynaugh, 
+492 U.S. 302
+, 
+109 S.Ct. 2934
+, 
+106 L.Ed.2d 256
+ (1989).
+    
+    
+      
+3
+      
+. Unless otherwise indicated, all references to articles are to those in the Texas Code of Criminal Procedure.
+    
+    
+      
+4
+      
+. The facts of the instant case may be found in the discussion of point of error 114a, 
+infra.
+      
+    
+    
+      
+5
+      
+. Venue had already been changed from Polk County to Walker County.
+    
+    
+      
+6
+      
+        
+.See 
+footnote two.
+    
+    
+      
+7
+      
+. Formerly the Texas Department of Corrections.
+    
+    
+      
+8
+      
+. Venireperson Carpenter knew the victim, and venireperson Farris could not “spiritually set aside” her opinion. Venirepersons Mason and Bruner had also read about the case but were excused for other reasons.
+    
+    
+      
+9
+      
+. Appellant also argues that the vagueness of the terms caused him harm because of the facts of his case. We disagree. Appellant failed to demonstrate how his case differed from any of the myriad of competency trials that take place each year. Further, he cites us to 
+Penry v. Lynaugh 
+as authority governing competency trials. After a careful review of the case, we conclude that it is not controlling authority in the case of a competency hearing.
+    
+    
+      
+10
+      
+. The opinion poll was designed to determine the percentage of people aware of the instant case. Initially, respondents were asked whether they were aware of a case involving appellant. Thirty-nine out of 100 respondents in Walker County answered "yes.” If the respondent answered "no,” the pollsters then gave specific facts of the case including:
+      
+(1) [Appellant] has been accused of the murder of Pamela Mosley Carpenter, a housewife who was raped and stabbed with a pair of scissors in Livingston in 1979.
+      
+(2) Also, [appellant] was convicted and given the death penalty in 1980 for the death of [Carpenter]. Later, the Supreme Court reversed the conviction.
+      
+(3) Mark Mosley, one of her older brothers, was a former professional football player.
+      
+(4) Finally, [appellant] is considered mentally retarded.
+      
+The respondents were then asked whether they were aware of the case. Teske admitted that the information given to the respondents could likely influence their response.
+    
+    
+      
+11
+      
+. Included in Bronson’s qualitative report were summaries of the number of times words such as "death row,” “death penalty,” and “capital murder" were referenced in the newspaper articles. This analysis did not take into consideration the context in which the words were used. Bronson admittedly did not do a qualitative analysis on words such as "mental retardation” and "child abuse.”
+    
+    
+      
+12
+      
+. Overruled on other grounds by 
+Cuevas 
+v. 
+State, 
+641 S.W.2d 558
+, 560 (Tex.Crim.App.1982).
+    
+    
+      
+13
+      
+. The State contends that appellant did not preserve error because he did not name any objectionable jurors. We disagree. By agreement, no peremptory strikes were taken until after voir dire of the entire venire was complete. Appellant designated his objectionable jurors by requesting extra strikes for particular venire-members prior to the taking of the peremptory strikes. The trial court denied appellant’s request and these veniremembers eventually sat on the jury.
+    
+    
+      
+14
+      
+. "[I]f raised by the evidence, whether the conduct of the defendant in killing the deceased was unreasonable in response to the provocation, if any, by the deceased.” Article 37.071(b)(3).
+    
+    
+      
+15
+      
+. Appellant cites 
+Morgan v. Illinois, 
+504 U.S. 719
+, 738, 
+112 S.Ct. 2222
+, 2234, 
+119 L.Ed.2d 492
+ (1992), in support of his argument. However, 
+Morgan 
+is not controlling. The Supreme Court held there that "[a]ny juror who states that he or she will automatically vote for the death penalty without regard to the mitigating evidence is announcing an intention not to follow the instruction to consider the mitigating evidence and to decide if it is 
+sufficient 
+to preclude imposition of the death penalty.” That is not the situation here.
+    
+    
+      
+16
+      
+. Appellant relies on 
+Esterline v. State, 
+707 S.W.2d 171
+, 174-75 (Tex.App.—Corpus Christi 1986, pet. ref'd), for the proposition that the question at issue here was proper. We disagree. In 
+Esterline, 
+the veniremember’s answer was challengeable, not the question posited. In fact, 
+Esterline 
+does not provide the reader with the question that was asked.
+    
+    
+      
+17
+      
+. The trial court charged:
+      
+A mitigating circumstance may include, but is not limited to, any aspect of the defendant’s character and record or circumstances of the crime which you believe could make a death sentence inappropriate. If you find that there are any mitigating circumstances in this case, you must decide how much weight they deserve, if any, and therefore, give effect and consideration to them in assessing the defendant’s personal culpability at the time you answer the special issue.
+    
+    
+      
+18
+      
+. Appellant did file an objection regarding this point of error in a written motion to change venue. This written motion was not filed until fifteen days after the last complained-of juror was questioned. We further note that appellant’s point of error is completely unfounded. In each complained-of incident, the State merely stated that sometimes "intentional” and “deliberate” may seem to be the same, but that under the law there is a distinction.
+    
+    
+      
+19
+      
+. Article 19.03(a)(2) of the Texas Penal Code reads:
+      
+(a) A person commits an offense if he commits murder as defined under Section 19.02(a)(1) of this code and:
+      
+        
+      
+      
+(2) the person intentionally commits the murder in the course of committing or attempting to commit kidnapping, burglary, robbery, aggravated sexual assault or arson.
+    
+    
+      
+20
+      
+. Appellant miscites the record on appeal. The objection he claims preserved the alleged error was, in reality, an objection to a different question regarding child abuse.
+    
+    
+      
+22
+      
+. "When a defendant asserts the insanity defense and introduces supporting psychiatric testimony, his silence may deprive the State of the only effective means it has of controverting his proof on an issue that he interjected into the case. [A] defendant can be required to submit to a sanity examination conducted by the prosecution’s psychiatrist.” 
+Estelle v. Smith, supra. 
+Because neurological testing is a tool to determine a person's mental status, it falls within the realm of a sanity examination and is properly ordered by the court. 
+See also Buchanan v. Kentucky, 
+483 U.S. 402
+, 422-25, 
+107 S.Ct. 2906
+, 2917-19, 
+97 L.Ed.2d 336
+ (1987) (extreme-emotional-distress defense).
+    
+    
+      
+23
+      
+. It is well established that ”[i]f the decision is correct on any theory of law applicable to the case it will not be disturbed.” 
+Calloway v. State, 
+743 S.W.2d 645
+, 652 (Tex.Crim.App.1988); 
+Romero v. State, 
+800 S.W.2d 539
+, 543 (Tex.Crim.App.1990).
+    
+    
+      
+24
+      
+.Appellant was given his warnings consistent with Article 38.22. The Article 38.22 warnings state:
+      
+(1) [The accused] has the right to remain silent and not make any statement at all and that any statement he makes may be used against him at his trial;
+      
+(2) any statement he makes may be used as evidence against him in court;
+      
+(3) he has the right to have a lawyer present to advise him prior to and during any questioning;
+      
+(4) if he is unable to employ a lawyer, he has the right to have a lawyer appointed to advise him prior to and during any questioning;
+      
+(5) he has the right to terminate the interview at any time.
+      
+The Texas statutory warnings are in compliance with 
+Miranda v. Arizona, 
+384 U.S. 436
+, 
+86 S.Ct. 1602
+, 
+16 L.Ed.2d 694
+ (1966).
+    
+    
+      
+21
+      
+. Appellant cites 
+Trevino v. State, 
+815 S.W.2d 592
+, 614 (Tex.Crim.App.1991), for the proposition that youth is a mitigating factor that must be considered as a matter of law. This Court has subsequently held that the law does not require a juror to consider youth as a mitigating factor; a juror may consider youth to be 
+either 
+mitigating or aggravating. 
+Robertson v. State, 
+871 S.W.2d 701
+, 712 n. 13 (Tex.Crim.App.1993).
+    
+    
+      
+25
+      
+. Prior to his arrest, appellant voluntarily accompanied the police to the victim's home. While there, without any prompting by the police, appellant orally confessed to the crime.
+    
+    
+      
+26
+      
+. District Attorney Joe Price was also present. Price was also in attendance for the second confession.
+    
+    
+      
+27
+      
+. Appellant cites 
+Farr v. State, 
+519 S.W.2d 876
+, 880 (Tex.Crim.App.1975), and 
+Sherman v. State, 
+532 S.W.2d 634
+, 636 (Tex.Crim.App.1976), in support of his argument. However, neither case is applicable. In both 
+Farr 
+and 
+Sherman, 
+the confessions were found inadmissible because the defendant had presented evidence that he was 
+coerced 
+into confessing by the interrogating officers. There is no evidence of official overreaching in this case. We further note that official coercion is relevant to a Fourteenth Amendment due process analysis. We are unsure whether appellant is making a separate Fourteenth Amendment argument. However, if he were, it would have to be rejected. Coercive police activity is a necessary predicate to the finding that a confession is not voluntary within the meaning of the Due Process Clause of the Fourteenth Amendment. 
+Colorado v. Connelly, 
+479 U.S. 157
+, 167, 
+107 S.Ct. 515
+, 521, 
+93 L.Ed.2d 473
+ (1986). Further, a defendant's mental condition, by itself and apart from its relation to official coercion, will never require a conclusion of involuntariness. 
+Id. 
+at 164
+, 107 S.Ct. at 520.
+    
+    
+      
+28
+      
+. The instruction stated:
+      
+You are instructed that under our law a confession of a defendant ... shall be admissible in evidence if it appears that the same was freely and voluntarily made, without compulsion or persuasion, provided, however, that it be made in writing and signed by the accused, and show that the accused has been warned prior to making such statement or confession, by the person to whom the same is made that: [Statutory warnings]
+      
+So in this case, if you find from the evidence, or if you have a reasonable doubt thereof, that prior to the time the defendant gave the alleged statement or confession to Chief of Police Bill Smith, if he did give it, the said Chief of Police Bill Smith did not warn the defendant in the respects just outlined, or as to any one of such requirements just outlined, then you will wholly disregard the alleged statement or confession and not consider it for any purpose nor any evidence obtained as a result thereof. If, however, you find beyond a reasonable doubt that the aforementioned warning was given the defendant prior to his having made such statement, if he did make it, still, before you may consider such statement as evidence in this case, you must find from the evidence beyond a reasonable doubt that prior to and during such statement, if any, the defendant knowingly, intelligently and voluntarily waived the rights hereinabove set out in the said warning, and unless you so find, or if you have a reasonable doubt thereof, you will not consider the statement or confession for any purpose whatsoever or any evidence obtained as a result of same.
+      
+An identical paragraph applicable to the confession made to Texas Ranger Maurice Cook followed.
+    
+    
+      
+29
+      
+. The Article 38.22 warnings encompass the 
+Miranda 
+warnings and one additional warning. 
+See 
+n. 19, 
+supra.
+      
+    
+    
+      
+30
+      
+. Appellant also argues that he was entitled to this instruction because a defendant is entitled to an affirmative submission on every defensive theory raised by the evidence. 
+See Hill v. State, 
+585 S.W.2d 713
+, 714 (Tex.Crim.App.1979). However, 
+Hill 
+is inapplicable to the instant case. The refusal of a defendant's requested instruction is not error where the requested instruction is merely an affirmative submission of a defensive issue which denies the existence of an essential element of Ae State's case. 
+Green v. State, 
+566 S.W.2d 578
+, 584 (Tex.Crim.App.1978).
+    
+    
+      
+31
+      
+. Appellant argues further that his confessions were involuntary because he did not understand, and was not informed, that a conviction for capital murder could result in a death sentence. However, failure to inform an accused of the full extent of his possible exposure under the law goes to the knowing and intelligent nature of the 
+Miranda 
+waiver, not to its voluntariness. 
+Corwin v. State, 
+870 S.W.2d 23
+, 32 (Tex.Crim.App.1993). Therefore, appellant's failure to understand that he could receive the death sentence does not render his confessions involuntary.
+    
+    
+      
+32
+      
+. Appellant further avers that his rights under the Eighth and Fourteenth Amendments were also violated. However, appellant makes no argument nor cites us to any authority. Thus, this proposition is inadequately briefed and not properly presented for our review. Tex.R.App.Proc. 74(f).
+    
+    
+      
+33
+      
+. Unless otherwise indicated, all references to rules are to those in the Texas Rules of Criminal Evidence.
+    
+    
+      
+34
+      
+. The trial court did not state the grounds upon which he admitted the statements. However, the trial court’s decision will be upheld if it is correct on any theory of law applicable to the case. 
+Romero v. State, 
+800 S.W.2d 539
+, 543 (Tex.Crim.App.1990).
+    
+    
+      
+35
+      
+. We note that we would also find the statement admissible under the "dying declaration” exception. Rule 804(b)(2); 
+Herrera v. State, 
+682 
+S.W.2d 313
+, 320 (Tex.Crim.App.1984).
+    
+    
+      
+36
+      
+. At trial, appellant objected to the admission of State’s exhibit 5, one of the above-mentioned photographs, only on the basis of relevance and victim impact. Since his trial objection failed to make a Rule 403 objection, he has not preserved that issue for our review. Tex.R.App.Proc. 52(a); 
+Barnes, 
+876 S.W.2d at 325
+.
+    
+    
+      
+37
+      
+. The Supreme Court, in 
+Payne v. Tennessee, 
+501 U.S. 808
+, 827, 
+111 S.Ct. 2597
+, 2609, 
+115 L.Ed.2d 720
+ (1991), held that the Eighth Amendment does not forbid victim impact testimony. 
+Payne 
+limits 
+Booth 
+to that part precluding evidence of a victim’s family members' characterizations and opinions about the crime, the defendant and the appropriate sentence.
+    
+    
+      
+38
+      
+. The first time "acquit” is used, the jury charge states:
+      
+If you do not so find beyond a reasonable doubt, or if you have a reasonable doubt thereof, you will acquit the defendant of the offense of capital murder, and consider whether he is guilty of the lesser offense of murder.
+    
+    
+      
+39
+      
+. Appellant’s requested instruction number three admonished the jury:
+      
+If you find from the evidence that at the time the alleged offense was committed, the defendant had substantially reduced mental capacity, whether caused by mental illness, mental retardation, or other mental defect, or other cause, you must consider what effect, if any, this diminished mental capacity had on the defendant’s ability to form the "intentional” mental state which is an element of the crime of capital murder.
+      
+Thus, if you find that the defendant's mental capacity was diminished to the extent that you have a reasonable doubt whether he did intentionally commit the acts constituting capital murder, even if you find beyond a reasonable doubt that he performed the acts, you are to find the defendant not guilty of capital murder, and consider whether or not he is guilty of a lesser offense.
+      
+Appellant’s requested instruction number four read:
+      
+You are instructed that when a person is charged with an offense which requires that he act intentionally ... you must take all of the evidence into consideration, and determine therefrom, if, at the time when the offense was allegedly committed, the person accused was suffering from some abnormal mental or physical condition, however caused, which prevented him from forming the intent essential to constitute the offense with which he is charged.
+      
+If from all the evidence you have a reasonable doubt whether the defendant was capable of forming the intent necessary to constitute the offense of capital murder, you must give the defendant the benefit of the doubt, and find that he did not have such intent. In such event you are to say by your verdict that the defendant is not guilty of capital murder ...
+    
+    
+      
+40
+      
+. Appellant’s reliance on 
+Francis v. Franklin, 
+471 U.S. 307
+, 
+105 S.Ct. 1965
+, 
+85 L.Ed.2d 344
+ (1985), is misplaced. In that case, the Court struck down a jury charge which expressly stated a rebuttable presumption that "[a] person of sound mind and discretion is presumed to intend the natural and probable consequences of his acts.” 
+Id. 
+at 311
+, 
+105 S.Ct. at 1969
+. The Court found that a reasonable juror might have viewed this instruction as mandatoiy. 
+Id.
+However, the charge given by the trial court in this case set up no such explicit presumption which could have misled the jury. Appellant also reiterates the argument that he was entitled to an affirmative submission of a defensive theory under the rule stated in 
+Hill v. State, 
+585 S.W.2d 713
+ (Tex.Crim. App.1979). We have already addressed this issue.
+    
+    
+      
+41
+      
+. Overruled on other grounds by 
+Garrett v. State, 
+851 S.W.2d 853
+, 860 (Tex.Crim.App.1993).
+    
+    
+      
+42
+      
+. An emergency room nurse did testify that she observed a substance that she believed to be semen in the victim's vaginal area.
+    
+    
+      
+43
+      
+. Appellant later withdrew the notice on May 22, 1990. The competency trial took place May 7-16, 1990.
+    
+    
+      
+44
+      
+. A member of the defense team.
+    
+    
+      
+45
+      
+. Appellant also specifically complains that Fa-son expressed an opinion that appellant had an "antisocial personality disorder.” Despite appellant’s assertions, we view the testimony as rebuttal to appellant's evidence. First, Fason describes how the disorder could affect the accuracy of an I.Q. test. Second, when he was asked, "Do you have a diagnosis with respect to any other aspects of his mental status in 
+1979?" 
+Fa-son responded Aat appellant had Ae disorder. Because Fason did not examine appellant until 1990, his opinion regarding Ae antisocial disorder had to be based on records and reports prior to Ae instant offense. We also note Aat when Fason was specifically asked whether he noted any disorder during his interview wiA appellant, he replied that noAing in the interview stood out to him as being relevant to Ae question.
+    
+    
+      
+46
+      
+. At a hearing on pretrial motions, the trial court stated that Fason’s and Quijano’s examinations would not be used at trial 
+unless 
+the defense put on psychiatric evidence; at that point the "evidence might be admissible.” We also note appellant’s counsel was present at both the Fason and Quijano examinations and would not allow either doctor to read appellant his statutory rights.
+    
+    
+      
+47
+      
+. Appellant specifically complains that Quijano also expressed an opinion that appellant had an "antisocial personality disorder” and that the opinion must have come from his interview of appellant. Appellant mischaracterizes the source of the diagnosis. First, we note that Quijano stated that he did not observe any type of mental illness in appellant during the interview. He further testified that he had "not definitely diagnosed him, I am going by previous evaluation.” Quijano did not use his examination of appellant to reach this opinion. Quijano viewed extensive records dealing with appellant’s mental and criminal history. More than one of these reports state that appellant had an antisocial personality disorder.
+    
+    
+      
+48
+      
+. Malone testified at an evidentiary hearing concerning the admission of evidence of the pri- or rape conviction during the punishment phase.
+    
+    
+      
+49
+      
+. It should be remembered that the trial which is the subject of this appeal is actually the second trial of appellant since his first case was appealed to and reversed by the Supreme Court. 
+See Penry v. Lynaugh, 
+supra.
+      
+    
+    
+      
+50
+      
+. Exhibit 98 is an educational progress report from the Mexia State School. The report notes that appellant had a disciplinary problem.
+    
+    
+      
+51
+      
+. Appellant does cite us to Rule 403. However, he fails to explain its applicability to the case at hand. We decline to make appellant’s arguments for him.
+    
+    
+      
+52
+      
+.The University of Texas Medical Branch-Galveston, Texas Department of Corrections, Austin State Hospital, Rusk State Hospital, Mexia State School, Goose Creek Independent School District, Polk County MHMR, and the Texas Rehabilitation Commission.
+    
+    
+      
+53
+      
+. No objection was made to exhibit 95-c on hearsay grounds.
+    
+    
+      
+54
+      
+. State's exhibits 60, 88, 89, and 90.
+    
+    
+      
+55
+      
+. Appellant cites two inapplicable cases in support of his theory that the records should have been admitted. In 
+Gribble v. State, 
+we held that the defendant’s mother's mental health records were admissible where defendant was attempting to show that his childhood was unstable because his mother was hospitalized for mental problems for years and, as a result, the children were sent to live with various relatives. 
+808 S.W.2d 65
+, 75-76 (Tex.Crim.App.1990). The records at issue also explained how the defendant’s mother’s mental disorder resulted in her sexual abuse of defendant. 
+Id.
+Appellant’s mother’s records in the instant case do not link child abuse with her condition or even mention actual or potential child abuse. The second case cited by appellant is non-binding on this Court and involves facts which are completely unrelated to appellant’s case. 
+See Buttrum v. Black, 
+721 F.Supp. 1268
+, 1314-1315 (N.D.Ga.1989).
+    
+    
+      
+56
+      
+. Appellant argues that the fact he signed the document is the only relevant fact. He also states that the defense was prepared to prove he knew what the document meant when he signed it. We find this ironic considering appellant's earlier arguments that he was not intelligent enough to sign his confession or waive his 
+Miranda 
+rights.
+    
+  
+  
+    
+BAIRD, Judge.
+    
+I concur in the disposition of point of error 26, believing the objection was sufficient to preserve the error but believe the error was harmless. Tex.RApp.P. 81(b)(2). I concur in the disposition of point of error 71 for the reasons stated in 
+Buchanan v. Kentucky, 
+483 U.S. 402
+, 
+107 S.Ct. 2906
+, 
+97 L.Ed.2d 336
+ (1987). I concur in the disposition of point of error 75, believing the statements of Dr. McClendon were erroneously admitted but the error was harmless. Rule 81(b)(2).
+    
+With these comments, I join only the judgment of the Court.
+    
+MALONEY, Judge.
+    
+I join the opinion of the majority, but write separately to add some additional comments related to appellant’s points of error 107-110.
+    
+While I agree with the majority that the requested instruction on the defense of diminished capacity would have amounted to a comment on the weight of the evidence and was therefore properly denied, I write to caution that this conclusion should not be taken to mean that such a theory is not a viable one for the presentation of defensive evidence and argument. This Court has previously addressed the theory of diminished capacity,
+1
+ recognizing its validity but holding 
+*768
+that it was inapplicable under the facts of the case.
+    
+In 
+Cowles v. State, 
+510 S.W.2d 608
+ (Tex.Crim.App.1974), the defendant claimed the trial court erred in excluding at the guilt stage on a charge of rape psychiatric testimony that although the defendant knew the difference between right and wrong, he was nevertheless extremely disturbed and mentally ill, with poor judgment and reasoning which impaired his ability to control himself. The Court said that the great weight of authority held that such evidence, falling short of insanity, was not admissible. The Court recognized an exception to this rule, however:
+    
+An exception to this rule is where specific intent is an 
+element of the offense 
+for which the accused is being tried, as in the different degrees of murder and the “with intent” crimes.
+    
+      
+Id. 
+at 610
+. The Court held that such evidence was properly rejected in 
+Cowles 
+because specific intent was not an element of the crime at issue. 
+Id.
+      
+        
+2
+      
+    
+    
+Most of the state and federal courts recognize that evidence of diminished capacity is admissible to negate mental state. 
+See, e.g., United States v. Pohlot, 
+827 F.2d 889
+, 897 (3rd Cir.1987) (under Insanity Defense Reform Act evidence of mental disease or defect less than legal insanity admissible to disprove mens rea), 
+cert. denied, 
+484 U.S. 1011
+, 
+108 S.Ct. 710
+, 
+98 L.Ed.2d 660
+ (1988); 
+United States v. Frisbee, 
+623 F.Supp. 1217
+ (D.C.Cal.1985) (under new federal statute and rules, expert testimony on mental disease or defect admissible to negate specific intent); 
+State v. Burge, 
+195 Conn. 232
+, 
+487 A.2d 532
+, 539-40 (1985) (evidence of mental disease or defect admissible to demonstrate absence of intent, general or specific); 
+Hendershott v. People, 
+653 P.2d 385
+, 390-93 (Colo.1982) (violates due process to prohibit evidence of mental disease or defect to negate essential culpability element), 
+cert. denied, 
+459 U.S. 1225
+, 
+103 S.Ct. 1232
+, 
+75 L.Ed.2d 466
+ (1983); 
+State v. McKenzie, 
+186 Mont. 481
+, 
+608 P.2d 428
+, 452-53 (recognizing viability of diminished capacity defense under former common law and under current statute), 
+cert. denied, 
+449 U.S. 1050
+, 
+101 S.Ct. 626
+, 
+66 L.Ed.2d 507
+ (1980). These courts reason that evidence tending to negate or raise a reasonable doubt as to an 
+*769
+element of the State’s case is relevant and generally admissible.
+3
+ One court views barring such evidence as contrary to our adversary system and as a violation of due process:
+    
+A reasonable doubt as to guilt may arise not only from the prosecution’s case, but also from defense evidence casting doubt upon what previously may have appeared certain. Denying the defendant any opportunity to controvert the prosecution’s case by reliable and relevant evidence of mental impairment, in addition to cutting against our traditional concept of the adversary system, downgrades the prosecution’s burden to something less than that mandated by due process of law.
+    
+      
+Hendershott, 
+653 P.2d at 393
+; 
+see also Pohlot, 
+827 F.2d at 901
+ (suggesting that a rule barring evidence relevant to mens rea “may be unconstitutional”); 
+State v. Gonzales, 
+140 Adz. 349, 
+681 P.2d 1368
+, 1372 (1984) (exclusion of evidence of mental disease when relevant to a material issue is a denial of due process).
+    
+Accordingly, I join the majority’s opinion with the understanding that its holding does not limit the ability of a defendant to offer evidence and argument in support of a theory of diminished capacity.
+    
+      
+1
+      
+. A distinction should be made between diminished capacity as an “affirmative defense” and diminished capacity as evidence rebutting the element of mens rea. For instance, in 
+United States v. Pohlot, 
+the Third Circuit made this critical distinction in interpreting the Insanity Defense Reform Act as barring evidence of mental disease or defect as an “affirmative defense" that “excuses" conduct, but not as evidence that simply disproves an element of the offense. 
+827 F.2d 889
+, 897 (3rd Cir.1987), 
+cert. denied, 
+484 U.S. 1011
+, 
+108 S.Ct. 710
+, 
+98 L.Ed.2d 660
+ (1988). One commentator elaborated on the distinction between these concepts:
+      
+[T]he mens rea variant of diminished capacity is not a separate defense that deserves to be called "diminished capacity” or any other name connoting that it is some sort of special, affirmative defense!] The defendant is simply introducing evidence, in this case evidence of mental abnormality, to make the following claim: "I did not commit the crime charged because I did not possess the requisite mens rea.” This is not an affirmative defense whereby the defendant admits or has proved against him the elements of the crime charged, but then raises a claim of justification or excuse. Further, a defendant claiming no mens rea because of mental disorder is not asserting some lesser form of legal insanity, that is, he is not claiming Aat he is partially or less responsible for Ae crime charged. RaAer, Ae defendant is straightforwardly denying Ae prosecution’s prima facie case by attempting to cast doubt on Ae prosecution’s claim Aat a requisite mental element was present at Ae time of Ae offense. He is claiming Aat he is not guilty of Aat crime at all, alAough he may be guilty of a lesser crime if all Ae elements of the latter are proven.
+      
+Stephen J. Morse, 
+Undiminished Confusion in Diminished Capacity, 
+75-
+1 J.Crim. L. & Criminology 1
+, 6 (1984). In Ais opinion I speak in terms of Ae Aeoty of "diminished capacity” meaning evidence of mental disease or defect, not amounting to legal insanity, offered to negate mental state.
+      
+A Astinction should also be made between Ae terms “diminished capacity” and "Aminished responsibility." As explained above, in Ae case of "dimmished capacity,” evidence of mental abnormality is offered for Ae purpose of negating culpable mental state. If Ae evidence successfully negates Ae mental element, Ae defendant is not guilty of Ae offense. By contrast, under Ae doctrine of "diminished responsibility” the defendant is claiming Aat due to his mental abnormality, he is not fully responsible for Ae crime. The Aeoty is Aat "[e]ven if Ae technical elements of an offense are satisfied, Ae defendant is less culpable and should be convicted of a lesser crime, or, at least, should be punished less severely.” 
+Id. 
+at 20
+; 
+see also United States v. Pohlot, 
+827 F.2d 889
+, 903-06 (3rd Cir.1987) (distinguishing doctrine of Amimshed responsibility from negation of mental state).
+    
+    
+      
+2
+      
+. This Court spoke of diminished capacity in another case, 
+Wagner v. State, 
+687 S.W.2d 303
+ (Tex.Crim.App.1984). There, the defendant claimed that the exclusion of evidence of a physical condition at the guilt stage was error. The evidence was that shotgun pellets were situated in the defendant’s head and he was mentally infirm. In its opinion on original submission, the Court held that the defendant was not entitled to admission of such evidence since he was charged with "intentionally 
+or knowingly 
+” causing the victim’s death. The crime was therefore not a specific intent crime. 
+Id. 
+at 308
+ (op. on original submission) (citing Cowles). The Court granted the defendant’s motion for rehearing to reconsider whether the evidence should have been admitted on the issue of intent. 
+Id. 
+at 309
+ (op. on reh’g). On rehearing the defendant pointed out that the trial court in fact charged the jury conjunctively rather than disjunctively on culpable mental state, so that the jury was charged to find that the defendant "knowingly and intentionally” caused the death. We agreed with the defendant that the trial court's charge required the jury to find intent. 
+Id. 
+at 310-11
+ (op. on reh’g). However, we declined to accept the argument that the evidence of impaired mental functions was admissible at guilt under the facts of this case. We then inexplicably discussed the doctrine of diminished responsibility, confusing it with the doctrine of diminished capacity. Recognizing that other jurisdictions have held evidence of diminished capacity not amounting to insanity admissible to negate malice aforethought, we stated that although malice aforethought was not an element under § 19.02, when "sudden passion arising from an adequate cause” is raised it could function in the nature of a defense reducing the offense of murder to voluntary manslaughter; accordingly, if the defendant’s evidence showed sudden passion, “the doctrine of diminished responsibility would mandate that the evidence be admitted.” 
+Id. 
+at 311
+ (op. on reh’g). However, the evidence proffered in 
+Wagner 
+did not advance that issue and therefore was properly excluded:
+      
+The import of appellant’s proffered evidence is that the injury to his head possibly affects his impulse control, and that he seems to lack emotional contact with his surroundings. All that can be inferred from this evidence is that appellant may be more susceptible than the normal person to acting under the influence of a sudden passion. It does not further the proposition that appellant did in fact act under the influence of such a passion on the night of the offense_ Lack of normal impulse control is simply not a circumstance recognized by the Legislature to diminish criminal responsibility of an accused or reduce his crime to a lesser included offense.
+      
+        
+Id.
+      
+    
+    
+      
+3
+      
+. As explained by one commentator:
+      
+The “defense” at issue here, is one that at most simply negates a required state of mind. Like all such failure of proof defenses, it contains no special opportunity to exculpate the defendant apart from the standing requirements of the offense definition.... As long as a given state of mind is required by the offense definition, any evidence suggesting the absence of that required state of mind would necessarily be relevant and admissible, absent special restrictions, to determine whether all the required elements of the offense were satisfied.
+      
+Robinson, Paul H., Criminal Law Defenses § 64(a) at 276 (1984) (footnote omitted).
+      
+        
+Cowles 
+and 
+Wagner 
+indicate that in Texas evidence of mental disease or defect is admissible to negate specific intent, but not lesser culpable mental states. Such a rule, admitting evidence to negate specific intent but not other culpable mental states, has been severely criticized. 
+Id.
+at 277-78 (citing various criticisms of rule restricting such evidence to specific intent crimes). One commentator suggests that a rule of strict relevance would be more logically defensible and effective:
+      
+... evidence of mental disease or defect often has little bearing on whether the defendant acted with purpose, knowledge, recklessness, or negligence. The definitions of these terms do not call for a “normative” assessment of blameworthiness; rather they call for specific findings concerning the actor's state of mind with respect to the objective elements of the offense, e.g., was the actor aware that his conduct would cause the death of a human being. Evidence concerning disorders that lead to impaired ability to control conduct, for example, is simply not relevant to the culpability required by such offense definition. A rule of strict relevance may well do more to limit improper psychiatric testimony than an arbitrary and artificial rule based on such distinctions as specific and general intent.
+      
+Robinson, Paul H., Criminal Law Defenses § 64(a) at 38-39 (Supp.1993).
+    
+  

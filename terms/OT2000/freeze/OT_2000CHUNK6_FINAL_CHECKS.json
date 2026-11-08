@@ -1,0 +1,902 @@
+{
+  "status": "PASS",
+  "assignment_audit": [
+    {
+      "case": "Chen v. City of Houston",
+      "date": "2001-05-21",
+      "author": "Stevens",
+      "before": {
+        "Stone-Zsela": 6,
+        "Stevens": 7,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-21",
+        "case": "Bartnicki v. Vopper / United States v. Vopper",
+        "record": "Bartnicki_v_Vopper_United_States_v_Vopper_merits_2001-05-21.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "Wharf (Holdings) Ltd. v. United International Holdings, Inc.",
+      "date": "2001-05-21",
+      "author": "Thomas",
+      "before": {
+        "Stone-Zsela": 6,
+        "Stevens": 8,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-21",
+        "case": "United States v. Hatter",
+        "record": "United_States_v_Hatter_merits_2001-05-21.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "Appalachian Power Co. v. EPA",
+      "date": "2001-05-29",
+      "author": "Scalia",
+      "before": {
+        "Stone-Zsela": 6,
+        "Stevens": 8,
+        "O'Connor": 7,
+        "Scalia": 6,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-21",
+        "case": "Wharf (Holdings) Ltd. v. United International Holdings, Inc.",
+        "record": "Wharf_Holdings_Ltd_v_United_International_Holdings_Inc_merits_2001-05-21.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "Arkansas v. Sullivan",
+      "date": "2001-05-29",
+      "author": null,
+      "before": {
+        "Stone-Zsela": 6,
+        "Stevens": 8,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Appalachian Power Co. v. EPA",
+        "record": "Appalachian_Power_Co_v_EPA_merits_2001-05-29.md"
+      },
+      "eligible": [],
+      "pool": []
+    },
+    {
+      "case": "Atkinson Trading Co. v. Shirley",
+      "date": "2001-05-29",
+      "author": "Stone-Zsela",
+      "before": {
+        "Stone-Zsela": 6,
+        "Stevens": 8,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Appalachian Power Co. v. EPA",
+        "record": "Appalachian_Power_Co_v_EPA_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "Becker v. Montgomery",
+      "date": "2001-05-29",
+      "author": "Ginsburg",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Atkinson Trading Co. v. Shirley",
+        "record": "Atkinson_Trading_Co_v_Shirley_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "Booth v. Churner",
+      "date": "2001-05-29",
+      "author": "O'Connor",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 7,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Becker v. Montgomery",
+        "record": "Becker_v_Montgomery_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "Buckhannon Board & Care Home, Inc. v. West Virginia Department of Health and Human Resources",
+      "date": "2001-05-29",
+      "author": "Souter",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Booth v. Churner",
+        "record": "Booth_v_Churner_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "Harris v. Garner",
+      "date": "2001-05-29",
+      "author": "Scalia",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Buckhannon Board & Care Home, Inc. v. West Virginia Department of Health and Human Resources",
+        "record": "Buckhannon_Board_and_Care_Home_v_West_Virginia_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    },
+    {
+      "case": "New Hampshire v. Maine",
+      "date": "2001-05-29",
+      "author": "Kennedy",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "Harris v. Garner",
+        "record": "Harris_v_Garner_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "NLRB v. Kentucky River Community Care, Inc.",
+      "date": "2001-05-29",
+      "author": "Breyer",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "New Hampshire v. Maine",
+        "record": "new_hampshire_v_maine_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "PGA TOUR, Inc. v. Martin",
+      "date": "2001-05-29",
+      "author": "Stone-Zsela",
+      "before": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 9
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "NLRB v. Kentucky River Community Care, Inc.",
+        "record": "NLRB_v_Kentucky_River_Community_Care_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "United States v. Napier",
+      "date": "2001-06-01",
+      "author": "O'Connor",
+      "before": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 9
+      },
+      "last": {
+        "date": "2001-05-29",
+        "case": "PGA TOUR, Inc. v. Martin",
+        "record": "pga_tour_v_martin_merits_2001-05-29.md"
+      },
+      "eligible": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "Penry v. Johnson",
+      "date": "2001-06-04",
+      "author": "Souter",
+      "before": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 9
+      },
+      "last": {
+        "date": "2001-06-01",
+        "case": "United States v. Napier",
+        "record": "united_states_v_napier_merits_2001-06-01.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "Pollard v. E. I. du Pont de Nemours & Co.",
+      "date": "2001-06-04",
+      "author": "Thomas",
+      "before": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 9,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 9
+      },
+      "last": {
+        "date": "2001-06-04",
+        "case": "Penry v. Johnson",
+        "record": "penry_v_johnson_merits_2001-06-04.md"
+      },
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg"
+      ]
+    }
+  ],
+  "named_vote_audit": [
+    {
+      "key": "chen",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "wharf",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "appalachian",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "sullivan",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "atkinson",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "becker",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "booth",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [],
+      "vote": "9-0"
+    },
+    {
+      "key": "buckhannon",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposition": [
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "absent": [],
+      "vote": "5-4"
+    },
+    {
+      "key": "harris",
+      "support": [
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens"
+      ],
+      "absent": [],
+      "vote": "5-4"
+    },
+    {
+      "key": "new_hampshire_v_maine",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [
+        "Souter"
+      ],
+      "vote": "8-0"
+    },
+    {
+      "key": "pga_tour_v_martin",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposition": [
+        "Scalia",
+        "Thomas"
+      ],
+      "absent": [],
+      "vote": "7-2"
+    },
+    {
+      "key": "united_states_v_napier",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opposition": [
+        "Scalia",
+        "Thomas"
+      ],
+      "absent": [],
+      "vote": "7-2"
+    },
+    {
+      "key": "pollard_v_du_pont",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposition": [],
+      "absent": [
+        "O'Connor"
+      ],
+      "vote": "8-0"
+    },
+    {
+      "key": "kentucky_river",
+      "component": "Supervisory-exclusion",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "vote": "9-0"
+    },
+    {
+      "key": "kentucky_river",
+      "component": "Application to six nurses",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "vote": "5-4"
+    },
+    {
+      "key": "penry_v_johnson",
+      "component": "Psychiatric claim",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "vote": "9-0"
+    },
+    {
+      "key": "penry_v_johnson",
+      "component": "Mitigation claim",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "vote": "7-2"
+    },
+    {
+      "key": "kentucky_river",
+      "proposition": "Part III",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "count": 5
+    },
+    {
+      "key": "penry_v_johnson",
+      "proposition": "Part III",
+      "support": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stone-Zsela"
+      ],
+      "count": 5
+    }
+  ],
+  "final_counted_leads": 75,
+  "final_counts": {
+    "Stone-Zsela": 8,
+    "Stevens": 8,
+    "O'Connor": 9,
+    "Scalia": 8,
+    "Kennedy": 8,
+    "Souter": 9,
+    "Thomas": 8,
+    "Ginsburg": 8,
+    "Breyer": 9
+  },
+  "relative_links_checked": 911,
+  "frozen_handoffs": "hashes and runtime identity checked",
+  "record_hash_comparison": "Assignment receipt record_sha256 is normalized UTF-8 text before Windows newline conversion; byte hashes are separately recorded in the projection receipt.",
+  "repository_verification": "DEFERRED to operator; no repository commands run",
+  "errors": []
+}

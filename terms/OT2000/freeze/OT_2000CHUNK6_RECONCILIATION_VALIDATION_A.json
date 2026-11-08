@@ -1,0 +1,169 @@
+{
+  "scope": "Historical reconciliation, group A, OT2000 chunk 6",
+  "inputs": [
+    {
+      "path": "freeze/OT_2000CHUNK6_COMMITMENTS_chen.md",
+      "bytes": 8797,
+      "sha256": "7ecaaf2dd215d93ca90c7241b3f94d9e03fcf1aca06ece068a2c44638539a7ae"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_COMMITMENTS_wharf.md",
+      "bytes": 6259,
+      "sha256": "e907cb0439652febc72d2ab3f276b3940f9be74f43c828621d0dea33b69ae4b2"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_COMMITMENTS_appalachian.md",
+      "bytes": 9767,
+      "sha256": "3c9e20a55456ea535824ac981d8fc97c83f5fee4e71b8bcb2e046ad5021fd940"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_COMMITMENTS_sullivan.md",
+      "bytes": 10273,
+      "sha256": "d35b00bdaa79adb950ef2aee19b0574dc3fdc67e207a4c4666c031cfc587cf28"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_COMMITMENTS_atkinson.md",
+      "bytes": 8355,
+      "sha256": "768863da32864ed4437c57f267dbe89e893151be5b0b722ced335aa20141cb81"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_NEUTRAL.md",
+      "bytes": 146917,
+      "sha256": "0d7878f29c0db53809d97ae3ba0f3481f1ae65d1da10a9a11782953a5edada23"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_NEUTRAL_A.md",
+      "bytes": 13106,
+      "sha256": "6f7f89c893a5fb202cd0ffff0bdd10235279bcc8650febdbdb7a0717ef7e6b7c"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_CERT_COMMITMENTS_sullivan.md",
+      "bytes": 1830,
+      "sha256": "23f1fbbd327527c64df9c44f53ec88405693c4cf9e61b83bc18796203acc7b6b"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_NEUTRAL_WHARF_ENFORCEABILITY_ADDENDUM.md",
+      "bytes": 1008,
+      "sha256": "b67bf9e206ca7017834c9b87c84b70293cf4b33c9e47127adb8142df16e1c849"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_NEUTRAL_WHARF_REFRESH_VALIDATION.md",
+      "bytes": 4721,
+      "sha256": "4939d460cfcc4c3fbe6a3e6e2eb53f8b4cd885d00fc5b348897854ada1710469"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_COMMITMENTS_wharf_refresh.md",
+      "bytes": 7521,
+      "sha256": "4a87e231da0d9fb58f04768ec92ad3559f4aefdc660f9164cde6b245e2dc7904"
+    },
+    {
+      "path": "runtime/OT_2000CHUNK6_COMPARATOR.md",
+      "bytes": 17412,
+      "sha256": "966803c83bfa21c75d0c969563eb2ff564e8d4767093d97ac6526ff9853c351d"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_FOCUS.md",
+      "bytes": 60820,
+      "sha256": "ab5bedc39c0ff542b3c6406fc353fd6293addc2bdd82213c44d69670a306dbbc"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_CURRENT.md",
+      "bytes": 52290,
+      "sha256": "3fe6b121b74705af8e5f514a0957ea98c141ac07cc8a0478f411fd6b6e7c9b4a"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_PRIOR_PUBLIC.md",
+      "bytes": 59576,
+      "sha256": "3667de95767fb9d0032eea43bdcfbebf2588e90dd9c11736dd3c686a0bf94aa9"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_CHEN.md",
+      "bytes": 248505,
+      "sha256": "d9c8c79044586885d77408b1105b323bbf1e7e079a52c128be1499ba557dfbd4"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_WHARF.md",
+      "bytes": 254067,
+      "sha256": "c54614c0837292fdf491d594565be5736aa485dc442dd9f1b4c777261cde3c35"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_APPALACHIAN.md",
+      "bytes": 241566,
+      "sha256": "e26a756ee4164c9c5e65d8f0c2a8c3a9f2a84d69b5661b0cc674aea389040488"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_SULLIVAN.md",
+      "bytes": 985703,
+      "sha256": "9fbaa9373f47bda16b754cb58ead22af932fb8a4749e148fe7b05d484670d15d"
+    },
+    {
+      "path": "entering-law/OT_2000CHUNK6_A_ATKINSON.md",
+      "bytes": 69949,
+      "sha256": "ff6a385b53ec962c2710a08048db297fbc2e8dc34206647ee6d6823f0bdd8e33"
+    },
+    {
+      "path": "sources/chunk6-control/USREPORTS-532-588.txt",
+      "bytes": 22179,
+      "sha256": "dfb6681debfa3d0b51afb972386724923dfa31472e8f3f2b4b2cd2f5da24d2c5"
+    },
+    {
+      "path": "sources/chunk6-control/USREPORTS-532-645.txt",
+      "bytes": 36951,
+      "sha256": "bb8983ee5b8aa9dcaa8318c6a1761bd5777a6a1e5e802ac6e30b45ad957e0ab9"
+    },
+    {
+      "path": "sources/chunk6-control/USREPORTS-532-769.txt",
+      "bytes": 10931,
+      "sha256": "44a07c31eead5cf3b5939af24994c72bf9df3a34bf412a5c4dd85c64c048c946"
+    },
+    {
+      "path": "sources/CHUNK6_A/Chen_lower.txt",
+      "bytes": 105066,
+      "sha256": "3ab02acf0c1a79922c387a9872a951ab3c75b6b5873895f73335af43f89b9ebc"
+    },
+    {
+      "path": "sources/CHUNK6_A/Appalachian_lower.txt",
+      "bytes": 51026,
+      "sha256": "c89958c172f369a390c35ca0b82233b9d09aba35132481f8d73af3e76f4267fb"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "freeze/OT_2000CHUNK6_RECONCILED_chen.md",
+      "bytes": 6893,
+      "sha256": "8a9a69134c8ade99b916783fcfe4a984404e54e1d3841b497e9e01bcfbb58c75"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_RECONCILED_wharf.md",
+      "bytes": 7203,
+      "sha256": "a165f14762f2cffb77a51afe70d4eb7832b74d6efc6b944e6d6f9a4ab328cca7"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_RECONCILED_appalachian.md",
+      "bytes": 8378,
+      "sha256": "c92157cb7f2aecce304420ab94022aecb56962c6ae769426414a4834f398a352"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_RECONCILED_sullivan.md",
+      "bytes": 9716,
+      "sha256": "6f0b1b8f3f3987f210c45ed97cc07b625d344cebb1593c2fbe0548c65a2e4942"
+    },
+    {
+      "path": "freeze/OT_2000CHUNK6_RECONCILED_atkinson.md",
+      "bytes": 8970,
+      "sha256": "753ab39459afbb1478cb697be66f572555203994d106db556aaacd843ee9c56a"
+    }
+  ],
+  "checks": {
+    "five_outputs_exist": true,
+    "eight_associate_names_in_each": true,
+    "readiness_and_cutoff_present": true,
+    "prohibited_local_machine_references_absent": true
+  },
+  "limits": "Hashes identify supplied artifacts; they do not adjudicate legal meaning, establish source completeness automatically, or certify a repository commit.",
+  "receipt": {
+    "path": "freeze/OT_2000CHUNK6_RECONCILIATION_VALIDATION_A.md",
+    "bytes": 6260,
+    "sha256": "3e4c31416a1a6818cc7fe9fd715afc1430f5ff0b3436f10dfe7b4e26acbac0f7"
+  }
+}
