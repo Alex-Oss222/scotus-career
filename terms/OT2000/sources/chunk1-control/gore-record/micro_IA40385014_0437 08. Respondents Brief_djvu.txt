@@ -1,0 +1,2851 @@
+\ aad 
+
+
+No. 00-949 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+GEORGE W. BUSH AND RICHARD CHENEY, 
+Petitioners, 
+
+
+Vv. 
+
+
+ALBERT GORE, JR., ET AL.., 
+Respondents. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE SUPREME COURT OF FLORIDA 
+
+
+BRIEF OF RESPONDENT ALBERT GORE, JR. 
+
+
+David Boies Laurence H. Tribe 
+Robert Silver (Counsel of Record) 
+Boies, Schiller & Flexner Hauser Hall 420 
+
+
+80 Business Park Dr. 1575 Massachusetts Ave. 
+Suite 110 Cambridge, MA 02138 
+Armonk, NY 10504 
+Thomas C. Goldstein Ronald A. Klain 
+Amy Howe Andrew J. Pincus 
+4607 Asbury PI. NW Gore-Lieberman Recount Cmt. 
+Washington, DC 20016 430 S. Capitol St. 
+Washington, DC 20003 
+
+
+BE 
+
+
+—— 
+
+
+ST AVAILABLE COPY! | 
+
+
+rn ee eee ee ee we 
+
+
+(Counsel cont’d) 
+
+
+Jonathan S. Massey 
+3920 Northampton St. NW 
+Washington, DC 20015 
+
+
+Kendall Coffey 
+
+Coffey Diaz & O’Naghten 
+2665 South Bayshore Dr. 
+Miami, FL 33133 
+
+
+Peter J. Rubin 
+
+
+Georgetown Univ. Law Ctr. 
+
+
+600 New Jersey Ave. NW 
+Washington, DC 20001 
+
+
++ OP I ey, _ 
+
+
+QUESTIONS PRESENTED 
+
+
+I. Whether the Florida Supreme Court’s decision interpreting and 
+applying the provisions governing contest proceedings in 
+Florida’s Election Code according to established canons of 
+statutory construction violates Article II, § 1, cl. 2. 
+
+
+Il. Whether the Florida Supreme Court’s decision is inconsistent 
+with 3 U.S.C. § 5. - 
+
+
+Ill.Whether the Florida Supreme Court’s decision, enforcing 
+Florida’s contest provisions by ordering the manual review of 
+ballots not counted by machines under the legal standard for 
+determining their validity specified in Fla. Stat. § 101.5614, 
+violates either the Equal Protection Clause or Due Process 
+Clause of the Fourteenth Amendment. 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+The following individuals and entities are parties to the 
+proceeding in the court below: Governor George W. Bush, as 
+nominee of the Republican Party for President of the United 
+States; Richard Cheney, as nominee of the Republican Party for 
+Vice President of the United States; Vice President Al Gore, as 
+nominee of the Democratic Party for President of the United 
+States; Joe Lieberman, as nominee of the Democratic Party for 
+Vice President of the United States; Katherine Harris, as 
+of State, State of Florida; Katherine Harris, Bob Crawford, and 
+Laurence C. Roberts, individually and as members of the F lorida 
+Elections Canvassing Commission; the Miami-Dade County 
+Canvassing Board; Lawrence C. King, Myriam Lehr, and David 
+C. Leahy, as members of the Miami-Dade County Canvassing 
+Board, and David Leahy, individually and as Supervisor of 
+Elections; the Nassau County Canvassing Board: Robert E. 
+Williams, Shirley N. King, and David Howard (or, in the 
+alternative, Marianne P. Marshall), as members of the Nassau 
+County Canvassing Board, and Shirley N. King, individually and 
+as Supervisor of Elections; the Palm Beach County Canvassing 
+Board; Theresa LePore, Charles E. Burton, and Carol Roberts, as 
+members of the Palm Beach County Canvassing Board, and 
+Theresa LePore, individually and as Supervisor of Elections; and 
+Stephen Cruce, Teresa Cruce, Terry Kelly, Jeanette K. Seymour, 
+Matt Butler, John E. Thrasher, Glenda Carr, Lonnette Harrell, 
+Terry Richardson, Gary H. Shuler, Keith Temple, and Mark A. 
+Thomas, as Intervenors. 
+
+
+TABLE OF CONTENTS 
+
+
+StemdeetG . cc cccccccccescccssssesooccsesoreesers | 
+Opinions Below .....-------+eerrrrrrrssrrs 2 
+PasleMictOR . ...0cccccccsccccccccesccscesscsscessess 2 
+Constitutional and Statutory Provisions ......--+--++++++ 3 
+Statement of the Case ....-----seeceerrerrrre tt 3 
+Summary of Argument .....-.----ssserrrrrersse 8 
+ASQUMROME 2... ccc cccceecccnccencreccceesreseesee® 11 
+
+
+I. Article II Provides No Basis To Override The Florida Supreme 
+Court’s Decision .......---seceeceererrserrett 11 
+
+
+Il. The Florida Supreme Court's Decision Is Consistent With 3 
+WOE OF .ccccvcccdccceescccesdocasesesessesseses 27 
+
+
+Il. The Fourteenth Amendment Affords No Basis For This Court 
+To Set Aside Florida’s Established Statutory Proceedings For 
+Determining The Proper Outcome Of The Election ....--- 35 
+
+
+Cameethe oo. oc cnc cccccccccccsegencceccsessererss 50 
+
+
+iil 
+
+
+TABLE OF CITATIONS 
+
+
+CASES 
+Adams v. Robertson, 520 U.S. 83 (1997) occcccccccccccceocescooeoes 18 
+Beckstrom v. Volusia County Canvassing Bd., 
+
+707 So. 2d 720 (Fla. 1998) ooocecccccccccccccccecees 13, 30-31 
+Boardman v. Esteva, 323 So. 2d 259 (Fla. _ ee 31 
+Bolden v. Otter, 452 So. 2d 564 (Fla. 1984) .......-cccccceccessee. 13 
+Brinkerhoff-Faris Trust & Sav. Co. v. Hill, 281 U.S. 673 
+
+PIT ieelninieniiadeiitanciiainiaenicititiiastltaata tii i 49 
+Broward County Canvassing Bd. v. Hogan, 607 So. 2d 5086 
+
+ES I 36 
+Bush v. Gore, No. 00-949, Slip-op 
+
+PA IN I IID ssiicinintssicstniemstbeieasinieetaniacte passim 
+Bush v. Palm Beach County Canvassing Bd., No. 00-836, 
+
+Slip op. (U.S. Dec. 4, 2000) ooo. .cccecececcccsecceeeeees passim 
+Cardinale v. Louisiana, 394 U.S. 437 LAE nae 18 
+Cote v. State, 760 So. 2d 162 (Fla. Dist. Ct. App. 2000) 
+
+rh’g denied (May 8, 2000) .0.........cccccececescesessesseseees 13 
+Darby v. State, 75 So. 411 (Fla. 1917) cocccccccccccccssscseesee 31, 43 
+
+
+Delahunt v. Johnston, 671 N.E.2d 1241 (Mass. 43 
+
+
+Democratic Party of the Virgin Islands v. Board of 
+Elections, 649 F. Supp. 1549 (D.V.1. 1986) ........... 43 
+Eastern Enters. v. Apfel, 524 U.S. 498 ( EERE 47 
+
+
+os 
+
+
+Engle v. Isaac, 456 U.S. 107 (1982) ....sssecereserenenerensnenenenerees 48 
+Ex Parte Beattie, 245 So. 591 ( 1936) .....-----+-s-eeerrerenserseeers 37 
+Ex Parte Smith, 118 So. 306 ( 1928) ....-..ss-sssssseserenseeesseserens 37 
+Fladell v. Florida Elections Canvassing Comm'n, Nos. 00- 
+2372 & 00-2376, Slip op. (Fla. Dec. |, 2000) .......-. 24 
+Florida Soc'y of Opthalmology v. F' lorida Optometric Ass'n, 
+489 So. 2d 1118 (1986) .....-.cececeeceesenneenenrnnnenennnnee® 16 
+Garcia v. San Antonio Metropolitan Transit Auth., 469 U.S. 
+$28 (1985) ....cosssessesensenssnsesnseneenssnsenssnnanenssnssnennsnnensens 30 
+Gore v. Harris, No. 00-2808 (Fla. 2d Judicial Cir. Dec. 4, 
+DODO) .cecsoreeceecesecvesncsscseneessoenssnnnsnsenensnascsnssnssscsnesonses 36 
+Gregory v. Ashcroft, 501 U.S. 452 (1991) .....cecccceeereeeeeeerees 30 
+Gryger v. Burke, 334 U.S. 728 (1948) ....--ccceeceseerreneereseneens 48 
+Harden v. Garrett, 483 So. 2d 409 (Fla. 1985) ........+:+e+0000 13 
+Harper v. Virginia Dep't of Taxation, 509 U.S. 86 
+(1993) ..ascccoceccnscsnnsesssseenesensersnssnnnnsnnscnncnnecnncenseees 32, 47 
+Hickel v. Thomas, 588 P.2d 273 (Alaska 197B) ..c0.c.-ccceereees 43 
+Holland v. United States, 348 U.S. 121 (1954) ...-cceeceeereeeees 42 
+Johnson v. Texas, 509 U.S. 350 (1993) ...eseccseseeeeeeesereennnnsees 22 
+Lane v. Wilson, 307 U.S. 268 (1939) ...ecececsceeserersnsnenenenenenens 48 
+ow v. State, 760 So. 2d 114 (Fla. y. | | |) rr 14, 21 
+
+
+Marbury v. Madison, 5 U.S. 137 (1803) ........ athiaennetenianats 13 
+
+
+McPherson v. Blacker, 146 U.S. 1 (1892) 0... passim 
+McPherson v. Flynn, 397 So. 2d 665 (Fla. 1981) ............0+ 13 
+McQuagge v. Conrad, 65 So. 2d 1851 (Fla. 1953) ......... 36-37 
+
+
+Miami-Dade County Democratic Party v. Miami Dade County 
+Canvassing Bd., 25 Fla. L. Weekly D2723 (Fla. 3d 
+
+
+A. FRR. Fs FED cexrecerssnesessnssnrienntemermnens 36 
+Morissette v. United States, 342 U.S. 246 (1952) ...........0008 42 
+Morse v. Dade County Canvassing Bd., 456 So. 2d 
+
+RET | ee 36 
+NLRB vy. Americold Logistics, Inc., 214 F.3d 935 
+
+eee 44 
+NLRB v. Connecticut Foundry Co., 688 F.2d 871 
+
+eS 2 a 44 
+NLRB vy. Duriron Co., 978 F.2d 254 (CA6 1992) ...........0000 44 
+O'Brien v. Skinner, 414 U.S. 524 (1974) ....cccccccccceeeeeeeeeeeeees 40 
+Palm Beach Canvassing Bd. v. Harris, Nos. SC00-2346, 
+SC00-2348, & SC00-2349 (Fla. Nov. 19, 2000) ...........:.:0 4 
+Pullen v. Mulligan, 561 N.E.2d 585 (Ill. 1990) ...........:00000 43 
+Reynolds v. Sims, 377 U.S. 533 (1964) ....cccccccceeeeneeneeeees 2,41 
+Roe-v. Alabama, 43 F.3d 574 (CAL11 1985) ........cccccceeeeeeees 47 
+Roe v. Alabama, 68 F.3d 404 (CA11 1985) .........:cccceeeeeeeees 47 
+Roman v. Sincock, 377 U.S. 695 (1964) ......ccccccececeeeseeeeeeees 40 
+
+
+Romero v. Shadywood Villa Homeowners Ass'n, 657 
+So. 2d 1193 (Fla. Dist Ct. App. 1995) ..........ccccceeeees 13 
+
+
+Roudebush v. Hartke, 405 U.S. 15 (1972) coccccccccccsccseseseeeeees 39 
+
+
+Russell v. Gill, 715 So. 2d 1114 (Fla. Dist. Ct. App. 1998) . 42 
+
+
+Sawyer v. Smith, 497 U.S. 227 U.S. 227 (1990) coccccccccceseeee. 22 
+Siegel v. LePore, No. 00-15981, 2000 WL 1781946 
+
+Gams © CUD, G, FINI ceusecessesnnsssnensccnsisisinasntttienimmeaneats 41 
+Siegel v. LePore, No. 00-9009, 2000 WL 1687185 (S.D. Fla. 
+
+Tuas Gillis AUT. sacsiecainnatinseeesteticestasiaaleaiadstadtin anateiiaaice 4] 
+Smiley v. Holm, 285 U.S. 355 (1932) v.ccccccccccccceecseseseeeeees 8, 16 
+Stapleton v. Board of Elections, 82 F.2d 191 
+
+EE TET intinsiisaierninnbiatnierianisiiitinniiaestesitiaattaiainetins 43, 45 
+State ex rel. Carpenter v. Barber, 198 So. 49 (1940) .......... 37 
+
+
+State ex rel. Dahiman v. Piper, 69 N.W. 378 (Neb. 1896) .. 33 
+
+
+State ex rel. Davis v. Hildebrant, 241 U.S. 565 
+
+
+FEUPTED scnnemenninnstniniesenetaniineapabeataiatiessisiiiasiiani 8-9, 15, 18 
+State ex. rel. Drew v. McLin, 16 Fla. 17 (1876) ....ccccccecee000s 33 
+State ex rel. Knott v. Haskell, 72 So. 651 
+
+SP SUTTIED vecciisenctistnsinsicitacesiieeiieinntititamnteiaiitaa 33, 37 
+State ex re. Law v. Saxon, 5 So. 801 (1889) occccccccccccccsceeeeee 37 
+
+
+State ex rel. Nuccio v. Williams, 120 So. 310 
+I I cian iach a a 31,37 
+
+
+State ex rel. Peacock v. Latham, 170 So. 475 
+TEE onan a ae 31, 33, 37 
+
+
+State ex rel. Stephens v. Marsh, 221 N.W. 708 (Neb. 1928) 33 
+
+
+State ex rel. Titus v. Peacock, 170 So. 309 (1936) .............. 37 
+State v. Bird, 163 So. 248 (Fla. 1935) ..........cccrecsrrcersceeseeeees 16 
+State v. Sullivan, 116 So. 255 (Fla. 1928) .........ccecceceeceeeeeees 13 
+Street v. New York, 394 U.S. 576 (1969) ...........ccccceeceeeee 18-19 
+TCI West, Inc. v. NLRB, 145 F.3d 1113 (CA9 1998) .......... 44 
+Teague v. Lane, 489 U.S. 288 (1984) .......cccccceeeecesseeteeeeeees 22 
+Touchston v. McDermott, No. 00-15985, 2000 WL 1781942 
+GERD S SE, Gi, FIRE eecnisencntescsenesscsnsascensennemeenmianeahinn 4] 
+United States v. Classic, 313 U.S. 299 (1941) wo. eees 48 
+United States v. Morrison, 120 S. Ct. 1740 (2000) ............. 22 
+United States v. Mosley, 238 U.S. 383 (1915) .....ccceeeeeeeeeees 48 
+Wackenhut Corp. v. NLRB, 666 F.2d 464 (CA11 1982) ...... 44 
+Woods v. Sheldon, 69 N.W. 602 (S.D. 1896) ..........::cceeeeee 33 
+Wright v. Gettinger, 428 N.E.2d 1212 (Ind. 1981) .............. 43 
+Wyche v. Madison Parish Police Jury, 635 F.2d 1151 
+CD TE AR TED cecctsenssscsesenseseneninsvetcccsnsenssmenenes 42 
+STATUTES 
+JF ee OF FE | ere passim 
+Shs SIGE, GD, BS BA. cxnencsacizcensenersonssernensnenstementsencsnineninnin 16 
+
+
+BD CEB. © GBBT cccccnscccsscssesvesenesconecensentennessensvenmseqsessecesees 2, 21 
+
+
+SL DNATA ORE EATEN SS TI 28 
+
+
+SP ns SNAP siiiteiraicaeiencieinbininadibianiiiiiidaatie cada passim 
+PINE Uns UIET shicisiosanicdiesidantubindsiecasnnatciecebeinindiettadciiaetiadi passim 
+PP MEETEIRSIG WT sctessntonieecosentusibseiniciseincinidibandadenmndshibinitiaanidinitaaiaian 15 
+RS UREN RINNE RATS VER Aree 14 
+Fla. SR | ae nee ev eT TER 14 
+ee IN SII sitcsaiiciiteieniiciieiiahasicitinsbedabiaabdeaiis 38, 40 
+es BOW. RUE, © BaD ceersntsnciccccnccncncconestinnscsntenssons 38 
+Pe Sets POUT acsisscentonsecsicceneninsitedehienandatniandiaseanieaniie l 
+ay es IIIT ewsionettennsentessnienenicnnnctiabaniiintsiivestiinaeds 25, 39 
+5X fA RUE rne ne ne aN NEE passim 
+Ps Ins i UIE UTTED Gecilbbiniecciiepatenieninciibetitenimengentinienieatiias passim 
+PUIG UII N UIIIIDTD -sinesshichescenhahcnsibsieaentbetiihpehiahaalahasiadan 9 
+Se ts AD © FI ID  cccccenecncensnccsnesunsecennsnsnennnnens 38 
+SN NE EIIEIOD -cictrnsensnncienerenteninighdtniemininiendsenieniasinn 44 
+ee Nt ae TOED csiccistitssnticichcannsetlonnincenniianesentititaiaieiean 38 
+Sy ee I EIEIPTIED cischansssictelhdsisusstibartenteennniaiiaeitiiaainainiateartaeasiiabies 40 
+ee ay ITD ntietteitnciictinsntiininiinitandetispiciisiniimiaienianes 38, 40 
+Ss ee Ob IPED sissiiensctnesndiepedenecnienensnintontnimnisenings 38, 40 
+
+
+— 
+
+
+See I Oe SI eccsrosesicnittinseiniitcedcconiniinntesitnnaibtinlanadianeiiiaonnie 38 
+RE 8 ee 38 
+SI Maks SUMAIIDD scainicriscseninciiiniitensinnceitinsictenintaibetnmniiisienanieiiies 38 
+Se SE ae BEI cccccccnssntcninnsccnenicnionenieniinstinismeennn 39 
+es ae I ENENIIIIIT :apiisesntenihiretiesnnicsscnitannntsicianiannttiepiniaaiandesiianiciten 40 
+Se eID pcsiicitecintsinsidatinindiccshcaiesdaliiiditiadasitaitaniiaaass 40 
+RE RS ren eee eer eon eee 21 
+Neb. Rev. Stat. TIED wenntestasnenieniinntntiigemnnees 38 
+Pe. GRRW. TREE, BRAISED covseneccesesccssesccnenenmsescesssnmmnncnenann 38 
+I Oe PI. nttennsinininsincnitenitnientininrinesiminidteisiibciiin 38 
+ne REA ab EID  sisiiheiieiciseteaitanianndcicemeniinndieednndinninniataaeseited 41 
+eID etneitcartinnsieninnesennnieniianinniinnnitalininnneiviniin 38 
+ek CI Gi DOD cnniccsincninetscnciiinianstneensnssnsnastans 38 
+Bk Se EN INTUTE enseseccccceetmteinsonstemmesnstedennsnsteie 44, 45 
+ee eae SET sovseccnncnteininniatetaiintinbininesdiinnananians 4] 
+ee, a Ga ID ctcscscccentcsencesnsscccsenssincneennescee 38 
+8 en TEE IE 38 
+eee Nc REEDED <issestesintiseicesecniesibecsintesiiaaciieiicsinbinbeniiguinaiiniinbasiaianiati 38 
+re We I TD ceticerinsimrenninteniconinmmiianietineninentte 38 
+
+
+I scaiisilisicicinichntichinsesiiiaslnionsnianiniiei 38 
+
+
+ee ae TR wee 41 
+
+
+OTHER AUTHORITIES 
+
+15 Cong. Rec. 5547 (June-24, 1884) .0....... cc ceeeeceeseeeeeeeeeeeees 29 
+18 Cong. Rec. 30 (Dec. 7, 1886) ........essecsesesseeeenenteneeneneenens 30 
+Pe , SR.. Far Gt, Th, DID ccciscncncnctericenencsienettiniitennsseitines 29 
+neve UNED. nnE MENUINE scivececiciesesiepieiiasietaigetadcenibeiaiatbinitiaiiaainin 15 
+ee eR SIT TED ccincsinsesisnissiicinesseuincetiaimainesbiicibibibadasiaamibi 14 
+
+
+Ark. Op. Att'y Gen. No. 94-366, 1994 WL 70200 
+ESSERE AEN PERS LOD 33 
+
+
+Miss. Op. Att'y Gen. No. 1999-0697. 1999 WL 1333481 
+a 33 
+
+
+Tex. Op. Att'y Gen. No. JC-0293, 2000 WL 1515422 
+I Sieg RUE vicisncsiinicinasienicseadeiniesetiidinie 33 
+
+
+David Beiler, A Short in the Electronic Ballot Box, 
+Campaigns & Elections, (July/August, 1989) ......... 39 
+
+
+John W. Burgess, The Law of the Electoral Count, 
+ee ee ee PD  eeSeierenietntiinsinnttonntaiemennes 29 
+
+
+Ford Fessenden, Counting the Vote, N.Y. TIMES, 
+ERC REESE op seer eres seer ener eer 38 
+
+
+Paul L. Haworth, The Hayes-Tilden Disputed Presidential 
+I FPN sitcceictiniciniiitiensininithssmtiprvianinin 30 
+
+
+Joseph W. Little, The Need to Revise the Florida 
+Constitutional Revision Commission, 
+es ies Sa, IIE cchicitcceihhibainniinnihanahigbibian 16 
+
+
+Marlon Manuel, Recounts: Democratic Official Defends 
+Method That Bush Opposes, ATLANTA J. & 
+Eg: RAAEIEE? weisseieicienidactisniecsecnscneemasnmnscsedia 39 
+
+
+O’Mally, et al., Federal Jury Practice and Instructions, 
+Ee EET dinccisreninetinn. citiidnidiiahoiaiiisatienatansiniisia’ 42 
+
+
+Roy G. Saltman, Accuracy, Integrity, and Security in 
+Computerized Vote-Tallying, U.S. Dept of Commerce, 
+National Bureau of Standards (1988) ..0.....0..000000.. 38 
+
+
+Tony Winton, Experts: Machine Counts Inaccurate, AP 
+I ID ii 39 
+
+
+National Bureau of Standards Report, Effective Use of 
+Computing Technology in Vote-Tallying (1978) .... 38 
+
+
+INTRODUCTION 
+
+
+This case raises the most fundamental questions about the 
+legitimacy of political power in our democracy. In this case, the 
+Court will decide whether the Electors for President of the United 
+States, and thus the President of the United States himself, will be 
+chosen by ascertaining the actual outcome of the popular vote in 
+Florida in the election of November 7, 2000, or whether the 
+President will instead be chosen without counting all the ballots 
+lawfully cast in that state. The Florida Supreme Court has 
+determined, in a way that would be unremarkable but for the 
+stakes in this election, that in order to determine whether lawfully 
+cast ballots have been wrongfully excluded from the certified vote 
+tally in this election, they must be examined. This is basic, 
+essential to our democracy, and to all that gives it legitimacy. 
+
+
+The central question posed by this case is whether any 
+provision of federal law legitimately forecloses the Florida 
+Supreme Court from interpreting, applying, and enforcing the 
+statutes enacted by the Florida Legislature to determine all 
+election contests and ascertain the actual outcome of the popular 
+vote in any such election. See Fla. Stat. § 102.168; see also 
+Florida Election Code, Fla. Stat. §§ 97.011-106.37. This process 
+~ which operates by popular vote and employs administrative and 
+judicial processes when needed to ascertain which candidate has 
+prevailed — is the only provision by which the Florida Legislature 
+has established the manner of appointing Florida’s Presidential 
+electors in the 2000 general election. They are common 
+provisions that have been adopted and utilized for decades in the 
+vast majority of the States. See infra. These statutes expressly 
+provide for “judicial determination” of any contest to determine 
+the rightful winner of an election, as called for by 3 U.S.C. § 5. 
+Those statutes having been faithfully applied by the Florida 
+Supreme Court in this case, the question is whether this Court may 
+properly override Florida’s own state-law process for determining 
+the rightful winner of its electoral votes in this Presidential 
+election. 
+
+
+Such intervention would run an impermissible risk of tainting 
+the result of the election in Florida — and thereby the nation. For 
+
+
+2 
+
+
+this Court has long championed the fundamental right of all who 
+are qualified to cast their votes “and to have their votes counted.” 
+Reynolds v. Sims, 377 U.S. 533, 554 (1964). Petitioners’ request 
+that this Court intervene in a state electoral process to ensure that 
+votes are not counted turns Sims on its head. In the end, 
+notwithstanding fears as to how “counting of [the] votes” may 
+“cast{] a cloud upon what [Governor Bush] claims to be the 
+legitimacy of his election,” Bush v. Gore, No. 00-949 (A-504), 
+Slip op. at 2 (Dec. 9, 2000) (Scalia, J., concurring), there can be 
+little doubt that a count of the still uncounted votes, as the Florida 
+Supreme Court ordered in this case, will eventually occur. The 
+only question is whether these votes will be counted before the 
+Electoral College meets to select the next President, or whether 
+this Court will instead relegate them to be counted only by 
+scholars and researchers under Florida’s sunshine laws, after the 
+next President is elected. Nothing in federal law, the United 
+States Constitution, or the opinions of this Court compel it to 
+choose the second course over the first. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Florida Supreme Court in the contest 
+proceeding is unreported and is set forth in Exhibit A to the 
+application for stay. The order of the Leon County Circuit Court 
+in that proceeding is unreported and is set forth in Exhibits B and 
+C to the stay application. The opinion of this Court in a distinct 
+but related case involving many of the same parties, see Bush v. 
+Palm Beach County Canvassing Bd., No. 00-836, Slip op. (U.S. 
+Dec. 4, 2000) (per curiam) (hereinafter Palm Beach County), is 
+reported at 2000 WL 1769093 and is set forth in Exhibit D to the 
+Stay application. 
+
+
+JURISDICTION 
+
+
+The Florida Supreme Court entered judgment on December 8, 
+2000. An application for stay was filed on the same day. On 
+December 9, 2000, the stay was granted; the application was 
+treated as a petition for certiorari that also was granted. This 
+Court has jurisdiction under 28 U.S.C. § 1257 to review the 
+
+
+3 
+
+
+judgment of the Florida Supreme Court. 
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+The constitutional and statutory provisions at issue are 
+reproduced in the appendix to this brief. See S. Ct. R. 24.1(f). 
+
+
+STATEMENT OF THE CASE 
+
+
+This case arises from a contest proceeding under the Florida 
+Election Code to ascertain which Presidential candidate is the 
+rightful winner of Florida’s electoral votes in the 2000 general 
+election. See Fla. Stat. § 102.168. Florida’s election law 
+establishes two distinct phases for the resolution of disputes 
+regarding the outcome of an election. The first phase — the 
+“protest” action — runs from election day through the certification 
+of the election’s results. It involves the reports of county 
+canvassing boards to the Secretary of State and Elections 
+Canvassing Commission, and the resolution by the county 
+canvassing boards of any protests filed pursuant to Fla. Stat. 
+§ 102.166. This aspect of Florida’s election law was before this 
+Court in Palm Beach County Canvassing, supra, which sets out in 
+more detail the factual background to this case. See id., Slip op. 
+at 1-4. 
+
+
+The second, post-certification phase for resolution of election 
+disputes is the “election contest action” created by the Legislature 
+in Fla. Stat. § 102.168. That law provides that “the certification 
+of election * * * of any person to office * * * may be contested in 
+the circuit court by any unsuccessful candidate for such office * 
+* * or by any elector qualified to vote in the election related to 
+such candidacy.” One of the legislatively specified grounds for 
+contesting any election is the “rejection of a number of legal votes 
+sufficient to change or place in doubt the result of election.” /d. 
+§ 102.168(3)(c). The Legislature expressly provided the state's 
+courts with broad authority both to investigate claims in contest 
+actions and to fashion “any relief appropriate under such 
+circumstances.” Jd. § 102.168(8). 
+
+
+Indeed, throughout the litigation over the certification results, 
+
+
+~ 
+
+
+4 
+
+
+petitioners themselves identified the contest procedure as the 
+proper manner in which respondent Gore could seek a remedy for 
+the problem of uncounted votes in Florida. See, e.g., Answer 
+Brief of George W. Bush before the Florida Supreme Court in 
+Palm Beach County Canvassing Bd. v. Harris, Nos. SC00-2346, 
+SC00-2348, & SC00-2349, at 18 (filed Nov. 19, 2000) (accusing 
+respondent Gore of “substitut[ing] the certification process of 
+Section 102.111 and Section 102.112 for the contested election 
+process of Section 102.168 as the means for determining the 
+accuracy of vote tallies”). As the Florida Supreme Court 
+recounted in its opinion below: 
+
+
+Bush’s counsel, Michael Carvin, in the prior Oral Argument 
+in Palm Beach Canvassing Board v. Harris, in arguing against 
+allowing manual recounts to continue in the protest phase, 
+stated that he did not 
+
+
+think there would be any problem in producing...that kind 
+of evidence in an election contest procedure...instead of 
+having every court in Florida resolving on an ad hoc basis 
+the kinds of ballots that are valid and not valid, you would 
+be centralizing the factual inquiry in one court in Leon 
+County. So you would bring some orderliness to the 
+process, and they would be able to resolve that evidentiary 
+question. 
+
+
+Slip op. 6 n.7 (emphasis added and omitted). 
+
+
+Accordingly, on November 27, 2000, following the 
+certification of Governor Bush as the winner of the Presidential 
+election in Florida, Vice President Gore followed petitioners’ 
+recommended course of action and commenced this election 
+contest action under Section 102.168 in Leon County Circuit 
+Court. The complaint raised five claims: 
+
+
+(1) it challenged the rejection of 215 net legal votes for 
+respondent Gore identified by the Palm Beach County 
+Canvassing Board that had been excluded from the 
+certified vote totals, Complaint 4 3(a), 60; 
+
+
+. eipeiacaaneceaanaiaiia eel 
+
+
+5 
+
+
+(2) it challenged the rejection of 168 net legal votes for Vice 
+President Gore identified by the Miami-Dade County 
+Canvassing Board also excluded from the certified vote 
+totals, id. at ¥4 3(a), 37; 
+
+
+(3) it challenged the inclusion in the certified totals of the 
+election night returns from Nassau County in place of the 
+machine recount tabulation required by Fla. Stat. § 
+102.141 to be used to determine the certified totals, id. at 
+
+
+14 3(b), 41; 
+
+
+(4) it argued that the court should review approximately 9000 
+Miami-Dade County ballots that were not counted by the 
+machines,’ because — among other reasons — review of 
+approximately 2000 similar ballots by the county 
+canvassing board yielded nearly 400 legal votes, id. at { 
+3(d); and 
+
+
+(5) it challenged the rejection of 3300 legal votes in Palm 
+Beach County during the county canvassing board’s 
+manual recount. /d. at ¥ 3(c). 
+
+
+~ es 
+
+
+Following a two-day trial, the circuit court entered judgment 
+for petitioners and the other defendants on all claims. Final 
+Judgment Order, Sauls, J. (Dec. 4, 2000). Three of the circuit 
+court’s determinations were relevant to its refusal even to examine 
+the 9000 Miami-Dade County ballots that were introduced into 
+evidence during the trial. First, the court held that the ballots 
+should not be reviewed because the Miami-Dade County 
+Canvassing Board did not abuse its discretion in terminating its 
+manual recount pursuant to Section 102.166. Tr. of Ruling, Sauls, 
+J. (Dec. 3, 2000), at 10. Second, the court held that respondent 
+Gore was required to establish a “reasonable probability that the 
+results of the election would have been changed” before the court 
+
+
+‘These ballots are often called “undervotes.” Tr. Contest Trial at 180 
+(Dec. 2, 2000). They are ballots which have not been counted as votes for 
+President, notwithstanding that on visual inspection they may evidence a 
+voter's intent to cast a vote for President. 
+
+
+6 
+
+
+could review the ballots and that respondent Gore had failed to 
+carry that burden. /d. at 9. And third, the court held that, in an 
+election contest action, the court may not review only the 
+contested ballots but rather must review all ballots cast or no 
+“ballots at all. Jd. at 12. 
+
+
+The Florida Supreme Court affirmed in part and reversed in 
+part. The court affirmed the judgment regarding both the ballots 
+from Nassau County and the. rejection, after review, of 3300 
+ballots by the Palm Beach County Canvassing Board. Slip op. at 
+33, 35. The court reversed, however, as to the exclusion of ballots 
+which the Palm Beach and Miami-Dade Canvassing Boards had 
+determined to represent valid votes, holding that valid ballots may ; 
+not de disregarded in an election contest simply because they were 
+not identified prior to the close of the county certification process. 
+Id. at 35. Most significant for present purposes, the court held that 
+respondent is “entitled to a manual count of the Miami-Dade 
+County undervote,” but also that the Florida Election Code 
+authorized as an appropriate remedy “a counting of the legal votes 
+contained within the undervotes in all counties where the 
+undervote has not been subjected to a manual tabulation.” Slip op. 
+at 2; see id. at 28-32, 38-40. 
+
+
+Mindful of the impending deadline for resolution of the 
+contest action contained in the safe harbor provision of 3 U.S.C. 
+§ 5, the court reversed with instructions to the circuit court to 
+“commence * * * tabulation of the * * * ballots immediately.” 
+Slip. op. at 39. On remand, after the Florida Supreme Court’s 
+decision, the state circuit court conducted a hearing — the very 
+same evening -— to establish practical guidelines and judicial 
+supervision of the process to ensure the fairness of the recount. In 
+election contest actions, the Florida Legislature has specifically 
+conferred this judicial authority to “fashion such orders as [the 
+court] deems necessary to ensure that each allegation in the 
+complaint is investigated, examined, or checked, to prevent or 
+correct any alleged wrong, and to provide any relief appropriate 
+under such circumstances.” Fla. Stat. § 102.168(8). The circuit 
+court exercised that authority here to establish orderly procedures 
+
+
+7 
+
+
+for a statewide manual count of undervotes throughout Florida. 
+Tr. of Hearing Before the Hon. Terry Lewis (Dec. 8, 2000); Order 
+on Remand (Dec. 9, 2000). 
+
+
+As to the roughly 9000 undervotes (ballots for which the 
+machine did not record a vote) in Miami-Dade County, the circuit 
+court established the following procedures: (1) beginning at 8:00 
+a.m. Saturday, the Miami-Dade County undervote ballots would 
+be reviewed in the Leon County Public Library by the Supervisor 
+of Elections of Dade County, in consultation with the Supervisor 
+of Elections in Miami-Dade County; (2) the Supervisor would be 
+permitted to rely on the Clerk of the Court and his staff; (3) two 
+judges from the Second Judicial Circuit would oversee the 
+counting teams; (4) those two judges would be directed to resolve 
+any dispute about ballots; (5) if those judges could not resolve the 
+dispute, Judge Lewis would resolve the dispute; (6) one person for 
+the Democratic Party and one person for the Republican Party 
+would be permitted to observe the count; (7) oral objections would 
+not be permitted, but would be required to be reduced to writing 
+and submitted to the state circuit court; (8) the counting room 
+would be open to the public and the press; and (9) the circuit court 
+would aim to complete the count by 2:00 p.m on Sunday. Lewis 
+Hrg. Tr. 1-8; Order on Remand 1-2. 
+
+
+As for the other counties, the circuit court established the 
+following guidelines: (1) only “undervotes” would be reviewed; 
+(2) the Canvassing Boards would be directed to implement 
+procedures for manually counting the votes, just as they have 
+traditionally done under existing Florida law; (3) judges from 
+throughout the State could be requested to help resolve disputes 
+that might arise during the recounts; (4) by 12:00 p.m. Saturday, 
+December 9, 2000, the County Canvassing Boards would be 
+requested to fax their plans, protocols, and estimated time 
+schedules to the Leon County Court administrator for the court’s 
+review; and (5) the Boards would aim to complete their work by 
+2:00 p.m. Sunday. Lewis Hrg. Tr. 1-8; Order on Remand 2-3. 
+
+
+The circuit court applied the Florida Supreme Court’s holding 
+that the counting teams were to follow the traditional legal 
+
+
+8 
+
+
+standard under Florida law, as set forth by the Supreme Court, for 
+determining whether a valid vote has been cast. In short, the 
+circuit court’s guidelines set forth a conventional, uniform process 
+for implementing the court-ordered counting of votes in accord 
+with the Florida Legislature’s designated manner of conducting 
+elections. The procedures put in place promise to produce a full, 
+fair, and accurate statewide count of the undervote in accordance 
+with the Florida Supreme Court’s ruling that faithfully 
+implemented the applicable provisions of Florida’s Election Code, 
+which unambiguously provides for judicial determination of 
+election contests. See Fla. Stat. § 102.168. 
+
+
+By Order of December 9, 2000, this Court granted a stay 
+halting the ongoing counts. The Court also treated the Stay 
+Application as a Petition for Certiorari, which it granted. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This Court should immediately vacate its stay and affirm the 
+Florida Supreme Court’s judgment. 
+
+
+I. The Florida Supreme Court’s decision is fully consistent 
+with Article II, § 1, cl. 2. Petitioners’ primary argument to this 
+Court — which is flatly contrary to petitioners’ position in the 
+Florida courts — is that the mere assertion of appellate jurisdiction 
+by the Florida Supreme Court violated Article II, § 1, cl. 2. This 
+argument lacks merit because Article II, § 1, cl. 2 presupposes the 
+existence of authority in each state to structure the internal 
+processes and organization of each of its governmental branches; 
+judicial review and interpretation of Florida’s election statutes is 
+a necessary legislative assumption. In any event, the Florida 
+Legislature itself drafted, proposed, and approved through 
+bicameral passage the very provisions of its constitution that 
+provide for appellate jurisdiction. The grant of jurisdiction 
+contained in those provisions, as much as an ordinary Florida 
+statute granting courts jurisdiction, thus was accomplished by the 
+Legislature. Further, petitioners’ newfound argument is also 
+foreclosed by this Court’s longstanding precedents. See, e.g., 
+Smiley v. Holm, 285 U.S. 355 (1932); State ex rel. Davis v. 
+
+
+9 
+
+
+Hildebrant, 241 U.S. 565 (1916); McPherson v. Blacker, 146 U.S. 
+1 (1892). 
+
+
+In addition, petitioners’ pejorative characterizations of the 
+Florida Supreme Court’s decision are unfounded and highly 
+irregular. In its ruling, the Florida court did not “make law” or 
+establish any new legal standards that conflict with legislative 
+enactments. Rather, the court engaged in a routine exercise of 
+statutory interpretation that construed the Florida Election Code 
+according to the Legislature’s designated “manner” for choosing 
+electors in a statewide election. See Fla. Stat. § 103.111. 
+
+
+II. Petitioners’ argument under 3 U.S.C. § 5 is insubstantial. 
+It is not at all apparent how petitioners’ current incarnation of this 
+argument even raises a federal question: it is clear — and not now 
+contested by petitioners — that 3 U.S.C. § 5 simply establishes a 
+safe harbor for States that wish to make use of it. There is no 
+dispute here about the meaning of 3 U.S.C. § 5. And there can be 
+no doubt that the Florida Supreme Court was attentive to the terms 
+of the statute and took into account the relevance of 3 U.S.C. § 5 
+in determining the intent of the Florida Legislature. In any event, 
+nothing in the decision below even remotely creates “new law” in 
+a manner that runs afoul of the terms of 3 U.S.C. § 5, or that 
+affects Florida’s entitlement to that provision’s safe harbor. The 
+court engaged in a perfectly ordinary exercise of statutory 
+construction, and it surely cannot be the case that the law 
+“changes” when a jurisdiction’s highest court settles the meaning 
+of state law. In fact, because the circuit court’s decision departed 
+from the plain language of the Florida Election Code, under 
+petitioners’ theory reversal of the judgment below will deprive 
+Florida’s electors of the safe harbor of Title 3. 
+
+
+III. Finally, the Florida Supreme Court’s judgment is fully 
+consistent with equal protection and due process. Until now, 
+petitioners have steadfastly taken the position before the Florida 
+courts that, consistent with settled Florida law, a contest action is 
+the proper means by which respondent should challenge the vote 
+count in this election. It is inconsistent for them now to object to 
+the very contest procedure they previously endorsed. 
+
+
+10 
+
+
+Moreover, contest actions under Florida law relate only to the 
+ballots which one side or the other contests — virtually every 
+Florida election contest case involves a small fraction of the votes 
+cast in the contested election. 
+
+
+In any event, the Florida Supreme Court’s order to review the 
+ballots from Miami-Dade County is consistent with established 
+state law. The Florida Supreme Court’s order of a manual 
+tabulation of ballots that were recorded as “no votes” is also 
+consistent with state law. Nor does the “voter intent” standard set 
+by Florida law violate the Equal Protection Clause. 
+
+
+The Florida Supreme Court has ordered not the “selective” 
+recount of which petitioners have complained but a statewide 
+recount of all uncounted ballots in every Florida county that had 
+not already completed a manual recount. Indeed, the Florida 
+Supreme Court expressly granted petitioners the relief they sought 
+with respect to a statewide recount; petitioners are in no position 
+to complain about a point on which they prevailed. 
+
+
+Petitioners’ allegations about the manner in which they say the 
+manual counts have been conducted have no support in the record 
+and are based on unsubstantiated rumors, untested “evidence,” and 
+biased ex parte submissions. In fact, the recounts have been 
+conducted in full public view by counting teams made up of 
+representatives from different political parties, with the 
+supervision of a three-member canvassing board that includes a 
+sitting county judge and review by the Florida judiciary. The 
+circuit court developed lengthy and detailed guidelines to ensure 
+uniformity and accuracy. If there are anecdotal instances of 
+isolated mistakes or inaccuracies during recounts, petitioners have 
+ample remedies available to them under Florida law and Florida 
+procedure to secure full redress. In the end, petitioners’ argument 
+amounts to a charge that the system of manual recounts, expressly 
+authorized by Florida statute and previously used in innumerable 
+instances over the years by Florida (and States throughout the 
+country), is unconstitutional on its face. Such an ambitious and 
+far-reaching claim has no legal support whatsoever. 
+
+
+1] 
+
+
+The judgment should be affirmed. Because of the pressing 
+need to complete the counting of votes, we ask that the stay be 
+lifted immediately. 
+
+
+_ARGUMENT 
+
+
+I. Article I] Provides No Basis to Override the Florida 
+Supreme Court’s Decision. 
+
+
+Petitioners contend that the Florida Supreme Court’s decision 
+“established new standards * * * that conflict with legislative 
+enactments and thereby violate Article II, Section 1, Clause 2 of 
+the United States Constitution.” Stay App. at 2 (Question 
+Presented 1). 
+
+
+Six days ago, in Bush v. Palm Beach County, No. 00-836, 531 
+_ U.S. __ (U.S. Dec. 4, 2000) (per curiam), this Court addressed a 
+claim put forward by petitioner Bush that the decision of the 
+Supreme Court of Florida in Harris v. Palm Beach County under 
+the Florida Election Code’s protest provision (Fla. Stat. § 
+102.166) ran afoul of this same constitutional provision. 
+Petitioner there argued that “Article II precludes judicial 
+lawmaking.” See Bush Br. in Palm Beach County at 46. In 
+particular, petitioner Bush relied upon McPherson v. Blacker, 146 
+U.S. 1, 35 (1892), for the proposition that, in interpreting state 
+statutes relating to the appointment of electors, the Florida court 
+had run afoul of the provision of the U.S. Constitution giving the 
+state legislature the power to determine the manner of 
+appointment of electors. Petitioner Bush argued that the infirmity 
+in the Harris decision was that the Florida court’s construction of 
+the provisions concerning certification of election results did not 
+rest on “any statute.” Bush Br. in Palm Beach County at 47. 
+Petitioner Bush did not suggest that the Florida Supreme Court 
+was disabled from exercising appellate review in that case — even 
+though the protest provision of Section 102.166 (unlike the contest 
+provision of Section 102.168) makes no reference at all to judicial 
+review by any Florida court. Nonetheless, petitioner Bush freely 
+acknowledged that the Florida Court could issue “directive[s] 
+founded in pre-existing law.” Bush Br. at 48. “Petitioner has 
+
+
+12 
+
+
+never contended that state courts * * * are precluded by Article II 
+from construing laws relating to elections.” Bush Reply Br. in 
+Palm Beach County at 9 n.6. 
+
+
+This much was common ground about Article II underlying 
+this Court’s per curiam opinion in Palm Beach County. This 
+Court, of course, “decline[d] * * * to review the federal questions 
+asserted” by petitioner Bush “to be present.” Slip op. at 6. It did 
+so because there was “ambiguity” about “the extent to which the 
+Florida Supreme Court saw the Florida Constitution as 
+circumscribing the Legislature’s authority under Art. II, § 1, cl. 2.” 
+Id. at 7. Specifically, this Court could not determine whether the 
+Florida court intended that its conclusions rest solely upon 
+traditional canons of statutory interpretation, or depended upon the 
+State constitution as an independent and overriding source of law.” 
+Indeed, this Court exercised jurisdiction by vacating the judgment 
+below. See id. 
+
+
+1. Recognizing that they have no good claim under the Article 
+II theory presented to this Court just six days ago, petitioners now 
+put forward a radical new proposition in the name of Article II: 
+that the highest appellate court of the state may not exercise its 
+ordinary appellate jurisdiction over decisions of lower state courts 
+where its jurisdiction is granted by the state constitution rather 
+than in legislation dealing specifically with presidential elections. 
+
+
+Even apart from the absurd theory that McPherson requires 
+everything relevant to a state’s process for choosing electors to be 
+
+
+? See id. at 5 (“There are expressions in the opinion of the Supreme Court 
+of Florida that may be read to indicate that it construed the Florida Election 
+Code without regard to the extent to which the Florida Constitution could, 
+consistent with Art. Il, § 1, cl. 2, ‘circumscribe the legislative power.’ The 
+opinion states, for example, that ‘to the extent that the Legislature may enact 
+laws regulating the electoral process, those laws are valid only if they 
+impose no “unreasonable or unnecessary” restraints on the right of suffrage’ 
+guaranteed by the state constitution. App. to Pet. for Cert. 30a. The 
+opinion also states that ‘because election laws are intended to facilitate the 
+right of suffrage, such laws must be liberally construed in favor of the 
+citizens’ right to vote... .’ /bid.”). 
+
+
+13 
+
+
+packed into a specialized presidential electoral code, the very 
+premise of petitioners’ argument is fatally flawed because the 
+Florida Legislature re-enacted the contest statute in 1999 against 
+the settled background rule that decisions of circuit courts in 
+contest actions are subject to appellate review. See, e.g., 
+Beckstrom v. Volusia County Canvassing Bd., 707 So. 2d 720 
+(Fla. 1998); Harden v. Garrett, 483 So. 2d 409 (Fla. 1985); 
+Bolden v. Otter, 452 So. 2d 564 (Fla. 1984); McPherson v. Flynn, 
+397 So. 2d 665 (Fla. 1981). “It is an elementary principle of 
+statutory construction that in determining the effect of a later 
+enacted statute, courts are required to assume that the Legislature 
+passed the latter statute with knowledge of the prior existing 
+laws.” Romero v. Shadywood Villa Homeowners Ass'n, 657 So. 
+2d 1193, 1195-96 (Fla. Dist. Ct. App. 1995). Under Florida law, 
+therefore, in referring to the “circuit court” in Section 102.168, the 
+Legislature necessarily intended to encompass the ordinary 
+accouterments of appellate review of circuit court decisions. Cf. 
+Marbury v. Madison, 5 U.S. 137, 177 (1803) (“It is emphatically 
+the province and duty of the judicial department to say what the 
+law is.”). Under Florida law, legislative provisions granting 
+jurisdiction to the Circuit Court, without any express limitations, 
+are always taken to include appellate review. See, e.g., State v. 
+Sullivan, 116 So. 255 (Fla. 1928); Cote v. State, 760 So. 2d 162 
+(Fla. Dist. Ct. App. 2000), rh’g denied (May 8, 2000). It 
+accordingly is no surprise that the Legislature filed an amicus 
+brief in this Court in the Palm Beach County matter that expressly 
+recognizes the jurisdiction of the state’s Supreme Court. Br. of 
+Florida Senate & House of Representatives, No. 00-836, Bush v. 
+Palm Beach County Canvassing Board, at 9 (“Florida has in place 
+an election code for the resolution of disputes and a court system, 
+including a Supreme Court, with the usual judicial powers of such 
+courts.” (emphasis added)). Thus, the statute itself supplies the 
+necessary authority for review here. 
+
+
+Even petitioners do not try to explain why the Legislature 
+would have wanted to endow a single circuit judge with final 
+authority to decide these cases. Instead, all indications are that the 
+Legislature intended this statute to be governed by the settled 
+
+
+14 
+
+
+principle of Florida law that the state supreme court has appellate 
+jurisdiction over all matters determined in the lower courts unless 
+the Legislature expressly precludes such review. See, e.g., 
+Leonard v. State, 760 So. 2d 114, 118 (Fla. 2000) (Florida statutes 
+are traditionally construed to preserve judicial review “rather than 
+limiting the subject matter of the appellate courts”). That, of 
+course, is a principle with which the Florida Legislature is quite 
+familiar. 
+
+
+2. In any event, it is plain that Article [I] would not have been 
+implicated at all had the court below premised its jurisdiction on 
+the Florida Constitution, because Article II, § 1, cl. 2 presupposes 
+the existence of authority in each state to structure the internal 
+processes and organization of each of its governmental branches; 
+and because, in any event, the Florida Legislature itself drafted, 
+proposed, and approved through bicameral passage the very 
+provisions of its constitution that provide for appellate 
+jurisdiction. The grant of jurisdiction contained in those 
+provisions, as much as an ordinary Florida statute granting courts 
+jurisdiction, thus was accomplished by an act of the Legislature, 
+and nothing in Article II, § 1, cl. 2, requires that all the provisions 
+bearing on the selection of presidential electors be located 
+exclusively in a separate statute devoted solely to that end — even 
+assuming that a legislature, exercising its power under Article II, 
+could by express provision eliminate judicial review for any 
+contests arising out of the choice of Presidential electors, or 
+confine that review to the final determination of trial judges. The 
+issue here is whether the Florida legislature has done that. It has 
+not. 
+
+
+Under Florida law, an amendment or revision to the state 
+constitution may be undertaken “by joint resolution agreed to by 
+three-fifths of the membership of each house of the legislature.” 
+Fla. Const. art. XI, § 1. Pursuant to that method, the Legislature 
+drafted, proposed, and approved the constitutional provision that 
+confers jurisdiction on the state supreme court. See Fla. Const. 
+art. V, § 3(b). That provision originated as a Senate Joint 
+Resolution and was approved by concurrent votes of both houses 
+
+
+15 
+
+
+of the state legislature in 1971. See S.J.R. No. 52-D (1971). It 
+was ratified by Florida’s voters in 1972. See West’s Fla. Stat. 
+Ann., Fla. Const. art. V. The relevant jurisdictional provisions of 
+the constitution were further revised, again at the proposal and on 
+the vote of both houses of the Florida Legislature, in 1980. See 
+S.J.R. No. 20-C (1980); West’s Fla. Stat. Ann., Fla. Const. art. V 
+(historical notes). 
+
+
+This process plainly satisfies any Article II requirement that 
+contests regarding presidential electors proceed under rules 
+devised by the state legislature. That it was contained in a 
+measure not dedicated to the presidency and the Electoral College 
+as such is without constitutional significance. Petitioners could 
+not respond to this seemingly self-evident point by arguing that 
+nothing but state “legislation,” and perhaps state “electoral college 
+legislation,” is contemplated by Article II. That provision’s plain 
+terms mandate only that a State’s electors be appointed “in such 
+Manner as the Legislature” thereof may direct; it does not require 
+that the legislature must act by enacting a bill into law, as opposed 
+to other means of direction. Indeed, this Court has so held. See 
+McPherson v. Blacker, 146 U.S. 1, 29 (1892).’ 
+
+
+Nor is this conclusion undermined by the fact that state 
+constitutional provisions in Florida, after proposal and passage by 
+the Legislature, are ultimately ratified or adopted by the voters. 
+Indeed, this Court has squarely held that the analogous 
+constitutional provision in Article I, § 4, which vests state 
+legislatures with the power to prescribe the manner for selecting 
+representatives to Congress, is consistent with a legislative 
+exercise of authority made subject to popular referenda. See State 
+ex rel. Davis v. Hildebrant, 241 U.S. 565 (1916). By the same 
+token, state legislation — which petitioners insist must govern 
+
+
+' presidential election disputes — is passed by the Legislature but 
+
+
+3 Of course, it is common ground that the means chosen by the legislature 
+are subject to constraints imposed by other provisions of the federal 
+Constitution, for example, Article II, § 1, cl. 4, and the Fourteenth 
+Amendment. 
+
+
+16 
+
+
+takes effect only when approved by the governor. It is beyond 
+peradventure that the presence of this part of the state lawmaking 
+scheme does not violate a constitutional delegation to the state 
+“Legislature,” even when the executive power is used to veto 
+legislation adopted by the Legislature. See Smiley v. Holm, 285 
+U.S. 355 (1932) (delegation to each State’s “Legislature” in Art. 
+I, § 4 of the authority to prescribe the “Times, Places and Manner 
+of holding Elections for Senators and Representatives,” U.S. 
+Const. art. I, § 4, does not preclude the State’s governor from 
+vetoing a state congressional reapportionment law). The point 
+therefore seems inarguable: in exercising jurisdiction in this case, 
+the Florida Supreme Court acted in precisely the “(m]anner” 
+directed by the Legislature.‘ 
+
+
+Petitioners appear to argue that, under McPherson, the 
+jurisdiction of the state supreme court may not be premised on the 
+Florida Constitution because the U.S. Constitution “does not 
+permit state constitutions to override a state legislature’s selection 
+of the manner of choosing electors.” Stay App. at 25. But at most 
+this case involves interpreting a state legislature’s mode of 
+selection, not overriding it. Moreover, in McPherson, the Court 
+in that case noted, without question, that the Colorado 
+Constitution of 1876 “prescribed” the selection of electors by the 
+legislature of the newly admitted State. 146 U.S. at 33. Further, 
+an 1874 Senate report quoted in McPherson referred to the 
+appointment of electors as provided ina state constitution. See id. 
+at 35 (“Whatever provisions may be made by statute, or by the 
+
+
+. Although it is not directly relevant here, we note that the same principles 
+govern application of Art. I, § 1 of the Florida Constitution, which was at 
+issue in Palm Beach County. That provision also was approved by the 
+Legislature and presented to the voters as part of a significant constitutional 
+revision and re-enactment in 1968. See Florida Soc’y of Opthalmology v. 
+Florida Optometric Ass'n, 489 So. 2d 1118, 1122 n.2 (1986) (Ehrlich, J., 
+specially concurring); Joseph W. Little, The Need to Revise the Florida 
+Constitutional Revision Commission, 52 FLA. L. REV. 475, 476 n.8 (2000). 
+At the time of that action, the Legislature surely was aware that the 
+provision had long been understood to emphasize the importance of the right 
+to vote. See, e.g., State v. Bird, 163 So. 248, 252 (Fla. 1935). 
+
+
+17 
+
+
+state constitution, to choose electors by the people, there is no 
+doubt of the right of the legislature * * * .” (emphasis added)). 
+
+
+Even under the most aggressive reading of McPherson, 
+however, petitioners’ argument is insubstantial * As the Court 
+indicated in Palm Beach County, McPherson might be read to 
+suggest that it is impermissible for a state constitution to 
+“circumscribe the legislative power” regarding the process for 
+selecting electors. 146 U.S. at 25. Whatever might be the rule 
+where a state constitution was not passed by the state legislature, 
+here, far from “circumscrib[ing] the legislative power,” the 
+Legislature itself, as noted above, proposed and passed the state 
+constitutional! provision that petitioners insist governed this action. 
+And it surely cannot be the case that Article II of the U.S. 
+Constitution precludes state legislatures from using state 
+constitutional mechanisms to resolve controversies concerning 
+electors, if that is the “{mJanner” of appointment that the 
+legislature “direct[s}].” Indeed, any such rule of preclusion 
+necessarily would run afoul of petitioners’ own reading of Article 
+II, under which legislatures have carte blanche in determining the 
+manner of appointment. Article II cannot be read to swallow 
+itself. 
+
+
+Nor is this even a case where a constitutional provision 
+initially promulgated by the Legislature was later asserted to 
+prevent enforcement of a state statute, which was the issue raised 
+by this Court’s Palm Beach County opinion. Nothing of the sort 
+is going on here. To the contrary, Article V of the Florida 
+
+
+5 And, indeed, were it the proper reading, this Court would not have 
+remanded in Palm Beach County. In that case, the Florida Supreme Court 
+expressly relied on Article V of the Florida Constitution as the basis for its 
+jurisdiction. See Slip op. at 5. This Court did not express any concern 
+about the Florida court’s exercise of its appellate jurisdiction in that case. 
+Rather . it said that it could not precisely determine the “grounds for the 
+decision” below. See Palm Beach County Canvassing Board, Slip op. at 6 
+(internal quotation marks and citation omitted). If this Court had thought 
+that the mere exercise of jurisdiction under a state constitution was 
+improper, it would not have had to remand the case for clarification. 
+
+
+18 
+
+
+Constitution and Fla. Stat. § 102.168 are entirely consistent with 
+one another — and there is every reason to believe that the 
+Legislature intended and expected that participants in election 
+contests would make use of the appeals process as a means of 
+clarifying, interpreting, and enforcing the laws. Under petitioners’ 
+own approach, then, Article II of the U.S. Constitution requires 
+that the right to appeal put in place by the Florida Legislature must 
+govern here. 
+
+
+Finally, petitioners’ argument is directly refuted by State ex 
+rel. Davis v. Hildebrant, 241 U.S. 565 (1916), in which this Court 
+held that Article I, § 4, allowing States to prescribe the manner in 
+which representatives to Congress are elected, does not preclude 
+the state supreme court from exercising jurisdiction over such 
+matters even though that jurisdiction is premised squarely on the 
+state constitution. /d. at 568-70. This precedent completely 
+undercuts petitioners’ argument that the Florida Supreme Court, 
+by invoking its jurisdiction under Article V of the Florida 
+Constitution, is completely disabled from playing its ordinary role 
+as the highest court of the state when questions arise concerning 
+the laws that relate to the appointment of electors. Indeed, 
+McPherson itself was an original mandamus action in the 
+Michigan Supreme Court. See 52 N.W. 469, 470, aff'd, 146 U.S. 
+1 (1892). This Court affirmed on the merits.® 
+
+
+* In any event, this argument was not properly raised below. At oral 
+argument, petitioners’ counsel conceded in response to direct questioning 
+that the Florida Supreme Court had jurisdiction in this case, despite Article 
+Il. After argument, petitioners filed an untimely “clarification of argument” 
+that was not accepted by the Court below. Even in that filing, petitioners 
+did not argue, as they do here, that Article II disabled the Florida Supreme 
+Court from exercising appellate jurisdiction. To the contrary, they said only 
+that the “relief” sought by respondent was barred by Article Il. See Bush 
+Clarification at 2-3. 
+
+This is an appeal from a state court judgment, under 28 U.S.C. § 1257. 
+constitutional claims that are raised for the first time before it in appeals 
+from state court decisions. See Adams v. Robertson, 520 U.S. 83, 88 
+(1997) (per curiam); Cardinale v. Louisiana, 394 U.S. 437, 438-39 (1969). 
+
+
+19 
+
+
+3. Even if the Florida Supreme Court’s authority were thought 
+to stem only from the Florida Constitution, not the statute, and 
+even if that constitution had not been enacted by the Legislature, 
+exercise of that authority still would not violate Article II. 
+
+
+a. To begin with, the theories put forward by petitioner Bush 
+in Palm Beach County and here are based on misreadings of 
+Article II and of this Court’s precedents. Should the Court in this 
+case reach the issue reserved in Palm Beach County, it should 
+conclude that a state court need not avoid use of the state 
+constitution in construing legislation. 
+
+
+The state courts would be strange places indeed if Article Il 
+disabled them, in construing statutes enacted pursuant to 
+constitutional grants of power to the “Legislature,” from placing 
+any reliance on state constitutions. The only authority cited by_ 
+petitioners for that proposition, McPherson v. Blacker, actually 
+supports the opposite conclusion: that the state courts, in 
+interpreting state statutes enacted pursuant to the delegation of 
+authority in Article Il, may rely on all the sources of law they 
+ordinarily bring to the task of interpreting state laws. 
+
+
+McPherson does state in dictum that the delegation to the 
+legislature in Article II “operate[s] as a limitation upon the State 
+in respect of any attempt to circumscribe the legislative power.” 
+146 U.S. at 25. And undoubtedly it is true that, except by action 
+of the legislature, the State could not purport to vest the power to 
+direct the manner of the appointment of electors in any other body 
+
+
+Before a claim may be considered here on appeal, it must ““be brought to 
+the attention of the state court with fair precision and in due time.’” Street 
+v. New York, 394 U.S. 576, 584 (1969) (quoting New York ex rel. Bryant 
+y. Zimmerman, 278 U.S. 63, 67 (1928)). This rule is mandated by 
+principles of federalism that require respect for state courts which have 
+acted in complete good faith in reaching decisions that may involve 
+questions of federal law. In this case, petitioners were asked at oral 
+argument, directly and repeatedly, whether Article Il disabled the court 
+below from adjudicating the appeal and they insisted that it did not. They 
+never departed from that position before the Florida Supreme Court, even 
+in their untimely post-argument submission. 
+
+
+20 
+or individual. 
+
+But McPherson makes equally clear that, once a ‘state 
+legislature has enacted laws in exercise of its power to direct the 
+manner of appointment of electors, the state courts may interpret 
+those laws precisely as they would any other state legislative 
+enactment. The Court’s opinion explains that state statutes and 
+the state constitution may be used by state courts in determining 
+the precise scope of the right to vote for electors when such a right 
+is conferred by state legislation. “Whenever presidential electors 
+are appointed by popular election * * * [t]he right to vote [granted 
+thereby] * * * refers to the right to vote as established by the laws 
+and constitution of the State.” 146 U.S. at 39 (emphasis added). 
+Indeed, in McPherson itself, the state supreme court below had 
+measured the statute providing for the appointment of electors for 
+conformity with “the state constitution and laws,” and this Court 
+concluded that it was “not authorized to revise the conclusions of 
+the state court on these matters of local law.” Jd. at 23. This very 
+conclusion is enough to dispose of petitioners’ basic Article II 
+claim: the state courts are not disabled from applying their state 
+constitutions when they interpret legislation enacted pursuant to 
+Article II. 
+
+
+Nor does Article II create a “state-constitution-free” zone in a 
+State’s law — even assuming it would be possible to pull the thread 
+of state constitutional law out of the fabric of a state’s law when 
+administering or adjudicating questions bearing on elections for 
+President and Vice President. State constitutions provide the 
+necessary framework for a wide range of practices necessary to 
+the conduct of elections held for the purpose of appointing 
+electors, including a variety of actions by the executive and 
+judicial branches of state government. Indeed, state constitutions 
+determine the very nature and composition of the state legislature 
+that is given the power to determine the method for the 
+appointment of electors under Article II. Compare Fla. Const. art. 
+III, § 1 (creating a bicameral legislature) with Neb. Const. art. III, 
+§ 1 (creating a unicameral one). They impose quorum 
+requirements, qualifications of members, voting standards, and 
+
+
+21 
+
+
+other rules necessary to enable the legislature to function. See, 
+e.g., Fla. Const. art. III, § 2 (members); id. § 3 (sessions), id. § 4 
+(quorum and procedures); id. § 7 (passage of bills); id. § 15 
+(qualifications). In a very real sense, the state legislature is a 
+creature of the constitution that creates it, and any attempt to 
+isolate one from the other would give rise to a host of unforeseen 
+
+
+practical and legal problems.’ 
+
+
+b. The threshold inquiry under Article II is whether the state 
+constitution “circumscrib{ed] the legislature’s authority,” and here 
+the application of the Florida Constitution is fully consistent with 
+Article II because there is every indication that the Legislature 
+intended to provide appellate review in contest actions, not 
+eliminate it. 
+
+
+For example, suppose that the Legislature had enacted a 
+provision stating: “To promote expeditious resolution of election 
+disputes, there shall be no appellate review of the decisions of 
+circuit courts in contest actions.” If the Florida Supreme Court 
+had held that provision invalid under the Florida Constitution, an 
+issue would then arise under Article II regarding the validity of the 
+provision for contests of Presidential elections. Here, where the 
+constitutional provision for appellate review merely supplements 
+the Legislature’s scheme — much like judicial rules of procedure 
+or evidence or principles of statutory construction — and does not 
+invalidate a choice made by the Legislature, the principle set forth 
+in McPherson is not implicated at all. See 146 U.S. at 39-40; see 
+also id. at 24-26; Leonard, 760 So. 2d at 118 (Florida statutes are 
+traditionally construed to preserve judicial review “rather than 
+
+
+’ The absurdity of petitioners’ view can be illustrated another way: if a 
+state legislature's “plenary” power over the appointment of Presidential 
+electors cannot be circumscribed by any outside authority (including the 
+state constitution), then it would seem to follow that this Court might well 
+lack jurisdiction to entertain this very case, for Congress would have no 
+authority to confer jurisdiction to review these matters under 28 U.S.C. § 
+1257. 
+
+
+22 
+
+
+limiting the subject matter of the appellate courts”).* 
+
+
+4. Petitioners also raise a claim that the Florida Supreme 
+Court’s decision violates Article II because the Court below 
+“over[rode]” the state legislature in its construction of state law. 
+Stay App. at 25-27. 
+
+
+a. To begin with, there is no warrant in Article II, in 
+McPherson, or in Palm Beach County, for the contention that 
+some statutorily based decisions of state law — those with no 
+“precedent,” Stay App. at 25 ~ violate Article II because they are 
+“legislative” and not “judicial” in character. Here petitioners 
+essentially resurrect — now in Article II guise — the extraordinary 
+Teague argument that they made in Palm Beach County. Cf. 
+Teague v. Lane, 489 U.S. 288 (1989). They argue, with 
+absolutely no authority, that “newly announced judicial 
+extensions” of prior precedent in this context, Stay App. at 25, 
+violate the federal constitution. 
+
+
+But even Teague does not hold that “new rules” are /egis/ative 
+acts. Indeed, under Teague “new rules” may be announced by this 
+Court on direct review of decisions of the State’s highest courts. 
+See, e.g., Johnson v. Texas, 509 U.S. 350, 352 (1993). Under 
+Article III, the federal courts are provided only with “judicial” 
+authority; separation of powers principles prohibit them from 
+“legislating.” Yet, until now, it has never been suggested that 
+these principles mean that federal courts cannot engage in 
+statutory interpretation that amounts to a “newly announced 
+judicial extension{]” of prior law. Petitioners’ attack on the 
+judicial function would disrupt state government by crippling the 
+process of legislative interpretation at the time it is needed most.’ 
+
+
+* More generally, Article I of the Constitution states that “All legislative 
+Powers herein granted shall be vested in a Congress of the United States.” 
+Petitioners’ argument would seem to mean that this express grant of 
+authority to the Legislature precludes judicial review. That, of course, has 
+never been this Court's view. See, e.g., United States v. Morrison, 120 S. 
+Ct. 1740 (2000). 
+
+
+*The kind of federal superintendence over state court decisions petitioners 
+
+
+23 
+
+
+In any event, there are no judicial “extensions” involved in the 
+decision below. The Florida Supreme Court employed the 
+substantive standards expressly set out in the Florida contest 
+provision, and the other Florida statutes on which it relied. 
+Indeed, under petitioners’ own theory, a reversal of the judgment 
+below and a reinstatement of the circuit court opinion — which 
+declined to use the standards contained in the plain text of the 
+recently enacted amendments to the contest provision — would 
+violate Article II. 
+
+
+A discussion of the particular state law issues cited by 
+petitioners confirms that the decision below is a routine example 
+of statutory construction that is entirely consistent with Article Il, 
+and that petitioners’ claims are nothing more than an 
+impermissible attempt to persuade this Court to redetermine these 
+state-law issues. Significantly, despite the division on the court 
+below with respect to the relief granted, there was significant 
+consensus with respect to the questions of statutory interpretation: 
+six of the seven justices agreed on the issues of statutory 
+interpretation. Slip op. at 13-20; see also id. at 61-63 (Harding 
+and Shaw, JJ., dissenting). Petitioners’ contentions before this 
+Court ultimately reduce to empty assertions with little in the way 
+of support. 
+
+
+would have this Court implement would also turn decisions like Teague on 
+their head. Teague is animated by principles of federalism and respect for 
+state courts as “coequal parts of our national judicial system.” Sawyer v. 
+Smith, 497 U.S. 227, 241 (1990). Petitioners would instead use a limitation 
+on “new” judicial interpretations as a sword by which the federal judiciary, 
+in challenges involving presidential electors, would supervise state courts’ 
+application of state law to determine whether those courts correctly discerned 
+and applied local law. Petitioners would have the federal judiciary issue 
+orders — pursuant to state law — regarding the details of state certification and 
+contest procedures whenever the federal courts concluded that the state 
+judiciary departed in any way from pre-existing state statutes. Far from 
+honoring state courts, the standard proposed by petitioners would trigger 
+dramatic federal intrusion into the state judicial process. This result cannot 
+be squared with principles of federalism or with the long history of statutory 
+interpretation by state courts in the post-election context. 
+
+
+24 
+
+
+First, petitioners claim that the Section 102.168 contest action 
+does not apply to Presidential elections. However, as the Florida 
+Supreme Court explained, Slip op. at 6 n.7, petitioner Bush, the 
+Florida Legislature, and the Florida Secretary of State all took the 
+position before that court that the contest action was available. 
+Indeed, petitioner Bush himself filed a third-party complaint in the 
+circuit court in this case, invoking Section 102.168 with respect to 
+the Presidential election.’ 
+
+
+In an abrupt about-face, petitioners now suggest that, when a 
+State legislature exercises its “plenary authority” under Article II, 
+it must write specific rules to govern only that unique exercise of 
+authority. This suggestion is both unjustified and unrealistic. If 
+a legislature decides to hold an election to select Presidential 
+electors, it typically assumes that all of the laws, rules, and 
+regulations contained in the state election code will be applicable. 
+And, indeed, all of the States rely on generally applicable 
+provisions of their election laws in carrying out their periodic 
+responsibility of selecting electors for President and Vice 
+President. 
+
+
+Second, petitioners assert that the court below “essentially 
+overruled” two subsections of Section 102.166 by ordering a 
+recount of less than all of the ballots cast. However, as the Florida 
+Supreme Court explained, the Section 102.166 protest remedy is 
+entirely separate from the Section 102.168 contest remedy. Slip 
+op. at 13; see also id. at 61 (Harding and Shaw, JJ., dissenting) 
+_ (agreeing that the two remedies are separate). And whatever the 
+restrictions on the county canvassing boards’ authority under 
+Section 102.166, the Legislature expressly granted the courts 
+extraordinarily broad remedial authority in contest actions (see 
+Section 102.168(8)), and it is that authority which is the basis for 
+
+
+' The single case cited by petitioners- Fladell v. Florida Elections 
+Canvassing Comm'n - was an intermediate appellate decision later vacated 
+by the Florida Supreme Court, which expressly held that “the Court's 
+rulings thereon are a nullity.” See Fladell v. Florida Elections Canvassing 
+Comm'n, Nos. 00-2372 & 00-2376, Slip op. at 4 (Fla. Dec. 1, 2000). 
+
+
+25 
+
+
+the determination below. 
+
+
+Third, contrary to petitioners’ contention, Stay App. at 26, the 
+court below did not rely on the prior opinion that this Court 
+vacated in Palm Beach County. It merely pointed out that a 
+canvassing board’s failure to complete the recount by the date 
+specified in the court’s opinion (which governed protest remedies) 
+did not forever bar any legal votes identified in that recount from 
+being included in the ultimate vote totals (as a possible contest 
+remedy). Slip op. at 34-35. Petitioners’ reference to the Broward 
+County votes, Stay App. at 26, is mystifying because the counting 
+of those votes was not an issue in the court below. 
+
+
+Fourth — and somewhat inconsistently — petitioners attack the 
+Florida Supreme Court for refusing to go beyond the statutory 
+standard for a legal vote — the clear intent of the voter, Fla. Stat. 
+§ 101.5614(5) — and hold that indented ballots may never 
+constitute legal votes. Stay App. at 27. Here, the court’s opinion 
+simply recognizes and faithfully adheres to the statutory test, it is 
+difficult to understand how this fidelity to the legislative 
+enactments of the State could possibly violate Article II. If the 
+court had gone beyond the express statutory provision to provide 
+further guidance, petitioners would presumably have argued that 
+such guidance impermissibly made new law. 
+
+
+b. It must be noted that the federal claim asserted in Palm 
+Beach County is completely absent here. There is no indication 
+whatsoever in the lower court’s opinion that it “saw the Flonda 
+Constitution as circumscribing the Legislature’s authority” under 
+the federal Constitution. Indeed, the Florida Supreme Court 
+clearly recognized the limitations imposed by Article II — it 
+expressly acknowledged them at the outset of its opinion. Slip op. 
+at 5 (“These statutes established by the legislature govern our 
+decision today.”). Accordingly, no federal question (and hence no 
+basis for reversal) is even presented in this case under Palm Beach 
+County or Article II. 
+
+
+Petitioners nonetheless impugn the Florida Supreme Court in 
+general terms, arguing that it violated Article Il when it 
+
+
+26 
+
+
+“substituted its judgment for that of the legislature” and “rewr[ote] 
+th{e] statutory scheme” governing the appointment of presidential 
+electors in various respects. Stay App. at 23. 
+
+
+But here, unlike in Palm Beach County, the Florida Supreme 
+Court’s opinion makes clear that it did not rely upon the Florida 
+Constitution even in construing the election law. The court based 
+its interpretation on entirely conventional tools of statutory 
+construction, including statutory text, traditional canons, and 
+relevant precedents; in other words, it engaged in altogether 
+routine statutory interpretation. 
+
+
+Petitioners’ argument here thus is either that the Florida 
+Supreme Court deliberately misrepresented the basis for its 
+decision by saying it was interpreting Florida statutory law when 
+it was actually doing something else entirely — or that Florida’s 
+highest court seriously erred in interpreting Florida law. Either 
+contention contradicts the “general rule” that “this Court defers to 
+a State court’s interpretation of state law.” Palm Beach County, 
+Slip op. at 4. And, were this Court to adopt petitioners’ view of 
+Article II, it would be required to second-guess every state law 
+ruling by a state court bearing in any way on a presidential 
+election to determine whether the lower court was attempting to 
+disguise some other and improper basis for decision or had just 
+gotten the state law wrong. 
+
+
+Nor is petitioners’ argument consistent with this Court’s 
+decision in Palm Beach County in which the Court remanded the 
+case for the Florida Supreme Court’s clarification of the basis of 
+that Court’s decision. 
+
+
+Finally, as this Court is well aware, the process of statutory 
+construction is the process of determining how to resolve issues 
+that are not conclusively determined by the language of the 
+statute. Unavoidably, petitioners take the position that Article II 
+bars a court from engaging in this routine and obviously essential 
+process: if an issue is not explicitly and unambiguously addressed 
+in the language of the statute or in a prior decision that is precisely 
+on point, then the court has usurped the Legislature’s 
+
+
+27 
+
+
+constitutionally delegated power. Nothing in Article II so limits 
+the courts’ authority. Indeed, the fact that the provisions for 
+election contests in Section 102.168 apply broadly to a// elections 
+confirms the Legislature’s intent that the courts are to exercise 
+their usual role as neutral umpires who interpret the law to resolve 
+disputes. 
+
+
+Il. The Florida Supreme Court’s Decision Is Consistent With 
+3 U.S.C. § 5. 
+
+
+The Court is by now familiar with petitioners’ ever-shifting 
+reading of 3 U.S.C. § 5. First, petitioners maintained that Section 
+5 was a flat federal prohibition on the determination of election 
+
+“controversies through laws enacted after election day. Pet. for. 
+Cert., No. 00-836, at 4-8. In their merits brief, they subsequently 
+acknowledged that Section 5 on its face constituted only a safe 
+harbor, but urged this Court to infer a broader prohibition as 
+supposedly necessary to effectuate Congress’ intent. Br. for Petr. 
+Bush at 17-19, 27-29. Now, they attempt without explanation to 
+convert this Court’s direction in the Palm Beach County case that 
+state courts should be aware of the safe harbor provided by 
+Section 5 in determining legislative intent, see Stay App. at 29 
+(quoting Palm Beach County, Slip op. at 6), into a jurisdictional 
+basis for this Court to invalidate the Florida Supreme Court’s 
+decision, id. at 30. Petitioners’ argument fails both because 
+Section 5 constitutes only a safe harbor from a challenge in 
+Congress to a state’s slate of electors and because the decision 
+below did not constitute a change in Florida law. 
+
+
+1. The Florida Supreme Court Was Fully Attentive To The 
+Impact Of Its Decision On The Safe Harbor Of 3 U.S.C. § 5. 
+From the outset, the Florida Supreme Court was attentive to 
+Section 5’s requirements, consistent with this Court’s directive 
+that “a legislative wish to take advantage of the ‘safe harbor’ 
+would counsel against any construction of the Election Code that 
+Congress might deem to be a change in the law.” Palm Beach 
+County, Slip op. at 6. Thus, the court acted fully “cognizant of the 
+federal grant of authority derived from the United States 
+Constitution and derived from 3 U.S.C. § 5,” which statute the 
+
+
+28 
+
+
+court quoted in full. Slip op. at 5-6. And the court made clear that 
+its decision rests on the contest process set out in Section 102.168, 
+“which laws were enacted by the Legislature prior to the 2000 
+election.” Slip op. at 6. 
+
+
+2. The Text And Legislative History Establish 3 U.S.C. § 5 
+Exclusively As A Safe Harbor. Petitioners’ attempt to derive a 
+judicial remedy from 3 U.S.C. § 5 conflicts with Congress’ 
+avowedly narrow purpose in enacting the statute. As respondent 
+developed at length in his opening brief in the Palm Beach County 
+case, see Resp. Br. at 21-30, and as we recount more summarily 
+here, 3 U.S.C. § 5 serves no purpose other than to insulate a 
+state’s slate of electors from challenge in Congress. Section 5 
+purports to set out a rule by which the Houses of Congress shall 
+determine which electors for President of the United States from 
+a particular State will be entitled to have their votes counted if 
+more than one return purporting to contain the electoral votes of 
+that State is received by the President of the Senate. Tellingly, 
+Florida’s own Legislature, appearing as an amicus before this 
+Court in the Palm Beach County case, rejected petitioners’ 
+broader reading of Section 5. 
+
+
+The statute provides that “if” certain rules are followed by a 
+State in making its “final determination of any controversy or 
+contest concerning the appointment of all or any of the electors of 
+such State * * * such determination * * * shall be conclusive, and 
+shall govern in the counting of the electoral votes as provided in 
+the Constitution, and as hereinafter regulated, so far as the 
+ascertainment of the electors appointed by such State is 
+concerned.” 3 U.S.C. § 5. The regulation “hereinafter” to which 
+the statute refers is 3 U.S.C. § 15, which announces a rule by 
+which the Houses of Congress will decide which electors’ votes 
+are to count when the President of the Senate receives “more than 
+one return or paper purporting to be a return from a State.” 3 
+U.S.C. § 15. In such a case, Section 15 provides that “those votes, 
+and those only, shall be counted which shall have been regularly 
+given by the electors who are shown by the determination 
+mentioned in section 5 of this title to have been appointed, if the 
+
+
+29 - 
+
+
+determination in said section provided for shall have been made.” 
+Id. 
+
+
+The legislative history of 3 U.S.C. § 5 confirms the 
+understanding that it is focused exclusively on Congress and 
+provides only an option. That history establishes conclusively that 
+the statute’s only purpose and effect is to provide each State with 
+a way to guarantee that its electors will not be subject to challenge 
+in Congress at the time the electors’ votes are tabulated pursuant 
+to the Twelfth Amendment."' Indeed, supporters of the bill took 
+great care to address and refute without contradiction precisely the 
+construction of Section 5 that petitionérs now erroneously press 
+110 years later. These supporters explained that the statute could 
+not result in the invalidation of a State’s votes but provided only 
+a safe harbor against a challenge in Congress to the State’s slate 
+of electors. E.g., 15 CONG. REC. 5547 (June 24, 1884) (statement 
+of Rep. Herbert). And Representative Eden made virtually the 
+identical point: “The States are entirely free under the 
+Constitution to adopt the mode of appointment of electors that the 
+legislatures thereof may prescribe. * * * The bill contemplates no 
+exclusion of electoral votes from the count because of the failure. 
+of a State to settle disputes as to the lawful vote of the State.” 18 
+CONG. REc. 75 (Dec. 9, 1886) (emphasis added). 
+
+
+Petitioners cannot successfully convert their argument under 
+3 U.S.C. § 5 into a claim under Article II of the Constitution by 
+maintaining that the Florida Supreme Court overrode the will of 
+the Legislature by taking the state outside the safe harbor of 
+Section 5. The wish to avoid challenge to its electors represents 
+an important indication of a State Legislature’s intent, but that 
+wish is not the only one to be taken into account. There is no 
+question, for example, that a state legislature can intend to take a 
+State out of the safe harbor to achieve some other cbjective and a 
+state court’s overriding obligation remains to interpret the terms 
+
+
+'! As detailed in respondent’s opening brief in the Palm Beach County 
+case, at 23 & n.14, Sections 5 and 15 were a direct reaction to the Hayes- 
+Tilden matter. 
+
+
+30 
+
+
+of the statute as the State Legislature enacted it. Under Section 5 
+as enacted, “Congress does not command the states to provide for 
+a determination of the controversies or contests that may arise 
+concerning the appointment of the electors, does not even declare 
+it to be the duty of the states to do so, but simply holds out an 
+inducement for them so to act.” John W. Burgess, The Law of the 
+Electoral Count, 3 POL. SCi. Q. 633, 635 (1888) (emphasis added); 
+see also Paul L. Haworth, THE HAYES-TILDEN DISPUTED 
+PRESIDENTIAL ELECTION OF 1876, at 305-06 (1906) (law “provides 
+that a state may finally determine every contest connected with the 
+choice of electors, but that such determination must be made in 
+accordance with a law passed before the electors are chosen and 
+that the decision must have been made at least six days before the 
+meeting of the electors. Where such a determination has been 
+made, it must be accepted * * * .”). The legislative history 
+specifically reflects a recognition that a State was free not to take 
+advantage of Section 5’s safe harbor, with the only implication 
+being that the State’s electors would be subject to challenge in the 
+Congress. E.g., 18 CONG. REC. 30 (Dec. 7, 1886) (report by Select 
+Committee on the Election of President and Vice President, 
+accompanying Senate Bill 9)."” 
+
+
+- 3. The Decision Below Does Not Change Florida Law And 
+Therefore Does Not Affect Florida’s Entitlement To The Safe 
+
+
+"2 ‘If there remains any ambiguity about the appropriate reading of Section 
+5, it should nonetheless be interpreted as only a safe-harbor provision in order 
+to avoid constitutional questions under Article II and settled principles of 
+federalism. “Through the structure of its government, and the character of 
+those who exercise government authority, a State defines itself as a 
+sovereign.” Gregory v. Ashcroft, 501 U.S. 452, 460 (1991). A congressional 
+attempt to rearrange the constitutional structure of state government — for 
+example, by purporting to preclude judicial involvement in state election 
+disputes that the state has sought through its own constitution and laws to 
+provide — is one of the few sorts of imtrusion upon state sovereignty that 
+might well be unconstitutional even after this Court's decision in Garcia v. 
+San Antonio Metropolitan Transit Authority, 469 U.S. 528 (1985). See id. at 
+556 (citing Coyle v. Oklahoma, 221 U.S. 559 (1911)) (invalidating a 
+congressional attempt to relocate a state capital). 
+
+
+31 
+
+
+Harbor Of 3 U.S.C. § 5. Petitioners err in asserting that the 
+Florida Supreme Court’s decision “makes new law” in numerous 
+respects.’ First and foremost, the decision below is in all respects 
+entirely with longstanding Florida election law. E.g., Beckstrom 
+v. Volusia Cty. Canvassing Board, 707 So. 2d 720 (Fla. 1998); 
+Boardman v. Esteva, 323 So. 2d 259 (Fla. 1975); State ex rel. 
+Peacock v. Latham, 170 So. 819 (1940), 170 So. 309 (1936), 170 
+So. 472 (1936); State ex rel. Nuccio v. Williams, 97 Fla. 159, 120 
+So. 310 (1929); Darby v. State, 73 Fla. 922, 75 So. 411 (1917). 
+
+
+Second, petitioners assert that the decision below conflicts 
+with a 1992 Florida appellate decision describing the discretion of 
+a canvassing board to hold a manual recount in a protest 
+proceeding. Stay App. at 30 (citing Broward County Canvassing 
+Bd. v. Hogan, 607 So. 2d 508, 510 (Fla. Dist. Ct. App. 1992)). 
+The cited decision is inapposite. First, the case now before this 
+Court involves a contest rather than a protest; the two election 
+schemes (Fla. Stats. §§ 102.166 & 102.168) are distinct. Second, 
+in the present case Miami-Dade County made the decision to 
+commence a manual recount, and the same court that decided 
+Hogan held that completing the recount was “mandatory.” Even 
+if that single decision were in point, the decision of the Florida 
+Supreme Court — a superior tribunal — on an issue of statutory 
+interpretation could hardly be deemed a sufficient change in the 
+law that Congress would have intended the state’s electors to lose 
+their presumed validity. Indeed, the contrary view would conflict 
+with settled principles of judicial hierarchy by binding the Flonda 
+Supreme Court to follow the decisions of the infernor courts in 
+such matters. 
+
+
+Third, petitioners make the related argument that the Florida 
+Supreme Court’s decision “effectively announc([es]} a new standard 
+
+
+‘3 Given the nature of the briefing in this proceeding, in which 
+respondent apparently will have no opportunity to address issues raised for 
+the first time in petitioners’ brief, it is of course essential that petitioners’ 
+arguments on the merits be constrained to those raised in their application 
+for a stay. 
+
+
+a 
+EE noone 
+
+
+32 
+
+
+that manual recounts are required in cases of claimed voter error.” 
+
+But petitioners do not even attempt to offer a page reference for 
+this gross misreading of the decision below, which carefully 
+explains that the statute requires one contesting an election to 
+make a threshold showing that a sufficient number of legal votes 
+have been rejected to place in doubt the outcome of the election. 
+Slip op. at 22-23. Indeed, under petitioners’ theory of 3 U.S.C. § 
+5, reversal of the Florida Supreme Court’s judgment and 
+reinstatement of the decision of the circuit court would deprive 
+Florida of the safe harbor. As six of the Florida Justices agreed, 
+the circuit court failed to use the standards included in the statute 
+on November 7, 2000. And petitioners’ challenge to the Florida 
+Supreme Court’s order directing manual recounts in each county 
+— without regard to the counties’ discretion — is entirely 
+disingenuous: it was petitioners who argued that a statewide 
+recount would be required in the event that respondents’ contest 
+of the 9000 uncounted Miami-Dade ballots was sustained. See 
+Amended Brief of Appellees Bush and Cheney, in Gore v. Harris, 
+Fla. S. Ct. No. SC00-2431, at 43 (“In a contest of a statewide 
+election, a statewide recount is required by the Equal Protection 
+Clause of the U.S. Constitution and Florida Statute Section 
+102.168.”). 
+
+
+Fourth, petitioners allege that the Florida Supreme Court 
+changed the law by adopting a statewide standard requiring that 
+“dimpled” ballots be counted in recount proceedings. Stay App. 
+at 31. Of course, petitioners neglect to reconcile that contention 
+with their due process and equal protection theories that the 
+court’s decision is unconstitutional because it supposedly fails to 
+adopt standards for determining voter intent. We address the 
+standard set-forth by the Legislature and applied by the courts in 
+this case infra, but it is enough to note here that petitioners do not 
+even claim that the Florida Supreme Court’s decision conflicts 
+with any prior court decision or, more to the point, with any 
+legislative enactment in this respect. 
+
+
+Petitioners’ examples are most useful, we think, in 
+demonstrating how their theory would require constant federal 
+
+
+33 
+
+
+judicial superintendence over state procedures and state court 
+rulings in Presidential elections. Federal judges would be called 
+on to examine supposed inconsistencies between different rulings 
+in a never-ending search for what law really is “new” and what 
+law is “old.” Indeed, petitioners’ argument that courts faced with 
+an election controversy may not provide an “answer * * * created 
+after Election Day,” Stay App. at 32, would seriously distort the 
+normal application of state election laws, given the necessarily 
+retroactive nature of judicial decisionmaking. See Harper v. 
+Virginia Dep't of Taxation, 504 U.S. 86 (1993). And federal 
+courts would apparently scour the text of state court decisions for 
+clues that state judges had applied state election laws to new 
+circumstances — which until this case had long been regarded as 
+a principal responsibility and virtue of state judiciaries, not a 
+federal constitutional vice. Nor would the federal mquiry be 
+limited to the state courts, for petitioners maintain that the safe 
+harbor of 3 U.S.C. § 5 evaporates upon a mere change in ballot 
+procedures by a single county canvassing board. See Stay App. 
+at 32 (asserting violation of Section 5 based on supposed change 
+in Palm Beach County’s treatment of “dimpled” ballots: “This 
+change in policy by the organ of government granted the authority 
+to conduct manual recounts fails to satisfy 3 U.S.C. § 5°s express 
+requirement that controversies be resolved pursuant to law as it 
+exists prior to election day.”). Yet some such adjustments must 
+occur repeatedly in every state in every election. It is simply not 
+credible to suggest that this everyday state of affairs regularly 
+operates to eliminate the protections of safe-harbor provisions. '* 
+
+
+Petitioners’ argument is thus inconsistent with the 
+longstanding practice of state courts, as well as attorneys general, 
+to interpret and construe state election statutes as necessary to 
+
+
+'* Indieed, every time a court interprets a state election statute for the first 
+time in the context of a Presidential election, it presumably makes “new” 
+law in petitioners’ view, thereby surippimg the state of the safe harbor 
+afforded by Secuon 5. 
+
+
+34 
+
+
+resolve post-election disputes.'* Florida courts have routinely 
+engaged in post-election statutory interpretation. See, e.g., State 
+ex rel. Peacock v. Latham, 170 So. 475, 478 (Fla. 1936); State ex 
+rel. Knott v. Haskell, 72 So. 651 (Fla. 1916); State ex rel. Drew v. 
+McLin, 16 Fla. 17 (1876). The range of settled practices that 
+would be drawn into question by petitioners’ argument, or that 
+would draw the availability of the 3 U.S.C. § 5 safe harbor into 
+question, is little short of staggering. 
+
+
+Ill. The Fourteenth Amendment Affords No Basis for This 
+Court to Set Aside Florida’s Established Statutory 
+Proceedings for Determining the Proper Outcome of 
+the Election. 
+
+
+A. There Is No Violation of the Equal Protection Clause. 
+
+
+Petitioners have pointed to two supposed equal protection 
+problems arising from the remedy ordered by the Florida Supreme 
+Court. First, petitioners contend that the Florida Supreme Court 
+erred by ordering a statewide manual count of undervotes, thereby 
+supposedly discriminating against those whose votes were counted 
+by automated means. Second, petitioners contend that the 
+inclusion for a manual recount of approximately 9000 undervotes 
+from Miami-Dade County caused some votes to be counted twice 
+and others to be counted using standards different from those 
+applied to other Miami-Dade County votes. Supp. Mem. at 2 n.1. 
+Neither allegation has merit. 
+
+
+To begin with, neither of petitioners’ claims was raised 
+properly below. It is important to appreciate the narrowness of the 
+Fourteenth Amendment claim raised by petitioners before the 
+Florida Supreme Court: Petitioners argued (in only one 
+throwaway line, no less) that “the application of counting 
+
+
+'S See, e.g., State ex rel. Stephens v. Marsh, 221 N.W. 708 (Neb. 1928); 
+State ex rel. Dahiman v. Piper, 69 N.W. 378 (Neb. 1896); Woods v. Sheldon, 
+69 N.W. 602 (S.D. 1896); Miss. Op. Att’y Gen. No. 1999-0697, 1999 WL 
+1333481 (Dec. 22, 1999); Tex. Op. Att’y Gen. No. JC-0293, 2000 WL 
+1515422 (Oct. 11, 2000); Ark. Op. Att’y Gen. No. 94-366, 1994 WL 702001 
+(Nov. 21, 1994). 
+
+
+35 
+
+
+standards in different counties as well as the occurrence of manual 
+recounts in only selected counties or selective portions of counties 
+violates the equal protection and due process clauses of the U.S. 
+Constitution.” Amended Brief of Appellees George W. Bush and 
+Dick Cheney at 45 (Exh. H to Stay Application). No other 
+Fourteenth Amendment claim was framed."* 
+
+
+Petitioners’ Fourteenth Amendment arguments rest principally 
+on the assertion that, if the manual count proceeds, similar ballots 
+will be treated dissimilarly in different parts of the State. We note 
+that, insofar as this argument is directed at pre-contest tabulations, 
+it is out of place here; petitioners should have raised such claims 
+in an election contest of their own. But more fundamentally, 
+petitioners’ contention simply finds no support in the law, and has 
+sweeping implications for the conduct of elections. The court 
+below was quite insistent that the counting of ballots must be 
+governed by a single uniform standard: the intent of the voter 
+must control. Of course, so long as the count is conducted by 
+humans, it undeniably will be possible to allege some degree of 
+inconsistency in the treatment of individual ballots — as is the case 
+whenever the application of any legal standard (e.g., negligence, 
+public forum) is at issue. That will be true in every one of the 
+many jurisdictions that provide for manual recounts; it is true 
+whenever States provide for variation in the methods of voting 
+from county to county (e.g., optical scanners as opposed to less 
+reliable punch card ballots), which is now the case in every State; 
+and it was true everywhere prior to the introduction of mechanical 
+voting machines, when all ballots were counted by hand. 
+Petitioners’ theory would mean that all of these practices violate 
+the Fourteenth Amendment. Moreover, if petitioners mean to say 
+that all votes must be tabulated under a fixed and mechanical - 
+standard (e.g., the “two-corner chad rule”), their approach would 
+render unconstitutional the laws of States that hinge the meaning 
+
+
+'© Petitioners’ post-argument submission to the Florida Supreme Court, 
+“Clarification of Argument for Appellees George W. Bush and Dick 
+Cheney” (Exhibit M to Stay Application), was not accepted for filing. 
+
+
+ee 
+seen ncccccccmcmcc ccc n een cer rrr cceenrrn cnn ncnnn ern nrerrrnnrrnnnnrnnrnnccenenreceeeeeceeeeeeeeeeeeeeeeeeeeeeeeeee eee 
+
+
+36 
+
+
+of the ballot on the intent of the voter — and also would mean that 
+the Constitution requires the disenfranchisement of many voters 
+whose intent is clearly discernible. This argument, in our view, is 
+wholly insubstantial. Similar arguments regarding the conduct of 
+elections uniformly have been rejected by the courts. 
+
+
+In any event. if the standard set out by the Florida Court is not 
+applied consistently, applicants will have recourse to the Leon 
+County Circuit Court and, on appeal, to the Florida Supreme 
+Court, either of which will be able to eliminate any inconsistency 
+by determining itself which ballots meet the statutory standard." 
+
+
+1. The Florida Supreme Court’s order to review the ballots 
+from Miami-Dade County is consistent with established state 
+law. 
+
+
+The Florida Supreme Court’s order to “remand this cause for 
+the circuit court to immediately tabulate by hand the 
+approximately 9000 Miami-Dade ballots, which the counting 
+machine registered as non-votes, but which have never been 
+manually reviewed,” Slip op. at 38, was consistent with 
+established state law for handling contest actions. As such, it 
+raises no substantial federal questions. 
+
+
+This holding was a rather straightforward application of the 
+Legislature’s injunction, in Section 102.168(3), against the 
+exclusion of “a number of legal votes sufficient to change or place 
+in doubt the outcome of the election,” coupled with its command 
+to the judiciary in the contest proceeding to “ensure that any 
+allegation in the complaint is investigated, examined ... to prevent 
+or correct any alleged wrong.” Fla. Stat. § 102.168(8). Moreover, 
+
+
+'” And, indeed, Florida statutory law provides that opportunity with 
+regard to any bailots that a candidate believes should not have been counted 
+during a manual recount pursuant to Fla. Stat. § 102.166, see App. 36 
+(complaining about standards used during previous manual recounts). See 
+Fla. Stat. § 102. 168(3)(c) (permitting a candidate to contest the inclusion of 
+“illegal votes” in the certified election results). 
+
+
+37 
+
+
+the Court’s decision was premised on the trial court’s finding of 
+“less than total accuracy, in regard to punchcard voting devices 
+utilized in Miami-Dade” County, Gore v. Harris, No. 00-2808 
+(Fla. 2d Judicial Cir. Dec. 4, 2000), and a holding of a Florida 
+appellate court that the Miami-Dade Canvassing Board’s decision 
+to abandon its count was an abdication of its “mandatory 
+obligation” under Florida law. Miami-Dade County Democratic 
+Party v. Miami-Dade County Canvassing Board, 25 Fila. L. 
+Weekly D2723 (Fla. 3d DCA Nov. 22, 2000). This remedy is 
+well established under Florida law in election contest cases. See 
+Broward Cty. Canvassing Bd. v. Hogan, 607 So. 2d 508 (4th Dist. 
+App. 1992); Morse v. Dade County Canvassing Bd., 456 So. 2d 
+1314 (3rd Dist. App. 1984); McQuagge v. Conrad, 65 So. 2d 1851 
+(Fla. 1953); State ex rel. Carpenter v. Barber, 198 So. 49 (1940); 
+State ex rel. Peacock v. Latham, 170 So. 475 (1936); State ex rel. 
+Titus v. Peacock, 170 So. 309 (1936); Ex parte Beattie, 245 So. 
+591 (1936); Nuccio v. Williams, 120 So. 310 (1929); Ex parte 
+Smith, 118 So. 306 (1928); Florida v. Knott, 72 So. 651 (1916); 
+State ex rel. Law v. Saxon, 5 So. 801 (1889). 
+
+
+Fashioning such a remedy in no way violates the U.S. 
+Constitution in general, or its Equal Protection Clause specifically. 
+Targeting the vote count to those ballots that had not registered on 
+machines that were found not be accurate by the trial court was a 
+narrowly tailored remedy authorized under state law, that certainly 
+does not discriminate against any group of voters on its face. 
+Indeed, it is the exclusion of these ballots, not their inclusion, that 
+would raise questions of unequal treatment. The Florida Supreme 
+Court’s order does nothing more than place the voters whose votes 
+were not tabulated by the machine on the same footing as those 
+whose votes were so tabulated. In the end, all voters are treated 
+equally: ballots that reflect their intent are counted. It is of no 
+constitutional import whether that intent is captured by a machine 
+tabulation or one performed by election officials."* 
+
+
+'® There has been some suggestion that further manual counting of ballots 
+may produce a “degradation of the ballots,” see Bush, supra, at 2 (Scalia, 
+J., concurring). Yet this suggestion has scant support in the record, and 
+there is ample evidence to the contrary. See, e.g., Tr. 11-22-00, Morning 
+
+
+38 
+
+
+2. The Florida Supreme Court’s order of a manual tabulation 
+of ballots that were recorded as “no votes” is consistent with 
+State law. 
+
+
+The gravamen of petitioners’ complaint concerning the manual 
+recount has been its selectivity. Yet, in this case, the Florida 
+Supreme Court ordered not a “selective” recount but a statewide 
+recount of undervotes in every Florida county that had not already 
+completed a manual recount. Indeed, the Florida Supreme Court 
+expressly granted petitioners the relief they sought with respect to 
+a statewide recount, “agree[ing] with the appellees” that Florida 
+statutes “require a counting of the legal votes contained within the 
+undervotes in all counties where the undervote has; not been 
+subjected to a manual tabulation.” Slip op. at 2 (emphasis added). 
+Petitioners cannot complain of a ruling in their favor. 
+
+In any event, the availability of the manual recount as a 
+standard post-election procedure is a long-standing feature of 
+Florida law, and of the law of other States,'® and has been 
+repeatedly used as part of Florida’s system of electoral checks and 
+balances to ensure that all lawfully cast ballots are counted.” As 
+
+
+Session, at 7, 13-14 (Remarks of Supervisor Leahy). More importantly, 
+Clearly the question of to what extent recounts of the ballots increase 
+accuracy is a question for the state courts and state election officials under 
+state law, not for this Court to resolve. 
+
+' At least 21 other states have enacted statutes allowing or even - as in 
+Texas - encouraging the use of manual recounts to back up punch-card 
+tabulation systems. Cal. Elec. Code § 15627; Colo. Rev. Stat. § 1-10.5- 
+102(3); 10 Ill. Comp. Stat. § 5/24A-15.1; Ind. Code § 3-12-3-13; lowa 
+Code § 50.48(4); Kan. Stat. § 25-3107(b); Md. Code § 12-106; Mass. Gen. 
+Laws ch. 54, § 135B; Minn. R. 8235.1000; Mont. Code § 13-16-414(3); 
+Neb. Rev. Stat. § 32-1119(6); Nev. Rev. Stat. § 293.404(3); N.J. Stat. § 
+19:53A-14; 25 Pa. Code § 3031.18; S.D. Admin. R. 5:02:09:05(5); Tex. 
+Elec. Code § 212.005(d); Vt. Stat. § 2601; Va. Code § 24.2-802(C); W. Va. 
+Code § 3-4A-28(4); Wis. Stat. § 5.90. 
+
+® The uncontradicted evidence by both respondents’ and petitioners’ 
+witnesses at trial was that a manual count of punch card ballots was 
+necessary in close elections. Petitioners’ expert witness, John Ahmann, 
+testified that a manual count was advisable “in very close elections” 
+(12/3/00 Tr. 442) and detailed ways in which machine deficiencies could 
+
+
+39 
+
+
+this Court has previously recognized, manual recount procedures, 
+like those that are included in Florida law, are a completely 
+ordinary mechanism for ensuring the accuracy of vote-counts in 
+close elections. See Roudebush v. Hartke, 405 U.S. 15, 25 (1972) 
+_ (“A recount is an integral part of the Indiana electoral process and 
+is within the ambit of the broad powers delegated to the States by 
+Art. I, §4.”). Where some ballots apparently have not been 
+counted, and there is reason to believe that evidence of a voter’s 
+
+
+result in intended votes not registering in a machine count (id. at 425, 430, 
+440-41, 443-45). Respondents’ expert witness also so testified. (12/2/00 
+Tr. 78-87; see also id. at 51-54, 63.) Petitioners’ witness, Judge Burton, 
+testified that it was possible to discern the clear intent of the voter in 
+hundreds of ballots the machines did not register as a vote. (12/2/00 Tr. 
+278; see also id. at 260-61, 271.) The trial court expressly found that 
+“voter error and/or less than total accuracy in regard to the punchcard 
+voting devices utilized in Dade and Palm Beach counties.” (12/4/00 Tr. 
+10.) 
+
+Many studies support the conclusion of the Florida Legislature, the trial 
+court, and witnesses from all sides that machine counts produce 
+inaccuracies. See, e.g., Roy G. Saltman, Accuracy, Integrity, and Security 
+in Computerized Vote-Tallying, U.S. Dep’t of Commerce, National Bureau 
+of Standards (1988); National Bureau of Standards Report, Effective Use of 
+Computing Technology in Vote-Tallying (1978); Ford Fessenden, Counting 
+the Vote, N.Y. TIMES, Nov. 17, 2000, at Al (citing many voting machine 
+manufacturers who say that machine inaccuracy ranged wildly in Florida on 
+November 7, and quoting industry officials who state “the most precise way 
+to count ballots is by hand”); David Beiler, A Short in the Electronic Ballot 
+Box, Campaigns & Elections, July/Aug. 1989, at 39; Tony Winton, Experts: 
+Machine Counts Inaccurate, AP ONLINE, Nov. 11, 2000 (noting that 
+“officials in England and Germany consider manual counts to be more 
+accurate than automated ones” and quoting computer scientists for the 
+proposition that “problems with automated vote-counting equipment, 
+especially the computer card punch type used in south Florida, have been 
+well documented” and that error rates of two percent to five percent are 
+routine); Marlon Manuel, Recounts: Democratic Official Defends Method 
+That Bush Opposes, ATLANTA J. & CONST., Nov. 17, 2000, at All 
+(quoting president of company that “sells ballot software to 12 Florida 
+counties, including . . . Palm Beach, Miami-Dade and Broward” for the 
+proposition that “[i}f they're trying to determine a voter’s intent, they're not 
+going to get it off our machine or any machine”). 
+
+
+40 
+
+
+intent may exist on the face of those ballots, it is an entirely 
+reasonable remedy to direct a manual examination of those 
+ballots to determine whether voter intent can be clearly 
+ascertained. In that regard, the remedy of the Florida Supreme 
+Court was to adhere strictly to the directive of the Florida 
+Legislature that “[nJo vote shall be declared invalid or void if 
+there is a clear indication of the intent of the voter as determined 
+by the canvassing board.” Fla. Stat. § 101.5614(5). 
+
+
+It is important to note that petitioners do not claim that the 
+Florida Supreme Court’s order is discriminatory in any invidious 
+manner; they do not claim that any citizens of Florida were 
+improperly denied their right to vote; and there is no claim of any 
+fraudulent interference with the right of anyone to vote. 
+Petitioners make none of these claims, which in certain 
+circumstances have provided the basis for federal intervention in 
+state election procedures and/or findings of invalidity of such 
+procedures. Instead, petitioners’ contention here seems to be that 
+there is some constitutional defect in a state procedure that permits 
+manual recounts to occur for some votes which may have been 
+missed (undervotes), but not all votes (i.e., votes that were 
+effectively counted by automated processes). The Florida process, 
+however, provides citizens of each county, and candidates for 
+office within each county, with equal rights: No votes can be 
+“diluted” in the constitutional sense by a process that seeks simply 
+to count the legally cast votes of citizens participating in an 
+election whose votes may not have been recognized by an initial 
+machine count.” All undervotes are treated the same way under 
+
+
+2! The “dilution” cases petitioners cite, e.g., Reynolds v. Sims, 377 U.S. 
+533 (1964), and Roman v. Sincock, 377 U.S. 695 (1964), involve the one- 
+person, One-vote principle under which voters from different districts cannot 
+be given votes of unequal weight. That issue is not even presented where, 
+although the election is conducted by individual counties, the winner is 
+determined based on his statewide popular vote. Petitioners’ heavy reliance 
+on O’Brien v. Skinner, 414 U.S. 524 (1974), is equally misplaced. O’Brien 
+stands only for the unremarkable proposition that voters cannot be denied 
+the right to vote solely because of their county of residence. The Florida 
+Supreme Court’s order does not work any such irrational discrimination. 
+
+
+> 4] 
+
+
+the Florida Supreme Court’s order. The Equal Protection Clause 
+does not require that the Florida Supreme Court ignore the most 
+accurately counted vote totals while seeking to ensure that all 
+votes are counted.” . 
+
+
+The use of different vote tabulating systems undoubtedly will 
+generate tabulation differences from county to county.”? But this 
+will be true “[uJnless and until each electoral county in the United 
+States uses the exact same automatic tabulation (and even then 
+
+
+Rather, the remedy fashioned is applied generally and equally to all 
+undervotes in the state. 
+
+Many states expressly allow for county-by-county or 
+precinct-by-precinct recounts. See, e.g., Cal. Elec. Code § 15621 (voter may 
+request recount and specify counties in which recount is sought and order of 
+precincts to be counted; voter must fund recount); Ind. Code § 13-12-11-1 
+(candidate entitled to recount, which may be conducted in one or more 
+precincts); lowa Code § 50.48(4) (any statewide candidate, upon posting 
+bond, is entitled to a recount in “one or more specified election precincts” 
+within counties); Kan. Stat. § 25-3107(b) (candidate (or voter) may request 
+a recount of “the ballots cast in all or in only specified voting areas for the 
+office for which such person is a candidate,” with the recount method being 
+at the discretion of requesting party; bond must be posted); Mont. Code §§ 
+13-16-211, 13-16-305 (any unsuccessful candidate can petition for a recount 
+in specified counties upon posting vond; candidates can also petition a state 
+court for a recount in one or more counties and in one or more precincts 
+within each county, and court “shall order a recount in only the counties or 
+precincts for which sufficient grounds are stated and shown”); N.J. Stat. § 
+19:28-1 (any candidate (or group of 10 voters) who believes that an error may 
+have occurred can apply to state court for a recount of votes cast in any 
+district or districts); Tex. Elec. Code § 212.001(5) (campaigns or voters may 
+request a recount, specifying the election precincts, grouped by county or 
+otherwise, for which the recount is desired); Wis. Stat. § 9.01 (any candidate 
+or voter may request a recount on ground of mistake or fraud; requesting 
+party must post bond and identify specific locations where recounts are 
+desired). 
+
+33 Florida’s 67 counties use four different voting systems: one county 
+counts all votes by hand; one uses mechanical lever voting machines (votes 
+recorded on counter wheel when voters pull lever); 24 use punch card voting 
+systems; and 41 use marksense voting systems (optical scanners detect 
+marks made on ballot). See Pet. App., Exh. A, submitted with petition in 
+Touchston v. McDermott (Dec. 8, 2000); Touchston v. McDermott, No. 00- 
+15985, 2000 WL 1781942, at n.16 (CA11 Dec. 6, 2000). 
+
+
+42 
+
+
+there may be system malfunctions * * * . ).” Siegel v. LePore, 
+2000 WL 1687185, at *7 (S.D. Fla. Nov. 13, 2000). As Chief 
+Judge Anderson noted in the Siegel appeal: “No court has held 
+that the mere use of different methods of counting ballots 
+constitutes an equal protection violation.” Siegel v. LePore, 2000 
+WL 1781946, at *14 (CA11 Dec. 6, 2000) (concurring opinion). 
+Indeed, the fact that counties have different ballot marking and 
+counting systems demonstrates the value in having statutory 
+checks and balances such as a manual recount process.” County- 
+to-county variations of this nature do not violate the constitution. 
+See, e.g., Wyche v. Madison Parish Police Jury, 635 F.2d 1151, 
+1158 (CAS 1981) (legislative deviation from equality is 
+permissible for purposes of administrative convenience, adherence 
+to histci «cal or geographic boundaries and recognition of separate 
+political units).”* 
+
+
+4 For example, most counties in Florida utilize an optical scanning vote 
+count system. That system performed with great accuracy during the 
+presidential race, resulting in only a 0.3% undervote rate (4 in 1000 
+ballots). In contrast, punch card systems such as those used in Palm Beach, 
+Broward and Miami-Dade Counties experienced a 1.5% undervote rate (15 
+in 1000 ballots) in the presidential race. The manual recount process can 
+ameliorate some of the disparity created by the use of different marking and 
+counting equipment. Such a system not only does not violate the Equal 
+Protection Clause; it also enhances the equality of the voting process. 
+
+25 Many legal standards require a finder of fact to examine evidence and 
+make a judgment regarding intent. Morissette v~ United States, 342 U.S. 
+246, 274 (1952) (intent is a question of fact for a jury). Will contests seek 
+the intent of the decedent. Reliance on finders of fact to apply broad 
+standards is ubiquitous. Russell y. Gill, 715 So. 2d 1114 (Fla. Dist. Ct. 
+App. 1998) (where the terms of a contract are ambiguous, intention of the 
+parties may be ascertained from all of the pertinent facts and circumstances); 
+Holland v. United States, 348 U.S. 121 (1954) (evidence must be sufficient 
+to convince criminal jury of the guilt of the accused beyond a reasonable 
+doubt). Indeed, the law is full of standards that require judgment to 
+ascertain intent. Federal juries in criminal fraud cases are instructed to 
+- consider the facts in evidence and that “[t]o act with intent to defraud means 
+to act knowingly and with the intention or the purpose to deceive or cheat.” 
+O’Mally et al., FEDERAL JURY PRACTICE AND INSTRUCTIONS § 16.07 (Sth 
+ed.). 
+
+
+43 
+
+
+3. The “voter intent” standard set by Florida law does not 
+violate the Equal Protection Clause. 
+
+
+The Florida statutory standard used in conducting manual 
+recounts — ascertainment of the voter’s intent, see Fla. Stat. § 
+102.166(7) — does not violate equal protection requirements. It is 
+incorrect to assert, as petitioners do, that the standard for 
+determining whether a ballot should be counted varies from 
+county to county. The “voter intent” standard is the same 
+throughout Florida, and the circuit court issued detailed guidelines 
+to ensure that the manual counts proceeded in a uniform fashion. 
+Each ballot must be reviewed ballot-by-ballot to determine the 
+voter’s intent in the context of the entire ballot. Arbitrary 
+exclusions would violate the Florida statutory scheme. The 
+Florida Supreme Court’s instructions in Harris were given to 
+prevent this result. 
+
+
+In its decision, the Florida Supreme Court reaffirmed the 
+governing standard by which the recounts were to proceed — one 
+that has been in place in Florida and countless other states for 
+years: “the standard to be employed is that established by the 
+Legislature in our Election Code which is that the vote shall be 
+counted as a ‘legal’ vote if there is ‘clear indication of the intent 
+of the voter.’” Slip op. at 40 (citing Fla. Stat. § 101.5614(5)). The 
+state circuit court issued detailed guidance based on this standard 
+immediately after the Florida Supreme Court’s decision. The 
+Florida canvassing boards and courts have long implemented that 
+standard, and vote totals certified in this and many previous 
+elections reflect countless ballots manually recounted under this 
+same standard. See, e.g., Darby v. State, 75 So. 411, 413 (Fla. 
+1917). Indeed, the Secretary of State’s November 14 certification 
+included numerous manually counted votes for petitioners, 
+including vote totals from heavily Republican counties. 
+
+
+Hence, the contention that the “intent of the voter” standard 
+violates equal protection (or due process) is nothing more than an 
+argument that the contest and recount procedures of Florida’s 
+election code, which mirror those that have long existed in one 
+form or another in numerous States, are on their face 
+
+
+44 
+
+
+unconstitutional. Manual counting and recounting of ballots under 
+the intent of the voter standard has been the rule, not the 
+exception, in this country for generations — indeed, for most of the 
+period since its founding. See Bush v. Gore, No. 00-949 
+(00A504) (U.S. Dec. 9, 2000) (Stevens, J., joined by Souter, 
+Ginsburg, and Breyer, JJ., dissenting) (“intent of the voter” 
+standard followed by Florida Supreme Court is “consistent with 
+the prevailing view in other States”); see also Delahunt v. 
+Johnston, 671 N.E.2d 1241 (Mass. 1996); Pullen v. Mulligan, 561 
+N.E.2d 585, 611 (Ill. 1990); Stapleton v. Board of Elections, 821 
+F.2d 191 (CA3 1987); Hickel v. Thomas, 588 P.2d 273, 274 
+(Alaska 1978); Wright v. Gettinger, 428 N.E.2d 1212, 1225 (Ind. 
+1981); Democratic Party of the Virgin Islands v. Board of 
+Elections, 649 F. Supp. 1549, 1552 (D.V.I. 1986) (“There can be 
+no question then, that the intention of the elector must be 
+paramount. Neither a regulation of the Board of Elections, nor a 
+decision of the supervisor of elections, can supercede the 
+requirement that where the elector’s intent can be divined, it 
+should be given effect.”) (citation omitted)); cf. NLRB v. 
+Americold Logistics, Inc., 214 F.3d 935, 939 (CA7 2000) (“The 
+Board’s policy — and the rule in this circuit — is to count ballots 
+when the voters’ intent is clear, despite irregularities in the 
+manner in which the ballots have been marked”) (citations 
+omitted); TCI West, Inc. v. NLRB, 145 F.3d 1113, 1115 (CA9 
+1998) (“The general rule in this Circuit and most other circuits, as 
+well as the policy admitted by the Board is that a ballot should be 
+counted where a voter’s intent is clear, despite irregularities in the 
+voter’s mark.”’) (citations omitted)); NLRB v. Duriron Co., 978 
+F.2d 254, 257 (CA6 1992) (“A ballot should normally be counted 
+if there is a clear expression of preference regardless of an 
+irregularity in the voter’s mark.”); Stapleton v. Board of Elections, 
+821 F.2d 191 (CA3 1987); NLRB v. Connecticut Foundry Co., 688 
+F.2d 871, 875 (CA2 1982) (“The general rule is that a ballot 
+should be counted if there is a clear expression of preference, 
+regardless of the irregularity of the mark on the ballot.’’) (internal 
+quotations omitted); Wackenhut Corp. v. NLRB, 666 F.2d 464, 
+467 (CA11 1982) (“We seek to determine whether the Board’s 
+
+
+45 
+
+
+action here is consistent with the admitted Board policy of 
+attempting to give effect to the voters’ intent whenever possible”) 
+(internal quotations omitted) (citing NLRB v. Manhattan Corp., 
+620 F.2d 53 (CAS 1980); NLRB v. Titche-Goettinger Co., 433 
+F.2d 1045 (CAS 1970)). 
+
+
+Moreover, with respect to the counting of punch card ballots, 
+most States do not attempt specifically to define what particular 
+appearance of the ballot is required before a vote is to be counted. 
+Even those States that do have such standards usually have a 
+“catch-all” provision permitting the counting of any ballot that 
+“otherwise reflects the intent of the voter.” E.g., Tex. Elec. Code 
+§ 127.130(d)(4), (e) (vote to be counted if “indentation” on chad 
+or other mark indicates clearly ascertainable intent of voter); Ind. 
+Code Ann. § 3-12-1-1. At least 22 states have enacted statutes 
+allowing — or even as in Texas encouraging — the use of manual 
+recounts to back up punch-card tabulation systems. See supra. 
+
+
+Even in states that have adopted statutory guidelines to assist 
+in ascertaining voter intent, the ultimate goal is to determine how 
+a voter intended to vote. For example, the election code of Texas 
+provides as follows: 
+
+
+(d) Subject to Subsection (e), in any manual count conducted 
+under this code, a vote on a ballot on which a voter indicates 
+a vote by punching a hole in the ballot may not be counted 
+unless: 
+
+
+(1) at least two corners of the chad are detached: 
+(2) light is visible through the hole; 
+
+
+(3) an indentation on the chad from the stylus or other 
+object is present and indicates a clearly ascertainable 
+intent of the voter to vote, or 
+
+
+(4) the chad reflects by other means a clearly 
+ascertainable intent of the voter to vote. 
+
+
+(e) Subsection (d) does not supersede any clearly 
+ascertainable intent of the voter. 
+
+
+46 
+
+
+Tex. Elec. Code § 127.130 (emphasis added). The Texas statute, 
+while providing guidelines for manually counting punch card 
+ballots, thus establishes the intent of the voter as the paramount 
+and overriding standard. Indeed, the guidelines set forth in 
+subsection (d) are made expressly subject to this overarching 
+standard. If the Florida standard is struck as unconstitutional, it 
+is difficult to see how statutes such as the Texas election code 
+could survive. 
+
+
+If petitioners have complaints about the treatment of particular 
+ballots, or the treatment of ballots in particular locations, the 
+Florida procedure now in place provides a perfectly suitable 
+mechanism for addressing them: such complaints may be 
+presented to the circuit court and tested on appeal. But rather than 
+invoke that traditional remedy, petitioners would have the Court 
+abruptly end the counting altogether and toss out lawfully cast 
+ballots that have been, and are now being, counted. That is an 
+absurd and unprecedented response to an asserted flaw in the 
+process for tabulating votes, and one that surely is not required by 
+the U.S. Constitution. In fact, if there is anything to petitioners’ 
+equal protection claim, the remedy is not to end the counting of 
+votes; it is, instead, to articulate the proper standard and — as 
+required by state law — to have the counting go forward under that 
+standard. 
+
+
+B. There Is No Violation of the Due Process Clause. 
+
+
+Petitioners’ claim under the Due Process Clause has no merit. 
+First, any suggestion that the application of different counting 
+standards by different counties raise due process concerns here is 
+fatally flawed because petitioners have utterly failed to develop 
+any record evidence to support their accusations in this regard and 
+can offer only unconfirmed rumors and untested accusations. As 
+described supra, recounts have in fact proceeded in an orderiy and 
+uniform fashion. Florida’s manual recount system acts as an 
+important check on the ballot counting process that promotes, not 
+erodes, public trust in the electoral system. The manual recounts 
+here, for example, were conducted in full public view by counting 
+teams made up of representatives from different political parties, 
+
+
+47 
+
+
+with the supervision of a three-member canvassing board that 
+includes a sitting county judge and review by the Florida 
+judiciary. And the circuit court developed lengthy and detailed 
+guidelines to ensure uniformity and accuracy. 
+
+
+Petitioners’ allegations about the recount process are thus 
+without any factual basis. Moreover, they are not even legally 
+cognizable. Petitioners have failed to adduce proper evidence to 
+support their claim. In any event, if there are isolated mistakes or 
+inaccuracies during recounts, petitioners have ample remedies 
+available to them under Florida law and Florida procedure to 
+secure full redress. There is no warrant for holding the entire 
+recount procedure unconstitutional on its face. 
+
+
+Petitioners’ argument would have the unthinkable 
+consequences of (i) overturning the settled “intent of the voter” 
+standard; (ii) invalidating the entire election in Florida, in which 
+many ballots already have been included in the certified totals as 
+a result of manual counting, and (iii) calling into question 
+numerous other results nationwide in a host of local, state, and 
+national elections. Not surprisingly, petitioners’ argument also 
+flatly contradicts their representation of counsel before the Florida 
+courts in the Bush v. Palm Beach County Canvassing Board 
+litigation (quoted above), in which they urged that manual 
+recounts should be conducted pursuant to a contest in order to 
+minimize concerns regarding the standards for counting. 
+
+
+To the extent that petitioners’ due process argument rests on 
+the claim that the Florida Supreme Court imposed standards for 
+counting the votes that were not in place when the votes were cast, 
+that argument must fail for reasons already discussed above: the 
+law enunciated in the Florida Supreme Court’s opinion is the law 
+as it existed on election day and long before it. In fact, this 
+argument is particularly flawed in the due process context. To 
+establish the charge of a constitutionally impermissible retroactive 
+change in the law, petitioners would have to demonstrate not 
+simply that the Florida Supreme Court’s decision constituted a 
+retrospective change and that the change deprived them of a 
+cognizable liberty or property interest, but also that the change 
+
+
+48 
+
+
+was “arbitrary and irrational.” Eastern Enters. v. Apfel, 524 U.S. 
+498, 548 (1998) (Kennedy, J., concurring in the judgment and 
+dissenting in part); see also id. at 537 (plurality opinion of 
+O’Connor, J.) (same); id. at 556 (Breyer, J., dissenting) (same). 
+Petitioners cannot possibly meet this standard,” and the 
+authorities on which they rely are wholly inapposite.”’ 
+
+
+The only due process right even arguably implicated by this 
+case is the right of voters to have their ballots counted, a 
+consideration that strongly supports the state supreme court’s 
+decision. It is worth noting in this respect that petitioners 
+
+
+© This Court’s decisions reflect the strong presumption, consistent with 
+this Court’s understanding of the nature of the judicial act, that judicial 
+rulings must be retrospectively applied to the parties themselves. See, e.g., 
+Harper v. Virginia Dep't of Taxation, 509 U.S. 86, 97 (1993); see id. at 
+107-08 (Scalia, J., concurring). 
+
+7? Roe v. Alabama, 43 F.3d 574 (per curiam), and 68 F.3d 404 (CA11 
+1995) (per curiam), involved the claim of Alabama voters that the 
+effectiveness of their votes would be diluted by the retroactive abrogation 
+of a uniform, long-standing prohibition on accepting certain write-in ballots. 
+Not only do petitioners lack standing to raise such a claim, but the Eleventh 
+Circuit's holding rested on the fact that the change in Alabama law resulted 
+in the counting of selected ballots that previously had been regarded as 
+illegal in circumstances where voters who were noi given the benefit of the 
+new rule of eligibility could plausibly allege that they would have decided 
+to vote had the onerous requirements lifted for others been lifted for them 
+as well. Petitioners assert here the very different interest in precluding the 
+counting of entirely /awful ballots, an interest that cannot possibly have 
+constitutional footing. 
+
+Any reliance on United States v. Mosley, 238 U.S. 383 (1915), 
+United States v. Classic, 313 U.S. 299 (1941), and Lane v. Wilson, 307 
+U.S. 268 (1939), would also be misplaced. All three decisions involve 
+cases in which voters were deliberately and insidiously disenfranchised. 
+Mosley and Classic were criminal cases that involved conspiracies to 
+preclude votes in certain precincts from being counted and to count votes for 
+a candidate as votes for his opponent. Lane was a challenge to a state 
+Statutory scheme that permanently disenfranchised a class of voters who 
+failed to register to vote during a certain ten-day period. Unlike the cases 
+cited by petitioners, the Florida statutory process seeks to enfranchise voters 
+where machine marking and recording equipment may have worked a 
+disenfranchisement of voters who cast legal ballots. 
+
+
+49 
+
+
+themselves have taken the view that military absentee votes 
+should be counted even if the ballots in question did not comply 
+with various clear requirements of Florida statutory law. We 
+agree that voters have important rights to have their ballots 
+counted, and the magnitude of those rights dwarfs any due process 
+claim petitioners assert here.” 
+
+
+At bottom, all petitioners can really claim is that, in their view, 
+the Florida Supreme Court got Florida law wrong. But a “‘mere 
+error of state law’ is not a denial of due process.” Engle v. Isaac, 
+456 U.S. 107, 121 n.21 (1982); Gryger v. Burke, 334 U.S. 728, 
+731 (1948) (“otherwise, every erroneous decision by a state court 
+on state law would come here as a federal constitutional 
+question”); Brinkerhoff-Faris Co. v. Hill, 281 U.S. 673, 680 
+(1930) (Brandeis, J.) (“[T]he mere fact that a state court has 
+rendered an erroneous decision on a question of state law, or has 
+overruled principles or doctrines established by previous decisions 
+on which a party relied, does not give rise to a claim under the 
+Fourteenth Amendment or otherwise confer appellate jurisdiction 
+on this Court”). To hold that the decision below violates due 
+process would do violence both to principles of federalism and to 
+the independence of the judiciary throughout the United States. 
+It would invite an onslaught of such claims by the losing parties 
+in state courts alleging that the decisions in their cases constituted 
+an unconstitutional departure from “preexisting law.” And it 
+would undermine the authority of the judiciary to decide the 
+meaning of law, by holding that apparently routine judicial acts of 
+statutory construction long thought to involve only questions of 
+state law in fact amount to illegitimate and unconstitutional 
+usurpations of the legislative role. 
+
+
+CONCLUSION 
+The stay granted by this Court should be immediately 
+
+
+28 Even if this Court disagreed, the appropriate remedy for either an Equal 
+Protection Clause or Due Process Clause violation would not be to cancel all 
+recounts, but rather to order that the recounts be undertaken under a uniform 
+standard. Counting none of the votes would be vote dilution with a 
+
+
+vengeance. 
+
+
+50 
+
+
+dissolved, and the judgment of the Florida Supreme Court should 
+
+
+be affirmed. 
+
+
+Respectfully submitted. 
+
+
+David Boies 
+
+Robert Silver 
+
+Boies, Schiller & Flexner 
+80 Business Park Dr. 
+Suite 110 
+
+Armonk, NY 10504 
+
+
+Thomas C. Goldstein 
+Amy Howe 
+
+4607 Asbury Pl. NW 
+Washington, DC 20016 
+
+
+Jonathan S. Massey 
+3920 Northampton St. NW 
+Washington, DC 20015 
+
+
+Kendall Coffey 
+
+Coffey Diaz & O’Naghten 
+2665 South Bayshore Dr. 
+Miami, FL 33133 
+
+
+December 10, 2000 
+
+
+Laurence H. Tribe 
+(Counsel of Record) 
+Hauser Hall 420 
+
+1575 Massachusetts Ave. 
+Cambridge, MA 02138 
+
+
+Ronald A. Klain 
+
+Andrew J. Pincus 
+Gore-Lieberman Recount Cmt. 
+430 S. Capitol St. 
+
+Washington, DC 20003 
+
+
+Peter J. Rubin 
+
+Georgetown Univ. Law Ctr. 
+600 New Jersey Ave. NW 
+Washington, DC 20001 
+
+

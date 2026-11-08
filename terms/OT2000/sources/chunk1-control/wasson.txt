@@ -1,0 +1,109 @@
+
+
+    203 F.3d 659
+
+203 F.3d 659 (9th Cir. 2000)
+
+SYLVIA J. WASSON, an individual, Plaintiff-Appellant,
+v.
+SONOMA COUNTY JUNIOR COLLEGE; GOVERNING BOARD OF THE SONOMA COUNTY JUNIOR COLLEGE DISTRICT; OPINION ROBERT F. AGRELLA; JAMES MITCHELL; JOHN ROBERTS, Defendants-Appellees.
+
+No. 98-15967
+
+UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+Argued and Submitted June 17, 1999
+Submission Vacated June 23, 1999
+Resubmitted August 2, 1999
+Filed February 16, 2000
+
+[Copyrighted Material Omitted]
+
+COUNSEL: Scott L. Steever, Lanahan & Reilley, Santa Rosa, California, for the plaintiff-appellant.
+
+Larry J. Frierson and Scott N. Kivel, Liebert, Cassidy & Frierson, San Francisco, California, for the defendants-appellees.
+
+Appeal from the United States District Court for the Northern District of California.
+
+Before: Mary M. Schroeder, Betty B. Fletcher, and Cynthia Holcomb Hall, Circuit Judges.
+
+Opinion by Judge Schroeder; Dissent by Judge B. Fletcher
+
+SCHROEDER, Circuit Judge:
+
+      1
+      
+The dispositive issue is whether a public employee can maintain a claim that her employer wrongfully retaliated against her for the exercise of First Amendment rights to free speech when she denies having made the speech in question. We conclude that the plaintiff fails to state a First Amendment claim in these circumstances because she cannot show the alleged wrongful conduct was in retaliation for any exercise of her free speech rights.
+
+      2
+      
+Sylvia Wasson is a professor in the Sonoma County Junior College District ("the District"). She filed this suit against District President Robert Agrella and District Vice President John Roberts after they recommended Wasson's termination to the District's Governing Board. It is undisputed that defendants sought to fire Wasson because they believed her to be the author of six publicly disseminated writings that vilified Agrella. Wasson vigorously denies that she is the author of these writings. The district court granted defendants' motion to dismiss Wasson's First Amendment claim on the basis of qualified immunity. We affirm on different grounds because we conclude that Wasson has failed to state a claim.
+
+FACTS
+
+      3
+      
+From August 1995 to October 1996, a series of five anonymous letters and one anonymous flyer ("the letters") were disseminated throughout the college community of the District. The letters accused Agrella of various types of misconduct. The District's Governing Board ("the Board") responded to these letters by launching an investigation to determine who authored the letters. The Board empowered District counsel Robert Henry to hire a private investigator and a document examiner to assist in the investigation.
+
+      4
+      
+Wasson was identified as one of three individuals whom Agrella suspected as the author of the letters. At the time, Wasson was employed as an instructor by the District. Agrella authorized that Wasson's personnel file be turned over to the document examiner. Based on a comparison of handwriting and prose style, the document examiner concluded that Wasson wrote the letters. Wasson denies that she is the author or disseminator of the letters. On the basis that Wasson's alleged authorship of the letters constituted "evident unfitness for service," Roberts presented to the Board a recommendation for Wasson's dismissal on January 14, 1997. The recommendation included a Statement of Charges that stated, in pertinent part:Individually and collectively, these [letters ] contain statements about Dr. Robert Agrella, the Superintendent/ President of Sonoma County Junior College District, that are false and defamatory and which had the purpose or effect of undermining his leadership of the College District and that brought public discredit to the College District.
+
+      5
+      
+The Board adopted the recommendation and issued a Notice of Decision to Dismiss Wasson that day. Wasson alleges that Roberts may have been ordered by Agrella to present the recommendation to the Board. Thus, for purposes of the defendants' motion to dismiss, we assume that both Agrella and Roberts recommended Wasson's dismissal. Wasson was placed on paid leave pending an administrative appeal of her termination. On March 24, 1997, the Board withdrew without prejudice the Notice of Decision to Dismiss and reinstated Wasson to her instructor position. She is currently employed by the District in that position. Wasson alleges, however, that the Board can terminate her at any time until October 28, 2000 by reinstating the Notice of Decision to Dismiss.
+
+      6
+      
+Wasson's First Amended Complaint, which we review here, names only Agrella and Roberts as defendants. She contends that the defendants violated her free speech rights by (1) their conduct in investigating the letters, which led to their conclusion that Wasson was the author; and (2) the defendants' role in recommending that Wasson be terminated on the basis that she wrote the letters. The district court granted qualified immunity to Agrella and Roberts on their motion to reconsider the district court's earlier denial of the defendants' motion to dismiss.
+
+DISCUSSION
+
+      7
+      
+It is well-settled that the First Amendment precludes retaliation by a public employer against an employee on the basis of certain instances of protected speech by the employee. See Connick v. Myers, 461 U.S. 138 (1983); Pickering v. Board of Educ., 391 U.S. 563 (1968). A public employee's speech is protected when it relates to a matter of public concern, see Connick, 461 U.S. at 146, and the employee's interest in engaging in such speech outweighs the public employer's interest "in promoting the efficiency of the public services it performs through its employees. " Pickering, 391 U.S. at 568.
+
+      8
+      
+This First Amendment case is unusual because Wasson asserts that the defendants retaliated against her for speech that she insists she did not make. Accepting Wasson's allegations as true, she thus has not engaged in any relevant constitutionally protected speech. Yet, she claims that her free speech rights under the First Amendment were violated because the defendants falsely imputed to her the letters critical of Agrella.
+
+      9
+      
+Several of our sister circuits have rejected claims identical to Wasson's, holding that there can be no First Amendment cause of action where there was no speech by the plaintiff. See Jones v. Collins, 132 F.3d 1048, 1054 (5th Cir. 1998); Fogarty v. Boles, 121 F.3d 886, 890-91 (3d Cir. 1997); Barkoo v. Melby, 901 F.2d 613, 619 (7th Cir. 1990). This circuit, although never squarely addressing the issue in question, has recognized that a plaintiff must demonstrate that she has engaged in constitutionally protected expression to establish a First Amendment retaliation claim. See Moran v. Washington, 147 F.3d 839, 846 (9th Cir. 1998) (citing Board of County Comm'rs v. Umbehr, 518 U.S. 668, 675 (1996)). Having denied that she wrote the letters, Wasson undermines her claim that the defendants' conduct impermissibly chilled her speech. "[A] free speech claim depends on speech, and there was none in this case." Fogarty, 121 F.3d at 890.
+
+      10
+      
+A First Amendment retaliation claim is not a wrongful termination claim. Rather, a First Amendment retaliation claim seeks to vindicate a public employee's exercise of free speech rights when she has suffered an adverse employment action in response to having spoken out publicly. It cannot be used to remedy a case of mistaken identity. In fact, the Supreme Court has "never held that it is a violation of the Constitution for a government employer to discharge an employee based on substantively incorrect information." Waters v. Churchill, 511 U.S. 661, 679 (1994). Accordingly, there can be no First Amendment claim when an employee is falsely accused of making statements uttered by someone else.
+
+      11
+      
+Wasson argues that she should be able to maintain her action because she is defending the First Amendment rights of the anonymous author of the letters. Wasson is certainly correct to point out that an author's anonymity is an aspect of free speech protected by the First Amendment. See McIntyre v. Ohio Elections Comm'n, 514 U.S. 334, 341-42 (1995). She fails to explain, however, how she has standing to assert the anonymous author's rights. Parties ordinarily are not permitted to assert constitutional rights other than their own. See NAACP v. Alabama, 357 U.S. 449, 459 (1958). A litigant can maintain "third party" standing only when she satisfies a three-prong test: (1) the litigant must have suffered an "injury in fact," (2) the litigant must have a close relation to the third party, and (3) there must exist some hindrance to the third party's ability to protect his or her own interests. Powers v. Ohio, 499 U.S. 400, 410-11 (1991). Wasson, at a minimum, fails the second prong because she has established no relationship between herself and the anonymous author.
+
+      12
+      
+Wasson also suggests that defendants violated the First Amendment because they conducted an unreasonable investigation to determine that she was the alleged author of the letters. In Waters v. Churchill, 511 U.S. 661 (1994), Justice O'Connor's plurality opinion acknowledged that a public employer violates the First Amendment when it employs "procedures outside the range of what a reasonable manager would use" to determine what an employee supposedly said. Id. at 678. The facts of Waters demonstrate, however, that it does not apply to a situation where the employee denies having spoken at all. In Waters, the employer received two different versions of plaintiff's speech: one version would have been protected under the First Amendment while the other could permissibly have served as the basis for plaintiff's discharge. Id. at 665-66; see Fogarty, 121 F.3d at 889. Justice O'Connor reasoned that the employer is subject to liability under the First Amendment if an unreasonable investigation led it to believe the unprotected version of plaintiff's speech. The logic behind Waters is that an employer that fails to conduct a reasonable investigation may not escape liability for mistaken retaliation against an employee who has engaged in protected speech. The case concerned a mistake about the content of the plaintiff's speech, not about the identity of the speaker.
+
+      13
+      
+AFFIRMED.
+
+B. FLETCHER, Circuit Judge, Dissenting:
+
+      14
+      
+I respectfully dissent. The majority disposes of this case on the grounds that Sylvia Wasson failed to state a claim under the First Amendment. It holds that because she denies writing a series of letters that were imputed to her by her employer, she has no standing to challenge and seek recompense for the retaliation she suffered a threat of firing, placement on forced administrative leave, and public humiliation. The majority completely ignores the chilling effect its holding will have on her as well as other individualsseeking to exercise their right to speak anonymously.
+
+      15
+      
+The majority would resolve this case by finding that Wasson does not have standing to assert another's rights to anonymous speech. But the right at stake is her right not to be retaliated against for speech she either made anonymously or did not make at all. She has been injured. The majority finds Waters v. Churchill, 511 U.S. 661 (1994) inapplicable because in Waters the plaintiff acknowledged speaking but disputed what was said. Justice O'Connor's plurality opinion acknowledged that a public employer violates the First Amendment when it does not conduct a reasonable investigation as to what was said. I would find Waters  fully applicable in the setting of this case: to determine what wasn't said by the employee is equally as important as determining what was said. In this case as well as Waters, the issue is whether the employee was wrongfully accused and whether the utterance was or was not protected.
+
+      16
+      
+The employer should not escape liability unless it proves both that Wasson was the speaker and further, that if she were the speaker, her speech was not protected (i.e. not on a subject of public importance).
+
+      17
+      
+Anonymous speech has long been protected by the First Amendment. As the Supreme Court has reminded us, "Anonymous pamphlets, leaflets, brochures and even books have played an important role in the progress of mankind." Talley v. California, 362 U.S. 60, 64 (1960); see also McIntyre v. Ohio Elections Comm'n, 514 U.S. 334 (1995) (discussing central role of anonymous speech in free marketplace of ideas). I cannot join the majority in holding that the protection provided by the First Amendment does not extend to Wasson, an individual who has been targeted and punished for allegedly uttering anonymous speech on the grounds that she denies making the statements at issue
+
+CC∅ | Transformed by Public.Resource.Org
+

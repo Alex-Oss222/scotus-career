@@ -1,0 +1,1172 @@
+=== PDF PAGE 1 ===
+Supreme Court of Florida CORRECTED OPINION
+_____________________________________
+Nos.  SC00-2346, SC00-2348 & SC00-2349
+______________________________________
+PALM BEACH COUNTY CANVASSING BOARD, 
+Petitioner,
+vs.
+KATHERINE HARRIS, etc., et al.,
+Respondents.
+                                                                                               
+VOLUSIA  COUNTY CANVASSING BOARD, et al., 
+Appellants,
+vs.
+KATHERINE HARRIS, etc., et al.,
+Appellees.
+                                                                                               
+FLORIDA DEMOCRATIC PARTY,
+Appellant,
+vs.
+KATHERINE HARRIS, etc., et al.,
+Appellees.
+[November 21, 2000]
+PER CURIAM.
+We have for review two related trial court orders appealed to the First District
+Court of Appeal, which certified the orders to be of great public importance
+requiring immediate resolution by this Court (Case Numbers SC00-2348 and SC00-
+
+=== PDF PAGE 2 ===
+1  The Palm Beach County Canvassing Board has filed in this Court an “Emergency Petition for
+Extraordinary Writ” against Secretary of State Katherine Harris and others (Case Number SC00-
+2346).  We have examined our jurisdiction under article V, section 3(b)(8) of the Florida Constitution. 
+However, because the issue raised by that separate petition can be disposed of in our pending case and
+because we have previously stated in our order of November 16, 2000, that there was “no legal
+impediment” to the manual recounts continuing, we deem it unnecessary to determine if we have a
+separate basis of jurisdiction for entertaining the writ.  Accordingly, by separate order we dismiss the
+petition.
+-2-
+2349).  We have jurisdiction under article V, section 3(b)(5) of the Florida
+Constitution.  For the reasons set forth in this opinion, we reverse the orders of the
+trial court.1
+I.  FACTS
+A.  The Election
+On Tuesday, November 7, 2000, the State of Florida, along with the rest of
+the United States, conducted a general election for the President of the United
+States.  The Division of Elections (“Division”) reported on Wednesday, November
+8, that George W. Bush, the Republican candidate, had received 2,909,135 votes,
+and Albert Gore Jr., the Democratic candidate, had received 2,907,351 votes. 
+Because the overall difference in the total votes cast for each candidate was less
+than one-half of one percent of the total votes cast for that office (i.e., the difference
+was 1,784 votes), an automatic recount was conducted
+
+=== PDF PAGE 3 ===
+2Section 102.141(4), Florida Statutes (2000), provides in pertinent part:
+(4) If the returns for any office reflect that a candidate was defeated or
+eliminated by one-half of a percent or less of the votes cast for such office . . . the
+board responsible for certifying the results of the vote on such race or measure shall
+order a recount of the votes cast with respect to such office or measure.
+3We have not discussed the events in Miami-Dade County because Miami-Dade is not a party
+nor has it sought to intervene in this case.
+-3-
+ pursuant to section 102.141(4), Florida Statutes.2  The recount resulted in a
+substantially reduced figure for the overall difference between the two candidates.
+In light of the closeness of the election, the Florida Democratic Executive
+Committee on Thursday, November 9, requested that manual recounts be
+conducted in Broward, Palm Beach, and Volusia Counties pursuant to section
+102.166, Florida Statutes (2000).3  Pursuant to section 102.166(4)(d), the county
+canvassing boards of these counties conducted a sample manual recount of at least
+one percent of the ballots cast.  Initial manual recounts demonstrated the following: 
+In Broward County, a recount of one percent of the ballots indicated a net increase
+of four votes for Gore; and in Palm Beach County, a recount of four sample
+precincts yielded a net increase of nineteen votes for Gore.  Based on these
+recounts, several of the county canvassing boards determined that the manual
+recounts conducted indicated “an error in the vote tabulation which could affect the
+outcome of the election.”  Based on this determination, several canvassing boards
+
+=== PDF PAGE 4 ===
+-4-
+voted to conduct countywide manual recounts pursuant to section 102.166(5)(c).
+B.  The Appeal Proceedings
+Concerned that the recounts would not be completed prior to the deadline set
+forth in section 102.111(1), Florida Statutes (2000), requiring that all county returns
+be certified by 5 p.m. on the seventh day after an election, the Palm Beach County
+Canvassing Board, pursuant to section 106.23, Florida Statutes (2000), sought an
+advisory opinion from the Division of Elections, requesting an interpretation of the
+deadline set forth in sections 102.111 and 102.112.  The Division of Elections
+responded by issuing Advisory Opinion DE 00-10, stating that absent unforseen
+circumstances, returns from the county must be received by 5 p.m. on the seventh
+day following the election in order to be included in the certification of the statewide
+results.
+Relying upon this advisory opinion, the Florida Secretary of State (the
+Secretary) issued a statement on Monday, November 13, 2000, that she would
+ignore returns of the manual recounts received by the Florida Department of State
+(the Department) after Tuesday, November 14, 2000, at 5:00 p.m.  The Volusia
+County Canvassing Board (the Volusia Board) on Monday, November 13, 2000,
+filed suit in the Circuit Court of the Second Judicial Circuit in Leon County, Florida,
+seeking declaratory and injunctive relief, and the candidates and the Palm Beach
+
+=== PDF PAGE 5 ===
+4The trial court’s order reads in part:
+The County Canvassing Boards are, indeed, mandated to certify and file their
+returns with the Secretary of State by 5:00 p.m. today, November 14, 2000.  There is
+nothing, however, to prevent the County Canvassing Boards from filing with the
+Secretary of State further returns after completing a manual recount.  It is then up to the
+Secretary of state, as the Chief Election Officer, to determine whether any such
+corrective or supplemental returns filed after 5:00 p.m. today, are to be ignored.  Just
+as the County Canvassing Boards have the authority to exercise discretion in
+determining whether a manual recount should be done, the Secretary of State has the
+authority to exercise her discretion in reviewing that decision, considering all attendant
+facts and circumstances, and decide whether to include or to ignore the late filed returns
+in certifying the election results and declaring the winner.
+Just as the Secretary cannot decide ahead of time what late returns should or
+should not be ignored, it would not be proper for me to do so by injunction.  I can
+lawfully direct the Secretary to properly exercise her discretion in making a decision on
+the returns, but I cannot enjoin the Secretary to make a particular decision, nor can I
+rewrite the Statute which, by its plain meaning, mandates the filing of returns by the
+Canvassing Boards by 5:00 p.m. on November 14, 2000.
+-5-
+County Canvassing Board (the Palm Beach Board), among others, were allowed to
+intervene.  In its suit, the Volusia Board sought a declaratory judgment that it was
+not bound by the November 14, 2000, deadline and also sought an injunction
+barring the Secretary from ignoring election returns submitted by the Volusia Board
+after that date.
+The trial court ruled on Tuesday, November 14, 2000, that the deadline was
+mandatory but that the Volusia Board may amend its returns at a later date and that
+the Secretary, after “considering all attendant facts and circumstances,” may
+exercise her discretion in determining whether to ignore the amended returns.4  Later
+
+=== PDF PAGE 6 ===
+McDermott v. Harris, No. 00-2700, unpublished order at 7 (Fla. 2d Cir. Ct. Nov. 14, 2000).
+5The criteria considered by the Secretary are as follows:
+Facts & Circumstances Warranting Waiver of Statutory Deadline
+1.  Where there is proof of voter fraud that affects the outcome of the election. 
+In re Protest of Election Returns, 707 So. 2d 1170, 1172 (Fla. 3d DCA 1998);
+Broward County Canvassing Bd. v. Hogan, 607 So. 2d 508, 509 (Fla. 4th DCA
+1992).
+2.  Where there has been a substantial noncompliance with statutory election
+procedures, and reasonable doubt exists as to whether the certified results expressed
+the will of the voters.  Beckstrom v. Volusia County Canvassing Bd., 707 So. 2d 720
+(Fla. 1998).
+3.  Where election officials have made a good faith effort to comply with the
+statutory deadline and are prevented from timely complying with their duties as a result
+of an act of God, or extenuating circumstances beyond their control, by way of
+example, an electrical power outage, a malfunction of the transmitting equipment, or a
+-6-
+that day, the Volusia Board filed a notice of appeal of this ruling to the First District
+Court of Appeal, and the Palm Beach Board filed a notice of joinder in the appeal.
+Subsequent to the circuit court’s order, the Secretary announced that she was
+in receipt of certified returns (i.e., the returns resulting from the initial recount) from
+all counties in the State.  The Secretary then instructed Florida’s Supervisors of
+Elections (Supervisors) that they must submit to her by 2 p.m., Wednesday,
+November 15, 2000, a written statement of “the facts and circumstances” justifying
+any belief on their part that they should be allowed to amend the certified returns
+previously filed.  Four counties submitted their statements on time.  After
+considering the reasons in light of specific criteria,5 the Secretary on Wednesday, 
+
+=== PDF PAGE 7 ===
+mechanical malfunction of the voting tabulation system.  McDermott v. Harris, No. 00-
+2700 (Fla. 2d Cir. Ct. Nov. 14, 2000).
+Facts & Circumstances Not Warranting Waiver of Statutory Deadline
+1.  Where there has been substantial compliance with statutory election
+procedures and the contested results relate to voter error, and there exists a reasonable
+expectation that the certified results expressed the will of the voters.  Beckstrom.
+Volusia County Canvassing Bd., 707 So. 2d 720 (Fla. 1998).
+2.  Where there exists a ballot that may be confusing because of the alignment
+and location of the candidates’ names, but is otherwise in substantial compliance with
+the election laws.  Nelson v. Robinson, 301 So. 2d 508, 511 (Fla. 2d DCA 1974)
+(“[M]ere confusion does not amount to an impediment to the voters’ free choice if
+reasonable time and study will sort it out.”).
+3.  Where there is nothing “more than a mere possibility that the outcome of the
+election would have been effected.”  Broward County Canvassing Bd. v. Hogan, 607
+So. 2d 508, 510 (Fla. 4th DCA 1992).
+Letter from Katherine Harris to Palm Beach County Canvassing Board (Nov. 15, 2000).
+-7-
+November 15, 2000, rejected the reasons and again announced that she would not
+accept the amended returns but rather would rely on the earlier certified totals for the
+four counties.  The Secretary further stated that after she received the certified
+returns of the overseas absentee ballots from each county, she would certify the
+results of the presidential election on Saturday, November 18, 2000.
+On Thursday, November 16, 2000, the Florida Democratic Party and Albert
+Gore filed a motion in Circuit Court of the Second Judicial Circuit in Leon County,
+Florida, seeking to compel the Secretary to accept amended returns.  After
+conducting a hearing, the court denied relief in a brief order dated Friday, November
+
+=== PDF PAGE 8 ===
+6The court’s order reads in part:
+On the limited evidence presented, it appears that the Secretary has exercised
+her reasoned judgment to determine what relevant factors and criteria should be
+considered, applied them to the facts and circumstances pertinent to the individual
+counties involved, and made her decision.  My order requires nothing more.
+McDermott v. Harris, No. 00-2700, unpublished order at 2 (Fla. 2d Cir. Ct. Nov. 17, 2000).
+7See Art. V, § 3(b)(5), Fla. Const. (“[The Court may] review any order or judgment of a trial
+court certified by the district court of appeal in which an appeal is pending to be of great public
+importance . . . and certified to require immediate resolution by the supreme court.”).
+8Subsequently, the Volusia Board moved to voluntarily dismiss its appeal in this Court.  The
+Court granted the motion, but indicated that the case style would remain the same and that Gore and
+the Palm Beach Board “would continue as intervenors/appellants in this action.” 
+-8-
+17, 2000.6  That day, both the Democratic Party and Gore appealed to the First
+District Court of Appeal, which consolidated the appeals with the Volusia Board’s
+appeal already pending there, and certified both of the underlying trial court orders
+to this Court based on the Court’s “pass-through” jurisdiction.7  By orders dated
+Friday, November 17, 2000, this Court accepted jurisdiction, set an expedited
+briefing schedule, and enjoined the Secretary and the Elections Canvassing
+Commission (Commission) from certifying the results of the presidential election
+until further order of this Court.8
+II.  GUIDING PRINCIPLES
+Twenty-five years ago, this Court commented that the will of the people, not a
+hyper-technical reliance upon statutory provisions, should be our guiding principle
+
+=== PDF PAGE 9 ===
+9  See State ex rel.Chappell v. Martinez, 536 So. 2d 1007, 1009 (Fla. 1988) (holding that
+disenfranchisement of voters is not proper where there has been substantial compliance with the
+election statute and the intent of voter can be ascertained); Beckstrom v. Volusia County Canvassing
+Bd., 707 So. 2d 720, 726 (Fla. 1998) (holding that courts should not frustrate will of voters if that will
+can be determined).
+-9-
+in election cases:
+[T]he real parties in interest here, not in the legal sense but
+in realistic terms, are the voters.  They are possessed of
+the ultimate interest and it is they whom we must give
+primary consideration.  The contestants have direct
+interests certainly, but the office they seek is one of high
+public service and of upmost importance to the people,
+thus subordinating their interest to that of the people. 
+Ours is a government of, by and for the people.  Our
+federal and state constitutions guarantee the right of the
+people to take an active part in the process of that
+government, which for most of our citizens means
+participation via the election process.  The right to vote is
+the right to participate; it is also the right to speak, but
+more importantly the right to be heard.  We must tread
+carefully on that right or we risk the unnecessary and
+unjustified muting of the public voice.  By refusing to
+recognize an otherwise valid exercise of the right of a
+citizen to vote for the sake of sacred, unyielding adherence
+to statutory scripture, we would in effect nullify that right.
+Boardman v. Esteva, 323 So. 2d 259, 263 (Fla. 1975) (emphasis added).  We
+consistently have adhered to the principle that the will of the people is the paramount
+consideration.9  Our goal today remains the same as it was a quarter of a century
+ago, i.e., to reach the result that reflects the will of the voters, whatever that might
+be.  This fundamental principle, and our traditional rules of statutory construction,
+
+=== PDF PAGE 10 ===
+10Neither party has raised as an issue on appeal the constitutionality of Florida’s election laws.
+-10-
+guide our decision today.
+III.  ISSUES
+The questions before this Court include the following:  Under what
+circumstances may a Board authorize a countywide manual recount pursuant to
+section 102.166(5); must the Secretary and Commission accept such recounts when
+the returns are certified and submitted by the Board after the seven day deadline set
+forth in sections 102.111 and 102.112?10
+IV.  LEGAL OPINION OF THE DIVISION OF ELECTIONS
+The first issue this Court must resolve is whether a County Board may
+conduct a countywide manual recount where it determines there is an error in vote
+tabulation that could affect the outcome of the election.  Here, the Division issued
+opinion DE 00-13, which construed the language “error in vote tabulation” to
+exclude the situation where a discrepancy between the original machine return and
+sample manual recount is due to the manner in which a ballot has been marked or
+punched.
+Florida courts generally will defer to an agency’s interpretation of statutes and
+
+=== PDF PAGE 11 ===
+11  See Donato v. American Tel. & Tel.Co., 767 So. 2d 1146, 1153 (Fla. 2000); Smith v.
+Crawford, 645 So. 2d 513, 521 (Fla. 1st DCA 1994).
+12  See Donato, 767 So. 2d at 1153; Nikolits v. Nicosia, 682 So. 2d 663, 666 (Fla. 4th DCA
+1996).
+13  § 102.166(4)(b), Fla. Stat. (2000).
+14  § 102.166(4)(c), Fla. Stat. (2000).
+15  See Broward County Canvassing Bd. v. Hogan, 607 So. 2d 508, 510 (Fla. 4th DCA
+1992).
+-11-
+rules the agency is charged with implementing and enforcing.11  Florida courts,
+however, will not defer to an agency’s opinion that is contrary to law.12  We
+conclude that the Division’s advisory opinion  regarding vote tabulation is contrary
+to law because it contravenes the plain meaning of section 102.166(5).
+Pursuant to section 102.166(4)(a), a candidate who appears on a ballot, a
+political committee that supports or opposes an issue that appears on a ballot, or a
+political party whose candidate’s name appeared on the ballot may file a written
+request with the County Board for a manual recount.  This request must be filed
+with the Board before the Board certifies the election results or within seventy-two
+hours after the election, whichever occurs later.13  Upon filing the written request for
+a manual recount, the canvassing board may authorize a manual recount.14  The
+decision whether to conduct a manual recount is vested in the sound discretion of
+the Board.15  If the canvassing board decides to authorize the manual recount, the
+
+=== PDF PAGE 12 ===
+16  See § 102.166(4)(d), Fla. Stat. (2000).
+-12-
+recount must include at least three precincts and at least one percent of the total
+votes cast for each candidate or issue, with the person who requested the recount
+choosing the precincts to be recounted.16  If the manual recount indicates an “error
+in the vote tabulation which could affect the outcome of the election,” the county
+canvassing board “shall”:
+(a)  Correct the error and recount the remaining
+precincts with the vote tabulation system;
+(b)  Request the Department of State to verify the
+tabulation software; or
+(c)  Manually recount all ballots.
+§ 102.166(5)(a)-(c), Fla. Stat. (2000) (emphasis added).
+The issue in dispute here is the meaning of the phrase "error in the vote
+tabulation" found in section 102.166(5).  The Division opines that an “error in the
+vote tabulation” only means a counting error resulting from incorrect election
+parameters or an error in the vote tabulating software.  We disagree.
+The plain language of section 102.166(5) refers to an error in the vote
+tabulation rather than the vote tabulation system.  On its face, the statute does not
+include any words of limitation; rather, it provides a remedy for any type of mistake
+made in tabulating ballots.  The Legislature has utilized the phrase "vote tabulation
+system" and "automatic tabulating equipment" in section 102.166 when it intended
+
+=== PDF PAGE 13 ===
+-13-
+to refer to the voting system rather than the vote count.  Equating "vote tabulation"
+with "vote tabulation system" obliterates the distinction created in section 102.166
+by the Legislature.
+Sections 101.5614(5) and (6) also support the proposition that the "error in
+vote tabulation" encompasses more than a mere determination of whether the vote
+tabulation system is functioning.  Section 101.5614(5) provides that "[n]o vote shall
+be declared invalid or void if there is a clear indication of the intent of the voter as
+determined by the canvassing board."  Conversely, section 101.5614(6) provides
+that any vote in which the Board cannot discern the intent of the voter must be
+discarded.  Taken together, these sections suggest that "error in the vote  tabulation"
+includes errors in the failure of the voting machinery to read a ballot and not simply
+errors resulting from the voting machinery.
+Moreover, section 102.141(4), which outlines the Board's responsibility in the
+event of a recount, states that the Board "shall examine the counters on the machines
+or the tabulation of the ballots cast in each precinct in which the office or issue
+appeared on the ballot and determine whether the returns correctly reflect the votes
+cast."  § 102.141, Fla. Stat. (2000) (emphasis added).  Therefore, an “error in the
+vote tabulation” includes a discrepancy between the number of votes determined by
+a voter tabulation system and the number of voters determined by a manual count of
+
+=== PDF PAGE 14 ===
+17  The Commission is composed of the Secretary of State, the Director of the Division of
+Elections, and the Governor.  See § 102.111, Fla. Stat.  In this instance, Florida Governor Jeb Bush
+has removed himself from the Commission because his brother, Texas Governor George W. Bush, is
+the Republican candidate for President of the United States.  Robert Crawford, Florida Commissioner
+or Agriculture, has been appointed to replace Florida Governor Jeb Bush.  See § 102.111, Fla. Stat.
+-14-
+a sampling of precincts pursuant to section 102.166(4).
+Although error cannot be completely eliminated in any tabulation of the
+ballots, our society has not yet gone so far as to place blind faith in machines.  In
+almost all endeavors, including elections, humans routinely correct the errors of
+machines.  For this very reason Florida law provides a human check on both the
+malfunction of tabulation equipment and error in failing to accurately count the
+ballots.  Thus, we find that the Division’s opinion DE 00-13 regarding the ability of
+county canvassing boards to authorize a manual recount is contrary to the plain
+language of the statute.
+Having concluded that the county canvassing boards have the authority to
+order countywide manual recounts, we must now determine whether the
+Commission17 must accept a return after the seven-day deadline set forth in sections
+102.111 and 102.112 under the circumstances presented.
+V.  THE APPLICABLE LAW
+The abiding principle governing all election law in Florida is set forth in article
+I, section 1, Florida Constitution:
+
+=== PDF PAGE 15 ===
+18  § 97.012, Fla. Stat. (2000).
+19  § 98.015, Fla. Stat. (2000).
+-15-
+SECTION 1.  Political power.–All political power is
+inherent in the people.  The enunciation herein of certain
+rights shall not be construed to deny or impair others
+retained by the people.
+Art. I, § 1, Fla. Const.  The constitution further provides that elections shall be
+regulated by law:
+SECTION 1.  Regulation of elections.–All elections
+by the people shall be by direct and secret vote. General
+elections shall be determined by a plurality of votes cast. 
+Registration and elections shall, and political party
+functions may, be regulated by law; however, the
+requirements for a candidate with no party affiliation or for
+a candidate of a minor party for placement of the
+candidate’s name on the ballot shall be no greater than the
+requirements for a candidate of the party having the largest
+number of registered voters.
+Art. VI, § 1, Fla. Const. (emphasis added).
+The Florida Election Code (“Code”), contained in chapters 97–106, Florida
+Statutes (2000), sets forth specific criteria regulating elections.  The Florida
+Secretary of State is the chief election officer of the state and is charged with general
+oversight of the election system.18  The Supervisor of Elections (“Supervisor”) in
+each county is an elected official19 and is charged with appointing two Election
+
+=== PDF PAGE 16 ===
+20  § 102.012(1), Fla. Stat. (2000).
+21  § 102.012(1), Fla. Stat. (2000).
+22  § 102.012(2), Fla. Stat. (2000).
+23  § 102.012(4), Fla. Stat. (2000).
+24  § 102.071, Fla. Stat. (2000).
+25  § 102.141(3), Fla. Stat. (2000).
+26  § 102.141(1), Fla. Stat. (2000).
+27  § 102.141(2), Fla. Stat. (2000).
+28  § 102.141 (3), Fla. Stat. (2000).
+29  §§ 102.111–.112, Fla. Stat. (2000).
+-16-
+Boards for each precinct within the county prior to an election.20  Each Election
+Board is composed of inspectors and clerks,21 all of whom must be residents of the
+county,22 and is charged with conducting the voting in the election, counting the
+votes,23 and certifying the results to the Supervisor24 by noon of the day following
+the election.25  The County Canvassing Board (“Canvassing Board” or “Board”),
+which is composed of the Supervisor, a county court judge, and the chair of the
+board of county commissioners,26 then canvasses the returns countywide,27 reviews
+the certificates,28 and transmits the returns for state and federal officers to the
+Florida Department of State (“Department”) by 5:00 p.m. of the seventh day
+following the election.29  No deadline is set for filing corrected, amended, or
+
+=== PDF PAGE 17 ===
+30  §§ 102.111, .121, Fla. Stat. (2000). 
+31  § 102.131, Fla. Stat. (2000) (“If any returns shall appear to be irregular or false so that the
+Elections Canvassing Commission is unable to determine the true vote for any office . . . the commission
+shall so certify and shall not include the returns in its determination, canvass, and declaration.”).
+32  § 102.131, Fla. Stat. (2000) (“The Elections Canvassing Commission in determining the
+true vote shall not have authority to look beyond the county returns.”).
+33  § 102.166, Fla. Stat. (2000).
+-17-
+supplemental returns.
+The Elections Canvassing Commission (“Canvassing Commission” or
+“Commission”), which is composed of the Governor, the Secretary of State, and
+the Director of the Division of Elections, canvasses the returns statewide, determines
+and declares who has been elected for each office, and issues a certificate of
+election for each office as soon as the results are compiled.30  If any returns appear
+to be irregular or false and the Commission is unable to determine the true vote for a
+particular office, the Commission certifies that fact and does not include those
+returns in its canvass.31  In determining the true vote, the Commission has no
+authority to look beyond the county’s returns.32  A candidate or elector can
+“protest” the returns of an election as being erroneous by filing a protest with the
+appropriate County Canvassing Board.33  And finally, a candidate, elector, or
+taxpayer can “contest” the certification of election results by filing a post-
+
+=== PDF PAGE 18 ===
+34  See § 102.168(2), Fla. Stat. (2000) (explaining that the action must be filed within ten days
+after the last Board certifies its returns or within five days after the last Board certifies its returns
+following a protest).
+35  The grounds for contesting an election are set forth in section 102.168(3), Florida Statutes
+(2000):
+(a)  Misconduct, fraud, or corruption . . . sufficient to change or
+place in doubt the result of the election.
+(b)  Ineligibility of the successful candidate . . . .
+(c)  Receipt of a number of illegal votes or rejection of a
+number of legal votes sufficient to change or place in doubt the result of
+the election.
+(d)  Proof that any elector, election official or canvassing board
+member was given or offered a bribe . . . . 
+(e)  Any other cause or allegation which, if sustained, would
+show that a person other than the successful candidate was the person
+duly nominated or elected to the office in question.
+-18-
+certification action in circuit court within certain time limits34 and setting forth
+specific grounds.35   
+VI.  STATUTORY AMBIGUITY
+The provisions of the Code are ambiguous in two significant areas.  First, the
+time frame for conducting a manual recount under section 102.166(4) is in conflict
+with the time frame for submitting county returns under sections 102.111 and
+102.112.  Second, the mandatory language in section 102.111 conflicts with the
+permissive language in  102.112.
+A.  The Recount Conflict
+Section 102.166(1) states that "[a]ny candidate for nomination or election, or
+
+=== PDF PAGE 19 ===
+36As discussed in Siegel v. Lepore, 2000 WL 1687185 *6 (S.D. Fla. 2000):
+On its face, the manual recount provision does not limit candidates access to
+the ballot or interfere with voters’ right to associate or vote.  Instead the manual
+recount provision is intended to safeguard the integrity and reliability of the
+electoral process by providing a structural means of detecting and correcting
+clerical or electronic tabulating errors in the counting of election ballots.  While
+discretionary in its application, the provision is not wholly standardless.  Rather,
+the central purpose of the scheme, as evidenced by its plain language, is to
+-19-
+any elector qualified to vote in the election related to such candidacy, shall have the
+right to protest the returns of the election as being erroneous by filing with the
+appropriate canvassing board a sworn, written protest."  The time period for filing a
+protest is "prior to the time the canvassing board certifies the results for the office
+being protested or within 5 days after midnight of the date the election is held,
+whichever occurs later."  
+Section 102.166(4)(a), the operative subsection in this case, further provides
+that, in addition to any protest, "any candidate whose name appeared on the 
+ballot . . . or any political party whose candidates' names appeared on the ballot may
+file a written request with the county canvassing board for a manual recount"
+accompanied by the “reason that the manual recount is being requested.”  Section
+102.166(4)(b) further  provides that the written request may be made prior to the
+time the Board certifies the returns or within seventy-two hours after the election,
+whichever occurs later:36
+
+=== PDF PAGE 20 ===
+remedy ‘an error in the vote tabulation which could affect the outcome of the
+election.’ Fla. Stat. §102.166(5).  In this pursuit, the provision strives to
+strengthen rather than dilute the right to vote by securing, as nearly as humanly
+possible, an accurate and true reflection of the will of the electorate.  Notably,
+the four county canvassing boards [that were] challenged in this suit have
+reported various anomalies in the initial automated count and recount.  The state
+manual recount provision therefore serves important governmental interests.
+37  The statute does not set forth any criteria for determining when a manual recount is
+appropriate.  See § 102.166(4)(c), Fla. Stat. (2000) (“The county canvassing board may authorize a
+manual recount.”).
+38  § 102.166(4)(d), Fla. Stat. (2000).
+-20-
+(4)(a)  Any candidate whose name appeared on the
+ballot, any political committee that supports or opposes an
+issue which appeared on the ballot, or any political party
+whose candidates’ names appeared on the ballot may file a
+written request with the county canvassing board for a
+manual recount.   The written request shall contain a
+statement of the reason the manual recount is being
+requested.
+(b)  Such request must be filed with the canvassing
+board prior to the time the canvassing board certifies the
+results for the office being protested or within 72 hours
+after midnight of the date the election was held, whichever
+occurs later.
+§ 102.166, Fla. Stat. (2000) (emphasis added).
+A Board “may” authorize a manual recount37 and such a recount must include
+at least three precincts  and at least one percent of the total votes cast for the
+candidate.38  The following procedure then applies:
+(5)  If the manual recount indicates an error in the
+vote tabulation which could affect the outcome of the
+
+=== PDF PAGE 21 ===
+-21-
+election, the county canvassing board shall:
+(a)  Correct the error and recount the remaining
+precincts with the vote tabulation system;
+(b)  Request the Department of State to verify the
+tabulation software; or 
+(c)  Manually recount all ballots.
+(6)  Any manual recount shall be open to the public.
+(7)  Procedures for a manual recount are as follows:
+(a)  The county canvassing board shall appoint as
+many counting teams of at least two electors as is
+necessary to manually recount the ballots.  A counting
+team must have, when possible, members of at least two
+political parties.  A candidate involved in the race shall not
+be a member of the counting team.
+(b)  If a counting team is unable to determine a
+voter’s intent in casting a ballot, the ballot shall be
+presented to the county canvassing board for it to
+determine the voter’s intent.
+§ 102.166, Fla. Stat. (2000).
+Under this scheme, a candidate can request a manual recount at any point
+prior to certification by the Board and such action can lead to a full recount of all
+the votes in the county.  Although the Code sets no specific deadline by which a
+manual recount must be completed, logic dictates that the period of time required to
+complete a full manual recount may be substantial, particularly in a populous county,
+and may require several days.  The protest provision thus conflicts with section
+102.111 and 102.112, which state that the Boards “must” submit their returns to the
+Elections Canvassing Commission by 5:00 p.m. of the seventh day following the
+
+=== PDF PAGE 22 ===
+-22-
+election or face penalties.  For instance, if a party files a pre-certification protest on
+the sixth day following the election and requests a manual recount and the initial
+manual recount indicates that a full countywide recount is necessary, the recount
+procedure in most cases could not be completed by the deadline in sections
+102.111 and 102.112, i.e., by 5:00 p.m. of the seventh day following the election.
+B.  The “Shall” and “May” Conflict
+In addition to the conflict in the above statutes, sections 102.111 and 102.112
+contain a dichotomy.  Section 102.111, which sets forth general criteria governing
+the State Canvassing Commission, was enacted in 1951 as part of the Code and
+provides as follows:
+102.111  Elections Canvassing Commission.–
+(1)  Immediately after certification of any election by
+the county canvassing board, the results shall be
+forwarded  to the Department of State concerning the
+election of any federal or state officer.  The Governor, the
+Secretary of State, and the Director of the Division of
+Elections shall be the Elections Canvassing Commission. 
+The Elections Canvassing Commission shall, as soon as
+the official results are compiled from all counties, certify
+the returns of the election and determine and declare who
+has been elected for each office.  In the event that any
+member of the Elections Canvassing Commission is
+unavailable to certify the returns of any election, such
+member shall be replaced by a substitute member of the
+Cabinet as determined by the Director of the Division of
+Elections.  If the county returns are not received by the
+Department of State by 5 p.m. of the seventh day
+
+=== PDF PAGE 23 ===
+-23-
+following an election, all missing counties shall be ignored,
+and the results shown by the returns on file shall be
+certified.
+§ 102.111, Fla. Stat. (2000) (emphasis added).
+The Legislature in 1989 revised chapter 102 to include section 102.112, which
+provides that returns not received after a certain date “may” be ignored and that
+members of the County Board “shall” be fined:
+102.112  Deadline for submission of county returns
+to the Department of State; penalties.– 
+(1)  The county canvassing board or a majority
+thereof shall file the county returns for the election of a
+federal or state officer with the Department of State
+immediately after the certification of the election results. 
+Returns must be filed by 5 p.m. on the 7th day following
+the first primary and general election and by 3 p.m. on the
+3rd day following the second primary.  If the returns are
+not received by the department by the time specified, such
+returns may be ignored and the results on file at that time
+may be certified by the department.
+(2)  The department shall fine each board member
+$200 for each day such returns are late, the fine to be paid
+only from the board member’s personal funds.  Such fines
+shall be deposited into the Election Campaign Financing
+Trust fund, created by s. 106.32.
+(3)  Members of the county canvassing board may
+appeal such fines to the Florida Elections Commission,
+which shall adopt rules for such appeals.
+§ 102.112, Fla. Stat. (2000) (emphasis added).
+The above statutes conflict.  Whereas section 102.111 is mandatory, section
+
+=== PDF PAGE 24 ===
+39  See, e.g., Florida Birth-Related Neurological Injury Compensation Ass’n v. Florida Div. of
+Admin. Hearings, 686 So. 2d 1349 (Fla. 1997).
+40  See, e.g., Starr Tyme, Inc. v. Cohen, 659 So. 2d 1064 (Fla. 1995).
+41  See, e.g., Capers v. State, 678 So. 2d 330 (Fla. 1996).
+42  See, e.g., State ex rel.Johnson v. Vizzini, 227 So. 2d 205 (Fla. 1969).
+-24-
+102.112 is permissive.  While it is clear that the Boards must submit returns by 5
+p.m. of the seventh day following the election or face penalties, the circumstances
+under which penalties may be assessed are unclear.
+VII.  LEGISLATIVE INTENT
+Legislative intent–as always–is the polestar that guides a court’s inquiry into
+the provisions of the Florida Election Code.39  Where the language of the Code is
+clear and amenable to a reasonable and logical interpretation, courts are without
+power to diverge from the intent of the Legislature as expressed in the plain language
+of the Code.40  As noted above, however, chapter 102 is unclear concerning both
+the time limits for submitting the results of a manual recount and the penalties that
+may be assessed by the Secretary.  In light of this ambiguity, the Court must resort
+to traditional rules of statutory construction in an effort to determine legislative
+intent.41
+First, it is well-settled that where two statutory provisions are in conflict, the
+specific statute controls the general statute.42  In the present case, whereas section
+
+=== PDF PAGE 25 ===
+43  See, e.g., McKendry v. State, 641 So. 2d 45 (Fla. 1994).
+-25-
+102.111 in its title and text addresses the general makeup and duties of the Elections
+Canvassing Commission, the statute only tangentially addresses the penalty for
+returns filed after the statutory date, noting that such returns “shall” be ignored by
+the Department.  Section 102.112, on the other hand, directly addresses in its title
+and text both the “deadline” for submitting returns and the “penalties” for submitting
+returns after a certain date; the statute expressly states that such returns “may” be
+ignored and that dilatory Board members “shall” be fined.  Based on the precision
+of the title and text, section 102.112 constitutes a specific penalty statute that defines
+both the deadline for filing returns and the penalties for filing returns thereafter and
+section 102.111 constitutes a non-specific statute in this regard.  The specific statute
+controls the non-specific statute.
+Second, it also is well-settled that when two statutes are in conflict, the more
+recently enacted statute controls the older statute.43  In the present case, the
+provision in section 102.111 stating that the Department “shall” ignore returns was
+enacted in 1951 as part of the Code.  On the other hand, the penalty provision in
+section 102.112 stating that the Department “may” ignore returns was enacted in
+1989 as a revision to chapter 102.  The more recently enacted provision may be
+viewed as the clearest and most recent expression of legislative intent.
+
+=== PDF PAGE 26 ===
+44  See, e.g., Amente v. Newman, 653 So. 2d 1030 (Fla. 1995).
+45  See, e.g., Sun Ins. Office, Ltd. v. Clay, 133 So. 2d 735 (Fla. 1961).
+-26-
+Third, a statutory provision will not be construed in such a way that it renders
+meaningless or absurd any other statutory provision.44  In the present case, section
+102.112 contains a detailed provision authorizing the assessment of fines against
+members of a dilatory County Canvassing Board.  The fines are personal and
+substantial, i.e., $200 for each day the returns are not received.  If, as the Secretary
+asserts, the Department were required to ignore all returns received after the
+statutory date, the fine provision would be meaningless.  For example, if a Board
+simply completed its count late and if the returns were going to be ignored in any
+event, what would be the point in submitting the returns?  The Board would simply
+file no returns and avoid the fines.  But, on the other hand, if the returns submitted
+after the statutory date  would not be ignored, the Board would have good reason to
+submit the returns and accept the fines.  The fines thus serve as an alternative
+penalty and are applicable only if the Department may count the returns.
+Fourth, related statutory provisions must be read as a cohesive whole.45    As
+stated in Forsythe v. Longboat Key Beach Erosion Control Dist., 604 So. 2d 452,
+455 (Fla. 1992), "all parts of a statute must be read together in order to achieve a
+consistent whole.  Where possible, courts must give effect to all statutory
+
+=== PDF PAGE 27 ===
+-27-
+provisions and construe related statutory provisions in harmony with another."  In
+this regard we consider the provisions of section 102.166 and 102.168.
+Section 102.166 states that a candidate, political committee, or political party
+may request a manual recount any time before the County Canvassing Board
+certifies the results to the Department and, if the initial manual recount indicates a
+significant error, the Board “shall” conduct a countywide manual recount in certain
+cases.  Thus, if a protest is filed on the sixth day following an election and a full
+manual recount is required, the Board, through no fault of its own, will be unable to
+submit its returns to the Department by 5:00 p.m. on the seventh day following the
+election.  In such a case, if the mandatory provision in section 102.111 were given
+effect, the votes of the county would be ignored for the simple reason that the
+Board was following the dictates of a different section of the Code.  The Legislature
+could not have intended to penalize County Canvassing Boards for following the
+dictates of the Code.
+And finally, when the Legislature enacted the Code in 1951, it envisioned that
+all votes cast during a particular election, including absentee ballots, would be
+submitted to the Department at one time and would be treated in a uniform fashion. 
+Section 97.012(1) states that it is the Secretary’s responsibility to “[o]btain and
+maintain uniformity in the application, operation, and interpretation of the election
+
+=== PDF PAGE 28 ===
+46  According to the Secretary, this matter is governed by consent decree with the federal
+government. 
+47  See Fla. Admin. Code R.1S-2.013 (1998), which provides in relevant part:
+(7)  With respect to the presidential preference primary and the
+general election, any absentee ballot cast for a federal office by an
+overseas elector which is postmarked or signed and dated no later than
+the date of the Federal election shall be counted if received no later
+than 10 days from the date of the Federal election so long as such
+absentee ballot is otherwise proper.  Overseas electors shall be
+informed by the supervisors of elections of the provisions of this rule,
+i.e., the ten day extension provision for the presidential preference
+primary and the general election, and the provision for voting for the
+-28-
+laws.”  Chapter 101 provides that all votes, including absentee ballots, must be
+received by the Supervisor no later than 7 p.m. on the day of the election.  Section
+101.68(2)(d) expressly states that “[t]he votes on absentee ballots shall be included
+in the total vote of the county.”  Chapter 102 requires that the Board submit the
+returns by 5 p.m. on the seventh day following the election.
+The Legislature thus envisioned that when returns are submitted to the
+Department, the returns “shall” embrace all the votes in the county, including
+absentee ballots.  This, of course, is not possible because our state statutory
+scheme has been superseded by federal law governing overseas voters;46 overseas
+ballots must be counted if received no later than ten days following the election (i.e.,
+the ballots do not have to be received by 7 p.m. of the day of the election, as
+provided by state law).47  In light of the fact that overseas ballots cannot be counted
+
+=== PDF PAGE 29 ===
+second primary. 
+-29-
+until after the seven day deadline has expired, the mandatory language in section
+102.111 has been supplanted by the permissive language of section 102.112.
+Further, although county returns must be received by 5 p.m. on the seventh
+day following an election, the "official results" that are to be compiled in order to
+certify the returns and declare who has been elected must be construed in pari
+materia with section 101.5614(8), which specifies that "write-in, absentee and
+manually counted results shall constitute the official return of the election."
+(Emphasis added.)
+Under this statutory scheme, the County Canvassing Boards are required to
+submit their returns to the Department by 5 p.m. of the seventh day following the
+election.  The statutes make no provision for exceptions following a manual recount. 
+If a Board fails to meet the deadline, the Secretary is not required to ignore the
+county’s returns but rather is permitted to ignore the returns within the parameters of
+this statutory scheme.  To determine the circumstances under which the Secretary
+may lawfully ignore returns filed pursuant to the provisions of section 102.166 for a
+manual recount , it is necessary to examine the interplay between our statutory and
+constitutional law at both the state and federal levels.
+VIII.  THE RIGHT TO VOTE
+
+=== PDF PAGE 30 ===
+48  Traylor v. State, 596 So. 2d 957, 963 (Fla. 1992).
+-30-
+The text of our Florida Constitution begins with a Declaration of Rights, a
+series of rights so basic that the founders accorded them a place of special
+privilege.48  The Court long ago noted the venerable role the Declaration plays in our
+tripartite system of government in Florida:
+It is significant that our Constitution thus
+commences by specifying those things which the state
+government must not do, before specifying certain things
+that it may do.  These Declarations of Rights . . . have
+cost much, and breathe the spirit of that sturdy and self-
+reliant philosophy of individualism which underlies and
+supports our entire system of government.  No race of
+hothouse plants could ever have produced and compelled
+the recognition of such a stalwart set of basic principles,
+and no such race can preserve them.  They say to
+arbitrary and autocratic power, from whatever official
+quarter it may advance to invade these vital rights of
+personal liberty and private property, “Thus far shalt thou
+come, but no farther.”
+State v. City of Stuart, 120 So. 335, 347 (Fla. 1929).  Courts must attend with
+special vigilance whenever the Declaration of Rights is in issue.
+The right of suffrage is the preeminent right contained in the Declaration of
+Rights, for without this basic freedom all others would be diminished.  The
+importance of this right was acknowledged by the authors of the Constitution, who
+placed it first in the Declaration.  The very first words in the body of the constitution
+
+=== PDF PAGE 31 ===
+49  See Talbot D’Alemberte, Commentary, 25A Fla. Stat. Ann., Art. I, § 1, Fla. Const. (West
+1991).
+50  See also Pasco v. Heggen, 314 So. 2d 1, 3 (Fla. 1975) (“We have also stated that only
+unreasonable or unnecessary restraints on the elective process are prohibited.”).
+-31-
+are as follows:
+SECTION 1.  Political power.–All political power is
+inherent in the people.  The enunciation herein of certain
+rights shall not be construed to deny or impair others
+retained by the people.
+Art. I., § 1, Fla. Const. (emphasis added).  The framers thus began the constitution
+with a declaration that all political power inheres in the people and only they, the
+people, may decide how and when that power may be given up.49
+To the extent that the Legislature may enact laws regulating the electoral
+process, those laws are valid only if they impose no “unreasonable or unnecessary”
+restraints on the right of suffrage:
+The declaration of rights expressly states that “all
+political power is inherent in the people.”  Article I,
+Section 1, Florida Constitution.  The right of the people to
+select their own officers is their sovereign right, and the
+rule is against imposing unnecessary and unreasonable
+[restraints on that right]. . . .  Unreasonable or unnecessary
+restraints on the elective process are prohibited.
+Treiman v. Malmquist, 342 So. 2d 972, 975 (Fla. 1977) (emphasis added).50 
+Because election laws are intended to facilitate the right of suffrage, such laws must
+
+=== PDF PAGE 32 ===
+51  See also State ex rel. Whitley v. Rinehart, 192 So. 819, 823 (Fla. 1939) (“Election laws
+should be construed liberally in favor of the right to vote . . . .”).
+52  See, e.g., State ex rel.Landis v. Dyer, 148 So. 201, 203 (Fla. 1933) (“The right to vote,
+though not inherent, is a constitutional right in this state.  The Legislature may impose reasonable rules
+and regulations for its governance, but it cannot under the guise of such regulation unduly subvest or
+restrain this right.”).
+53  See, e.g., Boardman v. Esteva, 323 So. 2d 259, 269 (Fla. 1975) (“In summary, we hold
+that the primary consideration in an election contest is whether the will of the people has been
+effected.”).
+-32-
+be liberally construed in favor of the citizens’ right to vote:
+Generally, the courts, in construing statutes relating
+to elections, hold that the same should receive a liberal
+construction in favor of the citizen whose right to vote
+they tend to restrict and in so doing to prevent
+disfranchisement of legal voters and the intention of the
+voters should prevail when counting ballots . . . . It is the
+intention of the law to obtain an honest expression of the
+will or desire of the voter.
+State ex rel. Carpenter v. Barber, 198 So. 49, 51 (Fla. 1940).51  Courts must not lose
+sight of the fundamental purpose of election laws:  The laws are intended to facilitate
+and safeguard the right of each voter to express his or her will in the context of our
+representative democracy.52  Technical statutory requirements must not be exalted
+over the substance of this right.53
+Based on the foregoing, we conclude that the authority of the Florida
+Secretary of State to ignore amended returns submitted by a County Canvassing
+Board may be lawfully exercised only under limited circumstances as we set forth in
+
+=== PDF PAGE 33 ===
+54  Cf. Boardman v. Esteva, 323 So. 2d 259, 268-69 (Fla. 1975) (“When the voters have
+done all that the statute has required them to do, they will not be disfranchised solely on the basis of the
+failure of the election officials to observe directory statutory instructions.”).
+55 See 3 U.S.C. §§ 1-10 (1994).  
+-33-
+this opinion.    The clear import of the penalty provision of section 102.112 is to
+deter Boards from engaging in dilatory conduct contrary to statutory authority that
+results in the late certification of a county’s returns.  This deterrent purpose is
+achieved by the fines in section 102.112, which are substantial and personal and are
+levied on each member of a Board.  The alternative penalty, i.e., ignoring the
+county’s returns, punishes not the Board members themselves but rather the
+county’s electors, for it in effect disenfranchises them.54
+Ignoring the county’s returns is a drastic measure and is appropriate only if
+the returns are submitted to the Department so late that their inclusion will
+compromise the integrity of the electoral process in either of two ways:  (1) by
+precluding a candidate, elector, or taxpayer from contesting the certification of an
+election pursuant to section 102.168; or (2) by precluding Florida voters from
+participating fully in the federal electoral process.55  In either case, the Secretary
+must explain to the Board her reason for ignoring the returns and her action must be
+adequately supported by the law.  To disenfranchise electors in an effort to deter
+Board members, as the Secretary in the present case proposes, is unreasonable,
+
+=== PDF PAGE 34 ===
+-34-
+unnecessary, and violates longstanding law.
+Allowing the manual recounts to proceed in an expeditious manner, rather
+than imposing an arbitrary seven-day deadline, is consistent not only with the
+statutory scheme but with  prior United States Supreme Court pronouncements:
+Indiana has found, along with many other States, that one procedure
+necessary to guard against irregularity and error in the tabulation of
+votes is the availability of a recount.  Despite the fact that a certificate
+of election may be issued to the leading candidate within 30 days after
+the election, the results are not final if a candidate's option to compel a
+recount is exercised.  A recount is an integral part of the Indiana
+electoral process and is within the ambit of the broad powers delegated
+to the States by Art. I, s 4.
+Roudebush v. Hartke, 405 U.S. 15, 25 (1972)(footnotes omitted).
+In addition, an accurate vote count is one of the essential foundations of our
+democracy.  The words of the Supreme Court of Illinois are particularly apt in this
+case:
+The purpose of our election laws is to obtain a correct expression of
+the intent of the voters.  Our courts have repeatedly held that, where the
+intention of the voter can be ascertained with reasonable certainty from
+his ballot, that intention will be given effect even though the ballot is not
+strictly in conformity with the law. . . . The legislature authorized the
+use of electronic tabulating equipment to expedite the tabulating
+process and to eliminate the possibility of human error in the counting
+process, not to create a technical obstruction which defeats the rights
+of qualified voters.  This court should not, under the appearance of
+enforcing the election laws, defeat the very object which those law are
+intended to achieve.  To invalidate a ballot which clearly reflects the
+voter's intent, simply because a machine cannot read it, would
+
+=== PDF PAGE 35 ===
+-35-
+subordinate substance to form and promote the means at the expense
+of the end.
+The voters here did everything which the Election Code requires
+when they punched the appropriate chad with the stylus.  These voters
+should not be disfranchised where their intent may be ascertained with
+reasonable certainty, simply because the chad they punched did not
+completely dislodge from the ballot.  Such a failure may be attributable
+to the fault of the election authorities, for failing to provide properly
+perforated paper, or it may be the result of the voter's disability or
+inadvertence.  Whatever the reason, where the intention of the voter can
+be fairly and satisfactorily ascertained, that intention should be given
+effect.
+Pullen v. Milligan, 561 N.E.2d 585, 611 (Ill. 1990)(citations omitted).
+IX. THE PRESENT CASE
+The trial court below properly concluded that the County Canvassing Boards
+are required to submit their returns to the Department by 5:00 p.m. of the seventh
+day following the election and that the Department is not required to ignore the
+amended returns but rather may count them.  The court, however, erred in holding
+that the Secretary acted within her discretion in prematurely rejecting any amended
+returns that would be the result of ongoing manual recounts.  The Secretary’s
+rationale for rejecting the Board’s returns was as follows:
+The Board has not alleged any facts or circumstances that
+suggest the existence of voter fraud.  The Board has not
+alleged any facts or circumstances that suggest that there
+has been substantial noncompliance with the state’s
+statutory election procedures, coupled with reasonable
+doubt as to whether the certified results expressed the will
+
+=== PDF PAGE 36 ===
+-36-
+of the voters.  The Board has not alleged any facts or
+circumstances that suggest that Palm Beach County has
+been unable to comply with its election duties due to an
+act of God, or other extenuating circumstances that are
+beyond its control.  The Board has alleged the possibility
+that the results of the manual recount could affect the
+outcome of the election if certain results obtain.  However,
+absent an assertion that there has been substantial
+noncompliance with the law, I do not believe that the
+possibility of affecting the outcome of the election is
+enough to justify ignoring the statutory deadline. 
+Furthermore, I find that the facts and circumstances
+alleged, standing alone, do not rise to the level of
+extenuating circumstances that justify a decision on my
+part to ignore the statutory deadline imposed by the
+Florida Legislature.
+Letter from Katherine Harris to Palm Beach Canvassing Board (Nov. 15,
+2000)(emphasis added).
+We conclude that, consistent with the Florida election scheme, the Secretary
+may reject a Board’s amended returns only if the returns are submitted so late that
+their inclusion will preclude a candidate from contesting the certification or preclude
+Florida’s voters from participating fully in the federal electoral process. The
+Secretary in the present case has made no claim that either of these conditions apply
+at this point in time.
+The above analysis is consistent with State ex rel. Chappell v. Martinez, 536
+So. 2d 1007 (Fla. 1988), wherein the Court addressed a comparable recount issue. 
+
+=== PDF PAGE 37 ===
+-37-
+There, the total votes cast for each of two candidates for a seat in the United States
+House of Representatives were separated by less than one-half of one percent; the
+county conducted a mandatory recount; the Board’s certification of results was not
+received by the Department until two days after the deadline, although the Board had
+telephoned the results to the Department prior to the deadline; and the unsuccessful
+candidate sued to prevent the Department from counting the late votes.  The Court
+concluded that the will of the electors supersedes any technical statutory
+requirements:
+[T]he electorate’s effecting its will through its balloting,
+not the hypertechnical compliance with statutes, is the
+object of holding an election.  “There is no magic in the
+statutory requirements.  If they are complied with to the
+extent that the duly responsible election officials can
+ascertain that the electors whose votes are being
+canvassed are qualified and registered to vote, and that
+they do so in a proper manner, then who can be heard to
+complain the statute has not been literally and absolutely
+complied with?”
+Chappell, 536 So. 2d at 1008-09 (quoting Boardman v. Esteva, 323 So. 2d 259, 267
+(Fla. 1975)).
+X.  CONCLUSION
+According to the legislative intent evinced in the Florida Election Code, the
+
+=== PDF PAGE 38 ===
+-38-
+permissive language of section 102.112 supersedes the mandatory language of
+section 102.111.   The statutory fines set forth in section 102.112 offer strong
+incentive to County Canvassing Boards to submit their returns in a timely fashion. 
+However, when a Board certifies its returns after the seven-day period because the
+Board is acting in conformity with other provisions of the Code or with
+administrative rules or for other good cause, the Secretary may impose no fines.  It
+is unlikely that the Legislature would have intended to punish a Board for complying
+with the dictates of the Code or some other law.
+Because the right to vote is the pre-eminent right in the Declaration of Rights
+of the Florida Constitution, the circumstances under which the Secretary may
+exercise her authority to ignore a county’s returns filed after the initial statutory date
+are limited.  The Secretary may ignore such returns only if their inclusion will
+compromise the integrity of the electoral process in either of two ways:  (1) by
+precluding a candidate, elector, or taxpayer from contesting the certification of
+election pursuant to section 102.168; or (2) by precluding Florida voters from
+participating fully in the federal electoral process.  In either such case, this drastic
+penalty must be both reasonable and necessary.  But to allow the Secretary to
+summarily disenfranchise innocent electors in an effort to punish dilatory Board
+members, as she proposes in the present case, misses the constitutional mark.  The
+
+=== PDF PAGE 39 ===
+-39-
+constitution eschews punishment by proxy.
+As explained above, the Florida Election Code must be construed as a whole. 
+ Section 102.166 governs manual recounts and appears to conflict with sections
+102.111 and 102.112, which set a seven day deadline by which County Boards must
+submit their returns.  Further, section 102.111, which provides that the Secretary
+“shall” ignore late returns, conflicts with section 102.112, which provides that the
+Secretary “may” ignore late returns.  In the present case, we have used traditional
+rules of statutory construction to resolve these ambiguities to the extent necessary to
+address the issues presented here.  We decline to rule more expansively, for to do
+so would result in this Court substantially rewriting the Code.  We leave that matter
+to the sound discretion of the body best equipped to address it -- the Legislature.
+Because of the unique circumstances and extraordinary importance of the
+present case, wherein the Florida Attorney General and the Florida Secretary of
+State have issued conflicting advisory opinions concerning the propriety of
+conducting manual recounts, and because of our reluctance to rewrite the Florida
+Election Code, we conclude that we must invoke the equitable powers of this Court
+to fashion a remedy that will allow a fair and expeditious resolution of the questions
+
+=== PDF PAGE 40 ===
+56At oral argument, we inquired as to whether the presidential candidates were interested in our
+consideration of a reopening of the opportunity to request recounts in any additional counties.  Neither
+candidate  requested such an opportunity.
+-40-
+presented here.56  
+Accordingly, in order to allow maximum time for contests pursuant to section
+102.168, amended certifications must be filed with the Elections Canvassing
+Commission by 5 p.m. on Sunday, November 26, 2000 and the Secretary of State
+and the Elections Canvassing Commission shall accept any such amended
+certifications received by 5 p.m. on Sunday, November 26, 2000, provided that the
+office of the Secretary of State, Division of Elections is open in order to allow
+receipt thereof.  If the office is not open for this special purpose on Sunday,
+November 26, 2000, then any amended certifications shall be accepted until 9 a.m.
+on Monday, November 27, 2000.  The stay order entered on November 17, 2000,
+by this Court shall remain in effect until the expiration of the time for accepting
+amended certifications set forth in this opinion. The certificates made and signed by
+the Elections Canvassing Commission pursuant to section 102.121 shall include the
+amended returns accepted through the dates set forth in this opinion.
+It is so ordered.  No motion for rehearing will be allowed.
+WELLS, C.J., and SHAW, HARDING, ANSTEAD, PARIENTE, LEWIS and
+QUINCE, JJ., concur.
+
+=== PDF PAGE 41 ===
+-41-
+Three Cases Consolidated:
+Case No. SC00-2346
+Original Proceeding - Prohibition
+Denise D. Dytrych, Palm Beach County Attorney, and James C. Mize, Jr., Andrew
+J. McMahon and Gordon Selfridge, Assistant Palm Beach County Attorneys, West
+Palm Beach, Florida; Bruce Rogow and Beverly A. Pohl of Bruce S. Rogow, P.A.,
+Fort Lauderdale, Florida; and Robert A. Butterworth, Attorney General, pro se, Paul
+F. Hancock, Deputy Attorney General, and George Waas, Assistant Attorney
+General, Tallahassee, Florida, and Cecile Luttmer Dykas, Assistant Attorney
+General, Fort Lauderdale, Florida, 
+for Petitioners
+Deborah K. Kearney, General Counsel, and Kerey Carpenter, Assistant General
+Counsel, Florida Department of State, Tallahassee, Florida; and Joseph P. Klock,
+Jr., Jonathan Sjostrom, Victoria L. Weber, John W. Little, III,  Donna E. Blanton,
+Gabriel E. Nieto, Elizabeth C. Daley, Arthur R. Lewis, Jr. and  Elizabeth J. Maykut
+of Steel, Hector & Davis, LLP, Tallahassee, Florida, for the Elections Canvassing
+Commission; and Terrell C. Madigan, Harold R. Mardenborough, Jr., Christopher
+Barkas and Matt Butler of McFarlain, Wiley, Cassedy & Jones, P.A., Tallahassee,
+Florida,
+for Respondents
+John D.C. Newton, II of Berger Davis & Singerman, Tallahassee, Florida;  Mitchell
+W. Berger of Berger Davis & Singerman, Fort Lauderdale, Florida; W. Dexter
+Douglass of the Douglass Law Firm, Tallahassee, Florida; David Boies of Boies,
+Schiller & Flexner, LLP, Armonk, New York;  Lyn Utrecht and Eric Kleinfeld of
+Ryan, Phillips, Utrecht and MacKinnon, Washington, DC;  Andrew J. Pincus and
+Ronald A. Klain, Gore/Lieberman Recount Committee, Washington, DC; and
+Laurence Tribe, Cambridge, Massachusetts; and Karen Gievers, of Karen Gievers,
+P.A., Tallahassee, Florida,
+ for Albert A. Gore and the Florida Democratic Executive Committee,
+ Intervenors/Petitioners
+
+=== PDF PAGE 42 ===
+-42-
+Edward A. Dion, County Attorney for Broward County, Norman M. Ostrau,
+Deputy County Attorney, Andrew J. Meyers, Chief Appellate Counsel, and Tamara
+M. Scrudders and Jose Arrojo, Assistant County Attorneys, Fort Lauderdale,
+Florida; and Samuel S. Goren, James A. Cherof and Michael D. Cirullo, Jr. of
+Josias, Goren, Cherof, Doody & Ezrol, P.A., Fort Lauderdale, Florida,
+for The Broward County Canvassing Board and Jane Carroll, as Broward
+County Supervisor of Elections, Intervenors/Petitioners
+Barry Richard of Greenberg, Traurig, P.A., Tallahassee, Florida; Michael A. Carvin
+of Cooper, Carvin & Rosenthal, PLLC, Washington, DC; Benjamin L. Ginsberg of
+Patton, Boggs, LLP, Washington, DC; Alex M. Azar II of Wiley, Rein & Fielding,
+Washington, DC; George J. Terwilliger, III, and Timothy E. Flanigan of White &
+Case, LLP, Washington, DC; and R. Ted Cruz, Bush-Cheney Recount Committee,
+Austin, Texas,   
+for Honorable George W. Bush, Intervenor/Respondent
+Case No. SC00-2348
+Appeal of Judgment of Circuit Court, in and for Leon County, Terry P. Lewis,
+Judge, Case No. 00-2700  -  Certified by the District Court of Appeal,
+First District, Case Nos.  1D00-4467/1D00-4501
+John D.C. Newton, II of Berger Davis & Singerman, Tallahassee, Florida;  Mitchell
+W. Berger of Berger Davis & Singerman, Fort Lauderdale, Florida; W. Dexter
+Douglass of the Douglass Law Firm, Tallahassee, Florida; David Boies of Boies,
+Schiller & Flexner, LLP, Armonk, New York;  Lyn Utrecht and Eric Kleinfeld of
+Ryan, Phillips, Utrecht and MacKinnon, Washington, DC;  Andrew J. Pincus and
+Ronald A. Klain, Gore/Lieberman Recount Committee, Washington, DC; and
+Laurence Tribe, Cambridge, Massachusetts; and Karen Gievers, of Karen Gievers,
+P.A., Tallahassee, Florida; Denise D. Dytrych, Palm Beach County Attorney, and
+James C. Mize, Jr., Andrew J. McMahon and Gordon Selfridge, Assistant Palm
+Beach County Attorneys, West Palm Beach, Florida;  Bruce Rogow and Beverly A.
+Pohl of Bruce S. Rogow, P.A., Fort Lauderdale, Florida; and Robert A.
+Butterworth, Attorney General, pro se, Paul F. Hancock, Deputy Attorney General,
+and George Waas, Assistant Attorney General, Tallahassee, Florida, and Cecile
+
+=== PDF PAGE 43 ===
+-43-
+Luttmer Dykas, Assistant Attorney General, Fort Lauderdale, Florida,  
+for Albert A. Gore and the Canvassing Board of Palm Beach County,
+Florida, Appellants
+Deborah K. Kearney, General Counsel, and Kerey Carpenter, Assistant General
+Counsel, Florida Department of State, Tallahassee, Florida; and Joseph P. Klock,
+Jr., Jonathan Sjostrom, Victoria L. Weber, John W. Little, III,  Donna E. Blanton,
+Gabriel E. Nieto, Elizabeth C. Daley, Arthur R. Lewis, Jr. and  Elizabeth J. Maykut
+of Steel, Hector & Davis, LLP, Tallahassee, Florida, for the Elections Canvassing
+Commission; and Terrell C. Madigan, Harold R. Mardenborough, Jr., Christopher
+Barkas and Matt Butler of McFarlain, Wiley, Cassedy & Jones, P.A., Tallahassee,
+Florida,
+for Appellees
+Edward A. Dion, County Attorney for Broward County, Norman M. Ostrau,
+Deputy County Attorney, Andrew J. Meyers, Chief Appellate Counsel, and Tamara
+M. Scrudders and Jose Arrojo, Assistant County Attorneys, Fort Lauderdale,
+Florida; and Samuel S. Goren, James A. Cherof and Michael D. Cirullo, Jr. of
+Josias, Goren, Cherof, Doody & Ezrol, P.A., Fort Lauderdale, Florida,
+for The Broward County Canvassing Board and Jane Carroll, as Broward
+County Supervisor of Elections, Intervenors
+Barry Richard of Greenberg, Traurig, P.A., Tallahassee, Florida; Michael A. Carvin
+of Cooper, Carvin & Rosenthal, PLLC, Washington, DC; Benjamin L. Ginsberg of
+Patton, Boggs, LLP, Washington, DC; Alex M. Azar II of Wiley, Rein & Fielding,
+Washington, DC; George J. Terwilliger, III, and Timothy E. Flanigan of White &
+Case, LLP, Washington, DC; and R. Ted Cruz, Bush-Cheney Recount Committee,
+Austin, Texas,   
+for Honorable George W. Bush, Intervenor
+Case No. SC00-2349
+
+=== PDF PAGE 44 ===
+-44-
+Appeal of Judgment of Circuit Court, in and for Leon County, Terry P. Lewis,
+Judge, Case No. 00-2700  -  Certified by the District Court of Appeal,
+First District, Case Nos.  1D00-4506
+John D.C. Newton, II of Berger Davis & Singerman, Tallahassee, Florida;  Mitchell
+W. Berger of Berger Davis & Singerman, Fort Lauderdale, Florida; W. Dexter
+Douglass of the Douglass Law Firm, Tallahassee, Florida; David Boies of Boies,
+Schiller & Flexner, LLP, Armonk, New York;  Lyn Utrecht and Eric Kleinfeld of
+Ryan, Phillips, Utrecht and MacKinnon, Washington, DC;  Andrew J. Pincus and
+Ronald A. Klain, Gore/Lieberman Recount Committee, Washington, DC; and
+Laurence Tribe, Cambridge, Massachusetts; and Karen Gievers, of Karen Gievers,
+P.A., Tallahassee, Florida,
+for Appellant
+Deborah K. Kearney, General Counsel, and Kerey Carpenter, Assistant General
+Counsel, Florida Department of State, Tallahassee, Florida; and Joseph P. Klock,
+Jr., Jonathan Sjostrom, Victoria L. Weber, John W. Little, III,  Donna E. Blanton,
+Gabriel E. Nieto, Elizabeth C. Daley, Arthur R. Lewis, Jr. and  Elizabeth J. Maykut
+of Steel, Hector & Davis, LLP, Tallahassee, Florida, for the Elections Canvassing
+Commission; and Terrell C. Madigan, Harold R. Mardenborough, Jr., Christopher
+Barkas and Matt Butler of McFarlain, Wiley, Cassedy & Jones, P.A., Tallahassee,
+Florida,
+for Appellees
+Edward A. Dion, County Attorney for Broward County, Norman M. Ostrau,
+Deputy County Attorney, Andrew J. Meyers, Chief Appellate Counsel, and Tamara
+M. Scrudders and Jose Arrojo, Assistant County Attorneys, Fort Lauderdale,
+Florida; and Samuel S. Goren, James A. Cherof and Michael D. Cirullo, Jr. of
+Josias, Goren, Cherof, Doody & Ezrol, P.A., Fort Lauderdale, Florida,
+for The Broward County Canvassing Board and Jane Carroll, as Broward
+County Supervisor of Elections, Intervenors
+Barry Richard of Greenberg, Traurig, P.A., Tallahassee, Florida; Michael A. Carvin
+of Cooper, Carvin & Rosenthal, PLLC, Washington, DC; Benjamin L. Ginsberg of
+
+=== PDF PAGE 45 ===
+-45-
+Patton, Boggs, LLP, Washington, DC; Alex M. Azar II of Wiley, Rein & Fielding,
+Washington, DC; George J. Terwilliger, III, and Timothy E. Flanigan of White &
+Case, LLP, Washington, DC; and R. Ted Cruz, Bush-Cheney Recount Committee,
+Austin, Texas,   
+for Honorable George W. Bush, Intervenor
+ 

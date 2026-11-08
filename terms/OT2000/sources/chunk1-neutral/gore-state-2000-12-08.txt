@@ -1,0 +1,1794 @@
+=== PDF PAGE 1 ===
+1The parties have agreed that this appeal is properly before this Court.
+Supreme Court of Florida
+____________
+No. SC00-2431
+____________
+ALBERT GORE, JR., and JOSEPH I. LIEBERMAN,
+Appellants,
+vs.
+KATHERINE HARRIS, as Secretary, etc., et al.,
+Appellees.
+[December 8, 2000]
+PER CURIAM.
+We have for review a final judgment of a Leon County trial court certified
+by the First District Court of Appeal as being of great public importance and
+requiring immediate resolution by this Court.  We have jurisdiction.  See art. V, §
+3(b)(5), Fla. Const.1  The final judgment under review denies all relief requested
+by appellants Albert Gore, Jr. and Joseph I. Lieberman, the Democratic candidates
+for President and Vice President of the United States, in their complaint contesting
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 2 ===
+2The appellants have alternatively styled their request for relief as a Petition for Writ of
+Mandamus or Other Writs. 
+3See §§102.111 & .121, Florida Statutes (2000).
+4Bush received 2,912,790 votes while Gore received 2,912,253 votes.
+-2-
+the certification of the state results in the November 7, 2000, presidential election. 2
+Although we find that the appellants are entitled to reversal in part of the trial
+court's order and are entitled to a manual count of the Miami-Dade County
+undervote, we agree with the appellees that the ultimate relief would require a
+counting of the legal votes contained within the undervotes in all counties where
+the undervote has not been subjected to a manual tabulation.  Accordingly, we
+reverse and remand for proceedings consistent with this opinion.
+I.  BACKGROUND
+On November 26, 2000, the Florida Election Canvassing Commission
+(Canvassing Commission) certified the results of the election and declared
+Governor George W. Bush and Richard Cheney, the Republican candidates for
+President and Vice President, the winner of Florida’s electoral votes. 3  The
+November 26, 2000, certified results showed a 537-vote margin in favor of Bush. 4  
+On November 27, pursuant to the legislatively enacted “contest” provisions,
+Gore filed a complaint in Leon County Circuit Court contesting the certification
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 3 ===
+5See § 102.168(3)(c), Fla. Stat. (2000). 
+-3-
+on the grounds that the results certified by the Canvassing Commission included
+“a number of illegal votes” and failed to include “a number of legal votes
+sufficient to change or place in doubt the result of the election.” 5  
+Pursuant to the legislative scheme providing for an "immediate hearing" in a
+contest action, the trial court held a two-day evidentiary hearing on December 2
+and 3, 2000, and on December 4, 2000, made an oral statement in open court
+denying all relief and entered a final judgment adopting the oral statement.  The
+trial court did not make any findings as to the factual allegations made in the
+complaint and did not reference any of the testimony adduced in the two-day
+evidentiary hearing, other than to summarily state that the plaintiffs failed to meet
+their burden of proof.  Gore appealed to the First District Court of Appeal, which
+certified the judgment to this Court.
+The appellants' election contest is based on five instances where the official
+results certified involved either the rejection of a number of legal votes or the
+receipt of a number of illegal votes.  These five instances, as summarized by the
+appellants' brief, are as follows:
+(1)  The rejection of 215 net votes for Gore
+identified in a manual count by the Palm Beach
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 4 ===
+6Bush claims in his brief that the audited total is 176 votes.  We make no determination as
+to which of these two numbers are accurate but direct the trial court to make this determination
+on remand.
+-4-
+Canvassing Board as reflecting the clear intent of the
+voters;
+(2)  The rejection of 168 net votes for Gore,
+identified in the partial recount by the Miami-Dade
+County Canvassing Board.
+(3)  The receipt and certification after
+Thanksgiving of the election night returns from Nassau
+County, instead of the statutorily mandated machine
+recount tabulation, in violation of section 102.14, Florida
+Statutes, resulting in an additional 51 net votes for Bush.
+(4)  The rejection of an additional 3300 votes in
+Palm Beach County, most of which Democrat observers
+identified as votes for Gore but which were not included
+in the Canvassing Board’s certified results; and
+(5)  The refusal to review approximately 9000
+Miami-Dade ballots, which the counting machine
+registered as non-votes and which have never been
+manually reviewed.
+For the reasons stated in this opinion, we find that the trial court erred as a
+matter of law in not including (1) the 215 net votes for Gore identified by the Palm
+Beach County Canvassing Board 6 and (2) in not including the 168 net votes for
+Gore identified in a partial recount by the Miami-Dade County Canvassing Board. 
+However, we find no error in the trial court's findings, which are mixed questions
+of law and fact, concerning (3) the Nassau County Canvassing Board and the (4)
+additional 3300 votes in Palm Beach County that the Canvassing Board did not
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 5 ===
+-5-
+find to be legal votes.  Lastly, we find the trial court erred as a matter of law in (5)
+refusing to examine the approximately 9000 additional Miami-Dade ballots placed
+in evidence, which have never been examined manually.  
+II.  APPLICABLE LAW
+Article II, section I, clause 2 of the United States Constitution, grants the
+authority to select presidential electors "in such Manner as the Legislature thereof
+may direct."  The Legislature of this State has placed the decision for election of
+President of the United States, as well as every other elected office, in the citizens
+of this State through a statutory scheme.  These statutes established by the
+Legislature govern our decision today.  We consider these statutes cognizant of the
+federal grant of authority derived from the United States Constitution and derived
+from 3 U.S.C. § 5 (1994) entitled "Determination of controversy as to appointment
+of electors.”  That section provides:
+If any State shall have provided, by laws enacted prior to
+the day fixed for the appointment of the electors, for its
+final determination of any controversy or contest
+concerning the appointment of all or any of the electors
+of such State, by judicial or other methods or procedures ,
+and such determination shall have been made at least six
+days before the time fixed for the meeting of the electors,
+such determination made pursuant to such law so
+existing on said day, and made at least six days prior to
+said time of meeting of the electors, shall be conclusive,
+and shall govern in the counting of the electoral votes as
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 6 ===
+7In a substantial and dramatic change of position after oral argument in this case, Bush
+contends in his "Motion for Leave To File Clarification of Argument" that section 102.168
+cannot apply in the context of a presidential election.  However, this position is in stark contrast
+to his position both in this case and in the prior appeal.  In fact, in Oral Argument on December
+7, 2000, counsel for Bush agreed that the contest provisions contained in the Florida Election
+Code have placed such proceedings within the arena for judicial determination, which includes
+the established procedures for appellate review of circuit court determinations.  Further, Bush's
+counsel, Michael Carvin, in the prior Oral Argument in Palm Beach Canvassing Board v. Harris,
+in arguing against allowing manual recounts to continue in the protest phase, stated that he did
+not
+think there would be any problem in producing...that kind of evidence in an
+election contest procedure...instead of having every court in Florida resolving on
+an ad hoc basis the kinds of ballots that are valid and not valid, you would be
+centralizing the factual inquiry in one court in Leon County. So you would bring
+some orderliness to the process, and they would be able to resolve that evidentiary
+question.  One way or another, a court's going to have resolve it. 
+(emphasis supplied). Moreover, the Answer Brief of Bush in Case Nos. SC00-2346, 2348,  and
+2849 (Nov. 18, 2000 a page 18 states that "to implement Petitioners' desired policy of manual
+recounts at all costs, the Court is asked to . . . (5) substitute the certification process of Section
+102.111 and Section 102.112 for the contested election process of Section 102.168 as the means
+for determining the accuracy of the vote tallies." (emphasis supplied).  In addition, the December
+5, 2000 brief of  Amici curiae of the Florida House of Representatives and the Florida Senate, in
+case nos. SC00-2346, SC00-2348 & SC00-2349 (Dec. 5, 2000) at 8 "The Secretary's opinion was
+also consistent with the fact that the statutory protests that can lead to manual recounts are
+county-specific complaints about a particular county's machines, whereas a complaint about
+punchcards generally undercounting votes really raises a statewide issue that should be pursued,
+-6-
+provided in the Constitution, and as hereinafter
+regulated, so far as the ascertainment of the electors
+appointed by such State is concerned. 
+(Emphasis supplied).  
+This case today is controlled by the language set forth by the  Legislature in
+section 102.168, Florida Statutes (2000).  Indeed, an important part of the
+statutory election scheme is the State’s provision for a contest process, section
+102.168, which laws were enacted by the Legislature prior to the 2000 election. 7 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 7 ===
+if at all, only in a statewide contest." (emphasis supplied).  Finally the Amended Answer Brief of
+the Secretary of State asserted that
+[p]etitioner has confused a pre-certification election protest (section 102.166) with
+a post-certification contest (section 102.168).  such facts and circumstances are
+usually discovered and raised in a contest action that cannot begin until after the
+election is certified.  The Legislature imposed a deadline for certification because
+of the short time frame within which to begin and conclude an election contest. 
+Petitioners are, in effect, asking this Court to delay the commencement of election
+contest actions, if any, by improperly using the protest procedures to contest the
+election before certification.Because the facts and circumstances concerning voter
+error and ballot design in Palm Beach County are more properly raised in a
+contest action, these facts were not relevant to the Secretary's decision to certify
+the election.  Her decision triggered the time for bringing any election contest
+actions. (emphasis supplied). 
+-7-
+Although courts are, and should be, reluctant to interject themselves in essentially
+political controversies, the Legislature has directed in section 102.168 that an
+election contest shall be resolved in a judicial forum.  See § 102.168 (providing
+that election contests not pertaining to either house of the Legislature may be
+contested “in the circuit court”).  This Court has recognized that the purpose of the
+election contest statute is "to afford a simple and speedy means of contesting
+election to stated offices."  Farmer v. Carson, 110 Fla. 245, 251, 148 So. 557, 559
+(1933). 
+In carefully construing the contest statute, no single statutory provision will
+be construed in such a way as to render meaningless or absurd any other statutory
+provision.  See Amente v. Newman, 653 So. 2d 1030, 1032  (Fla. 1995).  In
+interpreting the various statutory components of the State’s election process, then,
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 8 ===
+-8-
+a common-sense approach is required, so that the purpose of the statute is to give
+effect to the legislative directions ensuring that the right to vote will not be
+frustrated.  Cf. Firestone v. News-Press Pub. Co., 538 So. 2d 457, 460 (Fla. 1989)
+(approving common-sense implementation of valid portion of section 101.121,
+Florida Statutes (1985)-- which broadly read, in pertinent part, that "no person
+who is not in line to vote may come [into] any polling place from the opening to
+the closing of the polls, except the officially designated watchers, the inspectors,
+the clerks of election, and the supervisor of elections or his deputy"-- so as not to
+exclude persons accompanying aged or infirm voters, children of voting parents,
+doctors entering the building to treat voters needing emergency care, or persons
+bringing food or beverages to the election workers because such activities are
+recognized as "incidental to the voting process and . . . sometimes necessary to
+facilitate someone else's ability to vote").   
+Section 102.168(2) sets forth the procedures that must be followed in a
+contest proceeding, providing that the contestant file a complaint in the circuit
+court within ten days after certification of the election returns or five days after
+certification following a protest pursuant to section 102.166(1), Florida Statutes
+(2000), whichever occurs later.  Section 102.168(3) outlines the grounds for
+contesting an election, and includes:  "Receipt of a number of illegal votes or
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 9 ===
+8Viewed historically, section 102.168 did not always provide for contests of the type we
+consider today.  As originally enacted, section 102.168 simply provided a mechanism for ouster
+of elected local officials.  Under that version of the statute, election challenges were limited to
+county offices, and only the person claiming to have been rightfully elected to the position could
+challenge the election.  See Ch. 38, Art. 10, §§ 7, 8, 9 (1845). 
+9The following language of section 102.168, Florida Statutes was changed in 1999 (words
+stricken are deletions; words underlined are additions):
+     (1) Except as provided in s. 102.171, the certification of election or nomination
+of any person to office, or of the result on any question submitted by referendum,
+may be contested in the circuit court by any unsuccessful candidate for such office
+or nomination thereto or by any elector qualified to vote in the election related to
+such candidacy, or by any taxpayer, respectively.
+     (2) Such contestant shall file a complaint, together with the fees prescribed in
+chapter 28, with the clerk of the circuit court within 10 days after midnight of the
+date the last county canvassing board empowered to canvass the returns certifies
+the results of the election being contested or within 5 days after midnight of the
+date the last county canvassing board empowered to canvass the returns certifies
+the results of that particular election following a protest pursuant to s. 102.166(1),
+-9-
+rejection of a number of legal votes sufficient to change or place in doubt the
+result of the election."  § 102.168(3)(c) (emphasis added).  Finally, section
+102.168(8) authorizes the circuit court judge to "fashion such orders as he or she
+deems necessary to ensure that each allegation in the complaint is investigated,
+examined, or checked, to prevent or correct any alleged wrong, and to provide any
+relief appropriate under the circumstances ."  (Emphasis added.)
+The Legislature substantially revised section 102.168 in 1999. 8  That
+amendment preserved existing rights of unsuccessful candidates and made
+important additional changes to strengthen the protections provided to
+unsuccessful candidates in a contest action to be determined. 9  Moreover, rather 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 10 ===
+whichever occurs later. adjourns, and
+     (3) The complaint shall set forth the grounds on which the contestant intends to
+establish his or her right to such office or set aside the result of the election on a
+submitted referendum.  The grounds for contesting an election under this section
+are:
+     (a) Misconduct, fraud, or corruption on the part of any election official or any
+member of the canvassing board sufficient to change or place in doubt the result
+of the election.
+     (b) Ineligibility of the successful candidate for the nomination or office in
+dispute.
+   (c) Receipt of a number of illegal votes or rejection of a number of legal votes
+sufficient to change or place in doubt the result of the election.
+   (d) Proof that any elector, election official, or canvassing board member was
+given or offered a bribe or reward in money, property, or any other thing of value
+for the purpose of procuring the successful candidate's nomination or election or
+determining the result on any question submitted by referendum.
+  (e) Any other cause or allegation which, if sustained, would show that a person
+other than the successful candidate was the person duly nominated or elected to
+the office in question or that the outcome of the election on a question submitted
+by referendum was contrary to the result declared by the canvassing board or
+election board.
+   (4) The canvassing board or election board shall be the proper party defendant,
+and the successful candidate shall be an indispensable party to any action brought
+to contest the election or nomination of a candidate.
+   (5) A statement of the grounds of contest may not be rejected, nor the
+proceedings dismissed, by the court for any want of form if the grounds of contest
+provided in the statement are sufficient to clearly inform the defendant of the
+particular proceeding or cause for which the nomination or election is contested.
+  (6) A copy of the complaint shall be served upon the defendant and any other
+person named therein in the same manner as in other civil cases under the laws of
+this state. Within 10 days after the complaint has been served, the defendant must
+file an answer admitting or denying the allegations on which the contestant relies
+or stating that the defendant has no knowledge or information concerning the
+allegations, which shall be deemed a denial of the allegations, and must state any
+other defenses, in law or fact, on which the defendant relies. If an answer is not
+filed within the time prescribed, the defendant may not be granted a hearing in
+court to assert any claim or objection that is required by this subsection to be
+stated in an answer.
+  (7) Any candidate, qualified elector, or taxpayer presenting such a contest to a
+circuit judge is entitled to an immediate hearing. However, the court in its
+discretion may limit the time to be consumed in taking testimony, with a view
+therein to the circumstances of the matter and to the proximity of any succeeding
+-10-
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 11 ===
+primary or other election.
+   (8) The circuit judge to whom the contest is presented may fashion such orders
+as he or she deems necessary to ensure that each allegation in the complaint is
+investigated, examined, or checked, to prevent or correct any alleged wrong, and
+to provide any relief appropriate under such circumstances.
+Ch. 99-339, § 3, Laws of Fla.
+-11-
+than restraining the actions of the trial court hearing the contest, the legislative
+amendment codified the grounds for contesting an election, entitled any candidate
+or elector to an immediate hearing and provided the circuit judge with express
+authority to fashion such orders as are necessary to ensure that each allegation in
+the complaint is investigated, examined or checked.  See Fla. H. R. Comm. on
+Election Reform, HB 291 (1999) Staff Analysis (February 3, 1999).
+Although the right to contest an election is created by statute, it has been a
+long-standing right since 1845 when the first election contest statute was enacted. 
+See ch. 38, art. 10, §§ 7-9 Laws of Fla. (1845).  As well-established in this State
+by our contest statute, "[t]he right to a correct count of the ballots in an election is
+a substantial right which it is the privilege of every candidate for office to insist
+on, in every case where there has been a failure to make a proper count, call, tally,
+or return of the votes as required by law, and this fact has been duly established as
+the basis for granting such relief."  State ex rel. Millinor v. Smith, 107 Fla. 134,
+139, 144 So. 333, 335 (1932) (emphasis added).  The Staff Analysis of the 1999
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 12 ===
+-12-
+legislative amendment expressly endorses this important principle.  Similarly, the
+Florida House of Representatives Committee on Election Reform 1997 Interim
+Project on Election Contests and Recounts expressly declared:
+Recounts are an integral part of the election
+process.  For one's vote, when cast, to be translated into a
+true message, that vote must be accurately counted, and
+if necessary, recounted.  The moment an individual's
+vote becomes subject to error in the vote tabulation
+process, the easier it is for that vote to be diluted.
+Furthermore, with voting statistics tracing a
+decline in voter turnout and in increase in public
+skepticism, every effort should be made to ensure the
+integrity of the electoral process.
+Integrity is particularly crucial at the tabulation
+stage because many elections occur in extremely
+competitive jurisdictions, where very close election
+results are always possible.  In addition, voters and the
+media expect rapid and accurate tabulation of election
+returns, regardless of whether the election is close or one
+sided.  Nonetheless, when large numbers of votes are to
+be counted, it can be expected that some error will occur
+in tabulation or in canvassing.  
+Id. at 15 (footnotes omitted).  It is with the recognition of these legislative realities
+and abiding principles that we address whether the trial court made errors of law in
+rendering its decision. 
+III. ORDER ON REVIEW
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 13 ===
+-13-
+Vice President Gore claims that the trial court erred in the following three
+ways: (1) The trial court held that an election contest proceeding was essentially
+an appellate proceeding where the County Canvassing Board’s decision must be
+reviewed with an “abuse of discretion,” rather than “de novo,” standard of review; 
+(2) The court held that in a contest proceeding in a statewide election a court must
+review all the ballots cast throughout the state, not just the contested ballots; (3)
+The court failed to apply the legal standard for relief expressly set forth in section
+102.168(3)(c).
+A.  The Trial Court’s Standard of Review
+The Florida Election Code sets forth a two-pronged system for challenging
+vote returns and election procedures.  The “protest” and “contest” provisions are
+distinct proceedings.  A protest  proceeding is filed with the County Canvassing
+Board and addresses the validity of the vote returns.  The relief that may be
+granted includes a manual recount.  The Canvassing Board is a neutral ministerial
+body.  See Morse v. Dade County Canvassing Board, 456 So. 2d 1314 (Fla. 3d
+DCA 1984).  A contest proceeding, on the other hand, is filed in circuit court and
+addresses the validity of the election itself.  Relief that may be granted is varied
+and can be extensive.  No appellate relationship exists between a “protest” and a
+“contest”; a protest is not a prerequisite for a contest.  Cf. Flack v. Carter, 392 So.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 14 ===
+10Gore v. Harris, No. 00-2808 (Fla. 2d Cir. Ct. Dec. ___, 2000) (Proceedings at 10-11).
+-14-
+2d 37 (Fla. 1st DCA 1980) (holding that an election protest under section 102.166
+was not a condition precedent to an election contest under section 102.168).
+Moreover, the trial court in the contest action does not sit as an appellate court
+over the decisions of the Canvassing Board.  Accordingly, while the Board's
+actions concerning the elections process may constitute evidence in a contest
+proceeding, the Board's decisions are not to be accorded  the highly deferential
+“abuse of discretion” standard of review during a contest proceeding.
+In the present case, the trial court erroneously applied an appellate abuse of
+discretion standard to the Boards’ decisions.  The trial court’s oral order reads in
+relevant part:
+The local boards have been given broad discretion
+which no Court may overrule, absent a clear abuse of
+discretion.
+Gore v. Harris, No. 00-2808 (Fla. 2d Cir. Ct. Dec. 4, 2000) (Proceedings at 10). 
+The trial court further noted: “The court further finds that the Dade Canvassing
+Board did not abuse its discretion. . . .  The Palm Beach County Board did not
+abuse its discretion in its review and recounting process.” 10  In applying the abuse
+of discretion standard of review to the Boards’ actions, the trial court relinquished
+an improper degree of its own authority to the Boards.  This was error.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 15 ===
+-15-
+B.  Must all the Ballots be Counted Statewide?
+Appellees contend that even if a count of the undervotes in Miami-Dade
+were appropriate, section 102.168, Florida Statutes (2000), requires a count of all
+votes in Miami-Dade County and the entire state as opposed to a selected number
+of votes challenged.  However, the plain language of section 102.168 refutes
+Appellees' argument.  
+Section 102.168(2) sets forth the procedures that must be followed in a
+contest proceeding, providing that the contestant file a complaint in the circuit
+court within ten days after certification of the election returns or five days after
+certification following a protest pursuant to section 102.166(1), whichever occurs
+later.  Section 102.168(3) outlines the grounds for contesting an election, and
+includes: "Receipt of a number of illegal votes or  rejection of a number of legal
+votes sufficient to change or place in doubt the result of the election. "  §
+102.168(3)(c) (emphasis added).  Finally, section 102.168(8) authorizes the circuit
+court judge to "fashion such orders as he . . . deems necessary to ensure that each
+allegation in the complaint is investigated, examined, or checked, to prevent or
+correct any alleged wrong, and to provide any relief appropriate under the
+circumstances."  
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 16 ===
+-16-
+As explained above, section 102.168(3)(c) explicitly contemplates contests
+based upon a "rejection of a number of legal votes sufficient to change the
+outcome of an election."  Logic dictates that to bring a challenge based upon the
+rejection of a specific number of legal votes under section 102.168(3)(c), the
+contestant must establish the "number of legal votes" which the county canvassing
+board failed to count.  This number, therefore, under the plain language of the
+statute, is limited to the votes identified and challenged under section
+102.168(3)(c), rather than the entire county.   Moreover, counting uncontested
+votes in a contest would be irrelevant to a determination of whether certain
+uncounted votes constitute legal votes that have been rejected.  On the other hand,
+a consideration of “legal votes” contained in the category of “undervotes”
+identified statewide may be properly considered as evidence in the contest
+proceedings and, more importantly, in fashioning any relief.
+We do agree, however, that it is absolutely essential in this proceeding and
+to any final decision, that a manual recount be conducted for all legal votes in this
+State, not only in Miami-Dade County, but in all Florida counties where there was
+an undervote, and, hence a concern that not every citizen’s vote was counted.  This
+election should be determined by a careful examination of the votes of Florida’s
+citizens and not by strategies extraneous to the voting process.  This essential
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 17 ===
+-17-
+principle, that the outcome of elections be determined by the will of the voters,
+forms the foundation of the election code enacted by the Florida Legislature and
+has been consistently applied by this Court in resolving elections disputes.
+We are dealing with the essence of the structure of our democratic society;
+with the interrelationship, within that framework, between the United States
+Constitution and the statutory scheme established pursuant to that authority by the
+Florida Legislature.  Pursuant to the authority extended by the United States
+Constitution, in section 103.011, Florida Statutes (2000), the Legislature has
+expressly vested in the citizens of the State of Florida the right to select the
+electors for President and Vice President of the United States:
+Electors of President and Vice President, known as
+presidential electors, shall be elected on the first Tuesday
+after the first Monday in November of each year the
+number of which is a multiple of 4.  Votes cast for the
+actual candidates for President and Vice President shall
+be counted as votes cast for the presidential electors
+supporting such candidates.  The Department of State
+shall certify as elected the presidential electors of the
+candidates for President and Vice President who receive
+the highest number of votes.
+Id.  In so doing, the Legislature has placed the election of presidential electors
+squarely in the hands of Florida’s voters under the general election laws of
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 18 ===
+11In other words, the Legislature has prescribed a single election scheme for local, state
+and federal elections.  The Legislature has not, beyond granting to Florida’s voters the right to
+select presidential electors, indicated in any way that it intended that a different (and unstated) set
+of election rules should apply to the selection of presidential electors.  Of course, because the
+selection  and participation of Florida’s electors in the presidential election process is subject to a
+stringent calendar controlled by federal law, the Florida election law scheme must yield in the
+event of a conflict.
+-18-
+Florida.11  Hence, the Legislature has expressly recognized the will of the people
+of Florida as the guiding principle for the selection of all elected officials in the
+State of Florida, whether they be county commissioners or presidential electors.
+When an election contest is filed under section 102.168, Florida Statutes
+(2000), the contest statute charges trial courts to:
+fashion such orders as he or she deems necessary to
+ensure that each allegation in the complaint is
+investigated, examined, or checked, to prevent or correct
+any alleged wrong, and to provide any relief appropriate
+under such circumstances.
+Id. (emphasis added).  Through this statute, the Legislature has granted trial courts
+broad authority to resolve election disputes and fashion appropriate relief.  In turn,
+this Court, consistent with legislative policy, has pointed to the “will of the voters”
+as the primary guiding principle to be utilized by trial courts in resolving election
+contests:
+[T]he real parties in interest here, not in the legal sense
+but in realistic terms, are the voters.  They are possessed
+of the ultimate interest and it is they whom we must give
+primary consideration.  The contestants have direct
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 19 ===
+12In the election contest at issue here, this Court can do no more than see that every
+citizen’s vote be counted.  But it can do no less.  In a scenario somewhat analogous to that
+presented here, and in an election contest for a seat in the United States House of
+Representatives, the contesting candidate sought to exclude some 11,000 votes from being
+counted because the votes were not timely reported to the Secretary of State.  See State ex rel.
+Chappell v. Martinez, 536 So. 2d 1007.  This Court, in a unanimous opinion authored by Justice
+McDonald, refused to exclude the votes and held that the contesting candidate “has presented no
+compelling reason for disenfranchising the 11,000 residents of Flagler County who cast their
+ballots on November 8.”  Id. at 1009. 
+-19-
+interests certainly, but the office they seek is one of high
+public service and of utmost importance to the people,
+thus subordinating their interests to that of the people.  
+Ours is a government of, by and for the people.  Our
+federal and state constitutions guarantee the right of the
+people to take an active part in the process of that
+government, which for most of our citizens means
+participation via the election process.  The right to vote
+is the right to participate; it is also the right to speak, but
+more importantly the right to be heard. 
+Boardman v. Esteva, 323 So. 2d 259, 263 (Fla. 1975) (emphasis added).  For
+example, the Legislature has mandated that no vote shall be ignored “if there is a
+clear indication of the intent of the voter” on the ballot, unless it is “impossible to
+determine the elector’s choice . . . .”  § 101.5614(5)-(6) Fla. Stat. (2000).  Section
+102.166(7), Florida Statutes (2000), also provides that the focus of any manual
+examination of a ballot shall be to determine the voter’s intent.  The clear message
+from this legislative policy is that every citizen’s vote be counted whenever
+possible, whether in an election for a local commissioner or an election for
+President of the United States. 12 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 20 ===
+-20-
+The demonstrated problem of not counting legal votes inures to any county
+utilizing a counting system which results in undervotes and “no registered vote”
+ballots.  In a countywide election, one would not simply examine such categories
+of ballots from a single precinct to insure the reliability and integrity of the
+countywide vote.  Similarly, in this statewide election, review should not be
+limited to less than all counties whose tabulation has resulted in such categories of
+ballots.  Relief would not be “appropriate under [the] circumstances” if it failed to
+address the “otherwise valid exercise of the right of a citizen to vote” of all those
+citizens of this State who, being similarly situated, have had their legal votes
+rejected.  This is particularly important in a Presidential election, which implicates
+both State and uniquely important national interests.  The contestant here satisfied
+the threshold requirement by demonstrating that, upon consideration of the
+thousands of undervote or “no registered vote” ballots presented, the number of
+legal votes therein were sufficient to at least place in doubt the result of the
+election.  However, a final decision as to the result of the statewide election should
+only be determined upon consideration of the legal votes contained within the
+undervote or “no registered vote” ballots of all Florida counties, as well as the
+legal votes already tabulated.   
+C.  The Plaintiff’s Burden of Proof 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 21 ===
+13Smith v. Tynes, 412 So. 2d 925 (Fla. 1st DCA1982) (involving allegations of
+enumerated acts asserted to constitute fraud and misrepresentation to the electorate sufficient to
+produce a different result) (citing Nelson v. Robinson, 301 So. 2d 508 (Fla. 2d DCA 1974), cert.
+denied 303 So. 2d 21 (Fla. 1974) (involving a post-election challenge to a form of ballot which
+listed the candidates for a single office in alphabetical order using the same color ink, but on
+different lines)).  
+-21-
+It is immediately apparent, in reviewing the trial court’s ruling here, that the
+trial court failed to apply the statutory standard and instead applied an improper
+standard in determining the contestant’s burden under the contest statute.  The trial
+court began its analysis by stating:
+[I]t is well established and reflected in the opinion
+of Judge Joanos and Smith v. Tine [13] [sic], that in order
+to contest election results under Section 102.168 of the
+Florida Statutes, the Plaintiff must show that, but for the
+irregularity, or inaccuracy claimed, the result of the
+election would have been different, and he or she would
+have been the winner.
+It is not enough to show a reasonable possibility that
+election results could have been altered by such irregularities,
+or inaccuracies, rather, a reasonable probability that the results
+of the election would have been changed must be shown. 
+In this case, there is no credible statistical evidence, and
+no other competent substantial evidence to establish by a
+preponderance of a reasonable probability that the results of the
+statewide election in the State of Florida would be different
+from the result which has been certified by the State Elections
+Canvassing Commission.
+This analysis overlooks and fails to recognize the specific and material
+changes to the statute which the Legislature made in 1999 that control these
+proceedings.  While the earlier version, like the current version, provided that a
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 22 ===
+14Cf. Standard Jury Instructions in Criminal Cases, 697 So. 2d 84, 90 (Fla. 1997)
+(approving standard jury instruction regarding “reasonable doubt,” which is “not a mere possible
+doubt, a speculative, imaginary or forced doubt,” and which “may arise from the evidence,
+conflict in the evidence or the lack of evidence”). 
+15In this case, the circuit court did not review the ballot presented as evidence.  
+-22-
+contestant shall file a complaint setting forth “the grounds on which the contestant
+intends to establish his or her right to such office or set aside the result of the
+election,” the prior version did not specifically enumerate the “grounds for
+contesting an election under this section.”  Those grounds, as contained in the
+1999 statute, now explicitly include, in subsection (c), the “[r]eceipt of a number
+of illegal votes or rejection of a number of legal votes sufficient to change or place
+in doubt the result of the election.”  (Emphasis supplied.)  Assuming that
+reasonableness is an implied component of such a doubt standard, 14 the
+determination of whether the plaintiff has met his or her burden of proof to
+establish that the result of an election is in doubt is a far different standard than the
+“reasonable probability” standard, which was applicable to contests under the old
+version of the statute, and erroneously applied and articulated as a “preponderance
+of a reasonable probability” standard by the trial court here.  Where, as here, a
+person authorized to contest an election is required to demonstrate that there have
+been legal votes cast in the election that have not been counted (here characterized
+as “undervotes” or “no vote registered” ballots) and that available data 15 shows
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 23 ===
+-23-
+that, applying an analysis of the historical recovery rate of legal votes within those
+undervotes or “no vote registered” ballots, by extrapolation, a number of legal
+votes would be recovered from the entire pool of the subject ballots which, if cast
+for the unsuccessful candidate, would change or place in doubt the result of the
+election.  Here, there has been an undisputed showing of the existence of some
+9,000 “under votes” in an election contest decided by a margin measured in the
+hundreds.  Thus, a threshold contest showing that the result of an election has been
+placed in doubt, warranting a manual count of all undervotes or “no vote
+registered” ballots, has been made. 
+LEGAL VOTES
+Having first identified the proper standard of review, we turn now to the
+allegations of the complaint filed in this election contest.  To test the sufficiency of
+those allegations and the proof, it is essential to understand what, under Florida
+law, may constitute a “legal vote,” and what constitutes rejection of such vote.  
+Section 101.5614(5), Florida Statutes (2000), provides that "[n]o vote shall
+be declared invalid or void if there is a clear indication of the intent of the voter as
+determined by the canvassing board.”  Section 101.5614(6) provides, conversely,
+that any vote in which the board cannot discern the intent of the voter must be
+discarded.  Lastly, section 102.166(7)(b) provides that, "[i]f a counting team is
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 24 ===
+-24-
+unable to determine a voter's intent in casting a ballot, the ballot shall be presented
+to the county canvassing board for it to determine the voter's intent.”  This
+legislative emphasis on discerning the voter’s intent is mirrored in the case law of
+this State, and in that of other states. 
+This Court has repeatedly held, in accordance with the statutory law of this
+State, that so long as the voter's intent may be discerned from the ballot, the vote
+constitutes a "legal vote" that should be counted.  See McAlpin v. State ex rel.
+Avriett, 155 Fla. 33, 19 So. 2d 420 (1944); see also  State ex rel. Peacock v.
+Latham, 25 Fla. 69, 70, 169 So. 597, 598 (1936) (holding that the election contest
+statute "affords an efficient available remedy and legal procedure by which the
+circuit court can investigate and determine, not only the legality of the votes cast,
+but can correct any inaccuracies in the count of the ballots by having them brought
+into the court and examining the contents of the ballot boxes if properly
+preserved”).  As the State has moved toward electronic voting, nothing in this
+evolution has diminished the longstanding case law and statutory law that the
+intent of the voter is of paramount concern and should always be given effect if
+the intent can be determined.  Cf. Boardman v. Esteva, 323 So. 2d 259 (Fla. 1975),
+cert. denied, 425 U.S. 967 (1976) (recognizing the overarching principle that,
+where voters do all that statutes require them to do, they should not be
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 25 ===
+-25-
+disfranchised solely because of failure of election officials to follow directory
+statutes). 
+Not surprisingly, other states also have recognized this principle.  Cf.
+Delahunt v. Johnston, 671 N.E. 2d 1241 (Mass. 1996) (holding that a vote should
+be counted as a legal vote if it properly indicates the voter’s intent with reasonable
+certainty); Duffy v. Mortensen, 497 N.W.2d 437 (S.D. 1993) (applying the rule
+that every marking found where a vote should be should be treated as an intended
+vote in the absence of clear evidence to the clear contrary);  Pullen v. Mulligan,
+561 N.E.2d 585 (Ill. 1990) (holding that votes could be recounted by manual
+means to the extent that the voter’s intent could be determined with reasonable
+certainty, despite the existence of a statute which provided that punch card ballots
+were to be recounted by automated tabulation equipment).
+Accordingly, we conclude that a legal vote is one in which there is a "clear
+indication of the intent of the voter."  We next address whether the term
+"rejection" used in section 102.168(3)(c) includes instances where the County
+Canvassing Board has not counted legal votes.  Looking at the statutory scheme as
+a whole, it appears that the term "rejected" does encompass votes that may exist
+but have not been counted.  As explained above, in 1999, the Legislature
+substantially revised the contest provision of the Election Code.  See H.R. Comm.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 26 ===
+-26-
+on Election Reform, HB 281 (February 3, 1999).  One of the revisions to the
+contest provision included the codification of the grounds for contesting an
+election.  See id. at 7.  The House Bill noted that one of the grounds for contesting
+an election at common law was the "Receipt of a number of illegal votes or
+rejection of a number of legal votes sufficient to change or place in doubt the
+result of the election."  As noted above, the contest statute ultimately contained
+this ground for contesting the results of an election. 
+To further determine the meaning of the term “rejection", as used by the
+Legislature, we may also look to Florida case law.  In State ex rel. Clark v.
+Klingensmith, 121 Fla. 297, 163 So. 704 (1935), an individual who lost an
+election brought an action for quo warranto challenging his opponent's right to
+hold office.  The challenger challenged twenty-two ballots, which he divided into
+four groups.  One of these groups included three ballots that the challenger
+claimed had not been counted.  See 121 Fla. at 298, 163 So. at 705.  This Court
+concluded that "the rejection of votes from legal voters, not brought about by
+fraud, and not of such magnitude as to demonstrate that a free expression of the
+popular will has been suppressed," is insufficient to void an election, "at least
+unless it be shown that the votes rejected would have changed the result."  121
+Fla. at 300, 163 So. at 705.  Therefore, the Court appears to have equated a
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 27 ===
+-27-
+"rejection" of legal votes with the failure to count legal votes, while at the same
+time recognizing that a sufficient number of such votes must have been rejected to
+merit relief.  This notion of "rejected" is also in accordance with the common
+understanding of rejection of votes as used in other election cases.  In discussing
+the facts in Roudebush v. Hartke, 405 U.S. 15 (1972), the United States Supreme
+Court explained:
+If a recount is conducted in any county, the voting
+machine tallies are checked and the sealed bags
+containing the paper ballots are opened.  The recount
+commission may make new and independent
+determinations as to which ballots shall be counted.  In
+other words, it may reject ballots initially counted and
+count ballots initially rejected.  Id.  
+This also comports with cases from other jurisidictions that suggest that a legal
+vote will be deemed to have been "rejected" where a voting machine fails to count
+a ballot, which has been executed in substantial compliance with applicable voting
+requirements and reflects,  the clear intent of the voter to express a definite choice. 
+See  In re Matter of the Petition of Katy Gray-Sadler, 753 A.2d 1101, 1105-06
+(N.J. 2000); Moffat v. Blaiman, 361 A.2d 74, 77 (N.J. Super. Ct. App. Div. 1976).
+Here, then, it is apparent that there have been sufficient allegations made
+which, if analyzed pursuant to the proper standard, compel the conclusion that
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 28 ===
+16On November 9, 2000, a manual recount was requested on behalf of Vice-President
+Gore in four counties — Miami-Dade, Broward, Palm Beach and Volusia.  Broward County and
+Volusia County timely completed a manual recount.  It is undisputed that the results of the
+manual recounts in Volusia County and Broward County were included in the statewide
+certifications.
+-28-
+legal votes sufficient to place in doubt the election results have been rejected in
+this case.
+THIS CASE
+We must review the instances in which appellants claim that they
+established that legal votes were rejected or illegal voters were included in the
+certifications.
+The refusal to review approximately 9,000 additional
+Miami-Dade Ballots, which the counting machine
+registered as non-votes and which have never been
+manually reviewed.
+On November 9, 2000, the Miami-Dade County Democratic Party made a
+timely request under section 102.166 for a manual recount. 16  After first deciding
+against a full manual recount, the Miami-Dade County Canvassing Board  voted to
+begin a manual recount of all ballots cast in Miami-Dade County for the
+Presidential election, and the manual recount began on November 19, 2000.   On
+November 21, 2000, this Court issued its decision in Palm Beach Canvassing
+Board v. Harris, 25 Fla. L. Weekly S1062 (Fla. Nov. 21, 2000), stating that
+amended certifications must be filed by 5 p.m. on Sunday, November 26, 2000. 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 29 ===
+-29-
+The Miami-Dade Canvassing Board thereafter suspended the manual recount and
+voted to use the election returns previously compiled.  Earlier that day, the panel
+had decided to limit its recount to the 10,750 "undervotes," that is, ballots on
+which no vote was registered by counting machines.  The Board's stated reason for
+the suspension of the manual recount was that it would be impossible to complete
+the recount before the deadline set forth by this Court.  At the time that the Board
+suspended the recount, approximately 9,000 of the 10,750 undervotes had not yet
+been reviewed.  In the two days that the Board had counted ballots,  the Board
+identified 436 additional legal votes (from 20 percent of the precincts,
+representing 15 percent of the votes cast) which the machines failed to register,
+resulting in a net vote of 168 votes for Gore.  Nonetheless, in addition to
+suspending further recounting, the Board also determined that it would not include
+the additional 436 votes that had been tabulated in its partially completed recount. 
+Specifically as to Miami-Dade County, the trial court found:
+[A]lthough the record shows voter error, and/or,
+less than total accuracy, in regard to the punchcard
+voting devices utilized in Miami-Dade and Palm Beach
+Counties, which these counties have been aware of for
+many years, these balloting and counting problems
+cannot support or effect any recounting necessity with
+respect to Miami-Dade County, absent the establishment
+of a reasonable probability that the statewide election
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 30 ===
+-30-
+result would be different, which has not been established
+in this case.
+The Court further finds that the Dade Canvassing
+Board did not abuse its discretion in any of its decisions
+in its review in recounting processes.
+This statement is incorrect as a matter of law.  In fact, as the Third District
+determined in Miami-Dade County Democratic Party v. Miami-Dade County
+Canvassing Board, 25 Fla. L. Weekly D2723 (Fla. 3d DCA Nov. 22, 2000), the
+results of the sample manual recount and the actual commencement of the full
+manual recount triggered the Canvassing Board's "mandatory obligation to recount
+all of the ballots in the county."  In addition, the circuit court was bound at the
+time it ruled to follow this appellate decision.  This Court has determined the
+decisions of the district courts of appeal represent the law of this State unless and
+until they are overruled by this Court, and therefore, in the absence of interdistrict
+conflict, district court decisions bind all Florida trial courts.  See Pardo v. State,
+596 So.2d 665, 666 (Fla. 1992). 
+However, regardless of this error, we again note the focus of the trial court's
+inquiry in an election contest authorized by the Legislature pursuant to the express
+statutory provisions of section 102.168 is not by appellate review to determine
+whether the Board properly or improperly failed to complete the manual recount. 
+Rather, as expressly set out in section 102.168, the court’s responsibility is to
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 31 ===
+17The Miami-Dade Canvassing Board stated as its reasons that it stopped an ongoing
+manual recount because it determined that it could not meet this Court's certification deadline. 
+However, nothing in this Court's prior opinion nor the statutory scheme governing manual
+recounts would have prevented the Board from continuing after certification the manual recount
+that it had properly started.  The Canvassing Board is a neutral ministerial body.  See Morse v.
+Dade County Canvassing Board, 456 So. 2d 1314 (Fla. 3d DCA 1984).  Therefore, although the
+Board may have acted in a neutral fashion, the fact remains that three other Boards (Broward,
+Palm Beach and Volusia) completed the recounts.
+-31-
+determine whether "legal votes" were rejected sufficient to change or place in
+doubt the results of the election.  Without ever examining or investigating the
+ballots that the machine failed to register as a vote, the trial court in this case
+concluded that there was no probability of a different result.  First, as we stated the
+trial court erred as a matter of law in utilizing the wrong standard.  Second, and
+more importantly, by failing to examine the specifically identified group of
+uncounted ballots that is claimed to contain the rejected legal votes, the trial court
+has refused to address the issue presented.  Appellants have also been denied the
+very evidence that they have relied on to establish their ultimate entitlement to
+relief.17  The trial court has presented the plaintiffs with the ultimate Catch-22,
+acceptance of the only evidence that will resolve the issue but a refusal to examine
+such evidence.  We also note that whether or not the Board could have completed
+the manual recount by November 26, 2000, or whether the Board should have
+fulfilled its responsibility and completed the full manual recount it commenced,
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 32 ===
+18On Thanksgiving Day, November 23, 2000, an  Emergency Petition for Writ for
+Mandamus was filed in which Gore sought to compel the Miami-Dade Canvassing Board to
+continue with the manual recount. Although we denied relief on that same day, in our order
+denying this relief, the Court specifically stated that the denial was "without prejudice to any
+party raising any issue presented in the writ in any future proceeding."  Accordingly, at the time
+that we denied mandamus relief we clearly contemplated that this claim could be raised in a
+contest action.
+-32-
+the fact remains that the manual recount was not completed through no fault of the
+Appellant.18  
+3300 Votes in Palm Beach County
+Appellants also contend that the trial court erred in finding that they failed
+to satisfy their burden of proof with respect to the 3,300 votes that the Palm Beach
+County Canvassing Board reviewed and concluded did not constitute "legal votes"
+pursuant to section 102.168(3)(c).  However, unlike the approximately 9,000
+ballots in Miami-Dade that the County Canvassing Board did not manually
+recount, the Palm Beach County Canvassing Board did complete a manual recount
+of these 3,300 votes and concluded that, because the intent of the voter in these
+3,300 ballots was not discernable, these ballots did not constitute "legal votes." 
+After a two-day trial in this case, the circuit court concluded:
+[W]ith respect to the approximately 3,300 Palm Beach
+County ballots of which plaintiffs seek review, the Palm
+Beach Board properly exercised its discretion in its
+counting process and has judged those ballots which
+plaintiffs wish this court to again judge de novo. . . . The
+Palm Beach County board did not abuse its discretion in
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 33 ===
+-33-
+its review and recounting process.  Further, it acted in
+full compliance with the order of the circuit court in and
+for Palm Beach County.  
+We find no error in the trial court's determination that appellants did not
+establish a preliminary basis for relief as to the 3300 Palm Beach County votes
+because the appellants have failed to make a threshold showing that "legal votes"
+were rejected.  Although the protest and contest proceedings are separate statutory
+provisions, when a manual count of ballots has been conducted by the Canvassing
+Board pursuant to section 102.166, the circuit court in a contest proceeding does
+not have the obligation de novo to simply repeat an otherwise-proper manual
+count of the ballots.  As stated above, although the trial court does not review a
+Canvassing Board's actions under an abuse of discretion standard, the Canvassing
+Board's actions may constitute evidence that a ballot does or does not qualify as a
+legal vote.  Because the appellants have failed to introduce any evidence to refute
+the Canvassing Board's determination that the 3300 ballots did not constitute
+"legal votes," we affirm the trial court's holding as to this issue.  This reflects the
+proper interaction of section 102.166 governing protests and manual recounts and
+section 102.168 governing election contests.
+Whether the vote totals must be revised to include the legal votes actually
+identified in the Palm Beach County and Miami-Dade County manual recounts ?
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 34 ===
+19Bush asserted that the audited total is 176 votes.
+-34-
+Appellants claim that the certified vote totals must be amended to include
+legal votes identified as being for one of the presidential candidates by the County
+Canvassing Boards of Palm Beach County and Miami-Dade during their manual
+recounts.  After working for a period of many days, the Palm Beach County
+Canvassing Board conducted and completed a full manual recount in which the
+Board identified a net gain of 215 votes for Gore. 19  As discussed above, the
+Miami-Dade Canvassing Board commenced a manual recount but did not
+complete the recount.  During the partial recount it identified an additional legal
+votes, of which 302 were for Gore and 134 were for Bush, resulting in a net gain
+of 168 votes for Gore. 
+The circuit court concluded as to Palm Beach County that there was not any
+"authority to include any returns submitted past the deadline established by the
+Florida Supreme Court in this election."  This conclusion was erroneous as a
+matter of law.  The deadline of November 26, 2000, at 5 p.m. was established in
+order to allow maximum time for contests pursuant to section 102.168.  The
+deadline was never intended to prohibit legal votes identified after that date
+through ongoing manual recounts to be excluded from the statewide official
+results in the Election Canvassing Commission's certification of the results of a
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 35 ===
+-35-
+recount of less than all of a county's ballots.  In the same decision we held that all
+returns must be considered unless their filing would effectively prevent an election
+contest from being conducted or endanger the counting of Florida’s electors in the
+presidential election.  
+As to Miami-Dade County, in light of our holding that the circuit court
+should have counted the undervote, we agree with appellants that the partial
+recount results should also be included in the total legal votes for this election. 
+Because the county canvassing boards identified legal votes and these votes could
+change the outcome of the election, we hold that the trial court erred in rejecting
+the legal votes identified in the Miami-Dade County and Palm Beach County
+manual recounts.  These votes must be included in the certified vote totals.  We
+find that appellants did not establish that the Nassau County Canvassing Board
+acted improperly.
+                                            CONCLUSION
+Through no fault of appellants, a lawfully commenced manual recount in
+Dade County was never completed and recounts that were completed were not
+counted.  Without examining or investigating the ballots that were not counted by
+the machines, the trial court concluded there was no reasonable probability of a
+different result.  However, the proper standard required by section 102.168 was
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 36 ===
+20This Presidential election has demonstrated the vulnerability of what we believe to be a
+bedrock principle of democracy: that every vote counts.  While there are areas in this State which
+implement systems (such as the optical scanner) where the margins of error, and the ability to
+-36-
+whether the results of the election were placed in doubt.  On this record there can
+be no question that there are legal votes within the 9,000 uncounted votes
+sufficient to place the results of this election in doubt.  We know this not only by
+evidence of statistical analysis but also by the actual experience of recounts
+conducted.  The votes for each candidate that have been counted are separated by
+no more than approximately 500 votes and may be separated by as little as
+approximately 100 votes.  Thousands of uncounted votes could obviously make a
+difference.
+Although in all elections the Legislature and the courts have recognized that
+the voter's intent is paramount, in close elections the necessity for counting all
+legal votes becomes critical.  However, the need for accuracy must be weighed
+against the need for finality.  The need for prompt resolution and finality is
+especially critical in presidential elections where there is an outside deadline
+established by federal law.  Notwithstanding, consistent with the legislative
+mandate and our precedent, although the time constraints are limited, we must do
+everything required by law to ensure that legal votes that have not been counted
+are included in the final election results. 20  As recognized by the Florida House of
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 37 ===
+demonstrably verify those margins of error, are consistent with accountability in our democratic
+process, in these election contests based upon allegations that functioning punch-card voting
+machines have failed to record legal votes,  the demonstrated margins of error may be so great to
+suggest that it is necessary to reevaluate utilization of the mechanisms employed as a viable
+system.
+-37-
+Representatives Committee on Election Reform 1997 Interim Project on Election
+Contests and Recounts:
+[A]ll election contests and recounts can be traced to
+either an actual failure in the election system or a
+perception that the system has failed.  Public confidence
+in the election process is essential to our democracy.  If
+the voter cannot be assured of an accurate vote count , or
+an election unspoiled by fraud, they will not have faith in
+other parts of the political process .  Nonetheless, it is
+inevitable that legitimate doubts of the validity and
+accuracy of election outcomes will arise.  It is crucial,
+therefore, to have clearly defined legal mechanisms for 
+contesting or recounting election results.
+Id. at 21 (emphasis supplied) (footnote omitted).
+Only by examining the contested ballots, which are evidence in the election
+contest, can a meaningful and final determination in this election contest be made. 
+As stated above, one of the provisions of the contest statute, section 102.168(8),
+provides that the circuit court judge may “fashion such orders as he . . . deems
+necessary to ensure that each allegation in the complaint  is investigated, examined
+or checked, to prevent any alleged wrong, and to provide any relief appropriate
+under such circumstances. (emphasis supplied).
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 38 ===
+21The dissents would have us throw up our hands and say that because of looming
+deadlines and practical difficulties we should give up any attempt to have the election of the
+presidential electors rest upon the vote of Florida citizens as mandated by the Legislature.  While
+we agree that practical difficulties may well end up controlling the outcome of the election we
+vigorously disagree that we should therefore abandon our responsibility to resolve this election
+dispute under the rule of law.  We can only do the best we can to carry out our sworn
+responsibilities to the justice system and its role in this process.  We, and our dissenting
+colleagues, have simply done the best we can, and remain confident that others charged with
+similar heavy responsibilities will also do the best they can to fulfill their duties as they see them.
+-38-
+In addition to the relief requested by appellants to count the Miami-Dade
+undervote, claims have been made by the various appellees and intervenors that
+because this is a statewide election, statewide remedies would be called for.  As
+we discussed in this opinion, we agree.  While we recognize that time is
+desperately short, we cannot in good faith ignore both the appellant's right to relief
+as to their claims concerning the uncounted votes in Miami-Dade County nor can
+we ignore the correctness of the assertions that any analysis and ultimate remedy
+should be made on a statewide basis. 21  
+We note that contest statutes vest broad discretion in the circuit court to
+"provide any relief appropriate under the circumstances."  Section 102.168(5). 
+Moreover, because venue of an election contest that covers more than one county
+lies in Leon County, see 102.1685, Florida Statutes (2000), the circuit court has
+jurisdiction, as part of the relief it order, to order the Supervisor of Elections and
+the Canvassing Boards, as well as the necessary public officials, in all counties
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 39 ===
+22We are mindful of the fact that due to the time constraints, the count of the undervotes
+places demands on the public servants throughout the State to work over this week-end. 
+However, we are confident that with the cooperation of the officials in all the counties, the
+remaining undervotes in these counties can be accomplished within the required time frame. We
+note that public officials in many counties have worked diligently over the past thirty days in
+dealing with exigencies that have occurred because of this unique historical circumstance arising
+from the presidential election of 2000.  We commend those dedicated public servants for
+attempting to make this election process truly reflect the vote of all Floridians.
+23See discussion at n.6, supra.
+-39-
+that have not conducted a manual recount or tabulation of the undervotes in this
+election to do so forthwith, said tabulation to take place in the individual counties
+where the ballots are located. 22 
+Accordingly, for the reasons stated in this opinion, we reverse  the final
+judgment of the trial court dated December 4, 2000, and remand this cause for the
+circuit court to immediately tabulate by hand the approximate 9,000 Miami-Dade
+ballots, which the counting machine registered as non-votes, but which have never
+been manually reviewed, and for other relief that may thereafter appear
+appropriate.  The circuit court is directed to enter such orders as are necessary to
+add any  legal votes to the total statewide certifications and to enter any orders
+necessary to ensure the inclusion of the additional legal votes for Gore in Palm
+Beach County23 and the 168 additional legal votes from Miami-Dade County.
+Because time is of the essence, the circuit court shall commence the
+tabulation of the Miami-Dade ballots immediately.  The circuit court is authorized,
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 40 ===
+-40-
+in accordance with the provisions of section 102.168(8), to be assisted by the Leon
+County Supervisor of Elections or its sworn designees.  Moreover, since time is
+also of the essence in any statewide relief that the circuit court must consider, any
+further statewide relief should also be ordered forthwith and simultaneously with
+the manual tabulation of the Miami-Dade undervotes.
+In tabulating the ballots and in making a determination of what is a "legal"
+vote, the standards to be employed is that established by the Legislature in our
+Election Code which is that the vote shall be counted as a "legal" vote if there is
+"clear indication of the intent of the voter."  Section 101.5614(5), Florida Statutes
+(2000).  
+It is so ordered.
+ANSTEAD, PARIENTE, LEWIS and QUINCE, JJ., concur.
+WELLS, C.J., dissents with an opinion.
+HARDING, J., dissents with an opinion, in which SHAW, J., concurs.
+NO MOTION FOR REHEARING WILL BE ALLOWED.
+WELLS, C.J., dissenting.
+I join Justice Harding’s dissenting opinion except as to his conclusions with
+regard to error by Judge Sauls and his conclusions as to the separateness of section
+102.166 and 102.168, Florida Statutes (2000).  I write separately to state my
+additional conclusions and concerns.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 41 ===
+-41-
+I want to make it clear at the outset of my separate opinion that I do not
+question the good faith or honorable intentions of my colleagues in the majority. 
+However, I could not more strongly disagree with their decision to reverse the trial
+court and prolong this judicial process.  I also believe that the majority’s decision
+cannot withstand the scrutiny which will certainly immediately follow under the
+United States Constitution.
+My succinct conclusion is that the majority’s decision to return this case to
+the circuit court for a count of the under-votes from either Miami-Dade County or
+all counties has no foundation in the law of Florida as it existed on November 7,
+2000, or at any time until the issuance of this opinion.  The majority returns the
+case to the circuit court for this partial recount of under-votes on the basis of
+unknown or, at best, ambiguous standards with authority to obtain help from
+others, the credentials, qualifications, and objectivity of whom are totally
+unknown.  That is but a first glance at the imponderable problems the majority
+creates.
+Importantly to me, I have a deep and abiding concern that the prolonging of
+judicial process in this counting contest propels this country and this state into an
+unprecedented and unnecessary constitutional crisis.  I have to conclude that there
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 42 ===
+-42-
+is a real and present likelihood that this constitutional crisis will do substantial
+damage to our country, our state, and to this Court as an institution.
+On the basis of my analysis of Florida law as it existed on November 7,
+2000, I conclude that the trial court’s decision can and should be affirmed.  Under
+our law, of course, a decision of a trial court reaching a correct result will be
+affirmed if it is supportable under any theory, even if an appellate court disagrees
+with the trial court’s reasoning.  Dade County School Bd. v. Radio Station
+WQBA, 731 So. 2d 638, 644-645 (Fla. 1999).  I conclude that there are more than
+enough theories to support this trial court’s decision.
+There are two fundamental and historical principles of Florida law that this
+Court has recognized which are relevant here.  First, at common law, there was no
+right to contest an election; thus, any right to contest an election must be construed
+to grant only those rights that are explicitly set forth by the Legislature.  See
+McPherson v. Flynn, 397 So. 2d 665, 668 (Fla. 1981).  In Flynn, we held that, “[a]t
+common law, except for limited application of quo warranto, there was no right to
+contest in court any public election, because such a contest is political in nature
+and therefore outside the judicial power.”  Id. at 667.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 43 ===
+-43-
+Second, this Court gives deference to decisions made by executive officials
+charged with implementing Florida’s election laws.  See Krivanek v. Take Back
+Tampa Political Committee, 625 So. 2d 840 (Fla. 1993).  In Krivanek, we said:
+We acknowledge that election laws should generally be
+liberally construed in favor of an elector.  However, the judgment of
+officials duly charged with carrying out the election process should
+be presumed correct if reasonable and not in derogation of the law.  
+Boardman v. Esteva, 323 So.2d 259 (Fla.1975), cert. denied, 425 U.S.
+967, 96 S. Ct. 2162, 48 L. Ed.2d 791 (1976).  As noted in Boardman:
+The election process is subject to legislative prescription
+and constitutional command and is committed to the
+executive branch of government through duly designated
+officials all charged with specific duties....  [The]
+judgments [of those officials] are entitled to be regarded
+by the courts as presumptively correct and if rational and
+not clearly outside legal requirements should be upheld
+rather than substituted by the impression a particular
+judge or panel of judges might deem more appropriate. 
+It is certainly the intent of the constitution and the
+legislature that the results of elections are to be
+efficiently, honestly and promptly ascertained by election
+officials to whom some latitude of judgment is accorded,
+and that courts are to overturn such determinations only
+for compelling reasons when there are clear, substantial
+departures from essential requirements of law.
+Id. at 844-45.  These two concepts are the foundation of my analysis of the present
+case.
+At the outset, I note that, after an evidentiary hearing, the trial court
+expressly found no dishonesty, gross negligence, improper influence, coercion, or
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 44 ===
+-44-
+fraud in the balloting and counting processes based upon the evidence presented.  I
+conclude this finding should curtail this Court’s involvement in this election
+through this case and is a substantial basis for affirming the trial court. 
+Historically, this Court has only been involved in elections when there have been
+substantial allegations of fraud and then only upon a high threshold because of the
+chill that a hovering judicial involvement can put on elections.  This to me is the
+import of this Court’s decision in Boardman v. Esteva , 323 So.2d 259 (Fla.1975). 
+We lowered that threshold somewhat in Beckstrom v. Volusia County Canvassing
+Board, 707 So. 2d 720 (Fla. 1998), but we continued to require a substantial
+noncompliance with election laws.  That must be the very lowest threshold for a
+court’s involvement.
+Otherwise, we run a great risk that every election will result in judicial
+testing.  Judicial restraint in respect to elections is absolutely necessary because
+the health of our democracy depends on elections being decided by voters–not by
+judges.  We must have the self-discipline not to become embroiled in political
+contests whenever a judicial majority subjectively concludes to do so because the
+majority perceives it is “the right thing to do.”  Elections involve the other
+branches of government.  A lack of self-discipline in being involved in elections,
+especially by a court of last resort, always has the potential of leading to a crisis
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 45 ===
+24See § 102.166(1), Fla. Stat. (2000).
+25See § 102.166(4)(b), Fla. Stat. (2000).
+-45-
+with the other branches of government and raises serious separation-of-powers
+concerns.
+I find that the trial judge correctly concluded that plaintiffs were not entitled
+to a manual recount.  Petitioners filed this current election contest after protests in
+Palm Beach and Miami-Dade Counties.  Section 102.168, Florida Statutes, in its
+present form is a new statute adopted by the Legislature in 1999.  I conclude that
+the present statutory scheme contemplates that protests of returns 24 and requests
+for manual recounts25 are first to be presented to the county canvassing boards. 
+See § 102.166, Fla. Stat.  This naturally follows from the fact that, even with the
+adoption of the 1999 amendments to section 102.168, the only procedures for
+manual recounts are in the protest statute.  Once a protest has been filed, a county
+canvassing board then has the discretion, in accordance with the procedures set
+forth in section 102.166(4), Florida Statutes, whether to order a sample limited
+manual recount.  See § 102.166(4)(c), Fla. Stat. (2000).  Once the sample recount
+is complete and the county canvassing board concludes that there was an error in
+the vote tabulation that could affect the outcome of the election, section
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 46 ===
+26Also problematic with the majority’s analysis is that the majority only requires that the
+“under-votes” are to be counted.  How about the “over-votes?”  Section 101.5614(6) provides
+that a ballot should not be counted “[i]f an elector marks more names than there are persons to be
+elected to an office,” meaning the voter voted for more than one person for president.  The
+underlying premise of the majority’s rationale is that in such a close race a manual review of
+ballots rejected by the machines is necessary to ensure that all legal votes cast are counted.  The
+majority, however, ignores the over-votes.  Could it be said, without reviewing the over-votes,
+that the machine did not err in not counting them?
+It seems patently erroneous to me to assume that the vote-counting machines can err
+when reading under-votes but not err when reading over-votes.  Can the majority say, without
+having the over-votes looked at, that there are no legal votes among the over-votes?
+-46-
+102.166(5) instructs what must then be done.  One option is to manually recount
+all ballots.  See § 102.166(5)(c), Fla. Stat. (2000). 26
+I believe that the contest and protest statutes must logically be read together. 
+The contest statute has significant references to the protest statute.  If there is a
+protest, a party authorized by the statute to file a contest must file a complaint
+“within 5 days after midnight of the date the last county canvassing board
+empowered to canvass the returns certifies the results of that particular election
+following a protest pursuant to s. 102.166(1).”  §102.168(2), Fla. Stat. (2000).  In
+the election contest, the canvassing board is the proper party defendant under
+section 102.168(4).  Further, under section 102.168(8), the circuit judge to whom
+the contest is presented may fashion such orders as he or she deems necessary to
+ensure that the allegations upon which the complaint is brought are investigated,
+examined, or checked.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 47 ===
+-47-
+I find correct the analysis undertaken in Broward County Canvassing Board
+v. Hogan, 607 So. 2d 508 (Fla. 4th DCA 1992), a case recently cited by this Court
+in Palm Beach County Canvassing Board v. Harris, 25 Fla. L. Weekly S1062 (Fla.
+Nov. 21, 2000).  In Hogan, the Fourth District Court of Appeal reversed the trial
+court’s order granting a manual recount, in contravention of the county canvassing
+board’s decision noting that:
+Although section 102.168 grants the right of contest, it does
+not change the discretionary aspect of the review procedures outlined
+in section 102.166.  The statute clearly leaves the decision whether or
+not to hold a manual recount of the votes as a matter to be decided
+within the discretion of the canvassing board.
+Id. at 510.  I do not believe there is any sound reason to conclude that the
+Legislature’s adoption of revised section 102.168 in 1999 intended to change this
+and provide for a duplicative recount by an individual circuit judge.
+I also agree with the trial judge’s conclusion that in a statewide election the
+only way a court can order a manual recount of ballots that were allegedly not
+counted because of some irregularity or inaccuracy in the balloting or counting
+process is to order that the votes in all counties in which those processes were
+used be recounted.  I do not find any legal basis for the majority of this Court to
+simply cast aside the determination by the trial judge made on the proof presented
+at a two-day evidentiary hearing that the evidence did not support a statewide
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 48 ===
+-48-
+recount.  To the contrary, I find the majority’s decision in that regard quite
+extraordinary.
+Section 102.168(3), Florida Statues (2000), states in pertinent part:
+The grounds for contesting an election under this section are:
+. . . .
+(c) Receipt of a number of illegal votes or rejection of a
+number of legal votes sufficient to change or place in doubt the result
+of the election.
+(Emphasis added.)  In other words, to establish a cause of action, plaintiff must
+allege an irregularity that places in doubt the result of the election.  First, to
+“contest” simply means to challenge.  See Webster’s Dictionary 250 (10th ed.
+1994).  Second, section 102.168(5), provides:
+A statement of the grounds of contest may not be rejected, nor
+the proceedings dismissed, by the court for any want of form if the
+grounds of contest provided in the statement are sufficient to clearly
+inform the defendant of the particular proceeding or cause for which
+the nomination or election is contested .
+(Emphasis added.)  Upon my reading of the statute, I conclude that the language
+“grounds of contest” unambiguously means:  a basis upon which a plaintiff can
+establish a cause of action.  This standard is simply the threshold that must be met
+to bring forth the contest action.  Thus, this standard is not the standard that the
+judge must use in deciding whether a plaintiff who brings the contest has
+successfully met his or her burden to order a recount or set aside election results. 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 49 ===
+27In addition, under a protest the threshold that must be met to order a recount must be
+lower than that under a contest, which action can only be brought after certification of the
+returns.  Therefore, the threshold to successfully carry a  contest must be higher than that of a
+mere protest.
+-49-
+Although it is unclear from case law what standard must be satisfied in order to
+grant appropriate relief, it undoubtedly cannot be a low standard.  Recently, in
+Beckstrom, this Court declined to invalidate an election despite a finding that the
+canvassing board was grossly negligent and in substantial noncompliance with the
+absentee voting statutes.  See Beckstrom.  Thus, merely stating the cause of action
+under the contest statute does not entitle a party to a recount or require the court to
+set aside an election.  More must be required.  This is especially true here, where,
+as in Beckstrom, the trial judge found no dishonesty, gross negligence, improper
+influence, coercion, or fraud in the balloting and counting processes.  Thus, a
+plaintiff’s burden in establishing grounds on which a circuit judge could order
+relief of any kind was simply not met.  It is illogical to interpret section
+102.168(3)(c) to set such a low standard where a plaintiff merely has to allege a
+cause of action to successfully carry the contest. 27
+Furthermore, even conceding that the trial judge at the outset applied an
+erroneous “probability of doubt” standard in deciding that plaintiffs failed to meet
+their burden of establishing a cause of action, the trial judge faced a conundrum
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 50 ===
+-50-
+that must be adequately explained.  Plaintiffs asked the trial judge to grant the very
+remedy–a recount of the under-votes–he prays for without first establishing that
+remedy was warranted.  Before any relief is granted, a plaintiff must allege that
+enough legal votes were rejected to place in doubt the results of the election. 
+However, in order for the plaintiffs to meet this burden, the under-vote ballots
+must be preliminarily manually recounted.  Following this logic to its conclusion
+would require a circuit court to order partial manual recounts upon the mere filing
+of a contest.  This proposition plainly has no basis in law.
+As I have stated, I conclude in the case at bar that sections 102.166 and
+106.168 must be read in pari materia.  My analysis in this regard is bolstered in
+situations, as here, where there was an initial protest filed in a county pursuant to
+section 102.166 and a subsequent contest of that same county’s return pursuant to
+section 102.168.  It appears logical to me that a circuit judge in a section 102.168
+contest should review a county canvassing board’s determinations in a section
+102.166 protest under an abuse-of-discretion standard.  I see no other reason why
+the county canvassing board would be a party defendant if the circuit court is not
+intended to evaluate the canvassing board’s decisions with respect to manual
+recount decisions made in a section 102.166 protest.  Finally, it is plain to me that
+it is only in section 102.166 that there are any procedures for manual recounts
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 51 ===
+28I am persuaded that even with these procedures manual recounts by the canvassing
+board are constitutionally suspect.  See Touchston v. McDermott, No. 00-15985 (U.S. 11th Cir.
+Dec. 6, 2000) (Tjoflat, J., dissenting).  This would be compounded by giving that power to an
+individual circuit judge and providing him or her with no standards.
+-51-
+which address the logistics of a recount, including who is to conduct the count,
+that it is to take place in public, and what is to be recounted. 28
+The majority quotes section 101.5614(5) for the proposition of settling how
+a county canvassing board should count a vote.  The majority states that “[n]o vote
+shall be declared invalid or void if there is a clear indication of the intent of the
+voter as determined by the canvassing board.”  § 101.5614(5), Fla. Stat. (2000). 
+Section 101.5614(5), however, is a statute that authorizes the creation of a
+duplicate ballot where a “ballot card . . . is damaged or defective so that it cannot
+properly be counted by the automatic tabulating equipment.”  There is no basis in
+this record that suggests that the approximately 9000 ballots from Miami-Dade
+County were damaged or defective.
+Laying aside this problem and assuming the majority is correct that section
+101.5614(5) correctly annunciates the standard by which a county canvassing
+board should judge a questionable ballot, section 101.5614(5) utterly fails to
+provide any meaningful standard.  There is no doubt that every vote should be
+counted where there is a “clear indication of the intent of the voter.”  The problem
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 52 ===
+29See n. 5.
+-52-
+is how a county canvassing board translates that directive to these punch cards. 
+Should a county canvassing board count or not count a “dimpled chad” where the
+voter is able to successfully dislodge the chad in every other contest on that ballot? 
+Here, the county canvassing boards disagree.  Apparently, some do and some do
+not.  Continuation of this system of county-by-county decisions regarding how a
+dimpled chad is counted is fraught with equal protection concerns which will
+eventually cause the election results in Florida to be stricken by the federal courts
+or Congress.29
+Based upon this analysis and adhering to the interpretation of the 1992
+Hogan case, I conclude the circuit court properly looked at what the county
+canvassing boards have done and found that they did not abuse their discretion. 
+Regarding Miami-Dade County, I find that the trial judge properly concluded that
+the Miami-Dade Canvassing Board did not abuse its discretion in deciding to
+discontinue the manual recount begun on November 19, 2000.  Evidence
+presented at trial indicated that the Miami-Dade Board made three different
+decisions in respect to manual recounts.  The first decision was not to count, the
+second was to count, and the third was not to count.  The third decision was based
+upon the determination by the Miami-Dade Board that it could not make the
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 53 ===
+-53-
+November 26, 2000, deadline set by this Court in Harris and that it did not want to
+jeopardize disenfranchising a segment of its voters.  The law does not require
+futile acts.  See Haimovitz v. Robb, 130 Fla. 844; 178 So. 827 (1937).  Section
+102.166(5)(c) requires that, if there is a manual recount, all of the ballots have to
+be recounted.  I cannot find that the Miami-Dade Board’s decision that all the
+ballots could not be manually recounted between November 22 and November 26,
+2000, to be anything but a decision based upon reality.  Moreover, not to count all
+of the ballots if any were to be recounted would plainly be changing the rules after
+the election and would be unfairly discriminatory against votes in the precincts in
+which there was no manual recount.  Thus, I agree with the trial court that the
+Miami-Dade Board did not abuse its discretion in discontinuing the manual
+recount.
+In respect to the Palm Beach County Canvassing Board, I likewise find that
+the trial judge did not err in finding that the Palm Beach Board was within its
+discretion in rejecting the approximately 3300 votes in which it could not discern
+voter intent.  As set forth in Boardman, the county canvassing boards are vested
+with the responsibility to make judgments on the validity of ballots, and its
+determinations will be overturned only for compelling reasons when there are
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 54 ===
+-54-
+clear, substantial departures from essential requirements of law.  See id., 323 So.
+2d at 268 n 5.  Petitioners have not met this burden.
+I also agree with the trial judge that the Election Canvassing Commission
+(Commission) did not abuse its discretion in refusing to accept either an amended
+return reflecting the results of a partial manual recount or a late amended return
+filed by the Palm Beach Board.  I conclude that it is plain error for the majority to
+hold that the Commission abused its discretion in enforcing a deadline set by this
+Court that recounts be completed and certified by November 26, 2000.  I conclude
+that this not only changes a rule after November 7, 2000, but it also changes a rule
+this Court made on November 26, 2000.
+As I stated at the outset, I conclude that this contest simply must end.
+Directing the trial court to conduct a manual recount of the ballots violates
+article II, section 1, clause 2 of the United States Constitution, in that neither this
+Court nor the circuit court has the authority to create the standards by which it will
+count the under-voted ballots.  The Constitution reads in pertinent part:  “Each
+State shall appoint, in such Manner as the Legislature thereof may direct, a
+Number of Electors.”  Art. II, § 1, cl. 2, U.S. Const.  The Supreme Court has
+described this authority granted to the state legislatures as “plenary.”  See
+McPherson v. Blacker, 146 U.S. 1, 7 (1892).  “Plenary” is defined as “full, entire,
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 55 ===
+-55-
+complete, absolute, perfect, [and] unqualified.”  Black’s Law Dictionary  1154 (6th
+ed. 1990).
+The Legislature has given to the county canvassing boards–and only these
+boards–the authority to ascertain the intent of the voter.  See § 102.166(7)(b), Fla.
+Stat. (2000).  Just this week, the United States Supreme Court reminded us of the
+teachings from Blacker when it said:
+[Art. II, §1, cl. 2] does not read that the people or the citizens shall
+appoint, but that ‘each State shall’; and if the words ‘in such manner
+as the legislature thereof may direct,’ had been omitted, it would seem
+that the legislative power of appointment could not have been
+successfully questioned in the absence of any provision in the state
+constitution in that regard.  Hence the insertion of those words, while
+operating as a limitation upon the State in respect of any attempt to
+circumscribe the legislative power, cannot be held to operate as a
+limitation on that power itself.”
+Bush v. Palm Beach Canvassing Bd., No. 00-836, slip op. at 4-5 (U.S. Dec. 4,
+2000) (quoting Blacker, 146 U.S. at 7).  Clearly, in a presidential election, the
+Legislature has not authorized the courts of Florida to order partial recounts, either
+in a limited number of counties or statewide.  This Court’s order to do so appears
+to me to be in conflict with the United States Supreme Court decision.
+Laying aside the constitutional infirmities of this Court’s action today, what
+the majority actually creates is an overflowing basket of practical problems. 
+Assuming the majority recognizes a need to protect the votes of Florida’s
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 56 ===
+30As the Supreme Court recently noted, 3 U.S.C § 5 creates a safe harbor provision
+regarding congressional consideration of a state’s electoral votes should all contests and
+controversies be resolved at least six days prior to December 18, 2000, if made pursuant to the
+state of the law as it existed on election day.  See Bush at 6.  There is no legislative suggestion
+that the Florida Legislature did not want to take advantage of this safe harbor provision.
+31See § 102.166(6), Fla. Stat. (2000).
+-56-
+presidential electors, 30 the entire contest must be completed “at least six days
+before” December 18, 2000, the date the presidential electors meet to vote.  See 3
+U.S.C. § 5 (1994).  The safe harbor deadline day is December 12, 2000.  Today is
+Friday, December 8, 2000.  Thus, under the majority’s time line, all manual
+recounts must be completed in five days, assuming the counting begins today.
+In that time frame, all questionable ballots must be reviewed by the judicial
+officer appointed to discern the intent of the voter in a process open to the public. 31 
+Fairness dictates that a provision be made for either party to object to how a
+particular ballot is counted.  Additionally, this short time period must allow for
+judicial review.  I respectfully submit this cannot be completed without taking
+Florida’s presidential electors outside the safe harbor provision, creating the very
+real possibility of disenfranchising those nearly six million voters who were able
+to correctly cast their ballots on election day.
+Another significant problem is that the majority returns this case to the
+circuit court for a recount with no standards.  I do not, and neither will the trial
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 57 ===
+-57-
+judge, know whether to count or not count ballots on the criteria used by the
+canvassing boards, what those criteria are, or to do so on the basis of standards
+divined by Judge Sauls.  A continuing problem with these manual recounts is their
+reliability.  It only stands to reason that many times a reading of a ballot by a
+human will be subjective, and the intent gleaned from that ballot is only in the
+mind of the beholder.  This subjective counting is only compounded where no
+standards exist or, as in this statewide contest, where there are no statewide
+standards for determining voter intent by the various canvassing boards, individual
+judges, or multiple unknown counters who will eventually count these ballots.
+I must regrettably conclude that the majority ignores the magnitude of its
+decision.  The Court fails to make provision for:  (1) the qualifications of those
+who count; (2) what standards are used in the count–are they the same standards
+for all ballots statewide or a continuation of the county-by-county constitutionally
+suspect standards; (3) who is to observe the count; (4) how one objects to the
+count; (5) who is entitled to object to the count; (6) whether a person may object to
+a counter; (7) the possible lack of personnel to conduct the count; (8) the fatigue
+of the counters; and (9) the effect of the differing intra-county standards.
+This Court’s responsibility must be to balance the contest allegations
+against the rights of all Florida voters who are not involved in election contests to
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 58 ===
+-58-
+have their votes counted in the electoral college.  To me, it is inescapable that
+there is no practical way for the contest to continue for the good of this country
+and state.
+I am persuaded that Justice Terrell was correct in 1936 when he said:
+This court is committed to the doctrine that extraordinary relief
+will not be granted in case where it plainly appears that although the
+complaining party may be ordinarily entitled to it, if the granting of
+such relief in the particular case will result in confusion and disorder
+and will produce an injury to the public which outweighs the
+individual right of the complainant to have the relief he seeks .
+State v. Wester, 126 Fla. 49, 54, 170 So. 736, 738-39 (1936) (citations omitted;
+emphasis added).
+For a month, Floridians have been working on this problem.  At this point, I
+am convinced of the following.
+First, there have been an enormous number of citizens who have expended
+heroic efforts as members of canvassing boards, counters, and observers, and as
+legal counsel who have in almost all instances, in utmost good faith attempted to
+bring about a fair resolution of this election.  I know that, regardless of the
+outcome, all of us are in their debt for their efforts on behalf of representative
+democracy.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 59 ===
+-59-
+Second, the local election officials, state election officials, and the courts
+have been attempting to resolve the issues of this election with an election code
+which any objective, frank analysis must conclude never contemplated this
+circumstance.  Only to state a few of the incongruities, the time limits of sections
+102.112, 102.166, and 102.168 and 3 U.S.C. §§ 1, 5, and 7 simply do not
+coordinate in any practical way with a presidential election in Florida in the year
+2000.  Therefore, section 102.168, Florida Statues, is inconsistent with the remedy
+being sought here because it is unclear in a presidential election as to:  (1) whether
+the candidates or the presidential electors should be party to this election contest;
+(2) what the possible remedy would be; and (3) what standards to apply in
+counting the ballots statewide.
+Third, under the United States Supreme Court’s analysis in Bush v. Palm
+Beach County Canvassing Board, wherein the Supreme Court calls to our attention
+McPherson v. Blacker, 146 U.S. 1 (1892), there is uncertainty as to whether the
+Florida Legislature has even given the courts of Florida any power to resolve
+contests or controversies in respect to presidential elections.
+Fourth, there is no available remedy for the petitioners on the basis of these
+allegations.  Quite simply, courts cannot fairly continue to proceed without
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 60 ===
+32The election is a tie, so let’s get on with it,” St. Petersburg Times, Dec. 3, 2000, at 3D.
+-60-
+jeopardizing the votes and rights of other citizens through a further count of these
+votes.
+I must take seriously the counsel of the Supreme Court in Bush:
+Since [3 U.S.C.] §5 contains a principle of federal law that would
+assure finality of the State’s determination if made pursuant to a state
+law in effect before the election, a legislative wish to take advantage
+of the “safe harbor” would counsel against any construction of the
+Election Code that Congress might deem to be a change in the law.
+Id. at 6.
+This case has reached the point where finality must take precedence over
+continued judicial process.  I agree with a quote from John Allen Paulos, a
+professor of mathematics at Temple University, when he wrote that, “[t]he margin
+of error in this election is far greater than the margin of victory, no matter who
+wins.”32  Further judicial process will not change this self-evident fact and will
+only result in confusion and disorder.  Justice Terrell and this Court wisely
+counseled against such a course of action sixty-four years ago.  I would heed that
+sound advice and affirm Judge Sauls.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 61 ===
+-61-
+HARDING, J., dissenting.
+I would affirm Judge Sauls’ order because I agree with his ultimate
+conclusion in this case, namely that the Appellants failed to carry their requisite
+burden of proof and thus are not entitled to relief.  However, in reaching his
+conclusion, Judge Sauls applied erroneous standards in two instances.  First, in
+addressing the Appellants’ challenges of the election certifications in Miami-Dade
+and Palm Beach Counties, the judge stated that “[t]he local boards have been
+given broad discretion, which no court may overrule, absent a clear abuse of
+discretion.”  Applying this standard, the judge concluded that the Miami-Dade
+County Canvassing Board did not abuse its discretion in any of its decisions in the
+review and recounting process.  While abuse of discretion is the proper standard
+for assessing a canvassing board’s actions in a section 102.166 protest proceeding,
+it is not applicable to this section 102.168 contest proceeding.  Judge Sauls
+improperly intertwined these two proceedings and the standards applicable to
+each.
+In 1999, the Florida Legislature extensively amended the contest statute to
+specify the grounds authorized for contesting an election and to set up a time
+frame for contests.  See ch. 99-339, § 3, at 3547-49, Laws of Fla.  The Legislature
+also amended the protest statute by eliminating the role of the circuit courts in
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 62 ===
+-62-
+protest proceedings.  See id., §1, at 3546.  The county canvassing boards have
+been granted discretion to authorize a manual recount when requested by a
+candidate, political party, or political committee who seeks to protest the returns of
+an election as being erroneous.  See § 102.166(4)(c), Fla. Stat. (2000) (“The
+county canvassing board may authorize a manual recount.”) (emphasis added).
+In contrast, a contest proceeding involves a legal challenge to the outcome
+of an election.  The circuit judge is statutorily charged with three tasks in a contest
+proceeding: (1) to ensure that each allegation in the contestant’s complaint is
+investigated, examined, or checked; (2) to prevent or correct any alleged wrong;
+and (3) to provide any relief appropriate under such circumstances.  See §
+102.168(8), Fla. Stat. (2000).  Where a contestant alleges that the canvassing
+board has rejected a number of legal votes “sufficient to change or place in doubt
+the result of the election” due to the board’s decision to curtail or deny a manual
+recount, the circuit judge should examine this issue de novo and not under an
+abuse of discretion standard.  § 102.168(3)(c), Fla. Stat. (2000).
+Second, Judge Sauls erred in concluding that a contestant under section
+102.168(3)(c) must show a “reasonable probability that the results of the election
+would have been changed.”  Judge Sauls cited the First District Court of Appeal’s
+decision in Smith v. Tynes, 412 So. 2d 925, 926 (Fla. 1 st DCA 1982), as
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 63 ===
+-63-
+establishing this standard for election contests.  However, as discussed above,
+when the Legislature amended section 102.168 in 1999, it specified five grounds
+for contesting an election, including the “[r]eceipt of a number of illegal votes or
+rejection of a number of legal votes sufficient to change or place in doubt the
+result of the election.”  (Emphasis added.)  Smith v. Tynes, which was decided in
+1982, addressed the pre-amendment statute which did not specify the grounds for
+a contest.  Thus, the current statutory standard controls here.
+While I disagree with Judge Sauls on the standards applicable to this
+election contest, I commend him for the way that he conducted the proceedings
+below under extreme time constraints and pressure.  Further, I believe that Judge
+Sauls properly concluded that there was no authority to include the Palm Beach
+County returns filed after the explicit deadline established by this Court.
+I conclude that the application of the erroneous standards is not
+determinative in this case.  I agree with Judge Sauls that the Appellants have not
+carried their burden of showing that the number of legal votes rejected by the
+canvassing boards is sufficient to change or place in doubt the result of this
+statewide election.  That failure of proof controls the outcome here.  Moreover, as
+explained below, I do not believe that an adequate remedy exists under the
+circumstances of this case.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 64 ===
+33 No-votes (ballots for which the no vote for Presidential electors was
+recorded) exist throughout the state, not just in the counties selected by
+Appellants.  Of the 177,655 no-votes in the November 7, 2000, election in Florida,
+28,492 occurred in Miami-Dade County and 29,366 occurred in Palm Beach
+County.  See Division of Elections, Voter Turnout Report, S-DX 41; Division of
+Elections, General Election Results, S-DX 40.
+-64-
+I conclude that Judge Sauls properly found that the evidence presented by
+Appellants, even if believed, was insufficient to warrant any remedy under section
+102.168.
+The basis for Appellants claim for relief under section 102.168 is that there
+is a “no-vote” problem, i.e., ballots which, although counted by machines at least
+once,  allegedly have not been counted in the presidential election.  The evidence
+showed that this no-vote problem, to the extent it exists, is a statewide problem. 33   
+Appellants ask that only a subset of these no-votes be counted.   
+In a presidential election, however, section 102.168, by its title, is an
+“Election” contest and, as such, it is not a local contest seeking to define the
+correct winner of the popular vote in any individual county.  The action is to
+determine whether the Secretary of State certified the correct winner for the entire
+State of Florida.   By its plain language, section 102.168(1) provides that only the
+“unsuccessful candidate” may contest an election.  If this contest provision may be
+invoked as to individual county results, as argued by Appellants, then Vice
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 65 ===
+-65-
+President Gore’s choice of the three particular counties was improper because he
+was not “unsuccessful” in those counties.  I read the statute as applying to
+statewide results in statewide elections.  Thus, Vice President Gore, as the
+unsuccessful candidate statewide, could contest the election results.  However, in
+this contest proceeding, Appellants had an obligation to show, by a preponderance
+of the evidence, that the outcome of the statewide election would likely be
+changed by the relief they sought.  
+Appellants failed, however, to provide any meaningful statistical evidence
+that the outcome of the Florida election would be different if the “no-vote” in
+other counties had been counted; their proof that the outcome of the vote in two
+counties would likely change the results of the election was insufficient.  It would
+be improper to permit Appellants to carry their burden in a statewide election by
+merely demonstrating that there were a sufficient number of no-votes that could
+have changed the returns in isolated counties.  Recounting a subset of counties
+selected by the Appellants does not answer the ultimate question of whether a
+sufficient number of uncounted legal votes could be recovered from the statewide
+“no-votes” to change the result of the statewide election.  At most, such a
+procedure only demonstrates that the losing candidate would have had greater
+success in the subset of counties most favorable to that candidate.
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 66 ===
+-66-
+Moreover, assuming that there may be some shortfall in counting the votes
+cast with punch card ballots, such a problem is only properly considered as being
+systemic with the punch card system itself, and any remedy would have had to be
+statewide.  Any other remedy would disenfranchise tens of thousands of other
+Florida voters, as I have serious concerns that Appellant’s interpretation of
+102.168 would violate other voters’ rights to due process and equal protection of
+the law under the Fifth and Fourteenth Amendments to the United States
+Constitution.  
+As such, I would find that the selective recounting requested by Appellant is
+not available under the election contest provisions of section 102.168.  Such an
+application does not provide for a more accurate reflection of the will of the voters
+but, rather, allows for an unfair distortion of the statewide vote.  It is patently
+unlawful to permit the recount of “no-votes” in a single county to determine the
+outcome of the November 7, 2000, election for the next President of the United
+States.  We are a nation of laws, and we have survived and prospered as a free
+nation because we have adhered to the rule of law.  Fairness is achieved by
+following the rules.
+Finally, even if I were to conclude that the Appellant’s allegations and
+evidence were sufficient to warrant relief, I do not believe that the rules permit an
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 67 ===
+34 See Palm Beach County Canvassing Bd. v. Harris, Nos. SC00-2346, SC00-2348,
+SC00-2349 (Fla. Nov. 21, 2000), vacated by Bush v. Palm Beach Canvassing Bd., 531 U.S. ____
+(2000).
+-67-
+adequate remedy under the circumstances of this case.  This Court, in its prior
+opinion, and all of the parties agree that election controversies and contests must be
+finally and conclusively determined by December 12, 2000.  See 3 U.S.C. § 5.  This
+Court is “not required to do a useless act nor are we required to act if it is
+impossible for us to grant effectual relief.”  State v. Strasser , 445 So. 2d 322, 322
+(Fla. 1983).  See also Hoshaw v. State, 533 So. 2d 886, 887 (Fla. 3d DCA 1988)
+(“The law does not require futile acts.”); International Fidelity Ins. Co. v. Prestige
+Rent-A-Car, Inc., 715 So. 2d 1025, 1028 (Fla. 5th DCA 1998) (“Florida law does
+not require trial courts to enter orders which are impossible to execute or which
+require parties to perform acts that cannot be of any force or effect.”).  Clearly, the
+only remedy authorized by law would be a statewide recount of more than 170,000
+“no-vote” ballots by December 12.  Even if such a recount were possible, speed
+would come at the expense of accuracy, and it would be difficult to put any faith or
+credibility in a vote total achieved under such chaotic conditions.  In order to
+undertake this unprecedented task, the majority has established standards for
+manual recounts–a step that this Court refused to take in an earlier case, 34
+presumably because there was no authority for such action and nothing in the
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 68 ===
+-68-
+record to guide the Court in setting such standards.  The same circumstances exist
+in this case.  All of the parties should be afforded an opportunity to be heard on this
+very important issue.  
+While this Court must be ever mindful of the Legislature’s plenary power to
+appoint presidential electors, see U.S. Const. art. II, § 1, cl. 2,  I am more concerned
+that the majority is departing from the essential requirements of the law by
+providing a remedy which is impossible to achieve and which will ultimately lead
+to chaos.  In giving Judge Sauls the option to order a statewide recount, the
+majority permits a remedy which was not prayed for, which is based upon a
+premise for which there is no evidence, and which presents Judge Sauls with
+options to order entities (i.e. local canvassing boards) to conduct recounts when
+they have not been served, have not been named as parties, but, most importantly,
+have not had the opportunity to be heard.  In effect, the majority is allowing the
+results of the statewide election to be determined by the manual recount in Miami-
+Dade County because a statewide recount will be impossible to accomplish.  Even
+if by some miracle a portion of the statewide recount is completed by December 12,
+a partial recount is not acceptable.  The uncertainty of the outcome of this election
+will be greater under the remedy afforded by the majority than the uncertainty that
+now exists. 
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 69 ===
+-69-
+The circumstances of this election call to mind a quote from football
+coaching legend Vince Lombardi:  “We didn’t lose the game, we just ran out of
+time.”
+SHAW, J., concurs.
+Appeal of Judgment of Circuit Court, in and for Leon County, N. Sanders Sauls,
+Judge, Case No. CV 00-2808 - Certified by the District Court of Appeal,
+First District, Case No. 1D00-4745
+John D.C. Newton, II of Berger Davis & Singerman, Tallahassee, Florida;  Mitchell
+W. Berger of Berger Davis & Singerman, Fort Lauderdale, Florida; W. Dexter
+Douglass of the Douglass Law Firm, Tallahassee, Florida; David Boies of Boies,
+Schiller & Flexner, LLP, Armonk, New York;  Ronald A. Klain and Andrew J.
+Pincus,  c/o Gore/Lieberman Recount, Washington D.C.; Jeffrey D. Robinson of
+Baach, Robinson & Lewis, Washington, D.C.; Joseph E. Sandler of Sandler &
+Rieff, P.C., Washington, D.C.;  Mark R. Steinberg, Los Angeles, California; John J.
+Corrigan, Jr., Boston, Massachusetts; Dennis Newman, Reading, Massachusetts;
+Kendall Coffey, Miami, Florida; Benedict E. Kuehne, Miami, Florida; and Theresa
+Wynn Roseborough, Atlanta, Georgia,  
+for Albert Gore, Jr. and Joseph I. Lieberman, Appellants
+Deborah K. Kearney, General Counsel, and Kerey Carpenter, Assistant General
+Counsel, Florida Department of State, Tallahassee, Florida; and Joseph P. Klock,
+Jr., John W. Little, III, Alvin F. Lindsay III, Robert W. Pittman, Gabriel E. Nieto,
+Walter J. Harvey, and  Ricardo M. Martinez-Cid of Steel, Hector & Davis, LLP,
+Tallahassee, Florida, for the Secretary of State and the Elections Canvassing
+Commission; Robert A. Ginsburg, Miami-Dade County Attorney, Murray A.
+Greenberg, First Assistant County Attorney, and Lee Kraftchick, Thomas A.
+Tucker Ronzetti, and Jeffrey P. Ehrlich, Assistant County Attorneys, Miami,
+Florida, for Miami-Dade County Canvassing Board, Lawrence D. King, Myriam
+Lehr, and David C. Leahy; Michael S. Mullin, Fernandina Beach, Florida, for
+RETRIEVED FROM DEMOCRACYDOCKET.COM
+
+=== PDF PAGE 70 ===
+-70-
+Nassau County Canvassing Board, and Judge Robert E. Williams, Supervisor of
+Elections, Shirley N. King, Marianne P. Marshall, and David Howard; Leonard
+Berger and Andrew McMahon, Palm Beach County, West Palm Beach, Florida, for
+Charles Burton, Carol Roberts, and Theresa Lepore, Palm Beach County
+Canvassing Board, and  Bruce Rogow and Beverly A. Pohl, Fort Lauderdale,
+Florida, and Robert M. Montgomery, Jr., West Palm Beach, Florida, for Theresa
+Lepore, Supervisor of Elections; and Barry Richard of Greenberg, Traurig, P.A.,
+Tallahassee, Florida, Benjamin L. Ginsberg of Patton, Boggs, LLP, Washington,
+D.C., George J. Terwilliger, III, and Timothy E. Flanigan of White & Case, LLP,
+Washington, D.C., and Kirk Van Tine of Baker Botts, LLP, Washington, D.C., for
+George W. Bush and Dick Cheney,
+Appellees
+Gary L. Printy of the Law Office of Gary L. Printy, Tallahassee, Florida,
+for Stephen Cruce, Teresa Cruce, Terry Kelly, and Jeanette K. Seymour, 
+Intervenors 
+Terrell C. Madigan, Harold R. Mardenborough, Jr., and Christopher Barkas of
+McFarlain, Wiley, Cassedy & Jones, P.A., Tallahassee, Florida,
+for Matt Butler, Intervenor
+W. Robert Vezina, III and Frederick J. Springer of Vezina, Lawrence & Piscitelli,
+P.A., Tallahassee, Florida,
+for John E. Thrasher, Intervenor
+ William Kemper Jennings, DeFuniak Springs, Florida,
+for Glenda Carr, Lonnette Harrell, Terry Richardson, Gary H. Shuler, Keith 
+Temple, and Mark A. Thomas, Intervenors
+RETRIEVED FROM DEMOCRACYDOCKET.COM

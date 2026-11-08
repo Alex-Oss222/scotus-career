@@ -1,0 +1,195 @@
+BOUNDED PARTY ARGUMENT EXTRACTS
+
+These are party assertions, not findings. The later merits briefs are used solely to identify arguments and pre-December-9 record citations. The complete source files are reserved for control review. Every body below is copied mechanically from the retained OCR, with its errors and page markers preserved. No body has been retyped or silently repaired.
+
+
+--- Bush application, printed pages 17-19: asserted basis for federal finality ---
+
+Moreover, in Cox Broadcasting Corp. v. Cohn. 420 U.S. 469 (1975). this Coun 
+identified four categories of cases in which a judgment is sufficiently final to justify this 
+Court's review even though further proceedings remain to be held in the state courts. The 
+fourth such category permits review even in “those situations where the federal issue has 
+been finally decided in the state courts with further proceedings pending in which the 
+party seeking review here might prevail on the merits on nonfederal grounds, thus 
+rendering unnecessary review of the federal issue by this Court,” and “reversal of the 
+state court on the federal issue would be preclusive of any further litigation on the 
+relevant cause of action rather than merely controlling the nature and character of, or 
+determining the admissibility of evidence in, the state proceedings still to come.” /d at 
+482-83. In these circumstances, “if a refusal immediately to review the state court 
+decision might seriously erode federal policy, the Court has entertained and decided the 
+federal issue, which itself has been finally determined by the state courts for purposes of 
+the state litigation.” /d. at 483; see also Fort Wayne Books, Inc. v. Indiana, 489 U.S. 46, 
+55 (1989), ASARCO Inc. v. Kadish, 490 U.S. 605, 612 (1989); Goodyear Atomic Corp. v. 
+Miller, 486 U.S. 174, 178-80 (1988); Hudson Distribs., Inc. v. Eli Lilly & Co., 377 US. 
+386, 389 n.4 (1964). 
+
+The fourth Cox Broadcasting category is plainly applicable here. The federal 
+questions presented by this case have been finally decided by the court below, which 
+squarely rejected Applicants’ arguments that the Article [I and 3 U.S.C. § 5 preclude the 
+
+
+17 
+
+
+relief ordered by the court below, and that the selective and standardless manual recounts 
+approved and mandated by the court below would violate the federal Constitution and 
+other federal laws. Exh. H (Florida Supreme Court Brief) at 45-46. Accordingly. a 
+federal issue has been conclusively resolved, and there is no need for further state court 
+proceedings to finalize or crystallize the lower court's disposition of those federal 
+questions. It is equally clear that, absent immediate review, Applicants “might prevail on 
+the merits on nonfederal grounds, thus rendering unnecessary review of the federal issue 
+by this Court.” 420 U.S. at 482. The case was remanded for the selective manual 
+recounts to occur, and it is certainly possible that the results of those recounts could 
+eliminate Applicants’ need to litigate further, thereby depriving this Court of an 
+opportunity to decide the important constitutional and statutory issues at stake. 
+
+Moreover, reversal of the court below on any of the federal questions presented in 
+this case “would be preclusive of any further litigation on the relevant cause of action.” 
+420 U:S. at 482-83. If, as Applicants contend, the court below lacked authority to issue 
+the judgment below and the selective manual recounts ordered below violate the federal 
+Constitution or otherwise are inconsistent with federal law, then the determination of 
+those federal issues would be preclusive of any further state court litigation on the issue 
+of recounts. ' 
+
+Finally, it is readily apparent that “a refusal immediately to review the state court 
+decision might seriously erode federal policy.” 420 U.S. at 483. The holding of the 
+selective, ever-shifting, and standardless hand-counting, if allowed to remain in effect, 
+
+
+18 
+
+
+would seriously erode fundamental federal policies. including the right to vote—the most 
+basic right of citizenship bestowed by the Constitution, Reynolds v. Sims. 377 U.S. 533. 
+561-62 (1964)—and the vital public interest in the lawful and consistent handling and 
+tabulation of ballots and the fairness and finality of elections for federal office. 
+particularly for the President of the United States. Accordingly, Cox and related cases 
+warrant immediate review of “the federal issue, which itself has been finally determined 
+by the state courts for purposes of the state litigation.” 420 U.S. at 482-83: accord 
+Goodyear Atomic Corp, 486 U.S. at 178-79 (applying this exception where “the 
+unreviewed decision of the Ohio Supreme Court might seriously erode federal policy in 
+the area of nuclear production”). 
+
+
+--- Bush merits brief, printed page 44: sorting and double-counting argument; see testimony qualifications in the accompanying facts ---
+
+The manual recount in Miami-Dade and the rest of 
+the counties in Florida presents yet another intractable 
+equal protection problem. The undisputed evidence at 
+trial established that the very process of segregating un- 
+dervotes from the rest of the ballots inevitably will iden- 
+tify as undervotes ballots that were already counted in 
+the first (or second) machine counts, but not in the third 
+pass through the machine. Trial Tr. 549 (34 precincts in 
+Miami-Dade had more undervotes after segregating un- 
+dervotes than were reported after the first recount). 
+Votes that have already been included in the count may 
+be counted again, after examination, as undervotes. 
+Such double-counting of votes is a plain dilution of the 
+votes of the remaining voters in violation of the equal 
+protection clause. That equal protection violation with 
+respect to Miami-Dade has already occurred, and would 
+be exacerbated if more ballots were counted. Moreover, 
+the decision below orders the rest of the counties in 
+Florida to engage in the same sort of selective manual 
+recount. Some “undervotes” would be segregated in that 
+process that have already been included in the certified 
+count, with the result that some votes would be counted 
+and included twice. 
+
+
+
+
+--- Gore merits brief, printed pages 35-36: voter-intent standard, preservation objection, and response to uniform physical tests ---
+
+Petitioners’ Fourteenth Amendment arguments rest principally 
+on the assertion that, if the manual count proceeds, similar ballots 
+will be treated dissimilarly in different parts of the State. We note 
+that, insofar as this argument is directed at pre-contest tabulations, 
+it is out of place here; petitioners should have raised such claims 
+in an election contest of their own. But more fundamentally, 
+petitioners’ contention simply finds no support in the law, and has 
+sweeping implications for the conduct of elections. The court 
+below was quite insistent that the counting of ballots must be 
+governed by a single uniform standard: the intent of the voter 
+must control. Of course, so long as the count is conducted by 
+humans, it undeniably will be possible to allege some degree of 
+inconsistency in the treatment of individual ballots — as is the case 
+whenever the application of any legal standard (e.g., negligence, 
+public forum) is at issue. That will be true in every one of the 
+many jurisdictions that provide for manual recounts; it is true 
+whenever States provide for variation in the methods of voting 
+from county to county (e.g., optical scanners as opposed to less 
+reliable punch card ballots), which is now the case in every State; 
+and it was true everywhere prior to the introduction of mechanical 
+voting machines, when all ballots were counted by hand. 
+Petitioners’ theory would mean that all of these practices violate 
+the Fourteenth Amendment. Moreover, if petitioners mean to say 
+that all votes must be tabulated under a fixed and mechanical - 
+standard (e.g., the “two-corner chad rule”), their approach would 
+render unconstitutional the laws of States that hinge the meaning 
+
+
+'© Petitioners’ post-argument submission to the Florida Supreme Court, 
+“Clarification of Argument for Appellees George W. Bush and Dick 
+Cheney” (Exhibit M to Stay Application), was not accepted for filing. 
+
+
+ee 
+seen ncccccccmcmcc ccc n een cer rrr cceenrrn cnn ncnnn ern nrerrrnnrrnnnnrnnrnnccenenreceeeeeceeeeeeeeeeeeeeeeeeeeeeeeeee eee 
+
+
+36 
+
+
+of the ballot on the intent of the voter — and also would mean that 
+the Constitution requires the disenfranchisement of many voters 
+whose intent is clearly discernible. This argument, in our view, is 
+wholly insubstantial. Similar arguments regarding the conduct of 
+elections uniformly have been rejected by the courts. 
+
+
+
+
+--- Gore merits brief, printed page 36: asserted judicial corrective remedy ---
+
+In any event. if the standard set out by the Florida Court is not 
+applied consistently, applicants will have recourse to the Leon 
+County Circuit Court and, on appeal, to the Florida Supreme 
+Court, either of which will be able to eliminate any inconsistency 
+by determining itself which ballots meet the statutory standard." 
+
+
+
+
+--- Gore merits brief, printed page 36 footnote 17: accompanying statutory-contest qualification ---
+
+And, indeed, Florida statutory law provides that opportunity with 
+regard to any bailots that a candidate believes should not have been counted 
+during a manual recount pursuant to Fla. Stat. § 102.166, see App. 36 
+(complaining about standards used during previous manual recounts). See 
+Fla. Stat. § 102. 168(3)(c) (permitting a candidate to contest the inclusion of 
+“illegal votes” in the certified election results). 
+
+
+--- Gore merits brief, printed page 49 footnote 28: alternative uniform-standard remedy ---
+
+28 Even if this Court disagreed, the appropriate remedy for either an Equal 
+Protection Clause or Due Process Clause violation would not be to cancel all 
+recounts, but rather to order that the recounts be undertaken under a uniform 
+standard. Counting none of the votes would be vote dilution with a 
+
+
+vengeance. 
+
+
+--- Gore merits brief, printed pages 2-3: jurisdiction statement only ---
+
+This 
+Court has jurisdiction under 28 U.S.C. § 1257 to review the 
+
+
+3 
+
+
+judgment of the Florida Supreme Court.

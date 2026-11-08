@@ -1,0 +1,371 @@
+=== PDF PAGE 1 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+70 OCTOBER TERM, 2000
+Syllabus
+BUSH v. PALM BEACH COUNTY CANV ASSING
+BOARD et al.
+certiorari to the supreme court of florida
+No. 00–836. Argued December 1, 2000—Decided December 4, 2000
+The day after the November 7, 2000, Presidential election, the Florida
+Division of Elections reported that petitioner, Governor George W.
+Bush, had received 1,784 more votes than respondent Vice President
+Albert Gore, Jr. Under the Florida Election Code, an automatic ma-
+chine recount occurred, resulting in a much smaller margin of victory
+for Bush. Gore then exercised his statutory right to submit written
+requests for manual recounts to the canvassing boards of four Florida
+counties, see Fla. Stat. § 102.166, and subsequently joined in this suit
+to require manual recounts and the certiﬁcation of the recount results.
+Among other things, the Florida Circuit Court held that § 102.111’s
+7-day recount deadline was mandatory, but that the Volusia County
+board could amend its returns at a later date, and ruled that the Secre-
+tary of State (Secretary), after considering all attendant facts and
+circumstances, could exercise her discretion in deciding whether to
+include the late amended returns in the statewide certiﬁcation. After
+the Secretary rejected the four counties’ requests to make late ﬁlings,
+the Circuit Court denied an emergency motion by the Florida Demo-
+cratic Party and Gore, ruling that the Secretary had not acted arbi-
+trarily and had exercised her discretion in a reasonable manner consist-
+ent with the court’s earlier ruling. The First District Court of Appeal
+certiﬁed the matter to the Florida Supreme Court, which, inter alia,
+enjoined the Secretary and the Elections Canvassing Commission from
+certifying the election results and declaring a winner until further
+order; held that a discrepancy between the machine returns and a sam-
+ple manual recount was sufﬁcient to trigger the statutory provisions for
+a full manual recount; and ruled that § 102.112, which provides that the
+Secretary “may . . . ignor[e]” late election returns, controlled over the
+conﬂicting provision in § 102.111, which speciﬁes that the Secretary
+“ s h a l l...i gnor[e]” such returns. Relying in part on the right to vote
+set forth in the State Constitution, the court concluded that the Secre-
+tary may reject late manual recounts only under limited circumstances.
+Invoking its equitable powers, the court imposed a November 26 dead-
+line for a return of ballot counts, thereby effectively extending by 12
+days § 102.111’s 7-day deadline, and directed the Secretary to accept
+manual counts submitted prior to that deadline.
+
+=== PDF PAGE 2 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+71Cite as: 531 U. S. 70 (2000)
+Syllabus
+Held: In light of considerable uncertainty as to the precise grounds for
+decision, the judgment of the Florida Supreme Court is vacated, and
+the case is remanded. This Court generally defers to a state court’s
+interpretation of a state statute. But in the case of a state law ap-
+plicable not only to elections to state ofﬁces, but also to the selection
+of Presidential electors, the state legislature is not acting solely under
+the authority given it by the State, but by virtue of a direct grant
+of authority under Art. II, § 1, cl. 2, of the United States Constitution,
+which requires each State to appoint its electors “in such Manner as the
+Legislature thereof may direct.” Insertion of those words into that
+Clause, while operating as a limitation upon the State in respect of any
+attempt to circumscribe the legislative power, cannot be held to operate
+as a limitation on that power itself. McPherson v. Blacker, 146 U. S.
+1, 25. Review of the opinion below reveals considerable uncertainty as
+to the precise grounds for the decision. See Minnesota v. National
+Tea Co., 309 U. S. 551, 555. Speciﬁcally, this Court is unclear both as
+to the extent to which the Florida Supreme Court saw the Florida Con-
+stitution as circumscribing the legislature’s authority under Art. II, § 1,
+cl. 2, and as to the consideration the Florida court accorded to 3 U. S. C.
+§ 5, which contains a federal-law principle that would assure ﬁnality of
+the State’s determination if made pursuant to a state law in effect before
+the election. That is sufﬁcient reason for this Court to decline at this
+time to review the federal questions asserted to be present. See 309
+U. S., at 555. While state courts must be free to interpret their state
+constitutions, it is equally important that ambiguous or obscure state-
+court adjudications not stand as barriers to a determination by this
+Court of the validity of state action under the Federal Constitution.
+Intelligent exercise of the Court’s appellate powers compels it to ask for
+the elimination of the obscurities and ambiguities from the opinions in
+such cases. Id., at 557.
+772 So. 2d 1220, vacated and remanded.
+Theodore B. Olson argued the cause for petitioner. With
+him on the briefs were Terence P . Ross, Douglas R. Cox,
+Thomas G. Hungar, Mark A. Perry, Benjamin L. Ginsberg,
+Michael A. Carvin, Barry Richard, John F. Manning, Wil-
+liam K. Kelley, Bradford R. Clark, George J. Terwilliger
+III, Timothy E. Flanigan, and Marcos D. Jime´nez. Joseph
+P . Klock, Jr., argued the cause for Katherine Harris et al.,
+respondents under this Court’s Rule 12.6, in support of peti-
+
+=== PDF PAGE 3 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+72 BUSH v. PALM BEACH COUNTY CANV ASSING BD.
+Counsel
+tioner. With him on the briefs were John W. Little III,
+Ricardo M. Martinez-Cid, and Bill L. Bryant, Jr.
+Paul F. Hancock, Deputy Attorney General of Florida,
+argued the cause for respondent Butterworth, Attorney
+General of Florida. With him on the brief were Mr. Butter-
+worth, pro se, and Jason Vail and Kimberly J. Tucker, As-
+sistant Attorneys General. Laurence H. Tribe argued the
+cause for respondents Gore et al. With him on the briefs
+were David Boies, Kathleen M. Sullivan, Thomas C. Gold-
+stein, Teresa Wynn Roseborough, James A. Orr, Andrew
+J. Pincus, Kendall Coffey, Jonathan S. Massey, and Peter J.
+Rubin. Samuel S. Goren, Edward A. Dion, and Tamara M.
+Scrudders ﬁled a brief for respondents Broward County Can-
+vassing Board et al. Bruce S. Rogow, Beverly A. Pohl, and
+Denise D. Dytrych ﬁled a brief for respondent Palm Beach
+County Canvassing Board.*
+*Briefs of amici curiae urging reversal were ﬁled for the State of
+Alabama et al. by Bill Pryor, Attorney General of Alabama, and Margaret
+L. Fleming, John J. Park, Jr., Charles B. Campbell, Scott L. Rouse,
+A. Vernon Barnett IV, and Richard E. Trewhella, Jr., Assistant Attor-
+neys General; for the Commonwealth of Virginia et al. by Mark L. Earley,
+Attorney General of Virginia, Randolph A. Beales, Chief Deputy Attor-
+ney General, William Henry Hurd, Solicitor General, Judith Williams
+Jagdmann, Deputy Attorney General, Siran S. Faulders and Maureen
+Riley Matsen, Senior Assistant Attorneys General, Eleanor Anne Ches-
+ney, Anthony P . Meredith, and Valerie L. Myers, Assistant Attorneys
+General, Charlie Condon, Attorney General of South Carolina, and Don
+Stenberg, Attorney General of Nebraska; and for William H. Haynes et al.
+by Jay Alan Sekulow, Thomas P . Monaghan, Stuart J. Roth, Colby M.
+May, James M. Henderson, Sr., David A. Cortman, Grifﬁn B. Bell, Paul
+D. Clement, and Jeffrey S. Bucholtz.
+Steven R. Shapiro, Laughlin McDo nald, and James K. Green ﬁled a
+brief for the American Civil Liberties Union as amicus curiae urging
+afﬁrmance.
+Briefs of amici curiae were ﬁled for the Florida Senate et al. by Charles
+Fried, Einer Elhauge, and Roger J. Magnuson; for the State of Iowa et al.
+by Thomas J . Miller,Attorney General of Iowa, Dennis W. Johnson, Solic-
+itor General, and Tam B. Ormiston, Deputy Attorney General, and by the
+Attorneys General for their respective States as follows: Bill Lockyer of
+
+=== PDF PAGE 4 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+73Cite as: 531 U. S. 70 (2000)
+Per Curiam
+Per Curiam.
+The Supreme Court of the State of Florida interpreted
+its elections statutes in proceedings brought to require
+manual recounts of ballots, and the certiﬁcation of the re-
+count results, for votes cast in the quadrennial Presidential
+election held on November 7, 2000. Governor George W.
+Bush, Republican candidate for the Presidency, ﬁled a peti-
+tion for certiorari to review the Florida Supreme Court de-
+cision. We granted certiorari on two of the questions pre-
+sented by petitioner: whether the decision of the Florida
+Supreme Court, by effectively changing the State’s elector
+appointment procedures after election day, violated the Due
+Process Clause or 3 U. S. C. § 5, and whether the decision of
+that court changed the manner in which the State’s electors
+are to be selected, in violation of the legislature’s power to
+designate the manner for selection under Art. II, § 1, cl. 2, of
+the United States Constitution. Post, p. 1004.
+On November 8, 2000, the day following the Presidential
+election, the Florida Division of Elections reported that
+Governor Bush had received 2,909,135 votes, and respond-
+ent Democrat Vice President Albert Gore, Jr., had received
+2,907,351, a margin of 1,784 in Governor Bush’s favor.
+Under Fla. Stat. § 102.141(4) (2000), because the margin of
+victory was equal to or less than one-half of one percent
+of the votes cast, an automatic machine recount occurred.
+The recount resulted in a much smaller margin of victory
+for Governor Bush. Vice President Gore then exercised his
+California, Richard Blumenthal of Connecticut, Earl I. Anzai of Hawaii,
+Karen M. Freeman-Wilson of Indiana, Andrew Ketterer of Maine, J. Jo-
+seph Curran, Jr., of Maryland, Thomas F. Reilly of Massachusetts, Joseph
+P . Mazurek of Montana, Frankie Sue Del Papa of Nevada, Patricia A.
+Madrid of New Mexico, Drew Edmondson of Oklahoma, Hardy Myers
+of Oregon, and Sheldon Whitehouse of Rhode Island; for the American
+Civil Rights Union by John C. Armor and Peter Ferrara; for the Coalition
+for Local Sovereignty by Kenneth B. Clark; and for the Disenfranchised
+Voters in the USA et al. by Ilise Levy Feitshans.
+
+=== PDF PAGE 5 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+74 BUSH v. PALM BEACH COUNTY CANV ASSING BD.
+Per Curiam
+statutory right to submit written requests for manual re-
+counts to the canvassing board of any county. See § 102.166.
+He requested recounts in four counties: Volusia, Palm Beach,
+Broward, and Miami-Dade.
+The parties urged conﬂicting interpretations of the Flor-
+ida Election Code respecting the authority of the canvass-
+ing boards, the Secretary of State (hereinafter Secretary),
+and the Elections Canvassing Commission. On November
+14, in an action brought by Volusia County, and joined by
+the Palm Beach County Canvassing Board, Vice President
+Gore, and the Florida Democratic Party, the Florida Circuit
+Court ruled that the statutory 7-day deadline was manda-
+tory, but that the Volusia board could amend its returns at a
+later date. The court further ruled that the Secretary, after
+“considering all attendant facts and circumstances,” App. to
+Pet. for Cert. 49a, could exercise her discretion in deciding
+whether to include the late amended returns in the state-
+wide certiﬁcation.
+The Secretary responded by issuing a set of criteria by
+which she would decide whether to allow a late ﬁling. The
+Secretary ordered that, by 2 p.m. the following day, Novem-
+ber 15, any county desiring to forward late returns submit a
+written statement of the facts and circumstances justify-
+ing a later ﬁling. Four counties submitted statements, and,
+after reviewing the submissions, the Secretary determined
+that none justiﬁed an extension of the ﬁling deadline. On
+November 16, the Florida Democratic Party and Vice Presi-
+dent Gore ﬁled an emergency motion in the state court, ar-
+guing that the Secretary had acted arbitrarily and in con-
+tempt of the court’s earlier ruling. The following day, the
+court denied the motion, ruling that the Secretary had not
+acted arbitrarily and had exercised her discretion in a rea-
+sonable manner consistent with the court’s earlier ruling.
+The Democratic Party and Vice President Gore appealed
+to the First District Court of Appeal, which certiﬁed the
+matter to the Florida Supreme Court. That court accepted
+
+=== PDF PAGE 6 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+75Cite as: 531 U. S. 70 (2000)
+Per Curiam
+jurisdiction and sua sponte entered an order enjoining the
+Secretary and the Elections Canvassing Commission from
+ﬁnally certifying the results of the election and declaring a
+winner until further order of that court.
+The Supreme Court, with the expedition requisite for the
+controversy, issued its decision on November 21. Palm
+Beach County Canvassing Bd. v. Harris, 772 So. 2d 1220
+(2000). As the court saw the matter, there were two princi-
+pal questions: whether a discrepancy between an original
+machine return and a sample manual recount resulting from
+the way a ballot has been marked or punched is an “error
+in vote tabulation” justifying a full manual recount; and how
+to reconcile what it spoke of as two conﬂicts in Florida’s
+election laws: (a) between the timeframe for conducting a
+manual recount under Fla. Stat. § 102.166 (2000) and the
+timeframe for submitting county returns under §§ 102.111
+and 102.112, and (b) between § 102.111, which provides that
+the Secretary “shal l...i g nor[e]” late election returns, and
+§ 102.112, which provides that she “may ...i g nor[e]” such
+returns.
+With regard to the ﬁrst issue, the court held that, under
+the plain text of the statute, a discrepancy between a sample
+manual recount and machine returns due to the way in which
+a ballot was punched or marked did constitute an “error in
+vote tabulation” sufﬁcient to trigger the statutory provisions
+for a full manual recount.
+With regard to the second issue, the court held that the
+“shall . . . ignor[e]” provision of § 102.111 conﬂicts with the
+“ m a y...i g nor[e]” provision of § 102.112, and that the “may
+...i g nor[e]” provision controlled. The court turned to the
+questions whether and when the Secretary may ignore late
+manual recounts. The court relied in part upon the right
+to vote set forth in the Declaration of Rights of the Florida
+Constitution in concluding that late manual recounts could be
+rejected only under limited circumstances. The court then
+stated: “[B]ecause of our reluctance to rewrite the Florida
+
+=== PDF PAGE 7 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+76 BUSH v. PALM BEACH COUNTY CANV ASSING BD.
+Per Curiam
+Election Code, we conclude that we must invoke the equi-
+table powers of this Court to fashion a remedy . . . .” 772
+So. 2d, at 1240. The court thus imposed a deadline
+of November 26, at 5 p.m., for a return of ballot counts.
+The 7-day deadline of § 102.111, assuming it would have
+applied, was effectively extended by 12 days. The court
+further directed the Secretary to accept manual counts sub-
+mitted prior to that deadline.
+As a general rule, this Court defers to a state court’s inter-
+pretation of a state statute. But in the case of a law enacted
+by a state legislature applicable not only to elections to state
+ofﬁces, but also to the selection of Presidential electors, the
+legislature is not acting solely under the authority given it
+by the people of the State, but by virtue of a direct grant of
+authority made under Art. II, § 1, cl. 2, of the United States
+Constitution. That provision reads:
+“Each State shall appoint, in such Manner as the Leg-
+islature thereof may direct, a Number of Electors, equal
+to the whole Number of Senators and Representatives
+to which the State may be entitled in the Congres s.... ”
+Although we did not address the same question petitioner
+raises here, in McPherson v. Blacker, 146 U. S. 1, 25 (1892),
+we said:
+“[Art. II, § 1, cl. 2,] does not read that the people or the
+citizens shall appoint, but that ‘each State shall’; and if
+the words ‘in such manner as the legislature thereof may
+direct,’ had been omitted, it would seem that the legisla-
+tive power of appointment could not have been success-
+fully questioned in the absence of any provision in the
+state constitution in that regard. Hence the insertion
+of those words, while operating as a limitation upon the
+State in respect of any attempt to circumscribe the leg-
+islative power, cannot be held to operate as a limitation
+on that power itself.”
+
+=== PDF PAGE 8 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+77Cite as: 531 U. S. 70 (2000)
+Per Curiam
+There are expressions in the opinion of the Supreme Court
+of Florida that may be read to indicate that it construed
+the Florida Election Code without regard to the extent to
+which the Florida Constitution could, consistent with Art. II,
+§ 1, cl. 2, “circumscribe the legislative power.” The opinion
+states, for example, that “[t]o the extent that the Legislature
+may enact laws regulating the electoral process, those laws
+are valid only if they impose no ‘unreasonable or unneces-
+sary’ restraints on the right of suffrage” guaranteed by the
+State Constitution. 772 So. 2d, at 1236. The opinion also
+states that “[b]ecause election laws are intended to facilitate
+the right of suffrage, such laws must be liberally construed
+in favor of the citizens’ right to vote .... ” Id., at 1237.
+In addition, 3 U. S. C. § 5 provides in pertinent part:
+“If any State shall have provided, by laws enacted
+prior to the day ﬁxed for the appointment of the elec-
+tors, for its ﬁnal determination of any controversy or
+contest concerning the appointment of all or any of the
+electors of such State, by judicial or other methods or
+procedures, and such determination shall have been
+made at least six days before the time ﬁxed for the meet-
+ing of the electors, such determination made pursuant
+to such law so existing on said day, and made at least
+six days prior to said time of meeting of the electors,
+shall be conclusive, and shall govern in the counting of
+the electoral votes as provided in the Constitution, and
+as hereinafter regulated, so far as the ascertainment of
+the electors appointed by such State is concerned.”
+The parties before us agree that whatever else may be the
+effect of this section, it creates a “safe harbor” for a State
+insofar as congressional consideration of its electoral votes
+is concerned. If the state legislature has provided for ﬁnal
+determination of contests or controversies by a law made
+prior to election day, that determination shall be conclu-
+sive if made at least six days prior to said time of meeting
+
+=== PDF PAGE 9 ===
+531US1 Unit: $$U7 [04-13-02 14:41:43] PAGES PGT: OPIN
+78 BUSH v. PALM BEACH COUNTY CANV ASSING BD.
+Per Curiam
+of the electors. The Florida Supreme Court cited 3 U. S. C.
+§§ 1–10 in a footnote of its opinion, 772 So. 2d, at 1238, n. 55,
+but did not discuss § 5. Since § 5 contains a principle of
+federal law that would assure ﬁnality of the State’s de-
+termination if made pursuant to a state law in effect before
+the election, a legislative wish to take advantage of the “safe
+harbor” would counsel against any construction of the Elec-
+tion Code that Congress might deem to be a change in the
+law.
+After reviewing the opinion of the Florida Supreme Court,
+we ﬁnd “that there is considerable uncertainty as to the
+precise grounds for the decision.” Minnesota v. National
+Tea Co., 309 U. S. 551, 555 (1940). This is sufﬁcient reason
+for us to decline at this time to review the federal questions
+asserted to be present. See ibid.
+“It is fundamental that state courts be left free and un-
+fettered by us in interpreting their state constitutions.
+But it is equally important that ambiguous or obscure
+adjudications by state courts do not stand as barriers
+to a determination by this Court of the validity under
+the federal constitution of state action. Intelligent ex-
+ercise of our appellate powers compels us to ask for
+the elimination of the obscurities and ambiguities from
+the opinions in such cases.” Id., at 557.
+Speciﬁcally, we are unclear as to the extent to which the
+Florida Supreme Court saw the Florida Constitution as cir-
+cumscribing the legislature’s authority under Art. II, § 1,
+cl. 2. We are also unclear as to the consideration the Florida
+Supreme Court accorded to 3 U. S. C. § 5. The judgment of
+the Supreme Court of Florida is therefore vacated, and the
+case is remanded for further proceedings not inconsistent
+with this opinion.
+It is so ordered.

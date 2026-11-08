@@ -1,0 +1,9 @@
+# Mariani model-stage exposure receipt
+
+This internal receipt is not a neutral handoff and must not be exposed to the replacement independent model. No Mariani commitment was drafted or frozen in the affected context.
+
+During a source-only web search for official 1994 §441b text, search output included unrequested later government briefs. One later brief named FEC v. Beaumont, 539 U.S. 146, and used that post-cutoff authority while describing the general corporate treasury contribution/expenditure prohibition and the separate segregated-fund structure. A second later brief described the statutory structure in a later campaign-finance controversy. The displayed first snippet also described the earlier MCFL independent-expenditure exception. Neither later page was opened, but the displayed material exceeded case names and filing titles: it contained legal propositions and an association with post-cutoff authority bearing on the corporate-source issue. It is therefore treated as substantive exposure requiring a fresh merits context.
+
+The later sources supplied no authority or factual premise to the source addendum. After recognition and parent notification, this context was limited to exact copying and comparison of official 1994/2000 Code text, the date-eligible Third Circuit record, and preparation of a neutral source completion. No merits vote selection, opinion topology or present-case join was supplied to the clean source validator. The fresh model should receive only authorized neutral inputs, actual earlier public law and clean source material, not this receipt or the affected discussion.
+
+No current-matter historical Supreme Court merits comparator, current Stone material, reconciliation, full current Record or locked top-level directory was opened in this Mariani work. This receipt records the specific exposure without asserting that general model knowledge can be removed.
