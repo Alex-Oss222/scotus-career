@@ -1,0 +1,180 @@
+
+
+ 207 F.3d 708
+
+ 207 F.3d 708 (4th Cir. 2000)
+
+ GEORGE R. ("TEX") WOOD, Plaintiff-Appellant,v.BRUCE MEADOWS, Secretary of the State Board of Elections, Commonwealth of Virginia, Defendant-Appellee.
+
+ No. 99-1069 (CA-94-47-D).
+
+ UNITED STATES COURT OF APPEALS, FOR THE FOURTH CIRCUIT.
+
+ Argued: January 24, 2000.Decided: March 29, 2000.
+
+ Appeal from the United States District Court for the Western District of Virginia, at Danville.
+
+ Jackson L. Kiser, Senior District Judge.
+
+ COUNSEL ARGUED: Matthew Dean Pethybridge, Blacksburg, Virginia, for Appellant.James Walter Hopper, Senior Assistant Attorney General, OFFICE OF THE ATTORNEY GENERAL, Richmond, Virginia, for Appellee. ON BRIEF: Thomas P. Kratman, Blacksburg, Virginia, for Appellant. Mark L. Earley, Attorney General of Virginia, Frank S. Ferguson, Deputy Attorney General, OFFICE OF THE ATTORNEY GENERAL, Richmond, Virginia, for Appellee.
+
+ Before WILKINSON, Chief Judge, and LUTTIG and MOTZ, Circuit Judges.
+
+ Affirmed by published opinion. Judge Motz wrote the opinion, in which Chief Judge Wilkinson and Judge Luttig joined.
+
+ OPINION
+
+ DIANA GRIBBON MOTZ, Circuit Judge:
+
+ 1
+ We consider here whether the Virginia filing deadline for independent candidates for the United States Senate imposes an unconstitutional burden on those candidates or their supporters. Because the state's interest in the deadline outweighs the burden imposed by it, we affirm.
+
+ I.
+
+ 2
+ Virginia law requires all independent candidates for public office, with the exception of candidates for President and Vice President of the United States, to file declarations of candidacy and petitions by the second Tuesday in June, which is approximately five months, or 150 days, before the general election in November. Va. Code Ann. § 24.2-507 (Michie 1997). At all times relevant to this litigation, in order to obtain a place on the general election ballot independent candidates for statewide office had to submit petitions signed by one-half of one percent of all registered Virginia voters, including at least 200 from each congressional district, see id.§ 24.2-506; present law requires these candidates to submit 10,000 signatures, including 400 from each congressional district. See id. (Supp. 1999) (as amended by 1998 Va. Acts cc. 152, 246).
+
+ 3
+ An independent candidate may garner the necessary signatures only after January 1 of the year in which the election is to be held. See id. Any registered voter may sign a petition, and no statutory provision bars a voter from signing more than one. Nor does a voter who signs a petition relinquish his right to vote in a party primary. See id. § 24.2-530.
+
+ 4
+ Political parties that select their candidates in primary elections must hold those primaries on the second Tuesday in June prior to the general election--the same date as the deadline for independent candidates to file their petitions. See id.§ 24.2-515. Furthermore, persons wishing to be candidates in those primary elections must file declarations of candidacy and petitions containing the same number and kind of signatures as required of independent candidates. See id. § 24.2521; see also id. (Supp. 1999). Candidates in the party primaries must file these declarations and petitions 60 days before the party primary, which in Virginia is roughly 210 days before the general election. See id. § 24.2-522(A). Parties that select their candidates through means other than a primary must also complete their selection process by the second Tuesday in June. See id. § 24.2-510(1).
+
+ 5
+ George R. Wood sought to have his name included on the November 1994 Virginia general election ballot as an independent candidate for United States Senate. Because he failed to comply with Virginia's filing requirements for independent candidates, the Commonwealth refused to put his name on the ballot.
+
+ 6
+ Wood thereafter brought this suit, contending that Virginia's filing requirements violated his rights and those of his supporters under the First and Fourteenth Amendments of the United States Constitution. The district court granted summary judgment to Wood, holding that our decision in Cromer v. South Carolina, 917 F.2d 819 (4th Cir. 1990), controlled the outcome of the case.
+
+ 7
+ On appeal by the Commonwealth, we distinguished Cromer and concluded that the district court erred in "fail[ing] to analyze Wood's claim under the balancing test set forth by the Supreme Court in Anderson v. Celebrezze," 460 U.S. 780 (1983). Wood v. Meadows, 117 F.3d 770, 771 (774) (4th Cir. 1997). Accordingly, we remanded the case to the district court to apply the Anderson test in light of further factual development "both as to the burdens" of the filing deadline on prospective candidates and "the interests of the Commonwealth" in imposing the deadline. Id. at 776. On remand, the district court granted summary judgment to the Commonwealth. Wood now appeals.
+
+ II.
+
+ 8
+ As we explained when this case was last before us, the Supreme Court in Anderson outlined the relevant test for courts to apply in determining whether filing requirements for independent candidates impose an unconstitutional burden:
+
+ 9
+ [A court] must first consider the character and magnitude of the asserted injury to the rights protected by the First and Fourteenth Amendments that the plaintiff seeks to vindicate. It must then identify and evaluate the precise interests put forward by the State as justifications for the burden imposed by its rule. In passing judgment, the Court must not only determine the legitimacy and strength of each of those interests, it also must consider the extent to which those interests make it necessary to burden the plaintiff's rights.
+
+ 10
+ 460 U.S. at 789. Even prior to articulating this test, the Court expressly recognized that "reasonable, nondiscriminatory restrictions" generally can be justified by "the State's important regulatory interests." Id. at 788. If a filing deadline inflicts a "severe" burden, however, it must be "narrowly drawn to advance a state interest of compelling importance." Norman v. Reed, 502 U.S. 279, 289 (1992) (quoted in Burdick v. Takushi, 504 U.S. 428, 434 (1992)).
+
+ 11
+ In applying this test, a court must not apply a"litmus-paper test for separating those restrictions that are valid from those that are invidious under the Equal Protection Clause. The rule is not self-executing and is no substitute for the hard judgments that must be made." Storer v. Brown, 415 U.S. 724, 730 (1974) (cited in Anderson, 460 U.S. at 789, 103 S.Ct. 1564).
+
+ 12
+ The variations and complexities of the election laws of the several states complicate such judgments. Not only do states mandate different filing dates, but they permit different periods of time for signature collection and require different numbers of signatures. In addition, a state may, or may not, permit voters who sign independent candidates' petitions to vote in party primaries. Compare American Party of Texas v. White, 415 U.S. 767, 777 n.7 (1974) (involving Texas law prohibiting petition signatories from participating in party primaries), with Jenness v. Fortson, 403 U.S. 431, 439 (1971) (involving Georgia law allowing signatories' participation in party primaries). And some states allow voters to sign as many petitions as they like, see e.g., Jenness, 403 U.S. at 438-39, while others permit voters to sign only a single petition. See, e.g., American Party, 415 U.S. at 777 n.7; cf. Williams v. Rhodes, 393 U.S. 23, 37 (1968) (Douglas, J., concurring) (striking Ohio law that prohibited voters who cast a vote in the preceding primary election from signing petitions of endorsement of third party candidates for central committeemen or national convention delegates).
+
+ 13
+ Finally, states may require independent candidates to file their petitions and declarations of candidacy before, at the same time, or after party primary candidates do so. See, e.g., Anderson, 460 U.S. at 799 (same time); Council of Alternative Political Parties v. Hooks, 179 F.3d 64, 66-67 (3d. Cir. 1999) (after primary candidates). If the state requires independent candidates to file such declarations of candidacy after the primary candidates, that date may fall before the party primaries, on the eve of the primaries, on the same day as the primaries, or after the primaries. See, e.g., Council , 179 F.3d at 68 (same day as primary); Hess v. Hechler, 925 F. Supp. 1140, 1142 (S.D. W. Va. 1995), aff'd sub nom. Fishbeck v. Hechler, 85 F.3d 162 (4th Cir. 1996) (primary eve); McLain v. Meier, 851 F.2d 1045, 1047 (8th Cir. 1988) (after primary).
+
+ 14
+ When determining whether a given state's filing deadline unconstitutionally burdens candidates' and voters' rights, a court must examine that state's ballot access scheme in its entirety. See Williams, 393 U.S. at 34.
+
+ III.
+
+ 15
+ Anderson requires that we first evaluate the"character and magnitude of the asserted injury to the rights protected by the First and Fourteenth Amendments that the plaintiff seeks to vindicate." Anderson, 460 U.S. at 789.
+
+ 16
+ Wood maintains that Virginia's June filing deadline unconstitutionally burdens First Amendment rights. He contends that it limits the ability of independent candidates to react to events after the primary elections and that it imposes an unequal burden on independent candidates without the backing of large organizations by limiting the time period for collecting signatures to late winter and early spring months often beset by cold weather. Further, he asserts that because of the June deadline, "[v]olunteers are more difficult to recruit and retain, media publicity and campaign contributions are more difficult to secure, and voters are less interested in the campaign." Brief of Appellant at 35 (quoting Anderson, 460 U.S. at 792).1
+
+ 17
+ Wood correctly notes that "[s]ometimes the grossest discrimination can lie in treating things that are different as though they were exactly alike." Jenness, 403 U.S. at 442. For this very reason, courts have subjected to searching scrutiny state laws requiring both party primary candidates and independent candidates to announce their candidacies by the same March deadline, well prior to the primary elections. See Anderson, 460 U.S. at 791-792; Cromer, 917 F.2d at 823. As the Supreme Court explained in Anderson , "[t]he consequences of failing to meet [this kind of] statutory deadline are entirely different for party primary participants and independents." 460 U.S. at 799. Requiring party candidates to comply with a March filing deadline permits a "reasonable time for processing the documents submitted by candidates and preparing the ballot" for a June primary. Id. at 800. Moreover, after filing their notice of candidacy, party candidates participate in a "structured intraparty contest" in which they gain publicity and "receive organizational support." Id. at 801. "Neither the administrative justification nor the benefit of an early filing deadline is applicable to an independent candidate." Id. at 800. In other words, although such laws appear to treat independent and party candidates similarly, they actually disadvantage independent candidates.2
+
+ 18
+ Although the First Amendment prohibits a state from imposing seemingly equivalent requirements on independent and major party candidates when, in fact, those requirements severely disadvantage independent candidates, it does not compel states to give independent or minor party candidates a substantial advantage over major party candidates. See Timmons v. Twin Cities Area New Party, 520 U.S. 351, 366-68 (1997) (holding that although minor party candidates face numerous problems in obtaining political office, state is under no duty to ameliorate those problems; rather, state legislation "may, in practice, favor the traditional two-party system"); Munro v. Socialist Workers Party, 479 U.S. 189 (1986) (holding that states need not increase the likelihood that an unpopular candidate will gain access to the general election ballot). Nor does the Constitution prevent a state from subjecting independents to reasonable burdens, similar in degree, to those imposed on party candidates. See American Party, 415 U.S. at 787-88. Generally, of course, states can compel independent candidates seeking access to the general election ballot to comply with "reasonable, nondiscriminatory restrictions," Anderson, 460 U.S. at 788--that is, restrictions that neither substantially disadvantage independents nor favor them.
+
+ 19
+ For these reasons, state laws, like the one at hand, that require independent candidates to file their certificates of candidacy and petitions on the day the major political parties hold their primary elections, and sixty days after the major party candidates have filed their certificates and petitions, do not raise the same concerns as the statutes at issue in Anderson and Cromer. Rather, such schemes place independent and major party candidates in roughly comparable positions. A party candidate must file earlier, but the administrative concerns of preparing the primary election ballot justify this burden, and the publicity and party organization attendant to primaries ameliorate it.
+
+ 20
+ Wood fails to recognize this distinction. With one exception, the cases on which he relies that have struck filing deadlines for independent candidates involved statutes that required such candidates to file certificates of candidacy substantially before a late spring primary. See Anderson, 460 U.S. at 782-83 (independent candidate for President required to file 14,500 signatures and statement of candidacy by March 20, 75 days before primary); Cromer, 917 F.2d at 823 (independent candidates required to file notices of candidacy by March 30, 70 days before primary); Stoddard v. Quinn, 593 F. Supp. 300, 30204 (D. Me. 1982) (independent candidates required to file petitions and certificates of candidacy by April 1, two months before primary).3
+
+ 21
+ In the one exception, a district court did find unconstitutional a statute similar to Virginia's--with a filing deadline for independent candidates on the same date as a June primary--but the Third Circuit unequivocally reversed that holding. See Council , 179 F.3d 64, rev'g 999 F. Supp. 607 (D.N.J. 1998). The New Jersey statute at issue in that case does not differ in any significant respect from Virginia's statute.4 Thus, it is of particular interest that the Third Circuit concluded that New Jersey's law constituted "a reasonable, nondiscriminatory regulation that imposes at most a minimal burden on plaintiffs' rights." Id. at 77-78.
+
+ 22
+ In sum, Wood does not cite a single case, and we have not found one, in which any court has held unreasonably burdensome a statutory scheme like Virginia's, which requires independent candidates to file petitions signed by a modest number of voters on the same date as a June primary election, and well after the deadline by which major party candidates must file petitions with the same number of signatures. Moreover, the Third Circuit has expressly held that a statute strikingly similar to Virginia's is not unreasonably burdensome. Id.
+
+ 23
+ Of course, a filing deadline for independent candidates on the day of the party primaries could pose an unconstitutional burden when operating in conjunction with a very early primary date, very high signature requirements, or other particularly burdensome provisions. The Virginia scheme, however, contains no such additional and onerous requirements.
+
+ 24
+ Although the Virginia filing deadline is earlier in the calendar year than that of some states, it is significantly later than the March deadlines invalidated in Anderson and Cromer . When the Supreme Court noted the difficulty of early springtime politicking in Anderson, it was discussing the burden imposed on independent candidates forced to file their petitions by March 20. In Virginia, independent candidates can collect signatures through the increasingly temperate months of April, May, and early June--and for sixty days after state law requires major party candidates to have met identical petition requirements. Nor does the signature requirement--one half of one percent of registered voters5--transform the scheme into an unreasonably burdensome one. See, e.g., Jenness, 403 U.S. at 433-434, 438 (upholding statutory scheme allowing 180 days to circulate petitions, requiring independent candidates to file petitions in June on the same day as party primary candidates, and requiring signatures of five percent of registered voters eligible to vote in preceding election). But cf. Illinois State Bd. of Elections v. Socialist Workers Party , 440 U.S. 173 (1979) (holding that state could not justify discrepancy between high signature requirements for election to local office in Chicago--more than 35,000 qualified voters--and lower requirement for statewide office --25,000 voters).
+
+ 25
+ Additional factors also limit the burden imposed by the Virginia filing deadline. Unlike some states, voters signing independent candidate petitions in Virginia may vote in the primaries. Va. Code Ann. §§ 24.2-506, -530; see also Jenness, 403 U.S. at 438-39 (noting that "Georgia imposes no suffocating restrictions whatever upon the free circulation of nominating petitions [and allows] . . . a voter who has signed the petition of a nonparty candidate to participate in a party primary"). Voters may also sign as many petitions as they like. See § 24.2-506 (imposing no limitation on voters to sign only one petition); see also Jenness, 403 U.S. at 438-439. Nor does Virginia require independent candidates to have been previously unaffiliated with a political party, see Storer, 415 U.S. at 726 (upholding statute that imposed such a requirement), or compel independent or minor party candidates to file an affidavit regarding their views. See Communist Party of Indiana v. Whitcomb, 414 U.S. 441 (1974) (striking statute requiring minor parties to attest that they do not advocate overthrowing the government before being placed on the ballot).
+
+ 26
+ Any filing deadline imposes some burden on constitutional rights. The Supreme Court has long recognized, however, that"as a practical matter, there must be a substantial regulation of elections if they are to be fair and honest and if some sort of order, rather than chaos, is to accompany the democratic process." Burdick , 504 U.S. at 433 (quoting Storer, 415 U.S. at 730). For this reason, "not all restrictions imposed by the States on candidates' eligibility for the ballot impose constitutionally suspect burdens on voters' rights to associate or to choose among candidates." Anderson, 460 U.S. at 788. In this case, while we cannot say that Virginia's statutory scheme taken as a whole imposes no burden on constitutional rights, the burden imposed is both reasonable and nondiscriminatory, particularly when compared with statutes that we and other courts have previously upheld.6
+
+ IV.
+
+ 27
+ The final step of the Anderson analysis is to "identify and evaluate the precise interests put forward by the State as justifications for the burden imposed by its rule" and "determine the legitimacy and strength of each of those interests." Anderson, 460 U.S. at 789.
+
+ 28
+ The level of scrutiny a court applies to a state's asserted interests differs depending on the nature of the burden imposed. If the burden is severe, then we must strictly scrutinize both the state's interests and the means utilized to achieve those interests, to ensure that the state's requirements are "narrowly drawn to advance a state interest of compelling importance." Norman, 502 U.S. at 289 (quoted in Burdick, 504 U.S. at 434). If, however, the challenged state statute imposes "reasonable, nondiscriminatory restrictions" upon First and Fourteenth Amendment rights, as is the case here, "the State's important regulatory interests . . . generally suffic[e] to justify" it. Anderson, 460 U.S. at 788.
+
+ 29
+ The Commonwealth contends, as it did when we earlier considered this case, that its interests in administrative convenience justify the filing deadline. In addition, the Commonwealth now also maintains that the deadline "is supported by the vital state interests of limiting the number of candidates on the general election ballot, requiring those candidates who will be included to demonstrate a preliminary showing of sufficient voter support, and designating the primary election date as the date for determining the full field of candidates." Brief of Appellee at 16.
+
+ 30
+ These interests have long been recognized as legitimate. Administrative convenience readily falls under the rubric of a state's "regulatory interests," the importance of which the Supreme Court has repeatedly recognized. See Burdick, 504 U.S. at 434; Anderson, 460 U.S. at 788. The Court has also expressly approved a state's interest in limiting the number of candidates on the ballot, see Lubin v. Panish, 415 U.S. 709, 714-15 (1974) (interest is of"highest order" because having many candidates on ballot "undermine[s] the process of giving expression to the will of the majority"); see also Bullock v. Carter, 405 U.S. 134, 145 (1972); Jenness , 403 U.S. at 442; Williams, 393 U.S. at 32-34, and in conditioning ballot access on "a showing of a modicum of support among the potential voters for the office." Munro, 479 U.S. at 193; see also Anderson , 460 U.S. at 788 n.9.
+
+ 31
+ Although in Anderson, the Court rejected Ohio's claim that its March 20 deadline "serves the interest of treating all candidates alike," id. at 799, this was because, as we have explained within, see ante at 711-12, the deadline there--well prior to the primary--in fact did not have the same impact on independent and party candidates. See also Cromer, 917 F.2d at 824 ("imposing of the same pre-filing deadline on primary and independent candidates is only superficial `equality.'"). The deadline here does. See ante at 712. We believe the Supreme Court would recognize that actually affording candidates rough parity, rather than imposing false equality, constitutes a legitimate state interest. See American Party, 415 U.S. at 787 n.18 (upholding statute that required minor party candidates to file their petitions around the time of the primary).
+
+ 32
+ Not only are the interests asserted by the Commonwealth legitimate, but just as clearly its filing deadline furthers these interests. The deadline provides time for Virginia election officials to determine that the petitions contain the required number of signatures and to verify those signatures. Moreover, by requiring an independent to file the petition 150 days prior to the general election, the challenged deadline also limits the number of candidates that will appear on the general election ballot, ensures that each candidate already has the support of some of the eligible voters, and provides a period of time prior to the general election when the full field of candidates will be known to the voters. Furthermore, in achieving these objectives the filing deadline attempts to treat all candidates roughly alike.
+
+ 33
+ Wood contends that even if we find that the Commonwealth has asserted legitimate interests, those interests--particularly administrative convenience--cannot justify the filing deadline. Brief of Appellant at 45-47. In so arguing, Wood misunderstands the analysis required when a statute imposes only a reasonable and nondiscriminatory burden. He maintains that "the state must factually demonstrate . . . `the extent to which [its] interests make it necessary to burden the plaintiff's rights.'" Id. at 56 (quoting Anderson, 460 U.S. at 789) (emphasis by Wood). Furthermore, Wood contends that"where the deadline is unnecessary to achieve the interest the state seeks to protect with the deadline, to the extent it is unnecessary it is invalid, regardless of the severity of the burden on the Appellant." Id. He offers evidence purportedly demonstrating that Virginia election officials need only thirty days to process and verify an independent candidate's petitions and argues that 30 days "is the extent to which the state's interest makes it necessary to burden the plaintiff's rights." Id. at 53.
+
+ 34
+ The difficulty with this argument is that the Anderson test simply does not require that a state justify "reasonable, nondiscriminatory" ballot access restrictions in this manner. To be sure, when a state imposes unreasonable, discriminatory burdens, a court must consider not only the "legitimacy and strength" of the interests assertedly justifying those burdens, but also "the extent to which [the state's] interests make it necessary to burden the plaintiff's rights." Anderson, 460 U.S. at 789. But to reiterate, a court need only make this determination when the challenged state requirement imposes an unreasonable, discriminatory burden on constitutional rights. Cf. Council, 179 F.3d at 80 (upholding filing deadline similar to Virginia's that furthered legitimate state interests in treating all candidates equally, ensuring informed voting decisions, and limiting the number of frivolous candidates regardless of whether deadline could "be justified based on administrative need").
+
+ 35
+ If the test were otherwise, a state would have to demonstrate that all of its ballot access requirements were "narrowly tailored" to further valid state interests. No case so holds. Rather, the "narrow tailoring" or "least restrictive means" analysis has always been reserved for a court's strict scrutiny of a statute. See, e.g., Illinois State Bd., 440 U.S. at 184-86 (finding high signature requirements that "burden[ed]" First and Fourteenth Amendment rights unconstitutional because they were "not the least restrictive means of protecting the State's objectives."); Lubin, 415 U.S. at 716-18 (holding unconstitutional statute imposing substantial filing fee that "heavily burdened" voter's rights because fee was not "reasonably necessary to the accomplishment of the State's legitimate election interests"). In the ballot access context, requirements constituting an unreasonable, discriminatory burden are the only requirements subject to strict scrutiny review. See Burdick, 504 U.S. at 433.
+
+ 36
+ We recognize that the Anderson Court did not expressly state that "the extent to which [a state's] interests make it necessary to burden the plaintiff's rights" only becomes relevant when a challenged statute constitutes an unreasonable, discriminatory burden. 460 U.S. at 789. But before ever articulating its test, the Anderson Court did carefully explain that, "the State's important regulatory interests are generally sufficient to justify reasonable, nondiscriminatory restrictions." Id. at 788. Moreover, immediately thereafter, the Anderson Court inserted a footnote, in which it cited Jenness and American Party, noting that in those cases it had "upheld generally applicable and evenhanded restrictions that protect the integrity and reliability of the electoral process itself." Id. at 788 n.9. In neither Jenness nor American Party did the Court analyze the challenged state statutes to determine "the extent to which the state's interest ma[d]e it necessary to burden the plaintiff's rights." Thus, we believe that the Anderson Court did clearly indicate that the "extent" analysis is limited to ballot access requirements that constitute an unreasonable, discriminatory burden on constitutional rights.
+
+ 37
+ Furthermore, even if Anderson had left the proper analysis in doubt, Burdick laid all doubt to rest. There, the challenger argued, as Wood does, that every ballot access restriction must be "narrowly tailored to advance a compelling state interest." Burdick, 504 U.S. at 433. The Supreme Court rejected this suggestion:"[T]o require that [every voting] regulation be narrowly tailored. . . would tie the hands of States seeking to assure that elections are operated equitably and efficiently." Id. Indeed, the Burdick Court chided the dissent for purporting to apply a minimal level of scrutiny while in effect applying strict scrutiny as "evident from [the dissent's] invocation of quite rigid narrow tailoring requirements." Id. at 440 n.10. The analysis that the Burdick majority found improper is precisely the analysis Wood asks us to undertake here, i.e., to require the Commonwealth to "adopt a less drastic means" than the reasonable, nondiscriminatory statute in question. Id.
+
+ 38
+ The Commonwealth has articulated legitimate interests justifying its reasonable, nondiscriminatory ballot access requirements. In such circumstances, a federal court has no basis for finding a state statutory scheme unconstitutional.
+
+ V.
+
+ 39
+ For all of these reasons, the judgment of the district court is
+
+ 40
+ AFFIRMED.
+
+ Notes:
+
+ 1
+ Wood recognizes, as he must, that the Virginia statute, unlike the statute challenged in Anderson, does not apply to candidates for national office, but only to statewide and local candidates; he does not, however, acknowledge the significance of this distinction. In fact, the Anderson Court not only repeatedly noted that the statute before it interfered with the national electoral process, see, e.g., 460 U.S. at 790, 794-95, 804, 806, but also explained that a state "has a less important interest in regulating Presidential elections than statewide or local elections." Id. at 795.
+
+ 2
+ We emphasize, however, that a state election scheme with a preprimary filing deadline is not before us in this case. Given that a court must examine a challenged election scheme as a whole, we cannot (and do not) hold that any particular feature, in and of itself, renders a filing deadline unconstitutional.
+
+ 3
+ Wood also cites a host of cases finding unconstitutional statutes governing minor party candidates, not independents. Even if these cases were apposite, they would not assist Wood because they address schemes substantially more onerous than Virginia's, which generally include a requirement that minor party candidates file petitions substantially prior to primary elections. See Blomquist v. Thomson , 739 F.2d 525, 528 (10th Cir. 1984) (minor party candidates required to file petitions signed by 8000 registered voters (more than 3% of total) three months before primary election in order to appear on primary election ballot); McLain v. Meier, 637 F.2d 1159, 1162 (8th Cir. 1980) (same but requiring 15,000 signatures); Libertarian Party of Kentucky v. Ehrler, 776 F. Supp. 1200, 1205 (E.D. Ky. 1991) (minor party candidates required to file petitions signed by registered voters in same party 119 days before primary election); Libertarian Party of Nevada v. Swackhamer , 638 F. Supp. 565, 566 (D. Nev. 1986) (minor party candidates required to file petitions signed by number of voters equal to 5% of those voting in last preceding general election 60 days prior to primary in order to appear on primary election ballot); Consumer Party v. Davis, 633 F. Supp. 877, 882 (E.D. Pa. 1986) (minor party candidates required to file petitions signed by 2000 registered voters for the offices of United States Senator, President, or Governor no later than ten weeks and no earlier than thirteen weeks before the primary election); Libertarian Party of Oklahoma v. Oklahoma State Election Bd., 593 F. Supp. 118, 121 (W.D. Okla. 1984) (minor party candidates required to file petitions signed by registered voters equal in number to 5% of total votes cast in last general election and allowed only 90 days to gather such signatures).
+
+ 4
+ New Jersey does require fewer signatures than Virginia (800 vs. 1/2 of 1% of registered voters), see Council, 179 F.3d at 68, but the Supreme Court has upheld petition requirements substantially more onerous than Virginia's. See, e.g., Jenness, 403 U.S. at 438 (upholding statute requiring independent candidates to file petitions signed by 5% of the number of registered voters eligible to vote in the previous election). Moreover, New Jersey requires party candidates to file 54 rather than 60 days before the primary, see Council, 179 F.3d at 68; thus, independent candidates in Virginia have an extra week to gather petition signatures after state law has required party candidates to announce their candidacies and file their petitions.
+
+ 5
+ The required number of signatures in 1994 was 14,865. An even fewer number of signatures--10,000--are required under a recent statutory amendment. See Va. Code Ann. § 24.2-506 (Supp. 1999).
+
+ 6
+ Notwithstanding Wood's contention to the contrary, the burdens imposed by West Virginia's filing requirements on minor party candidates upheld in Fishbeck, 85 F.3d at 165, were also more substantial than those imposed by the scheme we evaluate today. The number of signatures required--one percent of the total votes cast in the preceding general election for the office in West Virginia against one-half of one percent of the total number of voters registered to vote for the office in Virginia--cannot realistically be compared because of differences in population size and voter turnout, but may be quite similar. In other respects, however, the West Virginia statute imposed considerably more rigorous requirements. The West Virginia filing deadline was nearly a month earlier than that at issue here, and the deadline was on the eve of, instead of the day of, the primary. Id. at 163. Moreover, those signing petitions in West Virginia were not permitted to vote in the primary election, id., while in Virginia petition signers may not only vote in the primary but also may sign other petitions.
+
+ CC∅ | Transformed by Public.Resource.Org
+

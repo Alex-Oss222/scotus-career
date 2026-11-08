@@ -1,0 +1,27 @@
+[
+  {
+    "key": "csu_lower",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/203/203.F3d.1322.99-1323.html",
+    "characters": 25464
+  },
+  {
+    "key": "wood_lower",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/207/207.F3d.708.-94-47-.99-1069.html",
+    "characters": 33620
+  },
+  {
+    "key": "landry_lower",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/204/204.F3d.1125.99-1230.html",
+    "characters": 63850
+  },
+  {
+    "key": "saucier_petition",
+    "url": "https://www.justice.gov/osg/brief/saucier-v-katz-petition",
+    "characters": 158246
+  },
+  {
+    "key": "mead_petition",
+    "url": "https://www.justice.gov/osg/brief/united-states-v-mead-petition-writ-certiorari",
+    "characters": 112530
+  }
+]

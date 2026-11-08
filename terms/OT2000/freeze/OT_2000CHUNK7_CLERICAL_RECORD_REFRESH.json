@@ -1,0 +1,33 @@
+{
+  "scope": "Pre-commit clerical consistency repair within this Run; initial materialization hashes remain in the assignment receipts.",
+  "records": [
+    {
+      "record": "CSU_v_Xerox_merits_2001-06-04.md",
+      "before_sha256": "9805c86d8f89914bdfa7db7d894c0dc3a0c5135926c54a95ced78a45db648832",
+      "after_sha256": "34b18e57076fad92c73f3a0b5c95b0cb342616ff6129a601bf5e51c78ff08a48",
+      "public_projection": "byte-identical at text level",
+      "change": "Removed one obsolete draft-status sentence immediately preceding the completed assignment statement; no vote, author, assignment count, holding or other adjudicative content changed."
+    },
+    {
+      "record": "Florida_v_Thomas_jurisdictional-dismissal_2001-06-04.md",
+      "before_sha256": "9e32a67c062ae3a2fbd91395161150e1ab1f449847a0c71c85793a8195eba6c0",
+      "after_sha256": "f4e946746b93895a1310458e93ee699ed95842e9f65220dbb2a55c078f07891e",
+      "public_projection": "byte-identical at text level",
+      "change": "Removed one obsolete draft-status sentence immediately preceding the completed assignment statement; no vote, author, assignment count, holding or other adjudicative content changed."
+    },
+    {
+      "record": "Norfolk_Shipbuilding_and_Drydock_v_Garris_merits_2001-06-04.md",
+      "before_sha256": "753d91e66092c9940f0f7aa55441774ce473f5e8615f20681aa9d1600714ca0c",
+      "after_sha256": "e2d9de833efa23c9d3671f91c8ffec93fcbe4c6a9ba1827c40dbe957a9beaf78",
+      "public_projection": "byte-identical at text level",
+      "change": "Removed one obsolete draft-status sentence immediately preceding the completed assignment statement; no vote, author, assignment count, holding or other adjudicative content changed."
+    },
+    {
+      "record": "United_Dominion_Industries_v_United_States_merits_2001-06-04.md",
+      "before_sha256": "95d2e0b91e25dfc459eb5064321490e4000620342cd21eaf969578e41bf9d178",
+      "after_sha256": "6a268eb6882a1262fc1ea53de02939b0062f132a58762db048596d1fc6808e58",
+      "public_projection": "byte-identical at text level",
+      "change": "Removed one obsolete draft-status sentence immediately preceding the completed assignment statement; no vote, author, assignment count, holding or other adjudicative content changed."
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn710000.ca.archive.org",
+        "dir": "/0/items/micro_IA40386008_1484"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn710000.ca.archive.org",
+        "dir": "/0/items/micro_IA40386008_1484"
+      }
+    ]
+  },
+  "created": 1794173052,
+  "d1": "ia600904.us.archive.org",
+  "d2": "ia800904.us.archive.org",
+  "dir": "/0/items/micro_IA40386008_1484",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1765939802",
+      "size": "12442",
+      "md5": "0c7c052ac0307b31ff35fe3bea72e0c0",
+      "crc32": "6f216cf5",
+      "sha1": "a6e833fecae96225ee3517bbf07aa88c8d6ad4eb",
+      "format": "Item Tile"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari.pdf",
+      "source": "derivative",
+      "pdf_module_version": "0.0.25",
+      "pdf_degraded": "invalid-jp2-headers",
+      "format": "Text PDF",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_page_numbers.json",
+      "mtime": "1754570293",
+      "size": "4183976",
+      "md5": "69de925709f3aad4fe56827ceffc7653",
+      "crc32": "8d61e486",
+      "sha1": "58a31a7d6d581cf3af6c9196d99fc912bf9938e3"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_chocr.html.gz",
+      "source": "derivative",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "chOCR",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_jp2.zip",
+      "mtime": "1754569978",
+      "size": "466063",
+      "md5": "4e42930f0e65041eabf00c23ca01b906",
+      "crc32": "bdd7de94",
+      "sha1": "900402cfe8d33d4bf2a62919f818107d442014e7"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_djvu.xml",
+      "mtime": "1754570403",
+      "size": "32865",
+      "md5": "d31ddc8c7003e4632afa1f58eca331b9",
+      "crc32": "3d0259fe",
+      "sha1": "29e04f5d2a2890aa7fd5116ee64563e6f9cb7340"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr.html",
+      "mtime": "1754570137",
+      "size": "449273",
+      "md5": "d326a3034d0c4fe99cae8600ff3a89d6",
+      "crc32": "8744e110",
+      "sha1": "44dca1f9c1d46ab54419fa5b1a60354fc7063f58"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr.html",
+      "source": "derivative",
+      "hocr_char_to_word_module_version": "1.3.0",
+      "hocr_char_to_word_hocr_version": "1.1.56",
+      "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "1.0000",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "hOCR",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_chocr.html.gz",
+      "mtime": "1754570114",
+      "size": "846971",
+      "md5": "bec2f2e4d5fdbce5f07f3412f5dd347e",
+      "crc32": "c6ce69f8",
+      "sha1": "77d75371a45e7e861ddc902dae7ddfd028b300f8"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr_pageindex.json.gz",
+      "source": "derivative",
+      "hocr_pageindex_module_version": "1.1.0",
+      "hocr_pageindex_hocr_version": "1.1.56",
+      "format": "OCR Page Index",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr.html",
+      "mtime": "1754570144",
+      "size": "405",
+      "md5": "3445d0f855e26b1715cb08ccffe15009",
+      "crc32": "df032866",
+      "sha1": "6e76cf60501e506ccc59fae7a92e3ae896ae0adb"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr_searchtext.txt.gz",
+      "source": "derivative",
+      "hocr_fts_text_module_version": "1.2.0",
+      "hocr_fts_text_hocr_version": "1.1.56",
+      "word_conf_0_10": "16",
+      "word_conf_11_20": "13",
+      "word_conf_21_30": "8",
+      "word_conf_31_40": "14",
+      "word_conf_41_50": "15",
+      "word_conf_51_60": "17",
+      "word_conf_61_70": "30",
+      "word_conf_71_80": "34",
+      "word_conf_81_90": "135",
+      "word_conf_91_100": "5028",
+      "format": "OCR Search Text",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr.html",
+      "mtime": "1754570154",
+      "size": "9932",
+      "md5": "145c291b0dbb3bd95cd80a1defc4577e",
+      "crc32": "4350d1b9",
+      "sha1": "3a6bbce6d4448fb24e31854bb4878dff7d6d0837"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_jp2.zip",
+      "source": "derivative",
+      "title": "1. Petition for Writ of Certiorari",
+      "microfiche_deriver_module_version": "1.4.1",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "micro_IA40386008_1484_micro_scan.json",
+      "mtime": "1754569854",
+      "size": "26097983",
+      "md5": "5ab1af9032b0fbc7b7f156e459c786a9",
+      "crc32": "52a7178b",
+      "sha1": "c4ede161a4ac3aa0c329ee10879d0f0aaaa6e124",
+      "filecount": "36"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_page_numbers.json",
+      "source": "derivative",
+      "hocr_pagenumber_module_version": "1.0.5",
+      "hocr_pagenumber_hocr_version": "1.1.54",
+      "hocr_pagenumber_confidence": "0",
+      "format": "Page Numbers JSON",
+      "original": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_hocr.html",
+      "mtime": "1754570167",
+      "size": "6064",
+      "md5": "6b3fc1feee529838e6100d82138b3fd6",
+      "crc32": "cb72e31e",
+      "sha1": "8204005559cb409357fc234b470f3d951e849a13"
+    },
+    {
+      "name": "micro_IA40386008_1484 1. Petition for Writ of Certiorari_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "micro_IA40386008_1484_micro_scan.json",
+      "mtime": "1754570167",
+      "size": "11786",
+      "md5": "889876e32d0eacd432f14d1a83652a1f",
+      "crc32": "745c49be",
+      "sha1": "4e3f9a970a6e2272bb24d2cbcbc0385299764275"
+    },
+    {
+      "name": "micro_IA40386008_1484.pdf",
+      "source": "derivative",
+      "pdf_module_version": "0.0.25",
+      "pdf_degraded": "invalid-jp2-headers",
+      "format": "Text PDF",
+      "original": "micro_IA40386008_1484_page_numbers.json",
+      "mtime": "1754570389",
+      "size": "4183976",
+      "md5": "df448eaf15f1a7a5d5aaad328d93dd62",
+      "crc32": "947d005c",
+      "sha1": "8d81ff2926017d202fb9f7b20dbd087b68dc829e"
+    },
+    {
+      "name": "micro_IA40386008_1484_archive.torrent",
+      "source": "metadata",
+      "btih": "3cc1b410ab41a8f607164302252cb9f728411ab3",
+      "mtime": "1765939806",
+      "size": "27714",
+      "md5": "264dba4167c12a73c47f08c6164b97a3",
+      "crc32": "9c9eeb8b",
+      "sha1": "5f8d6c0f747c36ef3fee7e849bf091aea79a7faa",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "micro_IA40386008_1484_chocr.html.gz",
+      "source": "derivative",
+      "ocr": "tesseract 5.3.0-6-g76ae",
+      "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9647",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "chOCR",
+      "original": "micro_IA40386008_1484_jp2.zip",
+      "mtime": "1754570100",
+      "size": "464999",
+      "md5": "33689d7d9174bd57e7754d25d967a026",
+      "crc32": "f5dd4d25",
+      "sha1": "526d049834dba4d60d02bb22dfaa984708089525"
+    },
+    {
+      "name": "micro_IA40386008_1484_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40386008_1484_djvu.xml",
+      "mtime": "1754570406",
+      "size": "32865",
+      "md5": "d31ddc8c7003e4632afa1f58eca331b9",
+      "crc32": "3d0259fe",
+      "sha1": "29e04f5d2a2890aa7fd5116ee64563e6f9cb7340"
+    },
+    {
+      "name": "micro_IA40386008_1484_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "micro_IA40386008_1484_hocr.html",
+      "mtime": "1754570134",
+      "size": "443953",
+      "md5": "9e349b6d7d968901a3da86391fecebfc",
+      "crc32": "2a0300a1",
+      "sha1": "0dfe8f605a39af12af4718225a221d813c7e47f6"
+    },
+    {
+      "name": "micro_IA40386008_1484_files.xml",
+      "source": "original",
+      "format": "Metadata",
+      "md5": "4d4d7702e782493a674ab0a035f06a40",
+      "summation": "md5"
+    },
+    {
+      "name": "micro_IA40386008_1484_hocr.html",
+      "source": "derivative",
+      "hocr_char_to_word_module_version": "1.3.0",
+      "hocr_char_to_word_hocr_version": "1.1.56",
+      "ocr_parameters": "lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu",
+      "ocr_module_version": "0.0.21",
+      "ocr_detected_script": "Latin",
+      "ocr_detected_script_conf": "0.9647",
+      "ocr_detected_lang": "en",
+      "ocr_detected_lang_conf": "1.0000",
+      "format": "hOCR",
+      "original": "micro_IA40386008_1484_chocr.html.gz",
+      "mtime": "1754570125",
+      "size": "844619",
+      "md5": "a897cd0698500d4782eae07204f0b3e1",
+      "crc32": "e1ece492",
+      "sha1": "d83a5be3391d686a20519111174aaccf4e8f4747"
+    },
+    {
+      "name": "micro_IA40386008_1484_hocr_pageindex.json.gz",
+      "source": "derivative",
+      "hocr_pageindex_module_version": "1.1.0",
+      "hocr_pageindex_hocr_version": "1.1.56",
+      "format": "OCR Page Index",
+      "original": "micro_IA40386008_1484_hocr.html",
+      "mtime": "1754570179",
+      "size": "408",
+      "md5": "f1d774f8f2f22e136d4779ef58291b3d",
+      "crc32": "1f724da7",
+      "sha1": "4341e5e775cc7c0377cb33a8aa317a21156e1e54"
+    },
+    {
+      "name": "micro_IA40386008_1484_hocr_searchtext.txt.gz",
+      "source": "derivative",
+      "hocr_fts_text_module_version": "1.2.0",
+      "hocr_fts_text_hocr_version": "1.1.56",
+      "word_conf_0_10": "16",
+      "word_conf_11_20": "13",
+      "word_conf_21_30": "8",
+      "word_conf_31_40": "14",
+      "word_conf_41_50": "15",
+      "word_conf_51_60": "17",
+      "word_conf_61_70": "30",
+      "word_conf_71_80": "34",
+      "word_conf_81_90": "135",
+      "word_conf_91_100": "5028",
+      "format": "OCR Search Text",
+      "original": "micro_IA40386008_1484_hocr.html",
+      "mtime": "1754570190",
+      "size": "9932",
+      "md5": "b11bd88684f8906d6c96c39d00b470ea",
+      "crc32": "6c866d85",
+      "sha1": "539bb2e8192802df13778890165c139cd57e08b8"
+    },
+    {
+      "name": "micro_IA40386008_1484_itemimage.png",
+      "source": "original",
+      "mtime": "1754457432",
+      "size": "320734",
+      "md5": "3727638313cacc07d3f7c4bb3f2e2035",
+      "crc32": "1826c990",
+      "sha1": "80852ec46944a7809cc3fd0a0f1fe5cb396a61ae",
+      "format": "Item Image"
+    },
+    {
+      "name": "micro_IA40386008_1484_jp2.zip",
+      "source": "derivative",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "micro_IA40386008_1484_micro_scan.json",
+      "mtime": "1754569854",
+      "size": "26441364",
+      "md5": "bce881ae949e8db4497a3fc0fdba2b4e",
+      "crc32": "f85875cf",
+      "sha1": "0a37720de72fd93fa25762e9e633d41eacbeee19",
+      "filecount": "37"
+    },
+    {
+      "name": "micro_IA40386008_1484_meta.sqlite",
+      "source": "original",
+      "mtime": "1754569712",
+      "size": "20480",
+      "md5": "c484a9bfad87f6f8453ae5d8bc80bef2",
+      "crc32": "afa079cb",
+      "sha1": "d0ff9035ba289fe5f0f52d65cb6b21c646d53645",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40386008_1484_meta.xml",
+      "source": "original",
+      "mtime": "1777380866",
+      "size": "2705",
+      "md5": "6c730c3617d3b492842db19e05c41d94",
+      "crc32": "d435e09e",
+      "sha1": "55ae783054ebf3df0038b47bf23ad853ecb3075e",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40386008_1484_micro_jp2.zip",
+      "source": "original",
+      "mtime": "1754457457",
+      "size": "487672748",
+      "md5": "2de3e923a4a6ad38796e65dbaeb38b85",
+      "crc32": "674f093f",
+      "sha1": "6794706be9bea8fdddb5092d3c3e48e5b1e5b705",
+      "format": "Micro Cards JP2 ZIP",
+      "filecount": "18",
+      "private": "true"
+    },
+    {
+      "name": "micro_IA40386008_1484_micro_scan.json",
+      "source": "original",
+      "format": "Micro Cards Data JSON",
+      "original": "micro_IA40386008_1484_micro_jp2.zip",
+      "mtime": "1754569700",
+      "size": "6206",
+      "md5": "6db53055e14a31b9ebe3f35921dd91e4",
+      "crc32": "e365d9c1",
+      "sha1": "1e95b134825ccd39ac7c7a581ffb925aa3030125",
+      "private": "true"
+    },
+    {
+      "name": "micro_IA40386008_1484_page_numbers.json",
+      "source": "derivative",
+      "hocr_pagenumber_module_version": "1.0.5",
+      "hocr_pagenumber_hocr_version": "1.1.54",
+      "hocr_pagenumber_confidence": "0",
+      "format": "Page Numbers JSON",
+      "original": "micro_IA40386008_1484_hocr.html",
+      "mtime": "1754570203",
+      "size": "6065",
+      "md5": "0ea9723142718b1981730c122f442a34",
+      "crc32": "81c30baa",
+      "sha1": "c4b78033d4c38763e59fe5811c12680e0dc1d7ea"
+    },
+    {
+      "name": "micro_IA40386008_1484_reviews.xml",
+      "source": "original",
+      "mtime": "1777380876",
+      "size": "1046",
+      "md5": "2a87bb271149423f76fead262c5d3166",
+      "crc32": "15be9898",
+      "sha1": "06c77483512d67d2c0c050e81c8a524f96fcfff1",
+      "format": "Metadata"
+    },
+    {
+      "name": "micro_IA40386008_1484_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "micro_IA40386008_1484_micro_scan.json",
+      "mtime": "1754570203",
+      "size": "12070",
+      "md5": "0553184054db3a33174efdd3f933960f",
+      "crc32": "89a440e2",
+      "sha1": "1b7940be6e845d25d59ec911ca2511f3aad4fcc2"
+    },
+    {
+      "name": "micro_IA40386008_1484_thumb_avif.zip",
+      "source": "derivative",
+      "microfiche_deriver_module_version": "1.4.1",
+      "format": "AVIF Thumbnails ZIP",
+      "original": "micro_IA40386008_1484_micro_jp2.zip",
+      "mtime": "1754457688",
+      "size": "562814",
+      "md5": "4ed8d6d52bbb9cf6657c9e60f68c6ef8",
+      "crc32": "127517a9",
+      "sha1": "6d8c49617bce301434503d11c87e2be2f5a4b466",
+      "filecount": "2",
+      "private": "true"
+    }
+  ],
+  "files_count": 30,
+  "item_last_updated": 1777380876,
+  "item_size": 553172458,
+  "metadata": {
+    "identifier": "micro_IA40386008_1484",
+    "adaptive_ocr": "true",
+    "betterpdf": "true",
+    "bookreader-defaults": "mode/1up",
+    "boxid": "IA40386008",
+    "cardcount": "1",
+    "collection": [
+      "USGovernmentDocuments",
+      "us-supreme-court",
+      "microfiche",
+      "government-documents"
+    ],
+    "contributor": "Internet Archive",
+    "envelopeid": "1484",
+    "language": "eng",
+    "mediatype": "texts",
+    "operator": "associate-michael-arp@northernlightsdigitallibrary.org",
+    "ppi": "400",
+    "scandate": "20250806024632",
+    "scanner": "archivecd-rmd01",
+    "scanningcenter": "sanfrancisco",
+    "software_version": "ArchiveCD Version 3.1.24",
+    "source": "Microfiche",
+    "total-time": "32",
+    "uploader": "associate-michael-arp@northernlightsdigitallibrary.org",
+    "title": "Wood v. Meadows, 525 U.S. 948 (1998) (No. 98-333)",
+    "publicdate": "2025-08-06 05:16:11",
+    "addeddate": "2025-08-06 05:18:36",
+    "identifier-access": "http://archive.org/details/micro_IA40386008_1484",
+    "identifier-ark": "ark:/13960/s2qqzhq2048",
+    "micro_review": "done",
+    "derive_version": "1.4.1",
+    "date": "1998",
+    "review_time": "92",
+    "review_operator": "associate-shielamae-olmilla@archive.org",
+    "review_date": "20250807122815",
+    "creator": "Supreme Court of the United States",
+    "catalog_number": "98-333",
+    "collection_added": "additional_collections",
+    "imagecount": "35",
+    "ocr": "tesseract 5.3.0-6-g76ae",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.21",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9647",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "0",
+    "page_number_module_version": "1.0.5",
+    "pdf_degraded": "invalid-jp2-headers",
+    "pdf_module_version": "0.0.25",
+    "external-identifier": "urn:courtlistener:us/525/948/",
+    "description": "Case name: Wood v. Meadows<br /><br />Opinion filed: 1998-10-19<br /><br />Docket No.: 98-333<br /><br />Citations:<br />\u2022 525 U.S. 948",
+    "access-restricted-item": "true",
+    "subject": "Cert. Denied"
+  },
+  "page_numbers": {
+    "identifier": "micro_IA40386008_1484",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+      {
+        "leafNum": 2,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 3,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 4,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 5,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 6,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 7,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 8,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 9,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 10,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 11,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 12,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 13,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 14,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 15,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 16,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 17,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 18,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 19,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 20,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 21,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 22,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 23,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 24,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 25,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 26,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 27,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 28,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 29,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 30,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 31,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 32,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 33,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 34,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 35,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      },
+      {
+        "leafNum": 36,
+        "confidence": null,
+        "pageNumber": "",
+        "pageProb": null,
+        "wordConf": null
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "reviewtitle": "Disposition: Cert. Denied",
+      "reviewbody": "The Supreme Court denied the petition for writ of certiorari.\n\nMatched case in the Caselaw Access Project: Wood v. Meadows, 525 U.S. 948 (decided 1998-10-19; No. 98-333; opinion word count: 18).\nSee: https://static.case.law/us/525/html/0948-11.html\n\nQuoted disposition text from the U.S. Reports (via case.law):\n  \u201cC. A. 4th Cir. Certiorari denied.\u201d\n\nClassified automatically by matching this Internet Archive item to its corresponding U.S. Reports entry and parsing the opinion text. Source: https://static.case.law/\n\n(analysis aided by AI)",
+      "stars": "0",
+      "reviewer": "brewster",
+      "reviewdate": "2026-04-28 12:54:20",
+      "createdate": "2026-04-28 12:54:20",
+      "reviewer_itemname": "@brewster"
+    }
+  ],
+  "server": "ia800904.us.archive.org",
+  "uniq": 618895128,
+  "workable_servers": [
+    "ia800904.us.archive.org",
+    "ia600904.us.archive.org"
+  ]
+}

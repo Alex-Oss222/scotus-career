@@ -1,0 +1,13 @@
+# OT2000 chunk 7 control receipt
+
+The operator directed adjudication of the supplied fourteen-matter chunk and reserved repository verification and commitment. The approved brief was mechanically split with `tools/split_chunk.py`; its three runtime sections passed the freshness check. The source brief is unchanged. Approval for the current Stone supplements rests on the Run instruction and each supplied approved status, subject to event-specific revalidation at assembly.
+
+The entering workspace contains 85 completed Court events through June 4, 2001, with 29 remaining inventory events. No admitted noncase-law change is present. The opening Holdings volumes and continuous view passed synchronization. The existing term checker passed its non-repository checks. Object-existence and history-order verification were deliberately bypassed and recorded as deferred, using a term-local wrapper that rejects every repository command. No such command was executed.
+
+Separate fresh neutral/model contexts receive only their authorized neutral materials, selected entering law and published prior positions. Their scope excludes private Stone materials, comparator supplements and raw prior Records. Control may inspect official current-matter sources to extract neutral facts and statutory text, with validation by the fresh neutral context before reliance. Modeling freezes must precede separate reconciliation; reconciled freezes must precede the distinct assembly contexts. No blind-history claim is made for general model knowledge.
+
+The neutral packet and entering workspace copies are preserved in this freeze directory. Source retrieval and bounded neutral addenda are retained within the term. Direct readings and source limits are identified by the responsible stage receipts; download alone does not establish full inspection. No unavailable document establishes a litigant's failure or default.
+
+The June 4 events use the common pre-June-4 substantive baseline. Existing Penry and Pollard adjudications are preserved. For each new assignment, actual lead-opinion rows are freshly recounted in effective-date and alphabetical case-name order, including any Record already written in this Run. An earlier-alphabetical new Record does not reopen an existing assignment. Later dates receive all material effective earlier decisions; uncoordinated same-day decisions do not supply substantive law to each other.
+
+Work is restricted to the current term and authorized scratch directory. The locked directory is excluded from every read, search and write. Governing infrastructure, opening trackers, approved briefs, earlier Records and public output remain unchanged. The separate Render task is not part of this Run.

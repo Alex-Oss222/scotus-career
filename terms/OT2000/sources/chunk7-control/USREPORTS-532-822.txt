@@ -1,0 +1,861 @@
+PAGE 1
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+822 OCTOBER TERM, 2000
+Syllabus
+UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+certiorari to the united states court of appeals for
+the fourth circuit
+No. 00–157. Argued March 26, 2001—Decided June 4, 2001
+Under the Internal Revenue Code of 1954, a “net operating loss” (NOL)
+results from deductions in excess of gross income for a given year.
+26 U. S. C. § 172(c). A taxpayer may carry its NOL either backward
+or forward to other tax years in order to set off its lean years against
+its lush years. § 172(b)(1)(A). The carryback period for “product lia-
+bility loss[es]” is 10 years. § 172(b)(1)(I). Because a product liability
+loss (PLL) is the total of a taxpayer’s product liability expenses (PLEs)
+up to the amount of its NOL, § 172(j)(1), a taxpayer with a positive
+annual income, and thus no NOL, may have PLEs but can have no PLL.
+An afﬁliated group of corporations may ﬁle a single consolidated return.
+§ 1501. Treasury Regulations provide that such a group’s “consolidated
+taxable income” (CTI), or, alternatively, its “consolidated net operating
+loss” (CNOL), is determined by taking into account several items, the
+ﬁrst of which is the “separate taxable income” (STI) of each group
+member. In calculating STI, the member must disregard items such
+as capital gains and losses, which are considered, and factored into CTI
+or CNOL, on a consolidated basis. Petitioner’s predecessor in interest,
+AMCA International Corporation, was the parent of an afﬁliated group
+ﬁling consolidated returns for the years 1983 through 1986. In each
+year, AMCA reported CNOL exceeding the aggregate of its 26 indi-
+vidual members’ PLEs. Five group members with PLEs reported
+positive STIs. Nonetheless, AMCA included those PLEs in determin-
+ing its PLL for 10-year carryback under a “single-entity” approach in
+which it compared the group’s CNOL and total PLEs to determine the
+group’s total PLL. In contrast, the Government’s “separate-member”
+approach compares each afﬁliate’s STI and PLEs in order to deter-
+mine whether each afﬁliate suffers a PLL, and only then combines
+any PLLs of the individual afﬁliates to determine a consolidated PLL.
+Under this approach, PLEs incurred by an afﬁliate with positive STI
+cannot contribute to a PLL. In 1986 and 1987, AMCA petitioned the
+Internal Revenue Service for refunds based on its PLL calculations.
+The IRS ruled in AMCA’s favor, but was reversed by a joint con-
+gressional committee that controls refunds exceeding a certain thresh-
+
+PAGE 2
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+823Cite as: 532 U. S. 822 (2001)
+Syllabus
+old. AMCA then ﬁled this refund action. The District Court applied
+AMCA’s single-entity approach, concluding that so long as the afﬁliated
+group’s consolidated return reﬂects CNOL in excess of the group’s
+aggregate PLEs, the total of those expenses is a PLL that may be
+carried back. In reversing, the Fourth Circuit applied the separate-
+member approach.
+Held: An afﬁliated group’s PLL must be ﬁgured on a consolidated, single-
+entity basis, not by aggregating PLLs separately determined company
+by company. Pp. 829–838.
+(a) The single-entity approach to calculating an afﬁliated group’s
+PLL is straightforward. The ﬁrst step in applying § 172(j)’s deﬁni-
+tion of PLL requires a taxpayer ﬁling a consolidated return to calcu-
+late an NOL. The Code and regulations governing afﬁliated groups
+of corporations ﬁling consolidated returns provide only one deﬁnition
+of NOL: “consolidated” NOL. The absence of a separate NOL for a
+group member in this context is underscored by the fact that the reg-
+ulations provide a measure of separate NOL in a different context,
+for any year in which an afﬁliated corporation ﬁles a separate return.
+The exclusive deﬁnition of NOL as CNOL at the consolidated level is
+important. Neither the Code nor the regulations indicate that the es-
+sential relationship between NOL and PLL for a consolidated group
+differs from their relationship for a conventional corporate taxpayer.
+Comparable treatment of PLL for the group and the conventional
+taxpayer can be achieved only if PLEs are compared with the loss
+amount at the consolidated level after CNOL has been determined, for
+CNOL is the only NOL measure for the group. An approach based
+on comparable treatment is also (relatively) easy to understand and to
+apply. Pp. 829–831.
+(b) The case for the separate-member approach is not so easily
+made. Because there is no NOL below the consolidated level, there
+is nothing for comparison with PLEs to produce a PLL at any stage
+before the CNOL calculation. Thus, a separate-member proponent
+must identify some ﬁgure in the consolidated return scheme with a
+plausible analogy to NOL at the afﬁliated corporations level. An indi-
+vidual member’s STI is not analogous, for it excludes several items
+that an individual taxpayer would normally count in computing income
+or loss, but which an afﬁliated group may tally only at the consolidated
+level. The “separate net operating loss,” Treas. Reg. § 1.1502–79(a)(3),
+used by the Fourth Circuit fares no better. Although that ﬁgure ac-
+counts for some gains or losses that STI does not, § 1.1502–79(a)(3)’s
+purpose is to allocate CNOL to an afﬁliate member seeking to carry
+
+PAGE 3
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+824 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+back a loss to a year in which the member was not part of the consoli-
+dated group. Such returns are not at issue here. Pp. 831–834.
+(c) Several objections to the single-entity approach—that it allows
+afﬁliated groups a double deduction, that the omission of PLEs from
+the series of items that Treas. Reg. § 1.1502–12 requires to be tallied
+at the consolidation level indicates that PLEs were not meant to be
+tallied at that level, and that the single-entity approach would permit
+signiﬁcant tax avoidance abuses—are rejected. Pp. 834–838.
+208 F. 3d 452, reversed and remanded.
+Souter, J., delivered the opinion of the Court, in which Rehnquist,
+C. J., and O’Connor, Scalia, Kennedy , Thomas, Ginsburg, and
+Breyer, JJ., joined. Thomas, J., ﬁled a concurring opinion, post, p. 838.
+Stevens, J., ﬁled a dissenting opinion, post, p. 839.
+Eric R. Fox argued the cause for petitioner. With him on
+the briefs was Alan J. J. Swirski.
+Kent L. Jones argued the cause for the United States.
+With him on the brief were Acting Solicitor General Under-
+wood, Deputy Assistant Attorney General Fallon, Deputy
+Solicitor General Wallace, Richard Farber, and Edward
+T. Perelmuter.*
+Justice Souter delivered the opinion of the Court.
+Under § 172(b)(1)(I) of the Internal Revenue Code of 1954,
+a taxpayer may carry back its “product liability loss” up to
+10 years in order to offset prior years’ income. The issue
+here is the method for calculating the product liability loss
+of an afﬁliated group of corporations electing to ﬁle a consoli-
+dated federal income tax return. We hold that the group’s
+product liability loss must be ﬁgured on a consolidated basis
+in the ﬁrst instance, and not by aggregating product liability
+losses separately determined company by company.
+*Richard E. Zuckerman and Raymond M. Kethledge ﬁled a brief for
+the National Association of Manufacturers et al. as amici curiae urging
+reversal.
+
+PAGE 4
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+825Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+I
+A “net operating loss” results from deductions in excess of
+gross income for a given year. 26 U. S. C. § 172(c). 1 Under
+§ 172(b)(1)(A), a taxpayer may carry its net operating loss
+either backward to past tax years or forward to future tax
+years in order to “set off its lean years against its lush years,
+and to strike something like an average taxable income com-
+puted over a period longer than one year,” Libson Shops,
+Inc. v. Koehler, 353 U. S. 382, 386 (1957).
+Although the normal carryback period was at the time
+three years, in 1978, Congress authorized a special 10-
+year carryback for “product liability loss[es],” 26 U. S. C.
+§ 172(b)(1)(I), since, it understood, losses of this sort tend
+to be particularly “large and sporadic.” Joint Committee
+on Taxation, General Explanation of the Revenue Act of
+1978, 95th Cong., 232 (Comm. Print 1979). The Code deﬁnes
+“product liability loss,” for a given tax year, as the lesser of
+(1) the taxpayer’s “net operating loss for such year” and
+(2) its allowable deductions attributable to product liability
+“expenses.” 26 U. S. C. § 172(j)(1). In other words, a tax-
+payer’s product liability loss (PLL) is the total of its product
+liability expenses (PLEs), limited to the amount of its net
+operating loss (NOL). By deﬁnition, then, a taxpayer with
+positive annual income, and thus no NOL, may have PLEs
+but can have no PLL. 2
+1 Unless otherwise noted, all statutory references are to the Internal
+Revenue Code of 1954, 26 U. S. C. § 1 et seq. (1982 ed. and Supp. V), as in
+effect between 1983 and 1986, the tax years here in question.
+2 If, for example, a company had $100 in taxable income, $50 in de-
+ductible PLEs, and $75 in additional deductions, its NOL would be $25
+(i. e., $100/H11502$50/H11502$75/H11505/H11502$25); it could count only $25 of its $50 in PLEs
+as PLL. If the company had $100 in income, $50 in PLEs, and $125 in
+additional deductions, its NOL would be $75, and it could count its entire
+$50 in PLEs as PLL. And, ﬁnally, if the company had $100 in income,
+$50 in PLEs, and $40 in additional deductions, it would have positive in-
+come and, thus, no NOL and no PLL.
+
+PAGE 5
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+826 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+Instead of requiring each member company of “[a]n af-
+ﬁliated group of corporations” to ﬁle a separate tax return,
+the Code permits the group to ﬁle a single consolidated re-
+turn, 26 U. S. C. § 1501, and leaves it to the Secretary of
+the Treasury to work out the details by promulgating regu-
+lations governing such returns, § 1502. Under Treas. Regs.
+§§ 1.1502–11(a) and 1.1502–21(f), 3 an afﬁliated group’s “con-
+solidated taxable income” (CTI), or, alternatively, its “con-
+solidated net operating loss” (CNOL), is determined by
+“taking into account” several items. The ﬁrst is the “sepa-
+rate taxable income” (STI) of each group member. A mem-
+ber’s STI (whether positive or negative) is computed as
+though the member were a separate corporation ( i. e., by
+netting income and expenses), but subject to several im-
+portant “modiﬁcations.” Treas. Reg. § 1.1502–12. These
+modiﬁcations require a group member calculating its STI to
+disregard, among other items, its capital gains and losses,
+charitable-contribution deductions, and dividends-received
+deductions. Ibid. These excluded items are accounted for
+on a consolidated basis, that is, they are combined at the
+level of the group ﬁling the single return, where deductions
+otherwise attributable to one member (say, for a charitable
+contribution) can offset income received by another (from a
+capital gain, for example). Treas. Regs. §§ 1.1502–11(a)(3)
+to (8); 1.1502–21(f)(2) to (6). A consolidated group’s CTI or
+CNOL, therefore, is the sum of each member’s STI, plus
+or minus a handful of items considered on a consolidated
+basis.
+II
+Petitioner United Dominion’s predecessor in interest,
+AMCA International Corporation, was the parent of an
+afﬁliated group of corporations that properly elected to ﬁle
+3 Unless otherwise noted, Treasury Regulation references are to the
+regulations in effect between 1983 and 1986, 26 CFR § 1.1502–11 et seq.
+(1982–1986).
+
+PAGE 6
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+827Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+consolidated tax returns for the years 1983 through 1986.
+In each of these years, AMCA reported CNOL (the lowest
+being $85 million and the h ighest, $140 million) that ex-
+ceeded the aggregate of its 26 individual members’ PLEs
+($3.5 million to $6.5 milli on). This case focuses on the
+PLEs of ﬁve of AMCA’s member companies, which, together,
+generated roughly $205,000 in PLEs in 1983, $1.6 m illion
+in 1984, $1.3 million in 1985, and $250,000 in 1986. No one
+disputes these amounts or their characterization as PLEs.
+See 208 F. 3d 452, 453 (CA4 2000) (“The parties agree” with
+respect to the amount of “the product liability expenses in-
+curred by the ﬁve group members in the relevant years”).
+Rather, the sole question here is whether the AMCA af-
+ﬁliated group may include these amounts on its consoli-
+dated return, in determining its PLL for 10-year carryback.
+The question arises because of the further undisputed fact
+that in each of the relevant tax years, each of the ﬁve compa-
+nies in question (with minor exceptions not relevant here),
+reported a positive STI.
+AMCA answered this question by following what com-
+mentators have called a “single-entity” approach 4 to calcu-
+lating its “consolidated” PLL. For each tax year, AMCA
+(1) calculated its CNOL pursuant to Treas. Reg. § 1.1502–
+11(a), and (2) aggregated its individual members’ PLEs.
+Because, as noted above, for each tax year AMCA’s CNOL
+was greater than the sum of its members’ PLEs, AMCA
+treated the full amount of the PLEs as consolidated PLL
+eligible for 10-year carryback. In AMCA’s view, the fact
+that several member companies throwing off large PLEs
+also, when considered separately, generated positive taxable
+income was of no signiﬁcance.
+From the Government’s perspective, however, the fact
+that the several afﬁliated members with PLEs also gen-
+4 Axelrod & Blank, The Supreme Court, Consolidated Returns, and 10-
+Year Carrybacks, 90 Tax Notes, No. 10, p. 1383 (Mar. 5, 2001) (hereinafter
+Axelrod & Blank).
+
+PAGE 7
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+828 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+erated positive separate taxable income is of critical signiﬁ-
+cance. According to the Government’s methodology, which
+we will call the “separate-member” approach, 5 PLEs in-
+curred by an afﬁliate with positive separate taxable income
+cannot contribute to a PLL eligible for 10-year carryback.
+Whereas AMCA compares the group’s total income (or loss)
+and total PLEs in an effort to determine the group’s total
+PLL, the Government compares each afﬁliate’s STI and
+PLEs in order to determine whether each afﬁliate suffers
+a PLL, and only then combines any PLLs of the individual
+afﬁliates to determine a consolidated PLL amount.
+In 1986 and 1987, AMCA petitioned the Internal Revenue
+Service for refunds of taxes based on its PLL calculations.
+The IRS ﬁrst ruled in AMCA’s favor but was reversed by
+the Joint Committee on Internal Revenue Taxation of the
+United States Congress, which controls refunds exceeding a
+certain threshold, 26 U. S. C. § 6405(a). AMCA then ﬁled
+this refund action in the United States District Court for
+the Western District of North Carolina. The District Court
+agreed with AMCA that an afﬁliated group’s PLL is de-
+termined on a single-entity basis, and held that, so long
+as the group’s consolidated return reﬂects CNOL in excess
+of the group’s aggregate PLEs, the total of those expenses
+(including those incurred by members with positive sepa-
+rate taxable income) is a PLL that “may be carried back
+the full ten years.” No. 3:95–CV–341–MU (June 19, 1998),
+App. to Pet. for Cert. 39a. The United States Court of Ap-
+peals for the Fourth Circuit reversed, and held that “deter-
+mining ‘product liability loss’ separately for each group mem-
+ber is correct and consistent with [Treasury] regulations.”
+208 F. 3d, at 458.
+Because the Fourth Circuit’s separate-member approach
+to calculating PLL conﬂicted with the Sixth Circuit’s adop-
+tion of the single-entity approach in Intermet Corp. v. Com-
+5 Ibid.
+
+PAGE 8
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+829Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+missioner, 209 F. 3d 901 (2000), we granted certiorari, 531
+U. S. 1009 (2000).6 We now reverse.
+III
+The case for the single-entity approach to calculating an
+afﬁliated group’s PLL is straightforward. Section 172(j)(1)
+deﬁnes a taxpayer’s “product liability loss” for a given tax
+year as the lesser of its “net operating loss for such year”
+and its product liability “expenses.” In order to apply this
+deﬁnition, the taxpayer ﬁrst determines whether it has
+taxable income or NOL, and in making that calculation it
+subtracts PLEs. If the result is NOL, the taxpayer then
+makes a simple comparison between the NOL ﬁgure and
+the total PLEs. The PLE total becomes the PLL to the
+extent it does not exceed NOL. That is, until NOL has been
+determined, there is no PLL.
+The ﬁrst step in applying the deﬁnition and methodol-
+ogy of PLL to a taxpayer ﬁling a consolidated return thus
+requires the calculation of NOL. As United Dominion cor-
+rectly points out, the Code and regulations governing afﬁli-
+ated groups of corporations ﬁling consolidated returns pro-
+vide only one deﬁnition of NOL: “consolidated” NOL, see
+Treas. Reg. § 1.1502–21(f). There is no deﬁnition of separate
+NOL for a member of an afﬁliated group. Indeed, the fact
+that Treasury Regulations do provide a measure of separate
+NOL in a different context, for an afﬁliated corporation as
+to any year in which it ﬁled a separate return, infra, at 832–
+834, underscores the absence of such a measure for an afﬁli-
+6 Intermet involved “speciﬁed liability losses” (SLLs), not PLLs. The
+difference, however, does not matter. The PLL was a statutory prede-
+cessor to the SLL, and PLLs were folded into the SLL provision in
+§ 11811(b)(1) of the Omnibus Budget Reconciliation Act of 1990, 104 Stat.
+1388–532. Thus, “[i]n all relevant respects, the provisions on [PLLs] and
+SLLs are the same.” Leatherman, Current Developments for Consoli-
+dated Groups, 486 PLI/Tax 389, 393, n. 5 (2000) (hereinafter Leatherman,
+Current Developments).
+
+PAGE 9
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+830 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+ated corporation ﬁling as a group member. Given this
+apparently exclusive deﬁnition of NOL as CNOL in the
+instance of afﬁliated entities with a consolidated return (and
+for reasons developed below, infra, at 834–838) we think it
+is fair to say, as United Dominion says, that the concept of
+separate NOL “simply does not exist.” Brief for Petitioner
+15.7 The exclusiveness of NOL at the consolidated level as
+CNOL is important here for the following reasons. The
+Code’s authorization of consolidated group treatment con-
+tains no indication that for a consolidated group the essential
+relationship between NOL and PLL will differ from their
+relationship for a conventional corporate taxpayer. Nor
+does any Treasury Regulation purport to change the rela-
+tionship in the consolidated context. If, then, the relation-
+ship is to remain essentially the same, the key to understand-
+ing it lies in the regulations’ deﬁnition of net operating loss
+exclusively at the consolidated level. Working back from
+that, PLEs should be considered ﬁrst in calculating CNOL,
+and they are: because any PLE of an afﬁliate affects the cal-
+culation of its STI, that same PLE necessarily affects the
+CTI or CNOL in exactly the same way, dollar for dollar.
+And because, by deﬁnition, there is no NOL measure for a
+consolidated return group or any afﬁliate except CNOL,
+PLEs cannot be compared with any NOL to produce PLL
+until CNOL has been calculated. Then, and only then in the
+case of the consolidated ﬁler, can total PLEs be compared
+7 In addition to Treas. Reg. § 1.1502–79(a)(3), discussed infra, at 832–834,
+two other provisions, 26 U. S. C. § 1503(f)(2) and the current version
+(though not the version applicable between 1983 and 1986) of Treas. Reg.
+§ 1502–21(b) (2000), refer to separate group members’ NOLs. The parties
+here have not emphasized those provisions, and with good reason. Not
+only are they inapplicable to the question before us (either substantively,
+temporally, or both), but, as one commentator has observed, their refer-
+ences to separate NOLs “ste[m] more from careless drafting than mean-
+ingful design.” Leatherman, Are Separate Liability Losses Separate for
+Consolidated Groups?, 52 Tax. Law. 663, 705 (1999) (hereinafter Leather-
+man, Separate Liability Losses).
+
+PAGE 10
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+831Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+with a net operating loss. In sum, comparable treatment of
+PLL in the instances of the usual corporate taxpayer and
+group ﬁling a consolidated return can be achieved only if the
+comparison of PLEs with a limiting loss amount occurs at the
+consolidated level after CNOL has been determined. This
+approach resting on comparable treatment has a further vir-
+tue entitled to some weight in case of doubt: it is (relatively)
+easy to understand and to apply.
+The case for the separate-member approach, advanced
+(in one variant) by the Government and adopted (on a dif-
+ferent rationale) by the Court of Appeals, is not so easily
+made. In the analysis of comparable treatment just set
+out, of course, there is no NOL below the consolidated level
+and hence nothing for comparison with PLEs to produce
+PLL at any stage before the CNOL calculation. At the
+least, then, a proponent of the separate-member approach
+must identify some ﬁgure in the consolidated return scheme
+that could have a plausible analogy to NOL at the level of
+the afﬁliated corporations. See A. Dubroff, J. Blanchard,
+J. Broadbent, & K. Duvall, Federal Income Taxation of Cor-
+porations Filing Consolidated Returns § 41.04[06], p. 41–75
+(2d ed. 2000) (hereinafter Dubroff) (“Even if separate en-
+tity treatment was appropriate, it is unclear how a member
+with [PLEs] would compute its separate NOL”). The Gov-
+ernment and the Court of Appeals have suggested different
+substitute measures. Neither one works.
+The Government has argued that an individual group
+member’s STI, as determined under Treas. Reg. § 1.1502–12,
+is analogous to a “separate” NOL, so that an afﬁliate’s STI
+may be compared with its PLEs in order to determine any
+separate PLL. An individual member’s PLL would be the
+amount of its separate PLEs up to the amount of its negative
+STI; a member having positive STI could have no PLL.
+The Government claims that an STI-based comparison
+places the group member closest to the position it would
+have occupied if it had ﬁled a separate return. But that
+
+PAGE 11
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+832 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+is simply not so. We have seen already that the calcula-
+tion of a group member’s STI by deﬁnition excludes several
+items that an individual taxpayer would normally account
+for in computing income or loss, but which an afﬁliated
+group may tally only at the consolidated level, such as cap-
+ital gains and losses, charitable-contribution deductions, and
+dividends-received deductions. Treas. Regs. §§ 1.1502–12(j)
+to (n). Owing to these exclusions, an afﬁliate’s STI will tend
+to be inﬂated by eliminating deductions it would have taken
+if it had ﬁled separately, or deﬂated by eliminating an income
+item like capital gain.
+When pushed, the Government concedes that STI is “not
+necessarily equivalent to the income or [NOL] ﬁgure that
+the corporation would have computed if it had ﬁled a sepa-
+rate return.” Brief for United States 21, n. 14. But, the
+Government claims, “[t]here has never been a taxpayer with
+[PLEs] who had a positive [STI] but a negative separate
+[NOL].” Tr. of Oral Arg. 27. In other words, the Govern-
+ment says that the deductions excluded from STI have never
+once made a difference and, therefore, that STI is, in fact, a
+decent enough proxy for a group member’s “separate” NOL.
+But whether or not the excluded items have made a differ-
+ence in the past, or make a difference here, they certainly
+could make a difference and, given the potential importance
+of some of the deductions involved (a large charitable contri-
+bution, for example), it is not hard to see how the difference
+could favor the Government.
+The Court of Appeals was therefore right to reject the
+Government’s reliance on STI as a functional surrogate for
+an afﬁliate’s “separate” NOL. 208 F. 3d, at 459–460. But
+what the Court of Appeals used in place of STI fares no
+better. The court relied on Treas. Reg. § 1.1502–79, which
+contains a deﬁnition of “separate net operating loss” that
+the court believed to be “analogous to an individual’s ‘net
+operating loss’ on a separate return.” 208 F. 3d, at 460.
+Section 1.1502–79(a)(3) provides that, “[f]or purposes of this
+
+PAGE 12
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+833Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+subparagraph,” the “separate net operating loss of a member
+of the group shall be determined under § 1.1502–12 . . . ,
+adjusted for the...items taken into account in the com-
+putation of” the CNOL. As the Court of Appeals said, the
+directive of § 1.1502–79(a)(3) (unlike the deﬁnition of STI)
+“takes into account, for example, [a] member’s charitable
+contributions” and other consolidated deductions. 208 F. 3d,
+at 460–461.
+But this sounds too good. It is true that, insofar as
+§ 1.1502–79(a)(3) accounts for gains and losses that STI does
+not, it gets closer to a commonsense notion of a group mem-
+ber’s “separate” NOL than STI does. But the fact that
+§ 1.1502–79(a)(3) improves on STI simply by undoing what
+§ 1.1502–12 requires in deﬁning STI is suspicious, and the
+suspicion turns out to be justiﬁed. Section 1.1502–79(a)(3)
+unbakes the cake for only one reason, and that reason has
+no application here. The deﬁnition on which the Court of
+Appeals relied applies, by its terms, only “for purposes of”
+§ 1.1502–79(a)(3), and context makes clear that the purpose
+is to provide a way to allocate CNOL to an afﬁliate mem-
+ber that seeks to carry back a loss to a “separate return
+year,” that is, to a year in which the member was not part
+of the consolidated group. See Treas. Reg. § 1.1502–79
+(titled “Separate return years”); § 1.1502–79(a) (titled “Car-
+ryover and carryback of [CNOL] to separate return years”);
+§ 1.1502–79(a)(1) (“[i]f a [CNOL] can be carried . . . to a sepa-
+rate return year . . .”). No separate return years are at
+issue before us; all NOL carrybacks relevant here apply to
+years in which the ﬁve corporations were afﬁliated in the
+group. The Court of Appeals thus applied concepts address-
+ing separate return years to a determination for a consoli-
+dated return year, without any statutory or regulatory basis
+for doing so. Cf. 49 Fed. Reg. 30530 (1984) (“[A]lthough the
+consolidated net operating loss is apportioned to individual
+members for purposes of carry backs to separate return
+years [under § 1.1502–79(a)], the apportioned amounts are not
+
+PAGE 13
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+834 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+separate NOLs of each member”). Hence, while § 1.1502–79
+might not distort an afﬁliate’s separate NOL in the same way
+that STI does, the facial inapplicability of that regulation
+only underscores the exclusive concern of § 1.1502–11(a) with
+consolidated NOL.
+In sum, neither method for computing PLL on a separate-
+member basis squares with the notion of comparability as
+applied to consolidated return regulations. On the contrary,
+by expressly and exclusively deﬁning NOL as CNOL, the
+regulations support the position that group members’ PLEs
+should be aggregated and the afﬁliated group’s PLL deter-
+mined on a consolidated, single-entity basis.
+IV
+Several objections have been raised to a single-entity ap-
+proach to calculating PLL that we have not considered
+yet. First, the Government insists that a single-entity rule
+allows afﬁliated groups a “double deduction.” The Govern-
+ment argues that because PLEs are not included among the
+speciﬁc items (charitable-contribution deductions, etc.) for
+which consolidated, single-entity treatment is required under
+Treas. Reg. § 1.1502–12, PLEs are “consumed” or “used up”
+in computing members’ STIs, which, pursuant to Treas.
+Regs. §§ 1.1502–11(a) and 1.1502–21(f), are then used to cal-
+culate the group’s CTI or CNOL. According to the Govern-
+ment, to permit the use of PLEs ﬁrst to reduce an individual
+member’s STI and then to contribute to an aggregate PLL
+for carryback purposes would be tantamount to a double
+deduction.
+The double-deduction argument may have superﬁcial ap-
+peal, but any appeal it has rests on a fundamental mis-
+conception of the function of STI in computing an afﬁliated
+group’s tax liability. Calculation of a group member’s STI
+is not in and of itself the basis for any tax event, and there
+is no separate tax saving when STI is calculated; that occurs
+only when deductions on the consolidated return equal in-
+
+PAGE 14
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+835Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+come and (if they exceed income and produce a CNOL) are
+carried back against prior income. STI is merely an ac-
+counting construct devised as an interim step in computing
+a group’s CTI or CNOL; it “has no other purpose.” Inter-
+met, 209 F. 3d, at 906 (“A member’s STI is simply a step
+along the way to calculating the group’s taxable income or
+CNOL”). The fact that a group member’s PLEs reduce
+its STI, which in turn either reduces the group’s CTI or con-
+tributes to its CNOL “dollar for dollar,” ibid., is of no other
+moment.8 If there were anything wrong in what United
+Dominion proposes to do, it would be wrong in relation to
+CNOL and its use for any carryback. Yet, as noted above,
+no one here disputes that the group members had PLEs in
+the total amount claimed or that the AMCA group is entitled
+to carry back the full amount of its CNOL to offset income
+in prior years. The only question is what portion, if any, of
+AMCA’s CNOL is PLL and, as such, eligible for 10-year,
+as opposed to 3-year, carryback treatment. There is no
+more of a double deduction with a 10-year carryback than
+one for three years.
+A second objection was the reason that the Court of
+Appeals rejected the single-entity approach. That court
+attached dispositive signiﬁcance to the fact that, while the
+Treasury Regulation we have discussed, § 1.1502–12, speciﬁ-
+cally provides that several items (capital gains and losses,
+charitable-contribution deductions, etc.) shall be accounted
+for on a consolidated basis, it does not similarly provide
+for accounting for PLEs on a consolidated basis: “The reg-
+ulations provide for blending the group members’ [NOLs],
+8 It makes no difference whatsoever whether the afﬁliate’s PLEs are
+(1) ﬁrst netted against each member’s income and then aggregated or
+(2) ﬁrst aggregated and then netted against the group’s combined income:
+under either method, AMCA’s CNOL is the same. See Axelrod & Blank
+1394 (noting that this conclusion follows from “the associative principle of
+arithmetic (which holds that the groupings of items in the case of addition
+and subtraction have no effect on the result)”).
+
+PAGE 15
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+836 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Opinion of the Court
+and they explicitly deﬁne [CNOL] without an accompanying
+reference to consolidated [PLEs]. This omission . . . makes
+clear that blending those expenses is not permitted . . . .”
+208 F. 3d, at 458.
+We think the omission of PLEs from the series of items
+that § 1.1502–12 requires to be tallied at the consolidated
+level has no such clear lesson, however. The logic that in-
+vests the omission with signiﬁcance is familiar: the men-
+tion of some implies the exclusion of others not mentioned.
+Leatherman v. Tarrant County Narcotics Intelligence and
+Coordination Unit, 507 U. S. 163, 168 (1993) (“Expressio
+unius est exclusio alterius”) . But here, as always, the
+soundness of that premise is a function of timing: if there
+was a good reason to consider the treatment of consolidated
+PLL at the time the regulation was drawn, then omitting
+PLL from the list of items for consolidated treatment may
+well have meant something. But if there was no reason to
+consider PLL then, its omission would mean nothing at all.
+And in fact there was no reason. When the consolidated
+return regulations were ﬁrst promulgated in 1966, there was
+no carryback provision pegged to PLEs or PLLs; those
+notions did not become separate carryback items until 1978,
+when the 10-year rule was devised. See Revenue Act of
+1978, § 371, 92 Stat. 2859; see also Leatherman, Current De-
+velopments 393, n. 5. Omission of PLEs or PLLs from the
+series set out for consolidated treatment in the 1966 regula-
+tion therefore meant absolutely nothing in 1966. The issue,
+then, is the signiﬁcance, not of omission, but of failure to
+include later: has the signiﬁcance of the earlier regulation
+changed solely because the Treasury has never amended it,
+even though PLL is now a separate carryback? We think
+that is unlikely. The Treasury’s relaxed approach to amend-
+ing its regulations to track Code changes is well documented.
+See e. g., Dubroff 41–72, n. 193; Axelrod & Blank 1391; Leath-
+erman, Separate Liability Losses 708–709. The absence of
+any amendment to § 1.1502–12 that might have added PLEs
+
+PAGE 16
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+837Cite as: 532 U. S. 822 (2001)
+Opinion of the Court
+or PLLs to the list of items for mandatory single-entity
+treatment therefore is more likely a reﬂection of the Treas-
+ury’s inattention than any afﬁrmative intention on its part to
+say anything at all.
+Last, the Government warns that “[t]he rule that peti-
+tioner advocates would permit signiﬁcant tax avoidance
+abuses.” Brief for United States 40. Speciﬁcally:
+“Under petitioner’s approach, a corporation that is cur-
+rently unproﬁtable but that had substantial income in
+prior years could (i) acquire a proﬁtable corporation
+with product liability expense deductions in the year
+of acquisition, (ii) ﬁle a consolidated return and (iii)
+thereby create an otherwise nonexistent ‘product liabil-
+ity loss’ for the new afﬁliated group that would allow
+the acquiring corporation to claim refunds of the tax it
+paid in prior years.” Ibid.
+The Government suggests, for example, that “a manufac-
+turing company (with prior proﬁts and current losses) that
+has no product liability exposure could purchase a tobacco
+company (with both prior and current proﬁts) that has
+signiﬁcant product liability expenses” and that “[t]he com-
+bined entity could . . . assert a ten-year carryback of ‘product
+liability losses’ even though the tobacco company has always
+made a proﬁt and never incurred a ‘loss’ of any type.” Id.,
+at 40–41, n. 27.
+There are several answers. First, on the score of tax
+avoidance, the separate-member approach is no better (and
+is perhaps worse) than the single-entity treatment; both en-
+tail some risk of tax-motivated behavior. See Leatherman,
+Separate Liability Losses 681 (Under the separate-member
+approach, “[d]espite sound non-tax business reasons, a group
+may be disinclined to form a new member or transfer assets
+between members, because it may worry that it would lose
+the beneﬁt of a ten-year carryback,” and “may be encouraged
+to transfer assets between members to increase its consoli-
+
+PAGE 17
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+838 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Thomas, J., concurring
+dated [PLL], even when those transfers would otherwise be
+ill-advised”). Second, the Government may, as always, ad-
+dress tax-motivated behavior under Internal Revenue Code
+§ 269, which gives the Secretary ample authority to “disallow
+[any] deduction, credit, or other allowance” that results from
+a transaction “the principal purpose [of] which ...i se vasion
+or avoidance of Federal income tax.” 26 U. S. C. § 269(a).
+And ﬁnally, if the Government were to conclude that § 269
+provided too little protection and that it simply could not live
+with the single-entity approach, the Treasury could exercise
+the authority provided by the Code, 26 U. S. C. § 1502, and
+amend the consolidated return regulations.
+***
+Thus, it is true, as the Government has argued, that “[t]he
+Internal Revenue Code vests ample authority in the Treas-
+ury to adopt consolidated return regulations to effect a bind-
+ing resolution of the question presented in this case.” Brief
+for United States 19–20. To the extent that the Govern-
+ment has exercised that authority, its actions point to the
+single-entity approach as the better answer. To the extent
+the Government disagrees, it may amend its regulations to
+provide for a different one.
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for proceedings consistent with this
+opinion.
+It is so ordered.
+Justice Thomas, concurring.
+I agree with the Court that the Internal Revenue Code
+provision and the corresponding Treasury Regulations that
+control consolidated ﬁlings are best interpreted as requiring
+a single-entity approach in calculating product liability loss.
+I write separately, however, because I respectfully disagree
+with the dissent’s suggestion that, when a provision of the
+
+PAGE 18
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+839Cite as: 532 U. S. 822 (2001)
+Stevens, J., dissenting
+Code and the corresponding regulations are ambiguous,
+this Court should defer to the Government’s interpretation.
+See post this page (opinion of Stevens, J.). At a bare mini-
+mum, in cases such as this one, in which the complex statu-
+tory and regulatory scheme lends itself to any number of
+interpretations, we should be inclined to rely on the tradi-
+tional canon that construes revenue-raising laws against
+their drafter. See Leavell v. Blades, 237 Mo. 695, 700–701,
+141 S. W. 893, 894 (1911) (“When the tax gatherer puts his
+ﬁnger on the citizen, he must also put his ﬁnger on the law
+permitting it”); United States v. Merriam, 263 U. S. 179, 188
+(1923) (“If the words are doubtful, the doubt must be re-
+solved against the Government and in favor of the tax-
+payer”); Bowers v. New York & Albany Lighterage Co., 273
+U. S. 346, 350 (1927) (“The provision is part of a taxing stat-
+ute; and such laws are to be interpreted liberally in favor
+of the taxpayers”). Accord, American Net & Twine Co. v.
+Worthington, 141 U. S. 468, 474 (1891); Benziger v. United
+States, 192 U. S. 38, 55 (1904).
+Justice Stevens, dissenting.
+This is a close and difﬁcult case, in which neither the stat-
+ute nor the regulations offer a deﬁnitive answer to the cru-
+cial textual question. Absent a clear textual anchor, I would
+credit the Secretary of the Treasury’s concerns about the
+potential for abuse created by the petitioner’s reading of
+the statutory scheme and afﬁrm the decision of the Court
+of Appeals on that basis. 1
+1 Justice Thomas accurately points to a tradition of cases constru-
+ing “revenue-raising laws” against their drafter. See ante this page
+(Thomas, J., concurring). However, when the ambiguous provision in
+question is not one that imposes tax liability but rather one that crafts
+an exception from a general revenue duty for the beneﬁt of some taxpay-
+ers, a countervailing tradition suggests that the ambiguity should be re-
+solved in the government’s favor. See, e. g., INDOPCO, Inc. v. Commis-
+sioner, 503 U. S. 79, 84 (1992); Interstate Transit Lines v. Commissioner,
+
+PAGE 19
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+840 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Stevens, J., dissenting
+As the majority accurately reports, during the time rele-
+vant to this case, § 172(b)(1)(I) of the Internal Revenue Code
+of 1954 allowed any “taxpayer” who “ha[d] a product lia-
+bility loss” to carry back its excess product liability losses
+for 10 years. The resolution of this case turns on whether,
+when a group of afﬁliated corporations ﬁles a consolidated
+tax return, the entire group should be considered the “tax-
+payer” for the purposes of implementing this provision
+or whether each individual corporation should be seen as a
+“taxpayer.”
+There is no obvious answer to this question. On the one
+hand, it is generally accepted that the rationale behind the
+consolidated return regulations is to allow afﬁliated cor-
+porations that are run as a single entity to elect to be treated
+for tax purposes as a single entity. See, e. g., Brief for Peti-
+tioner 17–19 (collecting sources in which the Internal Reve-
+nue Service so stated). On the other hand, it is quite clear
+that each corporation in such a group remains in both a legal
+and a literal sense a “taxpayer,” a status that has important
+consequences. See Woolford Realty Co. v. Rose, 286 U. S.
+319, 328 (1932) (“The fact is not to be ignored that each of
+two or more corporations joining . . . in a consolidated re-
+turn is none the less a taxpayer”); 26 U. S. C. § 7701(a)(14)
+(deﬁning a “taxpayer” as “any person subject to any internal
+revenue tax,” where a related provision deﬁnes “person”
+to include corporations). As both the group and the indi-
+vidual corporations are considered “taxpayers” in different
+contexts, the statute presents a genuine ambiguity.
+When a provision of the Internal Revenue Code pre-
+sents a patent ambiguity, Congress, the courts, and the IRS
+share a preference for resolving the ambiguity via execu-
+tive action. See, e. g., National Mufﬂer Dealers Assn., Inc.
+v. United States, 440 U. S. 472, 477 (1979). This is best
+319 U. S. 590, 593 (1943); Deputy, Administratrix v. Du Pont, 308 U. S.
+488, 493 (1940); New Colonial Ice Co. v. Helvering, 292 U. S. 435, 440
+(1934); Woolford Realty Co. v. Rose, 286 U. S. 319, 326 (1932).
+
+PAGE 20
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+841Cite as: 532 U. S. 822 (2001)
+Stevens, J., dissenting
+achieved by the issuing of a Treasury Regulation resolving
+the ambiguity. Ibid. In this instance, however, the Secre-
+tary of the Treasury issued no such regulation. In the ab-
+sence of such a regulation, the majority has scoured tan-
+gentially related regulations, looking for clues to what the
+Secretary might intend. For want of a more precise basis
+for resolving this case, that approach is sound.
+It is at this point, however, that I part company with the
+majority’s analysis. The fact that the regulations forward
+a particular method for calculating a consolidated “net op-
+erating loss” (NOL) for a group of afﬁliated companies, see
+Treas. Reg. § 1.1502–21(f), tells us how the Secretary wants
+the NOL to be calculated whenever it is necessary to deter-
+mine a consolidated NOL, but it does not tell us what pro-
+visions of the Code require the calculation of a consolidated
+NOL. That is a separate and prior question. Even if we
+were to draw some mild signiﬁcance from the presence of
+such a regulation (and the absence, at the time these re-
+turns were ﬁled, of a similar regulation for the calculation
+of corporation-speciﬁc NOL’s), the power of that inference
+is counterbalanced by the fact that the regulations listing
+deductions that must be reported at the consolidated level
+makes no mention of product liability expenses. See Treas.
+Reg. § 1.1502–12; see also H. Enterprises Int’l, Inc. v. Com-
+misioner, 105 T. C. 71, 85 (1995) (construing Treas. Reg.
+§ 1.1502–80(a) to provide “[w]here the consolidated return
+regulations do not require that corporations ﬁling such re-
+turns be treated differently from the way separate entities
+would be treated, those corporations shall be treated as
+separate entities when applying provisions of the Code”).
+In addition, the subsequent promulgation of a method for
+calculating a corporation-speciﬁc NOL (albeit for a differ-
+ent purpose), see § 1.1502–79(a)(3) (deﬁning “separate net
+operating loss”), demonstrates that there are no inherent
+problems implicit in undertaking such a calculation.
+
+PAGE 21
+532US3 Unit: $U66 [09-06-02 19:23:19] PAGES PGT: OPIN
+842 UNITED DOMINION INDUSTRIES, INC. v.
+UNITED STATES
+Stevens, J., dissenting
+In short, I ﬁnd no answer to this case in the text of the
+statute or in any Treasury Regulation. 2 However, the Gov-
+ernment does forward a valid policy concern that militates
+against petitioner’s construction of the statute: the fear of
+tax abuse. See Brief for United States 40–42. Put simply,
+the Government fears that currently unproﬁtable but pre-
+viously proﬁtable corporations might receive a substantial
+windfall simply by acquiring a corporation with signiﬁcant
+product liability expenses but no product liability losses.
+See id., at 40. On a subjective level, I ﬁnd these concerns
+troubling. Cf. Woolford Realty Co., 286 U. S., at 330 (reject-
+ing “the notion that Congress in permitting a consolidated
+return was w illing to foster an opportunity for juggling so
+facile and so obvious”). More importantly, however, I credit
+the Secretary of the Treasury’s concerns about the potential
+scope of abuse. Perhaps the Court is correct in suggesting
+that these concerns can be alleviated through applications
+of other anti-abuse provisions of the Tax Code, see ante,
+at 838, but I am not persuaded of my own ability to make
+that judgment. When we deal “with a subject that is highly
+specialized and so complex as to be the despair of judges,”
+Dobson v. Commissioner, 320 U. S. 489, 498 (1943), an ounce
+of deference is appropriate.
+I respectfully dissent. 3
+2 I am also in full agreement with the Court’s rejection of the Govern-
+ment’s double-deduction argument. See ante, at 834–835.
+3 Because I agree with the majority that the calculation contemplated
+by Treas. Reg. § 1.1502–79(a)(3) better approximates the NOL that each
+company would have had reported if ﬁling individually than the alterna-
+tive forwarded by the Government, see ante, at 833, I agree with the
+Court of Appeals’ decision to adopt that measure and would afﬁrm the
+decision below in its entirety.

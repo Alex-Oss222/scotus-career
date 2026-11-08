@@ -1,0 +1,10 @@
+{
+  "source": "runtime/OT_2000CHUNK7_COMPARATOR.md",
+  "derived": "freeze/OT_2000CHUNK7_COMPARATOR_SCOPED.md",
+  "operation": "Five sentences describing or referring to private proposed positions removed; historical substance otherwise byte-preserved at text level. Runtime remains an unchanged approved-brief split.",
+  "sha256": "34998cdcbaab6d5a6ff7f5af4e95f556367220b3d511b23c38fd038a0608212f",
+  "excluded_contexts": [
+    "reconcile_c: all reconciliation replaced",
+    "reconcile_a: exposure audit pending; Florida reconciliation requires fresh review"
+  ]
+}

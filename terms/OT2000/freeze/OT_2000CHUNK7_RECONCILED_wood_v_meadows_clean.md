@@ -1,0 +1,38 @@
+# Wood v. Meadows - reconciled non-Chief commitments
+
+**Event and cutoff:** Merits, June 11, 2001; Fourth Circuit No. 99-1069, 207 F.3d 708. The Supreme Court event date is an organizational premise, not a recovered historical disposition.
+**Status:** Ready for separate assembly. No assignment or final Court judgment is made here.
+**Inputs:** Frozen C neutral packet with source receipt and validation; C entering-law slice including the authorized prior public Burdick and Timmons entries; frozen COMMITMENTS_wood_v_meadows; assigned comparator section; complete 2000 lower opinion including its notes. The frozen independent commitments are unchanged.
+
+## Comparator, reachability and scope
+
+There is no historical Supreme Court merits alignment to reproduce. The historical Fourth Circuit affirmed summary judgment for Meadows on March 29, 2000; Motz wrote for Wilkinson and Luttig. Its proposition that scrutiny of fit drops out whenever a burden is reasonable is not the governing Supreme Court rule in this timeline. Its actual factual description and the Commonwealth's asserted interests remain evidence, not controlling law.
+
+The frozen neutral receipt accurately limits the earlier No. 98-333 petition to a separate contempt-related proceeding. Its 1996 signature-gathering allegation is advocacy; the appended enforcement orders establish an actual repeated dispute concerning prospective deadline relief. Neither establishes a promised 2002 or other future candidacy. Together with the unchanged deadline and Wood's identified voter/candidate interests, the supported recurrence inference allows review under Norman and Moore. The 1998 signature amendment did not repeal the deadline; no new candidacy, election outcome, abandonment or renewed filing is presumed. This is a merits resolution of the deadline question, not adjudication of the earlier contempt case.
+
+The 1994 requirement was 14,865 signatures, including 200 per congressional district; the later 10,000/400 rule must not be substituted for it. January-to-June circulation, multiple-petition signing, retained primary voting, absence of prior party-disaffiliation requirements, and party-primary candidates' sixty-day earlier filing materially define the system. Parties using other nomination methods also closed nominations by June. An independent's June petition filing is therefore not literally the same filing deadline as a primary candidate's April deadline.
+
+## Reconciled commitments
+
+| Justice | Judgment and sufficient ground | Justice-specific basis and limits |
+|---|---|---|
+| Stevens | Vacate and remand for meaningful burden-interest-fit review. | His Anderson analysis and Burdick/Timmons dissents require attention to lost postprimary response, which a long earlier collection period does not answer. He accepts the June/Senate distinctions but not elimination of fit. No immediate invalidation or judicial replacement date. |
+| O'Connor | Affirm after applying the correct contextual standard. | Her Burdick and Timmons joins permit important nomination interests to support a limited burden. Practical access and the common field-setting stage suffice here. She rejects categorical primary-day validity and the lower court's no-fit statement. |
+| Scalia | Affirm on actual system access and proportionate nomination-stage interests. | His Burdick and Timmons joins support reasonable preventive administration; the additional independent collection time and signer freedoms matter. Thirty-day processing capacity does not exhaust the permissible interests. No incumbent-protection justification. |
+| Kennedy | Affirm under a genuine contextual inquiry. | His Burdick dissent concerned combined constraints preventing real alternatives; these specific restrictions are absent here. His Timmons join permits accessible, defined nomination choices. No merely formal equal-treatment rule. |
+| Souter | Affirm at the demonstrated system's scope. | His Norman opinion and Burdick join coexist with his Timmons concern for actual fit. A common nomination endpoint directly defines the candidate field, unlike barring fusion that added no candidate. Earlier primaries or greater cumulative barriers require new analysis. |
+| Thomas | Affirm; reasonable access and proportionate election administration justify this deadline. | His Burdick join and Timmons opinion allow preventive rules without prior disruption, while retaining the complete-system inquiry. No independent license to favor established competitors. |
+| Ginsburg | Vacate and remand, joining Stevens's bounded position. | Her Timmons dissent join distinguishes effective candidacy from alternative advocacy. The lower court must examine why independent response is adequately burdened by this timing. She does not impose indispensable-necessity proof or a universal latest date. |
+| Breyer | Affirm after actual weighing of burden and nomination-stage interests. | His Timmons join supports workable selection rules with meaningful access; retained primary participation and free petition signing are material. Processing evidence does not alone negate the field-setting interest. No automatic validity or least-restrictive-means test. |
+
+## Reconciliation and operative rules
+
+The six-Associate affirmance coalition is O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Stevens and Ginsburg would vacate for the proper fit inquiry. These dispositions must remain distinct. All eight retain calibrated Anderson-Burdick scrutiny: severe burdens require compelling-interest narrow tailoring; reasonable, nondiscriminatory burdens require important regulatory interests actually proportionate to the burden. Naming an interest is insufficient, but the Constitution does not require the latest technically possible filing date whenever a reasonable earlier nomination endpoint is justified.
+
+The affirmance group independently evaluates fit rather than adopting the lower court's erroneous categorical formulation. The Commonwealth actually asserted administrative verification, demonstrated support, candidate-number control and identifying the complete field at the primary; these are not newly invented litigation grounds. The common endpoint is supported as election administration, not as suppressing independent competition. The inability to organize in response to a primary outcome is a real burden, but in this full access system it does not compel a later deadline. The two remand Justices regard the lower court's rejected-fit premise as material enough to require proper application below. Neither group treats the thirty-day evidence as establishing a universal constitutional deadline.
+
+**Historical reconciliation:** No Supreme Court merits vote exists to compare. The six-to-two Associate division is supported by their own entering positions and the actual case. Departure from the lower court's no-fit language is required by the governing Burdick and Timmons formulations, not by a predicted historical lineup. Cook, Chen and Brewer do not replace those rules.
+
+## Remedy and limits
+
+Affirmance leaves the challenged summary judgment and deadline in place at the record-specific scope stated. Vacatur would return the case for the contextual analysis without requiring strict scrutiny solely from the calendar length; further factual proceedings follow only if actually necessary. Neither path places Wood on a completed ballot, orders a new election, creates a 30-day deadline, validates every amended signature requirement, adjudicates contempt, or establishes a particular later candidacy. No material blocker beyond the expressly bounded recurrence inference is identified.

@@ -1,0 +1,294 @@
+PAGE 1
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+774 OCTOBER TERM, 2000
+Syllabus
+FLORIDA v. THOMAS
+certiorari to the supreme court of florida
+No. 00–391. Argued April 25, 2001—Decided June 4, 2001
+While ofﬁcers were investigating marijuana sales and making arrests at
+a Florida home, respondent Thomas drove up, parked in the home’s
+driveway, and walked toward the back of his car. An ofﬁcer met him
+there and asked his name and whether he had a driver’s license. After
+a check of Thomas’ license revealed an outstanding warrant, the ofﬁ-
+cer arrested him, handcuffed him, and took him inside the home. The
+ofﬁcer then went back outside, alone, and searched Thomas’ car, ﬁnding
+several bags containing methamphetamine. Thomas was charged with
+possession of that drug and related offenses. The trial court granted
+his motion to suppress the evidence of narcotics and narcotic para-
+phernalia. The Second District Court of Appeal reversed, ﬁnding the
+search valid under New York v. Belton, 453 U. S. 454, in which this Court
+established a “bright-line” rule permitting an ofﬁcer who has made a
+lawful custodial arrest of a car’s occupant to search the car’s passen-
+ger compartment as a contemporaneous incident of the arrest. Holding
+that Belton did not apply, the Florida Supreme Court reversed, but
+remanded for the trial court to determine whether the vehicle search
+was justiﬁed under Chimel v. California, 395 U. S. 752. This Court
+granted certiorari to consider whether, as the State Supreme Court had
+held, Belton’s bright-line rule is limited to situations where the ofﬁcer
+initiates contact with a vehicle’s occupant while that person remains
+in the vehicle.
+Held: The Court lacks jurisdiction to decide the question on which cer-
+tiorari was granted. Although the parties did not raise the issue in
+their briefs on the merits, this Court must ﬁrst consider whether it has
+jurisdiction to decide this case. See Duquesne Light Co. v. Barasch,
+488 U. S. 299, 306. Title 28 U. S. C. § 1257(a) authorizes this Court to
+review “[f]inal judgment s...b yt h eh ighest court of a State . . . where
+a n y...r i g h t...i s specially set up or claimed under the Constitution.”
+In a criminal prosecution, ﬁnality generally is deﬁned by a judgment
+of conviction and the imposition of a sentence. Fort Wayne Books, Inc.
+v. Indiana, 489 U. S. 46, 54. However, in certain circumstances, the
+Court has treated state-court judgments as ﬁnal for jurisdictional
+purposes even though further proceedings were to take place in the
+state court. Flynt v. Ohio, 451 U. S. 619, 620–621. In Cox Broadcast-
+ing Corp. v. Cohn, 420 U. S. 469, 479–483, the Court divided cases of this
+
+PAGE 2
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+775Cite as: 532 U. S. 774 (2001)
+Syllabus
+kind into four categories: (1) cases in which there are further pro-
+ceedings, even entire trials, yet to occur in the state courts, but where
+the federal issue is conclusive or the outcome of further proceedings
+preordained; (2) cases in which the federal issue, ﬁnally decided by a
+State’s highest court, will survive and require decision regardless of
+the outcome of future state-court proceedings; (3) cases in which the
+federal claim has been ﬁnally decided, with further proceedings on
+the merits in the state courts to come, but in which later review of the
+federal issue cannot be had, whatever the ultimate outcome of the case;
+and (4) cases in which the state courts have ﬁnally decided the federal
+issue with further proceedings pending in which the party seeking re-
+view in this Court might prevail on the merits on nonfederal grounds,
+thus rendering unnecessary review of the federal issue by this Court,
+and where reversal of the state court on the federal issue would be
+preclusive of any further litigation on the relevant cause of action rather
+than merely controlling the nature and character of, or determining
+the admissibility of evidence in, the state proceedings still to come.
+Because none of those categories ﬁts the Florida Supreme Court’s judg-
+ment in this case, the judgment is not ﬁnal. Pp. 777–781.
+Certiorari dismissed for want of jurisdiction. Reported below: 761 So.
+2d 1010.
+Rehnquist, C. J., delivered the opinion for a unanimous Court.
+Robert J . Krauss, Senior Assistant Attorney General of
+Florida, argued the cause for petitioner. With him on the
+briefs were Robert A. Butterworth, Attorney General, Car-
+olyn M. Snurkowski, Assistant Deputy Attorney General,
+and John M. Klawikofsky, Assistant Attorney General.
+Gregory G. Garre argued the cause for the United States
+as amicus curiae urging reversal. With him on the brief
+were Acting Solicitor General Underwood, Acting Assistant
+Attorney General Keeney, and Deputy Solicitor General
+Dreeben.
+Cynthia J . Dodge argued the cause for respondent. With
+her on the brief was James Marion Moorman. *
+*Tracey Maclin and Lisa B. Kemler ﬁled a brief for the National Associ-
+ation of Criminal Defense Lawyers as amicus curiae urging afﬁrmance.
+
+PAGE 3
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+776 FLORIDA v. THOMAS
+Opinion of the Court
+Chief Justice Rehnquist delivered the opinion of the
+Court.
+In New York v. Belton, 453 U. S. 454 (1981), we established
+a “bright-line” rule permitting a law enforcement ofﬁcer who
+has made a lawful custodial arrest of the occupant of a car
+to search the passenger compartment of that car as a con-
+temporaneous incident of the arrest. We granted certiorari
+to consider whether that rule is limited to situations in which
+the ofﬁcer initiates contact with the occupant of a vehicle
+while that person remains inside the vehicle. 531 U. S. 1069
+(2001). We ﬁnd, however, that we lack jurisdiction to decide
+the question.
+On the evening at issue, ofﬁcers were present at a home
+in Polk County, Florida, investigating the sale of marijuana
+and making arrests. Respondent Robert Thomas drove up
+to the residence, parked in the driveway, and walked toward
+the back of his vehicle. Ofﬁcer J. D. Maney met Thomas
+at the rear of Thomas’ vehicle, and asked him his name
+and whether he had a driver’s license. After a check of
+Thomas’ license revealed an outstanding warrant for his
+arrest, Ofﬁcer Maney arrested him, handcuffed him, and took
+him inside the residence. The ofﬁcer then went back out-
+side, alone, and searched Thomas’ car. The search revealed
+several small bags containing a white substance that tested
+positive for methamphetamine.
+Respondent was charged with possession of metham-
+phetamine and related narcotics offenses. The trial court
+granted his motion to suppress the evidence of narcotics
+and narcotic paraphernalia. The Second District Court of
+Appeal reversed, 711 So. 2d 1241 (1998), ﬁnding the search
+valid under New York v. Belton, supra. The Supreme Court
+of Florida in turn reversed, holding that Belton did not apply.
+The court held that “ Belton’s bright-line rule is limited
+to situations where the law enforcement ofﬁcer initiates
+contact with the defendant” while the defendant remains in
+the car. 761 So. 2d 1010, 1014 (2000). The court concluded
+
+PAGE 4
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+777Cite as: 532 U. S. 774 (2001)
+Opinion of the Court
+that Belton was inapplicable, and directed that the trial
+court determine “whether the factors in Chimel [v. Cali-
+fornia, 395 U. S. 752 (1969),] justify the search of Thomas’
+vehicle.” 761 So. 2d, at 1014. The court explained that
+“[b]ased on the record...w ea r e unable to ascertain whether
+[the ofﬁcer’s] safety was endangered or whether the pres-
+ervation of the evidence was in jeopardy,” as necessary to
+justify the search under Chimel v. California, 395 U. S. 752
+(1969), and remanded for further proceedings.
+Although the parties did not raise the issue in their briefs
+on the merits, we must ﬁrst consider whether we have ju-
+risdiction to decide this case. See Duquesne Light Co. v.
+Barasch, 488 U. S. 299, 306 (1989). Title 28 U. S. C. § 1257(a)
+authorizes this Court to review “[f]inal judgments or decrees
+rendered by the highest court of a State in which a decision
+c o u l db eh a d... where any title, right, privilege, or immu-
+nity is specially set up or claimed under the Constitution.”
+In a criminal prosecution, ﬁnality generally “is deﬁned by
+a judgment of conviction and the imposition of a sentence.”
+Fort Wayne Books, Inc. v. Indiana, 489 U. S. 46, 54 (1989).
+But we have not, in practice, interpreted the ﬁnality rule so
+strictly. In certain circumstances, we have “treated state-
+court judgments as ﬁnal for jurisdictional purposes although
+there were further proceedings to take place in the state
+court.” Flynt v. Ohio, 451 U. S. 619, 620–621 (1981) (per
+curiam). In Cox Broadcasting Corp. v. Cohn, 420 U. S. 469
+(1975), we divided cases of this kind into four categories.
+None ﬁts the judgment of the Florida Supreme Court, how-
+ever, and we therefore conclude that its judgment is not ﬁnal.
+The ﬁrst Cox category includes those cases in which “there
+are further proceedings—even entire trials—yet to occur in
+the state courts but where for one reason or another the
+federal issue is conclusive or the outcome of further proceed-
+ings preordained.” Id., at 479. The prototypical example
+of this category is Mills v. Alabama, 384 U. S. 214 (1966).
+There the Supreme Court of Alabama held that a statute
+
+PAGE 5
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+778 FLORIDA v. THOMAS
+Opinion of the Court
+which prohibited the publication of an editorial endorse-
+ment on election day did not violate the First Amendment,
+and remanded the case for trial. Id., at 216–217. Mills
+conceded that his only defense to the state charge was his
+constitutional claim; he admitted that he did publish the
+editorial. We held that this was a “ﬁnal judgment” and took
+jurisdiction, saying that a trial “would be no more than a
+few formal gestures leading inexorably towards a conviction,
+and then another appeal to the Alabama Supreme Court for
+it formally to repeat its rejection of Mills’ constitutional
+contentions whereupon the case could then once more wind
+its weary way back to us as a judgment unquestionably ﬁnal
+and appealable. Such a roundabout process would not only
+be an inexcusable delay of the beneﬁts Congress intended
+to grant by providing for appeal to this Court, but it would
+also result in a completely unnecessary waste of time and
+energy in judicial systems already troubled by delays due
+to congested dockets.” Id., at 217–218.
+The decision of the Supreme Court of Florida here dif-
+fers considerably from that of the state court in Mills. The
+Florida Supreme Court remanded the case not only for appli-
+cation of Chimel, but for further factﬁnding, and the State
+has not conceded that the search is invalid under Chimel.
+In Cox’s second category are those cases in which “the
+federal issue, ﬁnally decided by the highest court in the
+State, will survive and require decision regardless of the out-
+come of future state-court proceedings.” 420 U. S., at 480.
+In Cox we used our decision in Radio Station WOW , Inc.
+v. Johnson, 326 U. S. 120 (1945), to illustrate the second
+category. We said:
+“In Radio Station WOW , the Nebraska Supreme Court
+directed the transfer of the properties of a federally
+licensed radio station and ordered an accounting, reject-
+ing the claim that the transfer order would interfere
+with the federal license. . . . Nothing that could happen
+
+PAGE 6
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+779Cite as: 532 U. S. 774 (2001)
+Opinion of the Court
+in the course of the accounting, short of settlement of
+the case, would foreclose or make unnecessary decision
+on the federal question.” Cox, supra, at 480.
+In this case, however, were the Florida courts to ﬁnd that
+Chimel allows the search, a decision on the Belton issue
+would no longer be necessary. We have also noted that we
+treat state-court judgments in this category as ﬁnal on the
+assumption that “ ‘the federal questions that could come here
+have been adjudicated by the State court,’ ” and the state
+proceedings to take place on remand “ ‘could not remotely
+give rise to a federal questio n... that may later come here.’ ”
+Cox, 420 U. S., at 480. We cannot make that assumption in
+this case.
+Cases where “the federal claim has been ﬁnally decided,
+with further proceedings on the merits in the state courts to
+come, but in which later review of the federal issue cannot
+be had, whatever the ultimate outcome of the case,” fall into
+Cox’s third category. Id., at 481. New York v. Quarles, 467
+U. S. 649 (1984), is such a case. Respondent was charged in
+state court with criminal possession of a weapon, and certain
+evidence was suppressed on federal constitutional grounds.
+We granted the petition for certiorari and reversed, ex-
+plaining that the suppression ruling was a “ﬁnal judgment”
+although respondent had yet to be tried. Id., at 651. We
+said that this case fell within Cox’s third category because
+“should the State convict respondent at trial, its claim that
+certain evidence was wrongfully suppressed will be moot.
+Should respondent be acquitted at trial, the State will be
+precluded from pressing its federal claim again on appeal.”
+467 U. S., at 651, and n. 1.
+To deny review here would not necessarily cause Florida
+to go to trial without the suppressed evidence, with further
+appeal barred in the event of an acquittal or the federal claim
+mooted in the event of a conviction. The state court has
+
+PAGE 7
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+780 FLORIDA v. THOMAS
+Opinion of the Court
+yet to decide whether the evidence should be suppressed;
+that will be resolved on remand. If the State prevails on
+remand and the evidence is admitted under Chimel, then
+the Belton issue will be moot, and the State cannot seek
+review of it. But if the State loses, and the evidence is
+suppressed, Florida law allows the State to appeal, as long
+as it does so prior to trial. Fla. Stat. § 924.071(1) (1996)
+(“The state may appeal from a pretrial orde r... suppressing
+evidence”); Fla. Rule App. Proc. 9.140(c)(1)(B) (2001) (“The
+state may appeal an orde r... suppressing before trial . . .
+evidence obtained by search and seizure”). Should the Su-
+preme Court of Florida rule against the State on the Chimel
+issue, the question of suppression would be ﬁnally decided
+by the Florida courts, and the State could then seek cer-
+tiorari in this Court. At that time it could obtain review of
+both the Belton issue and the Chimel issue. See Jefferson
+v. City of Tarrant, 522 U. S. 75, 83 (1997).
+The fourth Cox category includes those cases where “the
+federal issue has been ﬁnally decided in the state courts
+with further proceedings pending in which the party seek-
+ing review here might prevail on the merits on nonfederal
+grounds, thus rendering unnecessary review of the federal
+issue by this Court, and where reversal of the state court on
+the federal issue would be preclusive of any further litigation
+on the relevant cause of action rather than merely controlling
+the nature and character of, or determining the admissibility
+of evidence in, the state proceedings still to come. In these
+circumstances, if a refusal immediately to review the state-
+court decision might seriously erode federal policy, the Court
+has entertained and decided the federal issue, which itself
+has been ﬁnally determined by the state courts for purposes
+of the state litigation.” 420 U. S., at 482–483.
+Here the State can make no claim of serious erosion of
+federal policy that is not common to all run-of-the-mine de-
+cisions suppressing evidence in criminal trials. The fourth
+Cox exception does not apply here.
+
+PAGE 8
+532US3 Unit: $U63 [09-06-02 19:15:11] PAGES PGT: OPIN
+781Cite as: 532 U. S. 774 (2001)
+Opinion of the Court
+For the foregoing reasons, we dismiss the writ of certiorari
+for want of jurisdiction.
+It is so ordered.

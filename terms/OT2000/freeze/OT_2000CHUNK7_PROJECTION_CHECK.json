@@ -1,0 +1,20 @@
+{
+  "records": 98,
+  "new_records": 13,
+  "open_inventory": 16,
+  "new_record_sha256": {
+    "Florida_v_Thomas_jurisdictional-dismissal_2001-06-04.md": "f4e946746b93895a1310458e93ee699ed95842e9f65220dbb2a55c078f07891e",
+    "CSU_v_Xerox_merits_2001-06-04.md": "34b18e57076fad92c73f3a0b5c95b0cb342616ff6129a601bf5e51c78ff08a48",
+    "Norfolk_Shipbuilding_and_Drydock_v_Garris_merits_2001-06-04.md": "e2d9de833efa23c9d3671f91c8ffec93fcbe4c6a9ba1827c40dbe957a9beaf78",
+    "United_Dominion_Industries_v_United_States_merits_2001-06-04.md": "6a268eb6882a1262fc1ea53de02939b0062f132a58762db048596d1fc6808e58",
+    "Alabama_v_Bozeman_merits_2001-06-11.md": "a653342539d6e79ba1f130cdeecceec19b82f380398329026ec5a97a1eebd2f2",
+    "Cedric_Kushner_Promotions_Ltd_v_King_merits_2001-06-11.md": "e1d3040262ea54478de8741fde19856dbaabcd2a6a41c50e7f6d8a29c79f47a7",
+    "Good_News_Club_v_Milford_Central_School_merits_2001-06-11.md": "a28c53891611533e9d0013a61490ddbd881a482d65c9dd8d1935b80f76c8ca12",
+    "Kansas_v_Colorado_merits_2001-06-11.md": "01a3a97f9bf001524461422aa4f7f3fc2a640ee89d376a0f6c7c6d787bb1e129",
+    "Kyllo_v_United_States_merits_2001-06-11.md": "6fcf1275184a7b1ce991558579956981187c9d7121fd78d161f4dad97a693437",
+    "Tuan_Anh_Nguyen_v_INS_merits_2001-06-11.md": "cc627ceea216682e0ec5fa975f112526aab87a751341348141bba52d7d08180f",
+    "Wood_v_Meadows_merits_2001-06-11.md": "89d55d11afcf437776a22e79a2094e582c49c53253844b5bc37c71c64ac67386",
+    "Landry_v_Federal_Deposit_Insurance_Corporation_merits_2001-06-15.md": "4399a3706d780ee04b918853414c985c7430e2eb2e48da8951a3a760ff2abba9",
+    "United_States_v_Mead_Corp_merits_2001-06-18.md": "a8a2020f218afca0bfd2e3f27558b8ccb7c85a4565ec112aa345af3c8979b281"
+  }
+}

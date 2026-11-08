@@ -1,0 +1,50 @@
+# Reconciled non-Stone commitments: CSU, L.L.C. v. Xerox Corporation
+
+Event: assigned merits review, June 4, 2001. Federal Circuit No. 99-1323, 203 F.3d 1322; District of Kansas MDL-1021. No Supreme Court docket or argument date is supplied; neither is invented. All eight Associates were seated throughout the relevant term, and no case-specific nonparticipation is identified. Research cutoff: immediately before the assigned event. Stone's position, assignment and final Court coalition remain outside this handoff.
+
+## Verification and comparator limits
+
+This fresh reconciliation context received the frozen group A neutral packet, entering-law slice, validation, frozen CSU commitments and assigned comparator. It read the complete saved Federal Circuit opinion, including all numbered paragraphs and both footnotes, at `../sources/chunk7-control/csu_lower.txt`. [Published lower opinion](https://law.resource.org/pub/us/case/reporter/F3/203/203.F3d.1322.99-1323.html). Mayer wrote for Archer and Plager; the merits opinion is February 17, 2000, and the rehearing denial is April 13, 2000. There is no reported separate opinion.
+
+No historical Supreme Court merits comparator exists in the supplied record. The lower-court judgment cannot be converted into eight Supreme Court commitments or a supposed historical merits affirmance. No certiorari disposition is used as substantive evidence. The scheduled merits posture is the authorized packet's premise, not a recovered historical Supreme Court event.
+
+The complete lower opinion confirms the neutral scope and two distinct analyses. Patent paragraphs 8-16 protect the refusal within the grant absent the recognized exceptional wrongs; copyright paragraphs 17-22 adopt a strong presumptive justification and reject the proposed subjective-pretext rebuttal. The court's grant-scope conclusion is a reviewed legal conclusion, not a finding that determines all antitrust markets or competitive effects. Footnote 2 rejects patent misuse on that same scope predicate. No material neutral correction is required. No current Stone supplement, raw brief or prior private Record was read.
+
+## Law and independent comparative assessment
+
+The supplied simulated Kodak holding separately governs section 2 monopoly maintenance; its existence cannot be reduced to the historical lower opinion's description of Kodak as a tying case. Kodak nevertheless leaves this precise asserted patent/copyright defense unresolved and supplies no general duty to deal. Grinnell, Aspen, Spectrum Sports, NYNEX and California Dental preserve separate proof of power, unlawful maintenance, competitive injury and the actual competitive mechanism. Professional Real Estate Investors concerns protected petitioning, not automatic immunity for a commercial refusal. TrafFix's expired-patent functionality holding does not defeat a valid patent or confer access to copyrighted expression.
+
+The provisional five/three division has an independently supported doctrinal basis, not a historical Supreme Court lineup to mimic. Stevens, Kennedy and Souter's Kodak joins and the California Dental positions of those three, Ginsburg and Breyer support examining a properly evidenced maintenance scheme without treating statutory exclusion as conclusive across all conduct. O'Connor, Scalia and Thomas's Kodak dissent and their California Dental treatment of substantial justification support the stronger protected-refusal boundary. All eight must preserve the actual grants and reject motive, competitor injury or a distinct antitrust market as sufficient by themselves.
+
+## Reconciled commitments by component
+
+| Justice | Patented parts | Copyrighted manuals/software | Sufficient ground and exact limit |
+|---|---|---|---|
+| Stevens | Vacate and remand. | Vacate and remand under a distinct strong-justification analysis. | Kodak and his California Dental join support objective competitive examination. A desire to exclude, rival injury or a separate service market alone does not show unlawful maintenance or defeat the grant. |
+| O'Connor | Affirm on protected refusal within the actual grant. | Affirm on unrebutted substantial exclusion justification. | Her Kodak dissent and California Dental join require meaningful protection of the statutory interest. Preserve liability for an independently established wrong; no blanket exemption outside the grant. |
+| Scalia | Affirm; no sufficient wrong beyond the protected refusal has been shown on this theory. | Affirm; motive and immediate rival injury do not rebut the justification. | His Kodak dissent, NYNEX opinion and Professional Real Estate Investors join demand the actual offense. Commercial refusal and protected petitioning remain distinct. |
+| Kennedy | Vacate and remand. | Vacate and remand. | His Kodak section 2 join and California Dental position support testing the actual mechanism. Statutory exclusion receives legal weight; NYNEX forbids treating CSU's loss as competitive injury. |
+| Souter | Vacate and remand for the bounded inquiry. | Vacate and remand with the substantial copyright justification retained. | Kodak and his California Dental opinion reject conclusive labels while requiring adequate attention to justification. A properly reasoned summary judgment may still be entered on the existing record. |
+| Thomas | Affirm on the presented refusal claim. | Affirm on the statutory justification and absence of sufficient rebuttal. | His Kodak dissent join, California Dental join and Professional Real Estate Investors opinion support an objective legal threshold. Patent ownership does not itself prove power, and motive alone cannot defeat statutory exclusion. |
+| Ginsburg | Vacate and remand. | Vacate and remand with genuine protection of the copyright interest. | Her California Dental and NYNEX positions distinguish actual competitive evidence from harm to a rival. No license, infringement defense or power finding follows merely from the antitrust allegation. |
+| Breyer | Vacate and remand. | Vacate and remand. | His California Dental explanation requires actual effects and a responsive justification, and NYNEX preserves competitive injury. Congress's innovation judgment is not relitigated as an abstract policy; no general duty to assist competitors or marginal-benefit formula is adopted. |
+
+On each component, Stevens, Kennedy, Souter, Ginsburg and Breyer support vacatur. O'Connor, Scalia and Thomas support affirmance. No historical Supreme Court departure can be asserted where no such comparator is identified.
+
+## Common reversing proposition and alternative
+
+The five reject conclusive protection that ends the required section 2 inquiry merely because valid intellectual property covers an input. A claimant must establish the actual offense with objective evidence of unlawful monopoly maintenance, giving lawful exclusion and the innovation interests protected by the statute their proper legal weight. A lawful unilateral refusal, the purpose of excluding others from the protected work, effects inherent in that right, and loss to CSU do not alone establish the wrong. A different service market does not by itself lie beyond the legal grant.
+
+For patents, absence of tying, procurement fraud or sham litigation does not exhaust every possible independently established section 2 wrong. None of those absent claims is revived. Section 271(d)(4)'s protection against loss of otherwise available patent relief merely for refusing to license or use rights remains operative. For copyright, the strong statutory exclusion justification remains; the error is treating permissible rebuttal so narrowly that objective evidence of a distinct unlawful maintenance scheme is excluded without assessing the actual conduct and rights. The five do not authorize a jury to defeat Congress's incentive judgment merely by disbelieving a right holder's stated motive.
+
+The three affirming Associates regard the presented theory as failing to identify a legally sufficient wrong beyond protected refusal. Within the actual grant, the patent right permits exclusion; the copyright interest supplies a strong justification CSU has not adequately rebutted. Their view preserves independently unlawful conduct, agreements, tying, fraud and sham litigation within their actual requirements, but finds no such additional wrong established here. They would not impose repeated proof of the wisdom of the statutory incentive or permit subjective hostility to defeat the right. A substantive dissent can explain both distinct component grounds; no author is prescribed.
+
+## Remedy and remaining questions
+
+The five vacate the Federal Circuit judgment insofar as it sustains the challenged patent- and copyright-based antitrust summary judgments and remand for the proper legal inquiry. The lower courts must assess the actual rights, conduct, competitive mechanism and supporting evidence under ordinary summary-judgment rules. The remand may end in summary judgment if only lawful refusal, motive or competitor harm is supported, or another required element fails. It does not compel new discovery, a trial, or a new evidentiary hearing irrespective of need.
+
+No market definition, power, infringement, competitive injury, causation, damages, compulsory parts supply or copyright license is established. Removing the scope predicate leaves any live misuse consequence for lawful consideration below rather than deciding the infringement counterclaims. The opt-out settlement proves neither liability nor the propriety of forced access. Any eventual remedy requires a proved violation, causal injury and tailoring. Later refusal-to-deal cases and the later scheduled Tasini matter supply no law here.
+
+The unrecovered full trial record limits ultimate factual conclusions; the published opinion is sufficient to decide its legal summary-judgment grounds. No material source gap blocks that bounded result.
+
+Status: reconciled and frozen for separate assembly; provisional commitments preserved unchanged.
