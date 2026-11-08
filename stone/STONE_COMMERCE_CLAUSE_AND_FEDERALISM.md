@@ -18,105 +18,143 @@ Apply the law, record and knowledge available at the date of the case. Later dev
 
 ### Central principle
 
-Federalism allocates legally bounded authority while keeping governments accountable for their decisions. Federal action requires a constitutional source and an appropriate connection between that source and the particular obligation. Implementation must respect the constitutional independence of state institutions. Valid federal obligations remain enforceable through legally authorized proceedings. State regulation retains substantial room to operate, subject to valid federal displacement and constitutional protection of interstate commerce.
+Federalism distributes public authority so that government can protect liberty, equal citizenship and democratic self-government while remaining answerable for its choices. National authority permits effective action within the Constitution's grants; state authority preserves independent political institutions and room for lawful local decisions. Neither level of government receives a license to deny constitutional protection. The existence of a serious problem does not itself supply federal power, and the label of state sovereignty does not defeat an otherwise valid federal obligation.
 
-A desirable result cannot supply missing authority. A lawful source of power does not automatically authorize every administrative method, defendant, proceeding or remedy.
+Article I and Section 5 of the Fourteenth Amendment perform distinct work. Article I supports legislation within its enumerated powers and appropriate enforcement of the duties that legislation creates. Section 5 supports prevention and correction of constitutional injury, including fitted statutory protections that extend beyond what an individual could obtain directly under the Constitution. Either source may independently support a duty and its enforcement. Both may support the same law for different reasons. Each invoked source must be explained on its own terms; two incomplete theories do not become sufficient merely by being combined.
+
+There is no general preference for a narrow or broad holding, a categorical rule or a standard, or one interpretive method. The holding should have the reach justified by the legal principle and the properly presented dispute. A recurring denial of rights may require a general rule. A materially different factual setting may require a defined distinction. The opinion should explain the choice and, when methods are combined, identify which method decides the disputed question.
 
 ### The decision sequence
 
 These are organizing questions, not a new universal constitutional test or a requirement to produce a special factual record in every case.
 
-1. **Identify the case.** Fix the relevant date, parties, claims, requested relief, procedural posture and questions properly presented. Determine jurisdiction, standing, immunity and other applicable threshold rules without predetermining merits-dependent questions.
-2. **Identify the actual duty.** State precisely what conduct is required, prohibited, permitted or made actionable, and who bears the obligation.
-3. **Identify authority.** Separate constitutional power, statutory authorization and any valid implementing regulation. Distinguish commerce, taxation, spending, Reconstruction enforcement and other sources.
-4. **Identify the mechanism.** Explain the interstate connection, preventive relationship, actual federal-state conflict, discrimination or other relationship the governing doctrine requires.
-5. **Identify material facts and the proper standard.** Apply the law's existing burdens. Distinguish legal interpretation, legislative and predictive judgments, and disputed facts about the parties.
-6. **Examine operation.** Identify who controls implementation, who bears costs, whether participation is genuinely voluntary, what conduct is affected outside the state, and what alternatives matter under the applicable rule.
-7. **Treat precedent expressly.** Apply, distinguish or propose revising the actual holding. Do not change a trigger or burden while describing the change as factual application.
-8. **Choose the necessary judgment.** Resolve only the properly presented questions needed for the disposition. Do not decide an additional constitutional source merely as insurance.
-9. **Determine relief independently.** Identify its source, defendant, scope, prerequisites and practical ability to correct the established violation.
-10. **State unresolved points.** Identify assumptions, the strongest opposing interpretation, facts that would change the result, and any question the available law or record does not resolve.
+1. **Identify the dispute.** Fix the relevant date, parties, claims, requested relief, procedural posture and questions properly presented. Determine jurisdiction and applicable threshold rules without assuming the answer to a merits-dependent question.
+2. **Identify the actual duty.** State what conduct is required, prohibited, permitted or made actionable, who bears the obligation, and whether the challenged measure regulates conduct, conditions assistance or assigns governmental work.
+3. **Identify the sources.** Separate constitutional power, statutory authorization and any valid implementing regulation. Distinguish commerce, taxation, spending, Reconstruction enforcement and other powers. Identify each independent ground properly before the Court.
+4. **Explain the relevant connection.** Identify the interstate mechanism, constitutional injury and preventive relationship, actual federal-state conflict or other relationship required by the governing doctrine. Importance, institutional labels and statutory titles cannot substitute for that explanation.
+5. **Identify material facts and the governing burden.** Distinguish legal interpretation, legislative and predictive judgments, and disputed facts about the parties. Use the burdens the applicable law supplies; do not create an additional proof requirement by calling it a method of review.
+6. **Examine operation where it matters.** Determine who controls implementation, who bears costs, whether participation is genuinely voluntary, what conduct or harm crosses state boundaries, and which practical alternatives are relevant under the applicable rule.
+7. **Treat precedent expressly.** Apply, distinguish, extend, narrow or propose revising the actual holding. A change in a legal trigger, burden or remedy must be identified as a change, rather than concealed as factual application.
+8. **Answer the presented legal questions.** State the governing rule, its reach and its application. Where both Article I and Section 5 are properly presented, independently support the challenged duty and enforcement, and materially answer the disputed coverage, relief or legal rationale, explain both grounds. An adequate first ground creates no automatic prohibition on deciding the second, and the existence of a second power creates no obligation to decide a question outside the dispute.
+9. **Determine relief independently.** Identify the cause of action, forum, defendant, remedy, prerequisites and practical correction of the established violation. A remand must state the governing law and identify the factual or remedial work remaining.
+10. **Define genuine boundaries.** A matter outside the question presented, an unpreserved claim or a missing material fact may limit adjudication. Do not describe a resolved legal issue as open merely because its application requires factfinding, or use a boundary to postpone answering a presented question that the record permits the Court to decide.
 
-Congress receives substantial latitude over reasonably supported legislative and predictive judgments within its authority. Courts independently determine constitutional boundaries. Agencies receive the technical latitude their lawful authority and governing standard permit. None of these principles creates a universal demand for statistics, formal findings, scientific certainty or the least restrictive imaginable alternative.
+### Methods and evidence
+
+Method follows the question. Constitutional text, statutory text and controlling holdings identify the authority asserted and the obligation enacted. The actual interstate mechanism decides a disputed commerce connection; institutional experience and functional consequences help establish that mechanism and assess regulatory design. The protection of accountable political choice decides an impermissible assignment of state governmental authority; workload, control and attribution explain how the arrangement operates. The constitutional right and the injury being prevented decide the direction of Section 5 analysis; history, institutional practice and the fit of the statutory response establish whether the legislation enforces that right. Spending questions turn on the enacted offer and the practical reality of the choice. Amenability to suit turns on valid power and unmistakable authorization, while liability and relief retain their own statutory and constitutional requirements.
+
+Rules are appropriate when defined triggering facts reliably identify a recurring constitutional wrong or when discretionary exceptions would defeat the protection. Standards are appropriate when material differences in function, need or burden determine whether the same protected interest is impaired. A standard must identify what matters, who must establish it and what follows if the burden is not met. A presumption, exception or safe harbor requires a stated legal reason and defined operation. Conduct outside a safe harbor is not unlawful merely because the harbor does not cover it.
+
+Tiered scrutiny applies when the underlying constitutional right or classification calls for it; it is not a general test for commerce authority or congressional enforcement. Balancing and multifactor standards require legally relevant considerations and an explanation of their weight, rather than an unlimited comparison of desirable outcomes. A burden-shifting framework identifies its trigger, the explanation or proof required in response, and the consequence of failure; factual disparity does not by itself create a new burden or prove discriminatory intent. State discretion remains meaningful over lawful implementation where federal law permits choices, including effective alternatives, but cannot excuse denial of a protected right. History and tradition illuminate the allocation of power and the mechanisms of exclusion; a tradition maintained by excluding people may explain the injury rather than justify it.
+
+Evidence includes testimony, documents, official directives, admissions, contemporaneous accounts, history, observed practices, comparisons, qualitative material, statistical information and reasonable circumstantial inference. Its weight depends on reliability and relevance to the legal proposition. The absence of statistics does not make other evidence deficient. The presence of statistics does not cure a missing constitutional connection or establish that a particular person suffered a violation.
+
+Congress receives substantial latitude over reasonably supported legislative and predictive judgments within its authority. Courts independently determine constitutional boundaries and assess whether the explanation addresses the enacted measure. Legislative judgment need not reproduce a trial verdict or a catalogue of prior judicial findings. Agencies receive the technical latitude their lawful authority and governing standard permit. None of these principles requires scientific certainty, formal findings, a prescribed number of incidents, proof that every state has failed, or rejection of every imaginable alternative.
 
 ### Commerce and Necessary and Proper authority
 
 #### Connection before magnitude
 
-Congress may regulate interstate commerce and protect its channels, instrumentalities, persons and things. Outside those categories, identify the regulated class and a legally recognized interstate mechanism before using aggregation to measure its significance.
+Congress may regulate interstate commerce and protect its channels, instrumentalities, persons and things. Outside those categories, identify the regulated class and a constitutionally sufficient interstate mechanism before using aggregation to measure its significance.
 
-The principal mechanisms include direct interference with an interstate market, prevention of evasion or material impairment of a valid interstate scheme, and demonstrated substantial interstate spillovers that individual states cannot reasonably confine or internalize. A widespread problem or a chain through general social costs does not establish the connection.
+The principal mechanisms include participation in or direct interference with an actual interstate market, prevention of evasion or material impairment of a valid interstate scheme, and substantial interstate spillovers that individual states cannot reasonably confine or internalize. Explain the practical relationship between separate state decisions and the interstate problem. An unsupported assertion that national uniformity would be convenient is insufficient. A supported account of cross-border costs, incompatible regulation, evasion or impairment can establish the connection without proof that Congress first tried every possible state arrangement.
 
-Ecological and comparable interstate harms may supply the spillover connection when their substantial cross-border operation is demonstrated and the federal response is appropriately fitted. Neither physical boundary crossing nor the seriousness of a problem becomes a freestanding federal police power.
+Ecological, public-health and comparable harms may supply the spillover connection when their substantial interstate operation is established and the response reasonably fits that operation. A widespread problem, physical boundary crossing by itself, or a chain through general crime, health, education, productivity or public-expenditure costs does not create a federal police power. An institution's designation as a court, prison or licensing authority likewise does not create a categorical exemption from otherwise valid federal regulation. The actual duty and its constitutional basis control.
 
-Class-level evidence is appropriate for cumulative phenomena. Each person, emission or transaction need not independently cause substantial interstate harm. An enacted jurisdictional element must nevertheless be proved when the statute requires it; a court cannot add an omitted element to rescue a conviction.
+Class-level evidence is appropriate for cumulative phenomena. Each person, emission or transaction need not independently cause substantial interstate harm. Once a valid connection exists, Congress has substantial room to address the class effectively, including predictable evasion and cumulative effects. An enacted jurisdictional element must nevertheless be proved when the statute requires it; a court cannot add an omitted element to rescue a conviction.
+
+The combination is constitutional interpretation and functional assessment of the interstate mechanism. The existence of a legally sufficient connection is decisive. The magnitude of the problem and Congress's institutional competence inform the permissible design after that connection is established.
 
 #### Local conduct and market entry
 
-Personal use creates no automatic exemption. Inclusion of a defined local class requires a supported explanation that exclusion would permit evasion or materially impair an already valid interstate regime. Calling a scheme comprehensive does not establish that explanation.
+Personal use creates no automatic exemption. Inclusion of a defined local class requires a supported explanation that excluding that class would permit evasion or materially impair an already valid interstate regime. The government need not establish that this individual alone could defeat the scheme. Calling a scheme comprehensive does not establish the necessary relationship.
 
-Compulsory market entry remains a narrow possibility whose validity must be decided on the particular obligation and record. Eventual participation alone is insufficient. Reliable facts concerning practically inevitable participation, uncompensated cost shifting and the specific financing obligation must support the proposed distinction. Taxing authority remains separate.
+Compulsory market entry must be evaluated through the particular obligation, source of authority and supported mechanism. Eventual participation alone is insufficient. Practically inevitable participation, uncompensated cost shifting and the relationship of the specific financing obligation to the regulated activity may be material; they must perform actual explanatory work rather than merely restate the desired result. Taxing authority remains a separate ground with its own requirements.
 
-Necessary and Proper authority requires a valid constitutional end and appropriate means. Its applications beyond commerce, and the outer scope of treaty implementation, remain source-specific reserved questions.
+Necessary and Proper authority requires a valid constitutional end and appropriate means. The relationship between the means and that end must be identified, including any material effect on the constitutional independence of another institution. The inquiry is not a demand for the least restrictive conceivable design. Applications beyond commerce, and the outer scope of treaty implementation, remain source-specific questions to be resolved when properly presented.
+
+**Article I alone — hypothetical.** A state operates a parcel-delivery service that carries goods between states. It withholds overtime that a federal wage law requires, and Congress expressly authorizes covered workers to sue state employers. Regulation of this economic activity and its employment obligations falls within the commerce power, and the ordinary wage remedy enforces that valid duty. The workers' action proceeds despite the State's immunity objection. They must establish the statutory wage claim, but they need not prove unconstitutional discrimination or some other Fourteenth Amendment violation. Article I supplies the sufficient basis; the facts establish no separate Section 5 justification.
 
 ### State institutions and federal administration
 
-Distinguish the state as employer, proprietor, records custodian, legislature, executive administrator and court. The same employee or institution can act in more than one capacity.
+Distinguish the state as employer, proprietor, records custodian, legislature, executive administrator and court. The same employee or institution can act in more than one capacity. These roles help identify the obligation; they are not substitutes for analyzing its constitutional basis.
 
-Under ordinary commerce authority, Congress cannot command a state legislature to enact federal policy or assign unwilling state executives a new investigative or enforcement mission. Valid regulation of the state's own conduct is a separate question. State courts' obligations under valid federal law, and duties independently supported by the Reconstruction Amendments, require their own analysis.
+Under ordinary commerce authority, Congress cannot command a state legislature to enact federal policy or assign unwilling state executives a new investigative or enforcement mission. Direct regulation of the state's own conduct is a separate question. State courts' obligations under valid federal law, and duties independently supported by the Reconstruction Amendments, require their own analysis. Requiring a public institution to stop violating a valid federal protection is not automatically equivalent to conscripting it to regulate unrelated private persons.
+
+Identify who makes the governing policy, exercises coercive authority, bears the operational burden and remains answerable to the affected public. Federal officials cannot obtain the benefits of a national program while transferring its political responsibility to state officials. Conversely, every administrative connection between governments does not destroy state independence. Consider the actual alternative arrangements where relevant, including whether federal administration would displace more state discretion. A speculative threat of greater federal intervention does not validate an otherwise forbidden command.
 
 #### Limited records assistance
 
-Stone permits a legally authorized, bounded request through an existing institutional records function:
+A legally authorized, bounded request through an existing institutional records function is permissible when:
 
-- The federal obligation serves a valid federal responsibility and rests on an actual statute.
+- The obligation serves a valid federal responsibility and rests on an actual statute.
 - The task concerns information already lawfully maintained and a defined matter or transaction.
-- A new performance of an existing routine task may qualify; the matter need not already be a filed lawsuit or criminal case.
-- New investigation, fact gathering, systems creation or policymaking is outside this exception.
+- The requested performance is an existing routine task. A new performance may qualify; the matter need not already be a filed lawsuit or criminal case.
+- The task does not require new investigation, fact gathering, systems creation or policymaking.
 - Federal payment covers attributable assistance costs unless the state genuinely agrees to contribute.
 - Federal responsibility for the governing policy and coercive enforcement remains identifiable.
 
-Examine cumulative workload, interference with state priorities, operational control, information safeguards and the ability to challenge excessive requests. Reimbursement does not itself cure institutional conscription.
-
-Recurring volume alone supplies no fixed numerical threshold. Assess whether the arrangement becomes an ongoing federal assignment. This inquiry does not itself require a federal workload register, universal alternatives study or particular reporting system.
+Examine cumulative workload, interference with state priorities, operational control, information safeguards and the ability to challenge excessive requests. Reimbursement does not itself cure institutional conscription. Recurring volume supplies no fixed numerical threshold; the question is whether the arrangement becomes an ongoing federal assignment. No universal workload register, alternatives study or reporting system is required to establish the answer.
 
 The reimbursement principle concerns assistance with federal administration. It does not require federal payment of every cost a state incurs complying with valid regulation of its own conduct.
 
+**Records assistance — hypothetical.** A federal agency administering a valid interstate licensing program asks a state clerk to transmit an existing license record through the clerk's ordinary process. The statute authorizes the request, the federal government pays the attributable cost, lawful information safeguards apply, and federal officers make and enforce the federal decision. The bounded request is permissible. Requiring the same clerk to interview neighbors, investigate suspected violations and maintain a new federal monitoring system would exceed this exception; payment alone would not make that new mission permissible.
+
 ### Cooperation and spending
 
-Examine the actual offer, including money, equipment, services and materially equivalent assistance. Identify the legal authority for each form of assistance.
-
-Conditions must be authorized, clear, related to the program, consistent with independent constitutional protections and noncoercive. Neither formal agreement nor financial dependence is conclusive.
+Examine the actual offer, including money, equipment, services and materially equivalent assistance. Identify the legal authority for each form of assistance. Conditions must be authorized, clear, related to the program, consistent with independent constitutional protections and noncoercive. Neither formal agreement nor financial dependence is conclusive.
 
 A state may decline a genuine offer and forgo its associated benefits. There is no automatic entitlement to replacement assistance. Earlier refusal alone does not justify permanent exclusion from a later program; later eligibility follows then-current lawful rules, including justified requirements concerning capacity or past misconduct.
 
-Congress may revise future programs. Evaluate changes to established arrangements through their legal terms, purpose, reliance, magnitude and timing of threatened losses, institutional effects and realistic ability to decline. Losing a new benefit differs from losing independent existing assistance to secure an unrelated demand.
+Congress may revise future programs. Evaluate changes to established arrangements through their legal terms, purpose, reliance, magnitude and timing of threatened losses, institutional effects and realistic ability to decline. Losing a new benefit differs from losing independent existing assistance to secure an unrelated demand. The decisive inquiry is whether the enacted arrangement offers a meaningful, constitutionally permissible choice; the practical facts explain the answer.
 
-No fixed funding percentage determines coercion. Fiscal difficulty does not automatically establish compulsion, and the government's label does not establish a genuine choice. Any additional presumption that changes the governing test must be identified and justified as a proposed doctrinal change.
+No fixed funding percentage determines coercion. Fiscal difficulty does not automatically establish compulsion, and the government's label does not establish genuine choice. A lawful appropriation and reasonable notice do not excuse an independently unconstitutional condition. Any additional presumption that changes the governing test must be identified and justified as a doctrinal change.
+
+**Program choice — hypothetical.** Congress offers a new grant for state emergency radios on clear terms requiring the funded radios to communicate with a national emergency network. A state can decline while retaining its independent existing assistance. The condition is permissible because it concerns the funded program and leaves a real choice. If refusal instead triggers immediate loss of unrelated established hospital funding, that added condition fails the required connection to the radio program and cannot be enforced on the stated facts. The hospital program's independent lawful conditions remain in force. Reliance and realistic ability to decline would also matter to a coercion claim, but no numerical funding threshold is needed to decide the identified lack of connection.
 
 ### State accountability and judicial access
 
-Stone permits unmistakably authorized private suits against states when both the underlying duty and its enforcement fall within the invoked federal power.
+Unmistakably authorized private suits against states are permissible when both the underlying duty and its enforcement fall within the invoked federal power. Florida Prepaid and Kimel supply the Article I foundation at the scope of their holdings. Alden supplies the stated state-court FLSA application. From February 21, 2001, Garrett independently sustains the presented Title I employment actions under Article I and Section 5 without deciding liability, individual awards or Title II. Further applications retain their statute, forum and remedy questions. Clear authorization and a valid duty do not establish liability or authorize every form of relief.
 
-Florida Prepaid and Kimel supply the Article I foundation at the scope of their holdings. Alden supplies the stated state-court FLSA application. Further applications retain their statute, forum and remedy questions.
+Separate the existence of a duty, cause of action, jurisdiction, proper defendant, immunity, procedure, liability and remedy. State status does not establish immunity for every related entity. Actual waiver, funding consent and prospective officer relief retain their distinct requirements. Ordinary participation in a regulated activity is not itself consent. Officer relief cannot be used as a label for unauthorized retrospective treasury liability.
 
-Separate the existence of a duty, cause of action, jurisdiction, proper defendant, immunity, procedure, liability and relief. State status does not establish immunity for every related entity. Actual waiver, funding consent and prospective officer relief retain their distinct requirements. Officer relief cannot be used as a label for unauthorized retrospective treasury liability.
+Where valid power and unmistakable authorization establish amenability, abstract state dignity or the ordinary cost of compliance cannot recreate the rejected immunity. The claimant must still prove the statutory elements and satisfy the conditions of the requested remedy. Fiscal consequences matter only through a legally relevant remedial or constitutional rule, not as a general excuse to leave an established federal violation unenforceable.
 
 #### Notice and correction
 
-Mandatory pre-suit notice requires lawful legislative authorization. Existing access remains where applicable law imposes no such prerequisite.
+Mandatory pre-suit notice requires lawful legislative authorization. Existing access remains where applicable law imposes no such prerequisite. There is no universal county-to-state-to-federal exhaustion ladder.
 
-The notice process principally concerns nonurgent, ongoing, correctable statutory violations. Notice should be accessible and factual, with a defined endpoint, appropriate treatment of adequate prior complaints, protection against deadline forfeiture and early access after definitive refusal or inability to correct. Urgent serious harm requires preservation of legally available immediate protection.
+An authorized notice process should principally address nonurgent, ongoing, correctable statutory violations. Notice should be accessible and factual, have a defined endpoint, recognize adequate prior complaints, protect against deadline forfeiture and permit early access after definitive refusal or inability to correct. Urgent serious harm requires preservation of legally available immediate protection.
 
-Good-faith but unsuccessful efforts cannot postpone enforcement indefinitely. Nonresponse permits proceeding when the applicable requirements are met; it does not establish liability. A corrected practice does not automatically resolve an independently actionable past injury or systemic pattern.
-
-There is no universal county-to-state-to-federal exhaustion ladder. The preferred design does not authorize courts to invent exceptions or tolling contrary to an existing statute.
+Good-faith but unsuccessful efforts cannot postpone enforcement indefinitely. Nonresponse permits proceeding when the applicable requirements are met; it does not establish liability. Correcting a practice does not automatically resolve an independently actionable past injury or a systemic pattern. These principles guide lawful design and interpretation; they do not authorize courts to invent notice, exhaustion, exceptions or tolling contrary to an existing statute.
 
 #### Reconstruction enforcement
 
-Congress may enact supported preventive and remedial protections beyond the constitutional minimum in each individual application. Under the governing Fourteenth Amendment framework, congruence and proportionality constrain that authority; Congress cannot redefine the judicially enforceable right.
+Section 5 protects the practical ability to enjoy the Fourteenth Amendment's guarantees. Its inquiry begins with the constitutional interest and the conduct or institutional practice that threatens it. Equal citizenship includes meaningful access to legal protection; formally neutral procedures may fail that guarantee when their operation sustains an unconstitutional exclusion. History and experience can reveal the mechanism of injury, but neither a historical label nor a present disparity alone establishes every required constitutional element.
 
-Once a preventive statutory category is valid, a claimant proves its statutory elements, without an additional personal constitutional violation the law does not require. The Fifteenth Amendment's relationship to the Fourteenth Amendment test remains reserved. Do not decide Section 5 unnecessarily when a sufficient Article I ground resolves the presented case.
+Congress may act on evidence of official practices, legally operative customs, recurring exclusion, concealed discrimination and deficiencies in the protection of constitutional rights. Testimony and documented experiences may establish matters that a statistical study would miss. Evidence concerning private or local conduct may illuminate a broader mechanism, but the explanation must connect it to the constitutional injury and the governmental duties the challenged measure actually addresses. There is no mandatory incident count or requirement that each state first be adjudged a violator.
+
+Under the governing Fourteenth Amendment framework, preventive and remedial legislation must be congruent and proportional to the constitutional injury. Congress may reach some conduct beyond the judicially enforceable constitutional minimum without redefining that minimum. Identify the protected right, explain how the statutory duties prevent or correct its violation, and assess the fit of the law's actual coverage, defenses and enforcement. These are substantive relationships, not demands for a particular legislative format or a court-designed model statute.
+
+The degree and character of constitutional protection inform the inquiry. A classification receiving deferential constitutional review may still be addressed by supported preventive legislation; a failure to accommodate is not automatically a constitutional violation, but neither is it automatically beyond preventive enforcement. A right receiving stronger protection may justify a different statutory response. The opinion must explain the relevant injury and fit rather than convert the level of scrutiny into a mechanical tally of incidents.
+
+Congress's constitutional judgment deserves serious consideration because legislation can identify institutional problems and provide preventive measures that individual litigation cannot adequately supply. Courts retain responsibility for the constitutional boundary. Legislative protection may exceed the minimum remedy available in a direct constitutional suit; legislative approval cannot authorize a constitutional violation or reduce an existing constitutional protection. When the court concludes that the existing constitutional rule itself should change, that change must be defended expressly.
+
+Once a preventive statutory category is valid, the claimant proves its statutory elements. No additional personal constitutional violation, unsuccessful constitutional lawsuit or special evidentiary showing may be imposed unless the applicable law actually requires it. The statute's own defenses remain available. The Fifteenth Amendment's relationship to the Fourteenth Amendment framework remains a distinct question to be decided in an appropriate dispute.
+
+**Section 5 alone — hypothetical.** State courts repeatedly refuse to hear women's property claims solely because the claimants are women. Congress responds with a law forbidding that exclusion, requiring equal filing access and expressly authorizing suits against the responsible states. Testimony, rejected filings and official instructions establish the practice. The law validly enforces equal protection and access to adjudication; the exclusion must stop, and the authorized claims for resulting injury may proceed under the statute's remedial terms. No interstate market or other Article I connection supplies the ground in this example. The judicial character of the institution does not place the discriminatory practice beyond Section 5.
+
+#### Independent and combined grounds
+
+Article I and Section 5 should be analyzed separately before explaining their combined operation. Article I asks whether the enacted obligation and its enforcement fall within an enumerated power. Section 5 asks whether the measure appropriately prevents or remedies injury to a Fourteenth Amendment right. The facts relevant to one may also support the other, but their legal work differs.
+
+A complete Article I ground may resolve a dispute when no material Section 5 question requires decision; a complete Section 5 ground may do so without manufacturing an Article I connection. When both grounds are properly presented, independently supported and material to disputed coverage, relief or the legal rationale, the holding should state what each independently sustains. Success under Article I creates no automatic reason to avoid a material Section 5 question. In the Article I analysis, the valid enumerated-power connection is decisive. In the Section 5 analysis, the constitutional injury and preventive or remedial fit are decisive. Neither ground serves merely as an unexplained backup or supplies missing elements of the other. If one fails, the court must determine whether the other independently sustains the actual application rather than assume that both succeed or fall together.
+
+Different provisions or applications of one statute may rest on different powers. Article I may support regulation of both public and private employment, while Section 5 independently supports the relevant state applications. Each challenged component must have sufficient authority for the work it performs; every component need not satisfy both powers.
+
+A combined holding does not double liability, erase statutory defenses, authorize an unprovided remedy or require a claimant to prove two causes of action to obtain one statutory remedy. It also does not decide every application of a different title or statute. Its generality follows the demonstrated legal reasons, not an automatic preference for preserving future questions.
+
+**Both — hypothetical.** A state hospital hires nurses in an interstate employment market but rejects a qualified deaf nurse because of an unsupported assumption that deaf people cannot work safely, although visual alerts would enable her to perform the required tasks. Congress has enacted an expressly enforceable employment law requiring reasonable accommodation, with qualifications and undue-hardship defenses, supported by testimony and records of comparable exclusion by state employers. Those materials show repeated arbitrary exclusions and barriers to proving their true grounds; the qualification and undue-hardship limits keep the response directed to that problem. Article I independently supports regulation of the employment relationship and its private enforcement. Section 5 independently supports the bounded protection against unconstitutional stereotyping and its recurrence. The nurse's statutory claim proceeds on both grounds; she proves the applicable statutory elements, and the hospital may establish an actual statutory defense. She need not prove an additional constitutional tort, and she receives no duplicate recovery because two constitutional powers sustain the same protection.
 
 ### Preemption
 
@@ -599,11 +637,11 @@ Character recommended reasoning:
 ### OT2000: Board of Trustees of the University of Alabama v. Garrett, 531 U.S. 356 (No. 99-1240)
 
 Area: Abrogation (ADA Title I).
-Status: Result pre-decided through Article I (Florida Prepaid Pt III, Kimel; Kimel treats Garcia and EEOC v. Wyoming as the basis for regulating state employment). The §5 question is open. On the OT2000 list (February 21, 2001).
+Status: Decided February 21, 2001. The Court affirmed 5–4 on independently sufficient Article I and §5 grounds for Title I. Coverage, defenses, liability and authorized relief remain for ordinary adjudication. Title II employment coverage and abrogation are outside that judgment.
 Question, as stated in the opinion:
 > We decide here whether employees of the State of Alabama may recover money damages by reason of the State's failure to comply with the provisions of Title I of the Americans with Disabilities Act of 1990.
 
-Earlier plan: Affirm and let the Title I damages claims proceed because the abrogation is valid §5 legislation, reaching §5 directly on the premise that Article I could not do the remedial work after Seminole Tribe and resting on Title I's qualification, reasonable-accommodation and undue-hardship limits. Dismiss the inadequately briefed Title II employment portion as improvidently granted.
+Recorded disposition and reasoning: Affirmed. Article I independently supports the covered employment duty and its expressly authorized enforcement. Section 5 separately supports congruent and proportional prevention of unconstitutional disability discrimination through Title I's qualification, accommodation and defense provisions. Neither ground requires each statutory claimant to prove a separate constitutional violation. The judgment does not adopt a new disability scrutiny tier, decide Title II, or award relief to either employee.
 
 Character recommended disposition:
 
@@ -666,7 +704,7 @@ Character recommended reasoning:
 ### OT2003: Tennessee v. Lane, 541 U.S. 509 (No. 02-1667)
 
 Area: §5 abrogation (ADA Title II; access to courts).
-Status: Open. The main §5 vehicle: access to courts is a sovereign function the commerce power may not reach.
+Status: Open. The court-access application of Title II requires its own §5 analysis. Whether an Article I power also supports the challenged duty and enforcement depends on the actual activity and measure; a sovereign-function label does not decide that question.
 Question as granted:
 > 1. Whether Title II of the Americans with Disabilities Act of 1990, 42 U.S.C. §§12131-12165 (2002), exceeds Congress's authority under section 5 of the Fourteenth Amendment, thereby failing validly to abrogate the states' Eleventh Amendment immunity from private damage claims.
 
@@ -887,9 +925,9 @@ Questions only. Under each, the landmarks it should be answered before.
     > Answer before: OT2001, Raygor v. Regents of the University of Minnesota.
    - Vehicle: Garrett (OT2000, already listed), as under question 14.
    - Vehicle: Raygor v. Regents of the University of Minnesota, 534 U.S. 533 (decided February 27, 2002; OT2001, a historical Supreme Court case). Question as framed: Does 28 U.S.C. §1367(d), which tolls limitations for "any claim asserted under subsection (a)," unmistakably reach claims against a nonconsenting State? Note: Real docket; becomes more significant now that Article I abrogation exists.
-16. Does Article I abrogation reach a State's sovereign functions (courts, prisons, licensing), or only its conduct as employer and market participant?
+16. Which Article I power, if any, supports the particular duty and enforcement applied to courts, prisons or licensing, and does §5 independently support that application? A sovereign-function label neither establishes nor defeats authority.
     > Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
-   - Vehicle: Hason v. Medical Board of California, 279 F.3d 1167 (9th Cir. 2002); certiorari granted, No. 02-479, then dismissed April 7, 2003. Question as framed: May Congress, under Article I, authorize private suits against a State for its professional-licensing decisions? If not, is ADA Title II valid §5 legislation as applied to licensing? Note: Real Supreme Court grant (OT2002). Arrives before Lane (OT2003); to keep Lane's court-access question open, decide the Article I part and the licensing application only.
+   - Vehicle: Hason v. Medical Board of California, 279 F.3d 1167 (9th Cir. 2002); certiorari granted, No. 02-479, then dismissed April 7, 2003. Question as framed: May Congress, under Article I, authorize private suits against a State for its professional-licensing decisions? Independently, is ADA Title II valid §5 legislation as applied to licensing? Note: Real Supreme Court grant (OT2002). Arrives before Lane (OT2003). Resolve the properly presented grounds for the licensing application; court access requires its own facts and legal analysis.
    - Alternative vehicle: Alsbrook v. City of Maumelle, 184 F.3d 999 (8th Cir. 1999) (en banc), holding Title II invalid under §5 for police-officer certification, is an alternative to Hason. Its Supreme Court disposition (petition No. 99-423) is not confirmed, and OT1999 is closed, so Hason is the cleaner vehicle.
 17. Are punitive or liquidated (double) damages available against a State under an Article I authorization?
     > Answer before: OT2001, Barnes v. Gorman.
@@ -915,7 +953,7 @@ Questions only. Under each, the landmarks it should be answered before.
 
 ### 4.4 Section 5
 
-25. When Article I already supports a suit, should the Court still decide §5 (the branch policy says no unless needed)?
+25. When Article I and §5 are both properly presented, apply each to the duty and enforcement it is invoked to support. A complete single ground may resolve the dispute; independently sufficient combined grounds are appropriate when both materially answer the contested coverage, enforcement or legal rationale. Article I success neither automatically excludes §5 nor requires a second holding.
     > Answer before: OT2000, Board of Trustees of the University of Alabama v. Garrett; OT2002, Nevada Department of Human Resources v. Hibbs; OT2011, Coleman v. Court of Appeals of Maryland.
 26. What record and fit does §5 require for duties on sovereign functions, and is review facial or as applied?
     > Answer before: OT2003, Tennessee v. Lane; OT2005, United States v. Georgia.
@@ -933,22 +971,22 @@ These are side questions the Article I rule opened that no landmark will answer 
 
 #### Notes on the cleanup questions and the pending decisions
 
-The candidate answers below are analysis to be accepted, changed or rejected; none is an approved Stone position.
+The remaining candidate answers below are identified as such. The separate and combined treatment of Article I and §5 follows the working foundation; Garrett supplies the completed Title I application from February 21, 2001.
 
-- The valid-duty limit (question 14): The limit excludes commandeering (Congress cannot order a legislature to legislate, so it cannot authorize damages for refusing) and duties outside the enumerated power. The rule implies this; no decision says it.
+- The valid-duty limit (question 14): An Article I enforcement measure cannot rest on an obligation Congress lacks power to impose, including a forbidden command that a state legislature enact federal policy. Garrett expressly applies the valid-duty and valid-enforcement requirements to Title I from February 21, 2001.
 - Unmistakable authorization (question 15): Kimel Pt I found the ADEA clear, statute-specific. Candidate: the text must refer to States or their immunity expressly.
-- Sovereign functions (question 16): Candidate: the abrogation follows the duty; where the commerce power does not reach a sovereign function, Article I supplies neither the duty nor the suit, and §5 is the route. This is the line that keeps Lane and Georgia meaningful.
-- Remedy limits (question 17): "Award-specific limits" were left open. Candidate: compensatory damages follow from valid authorization; punitive damages against a State require their own clear statement and face a presumption against them, since punishing a sovereign falls on its taxpayers.
+- Sovereign functions (question 16): Abrogation follows a valid duty and authorized enforcement under the identified power. Courts, prisons and licensing have no blanket exemption; examine the particular activity and measure. Section 5 remains an independent enforcement power, including where no adequate Article I basis exists.
+- Remedy limits (question 17): "Award-specific limits" were left open. Candidate: compensatory damages require statutory authorization for that remedy; valid abrogation alone does not supply it. Punitive damages against a State require their own clear statement and face a presumption against them, since punishing a sovereign falls on its taxpayers.
 
-Landmarks this branch already pre-decided. The Article I rule is general: any Article I power, unmistakable authorization, valid duty. That already answers the central question of several later landmarks before they arrive, much as Vera did for districting:
+Effect of the Article I enforcement rule on later landmarks. A valid duty, constitutionally supported enforcement and unmistakable authorization supply an Article I route to suit. That rule changes the immunity premise of the cases below without deciding every source-specific, statutory or Section 5 question:
 
 | Landmark | Historical central question | Status here |
 |---|---|---|
 | Katz (OT2005) | Bankruptcy Clause abrogation | Pre-decided by Florida Prepaid Pt III |
 | Allen v. Cooper (OT2019) | Copyright abrogation | Pre-decided |
 | Torres v. Texas DPS (OT2021) | War-powers abrogation (USERRA) | Pre-decided |
-| Hibbs (OT2002), Coleman (OT2011) | FMLA damages against States under §5 | Answerable through Article I (FMLA is commerce legislation), so §5 need not be reached |
-| Garrett (OT2000) | ADA Title I damages under §5 | Same |
+| Hibbs (OT2002), Coleman (OT2011) | FMLA damages against States under §5 | Article I supplies an employment-enforcement route at the scope of its governing rule. Each provision's separately presented §5 justification requires its own analysis when material. |
+| Garrett (OT2000) | ADA Title I damages under §5 | Decided February 21, 2001 on independently sufficient Article I and §5 grounds for Title I. |
 
 These should be recorded in the case lists as changed landmarks under the causal rule, not left to arrive as if their questions were open.
 
@@ -956,27 +994,28 @@ What stays reserved:
 
 | Landmark | Reserved question | Why it stays open |
 |---|---|---|
-| Tennessee v. Lane (OT2003) | Is ADA Title II valid §5 legislation as applied to access to courts? | The real §5 test: a sovereign function Article I may not reach. |
-| United States v. Georgia (OT2005) | Title II damages for conduct that also violates the Constitution | Same. |
+| Tennessee v. Lane (OT2003) | Is ADA Title II valid §5 legislation as applied to access to courts? | Court-access rights and the fit of Title II require their own application; no blanket sovereign-function exemption is assumed. |
+| United States v. Georgia (OT2005) | Title II damages for conduct that also violates the Constitution | The prison application and constitutional violations require their own analysis; no blanket sovereign-function exemption is assumed. |
 | FMC v. South Carolina Ports Authority (OT2001) | Does immunity bar a federal agency from adjudicating a private complaint against a State? | Survives in changed form: here it becomes whether the statute clearly authorizes the agency forum. |
 | Barnes v. Gorman (OT2001) | Punitive damages under Title II and §504 | A spending-contract question distinct from question 17, which concerns Article I authorization. Do not close question 17 in a way that decides Barnes. |
 | Sossamon (OT2010) | Does consent to suit by accepting funds include consent to damages? | Spending-consent scope; reserved. |
 | PennEast (OT2020) | May the United States delegate its eminent-domain power to sue States to private parties? | A different theory (structural consent); reserved. |
 | Shelby County (OT2012), NAMUDNO (OT2008) | The Fifteenth Amendment enforcement standard; coverage formula; bailout | Boerne reserved Fifteenth Amendment power and Lopez II adopted no separate justification. No vehicle should choose the standard. |
 
-Garrett under the branch policy:
+Garrett's independent grounds, effective February 21, 2001:
+
 1. Did Congress clearly authorize suit? The ADA says a State "shall not be immune under the eleventh amendment" (42 U.S.C. §12202). Yes.
 2. Is Title I's duty within Article I as applied to States? Title I regulates employment, and Garcia and EEOC v. Wyoming let Congress regulate state employment under the commerce power. Kimel already says so. Yes.
-3. The damages claims therefore proceed on Article I alone.
-4. Under the branch policy, Stone should not also reach §5. The earlier suggestion to bank a §5 holding as insurance is withdrawn: it would decide disability's §5 status in a case that does not need it and pre-decide part of Lane. The cost is losing a second foundation if the five-vote Article I rule is later narrowed; Lane remains the place to build §5.
-5. The Title II employment portion: the earlier plan under Garrett in section 2 would dismiss it as improvidently granted because statutory coverage was not briefed. That also keeps Lane's ground clear.
+3. Article I independently supports allowing the expressly authorized Title I actions to proceed; ordinary coverage, defenses, liability and remedy requirements remain.
+4. Section 5 also supplies an independently sufficient ground. The constitutional prohibition on irrational disability prejudice and the evidence of state-employment exclusion support congruent and proportional prevention through Title I's bounded duties and defenses. This alternative ground supports the same authorized action without duplicate compensation, a new constitutional disability tier or an individual constitutional-tort prerequisite.
+5. The judgment is confined to Title I. Title II employment coverage and abrogation are outside it; no Title II dismissal or abandonment is ordered.
 
 ### 4.6 Decisions pending
 
 The pre-decided landmarks, the reservations and the Garrett analysis referred to below are set out in 4.5.
 
 1. Close questions 14 to 17 by vehicle before Lane (OT2003), in that order of priority.
-2. Garrett on Article I alone.
+2. Apply Garrett's independently sufficient Article I and §5 grounds at their stated Title I scope from February 21, 2001.
 3. Mark the pre-decided landmarks as changed in the case lists.
 4. Confirm the reservations, especially Shelby County's Fifteenth Amendment standard.
 
