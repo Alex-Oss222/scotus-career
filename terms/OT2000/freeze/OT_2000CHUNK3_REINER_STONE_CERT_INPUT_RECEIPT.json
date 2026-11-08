@@ -1,0 +1,66 @@
+{
+  "stage": "Conditional neutral petition-stage default; excluded from non-Stone reconciliation",
+  "inputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_LATE.md",
+      "bytes": 31869,
+      "sha256": "7e2fe5d1884906057ea20a4c7194e510c1a5e49f133baf3b200ff0cb64815080",
+      "matches_preflight": true
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_ADDENDUM.md",
+      "bytes": 16100,
+      "sha256": "50c23d7d848ff48dfc5384954b185ba18445b24760a4b4dc3d75f688af243dc6",
+      "matches_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE.md",
+      "bytes": 53457,
+      "sha256": "cd024da1f8567434a0b4328389b2ae9d12714c8bb8c77f65d18870a325d3ed26",
+      "matches_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_CURRENT_PUBLIC.md",
+      "bytes": 5296,
+      "sha256": "b0bcf2dca3b768f27e3cc50e0a15a0294693ab2a75ed33abb489b89ae6816ba7",
+      "matches_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_PUBLIC_PRIORS.md",
+      "bytes": 18922,
+      "sha256": "d3f2bf16250c1789d0aec4cfdf9ab6986d6d1c3b436a0ccb985941bca390c4bb",
+      "matches_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_STATUTES.md",
+      "bytes": 6048,
+      "sha256": "ab7b92e0a3eb95e82fa1c00c411d82d154f137382c10c1301b702befd7163f79",
+      "matches_preflight": true
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 34310,
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "bytes": 91525,
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_PREFLIGHT_VALIDATION.md",
+      "bytes": 6419,
+      "sha256": "cb147a1f07aa8c1bfe3957e439eafbde08b419d1cc125fd0ccdc0fdf309c998f"
+    }
+  ],
+  "output": {
+    "path": "terms/OT2000/freeze/OT_2000CHUNK3_REINER_STONE_CERT.md",
+    "bytes": 3758,
+    "sha256": "6ac3abe26ddde1c69b009ebf5b0845aa7cd704d754d6926772984f60a0039855"
+  },
+  "scope": "Only the conditional neutral petition-stage position; no merits position or private material.",
+  "checks": {
+    "forbidden_tokens_and_local_machine_links": "No findings in the output.",
+    "conditional_application": "Assembly must establish whether the default applies."
+  }
+}

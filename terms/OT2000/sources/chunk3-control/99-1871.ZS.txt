@@ -1,0 +1,45 @@
+Source: https://www.law.cornell.edu/supct/html/99-1871.ZS.html
+
+DEPARTMENT OF INTERIOR V. KLAMATHWATER USERS PROTECTIVE ASSN.
+
+LII
+
+Supreme Court
+
+DEPARTMENT OF INTERIOR V. KLAMATHWATER USERS PROTECTIVE ASSN. (99-1871)
+189 F.3d 1034, affirmed.
+Syllabus
+Opinion
+[ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+DEPARTMENT OF THE INTERIOR et al. v. KLAMATH WATER USERS PROTECTIVE ASSOCIATION
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 99—1871. Argued January 10, 2001–Decided March 5, 2001
+
+The Department of the Interior’s Bureau of Reclamation (Reclamation) administers the Klamath Irrigation Project (Project), which uses water from the Klamath River Basin to irrigate parts of Oregon and California. After the Department began developing the Klamath Project Operation Plan (Plan) to provide water allocations among competing uses and users, the Department asked the Klamath and other Indian Tribes (Basin Tribes or Tribes) to consult with Reclamation on the matter. A memorandum of understanding between those parties called for assessment, in consultation with the Tribes, of the impacts of the Plan on tribal trust resources. During roughly the same period, the Department’s Bureau of Indian Affairs (Bureau) filed claims on behalf of the Klamath Tribe in an Oregon state-court adjudication intended to allocate water rights. Since the Bureau is responsible for administering land and water held in trust for Indian tribes, it consulted with the Klamath Tribe, and the two exchanged written memorandums on the appropriate scope of the claims ultimately submitted by the Government for the benefit of the Tribe. Respondent Klamath Water Users Protective Association (Association) is a nonprofit group, most of whose members receive water from the Project and have interests adverse to the tribal interests owing to scarcity of water. The Association filed a series of requests with the Bureau under the Freedom of Information Act (FOIA), 5 U.S.C. § 552 seeking access to communications between the Bureau and the Basin Tribes. The Bureau turned over several documents, but withheld others under the attorney work product and deliberative process privileges that are said to be incorporated in FOIA Exemption 5, which exempts from disclosure “inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency,” §552(b)(5). The Association then sued the Bureau under FOIA to compel release of the documents. The District Court granted the Government summary judgment. The Ninth Circuit reversed, ruling out any application of Exemption 5 on the ground that the Tribes with whom the Department has a consulting relationship have a direct interest in the subject matter of the consultations. The court said that to hold otherwise would extend Exemption 5 to shield what amount to ex parte communications in contested proceedings between the Tribes and the Department.
+
+Held: The documents at issue are not exempt from FOIA’s disclosure requirements as “inter-agency or intra-agency memorandums or letters.” Pp. 4—14.
+
+(a) Consistent with FOIA’s goal of broad disclosure, its exemptions have been consistently given a narrow compass. E.g., Department of Justice v. Tax Analysts, 492 U.S. 136, 151. Pp. 4—5.
+
+(b) To qualify under Exemption 5’s express terms, a document must satisfy two conditions: its source must be a Government agency, and it must fall within the ambit of a privilege against discovery under judicial standards that would govern litigation against the agency that holds the document. This Court’s prior Exemption 5 cases have addressed the second condition, and have dealt with the incorporation of civil discovery privileges. So far as they matter here, those privileges include the privilege for attorney work product and the so-called “deliberative process” privilege, which covers documents reflecting advisory opinions, recommendations, and deliberations that are part of a process by which Government decisions and policies are formulated. NLRB v. Sears, Roebuck & Co., 421 U.S. 132, 150. The point of Exemption 5 is not to protect Government secrecy pure and simple, and the Exemption’s first condition is no less important than the second; the communication must be “inter-agency or intra-agency,” 5 U.S.C. § 552(b)(5). “[A]gency” is defined to mean “each authority of the Government,” §551(1), and includes entities such as Executive Branch departments, military departments, Government corporations, Government-controlled corporations, and independent regulatory agencies, §552(f). Although Exemption 5’s terms and the statutory definitions say nothing about communications with outsiders, some Courts of Appeals have held that a document prepared for a Government agency by an outside consultant qualifies as an “intra-agency” memorandum. In such cases, the records submitted by outside consultants played essentially the same part in an agency’s deliberative process as documents prepared by agency personnel. The fact about the consultant that is constant in the cases is that the consultant does not represent its own interest, or the interest of any other client, when it advises the agency that hires it. Its only obligations are to truth and its sense of what good judgment calls for, and in those respects it functions just as an employee would be expected to do. Pp. 5—8.
+
+(c) The Department misplaces its reliance on this consultant corollary to Exemption 5. The Department’s argument skips a necessary step, for it ignores the first condition of Exemption 5, that the communication be “intra-agency or inter-agency.” There is no textual justification for draining that condition of independent vitality. Once the intra-agency condition is applied, it rules out any application of Exemption 5 to tribal communications on analogy to consultants’ reports (assuming, which the Court does not decide, that these reports may qualify as intra-agency under Exemption 5). Consultants whose communications have typically been held exempt have not communicated with the Government in their own interest or on behalf of any person or group whose interests might be affected by the Government action addressed by the consultant. In that regard, consultants may be enough like the agency’s own personnel to justify calling their communications “intra-agency.” The Tribes, on the contrary, necessarily communicate with the Bureau with their own, albeit entirely legitimate, interests in mind. While this fact alone distinguishes tribal communications from the consultants’ examples recognized by several Circuits, the distinction is even sharper, in that the Tribes are self-advocates at the expense of others seeking benefits inadequate to satisfy everyone. As to those documents bearing on the Plan, the Tribes are obviously in competition with nontribal claimants, including those irrigators represented by the respondent. While the documents at issue may not take the formally argumentative form of a brief, their function is quite apparently to support the tribal claims. The Court rejects the Department’s assertion that the Klamath Tribe’s consultant-like character is clearer in the circumstances of the Oregon adjudication, where the Department merely represents the interests of the Tribe before a state court that will make any decision about the respective rights of the contenders. Again, the dispositive point is that the apparent object of the Tribe’s communications is a decision by a Government agency to support a claim by the Tribe that is necessarily adverse to the interests of competitors because there is not enough water to satisfy everyone. The position of the Tribe as Government beneficiary is a far cry from the position of the paid consultant. The Court also rejects the Department’s argument that compelled release of the documents at issue would impair the Department’s performance of its fiduciary obligation to protect the confidentiality of communications with tribes. This boils down to requesting that the Court read an “Indian trust” exemption into the statute. There is simply no support for that exemption in the statutory text, which must be read strictly to serve FOIA’s mandate of broad disclosure. Pp. 8—14.
+
+189 F.3d 1034, affirmed.
+
+Souter, J., delivered the opinion for a unanimous Court.

@@ -1,0 +1,89 @@
+Source: https://www.law.cornell.edu/supct/html/92-9059.ZS.html
+
+Simmons v. South Carolina, 512 U.S. 154 (1994).
+LII
+Supreme Court
+Simmons v. South Carolina (92-9059), 512 U.S. 154 (1994).
+Opinion
+[ Blackmun ]Concurrence
+[ O'Connor ]Syllabus
+Dissent
+[ Scalia ]Concurrence
+[ Souter ]Concurrence
+[ Ginsburg ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+SIMMONS v. SOUTH CAROLINA
+certiorari to the supreme court of south carolina
+No. 92-9059.    Argued January 18, 1994 -- Decided June 17, 1994
+During the penalty phase of petitioner's South Carolina trial, the
+State argued that his future dangerousness was a factor for the
+jury to consider when deciding whether to sentence him to death
+or life imprisonment for the murder of an elderly woman.  In
+rebuttal, petitioner presented evidence that his future dangerousness was limited to elderly women and thus there was no reason
+to expect violent acts from him in prison.  However, the court
+refused to give the jury his proposed instruction that under state
+law he was ineligible for parole.  When asked by the jury whether
+life imprisonment carried with it the possibility of parole, the court
+instructed the jury not to consider parole in reaching its verdict
+and that the terms life imprisonment and death sentence were to
+be understood to have their plain and ordinary meaning.  The jury
+returned a death sentence.  On appeal, the State Supreme Court
+concluded that regardless of whether a trial court's refusal to
+inform a sentencing jury about a defendant's parole ineligibility
+might ever be error, the instruction given to petitioner's jury
+satisfied in substance his request for a charge on such ineligibility.
+Held:  The judgment is reversed, and the case is remanded.
+___ S. C. ___, 427 S. E. 2d 175, reversed and remanded.
+Justice Blackmun, joined by Justice Stevens, Justice Souter, and Justice Ginsburg, concluded:
+1.  Where a defendant's future dangerousness is at issue, and
+state law prohibits his release on parole, due process requires that
+the sentencing jury be informed that the defendant is parole
+ineligible.  An individual cannot be executed on the basis of
+information which he had no opportunity to deny or explain.
+Gardner v. Florida, 430 U.S. 349, 362.  Petitioner's jury reasonably may have believed that he could be released on parole if hewere not executed.  To the extent that this misunderstanding
+pervaded its deliberations, it had the effect of creating a false
+choice between sentencing him to death and sentencing him to a
+limited period of incarceration.  The trial court's refusal to apprise
+the jury of information so crucial to its determination, particularly
+when the State alluded to the defendant's future dangerousness in
+its argument, cannot be reconciled with this Court's well established precedents interpreting the Due Process Clause.  See, e.g.,
+Skipper v. South Carolina, 476 U.S. 1.  Pp. 7-15.
+2.  The trial court's instruction that life imprisonment was to be
+understood in its plain and ordinary meaning did not satisfy
+petitioner's request for a parole ineligibility charge, since it did
+nothing to dispel the misunderstanding reasonable jurors may
+have about the way in which any particular State defines "life
+imprisonment."  Pp. 15-17.
+Justice O'Connor, joined by The Chief Justice and Justice
+Kennedy, concluded that where the State puts a defendant's
+future dangerousness in issue, and the only available alternative
+sentence to death is life imprisonment without possibility of parole,
+due process entitles the defendant to inform the sentencing jury--either by argument or instruction--that he is parole ineligible.
+If the prosecution does not argue future dangerousness, a State
+may appropriately decide that parole is not a proper issue for the
+jury's consideration even if the only alternative sentence to death
+is life imprisonment without the possibility of parole.  Here, the
+trial court's instruction did not satisfy petitioner's request for a
+parole ineligibility charge, since the rejection of parole is a recent
+development displacing the longstanding practice of parole availability, and since common sense dictates that many jurors might
+not know whether a life sentence carries with it the possibility of
+parole.  Pp. 1-4.
+Blackmun, J., announced the judgment of the Court and delivered
+an opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.
+Souter, J., filed a concurring opinion, in which Stevens, J., joined.
+Ginsburg, J., filed a concurring opinion.  O'Connor, J., filed an
+opinion concurring in the judgment, in which Rehnquist, C. J., and
+Kennedy, J., joined.  Scalia, J., filed a dissenting opinion, in which
+Thomas, J., joined.

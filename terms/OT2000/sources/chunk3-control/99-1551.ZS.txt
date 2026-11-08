@@ -1,0 +1,44 @@
+Source: https://www.law.cornell.edu/supct/html/99-1551.ZS.html
+
+SEMTEK INT’L INC. V. LOCKHEED MARTIN CORP.
+
+LII
+
+Supreme Court
+
+SEMTEK INT’L INC. V. LOCKHEED MARTIN CORP. (99-1551)
+128 Md. App. 39, 736 A. 2d 1104, reversed and remanded.
+Syllabus
+Opinion
+[ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+SEMTEK INTERNATIONAL INC. v. LOCKHEED
+MARTIN CORP.
+
+CERTIORARI TO THE COURT OF SPECIAL APPEALS OF MARYLAND
+
+No. 99—1551. Argued December 5, 2000–Decided February 27, 2001
+
+Respondent removed petitioner’s California state-court suit to a California Federal District Court based on diversity of citizenship, and successfully moved to dismiss the case “on the merits” as barred by California’s statute of limitations. Petitioner then brought suit in a Maryland Circuit Court, alleging the same causes of action, which were not time barred under Maryland’s statute of limitations. That court dismissed the case on the ground of res judicata. In affirming, the Maryland Court of Special Appeals held that, regardless of whether California would have accorded claim-preclusive effect to a statute-of-limitations dismissal by one of its own courts, the California federal court’s dismissal barred the Maryland complaint because the res judicata effect of federal diversity judgments is prescribed by federal law, under which the earlier dismissal was on the merits and claim-preclusive.
+
+Held: Because the claim-preclusive effect of a federal court’s dismissal “upon the merits” of a diversity action on state statute-of-limitations grounds is governed by a federal rule, which in turn (in diversity cases) incorporates the claim-preclusion law that would be applied by state courts in the State in which the federal court sits, the Maryland Court of Special Appeals erred in holding that the California federal court’s dismissal “upon the merits” necessarily precluded the Maryland state-court action. Pp. 2—12.
+
+(a) Dupasseur v. Rochereau, 21 Wall. 130, held that the res judicata effect of a federal diversity judgment “is such as would belong to judgments of the State courts rendered under similar circumstances,” id., at 135. That case is not dispositive here, however, because it was decided under the Conformity Act of 1872, which required federal courts to apply the procedural law of the forum State in nonequity cases. Neither is claim-preclusive effect demanded by Rule 41(b)–which provides that, unless the court “otherwise specifies,” an involuntary dismissal, other than a dismissal for lack of jurisdiction, improper venue, or failure to join a party under Rule 19, “operates as an adjudication upon the merits.” Although the original connotation of a judgment “on the merits” was one that passes directly on the substance of a claim (which would be claim-preclusive), the meaning of the term has undergone change, and does not necessarily designate a judgment effecting claim preclusion. There are a number of reasons for believing it does not bear that meaning in Rule 41(b). It would be peculiar to announce a federally prescribed rule on claim preclusion in a default rule for determining a dismissal’s import, or to find a rule governing the effect to be accorded federal judgments by other courts ensconced in rules governing the internal procedures of the rendering court itself. Moreover, as so interpreted, the Rule would in many cases violate the federalism principle of Erie R. Co. v. Tompkins, 304 U.S. 64, 78—80, by engendering substantial variations in outcomes between state and federal litigation which would likely influence forum choice, Hanna v. Plumer, 380 U.S. 460, 467—468. Finally, this Court has never relied upon the Rule when recognizing the claim-preclusive effect of federal judgments in federal-question cases. Rule 41(a) makes clear that “an adjudication upon the merits” in Rule 41(b) is the opposite of a dismissal without prejudice–that is, it is a dismissal that prevents refiling of the claim in the same court. That is undoubtedly a necessary condition, but not a sufficient one, for claim-preclusive effect in other courts. Pp. 2—9.
+
+(b) Federal common law governs the claim-preclusive effect of a dismissal by a federal court sitting in diversity, and it is up to this Court to determine the appropriate federal rule. Since in diversity cases state, rather than federal, substantive law is at issue, there is no need for a uniform federal rule; and nationwide uniformity is better served by having the same claim-preclusive rule (the state rule) apply whether the dismissal has been ordered by a state or a federal court. Any other rule would produce the sort of forum shopping and inequitable administration of the laws that Erie seeks to avoid. While the federal reference to state law will not obtain in situations in which the state law is incompatible with federal interests, no such conflict exists here. Pp. 9—12.
+
+128 Md. App. 39, 736 A. 2d 1104, reversed and remanded.
+
+Scalia, J., delivered the opinion for a unanimous Court.

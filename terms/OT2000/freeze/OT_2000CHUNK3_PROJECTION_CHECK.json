@@ -1,0 +1,29 @@
+{
+  "completed_chunk_events": 13,
+  "stopped": {
+    "Shafer v. South Carolina": "Approval is needed for Stone's judgment and remand scope after the corrected record establishes repeated until-death instructions and permitted natural-life defense argument, together with the later direction excluding parole eligibility from consideration. The existing approval does not decide whether that combined presentation was adequate, conditionally inadequate, or should be assessed on remand."
+  },
+  "completed_term_events": 40,
+  "latest_effective_date": "2001-03-19",
+  "public_source_records": [
+    "Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md",
+    "Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md",
+    "Central_Green_Co_v_United_States_merits_2001-02-21.md",
+    "Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md",
+    "United_States_v_Tank_merits_2001-02-21.md",
+    "Freedom_From_Religion_Foundation_v_City_of_Marshfield_merits_2001-02-27.md",
+    "Semtek_International_v_Lockheed_Martin_merits_2001-02-27.md",
+    "Whitman_v_American_Trucking_Associations_merits_2001-02-27.md",
+    "Cook_v_Gralike_merits_2001-02-28.md",
+    "Legal_Services_Corp_v_Velazquez_merits_2001-02-28.md",
+    "Department_of_the_Interior_v_Klamath_Water_Users_Protective_Association_merits_2001-03-05.md",
+    "Ohio_v_Reiner_summary-disposition_2001-03-19.md",
+    "United_States_v_Hilario_merits_2001-03-19.md"
+  ],
+  "workspace_hashes": {
+    "manifest.md": "7af9a91f4b3b32ca4be669c18398be05b330f1d94fe4ec33a167a8067aa1df00",
+    "continuity.md": "31fbca0a0258694ba9cbfe4ff5df232e368fbcd0665af95abec6c8b859012eff",
+    "neutral-projection.md": "2a7861013872e9298482eae60367f396d9aa9c2354e69ee949239f262c056a87"
+  },
+  "method": "Cumulative entering projections retained; added holding, precedent, published-writing and procedure text copied from each new Public Projection; scope and remaining-matter descriptions updated. Manifest current-stage and procedural-dependency cells copy the completed public actions and procedures; pending-matter dependency notices state that no decision exists."
+}

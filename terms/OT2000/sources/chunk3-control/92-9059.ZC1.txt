@@ -1,0 +1,102 @@
+Source: https://www.law.cornell.edu/supct/html/92-9059.ZC1.html
+
+Simmons v. South Carolina, 512 U.S. 154 (1994).
+LII
+Supreme Court
+Simmons v. South Carolina (92-9059), 512 U.S. 154 (1994).
+Opinion
+[ Blackmun ]Concurrence
+[ O'Connor ]Syllabus
+Dissent
+[ Scalia ]Concurrence
+[ Souter ]Concurrence
+[ Ginsburg ]HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+SUPREME COURT OF THE UNITED STATES
+No. 92-9059
+JONATHAN DALE SIMMONS, PETITIONER v. SOUTH CAROLINA
+on writ of certiorari to the supreme court of
+south carolina
+[June 17, 1994]
+Justice  Souter, with whom Justice Stevens joins,
+concurring.
+I join in Justice Blackmun's opinion that, at least
+when future dangerousness is an issue in a capital
+sentencing determination, the defendant has a due
+process right to require that his sentencing jury be
+informed of his ineligibility for parole.  I write separately because I believe an additional, related principle
+also compels today's decision, regardless of whether
+future dangerousness is an issue at sentencing.
+The Eighth Amendment entitles a defendant to a jury
+capable of a reasoned moral judgment about whether
+death, rather than some lesser sentence, ought to be
+imposed.  The Court has explained that the Amendment
+imposes a heightened standard "for reliability in the
+determination that death is the appropriate punishment
+in a specific case," Woodson v. North Carolina, 428 U.S. 280, 305 (1976) (opinion of Stewart, Powell, and
+Stevens, JJ.); see also, e.g., Godfrey v. Georgia, 446 U.S. 420, 427-428 (1980); Mills v. Maryland, 486 U.S. 367, 383-384 (1988).  Thus, it requires provision of  "accurate sentencing information [as] an indispensable
+prerequisite to a reasoned determination of whether a
+defendant shall live or die," Gregg v. Georgia, 428 U.S. 153, 190 (1976) (opinion of Stewart, Powell, andStevens, JJ.), and invalidates "procedural rules that
+ten[d] to diminish the reliability of the sentencing
+determination," Beck v. Alabama, 447 U.S. 625, 638
+(1980).
+That same need for heightened reliability also mandates recognition of a capital defendant's right to require
+instructions on the meaning of the legal terms used to
+describe the sentences (or sentencing recommendations)
+a jury is required to consider, in making the reasoned
+moral choice between sentencing alternatives.  Thus,
+whenever there is a reasonable likelihood that a juror
+will misunderstand a sentencing term, a defendant may
+demand instruction on its meaning, and a death sentence following the refusal of such a request should be
+vacated as having been "arbitrarily or capriciously" and  "wantonly and . . . freakishly imposed."  Furman v.
+Georgia, 408 U.S. 238, 249 (1972) (Douglas, J., concurring); id., at 310 (Stewart, J., concurring).
+While I join the other Members of the Court's majority
+in holding that, at least, counsel ought to be permitted
+to inform the jury of the law that it must apply, see
+ante, at 15 (plurality opinion); post, at 1 (Ginsburg, J.,
+concurring); post, at 3-4 (O'Connor, J., concurring in
+judgment), I also accept the general rule that, on
+matters of law, arguments of counsel do not effectively
+substitute for statements by the court.
+"[A]rguments of counsel generally carry less weight
+with a jury than do instructions from the court.
+The former are usually billed in advance to the jury
+as matters of argument, not evidence, and are likely
+viewed as the statements of advocates; the latter, we
+have often recognized, are viewed as definitive and
+binding statements of the law."  Boyde v. California,
+494 U.S. 370, 384 (1990) (citation omitted).
+I would thus impose that straightforward duty on the
+court.
+Because Justice Blackmun persuasively demonstrates
+that juries in general are likely to misunderstand the
+meaning of the term "life imprisonment" in a given
+context, see ante, at 4-5, 15-16, and n. 9, the judge
+must tell the jury what the term means, when the
+defendant so requests.  It is, moreover, clear that at
+least one of these particular jurors did not understand
+the meaning of the term, since the jury sent a note to
+the judge asking, "Does the imposition of a life sentence
+carry with it the possibility of parole?"  Ante, at 5, 16,
+n. 10.  The answer here was easy and controlled by
+state statute.  The judge should have said no.  Justice
+Blackmun shows that the instruction actually given was
+at best a confusing, "equivocal direction to the jury on
+a basic issue," Bollenbach v. United States, 326 U.S. 607, 613 (1946), and that "there is a reasonable likelihood that the jury has applied the challenged instruction
+in a way" that violated petitioner's rights.  Boyde, supra,
+at 380.  By effectively withholding from the jury the life without parole alternative, the trial court diminished the
+reliability of the jury's decision that death, rather than
+that alternative, was the appropriate penalty in this
+case.
+While States are, of course, free to provide more
+protection for the accused than the Constitution requires, see California v. Ramos, 463 U.S. 992, 1014
+(1983), they may not provide less.  South Carolina did
+so here.  For these reasons, as well as those set forth by
+Justice Blackmun, whose opinion I join, the judgment
+of the Supreme Court of South Carolina must be
+reversed.

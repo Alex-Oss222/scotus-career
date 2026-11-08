@@ -1,0 +1,51 @@
+Source: https://www.law.cornell.edu/supct/html/99-929.ZS.html
+
+COOK V. GRALIKE
+
+LII
+
+Supreme Court
+
+COOK V. GRALIKE (99-929)
+191 F.3d 911, affirmed.
+Syllabus
+Opinion
+[ Stevens ]Concurrence
+[ Kennedy ]Concurrence
+[ Thomas ]Concurrence
+[ Rehnquist ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+COOK v. GRALIKE et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 99—929. Argued November 6, 2000–Decided February 28, 2001
+
+In U.S. Term Limits, Inc. v. Thornton, 514 U.S. 779, the Court held that an Arkansas law prohibiting otherwise eligible congressional candidates from appearing on the general election ballot if they had already served two Senate terms or three House terms was an impermissible attempt to add qualifications to congressional office rather than a permissible exercise of the State’s Elections Clause power to regulate the “Times, Places and Manner of holding Elections for Senators and Representatives,” U.S. Const., Art., I, §4, cl. 1. In response, Missouri voters adopted an amendment to Article VIII of their State Constitution designed to bring about a specified “Congressional Term Limits Amendment” to the Federal Constitution. Among other things, Article VIII “instruct[s]” Missouri Congress Members to use all their powers to pass the federal amendment; prescribes that “DISREGARDED VOTERS’ INSTRUCTION ON TERM LIMITS” be printed on ballots by the names of Members failing to take certain legislative acts in support of the proposed amendment; provides that “DECLINED TO PLEDGE TO SUPPORT TERM LIMITS” be printed by the names of nonincumbent candidates refusing to take a “Term Limit” pledge to perform those acts if elected; and directs the Missouri Secretary of State (Secretary), the petitioner here, to determine and declare whether either statement should be printed by candidates’ names. Respondent Gralike, a nonincumbent House candidate, sued to enjoin petitioner from implementing Article VIII on the ground it violated the Federal Constitution. The District Court granted Gralike summary judgment, and the Eighth Circuit affirmed.
+
+Held: Article VIII is unconstitutional. Pp. 6—15.
+
+(a) Because petitioner’s arguments that Article VIII is an exercise of the people’s right to instruct their representatives reserved by the Tenth Amendment, as well as a permissible regulation of the “manner” of electing federal legislators under the Elections Clause, rely on different sources of state power, the Court reviews the distinction in kind between reserved state powers and those delegated to the States by the Constitution. The Constitution draws a basic distinction between the powers of the newly created Federal Government and the powers retained by the pre-existing sovereign States. U.S. Term Limits, 514 U.S., at 801. On the one hand, such retained powers proceed, not from the American people, but from the people of the several States. They remain, after the Constitution’s adoption, what they were before, except insofar as they are abridged by that instrument. Sturges v. Crowninshield, 4 Wheat. 122, 193. On the other hand, the States can exercise no powers springing exclusively from the National Government’s existence which the Constitution did not delegate. Pp. 6—8.
+
+(b) Petitioner’s argument that Article VIII is a valid exercise of the State’s reserved power to give binding instructions to its representatives is unpersuasive for three reasons. First, the historical precedents on which she relies–concerning the part instructions played in the Second Continental Congress, the Constitutional Convention, the early Congress, the selection of United States Senators before the Seventeenth Amendment’s passage, and the ratification of certain federal constitutional amendments–are distinguishable because, unlike Article VIII, none of petitioner’s examples was coupled with an express legal sanction for disobedience. Second, countervailing historical evidence is provided by the fact that the First Congress rejected a proposal to insert a right of the people “to instruct their representatives” into what would become the First Amendment. Third, and of decisive significance, the means employed to issue the instructions, ballots for congressional elections, are unacceptable unless Article VIII is a permissible exercise of the State’s power to regulate the manner of holding congressional elections. Pp. 8—10.
+
+(c) The federal offices at stake arise from the Constitution itself. See U.S. Term Limits, 514 U.S., at 805. Because any state authority to regulate election to those offices could not precede their very creation by the Constitution, such power had to be delegated to the States, rather than reserved under the Tenth Amendment. Id., at 804. No constitutional provision other than the Elections Clause gives the States authority over congressional elections. By process of elimination then, the States may regulate the incidents of such elections, including balloting, only within the exclusive delegation of their Elections Clause power. The Court disagrees with petitioner’s argument that Article VIII is a valid exercise of that power in that it regulates the “manner” in which elections are held by disclosing information about congressional candidates. The Clause grants to the States “broad power” to prescribe the procedural mechanisms for holding congressional elections, e.g., Tashjian v. Republican Party of Conn., 479 U.S. 208, 217, but does not authorize them to dictate electoral outcomes, to favor or disfavor a class of candidates, or to evade important constitutional restraints, U.S. Term Limits, 514 U.S., at 833—834. Article VIII is not a procedural regulation. It does not control the “manner” of elections, for that term encompasses matters like notices, registration, supervision of voting, and other requirements as to procedure and safeguards which experience shows are necessary to enforce the fundamental right involved. See, e.g., Smiley v. Holm, 285 U.S. 355, 366. Rather, Article VIII is plainly designed to favor candidates who are willing to support the particular form of a term limits amendment set forth in its text and to disfavor those who either oppose term limits entirely or would prefer a different proposal. Cf. Anderson v. Celebrezze, 460 U.S. 780, 788, n. 9. It not only “instruct[s]” Missouri’s congressional Members to promote the passage of the specified term limits amendment, but also attaches a concrete consequence to noncompliance–the printing of an adverse label by the candidate’s name on ballots. The two labels impose substantial political risk on candidates who fail to comply with Article VIII, handicapping them at the most crucial stage in the election process–the instant before the vote is cast, Anderson v. Martin, 375 U.S. 399, 402. And, by directing the citizen’s attention to the single consideration of the candidates’ fidelity to term limits, the labels imply that the issue is an important–perhaps paramount–consideration in the citizen’s choice. Ibid. Article VIII thus attempts to “dictate electoral outcomes.” U.S. Term Limits, 514 U.S., at 833—834. Such “regulation” of congressional elections is not authorized by the Elections Clause. Pp. 11—15.
+
+191 F.3d 911, affirmed.
+
+Stevens, J., delivered the opinion of the Court, in which Scalia, Kennedy, Ginsburg, and Breyer, JJ., joined, in which Souter, J., joined, as to Parts I, II, and IV, and in which Thomas, J., joined as to Parts I and IV. Kennedy, J., filed a concurring opinion. Thomas, J., filed an opinion concurring in part and concurring in the judgment. Rehnquist, C. J., filed an opinion concurring in the judgment, in which O’Connor, J., joined.

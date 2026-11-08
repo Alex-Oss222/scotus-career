@@ -1,0 +1,55 @@
+Source: https://www.law.cornell.edu/supct/html/00-5250.ZS.html
+
+SHAFER V. SOUTH CAROLINA
+
+LII
+
+Supreme Court
+
+SHAFER V. SOUTH CAROLINA (00-5250)
+340 S. C. 291, 531 S. E. 2d 524, reversed and remanded.
+Syllabus
+Opinion
+[ Ginsburg ]Dissent
+[ Scalia ]Dissent
+[ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+SHAFER v. SOUTH CAROLINA
+
+CERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA
+
+No. 00—5250. Argued January 9, 2001–Decided March 20, 2001
+
+Under recent amendments to South Carolina law, capital jurors face two questions at the sentencing phase of the trial. They decide first whether the State has proved beyond a reasonable doubt the existence of any statutory aggravating circumstance. If the jury fails to agree unanimously on the presence of a statutory aggravator, it cannot make a sentencing recommendation. In that event, the trial judge is charged with sentencing the defendant to either life imprisonment or a mandatory minimum 30-year prison term. If, on the other hand, the jury unanimously finds a statutory aggravator, it then recommends one of two potential sentences–death or life imprisonment without the possibility of parole. No other sentencing option is available to the jury.
+
+A South Carolina jury found petitioner Shafer guilty of murder, armed robbery, and conspiracy. During the trial’s sentencing phase, Shafer’s counsel and the prosecutor disagreed on the application of Simmons v. South Carolina, 512 U.S. 154, to this case. This Court held in Simmons that where a capital defendant’s future dangerousness is at issue, and the only sentencing alternative to death available to the jury is life imprisonment without possibility of parole, due process requires that the jury be informed of the defendant’s parole ineligibility. Shafer’s counsel maintained that Simmons required the trial judge to instruct the jury that under South Carolina law a life sentence carries no possibility of parole. The prosecutor, in opposition, urged that no Simmons instruction was required because the State did not plan to argue to the jury that Shafer would be a danger in the future. Shafer’s counsel replied that the State had in fact put future dangerousness at issue by introducing evidence of a postarrest assault by Shafer and jail rules violations. The judge refused to charge on parole ineligibility, stating that future dangerousness had not been argued. The judge also denied Shafer’s counsel leave to read in his closing argument lines from the controlling statute stating plainly that a life sentence in South Carolina carries no possibility of parole. After the prosecution’s closing argument, Shafer’s counsel renewed his plea for a life without parole instruction on the ground that the State had placed future dangerousness at issue by repeating the statements of an alarmed witness at the crime scene that Shafer and his accomplices “might come back.” The trial judge again denied the request. Quoting a passage from the relevant statute but not the full text, the judge twice told the jury that “life imprisonment means until the death of the defendant.” During its sentencing deliberations, the jury asked the judge whether, and under what circumstances, someone convicted of murder could become eligible for parole. The judge responded that “[p]arole eligibility or ineligibility is not for your consideration.” The jury unanimously found beyond a reasonable doubt the aggravating factor of murder while attempting armed robbery, and recommended the death penalty, which the judge imposed.
+
+The South Carolina Supreme Court affirmed. Without considering whether the prosecutor’s evidentiary submissions or closing argument in fact placed Shafer’s future dangerousness at issue, the court held Simmons generally inapplicable to the State’s “new sentencing scheme.” Simmons is not triggered, the South Carolina court said, unless life without parole is the only legally available sentence alternative to death. Currently, the court observed, when a capital jury begins its sentencing deliberations, three alternative sentences are available: (1) death, (2) life without the possibility of parole, or (3) a mandatory minimum 30-year sentence. Since an alternative to death other than life without the possibility of parole exists, the court concluded, Simmons no longer constrains capital sentencing in South Carolina.
+
+Held:
+
+1. The South Carolina Supreme Court incorrectly interpreted Simmons when it declared the case inapplicable to South Carolina’s current sentencing scheme. That court’s reasoning might be persuasive if the jury’s sentencing discretion actually encompassed the three choices the court identified: death, life without the possibility of parole, or a mandatory minimum 30-year sentence. But, that is not how the State’s new scheme works. Under the law now governing sentencing proceedings, if the jury finds an aggravating circumstance, it must recommend a sentence, and its choices are limited to death and life without parole. When the jury makes the threshold determination whether a statutory aggravator exists, a tightly circumscribed factual inquiry, none of Simmons’ due process concerns yet arise. At that stage, there are no “misunderstanding[s]” to avoid, no “false choice[s]” to guard against. See Simmons, 512 U.S., at 161 (plurality opinion). The jury, as aggravating circumstance factfinder, exercises no sentencing discretion itself. If no aggravator is found, the judge takes over and has sole authority to impose the mandatory minimum so heavily relied upon by the State Supreme Court. It is only when the jury endeavors the moral judgment whether to impose the death penalty that parole eligibility may become critical. Correspondingly, it is only at that stage that Simmons comes into play, a stage at which South Carolina law provides no third choice, no 30-year mandatory minimum, just death or life without parole. See Ramdass v. Angelone, 530 U.S. 156, 169. Thus, whenever future dangerousness is at issue in a capital sentencing proceeding under South Carolina’s new scheme, due process requires that the jury be informed that a life sentence carries no possibility of parole. Pp. 10—14.
+
+2. South Carolina’s other grounds in support of the trial judge’s refusal to give Shafer’s requested parole ineligibility instruction are unavailing. Pp. 14—17.
+
+(a) The State’s argument that the jury was properly informed of the law on parole ineligibility by the trial court’s instructions and by defense counsel’s own argument is unpersuasive. To support that contention, the State sets out defense counsel’s closing pleas that, if Shafer’s life is spared, he will die in prison after spending his natural life there, as well as passages from the trial judge’s instructions reiterating that life imprisonment means until the death of the defendant. Displacement of the longstanding practice of parole availability remains a relatively recent development, and common sense indicates that many jurors might not know whether a life sentence carries with it the possibility of parole. Simmons, 512 U. S, at 177—178 (O’Connor, J., concurring in judgment). Indeed, until two years before Shafer’s trial, South Carolina’s law did not categorically preclude parole for capital defendants sentenced to life imprisonment. Most plainly contradicting the State’s contention, the jury’s written request for further instructions on the question left no doubt about the jury’s failure to gain from defense counsel’s closing argument or the judge’s instructions any clear understanding of what a life sentence means. Cf., e.g., id., at 178. The jury’s comprehension was hardly aided by the court’s final instruction declaring that parole eligibility was not for the jury’s consideration. That instruction did nothing to ensure that the jury was not misled and may well have been taken to mean that parole was available but that the jury, for some unstated reason, should be blind to this fact. E.g., id., at 170 (plurality opinion). Thus, although a life sentence for Shafer would permit no parole or other release under current state law, this reality was not conveyed to Shafer’s jury by the court’s instructions or by the arguments defense counsel was allowed to make. Pp. 14—16.
+
+(b) The State’s contention that no parole ineligibility instruction was required under Simmons because the State never argued that Shafer would pose a future danger to society presents an issue that is not ripe for this Court’s resolution. The State Supreme Court, in order to rule broadly that Simmons no longer governs capital sentencing in the State, apparently assumed, arguendo, that future dangerousness had been shown at Shafer’s sentencing proceeding. Because that court did not home in on the question whether the prosecutor’s evidentiary submissions or closing argument in fact placed Shafer’s future dangerousness at issue, the question is left open for the state court’s attention and disposition. Pp. 16—17.
+
+340 S. C. 291, 531 S. E. 2d 524, reversed and remanded.
+
+Ginsburg, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Kennedy, Souter, and Breyer, JJ., joined. Scalia, J., and Thomas, J., filed dissenting opinions.

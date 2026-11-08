@@ -1,0 +1,26 @@
+{
+  "artifacts": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_RECONCILED_LATE_PARTIAL.md",
+      "bytes": 15325,
+      "sha256": "f6fe09462b966c5d865f1dc8fd33d66405173792d0a05ab4686648fdb034304d"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_CONTROL_FACTS.md",
+      "bytes": 4111,
+      "sha256": "c2d6f6c80b9944190e3e682fde4cedacd54ee366056795b611ea7f97290ea15b"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_RECONCILIATION_LATE_SOURCE_RECEIPT.json",
+      "bytes": 5843,
+      "sha256": "6caf63be6a7d87c726d3c7e6c1422e1d7c7c6c69d19a75cd3aae5165e892fedb"
+    }
+  ],
+  "checks": {
+    "original_inputs_unchanged": true,
+    "no_judicial_identities_in_control_facts": true,
+    "output_hygiene": "No findings",
+    "final_reconciled_late_exists": false
+  },
+  "status": "Partial reconciliation only. Reiner and Hilario supported; affected Klamath and Shafer refresh pending."
+}

@@ -1,0 +1,105 @@
+{
+  "stage": "Refreshed independent non-Stone modeling of Klamath and Shafer only",
+  "inputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_LATE.md",
+      "role": "Original authorized substantive input",
+      "bytes": 31869,
+      "sha256": "7e2fe5d1884906057ea20a4c7194e510c1a5e49f133baf3b200ff0cb64815080",
+      "matches_original_preflight": true
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_ADDENDUM.md",
+      "role": "Original authorized substantive input",
+      "bytes": 16100,
+      "sha256": "50c23d7d848ff48dfc5384954b185ba18445b24760a4b4dc3d75f688af243dc6",
+      "matches_original_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE.md",
+      "role": "Original authorized substantive input",
+      "bytes": 53457,
+      "sha256": "cd024da1f8567434a0b4328389b2ae9d12714c8bb8c77f65d18870a325d3ed26",
+      "matches_original_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_CURRENT_PUBLIC.md",
+      "role": "Original authorized substantive input",
+      "bytes": 5296,
+      "sha256": "b0bcf2dca3b768f27e3cc50e0a15a0294693ab2a75ed33abb489b89ae6816ba7",
+      "matches_original_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_PUBLIC_PRIORS.md",
+      "role": "Original authorized substantive input",
+      "bytes": 18922,
+      "sha256": "d3f2bf16250c1789d0aec4cfdf9ab6986d6d1c3b436a0ccb985941bca390c4bb",
+      "matches_original_preflight": true
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_STATUTES.md",
+      "role": "Original authorized substantive input",
+      "bytes": 6048,
+      "sha256": "ab7b92e0a3eb95e82fa1c00c411d82d154f137382c10c1301b702befd7163f79",
+      "matches_original_preflight": true
+    },
+    {
+      "path": "AGENTS.md",
+      "role": "Governing instructions",
+      "bytes": 34310,
+      "sha256": "4390e27578018ca667567889b495bd5ca2e3a7f61e4be192564fa834b9d26d48"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "role": "Governing instructions",
+      "bytes": 91525,
+      "sha256": "3ea9b517025f55ebcfa6d1857f6ab6e7b84c90529c60f5ca2ba889e31b77afbf"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_PREFLIGHT_VALIDATION.md",
+      "role": "Original input validation",
+      "bytes": 6419,
+      "sha256": "cb147a1f07aa8c1bfe3957e439eafbde08b419d1cc125fd0ccdc0fdf309c998f"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_REFRESH.md",
+      "role": "New authorized neutral refresh, fully read",
+      "bytes": 21468,
+      "sha256": "e91fb50ae25059cf04d674916f7b50947b819444a1df957991da18dbba1356fe"
+    }
+  ],
+  "prior_artifact_preservation": {
+    "path": "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE.md",
+    "role": "Earlier provisional conclusions and change comparison, not legal authority",
+    "bytes": 47916,
+    "sha256": "0faaca7b4b75a54d16c5243b3d039e4a26f62cd2d1cb22eedaba16ee875a9b70",
+    "matches_original_freeze": true
+  },
+  "output": {
+    "path": "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE_REFRESH.md",
+    "bytes": 42770,
+    "sha256": "f17605fe2253c4121311f0d694337e749a795aed93f77b3bc2948a23edf5170f"
+  },
+  "checks": {
+    "all_six_original_substantive_hashes_match": true,
+    "original_commitment_unchanged": true,
+    "individual_rows_per_associate": {
+      "Stevens": 2,
+      "O'Connor": 2,
+      "Scalia": 2,
+      "Kennedy": 2,
+      "Souter": 2,
+      "Thomas": 2,
+      "Ginsburg": 2,
+      "Breyer": 2
+    },
+    "provider_tokens_or_local_machine_links": "No findings",
+    "scope": "Klamath and Shafer only; other commitments remain unchanged.",
+    "new_neutral_facts_used": "Seven-document direction and complete corrected charge, permitted advocacy, question wording and supplemental parole direction.",
+    "legal_assessment": "Qualitative conclusions and competing paths are recorded in the frozen artifact; not decided by this script.",
+    "chronology_refresh": "Control must complete the event-date intervening-law check.",
+    "historical_reconciliation": "Fresh affected reconciliation remains required."
+  },
+  "boundary": "No control-facts source, external source link, comparator, reconciliation, current private supplement, raw Decision Record or audit annex was opened.",
+  "immutability": "New artifact and exclusive-mode receipt preserve the original freeze."
+}

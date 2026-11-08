@@ -1,0 +1,58 @@
+Source: https://www.law.cornell.edu/supct/html/99-1257.ZS.html
+
+WHITMAN v. AMERICAN TRUCKING ASSNS., INC.
+
+1">
+
+LII
+
+Supreme Court
+
+WHITMAN v. AMERICAN TRUCKING ASSNS., INC. (99-1257)
+175 F.3d 1027 and 195 F.3d 4, affirmed in part, reversed in part, and remanded.
+SyllabusOpinion
+[ Scalia ]Concurrence
+[ Thomas ]Concurrence
+[ Stevens ]Concurrence
+[ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+WHITMAN, ADMINISTRATOR OF ENVIRONMENTAL PROTECTION AGENCY, et al. v. AMERICAN TRUCKING ASSOCIATIONS, INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+No. 99—1257. Argued November 7, 2000–Decided February 27, 20011
+
+Section 109(a) of the Clean Air Act (CAA) requires the Environmental Protection Agency (EPA) Administrator to promulgate national ambient air quality standards (NAAQS) for each air pollutant for which “air quality criteria” have been issued under §108. Pursuant to §109(d)(1), the Administrator in 1997 revised the ozone and particulate matter NAAQS. Respondents in No. 99—1257, private parties and several States (hereinafter respondents), challenged the revised NAAQS on several grounds. The District of Columbia Circuit found that, under the Administrator’s interpretation, §109(b)(1)–which instructs the EPA to set standards “the attainment and maintenance of which … are requisite to protect the public health” with “an adequate margin of safety”–delegated legislative power to the Administrator in contravention of the Federal Constitution, and it remanded the NAAQS to the EPA. The Court of Appeals also declined to depart from its rule that the EPA may not consider implementation costs in setting the NAAQS. And it held that, although certain implementation provisions for the ozone NAAQS contained in Part D, Subpart 2, of Title I of the CAA did not prevent the EPA from revising the ozone standard and designating certain areas as “nonattainment areas,” those provisions, rather than more general provisions contained in Subpart 1, constrained the implementation of the new ozone NAAQS. The court rejected the EPA’s argument that it lacked jurisdiction to reach the implementation question because there had been no “final” implementation action.
+
+Held:
+
+1. Section 109(b) does not permit the Administrator to consider implementation costs in setting NAAQS. Because the CAA often expressly grants the EPA the authority to consider implementation costs, a provision for costs will not be inferred from its ambiguous provisions. Union Elec. Co. v. EPA, 427 U.S. 246, 257, and n. 5. And since §109(b)(1) is the engine that drives nearly all of Title I of the CAA, the textual commitment of costs must be clear; Congress does not alter a regulatory scheme’s fundamental details in vague terms or ancillary provisions, see MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218, 231. Respondents’ arguments founder upon this principle. It is implausible that §109(b)(1)’s modest words “adequate margin” and “requisite” give the EPA the power to determine whether implementation costs should moderate national air quality standards. Cf. ibid. And the cost factor is both so indirectly related to public health and so full of potential for canceling the conclusions drawn from direct health effects that it would have been expressly mentioned in §§108 and 109 had Congress meant it to be considered. Other CAA provisions, which do require cost data, have no bearing upon whether costs are to be taken into account in setting the NAAQS. Because the text of §109(b)(1) in its context is clear, the canon of construing texts to avoid serious constitutional problems is not applicable. See, e.g., Miller v. French, 530 U.S. 327, 341. Pp. 4—11.
+
+2. Section 109(b)(1) does not delegate legislative power to the EPA. When conferring decisionmaking authority upon agencies, Congress must lay down an intelligible principle to which the person or body authorized to act is directed to conform. J. W. Hampton, Jr., & Co. v. United States, 276 U.S. 394, 409. An agency cannot cure an unlawful delegation of legislative power by adopting in its discretion a limiting construction of the statute. The limits that §109(b)(1) imposes on the EPA’s discretion are strikingly similar to the ones approved in, e.g., Touby v. United States, 500 U.S. 160, and the scope of discretion that §109(b)(1) allows is well within the outer limits of the Court’s nondelegation precedents, see, e.g., Panama Refining Co. v. Ryan, 293 U.S. 388. Statutes need not provide a determinate criterion for saying how much of a regulated harm is too much to avoid delegating legislative power. Pp. 11—15.
+
+3. The Court of Appeals had jurisdiction to consider the implementation issue under §307 of the CAA. The implementation policy constitutes final agency action under §307 of the CAA because it marked the consummation of the EPA’s decisionmaking process, see Bennett v. Spear, 520 U.S. 154. The decision is also ripe for review. The question is purely one of statutory interpretation that would not benefit from further factual development, see Ohio Forestry Assn., Inc. v. Sierra Club, 523 U.S. 726, 733; review will not interfere with further administrative development; and the hardship on respondent States in developing state implementation plans satisfies the CAA’s special judicial-review provision permitting preenforcement review, see id., at 737. The implementation issue was also fairly included within the challenges to the final ozone rule that were before the Court of Appeals, which all parties agree is final agency action ripe for review. Pp. 16—20.
+
+4. The implementation policy is unlawful. Under Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, if the statute resolves the question whether Subpart 1 or Subpart 2 applies to revised ozone NAAQS, that ends the matter; but if the statute is ambiguous, the Court must defer to a reasonable agency interpretation. Here, the statute is ambiguous concerning the interaction between Subpart 1 and Subpart 2, but the Court cannot defer to the EPA’s interpretation, which would render Subpart 2’s carefully designed restrictions on EPA discretion nugatory once a new ozone NAAQS has been promulgated. The principal distinction between the subparts is that Subpart 2 eliminates regulatory discretion allowed by Subpart 1. The EPA may not construe the statute in a way that completely nullifies textually applicable provisions meant to limit its discretion. In addition, although Subpart 2 was obviously written to govern implementation for some time into the future, nothing in the EPA’s interpretation would have prevented the agency from aborting the subpart the day after it was enacted. It is left to the EPA to develop a reasonable interpretation of the nonattainment implementation provisions insofar as they apply to revised ozone NAAQS. Pp. 20—25.
+
+175 F.3d 1027 and 195 F.3d 4, affirmed in part, reversed in part, and remanded.
+
+Scalia, J., delivered the opinion of the Court, Parts I and IV of which were unanimous, Part II of which was joined by Rehnquist, C. J., and Stevens, O’Connor, Kennedy, Souter, Thomas, and Ginsburg, JJ., and Part III of which was joined by Rehnquist, C. J., and O’Connor, Kennedy, Thomas, Ginsburg, and Breyer, JJ. Thomas, J., filed a concurring opinion. Stevens, J., filed an opinion concurring in part and concurring in the judgment, in which Souter, J., joined. Breyer, J., filed an opinion concurring in part and concurring in the judgment.
+
+Notes
+
+1. Together with No. 99—1426, American Trucking Associations, Inc., et al. v. Whitman, Administrator of Environmental Protection Agency, et al., also on certiorari to the same court.

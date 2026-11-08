@@ -1,0 +1,41 @@
+Source: https://www.law.cornell.edu/supct/html/99-1257.ZC.html
+
+WHITMAN v. AMERICAN TRUCKING ASSNS., INC.
+
+LII
+
+Supreme Court
+
+WHITMAN v. AMERICAN TRUCKING ASSNS., INC. (99-1257)
+175 F.3d 1027 and 195 F.3d 4, affirmed in part, reversed in part, and remanded.
+SyllabusOpinion
+[ Scalia ]Concurrence
+[ Thomas ]Concurrence
+[ Stevens ]Concurrence
+[ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Thomas, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+
+Nos. 99—1257 and 99—1426
+
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+[February 27, 2001]
+
+Justice Thomas, concurring.
+
+I agree with the majority that §109’s directive to the agency is no less an “intelligible principle” than a host of other directives that we have approved. Ante, at 13—15. I also agree that the Court of Appeals’ remand to the agency to make its own corrective interpretation does not accord with our understanding of the delegation issue. Ante, at 12. I write separately, however, to express my concern that there may nevertheless be a genuine constitutional problem with §109, a problem which the parties did not address.
+
+The parties to this case who briefed the constitutional issue wrangled over constitutional doctrine with barely a nod to the text of the Constitution. Although this Court since 1928 has treated the “intelligible principle” requirement as the only constitutional limit on congressional grants of power to administrative agencies, see J. W. Hampton, Jr., & Co. v. United States, 276 U.S. 394, 409 (1928), the Constitution does not speak of “intelligible principles.” Rather, it speaks in much simpler terms: “All legislative Powers herein granted shall be vested in a Congress.” U.S. Const., Art. 1, §1 (emphasis added). I am not convinced that the intelligible principle doctrine serves to prevent all cessions of legislative power. I believe that there are cases in which the principle is intelligible and yet the significance of the delegated decision is simply too great for the decision to be called anything other than “legislative.”
+
+As it is, none of the parties to this case has examined the text of the Constitution or asked us to reconsider our precedents on cessions of legislative power. On a future day, however, I would be willing to address the question whether our delegation jurisprudence has strayed too far from our Founders’ understanding of separation of powers.

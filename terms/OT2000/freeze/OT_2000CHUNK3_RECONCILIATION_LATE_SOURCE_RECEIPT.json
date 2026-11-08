@@ -1,0 +1,115 @@
+{
+  "stage": "Historical reconciliation source review, late four matters",
+  "inputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_LATE.md",
+      "bytes": 31869,
+      "sha256": "7e2fe5d1884906057ea20a4c7194e510c1a5e49f133baf3b200ff0cb64815080"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_ADDENDUM.md",
+      "bytes": 16100,
+      "sha256": "50c23d7d848ff48dfc5384954b185ba18445b24760a4b4dc3d75f688af243dc6"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_PREFLIGHT_VALIDATION.md",
+      "bytes": 6419,
+      "sha256": "cb147a1f07aa8c1bfe3957e439eafbde08b419d1cc125fd0ccdc0fdf309c998f"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE.md",
+      "bytes": 47916,
+      "sha256": "0faaca7b4b75a54d16c5243b3d039e4a26f62cd2d1cb22eedaba16ee875a9b70"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE_INPUT_RECEIPT.json",
+      "bytes": 3136,
+      "sha256": "506bc893452af964d2145c6e774aed67edc3d9192dd0ce36de4d795a88c4d1ab"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE.md",
+      "bytes": 53457,
+      "sha256": "cd024da1f8567434a0b4328389b2ae9d12714c8bb8c77f65d18870a325d3ed26"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_PUBLIC_PRIORS.md",
+      "bytes": 18922,
+      "sha256": "d3f2bf16250c1789d0aec4cfdf9ab6986d6d1c3b436a0ccb985941bca390c4bb"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_CURRENT_PUBLIC.md",
+      "bytes": 5296,
+      "sha256": "b0bcf2dca3b768f27e3cc50e0a15a0294693ab2a75ed33abb489b89ae6816ba7"
+    },
+    {
+      "path": "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_STATUTES.md",
+      "bytes": 6048,
+      "sha256": "ab7b92e0a3eb95e82fa1c00c411d82d154f137382c10c1301b702befd7163f79"
+    },
+    {
+      "path": "terms/OT2000/runtime/OT_2000CHUNK3_COMPARATOR_LATE.md",
+      "bytes": 3591,
+      "sha256": "812fcc52d334fda7732f84908bf316ac0ea8117426cbf8bdc175e2a770fd1c7a"
+    }
+  ],
+  "sources": [
+    {
+      "path": "terms/OT2000/sources/chunk3-control/99-1871.ZS.txt",
+      "bytes": 8942,
+      "sha256": "59d4cfcbc5e1c0b15bc507ea1151e76e9250524e16d543aee29de36f25cbb22b"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/99-1871.ZO.txt",
+      "bytes": 26568,
+      "sha256": "ba0b8312af605674e506c8cdd320113824384e87cb1c458e881163b6af765721"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/Reiner_USReports.txt",
+      "bytes": 12672,
+      "sha256": "f2f561653ad7605ac71bcd656f4ff252bbbea513fc31a60a247d64d19dce2032"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/Reiner_USReports.pdf",
+      "bytes": 203358,
+      "sha256": "157144fc5afb770f523b490af35aa1a5aba54e26780130ecae30fd626d7e72be"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/00-5250.ZS.txt",
+      "bytes": 9876,
+      "sha256": "1c293c6d989c2c8090ab0daf9c7cce27b7b0785deca88a30a61b7efd17741035"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/00-5250.ZO.txt",
+      "bytes": 34307,
+      "sha256": "f48cbfe955f3d0c7ca3230772c1b85d6061606c683eb22e76f91bfdf2c77e22e"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/00-5250.ZD.txt",
+      "bytes": 1774,
+      "sha256": "782f5235c25580c7823a6909fa956de7a07f2acc1c86e744117cc0069a246e9b"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/00-5250.ZD1.txt",
+      "bytes": 5906,
+      "sha256": "5fdedea99fa657e4c9c9981ad1a4058f9f822df183cceb83c426a80bc5b975b0"
+    }
+  ],
+  "full_read": {
+    "Klamath": "Complete Cornell syllabus and sole opinion, all seven notes; official report independently cross-checked for caption, dates, unanimity and result. Cornell text read in overlapping bounded segments after an initial truncated combined response.",
+    "Reiner": "Complete six-page official report text, including syllabus, per curiam, state-statute footnote and final order. PDF bytes identified; full visual review not claimed.",
+    "Shafer": "Complete Cornell syllabus, majority including all six notes, Scalia dissent and Thomas dissent (neither dissent has notes); official report independently cross-checked for caption, dates, named historical joins and formal disposition.",
+    "Hilario": "No new full-opinion read in this context; relied on authorized neutral addendum and preflight certification of full lower-opinion reading including all notes. No historical Supreme Court merits lineup exists in the supplied comparator."
+  },
+  "independent_official_crosscheck_urls": [
+    "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-1.pdf",
+    "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-36.pdf"
+  ],
+  "stage_findings": {
+    "Klamath": "Original category and remedy commitments supported; outgoing seventh document requires neutral consideration of direction-neutral formulation.",
+    "Reiner": "Reasoned petition-stage grant, reversal and remand supported; no historical public tally inferred.",
+    "Hilario": "No Supreme Court historical vote to copy; prior combined-control law and Souter fuller classification ground remain distinct.",
+    "Shafer": "Material instruction/argument facts omitted or misstated in frozen packet. Historical Thomas separate sufficiency ground and majority rejection of it are omitted from comparator. Clean neutral correction/remodel required before final reconciliation; original freeze is not altered."
+  },
+  "boundary": "No combined brief, private supplement, separately frozen Chief petition position, raw current Decision Record or excluded directory was read. No repository command run. Historical case outcomes and doctrine are comparator evidence only.",
+  "status": "Full source review complete; final late reconciliation awaits affected neutral refresh and fresh commitments."
+}

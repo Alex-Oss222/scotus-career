@@ -1,0 +1,71 @@
+TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
+
+§ 547
+
+PRIOR PROVISIONS
+A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the United States Marshal, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
+AMENDMENTS
+1994—Subsec. (a). Pub. L. 103–322 struck out ‘‘and assistant United States attorney’’ after ‘‘Each United States attorney’’ and inserted after first sentence ‘‘Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof.’’
+1979—Subsec. (a). Pub. L. 96–91 inserted provisions authorizing the United States attorney and the assistant United States attorneys for the Eastern District of New York to reside outside the district but within 20 miles thereof.
+1978—Subsec. (a). Pub. L. 95–530 inserted provision that this subsection not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district.
+
+§ 546. Vacancies
+(a) Except as provided in subsection (b), the Attorney General may appoint a United States attorney for the district in which the office of United States attorney is vacant.
+(b) The Attorney General shall not appoint as United States attorney a person to whose appointment by the President to that office the Senate refused to give advice and consent.
+(c) A person appointed as United States attorney under this section may serve until the earlier of—
+(1) the qualification of a United States attorney for such district appointed by the President under section 541 of this title; or
+(2) the expiration of 120 days after appointment by the Attorney General under this section.
+(d) If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 99–646, § 69, Nov. 10, 1986, 100 Stat. 3616.)
+
+HISTORICAL AND REVISION NOTES 1966 ACT
+
+Derivation
+
+U.S. Code
+
+..................... 28 U.S.C. 506.
+
+Revised Statutes and Statutes at Large
+[None].
+
+1948 ACT
+Prior section 506.—Based on title 28, U.S.C., 1940 ed., § 511 (R.S. § 793; June 24, 1898, ch. 495, § 2, 30 Stat. 487; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
+Words ‘‘United States attorney’’ were substituted for ‘‘district attorney.’’ (See Reviser’s Note under section 501 [now 541] of this title.)
+Words ‘‘The Supreme Court of the Territory, and the district court of the United States for the District of Columbia’’ were omitted as obsolete. This section, as revised, applies to all districts enumerated in chapter 5 of this title. There were no provisions respecting vacancies in Hawaii and Puerto Rico. Therefore this section remedies this situation and establishes a uniform method to fill interim vacancies.
+
+Words ‘‘and a copy shall be entered on the journal of the court’’ after ‘‘filed in the clerk’s office of said court’’, in section 511 of title 28, U.S.C., 1940 ed., were omitted as unnecessary.
+The provisions of section 511 of title 28, U.S.C., 1940 ed., relating to marshals, are incorporated in sections 544 and 545 [see Prior Provisions notes under those sections] of this title.
+Changes were made in phraseology.
+PRIOR PROVISIONS
+A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
+AMENDMENTS
+1986—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows: ‘‘The district court for a district in which the office of United States attorney is vacant may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.’’
+
+§ 547. Duties
+Except as otherwise provided by law, each United States attorney, within his district, shall—
+(1) prosecute for all offenses against the United States;
+(2) prosecute or defend, for the Government, all civil actions, suits or proceedings in which the United States is concerned;
+(3) appear in behalf of the defendants in all civil actions, suits or proceedings pending in his district against collectors, or other officers of the revenue or customs for any act done by them or for the recovery of any money exacted by or paid to these officers, and by them paid into the Treasury;
+(4) institute and prosecute proceedings for the collection of fines, penalties, and forfeitures incurred for violation of any revenue law, unless satisfied on investigation that justice does not require the proceedings; and
+(5) make such reports as the Attorney General may direct.
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
+
+HISTORICAL AND REVISION NOTES 1966 ACT
+
+Derivation
+
+U.S. Code
+
+..................... 28 U.S.C. 507(a).
+
+Revised Statutes and Statutes at Large
+[None].
+
+The word ‘‘shall’’ is substituted for ‘‘it shall be the duty of’’.
+1948 ACT
+Prior section 507.—Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§ 485, 486, 487, 488, 489 (R.S. §§ 362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; May 10, 1934, ch. 277, § 512, 48 Stat. 758; Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893).
+This section consolidates provisions of the sections enumerated above.
+Other provisions of section 312 of title 5, U.S.C., 1940 ed., are incorporated in sections 503 [now 543] and 508 [now 548] of this title.
+
+

@@ -1,0 +1,80 @@
+{
+  "status": "PASS",
+  "preserved_files": 39,
+  "completed_chunk_events": 13,
+  "stopped": {
+    "Shafer v. South Carolina": "Approval is needed for Stone's judgment and remand scope after the corrected record establishes repeated until-death instructions and permitted natural-life defense argument, together with the later direction excluding parole eligibility from consideration. The existing approval does not decide whether that combined presentation was adequate, conditionally inadequate, or should be assessed on remand."
+  },
+  "record_results": [
+    {
+      "record": "Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md",
+      "sha256": "f5d1799fc392ecbbb37f7aafc05bebdd8b54fd0012aecf01a27bb0d504fd54f3",
+      "result": "Affirmed, 5–4; Title I immunity rejection sustained on independent Article I and Section 5 grounds; ordinary merits proceedings remain."
+    },
+    {
+      "record": "Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md",
+      "sha256": "d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b",
+      "result": "Reversed and remanded, 9–0; the presented fraud-on-the-FDA theories are preempted on the expressly no-agency-predicate ground."
+    },
+    {
+      "record": "Central_Green_Co_v_United_States_merits_2001-02-21.md",
+      "sha256": "cc513370fad65866c97193847164d9af28d3cf583b322177004ed80bbade6d0f",
+      "result": "Reversed and remanded, 9–0; project affiliation alone does not establish flood-water immunity."
+    },
+    {
+      "record": "Cook_v_Gralike_merits_2001-02-28.md",
+      "sha256": "10497b654c889627e28e6eb091b8990169aa7f437003e8bdb59c893e9507cacc",
+      "result": "Affirmed, 9–0; the injunction against Missouri Article VIII sections 15–19 stands, with eight supporting the ballot-authority ground and O'Connor the speech ground."
+    },
+    {
+      "record": "Department_of_the_Interior_v_Klamath_Water_Users_Protective_Association_merits_2001-03-05.md",
+      "sha256": "ae858228360d8db4d92807c1a960b510513767afe17be0a086fdc2dd2565c1cd",
+      "result": "Affirmed, 9–0; Exemption 5 does not protect the seven interested-claimant exchanges; ordinary FOIA implementation follows."
+    },
+    {
+      "record": "Freedom_From_Religion_Foundation_v_City_of_Marshfield_merits_2001-02-27.md",
+      "sha256": "470e3611001b9433ac962ae6947cba05ea6f8fa8b45cc6baa92bfe4a9ae49f10",
+      "result": "Affirmed, 6–3; corrective remand under the unified attribution-and-function inquiry, preserving the genuine conveyance and private expression."
+    },
+    {
+      "record": "Legal_Services_Corp_v_Velazquez_merits_2001-02-28.md",
+      "sha256": "07aeb03467ef59eeb371c709c91d559fee85b669596e412e68488603b87b3c63",
+      "result": "Affirmed in both dockets, 6–3; invalidate the individual-welfare-representation condition and leave the reviewed condition-only excision undisturbed."
+    },
+    {
+      "record": "Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md",
+      "sha256": "ae8c0e064f3b086c380b80c4fae2edca4f5f50bdd11800b4801fd25165a5f2bf",
+      "result": "Reversed and remanded, 9–0; the district court permissibly dissolved the restraint while retaining the protected limitation proceeding."
+    },
+    {
+      "record": "Ohio_v_Reiner_summary-disposition_2001-03-19.md",
+      "sha256": "1a5a2311e98cddfd1fa16dd5529e2546aa73505de3a96c74ec7dfb6ae169864d",
+      "result": "Certiorari granted; judgment reversed and remanded by reasoned per curiam opinion; no public numerical vote or lineup disclosed."
+    },
+    {
+      "record": "Semtek_International_v_Lockheed_Martin_merits_2001-02-27.md",
+      "sha256": "1354804f69418a2c5002c1c88aab50a75e7a56ac92cf4d355a304f81e31eecba",
+      "result": "Reversed and remanded, 9–0; federal common law incorporates California claim-preclusion law for this diversity limitations dismissal."
+    },
+    {
+      "record": "United_States_v_Hilario_merits_2001-03-19.md",
+      "sha256": "6b726cbb23ca5a8f616bdf142a7195c38b480e2bba8641701a0e6368c7353d64",
+      "result": "Affirmed, 9–0; appointment valid against the presented duration and structural challenges; prosecution may continue."
+    },
+    {
+      "record": "United_States_v_Tank_merits_2001-02-21.md",
+      "sha256": "4fb63b40227c36cb8dd90946683c0455c9829801076d7f85aa9a52e0d806cd07",
+      "result": "Affirmed insofar reviewed, 9–0; authentication admission and convictions sustained against that challenge; existing resentencing remand preserved."
+    },
+    {
+      "record": "Whitman_v_American_Trucking_Associations_merits_2001-02-27.md",
+      "sha256": "1026e9f9c04b323a332cf3879a37eb6b1a0ab7776400a0876569405662a6f400",
+      "result": "Unanimous component judgments: affirm exclusion of costs; reverse the primary-standard delegation ruling; sustain review, reject EPA's implementation interpretation, and remand."
+    }
+  ],
+  "frozen_group_hashes_verified": 17,
+  "scanned_text_files": 203,
+  "relative_links_checked": 540,
+  "errors": [],
+  "limits": "Substantive vote, join, assignment and historical reconciliation reviews are separately recorded. No repository command or object-existence check was run."
+}

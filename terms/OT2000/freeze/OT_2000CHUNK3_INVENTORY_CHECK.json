@@ -1,0 +1,20 @@
+{
+  "inventory_rows": 114,
+  "matched_manifest_rows": 114,
+  "status_counts": {
+    "completed": 40,
+    "stopped": 1,
+    "open": 73
+  },
+  "case_list_sha256": "bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118",
+  "adapter": "Only labeled chunk cells and parenthetical date annotations are parsed differently. Original rebuilder handles all status and preservation logic. Source inventory, date-basis metadata and governing tool are unchanged.",
+  "verification": "Every row compared for date, chunk, caption, docket, category and area. Event descriptions match the scheduled index except for the explicitly listed already-completed event labels preserved verbatim from the entering manifest. Original scheduling cells remain preserved by the rebuilder.",
+  "preserved_completed_event_labels": [
+    {
+      "case": "District of Columbia v. Tri County Industries, Inc.",
+      "scheduled_event": "Merits decision",
+      "already_completed_event": "Dismissal of writ as improvidently granted",
+      "prior_record": "Completed: District_of_Columbia_v_Tri_County_Industries_dig_2001-01-17.md"
+    }
+  ]
+}

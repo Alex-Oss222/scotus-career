@@ -1,0 +1,266 @@
+{
+  "before": [
+    "9999-12-31",
+    ""
+  ],
+  "counts": {
+    "Stone-Zsela": 3,
+    "Stevens": 4,
+    "O'Connor": 4,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 3,
+    "Thomas": 3,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "last_counted": {
+    "date": "2001-03-19",
+    "case": "United States v. Hilario; judgment below 218 F.3d 19; no separate Supreme Court docket supplied.",
+    "record": "United_States_v_Hilario_merits_2001-03-19.md"
+  },
+  "counted_events": 33,
+  "counted_leads": 33,
+  "event_authors": [
+    {
+      "date": "2000-11-07",
+      "case": "Artuz v. Bennett, No. 99-1238; 531 U.S. 4.",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-11-07",
+      "case": "Cleveland v. United States, No. 99-804; 531 U.S. 12.",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-11-27",
+      "case": "Wasson v. Sonoma County Junior College; Ninth Circuit No. 98-15967; 203 F.3d 659; no separate Supreme Court docket supplied.",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-11-28",
+      "case": "City of Indianapolis v. Edmond, No. 99-1030; 531 U.S. 32.",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-11-28",
+      "case": "Eastern Associated Coal Corp. v. United Mine Workers of America, No. 99-1038; 531 U.S. 57.",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2000-12-11",
+      "case": "Daggett v. Commission on Governmental Ethics & Election Practices; consolidated First Circuit Nos. 99-2243, 99-2274, 00-1061, and 00-1066; 205 F.3d 445; no separate Supreme Court docket supplied.",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-12-11",
+      "case": "Green Tree Financial Corp.-Alabama v. Randolph, No. 99-1235; 531 U.S. 79.",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-12-12",
+      "case": "Bush v. Gore, No. 00-949; review of Florida Supreme Court No. SC00-2431.",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2000-12-12",
+      "case": "Mariani v. United States; Third Circuit No. 99-3875; judgment below, 212 F.3d 761 (en banc).",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Brewer v. West Irondequoit Central School District; 212 F.3d 738; no separate Supreme Court docket supplied.",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Gitlitz v. Commissioner, No. 99-1295.",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Glover v. United States, No. 99-8576.",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers, No. 99-1178.",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2001-01-10",
+      "case": "Lopez v. Davis, No. 99-7504.",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2001-01-17",
+      "case": "Denius v. Dunlap; Seventh Circuit No. 99-1402; 209 F.3d 944; no separate Supreme Court docket supplied.",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2001-01-17",
+      "case": "Seling v. Young, No. 99-1185.",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2001-01-22",
+      "case": "Kansas v. United States; Tenth Circuit No. 98-3341, 214 F.3d 1196; no separate Supreme Court docket supplied.",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Brentwood Academy v. Tennessee Secondary School Athletic Association, No. 99-901.",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Director of Revenue of Missouri v. CoBank ACB, No. 99-1792.",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Illinois v. McArthur, No. 99-1132.",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Urofsky v. Gilmore; Fourth Circuit No. 98-1481, 216 F.3d 401; no separate Supreme Court docket supplied.",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Board of Trustees of the University of Alabama v. Garrett, No. 99-1240; 531 U.S. 356.",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Buckman Co. v. Plaintiffs' Legal Committee, No. 98-1768; 531 U.S. 341.",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Central Green Co. v. United States, No. 99-859; 531 U.S. 425.",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Lewis v. Lewis & Clark Marine, Inc., No. 99-1331; 531 U.S. 438.",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "United States v. Tank; judgment below 200 F.3d 627 (9th Cir. 2000); no separate Supreme Court docket supplied.",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "case": "Freedom From Religion Foundation, Inc. v. City of Marshfield; Seventh Circuit No. 99-1639, 203 F.3d 487; no separate Supreme Court docket supplied.",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "case": "Semtek International Inc. v. Lockheed Martin Corp., No. 99-1551; 531 U.S. 497.",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "case": "Whitman v. American Trucking Associations, Inc. / American Trucking Associations, Inc. v. Whitman, Nos. 99-1257 and 99-1426; 531 U.S. 457.",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2001-02-28",
+      "case": "Cook v. Gralike, No. 99-929; 531 U.S. 510.",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2001-02-28",
+      "case": "Legal Services Corp. v. Velazquez / United States v. Velazquez, Nos. 99-603 and 99-960; 531 U.S. 533.",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2001-03-05",
+      "case": "Department of the Interior v. Klamath Water Users Protective Association, No. 99-1871; 532 U.S. 1.",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2001-03-19",
+      "case": "United States v. Hilario; judgment below 218 F.3d 19; no separate Supreme Court docket supplied.",
+      "authors": [
+        "Breyer"
+      ]
+    }
+  ],
+  "uncounted_records": [
+    "Arizona_v_California_supplemental-decree_2000-10-10.md",
+    "Bush_v_Palm_Beach_County_Canvassing_Board_merits_2000-12-04.md",
+    "City_News_and_Novelty_v_City_of_Waukesha_mootness-dismissal_2001-01-17.md",
+    "District_of_Columbia_v_Tri_County_Industries_dig_2001-01-17.md",
+    "Fiore_v_White_merits_2001-01-09.md",
+    "Ohio_v_Reiner_summary-disposition_2001-03-19.md",
+    "Sinkfield_v_Kelley_merits_2000-11-27.md"
+  ]
+}

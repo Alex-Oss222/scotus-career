@@ -1,0 +1,5 @@
+{
+  "initial_tool_copy_sha256": "6bf77680edec5d1d627bf15b394cb8cc894ce51008f9701bcb28953aa3b54c48",
+  "initial_tool_copy_bytes": 1670042,
+  "initial_tool_copy_role": "Tool-produced broad intermediate, not a model input; removed after bounded extraction."
+}

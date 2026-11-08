@@ -1,0 +1,43 @@
+Source: https://www.law.cornell.edu/supct/html/99-1331.ZS.html
+
+LEWIS V. LEWIS & CLARK MARINE, INC.
+
+LII
+
+Supreme Court
+
+LEWIS V. LEWIS & CLARK MARINE, INC. (99-1331)
+196 F.3d 900, reversed and remanded.
+Syllabus
+Opinion
+[ O’Connor ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+LEWIS v. LEWIS & CLARK MARINE, INC.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 99—1331. Argued November 29, 2000–Decided February 21, 2001
+
+Petitioner sued respondent in an Illinois County Court for personal injuries he suffered while working on respondent’s ship. He did not request a jury trial. In anticipation of his suit, respondent had filed a complaint for exoneration from, or limitation of, liability in Federal District Court pursuant to the Limitation of Liability Act (Limitation Act or Act). Following the procedure for limitation actions set forth in Supplemental Admiralty and Maritime Claims Rule F, the court approved a surety bond representing respondent’s interest in the vessel, ordered that any claim related to the incident be filed with the court within a specified period, and enjoined the filing or prosecution of any suits related to the incident. Petitioner, inter alia, moved to dissolve the restraining order, stating that he was the only claimant, waiving any res judicata claim concerning limited liability from a state court judgment, stipulating that respondent could relitigate limited liability issues in the District Court, and stipulating that his claim’s value was less than the value of the limitation fund. The District Court recognized that federal courts have exclusive jurisdiction to determine whether a vessel owner is entitled to limited liability, but also recognized that the statute conferring exclusive jurisdiction over admiralty and maritime suits to federal courts saves to suitors “all other remedies to which they are other wise entitled.” 28 U.S.C. § 1333(1). The court found two exceptions to exclusive federal jurisdiction under which a claimant may litigate his claim in state court–where the limitation fund’s value exceeds the total value of all claims asserted against the vessel owner, and where there is a single claimant. The court dissolved the injunction because petitioner met the first and, probably, second exceptions, and retained jurisdiction over the limitation action to protect the vessel owner’s right should the state proceedings necessitate further federal court proceedings. In holding that the District Court abused its discretion in dissolving the injunction, the Eighth Circuit found that respondent had a right to seek exoneration from, not mere limitation of, liability in federal court; that because petitioner did not request a jury trial, he had not sought a saved remedy in state court; and that because there was no conflict between the saving to suitors clause and the Limitation Act here, there was no basis for dissolving the injunction.
+
+Held: Because state courts may adjudicate claims like petitioner’s against vessel owners so long as the owner’s right to seek limitation of liability is protected, the Eighth Circuit erred in reversing the District Court’s decision to dissolve the injunction. Pp. 5—17.
+
+(a) Section 1333(1)’s saving to suitors clause preserves common law remedies and concurrent state court jurisdiction over some admiralty and maritime claims. Red Cross Line v. Atlantic Fruit Co., 264 U.S. 109, 123—124. The Limitation Act allows a vessel owner to limit liability for damage or injury, occasioned without the owner’s privity or knowledge, to the value of the vessel or the owner’s interest in the vessel. Potential tension exists between the saving to suitors clause and the Limitation Act because one gives suitors the right to a choice of remedies while the other gives vessel owners the right to seek limited liability in federal court. Claimants generally have been permitted to proceed with their claims in state court where there is only a single claimant, see Langnes v. Green, 282 U.S. 531, or where the total claims do not exceed the value of the limitation fund, see Lake Tankers Corp. v. Henn, 354 U.S. 147. Pp. 5—13.
+
+(b) The District Court properly exercised its discretion in dissolving the injunction here. Guided by this Court’s cases, it attempted to reconcile petitioner’s right to his remedy under the saving to suitors clause with respondent’s right to seek limited liability under the Limitation Act. It dissolved the injunction after concluding that respondent’s right would be adequately protected by petitioner’s stipulations and by the court’s decision to stay the Limitation Act proceedings pending state court proceedings. The Eighth Circuit misapprehended this Court’s decisions in holding that the injunction should not have been dissolved. The Eighth Circuit erred in holding that the Limitation Act grants vessel owners a right to obtain exoneration of liability where limitation of liability is not at issue. By its own terms the Act protects the owners’ right to limit their liability to the vessel’s value. Here, the District Court concluded that petitioner’s stipulations would protect the owner’s right to seek limited liability in federal court, and, out of an abundance of caution, it stayed the limitation proceedings. Nothing more was required to protect respondent’s Limitation Act rights. Having satisfied itself that the vessel owner’s right to seek limitation would be protected, the decision to dissolve the injunction was well within the District Court’s discretion. The Eighth Circuit also erred in finding that petitioner’s failure to demand a jury trial in state court meant that he had no saved remedy there. The saving to suitors clause protects all remedies, of which trial by jury is an obvious, but not exclusive, example. In sum, this Court’s case law makes clear that state courts, with all of their remedies, may adjudicate claims like petitioner’s against vessel owners so long as the vessel owner’s right to seek limitation of liability is protected. Pp. 13—17.
+
+196 F.3d 900, reversed and remanded.
+
+O’Connor, J., delivered the opinion for a unanimous Court.

@@ -1,0 +1,12 @@
+7408 https://www.govinfo.gov/content/pkg/USCODE-2000-title42/html/USCODE-2000-title42-chap85-subchapI-partA-sec7408.htm
+7409 https://www.govinfo.gov/content/pkg/USCODE-2000-title42/html/USCODE-2000-title42-chap85-subchapI-partA-sec7409.htm
+7502 https://www.govinfo.gov/content/pkg/USCODE-2000-title42/html/USCODE-2000-title42-chap85-subchapI-partD-subpart1-sec7502.htm
+7511 https://www.govinfo.gov/content/pkg/USCODE-2000-title42/html/USCODE-2000-title42-chap85-subchapI-partD-subpart2-sec7511.htm
+7511a https://www.govinfo.gov/content/pkg/USCODE-2000-title42/html/USCODE-2000-title42-chap85-subchapI-partD-subpart2-sec7511a.htm
+7607 https://www.govinfo.gov/content/pkg/USCODE-2000-title42/html/USCODE-2000-title42-chap85-subchapIII-sec7607.htm
+frcp41 https://www.govinfo.gov/content/pkg/USCODE-2000-title28/html/USCODE-2000-title28-app-federalru-dup1-rule41.htm
+pl104-134 https://www.govinfo.gov/content/pkg/PLAW-104publ134/html/PLAW-104publ134.htm
+lsc-rule https://www.govinfo.gov/content/pkg/FR-1996-08-29/html/96-21661.htm
+1652 https://www.govinfo.gov/content/pkg/USCODE-2000-title28/html/USCODE-2000-title28-partV-chap111-sec1652.htm
+1738 https://www.govinfo.gov/content/pkg/USCODE-2000-title28/html/USCODE-2000-title28-partV-chap115-sec1738.htm
+2072 https://www.govinfo.gov/content/pkg/USCODE-2000-title28/html/USCODE-2000-title28-partV-chap131-sec2072.htm

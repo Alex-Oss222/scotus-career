@@ -1,0 +1,121 @@
+{
+  "stage": "Final historical reconciliation, late four matters",
+  "final_artifact": {
+    "path": "terms/OT2000/freeze/OT_2000CHUNK3_RECONCILED_LATE.md",
+    "bytes": 39369,
+    "sha256": "7a383d486a4dd56b706ae5362f5ba1ab5b063c297d9e7292f3ddcc3a24f5b912"
+  },
+  "additional_inputs": [
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_REFRESH.md",
+      "bytes": 21468,
+      "sha256": "e91fb50ae25059cf04d674916f7b50947b819444a1df957991da18dbba1356fe"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE_REFRESH.md",
+      "bytes": 42770,
+      "sha256": "f17605fe2253c4121311f0d694337e749a795aed93f77b3bc2948a23edf5170f"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE_REFRESH_INPUT_RECEIPT.json",
+      "bytes": 4425,
+      "sha256": "0736a91df9a2a0eda6815789750630f5936f5a26195bbae4a3bb1e05b5b7b588"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_RECONCILED_LATE_PARTIAL.md",
+      "bytes": 15325,
+      "sha256": "f6fe09462b966c5d865f1dc8fd33d66405173792d0a05ab4686648fdb034304d"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_RECONCILIATION_LATE_SOURCE_RECEIPT.json",
+      "bytes": 5843,
+      "sha256": "6caf63be6a7d87c726d3c7e6c1422e1d7c7c6c69d19a75cd3aae5165e892fedb"
+    },
+    {
+      "path": "terms/OT2000/freeze/OT_2000CHUNK3_RECONCILIATION_LATE_PARTIAL_RECEIPT.json",
+      "bytes": 927,
+      "sha256": "010670411d9e4ecc8233d6f4a36293709bd17e3d6e1265fa6e0d6a57b05005c8"
+    }
+  ],
+  "additional_primary_sources": [
+    {
+      "path": "terms/OT2000/sources/chunk3-control/92-9059.ZS.txt",
+      "bytes": 5219,
+      "sha256": "cac33ecda506ef768069970fb75728db93f9f48f5cb861a8d0154e86f776db08"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/92-9059.ZC1.txt",
+      "bytes": 5379,
+      "sha256": "bcae2c85bd6f9c51fc6a6efe7cd4a6cdcd254aa17cdca600ee5d5da725dbaaf3"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/92-9059.ZC.txt",
+      "bytes": 7622,
+      "sha256": "405e7cfabb937fc0f8cc898f23ad96582091dcbd0469aac7ba5099d621c681b6"
+    },
+    {
+      "path": "terms/OT2000/sources/chunk3-control/92-9059.ZD.txt",
+      "bytes": 15752,
+      "sha256": "85523bfadcbcdbb868e139558d1b89836745a5a48524dde0cf06b64fc76a7f61"
+    }
+  ],
+  "source_reading": {
+    "original_current_cases": "As fully recorded in the preserved original source receipt: all Klamath and Shafer writings/notes, complete Reiner official report; narrower official cross-checks explicitly distinguished.",
+    "additional_historical_comparison": "Full historical Simmons syllabus, OConnor concurrence, Souter concurrence joined by Stevens, and Scalia dissent joined by Thomas including all four notes. Read through the primary-opinion pages via web tool; exact source text saved by script. No claim to have fully read other historical Simmons writings in this pass.",
+    "purpose": "Test whether revised Shafer positions depended on an actually changed timeline premise. These historical writings do not replace current simulated Simmons or supply new neutral facts."
+  },
+  "checks": {
+    "receipt_covered_original_and_refresh_digests_unchanged": true,
+    "verified_unique_input_paths": [
+      "AGENTS.md",
+      "foundation/ENGINE.md",
+      "terms/OT2000/entering-law/OT_2000CHUNK3_LATE.md",
+      "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_CURRENT_PUBLIC.md",
+      "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_PUBLIC_PRIORS.md",
+      "terms/OT2000/entering-law/OT_2000CHUNK3_LATE_STATUTES.md",
+      "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE.md",
+      "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE_INPUT_RECEIPT.json",
+      "terms/OT2000/freeze/OT_2000CHUNK3_COMMITMENTS_LATE_REFRESH.md",
+      "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_ADDENDUM.md",
+      "terms/OT2000/freeze/OT_2000CHUNK3_LATE_NEUTRAL_REFRESH.md",
+      "terms/OT2000/freeze/OT_2000CHUNK3_LATE_PREFLIGHT_VALIDATION.md",
+      "terms/OT2000/freeze/OT_2000CHUNK3_NEUTRAL_LATE.md",
+      "terms/OT2000/runtime/OT_2000CHUNK3_COMPARATOR_LATE.md",
+      "terms/OT2000/sources/chunk3-control/00-5250.ZD.txt",
+      "terms/OT2000/sources/chunk3-control/00-5250.ZD1.txt",
+      "terms/OT2000/sources/chunk3-control/00-5250.ZO.txt",
+      "terms/OT2000/sources/chunk3-control/00-5250.ZS.txt",
+      "terms/OT2000/sources/chunk3-control/99-1871.ZO.txt",
+      "terms/OT2000/sources/chunk3-control/99-1871.ZS.txt",
+      "terms/OT2000/sources/chunk3-control/Reiner_USReports.pdf",
+      "terms/OT2000/sources/chunk3-control/Reiner_USReports.txt"
+    ],
+    "four_final_case_sections": true,
+    "individual_rows_per_associate": {
+      "Stevens": 4,
+      "O'Connor": 4,
+      "Scalia": 4,
+      "Kennedy": 4,
+      "Souter": 4,
+      "Thomas": 4,
+      "Ginsburg": 4,
+      "Breyer": 4
+    },
+    "output_hygiene": "No prohibited tokens or machine links found.",
+    "legal_review": "Qualitative legal reconciliation performed in final artifact; not mechanically inferred from row counts or historical arithmetic.",
+    "author_assignment_or_balance_tally": "Not performed.",
+    "current_law_refresh": "Pending control event-date check before assembly.",
+    "material_source_or_reconciliation_blocker": "None on the final bounded paths."
+  },
+  "explicit_corrections": {
+    "Klamath": "Bilateral participant-function rule addresses the outgoing seventh record without privilege, contents, internal-circulation or waiver findings.",
+    "Shafer_OConnor_Kennedy": "Refreshed affirmances corrected to full conditional-inadequacy reversal/remand joins because the historical case had the same facts and alternative-means rule; no concrete changed premise supported departure.",
+    "Shafer_Stevens_Souter": "Prior requested-explanation theory retained only as older continuity; no new Shafer independent ground, separate writing or danger-independent remand.",
+    "Shafer_Scalia": "Constitutional anti-extension dissent retained; unsupported added adequacy join removed.",
+    "Shafer_Thomas": "Separate adequate-compliance ground retained on the corrected actual record; older objection to Simmons remains reservation rather than another newly adopted independent ground.",
+    "Shafer_formal_remedy": "Six Associate commitments are reversal/remand, resolving statutory stage and conditional inadequacy while preserving danger and conditional Chapman effect. No immediate penalty hearing, sentence substitution, sentence vacatur or harm finding.",
+    "Reiner_Hilario": "Prior supported reconciliations retained; Reiner public tally remains undisclosed and Hilario has no invented historical Supreme Court comparator."
+  },
+  "historical_departures": "No final material historical departure retained. Different current precedent form and explicit Chapman guidance are identified without fabricating changed votes.",
+  "preservation": "Original commitments, affected refreshed commitments, partial reconciliation and prior receipts remain unchanged. Final output and this receipt are newly created."
+}

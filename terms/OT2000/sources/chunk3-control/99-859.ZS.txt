@@ -1,0 +1,47 @@
+Source: https://www.law.cornell.edu/supct/html/99-859.ZS.html
+
+CENTRAL GREEN CO. V. UNITED STATES
+
+LII
+
+Supreme Court
+
+CENTRAL GREEN CO. V. UNITED STATES (99-859)
+177 F.3d 834, reversed and remanded.
+Syllabus
+Opinion
+[ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CENTRAL GREEN CO. v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 99—859. Argued October 30, 2000–Decided February 21, 2001
+
+The Madera Canal, a federal facility leased to the Madera Irrigation District (MID), flows through petitioner’s California orchards. Petitioner brought suit against respondent United States and the MID alleging that their negligence in the canal’s design, construction, and maintenance caused subsurface flooding resulting in damage to the orchards and increased operating costs for petitioner. The complaint sought damages under the Federal Tort Claims Act and other relief. Relying on the immunity granted by the Flood Control Act of 1928, 33 U.S.C. § 702c–which states that “[n]o liability of any kind shall attach to or rest upon the United States for any damage from or by floods or flood waters at any place”–the United States moved for judgment on the pleadings. The District Court dismissed the complaint because the parties agreed that the canal was a part of the Friant Division of the Central Valley Project, and that flood control was one of that project’s purposes. The Ninth Circuit affirmed, holding that although the canal serves no flood control purpose, immunity attached solely because it is a branch of the larger project.
+
+Held: In determining whether §702c immunity attaches, courts should consider the character of the waters that cause the relevant damage and the purposes behind their release rather than the relation between that damage and a flood control project. Pp. 3—12.
+
+(a) A passage in United States v. James, 478 U.S. 597, 605–which states that it is “clear from §702c’s plain language that the terms ‘flood’ and ‘flood waters’ apply to all waters contained in or carried through a federal flood control project for purposes of or related to flood control”–lends support to the Ninth Circuit’s holding, but is unquestionably dictum. It is therefore appropriate to resort to the statute’s text, as illuminated by the James holding, rather than to that isolated comment, to determine whether the water flowing through the canal that allegedly damaged petitioner’s orchards is covered by §702c. The James holding–that the phrase “flood or flood waters” encompasses waters that are released for flood control purposes when reservoired waters are at flood stage–is vastly different from the Ninth Circuit’s reading of §702c, under which immunity attaches simply because the Madera Canal is part of the Friant Division of the Central Valley Project, and flood control is one of the project’s purposes. Pp. 3—6.
+
+(b) To characterize every drop of water flowing through the immense Central Valley Project as “flood water” simply because flood control is among its purposes unnecessarily dilutes the statute’s language. The statute’s text does not include the words “flood control project,” but, rather, states that immunity attaches to “any damage from or by floods or flood waters.” Pp. 7—9.
+
+(c) Neither the statute’s language nor the James holding even arguably supports the Government’s conclusion that §702c immunity must attach to all the water flowing through the canal, even if the water never approached flood stage and the terminus of the canal was parched at the end of the summer. Accordingly, the Court disavows the “related to” portion of James’ dicta. Pp. 9—11.
+
+(d) Because the question of immunity was decided on the pleadings, using an incorrect test and without benefit of an evidentiary hearing or further factual development, the case is remanded for further proceedings. Pp. 11—12.
+
+177 F.3d 834, reversed and remanded.
+
+Stevens, J., delivered the opinion for a unanimous Court.

@@ -1,0 +1,49 @@
+Source: https://www.law.cornell.edu/supct/html/99-1240.ZS.html
+
+BOARD OF TRUSTEES OF UNIV. OF ALA.V. GARRETT
+
+LII
+
+Supreme Court
+
+BOARD OF TRUSTEES OF UNIV. OF ALA.V. GARRETT (99-1240)
+193 F.3d 1214, reversed.
+Syllabus
+Opinion
+[ Rehnquist ]Concurrence
+[ Kennedy ]Dissent
+[ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BOARD OF TRUSTEES OF THE UNIVERSITY OF ALABAMA et al. v. GARRETT et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 99—1240. Argued October 11, 2000–Decided February 21, 2001
+
+Respondents Garrett and Ash filed separate lawsuits against petitioners, Alabama state employers, seeking money damages under Title I of the Americans with Disabilities Act of 1990 (ADA), which prohibits the States and other employers from “discriminat[ing] against a qualified individual with a disability because of th[at] disability … in regard to … terms, conditions, and privileges of employment,” 42 U.S.C. § 12112(a). In an opinion disposing of both cases, the District Court granted petitioners summary judgment, agreeing with them that the ADA exceeds Congress’ authority to abrogate the State’s Eleventh Amendment immunity. The Eleventh Circuit reversed on the ground that the ADA validly abrogates such immunity.
+
+Held: Suits in federal court by state employees to recover money damages by reason of the State’s failure to comply with Title I of the ADA are barred by the Eleventh Amendment. Pp. 4—17.
+
+(a) Congress may abrogate the States’ Eleventh Amendment immunity when it both unequivocally intends to do so and acts pursuant to a valid grant of constitutional authority. Kimel v. Florida Bd. of Regents, 528 U.S. 62, 73. Only the second of these requirements is in dispute here. While Congress may not base abrogation of state immunity upon its Article I powers, see e.g., id., at 79, it may subject nonconsenting States to federal-court suit when it does so pursuant to a valid exercise of its power under §5 of the Fourteenth Amendment, see e.g., id., at 80. Section 5 authorizes Congress to enforce the substantive guarantees contained in §1 of that Amendment by enacting “appropriate legislation.” See City of Boerne v. Flores, 521 U.S. 507, 536. Because it is this Court’s responsibility, not Congress’, to define the substance of constitutional guarantees, id., at 519—524, §5 legislation, to the extent it reaches beyond the precise scope of §1’s protections, must exhibit congruence and proportionality between the injury to be prevented or remedied and the means adopted to that end, id., at 520. Pp. 4—7.
+
+(b) The first step in applying these principles is to identify with some precision the scope of the constitutional right at issue. Here, that inquiry requires examination of the limitations §1 of the Fourteenth Amendment places upon States’ treatment of the disabled. To do so, the Court looks to its prior decisions under the Equal Protection Clause dealing with this issue. Kimel, supra, at 83. In Cleburne v. Cleburne Living Center, Inc., 473 U.S. 432, the Court held, inter alia, that mental retardation did not qualify as a “quasi-suspect” classification for equal protection purposes, id., at 435, and that, accordingly, a city ordinance requiring a special use permit for the operation of a group home for the mentally retarded incurred only the minimum “rational-basis” review applicable to general social and economic legislation, id., at 446. Although “negative attitudes” and “fear” often accompany irrational biases, their presence alone does not a constitutional violation make. Thus, the Fourteenth Amendment does not require States to make special accommodations for the disabled, so long as their actions toward such individuals are rational. They could quite hardheadedly–and perhaps hardheartedly–hold to job-qualification requirements which do not make allowance for the disabled. If special accommodations for the disabled are to be required, they have to come from positive law and not through the Equal Protection Clause. Pp. 7—10.
+
+(c) The requirements for private individuals to recover money damages against the States–that there be state discrimination violative of the Fourteenth Amendment and that the remedy imposed by Congress be congruent and proportional to the targeted violation–are not met here. First, the ADA’s legislative record fails to show that Congress identified a history and pattern of irrational employment discrimination by the States against the disabled. See, e.g., Kimel, supra, at 89. Because Eleventh Amendment immunity does not extend to local governmental units such as cities and counties, see Lincoln County v. Luning, 133 U.S. 529, 530, the Court rejects respondents’ contention that the inquiry as to unconstitutional discrimination should extend to such units as well as to States. Congress made a general finding in the ADA that “historically, society has tended to isolate and segregate individuals with disabilities, and, despite some improvements, such forms of discrimination … continue to be a serious and pervasive social problem.” 42 U.S.C. § 12101(a)(2). Although the record includes instances to support such a finding, the great majority of these incidents do not deal with state activities in employment. Even if it were to be determined that the half a dozen relevant examples from the record showed unconstitutional action on the part of States, these incidents taken together fall far short of even suggesting the pattern of unconstitutional discrimination on which §5 legislation must be based. See, e.g., Kimel, supra, at 89—91. Moreover, statements in House and Senate committee reports indicate that Congresss targeted the ADA at employment discrimination in the private sector. Second, the rights and remedies created by the ADA against the States raise the same sort of concerns as to congruence and proportionality as were found in City of Boerne, supra. For example, while it would be entirely rational (and therefore constitutional) for a state employer to conserve scarce financial resources by hiring employees able to use existing facilities, the ADA requires employers to make such facilities readily accessible to and usable by disabled individuals, §§12112(5)(B), 12111(9). The ADA does except employers from the “reasonable accommodatio[n]” requirement where the employer can demonstrate that accommodation would impose an “undue hardship” upon it, §12112(b)(5)(A), but, even with this exception, the accommodation duty far exceeds what is constitutionally required. The ADA’s constitutional shortcomings are apparent when it is compared to the Voting Rights Act of 1965. Holding the latter Act to be “appropriate” legislation to enforce the Fifteenth Amendment’s protection against racial discrimination in voting, South Carolina v. Katzenbach, 383 U.S. 301, this Court emphasized that Congress had there documented a marked pattern of unconstitutional action by the States, see id., at 312, and had determined that litigation had proved ineffective to remedy the problem, see id., at 313. The contrast between the kind of evidence detailed in Katzenbach, and the evidence that Congress considered in the present case, is stark. To uphold the ADA’s application to the States would allow Congress to rewrite the Fourteenth Amendment law laid down by this Court in Cleburne. Section 5 does not so broadly enlarge congressional authority. Pp. 10—17.
+
+193 F.3d 1214, reversed.
+
+Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. Kennedy, J., filed a concurring opinion, in which O’Connor, J., joined. Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.

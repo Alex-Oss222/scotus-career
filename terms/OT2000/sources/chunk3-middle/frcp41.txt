@@ -1,0 +1,58 @@
+U.S.C. Title 28 - JUDICIARY AND JUDICIAL PROCEDURE
+28 U.S.C. 
+United States Code, 2000 Edition
+Title 28 - JUDICIARY AND JUDICIAL PROCEDURE
+TITLE 28 - APPENDIX
+FEDERAL RULES OF CIVIL PROCEDURE
+VI. TRIALS
+Rule 41 - Dismissal of Actions
+From the U.S. Government Publishing Office, www.gpo.gov
+
+
+
+
+
+Rule 41. Dismissal of Actions
+
+
+(a) Voluntary Dismissal: Effect Thereof.
+(1) By Plaintiff; by Stipulation. Subject to the provisions of Rule 23(e), of Rule 66, and of any statute of the United States, an action may be dismissed by the plaintiff without order of court (i) by filing a notice of dismissal at any time before service by the adverse party of an answer or of a motion for summary judgment, whichever first occurs, or (ii) by filing a stipulation of dismissal signed by all parties who have appeared in the action. Unless otherwise stated in the notice of dismissal or stipulation, the dismissal is without prejudice, except that a notice of dismissal operates as an adjudication upon the merits when filed by a plaintiff who has once dismissed in any court of the United States or of any state an action based on or including the same claim.
+(2) By Order of Court. Except as provided in paragraph (1) of this subdivision of this rule, an action shall not be dismissed at the plaintiff's instance save upon order of the court and upon such terms and conditions as the court deems proper. If a counterclaim has been pleaded by a defendant prior to the service upon the defendant of the plaintiff's motion to dismiss, the action shall not be dismissed against the defendant's objection unless the counterclaim can remain pending for independent adjudication by the court. Unless otherwise specified in the order, a dismissal under this paragraph is without prejudice.
+
+(b) Involuntary Dismissal: Effect Thereof. For failure of the plaintiff to prosecute or to comply with these rules or any order of court, a defendant may move for dismissal of an action or of any claim against the defendant. Unless the court in its order for dismissal otherwise specifies, a dismissal under this subdivision and any dismissal not provided for in this rule, other than a dismissal for lack of jurisdiction, for improper venue, or for failure to join a party under Rule 19, operates as an adjudication upon the merits.
+(c) Dismissal of Counterclaim, Cross-Claim, or Third-Party Claim. The provisions of this rule apply to the dismissal of any counterclaim, cross-claim, or third-party claim. A voluntary dismissal by the claimant alone pursuant to paragraph (1) of subdivision (a) of this rule shall be made before a responsive pleading is served or, if there is none, before the introduction of evidence at the trial or hearing.
+(d) Costs of Previously-Dismissed Action. If a plaintiff who has once dismissed an action in any court commences an action based upon or including the same claim against the same defendant, the court may make such order for the payment of costs of the action previously dismissed as it may deem proper and may stay the proceedings in the action until the plaintiff has complied with the order.
+
+
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991.)
+
+
+
+Notes of Advisory Committee on Rules—1937
+Note to Subdivision (a). Compare Ill.Rev.Stat. (1937) ch. 110, §176, and English Rules Under the Judicature Act (The Annual Practice, 1937) O. 26.
+Provisions regarding dismissal in such statutes as U.S.C., Title 8, §164 [see 1329] (Jurisdiction of district courts in immigration cases) and U.S.C., Title 31, §232 [now 3730] (Liability of persons making false claims against United States; suits) are preserved by paragraph (1).
+Note to Subdivision (b). This provides for the equivalent of a nonsuit on motion by the defendant after the completion of the presentation of evidence by the plaintiff. Also, for actions tried without a jury, it provides the equivalent of the directed verdict practice for jury actions which is regulated by Rule 50.
+
+
+Notes of Advisory Committee on Rules—1946 Amendment
+Subdivision (a). The insertion of the reference to Rule 66 correlates Rule 41(a)(1) with the express provisions concerning dismissal set forth in amended Rule 66 on receivers.
+The change in Rule 41(a)(1)(i) gives the service of a motion for summary judgment by the adverse party the same effect in preventing unlimited dismissal as was originally given only to the service of an answer. The omission of reference to a motion for summary judgment in the original rule was subject to criticism. 3 Moore's Federal Practice (1938) 3037–3038, n. 12. A motion for summary judgment may be forthcoming prior to answer, and if well taken will eliminate the necessity for an answer. Since such a motion may require even more research and preparation than the answer itself, there is good reason why the service of the motion, like that of the answer, should prevent a voluntary dismissal by the adversary without court approval.
+The word “generally” has been stricken from Rule 41(a)(1)(ii) in order to avoid confusion and to conform with the elimination of the necessity for special appearances by original Rule 12(b).
+Subdivision (b). In some cases tried without a jury, where at the close of plaintiff's evidence the defendant moves for dismissal under Rule 41(b) on the ground that plaintiff's evidence is insufficient for recovery, the plaintiff's own evidence may be conflicting or present questions of credibility. In ruling on the defendant's motion, questions arise as to the function of the judge in evaluating the testimony and whether findings should be made if the motion is sustained. Three circuits hold that as the judge is the trier of the facts in such a situation his function is not the same as on a motion to direct a verdict, where the jury is the trier of the facts, and that the judge in deciding such a motion in a non-jury case may pass on conflicts of evidence and credibility, and if he performs that function of evaluating the testimony and grants the motion on the merits, findings are required. Young v. United States (C.C.A.9th, 1940) 111 F.(2d) 823; Gary Theatre Co. v. Columbia Pictures Corporation (C.C.A.7th, 1941) 120 F.(2d) 891; Bach v. Friden Calculating Machine Co., Inc. (C.C.A.6th, 1945) 148 F.(2d) 407. Cf. Mateas v. Fred Harvey, a Corporation (C.C.A.9th, 1945) 146 F.(2d) 989. The Third Circuit has held that on such a motion the function of the court is the same as on a motion to direct in a jury case, and that the court should only decide whether there is evidence which would support a judgment for the plaintiff, and, therefore, findings are not required by Rule 52. Federal Deposit Insurance Corp. v. Mason (C.C.A.3d, 1940) 115 F.(2d) 548; Schad v. Twentieth Century-Fox Film Corp. (C.C.A.3d, 1943) 136 F.(2d) 991. The added sentence in Rule 41(b) incorporates the view of the Sixth, Seventh and Ninth Circuits. See also 3 Moore's Federal Practice (1938) Cum. Supplement §41.03, under “Page 3045”; Commentary, The Motion to Dismiss in Non-Jury Cases (1946) 9 Fed.Rules Serv., Comm.Pg. 41b.14.
+Notes of Advisory Committee on Rules—1963 Amendment
+Under the present text of the second sentence of this subdivision, the motion for dismissal at the close of the plaintiff's evidence may be made in a case tried to a jury as well as in a case tried without a jury. But, when made in a jury-tried case, this motion overlaps the motion for a directed verdict under Rule 50(a), which is also available in the same situation. It has been held that the standard to be applied in deciding the Rule 41(b) motion at the close of the plaintiff's evidence in a jury-tried case is the same as that used upon a motion for a directed verdict made at the same stage; and, just as the court need not make findings pursuant to Rule 52(a) when it directs a verdict, so in a jury-tried case it may omit these findings in granting the Rule 41(b) motion. See generally O'Brien v. Westinghouse Electric Corp., 293 F.2d 1, 5–10 (3d Cir. 1961).
+As indicated by the discussion in the O'Brien case, the overlap has caused confusion. Accordingly, the second and third sentences of Rule 41(b) are amended to provide that the motion for dismissal at the close of the plaintiff's evidence shall apply only to nonjury cases (including cases tried with an advisory jury). Hereafter the correct motion in jury-tried cases will be the motion for a directed verdict. This involves no change of substance. It should be noted that the court upon a motion for a directed verdict may in appropriate circumstances deny that motion and grant instead a new trial, or a voluntary dismissal without prejudice under Rule 41(a)(2). See 6 Moore's Federal Practice §59.08[5] (2d ed. 1954); cf. Cone v. West Virginia Pulp & Paper Co., 330 U.S. 212, 217, 67 S.Ct. 752, 91 L.Ed. 849 (1947).
+The first sentence of Rule 41(b), providing for dismissal for failure to prosecute or to comply with the Rules or any order of court, and the general provisions of the last sentence remain applicable in jury as well as nonjury cases.
+The amendment of the last sentence of Rule 41(b) indicates that a dismissal for lack of an indispensable party does not operate as an adjudication on the merits. Such a dismissal does not bar a new action, for it is based merely “on a plaintiff's failure to comply with a precondition requisite to the Court's going forward to determine the merits of his substantive claim.” See Costello v. United States, 365 U.S. 265, 284–288, 81 S.Ct. 534, 5 L.Ed.2d 551 & n. 5 (1961); Mallow v. Hinde, 12 Wheat. (25 U.S.) 193, 6 L.Ed. 599 (1827); Clark, Code Pleading 602 (2d ed. 1947); Restatement of Judgments §49, comm. a, b (1942). This amendment corrects an omission from the rule and is consistent with an earlier amendment, effective in 1948, adding “the defense of failure to join an indispensable party” to clause (1) of Rule 12(h).
+Notes of Advisory Committee on Rules—1966 Amendment
+The terminology is changed to accord with the amendment of Rule 19. See that amended rule and the Advisory Committee's Note thereto.
+Notes of Advisory Committee on Rules—1968 Amendment
+The amendment corrects an inadvertent error in the reference to amended Rule 23.
+Notes of Advisory Committee on Rules—1987 Amendment
+The amendment is technical. No substantive change is intended.
+Notes of Advisory Committee on Rules—1991 Amendment
+Language is deleted that authorized the use of this rule as a means of terminating a non-jury action on the merits when the plaintiff has failed to carry a burden of proof in presenting the plaintiff's case. The device is replaced by the new provisions of Rule 52(c), which authorize entry of judgment against the defendant as well as the plaintiff, and earlier than the close of the case of the party against whom judgment is rendered. A motion to dismiss under Rule 41 on the ground that a plaintiff's evidence is legally insufficient should now be treated as a motion for judgment on partial findings as provided in Rule 52(c).
+
+
+
+
