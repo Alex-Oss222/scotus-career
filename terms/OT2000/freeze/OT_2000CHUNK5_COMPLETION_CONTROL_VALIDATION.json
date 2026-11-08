@@ -1,0 +1,35 @@
+{
+  "scope": "Two existing events only: Coss 2001-04-25 and Hatter 2001-05-21.",
+  "approved_input": "The latest Sections II in the approved chunk brief supersede the earlier positions in full; no separate approval handoff is used.",
+  "runtime_check": "All six matter extracts are exact current section projections.",
+  "input_hashes": [
+    {
+      "file": "runtime/OT_2000CHUNK5_NEUTRAL_coss.md",
+      "sha256": "09a2d9fa1ab4091a99c8c4e1f0a47c2133672b00968be2f3ede895ea2706cc68"
+    },
+    {
+      "file": "runtime/OT_2000CHUNK5_STONE_coss.md",
+      "sha256": "3b39b152c75e0a90c1c57c557739ebaf5deed266d7098044db714d81efe4e836"
+    },
+    {
+      "file": "runtime/OT_2000CHUNK5_COMPARATOR_coss.md",
+      "sha256": "5c6f6d56de87497fdeec66edfc3fe01d8d00b382068273937983f24a596baef1"
+    },
+    {
+      "file": "runtime/OT_2000CHUNK5_NEUTRAL_hatter.md",
+      "sha256": "31e0207d21ff7e0fd5f5e93475a0e0beea25e3f098b18172a9c5141778d0c063"
+    },
+    {
+      "file": "runtime/OT_2000CHUNK5_STONE_hatter.md",
+      "sha256": "4244d8b0ebb2785300ec5ba5a7617f0497e97230367f6ac35721995b44e97fcc"
+    },
+    {
+      "file": "runtime/OT_2000CHUNK5_COMPARATOR_hatter.md",
+      "sha256": "f2abab1dc4b3ed9d3f90cdbe942ae3e385448eb766eb789aa9da0be2d974c095"
+    }
+  ],
+  "coss_control": "The exact alternative judgment, five named judgment supporters and four dissenters, and the Breyer lead assignment are expressly fixed. This supplies no additional proposition join, access rule or factual finding. The frozen reconciled grounds remain the substantive limit.",
+  "hatter_control": "The Section 14 premise establishes the bounded 1996 procedure only. The approved Section II incorporates Garvey Part I; all non-Stone votes require the isolated pipeline.",
+  "chronology": "Existing dates and inventory events are unchanged. Earlier-date Records enter later assignment recounts; completed later assignments stand.",
+  "repository_history": "Not inspected; operator verification and commitment remain outstanding."
+}

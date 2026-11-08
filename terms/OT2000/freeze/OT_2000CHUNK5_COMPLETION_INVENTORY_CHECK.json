@@ -1,0 +1,35 @@
+{
+  "inventory_rows": 114,
+  "matched_manifest_rows": 114,
+  "status_rows_changed": 2,
+  "case_list_sha256": "bd496d64f4938c3cabddd9282136e2c5cbe76c6dffa1f7366fc931602f23b118",
+  "nonstatus_cells": "All preserved, including existing event labels and current stages",
+  "preserved_event_labels": [
+    {
+      "case": "District of Columbia v. Tri County Industries, Inc.",
+      "preserved_event": "Dismissal of writ as improvidently granted",
+      "scheduled_event": "Merits decision"
+    },
+    {
+      "case": "Clark County School District v. Breeden",
+      "preserved_event": "Certiorari grant and summary merits disposition",
+      "scheduled_event": "Merits decision"
+    },
+    {
+      "case": "Major League Baseball Players Assn. v. Garvey",
+      "preserved_event": "Certiorari grant and summary merits disposition",
+      "scheduled_event": "Merits decision"
+    },
+    {
+      "case": "United States v. Valentine +",
+      "preserved_event": "Merits submission and decision",
+      "scheduled_event": "Merits decision"
+    }
+  ],
+  "status_counts": {
+    "Completed:": 70,
+    "Stopped:": 0,
+    "Carry forward:": 0,
+    "Open": 44
+  }
+}

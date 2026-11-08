@@ -1,10 +1,6 @@
 # OT_2000CHUNK5 Render Input
 
-**October Term:** 2000. **Completed events:** 12. **Chronological range:** 2001-04-24 through 2001-05-21.
-
-**Stopped matters:**
-- United States v. Hatter: The supplied review presupposes a 1996 no-quorum disposition under 28 U.S.C. section 2109, but no authorized in-world entry or operative mandate for that action was found in the targeted continuity check. The historical disposition at 519 U.S. 801 alone cannot establish a post-divergence Court action. An existing authorized disposition and its scope, or an approved revised procedural premise and matching controlled position, is required before this matter can proceed.
-- Lackawanna County District Attorney v. Coss: The supported positions do not establish the required majority for one exact judgment and mandatory remand. The proposed common disposition failed the final join audit, and the narrower supported alternative is not compatible with every position needed for a majority. Further lawful consideration establishing a supported common disposition, or authorization for an appropriate subsequent procedural step, is required. No judgment, equal division, opinion assignment or new Court order has been entered.
+**October Term:** 2000. **Completed events:** 14. **Chronological range:** 2001-04-24 through 2001-05-21.
 
 <!-- source-record: Alexander_v_Sandoval_merits_2001-04-24.md -->
 ## Event
@@ -420,6 +416,110 @@ This motion remains denied and the current federal sentence remains operative. T
 ## Source Notes
 
 The [official report](https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-374.pdf) supplies argument and decision dates, the four predicates, the present federal sentence, the two robbery-plea allegations, the prior statutory-classification appeal and the acknowledged absence of an asserted external review impediment. No evidentiary finding establishes either alleged plea defect. The differing statutory vehicles and review histories remain distinct.
+
+---
+
+<!-- source-record: Lackawanna_County_District_Attorney_v_Coss_merits_2001-04-25.md -->
+## Event
+
+Lackawanna County District Attorney v. Coss, No. 99-1884. Merits decision, April 25, 2001; argued February 20, 2001. On writ of certiorari to the United States Court of Appeals for the Third Circuit, reviewing its en banc judgment, 204 F.3d 453, which accepted review of the current sentence and directed an alternative retry-or-resentence remedy after finding trial prejudice from ineffective assistance in the earlier case.
+
+The question is whether a state prisoner may challenge a current sentence under section 2254 on the ground that independently completed prior convictions were unconstitutional, including where a timely state collateral challenge has never been adjudicated. The Court resolves the judgment through the confined remand without a majority rationale answering the general access question.
+
+Coss's 1986 assault, institutional-vandalism and criminal-mischief sentences had expired before his 1990 aggravated-assault sentence. His June 1987 state petition received appointed counsel and an answer but apparently no ruling for almost fourteen years; responsibility for the lapse remains unexplained. At resentencing the judge eliminated the challenged misdemeanors' numerical score effect, considered the criminal record with other stated sentencing factors, and imposed six to twelve years. The district court found deficient performance but no trial prejudice; the Third Circuit found a reasonable probability of a different result at the 1986 assault trial. Both identified consideration of the prior convictions. The federal petition was filed in September 1994. Daniels v. United States concerns a distinct federal-prisoner vehicle and is separately decided on the same date.
+
+## Participation
+
+All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The Court vacates the Third Circuit judgment and remands on the confined conditions stated below.
+
+## Judgment & Remedy
+
+Vacated and remanded, 5–4. Supporting: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Opposing: O'Connor, Scalia, Kennedy and Thomas.
+
+The Third Circuit judgment is vacated, and the case is remanded for the Court of Appeals to determine whether any pursued objection that the 1986 convictions did not increase the sentence selected within the range may be heard or was waived and, if it may be heard, to apply proper appellate review; and, only if an identified requirement of former 28 U.S.C. §2254(b) is shown to remain actually unresolved, to resolve that requirement on the materials bearing on it. The existing deficient-performance, trial-prejudice and consideration determinations keep their lawful scope unless lawfully displaced. The judgment directs no denial on a newly assumed absence of sentencing effect, no automatic release and no freestanding vacation of an expired judgment.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion announcing the judgment | Breyer | Stevens, Souter, Ginsburg | Explains the five-vote vacatur and remand; four joins to its reasons | Entire confined procedural explanation, exact mandate and preservation of existing determinations; no adopted indirect-review rule |
+| Concurrence | Souter | Stevens, Ginsburg | Joins the lead opinion and the exact judgment | Broader current-sentence review position and objection to deciding no effect here; no exclusive faultlessness gateway |
+| Concurrence | Breyer | No other Justice | Joins the exact judgment and states a further individual position | First-effective-forum inquiry before deciding a possible constitutional exception; exception remains undecided |
+| Concurrence in the judgment | Stone-Zsela | No other Justice | Supplies the fifth judgment vote; does not join the lead opinion | Own bounded access rule and responsibility inquiry in every event; those reasons and that additional inquiry do not enter the mandate |
+| Dissent, Part I | O'Connor | Scalia, Kennedy, Thomas | Would reverse and remand without the existing federal relief direction | General indirect-review restriction, complete-denial-of-required-counsel exception and ordinary procedural prerequisites |
+| Dissent, Part II | O'Connor | Kennedy | Same proposed reversal | Leaves open an additional exception for faultless denial of meaningful earlier review |
+| Dissent, Part III | O'Connor | Kennedy, Thomas | Independently would reverse and remand on no adverse sentencing effect | Appellate review is available; combined sentencing record supports the same sentence without the challenged convictions |
+
+No opinion commands five joins. Stone-Zsela agrees with every operative term of the judgment but supplies no fifth join to Breyer's procedural reasoning or to any other Justice's access theory. Scalia does not join the dissent's additional-exception discussion or its no-effect ground; Thomas joins the latter but not the former.
+
+## Holdings
+
+### Binding judgment without a controlling access rationale
+
+**Judgment and operative mandate:** The Third Circuit judgment is vacated, and the case is remanded for the Court of Appeals to determine whether any pursued objection that the 1986 convictions did not increase the sentence selected within the range may be heard or was waived and, if it may be heard, to apply proper appellate review; and, only if an identified requirement of former 28 U.S.C. §2254(b) is shown to remain actually unresolved, to resolve that requirement on the materials bearing on it. The existing deficient-performance, trial-prejudice and consideration determinations keep their lawful scope unless lawfully displaced. The judgment directs no denial on a newly assumed absence of sentencing effect, no automatic release and no freestanding vacation of an expired judgment.
+
+**Authority:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer support the exact judgment. Breyer's opinion announcing it is joined by Stevens, Souter and Ginsburg; its reasons have four joins. Stone-Zsela concurs only in the judgment. The mandate binds the parties, but the fifth judgment vote does not establish a controlling procedural rationale or access rule.
+
+**Explanation of the four-Justice opinion:** The petition challenges Coss's current imprisonment, not custody under the independently completed 1986 sentences. Maleng permits that construction while leaving the extent of indirect review distinct. Custis limits the ACCA sentencing forum and leaves the materially different absence of meaningful earlier review undecided. Neither decision makes a mention of prior convictions conclusive proof of increased imprisonment or makes an unchanged numerical range conclusive proof of no increase.
+
+The existing record presents two causal questions: the effect on the range and the effect on the sentence chosen within it. The challenged misdemeanors were removed from the prior-record score, but the lower courts found consideration in selecting the sentence. The published account of the lower briefing distinguishes an argument about the range from an objection to the within-range effect. Proper treatment of an actually pursued objection therefore requires a determination whether it may be heard and, if so, appellate review of the actual findings and inferences. The Court does not itself decide waiver, effect or a contrary factual finding.
+
+Former section 2254(b) requires exhaustion, absence of an available state corrective process, or circumstances rendering that process ineffective to protect the prisoner's rights. The petition's September 1994 filing places it under the former framework. That law does not justify treating an unidentified prerequisite as outstanding. Any inquiry under the mandate must first identify a requirement actually left unresolved and use the materials bearing on it. The old petition's unexplained pendency does not itself establish prisoner fault, faultlessness or satisfaction of every procedural condition. Existing performance, trial-prejudice and consideration determinations are not erased by the return.
+
+### Fragmentation and remaining work
+
+**No controlling access rule under Marks:** Stone-Zsela's affirmative no-fault access rule, the broader current-sentence route supported by Stevens, Souter and Ginsburg, and Breyer's refusal to decide an additional constitutional exception are different legal positions. Stone-Zsela and the three broader-route Justices supply only four affirmative access positions even if his proposed category is treated as a subset of theirs. Breyer supplies no affirmative exception to complete that coalition. The lead's procedural explanation has four joins, and Stone-Zsela's judgment-only vote supplies no shared rationale. Marks cannot turn the five votes for this mandate into five votes for an additional review exception, an exclusive faultlessness condition or a general indirect-review bar.
+
+The Court makes no present finding of responsibility for the failed original review, waiver, abandonment, constitutional validity beyond the existing determinations' lawful scope, or adverse sentencing effect. The preservation question and any properly available causal review are work under the mandate; a former section 2254(b) inquiry arises only upon the stated actual-unresolved-requirement condition. No unconditional responsibility inquiry or new evidentiary hearing is ordered. The broader access question lacks a majority rationale. A newly discovered actual-innocence claim is outside the claim presented. No automatic resentencing, retrial, fixed reduction or release follows.
+
+## Precedent Treatment
+
+- **Maleng v. Cook, 490 U.S. 488 (1989):** Its distinction between a challenge to current custody and a freestanding attack on an independently expired sentence remains. The accepted current-sentence construction does not itself settle indirect review's reach.
+- **Custis v. United States, May 23, 1994:** Its ACCA sentencing-channel restriction and qualifying complete-denial-of-counsel exception remain at their existing scope. No majority here extends that restriction into a general section 2254 bar or resolves the reserved absence-of-meaningful-review category.
+- **Garlotte v. Fordice, May 30, 1995:** Its continuous, unexpired consecutive-sentence rule remains distinct from these independently completed sentences; it does not supply direct custody over them.
+- **Strickland v. Washington, 466 U.S. 668 (1984):** Its distinct deficient-performance and trial-prejudice inquiries remain. The existing lower determinations retain their lawful scope rather than being discarded by the remand.
+- **United States v. Tucker, 404 U.S. 443 (1972), and Glover v. United States, January 9, 2001:** Their requirements concerning unconstitutional sentencing inputs and actual causal prejudice remain. Glover excludes an added minimum-duration or offense-level threshold; it does not establish that these convictions increased this sentence.
+- **Parke v. Raley, December 1, 1992:** Its collateral regularity and lawful proof rules remain; they establish neither that this pending challenge received a decision nor that every old conviction is constitutionally valid.
+- **Lindh v. Murphy, June 23, 1997, and Fiore v. White, January 9, 2001:** Lindh's filing-date distinction preserves the former framework here. Fiore's separation of constitutional merits from actually outstanding habeas conditions remains useful at that scope; its later-filed petition's statutory rules are not transferred wholesale to this case.
+- **Marks v. United States, 430 U.S. 188 (1977):** The judgment does not yield a controlling access rationale by combining an affirmative rule with a Justice's refusal to decide it. No precedent is overruled.
+
+## Law After Decision
+
+The exact vacatur and remand govern this case. No new general rule authorizes or forbids indirect review of expired convictions through section 2254, and no additional exception or exclusive no-fault gateway acquires controlling force. Existing custody, collateral-review and former habeas requirements retain their own operation. The Court decides neither that consideration necessarily increased punishment nor that removal of prior-record points necessarily eliminated within-range influence. Existing determinations remain within their lawful scope unless lawfully displaced, and the conditional appellate work cannot be enlarged into an automatic obligation to relitigate every predicate.
+
+## Separate Writings
+
+**Souter, concurring, joined by Stevens and Ginsburg.** They join Breyer's procedural opinion and every term of the remand while retaining the broader current-sentence route they would otherwise use to sustain the lower court's conditional remedial return. Custis's ACCA sentencing restriction does not foreclose a later petition directed to actual current custody; its dissenting statutory analysis and Tucker's concern with unconstitutional sentencing predicates support their position. Garlotte preserves the actual custody boundary, and Parke preserves ordinary collateral proof requirements. Their route remains subject to the applicable former habeas framework and a sufficient connection to the current sentence; it does not authorize repeated review free of procedural limits.
+
+The sentencing range and selection within it are different. The lower findings, the published account of the prosecutor's submissions and the disputed availability of a within-range objection make a present contrary no-effect determination improper. Other history and the sentencing judge's stated reasons make the objection substantial without establishing that this Court should resolve it now. They accept the confined appellate return, rather than declaring waiver here, and do not require an exclusive finding of faultlessness as a new review gateway. Their preferred conditional remedy addresses present custody: retrial of the 1986 assault only if independently lawful, or resentencing for the 1990 assault without the unconstitutional predicate. That preference supplies no otherwise unavailable retrial authority or immediate relief under today's mandate.
+
+**Breyer, concurring.** He leaves a constitutionally based additional exception undecided. Before resolving that issue, he would examine whether the present petition was effectively the first and only forum for review, using the actual state process and the explanation for its long lapse. The mere pendency of the state petition proves neither a meaningful opportunity nor its absence. He does not affirm a broad constitutional entitlement to indirect review or adopt a universal bar. He also refuses a present no-effect adjudication: removal of points does not dispose of discretionary influence, and the lower findings and disputed presentation require proper appellate treatment. His individual first-forum concern does not enlarge the judgment into an unconditional inquiry; the operative former section 2254(b) direction applies only if an identified requirement is shown actually unresolved. No exception, fault finding, new-hearing requirement or immediate sentence relief follows from his concurrence.
+
+**Stone-Zsela, concurring in the judgment.** He would recognize a limited present-custody route when meaningful original review of the expired predicate was frustrated through no fault of the prisoner, subject to ordinary applicable procedural requirements, constitutional invalidity and proof of adverse effect on current custody. Finality protects adjudications and usable opportunities; it should not treat an unprovided adjudication as one already received. Custis left this different situation open, and former section 2254(b) recognizes an absent or ineffective state process. A nominally pending petition need not require indefinite waiting, but fourteen years of unexplained inaction alone does not establish diligence, blame or satisfaction of the applicable requirements.
+
+He maintains that responsibility for the failed original review must be determined in every event. The inquiry should examine the actual filings, notices, testimony and explanation for the delay; it should not demand a statistical demonstration that fourteen years is excessive or attribute the lapse without supported facts. Removal of points bears on one causal route, while possible influence on the sentence selected within the range remains distinct. His preferred rule would permit an appropriately conditioned opportunity for lawful resentencing only upon satisfaction of its conditions, with no automatic release or freestanding vacation of the expired judgment. He nevertheless agrees with the exact narrower mandate and preserves his additional responsibility inquiry as his separate position. He joins no lead reasoning, and his proposed access rule does not become the Court's law.
+
+**O'Connor, dissenting, joined by Scalia, Kennedy and Thomas in Part I.** They would apply the general restriction against reopening an independently expired predicate through a later section 2254 sentence challenge after ordinary review opportunities, preserving the exception for unconstitutional complete denial of required counsel without valid waiver and the ordinary habeas prerequisites. Ineffective representation is a different claim. Finality and the practical difficulty of reviewing old convictions support the channel limitation; an excuse from exhaustion does not itself create an indirect-review channel. They accept the current-sentence construction without finding the old judgments valid, the petition abandoned or Coss responsible for the delay. Their proposed reversal removes the present federal retry-or-resentence direction while leaving independently authorized state review under its own law.
+
+**O'Connor's Part II, joined by Kennedy.** They leave open whether faultless denial of meaningful earlier review permits an additional route. The current sentencing-effect issue can defeat relief even assuming such a route. They adopt no new innocence exception in a case presenting ineffective assistance rather than a newly discovered innocence claim. Scalia and Thomas do not join this additional-exception discussion.
+
+**O'Connor's Part III, joined by Kennedy and Thomas.** They would independently reverse because the challenged convictions did not increase the actual six-to-twelve-year sentence. They accept consideration but regard the adverse-effect inference as clearly erroneous. They rely on the combined removal of score and range effects, the present aggravated assault, independent supported juvenile and adult history, and the sentencing judge's stated concerns with the present crime, community protection, criminal disposition, rehabilitation, testimony and continued lawbreaking. They conclude that the same sentence would have been selected without the challenged convictions; no single factor supplies a general harmlessness rule.
+
+Their appraisal does not treat dropped-charge arrests as proved misconduct, count the challenged convictions again as independent valid history or invent an express same-sentence disclaimer. They acknowledge the contrary force of actual consideration and the absence of an explicit counterfactual sentence. Glover forbids disregarding a proved increase as too small; it does not require finding an increase whenever a conviction is mentioned. They regard the essential adverse-effect determination already addressed below as properly reviewable, without asserting that the prosecutor actually presented a within-range argument in the panel brief or announcing a general power to disregard waiver. Their no-effect ground is an appellate legal assessment, not an added neutral fact. Scalia does not join it.
+
+## Procedure After Action
+
+The Third Circuit judgment is vacated, and the case is remanded for the Court of Appeals to determine whether any pursued objection that the 1986 convictions did not increase the sentence selected within the range may be heard or was waived and, if it may be heard, to apply proper appellate review; and, only if an identified requirement of former 28 U.S.C. §2254(b) is shown to remain actually unresolved, to resolve that requirement on the materials bearing on it. The existing deficient-performance, trial-prejudice and consideration determinations keep their lawful scope unless lawfully displaced. The judgment directs no denial on a newly assumed absence of sentencing effect, no automatic release and no freestanding vacation of an expired judgment.
+
+The case returns to the Third Circuit. Vacatur removes the existing retry-or-resentence direction; further disposition must follow the confined mandate and applicable law. The current sentence is not reduced by this judgment. No unconditional inquiry into responsibility for the failed original review, new evidentiary hearing or return to this Court is directed.
+
+## Source Notes
+
+The [official report, 532 U.S. 394](https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-394.pdf), supplies the argument date, record chronology, lower findings and remedial direction at pages 397–400, and the published characterization of the lower appellate submissions at page 409. That characterization is not a judicial determination that a within-range objection was waived. The sentencing court's removal of points and its consideration of the record are distinct facts; neither alone establishes the effect on the sentence selected. The source does not establish responsibility for the unadjudicated state petition or prove that any identified former section 2254(b) requirement remains unresolved. The question is stated in substance, without claiming a verbatim grant formulation.
 
 ---
 
@@ -1139,3 +1239,144 @@ The Court directs no damages award, general injunction, new participation invest
 The [official report, 532 U.S. 514–556](https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-514.pdf), supplies the argument date, parties and dockets, material conversation and disclosures, statutory coverage, certified interlocutory assumptions and lower judgment. The lower decision is reported at 200 F.3d 109. Section 2511(1)(c) supplies the federal disclosure prohibition; §2520 supplies the civil remedy. The Pennsylvania disclosure claim presents the parallel application.
 
 Intentional unlawful interception and respondents' knowledge or reason to know are assumptions for the certified constitutional question, not final trial findings. The assumed nonparticipation and lawful receipt are likewise the premises on which that question is decided. The recording's accuracy is undisputed. The language suggesting physical harm supplies public context, not a criminal-threat finding. No original merits filing, separate finding of agency, or empirical measurement of deterrence is attributed to the record.
+
+---
+
+<!-- source-record: United_States_v_Hatter_merits_2001-05-21.md -->
+## Event
+
+United States v. Hatter, No. 99-1978. Merits decision, May 21, 2001; argued February 20, 2001. On review of the Federal Circuit's later judgment, 203 F.3d 795 (2000), retaining Parts 1 and 2 of 185 F.3d 1356 (1999) and replacing Part 3. The questions concern the effect of the earlier no-quorum affirmance, application of Medicare and Social Security taxes to incumbent Article III judges, and the asserted cure by a later general salary increase. The United States seeks reversal of compensation liability; the judges seek recovery of unlawful deductions subject to limitations and computation.
+
+After the Federal Circuit directed liability judgment for the judges in 64 F.3d 647 (1995), the 1996 order under 28 U.S.C. section 2109 affirmed for want of a quorum with the effect of an equally divided affirmance. On remand, the Court of Federal Claims treated some claims, including all Medicare claims, as untimely and treated subsequent raises as curing the diminution. The 1999 panel retained the liability ruling as law of the case, rejected that cure, but sustained the limitations barrier. The en banc court left the panel's liability and cure treatment in place and replaced its limitations analysis with continuing-claim treatment of recurring deductions. The later judgment under review therefore rejected both the trial court's cure determination and its limitations determination; no final claimant-specific amount was fixed.
+
+Congress extended Medicare coverage and taxation generally to federal employees in 1982, effective in 1983. The Social Security transition treated existing employees differently: most could remain outside, mandatory participants with contributory pensions could avoid an additional burden through a contribution adjustment, and these judges' noncontributory retirement arrangement supplied no such protection. The legal effect of a subsequent general salary increase is disputed. No legislative hostility is found.
+
+## Participation
+
+Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision. Stevens and O'Connor take no part in the consideration or decision. A quorum is present: seven participate, six are required, and four constitute a majority. No reason for nonparticipation is stated.
+
+## Public Action
+
+The Federal Circuit judgment is affirmed in part, reversed in part, and remanded after argued merits review.
+
+## Judgment & Remedy
+
+Affirmed in part, reversed in part, and remanded.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Medicare compensation liability | Reversed, 5–2 | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas | No recovery on the categorical constitutional exemption theory; generally applicable Medicare liability remains valid. |
+| Social Security compensation liability | Affirmed, 7–0 | Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Timely, proven unlawful deductions for the affected incumbents remain recoverable, subject to the operative limitations judgment and individual computation. |
+| General-raise defense to surviving Social Security liability | Rejection of the defense affirmed, 7–0 | Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The general increase does not terminate or satisfy these unlawful deductions. No amount is awarded here. |
+
+The Court reaches both constitutional questions on the threshold ground identified in Part I. Thomas accepts that determination as the predicate for his merits adjudication without joining its explanation; he supplies no contrary threshold vote. Scalia and Thomas would additionally preserve timely Medicare recovery. Stevens and O'Connor do not participate in any component.
+
+The case returns to the Federal Circuit for proceedings consistent with this decision, with the surviving compensation claims to be resolved in the Court of Federal Claims under the operative limitations framework. The prior panel's blanket Medicare limitations bar is not the ground for denying Medicare recovery. No additional filing condition, mandatory evidentiary hearing or numerical award is imposed.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Parts I and IV | Souter | Stone-Zsela, Scalia, Kennedy, Ginsburg, Breyer | Present merits review; rejection of the general-raise defense to surviving Social Security liability | Confined no-quorum and later-judgment analysis; contextual no-cure rule and lawful implementation boundaries. Part IV does not adopt Medicare reversal. |
+| Opinion of the Court, Parts II and III | Souter | Stone-Zsela, Kennedy, Ginsburg, Breyer | Medicare reversal, 5–2; Social Security affirmance within the 7–0 judgment | Ordinary-tax rule and limited overruling of Evans; Medicare validity and denial of that recovery; actual-operation discrimination and Social Security liability. |
+| Concurrence in part and dissent in part | Scalia | No other Justice | Would affirm both tax-liability components; agrees with no-cure result | Joins I and IV; rejects II and III; separate employment-compensation ground for both taxes. |
+| Concurrence in the judgment in part and dissent in part | Thomas | No other Justice | Would affirm both tax-liability components and rejection of cure | Joins no part of the Court opinion; accepts Court-resolved reach as predicate; retains Evans and rejects cure on his distinct entitlement ground. |
+
+Souter delivers one signed opinion. Every controlling proposition has direct majority support at its stated level of generality; no aggregation of separate theories or Marks rationale is needed.
+
+## Holdings
+
+### I. The earlier statutory affirmance does not bar this later review
+
+**Holding and operative rule:** On proper review of the later judgment in this litigation, the earlier affirmance for want of a quorum does not foreclose consideration of the antecedent constitutional liability questions. The statutory affirmance retains its lawful case-specific force, including the mandate that bound the Court of Federal Claims on remand; it does not insulate those questions from the present review.
+
+**Authority:** Part I of Souter's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Ginsburg and Breyer. These six directly adopt the threshold rule and explanation. Thomas accepts the Court's resolution as the predicate for deciding the merits but does not join this rationale or cast a contrary threshold vote.
+
+**Controlling explanation:** The Court holds that the earlier inability to act does not prevent consideration of the constitutional questions properly presented through the later judgment. Section 2109 gave the earlier order the effect of an equally divided affirmance. That order was effective below; absence of an opinion does not erase a judgment's binding force.
+
+The judges invoke Pink, which distinguishes the binding effect of an equally divided affirmance between the parties from its lack of precedential reasoning. That distinction is sound, but Pink's statement concerned a division after consideration of the controversy. Here the Court could consider neither the merits nor whether to undertake merits review. The absence of that consideration, and the difficulty of providing an equivalent substitute for this Court's review, defeat the asserted bar in this continuing litigation. The conclusion rests on that confined difference, not on a general power to disregard unreasoned judgments or on the constitutional importance of the question alone.
+
+Garvey, applying Mercer and Hamilton-Brown Shoe, supplies the lawful channel: review of a later judgment may reach an antecedent ruling necessary to it, even though the earlier mandate bound the court below. Garvey does not itself answer the additional section 2109 objection; the no-quorum distinction supplies that answer here. The Federal Circuit's treatment of liability as law of the case explains the proceedings below but does not make the antecedent ruling immune from this Court's present review. Both compensation questions are therefore reached without denying the earlier mandate's lawful operation.
+
+**Limits:** The Court does not announce that every statutory affirmance lacks binding effect between its parties or that every final judgment without reasons may be reconsidered. It adopts no general extraordinary-circumstances exception to finality.
+
+### II. Ordinary nondiscriminatory taxation is compatible with protected judicial compensation
+
+**Holding and operative rule:** The Compensation Clause permits ordinary nondiscriminatory taxation of incumbent judges' compensation, including generally shared taxes enacted after their appointment. Evans v. Gore is overruled insofar as it forbids that taxation; direct reductions of compensation and discriminatory indirect reductions remain prohibited, and the generally extended Medicare tax is valid as applied here.
+
+**Authority:** Parts II and III of Souter's Opinion of the Court are joined in full by Stone-Zsela, Kennedy, Ginsburg and Breyer. Those five directly adopt the ordinary-tax rule, the Medicare application, the discrimination rule and its Social Security application. Scalia and Thomas do not join either part.
+
+**Controlling explanation:** The Court holds that judicial independence requires protection of compensation, not permanent insulation from ordinary civic obligations. O'Malley sustained general taxation for a judge appointed after the governing tax policy and explained why sharing that burden does not compromise the office. Its holding did not resolve the present incumbent question, but its constitutional distinction applies here. Will protects compensation once legally due and rejects direct salary reductions even when other officials are included; it also distinguishes ordinary general taxation from those reductions.
+
+Evans treated a tax imposed after appointment as an impermissible diminution. That categorical rule cannot be maintained alongside the distinction between a protected compensation entitlement and ordinary taxation. The expectation that stipulated compensation will remain protected does not entail an immutable tax regime. Overruling the broader tax immunity preserves the reliance that matters to judicial independence: Congress may neither cut the compensation owed nor accomplish an equivalent discriminatory reduction indirectly.
+
+Acker requires attention to an exaction's operation rather than its label, but expressly reserved this independent constitutional question. Its statutory consent analysis supplies no automatic Article III answer. The Medicare extension applies generally to federal employees and contains no discriminatory transition of the kind presented by Social Security. The fact that these judges previously enjoyed an employment-related exemption does not convert this ordinary shared tax into a prohibited compensation reduction. The contrary package theory would preserve that exemption despite the absence of the discrimination or direct reduction the controlling rule requires. Medicare liability is therefore valid, and compensation recovery on the rejected constitutional exemption theory is unavailable.
+
+**Limits:** A tax label does not validate a disguised reduction, and including other officials does not save a direct salary cut. No claim by a newly appointed judge or materially different pension classification is presented; O'Malley's existing holding remains intact.
+
+### III. The Social Security transition discriminatorily diminishes these incumbents' compensation
+
+**Holding and operative rule:** Congress may not materially single out incumbent Article III judges for a new reduction of protected compensation through the combined operation of tax coverage and pension classifications. The Social Security transition violates that rule as applied to the affected incumbents because compulsory coverage imposes an additional burden without the opt-out or contribution protection afforded other current federal employees; proof of subjective legislative hostility is unnecessary.
+
+**Authority:** Part III, adopted by the five-Justice coalition identified in Part II. Scalia and Thomas also support affirmance of Social Security liability, on their distinct grounds, but supply no additional joins to this discrimination holding.
+
+**Controlling explanation:** The Court holds that the actual transition, considered as a whole, places these incumbent judges outside the ordinary-tax rule. Most existing federal employees could remain outside Social Security. Mandatory participants in contributory retirement systems could avoid an additional payroll burden through a contribution adjustment. These judges' noncontributory retirement system afforded neither protection from the new compulsory charge.
+
+The relevant comparison is among current federal employees facing entry into the program. Acker's attention to actual operation and the pertinent comparison informs that inquiry, while the Compensation Clause supplies the independent constitutional protection. The difference between retirement systems is relevant, but does not itself answer why these incumbents must bear an additional deduction when the transition protects other incumbents through the two identified mechanisms. Pension coordination cannot be used to offset the compensation protection attached to the judicial office.
+
+This is not a requirement that all pension plans be identical or that every exemption elsewhere invalidate a judicial tax. The combined compulsory transition and unavailable protections produce the forbidden diminution on this record. The structural protection does not depend on proving that Congress sought to intimidate, influence or punish judges. Evans's protection against indirect evasion and Will's protection of compensation otherwise due remain effective, even though Evans's ordinary-tax immunity does not. The Social Security liability judgment is affirmed for the affected incumbents; the amount of lawful recovery remains for determination below.
+
+**Limits:** The decision neither exempts every judge from Social Security nor invalidates the tax for other taxpayers. Materially different pension classifications and claims of later appointees lie outside the questions presented. No mandatory checklist, hostile-purpose element or individual-benefit finding is added.
+
+### IV. The general salary increase does not cure the surviving unconstitutional deductions
+
+**Holding and operative rule:** A later salary increase does not automatically satisfy or end an unconstitutional deduction merely because the increase exceeds the deduction; its legal relationship to the injury must be considered. The general increase at issue supplied independently owed compensation and did not cure the Social Security diminution, so timely, proven unlawful deductions remain recoverable under the surviving limitations judgment and individual computation below.
+
+**Authority:** Part IV of Souter's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Ginsburg and Breyer. Six directly adopt the contextual no-cure rule and its application. Thomas agrees with rejection of the defense on his separate compensation-entitlement ground, without joining the complete explanation. Scalia's Part IV join does not extend to Part II's elimination of Medicare recovery.
+
+**Controlling explanation:** The Court holds that a general raise cannot simply be counted as payment of a different legal obligation. Once the increase becomes compensation due, withholding an unconstitutional charge from that new entitlement continues the injury. Comparing the judge's new net pay with an earlier salary therefore does not establish satisfaction of accrued deductions or permission to continue them.
+
+Will protects compensation once an increase takes effect. The Government invokes the later increase that ended the pleaded recovery interval for one of Will's claims. But that interval did not adjudicate the present claim that a general raise extinguishes or cures an ongoing unconstitutional tax. The legal relationship between the measure and the injury matters. The increase described here was generally owed judicial compensation, not a payment making these claimants whole for the unlawful deductions. A lawful, genuinely compensatory measure is not excluded in every circumstance; none is established here, and numerical excess alone supplies no cure.
+
+Liability and recoverable periods remain distinct. The en banc Federal Circuit displaced the panel's blanket Medicare limitations bar and treated recurring deductions as continuing claims, excluding those more than six years before the relevant filing. That existing limitations framework governs the surviving claims within the present review's scope. The Court announces no new general accrual rule. The Court of Federal Claims must determine each claimant's timely deductions and lawful amount; the Court enters no numerical award and orders no new factual procedure merely because computation remains.
+
+**Limits:** Claim-specific entitlement and arithmetic are work on remand under the governing rules, not unresolved constitutional law. The decision establishes no new filing condition, particular compensating formula or required evidentiary hearing.
+
+## Precedent Treatment
+
+- **Evans v. Gore, 253 U.S. 245:** Overruled insofar as it forbids ordinary nondiscriminatory taxes imposed after a judge's appointment. Its protection of judicial independence against direct diminution and discriminatory indirect evasion remains effective; its categorical tax exemption does not.
+- **O'Malley v. Woodrough, 307 U.S. 277:** Its civic-obligation distinction is applied to incumbent judges. Its holding concerning a later appointee is preserved and is not portrayed as having already resolved the question it left open.
+- **United States v. Will, 449 U.S. 200:** Applies protection of compensation once legally due and preserves the distinction between ordinary taxation and direct salary reductions. Its pleaded recovery interval does not establish an automatic cure by a later raise.
+- **Jefferson County v. Acker:** Applies attention to actual operation and the relevant comparison while resolving the separate Compensation Clause question it reserved. Its statutory consent, federal-source discrimination and local-function boundaries retain their existing scope.
+- **United States v. Pink, 315 U.S. 203:** Preserves the distinction between interparty force and precedential authority, while distinguishing an equal division following consideration of the controversy from the no-quorum inability to consider the case presented here. The earlier mandate's lawful effect is retained.
+- **Major League Baseball Players Association v. Garvey, Part I; Mercer v. Theriot; Hamilton-Brown Shoe Co. v. Wolf Brothers & Co.:** Apply review of an antecedent ruling through the later judgment. They do not alone determine the effect of the separate statutory affirmance.
+- **Durant v. Essex Co.; Hertz v. Woodman:** Preserve the force of the judgments actually entered despite the absence of a majority rationale. Their treatment of a final merits judgment or another controversy does not decide the confined no-quorum issue here.
+- **Christianson v. Colt Industries Operating Corp.; Messenger v. Anderson:** Their distinctions concerning law-of-the-case practice and judicial power remain intact. The Court derives no general extraordinary-circumstances test for the present statutory disposition from those different procedural settings.
+
+## Law After Decision
+
+Effective May 21, 2001, incumbent Article III judges bear ordinary nondiscriminatory taxation even when enacted after appointment. Evans no longer supplies the contrary categorical immunity. The Constitution continues to prohibit direct salary cuts and materially discriminatory indirect reductions, including the combined Social Security transition adjudicated here. Courts must examine actual operation and the relevant incumbent comparison; no finding of legislative hostility or mandatory list of factors is required.
+
+The earlier no-quorum affirmance retains its lawful operation below but does not bar consideration of these constitutional questions on review of the later judgment. Garvey's ordinary antecedent-review rule remains unchanged; the confined section 2109 holding supplies the additional answer here.
+
+A general salary increase is not an automatic cure for an unlawful deduction. The increase's legal relationship to the injury controls that inquiry, with lawful compensation and genuine satisfaction kept distinct. The surviving en banc limitations framework and individual computation govern Social Security recovery. Medicare compensation recovery is unavailable on the constitutional theory rejected here. No numerical award or new Supreme Court accrual rule follows.
+
+## Separate Writings
+
+**Scalia, concurring in part and dissenting in part; no other Justice joins.** He joins Parts I and IV, including the confined basis for present review and the contextual rejection of the general-raise defense. He would affirm liability for both taxes. Government acting as sovereign may impose ordinary general taxes, so Evans's universal tax immunity should not survive. Government acting as employer, however, may not withdraw an employment-conditioned benefit from a sitting judge's compensation package. The prior payroll-tax exemptions were such benefits. Their withdrawal diminishes compensation even if the judge thereafter pays the same tax as other citizens or every federal employee suffers the same withdrawal.
+
+Will's prohibition on direct compensation reductions supports his distinction; generality alone does not save a reduction of the employment package. He therefore dissents from Medicare reversal and agrees only in the Social Security liability judgment, without joining the Court's discrimination rationale. Acker's classification of an exaction as compensation taxation reserved Article III and does not answer the separate withdrawal-of-benefit question. His position does not decide the unpresented exchange of an exemption for a different benefit equal in value. He would permit timely, proven recovery for both taxes under the lawful limitations framework, and does not treat a general raise as satisfaction of either injury. His merits ground is noncontrolling.
+
+**Thomas, concurring in the judgment in part and dissenting in part; no other Justice joins.** He accepts the Court's threshold resolution as the predicate for deciding the constitutional merits, without joining Part I or stating a different threshold rule. He would retain Evans and affirm liability for both taxes because a tax reducing a sitting judge's net compensation violates the Compensation Clause. O'Malley's ordinary-civic-burden reasoning and Will's criticism of Evans do not persuade him to abandon that protection. Acker left this constitutional question open.
+
+He agrees with Social Security liability on Evans, not on a requirement of discriminatory operation, and dissents from the denial of Medicare recovery. He also rejects the general-raise defense: a generally owed increase does not satisfy the compensation entitlement protected by his reading of Evans. This agreement with the no-cure result does not adopt the Court's complete contextual explanation. He would allow timely, proven recovery for both components, with individual amounts determined below. He joins none of Souter's opinion; his constitutional ground and proposed Medicare relief are noncontrolling.
+
+## Procedure After Action
+
+The Supreme Court merits proceeding concludes with partial affirmance, partial reversal and remand. The Federal Circuit must give effect to the Medicare disposition and the surviving Social Security liability and no-cure rulings. Remaining compensation proceedings belong in the Court of Federal Claims, applying the en banc limitations treatment to timely deductions and determining individual lawful amounts. The mandate preserves lawful limits on recovery and does not direct a new evidentiary procedure or predict an award.
+
+## Source Notes
+
+The tax setting, reported claims and lower-court sequence are described in [the official report, 532 U.S. 557](https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-557.pdf), together with the [1999 Federal Circuit panel opinion](https://caselaw.findlaw.com/court/us-federal-circuit/1261223.html) and [2000 en banc opinion](https://caselaw.findlaw.com/court/us-federal-circuit/1452256.html). The latter supplies the operative lower-court limitations treatment. The questions are stated in substance; no verbatim grant wording or claimant-specific deduction calculation is supplied.
+
+Earlier constitutional authorities are [Evans, 253 U.S. 245](https://www.govinfo.gov/content/pkg/USREPORTS-253/pdf/USREPORTS-253-245.pdf), [O'Malley, 307 U.S. 277](https://www.govinfo.gov/content/pkg/USREPORTS-307/pdf/USREPORTS-307-277.pdf) and [Will, 449 U.S. 200](https://www.govinfo.gov/content/pkg/USREPORTS-449/pdf/USREPORTS-449-200.pdf). [Pink, 315 U.S. 203](https://www.govinfo.gov/content/pkg/USREPORTS-315/pdf/USREPORTS-315-203.pdf), distinguishes interparty judgment effect from precedent. The no-quorum disposition carries the statutory affirmance effect; no additional date, earlier vote attribution or reason for nonparticipation is stated.
