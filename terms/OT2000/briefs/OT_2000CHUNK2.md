@@ -54,7 +54,6 @@ The Third Circuit's reasoning depended on treating the state decision as a chang
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-09.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -62,7 +61,7 @@ The Third Circuit's reasoning depended on treating the state decision as a chang
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Reverse the Third Circuit and remand for relief from the conviction based on operation without a permit.
-* **Stone's Remedy and Remand Position:** The federal habeas court must resolve any properly preserved, still-undecided exhaustion or statutory-eligibility question under the applicable amended chapter 153 framework, then implement relief preventing continued custody under this unsupported conviction when those gates are satisfied. If §2254(d)'s state-merits prerequisite is established, apply Williams v. Taylor to the preexisting element-proof rules without using this later opinion to supply earlier clearly established law. Preserve any independent lawful custody. The State may not retry the same missing-permit charge merely to relabel deviation as absence after conceding the element cannot be proved.
+* **Stone's Remedy and Remand Position:** Direct prompt relief from this unsupported conviction once the lower court resolves any actually preserved and undecided statutory prerequisite. It must identify the applicable filing-date regime under Lindh and decide an actual defense, rather than require Fiore to reprove the conceded absence of an element or create a new procedural obstacle. If amended §2254(d) applies to an adjudicated claim, Winship and Jackson are the preexisting federal rules against which that decision is tested under Williams. Enter the appropriate habeas order ending custody attributable to this conviction; preserve independent lawful custody. The conceded inability to prove the same missing-permit charge precludes a retrial merely relabeling deviation as absence.
 
 ## C. ISSUE POSITIONS
 
@@ -71,9 +70,9 @@ The Third Circuit's reasoning depended on treating the state decision as a chang
 * **Threshold and Merits Reach:** Reach the constitutional ground on which the Third Circuit denied relief. Its expressly undecided exhaustion and state-merits questions require lower-court resolution if properly preserved; do not convert the constitutional ruling into an unconditional writ despite that record gap.
 * **Question Stone Resolves:** Whether the acknowledged permit and the authoritative preexisting definition leave a valid conviction.
 * **Stone's Legal Position:** Apply established due-process proof law to the state court's answer.
-* **Stone's Holding:** A State cannot sustain a conviction where its authoritative account of the law at the time establishes a required element that the State concedes it did not prove.
+* **Stone's Proposed Holding:** A State cannot sustain a conviction where its authoritative account of the law at the time establishes a required element that the State concedes it did not prove.
 * **Reach Within the Question:** The offense and conviction actually reviewed; no general new-state-law retroactivity rule.
-* **Essential Reasoning and Record Application:** State law identifies the crime and federal due process requires proof. The certified answer eliminates, rather than resolves in the State's favor, the purported retroactivity issue. Permit deviation may violate other rules but cannot supply an absent statutory element.
+* **Essential Reasoning and Record Application:** State law identifies the crime and federal due process requires proof. The certified answer eliminates, rather than resolves in the State's favor, the purported retroactivity issue. Permit deviation may violate other rules but cannot supply an absent statutory element. Winship’s proof requirement supplies a categorical boundary: the seriousness of alleged environmental misconduct cannot substitute for a missing element. Jackson confirms the insufficiency consequence. The state answer, permit, and Commonwealth’s concession establish the decisive facts without further empirical proof. Stone resolves the entire federal missing-element question; only an actual unresolved habeas prerequisite may require lower-court adjudication, under the stated law and without an automatic second round of factual development.
 * **Boundary or Reserved Question:** Genuinely new statutory constructions and independent environmental charges lie outside the presented missing-element question. Application of the remaining habeas gates requires findings and procedural determinations that the available appellate record does not establish.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -99,8 +98,8 @@ This section is comparison material only. It is not simulated law and does not c
 * **October Term:** 2000
 * **Entry Stage and Event:** Merits submission for decision; the historical decision date supplies scheduling only.
 * **Simulated Event Date:** 2001-01-09 (historical).
-* **Question Presented:** Whether prejudice under Strickland v. Washington requires an additional showing that an attorney-caused increase in a term of imprisonment exceeds a threshold of significance.
-* **Question Granted:** The issues stated above define the scope of review; their wording follows the judicial record rather than a verified verbatim petition.
+* **Question Presented:** Whether counsel’s failure to pursue grouping of the money-laundering and racketeering offenses denied effective assistance at sentencing, including whether the resulting increase in imprisonment must exceed a significance threshold to establish Strickland prejudice.
+* **Question Granted:** Review concerns the ineffective-assistance grouping claim. The contemporaneous merits brief presents that claim more broadly than the appellate minimum-prejudice rule; the latter is the dispositive legal error that can require remand for the remaining application questions. This is a paraphrase of verified briefing scope, not a quotation from the petition. [United States merits brief](https://www.justice.gov/osg/brief/glover-v-united-states-brief-merits).
 * **Court and Judgment Under Review:** Seventh Circuit, 182 F.3d 921: affirmed denial of a §2255 motion on the theory that a claimed additional six to twenty-one months was insufficiently significant to establish prejudice.
 * **Relief Requested:** Glover seeks reversal of the categorical prejudice ground and consideration of his ineffective-assistance claim. The United States abandons that categorical rule but offers other reasons to preserve the judgment.
 * **Material Record:** Glover's money-laundering counts were not grouped with racketeering and tax counts. The resulting two-level increase produced an asserted additional six to twenty-one months; he received 84 months. Counsel did not adequately press grouping or present it on appeal. The lower courts did not decide deficient performance or whether the grouping calculation was actually wrong because they rejected prejudice categorically.
@@ -140,7 +139,6 @@ The Seventh Circuit relied on an expansive understanding of Lockhart v. Fretwell
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-09.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -155,12 +153,12 @@ The Seventh Circuit relied on an expansive understanding of Lockhart v. Fretwell
 ### Issue 1: Every unlawful increment matters
 
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
-* **Question Stone Resolves:** Whether an otherwise established reasonable probability of additional imprisonment can be dismissed as too small to count.
+* **Question Stone Resolves:** Whether counsel’s failure to pursue the grouping objection denied effective assistance, including whether the additional imprisonment it allegedly caused can be excluded from Strickland prejudice because it was insufficiently significant.
 * **Stone's Legal Position:** Apply Strickland v. Washington as preserved in Lockhart v. Fretwell and Williams v. Taylor.
-* **Stone's Holding:** The prejudice element contains no additional minimum-duration requirement for an attorney-caused increase in imprisonment; the ordinary reasonable-probability test applies.
+* **Stone's Proposed Holding:** The prejudice element contains no additional minimum-duration requirement for an attorney-caused increase in imprisonment; the ordinary reasonable-probability test applies.
 * **Reach Within the Question:** Noncapital sentencing errors producing increased custody, while retaining performance and causal requirements.
-* **Essential Reasoning and Record Application:** The lower rule confuses the magnitude of injury with whether a lawful outcome was probably lost. Lockhart v. Fretwell concerned an unavailable legal benefit, not judicial permission to disregard a shorter prison increment.
-* **Boundary or Reserved Question:** The correct grouping calculation, counsel's actual deficiency, and independent defenses are outside the presented minimum-imprisonment prejudice question and remain for lower-court determination.
+* **Essential Reasoning and Record Application:** The lower rule confuses the magnitude of injury with whether a lawful outcome was probably lost. Lockhart v. Fretwell concerned an unavailable legal benefit, not judicial permission to disregard a shorter prison increment. The Court reaffirms the existing reasonable-probability standard and rejects the added significance condition. Sentencing calculations, the contemporaneous record, counsel’s explanation, and competent testimony may establish the claim; no statistical account of sentencing outcomes is necessary. Whether the disputed grouping objection succeeds and whether counsel’s conduct was deficient remain application questions for remand, not unresolved legal standards. A generally applicable no-minimum-duration rule is required because even a short unlawful loss of liberty is the injury the Sixth Amendment protects against.
+* **Boundary or Reserved Question:** The correct grouping calculation, counsel's actual deficiency, and any properly preserved independent defense require application to the unadjudicated sentencing record. They remain for lower-court determination under the stated Strickland standard; they are not excluded from the granted question or governed by a minimum-duration rule.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -235,7 +233,6 @@ The Seventh Circuit relied on bird-related commerce and an expansive reading of 
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-09.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -252,10 +249,10 @@ The Seventh Circuit relied on bird-related commerce and an expansive reading of 
 * **Threshold and Merits Reach:** The statutory question is preserved and sufficient to dispose of the asserted jurisdiction. Stone therefore does not decide the contingent Commerce Clause issue.
 * **Question Stone Resolves:** Whether this application of §404 rests on a statutory jurisdiction Congress actually conferred.
 * **Stone's Legal Position:** Resolve the open statutory scope question; do not change the governing commerce framework.
-* **Stone's Holding:** Section 404 does not authorize jurisdiction over the isolated, nonnavigable intrastate ponds presented solely because migratory birds use them. The agency must identify authority within the enacted water program, not treat every asserted interstate environmental benefit as delegated jurisdiction.
+* **Stone's Proposed Holding:** Section 404 does not authorize jurisdiction over the isolated, nonnavigable intrastate ponds presented solely because migratory birds use them. The agency must identify authority within the enacted water program, not treat every asserted interstate environmental benefit as delegated jurisdiction.
 * **Reach Within the Question:** This isolated-pond bird-habitat application; adjacent wetlands and materially different supported statutory connections are not decided.
-* **Essential Reasoning and Record Application:** The statute's expansion beyond classical navigation does not make the retained water limitation meaningless. The adjacent-wetlands holding cannot do all the work for a different habitat criterion. Congress's possible constitutional power does not prove the Corps's statutory delegation.
-* **Boundary or Reserved Question:** The constitutional validity of a different, expressly authorized habitat program lies outside the presented question about the Corps' jurisdiction over these isolated ponds.
+* **Essential Reasoning and Record Application:** The statute's expansion beyond classical navigation does not make the retained water limitation meaningless. The adjacent-wetlands holding cannot do all the work for a different habitat criterion. Congress's possible constitutional power does not prove the Corps's statutory delegation. Stone reads §404 with §502(7)’s definition of navigable waters as waters of the United States, and acknowledges that navigability is not an absolute prerequisite after Riverside Bayview. The decisive distinction is the asserted jurisdictional basis: use of these isolated ponds by birds, without an asserted water-system connection, is not the adjacent-water relationship that supported that decision. Statutory scope, rather than a categorical constitutional prohibition of environmental regulation, controls. The conditional second question therefore cannot authorize this agency action even if Congress possesses broader power; no new Commerce Clause holding is necessary to this disposition.
+* **Boundary or Reserved Question:** The contingent constitutional question does not arise under Stone’s answer that the asserted jurisdiction is not statutorily authorized. This judgment establishes no constitutional ban on a separately authorized habitat program.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -321,7 +318,6 @@ The court below assumed income character but required reduction first. The Commi
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-09.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -338,9 +334,9 @@ The court below assumed income character but required reduction first. The Commi
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the operative Code permits the pass-through and requires it before attribute reduction.
 * **Stone's Legal Position:** Resolve the open statutory question through the enacted text.
-* **Stone's Holding:** For the version governing these returns, excluded discharged debt remains an item of income for pass-through and basis purposes, and the statutory direction to reduce attributes after determining the discharge-year tax places that reduction after the relevant pass-through and basis adjustments.
+* **Stone's Proposed Holding:** For the version governing these returns, excluded discharged debt remains an item of income for pass-through and basis purposes, and the statutory direction to reduce attributes after determining the discharge-year tax places that reduction after the relevant pass-through and basis adjustments.
 * **Reach Within the Question:** The S-corporation mechanism and statutory version presented, with ordinary loss and basis limits intact.
-* **Essential Reasoning and Record Application:** Excluding an item from gross income is not the same as declaring it not income. Determining the shareholder's tax requires computing basis and allowable losses. The asserted double benefit does not authorize a court to reverse Congress's stated order.
+* **Essential Reasoning and Record Application:** Excluding an item from gross income is not the same as declaring it not income. Determining the shareholder's tax requires computing basis and allowable losses. The asserted double benefit does not authorize a court to reverse Congress's stated order. Sections 61, 108, 1366, and 1367 must be read together: exclusion from gross income preserves the item’s character, and §108(b)(4)(A) supplies the ordering rule. Text and statutory structure are decisive; a preferred revenue policy cannot reverse the enacted sequence. Stone states a rule for the governing Code version because the question is the legal order itself, with ordinary amount and basis calculations left to application.
 * **Boundary or Reserved Question:** Later statutory amendments and different entities or tax years are outside the questions presented.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -412,15 +408,14 @@ A categorical no-decree prohibition is foreclosed by Eisenberg v. Montgomery Cou
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision effective before the stated event date.
 * **Conditions:** Subject to any intervening controlling decision identified above and any material change in the record.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Vacate and remand for application of Adarand Constructors, Inc. v. Peña and Eisenberg v. Montgomery County Public Schools to the preliminary-relief dispute. Do not prescribe admission, removal, or a continuing stay without current placement facts and an independent equitable basis.
-* **Stone's Remedy and Remand Position:** The lower courts must decide interim relief promptly under ordinary equitable requirements, accounting for any actual enrollment and educational disruption. They must use existing findings and concessions, identify a genuinely unresolved material issue before requiring further evidence, and decide the program's justification under the governing burden. The mandate establishes neither a right to a seat nor a right to continue an otherwise unsupported exclusion.
+* **Stone's Controlled Judgment or Disposition:** Affirm the vacatur of the district court's mandatory preliminary-admission injunction, vacate the remainder of the appellate judgment insofar as it directs a different substantive standard, and remand under Adarand Constructors, Inc. v. Peña and Eisenberg v. Montgomery County Public Schools. The original mandatory injunction is not reinstated by this mandate.
+* **Stone's Remedy and Remand Position:** The lower courts must promptly reassess any requested interim relief under ordinary equitable requirements and the stated merits standard, accounting for actual enrollment and educational disruption. The earlier school-year protection creates no automatic continuing placement entitlement. Use existing findings and concessions, identify a genuinely unresolved material issue before requiring further evidence, and decide the program's justification under the governing burden. No admission or removal is ordered here; any new interim placement order requires current facts and an independent equitable basis.
 
 ## C. ISSUE POSITIONS
 
@@ -429,14 +424,11 @@ A categorical no-decree prohibition is foreclosed by Eisenberg v. Montgomery Cou
 * **Threshold and Merits Reach:** The actual racial exclusion supplies an equal-protection issue. The preliminary posture limits the available final factual conclusions.
 * **Question Stone Resolves:** May voluntary integration support this classification, and what justification must the program supply?
 * **Stone's Legal Position:** Apply the already operative common standard and Eisenberg v. Montgomery County Public Schools. No new categorical strict-scrutiny rule or departure from the recent Court holding is adopted.
-* **Stone's Holding:** A supported educational integration objective can justify a voluntary transfer classification without a de jure finding, but the government must establish substantial fit and justify its particular burdens and practical alternatives.
+* **Stone's Proposed Holding:** A voluntary school-integration program may use race to reduce serious racial isolation without a de jure segregation finding when an important educational objective and a substantial relationship to its actual coverage and burdens are established under Adarand and Eisenberg. The challenged transfer denial must be assessed under that standard, not invalidated merely because no desegregation decree exists.
 * **Reach Within the Question:** The objective and fit questions are necessary components of the question presented. Current placement remains a remedy issue. The standard requires no particular commissioned study, fixed numerical ratio or impossible least-restrictive alternative; general population imbalance, race alone and administrative convenience do not suffice.
-* **Essential Reasoning and Record Application:** The program addresses a real civic gateway, but that does not exempt it from explaining why excluding Haak advances an identified educational condition. Directional movement may contribute to integration; its contribution must be shown rather than equated with racial arithmetic. Conversely, absence of a judicial desegregation decree does not make every supported integration measure unlawful. The existing preliminary record does not justify inventing either conclusion.
-* **Boundary or Reserved Question:** Reserve final findings about this program’s fit and any present placement remedy because the preliminary record lacks the necessary operational findings and current placement facts.
+* **Essential Reasoning and Record Application:** Eisenberg already recognizes the educational objective, and Adarand supplies the common substantial-justification rule. Stone applies those holdings rather than requiring an antecedent judicial finding of segregation. Integration can promote meaningful educational contact and access rather than racial allocation for its own sake. The program’s directional transfers must therefore be assessed against the educational conditions they address and the actual burden imposed on Haak. Educator and participant testimony, program records, historical experience, admissions, comparisons, observed operation, and reasonable inferences can establish that relationship; no study, numerical target, or statistical demonstration is mandatory. Concrete practicable alternatives receive the consideration Eisenberg actually requires, but race-neutrality has no presumptive priority and government need not disprove every conceivable substitute. The established legal standard is decisive; contextual assessment determines its application. Remand is for prompt application to the existing preliminary record and identified factual disputes, with an injunction only if the governing merits likelihood and equitable requirements warrant it.
+* **Boundary or Reserved Question:** No legal component of the presented question is left undecided. Final program findings and any present placement remedy depend on the preliminary record and actual enrollment facts; the stated standard governs those determinations.
 
-## D. DOCTRINAL DEVELOPMENT AND FUTURE APPLICATION
-
-Stone accepts prospective educational integration as a legitimate constitutional objective without requiring a prior de jure segregation decree. Adarand's common substantial-justification standard, as applied in Eisenberg, supplies the governing test. Integration must have a supported educational basis and justified individual burdens; racial arithmetic alone is insufficient. Existing evidence may supply that justification without a newly commissioned study. Final program validity remains open on the actual preliminary record.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -501,27 +493,26 @@ The Eighth Circuit read may reduce as authorizing uniform eligibility rules. Lop
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-10.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm the Eighth Circuit on the statutory discretion question.
-* **Stone's Remedy and Remand Position:** Permit the Bureau to apply the firearm-conduct exclusion to Lopez while preserving treatment participation and any separately preserved procedural challenge. Grant no sentence reduction, damages, or immediate release.
+* **Stone's Controlled Judgment or Disposition:** Reverse the judgment sustaining the automatic firearm-conduct exclusion and remand for consideration under the statute’s lawful discretionary criteria.
+* **Stone's Remedy and Remand Position:** Set aside the categorical bar as applied to Lopez’s statutorily nonviolent conviction. Require the Bureau to determine whether he has successfully completed the qualifying treatment and, if so, consider a reduction through a reasoned release decision that may weigh his firearm conduct and individual risk, but cannot treat that conduct alone as a permanent substitute for the statutory conviction criterion. The record establishes admission eligibility for treatment, not its successful completion. No particular reduction or immediate release is ordered.
 
 ## C. ISSUE POSITIONS
 
-### Issue 1: Reasonable category within discretion
+### Issue 1: Discretion within Congress’s eligibility decision
 
-* **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
-* **Question Stone Resolves:** Whether the grant of discretionary early release permits this firearm-related category.
-* **Stone's Legal Position:** Apply the eligibility-discretion distinction and resolve the open scope of this specific delegation.
-* **Stone's Holding:** Section 3621(e)(2)(B) permits a reasoned categorical refusal of its discretionary reduction for otherwise eligible prisoners whose felony conduct involved firearms; nonviolent conviction status alone does not compel individual consideration or release.
-* **Reach Within the Question:** The identified firearm-connected felony category. Discretion remains bounded by text, relevance, consistency and applicable procedural law.
-* **Essential Reasoning and Record Application:** Congress used permissive language after defining eligibility. The Bureau's concern with firearm-connected danger is pertinent to release selection and does not alter the conviction's statutory classification. Uniform rules can implement discretion without converting it into an unreviewable power.
-* **Boundary or Reserved Question:** Unpreserved notice-and-comment objections and unrelated exclusion categories are outside this merits determination.
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** May the Bureau automatically exclude an otherwise eligible prisoner because his nonviolent offense involved a firearm?
+* **Stone's Legal Position:** Resolve the statutory question against this categorical exclusion; distinguish the ordinary permission to use rules recognized in Heckler v. Campbell and the eligibility/discretion distinction in Yang.
+* **Stone's Proposed Holding:** No. Congress’s nonviolent-conviction criterion permits consideration for a discretionary reduction after successful treatment. The Bureau may deny release for supported safety and rehabilitative reasons, but may not use a firearm sentencing circumstance by itself to recreate a categorical violent-offense disqualification for a person Congress made eligible.
+* **Reach Within the Question:** The ruling concerns the firearm-conduct bar and preserves the Bureau’s authority over the extent and grant of a reduction, treatment, and relevant individual release considerations.
+* **Essential Reasoning and Record Application:** The word may preserves a choice whether to grant a reduction; it does not render the adjacent conviction-based eligibility language idle. Congress selected successful treatment and a nonviolent conviction for a rehabilitative opportunity. A sentencing enhancement is relevant to danger but is not the conviction Congress specified, nor does it establish that treatment and present circumstances can never matter. Stone’s reading combines statutory text and rehabilitative structure, with the enacted eligibility distinction decisive. Campbell permits rules within the delegated choice; it does not authorize a rule defeating a choice Congress made. Yang likewise preserves relevant discretionary judgment rather than statutory revision. The remedy corrects this legal category and leaves the Bureau to decide Lopez’s actual request; it creates neither a liberty entitlement to early release nor a universal constitutional hearing requirement.
+* **Boundary or Reserved Question:** Unpreserved rulemaking-procedure objections and unrelated exclusion categories are outside the granted issue.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -587,7 +578,6 @@ The superintendent argues that an earlier civil classification cannot fluctuate 
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-17.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -595,7 +585,7 @@ The superintendent argues that an earlier civil classification cannot fluctuate 
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Affirm the need for further proceedings, with instructions aligning the remand with the standard established in Kansas v. Hendricks.
-* **Stone's Remedy and Remand Position:** Require evidence and findings on civil intent, the cumulative actual operation, the demanding clearest-proof burden, and retrospective punishment. Apply the pre-AEDPA chapter 153 framework appropriate to the 1994 application rather than amended §2254(d). Grant release from this statutory custody only if the legal predicates for unlawful custody and habeas relief are established, preserving independently lawful custody. Conditions relief must use its own source and channel. Do not find a double-jeopardy violation without its separate predicates.
+* **Stone's Remedy and Remand Position:** Affirm the remand for a determination under Hendricks of whether the actual commitment amounts to retrospective punishment. Use the pre-AEDPA chapter 153 framework for Young’s 1994 application. Evaluate the evidence cumulatively under the governing clearest-proof standard. If punitive custody retroactively adds punishment, grant habeas relief ending custody under that commitment, while preserving independent lawful custody. For double jeopardy, determine separately whether the challenged punitive confinement is a second punishment for the same offense following the relevant prior jeopardy. A merely remediable conditions violation instead requires relief through its proper conditions channel; neither the civil label nor the existence of that channel forecloses the custody challenge.
 
 ## C. ISSUE POSITIONS
 
@@ -604,10 +594,10 @@ The superintendent argues that an earlier civil classification cannot fluctuate 
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether a prior civil classification forecloses proof that the actual retrospective commitment operates as punishment.
 * **Stone's Legal Position:** Apply controlling Kansas v. Hendricks; no change is adopted.
-* **Stone's Holding:** A nominally civil designation does not foreclose a supported showing, by the clearest proof, of punitive operation in the challenged commitment. Conditions and treatment facts matter cumulatively, but neither an imperfect program nor an individual treatment failure automatically establishes punishment or a right to release.
+* **Stone's Proposed Holding:** A nominally civil designation does not foreclose a supported showing, by the clearest proof, of punitive operation in the challenged commitment. Conditions and treatment facts matter cumulatively, but neither an imperfect program nor an individual treatment failure automatically establishes punishment or a right to release.
 * **Reach Within the Question:** The presented commitment and retrospective-punishment claim, with independently sourced conditions remedies and double-jeopardy requirements kept separate.
-* **Essential Reasoning and Record Application:** The Court has already rejected conclusive reliance on a civil label for a demonstrated punitive application. The record here requires findings. A remand implements that law without inventing missing clinical facts, rewriting the program, or assuming the ultimate remedy.
-* **Boundary or Reserved Question:** A final punishment finding, the necessary temporal facts, and any independent double-jeopardy predicates remain unresolved on this record.
+* **Essential Reasoning and Record Application:** The Court has already rejected conclusive reliance on a civil label for a demonstrated punitive application. The record here requires findings. A remand implements that law without inventing missing clinical facts, rewriting the program, or assuming the ultimate remedy. The inquiry is functional and cumulative because Hendricks makes statutory intent rebuttable by actual punitive operation. Clinical testimony, treatment plans and logs, staff and patient accounts, confinement practices, program design, and other reliable direct or circumstantial proof all count; no statistical study is required. No single treatment failure establishes punishment. Conversely, officials cannot defeat sufficiently strong combined proof by discussing each circumstance in isolation. The clearest-proof burden is the existing legal standard, not permission to reject qualitative evidence. Stone answers that an as-applied challenge is available and fixes both constitutional predicates and remedial consequences, leaving only their factual application to the lower court.
+* **Boundary or Reserved Question:** No presented legal question is reserved. The factual punishment finding, chronology, and same-offense predicates must be determined on remand under the rules stated above.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -673,7 +663,6 @@ The lower court accepted access to review as sufficient. City News argues that a
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-17.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -690,9 +679,9 @@ The lower court accepted access to review as sufficient. City News argues that a
 * **Threshold and Merits Reach:** Stone resolves mootness first and reaches no First Amendment merits position.
 * **Question Stone Resolves:** Whether the withdrawn application and absence of a plan to return leave a live request for prospective relief.
 * **Stone's Legal Position:** Apply the governing mootness principles.
-* **Stone's Holding:** A former licensee who withdraws renewal, abandons the regulated business, and shows no concrete intention or surviving claim cannot obtain an advisory ruling on future licensing review merely by declining to promise permanent exit.
+* **Stone's Proposed Holding:** A former licensee who withdraws renewal, abandons the regulated business, and shows no concrete intention or surviving claim cannot obtain an advisory ruling on future licensing review merely by declining to promise permanent exit.
 * **Reach Within the Question:** This applicant and record, not a defendant's strategic cessation or a claimant with concrete plans to resume.
-* **Essential Reasoning and Record Application:** The claimed future exclusion is contingent on a business plan the claimant does not assert. An unresolved legal question and its general importance do not supply Article III injury. The claimant's own abandonment also weighs against vacating its unfavorable judgment.
+* **Essential Reasoning and Record Application:** The claimed future exclusion is contingent on a business plan the claimant does not assert. An unresolved legal question and its general importance do not supply Article III injury. The claimant's own abandonment also weighs against vacating its unfavorable judgment. Stone distinguishes Laidlaw’s defendant-caused cessation from this applicant’s voluntary abandonment and applies Arizonans. The equitable vacatur principle of U.S. Bancorp likewise weighs against erasing an adverse judgment after voluntary abandonment. Article III is decisive: a First Amendment ruling on the adequacy of review would not resolve any surviving dispute between these parties. That jurisdictional disposition answers this proceeding; it does not endorse the licensing merits.
 * **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -769,7 +758,6 @@ Affirmance is available if each material ground for the new trial rested on lega
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-01-17.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -786,9 +774,9 @@ Affirmance is available if each material ground for the new trial rested on lega
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the new-trial order can stand on its stated legal and record grounds.
 * **Stone's Legal Position:** Review legal premises independently and discretionary evaluations deferentially. On the first-trial record described by the appellate court, the erroneous categorical mitigation premise and unsupported displacement of the jury’s supported assessment do not sustain this order.
-* **Stone's Holding:** An appellate court may set aside a remittitur or new-trial order for identified legal error and unsupported discretionary grounds without conducting its own initial damages valuation.
+* **Stone's Proposed Holding:** An appellate court may set aside a remittitur or new-trial order for identified legal error and unsupported discretionary grounds without conducting its own initial damages valuation.
 * **Reach Within the Question:** The holding concerns the grounds actually used and the record then available. It supplies neither a general heightened appellate standard nor automatic lost-profit recovery whenever a permit is suspended without adequate process.
-* **Essential Reasoning and Record Application:** The District had the first trial to contest whether lawful regulation would have ended the operation and whether the expert’s premises were unreliable. A later defense presentation cannot justify the earlier order. The jury awarded materially less than the expert’s projection, and the appellate record identifies concrete legal defects in the trial judge’s reasons. The statutory interest consequences follow the surviving judgment.
+* **Essential Reasoning and Record Application:** The District had the first trial to contest whether lawful regulation would have ended the operation and whether the expert’s premises were unreliable. A later defense presentation cannot justify the earlier order. The jury awarded materially less than the expert’s projection, and the appellate record identifies concrete legal defects in the trial judge’s reasons. The statutory interest consequences follow the surviving judgment. Stone reaffirms Gasperini’s abuse-of-discretion allocation and distinguishes its state-law diversity measure. Legal error receives independent correction; disputed valuation is not retried on appeal. Expert testimony and its factual premises, contemporaneous business records, and competent evidence of mitigation and causation are the relevant proof; the absence of a separate statistical study is immaterial. The first record and identified errors supply the decisive application, so the judgment announces no new amount-of-damages formula.
 * **Boundary or Reserved Question:** Whether a different, properly supported new-trial order or a materially different first-trial record would require deference is outside this record.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -873,38 +861,46 @@ The Court may recognize and apply a confined protection to the unjustified deman
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
-* **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to effective intervening law before January 17, 2001. Damages immunity is assessed at the 1996 conduct date under the then-applicable notice rule.
+* **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to effective intervening law before January 17, 2001. Authoritative legal permission is assessed at the 1996 conduct date under the expressly proposed reliance defense below.
 * **Conditions:** Apply intervening controlling decisions and material corrections to the record.
 
 ## B. JUDGMENT AND REMEDY
 
-**Stone's Controlled Judgment or Disposition:** Affirm the reversal of summary judgment on the attorney-consultation and medical-information claims and the financial-information qualified-immunity disposition, with the distinct merits and immunity inquiries specified below.
-
-**Stone's Remedy and Remand Position:** Continue adjudication of the preserved claims. The unrestricted written authorization cannot be upheld merely by invoking an undisclosed intention to conduct routine screening. Resolve genuinely disputed participation, employment justification, causation, and conduct-date notice under ordinary procedure. Prospective relief requires a live burden. No damages, reinstatement, or general privilege against valid investigation is awarded.
+* **Stone's Controlled Judgment or Disposition:** Affirm reversal of summary judgment on legal-consultation and medical-privacy claims; vacate the financial-information immunity disposition insofar as it forecloses a qualifying intimate-information claim solely for lack of a previously specific decision; remand under the rules below.
+* **Stone's Remedy and Remand Position:** Determine the authorization’s actual scope, the defendants’ participation and justification, the information protected, causation, and any proved individual legal-reliance defense. The unrestricted authorization cannot be sustained by undisclosed intentions to perform only routine screening. Allow compensation and any live prospective relief only on the elements and injury proved; this ruling awards no damages or reinstatement by itself.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Independent legal consultation
 
-**Stone's Holding:** The First Amendment protects an employee's independent consultation with counsel against an employment condition demanding indiscriminate access to confidential communications without a sufficient employment-related justification. This does not make every evidentiary privilege constitutional or create a Sixth Amendment right in ordinary civil employment.
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** May continued public employment be conditioned on indiscriminate access to confidential attorney communications without sufficient employment justification?
+* **Stone's Legal Position:** Extend Button and Trainmen’s protection of obtaining legal assistance to this compulsory authorization, preserving lawful investigation and native privilege rules.
+* **Stone's Proposed Holding:** No. A public employer may not condition employment on unrestricted surrender of confidential independent legal consultation without a sufficient employment-related justification.
+* **Reach Within the Question:** Protection concerns the First Amendment activity of obtaining legal assistance; it does not constitutionalize every evidentiary privilege or create a Sixth Amendment employment right.
+* **Essential Reasoning and Record Application:** The authorization reaches legal advice unrelated to the teacher’s duties. The employee cannot seek independent advice on equal terms if the employer can inspect it merely because it supplies his livelihood. The form’s actual language controls the imposed condition; an undisclosed narrower intention does not cure it. First Amendment protection of legal consultation is decisive, with the functional burden explaining why the existing cases extend here. A supported confined investigation remains distinguishable.
+* **Boundary or Reserved Question:** None.
 
-**Reasoning and application:** Button and Trainmen protect the activity of obtaining legal assistance. A teacher's obligation to perform assigned work does not authorize the employer to inspect unrelated legal advice as the price of continued employment. The operative authorization, not its proponent's undisclosed benign intentions, defines the burden. A particular lawful investigation may justify a confined request; general suitability screening does not explain this unrestricted surrender.
+### Issue 2: Intimate medical and financial information
 
-### Issue 2: Intimate information
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** Does the Fourteenth Amendment protect against an unrestricted employment demand for medical and financial records?
+* **Stone's Legal Position:** Adopt a bounded acquisition protection; Doe v. SEPTA assumed rather than decided the medical right, and Sheets addressed dissemination.
+* **Stone's Proposed Holding:** Yes as to objectively intimate medical information and comparably intimate material in financial records. Compulsory access requires an actual legitimate governmental need and scope, use, and safeguards reasonably fitted to that need. Ordinary nonintimate financial information does not become constitutionally protected solely because its owner regards it as confidential.
+* **Reach Within the Question:** The employer must justify the actual demand. A fitness inquiry may support relevant medical verification, but not access to all treatment, family affairs, or unrelated intimate information.
+* **Essential Reasoning and Record Application:** Acquisition itself exposes private life to official power, even before publication. Doe’s confined benefits access therefore differs materially from this unrestricted release. The content and sensitivity of information, explanation of the actual job-related need, access and use restrictions, and feasible confinement of the request inform the balancing inquiry; no universal strict-scrutiny rule or checklist applies. Written terms, testimony, records, and ordinary inferences may establish those matters without statistical proof. The constitutional protection of intimate life is decisive, while the actual purpose and safeguards determine whether access is justified. The court must identify the financial information implicated and decide its intimacy under this rule, not leave the legal right unresolved.
+* **Boundary or Reserved Question:** None.
 
-**Stone's Holding:** Compulsory authorization to obtain objectively intimate medical information, and comparably intimate information within financial records, requires an actual legitimate governmental need and a scope and safeguards reasonably fitted to that need. Routine financial data is not automatically intimate, and confidentiality alone does not establish constitutional protection.
+### Issue 3: Individual damages defense
 
-**Reasoning and application:** Stone adopts this limited Fourteenth Amendment acquisition rule openly. Doe v. SEPTA assumed a medical interest and sustained confined benefits administration; Sheets protected intimate information against unjustified official dissemination. Neither already decided this compelled-access claim. An unrestricted demand encompassing treatment and private affairs bears materially different risks from verification limited to fitness or benefits. The court must identify the information and governmental use separately; it must not combine attorney, medical, and financial records into one undifferentiated right or impose universal strict scrutiny.
-
-### Issue 3: Personal damages immunity
-
-**Stone's position:** Preserve the financial-information immunity ruling. For legal consultation and medical information, apply Elder's conduct-date inquiry, including relevant circuit authority, without using the later Supreme Court decision in Doe or today's extension as 1996 notice. The remand permits the ordinary fact-sensitive inquiry left by the appellate judgment; it does not find every element of personal liability. Stone does not revise qualified immunity in this case's limited grant.
-
-## D. DOCTRINAL DEVELOPMENT AND FUTURE APPLICATION
-
-Acquisition, use, and disclosure of intimate information impose different burdens and require attention to their actual governmental purposes. Stone extends protection to an unrestricted compulsory authorization because it exposes protected information before any later publication. Ordinary screening and nonintimate financial disclosure remain governed by their own justifications. The new acquisition rule does not retrospectively supply conduct-date notice for personal damages.
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** Does uncertainty in prior case law alone bar recovery on a proved violation?
+* **Stone's Legal Position:** Replace the broader clearly-established-law defense preserved by Elder and Crawford-El with a narrow defense of reasonable reliance on authoritative legal permission; do not misdescribe that change as existing law.
+* **Stone's Proposed Holding:** No. Defendants must establish genuine, objectively reasonable reliance on identified binding precedent or enacted authority directly authorizing the challenged demand. Legal silence and routine employer authority do not suffice.
+* **Reach Within the Question:** The defense concerns personal damages only. It neither supplies liability nor affects a separately authorized live prospective remedy.
+* **Essential Reasoning and Record Application:** A remedy for a proved deprivation should not depend on finding a prior case with the same form of intrusive authorization. Constitutional justification and reasonable factual judgment belong in the merits analysis; repeating them as an additional immunity defeats accountability without protecting distinct reliance. Actual authoritative permission receives protection and limits unfair surprise. Stone candidly revises the defense rather than attributing the new acquisition holding to the law known in 1996. The identified record establishes no binding permission for the unrestricted demand. Remand permits adjudication of a properly supported reliance defense and genuine factual disputes.
+* **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -976,7 +972,6 @@ Affirmance is available if the complaint alleges dependence and political diffic
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision effective before the stated event date.
 * **Conditions:** Subject to intervening controlling precedent and material corrections to the record.
@@ -993,14 +988,11 @@ Affirmance is available if the complaint alleges dependence and political diffic
 * **Threshold and Merits Reach:** Resolve the conditional-spending claim, not an abstract immunity from federal child-support policy. The asserted child-support conditions are evaluated as the actual arrangement pleaded; other clarity, relatedness or independent-rights objections cannot be presumed from the coercion claim.
 * **Question Stone Resolves:** Do these allegations establish that Kansas has been commanded, rather than offered a demanding and expensive funding choice?
 * **Stone's Legal Position:** Apply the conditional-spending and direct-command distinction; retain the coercion limit without inventing a numerical threshold.
-* **Stone's Holding:** These related child-support conditions do not become coercive merely because rejecting substantial assistance is politically and financially difficult. Coercion remains possible where the structure and practical operation of the threatened loss leave no genuine choice. Clear notice and program relationship are necessary considerations, not conclusive answers to that distinct question.
+* **Stone's Proposed Holding:** These related child-support conditions do not become coercive merely because rejecting substantial assistance is politically and financially difficult. Coercion remains possible where the structure and practical operation of the threatened loss leave no genuine choice. Clear notice and program relationship are necessary considerations, not conclusive answers to that distinct question.
 * **Reach Within the Question:** Resolve whether the challenged funding arrangement constitutes coercion on the pleaded facts. The decision does not convert the failure of this challenge into a categorical rule that conditional spending can never compel compliance, and it does not make literal insolvency the exclusive way to prove compulsion.
-* **Essential Reasoning and Record Application:** Child-support enforcement has a direct relationship to assistance for families lacking support. Kansas's pleaded sums and budget dependence show a serious incentive but do not, in this scheme, establish practical conscription. The court should examine the threatened funds, the condition's connection to them, notice and transition, and the consequences of refusal as relevant to the received actual-choice inquiry. Those considerations supply no mandatory checklist or fixed financial threshold. Nor does the absence of an entitlement to unchanged future grants alone defeat coercion: a government can impose a coercive condition on a benefit it was not otherwise obliged to offer.
+* **Essential Reasoning and Record Application:** Child-support enforcement has a direct relationship to assistance for families lacking support. Kansas's pleaded sums and budget dependence show a serious incentive but do not, in this scheme, establish practical conscription. The court should examine the threatened funds, the condition's connection to them, notice and transition, and the consequences of refusal as relevant to the received actual-choice inquiry. Those considerations supply no mandatory checklist or fixed financial threshold. Nor does the absence of an entitlement to unchanged future grants alone defeat coercion: a government can impose a coercive condition on a benefit it was not otherwise obliged to offer. Stone applies Dole and distinguishes New York’s direct take-title command and Printz’s executive conscription. The actual legal and financial arrangement supplies the decisive coercion inquiry. Program terms, transition history, official accounts of feasible alternatives, administrative experience, and other competent qualitative material may establish coercion; budget statistics are neither the exclusive proof nor a required insolvency threshold. The pleaded arrangement, however, links support-enforcement obligations to the assisted family-support program rather than commandeering Kansas independently of its choice to participate.
 * **Boundary or Reserved Question:** None.
 
-## D. DOCTRINAL DEVELOPMENT AND FUTURE APPLICATION
-
-Spending conditions must give a State a practically genuine choice. Congress may enforce conditions connected to the offered program, but the absence of an entitlement to future funding does not answer whether a particular financial structure is coercive. Different program structures may therefore require a different result without abandoning the governing spending-power rule.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1074,7 +1066,6 @@ The Court can find state action on the established institutional record and rema
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-02-20.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -1091,9 +1082,9 @@ The Court can find state action on the established institutional record and rema
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether this institution’s challenged athletic regulation is governmental action.
 * **Stone's Legal Position:** Treat the official public-school governance and operation shown here as actual governmental responsibility, notwithstanding incorporation and a minority of private members.
-* **Stone's Holding:** An association substantially composed and governed by public-school officials acting in that capacity in administering the schools’ athletic program is subject to constitutional limits for that regulatory activity.
+* **Stone's Proposed Holding:** An association substantially composed and governed by public-school officials acting in that capacity in administering the schools’ athletic program is subject to constitutional limits for that regulatory activity.
 * **Reach Within the Question:** The rule requires the demonstrated official composition and operation. Public membership, funding, or benefit alone does not suffice.
-* **Essential Reasoning and Record Application:** The relevant decisionmakers do not become private actors by coordinating the same official school function through a common entity. The association’s private participants and operating discretion do not negate the established public control. Whether the recruiting restriction nevertheless satisfies the Constitution remains a separate question.
+* **Essential Reasoning and Record Application:** The relevant decisionmakers do not become private actors by coordinating the same official school function through a common entity. The association’s private participants and operating discretion do not negate the established public control. Whether the recruiting restriction nevertheless satisfies the Constitution remains a separate question. Stone extends Lebron’s principle of governmental responsibility to this officially governed association while distinguishing American Manufacturers’ mere regulation of a genuinely private choice. Functional institutional attribution carries decisive weight; the membership percentage corroborates but does not establish the result alone. Governance records, official roles, conduct of meetings, and the allocation of actual decisionmaking are independently probative. This rule governs the association’s challenged regulatory function because public officials cannot avoid constitutional accountability by exercising that function through a private corporate form.
 * **Boundary or Reserved Question:** The recruiting rule’s substantive validity and the precise relief are outside the actor-status question and require lower-court adjudication.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -1160,27 +1151,26 @@ Reversal is available if probable cause, the particularized destruction risk, li
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-02-20.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Reverse suppression on the ground that this limited preservation restraint violated the Fourth Amendment.
-* **Stone's Remedy and Remand Position:** Remand for further proceedings with this suppression ground rejected. Do not resolve any independently preserved search-warrant issue or order conviction.
+* **Stone's Controlled Judgment or Disposition:** Affirm the judgment suppressing evidence on the challenged warrantless restraint of residential access.
+* **Stone's Remedy and Remand Position:** Leave suppression in place for the search resulting from the unsupported residential seizure, subject to any independently preserved exclusionary-rule issue not resolved below. Do not invalidate the later warrant on grounds not presented or direct dismissal of independently supported charges.
 
 ## C. ISSUE POSITIONS
 
-### Issue 1: Bounded preservation
+### Issue 1: An actual exigency for residential restraint
 
-* **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
-* **Question Stone Resolves:** Whether the actual temporary restriction was reasonable while officers obtained judicial authority.
-* **Stone's Legal Position:** Sustain this restraint because specific probable cause and destruction risk were paired with a limited, diligently pursued warrant process.
-* **Stone's Holding:** Officers may temporarily prevent unaccompanied residential entry on established probable cause and a particularized imminent evidence-loss risk while diligently obtaining a warrant, when the restriction is reasonably limited in scope and duration.
-* **Reach Within the Question:** All stated predicates matter. The holding grants no general warrantless home-entry power and sets no automatic two-hour safe harbor.
-* **Essential Reasoning and Record Application:** The officers preserved the possibility of an effective warrant while minimizing the prewarrant search intrusion. The source’s firsthand report and the resident’s knowledge of the investigation support more than an abstract possibility of destruction. The restriction’s limited length and practical accommodations matter to reasonableness.
-* **Boundary or Reserved Question:** A broader entry, a prolonged or dilatory seizure, or an offense carrying materially different consequences is outside the established facts.
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** Did the asserted evidence-loss risk justify preventing McArthur from entering his home unaccompanied while officers obtained a warrant?
+* **Stone's Legal Position:** Apply the warrant and particularized-exigency rules to the restraint; reject the inference that probable cause plus awareness of investigation automatically establishes exigency.
+* **Stone's Proposed Holding:** No on this record. Temporarily controlling a person’s access to his home is a seizure requiring an adequate warrant exception. A firsthand report of drugs supplies probable cause but, without specific circumstances supporting imminent destruction, does not justify exclusion from the home merely because the occupant knows officers are investigating.
+* **Reach Within the Question:** A supported emergency may permit a genuinely limited preservation restraint; the constitutional defect here is the missing particularized urgency, not a categorical prohibition of every temporary measure.
+* **Essential Reasoning and Record Application:** The wife reported seeing McArthur slide drugs beneath the couch while officers accompanied her to collect her possessions. That contemporaneous concealment strengthens probable cause and deserves weight in evaluating danger of loss, but concealing an existing stash does not itself show imminent destruction. He could also see his wife speak with officers and leave with one of them. Those facts support an inference of anticipated search; I conclude that they still lack a particularized indication of destruction beyond awareness of investigation and the disposable nature of drugs. Treating that combination as sufficient would authorize a comparable restraint in nearly every home-drug investigation. No actual destruction attempt is invariably required, but an inference must arise from circumstances showing urgency rather than probable cause alone. The two-hour duration and escorted entries limit the burden but cannot create the missing exigency. Segura does not authorize every initial seizure merely because later evidence is obtained under a warrant, and Welsh makes the gravity of the underlying offense relevant without treating these offenses as nonjailable. The warrant boundary is decisive; contextual reasonableness tests the claimed exception rather than replacing it. The recurring particularized-urgency rule determines why this intrusion fails.
+* **Boundary or Reserved Question:** An independently established exclusionary-rule exception or distinct warrant defect must be resolved only if preserved and actually presented by the record.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1246,7 +1236,6 @@ The Court may reverse if the statute as amended continues the preexisting state-
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2001-02-20.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -1263,9 +1252,9 @@ The Court may reverse if the statute as amended continues the preexisting state-
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** What Congress changed when it deleted the federal-stock language.
 * **Stone's Legal Position:** Read the deletion as removal of a condition that had ceased to operate, not creation of an unexpressed blanket exemption.
-* **Stone's Holding:** Banks for cooperatives remain subject to state income taxation under the Farm Credit Act’s continuing entity-specific arrangement after the 1985 removal of obsolete federal-stock provisions.
+* **Stone's Proposed Holding:** Banks for cooperatives remain subject to state income taxation under the Farm Credit Act’s continuing entity-specific arrangement after the 1985 removal of obsolete federal-stock provisions.
 * **Reach Within the Question:** The holding concerns this bank category and income tax. It does not determine the tax treatment of different Farm Credit institutions or all federal instrumentalities.
-* **Essential Reasoning and Record Application:** Congress removed both the possibility of the relevant federal investment and the exemption keyed to that investment. The surrounding statute expressly delineates broader exemptions elsewhere. Treating the cleanup as a new comprehensive immunity would reverse the arrangement without a textual basis.
+* **Essential Reasoning and Record Application:** Congress removed both the possibility of the relevant federal investment and the exemption keyed to that investment. The surrounding statute expressly delineates broader exemptions elsewhere. Treating the cleanup as a new comprehensive immunity would reverse the arrangement without a textual basis. Stone distinguishes Arkansas v. Farm Credit Services, which resolved the federal forum and left substantive tax privileges undecided. Text read in its entity-specific statutory structure is decisive; the history of repaid federal investment confirms the function of the deletion. A blanket instrumentality exemption would disregard the differences Congress retained among Farm Credit institutions.
 * **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -1350,15 +1339,14 @@ The Court could uphold ordinary restrictions on agency work and resources while 
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision effective before the stated event date.
 * **Conditions:** Subject to intervening controlling precedent and material corrections to the record.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Vacate the Fourth Circuit judgment and remand for separate analysis of the faculty claim under the bounded academic-inquiry rule. Do not reinstate an agency-wide injunction or the district court’s unrestricted general employee ruling.
-* **Stone's Remedy and Remand Position:** Determine first whether these plaintiffs have concrete intended inquiry covered by the amended law and a present burden or credible enforcement threat. Then apply the stated rule to the compulsory prior-approval condition itself; a claimant need not incur a denial to challenge that condition. Existing evidence may suffice. Any further proceedings must identify a material unresolved fact, and any injunction must address the represented academic claims rather than all government computer use.
+* **Stone's Controlled Judgment or Disposition:** Affirm rejection of the claim that protected content alone creates an unrestricted employee right to state computer use. Reverse the rejection of an individual academic-inquiry right and the approval of this compulsory condition as applied to the professors' independent scholarly work. Remand for relief confined to that established violation.
+* **Stone's Remedy and Remand Position:** Direct a declaration and an injunction preventing enforcement of the challenged content-based prior-approval and associated public-disclosure condition against the plaintiffs' bona fide independent university teaching and research. The lower court must identify the covered scholarly activities and frame workable terms while preserving ordinary curriculum, professional, budget, resource-use, and anti-harassment rules. The existing record establishes standing and the constitutional defect; no denied application or new proof of abstract harm is required. Do not reinstate the district court's agency-wide employee injunction. No damages are awarded against the official-capacity defendant.
 
 ## C. ISSUE POSITIONS
 
@@ -1367,24 +1355,21 @@ The Court could uphold ordinary restrictions on agency work and resources while 
 * **Threshold and Merits Reach:** Identify the speech interest before balancing. Plaintiffs disclaim personal recreational computer access; do not decide a claim they have not made.
 * **Question Stone Resolves:** Does constitutionally protected content itself create a personal employee right to use government equipment for any work purpose?
 * **Stone's Legal Position:** Apply the existing distinction between lawful institutional expression and personal protected expression. Reject an automatic right based solely on the material’s protected status or its usefulness to a job.
-* **Stone's Holding:** The State may regulate its equipment and genuinely institutional work, subject to independently applicable constitutional limits; ownership does not eliminate an otherwise established personal speech interest.
+* **Stone's Proposed Holding:** The Act's approval mechanism may govern access undertaken to produce the State's own prescribed institutional work: protected content by itself supplies no individual entitlement to choose the materials or the use of that equipment. That answer does not extend to independent scholarly inquiry or other independently protected personal expression merely because a state computer is used.
 * **Reach Within the Question:** This answers the broad employee theory while requiring distinct treatment of the academic claim expressly included in the grant.
-* **Essential Reasoning and Record Application:** An employer may ordinarily define the work it commissions and prevent resource misuse. The fact that an employee could lawfully read the material elsewhere does not itself confer a right to obtain it through every workplace channel. But the converse inference is equally unsound: public employment cannot extinguish an independently protected activity simply because a publicly supplied computer is used.
+* **Essential Reasoning and Record Application:** An employer may ordinarily define the work it commissions and prevent resource misuse. In that setting the Act regulates the production the State directs, so the material's lawful availability elsewhere does not establish a personal right to select it through the workplace channel. The distinction turns on who controls the message and task, not on a job title or a physical computer. The State's categorical defense fails when it treats the professors' independent inquiry as if it were assigned production; that different activity requires the separate answer below.
 * **Boundary or Reserved Question:** Personal recreational use is outside the claim presented and expressly disclaimed.
 
 ### Issue 2: Independent university teaching and research
 
-* **Threshold and Merits Reach:** Resolve Article III standing before a merits holding. A concrete intended course of independent inquiry subjected to the compulsory approval condition can supply a present burden without an actual denial. If standing is established, decide the individual academic-interest question necessary to review the categorical rejection below.
+* **Threshold and Merits Reach:** The professors have standing to challenge the mandatory condition. The record identifies an abandoned indecency-law research assignment, Meyers's planned study of sexually explicit Victorian poetry, a censored scholarly website, and curtailed sexuality research. These are concrete activities, not a generalized wish to disregard workplace rules. The amended lascivious-content definition still reaches protected materials within the intended inquiry, and the enforceable approval obligation produces a present burden traceable to the State and redressable by relief against that condition. No actual denial is required.
 * **Question Stone Resolves:** Can a professor’s independent scholarly inquiry have individual constitutional protection against this general approval condition?
 * **Stone's Legal Position:** Adopt a new bounded recognition of an individual interest in bona fide independent university inquiry. Boring v. Buncombe County Board of Education leaves this question open.
-* **Stone's Holding:** Bona fide independent university teaching and research carry an individual First Amendment interest, while prescribed institutional messages and ordinary assigned production remain distinct. Where a general prospective approval rule burdens that protected inquiry, the State must justify the rule's actual breadth and operation under the employee-speech principles of Pickering and National Treasury Employees Union, adapted to the independent scholarly function. Ownership of the computer and the absence of a denied request do not alone carry that burden.
+* **Stone's Proposed Holding:** Bona fide independent university teaching and research carry an individual First Amendment interest. Under Pickering and National Treasury Employees Union, adapted to that scholarly function, the State must justify a prospective approval condition's actual burden and fit with its operational needs. This Act fails that standard as applied to the plaintiffs' independent inquiry: it conditions examination of a content category on discretionary approval and public disclosure without a sufficient connection to resource misuse or harassment. The amended definition and the absence of a denied request do not cure that defect.
 * **Reach Within the Question:** The rule protects inquiry without creating a personal veto over lawful curriculum, professional standards, budgets or generally applicable resource controls. Neither occupational title nor delegated discretion alone decides the classification.
-* **Essential Reasoning and Record Application:** The challenged mechanism asks an agency head to authorize inquiry into specified content and exposes the approval to public disclosure. Such a requirement can affect intellectual investigation before a denial occurs. The State must therefore justify the actual condition for independently protected scholarly work, including its scope and workable administration. A demonstrated protection against workplace misuse may support tailored rules, but no-denial history alone cannot establish that mandatory prior approval is harmless. The record must distinguish genuine academic discretion from an assignment to deliver the institution’s own prescribed message.
-* **Boundary or Reserved Question:** The validity of a particular denial or delay is outside this record. The challenge to the present approval condition is not reserved merely because no denial occurred; the lower court must decide it after resolving any genuine standing and coverage questions.
+* **Essential Reasoning and Record Application:** Independent examination of sexual themes in literature and law contributes to scholarship rather than transmitting a prescribed government message. I distinguish Boring's assigned school production and extend Sweezy and Keyishian's protection against ideological control to that individual activity. The scholarly function is decisive in identifying the right; Pickering and NTEU then require a justified fit. Here the State's efficiency and harassment interests are legitimate, but requiring advance permission and public identification of bona fide research does not become an adequate response merely because the subject is sexual. The Act targets the content accessed through state equipment rather than distracting conduct or unwanted exposure of colleagues; genuinely work-related inquiry remains burdened. Delegation to academic administrators does not remove the discretionary content condition or explain the need for public approval records. Narrowing the definition to lascivious materials still includes protected material studied for independent scholarly purposes. The actual research plans, changed teaching activity, statutory terms, and ordinary inferences establish the burden without statistics. A history without denied applications addresses eventual permission, not the compulsory condition itself. The State has not justified that condition for this inquiry, so relief follows now; ordinary controls on misuse and harassment remain available.
+* **Boundary or Reserved Question:** A particular denied request and personal recreational computer use are outside this record. Individual disputes over whether an activity is bona fide independent scholarship, rather than prescribed institutional production or resource misuse, are governed by the stated functional distinction and require their own facts; no component of the challenged approval condition is left undecided.
 
-## D. DOCTRINAL DEVELOPMENT AND FUTURE APPLICATION
-
-Stone distinguishes independent university scholarship from an employee's delivery of an institutionally prescribed message. Boring's assigned school production does not resolve the former category. He adopts a bounded protection for independent inquiry because automatic institutional control would erase the individual activity at issue. This distinction leaves lawful curriculum, professional standards, budgets, and justified resource controls intact. Standing must be established before the court applies that merits rule.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 

@@ -12,7 +12,7 @@
 * **Entry Stage and Event:** MERITS; original proceeding, submission of supplemental decree implementing approved settlements.
 * **Simulated Event Date:** 2000-10-10 (historical).
 * **Question Presented:** What supplemental decree should implement the already approved Fort Mojave and Colorado River Reservation settlements without resolving the reserved Fort Yuma, riverbed, or private-title claims?
-* **Question Granted:** The issues stated above define the scope of review; their wording follows the judicial record rather than a verified verbatim petition.
+* **Question Granted:** Not applicable. This is an original-jurisdiction implementing-decree submission, not review on certiorari.
 * **Court and Judgment Under Review:** The Court exercises retained original jurisdiction over its Colorado River decree; the matter is implementation of the Special Master's submitted provisions, not appellate review of a lower-court judgment.
 * **Relief Requested:** Enter conforming provisions adjusting the two reservations' quantified entitlements and retain jurisdiction over the continuing original action.
 * **Material Record:** The prior decision approved an additional entitlement for Fort Mojave of the lesser of 3,022 acre-feet or water sufficient for 468 acres, and for the Colorado River Reservation of the lesser of 2,100 acre-feet or water sufficient for 315 acres. The implementing proposal states aggregate annual diversion ceilings of 132,789 acre-feet or irrigation requirements for 20,544 acres for Fort Mojave, and 719,248 acre-feet or requirements for 107,903 acres for the Colorado River Reservation, in each instance the lesser quantity and related uses. The historical implementation record reports no objections. That fact does not enlarge the consented settlement or establish title beyond it.
@@ -53,7 +53,6 @@ The parties' accords support entry of a conforming decree. The Master's implemen
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-10-10.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -70,9 +69,9 @@ The parties' accords support entry of a conforming decree. The Master's implemen
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the proposed adjustments faithfully implement the effective settlement approval.
 * **Stone's Legal Position:** Apply existing governing law.
-* **Stone's Holding:** An implementing decree must give effect to the approved water quantities and settlement boundaries while preserving every expressly reserved claim; the stated aggregate caps are appropriate insofar as they implement the approved adjustments.
+* **Stone's Proposed Holding:** An implementing decree must give effect to the approved water quantities and settlement boundaries while preserving every expressly reserved claim; the stated aggregate caps are appropriate insofar as they implement the approved adjustments.
 * **Reach Within the Question:** The two identified reservation settlements and their decree provisions; no other tribal or state claim.
-* **Essential Reasoning and Record Application:** The prior approval supplies the authority and substantive limits. Finalizing implementation is appropriate without a renewed trial when no material objection or factual dispute exists. Retained jurisdiction permits later enforcement and the separate unresolved proceedings.
+* **Essential Reasoning and Record Application:** The June 19 settlement approval determines the entitlements and reserved claims; Stone reaffirms and implements that decision. The approved agreements and the proposed decree, rather than a new assessment of competing water policy, supply the decisive comparison. Entry is warranted to make the approved adjustments enforceable, with correction of any inconsistent transcription. Retained jurisdiction permits enforcement and adjudication of the separately preserved matters. This is implementation of an existing judgment, so no new allocation rule is necessary.
 * **Boundary or Reserved Question:** The Fort Yuma merits and reserved title claims lie outside this implementing submission.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -139,7 +138,6 @@ The Second Circuit treated acceptance under the State's filing rules as sufficie
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-11-07.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -156,9 +154,9 @@ The Second Circuit treated acceptance under the State's filing rules as sufficie
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether these mandatory claim bars defeat the statutory tolling of an otherwise properly submitted state application.
 * **Stone's Legal Position:** Resolve an open statutory question within the existing AEDPA framework.
-* **Stone's Holding:** Proper filing concerns compliance with rules governing delivery and acceptance of the application; the specified New York restrictions on obtaining relief do not render the application improperly filed.
+* **Stone's Proposed Holding:** Proper filing concerns compliance with rules governing delivery and acceptance of the application; the specified New York restrictions on obtaining relief do not render the application improperly filed.
 * **Reach Within the Question:** Applications subject to claim-specific relief bars, including previously determined or omitted claims. The holding does not decide filing deadlines or their exceptions.
-* **Essential Reasoning and Record Application:** Congress selected the application as the unit of filing and separately referred to judgment or claim. Treating every unsuccessful procedural claim as improperly filed collapses that distinction and makes tolling retrospectively depend on success.
+* **Essential Reasoning and Record Application:** Congress selected the application as the unit of filing and separately referred to judgment or claim. Treating every unsuccessful procedural claim as improperly filed collapses that distinction and makes tolling retrospectively depend on success. Text and statutory structure are decisive; orderly exhaustion and predictable filing time reinforce that reading. Lindh remains controlling on temporal application. Stone adopts a reusable distinction between application-filing requirements and claim-relief bars because the tolling question itself demands that distinction, without making success on a claim the price of preserving review.
 * **Boundary or Reserved Question:** The precise pending period and treatment of untimely applications were not within the limited grant.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -185,7 +183,7 @@ This section is comparison material only. It is not simulated law and does not c
 * **Entry Stage and Event:** Merits submission for decision; the historical decision date supplies scheduling only.
 * **Simulated Event Date:** 2000-11-07 (historical).
 * **Question Presented:** Whether a Louisiana video-poker license is property in the State's hands for purposes of the federal mail-fraud statute before the license is issued.
-* **Question Granted:** The issues stated above define the scope of review; their wording follows the judicial record rather than a verified verbatim petition.
+* **Question Granted:** Certiorari was granted March 20, 2000, limited to the petition’s first question concerning the mail-fraud treatment of the licenses. The materiality issue was not granted. The wording above is a paraphrase, not a quotation from the petition. [United States merits brief](https://www.justice.gov/osg/brief/cleveland-v-united-states-merits).
 * **Court and Judgment Under Review:** Fifth Circuit: affirmed Cleveland's convictions, treating Louisiana's video-poker licenses as property of the State under circuit precedent.
 * **Relief Requested:** Cleveland seeks reversal of the mail-fraud convictions and appropriate relief on convictions dependent on those predicates. The United States seeks affirmance.
 * **Material Record:** Louisiana issues nontransferable, renewable video-poker licenses subject to suitability review. Cleveland assisted applications identifying Goodson's children as owners while allegedly concealing Cleveland's and Goodson's interests and financial difficulties. The State did not operate the gaming business. The prosecution alleged deceptive acquisition of licenses, not deprivation of unpaid fees or taxes. Two mail-fraud convictions and other convictions dependent on the charged fraud followed a jury trial.
@@ -225,7 +223,6 @@ The lower court treated the State's control over issuance and the license's valu
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-11-07.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -242,9 +239,9 @@ The lower court treated the State's control over issuance and the license's valu
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the charged scheme deprived Louisiana of property within §1341.
 * **Stone's Legal Position:** Resolve the open statutory application without changing the existing fraud elements.
-* **Stone's Holding:** A State's authority to issue or withhold the regulatory licenses at issue is not property in its hands under §1341; the recipient's later value does not supply the missing victim-property element.
+* **Stone's Proposed Holding:** A State's authority to issue or withhold the regulatory licenses at issue is not property in its hands under §1341; the recipient's later value does not supply the missing victim-property element.
 * **Reach Within the Question:** Fraud in obtaining comparable sovereign regulatory licenses. Actual public money or commercially held assets remain protected.
-* **Essential Reasoning and Record Application:** The State grants permission and polices suitability; it neither operates the machines nor sells an owned commercial asset. Revenue expected after issuance and control inherent in regulation do not make the license preissuance property. Federal criminal coverage cannot be enlarged by analogy alone.
+* **Essential Reasoning and Record Application:** The State grants permission and polices suitability; it neither operates the machines nor sells an owned commercial asset. Revenue expected after issuance and control inherent in regulation do not make the license preissuance property. Federal criminal coverage cannot be enlarged by analogy alone. Stone reaffirms McNally’s money-or-property limitation and distinguishes Carpenter’s commercially held confidential information. Statutory text and the character of Louisiana’s retained interest carry decisive weight; the federal-state allocation and fair-warning concerns confirm that reading. The rule governs regulatory permission of this kind because the same missing property element recurs, while any distinct revenue-fraud charge must satisfy its own elements.
 * **Boundary or Reserved Question:** A separately charged honest-services or revenue-deprivation theory is outside this reviewed prosecution ground.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -311,7 +308,6 @@ The district court inferred unconstitutional racial design in the seven district
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-11-27.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -328,9 +324,9 @@ The district court inferred unconstitutional racial design in the seven district
 * **Threshold and Merits Reach:** The plaintiffs' only asserted evidence concerns map effects, with no established personal racial assignment. Stone therefore decides Article III and does not enter a design-only merits holding.
 * **Question Stone Resolves:** Whether these plaintiffs demonstrated personal exposure to the alleged racial assignment rather than an inferred effect of neighboring districts.
 * **Stone's Legal Position:** Apply Johnson v. Miller and Bush v. Vera's personal-stake requirement.
-* **Stone's Holding:** A resident cannot establish personal racial-assignment injury merely by showing that a neighboring majority-minority district influenced the boundary of the resident's district; the identified record supplies no further personal assignment proof.
+* **Stone's Proposed Holding:** A resident cannot establish personal racial-assignment injury merely by showing that a neighboring majority-minority district influenced the boundary of the resident's district; the identified record supplies no further personal assignment proof.
 * **Reach Within the Question:** These claims and their evidentiary basis; residents who demonstrate personal unequal treatment remain able to challenge it even if their legal theory ultimately loses.
-* **Essential Reasoning and Record Application:** The lower court's inference about the statewide map does not establish which plaintiff personally suffered the challenged classification. The absence of a demonstrated personal relationship disposes of this case before deciding its already weak substantive theory.
+* **Essential Reasoning and Record Application:** Johnson v. Miller and Bush v. Vera require the claimant’s own injury; they do not demand an expert study, numerical racial threshold, or direct admission. Testimony, districting instructions, maps, documents, and competent circumstantial inferences can establish personal unequal treatment. Here, proof that neighboring majority-minority districts affected the overall plan supplies no further link showing that these plaintiffs were personally subjected to the alleged racial assignment. That failure is decisive under Article III. Stone dismisses this claim on its existing record and does not turn the absence of this injury into a new barrier to an independently supported dilution or participation claim.
 * **Boundary or Reserved Question:** The merits of an independently supported dilution, exclusion, or unequal-participation claim are outside the established record.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -406,26 +402,35 @@ One lawful path recognizes a perceived-speech right and remands for protected-st
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-11-27.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm dismissal of the individual damages claims on qualified-immunity grounds, without adopting the court of appeals’ categorical rejection of perceived-speech protection.
-* **Stone's Remedy and Remand Position:** Leave the dismissal in place on the preserved immunity ground. Do not order an investigation, assume a continuing dismissal threat, or announce a constitutional rule unnecessary to this judgment.
+* **Stone's Controlled Judgment or Disposition:** Reverse the dismissal of the First Amendment claim and remand for adjudication under perceived-speech protection and the defined personal legal-reliance defense.
+* **Stone's Remedy and Remand Position:** Wasson may prove that officials subjected her to an adverse employment action because they attributed constitutionally protected expression to her. Apply Pickering–Connick to the attributed expression and actual employment justification, and Mt. Healthy to causation and any same-decision defense. Resolve genuine factual disputes under ordinary procedure. For personal damages, require the defendants to establish the authoritative-reliance defense stated below; absence of an identical prior case alone does not defeat her claim. Award compensation only for proved injury and causation. Any prospective relief requires an actual continuing threat; the elapsed reinstatement deadline is not presumed still operative.
 
 ## C. ISSUE POSITIONS
 
-### Issue 1: Qualified immunity and unresolved perceived-speech right
+### Issue 1: Retaliation for attributed protected expression
 
-* **Threshold and Merits Reach:** The preserved immunity defense supplies a sufficient merits-stage ground for the damages judgment. The constitutional extension is unnecessary to that disposition.
-* **Question Stone Resolves:** Whether these individual defendants can be held liable in damages under law clearly established in January 1997.
-* **Stone's Legal Position:** The direct perceived-speech theory is substantial, but the law effective at the time of the conduct does not clearly settle it. The distinction between mistaken content and mistaken speaker identity prevents Waters v. Churchill from providing the particularized notice necessary for damages here. Stone applies the existing conduct-date defense in this grant; no general revision of qualified-immunity doctrine is adopted.
-* **Stone's Holding:** Officials sued personally over January 1997 discipline based on falsely attributed speech receive qualified immunity where no then-established rule clearly protected the employee on that distinct theory.
-* **Reach Within the Question:** This is a conduct-date immunity holding. It does not hold that retaliation for perceived protected speech is constitutional or make actual authorship a permanent prerequisite to every First Amendment claim.
-* **Essential Reasoning and Record Application:** The amended complaint presents individual defendants and a preserved immunity defense. Deciding the unresolved right adds no necessary basis for relief on this record. The anonymous author’s separate rights cannot replace the required basis for Wasson’s own claim, while a mere investigation defect cannot independently defeat immunity.
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** May an employee challenge retaliation for protected speech attributed to her although she denies having made it?
+* **Stone's Legal Position:** Extend the First Amendment prohibition of retaliation to perceived protected expression. Waters does not already decide mistaken speaker identity; its limited genuine-and-reasonable account safe harbor remains intact.
+* **Stone's Proposed Holding:** Yes. A public employer violates an employee’s First Amendment right when attributed expression that is protected under the governing public-employment rules substantially motivates an adverse employment action, subject to the employer’s proof that it would have taken the same action for an independent lawful reason. Actual authorship is not a prerequisite to this direct claim.
+* **Reach Within the Question:** Protection concerns the employer’s punitive use of perceived protected expression against this employee. Neither erroneous attribution alone nor an imperfect investigation establishes liability; protection, adverse action, motive, and causation remain necessary.
+* **Essential Reasoning and Record Application:** The First Amendment restrains official punishment of a person for the expression officials seek to suppress. Making the victim’s authorship decisive would allow the same censorial employment action whenever the employer selected the wrong speaker. Wasson alleges her own employment injury, so she need not establish a relationship with the anonymous author. Constitutional function and the retaliation precedents together support the extension; the prohibition on official suppression supplies the decisive reason. Waters protects genuine reliance on a reasonable account of disciplinable speech, not hostility to protected criticism. The letters’ content, dismissal notice, chronology, testimony, and other competent direct or circumstantial proof may establish the actual ground under Crawford-El; statistics are unnecessary. The alleged criticism must still satisfy the governing speech rules. A general rule for misattributed expression is warranted because identity error does not change the constitutional reason the retaliation is forbidden.
+* **Boundary or Reserved Question:** None.
+
+### Issue 2: Personal damages and legal reliance
+
+* **Threshold and Merits Reach:** The issue determines the challenged judgment and is properly presented on this record.
+* **Question Stone Resolves:** Does the absence of a previously decided mistaken-speaker case independently defeat personal damages?
+* **Stone's Legal Position:** Propose replacing Harlow’s clearly-established-law defense, as preserved in Elder and Crawford-El, to the extent it bars an otherwise established violation solely for lack of sufficiently similar prior precedent. Preserve Elder’s independent consideration of relevant authority and ordinary procedural protections.
+* **Stone's Proposed Holding:** No. After the claimant establishes the underlying violation, an official has a distinct defense only by proving actual and objectively reasonable reliance on identified binding precedent or enacted authority directly permitting the challenged conduct. Legal silence, an institutional custom, or general supervisory authority is insufficient.
+* **Reach Within the Question:** This change governs the preserved individual-capacity defense; it does not establish a violation, damages, institutional liability, or defeat an independent absolute immunity.
+* **Essential Reasoning and Record Application:** Section 1983 provides a remedy for the deprivation itself. The existing defense can make recurring suppression unredressable merely because officials used a new factual route. Reasonable factual mistakes and legitimate employment discretion already receive their proper protection in the substantive speech inquiry; repeating those allowances after finding a violation needlessly defeats the remedy. Reliance on actual authoritative permission deserves protection and supplies a manageable boundary. This openly changes the prior defense, including decisions Stone previously accepted; the narrower reliance protection addresses legitimate reliance without treating absence of precedent as a license. On the pleaded facts, no authorizing law has been established. Remand permits determination of any properly supported defense and remaining merits, without entering a damages judgment.
 * **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -492,7 +497,6 @@ The Seventh Circuit treated generalized drug investigation as outside the limite
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-11-28.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -509,9 +513,9 @@ The Seventh Circuit treated generalized drug investigation as outside the limite
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the city may stop motorists principally to seek evidence of ordinary drug offenses without individualized suspicion.
 * **Stone's Legal Position:** Apply the existing distinction between ordinary criminal investigation and independently justified suspicionless programs, resolving its checkpoint application.
-* **Stone's Holding:** A checkpoint whose primary purpose is ordinary narcotics evidence gathering cannot dispense with individualized suspicion merely because its procedures are uniform and it also checks licenses or sobriety.
+* **Stone's Proposed Holding:** A checkpoint whose primary purpose is ordinary narcotics evidence gathering cannot dispense with individualized suspicion merely because its procedures are uniform and it also checks licenses or sobriety.
 * **Reach Within the Question:** The announced drug-interdiction program and comparable ordinary crime-detection roadblocks, not every safety or border inspection.
-* **Essential Reasoning and Record Application:** Whren rests on actual probable cause and therefore supplies no authority here. Adding a secondary lawful task would otherwise let government avoid the suspicion requirement for virtually any roadblock. The city's stated principal purpose makes the legal boundary decisive.
+* **Essential Reasoning and Record Application:** Whren rests on actual probable cause and therefore supplies no authority here. Adding a secondary lawful task would otherwise let government avoid the suspicion requirement for virtually any roadblock. The city's stated principal purpose makes the legal boundary decisive. Stone distinguishes Sitz and Martinez-Fuerte by the independently justified safety and border functions those decisions actually addressed, and applies Chandler’s demand for a real special need. The ordinary crime-control boundary is categorical: balancing the brevity of these seizures against the desirability of drug enforcement cannot supply the missing authority. Program instructions, official statements, and actual practices may establish purpose; no statistical study is required. The rule reaches comparable crime-detection roadblocks because allowing a secondary lawful task to cure them would eliminate the boundary.
 * **Boundary or Reserved Question:** A genuinely urgent threat, a differently justified checkpoint, and the legality of a particular canine examination are outside the presented program challenge.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -578,7 +582,6 @@ The courts below found the conditional award consistent with both transport safe
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-11-28.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -595,9 +598,9 @@ The courts below found the conditional award consistent with both transport safe
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the actual conditional reinstatement conflicts with an explicit governing policy.
 * **Stone's Legal Position:** Apply the received narrow public-policy exception.
-* **Stone's Holding:** Courts may not vacate this reinstatement award on a general safety objection where the governing transportation regime permits rehabilitation and return to duty and the award requires compliance with those safeguards.
+* **Stone's Proposed Holding:** Courts may not vacate this reinstatement award on a general safety objection where the governing transportation regime permits rehabilitation and return to duty and the award requires compliance with those safeguards.
 * **Reach Within the Question:** The challenged award; materially different awards directing forbidden performance remain reviewable.
-* **Essential Reasoning and Record Application:** The legislature and regulator addressed this precise risk through testing, disqualification, treatment, and permitted return. A court cannot treat their rehabilitative provisions as nonexistent or replace negotiated arbitration with its own disciplinary judgment.
+* **Essential Reasoning and Record Application:** The legislature and regulator addressed this precise risk through testing, disqualification, treatment, and permitted return. A court cannot treat their rehabilitative provisions as nonexistent or replace negotiated arbitration with its own disciplinary judgment. Stone reaffirms Misco and W. R. Grace: an explicit, well-defined legal public policy, not a judge’s own preference, must prohibit enforcement of the award. Interpretation of that legal constraint is independent; the arbitrator’s unchallenged contractual judgment is not reheard. The governing return-to-duty provisions and this award’s conditions decide the case, so no broader immunity for unsafe work or universal right to reinstatement follows.
 * **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -664,7 +667,6 @@ The state court viewed the statutory language as conflicting and sought to prese
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, plus any actually effective intervening decision before December 4, 2000.
 * **Conditions:** Apply intervening controlling decisions and material corrections to the record.
@@ -769,7 +771,6 @@ Green Tree argues that the arbitration order is not final because the action emb
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-12-11.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -786,9 +787,9 @@ Green Tree argues that the arbitration order is not final because the action emb
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the district court ended the action.
 * **Stone's Legal Position:** Apply ordinary finality to §16(a)(3).
-* **Stone's Holding:** An order compelling arbitration and dismissing all claims is a final appealable decision under §16(a)(3).
+* **Stone's Proposed Holding:** An order compelling arbitration and dismissing all claims is a final appealable decision under §16(a)(3).
 * **Reach Within the Question:** Complete dismissals, not stays that leave the action pending.
-* **Essential Reasoning and Record Application:** Nothing remained for the district court to decide. A later confirmation action is a separate proceeding, not an uncompleted claim.
+* **Essential Reasoning and Record Application:** Nothing remained for the district court to decide. A later confirmation action is a separate proceeding, not an uncompleted claim. The statutory final-decision rule is decisive, and Catlin supplies the ordinary finality principle; no arbitration-specific exception warrants changing it.
 * **Boundary or Reserved Question:** None.
 
 ### Issue 2: Supported cost barrier
@@ -796,9 +797,9 @@ Green Tree argues that the arbitration order is not final because the action emb
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether this clause can enforce arbitration without a realistic means to vindicate the statutory claim.
 * **Stone's Legal Position:** Reject a categorical silence rule and resolve the open proof question through ordinary factual adjudication.
-* **Stone's Holding:** Silence concerning costs does not alone invalidate an arbitration agreement; a litigant must identify a concrete likelihood that required costs prevent effective statutory vindication, and the court must decide that supported objection on an adequate record.
+* **Stone's Proposed Holding:** Silence concerning costs does not alone invalidate an arbitration agreement; a litigant must identify a concrete likelihood that required costs prevent effective statutory vindication, and the court must decide that supported objection on an adequate record.
 * **Reach Within the Question:** Likely mandatory access costs connected to the claim and claimant, not a general entitlement to costless dispute resolution.
-* **Essential Reasoning and Record Application:** A forum choice is not a substantive waiver, but the distinction has practical content. The sparse record justifies neither automatic invalidation nor a factual finding that Randolph faces affordable costs. A bounded remand supplies the missing evidence without presuming a violation.
+* **Essential Reasoning and Record Application:** Mitsubishi and Gilmer permit a change of forum while preserving effective statutory vindication; Stone applies that principle to financial access. The agreement’s silence establishes neither unaffordable charges nor an accessible forum. Randolph’s sworn account of her resources, applicable fee schedules, contracts, forum correspondence, and other competent proof can support the objection; she need not produce statistical research or pay the disputed fee before challenging it. The party seeking compulsion must disclose materially relevant cost and allocation information within its control through ordinary focused procedure. An adequate initial showing warrants factual resolution, not an impossible demand for facts concealed by contractual silence. Text and the substantive-right-preservation principle are decisive; practical access explains their application. The remand resolves enforceability under that rule before compelling a forum the claimant cannot use.
 * **Boundary or Reserved Question:** The merits of the consumer claims and unrelated arbitration clauses are outside review.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -883,7 +884,6 @@ The Court may uphold each provision on this operational record, invalidate an in
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision before 2000-12-11.
 * **Conditions:** Subject to material changes in the record or intervening controlling law.
@@ -900,9 +900,9 @@ The Court may uphold each provision on this operational record, invalidate an in
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether $250 is closely drawn in these legislative races.
 * **Stone's Legal Position:** Sustain the limit on this record because specific influence concerns and actual campaign scale support its fit while meaningful private fundraising remains available.
-* **Stone's Holding:** A legislative contribution ceiling can satisfy the First Amendment when the State demonstrates anticorruption fit and continued meaningful political association in the particular campaign environment.
+* **Stone's Proposed Holding:** A legislative contribution ceiling can satisfy the First Amendment when the State demonstrates anticorruption fit and continued meaningful political association in the particular campaign environment.
 * **Reach Within the Question:** No general $250 safe harbor, no requirement of a completed bribe, and no requirement that challengers prove campaigning literally impossible.
-* **Essential Reasoning and Record Application:** The relatively small campaign budgets and identified contributor leverage give the State more than a generalized equality rationale. Retrospective lost-receipt calculations matter, including challenger effects, but do not alone establish future suppression. The special-election examples corroborate fundraising feasibility without conclusively representing all ordinary races.
+* **Essential Reasoning and Record Application:** The relatively small campaign budgets and identified contributor leverage give the State more than a generalized equality rationale. Retrospective lost-receipt calculations matter, including challenger effects, but do not alone establish future suppression. The special-election examples corroborate fundraising feasibility without conclusively representing all ordinary races. Stone applies, rather than replaces, Russell and Shrink Missouri’s closely drawn contribution standard. Testimony describing threatened withdrawal, correspondence or other accounts of contributor leverage, ordinary campaign experience, and financial records all bear on fit; neither completed bribery nor statistical proof is an added prerequisite. Contextual scrutiny controls, with actual operation decisive; dollar arithmetic is corroboration.
 * **Boundary or Reserved Question:** None.
 
 ### Issue 2: Matching funds
@@ -910,9 +910,9 @@ The Court may uphold each provision on this operational record, invalidate an in
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether these capped, program-linked subsidies impermissibly burden an opponent’s activity.
 * **Stone's Legal Position:** Sustain the program where the legal consequence is a bounded public grant to an enrolled candidate and the record does not establish an independent restriction or practical suppression of opposing lawful advocacy.
-* **Stone's Holding:** The presented responsive subsidy is permissible on its demonstrated programmatic connection and bounded operation, without recognizing an unlimited governmental power to offset private political speech.
+* **Stone's Proposed Holding:** The presented responsive subsidy is permissible on its demonstrated programmatic connection and bounded operation, without recognizing an unlimited governmental power to offset private political speech.
 * **Reach Within the Question:** This resolves Maine’s mechanism. Day v. Holahan remains binding at its actual judgment and vote-supported propositions; Stone’s earlier separate position supplies no Court rule.
-* **Essential Reasoning and Record Application:** The State offers a financing alternative tied to an actual electoral contest, qualifying support, and a finite maximum. The opposing candidate remains legally free to fundraise and spend. Competitive discomfort alone does not establish compelled participation, but a demonstrated practical burden would require separate justification.
+* **Essential Reasoning and Record Application:** The State offers a financing alternative tied to an actual electoral contest, qualifying support, and a finite maximum. The opposing candidate remains legally free to fundraise and spend. Competitive discomfort alone does not establish compelled participation, but a demonstrated practical burden would require separate justification. Day’s judgment concerned a materially different combination of responsive advantages, and no majority adopted its broad burden rationale. Stone distinguishes that judgment by Maine’s capped qualifying program and its demonstrated operation; he does not convert his own Day reasoning into precedent. The constitutional inquiry into an actual burden is decisive, and program structure supplies the relevant application. This is a rule for the presented bounded mechanism, not a categorical approval of every responsive subsidy.
 * **Boundary or Reserved Question:** None.
 
 ### Issue 3: Combined coercion
@@ -920,9 +920,9 @@ The Court may uphold each provision on this operational record, invalidate an in
 * **Threshold and Merits Reach:** The preserved question is necessary to the requested judgment, on the record and procedural posture described below.
 * **Question Stone Resolves:** Whether the lawful components together compel participation.
 * **Stone's Legal Position:** Reject the facial combination claim on this record after examining the actual private option rather than relying on the word voluntary.
-* **Stone's Holding:** A capped public-financing option coupled with the sustained contribution limit is not unconstitutional coercion absent a demonstrated substantial suppression of the meaningful private alternative.
+* **Stone's Proposed Holding:** A capped public-financing option coupled with the sustained contribution limit is not unconstitutional coercion absent a demonstrated substantial suppression of the meaningful private alternative.
 * **Reach Within the Question:** This does not allow public funding to rescue an independently unconstitutional private contribution restriction.
-* **Essential Reasoning and Record Application:** The cumulative objection identifies real incentives but does not establish that the private route has become merely nominal. The holding follows the demonstrated availability of private campaigning, not an assumption that any legally available alternative is adequate.
+* **Essential Reasoning and Record Application:** The cumulative objection identifies real incentives but does not establish that the private route has become merely nominal. The holding follows the demonstrated availability of private campaigning, not an assumption that any legally available alternative is adequate. The program must be considered as a whole under the same First Amendment protection: lawful components can still combine into suppression. The record’s concrete account of viable private campaigns supports rejection here; no fixed funding percentage or mandatory study is part of the rule.
 * **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -998,7 +998,6 @@ Bush argues that varying ballot standards and selective inclusion of returns imp
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, plus any actually effective intervening decision before December 12, 2000. Stone’s Palm Beach position is intervening precedent only to the extent adopted by the Court.
 * **Conditions:** Apply intervening controlling decisions and material corrections to the record.
@@ -1111,7 +1110,6 @@ Sustain both provisions and return the pending prosecution for ordinary adjudica
 
 ## A. STATUS
 
-* **Version:** 3.
 * **Approval Status:** Approved.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision effective before the stated event date.
 * **Conditions:** Subject to any intervening controlling decision identified above and any material change in the record.
@@ -1128,9 +1126,9 @@ Sustain both provisions and return the pending prosecution for ordinary adjudica
 * **Threshold and Merits Reach:** Reach the direct-corporate prohibition because the certified challenge presents its facial constitutional justification; leave individual guilt to the criminal case.
 * **Question Stone Resolves:** Whether party soft-money access constitutionally requires permission for direct corporate treasury contributions to candidates.
 * **Stone's Legal Position:** Apply the contribution framework to the distinct constitutional interests in individual political association and corporate treasury contributions.
-* **Stone's Holding:** The First Amendment permits a viewpoint-neutral prohibition on direct corporate treasury contributions that protects candidate-finance integrity and preserves meaningful voluntary human political association through lawful channels. The existence of party soft money does not invalidate that prohibition when direct candidate transfers remain a distinct corruption and circumvention risk.
+* **Stone's Proposed Holding:** The First Amendment permits a viewpoint-neutral prohibition on direct corporate treasury contributions that protects candidate-finance integrity and preserves meaningful voluntary human political association through lawful channels. The existence of party soft money does not invalidate that prohibition when direct candidate transfers remain a distinct corruption and circumvention risk.
 * **Reach Within the Question:** This reaches direct corporate contributions and the asserted soft-money objection. It does not decide independent expenditures, ordinary press activity or prohibitions that eliminate genuine human association.
-* **Essential Reasoning and Record Application:** An imperfect boundary can still protect a concrete transaction. The relevant comparison is candidate-directed treasury support, not an abstract equal quantity of influence. The restriction preserves natural persons’ participation and does not assign a superior civic voice to accumulated corporate assets.
+* **Essential Reasoning and Record Application:** An imperfect boundary can still protect a concrete transaction. The relevant comparison is candidate-directed treasury support, not an abstract equal quantity of influence. The restriction preserves natural persons’ participation and does not assign a superior civic voice to accumulated corporate assets. Stone applies Buckley’s contribution distinction and National Right to Work Committee’s recognition of voluntary individual channels, and distinguishes independent expenditures. Those principles and the candidate-directed transfer mechanism carry decisive weight; concern about corporate concentration alone would not establish validity. Testimony, communications, transactions, and circumstantial proof can establish circumvention without quantifying an official’s purchased influence.
 * **Boundary or Reserved Question:** Independent expenditure restrictions are outside the questions presented.
 
 ### Issue 2: Truthful attribution
@@ -1138,9 +1136,9 @@ Sustain both provisions and return the pending prosecution for ordinary adjudica
 * **Threshold and Merits Reach:** Reach the false-name prohibition independently, because its validity does not depend on the corporate provision surviving.
 * **Question Stone Resolves:** Whether lawful soft money disables truthful attribution rules for federal candidate contributions.
 * **Stone's Legal Position:** Apply existing contribution and disclosure principles to the unresolved challenge.
-* **Stone's Holding:** Congress may prohibit knowing contributions made in another person’s name to prevent evasion and preserve truthful attribution. The Constitution does not entitle contributors to conceal the actual source because other transactions receive different regulation.
+* **Stone's Proposed Holding:** Congress may prohibit knowing contributions made in another person’s name to prevent evasion and preserve truthful attribution. The Constitution does not entitle contributors to conceal the actual source because other transactions receive different regulation.
 * **Reach Within the Question:** The rule concerns false-source transactions, not a requirement to disclose every private political association without regard to burden.
-* **Essential Reasoning and Record Application:** Reimbursement through nominal contributors defeats both statutory limits and the public’s knowledge of who financed a candidate. The indictment alleges precisely that transaction; proof remains necessary.
+* **Essential Reasoning and Record Application:** Reimbursement through nominal contributors defeats both statutory limits and the public’s knowledge of who financed a candidate. The indictment alleges precisely that transaction; proof remains necessary. The source-attribution rule is justified by the transaction’s concealment and evasion, not a prediction that every false-name contribution purchases an official act. It remains distinct from general donor-disclosure rules and any properly presented protection against demonstrated harassment.
 * **Boundary or Reserved Question:** None.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
