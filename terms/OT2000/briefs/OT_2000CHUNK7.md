@@ -1522,7 +1522,7 @@ The agency preserved its contention that de novo Board review and absence of pre
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved; renewed 2026-11-08 by express user approval, with an authorized alternative judgment added.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to intervening controlling law before June 18, 2001.
 * **Conditions:** Apply material corrections to the record and any effective intervening decision.
 
@@ -1530,6 +1530,7 @@ The agency preserved its contention that de novo Board review and absence of pre
 
 * **Stone's Controlled Judgment or Disposition:** Vacate and remand under the replacement personal-immunity rule stated below. Reject both the Ninth Circuit's account of existing precedent and a judgment granting Saucier immunity on this disputed record.
 * **Stone's Remedy and Remand Position:** Determine the force claim on facts properly assumed at this interlocutory stage, then decide whether Saucier proves the separate authoritative-reliance defense. Remand genuine disputes about the acts, perceived danger, resistance, and personal participation for lawful factfinding; permit bounded submissions on the new defense. A finding that the defense fails does not establish damages, a constitutional violation, institutional liability, or a new federal cause of action.
+* **Stone's Authorized Alternative Judgment:** If five votes do not support the remand stated above, Stone may instead vote to vacate the judgment and remand for the Court of Appeals to apply the existing objective qualified-immunity inquiry as a question distinct from the Fourth Amendment force merits, on facts properly assumed at this interlocutory stage. Neither immunity nor its denial is directed. Stone maintains his own view that insufficiently-clearly-established-law immunity should be replaced by the authoritative-reliance defense stated below and states that view separately.
 
 ## C. ISSUE POSITIONS
 
