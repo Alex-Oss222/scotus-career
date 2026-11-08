@@ -1,0 +1,113 @@
+{
+  "case": "Egelhoff v. Egelhoff",
+  "date": "2001-03-21",
+  "record": "terms/OT2000/records/Egelhoff_v_Egelhoff_merits_2001-03-21.md",
+  "record_sha256": "2064fed160c38e3fc7c8285a1f79968496ecf8ab82f284d4e8c8622a085b83bb",
+  "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
+  "input_hashes": {
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_EGELHOFF_FINAL.md": "713634d7b03a672855189818dc9fdf59c52a466cd4323b55a735896d8ed3f94d",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_EGELHOFF_REFRESH.md": "f2a5db4e4bc4d6d24df61e564f5e0a2e40e4887bfe4cbb9f8fbdcc5c151bdd24",
+    "terms/OT2000/freeze/OT_2000CHUNK4_EGELHOFF_NEUTRAL_REFRESH.md": "adac980743425f96a7d9067ac8eead6e3a3003d13a342fb5ff346be66dde7f0c",
+    "terms/OT2000/runtime/OT_2000CHUNK4_EGELHOFF_PLAN_RETURN.md": "af118ccbf61f02e98af5d9eb88ce9459a38c3c4c59c42a7c28f30a7ad477d874",
+    "terms/OT2000/runtime/OT_2000CHUNK4_EGELHOFF_STATUTE.md": "5142fcfc2aac62bff17cf338380a15b9d87e98bc412a2e29a29094f008347af7"
+  },
+  "legal_checks": {
+    "final_C_read_before_Stone": true,
+    "final_reconciled_commitments_preserved": true,
+    "stone_fixed_core_preserved": true,
+    "no_fallback": true,
+    "complete_statutory_qualifications": true,
+    "both_benefit_components_resolved": true,
+    "insurance_uses_section514_not_pension_antialienation": true,
+    "no_new_material_premise": true,
+    "no_blocker": true
+  },
+  "judgment_components": [
+    {
+      "component": "insurance",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Stevens",
+        "Breyer"
+      ],
+      "counts": [
+        7,
+        2
+      ]
+    },
+    {
+      "component": "pension",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Stevens",
+        "Breyer"
+      ],
+      "counts": [
+        7,
+        2
+      ]
+    }
+  ],
+  "clerical_checks": {
+    "initial_labels": 4,
+    "public_blocks": 11,
+    "projection_identity": true,
+    "explanation_word_counts": [
+      283
+    ],
+    "opinion_table_authors_parse": true,
+    "forbidden_content_scan": true,
+    "natural_key": true,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 4,
+      "O'Connor": 4,
+      "Scalia": 4,
+      "Kennedy": 4,
+      "Souter": 5,
+      "Thomas": 4,
+      "Ginsburg": 4,
+      "Breyer": 4
+    },
+    "last_counted_event": {
+      "date": "2001-03-21",
+      "case": "Circuit City Stores, Inc. v. Adams",
+      "record": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md"
+    },
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "author": "Ginsburg"
+  }
+}

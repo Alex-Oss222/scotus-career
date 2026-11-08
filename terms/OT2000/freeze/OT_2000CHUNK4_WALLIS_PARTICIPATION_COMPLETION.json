@@ -1,0 +1,15 @@
+{
+  "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+  "before_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
+  "after_sha256": "ca0778dfdd3ff38ba409a6bf58598c4a30e751586d7b43fdd00af15775e8fe00",
+  "preserved_before": "terms/OT2000/tmp/Wallis_before_participation_completion.md",
+  "source": [
+    "OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md",
+    "OT_2000CHUNK4_GRANTED_MERITS_SUBMISSION_PREMISE.md",
+    "OT_2000CHUNK4_COMMITMENTS_WALLIS.md",
+    "OT_2000CHUNK4_RECONCILED_WALLIS.md"
+  ],
+  "completion": "Expressly document participation at the established full-merits submission, the existing nine-member quorum and majority threshold, and the certiorari review channel. Public Participation adds the submission milestone only.",
+  "adjudicative_effect": "None. No participant, absence, judgment, proposition, join, assignment, remedy or substantive entering-law premise changes. No affected modeling or reconciliation return is required.",
+  "frozen_stage_files_changed": false
+}

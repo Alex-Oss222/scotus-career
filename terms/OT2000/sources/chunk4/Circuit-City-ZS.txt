@@ -1,0 +1,109 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+CIRCUIT CITY STORES, INC. V. ADAMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+CIRCUIT CITY STORES, INC. V. ADAMS (99-1379) 
+194 F.3d 1070, reversed and remanded.Syllabus
+ Opinion
+ [ Kennedy ]Dissent
+ [ Stevens ]Dissent
+ [ Souter ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+CIRCUIT CITY STORES, INC. v. ADAMS
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 99—1379.  Argued November 6, 2000–Decided March 21, 2001
+ 
+
+
+
+
+A provision in respondent’s application for work at petitioner electronics retailer required all employment disputes to be settled by arbitration.  After he was hired, respondent filed a state-law employment discrimination action against petitioner, which then sued in federal court to enjoin the state-court action and to compel arbitration pursuant to the Federal Arbitration Act (FAA).  The District Court entered the requested order.  The Ninth Circuit reversed, interpreting §1 of the FAA–which excludes from that Act’s coverage “contracts of employment of seamen, railroad employees, or any other class of workers engaged in foreign or interstate commerce”–to exempt all employment contracts from the FAA’s reach.
+
+
+Held: The §1 exemption is confined to transportation workers.  Pp. 3—16.
+
+
+    (a) The FAA’s coverage provision, §2, compels judicial enforcement of arbitration agreements “in any … contract evidencing a transaction involving commerce.”  In Allied-Bruce Terminix Cos. v. Dobson, 513 U.S. 265, the Court interpreted §2’s “involving commerce” phrase as implementing Congress’ intent “to exercise [its] commerce power to the full.”  Id., at 277.  Pp. 3—5.
+
+
+      (b) The Court rejects respondent’s contention that the word “transaction” in §2 extends only to commercial contracts, and that therefore an employment contract is not a “contract evidencing a transaction involving interstate commerce” at all.  If that were true, the separate §1 exemption that is here at issue would be pointless.  See, e.g., Pennsylvania Dept. of Public Welfare v. Davenport, 495 U.S. 552, 562.  Accordingly, any argument that arbitration agreements in employment contracts are not covered by the FAA must be premised on the language of the §1 exclusion itself.  Pp. 5—6.
+
+
+      (c) The statutory text forecloses the construction that §1 excludes all employment contracts from the FAA.  Respondent relies on Allied-Bruce’s expansive reading of “involving commerce” to contend that §1’s “engaged in … commerce” language should have a like reach, exempting from the FAA all employment contracts falling within Congress’ commerce power.  This reading of §1 runs into the insurmountable textual obstacle that, unlike §2’s “involving commerce” language, the §1 words “any other class of workers engaged in … commerce” constitute a residual phrase, following, in the same sentence, explicit reference to “seamen” and “railroad employees.”  The wording thus calls for application of the maxim ejusdem generis, under which the residual clause should be read to give effect to the terms “seamen” and “railroad employees,” and should be controlled and defined by reference to those terms.  See, e.g., Norfolk & Western R. Co. v. Train Dispatchers, 499 U.S. 117, 129.  Application of ejusdem generis is also in full accord with other sound considerations bearing upon the proper interpretation of the clause.  In prior cases, the Court has read “engaged in commerce” as a term of art, indicating a limited assertion of federal jurisdiction.  See e.g., United States v. American Building Maintenance Industries, 422 U.S. 271, 279—280.  The Court is not persuaded by the assertion that its §1 interpretation should be guided by the fact that, when Congress adopted the FAA, the phrase “engaged in commerce” came close to expressing the outer limits of its Commerce Clause power as then understood, see, e.g., The Employers’ Liability Cases, 207 U.S. 463, 498.  This fact alone does not provide any basis to adopt, “by judicial decision, rather than amendatory legislation,” Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186, 202, an expansive construction of the FAA’s exclusion provision that goes beyond the meaning of the words Congress used.  While it is possible that Congress might have chosen a different jurisdictional formulation had it known that the Court later would embrace a less restrictive reading of the Commerce Clause, §1’s text precludes interpreting the exclusion provision to defeat the language of §2 as to all employment contracts.  The statutory context in which the “engaged in commerce” language is found, i.e., in a residual provision, and the FAA’s purpose of overcoming judicial hostility to arbitration further compel that the §1 exclusion be afforded a narrow construction.  The better reading of §1, in accord with the prevailing view in the Courts of Appeals, is 
+that §1 exempts from the FAA only employment contracts of transportation workers.  Pp. 6—12.
+
+
+      (d) As the Court’s conclusion is directed by §1’s text, the rather sparse legislative history of the exclusion provision need not be assessed.  The Court rejects respondent’s argument that the Court’s holding attributes an irrational intent to Congress by excluding from the FAA’s coverage those employment contracts that most involve interstate commerce, i.e., those of transportation workers, while including employment contracts having a lesser connection to commerce.  It is a permissible inference that the former contracts were excluded because Congress had already enacted, or soon would enact, statutes governing transportation workers’ employment relationships and did not wish to unsettle established or developing statutory dispute resolution schemes covering those workers.  As for the residual exclusion of “any other class of workers engaged in foreign or interstate commerce,” it would be rational for Congress to ensure that workers in general would be covered by the FAA, while reserving for itself more specific legislation for transportation workers.  Pp. 12—14.
+
+
+      (e) Amici argue that, under the Court’s reading, the FAA in effect pre-empts state employment laws restricting the use of arbitration agreements.  That criticism is not properly directed at today’s holding, but at Southland Corp. v. Keating, 465 U.S. 1, holding that Congress intended the FAA to apply in state courts, and to pre-empt state antiarbitration laws to the contrary.  The Court explicitly declined to overrule Southland in Allied-Bruce, supra, at 272, and Congress has not moved to overturn Southland in response to Allied-Bruce.  Nor is Southland directly implicated in this case, which concerns the application of the FAA in a federal, rather than in a state, court.  The Court should not chip away at Southland by indirection.  Furthermore, there are real benefits to arbitration in the employment context, including avoidance of litigation costs compounded by difficult choice-of-law questions and by the necessity of bifurcating the proceedings where state law precludes arbitration of certain types of employment claims but not others.  Adoption of respondent’s position would call into doubt the efficacy of many employers’ alternative dispute resolution procedures, in the process undermining the FAA’s proarbitration purposes and breeding litigation from a statute that seeks to avoid it.  Allied-Bruce, supra, at 275.  Pp. 14—16.
+
+
+194 F.3d 1070, reversed and remanded.
+
+
+    Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Thomas, JJ., joined.  Stevens, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined, and in which Souter, J., joined as to Parts II and III.  Souter, J., filed a dissenting opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined.  
+
+ 
+
+
+
+

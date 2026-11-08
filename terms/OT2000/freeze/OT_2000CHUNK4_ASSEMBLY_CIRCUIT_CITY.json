@@ -1,0 +1,74 @@
+{
+  "case": "Circuit City Stores, Inc. v. Adams",
+  "event": "merits",
+  "date": "2001-03-21",
+  "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk-wide checks remain with root.",
+  "record": "terms/OT2000/records/Circuit_City_Stores_v_Adams_merits_2001-03-21.md",
+  "record_sha256": "101ee00c8c9f92d76d97fd52152846a8cd3a3c9b76afc098f4d462eabc2c50a1",
+  "inputs_sha256": {
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_CIRCUIT_CITY.md": "db72a9e6c725982d94b0a0e6ec5d742b07c1e35e85f99f21d2437593e6451564",
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_CIRCUIT_CITY.md": "3414de30dc1f1ffe8d7403367a53a4e27c1843befd730a2c2e48b43199e30ed2",
+    "terms/OT2000/freeze/OT_2000CHUNK4_EARLY_NEUTRAL_VALIDATION.md": "46e8b6017c4f413c6be0740d4e6a5ccf2e9d0d1f1e976a5daad8229549b1f36c",
+    "terms/OT2000/freeze/OT_2000CHUNK4_CLEAN_NEUTRAL_VALIDATION.md": "0a71ad4c415feb6292fb314a951e8202779a16d51954c745459b6051830250b7",
+    "terms/OT2000/freeze/OT_2000CHUNK4_TARGETED_NEUTRAL_VALIDATION.md": "cf5a77fd52d2185ce2d13f1d3c826cb670b116bfa093e64eebc5e09110305428",
+    "terms/OT2000/freeze/OT_2000CHUNK4_EARLY_SOURCE_VERIFICATION.md": "f1b1a5ea97b6886b07d8933b05b5902646ff4c4d8af944d2767b38ca7d8faf81",
+    "terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-03-21.md": "6820ad66a205235c1e067b32b7d13e5258c640331de84a83f689e1ebf40b284a"
+  },
+  "stone_exposure": "Only Circuit City substantive block read after final per-case reconciliation; later case/issue headings were mechanically listed without position text. No other Stone block read.",
+  "governing_read_boundary": "Initial foundation read included the complete Engine before focused rereading; only governing rules, no additional substantive case source, were exposed.",
+  "legal_checks": {
+    "frozen_associate_commitments_preserved": true,
+    "stone_fixed_core_preserved": true,
+    "no_fallback": true,
+    "march20_public_law_no_material_change": true,
+    "no_same_day_law": true,
+    "all_published_separate_positions_retained": true,
+    "no_new_material_premise": true,
+    "no_unresolved_circuit_city_blocker": true
+  },
+  "clerical_checks": {
+    "four_labels": true,
+    "participation": 9,
+    "judgment": [
+      5,
+      4
+    ],
+    "exact_opinion_joins": true,
+    "ordered_public_blocks": 11,
+    "projection_identity": true,
+    "explanation_words": 281,
+    "forbidden_content_scan": true,
+    "natural_key": true,
+    "fresh_assignment_count": {
+      "Stone-Zsela": 3,
+      "Stevens": 4,
+      "O'Connor": 4,
+      "Scalia": 4,
+      "Kennedy": 4,
+      "Souter": 5,
+      "Thomas": 4,
+      "Ginsburg": 4,
+      "Breyer": 4
+    },
+    "last_counted_event": {
+      "date": "2001-03-20",
+      "case": "TrafFix Devices, Inc. v. Marketing Displays, Inc.",
+      "record": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md"
+    },
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Stone-Zsela"
+  },
+  "state_publication": "Pending integrating operator; not certified by this receipt."
+}

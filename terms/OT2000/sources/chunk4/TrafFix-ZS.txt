@@ -1,0 +1,95 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+TRAFFIX DEVICES, INC. V. MARKETINGDISPLAYS, INC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+TRAFFIX DEVICES, INC. V. MARKETINGDISPLAYS, INC. (99-1571) 
+200 F.3d 929, reversed and remanded.Syllabus
+ Opinion
+ [ Kennedy ]HTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+TRAFFIX DEVICES, INC. v. MARKETING DISPLAYS, INC.
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+ 
+No. 99—1571.  Argued November 29, 2000–Decided March 20, 2001
+ 
+
+
+
+
+Respondent, Marketing Displays, Inc. (MDI), holds now-expired utility patents for a “dual-spring design” mechanism that keeps temporary road and other outdoor signs upright in adverse wind conditions.  MDI claims that its sign stands were recognizable to buyers and users because the patented design was visible near the sign stand’s base.  After the patents expired and petitioner TrafFix Devices, Inc., began marketing sign stands with a dual-spring mechanism copied from MDI’s design, MDI brought suit under the Trademark Act of 1964 for, inter alia, trade dress infringement.  The District Court granted TrafFix’s motion for summary judgment, holding that no reasonable trier of fact could determine that MDI had established secondary meaning in its alleged trade dress, i.e., consumers did not associate the dual-spring design’s look with MDI; and, as an independent reason, that there could be no trade dress protection for the design because it was functional.  The Sixth Circuit reversed.  Among other things, it suggested that the District Court committed legal error by looking only to the dual-spring design when evaluating MDI’s trade dress because a competitor had to find some way to hide the design or otherwise set it apart from MDI’s; explained, relying on Qualitex Co. v. Jacobson Products Co., 514 U.S. 159, 165, that exclusive use of a feature must put competitors at a significant non-reputation-related disadvantage before trade dress protection is denied on functionality grounds; and noted a split among the Circuits on the issue whether an expired utility patent forecloses the possibility of trade dress protection in the product’s design.
+
+
+Held: Because MDI’s dual-spring design is a functional feature for which there is no trade dress protection, MDI’s claim is barred.  Pp. 4—11.
+
+
+    (a) Trade dress can be protected under federal law, but the person asserting such protection in an infringement action must prove that the matter sought to be protected is not functional, 15 U.S.C. § 1125(a)(3).  Trade dress protection must subsist with the recognition that in many instances there is no prohibition against copying goods and products.  An expired utility patent has vital significance in resolving a trade dress claim, for a utility patent is strong evidence that the features therein claimed are functional.  The central advance claimed in the expired utility patents here is the dual-spring design, which is an essential feature of the trade dress MDI now seeks to protect.  However, MDI did not, and cannot, carry the burden of overcoming the strong evidentiary inference of functionality based on the disclosure of the dual-spring design in the claims of the expired patents.  The springs are necessary to the device’s operation, and they would have been covered by the claims of the expired patents even though they look different from the embodiment revealed in those patents, see Sarkisian v. Winn-Proof Corp., 697 F.2d 1313.  The rationale for the rule that the disclosure of a feature in a utility patent’s claims constitutes strong evidence of functionality is well illustrated in this case.  The design serves the important purpose of keeping the sign upright in heavy wind conditions, and statements in the expired patent applications indicate that it does so in a unique and useful manner and at a cost advantage over alternative designs.  Pp. 4—8.
+
+
+      (b) In reversing the summary judgment against MDI, the Sixth Circuit gave insufficient weight to the importance of the expired utility patents, and their evidentiary significance, in establishing the device’s functionality.  The error was likely caused by its misinterpretation of trade dress principles in other respects.  “ ‘In general terms a product feature is functional,’ and cannot serve as a trademark, ‘if it is essential to the use or purpose of the article or if it affects the cost or quality of the article.’ ”  Qualitex, supra, at 165 (quoting Inwood Laboratories, Inc. v. Ives Laboratories, Inc., 456 U.S. 844, 850, n. 10).  This Court has expanded on that meaning, observing that a functional feature is one “the exclusive use of [which] would put competitors at a significant non-reputation-related disadvantage,” Qualitex, supra, at 165, but that language does not mean that competitive necessity is a necessary test for functionality.  Where the design is functional under the Inwood formulation there is no need to proceed further to consider competitive necessity.  This Court has allowed trade dress protection to inherently distinctive product features on the assumption that they were not functional.  Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763, 774.  Here, however, beyond serving the purpose of informing consumers that the sign stands are made by MDI, the design provides a unique and useful mechanism to resist the wind’s force.  Functionality having been established, whether the design has acquired secondary meaning need not be considered.  Nor is it necessary to speculate about other design possibilities.  Finally, this Court need not resolve here the question whether the Patent Clause of the Constitution, of its own force, prohibits the holder of an expired utility patent from claiming trade dress protection.  Pp. 8—11.
+
+
+200 F.3d 929, reversed and remanded.
+
+
+    Kennedy, J., delivered the opinion for a unanimous Court.
+
+ 
+
+
+
+

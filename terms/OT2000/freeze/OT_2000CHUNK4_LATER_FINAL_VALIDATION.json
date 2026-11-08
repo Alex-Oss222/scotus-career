@@ -1,0 +1,45 @@
+[
+  {
+    "case": "WESTON",
+    "author": "O'Connor",
+    "blocks": 11,
+    "explanation_words": [
+      154,
+      151
+    ],
+    "frozen_final_reconciliation_preserved": true,
+    "public_identity": true
+  },
+  {
+    "case": "EASLEY",
+    "author": "Ginsburg",
+    "blocks": 11,
+    "explanation_words": [
+      211
+    ],
+    "frozen_final_reconciliation_preserved": true,
+    "public_identity": true
+  },
+  {
+    "case": "SHAW_MURPHY",
+    "author": "Scalia",
+    "blocks": 11,
+    "explanation_words": [
+      257
+    ],
+    "frozen_final_reconciliation_preserved": true,
+    "public_identity": true
+  },
+  {
+    "case": "CHILD",
+    "author": "Breyer",
+    "blocks": 11,
+    "explanation_words": [
+      159,
+      131,
+      162
+    ],
+    "frozen_final_reconciliation_preserved": true,
+    "public_identity": true
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+  "explanation_words": [
+    211
+  ],
+  "holdings_identity": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "author": "Ginsburg",
+  "expected_counts": [
+    4,
+    6,
+    6,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "validation": "Assembly checks complete; integration and repository commitment pending."
+}

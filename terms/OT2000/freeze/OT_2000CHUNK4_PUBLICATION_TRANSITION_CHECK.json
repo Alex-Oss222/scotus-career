@@ -1,0 +1,33 @@
+[
+  {
+    "record": "United_States_v_Weston_merits_2001-04-17.md",
+    "before_hash_matches": true,
+    "after_hash_matches": true,
+    "replacement_counts": [
+      1
+    ],
+    "documented_changes_only": true,
+    "internal_identity": true
+  },
+  {
+    "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+    "before_hash_matches": true,
+    "after_hash_matches": true,
+    "replacement_counts": [
+      1,
+      1
+    ],
+    "documented_changes_only": true,
+    "internal_identity": true
+  },
+  {
+    "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+    "before_hash_matches": true,
+    "after_hash_matches": true,
+    "replacement_counts": [
+      1
+    ],
+    "documented_changes_only": true,
+    "internal_identity": true
+  }
+]

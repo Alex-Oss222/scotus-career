@@ -1,0 +1,45 @@
+Source: https://www.law.cornell.edu/supct/html/99-1613.ZS.html
+
+SHAW V. MURPHY
+
+LII
+
+Supreme Court
+
+SHAW V. MURPHY (99-1613)
+195 F.3d 1121, reversed and remanded.
+Syllabus
+Opinion
+[ Thomas ]Concurrence
+[ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+SHAW et al. v. MURPHY
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 99—1613. Argued January 16, 2001–Decided April 18, 2001
+
+While respondent Murphy was incarcerated in state prison, he learned that a fellow inmate had been charged with assaulting a correctional officer. Murphy decided to assist the inmate with his defense and sent him a letter, which was intercepted in accordance with prison policy. Based on the letter’s content, the prison sanctioned Murphy for violating prison rules prohibiting insolence and interfering with due process hearings. Murphy then sought declaratory and injunctive relief under 42 U.S.C. § 1983 alleging that the disciplinary action violated, inter alia, his First Amendment rights, including the right to provide legal assistance to other inmates. In granting petitioners summary judgment, the District Court applied the decision in Turner v. Safley, 482 U.S. 78, 89–that a prison regulation impinging on inmates’ constitutional rights is valid if it is reasonably related to legitimate penological interests–and found a valid, rational connection between the inmate correspondence policy and the objectives of prison order, security, and inmate rehabilitation. The Ninth Circuit reversed, finding that inmates have a First Amendment right to give legal assistance to other inmates and that this right affected the Turner analysis.
+
+Held:
+
+1. Inmates do not possess a special First Amendment right to provide legal assistance to fellow inmates that enhances the protections otherwise available under Turner. Prisoners’ constitutional rights are more limited in scope than the constitutional rights held by individuals in society at large. For instance, some First Amendment rights are simply inconsistent with the corrections system’s “legitimate penological objectives,” Pell v. Procunier, 417 U.S. 817, 822, and thus this Court has sustained restrictions on, e.g., inmate-to-inmate written correspondence, Turner, supra, at 93. Moreover, because courts are ill equipped to deal with the complex and intractable problems of prisons, Procunier v. Martinez, 416 U.S. 396, 404—405, this Court has generally deferred to prison officials’ judgment in upholding such regulations against constitutional challenge. Turner reflects this understanding, setting a unitary, deferential standard for reviewing prisoners’ claims that does not permit an increase in the constitutional protection whenever a prisoner’s communication includes legal advice. To increase the constitutional protection based upon a communication’s content first requires an assessment of that content’s value. But the Turner test simply does not accommodate valuations of content. On the contrary, it concerns only the relationship between the asserted penological interests and the prison regulation. Moreover, prison officials are to remain the primary arbiters of the problems that arise in prison management. 482 U.S., at 89. Seeking to avoid unnecessarily perpetuating federal courts’ involvement in prison administration affairs, the Court rejects an alteration of the Turner analysis that would entail additional federal-court oversight. Even if this Court were to consider giving special protection to particular kinds of speech based on content, it would not do so for speech that includes legal advice. Augmenting First Amendment protection for such advice would undermine prison officials’ ability to address the complex and intractable problems of prison administration. Id., at 84. The legal text could be an excuse for making clearly inappropriate comments, which may circulate among prisoners despite prison measures to screen individual inmates or officers from the remarks. Pp. 4—8.
+
+2. To prevail on remand on the question whether the prison regulations, as applied to Murphy, are reasonably related to legitimate penological interests, he must overcome the presumption that the prison officials acted within their broad discretion. P. 8.
+
+195 F.3d 1121, reversed and remanded.
+
+Thomas, J., delivered the opinion for a unanimous Court. Ginsburg, J., filed a concurring opinion.

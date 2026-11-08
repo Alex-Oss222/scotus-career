@@ -1,0 +1,8 @@
+{
+  "term": "OT2000",
+  "nonrepository_check_exit": 0,
+  "inventory_coverage": "labeled chunk cells recognized by bounded adapter; independent 114-row identity check retained",
+  "repository_object_existence": "not performed; operator command restriction",
+  "references_deferred": [],
+  "repository_commands_run": 0
+}

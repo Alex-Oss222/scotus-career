@@ -1,0 +1,35 @@
+Source: https://openjurist.org/194/f3d/1070/circuit-city-stores-inc-v-adams
+
+Full opinion paragraphs 1–16 copied programmatically from the primary-opinion text returned by the web tool. Link annotations and presentation line labels removed. Modern editorial summary excluded.
+
+¶1Angela Alioto, Steven L. Robinson, Law Offices of Mayor Joseph L. Alioto & Angela Alioto, San Francisco, California, for the defendant-appellant.
+
+¶2Rex Darrell Berry, Davis, Grimm & Payne, Seattle, Washington, for the plaintiff-appellee.
+
+¶3Before: FLETCHER, D.W. NELSON, and BRUNETTI, Circuit Judges.
+
+¶4PER CURIAM:
+¶5This is an appeal from the district court’s final order compelling arbitration under the Federal Arbitration Act, 9 U.S.C.A. § 1, et seq. (West 1999) (“FAA”). We have jurisdiction pursuant to 28 U.S.C. § 1291. The district court, however, lacked the authority, as a matter of substantive law, to compel arbitration because the Federal Arbitration Act does not apply to this case. In Craft v.
+Campbell Soup Co., 177 F.3d 1083, 1094 (9th Cir.1999), we held that the FAA does not apply to labor or employment contracts.
+¶6*1071Factual and Procedural Background
+¶7Saint Clair Adams appeals the district court’s order staying the state court action and compelling arbitration. Circuit City sought mutually binding arbitration under Section 4 of the FAA in response to Adams’s state court lawsuit under the California Fair Employment and Housing Act (“FEHA”). On October 23, 1995, Adams completed a six-page application to work at Circuit City Stores.
+On pages two and three of the application, Adams signed a document titled “Circuit City Dispute Resolution Agreement” (“DRA”). The DRA requires that employees submit all claims and disputes to mutually binding arbitration.1 An employee cannot work at Circuit City without signing the DRA. If the employee signs the DRA and then withdraws consent within three days, the employee “will no longer be eligible for employment at Circuit City.”
+¶8Standard of Review
+
+¶9The Ninth Circuit reviews de novo the district court’s order compelling arbitration. See Zolezzi v. Dean Witter Reynolds, Inc., 789 F.2d 1447, 1449 (9th Cir.1986). The existence of subject matter jurisdiction is a question of law reviewed de novo. See Galt G/S v. JSS Scandinavia, 142 F.3d 1150, 1153 (9th Cir.1998).
+
+¶10Discussion
+¶11Circuit City sought arbitration pursuant to Section 4 of the FAA and asserted jurisdiction pursuant to Section 4 and 28 U.S.C. § 1332. We recognize that the FAA is not a jurisdictional statute:
+> [The FAA] is something of an anomaly in the field of federal-court jurisdiction. It creates a body of federal substantive law establishing and regulating the duty to honor an agreement to arbitrate, yet it does not create any independent federal question jurisdiction under [§ 1331] or otherwise.
+Section 4 provides for an order compelling arbitration only when the federal district court would have jurisdiction over a suit on the underlying dispute; hence, there must be diversity of citizenship or some other basis for federal jurisdiction.
+¶12Moses H. Cone Hospital v. Mercury Constr. Corp., 460 U.S. 1, 25 n. 32, 103 S.Ct 927, 74 L.Ed.2d 765 (1983). In this case, we need not consider whether the district court had underlying federal question jurisdiction because the FAA is inapplicable. As a threshold matter, therefore, the district court lacked the authority under Section 4 of the FAA to compel arbitration.
+¶13We must find that the FAA is inapplicable to this case under Craft if the DRA is an employment contract. This court has defined an “employment contract” as “an agreement setting forth ‘terms and conditions’ of employment.” Modzelewski v. Resolution Trust Corp., 14 F.3d 1374, 1376 (9th Cir.1994) (quoting Black’s Law Dictionary 525 (6th ed.1990)).
+¶14We find that the arbitration agreement in this case was an employment contract notwithstanding the disclaimer in the DRA.
+The DRA specifically states: “I understand that neither this Agreement nor the Dispute Resolution Rules and Procedures form a contract of employment between Circuit City and me.” Furthermore, it says that “this Agreement in no way alters the ‘at-will’ status of my employment.” Though the DRA may not alter Adams’s status as an at-will employee, the agreement was a condition precedent to his employment. The agreement'was *1072an employment contract, rendering the FAA inapplicable.
+See Craft, 177 F.3d at 1094. Thus, we reverse the district court’s order compelling arbitration and remand to the district court for dismissal because of a lack of federal authority.
+¶15REVERSE AND REMAND.
+
+1
+¶16. The DRA specifies that job applicants agree to settle "all previously unasserted claims, disputes or controversies arising out of or relating to my application or candidacy for employment, employment and/or cessation of employment with Circuit City, exclusively by final and binding arbitration before a neutral Arbitrator.
+By way of example only, such claims include claims under federal, state, and local statutory or common law, such as Age Discrimination in Employment Act, Title VII of the Civil Rights Act of 1964, as amended, including the amendments to the Civil Rights Act of 1991, the Americans with Disabilities Act, the law of contract and law of tort.”
+

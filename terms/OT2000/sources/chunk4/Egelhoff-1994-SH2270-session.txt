@@ -1,0 +1,4581 @@
+
+
+
+
+
+2270-S.SL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  CERTIFICATION OF ENROLLMENT
+
+
+
+ 
+
+
+
+                   SUBSTITUTE HOUSE BILL 2270
+
+
+
+ 
+
+
+
+ 
+
+
+
+                   Chapter
+221, Laws of 1994
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+                        53rd
+Legislature
+
+
+
+                      1994
+Regular Session
+
+
+
+ 
+
+
+
+ 
+
+
+
+             PROBATE AND
+TRUST‑-REVISED PROVISIONS
+
+
+
+ 
+
+
+
+ 
+
+
+
+EFFECTIVE DATE:  Section 3
+takes effect 4/1/94; Sections 1, 2, & 4 through 72 take effect 1/1/95; and
+Sections 73 & 74 take effect on 6/9/94
+
+
+
+
+
+
+
+ 
+  
+  
+Passed by
+  the House March 9, 1994
+
+  
+  Yeas 97   Nays 0
+
+  
+ 
+
+  
+ 
+
+  
+ 
+
+  
+
+
+  
+ BRIAN EBERSOLE
+
+  
+ 
+
+  
+Speaker
+  of the
+
+  
+      House
+  of Representatives
+
+  
+ 
+
+  
+Passed by
+  the Senate March 9, 1994
+
+  
+  Yeas
+  48   Nays 0
+
+  
+  
+  
+             CERTIFICATE
+
+  
+ 
+
+  
+I, Marilyn
+  Showalter, Chief Clerk of the House of Representatives of the State of
+  Washington, do hereby certify that the attached is SUBSTITUTE HOUSE BILL
+  2270 as passed by the House of Representatives and the Senate on the
+  dates hereon set forth.
+
+  
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+  
+  
+
+
+  
+ JOEL PRITCHARD
+
+  
+ 
+
+  
+President
+  of the Senate
+
+  
+  
+  
+
+
+  
+ MARILYN SHOWALTER
+
+  
+ 
+
+  
+                          Chief
+  Clerk
+
+  
+ 
+
+  
+ 
+
+
+
+ 
+
+
+
+ 
+  
+  
+Approved
+  April 1, 1994 Place Style On Codes above, and
+  Style Off Codes below.
+
+  
+  
+  
+                                FILED          
+  
+
+  
+ 
+
+  
+ 
+
+  
+           April
+  1, 1994 - 10:16 a.m.
+
+  
+ 
+
+
+
+ 
+
+
+
+ 
+  
+  
+ 
+
+  
+
+
+  
+  
+  
+ 
+
+  
+ 
+ 
+  
+  
+
+
+  
+    MIKE LOWRY
+
+  
+Governor
+  of the State of Washington
+
+  
+  
+  
+                   Secretary
+  of State 
+
+  
+                  State
+  of Washington
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+          _______________________________________________
+
+
+
+ 
+
+
+
+                    SUBSTITUTE
+HOUSE BILL 2270
+
+
+
+          _______________________________________________
+
+
+
+ 
+
+
+
+            AS RECOMMENDED BY THE
+CONFERENCE COMMITTEE
+
+
+
+ 
+
+
+
+             Passed Legislature -
+1994 Regular Session
+
+
+
+ 
+
+
+
+State of Washington      53rd
+Legislature     1994 Regular Session
+
+
+
+ 
+
+
+
+By House Committee on
+Judiciary (originally sponsored by Representatives Johanson, Padden and
+Appelwick)
+
+
+
+ 
+
+
+
+Read first time 01/28/94.  
+
+
+
+ 
+
+
+
+
+
+
+
+Revising
+provisions about probate and trust matters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    AN
+ACT Relating to probate and trust matters; amending RCW 11.02.005, 11.07.010,
+11.08.170, 11.12.040, 11.12.080, 11.12.110, 11.12.120, 11.12.160, 11.12.180,
+11.20.070, 11.24.010, 11.24.040, 11.28.120, 11.28.237, 11.40.010, 11.40.013,
+11.40.015, 11.40.040, 11.40.080, 11.48.010, 11.56.050, 11.68.010, 11.96.009,
+11.96.020, 11.96.050, 11.96.060, 11.96.070, 11.96.080, 11.96.090, 11.96.100,
+11.96.110, 11.96.130, 11.96.140, 11.96.160, 11.96.170, 11.96.180, 11.98.200,
+11.98.240, 11.100.035, 82.32.240, 83.100.020, and 83.110.010; adding new
+sections to chapter 11.12 RCW; adding a new section to chapter 11.94 RCW;
+adding new chapters to Title 11 RCW; creating a new section; repealing RCW
+11.12.050, 11.12.090, 11.12.130, 11.12.140, 11.12.150, 11.12.200, 11.12.210,
+11.56.015, 11.56.140, 11.56.150, 11.56.160, and 11.56.170; providing an
+effective date; and declaring an emergency.
+
+
+
+ 
+
+
+
+BE IT ENACTED BY THE
+LEGISLATURE OF THE STATE OF WASHINGTON:
+
+
+
+ 
+
+
+
+    Sec. 1.  RCW 11.02.005 and 1993 c
+73 s 1 are each amended to read as follows:
+
+
+
+    When used in this
+title, unless otherwise required from the context:
+
+
+
+    (1) "Personal
+representative" includes executor, administrator, special administrator,
+and guardian or limited guardian and special representative.
+
+
+
+    (2) "Net
+estate" refers to the real and personal property of a decedent exclusive
+of homestead rights, exempt property, the family allowance and enforceable
+claims against, and debts of, the deceased or the estate.
+
+
+
+    (3)
+"Representation" refers to a method of determining distribution in
+which the takers are in unequal degrees of kinship with respect to the
+intestate, and is accomplished as follows:  After first determining who, of
+those entitled to share in the estate, are in the nearest degree of kinship,
+the estate is divided into equal shares, the number of shares being the sum of
+the number of persons who survive the intestate who are in the nearest degree
+of kinship and the number of persons in the same degree of kinship who died
+before the intestate but who left issue surviving the intestate; each share of
+a deceased person in the nearest degree shall be divided among those of the ((intestate's))
+deceased person's issue who survive the intestate and have no ancestor
+then living who is in the line of relationship between them and the intestate,
+those more remote in degree taking together the share which their ancestor
+would have taken had he or she survived the intestate.  Posthumous children are
+considered as living at the death of their parent.
+
+
+
+    (4) "Issue"
+includes all the lawful lineal descendants of the ancestor and all lawfully
+adopted children.
+
+
+
+    (5) "Degree of
+kinship" means the degree of kinship as computed according to the rules of
+the civil law; that is, by counting upward from the intestate to the nearest
+common ancestor and then downward to the relative, the degree of kinship being
+the sum of these two counts.
+
+
+
+    (6) "Heirs"
+denotes those persons, including the surviving spouse, who are entitled under
+the statutes of intestate succession to the real and personal property of a
+decedent on the decedent's death intestate.
+
+
+
+    (7) "Real
+estate" includes, except as otherwise specifically provided herein, all
+lands, tenements, and hereditaments, and all rights thereto, and all interest
+therein possessed and claimed in fee simple, or for the life of a third person.
+
+
+
+    (8) "Will"
+means an instrument validly executed as required by RCW 11.12.020 ((and
+includes all codicils)).
+
+
+
+    (9) "Codicil"
+means ((an instrument that is validly executed in the manner provided by
+this title for a will and that refers to an existing will for the purpose of
+altering or changing the same, and which need not be attached thereto)) a
+will that modifies or partially revokes an existing earlier will.  A codicil
+need not refer to or be attached to the earlier will.
+
+
+
+    (10)
+"Guardian" or "limited guardian" means a personal
+representative of the person or estate of an incompetent or disabled person as
+defined in RCW 11.88.010 and the term may be used in lieu of "personal
+representative" wherever required by context.
+
+
+
+    (11)
+"Administrator" means a personal representative of the estate of a
+decedent and the term may be used in lieu of "personal representative"
+wherever required by context.
+
+
+
+    (12)
+"Executor" means a personal representative of the estate of a
+decedent appointed by will and the term may be used in lieu of "personal
+representative" wherever required by context.
+
+
+
+    (13) "Special
+administrator" means a personal representative of the estate of a decedent
+appointed for limited purposes and the term may be used in lieu of
+"personal representative" wherever required by context.
+
+
+
+    (14)
+"Trustee" means an original, added, or successor trustee and includes
+the state, or any agency thereof, when it is acting as the trustee of a trust
+to which chapter 11.98 RCW applies.
+
+
+
+    (15) "Nonprobate
+asset" means those rights and interests of a person having beneficial
+ownership of an asset that pass on the person's death under a written
+instrument or arrangement other than the person's will.  "Nonprobate
+asset" includes, but is not limited to, a right or interest passing under
+a joint tenancy with right of survivorship, joint bank account with right of
+survivorship, payable on death or trust bank account or security, deed or
+conveyance if possession has been postponed until the death of the person,
+trust of which the person is grantor and that becomes effective or irrevocable
+only upon the person's death, community property agreement, individual
+retirement account or bond, or note or other contract the payment or
+performance of which is affected by the death of the person.  "Nonprobate
+asset" does not include:  A payable-on-death provision of a life insurance
+policy, annuity, or other similar contract, or of an employee benefit plan; a
+right or interest passing by descent and distribution under chapter 11.04 RCW;
+a right or interest if, before death, the person has irrevocably transferred
+the right or interest, the person has waived the power to transfer it or, in
+the case of contractual arrangement, the person has waived the unilateral right
+to rescind or modify the arrangement; or a right or interest held by the person
+solely in a fiduciary capacity.
+
+
+
+    (16)
+"Internal Revenue Code" means the United States Internal Revenue Code
+of 1986, as amended or renumbered on ((July 25, 1993)) the effective
+date of this section.
+
+
+
+    (((16))) Words
+that import the singular number may also be applied to the plural of persons
+and things.
+
+
+
+    (((17))) Words
+importing the masculine gender only may be extended to females also.
+
+
+
+ 
+
+
+
+    Sec. 2.  RCW 11.07.010 and 1993 c
+236 s 1 are each amended to read as follows:
+
+
+
+    (1) This section
+applies to all nonprobate assets, wherever situated, held at the time of entry
+by a superior court of this state of a decree of dissolution of marriage or a
+declaration of invalidity.
+
+
+
+    (2)(a) If a marriage is
+dissolved or invalidated, a provision made prior to that event that relates to
+the payment or transfer at death of the decedent's interest in a nonprobate
+asset in favor of or granting an interest or power to the decedent's former
+spouse is revoked.  A provision affected by this section must be interpreted,
+and the nonprobate asset affected passes, as if the former spouse failed to
+survive the decedent, having died at the time of entry of the decree of
+dissolution or declaration of invalidity.
+
+
+
+    (b) This subsection
+does not apply if and to the extent that:
+
+
+
+    (i) The instrument
+governing disposition of the nonprobate asset expressly provides otherwise;
+
+
+
+    (ii) The decree of
+dissolution or declaration of invalidity requires that the decedent maintain a
+nonprobate asset for the benefit of a former spouse or children of the
+marriage, payable on the decedent's death either outright or in trust, and
+other nonprobate assets of the decedent fulfilling such a requirement for the
+benefit of the former spouse or children of the marriage do not exist at the
+decedent's death; or
+
+
+
+    (iii) If not for this
+subsection, the decedent could not have effected the revocation by unilateral
+action because of the terms of the decree or declaration, or for any other
+reason, immediately after the entry of the decree of dissolution or declaration
+of invalidity.
+
+
+
+    (3)(a) A payor or other
+third party in possession or control of a nonprobate asset at the time of the
+decedent's death is not liable for making a payment or transferring an interest
+in a nonprobate asset to a decedent's former spouse whose interest in the
+nonprobate asset is revoked under this section, or for taking another action in
+reliance on the validity of the instrument governing disposition of the
+nonprobate asset, before the payor or other third party has actual knowledge of
+the dissolution or other invalidation of marriage.  A payor or other third
+party is liable for a payment or transfer made or other action taken after the
+payor or other third party has actual knowledge of a revocation under this
+section.
+
+
+
+    (b) This section does
+not require a payor or other third party to pay or transfer a nonprobate asset
+to a beneficiary designated in a governing instrument affected by the
+dissolution or other invalidation of marriage, or to another person claiming an
+interest in the nonprobate asset, if the payor or third party has actual
+knowledge of the existence of a dispute between the former spouse and the
+beneficiaries or other persons concerning rights of ownership of the nonprobate
+asset as a result of the application of this section among the former spouse
+and the beneficiaries or among other persons, or if the payor or third party is
+otherwise uncertain as to who is entitled to the nonprobate asset under this
+section.  In such a case, the payor or third party may, without liability,
+notify in writing all beneficiaries or other persons claiming an interest in
+the nonprobate asset of either the existence of the dispute or its uncertainty
+as to who is entitled to payment or transfer of the nonprobate asset.  The payor
+or third party may also, without liability, refuse to pay or transfer a
+nonprobate asset in such a circumstance to a beneficiary or other person
+claiming an interest until the time that either:
+
+
+
+    (i) All beneficiaries
+and other interested persons claiming an interest have consented in writing to
+the payment or transfer; or
+
+
+
+    (ii) The payment or
+transfer is authorized or directed by a court of proper jurisdiction.
+
+
+
+    (c) Notwithstanding
+subsections (1) and (2) of this section and (a) and (b) of this subsection, a
+payor or other third party having actual knowledge of the existence of a
+dispute between beneficiaries or other persons concerning rights to a
+nonprobate asset as a result of the application of this section may condition
+the payment or transfer of the nonprobate asset on execution, in a form and
+with security acceptable to the payor or other third party, of a bond in an
+amount that is double the fair market value of the nonprobate asset at the time
+of the decedent's death or the amount of an adverse claim, whichever is the
+lesser, or of a similar instrument to provide security to the payor or other
+third party, indemnifying the payor or other third party for any liability,
+loss, damage, costs, and expenses for and on account of payment or transfer of
+the nonprobate asset.
+
+
+
+    (d) As used in this
+subsection, "actual knowledge" means, for a payor or other third
+party in possession or control of the nonprobate asset at or following the
+decedent's death, written notice to the payor or other third party, or to an officer
+of a payor or third party in the course of his or her employment, received
+after the decedent's death and within a time that is sufficient to afford the
+payor or third party a reasonable opportunity to act upon the knowledge.  The
+notice must identify the nonprobate asset with reasonable specificity.  The
+notice also must be sufficient to inform the payor or other third party of the
+revocation of the provisions in favor of the decedent's spouse by reason of the
+dissolution or invalidation of marriage, or to inform the payor or third party
+of a dispute concerning rights to a nonprobate asset as a result of the
+application of this section.  Receipt of the notice for a period of more than
+thirty days is presumed to be received within a time that is sufficient to
+afford the payor or third party a reasonable opportunity to act upon the
+knowledge, but receipt of the notice for a period of less than five business
+days is presumed not to be a sufficient time for these purposes.  These
+presumptions may be rebutted only by clear and convincing evidence to the
+contrary.
+
+
+
+    (4)(a) A person who
+purchases a nonprobate asset from a former spouse or other person, for value
+and without actual knowledge, or who receives from a former spouse or other
+person payment or transfer of a nonprobate asset without actual knowledge and
+in partial or full satisfaction of a legally enforceable obligation, is neither
+obligated under this section to return the payment, property, or benefit nor is
+liable under this section for the amount of the payment or the value of the
+nonprobate asset.  However, a former spouse or other person who, with actual
+knowledge, not for value, or not in satisfaction of a legally enforceable
+obligation, receives payment or transfer of a nonprobate asset to which that
+person is not entitled under this section is obligated to return the payment or
+nonprobate asset, or is personally liable for the amount of the payment or
+value of the nonprobate asset, to the person who is entitled to it under this
+section.
+
+
+
+    (b) As used in this
+subsection, "actual knowledge" means, for a person described in (a)
+of this subsection who purchases or receives a nonprobate asset from a former
+spouse or other person, personal knowledge or possession of documents relating
+to the revocation upon dissolution or invalidation of marriage of provisions
+relating to the payment or transfer at the decedent's death of the nonprobate
+asset, received within a time after the decedent's death and before the
+purchase or receipt that is sufficient to afford the person purchasing or
+receiving the nonprobate asset reasonable opportunity to act upon the
+knowledge.  Receipt of the personal knowledge or possession of the documents
+for a period of more than thirty days is presumed to be received within a time that
+is sufficient to afford the payor or third party a reasonable opportunity to
+act upon the knowledge, but receipt of the notice for a period of less than
+five business days is presumed not to be a sufficient time for these purposes. 
+These presumptions may be rebutted only by clear and convincing evidence to the
+contrary.
+
+
+
+    (5) As used in this
+section, "nonprobate asset" means those rights and interests of a
+person having beneficial ownership of an asset that pass on the person's death
+under only the following written instruments or arrangements other than the
+decedent's will:
+
+
+
+    (a) A payable-on-death
+provision of a life insurance policy, employee benefit plan, annuity or similar
+contract, or individual retirement account;
+
+
+
+    (b) A payable-on-death,
+trust, or joint with right of survivorship bank account;
+
+
+
+    (c) A trust of which
+the person is a grantor and that becomes effective or irrevocable only upon the
+person's death; or
+
+
+
+    (d) Transfer on death
+beneficiary designations of a transfer on death or pay on death security, if
+such designations are authorized under Washington law.
+
+
+
+    (6) This section is
+remedial in nature and applies as of July 25, 1993, to decrees of dissolution
+and declarations of invalidity entered after July 24, 1993, and this section
+applies as of the effective date of this act to decrees of dissolution and
+declarations of invalidity entered before July 25, 1993.
+
+
+
+ 
+
+
+
+    Sec. 3.  RCW 11.08.170 and 1990 c
+225 s 1 are each amended to read as follows:
+
+
+
+    Escheat property may be
+probated under the provisions of the probate laws of this state.  Whenever such
+probate proceedings are instituted, whether by special administration or
+otherwise, the petitioner shall promptly notify the department of revenue in writing
+thereof on forms furnished by the department of revenue to the county clerks. 
+Thereafter, the department of revenue shall be served with written notice at
+least twenty days prior to any hearing on proceedings involving the valuation
+or sale of property, on any petition for the allowance of fees, and on all
+interim reports, final accounts or petitions for the determination of
+heirship.  Like notice shall be given of the presentation of any claims to the
+court for allowance.  Failure to furnish such notice shall be deemed
+jurisdictional and any order of the court entered without such notice shall be
+void.  The department of revenue may waive the provisions of this section in
+its discretion.  The department shall be deemed to have waived its right to administer
+in such probate proceedings under RCW 11.28.120(((3))) (5) unless
+application for appointment of the director or the director's designee is made
+within forty days immediately following receipt of notice of institution of
+proceedings.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+4.  This chapter applies in
+all instances in which no other abatement scheme is expressly provided.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+5.  (1) Except as provided in
+subsection (2) of this section, property of a decedent abates, without
+preference as between real and personal property, in the following order:
+
+
+
+    (a) Intestate property;
+
+
+
+    (b) Residuary gifts;
+
+
+
+    (c) General gifts;
+
+
+
+    (d) Specific gifts.
+
+
+
+    For purposes of
+abatement a demonstrative gift, defined as a general gift charged on any
+specific property or fund, is deemed a specific gift to the extent of the value
+of the property or fund on which it is charged, and a general gift to the
+extent of a failure or insufficiency of that property or fund.  Abatement within
+each classification is in proportion to the amounts of property each of the
+beneficiaries would have received if full distribution of the property had been
+made in accordance with the terms of the will.
+
+
+
+    (2) If the will
+expresses an order of abatement, or if the testamentary plan or the express or
+implied purpose of the devise would be defeated by the order of abatement
+stated in subsection (1) of this section, a gift abates as may be found
+necessary to give effect to the intention of the testator.
+
+
+
+    (3) If the subject of a
+preferred gift is sold, diminished, or exhausted incident to administration,
+not including satisfaction of debts or liabilities according to their community
+or separate status under section 7 of this act, abatement must be achieved by appropriate
+adjustments in, or contribution from, other interests in the remaining assets.
+
+
+
+    (4) To the extent that
+the whole of the community property is subject to abatement, the shares of the
+decedent and of the surviving spouse in the community property abate equally.
+
+
+
+    (5) If required under
+section 8 of this act, nonprobate assets must abate with those disposed of
+under the will and passing by intestacy.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+6.  To the extent that a gift
+is to be satisfied out of a source that consists of both separate and community
+property, unless otherwise indicated in the will it is presumed to be a gift
+from separate and community property in proportion to their relative value in
+the property or fund from which the gift is to be satisfied.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+7.  (1) A community debt or
+liability is charged against the entire community property, with the surviving
+spouse's half and the decedent spouse's half charged equally.
+
+
+
+    (2) A separate debt or liability
+is charged first against separate property, and if that is insufficient against
+the balance of decedent's half of community property remaining after community
+debts and liabilities are satisfied.
+
+
+
+    (3) A community debt or
+liability that is also the separate debt or liability of the decedent is
+charged first against the whole of the community property and then against the
+decedent's separate property.
+
+
+
+    (4) An expense of
+administration is charged against the separate property and the decedent's half
+of the community property in proportion to the relative value of the property,
+unless a different charging of expenses is shown to be appropriate under the
+circumstances including against the surviving spouse's share of the community
+property.
+
+
+
+    (5) Property of a
+similar type, community or separate, is appropriated in accordance with the
+abatement priorities of section 5 of this act.
+
+
+
+    (6) Property that is
+primarily chargeable for a debt or liability is exhausted, in accordance with
+the abatement priorities of section 5 of this act, before resort is had, also
+in accordance with section 5 of this act, to property that is secondarily
+chargeable.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+8.  (1) If abatement is
+necessary among takers of a nonprobate asset, the court shall adopt the
+abatement order and limitations set out in sections 5, 6, and 7 of this act,
+assigning categories in accordance with subsection (2) of this section.
+
+
+
+    (2) A nonprobate
+transfer must be categorized for purposes of abatement, within the list of
+priorities set out in section 5(1) of this act, as follows:
+
+
+
+    (a) All nonprobate
+forms of transfer under which an identifiable nonprobate asset passes to a
+beneficiary or beneficiaries on the event of the decedent's death, such as, but
+not limited to, joint tenancies and payable‑on‑death accounts, are
+categorized as specific bequests.
+
+
+
+    (b) With respect to all
+other interests passing under nonprobate forms of transfer, each must be
+categorized in the manner that is most closely comparable to the nature of the
+transfer of that interest.
+
+
+
+    (3) If and to the
+extent that a nonprobate asset is subject to the same obligations as are assets
+disposed of under the decedent's will, the nonprobate assets abate ratably with
+the probate assets, within the categories set out in subsection (2) of this
+section.
+
+
+
+    (4) If the nonprobate
+instrument of transfer or the decedent's will expresses a different order of
+abatement, or if the decedent's overall dispositive plan or the express or
+implied purpose of the transfer would be defeated by the order of abatement
+stated in subsections (1) through (3) of this section, the nonprobate assets
+abate as may be found necessary to give effect to the intention of the
+decedent.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+9.  A new section is added to
+chapter 11.12 RCW to read as follows:
+
+
+
+    (1) If a will fails to
+name or provide for a child of the decedent who is born or adopted by the
+decedent after the will's execution and who survives the decedent, referred to
+in this section as an "omitted child", the child must receive a
+portion of the decedent's estate as provided in subsection (3) of this section,
+unless it appears either from the will or from other clear and convincing
+evidence that the failure was intentional.
+
+
+
+    (2) In determining
+whether an omitted child has been named or provided for, the following rules
+apply:
+
+
+
+    (a) A child identified
+in a will by name is considered named whether identified as a child or in any
+other manner.
+
+
+
+    (b) A reference in a
+will to a class described as the children, descendants, or issue of the
+decedent who are born after the execution of the will, or words of similar
+import, constitutes a naming of a person who falls within the class.  A
+reference to another class, such as a decedent's heirs or family, does not
+constitute such a naming.
+
+
+
+    (c) A nominal interest
+in an estate does not constitute a provision for a child receiving the
+interest.
+
+
+
+    (3) The omitted child
+must receive an amount equal in value to that which the child would have
+received under RCW 11.04.015 if the decedent had died intestate, unless the
+court determines on the basis of clear and convincing evidence that a smaller
+share, including no share at all, is more in keeping with the decedent's
+intent.  In making the determination, the court may consider, among other
+things, the various elements of the decedent's dispositive scheme, provisions
+for the omitted child outside the decedent's will, provisions for the
+decedent's other children under the will and otherwise, and provisions for the
+omitted child's other parent under the will and otherwise.
+
+
+
+    (4) In satisfying a
+share provided by this section, the bequests made by the will abate as provided
+in chapter 11.-- RCW (sections 4 through 8 of this act).
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+10.  A new section is added to
+chapter 11.12 RCW to read as follows:
+
+
+
+    (1) If a will fails to
+name or provide for a spouse of the decedent whom the decedent marries after
+the will's execution and who survives the decedent, referred to in this section
+as an "omitted spouse", the spouse must receive a portion of the
+decedent's estate as provided in subsection (3) of this section, unless it
+appears either from the will or from other clear and convincing evidence that
+the failure was intentional.
+
+
+
+    (2) In determining
+whether an omitted spouse has been named or provided for, the following rules
+apply:
+
+
+
+    (a) A spouse identified
+in a will by name is considered named whether identified as a spouse or in any
+other manner.
+
+
+
+    (b) A reference in a
+will to the decedent's future spouse or spouses, or words of similar import,
+constitutes a naming of a spouse whom the decedent later marries.  A reference
+to another class such as the decedent's heirs or family does not constitute a
+naming of a spouse who falls within the class.
+
+
+
+    (c) A nominal interest
+in an estate does not constitute a provision for a spouse receiving the
+interest.
+
+
+
+    (3) The omitted spouse
+must receive an amount equal in value to that which the spouse would have
+received under RCW 11.04.015 if the decedent had died intestate, unless the
+court determines on the basis of clear and convincing evidence that a smaller
+share, including no share at all, is more in keeping with the decedent's intent. 
+In making the determination the court may consider, among other things, the
+spouse's property interests under applicable community property or
+quasi-community property laws, the various elements of the decedent's
+dispositive scheme, and a marriage settlement or other provision and provisions
+for the omitted spouse outside the decedent's will.
+
+
+
+    (4) In satisfying a
+share provided by this section, the bequests made by the will abate as provided
+in chapter 11.-- RCW (sections 4 through 8 of this act).
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+11.  A new section is added to
+chapter 11.12 RCW to read as follows:
+
+
+
+    (1) If, after making a
+will, the testator's marriage is dissolved or invalidated, all provisions in
+the will in favor of or granting any interest or power to the testator's former
+spouse are revoked, unless the will expressly provides otherwise.  Provisions
+affected by this section must be interpreted, and property affected passes, as
+if the former spouse failed to survive the testator, having died at the time of
+entry of the decree of dissolution or declaration of invalidity.  Provisions
+revoked by this section are revived by the testator's remarriage to the former
+spouse.  Revocation of certain nonprobate transfers is provided under RCW
+11.07.010.
+
+
+
+    (2) This section is
+remedial in nature and applies to decrees of dissolution and declarations of
+invalidity entered before, on, or after the effective date of this act.
+
+
+
+ 
+
+
+
+    Sec. 12.  RCW 11.12.040 and 1965 c
+145 s 11.12.040 are each amended to read as follows:
+
+
+
+    (1) A will, or
+any part thereof, can be revoked:
+
+
+
+    (((1))) (a)
+By a ((written)) subsequent will that revokes, or partially
+revokes, the prior will expressly or by inconsistency; or
+
+
+
+    (((2))) (b)
+By being burnt, torn, canceled, obliterated, or destroyed, with the
+intent and for the purpose of revoking the same, by the testator ((himself))
+or by another person in ((his)) the presence and by ((his))
+the direction of the testator.  If such act is done by any person
+other than the testator, the direction of the testator and the facts of such
+injury or destruction must be proved by two witnesses.
+
+
+
+    (2) Revocation of a
+will in its entirety revokes its codicils, unless revocation of a codicil would
+be contrary to the testator's intent.
+
+
+
+ 
+
+
+
+    Sec. 13.  RCW 11.12.080 and 1965 c
+145 s 11.12.080 are each amended to read as follows:
+
+
+
+    (1) If, after
+making any will, the testator shall ((duly make and)) execute a ((second))
+later will that wholly revokes the former will, the destruction,
+cancellation, or revocation of ((such second)) the later will
+shall not revive the ((first)) former will, unless it was the
+testator's intention to revive it.
+
+
+
+    (2) Revocation of a
+codicil shall revive a prior will or part of a prior will that the codicil
+would have revoked had it remained in effect at the death of the testator,
+unless it was the testator's intention not to revive the prior will or part.
+
+
+
+    (3) Evidence that
+revival was or was not intended includes, in addition to a writing by which the
+later will or codicil is revoked, the circumstances of the revocation or
+contemporary or subsequent declarations of the testator.
+
+
+
+ 
+
+
+
+    Sec. 14.  RCW 11.12.110 and 1965 c
+145 s 11.12.110 are each amended to read as follows:
+
+
+
+    Unless otherwise
+provided, when any ((estate shall be devised or bequeathed to any child,
+grandchild, or other relative of the testator, and such devisee or legatee
+shall die before the testator, having lineal descendants who survive the
+testator, such descendants shall take the estate, real and personal, as such
+devisee or legatee would have done in the case he had survived the testator; if
+such descendants are all in the same degree of kinship to the predeceased
+devisee or legatee)) property shall be given under a will, or under a
+trust of which the decedent is a grantor and which by its terms becomes
+irrevocable upon the grantor's death, to any issue of a grandparent of the
+decedent and that issue dies before the decedent leaving descendants who
+survive the decedent, those descendants shall take that property as the
+predeceased issue would have done if the predeceased issue had survived the
+decedent.  If those descendants are all in the same degree of kinship to the
+predeceased issue they shall take equally((,)) or, if of unequal
+degree, then those of more remote degree shall take by representation with
+respect to ((such)) the predeceased ((devisee or legatee.  A
+spouse is not a relative under the provisions of this section)) issue.
+
+
+
+ 
+
+
+
+    Sec. 15.  RCW 11.12.120 and 1974
+ex.s. c 117 s 51 are each amended to read as follows:
+
+
+
+    ((Whenever any
+person having died leaving)) (1) If a will ((which has been
+admitted to probate or established by an adjudication of testacy, shall by said
+will have given, devised or bequeathed unto any person, a legacy or a devise
+upon the condition that said person survive him, and not otherwise, such legacy
+or devise shall lapse and fall into the residue of said estate to be
+distributed according to the residuary clause, if there be one, of said will,
+and if there be none then according to the laws of descent, unless said legatee
+or devisee, as the case may be, or his heirs, personal representative, or
+someone in behalf of such legatee or devisee, shall appear before the court
+which is administering said estate within three years from and after the date
+the said will was admitted to probate or established by an adjudication of
+testacy, and prove to the satisfaction of the court that the said legatee or
+devisee, as the case may be, did in fact survive the testator)) makes a
+gift to a person on the condition that the person survive the testator and the
+person does not survive the testator, then, unless otherwise provided, the gift
+lapses and falls into the residue of the estate to be distributed under the
+residuary clause of the will, if any, but otherwise according to the laws of
+descent and distribution.
+
+
+
+    (2) If the will
+gives the residue to two or more persons, the share of a person who does not
+survive the testator passes, unless otherwise provided, and subject to RCW
+11.12.110, to the other person or persons receiving the residue, in proportion
+to the interest of each in the remaining part of the residue.
+
+
+
+    (3) The personal
+representative of the testator, a person who would be affected by the lapse or
+distribution of a gift under this section, or a guardian ad litem or other
+representative appointed to represent the interests of a person so affected may
+petition the court for a determination under this section, and the petition
+must be heard under the procedures of chapter 11.96 RCW.
+
+
+
+ 
+
+
+
+    Sec. 16.  RCW 11.12.160 and 1965 c
+145 s 11.12.160 are each amended to read as follows:
+
+
+
+    ((All beneficial
+devises, legacies, and gifts whatever, made or given in any will to a
+subscribing witness thereto, shall be void unless there are two other competent
+witnesses to the same; but a mere charge on the estate of the testator for the
+payment of debts shall not prevent his creditors from being competent witnesses
+to his will.  If such witness, to whom any beneficial devise, legacy or gift
+may have been made or given, would have been entitled to any share in the testator's
+estate in case the will is not established, then so much of the estate as would
+have descended or would have been distributed to such witness shall be saved to
+him as will not exceed the value of the devise or bequest made to him in the
+will; and he may recover the same from the devisees or legatees named in the
+will in proportion to and out of the parts devised and bequeathed to him.))
+(1) An interested witness to a will is one who would receive a gift under
+the will.
+
+
+
+    (2) A will or any of
+its provisions is not invalid because it is signed by an interested witness. 
+Unless there are at least two other subscribing witnesses to the will who are
+not interested witnesses, the fact that the will makes a gift to a subscribing
+witness creates a rebuttable presumption that the witness procured the gift by
+duress, menace, fraud, or undue influence.
+
+
+
+    (3) If the
+presumption established under subsection (2) of this section applies and the
+interested witness fails to rebut it, the interested witness shall take so much
+of the gift as does not exceed the share of the estate that would be
+distributed to the witness if the will were not established.
+
+
+
+    (4) The presumption
+established under subsection (2) of this section has no effect other than that
+stated in subsection (3) of this section.
+
+
+
+ 
+
+
+
+    Sec. 17.  RCW 11.12.180 and 1965 c
+145 s 11.12.180 are each amended to read as follows:
+
+
+
+    ((If any person, by
+last will, devise any real estate to any person for the term of such person's
+life, such devise vests in the devisee an estate for life, and unless the
+remainder is specially devised, it shall revert to the heirs at law of the
+testator.)) The Rule in Shelley's Case is abolished as a rule of law and
+as a rule of construction.  If an applicable statute or a governing instrument
+calls for a future distribution to or creates a future interest in a designated
+individual's "heirs," "heirs at law," "next of
+kin," "relatives," or "family," or language of similar
+import, the property passes to those persons, including the state under chapter
+11.08 RCW, that would succeed to the designated individual's estate under
+chapter 11.04 RCW.  The property must pass to those persons as if the
+designated individual had died when the distribution or transfer of the future
+interest was to take effect in possession or enjoyment.  For purposes of this
+section and section 18 of this act, the designated individual's surviving
+spouse is deemed to be an heir, regardless of whether the surviving spouse has
+remarried.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+18.  A new section is added to
+chapter 11.12 RCW to read as follows:
+
+
+
+    The Doctrine of
+Worthier Title is abolished as a rule of law and as a rule of construction. 
+However, the Doctrine of Worthier Title is preserved as a rule of construction
+if:
+
+
+
+    (1) A grantor has
+established in inter vivos trust of real property;
+
+
+
+    (2) The grantor has
+expressly reserved a reversion to himself or herself; and
+
+
+
+    (3) The words
+"heirs" or "heirs at law" are used by the grantor to
+describe the quality of the grantor's title in the reversion as an estate in
+fee simple in the event that the property reverts to the grantor.
+
+
+
+In all other cases,
+language in a governing instrument describing the beneficiaries of a donative
+disposition as the transferor's "heirs," "heirs at law,"
+"next of kin," "distributees," "relatives," or
+"family," or language of similar import, does not create or
+presumptively create a reversionary interest in the transferor.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+19.  (1) Unless expressly
+exempted by statute, a beneficiary of a nonprobate asset that was subject to
+satisfaction of the decedent's general liabilities immediately before the
+decedent's death takes the asset subject to liabilities, claims, estate taxes,
+and the fair share of expenses of administration reasonably incurred by the
+personal representative in the transfer of or administration upon the asset. 
+The beneficiary of such an asset is liable to account to the personal
+representative to the extent necessary to satisfy liabilities, claims, the
+asset's fair share of expenses of administration, and the asset's share of
+estate taxes under chapter 83.110 RCW.  Before making demand that a beneficiary
+of a nonprobate asset account to the personal representative, the personal
+representative shall give notice to the beneficiary, in the manner provided in
+chapter 11.96 RCW, that the beneficiary is liable to account under this
+section.
+
+
+
+    (2) The following rules
+govern in applying subsection (1) of this section:
+
+
+
+    (a) A beneficiary of
+property passing at death under a community property agreement takes the
+property subject to the decedent's liabilities, claims, estate taxes, and
+administration expenses as described in subsection (1) of this section.  However,
+assets existing as community or separate property immediately before the
+decedent's death under the community property agreement are subject to the
+decedent's liabilities and claims to the same extent that they would have been
+had they been assets of the probate estate.
+
+
+
+    (b) A beneficiary of
+property held in joint tenancy form with right of survivorship, including
+without limitation United States savings bonds or similar obligations, takes
+the property subject to the decedent's liabilities, claims, estate taxes, and
+administration expenses as described in subsection (1) of this section to the
+extent of the decedent's beneficial ownership interest in the property
+immediately before death.
+
+
+
+    (c) A beneficiary of
+payable-on-death or trust bank accounts, bonds, securities, or similar
+obligations, including without limitation United States bonds or similar
+obligations, takes the property subject to the decedent's liabilities, claims,
+estate taxes, and administration expenses as described in subsection (1) of this
+section, to the extent of the decedent's beneficial ownership interest in the
+property immediately before death.
+
+
+
+    (d) A beneficiary of
+deeds or conveyances made by the decedent if possession has been postponed
+until the death of the decedent takes the property subject to the decedent's
+liabilities, claims, estate taxes, and administration expenses as described in
+subsection (1) of this section, to the extent of the decedent's beneficial
+ownership interest in the property immediately before death.
+
+
+
+    (e) A trust for the
+decedent's use of which the decedent is the grantor is subject to the
+decedent's liabilities, claims, estate taxes, and administration expenses as
+described in subsection (1) of this section, to the same extent as the trust
+was subject to claims of the decedent's creditors immediately before death
+under RCW 19.36.020.
+
+
+
+    (f) A trust not for the
+use of the grantor but of which the decedent is the grantor and that becomes
+effective or irrevocable only upon the decedent's death is subject to the decedent's
+claims, liabilities, estate taxes, and expenses of administration as described
+in subsection (1) of this section.
+
+
+
+    (g) Anything in this
+section to the contrary notwithstanding, nonprobate assets that existed as
+community property immediately before the decedent's death are subject to the
+decedent's liabilities and claims to the same extent that they would have been
+had they been assets of the probate estate.
+
+
+
+    (h) The liability of a
+beneficiary of life insurance is governed by chapter 48.18 RCW.
+
+
+
+    (i) The liability of a
+beneficiary of pension or retirement employee benefits is governed by chapter
+6.15 RCW.
+
+
+
+    (j) An inference may
+not be drawn from (a) through (i) of this subsection that a beneficiary of
+nonprobate assets other than those assets specifically described in (a) through
+(i) of this subsection does or does not take the assets subject to claims, liabilities,
+estate taxes, and administration expenses as described in subsection (1) of
+this section.
+
+
+
+    (3) Nothing in this
+section derogates from the rights of a person interested in the estate to
+recover tax under chapter 83.110 RCW or from the liability of any beneficiary
+for estate tax under chapter 83.110 RCW.
+
+
+
+ 
+
+
+
+    Sec. 20.  RCW 11.20.070 and 1965 c
+145 s 11.20.070 are each amended to read as follows:
+
+
+
+    ((Whenever any will
+is lost or destroyed, the court may take proof of the execution and validity of
+such will and establish it, notice to all persons interested having been first
+given.  Such proof shall be reduced to writing and signed by the witnesses and
+filed with the clerk of the court.
+
+
+
+    No will shall be
+allowed to be proved as a lost or destroyed will unless it is proved to have
+been in existence at the time of the death of the testator, or is shown to have
+been destroyed, canceled or mutilated in whole or in part as a result of actual
+or constructive fraud or in the course of an attempt to change the will in
+whole or in part, which attempt has failed, or as the result of a mistake of
+fact, nor unless its provisions are clearly and distinctly proved by at least
+two witnesses, and when any such will is so established, the provisions thereof
+shall be distinctly stated in the judgment establishing it, and such judgment
+shall be recorded as wills are required to be recorded.  Executors of such will
+or administrators with the will annexed)) (1) If a will has been lost or destroyed under circumstances such
+that the loss or destruction does not have the effect of revoking the will, the
+court may take proof of the execution and validity of the will and establish
+it, notice to all persons interested having been first given.  The proof must be
+reduced to writing and signed by any witnesses who have testified as to the
+execution and validity, and must be filed with the clerk of the court.
+
+
+
+    (2) The provisions
+of a lost or destroyed will must be proved by clear, cogent, and convincing
+evidence, consisting at least in part of a witness to either its contents or
+the authenticity of a copy of the will.
+
+
+
+    (3) When a lost or
+destroyed will is established under subsections (1) and (2) of this section,
+its provisions must be distinctly stated in the judgment establishing it, and
+the judgment must be recorded as wills are required to be recorded.  A personal
+representative may be appointed by the court in the same manner as is
+herein provided with reference to original wills presented to the court for
+probate.
+
+
+
+ 
+
+
+
+    Sec. 21.  RCW 11.24.010 and 1971 c
+7 s 1 are each amended to read as follows:
+
+
+
+    If any person
+interested in any will shall appear within four months immediately following
+the probate or rejection thereof, and by petition to the court having
+jurisdiction contest the validity of said will, or appear to have the will
+proven which has been rejected, he or she shall file a petition
+containing his or her objections and exceptions to said will, or to the
+rejection thereof.  ((Issue shall be made up, tried and determined in said
+court respecting the competency of the deceased to make a last will and
+testament, or respecting the execution by a deceased of such last will and
+testament under restraint or undue influence or fraudulent representations, or
+for any other cause affecting the validity of such will.)) Issues
+respecting the competency of the deceased to make a last will and testament, or
+respecting the execution by a deceased of the last will and testament under
+restraint or undue influence or fraudulent representations, or for any other
+cause affecting the validity of the will or a part of it, shall be tried and
+determined by the court.
+
+
+
+    If no person shall
+appear within the time ((aforesaid)) under this section, the
+probate or rejection of such will shall be binding and final.
+
+
+
+ 
+
+
+
+    Sec. 22.  RCW 11.24.040 and 1965 c
+145 s 11.24.040 are each amended to read as follows:
+
+
+
+    If, upon the trial of
+said issue, it shall be decided that the will or a part of it is for any
+reason invalid, or that it is not sufficiently proved to have been the last
+will of the testator, the will or part and probate thereof shall be
+annulled and revoked((, and thereupon and thereafter the powers of the
+executor or administrator with the will annexed shall cease, but such executor
+or administrator)) and to that extent the powers of the personal
+representative shall cease, but the personal representative shall not be
+liable for any act done in good faith previous to such annulling or revoking.
+
+
+
+ 
+
+
+
+    Sec. 23.  RCW 11.28.120 and 1985 c
+133 s 1 are each amended to read as follows:
+
+
+
+    Administration of ((the))
+an estate ((of)) if the ((person dying)) decedent
+died intestate or if the personal representative or representatives
+named in the will declined or were unable to serve shall be granted to some
+one or more of the persons hereinafter mentioned, and they shall be
+respectively entitled in the following order:
+
+
+
+    (1) The surviving ((husband
+or wife)) spouse, or such person as he or she may request to have
+appointed.
+
+
+
+    (2) The next of kin in
+the following order:  (a) Child or children; (b) father or mother; (c) brothers
+or sisters; (d) grandchildren; (e) nephews or nieces.
+
+
+
+    (3) The trustee
+named by the decedent in an inter vivos trust instrument, testamentary trustee
+named in the will, guardian of the person or estate of the decedent, or
+attorney in fact appointed by the decedent, if any such a fiduciary controlled
+or potentially controlled substantially all of the decedent's probate and
+nonprobate assets.
+
+
+
+    (4) One or more of
+the beneficiaries or transferees of the decedent's probate or nonprobate
+assets.
+
+
+
+    (5) The director
+of revenue, or the director's designee, for those estates having property
+subject to the provisions of chapter 11.08 RCW; however, the director may waive
+this right.
+
+
+
+    (((4))) (6)
+One or more of the principal creditors.
+
+
+
+    (((5))) (7)
+If the persons so entitled shall fail for more than forty days after the death
+of the ((intestate)) decedent to present a petition for letters
+of administration, or if it appears to the satisfaction of the court
+that there ((are)) is no ((relatives or)) next of kin, as
+above specified eligible to appointment, or they waive their right, and there
+are no principal creditor or creditors, or such creditor or creditors waive
+their right, then the court may appoint any suitable person to administer such
+estate.
+
+
+
+ 
+
+
+
+    Sec. 24.  RCW 11.28.237 and 1977
+ex.s. c 234 s 6 are each amended to read as follows:
+
+
+
+    Within twenty days
+after appointment, the personal representative of the estate of a decedent
+shall cause written notice of his or her appointment and the pendency of
+said probate proceedings, to be served personally or by mail to each heir,
+legatee and devisee of the estate and each beneficiary or transferee of a
+nonprobate asset of the decedent whose names and addresses are known to him
+or her, and proof of such mailing or service shall be made by affidavit
+and filed in the cause.
+
+
+
+ 
+
+
+
+    Sec. 25.  RCW 11.40.010 and 1991 c
+5 s 1 are each amended to read as follows:
+
+
+
+    Every personal
+representative shall, after appointment and qualification, give a notice to the
+creditors of the deceased, stating such appointment and qualification as
+personal representative and requiring all persons having claims against the
+deceased to serve the same on the personal representative or the estate's
+attorney of record, and file an executed copy thereof with the clerk of the
+court, within four months after the date of the first publication of such
+notice described in this section or within four months after the date of the
+filing of the copy of such notice with the clerk of the court, whichever is the
+later, or within the time otherwise provided in RCW 11.40.013.  The four-month
+time period after the later of the date of the first publication of the notice
+to creditors or the date of the filing of such notice with the clerk of the
+court is referred to in this chapter as the "four-month time
+limitation."  Such notice shall be given as follows:
+
+
+
+    (1) The personal
+representative shall give actual notice, as provided in RCW 11.40.013, to such
+creditors who become known to the personal representative within such
+four-month time limitation;
+
+
+
+    (2) The personal
+representative shall cause such notice to be published once in each week for
+three successive weeks in the county in which the estate is being administered;
+and
+
+
+
+    (3) The personal
+representative shall file a copy of such notice with the clerk of the court.
+
+
+
+    Except as otherwise
+provided in RCW 11.40.011 or 11.40.013, any claim not filed within the
+four-month time limitation shall be forever barred, if not already barred by
+any otherwise applicable statute of limitations.  This bar is effective as
+to claims against both the decedent's probate assets and nonprobate assets as
+described in section 19 of this act.  Proof by affidavit of the giving and
+publication of such notice shall be filed with the court by the personal
+representative.
+
+
+
+    Acts of a notice
+agent in complying with chapter ..., Laws of 1994 (this act) may be adopted and
+ratified by the personal representative as if done by the personal representative
+in complying with this chapter, except that if at the time of the appointment
+and qualification of the personal representative a notice agent had commenced
+nonprobate notice to creditors under chapter 11.-- RCW (sections 31 through 48
+of this act), the personal representative shall give published notice as
+provided in section 48 of this act.
+
+
+
+ 
+
+
+
+    Sec. 26.  RCW 11.40.013 and 1989 c
+333 s 4 are each amended to read as follows:
+
+
+
+    The actual notice
+described in RCW 11.40.010(1), as to creditors becoming known to the personal
+representative within the four-month time limitation, shall be given the
+creditors by personal service or regular first class mail, addressed to the
+creditor's last known address, postage prepaid.  The actual notice shall be
+given before the later of the expiration of the four-month time limitation or
+thirty days after any creditor became known to the personal representative
+within the four-month time limitation.  Any known creditor is barred unless the
+creditor has filed a claim, as otherwise provided in this chapter, within the
+four-month time limitation or within thirty days following the date of actual
+notice to that creditor, whichever is later.  If notice is given by mail, the
+date of mailing shall be the date of notice.  This bar is effective as to
+claims against both the decedent's probate assets and nonprobate assets.
+
+
+
+ 
+
+
+
+    Sec. 27.  RCW 11.40.015 and 1989 c
+333 s 6 are each amended to read as follows:
+
+
+
+    Notice
+under RCW 11.40.010 shall be in substantially the following form:
+
+
+
+ 
+
+
+
+                        )
+
+
+
+           CAPTION      )     No.
+
+
+
+           OF CASE      )
+
+
+
+                        )     NOTICE
+TO CREDITORS
+
+
+
+                        )
+
+
+
+...................     )
+
+
+
+ 
+
+
+
+    The personal
+representative named below has been appointed and has qualified as personal
+representative of this estate.  Persons having claims against the ((deceased))
+decedent must, prior to the time such claims would be barred by any
+otherwise applicable statute of limitations, serve their claims on the personal
+representative or the attorneys of record at the address stated below and file
+an executed copy of the claim with the Clerk of this Court within four months
+after the date of first publication of this notice or within four months after
+the date of the filing of the copy of this Notice with the Clerk of the Court,
+whichever is later or, except under those provisions included in RCW 11.40.011
+or 11.40.013, the claim will be forever barred.  This bar is effective as to
+claims against both the probate assets and nonprobate assets of the decedent.
+
+
+
+ 
+
+
+
+           DATE OF FILING
+COPY OF NOTICE TO CREDITORS with Clerk of Court:
+. . . . . . . . . . .
+
+
+
+           DATE OF FIRST
+PUBLICATION: ............................ 
+
+
+
+           ...................................................... ,
+
+
+
+                              Personal
+Representative
+
+
+
+           Address
+
+
+
+ 
+
+
+
+           Attorney
+for Estate:
+
+
+
+           Address:
+
+
+
+           Telephone:
+
+
+
+ 
+
+
+
+    Sec. 28.  RCW 11.40.040 and 1974
+ex.s. c 117 s 36 are each amended to read as follows:
+
+
+
+    Every claim which has
+been allowed by the personal representative shall be ranked among the
+acknowledged debts of the estate to be paid expeditiously in the course
+of administration.
+
+
+
+ 
+
+
+
+    Sec. 29.  RCW 11.40.080 and 1988 c
+64 s 22 are each amended to read as follows:
+
+
+
+    No holder of any claim
+against a decedent shall maintain an action thereon, unless the claim shall
+have been first presented as ((herein)) provided in this chapter. 
+Nothing in this chapter affects ((the notice under)) RCW 82.32.240.
+
+
+
+ 
+
+
+
+    Sec. 30.  RCW 11.48.010 and 1965 c
+145 s 11.48.010 are each amended to read as follows:
+
+
+
+    It shall be the duty of
+every personal representative to settle the estate, including the
+administration of any nonprobate assets within control of the personal
+representative under section 19 of this act, in his or her hands as
+rapidly and as quickly as possible, without sacrifice to the probate or
+nonprobate estate.  ((He)) The personal representative shall
+collect all debts due the deceased and pay all debts as hereinafter provided. 
+((He)) The personal representative shall be authorized in his or
+her own name to maintain and prosecute such actions as pertain to the
+management and settlement of the estate, and may institute suit to collect any
+debts due the estate or to recover any property, real or personal, or for
+trespass of any kind or character.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+31.  (1) Subject to the
+conditions stated in this section and if no personal representative has been
+appointed and qualified in the decedent's estate in Washington, the following
+members of a group, defined as the "qualified group", are qualified to
+give "nonprobate notice to creditors" of the decedent:
+
+
+
+    (a) Decedent's
+surviving spouse;
+
+
+
+    (b) The person
+appointed in an agreement made under chapter 11.96 RCW to give nonprobate
+notice to creditors of the decedent;
+
+
+
+    (c) The trustee, except
+a testamentary trustee under the will of the decedent not probated in another
+state, having authority over any of the property of the decedent; and
+
+
+
+    (d) A person who has
+received any property of the decedent by reason of the decedent's death.
+
+
+
+    (2) The "included
+property" means the property of the decedent that was subject to
+satisfaction of the decedent's general liabilities immediately before the
+decedent's death and that either:
+
+
+
+    (a) Constitutes a
+nonprobate asset; or
+
+
+
+    (b) Has been received,
+or is entitled to be received, either under chapter 11.62 RCW or by the
+personal representative of the decedent's probate estate administered outside
+the state of Washington, or both.
+
+
+
+    (3) The qualified
+person shall give the nonprobate notice to creditors.  The "qualified
+person" must be:
+
+
+
+    (a) The person in the
+qualified group who has received, or is entitled to receive, by reason of the
+decedent's death, all, or substantially all, of the included property; or
+
+
+
+    (b) If there is no
+person in (a) of this subsection, then the person who has been appointed by
+those persons, including any successors of those persons, in the qualified
+group who have received, or are entitled to receive, by reason of the
+decedent's death, all, or substantially all, of the included property.
+
+
+
+    (4) The requirement in
+subsection (3) of this section of the receipt of all, or substantially all, of
+the included property is satisfied if:
+
+
+
+    (a) The person
+described in subsection (3)(a) of this section at the time of the filing of the
+declaration and oath referred to in subsection (5) of this section in
+reasonable good faith believed that the person had received, or was entitled to
+receive, by reason of the decedent's death, all, or substantially all, of the
+included property; or
+
+
+
+    (b) The persons
+described in subsection (3)(b) of this section at the time of their entry into
+the agreement under chapter 11.96 RCW in which they appoint the person to give
+the nonprobate notice to creditors in reasonable good faith believed that they
+had received, or were entitled to receive, by reason of the decedent's death,
+all, or substantially all, of the included property.
+
+
+
+    (5) The "notice
+agent" means the qualified person who:
+
+
+
+    (a) Files a declaration
+and oath with the clerk of the superior court in a county in which probate may
+be commenced regarding the decedent as provided in RCW 11.96.050(2);
+
+
+
+    (b) Pays a filing fee
+to the clerk equal in amount to the filing fee charged by the clerk for the
+probate of estates; and
+
+
+
+    (c) Receives from the
+clerk a cause number.
+
+
+
+    The county in which the
+notice agent files the declaration is the "notice county."  The
+declaration and oath must be made in affidavit form or under penalty of perjury
+under the laws of the state in the form provided in RCW 9A.72.085 and must
+state that the person making the declaration believes in reasonable good faith
+that the person is qualified under this chapter to act as the notice agent and
+that the person faithfully will execute the duties of the notice agent as
+provided in this chapter.
+
+
+
+    (6) The following
+persons may not act as notice agent:
+
+
+
+    (a) Corporations, trust
+companies, and national banks, except:
+
+
+
+    (i) Professional
+service corporations that are regularly organized under the laws of this state
+whose shareholder or shareholders are exclusively attorneys; and
+
+
+
+    (ii) Other corporations,
+trust companies, and national banks that are authorized to do trust business in
+this state;
+
+
+
+    (b) Minors;
+
+
+
+    (c) Persons of unsound
+mind; or
+
+
+
+    (d) Persons who have
+been convicted of a felony or of a misdemeanor involving moral turpitude.
+
+
+
+    (7) A person who has
+given notice under this chapter and who thereafter becomes of unsound mind or
+is convicted of a crime or misdemeanor involving moral turpitude is no longer
+qualified to act as notice agent under this chapter.  The disqualification does
+not bar another person, otherwise qualified, from acting as notice agent under
+this chapter.
+
+
+
+    (8) A nonresident may
+act as notice agent if the nonresident appoints an agent who is a resident of
+the notice county or who is attorney of record for the notice agent upon whom
+service of all papers may be made.  The appointment must be made in writing and
+filed by the clerk of the notice county with the other papers relating to the
+notice given under this chapter.
+
+
+
+    (9) The powers and
+authority of a notice agent cease, and the office of notice agent becomes
+vacant, upon the appointment and qualification of a personal representative for
+the estate of the decedent.  Except as provided in section 48 of this act, the
+cessation of the powers and authority does not affect a published notice under
+this chapter if the publication commenced before the cessation and does not
+affect actual notice to creditors given by the notice agent before the
+cessation.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+32.  (1) The notice agent may
+give nonprobate notice to the creditors of the decedent if:
+
+
+
+    (a) As of the date of
+the filing of a copy of the notice with the clerk of the superior court for the
+notice county, the notice agent has no knowledge of the appointment and
+qualification of a personal representative in the decedent's estate in the
+state of Washington or of another person becoming a notice agent; and
+
+
+
+    (b) According to the
+records of the clerk of the superior court for the notice county as of 8:00
+a.m. on the date of the filing, no personal representative of the decedent's
+estate had been appointed and qualified and no cause number regarding the
+decedent had been issued to any other notice agent by the clerk under section
+31 of this act.
+
+
+
+    (2) The notice must
+state that all persons having claims against the decedent shall:  (a) Serve the
+same on the notice agent if the notice agent is a resident of the state of
+Washington upon whom service of all papers may be made, or on the nonprobate
+resident agent for the notice agent, if any, or on the attorneys of record of
+the notice agent at their respective address in the state of Washington; and
+(b) file an executed copy of the notice with the clerk of the superior court
+for the notice county, within:  (i) (A) Four months after the date of the first
+publication of the notice described in this section; or (B) four months after
+the date of the filing of the copy of the notice with the clerk of the superior
+court for the notice county, whichever is later; or (ii) the time otherwise
+provided in section 35 of this act.  The four-month time period after the later
+of the date of the first publication of the notice to creditors or the date of
+the filing of the notice with the clerk of the court is referred to in this
+chapter as the "four-month time limitation."
+
+
+
+    (3) The notice agent
+shall declare in the notice in affidavit form or under the penalty of perjury
+under the laws of the state of Washington as provided in RCW 9A.72.085 that: 
+(a) The notice agent is entitled to give the nonprobate notice under subsection
+(1) of this section; and (b) the notice is being given by the notice agent as
+permitted by this section.
+
+
+
+    (4) The notice agent
+shall sign the notice and file it with the clerk of the superior court for the
+notice county.  The notice must be given as follows:
+
+
+
+    (a) The notice agent
+shall give actual notice as to creditors of the decedent who become known to
+the notice agent within the four-month time limitation as required in section
+35 of this act;
+
+
+
+    (b) The notice agent
+shall cause the notice to be published once in each week for three successive
+weeks in the notice county; and
+
+
+
+    (c) The notice agent
+shall file a copy of the notice with the clerk of the superior court for the
+notice county.
+
+
+
+    (5) A claim not filed
+within the four-month time limitation is forever barred, if not already barred
+by an otherwise applicable statute of limitations, except as provided in
+section 33 or 35 of this act.  The bar is effective to bar claims against both
+the probate estate of the decedent and nonprobate assets that were subject to
+satisfaction of the decedent's general liabilities immediately before the
+decedent's death.  If a notice to the creditors of a decedent is published by
+more than one notice agent and the notice agents are not acting jointly, the four-month
+time limitation means the four-month time limitation that applies to the notice
+agent who first publishes the notice.  Proof by affidavit or perjury
+declaration made under RCW 9A.72.085 of the giving and publication of the
+notice must be filed with the clerk of the superior court for the notice county
+by the notice agent.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+33.  The time limitations
+under this chapter for serving and filing claims do not accrue to the benefit
+of a liability or casualty insurer as to claims against either the decedent or
+the marital community of which the decedent was a member, or both, and:
+
+
+
+    (1) The claims, subject
+to applicable statutes of limitation, may at any time be:  (a) Served on the
+duly acting notice agent, the duly acting resident agent for the notice agent,
+or on the attorney for either of them; and (b) filed with the clerk of the
+superior court for the notice county; or
+
+
+
+    (2) If there is no duly
+acting notice agent or resident agent for the notice agent, the claimant as a
+creditor shall proceed as provided in chapter 11.40 RCW.  However, if no
+personal representative ever has been appointed for the decedent, a personal
+representative must be appointed as provided in chapter 11.28 RCW and the
+estate opened, in which case the claimant then shall proceed as provided in
+chapter 11.40 RCW.
+
+
+
+    A claim may be served
+and filed as provided in this section, notwithstanding that there is no duly
+acting notice agent and that no personal representative previously has been
+appointed.  However, the amount of recovery under the claim may not exceed the
+amount of applicable insurance coverages and proceeds, and the claim so served
+and filed may not constitute a cloud or lien upon the title to the assets of
+the decedent or delay or prevent the transfer or distribution of assets of the
+decedent.  This section does not serve to extend the applicable statute of
+limitations regardless of whether a declaration and oath has been filed by a
+notice agent as provided in section 31 of this act.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+34.  The notice agent shall
+exercise reasonable diligence to discover, within the four-month time
+limitation, reasonably ascertainable creditors of the decedent.  The notice
+agent is deemed to have exercised reasonable diligence to ascertain the
+creditors upon:
+
+
+
+    (1) Conducting, within
+the four-month time limitation, a reasonable review of the decedent's
+correspondence including correspondence received after the date of death and
+financial records including checkbooks, bank statements, income tax returns,
+and similar materials, that are in the possession of, or reasonably available
+to, the notice agent; and
+
+
+
+    (2) Having made, with
+regard to claimants, inquiry of the nonprobate takers of the decedent's
+property and of the presumptive heirs, devisees, and legatees of the decedent,
+all of whose names and addresses are known, or in the exercise of reasonable
+diligence should have been known, to the notice agent.
+
+
+
+    If the notice agent
+conducts the review and makes an inquiry, the notice agent is presumed to have
+exercised reasonable diligence to ascertain creditors of the decedent, and
+creditors not ascertained in the review or in an inquiry are presumed not
+reasonably ascertainable.  These presumptions may be rebutted only by clear,
+cogent, and convincing evidence.  The notice agent may evidence the review and
+inquiry by filing an affidavit or declaration under penalty of perjury form as
+provided in RCW 9A.72.085 to the effect in the nonprobate proceeding in the
+notice county.  The notice agent also may petition the superior court of the
+notice county for an order declaring that the notice agent has made a review
+and inquiry and that only creditors known to the notice agent after the review
+and inquiry are reasonably ascertainable.  The petition and hearing must be
+under the procedures provided in chapter 11.96 RCW, and the notice specified
+under RCW 11.96.100 must also be given by publication.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+35.  The actual notice
+described in section 32(4)(a) of this act, as to a creditor becoming known to
+the notice agent within the four-month time limitation, must be given the
+creditor by personal service or regular first class mail, addressed to the
+creditor's last known address, postage prepaid.  The actual notice must be
+given before the later of the expiration of the four-month time limitation or
+thirty days after a creditor became known to the notice agent within the
+four-month time limitation.  A known creditor is barred unless the creditor has
+filed a claim, as provided in this chapter, within the four-month time
+limitation or within thirty days following the date of actual notice to that
+creditor, whichever is later.  If notice is given by mail, the date of mailing
+is the date of notice.  This bar is effective as to claims against the included
+property as defined in section 31 of this act.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+36.  (1) Whether or not notice
+under section 32 of this act has been given or should have been given, if no
+personal representative has been appointed and qualified, a person having a
+claim against the decedent who has not filed the claim within eighteen months
+from the date of the decedent's death is forever barred from making a claim
+against the decedent, or commencing an action against the decedent, if the
+claim or action is not already barred by any otherwise applicable statute of
+limitations.  However, this eighteen-month limitation does not apply to:
+
+
+
+    (a) Claims described in
+section 33 of this act;
+
+
+
+    (b) A claim if, during
+the eighteen-month period following the date of death, partial performance has
+been made on the obligation underlying the claim, and the notice agent has not
+given the actual notice described in section 32(4)(a) of this act; or
+
+
+
+    (c) Claims if, within
+twelve months after the date of death:
+
+
+
+    (i) No notice agent has
+given the published notice described in section 32(4)(b) of this act; and
+
+
+
+    (ii) No personal
+representative has given the published notice described in RCW 11.40.010(2).
+
+
+
+    Any otherwise
+applicable statute of limitations applies without regard to the tolling
+provisions of RCW 4.16.190.
+
+
+
+    (2) Claims referred to
+in this section must be filed if there is no duly appointed, qualified, and
+acting personal representative and there is a duly declared and acting notice
+agent or resident agent for the notice agent.  The claims, subject to
+applicable statutes of limitation, may at any time be served on the duly
+declared and acting notice agent or resident agent for the notice agent, or on
+the attorney for either of them.
+
+
+
+    (3) A claim to be filed
+under this chapter if there is no duly appointed, qualified, and acting
+personal representative but there is a duly declared and acting notice agent or
+resident agent for the notice agent and which claim is not otherwise barred
+under this chapter must be made in the form and manner provided under section
+32 of this act, as if the notice under that section had been given.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+37.  Notice under section 32
+of this act must be in substantially the following form:
+
+
+
+ 
+
+
+
+In the Matter of              )
+
+
+
+                         )     
+No.
+
+
+
+                         ) 
+
+
+
+                         ) 
+NONPROBATE NOTICE TO CREDITORS
+
+
+
+               Deceased. )
+
+
+
+______________________________)
+
+
+
+ 
+
+
+
+    _________________________________________,
+the undersigned Notice Agent, has elected to give notice to creditors of the
+decedent above named under section 32 of this act.  As of the date of the
+filing of a copy of this notice with the Clerk of this Court, the Notice Agent
+has no knowledge of the appointment and qualification of a personal
+representative in the decedent's estate in the state of Washington or of any
+other person becoming a Notice Agent.  According to the records of the Clerk of
+this Court as of 8:00 a.m. on the date of the filing of this notice with the
+Clerk, no personal representative of the decedent's estate had been appointed
+and qualified and no cause number regarding the decedent had been issued to any
+other Notice Agent by the Clerk of this Court under section 31 of this act.
+
+
+
+    Persons having claims
+against the decedent named above must, before the time the claims would be
+barred by any otherwise applicable statute of limitations, serve their claims
+on:  The notice agent if the Notice Agent is a resident of the state of
+Washington upon whom service of all papers may be made; the Nonprobate Resident
+Agent for the Notice Agent, if any; or the attorneys of record for the Notice
+Agent at the respective address in the state of Washington listed below, and
+file an executed copy of the claim with the Clerk of this Court within four
+months after the date of first publication of this notice, or within four
+months after the date of the filing of the copy of this notice with the Clerk
+of the Court, whichever is later, or, except under those provisions included in
+section 33 or 35 of this act, the claim will be forever barred.  This bar is
+effective as to all assets of the decedent that were subject to satisfaction of
+the decedent's general liabilities immediately before the decedent's death
+regardless of whether those assets are or would be assets of the decedent's
+probate estate or nonprobate assets of the decedent.
+
+
+
+ 
+
+
+
+Date
+of filing of this notice with the 
+
+
+
+Clerk
+of the Court:  ____________________
+
+
+
+ 
+
+
+
+    Date of first
+publication of this notice:  ____________________
+
+
+
+ 
+
+
+
+    The Notice Agent
+declares under penalty of perjury under the laws of the State of Washington on
+__________________, 19___ at             [City]            ,                    [State]      
+  that the foregoing is true and correct.
+
+
+
+ 
+
+
+
+____________________________  
+______________________________________
+
+
+
+Notice Agent [signature]      Nonprobate
+Resident Agent [if appointed]
+
+
+
+[address in Washington, if
+any]        [address in Washington]
+
+
+
+ 
+
+
+
+_________________________
+
+
+
+Attorney for Notice Agent
+
+
+
+[address in Washington]
+
+
+
+[telephone]
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+38.  RCW 11.40.020 applies to
+claims subject to this chapter.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+39.  (1) Property of the decedent
+that was subject to the satisfaction of the decedent's general liabilities
+immediately before the decedent's death is liable for claims.  The property
+includes, but is not limited to, property of the decedent that is includable in
+the decedent's probate estate, whether or not there is a probate administration
+of the decedent's estate.
+
+
+
+    (2) A claim approved by
+the notice agent, and a judgment on a claim first prosecuted against a notice
+agent, may be paid only out of assets received as a result of the death of the
+decedent by the notice agent or by those appointing the notice agent under chapter
+11.96 RCW, except as may be provided by agreement under RCW 11.96.170 or by
+court order under RCW 11.96.070.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+40.  (1) The notice agent
+shall approve or reject claims no later than by the end of a period that is two
+months after the end of the four-month time limitation defined as the
+"review period."
+
+
+
+    (2) The notice agent
+may approve a claim, in whole or in part.
+
+
+
+    (3) If the notice agent
+rejects a claim, in whole or in part, the notice agent shall notify the
+claimant of the rejection and file in the office of the clerk of the court in
+the notice county an affidavit or declaration under penalty of perjury under
+RCW 9A.72.085 showing the notification and the date of the notification.  The
+notification must be by personal service or certified mail addressed to the
+claimant at the claimant's address as stated in the claim.  If a person other
+than the claimant signed the claim for or on behalf of the claimant, and the
+person's business address as stated in the claim is different from that of the
+claimant, notification of the rejection also must be made by personal service
+or certified mail upon that person.  The date of the postmark is the date of
+the notification.  The notification of the rejection must advise the claimant,
+and the person making claim on his, her, or its behalf, if any, that the
+claimant must bring suit in the proper court in the notice county against the
+notice agent:  (a) Within thirty days after notification of rejection if the
+notification is made during or after the review period; or (b) before
+expiration of thirty days after the end of the four-month time limitation, if
+the notification is made during the four-month time limitation, and that
+otherwise the claim is forever barred.
+
+
+
+    (4) A claimant whose
+claim either has been rejected by the notice agent or has not been acted upon
+within twenty days of written demand for the action having been given to the
+notice agent by the claimant during or after the review period must commence an
+action against the notice agent in the proper court in the notice county to
+enforce the claim of the claimant within the earlier of:
+
+
+
+    (a) If the notice of
+the rejection of the claim has been sent as provided in subsection (3) of this
+section:  The time for filing an action on a rejected claim is as provided in
+subsection (3) of this section; or
+
+
+
+    (b) If written demand
+for approval or rejection is made on the notice agent before the claim is
+rejected:  Within 30 days following the end of the twenty-day written demand
+period where the demand period ends during or after the review period;
+
+
+
+otherwise the claim is
+forever barred.
+
+
+
+    (5) The notice agent
+may, either before or after rejection of a claim, compromise the claim, whether
+due or not, absolute or contingent, liquidated or unliquidated.
+
+
+
+    (6) A personal
+representative of the decedent's estate may revoke either or both of:  (a) The
+rejection of a claim that has been rejected by the notice agent; or (b) the
+approval of a claim that has been either approved or compromised by the notice
+agent, or both.
+
+
+
+    (7) If a notice agent
+pays a claim that subsequently is revoked by a personal representative of the
+decedent, the notice agent may file a claim in the decedent's estate for the
+notice agent's payment, and the claim may be allowed or rejected as other
+claims, at the election of the personal representative.
+
+
+
+    (8) If the notice agent
+has not received substantially all assets of the decedent that are liable for
+claims, then although an action may be commenced on a rejected claim by a
+creditor against the notice agent, the notice agent, notwithstanding any
+provision in this chapter, may only make an appearance in the litigation.  The
+Notice Agent may not answer the action, but must, instead, cause a petition to
+be filed for the appointment of a personal representative of the decedent
+within thirty days of the service of the creditor's summons and complaint on
+the notice agent.  A judgment may not be entered in an action brought by a
+creditor against the notice agent earlier than twenty days after the duly
+appointed, qualified, and acting personal representative of the decedent has
+been substituted in that action for the notice agent.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+41.  If a claim has been filed
+and presented to a notice agent, and a part of the claim is allowed, the amount
+of the allowance must be stated in the indorsement.  If the creditor refuses to
+accept the amount so allowed in satisfaction of the claim, the creditor may not
+recover costs in an action the creditor may bring against the notice agent and
+against any substituted personal representative unless the creditor recovers a
+greater amount than that offered to be allowed, exclusive of interest and
+costs.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+42.  A debt of a decedent for
+whose estate no personal representative has been appointed must be paid in the
+following order by the notice agent from the assets of the decedent that are
+subject to the payment of claims as provided in section 39 of this act:
+
+
+
+    (1) Costs of
+administering the assets subject to the payment of claims, including a
+reasonable fee to the notice agent, the resident agent for the notice agent, if
+any, reasonable attorneys' fees for the attorney for each of them, filing fees,
+publication costs, mailing costs, and similar costs and fees.
+
+
+
+    (2) Funeral expenses in
+a reasonable amount.
+
+
+
+    (3) Expenses of the
+last sickness in a reasonable amount.
+
+
+
+    (4)  Wages due for
+labor performed within sixty days immediately preceding the death of the
+decedent.
+
+
+
+    (5) Debts having
+preference by the laws of the United States.
+
+
+
+    (6) Taxes or any debts
+or dues owing to the state.
+
+
+
+    (7) Judgments rendered
+against the decedent in the decedent's lifetime that are liens upon real estate
+on which executions might have been issued at the time of the death of the
+decedent and debts secured by mortgages in the order of their priority. 
+However, the real estate is subject to the payment of claims as provided in
+section 40 of this act.
+
+
+
+    (8) All other demands
+against the assets subject to the payment of claims as provided in section 40
+of this act.
+
+
+
+    A claim of the notice
+agent or other person who has received property by reason of the decedent's
+death may not be paid by the notice agent unless all other claims that have
+been filed under this chapter, and all debts having priority to the claim, are
+paid in full or otherwise settled by agreement, regardless of whether the other
+claims are allowed or rejected, or partly allowed or partly rejected.  In the
+event of the probate of the decedent's estate, the personal representative's
+payment from estate assets of the claim of the notice agent or other person who
+has received property by reason of the decedent's death is not affected by the
+priority payment provisions of this section.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+43.  The notice agent may not
+allow a claim that is barred by the statute of limitations.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+44.  A holder of a claim
+against a decedent may not maintain an action on the claim against a notice
+agent, unless the claim has been first presented as provided in this chapter. 
+This chapter does not affect RCW 82.32.240.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+45.  The time during which
+there is a vacancy in the office of notice agent is not included in a limitation
+prescribed in this chapter.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+46.  If a judgment has been
+rendered against a decedent in the decedent's lifetime, an execution may not
+issue on the judgment after the death of the decedent, but the judgment must be
+presented in the form of a claim to the notice agent, if any, as any other
+claim.  The claim need not be supported by the affidavit of the claimant.  If
+the claim is justly due and unsatisfied, it must be paid in due course in
+accordance with this chapter for the payment of claims.  However, if the
+judgment is a lien on property classified within the definition of the included
+property in section 31 of this act, the property may be sold for the
+satisfaction of the judgment, and the officer making the sale shall account to
+the notice agent for any surplus.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+47.  The personal claim of a
+Notice Agent, as a creditor of the decedent, must be authenticated by
+affidavit, and must be filed and presented for allowance to the superior court
+in the notice county.  The allowance of the claim by the court is sufficient
+evidence of the correctness of the claim.
+
+
+
+ 
+
+
+
+    NEW SECTION.  Sec.
+48.  In case the office of
+notice agent becomes vacant for any reason, including resignation, death,
+removal, or replacement, after notice by publication has been commenced as
+provided in section 32 of this act, the personal representative of the decedent
+or the successor notice agent shall publish notice of the vacancy and
+succession for two successive weeks in a legal newspaper published in the
+notice county.  The time between the commencement of the vacancy and the
+publication by the successor notice agent or personal representative must be
+added to the time within which claims must be filed:  (1) As fixed by the first
+published nonprobate notice to creditors; and (2) as extended in the case of
+actual notice under section 35 of this act, unless the time expired before the
+vacancy.  Notice is not required if the period for filing claims has expired
+during the time that the former notice agent was qualified.
+
+
+
+ 
+
+
+
+    Sec. 49.  RCW 11.56.050 and 1965 c
+145 s 11.56.050 are each amended to read as follows:
+
+
+
+    If the court should
+determine that it is necessary to sell any or all of the real estate for the
+purposes mentioned in this title, then it may make and cause to be entered an
+order directing the personal representative to sell so much of the real estate
+as the court may determine necessary for the purposes aforesaid.  Such order
+shall give a particular description of the property to be sold and the terms of
+such sale and shall provide whether such property shall be sold at public or
+private sale, or by negotiation.  ((The court shall order sold that part of
+the real estate which is generally devised, rather than any part which may have
+been specifically devised, but the court may, if it appears necessary, sell any
+or all of the real estate so devised.))  After the giving of such order it
+shall be the duty of the personal representative to sell such real estate in
+accordance with the order of the court and as in this title provided with
+reference to the public or private sales of real estate.
+
+
+
+ 
+
+
+
+    Sec. 50.  RCW 11.68.010 and 1977
+ex.s. c 234 s 18 are each amended to read as follows:
+
+
+
+    Subject to the
+provisions of this chapter, if the estate of a decedent, who died either
+testate or intestate, is solvent taking into account both probate and
+nonprobate assets of the decedent, and if the personal representative is
+other than a creditor of the decedent not designated as personal representative
+in the decedent's will, such estate shall be managed and settled without the
+intervention of the court; the fact of solvency shall be established by the
+entry of an order of solvency.  An order of solvency may be entered at the time
+of the appointment of the personal representative or at any time thereafter
+where it appears to the court by the petition of the personal representative,
+or the inventory filed, and/or other proof submitted, that the estate of the
+decedent is solvent, and that notice of the application for an order of
+solvency has been given to those persons entitled thereto when required by RCW
+11.68.040 as now or hereafter amended.
+
+
+
+ 
+
+
+
+    Sec. 51.  RCW 11.96.009 and 1985 c
+31 s 2 are each amended to read as follows:
+
+
+
+    (1) The superior court
+shall have original subject-matter jurisdiction over ((probates in
+the following instances)) the probate of wills and the administration of
+estates of incapacitated, missing, and deceased individuals in all instances,
+including without limitation:
+
+
+
+    (a) When a resident of
+the state dies; or
+
+
+
+    (b) When a nonresident
+of the state dies in the state; or
+
+
+
+    (c) When a nonresident
+of the state dies outside the state.
+
+
+
+    (2) The superior court
+shall have original subject-matter jurisdiction over trusts and ((trust))
+matters relating to trusts.
+
+
+
+    (3) The superior courts
+in the exercise of their jurisdiction of matters of ((probate and))
+trusts and estates shall have the power to probate or refuse to
+probate wills, appoint personal representatives ((of deceased, incompetent,
+or disabled persons and)), administer and settle ((all such
+estates, and)) the affairs and the estates of incapacitated, missing, or
+deceased individuals including but not limited to decedents' estates only
+containing nonprobate assets, administer and settle matters that relate to
+nonprobate assets and arise under chapter 11.-- (section 19 of this act) or
+11.-- RCW (sections 31 through 48 of this act), administer and settle all
+trusts and trust matters, award processes and cause to come before them all
+persons whom they may deem it necessary to examine, and order and cause to be
+issued all such writs as may be proper or necessary, and do all things proper
+or incident to the exercise of such jurisdiction.
+
+
+
+ 
+
+
+
+    Sec. 52.  RCW 11.96.020 and 1985 c
+31 s 3 are each amended to read as follows:
+
+
+
+    It is the intention of
+((this title)) the legislature that the courts ((mentioned))
+shall have full and ample power and authority under this title to:
+
+
+
+    (1) Administer
+and settle ((all estates of decedents and incompetent and disabled persons
+in this title mentioned and to)) the affairs and the estates of all
+incapacitated, missing, and deceased persons in accordance with this title;
+
+
+
+    (2) Administer
+and settle all trusts and trust matters; and
+
+
+
+    (3) Administer and
+settle matters arising with respect to nonprobate assets under chapters 11.--
+(section 19 of this act) and 11.-- RCW (sections 31 through 48 of this act).
+
+
+
+    If the provisions of
+this title with reference to the administration and settlement of such ((estates
+or trusts)) matters should in any cases and under any circumstances
+be inapplicable ((or)), insufficient, or doubtful, the
+court shall nevertheless have full power and authority to proceed with such
+administration and settlement in any manner and way which to the court seems
+right and proper, all to the end that such ((estates or trusts may be by the
+court administered upon and settled)) matters may be administered and
+settled by the court.
+
+
+
+ 
+
+
+
+    Sec. 53.  RCW 11.96.050 and 1985 c
+31 s 6 are each amended to read as follows:
+
+
+
+    For purposes of venue
+in proceedings involving:  The probate of wills; the administration
+and disposition of estates of incapacitated, missing, or deceased individuals,
+including but not limited to estates only containing nonprobate assets; or
+trusts and trust matters, the following shall apply:
+
+
+
+    (1) Proceedings under
+Title 11 RCW pertaining to trusts shall be commenced ((either)):
+
+
+
+    (a) In the superior
+court of the county in which the situs of the trust is located as provided in
+RCW 11.96.040; or
+
+
+
+    (b) ((In the
+superior court of the county in which a trustee resides or has its principal
+place of business; or
+
+
+
+    (c))) With respect to testamentary trusts, in the
+superior court of the county where letters testamentary were granted to a
+personal representative((, and in the absence of)) or, where no
+such letters have been granted to a personal representative, then in any
+county where letters testamentary could have been granted in accordance with
+subsection (2) of this section.
+
+
+
+    (2) Wills shall be
+proven, letters testamentary or of administration granted, and other
+proceedings pertaining to the probate of wills, the administration and
+disposition of estates including but not limited to estates containing only
+nonprobate assets under Title 11 RCW ((pertaining to probate)) shall
+be commenced((, either)):
+
+
+
+    (a) In the county in
+which the decedent was a resident at the time of death;
+
+
+
+    (b) In the county in
+which the decedent died, or in which any part of the estate may be, if the
+decedent was not a resident of this state; ((or))
+
+
+
+    (c) In the county in
+which any part of the estate may be, if the decedent ((having))
+died out-of-state((,)) and was not ((having been)) a
+resident ((in)) of this state at the time of death; or
+
+
+
+    (d) In the county in
+which any nonprobate asset may be, if the decedent died out-of-state, was not a
+resident of this state at the time of death, and left no assets subject to
+probate administration in this state.
+
+
+
+    (3) No action
+undertaken is defective or invalid because of improper venue if the court has
+jurisdiction of the matter.
+
+
+
+ 
+
+
+
+    Sec. 54.  RCW 11.96.060 and 1985 c
+31 s 7 are each amended to read as follows:
+
+
+
+    (1) Any action against
+the trustee of an express trust, excluding those trusts excluded from the
+definition of express trusts under RCW 11.98.009, but including all express
+trusts, whenever executed, for any breach of fiduciary duty, must be brought
+within three years from the earlier of (a) the time the alleged breach was discovered
+or reasonably should have been discovered, (b) the discharge of a trustee from
+the trust as provided in RCW ((11.98.040)) 11.98.041, or (c) the
+time of termination of the trust or the trustee's repudiation of the trust.
+
+
+
+    (2) Any action by an
+heir, legatee, or other interested party, to whom proper notice was given if
+required, against a personal representative for alleged breach of fiduciary
+duty must be brought prior to discharge of the personal representative.
+
+
+
+    (3) The tolling
+provisions of RCW 4.16.190 apply to this chapter except that the running of any
+statute of limitations stated in subsection (1) or (2) of this section, or any
+other applicable statute of limitations for any matter that is the subject of
+dispute under chapter 11.96 RCW, is not tolled if the unascertained or unborn
+heir, beneficiary, or class of persons, or minor((, incompetent, or disabled))
+or incapacitated person, or person identified in RCW 11.96.170(2) or
+11.96.180 whose identity or address is unknown, had a guardian ad litem,
+limited or general guardian of the estate, or a special representative to
+represent the person during the probate or dispute resolution proceeding.
+
+
+
+    (((4)
+Notwithstanding subsections (2) and (3) of this section, any cause of action
+against a trustee of an express trust, as provided for in subsection (1) of
+this section is not barred by the statute of limitations if it is brought
+within three years from January 1, 1985.  In addition, any action as specified
+in subsection (2) of this section against the personal representative is not
+barred by this statute of limitations if it is brought within one year of
+January 1, 1985.))
+
+
+
+ 
+
+
+
+    Sec. 55.  RCW 11.96.070 and 1990 c
+179 s 1 are each amended to read as follows:
+
+
+
+    ((A trustor,
+grantor, personal representative, trustee, or other fiduciary, creditor,
+devisee, legatee, heir, or trust beneficiary interested in the administration
+of a trust, or the attorney general in the case of a charitable trust under RCW
+11.110.120, or of the estate of a decedent, incompetent, or disabled person,))
+(1) A person with an interest in or right respecting the administration,
+settlement, or disposition of an interest in a trust or in the estate of an
+incapacitated, missing, or deceased person may have a judicial proceeding
+for the declaration of rights or legal relations ((in respect to the trust
+or estate)) under this title including but not limited to the following:
+
+
+
+    (((1) To ascertain))
+(a) The ascertaining of any class of creditors, devisees, legatees,
+heirs, next of kin, or others;
+
+
+
+    (((2) To direct))
+(b) The ordering of the personal representatives or trustees to do or
+abstain from doing any particular act in their fiduciary capacity;
+
+
+
+    (((3) To determine))
+(c) The determination of any question arising in the administration of
+the estate or trust, including without limitation questions of
+construction of wills and other writings;
+
+
+
+    (((4) To confer upon))
+(d) The grant to the personal representatives or trustees of any
+necessary or desirable powers not otherwise granted in the instrument or given
+by law that the court determines are not inconsistent with the provisions or
+purposes of the will or trust;
+
+
+
+    (((5) To amend or
+conform)) (e) The modification of the will or the trust instrument in
+the manner required to qualify the gift thereunder for the charitable estate
+tax deduction permitted by federal law, including the addition of mandatory
+governing instrument requirements for a charitable remainder trust as required
+by final regulations and rulings of the United States internal revenue service,
+in any case in which all parties interested in the trust have submitted written
+agreements to the proposed changes or written disclaimer of interest; ((or
+
+
+
+    (6) To amend or
+conform)) (f) The modification
+of the will or the trust instrument in the manner required to qualify any
+gift thereunder for the benefit of a surviving spouse who is not a citizen of
+the United States for the estate tax marital deduction permitted by federal
+law, including the addition of mandatory governing instrument requirements for
+a qualified domestic trust under section 2056A of the internal revenue code as
+required by final regulations and rulings of the United States treasury
+department or internal revenue service, in any case in which all parties
+interested in the trust have submitted written agreements to the proposed
+changes or written disclaimer of interest; ((or
+
+
+
+    (7) To resolve any
+other matter in this title referencing this judicial proceedings section.)) (g) The determination of the persons
+entitled to notice under RCW 11.96.100 and 11.96.110 for the purposes of any
+judicial proceeding under this subsection (1) and for the purposes of an
+agreement under RCW 11.96.170; or
+
+
+
+    (h) The resolution
+of any other matter that arises under this title and references this section.
+
+
+
+    (2) Any person with
+an interest in or right respecting the administration of a nonprobate asset
+under this title may have a judicial proceeding for the declaration of rights
+or legal relations under this title with respect to the nonprobate asset,
+including without limitation the following:
+
+
+
+    (a) The ascertaining
+of any class of creditors or others for purposes of chapter 11.-- (section 19
+of this act) or 11.-- RCW (sections 31 through 48 of this act);
+
+
+
+    (b) The ordering of
+a qualified person, the notice agent, or resident agent, as those terms are
+defined in chapter 11.-- RCW (sections 31 through 48 of this act), or any
+combination of them, to do or abstain from doing any particular act with
+respect to a nonprobate asset;
+
+
+
+    (c) The ordering of
+a custodian of any of the decedent's records relating to a nonprobate asset to
+do or abstain from doing any particular act with respect to those records;
+
+
+
+    (d) The
+determination of any question arising in the administration under chapter 11.--
+(section 19 of this act) or 11.-- RCW (sections 31 through 48 of this act) of a
+nonprobate asset;
+
+
+
+    (e) The
+determination of the persons entitled to notice under RCW 11.96.100 and
+11.96.110 for the purposes of any judicial proceeding under this subsection (2)
+and for the purposes of an agreement under RCW 11.96.170; and
+
+
+
+    (f) The
+determination of any questions relating to the abatement, rights of creditors,
+or other matter relating to the administration, settlement, or final disposition
+of a nonprobate asset under this title.
+
+
+
+    (3) The
+provisions of this chapter apply to disputes arising in connection with estates
+of ((incompetents or disabled)) incapacitated persons unless
+otherwise covered by chapters 11.88 and 11.92 RCW.  The provisions of this
+chapter shall not supersede the otherwise applicable provisions and procedures
+of chapter 11.24, 11.28, 11.40, 11.52, 11.56, or 11.60 RCW with respect to any
+rights or legal obligations that are subject to those chapters.
+
+
+
+    (4) For the purposes
+of this section, "a person with an interest in or right respecting the
+administration, settlement, or disposition of an interest in a trust or in the
+estate of an incapacitated, missing, or deceased person" includes but is
+not limited to:
+
+
+
+    (a) The trustor if
+living, trustee, beneficiary, or creditor of a trust and, for a charitable
+trust, the attorney general if acting within the powers granted under RCW
+11.110.120;
+
+
+
+    (b) The personal
+representative, heir, devisee, legatee, and creditor of an estate;
+
+
+
+    (c) The guardian,
+guardian ad litem, and ward of a guardianship, and a creditor of an estate
+subject to a guardianship; and
+
+
+
+    (d) Any other person
+with standing to sue with respect to any of the matters for which judicial
+proceedings are authorized in subsection (1) of this section.
+
+
+
+    (5) For the purposes
+of this section, "any person with an interest in or right respecting the
+administration of a nonprobate asset under this title" includes but is not
+limited to:
+
+
+
+    (a) The notice
+agent, the resident agent, or a qualified person, as those terms are defined in
+chapter 11.-- RCW (sections 31 through 48 of this act);
+
+
+
+    (b) The recipient of
+the nonprobate asset with respect to any matter arising under this title;
+
+
+
+    (c) Any other person
+with standing to sue with respect to any matter for which judicial proceedings
+are authorized in subsection (2) of this section; and
+
+
+
+    (d) The legal
+representatives of any of the persons named in this subsection.
+
+
+
+ 
+
+
+
+    Sec. 56.  RCW 11.96.080 and 1985 c
+31 s 9 are each amended to read as follows:
+
+
+
+    Unless rules of
+court or a provision of this title requires otherwise, a judicial proceeding
+under RCW 11.96.070 may be commenced by petition.  The court shall make an
+order fixing the time and place for hearing the petition.  The court shall
+approve the form and content of the notice.  Notice of hearing shall be signed
+by the clerk of the court.
+
+
+
+ 
+
+
+
+    Sec. 57.  RCW 11.96.090 and 1985 c
+31 s 10 are each amended to read as follows:
+
+
+
+    The clerk of each of
+the superior courts is authorized to fix the time of hearing of all
+applications, petitions and reports in probate and guardianship proceedings,
+except the time for hearings upon show cause orders and citations and except
+for the time of hearings set under RCW 11.96.080.  The authority ((herein))
+granted in this section is in addition to the authority vested in the
+superior courts and superior court commissioners.
+
+
+
+ 
+
+
+
+    Sec. 58.  RCW 11.96.100 and 1985 c
+31 s 11 are each amended to read as follows:
+
+
+
+    (1) Subject to
+RCW 11.96.110, in all judicial  proceedings under Title 11 RCW that require
+notice, such notice shall be personally served ((or mailed to each trustee,
+personal representative, heir, beneficiary including devisees, legatees, and
+heirs, guardian ad litem, and person having an interest in the trust or estate
+whose name and address are known to the petitioner)) on or mailed to all
+parties to the dispute at least twenty days prior to the hearing on the
+petition((,)) unless ((otherwise)) a different period is
+provided by statute or ordered by the court under RCW 11.96.080.
+
+
+
+    (2) Proof of ((such))
+the service or mailing required in this section shall be made by
+affidavit filed at or before the hearing.
+
+
+
+    ((In addition,
+notice shall also be given to)) (3) For the purposes of this section:
+
+
+
+    (a) When used in
+connection with a judicial proceeding under RCW 11.96.070(1), "parties to
+the dispute" means each:
+
+
+
+    (i) Trustor if
+living;
+
+
+
+    (ii) Trustee;
+
+
+
+    (iii) Personal representative;
+
+
+
+    (iv) Heir;
+
+
+
+    (v) Beneficiary
+including devisees, legatees, and trust beneficiaries;
+
+
+
+    (vi) Guardian ad
+litem; or
+
+
+
+    (vii) Other person
+
+
+
+who has an interest in
+the subject of the particular proceeding and whose name and address are known
+to, or are reasonably ascertainable by, the petitioner, and also includes the attorney general if required under RCW
+11.110.120.
+
+
+
+    (b) When used in
+connection with a judicial proceeding under RCW 11.96.070(2), "parties to
+the dispute" means each notice agent, if any, or other person, who has an
+interest in the subject of the particular proceeding and whose name and address
+are known to, or are reasonably ascertainable by, the petitioner, and also
+includes the personal representatives of the estate of the owner of the
+nonprobate asset that is the subject of the particular proceeding, if the
+subject of the particular proceeding relates to the beneficiary's liability to
+a decedent's estate or creditors under section 19 of this act.
+
+
+
+    (c) "Notice
+agent" has the meanings given in section 31 of this act.
+
+
+
+ 
+
+
+
+    Sec. 59.  RCW 11.96.110 and 1985 c
+31 s 12 are each amended to read as follows:
+
+
+
+    Notwithstanding
+provisions of this chapter to the contrary, there is compliance with the ((notice))
+requirements of Title 11 RCW for notice to the beneficiaries of, ((or)) and
+other persons interested in, an estate ((or)), a
+trust, or ((to beneficiaries or remaindermen)) a nonprobate asset,
+including without limitation all living persons who may participate in
+the corpus or income of the trust or estate, if notice is given as follows:
+
+
+
+    (1) If an interest in
+an estate ((or)), trust, or nonprobate asset has been given
+to persons who compose a certain class upon the happening of a certain event,
+notice shall be given to the living persons who would constitute the class if
+the event had happened immediately before the commencement of the proceeding
+requiring notice.
+
+
+
+    (2) If an interest in
+an estate ((or)), trust, or nonprobate asset has been
+given to a living person, and the same interest, or a share in it, is to pass
+to the surviving spouse or to persons who are, or may be, the distributees,
+heirs, issue, or other kindred of that living person upon the happening of a
+future event, notice shall be given to that living person.
+
+
+
+    (3) Except as otherwise
+provided in subsection (2) of this section, if an interest in an estate ((or)),
+trust, or nonprobate asset has been given to a person, a class of
+persons, or both upon the happening of any future event, and the same interest
+or a share of such interest is to pass to another person, class of persons, or
+both, upon the happening of an additional future event, notice shall be given
+to the living person or persons who would take the interest upon the happening
+of the first event.
+
+
+
+    (4) Notice shall be
+given to persons who would not otherwise be entitled to notice by law if a
+conflict of interest involving the subject matter of the ((trust or estate))
+proceeding relating to an estate, trust, or nonprobate asset is known to
+exist between a person to whom notice is given and a person to whom notice need
+not be given under Title 11 RCW.
+
+
+
+    Any action taken by the
+court is conclusive and binding upon each person receiving actual or
+constructive notice in the manner provided in this section.
+
+
+
+ 
+
+
+
+    Sec. 60.  RCW 11.96.130 and 1985 c
+31 s 14 are each amended to read as follows:
+
+
+
+    All issues of fact ((joined
+in probate or trust proceedings)) in any judicial proceeding under this
+title shall be tried in conformity with the requirements of the rules of
+practice in civil actions((.  The probate or trust)), except as
+otherwise provided by statute or ordered by the court under RCW 11.96.030 or
+other applicable law or rules of court.  The judicial proceeding may be
+commenced as a  new action or as an action incidental to an existing ((probate
+or trust)) judicial proceeding relating to the same trust or
+estate or nonprobate asset.  Once commenced, the action may be consolidated
+with an existing ((probate or trust)) proceeding or converted to a
+separate action upon the motion of any party for good cause shown, or by the
+court on its own motion.  If a party is entitled to a trial by jury and a jury
+is demanded, and the issues are not sufficiently made up by the written
+pleadings on file, the court, on due notice, shall settle and frame the issues
+to be tried.  If no jury is demanded, the court shall try the issues ((joined)),
+and sign and file its findings and decision in writing, as provided for in
+civil actions.  Judgment on the ((issue joined)) issues, as well
+as for costs, may be entered and enforced by execution or otherwise by the
+court as in civil actions.
+
+
+
+ 
+
+
+
+    Sec. 61.  RCW 11.96.140 and 1985 c
+31 s 15 are each amended to read as follows:
+
+
+
+    Either the superior
+court or the court on appeal, may, in its discretion, order costs, including ((attorneys))
+attorneys' fees, to be paid by any party to the proceedings or out of
+the assets of the estate or trust or nonprobate asset, as justice may
+require.
+
+
+
+ 
+
+
+
+    Sec. 62.  RCW 11.96.160 and 1988 c
+202 s 19 are each amended to read as follows:
+
+
+
+    Any interested party
+may seek appellate review of any final order, judgment, or decree of the
+court((, and such)) respecting any judicial proceedings under this
+title.  The review shall be in the manner and way provided by law for
+appeals in civil actions.
+
+
+
+ 
+
+
+
+    Sec. 63.  RCW 11.96.170 and 1988 c
+29 s 7 are each amended to read as follows:
+
+
+
+    (1) If((, as to the))
+all required parties to the dispute agree as to a matter in dispute, the
+((trustor, grantor, all parties beneficially interested in the estate or
+trust with respect to such matter, and any current fiduciary of such estate or
+trust, who are also included in RCW 11.96.070 and who are entitled to notice
+under RCW 11.96.100 and 11.96.110 agree on any matter listed in RCW 11.96.070
+or any other matter in Title 11 RCW referencing this nonjudicial resolution
+procedure, then the)) agreement shall be evidenced by a written agreement
+executed by all ((necessary persons as provided in this section)) required
+parties to the dispute.  Those persons may reach an agreement concerning a
+matter in RCW 11.96.070(((4))) (1)(d) as long as those persons,
+rather than the court, determine that the powers to be conferred are not
+inconsistent with the provisions or purposes of the will or trust.
+
+
+
+    (2) If necessary, ((the
+personal representative or trustee)) any one or more of the required
+parties to the dispute may petition the court for the appointment of a
+special representative to represent a ((person interested in the estate or
+trust who is a minor, incompetent, disabled, or)) required party to the
+dispute who is incapacitated by reason of being a minor or otherwise, who
+is yet unborn or unascertained, or ((a person)) whose identity or
+address is unknown.  The special representative has authority to enter into a
+binding agreement under this section on behalf of the person or
+beneficiary.  The special representative may be appointed for more than one
+person or class of persons if the interests of such persons or ((class))
+classes are not in conflict.  Those entitled to receive notice for
+persons or beneficiaries described in RCW 11.96.110 may enter into a binding
+agreement on behalf of such persons or beneficiaries.
+
+
+
+    (3) The special
+representative shall be a lawyer licensed to practice before the courts of this
+state or an individual with special skill or training in the administration of
+estates ((or)), trusts, or nonprobate assets, as applicable. 
+The special representative shall have no interest in any affected estate ((or)),
+trust, or nonprobate asset, and shall not be related to any personal
+representative, trustee, beneficiary, or other person interested in the estate
+((or)), trust, or nonprobate asset.  The special
+representative is entitled to reasonable compensation for services ((which))
+and, if applicable, that compensation shall be paid from the principal
+of the estate ((or)), trust, or nonprobate asset whose
+beneficiaries are represented.  Upon execution of the written agreement, the
+special representative shall be discharged of any further responsibility with
+respect to the estate ((or)), trust, or nonprobate asset.
+
+
+
+    (4) The written
+agreement or a memorandum summarizing the provisions of the written agreement
+may, at the option of any ((person interested in the estate or trust)) of
+the required parties to the dispute, be filed with the court having
+jurisdiction over the estate ((or)), trust, nonprobate asset,
+or other matter affected by the agreement.  The person filing the agreement
+or memorandum shall, within five days ((thereof)) after the
+agreement or memorandum is filed with the court, mail a copy of the
+agreement, the summarizing memorandum if one was filed with the court,
+and a notice of the filing to each ((person interested in the estate or
+trust)) of the required parties to the dispute whose address is
+known or is reasonably ascertainable by the person.  Notice shall be in
+substantially the following form:
+
+
+
+ 
+
+
+
+CAPTION         NOTICE
+OF FILING OF
+
+
+
+OF CASE         AGREEMENT
+OR
+
+
+
+                MEMORANDUM
+
+
+
+                OF
+AGREEMENT
+
+
+
+ 
+
+
+
+     Notice is hereby given
+that the attached document was filed by the undersigned in the above entitled
+court on the . . . . . . day of
+. . . . . ., ((19. .)) . . . . . 
+Unless you file a petition objecting to the agreement within 30 days of the
+above specified date the agreement will be deemed approved and will be
+equivalent to a final order binding on all persons interested in the ((estate
+or trust)) subject of the agreement.
+
+
+
+     If you file and serve
+a petition within the period specified, you should ask the court to fix a time
+and place for the hearing on the petition and provide for at least ((a))
+ten days' notice to all persons interested in the ((estate or trust)) subject
+of the agreement.
+
+
+
+ 
+
+
+
+     DATED this
+. . . . . . day of
+. . . . . ., ((19. .)) . . . . .
+
+
+
+ 
+
+
+
+                             .................................... 
+
+
+
+                             (((Party
+to the agreement)) Name of person filing the agreement or memorandum
+with the court)
+
+
+
+ 
+
+
+
+     (5) Unless a ((person
+interested in the estate or trust)) required party to the dispute
+files a petition objecting to the agreement within thirty days ((of)) after
+the filing of the agreement or the memorandum, the agreement will be deemed
+approved and will be equivalent to a final order binding on all ((persons
+interested in the estate or trust.  If all persons interested in the estate or
+trust)) parties to the dispute.  If all required parties to the dispute
+waive the notice required by this section, the agreement will be deemed
+approved and will be equivalent to a final order binding on all such
+persons ((interested in the estate or trust)) effective upon the date of
+filing.
+
+
+
+     (6) For the
+purposes of this section:
+
+
+
+     (a) "Matter in
+dispute" includes without limitation any matter listed in RCW 11.96.070 or
+any other matter in this title referencing this nonjudicial resolution
+procedure;
+
+
+
+     (b) "Parties
+to the dispute" has the meaning given to that term in RCW 11.96.100(3) (a)
+and (b), as applicable;
+
+
+
+     (c) "Required
+parties to the dispute" means those parties to the dispute who are
+entitled to notice under RCW 11.96.100 and 11.96.110, and, when used in the
+singular, means any one of the required parties to the dispute; and
+
+
+
+     (d)
+"Estate" includes the estate of a deceased, missing, or incapacitated
+person.
+
+
+
+ 
+
+
+
+     Sec. 64.  RCW 11.96.180 and 1985 c
+31 s 19 are each amended to read as follows:
+
+
+
+     (1) The court, upon
+its own motion or on request of ((a person interested in the trust or estate))
+any one or more of the required parties to the dispute as that term is
+defined in RCW 11.96.170(6)(c), at any stage of a judicial proceeding or at
+any time in a nonjudicial resolution procedure, may appoint a guardian ad litem
+to represent the interests of a minor, incapacitated, unborn, or unascertained
+person, or person whose identity ((and)) or address ((are))
+is unknown, or a designated class of persons who are not ascertained or
+are not in being.  When not precluded by a conflict of interest, a guardian ad
+litem may be appointed to represent several persons or interests.
+
+
+
+     (2) ((For the
+purposes of this section, a trustee is a person interested in the trust and a
+personal representative is a person interested in an estate.
+
+
+
+     (3))) The court-appointed guardian ad litem
+supersedes the special representative if so provided in the court order.
+
+
+
+     (((4))) (3)
+The court may appoint the guardian ad litem at an ex parte hearing, or the
+court may order a hearing as provided in RCW 11.96.070 with notice as provided
+in RCW 11.96.080, 11.96.100, and 11.96.110.
+
+
+
+ 
+
+
+
+     Sec. 65.  RCW 11.98.200 and 1993 c
+339 s 2 are each amended to read as follows:
+
+
+
+     Due to the inherent
+conflict of interest that exists between a trustee and a beneficiary of a
+trust, unless the terms of a trust refer specifically to RCW 11.98.200 through
+11.98.240 and provide expressly to the contrary, the powers conferred upon a
+trustee who is a beneficiary of the trust, other than the trustor as a trustee,
+((and other than the decedent's spouse or the testator's spouse where the
+spouse is the trustee of a trust for which a marital deduction is or was
+otherwise allowed or allowable, whether or not an appropriate marital deduction
+election was in fact made,)) cannot be exercised by the trustee to make:
+
+
+
+     (1) Discretionary
+distributions of either principal or income to or for the benefit of the
+trustee, except to provide for the trustee's health, education, maintenance, or
+support as described under section 2041 or 2514 of the Internal Revenue Code
+and the applicable regulations adopted under that section;
+
+
+
+     (2) Discretionary
+allocations of receipts or expenses as between principal and income, unless the
+trustee acts in a fiduciary capacity whereby the trustee has no power to
+enlarge or shift a beneficial interest except as an incidental consequence of
+the discharge of the trustee's fiduciary duties; or
+
+
+
+     (3) Discretionary
+distributions of either principal or income to satisfy a legal ((support))
+obligation of the trustee.
+
+
+
+     A proscribed power
+under this section that is conferred upon two or more trustees may be exercised
+by the trustees that are not disqualified under this section.  If there is no
+trustee qualified to exercise a power proscribed under this section, a person
+described in RCW 11.96.070 who is entitled to seek judicial proceedings with
+respect to a trust may apply to a court of competent jurisdiction to appoint
+another trustee who would not be disqualified, and the power may be exercised by
+another trustee appointed by the court.  Alternatively, another trustee who
+would not be disqualified may be appointed in accordance with the provisions of
+the trust instrument if the procedures are provided, or as set forth in RCW
+11.98.039 as if the office of trustee were vacant, or by a nonjudicial dispute
+resolution agreement under RCW 11.96.170.
+
+
+
+ 
+
+
+
+     Sec. 66.  RCW 11.98.240 and 1993 c
+339 s 6 are each amended to read as follows:
+
+
+
+     (1)(a)(i) RCW
+11.98.200 and 11.98.210 respectively apply to a trust established under a will,
+codicil, trust agreement, declaration of trust, deed, or other instrument
+executed after July 25, 1993, unless the instrument's terms refer specifically
+to RCW 11.98.200 or 11.98.210 respectively and provide expressly to the
+contrary.  However, except for RCW 11.98.200(3), the 1994 c ... (this act)
+amendments to RCW 11.98.200 apply to a trust established under a will, codicil,
+trust agreement, declaration of trust, deed, or other instrument executed after
+the effective date of this section, unless the instrument's terms refer
+specifically to RCW 11.98.200 and provide expressly to the contrary.
+
+
+
+     (ii) Notwithstanding
+(a)(i) of this subsection, for the purposes of this subsection a codicil to a
+will or an amendment to a trust does not cause that instrument to be executed
+after ((the aforementioned date)) July 25, 1993, unless the
+codicil or amendment clearly shows an intent to have RCW 11.98.200 or 11.98.210
+apply.
+
+
+
+     (b) Notwithstanding
+(a) of this subsection, RCW 11.98.200 and 11.98.210 respectively apply to a
+trust established under a will or codicil of a decedent dying on or after July
+25, 1993, and to an inter vivos trust to which the trustor had on or after July
+25, 1993, the power to terminate, revoke, amend, or modify, unless:
+
+
+
+     (i) The terms of the
+instrument specifically refer to RCW 11.98.200 or 11.98.210 respectively and
+provide expressly to the contrary; or
+
+
+
+     (ii) The decedent or
+the trustor was not competent, on July 25, 1993, to change the disposition of
+his or her property, or to terminate, revoke, amend, or modify the trust, and
+did not regain his or her competence to dispose, terminate, revoke, amend, or
+modify before the date of the decedent's death or before the trust could not
+otherwise be revoked, terminated, amended, or modified by the decedent or
+trustor.
+
+
+
+     (2) RCW 11.98.200
+neither creates a new cause of action nor impairs an existing cause of action
+that, in either case, relates to a power proscribed under RCW 11.98.200 that
+was exercised before July 25, 1993.  RCW 11.98.210 neither creates a new cause
+of action nor impairs an existing cause of action that, in either case, relates
+to a power proscribed, limited, or qualified under RCW 11.98.210.
+
+
+
+ 
+
+
+
+     NEW SECTION.  Sec.
+67.  A new section is added to
+chapter 11.94 RCW to read as follows:
+
+
+
+     (1) The restrictions
+in RCW 11.95.100 through 11.95.150 on the power of a person holding a power of
+appointment apply to attorneys-in-fact holding the power to appoint to or for
+the benefit of the powerholder.
+
+
+
+     (2) This section
+applies retroactively to July 25, 1993.
+
+
+
+ 
+
+
+
+     Sec. 68.  RCW 11.100.035 and 1989 c
+97 s 1 are each amended to read as follows:
+
+
+
+     (1) Within the
+standards of judgment and care established by law, and subject to any express
+provisions or limitations contained in any particular trust instrument,
+guardians, trustees and other fiduciaries, whether individual or corporate, are
+authorized to acquire and retain securities of any open-end or closed-end
+management type investment company or investment trust registered under the
+federal investment company act of 1940 as now or hereafter amended.
+
+
+
+     (2) Within the
+limitations of subsection (1) of this section, whenever the trust instrument
+directs, requires, authorizes, or permits investment in obligations of the
+United States government, the trustee may invest in and hold such obligations
+either directly or in the form of securities of, or other interests in, an
+open-end or closed-end management type investment company or investment trust
+registered under the federal investment company act of 1940, as now or
+hereafter amended, if both of the following conditions are met:
+
+
+
+     (a) The portfolio of
+the investment company or investment trust is limited to obligations of the
+United States and to repurchase agreements fully collateralized by such
+obligations; and
+
+
+
+     (b) The investment
+company or investment trust takes delivery of the collateral for any repurchase
+agreement either directly or through an authorized custodian.
+
+
+
+     (3) If the
+fiduciary is a bank or trust company, then the fact that the fiduciary, or an
+affiliate of the fiduciary, provides services to the investment company or
+investment trust such as that of an investment advisor, custodian, transfer
+agent, registrar, sponsor, distributor, manager, or otherwise, and is receiving
+reasonable compensation for those services does not preclude the bank or trust
+company from investing or reinvesting in the securities of the open-end or
+closed-end management investment company or investment trust.  The fiduciary
+shall furnish a copy of the prospectus relating to the securities to each
+person to whom a regular periodic accounting would ordinarily be rendered under
+the trust instrument or under RCW 11.106.020, upon the request of that person. 
+The restrictions set forth under RCW 11.100.090 may not be construed as
+prohibiting the fiduciary powers granted under this subsection.
+
+
+
+ 
+
+
+
+     Sec. 69.  RCW 82.32.240 and 1988 c
+64 s 21 are each amended to read as follows:
+
+
+
+     Any tax due and unpaid
+and all increases and penalties thereon, shall constitute a debt to the state
+and may be collected by court proceedings in the same manner as any other debt
+in like amount, which remedy shall be in addition to any and all other existing
+remedies.
+
+
+
+     In all cases of
+probate, insolvency, assignment for the benefit of creditors, or bankruptcy,
+involving any taxpayer who is, or decedent who was, engaging in business, the
+claim of the state for said taxes and all increases and penalties thereon shall
+be a lien upon all real and personal property of the taxpayer, and the mere
+existence of such cases or conditions shall be sufficient to create such lien
+without any prior or subsequent action by the state, and in all such cases it
+shall be the duty of all administrators, executors, guardians, receivers,
+trustees in bankruptcy or assignees for the benefit of creditors, to notify the
+department of revenue of such administration, receivership or assignment within
+sixty days from the date of their appointment and qualification.
+
+
+
+     The lien provided for
+by this section shall attach as of the date of the assignment for the benefit
+of creditors or of the initiation of the probate, insolvency, or bankruptcy
+proceedings:  PROVIDED, That this sentence shall not be construed as affecting
+the validity or priority of any earlier lien that may have attached previously
+in favor of the state under any other section of this title.
+
+
+
+     Any administrator,
+executor, guardian, receiver or assignee for the benefit of creditors not
+giving the notification as provided for above shall become personally liable
+for payment of the taxes and all increases and penalties thereon to the extent
+of the value of the property subject to administration that otherwise would
+have been available for the payment of such taxes, increases, and penalties by
+the administrator, executor, guardian, receiver, or assignee.
+
+
+
+     As used in this
+section, "probate" includes the nonprobate claim settlement procedure
+under chapter 11.-- RCW (sections 31 through 48 of this act), and
+"executor" and "administrator" includes any notice agent
+acting under chapter 11.-- RCW (sections 31 through 48 of this act).
+
+
+
+ 
+
+
+
+     Sec. 70.  RCW 83.100.020 and 1993
+c 73 s 9 are each amended to read as follows:
+
+
+
+     As used in this
+chapter:
+
+
+
+     (1)
+"Decedent" means a deceased individual;
+
+
+
+     (2)
+"Department" means the department of revenue, the director of that
+department, or any employee of the department exercising authority lawfully
+delegated to him by the director;
+
+
+
+     (3) "Federal
+credit" means (a) for a transfer, the maximum amount of the credit for
+state taxes allowed by section 2011 of the Internal Revenue Code; and (b) for a
+generation-skipping transfer, the maximum amount of the credit for state taxes
+allowed by section 2604 of the Internal Revenue Code;
+
+
+
+     (4) "Federal
+return" means any tax return required by chapter 11 or 13 of the Internal
+Revenue Code;
+
+
+
+     (5) "Federal
+tax" means (a) for a transfer, a tax under chapter 11 of the Internal
+Revenue Code; and (b) for a generation-skipping transfer, the tax under chapter
+13 of the Internal Revenue Code;
+
+
+
+     (6)
+"Generation-skipping transfer" means a "generation‑skipping
+transfer" as defined and used in section 2611 of the Internal Revenue
+Code;
+
+
+
+     (7) "Gross
+estate" means "gross estate" as defined and used in section 2031
+of the Internal Revenue Code;
+
+
+
+     (8)
+"Nonresident" means a decedent who was domiciled outside Washington
+at his death;
+
+
+
+     (9) "Person"
+means any individual, estate, trust, receiver, cooperative association, club,
+corporation, company, firm, partnership, joint venture, syndicate, or other
+entity and, to the extent permitted by law, any federal, state, or other
+governmental unit or subdivision or agency, department, or instrumentality
+thereof;
+
+
+
+     (10) "Person
+required to file the federal return" means any person required to file a
+return required by chapter 11 or 13 of the Internal Revenue Code, such as the
+personal representative of an estate; or a transferor, trustee, or beneficiary
+of a generation-skipping transfer; or a qualified heir with respect to
+qualified real property, as defined and used in section 2032A(c) of the
+Internal Revenue Code;
+
+
+
+     (11)
+"Property" means (a) for a transfer, property included in the gross
+estate; and (b) for a generation-skipping transfer, all real and personal
+property subject to the federal tax;
+
+
+
+     (12)
+"Resident" means a decedent who was domiciled in Washington at time
+of death;
+
+
+
+     (13)
+"Transfer" means "transfer" as used in section 2001 of the
+Internal Revenue Code, or a disposition or cessation of qualified use as
+defined and used in section 2032A(c) of the Internal Revenue Code; 
+
+
+
+     (14) "Trust"
+means "trust" under Washington law and any arrangement described in
+section 2652 of the Internal Revenue Code; and
+
+
+
+     (15) "Internal
+Revenue Code" means the United States Internal Revenue Code of 1986, as
+amended or renumbered on ((July 25, 1993)) the effective date of this
+section.
+
+
+
+ 
+
+
+
+     Sec. 71.  RCW 83.110.010 and 1993
+c 73 s 10 are each amended to read as follows:
+
+
+
+     As used in this
+chapter, the following terms have the meanings indicated unless the context
+clearly requires otherwise.
+
+
+
+     (1) "Estate"
+means the gross estate of a decedent as determined for the purpose of federal
+estate tax and the estate tax payable to this state;
+
+
+
+     (2) "Excise
+tax" means the federal excise tax imposed by section 4980A(d) of the
+Internal Revenue Code, and interest and penalties imposed in addition to the
+excise tax;
+
+
+
+     (3)
+"Fiduciary" means executor, administrator of any description, and
+trustee;
+
+
+
+     (4) "Internal
+Revenue Code" means the United States Internal Revenue Code of 1986, as
+amended or renumbered on ((July 25, 1993)) the effective date of this
+section;
+
+
+
+     (5) "Person"
+means any individual, partnership, association, joint stock company,
+corporation, government, political subdivision, governmental agency, or local
+governmental agency;
+
+
+
+     (6) "Persons
+interested in retirement distributions" means any person determined as of
+the date the excise tax is due, including a personal representative, guardian,
+trustee, or beneficiary, entitled to receive, or who has received, by reason of
+or following the death of a decedent, any property or interest therein which
+constitutes a retirement distribution as defined in section 4980A(e) of the Internal
+Revenue Code, but this definition excludes any alternate payee under a
+qualified domestic relations order as such terms are defined in section 414(p)
+of the Internal Revenue Code;
+
+
+
+     (7) "Person
+interested in the estate" means any person, including a personal
+representative, guardian, or trustee, entitled to receive, or who has received,
+from a decedent while alive or by reason of the death of a decedent any
+property or interest therein included in the decedent's taxable estate;
+
+
+
+     (8) "Qualified
+heir" means a person interested in the estate who is entitled to receive,
+or who has received, an interest in qualified real property;
+
+
+
+     (9) "Qualified
+real property" means real property for which the election described in
+section 2032A of the Internal Revenue Code has been made;
+
+
+
+     (10) "State"
+means any state, territory, or possession of the United States, the District of
+Columbia, or the Commonwealth of Puerto Rico; and
+
+
+
+     (11) "Tax"
+means the federal estate tax, the excise tax defined in subsection (2) of this
+section, and the estate tax payable to this state and interest and penalties
+imposed in addition to the tax.
+
+
+
+ 
+
+
+
+     NEW SECTION.  Sec.
+72.  The following acts or
+parts of acts are each repealed:
+
+
+
+     (1) RCW 11.12.050 and 1965 c
+145 s 11.12.050;
+
+
+
+     (2) RCW 11.12.090 and 1965 c
+145 s 11.12.090;
+
+
+
+     (3) RCW 11.12.130 and 1965 c
+145 s 11.12.130;
+
+
+
+     (4) RCW 11.12.140 and 1965 c
+145 s 11.12.140;
+
+
+
+     (5) RCW 11.12.150 and 1965 c
+145 s 11.12.150.
+
+
+
+     (6) RCW 11.12.200 and 1965 c
+145 s 11.12.200;
+
+
+
+     (7) RCW 11.12.210 and 1965 c
+145 s 11.12.210;
+
+
+
+     (8) RCW 11.56.015 and 1965 c
+145 s 11.56.015;
+
+
+
+     (9) RCW 11.56.140 and 1965 c
+145 s 11.56.140;
+
+
+
+     (10) RCW 11.56.150 and 1965 c
+145 s 11.56.150;
+
+
+
+     (11) RCW 11.56.160 and 1965 c
+145 s 11.56.160; and
+
+
+
+     (12) RCW 11.56.170 and 1965 c
+145 s 11.56.170.
+
+
+
+ 
+
+
+
+     NEW SECTION.  Sec.
+73.  (1) Sections 4 through 8
+of this act shall constitute a new chapter in Title 11 RCW.
+
+
+
+     (2) Section 19 of this
+act shall constitute a new chapter in Title 11 RCW.
+
+
+
+     (3) Sections 31
+through 48 of this act shall constitute a new chapter in Title 11 RCW.
+
+
+
+ 
+
+
+
+     NEW SECTION.  Sec.
+74.  The 1994 c ... (this act)
+amendments to RCW 11.98.200(3) are remedial in nature and apply retroactively
+to July 25, 1993.
+
+
+
+ 
+
+
+
+     NEW SECTION.  Sec.
+75.  (1) Except as provided in
+section 74 of this act, sections 1 through 72 of this act shall take effect
+January 1, 1995.
+
+
+
+     (2) Section 3 of this
+act is necessary for the immediate preservation of the public peace, health, or
+safety, or support of the state government and its existing public
+institutions, and shall take effect immediately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Passed
+the House March 9, 1994.
+
+
+
+     Passed
+the Senate March 9, 1994.
+
+
+
+Approved by the Governor April 1, 1994.
+
+
+
+     Filed in Office of
+Secretary of State April 1, 1994.
+
+
+
+
+
+
+
+

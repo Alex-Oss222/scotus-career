@@ -1,0 +1,93 @@
+{
+  "case": "Ferguson v. City of Charleston",
+  "date": "2001-03-21",
+  "record": "terms/OT2000/records/Ferguson_v_City_of_Charleston_merits_2001-03-21.md",
+  "record_sha256": "e16bcb815e3825d8be8eca105bd1b0f1b6a062389da5f7c7da2928fad1dc5026",
+  "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
+  "input_hashes": {
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_FERGUSON_FINAL.md": "64338f0e96c675a0bb72975f9a52f8aaea275e9cbd7d8b36798e4b72864cd7ed",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_FERGUSON_REFRESH.md": "7f5c382ef831c194a7039803aca5e7605f7f9de91dfbfe888674ab984d290d8c",
+    "terms/OT2000/freeze/OT_2000CHUNK4_FERGUSON_NEUTRAL_REFRESH.md": "6d41e7e0727b5a562c701b51ffe56bccf0f06106cd8f3eed273bda034ed1a7f4",
+    "terms/OT2000/runtime/OT_2000CHUNK4_FERGUSON_CONTEXT_RETURN.md": "1bd690ea609735d5f831afbcca4ba6795e6235d83273cd306119919779347b0d",
+    "terms/OT2000/freeze/OT_2000CHUNK4_FERGUSON_GRIFFIN_SOURCE.md": "584eb3a57aaa0910b6548c4f28211ebf98e81ccd46b2cbf8402d3ab1747c1fb3"
+  },
+  "legal_checks": {
+    "final_C_release_confirmed_before_Stone": true,
+    "final_commitments_preserved": true,
+    "stone_fixed_core_preserved": true,
+    "kennedy_confined_direct_join": true,
+    "genuine_clinical_function_retained": true,
+    "consent_assumption_not_finding": true,
+    "no_new_preservation_finding": true,
+    "no_fallback": true,
+    "no_blocker": true
+  },
+  "judgment_components": [
+    {
+      "component": "special needs and remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas"
+      ],
+      "counts": [
+        7,
+        2
+      ]
+    }
+  ],
+  "clerical_checks": {
+    "initial_labels": 4,
+    "public_blocks": 11,
+    "projection_identity": true,
+    "explanation_word_counts": [
+      297
+    ],
+    "opinion_table_authors_parse": true,
+    "forbidden_content_scan": true,
+    "natural_key": true,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 4,
+      "O'Connor": 4,
+      "Scalia": 4,
+      "Kennedy": 4,
+      "Souter": 5,
+      "Thomas": 4,
+      "Ginsburg": 5,
+      "Breyer": 4
+    },
+    "last_counted_event": {
+      "date": "2001-03-21",
+      "case": "Egelhoff v. Egelhoff",
+      "record": "Egelhoff_v_Egelhoff_merits_2001-03-21.md"
+    },
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Kennedy"
+  }
+}

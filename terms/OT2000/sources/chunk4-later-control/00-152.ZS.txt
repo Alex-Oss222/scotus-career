@@ -1,0 +1,39 @@
+Source: https://www.law.cornell.edu/supct/html/00-152.ZS.html
+
+LUJAN V. G & G FIRE SPRINKLERS, INC.
+
+LII
+
+Supreme Court
+
+LUJAN V. G & G FIRE SPRINKLERS, INC. (00-152)
+204 F.3d 941, reversed.
+Syllabus
+Opinion
+[ Rehnquist ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+LUJAN, LABOR COMMISSIONER OF CALIFORNIA, et al. v. G & G FIRE SPRINKLERS, INC.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 00—152. Argued February 26, 2001–Decided April 17, 2001
+
+The California Labor Code (Code) authorizes the State to order withholding of payments due a contractor on a public works project if a subcontractor on the project fails to comply with certain Code requirements; permits the contractor, in turn, to withhold similar sums from the subcontractor; and permits the contractor, or his assignee, to sue the awarding body for alleged breach of the contract in not making payment to recover the wages or penalties withheld. After petitioner State Division of Labor Standards Enforcement (DLSE) determined that respondent G & G Fire Sprinklers, Inc. (G & G), as a subcontractor on three public works projects, had violated the Code, it issued notices directing the awarding bodies on those projects to withhold from the contractors an amount equal to the wages and penalties forfeited due to G & G’s violations. The awarding bodies withheld payment from the contractors, who in turn withheld G & G’s payment. G & G filed a 42 U.S.C. § 1983 suit against DLSE and other state petitioners in the District Court, claiming that the issuance of the notices without a hearing deprived it of property without due process in violation of the Fourteenth Amendment. The court granted G & G summary judgment, declared the relevant Code sections unconstitutional, and enjoined the State from enforcing the provisions against G & G. The Ninth Circuit affirmed. This Court granted certiorari, vacated that judgment, and remanded for reconsideration in light of its decision in American Mfrs. Mut. Ins. Co. v. Sullivan, 526 U.S. 40, that the respondents there had no property interest in payment for disputed medical treatment pending review of the treatment’s reasonableness and necessity, as authorized by state law. On remand, the Ninth Circuit reinstated its prior judgment and opinion, explaining that G & G’s rights were violated not because it was deprived of immediate payment, but because the state statutory scheme afforded no hearing at all.
+
+Held: Because state law affords G & G sufficient opportunity to pursue its claim for payment under its contracts in state court, the statutory scheme does not deprive it of due process. In each of this Court’s cases relied upon by the Ninth Circuit, the claimant was denied a right by virtue of which he was presently entitled either to exercise ownership dominion over real or personal property, or to pursue a gainful occupation. See, e.g., United States v. James Daniel Good Real Property, 510 U.S. 43, 62. Unlike those claimants, G & G has not been deprived of any present entitlement. It has been deprived of payment that it contends it is owed under a contract, based on the State’s determination that it failed to comply with the contract’s terms. That property interest can be fully protected by an ordinary breach-of-contract suit. If California makes ordinary judicial process available to G & G for resolving its contractual dispute, that process is due process. Here, the Code, by allowing a contractor to assign the right of suit, provides a means by which a subcontractor may bring a breach-of-contract suit to recover withheld payments. That damages may not be awarded until the suit’s conclusion does not deprive G & G of its claim. Even if G & G could not obtain assignment, it appears that a breach-of-contract suit against the contractor remains available under state common law, although final determination of the question rests in the hands of the California courts. Pp. 5—9.
+
+204 F.3d 941, reversed.
+
+Rehnquist, C. J., delivered the opinion for a unanimous Court.

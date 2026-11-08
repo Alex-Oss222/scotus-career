@@ -1,0 +1,90 @@
+[
+  {
+    "case": "Buford",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/99-9073.ZO.html",
+    "file": "Buford-ZO.txt",
+    "characters": 13354,
+    "sha256": "63b7e979bb7b924f6c238b21f5b801d17ea4dcc6bacc494247347bbebd656c79"
+  },
+  {
+    "case": "TrafFix",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/99-1571.ZO.html",
+    "file": "TrafFix-ZO.txt",
+    "characters": 22106,
+    "sha256": "133680d07e783f3359b5de35642c1c129eae1c0784fd1f8cb0450014fc9d3e52"
+  },
+  {
+    "case": "Circuit-City",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/99-1379.ZO.html",
+    "file": "Circuit-City-ZO.txt",
+    "characters": 31490,
+    "sha256": "e91da61c8fcb410990dc87097705289dbe1be719d8d348e9620e0a20ffc934ae"
+  },
+  {
+    "case": "Circuit-City",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/99-1379.ZD.html",
+    "file": "Circuit-City-ZD.txt",
+    "characters": 20780,
+    "sha256": "2ad3585df500f5b9cf15a786fd7451a4256fb7a3a4d6cb7859c83bc4d7f444a4"
+  },
+  {
+    "case": "Circuit-City",
+    "writing": "ZD1",
+    "url": "https://www.law.cornell.edu/supct/html/99-1379.ZD1.html",
+    "file": "Circuit-City-ZD1.txt",
+    "characters": 15655,
+    "sha256": "2fd086043b205c97f8cb93913418f203b0c2f6516e04dbe99f2f3f617d5e5926"
+  },
+  {
+    "case": "Egelhoff",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/99-1529.ZO.html",
+    "file": "Egelhoff-ZO.txt",
+    "characters": 19892,
+    "sha256": "8db7618499db829608bb95f0a30a0acb0eb99b0d2ca5a9d3f0f857b480465da9"
+  },
+  {
+    "case": "Egelhoff",
+    "writing": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/99-1529.ZC.html",
+    "file": "Egelhoff-ZC.txt",
+    "characters": 1928,
+    "sha256": "bcbae5b69209b165ca4fce3a9fbb933e7fd38eabc18b357282e4b439818c5a71"
+  },
+  {
+    "case": "Egelhoff",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/99-1529.ZD.html",
+    "file": "Egelhoff-ZD.txt",
+    "characters": 17601,
+    "sha256": "9e99d49d462851357680ea4e4ef6898bf04495d4fb474967866622c4515a4232"
+  },
+  {
+    "case": "Ferguson",
+    "writing": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/99-936.ZO.html",
+    "file": "Ferguson-ZO.txt",
+    "characters": 39287,
+    "sha256": "78f75aad05df65f4545688bd1accfaa32774e9446b685022ace040356c5ed790"
+  },
+  {
+    "case": "Ferguson",
+    "writing": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/99-936.ZC.html",
+    "file": "Ferguson-ZC.txt",
+    "characters": 11433,
+    "sha256": "f6241b458e524b509cf3f62b3840324c92d51373967ac75d3e890481d2de537a"
+  },
+  {
+    "case": "Ferguson",
+    "writing": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/99-936.ZD.html",
+    "file": "Ferguson-ZD.txt",
+    "characters": 28067,
+    "sha256": "9ae0fca87d99a632698b9534a3b93d3a7d76cf9227d701588dfa569dfe128b13"
+  }
+]

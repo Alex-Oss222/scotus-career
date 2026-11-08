@@ -1,0 +1,606 @@
+{
+  "target": {
+    "date": "2001-04-17",
+    "case": "Lujan v. G & G Fire Sprinklers, Inc."
+  },
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 5,
+    "Souter": 5,
+    "Thomas": 4,
+    "Ginsburg": 5,
+    "Breyer": 5
+  },
+  "last_counted_event": {
+    "date": "2001-04-02",
+    "case": "Wallis v. Spencer; Ninth Circuit",
+    "record": "Wallis_v_Spencer_merits_2001-04-02.md"
+  },
+  "counted_events": 42,
+  "counted_leads": 42,
+  "counted_records": [
+    {
+      "date": "2000-11-07",
+      "case": "Artuz v. Bennett",
+      "record": "Artuz_v_Bennett_merits_2000-11-07.md",
+      "record_sha256": "b36dfd3f1935b9a9c9cd111d78868bb85ec2af2f49a8a29397af815687a4a21c",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Affirmance, 9–0 | Entire opinion and sole controlling holding |"
+      ]
+    },
+    {
+      "date": "2000-11-07",
+      "case": "Cleveland v. United States",
+      "record": "Cleveland_v_United_States_merits_2000-11-07.md",
+      "record_sha256": "182ef551f0c38a3ac249d52997763e99d9c1df52dc3f0dcdda2fa23c905b2cfc",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Reversal and remand, 9–0 | Both statutory answers, renewal application, and count-specific remedy |"
+      ]
+    },
+    {
+      "date": "2000-11-27",
+      "case": "Wasson v. Sonoma County Junior College; Ninth Circuit",
+      "record": "Wasson_v_Sonoma_County_Junior_College_merits_2000-11-27.md",
+      "record_sha256": "6a4697ce34b4e7248a2dcb7f374a6aa3baf97168c41515e94ebf4529148c36db",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Affirmance, 8–1 | Entire immunity ground and constitutional reservation |"
+      ]
+    },
+    {
+      "date": "2000-11-28",
+      "case": "City of Indianapolis v. Edmond",
+      "record": "City_of_Indianapolis_v_Edmond_merits_2000-11-28.md",
+      "record_sha256": "3ce1227acfc06e219ca73f1670ecd034ae035ccff9349c89b083af2a2b854abe",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Affirmance and preliminary prospective relief, 7–2 | Entire opinion |"
+      ]
+    },
+    {
+      "date": "2000-11-28",
+      "case": "Eastern Associated Coal Corp. v. United Mine Workers of America",
+      "record": "Eastern_Associated_Coal_v_United_Mine_Workers_merits_2000-11-28.md",
+      "record_sha256": "b7f0e5331688e71c1f001e1c498a2008c8650589e941e7832ecf1f7e19307484",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Affirmance, 9–0 | Entire sufficient public-policy ground, complete award, and remedy |"
+      ]
+    },
+    {
+      "date": "2000-12-11",
+      "case": "Daggett v. Commission on Governmental Ethics & Election Practices; consolidated First Circuit",
+      "record": "Daggett_v_Commission_on_Governmental_Ethics_merits_2000-12-11.md",
+      "record_sha256": "60fd4296e9b51f82598d974f2a5def79c4d1d68789b5685d54c5525719f7a1e2",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Sustain contribution limit, 6–3 | State burden, close fit, and record application |",
+        "| Opinion of the Court, Part II | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Sustain each responsive trigger, 5–4 | Candidate-financing trigger and independent-expenditure trigger |",
+        "| Opinion of the Court, Part III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Reject additional systemwide ground; six merits votes | O'Connor retains her independent matching objection; Scalia, Kennedy, Thomas do not reach this additional theory |"
+      ]
+    },
+    {
+      "date": "2000-12-11",
+      "case": "Green Tree Financial Corp.-Alabama v. Randolph",
+      "record": "Green_Tree_Financial_v_Randolph_merits_2000-12-11.md",
+      "record_sha256": "13967b6f9d391a34efe4076e4f4ce0468c731a4fba2316fa6f669a519652b1d5",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Part I | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirm finality, 9–0 | Complete dismissal is appealable |",
+        "| Opinion of the Court, Part II-A | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common propositions underlying both cost dispositions | Silence alone is insufficient; genuinely prohibitive costs can obstruct statutory rights |",
+        "| Opinion of the Court, Part II-B | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Vacate categorical ruling and require focused inquiry, 5–4 | Actual forum, allocation, and financial access before disposition of this cost objection |"
+      ]
+    },
+    {
+      "date": "2000-12-12",
+      "case": "Bush v. Gore",
+      "record": "Bush_v_Gore_merits_2000-12-12.md",
+      "record_sha256": "c069374eb602c5922f549a06f0bc143c520cc9c8e1fd6f48e838207a3d772543",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Part I | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | All nine exercise review; Stone-Zsela agrees in disposition only | Cox threshold and presented scope; eight on reasons |",
+        "| Opinion of the Court, Part II | Souter | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Breyer | Seven find unequal treatment; Stevens and Ginsburg disagree | Materially comparable ballots and the supported defect |",
+        "| Opinion of the Court, Part III | Souter | Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Seven reject independent Article II reversal; Stone-Zsela agrees in disposition only; Scalia and Thomas oppose | Ordinary statutory construction and no proved legislative displacement; six on reasons |",
+        "| Opinion of the Court, Part IV | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | All nine reject separate due-process reversal; Stone-Zsela agrees in disposition only | Unsupported fundamental unfairness; eight on reasons |",
+        "| Opinion of the Court, Part V-A | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Common calendar rule across all chosen dispositions | Section 5 benefit differs from a counting prohibition; section 7 meeting unchanged |",
+        "| Opinion of the Court, Part V-B | Souter | Stone-Zsela, O'Connor, Kennedy, Breyer | Five choose corrective vacatur and immediate remand | Defined equality correction, accurate figures, lawful authority and actual feasibility |",
+        "| Opinion of the Court, Part V-C | Souter | Stone-Zsela, Stevens, Ginsburg, Breyer | Five reject imposing a terminal state-law construction; Stevens and Ginsburg still oppose vacatur | State court must resolve the precise timing consequence; no authorization beyond state law |"
+      ]
+    },
+    {
+      "date": "2000-12-12",
+      "case": "Mariani v. United States; Third Circuit",
+      "record": "Mariani_v_United_States_merits_2000-12-12.md",
+      "record_sha256": "3aacca8a76404dc7fd1767eb1c52dceaddf7cb4f486a206b1c0dbea076af98f8",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Part I | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | All nine reach the questions; Stone-Zsela agrees in threshold disposition only | Statutory eligibility, Article III, independent substantiality, and §1254(1) route; eight on reasons |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Affirm categorical corporate answer, 6–3 | Direct business-corporation treasury contributions to federal candidates under the complete statutory channels |",
+        "| Opinion of the Court, Part III | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Affirm distinct soft-money answer, 6–3 | Actual comparison, direct-transfer risk, and close fit |",
+        "| Opinion of the Court, Part IV | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirm independent false-source answer, 9–0 | Three actual clauses, presented constitutional objections and alleged knowing conduct; knowledge and harassment protections preserved |"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Brewer v. West Irondequoit Central School District; 212 F.3d 738; no separate Supreme Court docket supplied.",
+      "record": "Brewer_v_West_Irondequoit_Central_School_District_merits_2001-01-09.md",
+      "record_sha256": "43c044d5e7dc2b6efcb5b94e7d09d66add53d3a2c11f6c64512136bbef2b1882",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Parts I and III | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Corrected mandate, 7–2 | Common standard, actual burden, record application and bounded preliminary-relief remand |",
+        "| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Same judgment | Affirmative supported-integration objective; six joins |"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Gitlitz v. Commissioner",
+      "record": "Gitlitz_v_Commissioner_merits_2001-01-09.md",
+      "record_sha256": "60bfd03b0761b6439c945fb643caa1a23cb322e6612c7c53a5f88f281b24ade3",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Reversal and remand, 8–1 | Income/pass-through, basis and current loss calculation, and subsequent corporate attribute reduction |"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Glover v. United States",
+      "record": "Glover_v_United_States_merits_2001-01-09.md",
+      "record_sha256": "44c07f2bfb6763ef1d50942b6de28c71d4bb2dd143cf1512e0fbf62602cb1cdd",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Both prejudice questions and the reversal and remand; full joins |"
+      ]
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers",
+      "record": "Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md",
+      "record_sha256": "26dcda08e1dac5a3d56a189c7420586ddc766854e96e35bcc6c3b9fdaa17f99d",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas | Reversal and remand, 5–4 | Confined statutory exclusion; contingent Commerce question not reached |"
+      ]
+    },
+    {
+      "date": "2001-01-10",
+      "case": "Lopez v. Davis",
+      "record": "Lopez_v_Davis_merits_2001-01-10.md",
+      "record_sha256": "96e0ae565cced9d0a436da2c0d45a7b6f7ac8c939082a7b380b0754135fcdfcf",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Thomas | O'Connor, Scalia, Souter, Ginsburg, Breyer | Affirmance, 6–3 | Bounded categorical discretion, firearm-related safety ground and statutory qualifications |"
+      ]
+    },
+    {
+      "date": "2001-01-17",
+      "case": "Denius v. Dunlap; Seventh Circuit",
+      "record": "Denius_v_Dunlap_merits_2001-01-17.md",
+      "record_sha256": "e158261b124e9d4204c4427a88173fac5054cbf0965392d65592215b58c98674",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Seven adopt the legal-consultation rule and equitable remand |",
+        "| Opinion of the Court, Part II | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Seven adopt bounded intimate-information acquisition protection and the medical and financial equitable dispositions |",
+        "| Opinion of the Court, Part III | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Eight preserve qualified immunity and affirm attorney and financial damages immunity |",
+        "| Opinion of the Court, Part IV | Kennedy | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six adopt the conduct-date medical-notice ground; Stone-Zsela concurs only in this judgment component |"
+      ]
+    },
+    {
+      "date": "2001-01-17",
+      "case": "Seling v. Young",
+      "record": "Seling_v_Young_merits_2001-01-17.md",
+      "record_sha256": "c992cf0a06d8b4bb03aaa0600f4b25f685f292ae60298f783a2639c49371403a",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Scoped affirmance and further proceedings, 9–0 | Punitive-operation inquiry, former-law treatment, distinct temporal and double-jeopardy predicates, custody/conditions remedies |"
+      ]
+    },
+    {
+      "date": "2001-01-22",
+      "case": "Kansas v. United States; Tenth Circuit",
+      "record": "Kansas_v_United_States_merits_2001-01-22.md",
+      "record_sha256": "e9897492d0c7c1c9bdb55a5ca87317231427a8ffd72f371951570d96cb84ad47",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirmance of reviewed dismissal, 9–0 | Genuine program choice, pleading application and actual statutory qualifications; no separate individual-rights or sanction ruling |"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Brentwood Academy v. Tennessee Secondary School Athletic Association",
+      "record": "Brentwood_Academy_v_Tennessee_Secondary_School_Athletic_Association_merits_2001-02-20.md",
+      "record_sha256": "690c3da5850ea1b32d120fd2b17c43b80518a882773971658eb47adf32916985",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer | Reversal and remand, 6–3 | Actual official operation, attribution and limited remand |"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Director of Revenue of Missouri v. CoBank ACB",
+      "record": "Director_of_Revenue_of_Missouri_v_CoBank_ACB_merits_2001-02-20.md",
+      "record_sha256": "6ca14e8d5557dc930fd5ddace7e2f1a96f46bdf9d041c9d48e32dee81faeba41",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and remand, 9–0 | Complete entity-specific statutory allocation, retained exemptions and limited remedy |"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Illinois v. McArthur",
+      "record": "Illinois_v_McArthur_merits_2001-02-20.md",
+      "record_sha256": "5045d8f166ddbf4cacdeffe26e3e0c6d6b0e3d1823ceebd522fe4645de170442",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Kennedy | O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Reversal and remand, 7–2 | Particularized preservation need, limited execution, diligence and confined suppression remedy |"
+      ]
+    },
+    {
+      "date": "2001-02-20",
+      "case": "Urofsky v. Gilmore; Fourth Circuit",
+      "record": "Urofsky_v_Gilmore_merits_2001-02-20.md",
+      "record_sha256": "1b1f5bdfa52e3aa86725756ddea6f1967ff17df450425ec9e9677c53756b84c7",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common threshold and general-component disposition, 9–0 | Reach the condition challenge; no universal entitlement or wholesale decree |",
+        "| Opinion of the Court, Part II | Ginsburg | Stone-Zsela, Stevens, Kennedy, Souter, Breyer | Common scholarly-interest and justification rule; six joins | Function and context, prospective burden, institutional limits and complete statutory qualifications |",
+        "| Opinion of the Court, Part III | Ginsburg | Stevens, Kennedy, Souter, Breyer | Five-vote vacatur and remand of the faculty claim | Existing-record application and confined relief only after an established violation |"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Board of Trustees of the University of Alabama v. Garrett",
+      "record": "Board_of_Trustees_of_University_of_Alabama_v_Garrett_merits_2001-02-21.md",
+      "record_sha256": "f5d1799fc392ecbbb37f7aafc05bebdd8b54fd0012aecf01a27bb0d504fd54f3",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Affirmance, 5–4 | Entire opinion; statutory authorization and independent Article I and Section 5 grounds |"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Buckman Co. v. Plaintiffs' Legal Committee",
+      "record": "Buckman_Co_v_Plaintiffs_Legal_Committee_merits_2001-02-21.md",
+      "record_sha256": "d2a5eb63b268bc73884cc551bdd2a78bef31f8c30d25fec2aa814e8f2106bc1b",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | Entire opinion; actual conflict expressly dependent on the absence of an authoritative FDA fraud-and-action predicate |"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Central Green Co. v. United States",
+      "record": "Central_Green_Co_v_United_States_merits_2001-02-21.md",
+      "record_sha256": "cc513370fad65866c97193847164d9af28d3cf583b322177004ed80bbade6d0f",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous reversal and remand | Entire water-specific immunity rule, treatment of James and factual remand |"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "Lewis v. Lewis & Clark Marine, Inc.",
+      "record": "Lewis_v_Lewis_and_Clark_Marine_merits_2001-02-21.md",
+      "record_sha256": "ae8c0e064f3b086c380b80c4fae2edca4f5f50bdd11800b4801fd25165a5f2bf",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | Entire saved-remedy, limitation-protection and permissible-dissolution rationale |"
+      ]
+    },
+    {
+      "date": "2001-02-21",
+      "case": "United States v. Tank; judgment below 200 F.3d 627 (9th Cir. 2000); no separate Supreme Court docket supplied.",
+      "record": "United_States_v_Tank_merits_2001-02-21.md",
+      "record_sha256": "4fb63b40227c36cb8dd90946683c0455c9829801076d7f85aa9a52e0d806cd07",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous scoped affirmance | Entire Rule 901 foundation ruling and preservation of the independent sentencing remand |"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "case": "Freedom From Religion Foundation, Inc. v. City of Marshfield; Seventh Circuit",
+      "record": "Freedom_From_Religion_Foundation_v_City_of_Marshfield_merits_2001-02-27.md",
+      "record_sha256": "470e3611001b9433ac962ae6947cba05ea6f8fa8b45cc6baa92bfe4a9ae49f10",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Affirmance, 6–3 | Entire opinion; attribution and corrective relief |"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "case": "Semtek International Inc. v. Lockheed Martin Corp.",
+      "record": "Semtek_International_v_Lockheed_Martin_merits_2001-02-27.md",
+      "record_sha256": "1354804f69418a2c5002c1c88aab50a75e7a56ac92cf4d355a304f81e31eecba",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand, 9–0 | Entire opinion; federal source, incorporated state content, Rule 41 scope and remand |"
+      ]
+    },
+    {
+      "date": "2001-02-27",
+      "case": "Whitman v. American Trucking Associations, Inc. / American Trucking Associations, Inc. v. Whitman",
+      "record": "Whitman_v_American_Trucking_Associations_merits_2001-02-27.md",
+      "record_sha256": "1026e9f9c04b323a332cf3879a37eb6b1a0ab7776400a0876569405662a6f400",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, cost holding: operative rules and standard/implementation distinction | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela for primary standards | Affirm costs in No. 99-1426 | Nine direct supporters of primary rule; eight of secondary rule. Stone-Zsela concurs only in the secondary-standard judgment |",
+        "| Opinion of the Court, adequate guidance and no agency cure | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Reverse delegation ruling | All nine join both operative propositions and common explanation |",
+        "| Opinion of the Court, independent implementation finality/ripeness, question scope, and implementation merits/remedy | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Sustain review and reject implementation interpretation | All nine join in full |",
+        "| Opinion of the Court, independently sufficient final-standard review route | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Additional sufficient basis for review | Eight direct joins; Stone-Zsela does not join this alternative ground |"
+      ]
+    },
+    {
+      "date": "2001-02-28",
+      "case": "Cook v. Gralike",
+      "record": "Cook_v_Gralike_merits_2001-02-28.md",
+      "record_sha256": "10497b654c889627e28e6eb091b8990169aa7f437003e8bdb59c893e9507cacc",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, constitutional source rule | Stevens | Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg, Breyer | Supports affirmance | Seven direct supporters of the Elections Clause source proposition |",
+        "| Opinion of the Court, official policy-compliance labels | Stevens | Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports affirmance | Eight support the application; Thomas proceeds on the parties' conceded source premise |",
+        "| Opinion of the Court, existing decree | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela as to label relief | Preserves sections 15–19 injunction | Eight directly support the full decree account. Stone-Zsela agrees only in the judgment on the residual sections 15–16 scope |"
+      ]
+    },
+    {
+      "date": "2001-02-28",
+      "case": "Legal Services Corp. v. Velazquez / United States v. Velazquez",
+      "record": "Legal_Services_Corp_v_Velazquez_merits_2001-02-28.md",
+      "record_sha256": "07aeb03467ef59eeb371c709c91d559fee85b669596e412e68488603b87b3c63",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, Kennedy, Souter, Breyer | Affirmance in both dockets, 6–3 | Entire independent-advocacy holding and scope-limited preservation of existing excision |"
+      ]
+    },
+    {
+      "date": "2001-03-05",
+      "case": "Department of the Interior v. Klamath Water Users Protective Association",
+      "record": "Department_of_the_Interior_v_Klamath_Water_Users_Protective_Association_merits_2001-03-05.md",
+      "record_sha256": "ae858228360d8db4d92807c1a960b510513767afe17be0a086fdc2dd2565c1cd",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Affirmance, 9–0 | Both holdings and remedy in full |"
+      ]
+    },
+    {
+      "date": "2001-03-19",
+      "case": "United States v. Hilario; judgment below 218 F.3d 19; no separate Supreme Court docket supplied.",
+      "record": "United_States_v_Hilario_merits_2001-03-19.md",
+      "record_sha256": "6b726cbb23ca5a8f616bdf142a7195c38b480e2bba8641701a0e6368c7353d64",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg | Affirmance, 9–0 | Entire opinion |"
+      ]
+    },
+    {
+      "date": "2001-03-20",
+      "case": "Buford v. United States",
+      "record": "Buford_v_United_States_merits_2001-03-20.md",
+      "record_sha256": "642e6fe27cdb230f9d018684ba986be0d0b82d9bd996bcab40514c1659f1283a",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Complete rule, explanation, application and affirmance |"
+      ]
+    },
+    {
+      "date": "2001-03-20",
+      "case": "Shafer v. South Carolina",
+      "record": "Shafer_v_South_Carolina_merits_2001-03-20.md",
+      "record_sha256": "7b952cf3d847783ea0039b9dcb93c466152c30c4cb6cf7fc91f06520fda85f04",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer | Reversal and remand | All three holdings, explanations, qualifications and remedy in full |"
+      ]
+    },
+    {
+      "date": "2001-03-20",
+      "case": "TrafFix Devices, Inc. v. Marketing Displays, Inc.",
+      "record": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md",
+      "record_sha256": "3c90aeab09769ee7b47db32214e7b372ebf3fdf0b3f53ab5c4aa09273cb1f353",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Complete functionality rule, application and confined reversal/remand |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Circuit City Stores, Inc. v. Adams",
+      "record": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md",
+      "record_sha256": "101ee00c8c9f92d76d97fd52152846a8cd3a3c9b76afc098f4d462eabc2c50a1",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer | Complete section 1 rule, explanation, application and affirmance |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Egelhoff v. Egelhoff",
+      "record": "Egelhoff_v_Egelhoff_merits_2001-03-21.md",
+      "record_sha256": "2064fed160c38e3fc7c8285a1f79968496ecf8ab82f284d4e8c8622a085b83bb",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas | Entire specific substitution rule, both benefit applications and reversal/remand |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Ferguson v. City of Charleston",
+      "record": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md",
+      "record_sha256": "e16bcb815e3825d8be8eca105bd1b0f1b6a062389da5f7c7da2928fad1dc5026",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Entire confined actual-operation rule, consent limits and reversal/remand |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit",
+      "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
+      "record_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+      ]
+    },
+    {
+      "date": "2001-04-02",
+      "case": "Texas v. Cobb",
+      "record": "Texas_v_Cobb_merits_2001-04-02.md",
+      "record_sha256": "d7c39cf866346d079fca7f60d9cb36298687d3f22ded3432144c38ca8d16a0a6",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter and Ginsburg | Complete connected-episode rule, application of the existing waiver protection, and affirmance |"
+      ]
+    },
+    {
+      "date": "2001-04-02",
+      "case": "Wallis v. Spencer; Ninth Circuit",
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "record_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Parts I, II.A and III | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Necessary removal protections, municipal policy/fault/causation, examination threshold and distinct consequential-injury route |",
+        "| Opinion of the Court, Parts II.B and IV | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | City's federal-immunity defenses and state-law remand grounds; Stone-Zsela supports these dispositions without adding grounds |"
+      ]
+    }
+  ],
+  "excluded_records": [
+    {
+      "date": "2000-10-10",
+      "case": "Arizona v. California",
+      "record": "Arizona_v_California_supplemental-decree_2000-10-10.md",
+      "record_sha256": "2a86de6952f2579bbca1a21db525598b59aa044eb43261de496c1500a301f309",
+      "reason": "No signed lead in the internal opinion table."
+    },
+    {
+      "date": "2000-11-27",
+      "case": "Sinkfield v. Kelley",
+      "record": "Sinkfield_v_Kelley_merits_2000-11-27.md",
+      "record_sha256": "de15e95c61d1a8a279feefae9bc2ab97f669da233a924fb53ea58286ae840954",
+      "reason": "No signed lead in the internal opinion table."
+    },
+    {
+      "date": "2000-12-04",
+      "case": "Bush v. Palm Beach County Canvassing Board",
+      "record": "Bush_v_Palm_Beach_County_Canvassing_Board_merits_2000-12-04.md",
+      "record_sha256": "ad7e7caf68619ba3cf0f9477fdcab610a3a85c8fae00f42c9732eb6e103da7ee",
+      "reason": "No signed lead in the internal opinion table."
+    },
+    {
+      "date": "2001-01-09",
+      "case": "Fiore v. White",
+      "record": "Fiore_v_White_merits_2001-01-09.md",
+      "record_sha256": "105e08f677bce261247fe1fc268c1c8af097e909059f55348dcedaa2cbe2c592",
+      "reason": "No signed lead in the internal opinion table."
+    },
+    {
+      "date": "2001-01-17",
+      "case": "City News & Novelty, Inc. v. City of Waukesha",
+      "record": "City_News_and_Novelty_v_City_of_Waukesha_mootness-dismissal_2001-01-17.md",
+      "record_sha256": "b430a33983bea69c3845bb8f721d3a33dfb09634cc745fe05650f19bf9cdfbf9",
+      "reason": "No signed lead in the internal opinion table."
+    },
+    {
+      "date": "2001-01-17",
+      "case": "District of Columbia v. Tri County Industries, Inc.",
+      "record": "District_of_Columbia_v_Tri_County_Industries_dig_2001-01-17.md",
+      "record_sha256": "501110ba77eedc7101851b9c9a9445a16af13f202d081ebc3ad6eb4541c21067",
+      "reason": "No signed lead in the internal opinion table."
+    },
+    {
+      "date": "2001-03-19",
+      "case": "Ohio v. Reiner",
+      "record": "Ohio_v_Reiner_summary-disposition_2001-03-19.md",
+      "record_sha256": "1a5a2311e98cddfd1fa16dd5529e2546aa73505de3a96c74ec7dfb6ae169864d",
+      "reason": "No signed lead in the internal opinion table."
+    }
+  ]
+}

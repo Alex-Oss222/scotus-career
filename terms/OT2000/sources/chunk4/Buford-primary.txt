@@ -1,0 +1,310 @@
+=== PDF PAGE 1 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+59OCTOBER TERM, 2000
+Syllabus
+BUFORD v. UNITED STATES
+certiorari to the united states court of appeals for
+the seventh circuit
+No. 99–9073. Argued January 8, 2001—Decided March 20, 2001
+The United States Sentencing Guidelines, as relevant here, deﬁne a career
+offender as one with at least two prior felony convictions for violent or
+drug-related crimes and provide that a sentencing judge must count as
+a single prior conviction all “related” convictions, advising that they are
+“related” when, inter alia, they were consolidated for sentencing. The
+Seventh Circuit has held that because two prior convictions might have
+been consolidated for sentencing, and hence related, even if a sentencing
+court did not enter a formal consolidation order, a court should decide
+whether such convictions were nonetheless functionally consolidated,
+meaning that they were factually or logically related and sentencing
+was joint. Petitioner Buford pleaded guilty to armed bank robbery.
+At sentencing, the Government conceded that her four prior robbery
+convictions were related, but did not concede that her prior drug convic-
+tion was related to the robberies. The District Court decided that the
+drug and robbery cases had not been consolidated, either formally or
+functionally, and the Seventh Circuit afﬁrmed, reviewing the District
+Court’s decision deferentially rather than de novo.
+Held: Deferential review is appropriate when an appeals court reviews a
+trial court’s Sentencing Guideline determination as to whether an of-
+fender’s prior convictions were consolidated for sentencing. The rele-
+vant federal sentencing statute requires a reviewing court not only to
+“accept” a district court’s “ﬁndings of fact” (unless “clearly erroneous”),
+but also to “give due deference to the court’s application of the guide-
+lines to the facts.” 18 U. S. C. § 3742(e) (emphasis added). The “defer-
+ence that is due depends on the nature of the question presented.”
+Koon v. United States, 518 U. S. 81, 98. Although Buford argues that
+the nature of the question here—applying a Guideline term to undis-
+puted facts—demands no deference at all, the district court is in a better
+position than the appellate court to decide whether individual circum-
+stances demonstrate functional consolidation. Experience with trials,
+sentencing, and consolidation procedures will help a district judge draw
+the proper inferences from the procedural descriptions provided. In
+addition, factual nuance may closely guide the legal decision, with legal
+results depending heavily upon an understanding of the signiﬁcance of
+case-speciﬁc details. And the decision’s fact-bound nature limits the
+
+=== PDF PAGE 2 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+60 BUFORD v. UNITED STATES
+Opinion of the Court
+value of appellate court precedent, which may provide only minimal help
+when other courts consider other procedural circumstances, state
+systems, and crimes. Insofar as greater uniformity is necessary, the
+Sentencing Commission can provide it. Pp. 63–66.
+201 F. 3d 937, afﬁrmed.
+Breyer, J ., delivered the opinion for a unanimous Court.
+Dean A. Strang argued the cause for petitioner. With
+him on the briefs were Brian P . Mullins and Robert A.
+Kagen.
+Paul R. Q. Wolfson argued the cause for the United
+States. With him on the brief were Solicitor General Wax-
+man, Assistant Attorney General Robinson, and Deputy
+Solicitor General Dreeben.
+Justice Breyer delivered the opinion of the Court.
+This case raises a narrow question of sentencing law.
+What standard of review applies when a court of appeals
+reviews a trial court’s Sentencing Guideline determination as
+to whether an offender’s prior convictions were consolidated,
+hence “related,” for purposes of sentencing? In particular,
+should the appeals court review the trial court’s decision def-
+erentially or de novo? We conclude, as did the Court of Ap-
+peals, that deferential review is appropriate, and we afﬁrm.
+I
+A
+The trial court decision at issue focused on one aspect of
+the United States Sentencing Guidelines’ treatment of “ca-
+reer offenders,” a category of offender subject to particularly
+severe punishment. The Guidelines deﬁne a “career of-
+fender” as an offender with “at least two prior felony con-
+victions” for violent or drug-related crimes. United States
+Sentencing Commission, Guidelines Manual § 4B1.1 (Nov.
+2000) (USSG). At the same time, they provide that a sen-
+tencing judge must count as a single prior felony conviction
+
+=== PDF PAGE 3 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+61Cite as: 532 U. S. 59 (2001)
+Opinion of the Court
+all those that are “related” to one another. USSG § 4B1.2(c),
+and comment., n. 3; § 4A1.2(a)(2). And they advise (in an
+application note) that prior convictions are “related” to one
+another when, inter alia, they “were consolidated for...
+sentencing.” § 4A1.2, comment., n. 3.
+The Seventh Circuit has reﬁned this “prior conviction”
+doctrine yet further. It has held that two prior convictions
+might have been “consolidated for sentencing,” and hence
+“related,” even if the sentencing court did not enter any for-
+mal order of consolidation. See United States v. Joseph, 50
+F. 3d 401, 404, cert. denied, 516 U. S. 847 (1995). In such an
+instance, the Circuit has said, a court should decide whether
+the convictions were nonetheless “ functionally consoli-
+dated,” which means that the convictions were “factually or
+logically related, and sentencing was joint.” 201 F. 3d 937,
+940 (2000) (emphasis added).
+B
+This case concerns “functional consolidation.” Paula Bu-
+ford pleaded guilty to armed bank robbery, a crime of vio-
+lence, in federal court. The federal sentencing judge had
+to decide whether Buford’s ﬁve 1992 Wisconsin state-court
+convictions were “related” to one another, and consequently
+counted as one single prior conviction, or whether they
+should count as more than one.
+The Government conceded that four of the ﬁve prior con-
+victions were “related” to one another. These four involved
+a series of gas station robberies. All four had been the sub-
+ject of a single criminal indictment, and Buford had pleaded
+guilty to all four at the same time in the same court. See
+USSG § 4A1.2, comment., n. 3 (prior offenses are “related” if
+“consolidated for trial or sentencing”).
+The Government did not concede, however, that the ﬁfth
+conviction, for a drug crime, was “related” to the other four.
+The drug crime (possession of, with intent to deliver, co-
+caine) had taken place about the same time as the fourth
+
+=== PDF PAGE 4 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+62 BUFORD v. UNITED STATES
+Opinion of the Court
+robbery, and Buford claimed that the robberies had been mo-
+tivated by her drug addiction. But the only evidentiary link
+among the crimes was that the police had discovered the
+cocaine when searching Buford’s house after her arrest for
+the robberies. Moreover, no formal order of consolidation
+had been entered. The State had charged the drug offense
+in a separate indictment and had assigned a different prose-
+cutor to handle the drug case. A different judge had heard
+Buford plead guilty to the drug charge in a different hearing
+held on a different date; two different state prosecutors had
+appeared before the sentencing court, one discussing drugs,
+the other discussing the robberies; and the sentencing court
+had entered two separate judgments.
+Buford, without denying these facts, nonetheless pointed
+to other circumstances that, in her view, showed that the
+drug crime conviction had been “consolidated” with the rob-
+bery convictions for sentencing, rendering her drug convic-
+tion and robbery convictions “related.” She pointed out
+that the State had sent the four robbery cases for sentencing
+to the very same judge who had heard and accepted her plea
+of guilty to the drug charge; that the judge had heard argu-
+ments about sentencing in all ﬁve cases at the same time in
+a single proceeding; that the judge had issued sentences for
+all ﬁve crimes at the same time; and that the judge, having
+imposed three sentences for the ﬁve crimes (6 years for the
+drug crime, 12 years for two robberies, and 15 years for the
+other two), had ordered all three to run concurrently.
+The District Court, placing greater weight on the former
+circumstances than on the latter, decided that the drug case
+and the robbery cases had not been consolidated for sentenc-
+ing, either formally or functionally. Buford appealed. The
+Court of Appeals found the “functional consolidation” ques-
+tion a close one, and wrote that “the standard of appellate
+review may be dispositive.” 201 F. 3d, at 940. It decided
+to review the District Court’s decision “deferentially” rather
+
+=== PDF PAGE 5 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+63Cite as: 532 U. S. 59 (2001)
+Opinion of the Court
+than “de novo. ” Id., at 942. And it afﬁrmed that decision.
+Ibid.
+Buford sought certiorari. In light of the different Cir-
+cuits’ different approaches to the problem, we granted the
+writ. Compare United States v. Irons, 196 F. 3d 634, 638
+(CA6 1999) (relatedness decision reviewed for clear error);
+United States v. Wiseman, 172 F. 3d 1196, 1219 (CA10)
+(same), cert. denied, 528 U. S. 889 (1999); United States v.
+Mapp, 170 F. 3d 328, 338 (CA2) (same), cert. denied, 528 U. S.
+901 (1999); United States v. Maza, 93 F. 3d 1390, 1400 (CA8
+1996) (same), cert. denied, 519 U. S. 1138 (1997); United
+States v. Mullens, 65 F. 3d 1560, 1565 (CA11 1995), cert. de-
+nied, 517 U. S. 1112 (1996) (same), with United States v. Gar-
+cia, 962 F. 2d 479, 481 (CA5) (relatedness determination re-
+viewed de novo), cert. denied, 506 U. S. 902 (1992); United
+States v. Davis, 922 F. 2d 1385, 1388 (CA9 1991) (same).
+II
+In arguing for de novo review, Buford points out that she
+has not contested any relevant underlying issue of fact. She
+disagrees only with the District Court’s legal conclusion that
+a legal label—“functional consolidation”—failed to ﬁt the un-
+disputed facts. She concedes, as she must, that this circum-
+stance does not dispose of the standard of review question.
+That is because the relevant federal sentencing statute re-
+quires a reviewing court not only to “accept” a district
+court’s “ﬁndings of fact” (unless “clearly erroneous”), but also
+to “give due deference to the district court’s application of
+the guidelines to the facts.” 18 U. S. C. § 3742(e) (emphasis
+added). And that is the kind of determination—application
+of the Guidelines to the facts—that is at issue here. Hence
+the question we must answer is what kind of “deference” is
+“due.” And, as we noted in Koon v. United States, 518 U. S.
+81, 98 (1996), the “deference that is due depends on the na-
+ture of the question presented.”
+
+=== PDF PAGE 6 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+64 BUFORD v. UNITED STATES
+Opinion of the Court
+Buford argues that the nature of the question presented
+here—applying a Sentencing Guidelines term to undisputed
+facts—demands no deference at all. That is to say, the def-
+erence “due” is no deference; hence the Court of Appeals
+should have reviewed the trial court’s decision de novo. Bu-
+ford points out that, because the underlying facts are not in
+dispute, witness credibility is not important. She adds that
+de novo appellate review will help clarify and make meaning-
+ful the consolidation-related legal principles at issue. And
+she says that de novo review will help avoid inconsistent trial
+court determinations about consolidation, thereby furthering
+the Guidelines’ effort to bring consistency to sentencing law.
+Despite these arguments, we believe that the appellate
+court was right to review this trial court decision deferen-
+tially rather than de novo. In Koon, we based our selection
+of an abuse-of-discretion standard of review on the relative
+institutional advantages enjoyed by the district court in
+making the type of determination at issue. See id., at
+98–99; cf. Miller v. F enton, 474 U. S. 104, 114 (1985) (defer-
+ence may depend on whether “one judicial actor is better
+positioned than another to decide the issue in question”).
+We concluded there that the special competence of the dis-
+trict court helped to make deferential review appropriate.
+And that is true here as well. That is to say, the district
+court is in a better position than the appellate court to decide
+whether a particular set of individual circumstances demon-
+strates “functional consolidation.”
+That is so because a district judge sees many more “consol-
+idations” than does an appellate judge. As a trial judge, a
+district judge is likely to be more familiar with trial and sen-
+tencing practices in general, including consolidation proce-
+dures. And as a sentencing judge who must regularly re-
+view and classify defendants’ criminal histories, a district
+judge is more likely to be aware of which procedures the
+relevant state or federal courts typically follow. Experience
+with trials, sentencing, and consolidations will help that
+
+=== PDF PAGE 7 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+65Cite as: 532 U. S. 59 (2001)
+Opinion of the Court
+judge draw the proper inferences from the procedural de-
+scriptions provided.
+In addition, factual nuance may closely guide the legal de-
+cision, with legal results depending heavily upon an under-
+standing of the signiﬁcance of case-speciﬁc details. See
+Koon v. United States, supra, at 98–99 (District Court’s de-
+tailed understanding of the case before it and experience
+with other sentencing cases favored deferential review);
+Cooter & Gell v. Hartmarx Corp., 496 U. S. 384, 403–404
+(1990) (fact-intensive nature of decision whether to impose
+sanctions under Federal Rule of Civil Procedure 11 made
+deferential review appropriate); Pierce v. Underwood, 487
+U. S. 552, 560 (1988) (District Court’s familiarity with facts of
+case warranted deferential review of determination whether
+Government’s legal position was “substantially justiﬁed”).
+In a case like this one, for example, under Seventh Circuit
+doctrine, the District Judge usefully might have considered
+the factual details of the crimes at issue in order to deter-
+mine whether factual connections among those crimes,
+rather than, say, administrative convenience, led Wisconsin
+to sentence Buford simultaneously and concurrently for the
+robbery and drug offenses. See United States v. Joseph, 50
+F. 3d, at 404; United States v. Russell, 2 F. 3d 200, 204
+(CA7 1993).
+Nor can we place determinative weight upon the height-
+ened uniformity beneﬁts that Buford contends will result
+from de novo review. The legal question at issue is a minor,
+detailed, interstitial question of sentencing law, buried in a
+judicial interpretation of an application note to a Sentenc-
+ing Guideline. That question is not a generally recurring,
+purely legal matter, such as interpreting a set of legal words,
+say, those of an individual guideline, in order to determine
+their basic intent. Nor is that question readily resolved by
+reference to general legal principles and standards alone.
+Rather, the question at issue grows out of, and is bounded
+by, case-speciﬁc detailed factual circumstances. And the
+
+=== PDF PAGE 8 ===
+532US1 Unit: $U33 [09-05-02 18:31:44] PAGES PGT: OPIN
+66 BUFORD v. UNITED STATES
+Opinion of the Court
+fact-bound nature of the decision limits the value of appellate
+court precedent, which may provide only minimal help when
+other courts consider other procedural circumstances, other
+state systems, and other crimes. In any event, the Sentenc-
+ing Commission itself gathers information on the sentences
+imposed by different courts, it views the sentencing process
+as a whole, it has developed a broad perspective on sentenc-
+ing practices throughout the Nation, and it can, by adjusting
+the Guidelines or the application notes, produce more con-
+sistent sentencing results among similarly situated offenders
+sentenced by different courts. Insofar as greater uniform-
+ity is necessary, the Commission can provide it. Cf. Braxton
+v. United States, 500 U. S. 344, 347–348 (1991) (Congress in-
+tended Sentencing Commission to play primary role in re-
+solving conﬂicts over interpretation of Guidelines).
+III
+In light of the fact-bound nature of the legal decision, the
+comparatively greater expertise of the District Court, and
+the limited value of uniform court of appeals precedent, we
+conclude that the Court of Appeals properly reviewed the
+District Court’s “functional consolidation” decision deferen-
+tially. The judgment of the Court of Appeals is
+Afﬁrmed.

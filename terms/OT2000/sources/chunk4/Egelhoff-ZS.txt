@@ -1,0 +1,98 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+EGELHOFF V. EGELHOFF
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+EGELHOFF V. EGELHOFF (99-1529) 
+139 Wash. 2d 557, 989 P.2d 80, reversed and remanded.Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Scalia ]Dissent
+ [ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+EGELHOFF v. EGELHOFF, a minor, by and through her natural parent, BREINER, et al.
+
+
+CERTIORARI TO THE SUPREME COURT OF WASHINGTON
+
+ 
+No. 99—1529.  Argued November 8, 2000–Decided March 21, 2001
+ 
+
+
+
+
+While David A. Egelhoff was married to petitioner, he designated her as the beneficiary of a life insurance policy and pension plan provided by his employer and governed by the Employee Retirement Income Security Act of 1974 (ERISA).  Shortly after petitioner and Mr. Egelhoff divorced, Mr. Egelhoff died intestate.  Respondents, Mr. Egelhoff’s children by a previous marriage, filed separate suits against petitioner in state court to recover the insurance proceeds and pension plan benefits.  They relied on a Washington statute that provides that the designation of a spouse as the beneficiary of a nonprobate asset–defined to include a life insurance policy or employee benefit plan–is revoked automatically upon divorce.  Respondents argued that in the absence of a qualified named beneficiary, the proceeds would pass to them as Mr. Egelhoff’s statutory heirs under state law.  The trial courts concluded that both the insurance policy and the pension plan should be administered in accordance with ERISA, and granted petitioner summary judgment in both cases.  The Washington Court of Appeals consolidated the cases and reversed, concluding that the statute was not pre-empted by ERISA.  The State Supreme Court affirmed, holding that the statute, although applicable to employee benefit plans, does not “refe[r] to” or have a “connection with” an ERISA plan that would compel pre-emption under that statute.
+
+
+Held: The state statute has a connection with ERISA plans and is therefore expressly pre-empted.  Pp. 4—10.
+
+
+    (a) ERISA’s pre-emption section, 29 U.S.C. § 1144(a), states that ERISA “shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan” covered by ERISA.  A state law relates to an ERISA plan “if it has a connection with or reference to such a plan.”  Shaw v. Delta Air Lines, Inc., 463 U.S. 85, 97.  To determine whether there is a forbidden connection, the Court looks both to ERISA’s objectives as a guide to the scope of the state law that Congress understood would survive, as well as to the nature of the state law’s effect on ERISA plans.  California Div. of Labor Standards Enforcement v. Dillingham Constr., N. A., Inc., 519 U.S. 316, 325.  Applying this framework, the state statute has an impermissible connection with ERISA plans, as it binds plan administrators to a particular choice of rules for determining beneficiary status.  Administrators must pay benefits to the beneficiaries chosen by state law, rather than to those identified in the plan documents.  The statute thus implicates an area of core ERISA concern, running counter to ERISA’s commands that a plan shall “specify the basis on which payments are made to and from the plan,” §1102(b)(4), and that the fiduciary shall administer the plan “in accordance with the documents and instruments governing the plan,” §1104(a)(1)(D).    The state statute also has a prohibited connection with ERISA plans because it interferes with nationally uniform plan administration.  Administrators cannot make payments simply by identifying the beneficiary specified in the plan documents, but must familiarize themselves with state statutes so that they can determine whether the named beneficiary’s status has been “revoked” by operation of law.  The burden is exacerbated by the choice-of-law problems that may confront an administrator when the employer, the plan participant, and the participant’s former spouse live in different States.  Although the Washington statute provides protection for administrators who have no actual knowledge of a divorce, they still face the risk that a court might later find that they did have such knowledge.  If they instead decide to await the results of litigation among putative beneficiaries before paying benefits, they will simply transfer to the beneficiaries the costs of delay and uncertainty.  Requiring administrators to master the relevant laws of 50 States and to contend with litigation would undermine the congressional goal of minimizing their administrative and financial burdens.  Differing state regulations affecting an ERISA plan’s system for processing claims and paying benefits impose precisely the burden that ERISA pre-emption was intended to avoid.  Fort Halifax Packing Co. v. Coyne, 482 U.S. 1, 10.  Pp. 4—8.
+
+
+      (b) Respondents’ reasons why ordinary ERISA pre-emption analysis should not apply here–that the state statute allows employers to opt out; that it involves areas of traditional state regulation; and that if ERISA pre-empts this statute, it also must pre-empt the various state statutes providing that a murdering heir is not entitled to receive property as a result of the killing–are rejected.  Pp. 8—10.
+
+
+139 Wash. 2d 557, 989 P.2d 80, reversed and remanded.
+
+
+    Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Souter, and Ginsburg, JJ., joined.  Scalia, J., filed a concurring opinion, in which Ginsburg, J., joined.  Breyer, J., filed a dissenting opinion, in which Stevens, J., joined.
+
+ 
+
+
+
+

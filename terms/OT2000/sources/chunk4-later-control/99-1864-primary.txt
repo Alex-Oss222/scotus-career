@@ -1,0 +1,1662 @@
+Source: https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-234.pdf
+
+234
+OCTOBER TERM, 2000
+Syllabus
+EASLEY,* GOVERNOR OF NORTH CAROLINA, et al.
+v. CROMARTIE et al.
+appeal from the united states district court for the
+eastern district of north carolina
+No. 99–1864.
+Argued November 27, 2000—Decided April 18, 2001†
+After this Court found that North Carolina’s Legislature violated the
+Constitution by using race as the predominant factor in drawing its
+Twelfth Congressional District’s 1992 boundaries, Shaw v. Hunt, 517
+U. S. 899, the State redrew those boundaries.
+A three-judge District
+Court subsequently granted appellees summary judgment, ﬁnding that
+the new 1997 boundaries had also been created with racial considera-
+tions dominating all others.
+This Court reversed, ﬁnding that there
+was a genuine issue of material fact as to whether the evidence was
+consistent with a race-based objective or the constitutional political
+objective of creating a safe Democratic seat.
+Hunt v. Cromartie, 526
+U. S. 541.
+Among other things, this Court relied on evidence proposed
+to be submitted by appellants to conclude that, because the State’s
+African-American voters overwhelmingly voted Democratic, one could
+not easily distinguish a legislative effort to create a majority-minority
+district from a legislative effort to create a safely Democratic one;
+that data showing voter registration did not indicate how voters would
+actually vote; and that data about actual behavior could affect the litiga-
+tion’s outcome.
+Id., at 547–551.
+On remand, the District Court again
+held, after a 3-day trial, that the legislature had used race driven cri-
+teria in drawing the 1997 boundaries.
+It based that conclusion on
+three ﬁndings—the district’s shape, its splitting of towns and counties,
+and its heavily African-American voting population—that this Court
+had considered when it found summary judgment inappropriate, and on
+the new ﬁnding that the legislature had drawn the boundaries to collect
+precincts with a high racial, rather than political, identiﬁcation.
+Held: The District Court’s conclusion that the State violated the Equal
+Protection Clause in drawing the 1997 boundaries is based on clearly
+erroneous ﬁndings.
+Pp. 241–258.
+*Governor Michael F. Easley is hereby substituted for former Governor
+James B. Hunt, Jr., pursuant to this Court’s Rule 35.3.
+†Together with No. 99–1865, Smallwood et al. v. Cromartie et al., also
+on appeal from the same court.
+
+235
+Cite as: 532 U. S. 234 (2001)
+Syllabus
+(a) The issue here is evidentiary: whether there is adequate support
+for the District Court’s ﬁnding that race, rather than politics, drove
+the legislature’s districting decision.
+Those attacking the district have
+the demanding burden of proof to show that a facially neutral law is
+unexplainable on grounds other than race.
+Cromartie, supra, at 546.
+Because the underlying districting decision falls within a legislature’s
+sphere of competence, Miller v. Johnson, 515 U. S. 900, 915, courts must
+exercise extraordinary caution in adjudicating claims such as this one,
+id., at 916, especially where, as here, the State has articulated a legiti-
+mate political explanation for its districting decision and the voting
+population is one in which race and political afﬁliation are highly coordi-
+nated, see Cromartie, supra, at 551–552.
+This Court will review the
+District Court’s ﬁndings only for “clear error,” asking whether “on the
+entire evidence” the Court is “left with the deﬁnite and ﬁrm conviction
+that a mistake has been committed.”
+United States v. United States
+Gypsum Co., 333 U. S. 364, 395.
+An extensive review of the District
+Court’s ﬁndings is warranted here because there was no intermediate
+court review, the trial was not lengthy, the key evidence consisted pri-
+marily of documents and expert testimony, and credibility evaluations
+played a minor role.
+Pp. 241–243.
+(b) The critical District Court determination that “race, not politics,”
+predominantly explains the 1997 boundaries rests upon the three ﬁnd-
+ings that this Court found insufﬁcient to support summary judgment,
+and which cannot in and of themselves, as a matter of law, support the
+District Court’s judgment here.
+See Bush v. Vera, 517 U. S. 952, 968.
+Its determination also rests upon ﬁve new subsidiary ﬁndings, which
+this Court also cannot accept as adequate.
+First, the District Court
+primarily relied on evidence of voting registration, not voting behavior,
+which is precisely the kind of evidence that this Court found inadequate
+the last time the case was here.
+White registered Democrats “cross-
+over” to vote Republican more often than do African-Americans, who
+register and vote Democratic between 95% and 97% of the time.
+Thus,
+a legislature trying to secure a safe Democratic seat by placing reliable
+Democratic precincts within a district may end up with a district con-
+taining more heavily African-American precincts for political, not racial,
+reasons.
+Second, the evidence to which appellees’ expert, Dr. Weber,
+pointed—that a reliably Democratic voting population of 60% is neces-
+sary to create a safe Democratic seat, but this district was 63% reliable;
+that certain white-Democratic precincts were excluded while African-
+American-Democratic precincts were included; that one precinct was
+split between Districts 9 and 12; and that other plans would have cre-
+ated a safely Democratic district with fewer African-American pre-
+cincts—simply does not provide signiﬁcant additional support for the
+
+236
+EASLEY v. CROMARTIE
+Syllabus
+District Court’s conclusion.
+Also, portions of Dr. Weber’s testimony
+not cited by the District Court undercut his conclusions.
+Third, the
+District Court, while not accepting the contrary conclusion of appellants’
+expert, Dr. Peterson, did not (and as far as the record reveals, could
+not) reject much of the signiﬁcant supporting factual information he
+provided, which showed that African-American-Democratic voters were
+more reliably Democratic and that District 12’s boundaries were drawn
+to include reliable Democrats.
+Fourth, a statement about racial bal-
+ance made by Senator Cooper, the legislative redistricting leader, shows
+that the legislature considered race along with other partisan and geo-
+graphic considerations, but says little about whether race played a pre-
+dominant role.
+And an e-mail sent by Gerry Cohen, a legislative staff
+member responsible for drafting districting plans, offers some support
+for the District Court’s conclusion, but is less persuasive than the kinds
+of direct evidence that this Court has found signiﬁcant in other re-
+districting cases.
+Fifth, appellees’ maps summarizing voting behavior
+evidence tend to refute the District Court’s “race, not politics,” conclu-
+sion.
+Pp. 243–257.
+(c) The modicum of evidence supporting the District Court’s conclu-
+sion—the Cohen e-mail, Senator Cooper’s statement, and some aspects
+of Dr. Weber’s testimony—taken together, does not show that racial
+considerations predominated in the boundaries’ drawing, because race
+in this case correlates closely with political behavior.
+Where majority-
+minority districts are at issue and racial identiﬁcation correlates highly
+with political afﬁliation, the party attacking the boundaries must show
+at the least that the legislature could have achieved its legitimate politi-
+cal objectives in alternative ways that are comparably consistent with
+traditional districting principles and that those alternatives would have
+brought about signiﬁcantly greater racial balance.
+Because appellees
+failed to make any such showing here, the District Court’s contrary
+ﬁndings are clearly erroneous.
+Pp. 257–258.
+133 F. Supp. 2d 407, reversed.
+Breyer, J., delivered the opinion of the Court, in which Stevens,
+O’Connor, Souter, and Ginsburg, JJ., joined.
+Thomas, J., ﬁled a dis-
+senting opinion, in which Rehnquist, C. J., and Scalia and Kennedy,
+JJ., joined, post, p. 259.
+Walter E. Dellinger argued the cause for the state appel-
+lants.
+With him on the briefs were Michael F. Easley, for-
+mer Attorney General of North Carolina, Tiare B. Smiley
+and Norma S. Harrell, Special Deputy Attorneys General,
+
+237
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+and Brian D. Boyle.
+Adam Stein argued the cause for ap-
+pellants Smallwood et al.
+With him on the briefs were Todd
+A. Cox, Norman J. Chachkin, and Jacqueline A. Berrien.
+Robinson O. Everett argued the cause for appellees in both
+cases.
+With him on the brief were Martin B. McGee and
+Douglas E. Markham.‡
+Justice Breyer delivered the opinion of the Court.
+In this appeal, we review a three-judge District Court’s
+determination that North Carolina’s Legislature used race as
+the “predominant factor” in drawing its 12th Congressional
+District’s 1997 boundaries.
+The court’s ﬁndings, in our view,
+are clearly erroneous.
+We therefore reverse its conclusion
+that the State violated the Equal Protection Clause.
+U. S.
+Const., Amdt. 14, §1.
+I
+This “racial districting” litigation is before us for the
+fourth time.
+Our ﬁrst two holdings addressed North Caro-
+lina’s former Congressional District 12, one of two North
+Carolina congressional districts drawn in 1992 that con-
+tained a majority of African-American voters.
+See Shaw v.
+Reno, 509 U. S. 630 (1993) (Shaw I); Shaw v. Hunt, 517 U. S.
+899 (1996) (Shaw II).
+A
+In Shaw I, the Court considered whether plaintiffs’ factual
+allegation—that the legislature had drawn the former dis-
+trict’s boundaries for race-based reasons—if true, could un-
+derlie a legal holding that the legislature had violated the
+Equal Protection Clause.
+The Court held that it could.
+It
+wrote that a violation may exist where the legislature’s
+boundary drawing, though “race neutral on its face,” none-
+‡Briefs of amici curiae urging reversal were ﬁled for the United States
+by Solicitor General Waxman, Acting Assistant Attorney General Yeo-
+mans, Deputy Solicitor General Underwood, James A. Feldman, David
+K. Flynn, and Louis E. Peraertz; and for the American Civil Liberties
+Union by Laughlin McDonald, Neil Bradley, and Cristina Correia.
+
+238
+EASLEY v. CROMARTIE
+Opinion of the Court
+theless can be understood only as an effort to “separate vot-
+ers into different districts on the basis of race,” and where
+the “separation lacks sufﬁcient justiﬁcation.”
+509 U. S.,
+at 649.
+In Shaw II, the Court reversed a subsequent three-
+judge District Court’s holding that the boundary-drawing
+law in question did not violate the Constitution.
+This Court
+found that the district’s “unconventional,” snakelike shape,
+the way in which its boundaries split towns and counties,
+its predominately African-American racial makeup, and its
+history, together demonstrated a deliberate effort to create
+a “majority-black” district in which race “could not be
+compromised,” not simply a district designed to “protec[t]
+Democratic incumbents.”
+517 U. S., at 902–903, 905–907.
+And the Court concluded that the legislature’s use of racial
+criteria was not justiﬁed.
+Id., at 909–918.
+B
+Our third holding focused on a new District 12, the bound-
+aries of which the legislature had redrawn in 1997.
+Hunt
+v. Cromartie, 526 U. S. 541 (1999).
+A three-judge District
+Court, with one judge dissenting, had granted summary
+judgment in favor of those challenging the district’s bound-
+aries.
+The court found that the legislature again had “used
+criteria . . . that are facially race driven,” in violation of
+the Equal Protection Clause.
+App. to Juris. Statement in
+No. 99–1864, p. 262a (hereinafter App. to Juris. Statement).
+It based this conclusion upon “uncontroverted material
+facts” showing that the boundaries created an unusually
+shaped district, split counties and cities, and in particular
+placed almost all heavily Democratic-registered, predomi-
+nantly African-American voting precincts, inside the dis-
+trict while locating some heavily Democratic-registered,
+predominantly white precincts, outside the district.
+This
+latter circumstance, said the court, showed that the legis-
+lature was trying to maximize new District 12’s African-
+
+239
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+American voting strength, not the district’s Democratic vot-
+ing strength.
+Ibid.
+This Court reversed.
+We agreed with the District Court
+that the new district’s shape, the way in which it split
+towns and counties, and its heavily African-American voting
+population all helped the plaintiffs’ case.
+526 U. S., at 547–
+549.
+But neither that evidence by itself, nor when coupled
+with the evidence of Democratic registration, was sufﬁcient
+to show, on summary judgment, the unconstitutional race-
+based objective that plaintiffs claimed.
+That is because
+there was a genuine issue of material fact as to whether the
+evidence also was consistent with a constitutional political
+objective, namely, the creation of a safe Democratic seat.
+Id., at 549–551.
+We pointed to the afﬁdavit of an expert witness for de-
+fendants, Dr. David W. Peterson.
+Dr. Peterson offered to
+show that, because North Carolina’s African-American vot-
+ers are overwhelmingly Democratic voters, one cannot easily
+distinguish a legislative effort to create a majority-African-
+American district from a legislative effort to create a safely
+Democratic district.
+Id., at 550.
+And he also provided data
+showing that registration did not indicate how voters would
+actually vote.
+Id., at 550–551.
+We agreed that data show-
+ing how voters actually behave, not data showing only how
+those voters are registered, could affect the outcome of this
+litigation.
+Ibid.
+We concluded that the case was “not
+suited for summary disposition” and we reversed the District
+Court.
+Id., at 554.
+C
+On remand, the parties undertook additional discovery.
+The three-judge District Court held a 3-day trial.
+And the
+court again held (over a dissent) that the legislature had
+unconstitutionally drawn District 12’s new 1997 bound-
+aries.
+It found that the legislature had tried “(1) [to] cur[e]
+the [previous district’s] constitutional defects” while also
+“(2) drawing the plan to maintain the existing partisan bal-
+
+240
+EASLEY v. CROMARTIE
+Opinion of the Court
+ance in the State’s congressional delegation.”
+Cromartie v.
+Hunt, 133 F. Supp. 2d 407, 413 (EDNC 2000).
+It added
+that to “achieve the second goal,” the legislature “drew the
+new plan (1) to avoid placing two incumbents in the same
+district and (2) to preserve the partisan core of the existing
+districts.”
+Ibid.
+The court concluded that the “plan as
+enacted largely reﬂects these directives.”
+Ibid.
+But the
+court also found “as a matter of fact that the General Assem-
+bly . . . used criteria . . . that are facially race driven” without
+any compelling justiﬁcation for doing so.
+Id., at 420.
+The court based its latter, constitutionally critical, con-
+clusion in part upon the district’s snakelike shape, the way
+in which it split cities and towns, and its heavily African-
+American (47%) voting population, id., at 413–415—all
+matters that this Court had considered when it found
+summary judgment inappropriate, Cromartie, 526 U. S., at
+544.
+The court also based this conclusion upon a speciﬁc
+ﬁnding—absent when we previously considered this litiga-
+tion—that the legislature had drawn the boundaries in order
+“to collect precincts with high racial identiﬁcation rather
+than political identiﬁcation.”
+133 F. Supp. 2d, at 420 (em-
+phasis added).
+This last-mentioned ﬁnding rested in turn upon ﬁve sub-
+sidiary determinations:
+(1) that “the legislators excluded many heavily-Democratic
+precincts from District 12, even when those precincts im-
+mediately border the Twelfth and would have established
+a far more compact district,” id., at 419; see also id.,
+at 421 (“more heavily Democratic precincts . . . were
+bypassed . . . in favor of precincts with a higher African-
+American population”);
+(2) that “[a]dditionally, Plaintiffs’ expert, Dr. Weber, showed
+time and again how race trumped party afﬁliation in the
+construction of the 12th District and how political expla-
+nations utterly failed to explain the composition of the
+district,” id., at 419;
+
+241
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+(3) that Dr. Peterson’s testimony was “ ‘unreliable’ and not
+relevant,” id., at 420 (citing testimony of Dr. Weber);
+(4) that a legislative redistricting leader, Senator Roy Coo-
+per, had alluded at the time of redistricting “to a need
+for ‘racial and partisan’ balance,” ibid.; and
+(5) that the Senate’s redistricting coordinator, Gerry Cohen,
+had sent Senator Cooper an e-mail reporting that Cooper
+had “moved Greensboro Black community into the 12th,
+and now need[ed] to take [about] 60,000 out of the 12th,”
+App. 369; 133 F. Supp. 2d, at 420.
+The State and intervenors ﬁled a notice of appeal.
+28
+U. S. C. §1253.
+We noted probable jurisdiction.
+530 U. S.
+1260 (2000).
+And we now reverse.
+II
+The issue in this case is evidentiary.
+We must determine
+whether there is adequate support for the District Court’s
+key ﬁndings, particularly the ultimate ﬁnding that the legis-
+lature’s motive was predominantly racial, not political.
+In
+making this determination, we are aware that, under Shaw I
+and later cases, the burden of proof on the plaintiffs (who
+attack the district) is a “demanding one.”
+Miller v. John-
+son, 515 U. S. 900, 928 (1995) (O’Connor, J., concurring).
+The Court has speciﬁed that those who claim that a legis-
+lature has improperly used race as a criterion, in order,
+for example, to create a majority-minority district, must
+show at a minimum that the “legislature subordinated tradi-
+tional race-neutral districting principles . . . to racial con-
+siderations.”
+Id., at 916 (majority opinion).
+Race must
+not simply have been “a motivation for the drawing of
+a majority-minority district,” Bush v. Vera, 517 U. S. 952,
+959 (1996) (O’Connor, J., principal opinion) (emphasis in
+original), but “the ‘predominant factor’ motivating the leg-
+islature’s districting decision,” Cromartie, supra, at 547
+(quoting Miller, supra, at 916) (emphasis added).
+Plaintiffs
+
+242
+EASLEY v. CROMARTIE
+Opinion of the Court
+must show that a facially neutral law “ ‘is “unexplainable
+on grounds other than race.” ’ ”
+Cromartie, supra, at 546
+(quoting Shaw I, 509 U. S., at 644, in turn quoting Arlington
+Heights v. Metropolitan Housing Development Corp., 429
+U. S. 252, 266 (1977)).
+The Court also has made clear that the underlying dis-
+tricting decision is one that ordinarily falls within a legis-
+lature’s sphere of competence.
+Miller, 515 U. S., at 915.
+Hence, the legislature “must have discretion to exercise the
+political judgment necessary to balance competing inter-
+ests,” ibid., and courts must “exercise extraordinary caution
+in adjudicating claims that a State has drawn district lines
+on the basis of race,” id., at 916 (emphasis added).
+Caution
+is especially appropriate in this case, where the State has
+articulated a legitimate political explanation for its district-
+ing decision, and the voting population is one in which race
+and political afﬁliation are highly correlated.
+See Cromar-
+tie, supra, at 551–552 (noting that “[e]vidence that blacks
+constitute even a supermajority in one congressional district
+while amounting to less than a plurality in a neighboring
+district will not, by itself, sufﬁce to prove that a jurisdiction
+was motivated by race in drawing its district lines when the
+evidence also shows a high correlation between race and
+party preference”).
+We also are aware that we review the District Court’s
+ﬁndings only for “clear error.”
+In applying this stand-
+ard, we, like any reviewing court, will not reverse a lower
+court’s ﬁnding of fact simply because we “would have de-
+cided the case differently.”
+Anderson v. Bessemer City, 470
+U. S. 564, 573 (1985).
+Rather, a reviewing court must ask
+whether, “on the entire evidence,” it is “left with the deﬁnite
+and ﬁrm conviction that a mistake has been committed.”
+United States v. United States Gypsum Co., 333 U. S. 364,
+395 (1948).
+Where an intermediate court reviews, and afﬁrms, a trial
+court’s factual ﬁndings, this Court will not “lightly overturn”
+the concurrent ﬁndings of the two lower courts.
+E. g., Neil
+
+243
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+v. Biggers, 409 U. S. 188, 193, n. 3 (1972).
+But in this in-
+stance there is no intermediate court, and we are the only
+court of review.
+Moreover, the trial here at issue was not
+lengthy and the key evidence consisted primarily of docu-
+ments and expert testimony.
+Credibility evaluations played
+a minor role.
+Accordingly, we ﬁnd that an extensive review
+of the District Court’s ﬁndings, for clear error, is warranted.
+See Bose Corp. v. Consumers Union of United States, Inc.,
+466 U. S. 485, 500–501 (1984).
+That review leaves us “with
+the deﬁnite and ﬁrm conviction,” United States Gypsum Co.,
+supra, at 395, that the District Court’s key ﬁndings are
+mistaken.
+III
+The critical District Court determination—the matter for
+which we remanded this litigation—consists of the ﬁnding
+that race rather than politics predominantly explains Dis-
+trict 12’s 1997 boundaries.
+That determination rests upon
+three ﬁndings (the district’s shape, its splitting of towns and
+counties, and its high African-American voting population)
+that we previously found insufﬁcient to support summary
+judgment.
+Cromartie, 526 U. S., at 547–549.
+Given the un-
+disputed evidence that racial identiﬁcation is highly corre-
+lated with political afﬁliation in North Carolina, these facts
+in and of themselves cannot, as a matter of law, support
+the District Court’s judgment.
+See Vera, 517 U. S., at 968
+(O’Connor, J., principal opinion) (“If district lines merely
+correlate with race because they are drawn on the basis of
+political afﬁliation, which correlates with race, there is no
+racial classiﬁcation to justify”).
+The District Court rested,
+however, upon ﬁve new subsidiary ﬁndings to conclude that
+District 12’s lines are the product of no “mer[e] correlat[ion],”
+ibid., but are instead a result of the predominance of race in
+the legislature’s line-drawing process.
+See supra, at 240–
+241.
+In considering each subsidiary ﬁnding, we have given
+weight to the fact that the District Court was familiar with
+
+244
+EASLEY v. CROMARTIE
+Opinion of the Court
+this litigation, heard the testimony of each witness, and con-
+sidered all the evidence with care.
+Nonetheless, we cannot
+accept the District Court’s ﬁndings as adequate for reasons
+which we shall spell out in detail and which we can summa-
+rize as follows:
+First, the primary evidence upon which the District Court
+relied for its “race, not politics,” conclusion is evidence of
+voting registration, not voting behavior; and that is pre-
+cisely the kind of evidence that we said was inadequate
+the last time this case was before us.
+See infra, at 245–246.
+Second, the additional evidence to which appellees’ expert,
+Dr. Weber, pointed, and the statements made by Senator
+Cooper and Gerry Cohen, simply do not provide signiﬁcant
+additional support for the District Court’s conclusion.
+See
+infra, at 246–250, 253–254.
+Third, the District Court, while
+not accepting the contrary conclusion of appellants’ expert,
+Dr. Peterson, did not (and as far as the record reveals, could
+not) reject much of the signiﬁcant supporting factual infor-
+mation he provided.
+See infra, at 251–253.
+Fourth, in any
+event, appellees themselves have provided us with charts
+summarizing evidence of voting behavior and those charts
+tend to refute the court’s “race, not politics,” conclusion.
+See infra, at 254–257; Appendixes, infra.
+A
+The District Court primarily based its “race, not politics,”
+conclusion upon its ﬁnding that “the legislators excluded
+many heavily-Democratic precincts from District 12, even
+when those precincts immediately border the Twelfth and
+would have established a far more compact district.”
+133
+F. Supp. 2d, at 419; see also id., at 420 (“[M]ore heavily Dem-
+ocratic precincts . . . were bypassed . . . in favor of precincts
+with a higher African-American population”).
+This ﬁnding,
+however—insofar as it differs from the remaining four—
+rests solely upon evidence that the legislature excluded
+heavily white precincts with high Democratic Party registra-
+
+245
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+tion, while including heavily African-American precincts
+with equivalent, or lower, Democratic Party registration.
+See id., at 413–414, 415.
+Indeed, the District Court cites at
+length ﬁgures showing that the legislature included “several
+precincts with racial compositions of 40 to 100 percent
+African-American,” while excluding certain adjacent pre-
+cincts “with less than 35 percent African-American popula-
+tion” but which contain between 54% and 76% registered
+Democrats.
+Id., at 414.
+As we said before, the problem with this evidence is that
+it focuses upon party registration, not upon voting behavior.
+And we previously found the same evidence, compare ibid.
+(District Court’s opinion after trial) with App. to Juris.
+Statement 249a–250a (District Court’s summary judgment
+opinion), inadequate because registration ﬁgures do not accu-
+rately predict preference at the polls.
+See id., at 174a; see
+also Cromartie, supra, at 550–551 (describing Dr. Peterson’s
+analysis as “more thorough” because in North Carolina,
+“party registration and party preference do not always cor-
+respond”).
+In part this is because white voters registered
+as Democrats “cross-over” to vote for a Republican candidate
+more often than do African-Americans, who register and
+vote Democratic between 95% and 97% of the time.
+See
+Record, Deposition of Gerry Cohen 37–42 (discussing data);
+App. 304 (stating that white voters cast about 60% to 70% of
+their votes for Republican candidates); id., at 139 (Dr. Web-
+er’s testimony that 95% to 97% of African-Americans regis-
+ter and vote as Democrats); see also id., at 118 (testimony
+by Dr. Weber that registration data were the least reliable
+information upon which to predict voter behavior).
+A legis-
+lature trying to secure a safe Democratic seat is interested
+in Democratic voting behavior.
+Hence, a legislature may, by
+placing reliable Democratic precincts within a district with-
+out regard to race, end up with a district containing more
+heavily African-American precincts, but the reasons would
+be political rather than racial.
+
+246
+EASLEY v. CROMARTIE
+Opinion of the Court
+Insofar as the District Court relied upon voting registra-
+tion data, particularly data that were previously before us,
+it tells us nothing new; and the data do not help answer the
+question posed when we previously remanded this litigation.
+Cromartie, 526 U. S., at 551.
+B
+The District Court wrote that “[a]dditionally, [p]laintiffs’
+expert, Dr. Weber, showed time and again how race trumped
+party afﬁliation in the construction of the 12th District and
+how political explanations utterly failed to explain the com-
+position of the district.”
+133 F. Supp. 2d, at 419.
+In sup-
+port of this conclusion, the court relied upon six different
+citations to Dr. Weber’s trial testimony.
+We have examined
+each reference.
+1
+At the ﬁrst cited pages of the trial transcript, Dr. Weber
+says that a reliably Democratic voting population of 60% is
+sufﬁcient to create a safe Democratic seat.
+App. 91.
+Yet,
+he adds, the legislature created a more-than-60% reliable
+Democratic voting population in District 12.
+Hence (we
+read Dr. Weber to infer), the legislature likely was driven by
+race, not politics.
+Tr. 163; App. 314–315.
+The record indicates, however, that, although Dr. Weber is
+right that District 12 is more than 60% reliably Democratic,
+it exceeds that ﬁgure by very little.
+Nor did Dr. Weber ask
+whether other districts, unchallenged by appellees, were
+signiﬁcantly less “safe” than was District 12.
+Id., at 148.
+In fact, the ﬁgures the legislature used showed that Dis-
+trict 12 would be 63% reliably Democratic.
+App. to Juris.
+Statement 80a (Democratic vote over three representative
+elections averaged 63%).
+By the same measures, at least
+two Republican districts (Districts 6 and 10) are 61% reliably
+Republican.
+Ibid.
+And, as Dr. Weber conceded, incum-
+bents might have urged legislators (trying to maintain a
+
+247
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+six/six Democrat/Republican delegation split) to make their
+seats, not 60% safe, but as safe as possible.
+App. 149.
+In a
+ﬁeld such as voting behavior, where ﬁgures are inherently
+uncertain, Dr. Weber’s tiny calculated percentage differences
+are simply too small to carry signiﬁcant evidentiary weight.
+2
+The District Court cited two parts of the transcript where
+Dr. Weber testiﬁed about a table he had prepared listing
+all precincts in the six counties, portions of which make up
+District 12.
+Tr. 204–205, 262.
+Dr. Weber said that Dis-
+trict 12 contains between 39% and 56% of the precincts
+(depending on the county) that are more-than-40% reliably
+Democratic, but it contains almost every precinct with
+more-than-40% African-American voters.
+Id., at 204–205.
+Why, he essentially asks, if the legislature had had politics
+primarily in mind, would its effort to place reliably Dem-
+ocratic precincts within District 12 not have produced a
+greater racial mixture?
+Dr. Weber’s own testimony provides an answer to this
+question.
+As Dr. Weber agreed, the precincts listed in the
+table were at least 40% reliably Democratic, but virtually
+all the African-American precincts included in District 12
+were more than 40% reliably Democratic.
+Moreover, none
+of the excluded white precincts were as reliably Demo-
+cratic as the African-American precincts that were included
+in the district.
+App. 140.
+Yet the legislature sought pre-
+cincts that were reliably Democratic, not precincts that were
+40% reliably Democratic, for obvious political reasons.
+Neither does the table specify whether the excluded
+white-reliably-Democratic precincts were located near
+enough to District 12’s boundaries or each other for the leg-
+islature as a practical matter to have drawn District 12’s
+boundaries to have included them, without sacriﬁcing other
+important political goals.
+The contrary is suggested by the
+
+248
+EASLEY v. CROMARTIE
+Opinion of the Court
+fact that Dr. Weber’s own proposed alternative plan, see id.,
+at 106–107, would have pitted two incumbents against each
+other (Sue Myrick, a Republican from former District 9 and
+Mel Watt, a Democrat from former District 12).
+Dr. Weber
+testiﬁed that such a result—“a very competitive race with
+one of them losing their seat”—was desirable.
+Id., at 153.
+But the legislature, for political, not racial, reasons, believed
+the opposite.
+And it drew its plan to protect incumbents—
+a legitimate political goal recognized by the District Court.
+133 F. Supp. 2d, at 412–413.
+For these reasons, Dr. Weber’s table offers little insight
+into the legislature’s true motive.
+3
+The next part of the transcript the District Court cited
+contains Dr. Weber’s testimony about a Mecklenburg County
+precinct (precinct 77) which the legislature split between
+Districts 9 and 12.
+Tr. 221.
+Dr. Weber apparently thought
+that the legislature did not have to split this precinct,
+placing the more heavily African-American segment within
+District 12—unless, of course, its motive was racial rather
+than political.
+But Dr. Weber simultaneously conceded that
+he had not considered whether District 9’s incumbent Re-
+publican would have wanted the whole of precinct 77 left in
+her own district where it would have burdened her with a
+signiﬁcant additional number of reliably Democratic voters.
+App. 156–157.
+Nor had Dr. Weber “test[ed]” his conclusion
+that this split helped to show a racial (rather than political)
+motive, say, by adjusting other boundary lines and deter-
+mining the political, or other nonracial, consequences of such
+adjustments.
+Id., at 132.
+The maps in evidence indicate that to have placed all of
+precinct 77 within District 12 would have created a Dis-
+trict 12 peninsula that invaded District 9, neatly dividing
+that latter district in two, see id., at 496—a conclusive non-
+racial reason for the legislature’s decision not to do so.
+
+249
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+4
+The District Court cited Dr. Weber’s conclusion that
+“race is the predominant factor.”
+Tr. 251.
+But this state-
+ment of the conclusion is no stronger than the evidence that
+underlies it.
+5
+The District Court’s ﬁnal citation is to Dr. Weber’s as-
+sertion that there are other ways in which the legislature
+could have created a safely Democratic district without plac-
+ing so many primarily African-American districts within
+District 12.
+Id., at 288.
+And we recognize that some such
+other ways may exist.
+But, unless the evidence also shows
+that these hypothetical alternative districts would have bet-
+ter satisﬁed the legislature’s other nonracial political goals
+as well as traditional nonracial districting principles, this fact
+alone cannot show an improper legislative motive.
+After all,
+the Constitution does not place an afﬁrmative obligation
+upon the legislature to avoid creating districts that turn out
+to be heavily, even majority, minority.
+It simply imposes
+an obligation not to create such districts for predominantly
+racial, as opposed to political or traditional, districting moti-
+vations.
+And Dr. Weber’s testimony does not, at the pages
+cited, provide evidence of a politically practical alternative
+plan that the legislature failed to adopt predominantly for
+racial reasons.
+6
+In addition, we have read the whole of Dr. Weber’s testi-
+mony, including portions not cited by the District Court.
+Some of those portions further undercut Dr. Weber’s conclu-
+sions.
+Dr. Weber said, for example, that he had developed
+those conclusions while under the erroneous impression that
+the legislature’s computer-based districting program pro-
+vided information about racial, but not political, balance.
+App. 137–138; see also id., at 302 (reﬂecting Dr. Weber’s
+erroneous impression in the declaration he submitted to
+
+250
+EASLEY v. CROMARTIE
+Opinion of the Court
+the District Court).
+He also said he was not aware of “any-
+thing about political dynamics going on in the [l]egislature
+involving” District 12, id., at 135, sometimes expressing dis-
+dain for a process that we have cautioned courts to respect,
+id., at 150–151; Miller, 515 U. S., at 915–916.
+Other portions support Dr. Weber’s conclusions.
+Dr.
+Weber testiﬁed, for example, about a different alternative
+plan that, in his view, would have provided both greater ra-
+cial balance and political security, namely, a plan that the
+legislature did enact in 1998, and which has been in effect
+during the time the courts have been reviewing the constitu-
+tionality of the 1997 plan.
+App. 156–157.
+The existence of
+this alternative plan, however, cannot help appellees signiﬁ-
+cantly.
+Although it created a somewhat more compact dis-
+trict, it still divides many communities along racial lines,
+while providing fewer reliably Democratic District 12 voters
+and transferring a group of highly Democratic precincts into
+two safely Republican districts, namely, the 5th and 6th Dis-
+tricts, which political result the 1997 plan sought to avoid.
+See Tr. 352, 355.
+Furthermore, the 1997 plan before this
+Court, unlike the 1998 plan, joined three major cities in a
+manner legislators regarded as reﬂecting “a real commonal-
+ity of urban interests, with inner city schools, urban health
+care . . . problems, public housing problems.”
+App. 430
+(statement of Sen. Winner); see also id., at 421 (statement
+of Sen. Martin).
+Consequently, we cannot tell whether the
+existence of the 1998 plan shows that the 1997 plan was
+drawn with racial considerations predominant.
+And, in any
+event, the District Court did not rely upon the existence of
+the 1998 plan to support its ultimate conclusion.
+See Kelley
+v. Everglades Drainage Dist., 319 U. S. 415, 420–422 (1943)
+(per curiam).
+We do not see how Dr. Weber’s testimony, taken as a
+whole, could have provided more than minimal support for
+the District Court’s conclusion that race predominantly
+underlay the legislature’s districting decision.
+
+251
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+C
+The District Court found that the testimony of the State’s
+primary expert, Dr. Peterson, was “ ‘unreliable’ and not rele-
+vant.”
+133 F. Supp. 2d, at 420 (quoting Dr. Weber and citing
+Tr. 222–224, 232).
+Dr. Peterson’s testimony was designed to
+show that African-American Democratic voters were more
+reliably Democratic and that District 12’s boundaries were
+drawn to include reliable Democrats.
+Speciﬁcally, Dr. Pe-
+terson compared precincts immediately within District 12
+and those immediately without to determine whether the
+boundaries of the district corresponded better with race than
+with politics.
+The principle underlying Dr. Peterson’s anal-
+ysis is that if the district were drawn with race predomi-
+nantly in mind, one would expect the boundaries of the dis-
+trict to correlate with race more than with politics.
+The pages cited in support of the District Court’s re-
+jection of Dr. Peterson’s conclusions contain testimony by
+Dr. Weber, who says that Dr. Peterson’s analysis is unreliable
+because (1) it “ignor[es] the core” of the district, id., at 223,
+and (2) it fails to take account of the fact that different pre-
+cincts have different populations, id., at 223–224.
+The ﬁrst
+matter—ignoring the “core”—apparently reﬂects Dr. Web-
+er’s view that in context the fact that District 12’s heart
+or “core” is heavily African-American by itself shows that
+the legislature’s motive was predominantly racial, not po-
+litical.
+The District Court did not argue that the racial
+makeup of a district’s “core” is critical.
+Nor do we see why
+“core” makeup alone could help the court discern the rele-
+vant legislative motive.
+Nothing here suggests that only
+“core” makeup could answer the “political/racial” question
+that this Court previously found critical.
+Cromartie, 526
+U. S., at 551–552.
+The second matter—that Dr. Peterson’s boundary seg-
+ment analysis did not account for differences in population
+between precincts—relates to one aspect of Dr. Peterson’s
+
+252
+EASLEY v. CROMARTIE
+Opinion of the Court
+testimony.
+Appellants presented Dr. Peterson’s testimony
+and data in support of four propositions: ﬁrst, that regis-
+tration ﬁgures do not accurately reﬂect actual voting be-
+havior, see App. to Juris. Statement 173a–174a; second, that
+African-Americans are more reliable Democrats than whites,
+see id., at 159a–160a; third, that political afﬁliation explains
+splitting cities and counties as well as does race, see id., at
+189a, 191a–192a, 182a–185a; and fourth, that differences in
+the racial and political makeup of the precincts just inside
+and outside the boundaries of District 12 show that politics
+is as good an explanation as is race for the district’s bound-
+aries, see id., at 161a–167a; 181a–182a.
+The District Court’s
+criticism of Dr. Peterson’s testimony at most affects the re-
+liability of the fourth element of Dr. Peterson’s testimony,
+his special boundary segment analysis.
+The District Court’s
+criticism of Dr. Peterson’s boundary segment analysis does
+not undermine the data related to the split communities.
+The criticism does not undercut Dr. Peterson’s presentation
+of statistical evidence showing that registration was a poor
+indicator of party preference and that African-Americans are
+much more reliably Democratic voters, nor have we found in
+the record any signiﬁcant evidence refuting that data.
+At the same time, appellees themselves have used the
+information available in the record to create maps com-
+paring the district’s boundaries with Democratic/Republican
+voting behavior.
+See Appendixes A, B, and C, infra.
+Be-
+cause no one challenges the accuracy of these maps, we as-
+sume that they are reliable; and we can assume that Dr. Pe-
+terson’s testimony is reliable insofar as it conﬁrms what the
+maps themselves contain and appellees themselves concede.
+Those maps, with certain exceptions discussed below, see
+infra, at 254–257, further indicate that the legislature drew
+boundaries that, in general, placed more-reliably Democratic
+voters inside the district, while placing less-reliably Demo-
+cratic voters outside the district.
+And that fact, in turn,
+
+253
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+supports the State’s answers to the questions we previously
+found critical.
+D
+The District Court also relied on two pieces of “direct”
+evidence of discriminatory intent.
+1
+The court found that a legislative redistricting leader,
+Senator Roy Cooper, when testifying before a legislative
+committee in 1997, had said that the 1997 plan satisﬁes a
+“need for ‘racial and partisan’ balance.”
+133 F. Supp. 2d, at
+419.
+The court concluded that the words “racial balance”
+referred to a 10-to-2 Caucasian/African-American balance
+in the State’s 12-member congressional delegation.
+Ibid.
+Hence, Senator Cooper had admitted that the legislature had
+drawn the plan with race in mind.
+Senator Cooper’s full statement reads as follows:
+“Those of you who dealt with Redistricting before real-
+ize that you cannot solve each problem that you encoun-
+ter and everyone can ﬁnd a problem with this Plan.
+However, I think that overall it provides for a fair, geo-
+graphic, racial and partisan balance throughout the
+State of North Carolina.
+I think in order to come to an
+agreement all sides had to give a little bit, but I think
+we’ve reached an agreement that we can live with.”
+App. 460.
+We agree that one can read the statement about “racial . . .
+balance” as the District Court read it—to refer to the cur-
+rent congressional delegation’s racial balance.
+But even as
+so read, the phrase shows that the legislature considered
+race, along with other partisan and geographic considera-
+tions; and as so read it says little or nothing about whether
+race played a predominant role comparatively speaking.
+See Vera, 517 U. S., at 958 (O’Connor, J., principal opinion)
+(“Strict scrutiny does not apply merely because redistricting
+
+254
+EASLEY v. CROMARTIE
+Opinion of the Court
+is performed with consciousness of race”); see also Miller,
+515 U. S., at 916 (legislatures “will . . . almost always be
+aware of racial demographics”); Shaw I, 509 U. S., at 646
+(same).
+2
+The second piece of “direct” evidence relied upon by
+the District Court is a February 10, 1997, e-mail sent from
+Gerry Cohen, a legislative staff member responsible for
+drafting districting plans, to Senator Cooper and Senator
+Leslie Winner.
+Cohen wrote: “I have moved Greensboro
+Black community into the 12th, and now need to take [about]
+60,000 out of the 12th.
+I await your direction on this.”
+App. 369.
+The reference to race—i. e., “Black community”—is ob-
+vious.
+But the e-mail does not discuss the point of the
+reference.
+It does not discuss why Greensboro’s African-
+American voters were placed in the 12th District; it does
+not discuss the political consequences of failing to do so;
+it is addressed only to two members of the legislature; and
+it suggests that the legislature paid less attention to race in
+respect to the 12th District than in respect to the 1st Dis-
+trict, where the e-mail provides a far more extensive, de-
+tailed discussion of racial percentages.
+It is less persuasive
+than the kinds of direct evidence we have found signiﬁcant
+in other redistricting cases.
+See Vera, supra, at 959 (O’Con-
+nor, J., principal opinion) (State conceded that one of its
+goals was to create a majority-minority district); Miller,
+supra, at 907 (State set out to create majority-minority
+district); Shaw II, 517 U. S., at 906 (recounting testimony
+by Cohen that creating a majority-minority district was
+the “principal reason” for the 1992 version of District 12).
+Nonetheless, the e-mail offers some support for the District
+Court’s conclusion.
+E
+As we have said, we assume that the maps appended
+to appellees’ brief reﬂect the record insofar as that record
+
+255
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+describes the relation between District 12’s boundaries and
+reliably Democratic voting behavior.
+Consequently we shall
+consider appellees’ related claims, made on appeal, that the
+maps provide signiﬁcant support for the District Court, in
+that they show how the legislature might have “swapped”
+several more heavily African-American District 12 precincts
+for other less heavily African-American adjacent precincts—
+without harming its basic “safely Democratic” political objec-
+tive.
+Cf. supra, at 246–247.
+First, appellees suggest, without identifying any speciﬁc
+swap, that the legislature could have brought within District
+12 several reliably Democratic, primarily white, precincts in
+Forsyth County.
+See Brief for Appellees 30.
+None of these
+precincts, however, is more reliably Democratic than the pre-
+cincts immediately adjacent and within District 12.
+See Ap-
+pendix A, infra (showing Democratic strength reﬂected by
+Republican victories in each precinct); App. 484 (showing
+Democratic strength reﬂected by Democratic registration).
+One of them, the Brown/Douglas Recreation Precinct, is
+heavily African-American.
+See ibid.
+And the remainder
+form a buffer between the home precinct of Fifth District
+Representative Richard Burr and the District 12 border,
+such that their removal from District 5 would deprive Rep-
+resentative Burr of a large portion of his own hometown,
+making him more vulnerable to a challenge from elsewhere
+within his district.
+App. to Juris. Statement 209a; App. 623.
+Consequently the Forsyth County precincts do not signiﬁ-
+cantly help appellees’ “race, not politics,” thesis.
+Second, appellees say that the legislature might have
+swapped two District 12 Davidson County precincts (Thom-
+asville 1 and Lexington 3) for a District 6 Guilford County
+precinct (Greensboro 17).
+See Brief for Appellees 30, n. 25.
+Whatever the virtues of such a swap, however, it would have
+diminished the size of District 12, geographically producing
+an unusually narrow isthmus linking District 12’s north with
+its south and demographically producing the State’s smallest
+
+256
+EASLEY v. CROMARTIE
+Opinion of the Court
+district, deviating by about 1,300 below the legislatively en-
+dorsed ideal mean of 552,386 population.
+Traditional dis-
+tricting considerations consequently militated against any
+such swap.
+See Record, Deposition of Linwood Lee Jones
+122 (stating that legislature’s goal was to keep deviations
+from ideal population to less than 1,000); App. 199 (testimony
+of Sen. Cooper to same effect).
+Third, appellees suggest that, in Mecklenburg County,
+two District 12 precincts (Charlotte 81 and LCI-South) be
+swapped with two District 9 precincts (Charlotte 10 and 21).
+See Brief for Appellees 30, n. 25.
+This suggestion is difﬁcult
+to evaluate, as the parties provide no map that speciﬁcally
+identiﬁes each precinct in Mecklenburg County by name.
+Nonetheless, from what we can tell, such a swap would make
+the district marginally more white (decreasing the African-
+American population by about 300 persons) while making
+the shape more questionable, leaving the precinct immedi-
+ately to the south of Charlotte 81 jutting out into District 9.
+We are not convinced that this proposal materially advances
+appellees’ claim.
+Fourth, appellees argue that the legislature could have
+swapped two reliably Democratic Greensboro precincts out-
+side District 12 (11 and 14) for four reliably Republican High
+Point precincts (1, 13, 15, and 19) placed within District 12.
+See ibid.
+The swap would not have improved racial balance
+signiﬁcantly, however, for each of the six precincts have an
+African-American population of less than 35%.
+Addition-
+ally, it too would have altered the shape of District 12 for
+the worse.
+See Appendix D, infra; see also App. 622 (testi-
+mony of Gerry Cohen).
+And, in any event, the decision to
+exclude the two Greensboro precincts seems to reﬂect the
+legislature’s decision to draw boundaries that follow main
+thoroughfares in Guilford County.
+App. to Juris. Statement
+205a; App. 575.
+Even if our judgments in respect to a few of these pre-
+cincts are wrong, a showing that the legislature might
+
+257
+Cite as: 532 U. S. 234 (2001)
+Opinion of the Court
+have “swapped” a handful of precincts out of a total of 154
+precincts, involving a population of a few hundred out of a
+total population of about half a million, cannot signiﬁcantly
+strengthen appellees’ case.
+IV
+We concede the record contains a modicum of evidence
+offering support for the District Court’s conclusion.
+That
+evidence includes the Cohen e-mail, Senator Cooper’s refer-
+ence to “racial balance,” and to a minor degree, some aspects
+of Dr. Weber’s testimony.
+The evidence taken together,
+however, does not show that racial considerations pre-
+dominated in the drawing of District 12’s boundaries.
+That
+is because race in this case correlates closely with political
+behavior.
+The basic question is whether the legislature
+drew District 12’s boundaries because of race rather than
+because of political behavior (coupled with traditional, non-
+racial districting considerations).
+It is not, as the dissent
+contends, see post, at 266 (opinion of Thomas, J.), whether a
+legislature may defend its districting decisions based on a
+“stereotype” about African-American voting behavior.
+And
+given the fact that the party attacking the legislature’s deci-
+sion bears the burden of proving that racial considerations
+are “dominant and controlling,” Miller, 515 U. S., at 913,
+given the “demanding” nature of that burden of proof, id., at
+929 (O’Connor, J., concurring), and given the sensitivity, the
+“extraordinary caution,” that district courts must show to
+avoid treading upon legislative prerogatives, id., at 916 (ma-
+jority opinion), the attacking party has not successfully
+shown that race, rather than politics, predominantly accounts
+for the result.
+The record leaves us with the “deﬁnite and
+ﬁrm conviction,” United States Gypsum Co., 333 U. S., at 395,
+that the District Court erred in ﬁnding to the contrary.
+And we do not believe that providing appellees a further
+opportunity to make their “precinct swapping” arguments in
+the District Court could change this result.
+
+258
+EASLEY v. CROMARTIE
+Opinion of the Court
+We can put the matter more generally as follows: In a case
+such as this one where majority-minority districts (or the
+approximate equivalent) are at issue and where racial identi-
+ﬁcation correlates highly with political afﬁliation, the party
+attacking the legislatively drawn boundaries must show at
+the least that the legislature could have achieved its legiti-
+mate political objectives in alternative ways that are com-
+parably consistent with traditional districting principles.
+That party must also show that those districting alterna-
+tives would have brought about signiﬁcantly greater racial
+balance.
+Appellees failed to make any such showing here.
+We conclude that the District Court’s contrary ﬁndings are
+clearly erroneous.
+Because of this disposition, we need not
+address appellants’ alternative grounds for reversal.
+The judgment of the District Court is
+Reversed.
+[Appendixes containing maps from appellees’ and appel-
+lants’ briefs follow this page.]
+
+
+
+
+
+259
+Cite as: 532 U. S. 234 (2001)
+Thomas, J., dissenting
+Justice Thomas, with whom The Chief Justice, Jus-
+tice Scalia, and Justice Kennedy join, dissenting.
+The issue for the District Court was whether racial con-
+siderations were predominant in the design of North Caro-
+lina’s Congressional District 12.
+The issue for this Court
+is simply whether the District Court’s factual ﬁnding—
+that racial considerations did predominate—was clearly erro-
+neous.
+Because I do not believe the court below committed
+clear error, I respectfully dissent.
+I
+The District Court’s conclusion that race was the pre-
+dominant factor motivating the North Carolina Legislature
+is a factual ﬁnding.
+See Hunt v. Cromartie, 526 U. S. 541,
+549 (1999); Lawyer v. Department of Justice, 521 U. S. 567,
+580 (1997); Shaw v. Hunt, 517 U. S. 899, 905 (1996); Miller v.
+Johnson, 515 U. S. 900, 910 (1995).
+See also Anderson v.
+Bessemer City, 470 U. S. 564, 573 (1985) (“[I]ntentional dis-
+crimination is a ﬁnding of fact . . .”).
+Accordingly, we should
+not overturn the District Court’s determination unless it is
+clearly erroneous.
+See Lawyer, supra, at 580; Shaw, supra,
+at 910; Miller, supra, at 917.
+We are not permitted to re-
+verse the court’s ﬁnding “simply because [we are] convinced
+that [we] would have decided the case differently.”
+Ander-
+son, supra, at 573.
+“Where there are two permissible views
+of the evidence, the factﬁnder’s choice between them cannot
+be clearly erroneous.”
+470 U. S., at 574.
+We should upset
+the District Court’s ﬁnding only if we are “ ‘left with the
+deﬁnite and ﬁrm conviction that a mistake has been com-
+mitted.’ ”
+Id., at 573 (quoting United States v. United States
+Gypsum Co., 333 U. S. 364, 395 (1948)).
+The Court does cite cases that address the correct stand-
+ard of review, see ante, at 242, and does couch its conclusion
+in “clearly erroneous” terms, see ante, at 257–258.
+But
+these incantations of the correct standard are empty ges-
+tures, contradicted by the Court’s conclusion that it must
+
+260
+EASLEY v. CROMARTIE
+Thomas, J., dissenting
+engage in “extensive review.”
+See ante, at 243.
+In several
+ways, the Court ignores its role as a reviewing court and
+engages in its own factﬁnding enterprise.1
+First, the Court
+suggests that there is some signiﬁcance to the absence of
+an intermediate court in this action.
+See ante, at 242–243.
+This cannot be a legitimate consideration.
+If it were le-
+gitimate, we would have mentioned it in prior redistricting
+cases.
+After all, in Miller and Shaw, we also did not have
+the beneﬁt of intermediate appellate review.
+See also
+United States v. Oregon State Medical Soc., 343 U. S. 326,
+330, 332 (1952) (engaging in clear error review of factual
+ﬁndings in a Sherman Act case where there was no interme-
+diate appellate review).
+In these cases, we stated that the
+standard was simply “clearly erroneous.”
+Moreover, the
+implication of the Court’s argument is that intermediate
+courts, because they are the ﬁrst reviewers of the factﬁnder’s
+conclusions, should engage in a level of review more rigorous
+than clear error review.
+This suggestion is not supported
+by law.
+See Fed. Rule Civ. Proc. 52(a) (“Findings of fact,
+whether based on oral or documentary evidence, shall not be
+set aside unless clearly erroneous . . .”).
+In fact, the very
+case the Court cited to articulate clear error review dis-
+cussed the standard as it applied to an intermediate appel-
+late court, which obviously did not have the beneﬁt of an-
+other layer of review.
+See ante, at 242 (citing Anderson,
+supra, at 573).
+Second, the Court appears to discount clear error review
+here because the trial was “not lengthy.”
+Ante, at 243.
+Even if considerations such as the length of the trial were
+relevant in deciding how to review factual ﬁndings, an as-
+1 Despite its citation of Bose Corp. v. Consumers Union of United States,
+Inc., 466 U. S. 485 (1984), ante, at 243, I do not read the Court’s opinion to
+suggest that the predominant factor inquiry, like the actual malice inquiry
+in Bose, should be reviewed de novo because it is a “constitutional fac[t].”
+466 U. S., at 515 (Rehnquist, J., dissenting).
+Nor could it, given our hold-
+ings in Lawyer v. Department of Justice, 521 U. S. 567 (1997), Miller v.
+Johnson, 515 U. S. 900 (1995), and Shaw v. Hunt, 517 U. S. 899 (1996).
+
+261
+Cite as: 532 U. S. 234 (2001)
+Thomas, J., dissenting
+sumption about which I have my doubts,2 these considera-
+tions would not counsel against deference in this action.
+The trial was not “just a few hours” long, Bose Corp. v. Con-
+sumers Union of United States, Inc., 466 U. S. 485, 500
+(1984); it lasted for three days in which the court heard the
+testimony of 12 witnesses.
+And quite apart from the total
+trial time, the District Court sifted through hundreds of
+pages of deposition testimony and expert analysis, including
+statistical analysis.
+It also should not be forgotten that one
+member of the panel has reviewed the iterations of District
+12 since 1992.
+If one were to calibrate clear error review
+according to the trier of fact’s familiarity with the case, there
+is simply no question that the court here gained a working
+knowledge of the facts of this litigation in myriad ways over
+a period far longer than three days.
+Third, the Court downplays deference to the District
+Court’s ﬁnding by highlighting that the key evidence was
+expert testimony requiring no traditional credibility deter-
+minations.
+See ante, at 243.
+As a factual matter, the Court
+overlooks the District Court’s express assessment of the leg-
+islative redistricting leader’s credibility.
+See Cromartie v.
+Hunt, 133 F. Supp. 2d 407, 419, 420, n. 8 (EDNC 2000).
+It is also likely that the court’s interpretation of the e-mail
+written by Gerry Cohen, the primary drafter of District 12,
+was inﬂuenced by its evaluation of Cohen as a witness.
+See
+id., at 420, n. 8.
+See also App. 261–268.
+And, as a legal
+matter, the Court’s emphasis on the technical nature of the
+2 Bose, which the Court cites to support its discounting of clear error
+review, ante, at 243, does state that “the likelihood that the appellate court
+will rely on the presumption [of correctness of factual ﬁndings] tends to
+increase when trial judges have lived with the controversy for weeks or
+months instead of just a few hours.”
+466 U. S., at 500.
+It is unclear,
+however, what bearing this statement of fact—that appellate courts will
+defer to factual ﬁndings more often when the trial was long—had on our
+understanding of the scope of clear error review.
+In Bose, we held that
+a lower court’s “actual malice” ﬁnding must be reviewed de novo, see
+id., at 514, not that clear error review must be calibrated to the length
+of trial.
+
+262
+EASLEY v. CROMARTIE
+Thomas, J., dissenting
+evidence misses the mark.
+Although we have recognized
+that particular weight should be given to a trial court’s credi-
+bility determinations, we have never held that factual ﬁnd-
+ings based on documentary evidence and expert testimony
+justify “extensive review,” ante, at 243.
+On the contrary,
+we explained in Anderson that “[t]he rationale for def-
+erence . . . is not limited to the superiority of the trial judge’s
+position to make determinations of credibility.”
+470 U. S.,
+at 574.
+See also Fed. Rule Civ. Proc. 52(a) (speciﬁcally re-
+ferring to oral and documentary evidence).
+Instead, the ra-
+tionale for deference extends to all determinations of fact
+because of the trial judge’s “expertise” in making such deter-
+minations.
+470 U. S., at 574.
+Accordingly, deference to the
+factﬁnder “is the rule, not the exception,” id., at 575, and I
+see no reason to depart from this rule in the case before
+us now.
+Finally, perhaps the best evidence that the Court has
+emptied clear error review of meaningful content in the re-
+districting context (and the strongest testament to the fact
+that the District Court was dealing with a complex fact
+pattern) is the Court’s foray into the minutiae of the record.
+I do not doubt this Court’s ability to sift through volumes of
+facts or to argue its interpretation of those facts persua-
+sively.
+But I do doubt the wisdom, efﬁciency, increased ac-
+curacy, and legitimacy of an extensive review that is any
+more searching than clear error review.
+See id., 574–575
+(“Duplication of the trial judge’s efforts . . . would very likely
+contribute only negligibly to the accuracy of fact determina-
+tion at a huge cost in diversion of judicial resources”).
+Thus,
+I would follow our precedents and simply review the District
+Court’s ﬁnding for clear error.
+II
+Reviewing for clear error, I cannot say that the District
+Court’s view of the evidence was impermissible.3
+First, the
+3 I assume, because the District Court did, that the goal of protecting
+incumbents is legitimate, even where, as here, individuals are incumbents
+
+263
+Cite as: 532 U. S. 234 (2001)
+Thomas, J., dissenting
+court relied on objective measures of compactness, which
+show that District 12 is the most geographically scattered
+district in North Carolina, to support its conclusion that the
+district’s design was not dictated by traditional districting
+concerns.
+133 F. Supp. 2d, at 419.
+Although this evidence
+was available when we held that summary judgment was
+inappropriate, we certainly did not hold that it was irrele-
+vant in determining whether racial gerrymandering oc-
+curred.
+On the contrary, we determined that there was a
+triable issue of fact.
+Moreover, although we acknowledged
+“that a district’s unusual shape can give rise to an inference
+of political motivation,” we “doubt[ed] that a bizarre shape
+equally supports a political inference and a racial one.”
+Hunt, 526 U. S., at 547, n. 3.
+As we explained, “[s]ome
+districts . . . are ‘so highly irregular that [they] rationally
+cannot be understood as anything other than an effort to
+segregat[e] . . . voters’ on the basis of race.”
+Ibid. (internal
+quotation marks omitted).
+Second, the court relied on the expert opinion of Dr.
+Weber, who interpreted statistical data to conclude that
+there were Democratic precincts with low black popula-
+tions excluded from District 12, which would have created
+a more compact district had they been included.4
+133
+F. Supp. 2d, at 419.
+And contrary to the Court’s assertion,
+Dr. Weber did not merely examine the registration data in
+reaching his conclusions.
+Dr. Weber explained that he refo-
+by virtue of their election in an unconstitutional racially gerrymandered
+district.
+No doubt this assumption is a questionable proposition.
+Be-
+cause the issue was not presented in this action, however, I do not read
+the Court’s opinion as addressing it.
+4 I do not think it necessary to impose a new burden on appellees to
+show that districting alternatives would have brought about “signiﬁcantly
+greater racial balance.”
+Ante, at 258.
+I cannot say that it was imper-
+missible for the court to conclude that race predominated in this action
+even if only a slightly better district could be drawn absent racial consid-
+erations.
+The District Court may reasonably have found that racial moti-
+vations predominated in selecting one alternative over another even if the
+net effect on racial balance was not “signiﬁcant.”
+
+264
+EASLEY v. CROMARTIE
+Thomas, J., dissenting
+cused his analysis on performance.
+He did so in response
+to our concerns, when we reversed the District Court’s sum-
+mary judgment ﬁnding, that voter registration might not be
+the best measure of the Democratic nature of a precinct.
+See ibid. (citing Trial Tr., which appears at App. 90–92, 105–
+107, 156–157).
+This fact was not lost on the District Court,
+which speciﬁcally referred to those pages of the record cov-
+ering Dr. Weber’s analysis of performance.
+Third, the court credited Dr. Weber’s testimony that the
+districting decisions could not be explained by political mo-
+tives.5
+133 F. Supp. 2d, at 419.
+In the ﬁrst instance, I, like
+the Court, ante, at 246–247, might well have concluded that
+District 12 was not signiﬁcantly “safer” than several other
+districts in North Carolina merely because its Democratic
+reliability exceeded the optimum by only 3 percent.
+And I
+might have concluded that it would make political sense for
+incumbents to adopt a “the more reliable the better” policy
+5 Dr. Weber admitted that, when he ﬁrst concluded that race was the
+motivating factor, he was under the mistaken impression that the legis-
+lature’s computer program provided only racial, not political, data.
+The
+Court ﬁnds that this admission undercut the validity of Dr. Weber’s
+conclusions.
+See ante, at 249–250.
+Although the District Court could
+have found that this impression was a sufﬁciently signiﬁcant assumption
+in Dr. Weber’s analysis that the conclusions drawn from the analysis were
+suspect, it was not required to do so as a matter of logic.
+The court
+reasonably could have believed that the false impression had very little
+to do with the statistical analysis that was largely responsible for
+Dr. Weber’s conclusions.
+In addition, the Court discounts Dr. Weber’s testimony because he “ex-
+press[ed] disdain for a process that we have cautioned courts to respect,”
+ante, at 250.
+Dr. Weber did openly state that he believes that the best
+districts he had seen in the 1990’s were those drawn by judges, not by
+legislatures.
+App. 150–151.
+However, whether Dr. Weber was simply
+stating the conclusions he has reached through his experience or was ex-
+pressing a feeling of contempt toward the legislature is precisely the kind
+of tone, demeanor, and bias determination that even the Court acknowl-
+edges should be left to the factﬁnder, cf. ante, at 243.
+
+265
+Cite as: 532 U. S. 234 (2001)
+Thomas, J., dissenting
+in districting.
+However, I certainly cannot say that the
+court’s inference from the facts was impermissible.6
+Fourth, the court discredited the testimony of the State’s
+witness, Dr. Peterson.
+133 F. Supp. 2d, at 420 (explaining
+that Dr. Weber testiﬁed that Dr. Peterson’s analysis “ig-
+nor[ed] the core,” “ha[d] not been appropriately done,” and
+was “unreliable”).
+Again, like the Court, if I were a district
+court judge, I might have found that Dr. Weber’s insistence
+that one could not ignore the core was unpersuasive.7
+How-
+ever, even if the core could be ignored, it seems to me that
+Dr. Weber’s testimony—that Dr. Peterson had failed to ana-
+lyze all of the segments and thus that his analysis was incom-
+plete, App. 119–120—reasonably could have supported the
+court’s conclusion.
+Finally, the court found that other evidence demonstrated
+that race was foremost on the legislative agenda: an e-mail
+6 The Court also criticizes Dr. Weber’s testimony that Precinct 77’s split
+was racially motivated and his proposed alternative that all of Precinct 77
+could have been moved into District 9.
+Apparently the Court believes
+that it is obvious that the Republican incumbent in District 9 would not
+have wanted the whole of Precinct 77 in her district.
+See ante, at 248.
+But the Court addresses only part of Dr. Weber’s alternative of how the
+districts could have been drawn in a race-neutral fashion.
+Dr. Weber
+explained that the alternative was not simply to move Precinct 77 into
+District 9.
+The alternative would also include moving other reliably
+Democratic precincts out of District 9 and into District 12, which pre-
+sumably would have satisﬁed the incumbent.
+App. 157.
+This move
+would have had the result, not only of keeping Precinct 77 intact, but
+also of widening the corridor between the eastern and western portions
+of District 9 and thereby increasing the functional contiguity.
+The
+Court’s other criticism, that moving all of Precinct 77 into District 12
+would not work, is simply a red herring.
+Dr. Weber talked only of moving
+all of Precinct 77 into District 9, not of moving all of Precinct 77 into
+District 12.
+7 Of course, considering that District 12 has never been constitutionally
+drawn, Dr. Weber’s criticism—that the problem with the district lies not
+just at its edges, but at its core—is not without force.
+
+266
+EASLEY v. CROMARTIE
+Thomas, J., dissenting
+from the drafter of the 1992 and 1997 plans to senators in
+charge of legislative redistricting, the computer capability
+to draw the district by race, and statements made by Sena-
+tor Cooper that the legislature was going to be able to avoid
+Shaw’s majority-minority trigger by ending just short of the
+majority.8
+133 F. Supp. 2d, at 420.
+The e-mail, in combina-
+tion with the indirect evidence, is evidence ample enough to
+support the District Court’s ﬁnding for purposes of clear
+error review.
+The drafter of the redistricting plans re-
+ported in the bluntest of terms: “I have moved Greensboro
+Black community into the 12th [District], and now need to
+take . . . 60,000 out of the 12th [District].”
+App. 369.
+Cer-
+tainly the District Court was entitled to believe that the
+drafter was targeting voters and shifting district boundaries
+purely on the basis of race.
+The Court tries to belittle the
+import of this evidence by noting that the e-mail does not
+discuss why blacks were being targeted.
+See ante, at 254.
+However, the District Court was assigned the task of deter-
+mining whether, not why, race predominated.
+As I see it,
+this inquiry is sufﬁcient to answer the constitutional ques-
+tion because racial gerrymandering offends the Constitution
+whether the motivation is malicious or benign.
+It is not a
+defense that the legislature merely may have drawn the dis-
+trict based on the stereotype that blacks are reliable Demo-
+8 The court also relied on the statement of legislative redistricting leader
+Senator Cooper to the North Carolina Legislature, see 133 F. Supp. 2d, at
+419, in which the senator mentioned the goals of geographical, political,
+and racial balance, App. 460.
+In isolation, this statement does appear to
+support only the ﬁnding that race was a motive.
+Unlike this Court, how-
+ever, the District Court had the advantage of listening to and watching
+Senator Cooper testify.
+I therefore am in no position to question the
+court’s likely analysis that, although Senator Cooper mentioned all three
+motives, the predominance of race was apparent.
+This determination was
+made all the more reasonable by the fact that the District Court found
+the senator’s claim regarding the “happenstance” ﬁnal composition of the
+district to lack credibility in light of the e-mail.
+133 F. Supp. 2d, at 420,
+n. 8.
+
+267
+Cite as: 532 U. S. 234 (2001)
+Thomas, J., dissenting
+cratic voters.
+And regardless of whether the e-mail tended
+to show that the legislature was operating under an even
+stronger racial motivation when it was drawing District
+1 than when it was drawing District 12, cf. ibid., I am
+convinced that the District Court permissibly could have
+accorded great weight to this e-mail as direct evidence of
+a racial motive.
+Surely, a decision can be racially motivated
+even if another decision was also racially motivated.
+If I were the District Court, I might have reached the
+same conclusion that the Court does, that “[t]he evidence
+taken together . . . does not show that racial considerations
+predominated in the drawing of District 12’s boundaries,”
+ante, at 257.
+But I am not the trier of fact, and it is not my
+role to weigh evidence in the ﬁrst instance.
+The only ques-
+tion that this Court should decide is whether the District
+Court’s ﬁnding of racial predominance was clearly erroneous.
+In light of the direct evidence of racial motive and the infer-
+ences that may be drawn from the circumstantial evidence,
+I am satisﬁed that the District Court’s ﬁnding was permissi-
+ble, even if not compelled by the record.

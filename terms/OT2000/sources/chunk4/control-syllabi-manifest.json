@@ -1,0 +1,42 @@
+[
+  {
+    "case": "Buford",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/99-9073.ZS.html",
+    "file": "Buford-ZS.txt",
+    "characters": 3658,
+    "sha256": "788d67fdfe50ad3eeda95cfa2304fbbdaa01b10360b39ea81f81400cacb9baca"
+  },
+  {
+    "case": "TrafFix",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/99-1571.ZS.html",
+    "file": "TrafFix-ZS.txt",
+    "characters": 6306,
+    "sha256": "e15e2439632ee161304bc99b7ed726a8fea7f19cd62f4049101f493170cbf94e"
+  },
+  {
+    "case": "Circuit-City",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/99-1379.ZS.html",
+    "file": "Circuit-City-ZS.txt",
+    "characters": 8309,
+    "sha256": "746d45c4dbda7b4c78d634860ae775789fb71965c5ce7ae1c652825d8cd92378"
+  },
+  {
+    "case": "Egelhoff",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/99-1529.ZS.html",
+    "file": "Egelhoff-ZS.txt",
+    "characters": 6068,
+    "sha256": "29141b9d102c7afdf1e188939257ce3a6cb1d05d1f23d34e224765d5e7c76cdc"
+  },
+  {
+    "case": "Ferguson",
+    "writing": "ZS",
+    "url": "https://www.law.cornell.edu/supct/html/99-936.ZS.html",
+    "file": "Ferguson-ZS.txt",
+    "characters": 7355,
+    "sha256": "d677611c4d5c3d886e47b34f42eff85c2712460868438134bcc66557ba3b392d"
+  }
+]

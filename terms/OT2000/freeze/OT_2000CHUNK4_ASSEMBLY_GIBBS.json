@@ -1,0 +1,100 @@
+{
+  "case": "Gibbs v. Babbitt",
+  "date": "2001-03-21",
+  "record": "terms/OT2000/records/Gibbs_v_Babbitt_merits_2001-03-21.md",
+  "record_sha256": "a4f5b31f35fd60cb6fdf74eb02ffc333b5c804c97af963427873a6f6f01864eb",
+  "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
+  "input_hashes": {
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_GIBBS.md": "59ee1120188575db9355d0699c353c500dfbd02dd254d3bcc705edf10408c679",
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_GIBBS.md": "c06c4adc839cb7d0dd04194c8f3e8b7b09b57a440df1ba7719f53f359faf4051",
+    "terms/OT2000/freeze/OT_2000CHUNK4_EARLY_NEUTRAL_GIBBS_SOURCE.md": "29582abfffc0ebb7ab54dabf6c4bc5ff4940d64340e411234dabf6b50cd8ca95",
+    "terms/OT2000/freeze/OT_2000CHUNK4_GRANTED_MERITS_SUBMISSION_PREMISE.md": "2368cc50af8ab216e38ce329532a64c2d5bf3ab4afd3271b4fc5e83b9fdfae52",
+    "terms/OT2000/entering-law/OT_2000CHUNK4_EARLY_CONSTITUTIONAL_STRUCTURE.md": "cb438eb821d974c8b258c8be2aca75f2420c73e79946a1b315ae806855cc85e3"
+  },
+  "legal_checks": {
+    "final_C_before_Stone": true,
+    "stone_fixed_core_preserved": true,
+    "conditional_votes_activated_only_on_stated_condition": true,
+    "direct_part_i_joins": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "direct_part_ii_joins": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Kennedy",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "no_Marks_aggregation": true,
+    "no_same_day_law": true,
+    "no_new_fact_or_theory": true,
+    "all_separate_positions_retained": true,
+    "no_fallback": true,
+    "no_blocker": true
+  },
+  "judgment_components": [
+    {
+      "component": "vacatur and confined remand",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Kennedy",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stevens",
+        "Souter",
+        "Scalia",
+        "Thomas"
+      ],
+      "counts": [
+        5,
+        4
+      ]
+    }
+  ],
+  "clerical_checks": {
+    "initial_labels": 4,
+    "public_blocks": 11,
+    "projection_identity": true,
+    "explanation_word_counts": [
+      162,
+      257
+    ],
+    "opinion_table_authors_parse": true,
+    "forbidden_content_scan": true,
+    "natural_key": true,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 4,
+      "O'Connor": 4,
+      "Scalia": 4,
+      "Kennedy": 5,
+      "Souter": 5,
+      "Thomas": 4,
+      "Ginsburg": 5,
+      "Breyer": 4
+    },
+    "last_counted_event": {
+      "date": "2001-03-21",
+      "case": "Ferguson v. City of Charleston",
+      "record": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md"
+    },
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Kennedy"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Kennedy"
+    ],
+    "author": "O'Connor"
+  }
+}

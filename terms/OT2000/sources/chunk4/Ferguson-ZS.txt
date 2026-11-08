@@ -1,0 +1,99 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+FERGUSON V. CHARLESTON
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+FERGUSON V. CHARLESTON (99-936) 
+186 F.3d 469, reversed and remanded.Syllabus
+ Opinion
+ [ Stevens ]Concurrence
+ [ Kennedy ]Dissent
+ [ Scalia ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+FERGUSON et al. v. CITY OF CHARLESTON et al.
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+
+ 
+No. 99—936.  Argued October 4, 2000–Decided March 21, 2001
+ 
+
+
+
+
+In the fall of 1988, staff members at the Charleston public hospital operated by the Medical University of South Carolina (MUSC) became concerned about an apparent increase in the use of cocaine by patients who were receiving prenatal treatment.  When the incidence of cocaine use among maternity patients remained unchanged despite referrals for counseling and treatment of patients who tested positive for that drug, MUSC staff offered to cooperate with the city in prosecuting mothers whose children tested positive for drugs at birth.  Accordingly, a task force made up of MUSC representatives, police, and local officials developed a policy which set forth procedures for identifying and testing pregnant patients suspected of drug use; required that a chain of custody be followed when obtaining and testing patients’ urine samples; provided for education and treatment referral for patients testing positive; contained police procedures and criteria for arresting patients who tested positive; and prescribed prosecutions for drug offenses and/or child neglect, depending on the stage of the defendant’s pregnancy.  Other than the provisions describing the substance abuse treatment to be offered women testing positive, the policy made no mention of any change in the prenatal care of such patients, nor did it prescribe any special treatment for the newborns.  Petitioners, MUSC obstetrical patients arrested after testing positive for cocaine, filed this suit challenging the policy’s validity on, inter alia, the theory that warrantless and nonconsensual drug tests conducted for criminal investigatory purposes were unconstitutional searches.  Among its actions, the District Court instructed the jury to find for petitioners unless they had consented to such searches.  The jury found for respondents, and petitioners appealed, arguing that the evidence was not sufficient to support the jury’s consent finding.  In affirming without reaching the consent question, the Fourth Circuit held that the searches in question were reasonable as a matter of law under this Court’s cases recognizing that “special needs” may, in certain exceptional circumstances, justify a search policy designed to serve non-law&nbhyph;enforcement ends.
+
+
+Held: A state hospital’s performance of a diagnostic test to obtain evidence of a patient’s criminal conduct for law enforcement purposes is an unreasonable search if the patient has not consented to the procedure.  The interest in using the threat of criminal sanctions to deter pregnant women from using cocaine cannot justify a departure from the general rule that an official nonconsensual search is unconstitutional if not authorized by a valid warrant.  Pp. 8—18.
+
+
+    (a) Because MUSC is a state hospital, its staff members are government actors subject to the Fourth Amendment’s strictures.  New Jersey v. T. L. O., 469 U.S. 325, 335—337.  Moreover, the urine tests at issue were indisputably searches within that Amendment’s meaning.  Skinner v. Railway Labor Executives’ Assn., 489 U.S. 602, 617.  Furthermore, both lower courts viewed the case as one involving MUSC’s right to conduct searches without warrants or probable cause, and this Court must assume for purposes of decision that the tests were performed without the patients’ informed consent.  Pp. 8—9.
+
+
+      (b) Because the hospital seeks to justify its authority to conduct drug tests and to turn the results over to police without the patients’ knowledge or consent, this case differs from the four previous cases in which the Court considered whether comparable drug tests fit within the closely guarded category of constitutionally permissible suspicionless searches.  See Chandler v. Miller, 520 U.S. 305, 309; see also Skinner, Von Raab, and Acton.  Those cases employed a balancing test weighing the intrusion on the individual’s privacy interest against the “special needs” that supported the program.  The invasion of privacy here is far more substantial than in those cases.  In previous  cases, there was no misunderstanding about the purpose of the test or the potential use of the test results, and there were protections against the dissemination of the results to third parties.  Moreover, those cases involved disqualification from eligibility for particular benefits, not the unauthorized dissemination of test results.  The critical difference, however, lies in the nature of the “special need” asserted.  In each of the prior cases, the “special need” was one divorced from the State’s general law enforcement interest.  Here, the policy’s central and indispensable feature from its inception was the use of law enforcement to coerce patients into substance abuse treatment.  Respondents’ assertion that their ultimate purpose–namely, protecting the health of both mother and child–is a benificent one is unavailing.  While the ultimate goal of the program may well have been to get the women in question into substance abuse treatment and off drugs, the immediate objective of the searches was to generate evidence for law enforcement purposes in order to reach that goal.  Given that purpose and given the extensive involvement of law enforcement officials at every stage of the policy, this case simply does not fit within the closely guarded category of “special needs.”  The fact that positive test results were turned over to the police does not merely provide a basis for distinguishing prior “special needs” cases.  It also provides an affirmative reason for enforcing the Fourth Amendment’s strictures.  While state hospital employees, like other citizens, may have a duty to provide the police with evidence of criminal conduct that they inadvertently acquire in the course of routine treatment, when they undertake to obtain such evidence from their patients for the specific purpose of incriminating those patients, they have a special obligation to make sure that the patients are fully informed about their constitutional rights, as standards of knowing waiver require.  Cf. Miranda v. Arizona, 384 U.S. 436.  Pp. 9—18.
+
+
+186 F.3d 469, reversed and remanded.
+
+
+    Stevens, J., delivered the opinion of the Court, in which O’Connor, Souter, Ginsburg, and Breyer, JJ., joined.  Kennedy, J., filed an opinion concurring in the judgment.  Scalia, J., filed a dissenting opinion, in which Rehnquist, C. J., and Thomas, J., joined as to Part II.
+
+ 
+
+
+
+

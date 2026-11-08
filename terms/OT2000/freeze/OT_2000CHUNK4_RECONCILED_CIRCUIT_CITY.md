@@ -1,0 +1,36 @@
+# Circuit City Stores, Inc. v. Adams — historical reconciliation
+
+**Stage:** C, after the final per-case freeze and before Stone exposure. **Event/cutoff:** March 21, 2001. Preserve `OT_2000CHUNK4_COMMITMENTS_CIRCUIT_CITY.md`. No author assignment or Stone vote is supplied. All eight Associate commitments reconcile at the component and rationale scopes below, subject to checking the completed March 20 public law before assembly.
+
+## Sources and historical topology
+
+The full reading of the Cornell syllabus, Kennedy opinion, Stevens dissent, and Souter dissent, including all notes, and comparison with the official report are documented in `OT_2000CHUNK4_EARLY_SOURCE_VERIFICATION.md`. Saved texts use the `Circuit-City` prefix in `sources/chunk4/`. Primary URLs: https://www.law.cornell.edu/supct/html/99-1379.ZS.html , https://www.law.cornell.edu/supct/html/99-1379.ZO.html , https://www.law.cornell.edu/supct/html/99-1379.ZD.html , https://www.law.cornell.edu/supct/html/99-1379.ZD1.html , and https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-105.pdf . The saved full lower opinion `Circuit-City-CA9-web.txt` and independently validated targeted factual handoff establish only the company's asserted section 1332 basis, not a judicial finding satisfying diversity.
+
+Historically Kennedy, Rehnquist, O'Connor, Scalia and Thomas reversed and remanded on the transportation-worker construction of section 1. Stevens dissented with Ginsburg and Breyer throughout; Souter joined only Parts II and III. Souter separately dissented with Stevens, Ginsburg and Breyer. Stevens's separate Part I treatment of section 2 is therefore not an all-four dissent ground. No historical author or separate-writing arrangement is imposed here.
+
+Read the final frozen rows, neutral and validated facts, actual Allied-Bruce holdings and separate positions, and current Green Tree and Eastern Associated Coal law. The original federal compulsion proceeding is materially distinct from the state-court command challenged by Scalia and Thomas in Allied-Bruce. The antecedent state discrimination lawsuit does not erase that difference. Neither coverage nor the asserted diversity basis establishes every jurisdictional, contractual or injunction predicate.
+
+## Justice-specific comparison
+
+| Justice | Reconciled coverage position | Historical and actual-law assessment |
+|---|---|---|
+| Stevens | Affirm the section 1 employment exclusion under the contextual residual-clause construction. | Matches his historical dissent on that construction. The frozen row supplies no independently sufficient section 2 exclusion and must not be expanded to include one merely because his historical Part I did so. Actual Allied-Bruce reserves section 1; Green Tree's access analysis does not substitute for statutory eligibility. |
+| O'Connor | Reverse and remand on the transportation-worker construction. | Matches her historical full majority join. Her actual Allied-Bruce stare-decisis reservation concerns state-court scope, and her current Green Tree position concerns the need for a cost-development opportunity. Neither changes the section 1 textual premise. |
+| Scalia | Reverse on the same coverage construction, preserving actual enforcement predicates. | Matches his historical full majority join. His actual Allied-Bruce and Casarotto state-court objections do not resolve this original federal proceeding. No endorsement of a new state-court proposition or unconditional compulsion follows. |
+| Kennedy | Reverse and remand on the named-classes and residual-text ground. | Matches his historical full majority join. The broader section 2 commerce rule does not erase section 1's own terms; First Options and actual general-defense law remain operative after coverage. |
+| Souter | Affirm the broad employment exclusion under the enactment-context and coherent-commerce reading. | Matches his historical separate dissent and limited join of Stevens. The frozen ground does not claim that he joined an independent section 2 exclusion. Actual Green Tree's separation of distinct statutory inquiries supports caution without deciding this labor exclusion. |
+| Thomas | Reverse on transportation-worker coverage and leave federal jurisdiction, contractual and remedial conditions intact. | Matches his historical full majority join. His actual state-court nonapplication position remains separate; the lower opinion's asserted section 1332 basis is neither proof of a defect nor conclusive proof of jurisdiction. |
+| Ginsburg | Affirm the broad employment-contract exclusion on the supplied residual-clause context. | Matches her historical dissent joins at that shared level. Her actual Green Tree access position does not create a categorical exception for discrimination claims or an automatic cost hearing here. |
+| Breyer | Affirm on the broader employment exclusion, while preserving general defenses if contrary coverage governs. | Matches his historical dissent joins. His actual Allied-Bruce and First Options writings require statutory context and contractual authority, not an undifferentiated arbitration policy. No new legislative quotation or constitutional jury-waiver rule is supplied. |
+
+No material departure in coverage disposition or shared sufficient rationale is established. Four Associates support reversal on a transportation-worker exclusion; four support affirmance on the broader employment exclusion. Their agreement that actual defenses survive is an independent boundary, not a merger of those contrary statutory constructions.
+
+## Enforcement and mandate limits
+
+All eight preserve actual formation, assent, delegation and clause scope, genuinely general revocation defenses, jurisdiction, preservation and lawful implementing relief. Those limits are supported by actual entering law. They do not establish that any particular defense succeeds, that a delegation exists, or that an injunction against the state proceeding is authorized. Adams's state-law claims do not automatically carry Green Tree's federal-statutory-rights premise, and no conjectural cost obstacle mandates new litigation.
+
+If coverage reversal governs, the categorical employment exclusion is removed and the case returns for lawful further proceedings. Do not automatically reinstate every part of the district order or treat coverage as a final order compelling all claims. If the broad exclusion governs, the federal compulsion claim cannot rest on the FAA construction rejected by those four Associates. No claim merits or damages are decided.
+
+**Remaining condition:** Check completed March 20 public law before assembly. The reconciled Buford sentencing-review and TrafFix functionality grounds identify no material dependency here; no presently identified source, vote, join or legal-premise blocker remains.
+
+**Chronology check completed:** The complete public reading copy `entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-03-21.md` was read after both March 20 Records were written. Buford preserves legal review without a universal mixed-question rule; TrafFix resolves functional trade dress and its own confined relief. Neither changes Circuit City's statutory coverage, jurisdiction, consent, defense or mandate premise. The preceding condition is satisfied; this per-case handoff is final and assembly-ready.

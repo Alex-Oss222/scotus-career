@@ -1,0 +1,49 @@
+Source: https://www.law.cornell.edu/supct/html/99-1702.ZS.html
+
+TEXAS V. COBB
+
+LII
+
+Supreme Court
+
+TEXAS V. COBB (99-1702)
+___ S. W. 3d ___, reversed.
+Syllabus
+Opinion
+[ Rehnquist ]Concurrence
+[ Kennedy ]Dissent
+[ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+TEXAS v. COBB
+
+CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TEXAS
+
+No. 99—1702. Argued January 16, 2001–Decided April 2, 2001
+
+While under arrest for an unrelated offense, respondent confessed to a home burglary, but denied knowledge of a woman and child’s disappearance from the home. He was indicted for the burglary, and counsel was appointed to represent him. He later confessed to his father that he had killed the woman and child, and his father then contacted the police. While in custody, respondent waived his rights under Miranda v. Arizona, 384 U.S. 436, and confessed to the murders. He was convicted of capital murder and sentenced to death. On appeal to the Texas Court of Criminal Appeals, he argued, inter alia, that his confession should have been suppressed because it was obtained in violation of his Sixth Amendment right to counsel, which he claimed attached when counsel was appointed in the burglary case. The court reversed and remanded, holding that once the right to counsel attaches to the offense charged, it also attaches to any other offense that is very closely related factually to the offense charged.
+
+Held: Because the Sixth Amendment right to counsel is “offense specific,” it does not necessarily extend to offenses that are “factually related” to those that have actually been charged. Pp. 4—11.
+
+(a) In McNeil v. Wisconsin, 501 U.S. 171, 176, this Court held that a defendant’s statements regarding offenses for which he has not been charged are admissible notwithstanding the attachment of his Sixth Amendment right to counsel on other charged offenses. Although some lower courts have read into McNeil’s offense-specific definition an exception for crimes that are “factually related” to a charged offense, and have interpreted Brewer v. Williams, 430 U.S. 387, and Maine v. Moulton, 474 U.S. 159, to support this view, this Court declines to do so. Brewer did not address the question at issue here. And to the extent Moulton spoke to the matter at all, it expressly referred to the offense-specific nature of the Sixth Amendment right to counsel. In predicting that the offense-specific rule will prove disastrous to suspects’ constitutional rights and will permit the police almost total license to conduct unwanted and uncounseled interrogations, respondent fails to appreciate two critical considerations. First, there can be no doubt that a suspect must be apprised of his rights against compulsory self-incrimination and to consult with an attorney before authorities may conduct custodial interrogation. See Miranda, supra, at 479. Here, police scrupulously followed Miranda’s dictates when questioning respondent. Second, the Constitution does not negate society’s interest in the police’s ability to talk to witnesses and suspects, even those who have been charged with other offenses. See McNeil, supra, at 181. Pp. 4—9.
+
+(b) Although the Sixth Amendment right to counsel clearly attaches only to charged offenses, this Court has recognized in other contexts that the definition of an “offense” is not necessarily limited to the four corners of a charging document. The test to determine whether there are two different offenses or only one is whether each provision requires proof of a fact which the other does not. Blockburger v. United States, 284 U.S. 299, 304. The Blockburger test has been applied to delineate the scope of the Fifth Amendment’s Double Jeopardy Clause, which prevents multiple or successive prosecutions for the “same offense.” See, e.g., Brown v. Ohio, 432 U.S. 161, 164—166. There is no constitutional difference between “offense” in the double jeopardy and right-to-counsel contexts. Accordingly, when the Sixth Amendment right to counsel attaches, it encompasses offenses that, even if not formally charged, would be considered the same offense under the Blockburger test. Pp. 9—11.
+
+(c) At the time respondent confessed to the murders, he had been indicted for burglary but had not been charged in the murders. As defined by Texas law, these crimes are not the same offense under Blockburger. Thus, the Sixth Amendment right to counsel did not bar police from interrogating respondent regarding the murders, and his confession was therefore admissible. P. 11.
+
+___ S. W. 3d ___, reversed.
+
+Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. Kennedy, J., filed a concurring opinion, in which Scalia and Thomas, JJ., joined. Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.

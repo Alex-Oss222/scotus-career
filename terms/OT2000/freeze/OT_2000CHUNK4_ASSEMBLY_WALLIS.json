@@ -1,0 +1,140 @@
+{
+  "case": "Wallis v. Spencer",
+  "date": "2001-04-02",
+  "record": "terms/OT2000/records/Wallis_v_Spencer_merits_2001-04-02.md",
+  "record_sha256": "ce67b4a672eef72a0f0305ce4f733d7a378812f6aa4980f6b468e4e61bd3500c",
+  "status": "Assembly legal and clerical checks passed; Record written. Workspace integration and chunk checks remain with root.",
+  "input_hashes": {
+    "terms/OT2000/freeze/OT_2000CHUNK4_COMMITMENTS_WALLIS.md": "25a481afdf0d89c32bca2c721a12399f2c3123d4d0b920e8aa60b53cc2028fde",
+    "terms/OT2000/freeze/OT_2000CHUNK4_WALLIS_MODEL_SOURCE_RECEIPT.md": "f78dbd7ae90961df66f89e766d7981049ed107e4acc650473cb416b5774c0b54",
+    "terms/OT2000/freeze/OT_2000CHUNK4_RECONCILED_WALLIS.md": "86cf73cebc605311da7244ca4029cf0baf4548128a11c8926f9a4278efbcc789",
+    "terms/OT2000/freeze/OT_2000CHUNK4_WALLIS_NEUTRAL_REFRESH.md": "042c96feb2e7a62a8cb007424ac22e7648c847b7e239713e5acaa8d54b17b2a8",
+    "terms/OT2000/runtime/OT_2000CHUNK4_STONE.md": "9b0b1a74fd8b06048dfd89f406b2c23f347294d54bc72ed552e05082b4fdcfb4",
+    "terms/OT2000/entering-law/OT_2000CHUNK4_EFFECTIVE_BEFORE_2001-04-02_FINAL.md": "d0647790e6a619d5250d71bbf5b01d97b0951a75b3d3369acf9f354af42e9d19"
+  },
+  "legal_checks": {
+    "frozen_eight_preserved": true,
+    "stone_fixed_core_preserved": true,
+    "common_necessary_minimum_not_exhaustive_test": true,
+    "preservation_not_found_or_waived": true,
+    "no_independent_examination_merits_tally": true,
+    "conditional_stone_concurrence_noncontrolling": true,
+    "municipal_policy_omission_fault_notice_causation_separate": true,
+    "september_1991_personal_notice_not_later_law": true,
+    "consequential_injury_route_not_extinguished_or_found": true,
+    "state_claims_and_immunities_distinct": true,
+    "no_automatic_hearing_amendment_damages_or_restored_defendants": true,
+    "no_same_day_cobb_substantive_premise": true
+  },
+  "judgment_components": [
+    {
+      "component": "Preserved removal-policy reversal and federal immunity correction",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "counts": [
+        9,
+        0
+      ]
+    },
+    {
+      "component": "Independent examination adjudication vacated for presentation and scope",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "counts": [
+        9,
+        0
+      ]
+    },
+    {
+      "component": "Distinct consequential-injury causation and state-law remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "counts": [
+        9,
+        0
+      ]
+    }
+  ],
+  "clerical_checks": {
+    "initial_labels": 4,
+    "public_blocks": 11,
+    "projection_identity": true,
+    "explanation_word_counts": [
+      275,
+      237,
+      116,
+      291,
+      186
+    ],
+    "opinion_table_authors_parse": true,
+    "forbidden_content_scan": true,
+    "natural_key": true,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 4,
+      "O'Connor": 5,
+      "Scalia": 4,
+      "Kennedy": 5,
+      "Souter": 5,
+      "Thomas": 4,
+      "Ginsburg": 5,
+      "Breyer": 5
+    },
+    "last_counted_event": {
+      "date": "2001-04-02",
+      "case": "Texas v. Cobb",
+      "record": "Texas_v_Cobb_merits_2001-04-02.md"
+    },
+    "eligible": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Stevens"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "record": "Texas_v_Cobb_merits_2001-04-02.md",
+    "before_sha256": "d7c39cf866346d079fca7f60d9cb36298687d3f22ded3432144c38ca8d16a0a6",
+    "after_sha256": "60a32f21ff7e215ccfc7d5257f9be769849f3ef216059fdb071f344f3798d3ef",
+    "preserved_before": "terms/OT2000/tmp/Texas_v_Cobb_merits_2001-04-02_before_quorum_completion.md",
+    "source": "OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md; unchanged final reconciled participation and Record opinion table; Engine sections 6 and 11.",
+    "completion": "State the established quorum and merits threshold expressly in the internal participation kernel.",
+    "public_projection_unchanged": true,
+    "adjudicative_effect": "None. Participation, judgment, holding, joins, authorship, remedy and source premises are unchanged. No stage return is required."
+  },
+  {
+    "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
+    "before_sha256": "230cf8179d167e1396729bc39a325b8afde352aea036cb70a72ca0f9f75a695b",
+    "after_sha256": "e6b31e7fc915185a30191bfdd4f39275ea39028adf90af6a5e4323e76aa31688",
+    "preserved_before": "terms/OT2000/tmp/Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17_before_quorum_completion.md",
+    "source": "OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md; unchanged final reconciled participation and Record opinion table; Engine sections 6 and 11.",
+    "completion": "State the established quorum and merits threshold expressly in the internal participation kernel.",
+    "public_projection_unchanged": true,
+    "adjudicative_effect": "None. Participation, judgment, holding, joins, authorship, remedy and source premises are unchanged. No stage return is required."
+  },
+  {
+    "record": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md",
+    "before_sha256": "c787d8e5aa3eb5afd8f2a516a1c2a34cdeb3aa403a933e54e4ce83f1012fbddf",
+    "after_sha256": "1661906df4b45b5093e77005c0562b7814a5b5aff2d41ad1769515f82bcceee4",
+    "preserved_before": "terms/OT2000/tmp/United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17_before_quorum_completion.md",
+    "source": "OT_2000CHUNK4_LATER_NEUTRAL_PREFLIGHT.md; unchanged final reconciled participation and Record opinion table; Engine sections 6 and 11.",
+    "completion": "State the established quorum and merits threshold expressly in the internal participation kernel.",
+    "public_projection_unchanged": true,
+    "adjudicative_effect": "None. Participation, judgment, holding, joins, authorship, remedy and source premises are unchanged. No stage return is required."
+  }
+]

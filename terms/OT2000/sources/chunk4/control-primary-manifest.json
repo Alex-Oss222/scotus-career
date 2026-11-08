@@ -1,0 +1,62 @@
+[
+  {
+    "case": "Buford",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-59.pdf",
+    "pdf": "Buford-primary.pdf",
+    "pdf_sha256": "1aed343481b2add661671daa10715b7bd2af50e5f1d6364cc70b26444acd423a",
+    "text": "Buford-primary.txt",
+    "text_sha256": "fb676945f391d6229f8401e618701e4eb066ac460a4b5b8a9ddeb1025dbe4d54",
+    "pages": 8,
+    "characters": 16621
+  },
+  {
+    "case": "TrafFix",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-23.pdf",
+    "pdf": "TrafFix-primary.pdf",
+    "pdf_sha256": "c5bebbf206a2ae42552849de303ae4f0a423c0f9b3811b6cfe84a2718bfc483a",
+    "text": "TrafFix-primary.txt",
+    "text_sha256": "49ae0b450a78fc32def958a5985de63c279f3d329d61709baac24d83a79dd8de",
+    "pages": 13,
+    "characters": 29349
+  },
+  {
+    "case": "Circuit-City",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-105.pdf",
+    "pdf": "Circuit-City-primary.pdf",
+    "pdf_sha256": "b4c0e26320e837bc2618a1518e3bc378044812d2265f12e082bf7271acd85fe0",
+    "text": "Circuit-City-primary.txt",
+    "text_sha256": "591946df780f509d896993bfdb4f0dd14afe54dccbbee54d8c3ef1d3af17ae28",
+    "pages": 36,
+    "characters": 81515
+  },
+  {
+    "case": "Egelhoff",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-141.pdf",
+    "pdf": "Egelhoff-primary.pdf",
+    "pdf_sha256": "002230988c28d66a376747c1fd5ec4c500225d50cfe3bed6e3a9f2020646a863",
+    "text": "Egelhoff-primary.txt",
+    "text_sha256": "e503242d969e06bc02e0d97f77c25e89eab25fe88fa03eccb1091fe1b0076842",
+    "pages": 21,
+    "characters": 46365
+  },
+  {
+    "case": "Ferguson",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-532/pdf/USREPORTS-532-67.pdf",
+    "pdf": "Ferguson-primary.pdf",
+    "pdf_sha256": "d5af6de34c3abc0aa828267123cc7641afd62fce68e1b877a5bc28369c761363",
+    "text": "Ferguson-primary.txt",
+    "text_sha256": "dcd6c7f786842f9b5125bf6424843a4d89733185729fa2dd59545004f787260b",
+    "pages": 38,
+    "characters": 88274
+  },
+  {
+    "case": "Gibbs-CA4",
+    "url": "https://www.ca4.uscourts.gov/Opinions/Published/991218.P.pdf",
+    "pdf": "Gibbs-CA4-primary.pdf",
+    "pdf_sha256": "24daa3ec411f46c0c32c1803b12bcaf4f7eda40b8436e64f669cd8b325fe9939",
+    "text": "Gibbs-CA4-primary.txt",
+    "text_sha256": "01c00be36eb4dec610a84faea06d18e3b44089c228547eccc964d79d6f2a72fa",
+    "pages": 42,
+    "characters": 98730
+  }
+]

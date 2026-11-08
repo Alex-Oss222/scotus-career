@@ -1,0 +1,189 @@
+{
+  "term": "OT2000",
+  "chunk": 4,
+  "matter_count": 15,
+  "final_handoffs": [
+    {
+      "case": "Buford",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_BUFORD.md",
+      "sha256": "eb59168da78f7aa20b9c045127baaf326a4940ae569dcd8263bd1fdd5add3904"
+    },
+    {
+      "case": "TrafFix",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_TRAFFIX.md",
+      "sha256": "655c39dfb543971b9d67e9888276a39b9abf3b24ce76eb2e7638dc236cc23bbb"
+    },
+    {
+      "case": "Circuit City",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_CIRCUIT_CITY.md",
+      "sha256": "db72a9e6c725982d94b0a0e6ec5d742b07c1e35e85f99f21d2437593e6451564"
+    },
+    {
+      "case": "Egelhoff",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_EGELHOFF_REFRESH.md",
+      "sha256": "f2a5db4e4bc4d6d24df61e564f5e0a2e40e4887bfe4cbb9f8fbdcc5c151bdd24"
+    },
+    {
+      "case": "Ferguson",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_FERGUSON_REFRESH.md",
+      "sha256": "7f5c382ef831c194a7039803aca5e7605f7f9de91dfbfe888674ab984d290d8c"
+    },
+    {
+      "case": "Gibbs",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_GIBBS.md",
+      "sha256": "c06c4adc839cb7d0dd04194c8f3e8b7b09b57a440df1ba7719f53f359faf4051"
+    },
+    {
+      "case": "Texas v. Cobb",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_COBB.md",
+      "sha256": "46fe3b46520f01a2c4befde2cc7cf705e94d30001291132ae252563abd164bf5"
+    },
+    {
+      "case": "Wallis",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_WALLIS.md",
+      "sha256": "25a481afdf0d89c32bca2c721a12399f2c3123d4d0b920e8aa60b53cc2028fde"
+    },
+    {
+      "case": "Lujan",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_LUJAN.md",
+      "sha256": "59194b0f151277cea43de791f7b893f53f004e1cac66c550de6ea5184794a88f"
+    },
+    {
+      "case": "United States v. Cleveland Indians",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_CLEVELAND_TREASURY_FINAL.md",
+      "sha256": "414b536232aa327f55b9ffa697459898fe4f7ba1f9bed6f02a563134aba173b6"
+    },
+    {
+      "case": "United States v. Weston",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_WESTON.md",
+      "sha256": "a21b7147e74dc3e2fd9a46d25e9df3e09c1bed7f6213410efe093c79bdc7a95a"
+    },
+    {
+      "case": "Easley / Smallwood",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_EASLEY.md",
+      "sha256": "96488596cb83e4e0e23b89ac3838d9d206a3a0f59546287c85c714d2db733cfe"
+    },
+    {
+      "case": "Shaw v. Murphy",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_SHAW_MURPHY.md",
+      "sha256": "6800305473b50bfd8d46bb9661a04542ff1dd3a32b7cfed47ea340c94a410cec"
+    },
+    {
+      "case": "Children's Healthcare",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_CHILD.md",
+      "sha256": "66c6b727b6a9aee2db0073e31574f1041a7af0ae36ade81040d7f6573b36a387"
+    },
+    {
+      "case": "Clark County v. Breeden",
+      "stage": "COMMITMENTS",
+      "file": "OT_2000CHUNK4_COMMITMENTS_BREEDEN.md",
+      "sha256": "ea3a10831a0f5cf8d489d02b467e848afe42d3a43b40e729fb521a67db28af8a"
+    },
+    {
+      "case": "Buford",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_BUFORD.md",
+      "sha256": "a526953a1196f171b12da0e5c1d45a10afcb45f4af4ea28f7d7c8c955355b781"
+    },
+    {
+      "case": "TrafFix",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_TRAFFIX.md",
+      "sha256": "e526341b063412b2dc97c59680134ea11c3035323db2e4de2ea0dd82a6aeaa0e"
+    },
+    {
+      "case": "Circuit City",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_CIRCUIT_CITY.md",
+      "sha256": "3414de30dc1f1ffe8d7403367a53a4e27c1843befd730a2c2e48b43199e30ed2"
+    },
+    {
+      "case": "Egelhoff",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_EGELHOFF_FINAL.md",
+      "sha256": "713634d7b03a672855189818dc9fdf59c52a466cd4323b55a735896d8ed3f94d"
+    },
+    {
+      "case": "Ferguson",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_FERGUSON_FINAL.md",
+      "sha256": "64338f0e96c675a0bb72975f9a52f8aaea275e9cbd7d8b36798e4b72864cd7ed"
+    },
+    {
+      "case": "Gibbs",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_GIBBS.md",
+      "sha256": "59ee1120188575db9355d0699c353c500dfbd02dd254d3bcc705edf10408c679"
+    },
+    {
+      "case": "Texas v. Cobb",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_COBB.md",
+      "sha256": "70613a6a7f32040b58cf698154768b008da1459cdde17368eb085e0032e36e68"
+    },
+    {
+      "case": "Wallis",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_WALLIS.md",
+      "sha256": "86cf73cebc605311da7244ca4029cf0baf4548128a11c8926f9a4278efbcc789"
+    },
+    {
+      "case": "Lujan",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_LUJAN.md",
+      "sha256": "f008c5cb8be01e55e3ac0d41767972109d473197da91836185f0ac78625bd9f2"
+    },
+    {
+      "case": "United States v. Cleveland Indians",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_CLEVELAND_FINAL.md",
+      "sha256": "09bc6b046fb6cc73a08a03006d636600602d37916715a464943f2678affc9477"
+    },
+    {
+      "case": "United States v. Weston",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_WESTON.md",
+      "sha256": "7c09e7ef4f6f05c9bd5fda8a4944a10928711a19c3ba01438ca76b1a2eef3172"
+    },
+    {
+      "case": "Easley / Smallwood",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_EASLEY.md",
+      "sha256": "6d2af814ec31133106435306fdbdf3351c66fe8395e00a5b596b49566e8d337e"
+    },
+    {
+      "case": "Shaw v. Murphy",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_SHAW_MURPHY.md",
+      "sha256": "86541a029445f4feff87527d60924f000e63c6cf04f72ffa7279f69a0b84f72c"
+    },
+    {
+      "case": "Children's Healthcare",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_CHILD.md",
+      "sha256": "97f97b01b63a4e92fabc0fc68e4fb775464b7236a6834550352dd12e0aa805e3"
+    },
+    {
+      "case": "Clark County v. Breeden",
+      "stage": "RECONCILED",
+      "file": "OT_2000CHUNK4_RECONCILED_BREEDEN.md",
+      "sha256": "c5ce479eba004fd78791373ff8725ef82d888745ed478664058257e999de2664"
+    }
+  ],
+  "separate_petition_freeze": "OT_2000CHUNK4_BREEDEN_STONE_CERT.md",
+  "separation_receipt": "OT_2000CHUNK4_CONTROL_SEPARATION.md"
+}

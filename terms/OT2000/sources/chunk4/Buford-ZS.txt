@@ -1,0 +1,89 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+BUFORD V. UNITED STATES
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+BUFORD V. UNITED STATES (99-9073) 
+201 F.3d 937, affirmed.Syllabus
+ Opinion
+ [ Breyer ]HTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+BUFORD v. UNITED STATES
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+
+ 
+No. 99—9073.  Argued January 8, 2001–Decided March 20, 2001
+ 
+
+
+
+
+The United States Sentencing Guidelines, as relevant here, define a career offender as one with at least two prior felony convictions for violent or drug-related crimes and provide that a sentencing judge must count as a single prior conviction all “related” convictions, advising that they are “related” when, inter alia, they were consolidated for sentencing.  The Seventh Circuit has held that because two prior convictions might have been consolidated for sentencing, and hence related, even if a sentencing court did not enter a formal consolidation order, a court should decide whether such convictions were nonetheless functionally consolidated, meaning that they were factually or logically related and sentencing was joint.  Petitioner Buford pleaded guilty to armed bank robbery.  At sentencing, the Government conceded that her four prior robbery convictions were related, but did not concede that her prior drug conviction was related to the robberies.  The District Court decided that the drug and robbery cases had not been consolidated, either formally or functionally, and the Seventh Circuit affirmed, reviewing the District Court’s decision deferentially rather than de novo.
+
+
+Held: Deferential review is appropriate when an appeals court reviews a trial court’s Sentencing Guideline determination as to whether an offender’s prior convictions were consolidated for sentencing.  The relevant federal sentencing statute requires a reviewing court not only to “accept” a district court’s “findings of fact” (unless “clearly erroneous”), but also to “give due deference to the court’s application of the guidelines to the facts.”  18 U.S.C. § 3742(e) (emphasis added).  The “deference that is due depends on the nature of the question presented.”  Koon v. United States, 518 U.S. 81, 98.  Although Buford argues that the nature of the question here–applying a Guideline term to undisputed facts–demands no deference at all, the district court is in a better position than the appellate court to decide whether individual circumstances demonstrate functional consolidation.  Experience with trials, sentencing, and consolidation procedures will help a district judge draw the proper inferences from the procedural descriptions provided.  In addition, factual nuance may closely guide the legal decision, with legal results depending heavily upon an understanding of the significance of case-specific details.  And the decision’s fact-bound nature limits the value of appellate court precedent, which may provide only minimal help when other courts consider other procedural circumstances, state systems, and crimes.  Insofar as greater uniformity is necessary, the Sentencing Commission can provide it.  Pp. 4—7.
+
+
+201 F.3d 937, affirmed.
+
+
+    Breyer, J., delivered the opinion for a unanimous Court.
+
+ 
+
+
+
+

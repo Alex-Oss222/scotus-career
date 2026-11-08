@@ -1,0 +1,34 @@
+{
+  "record": "United_States_v_Weston_merits_2001-04-17.md",
+  "explanation_words": [
+    154,
+    151
+  ],
+  "holdings_identity": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "author": "O'Connor",
+  "expected_counts": [
+    4,
+    6,
+    5,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "validation": "Assembly checks complete; integration and repository commitment pending."
+}

@@ -1,0 +1,53 @@
+Source: https://www.law.cornell.edu/supct/html/99-1864.ZS.html
+
+HUNT v. CROMARTIE
+
+*">
+
+LII
+
+Supreme Court
+
+HUNT v. CROMARTIE (99-1864)
+Reversed.
+SyllabusOpinion
+[ Breyer ]Dissent
+[ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+HUNT, GOVERNOR OF NORTH CAROLINA, et al. v. CROMARTIE et al.
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NORTH CAROLINA
+
+No. 99—1864. Argued November 27, 2000–Decided April 18, 2001*
+
+After this Court found that North Carolina’s legislature violated the Constitution by using race as the predominant factor in drawing its Twelfth Congressional District’s 1992 boundaries, Shaw v. Hunt, 517 U.S. 899, the State redrew those boundaries. A three-judge District Court subsequently granted appellees summary judgment, finding that the new 1997 boundaries had also been created with racial considerations dominating all others. This Court reversed, finding that there was a genuine issue of material fact as to whether the evidence was consistent with a race-based objective or the constitutional political objective of creating a safe Democratic seat. Hunt v. Cromartie, 526 U.S. 541. Among other things, this Court relied on evidence proposed to be submitted by appellants to conclude that, because the State’s African-American voters overwhelmingly voted Democratic, one could not easily distinguish a legislative effort to create a majority-minority district from a legislative effort to create a safely Democratic one; that data showing voter registration did not indicate how voters would actually vote; and that data about actual behavior could affect the litigation’s outcome. Id., at 547—551. On remand, the District Court again held, after a 3-day trial, that the legislature had used race driven criteria in drawing the 1997 boundaries. It based that conclusion on three findings–the district’s shape, its splitting of towns and counties, and its heavily African-American voting population–that this Court had considered when it found summary judgment inappropriate, and on the new finding that the legislature had drawn the boundaries to collect precincts with a high racial, rather than political, identification.
+
+Held: The District Court’s conclusion that the State violated the Equal Protection Clause in drawing the 1997 boundaries is based on clearly erroneous findings. Pp. 5—23.
+
+(a) The issue here is evidentiary: whether there is adequate support for the District Court’s finding that race, rather than politics, drove the legislature’s districting decision. Those attacking the district have the demanding burden of proof to show that a facially neutral law is unexplainable on grounds other than race. Cromartie, supra, at 546. Because the underlying districting decision falls within a legislature’s sphere of competence, Miller v. Johnson, 515 U.S. 900, 915, courts must exercise extraordinary caution in adjudicating claims such as this one, id., at 916, especially where, as here, the State has articulated a legitimate political explanation for its districting decision and the voting population is one in which race and political affiliation are highly coordinated, see Cromartie, supra, at 551—552. This Court will review the District Court’s findings only for “clear error,” asking whether “on the entire evidence” the Court is “left with the definite and firm conviction that a mistake has been committed.” United States v. United States Gypsum Co., 333 U.S. 364, 395. An extensive review of the District Court’s findings is warranted here because there was no intermediate court review, the trial was not lengthy, the key evidence consisted primarily of documents and expert testimony, and credibility evaluations played a minor role. Pp. 5—7.
+
+(b) The critical District Court determination that “race, not politics,” predominantly explains the 1997 boundaries rests upon the three findings that this Court found insufficient to support summary judgment, and which cannot in and of themselves, as a matter of law, support the District Court’s judgment here. See Bush v. Vera, 517 U.S. 952, 968. Its determination also rests upon five new subsidiary findings, which this Court also cannot accept as adequate. First, the District Court primarily relied on evidence of voting registration, not voting behavior, which is precisely the kind of evidence that this Court found inadequate the last time the case was here. White registered Democrats “cross-over” to vote Republican more often than do African-Americans, who register and vote Democratic between 95% and 97% of the time. Thus, a legislature trying to secure a safe Democratic seat by placing reliable Democratic precincts within a district may end up with a district containing more heavily African-American precincts for political, not racial, reasons. Second, the evidence to which appellees’ expert, Dr. Weber, pointed–that a reliably Democratic voting population of 60% is necessary to create a safe Democratic seat, but this district was 63% reliable; that certain white-Democratic precincts were excluded while African-American-Democratic precincts were included; that one precinct was split between Districts 9 and 12; and that other plans would have created a safely Democratic district with fewer African-American precincts–simply does not provide significant additional support for the District Court’s conclusion. Also, portions of Dr. Weber’s testimony not cited by the District Court undercut his conclusions. Third, the District Court, while not accepting the contrary conclusion of appellants’ expert, Dr. Peterson, did not (and as far as the record reveals, could not) reject much of the significant supporting factual information he provided, which showed that African-American Democratic voters were more reliably Democratic and that District 12’s boundaries were drawn to include reliable Democrats. Fourth, a statement about racial balance made by Senator Cooper, the legislative redistricting leader, shows that the legislature considered race along with other partisan and geographic considerations, but says little about whether race played a predominant role. And an e-mail sent by Gerry Cohen, a legislative staff member responsible for drafting districting plans, offers some support for the District Court’s conclusion, but is less persuasive than the kinds of direct evidence that this Court has found significant in other redistricting cases. Fifth, appellees’ maps summarizing voting behavior evidence tend to refute the District Court’s “race, not politics,” conclusion. Pp. 7—22.
+
+(c) The modicum of evidence supporting the District Court’s conclusion–the Cohen e-mail, Senator Cooper’s statement, and some aspects of Dr. Weber’s testimony–taken together, does not show that racial considerations predominated in the boundaries’ drawing, because race in this case correlates closely with political behavior. Where majority-minority districts are at issue and racial identification correlates highly with political affiliation, the party attacking the boundaries must show at the least that the legislature could have achieved its legitimate political objectives in alternative ways that are comparably consistent with traditional districting principles and that those alternatives would have brought about significantly greater racial balance. Because appellees failed to make any such showing here, the District Court’s contrary findings are clearly erroneous. Pp. 22—23.
+
+Reversed.
+
+Breyer, J., delivered the opinion of the Court, in which Stevens, O’Connor, Souter, and Ginsburg, JJ., joined. Thomas, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia and Kennedy, JJ., joined.
+
+Notes
+
+*. Together with No. 99—1865, Smallwood et al. v. Cromartie et al.,
+also on appeal from the same court.

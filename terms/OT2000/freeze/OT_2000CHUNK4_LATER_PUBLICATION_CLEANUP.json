@@ -1,0 +1,51 @@
+[
+  {
+    "record": "United_States_v_Weston_merits_2001-04-17.md",
+    "authorization": "Root requested a narrowly clerical public wording cleanup after review; same scheduling metadata cleanup applied to CHILD. No adjudicative content changed.",
+    "before_sha256": "7cdf05e5160e0e38aa4e68a01931510b1e2fd175d038d54d242a2139d54553ad",
+    "after_sha256": "0cc3b47dcd3fd9be0d2c3cdc4f656b50da0e1217e38caa7627e588ba1cb45103",
+    "preserved_before": "tmp/ot2000_pre_publication_cleanup_United_States_v_Weston_merits_2001-04-17.md",
+    "changes": [
+      {
+        "before": "The date is assigned for the merits submission; no oral-argument date is stated.",
+        "after": "No oral-argument date is stated."
+      }
+    ],
+    "internal_kernel_byte_identical": true,
+    "frozen_B_C_changed": false
+  },
+  {
+    "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+    "authorization": "Root requested a narrowly clerical public wording cleanup after review; same scheduling metadata cleanup applied to CHILD. No adjudicative content changed.",
+    "before_sha256": "c2b4598f05b4a7f86de1f694a2a45d9c4a4509d3bdde418a1723b6f494b84e21",
+    "after_sha256": "45f05943cddff1fb1fbfa5248e1ba20ab55eb2b63644af01694f658b8cb30953",
+    "preserved_before": "tmp/ot2000_pre_publication_cleanup_Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+    "changes": [
+      {
+        "before": "Actual-law limitation, 5–4",
+        "after": "Independent-injury limitation, 5–4"
+      },
+      {
+        "before": "Vacates and remands under actual law",
+        "after": "Vacates and remands under the governing injury rule"
+      }
+    ],
+    "internal_kernel_byte_identical": true,
+    "frozen_B_C_changed": false
+  },
+  {
+    "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+    "authorization": "Root requested a narrowly clerical public wording cleanup after review; same scheduling metadata cleanup applied to CHILD. No adjudicative content changed.",
+    "before_sha256": "25ff73b0ee2f2521cdafac550896b3b657743683659634b42d88106ddadcbbfa",
+    "after_sha256": "1386c02a701cd412e13d58768db606046abdc7c9f94d2fa0355b5e4937080634",
+    "preserved_before": "tmp/ot2000_pre_publication_cleanup_Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+    "changes": [
+      {
+        "before": "April 23 is the assigned merits-submission date; no oral-argument date is stated.",
+        "after": "No oral-argument date is stated."
+      }
+    ],
+    "internal_kernel_byte_identical": true,
+    "frozen_B_C_changed": false
+  }
+]

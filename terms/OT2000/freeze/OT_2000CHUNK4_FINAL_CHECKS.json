@@ -1,0 +1,633 @@
+{
+  "status": "passed",
+  "completed": 15,
+  "term_records": 56,
+  "stopped": {},
+  "preserved_prior_files": 55,
+  "projection_identity": true,
+  "final_handoffs_verified": 30,
+  "original_independent_outputs_verified": 7,
+  "explanation_lengths": [
+    {
+      "record": "Buford_v_United_States_merits_2001-03-20.md",
+      "words": 221
+    },
+    {
+      "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+      "words": 159
+    },
+    {
+      "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+      "words": 131
+    },
+    {
+      "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+      "words": 162
+    },
+    {
+      "record": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md",
+      "words": 281
+    },
+    {
+      "record": "Clark_County_School_District_v_Breeden_summary-disposition_2001-04-23.md",
+      "words": 215
+    },
+    {
+      "record": "Clark_County_School_District_v_Breeden_summary-disposition_2001-04-23.md",
+      "words": 237
+    },
+    {
+      "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+      "words": 211
+    },
+    {
+      "record": "Egelhoff_v_Egelhoff_merits_2001-03-21.md",
+      "words": 283
+    },
+    {
+      "record": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md",
+      "words": 297
+    },
+    {
+      "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
+      "words": 162
+    },
+    {
+      "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
+      "words": 257
+    },
+    {
+      "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
+      "words": 317
+    },
+    {
+      "record": "Shaw_v_Murphy_merits_2001-04-18.md",
+      "words": 257
+    },
+    {
+      "record": "Texas_v_Cobb_merits_2001-04-02.md",
+      "words": 265
+    },
+    {
+      "record": "Texas_v_Cobb_merits_2001-04-02.md",
+      "words": 147
+    },
+    {
+      "record": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md",
+      "words": 220
+    },
+    {
+      "record": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md",
+      "words": 338
+    },
+    {
+      "record": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md",
+      "words": 151
+    },
+    {
+      "record": "United_States_v_Weston_merits_2001-04-17.md",
+      "words": 154
+    },
+    {
+      "record": "United_States_v_Weston_merits_2001-04-17.md",
+      "words": 151
+    },
+    {
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "words": 275
+    },
+    {
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "words": 237
+    },
+    {
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "words": 116
+    },
+    {
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "words": 291
+    },
+    {
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "words": 194
+    }
+  ],
+  "assignment_recounts": [
+    {
+      "record": "Buford_v_United_States_merits_2001-03-20.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 3,
+        "Thomas": 3,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-19",
+        "case": "United States v. Hilario; judgment below 218 F.3d 19; no separate Supreme Court docket supplied.",
+        "record": "United_States_v_Hilario_merits_2001-03-19.md"
+      }
+    },
+    {
+      "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-18",
+        "case": "Shaw v. Murphy",
+        "record": "Shaw_v_Murphy_merits_2001-04-18.md"
+      }
+    },
+    {
+      "record": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-20",
+        "case": "TrafFix Devices, Inc. v. Marketing Displays, Inc.",
+        "record": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md"
+      }
+    },
+    {
+      "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-17",
+        "case": "United States v. Weston; D.C. Circuit",
+        "record": "United_States_v_Weston_merits_2001-04-17.md"
+      }
+    },
+    {
+      "record": "Egelhoff_v_Egelhoff_merits_2001-03-21.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-21",
+        "case": "Circuit City Stores, Inc. v. Adams",
+        "record": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md"
+      }
+    },
+    {
+      "record": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-21",
+        "case": "Egelhoff v. Egelhoff",
+        "record": "Egelhoff_v_Egelhoff_merits_2001-03-21.md"
+      }
+    },
+    {
+      "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-21",
+        "case": "Ferguson v. City of Charleston",
+        "record": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md"
+      }
+    },
+    {
+      "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-02",
+        "case": "Wallis v. Spencer; Ninth Circuit",
+        "record": "Wallis_v_Spencer_merits_2001-04-02.md"
+      }
+    },
+    {
+      "record": "Shaw_v_Murphy_merits_2001-04-18.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 6,
+        "O'Connor": 6,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 6,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-18",
+        "case": "Easley v. Cromartie / Smallwood v. Cromartie",
+        "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md"
+      }
+    },
+    {
+      "record": "Texas_v_Cobb_merits_2001-04-02.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-21",
+        "case": "Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit",
+        "record": "Gibbs_v_Babbitt_merits_2001-03-21.md"
+      }
+    },
+    {
+      "record": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "last": {
+        "date": "2001-03-20",
+        "case": "Shafer v. South Carolina",
+        "record": "Shafer_v_South_Carolina_merits_2001-03-20.md"
+      }
+    },
+    {
+      "record": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 6,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-17",
+        "case": "Lujan v. G & G Fire Sprinklers, Inc.",
+        "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md"
+      }
+    },
+    {
+      "record": "United_States_v_Weston_merits_2001-04-17.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 6,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-17",
+        "case": "United States v. Cleveland Indians Baseball Co.",
+        "record": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md"
+      }
+    },
+    {
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": {
+        "date": "2001-04-02",
+        "case": "Texas v. Cobb",
+        "record": "Texas_v_Cobb_merits_2001-04-02.md"
+      }
+    }
+  ],
+  "link_issues": [],
+  "actual_term_signed_lead_counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 6,
+    "O'Connor": 6,
+    "Scalia": 5,
+    "Kennedy": 5,
+    "Souter": 5,
+    "Thomas": 5,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "new_signed_leads": [
+    {
+      "date": "2001-03-20",
+      "case": "Buford v. United States",
+      "record": "Buford_v_United_States_merits_2001-03-20.md",
+      "record_sha256": "32b7180a03ee0083bb34484ddce7d6c7c9b16f00275fc3b1f50f5251f32e2c35",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Complete rule, explanation, application and affirmance |"
+      ]
+    },
+    {
+      "date": "2001-03-20",
+      "case": "TrafFix Devices, Inc. v. Marketing Displays, Inc.",
+      "record": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md",
+      "record_sha256": "9c26cfe2f94541e1686f47b4bdd928ed51addba60b36837be1b344ad4645cb09",
+      "authors": [
+        "Souter"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Complete functionality rule, application and confined reversal/remand |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Circuit City Stores, Inc. v. Adams",
+      "record": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md",
+      "record_sha256": "d0dadc6630d1994f730d2856d2db360bd67c7ee42c6962b7f6c987bea93b6d1c",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer | Complete section 1 rule, explanation, application and affirmance |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Egelhoff v. Egelhoff",
+      "record": "Egelhoff_v_Egelhoff_merits_2001-03-21.md",
+      "record_sha256": "ca1c6016940e09729684f4c29a117c72dd2bc27e7081ef1276ea1a35198a661f",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas | Entire specific substitution rule, both benefit applications and reversal/remand |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Ferguson v. City of Charleston",
+      "record": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md",
+      "record_sha256": "713f51503b02aa6d6d18fdde9f09e3d80c8ca2d437d0128436ca383ef71159cb",
+      "authors": [
+        "Kennedy"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Entire confined actual-operation rule, consent limits and reversal/remand |"
+      ]
+    },
+    {
+      "date": "2001-03-21",
+      "case": "Gibbs v. Babbitt; judgment below 214 F.3d 483, Fourth Circuit",
+      "record": "Gibbs_v_Babbitt_merits_2001-03-21.md",
+      "record_sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Parts I and II | O'Connor | Stone-Zsela and Kennedy throughout; Scalia and Thomas in Part I; Ginsburg and Breyer in Part II | Part I controls the enacted class and connection prerequisite; Part II controls both complete current-law routes and vacatur/remand |"
+      ]
+    },
+    {
+      "date": "2001-04-02",
+      "case": "Texas v. Cobb",
+      "record": "Texas_v_Cobb_merits_2001-04-02.md",
+      "record_sha256": "d3b50e7e2cd13d1645f7af3b119727f9dc54f9c3463dc7cfc50da05ac067e2ef",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter and Ginsburg | Complete connected-episode rule, application of the existing waiver protection, and affirmance |"
+      ]
+    },
+    {
+      "date": "2001-04-02",
+      "case": "Wallis v. Spencer; Ninth Circuit",
+      "record": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "record_sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court, Parts I, II.A and III | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Necessary removal protections, municipal policy/fault/causation, examination threshold and distinct consequential-injury route |",
+        "| Opinion of the Court, Parts II.B and IV | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | City's federal-immunity defenses and state-law remand grounds; Stone-Zsela supports these dispositions without adding grounds |"
+      ]
+    },
+    {
+      "date": "2001-04-17",
+      "case": "Lujan v. G & G Fire Sprinklers, Inc.",
+      "record": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
+      "record_sha256": "ecb024095abb72a1bd1a9359697e1f85d24e46a2d4f75c024e1256d17479d9d3",
+      "authors": [
+        "Stevens"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Complete adequate-contract-process holding, qualifications and remedy |"
+      ]
+    },
+    {
+      "date": "2001-04-17",
+      "case": "United States v. Cleveland Indians Baseball Co.",
+      "record": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md",
+      "record_sha256": "3c031f828c6ce94846aa99af83bbafec1ea55e5409e3d95a803c56675c9f5acc",
+      "authors": [
+        "Thomas"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Thomas | Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer | Both holdings, regulatory rationale, all rate and annual-base components, and remedy |"
+      ]
+    },
+    {
+      "date": "2001-04-17",
+      "case": "United States v. Weston; D.C. Circuit",
+      "record": "United_States_v_Weston_merits_2001-04-17.md",
+      "record_sha256": "baf8a80db749dc4d3a8b989df521d8c6fcfaf170ff7969d0ffebbac234ccc5a8",
+      "authors": [
+        "O'Connor"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Affirms and remands | Part I: liberty justification; all nine |",
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer | Additional ground for affirmance | Part II: bounded advance trial-effects inquiry; seven |"
+      ]
+    },
+    {
+      "date": "2001-04-18",
+      "case": "Easley v. Cromartie / Smallwood v. Cromartie",
+      "record": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+      "record_sha256": "34cc649017fe304d55d14033351b907a0e540cf3b4132aec611b1f8af2e6d374",
+      "authors": [
+        "Ginsburg"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Vacates and remands under actual law | Entire opinion; five direct joins |"
+      ]
+    },
+    {
+      "date": "2001-04-18",
+      "case": "Shaw v. Murphy",
+      "record": "Shaw_v_Murphy_merits_2001-04-18.md",
+      "record_sha256": "d80e6dc555903328c1fdf92bbb20ec096a4e082625dd2484944509b65ca448f2",
+      "authors": [
+        "Scalia"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses and remands | Entire opinion; all nine directly join |"
+      ]
+    },
+    {
+      "date": "2001-04-23",
+      "case": "Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle; Eighth Circuit",
+      "record": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+      "record_sha256": "fe9ade3de4dce5171975465f5d0d2bac5627450c896e99a5a1f91c361da969ca",
+      "authors": [
+        "Breyer"
+      ],
+      "opinion_table_rows": [
+        "| Opinion of the Court | Breyer | O'Connor, Scalia, Kennedy and Thomas | Affirms facial accommodation | Part I; five direct joins |",
+        "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Affirms rejection of categorical delegation | Part II; all nine |",
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Souter and Ginsburg | Vacates operational summary judgment and remands | Part III; five direct joins; Stone-Zsela agrees with disposition only |"
+      ]
+    }
+  ],
+  "new_records": [
+    {
+      "file": "Buford_v_United_States_merits_2001-03-20.md",
+      "sha256": "32b7180a03ee0083bb34484ddce7d6c7c9b16f00275fc3b1f50f5251f32e2c35"
+    },
+    {
+      "file": "TrafFix_Devices_v_Marketing_Displays_merits_2001-03-20.md",
+      "sha256": "9c26cfe2f94541e1686f47b4bdd928ed51addba60b36837be1b344ad4645cb09"
+    },
+    {
+      "file": "Circuit_City_Stores_v_Adams_merits_2001-03-21.md",
+      "sha256": "d0dadc6630d1994f730d2856d2db360bd67c7ee42c6962b7f6c987bea93b6d1c"
+    },
+    {
+      "file": "Egelhoff_v_Egelhoff_merits_2001-03-21.md",
+      "sha256": "ca1c6016940e09729684f4c29a117c72dd2bc27e7081ef1276ea1a35198a661f"
+    },
+    {
+      "file": "Ferguson_v_City_of_Charleston_merits_2001-03-21.md",
+      "sha256": "713f51503b02aa6d6d18fdde9f09e3d80c8ca2d437d0128436ca383ef71159cb"
+    },
+    {
+      "file": "Gibbs_v_Babbitt_merits_2001-03-21.md",
+      "sha256": "b6a5d03de177f5f13a49fd6e05b70fd46fafce1aa42c89f4930e503fa9305f65"
+    },
+    {
+      "file": "Texas_v_Cobb_merits_2001-04-02.md",
+      "sha256": "d3b50e7e2cd13d1645f7af3b119727f9dc54f9c3463dc7cfc50da05ac067e2ef"
+    },
+    {
+      "file": "Wallis_v_Spencer_merits_2001-04-02.md",
+      "sha256": "24b030f048753ca47387d51e4f48b5d9a582e91a2096e5be9a44e7f104a58920"
+    },
+    {
+      "file": "Lujan_v_G_and_G_Fire_Sprinklers_merits_2001-04-17.md",
+      "sha256": "ecb024095abb72a1bd1a9359697e1f85d24e46a2d4f75c024e1256d17479d9d3"
+    },
+    {
+      "file": "United_States_v_Cleveland_Indians_Baseball_merits_2001-04-17.md",
+      "sha256": "3c031f828c6ce94846aa99af83bbafec1ea55e5409e3d95a803c56675c9f5acc"
+    },
+    {
+      "file": "United_States_v_Weston_merits_2001-04-17.md",
+      "sha256": "baf8a80db749dc4d3a8b989df521d8c6fcfaf170ff7969d0ffebbac234ccc5a8"
+    },
+    {
+      "file": "Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md",
+      "sha256": "34cc649017fe304d55d14033351b907a0e540cf3b4132aec611b1f8af2e6d374"
+    },
+    {
+      "file": "Shaw_v_Murphy_merits_2001-04-18.md",
+      "sha256": "d80e6dc555903328c1fdf92bbb20ec096a4e082625dd2484944509b65ca448f2"
+    },
+    {
+      "file": "Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md",
+      "sha256": "fe9ade3de4dce5171975465f5d0d2bac5627450c896e99a5a1f91c361da969ca"
+    },
+    {
+      "file": "Clark_County_School_District_v_Breeden_summary-disposition_2001-04-23.md",
+      "sha256": "485865f12620a260ffdd91e09d2dd8db4010755fb57f24eaab20aa345e16a8b9"
+    }
+  ],
+  "limitations": "No repository command or object verification performed. Legal coalitions, source sufficiency and controlled-position compatibility require the substantive assembly and review receipts."
+}

@@ -1,0 +1,54 @@
+Source: https://www.law.cornell.edu/supct/html/00-203.ZS.html
+
+UNITED STATES V. CLEVELAND INDIANSBASEBALL CO.
+
+LII
+
+Supreme Court
+
+UNITED STATES V. CLEVELAND INDIANSBASEBALL CO. (00-203)
+215 F.3d 1325, reversed.
+Syllabus
+Opinion
+[ Ginsburg ]Concurrence
+[ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v. CLEVELAND INDIANS
+BASEBALL CO.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+No. 00—203. Argued February 27, 2001–Decided April 17, 2001
+
+Under a grievance settlement agreement, respondent Cleveland Indians Baseball Company (Company) owed 8 players backpay for wages due in 1986 and 14 players backpay for wages due in 1987. The Company paid the back wages in 1994. This case presents the question whether, under the Federal Insurance Contributions Act (FICA) and the Federal Unemployment Tax Act (FUTA), the back wages should be taxed by reference to the year they were actually paid (1994) or, instead, by reference to the years they should have been paid (1986 and 1987). Both tax rates and the amount of the wages subject to tax (the wage base) have risen over time. Consequently, allocating the 1994 payments back to 1986 and 1987 would generate no additional FICA or FUTA tax liability for the Company and its former employees, while treating the back wages as taxable in 1994 would subject both the Company and the employees to significant tax liability. The Company paid its share of employment taxes on the back wages according to 1994 tax rates and wage bases. After the Internal Revenue Service denied its claims for a refund of those payments, the Company initiated this action in District Court. The Company relied on Sixth Circuit precedent holding that a settlement for back wages should not be allocated to the period when the employer finally pays but to the periods when the wages were not paid as usual. The District Court, bound by that precedent, entered judgment for the Company and ordered the Government to refund FICA and FUTA taxes. The Sixth Circuit affirmed.
+
+Held: Back wages are subject to FICA and FUTA taxes by reference to the year the wages are in fact paid. Pp. 5—19.
+
+(a) The Internal Revenue Code imposes FICA and FUTA taxes “on every employer … equal to [a percentage of] wages … paid by him with respect to employment.” 26 U.S.C. § 3111(a), 3111(b), 3301. The Social Security tax provision, §3111(a), prescribes tax rates applicable to “wages paid during” each year from 1984 onward. The Medicare tax provision, §3111(b)(6), sets the tax rate “with respect to wages paid after December 31, 1985.” And the FUTA tax provision, §3301, sets the rate as a percentage “in the case of calendar years 1988 through 2007 … of the total wages … paid by [the employer] during the calendar year.” Section 3121(a) establishes the annual ceiling on wages subject to Social Security tax by defining “wages” to exclude any remuneration “paid to [an] individual by [an] employer during [a] calendar year” that exceeds “remuneration … equal to the contribution and benefit base … paid to [such] individual … during the calendar year with respect to which such contribution and benefit base is effective.” Section 3306(b)(1) similarly limits annual wages subject to FUTA tax. Pp. 5—6.
+
+(b) The Government calls attention to these provisions’ constant references to wages paid during a calendar year as the touchstone for determining the applicable tax rate and wage base. The meaning of this language, the Government contends, is plain: Wages are taxed according to the calendar year they are in fact paid, regardless of when they should have been paid. The Court agrees with the Company that Social Security Bd. v. Nierotko, 327 U.S. 358, undermines the Government’s plain language argument. The Nierotko Court concluded that, for purposes of determining a wrongfully discharged worker’s eligibility for Social Security benefits under §209(g), as that provision was formulated in the 1939 Amendments to the Social Security Act, a backpay award had to be allocated as wages to calendar quarters of the year “when the regular wages were not paid as usual.” Id., at 370, and n. 25. The Court found no conflict between this allocation-back rule and language in §209(g) tying benefits eligibility to the number of calendar quarters “in which” a minimum amount of “wages” “has been paid.” Nierotko’s allocation holding for benefits eligibility purposes, which the Government does not here urge the Court to overrule, thus turned on an implicit construction of §209(g)’s terms–“wages” “paid” “in” “a calendar quarter”–to include “regular wages” that should have been paid but “were not paid as usual,” 327 U.S., at 370. Given this construction, it cannot be said that the FICA and FUTA provisions prescribing tax rates based on wages paid during a calendar year have a plain meaning that precludes allocation of backpay to the year it should have been paid. Pp. 6—10.
+
+(c) However, the Court rejects the Company’s contention that, because Nierotko read the 1939 “wages paid” language for benefits eligibility purposes to accommodate an allocation-back rule for backpay, the identical 1939 “wages paid” language for tax purposes must be read the same way. Nierotko dealt specifically and only with Social Security benefits eligibility, not with taxation. The Court’s allocation holding in Nierotko in all likelihood reflected concern that the benefits scheme created in 1939 would be disserved by allowing an employer’s wrongdoing to reduce the quarters of coverage an employee would otherwise be entitled to claim toward eligibility. No similar concern underlies the tax provisions. The legislative history demonstrates that the 1939 Amendments adopting the “wages paid” rule for taxation were designed to address Congress’ worry that, as tax rates increased from year to year, administrative difficulties and confusion would attend the taxation of wages payable in one year, but not actually paid until another year.
+
+(d) The Court is not persuaded Congress incorporated Nierotko’s treatment of backpay into the tax provisions when it amended the Social Security Act shortly after Nierotko was decided. Prior to 1946, the FICA and FUTA wage bases were defined in terms of remuneration paid with respect to employment during a given year. The 1946 law amended §209(a), which defines the Social Security wage base for purposes of benefits calculation, by adopting the “wages paid” language already present in §209(g), the provision construed in Nierotko. Congress also used identical “wages paid” language in redefining the FICA and FUTA wage bases for tax purposes. Although the legislative history makes clear that Congress sought to achieve conformity between the tax and benefits provisions, the conformity Congress sought had nothing to do with Nierotko’s treatment of backpay. Rather, Congress’ purpose in amending the FICA and FUTA wage bases for tax and benefits purposes was to define the yardstick for measuring “wages” as the amount paid during the calendar year without regard to the year in which the employment occurred. Because the concern that animates Nierotko’s treatment of backpay in the benefits context has no relevance to the tax side, it makes no sense to attribute to Congress a desire for conformity not only with respect to the general rule for measuring “wages,” but also with respect to Nierotko’s backpay exception. Pp. 10—14.
+
+(e) There is some force to the Company’s contention that the Government’s refusal to allocate back wages to the year they should have been paid creates inequities in taxation and incentives for strategic behavior that Congress did not intend. But this case presents no structural unfairness in taxation comparable to the structural inequity in Nierotko’s context. In Nierotko, an inflexible rule allocating backpay to the year it is actually paid would never work to the employee’s advantage; it could inure only to the detriment of the employee, counter to the thrust of the benefits eligibility provisions. Here, by contrast, the Government’s rule sometimes disadvantages the taxpayer, as in this case; other times it works to the disadvantage of the fisc. Anomalous results must be considered in light of Congress’ evident interest in reducing complexity and minimizing administrative confusion within the FICA and FUTA tax schemes. Given these concerns, it cannot be said that the Government’s rule is incompatible with the statutory scheme. The most that can be said is that Congress intended the tax provisions to be both efficiently administrable and fair, and that this case reveals the tension that sometimes exists when Congress seeks to meet those twin aims. Pp. 14—17.
+
+(f) Confronted with this tension, the Court defers to the Internal Revenue Service’s interpretation. The Court does not sit as a committee of revision to perfect the administration of the tax laws. United States v. Correll, 389 U.S. 299, 306—307. Instead, it defers to the Commissioner’s regulations as long as they implement the congressional mandate in a reasonable manner. Id., at 307. The Internal Revenue Service has long maintained regulations interpreting the FICA and FUTA tax provisions. In their current form, the regulations specify that wages must be taxed according to the year they are actually paid. Echoing the language in 26 U.S.C. § 3111(a) (FICA) and §3301 (FUTA), these regulations have continued unchanged in their basic substance since 1940. Although the regulations, like the statute, do not specifically address backpay, the Service has consistently interpreted them to require taxation of back wages according to the year the wages are actually paid, regardless of when those wages were earned or should have been paid. The Court need not decide whether the Revenue Rulings themselves are entitled to deference. In this case, the Rulings simply reflect the agency’s longstanding interpretation of its own regulations. Because that interpretation is reasonable, it attracts substantial judicial deference. Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 512. Pp. 17—18.
+
+215 F.3d 1325, reversed.
+
+Ginsburg, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Kennedy, Souter, Thomas, and Breyer, JJ., joined. Scalia, J., filed an opinion concurring in the judgment.

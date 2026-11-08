@@ -1,0 +1,33 @@
+{
+  "record": "Shaw_v_Murphy_merits_2001-04-18.md",
+  "explanation_words": [
+    257
+  ],
+  "holdings_identity": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "author": "Scalia",
+  "expected_counts": [
+    4,
+    6,
+    6,
+    4,
+    5,
+    5,
+    5,
+    6,
+    5
+  ],
+  "validation": "Assembly checks complete; integration and repository commitment pending."
+}

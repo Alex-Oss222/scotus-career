@@ -1,0 +1,81 @@
+[
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1702.ZS.html",
+    "file": "99-1702.ZS.txt",
+    "characters": 5234
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1702.ZC.html",
+    "file": "99-1702.ZC.txt",
+    "characters": 5831
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1702.ZD.html",
+    "file": "99-1702.ZD.txt",
+    "characters": 22680
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1702.ZO.html",
+    "file": "99-1702.ZO.txt",
+    "characters": 20495
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/00-152.ZS.html",
+    "file": "00-152.ZS.txt",
+    "characters": 4401
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/00-152.ZO.html",
+    "file": "00-152.ZO.txt",
+    "characters": 17516
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/00-203.ZS.html",
+    "file": "00-203.ZS.txt",
+    "characters": 10714
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/00-203.ZC.html",
+    "file": "00-203.ZC.txt",
+    "characters": 3326
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/00-203.ZO.html",
+    "file": "00-203.ZO.txt",
+    "characters": 34631
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1864.ZS.html",
+    "file": "99-1864.ZS.txt",
+    "characters": 8173
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1864.ZD.html",
+    "file": "99-1864.ZD.txt",
+    "characters": 19492
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1864.ZO.html",
+    "file": "99-1864.ZO.txt",
+    "characters": 41602
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1613.ZS.html",
+    "file": "99-1613.ZS.txt",
+    "characters": 4768
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1613.ZC.html",
+    "file": "99-1613.ZC.txt",
+    "characters": 2258
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/99-1613.ZO.html",
+    "file": "99-1613.ZO.txt",
+    "characters": 15450
+  },
+  {
+    "docket": "00-866",
+    "error": "HTTP Error 500: Internal Server Error"
+  }
+]
