@@ -4,13 +4,13 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved; renewed 2026-11-08 by express user approval of the corrected-posture Denius version.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to effective intervening law before January 17, 2001. Authoritative legal permission is assessed at the 1996 conduct date under the expressly proposed reliance defense below.
 * **Conditions:** Apply intervening controlling decisions and material corrections to the record.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm reversal of summary judgment on legal-consultation and medical-privacy claims; vacate the financial-information immunity disposition insofar as it forecloses a qualifying intimate-information claim solely for lack of a previously specific decision; remand under the rules below.
+* **Stone's Controlled Judgment or Disposition:** Reverse in part, affirm in part, vacate in part, and remand. (1) Reverse the Court of Appeals' judgment insofar as it affirmed summary judgment for the defendants on the legal-consultation claim for damages. (2) Affirm its reversal of summary judgment on the legal-consultation claim for equitable relief. (3) Affirm its reversal of summary judgment on the medical-privacy claim for damages and for equitable relief. (4) Vacate the financial-information immunity disposition insofar as it forecloses a qualifying intimate-information claim solely for lack of a previously specific decision. (5) Affirm the reversal of summary judgment on the financial-information claim for equitable relief, but vacate the Court of Appeals' financial-privacy determination insofar as it treats the authorization's breadth as establishing protected financial content without identifying that content. Remand under the rules below.
 * **Stone's Remedy and Remand Position:** Determine the authorization’s actual scope, the defendants’ participation and justification, the information protected, causation, and any proved individual legal-reliance defense. The unrestricted authorization cannot be sustained by undisclosed intentions to perform only routine screening. Allow compensation and any live prospective relief only on the elements and injury proved; this ruling awards no damages or reinstatement by itself.
 
 ## C. ISSUE POSITIONS
