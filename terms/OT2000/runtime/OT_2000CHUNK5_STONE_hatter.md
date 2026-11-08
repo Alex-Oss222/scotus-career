@@ -8,7 +8,7 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved; renewed 2026-11-08 by express user approval, after comparison with Major League Baseball Players Association v. Garvey (May 14, 2001), on the adopted Section 14 premise that in 1996, for want of a quorum, an order under 28 U.S.C. section 2109 affirmed the Federal Circuit's earlier judgment in this case.
 * **Current-Through Baseline:** Precedent effective through June 29, 2000, subject to any intervening decision effective before the stated event date.
 * **Conditions:** Subject to intervening controlling precedent and material corrections to the record.
 
@@ -48,6 +48,6 @@
 
 * **Reach Within the Question:** The disposition reaches the prior no-quorum objection and the asserted 1984-raise defense in these compensation claims. It preserves ordinary limitations rules and requires legally matched treatment of any genuine offset rather than an undifferentiated net-pay comparison.
 
-* **Essential Reasoning and Record Application:** A statutory affirmance issued because the Court could not act does not establish a constitutional rationale it never considered. An increase determines the lawful salary thereafter due; it does not retrospectively authorize prior withholding or permit deduction from the new entitlement. Recoverable amounts still depend on each claimant's timely claim. The earlier disposition retains the same case-specific force as the governing no-quorum statute gives it; the absence of precedential reasoning cannot be used to reopen whatever that judgment actually settled. The present claims and asserted later salary offset must therefore be considered within the surviving mandate.
+* **Essential Reasoning and Record Application:** A statutory affirmance issued because the Court could not act does not establish a constitutional rationale it never considered. An increase determines the lawful salary thereafter due; it does not retrospectively authorize prior withholding or permit deduction from the new entitlement. Recoverable amounts still depend on each claimant's timely claim. The earlier disposition retains the same case-specific force as the governing no-quorum statute gives it; the absence of precedential reasoning cannot be used to reopen whatever that judgment actually settled. The present claims and asserted later salary offset must therefore be considered within the surviving mandate. That mandate bound the Court of Federal Claims on remand; under Major League Baseball Players Association v. Garvey it does not immunize the antecedent liability ruling from this Court's review of the later judgment, and a no-quorum affirmance that supplies no merits determination adds no further bar.
 
 * **Boundary or Reserved Question:** Claim-specific limitations periods and arithmetic require facts and calculations not conclusively supplied here; those determinations remain for remand.
