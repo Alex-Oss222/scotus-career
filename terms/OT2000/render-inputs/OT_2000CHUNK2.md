@@ -1,11 +1,6 @@
 # OT_2000CHUNK2 Render Input
 
-**October Term:** 2000. **Completed events:** 12. **Chronological range:** 2001-01-09 through 2001-02-20.
-
-**Stopped matters:**
-- Glover v. United States: Engine section 4: renewed Stone approval is required to correct the granted scope. The petition presents the prejudice threshold, but the approved supplement treats grouping and deficient performance as within the grant. No approval of the proposed scope correction has been received.
-- Denius v. Dunlap: Engine section 4: renewed Stone approval is required to correct the formal appellate posture. The Seventh Circuit affirmed attorney-confidentiality damages immunity; the approved supplement describes a reversal. No approval of the proposed corrected dispositions has been received.
-- District of Columbia v. Tri County Industries, Inc.: Engine section 4: renewed Stone approval is required on the corrected first-trial record. The trial judge excluded letters, health-and-safety evidence and a lawful-closure proffer, then reconsidered those exclusions when ordering a new trial. No approval retaining the proposed first-verdict affirmance on that corrected premise has been received.
+**October Term:** 2000. **Completed events:** 15. **Chronological range:** 2001-01-09 through 2001-02-20.
 
 <!-- source-record: Brewer_v_West_Irondequoit_Central_School_District_merits_2001-01-09.md -->
 ## Event
@@ -254,6 +249,77 @@ The factual and procedural record is reported in [531 U.S. 206, 209–211](https
 
 ---
 
+<!-- source-record: Glover_v_United_States_merits_2001-01-09.md -->
+## Event
+
+Glover v. United States, No. 99-8576. Merits decision, January 9, 2001; argued November 27, 2000. On writ of certiorari to the United States Court of Appeals for the Seventh Circuit, judgment noted at 182 F.3d 921, affirming denial of relief under 28 U.S.C. §2255.
+
+The questions are whether an additional six to twenty-one months allegedly caused by counsel's sentencing error may be rejected as insufficiently significant under Strickland, and whether a two-level error producing that additional imprisonment is insufficient per se. Both assume deficient performance and calculation error for the questions presented. The presentence report recommended grouping; the sentencing court separated the money-laundering counts from the racketeering and tax counts after the government's objection. Glover received 84 months under a range of 78–97 months and contends the correct range was 63–78 months. Those alleged consequences do not establish that grouping was required or that counsel performed deficiently.
+
+## Participation
+
+All nine Justices participate at argument and decision: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The Court reverses the Seventh Circuit and remands for further proceedings.
+
+## Judgment & Remedy
+
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The categorical prejudice ground is rejected on both questions. The lower courts must decide the remaining assistance claim and properly available independent defenses without a minimum-duration or minimum-offense-level requirement. No immediate sentence reduction or release is ordered.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Both prejudice questions and the reversal and remand; full joins |
+
+No separate writing issues.
+
+## Holdings
+
+### No minimum duration or offense-level threshold for sentencing prejudice
+
+**Holding and operative rule:** When deficient representation allegedly causes a longer prison sentence, Strickland prejudice requires a reasonable probability of a shorter lawful sentence, sufficient to undermine confidence in the result; it contains no additional minimum measured in months of confinement or in offense levels. An alleged six-to-twenty-one-month increase caused by a two-level sentencing error therefore cannot be rejected as constitutionally insignificant, but deficient performance, the underlying error and the required causal probability must still be established.
+
+**Authority:** Justice Scalia's opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the rule answering both presented questions and the bounded remand.
+
+**Controlling explanation:** The Sixth Amendment protects a defendant against imprisonment attributable to constitutionally deficient representation. Strickland v. Washington supplies the reasonable-probability inquiry. It asks whether there is a reasonable probability of a different lawful result with competent assistance, sufficient to undermine confidence; it does not license a court to disregard an otherwise established loss because that loss is measured in fewer months or fewer sentencing levels.
+
+Lockhart v. Fretwell excludes a benefit the substantive law does not recognize. It preserves ordinary prejudice analysis for a lawful sentencing benefit and adds no independent unfairness requirement. Williams v. Taylor confirms that distinction. Here the asserted benefit is application of the lawful sentencing calculation. Whether that calculation actually favors Glover must be decided, but its potentially modest effect is not a separate reason to reject the claim. An offense-level threshold makes the same error as a duration threshold: it substitutes the size of the alleged mistake for the probability that a lawful shorter sentence was lost.
+
+The United States offers adequate performance, correct grouping and possible other sentencing consequences as grounds for affirmance. Those contentions do not sustain the categorical rule on which the Court of Appeals relied. Both questions assume deficient performance and calculation error; neither presents the whole assistance claim. The lower courts must determine the unresolved elements and the availability and merits of any properly preserved independent defense. Agreement that the added threshold is wrong establishes neither actual ineffective assistance nor entitlement to a particular sentence. The judgment is reversed and the case remanded, without an immediate sentence reduction or release.
+
+## Precedent Treatment
+
+- Strickland v. Washington, 466 U.S. 668 (1984): applies its separate performance and reasonable-probability requirements to an alleged increase in imprisonment; neither requirement acquires a minimum-duration or minimum-offense-level condition.
+- Lockhart v. Fretwell, 506 U.S. 364 (1993): applies its distinction between an unavailable substantive benefit and a lawful sentencing protection; its limited unavailable-benefit rule remains intact and does not support a significance threshold.
+- Williams v. Taylor (Terry Williams), 529 U.S. 362 (2000): applies its ordinary lawful-result prejudice rule. Its state-prisoner statutory review and actual capital-sentencing findings do not decide this federal prisoner's unresolved performance and calculation issues.
+
+## Law After Decision
+
+In a noncapital sentencing-assistance claim alleging additional confinement, ordinary Strickland prejudice governs without an extra minimum measured in time or offense levels. The decision expressly rejects both numerical barriers while preserving the requirement of deficient performance and a reasonable probability of a shorter lawful sentence. A changed range or an attorney mistake alone establishes neither requirement.
+
+Correct grouping, counsel's performance, the full lawful sentencing calculation and the availability and merits of preserved independent defenses remain for lower-court determination because they lie outside the two presented questions and were not resolved by the judgment under review. These are applications and remaining claim determinations under the governing rule, not an unresolved legal standard for how much additional imprisonment counts. No separate legal question within the two prejudice questions remains undecided.
+
+## Separate Writings
+
+No separate writing issues.
+
+## Procedure After Action
+
+The Seventh Circuit's affirmance of the denial of section 2255 relief is reversed. Further proceedings must determine the remaining assistance claim without either added numerical threshold. The lower courts decide whether independent defenses remain available and, if so, their merits. Relief against the sentence follows only upon the required showing under the lawful sentencing rules; no particular sentence, immediate reduction or release is directed.
+
+## Source Notes
+
+The petition, No. 99-8576, questions presented, supplies the two prejudice questions and their assumed premises. The [United States merits brief](https://www.justice.gov/osg/brief/glover-v-united-states-brief-merits) supplies the sentencing record, lower-court proceedings and the government's alternative contentions; its broader question formulation does not enlarge the petition. The record narrative at [531 U.S. 198, 200–202](https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-198.pdf) supports the argument date, sentence and procedural history. Performance was disputed in the District Court, although the appellate disposition did not decide it. The claimed sentencing error and added confinement remain allegations for the remaining claim.
+
+---
+
 <!-- source-record: Solid_Waste_Agency_of_Northern_Cook_County_v_US_Army_Corps_of_Engineers_merits_2001-01-09.md -->
 ## Event
 
@@ -470,6 +536,216 @@ The Supreme Court proceeding is terminated. The Wisconsin judgment remains undis
 ## Source Notes
 
 The letters, closure, 1995 violation findings, expiration of their disabilities and limited grant are recited in [City News, 531 U.S. 278](https://www.govinfo.gov/content/pkg/USREPORTS-531/pdf/USREPORTS-531-278.pdf), including both notes. A further violation finding or imposed disability through 2005 is not established; continued operation during state review was permitted by the council. The case presents no surviving damages claim or current licensing plan.
+
+---
+
+<!-- source-record: Denius_v_Dunlap_merits_2001-01-17.md -->
+## Event
+
+Denius v. Dunlap, Seventh Circuit No. 99-1402, 209 F.3d 944. Decided January 17, 2001, on plenary merits review of the United States Court of Appeals for the Seventh Circuit. No separate Supreme Court docket or argument date is supplied. The questions are whether continued public employment may be conditioned on unrestricted access to confidential legal consultation without sufficient employment justification, and whether the Fourteenth Amendment protects against the demand for unrestricted access to intimate medical and financial information.
+
+The Seventh Circuit affirmed damages immunity for the attorney-client and financial-information claims, reversed medical-information damages immunity, and restored the equitable claims. Denius taught ordinary academic subjects at the Lincoln Challenge Program. His refusal to sign the additional authorization was the sole stated reason for nonrenewal on the summary-judgment record. The authorization lasted one year and reached broadly described confidential information and attorney communications. It did not separately enumerate medical records; whether it actually covers them remains to be determined. The unchallenged earlier criminal-background and education authorization remains distinct. The employer's undisclosed intention to perform only routine criminal screening did not narrow the written condition. No actual collection or dissemination is established.
+
+## Participation
+
+All nine Justices participate at merits submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The Court affirms in part, vacates in part, and remands the Seventh Circuit's judgment.
+
+## Judgment & Remedy
+
+**Affirmed in part, vacated in part, and remanded.** The distinct judgment components are:
+
+| Component | Disposition | Supporting | Opposing |
+|---|---|---|---|
+| Legal-consultation claim for damages | Affirm the judgment sustaining defendants' summary judgment on qualified immunity, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela would reverse and remand |
+| Legal-consultation claim for equitable relief | Affirm the reversal of defendants' summary judgment, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas would reject this constitutional claim |
+| Medical-information claim for damages | Affirm the reversal of defendants' summary judgment, conditional on actual medical coverage, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas would restore immunity |
+| Medical-information claim for equitable relief | Affirm the reversal of defendants' summary judgment, conditional on actual medical coverage, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas would reject this constitutional claim |
+| Financial-information claim for damages | Affirm qualified immunity, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela would vacate the immunity disposition insofar as lack of a previously specific decision forecloses a qualifying intimate-information claim |
+| Financial-information claim for equitable relief and constitutional coverage | Affirm the reversal of defendants' summary judgment, but vacate the determination that breadth and the financial label alone establish protected content; remand under the intimate-content rule, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas would reject the due-process claim outright |
+
+The remand requires determination of actual medical coverage, the objectively intimate content of any financial material, the actual employment justification and relevant safeguards, personal participation, causation, injury, and the prerequisites for the relief sought. Ordinary summary-judgment duties remain. Medical damages immunity may not rest merely on absence of an identical prior case; genuinely supported factual and independent defenses retain their operation. Attorney and financial damages claims remain barred by the immunity judgments affirmed here. Equitable claims require a proper defendant and a live basis for prospective relief. No damages, reinstatement, automatic trial, or prescribed discovery plan is ordered.
+
+## Opinion Topology
+
+| Writing or part | Author | Joined by | Judgment relationship and scope |
+|---|---|---|---|
+| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Seven adopt the legal-consultation rule and equitable remand |
+| Opinion of the Court, Part II | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Seven adopt bounded intimate-information acquisition protection and the medical and financial equitable dispositions |
+| Opinion of the Court, Part III | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Eight preserve qualified immunity and affirm attorney and financial damages immunity |
+| Opinion of the Court, Part IV | Kennedy | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six adopt the conduct-date medical-notice ground; Stone-Zsela concurs only in this judgment component |
+| Opinion concurring in part, concurring in the judgment in part, and dissenting in part | Stone-Zsela | No other Justice | Joins Parts I and II; agrees with the medical damages remand on a different defense rule; opposes attorney and financial damages immunity |
+| Opinion concurring in part and dissenting in part | Scalia | Thomas | Joins Part III; rejects the legal-consultation and acquisition extensions and independently would grant medical damages immunity |
+
+Each controlling proposition has direct majority support at its stated scope. No narrowest-ground aggregation is necessary. The six Justices joining the entire lead opinion are Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+
+## Holdings
+
+### Independent legal consultation cannot be burdened by an unjustified employment condition
+
+**Holding and operative rule:** A public employer may not condition continued employment on a blanket authorization to disclose confidential communications used to obtain independent legal advice without an adequate employment-related justification for that burden. The rule protects access to legal assistance; it does not make every evidentiary privilege a constitutional right or bar lawful investigation and genuinely pertinent, confined inquiries.
+
+**Authority:** Part I of Kennedy's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer; seven Justices adopt the rule and affirm restoration of the equitable claim.
+
+**Controlling explanation:** Button and Trainmen protect the ability to obtain legal assistance. Shelton's employment-disclosure principle and Pickering's employment balance prevent use of a public job to burden protected independent activity without an adequate reason. The Court applies those protections to the actual demand: the attorney clause reaches independent consultation unrelated to Denius's teaching and burdens his future ability to seek advice. No employment reason for that additional access has been established. Loss of employment for refusing the condition supplies a concrete injury even without proof that officials already obtained a confidential communication.
+
+The employer answers that the earlier cases concerned litigation and association, rather than a general civil privilege. The Court does not turn the privilege into an absolute constitutional shield. Confidential consultation enables people to identify and assert their legal rights; a blanket employment condition reaches that protected activity directly. Ordinary privilege rules and independently lawful investigation continue to operate. A privilege exception does not itself justify an unrelated employment demand.
+
+The form's actual terms govern the condition imposed. An uncommunicated intention to conduct only screening already authorized does not confine those terms. The equitable claim therefore returns for adjudication under this rule. This is First Amendment protection of independent legal assistance, not a Sixth Amendment right without an attached criminal proceeding. No final equitable entitlement or compensable injury is established by recognition of the right alone.
+
+### An employment demand for intimate medical information requires actual justification
+
+**Holding and operative rule:** The Fourteenth Amendment protects against a public employer's demand for unrestricted access to objectively intimate medical information without an adequate connection to a legitimate employment function and protections reasonably fitted to that use. The court must identify the actual covered information, its intimacy, the governmental need, and the scope, use and safeguards of the demand; the rule creates no universal strict-scrutiny, least-intrusive-means or mandatory-factor test.
+
+**Authority:** Part II of Kennedy's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer; seven Justices adopt this acquisition protection and conditional equitable remand.
+
+**Controlling explanation:** Sheets protects objectively intimate personal information against unjustified official dissemination. The personal interest can also be burdened when the government demands access as the price of retaining employment. Whalen permits legitimate safeguarded collection. Doe sustained a confined benefits-related inquiry while assuming the asserted right; it did not authorize access detached from that function. The Court now recognizes the bounded acquisition protection necessary to decide this case.
+
+Relevant fitness verification can serve a legitimate employment need. That possibility does not itself justify unlimited access to treatment, family affairs or other unrelated intimate information. The actual connection and protections must support the demand imposed, and undisclosed benign intentions cannot replace them. Conversely, an administrative imperfection does not alone prove a constitutional violation, and every datum need not be indispensable.
+
+The authorization's one-year duration limits time, not the breadth of its subject matter. Its opening language is broad, but medical records are not expressly enumerated. The district court must determine whether the authorization actually reaches them. If it does, the court applies the rule to covered intimate material and the supported employment justification. Coverage, personal responsibility, causation and appropriate relief remain factual or remedial work under the announced law; they do not make recognition of the right provisional.
+
+### Financial records are protected only to the extent they reveal objectively intimate matters
+
+**Holding and operative rule:** Financial information falls within the protected personal interest only to the extent its contents reveal objectively intimate personal or family matters. A court cannot establish constitutional coverage from the financial label, the breadth of an authorization, or the owner's preference for secrecy alone; once protected content is identified, the employer's demand is governed by the same actual-need, scope, use and safeguards rule as other intimate information.
+
+**Authority:** Part II of Kennedy's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer; seven Justices vacate the categorical financial-privacy determination while preserving adjudication of the equitable claim.
+
+**Controlling explanation:** Sheets grounds protection in objectively intimate life, rather than a general right to keep every record secret. That principle supplies the relevant boundary here. An ordinary loan, credit rating or business record is not constitutionally protected merely because it is financial or confidential. The same kind of record may reveal intimate personal or family matters in a particular instance, and its content then requires the justification and protection the Court has described.
+
+Denius has identified no particular protected financial item. The loss of employment makes his challenge concrete, but does not establish coverage of every financial record. The Court of Appeals therefore could not infer a categorical constitutional interest from the authorization's breadth alone. Its determination is vacated at that point, and the equitable claim returns for identification of the information and application of the governing rule. This is an identified content boundary, not a reservation whether objectively intimate financial material can ever be protected. Other undeveloped informational categories and the separate release-of-liability theories were not preserved for this review and are not decided.
+
+### Conduct-date qualified immunity bars the attorney and financial damages claims
+
+**Holding and operative rule:** An official remains protected from personal damages when all relevant law at the time of the challenged conduct did not give sufficiently particularized objective notice that the conduct violated the asserted right; an identical prior case is unnecessary, but later recognition of a right supplies no retrospective notice. The 1996 law did not sufficiently establish these legal-consultation and intimate-financial acquisition extensions on this authorization, so the judgments granting personal damages immunity on those two claims are affirmed.
+
+**Authority:** Part III of Kennedy's opinion, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; all eight Associate Justices adopt the rule and both immunity judgments. Stone-Zsela dissents on these components.
+
+**Controlling explanation:** Harlow and Anderson preserve the objective, particularized notice inquiry. Elder requires independent consideration of all relevant preconduct authority rather than only the cases a party happened to cite below. Crawford-El preserves that legal defense alongside ordinary proof, and Wasson confirms that an unsettled constitutional extension does not become actionable for damages merely because a present court could adopt it.
+
+Button's access-to-counsel cases did not sufficiently establish this general employment-condition application in 1996. The financial precedents likewise did not give adequate notice of the protected reach now identified. Sheets's intimate-publication holding did not automatically decide acquisition or every financial record. Neither the 1997 Doe and Crawford-El decisions nor the present decision can supply 1996 notice.
+
+The Court rejects a requirement that officials prove actual reliance on binding authority directly permitting their conduct. That would replace the objective immunity defense, not apply it. Constitutional violation, contemporaneous notice and injury remain distinct. The retained defense protects these two damages components; it does not justify dismissal of a separately available equitable claim, convert the demand into lawful conduct, or supply immunity to an entity or claim outside its personal-damages scope.
+
+### The medical damages claim presents a different notice question
+
+**Holding and operative rule:** If the authorization reaches objectively intimate medical information, the existing summary-judgment record does not support personal damages immunity merely because no previous decision addressed this exact form. The cumulative law before the 1996 demand gave notice that an unlimited civilian-medical access condition, unsupported by an articulated countervailing employment purpose, could not be justified solely by public-employer status; medical coverage and genuinely supported factual or independent defenses remain for adjudication.
+
+**Authority:** Part IV of Kennedy's opinion, joined by Stevens, O'Connor, Souter, Ginsburg and Breyer; six Justices adopt this conduct-date notice ground. Stone-Zsela supplies a seventh vote for the conditional medical damages remand but does not join this rationale. Scalia and Thomas dissent.
+
+**Controlling explanation:** Elder requires consideration of the cumulative conduct-date law. Pesce recognized the constitutional significance of employment-conditioned confidential disclosure while sustaining justified child-abuse reporting. Schaill recognized substantial medical confidentiality while sustaining limited disclosure to an appropriate official for a concrete program need. Anderson v. Romero distinguished the recognized civilian medical interest from the unsettled prisoner claim on which it granted immunity. Considered with Whalen and the then-effective Sheets holding, those decisions gave notice of the no-justification boundary relevant here.
+
+The contrary argument correctly observes that those cases involved different circumstances, often upheld disclosure, and did not decide this unexecuted authorization. Those limits do not erase the distinction between justified, confined medical access and an unlimited demand supported only by the existence of public employment. The Court does not treat the circuit cases as controlling Supreme Court holdings or assert that they adjudicated this form.
+
+Actual medical coverage is disputed, and no personal liability follows before it is established. The undisclosed narrow screening intention cannot supply justification for the broader written condition. A genuinely supported material employment justification, personal causation, injury and other proper defenses remain subject to ordinary proceedings. The judgment restores the medical damages claim for that work; it neither finds a violation after trial nor awards compensation. The rule announced today is not itself the source of historical notice.
+
+## Precedent Treatment
+
+- NAACP v. Button and Brotherhood of Railroad Trainmen v. Virginia: extend protection of obtaining legal assistance to this unjustified compulsory employment authorization; ordinary privilege and investigation rules remain distinct.
+- Shelton v. Tucker: applies the principle that an employment disclosure condition requires justification for its actual burden on protected independent activity.
+- Pickering v. Board of Education: applies the relationship between the employee's protected activity and the employer's actual functional justification.
+- Connick v. Myers: preserves contextual public-employment analysis; supplies no categorical permission to demand all independent legal confidences.
+- United States v. National Treasury Employees Union: applies its requirement that a public employer justify the actual unrelated burden; the present rule does not import a universal higher test for every advance employment policy.
+- Waters v. Churchill: preserves its genuine-ground distinction and separate causation and immunity inquiries; an undisclosed intention does not alter the written condition at issue.
+- Sheets v. Salt Lake County: preserves its intimate-publication holding and objectively intimate-content boundary; develops protection against an unjustified employment demand for access without converting Sheets itself into an earlier acquisition holding.
+- Whalen v. Roe: preserves legitimate safeguarded collection; its reservation of possible abuses does not foreclose the bounded acquisition right recognized here.
+- Doe v. Southeastern Pennsylvania Transportation Authority: preserves its assumed-right disposition of confined benefits administration; distinguishes that supported function from the unrestricted additional access demanded here.
+- Harlow v. Fitzgerald and Anderson v. Creighton: retain objective, particularized conduct-date immunity; the Court declines to replace it with an actual-authoritative-reliance defense.
+- Elder v. Holloway: applies independent consideration of all relevant conduct-date authority, without requiring an identical case or importing later notice.
+- Crawford-El v. Britton: preserves ordinary proof, actual causation and lawful procedural screening alongside immunity; its later date supplies no 1996 notice.
+- Wasson v. Sonoma County Junior College: preserves distinct present constitutional merits and contemporaneous notice; its unresolved attributed-speech question does not decide the different medical-law notice record here.
+- Pesce v. J. Sterling Morton High School District 201, Schaill v. Tippecanoe County School Corp., and Anderson v. Romero: considered as preconduct circuit authority for the cumulative civilian-medical notice inference, with their justified-disclosure and prisoner-specific limitations retained; none becomes a controlling Supreme Court precedent by that use.
+
+## Law After Decision
+
+Public employment cannot be conditioned on an unjustified blanket surrender of independent legal consultation. Compulsory access to objectively intimate medical information and comparably intimate content in financial records requires an actual legitimate employment connection and reasonably fitted scope, use and protection. General financial secrecy, a disclosure label and a confidentiality preference do not suffice. Actual coverage and content must be identified.
+
+This decision recognizes the bounded acquisition protection left undecided in Doe and distinguishes it from Sheets's public-dissemination holding. The ordinary conduct-date qualified-immunity defense remains in force. Attorney and financial damages immunity is affirmed, while the medical damages claim returns on the distinct cumulative notice ground and actual-coverage condition. Personal immunity does not eliminate live equitable claims. No fractured-decision question or new mandatory scrutiny formula is created.
+
+## Separate Writings
+
+**Stone-Zsela, concurring in part, concurring in the judgment in part, and dissenting in part.** He joins the legal-consultation and intimate-information holdings and their equitable remedies. He agrees that Button and Trainmen protect independent legal assistance, that the actual written condition governs, and that objectively intimate medical and financial content requires a justified and suitably confined governmental demand. These grounds do not constitutionalize ordinary financial secrecy or dispense with proof of coverage and injury.
+
+He would replace the broader clearly-established-law defense with a narrow defense requiring defendants to prove genuine, objectively reasonable reliance on identified binding precedent or enacted authority directly authorizing the demand. Legal silence and routine supervisory power would not suffice. Justified factual judgment belongs in the constitutional merits analysis; uncertainty in precedent should not independently defeat compensation for a proved deprivation. Authoritative legal permission would protect actual, reasonable reliance without immunizing conduct merely because no earlier decision used the same authorization form. This changes the defense preserved by Elder, Crawford-El and Wasson; it does not claim the new acquisition rule was established in 1996.
+
+He would therefore reverse attorney damages immunity, affirm the medical damages remand on his distinct defense rule, and vacate financial damages immunity insofar as it forecloses a qualifying intimate-information claim solely for lack of a previously specific decision. The record identifies no binding permission for the unrestricted demand. Remand would permit a properly supported reliance defense and adjudication of actual scope, participation, justification, protected content, causation and injury. His position awards no damages or reinstatement and does not affect independently required live-equitable-relief conditions.
+
+**Scalia, concurring in part and dissenting in part, joined by Thomas.** They join the attorney and financial damages-immunity holding. They reject the First Amendment extension because Button and Trainmen protect litigation and expressive association rather than a general constitutional guarantee covering individual civil legal confidences. The absence of an identified constitutional source is not cured by the demand's poor justification or by treating every evidentiary privilege as protected activity. They accept the employment injury and the distinction between immunity and equitable relief.
+
+They also reject extending substantive due process from Sheets's actual public-dissemination holding to compulsory access or authorization. Their position, reflected in the Sheets dissent and Doe concurrence, requires a demonstrated constitutional source for the new acquisition guarantee; intimate subject matter and state confidentiality expectations do not alone supply one. They accept Sheets as binding within its decided scope and do not treat information held by a third party as necessarily public.
+
+Independently, they would restore medical damages immunity. Pesce and Schaill upheld justified disclosures in different settings, and Anderson v. Romero distinguished other interests while granting immunity. Those sources did not sufficiently establish the asserted application to an unexecuted authorization with disputed medical coverage. They would reject the three constitutional equitable claims on the grounds stated and retain damages immunity for each category. Their position makes no finding that the demand was wise or that a state-law remedy displaces a proved federal right.
+
+## Procedure After Action
+
+The case returns for proceedings consistent with the component judgments. Defendants retain the affirmed attorney and financial personal-damages immunity. The legal-consultation equitable claim, conditional medical damages and equitable claims, and bounded financial equitable claim remain for adjudication. The court must determine actual medical coverage, protected financial content, the actual employment justification and safeguards, the responsible defendants, causation and injury. Prospective relief requires a live controversy and appropriate defendant; successor-official substitution does not itself establish a continuing threat. No Rule 60(b) motion was required before appealing the legal dismissal of equitable claims. Ordinary proof and summary-judgment rules govern. The separately waived release-of-liability theories and undeveloped other informational categories are not reopened.
+
+## Source Notes
+
+The record and claim-specific judgment below are reported in [Denius v. Dunlap, 209 F.3d 944](https://openjurist.org/209/f3d/944), especially the attorney-immunity disposition, medical-coverage qualification, financial discussion and final disposition. The Court relies on the summary-judgment record, not findings after trial. Medical coverage is expressly unresolved, and no actual collection or dissemination or particular protected financial item is established. The conduct-date circuit authorities are Pesce, 830 F.2d 789; Schaill, 864 F.2d 1309; and Anderson v. Romero, 72 F.3d 518. January 17 is the scheduled merits decision date; no separate argument date or Supreme Court docket is supplied.
+
+---
+
+<!-- source-record: District_of_Columbia_v_Tri_County_Industries_dig_2001-01-17.md -->
+## Event
+
+District of Columbia v. Tri County Industries, Inc., No. 99-1953. Argued January 10, 2001; decided January 17, 2001. On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit, 200 F.3d 836, amended at 208 F.3d 1066. The question is whether Gasperini displaces the circuit approach restricting district-court discretion to grant a new trial while expanding appellate review. The first jury awarded $5 million; the trial court ordered a new trial unless Tri County accepted $1 million, and the second jury awarded $100. The appellate court reinstated the first verdict and vacated the second verdict and judgment. Its amended judgment supplies the interest direction. The underlying procedural-due-process liability had been established in an earlier appeal.
+
+## Participation
+
+All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The writ of certiorari is dismissed as improvidently granted. The Court states no reason. Chief Justice Stone-Zsela dissents; no numerical division or further individual lineup is disclosed.
+
+## Judgment & Remedy
+
+The amended appellate judgment remains undisturbed: the first $5 million verdict is reinstated, the second verdict and judgment are vacated, and interest runs at 4% per annum from April 20, 1998, computed daily until payment. These are consequences of the court of appeals' judgment, not a Supreme Court merits affirmance or a new damages or interest ruling. The Court orders no further trial or merits remand.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship and scope |
+|---|---|---|---|
+| Order dismissing the writ as improvidently granted | The Court; unsigned | No lineup disclosed | Ends Supreme Court review without stated reasons |
+| Dissent from dismissal | Chief Justice Stone-Zsela | No joins | Would reach the question and affirm the amended appellate judgment |
+
+## Holdings
+
+The dismissal supplies no holding on the granted question, appellate review of a new-trial order, mitigation, damages, evidence or interest. The Court does not decide the correctness of the court of appeals' reasoning.
+
+## Precedent Treatment
+
+The Court's unexplained dismissal does not change any precedent. Gasperini's existing allocation of new-trial and appellate functions remains in force. The dissent's application of Gasperini and Williams is not a holding of the Court.
+
+## Law After Decision
+
+No substantive Supreme Court rule results from this action. The lower judgment retains its own force, including its damages and interest consequences. The circuit's review formulation receives no Supreme Court endorsement.
+
+## Separate Writings
+
+**Chief Justice Stone-Zsela, dissenting from dismissal.** He would reach the question and affirm under ordinary abuse-of-discretion review. Williams permits review of a federal question expressly decided below; the court of appeals expressly applied its more-searching-review formulation drawn from binding circuit precedent. The parties' conflicting preservation accounts and the unexplained rehearing denial establish no waiver finding. The existing first-trial record permits review of each stated new-trial ground without new facts; affirmance leaves the separate second-trial challenges unnecessary to decide.
+
+Gasperini preserves trial-court discretion while permitting independent review of legal error, and forbids a fresh appellate valuation. Its particular state-law compensation measure does not govern this federal civil-rights action. A judge may reconsider an earlier discretionary exclusion; the Chief Justice does not treat the initial ruling's permissibility as a bar to doing so. The reconsidered proof must nevertheless have a lawful relevance and evidentiary foundation.
+
+Here the judge repeatedly sought a lawful mechanism for terminating the permitted operation and found the District's proffer inadequate. He struck the October 15 and December 6 letters and health-and-safety testimony and excluded Siess's expert proffer, while submitting the fine and appeal defenses to the jury. The July order relies on that same unsupported prospect of community resistance and later closure. Community opposition is not itself lawful regulation. The permit retained testing and inspection conditions; the judge assumed compliance at the approved site, and counsel's contrary suggestions and the excluded proffer supplied no adequate foundation. No community or misrepresentation proceeding had occurred. The order did not rely on occupancy review, and the Chief Justice does not decide whether section 3203.1 or Woodley Park could supply a lawful mechanism on a different record.
+
+The order's excessiveness reason particularly, and its speculation reason partly, depend on the same deficient closure premise. Its remaining doubts about inexperience, the failed Virginia operation and falling treatment prices concern disputed valuation evidence the jury was instructed to weigh, including new-business uncertainty and competition. The award was less than half the profit projection. On this record those doubts do not justify displacing the jury's supported assessment.
+
+The categorical premise that future profits cannot be recovered without seeking permit reinstatement is also legal error. Mitigation was for the jury on proof the District bore the burden to supply, taking account of the available route, cost, delay and likely utility. The order did not expressly rest on the October letter as an unanswered invitation to be heard; insofar as failure to seek reinstatement supplies its mitigation ground, the same categorical error remains. The District had an opportunity at the first trial to challenge the expert's premises. Later-trial evidence cannot justify the earlier order. Competent testimony and its factual premises, contemporaneous business evidence, mitigation and causation matter; no separate statistical study is required.
+
+He would preserve the first verdict and the appellate interest amendment without another trial. His reasoning establishes neither automatic lost-profit recovery for permit suspensions nor a new damages formula, and it does not decide the deference owed to a different, properly supported order or materially different record.
+
+## Procedure After Action
+
+Supreme Court review ends. The amended appellate judgment remains operative on its own terms; the Court adds no further proceeding or condition.
+
+## Source Notes
+
+The [petition and appendix](https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf) supply the question and July 23 order. The [joint appendix](https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2005.%20Joint%20Appendix.pdf) supplies selected trial excerpts, actual exclusions, jury directions, permit conditions and correspondence; it is not a complete trial transcript. The [District's merits brief](https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2006.%20Petitioners%20Brief.pdf), [Tri County's merits brief](https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2007.%20Respondents%20Brief.pdf) and [reply](https://archive.org/download/micro_IA40385014_0379/micro_IA40385014_0379%2008.%20Reply%20Brief.pdf) supply the competing arguments, including preservation. The [principal appellate opinion](https://static.case.law/f3d/200/html/0836-01.html) and [amended judgment](https://static.case.law/f3d/208/html/1066-01.html) establish the judgment left in place and its exact interest direction.
 
 ---
 
