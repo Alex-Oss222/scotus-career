@@ -1,0 +1,73 @@
+{
+  "completed_event": "Saucier v. Katz; merits; 2001-06-18",
+  "result": "Vacated and remanded, 5-4; neither immunity nor denial directed",
+  "judgment_majority": [
+    "Stone-Zsela",
+    "Souter",
+    "Stevens",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "dissent": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas"
+  ],
+  "lead_author": "Souter",
+  "preassignment_counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 10,
+    "O'Connor": 9,
+    "Scalia": 10,
+    "Kennedy": 9,
+    "Souter": 10,
+    "Thomas": 9,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "counted_leads_after_all_current_records": {
+    "Stone-Zsela": 9,
+    "Stevens": 10,
+    "O'Connor": 9,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 11,
+    "Thomas": 9,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "existing_files_changed": [
+    "terms/OT2000/render-inputs/OT_2000CHUNK7.md",
+    "terms/OT2000/workspace/continuity.md",
+    "terms/OT2000/workspace/ledger.md",
+    "terms/OT2000/workspace/manifest.md",
+    "terms/OT2000/workspace/neutral-projection.md"
+  ],
+  "preserved_existing_files": 2181,
+  "prior_records_preserved": 98,
+  "chunk7_render_events": 14,
+  "inventory_events": 114,
+  "completed_records": 99,
+  "open_inventory_events": 15,
+  "stopped_chunk7_matters": [],
+  "checks": [
+    "all existing term file hashes compared",
+    "all prior Records preserved",
+    "all runtime splits current via checker",
+    "eleven Public Projection blocks in order",
+    "all fourteen Render Input entries identical to Record projections",
+    "Saucier before Mead in effective slot",
+    "114 inventory identities validated by guarded manifest builder",
+    "99 completed and 15 open inventory matters",
+    "workspace completion and law aligned",
+    "new Record local links resolved",
+    "no event date change or additional inventory event"
+  ],
+  "checker_result": "Completed with exit code 0: OK: OT2000; 2 warning(s). Both warnings expressly omit repository verification for detected source identifiers 007018a002 and 991768a.",
+  "limitations": [
+    "Repository object existence and commitment provenance not inspected or certified; operator retains those checks.",
+    "Original manifest and checker inventory parsers do not recognize the numbered chunk-column layout; the scratch wrapper validates all 114 identities and invokes the existing refresh logic.",
+    "Existing frozen handoffs and earlier validation snapshots remain unchanged; this receipt covers Saucier completion."
+  ]
+}
