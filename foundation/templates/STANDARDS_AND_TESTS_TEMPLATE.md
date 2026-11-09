@@ -63,6 +63,8 @@ Search the whole Register by governing question, trigger, and mechanics before a
 
 An ordinary application, reaffirmance, citation, or case-specific distinction creates no entry or development note. Integrate a subclass, exception, safe harbor, or limiting principle into the rule it qualifies unless controlling law gives it a distinct recurring trigger and independently usable mechanics.
 
+Apply these conditions as a gate on every candidate entry, not as a drafting guide. A decision that settles only how an existing rule or a single statute operates on its own facts goes in Holdings and adds nothing here. A new entry must state a reusable rule with its own recurring trigger, and its heading and governing question must make sense without the source case's party, product, or industry.
+
 ## 5. Preserve the law's actual form
 
 State the analysis the controlling law adopted. Do not translate one form into another for consistency. In particular:
