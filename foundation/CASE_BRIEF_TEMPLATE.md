@@ -12,7 +12,7 @@ Each case has exactly three live physically separable parts:
 2. Section II: Stone Position Supplement
 3. Section III: Historical Comparator Supplement
 
-A case block must contain exactly one live Section I, one live Section II, and one live Section III, in that order. A revised approved position replaces the prior Section II text in the brief and increments its Version field; do not append a second Section II, a trailing supplement, or a correction addendum. Git history preserves the superseded text. The runtime splitter fails rather than guessing which duplicate section controls.
+A case block must contain exactly one live Section I, one live Section II, and one live Section III, in that order. A revised approved position replaces the prior Section II text in the brief; do not append a second Section II, a trailing supplement, or a correction addendum. Git history preserves the superseded text. The runtime splitter fails rather than guessing which duplicate section controls.
 
 Use adaptive depth. Routine cases should remain compact. Expand only when a material issue involving law, record, threshold, competing paths, remedy, participation, source uncertainty, or chronology requires it.
 
@@ -115,11 +115,10 @@ Do not include Stone's merits position, Stone's certiorari vote, historical peti
 
 # SECTION II: STONE POSITION SUPPLEMENT
 
-Section II records Stone's own legal judgment, reasoning, and preferred disposition. It does not establish the Court's holding, determine which Justices agree with him, or make his position binding precedent; those consequences belong to the simulation of the Court. Keep current simulated law distinct from Stone's personal view. Subsections B and C govern merits-stage positions; Subsection D separately governs certiorari, and a petition-stage brief does not require a merits holding.
+Section II contains Stone's case-specific position. Keep current simulated law distinct from Stone's personal view.
 
 ## A. STATUS
 
-* **Version:** [single current version; this version supersedes every earlier Section II version in full]
 * **Approval Status:** [approved / proposed and unapproved]
 * **Approval Date or Turn:** [only if actually approved]
 * **Current-Through Baseline:** [baseline]
@@ -137,16 +136,16 @@ For each docket or separable judgment component:
 
 ## C. ISSUE POSITIONS
 
-For each question Stone reaches, state his complete position on it: whether the right, power, or cause of action exists, its reach within the question, and the remedy. Do not leave reach or remedy for a later case unless a Boundary ground below applies. Stone need not reach a question his judgment does not require, such as a constitutional question when a sufficient statutory ground decides the case; say so under Threshold and Merits Reach. Do not decide additional questions merely to complete the template.
+Answer each question Stone reaches as a whole: whether the right, power, or cause of action exists, its reach within the question, and the remedy. Do not leave reach or remedy for a later case unless a Boundary ground below applies.
 
 Repeat for each issue Stone lawfully reaches:
 
 ### Issue [number]: [short description]
 
 * **Threshold and Merits Reach:** [whether and why Stone reaches the issue, resting on the record rather than on Section I's summary]
-* **Question Stone Resolves:** [the question Stone must answer to reach his judgment, including necessary antecedent questions, framed as presented; its scope follows the law, record, and posture, not the anticipated votes of other Justices]
+* **Question Stone Resolves:** [the question as presented; narrow it only if the Court must]
 * **Stone's Legal Position:** [apply current law, apply it differently, or propose changing it; say which]
-* **Stone's Proposed Holding:** [the legal rule Stone would adopt, at the level of generality his reasoning supports, the material applications it governs, and its application to this case; state whether he applies existing law or would change it. This is Stone's proposed rule, not the Court's holding. Do not narrow or expand it merely to limit future consequences.]
+* **Stone's Proposed Holding:** [the complete answer: the controlling rule at the level of generality Stone's reasoning supports, the material applications it governs, and its application to this case; do not narrow or expand it merely to limit future consequences]
 * **Reach Within the Question:** [the persons, conduct, claims, or statutes the rule covers and any it excludes]
 * **Essential Reasoning and Record Application:** [compact but complete]
 * **Boundary or Reserved Question:** [only a question that lies outside the question presented, was not raised or preserved, or needs facts the record lacks; name which ground applies. Otherwise "None."]
@@ -162,7 +161,7 @@ Complete only if Stone has an expressly approved petition-stage position.
 * **Case-Specific Institutional Ground:** [ground]
 * **Status:** [final or interim]
 
-Otherwise omit this subsection. The Engine will simulate Stone's petition-stage vote from the neutral petition-stage materials, without his merits position.
+Otherwise omit this subsection. The Engine will simulate Stone's petition-stage vote neutrally.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
