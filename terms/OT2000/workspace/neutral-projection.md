@@ -6,7 +6,7 @@ The opening authorities are [Holdings doctrinal volumes](../../../state/holdings
 
 The opening divergence is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) controls the seated roster and circuit order. Repository state publications govern the opening baseline. This opening creates no holding, Court action, source admission or reconstruction premise.
 
-114 current-term Court events are completed through 2001-06-28; no separate Admitted Source Record has been entered. Of the 114 scheduled inventory events, 114 are completed and 0 remain uncompleted. Uncoordinated same-date events use the common pre-date substantive baseline. Alphabetical processing governs assignment counts only. The retained Arizona original action and Fort Yuma proceedings remain open. Fiore's certification return and reserved federal question are complete; actual habeas prerequisites remain below. The [manifest](manifest.md) preserves every inventory item and stage. Opening trackers remain at June 29, 2000; dated Records supply subsequent law. Chunk 8 has 15 completed events and 0 stopped matters. Uncoordinated June 18 matters share the pre-date substantive baseline; later entry reopens no completed assignment. Calcano-Martinez precedes St. Cyr under their expressly coordinated packet sequence.
+114 current-term Court events are completed through 2001-06-28; no separate Admitted Source Record has been entered. Of the 114 scheduled inventory events, 114 are completed and 0 remain uncompleted. Uncoordinated same-date events use the common pre-date substantive baseline. Alphabetical processing governs assignment counts only. The retained Arizona original action and Fort Yuma proceedings remain open. Kansas v. Colorado also remains pending before the Special Master for damages calculation and preparation of judgment under the completed June 11, 2001 decision on exceptions. Fiore's certification return and reserved federal question are complete; actual habeas prerequisites remain below. The [manifest](manifest.md) preserves every inventory item and stage. Opening trackers remain at June 29, 2000; dated Records supply subsequent law. Chunk 8 has 15 completed events and 0 stopped matters. Uncoordinated June 18 matters share the pre-date substantive baseline; later entry reopens no completed assignment. Calcano-Martinez precedes St. Cyr under their expressly coordinated packet sequence.
 
 ## Current law
 
@@ -4596,7 +4596,7 @@ All nine seats are occupied at the opening of OT2000. The Supreme Court Composit
 
 **Opinion-assignment seniority:** For each judgment component, the Chief Justice assigns when he is in the judgment majority. Otherwise the most senior participating Associate Justice in that majority assigns, in this order: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-All nine seats are occupied; no vacancy or new oath-date restriction applies. Validate participation at submission and decision for each matter. The neutral input for New Hampshire v. Maine assumes Souter's nonparticipation. Stevens and O'Connor took no part in United States v. Hatter; Souter took no part in New Hampshire v. Maine; O'Connor took no part in Pollard v. E. I. du Pont de Nemours & Co. Each decision identifies its participants and satisfies the quorum. No reason for nonparticipation is supplied. No reason for an absence is inferred. No other case-specific restriction is identified in the neutral participation fields.
+All nine seats are occupied; no vacancy or new oath-date restriction applies. Validate participation at submission and decision for each matter. The neutral input for New Hampshire v. Maine assumes Souter's nonparticipation. Stevens and O'Connor took no part in United States v. Hatter; Souter took no part in New Hampshire v. Maine; O'Connor took no part in Pollard v. E. I. du Pont de Nemours & Co. Breyer took no part in United States v. Oakland Cannabis Buyers' Cooperative. Each decision identifies its participants and satisfies the quorum. No reason for nonparticipation is supplied. No reason for an absence is inferred. No other case-specific restriction is identified in the neutral participation fields.
 
 In United States v. Hatter, Stevens and O'Connor took no part in consideration or decision; no reason is stated. Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated. A quorum was present; four votes formed a majority of the seven participants.
 
@@ -4633,13 +4633,14 @@ The order effective August 3, 1994 governs at the OT2000 opening.
 | Matter | Current stage | Next required procedural predicate | Scheduled event |
 |---|---|---|---|
 | Arizona v. California, No. 8, Original | October 10 supplemental decree implements the Fort Mojave and Colorado River Reservation settlements; original jurisdiction retained. Fort Yuma title, cession, boundary, irrigable acreage and water quantity remain before the Master. | Implement clauses A-G and preserved conditions; adjudicate the reserved Fort Yuma predicates before any additional water award. No new objection deadline, later filing, further title finding or completed Fort Yuma adjudication is established. | October 10, 2000 implementing event completed; no further event scheduled |
+| [Kansas v. Colorado, No. 105, Original](../records/Kansas_v_Colorado_merits_2001-06-11.md#procedure-after-action) | June 11, 2001 decision on exceptions completed; original action pending before the Special Master. | Calculate damages and prepare a judgment under the June 11 component dispositions; no final award or closing decree has issued. | June 11, 2001 event completed; no further event scheduled |
 | Fiore v. White, No. 98-942 | The Pennsylvania answer was validated and the reserved federal question decided January 9, 2001; both no-permit convictions violate due process. | The Third Circuit must resolve actual preserved habeas prerequisites and implement conviction-specific relief if available, preserving independent lawful custody. The state-law answer and conceded permit fact are not reopened. | January 9, 2001 event completed; lower-court proceedings on remand |
 
 Standing State identifies 27 further granted merits cases; each appears once in the calendar. Their identifiers are the supplied lower-court dockets or reporter citations. Uncompleted inventory rows remain open for review; only the completed events listed below establish current-term Court actions. No application, petition-stage event, additional noncase-law change or institutional event is supplied at opening.
 
 ### Completed events and resulting stages
 
-All nine participated except the expressly identified nonparticipation in Hatter, New Hampshire and Pollard. Arizona's decree and Sinkfield's per curiam opinion publish no numerical tally or individual lineup. Tri County's dismissal discloses only Stone-Zsela's dissent, without a numerical division or other individual votes.
+All nine participated except the expressly identified nonparticipation in Hatter, New Hampshire, Pollard and Oakland Cannabis. Arizona's decree and Sinkfield's per curiam opinion publish no numerical tally or individual lineup. Tri County's dismissal discloses only Stone-Zsela's dissent, without a numerical division or other individual votes.
 
 | Event | Current procedure | Remaining act or limit |
 |---|---|---|
@@ -5877,7 +5878,7 @@ Authority: [published separate writings](../records/Zadvydas_v_Davis_and_Ashcrof
 
 
 
-Chunk 8 has 15 completed events. No other chunk 8 matter remains pending. The remaining 0 inventory events and retained Fort Yuma proceedings remain open at their stated stages. Completed decisions retain their stated remand tasks and limitations. No later filing, lower-court result or compliance is presumed.
+Chunk 8 has 15 completed events. No other chunk 8 matter remains pending. There are 0 uncompleted scheduled inventory events. The retained Arizona original action and its Fort Yuma proceedings remain open, as does Kansas v. Colorado for damages calculation and preparation of judgment before the Special Master under the completed June 11 decision. Completed decisions retain their stated remand tasks and limitations. No later filing, lower-court result or compliance is presumed.
 
 ## Source limits
 
