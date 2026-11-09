@@ -15,7 +15,7 @@ Historical event dates and the 25 retained simulation assignments remain unchang
 | 3 | OT_2001CHUNK1 | Nebraska v. Wyoming | No. 108, Original; 534 U.S. 40 | 2001-11-13 | Historical | Original proceeding, decree | MERITS | Interstate waters: North Platte decree |
 | 4 | OT_2001CHUNK1 | Brown v. City of Oneonta + | 221 F.3d 329 (2d Cir. 2000) | 2001-11-13 | Supplied simulation assignment | Merits decision | MERITS | Equal protection: racial descriptions and police investigations |
 | 5 | OT_2001CHUNK1 | Correctional Services Corp. v. Malesko | No. 00-860; 534 U.S. 61 | 2001-11-27 | Historical | Merits decision | MERITS | Constitutional remedies: private prison corporations |
-| 6 | OT_2001CHUNK1 | Chickasaw Nation v. United States | Nos. 00-507 and 00-653; 534 U.S. 84 | 2001-11-27 | Historical | Merits decision | MERITS | Tribal law: federal gambling taxation |
+| 6 | OT_2001CHUNK1 | Chickasaw Nation v. United States | No. 00-507 (together with Choctaw Nation of Oklahoma v. United States); 534 U.S. 84 | 2001-11-27 | Historical | Merits decision | MERITS | Tribal law: federal gambling taxation |
 | 7 | OT_2001CHUNK1 | Adarand Constructors, Inc. v. Mineta | No. 00-730; 534 U.S. 103 | 2001-11-27 | Historical | Disposition after merits submission | MERITS | Equal protection: federal contracting preferences |
 | 8 | OT_2001CHUNK1 | Church of Scientology International v. Behar + | 238 F.3d 168 (2d Cir. 2001) | 2001-11-27 | Supplied simulation assignment | Merits decision | MERITS | Defamation: subsidiary meaning and actual malice |
 | 9 | OT_2001CHUNK1 | United States v. Knights | No. 00-1260; 534 U.S. 112 | 2001-12-10 | Historical | Merits decision | MERITS | Fourth Amendment: probation searches |

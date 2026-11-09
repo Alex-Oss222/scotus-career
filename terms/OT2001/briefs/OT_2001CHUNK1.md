@@ -444,7 +444,7 @@
 ## A. CASE, RECORD, AND POSTURE
 
 * **Case Name:** Chickasaw Nation v. United States
-* **Citation or Docket:** Nos. 00-507 and 00-653; 534 U.S. 84. The consolidated tribal matters constitute the single listed matter.
+* **Citation or Docket:** No. 00-507 (together with Choctaw Nation of Oklahoma v. United States); 534 U.S. 84. The consolidated tribal matters constitute the single listed matter.
 * **October Term:** 2001
 * **Entry Stage and Event:** MERITS; review of the identified lower-court judgment at the merits-decision event.
 * **Simulated Event Date:** 2001-11-27 (historical final opinion or disposition date, used as the simulation event date).
