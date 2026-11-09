@@ -1,0 +1,43 @@
+{
+  "source_sha256": "936de9c2e89674987c3e53a551a29191902cf08aa3df9ef77ed637d831e4926d",
+  "scoped_sha256": "8afa2983287177ee98a9e2fdabbd2cdc666d66cfc0cc95b7a0247d8b51b6d239",
+  "changes": [
+    {
+      "line": 16,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 67,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 83,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 99,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 147,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 178,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 195,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 227,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    },
+    {
+      "line": 243,
+      "operation": "Replace authority disclaimer mentioning the controlled supplement; preserve historical facts and separately listed sources."
+    }
+  ],
+  "status": "Only control inspected the original comparator. Reconciliation receives the scoped copy after commitment freeze."
+}

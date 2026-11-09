@@ -1,0 +1,2761 @@
+MAK 25 260 
+
+
+No. 00-LOL1 
+
+
+Ne 
+In the Supreme Court of the Cinited States 
+
+
+DEBORIS CALCANO-MARTINEZ, ET AL., PETE IONERS 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUTI 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+BARBARA D. UNDERWOOD 
+Act TAG) No cilo (rene a 
+(‘a Spine l ef Reco if 
+RT BE. SCHIFFER 
+fing Assistant Att 
+
+Genera 
+EDWIN S. ANEEDLER 
+Deputy Sole ha) (yr ie 
+PaAtrL R.Q. WOLkSON 
+ss wsfaopil fo this Noli 
+(re) 
+DONALD BE. KEENER 
+WiLlLiIAMd. HOWARD 
+EeNESTO H. MOLINA 
+James A. OBIRIEN TIT 
+Afton edt 
+Lh parrrarees fal Just 
+Wash TT LL de At) p-tHwW 
+
+
+(20)? ly PAT, 
+
+
+ne 
+
+
+QUESTION PRESENTED 
+
+
+Whether the court of appeals correctly concluded that, 
+under 8 U.S.C. 1252(a)(2)(C) (Supp. V 1999), it lacked juris- 
+diction on direct petitions for review over petitioners’ non- 
+constitutional challenges to their final removal orders, but 
+that the district court had habeas corpus jurisdiction to 
+entertain those challenges under 28 U.S.C. 2241. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+nea TPE NUITTI ishonibbbbeidniiahictattccasrishaitenesteieabntsneaiasinipasindiaidi a oc ta l 
+l. Statutory background .2...............cccccccccccsscsescssesessesessese 1 
+i II sacl Aiieeialiiacaala id ia ee l 
+D. The 1952 and 1961 Acts ..........cc.ccccccccccccccccscseceosess 3 
+Sie aS TID sepeistclchinsibleictntiepecenendinivaamatbbbibtinaiaeiita 6 
+Ne ERE Ee eRe a 8 
+I> a Sn CU ie 1] 
+I i 14 
+Argument: 
+I. Congress has precluded judicial review of 
+petitioners’ non-constitutional challenges to 
+I I i 17 
+A. In Section 1252(a)(2)(C) of Title 8, Congress 
+has precluded judicial review of petitioners’ 
+challenges in the court of appeals ..............c:s0.00.. 18 
+B. Congress has also divested the district 
+courts of authority to review the merits 
+of petitioners’ removal Orders .........ccccccccsccsocececes 25 
+Il. The preclusion of review of petitioners’ challenges 
+to their removal orders is constitutional .................. 31 
+A. Preclusion of judicial review of a non- 
+constitutional claim that the Attorney 
+General has and should exercise discretion 
+to waive deportation is not a suspension of 
+Le TSC TE 31 
+B. Neither the Due Process Clause nor Article 
+III requires a judicial forum for petitioners’ 
+non-constitutional ClaIMS ............ccccccseseesescececeecees 42 
+III. If judicial review of petitioners’ challenges is con- 
+titutionally required, that review should proceed 
+in the court of appeals, not in the district court ...... 48 
+II ie ncaa rare anetchnee Sin ctteiineseaassacocachac ca 50 
+
+
+(IIT) 
+
+
+IV 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+Bakelite Corp., Ec parte, 279 U.S. 438 (1929) veces 46 
+Boggin, Er parte, 104 Eng. Rep. 484 (K.B. 1811) 0.0... 36 
+Bollman, E.c parte, 8 U.S. (4 Cranch) 75 (1807) wees 40 
+Brownell v. Tom We Shung, 352 U.S. 180 (1956) ............. 4 
+Buscemi, In re, 191. & N. Dec. 628 (B.1.A. 1988) 20... 6 
+Califano v. Westcott, 443 U.S. 76 (1979) ..cecessccsssseseeees 48 
+Carlson v. Landon, 342 U.S. 524 (1952) ..........cccccscsscseseeees 43 
+CHEC VG. Beer, Si UB SEB CIB) crcccnnccccscccasancccreccsscoennss 47 
+Chambers’s Case, 79 Eng. Rep. 746 (K.B. 1629) ............0. 3 
+Chicago, Milwaukee & St. Paul Ry. v. Minnesota, ? 
+
+a See MU CTU  cestihasmedsnadiceheanileidiasrpcinniboaldebiiaiailaii 44 
+Chin Yow v. United States, 208 U.S. 8 (1908) we 42 
+Crowell v. Benson, 285 U.S. 22 (1932) ..........cccccscsccsssersees 47 
+Darnel’s Case (1627), 3 State Trials 1 (1816) oe 34 
+Dessalernos v. Savoretti, 356 U.S. 269 (1958) oe. ceeeceeeees 40 
+Felker v. Turpin, 518 U.S. 651 (1996) we. 12, 29, 30, 40 
+Fong Yue Ting v. United States, 149 U.S. 698 
+
+CS ecilteeateeicensanuinaitaaeineihieaead etait eat lia as 38 
+FE Ws EPR Ee i BES CD ctectitniistitvienminestinnintsicdneninans 5, 48 
+Francis v. INS, 532 F.2d 268 (2d Cir. 1976) ..............c.0000 4 
+G.A., In re, 71. & N. Dec. 274 (B.1.A. 1956) .........ccccseseeeeee 4 
+Galvan v. Press, 347 U.S. 522 (1954) ...........cscccccsssesececseseees 24 
+Gegiow Vv. Ulel, 239 US. 3 (UQUS) cacecccascccsssnsessnsssnssecenseseess 41-42 
+Goldswain’s Case, 96 Eng. Rep. 711 (C.P. 1778) ........... 36, 37 
+Harisiades v. Shaughnessy, 342 U.S. 580 (1952) ............. 25 
+Heckler v. Mathews, 465 U.S. 728 (1984) .........ccccscssseseeeees 48 
+Heikkila v. Barber, 345 U.S. 229 (1953) wu. 3, 27, 28, 37, 
+
+38, 39, 40 
+Hetley v. Boyer, 79 Eng. Rep. 287 (K.B. 1613) ............. 35, 36 
+Honda Motor Co. v. Oberg, 512 U.S. 415 (1994) oe 44 
+ICC v. Brimeson, 154 US. 447 (1BB4) ccccccncceccnceaccosccccesssocsses 45 
+INS v. Chadha, 462 U.S. 919 (1983) .........cc.cccccccsssseressecseces 2 
+INS v. Yueh-Shaio Yang, 519 U.S. 26 (1996) wo. 32 
+Jay v. Boyd, 351 U.S. 345 (1956) ............ccccccceceeees 32, 39, 40, 43 
+
+
+ee ES ae eR 
+
+
+Cases 
+
+
+Continued: 
+
+
+Johnson v. Robison, 415 U.S. 361 (1974) cc cccccceseeee 
+Kwock Jan Fat v. White, 253 U.S. 454 (1920) oo... 
+Land v. Dollar, 330 U.S. 731 (1947) ......ccccccccsscsscesescesesesee 
+Lapina v. Williams, 232 U.S. 78 (1914) .ccscccsscsscsesssseeees 
+Lonchar v. Thomas, 517 U.S. 314 (1996) wccecceseseseees 
+Mahler v. Eby, 264 U.S. 32 (1924) c.ccccccccccssssssssecececececece 
+Marcello v. Bonds, 349 U.S. 302 (1955) c.cececccccsseseseees 
+Marin, In re, 16 1. & N. Dec. 581 (B.L.A. 1978) ......eeceeee 
+McCardle, Ex parte, 73 U.S. (6 Wall.) 318 (1867) ............ 
+
+
+McKesson Corp. v. Division of Alcoholic Beverages 
+
+
+H Teomenect, 4G UB. GCI eosccissincettisicesacieeee picedeeecs a 
+
+
+Murray’s Lessee v. Hoboken Land & Improvement 
+
+
+Co., 5B US. (18 How.) 272 (1856) ....ccecccscssscssscsesescsssscees 
+Ng Fung Ho v. White, 259 U.S. 276 (1922) .o.ceeeeeeees 
+
+
+Nguyen v. INS, 208 F.3d 528 (5th Cir.), cert. 
+
+
+rl, TERT, Ch By I secissscicsinctsnisisnesicincneiisnideiigie 
+
+
+Nishimura Ekiu v. United States, 142 U.S. 651 
+
+
+CUIDUD .sinishancshanhiomnnihancttinsnsinsabichlaiidibabiimaidbatiaasniiehndinliiiaaenaihnbiac 
+
+
+Northern Pipeline Constr. Co. v. Marathon Pipe 
+
+
+Eten Ca, SE UB CI ascccitsinticsstiliniessiatasinsaictitesetininas 
+
+
+Pennhurst State Sch. & Hosp. v. Halderman, 
+
+
+Re EF ED CED scrersnncsiisseosicsscieanniteehdictiacloaaisintbiaalaeasaiesaia 
+Phillips v. Commissioner, 283 U.S. 589 (1931) 0.0.0.0... 
+
+
+Reno v. American-Arab Anti-Discrimination 
+
+
+Comnenaae., GIR UTE, GIT COIS Dithacihincssinininstnncsnnsiaibeiinintttii ea 
+Richardson v. Reno, 180 F.3d 1311 (11th Cir. 1999), 
+
+cert. denied, 529 U.S. 1036 (2000) .0..............ccccesssccsseseee 
+Shaughnessy v. Pedreiro, 349 U.S. 48 (1955) wees 
+Silva, In re, 161. & N. Dec. 26 (B.L.A. 1976) woes 
+Singh v. Reno, 182 F.3d 504 (7th Cir. 1999) woes 
+
+
+Solorzano-Patlan v. INS, 207 F.3d 869 (7th Cir. 
+
+
+SUED sstsinssinbaraionpaiiecscinsibaiaa erin iateiciaapeabieniiialdialiaaaaaiadiiia te, 
+
+
+Soriano, In re, Interim Dec. No. 3289, 1996 WL 
+
+
+Maes CAS, FO. BE, TO) scecnsntunsniusinsiditintesnidbianicsanics 
+
+
+Page 
+
+
+46, 47 
+
+
+aa 
+
+
+VI 
+Cases—Continued: Page 
+St. Cyr v. INS, 229 F.3d 406 (2d Cir. 2000), cert. 
+
+granted, 121 S. Ct. BAB (BOOL) ......ccccccscccescecesescescecescssssnses 12, 25 
+Steel Co. v. Citizens for a Better Env't, 523 US. 83 
+
+CETUS cccccssusscesnnsssnnnsnsteneniiasiitteieitinntialihiaiacanteiieeieniibmniainiabaibaiiistins 3Y 
+Stone v. INS, 514 U.S. BiB (1995) ....cccccccocccccccccccccccssse 5, 48, 49 
+Tang Tun v. Edsell, 223 U.S. 673 (1912) ......ccccceseceseeeeees 42 
+The Case of Pressing Mariners (1743), 18 State 
+
+BUMS BED CORDED ccecercicsmsisicsnisindeciainidaaiataniibbiaiaiaane 42 
+The Japanese Immigrant Case, 189 U.S. 86 (1908) .......... 43 
+Thomas v. Union Carbide Agric. Prods. Co., 
+
+SES UE, GE CRED ccnnsmrestnsisenatinstnaniindnieaeisaliialiiaaairaie 46, 47 
+Tod v. Waldman, 266 U.S. 113 (1924), modified, 
+
+SES WD. GET CRBED cxcccsncsssstivinnintnsseasesinentiniienstinnisteianiensenainns 41 
+United States v. Pennsylvania Indus. Chem. Corp., 
+
+GEE UTE GED CRG CED  cctscrstiananiniennciininianniitliaiaaaaiasienieatines 37 
+United States ex rel. Accardi v. Shaughnessy, 
+
+SET CE, SEDI ccscsvssiininiesinsieiibiiaitiidaanitainaiasalsiaiaailai 39 
+United States ex rel. Kaloudis v. Shaughnessy, 
+
+SO FE GD Ge Ce, SEED cnisecinsniisssessinnisnintactanbiiittinaie 32 
+United States ex rel. Mensevich v. Tod, 264 U.S. 
+
+SIDS CERI) corsssnsanensenssscsusesscenieseenpnnietiniseseanneinanensenitediniianesiisigt 42 
+Watkins, Ex parte, 32 U.S. (7 Pet.) 568 (1833) ccc. 41, 42 
+Webster v. Doe, 486 U.S. 592 (1988) ........c.ccccccsessesesesesssessees 23 
+Weinberger v. Salfi, 422 U.S. 749 (1975) .....ccccccceseceseeseseeees 23 
+Ye v. INS, 214 F.3d 1128 (9th Cir. 2000) 0... ccccecceceeneee 23 
+Yerger, Ex parte, 75 U.S. (8 Wall.) 85 (1869) 0... 12, 29 
+
+Constitution, statutes and regulation: 
+
+
+U.S. Const.: ! 
+
+
+Art. 1, § 9 (Suspension Clause) ...............cccceceeeeeeees 12, 15, 31, 
+37, 38, 39, 41 
+Mit, TEs ential 15, 16, 31, 42, 45, 46, 47 
+oD 1B scnisssessecisssenshtnatenintennnssndiaeniiieaieisaiainiaeaeneataeee 45 
+Amend. V (Due Process Clause) ........... 15, 16, 31, 42, 43, 45 
+Act of Mar. 3, 1891, ch. 551, § 8, 26 Stat. 1085 oo... 3 
+
+
+Act of June 28, 1940, ch. 439, § 20, 54 Stat. 672 0.00.00... 2 
+
+
+Vil 
+
+
+Statutes and regulation—Continued: Page 
+Act of Oct. 11, 1996, Pub. L. No. 104-302, § 2, 
+SI AIR: UTU cemensansustieniitinininsientensannestitnstnasiiaiiasias sata ie 10 
+Administrative Procedure Act, 5 U.S.C. 701 et seq.: 
+ek | ere 27, 28 
+Faas CUP caciniieieninisiniictnnitidintensiaciidiiidiaa ia a ene 29 
+Antiterrorism and Effective Death Penalty Act of 
+1996, Pub. L. No. 104-132, 110 Stat. 1214 wo. ceceeees 1 
+SF ne ee is UID ciiiantnsiestcinttbintintaimiiistiadite latte 7, 26 
+$ 440(a), 110 Stat. 1276-1277 oon... .ccccccceccccececcesessccesseses 8 
+ee 6,7 
+Habeas Corpus Act of 1867, ch. 28, § 1, 14 Stat. 385: 
+OG ins ENO cnsctesicnsereestinecinenethieiatuintapaibapteitetbdiinineetiiaaniiiaal 41 
+10s Say SENT cericretisstsindetibeiihiinbhtahaiaeailicataasiaaittina 40 
+Hobbs Administrative Orders Review Act, 
+SoD MPAA PIII cicinhcininisetedain tac ee 5 
+
+
+Illegal Immigration Reform and Immigrant 
+Responsibility Act of 1996, Pub. L. No. 104-208, 
+
+
+er Say Re MN I ican crt ee 1 
+
+Tit. TET-A, 120 Stat. BOOD-B75 n.cccccoccccccosccccccscscsececesseses 7) 
+
+By BD OU, IS sccntsestctnesenenanitininicnsnnssieansnianenens 8,9 
+
+§ 304(a), 110 Stat. 3009-587 to 3009-593 00... 8 
+
+§ 304(a), 110 Stat. 3009-594 to 3009-596 ooo 7] 
+
+§ 304(b), 110 Stat. 3009-597 onc ccccececccececccsccccsees 8 
+
+RS — eee 10 
+
+§ 306(b), 110 Stat. 3009-G12 occ ecccccsseseeees 10 
+
+§ 309(a), 110 Stat. SOO9-G25 oon. cccecccccccsccsscccsesseeee 9 
+
+$ BORA C), 110 Stat. BOOGG25 un... ..ccceccccccccccecesecesececeseees 9-10 
+
+§ 309(¢)4)(A), 110 Stat. 3009-626 occ cccccccceseseeeee 9 
+Immigration Act of 1907, ch. 1134, 34 Stat. 898: 
+
+Ere eee ON Te SSesenes 2 
+
+ee ne LE TT 3 
+
+Immigration Act of 1917, ch. 29, 39 Stat. 874: 
+
+a Ns TI ceiiseiseniininendainiia idea ie ee ea 2, 33 
+
+SF Sey Sas TE is tsiiasiedeebibedniniecaiibebenimsanbllatandeatce cal 3 
+
+ae NITE SDT TD 27 
+
+
+Immigration Act of 1990, Pub. L. No. 101-649, 
+A, Se a UIT dietdicdeentiisinidiciamiegitiiee es 6 
+
+
+Vill 
+
+
+Statutes and regulation—Continued: Page 
+Immigration and Nationality Act of 1952, ch. 477, 
+
+66 Stat. 163 (8 U.S.C. 1101 et seq.) ....ccccccsscssssscssssssesssesssseees 1,3 
+8 U.S.C. 1101(a)(43) (1994 & Supp. V 1999) wo. 6 
+rete IIE sisidioscishetdticciasasueibcataiiedeiianeshiabaian 1] 
+Oe re IIE sataticnicetiicstihieieenising deities 9, 10, 29 
+B US.C. 120Gala) (19B4) onncccaccesnccnssosscscscnsersnsencee 5, 6, 9, 26 
+8 U.S.C. 1105a(a)(10) (1994) .........cccccsssesesssssees 6, 7, 10, 27 
+eas SUED CRIINUD sccetinsistsrienseinitnnisbitntatechinnitacnsaeies 9, 27 
+Bear I CIEE sithictiniiecinistnstinrsinasennitansinsiabncens passim 
+8 U.S.C. 1225(b)(1) (Supp. V 1999) w.cececsescssesees 8, 10, 30 
+8 U.S.C. 1227(a)(2)(A)(iii) (Supp. V 1999) occ 7,8, 
+
+19, 22, 24 
+8 U.S.C. 1227(a)(2)(B) (Supp. V 1999) .....ccscsssssessssssees 22 
+8 U.S.C. 1227(a)(2)(B)(i) (Supp. V 1999) oo. 24 
+8 U.S.C. 1228(b) (Supp. V 1999) .............cssssssesescsesesesesese 8 
+BS UBC. ERED lemma, V 1GBD) cccececceccncnsnscnsscessnscscsenensseseee 8 
+8 U.S.C. 1229a (Supp. V 1999) .........ccccccsccscssssesesssseseseres 8 
+S USC. 1220b (Sapp. Vi 1999) ......cccacceccsscsccsssssscssesesee 9, 18 
+8 U.S.C. 1229b(a)(3) (Supp. V 1999) ........ccccssccsssessssesseees i) 
+8 U.S.C. 1229b(b)(1)(C) (Supp. V 1999) ....ecscsseseseees i) 
+8 U.S.C. 1251(a)(2)(A) iii) (1994) 0... eeccseesseesessessessscees 6-7 
+8 U.S.C. 1252 (Supp. V 1999) ........ 8, 10, 11, 18, 26, 29, 30 
+8 U.S.C. 1252(a) (Supp. V 1999) ......cecscscscseseseees 14, 27, 50 
+8 U.S.C. 1252(a)(1) (Supp. V 1999) ......c.cccscscseeeees 10, 27, 29 
+8 U.S.C. 1252(a)(2) (Supp. V 1999) .......ccccsscsssssessscsssessees 18 
+8 U.S.C. 1252(a)(2)(B) (Supp. V 1999) ccs 18, 35 
+8 U.S.C. 1252(a)(2(C) (Supp. V 1999) ......csceesseee passim 
+8 U.S.C. 1252(b)(1) (Supp. V 1999) ........csccsscesecssecesosseee 49 
+8 U.S.C. 1252(b)(6) (Supp. V 1999) ......sssscsssesestsseseee 49 
+8 U.S.C. 1252(b)(9) (Supp. V 1999) ..........c.00 11, 17, 29, 49 
+
+
+8 U.S.C. 1252(e)(2) (Supp. V 1999) ......csceccscsseeeeee 8, 10, 27 
+Judiciary Act of 1789, ch. 20, § 14, 1 Stat. 81: 
+AINE dacicitsicnenispiedleniginticeatiichbditceadit aces nacelles 40 
+Ie Ae A aieiiieticadicinniapihcadeacipectini icc a 41 
+Sr Mra: Ue PMI COIN cick cincinnati 40 
+Ie NE Ok 2 
+ia Re Sn a FONE 7, 12, 29, 30, 48, 49 
+a vnc MU sicciliadsiasclesoicmaicehcarhsieadisanepnisidcshcbpidteete octane 7 
+
+
+Miscellaneous: Page 
+1 William Blackstone, Commentaries on the Laws of 
+England (1765) (facsimile ed. 1979) c..cccccccececsccssssessssssseees 35 
+Maxwell Cohen, Habeas Corpus Cum Causa—The 
+Emergence of the Modern Writ—I, 18 Can. B. Rev. 
+Pa La cnitehinussciscnbisiaisinibiuaiinsiamiaeibaisioassibuaiiainiibiiiishaniititia 34 
+142 Cong. Rec. (1996): 
+Si TIS senetiensiinsiinediivensiceisiassbnebilabineigedabeiidmanstipibtaiinctitie inl sicel 21 
+ic WMD seasdidicliiibansintentey cau eee ce 21 
+Developments in the Law—Federal Habeas Corpus, 
+ROT Tis, Tat. COT IID) iiccosscsinhosniaisniiastnnisioienicbacaass Bd 
+William F. Duker, A Constitutional History of 
+Se INR TINO scicisiibinistetisiiichinbenccietieel etal 34 
+66 Fed. Reg. (2001): 
+Se RNASE SU ecree mentee moray RCV TNMRUAEL COIS 7 
+hs ANU sistiteselnscsinnindiciisintdcieeiesloaibadahedeliiibiiaitabinididlasesedSaaensscblauie 7 
+ph SPIED aiceineoibivinnisiatiNesabbinibesihuitisuiticdattiisteeisabancatiapeaiiannas 7 
+H.R. Rep. No. 469, 104th Cong., 2d Sess. Pt. 1 
+SOIT? nnssnsiieruisieanspesitacieilenioptiasansddnaitininiettndindegienniéanbaianbinbdaniiniiens 1,17 
+H.R. Rep. No. 1086, 87th Cong., Ist Sess. (1961) c.cccccccssse. 5, 6, 
+8, 29 
+H.R. Rep. No. 1365, 82d Cong., 2d Sess. (1952) ...cccccccsscsseee 3 
+Jonathan L. Hafetz, Note, The Untold Story of 
+Noncriminal Habeas Corpus and the 1996 Immigra- 
+tion Acts, 107 Yale L.J. 2509 (1998) ...eeccscsseoeee 34, 35, 36, 37 
+9 W.S. Holdsworth, A History of English Law 
+SUUPPD sinvinscnapsuissipiiidiahiiiiideiibshaiiiaadensantdiiiediuieipetnabcinuniasmasinndusios 34, 35 
+1 James S. Liebman & Randy Hertz, Federal 
+Habeas Corpus Practice and Procedure (3d ed. 
+SUMETTD Astsninisntiieissuiibisediniatubadhadesasnshsidamastesenieiiiedindinbaiiadaiancsiuses 40 
+Lewis Mayers, The Habeas Corpus Act of 1867: The 
+Supreme Court as Legal Historian, 33 U. Chi. L. 
+OTN satis cresstnsideshseliphedsaccdnieniinibisiniatalastantsedabasies 41 
+Dallin H. Oaks, Habeas Corpus in the States—1776- 
+1865, 32 U. Chi. L. Rev. 243 (1965) .........00.0se0-eesceeseosseo-ee 35 
+Dallin H. Oaks, Legal History in the High Court— 
+Habeas Corpus, 64 Mich. L. Rev. 451 (1966) ....c.ccccccsseee: 34 
+Opinion on the Writ of Habeas Corpus, 97 Eng. 
+MNO SIs UMD sthariicssaissnctaccicshienn ctincsccidinsihcadssatsabens sascasins 35 
+
+
+Miscellaneous—Continued: 
+
+
+S. Rep. No. 249, 104th Cong., 2d Sess. (1996) ween 
+S. Rep. No. 352, 64th Cong., Ist Sess. (1916) wuss 
+S. Rep. No. 1515, 81st Cong., 2d Sess. (1950) . ..cecceseeeees 
+Senate Judiciary Comm. Tr. of Proceedings 
+
+CO BG Te cheaiciiaicininth acisiinehinciisthditetadaninnicssanieniainsuinbess 
+R.J. Sharpe, The Law of Habeas Corpus (1976) wc... 
+William C. Van Vleck, The Administrative Control 
+
+FA Cr heiiitiseesiiedanaditniesiabiniaiinicdaieniacitnceadaeinediictaciitenacn 
+Robert S. Walker, The Constitutional and Legal 
+
+Development of Habeas Corpus as the Writ of 
+
+Liberty (1960) 
+
+
+SOOPER EEE E EET EEEEEEEE EEE ESET EE EEEEEEEES ESE EEEEEEE EEE EE EES EEE EEE EEE E EES 
+
+
+19, 20 
+34 
+
+
+a - 
+
+
+Jn the Supreme Court of the Anited States 
+
+
+No. 00-1011 
+DEBORIS CALCANO-MARTINEZ, ET AL., PETITIONERS 
+Vv. 
+IMMIGRATION AND NATURALIZATION SERVICE 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+STATEMENT 
+
+
+1. Statutory Background. This case concerns amend- 
+ments to the Immigration and Nationality Act (INA), 
+8 U.S.C. 1101 et seqg., enacted by Congress in 1996. Those 
+changes were designed in large part to eliminate the 
+opportunities that criminal aliens had under prior law to 
+obtain administrative relief from deportation, and to 
+facilitate their removal from the United States by restricting 
+and streamlining judicial review of their deportation orders. 
+See generally H.R. Rep. No. 469, 104th Cong., 2d Sess. Pt. 1, 
+at 107-108, 120-123, 157-161 (1996). Two enactments are par- 
+ticularly pertinent: the Antiterrorism and Effective Death 
+Penalty Act of 1996 (AEDPA), Pub. L. No. 104-132, 110 Stat. 
+1214, and the Illegal Immigration Reform and Immigrant 
+Responsibility Act of 1996 (IIRIRA), Pub. L. No. 104-208, 
+Div. C, 110 Stat. 3009-546. 
+
+a. Pre-1952 Law. From 1875 to 1917, after a period of 
+unrestricted immigration, Congress enacted a series of laws 
+providing for the exclusion and deportation of certain classes 
+of aliens whose presence in the United States was deemed 
+
+
+(1) 
+
+
+2 
+contrary to the national interest. See generally William C. 
+Van Vleck, The Administrative Control of Aliens 3-16 
+(1932). At first, exclusion and deportation of aliens within 
+one of those classes was mandatory, and Congress provided 
+administrative officials with very little discretion over the 
+admission of aliens.’ 
+
+In 1917, Congress expanded the classes of excludable 
+aliens, but also gave Executive officials the discretion to 
+admit certain excludable aliens. Van Vleck, supra, at 13-14, 
+34-35. In particular, in the Seventh Proviso to Section 3 of 
+the Immigration Act of 1917 (1917 Act), ch. 29, 39 Stat. 878, 
+Congress provided that, notwithstanding otherwise manda- 
+tory grounds of exclusion, an alien returning to an unrelin- 
+quished domicile in the United States of seven years after a 
+temporary absence might be admitted “in the discretion of” 
+the responsible official, “under such conditions as he may 
+prescribe.” Jbid.; see 8 U.S.C. 136(p) (1925). The Proviso’s 
+“humane” intent was to “permit the readmission to the 
+United States (under proper safeguards) of aliens who-have 
+lived here for a long time and whose exclusion after a 
+temporary absence would result in peculiar or unusual 
+hardship.” S. Rep. No. 352, 64th Cong., Ist Sess. 6 (1916).” 
+
+The immigration laws from 1891 to 1952 made no express 
+provision for judicial review of exclusion and deportation or- 
+ders, and indeed indicated an intent to restrict judicial re- 
+
+
+! For example, in the Immigration Act of 1907 (1907 Act), ch. 1134, § 2, 
+34 Stat. 899, Congress allowed officials to exercise discretion to exclude or 
+admit children under 16 years of age unaccompanied by a parent. See Van 
+Vleck, supra, at 10-11. Congress did not provide officials with any explicit 
+authority to suspend deportation of an alien until 1940. See id. at 154-138; 
+Act of June 28, 1940, ch. 439, § 20, 54 Stat. 672; INS v. Chadha, 462 U.S. 
+919, 933 (1983). 
+
+~ The Seventh Proviso was enacted in response to Lapina v. 
+Williams, 232 U.S. 78 (1914), which held that a statutory ground for 
+exclusion required denial of admission to an alien who was returning to a 
+domicile in the United States after a brief trip abroad, even though that 
+alien would not have been deportable had he not left the United States. 
+
+
+3 
+
+
+view by providing that all decisions of immigration officers 
+regarding exclusion and deportation would be “final.” This 
+Court held, however, that aliens were entitled to limited re- 
+view of the validity of their deportation and exclusion orders 
+by writ of habeas corpus. See, e.g., Nishimura Ekiu v. 
+United States, 142 U.S. 651, 660 (1892) (alien ordered ex- 
+cluded was “entitled to a writ of habeas corpus to ascertain 
+whether the restraint is lawful”); see also Heikkila v. Bar- 
+ber, 345 U.S. 229, 233-234 (1953) (holding that, after enact- 
+ment of Administrative Procedure Act (APA) in 1946, aliens 
+were not entitled to APA review of deportation orders, but 
+could obtain more limited review by habeas corpus). 
+
+b. The 1952 and 1961 Acts. The Immigration and Nation- 
+ality Act of 1952, ch. 477, 66 Stat. 163, brought significant 
+changes pertinent here to the Nation’s immigration laws. 
+Congress concluded that the Attorney General’s discretion- 
+ary power to admit excludable aliens under the Seventh 
+Proviso had been abused, and that the authority to waive 
+grounds of inadmissibility should be further restricted to 
+cases involving lawful permanent resident aliens. See 
+S. Rep. No. 1515, 81st Cong., 2d Sess. 382-383 (1950); H.R. 
+Rep. No. 1365, 82d Cong., 2d Sess. 51 (1952). Noting that 
+under then-current law the Attorney General was “empow- 
+ered to waive the grounds of exclusion in the case of an alien 
+returning under the specified circumstances even though the 
+alien had never been lawfully admitted to the United 
+States,” the House Report concluded that “any discretionary 
+authority to waive the grounds for exclusion should be 
+carefully restricted to those cases where extenuating cir- 
+cumstances clearly require such action and that the discre- 
+tionary authority should be surrounded with strict limita- 
+tions.” Ibid. “Congress thus enacted a new provision 
+authorizing the Attorney General to waive exclusion of such 
+
+
+3 See 1917 Act, § 17, 39 Stat. 887: 1907 Act, § 25, 34 Stat. 906-907; Act 
+of Mar. 3, 1891, ch. 551, § &, 26 Stat. 1085. 
+
+
+4 
+
+
+aliens, Section 1182(c) of Title 8, in substantially the form 
+that it took for 30 years.* 
+
+Like previous immigration acts, the 1952 INA made no 
+express provision for judicial review of exclusion and depor- 
+tation orders. In the 1950s, however, this Court held that 
+the enactment of the APA and the INA had significantly 
+altered the legal landscape, and that Congress had author- 
+ized the district courts to review the merits of deportation 
+and exclusion orders in actions for declaratory relief brought 
+under the APA, in addition to the more limited review 
+available in habeas corpus proceedings. See Shaughnessy v. 
+Pedreiro, 349 U.S. 48 (1955); Brownell v. Tom We Shung, 352 
+U.S. 180 (1956). 
+
+In 1961, Congress reacted to those decisions by enacting 
+streamlined provisions for judicial review under the INA. 
+Congress’s principal concern was that aliens had resorted “to 
+repeated judicial reviews and appeals for the sole purpose of 
+delaying their justified expulsion from this country.” H.R. 
+
+
++ Section 1182(c) provided that “[ajliens lawfully admitted for perma- 
+nent residence who temporarily proceeded abroad voluntarily and not 
+under an order of deportation, and who are returning to a lawful unrelin- 
+quished domicile of seven consecutive years, may be admitted in the dis- 
+cretion of the Attorney General” without regard to certain grounds of 
+exclusion. 8 U.S.C. 1182(¢) (1994). Although Section 1182(c) by its terms 
+applied only to permit the admission of certain lawful permanent resident 
+aliens who would otherwise be excludable upon returning to the United 
+States, the Board of Immigration Appeals (BIA) ruled in 1956 that the 
+Attorney General was authorized under that provision to grant relief to an 
+alien placed in deportation (rather than exclusion) proceedings who had 
+previously taken a temporary trip abroad and had returned and been 
+admitted to the United States to resume an unrelinquished domicile of 
+seven years. See In re G.A.,7 1. & N. Dec. 274 (B.L.A. 1956). In Francis 
+v. INS, 532 F.2d 268 (1976), the Second Circuit further ruled, as matter of 
+equal protection, that in light of Jn re G.A., deportable aliens who had not 
+departed from the United States and who had seven years’ unrelinquished 
+domicile in this country also had to be given the opportunity to apply for 
+relief from deportation under Section 1182(c). In the interest of national 
+uniformity, the Attorney General acquiesced in that decision. See In re 
+Silva, 16 1. & N. Dee. 26 (B.LA. 1976). 
+
+
+5 
+
+
+Rep. No. 1086, 87th Cong., Ist Sess. 23 (1961). While Con- 
+gress determined at that time that aliens should be entitled 
+to challenge “the Government’s findings of deportability 
+through judicial process,” ibid., Congress’s “fundamental 
+purpose * * * was to abbreviate the process of judicial 
+review of deportation orders” in order to prevent “fore- 
+stalling departure by dilatory tactics in the courts.” Foti v. 
+INS, 375 U.S. 217, 224 (1963). 
+
+“The key feature of the congressional plan directed at this 
+problem was the elimination of the previous initial step in 
+obtaining judicial review—a suit in a District Court—and 
+the resulting restriction of review to Courts of Appeals.” 
+Foti, 375 U.S. at 225. To that end, Congress established a 
+self-contained judicial-review provision in the INA, inde- 
+pendent and exclusive of the general provisions of the APA. 
+That provision incorporated by reference the procedures for 
+exclusive review of certain orders in the courts of appeals 
+under the Hobbs Administrative Orders Review Act (Hobbs 
+Act), see 28 U.S.C. 2341 et seq., and directed that the Hobbs 
+Act procedures “shall apply to, and shall be the sole and 
+exclusive procedure for, the judicial review of all final orders 
+of deportation” under the INA. 8 U.S.C. 1105a(a) (1994) 
+(emphasis added). 
+
+Section 1105a(a)’s incorporation of the Hobbs Act proce- 
+dures was subject to ten express “except[ions]” that adapted 
+for immigration cases the Hobbs Act’s general provisions, 
+establishing distinct rules with respect to time limits, venue, 
+and other procedural matters. See 8 U.S.C. 1105a(a) (1994); 
+Stone v. INS, 514 U.S. 386, 393 (1995). One of those express 
+exceptions addressed habeas corpus. Congress was aware of 
+the concern that a provision for exclusive review in the 
+courts of appeals would divest the district courts of the 
+authority they had previously exercised to review deporta- 
+tion orders by writ of habeas corpus for the benefit of aliens 
+held in custody. See Gov’t Br. at 5 & n.2, INS v. St. Cyr (No. 
+00-767) (hereinafter St. Cyr Gov’t Br). Congress therefore 
+
+
+6 
+
+
+included, among the express exceptions to Section 1105a(a)’s 
+incorporation of the Hobbs Act exclusive court-of-appeals 
+review procedures, a provision that “any alien held in cus- 
+tody pursuant to an order of deportation may obtain judicial 
+review thereof by habeas corpus proceedings.” 8 U.S.C. 
+1105a(a)(10) (1994). That provision, the committee report 
+explained, “clearly specifie[d] that the right to habeas corpus 
+[was] preserved to an alien in custody under a deportation 
+order. In that fashion, [Congress] except[ed] habeas corpus 
+from the language which elsewhere declare{d] that the 
+procedure prescribed for judicial review in circuit courts 
+shall be exclusive.” H.R. Rep. No. 1086, supra, at 29. 
+
+ce. AEDPA. On April 24, 1996, Congress enacted 
+AEDPA into law. Section 440(d) of AEDPA amended Sec- 
+tion 1182(¢c) to provide that the Attorney General's authority 
+to grant discretionary relief under Section 1182(c) “shall not 
+apply” to a broad class of criminal aliens, including all aliens 
+who were deportable because they had been convicted of an 
+“aggravated felony,” as defined by the INA (at 8 U.S.C. 
+1101(a)(43) (1994 & Supp. V 1999)).? See AEDPA § 440(d), 
+110 Stat. 1277 (referring to aliens deportable under 8 U.S.C. 
+
+
+>» In 1990, Congress barred the Attorney General from granting dis- 
+cretionary relief under Section 1182(¢) to any alien who was convicted of 
+an aggravated felony offense and had served a term of imprisonment of at 
+least five years for that offense. See Immigration Act of 1990, Pub. L. No. 
+101-649, § 511(a), 104 Stat. 5052. AEDPA Section 440(d) extended that 
+bar to any alien convicted of an aggravated felony, regardless of the length 
+of the term of imprisonment. Even before Congress enacted those 
+statutory restrictions on the Attorney General's authority under Section 
+1182(c), however, the BIA had held that aliens (such as petitioners here) 
+found removable based on a serious crime such as a “serious drug offense, 
+particularly one relating to the trafficking or sale of drugs,” would have to 
+demonstrate “unusual or outstanding equities” as a threshold matter in 
+order to be considered for discretionary relief under Section 11S82(c). See 
+In re Buscemi, 19 1. & N. Dee. 628, 633-634 (B.LA. 1988); Jv re Marin, 16 
+I. & N. Dec. 581, 586 (B.L.A. 1978). 
+
+
+7 
+
+
+1251(a)(2)(A)(iii) (1994) (now recodified as 8 U.S.C. 
+1227(a)(2)A)(iii) (Supp. V 1999))).° 
+
+Section 401(e) of AEDPA, entitled “ELIMINATION OF 
+CUSTODY REVIEW BY HABEAS CORPUS,” repealed 8 U.S.C. 
+1105a(a)(10) (1994), which had specifically permitted aliens in 
+custody pursuant to an order of deportation to seek habeas 
+corpus relief in district court. See 110 Stat. 1268. AEDPA 
+therefore left in place the exclusive court-of-appeals review 
+provision that Congress had enacted in 1961, while eliminat- 
+ing the INA’s previous express exception to that exclusive 
+
+
+® Congress did not expressly state in AEDPA whether Section 440(d) 
+barred the Attorney General from granting relief under Section 1182(c) to 
+aliens who had already been convicted and whose deportation proceedings 
+were already pending when AEDPA was enacted. On February 21, 1997, 
+the Attorney General concluded in Jn re Soriano, Interim Dec. No. 3289, 
+1996 WL 426888, that AEDPA Section 440(d)’s restriction on the Attorney 
+General's authority applied to all deportation proceedings pending on or 
+after the date of AEDPA’s enactment, including those pending proceed- 
+ings in which aliens had already submitted applications for relief. Numer- 
+ous aliens challenged that conclusion in the federal courts, usually seeking 
+to invoke the district courts’ general habeas corpus jurisdiction under 
+28 U.S.C. 2241. The courts of appeals divided as to whether (as the 
+government contended) AEDPA had deprived the district courts of 
+habeas corpus jurisdiction to entertain such challenges to final deportation 
+orders. The courts of appeals also reached varying conclusions about the 
+temporal applicability of AEDPA Section 440(d). This Court denied 
+several certiorari petitions raising those issues. See generally Pet. at 4-6, 
+INS vy. St. Cyr, supra (No. 00-767). 
+
+In light of the Court’s denial of certiorari in those cases and the 
+remaining conflict in the circuits on that issue, the Attorney General 
+recently published a final rule that, while not conceding their correctness, 
+acquiesced on a nationwide basis in the rule adopted by those circuits that 
+concluded that AEDPA Section 440(d) does not bar the Attorney General 
+from granting discretionary relief under Section 1182(c) to an alien who 
+had been placed in deportation proceedings before AEDPA was enacted. 
+See 66 Fed. Reg. 6436, 6438 (2001) (promulgating new & C.F.R. 3.44). 
+Absent adverse circuit precedent, however, the Attorney General will 
+continue to follow AEDPA Section 440(d)’s restriction on his authority to 
+grant relief under Section 1182(c) in the cases of aliens who were placed in 
+deportation proceedings after AEDPA was enacted, even if they were 
+convicted before its enactment. See id. at 6443-6444. 
+
+
+8 
+
+
+jurisdiction that “preserved” (H.R. Rep. No. 1086, supra, at 
+29) review by habeas corpus for aliens held in custody. At 
+the same time, Section 440(a) of AEDPA enacted a new Sec- 
+tion 1105a(a)(10) to provide, for the same classes of criminal 
+aliens who had been rendered ineligible for relief under 
+Section 1182(c), an exception to the general availability of 
+judicial review of deportation orders in the courts of appeals. 
+AEDPA Section 440(a) provided that any final order of 
+deportation against an alien who was deportable for having 
+committed one of the disqualifying offenses, including aggra- 
+vated felonies, “shall not be subject to review by any court.” 
+110 Stat. 1276-1277. 
+
+d. JJRIRA. On September 30, 1996, Congress enacted 
+ITRIRA into law. In Section 304 of IIRIRA, Congress abol- 
+ished the old distinction between “deportation” and 
+“exclusion” orders, and instituted a new form of proceeding, 
+known as “removal.” See 8 U.S.C. 1229, 1229a (Supp. V 
+1999); IIRIRA § 304(a), 110 Stat. 3009-587 to 3009-593." An 
+alien convicted of an aggravated felony is subject to removal. 
+See 8 U.S.C. 1227(a)(2)(A (iii) (Supp. V 1999). 
+
+Section 304 of IIRIRA also refashioned the terms on 
+which the Attorney General, in his discretion, may grant 
+relief to an alien found to be subject to removal. Congress 
+completely repealed old Section 1182(c). See IIRIRA 
+§ 304(b), 110 Stat. 3009-597 (“Section 212(¢c) (8 U.S.C. 
+
+
+* Congress also enacted special forms of removal proceedings for 
+aliens arriving in the United States without valid decumentation, see 
+8 U.S.C. 1225(b)(1) (Supp. V 1999), and for aliens not admitted for lawful 
+permanent residence who are convicted of aggravated felonies, see 
+8 U.S.C. 122&(b) (Supp. V 1999). Congress expressly provided for limited 
+judicial review in the district courts by habeas corpus of immigration 
+officers’ expedited-removal decisions under Section 1225(b)(1). See 
+& U.S.C. 1252(e)(2) (Supp. V 1999). For aliens found subject to removal in 
+Section 122&(b) proceedings, Congress provided a modified version of the 
+general court of appeals judicial-review procedures of 8 U.S.C. 1252 (Supp. 
+V 1999) (discussed at pp. 10-11, infra), with shortened time limits. See 
+8 U.S.C. 1228(b) (Supp. V 1999). 
+
+
+9 
+
+
+1182(c)) is repealed.”). In its stead, Congress created a new 
+form of discretionary relief, known as “cancellation of 
+removal,” with new eligibility terms. See 8 U.S.C. 1229b 
+(Supp. V 1999); IIRIRA § 304(a), 110 Stat. 3009-594 to 3009- 
+596. As under Section 1182(c) as amended by AEDPA, 
+however, Congress provided that the Attorney General may 
+not grant discretionary relief to an alien who has been 
+convicted of an aggravated felony. 8 U.S.C. 1229b(a)(3), 
+1229b(b)(1)(C) (Supp. V 1999). 
+
+Because IIRIRA made sweeping changes to the system 
+for removal of aliens, Congress delayed IIRIRA’s full effec- 
+tive date and established various transition rules. As a gen- 
+eral matter, Congress provided that most of IIRIRA’s 
+provisions, including the new removal procedures and the 
+corresponding repeal of Section 1182(c) along with its re- 
+placement by the new provisions for cancellation of removal 
+—all of which were enacted together in Section 304 of 
+ITRIRA—would take effect on April 1, 1997. See IIRIRA 
+§ 309(a), 110 Stat. 8009-625. For aliens who were placed in 
+old deportation or exclusion proceedings before April 1, 
+1997, Congress expressly provided that the amendments 
+made by Title III-A of IIRIRA (including IIRIRA Section 
+304’s repeal of former Section 1182(c)) would not apply, and 
+that such cases instead would generally be governed by the 
+pre-IIRIRA provisions of the INA (as amended by AEDPA) 
+as well as by transitional rules further restricting judicial 
+review under 8 U.S.C. 1105a (1994)." See IIRIRA § 309(c), 
+
+
+* Congress also provided in IIRIRA that aliens subject to exclusion 
+orders in the transition period would no longer have access to the pro- 
+vision of Section 1105a(b) formerly allowing judicial review of their 
+exclusion orders by habeas corpus (see pp. 4-5, supra). Instead, Congress 
+provided that “the action for judicial review” of exclusion orders would be 
+governed by the general provisions, including the transition rules, for 
+judicial review of deportation orders in the courts of appeals under Section 
+1105a(a). See IIRIRA § 309(c)(4)(A), 110 Stat. 3009-626. 
+
+
+10 
+
+
+110 Stat. 3009-625 (amended by Act of Oct. 11, 1996, Pub. L. 
+No. 104-302, § 2, 110 Stat. 3657 (technical correction)). 
+
+In Section 306 of IIRIRA, Congress recast and stream- 
+lined the INA’s provisions for judicial review of removal 
+orders. For removal proceedings commenced after April 1, 
+1997, Congress repealed altogether the former judicial- 
+review provisions of 8 U.S.C. 1105a (1994), which, before 
+AEDPA, had (at subsection (a)(10)) expressly made the writ 
+of habeas corpus available to aliens held in custody. ITRIRA 
+§ 306(b), 110 Stat. 3009-612; see pp. 5-6, supra. In its place, 
+Congress enacted the new 8 U.S.C. 1252 (Supp. V_ 1999), 
+which provides that final orders of removal are subject to 
+judicial review only on petition for review in the courts of 
+appeals. See 8 U.S.C. 1252(a)(1) (Supp. V_ 1999) (incorporat- 
+ing Hobbs Act). Congress enacted no general exception to 
+that provision for exclusive review of removal orders in the 
+courts of appeals to allow aliens held in custody under a final 
+order of removal to seek habeas corpus relief, as it had done 
+in the INA before AEDPA repealed 8 U.S.C. 1105a(a)(10) 
+(1994). Instead, Congress included, at 8 U.S.C. 1252(e)(2) 
+(Supp. V 1999), only a much narrower exception that permits 
+a limited form of habeas corpus review for aliens who arrive 
+at the border without valid documentation and were placed 
+in expedited-removal proceedings under 8 U.S.C. 1225(b)(1) 
+(Supp. V 1999). 
+
+Congress also specifically restricted judicial review of 
+removal orders entered against criminal aliens by providing 
+that, “[njotwithstanding any other provision of law, no court 
+shall have jurisdiction to review any final order of removal 
+against an alien who is removable by reason of having com- 
+mitted” one of various criminal offenses, including aggra- 
+vated felonies. See 8 U.S.C. 1252(aX2C) (Supp. V 1999). 
+And Congress enacted a new, sweeping jurisdiction-limiting 
+
+
+11 
+provision, 8 U.S.C. 1252(b)(9) (Supp. V 1999), which pro- 
+
+
+vides: 
+
+
+Judicial review of all questions of law and fact, 
+including interpretation and application of constitutional 
+and statutory provisions, arising from any action taken 
+or proceeding brought to remove an alien from the 
+United States under this subchapter shall be available 
+only in judicial review of a final order under this section 
+[i.e., Section 1252]. 
+
+
+2. Proceedings Below. 
+
+a. Each petitioner is an alien who was convicted of an 
+aggravated felony offense (specifically, a drug-trafficking 
+crime, see 8 U.S.C. 1101(a)(43)(B) (1994)) before ITRIRA’s 
+general effective date of April 1, 1997, and who was placed in 
+removal proceedings and charged with removability based 
+on that aggravated-felony conviction after April 1, 1997. 
+Each petitioner sought in removal proceedings to apply for 
+discretionary relief from deportation under former Section 
+1182(c). In each case, the Board of Immigration Appeals 
+(BIA) concluded that petitioners were not eligible for dis- 
+cretionary relief from removal, because (a) IIRIRA had 
+repealed Section 1182(c) as of April 1, 1997, and had made 
+relief under that Section unavailable for any alien placed in 
+removal proceedings on or after that date, and (b) aliens such 
+as petitioners who were convicted of aggravated felonies are 
+not eligible to be considered for discretionary relief under 
+IIRIRA’s provision for cancellation of removal. See Pet. 
+App. 37a-39a, 48a-49a, 72a-73a. 
+
+b. Petitioners filed petitions for review of their final 
+removal orders in the court of appeals. Petitioners con- 
+tended that they remained eligible for relief from deporta- 
+tion under Section 1182(c) because (they argued) Congress’s 
+repeal of that provision should not be applied “retroactively” 
+in their removal proceedings, which were based on 
+
+
+12 
+
+
+convictions entered before IIRIRA became effective.” The 
+court of appeals held that it lacked jurisdiction over the 
+petitions for review because of 8 U.S.C. 1252(a)(2)(C) (Supp. 
+V 1999), which precludes judicial review of a final removal 
+order entered against an alien who is removable because of 
+an aggravated felony conviction. Pet. App. 28a-3la, 38a. 
+The court also ruled (/d. at 2la-28a, 3la-33a), however, that 
+the district court would have authority to review the same 
+challenges to petitioners’ removal orders under the general 
+federal habeas corpus statute, 28 U.S.C. 2241." 
+
+The court of appeals read Felker v. Turpin, 518 U.S. 651 
+(1996), and Ew parte Yerger, 75 U.S. (8 Wall.) 85 (1869), to 
+hold that “a court cannot presume that a congressional 
+enactment effects a repeal of a jurisdictional statute when it 
+does not explicitly mention the jurisdictional statute or the 
+general type of jurisdiction by name,” Pet. App. 22a, and 
+more particularly that “Congress must explicitly mention 
+§ 2241 or general habeas jurisdiction to repeal it,” id. at 28a. 
+The court found “nothing in IIRIRA’s permanent provisions 
+that constitutes a sufficiently clear statement of congres- 
+sional intent to repeal the habeas jurisdiction granted 
+Article III courts by 28 U.S.C. § 2241.” bid. And, the court 
+stated, the contrary interpretation would “raise a serious 
+constitutional question under the Suspension Clause” of 
+Article I, Section 9, id. at 28a, for it would leave petitioners 
+without a judicial forum for their challenge to the BIA’s 
+
+
+* Petitioners also argued that the repeal of Section 1182(¢) could not 
+
+
+be applied to any criminal conduct that occurred before ITRIRA was 
+enacted. See Pet. 17. 
+0 
+
+
+Indeed, on the same day, the same panel of the court of appeals ruled 
+in St. Cyr v. INS, 229 F.3d 406 (2d Cir. 2000), cert. granted, 121 S. Ct. 848 
+(2001), that the district court had properly exercised habeas corpus 
+jurisdiction under 28 U.S.C. 2241 over such a challenge (see 229 F.3d at 
+409-410), and that Congress's repeal of Section 1182(¢) was not to be 
+applied to an alien who had pleaded guilty to an aggravated felony offense 
+before IIRIRA was enacted (see id. at 410-421). 
+
+
+Raa 
+
+
+=I 
+
+
+13 
+
+
+determination that they are ineligible for relief under former 
+Section 1182(c). 
+
+The court rejected the government’s argument that, even 
+if the district courts could not review the merits of final 
+removal orders by habeas corpus, the courts of appeals 
+would retain sufficient authority to review final removal 
+orders, on direct petitions for review, to satisfy the Consti- 
+tution. Pet. App. 28a-30a. The government had submitted 
+that, on a petition for review filed by an alien found remov- 
+able because of an aggravated felony conviction, a court of 
+appeals retains authority to decide issues going to the 
+application of the jurisdictional bar in Section 1252(a)(2)(C) 
+—i.e., Whether the petitioner “is an alien who is removable 
+by reason of having committed a specified criminal offense” 
+—as well as substantial constitutional challenges to the final 
+removal order, which Section 1252(a)(2)(C) should not be 
+construed to preclude. Even assuming that such review re- 
+mains available in the court of appeals, the court suggested 
+that it would be insufficient to satisfy the Constitution, for, 
+the court stated, “review of statutory questions similar to 
+the one presented in this case has long been deemed 
+essential to ensure that a detained alien receives full due 
+process of law.” Id. at 30a. 
+
+Finally, the court observed that, “if we were legislators, 
+rather than judges, we might opt for a statutory scheme 
+under which an alien’s constitutional and statutory chal- 
+lenges are cognizable in the court of appeals pursuant to a 
+petition for review,” for such a scheme “would eradicate 
+habeas corpus’s duplicative review of legal questions in the 
+district court and the court of appeals and serve Congress’s 
+goal to streamline judicial review.” Pet. App. 32a. But, the 
+court stated (/bid.), “[a]lthough this interpretation may 
+represent sound legislative policy, * * * we do not read 
+IIRIRA or our prior cases to permit such review under” 
+Section 1252(a)(2)(C). 
+
+
+14 
+SUMMARY OF ARGUMENT 
+
+
+I. A. Congress has precluded all judicial review of peti- 
+tioners’ contention that they are eligible for discretionary 
+relief from deportation under former 8 U.S.C. 1182(¢) (1994). 
+Petitioners were properly found removable based on their 
+convictions for aggravated-felony offenses. Accordingly, al- 
+though removal orders are generally subject to review ex- 
+clusively by petition for review in the court of appeals, under 
+8 U.S.C. 1252(a) (Supp. V 1999), such review of petitioners’ 
+contentions is precluded by 8 U.S.C. 1252(a)(2)(C) (Supp. V 
+1999), which provides that no court may review a removal 
+order entered against an alien who is removable because of 
+an aggravated-felony conviction. The text and legislative 
+history of Section 1252(a)(2)(C) make clear that Congress 
+intended to preclude petitions for review by- aggravated 
+felons to the maximum extent possible. Congress did not bar 
+the courts of appeals from ensuring that the alien subject to 
+the removal order is in fact an alien and is removable 
+because of an aggravated-felony conviction, but those 
+matters are undisputed here. Congress also did not bar the 
+courts of appeals from considering substantial constitutional 
+challenges to aggravated felons’ removal orders, but no such 
+challenge is presented here. 
+
+B. Congress has also precluded the district courts from 
+reviewing challenges to aggravated felons’ removal orders 
+by habeas corpus or otherwise. Congress’s unmistakable 
+intent in the judicial-review provisions of the Immigration 
+and Nationality Act is to channel all challenges to removal 
+orders into the courts of appeals (subject to a narrow 
+express exception not implicated in this case). The court of 
+appeals’ ruling that petitioners’ challenges could proceed in 
+district court cannot be reconciled with the streamlined 
+legislative scheme for judicial review of removal orders that 
+Congress has enacted. It also ignores the history underlying 
+congressional efforts to minimize judicial involvement in 
+
+
+2 oars tepetee’ 
+
+
+15 
+
+
+removal proceedings, including Congress’s repeal of a 
+provision of the INA that had previously preserved district 
+court review by habeas corpus of deportation orders for 
+aliens actually held in custody. 
+
+Il. A. Congress’s preclusion of review of petitioners’ 
+claims does not violate the Suspension Clause of Article I, 
+Section 9, the Due Process Clause, or Article III. The 
+constitutional guarantee of habeas corpus in the Suspension 
+Clause does not extend to judicial review of claims that an 
+alien is eligible for discretionary relief from deportation. 
+This Nation’s immigration laws have traditionally treated 
+such discretionary relief as a matter of grace and not of 
+right, and have fashioned laws to grant such relief as crea- 
+tions of power in the Attorney General, not vesting of rights 
+in the individual a#en. And while English common law 
+courts before 1789 did review on habeas corpus contentions 
+that a custodian had no legal authority to detain a petitioner, 
+that review did not extend to contentions that the custodian, 
+although vested with legal authority over the petitioner, 
+nonetheless should exercise his discretion to dispense with 
+the petitioner’s custody and detention. 
+
+Nor do this Court’s decisions establish that such review is 
+required by the Suspension Clause. Petitioners rely on the 
+fact that this Court stated that, under pre-1952 immigration 
+law, Congress had yveduced judicial review to the minimum 
+scope permissible under the Constitution, and yet during 
+that period the Court also considered on habeas corpus 
+proceedings claims that the Attorney General had failed 
+properly to exercise his discretion to consider applications 
+for discretionary relief from deportation. But the Court did 
+not hold that the writ of habeas corpus required review of 
+such contentions, nor did it hold that the Suspension Clause 
+required that such review be available as a constitutional 
+matter. Such a holding, moreover, would have been a con- 
+siderable extension of the writ from its common law scope 
+preserved by the Suspension Clause, and the Court’s habeas 
+
+
+16 
+
+
+corpus decisions under pre-1952 law were under a habeas 
+corpus statute that was and is much broader than the 
+common law writ. Moreover, the kinds of challenges to 
+exclusion and deportation orders that the Court did state 
+were reviewable by habeas corpus—claims that the person 
+subject to the order is not an alien or is not removable, that 
+the removal proceedings were wanting in due process, or 
+that the removal order was totally lacking in evidentiary 
+foundation—may still be raised on petition for review. 
+
+B. Judicial review of petitioners’ claims is not required by 
+the Due Process Clause. Although removal proceedings 
+themselves must be fundamentally fair to satisfy the Due 
+Process Clause, absent a contention that a removal proceed- 
+ing was not fundamentally fair, due process does not require 
+judicial supervision of removal orders. While due process 
+may require judicial review of the outcome of an administra- 
+tive proceeding when that proceeding itself was not con- 
+sistent with the fundamental requirements of due process, 
+that is not the case here. Due process prerequisites to 
+imprisonment are also inapposite to immigration proceed- 
+ings, given the significant difference between the two 
+sanctions. 
+
+Nor does Congress’s preclusion of judicial review of peti- 
+tioners’ claims contravene Article III’s vesting of the judicial 
+power of the United States in the federal judiciary. Con- 
+gress may assign controversies between the government and 
+private individuals over public rights to an administrative 
+adjudicator without review by an Article III court. The 
+right of an alien to enter or remain in the United States is 
+plainly such a public right. 
+
+III. If the Court concludes that judicial review of peti- 
+tioners’ claims is required by the Constitution, then that 
+review should proceed in the court of appeals, not the 
+district court. Review in the court of appeals would be much 
+more consistent with Congress’s intent in the judicial-review 
+provisions of the INA since 1961, which is to minimize delays 
+
+
+17 
+
+
+in deportations and to streamline judicial review by channel- 
+ing removal cases into the courts of appeals. Congress has 
+long acted on the understanding that district court review of 
+removal orders presents a significant danger of unwarranted 
+delay in the execution of removal orders. That under- 
+standing was reinforced in 1996 when Congress enacted 
+8 U.S.C. 1252(b)(9) (Supp. V 1999), which expressly requires 
+that all questions of law and fact arising out of removal pro- 
+ceedings be heard only in the courts of appeals on petition 
+for review. Section 1252(b)(9) therefore precludes district 
+court review, even if some judicial review is required by the 
+Constitution. 
+
+
+ARGUMENT 
+
+
+I. CONGRESS HAS PRECLUDED JUDICIAL REVIEW 
+OF PETITIONERS’ NON-CONSTITUTIONAL CHAL- 
+LENGES TO THEIR REMOVAL ORDERS 
+
+
+Congress’s comprehensive revision of the INA’s judicial- 
+review provisions in IIRIRA resulted from its concern that 
+pre-IIRIRA law had been ineffective in securing the prompt 
+deportation of criminal aliens. See generally H.R. Rep. No. 
+469, supra, Pt. 1, at 118-126. Congress adopted a two- 
+pronged approach to prevent delays in the removal of crimi- 
+nal aliens after completion of the administrative proceedings. 
+First, Congress dramatically restricted the authority of the 
+courts of appeals to review removal orders entered against 
+aggravated felons and other criminal aliens. The courts of 
+appeals’ authority with respect to such aliens extends only to 
+ensuring that the person seeking review indeed falls within a 
+class of removable aliens and that the alien’s removal pro- 
+ceeding was consistent with the Constitution. Second, 
+Congress completely eliminated the district courts’ authority 
+to review any removal orders on habeas corpus. The result 
+is that Congress has allowed aliens found removable because 
+of an aggravated felony conviction to pursue one, limited 
+opportunity for judicial review of the removal order, and 
+
+
+18 
+
+
+only in the court of appeals. The scope of that limited review 
+does not extend to petitioners’ non-constitutional challenge 
+to the BIA’s conclusion that the Attorney General may not 
+grant them discretionary relief under former Section 1182(c). 
+
+That result is precisely what Congress intended. When 
+Congress enacted IIRIRA’s permanent provisions, it simul- 
+taneously restricted judicial review for the specified classes 
+of criminal aliens and unambiguously barred the Attorney 
+General from granting discretionary relief to those very 
+same aliens by repealing the former Section 1182(c) and 
+excluding them from eligibility for cancellation of removal 
+under the new 8 U.S.C. 1229b (Supp. V 1999). See St. Cyr 
+x0v't Br. 32-49. Those two measures were part of a single, 
+comprehensive package of provisions in ITIRIRA that were 
+designed to speed the removal of criminal aliens. Congress 
+would have seen no need whatsoever to preserve an avenue 
+for those aliens to obtain judicial review under IIRIRA of a 
+statutory question concerning their eligibility for discretion- 
+ary relief because Congress itself had supplied the answer to 
+that very question in other provisions of IIRIRA. 
+
+A. In Section 1252(a)(2)(C) Of Title 8, Congress Has 
+
+
+Precluded Judicial Review Of Petitioners’ Challenges 
+In The Court Of Appeals 
+
+
+1. In Section 1252, as added to the INA by IIRIRA, 
+Congress carried forward the pre-IIRIRA rule that final 
+orders of removal are subject to judicial review only in the 
+courts of appeals pursuant to the Hobbs Act’s exclusive- 
+review procedures, except as specifically provided other- 
+wise. See p. 10, supra. In Section 1252(a)(2), Congress also 
+enacted stringent limitations on the scope of review that the 
+courts of appeals may exercise over such removal orders. 
+Congress provided, for example, that “no court shall have 
+jurisdiction to review” any decision of the Attorney General 
+specified by the INA to be within his discretion (excepting 
+decisions regarding asylum). See 8 U.S.C. 1252(a)(2)(B) 
+
+
+19 
+
+
+(Supp. V 1999). Similarly, and pertinent here, Congress 
+provided: 
+
+
+Notwithstanding any other provision of law, no court 
+shall have jurisdiction to review any final order of 
+removal against an alien who is removable by reason of 
+having committed a criminal offense covered in section 
+* * * 1227(a)(2)(A)(iii), (B), (C), or (D) of this titlef.] 
+
+
+8 U.S.C. 1252(a)(2)(C) (Supp. V 1999). That provision di- 
+rectly covers petitioners’ cases. They were each found 
+removable by reason of having committed a criminal offense 
+“covered in” Section 1227(a)(2)(A)(iii), the INA provision 
+making removable any alien convicted of an aggravated 
+felony. 
+
+The legislative history of Section 1252(a)(2)(C) makes 
+abundantly clear that Congress intended to cut off, to the 
+maximum extent possible, judicial review for aliens found 
+removable because of an aggravated felony conviction. Sec- 
+tion 1252(a)(2)(C) originated in an amendment to a pending 
+immigration bill offered by Senator Abraham at a markup 
+session on March 14, 1996. At that session, Senator 
+Abraham first stated that, under then-current law, aliens 
+found deportable based on a criminal conviction could delay 
+their deportation by “go[ing] back into the court system and 
+* * * hav(ing] those final adjudications by the Board of 
+Immigration Appeals reviewed throughout the entire judi- 
+cial process.” Sen. Judiciary Comm. Tr. of Proceedings 19 
+(Mar. 14, 1996) (lodged with the Clerk). Senator Abraham 
+then explained the effect of his amendment as follows: 
+
+
+What we propose in this amendment is to end the pro- 
+cess following the appeal to the Board of Immigration 
+Appeals. The Board obviously is specialized in this area. 
+It understands, and we believe, we have full confidence it 
+will protect and balance properly the rights of the de- 
+portable alien. And we believe that by ending the appeal 
+process at that point we will make it more feasible for 
+
+
+eae eee Seen sl ee, teem see 
+
+
+20 
+the Department of Justice to deport those criminal aliens 
+who otherwise go back into society, commit additional 
+crimes, end up back in the prison system, and in our 
+judgment really should instead be replaced by people 
+who want to be in this country and play by the rules. 
+
+
+Id. at 19-20. In response to an objection by Senator Kennedy 
+that, under the amendment, “the right to appeal is elimi- 
+nated altogether,” id. at 21, Senator Abraham stated: 
+
+
+There has been plenty of review. There has been full 
+review of the entire criminal proceeding and the entire 
+criminal case afforded to the non-citizen who has violated 
+the law. That whole process is reviewable. And once 
+that conviction is upheld, the criminal alien becomes 
+deportable. The only thing—there are very few issues 
+left then to be determined. Simply a deportation hearing 
+determines, Is this the person who committed the 
+crimes? Is there some sort of valid basis to conclude 
+otherwise? There is a process for that. 
+
+
+The notion of tying up the court system and protracting 
+the process and permitting criminal aliens to stay, in my 
+judgment, is one of the real serious problems we have 
+right now. 
+Id. at 23."' In response to questions from Senators Simpson 
+and Hatch as to whether, once the final order of deportation 
+was entered, “there would be no further review,” Senator 
+
+
+Abraham stated, “That is right.” /d. at 24. The Committee 
+adopted the Abraham amendment by a 12-6 vote. /d. at 28. 
+
+
+'l Senator Abraham’s explanation that judicial review is unnecessary 
+because there will be very little to be decided in the administrative 
+removal proceedings concerning an alien who had been convicted of an 
+aggravated felony confirms the understanding that such an alien would be 
+ineligible for discretionary relief from removal and therefore would not be 
+in a position to interject issues concerning such relief into the proceedings. 
+
+
+—_— we 
+
+
+21 
+
+
+See also S. Rep. No. 249, 104th Cong., 2d Sess. 14, 27-28 
+(1996); id. at 40 (additional views of Sen. Abraham). 
+
+On the Senate floor, Senator Abraham explained the 
+effect of his amendment in sweeping terms: 
+
+
+In short, once the criminal alien had exhausted all 
+appeals available under the criminal laws, the criminal 
+alien would still have the full deportation administrative 
+provisions to protect him, that is, a deportation hearing 
+and the ability to appeal any order of deportation to the 
+Board of Immigration Appeals, but that would end the 
+process as opposed to triggering a return to the court 
+system. That will be positive because it will mean the 
+actual deportation of more criminal aliens and the freeing 
+up of the court system from many of these frivolous 
+lawsuits. 
+
+
+* * * * * 
+
+
+These reforms would not affect any of the aliens’ due 
+process protections on the underlying criminal offense. 
+Aliens would still be entitled to the lengthy appellate and 
+habeas corpus review, just like U.S. citizens. But abuses 
+of the appeals process would stop there and not continue 
+on through the deportation provisions themselves. 
+
+
+142 Cong. Rec. 7349 (1996)."” 
+
+2. Especially in light of Senator Abraham’s explanations 
+of the effect of his amendment, the only reasonable construc- 
+tion of Section 1252(a)(2)(C) is that it prohibits the courts 
+from reviewing challenges to removal orders entered against 
+
+
+2 See also 142 Cong. Rec. at 10,052 (statement of Sen. Abrzham. 
+explaining that his amendment would “end judicial review for orders of 
+deportation entered against these criminal aliens,” but noting that he 
+would have preferred an even more sweeping provision that would have 
+eliminated appeals to the BIA, because “|wJhile we have eliminated judi- 
+cial review for orders of deportation entered against most criminal aliens, 
+we have not eliminated their capacity to request repetitive administ: ative 
+review of the deportation order”). 
+
+
+22 
+
+
+aliens convicted of aggravated felonies. Even so, Section 
+1252(a)(2)(C) does not operate to preclude all judicial consid- 
+eration of issues raised by removal orders entered against 
+such aliens. The preclusion of judicial review in Section 
+1252(a)(2)(C) operates only when the person seeking to 
+invoke the jurisdiction of the courts is “an alien who is 
+removable by reason of having committed a criminal offense 
+covered in” various sections of the INA—such as Section 
+1227(a)(2)(A)(iii) (making deportable aliens convicted of 
+aggravated felonies) and Section 1227(a)(2)(B) (making de- 
+portable aliens convicted of controlled-substance offenses). 
+Thus, as a precondition to concluding that it lacks jurisdic- 
+tion over a petition for review, the court of appeals must 
+determine whether (a) the person seeking to invoke the 
+jurisdiction of the courts actually is an alien, (b) the alien is 
+removable, and (c) the ground of removal is one that pre- 
+cludes judicial review under the statute—i.e., whether the 
+basis of the alien’s removal is one of the specified classes of 
+criminal offenses, such as an aggravated felony or a 
+controlled-substance offense, that triggers the preclusion of 
+judicial review. 
+
+The court of appeals’ determination whether it has juris- 
+diction over the case (7.e., whether its jurisdiction has been 
+precluded by Section 1252(a)(2)(C)) may require it to rule on 
+issues that also go to the underlying merits of the removal 
+order entered against the alien. Under well-settled princi- 
+ples governing preclusion-of-review provisions, however, 
+when the availability of judicial review depends on a par- 
+ticular factual or legal conclusion, a court may determine 
+whether that condition exists. The doctrine that a court has 
+‘Surisdiction to determine its jurisdiction,” even when to do 
+so requires it to render a decision that bears on the underly- 
+ing merits, rests on that understanding. See Land v. Dollar, 
+330 U.S. 731, 739 (1947). i 
+
+Thus, for example, if the BIA concluded that an alien is 
+removable because he was convicted of an aggravated felony 
+
+
+ee 
+
+
+23 
+
+
+or a controlled-substance offense, but the court of appeals 
+then concludes that the offense of which the alien was con- 
+victed does not fall within the INA’s statutory definition of 
+an aggravated felony or a controlled-substance offense, then 
+the court of appeals’ jurisdiction over the case is not 
+precluded by Section 1252(a)(2)(C). The court may proceed 
+to review the removal order on the merits and may vacate 
+the order if it determines that the alien is not actually re- 
+movable or that the order is defective for some other reason, 
+See Ye v. INS, 214 F.3d 1128 (9th Cir. 2000); Solorzano- 
+Patlan v. INS, 207 F.3d 869 (7th Cir. 2000); see also 
+Richardson v. Reno, 180 F.3d 1311, 1316 (11th Cir. 1999), 
+cert. denied, 529 U.S. 1036 (2000). Similarly, if the person 
+seeking review of his removal order argues that he is 
+actually a citizen, the court of appeals has jurisdiction to 
+resolve that threshold issue. See Nguyen v. IN S, 208 F.3d 
+| 528, 531 (5th Cir.), cert. granted, 121 S. Ct. 29 (2000). 
+
+: In addition, we do not understand Section 1252(a)(2)(C) as 
+precluding a court of appeals from reviewing substantial con- 
+stitutional challenges to an alien’s removal order, even if the 
+BIA has found the alien to be removable based on a criminal 
+conviction referred to in that Section. Although the preclu- 
+sion of review in Section 1252(a)(2\(C ) has a broad reach, we 
+believe it is appropriate to interpret it in light of this Court’s 
+jurisprudence directing that Acts of Congress should not be 
+construed to preclude review of constitutional claims absent 
+a clear congressional expression to that effect. See Webster 
+v. Doe, 486 U.S. 592, 603 (1988): Weinberger v. Salfi, 422 U.S. 
+749, 762 (1975); Johnson v. Robison, 415 U.S. 361, 366-374 
+(1974). Notwithstanding Section 1252(a)(2)(C)’s categorical 
+language, neither the text nor the legislative history of that 
+provision adverts specifically to preclusion of review of con- 
+stitutional claims, and so the courts of appeals retain author- 
+ity to consider such claims. Thus, a court of appeals would 
+not be precluded from reviewing an alien’s contention that a 
+provision of the INA defining a particular offense as an 
+
+
+a 
+
+
+Rak wie eR eats «la 
+
+
+24 
+
+
+“aggravated felony,” or rendering the alien removable based 
+on a conviction for that offense, is unconstitutional. Nor, in 
+our view, would the court of appeals be precluded from re- 
+viewing a substantial contention that the immigration judge 
+(IJ) or the BIA had not observed fundamental guarantees of 
+due process before concluding that the alien was removable 
+based on a conviction for such an offense. See Singh v. Reno, 
+182 F.3d 504, 509-510 (7th Cir. 1999); Richardson, 180 F.3d 
+at 1316 n.5. 
+
+3. Petitioners’ challenges to their removal orders at issue 
+here do not fall within the limited scope of authority to 
+review removal orders entered against criminal aliens that 
+the courts of appeals retain after IIRIRA. Petitioners do 
+not contest the BIA’s conclusions that they are aliens who 
+are removable based on a conviction for a criminal offense 
+that triggers the preclusion of review in Section 
+1252(a\(2C). They do not challenge the constitutionality of 
+the statutory provisions, 8 U.S.C. 1227(a)(2)(A)iii) and (B)(i) 
+(Supp. V 1999), that render them removable for having been 
+convicted of an aggravated felony or controlled-substance 
+offense. They do not contend that the administrative pro- 
+ceedings before the IJ and the BIA that resulted in the entry 
+of final removal orders against them were fundamentally 
+unfair. And they have not argued in this Court that Con- 
+gress was prohibited by the Constitution from rendering 
+them ineligible for discretionary relief from removal, and any 
+such contention would be baseless, in light of a long line of 
+decisions of this Court holding that Congress’s power to 
+alter the basis on which an alien may be deported is not 
+constrained by the Constitution’s limitations on retroactive 
+lawmaking.” A fortiori, no substantial constitutional claim 
+
+
+3 See Marcello v. Bonds, 349 U.S. 302, 314 (1955) (upholding deporta- 
+tion under 1952 INA of alien convicted in 1938 of marijuana violation); 
+Galvan v. Press, 347 U.S. 522, 530-531 (1954) (upholding application of 
+1950 statute requiring deportation of anyone who had ever been a member 
+of the Communist Party after entering the United States to an alien who 
+
+
+25 
+
+
+could arise here, given that petitioners were clearly deport- 
+able when they committed, pleaded guilty to, and were con- 
+victed of, their offenses, and the only change in the law that 
+they resist is IIRIRA’s repeal of Section 1182(c), which with- 
+drew from the Attorney General the authority to grant them 
+discretionary relief from deportation. 
+
+In sum, petitioners are aliens; they are removable; and 
+their removal orders are based on convictions for aggravated 
+felonies. The court of appeals therefore properly concluded 
+that Section 1252(a)(2)(C) divested it of jurisdiction to 
+review petitioners’ challenges to their removal orders on 
+petition for review. 
+
+B. Congress Has Also Divested The District Courts Of 
+
+
+Authority To Review The Merits Of Petitioners’ 
+Removal Orders 
+
+
+Although the court of appeals ruled that it could not 
+entertain petitioners’ non-constitutional challenges to their 
+removal orders on direct petitions for review, it also held 
+that Congress had not divested the district court of its 
+authority to review such a challenge under its general 
+habeas corpus jurisdiction. Indeed, in the companion case of 
+St. Cyr v. INS, 229 F.3d 406, 409-410 (2d Cir. 2000), cert. 
+granted, 121 S. Ct. 848 (2001), the court of appeals ruled that 
+the district court had properly exercised its habeas corpus 
+jurisdiction to review such a challenge. As we have 
+explained in our brief (at 18-27) for the petitioner in St. Cyr, 
+that ruling is in error. The court’s conclusion that atiens 
+may challenge their removal orders in district court is 
+contrary to Congress’s unmistakable design of the judicial- 
+review provisions of the INA, which is to channel al] 
+
+
+had been a Communist only before the statute’s enactment); Harisiades v. 
+Shaughnessy, 342 U.S. 580, 593-596 (1952) (similarly upholding application 
+of 1940 statute requiring deportation of any person who had been a mem- 
+ber of the Communist Party, even in the past); Mahler v. Eby, 264 U.S. 32, 
+34, 39 (1924) (upholding deportation under 1920 statute of alien convicted 
+in 1918 under the Espionage Act); see also St. Cyr Gov't Br. 39-41. 
+
+
+26 
+
+
+challenges to removal orders into the courts of appeals. In 
+Section 401(e) of AEDPA (see id. at 19) and in the new 
+judicial-review provisions enacted in IIRIRA (see id. at 19- 
+21), Congress eliminated the district courts’ authority to 
+review final removal orders on habeas corpus, and required 
+that such review be had, if at all, only in the courts of appeals 
+on petition for review—subject only to one express and very 
+narrow exception (which is inapplicable here) for aliens 
+without documentation who are stopped at the border and 
+placed in expedited-removal proceedings there (see id. at 
+20). We refer the Court to the discussion of that issue in our 
+brief in St. Cyr, and add the following points: 
+
+1. Petitioners argue (Br. 17) that Section 1252(a)(2)(C) by 
+its terms restricts only “judicial review” of aggravated 
+felons’ removal orders and need not be read also to prevent 
+the courts from reviewing those removal orders by “habeas 
+corpus,” which, petitioners maintain, is a concept entirely 
+separate from that of “judicial review.” That argument 
+ignores the text of Section 1252(a)(2)(C) itself as well as the 
+text and structure of both Section 1252 as a whole and its 
+predecessor, 8 U.S.C. 1105a(a) (1994). 
+
+As an initial matter, the preclusion of review in Section 
+1252(a)(2)(C) does not even use the term—“judicial review” 
+—that petitioners insist is a term of art that implicitly 
+excludes habeas corpus. Rather it provides broadly that “no 
+court shall have jurisdiction to review” a removal order 
+entered against an alien who is removable by reason of 
+having committed one of the specified criminal offenses. 
+Section 1252(a)(2)(C) thus prohibits any court (not just the 
+court of appeals) from reviewing in any manner (not only by 
+“judicial review”) removal orders entered against aggra- 
+vated felons. See St. Cyr Gov’t Br. 26-27. 
+
+In any event, petitioners’ argument that Congress used 
+the term “judicial review” in a manner that excludes habeas 
+corpus is refuted by numerous features of Section 1252 and 
+its predecessor. Section 1252(a)(2)(C) is placed within Sec- 
+
+
+27 
+
+tion 1252(a), which provides (at Section 1252(a)(1)) that 
+“[jJudicial review of a final order of removal * * * jg gov- 
+erned only” by the procedures of the Hobbs Act, which 
+require such review to proceed in the courts of appeals. As 
+we explain in our brief (at 25-27) in St. Cyr, that incor- 
+poration of the Hobbs Act’s exclusive-review provisions for 
+“judicial review” of administrative orders necessarily pre- 
+cludes district court review of removal orders, by habeas 
+corpus or otherwise. The INA, at least since 1961, has 
+consistently treated “habeas corpus” as one of the forms of 
+“judicial review” of removal orders that might be available."4 
+Accordingly, in light of Congress’s consistent usage in the 
+immigration laws, a categorical prohibition in the INA 
+against “judicial review” of removal orders against aggra- 
+vated felons necessarily encompasses a prohibition against 
+review of such orders by habeas corpus. 
+
+Petitioners’ reliance (Br. 20-22) on Heikkila v. Barber, 345 
+U.S. 229 (1953), to establish that “judicial review,” as used in 
+IIRIRA’s amendments to the INA, does not include habeas 
+corpus is wide of the mark. In Heikkila, the Court held that 
+a challenge to a deportation order could not proceed under 
+the APA, in light of Section 10 of the APA (now codified at 5 
+U.S.C. 701(a)(1)), which established an exception to the 
+APA’s general right of review when “statute[s] preclude[] 
+judicial review.” The statute that the Court held to preclude 
+judicial review was Section 19(a) of the Immigration Act of 
+1917, which made the decision of the Attorney General 
+
+
+4 Tn 1961, for example, Congress provided that “any alien held in cus- 
+tody pursuant tc an order of deportation may obtain judicial review 
+thereof by habeas corpus proceedings.” 8 U.S.C. 1105a(a)(10) (1994) 
+(emphasis added); see also 8 U.S.C. 1105a(b) (1994) (alien subject to a final 
+order of exclusion “may obtain judicial review of such order by habeas 
+corpus proceedings and not otherwise”) (emphasis added). In IIRIRA 
+itself, Congress provided that one narrow class of aliens, those placed in 
+expedited-removal proceedings at the border, could obtain “judicial 
+review” of their removal orders in habeas corpus proceedings. 8 U.S.C. 
+1252(e)(2)(Supp. V 1999). See St. Cyr Gov't Br. 25-27. 
+
+
+28 
+
+
+“final” as to deportation orders and had been held to bar 
+judicial examination of the validity of a deportation order 
+except by habeas corpus. 345 U.S. at 231-236. The Court 
+concluded that the 1917 Act did indeed “preclud[e] judicial 
+review,” within the meaning of Section 10 of the APA, even 
+though some judicial testing of the validity of the deporta- 
+tion order remained available on habeas corpus and so “the 
+finality of [the] administrative decision [was not] absolute.” 
+Id. at 235-236. 
+
+Heikkila held that a total bar to judicial scrutiny of an ad- 
+ministrative order was not necessary to find a “preclu[sion]” 
+of judicial review under the APA. And Heikkila did assume 
+that, in determining whether a statute “preclud[es] judicial 
+review,” within the meaning of the APA, Congress meant 
+the courts to compare the scope of review that remains 
+available under a statute that allows only limited scrutiny to 
+the full-scope of “judicial review” that would otherwise be 
+available under the APA." But it does not follow that every 
+time that Congress uses the term “judicial review,” it nec- 
+essarily excludes habeas corpus from its scope. 
+
+As we have explained (pp. 5-6, 27, supra), Congress in 
+1961 enacted a self-contained mechanism for judicial review 
+of deportation orders that specifically included habeas 
+corpus in some circumstances and expressly identified such 
+access to habeas corpus in those circumstances as “judicial 
+review.” Moreover, Congress understood the 1961 amend- 
+ments to the INA, including the provisions for habeas corpus 
+review, to “implement[] and applly]” Section 10 of the APA, 
+which provided that “(t]he form of proceeding for judicial 
+review shall be any special statutory review proceeding 
+relevant to the subject matter in any court specified by 
+
+
+15 See Heikkila, 345 U.S. at 236 (“To review those requirements under 
+the Constitution, whatever the intermediate formulation of their consti- 
+tuents, is very different from applying a statutory standard of review, e.¢., 
+deciding ‘on the whole record’ whether there is substantial evidence to 
+support administrative findings of fact under § 10(e).”). 
+
+
+FE REG NOR AALS Oe ae 
+
+
+29 
+
+
+statute.” See H.R. Rep. No. 1086, swpra, at 11, 27. Indeed, 
+Section 10 of the APA, now codified at 5 U.S.C. 703, also 
+provided that the form of proceeding for “judicial review” 
+under the APA may be any applicable form of legal action, 
+including “actions for * * * writs of * * * habeas 
+corpus.” 
+
+Thus, when Congress provided in Section 1252(a)(1) that 
+“[jludicial review of a final order of removal” shall be had 
+only in the court of appeals, see 8 U.S.C. 1252(a)(1) (Supp. V 
+1999), it precluded district court review of removal orders by 
+habeas corpus. That conclusion is confirmed by 8 U.S.C. 
+1252(b)(9) (Supp. V 1999), which provides that “{jJudicial 
+review of all questions of law and fact, including interpre- 
+tation and application of * * * statutory provisions” arising 
+out of a removal order, “shall be available only” in a pro- 
+ceeding for review brought in the court of appeals under 
+Section 1252 itself. (Emphasis added.) Section 1252(b)(2) 
+therefore necessarily precludes a district court on habeas 
+corpus from reviewing the questions of law petitioners seek 
+to raise here regarding the application of former Section 
+1182(c) to their cases. And when Congress further provided 
+in Section 1252(a)(2)(C) that, “[n]Jotwithstanding any other 
+provision of law,” “no court” shall “review” removal orders 
+entered against aggravated felons, it barred such review by 
+both the courts of appeals, on petitions for review under Sec- 
+tion 1252 itself, and the district courts, whether on habeas 
+corpus under 28 U.S.C. 2241 or otherwise. 
+
+
+16 Indeed, Congress made clear that Section 1105a was intendad to 
+create “a single, separate, statutory form of judicial review of administra- 
+tive orders for the deportation and erclusion of aliens from the United 
+States.” H.R. Rep. No. 1086, supra, at 22 (emphasis added). The refer- 
+ence to “exclusion” of aliens is significant, because, as explained above 
+(p. 27 note 14, supra), the 1961 amendments to the INA provided that 
+“judicial review” of exclusion orders should proceed only by habeas 
+corpus. Congress thus plainly understood habeas corpus review of exclu- 
+sion orders to be a form of “judicial review of administrative orders.” 
+
+
+30 
+
+
+2. Relying on Felker v. Turpin, 518 U.S. 651 (1996), and 
+Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869), petitioners fur- 
+ther argue (Br. 17-18) that, to divest the district courts of 
+their authority-to review a deportation order by habeas cor- 
+pus, Congress must expressly mention “habeas corpus” (or 
+perhaps 28 U.S.C. 2241), and that Congress did not do so in 
+IIRIRA. In fact, however, Congress did expressly mention 
+habeas corpus in IIRIRA. In Section 1252, Congress author- 
+ized the district courts to review removal orders by habeas 
+corpus, but only in the case of aliens who are stopped at the 
+border without documentation and placed in expedited- 
+removal proceedings under 8 U.S.C. 1225(b)(1) (Supp. V 
+1999). See p. 8 note 7, p. 24 note 27, supra. Congress thus 
+specified exactly the kinds of removal orders that may be 
+reviewed by habeas corpus, and necessarily precluded 
+review of any other removal orders by the same means. 
+
+Moreover, neither Felker nor Yerger holds that Congress 
+must use the words “habeas corpus” or “Section 2241” to 
+preclude review by those means, when such preclusion of 
+review is the unmistakable conclusion that must be drawn 
+from Congress’s statutory scheme. Felker and Yerger held 
+that, when Congress specifically divested this Court of its 
+appellate jurisdiction to review habeas corpus proceedings 
+but did not expressly address (either by explicit mention of 
+habeas corpus or in categorical terms that included habeas 
+corpus) the Court’s original jurisdiction to entertain habeas 
+corpus petitions—which jurisdiction was based in a separate 
+statutory provision—the Court would not read the restric- 
+tion in the former statutory source of jurisdiction to reach 
+over into the latter by implication. See Felker, 518 U.S. at 
+660-661 (explaining that this Court’s original and appellate 
+jurisdiction in habeas corpus matters are based in different 
+statutes). In IIRIRA, by contrast, Congress has placed all 
+of the courts’ authority to review removal orders in one 
+place, Section 1252, and has made clear as a categorical 
+matter in that very same place that all such review must 
+
+
+31 
+
+
+proceed only in the courts of appeals, except as otherwise 
+provided in Section 1252 itself. See pp. 10-11, supra. The 
+necessary conclusion from that categorical preclusion is that 
+a district court may not review the merits of a final order of 
+removal, whether by habeas corpus or otherwise. 
+
+
+Il. THE PRECLUSION OF REVEEW OF PETITIONERS’ 
+CHALLENGES TO THEIR REMOVAL ORDERS IS 
+CONSTITUTIONAL 
+
+
+Petitioners argue (Br. 22-42) that the Constitution re- 
+quires a judicial forum for their contention that the Attorney 
+General may grant them discretionary relief from deporta- 
+tion under former Section 1182(c). In particular, they con- 
+tend that a congressional preclusion of judicial review of that 
+question would violate the Suspension of Habeas Corpus 
+Clause of Article 1, Section 9, the Due Process Clause of the 
+Fifth Amendment, and Article III. Those contentions are 
+without merit. As we now show, the Constitution does not 
+prohibit Congress from committing to the Attorney General 
+the authority to determine whether, as a categorical matter, 
+certain classes of aliens should be eligible for discretionary 
+relief from deportation. 
+
+
+A. Preclusion Of Judicial Review Of A Non-Constitutional 
+Claim That The Attorney General Has And Should 
+Exercise Discretion To Waive Deportation Is Not A 
+Suspension Of Habeas Corpus 
+
+
+1. Petitioners place primary reliance (Br. 29-34) on the 
+Suspension Clause, which, they contend, requires the avail- 
+ability of judicial review of any statutory as well as constitu- 
+tional issue arising in connection with an alien’s removal 
+from the United States. Petitioners argue (ibid.) that, at 
+English common law before 1789, the writ of habeas corpus 
+was available to review the legality of an individual’s deten- 
+tion. Accordingly, they contend, a provision that deprives 
+the courts of authority to adjudicate a statutory question 
+bearing on the deprivation of an alien’s liberty would con- 
+
+
+32 
+
+
+stitute a “suspen[sion]” of the “Privilege of the Writ of 
+Habeas Corpus,” in violation of Article I, Section 9. 
+
+The fundamental flaw in that argument is that petitioners 
+are unquestionably removable based on their aggravated- 
+felony convictions and are seeking the exercise of the 
+Attorney General’s power to grant discretionary relief from 
+deportation. Indeed, this Court has described the Attorney 
+General’s discretionary power to grant a dispensation from 
+deportation as “an act of grace” accorded to his “unfettered 
+discretion,” similar to “a judge’s power to suspend the execu- 
+tion of a sentence, or the President’s to pardon a convict.” 
+INS v. Yueh-Shaio Yang, 519 U.S. 26, 30 (1996); see also Jay 
+v. Boyd, 351 U.S. 345, 354 (1956); United States ex rel. 
+Kaloudis v. Shaughnessy, 180 F.2d 489, 491 (2d Cir. 1950) 
+(L. Hand, J.). Moreover, although in this case the BIA 
+determined as a matter of statutory construction that these 
+petitioners were ineligible for relief under Section 1182(c), 
+the Attorney General (or the BIA) could also have exercised 
+discretion to determine as a matter of policy that—in light of 
+Congress’s increasingly restrictive treatment of aliens con- 
+victed of aggravated felonies and its preclusion of cancella- 
+tion of removal for such aliens in IIRIRA—no alien who was 
+convicted of such an aggravated felony should receive relief 
+under Section 1182(c), whether or not he was theoretically 
+eligible for such relief under that statute." 
+
+In addition, as we have explained in our brief (at 43-45) in 
+St. Cyr, the language and history of former Section 1182(c) 
+make clear that Congress framed that provision, not as a 
+“right” on the part of the alien to seek or obtain relief from 
+deportation, but rather as an authorization to the Attorney 
+General to grant such dispensation when he believed it was 
+
+
+17 See Yang, 519 U.S. at 31 (statutory eligibility for discretionary relief 
+from deportation “in no way limits the considerations that may guide the 
+Attorney General in exercising her discretion to determine who, among 
+those eligible, will be accorded grace”). 
+
+
+33 
+
+
+“justified by the alien’s circumstances. Section 1182(c) pro- 
+vided that certain lawful permanent resident aliens “may be 
+admitted in the discretion of the Attorney General” without 
+regard to various provisions of Section 1182(a) that render 
+an alien excludable and therefore require the Attorney 
+Genera! to deny admission to such an alien. The predecessor 
+to Section 1182(c), the Seventh Proviso to Section 3 of the 
+1917 Act, was similarly framed in terms of the immigration 
+authorities’ discretion to waive exclusion of aliens in light of 
+humanitarian circumstances. See p. 2, swpra. Absent from 
+the background and legislative history of Section 1182(c) and 
+its predecessor is any indication that Congress intended 
+therein to create a “right” in the alien to be considered for 
+relief from deportation. 
+
+Thus, this is not a case in which the courts are called upon 
+to determine whether the Attorney General has no author- 
+ity to detain an individual—the paradigm of the cases in 
+which English common law courts granted habeas corpus. 
+See pp. 33-34, infra. The Attorney General unquestionably 
+has legal authority to detain and remove petitioners, for they 
+have been properly found to be removable under standards 
+set forth in congressional enactments. 
+
+2. A review of English common law cases does not 
+support a conclusion that a writ of habeas corpus would issue 
+in the circumstance where, as in this case, an official had 
+statutory authorization to detain the individual seeking relief 
+but that individual contended that the official was not 
+properly exercising his discretionary power to determine 
+whether the individual should be released. Analyses of the 
+common law origins of the writ of habeas corpus vary 
+considerably in their treatments of that subject, but most 
+writers agree that the writ acquired its classic form in the 
+17th century, during the struggle for power between Charles 
+I and Parliament. Before that time, common law courts had 
+used the writ principally to protect their jurisdiction against 
+incursions from other courts, and would not issue the writ 
+
+
+34 
+
+
+when the return showed that the petitioner was confined by 
+order of the monarch or the Privy Council." After Darnel’s 
+Case (1627), 3 State Trials 1 (1816), in which the Court of 
+King’s Bench declined to issue the writ when the return 
+showed that the prisoner was held by special command of 
+the monarch, Parliament proposed and Charles I accepted 
+the Petition of Right, which abolished the monarch’s power 
+to imprison by special command without showing cause.” 
+And following Chambers’s Case, 79 Eng. Rep. 746 (K.B. 
+1629), in which the King’s Bench declined to issue the writ 
+for the benefit of a prisoner committed by the Star Chamber 
+on the ground that the Star Chamber was itself a high court 
+of justice, Parliament passed the Habeas Corpus Act of 1641, 
+which abolished the Star Chamber and set forth the basic 
+principles for issuance of the writ. The 1641 Act provided 
+that, when an individual detained by order of the monarch or 
+Privy Council sought the writ of habeas corpus, the 
+custodian was required by return to “certify the true cause 
+of such * * * imprisonment, and thereupon the court * * * 
+shall proceed to examine and determine whether the cause of 
+such commitment appearing upon the return be just and 
+legal, or not.””” 
+
+The 1641 Act only established, however, that common law 
+courts could require a custodian to demonstrate that he had 
+
+
+18 See William F. Duker, A Constitutional History of Habeas Corpus 
+33-43 (1980); 9 W.S. Holdsworth, A History of English Law 112-113 (1926); 
+Jonathan L. Hafetz, Note, The Untold Story of Noncriminal Habeas 
+Corpus and the 1996 Immigration Acts, 107 Yale L.J. 2509, 2521 (1998); 
+Dallin H. Oaks, Legal History in the High Court—Habeas Corpus, 64 
+Mich. L. Rev. 451, 460 (1966); Robert S. Walker, The Constitutional and 
+Legal Development of Habeas Corpus as the Writ of Liberty 47-76 (1960). 
+
+19 See Maxwell Cohen, Habeas Corpus Cum Causa—The Emergence 
+of the Modern Writ—I, 18 Can. B. Rev. 10, 38-40 (1940); Duker, supra, at 
+45; R.J. Sharpe, The Law of Habeas Corpus 9-13 (1976). 
+
+~~ Duker, supra, at 47 (quoting 1641 Act); see also Developments in the 
+Law--Federal Habeas Corpus, 83 Harv. L. Rev. 1038, 1044 (1970); 
+9 Holdsworth, supra, at 115; Sharpe, supra, at 15. 
+
+
+35 
+
+
+some basis in law to hold the detained person.” The 1641 
+Act did not provide, and English decisions before 1789 did 
+not hold, that the writ would issue on an allegation that 
+officials were improperly exercising or declining to exercise 
+their discretion to waive or dispense with their legal author- 
+ity to detain the prisoner. Although it has been suggested 
+that common law courts would issue the writ on a showing of 
+abuse of official discretion, see Jonathan L. Hafetz, Note, 
+The Untold Story of Noncriminal Habeas Corpus and the 
+1996 Immigration Acts, 107 Yale L.J. 2509, 2524, 2530, 2534 
+(1998), the evidence cited for that suggestion is quite thin.~ 
+For example, in Hetley v. Boyer, 79 Eng. Rep. 287 (K.B. 
+1613), in which the King’s Bench ordered the release of a 
+prisoner who had been confined by the Commissioners of 
+Sewers, apparently in retaliation for his having previously 
+brought a successful action challenging the commissioners’ 
+assessment, the court ordered Hetley’s release on the 
+
+
+“I See 1 William Blackstone, Commentaries on the Laws of England 
+132-133 (1765) (facsimile ed. 1979) (“To make imprisonment lawful, it must 
+either be, by process from the courts of judicature, or by warrant from 
+some legal officer, having authority to commit to prison; which warrant 
+must be in writing, under the hand and seal of the magistrate, and ex press 
+the causes of the commitment, in order to be examined into (if neces sary) 
+upon a habeas corpus.”); 9 Holdsworth, supra, at 120 (noting that, during 
+House of Lords’ examination of habeas corpus in 1758, the judges in- 
+formed the Lords that on habeas corpus the court was “concerned, not 
+with the truth of the return, but with its sufficiency in point of law to 
+justify a detention”); Opinion on the Writ of Habeas Corpus, 97 Eng. Rep. 
+29, 42 (1758) (Wilmot, J., advising the House of Lords that a prisoner 
+would not be discharged “in case the facts averred in the return to « writ 
+of habeas corpus, are sufficient in point of law to justify the restraint”); 
+Dallin H. Oaks, Habeas Corpus in the States—1776-1865, 32 U. Chi. L. 
+Rev. 243, 244-245 (1965) (“At common law * * * the use of the Great 
+Writ against official restraints was simply to ensure that a person wis not 
+held without formal charges.”). 
+
+~ Petitioners specifically do not argue that discretionary determina- 
+tions must be subject to review on habeas corpus (see Br. 24-25), and 
+8 U.S.C. 1252(a)(2)(B) (Supp. V 1999) expressly forecloses all ju licial 
+review of most such actions. 
+
+
+36 
+
+
+ground that that confinement was unjustified and was “in 
+direct opposition to the authority and judgment of this 
+Court” in the prior action. Jd. at 287. Although the court 
+reiterated its finding in the prior action that the assessment 
+was invalid because it was intended to punish one person in 
+the village, it did not issue the writ because the confinement 
+was an abuse of discretion, but rather because it defied the 
+court’s prior judgment. ~ 
+
+In Ex parte Boggin, 104 Eng. Rep. 484 (K.B. 1811), in 
+which the legality of a sailor’s impressment was at issue, the 
+court referred in a footnote to a prior case before the court, 
+involving one Chalacombe, in which the petitioner had con- 
+tended that he had been impressed in contravention of 
+Admiralty policy against impressment of persons in the coal 
+and coasting trades. Jd. at 484 n.(a)2. The Admiralty in 
+Chalacombe’s case argued that the writ should not issue 
+because the Admiralty’s policy not to impress such persons 
+was a matter of “grace and favour,” and not of right. 
+Although the court directed the Admiralty to state its 
+justification for its confinement of Chalacombe in a return to 
+the writ, Lord Chief Justice Ellenborough also observed 
+that, “[cJonsidering it merely as a question of discretion, is it 
+not more fit that this should stand over for the consideration 
+of the Admiralty, to whom the matter ought to be 
+disclosed?” Ibid. (Because the Admiralty later decided in its 
+discretion to release Chalacombe, the matter was never 
+decided by the court. [bid.)” 
+
+
+3 Goldswain’s Case, 96 Eng. Rep. 711 (C.P. 1778) (cited at Hafetz, 
+supra, at 2525 n.117) involved a bargeman who was impressed by order of 
+the Admiralty while he was ferrying timber to the royal timber-yard 
+under “the faith of a protection from the Navy Board,” effectively grant- 
+ing him immunity from impressment during that service. Jbid. Although 
+Goldswain did not have a statutory immunity from impressment, the court 
+suggested that the case involved bad faith or the part of the Admiralty 
+(and perhaps an attempt by the Admiralty to obtain a court test of the 
+authority of the Navy Board to grant such protection), warned the Admi- 
+ralty that it would consider discharging Goldswain because of that appar- 
+
+
+37 
+
+
+The absence of cases testing officials’ discretion to corifine, 
+or dispense with confinement of, a prisoner may reflec* the 
+fact that “[t]he concept of ‘discretion’ was not well developed 
+at common law.” Hafetz, swpra, at 2534. For that very rea- 
+son, however, lawyers familiar with the common law in 1789 
+would not have understood that the writ would issue based 
+on an allegation that an official had improperly declined to 
+exercise his discretion not to act on his unquestioned legal 
+authority to take an individual into custody. Petitioners’ 
+claim to habeas corpus, therefore, has no root in the soil of 
+English common law. 
+
+3. Petitioners also argue (Br. 22-29) that judicial review 
+of their challenges to-their removal orders is compelled by 
+the Suspension Clause because (a) this Court stated in 
+Heikkila that Congress, in pre-1952 immigration statutes, 
+had made administrative decisions “nonreviewable to the 
+fullest extent possible under the Constitution,” 345 U.S. at 
+234-235, and yet (b) during the operation of those pre-1952 
+statutes, courts sometimes reviewed aliens’ claims that ad- 
+ministrative officials had erred in finding them ineligible for 
+discretionary relief from deportation. Therefore, petitioners 
+argue, because the courts considered those claims on habeas 
+corpus, judicial review to that extent must have been consti- 
+tutionally compelled, and so elimination of the opportunity 
+for judicial review of such claims would be unconstitutional. 
+
+Petitioners’ reliance on the dictum in Heikkila is flawed 
+for several reasons.” First, Heikkila itself involved a consti- 
+
+
+ent bad faith, and suggested that the Admiralty reconsider the propriety 
+of its impressment of Goldswain. Jd. at 712. The Admiralty, taking the 
+court’s hint, decided to release Goldswain. Jd. at 713. Goldswain’s Case 
+did not involve a charge of abuse of an official’s discretion not to take an 
+individual into custody, but rather a violation of the principle that indivi- 
+duals may rely on official assurances that their conduct is legally protected 
+—a “traditional notion|] of fairness” in our justice system. Cf. United 
+States v. Pennsylvania Indus. Chem. Corp., 411 U.S. 655, 674 (1973). 
+
+“4 The language in Heikkila relied on by petitioners was unnecessary 
+to the holding of that case, which was that aliens could not seek judicial 
+
+
+38 . 
+
+
+tutional challenge to a provision that made membership in 
+the Communist Party per se a ground for deportation. 
+345 U.S. at 230. A three-judge court dismissed the case, and 
+this Court affirmed on the ground that the validity of the 
+deportation order entered against Heikkila under that 
+provision could be tested only on habeas corpus, and not in 
+an action under Section 10 of the APA. The Court reasoned 
+that the finality provision of the 1917 Act precluded judicial 
+review within the meaning of the APA. See id. at 232-237. 
+The claim in Heikkila therefore fell squarely within the 
+traditional scope of habeas corpus, because it challenged the 
+constitutionality of the statute under which the alien was 
+ordered deported and restrained of his liberty. The decision 
+therefore lends no support to petitioners’ argument that the 
+Suspension Clause requires review on habeas corpus of their 
+non-constitutional claim concerning discretionary relief 
+from deportation. indeed, in describing the scope of habeas 
+corpus, the Court stated that, “[rjegardless of whether or 
+not the scope of inquiry on habeas corpus has been ex- 
+
+
+review of their deportation orders under the APA, but were remitted to 
+the more restrictive remedies of habeas corpus proceedings. See 345 U.S. 
+at 233-235. Although, as we explain in the text, the Court relied on the 
+fact tnat the scope of judicial review under the APA was significantly 
+broader than the review available in habeas corpus proceedings, see id. at 
+236, that would have been true even if the review available on habeas 
+corpus was in turn broader than the scope of review required by the 
+Constitution itself. 
+
+Amicus ABA observes (Br. 12-13) that, in Fong Yue Ting v. United 
+States, 149 U.S. 698, 713 (1893), the Court stated that “[t he power to 
+exclude or to expel aliens” is subject to exclusive legislative and executive 
+contrcl, “except so far as the judicial department has been authorized by 
+treat) or by statute, or is required by the paramount law of the Consti- 
+tution, to intervene.” That case, however, did not involve the scope of the 
+writ of habeas corpus. Moreover, the question in this case is not whether 
+(as the Court suggested in Foug Yue Ting) some judicial review of depor- 
+tation orders is required by the Constitution; rather it is whether the 
+Constitution requires judicial review specifically of determinations about 
+an alien's eligibility for discretionary relief from deportation—a matter 
+that was not at issue in Fong Yue Ting. 
+
+
+————— 
+
+
+39 
+
+
+panded, the function of the courts has always been limited to 
+the enforcement of due process requirements.” Id. at 236. 
+“To review those requirements under the Constitution,” the 
+Court continued, “whatever the intermediate formulation of 
+their constituents, is very different from applying a statu- 
+tory standard of review” under the APA. Ibid. 
+
+Second, even if Congress did, in the pre-1952 immigration 
+statutes, limit judicial review to the constitutional minimum 
+required by the Suspension Clause, it does not follow that 
+the Court must now conclude that, in every case in which the 
+Court considered a legal issue on habeas corpus under those 
+statutes, review of that issue on habeas corpus was constitu- 
+tionally compelled—especially if the Court did not address in 
+such a case either the scope of its habeas corpus jurisdiction 
+or the scope of judicial review required by the Constitution. 
+For example, petitioners cite (Br. 25) United States ex rel. 
+Accardi v. Shaughnessy, 347 U.S. 260 (1954), as the instance 
+in which the Court held on habeas corpus that the BIA failed 
+to exercise its own discretion in ruling on an application for 
+discretionary relief and reversed the denial on that ground. 
+Put the Court reversed the lower courts’ summary denial of 
+the writ in Accardi only because of allegations of a deliber- 
+ate circumvention of established procedures and prejudg- 
+ment by the BIA in the case. See id. at 266-269. The Court 
+did not undertake to delineate the scope of the writ of habeas 
+corpus, and it certainly did not state that habeas co“pus 
+review in that case was compelled by the Constitution. This 
+Court has never considered itself bound by such sub sile ntio 
+assertions of jurisdiction. See Steel Co. v. Citizens fora 
+Better Env’t, 523 U.S. 83, 91 (1998); Pennhurst State Sch. & 
+Hosp. v. Halderman, 465 U.S. 89, 119 (1984). 
+
+
+~ Petitioners also cite (Br. 25) Jay v. Boyd, supra, as a case in which 
+the Court ruled that the alien had a “right to a ruling on [his] eligibility” 
+for discretionary relief from deportation. Jay is inapposite for several rea- 
+sons. First, the Court once again did not address the scope of review by 
+habeas corpus that may be required by the Suspension Clause. Secor d, no 
+
+
+40 
+
+
+Third, although this Court’s immigration decisions under 
+pre-:.952 law do not expressly state the source of the courts’ 
+authority to grant habeas corpus, that authority was pre- 
+sumably the Habeas Corpus Act of 1867, ch. 28, § 1, 14 Stat. 
+385-386; see Rev. Stat. §§ 751-766 (1875).% The scope of 
+review authorized by the 1867 Act, however, was much 
+broader than that authorized by Congress’s original provi- 
+sion for habeas corpus in the Judiciary Act of 1789, ch. 20, 
+§ 14, 1 Stat. 81-82.°° Whereas the 1867 Act authorized the 
+courts to grant the writ “in all cases where any person may 
+be restrained of his or her liberty in violation of the con- 
+
+
+issue was presented in that case concerning the alien’s statutory eligibility 
+for discretionary relief; the BIA found in that case that Jay was eligible 
+for relief, and Jay did not challenge any aspect of that determination. Jd. 
+at 352-353. Rather, Jay challenged the BIA’s exercise of its discretion to 
+deny nim relief based on confidential information, and the Court rejected 
+that challenge. Jd. at 353-356. Third, although the Court described the 
+applicable statutory provisions as providing a right to a ruling on eligibil- 
+ity, it did not suggest that every provision of an immigration statute that 
+confers on the Attorney General the discretionary power to grant dispen- 
+sation from deportation must be held to confer a personal right of the sort 
+that the Constitution requires the courts to review on habeas corpus-- 
+even where, as here, Congress has in the very same law foreclosed judicial 
+review of such a claim. Indeed, the fact that Congress has precluded 
+judicial review of petitioners’ claim here is a powerful indication that it did 
+not intend to confer such a right in the first place. Finally, although Jay v. 
+Boyd technically arose on habeas corpus proceedings (see id. at 347), it 
+was governed by the INA of 1952, which allowed much more extensive 
+review of immigration decisions than had been the case in habeas corpus 
+proceedings under pre-1952 law. See Heikkila, 345 U.S. at 236. (Simi- 
+larly, Dessalernos v. Savoretti, 356 U.S. 269 (1958), cited by amicus ABA 
+(Br. 21), is inapposite because that case also arose under the INA of 1952.) 
+
+
+°6 The Court has long understood its authority to grant habeas corpus 
+to rest in statutory enactments. See Ex parte Bollman, & U.S. (4 Cranch) 
+75, 93 (1807); Lonchar v. Thomas, 517 U.S. 314, 324, 326 (1996). 
+
+“7 See Felker, 518 U.S. at 659 (noting that “Congress greatly expanded 
+the scope of federal habeas corpus in 1867”); Ex parte McCardle, 73 U.S. 
+(6 Wall.) 318, 325-326 (1867) (observing of 1867 Act that “[i]t is impossible 
+to widen this jurisdiction”); 1 James S. Liebman & Randy Hertz, Federal 
+Habeus Corpus Practice and Procedure 47-48 (3d ed. 1998) (discussing 
+1867 Act’s widening of scope of habeas corpus). 
+
+
+41 
+
+
+stitution, or any treaty or law of the United States,” 14 Stat. 
+385, the 1789 Act provided only that federal judges had 
+“power to grant writs of habeas corpus for the purpose of an 
+inquiry into the cause of commitment.” 1 Stat. 82. The 1789 
+Act thus echoed the common law and the 1641 Act in 
+requiring only an inquiry into whether the custodian had 
+some legal basis for the detention of the petitioner.” The 
+1789 Act, nearly contemporaneous with the ratification of 
+the Constitution, is presumably the more reliable indicator of 
+the Framers’ understanding of the minimum scope of judicial 
+review required by the Suspension Clause. Thus, even if 
+this Court did, under pre-1952 law, construe the Habeas Cor- 
+pus Act of 1867 to reach claims like those presented by peti- 
+tioners here, it would not follow that the Suspension Clause 
+required a judicial forum for such claims. 
+
+Fourth, as we have explained in our brief in St. Cyr (at 28- 
+29), in its pre-1952 decisions, this Court held that four kinds 
+of challenges could be raised on habeas corpus: (1) claims 
+that a person alleged to be an alien was in fact a citizen; (2) 
+claims that the alien’s case did not fall within one of the 
+statutory categories providing for deportation or exclusion 
+claims; (3) claims that the alien had been deprived of a fun- 
+damentally fair administrative proceeding; and (4) claims 
+that the administrative officer’s finding of deportability was 
+completely without supporting evidence and was therefore 
+violative of due process.” This case does not fall within any 
+
+
+See Lewis Mayers, The Habeas Corpus Act of 1867: The Supreme 
+Court as Legal Historian, 33 U. Chi. L. Rev. 31, 47 (1965) (noting that, 
+before 1867, “(t]he sole question before the court was the formal legality of 
+the detention”); see also Ex parte Watkins, 32 U.S. (7 Pet.) 568, 573-574, 
+577-579 (1833) (granting habeas corpus because petitioner was invalidly 
+detained for nonpayment of fine pursuant to civil process, but also holding 
+that writ could not be granted based on petitioner's contention tha: fine 
+imposed was unconstitutionally excessive). 
+
+~ See, e.g., Tod v. Waldma n, 266 U.S. 113, 118 (1924), modified, 266 
+U.S. 547 (1925); Ng Fung Ho v. White, 259 U.S. 276, 283-284 (1922); Kwock 
+
+. Jan Fat v. White, 253 U.S. 454, 458 (1920); Gegiow v. Uhl, 239 U.S. 3, 9 
+
+
+42 
+
+
+of those categories, for petitioners concededly are removable 
+aliens and have made no claim that their removal 
+proceedings were fundamentally unfair. Moreover, ITRIRA 
+permits judicial review of all four kinds of challenges. As we 
+have explained (pp. 22-23, supra), even under Section 
+1252(a)(2)(C), the court of appeals has jurisdiction to deter- 
+mine whether a petitioner challenging a removal order is an 
+alien and whether he is removable. We have also explained 
+(pp. 23-24, supra) that Section 1252(a)(2)(C) should not be 
+read to preclude review of substantial constitutional chal- 
+lenges to removal orders. Accordingly, IIRIRA affords the 
+full scope of judicial review that this Court’s pre-1952 deci- 
+sions held were required to be heard on habeas corpus. 
+
+
+B. Neither The Due Process Clause Nor Article III Re- 
+quires A Judicial Forum For Petitioners’ Non- 
+Constitutional Claims 
+
+1. Petitioners argue (Br. 34-38) that the Due Process 
+
+Clause requires a judicial forum for consideration of their 
+
+
+(1915); Tang Tun v. Edsell, 223 U.S. 673, 681 (1912); Chin Yow v. United 
+States, 208 U.S. 8, 11-12 (1908). All of this Court’s decisions cited by peti- 
+tioners at Br. 22-24 fall into one of those four categories, with the possible 
+exception of United States ex rel. Mensevich v. Tod, 264 U.S. 134 (1924). 
+In that case, the petitioner alleged that his warrant of deportation was 
+invalid because it provided for his deportation to “Poland, the country 
+whence he came,” pursuant to the 1917 Act’s provision authorizing depor- 
+tation of aliens “to the country whence they came.” See id. at 136. The 
+petitioner contended that, because he had resided in a province of Russia 
+before his emigration to the United States (there having been no sover- 
+eign state of Poland at the time of his emigration), a warrant ordering his 
+deportation to Poland as “the country whence he came” was a nullity. The 
+claim, although rejected by the Court on the merits, was cognizable on 
+habeas corpus because it contended that the process pursuant to which the 
+petitioner was detained was invalid. Cf. Watkins, 32 U.S. (7 Pet.) at 577- 
+579 (holding that prisoner could not be detained for collection of fine after 
+return-day pursuant to civil process of capias ad satisfaciendum), The 
+Case of Pressing Mariners (1743), 18 State Trials 1323-1325 (1816) 
+(charging jury that attempted impressment of merchant seaman was 
+invalid because warrant required that impressment be executed by cap- 
+tain or lieutenant, neither of whom was present during attempt). 
+
+
+TOR Me NP RON METS AR a ne 8 
+
+
+43 
+
+
+contentions that the Attorney General erred in finding them 
+ineligible for discretionary relief from deportation. That 
+contention finds no basis in this Court’s immigration deci- 
+sions. Indeed, the Court long ago settled the matter to the 
+contrary: 
+
+
+Now, it has been settled that the power to exclude or 
+expel aliens belonged to the political department or the 
+Government, and that the order of an executive officer, 
+invested with the power to determine finally the facts 
+upon which an alien’s right to enter this country, or 
+remain in it, depended, was due process of law, and no 
+other tribunal, unless expressly authorized by law to do 
+So, was at liberty to re-examine the evidence on which he 
+acted, or to controvert its sufficiency. 
+
+
+The Japanese Immigrant Case, 189 U.S. 86, 100 (1903) 
+(internal quotation marks and citations omitted); see also 
+Carlson v. Landon, 342 U.S. 524, 537 (1952) (“No judicial 
+review is guaranteed by the Constitution.”). The Court has 
+stated that the removal proceeding itself must comport with 
+constitutional due process, and that judicial intervention 
+may be warranted under the “paramount law of the Con- 
+stitution” to correct departures from that constitutional 
+guarantee of fundamental fairness. See ibid. But the Court 
+has not held that judicial review. of non-constitutional 
+challenges to removal orders is required by the Due Process 
+Clause when (as in this case) the removal proceeding itself 
+was fundamentally fair. Much less has the Court required 
+judicial supervision as a constitutional matter when the 
+challenge, as here, is to the Attorney General’s determina- 
+tion about discretionary relief from deportation, which is 
+“manifestly not a matter of right under any circumstances, 
+but rather is in all cases a matter of grace.” Ja y v. Boyd, 351 
+USS. at 354. 
+
+Thus, the Due Process Clause does not prevent Congress 
+from committing to the Attorney General the authority to 
+
+
+44 
+
+
+make the final determination whether an alien is eligible for 
+discretionary relief from removal. The tradition of commit- 
+ting immigration decisions to administrative officials, the 
+consistency of removal proceedings with due process, and 
+the discretionary nature of relief from removal all distin- 
+guish this case from those in which, petitioners contend (Br. 
+36-39), this Court has stated that judicial review is required 
+as a matter of due process. In Honda Motor Co. v. Oberg, 
+512 U.S. 415 (1994), for example, the Court concluded that 
+due process requires judicial review of the amount of puni- 
+tive damages awards to ensure that such awards are not 
+grossly excessive. That case, however, depended on two 
+crucial factors: first, that the Constitution also prohibits 
+grossly excessive punitive damages (id. at 420), and second, 
+that punitive damages are assessed through the judicial 
+system, by a jury award. Thus, if the judiciary did not have 
+the power to review juries’ punitive damages awards, no 
+institution would be available to enforce the constitutional 
+guarantee against excessive damages. See id. at 482-433. 
+
+In Chicago, Milwaukee & St. Paul Railway Co. v. Minne- 
+sota, 134 U.S. 418, 458 (1890), and Phillips v. Commissioner, 
+283 U.S. 589, 595-598 (1931), the Court stated that due pro- 
+cess required judicial review of administrative determina- 
+tions about the reasonableness of common carriers’ trans- 
+portation rates and tax deficiency assessments, respectively. 
+In those cases, however, the crucial factor was that the 
+administrative procedures themselves were summary and 
+did not provide an opportunity for a hearing on a disputed 
+factual issue, a fundamental requisite of due process.” 
+
+
+“2 See Chicago, Milwaukee, 134 U.S. at 457 (noting that, before the 
+state commission, “[nJo hearing is provided for, no summons or notice to 
+the company before the commission has found what it is to find and 
+declared what it is to declare, no opportunity provided for the company to 
+introduce witnesses before the commission, in fact, nothing which has the 
+semblancé of due process of law”); Phillips, 283 U.S. at 595 (permitting 
+tax collection by summary administrative procedure provided that an 
+
+
+45 
+
+
+Accordingly, those cases simply establish variants of the 
+core due process requirement of notice and a hearing before 
+the final deprivation of a property interest. They do not 
+suggest that the Due Process Clause requires judicial review 
+of non-constitutional challenges to an administrative deter- 
+mination if, as here} the administrative proceeding itself is 
+fundamentally fair. 
+
+In ICC v. Brimson, 154 U.S. 447 (1894), the Court upheld 
+a provision of the Interstate Commerce Act that authorized 
+the ICC to obtain judicial enforcement of its orders requiring 
+the attendance of witnesses and the production of documents 
+in investigations against a challenge that such enforcement 
+devolved upon the federal courts tasks that were outside 
+their authority under Article III, and also stated (id. at 485) 
+that, under the Due Process Clause, the ICC would not have 
+authority to enforce its orders by imprisonment on its own. 
+Imprisonment, however, may well be a unique sanction that 
+requires some kind of judicial hearing. But even though 
+removal is undoubtedly a severe sanction, this Court has 
+never likened it to imprisonment, and the full panoply of due 
+process requirements applicable to criminal prosecutions 
+have never been required in removal proceedings. See, e.g., 
+Marcello v. Bonds, 349 U.S. 302, 311 (1955) (upholding con- 
+duct of deportation proceedings by special inquiry officer 
+who was subject to supervision and control of INS officials). 
+A fortiori, those requirements do not apply to the manner 
+for granting discretionary relief from removal. 
+
+2. Petitioners also contend (Br. 38-42) that Congress’s 
+preclusion of judicial review of their claims violates Article 
+III, Section 1’s commitment of the “judicial Power of the 
+United States” to the federal judiciary. This Court has long 
+made clear, however, that Congress may assign exclusive re- 
+
+
+opportunity for judicial review follows). Cf. McKesson Corp. v. Division 
+of Alcoholic Beverages & Tobacco, 496 U.S. 18, 37 (1990) (holding that, in 
+the unusual context of tax collection, a State may collect taxes by sum- 
+mary procedure provided that a full due process remedy is later available). 
+
+
+46 
+
+
+sponsibility for resolving controversies between the federal 
+government and individuals involving “public rights” to tri- 
+bunals lacking the attributes of Article III courts and 
+officers without the salary and tenure protections of Article 
+III judges. See Thomas v. Union Carbide Agric. Prods. Co., 
+473 U.S. 568, 583 (1985); Ex parte Bakelite Corp., 279 US. 
+438, 458 (1929); Murray’s Lessee v. Hoboken Land & Im- 
+provement Co., 59 U.S. (18 How.) 272, 284 (1856). In particu- 
+lar, when a matter is one that could be conclusively resolved 
+by the Legislative and Executive Branches, the Constitution 
+also permits Congress to commit the matter to an adversary 
+determination by officers other than Article III judges. See 
+Union Carbide, 473 U.S. at 589; Bakelite, 279 U.S. at 452- 
+453; cf. Northern Pipeline Constr. Co. v. Marathon Pipe 
+Line Co., 458 U.S. 50, 68 (1982) (plurality opnion). That is 
+precisely the situation here. Congress could have, in the 
+exercise of its constitutional powers over immigration, ex- 
+pressly provided in haec verba that no alien placed in 
+removal proceedings on or after April 1, 1997 would be 
+eligible for relief under Section 1182(c), regardless of the 
+date of his conviction; or it could have provided that no 
+aggravated felon whatever should receive such relief, 
+regardless of the date of conviction; or it could have pro- 
+vided, as it did before 1917, that no alien should receive dis- 
+cretionary relief from removal at all. The fact that the BIA 
+was required to engage in some interpretation of Congress’s 
+enactments to conclude that aliens placed in removal pro- 
+ceedings under IIRIRA may not receive relief under former 
+Section 1182(c) does not mean that an Article II] court must 
+be available to review that conclusion. 
+
+Petitioners suggest (Br. 38-39) that, while this Court has 
+allowed Congress to assign initial adjudication of a contro- 
+versy to a non-Article III actor, it has done so only on the 
+understanding that some form of Article III judicial review 
+of those determinations would follow. That reading of this 
+Court’s cases is simply incorrect. The Court has emphasized 
+
+
+47 
+
+
+the availability of ultimate Article III review when the 
+matter committed to initial administrative decision-making 
+involved private rights (especially private state-law rights) 
+that traditionally would have been submitted to the courts 
+for resolution." As the Court has explained, heightened 
+| Article III concerns are presented when Congress attempts 
+to “withdraw from judicial cognizance any matter which, 
+from its nature, is the subject of a suit at the common law, or 
+in equity, or admiralty” (Murray’s Lessee, 59 U.S. (18 How.) 
+at 284), because those are the cases that the Framers would 
+have understood to require judicial resolution. Cf. Northern 
+Pipeline, 458 U.S. at 90 (Rehnquist, J., concurring in the 
+judgment) (Article III requires judicial resolution of “the 
+traditional actions at common law tried by the courts at 
+Westminster in 1789”). No such contention can be made 
+here, for there was no tradition at English common law of 
+; judicial resolution of the rights of aliens to enter or remain in 
+the country.” Accordingly, Article III does not require a 
+judicial forum for resolution of petitioners’ non-constitutional 
+claims concerning discretionary relief from removal. 
+
+
+31 See CFTC v. Schor, 478 U.S. 833, 854 (1986) (“{W here private, com- 
+mon law rights are at stake, our examination of the congressional attempt 
+to control the manner in which those rights are adjudicated has been 
+searching.”); Crowell v. Benson, 285 U.S. 22, 51-52 (1932): ef. Northern 
+Pipeline, 458 U.S. at 80-82 (plurality opinion) (noting distinction between 
+state-law and federal-law rights). 
+
+32 In addition, as was the case in Union Carbide, the statute at issue 
+here “limits but does not preclude review of the * * * proceeding by an 
+Article III court.” 473 U.S. at 592. Judicial review remains available to 
+ensure that the Attorney General acts within the scope of his statutory 
+authority in determining that an alien is removable, and that the alien’s 
+removal proceedings are conducted according to constitutional require- - 
+ments of due process. Cf. ibid. 
+
+
+48 
+
+
+Ill. IF JUDICIAL REVIEW OF PETITIONERS’ CHAL- 
+LENGES IS CONSTITUTIONALLY REQUIRED, 
+THAT REVIEW SHOULD PROCEED IN THE 
+COURT OF APPEALS, NOT IN THE DISTRICT 
+COURT 
+
+
+If the Court concludes, contrary to our submission, that 
+the Constitution requires judicial review of petitioners’ non- 
+constitutional challenges to their removal orders, then that 
+review should proceed in the court of appeals on petition for 
+review, and not in the district court on habeas corpus. This 
+Court has explained that, when a statute has been held un- 
+constitutional, a court should adopt the remedy that is most 
+consistent with Congress’s overall objectives. See Califano 
+v. Westcott, 443 U.S. 76, 89-90 (1979); ef. Heckler v. Mathews, 
+465 U.S. 728, 739 n.5 (1984). Review in the court of appeals 
+would be much more consistent with Congress’s unmistak- 
+able design in IIRIRA, which is to bar district court review 
+of removal orders completely, but to allow at least a very 
+limited review of removal orders, even for aggravated 
+felons, in the courts of appeals. See pp. 18-31, supra; St. Cyr 
+Gov’t Br. 31-82. 
+
+Review in the court of appeals is more consistent with 
+Congress’s objectives than district court review for at least 
+two reasons. First, since 1961, the judicial-review provisions 
+of the INA have been predicated on Congress’s concern that 
+the deportation of aliens was often subject to unwarranted 
+delay because of the process of judicial review, and that 
+review in the court of appeals would expedite and streamline 
+that process and accordingly reduce such delays. See Stone, 
+514 US. at 399-400; Foti, 375 U.S. at 224-225; pp. 4-5, supra. 
+Review in district court on habeas corpus under 28 U.S.C. 
+2241, however, affords aliens significant opportunities for 
+delays in the execution of their removal orders. Section 2241 
+contains no express time limit on the filing of a petition for a 
+writ of habeas corpus, in contrast with the strict time limits 
+
+
+49 
+
+
+governing the exclusive-review procedures of the INA, see 
+8 U.S.C. 1252(b)(1) (Supp. V 1999). Also, unlike the iNA, 
+Section 2241 does not require consolidation of challenges to 
+deportation orders with challenges to motions to reopen or 
+reconsider. Cf. 8 U.S.C. 1252(b)(6) (Supp. V 1999); Stone, 514 
+U.S. at 393-394. And, of course, an alien who is unsuccessful 
+in district court can appeal to the court of appeals, and 
+thereby obtain further delay. 
+
+Second, Congress reinforced its preference for judicial 
+review in the court of appeais in IIRIRA when it enacted 
+Section 1252(b)(9), which provides that “{jludicial review of 
+all questions of law and fact, including interpretation and 
+application of constitutional and statutory provisions, arising 
+from any action taken or proceeding brought to remove an 
+alien from the United States under [the INA] shall be 
+available only in judicial review of a final order under this 
+section [1252].” The Court has described that provision as 
+an “unmistakable ‘zipper’ clause” channeling judicial review 
+to the courts of appeals. Reno v. American-Arab Anti- 
+Discrimination Comm., 525 U.S. 471, 483 (1999). Petition- 
+ers’ challenges to their removal orders fall squarely within 
+that zipper clause. Their claims that they are eligible for 
+relief under former Section 1182(c) involve the “interpre- 
+tation” of “statutory provisions,” and also “aris[e] from an[] 
+action taken or proceeding brought to remove [them] from 
+the United States.” Jd. at 481. Indeed, petitioners’ chal- 
+lenges to the constitutionality of Congress’s preclusion of 
+review of their non-constitutional claims are covered as well 
+by the zipper clause, because those challenges involve the 
+interpretation of “constitutional provisions” arising out of an 
+action to remove them from the United States. Thus, 
+Section 1252(b)(9) provides the rule for a remedy in this case: 
+Any challenge to a removal order for which judicial review is 
+required must proceed only in the court of appeals, pursuant 
+
+
+50 
+
+
+to the Hobbs Act’s exclusive-review procedures incorpo- 
+rated by Section 1252(a).” 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be affirmed 
+insofar as it dismissed the petitions for review, but modified 
+to provide that the dismissal is with prejudice to the filing of 
+a petition for a writ of habeas corpus in the district court. 
+
+
+Respectfully submitted. 
+
+
+BARBARA D. UNDERWOOD 
+Acting Solicitor General 
+STUART E. SCHIFFER 
+Acting Assistant Attorney 
+General 
+EDWIN S. KNEEDLER 
+_Deputy Solicitor General 
+PAUL R.Q. WOLFSON 
+Assistant to the Solicitor 
+General 
+DONALD E. KEENER 
+WILLIAM J. HOWARD 
+ERNESTO H. MOLINA 
+JAMES A. O’BRIEN III 
+Attorneys 
+
+
+MaRrRcH 2001 
+
+
+33 Petitioners have argued (Br. 2, 42-43) that the Constitution requires 
+only that such review be available in some federal court, not that it be 
+available in district court in the first instance. 
+
+

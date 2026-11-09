@@ -1,0 +1,370 @@
+In the
+United States Court of Appeals
+For the Seventh Circuit
+No. 99-1736
+JAMES W. ADAIR,
+Plaintiff-Appellant,
+v. 
+MICHAEL L. SHERMAN and
+SHERMAN & SHERMAN,
+Defendants-Appellees.
+Appeal from the United States District Court
+for the Northern District of Illinois, Eastern Division.
+No. 98 C 3946--George M. Marovich, Judge.
+Argued February 9, 2000--Decided August 25, 2000
+  Before BAUER, EASTERBROOK and RIPPLE, Circuit Judges.
+  RIPPLE, Circuit Judge.  James Adair brought this
+action under the Fair Debt Collection Practices
+Act ("FDCPA"), 15 U.S.C. sec. 1692 et seq. He
+contends that Michael Sherman and his law firm,
+Sherman & Sherman (collectively "Sherman &
+Sherman"), overvalued their secured claims in Mr.
+Adair’s Chapter 13 bankruptcy proceedings. The
+district court held that Mr. Adair’s action was
+barred because he had failed to object to the
+valuation of the claim in the bankruptcy court.
+For the reasons set forth in the following
+opinion, we affirm the judgment of the district
+court.
+I
+BACKGROUND
+  Because the district court dismissed Mr. Adair’s
+complaint for failing to state a claim, we
+consider all facts in the light most favorable to
+him. See Hernandez v. Joliet Police Dept., 197
+F.3d 256, 262 (7th Cir. 1999). In March 1997, Mr.
+Adair obtained a loan from First Midwest Bank
+("FMB"), with an amount financed of $16,483.22.
+The loan was secured by a 1995 Chevrolet Lumina
+automobile. In July, Mr. Adair filed for
+bankruptcy under Chapter 13. His bankruptcy plan
+provided that all allowed secured claims would be
+paid in full, with unsecured creditors to receive
+
+a percentage of their allowed claims.
+  On September 3, Sherman & Sherman filed a proof
+of claim on behalf of FMB. The proof of claim
+listed the value of the Chevrolet as $19,841.43,
+an amount greater than the car’s original
+purchase price. Mr. Adair did not object to the
+valuation of the car prior to confirmation. The
+Chapter 13 trustee confirmed Mr. Adair’s
+bankruptcy plan on September 15, and allowed
+FMB’s claim as fully secured. In June 1998, Mr.
+Adair filed an adversary proceeding in the
+bankruptcy court challenging FMB’s proof of
+claim; that proceeding was dismissed when Mr.
+Adair’s Chapter 13 proceeding was dismissed
+altogether./1
+  Mr. Adair subsequently filed this FDCPA
+complaint in district court, seeking damages for
+what he alleged was Sherman & Sherman’s practice
+of overvaluing collateral in proofs of claims
+filed with the bankruptcy court. He contends that
+Sherman & Sherman overvalued collateral
+fraudulently, in order to establish as secured
+claims that should have been unsecured. The
+district court granted Sherman & Sherman’s motion
+to dismiss and held that the action was barred by
+claim preclusion, also known as res judicata.
+II
+DISCUSSION
+  Although the district court articulated its
+decision in terms of claim preclusion, we believe
+that this case is more appropriately analyzed
+under the closely related, although analytically
+distinct, doctrine of collateral estoppel or
+issue preclusion./2 Under the doctrine of issue
+preclusion, an issue may not be litigated if the
+following conditions are met: (1) the issue
+sought to be precluded is the same as that
+involved in a prior action; (2) the issue was
+actually relitigated; (3) the determination of
+the issue was essential to the final judgment;
+and (4) the party against whom estoppel is
+invoked was represented in the prior action. See
+Chicago Truck Drivers, Helpers & Warehouse Union
+(Indep.) Pension Fund v. Century Motor Freight,
+Inc., 125 F.3d 526, 530 (7th Cir. 1997); La
+Preferida, Inc. v. Cerveceria Mondelo, 914 F.2d
+900, 905-06 (7th Cir. 1990). As the Supreme Court
+of the United States has stated: "Under
+collateral estoppel, once an issue is actually
+and necessarily determined by a court of
+competent jurisdiction, that determination is
+conclusive in subsequent suits based on a
+different cause of action involving a party to
+the prior litigation." Montana, 440 U.S. at 153.
+"Whether the issues are identical is a question
+of law." E.B. Harper & Co. v. Nortek, Inc., 104
+
+F.3d 913, 922 (7th Cir. 1997). We decide such
+questions de novo. See Caruso v. De Luca, 81 F.3d
+666, 670 (7th Cir. 1996).
+  Issue preclusion is an affirmative defense. See
+Blonder-Tongue Lab., Inc. v. University of Ill.
+Found., 402 U.S. 313, 350 (1971). Therefore, the
+defendant has the burden to set forth facts
+sufficient to satisfy each element of the
+defense. See Havoco of Am., Ltd. v. Freeman,
+Atkins & Coleman, Ltd., 58 F.3d 303, 306 (7th
+Cir. 1995); La Preferida, 914 F.2d at 906. We now
+consider whether Sherman & Sherman has satisfied
+each of these requirements. As we pointed out in
+Havoco, in determining whether these criteria
+have been met, it is often necessary for the
+court to consult substantive principles of law in
+order to determine the scope of the earlier
+judicial determination or the parties bound by
+that determination. See 58 F.3d at 308. In the
+case before us, it will be necessary to refer to
+the substantive law of bankruptcy and, indeed, to
+some extent, to the FDCPA, to determine whether
+the principles of issue preclusion ought to
+apply.
+A.
+  We begin by examining the action of the
+bankruptcy court in order to determine the nature
+and the scope of its determination. We must
+ascertain whether the bankruptcy court actually
+and necessarily decided an issue that would now
+preclude recovery in the FDCPA action. Sherman &
+Sherman filed a proof of claim listing the value
+of the 1995 Chevrolet as $19,841.43. According to
+the bankruptcy code, any proof of claim filed by
+a creditor is deemed allowed, unless a party in
+interest objects. See 11 U.S.C. sec. 502(a); In
+re Greenig, 152 F.3d 631, 633 (7th Cir. 1998)./3
+"A proof of claim executed and filed in
+accordance with the Bankruptcy Rules constitutes
+prima facie evidence of the validity and amount
+of the claim." In re Ross, 162 B.R. 785, 788
+(Bankr. N.D. Ill. 1993) (citing Fed. R. Bankr. P.
+3001(f)).
+  Mr. Adair had notice of the proof of claim prior
+to confirmation, but he chose not to object to
+it. "As a general rule, the failure to raise an
+objection at the confirmation hearing or to
+appeal from the order of confirmation should
+preclude attack on the plan or any provision
+therein as illegal in a subsequent proceeding."
+In re Chappell, 984 F.2d 775, 782 (7th Cir. 1993)
+(quotation marks and ellipses omitted); see also
+In re Pence, 905 F.2d 1107, 1110 (7th Cir. 1990).
+In our decision in Pence, we refused relief to a
+creditor who, "instead of attacking the valuation
+head-on at the confirmation hearing," chose "a
+
+collateral attack on the confirmation order where
+valuation may not be contested." Id. at 1110. Our
+sister circuits share our view that once a
+bankruptcy plan is confirmed, its terms are not
+subject to collateral attack. See Andersen v.
+UNIPAC-NEBHELP, 179 F.3d 1253, 1258-59 (10th Cir.
+1999); In re Varat Enters., Inc., 81 F.3d 1310,
+1315-17 (4th Cir. 1996); In re Justice Oaks II,
+Ltd., 898 F.2d 1544, 1553 (11th Cir.), cert.
+denied, 498 U.S. 959 (1990); In re Szostek, 886
+F.2d 1405, 1413 (3d Cir. 1989); In re Gregory,
+705 F.2d 1118, 1121 (9th Cir. 1983). 
+  These authorities lead us to the conclusion
+that, when a proof of claim is filed prior to
+confirmation,/4 and the debtor does not object
+prior to confirmation,/5 the debtor may not file
+a post-confirmation collateral action that calls
+into question the proof of claim. See Justice
+Oaks, 898 F.2d at 1553; Ross, 162 B.R. at 789
+("The law is well settled that a confirmation
+order is res judicata as to all issues decided or
+which could have been decided at the hearing on
+confirmation.")./6 Allowing collateral attacks
+of the type brought by Mr. Adair would give
+debtors an incentive to refrain from objecting in
+the bankruptcy proceeding and would thereby
+destroy the finality that bankruptcy confirmation
+is intended to provide./7
+  In short, the bankruptcy process provides
+protection against fraudulent proofs of claims.
+Mr. Adair had the opportunity to contest Sherman
+& Sherman’s proof of claim and practices related
+thereto in the bankruptcy court. Because he chose
+not to, he is barred from doing so here./8
+B.
+  We are also convinced that issue preclusion
+applies because the FDCPA is an improper vehicle
+for challenging the amount of a debt established
+by the bankruptcy court. The FDCPA regulates the
+practices used to collect a debt./9 See Keele v.
+Wexler, 149 F.3d 589, 594 (7th Cir. 1998) ("[T]he
+FDCPA is designed to protect consumers from the
+unscrupulous antics of debt collectors,
+irrespective of whether a valid debt actually
+exists."); see also Hawthorne v. Mac Adjustment,
+Inc., 140 F.3d 1367, 1370-71 (11th Cir. 1998);
+Mabe v. G.C. Servs. Ltd. Partnership, 32 F.3d 86,
+87-88 (4th Cir. 1994); Zimmerman v. HBO Affiliate
+Group, 834 F.2d 1163, 1167 (3d Cir. 1987). As Mr.
+Adair has framed his FDCPA action, it cannot
+succeed without a showing that the existence or
+amount of his debt was established improperly.
+However, this circuit and other federal courts
+have held that an FDCPA action is not an action
+to establish a debt but an action contesting the
+method of collection of that debt. See Whitaker
+v. Ameritech Corp., 129 F.3d 952, 957-58 (7th
+
+Cir. 1998); Alger v. Ganick, O’Brien & Sarin, 35
+F. Supp.2d 148, 159 n.20 (D. Mass. 1999) (citing
+Whitaker); Blakemore v. Pekay, 895 F. Supp. 972,
+983-84 (N.D. Ill. 1995); Azar v. Hegay, 874 F.
+Supp. 1314, 1317 (N.D. Fla.), aff’d, 66 F.3d 342
+(11th Cir. 1995).
+  Mr. Adair is attempting to use an FDCPA claim to
+attack the existence of the underlying debt, a
+matter already determined definitively in the
+bankruptcy proceeding. "The purpose of the proof
+of claim is to alert the court, trustee, and
+other creditors, as well as the debtor, to claims
+against the estate." In re Fernstrom Storage &
+Van Co., 938 F.2d 731, 734 (7th Cir. 1991)
+(quotation marks omitted). By allowing FMB’s
+proof of claim, the bankruptcy court confirmed
+the existence of a debt for Mr. Adair. To succeed
+on the FDCPA claim that he has brought, Mr. Adair
+would have to show that the value of the
+Chevrolet is incorrect in the proof of claim; if
+$19,841.43 is the proper value of the car, then
+Sherman & Sherman’s claim is not fraudulent.
+However, Mr. Adair is foreclosed from
+collaterally attacking the valuation of the car.
+The amount of the debt is a matter already
+settled in another forum, the bankruptcy court.
+  In sum, as Mr. Adair has framed his FDCPA claim,
+he contests the amount of the underlying debt,
+not the method employed by the defendants in its
+collection. The amount of the debt was determined
+definitively, however, in the earlier bankruptcy
+proceeding when a proof of claim was submitted
+prior to confirmation and Mr. Adair’s bankruptcy
+claim was later confirmed. The amount of the debt
+therefore cannot be relitigated in a subsequent
+FDCPA action by operation of the doctrine of
+issue preclusion./10 
+Conclusion
+  For the foregoing reasons, the judgment of the
+district court is affirmed.
+AFFIRMED
+/1 Mr. Adair is now once again in bankruptcy
+proceedings. His return to bankruptcy does not
+foreclose this action because debtors in Chapter
+13 proceedings may bring actions in their own
+name to vindicate statutory rights. See Cable v.
+Ivy Tech State College, 200 F.3d 467, 472-73 (7th
+Cir. 1999).
+/2 See Montana v. United States, 440 U.S. 147, 153
+(1979) (setting forth the differences between the
+two related doctrines).
+
+/3 Parties in interest include not only the debtor,
+but anyone who has a legally protected interest
+that could be affected by a bankruptcy
+proceeding. See In re FBN Food Servs., Inc., 82
+F.3d 1387, 1391 (7th Cir. 1996). Therefore, if
+one creditor files a potentially fraudulent proof
+of claim, other creditors have standing to object
+to the proof of claim.
+/4 We need not address the practice in bankruptcy
+courts of allowing proofs of claims to be filed
+after confirmation. See, e.g., In re Witkowski,
+16 F.3d 739, 741 (7th Cir. 1994); In re Strong,
+203 B.R. 105, 114 (Bankr. N.D. Ill. 1996). We
+address only the situation in which the creditor
+filed a proof of claim before confirmation and
+the debtor had enough time to formulate an
+objection prior to confirmation. 
+/5 Mr. Adair has not argued that the time between
+the filing of Sherman & Sherman’s proof of claim
+and the confirmation hearing was insufficient to
+allow him to prepare an objection.
+/6 There has been some tension in bankruptcy court
+cases as to whether debtors are required to
+object to proofs of claims prior to confirmation.
+See In re Simmons, 224 B.R. 879, 883-84 (Bankr.
+N.D. Ill. 1998) (noting cases). We respectfully
+choose not to follow those cases allowing post-
+confirmation objections to proofs of claims to be
+filed even though the proof of claim itself was
+filed sufficiently in advance of the confirmation
+hearing. See In re Church, No. 96 B 18347, 1998
+WL 97691, at *3-*4 (Bankr. N.D. Ill. Mar. 2,
+1998).
+/7 We note the thoughtful analysis of a different
+district court in an action similar to the one
+before us:
+Plaintiff’s claims . . . raise the serious
+concern that bankruptcy debtors will deliberately
+fail to challenge proofs of claim, despite having
+knowledge of possible challenges to the proofs of
+claim and despite being represented in their
+bankruptcy, in the hope of maintaining collateral
+challenges pursuant to statutes, like the FDCPA,
+which may provide additional damages, as well as
+attorney’s fees. If debtors were permitted to
+make such strategic decisions and, thus, to delay
+their challenges to the legality or correctness
+of proofs of claim until after dismissal of the
+bankruptcy case, the concept of finality in
+bankruptcy will be completely undermined.
+Baldwin v. McCalla, Raymer, Padrick, Cobb,
+Nichols & Clark, L.L.C., No. 98 C 4280, 1999 WL
+284788, at *7 (N.D. Ill. Apr. 26, 1999)
+(citations omitted).
+
+/8 We point out that failure to object prior to
+confirmation does not foreclose a debtor from
+challenging fraudulent proofs of claim in the
+bankruptcy court. A bankruptcy confirmation may
+be revoked by the bankruptcy court if it was
+procured by fraud. See 11 U.S.C. sec. 1330(a).
+Further, parties who commit fraud on the
+bankruptcy court may be sanctioned by that court
+pursuant to Federal Rule of Bankruptcy Procedure
+9011, which is analogous to Rule 11 of the
+Federal Rules of Civil Procedure. See In re
+Bryson, 131 F.3d 601, 603 (7th Cir. 1997). Rule
+9011(b) explicitly requires all filings with the
+court to present only facts which the party
+reasonably believes to have evidentiary support;
+debtors facing fraudulent proofs of claim could
+seek sanctions under that section. A motion for
+sanctions under Rule 9011 must be made separately
+from the objection to a proof of claim,
+potentially giving debtors additional time to
+discover any fraud on the part of the creditor.
+See Fed. R. Bankr. P. 9011(c)(1)(A); In re Knox,
+237 B.R. 687, 698-99 (Bankr. N.D. Ill. 1999).
+Bankruptcy courts also have the authority to
+sanction attorneys under 28 U.S.C. sec. 1927,
+which allows the court to hold attorneys liable
+for any excess expenses caused because of their
+unreasonable or vexatious conduct. See In re
+Volpert, 110 F.3d 494, 500-01 (7th Cir. 1997).
+/9 The FDCPA provides a definition of "debt":
+The term "debt" means any obligation or alleged
+obligation of a consumer to pay money arising out
+of a transaction in which the money, property,
+insurance, or services which are the subject of
+the transaction are primarily for personal,
+family, or household purposes, whether or not
+such obligation has been reduced to judgment.
+15 U.S.C. sec. 1692a(5).
+/10 Because the parties have not presented the issue,
+we express no opinion as to whether a FDCPA claim
+can ever be predicated on a previous filing in a
+bankruptcy proceeding. Cf. Kokoszka v. Belford,
+417 U.S. 642, 650-52 (1974) (holding that the
+wage garnishment protections of the Consumer
+Credit Protection Act sought to prevent persons
+from entering bankruptcy in the first place and
+therefore were not applicable when bankruptcy did
+occur).

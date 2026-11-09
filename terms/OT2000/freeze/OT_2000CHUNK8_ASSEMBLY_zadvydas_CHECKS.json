@@ -1,0 +1,44 @@
+{
+  "case": "zadvydas",
+  "record": "terms/OT2000/records/Zadvydas_v_Davis_and_Ashcroft_v_Ma_merits_2001-06-28.md",
+  "sha256": "9b164688fdbd724ccdb5e9efea263010b6c3d8c498a2bb3b354f5704f450622c",
+  "public_sha256": "d38cb843b922226d8fdf83ec570bfbd0ea43bb57825725822d810ac314dd5d67",
+  "exact_first_four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identity": true,
+  "explanation_words": [
+    {
+      "holding": "I. Habeas permits review of current executive custody authority",
+      "words": 97
+    },
+    {
+      "holding": "II. Extended detention must remain reasonably necessary for removal",
+      "words": 233
+    },
+    {
+      "holding": "III. A rebuttable six-month presumption governs the removal-prospect inquiry",
+      "words": 264
+    },
+    {
+      "holding": "IV. Both records require the correct inquiry and effective lawful relief",
+      "words": 200
+    }
+  ],
+  "local_links_resolve": true,
+  "text_hygiene_pass": true,
+  "assignment_receipt": "terms/OT2000/freeze/OT_2000CHUNK8_ASSIGNMENT_zadvydas.json",
+  "substantive_compatibility": "Final frozen commitments and approved Stone core preserved; no post-reconciliation Associate change.",
+  "integration_status": "Per-case assembly checks complete; coordinated workspace and term checks belong to root integration."
+}

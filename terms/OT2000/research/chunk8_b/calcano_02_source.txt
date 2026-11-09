@@ -1,0 +1,1537 @@
+Supretie Cour 
+Pia 
+
+
+001 011 DE 2 0200 
+
+
+OFFICE OF THE CLERK 
+
+
+Supreme Court of the United States 
+
+
+> <P > 
+
+
+DEBORIS CALCANO-MARTINEZ, ET AL., 
+Petitioners, 
+
+
+a 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+Respondent. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Kerry W. Bretz Lucas Guttentag 
+
+Jules E. Coven Counsel of Record 
+
+Alan Michael Strauss Lee Gelernt 
+
+BRETZ & COVEN AMERICAN CIVIL LIBERTIES UNION 
+
+305 Broadway FOUNDATION 
+
+Suite 100 Immigrants’ Rights Project 
+
+New York, New York 10007 125 Broad Street 
+
+(212) 267-2555 New York, New York 10004 
+(212) 549-2621 
+
+
+Attorneys for Petitioners 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+The Board of Immigration Appeals found that peti- 
+tioners, legal permanent residents of the United States, 
+were deportable on the basis of their prior criminal con- 
+victions and were barred from applying for a discre- 
+tionary waiver of deportation under 8 U.S.C. 1182(c) 
+(1994) by a recent amendment to the Immigration and 
+Nationality Act (INA). Petitioners filed petitions for 
+review in the court of appeals seeking review of the 
+Board’s ruling on the ground that the amendment did not 
+apply retroactively to their cases and that, if applicable, 
+it would violate due process and equal protection. The 
+court of appeals consolidated the three cases and dis- 
+missed all of petitioners’ claims for lack of jurisdiction 
+in light of 8 U.S.C. 1252(a)(2)(C), one of the permanent 
+judicial review amendments to the INA enacted by the 
+I}legal Immigration Reform and Immigrant Responsi- 
+bility Act (IIRIRA). The court of appeals held, however, 
+that petitioners could obtain review of their claims in a 
+district court habeas corpus action under 28 U.S.C. 
+2241. The questions presented are: 
+
+
+1. Whether the court of appeals correctly concluded 
+that, under 8 U.S.C. 1252(a)(2)(C), it lacked jurisdiction 
+on direct petition for review over petitioners’ statutory 
+and constitutional challenges to their final removal 
+orders, but that the district courts had habeas corpus 
+jurisdiction to entertain those challenges under 28 
+U.S.C. 2241. 
+
+
+2. Whether IIRIRA’s amendments to the Immigration 
+and Nationality Act violate the Suspension of Habeas 
+Corpus Clause, Article III, or the Due Process Clause of 
+the Fifth Amendment if they preclude all review of peti- 
+tioners’ constitutional or statutory claims? 
+
+
+1 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+Petitioners are Deboris Calcano-Martinez, Sergio 
+Madrid, and Fazila Khan. 
+Respondent is the Immigration and Naturalization 
+
+
+Service. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+PAGE 
+Questions Presented.................cececcce..... i 
+Parties to the POMS os chaspensccavdo cu: ii 
+Be NNN iii. é hicickiedcticiuscuiacy, iv 
+I Soa ig okay l 
+CE SSE Tea ae ee ] 
+
+Constitutional and Statutory Provisions 
+eciuts vig LES EEPET PEPE PEP een 2 
+CNC SCHih6S S843 had yedegedescccccl. S| 2 
+A. Introduction. " Noha aiwees bth oudwd 8s bee's: 3 
+B. Statutory Framework ................... 8 
+
+C. Petitioners’ Administrative 
+
+Immigration Proceedings............... 14 
+D. Decision of the Court of Appeals....... 17 
+E. The St. Cyr Decision.................... 18 
+Reasons for granting the writ.................... 19 
+
+
+SES ES heed boos aaa es a 25 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES 
+Cases: PAGE 
+Bowrin v. INS, 194 F.3d 483 (4th Cir. 1999)..... 10 
+Felker v. Turpin, 518 U.S. 651 (1996) ........... ll 
+Flores-Miramontes v. INS, 212 F.3d 1133 
+Ce Sis SE cdacvemsacddusuvscnacessacken 13 
+FOU V.. EMS, FID Uae BEF CEPOS i ncvccncdvitinans 9 
+Goncalves v. Reno, 144 F.3d 110 (1st Cir. 1998), 
+cert. denied, 526 U.S. 1004 (1999) ......... 10, 12 
+
+
+Henderson v. INS, 157 F.3d 106 (2d Cir. 1998), 
+cert. denied sub nom. Reno v. Navas, 526 
+
+
+as Se LEE A a cdcacckastiecsseee 10, 12 
+Hincapie-Nieto v. INS, 92 F.3d 27 
+
+Ce Gs Fe hha odbc bskceescdee acco e 9 
+Jurado-Gutierrez v. Greene, 190 F.3d 1135 
+
+to Be A RA ieee ee ree 1] 
+
+
+LaGuerre v. Reno, 164 F.3d 1035 (7th Cir. 
+1998), cert. denied, 120S. Ct. 1157 
+CEE + each eee chia ae oe ee 13, 12 
+
+
+Liang v. INS, 206 F. 3d 308 (3d Cir. 2000), 
+petition for certiorari pending sub nom. 
+Rodriguez v. INS, No. 00-753............ 13, A. 22 
+
+
+Magana-Pizano v. INS, 152 F.3d 1213 
+(9th Cir. 1998), (Magana-Pizano 1), 
+vacated by 526 U.S. 1001 (1999) ........... 12 
+
+
+Magana-Pizano v. INS, 200 F.3d 603 
+(9th Cir. 1999) (Magana-Pizano il)......... a. ia 
+
+
+Mahadeo v. Reno, 226 F.3d 3 (1st Cir. 
+2000), petition for certiorari pending, 
+
+
+No. OOO62 occ ee 13, 20, 22 
+
+
+Matter of Silva, 161. & N. Dec. 26 (BIA 1976). 
+
+
+Max-George v. Reno, 205 F.3d 194 (Sth Cir. 
+
+
+2000), petition for certiorari pending, 
+No. 00-6280 
+
+
+Mayers v. INS, 175 F.3d 1289 (11th Cir. 1999).. 
+
+
+Morales-Ramirez v. Reno, 209 F.3d 977 
+(7th Cir. 2000) 
+
+
+Nakaranurack v. INS, 68 F.3d 290 (9th Cir. 
+1995) 
+
+
+Pak v. Reno, 196 F.3d 666 (6th Cir. 1999) 
+
+
+Reno v. American-Arab Anti-Discrimination 
+Committee, 525 U.S. 47] (1999) 
+
+
+Requena-Rodriguez v. Pasquarell, 190 F.3d 
+299 (Sth Cir. 1999) 
+
+
+Richards-Diaz v. Fasano, No. 99-56530, 2000 
+WL 1715956 (9th Cir. Nov. 17, 2000) 
+
+
+Richardson v. Reno, 180 F.3d 131] (11th Cir. 
+1999) (Richardson II), cert. denied, 120 
+S.Ct. 1529 (2000) 
+
+
+Sandoval v. Reno, 166 F.3d 225 (3d Cir. 1999)... 
+
+
+Shah v. Reno, 184 F.3d 719 (8th Cir. 1999) 
+
+
+Shaughnessy v. Pedreiro, 349 U.S. 48 (3935)... 
+
+
+Din Hale De Le fe ee Ge eee ee 
+
+
+i a CAPSS ES OE CEE Oe ae Oe eee kee & be eed a 
+
+
+ee @ we 
+
+
+15 
+
+
+1] 
+
+
+13 
+
+
+10 
+1] 
+
+
+vi 
+PAGE 
+Si. Cyr v. INS, 229 F.3d 406 (24d Cir. 2000), 
+
+petition for certiorari pending, 
+
+OMIT a sc0esvadddvkctsowinadnee passim 
+United States ex rel. Marcello y. INS, 634 
+
+F.2d. 964 (Sth Cir. 1981)..............00. 9 
+Constitution, statutes, and regulations: 
+
+U.S. Const 
+
+ROONEY a o6nssinitialidete mane 2,3 
+AMR, 5, OD, GS oss Siviedicl avai _ 
+WATE, GER. ccccscnchveusnesansesiediteeen y 
+Antiterrorism and Effective Death Penalty 
+
+Act of 1996, Pub. L. No. 104-132. 110 
+
+ae TTT TT ee en 8 
+§ 401(e), 110 Stat. 1268......................... 9 
+§ 440(a), 110 Stat. 1276-1277 .............. 9,10 
+Illegal Immigration Reform and Immigrant 
+
+Responsibility Act of 1996, Pub. L. No. 
+
+104-208, Div. C., 110 Stat. 3009-546...___. passim 
+$ 304(b), 110 Stat. 3009-597... mS 
+§ 309(a), 110 Stat. 3009-625................00 8, 10 
+$ 309(c), 110 Stat. 3009-626..................... 8 
+$ 309(c)(1), 110 Stat. 3009-625 .......... 10 
+§ 309(c)(4), 110 Stat. 3009-626, 627 ............ 10 
+
+
+Vii 
+
+
+PAGE 
+
+Immigration and Nationality Act, 8 U.S.C. 
+
+1101 ef seg........ se esatedecdeaswcsedesdesven 3 
+8 U.S.C. 1101(a)(43) (1994) ......00000000000.... 15 
+8 U.S.C. 1105a (1994)(repealed 1996) 
+
+Gee G Si vkisnckscxtvssissie 9 
+8 U.S.C. 1105a(a) (1994) (repealed 1996) 
+
+PPR Rik cceh aired tidieiihate tras ak 9 
+8 U.S.C. 1105a(a)(10) (1994) (repealed 1996) 
+
+ee eS SE oni tse, 9 
+8 U.S.C. 1182(c) (1994) (INA§ 212(c)) 
+
+Sy CP es dca d bob hixs tee ou Feds: passim 
+8 U.S.C. 1227(a)(2)(A)(iii) (Supp. V 1999) ..... 14, 16 
+8 U.S.C. 1227(a)(2)(B)(i) (Supp. V 1999)....... 14, 16 
+8 U.S.C. 1252 (Supp. V 1999) .................:. 8, 13 
+8 U.S.C. 1252(a)(1) (Supp. V 1999)............2.4.13 
+8 U.S.C. 1252(a)(2)(C) (Supp. V 1999) ......... passim 
+8 U.S.C. 1252(b)(9) (Supp. V 1999)............. 2.13 
+8 U.S.C. 1252(g) (Supp. V 1999)................ 12 
+Be es ME oakissucctensikeckcyecc ow l 
+PE NE aah sk cusaeteecesaeuscn caso tose passim 
+BO UB. ZIAMOMAD. os oc ccvcccccccecsconsscecsc: 1] 
+Be WA, BOON MIDs oc vcnccnnccvccccdcocccceecas 11 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Deboris Calcano-Martinez, Sergio Madrid, and Fazila 
+Khan respectfully petition for a writ of certiorari to 
+review the judgment of the United States Court of 
+Appeals for the Second Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The consolidated opinion of the court of appeals (Pet. 
+App. 1a’) is not yet reported. The decision and order of 
+the immigration judge (Pet. App. 34a), and the decision of 
+the Board of Immigration Appeals (Pet. App. 37a), are 
+unreported in Calcano-Martinez. The decision and order 
+of the immigration judge (Pet. App. 40a, 43a), and the 
+decision of the Board of Immigration Appeals (Pet. App. 
+48a), are unreported in Madrid. The decision and order of 
+the immigration judge (Pet. App. 50a), and the decision of 
+the Board of Immigration Appeals (Pet. App. 66a), are 
+unreported in Khan. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+September 1, 2000. On November 21, 2000, Justice Gins- 
+burg extended the time within which to file a petition for 
+a writ of certiorari to and including December 30, 2000. 
+The jurisdiction of this Court is invoked under 28 U.S.C. 
+1254(1). 
+
+
+' “Pet. App.” refers to the separately bound appendix to this| 
+
+
+petition. 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+Reprinted in the appendix to this petition (Pet. App. 
+75a) are pertinent portions of the Suspension of Habeas 
+Corpus Clause of the Constitution, U.S. Const., Art. I, § 9, 
+cl. 2; the Due Process Clause of the Fifth Amendment: 
+Article III of the United States Constitution; 8 U.S.C. 
+1182(c), as in effect before and after April 24, 1996; 
+8 U.S.C. 1252(a)(1), (a)(2)(C), and (b)(9) (Supp. V 1999); 
+Section 304(b) of the Illegal Immigration Reform and 
+Immigrant Responsibility Act of 1996, Pub. L. No. 104- 
+208, Div. C., 110 Stat. 3009-546; and 28 U.S.C. 2241. 
+
+
+STATEMENT 
+
+
+Petitioners respectfully request that this petition be con- 
+sidered in conjunction with the Solicitor General’s peti- 
+tion for certiorari in INS v. St. Cyr, No. 00-767 (filed 
+November 13, 2000). St. Cyr and the instant case were 
+companion cases in the Second Circuit, were argued 
+before the same panel and decided on the same day (in 
+separate opinions), and involve the same jurisdictional 
+amendments to the Immigration and Nationality Act 
+(INA). 
+
+
+As explained more fully below, petitioners do not 
+object to the Second Circuit’s holding in this case that the 
+recent jurisdictional amendments to the INA preclude 
+review of their constitutional and statutory claims by 
+means of a petition for review in the court of appeals, pro- 
+vided that, as the court of appeals also held, they are enti- 
+tled to pursue those claims in a district court habeas 
+corpus action under 28 U.S.C. 2241 (the general federal 
+habeas corpus statute). However, if the Court concludes 
+that the jurisdictional issues raised by this case and 
+St. Cyr warrant review, petitioners respectfully submit 
+
+
+3 
+
+
+that the instant case provides the better vehicle to address 
+those issues because the petitioners in this case all filed 
+petitions for review in the court of appeals and district 
+court habeas actions, while the alien in St. Cyr filed only 
+a habeas action. Accordingly, if the Court concludes that 
+review is warranted, petitioners respectfully request that 
+the Court grant certiorari in this case and hold the petition 
+in St. Cyr or, alternatively, grant certiorari in both cases 
+on the jurisdictional issues.” 
+
+
+A. Introduction 
+
+
+1. This case raises questions concerning the right of 
+longtime legal permanent resident immigrants to obtain 
+judicial review of a final order of removal in light of 
+the permanent jurisdictional amendments to the Immi- 
+gration and Nationality Act (INA). Those amendments 
+were enacted by the Illegal Immigration Reform and 
+Immigrant Responsibility Act of 1996 (IIRIRA), Pub. L. 
+No. 104-208, Div. C., 110 Stat. 3009-546. 
+
+
+Petitioners assert that IIRIRA’s jurisdictional amend- 
+ments do not preclude review of their challenges to their 
+final removal orders, and that if they do preclude review 
+of their claims, they violate the Suspension of Habeas 
+Corpus Clause, Article III, and due process. The gov- 
+ernment contends that Congress has dictated that no court 
+may hear their challenges because of the nature of the 
+claims. The government further contends that the com- 
+plete preclusion of review over petitioners’ claims raises 
+no constitutional concerns. 
+
+
+a government's petition in St. Cyr also seeks review of the 
+Second Circuit’s merits ruling in that case. Petitioners in this case 
+-raised the same or similar statutory and constitutional claims as those 
+raised in St. Cyr, but the Second Circuit did not reach the merits in 
+this case. Accordingly, this petition addresses only the jurisdictional 
+question decided by the Second Circuit. 
+
+
+4 
+
+
+More specifically, the jurisdictional issue raised in this 
+case is whether immigrants with certain criminal con- 
+victions may judicially challenge the Board of Immigra- 
+tion Appeals’ ruling that they are statutorily ineligible to 
+apply for a discretionary waiver of deportation. That issue 
+raises the questions (1) whether the proper forum to raise 
+this type of challenge is in the court of appeals by means 
+of a petition for review or in the district court by means of 
+a habeas corpus action, and (2) whether irrespective of the 
+forum for review, the scope of jurisdiction is limited 
+to reviewing only substantial constitutional claims, so 
+that all non-constitutionai errors (including errors of statu- 
+tory construction, such as the statutory retroactivity 
+claims advanced by petitioners in this case) are wholly 
+unreviewable. 
+
+
+The three petitioners in this case are all lawful perma- 
+nent residents of the United States who are subject to 
+administratively final orders of removal (formerly called 
+orders of deportation). The Board of Immigration Appeals 
+(BIA or Board) determined that they were deportable 
+based on their past criminal convictions and further held 
+that a substantive amendment enacted by IIRIRA rendered 
+them statutorily ineligible to apply for a discretionary 
+waiver of deportation. Each petitioner sought review by 
+filing both a district court habeas action under, inter alia, 
+28 U.S.C. 2241, and a petition for review in the Second 
+Circuit pursuant to 8 U.S.C. 1252(a)(1), which provides 
+a general grant of jurisdiction to the courts of appeals to 
+review challenges to final orders of removal by means of 
+a petition for review. Petitioners did not contest the BIA’s 
+determination that they were deportable in light of their 
+prior criminal convictions. Rather, they challenged on sta- 
+tutory and constitutional grounds the BIA’s determina- 
+tion that they were ineligible to apply for a waiver of 
+deportation under former 8 U.S.C. 1182(c), INA § 212(c) 
+(1994) (granting Attorney General discretionary author- 
+
+
+5 
+
+
+ity to waive deportation of longtime lawful permanent 
+residents who satisfy statutory eligibility criteria). Peti- 
+tioners’ principal contention is a statutory retroactivity 
+claim—that the BIA misinterpreted the temporal reach of 
+the substantive amendments restricting or eliminating eli- 
+gibility for Section 1182(c) relief and that Congress 
+did not intend those amendments to apply retroactively 
+to cases where, as here, the relevant criminal conduct 
+‘ triggering deportation occurred before passage of the 
+amendments. 
+
+
+The government took the position in the court of 
+appeals that Congress has eliminated district court habeas 
+jurisdiction over final removal orders and placed all 
+review of such orders exclusively in the court of appeals 
+
+_by petition for review. The government further contended 
+that in light of 8 U.S.C. 1252(a)(2)(C), one of the juris- 
+dictional provisions added to the INA by IIRIRA, the 
+scope of review in the court of appeals was severely 
+restricted in cases where, as here, the alien is deportable 
+on the basis of one of the offenses enumerated in Section 
+1252(a)(2)(C). Section 1252(a)(2)(C) provides: “Notwith- 
+Standing any other provision of law, no court shall have 
+jurisdiction to review any final order of removal against 
+an alien wno is removable by reason of having committed 
+a criminal offense covered in [various sections of the 
+INA].” In light of IIRIRA’s amendments, the government 
+maintained that (1) jurisdiction in the court of appeals 
+regarding eligibility for a discretionary waiver is limited 
+to “substantial constitutional” claims and that petitioners 
+presented no such claims, (2) non-constitutional claims 
+regarding eligibility for a waiver cannot be heard in any 
+court (district court or the court of appeals), and (3) the 
+complete elimination of a judicial forum for petitioners’ 
+Statutory retroactivity claims raises no constitutional 
+concerns. Accordingly, the government argued that the 
+
+petitions for review should be dismissed for lack of juris- 
+
+
+6 
+
+
+diction and that no court had jurisdiction over petitioners’ 
+claims. 
+
+
+Petitioners, in contrast, took the position that review 
+over both their constitutional and statutory claims 
+remained available and that IIRIRA would violate the 
+Constitution if it did not permit review in some court over 
+both their constitutional and statutory claims. Petitioners 
+noted that Congress was constitutionally free to authorize 
+review either by petition for review in the court of appeals 
+or by habeas corpus in district court, but maintained that 
+in light of prior Second Circuit precedent construing the 
+structurally similar jurisdictional amendments made by 
+IIRIRA’s transitional rules, the proper mechanism for 
+review of their claims was, as a matter of statutory con- 
+struction, in the district court by means of a habeas corpus 
+action. 
+
+
+The court of appeals noted that each petitioner 
+was deportable on the basis of a criminal offense enu- 
+merated in 8 U.S.C. 1252(a)(2)(C) and held that Section 
+1252(a)(2)(C) repealed the circuit court’s own petition- 
+for-review jurisdiction over petitioners’ statutory and con- 
+stitutional claims regarding their eligibility to apply for a 
+Section 1182(c) waiver of deportation. But the court of 
+appeals held that petitioners could bring their claims in a 
+district court habeas action under 28 U.S.C. 2241 because 
+no provision of I[RIRA expressly repealed that grant of 
+jurisdiction. The court of appeals further held that the 
+scope of review in a Section 2241 habeas action included 
+both constitutional and statutory claims. Accordingly, it 
+dismissed the petitions for review for lack of jurisdiction 
+without reaching the merits and held that petitioners could 
+pursue their constitutional and statutory claims in a dis- 
+trict court habeas action. 
+
+
+Because the court of appeals concluded that the district 
+courts retain habeas jurisdiction to review petitioners’ 
+
+
+Ney SER ROR A SG OL ee nab 8 ere Oe a ee . tapas 
+
+
+7 
+
+
+constitutional and statutory claims, it held that the elim- 
+ination of its own petition-for-review jurisdiction over 
+petitioners’ claims did not raise the “profound constitu- 
+tional questions” that would have been triggered had no 
+forum been available to raise pure questions of constitu- 
+tional or statutory law regarding eligibility for a waiver of 
+deportation. Pet. App. 31a. The court stressed that absent 
+the alternative avenue of district court habeas review, it 
+could not have dismissed the petitions for review without 
+first addressing whether petitioners’ constitutional or 
+Statutory claims could be completely insulated from 
+review in any court by any means. Jd. 
+
+
+As discussed more fully below, all three petitioners had 
+previously filed district court habeas actions, but none had 
+been adjudicated by the district court at the time of the 
+Second Circuit’s decision on the petitions for review. In 
+two of the cases, the district court dismissed the habeas 
+petitions without prejudice to refiling depending upon the 
+Second Circuit’s ruling on the petitions for review; to date 
+neither has been reinstated. In the other case, the habeas 
+petition was held in abeyance and remains pending before 
+the district court. 
+
+
+2. Because the court of appeals preserved habeas juris- 
+diction over petitioners’ constitutional and statutory 
+claims, they do not object to the dismissal of their peti- 
+tions for review. However, the government has now filed 
+a certiorari petition in St. Cyr requesting that the Court 
+review the Second Circuit’s interpretation of IIRIRA’s 
+jurisdictional amendments on the ground that the Second 
+Circuit erred in finding habeas jurisdiction (as well as the 
+Second Circuit’s merits ruling, if the Court concludes that 
+jurisdiction exists). INS v. St. Cyr, No. 00-767 (filed 
+November 13, 2000). If the Court determines that the Sec- 
+ond Circuit’s interpretation of IIRIRA’s jurisdictional 
+amendments warrants review, petitioners submit that the 
+
+
+8 e 
+
+
+instant case provides a better vehicle for doing so because 
+petitioners filed both petitions for review and habeas cor- 
+pus actions. Accordingly, if the Court determines that 
+review is warranted, petitioners respectfully request that 
+the Court grant this petition and hold the petition in St. 
+Cyr or, alternatively, grant the petitions in both cases on 
+the jurisdictional issues. 
+
+
+B. Statutory Framework 
+
+
+IIRIRA was enacted on September 30, 1996, and 
+revised both the substantive and jurisdictional provisions 
+of the INA. The jurisdictional amendments of IIRIRA that 
+are at issue here are the permanent provisions codified at 
+8 U.S.C. 1252 et seq. They apply to all cases in which the 
+administrative immigration “removal” proceedings com- 
+menced on or after April 1, 1997. See IIRIRA § 309(a), 
+110 Stat. 3009-625. 
+
+
+The jurisdictional issue presented by this case initially 
+arose, however, under two prior sets of amendments to the 
+INA enacted by Congress in 1996. The first set was 
+enacted on April 24, 1996, as part of the Antiterrorism 
+and Effective Death Penalty Act of 1996 (AEDPA), Pub. 
+L. No. 104-132, 110 Stat. 1214. The second was the tran- 
+sitional rules enacted by IIRIRA. See IIRIRA § 309(c), 
+110 Stat. 3009-626. Although these prior jurisdictional 
+amendments are not directly at issue here, the decisions 
+from the courts of appeals construing the prior amend- 
+ments have had a significant impact on the manner in 
+which the circuits have interpreted the permanent juris- 
+dictional amendments. 
+
+
+1. AEDPA and IIRIRA’s Transitional 
+Amendments 
+
+
+Historically, deportation orders were reviewable in dis- 
+trict court, primarily through habeas corpus, and for a 
+brief period, through both habeas and APA declaratory 
+
+
+9 
+
+
+actions. See Shaughnessy v. Pedreiro, 349 U.S. 48, 
+52 (1955). In 1961, Congress amended the INA and 
+created a new judicial review scheme, formerly codified 
+at 8 U.S.C. 1105a et seq. (1994), INA § 106 et seq. 
+
+
+The 1961 amendments gave the courts of appeals “sole 
+and exclusive” jurisdiction to review final deportation 
+orders by means of a petition for review. See former 
+8 U.S.C. 1105a(a) (1994), INA § 106(a); Foti v. INS, 
+375 U.S. 217, 221 (1963). The 1961 amendments also 
+contained a provision that expressly stated that habeas 
+review of deportation orders remained available, 8 U.S.C. 
+1105a(a)(10), INA § 106(a)(10), although there was con- 
+fusion regarding precisely when aliens could invoke such 
+jurisdiction given that the 1961 amendments simultane- 
+ously vested the courts of appeals with “sole and exclu- 
+sive” jurisdiction over final deportation orders. See, e.g., 
+Nakaranurack v. INS, 68 F.3d 290, 293 (9th Cir. 1995); 
+United States ex rel. Marcello v. INS, 634 F.2d. 964, 969 
+(5th Cir. 1981). 
+
+
+AEDPA was enacted on April 24, 1996, and contained 
+two relevant changes to the judicial review scheme cre- 
+ated in 1961.° First, in Subtitle A of Title IV, AEDPA 
+§ 401(e) repealed the habeas provision in 8 U.S.C. 
+1105a(a)(10). 110 Stat. 1268. Second, in Subtitle B, 
+AEDPA § 440(a) amended former 8 U.S.C. 1105a(a)(10) 
+to provide that a final order of deportation entered against 
+immigrants deportable on the basis of certain enumerated 
+criminal offenses “shall not be subject to review by any 
+court.” 110 Stat. 1276-1277. AEDPA’s amendments did 
+not mention 28 U.S.C. 2241. 
+
+
+3 The courts of appeals held thet AEDPA’s jurisdictional provi- 
+
+
+sions went into effect immediately and applied to all cases pending on the 
+date of enactment. See, e.g., Hincapie-Nieto v. INS, 92 F.3d 27 (2d Cir. 
+1996). 
+
+
+10 
+
+
+IIRIRA became law four months later and enacted addi- 
+tional changes to judicial review, including both transi- 
+tional and permanent jurisdictional rules. The transitional 
+rules applied to immigration proceedings commenced 
+before April 1, 1997, in which the deportation order 
+became administratively final on or after October 31, 
+1996. IIRIRA §§ 309(a), (c)(1), (c)(4). Like AEDPA, 
+IIRIRA’s transitional amendments contained a provision 
+that restricted review in cases involving aliens deportable 
+on the basis of certain criminal offenses. That provision, 
+IIRIRA § 309(c)(4)(G), provided that “there shall be no 
+appeal permitted in the case of an alien who is inadmis- 
+sible or deportable by reason of having committed a crim- 
+inal offense covered in [enumerated INA sections].” 110 
+Stat. 3009-626. ITRIRA’s transitional rules, like AEDPA’s 
+amendments, did not mention Section 2241 habeas juris- 
+diction. 
+
+
+The jurisdictional amendments enacted by AEDPA and 
+IIRIRA’s transitional rules resulted in a 10-1 division in 
+the courts of appeals on the question of whether aliens 
+who are deportable on the basis of a criminal offense enu- 
+merated in AEDPA § 440(a) or JIRIRA § 309(c)(4)(G) 
+could obtain review of the BIA’s determination that they 
+are statutorily ineligible to apply for a waiver of depor- 
+tation (the question at issue here under IIRIRA’s perma- 
+nent rules). The circuits overwhelmingly held that such 
+challenges could no longer be brought in the courts of 
+appeals by petition for review, that the proper forum to 
+challenge a denial of a waiver of deportation was in a dis- 
+trict court habeas action, and that the scope of habeas 
+review included, at a minimum, constitutional and statu- 
+tory claims. Goncalves v. Reno, 144 F.3d 110 (1st Cir. 
+1998), cert. denied, 526 U.S. 1004 (1999); Henderson v. 
+INS, 157 F.3d 106 (2d Cir. 1998), cert. denied sub nom. 
+Reno v. Navas, 526 U.S. 1004 (1999); Sandoval v. Reno, 
+166 F.3d 225 (3d Cir. 1999); Bowrin v. INS, 194 F.3d 483 
+
+
+ey 
+- 
+a 
+' 2 
+‘ 
+3 
+P 
+: 
+e 
+A 
+
+
+Sryeronsenme 
+
+
+1] 
+
+
+(4th Cir. 1999); Requena-Rodriguez v. Pasquarell, 190 
+F.3d 299 (Sth Cir. 1999); Pak v. Reno, 196 F.3d 666 (6th 
+Cir. 1999); Shah v. Reno, 184 F.3d 719 (8th Cir. 1999); 
+Magana-Pizano v. INS, 200 F.3d 603 (9th Cir. 1999) 
+(“Magana-Pizano IT’); Jurado-Gutierrez v. Greene, 190 
+F.3d 1135 (10th Cir. 1999); Mayers v. INS, 175 F.3d 1289 
+(11th Cir. 1999). But see LaGuerre v. Reno, 164 F.3d 1035 
+(7th Cir. 1998), cert. denied, 120 S.Ct. 1157 (2000). 
+
+
+These courts concluded that the jurisdictional bar 
+repealed their own petition-for-review jurisdiction over 
+challenges to the denial of a waiver of deportation, 
+including their jurisdiction to review constitutional 
+claims, but held that nothing in AEDPA or IIRIRA’s tran- 
+sitional rules precluded district court habeas jurisdiction 
+over such challenges under 28 U.S.C. 2241. Applying this 
+Court’s decision in Felker v. Turpin, 518 U.S. 651, 660-61 
+(1996), which declined to find a repeal “by implication” 
+of the Court’s original habeas jurisdiction under Section 
+2241, the circuits held that the absence of an express 
+Statement repealing Section 2241 meant that such juris- 
+diction remained available to review certain aspects of a 
+deportation order that could not be challenged by a peti- 
+tion for review. The courts of appeals further held that the 
+scope of habeas review was not limited to reviewing sub- 
+Stantial constitutional claims but included review of 
+at least certain non-constitutional legal claims (such as 
+pure questions of statutory interpretation) because his- 
+torically non-constitutional legal claims were reviewable 
+in immigration habeas-actions and the plain terms of Sec- 
+tion 2241 authorized jurisdiction over violations of the 
+“Constitution or treaties or laws of the United States.” See 
+Section 2241(c)(3) (emphasis added); see also Section 
+2241(c)(1).4 
+
+
+4 The lone dissenting circuit was the Seventh, but even it dis- 
+
+
+agreed only in part with the majority approach. LaGuerre v. Reno, 164 
+F.3d 1035 (7th Cir. 1998), cert. denied, 120 S. Ct. 1157 (2000). LaGuerre 
+
+
+12 
+
+Both the government and aliens sought review in this 
+Court regarding the proper forum and scope of review to 
+challenge the denial of a waiver of deportation. The 
+government sought review in the first three decisions 
+adverse to its jurisdictional position (the First Circuit’s 
+decision in Goncalves; the Second Circuit’s decision 
+in Henderson/Navas; and the Ninth Circuit’s decision 
+in Magana-Pizano v. INS, 152 F.3d 1213 (9th Cir. 
+1998)(“Magana-Pizano I”). The Court denied the peti- 
+tions in Goncalves and Henderson/Navas, and remanded 
+the Ninth Circuit’s decision in Magana-Pizano I for 
+further consideration in light of the Court’s intervening 
+decision in Reno v. American-Arab Anti-Discrimination 
+Committee, 525 U.S. 471 (1999) (AADC). See Reno v. 
+Goncalves, 526 U.S. 1004 (1999) (denying certiorari); 
+Reno v. Navas, 526 U.S. 1004 (1999) (same); JNS v. Mag- 
+ana-Pizano, 526 U.S. 1001 (1999), vacating 152 F.3d 
+1213 (9th Cir. 1998).° See also LaGuerre v. Reno, 120 S. 
+Ct. 1157 (2000) (denying alien’s petition for certiorari). 
+
+
+held that habeas jurisdiction was not available to challenge a final depor- 
+tation order and that all review must be sought in the court of appeals by 
+means of a petition for review. However, LaGuerre expressed skepticism 
+(but ultimately did not rule) on the government's position that the scope 
+of review was limited to constitutional challenges and that Congress had 
+intended to foreclose all review of statutory claims challenging the denial 
+of a waiver of deportation, including the statutory retroactivity claim at 
+issue in that case: “It seems unlikely that Congress would have wanted the 
+Board to have the final word on so pure and fundamental a question of 
+law as when the statute went into effect.” 164 F.3d at 1041. 
+
+
+* Unlike the decisions in the other circuits, the Ninth Circuit rested 
+its decision on constitutional grounds because it found that Section 2241 
+had been repealed by one of ITRIRA’s provisions, 8 U.S.C. 1252(g). The 
+reach of that provision was significantly narrowed in AADC, 525 U.S. at 
+482, and on remand the Ninth Circuit joined nine other circuits in con- 
+cluding that none of the applicable amendments repealed Section 2241, 
+thereby obviating the need for a constitutional ruling. Magana-Pizano v. 
+INS, 200 F.3d 603 (9th Cir. 1999) (“Magana-Pizano II’). 
+
+
+Ee is eas . 
+
+
+eS er 
+
+
+13 
+
+
+2. IIRIRA’s Permanent Jurisdictional 
+Amendments 
+
+
+The permanent IIRIRA amendments repealed the prior 
+judicial review scheme (i.e., the 1961 scheme as amended 
+by AEDPA and IIRIRA’s transitional rules) and substi- 
+tuted a new statute, codified at 8 U.S.C. 1252 et seq. 
+Although the relevant permanent amendments are worded 
+differently, the basic structure of the new provisions is the 
+same. The permanent jurisdictional rules enacted by 
+IIRIRA contain provisions vesting the courts of appeals 
+with sole jurisdiction to review removal orders by petition 
+for review (see 8 U.S.C. 1252(a)(1); 1252(b)(9)) and, as 
+noted, include a provision restricting review for aliens 
+removable on the basis of specified criminal offenses. 
+codified at 8 U.S.C. 1252(a)(2)(C). Like the prior sets of 
+amendments, the permanent IIRIRA amendments do not 
+mention Section 2241 habeas jurisdiction. 
+
+
+As with the prior amendments, IIRIRA’s permanent 
+jurisdictional amendments have resulted in litigation 
+regarding the availability of judicial review over chal- 
+lenges to the denial of a waiver of deportation. Four cir- 
+cuits, including the court below, have held that aliens may 
+not challenge the denial of a waiver in the courts of 
+appeals by means of a petition for review, but may bring 
+both constitutional and statutory challenges to the denial 
+of a waiver in a Section 2241 habeas action in district 
+court. See Pet. App. la (opinion below); Mahadeo vy. 
+Reno, 226 F.3d 3, 13 (1st Cir. 2000), petition for certio- 
+rari pending, No. 00-962; Liang v. INS, 206 F.3d 308. 
+317-23 (3d Cir. 2000), petition for certiorari pending sub 
+nom. Rodriguez v. INS, No. 00-753; Flores-Miramontes v. 
+INS, 212 F.3d 1133, 1137 (9th Cir. 2000); Richards-Diaz 
+v. Fasano, No. 99-56530, 2000 WL 1715956 (9th Cir. 
+Nov. 17, 2000). 
+
+
+14 
+
+
+Three Circuits (the Fifth, Seventh and Eleventh) have 
+stated that there is generally no longer any habeas juris- 
+diction over final orders and that any review that remains 
+for aliens removable on the basis of a criminal conviction 
+enumerated in Section 1252(a)(2)(C) must be sought in 
+the court of appeals by a petition for review. These courts 
+have acknowledged that the permanent rules, like the 
+prior amendments, nowhere mention Section 2241, but 
+have concluded that the language and overall structure of 
+the permanent amendments are sufficient to repeal habeas 
+jurisdiction. Max-George v. Reno, 205 F.3d 194, 198 (5th 
+Cir. 2000) (challenge to threshold finding of deportabil- 
+ity, not denial of waiver), petition for certiorari pending, 
+No. 00-6280; Morales-Ramirez v. Reno, 209 F.3d 977, 980 
+(7th Cir. 2000); Richardson v. Reno, 180 F.3d 1311, 1315 
+(11th Cir. 1999) (“Richardson IT’) (challenge to detention, 
+not final order), cert. denied, 120 S.Ct. 1529 (2000). 
+
+
+C. Petitioners’ Administrative Immigration 
+Proceedings 
+
+
+1. Deboris Calcano-Martinez was admitted to the 
+United States as a lawful permanent resident in 1971 at 
+the age of three. Pet. App. 5a. She has four children who 
+are United States citizens. Jd. On April 24, 1996, peti- 
+tioner pled guilty in New York state court to the offense 
+of attempted criminal sale of a controlled substance in the 
+third degree. She received a sentence of 1-3 years. Pet. 
+App. 5a-6a. 
+
+
+Based on her criminal conviction, the Immigration and 
+Naturalization Service (INS) instituted removal pro- 
+ceedings against petitioner in June 1997, charging that 
+her criminal conviction rendered her deportable under 
+8 U.S.C. 1227(a)(2)(A)(iii) (aggravated felony), and 
+1227(a)(2)(B)(i) (controlled substance offense). In July 
+1997, an immigration judge determined that petitioner 
+was deportable as charged and also held that she was 
+
+
+Bees 
+
+
+TH SNS 
+
+
+CQ EMR LTE AN AER IO TAPS SA ONE HO a TSR TEI Er Pe Gagne 
+
+
+Se ERIN LA SN ONRLo rtee SeAES LERN R EATRRDoaa 
+
+
+: 
+¥ 
+; 
+y 
+. 
+Fi 
+2 
+i 
+Mi 
+: 
+= 
+i 
+3 
+i 
+
+
+15 
+
+
+Statutorily ineligible to apply for a waiver of deportation 
+under former 8 U.S.C. 1182(c), INA § 212(c), on the 
+ground that IIRIRA had repealed Section 1182(c) as of 
+April 1, 1997.° 
+
+
+The BIA affirmed on December 30, 1997, agreeing that 
+petitioner was statutorily ineligible to apply for Section 
+1182(c) relief in light of IIRIRA. Pet. App. 37a-39a. The | 
+BIA’s decision was based on IIRIRA § 304(b), 110 Stat. 
+3009-597, one of the permanent IIRIRA substantive 
+amendments. Pet. App. 38a. In light of IIRIRA § 304(b), 
+which repealed 8 U.S.C. 1182(c) (INA § 212(c)) as of 
+April 1, 1997 (IIRIRA’s general effective date), the BIA 
+reasoned that a waiver under former Section 1182(c) was 
+not a form of relief that is available to aliens, like peti- 
+
+
+tioner, whose immigration proceedings commenced on or 
+after April 1, 1997. 
+
+
+2. Sergio Madrid became a lawful permanent resident 
+of the United States on December 20, 1989, at the age of 
+seventeen. Pet. App. 7a. In September 1994, he was con- 
+victed in New York state court for the offense of criminal 
+sale of a controlled substance in the second degree. He 
+received an indeterminate sentence of four years to life 
+
+
+. Former Section 1182(c) authorized the Attorney General (or 
+
+
+her delegates—immigration judges and the BIA) to waive deportation 
+for longtime lawful permanent residents who satisfied the statutory 
+eligibility criteria. Prior to the 1996 amendments, lawful permanent 
+residents were statutorily eligible to apply for a Section 1182(c) 
+waiver if they had a lawful unrelinquished domicile in this country for 
+seven years, and, if convicted of an “aggravated felony” (as defined 
+in the INA, 8 U.S.C. 1101(a)(43) (1994)), had not served a term of 
+imprisonment for that conviction of five years or longer. 8 U.S.C. 
+1182(c) (1994). See Matter of Silva, 161. & N. Dec. 26 (BIA 1976). 
+The request for Section 1182(c) relief was adjudicated by an immi- 
+gration judge as part of the deportation process and an order of depor- 
+tation was not entered until the Section 1182(c) application was 
+adjudicated. 
+
+
+16 
+
+
+imprisonment, but was released after approximately four 
+years. Pet. App. 7a. 
+
+
+Based on his criminal conviction, the INS instituted 
+removal proceedings against him in June 1997. Petitioner 
+conceded that his criminal conviction rendered him 
+deportable under 8 U.S.C. 1227(a)(2)(A)(iii) (aggravated 
+felony) and 1227(a)(2)(B)(i) (controlled substance 
+offense), but sought to apply for a Section 1182(c) waiver 
+of deportation. Pet. App. 45a. In October 1997, an immi- 
+gration judge determined that petitioner was statutorily 
+ineligible for Section 1182(c) relief in light of IIRIRA, 
+denied the request for a waiver as a matter of law, and 
+ordered him removed from the United States. Pet. 
+App.40a, 43a. The BIA affirmed on May 5, 1998, agree- 
+ing that petitioner was statutorily ineligible to apply for 
+Section 1182(c) relief in light of IIRIRA’s repeal of that 
+section. Pet. App. 45a-47a. 
+
+
+3. Fazila Khan was admitted to the United States as a 
+lawful permanent resident in September 1987. Pet. App. 
+7a-8a. She has a four-year-old daughter who is a United 
+States citizen. Khan’s mother and sister are also United 
+States citizens, as are five of her aunts and uncles. Pet. 
+App. 8a. In November 1996, petitioner pled guilty to a 
+controlled substance offense committed in March 1996, 
+for which she received a four-month sentence followed by 
+a one-year period of supervised release. Pet. App. 8a, 59a. 
+
+
+Based on her criminal conviction, the INS instituted 
+removal proceedings against petitioner in May 1997, 
+charging that she was deportable as an aggravated felon 
+under 8 U.S.C. 1227(a)(2)(A)(iii). She conceded that she 
+was deportable in light of her criminal conviction, but 
+
+
+sought to apply for a Section 1182(c) waiver. In July ~ 
+
+
+1997, an immigration judge determined that she was 
+statutorily ineligible for Section 1182(c) relief in light of 
+IIRIRA. Pet. App. 60a. The BIA affirmed on May 28, 
+
+
+F 
+3 
+y 
+Ps 
+& 
+¢ 
+3 
+bs 
+Ps 
+# 
+x 
+% 
+& 
+q 
+& 
+3 
+Ee 
+* 
+e 
+¢ 
+Dd 
+
+
+: 
+: 
+; 
+{ 
+: 
+; 
+
+
+Raed :s) 
+
+
+Perey 
+
+
+17 
+
+
+1997, agreeing that petitioner was statutorily ineligible to 
+apply for Section 1182(c) relief in light of IIRIRA. Pet. 
+App. 72a-73a. 
+
+
+D. Decision of the Court of Appeals 
+
+
+All three petitioners filed petitions for review in the 
+court of appeals seeking review of the BIA’s ruling on two 
+main grounds. The first is a statutory claim: that IIRIRA’s 
+repeal of the INA’s former Section 1182(c) waiver pro- 
+vision does not apply retroactively to cases where the 
+relevant criminal conduct triggering deportation occurred 
+before passage of the 1996 amendments. The second is a 
+constitutional claim: that the retroactive repeal of Section 
+1182(c) relief under the circumstances here would be arbi- 
+trary and irrational in violation of due process and equal 
+protection. Because of the jurisdictional controversy sur- 
+rounding the 1996 amendments, all three petitioners also 
+filed district court habeas corpus actions raising the same 
+Statutory and constitutional claims, which the district 
+courts have declined to adjudicate pending a final dispo- 
+sition on the petitions for review. 
+
+
+The court of appeals consolidated the three petitions for 
+review for purposes of argument and ruling and issued a 
+consolidated decision on September 1, 2000. In light of 
+the jurisdictional bar in 8 U.S.C. 1252(a)(2)(C), the court 
+of appeals held that it could not entertain petitioners’ con- 
+stitutional or statutory claims challenging the denial of a 
+Section 1182(c) waiver because the jurisdictional bar in 
+Section 1252(a)(2)(C) repealed the court’s petition-for- 
+review jurisdiction over such challenges. The court stated 
+that it was unnecessary for it to create exceptions to the 
+jurisdictional bar because the permanent rules left open 
+district court habeas review under 28 U.S.C. 2241 as an 
+adequate alternative avenue of review. By finding that 
+habeas jurisdiction remained available to challenge the 
+denial of Section 1182(c) relief, the court avoided the 
+
+
+18 
+
+
+“profound constitutional questions” that would have been 
+triggered by a repeal of habeas corpus in the absence of 
+some other avenue of review over petitioners’ constitu- 
+tional and statutory claims. Pet. App. 31a. 
+
+
+The court of appeals’ conclusion that Section 2241 
+habeas review remained available was based on its prior 
+decisions interpreting the jurisdictional provisions of 
+AEDPA and IIRIRA’s transitional rules. The court of 
+appeals stated that under those decisions Section 2241 
+could only be repealed by an express directive. Noting 
+that none of the permanent provisions mentioned Section 
+2241, the Court held that the amendments did not repeal 
+that grant of jurisdiction. Pet. App. 22a-23a. The court of 
+appeals thus held that Section 2241 jurisdiction remains 
+available and instructed petitioners that they could pursue 
+their claims by means of their previously-filed habeas 
+actions.’ ; 
+
+
+E. The St. Cyr Decision 
+
+
+St. Cyr and the instant case were argued before the 
+same pane! and decided on the same day. St. Cyr v. INS, 
+229 F.3d 406 (2d Cir. 2000). Like the petitioners in 
+this case, the BIA found that the alien in St. Cyr was 
+deportable on the basis of a pre-1996 criminal offense and 
+that he was statutorily ineligible to apply for a Section 
+1182(c) waiver in light of IIRIRA’s repeal of that form of 
+
+
+7 All three habeas petitions were filed in October 1999. In 
+
+
+Khan, the habeas action was held in abeyance and remains pending. 
+Pet. App. 8a. In the other two cases (Calcano-Martinez and Madrid), 
+a stipulation and order was entered in December 1999 dismissing the 
+habeas petition without prejudice to refiling depending upon the Sec- 
+ond Circuit's disposition of the petitions for review. Pet. App. 6a-7a. 
+The agreement provided that any refiling of the habeas petition would 
+await issuance of the mandate by the Second Circuit, which has not 
+yet issued because the government has moved to stay the mandate 
+pending this Court’s disposition of St. Cyr. The motion is currently 
+before the court of appeals. 
+
+
+19 
+
+
+relief as of April 1, 1997. And, as in this case, the alien in 
+St. Cyr challenged the BIA’s Section 1182(c) ruling on 
+both statutory retroactivity and constitutional due process 
+grounds. Unlike the petitioners in this case, the alien in 
+St. Cyr filed a disirict court habeas action but not a 
+petition for review in the court of appeals. 
+
+
+The Second Circuit’s St. Cyr decision held that the 
+district court had habeas jurisdiction over the alien’s 
+claims and, on the merits, that the BIA erred in finding 
+that the alien was statutorily ineligible to apply for a 
+Section 1182(c) waiver. The court’s jurisdictional dis- 
+cussion was brief and simply noted that the jurisdictional 
+issue had been decided in Calcano-Martinez. St. Cyr, 229 
+F.3d at 409-10. 
+
+
+On the merits, the court concluded that the repeal of the 
+INA’s former Section 1182(c) waiver provision did not 
+apply retroactively to cases where the alien’s criminal 
+conviction triggering deportation occurred by plea agree- 
+ment prior to passage of the 1996 amendments, reasoning, 
+inter alia, that aliens may have relied on the availability 
+of Section 1182(c) relief when they agreed to plead guilty 
+to an offense that would render them deportable. 229 F.3d 
+at 417-21. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+The jurisdictional question decided by the court of 
+appeals in this case was whether IIRIRA precluded all 
+avenues of review over petitioners’ statutory and consti- 
+tutional claims, and if so, whether the complete preclusion 
+of review is constitutional. The Second Circuit held that 
+IIRIRA repeals the court of appeals’ petition-for-review 
+jurisdiction, but preserves habeas jurisdiction, and thus, 
+does not foreclose all review. The Solicitor General’s peti- 
+tion in St. Cyr urges the Court to grant certiorari to review 
+the Second Circuit’s conclusion that IIRIRA preserved 
+
+
+20 
+
+
+habeas jurisdiction over the types of claims raised in 
+St. Cyr and this case. If the Court decides that the Second 
+Circuit’s interpretation of IIRIRA warrants review, peti- 
+tioners submit that this case is a better vehicle than 
+St. Cyr to undertake that review because the petitioners in 
+this case filed petitions for review and district court 
+habeas actions, whereas the alien in St. Cyr filed only a 
+habeas action. Therefore, St. Cyr may raise issues that are 
+ancillary to the central jurisdictional question decided by 
+the court of appeals, i.e., whether IIRIRA preserves any 
+avenue of review.® Accordingly, if the Court decides that 
+the jurisdictional issue warrants review, petitioners 
+respectfully request that the Court grant this petition and 
+hold the petition in St. Cyr. Alternatively, if the Court 
+were to grant certiorari in St. Cyr on the jurisdictional 
+question, petitioners respectfully request that the Court 
+also grant this petition given the differing postures of the 
+two cases. 
+
+
+8 The ancillary issues would arise if this Court were to hold 
+
+
+that the statutory and constitutional claims raised in St.Cyr and this 
+case are reviewable by petition for review and not by habeas corpus 
+in the district court. Such a result would raise issues regarding 
+whether an alien may now file a petition for review, or alternatively, 
+may obtain habeas review even if there is generally no habeas juris- 
+diction available. These subordinate issues may turn significantly on 
+the extent to which then-existing circuit precedent suggested that the 
+filing of a petition for review would have been futile, thereby caus- 
+ing aliens to seek review only by means of a district court habeas 
+action. See, e.g., Pet. App. 29a (opinion below) (noting that Second 
+Circuit’s prior precedent construing AEDPA and IIRIRA’s transitional 
+rales foreclosed petition-for-review jurisdiction and stating that those 
+decisions dictated the same result under the similar amendments made 
+by IIRIRA’s permanent rules); Mahadeo, supra, 226 F.3d at 8-14 
+(same); Liang, 206 F.3d at 322-23 (same). 
+
+
+21 
+
+This case presents a better jurisdictional vehicle 
+because, as noted, the petitioners here all filed petitions 
+for review and district court habeas actions. As the courts 
+of appeals have recognized, the availability of habeas 
+jurisdiction should not be assessed in isolation from the 
+availability of petition-for-review jurisdiction. The proper 
+interpretation and constitutionality of the recent juris- 
+dictional amendments hinge critically on the interplay 
+between petition-for-review and habeas corpus jurisdic- 
+tion and the extent to which at least one of those avenues 
+remains available. 
+
+
+Indeed, the Second Circuit in this case never suggested 
+that petitioners could seek review in a district court 
+habeas action irrespective of whether or not review was 
+available in the court of appeals by means of a petition for 
+review. The Second Circuit made clear that its conclusion 
+that habeas review remains available could not be 
+divorced from its holding that petitioners were precluded 
+from obtaining review in the court of appeals by petition 
+for review: 
+
+
+Without habeas jurisdiction to review final orders, 
+there is currently no judicial review at all of a 
+removal order issued against a non-citizen who is 
+ordered removable because he or she committed a 
+certain crime. Because habeas jurisdiction is consti- 
+tutionally required where the immigration laws have 
+been interpreted to bar other forms of judicial review 
+under § 242(a)(2)(C), our decision that habeas review 
+remains for a criminal alien’s legal challenge to his 
+or her deportation order-obviates the profound con- 
+Stitutional question that would arise if we concluded 
+that all judicial review had been eradicated. 
+
+
+Pet. App. 31a. See also id. at 28a-29a (discussing prior 
+Second Circuit precedent construing jurisdictional pro- 
+visions of AEDPA and IIRIRA’s transitional rules and not- 
+
+
+22 
+
+
+ing that because those provisions “eradicated all review 
+[in the court of appeals] for legal residents ordered 
+removed owing to a prior conviction, habeas review of 
+this class of claims remains”). 
+
+
+The Second Circuit’s analysis is consistent with the 
+analysis in other circuits. As the Third Circuit stated in 
+finding that habeas jurisdiction remains available under 
+IIRIRA’s permanent rules to review the identical types of 
+Statutory and constitutional claims advanced in this case, 
+“determination of our jurisdiction over the petitions for 
+review is inextricably intertwined with the question 
+whether the district courts have continued habeas juris- 
+diction.” Liang, 206 F.3d at 312. See also Mahadeo, 226 
+F.3d at 10 (“Our conclusion that IIRIRA does not repeal 
+the availability of § 2241 relief in immigration cases also 
+avoids the ‘serious, novel, and complex’ constitutional 
+concerns raised by the elimination of aliens’ historic 
+access to general federal habeas corpus jurisdiction when 
+no other judicial review remains”) (emphasis added) (cita- 
+tions omitted). 
+
+
+_ Thus, as the courts of appeals have recognized, if con- 
+stitutionally adequate review is available by petition for 
+review, then access to habeas review is not necessary. 
+Similarly, if constitutionally adequate review is available 
+in the district court, then the lack of jurisdiction in the 
+courts of appeals by petition for review is unproblematic. 
+However, a profound constitutional issue would arise 
+if IIRIRA’s amendments were construed to preclude 
+both avenues of jurisdiction over either constitutional 
+or statutory challenges. Consequently, this Court must 
+first determine as a matter of statutory interpretation 
+whether ITRIRA has repealed review in both the district 
+court and the court of appeals. That question of statutory 
+interpretation is best presented in this case because peti- 
+tioners filed petitions for review and district court habeas 
+
+
+23 
+
+
+actions, and thus, this case does not present the ancillary 
+questions potentially presented by cases, such as St. Cyr, 
+where the alien did not file a petition for review. 
+
+
+Although such ancillary issues are properly of concern 
+in cases where the alien did not file a petition for review, 
+they are subordinate issues that go beyond the central 
+jurisdictional question decided by the Second Circuit in 
+this case regarding whether any avenue of review remains 
+available. If this Court were to grant certiorari and were 
+to decide that the Second Circuit erred in finding habeas 
+jurisdiction, those ancillary issues afe appropriately 
+decided by the courts of appeals in the first instance. 
+
+
+The government’s St. Cyr petition does not contend that 
+St. Cyr is a better or more complete vehicle than this case 
+to decide the jurisdictional question. The government has 
+taken the same jurisdictional position in both this case and 
+St. Cyr: that (1) IIRIRA has eliminated all habeas juris- 
+diction over final removal orders and placed all review in 
+the courts of appeals by means of a petition for review, (2) 
+the scope of review in the courts of appeals is limited to 
+correcting substantial constitutional errors regarding eli- 
+gibility for a Section 1182(c) waiver and does not encom- 
+pass any non-constitutional errors, (3) the aliens in this 
+case and St. Cyr have not raised a “substantial” consti- 
+tutional claim, and accordingly (4) the statutory and con- 
+stitutional claims raised in this case and St. Cyr may not 
+be heard in any court. Moreover, the government 
+acknowledges that the exhaustive decision issued in this 
+case is the Second Circuit’s principal jurisdictional ruling 
+but notes in its petition in St. Cyr (at 19 n. 13) that it was 
+not in a position to seek certiorari in this case because it 
+was “nominally” the prevailing party, i.e., the Second Cir- 
+cuit dismissed the petitions for review as the government 
+requested. B 
+
+
+24 
+
+
+Rather, the government seeks certiorari in St. Cyr 
+because it also presents the merits question decided by the 
+Second Circuit. The presence of the merits question in 
+St. Cyr does not, of course, affect the separate question 
+of whether that case is the best vehicle to address the 
+jurisdictional issue decided by the Second Circuit. If 
+the Court concludes that the merits issue decided in 
+St. Cyr warrants review, then that question should be 
+separately briefed and argued in that case and the juris- 
+dictional issues should be fully addressed in this case. 
+
+
+In sum, given that the decision in this case was the Sec- 
+ond Circuit’s principal jurisdictional ruling, that the gov- 
+ernment’s jurisdictional contentions are identical in 
+St. Cyr and this case, and that the alien in St. Cyr did not 
+file a petition for review, this case is the better vehicle for 
+the Court to address the Second Circuit’s interpretation of 
+ITRIRA’s jurisdictional amendments (assuming the Court 
+concludes that the issue warrants its attention in the first 
+place). If, however, the Court were to decide to grant 
+review on the jurisdictional question in St. Cyr, peti- 
+tioners respectfully request that the Court also grant this 
+petition. 
+
+
+25 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, if the Court decides that the 
+jurisdictional issues raised in this case and St.Cyr warrant 
+review, petitioners respectfully request that the Court 
+either (1) grant this petition and hold the petition in Sz. 
+Cyr pending disposition of the jurisdictional issues in this 
+case, or (2) grant the petitions in this case and St. Cyr. 
+
+
+Respectfully Submitted, 
+
+
+Kerry W. Bretz — Lucas Guttentag 
+Jules E. Coven Counsel of Record 
+Alan Michael Strauss Lee Gelernt 
+BRETZ & COVEN AMERICAN CIVIL LIBERTIES 
+305 Broadway ~ UNION FOUNDATION 
+Suite 100 Immigrants’ Rights Project 
+New York, New York 125 Broad Street 
+
+10007 New York, New York 10004 
+(212) 267-2555 (212) 549-2621 
+
+
+Attorneys for Petitioners 
+
+

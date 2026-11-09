@@ -1,0 +1,11 @@
+{
+  "checked": 117,
+  "unchanged": true,
+  "discrepancies": [],
+  "allowed_projection_changes": [
+    "terms/OT2000/workspace/continuity.md",
+    "terms/OT2000/workspace/ledger.md",
+    "terms/OT2000/workspace/manifest.md",
+    "terms/OT2000/workspace/neutral-projection.md"
+  ]
+}

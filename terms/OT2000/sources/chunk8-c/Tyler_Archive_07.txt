@@ -1,0 +1,1009 @@
+Supreatc Comt, U8, 
+| FILED 
+2 tal on 
+V"\ ar J >) os 
+No. 00-5961 _OFMICK OF TRE CLARE 
+In The 
+Supreme Court of the United States 
+¢ 
+
+
+MELVIN TYLER, 
+Petitioner, 
+
+
+BURL CAIN, WARDEN, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fifth Circuit 
+
+
+S 
+
+
+BRIEF FOR RESPONDENT 
+® 
+
+
+Harry F. Connick 
+District Attorney 
+Parish of Orleans 
+
+
+Cuar.es E. F. Hever 
+Counsel of Record 
+
+Assistant District Attorney 
+Parish of Orleans 
+
+
+Vat M. Souno, Bar No. 1610 
+Assistant District Attorney 
+Parish of Orleans 
+
+619 South White Street 
+
+New Orleans, Louisiana 70119 
+Telephone: (504) 822-2414 
+
+
+QUESTIONS PRESENTED 
+I. 
+
+
+Whether 28 U.S.C. §2244(b)(2)(A)’s prohibition on 
+successive petitions that do not rely on a “new rule of 
+constitutional law made retroactive to cases on collateral 
+review by the Supreme Court,” requires that the new rule 
+be specifically declared retroactive by this Court or 
+whether an appeals court may examine this Court's 
+precedent to determine whether the new rule is of the 
+type available to those proceeding on collateral review? 
+
+
+II. 
+
+
+Whether Cage v. Louisiana falls within the second 
+Teague exception of watershed cases of constitutional 
+law? 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED .............0..cceceeees 
+TABLE OF CONTENTS..........ccescscssecsseeces i 
+TABLE OF AUTHORITIES ...............eseseeees. iii 
+OPINIONS OF THE COURTS BELOW ............. 1 
+STATUTORY PROVISIONS INVOLVED...........-. 1 
+STATEMENT OF FACTS .........ccscesesessesesess 2 
+SUMMARY OF ARGUMENT............c.c0ceeee: 4 
+ct er 5 
+
+
+I. THE PLAIN LANGUAGE OF 28 U.S.C. 
+§2244(b)(2)(A) REQUIRES THAT THIS 
+COURT SPECIFICALLY DECLARE THE COL- 
+LATERAL AVAILABILITY OF NEW RULES 
+
+
+OF CONSTITUTIONAL LAW.............-. 5 
+
+II. CAGE V. LOUISIANA ANNOUNCED A NEW 
+BUILE .... ...c0s0cucscouaeuaunauea 12 
+
+III. CAGE V. LOUISIANA IS NOT A “WATERSHED 
+RULE” OF CRIMINAL PROCEDURE ......... 13 
+CONTCLUIBBOIN .... ..0cccccceccensaunununn 20 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Adams v. Aiken, 965 F.2d 1306 (4th Cir. 1992), cert. 
+denied, sub nom. Adams v. Evatt, 508 U.S. 974 (1993), 
+reh'g granted, 511 U.S. 1001 (1994) ........... 12, 13, 16 
+Adams v. Aiken, 41 F.3d 175 (4th Cir. 1994).......... 14 
+Bennett v. United States, 119 F.3d 470 (7th Cir. 1997) ...8, 9 
+Bets v. Brady, 316 U.S. 455 (1942) .......... ccc eeeees 17 
+Brown v. Lensing, 171 F.3d 1031 (5th Cir. 1999) ..... 6, 8 
+Cage v. Louisiana, 498 U.S. 39 (1990)............. passim 
+Calderon v. Thompson, 523 U.S. 538 (1998).......... 9, 11 
+Caldwell v. Missisippi, 472 U.S. 320 (1985)......... 18, 19 
+Donnelly v. DeChristoforo, 416 U.S. 637 (1974)........ 18 
+Gaines v. Kelly, 202 F.3d 598 (2d Cir. 2000) ....... 16, 17 
+
+
+Gideon v. Wainwright, 372 U.S. 335 (1963)..... 13, 17, 18 
+
+
+Humphrey v. Cain, 120 F.3d 526 (5th Cir. 1997), 
+rehearing en banc, 138 F.3d 552 (5th Cir. 1998), 
+
+
+cert. denied, 525 U.S. 935 (1998) ...........0005: 15, 16 
+In re Smith, 142 F.3d 832 (5th Cir. 1998)........ 6, 8, 12 
+In re Hill, 113 F.3d 181 (11th Cir. 1997)............. 6, 8 
+In ré Vial, 115 F.3d 470 (1997).............. cece eeeees 8 
+In re Winship, 397 U.S. 358 (1970)...........5505- 13, 19 
+Nevius v. Sumner, 105 F.3d 453 (9th Cir. 1996)....... 10 
+
+
+Nutter v. White, 39 F.3d 1154 (11th Cir. 1994)..6, 15, 18 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+Rodriguez v. Superintendent, Bay State Correctional 
+
+Center, 139 F.3d 270 (1st Cir. 1998)............... 7,8 
+Saffle v. Parks, 494 U.S. 484 (1990).......:......0005. 17 
+Sawyer v. Smith, 497 U.S. 227 (1990)...... 13, 14, 18, 19. 
+Skelton v. Whitley, 950 F.2d 1037 (5th Cir. 
+
+Pee Pcccconcccecsecsueuccacesrevesdsccouces 12, 13, 15 
+Sullivan v. Louisiana, 508 U.S. 275 (1993)......... passim 
+State ex rel. Taylor v. Whitley, 606 So.2d 1292 (La. 
+
+PUP cccccesevecccdesecnsedesecadocesesossesesonss 12 
+Teague v. Lane, 489 U.S. 288 (1989) .............. passim 
+Tillman v. Cook, 215 F.3d 1116 (10th Cir. 2000)....... 18 
+West v. Vaughn, 204 F.3d 53 (3d Cir. 
+
+BEEP o ccnecuconccsccceceneseusssss 4,7, 9, 10, 11, 15 
+STATUTE 
+BD Weies BH Beis co cccccesccceccescescosenceséess passim 
+
+
+\ 
+
+
+OPINIONS OF THE COURTS BELOW 
+
+
+The opinion of the court of appeals is not reported. It 
+is found in the Joint Appendix at pages 14-15. The opin- 
+ion of the district court is not reported. It is found in the 
+Joint Appendix at pages 3-13. 
+
+
+¢ 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+(2) A claim presented in a second or successive 
+habeas corpus application under section 2254 that was 
+not presented in a prior application shall be dismissed 
+unless - 
+
+
+(A) the applicant shows that the claim relies on 
+a new rule of constitutional law, made retroac- 
+tive to cases on collateral review by the Supreme 
+Court, that was previously unavailable; or 
+
+
+(B)(i) the factual predicate for the claim could 
+not have been discovered previously through 
+the exercise of due diligence; and 
+
+
+(ii) the facts underlying the claim, if proven 
+and viewed in light of the evidence as a whole, 
+would be sufficient to establish by clear and 
+convincing evidence that, but for constitutional 
+error, no reasonable factfinder would have 
+found the applicant guilty of the underlying 
+offense. 
+
+
+(3)(A) Before a second or successive application 
+permitted by this section is filed in the district court, the 
+applicant shall move in the appropriate court of appeals 
+for an order authorizing the district court to consider the 
+application. 
+
+
+(B) A motion in the court of appeals for an order 
+authorizing the district court to consider a second or 
+successive application shall be determined by a three- 
+judge panel of the court of appeals. 
+
+
+(C) The court of appeals may authorize the filing of 
+a second or successive application only if it determines 
+that the application makes a prima facie showing that the 
+application satisfies the requirements of this subsection. 
+
+
+(D) The court of appeals shall grant or deny the 
+authorization to file a second or successive application 
+not later than 30 days after the filing of the motion. 
+
+
+(E) The grant or denial of an authorization by a 
+court of appeals to file a second or successive application 
+shall not be appealable and shall not be the subject of a 
+petition for rehearing or for a writ of certiorari. 
+
+
+(4) A district court shall dismiss any claim pre- 
+sented in a second or successive application that the court 
+of appeals has authorized to be filed unless the applicant 
+shows that the claim satisfies the requirements of this 
+section. 
+
+
+° 
+
+
+STATEMENT OF FACTS 
+
+
+Sometime near 2:00 a.m. on March 20, 1975, Melvin 
+Tyler telephoned his estranged lover, Gloria Augustine 
+wanting to know if she would return to him, or if she 
+planned on reuniting with her husband. She replied no to 
+each question and informed him that she was hanging up 
+the telephone. (Tr. p. 66) Approximately five to ten min- 
+utes later, without warning, Melvin Tyler fired five shots 
+
+
+from a twenty-two caliber revolver into the bedroom of 
+Gloria Augustine. (Tr. p. 57) Tvler’s own child, a new- 
+born, Melba Augustine, was struck by three separate 
+bullets, in the head, chest and hand, and died. (Tr. pp. 
+3-6) The bullets were fired through a square piece of 
+cardboard covering a broken segment of the bedroom 
+window. (Tr. pp. 12, 66) Powder burns on the cardboard 
+indicated the gun was fired from a distance of one to 
+three inches. (Tr. p. 32) The child was laying on a bed 
+directly in front of and against the window. Gloria and 
+her husband, Joseph Augustine, were also in the room on 
+the bed or an adjacent bed. (Tr. pp. 57, 65) 
+
+
+Shortly after the shots were fired, Tyler began throw- 
+ing bricks through nearly all the windows of the residence 
+including the window adjacent to where the child lay. (Tr. 
+pp. 10-11, 57, 67- 68) Gloria Augustine went to the aide of 
+the newborn and then called out to Tyler, “Melvin my 
+baby is dead.” He responded, “Bitch I am going to kill 
+you” and threw another brick through a window. (Tr. pp. 
+57, 68) In the house next door, Gloria Augustine’s sister, 
+Erma Damango, hearing all that was transpiring, called 
+out to Tyler to stop, that the children were in the house. 
+He responded by telling her to shut up, that he was “going 
+to get the bitch,” either “next” or “first.” (Tr. p. 48) 
+
+
+Upon seeing that Tyler was about to gain entry into 
+the house through the front door, Gloria Augustine, carry- 
+ing the child, and Joseph Augustine fled out of the rear of 
+the house. (Tr. p. 10-11, 74) Gloria entered her sister’s 
+house next door. When the two women heard shaking at 
+the back door, the sister moved the refrigerator in front of 
+it. (Tr. p. 69) Whereupon, Tyler threw a brick through a 
+window at that residence. (Tr. p. 69) In the alleyway, 
+
+
+Joseph Augustine confronted Tyler and the two struggled 
+until Tyler fled the area. (Tr. p. 58) The gun was recovered 
+in the rear of a neighbor’s residence. (Tr. p. 78) 
+
+
+At trial Tyler testified that he had been drinking and 
+that after talking to Gloria he was “steamed” and did not 
+have the intent to kill or hurt anyone especially not his 
+daughter. (Tr. pp. 91-92) 
+
+
++ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The clear intent of 28 U.S.C. § 2244(b)(2)(A) is that 
+only rules that have been explicitly determined by this 
+Court to fall within one of the two exceptions to Teague’s 
+prohibition against the retroactive application of new 
+rules of constitutional law may serve as the basis for a 
+successive writ of habeas corpus. Every court to have 
+considered the issue, with the exception of the Third 
+Circuit in West v. Vaughn, 204 F.3d 53 (3d Cir. 2000), has 
+determined that the plain implication of the statute, not- 
+withstanding the reviewing court’s own consideration of 
+the issue, is that only this Court can make new rules 
+retroactive for purposes of succesive petitions by holding 
+so directly. 
+
+
+The interpretation adopted by the Third Circuit, and 
+advanced by petitioner, is inconsistent with the sections 
+respect for the finality for criminal judgments. Absent an 
+affirmative statement from this Court, the courts of 
+appeals will no doubt be lead to varying and inconsistent 
+determinations of the availability of new rules to pris- 
+oners attempting to file successive petitions. Further- 
+more, that Congress did not anticipate the interpretation 
+advanced by petitioner, is reflected in the concurrent 
+
+
+— 
+
+
+requirements of § 2244 regarding a prima facie showing 
+that the requirements of the section be satisfied, and that 
+the motion to file successive petitions be ruled on within 
+thirty days, and that the district court dismiss any claim 
+that fails to satisfy the requirements of the section. Finally 
+had Congress sought to employ the interpretation 
+advanced by petitioner, it would have employed the Tea- 
+gue standard directly rather than including the require- 
+ment of action by this Court. 
+
+
+The two courts to address the retroactivity of Cage v. 
+Louisiana, 498 U.S. 39 (1990) prior to this Court’s decision in 
+Sullivan v. Louisiana, 508 U.S. 275 (1993), determined that 
+Cage did not satisfy the second Teague exception because Cage 
+did not alter the elements essential to the fairness of a 
+proceeding and was not a watershed rule of criminal pro- 
+cedure. They were correct. Cage provides an additional mea- 
+sure of protection to an existing guarantee of due process 
+protection- against fundamental unfairness and is therefore 
+not a watershed case. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+I. THE PLAIN LANGUAGE OF 28 U.S.C. 
+§ 2244(b)(2)(A) REQUIRES THAT THIS COURT 
+SPECIFICALLY DECLARE THE COLLATERAL 
+AVAILABILITY OF NEW RULES OF CONSTITU- 
+TIONAL LAW. 
+
+
+The issue of whether 28 U.S.C. § 2244(b)(2)(A) 
+requires a specific declaration as to the collateral avail- 
+ability of new rules of constitutional law by this court or 
+whether the statute can be fairly read to include the 
+ability of federal courts to assess the availability of the 
+
+
+new rule on their own (by applying a traditional Teague 
+analysis) has been raised on numerous occasions. In In re 
+Smith, 142 F.3d 832 (5th Cir. 1998), an inmate serving a life 
+sentence for second degree murder sought to file a suc- 
+cessive petition raising a Cage claim. The Fifth Circuit 
+held that while Cage constituted “a new rule of constitu- 
+tional law”, the Supreme Court had not itself made Cage 
+retroactive to cases on collateral review, as required by 
+2244(b)(2)(A). See also Brown v. Lensing, 171 F.3d 1031 (5th 
+Cir. 1999) (although Court of Appeals had granted per- 
+mission to file a successive petition, district court prop- 
+erly dismissed petition since Brown failed to identify any 
+decision by the Supreme Court authorizing collateral 
+review of his Cage claim). 
+
+
+In In re Hill, 113 F.3d 181 (11th Cir. 1997), a death row 
+inmate sought to file a successive habeas petition, claim- 
+ing that his Cage claim was exempt from the successive 
+petition bar because it relied upon a new, retroactively 
+applicable rule of constitutional law under 28 U.S.C. 
+§ 2244(b)(2)(A). The Court held that even though the 
+Eleventh Circuit had previously held! that Cage should 
+properly be retroactively applied to cases on collateral 
+review, that conclusion did not justify review of a succes- 
+sive habeas action: “Hill’s Cage claim [did] not satisfy the 
+requirement that any new rule of constitutional law relied 
+upon must have been ‘made retroactive to cases on collat- 
+eral review by the Supreme Court,’” since the United 
+States Supreme Court had never so ruled. Id., at 184 
+(emphasis in original). 
+
+
+1 Nutter v. White, 39 F.3d 1154, 1157-58 (11th Cir. 1994). 
+
+
+Similarly, in Rodriguez v. Superintendent, Bay State Cor- 
+rectional Center, 139 F.3d 270 (ist Cir. 1998), an inmate 
+serving a life sentence for first degree murder sought to 
+file a successive habeas petition raising a Cage claim. The 
+First Circuit held that while Cage did indeed amount to “a 
+new rule of constitutional law” that was “previously 
+unavailable” to Rodriguez, the Cage rule had not been 
+“made retroactive to cases on collateral review by the 
+Supreme Court,” within the meaning of 28 U.S.C. 
+§ 2244(b)(2)(A). The Court concluded that the plain lan- 
+guage of the statute requires “an application to file a 
+second or successive habeas petition [to] point to a 
+Supreme Court decision that either expressly declares the 
+collateral availability of the rule (such as by holding or 
+stating that the particular rule upon which the petitioner 
+seeks to rely is retroactively available on collateral 
+review) or applies the rule in a collateral proceeding.” Id. 
+at 275. Since Rodriguez was unable to identify a Supreme 
+Court decision rendering Cage retroactive to cases on 
+collateral review, the Court rejected his application to file 
+a successive petition. 
+
+
+The various circuit courts to have considered the 
+issue had been in uniformity until the Third Circuit's 
+decision in West v. Vaughn, 204 F.3d 53 (3d Cir. 2000) 
+where the court concluded that while the statute encom- 
+passes direct retroactive application it further includes 
+alternative methods through which this Court could 
+cause a rule to become retroactive. Id. at 58. Specifically, 
+the court concluded “that precedent that makes clear that 
+a new constitutional rule that fits the Teague retroactivity 
+exception suffices to make a rule retroactive for purposes 
+of successive habeas petitions under AEDPA.” Id. at 61. 
+
+
+To the extent that the intent of “made retroactive by 
+the Supreme Court” is not self evident,? other elements of 
+§ 2244, specifically sections 2244(b)(3)(A), which requires 
+that a petitioner first move for an order in the court of 
+appeals authorizing the filing of a second or succesive 
+petition in the district court, and subsection (b)(3)(D) 
+
+
+which provides that the court of appeals shall grant or 
+
+
+deny the motion within thirty days, indicate that the 
+
+
+2 Brown v. Lensing, 171 F.3d at 1032, quoting In re Smith, 142 
+F.3d at 835 (“the plain language of the statute requires an 
+applicant to ‘point to a Supreme Court decision that either 
+expressly declares the collateral availability of the rule . . . or 
+applies the rule in a collateral proceeding’ ”); Rodriguez v. 
+Superintendant, Bay State Correctional Center, 139 F.3d at 274-275 
+(“Insofar as second or successive petitions are concerned, the 
+statute’s precedent-limiting provision, fairly read, eliminates 
+the lower federal courts’ role in deeming new rules of 
+constitutional law a permissible basis for habeas relief”); In re 
+Hill, 113 F.3d at 184 (to proceed under the § 2244(b)(2)(A) 
+exception to the bar against successive petitions, applicant must 
+establish that the Supreme Court has made the new rule of 
+constitutional law retroactively applicable to cases on collateral 
+review); Bennett v. United States, 119 F.3d 470, 471 (7th Cir. 1997) 
+(“only when a decision has been specifically declared 
+retroactive by the Supreme Court may it be used as the basis for 
+a successive motion for habeas corpus”); In re Vial, 115 F.3d 
+1192, 1196-97 (4th Cir. 1997) (en banc) (rejecting argument that 
+-phrase “made retroactive to cases on collateral review by the 
+Supreme Court” encompasses those situations in which 
+Supreme Court precedent establishes that the new rule is of the 
+type available to those proceeding on collateral review; “a new 
+rule of constitutional law has been ‘made retroactive to cases on 
+collateral review by the Supreme Court’ within the meaning of 
+§ 2255 only when the Supreme Court declares the collateral 
+availability of the rule in question, either by explicitly so stating 
+or by applying the rule in a collateral proceeding). 
+
+
+OO ee Oe et 
+
+
+—— errr — 
+
+
+approach adopted by the Third Circuit was not antici- 
+pated by Congress. Under this scheme, it does not appear 
+that Congress intended to restrict the federal courts of 
+appeals to making retroactivity determinations under the 
+gun so to speak and without the benefit of briefing by the 
+state. 
+
+
+It is inconsistent with the sections “respect for the 
+finality of criminal judgments” Calderon v. Thompson, 523 
+U.S. 538, 558 (1998), that Congress intended the federal 
+courts of appeals to engage in traditional Teague analysis 
+via truncated motion practice on a consistent basis, espe- 
+cially where consistency would be the exception and not 
+the rule. The authorization to file successive petitions 
+could well become a function of the happenstance of the 
+composition of the panel making the determination. Fur- 
+thermore, the federal district courts would bare the 
+weight of the retroactivity determination by virtue of 
+their own gatekeeping function, see 28 U.S.C. 
+§ 2244(b)(4),3 without the benefit of an opinion and with 
+perhaps no more than an order authorizing the filing. 
+
+
+Additionally, the prima facie showing standard for 
+granting authority to file second and successive petitions 
+is inconsistent with the approach adopted in West v. 
+Vaughn. To have courts of appeal conducting traditional 
+Teague retroactivity analysis on the standard of a prima 
+facie showing would certainly undermine the purpose of 
+the statute. However, a court of appeal could readily 
+determine whether this Court has or has not determined 
+the retroactivity of a new rule. The dangers of this 
+
+
+3 “The movant must get through two gates before the 
+merits of his petition can be considered.” Bennett v. United 
+States, 119 F.3d 468 (7th Cir. 1997). 
+
+
+10 
+
+
+approach are evident in Nevius v. Sumner, 105 F.3d 453, 
+462 (9th Cir. 1996) where the court granted permission to 
+file successive petition based on a prima facie showing 
+under § 2244(b)(3)(C), “without intimating any view con- 
+cerning the merits of Nevius’ Cage claim, or any view 
+regarding whether he has in fact met the requirements of 
+28 U.S.C. § 2244(b).” Furthermore, the prima facie show- 
+ing standard is entirely consistent with § 2244(b)(2)(B)(i)’s 
+exception to successive petitions concerning a previously 
+undiscovered factual predicate, as actual satisfaction of 
+this exception would be especially onerous on the court. 
+
+
+The limitation on the appealability of the denial of a 
+motion to file a successive petition of § 2244(b)(3)(E) is 
+yet another example that Congress intended direct action 
+by the Court. To read the statute in any other fashion 
+would include the possibility that similarly situated pris- 
+oners could well be greeted by divergent results depend- 
+ing on a particular circuit’s evaluation of existing 
+precedent, without a significant possibility of redress. 
+
+
+Furthermore, it appears the Third Circuit’s construc- 
+tion of the statute was unduly influenced by the fact that 
+it saw Sullivan v. Louisiana as persuasive authority for the 
+proposition that Cage is an exception to the Teague bar. “In 
+our view, even though Sullivan did not arise in the habeas 
+context, it left no doubt as to how the Cage rule fits within 
+retroactivity analysis. We believe that, in this 
+setting, Teague retroactivity survives AEDPA’s enactment, 
+and we hold that the constitutional rule announced by 
+Cage v. Louisiana has indeed been ‘made retroactive to 
+cases on collateral review’ within the meaning of 28 
+U.S.C. § 2244(b)(2)(A).” West, 204 F.3d at 55 (emphasis 
+added). Such is not likely to be the case in the future. 
+
+
+i <= ee 
+
+
+11 
+
+
+Indeed, had this court decided the standard of review 
+question in Cage itself, under the rationale of West v. 
+Vaughn a federal appeals court would have been left to 
+apply the Teague standard solely on the basis of the 
+original opinion. In such a circumstance, it could not so 
+easily be said that this Court had “made” the new rule 
+retroactive unless that determination formed a part of the 
+ruling. Grammatically, there would be no action to com- 
+plement the verb. Teague, the decision, then becomes the 
+actor in the verb “to make,” not this Court. Clearly, the 
+construction of this statute should not be governed by the 
+providence that the standard of review for Cage errors 
+was announced separately from the rule itself. Had Con- 
+gress anticipated such a scheme, clearly, it would have 
+chosen to employ the Teague standard directly, rather than 
+dictating an additional requirement of action from this 
+Court. 
+
+
+Furthermore, the providence of Cage and Sullivan 
+having been decided separately further elucidates the 
+difficulties with the Third Circuit’s construction of the 
+statute. Prior to Sullivan being rendered, there was uni- 
+formity that Cage could not be applied retroactively, how- 
+ever, Sullivan brought uniformity to the contrary 
+assumption. Furthermore, one could envision a sequence 
+of opinions by this Court whose result would bring an 
+inverted swing of uniformity from retroactivity to non- 
+retroactivity. In either scenario, the process, absent the 
+prevailing safeguard of § 2244(b)(2)(A), would be no less 
+than a disaster to a policy rooted in “respect for criminal 
+judgements.” Calderon, supra. Accordingly, it is impera- 
+tive, the importance of which can be elucidated no more 
+clearly than by the current misappliaction of Teague 
+
+
+12 
+
+
+through the monolithic acceptance Cage should be 
+applied retroactively, that the prevailing construction of 
+§ 2244(b)(2)(A), that only this Court can make new rules 
+retroactive by specific declaration, be maintained. 
+
+
+II. CAGE V. LOUISIANA ANNOUNCED A “NEW 
+RULE” 
+
+
+Respondent concurs with petitioner that the rule 
+announced in Cage v. Louisiana is a new rule of constitu- 
+tional law within the meaning of Teague v. Lane, 489 U.S. 
+288 (1989). The issue was one of first impression in Skel- 
+ton v. Whitley, 950 F.2d 1037 (5th Cir. 1992) where the 
+court considered that “ ‘a case announces a new rule if 
+the result was not dictated by precedent existing at the 
+time the defendant’s conviction became final,’” and 
+stated, “This is emphatically such a case,” Id. at 1043, 
+quoting Teague v. Lane, 489 U.S. at 301. The Louisiana 
+Supreme Court, addressing the retroactivity of Cage, like- 
+wise determined that Cage announced a new rule. State ex 
+rel. Taylor v. Whitley, 606 So. 2d 1292 (La. 1992) In Adams v. 
+Aiken, 965 F.2d 1306 (4th Cir. 1992) the court stated, 
+“Whether a trial court’s unconstitutional misdescription 
+of the burden of proof in a criminal case violates the Due 
+Process Clause was certainly an open question before 
+Cage.” The Fifth Circuit’s opinion remained unchanged 
+following Sullivan v. Louisiana, 508 U.S. 275 (1993), which 
+prompted the court to state, “It is undisputed that Cage 
+announced a new rule of constitutional law.” In re Smith, 
+142 F.3d 832, 835 (5th Cir. 1998). Indeed every court to 
+reach the issue has determined that Cage announced a 
+new rule. See Brief for Petitioner 13. 
+
+
+13 
+
+
+Ill. CAGE V. LOUISIANA IS NOT A “WATERSHED 
+RULE” OF CRIMINAL PROCEDURE 
+
+
+Prior to this Court’s decision in Sullivan v. Louisiana, 
+508 U.S. 275 (1993) the two circuits that addressed the 
+retroactivity of Cage v. Louisiana, 498 U.S. 39 (1990) found 
+that the decision did not fall within the second exception 
+of Teague v. Lane for watershed rules of criminal pro- 
+cedure. In Adams v. Aiken, 965 F.2d 1306 (4th Cir. 1992) the 
+Fourth Circuit concluded without hesitation that 
+although Cage “eliminates confusion and improves the 
+accuracy of the trial, ... it does not alter our under- 
+standing of the bedrock procedural elements essential to 
+the fairness of the proceeding.” Adams, supra at 1312, 
+citing Sawyer v. Smith, 497 U.S. 227, 242 (1990) (omitting 
+citation and interior quotation marks). The court stated 
+that these bedrock procedural elements remain the same. 
+“The burden of proof is not changed. Cage does not alter 
+the elements, it criticizes their dilution.” Ibid. Similarly, 
+the Fifth Circuit, in Skelton v. Whitley, 950 F.2d at 1045 
+(1992), the first decision to address the issue following 
+Cage, concluded that Cage failed to conform to the second 
+Teague exception as it was not a watershed case in the 
+vain of In re Winship, 397 U.S. 358 (1970) and Gideon v. 
+Wainwright, 372 U.S. 335 (1963). Id. at 1045. 
+
+
+Both courts’ analysis were correct. If there was any 
+doubt following Teague that the second exception requires 
+conformity on two levels, it was clearly established in 
+Sawyer v. Smith: 
+
+
+Petitioner contends that the second Teague 
+exception should be read to include new rules of 
+capital sentencing that “preserve the accuracy 
+and fairness of capital sentencing judg- 
+ments.” . . . But this test looks only to half of our 
+
+
+14 
+
+
+definition of the second exception. Acceptance 
+of petitioner’s argument would return the sec- 
+ond exception to the broad definition that Jus- 
+tice Harlan first proposed in Desist but later 
+abandoned in Mackey under which new rules 
+that “significantly improve the pre-existing fact- 
+finding procedures are to be retroactively 
+applied on habeas.” Desist v. United States, 394 
+U.S. 244, 262, 89 S.Ct. 1030, 1041, 22 L.Ed.2d 248 
+(1969). In Teague, we modified Justice Harlan’s 
+test to combine the accuracy element of the Des- 
+ist test with the Mackey limitation of the excep- 
+tion to watershed rules of fundamental fairness. 
+It is thus not enough under Teague to say that a 
+new rule is aimed at improving the accuracy of 
+trial. More is required. A rule that qualifies 
+under this exception must not only improve 
+accuracy, but also ” ‘alter our understanding of 
+the bedrock procedural elements’ ” essential to 
+the fairness of a proceeding. Teague, supra, 489 
+U.S. at 311, 109 S.Ct. at 1076 (plurality opinion) 
+(quoting Mackey, 401 U.S., at 693, 91 S.Ct., at 
+1180). 
+
+
+497 U.S. at 242. 
+
+
+On remand from this Court to consider their decision 
+in light of Sullivan, the Fourth Circuit, in Adams v. Aiken, 
+41 F.3d 175 (4th Cir. 1994), reiterated this Court’s 
+emphasis that to qualify under Teague's second exception 
+a rule “must not only improve accuracy, but also alter our 
+understanding of the bedrock procedural elements essen- 
+tial to the fairness of a proceeding.” Citing Sawyer v. 
+Smith, 497 U.S. at 242 (internal citations and quotation 
+marks omitted), and concluded that because a Cage error 
+effected the accuracy of the conviction and that because 
+
+
+15 
+
+
+the error had been identified as structural error it quali- 
+fied under the second Teague exception. Id. at 178-179. 
+
+
+- However, the court failed to address its previous holding 
+
+
+that Cage did not alter the bedrock procedural elements 
+essential to the fairness of the proceeding. 
+
+
+Accordingly, the Fourth Circuit’s analysis is funda- 
+mentally flawed for failing to consider how Cage “altered 
+the elements” as it did previously. Humphrey v. Cain, 120 
+F.3d 526, (5th Cir. 1997), rehearing en banc, 138 F.3d 552 
+(Sth Cir. 1998), cert. denied, 525 U.S. 935 (1998), presents 
+the identical shortfall. There the court acknowledged the 
+Fourth and Eleventh Circuit’s* analysis and concluded 
+that because a Cage error is structural it falls within the 
+ambit of the second Teague exception. Id. at 529.5 The 
+court did not consider its previous holding in Skelton v. 
+Whitley that it could not classify Cage as a “watershed 
+case.” 950 F.2d at 1045. 
+
+
+Most recently, the Third Circuit addressed this issue 
+in West v. Vaughn, 204 F.3d 53 (3d Cir. 2000) and just as 
+
+
+4 Nutter v. White, 39 F.3d 1154, 1158 (11th Cir. 1994). 
+
+
+5 The decision of the Fifth Circuit is somewhat disturbing 
+as the Court appeared to suggest that the AEDPA had 
+supplanted the need for the Teague bar. “We need not fear that 
+finding no Teague bar to claims such as Humphrey’s will spawn 
+scores of new habeas petitions. Prisoners who file petitions after 
+April 24, 1996, must surmount the formidable barriers erected 
+by the Anti-terrorism and Effective Death Penalty Act. Of 
+course, we do not have occasion to measure how high those 
+barriers might be. We note only that the one-year statute of 
+limitations, see 28 U.S.C. § 2244(d) & 2255, the restrictions on 
+successive petitions, see 28 U.S.C. § 2244(b) & 2255, and the 
+heightened standard of review for state prisoners, see 28 U.S.C. 
+§ 2254(d)(1), could shut out future petitioners in Humphrey’s 
+situation.” 
+
+
+16 
+
+
+in Adams v. Aiken, 41 F.3d 175, and Humphrey v. Cain the 
+analysis was limited to Cage’s conformity with Teague’s 
+fundamental fairness and accuracy requirements. The 
+court did not discuss the requirement that the new rule 
+
+
+be a watershed rule. In doing so the court failed to ~ 
+
+
+recognize that the fairness requirement must also embody 
+a watershed rule as this Court explicity provided in Tea- 
+gue. “The second exception suggested by Justice Harlan - 
+that a new rule should be applied retroactively if it 
+requires the observance of those procedures that. . . are 
+implicit in the concept of ordered liberty, we apply with a 
+modification. The language used by Justice Harlan in 
+Mackey® leaves no doubt that he meant the second excep- 
+tion to be reserved for watershed rules of criminal pro- 
+cedure.” 489 U.S. 288, 310 (internal citations and 
+quotations omitted, emphasis added). 
+
+
+The Second Circuit in Gaines v. Kelly, 202 F.3d 598 
+(2nd Cir. 2000) acknowledged the two components of 
+Teague, and, after assessing the accuracy requirement, the 
+
+
+¢ “Typically, it should be the case that any conviction free 
+from federal constitutional error at the time it became final, will 
+be found, upon reflection, to have been fundamentally fair and 
+conducted under those procedures essential to the substance of 
+a full hearing. However, in some situations it might be that time 
+and growth in social capacity, as well as judicial perceptions of 
+what we can rightly demand of the adjudicatory process, will 
+properly alter our understanding of the bedrock procedural 
+elements that must be found to vitiate the fairness of a 
+particular conviction. For example, such, in my view, is the case 
+with the right to counsel at trial now held a necessary condition 
+precedent to any conviction for a serious crime.” Teague v. Lane, 
+489 U.S. 288, 310, quoting Macey v. United States, 401 U.S. 667, 
+693-694, (1971). 
+
+
+17 
+
+
+court confronted the requirement of a new watershed 
+rule. The court’s analysis focused on a comparison of the 
+nature of Cage and the right to counsel saying, “The right 
+to accuracy in instructions defining reasonable doubt 
+resembles the right to counsel in that both rights are 
+fundamental to the fairness of a criminal proceeding.” 
+Gaines, supra at 604. Further, that “Because any criminal 
+conviction rendered pursuant to an unconstitutional defi- 
+nition of reasonable doubt is necessarily unfair, see Tea- 
+gue, 489 U.S. at 315, 109 S.Ct 1060, we conclude that the 
+rule advanced by Gaines falls within the second excep- 
+tion to the Teague doctrine.” Id. at 605. That Cage invokes 
+the fairness requirement does not of itself provide a basis 
+for concluding that Cage is a watershed rule. The Gaines 
+court did not identify a shift or new component to basic 
+due process. 
+
+
+Additionally, it does not appear that the court’s selec- 
+tion of the right to counsel as a point of comparison was 
+not without purpose as this Court has used Gideon v. 
+Wainwright, 372 U.S. 335 (1963) as the paradigmatic exam- 
+ple of a watershed rule. See Saffle v. Parks, 494 U.S. 484, 
+495 (1990). However, the comparison of Cage to Gideon 
+does serve to highlight the fact that Cage is without 
+watershed status. Gideon overruled Bets v. Brady, 316 U.S. 
+455 (1942) and held that the right to counsel was one of 
+the fundamental rights essential to a fair trial and there- 
+fore obligatory upon the States by the Fourteenth 
+Amendment. This clear break from the past and redefini- 
+tion of ordered liberty is why Gideon stands as the para- 
+digmatic example of a watershed rule. The Second 
+Circuit's inability to place Cage in some form of historical 
+context to rival Gideon further demonstrates that Cage is 
+
+
+18 
+
+
+not a watershed rule. Essentially, our society’s concept of 
+
+
+due process was not redefined by Cage, as it was in. 
+
+
+Gideon. 
+
+
+In Nutter v. White, 39 F.3d 1154, (1994) the Eleventh 
+Circuit weighed in on the possible retroactivity of Cage” 
+and, after concluding that Cage satisfied the requirement 
+that the new rule relate to the accuracy of the conviction, 
+concluded that Cage should be applied retroactively 
+because “together with Sullivan, Cage has reshaped our 
+view of the importance of precise reasonable doubt 
+instructions.” Id. at 1158. By its own terms, the court’s 
+realization that Sullivan clarified the nature of a preexist- 
+ing right was an acknowledgment that Cage did not estab- 
+lish a new fundamental right. The court’s analysis 
+confirms that Cage does not qualify as a watershed rule. 
+
+
+That Cage does not fall within the second Teague 
+exception is made abundantly clear in Sawyer v. Smith. In 
+Sawyer, the petitioner sought retroactive application of 
+Caldwell v. Mississippi, 472 U.S. 320 (1985). The new rule 
+established in Caldwell was that misleading comments by 
+a prosecutor in the penalty phase, which diminish the 
+jury’s sense of responsibility (the last word argument), 
+created an unacceptable risk which could affect the 
+reliability of the sentence and therefore violate the Eighth 
+Amendment. The rule was an extension of the prohibition 
+against prosecutorial argument that renders the sentenc- 
+ing trial fundamentally unfair established in Donnelly v. 
+DeChristoforo, 416 U.S. 637 (1974). Although the rule in 
+
+
+7 The decision served as the leading basis for the Tenth 
+Circuit’s conclusion in Tillman v. Cook, 215 F.3d 1116 (10th Cir. 
+2000) that Cage should be applied retroactively. 
+
+
+19 
+
+
+Caldwell was rooted in fundamental fairness and accu- 
+racy, this Court concluded that Caldwell failed to qualify 
+under Teague’s second exception as the rule was an addi- 
+tion to an underlying due process protection. Cage like 
+Caldwell creates an “addititional measure of protection” 
+above “an existing guarantee of due process protection 
+against fundamental unfairness,” Sawyer v. Smith, 497 
+U.S. at 243, the beyond a reasonable doubt standard of In 
+re Winship. Both cases respond to an “unacceptable risk” 
+that an underlying due process right has been violated 
+and provide “a protection of systemic value.” Ibid. For the 
+same reasons Caldwell does not fit within Teague’s second 
+exception, Cage should not be applied retroactively. Nei- 
+ther petitioner nor any circuit court has identified a new 
+component of basic due process to emerge from either 
+Cage or Sullivan. Cage is not a “watershed rule” of crimi- 
+nal procedure. 
+
+
+20 
+
+
+CONCLUSION 
+
+
+The decision of the court of appeals should be 
+affirmed. 
+Respectfully submitted, 
+
+
+CwHartes E. F. Heuer, 
+Assistant District Attorney 
+Parish of Orleans 
+
+
+Vat M. Soutno, 
+Assistant District Attorney 
+Parish of Orleans 
+
+
+Harry F. Connick 
+
+District Attorney 
+
+Parish of Orleans 
+
+619 South White Street 
+
+New Orleans, Louisiana 70119 
+Telephone: (504) 822-2414 
+
+

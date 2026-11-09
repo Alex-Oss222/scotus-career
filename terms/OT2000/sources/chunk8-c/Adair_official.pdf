@@ -1,0 +1,788 @@
+%PDF-1.2
+%‚„œ”
+1 0 obj 
+<<
+/Differences [0 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /dotlessi /grave /acute /circumflex /tilde /macron /breve /dotaccent /dieresis /.notdef /ring /cedilla /.notdef /hungarumlaut /ogonek /caron /space /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+/Type /Encoding
+>>
+endobj 
+2 0 obj 
+<<
+/BaseFont /Courier
+/Subtype /Type1
+/Name /F1
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+3 0 obj 
+<<
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Name /F2
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+4 0 obj 
+<<
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Name /F3
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+5 0 obj 
+<<
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Name /F4
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+6 0 obj 
+<<
+/BaseFont /Helvetica
+/Subtype /Type1
+/Name /F5
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+7 0 obj 
+<<
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Name /F6
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+8 0 obj 
+<<
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Name /F7
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+9 0 obj 
+<<
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Name /F8
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+10 0 obj 
+<<
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Name /F9
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+11 0 obj 
+<<
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Name /F10
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+12 0 obj 
+<<
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Name /F11
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+13 0 obj 
+<<
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Name /F12
+/Encoding 1 0 R
+/Type /Font
+>>
+endobj 
+14 0 obj 
+<<
+/BaseFont /Symbol
+/Subtype /Type1
+/Name /F13
+/Type /Font
+>>
+endobj 
+15 0 obj 
+<<
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/Name /F14
+/Type /Font
+>>
+endobj 
+16 0 obj 
+<<
+/Pages 17 0 R
+/Type /Catalog
+>>
+endobj 
+17 0 obj 
+<<
+/MediaBox [0 0 612 792]
+/Kids [18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R]
+/Count 7
+/Type /Pages
+>>
+endobj 
+25 0 obj 
+<<
+/XObject 
+<<
+>>
+/Font 
+<<
+/F9 10 0 R
+/F8 9 0 R
+/F7 8 0 R
+/F6 7 0 R
+/F5 6 0 R
+/F4 5 0 R
+/F14 15 0 R
+/F3 4 0 R
+/F13 14 0 R
+/F2 3 0 R
+/F12 13 0 R
+/F1 2 0 R
+/F11 12 0 R
+/F10 11 0 R
+>>
+/ProcSet [/PDF /Text]
+>>
+endobj 
+18 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 26 0 R
+/Type /Page
+>>
+endobj 
+26 0 obj 
+<<
+/Length 2013
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*()Tj
+T*(In the)Tj
+T*(United States Court of Appeals)Tj
+T*(For the Seventh Circuit)Tj
+T*()Tj
+T*(No. 99-1736)Tj
+T*()Tj
+T*(JAMES W. ADAIR,)Tj
+T*()Tj
+T*(Plaintiff-Appellant,)Tj
+T*()Tj
+T*(v. )Tj
+T*()Tj
+T*(MICHAEL L. SHERMAN and)Tj
+T*(SHERMAN & SHERMAN,)Tj
+T*()Tj
+T*(Defendants-Appellees.)Tj
+T*()Tj
+T*()Tj
+T*()Tj
+T*(Appeal from the United States District Court)Tj
+T*(for the Northern District of Illinois, Eastern Division.)Tj
+T*(No. 98 C 3946--George M. Marovich, Judge.)Tj
+T*()Tj
+T*()Tj
+T*(Argued February 9, 2000--Decided August 25, 2000)Tj
+T*()Tj
+T*()Tj
+T*()Tj
+T*(  Before BAUER, EASTERBROOK and RIPPLE, Circuit Judges.)Tj
+T*()Tj
+T*(  RIPPLE, Circuit Judge.  James Adair brought this)Tj
+T*(action under the Fair Debt Collection Practices)Tj
+T*(Act \("FDCPA"\), 15 U.S.C. sec. 1692 et seq. He)Tj
+T*(contends that Michael Sherman and his law firm,)Tj
+T*(Sherman & Sherman \(collectively "Sherman &)Tj
+T*(Sherman"\), overvalued their secured claims in Mr.)Tj
+T*(Adair's Chapter 13 bankruptcy proceedings. The)Tj
+T*(district court held that Mr. Adair's action was)Tj
+T*(barred because he had failed to object to the)Tj
+T*(valuation of the claim in the bankruptcy court.)Tj
+T*(For the reasons set forth in the following)Tj
+T*(opinion, we affirm the judgment of the district)Tj
+T*(court.)Tj
+T*()Tj
+T*(I)Tj
+T*(BACKGROUND)Tj
+T*()Tj
+T*(  Because the district court dismissed Mr. Adair's)Tj
+T*(complaint for failing to state a claim, we)Tj
+T*(consider all facts in the light most favorable to)Tj
+T*(him. See Hernandez v. Joliet Police Dept., 197)Tj
+T*(F.3d 256, 262 \(7th Cir. 1999\). In March 1997, Mr.)Tj
+T*(Adair obtained a loan from First Midwest Bank)Tj
+T*(\("FMB"\), with an amount financed of $16,483.22.)Tj
+T*(The loan was secured by a 1995 Chevrolet Lumina)Tj
+T*(automobile. In July, Mr. Adair filed for)Tj
+T*(bankruptcy under Chapter 13. His bankruptcy plan)Tj
+T*(provided that all allowed secured claims would be)Tj
+T*(paid in full, with unsecured creditors to receive)Tj
+ET
+
+endstream 
+endobj 
+19 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 27 0 R
+/Type /Page
+>>
+endobj 
+27 0 obj 
+<<
+/Length 2890
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*(a percentage of their allowed claims.)Tj
+T*()Tj
+T*(  On September 3, Sherman & Sherman filed a proof)Tj
+T*(of claim on behalf of FMB. The proof of claim)Tj
+T*(listed the value of the Chevrolet as $19,841.43,)Tj
+T*(an amount greater than the car's original)Tj
+T*(purchase price. Mr. Adair did not object to the)Tj
+T*(valuation of the car prior to confirmation. The)Tj
+T*(Chapter 13 trustee confirmed Mr. Adair's)Tj
+T*(bankruptcy plan on September 15, and allowed)Tj
+T*(FMB's claim as fully secured. In June 1998, Mr.)Tj
+T*(Adair filed an adversary proceeding in the)Tj
+T*(bankruptcy court challenging FMB's proof of)Tj
+T*(claim; that proceeding was dismissed when Mr.)Tj
+T*(Adair's Chapter 13 proceeding was dismissed)Tj
+T*(altogether./1)Tj
+T*()Tj
+T*(  Mr. Adair subsequently filed this FDCPA)Tj
+T*(complaint in district court, seeking damages for)Tj
+T*(what he alleged was Sherman & Sherman's practice)Tj
+T*(of overvaluing collateral in proofs of claims)Tj
+T*(filed with the bankruptcy court. He contends that)Tj
+T*(Sherman & Sherman overvalued collateral)Tj
+T*(fraudulently, in order to establish as secured)Tj
+T*(claims that should have been unsecured. The)Tj
+T*(district court granted Sherman & Sherman's motion)Tj
+T*(to dismiss and held that the action was barred by)Tj
+T*(claim preclusion, also known as res judicata.)Tj
+T*()Tj
+T*(II)Tj
+T*(DISCUSSION)Tj
+T*()Tj
+T*(  Although the district court articulated its)Tj
+T*(decision in terms of claim preclusion, we believe)Tj
+T*(that this case is more appropriately analyzed)Tj
+T*(under the closely related, although analytically)Tj
+T*(distinct, doctrine of collateral estoppel or)Tj
+T*(issue preclusion./2 Under the doctrine of issue)Tj
+T*(preclusion, an issue may not be litigated if the)Tj
+T*(following conditions are met: \(1\) the issue)Tj
+T*(sought to be precluded is the same as that)Tj
+T*(involved in a prior action; \(2\) the issue was)Tj
+T*(actually relitigated; \(3\) the determination of)Tj
+T*(the issue was essential to the final judgment;)Tj
+T*(and \(4\) the party against whom estoppel is)Tj
+T*(invoked was represented in the prior action. See)Tj
+T*(Chicago Truck Drivers, Helpers & Warehouse Union)Tj
+T*(\(Indep.\) Pension Fund v. Century Motor Freight,)Tj
+T*(Inc., 125 F.3d 526, 530 \(7th Cir. 1997\); La)Tj
+T*(Preferida, Inc. v. Cerveceria Mondelo, 914 F.2d)Tj
+T*(900, 905-06 \(7th Cir. 1990\). As the Supreme Court)Tj
+T*(of the United States has stated: "Under)Tj
+T*(collateral estoppel, once an issue is actually)Tj
+T*(and necessarily determined by a court of)Tj
+T*(competent jurisdiction, that determination is)Tj
+T*(conclusive in subsequent suits based on a)Tj
+T*(different cause of action involving a party to)Tj
+T*(the prior litigation." Montana, 440 U.S. at 153.)Tj
+T*("Whether the issues are identical is a question)Tj
+T*(of law." E.B. Harper & Co. v. Nortek, Inc., 104)Tj
+ET
+
+endstream 
+endobj 
+20 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 28 0 R
+/Type /Page
+>>
+endobj 
+28 0 obj 
+<<
+/Length 2941
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*(F.3d 913, 922 \(7th Cir. 1997\). We decide such)Tj
+T*(questions de novo. See Caruso v. De Luca, 81 F.3d)Tj
+T*(666, 670 \(7th Cir. 1996\).)Tj
+T*()Tj
+T*(  Issue preclusion is an affirmative defense. See)Tj
+T*(Blonder-Tongue Lab., Inc. v. University of Ill.)Tj
+T*(Found., 402 U.S. 313, 350 \(1971\). Therefore, the)Tj
+T*(defendant has the burden to set forth facts)Tj
+T*(sufficient to satisfy each element of the)Tj
+T*(defense. See Havoco of Am., Ltd. v. Freeman,)Tj
+T*(Atkins & Coleman, Ltd., 58 F.3d 303, 306 \(7th)Tj
+T*(Cir. 1995\); La Preferida, 914 F.2d at 906. We now)Tj
+T*(consider whether Sherman & Sherman has satisfied)Tj
+T*(each of these requirements. As we pointed out in)Tj
+T*(Havoco, in determining whether these criteria)Tj
+T*(have been met, it is often necessary for the)Tj
+T*(court to consult substantive principles of law in)Tj
+T*(order to determine the scope of the earlier)Tj
+T*(judicial determination or the parties bound by)Tj
+T*(that determination. See 58 F.3d at 308. In the)Tj
+T*(case before us, it will be necessary to refer to)Tj
+T*(the substantive law of bankruptcy and, indeed, to)Tj
+T*(some extent, to the FDCPA, to determine whether)Tj
+T*(the principles of issue preclusion ought to)Tj
+T*(apply.)Tj
+T*()Tj
+T*(A.)Tj
+T*()Tj
+T*(  We begin by examining the action of the)Tj
+T*(bankruptcy court in order to determine the nature)Tj
+T*(and the scope of its determination. We must)Tj
+T*(ascertain whether the bankruptcy court actually)Tj
+T*(and necessarily decided an issue that would now)Tj
+T*(preclude recovery in the FDCPA action. Sherman &)Tj
+T*(Sherman filed a proof of claim listing the value)Tj
+T*(of the 1995 Chevrolet as $19,841.43. According to)Tj
+T*(the bankruptcy code, any proof of claim filed by)Tj
+T*(a creditor is deemed allowed, unless a party in)Tj
+T*(interest objects. See 11 U.S.C. sec. 502\(a\); In)Tj
+T*(re Greenig, 152 F.3d 631, 633 \(7th Cir. 1998\)./3)Tj
+T*("A proof of claim executed and filed in)Tj
+T*(accordance with the Bankruptcy Rules constitutes)Tj
+T*(prima facie evidence of the validity and amount)Tj
+T*(of the claim." In re Ross, 162 B.R. 785, 788)Tj
+T*(\(Bankr. N.D. Ill. 1993\) \(citing Fed. R. Bankr. P.)Tj
+T*(3001\(f\)\).)Tj
+T*()Tj
+T*(  Mr. Adair had notice of the proof of claim prior)Tj
+T*(to confirmation, but he chose not to object to)Tj
+T*(it. "As a general rule, the failure to raise an)Tj
+T*(objection at the confirmation hearing or to)Tj
+T*(appeal from the order of confirmation should)Tj
+T*(preclude attack on the plan or any provision)Tj
+T*(therein as illegal in a subsequent proceeding.")Tj
+T*(In re Chappell, 984 F.2d 775, 782 \(7th Cir. 1993\))Tj
+T*(\(quotation marks and ellipses omitted\); see also)Tj
+T*(In re Pence, 905 F.2d 1107, 1110 \(7th Cir. 1990\).)Tj
+T*(In our decision in Pence, we refused relief to a)Tj
+T*(creditor who, "instead of attacking the valuation)Tj
+T*(head-on at the confirmation hearing," chose "a)Tj
+ET
+
+endstream 
+endobj 
+21 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 29 0 R
+/Type /Page
+>>
+endobj 
+29 0 obj 
+<<
+/Length 3059
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*(collateral attack on the confirmation order where)Tj
+T*(valuation may not be contested." Id. at 1110. Our)Tj
+T*(sister circuits share our view that once a)Tj
+T*(bankruptcy plan is confirmed, its terms are not)Tj
+T*(subject to collateral attack. See Andersen v.)Tj
+T*(UNIPAC-NEBHELP, 179 F.3d 1253, 1258-59 \(10th Cir.)Tj
+T*(1999\); In re Varat Enters., Inc., 81 F.3d 1310,)Tj
+T*(1315-17 \(4th Cir. 1996\); In re Justice Oaks II,)Tj
+T*(Ltd., 898 F.2d 1544, 1553 \(11th Cir.\), cert.)Tj
+T*(denied, 498 U.S. 959 \(1990\); In re Szostek, 886)Tj
+T*(F.2d 1405, 1413 \(3d Cir. 1989\); In re Gregory,)Tj
+T*(705 F.2d 1118, 1121 \(9th Cir. 1983\). )Tj
+T*()Tj
+T*(  These authorities lead us to the conclusion)Tj
+T*(that, when a proof of claim is filed prior to)Tj
+T*(confirmation,/4 and the debtor does not object)Tj
+T*(prior to confirmation,/5 the debtor may not file)Tj
+T*(a post-confirmation collateral action that calls)Tj
+T*(into question the proof of claim. See Justice)Tj
+T*(Oaks, 898 F.2d at 1553; Ross, 162 B.R. at 789)Tj
+T*(\("The law is well settled that a confirmation)Tj
+T*(order is res judicata as to all issues decided or)Tj
+T*(which could have been decided at the hearing on)Tj
+T*(confirmation."\)./6 Allowing collateral attacks)Tj
+T*(of the type brought by Mr. Adair would give)Tj
+T*(debtors an incentive to refrain from objecting in)Tj
+T*(the bankruptcy proceeding and would thereby)Tj
+T*(destroy the finality that bankruptcy confirmation)Tj
+T*(is intended to provide./7)Tj
+T*()Tj
+T*(  In short, the bankruptcy process provides)Tj
+T*(protection against fraudulent proofs of claims.)Tj
+T*(Mr. Adair had the opportunity to contest Sherman)Tj
+T*(& Sherman's proof of claim and practices related)Tj
+T*(thereto in the bankruptcy court. Because he chose)Tj
+T*(not to, he is barred from doing so here./8)Tj
+T*(B.)Tj
+T*()Tj
+T*(  We are also convinced that issue preclusion)Tj
+T*(applies because the FDCPA is an improper vehicle)Tj
+T*(for challenging the amount of a debt established)Tj
+T*(by the bankruptcy court. The FDCPA regulates the)Tj
+T*(practices used to collect a debt./9 See Keele v.)Tj
+T*(Wexler, 149 F.3d 589, 594 \(7th Cir. 1998\) \("[T]he)Tj
+T*(FDCPA is designed to protect consumers from the)Tj
+T*(unscrupulous antics of debt collectors,)Tj
+T*(irrespective of whether a valid debt actually)Tj
+T*(exists."\); see also Hawthorne v. Mac Adjustment,)Tj
+T*(Inc., 140 F.3d 1367, 1370-71 \(11th Cir. 1998\);)Tj
+T*(Mabe v. G.C. Servs. Ltd. Partnership, 32 F.3d 86,)Tj
+T*(87-88 \(4th Cir. 1994\); Zimmerman v. HBO Affiliate)Tj
+T*(Group, 834 F.2d 1163, 1167 \(3d Cir. 1987\). As Mr.)Tj
+T*(Adair has framed his FDCPA action, it cannot)Tj
+T*(succeed without a showing that the existence or)Tj
+T*(amount of his debt was established improperly.)Tj
+T*(However, this circuit and other federal courts)Tj
+T*(have held that an FDCPA action is not an action)Tj
+T*(to establish a debt but an action contesting the)Tj
+T*(method of collection of that debt. See Whitaker)Tj
+T*(v. Ameritech Corp., 129 F.3d 952, 957-58 \(7th)Tj
+ET
+
+endstream 
+endobj 
+22 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 30 0 R
+/Type /Page
+>>
+endobj 
+30 0 obj 
+<<
+/Length 2649
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*(Cir. 1998\); Alger v. Ganick, O'Brien & Sarin, 35)Tj
+T*(F. Supp.2d 148, 159 n.20 \(D. Mass. 1999\) \(citing)Tj
+T*(Whitaker\); Blakemore v. Pekay, 895 F. Supp. 972,)Tj
+T*(983-84 \(N.D. Ill. 1995\); Azar v. Hegay, 874 F.)Tj
+T*(Supp. 1314, 1317 \(N.D. Fla.\), aff'd, 66 F.3d 342)Tj
+T*(\(11th Cir. 1995\).)Tj
+T*()Tj
+T*(  Mr. Adair is attempting to use an FDCPA claim to)Tj
+T*(attack the existence of the underlying debt, a)Tj
+T*(matter already determined definitively in the)Tj
+T*(bankruptcy proceeding. "The purpose of the proof)Tj
+T*(of claim is to alert the court, trustee, and)Tj
+T*(other creditors, as well as the debtor, to claims)Tj
+T*(against the estate." In re Fernstrom Storage &)Tj
+T*(Van Co., 938 F.2d 731, 734 \(7th Cir. 1991\))Tj
+T*(\(quotation marks omitted\). By allowing FMB's)Tj
+T*(proof of claim, the bankruptcy court confirmed)Tj
+T*(the existence of a debt for Mr. Adair. To succeed)Tj
+T*(on the FDCPA claim that he has brought, Mr. Adair)Tj
+T*(would have to show that the value of the)Tj
+T*(Chevrolet is incorrect in the proof of claim; if)Tj
+T*($19,841.43 is the proper value of the car, then)Tj
+T*(Sherman & Sherman's claim is not fraudulent.)Tj
+T*(However, Mr. Adair is foreclosed from)Tj
+T*(collaterally attacking the valuation of the car.)Tj
+T*(The amount of the debt is a matter already)Tj
+T*(settled in another forum, the bankruptcy court.)Tj
+T*()Tj
+T*(  In sum, as Mr. Adair has framed his FDCPA claim,)Tj
+T*(he contests the amount of the underlying debt,)Tj
+T*(not the method employed by the defendants in its)Tj
+T*(collection. The amount of the debt was determined)Tj
+T*(definitively, however, in the earlier bankruptcy)Tj
+T*(proceeding when a proof of claim was submitted)Tj
+T*(prior to confirmation and Mr. Adair's bankruptcy)Tj
+T*(claim was later confirmed. The amount of the debt)Tj
+T*(therefore cannot be relitigated in a subsequent)Tj
+T*(FDCPA action by operation of the doctrine of)Tj
+T*(issue preclusion./10 )Tj
+T*()Tj
+T*(Conclusion)Tj
+T*()Tj
+T*(  For the foregoing reasons, the judgment of the)Tj
+T*(district court is affirmed.)Tj
+T*()Tj
+T*(AFFIRMED)Tj
+T*()Tj
+T*()Tj
+T*()Tj
+T*(/1 Mr. Adair is now once again in bankruptcy)Tj
+T*(proceedings. His return to bankruptcy does not)Tj
+T*(foreclose this action because debtors in Chapter)Tj
+T*(13 proceedings may bring actions in their own)Tj
+T*(name to vindicate statutory rights. See Cable v.)Tj
+T*(Ivy Tech State College, 200 F.3d 467, 472-73 \(7th)Tj
+T*(Cir. 1999\).)Tj
+T*()Tj
+T*(/2 See Montana v. United States, 440 U.S. 147, 153)Tj
+T*(\(1979\) \(setting forth the differences between the)Tj
+T*(two related doctrines\).)Tj
+ET
+
+endstream 
+endobj 
+23 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 31 0 R
+/Type /Page
+>>
+endobj 
+31 0 obj 
+<<
+/Length 2836
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*()Tj
+T*(/3 Parties in interest include not only the debtor,)Tj
+T*(but anyone who has a legally protected interest)Tj
+T*(that could be affected by a bankruptcy)Tj
+T*(proceeding. See In re FBN Food Servs., Inc., 82)Tj
+T*(F.3d 1387, 1391 \(7th Cir. 1996\). Therefore, if)Tj
+T*(one creditor files a potentially fraudulent proof)Tj
+T*(of claim, other creditors have standing to object)Tj
+T*(to the proof of claim.)Tj
+T*()Tj
+T*(/4 We need not address the practice in bankruptcy)Tj
+T*(courts of allowing proofs of claims to be filed)Tj
+T*(after confirmation. See, e.g., In re Witkowski,)Tj
+T*(16 F.3d 739, 741 \(7th Cir. 1994\); In re Strong,)Tj
+T*(203 B.R. 105, 114 \(Bankr. N.D. Ill. 1996\). We)Tj
+T*(address only the situation in which the creditor)Tj
+T*(filed a proof of claim before confirmation and)Tj
+T*(the debtor had enough time to formulate an)Tj
+T*(objection prior to confirmation. )Tj
+T*()Tj
+T*(/5 Mr. Adair has not argued that the time between)Tj
+T*(the filing of Sherman & Sherman's proof of claim)Tj
+T*(and the confirmation hearing was insufficient to)Tj
+T*(allow him to prepare an objection.)Tj
+T*(/6 There has been some tension in bankruptcy court)Tj
+T*(cases as to whether debtors are required to)Tj
+T*(object to proofs of claims prior to confirmation.)Tj
+T*(See In re Simmons, 224 B.R. 879, 883-84 \(Bankr.)Tj
+T*(N.D. Ill. 1998\) \(noting cases\). We respectfully)Tj
+T*(choose not to follow those cases allowing post-)Tj
+T*(confirmation objections to proofs of claims to be)Tj
+T*(filed even though the proof of claim itself was)Tj
+T*(filed sufficiently in advance of the confirmation)Tj
+T*(hearing. See In re Church, No. 96 B 18347, 1998)Tj
+T*(WL 97691, at *3-*4 \(Bankr. N.D. Ill. Mar. 2,)Tj
+T*(1998\).)Tj
+T*()Tj
+T*(/7 We note the thoughtful analysis of a different)Tj
+T*(district court in an action similar to the one)Tj
+T*(before us:)Tj
+T*()Tj
+T*(Plaintiff's claims . . . raise the serious)Tj
+T*(concern that bankruptcy debtors will deliberately)Tj
+T*(fail to challenge proofs of claim, despite having)Tj
+T*(knowledge of possible challenges to the proofs of)Tj
+T*(claim and despite being represented in their)Tj
+T*(bankruptcy, in the hope of maintaining collateral)Tj
+T*(challenges pursuant to statutes, like the FDCPA,)Tj
+T*(which may provide additional damages, as well as)Tj
+T*(attorney's fees. If debtors were permitted to)Tj
+T*(make such strategic decisions and, thus, to delay)Tj
+T*(their challenges to the legality or correctness)Tj
+T*(of proofs of claim until after dismissal of the)Tj
+T*(bankruptcy case, the concept of finality in)Tj
+T*(bankruptcy will be completely undermined.)Tj
+T*()Tj
+T*(Baldwin v. McCalla, Raymer, Padrick, Cobb,)Tj
+T*(Nichols & Clark, L.L.C., No. 98 C 4280, 1999 WL)Tj
+T*(284788, at *7 \(N.D. Ill. Apr. 26, 1999\))Tj
+T*(\(citations omitted\).)Tj
+ET
+
+endstream 
+endobj 
+24 0 obj 
+<<
+/Rotate 0
+/Parent 17 0 R
+/MediaBox [0 0 612 792]
+/Resources 25 0 R
+/Contents 32 0 R
+/Type /Page
+>>
+endobj 
+32 0 obj 
+<<
+/Length 2581
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T*()Tj
+T*(/8 We point out that failure to object prior to)Tj
+T*(confirmation does not foreclose a debtor from)Tj
+T*(challenging fraudulent proofs of claim in the)Tj
+T*(bankruptcy court. A bankruptcy confirmation may)Tj
+T*(be revoked by the bankruptcy court if it was)Tj
+T*(procured by fraud. See 11 U.S.C. sec. 1330\(a\).)Tj
+T*(Further, parties who commit fraud on the)Tj
+T*(bankruptcy court may be sanctioned by that court)Tj
+T*(pursuant to Federal Rule of Bankruptcy Procedure)Tj
+T*(9011, which is analogous to Rule 11 of the)Tj
+T*(Federal Rules of Civil Procedure. See In re)Tj
+T*(Bryson, 131 F.3d 601, 603 \(7th Cir. 1997\). Rule)Tj
+T*(9011\(b\) explicitly requires all filings with the)Tj
+T*(court to present only facts which the party)Tj
+T*(reasonably believes to have evidentiary support;)Tj
+T*(debtors facing fraudulent proofs of claim could)Tj
+T*(seek sanctions under that section. A motion for)Tj
+T*(sanctions under Rule 9011 must be made separately)Tj
+T*(from the objection to a proof of claim,)Tj
+T*(potentially giving debtors additional time to)Tj
+T*(discover any fraud on the part of the creditor.)Tj
+T*(See Fed. R. Bankr. P. 9011\(c\)\(1\)\(A\); In re Knox,)Tj
+T*(237 B.R. 687, 698-99 \(Bankr. N.D. Ill. 1999\).)Tj
+T*(Bankruptcy courts also have the authority to)Tj
+T*(sanction attorneys under 28 U.S.C. sec. 1927,)Tj
+T*(which allows the court to hold attorneys liable)Tj
+T*(for any excess expenses caused because of their)Tj
+T*(unreasonable or vexatious conduct. See In re)Tj
+T*(Volpert, 110 F.3d 494, 500-01 \(7th Cir. 1997\).)Tj
+T*()Tj
+T*(/9 The FDCPA provides a definition of "debt":)Tj
+T*()Tj
+T*(The term "debt" means any obligation or alleged)Tj
+T*(obligation of a consumer to pay money arising out)Tj
+T*(of a transaction in which the money, property,)Tj
+T*(insurance, or services which are the subject of)Tj
+T*(the transaction are primarily for personal,)Tj
+T*(family, or household purposes, whether or not)Tj
+T*(such obligation has been reduced to judgment.)Tj
+T*()Tj
+T*(15 U.S.C. sec. 1692a\(5\).)Tj
+T*()Tj
+T*(/10 Because the parties have not presented the issue,)Tj
+T*(we express no opinion as to whether a FDCPA claim)Tj
+T*(can ever be predicated on a previous filing in a)Tj
+T*(bankruptcy proceeding. Cf. Kokoszka v. Belford,)Tj
+T*(417 U.S. 642, 650-52 \(1974\) \(holding that the)Tj
+T*(wage garnishment protections of the Consumer)Tj
+T*(Credit Protection Act sought to prevent persons)Tj
+T*(from entering bankruptcy in the first place and)Tj
+T*(therefore were not applicable when bankruptcy did)Tj
+T*(occur\).)Tj
+ET
+
+endstream 
+endobj xref
+0 33
+0000000000 65535 f 
+0000000015 00000 n 
+0000002116 00000 n 
+0000002212 00000 n 
+0000002316 00000 n 
+0000002417 00000 n 
+0000002525 00000 n 
+0000002623 00000 n 
+0000002729 00000 n 
+0000002832 00000 n 
+0000002942 00000 n 
+0000003043 00000 n 
+0000003146 00000 n 
+0000003247 00000 n 
+0000003354 00000 n 
+0000003435 00000 n 
+0000003522 00000 n 
+0000003575 00000 n 
+0000003928 00000 n 
+0000006117 00000 n 
+0000009183 00000 n 
+0000012300 00000 n 
+0000015535 00000 n 
+0000018360 00000 n 
+0000021372 00000 n 
+0000003702 00000 n 
+0000004048 00000 n 
+0000006237 00000 n 
+0000009303 00000 n 
+0000012420 00000 n 
+0000015655 00000 n 
+0000018480 00000 n 
+0000021492 00000 n 
+trailer
+
+<<
+/Root 16 0 R
+/Size 33
+>>
+startxref
+24128
+%%EOF

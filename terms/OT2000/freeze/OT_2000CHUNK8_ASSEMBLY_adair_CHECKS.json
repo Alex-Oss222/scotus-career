@@ -1,0 +1,58 @@
+{
+  "record": "Adair_v_Sherman_merits_2001-06-27.md",
+  "sha256": "67c3d31ccdddb706bf1162490540ef60e2425d23ef6693191117c3b324f41a6d",
+  "public_sha256": "a57791656af17a49708f9c16f494a67ec83f4b8651982cc1fd16d2b4defc28fc",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    265,
+    262,
+    266
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 11,
+    "Kennedy": 11,
+    "Souter": 12,
+    "Thomas": 11,
+    "Ginsburg": 10,
+    "Breyer": 11
+  },
+  "last_counted_event": {
+    "date": "2001-06-25",
+    "case": "United States v. United Foods, Inc.",
+    "record": "United_States_v_United_Foods_Inc_merits_2001-06-25.md"
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 10,
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Stevens",
+  "source_links_https": 5,
+  "legal_review": "Manual judgment, proposition, join and remedy compatibility review in Record. No tool determines legal meaning.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain."
+}

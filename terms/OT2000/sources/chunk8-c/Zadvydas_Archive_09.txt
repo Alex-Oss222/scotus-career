@@ -1,0 +1,4413 @@
+JAN f  20ov| | oom | 
+
+
+No. 99-7791 
+
+
+In the Supreme Court of the United States 
+
+
+KESTUTIS ZADVYDAS, PETITIONER 
+v. 
+
+
+LYNNE UNDERDOWN AND IMMIGRATION 
+AND NATURALIZATION SERVICE 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+DAVID W. OGDEN 
+clssistant Attorney General 
+EDWIN S. KRNEEDLER 
+Deputy Solicitor General 
+BETH S. BRINKMANN 
+Assistant to the Solicitor 
+General 
+DONALD KEENER 
+QUYNH VI 
+Attorneys 
+De partine vl ot Justice 
+Washington, D.C. 20520-0001 
+(L202) 614-2210 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Immigration and Naturalization Service’s 
+continued detention of an alien who is subject to a final order 
+of deportation, but whose removal cannot be effectuated 
+immediately, violates substantive due process, where the 
+alien’s custody is reviewed automatically by the Immigration 
+and Naturalization Service on a periodic basis to determine 
+whether he would present a danger to society or a flight risk 
+if released. 
+
+
+(1) 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+Jurisdiction 
+
+
+Constitutional, statutory and regulatory provisions 
+involved 
+Statement 
+Summary of argument 
+Argument: 
+The continued detention of an alien under a final 
+order of deportation whose removal has not yet been 
+effectuated comports with due process, where the 
+detention is suhject to periodic review to determine 
+whether the alien would present a risk to the 
+community or of flight if released 2.............ccccccsereceereeeenees 
+A. The Attorney General's decision to detain 
+an alien under a final deportation order, pur- 
+suant to authority granted by Congress, must 
+_be accorded substantial deference under the 
+Constitution o 
+B. Detention of an alien who has been determined 
+to pose a risk to the community or be unlikely 
+to comply with a final deportation order if 
+released furthers important governmental 
+interests and comports with due process ................. 
+1. Congress has concluded that detention of 
+a criminal alien under a final deportation 
+order is justified in these circumstances ........... 
+2. Congress's authorization to detain dang- 
+erous aliens under final orders of removal 
+is consistent with this Court’s due process 
+precedents 
+
+
+(111) 
+
+
+al 
+
+
+16 
+
+
+19 
+
+
+19 
+
+
+IV 
+
+
+Table of Contents—Continued: Page 
+3. Petitioner’s prior long-time residency in 
+this country does not render his detention 
+unconstitutional, because his right to remain 
+here has been terminated 34 
+C. Detention of aliens such as petitioner under 
+Section 1231(a)(6) is not unconstitutionally 
+
+
+indefinite or excessive 40 
+Conclusion .. , a 
+Appendix A = 
+Appendix B 
+Appendix C h. 
+Appendix D 
+Appendix E : 
+
+TABLE OF AUTHORITIES 
+Cases: 
+Barrera-Echavarria v. Rison, 44 F.3d 1441 (9th 
+
+Cir.), cert. denied, 516 U.S. 976 (1995) ........ccenseeeee 13, 22, 49 
+Carlson v. Landon, 342 U.S. 524 (1952) «cece 17, 22, 23, 
+24, 31, 33, 34 
+Fiallo v. Bell, 430 U.S. T87 (1977) cccccccccceceesesenenenennnennenenens 20 
+
+Gisbert v. United States Attorney General, 988 F 2d 
+1437, amended by, 997 F.2d 1122 (Sth Cir. 1993) ......... 13, 22 
+Harisiades v. Shaughnessy, 342 US. 580 (1952) .......-000 17, 
+20, 30, 34 
+Ho v. Greene, 204 F.2d 1122 (Sth Cir. 1995) ............ 35, 36, 41 
+INS vy. Aguirre-Aguirre, 526 US. 415 (1999) 0000 22, 24, 
+49, 50 
+
+Jean v. Nelson, 727 F.2d 957 (11th Cir. 1984), aff'd, 
+472 U.S. 846 (1985) .... , 3A, 49, 50 
+Kansas v. Hendricks, 521 U.S. 346 (1997) .......cccccseeeeee 17-18, 
+cod 31, 32, 33, 44 
+Landon v. Plasencia, 459 U.S. 21 (1982) .......cccceceeeeneees 36, 38 
+
+
+Cases—Continued: 
+
+
+Page 
+Lynch v. Cannatella, 810 F 2d 1363 (5th Cir. 
+
+1987) 34 
+
+39 
+
+35 
+
+6 
+
+
+Mathews v. Diaz, 426 U.S. 67 (1976) 
+Mathews v. Eldridge, 424 U.S. 319 (1976) 
+Mrvica v. Esperdy, 376 U.S. 560 (1964) 
+Chi Thon Ngo v. INS, 192 F.3d 390 (3d Cir. 1999), 
+
+
+as amended on Dec. 30, 1999 41, 48 
+Chae Chan Ping v. United States, 130 U.S. 581 
+
+(1889) 19-20 
+Plyler v. Doe, 457 U.S. 202 (1982) 35, 39 
+Reno v. American-Arab Anti-Discrimination 
+
+Comm., 525 U.S. 471 (1999) i) 
+Reno v: Flores, 507 U.S. 292 (1998) coeccccccoesssse. 17, 22, 23, 38 
+
+
+Shaughnessy v. United States ex rel. Mezei, 
+
+
+345 U.S. 206 (1953) ............. 13, 17, 20, 21, 22, 29, 30, 35, 49 
+Fong Yue Ting v. United States, 149 U.S. 698 
+
+
+(1893) 14, 20, 38, 39, 47 
+United States v. Salerno, 481 U.S. 739 (1987) .............. 10, 18, 
+22, 24, 32, 33, 47 
+Wong Wing v. United States, 163 U.S. 228 
+(1896) 14, 20, 33, 39 
+Yick Wo. v. Hopkins, 118 U.S. 356 (1886) 39 
+Constitution, statutes and regulations: 
+US. Const.: 
+Amend. V 2, 18, 30, 34 
+Due Process Clause 18, 34, 35 
+Amend. VIII 8, 9, 33 
+Amend. XIV 34, 35 
+Equal Protection Clause 35 
+Anti-Durg Abuse Act of 1988, Pub. L. No. 100-690, 
+Tit. VII, § 7343(a), 102 Stat. 4470 24 
+
+
+Antiterrorism and Effective Death Penalty Act of 
+1996, Pub. L. No. 104-132, 110 Stat. 1214: 
+§ 440, 110 Stat. 1276 9, 27 
+§ 440(c), 110 Stat. 1277 9, 11, 25, 42 
+
+
+Vi 
+
+
+Statutes and regulations—Continued: 
+
+
+Illegal Immigration Reform and Immigrant Respon- 
+sibility Act of 1996, Pub. L. No. 104-208, Div. C, 
+110 Stat. 3009-546 
+
+
+§ 301, 110 Stat. 3009-575 
+§ 303, 110 Stat. 3009-585 to 3009-587 
+
+
+§ 303(b), 110 Stat. 3009-586 
+
+
+§ 303(b)(2), 110 Stat. 3009-586 
+§ 303(b)(3)(B)(i), 110 Stat. 3009-587 
+
+
+§ 303(b)(3)(B)(ii), 110 Stat. 3009-587 
+
+
+§ 387, 110 Stat. 3009-655 
+
+
+Immigration Act of 1990, Pub. L. No. 101-649, Tit. V, 
+
+
+§ 504(a), 104 Stat. 5049 
+
+
+Immigration and Nationality Act, 8 U.S.C. 1101 
+et seq. 
+
+
+U.S.C. 1101(a)(20) (1994) 
+
+
+U.S.C. 1101(a47)(BXii) (Supp. V 1999) ........... 
+
+
+U.S.C. 1182 (1994) 
+U.S.C. 1182 (Supp. V 1999) 
+
+
+U.S.C. 1182(¢) (1976) 
+
+
+U.S.C. 1182(¢) (Supp. V 1993) 
+
+
+U.S.C. 1182(¢) (1994) 
+U.S.C. 1225 (Supp. V 1999)...... 
+
+
+U.S.C. 1226(c) (Supp. V 1999) 
+
+
+U.S.C. 1227 (1994) 
+
+
+U.S.C. 1229a (Supp. V 1999) 
+U.S.C. 1231(a) (Supp. V 1999) 
+
+
+U.S.C, 1231(a)(1) (Supp. V 1999) 
+
+
+U.S.C, 1231(a)(4)(A) (Supp. V 1999) .. 
+
+
+U.S.C. 1231(aX(6) (Supp. V 1999) . 
+
+
+U.S.C, 1251 (1994) 
+
+
+U.S.C. 1251(a2)A)(ii) (Supp. V 1998) ........eee 
+U.S.C. 1251(a)(2)(A iii) (Supp. V 1998)... 
+U.S.C. 1251(a(2)(B)i) (Supp. V 1993) ..esss..eeeee 
+
+
+U.S.C, 1251(a)(4) (1976) 
+U.S.C, 1252 (1994) 
+
+
+mmrnennmnxennmnunnxnuennneneneeenvneeeez 
+
+
+U.S.C, 1252(a)(2) (1988) 
+
+
+% 
+
+
+z 
+
+
+SF BARRIRRe 
+
+
+RRRRE 
+
+
+s 
+“1 Ore 
+
+
+bevweete 
+
+
+VII 
+Statutes and regulations—Continued: Page 
+8 U.S.C. 1252(a)\(2) (Supp. V 1993) 4 
+8 U.S.C. 1252(a)(2) (Supp. III 1997) 25 
+8 U.S.C. 1252(a)(2) (Supp. V 1999) 42 
+8 U.S.C. 1252(a)(2)(A) (1988 & Supp. II 1990) .......... 25 
+8 U.S.C. 1252(a)(2)(A) (1994) ......., 8, 10 
+8 U.S.C. 1252(a)(2)(B) (1988 & Supp. II 1999) .......... 25 
+8 U.S.C. 1252(a\(2)(B) (Supp. III 1991) 25 
+8 U.S.C. 1252(a)(2)(B) (Supp. V 1993) 4 
+8 U.S.C. 1252(a)(2)B) (1994) 8, 10, 25 
+8 U.S.C, 1252(g) (Supp. III 1997) 9 
+8 U.S.C. 1252(g) (Supp. V 1999) 10 
+8 U.S.C. 1259 (1988 & Supp. V 1993) 6 
+8 U.S.C. 1368 (Supp. V 1999) a 29 
+Miscellaneous and Technical Immigration and 
+
+Naturalization Amendments of 1991, Pub. L. -- 
+
+No. 102-232, Tit- THT, $306(a)(4), 105 Stat. 1751 .....c..c.e. 25 
+28 U.S.C. 2241 x 
+8 C.F.R.: 
+
+Pt. 1: 
+
+Section 1.1(p) 35 
+
+Pt. 212: 
+
+Section 212.12 43 
+Section 212.12(a) 43-44 
+Pt. 236: 
+Section 236.1(d) 12 
+Section 236.1(d)(2)ii) 43 
+Section 236.1(d)(3 (iii) 43 
+Pt. 241: 
+Section 241.4 2, 12, 40, 42, 43, 7a 
+Section 241.4(a) 43, 7a 
+Section 241.5 12, 48 
+Miscellaneous: 
+142 Cong. Rec. 7972 (1995) 27 
+Dep't of Justice, Office of the Inspector General, 
+Deportation of Aliens After Final Orders Have 
+Been Issued (Mar. 1996) 28 
+
+
+Vill 
+Miscellaneous—Continued: Page 
+62 Fed. Reg. (1997): 
+
+— p. 10,312 28, 40, 42 
+P. — LO,B2B cssscosseesesnesenneensnscennnenssnnesensnnnssensnneesnnnnnnenennessnnnssenens = 
+P. 4B, DEB ...creceeeeresennees 
+
+65 Fed. Reg. (2000) a 
+DP. 4OBAO ....ereeseenseeensnennenennensenenennennennens a 
+p. 80,281 
+PP. BO,2K1-8O,298 ......ceeeeeeeeeneerenes 44, 
+P. BODES... eeceereeeenesenenensnenennenensens 2 
+PD. BOLDER ...ecseereersenennenennenennes ~ 
+P.  BOZDD .....ereeresveseveee = 
+P. BO 295 ....sscrseerseeneensenvesnennnseneennennnecsnnecnnecnnnonnnennnsnnennecnnnensns j 
+PP. 80,295-80,296 ......cseserseesseesesneesssnnenssneescannnsssnnncnnnennnnsssnnens Pe 
+P.  BO29G .....esseersessnseneeneeneennennnsnnecnnncnnnensnensnsnnnannnensennncnnsesness 
+P.  ROZIT cesseesseesneeneenennennennennesnsennennnennness sesseeeenenanns esse 44, 45 
+
+General Accounting Office, Criminal Aliens: INS 
+Efforts to Identify and Remove I mprisoned Aliens 
+Need to be I mpraved (JUly 1997) ....essesseeseereeeeneerenennennenssens a7 
+
+S. Rep. No. 48, 104th Cong., Ist Sess. (1995) ......-sssssssem 28 
+
+
+A ON IMEI 
+
+
+Se eee tal - 
+
+
+In the Supreme Court of the United States 
+
+
+No. 99-7791 
+KESTUTIS ZADVYDAS, PETITIONER 
+v. 
+
+
+LYNNE UNDERDOWN AND IMMIGRATION 
+AND NATURALIZATION SERVICE 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 192-228) is re- 
+ported at 185 F.3d. 279. The opinion of the district court 
+(J.A. 111-147) is reported at 986 F. Supp. 1011. The report 
+
+
+and recommendation of the magistrate judge (J.A. 70-93) are 
+unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+August 11, 1999. A petition for rehearing was denied on 
+October 13, 1999 (J.A. 229). The petition for a writ of certio- 
+rari was filed on January 11, 2000, and was granted on 
+October 10, 2000. The jurisdiction of this Court rests on 28 
+U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+CONSTITUTIONAL, STATUTORY 
+AND REGULATORY PROVISIONS INVOLVED 
+
+
+| 1. The Fifth Amendment to the United States 
+Constitution provides in relevant part: 
+
+
+No person shall be * * * deprived of life, liberty, or 
+property, without due process of law. 
+
+
+2. Section 1231(a) of Title 8 of the United States Code is 
+set forth in relevant part at App., infra, 4a-6a. 
+
+3. The regulations of the Immigration and Naturalization 
+Service (INS) that governed the detention of aliens beyond 
+the 90-day removal period prior to December 21, 2000 (8 
+C.F.R. 241.4) are set forth at App., infra, Ta-8a. The 
+regulations of the INS that govern such detention as of 
+December 21, 2000, are set forth at App., infra, 9a-26a. 
+
+4. The February 3, 1999, memorandum from the Ex- 
+ecutive Associate Commissioner of the Immigration and 
+Naturalization Service (INS) to INS Regional Directors, 
+entitled “Detention Procedures for Aliens Whose Immediate 
+Repatriation Is Not Possible or Practicable,” is set forth at 
+App., infra, 27a-3la. The August 6, 1999, memorandum from 
+the Executive Associate Commissioner of the INS to INS 
+Regional Directors entitled “Interim Changes and 
+Instructions for Conduct of Post-order Custody Reviews,” is 
+set forth at App., infra, 32a-39a. 
+
+
+STATEMENT 
+
+
+1. a. Petitioner was born in a displaced persons camp in 
+Germany in 1948. His parents were both from Lithuania. In 
+1956, petitioner immigrated with his family to the United 
+States and became a resident alien. Despite his long 
+residence in the United States, petitioner never became a 
+citizen of this country. J.A. 193, 212-213. 
+
+On December 8, 1966, petitioner was convicted of 
+attempted robbery, third degree, in New York state court. 
+J.A. 112. Petitioner was sentenced to six years’ imprison- 
+
+
+3 
+
+
+ment and served five years of that sentence. J.A. 13. On 
+August 31, 1973, petitioner was arrested on auto theft 
+charges and ultimately was convicted on the basis of a guilty 
+plea. J.A. 13. In 1974, petitioner was convicted on charges of 
+attempted burglary, third degree, in New York state court. 
+J.A. 112. He was sentenced to one and one half to three 
+years’ imprisonment. J.A. 13. Petitioner “admitted that he 
+had failed to appear three times on the burglary charge in 
+the 1970's.” J.A. 7. During his eventual imprisonment on 
+the burglary charge, petitioner was punished for escape 
+based on his violation of the terms of a furlough or work re- 
+lease program by returning several days late. J.A. 13.' 
+
+b. On July 6, 1977, the Immigration and Naturalization 
+Service (INS) issued petitioner an order to show cause why 
+he should not be deported. J.A. 112. The INS charged 
+petitioner with being deportable under 8 U.S.C. 1251(a)(4) 
+(1976), as an alien who had been convicted of two crimes 
+involving moral turpitude. J.A. 71 & n.1. Petitioner applied 
+for discretionary relief from deportation under 8 U.S.C. 
+1182(c) (1976). J.A. 71-72. | 
+
+On July 13, 1977, the INS granted petitioner release on his 
+own recognizance pending disposition of his deportation 
+charges. J.A. 71. According to the conditions of his release, 
+petitioner was required to obtain the INS’s permission 
+before changing his place of residence, to report any change 
+of address or employment, and to report to the INS office in 
+New York on August 31, 1977. J.A. 14-15. 
+
+The immigration judge (IJ) before whom the deportation 
+charges were pending subsequently remanded petitioner’s 
+case to the INS for adjudication of his application for relief 
+under 8 U.S.C. 1182(c) (1976). J.A. 15. That application was 
+ultimately denied by the INS on February 10, 1982. J.A. 15. 
+In July 1982, the INS notified petitioner that his deportation 
+
+
+' Petitioner's early criminal history also reflects a juvenile record and 
+a charge of car theft in 1964. J.A. 7. 
+
+
+4 
+hearing was rescheduled for August 25, 1982. J.A. 112. 
+
+
+“Facing a hearing before an immigration judge that year, — 
+
+
+[petitioner] disappeared,” J.A. 193, and failed to appear for 
+his deportation hearing, J.A. 112. 
+
+c. The INS’s attempts to locate petitioner were unsuc- 
+cessful. He was not heard from again until he was arrested 
+ten years later, in 1992, in Texas, on drug charges for which 
+he had been initially arrested:in Virginia in 1987. J.A. 112. 
+“While on bail awaiting trial in Virginia, [petitioner had] fled 
+to Houston, Texas,” to avoid the drug charges. J.A. 14, 198. 
+Petitioner “was in hiding from 1987 until he surrendered 
+himself to the [Texas] authorities in 1992.” J.A. 7. hae 
+
+On August 17, 1992, petitioner was convicted in Virginia 
+state court of possession of 474 grams of cocaine with intent 
+to distribute it. J.A. 112, 193. He was sentenced to sixteen 
+years’ imprisonment, with six years of that sentence 
+suspended. Petitioner served two years’ imprisonment on 
+that sentence and was then released on parole in January 
+1994 to the custody of the INS. J.A. 115, 193-194. " 
+
+2. a. On January 24, 1994, the INS issued petitioner a 
+superseding order to show cause, charging: him with being 
+deportable under 8 U.S.C. 1251(a)(2)(A)(ii) (Supp. V 1993), as 
+an alien convicted of two crimes involving mora! turpitude; 
+under 8 U.S.C. 1251(a)(2)(B)(i) (Supp. V 1993), as an alien 
+convicted of a controlled substance offense; and under 8 
+U.S.C. 1251(a)(2)(A (iii) (Supp. V 1993), as an alien convicted 
+
+a vated felony. J.A. 25, 72. 
+ae The INS ieecinuh aatiiinns under 8 U.S.C. 1252(a)(2) 
+(Supp. V 1993) pending completion of the deportation pro- 
+ceedings. J.A. 5. Petitioner requested redetermination of 
+his custody status, and a bond hearing was held by an IJ on 
+February 28, 1994. J.A. 5. The IJ declined to order that 
+petitioner be released. J.A. 5-8. The IJ noted that, in order 
+to obtain release under 8 U.S.C. 1252(a)(2)(B) (Supp. Vv 1993) 
+during the pendency of deportation proceedings, petitioner 
+bore the burden of establishing that he was lawfully ad- 
+
+
+5 
+
+
+mitted, not a threat to the community, and likely to appear 
+at any scheduled hearings. J.A. 6. The IJ found it unneces- 
+sary to decide whether petitioner would pose a threat to the 
+community if released because petitioner’s five-year flight 
+from prosecution and other information brought out on 
+cross-examination, including an arrest by the FBI for flight 
+to avoid prosecution, “cast[] serious doubt on [petitioner’s] 
+likelihood to appear at future hearings.” J.A. 8. On April 8, 
+1994, the Board of Immigration Appeals dismissed peti- 
+tioner’s appeal from that decision. J.A. 9. 
+
+b. Meanwhile, petitioner’s deportation proceedings con- 
+tinued on the merits. At a hearing before an IJ on March 29, 
+1994, petitioner admitted all of the allegations in the order to 
+show cause and was found deportable as charged. J.A. 87-88. 
+Petitioner then applied for relief from deportation under 8 
+U.S.C. 1182(c) (Supp. V 1993). After a hearing on that 
+application, the IJ issued a decision on May 2, 1994, denying 
+petitioner relief from deportation. J.A. 10-20. 
+
+The IJ first recognized as a favorable factor petitioner's 
+“family ties in the United States in the form of his mother, 
+five siblings, a wife, and a daughter,” although the IJ noted 
+that no family members had testified or provided affidavits 
+in support of petitioner, thus leading the IJ to question the 
+strength of petitioner's relationship with his family. J.A. 18. 
+The IJ also noted that separating petitioner from his 
+daughter “would not be a unique situation for her” in light of 
+their previous separation due to petitioner’s criminal 
+offenses and incarceration. J.A. 18. The IJ identified as 
+additional favorable factors petitioner's residency in this 
+
+country for,over 37 years and the fact that deportation to his 
+native country of Germany would cause petitioner hardship 
+because he does not have family ties to Germany and does 
+not speak the language. J.A. 18-19. 
+
+The IJ determined, however, that petitioner’s favorable 
+equities were outweighed by “extremely serious negative 
+factors such as [petitioner’s] criminal history which extends 
+
+
+6 
+
+
+over a period of almost 28 years and includes burglaries, 
+thefts, and armed robberies, his abuse of drugs, his 
+distribution of drugs, his flights to avoid prosecution and 
+prison, and his questionable rehabilitation,” J.A. 20, the 
+latter as evidenced by his minimization of his participation in 
+the drug-trafficking scheme, J.A. 19. Indeed, the IJ 
+observed, “{flor most of the last 27 years, [petitioner] has 
+been either engaged in criminal activity, in prison, or a 
+fugitive.” J.A. 18. He “absconded during the pendency of 
+deportation proceedings,” “abused the privilege of a super- 
+vised release from prison in 1976, fled to avoid prosecution in 
+1987, and was a fugitive from justice from 1987 until 1992.” 
+J.A. 19. The IJ therefore concluded that a favorable exercise 
+of discretion was not warranted in this case. J.A. 20.° 
+
+At the time of the deportation hearing, it was believed 
+that petitioner was a citizen of Germany. J.A. 10; see also 
+Sept. 27, 1996 Tr. 42 (petitioner testified that he thought that 
+he was a German citizen until he and the INS learned 
+otherwise). The IJ therefore ordered that petitioner be 
+deported to Germany. J.A. 20. Petitioner did not appeal 
+that decision, and it thereby became a final order of 
+deportation. J.A. 194.” 
+
+
+2 Because petitioner entered the United States before 1972, the IJ also 
+considered whether petitioner qualified for registry under 8 U.S.C. 1259 
+(1988 & Supp. V 1993). Under that statutory provision, the Attorney 
+General may provide, in her discretion, a “record of lawful admission for 
+permanent residence,” known as “registry” (see Mrvica v. Esperdy, 376 
+U.S. 560 (1964)), to an alien who entered the United States prior to 1972 if 
+the alien meets certain statutory criteria, including that he has resided in 
+the United States continuously since entry, is a person of good moral 
+character, is not ineligible for citizenship, and is not inadmissible on 
+certain grounds. The IJ determined that petitioner could not meet the 
+statutory requirement of good moral character under the registry 
+provision because of his conviction of an aggravated felony. J.A. 11-12. 
+
+3 On January 9, 1995, petitioner filed a motion to reopen his 
+deportation proceedings to apply once again for relief under Section 
+1182(c). J.A. 26. On January 19, 1995, an IJ denied the motion because it 
+
+
+7 
+
+
+3. In May 1994, an INS official began the process for 
+obtaining travel documents from Germany so that the INS 
+could effectuate petitioner’s deportation. J.A. 113. After the 
+INS submitted the necessary application to the German 
+Consulate, the Consulate informed the INS on June 28, 1994, 
+that it had determined that petitioner’s parents were 
+Lithuanian and that petitioner is not a German citizen. J.A. 
+74, 113. 
+
+On July 26, 1994, the INS sent a formal written request to 
+the Lithuanian Consulate for a travel document for peti- 
+tioner based on his Lithuanian parentage. J.A. 74. The 
+Lithuanian Consulate responded on August 22, 1994, stating 
+that it declined to issue petitioner a travel document on the 
+ground that he is not a citizen or permanent resident cf 
+Lithuania. J.A. 23, 74, 194. On October 3, 1994, INS Heac- 
+quarters formally requested permission from Lithuania fcr 
+the return of petitioner to that country. J.A. 74. 
+
+In October 1996, the INS again contacted the Lithvanian 
+Consulate to determine whether petitioner could claim 
+Lithuanian citizenship. J.A. 195. The INS was informed that 
+petitioner could apply for citizenship if he could prove that 
+his parents were born in Lithuania before 1940. J.A. 195, 
+215-216. On April 23, 1997, the INS forwarded another 
+formal request for travel documents to the Consulate of 
+Lithuania. J.A. 96-98. The letter requested information 
+about how a child born of Lithuanian parents in a country 
+other than Lithuania acquires Lithuanian citizenship. J.A. 
+97. It also enclosed documents reflecting the baptism of peti- 
+
+
+was not accompanied by an application for relief under Section 1182(c), 
+and because petitioner could not make a prima facie showing of eligibility 
+for that relief. J.A. 26-27. 
+
+
+4 The INS continued its ‘efforts to obtain travel documents for 
+petitioner from Germany. The German Consulate obtained further 
+information, but ultimately again denied the request in May 1995, stating 
+that it had conducted extensive research and determined that petitioner is 
+not a German citizen. J.A. 75, 194-195. 
+
+
+8 
+
+
+tioner’s mother and the marriage of petitioner’s parents 
+in Lithuania. Jbid.; see also J.A. 106-107 (letter enclosing 
+clearer copies of same documents and an additional docu- 
+ment relating to petitioner’s father). The Lithuanian 
+government provided additional information about the type 
+of documentation required following a meeting in September 
+1998. J.A. 164-165. See also note 22, infra.” 
+
+4. In the meantime, in September 1995, petitioner had 
+commenced the instant action by filing a petition for a writ of 
+habeas corpus under 28 U.S.C. 2241, contending that his 
+continued detention violated the Eighth Amendment, due 
+process, and international law. J.A. 195. 
+
+a. The matter was referred to a magistrate judge, who 
+conducted an evidentiary hearing on September 27, 1996. 
+J.A. 70. On February 3, 1997, the magistrate judge issued a 
+report recommending that the petition be denied. J.A. 70-93. 
+The magistrate judge found that petitioner’s continued 
+detention under 8 U.S.C. 1252(a)(2)(A) and (B) (1994) was 
+“statutorily authorized and does not constitute an abuse of 
+the Attorney General’s broad discretion in immigration 
+matters.” J.A. 76-77. The magistrate judge also concluded 
+that petitioner’s detention did not violate substantive due 
+process because the purpose of his detention was not 
+punishment, but rather was to further the government's 
+compelling interest in protecting the community and its 
+legitimate interest in preventing aliens from absconding 
+before they are deported, and because petitioner’s continued 
+detention was not an excessive means of accomplishing those 
+
+purposes. J.A. 79-82. The magistrate judge rejected peti- 
+tioner’s contention that because he had been a resident alien, 
+he was entitled to greater protections than the excludable 
+aliens who had been involved in earlier cases upholding the 
+
+
+5 In addition, the INS submitted an unsuccessful request for travel 
+documents to the Consulate of the Dominican Republic because 
+petitioner's wife is a native of that country. J.A. 64-65, 195. 
+
+
+Fe dit OR 
+
+
+tes 
+
+
+9 
+
+
+constitutionality of continued detention. J.A. 82-83. The 
+—— judge reasoned that whether detention is puni- 
+
+ive turns not on the distinction between resident and 
+excludable aliens, but rather on the governmental pu 
+underlying the detention. The magistrate judge natnted 
+that the governmental objectives in protecting society and 
+preventing “bond jumping” justify the detention of aliens 
+who at one time had the status of permanent residents. J.A 
+83. The magistrate judge also concluded that petitioner was 
+not being arbitrarily imprisoned for an indefinite time in 
+— of international law or the Eighth Amendment 
+_ om ret “9 = pas to effectuate his deportation were 
+‘ b. On October 30, 1997, the district court issued an order 
+isagreeing with the magistrate judge’s recommendation 
+and granting petitioner habeas relief, based on the court’s 
+conclusion that petitioner’s continued detention violated 
+substantive due process. J.A. 111-147." 
+
+
+6 : 
+Tne Soe mem judge found it unnecessary to determine whether 
+or gtd terrorism and Effective Death Penalty Act of 1996 
+), Pub. L. No. 104-132, 110 Stat. 1276—subsection (c) of which 
+mandated the detention of aliens who are aggravated felons—should be 
+applied retroactively to petitioner's case, because the court had alread 
+determined that he was not entitled to relief under the more lenient - 
+AEDPA law. J.A. 92; see also J.A. 91 n.8 (indicating that the transition 
+period custody rules of the Illegal Immigration Reform and Immi t 
+mene Act of 1996 (IIRIRA), Pub. L. No. 104-208, Div 6 we 
+so 7 ere at note 12, infra), allowed petitioner to apply for 
+menawy — om — had determined that petitioner would 
+
+
+’ As an initial matter, the 
+. ; court held that it had jurisdiction over the 
+— — petition notwithstanding 8 U.S.C. 1252(g) (Supp. UI 1997), 
+amended ued by IIRIRA. J.A. 115-124. The INS did not contest the district 
+i. aonte ae 
+“re in v. American-Arab Anti-Discrimination 
+ee US. 471 (1999), judicial review of petitioner's detention is 
+by Section 1252(g). J.A. 198-199. We agree with the court 
+
+
+10 
+
+
+The district court framed petitioner's substantive due 
+process claim as presenting the question “whether a legal 
+alien who is under a final order of deportation may be 
+permanently incarcerated because the INS cannot find a 
+country to take him.” J.A. 136. The court held that such 
+detention is unconstitutional. The court recognized (J.A. 136- 
+140) that petitioner’s detention was consistent with the 
+INS’s statutory authority under 8 U.S.C. 1252(a)(2 A) and 
+(B) (1994), because, “[clonsidering petitioner's recidivist 
+history and his prior episode of ‘bond jumping,’ petitioner 
+has not met his burden of proving that he is not a threat to 
+the community and that he is likely to appear for scheduled 
+hearings.” J.A. 139. The court also noted that Congress 
+nowhere placed a time limit on the detention of aggravated 
+felons, such as petitioner, who cannot meet the statutory 
+standards for release and whose immediate deportation is 
+not possible. J.A. 139-140. And the court recognized that 
+detention of aliens such as petitioner furthers the govern- 
+ment’s legitimate interests in protecting the community 
+from aggravated felons and preventing aliens from abscond- 
+ing before they are deported, and that those interests “can 
+warrant a deprivation of liberty under the proper circum- 
+stances.” J.A. 143 (quoting United States v. Salerno, 481 
+
+U.S. 739 (1987)). The court held, however, that petitioner's 
+detention was an excessive means of accomplishing those 
+purposes because of its duration up to that time and what 
+the court believed to be “its potential, if not certainty, for 
+indefinite duration in the future,” in light of the INS's lack of 
+success in obtaining travel documents from Lithuania. J.A. 
+
+
+of appeals that Section 1252(g) does not bar a district court from 
+exercising habeas corpus jurisdiction to consider an alien's challenge to his 
+continued custody following entry of a final order of deportation. 
+
+The district court also rejected petitioner's procedural due process 
+claims that challenged various aspects of his deportation hearing. J.A. 
+126-136. Petitioner did not cross-appeal from those rulings. J.A. 196 n.3. 
+
+
+1] 
+
+
+143. The court therefore ordered that petitioner be released 
+from the INS’s custody on conditions to be set by the court 
+- a sagen J.A. 146-147, 197." 
+. court of appeals reversed. J.A. - 
+court reviewed the four statutory mane Pron ool bo 
+erned immigration detention since petitioner's placement in 
+INS custody in 1994, in order to determine which regime 
+would currently govern petitioner’s detention. The court 
+noted that, “[t]wo of them, the rule in place when [petitioner] 
+was initially detained, see 8 U.S.C. § 1252 (1994), and the 
+Transition Period Custody Rules authorized in II RIRA (see 
+note 12, infra), place the burden on a detainee awaitin 
+deportation to prove that he is not a danger to the pat 
+munity or a flight risk before being released on parole pend 
+ing deportation.” J.A. 199-200. The court noted that ake : 
+third regime, enacted in Section 440(c) of AEDPA (see note 
+6, supra), petitioner’s detention would be mandatory regard 
+less of the danger or flight risk he posed. J.A. 200. Finall 
+with regard to the fourth statutory regime, i.e. ‘the . 
+manent provisions of IIRIRA, the court recognised ay 8 
+U.S.C. 1231(ay(6) (Supp. V 1999) “authorizes detention but 
+makes it discretionary beyond an initial ninety day period.” 
+J.A. 200 & n.6. The court agreed with the INS that peti- 
+pe detention is governed by Section 1231(aX(6) (J.A 
+_ 202), emphasizing that “the rapid passage of IIRIRA in 
+e immediate wake of AEDPA seems to indicate that 
+Congress repudiated the harsh mandatory detention regime 
+created by AEDPA for aliens whose deportation is final “ 
+J.A. 200-201. The court specifically found that petitioner is 
+subject to detention under Section 1231(a)(6) based on his 
+
+
+conviction of an aggravated felon is convicti 
+y and hi 
+controlled substance violation. J.A. 202 n.8. ee aeatarin 
+
+
+8 . . . 
+fs The district court denied the government's motion to alter or amend 
+: judgment on December 19, 1997, J.A. 150, and petitioner was released 
+y the INS pursuant to the court's judgment in late 1997, J.A. 176. 
+
+
+12 
+
+
+Turning to the question of the meg ore pl 
+tioner’s continued detention under 8 U.S.C. 1231(aX = te we. 
+V 1999), the court. based its analysis on the assumptio a 
+an alien in petitioner’s position is entitled to obtain aa 
+review by the INS of his detention under INS regu “ nm 
+J.A. 202. The court pointed to the regulations een ~wd = 
+view of the custody status of aliens detained ep a 
+1231(aX(6), which bg the gps oe moras 
+it is determined that the alien ‘is no pon 
+
+ity and is likely to comply with the removal o A 
+ry (citing 8 C.F.R. 236.1(d), 241.4, 241.5). ely 
+further pointed out that those regulations -_ ~ Aaa 
+plained and expounded in the February 3, 1 — “ol 
+randum for Regional Directors from INS aren 
+Associate Commissioner Michael A. Pearson ee . 
+‘Detention Procedures for Aliens Whose Immedia e ~ a 
+triation Is Not Possible or Practicable, J.A. =e Poo 
+memorandum required the INS nape om od — 
+
+detained aliens every six months to 
+aes has been a change in ee 
+_ and to document the alien 8 file 
+revo decisions; and the governing regulations nga 
+that if an alien requested a custody review in hear - 
+could appeal the district director's decision to —s onto 
+Immigration Appeals. J.A. 203 & n.9. The cou “ a 
+emphasized that “{t}he district court found ne the “= 
+not err in determining that [petitioner] poses a rea 
+community and a flight risk,” and that {s}hould ¥ r mn 
+no longer do so, he would doubtless be released.” J.A. 
+
+
+205. 
+
+
+® See pp. 43-45, infra (discussing new regulation a — 
+ministrative regime with a review process that inc od pe 
+review by INS Headquarters similar to that afforded u : : 
+Review Plan, rather than appeal to the Board of Immigration ppeals 
+
+
+13 
+
+
+Against this background, the court of appeals held that 
+the INS constitutionally may continue to detain an alien 
+under a final order of deportation “based on either danger to 
+the community or risk of flight while good faith efforts to 
+effectuate the alien’s deportation continue and reasonable 
+parole and periodic review procedures are in place.” J.A. 
+227. In doing so, the court emphasized that the “power to 
+expel or exclude aliens [is] a fundamental sovereign attri- 
+bute exercised by the Government’s political departments 
+largely immune from judicial control,” and that “(t]he power 
+of the national government to act in the immigration sphere 
+is thus essentially plenary.” J.A. 206, 207 (citations omitted). 
+
+The court rejected petitioner’s claim that his detention 
+constituted punishment without trial and violated a sub- 
+stantive due process liberty interest. J.A. 208-209. The court 
+explained that, in Gisbert v. United States Attorney General, 
+988 F.2d 1437, 1448, amended by 997 F.2d 1122 (5th Cir. 
+1993), it had held “that excludable aliens may be detained 
+pending deportation without such detention constituting 
+unconstitutional punishment, even when the aliens’ country 
+of origin indicates it will not accept their return.” J.A. 209 
+(also citing Barrera-Echavarria vy. Rison, 44 F.3d 1441, 1450 
+(9th Cir.) (en banc), cert. denied, 516 U.S. 976 (1995) (accord 
+with Gisbert)). The court further explained that, drawing on 
+the reasoning of Shaughnessy v. United States ex rel. Mezei, 
+345 U.S. 206 (1953), it had found in Gisbert that “detention 
+pending deportation does not constitute punishment, since 
+the detention could rationally be seen as a necessary 
+byproduct of the need to expel an unwanted alien rather 
+than a punitive decision.” J.A. 210. 
+
+The court of appeals rejected petitioner's attempt to 
+distinguish Gisbert and Mezei on the ground that, unlike the 
+aliens involved in those cases, who were excludable because 
+they were stopped at the border and not allowed to enter 
+this country, petitioner “is a resident alien.” J.A. 211. The 
+court acknowledged that petitioner's prior status as a re- 
+
+
+14 
+
+
+sident alien had entitled him to greater procedural due pro- 
+cess protections than an excludable alien would have had in 
+the administrative proceedings to determine whether he 
+would be entitled to remain in this country. J.A. 211. But it 
+concluded that different treatment was no longer warranted 
+“when, as here, a final decision to deport the once resident 
+alien has been made and stands unchallenged.” J.A. 211; see 
+also J.A. 220. The court opined that even excludable aliens 
+are entitled to certain due process protections and that the 
+lesser protection afforded them in proceedings to determine 
+whether they may enter the country is not based on their 
+excludable status as such, but rather is due to the fact that 
+they are seeking the privilege of entry into this country. 
+J.A. 220. 
+
+After reviewing the case law governing the various con- 
+stitutional protections accorded excludable and inadmissible 
+aliens, the court of appeals concluded that “[nJothing in these 
+cases suggests that a resident alien has a broadly privileged 
+constitutional status relative to excludable aliens, or is con- 
+stitutionally entitled to more favorable treatment when both 
+the right asserted and the governmental interest are identi- 
+cal to those in the parallel case of an excludable alien.” J.A. 
+223. The court stressed that the constitutional rights of both 
+excludable and deportable aliens may be affected by Con- 
+gress’s power over immigration. J.A. 223 (citing Fong Yue 
+Ting v. United States, 149 U.S. 698, 711 (1893) (United 
+States’ power to terminate residence in this country of 
+resident alien); Wong Wing v. United States, 163 U.S. 228, 
+235 (1896) (discussing Congress’s , »wer to expel aliens who 
+are present in this country)). It follows, the court explained, 
+that when the rights of such aliens come in conflict with the 
+
+government’s sovereign interests, “their rights are con- 
+strained accordingly and to the same extent.” J.A. 224. The 
+court therefore concluded that “[iJn the circumstances pre- 
+sented here, the national interest in effectuating deportation 
+is identical regardless of whether the alien was once resident 
+
+
+15 
+
+
+acoeany sal J.A. 224. When a permanent resident alien 
+~ ag the subject of a final order of deportation, that alien 
+such an alien is identical, trom w naciorat set oo? 
+al, [rom a national soverei 
+oy tye to the need to remove an excludable alien a 
+. pracbeaye! a koe pa returned to his 
+» WA. . at the govern 
+immediately effectuate the deportation of a pr adhe 
+does not alter the analysis, the court reasoned, because 
+pny ypec Hera 7 criminal alien is a former resident 
+© at the outset, the government 
+ent ba Apne sear against the risk that wae 
+mes if releas i 
+actual deportation becomes rewrote 1A. an ore 
+; The court of appeals rejected the district court's charac- 
+ertention of petitioner's detention as “permanent confine- 
+— explaining that that characterization “considerably 
+nag _ ra matter.” J.A. 211. The court pointed to the 
+me gula ry procedures, discussed earlier in its opinion 
+ic provide for automatic, periodic administrative revi 
+of petitioner's detention and allow for his release if the I NS 
+determines that he no longer poses a threat to the co 
+ity or a flight risk. J.A. 211-212. siege 
+Finally, the court of appeals rejected the district court’ 
+conclusion that petitioner “will never be deported.” J.A 212. 
+a court noted that the circumstances surrounding peti- 
+mas : Sg snag on rag and will doubtless require 
+. usual, but that it had not bee 
+tors that there was no meaningful possibility ean 
+- ing him. J.A. 212. The court recounted the history of 
+€ area in modern-day Lithuania in which petitioner’s 
+parents were born, J.A. 212-213, and acknowledged that 
+anger may In a sense be stateless,” but it concluded that 
+lat did not preclude petitioner from claiming or obtainin 
+Lithuanian citizenship based on the birth of his parents n 
+Lithuanian territory, J.A. 214-216. “Certainly,” the conan 
+
+
+16 
+
+
+observed, “there has been no definitive denial by Lithuania 
+of any application for citizenship by [petitioner].” J.A. 216. 
+The court also noted two other possibilities that remained 
+unexplored: a claim by petitioner of German citizenship 
+based on ethnic German ancestry through his mother, and a 
+claim of Russian citizenship because of the Soviet Union’s 
+prior control over the birthplace of petitioner’s parents and 
+the fact that some of petitioner’s relatives live there. J.A. 
+217-219. The court concluded that, “[gliven the traditional 
+deference we show to the other branches in matters of immi- 
+gration policy, judicial intrusion should not be considered, 
+particularly where there are reasonable avenues for parole, 
+until there is a more definitive showing that deportation is 
+impossible, not merely problematical, difficult, and distant.” 
+
+
+J.A. 219. 
+SUMMARY OF ARGUMENT 
+
+
+The continued detention of an alien by the Immigration 
+and Naturalization Service (INS) under 8 U.S.C. 1231(a)(6) 
+(Supp. V 1999) does not violate substantive due process 
+where the alien is under a final order of deportation but has 
+not yet been removed, and the alien’s detention is subject to 
+periodic administrative review to determine whether he 
+would present a risk to the community or of flight if 
+released. Congress’s enactment of Section 1231(a)(6) and its 
+predecessor statutes reflects Congress’s judgment that the 
+government’s interests in preventing danger to the 
+community and ensuring the appearance of aliens at future 
+immigration proceedings justify the Attorney General’s 
+continued detention of an alien whose release would present 
+such risks. Section 1231(a)(6), as enacted by the Illegal 
+Immigration Reform and Immigrant Responsibility Act of 
+1996, Pub. L. No. 104-208, Div. C., 110 Stat. 3009-575, 
+reflects Congress’s determination that, when faced with the 
+difficult situation of an alien under a final order of deporta- 
+tion who has no right whatsoever to be in this country but 
+
+
+17 
+
+
+who cannot be removed within the removal period, the 
+Attorney General must be provided sufficient authority to 
+determine how best to serve those interests and also to be 
+able to release aliens where such release would not under- 
+mine those interests. 
+
+The Attorney General’s detention of an alien, pursuant to 
+the statutory authority granted her by Congress, must be 
+accorded substantial deference under the plenary power 
+doctrine. This Court has recognized that “any policy toward 
+aliens is vitally and intricately interwoven with contem- 
+poraneous policies in regard to the conduct of foreign 
+relations, the war power, and the maintenance of a 
+republican form of government,” and that “[s]uch matters 
+are so exclusively entrusted to the political branches of 
+government as to be largely immune from judicial inquiry or 
+interference.” Harisiades v. Shaughnessy, 342 U.S. 580, 
+588-589 (1952). Moreover, this Court has made clear that, 
+when Congress vests in the Attorney General the dis- 
+cretionary authority over detention decisions regarding 
+aliens subject to deportation, such decisions are subject to 
+only the most deferential standard of judicial review. See 
+Shaughnessy v. United States ex rel. Mezei, 345 U.S. 206 
+(1953); Carlson v. Landon, 342 U.S. 524 (1952); Reno v. 
+Flores, 507 U.S. 292 (1993). Petitioner’s claim to heightened 
+due process scrutiny cannot be reconciled with those rulings. 
+
+Congress’s grant of authority to the Attorney General to 
+detain dangerous aliens such as petitioner is consistent with 
+this Court’s substantive due process precedents. The Court 
+upheld the Attorney General’s similar exercises of detention 
+authority over aliens in Mezei and Carlson based on the 
+threat of harm to the community that Congress determined 
+would be posed by the release of such aliens. And the Court 
+has upheld the constitutionality of detention based on future 
+dangerousness in other contexts involving citizens, where 
+the special deference to the political Branches in matters 
+regarding aliens was not even involved. See Kansas v. 
+
+
+18 
+
+
+Hendricks, 521 U.S. 346 (1997); United States v. Salerno, 481 
+U.S. 739 (1987). In light of the deference due Congress’s 
+judgment in immigration matters, the government's interest 
+in preventing the release into society of an alien who is 
+awaiting removal, and who has been determined by the 
+Attorney General to pose a risk to the community if re- 
+leased, is sufficiently weighty to justify Congress’s authori- 
+zation of detention here. 
+
+Petitioner’s long-time residency in this country does not 
+mean that his detention following entry of a final order of 
+deportation violates due process. Petitioner’s failure to 
+obtain United States citizenship during his 44 years of 
+residency here means that petitioner remains subject to the 
+plenary power of Congress to expel aliens. That does not 
+mean that the Due Process Clause of the Fifth Amendment 
+is altogether inapplicable to petitioner. But it does mean 
+that any due process inquiry must take into account the 
+substantial deference owed the political Branches in deter- 
+mining what process is due, as the court of appeals’ analysis 
+in this case did. The court of appeals reasonably held that, 
+for purposes of a due process analysis of immigration 
+detention, petitioner stands essentially on the same footing 
+as an excludable alien who has been ordered removed after 
+seeking to enter the United States. The alien’s lack of a 
+right to be present in the United States, and the govern- 
+ment’s countervailing interests in protecting against danger 
+to the community and effectuating removal, are the same in 
+the two situations. Congress views the United States’s 
+interests to be analogous in detaining a former resident alien 
+like petitioner and an excludable alien, because both cate- 
+gories of aliens are subject to detention beyond the removal 
+period under 8 U.S.C. 1231(a)(6) (Supp. V 1999). 
+
+Detention of an alien like petitioner under Section 
+1231(a)(6) is not unconstitutionally indefinite or excessive. 
+Such detention cannot fairly be characterized as indefinite in 
+light of the existence of administrative procedures that 
+
+
+19 
+
+
+provide for a periodic and meaningful review of petitioner’s 
+custody, and the possibility that continued diplomatic efforts 
+with Lithuania, Germany or Russia might result in peti- 
+tioner’s removal. Such detention is not excessive compared 
+to the interests the government seeks to protect. As in 
+Kansas v. Hendricks, Congress has adequately distin- 
+guished the persons who may be detained under Section 
+1231(a)(6) from other persons whose detention would not be 
+related to a legitimate government interest. The fact that 
+petitioner may currently be stateless does not mean that he 
+cannot be removed to another country, particularly, for 
+example, if he is able to obtain citizenship elsewhere. The 
+courts should be especially reluctant to second-guess Exe- 
+cutive Branch judgments regarding the prospects of re- 
+moving such an alien, both because of the Executive’s 
+greater expertise and access to all the relevant information 
+and communications, and because of the need for the Nation 
+to speak with one voice on such matters. 
+
+
+ARGUMENT 
+
+
+THE CONTINUED DETENTION OF AN ALIEN 
+UNDER A FINAL ORDER OF DEPORTATION 
+WHOSE REMOVAL HAS NOT YET BEEN EFFEC- 
+TUATED COMPORTS WITH DUE PROCESS, 
+WHERE THE DETENTION IS SUBJECT TO 
+PERIODIC REVIEW TO DETERMINE WHETHER 
+THE ALIEN WOULD PRESENT A RISK TO THE 
+COMMUNITY OR OF FLIGHT IF RELEASED 
+
+
+A. The Attorney General’s Decision To Detain An 
+Alien Under A Final Deportation Order, Pursuant 
+To Authority Granted By Congress, Must Be 
+
+
+Accorded Substantial Deference Under The Con- 
+stitution 
+
+
+1. This Court has long made clear that the political 
+Branches enjoy broad powers over immigration. Chae Chan 
+
+
+20 
+
+
+Ping v. United States, 130 U.S. 581, 606 (1889). Indeed, 
+“over no conceivable subject is the legislative power of Con- 
+gress more complete.” Fiallo v. Bell, 430 U.S. 787, 792 
+(1977). The Court has explained that “any policy toward 
+aliens is vitally and intricately interwoven with contem- 
+poraneous policies in regard to the conduct of foreign rela- 
+tions, the war power, and the maintenance of a republican 
+form of government. Such matters are so exclusively en- 
+trusted to the political branches of government as to be 
+largely immune from judicial inquiry or interference.” 
+Harisiades v. Shaughnessy, 342 U.S. 580, 588-589 (1952). 
+
+The authority of the political Branches in immigration 
+matters derives from the “inherent and inalienable right of 
+every sovereign and independent nation” to determine which 
+aliens it will admit or expel. Fong Yue Ting v. United 
+States, 149 U.S. 698, 711 (1893). “Courts have long recog- 
+nized the power to expel or exclude aliens as a fundamental 
+sovereign attribute exercised by the Government’s political 
+departments largely immune from judicial control.” Shaugh- 
+nessy Vv. United States ex rel. Mezei, 345 U.S. 206, 210 (1953). 
+
+Contrary to petitioner’s contention (Br. 9, 14, 24-25), there 
+is no exception to these fundamental principles for matters 
+concerning the detention of aliens in connection with their 
+removal from the United States. The detention of aliens, 
+like other aspects of immigration, has clear implications for 
+the Nation’s sovereignty, security, and foreign policy. 
+Accordingly, the political Branches’ plenary power over 
+immigration encompasses the formulation of policies con- 
+cerning the detention of aliens against whom removal pro- 
+ceedings have been commenced or a final order of removal 
+has been entered. Indeed, “[p]roceedings to exclude or expel 
+[aliens] would be vain if those accused could not be held in 
+custody pending the inquiry into their true character and 
+while arrangements were being made for their deportation.” 
+Wong Wing v. United States, 163 U.S. 228, 235 (1896). 
+
+
+21 
+
+
+These concerns may be especially pronounced when the 
+removal of an alien who is no longer entitled to remain in the 
+United States cannot be effectuated immediately because of 
+the refusal by another nation to accept responsibility for its 
+own citizens. See Mezei, 345 U.S. at 216 (“Congress may 
+well have felt that other countries ought not shift the onus to 
+us; that an alien in respondent’s position is no more ours than 
+theirs.”). That is especially so when the Attorney General 
+reasonably determines that such an alien, who has no right 
+to be here, would pose a risk of flight or danger to the 
+community of the United States if released. 
+
+Negotiations between the Executive Branch and a foreign 
+country concerning the return of an alien, as well as to 
+establish the logistics for accomplishing the return, can be 
+sensitive and difficult, sometimes for reasons wholly 
+unrelated to the circumstances of any particular alien. That 
+could be true, for example, where the other country’s refusal 
+to accept the return of its citizens is part of a broader 
+diplomatic schism between the two nations, or where 
+arrangements for repatriation are tied up with efforts at a 
+more general normalization of relations. In other situations, 
+negotiations with the other country may be especially 
+difficult because of the particular alien involved—where, for 
+example, the alien is a terrorist who the other country might 
+want to remain in the United States precisely because of the 
+risk of harm he presents, or the alien is simply unwelcome 
+because of his criminal background or other characteristics. 
+Critical sovereignty, security, and foreign policy concerns 
+would arise if another country, simply by refusing to accept 
+the return of its own citizens, could force the United States 
+to allow those aliens to be at liberty in the United States, 
+even where they would threaten harm to the community or 
+flee if released. And if a United States court ordered the 
+release of the aliens on the basis of a determination that they 
+are unlikely to be removed in the near future, the effect 
+would be to undermine the position of the United States in 
+
+
+22 
+
+
+the international community, speaking with one voice 
+through the Executive Branch, that the other nation must 
+promptly accept the return of its citizens who have been 
+ordered deported from the United States. “The judiciary is 
+not well positioned to shoulder primary responsibility for 
+assessing the likelihood and importance of such diplomatic 
+repercussions.” INS v. Aguirre-Aguirre, 526 U.S. 415, 425 
+(1999). 
+
+It is for reasons such as these that the political Branches 
+must have broad latitude in fashioning policies concerning 
+the detention or release of aliens who are ordered removed 
+from the United States, and that courts must give great 
+deference to Congress in enacting laws governing detention 
+and to the Executive in implementing those laws. See 
+Gisbert v. United States Attorney General, 988 F.2d 1437, 
+1447 (“The United States cannot be forced to violate its 
+national sovereignty in order to parole [criminal] aliens 
+within its borders merely because [the native country] is 
+dragging its feet in repatriating them.”), amended by 997 
+F.2d 1122 (5th Cir. 1993); Barrera-Echavarria v. Rison, 44 
+F.3d 1441, 1448 (9th Cir.) (en banc) (“Reading a time limit on 
+detention [of excludable aliens] would risk frustrating the 
+government’s ability to control immigration policy and 
+relations with foreign nations.”), cert. denied, 516 U.S. 976 
+(1995). 
+
+2. This Court has expressly upheld the authority of the 
+Attorney General, acting pursuant to congressional authori- 
+zation, to detain an alien as a means of enforcing the decision 
+that the alien is not entitled to be admitted into the United 
+States. See Mezei, 345 U.S. at 210, 215-216. And the Court 
+has upheld, against constitutional challenge, the power of 
+Congress to vest the Attorney General with the discretion to 
+determine whether to release an alien from custody pending 
+deportation proceedings. Reno v. Flores, 507 U.S. 292, 306 
+(1993); Carlson v. Landon, 342 U.S. 524, 538-544 (1952); ef. 
+United States v. Salerno, 481 U.S. 739, 748 (1987) (“Even 
+
+
+23 
+
+
+outside the exigencies of war, we have found that sufficiently 
+compelling governmental interests can justify detention of 
+dangerous persons. Thus, we have found no absolute consti- 
+tutional barrier to detention of potentially dangerous re- 
+sident aliens pending deportation proceedings.”). 
+
+Petitioner’s claim (Br. 8, 11-13) that his immigration de- 
+tention nonetheless necessarily implicates a fundamental 
+liberty interest that requires application of heightened due 
+process scrutiny cannot be reconciled with those rulings. 
+The Court has made clear that when Congress vests in the 
+Attorney General the discretionary authority over the de- 
+tention of aliens subject to deportation, the Attorney 
+General's decisions are subject to only the most deferential 
+standard of review. Carlson, 342 U.S. at 540-541 (noting 
+congressional intent “to make the Attorney General’s ex- 
+ercise of discretion presumptively correct and unassailable 
+except for abuse,” and holding that the Attorney General's 
+detention determination can be overridden only “where it is 
+clearly shown that it ‘was without a reasonable founda- 
+tion’”); Flores, 507 U.S. at 306 (INS regulation governing 
+detention must meet “the (unexacting) standard of rationally 
+advancing some legitimate governmental purpose”). 
+Petitioner’s invocation (Br. 13, 15, 20) of a narrow-tailoring 
+standard is also inconsistent with those decisions. See, e.g., 
+Flores, 507 U.S. at 301-302, 305, 306 (quoting narrow- 
+ailoring standard when describing parties’ claim, but re- 
+quiring no more than rationality and a “reasonable fit” be- 
+tween governmental purpose and means chosen to advance 
+that purpose). 
+
+For these reasons, the Attorney General's exercise of 
+congressionally delegated authority to detain an alien in 
+petitioner’s circumstances should be accorded the utmost 
+deference under this Court’s precedents recognizing the 
+plenary power of the political Branches with respect to 
+immigration, which here includes protection of the United 
+States and its citizens and lawful residents against harm that 
+
+
+24 
+
+
+might be perpetrated against them by aliens who have 
+already been convicted of aggravated felonies. See Carlson, 
+342 U.S. at 534-536, 538, 542; Aguirre-Aguirre, 526 U.S. at 
+425 (“[J)judicial deference to the Executive Branch is 
+especially appropriate in the immigration context where 
+officials ‘exercise «specially sensitive political functions that 
+implicate questions of foreign relations.’ ”). 
+
+
+B. Detention Of An Alien Who Has Been Determined To 
+Pose A Risk To The Community Or Be Unlikely To 
+Comply With A Final Deportation Order If Released 
+Furthers Important Governmental Interests And 
+Comports With Due Process 
+
+
+1. Congress has concluded that detention of a 
+criminal alien under a final deportation order is 
+justified in these circumstances 
+
+
+Congress has made clear, over the course of the last 
+decade, that in its judgment detention by the Attorney 
+General of a criminal alien under a final order of deportation 
+is justified where the alien poses a risk to the community or 
+is unlikely to appear for further immigration proceedings if 
+released. Preventing danger to the community is 
+undoubtedly a legitimate goal of the government, Salerno, 
+481 U.S. at 747, as is ensuring the appearance of aliens at 
+future immigration proceedings, id. at 749. Congress has 
+relied on those two interests in a series of recent 
+amendments to the Immigration and Nationality Act (INA), 
+8 U.S.C. 1101 et seqg., which have included risk to the com- 
+munity and risk of flight as grounds for continued detention 
+of a criminal alien under a final order of deportation. 
+
+In 1988, Congress enacted a provision directing the 
+Attorney General to take into custody any alien convicted of 
+an aggravated felony upon completion of his criminal 
+sentence, and not to release the aggravated felon from 
+custody. See Anti-Drug Abuse Act of 1988, Pub. L. No. 100- 
+690, § 7343(a), 102 Stat. 4470; 8 U.S.C. 1252(a)(2) (1988). In 
+
+
+ens 
+
+
+25 
+
+
+1990, Congress amended that provision to clarify that it 
+applied to aliens both before and after they became subject 
+to a final order of deportation. The 1990 amendment also 
+added a statutory exception to the mandatory-detention 
+provision that required the release on bond or other 
+conditions of an aggravated felon who had been lawfully 
+admitted for permanent residence, but only if the Attorney 
+General determined that the alien was not a threat to the 
+community and was likely to appear for any immigration 
+hearings. See Immigration Act of 1990, Pub. L. No. 101-649, 
+§ 504(a), 104 Stat. 5049; 8 U.S.C. 1252(a)(2)(A) and (B) (1988 
+& Supp. II 1990). In 1991, Congress reworded that exception 
+to provide that the Attorney General could not release a 
+lawfully admitted alien who was an aggravated felon unless 
+the alien demonstrated “to the satisfaction of the Attorney 
+Genera! that such alien is not a threat to the community and 
+that the alien is likely to appear before any scheduled 
+hearings.” Miscellaneous and Technical Immigration and 
+Naturalization Amendments of 1991, Pub. L. No. 102-232, § 
+306(a)(4), 105 Stat. 1751; 8 U.S.C. 1252(aX(2)(B) (Supp. III 
+1991); 8 U.S.C. 1252(a)(2)(B) (1994).”” 
+
+When Congress enacted AEDPA in 1996, it eliminated the 
+provision allowing release of aggravated felons (and certain 
+other criminal aliens) if they satisfied the Attorney General 
+that they would not pose a threat to the community and 
+would be likely to appear for hearings if released. See 8 
+U.S.C. 1252(a\(2), as amended by AEDPA § 440(c), 110 Stat. 
+1277. That section of AEDPA was replaced less than six 
+months later, however, by the provisions of IIRIRA that 
+
+
+10 That is the version of the statute that was in effect when petitioner 
+initially requested that he be released on bond pending his deportation 
+proceedings (see J.A. 5-8 (March 14, 1994, IJ decision applying that 
+statutory standard)), and when he filed his petition for habeas corpus 
+relief in September 1995 (see J.A. 195). See also J.A. 77 (magistrate judge 
+applying that statutory standard); J.A. 137-140 (district court invoking 
+same statutory provision). 
+
+
+26 
+
+
+grant the Attorney General discretion to release a criminal 
+alien after expiration of the statutory 90-day removal 
+period,'' but specify that she may continue certain aliens in 
+custody beyond that date, including any alien “who has been 
+determined by the Attorney General to be a risk to the com- 
+munity or unlikely to comply with the order of removal.” 8 
+U.S.C. 1231(a)(6) (Supp. V 1999)."* 
+
+
+1! At the time of petitioner's deportation proceedings, the INA 
+referred to aliens who were present in the United States but subject to 
+expulsion as “deportable,” and to aliens at the border who were subject to 
+continued exclusion as “excludable.” See 8 U.S.C. 1182, 1251 (1994). The 
+administrative proceedings in which those determinations were made 
+were called “deportation” and “exclusion” proceedings, respectively. & 
+U.S.C. 1227, 1252 (1994). Section 301 of IIRIRA amended the INA to 
+refer to “excludable” aliens as “inadmissible” aliens (¢.g., 8 U.S.C. 1182, 
+1225 (Supp. V 1999)), and established “removal” proceedings to take the 
+place of “deportation” and “exclusion” proceedings (e.g., 8 U.S.C. 1229a 
+(Supp. V 1999)). 
+
+In this brief, we use pre-IIRIRA terminology when discussing 
+historical facts relating to the entry of petitioner’s final deportation order 
+under the former statutory framework and when discussing cases decided 
+under pre-IIRIRA law. Elsewhere, we use the current “removal” 
+terminology. 
+
+In addition to the permanent provision of IIRIRA codified at 8 
+U.S.C. 1231(aX(6) (Supp. V 1999), IIRIRA also contained transition period 
+custody rules that governed the detention of certain aliens during the first 
+two years following enactment of IIRIRA, pursuant to certification by the 
+Attorney General that there was insufficient detention space. See 
+IIRIRA § 303, 110 Stat. 3009-585 to 3009-587. Those rules provided a 
+standard for release of lawfully admitted aliens similar to that set forth in 
+the INA immediately prior to enactment of AEDPA. IIRIRA 
+§ 303(b)(3) Bi), 110 Stat. 3009-587. In addition, the rules provided that an 
+alien who was not lawfully admitted, and who could not “be removed 
+because the designated country of removal will not accept the alien,” could 
+be released if he similarly satisfied the Attorney General that he would 
+“not pose a danger to the safety of other persons or of property and is 
+
+
+27 
+
+
+The augmented provisions for detention in AEDPA and 
+IIRIRA represented Congress’s considered response to 
+what it perceived to be substantial deficiencies in the system 
+previously employed for deporting aliens from this country. 
+Congress viewed immigration detention as a solution to the 
+pressing national problem that had arisen due to the 
+widespread commission of crimes by criminal aliens after 
+being released by the INS during the deportation process,” 
+
+
+likely to appear for any scheduled proceeding.” IIRIRA § 303(b\(3)(BXii), 
+110 Stat. 3009-587. 
+
+Both the magistrate judge and the district court were cognizant of the 
+enactment of AEDPA and IIRIRA during the pendency of petitioner's 
+habeas corpus proceedings. See J.A. 92 (magistrate judge declining to 
+determine whether Section 440 of AEDPA, 110 Stat. 1276, should be 
+applied to petitioner’s case because he had already determined that peti- 
+tioner was not entitled to relief under the more lenient pre-AEDPA law); 
+J.A. 91 n.8 (magistrate judge stating that the transition period custody 
+rules of IIRIRA § 303(b), 110 Stat. 3009-586, allowed petitioner to apply 
+for a bond redetermination and that the INS had determined that bond 
+would be denied); J.A. 139 n.4 (district court stating that the INS denied 
+petitioner bond under the recently enacted transition period custody rules 
+of IIRIRA). 
+
+In floor debates preceding enactment of AEDPA, one of the 
+sponsors of the bill explained that “recidivism rates for criminal aliens are 
+high,” citing a Government Accounting Office (GAO) study that found that 
+“77 percent of noncitizens convicted of felonies are arrested at least one 
+more time.” 142 Cong. Rec. 7972 (1995). A GAO report published in July 
+of 1997 revealed, for example, that approximately 2000 criminal aliens 
+were released from prison in the second half of fiscal year 1995 before 
+their deportation proceedings were completed and without assessment of 
+the risk they posed to the public. The INS tracked the post-release 
+criminal activity of 635 of those criminal aliens and found that 23 percent 
+had been rearrested for crimes, including 184 felonies. General 
+Accounting Office, Criminal Aliens: INS’ Efforts to Identify and Remove 
+Imprisoned Aliens Need to be Improved 1, GAO/T-GGD-97-154 (July 15, 
+1997). 
+
+
+28 
+
+
+as well as the disappearance of criminal aliens who were 
+released." 
+
+In particular, 8 U.S.C. 1231(a)(6) (Supp. V 1999), as 
+enacted by IIRIRA, reflects Congress’s determination that, 
+when faced with the difficult situation of an alien under a 
+final order of removal who has no right whatsoever to be in 
+this country but who cannot be removed within the 90-day 
+removal period provided for in 8 U.S.C. 1231(a)(1) (Supp. V 
+1999), the Attorney General must be granted sufficient 
+authority to determine in each case how best to serve the 
+various competing interests. Those interests include pro- 
+tecting the community from future harm by aliens adjudged 
+not to be lawfully part of the community, ensuring the 
+ultimate effectuation of removal orders, and releasing aliens 
+where such release would not be inconsistent with the other 
+interests."” 
+
+
+4 An April 7, 1995 report issued by the Senate Committee on Govern- 
+mental Affairs noted that “[o|ver 20 percent of nondetained criminal aliens 
+fail to appear for deportation proceedings” and that “[u|ndetained criminal 
+aliens with deportation orders often abscond upon receipt of a final 
+notification from the INS that requires them to voluntarily report for 
+removal.” S. Rep. No. 48, 104th Cong., Ist Sess. 2 (1995); id. at 24 (“In 
+New York, for example, in fiscal year 1993, out of 1695 such notices to 
+surrender sent to criminal and non-criminal aliens, 1486, or 87.7 percent 
+failed to surrender.”). A March 1996 report by the Department of Justice, 
+Office of the Inspector General, Deportation of Aliens After Final Orders 
+Have Been Issued, “found that 89 percent of non-detained aliens with final 
+orders of deportation failed to surrender for deportation when ordered to 
+do so by the [INS].” 62 Fed. Reg. 48,183 (1997); see also 62 Fed. Reg. 
+10,312, 10,323 (1997). 
+
+15 When Congress enacted IIRIRA, it recognized that the government 
+may have an interest in releasing aliens on conditions of supervision, 
+rather than maintaining them in detention, in order to ease administrative 
+and financial burdens on the INS. See IIRIRA § 303(b)(2), 110 Stat. 3009- 
+586 (providing for up to two years’ delay of effective date of 8 U.S.C. 
+1226(c) (Supp. V 1999), which mandates detention of certain criminal 
+aliens during removal proceedings, if Attorney General notifies Congress 
+that there is insufficient detention space and INS personnel available to 
+
+
+29 
+
+
+2. Congress’s authorization to detain dangerous aliens 
+under final orders of removal is consistent with this 
+Court’s due process precedents 
+
+
+a. This Court has upheld exercises of detention authority 
+by the Attorney General over aliens based on the threat of 
+harm to the community that Congress determined would be 
+posed by their release. In Mezei, the Court upheld against 
+constitutional challenge the continued detention of an alien 
+who had been ordered excluded (based on nondisclosed 
+evidence and without a hearing) pursuant to a finding that 
+the alien’s “entry would be prejudicial to the public interest 
+for security reasons.” 345 U.S. at 208. The alien was 
+returning from a 19-month trip abroad to his home in the 
+United States where he had lived for 25 years, but he was 
+adjudged to be permanently excludable from the United 
+States because of the risk to the community that it was 
+believed he would pose. The Court ruled that the continued 
+detention of that alien on Ellis Island, because no country 
+could be located to accept him, did not deprive the alien of 
+any statutory or constitutional right. Jd. at 215. While 
+acknowledging the resulting hardship caused to the alien, 
+
+
+implement the provision). Nonetheless, Congress clearly intended that, 
+under IIRIRA, the Attorney General would increase the INS’s detention 
+of criminal aliens by retaining in custody those aliens whose release would 
+pose a risk to the community or a probability of flight. See 8 U.S.C. 1368 
+(Supp. V 1999) (requiring Attorney General, subject to availability of 
+appropriations, to increase INS detention facilities and to report 
+semiannually to Congress estimates of: the detention space needed to 
+implement IIRIRA’s detention provisions (including Section 1231(a)(6)); 
+the number of criminal aliens (and separately the number of aggravated 
+felons) who were released into the community by the INS; and the number 
+of aliens released into the community by the INS due to a lack of detention 
+facilities notwithstanding circumstances the Attorney General believed 
+justified detention); IIRIRA § 387, 110 Stat. 3009-655 (providing for pilot 
+programs to determine feasibility of using closed military bases as INS 
+detention centers). 
+
+
+30 
+
+
+the Court deferred to Congress, noting that “the times being 
+what they are, Congress may well have felt that other 
+countries ought not shift the onus to us; that an alien in 
+respondent’s position is no more ours than theirs.” Jd. at 
+216. “Whatever our individual estimate of that policy and 
+the fears on which it rests,” the Court reasoned, “(the 
+alien’s] right to enter the United States depends on the 
+congressional will, and courts cannot substitute their judg- 
+ment for the legislative mandate.” J/bid. (citing Harisiades, 
+342 U.S. at 590-591). 
+
+In Carlson, the Court upheld the Attorney General's 
+exercise of discretionary authority to detain certain aliens 
+during the pendency of their deportation proceedings based 
+on a determination that the aliens’ release “would be 
+prejudicial to the public interest and would endanger the 
+welfare and safety of the United States” (because the aliens 
+had participated to varying degrees in Communist activi- 
+ties), notwithstanding the aliens’ many years’ residence in 
+this country without causing such harm, their family 
+connections, and their adherence to previously imposed bail 
+conditions. 342 U.S. at 529-530. The Court rejected the 
+aliens’ argument, analogous to petitioner’s here, that their 
+detention violated the Fifth Amendment because it was not 
+based on a fear that they would fail to appear for hearings or 
+for deportation. Jd. at 533-534. The Court made it clear that 
+risk of flight is not the only governmental interest that 
+justifies immigration detention, explaining that “[dJetention 
+is necessarily a part of th[e] deportation procedure. Other- 
+wise aliens arrested for deportation would have opportun- 
+ities to hurt the United States during the pendency of 
+deportation proceedings.” Jd. at 538. Moreover, the Court 
+observed, because “purpose to injure” could not be imputed 
+to all aliens subject to deportation, Congress properly 
+granted the Attorney General discretion to determine which 
+aliens to detain on that ground. [bid. 
+
+
+-- 
+
+
+31 
+
+
+The Court in Carlson thus upheld the authority of the 
+Attorney General to determine whether an individual alien 
+would pose a risk to the community if released, noting that 
+“the discretion as to bail in the Attorney General was 
+certainly broad enough to justify his detention of all the[] 
+parties without bail as a menace to the public interest.” 342 
+U.S. at 541; see also id. at 542-544. The Court concluded by 
+declaring that “[t}here is no denial of the due process of the 
+Fifth Amendment under circumstances where there is 
+reasonable apprehension of hurt from aliens charged with a 
+philosophy of violence against this Government.” Jd. at 542. 
+
+As in Mezei and Carlson, there is no denial of due process 
+in this setting if the Attorney General determines that there 
+is a reasonable apprehension of harm to the community by 
+an alien (like petitioner) who is under a final order of de- 
+portation and has engaged in serious criminal conduct in the 
+past, as evidenced by his conviction of an aggravated felony. 
+The government’s interest in protecting the community from 
+the threat of harm posed by such an alien is a legitimate 
+objective and has been “historically so regarded.” Kansas v. 
+Hendricks, 521 U.S. 346, 363 (1997). 
+
+b. The Mezei and Carlson cases demonstrate that peti- 
+tioner’s general proposition (Br. 8, 9, 10, 13-17, 19)— 
+that detention of an alien cannot be based on future 
+dangerousness—is wrong.” The decisions on which peti- 
+
+
+16 The INS’s determination not to release petitioner in this case was 
+based on the risk of flight he would pose if released, as well as the risk of 
+harm to the community he would pose. Petitioner has a long and serious 
+record of flight, including three failures to appear on a burglary charge, 
+failure to return in a timely manner after release on a furlough, a failure to 
+appear at his original deportation hearing after having been released by 
+the INS on conditions, flight from law-enforcement officials after being 
+charged with a serious drug-trafficking crime, and his five-year fugitive 
+status on that charge. See pp. 3-4, supra. Indeed, in denying petitioner’s 
+request for release on bond during the pendency of his deportation 
+proceedings, the IJ explained that “[iJt is not really necessary” to decide 
+
+
+32 
+
+
+tioner relies (Br. 13-17) are not to the contrary. None of 
+those cases involved the detention of an alien, let alone an 
+alien under a final order of deportation who has been 
+adjudicated to have no legal right to remain in this country. 
+Moreover, the Court upheld the constitutionality of de- 
+tention based on future dangerousness in two of those cases, 
+Kansas v. Hendricks, 521 U.S. 346 (1997), and United States 
+v. Salerno, 481 U.S. 739 (1987), both of which involved the 
+detention of citizens. A fortiori, they do not stand for the 
+proposition that the detention of aliens in the circumstances 
+presented here is unconstitutional. 
+
+The Hendricks Court explained that a significant liberty 
+interest of the individual was at stake there because of his 
+involuntary civil commitment under a sexually violent pre- 
+dator statute, but emphasized that the individual’s liberty 
+interest in that setting “is not absolute” and “may be over- 
+ridden even in the civil context” in certain circumstances. 
+
+
+whether petitioner would pose a threat to the community if released, 
+because petitioner's “five year flight from prosecution and the information 
+brought out by the [INS] on cross-examination casts serious doubt on 
+|petitioner’s] likelihood to appear at future hearings.” J.A. 8. Although 
+petitioner now attempts to discount the risk of flight as a basis for his 
+detention by the INS (see Br. 13-14), the district court expressly found 
+that, “[c]onsidering petitioner's recidivist history and his prior episode of 
+‘bond jumping,’ petitioner has not met his burden of proving that he is not 
+a threat to the community and that he is likely to appear for scheduled 
+hearings.” J.A. 139. The court of appeals embraced that district court 
+finding, noting that, should petitioner no longer pose such a danger or 
+flight risk, “he would doubtless be released.” J.A. 204-205. 
+
+
+Petitioner errs in contending that the government's interest in 
+ensuring his availability for removal is not a justification for his detention 
+because that interest “becomes as remote as departure itself.” Pet. Br. 14. 
+For the reasons discussed below, petitioner unduly discounts the 
+likelihood of his removal. See pp. 47-49, infra. But because petitioner 
+does not challenge the general validity of risk of flight as a basis for 
+immigration detention, we discuss further only his challenge to future 
+dangerousness as a basis for immigration detention. 
+
+
+33 
+
+
+521 U.S. at 356. The Court concluded that, because the 
+statute was limited to persons who were found to pose a risk 
+of future dangerousness and were unable to control their 
+dangerousness, the statute “adequately distinguishe[d]” the 
+detainees “from other dangerous persons who are perhaps 
+more properly dealt with exclusively through criminal pro- 
+ceedings” and, therefore, “plainly suffice{d] for due process 
+purposes.” 521 U.S. at 360. 
+
+Similarly, the Salerno Court, in the course of upholding 
+pretrial detention based on future dangerousness, rejected 
+the argument that future dangerousness could not justify 
+detention, explaining that the Court has “repeatedly held 
+that the Government’s regulatory interest in community 
+safety can, in appropriate circumstances, outweigh an 
+individual’s liberty interest.” 481 U.S. at 748. Significantly, 
+among the examples cited in Salerno were the Court’s 
+previous holdings that there is “no absolute constitutional 
+barrier to detention of potentially dangerous resident aliens 
+pending deportation proceedings.” /bid. (citing Carlson and 
+Wong Wing, supra). The Court recognized the liberty 
+interest at stake in Salerno, but, relying on its cases holding 
+that an individual’s liberty interest “may, in circumstances 
+where the government’s interest is sufficiently weighty, be 
+subordinated to the greater needs of society,” concluded that 
+the federal pretrial detention statute satisfied that standard. 
+481 U.S. at 750-751; ef. id. at 752-753 (rejecting argument 
+that, because “a primary function of bail is to safeguard the 
+courts’ role in adjudicating the guilt or innocence of defen- 
+dants,” the Eighth Amendment prohibits the government 
+from restricting pretrial release to serve compelling inter- 
+ests other than risk of flight, such as protecting society from 
+dangerous persons). Similarly here, in light of the deference 
+due the judgment of Congress and the Executive in immi- 
+gration matters, the government’s interest in preventing the 
+release into society of an alien who is awaiting removal from 
+this country, and who has been determined by the Attorney 
+
+
+34 
+
+
+General to pose a risk to the community if released, is 
+sufficiently weighty to justify detention. 
+
+
+3.  Petitioner’s prior long-time residency in this country 
+does not render his detention unconstitutional, be- 
+cause his right to remain here has been terminated 
+
+
+a. Petitioner is wrong in contending (Br. 21-25) that his 
+long-time presence in this country entitles him to more 
+stringent constitutional limitations on detention than the 
+court of appeals afforded him. 
+
+Despite petitioner’s 44 years of residency in this country, 
+he never obtained United States citizenship. This Court has 
+made clear that aliens who “fail to obtain and maintain 
+citizenship by naturalization * * * remain subject to the 
+plenary power of Congress to expel them under the 
+sovereign right to determine what noncitizens shall be 
+permitted to remain within our borders.” Carlson, 342 U.S. 
+at 534. As the Court has recognized, the fact that “aliens 
+remain vulnerable to expulsion after long residence is a 
+practice that bristles with severities. But it is a weapon of 
+defense and reprisal confirmed by international law as a 
+power inherent in every sovereign state.” Harisiades, 342 
+U.S. at 587-588. 
+
+Congress’s plenary power over aliens does not, however, 
+render the Due Process Clause of the Fifth Amendment 
+altogether inapplicable to petitioner. As the court of appeals 
+acknowledged, petitioner and other aliens “can of course 
+claim some constitutional protections.” J.A. 207 (also noting 
+that, under Fifth Circuit precedent, even excludable aliens 
+who fail to effect an entry into the United States are con- 
+sidered persons entitled to protection under the Fourteenth 
+Amendment (citing Lynch v. Cannatella, 810 F.2d 1363, 
+1375 (1987)). Cf. Jean v. Nelson, 472 U.S. 846 (1985) (re- 
+manding for consideration of how discretion was exercised 
+under statute and declining to reach constitutional issue of 
+whether Fifth Amendment applies to consideration of un- 
+
+
+35 
+
+
+admitted aliens for parole); Plyler v. Doe, 457 U.S. 202 (1982) 
+(holding that alien children who were not legally admitted 
+into United States were “persons” entitled to claim benefit 
+of Equal Protection Clause of Fourteenth Amendment). But 
+the fact that petitioner is a “person” protected by the Due 
+Process Clause does not determine what process is “due” 
+under that Clause. Furthermore, in determining what pro- 
+cess (both procedural and substantive) is due, substantial 
+weight must be given to the good faith judgments of Con- 
+gress and of the Attorney General, to whom Congress has 
+assigned the responsibility for administering the INA and 
+for weighing the relevant factors in doing so. Mathews v. 
+Eldridge, 424 U.S. 319, 349 (1976). 
+
+b. The court of appeals in this case reasonably held that, 
+for purposes of due process scrutiny of immigration 
+detention, petitioner stands on essentially the same footing 
+as an excludable alien who has been ordered removed after 
+seeking to enter the United States. The alien’s lack of a 
+right to be present in the United States, and the govern- 
+ment’s countervailing interests in protecting against danger 
+to the community and effectuating removal, are the same in 
+the two situations. See J.A. 206-211, 219-227; see also Ho v. 
+Greene, 204 F.3d 1045, 1058-1059 (10th Cir. 2000) (once a 
+final order of deportation has been entered against a 
+resident alien, that alien has no greater right with respect to 
+release into this country than does an alien seeking to enter 
+the country for the first time) (citing Mezei, 345 U.S. at 213). 
+
+Petitioner has exhausted all avenues of possible relief 
+from deportation, and the final order of deportation extin- 
+guished his status as a lawful permanent resident and 
+eliminated any legal right he had to remain here. See 8 
+U.S.C. 1101(a)(20) (1994); 8 U.S.C. 1101(a)(47)(B)(ii) (Supp. V 
+1999); 8 C.F.R. 1.1(p). As the court of appeals put it, “[wJhen 
+a former resident alien is * * * finally ordered deported, 
+the decision has irrevocably been made to expel him from 
+the national community. Nothing remains but to effectuate 
+
+
+36 
+
+
+this decision.” J.A. 224. Petitioner remains in this country 
+only because his final deportation order has not yet been 
+effectuated. 
+
+The fact that petitioner has no legal right to be in this 
+country means that he has no right to maintain ties with 
+members of the community by maintaining a continued 
+presence at large in our society, regardless of the length of 
+his prior residency here. Thus, the remaining interests 
+petitioner has at stake at this point are substantially dif- 
+ferent from, for example, those of the alien in Landon v. 
+Plasencia, 459 U.S. 21 (1982), who had developed ties to this 
+country as a long-term resident and still had the possibility 
+of establishing, during exclusion proceedings, that she should 
+be allowed to retain her status as a lawful permanent re- 
+sident and maintain those ties. See Ho v. Greene, 204 F.3d at 
+1059. 
+
+The United States’ interests in protecting its national 
+sovereignty, in not allowing recalcitrance on the part of 
+another country in accepting the return of its citizens to 
+dictate the presence of foreign nationals at large in this 
+country, and in protecting our society from any such foreign 
+nationals who would pose a danger if released, are the same 
+in the case of an alien under a final order of deportation, re- 
+gardless of his prior residency here, as they are in the case of 
+an alien who has never resided here. The only act remaining 
+to be carried out in both cases is the actual removal of the 
+alien. 
+
+Congress, as the Branch of government having plenary 
+authority to establish policies affecting aliens, regards the 
+United States’ interest to be analogous in detaining a former 
+resident alien and an alien who never entered the country, at 
+the point at which either is under a final order of removal. 
+In 8 U.S.C. 1231(a)(6) (Supp. V 1999), Congress vested the 
+Attorney General with the discretionary authority to detain 
+beyond the removal period both aliens who were admitted to 
+the country but subsequently ordered deported on one of the 
+
+
+37 
+
+
+specified grounds, regardless of how long they resided in this 
+country (i.e. aliens “removable under section 1227(a)(1)(C), 
+1227(aX(2), or 1227(a)(4)” of Title 8), and aliens who were 
+never admitted to this country and never resided here (i.e. 
+aliens “inadmissible under section 1182” of Title 8). 8 U.S.C. 
+1231(aX(6) (Supp. V 1999). And Congress made no distinction 
+between aliens who have resided in this country, regardless 
+of how long, and aliens who have never resided here, when it 
+authorized the Attorney General to detain beyond the 
+removal period any alien she determines “to be a risk to the 
+community or unlikely to comply with the order of removal.” 
+8 U.S.C. 1231(a(6) (Supp. V 1999).”” 
+
+Treating aliens under a final order of removal in the same 
+manner, regardless of whether they are former residents 
+being expelled or applicants being barred from entering, is 
+wholly consistent with the scope of the political Branches’ 
+authority over aliens, as this Court has long recognized: 
+
+
+The right of a nation to expel or deport foreigners, 
+who have not been naturalized or taken any steps 
+towards becoming citizens of the country, rests upon the 
+same grounds, and is as absolute and unqualified as the 
+right to prohibit and prevent their entrance into the 
+country. 
+
+
+* * * * * 
+
+
+The power to exclude aliens and the power to expel them 
+rest upon one foundation, are derived from one source, 
+
+
+Indeed, in IIRIRA, Congress took a significant step toward 
+eliminating distinctions between the treatment of resident aliens and 
+aliens applying for admission when it created one new proceeding, termed 
+a “removal” proceeding, in which to determine both expulsion and 
+exclusion cases, replacing the formerly distinct deportation and exclusion 
+
+
+proceedings. See note 11, supra. 
+
+
+38 
+
+
+are supported by the same reasons, and are in truth but 
+parts of one and the same power. 
+
+
+Fong Yue Ting v. United States, 149 U.S. 698, 707, 713 
+(1893). 
+
+That is not to say that the status of an alien—be it his 
+presence outside of the country, his lawful permanent 
+residence in this country, or some other feature—cannot be 
+relevant to certain due process inquiries. Plasencia, for 
+example, illustrates that presence outside the United States 
+may be significant for some purposes, whereas long-time 
+residency may be relevant for others. The Court held in 
+Plasencia that an alien making a physical re-entry to the 
+country was properly placed in exclusion proceedings as an 
+alien seeking admission, notwithstanding the fact that she 
+was a lawful permanent resident claiming that she should 
+not be considered to be making an entry and should, instead, 
+be placed in deportation proceedings based on her 
+permanent resident status. 459 U.S. at 27-28. The Court 
+further held, however, that, as a permanent resident alien, 
+she had developed ties to the country that entitled her to 
+more procedural due process protections during her 
+exclusion hearing than would be due an alien who was not a 
+permanent resident. Jd. at 32-34. Significantly, the dis- 
+positive fact in that procedural due process analysis was not 
+that the alien was physically present in the country, because 
+she was not (she was detained at a port of arrival), but 
+rather the particular interest of the alien that was at 
+stake—whether she could remain a permanent resident of 
+the country and maintain her ties thereto—considered in 
+light of the competing governmental interests. /d. at 34; see 
+also Flores, 507 U.S. at 302 (“‘{sjubstantive due process’ 
+analysis must begin with a careful description of the asserted 
+right”). As the court of appeals in this case explained, the 
+fact that aliens outside the United States “are entitled to a 
+lesser degree of procedural due process in proceedings to 
+
+
+39 
+
+
+determine whether they may enter the country stems 
+ultimately not from their status as such, but rather from the 
+nature of what is asserted.” J.A. 220. 
+
+In Mezei, the nature of the alien’s interest was also the 
+focus of the Court’s analysis, not simply the fact that he was 
+outside of the country. Like petitioner, the alien there had 
+been a long-time resident of the United States (for 25 years), 
+but the Court did not find that that status entitled him to 
+heightened due process protections even in his exclusion 
+proceedings. Because the alien had been gone from the 
+country for approximately 19 months, he did not have an 
+interest in maintaining ties to the country analogous to that 
+of a current resident alien. Other cases cited by petitioner 
+illustrate that an alien’s status affects the due process 
+analysis in cases where the governmental interest at stake is 
+not based on the federal government’s authority over aliens. 
+E.g., Yick Wo v. Hopkins, 118 U.S. 356 (1886) (distinguished 
+in Fong Yue Ting, 149 U.S. at 725, as presenting the 
+question “of the power of a State over aliens continuing to 
+reside within its jurisdiction, not of the power of the United 
+States to put an end to their residence in the country”); 
+Plyler v. Doe, supra; see Mathews v. Diaz, 426 U.S. 67, 84-87 
+(1976). 
+
+The fact that an alien is under a final deportation order 
+does not mean that such an alien has no substantive due 
+process rights at all. Although an order eliminates the 
+alien’s right to be at large in this country and, therefore, 
+diminishes the substantive interest at stake in detention de- 
+cisions, it does not, for example, eliminate an alien’s interest 
+in not being subject to punishment by imprisonment at hard 
+labor without a judicial trial to establish his guilt. Wong 
+Wing, 163 U.S. at 235 (distinguishing punishment at hard 
+labor from detention of an alien subject to deportation). In 
+sum, the due process analysis turns not only on the status of - 
+the person as an alien, but rather also on the nature of the 
+alien’s interest that is at stake, considered in light of the 
+
+
+40 
+
+
+governmental purposes furthered by the challenged govern- 
+mental action. 
+
+
+C. Detention Of Aliens Such As Petitioner Under Sec- 
+tion 1231(a)(6) Is Not Unconstitutionally Indefinite 
+Or Excessive 
+
+
+Petitioner’s characterization of his detention as indefinite 
+(Br. 16, 25) and excessive (Br. 20) is both erroneous and 
+legally insufficient to render his detention in the present 
+circumstances a violation of substantive due process. 
+
+1. Petitioner’s detention cannot fairly be characterized as 
+permanent or indefinite, in light of (a) the existence of 
+administrative procedures that provide for a periodic and 
+meaningful review of petitioner’s custody, and (b) the 
+possibility that continued diplomatic efforts with Lithuania, 
+Germany, or Russia may result in petitioner’s removal. The 
+future termination of petitioner’s detention was not demar- 
+cated by a specific event, unlike an alien’s mandatory de- 
+tention pending removal proceedings or his detention during 
+the 90-day removal period. But continued detention under 
+Section 1231(a)(6) is limited by the Attorney General’s ad- 
+ministrative review procedures.” Petitioner’s detention 
+
+
+'’ The INS’s interim regulations implementing the permanent 
+detention provisions of IIRIRA, 8 C.F.R. 241.4, were not promulgated 
+until March 6, 1997, and they became effective on April 1, 1997. 62 Fed. 
+Reg. 10,312. That was after the magistrate judge’s February 3, 1997, 
+report and recommendation in this case, and only a few months before 
+entry of the district court’s judgment in October 1997. The INS’s 
+memoranda implementing further procedures for custody reviews of 
+aliens detained beyond the removal period (see App., infra, 27a-39a; see p. 
+43, infra) were not issued until 1999. Because petitioner was released in 
+late 1997 pursuant to the district court’s order, the question of his 
+detention was not reviewed by the INS under the supplementary 
+procedures. 
+
+On appeal, the court of appeals relied on the custody review procedures 
+in effect at the time of its consideration of the case because the INS’s 
+detention of petitioner would now be governed by 8 U.S.C. 1231(a)(6) 
+
+
+41 
+
+
+would cease under those procedures if he established that he 
+no longer posed a risk to the community and that he was 
+likely to be available for removal, and those procedures 
+afford an ongoing opportunity to make such a showing. See 
+Chi Thon Ngo v. INS, 192 F.3d 390, 399 (8d Cir. 1999) 
+(interim procedures “provide[d] reasonable assurance of fair 
+consideration” of an alien’s suitability for release pending his 
+removal from the United States), as amended on Dec. 30, 
+1999; see also 65 Fed. Reg. 80,281, 80,285 (2000) (“approxi- 
+mately 6,200 aliens have been provided custody reviews by 
+district directors during the period from February 1999 
+through mid-November 2000, to determine whether deten- 
+tion of the alien beyond the 90-day removal period is war- 
+ranted”; “lo}f those aliens, approximately 3,380 were re- 
+leased”)."” Also, the INS’s detention of petitioner would 
+
+
+(Supp. V 1999) and those implementing regulatory procedures. J.A. 200- 
+203; cf. Ho v. Greene, 204 F.3d at 1055 n.& (declining to decide which 
+version of the statute governs the continued detention of an alien who was 
+under a final order of deportation at the time of IIRIRA’s effective date). 
+When the court of appeals reversed the judgment of the district court, it 
+stayed its mandate. J.A. 3. The district court's order that petitioner be 
+released therefore remains in effect. If this Court affirms the court of 
+appeals’ judgment, the INS will then decide whether petitioner should be 
+returned to custody under the current standards. 
+
+
+‘9 Petitioner’s characterization of the nature and actual length of the 
+detention at issue here is inaccurate. For example, petitioner asserts that, 
+“{bjut for the district court’s grant of habeas corpus [relief], his 
+incarceration would now have stretched into six years.” Pet. Br. 15; see 
+also id. at 8. He also asserts (Br. 25) that “without relief from this Court, 
+he will languish in jail forever.” See also id. at 7 (claiming that he “will 
+return to prison if this Court rules against him”). 
+
+But this case does not involve mandatory detention. The issue here is 
+whether the Attorney General has the authority, consistent with the 
+Constitution, to continue to detain an alien such as petitioner in the 
+exercise of the discretion granted her by Congress. Petitioner's state- 
+ments wholly disregard the INS’s periodic administrative custody reviews 
+and the possibility that, if petitioner had not been released pursuant to 
+
+
+42 
+
+
+necessarily cease upon his removal from this country—a 
+matter that continues to be the subject of INS efforts. 
+
+On March 6, 1997, the Attorney Generai promulgated 
+regulations setting forth the manner in which she would 
+exercise her discretion to detain or release aliens under 
+Section 1231(a)(6). See 62 Fed. Reg. 10,312. Those regula- 
+tions authorized INS district directors to release aliens who 
+demonstrated that they would not pose a danger to the 
+community or a significant flight risk if released. See 8 
+C.F.R. 241.4 (set forth at App., infra, Ta-8a). The regula- 
+tions set forth a non-exhaustive list of factors that the 
+district directors could consider in making that determina- 
+tion: the nature and seriousness of criminal convictions; 
+other criminal history; sentence(s) imposed and time actually 
+served; history of failures to appear; probation history; dis- 
+ciplinary problems while in custody; evidence of reha- 
+bilitative efforts or recidivism; equities in the United States; 
+and prior immigration violations and history. 8 C.F.R. 241.4. 
+
+
+court order, he might have been released by the INS under its custody 
+review procedures. 
+
+Moreover, the length of the specific period of detention at issue 
+here—post-removal-period custody as authorized currently under & 
+U.S.C. 1231(a)(6) (Supp. V 1999)—was less than the four years petitioner 
+repeatedly claims (Br. 8, 13, 15, 16). Petitioner’s removal order became 
+final on May 2, 1994. At that time, the INA afforded the Attorney General 
+six months in which to remove an alien. That period did not expire for 
+petitioner until approximately November 2, 1994. Petitioner filed the 
+instant habeas corpus action in September 1995, at which time he had been 
+in post-removal-period custody for approximately 10 months. The district 
+court ordered his release on October 30, 1997, a total of approximately 
+three years after expiration of his removal period. During some of that 
+time, /.e., from the enactment of AEDPA on April 24, 1996, to the October 
+8, 1996, effective date of the transition period custody rules (see note 12, 
+supra), the Attorney General was not authorized by statute to release 
+petitioner because he was subject to mandatory detention as an 
+aggravated felon under & U.S.C. 1252(a)(2), as amended by AEDPA 
+$ 440(c), 110 Stat. 1277. 
+
+
+43 
+
+
+District directors also were authorized to consider other 
+factors that were not specifically listed. 8 C.F.R. 241.4(a). 
+Aliens who had been detained during the removal period 
+were allowed to request a formal custody review by the INS 
+district director after their deportation orders became final 
+and could appeal any resulting denial to the Board of Immi- 
+gration Appeals (BIA). See 8 C.F.R. 236.1(d)(2)(ii) and 
+(3)(iii), 241.4, 241.5. 
+
+As a supplement to that regulatory procedure, the INS 
+Executive Associate Commissioner issued a memorandum in 
+February 1999 that established additional procedures, under 
+which the custody status of detained aliens whose removal 
+was not immediately practicable would be subject to auto- 
+matic review during the initial 90-day removal period and (if 
+the alien was not released) every six months thereafter. 
+App., infra, 27a-3la. In August 1999, the Executive Associ- 
+ate Commissioner issued a second memorandum ‘hat insti- 
+tuted still further procedures, which included centralized 
+review by a special post-order detention unit in INS Head- 
+quarters of the custody status of detained aliens such as 
+petitioner. App., infra, 32a-39a. Those procedures were 
+effective immediately and are the procedures described by 
+the court of appeals. See J.A. 203-205. They were intended 
+to operate on an interim basis, pending anticipated per- 
+manent changes to the regulations themselves. 
+
+At the same time those interim procedures were issued, 
+the Attorney General and the Commissioner announced 
+their intention to promulgate new regulations establishing a 
+formal program for reviewing the continued custody under 
+Section 1231(a)(6) of aliens who are not removed during 
+the 90-day removal period. Those regulations were to be 
+modeled after the regulations establishing the Cuban Re- 
+view Plan, 8 C.F.R. 212.12, which has been in place for a 
+number of years to review the status of Mariel Cubans— 
+Cubans who came to the United States during the Mariel 
+boatlift between April 15 and October 1980, see 8 C.F.R. 
+
+
+qt 
+
+
+212.12(a)—who have been ordered excluded from the United 
+States but who cannot be returned to Cuba at this time. On 
+June 30, 2000, the INS published proposed regulations. 65 
+Fed. Reg. 40,540. Those regulations were published in final 
+form on December 21, 2000, and are now in effect. 65 Fed. 
+Reg. 80,281-80,298; see App., infra 9a-26a. The current 
+regulations are not substantially different in relevant re- 
+spects from the proposed regulations published in June. 
+
+Under the now-current regulations, the INS district 
+director maintains responsibility for the initial review of an 
+alien’s custody when the alien’s immediate removal is not 
+practicable at the expiration of the 90-day removal period. 
+The district director conducts a record review, including a 
+review of any materials the alien may want to submit, and 
+has the discretion to interview the alien. See 65 Fed. Reg. at 
+80,295-80,296. If the district director decides to continue the 
+alien in custody at that point, authority over the alien’s de- 
+tention is then transferred to a post-order detention unit at 
+the INS Headquarters, either at the end of the 90-day 
+removal period or within three months thereafter. That unit 
+will then commence a custody review within 30 days of the 
+transfer of detention authority. /d. at 80,291. 
+
+If the initial headquarters review of the alien’s records 
+does not result in a decision to release the alien, he is inter- 
+viewed by a two-member panel of INS officers, who make a 
+recommendation to the headquarters unit, as under the 
+Mariel Cuban Review Plan. See 65 Fed. Reg. at 80,296. The 
+headquarters unit then makes the final decision whether to 
+release the alien at that point or to continue him in deten- 
+tion. If the alien is not released, his custody status is again 
+reviewed under the headquarters review process within one 
+year, if the alien has not been removed since the last review. 
+Id. at 80,297; ef. Hendricks, 521 U.S. at 364 (upholding civil 
+commitment of sexually violent predator as “only potentially 
+_ indefinite” because a determination regarding commitment 
+must be made annually, thereby demonstrating that the 
+
+
+45 
+
+
+State does not intend a detainee to remain in custody beyond 
+the period during which he continues to present a threat of 
+dangerousness). The headquarters unit may review an 
+alien’s custody at more frequent intervals, upon request of 
+the alien based on a material change in circumstances since 
+the last annual review. 65 Fed. Reg. at 80,297. The alien 
+receives advance, written notice of custody reviews, is 
+afforded an opportunity to submit any relevant material for 
+consideration by INS officials, and may be assisted by a 
+representative of his choice during the review process. [bid. 
+
+Petitioner asserts that these elaborate administrative 
+safeguards are inadequate. But petitioner mischaracterizes 
+the process, claiming that “(t]he INS custody review pro- 
+cedures uo not cure the substantive due process violation” 
+because, in petitioner’s view, “they omit consideration of key 
+factors in the balancing test from the director’s decision to 
+detain.” Pet. Br. 9. Specifically, petitioner asserts that the 
+relevant INS regulation “omits from the director’s periodic 
+reviews of continued detention consideration of both the 
+length of detention, and the future likelihood of deportation 
+being effected.” Br. 15. But that is not true. The INS 
+regulation provides a nonexclusive list of factors that the 
+administrative decisionmakers may consider and allows con- 
+sideration of other relevant factors, including those factors 
+cited by petitioner. See 65 Fed. Reg. at 80,288. 
+
+Petitioner’s objection (Br. 15) to having the district di- 
+rector be the decisionmaker disregards the supplemental 
+procedures that were implemented by the INS in 1999 and 
+formalized by regulation to provide for centralized decision- 
+making by a specialized unit in the INS Headquarters, 
+analogous to the process that has successfully been applied 
+to the periodic custody reviews for Mariel Cubans. That 
+
+
+46 
+
+
+centralized decisionmaking has been enhanced in the final 
+regulations. See 65 Fed. Reg. at 80,295.” 
+
+Contrary to petitioner’s contention (Br. 15 & n.5), the fact 
+that the INS’s custody review process does not call for all of 
+the same procedures that the pretrial detention statute at 
+issue in Salerno provided does not render it constitutionally 
+deficient. Unlike the criminal defendants in Salerno, peti- 
+tioner has absolutely no legal right to be in the United 
+States. He is subject to a final order of deportation that 
+extinguished all such rights. Also, the fact that the Attorney 
+General may release aliens on conditions does not mean (see 
+Pet. Br. 9, 21) that the Constitution bars her from concluding 
+that such conditions are not sufficient in some cases to 
+protect against the risk of harm or flight an alien would pose 
+if released. 
+
+2. Detention of aliens under 8 U.S.C. 1231(a)(6) (Supp. V 
+1999) is not unconstitutionally excessive in relation to the 
+interests the government seeks to protect. As the State did 
+in Hendricks, Congress has adequately distinguished the 
+persons who may be detained under Section 1231(a)(6) from 
+those who are dealt with exclusively through criminal pro- 
+ceedings.“' Only aliens who are under a final order of re- 
+
+
+~“’ The current regulations no longer include the “clear and convincing” 
+evidence standard to which petitioner objects (Br. 14). Instead, they 
+provide that the Attorney General may release an alien “if the alien 
+demonstrates to the satisfaction of the Attorney General or her designee 
+that his or her release will not pose a danger t6 the community or to the 
+safety of other persons or to property or a significant risk of flight pending 
+such alien’s removal from the United States.” See 65 Fed. Reg. at 80,295. 
+
+“! Restricting the Attorney General’s authority over aliens subject to 
+final removal orders to criminal prosecution, as petitioner suggests (Br. 
+21), would not adequately further the government’s interests. Prosecution 
+of such aliens could further delay their removal from this country during 
+the duration of their criminal sentences, while further burdening law 
+enforcement and prison resources for a longer period of time. See & 
+U.S.C. 1231(a)(4)(A) (Supp. V 1999) (providing tha*, except in limited cir- 
+cumstances, “the Attorney General may not remove an alien who is 
+
+
+om we 
+
+
+47 
+
+
+moval may be detained by the Attorney General under 
+Section 1231(a)(6). Thus, Section 1231(a)(6) applies only if an 
+alien has already been finally adjudged to lack any under- 
+lying right to remain in the United States, and therefore has 
+a greatly diminished liberty interest in living at large in this 
+country. In addition, in order to be detained under Section 
+1231(a)(6), the alien must be inadmissible; be deportable on 
+certain specified grounds, such as for the commission of an 
+aggravated felony or for conduct endangering public safety 
+or national security; or be determined by the Attorney 
+General to pose a risk to the community or to be unlikely to 
+comply with the removal order. Cf. Salerno, 481 U.S. at 747 
+(statute limited detention to persons who were involved in 
+serious crimes). Moreover, INS’s administrative procedures 
+guard against -...ention that is not related to legitimate 
+government interests. 
+
+3. Petitioner’s claim that he currently is stateless and not 
+a citizen of any country (Br. 5, 8 n.4, 17) does not mean that 
+he cannot be removed—or, as petitioner would have it, that 
+any detention of him by the INS is unconstitutionally 
+excessive, regardless of the risk to the community or of 
+flight he would pose if released. 
+
+The court of appeals correctly ruled that it cannot “now be 
+said with any real assurance” that petitioner “will never be 
+deported.” J.A. 212. The court of appeals properly deferred 
+to the Executive Branch in this matter of immigration and 
+foreign policy. Diplomatic efforts are committed by the Con- 
+stitution to the Executive Branch, which—because of its 
+special expertise and access to information—is responsible 
+for bringing about their success and is best situated to pre- 
+dict whether that will happen. Having reviewed the volumi- 
+nous record provided by petitioner and the government, the 
+court of appeals provided a detailed summary of the INS’s 
+
+
+sentenced to imprisonment until the alien is released from imprison- 
+ment”). 
+
+
+48 
+
+
+efforts to remove petitioner to either Lithuania or Germany. 
+J.A. 194-195. It then concluded that, even if petitioner’s 
+removal may seem “problematical, difficult, and distant” in 
+the present circumstances, that is not sufficient— “[g]iven 
+the traditional deference [courts] show to the other branches 
+in matters of immigration policy”—for petitioner to meet the 
+very high burden of showing that “deportation is 
+impossible.” J.A. 219. See also Ngo, 192 F.3d at 398 (con- 
+cluding “{iJt is extremely unlikely” that the prolonged deten- 
+tion of an excludable alien from Vietnam would be per- 
+manent, in light of the diplomatic efforts between the United 
+States and Vietnam to negotiate a repatriation agreement, 
+even though the court characterized the negotiations as 
+proceeding at an “agonizingly slow” rate 
+
+
+= The court of appeals observed that “|cjertainly there has been no 
+definitive denial by Lithuania of any application for citizenship by 
+|petitioner].” J.A. 216. Subsequent to the court of appeals’ decision, the 
+INS has made additional efforts to pursue the process necessary for 
+petitioner to apply for Lithuanian citizenship based on his parents’ 
+Lithuanian citizenship. Although petitioner states (Br. 7) that “[a]t the 
+INS’s instruction in March of 2000,” he “reapplied for Lithuanian 
+citizenship,” the letter he proffers (hand-dated March 27, 2000, unac- 
+companied by proof of mailing) does not purport to comply with various 
+application requirements (including payment of an application fee), as the 
+Lithuanian Consulate General has indicated is necessary. When the INS 
+obtained a letter from the Lithuanian Consulate General to INS De- 
+portation Officer Paul Barrows, dated March 31, 2000, regarding those 
+application requirements, the INS notified petitioner that he must report 
+to the INS office to review his immigration status. See INS Form G-56 
+dated April 24, 2000 (scheduling appointment for May 4, 2000). Petitioner 
+informed the INS that he could not keep that appointment and requested 
+that it be rescheduled. Jbid. But petitioner thereafter failed to keep two 
+subsequently scheduled appointments. See INS Form G-56 dated May 16, 
+2000 (scheduling appointment for June 1, 2000); INS Form G-56 dated 
+August 1, 2000 (scheduling appointment for August 18, 2000) (returned to 
+
+
+49 
+
+
+Further, the courts should be especially reluctant to 
+second-guess Executive Branch judgments regarding the 
+prospects of removing an alien, both because of the Execu- 
+tive’s greater expertise and access to all the relevant infor- 
+mation and communications, and because of the need for the 
+Nation to speak with one voice on such matters. See J.A. 
+219; Aguirre-Aguirre, 526 U.S. at 425. Permitting the release 
+of a former resident alien based on an ad hoc judicial deter- 
+mination regarding the probable length of his future de- 
+tention would intrude into an area of confluence between the 
+Executive’s responsibilities for immigration enforcement 
+and diplomacy, signal to other nations that their refusal to 
+accept the repatriation of their own nationals who are 
+detained under final orders of deportation may result in 
+release of the aliens back into American society, and perhaps 
+thereby cause those other nations to ignore or disclaim their 
+responsibility to accept the return of their own nationals who 
+have violated the laws of the United States. See Barrera- 
+Echavarria, 44 F.3d at 1448 (“A judicial decision requiring 
+that excludable aliens be released into American society 
+when neither their countries of origin nor any third country 
+will admit them might encourage the sort of intransigence 
+Cuba has exhibited in the negotiations over the Mariel 
+
+
+INS as undeliverable). We are lodging copies of the relevant documents 
+with the Clerk of this Court. 
+
+
+Moreover, petitioner has evidenced no attempt to pursue other ave- 
+nues of obtaining travel documents from either Germany or Russia, as 
+suggested by the court of appeals. J.A. 217-219 (noting two possibilities 
+that remained unexplored: a claim by petitioner of German citizenship 
+based on ethnic German ancestry through his mother, and a claim of 
+Russian citizenship because of the Soviet Union’s control over the birth- 
+place of petitioner’s parents at one time and the fact that some of peti- 
+tioner’s relatives live there). Petitioner’s failure to make such efforts 
+stands in sharp contrast to the efforts of Mr. Mezei, who “personally 
+applied for entry to about a dozen Latin-American countries but all turned 
+him down.” Mezei, 345 U.S. at 209. 
+
+
+50 
+
+
+refugees.”); Jean v. Nelson, 727 F.2d 957, 975 (11th Cir. 
+1984) (en bane) (“{T]his approach would ultimately result in 
+our losing control over our borders. A foreign leader could 
+eventually compel us to grant physical admission via parole 
+to any aliens he wished by the simple expedient of sending 
+them here and then refusing to take them back.”), aff’d, 472 
+U.S. 846 (1985). 
+
+Thus, the court of appeals correctly concluded that, given 
+the government’s plenary authority over immigration policy 
+and its interest “in effectuating deportation of a resident 
+alien and expulsion of an excludable alien,” the government 
+“may detain a resident alien based on either danger to the 
+community or risk of flight while good faith efforts to 
+effectuate the alien’s deportation continue and reasonable 
+parole and periodic review procedures are in place.” J.A. 
+227." 
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+
+
+Respectfully submitted. 
+
+
+> Petitioner suggests (Br. 10-11, 25-33) that the Court should avoid the 
+constitutional question presented here by construing Section 1231(a)(6) to 
+authorize detention “for only a reasonable time to effectuate removal.” We 
+address that argument in our briefs in Reno v. Ma, No. 00-38, which is 
+consolidated with this case for oral argument. For the reasons more fully 
+set forth in those briefs, such a construction of Section 1231(a)(6) would be 
+inconsistent with the plain language of that Section, other statutory 
+provisions governing detention of criminal aliens, the statutory history, 
+and the Attorney General’s interpretation of Section 1231(a)(6), to which 
+deference is due under this Court's decision in Aguirre-Aguirre, 526 U.S. 
+at 425. 
+
+
+JANUARY 2001 
+
+
+51 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+
+
+DAVID W. OGDEN 
+Assistant Attorney Genera’ 
+
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+BETH S. BRINKMANN 
+
+
+Assistant to the Solicitor 
+General 
+
+
+DONALD KEENER 
+QUYNH Vu 
+Attorneys 
+
+
+APPENDIX A 
+
+
+1. Section 1226 of Title 8 of the United States Code 
+(Supp. V 1999), provides in relevant part: 
+
+
+Apprehension and detention of aliens 
+(a) Arrest, detention, and release 
+
+
+On a warrant issued by the Attorney General, 
+an alien may be arrested and detained pending a 
+decision on whether the alien is to be removed from 
+the United States. Except as provided in sub- 
+section (c) of this section and pending such decision, 
+the Attorney General— 
+
+
+(1) may continue to detain the arrested 
+alien; and 
+
+
+(2) may release the alien on— 
+
+
+(A) bond of at least $1,500 with secu- 
+rity approved by, and containing conditions 
+prescribed by, the Attorney General; or 
+
+
+(B) conditional parole; but 
+
+
+(3) may not provide the alien with work 
+authorization (including an “employment 
+authorized” endorsement or other appropriate 
+work permit), unless the alien is lawfully 
+admitted for permanent residence or otherwise 
+would (without regard to removal proceedings) 
+be provided such authorization. 
+
+
+(b) Revocation of bond or parole 
+
+
+The Attorney General at any time may revoke 
+a bond or parole authorized under subsection (a) of 
+
+
+(la) 
+
+
+2a 
+
+
+this section, rearrest the alien under the original 
+warrant, and detain the alien. 
+
+
+(c) Detention of criminal aliens 
+(1) Custody 
+
+
+The Attorney General shall take into custody 
+any alien who— 
+
+
+(A) is inadmissible by reason of having com- 
+mitted any offense covered in section 1182(a)(2) 
+of this title, 
+
+
+(B) is deportable by reason of having com- 
+mitted any offense covered in section 
+1227(a)(2)(A (ii), (A)Giii), (B), (C), or (D) of this 
+title, 
+
+
+(C) is deportable under section 1227(a)(2)(A)(i) 
+of this title on the basis of an offense for which 
+the alien has been sentence [sic] to a term of 
+imprisonment of at least 1 year, or 
+
+
+(D) is inadmissible under section 1182(a)(3)(B) 
+of this title or deportable under section 
+1227(a)(4)(B) of this title, 
+
+
+when the alien is released, without regard to 
+whether the alien is released on parole, supervised 
+release, or probation, and without regard to 
+whether the alien may be arrested or imprisoned 
+again for the same offense. 
+
+
+(2) Release 
+
+
+The Attorney General may release an alien 
+described in paragraph (1) only if the Attorney 
+
+
+3a 
+
+
+General decides pursuant to section 3521 of title 18 
+that release of the alien from custody is necessary 
+to provide protection to a witness, a potential 
+witness, a person cooperating with an investigation 
+into major criminal activity, or an immediate family 
+member or close associate of a witness, potential 
+witness, or person cooperating with such an 
+investigation and the alien satisfies the Attorney 
+General that the alien will not pose a danger to the 
+safety of other persons or of property and is likely 
+to appear for any scheduled proceeding. A decision 
+relating to such release shall take place in 
+accordance with a procedure that considers the 
+severity of the offense committed by the alien. 
+
+
+* * * * 
+
+
+4da 
+
+
+2. Section 1231(a) of Title 8 of the United States 
+Code (Supp. V 1999), provides in relevant part: 
+
+
+Detention and removal of aliens ordered removed 
+
+
+(a) Detention, release, and removal of aliens ordered 
+removed 
+
+
+(1) Removal period 
+(A) In general 
+
+
+Except as otherwise provided in this section, 
+when an alien is ordered removed, the Attorney 
+General shall remove the alien from the United 
+States within a period of 90 days (in this section 
+referred to as the “removal period”). 
+
+
+(P» Beginning of period 
+
+
+The removal period begins on the latest of the 
+following: 
+
+
+(i) The date the order of removal becomes 
+administratively final. 
+
+
+(ii) If the removal order is judicially reviewed 
+and if a court orders a stay of the removal of the 
+alien, the date of the court’s final order. 
+
+
+(iii) If the alien is detained or confined (except 
+under an immigration process), the date the alien 
+is released from detention or confinement. 
+
+
+(C) Suspension of period 
+
+
+The removal period shall be extended beyond a 
+period of 90 days and the alien may remain in 
+
+
+5a 
+
+
+detention during such extended period if the alien 
+
+fails or refuses to make timely application in good 
+faith for travel or other documents necessary to the 
+alier.’s departure or conspires or acts to prevent the 
+alien’s removal subject to an order of removal. 
+
+
+(2) Detention 
+
+
+During the removal period, the Attorney 
+General shall detain the alien. Under no circumstance 
+during the removal period shall the Attorney General 
+release an alien who has been found inadmissible under 
+section 1182(a)(2) or 1182(a)(3)(B) of this title or 
+deportable under section 1227(a)(2) or 1227(a)(4)(B) of 
+this title. 
+
+
+(3) Supervision after 90-day period 
+
+
+If the alien does not leave or is not removed 
+within the removal period, the alien, pending removal, 
+shall be subject to supervision under regulations 
+prescribed by the Attorney General. The regulations 
+shall include provisions requiring the alien— 
+
+
+(A) to appear before an immigration officer 
+periodically for identification; 
+
+
+(B) to submit, if necessary, to a medical and 
+psychiatric examination at the expense of the United 
+States Government; 
+
+
+(C) to give information under oath about the 
+alien’s nationality, circumstances, habits, associa- 
+tions, and activities, and other information the 
+Attorney General considers appropriate; and 
+
+
+6a 
+
+
+(D) to obey reasonable written restrictions on the 
+alien’s conduct or activities that the Attorney 
+General prescribes for the alien. 
+
+
+k* *£ kk 
+
+
+(6) Inadmissible or criminal aliens 
+
+
+An alien ordered removed who is inadmissible 
+under section 1182 of this title, removable under section 
+1227(a)(1(C), 1227(aX(2), or 1227(a)(4) of this title or 
+who has been determined by the Attorney General to 
+be a risk to the community or unlikely to comply with 
+the order of removal, may be detained beyond the 
+removal period and, if released, shall be subject to the 
+terms of supervision in paragraph (3). 
+
+
+(7) Employment authorization 
+
+
+No alien ordered removed shall be eligible to 
+receive authorization to be employed in the United 
+States unless the Attorney General makes a specific 
+finding that— 
+
+
+(A) the alien cannot be removed due to the 
+refusal of all countries designated by the alien or 
+under this section to receive the alien, or 
+
+
+(B) the removal of the alien is otherwise 
+impracticable or contrary to the public interest. 
+
+
+7a 
+
+
+APPENDIX B 
+
+
+Section 241.4 of Title 8 of the Code of Federal 
+Regulaiiuns (1999) provided: 
+
+
+§ 241.4 Continued detention beyond the removal 
+period. 
+
+
+(a) Continuation of custody for inadmissible or 
+criminal aliens. The district director may continue in 
+custody any alien inadmissible under section 212(a) of 
+the Act or removable under section 237(a)(1)(C), 
+237(a)(2), or 237(a)(4) of the Act, or who presents a 
+significant risk of noncompliance with the order of 
+removal, beyond the removal period, as necessary, until 
+removal from the United States. If such an alien 
+demonstrates by clear and convincing evidence that the 
+release would not pose a danger to the community or a 
+significant flight risk, the district director may, in the 
+exercise of discretion, order the alien released from 
+custody on such conditions as the district director may 
+prescribe, including bond in an amount sufficient to 
+ensure the alien’s appearance for removal. The district 
+may consider, but is not limited to considering, the 
+following factors: 
+
+
+(1) The nature and seriousness of the alien’s 
+criminal convictions; 
+
+
+(2) Other criminal history; 
+(3) Sentence(s) imposed and time actually served; 
+
+
+(4) History of failures to appear for court 
+(defaults); 
+
+
+(5) Probation history; 
+
+
+8a 
+
+
+(6) Disciplinary problems while incarcerated; 
+
+(7) Evidence of rehabilitative effort or recidivism; 
+(8) Equities in the United States; and 
+
+(9) Prior immigration violations and history. 
+
+
+(b) Continuation of custody for other aliens. Any 
+alien removable under any section of the Act other than 
+section 212(a), 237(a)(1C), 237(a)(2), or 237(a)(4) may 
+be detained beyond the removal period, in the dis- 
+cretion of the district director, unless the alien demon- 
+strates to the satisfaction of the district director that he 
+or she is likely to comply with the removal order and is 
+not a risk to the community. 
+
+
+9a 
+
+
+APPENDIX C 
+
+
+Section 241.4 of Title 8 of the Code of Federal 
+Regulations as revised December 21, 2000, 65 Fed. Reg. 
+80,294-80,298 provides: 
+
+
+§ 241.4 Continued detention of inadmissible, criminal, 
+and other aliens beyond the removal period. 
+
+
+(a) Scope. The authority to continue an alien in 
+custody or grant release or parole under sections 
+241(a)(6) and 212(d)(5)(A) of the Act shall be exercised 
+by the Commissioner or Deputy Commissioner, as 
+follows: Except as otherwise directed by the Com- 
+missioner or his or her designee, the Executive Associ- 
+ate Commissioner Field Operations (Executive Asso- 
+ciate Commissioner) or the district director may 
+continue an alien in custody beyond the removal period 
+described in section 241(a)(1) of the Act pursuant to the 
+procedures described in this section. Except as 
+provided in paragraph (b)(2) of this section, the pro- 
+visions of this section apply to custody determinations 
+for the following groups of aliens: 
+
+
+(1) An alien ordered removed who is inadmissible 
+under section 212 of the Act, including an excludable 
+alien convicted of one or more aggravated felony 
+offenses and subject to the provisions of section 501(b) 
+of the Immigration Act of 1990, Public Law 101-649, 104 
+Stat. 4978, 5048 (codified at 8 U.S.C. 1226(e)(1) through 
+(e)(3)(1994)); 
+
+
+(2) An alien ordered removed who is removable 
+under section 237(a)(1)(C) of the Act; 
+
+
+(3) An alien ordered removed who is removable 
+under sections 237(a)(2) or 237(a)(4) of the Act, 
+
+
+10a 
+
+
+including deportable criminal aliens whose cases are 
+governed by former section 242 of the Act prior to 
+amendment by the Illegal Immigration Reform and 
+Immigrant Responsibility Act of 1996, Div. C of Public 
+Law 104-208, 110 Stat. 3009-546; and 
+
+
+(4) An alien ordered removed who the decision- 
+maker determines is unlikely to comply with the 
+removal order or is a risk to the community. 
+
+
+(b) Applicability to particular aliens.—(1) Motions 
+to reopen. An alien who has filed a motion to reopen 
+immigration proceedings for consideration of relief from 
+removal, including withholding or deferral of removal 
+pursuant to 8 CFR 208.16 or 208.17, shall remain 
+subject to the provisions of this section unless the 
+motion to reopen is granted. Section 236 of the Act and 
+8 CFR 236.1 govern custody determinations for aliens 
+who are in pending immigration proceedings before the 
+Executive Office for Immigration Review. 
+
+
+(2) Parole for certain Cuban nationals. The review 
+procedures in this section do not apply to any 
+inadmissible Mariel Cuban who is being detained by the 
+Service pending an exclusion or removal proceeding, or 
+following entry of a final exclusion or pending his or her 
+return to Cuba or removal to another country. Instead, 
+the determination whether to release on parole, or to 
+revoke such parole, or to detain, shall in the case of a 
+Mariel Cuban be governed by the procedures in 8 CFR 
+
+
+212.12. 
+
+
+(3) Individuals granted withholding or deferral of 
+removal. Aliens granted withholding of removal under 
+section 241(b)(3) of the Act or withholding or deferral of 
+removal under the Convention Against Torture who 
+
+
+lla 
+
+
+are otherwise subject to detention are subject to the 
+provisions of this part 241. Individuals subject to a 
+termination of deferral hearing under 8 CFR 208.17(d) 
+remain subject to the provisions of this part 241 
+throughout the termination process. 
+
+
+(c) Delegation of authority. The Attorney General’s 
+Statutory authority to make custody determinations 
+under sections 241(a)(6) and 212(d)(5)(A) of the Act 
+a there is a final order of removal is delegated as 
+ollows: 
+
+
+() District directors. The initial custody deter- 
+mination described in paragraph (h) of this section and 
+any further custody determination concluded in the 
+three-month period immediately following expiration of 
+the 90-day removal period, subject to the provisions of 
+paragraph (c)(2) of this section, will be made by the 
+district director having jurisdiction over the alien. The 
+district director shall maintain appropriate files 
+respecting each detained alien reviewed for possible 
+release, and shall have authority to determine the order 
+in which the cases shall be reviewed, and to coordinate 
+activities associated with these reviews in his or her 
+respective district. 
+
+
+(2) Headquarters Post-Order Detention Unit 
+(HQPDU). For any alien the district director refers 
+for further review after the 90-day removal period, or 
+any alien who has not been released or removed by the 
+expiration of the three-month period after the 90-day 
+review, all further custody determinations will be made 
+
+
+by the Executive Associate Commissioner, acting 
+through the HQPDU. 
+
+
+12a 
+
+
+(3) The HQPDU review plan. The Executive Asso- 
+ciate Commissioner shall appoint a Director of the 
+HQPDU. The Director of the HQPDU shall have 
+authority to establish and maintain appropriate files 
+respecting each detained alien to be reviewed for 
+possible release, to determine the order in which the 
+cases shall be reviewed, and to coordinate activities 
+associated with these reviews. 
+
+
+(4) Additional delegation of authority. All refer- 
+ences to the Executive Associate Commissioner and 
+district director in this section shall be deemed to 
+include any person or persons (including a committee) 
+designated in writing by the district director or 
+Executive Associate Commissioner to exercise powers 
+under this section. 
+
+
+(d) Custody determinations. A copy of any decision 
+by the district director or Executive Associate Com- 
+missioner to release or to detain an alien shall be 
+provided to the detained alien. A decision to retain 
+custody shall briefly set forth the reasons for the 
+continued detention. A decision to release may contain 
+such special conditions as are considered appropriate in 
+the opinion of the Service. Notwithstanding any other 
+provisions of this section, there is no appeal from the 
+district director’s or the Executive Associate Com- 
+missioner’s decision. 
+
+
+(1) Showing by the alien. The district director or 
+the Executive Associate Commissioner may release an 
+alien if the alien demonstrates to the satisfaction of the 
+Attorney General or her designee that his or her 
+release will not pose a danger to the community or to 
+the safety of other persons or to property or a 
+significant risk of flight pending such alien’s removal 
+
+
+l3a 
+
+
+from the United States. The district director or the 
+Executive Associate Commissioner may also, in accor- 
+dance with the procedures and consideration of the 
+factors set forth in this section, continue in custody any 
+alien described in paragraphs (a) and (b)(1) of this 
+section. 
+
+
+(2) Service of decision and other documents. All 
+notices, decisions, or other documents in connection 
+with the custody reviews conducted under this section 
+by the district director or Executive Associate Com- 
+missioner shall be served on the alien, in accordance 
+with 8 CFR 103.5a, by the Service district office having 
+jurisdiction over the alien. Release documentation 
+(including employment authorization if appropriate) 
+shall be issued by the district office having jurisdiction 
+over the alien in accordance with the custody 
+determination made by the district director or by the 
+Executive Associate Commissioner. Copies of all such 
+documents will be retained in the alien’s record and 
+forwarded to the HQPDU. 
+
+
+(3) Alien’s representative. The alien’s representa- 
+tive is required to complete Form G-28, Notice of Entry 
+of Appearance as Attorney or Representative, at the 
+time of the interview or prior to reviewing the 
+detainee’s records. The Service will forward by regular 
+mail a copy of any notice or decision that is being 
+served on the alien only to the attorney or representa- 
+tive of record. The alien remains responsible for 
+notification to any other individual providing assistance 
+to him or her. 
+
+
+(e) Criteria for release. Before making any recom- 
+mendation or decision to release a detainee, a majority 
+of the Review Panel members, or the Director of the 
+
+
+l4a 
+
+
+HQPDU in the case of a record review, must conclude 
+that: 
+
+
+(1) Travel documents for the alien are not available 
+or, in the opinion of the Service, immediate removal, 
+while proper, is otherwise not practicable or not in the 
+public interest; 
+
+
+(2) The detainee is presently a non-violent person; 
+
+
+(3) The detainee is likely to remain nonviolent if 
+released; 
+
+
+(4) The detainee is not likely to pose a threat to the 
+community following release; 
+
+
+(5) The detainee is not likely to violate the condi- 
+tions of release; and 
+
+
+(6) The detainee does not pose a significant flight 
+risk if released. 
+
+
+(f) Factors for consideration. The following factors 
+should be weighed in considering whether to recom- 
+mend further detention or release of a detainee: 
+
+
+(1) The nature and number of disciplinary infrac- 
+tions or incident reports received when incarcerated or 
+while in Service custody; 
+
+
+(2) The detainee’s criminal conduct and criminal 
+convictions, including consideration of the nature and 
+severity of the alien’s convictions, sentences imposed 
+and time actually served, probation and criminal parole 
+history, evidence of recidivism, and other criminal 
+history; 
+
+
+15a 
+
+
+(3) Any available psychiatric and psychological 
+reports pertaining to the detainee’s mental health; 
+
+
+(4) Evidence of rehabilitation including institutional 
+progress relating to participation in work, educational, 
+and vocational programs, where available; 
+
+
+(5) Favorable factors, including ties to the United 
+States such as the number of close relatives residing 
+here lawfully; 
+
+
+(6) Prior immigration violations and history; 
+
+
+(7) The likelihood that the alien is a significant flight 
+risk or may abscond to avoid removal, including history 
+of escapes, failures to appear for immigration or other 
+proceedings, absence without leave from any halfway 
+house or sponsorship program, and other defaults; and 
+
+
+(8) Any other information that is probative of 
+whether the alien is likely to— 
+
+
+(i) Adjust to life ina community, 
+(ii) Engage in future acts of violence, 
+(iii) Engage in future criminal activity, 
+
+
+(iv) Pose a danger to the safety of himself or herself 
+or to other persons or to property, or 
+
+
+(v) Violate the conditions of his or her release from 
+immigration custody pending removal from the United 
+States. 
+
+
+(g) Travel documents and docket control for aliens 
+continued in detention beyond the removal period—(1) 
+In general. The district director shall continue to 
+
+
+l6a 
+
+
+undertake appropriate steps to secure travel docu- 
+ments for the alien both before and after the expiration 
+of the removal period. If the district director is unable 
+to secure travel documents within the removal period, 
+he or she shall apply for assistance from Headquarters 
+Detention and Deportation, Office of Field Operations. 
+The district director shall promptly advise the HQPDU 
+Director when travel documents are obtained for an 
+alien whose custody is subject to review by the 
+HQPDU. The Service’s determination that receipt of a 
+travel document is likely may by itself warrant 
+continuation of detention pending the removal of the 
+alien from the United States. 
+
+
+(2) Availability of travel document. In making a 
+custody determination, the district director and the 
+Director of the HQPDU shall consider the ability to 
+obtain a travel document for the alien. If it is 
+established at any stage of a custody review that, in the 
+judgment of the Service, travel documents can be 
+obtained, or such document is forthcoming, the alien 
+will not be released unless immediate removal is not 
+practicable or in the public interest. 
+
+
+(3) Removal. The Service will not conduct a cus- 
+tody review under these procedures when the Service 
+notifies the alien that it is ready to execute an order of 
+removal. 
+
+
+(4) Alien’s cooperation. Release will be denied if 
+the alien fails or refuses to cooperate in the process of 
+obtaining a travel document. See, e.g., section 
+241(aX(1C) of the Act. 
+
+
+17a 
+
+
+(h) District director’s custody review procedures. 
+The district director’s custody determination will be 
+developed in accordance with the following procedures: 
+
+
+(1) Records review. The district director will 
+conduct the initial custody review. For aliens described 
+in paragraphs (a) and (b)(1) of this section, the district 
+director will conduct a records review prior to the 
+expiration of the 90-day removal period. This initial 
+post-order custody review will consist of a review of the 
+alien’s records and any written information submitted 
+in English to the district director by or on behalf of the 
+alien. However, the district director may in his or her 
+discretion schedule a personal or telephonic interview 
+with the alien as part of this custody determination. 
+The district director may also consider any other 
+relevant information relating to the alien or his or her 
+circumstances and custody status. 
+
+
+(2) Notice to alien. The district director will pro- 
+vide written notice to the detainee approximately 30 
+days in advance of the pending records review so that 
+the alien may submit information in writing in support 
+of his or her release. The alien may be assisted by a 
+person of his or her choice, subject to reasonable secu- 
+rity concerns at the institution and panel's discretion, in 
+preparing or submitting information in response to the 
+district director’s notice. Such assistance shall be at no 
+expense to the Government. If the alien or his or her 
+representative requests additional time to prepare 
+materials beyond the time when the district director 
+expects to conduct the records review, such a request 
+will constitute a waiver of the requirement that the 
+review occur prior to the expiration of the removal 
+period. 
+
+
+18a 
+
+
+(3) Factors for consideration. The district direc- 
+tor’s review will include but is not limited to considera- 
+tion of the factors described in paragraph (f) of this 
+section. Before making any decision to release a 
+detainee, the district director must be able to reach the 
+conclusions set forth in paragraph (e) of this section. 
+
+
+(4) District director’s decision. The district director 
+will notify-the alien in writing that he or she is to be 
+released from custody, or that he or she will be con- 
+tinued in detention pending removal or further review 
+of his or her custody status. 
+
+
+(5) District office staff. The district director may 
+delegate the authority to conduct the custody review, 
+develop recommendations, or render the custody or 
+release decision to those persons directly responsible 
+for detention within his or her district. This includes 
+the deputy district director, the assistant director for 
+detention and deportation, the officer-in-charge of a 
+detention center, persons acting in such capacities, or 
+such other persons as the district director may 
+designate from the professional staff of the Service. 
+
+
+(i) Determinations by the Executive Associate 
+Commissioner. Determinations by the Executive 
+Associate Commissioner to release or retain custody of 
+aliens shall be developed in accordance with the 
+following procedures. 
+
+
+(1) Review panels. The HQPDU Director shall 
+designate a panel or panels to make recommendations 
+to the Executive Associate Commissioner. A Review 
+Panel shall, except as otherwise provided, consist of 
+two persons. Members of a Review Panel shall be 
+selected from the professional staff of the Service. All 
+
+
+- ig aes 
+
+
+19a 
+
+
+recommendations by the two-member Review Panel 
+shall be unanimous. If the vote of the two-member 
+Review Panel is split, it shall adjourn its deliberations 
+concerning that particular detainee until a third Review 
+Panel member is added. The third member of any 
+Review Panel shall be the Director of the HQPDU or 
+his or her designee. A recommendation by a three- 
+member Review Panel shall be by majority vote. 
+
+
+(2) Records review. Initially, and at the beginning 
+of each subsequent review, the HQPDU Director or a 
+Review Panel shall review the alien’s records. Upon 
+completion of this records review, the HQPDU Director 
+or the Review Panel may issue a written recommen- 
+dation that the alien be released and reasons therefore. 
+
+
+(3) Personal interview. (i) If the HQPDU Director 
+does not accept a panel’s recommendation to grant 
+release after a records review, or if the alien is not 
+recommended for release, a Review Panel shall per- 
+sonally interview the detainee. The scheduling of such 
+interviews shall be at the discretion of the HQPDU 
+Director. The HQPDU Director will provide a 
+translator if he or she determines that such assistance 
+is appropriate. 
+
+
+(ii) The alien may be accompanied during the 
+interview by a person of his or her choice, subject to 
+reasonable security concerns at the institution's and 
+panel's discretion, who is able to attend at the time of 
+the scheduled interview. Such assistance shall be at no 
+expense to the Government. The alien may submit to 
+the Review Panel any information, in English, that he 
+or she believes presents a basis for his or her release. 
+
+
+20a 
+
+
+(4) Alien’s participation. Every alien shall respond 
+to questions or provide other information when 
+requested to do so by Service officials for the purpose of 
+carrying out the provisions of this section. 
+
+
+(5) Panel recommendation. Following completion 
+of the interview and its deliberations, the Review Panel 
+shall issue a written recommendation that the alien be 
+released or remain in custody pending removal or 
+further review. This written recommendation shall 
+include a brief statement of the factors that the Review 
+Panel deems material to its recommendation. 
+
+
+(6) Determination. The Executive Associate Com- 
+missioner shall consider the recommendation and 
+appropriate custody review materials and issue a 
+custody determination, in the exercise of discretion 
+under the standards of this section. The Executive 
+Associate Commissioner's review will include but is not 
+limited to consideration of the factors described in 
+paragraph (f) of this section. Before making any 
+decision to release a detainee, the Executive Associate 
+Commissioner must be able to reach the conclusions set 
+forth in paragraph (e) of this section. The Executive 
+Associate Commissioner is not bound by the panel's 
+recommendation. 
+
+
+(j) Conditions of release-—(1) In general. The 
+district director or Executive Associate Commissioner 
+shall impose such conditions or special conditions on 
+release as the Service considers appropriate in an 
+individual case or cases, including but not limited to the 
+conditions of release noted in 8 CFR 212.5(c) and 
+§ 241.5. An alien released under this section must abide 
+by the release conditions specified by the Service in 
+relation to his or her release or sponsorship. 
+
+
+eS 
+
+
+2la 
+
+
+(2) Sponsorship. The district director or Executive 
+Associate Commissioner may, in the exercise of dis- 
+cretion, condition release on placement with a close 
+relative who agrees to act as a sponsor, such as a 
+parent, spouse, child, or sibling who is a lawful perma- 
+nent resident or a citizen of the United States, or may 
+condition release on the alien’s placement or parti- 
+cipation in an approved halfway house, mental health 
+project, or community project when, in the opinion of 
+the Service, such condition is warranted. No detainee 
+may be released until sponsorship, housing, or other 
+placement has been found for the detainee, if ordered, 
+including but not limited to, evidence of financial 
+support. 
+
+
+(3) Employment authorization. The district direc- 
+tor and Executive Associate Commissioner may, in the 
+exercise of discretion, grant employment authorization 
+under the same conditions set forth in § 241.5(c) for 
+aliens released under an order of supervision. 
+
+
+(4) Withdrawal of release approval. The district 
+director or Executive Associate Commissioner may, in 
+the exercise of discretion, withdraw approval for 
+release of any detained alien prior to release when, in 
+the decision-maker’s opinion, the conduct of the 
+detainee, or any other circumstance, indicates that 
+release would no longer be appropriate. 
+
+
+(k) Timing of reviews. The timing of reviews shall 
+be in accordance with the following guidelines: 
+
+
+(1) District director. (i) Prior to the expiration of 
+the 90-day removal period, the district director shall 
+conduct a custody review for an alien described in 
+paragraphs (a) and (b)(1) of this section where the 
+
+
+a 
+
+
+alien’s removal, while proper, cannot be accomplished 
+during the 90-day period because no country currently 
+will accept the alien, or removal of the alien prior to 
+expiration of the removal period is impracticable or 
+contrary to the public interest. As provided in 
+paragraph (h)(4) of this section, the district director will 
+notify the alien in writing that he or she is to be 
+released from custody, or that he or she will be 
+continued in detention pending removal or further 
+review of his or her custody status. 
+
+
+(i) When release is denied pending the alien's 
+removal, the district director in his or her discretion 
+may retain responsibility for custody determinations 
+for up to three months after expiration of the 90-day 
+removal period, during which time the district director 
+may conduct such additional review of the case as he or 
+she deems appropriate. The district director may 
+release the alien if he or she is not removed within the 
+three-month period following the expiration of the 90- 
+day removal period, in accordance with paragraphs (e), 
+(f), and (j) of this section, or the district director may 
+refer the alien to the HQPDU for further custody 
+review. 
+
+
+(2) HQPDU reviews. (i) District director referral 
+for further review. When the district director refers a 
+case to the HQPDU for further review, as provided in 
+paragraph (c)(2) of this section, authority over the 
+custody determination transfers to the Executive 
+Associate Commissioner, according to procedures 
+established by the HQPDU. The Service will provide 
+the alien with approximately 30 days notice of this 
+further review, which will ordinarily be conducted by 
+
+
+23a 
+
+
+the expiration of the removal period or as soon 
+thereafter as practicable. 
+
+
+(ii) District director retains jurisdiction. When the 
+district director has advised the alien at the 90-day 
+review as provided in paragraph (h)(4) of this section 
+that he or she will remain in custody pending removal 
+or further custody review, and the alien is not removed 
+within three months of the district director's decision, 
+authority over the custody determination transfers 
+from the district director to the Executive Associate 
+Commissioner. The initial HQPDU review will 
+ordinarily be conducted at the expiration of the three- 
+month period after the 90-day review or as soon 
+thereafter as practicable. The Service will provide the 
+alien with approximately 30 days notice of that review. 
+
+
+(iii) Continued detention cases. A subsequent 
+review shall ordinarily be commenced for any detainee 
+within approximately one year of a decision by the 
+Executive Associate Commissioner declining to grant 
+release. Not more than once every three months in the 
+interim between annual reviews, the alien may submit a 
+written request to the HQPDU for release consi- 
+deration based on a proper showing of a material 
+change in circumstances since the last annual review. 
+The HQPDU shall respond to the alien’s request in 
+writing within approximately 90 days. 
+
+
+(iv) Review scheduling. Reviews will be conducted 
+within the time periods specified in paragraphs (k)(1)(i), 
+(kX 2)(), (k)\(2)i), and (k)(2)(iii) of this section or as soon 
+as possible thereafter, allowing for any unforeseen 
+circumstances or emergent situation. 
+
+
+24a 
+
+
+(v) Discretionary reviews. The HQPDU Director, 
+in his or her discretion, may schedule a review of a 
+detainee at shorter intervals when he or she deems 
+such review to be warranted. 
+
+
+(3) Postponement of review. In the case of an alien 
+who is in the custody of the Service, the district 
+director or the HQPDU Director may, in his or her 
+discretion, suspend or postpone the custody review 
+process if such detainee’s prompt removal is practicable 
+and proper, or for other good cause. The decision and 
+reasons for the delay shall be documented in the alien’s 
+custody review file or A file, as appropriate. Rea- 
+sonable care will be exercised to ensure that the alien’s 
+case is reviewed once the reason for delay is remedied 
+or if the alien is not removed from the United States as 
+anticipated at the time review was suspended or 
+postponed. 
+
+
+(4) Transition provisions. (i) The provisions of this 
+section apply to cases that have already received the 
+%)-day review. If the alien’s last review under the 
+procedures set out in the Executive Associate Com- 
+missioner memoranda entitled Detention Procedures 
+for Aliens Whose Immediate Repatriation is Not Pos- 
+sible or Practicable, February 3, 1999; Supplemental 
+Detention Procedures, April 30, 1999; Interim Changes 
+and Instructions for Conduct of Post-order Custody 
+Reviews, August 6, 1999; Review of Long-term 
+Detainees, October 22, 1999, was a records review and 
+the alien remains in custody, the HQPDU will conduct a 
+custody review within six months of that review 
+(Memoranda available at http://www.ins.usdoj.gov). If 
+the alien’s last review included an interview, the 
+HQPDU review will be scheduled one year from the 
+
+
+25a 
+
+
+last review. These reviews will be conducted pursuant 
+to the procedures in paragraph (i) of this section, within 
+the time periods specified in this paragraph or as soon 
+as possible thereafter, allowing for resource limitations, 
+unforeseen circumstances, or an emergent situation. 
+
+
+(ii) Any case pending before the Board on December 
+21, 2000 will be completed by the Board. If the Board 
+affirms the district director’s decision to continue the 
+alien in detention, the next scheduled custody review 
+will be conducted one year after the Board’s decision in 
+accordance with the procedures in paragraph (i) of this 
+section. 
+
+
+(1) Revocation of release—(1) Violation of condi- 
+tions of release. Any alien described in paragraph (a) 
+or (b)(1) of this section who has been released under an 
+order of supervision or other conditions of release who 
+violates the conditions of release may be returned to 
+custody. Any such alien who violates the conditions of 
+an order of supervision is subject to the penalties 
+described in section 243(b) of the Act. Upon revocation, 
+the alien will be notified of the reasons for revocation of 
+his or her release or parole. The alien will be afforded 
+an initial informal interview promptly after his or her 
+return to Service custody to afford the alien an 
+opportunity to respond to the reasons for revocation 
+stated in the notification. 
+
+
+(2) Determination by the Service. The Executive 
+Associate Commissioner shall have authority, in the 
+exercise of discretion, to revoke release and return to 
+Service custody an alien previously approved for 
+release under the procedures in this section. A district 
+director may also revoke release of an alien when, in 
+the district director’s opinion, revocation is in the public 
+
+
+26a 
+
+
+interest and circumstances do not reasonably permit 
+referral of the case to the Executive Associate Com- 
+missioner. Release may be revoked in the exercise of 
+discretion when, in the opinion of the revoking official: 
+
+
+(i) The purposes of release have been served; 
+(ii) The alien violates any condition of release; 
+
+
+(iii) It is appropriate to enforce a removal order or to 
+commence removal proceedings against an alien; or 
+
+
+(iv) The conduct of the alien, or any other circum- 
+stance, indicates that release would no longer be 
+appropriate. 
+
+
+(3) Timing of review when release is revoked. If the 
+alien is not released from custody following the informal 
+interview provided for in paragraph (1)(1) of this 
+section, the HQPDU Director shall schedule the review 
+process in the case of an alien whose previous release or 
+parole from immigration custody pursuant to a decision 
+of either the district director or the Executive 
+Associate Commissioner under the procedures in this 
+section has been or is subject to being revoked. The 
+normal review process will commence with notification 
+to the alien of a records review and scheduling of an 
+interview, which will ordinarily be expected to occur 
+within approximately three months after release is 
+revoked. That custody review will include a final 
+evaluation of any contested facts relevant to the 
+revocation and a determination whether the facts as 
+determined warrant revocation and further denial of 
+release. Thereafter, custody reviews will be conducted 
+annually under the provisions of paragraphs (i), (j), and 
+(k) of this section. 
+
+
+27a 
+
+
+APPENDIX D 
+{EXHIBIT A] 
+[Seal omitted] U.S. Department of Justice 
+Immigration and Naturalization Service 
+HQCOU 90/16.51 
+Office of the Executive Associate 425 I Street NW 
+Commissioner Washington, DC 20536 
+
+
+[Filed: Feb. 3 1999] 
+
+
+MEMORANDUM FOR REGIONAL DIRECTORS 
+
+
+FROM: Michael A. Pearson 
+Executive Associate Commissioner 
+Office of Field Operations 
+
+
+SUBJECT: Detention Procedures for Aliens Whose 
+Immediate Repatriation 
+
+
+Is Not Possible or Practicable 
+
+
+This memorandum clarifies the authority of District 
+Directors to make release decisions and emphasizes the 
+need to provide a review of administratively final order 
+detention cases both before and after the expiration of 
+the mandatory 90 day detention period at § 241(a)(2) of 
+the Immigration and Nationality Act (INA). 
+
+
+The District Director is required to review every 
+administratively final order removal case before the 
+ninety [90] day removal period mandated by § 241(a)(1) 
+expires. 8 C.F.R. § 241.4 gives the District Director the 
+authority to make release decisions beyond the removal 
+period based on specific criteria in the regulation as set 
+forth below. The regulation also provides that the Dis- 
+
+
+28a 
+
+
+trict Director should provide an alien with the oppor- 
+tunity to demonstrate by clear and convincing evidence 
+that he is not a threat to the community and is likely to 
+comply with the removal order. The alien may be given 
+this opportunity in writing, orally, or a combination 
+thereof. The District Director must ensure that the file 
+is documented with respect to the alien’s opportunity to 
+present factors in support of his release, and the rea- 
+sons for the custody or reiease decision. 
+
+
+The District Director cannot delegate the authority 
+to render the ultimate custody or release decision be- 
+yond those directly responsible for detention within his 
+district or Service Processing Center (SPC). Such indi- 
+viduals may include the Deputy District Director, the 
+Assistant Director for Detention, the Officer in Charge 
+(OIC) of a detention center, or persons acting in such 
+capacities. These persons must be specifically desig- 
+nated by the District Director. 
+
+
+Although the District Director cannot relinquish 
+his decision-making authority, he may utilize various 
+methods to assist in reaching a determination. For 
+example, he may designate an individual or group of in- 
+dividuals to review the alien file and obtain any other 
+relevant information. To the extent Districts have a 
+high volume of post order cases, the District Director 
+may also request detail assistance from other districts, 
+the region and/or headquarters for the purpose of con- 
+ducting custody reviews. The District Director may 
+use information obtained by local staff or detailees to 
+make his custody decision. Detail assistance may be co- 
+ordinated through John Castro, at Headquarters De- 
+tention and Deportation, (202) 616-7836. 
+
+
+29a 
+
+
+Every six months, the District Director must review 
+the status of aliens detained beyond the removal period 
+to determine whether there has been a change in cir- 
+cumstances that would support a release decision since 
+the 90 day review. Further, the District Director 
+should continue to make every effort to effect the 
+alien’s removal both before and after the expiration of 
+
+
+the removal period. The file should document these ef- 
+forts as well. 
+
+
+When an alien is released pursuant to 8 C.F.R. 
+§ 241.4 under an order of supervision, the order of 
+supervision must specify the applicable conditions of 
+supervision. In addition, the order of supervision must 
+
+
+= — by one of the parties authorized in 8 C.F.R. 
+
+
+Any alien described in 8 C.F.R. § 241.4(a), may be 
+returned to custody subsequent to release under an 
+order of supervision if such alien violates any of the 
+conditions of the order of supervision. Any alien de- 
+scribed in 8 C.F.R. § 241.4(b) who violates the condi- 
+tions of the order of supervision is subject to the penal- 
+ties described in § 243(b) of the INA. 
+
+
+District Directors are advised that a detention re- 
+view is subject to the provisions of 8 C.F.R. 
+§ 236.1(d)(2)(ii) if the alien submits a written request to 
+have his detention status reviewed by the District Di- 
+rector. Under 8 C.F.R. § 236.1(d)(2)(iii), the alien may 
+appeal the District Director’s Decision to the Board of 
+Immigration Appeals. Where the alien has not made a 
+written request to have his custody status reviewed, 
+however, there is no provision for appeal of the District 
+Director’s decision to the Board of Immigration Ap- 
+peals. See 8 C.F.R. § 241.4. 
+
+
+30a 3la 
+8 C.F.R. § 241.4 Continued detention beyond the re- (7) Evidence of rehabilitative effort or recidi- 
+moval period. vism; 
+(a) Continuation of custody for inadmissible or (8) Equities in the United States; and 
+
+
+criminal aliens. The district director may con- 
+tinue in custody any alien inadmissible under 
+§$ 212(a) of the Act or removable under 
+§ 237(aX1 XC), 237(aX1(C), 237(aX2), or 237(a4) 
+of the Act, or who presents a significant risk of 
+noncompliance with the order of removal, 
+beyond the removal period, as necessary, until 
+removal from the United States. If such an alien 
+demonstrates by clear and convincing evidence 
+that the release would not pose a danger to the 
+community or a significant flight risk, the district 
+director may, in the exercise of discretion, order 
+the alien released from custody on such condi- 
+tions as the district director may prescribe, 
+including bond in an amount sufficient to ensure 
+the alien’s appearance for removal. The district 
+may consider, but is not limited to considering, 
+the following factors: 
+
+
+(1) The nature and seriousness of the alien’s 
+criminal convictions; 
+
+
+(2) Other criminal history; 
+
+
+(3) Sentence(s) imposed and time actually 
+served; 
+
+
+(4) History of failures to appear for court 
+(defaults); 
+
+
+(5) Probation history; 
+(6) Disciplinary problems while incarcerated; 
+
+
+(9) Prior immigration violations and history. 
+
+
+(b) Continuation of custody for other aliens. Any 
+alien removable under any section of the Act 
+other than § 212(a), 237(a)(1)(C), 237(a)\(2), or 
+237(a)(4) may be detained beyond the removal 
+period, in the discretion of the district director, 
+unless the alien demonstrates to the satisfaction 
+of the district director that he or she is likely to 
+comply with the removal order and is not a risk 
+to the community. 
+
+
+Note: these instructions also apply to criminal alien 
+deportation cases under former INA § 242 where the 
+aliens are subject to required detention under current 
+INA § 236(c). See October 7, 1998 memorandum en- 
+titled INS Detention Use Policy. 
+
+
+32a 
+
+
+APPENDIX E 
+
+
+[Seal omitted] U.S. Department of Justice 
+Immigration and Naturalization Service 
+
+
+HQOPS 50/14.6-C 
+Office of the Executive Associate 425 1 Street NW 
+Commissioner Washington, DC 20536 
+
+
+(Filed: Aug. 6 1999] 
+
+
+MEMORANDUM FOR ALL REGIONAL DIRECTORS 
+DISTRICT DIRECTORS 
+OFFICE OF FIELD OPERATIONS 
+
+
+FROM: Michael A. Pearson 
+Executive Associate Commissioner 
+Office of Field Operations 
+
+
+SUBJECT: $i structions 
+
+
+This memorandum addresses several changes to cur- 
+rent procedures regarding post-order detention proce- 
+dures for aliens whose immediate repatriation is not 
+possible or practicable.' Current regulations, 8 C.F.R. 
+§ 241.4, provide that the decision whether to detain or 
+
+
+! See the memoranda from Michael Pearson, Executive 
+Associate Commissioner for Field Operations, February 3, 199%: 
+Detention Procedures for Aliens Whose Immediate Repatriation is 
+Not Possible or Practicable and April 30, 1999: Supplemental 
+Detention Procedures. 
+
+
+33a 
+
+
+release such an alien is made by the District Director. 
+In the near future, the Service will begin the rule- 
+making process to propose a program modeled after 
+the Cuban Review Plan of 8 CFR section 212.12 to 
+address post-order custody cases. The custody of 
+Mariel Cubans will continue to be governed by 8 CFR 
+212.12. Until this more permanent program is imple- 
+mented, several changes are being made to the current 
+procedures set forth in the memoranda of February 3, 
+and April 30, 1999. These changes are effective imme- 
+diately. All offices will follow identical procedures in 
+conducting reviews of post-order custody cases, using 
+the forms listed at the conclusion of this memorandum. 
+The forms will be distributed to all offices. 
+
+
+The Attorney General and the Commissioner have 
+agreed that these procedures, as detailed below under 
+the heading “Interim Procedures,” will include written 
+notice to the alien of custody reviews. The notice will 
+advise the alien that he may present information sup- 
+porting a release, and he may be assisted by an at- 
+torney or other person at no expense to the govern- 
+ment. The alien will receive an in-person interview at 
+the first custody review following expiration of the 
+removal period. Thereafter, the alien will receive a 
+separate notice of the opportunity for an annual inter- 
+view. The alien will be provided written reasons for 
+INS custody decisions. 
+
+
+The District Director will continue to make custody 
+determinations within the ninety-day removal period 
+under the memoranda of February 3, and April 30, 
+1999. The next scheduled review shall be nine months 
+from the date of the final administrative order of re- 
+moval or six months after the last review, whichever is 
+
+
+34a 
+
+
+later. That review will include an interview and is sub- 
+ject to review at INS Headquarters if the District Di- 
+rector has determined that the alien should remain in 
+custody. Thereafter, reviews will be conducted at six- 
+month intervals, alternating between a file review by 
+the District Director (without an interview unless the 
+District Director, in his discretion, determines that one 
+would be useful, and without Headquarters review), 
+and a review with the opportunity for an interview at 
+the alien’s request and with Headquarters review. 
+
+
+No case subject to Headquarters review will be con- 
+sidered a final custody decision until the District level 
+decision has been ratified through the Headquarters 
+review or resolved after referral back to the District. If 
+the Headquarters reviewer concludes that the District 
+Director should reconsider his decision or that further 
+documentation is required to support the District Di- 
+rector’s decision, the case shall be forwarded to the 
+Regional Office with a cover memorandum and instruc- 
+tions to refer the case back to the District for further 
+consideration or documentation. The Headquarters re- 
+viewer shall detail the issues that resulted in the refer- 
+ral and forward the case to the Regional Office. 
+
+
+Regional Directors are responsible for working with 
+the District Director to comply with the Headquarters 
+instructions on referrals. In addition, the Regional Di- 
+rector is responsible for preparation of statistics on the 
+custody reviews conducted in each district. 
+
+
+INTERIM PROCEDURES 
+
+
+(1) Pursuant to the provisions of 8 C.F.R. § 241.4, 
+the District Director will continue to conduct a 
+custody review of administratively final order 
+
+
+(2) 
+
+
+(3) 
+
+
+35a 
+
+
+removal cases before the ninety-day removal pe- 
+riod mandated by § 241(a)(1) expires for aliens 
+whose departure cannot be effected within the 
+removal period. 
+
+
+These procedures apply to any alien ordered re- 
+moved who is inadmissible under § 212, remov- 
+able under 237(a)(1)(C), 237(a)(2), or 237(a)(4) or 
+who has been determined by the Attorney Gen- 
+eral to be a risk to the community or unlikely to 
+comply with the order of removal. They cover 
+aliens convicted of an aggravated felony offense 
+who are subject to the provisions of old INA 
+§ 236(e)(1)-(3), and non-aggravated felon aliens 
+with final orders of exclusion. Mariel Cubans are 
+excluded from these procedures as parole re- 
+views for them are governed by 8 C.F.R. 
+§ 212.12. The ninety-day review will be con- 
+ducted pursuant to the instructions set out in the - 
+memoranda of February 3 and April 30, 1999. 
+District Directors may, in their discretion, inter- 
+view the alien if they believe that an interview 
+would facilitate the custody review. 
+
+
+Following expiration of the ninety-day removal 
+
+
+period, the next scheduled review provided by 
+
+
+the District Director shall be nine months from 
+the date of the final administrative order of re- 
+moval or six months after the last review, which- 
+ever is later. Written notice shall be given to 
+each alien at least 30 days prior to the date of the 
+review. The notice will be provided either by 
+personal service or certified mail/return receipt. 
+The notice shall specify the factors to be con- 
+sidered and explain that the alien will be pro- 
+
+
+(4) 
+
+
+(5) 
+
+
+36a 
+
+
+vided the opportunity to demonstrate by clear 
+and convincing evidence that he is not a threat to 
+the community and is likely to comply with the 
+removal order. 
+
+
+For the review discussed in paragraph 3 above, 
+
+
+an interview is mandatory and the District Di-_ 
+
+
+rector’s preliminary decision will be subject to 
+Headquarters review. Thereafter, custody re- 
+views will be conducted every six months, alter- 
+nating between District Director file reviews 
+and a review that includes the opportunity for an 
+interview at the alien’s request and a Head- 
+quarters review of detention decisions. A se- 
+parate notice will advise the alien of the oppor- 
+tunity for the interview. The alien may check 
+the appropriate box on the notice, returning the 
+form provided within 14 calendar days so that an 
+interview may be scheduled. The District Di- 
+rector has the discretion to schedule further in- 
+terviews if he determines they would assist him 
+in reaching a custody determination. _ 
+
+
+The alien must be advised that he may submit 
+any information relevant to support his request 
+for release from detention, either in writing, 
+electronically, by U.S. mail (or any combination 
+thereof), or in person if an interview is con- 
+ducted. The alien must also be advised that he 
+may be represented by an attorney, or other 
+person at no expense to the government. If an 
+interview has been scheduled, the alien’s repre- 
+sentative may attend the review at the sched- 
+uled time. 
+
+
+(6) 
+
+
+(7) 
+
+
+(8) 
+
+
+37a 
+
+
+The District Director may delegate custody 
+decisions to the level of the Assistant District 
+Director, Deputy Assistant District Director, or 
+those acting in their capacity. Custody 
+determinations will be made by weighing favor- 
+able and adverse factors to determine whether 
+the detainee has demonstrated by clear and 
+convincing evidence that he does not pose a 
+threat to the community, and is likely to comply 
+with the removal order. See 8 C.F.R. § 241.4. 
+The alien’s past failure to cooperate in obtaining 
+a travel document shall be considered an ad- 
+verse factor in determining eligibility for release. 
+See INA § 241(a)(1)(C) Suspension of Period. 
+The fact that the alien has a criminal history 
+does not create a presumption i in favor of 
+continued detention. 
+
+
+Within thirty days of the District Director’s cus- 
+tody review, the alien must receive written 
+notification of a custody decision. All notification 
+will be provided either by personal service or 
+certified mail/return receipt. A decision to re- 
+lease should specify the conditions of release. A 
+decision to detain will clearly delineate the 
+factors presented by the alien in support of his 
+release, and the reasons for the District Di- 
+rector’s decision. 
+
+
+With respect to those detain decisions that are 
+subject to Headquarters review under para- 
+graph 4, the District Director’s determination 
+that the alien should be detained is to be re- 
+garded as only preliminary. In those instances, 
+the Regional Directors will forward the pre- 
+
+
+(9) 
+
+
+(10) 
+
+
+38a 
+
+
+liminary detain decisions to Headquarters for re- 
+view. Headquarters review will be conducted by 
+Operations and Programs representatives (with 
+assistance from the Office of General Counsel as 
+necessary). Where the Headquarters reviewer's 
+decision concurs with the District Director’s, the 
+Headquarters reviewer will write a supporting 
+statement and will seek concurrence from a 
+second Headquarters reviewer. Where the two 
+reviewers differ, a panel of three Headquarters 
+reviewers will conduct a further review of the 
+case. The Headquarters panel may ratify the 
+District Director’s decision, return the case to 
+the District Director to reconsider his decision, 
+or determine that additional information is re- 
+quired to make a decision. The Headquarters 
+review must be completed within thirty days of 
+file receipt. The Headquarters review con- 
+clusions will be forwarded to the Regional Di- 
+rector for distribution to and appropriate action 
+by the District Director. 
+
+
+The District Director will review his decision in 
+light of the Headquarters recommendations and 
+will notify the alien of the final custody deter- 
+mination within thirty days of completion of the 
+Headquarters review. 
+
+
+The District Director should make every effort 
+to effect the alien’s removal both before and 
+after expiration of the removal period. All steps 
+to secure travel documents must be fully docu- 
+mented in the alien’s file. However, if the Dis- 
+trict Director is unable to secure travel docu- 
+ments locally after making diligent efforts to do 
+
+
+(11) 
+
+
+(a) 
+(b) 
+(c) 
+(d) 
+(e) 
+(f) 
+(g) 
+
+
+39a 
+
+
+so, then the case shall be referred to Head- 
+quarters OPS/DDP for assistance. More de- 
+tailed instructions will be issued from the 
+Executive Associate Commissioner for Opera- 
+tions by separate memorandum. 
+
+
+On August 30, 1999, and on the last workday of 
+each quarter (September, December, March, 
+June) each district shall submit a custody review 
+Status report to its Regional office and to 
+Headquarters. There will be more detailed in- 
+
+
+structions issued on reporting procedures at a 
+later time. 
+
+
+FORMS [to be distributed] 
+
+
+Notice to Alien 
+
+Notice of Interview 
+
+Detained Alien Custody Review Worksheet 
+Decision of Custody Review 
+
+Decision to Continue Detention 
+
+Decision to Release 
+
+Custody Review Status Report 
+
+

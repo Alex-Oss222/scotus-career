@@ -1,0 +1,44 @@
+{
+  "case": "palazzolo",
+  "record": "terms/OT2000/records/Palazzolo_v_Rhode_Island_merits_2001-06-28.md",
+  "sha256": "2a4803bcead65bcdae6949b3a99c56514e3850e7581ef72dd3c4de771b94d021",
+  "public_sha256": "203ca871883c43a997b2bbd56544e601a54d405e0208039622fad7e5fecc5dbe",
+  "exact_first_four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identity": true,
+  "explanation_words": [
+    {
+      "holding": "I. A definitive restriction does not require an equivalent application",
+      "words": 207
+    },
+    {
+      "holding": "II. Acquisition after regulation is not a categorical defense",
+      "words": 190
+    },
+    {
+      "holding": "III. Meaningful retained use defeats the total-deprivation theory",
+      "words": 134
+    },
+    {
+      "holding": "IV. The existing partial-taking claim receives the combined inquiry",
+      "words": 172
+    }
+  ],
+  "local_links_resolve": true,
+  "text_hygiene_pass": true,
+  "assignment_receipt": "terms/OT2000/freeze/OT_2000CHUNK8_ASSIGNMENT_palazzolo.json",
+  "substantive_compatibility": "Final frozen commitments and approved Stone core preserved; no post-reconciliation Associate change.",
+  "integration_status": "Per-case assembly checks complete; coordinated workspace and term checks belong to root integration."
+}

@@ -1,0 +1,17 @@
+{
+  "change": "Only the eleven Public Projection block heading levels changed from three hashes to two hashes. Internal text and every substantive block byte remained unchanged. Per operator compatibility request; no adjudication changed.",
+  "records": [
+    {
+      "file": "Duncan_v_Walker_merits_2001-06-18.md",
+      "sha256": "3a7406031e9ef406dedd593aa15b865c981a98045cfe521928dccb1e359c4cf7"
+    },
+    {
+      "file": "Freiler_v_Tangipahoa_Parish_Board_of_Education_merits_2001-06-18.md",
+      "sha256": "2eaefd43dc31c270b6cc4c1d91d104e1e8649cc16cd1555e8f939d4c7849503a"
+    },
+    {
+      "file": "Idaho_v_United_States_merits_2001-06-18.md",
+      "sha256": "39bfb8c47f14517fd8e91d23a150295c70d301a5e9c134b1716c0057ef21515f"
+    }
+  ]
+}

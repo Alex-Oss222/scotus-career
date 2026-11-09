@@ -1,0 +1,689 @@
+# Lorillard / Altadis: cigar_reply predecision source
+
+Source: sources/chunk8-c/Altadis_Archive_09.txt. Complete saved text from the first substantive question or contents heading through the end, mechanically copied. The preceding covers have been screened as predecision party briefs and are omitted. No current Supreme Court opinion or result is included. Arguments, characterizations and evidence descriptions remain attributed to the filing party; no finding or concession beyond the actual words is supplied. Read complete relevant units before claiming a limit or omission; the complete body is available here. Source OCR is unchanged.
+
+TABLE OF CONTENTS 
+
+
+Page 
+Re GE a i secnctvisnhinsitnis ihesitiitintcisincnngicenaniahdianiin i 
+pe TR ht PF igs tl yy | -: een ane nmNT eT ii 
+PARTE secissssscnishesateciasinsiieciciibincinaieiiadaaiiiaiad radltialiiad 2 
+
+
+I. THE ATTORNEY GENERAL HAS NOT 
+IDENTIFIED ANY EVIDENCE THAT THE 
+BAN ON CIGAR ADVERTISING WILL 
+DIRECTLY AND MATERIALLY REDUCE 
+YOUTH CIGAR SMOKING, AND THUS HAS 
+FAILED TO CARRY HIS BURDEN UNDER 
+
+| THE THIRD PRONG OF CENTRAL HUDSON... 2 
+
+
+| Il. THE ATTORNEY GENERAL HAS NOT 
+IDENTIFIED ANY EVIDENCE THAT THE 
+BAN ON OUTDOOR CIGAR ADVERTISING IS 
+REASONABLY TAILORED TO SERVE THE 
+COMMONWEALTH’S INTEREST, AND THUS 
+HAS FAILED TO CARRY HIS BURDEN 
+UNDER THE FOURTH PRONG OF CENTRAL 
+GPT sich sisinsbinininsinnertininiasininsaihaiadiniaaalahanliiinlunnaniiiie 10 
+
+
+i 
+TABLE OF AUTHORITIES 
+CASES Page(s) 
+
+
+44 Liquormart, Inc. v. Rhode Island, 
+ST US, BG CIID sncincercsionsstitnsiceespnineslivsheiatinaniaiaidtiois 13 
+
+
+Central Hudson Gas & Elec. Corp. v. 
+Public Serv. Comm'n, 
+
+
+GET UB. GET CIID) cicansenseactssiciicinsibahestisiiinntiiniansten passim 
+Edenfield v. Fane, 
+BT TFS, TOE CR sanccacesnsiensilaciteindiceicasste acted teaaiasaas 8 
+
+
+FDA v. Brown & Williamson Tobacco Corp., 
+SD UE. UD GO vcenitnsecnnsinnecinsinliisatiaiioeininanctiabaninitel 3 
+
+
+Greater New Orleans Broadcasting Ass’n v. 
+United States, 
+Be UE, TA I vienccictsscetscnieiiinenaninianiain 7 
+
+
+Linmark Assocs., Inc. v. Township of Willingboro, 
+GRE UB, BB GT vecnscitncieinsistinitnistcaennie 12 
+
+
+Rubin v. Coors Brewing Co., 
+GR6 0) COO I onissesiessssssicnieeniinitiecadaiiacaiaaniaiiish 8 
+
+
+Village of Hoffman Estates v. Flipside, 
+Hoffman Estates, Inc., 
+GBS US. GBD CD cccniscincecienitcininhitanennsencenitincniainnan: 
+
+
+OTHER AUTHORITY 
+
+
+William Hamilton & Giulia Norton, 
+Independent Evaluation of the 
+Massachusetts Tobacco Control Program, 
+Abt Assocs. Inc. (1999), available at 
+
+
+http/www-state ma.us/dph/mtep‘report/abtrep.htm 
+
+
+Youth Tobacco Surveillance United States, 
+1998-99, CDC Surveillance Summaries, 
+Morbidity and Mortality Weekly Report, 
+
+
+12 
+
+
+ee ans: Bay, ED encenstintinsstvesacsinnisilaniiossninaalomceulicnsiic 4 
+
+
+This case (No. 00-597) is about the censorship of cigar 
+advertising - not cigarette advertising. The Attorney 
+General’s consolidated opposition brief (“Resp. Br.”), 
+however, utterly ignores the total lack of evidence that 
+cigar advertising affects youth cigar smoking; that the ban 
+on outdoor cigar advertising will materially reduce youth 
+use of cigars; or that the ban is narrowly tailored to address 
+the alleged harm caused to children by cigar advertising. 
+
+
+The Attorney General seeks to mask this lack of 
+evidence by using the generic term tobacco when describing 
+the record evidence that relates to cigarette — but not cigar 
+- advertising and its effects. He goes so far as to state, for 
+example, that “the FDA’s proposed rule would have 
+prohibited all outdoor tobacco advertising within 1,000 feet 
+of schoois and playgrounds,” Resp. Br. at 45 n.23, even 
+though the FDA expressly excluded cigar advertising from 
+its proposed ban. The FDA found no evidence to support 
+the need for, or effectiveness of, a ban on outdoor cigar 
+advertising. See Pet. Br. at 11. 
+
+
+Many of the briefs supporting the Attorney General 
+(such as that of the United States) similarly hide che 
+absence of any evidence of the effects of cigar advertising 
+behind broad references to “tobacco.” Several other amici, 
+however, filed briefs in the cigarette case but not this case, 
+indicating an awareness of the distinct issues in each appeal. 
+The only amicus brief that directly addresses cigar 
+advertising identifies no studies or other evidence showing 
+the effect of cigar advertising on youth cigar use, or that the 
+ban on outdoor cigar advertising would have any impact 
+whatsoever on youth cigar smoking. See Brief of Tobacco 
+Control Resource Center, Inc. (“TCRC Br.”). Rather, like 
+the Attorney General’s brief that it supports, the TCRC 
+Brief also persistently attributes to cigars study findings 
+relating only to cigarettes. For example, the TCRC 
+erroneously states that the Attorney General’s storefront 
+
+
+2 
+
+
+study shows there are more cigar advertisements in areas 
+close to schools than far away, thus supposedly proving that 
+cigar manufacturers employ aggressive sale practices to 
+lure minors with “expensive well-researched advertising 
+campaigns.” Jd. at 16. In fact, that study shows that 
+outdoor cigar advertisements were minuscule in number 
+relative to all advertisements and cigarette advertisements 
+— as the court of appeals noted, Pet. App. 3la - and indeed 
+that there were more cigar advertisements in areas farther 
+away from schools. See Pet. Br. at 10; see also C.A.J.A. 
+2424.1 
+
+
+ARGUMENT 
+
+
+I. THE ATTORNEY GENERAL HAS NOT 
+IDENTIFIED ANY EVIDENCE THAT THE 
+BAN ON CIGAR ADVERTISING WILL 
+DIRECTLY AND MATERIALLY REDUCE 
+YOUTH CIGAR SMOKING, AND THUS HAS 
+FAILED TO CARRY HIS BURDEN UNDER 
+THE THIRD PRONG OF CENTRAL HUDSON. 
+
+
+In their opening brief, Petitioners argued that the 
+record is devoid of any evidence establishing that cigar 
+advertisements contribute to youth cigar smoking, much 
+less that banning outdoor cigar advertising would 
+materially reduce youth cigar smoking. See Pet. Br. at 9-18. 
+The Attorney General’s response identifies no such 
+
+
+s The Attorney General observes that his failure to challenge the 
+truthfulness of cigar advertisements in his own motion for summary 
+judgment wouid not preclude him from raising the challenge later if that 
+judgment is reversed by this Court. Resp. Br. at 35 .n.17. That is 
+correct, but irrelevant, because the Attorney General’s failure to 
+challenge the truthfulness of cigar advertisements in opposition to 
+Petitioners’ motion for summary judgment has precisely that preclusive 
+effect. 
+
+
+3 
+
+
+evidence. Instead, the Attorney General attempts to 
+distract this Court from the complete and utter absence of 
+any such evidence by describing evidence with the generic 
+term “tobacco” rather than distinguishing cigars from 
+cigarettes. For example, 
+
+
+e the Attorney General refers repeatedly to findings 
+regarding “tobacco” advertising in the Surgeon 
+General’s reports, see Resp. Br. at 3, 4-5, 6-7, 39, 41, but 
+fails to mention that the cited portions of the Surgeon 
+General’s reports deal with cigarettes, cigarette 
+manufacturers and cigarette advertising, not cigars, see 
+J.A. 187, C.A.J.A. 1206-07, 1218;2 
+
+
+e the Attorney General asserts that the CDC and the 
+National Academy of Sciences have recommended 
+regulation of “tobacco” advertising, Resp. Br. at 5, but 
+in fact both the CDC and the National Academy of 
+Sciences addressed only cigarettes, not cigars, J.A. 177, 
+211; 
+
+e the Attorney General quotes this Court’s decision in 
+FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 
+120, 161 (2000), as recognizing that “tobacco use, 
+particularly among children and adolescents, poses 
+perhaps the single most significant threat to public 
+health in the United States,” Resp. Br. at 3, even though 
+that case involved the FDA’s attempts to impose 
+advertising bans on cigarettes and smokeless tobacco, 
+not cigars; 
+
+
+~ The brief submitted by the TCRC employs the same artifice, 
+particularly in reference to the 2000 Surgeon General’s report. The 
+TCRC Brief asserts that the Surgeon General has concluded that 
+“tobacco” advertising affects youth use, TCRC Br. at 9, and that the 
+Surgeon General advocates a “comprehensive plan to prevent tobacco use 
+by children,” TCRC Br. at 10, without revealing that the Surgeon 
+General’s report relates to cigarettes, not cigars, see J.A. 187. 
+
+
+4 
+
+
+e the Attorney General relies on a study following the 
+Master Settlement Agreement (the “MSA”) to suggest 
+that the density of “tobacco advertising” is particularly 
+high near schools, Resp. Br. at 7, but fails to mention 
+that the MSA and the study involved cigarettes, not 
+cigars, and that his own Operation Storefront study 
+shows that outdoor cigar advertising, nominal as it is, is 
+even less prevalent near schools than away from 
+schools, C.A.J.A. 2424;3 and 
+
+e the Attorney General refers to “the sheer volume and 
+repetition of tobacco advertising,” Resp. Br. at 41, but, 
+as the court of appeals acknowledged, “the advertising 
+of cigars is nearly nonexistent in comparison with the 
+pervasive promotion of cigarettes,” Pet. App. 31a; see 
+also C.AJ.A. 2424. 
+
+The TCRC Brief is also replete with misstatements of 
+surveys regarding the extent of youth use of cigars.4 In any 
+event, the TCRC’s reliance on such survey data completely 
+misses the point: Petitioners have not contested in this 
+appeal the substantial state interest in minimizing youth 
+use of cigars. But the TCRC (and the Attorney General) 
+
+
+3 The TCRC Brief repeatedly makes the same mistake. See, e.g., 
+TCRC Br. at 16, 19. 
+
+
+4 The TCRC, for example, claims that a report by the CDC - 
+which appears nowhere in the record - indicates that 41% of high school 
+students “tried cigar smoking” and 15.3% “regularly smoke cigars.” 
+TCRC Br. at 4 (citing Youth Tobacco Surveillance United States, 1998- 
+1999, CDC Surveillance Summaries, Morbidity and Mortality Weekly 
+Report, Vol. 49 (Oct. 13, 2000) (the “CDC Report”)). In fact, the CDC 
+Report indicated that 41.6% of high school students stated that they had 
+tried at least one puff of a cigar once in their lifetime. See CDC Report at 
+46. Further, the study reported that only 0.7% of high school students 
+stated they were “frequent” cigar users, as compared to 13.1% who 
+reported they were frequent cigarette users. See CDC Report at 54. 
+
+
+5 
+
+
+identify no evidence on the issue in contention: whether 
+outdoor cigar advertising appreciably affects youth cigar 
+use. 
+
+
+The Attorney General cites only one piece of evidence 
+that actually concerns cigars, referring to a statement in the 
+Smoking and Tobacco Control Monograph No. 9 (the “NCI 
+Monograph”). See Resp. Br. at 39 n.19.5 But the Attorney 
+General fails to acknowledge that the NCI Monograph does 
+not report that cigar advertising (let alone the outdoor cigar 
+advertising banned by the Attorney General) affects youth 
+cigar use. Precisely to the contrary, rather than finding any 
+evidence that cigar advertising causes youth smoking, the 
+NCI Monograph concludes that there is a need for 
+additional “(rjesearch to learn the extent to which 
+advertising and promotion for cigars . . . reaches and affects 
+kids.” C.A.J.A. 2799. It recognizes that “[oJnly a small 
+amount of conventional advertising appears for cigars.” 
+C.A.J.A. 2780. It does not report or suggest that outdoor 
+cigar advertising has contributed to increased youth cigar 
+smoking. Rather, it acknowledges that the dramatic 
+increase in cigar acceptability and consumption coincided 
+with the advent of Cigar Aficionado in 1992. See C.A.J.A. 
+
+
+5 This excerpt from the NCI Monograph stating that cigars are 
+being “heavily promoted in ways likely to influence adolescent use” is not 
+evidence that cigar advertisements - let alone outdoor cigar 
+advertisements - have had any effect on youth cigar consumption. 
+Instead, the NCI Monograph was referring to the broad spectrum of 
+cigar promotions in popular culture. See J.A. 239, 243; C.A.J.A. 2599- 
+2600. Indeed, the NCI’s assertion only highlights the irrationality of the 
+Attorney General’s attempt to ban the minuscule amount of outdoor cigar 
+advertisements, which the Operation Storefront study shows are in no 
+way targeted towards children, while allowing the much more prevalent 
+non-advertising cigar exposures to remain. See Pet. Br. at 17; C.AJ.A. 
+2424. 
+
+
+6 
+
+
+2796. It notes the increase in cigar dining and 
+entertainment, retail specialty tobacco shops, and cigar 
+bars. See C.A.J.A. 2779, 2789. It also notes that “[t]he 
+resurgence in popularity of cigars has been covered, and in 
+part fueled by, articles in newspapers.” C.A.J.A. 2791 
+(emphasis added). It thus finds that the cigar “promotional 
+activities” that may have increased smoking “are not 
+necessarily the result of activities by commercial interests.” 
+C.AJ.A. 2777. 
+
+
+The TCRC Brief attempts to gloss over the differences 
+between cigarette and cigar advertising by comparing the 
+relative percentages of the respective promotion budgets 
+that cigar and cigarette manufacturers reportedly spent on 
+point-of-sale advertisements. TCRC Br. at 7-8. But this 
+comparison is entirely irrelevant. The amount of cigar 
+advertisements and promotions is_ still utterly 
+inconsequential relative to cigarettes, as recognized by the 
+court of appeals, see Pet. App. 3la, the FTC, see C.A.J.A. 
+2544, 2874.04, and the FDA, see J.A. 227-28. Similarly, 
+while the TCRC cites a study of 100 stores in Worcester for 
+the proposition that 11% of tobacco advertising at retail 
+stores is devoted to cigars, TCRC Br. at 7, 19-20, it fails to 
+reveal the study’s critical finding that “(t]obacco 
+advertisements on the outside of stores are almost 
+exclusively for cigarettes.” C.A.J.A. 2478 (emphasis 
+added).® 
+
+
+When the mask of generic “tobacco” is stripped from the 
+Attorney General’s brief, it becomes clear that the Attorney 
+
+
+6 Despite the TCRC’s assertion, see TCRC Br. at 17, the FTC 
+consent decree does not contain any finding that cigar advertisements 
+were deceptive or misleading; likewise, the FTC did not encourage the 
+states to regulate cigar advertisements, see TCRC Br. at 8-9, but 
+rather merely stated that such regulations would not be preempted. 
+
+
+7 
+
+
+General’s argument reduces to an assertion that evidence 
+regarding cigarettes should suffice to support his ban on 
+cigar advertising. This is patently insufficient under the 
+third prong of Central Hudson Gas & Elec. Corp. v. Public 
+Service Commission, 447 U.S. 557 (1980). See Pet. Br. at 12- 
+13, 16-17. This Court requires evidence that banning the 
+specific type of advertising would further the State’s 
+interest. See, e.g., Greater New Orleans Broadcasting Ass’n 
+v. United States, 527 U.S. 173, 189 (1999). This is 
+particularly true given the significant and profound 
+differences established in the record between cigar and 
+cigarette advertising. See Pet. Br. at 9-11. Here, the 
+Attorney General has failed to identify any evidence that 
+outdoor cigar advertising (or indeed any cigar advertising) 
+contributes to youth cigar smoking or that the ban would 
+materially reduce youth cigar use. 
+
+
+Perhaps finally recognizing that his proffered cigarette 
+advertising evidence cannot support his cigar ban under 
+Central Hudson, the Attorney General argues that it would 
+be “irrationally inconsistent for Massachusetts to restrict 
+cigarette advertising” and not to restrict cigar advertising. 
+Resp. Br. at 40 n.21. -But there is nothing at all irrational 
+about such a policy if the evidence warrants that distinction. 
+It is perfectly rational to distinguish between a speech ban 
+that is shown to directly and materially advance a state 
+interest and to be narrowly tailored versus one) that is not. 
+Indeed, that is precisely what the FDA concluded in 
+deciding to regulate cigarette advertisements but not cigar 
+advertisements, J.A. 227-28; what Congress did in requiring 
+the Surgeon General to provide regular reports regarding 
+cigarette smoking but not cigar smoking, J.A. 187; and what 
+numerous amici (including the American Medical 
+Association, the American Heart Association, the American 
+Lung Association, and the American Cancer Society) did in 
+supporting only the cigarette restrictions here but not the 
+
+
+8 
+
+
+cigar restrictions. And, most importantly, this type of 
+distinction is exactly what Central Hudson requires: a 
+State cannot ban truthful, non-misleading commercial 
+speech unless it provides real evidence that banning the 
+speech will directly and materially advance the State’s 
+interest and is narrowly tailored. 
+
+
+Lacking any such evidence, the Attorney General 
+predictably makes a ple& for deference to his “common 
+sense.” See Resp. Br. at 38, 40. But such a plea is patently 
+insufficient even under intermediate scrutiny. See, e.g., 
+Rubin v. Coors Brewing Co., 514 U.S. 476, 490 (1995) 
+(holding that “anecdotal evidence and educated guesses” 
+were not “convincing evidence that the labeling ban ha(d] 
+inhibited [alcohol] strength wars” between beer 
+advertisers). As this Court has held, the State’s “burden 
+[under Central Hudson] is not satisfied by mere speculation 
+or conjecture; rather, a governmental body seeking to 
+sustain a _ restriction on commercial speech must 
+demonstrate that the harms it recites are real and that its 
+restriction will in fact alleviate them to a material degree.” 
+Edenfield v. Fane, 507 U.S. 761, 770-71 (1993) (holding that 
+Florida ban on in-person Solicitation by CPAs is 
+unconstitutional). While “common sense” arguably might 
+suggest that advertising could have some effect on 
+increasing overall consumption, as opposed to merely 
+affecting choice among competing brands, this would hardly 
+establish that banning cigar outdoor advertisements would 
+have a direct and material effect on youth consumption as 
+required under Central Hudson. Moreover, here “common 
+sense” dictates the exact opposite, i.e. that banning outdoor 
+cigar advertising would not materially decrease youth cigar 
+consumption, given (i) the extremely low prevalence of 
+cigar advertising; (ii) the fact that fewer outdoor cigar 
+advertisements are located in areas near to as opposed to 
+far from schools, as reported in the Attorney General’s own 
+
+
+9 
+
+
+Operation Storefront study, see C.A.J.A. 2424; and (iii) the 
+far greater prevalence of non-advertising images of cigars, 
+as reported in the NCI Monograph, see C.A.J.A. 2777-80, 
+2789, 2791, 2797. 
+
+
+Because he has no evidence that the ban on cigar 
+advertising will directly and materially advance the 
+Commonwealth’s interest in reducing youth smoking — the 
+interest on which the court of appeals relied - the Attorney 
+General. now asserts as a new and separate “substantial 
+interest[]” under Central Hudson his interest in supporting 
+federal, state, and parental efforts to reduce youth smoking. 
+Resp. Br. at 37. This adds nothing to his argument. There 
+is no evidence that banning cigar advertising will materially 
+advance federal, state or parental efforts to reduce youth 
+cigar smoking, because there is no evidence that banning 
+cigar advertising will materially reduce youth cigar 
+smoking. A contrary holding would suggest that, whenever 
+there is no evidence that a ban would materially advance 
+the State’s interest, the State can merely tweak the 
+argument and allege that the ban would help parents or a 
+governmental agency deal in some way with the issue, thus 
+emasculating the First Amendment protections that the 
+Central Hudson standard is intended to safeguard. To the 
+extent that the Attorney General now seeks instead to 
+define his interest as “limit{ing] . . . children’s exposure to 
+tobacco advertising,” Resp. Br. at 37 -— in order to escape 
+the consequence of the absence of evidence that cigar 
+advertising affects youth cigar smoking - this argument 
+also fails from its own weight. Unlike obscenity, for which 
+the receipt of the speech itself constitutes the harm, the 
+asserted harm from cigar advertising lies entirely in its 
+effects on the viewer’s conduct and choices: cigar 
+advertising can be banned only if the Attorney General 
+establishes that such a ban would directly and materially 
+
+
+10 
+
+
+reduce youth cigar smoking.’ Because the Attorney 
+General has no evidence that the ban would accomplish that 
+goal, the ban cannot survive intermediate scrutiny. 
+
+
+IT. THE ATTORNEY GENERAL HAS NOT 
+
+IDENTIFIED ANY EVIDENCE THAT THE 
+
+BAN ON OUTDOOR CIGAR ADVERTISING IS 
+
+REASONABLY TAILORED TO SERVE THE 
+
+COMMONWEALTH’S INTEREST, AND THUS 
+
+HAS FAILED TO CARRY HIS BURDEN 
+
+UNDER THE FOURTH PRONG OF CENTRAL 
+HUDSON. 
+
+In their opening Brief, Petitioners emphasized the lack 
+
+of any evidence that the 1000-foot ban is appropriate for 
+
+cigar advertising, particularly given that outdoor cigar 
+
+
+7 The Attorney General also makes no attempt to respond to the 
+record evidence that cigar self-service displays serve as a critical 
+means of communication between cigar manufacturers and consumers; 
+i.e., that these displays are a form of commercial speech. See Pet. Br. 
+at 23 n.9. Cigar self-service displays are thus fundamentally unlike the 
+drug paraphernalia banned in Village of Hoffman Estates v. Flipside, 
+Hoffman Estates, Inc., 455 U.S. 489 (1982), upon which the Attorney 
+General exclusively relies, Resp. Br. at 47 n.26. See 455 U.S. at 497 n.8 
+(plaintiff there “did not assert that its manner of placement was 
+motivated in any part by a desire to communicate informatica to its 
+customers”). The TCRC’s attempt to justify the ban on cigar self- 
+service displays is similarly unavailing. The CDC Report 
+demonstrates that theft is minimal and that the great bulk of youth 
+access to cigars does not come from theft from self-service displays. 
+See CDC Report at 6-7, 23, 70 (only 0.7% of high school student 
+reported having stolen a cigar, i.e., 4.8% of the 15.3% of high school 
+students who had reported using a cigar at least once in the month 
+before the study obtained cigars by theft). The CDC Report does not 
+even state that this minuscule amount of theft was from retail self- 
+service displays. See CDC Report at 23, 70. 
+
+
+11 
+
+
+advertisements in Massachusetts are minuscule in number 
+and not concentrated near schools. Pet. Br. at 20-23. The 
+Attorney General offers no direct response. Instead, the 
+
+
+Attorney General once again relies entirely on evidence 
+relating to cigarette advertising. For example: 
+
+
+the Attorney General points to the advertising 
+restrictions agreed to in the Master Settlement 
+Agreement, see Resp. Br. at 42 n.22, even though 
+cigar advertising was not considered in, hor were 
+cigar manufacturers parties to, the MSA;8 
+
+
+the Attorney General relies repeatedly on the 
+FDA report, inaccurately claiming that the 
+“FDA’s proposed rule would have prohibited all 
+outdoor tobacco advertising within 1,000 feet of 
+schools and playgrounds,” Resp. Br. at 45 n.23, 
+even though the FDA chose to exclude cigar 
+advertising due to the differences between the 
+marketing of cigars wail cigarettes, and the lack 
+of sufficient evidence to support a ban on outdoor 
+cigar advertising, J.A. 227-28; and 
+
+
+the Attorney General focuses on alternative 
+means of communication supposedly available to 
+large cigarette manufactures, such as 
+advertising in “magazines, newspapers, direct 
+mail or other media,” Resp. Br. at 43, ignoring 
+that the ban on cigar advertising will completely 
+prevent local cigar retailers like Peretti from 
+communicating with adults passing by, an 
+audience that cannot be reached by magazine or 
+
+
+8 That the cigarette manufacturers agreed to such restrictions in 
+settlement of claims in no way indicates that even the MSA’s 
+restrictions on advertising of cigarettes, much less cigars, are narrowly 
+tailored. 
+
+
+12 
+
+
+newspaper ads even if local retailers could afford 
+them. 
+
+
+The Attorney General also fails to respond in any way to 
+Petitioners’ argument that, before resorting to an 
+advertising ban, he should seek to accomplish his goals 
+without censorship. For example, the Commonwealth has 
+touted its targeted campaign of counter-speech to reduce 
+youth cigarette smoking. See, e.g., C.A.J.A. 673, 675-76. 
+But, as Petitioners noted in their opening Brief and the 
+Attorney General did not dispute, there is no evidence that 
+the Commonwealth has used such counter-speech efforts to 
+reduce youth cigar smoking with anything close to the same 
+focus and intensity. See, eg., Linmark Assocs., Inc. v. 
+Township of Willingboro, 431 U.S. 85, 97 (1977) (suggesting 
+that the state use counter-speech rather than speech 
+restrictions to advance its interests). Indeed, there is no 
+evidence that the Attorney General has used available 
+enforcement mechanisms with equal effort against youth 
+cigar smoking as against youth cigarette smoking. A key 
+illustration of this is the 31,600 Massachusetts tobacco sting 
+operations referenced in the TCRC Brief, TCRC Br. at 11, 
+all of which involved cigarettes, not cigars. See William 
+Hamilton & Giulia Norton, Independent Evaluation of the 
+Massachusetts Tobacco Control Program, Abt Assocs. Inc. (1999), 
+available at http://www.state.ma.us/dph/ntcp/report/abtrep.htm, 
+at http//www.state.ma.us/dph/mtcp/report/abtrep2,htm p.11. 
+Similarly, the Attorney General should have allowed time 
+for the various new enforcement mechanisms, see Resp. Br. 
+at 8, to take effect before resorting to banning speech. 
+Having failed first to try these non-censorship alternatives, 
+the Attorney General’s ban on constitutionally-protected 
+cigar advertisements violates the fundamental principle of 
+law that a state may not “choose suppression over a less 
+
+
+speech-restrictive policy.” 
+Island, 517 U.S. 484, 509 (1996).9 
+
+
+13 
+
+
+44 Liquormart, Inc. v. Rhode 
+
+
+9 The Attorney General’s half-hearted argument that the ban on 
+cigar advertising could survive strict scrutiny, see Resp. Br. at 49-50, 
+depends on a misguided reliance on cases involving obscenity, in which 
+the viewing or hearing of offensive speech is itself the harm to be 
+prevented. This reasoning is inapplicable here, where viewing the 
+proscribed commercial advertising is not in itself harmful, but instead 
+is sought to be banned for its effects on viewers’ choices and conduct. 
+In these circumstances, any supposedly negative effects can be 
+combated with counter-speech. 
+
+
+14 
+CONCLUSION 
+
+
+In resisting the application of strict scrutiny, the 
+Attorney General and his amici have argued that 
+intermediate scrutiny under Central Hudson is sufficiently 
+rigorous to protect the First Amendment concerns of 
+commercial speakers. But if Central Hudson has any rigor 
+at all, the Attorney General must provide real evidence to 
+support his ban on constitutionally protected speech. He 
+has failed in that, and the ban on cigar advertising should 
+therefore be struck down as lacking any evidentiary basis. 
+The judgment of the court of appeals should be reversed. 
+
+
+Respectfully submitted, 
+
+
+RICHARD P. BRESS JAMES V. KEARNEY* 
+
+LATHAM & WATKINS CHRISTOPHER HARRIS 
+
+555 Eleventh Street, N.W. LATHAM & WATKINS 
+
+Suite 1000 885 Third Avenue 
+
+Washington, D.C. 20004-1304 Suite 1000 
+
+(202) 637-2200 New York, New York 10022 
+(212) 906-1200 
+
+
+Counsel for Petitioners 
+
+
+*Counsel of Record 
+
+
+April 18, 2001 
+
+

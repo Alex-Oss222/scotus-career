@@ -1,0 +1,160 @@
+{
+  "status": "pass",
+  "completed_events": 15,
+  "records": [
+    {
+      "record": "Duncan_v_Walker_merits_2001-06-18.md",
+      "sha256": "2cd2f66040c75d47bd3d13d5fdcd4ee205f12b0432c898ce30092a51058a8928",
+      "normalized_text_sha256": "f5d20b2616cfc09c78c43c8e9349e1282d3c1efabe2c0b1cc3066013e8bdfea4",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "068fde29a995583e5cb831095bea82d0a2f388f894a6c7b0ea96362c06bcaf7d",
+      "case": "Duncan v. Walker; No. 00-121; 533 U.S. 167.",
+      "event": "Merits decision; 2001-06-18; OT2000 chunk 8.",
+      "result": "The judgment of the Second Circuit is reversed and the case remanded, 7-2."
+    },
+    {
+      "record": "Freiler_v_Tangipahoa_Parish_Board_of_Education_merits_2001-06-18.md",
+      "sha256": "83f3fd64ddfa63424b4693081ef4be8b70b04cb67649523750967a0aaac2b3c8",
+      "normalized_text_sha256": "2eaefd43dc31c270b6cc4c1d91d104e1e8649cc16cd1555e8f939d4c7849503a",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "8dbb54c4d7d8da4822aa3448ceacace42a1441f7071228d1eb23b98b789d8c50",
+      "case": "Freiler v. Tangipahoa Parish Board of Education; 185 F.3d 337; Fifth Circuit Nos. 97-30879 and 98-30132.",
+      "event": "Merits decision; 2001-06-18; OT2000 chunk 8.",
+      "result": "The judgment sustaining the injunction against the mandatory disclaimer is affirmed, 6-3."
+    },
+    {
+      "record": "Idaho_v_United_States_merits_2001-06-18.md",
+      "sha256": "aad8c9658f03fbebceb3ebcfd5f97e98b15757db08e91bb23b8971b951b6f6e6",
+      "normalized_text_sha256": "555c8773f96d47b782a87a14ab894c1436d4f0611469f5f93a666b1337168887",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "bfdaaa9827d62c228b1888d4b405de7129018fe7ba0e20a09bee76728b8d7c0b",
+      "case": "Idaho v. United States; No. 00-189; 533 U.S. 262.",
+      "event": "Merits decision; 2001-06-18; OT2000 chunk 8.",
+      "result": "The Ninth Circuit judgment sustaining the geographically bounded trust-title decree is affirmed, 6-3."
+    },
+    {
+      "record": "Calcano_Martinez_v_INS_merits_2001-06-25.md",
+      "sha256": "6eee4a475e82b3505c492e829bd735307856711981d35e62cccb8864bd920311",
+      "normalized_text_sha256": "b14936bec72f2dfbd0bd2313e0efeaec46c435c8d9994c35de8709f7bba90013",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "fdbcc40c771ab504bed8487576ddd4224a036348355ff499a4d0bd1b82ab9610",
+      "case": "Calcano-Martinez v. INS, No. 00-1011; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-25; argued 2001-04-24.",
+      "result": "Affirmed, 6-3, without prejudice to independently proper \u00a72241 proceedings; unanimous ordinary-review-bar proposition."
+    },
+    {
+      "record": "FEC_v_Colorado_Republican_Federal_Campaign_Committee_merits_2001-06-25.md",
+      "sha256": "4d87e70326f8f07be843a895f5b1dd1ed4bee581e229e64dd465487d7653b231",
+      "normalized_text_sha256": "41693991bb0533d7cf3e11689450f673c3a6d72a139b8293eff0145ebb2c37e1",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "269a1064b3004067190028458e83fadf50264b1775c6f27bac596aeabb656bd2",
+      "case": "FEC v. Colorado Republican Federal Campaign Committee, No. 00-191; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-25; argued 2001-02-28.",
+      "result": "Reversed and remanded, 6-3; categorical facial exemption rejected, independent-advertisement judgment preserved."
+    },
+    {
+      "record": "INS_v_St_Cyr_merits_2001-06-25.md",
+      "sha256": "2fb9dbfa1c90946d2610c51dc8610c025259de3a6a040f5994f9c94c02ab08b5",
+      "normalized_text_sha256": "c675c57794eb66374929d7964f102a21c34a086a8950af79f801d788070fbb45",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "667bc28e2a70b961b20377b01b46b5e90156d2847daeeefb765eeaa4e9730290",
+      "case": "INS v. St. Cyr, No. 00-767; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-25; argued 2001-04-24.",
+      "result": "Affirmed, 7-2; unanimous present jurisdiction application, seven-Justice eligible-plea temporal rule and agency-consideration remedy."
+    },
+    {
+      "record": "KDM_v_Reedsport_School_District_merits_2001-06-25.md",
+      "sha256": "8de7cebb8612271c9168f98343524a784fea40a69b3924bdb7ca973fe71a7fcf",
+      "normalized_text_sha256": "e3d47886e1a90db83991d2f2101b164de2cf917826b9da102377118f74ea40d8",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "4861d7234f35a52a1047c06f63cd9e1bb7a74353803d125032b8a049b29b6ed9",
+      "case": "K.D.M. v. Reedsport School District; Ninth Circuit judgment, 196 F.3d 1046; Supreme Court docket unassigned; OT2000 chunk 8.",
+      "event": "Merits decision, 2001-06-25; no separate argument date supplied.",
+      "result": "Constitutional disposition reversed and remanded, 6-3; constitutional Parts I\u2013II six joins, complete remedial Part III five joins."
+    },
+    {
+      "record": "Nevada_v_Hicks_merits_2001-06-25.md",
+      "sha256": "285c162333dbfd151a0a91158a7271b84ebcad74e238d5986a5a42081daf3b81",
+      "normalized_text_sha256": "403cd5864b2a33d9aad7aa6bd68a81939d4b4ab47d61ad4a034606c9adef1a29",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "fed5de30a7f0cd7a9a96a6ed8b6cf5068e486aa167582201be0dc6fa251eb01a",
+      "case": "Nevada v. Hicks, No. 99-1994; OT2000 chunk8.",
+      "event": "Merits decision, 2001-06-25; argued 2001-03-21.",
+      "result": "Reversed and remanded; five reject tribal tort authority, seven reject the \u00a71983 forum, with distinct contrary remands and Stone's partial affirmance."
+    },
+    {
+      "record": "New_York_Times_Co_v_Tasini_merits_2001-06-25.md",
+      "sha256": "a9bc05dbfdadce7c197c7ac5adc24eed86c6f36bf60b8742b4c902c2cfe72955",
+      "normalized_text_sha256": "ff1061746a4438fbb405011d558751ea6840ba4217bbc02b8846f4639aee2eca",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "f2ed485913096bfa9ee4c60ae065cc1c6feddf2be8757e6041b0dc438d5d0aca",
+      "case": "New York Times Co. v. Tasini, No. 00-201; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-25; argued 2001-03-28.",
+      "result": "Affirmed, 7-2; seven-Justice contextual revision rule rejects the defense for all three products; individualized relief remains below."
+    },
+    {
+      "record": "United_States_v_United_Foods_Inc_merits_2001-06-25.md",
+      "sha256": "f2a8afc6252db906d74e529ecb5b0ab5ba35ab06ea3bd88df35ccbadad6a07ee",
+      "normalized_text_sha256": "b9461f2023c61d558a66575cd35968a2aece55de4e31bfbbdc828c99cb2a5936",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "e7645d7fc8b9d17e63337e0f3596f3f549ee11faf95fa77b8ac33ff8d70ba2ee",
+      "case": "United States v. United Foods, Inc., No. 00-276; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-25; argued 2001-04-17.",
+      "result": "Affirmed, 6-3; challenged compulsory private advertising obligation rejected with bounded statutory and remedial implementation."
+    },
+    {
+      "record": "Adair_v_Sherman_merits_2001-06-27.md",
+      "sha256": "4d02c047e42d4f32fb251fd9dc050dd3eb3bc2ebbd5f0b78b5afda3bac94503a",
+      "normalized_text_sha256": "67c3d31ccdddb706bf1162490540ef60e2425d23ef6693191117c3b324f41a6d",
+      "assembly_receipt_digest_basis": "UTF-8 text after universal-newline reading; earlier assembly receipt uses this form",
+      "public_sha256": "a57791656af17a49708f9c16f494a67ec83f4b8651982cc1fd16d2b4defc28fc",
+      "case": "Adair v. Sherman; Seventh Circuit No. 99-1736, 230 F.3d 890; district-court No. 98 C 3946; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-27; no Supreme Court docket, argument or postgrant filing date is supplied.",
+      "result": "Vacated and remanded, 9-0, at the issue-preclusion scope; distinct statutory effects, defenses and unresolved FDCPA merits preserved."
+    },
+    {
+      "record": "Lorillard_Tobacco_Co_v_Reilly_merits_2001-06-28.md",
+      "sha256": "5007354d33fdf818752d35c3117d917ea4f7dbfa16d140d2178613ee6a0e0eb6",
+      "normalized_text_sha256": "db7853b244eee96d56ac8cbdf51cda881a47202c31934db46571a40bfda8d322",
+      "assembly_receipt_digest_basis": "Exact file bytes",
+      "public_sha256": "22dfab2f26fc5cc5efe4141f60e86a1aa0d30407108b88dcd6956645d49e9a04",
+      "case": "Lorillard Tobacco Co. v. Reilly and Altadis U.S.A. Inc. v. Reilly, Nos. 00-596 and 00-597; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-28; OT2000, chunk 8; argued 2001-04-25.",
+      "result": "Affirm in part, reverse in part, and remand; component coalitions and nonreach specified below."
+    },
+    {
+      "record": "Palazzolo_v_Rhode_Island_merits_2001-06-28.md",
+      "sha256": "2a4803bcead65bcdae6949b3a99c56514e3850e7581ef72dd3c4de771b94d021",
+      "normalized_text_sha256": "a2d5884e61e44a156aa100c4d238bceca9a38ca8e81581419f4a0cc89beeb4b0",
+      "assembly_receipt_digest_basis": "Exact file bytes",
+      "public_sha256": "66603caa9232fd65d6ac567144c7df456dc4e6d7e236a71c7cfaf86d39e18e09",
+      "case": "Palazzolo v. Rhode Island, No. 99-2047; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-28; OT2000, chunk 8; argued 2001-02-26.",
+      "result": "Affirm retained-use rejection of complete deprivation; reverse categorical barriers and remand, 5\u20134, with six direct joins to Parts I\u2013III."
+    },
+    {
+      "record": "Tyler_v_Cain_merits_2001-06-28.md",
+      "sha256": "cb60dba6db7fff6a9129623bc59f670028568a5375a0a952f04f0a206eabb795",
+      "normalized_text_sha256": "2f852db9ecd50e786752e1beec1e177beb7f23c82898b8a750be7d142131f291",
+      "assembly_receipt_digest_basis": "Exact file bytes",
+      "public_sha256": "e11bcf7a8e55c900e2855c3ef090fa14ae8b0ba40af76f703e72a2ad85ddf0fa",
+      "case": "Tyler v. Cain, No. 00-5961; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-28; OT2000, chunk 8; argued 2001-04-16.",
+      "result": "Reverse and remand, 5\u20134; the confined Supreme-Court-retroactivity condition is met, with separate merits review remaining."
+    },
+    {
+      "record": "Zadvydas_v_Davis_and_Ashcroft_v_Ma_merits_2001-06-28.md",
+      "sha256": "9b164688fdbd724ccdb5e9efea263010b6c3d8c498a2bb3b354f5704f450622c",
+      "normalized_text_sha256": "c5cd7b12eb9c62220dd6872e2f5ceaa6652bcd6f35868783af4a33146526c2fa",
+      "assembly_receipt_digest_basis": "Exact file bytes",
+      "public_sha256": "f748c61b6f60a75f064d275b45cfed0a592a434056a6cbf2ca46d2245ea8f1e6",
+      "case": "Zadvydas v. Davis and Ashcroft v. Ma, Nos. 99-7791 and 00-38; OT2000, chunk 8.",
+      "event": "Merits decision, 2001-06-28; OT2000, chunk 8; argued 2001-02-21.",
+      "result": "Vacate and remand both appellate judgments, each 6\u20133; five directly adopt the qualified six-month implementation."
+    }
+  ],
+  "errors": [],
+  "digest_note": "Both exact current file bytes and universal-newline text digests are recorded. Earlier assembly receipts used text digests; June 28 receipts used file-byte digests. Each receipt must match its actual representation. The Public Projection also matches the generated handoff at the byte level.",
+  "repository_verification": "Deferred to operator; no repository commands run by this check.",
+  "public_render": "Not generated by Run."
+}

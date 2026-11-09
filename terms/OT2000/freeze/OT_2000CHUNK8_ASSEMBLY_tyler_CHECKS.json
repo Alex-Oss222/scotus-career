@@ -1,0 +1,47 @@
+{
+  "case": "tyler",
+  "record": "terms/OT2000/records/Tyler_v_Cain_merits_2001-06-28.md",
+  "sha256": "cb60dba6db7fff6a9129623bc59f670028568a5375a0a952f04f0a206eabb795",
+  "public_sha256": "335c07a894d93539e32f8e86cf54d2c2305196948f37ee393484856803cb1ee2",
+  "exact_first_four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identity": true,
+  "explanation_words": [
+    {
+      "holding": "I. Supreme Court holdings may necessarily establish retroactivity together",
+      "words": 172
+    },
+    {
+      "holding": "II. The verdict-wide reasonable-doubt rule has the required retroactive status",
+      "words": 229
+    },
+    {
+      "holding": "III. Passage through this gate requires merits review, not automatic relief",
+      "words": 177
+    }
+  ],
+  "local_links_resolve": true,
+  "text_hygiene_pass": true,
+  "assignment_receipt": "terms/OT2000/freeze/OT_2000CHUNK8_ASSIGNMENT_tyler.json",
+  "substantive_compatibility": "Final frozen commitments and approved Stone core preserved; no post-reconciliation Associate change.",
+  "integration_status": "Per-case assembly checks complete; coordinated workspace and term checks belong to root integration.",
+  "assembly_validation_clarification": {
+    "preserved_initial_bytes": "terms/OT2000/tmp/chunk8_tyler_initial_assembly_before_public_validation.md",
+    "initial_sha256": "22d7a4506af8985f37e583427479803760964cc9832e611465a6667e8bc0778b",
+    "change": "Removed three public source-verification and collection references while preserving the unpublished judgment, briefing-defined questions and actual lawful-basis requirement.",
+    "holdings_opinion_tables_and_assignment_unchanged": true,
+    "prior_assignment_sources": "Zadvydas counted the identical opinion tables and assignment statements. Its count timing is unchanged."
+  }
+}

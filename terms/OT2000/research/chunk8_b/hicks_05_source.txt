@@ -1,0 +1,2700 @@
+Buprene aay 
+F I L I j 
+Nev 30 Deev a) NOV 3 0 2000 
+No. 99-1994 Seo : 
+
+
+IN THE 
+Supreme Court of the Gnited States 
+
+
+STATE OF NEVADA; WILLIAM MOLINI; RICH ELLINGTON; 
+MICHAEL SPENCER; BILL FITZMORRIS, 
+Petitioners, 
+¥; 
+
+
+FLOYD HICKS; TRIBAL COURT IN AND FOR THE FALLON 
+PAIUTE-SHOSHONE TRIBES; JOSEPH VAN WALRAVEN, HON., 
+Respondents. 
+
+
+On Writ of Certiorari To The United States Court 
+of Appeals For The Ninth Circuit 
+
+
+BRIEF FOR PETITIONERS 
+
+FRANKIE SUE DEL PAPA Of Counsel: 
+Attorney General of the JEFFREY S. SUTTON 
+
+State of Nevada Jones, Day, Reavis & Pogue 
+C. WAYNE HOWLE 1900 Huntington Center 
+(Counsel of Record) 41 South High Street 
+Senior Deputy Attorney Columbus, Ohio 43215 
+
+General (614) 469-3855 
+PAUL G. TAGGART 
+Deputy Attorney General Counsel for Petitioners 
+
+
+100 North Carson Street 
+Carson City, NV 89701-4717 
+(775) 684-1227 
+
+
+eee SFL en ee ow 
+
+
+QUESTIONS PRESENTED 
+
+
+(1) Does the sovereign immunity of the State of Nevada, or 
+the state-law immunity of its officers, bar tribal court 
+jurisdiction in actions alleging tribal-law claims and claims 
+based on 42 U.S.C. § 1983 against individually-named state 
+officials, for official actions taken in Indian country with 
+express permission of a tribal judge? 
+
+
+(2) Is a decision on the question of tribal court jurisdiction 
+over state officials properly bifurcated, with consideration 
+of the tribal court’s jurisdiction separated from, and 
+antecedent to, a decision on the officials’ claims of 
+sovereign and qualified immunity? 
+
+
+(3) Does the rule of Montana v. United States, 450 U.S. 
+544 (1981), creating a presumption against tribal court 
+jurisdiction over non-members, apply to these lawsuits, and 
+if so does it permit them? 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ....................... i 
+BAees OF AUTHIORITICS .. 2... eee cence Vv 
+MO IE i eva c ice cei ntkluncns ] 
+IERIE a Atay Seay ae econ ee ea ee l 
+
+
+CONSTITUTIONAL PROVISIONS, TREATIES, 
+STATUTES, ORDINANCES, AND REGULATIONS .. 1 
+
+
+I eRe es Ce bt lg a4 FR kes | 
+SUMMARY OF ARGUMENT .................... 6 
+Nie he cg yn oe ey Vack 2s 9 
+
+
+I. THE SOVEREIGN IMMUNITY OF THE STATE 
+OF NEVADA BARS TRIBAL COURT 
+JURISDICTION OVER INDIVIDUALLY 
+NAMED STATE OFFICIALS FOR OFFICIAL 
+ACTIONS TAKEN IN INDIAN COUNTRY ...... 9 
+
+
+A. Nevada's Immunity From Suit Precludes 
+Tribal Claim Against State Officials In 
+I on ee ee ce vs ew oes 10 
+
+
+1. The Terms Of The Constitution And 
+The Framer’s Understanding Do Not 
+Support The Tribal Law Claims ........ 10 
+
+
+lil 
+TABLE OF CONTENTS (con’t) 
+
+
+History And The Dual-Sovereign 
+
+Structure Of The Constitution Do 
+
+Not Support Tribal-Law Claims 
+
+Against State Officials ............... 13 
+
+
+Tribal Court Jurisdiction Over State 
+Officials Is Inconsistent With Limited 
+Trpal Sovereignty .................. 16 
+
+
+State Immunity Protects Individually 
+Named State Officials Sued In Tribal 
+NE cee ee tee ee eee ea a 20 
+
+
+Tribal Law Does Not Unambigu- 
+ously Abrogate State Immunity From 
+ee eek ee ae Roe x 22 
+
+
+B. The § 1983 Claim Must Be Dismissed ....... 24 
+
+
+1. 
+
+
+A Congressional Waiver Of States’ 
+
+Immunity In Tribal Courts Under 
+
+Federal Law Must Be 
+
+Unambiguously Expressed ............ 24 
+
+
+Section 1983 Does Not Create A Cause 
+Of Action Against State Officials 
+Enforceable In Tribal Courts .......... 25 
+
+
+Congress Lacks Authority To Create 
+Any Such Cause Of Action ........... 27 
+
+
+—_—-- ~ 
+
+
+AES RL ic 1 tn 
+
+
+II. 
+
+
+Il. 
+
+
+IV 
+TABLE OF CONTENTS (con’t) 
+
+
+STATE OFFICIALS’ CLAIMS OF SOVEREIGN 
+AND QUALIFIED IMMUNITY SHOULD BE 
+DECIDED TOGETHER WITH THE QUESTION 
+
+
+OF TRIBAL COURT JURISDICTION ......... 29 
+
+
+A. 
+
+
+Immunity Must Be Considered Along With The 
+Jurisdictional Determination .............. 31 
+
+
+1. This Court's Decisions Consider Immunity 
+As Part Of The Jurisdictional Inquiry .... 31 
+
+
+2. Tribal Immunity Is Treated As Part Of 
+The Jurisdictional Inquiry............. 32 
+
+
+The Tribal Court Exhaustion Rule Is Prudential, 
+And Policies Underlying It Do Not Support 
+The Independent Exhaustion Of Immunity .... 33 
+
+
+NEITHER MONTANA EXCEPTION TO 
+
+THE PRESUMPTION AGAINST TRIBAL 
+JURISDICTION OVER NONMEMBERS 
+
+SUPPORTS THE NINTH CIRCUIT’S 
+
+te, SE ae Im Arce rie TONE Ron tee fy 36 
+
+
+A. 
+
+
+Under Montana, The Tribe Lacks Jurisdiction 
+Over These State Officials In This Case...... 36 
+
+
+1. The Main Rule Of Presumption 
+Against Tribal Jurisdiction Applies 
+MOE xan a Vets Ieee es ees 36 
+
+
+2. Montana's First Exception Does Not 
+Dk pe i ee 36 
+
+
+v 
+
+
+TABLE OF CONTENTS (con’t) 
+
+
+3. Montana's Second Exception Does Not 
+ae te er ee tre! nets ie ee 
+
+
+B. Montana's Rule Applies To All Nonmember 
+Cases Without Reference To Land Status .... 
+
+
+1. Precedent Supports Montana's Broad 
+WOES © PN Ga ee naa ee yin eee 
+
+
+2. Subsequent Decisions Have Not Limited 
+The Montana Presumption............ 
+
+
+3. The Montana Rule Protects Inherent, 
+Retained Tribal Powers, Including 
+The Right To Exclude ............... 
+
+
+4. Tribal Adjudicatory Jurisdiction Should 
+Not Depend Upon Land Status In 
+I 6 Gee ke Gee eee 
+
+
+C. Montana Should Apply In This Case Because 
+The Tribe Approved The State Actions ...... 
+
+
+wR: rey care are mr Meas 5 Tere a) 
+
+
+39 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES 
+Page 
+
+Cases 
+Alden v. Maine, 527 U.S. 706 (1999) ........... passim 
+Anderson v. Creighton, 483 U.S. 635 (1987) .......... 5 
+Arizona Public Service Co. v. Aspaas, 69 F.3d 1026 
+
+Ny HUIS 300 Sg raculeovids ba sae ete eee ae 33 
+Atascadero State Hosp. v. Scanlon, 
+
+eee ee NOD 6. i eas oR Rhee ES 24 
+fare fers, 179 0.3. AS GS?) ....w es ce es 31 
+
+
+Benz v. Compania Naviera Hidelgo, 353 U.S. 138 (1957) 22 
+Bivens v. Six Unknown Federal Narcotics Agents, 
+
+
+og «le i): ) na ene ae eee 29 
+Blatchford v. Native Village of Noatak, 
+
+FO EE oo eR NS OS passim 
+Brendale v. Confederated Tribes & Bands of the 
+
+Yakima Indian Nation, 492 U.S. 408 (1989) .... 40, 44 
+Calderon v. Ashmus, 523 U.S. 740 (1998) ........... 32 
+Cameron v. Bay Mills Indian Community, 
+
+845 F. Supp 334 (W.D. Mich. 1994) ............. 33 
+Cherokee Nation v. Georgia, 30 U.S. 1(1831) ....... 17 
+Choctaw Nation v. United States, 119 U.S. 1 (1886) ... 19 
+Claflin v. Houseman, 93 U.S. 130 (1876) ........... 15 
+
+
+College Savings Bank v. Florida Prepaid Postsecondary 
+Education Expense Board, 527 U.S. 666 (1999) . 32, 38 
+
+
+Conn v. Gabbert, 526 U.S. 286 (1999) ............. 35 
+County of Oneida v. Oneida Indian Nation, 
+Pe I oso ke oan ce ea eee 1] 
+
+
+County of Yakima v. Confederated Tribes & 
+Bands of Yakima Indian Nation, 502 U.S. 
+
+
+I rile. oot x ee gl ee b's 0d ee woe 40 
+Dellmuth v. Muth, 491 U.S. 223 (1989) ............. 25 
+Duro v. Reina, 495 U.S. 676 (1990) ......... 14, 26, 40 
+Edelman v. Jordan, 415 U.S. 651 (1974)............ 21 
+
+
+El Paso Natural Gas Co. v. Neztsosie, 
+SETS ATI 5 oo ae 4] 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES (cont.'d) 
+
+
+Page 
+Escondido Mut. Water Co. v. La Jolla Band of Mission 
+
+Indians, 466 U.S. 765 (1984) .................. 17 
+Fisher v. District Court, 424 U.S. 382 (1976) ........ 19 
+Fletcher v. Peck, 10 U.S. (6 Cranch) 87 (1810) ....... 39 
+Florida Prepaid Postsecondary Educ. Expense Bd. 
+
+v. College Sav. Bank, 527 U.S. 627 (1999) ........ 24 
+Ford Motor Co. v. Dep’t of Treasury, 
+
+Re: ee ee re ee ae 22 
+Gregory v. Ashcroft, 501 U.S. 452 (1991) ........ 15, Z2 
+Hafer v. Melo, 502 U.S. 21 (1991) .............. 5, 29 
+Hans v. Louisiana, 134 U.S. 1 (1890) ........... 10, 14 
+Hardin v. White Mountain Apache Tribe, 
+
+fee pope ys 2, Le a | rr 33 
+Hodel v. Irving, 481 U.S. 704 (1987) .............. 43 
+Hunter v. Bryant, 502 U.S. 224 (1991) ............. 35 
+Idaho v. Coeur d'Alene Tribe of Idaho, 
+
+BEE V0 OE MOO ED: oh oe tn Oe woke wens 32 
+Imperial Granite Co. v. Pala Band of Mission 
+
+Indians, 940 F.2d 1269 (9th Cir. 1991) ........... 33 
+
+
+Towa Mut. Ins. Co. v. LaPlante, 480 U.S. 9 (1987) . 14, 34 
+Johnson & Graham's Lessee v. M'Intosh, 
+
+
+21 U.S. (8 Wheat.) 543 (1823) ................. 39 
+Jones v. Meehan, 175 U.S. 1 (1899) ............... 19 
+Jones v. United States, 120 S.Ct. 1904 (2000) ........ 27 
+Kennerly v. District Court of Montana, 
+
+i kB oS SN ane eee ae ee oe 19 
+Kimel v. Florida Ba. of Regents, 
+
+De a PE 5-6 ob vw Se CA e eS Re aa, Fa 
+Kiowa Tribe of Oklahoma v. Manufacturing 
+
+Technologies, Inc., 523 U.S. 751 (1998) ........ 8, 33 
+
+
+Larson v. Domestic & Foreign Commerce 
+CO Sar UB Ge Ue ok a eed ee ea 21 
+
+
+Vili 
+
+
+TABLE OF AUTHORITIES (cont.'d) 
+
+
+Page 
+
+McClendon v. United States, 
+
+Seo F.26 GZ? COUCH, BFGS) . we ee te 33 
+McCulloch v. Maryland, 17 U.S. 
+
+Py PD AN ok os hy ks eee 24 
+Merrion v. Jicarilla Apache Tribe, 
+
+CaP Aide AORTA dee h eee Pena ke 19 
+Mescalero Apache Tribe v. Jones, 
+
+Cee Ws POPE: ies Se See 19 
+Monroe v. Pape, 365 U.S. 167 (1961) .............. 27 
+
+
+Montana v. United States, 450 U.S. 544 (1981)... . passim 
+Montana v. Gilham, 932 F. Supp. 1215 (D. Mont. 
+
+
+1996), affd, 127 F.3d 897 (9th Cir. 1997) ......... 26 
+Morris v. Hitchcock, 194 U.S. 384 (1904) ........... 37 
+National Farmers Union Ins. Cos. v. Crow Tribe, 
+
+CFs Ge UP LUE ob vera ieas ss bs fee 8, 17, 34 
+Nevada v. Hall, 440 U.S. 410 (1979) ............. 5, 30 
+New Mexico v. Mescalero Apache Tribe, 
+
+er I oe ee es oe 17, 18 
+Oliphant v. Suquamish Indian Tribe, 
+
+er SOE a tae» eR ek passim 
+
+
+Pan American Company v. Sycuan Band 
+of Mission Indians, 884 F.2d 416 
+
+
+I Fer ee ee ee ea ees 33 
+Patsy v. Florida Bd. of Regents, 
+
+ee FF on ss nes ve Eee ee es es 27 
+Pennhurst State Sch. & Hosp. v. Halderman, 
+
+ee Wie WOU os ev bee ee euas 7, B, Zi, 2, 31 
+Port Auth. Trans-Hudson Corp. v. Feeney, 
+
+aE AOE 2 go Set ede iwi yeu oes 25 
+Principality of Monaco v. Mississippi, 
+
+Se: SCE os vk oe eck ees 11, 12 
+
+
+PPR EAS, Fae We. Wee IPO sheds Saas 15 
+
+
+ix 
+TABLE OF AUTHORITIES (cont.'d) 
+Page 
+
+
+Puerto Rico Aqueduct & Sewer Authority 
+v. Metcalf & Eddy, Inc., 506 U.S. 139 (1993) . 8, 31, 34 
+
+
+Rice v. Rehner, 463 U.S. 713 (1983) ............... 18 
+Roff v. Burney, 168 U.S. 218 (1897)... 2.2222... 18 
+Richardson v. McKnight, 521 U.S. 399 (1997) ....... 26 
+Santa Clara Pueblo v. Martinez, 436 U.S. 49 
+
+i DPR ees tere perce bs ry er 18, 28 
+Schooner Exch. v. McFadden, 11 U.S. 116 (1812) .... 22 
+Seminole Tribe v. Florida, 517 U.S. 44 (1996) .... passim 
+Siegert v. Gilley, 500 U.S. 226 (1991)... 22.0, 35 
+
+
+South Dakota v. Bourland, 508 U.S. 679 (1993) ... 18, 40 
+South Dakota v. North Carolina, 
+
+RR GT ane rer pe ere eee 12 
+Strate v. A-] Contractors, 520 U.S. 438 (1997) .... passim 
+United States v. Forty-Three Gallons of Whiskey, 
+
+
+Oe ee CE ia a ae eee een 19 
+United States v. Kagama, 118 U.S. 375 (1886) .... 16, 18 
+United States v. Nordic Village, 503 U.S. 30 (1992) ... 26 
+United States v. Quiver, 241 U.S. 602 (1916) ........ 19 
+
+
+United States v. Rogers, 45 U.S. (4 How.) 567 (1846) . 17 
+United States v. Wheeler, 435 U.S. 313 
+
+
+GREER ORE AD ed "20h ra ee Gren 17, 39, 40, 41 
+Washington v. Confederated Tribes of the Colville 
+
+Indian Reservation, 447 U.S. 134 (1980) ......... 37 
+Westfall v. Erwin, 484 U.S. 292 (1988) ............. 24 
+Will v. Michigan Dep't of State Police, 
+
+ee SN EE Oe ae are kk bet awa 8, 21, 25 
+Williams v. Lee, 358 U.S. 217 (1959) ........... 19, 37 
+Wilson v. Layne, 526 U.S. 603 (1999) .............. 35 
+Worcester v. Georgia, 31 U.S. (6 Pet.) 515 (1832) .... 41 
+
+
+Wyatt v. Cole, 504 U.S. 158 (1992) ................ 26 
+
+
+xX 
+
+
+TABLE OF AUTHORITIES (cont.'d) 
+
+
+Page 
+Constitutional Provisions and Statutes 
+of 9s" & 2S > ere ewer ry 15 
+ee Ce Oe Ba ring wad weal an 15 
+Of Ge ee 8 ee er err eee ea ae 14 
+Sh Be got OS Tepe ere gee reer ek 15 
+ib gs -# FY. «oo & eee reece re 15 
+Sk BN a EOE ks ok aw kt a ee ee 15 
+eR I ey ahap ile CR Rw ee es 15 
+ty Be Se Ra are re er een ae 15 
+Ce I is bs bee wk cee ee ee l 
+Oe ee i ee ea Vaden | 
+So ee Lk wwe ein bk aka eee 15 
+Pee, Ce OE I go vic nek ves eee nes ee 9 
+Indian Civil Rights Act, 25 U.S.C. §§ 1301-1341 ....... 4 
+oy ener an Cite eee s Rae l 
+I EE ores ks ae a pa pe sak aa ks as 38 25 
+Act of April 30, 1908, 35 Stat.85 .................. 3 
+, £5 2 2. sii: Genter a ere 3 
+ee i. ea tok k ass eek. 3 
+ee UR Es | ere ree 9 
+Sc Se SRO CO og ed vk ess ee es we 10 
+ge ere 9 
+me me RD re rere 9 
+Congressional History 
+H.R. Rep. No. 474, 23d Cong. (Ist Sess. 1834) ....... 14 
+Miscellaneous 
+1 W. Blackstone Commentaries .................... 9 
+The Federalist No. 24 (Alexander Hamilton) ......... 14 
+
+
+The Federalist No. 25 (Alexander Hamilton) ......... 14 
+
+
+xl 
+
+
+TABLE OF AUTHORITIES (cont.'d) 
+
+
+Page 
+
+
+Frank Pommersheim, "Our Federalism" 
+in the Context of Federal Courts and Tribal 
+Courts: An Open Letter to the Federal Courts’ 
+Teaching and Scholarly Community, 
+Ries Be ee rere er oe 
+Nancy Thorington, Civil and Criminal Jurisdiction 
+Over Matters Arising in Indian Country: 
+A Roadmap for Improving Interaction Among 
+Tribal, State and Federal Governments, 
+31 McGeorge L. Rev. 973 (2000) ............... 
+
+
+OPINIONS BELOW 
+
+
+The decision of the Fallon Tribal Court is reported at 20 
+Ind. Law Rept. 6038 (May 5, 1993). The Nevada Intertribal 
+Appellate Court decision is reported at 21 Ind. Law Rept. 
+6076 (May 13, 1994). 
+
+
+The opinion of the district court is reported at 944 F. 
+Supp. 1455 (D. Nev. 1996). The opinion of the Ninth 
+Circuit is reported at 196 F.3d 1020 (1999). 
+
+
+JURISDICTION 
+
+
+The Court of Appeals entered its judgment on March 9, 
+2000. Petitioners filed their petition for a writ of certiorari 
+on June 6, 2000. Jurisdiction in this Court exists under 28 
+U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISIONS, TREATIES, 
+STATUTES, ORDINANCES, AND REGULATIONS 
+
+
+The Tenth Amendment provides: 
+
+
+The powers not delegated to the United States by the 
+Constitution, nor prohibited by it to the States, are 
+reserved to the States respectively, or to the people. 
+
+
+U.S. CONST. amend. X. 
+The Eleventh Amendment provides: 
+
+
+The Judicial power of the United States shall not be 
+construed to extend to any suit in law or equity, 
+commenced or prosecuted against one of the United 
+States by Citizens of another State, or by Citizens or 
+Subjects of any Foreign State. 
+
+
+U.S. CONST. amend. XI. 
+STATEMENT 
+
+
+Just one noteworthy circumstance attended the routine 
+work performed in August 1990 by Nevada Game Warden 
+Michael Spencer: his search for evidence of poaching in 
+
+
+2 
+
+
+violation of state law occurred on an Indian reservation. 
+That fact, however, triggered a ten-year legal odyssey when 
+the subject of his search, a tribal member, sued him in tribal 
+court. It also triggered a remarkable federal court decision 
+authorizing tribal lawsuits against state employees. 
+
+
+The decision of the Ninth Circuit holds, for the first 
+time, that tribal courts may decide civil actions filed against 
+state officials under tribal law and 42 U.S.C. § 1983. To 
+reach this result, the court embraced several novel 
+principles: (1) tribal courts possess virtually plenary 
+authority, on a level with state and federal courts, (2) state 
+sovereignty does not bar tribal jurisdiction and is only an 
+affirmative defense, (3) tribal courts have jurisdiction to 
+enter civil rights judgments, including punitive damages, 
+against state officials, (4) tribal courts have jurisdiction over 
+nonmember defendants (including State officials) whenever 
+acts complained of occur on tribal land, (5) state officials’ 
+individual defenses are not jurisdictional in tribal court, and 
+(6) state officials claiming immunity in tribal court must 
+wait until the question of tribal jurisdiction is decided first, 
+before either the tribal court or federal court may address 
+their claims of immunity. 
+
+
+The Ninth Circuit’s decision would have been 
+remarkable enough if the defendants in tribal court had been 
+private individuals. But they were state officials carrying 
+Out traditional state functions. Yet the court analyzed this 
+matter as if no constitutional questions arise when state 
+officials assert sovereign and individual immunity from a 
+tribal court’s jurisdiction, so long as the tribal claimants 
+plead the cases as individual-capacity rather than official- 
+Capacity actions. This analysis initially overlooked, then 
+misapprehended, constitutional first principles about the 
+
+
+3 
+
+
+proper relationship among States, Indian Tribes and the 
+Federal Government.’ 
+
+
+Factual background. 
+
+
+The pedestrian origin of this case was a decision by 
+Nevada game wardens in 1990 and 1991 to execute a state 
+search warrant, approved by a tribal judge, on the Fallon 
+Paiute-Shoshone Reservation. Located sixty miles east of 
+Reno, the Reservation lies wholly within Nevada. It was 
+established by federal authority under the Act of April 30, 
+1908, 35 Stat. 85, and subsequent enactments. Pub. L. No. 
+95-337 (1978); Pub. L. No. 101-618 (1990). No treaties 
+pertain to its existence. 
+
+
+On two occasions, separated by a year’s time, Nevada 
+wardens seized different mounted bighorn sheep heads from 
+the reservation residence of tribal member Floyd Hicks. 
+The wardens believed the property to be evidence of off- 
+reservation poaching that violated state law. 
+
+
+Before seizing the heads, warden Michael Spencer 
+swore Out search warrants, see P. App. at E-1 to E-2 and F-3 
+to F-4, in a state court, then as a matter of comity obtained 
+approval from Tribal Judge Rebecca Harold to execute the 
+warrants on the reservation. P. App. at F-1 and G-1. Tribal 
+police officers accompanied the wardens when they 
+conducted the search. See Complaints in Case No. CV-091- 
+034, P. App. at H-7; and CV-FT-092-031, J. App. at 11. In 
+each case, the wardens seized a mounted bighorn sheep 
+head, which later proved not to be evidence of crime and 
+which in each instance was eventually returned. 
+
+
+1 Record references are made herein as follows: to the Joint Appendix 
+as J. App. at xxx; to the Petitioners’ Appendix, contained in the Petition 
+for Certiorari, as P. App. at xxx; otherwise to the Record, by docket 
+number of the district or circuit document, together with page 
+number(s), thus: Dist. R. at XX:xxx, Cir. R. at XX:xxx. 
+
+
+4 
+
+
+Hicks then sued Spencer in two separate actions and 
+named two other wardens and the administrator of the 
+Nevada Division of Wildlife in one of them. The suits were 
+brought in the same tribal court that had approved the 
+warrants. Hicks thus sued the State of Nevada as well as the 
+officials (hereinafter collectively “the State”) and sued the 
+individuals in both their individual and official capacities. 
+Hicks also sued the tribal judge and tribal police officers.’ 
+
+
+Hicks’ original claims sounded in tribal and common 
+law tort and also purported to rely on the Indian Civil Rights 
+Act (ICRA), 25 U.S.C. §§ 1301—1341, which makes most 
+provisions of the Bill of Rights applicable to tribal officials. 
+P. App. at H-1 to H-17, and J. App. at 8-21. He also raised 
+a federal constitutional claim, which the Ninth Circuit 
+presumed was a claim under §1983. 196 F.3d at 1023 n_1. 
+The complaints contained a welter of nonspecific claims: 
+e.g. “Spencer... did not give [Hicks] a copy of a Search 
+and Seizure Warrant,” P. App. at H-3; Spencer did not make 
+out a separate affidavit or written application to the tribal 
+judge, id. at H-4; the tribal judge did not approve a search of 
+the Hicks property, id. (compare tribal court “Order 
+Approving and Authorizing Execution of Search Warrant on 
+Tribal Reservation,” P. App. at F-1); a tribal judge may only 
+approve warrants in connection with felonious off- 
+reservation offenses, id.; the State did not have a reciprocal 
+agreement with the Tribe, id, H-4 to H-5; violation of due 
+process under ICRA, id. at H-6; a hearing should have been 
+held before the search was authorized, id.; Spencer did not 
+inform the justice of the peace of Hicks’ tribal membership, 
+id. at H-14. 
+
+
+Before seeking relief in federal court, Nevada litigated 
+the tribe’s jurisdiction for almost three years in tribal court. 
+From the inception, the officials raised the State’s and their 
+
+
+> Hicks’ case against the tribal officials was dismissed on a directed 
+verdict in 1993. See 20 Ind. L. Rept. 6091 (Fallon Tribal Court 1993). 
+
+
+5 
+
+
+own individual immunities as bars to the tribal court’s 
+jurisdiction. Their first brief in tribal court cited the then- 
+new decision in Blatchford v. Native Village of Noatak, 501 
+U.S. 775 (1991) (P. App. at J-3 to J-5), for their sovereign 
+immunity argument, and Anderson v. Creighton, 483 U.S. 
+635 (1987), for their individual defense. P. App. at J-5 to J- 
+6. A half year later, the tribal court required briefs on two 
+other decisions: Nevada v. Hall, 440 U.S. 410 (1979), 
+pertaining to sovereign immunity, and Hafer v. Melo, 502 
+U.S. 21 (1991), relevant to the question of individual 
+immunity defenses. See P. App. at K-1 to K-13. 
+
+
+In 1993, the trial court dismissed the actions for lack of 
+proper service. The State argued, and the tribal judge 
+agreed, that there was no tribal legislative authorization for 
+service of process against defendants located outside the 
+Reservation boundaries. See P. App. at L-1 to L-2. In 
+doing so, however, the trial court also expressly held that “it 
+is not prevented by doctrines of sovereign or qualified 
+immunity from lawfully exerting personal jurisdiction over 
+the specially appearing State Defendants in this action.” P. 
+App. at L-1. A three-judge appellate panel affirmed the tral 
+judge’s decision to dismiss Hicks’ actions because of a 
+defect in service. Dist. R. at 25:517-19. In August 1993 
+Hicks attempted to serve the complaint again. Once again, 
+however, the tribal court dismissed the action for improper 
+service. 
+
+
+Another three-judge appellate panel reversed the 
+dismissal, however. In doing so, it remanded the case “to 
+the Fallon Tribal Court to immediately set a trial date and 
+allow the Plaintiff's civil jury trials to be heard without 
+further delay consistent with this decision.” P. App. at C-S. 
+At the same time, it leveled the warning that “State 
+Defendants would do well to recognize that they have not 
+only been sued in their official capacity, but in their 
+individual capacity as weil.” Jd. 
+
+
+6 
+
+
+The State then filed an action in the Federal District 
+Court for the District of Nevada, seeking declaratory and 
+injunctive relief against the Tnbal Court, Tribal Judge 
+Joseph Van Walraven, and Floyd Hicks. The State argued, 
+as it had in tribal court, that the status of state officials 
+precluded tribal court jurisdiction over them. The district 
+court denied relief, determining that “the status of the state 
+defendants as state actors [does not] argue persuasively 
+against jurisdiction,” P. App. at B-15, and that the prior 
+dismissal of the official-capacity defendants mooted the 
+argument, P. App. at B-4 n.3. 
+
+
+The State appealed to the Ninth Circuit on October 29, 
+1996. On October 7, 1997, the case was argued and 
+submitted. Three days later, the case was withdrawn from 
+submission for two years. The case languished until it was 
+resubmitted on November 4, 1999, and eventually decided 
+on November 9, 1999. 
+
+
+In affirming the lower court, the Ninth Circuit 
+concluded that “the tribal court has subject matter 
+jurisdiction over the claims brought by Hicks against the 
+state officials.” P. App. at A-12. The Circuit also ruled that 
+the immunity questions were not exhausted in tribal court 
+and therefore were not properly before the district court or 
+the appeals court. P. App. at A-3. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Ninth Circuit erred in compelling four Nevada 
+officials to defend tribal-law and § 1983 claims in tribal 
+court. Neither the Constitution nor the inherent authority of 
+Indian Tribes empowers tribal courts to act contrary to 
+Nevada's carefully-delimited waivers of immunity for 
+official conduct of state employees. Instead, any relief 
+Hicks claims he was entitled to had to be pursued in state or 
+federal court. 
+
+
+i.a. Indian Tribes lack authority either to abrogate a 
+State's immunity from suit or to alter its officials’ state-law 
+
+
+immunity from suit. In contrast to the constitutionally- 
+based sovereignty of the States, Indian Tribes are domestic 
+dependent nations, whose courts (which did not come into 
+existence until the twentieth century) have traditionally 
+existed only to enforce tribal law governing the internal and 
+social relations of tribal members. Neither the text of the 
+Constitution, the plan of the convention, history nor 
+common sense indicates that Tribes may adjudicate causes 
+of action against state officials. Any exercise of judicial 
+power over state officials is inconsistent with the dependent 
+status of Tribes, and accordingly any such power—f it ever 
+existed—was divested by the plan of the convention. Just 
+as Blatchford v. Native Village of Noatak, 501 U.S. 775 
+(1991), rejected the contention that the Tribes’ “inherent 
+authority” permitted them to bring claims against States in 
+federal court, it is appropriate to reject here the more 
+anomalous contention that Indian Tribes have inherent 
+authority to decide causes of action against States and state 
+officials in tribal court under tribal law. 
+
+
+Nor may respondents circumvent state immunity by the 
+pleading expedience of naming state officials in their 
+individual rather than official capacity. An individual- 
+capacity lawsuit, like relief under Ex Parte Young, is a 
+creature of federal law and of the federal courts. No 
+justification exists for extending these extraordinary 
+doctrines beyond the extraordinary circumstances that gave 
+rise to them—the compelling need for a national forum to 
+vindicate federal rights. See Pennhurst State Sch. & Hosp. 
+v. Halderman, 465 U.S. 89 (1984) (refusing to apply Ex 
+Parte Young to claims filed against state officials in federal 
+court under state law). Neither doctrine applies, and neither 
+doctrine should be extended, to claims filed against state 
+officials in tribal courts. 
+
+
+b. Congress did not authorize § 1983 claims against 
+state officials to tribal court, and at any rate lacked the 
+power to do so. Nothing in the terms of § 1983 or the 
+
+
+8 
+
+
+history leading up to it contains any indication, least of all 
+an unambiguous one, see Will v. Michigan Dept. of State 
+Police, 491 U.S. 58 (1989), that Congress authorized such 
+actions. Indeed, tribal courts did not even exist when 
+Congress enacted the law. It is implausible that Congress 
+meant to cre ite a cause of action in a court that did not even 
+exist. Nor would Congress have such power, even if it 
+meant to exercise it. 
+
+
+2. The Ninth Circuit also erred in concluding that a 
+State’s immunity defense is not jurisdictional, and in failing 
+to ensure that it was addressed at the outset. See Puerto 
+Rico Aqueduct and Sewer Authority v. Metcalf & Eddy, Inc., 
+506 US. 139 (1993); Kiowa Tribe of Oklahoma vy. 
+Manufacturing Technologies, Inc., 523 U.S. 751, 754 
+(1998). The prudential considerations that normally require 
+exhaustion in tribal court, see National Farmers Union Ins. 
+Cos., 471 U.S. 845 (1985), do not apply to immunity 
+defenses raised by state officials in tribal courts. 
+
+
+3. Montana v. United States, 450 U.S. 544 (1981), 
+does not authorize Hicks’ claims. That decision creates a 
+presumption against tribal jurisdiction over nonmembers, a 
+presumption that applies with special force to tribal claims 
+against state officials—if indeed it does not categorically 
+prohibit such claims. See Oliphant v. Suquamish Tribe, 435 
+U.S. 191 (1978). Nor do either of the Montana exceptions 
+apply. In executing these search warrants, the Nevada 
+wardens were hardly “enter[ing] consensual relationships 
+with the tribe or its members, through commercial dealing, 
+contracts, leases, or other arrangements.” Montana, 450 
+U.S. at 565. And by executing the warrants with approval 
+of a tribal judge, and in the company of tribal officers, the 
+state officials did not engage in conduct that “threatens or 
+has some direct effect on the political integrity, the 
+economic security, or the health and welfare of the tribe.” 
+Id. at 566. 
+
+
+9 
+
+
+ARGUMENT 
+
+
+I. THE SOVEREIGN IMMUNITY OF THE STATE 
+OF NEVADA - BARS-~ TRIBAL COURT 
+JURISDICTION OVER INDIVIDUALLY NAMED 
+STATE OFFICIALS FOR OFFICIAL ACTIONS 
+TAKEN IN INDIAN COUNTRY. 
+
+
+Under the law of Nevada, as under the law of all 
+sovereigns, the State may not be sued except to the extent 
+and except in the manner that it has waived its immunity 
+from suit. Through its Legislature, Nevada has recognized 
+what the English monarchy did not—that the actions of 
+government officials performing public functions 
+occasionally warrant recompense and that monetary 
+recoveries thus occasionally may be drawn on the public 
+fisc. Compare | W. Blackstone Commentaries (describing 
+- the English common law maxim—“the King can do no 
+wrong”); NEV. REV. STAT. 41.031(i) (1999). See also NEV. 
+CONST. art 4, § 22 (authorizing legislature to waive 
+immunity). To these ends, Nevada grants carefully 
+delimited waivers of its immunity for claims against the 
+State itself and for claims against State officials performing 
+public functions. NEV. REV. STAT. 41.031(1) (1999). 
+Under this waiver, claims may be brought in Nevada state 
+court for monetary relief up to $50,000 per incident. NEV. 
+REV. STAT. 41.035(1) (1999). When suit is filed against a 
+state employee, Nevada law also requires the State to 
+provide representation through the Attorney General once 
+she “has determined that the act or omission on which the 
+action is based appears to be within the course and scope of 
+public duty or employment and appears to have been 
+performed . . . in good faith.” NEV. REV. STAT. 41.0339(2) 
+(1999). The Attorney General has made that determination 
+in this case. 
+
+
+By its terms, however, this waiver of immunity does 
+not extend to Hicks’ claims under tribal law and §1983 in 
+tribal court. Nevada expressly preserves its sovereign 
+
+
+10 ~ 
+
+
+immunity. NEV. REV. STAT. 41.031(3) (1999). In the face 
+of this constitutionally-protected assertion of immunity, see 
+Alden v. Maine, 527 U.S. 706 (1999), Hicks’ tribal court 
+claims must be dismissed and he (a Nevada resident) must 
+obey the same immunity limitations that all Nevada 
+residents must observe unless he can show, first, that the 
+relevant lawmaking body (the Tribe in one instance, the 
+federal government in the other) had the power to abrogate 
+this immunity from suit and, second, that it clearly intended 
+to do so. See Seminole Tribe v. Florida, 517 U.S. 44, 55 
+(1996). The Tribe and Hicks cannot fulfill either half of this 
+obligation, and accordingly the claims must be dismissed. 
+
+
+A. Nevada’s Immunity From Suit Precludes Tribal 
+Claims Against State Officials In Tribal Court. 
+
+
+This cause is of a piece with the “anomalous and 
+unheard-of proceedings or suits” against States that this 
+Court refused to recognize in Alden v. Maine, 527 US. at 
+727 (quoting Hans v. Louisiana, 134 U.S. 1, 18 (1890)). 
+The Fallon Tribal Court’s assertion of jurisdiction over state 
+officials, in any capacity when stemming from government 
+authorized business, is directly at odds with “history and 
+experience, and the established order of things.” /d. 
+
+
+In bringing these claims under tribal law, the tribal 
+respondents do not point to a federal statute that purports to 
+authorize them. They thus do not rely upon Article I, § 8, 
+U.S. Constitution, and do not claim that the Federal 
+Government has enacted legislation under the Indian 
+Commerce Clause empowering the Tribes to create these 
+causes of action against state officials carrying out state 
+functions. Instead, they claim “inherent” authority to do so. 
+
+
+1. The Terms Of The Constitution And The 
+Framers’ Understanding Do Not Support 
+The Tribal Law Claims. 
+
+
+The text of the Constitution, as an initial matter, offers 
+no refuge for this assertion of authority. The Indian 
+
+
+1] 
+
+
+Commerce Clause represents the only significant mention of 
+tribes in the Constitution. Yet it self-evidently does not 
+create this authority, but rather establishes that “Indian 
+relations [are] the exclusive province of federal law.” 
+County of Oneida v. Oneida Indian Nation, 470 U.S. 226, 
+234 (1985). 
+
+
+Nor can this assertion of inherent authority to preempt 
+state rules of sovereign immunity be squared with “the 
+founders’ understanding.” Alden, 527 U.S. at 734. In - 
+accord with that understanding, “[t]he States’ immunity 
+from suit is a fundamental aspect of the sovereignty which 
+the States enjoyed before the ratification of the Constitution, 
+and which they retain today . . . except as altered by the plan 
+of the Convention or certain constitutional amendments.” 
+Id. at 713. Indeed, “[e]ven when the Constitution vests in 
+Congress complete lawmaking authority over a particular 
+area, the Eleventh Amendment prevents congressional 
+authorization of suits by private parties against unconsenting 
+States.” Seminole Tribe, 517 U.S. at 72. Thus, the “States 
+of the Union, still possessing attributes of sovereignty, shall 
+be immune from suits, without their consent, save where 
+there has been a ‘surrender of this immunity in the plan of 
+the convention.”” Blatchford v. Native Village of Noatak, 
+501 U.S. at 781 (quoting Principality of Monaco y. 
+Mississippi, 292 U.S. 313, 322-23 (1934)). 
+
+
+Grounded in the Tenth and Eleventh Amendments, this 
+immunity applies both in federal and state courts, see Alden, 
+supra, and thus extends to actions in tribal courts because 
+the “plan of the convention” nowhere surrendered this 
+immunity. Blatchford, 501 U.S. at 782. The Court 
+confirmed this point nearly a decade ago. 
+
+
+In Blatchford, in 1991, the Court considered—and 
+rejected—a claim of inherent authority to strip the States’ 
+immunity from suit that is akin to the claim raised here. 
+There, an Indian Tribe claimed that the States’ “sovereign 
+immunity does not restrict suit by Indian tribes” against 
+
+
+12 
+
+
+States because the tribes themselves are “sovereigns.” 501 
+U.S. at 780. And there, as here, the Tribe claimed (id. at 
+782) that it was more analogous to a State, which may sue 
+another State, see South Dakota v. North Carolina, 192 U.S. 
+286, 318 (1904), than it was to a foreign sovereign, which 
+may not coerce non-consenting States to defend suits, 
+Monaco v. Mississippi, 292 U.S. 313 (1934). In rejecting 
+this argument, the Court reasoned: 
+
+
+What makes the States’ surrender of immunity from 
+suit by sister States plausible is the mutuality of that 
+concession. There is no such mutuality with either 
+foreign sovereigns or Indian tribes. We _ have 
+repeatedly held that Indian tribes enjoy immunity 
+against suits by States, Potawatomi Tribe, supra, at 
+509, as it would be absurd to suggest that the tribes 
+surrendered immunity in a convention to which they 
+were not even parties. But if the convention could not 
+surrender the tribes’ immunity for the benefit of the 
+States, we do not believe that it surrendered the States’ 
+immunity for the benefit of the tribes. 
+
+
+Blatchford, 501 U.S. at 782. 
+
+
+As Blatchford recognizes, waivers of state immunity 
+under the “plan of the convention” have. been recognized in 
+just two settings—suits by the United States and suits by 
+sister States. Having refused to extend such waivers of 
+immunity to claims by Indian Tribes in federal court in 
+Blatchford, the Court should refuse to recognize the more 
+anomalous claim raised here. Nothing immediately 
+preceding the plan of the convention and _ nothing 
+accomplished during it suggests that the Constitution 
+silently authorized States to be sued in tribal court. 
+
+
+Nor would tribal authority to abrogate state immunity 
+make constitutional sense. In Seminole Tribe of Fla. v. 
+Florida, 517 U.S. 44 (1996), the Court held that Congress 
+lacked authority under the Indian Commerce Clause to 
+
+
+. 
+— 
+
+
+13 
+
+
+subject non-consenting States to suit by Indian Tribes in 
+federal court. In Alden v. Maine, the Court held that 
+Congress lacked authority under the Commerce Clause to 
+subject non-consenting States to suit by individuals in state 
+court. And in Blatchford, the Court held that the 
+Constitution does not abrogate the States’ immunity from 
+suit by Indian Tribes in federal court. To permit the tribal 
+respondents’ claim under these circumstances and at this 
+late date would suddenly delegate to Indian Tribes a power 
+that Congress itself does not have and that the Constitution 
+does not permit. It strains credulity to suggest that the 
+States would have ratified a Constitution that permitted 
+tribal claimants to bring claims under tribal law in tribal 
+court that they could not bring under federal law in federal 
+court. 
+
+
+2. History And The Dual-Sovereign Structure 
+Of The Constitution Do Not Support 
+Tribal-Law Claims Against State Officials. 
+
+
+Not only does the text of the Constitution “specifically 
+recognize the States as sovereign entities,” Seminole Tribe, 
+517 U.S. at 71 n.15., and not only is state sovereignty a 
+“presupposition of our constitutional structure,” Blatchford, 
+501 U.S. at 779, but history and the structure of the 
+Constitution make implausible the notion that States and 
+their officials could be sued in tribal court. 
+
+
+In Blatchford the Court found no “compelling 
+evidence” that the Framers thought the States had waived 
+their immunity in federal court with regard to tribes when 
+they created the Constitution. Here the historical evidence 
+is even more compelling. It was at least plausible to ask in 
+Blatchford whether tribes might sue States in federal courts, 
+for federal courts at least were contemplated at the time of 
+the Convention. However, the same question regarding the 
+States’ waiver of immunity from tribal claims, though in 
+tribal rather than federal courts, is astonishing even in its 
+contemplation. “Tribal courts in the Anglo-American mold 
+
+
+14 
+
+
+were virtually unknown in 1789,” Jowa Mut. Ins. Co. v. 
+LaPlante, 480 U.S. 9, 17 (1987), when the nation was 
+founded. “[{MJost Indian tribes were characterized by a 
+‘want of fixed laws [and] of competent tribunals of justice.’ 
+H.R. Rep. No. 474, 23d Cong., Ist Sess., 18 (1834).” 
+Oliphant v. Suquamish Indian Tribe, 435 U.S. 191, 210 
+(1978). Only in the twentieth century have tribal courts 
+developed. See generally Duro v. Reina, 495 U.S. 676, 690- 
+91 (1990). Plainly there was no original intent to waive the 
+States’ immunity in tribal courts. 
+
+
+The founders, to be sure, did not expressly address suits 
+such as these. But their silence is best explained by the 
+simple fact that “no one, not even the Constitution’s most 
+ardent opponents, suggested the document might strip the 
+States of the immunity” in the manner proposed. A/den, 527 
+U.S. at 741. And just as in Alden, it might be productively 
+asked whether the States ever would have approved an 
+express provision setting forth a waiver of state immunity 
+that would allow tribal courts to exercise jurisdiction in the 
+manner contemplated by the lower federal courts. “The 
+supposition that it would is almost an absurdity on its face.” 
+$27 U.S. at 724 (quoting Hans at 14-15). 
+
+
+There also is no discernible historical record indicating 
+that States were meant to be subservient to, or regulated by, 
+tribes in any respect. The Commerce Clause, to be sure, 
+establishes federal authority over commerce with the 
+Indians. U.S. CONST. art. I, § 8, cl. 3. But it invites no 
+diminution of state sovereignty in favor of tribal courts, or 
+even federal courts. Any argument to the contrary is 
+foreclosed by Seminole Tribe, 517 U.S. 44. Tribes at the 
+time of the nation’s formation were viewed as threats to the 
+common security, not as participating sovereigns in a 
+national government. See The Federalist No. 24 (Alexander 
+Hamilton) (alluding to the “ravages and depredations of the 
+Indians”), and The Federalist No. 25 (Alexander Hamilton) 
+(discussing “Indian hostilities, instigated by Spain or 
+
+
+15 
+
+
+Britain”). These contemporaneous references to Indian 
+Tribes refute any notion that the founders intended to make 
+state sovereignty yield to tribal adjudicative powers. 
+
+
+The very structure of the Constitution that the Framers 
+innovated also undermines this claim. “It is incontestable 
+that the Constitution established a system of ‘dual 
+sovereignty,” comprised of state and federal sovereigns. 
+Printz v. U.S., 521 U.S. 898, 918 (1997) (quoting from 
+Gregory v. Ashcroft, 501 U.S. 452, 457 (1991)). This 
+bilateral structure permits no third berth for tribes. The 
+balance in the system is found in the reciprocity of influence 
+one sovereign has over the other. In particular, the 
+Constitution assumes the States’ “active participation in the 
+fundamental process of governance.” Alden v. Maine, 527 
+U.S. at 713. The States’ role is made express in one part of 
+the constitutional text after another. E.g. Article I, §§ 2 and 
+3; 17th Amendment; Article II, § 1; Article IV, § 3, cl. 1; 
+Article IV, § 4.; Article V; Article VII. 
+
+
+The Constitution's dual sovereignty also presupposes a 
+dual system of state and federal courts: 
+
+
+The two together form one system of jurisprudence, 
+which constitutes the law of the land for the State; and 
+the courts of the two jurisdictions are not foreign to 
+each other, nor to be treated by each other as such, but 
+as courts of the same country, having jurisdiction partly 
+different and partly concurrent. 
+
+
+Claflin v. Houseman, 93 U.S. 130, 137 (1876) (emphasis 
+added). No precedent, tradition or any historical material, 
+however, contemplates a role for tribal courts in this “one 
+system of jurisprudence.” The idea simply is foreign to the 
+binary system the Founders created. 
+
+
+Professor Pommersheim poses what he considers to be 
+the “essential quandary: Where do tribal courts fit within 
+contemporary federalism and what is the doctrinal 
+justification for the fit?” Frank Pommersheim, “Our 
+
+
+16 
+
+
+Federalism” In the Context of Federal Courts and Tribal 
+Courts: An Open Letter to the Federal Courts’ Teaching 
+and Scholarly Community, 71 U. CoLo. L. REV. 123, 149 
+(2000). The answer is that tribes do not fit into the 
+Constitution’s dual sovereignty at all. Neither the founders 
+nor the Court has given any indication that tribes should 
+hold a Constitutional status in parity with States and the 
+Federal Government. 
+
+
+As the Court has ultimately made clear: 
+
+
+Indians are within the geographical limits of the United 
+States. The soil and the people within these limits are 
+under the political control of the Government of the 
+United States, or of the States of the Union. There exist 
+within the broad domain of sovereignty but these two. 
+There may be cities, counties, and other organized 
+bodies with limited legislative functions, but they are 
+all derived from or exist in, subordination to one or the 
+other of these. 
+
+
+United States v. Kagama, 118 U.S. 375, 379 (1886). 
+
+
+To invite tribes to share this constitutional power would 
+introduce a destabilizing influence that precedent, history, 
+and common sense simply do not support. The symmetry 
+and mutuality of the Constitution would be lost if tribes 
+were given an organic role in this dual system of 
+government. 
+
+
+3. Tribal Court Jurisdiction Over State 
+Officials Is Inconsistent With Limited 
+Tribal Sovereignty. 
+
+
+Tribal adjudicatory jurisdiction over state officials is 
+also inconsistent with tribal sovereignty as defined by 
+federal law.’ “[T]he existence and extent of a tribal court’s 
+
+
+3 Tribes are not sui juris; their jurisdiction is a question of federal law. 
+“The question whether an Indian tribe retains the power to compel a 
+non-Indian . . . to submit to the civil jurisdiction of a tribal court is one 
+
+
+17 
+
+
+jurisdiction,” the Court has instructed, “require a careful 
+examination of tribal sovereignty [and] the extent to which 
+that sovereignty has been altered, divested, or diminished.” 
+National Farmers Union Ins. Cos. v. Crow Tribe, 471 U.S. 
+845, 855-56 (1985). 
+
+
+Jurisdiction of tribal courts cannot be separated from 
+the more general characterization of tribes as limited 
+sovereigns. Tribes are not equivalent to States; they are 
+“domestic dependent nations,” Cherokee Nation v. Georgia, 
+30 U.S. 1, 17 (1831), and their sovereignty is of a “limited 
+character.” United States v. Wheeler, 435 U.S. 313, 323 
+(1978). They thus are subordinated to the superior power of 
+the federal government. United States v. Rogers, 45 U.S. (4 
+How.) 567, 571 (1846). “Upon incorporation into the 
+territory of the United States, the Indian tribes thereby come 
+under the territorial sovereignty of the United States and 
+their exercise of separate power is constrained so as not to 
+conflict with the interests of this overriding sovereignty.” 
+Oliphant, 435 U.S. at 209. Unlike state sovereignty, “[al]ll 
+aspects of Indian sovereignty are subject to defeasance by 
+Congress.” Escondido Mut. Water Co. v. La Jolla Band of 
+Mission Indians, 466 U.S. 765, 787 n.30 (1984). 
+
+
+As a result of the incorporation of Indian Tribes into the 
+Nation, there are “inherent limitations on tribal powers.” 
+Oliphant, 435 U.S. at 209. These powers are “implicitly 
+divested .. . by virtue of [tribes’] dependent status.” New 
+Mexico v. Mescalero Apache Tribe, 462 U.S. 324, 331 
+(1983). Such divested powers preclude tribes from 
+transferring lands or _ exercising external political 
+sovereignty, Oliphant, 435 U.S. at 209, and preclude them 
+from exercising criminal jurisdiction over nonmembers, id. 
+at 210-11. 
+
+
+that must be answered by reference to federal law.” National Farmers 
+Union Ins. Cos. v. Crow Tribe, 471 U.S. 845, 852 (1985). 
+
+
+18 
+
+
+This case exposes—and, we respectfully submit, should 
+establish—an additional divestiture of tribal power, only 
+now apparent because Hicks has filed these novel lawsuits. 
+Just as tribal assertion of criminal jurisdiction over 
+nonmembers represented “a relatively new phenomenon,” 
+Oliphant, 435 U.S. at 196-97, so here do tribal court actions 
+against state officials. “It is therefore not surprising to find 
+no specific discussion of the problem before us in the 
+volumes of the United States Reports.” Jd at 197. The 
+Tribe cannot demonstrate any tradition by which it or any 
+tribe has ever exercised either adjudicatory or regulatory 
+power over States. Cf Rice v. Rehner, 463 U.S. 713, 720 
+(1983) (construing tribal sovereignty by reference to powers 
+traditionally exercised by tribes). Even if such authority 
+once existed, moreover, it surely was divested when the 
+nation was formed. Such jurisdiction is “beyond what is 
+necessary to protect tribal self-government or to control 
+internal relations [and therefore] is inconsistent with the 
+dependent status of the tribes, and so cannot survive without 
+express congressional delegation.” South Dakota vy. 
+Bourland, 508 U.S. 679, 694-95 (1993) (quoting Montana, 
+450 U.S. at 564). 
+
+
+Nor is this attempted extension of tribal power 
+consistent with the theory of limited tribal sovereignty. 
+Tribes have the “power to make their own substantive law 
+in internal matters and to enforce that law in their own 
+forums.” Santa Clara Pueblo v. Martinez, 436 U.S. 49, 55- 
+56 (1978). “[T]he sovereignty retained by tribes includes 
+‘the power of regulating their internal and social relations.’” 
+New Mexico v. Mescalero Apache Tribe, 462 U.S. 324, 332 
+(1983) (quoting United States v. Kagama, 118 U.S. 375, 
+381-82 (1886)). Yet all of these are inwardly directed 
+powers, limited in effect to tribal members. As the Court 
+made clear in Santa Clara Pueblo, 436 U.S. at 55-56, these 
+internal matters include tribal authority to _ control 
+membership, Roff v. Burney, 168 U.S. 218 (1897), authority 
+
+
+19 
+
+
+over a tribe’s inheritance rules, Jones v. Meehan, 175 US. 1 
+(1899), and authority over domestic relations, United States 
+v. Quiver, 241 U.S. 602 (1916). 
+
+
+The Tribe’s assertion of adjudicatory jurisdiction in the 
+instant matter, however, is of a different order from the 
+tribal powers recognized in these precedents. Mr. Hicks’ 
+claims are not based on questions of tribal membership, 
+domestic relations, or probate, but instead are founded in 
+non-traditional law, far removed from the essential “internal 
+matters” referred to in Kagama, Santa Clara Pueblo, and 
+Mescalero Apache Tribe. 
+
+
+Nor does Williams v. Lee, 358 U.S. 217 (1959), support 
+this exercise of tribal power. Williams involved a non- 
+Indian plaintiff suing an Indian defendant in state court for a 
+debt incurred on a reservation. The Court’s decision thus 
+served as a shield for the Indian defendant. The result 
+protected not only the tribe, but primarily the tribal member. 
+This result is cut from the same protectionist cloth as many 
+cases preceding and following it. See, e.g., United States v. 
+Forty-Three Gallons of Whiskey, 93 U.S. 188, 194 (1876); 
+Choctaw Nation v. United States, 119 US. 1 (1886); 
+Mescalero Apache Tribe v. Jones, 411 U.S. 145, 152 (1973) 
+(tribes are accorded a “historic immunity from state and 
+local control”). Cf Merrion v. Jicarilla Apache Tribe, 455 
+U.S. 130, 153-54 (1982) (“This Court has relied on the 
+Indian Commerce Clause as a shield to protect Indian tribes 
+from state and local interference”); Fisher v. District Court, 
+424 U.S. 382 (1976) (the Court shielded an Indian mother 
+from a state court adoption proceeding); Kennerly v. District 
+Court of Montana, 400 U.S. 423 (1971) (the Court shielded 
+a tribal member sued in state court on a food debt). 
+
+
+But in the instant case, the Ninth Circuit’s decision 
+recognizing tribal adjudicatory authority over state officials 
+turns the shield of Williams v. Lee into a sword. The Tribe 
+asks the Court to recognize tribal authority to render 
+judgment against state officials for millions of dollars and 
+
+
+20 
+
+
+even the right to punish the state officials in tribal court and 
+under tribal law. See P. App. at I-5 (Hicks’ prayer for 
+punitive damages). This is a quantitatively different kind of 
+jurisdiction, one that dramatically departs from these 
+precedents and from Williams itself. 
+
+
+4. State Immunity Protects Individually 
+Named State Officials Sued In Tribal 
+Court. 
+
+
+The lower courts, notably, did not confront the 
+interplay of tribal and state sovereignty. Instead, their 
+position was that, once Hicks dismissed his claims against 
+the State and the official capacity defendants, the actions 
+could proceed without regard to state sovereignty. In their 
+view, “the Fallon Tribal Court has jurisdiction to adjudicate 
+Hicks’ claims against the state defendants in their individual 
+capacities.” P. App. at B-16; see also 196 F. Supp. at 1468. 
+In agreeing that this pleading expedient allowed Hicks to 
+have more access to the Nevada fisc than other residents of 
+Nevada, the lower courts erred in several respects. 
+
+
+Individual capacity lawsuits, like relief under the Ex 
+Parte Young doctrine, are creations of federal courts and of 
+federal law. They have no application to claims brought in 
+tribal courts under tribal law. An allegation in federal court 
+that official conduct is contrary to the United States 
+Constitution or a federal statute, it may be true, suffices “to 
+override the State’s protection” under the Eleventh 
+Amendment because the official is treated as acting beyond 
+his authority. Pennhurst State Sch. & Hosp. v. Halderman, 
+465 U.S. 89, 106 (1984). No good reason exists, however, 
+for extending these extraordinary doctrines beyond the 
+circumstances that gave rise to them—principally the need 
+for a national forum for vindicating federal rights and for 
+ensuring their uniform application. See Pennhurst, 465 U.S. 
+at 105 (“Our decisions repeatedly have emphasized that the 
+Young doctrine rests on the need to promote the vindication 
+
+
+21 
+
+
+of federal rights.”); Will v. Michigan Dept. of State Police, 
+491 U.S. 58, 66 (1989). 
+
+
+Under similar circumstances, the Court has declined to 
+extend these ultra vires doctrines beyond the setting of 
+federal courts and federal law. In Pennhurst, 465 U.S. 89, 
+individual claimants sued state officials for prospective 
+injunctive relief under state law. They claimed the State’s 
+immunity from suit could be circumvented by alleging that 
+the state actors had violated state law and therefore were 
+necessarily acting ultra vires. The Court rejected this far- 
+reaching theory, recognizing that it would “emasculate the 
+Eleventh Amendment,” id. at 106, thereby allowing all 
+manner of claims against state officials (and effectively 
+- States) under any law and in any court. The Court first 
+noted that “the need to promote the supremacy of federal 
+law must be accommodated to the constitutional immunity 
+of the States.” /d at 105. It then noted that in balancing 
+these interests, the Court had “declined to extend the fiction 
+of Young to encompass retroactive relief, for to do so would 
+effectively eliminate the constitutional immunity of the 
+States.” /d (citing Edelman v. Jordan, 415 US. 651 
+(1974)). 
+
+
+Next, the Court observed that it had previously rejected 
+similar extensions of these fictions. “In Larson v. Domestic 
+& Foreign Commerce Corp., 337 U.S. 682 (1949),” the 
+Court observed, it “was faced with the argument that an 
+allegation that a government official committed a tort 
+sufficed to distinguish the official from the sovereign.” 
+Pennhurst, 465 U.S. at 112. In rejecting this argument in 
+Larson, the Court noted “that it would make the doctrine of 
+sovereign immunity superfluous. A plaintiff would need 
+only to ‘claim an invasion of his legal rights’ in order to 
+override sovereign immunity.” /d. (quoting Larson at 337 
+U.S. at 693). Finally, for many of the same reasons that the 
+Court declined to extend this fiction in Larson, it declined to 
+extend it in Pennhurst because it “would make the 
+
+
+22 
+
+
+constitutional doctrine of sovereign immunity a nullity.” Jd. 
+at 112. See also Ford Motor Co. v. Dept. of Treasury, 323 
+U.S. 459, 464 (1945) (“When the action is in essence one 
+for the recovery of money from the state, the state is the 
+real, substantial party in interest and is entitled to invoke its 
+sovereign immunity from suit even though individual 
+officers are nominal defendants.”). 
+
+
+The Court should likewise decline to extend these u/tra 
+vires principles to a claim under tribal law filed in tribal 
+court. No legal basis or authority exists for disregarding 
+state immunity rules in this area. Nevada law treats these 
+lawsuits as claims against the State and accordingly they 
+
+
+may be prosecuted only in state court. Because Hicks has 
+
+
+not complied with these requirements, his tribal-law claims 
+must be dismissed as barred by Nevada principles of 
+sovereign immunity. 
+
+
+5. Tribal Law Does Not Unambiguously 
+Abrogate State Immunity From Suit. 
+
+
+Even if the Tribe has inherent authority to abrogate the 
+State’s immunity from suit, it should be held to the same 
+standard as other sovereigns in exercising this extraordinary 
+power. Specifically, to the extent the Tribe claims authority 
+to regulate States and state officials, it must unambiguously 
+express that intent. Seminole Tribe, 517 U.S. at 55. Courts 
+presume that one sovereign will not casually regulate 
+another. Congress, for instance, must unequivocally state 
+its intent to regulate the States. Gregory v. Ashcroft, supra; 
+Kimel v. Florida Bd. of Regents, 528 U.S. 62 (2000). The 
+same is true for other sovereigns. Cf Schooner Exchange v. 
+McFadden, 11 U.S. 116, 146 1812); Benz v. Compania 
+Naviera Hidelgo, 353 U.S. 138, 147 (1957). The Tribe has 
+expressed no such intent here, however, and for this 
+independent reason the claims must be dismissed. 
+
+
+Hicks filed multiple tribal-law claims against Nevada 
+and its officials. None contains a precedential or statutory 
+
+
+——_—————— OOS 
+
+
+23 
+
+
+foundation for abrogating any State’s, or all States’, 
+immunity from suit. The tort claims have no statutory basis 
+at all; they are founded only in tribal “common law.” 
+Without at least a foundation in positive law, such tribal 
+claims cannot even be- adequately evaluated when legally 
+challenged. Their lack of definition invites a morass of 
+litigation to define fundamental issues, such as authority for 
+off-reservation service of process and other documents, 
+scope and effect of state immunity, limits on tribal authority 
+to exceed state damages caps, tribal authority in official 
+Capacity suits against the State, rules of evidence, tribal 
+authority to compel discovery and attendance of witnesses, 
+enforcement of judgments, and rights of appeal or other 
+review in federal courts. Questions of immunity alone 
+invite, in this case, many more years of litigation if the 
+Ninth Circuit’s decision to remand the case to tribal court is 
+affirmed. Off-reservation collection of any judgments 
+invites still more. 
+
+
+Moreover, there are twenty-six tribes and bands in 
+Nevada alone. Answers to each of these questions will be 
+different for each tribe. To the extent federal courts serve as 
+arbiters in these matters, this promises a breathtaking field 
+for federal common law development. To the extent the 
+State must litigate to find answers in each of the tribal 
+courts, its resources of course will be adversely affected as 
+well. 
+
+
+The lack of tribal guidance regarding answers to these 
+questions confirms the merit of requiring immunity to be 
+unambiguously abrogated, and the claims specifically 
+explained, before state defendants are called to answer in 
+tribal courts. If the tribes, in short, wish to be treated as 
+sovereigns, they must act as sovereigns, by clearly stating an 
+intent to abrogate state immunity, and by explaining the 
+applicable procedures. The Tribe’s failure to do so here 
+requires dismissal of these tribal law claims. 
+
+
+24 
+
+
+B. The § 1983 Claim Must Be Dismissed. 
+
+
+Many of the same principles that require dismissal of 
+the tribal-law claims also require dismissal of the § 1983 
+claim. Congress failed clearly to make this cause of action 
+applicable in tribal courts and, at any rate, lacked the power 
+to do so. 
+
+
+1. A Congressional Waiver Of States’ 
+Immunity In Tribal Courts Under Federal 
+Law Must Be Unambiguously Expressed. 
+
+
+Analysis of the § 1983 claim starts with first principles, 
+foremost among them the tenet that one sovereign may not 
+lightly regulate another. The States for example may not 
+regulate the Federal Government at all. See McCulloch v. 
+Maryland, 17 U.S. (4 Wheat.) 316 (1819). Cf Westfall v. 
+Erwin, 484 U.S. 292 (1988). And the Federal Government 
+may not regulate the States except under discrete 
+delegations of power and except when Congress complies 
+with carefully prescribed limitations on the exercise of those 
+powers. 
+
+
+One of the most critical limitations on this power is a 
+stringent presumption against regulation of state action and 
+alteration of the federal-state balance in the absence of a 
+clear statement. Recognizing that “the States’ immunity 
+from suit is a fundamental” attribute of “sovereignty,” 
+Alden, 527 U.S. at 713, and that the immunity is designed to 
+preserve the “constitutional balance between the Federal 
+Government and the States,” Atascadero State Hosp. v. 
+Scanlon, 473 U.S. 234, 238 (1985), the Court has not 
+casually inferred abrogations of it. Only an “intention to 
+abrogate the States’ immunity unmistakably clear in the 
+language of the statute” will suffice. Florida Prepaid 
+Postsecondary Educ. Expense Bd. v. College Sav. Bank, 527 
+U.S. 627, 635 (1999) (quotation omitted). Whether stated 
+as an “unmistakably clear” requirement, Afascadero, 473 
+U.S. at 242, as an unequivocal and textual” requirement, 
+
+
+: 25 
+Dellmuth v. Muth, 491 U.S. 223, 230 (1989), or merely as a 
+“clear statement” rule, Will, 491 U.S. at 65 (quotation 
+omitted), the point is the same: Congress must leave no 
+doubt about its intentions. 
+
+
+2. Section 1983 Does Not Create A Cause Of 
+Action Against State Officials Enforceable 
+In Tribal Courts. 
+
+
+Abundant doubt surrounds assertion of a § 1983 claim 
+in tribal courts, and accordingly Congress did not satisfy 
+this “strict standard.” Port Auth. Trans-Hudson Corp. v. 
+Feeney, 495 U.S. 299, 305 (1990). Text, history, and 
+precedent all indicate that Congress did not authorize the 
+filing of § 1983 claims in tribal courts. 
+
+
+Consider first the language of the statute: 
+
+
+Every person who, under color of any statute, 
+ordinance, regulation, custom, or usage, of any State or 
+Territory or the District of Columbia, subjects, or 
+causes to be subjected, any citizen of the United States 
+or other person within the jurisdiction thereof to the 
+deprivation of any rights, privileges, or immunities 
+secured by the Constitution and laws, shall be liable to 
+the party injured in an action at law, suit in equity, or 
+other proper proceeding for redress. For the purposes 
+of this section, any Act of Congress applicable 
+exclusively to the District of Columbia shall be 
+considered to be a statute of the District of Columbia. 
+
+
+42 U.S.C. § 1983. Nothing in the statute discloses any 
+authority to bring claims in tribal court. That fact alone 
+should suffice to defeat this anomalous claim. A Congress 
+respectful of the States’ role in the constitutional framework 
+presumably would have alerted state officials that they 
+could be exposed to these actions in foreign jurisdictions 
+had they so intended. Just as surely, the States in 1871, 
+whether from the North or the South, would never have 
+acquiesced in such an unusual incursion on their authority. 
+
+
+26 
+
+
+In construing § 1983 in the past, the Court has looked 
+“both to history and to the ‘special policy concerns involved 
+in suing government officials.’"” Richardson v. McKnight, 
+521 U.S. 399, 404 (1997) (quoting Wyatt v. Cole, 504 US. 
+158, 167 (1992)). Neither “history” nor the “special policy 
+concerns” applicable to actions against state officials in 
+federal court, however, support such actions in tribal courts. 
+
+
+History, for example, confirms the textual skepticism 
+that greets this claim. Even if Congress could comply with 
+the clear-statement rule through the legislative history of 
+§ 1983, which it may not, United States v. Nordic Village, 
+503 U.S. 30, 37 (1992), the history of the Act is mute on the 
+issue of tribal courts. Nor as a matter of Indian history 
+should that omission come as a surprise. Tribal courts, as 
+noted above, did not take root until two to three generations 
+after Congress enacted § 1983 in 1871. “Until the middle of 
+this century, few Indian tribes maintained any semblance of 
+a formal court system.” Oliphant, 435 U.S. at 197. See 
+generally Duro v. Reina, 495 U.S. 676 (1990); Nancy 
+Thorington, Civil and Criminal Jurisdiction Over Matters 
+Arising in Indian Country: A Roadmap for Improving 
+Interaction Among Tribal, State and Federal Governments, 
+31 MCGEORGE L. REV. 973, 981 (2000) (finding that tribal 
+courts did not even exist in rudimentary form until the 
+1880s). 
+
+
+A “policy concern{]” militating against extending civil 
+rights jurisdiction to tribal courts is the chilling effect tribal 
+adjudicatory jurisdiction would have on_ tribal-state 
+relations. Many areas of governmental jurisdiction may be 
+appropriately and prosperously shared between tribal and 
+state, or tribal and local, governments. But this kind of 
+cooperation would be discouraged if state officials were 
+open to suit in tribal courts. This effect has already been 
+foreseen. See State of Montana v. Gilham, 932 F. Supp. 
+1215, 1224 (D. Mont. 1996), aff'd, 127 F.3d 897 (9th Cir. 
+1997). 
+
+
+27 
+
+
+Precedent, too, undermines this claim. The Court’s 
+cases all refer to the availability of § 1983 claims in federal 
+or state courts, but say nothing about their availability in 
+tribal courts. In Monroe v. Pape, 365 U.S. 167, 180 (1961), 
+the Court said that “[iJt is clear that one reason the 
+legislation was passed was to afford a federal right in 
+federal courts.” Monroe should not be extended here. And 
+in Patsy v. Florida Bd. of Regents, 457 U.S. 496, 506 
+(1982), the Court said that “many legislators interpreted the 
+bill to provide dual or concurrent forums in the state and 
+federal system.” However, the Court has never said 
+anything more about forum availability, and specifically has 
+never suggested that Congress intended such claims to be 
+brought in tribal court. 
+
+
+Furthermore, as noted below and suggested above, such 
+actions raise vexing constitutional questions about a third 
+tier of sovereigns within a bilateral national sovereignty. 
+Premature consideration of those questions should be 
+avoided, the Court has recently reminded litigants, when a 
+plausible interpretation of the statute exists that would avoid 
+these questions. Jones v. United States, 120 S. Ct. 1904, 
+1911 (2000). 
+
+
+3. Congress Lacks Authority To Create Any 
+Such Cause of Action. 
+
+
+Even if Congress unambiguously purported to expose 
+state officials to § 1983 claims in tribal courts (which it 
+assuredly did not), it lacked authority to do so. When a state 
+asserts its immunity from suit, that immunity controls in the 
+absence of a constitutionally permissible abrogation of it, 
+wherever the underlying claim is filed. See Alden, 527 U.S. 
+706. Yet no source of authority for abrogating that 
+immunity exists here. 
+
+
+No constitutional basis exists for compelling the State 
+or its officials to answer to tribal courts (as opposed to 
+federal courts) for claims grounded in federal law. Nothing 
+
+
+28 
+
+
+in the Indian Commerce Clause or the Fourteenth 
+Amendment purports to authorize such actions. Neither the 
+Tribe nor the lower courts have identified any such 
+authority. Instead, both the respondents and the lower 
+courts have started with the presumption that § 1983 is a 
+permissible exercise of congressional power (which it is, so 
+far as it customarily goes), then leaped to the conclusion that 
+because Hicks brought these claims against the officials in 
+their “individual capacity,” Nevada’s immunity has no 
+relevance. No support, however, exists for this wholesale 
+transfer of federal individual capacity doctrine to the unique 
+setting of tribal courts. 
+
+
+As an original matter, the Court’s individual-capacity 
+doctrine states a paradox in the context of § 1983 claims. It 
+maintains on the one hand that state officials sued in their 
+individual capacity are not acting under state law for 
+purposes of sovereign immunity under the Tenth and 
+Eleventh Amendments, but on the other hand that state 
+officials are acting “under color” of state law for § 1983 
+purposes. See Pennhurst, 465 U.S. at 105 (referring to the 
+doctrine as a “well-recognized irony”). Yet no basis exists 
+for extending this doctrine to claims filed outside of the 
+federal courts. Not only would extending it to the tribal 
+courts fail to advance the objective of having a uniform 
+interpretation of federal law, but it also would positively 
+undermine it. The fact is, there exists no true night of 
+federal appeal from tribal courts, and accordingly civil 
+rights actions in tribal fora would lead to disarray in the 
+development of federal statutory and constitutional law. 
+
+
+As a matter of comity, moreover, § 1983 enforcement 
+in tribal courts does not make sense because tribal officials 
+are not subject to the Constitution. Santa Clara Pueblo v. 
+Martinez, 436 U.S. 49, 56 (1978). Accordingly they may 
+not be subjected to § 1983 claims. Tribal judges therefore 
+will have little reason to be sensitive to competing policy 
+concerns that influence rulings in state or federal courts. 
+
+
+29 
+
+
+Unlike other individual capacity cases, no special need 
+exists to create a new remedy in tribal court, since there are 
+federal and state courts already available to afford relief. 
+Hicks acknowledged he could have brought his actions in 
+state court, or in federal court, but for convenience, chose to 
+file in tribal court. This thus is not a constitutional theory 
+that “would absolutely immunize state officials from 
+personal liability for acts within their authority and 
+necessary to fulfilling governmental responsibilities.” Hafer 
+v. Melo, 502 U.S. 21, 28 (1991). 
+
+
+Finally, if § 1983 actions may lie in tribal courts against 
+state officials, then on the same logic, Bivens claims against 
+federal officials may also lie. See Bivens v. Six Unknown 
+Federal Narcotics Agents, 403 U.S. 388 (1971). To our 
+knowledge, no constitutional case supports this extension of 
+tribal jurisdiction. Neither is any such _ extension 
+permissible with regard to state officials. 
+
+
+Il. STATE OFFICIALS’ CLAIMS OF SOVEREIGN 
+AND QUALIFIED IMMUNITY SHOULD BE 
+DECIDED TOGETHER WITH THE QUESTION 
+OF TRIBAL COURT JURISDICTION. 
+
+
+As shown, the claims against Petitioners all amount to 
+claims against the State and, accordingly, must be dismissed 
+because Indian Tribes lack authority to abrogate the State’s 
+immunity from suit. Even if that is not true, however, the 
+defendants’ immunity defenses should have been considered 
+with the jurisdictional issue. 
+
+
+In their first tribal court appearance, the Nevada 
+officials asserted immunity as a bar to tribal jurisdiction. 
+See e.g. P. App. at J-3 to J-6 (State’s Motion to Quash). 
+They maintained this posture at every step thereafter. K-1 
+to K-13 (State’s Supplemental Brief). See also Dist. R. at 
+25:422 (state’s appeal to Intertribal Appellate Court), Dist. 
+R. at 25:426-430 (State’s post-hearing brief on appeal). 
+Hicks, for his part, engaged the issue as well, extensively 
+
+
+30 
+
+
+describing why he thought the State’s immunity did not bar 
+jurisdiction. Dist. R. at 25:64-75, 100-102, 200-203, 206- 
+32, 255-90, 315-70, and 448-60. 
+
+
+The tribal court in the end ruled that “it is not prevented 
+by doctrines of sovereign or qualified immunity from 
+lawfully exerting personal jurisdiction over specially 
+appearing State defendants.” P. App. at L-1 (quoted at 196 
+F.3d at 1030). The Intertribal Court of Appeals in turn 
+called the State’s immunity arguments “only . . . an 
+extension of their unsuccessful argument in... . Nevada v. 
+Hall.” P. App. at C-7. 
+
+
+Notwithstanding all of this, the Ninth Circuit 
+determined that “the state did not exhaust its remedies 
+regarding the sovereign immunity defense before the tribal 
+court.” 196 F.3d at 1029. The court of appeals justified its 
+conclusion in part by characterizing sovereign immunity as 
+an affirmative defense rather than a jurisdictional! one. /d. at 
+1029 n.12. Consequently, the Ninth Circuit determined that 
+the issue should be returned to trbal court. 196 F.3d at 
+1032. 
+
+
+As an initial matter, the Ninth Circuit’s ruling on 
+exhaustion should be reversed because the tribal courts 
+clearly did decide the questions of immunity. But even if 
+the appellate court’s factual conclusion was correct, it 
+improperly established a two-step procedure for exhaustion 
+of immunity issues. It required state officials to exhaust all 
+jurisdictional issues in tribal court, then separately exhaust 
+immunity issues. This procedure is not justified by the 
+Court’s precedents, it is burdensome, and it undermines the 
+purpose of immunity. 
+
+
+31 
+
+
+A. Immunity Must Be Considered Along With The 
+Jurisdictional Determination. 
+
+
+1. This Court’s Decisions Consider Immunity 
+As Part Of The Jurisdictional Inquiry. 
+
+
+Sovereign immunity and jurisdiction are inextricable. 
+This Court has already refuted the argument that a state’s 
+immunity “does not confer immunity from suit, but merely a 
+defense to liability.” See Puerto Rico Aqueduct and Sewer 
+Authority v. Metcalf & Eddy, Inc., 506 U.S. 139, 145-46 
+(1993). The argument was rejected because it 
+
+
+misunderstands the role of the [Eleventh] Amendment 
+in our system of federalism: “The very object and 
+purpose of the 11th Amendment were to prevent the 
+indignity of subjecting a State to the coercive process 
+of judicial tribunals at the instance of private parties.” 
+In re Ayers, 123 U.S. 443, 505, 31 L. Ed. 216, 8 S. Ct. 
+164 (1887). 
+
+
+Id. at 146. See also Pennhurst State School & Hospital v. 
+Halderman, 465 U.S. 89, 119-20 (1984). 
+
+
+The Court’s most recent decisions confirm that the 
+Ninth Circuit fundamentally misapprehended the fact that 
+sovereign immunity is indeed a jurisdictional defense. In 
+Seminole Tribe of Fla., 517 U.S. at 52-53, the court of 
+appeals: 
+
+
+disagreed with the District Court . . . that the Indian 
+Commerce Clause grants Congress the power to 
+abrogate a State’s Eleventh Amendment immunity from 
+suit, and concluded therefore that it had no jurisdiction 
+Over petitioner’s suit against Florida.” [Emphasis 
+added. ] 
+
+
+This Court affirmed. It explained that 
+
+
+It was well established . . . that the Eleventh 
+Amendment stood for the constitutional principle that 
+
+
+32 
+
+
+state sovereign immunity limited the federal courts’ 
+jurisdiction under Article III. 
+
+
+517 U.S. at 64. 
+
+
+The Court followed the same approach—referring to 
+immunity in order to determine jurisdiction—in College 
+Savings Bank v. Florida Prepaid Postsecondary Education 
+Expense Board, 527 U.S. 666, 691 (1999) (“we hold that the 
+federal courts are without jurisdiction to entertain this suit 
+against an arm of the State of Florida”) (emphasis added); 
+Kimel v. Florida Bd. of Regents, 528 U.S. 62, 120 S.Ct. 631, 
+638 (2000) (affirming dismissal of three actions, including 
+one in which a state litigant had “moved to dismiss the suit 
+for lack of subject matter jurisdiction, contending it was 
+barred by the Eleventh Amendment”); and Calderon v. 
+Ashmus, 523 US. 740, 745 n2 (1998) (“Eleventh 
+Amendment is jurisdictional in the sense that it is a 
+limitation on the federal court’s judicial power.”). See also 
+Idaho v. Coeur d’Alene Tribe of Idaho, 521 U.S. 261, 265 
+(1997) (in action against State as well as its individually- 
+named officials, “defendants moved to dismiss the Tribe’s 
+complaint on Eleventh Amendment immunity grounds,” and 
+the action was dismissed). 
+
+
+Thus the State’s immunity should have been examined 
+in order to determine the tribal court’s jurisdiction, and not 
+reserved for later treatment. The Ninth Circuit’s conclusion 
+to the contrary constitutes reversible error. 
+
+
+2. Tribal Immunity Is Treated As Part Of | 
+
+
+The Jurisdictional Inquiry. 
+
+
+Nor do tribes treat this issue differently when they are 
+sued. Because mutuality of amenability to suit is one of the 
+cardinal principles the Court has looked to in deciding 
+immunity issues arising between Indian Tribes and States, 
+Blatchford, 501 U.S. at 782, a brief comparison is 
+warranted. 
+
+
+CBO Aas aba RIES: SC 0k 
+
+
+33 
+
+
+Claims of sovereign immunity are considered 
+jurisdictional when raised by tribal officials. See e. g. Kiowa 
+Tribe of Oklahoma v. Manufacturing Ti echnologies, Inc., 
+523 U.S. 751, 754 (1998) (“Tribe moved to dismiss for lack 
+of jurisdiction, relying in part on its sovereign immunity 
+from suit”). See also Pan American Company v. Sycuan 
+Band of Mission Indians, 884 F.2d 416, 417-18 (9th Cir. 
+1989) (suit against tribe dismissed when “Band filed a 
+motion to dismiss for lack of personal and subject matter 
+jurisdiction and failure to state a claim,” and Circuit held 
+that “the issue of tribal sovereign immunity is jurisdictional 
+in nature”); McClendon v. United States, 885 F.2d 627, 629 
+(9th Cir. 1989) (“issue of tribal sovereign immunity is 
+jurisdictional in nature”); and Arizona Public Service Co. v. 
+Aspaas, 69 F.3d 1026, 1032 (9th Cir. 1995) (tribal sovereign 
+‘immunity is jurisdictional in nature). 
+
+
+When tribal officials are sued, moreover, federal courts 
+address tribal and individual defenses together to determine 
+jurisdiction over them. See e.g. Imperial Granite Co. vy. 
+Pala Band of Mission Indians, 940 F.2d 1269, 1272 (9th 
+Cir. 1991), Hardin v. White Mountain Apache Tribe, 779 
+F.2d 476, 479-80 (9th Cir. 1985), Cameron vy. Bay Mills 
+Indian Community, 843 F. Supp. 334, 336 (W.D. Mich. 
+1994). Mutuality requires that state immunity be given the 
+Same jurisdictional effect as tribal immunity. See 
+Blatchford, supra. 
+
+
+B. The Tribal Court Exhaustion Rule Is 
+Prudential, And The Policies Underlying It Do 
+Not Support The Independent Exhaustion Of 
+Immunity. 
+
+
+Even if the immunity of state officials is separated from 
+the jurisdictional determination, the tribal court exhaustion 
+tule does not require the case to be returned to tribal court 
+for still further consideration. This prudential rule has no 
+application here. 
+
+
+34 
+
+
+The decisions in National Farmers Union Ins. Cos., 
+471 U.S. 845 and Jowa Mutual Ins. Co., 480 U.S. 9 
+“describe an exhaustion rule allowing tribal courts initially 
+to respond to an invocation of their jurisdiction.” Strate v. 
+A-1 Contractors, 520 U.S. 438, 448 (1997). The rule, 
+however, is “not an unyielding requirement.” /d. at 449 n.7. 
+It is “‘prudential,’ not jurisdictional.” /d at 451. 
+Exhaustion is not required when it is apparent that “state or 
+federal courts will be the only forums competent to 
+adjudicate” certain disputes. /d. at 459 n.14. In such cases, 
+“the otherwise applicable exhaustion requirement . . . must 
+give way, for it would serve no purpose other than delay.” 
+Id. This is just such a case. No matter how the issues in 
+this case are characterized, only state or federal courts may 
+decide the claims Hicks makes against the state officials. 
+
+
+No less importantly, delay in deciding the immunity 
+claims vitiates the very immunity being asserted. The 
+“value to the States of their Eleventh Amendment immunity, 
+like the benefit conferred by qualified immunity to 
+individual officials, is for the most part lost as litigation 
+proceeds past motion practice.” Puerto Rico Aqueduct, 506 
+U.S. at 145. Assertions of immunity were first made in this 
+case in 1991. P. App. at J-1 to J-7. The tribal court had 
+generous opportunities to decide the immunity issues. This 
+Court has never said that exhaustion requires the tribal 
+courts to make a ruling, only that they be afforded an 
+opportunity to do so. E.g., National Farmers Union, 471 
+U.S. at 857; Jowa Mut. Ins. Co., 480 U.S. at 16; Strate, 520 
+U.S. at 451. At some point the federal interest in promoting 
+tribal self-government must be balanced against other 
+competing policies, such as those protecting state immunity 
+or promoting efficient justice for the named individuals. 
+
+
+Finally, the individual state officials deserve an early 
+decision on their qualified immunity defense, and should be : 
+accorded relief in federal court when the tribal court fails to i 
+grant relief promptly. Individual immunity was raised by 
+
+
+ae 
+
+
+35 
+
+
+the State in July of 1991. P. Exh at J-5 to J-6. The 
+qualified immunity enjoyed by an official is immunity from 
+suit, and it is lost if not decided at the earliest stages of 
+litigation. Hunter v. Bryant, 502 U.S. 224, 227 (1991). 
+
+
+[A] court must first determine whether the plaintiff has 
+alleged the deprivation of an actual constitutional right 
+at all, and if so, proceed to determine whether that right 
+was Clearly established at the time of the alleged 
+violation. 
+
+
+Conn v. Gabbert, 526 U.S. 286, 290 (1999) (citations 
+omitted). This order of procedure is designed to “spare a 
+defendant not only unwarranted liability, but unwarranted 
+demands customarily imposed upon those defending a long 
+drawn-out lawsuit.” Wilson v. Layne, 526 U.S. 603, 609 
+(1999) (quoting Siegert v. Gilley, 500 U.S. 226, 232 
+(1991)). To spare the four Nevada officials from 
+unwarranted litigation demands, all that the State asked the 
+tribal court, then the federal court, to do was this: determine 
+whether Hicks had alleged the violation of an “actual 
+constitutional right at all.” All of this was to no avail, 
+however. 
+
+
+The paradigmatic example of this delay is former 
+Division of Wildlife Administrator, William Molini. The 
+only place his name appears in case CV-FT-091-034 is in 
+the caption of the original complaint. P. App. at H-1. It 
+appears nowhere in the current version of the complaint. P. 
+App. at I-1 to I-5. Hicks has amended the complaint four 
+times; the tribal court had three years and four different 
+complaints to discern that no allegation is made that Molini 
+violated a federal right; the federal courts have had six 
+additional years. Nothing could be added by further delay. 
+Yet none of the courts has dismissed the action against Mr. 
+Molini. The Ninth Circuit’s return of this matter to tribal 
+court after nearly ten years is difficult, if not impossible, to 
+justify as a matter of judicial efficiency or fairness. 
+
+
+36 
+
+
+lil. NEITHER MONTANA EXCEPTION TO THE 
+PRESUMPTION AGAINST TRIBAL 
+JURISDICTION OVER NONMEMBERS 
+SUPPORTS THE NINTH CIRCUIT’S DECISION. 
+
+
+Even if tribal jurisdiction is not barred by sovereign or 
+individual immunities, jurisdiction is absent here, based 
+upon Montana v. United States, 450 U.S. 544 (1981). The 
+Montana decision is “the path marking case concerning 
+tribal civil authority over nonmembers.” Strate, 520 U.S. at 
+445. Montana creates a main rule and two exceptions. The 
+main rule is the “general proposition that the inherent 
+sovereign powers of an Indian tribe do not extend to the 
+activities of nonmembers of the tribe.” Montana, 450 US.. 
+at 565. The exceptions exist where there is either (1) 
+consent of the nonmember to irbal jurisdiction, or (2) 
+nonmember “conduct [which] threatens or has some direct 
+effect on the political integrity, the economic security, or the 
+health or welfare of the tribe.” 450 U.S. at 566. Neither 
+exception applies here. 
+
+
+A. Under Montana, The Tribe Lacks Jurisdiction 
+Over These State Officials In This Case. 
+
+
+1. The Main Rule Of Presumption Against 
+Tribal Jurisdiction Applies Here. 
+
+
+Montana's “general rule and exceptions there 
+announced govern only in the absence of a delegation of 
+tribal authority by treaty or statute.” Strate, 520 U.S. at 449. 
+There are no treaties or statutes that delegate any 
+adjudicatory authority to the Fallon Paiute-Shoshone Tribes. 
+Therefore the general rule applies, and tribal jurisdiction 
+over nonmembers is presumed not to exist. 
+
+
+2. Montana’s First Exception Does Not Apply. 
+
+
+The first Montana exception states that “a tribe may 
+regulate, through taxation, licensing, or other means, the 
+activities of nonmembers who enter consensual 
+
+
+37 
+
+
+relationships with the tribe or its members, through 
+commercial dealing, contracts, leases, or other 
+arrangements.” Montana, 450 U.S. at 565. The scope of 
+this exception was limited in Strate to the types of activities 
+involved in Williams v. Lee, 358 U.S. 217, 223 (1959); 
+Morris v. Hitchcock, 194 U.S. 384 (1904); Washington v. 
+Confederated Tribes of Colville Indian Reservation, 447 
+U.S. 134, 152-54 (1980). Dissimilar activities are not “of 
+the qualifying kind.” Strate, 520 U:S. at 457. 
+
+
+The relationship between the Tribe and state officials 
+performing official functions is nothing like the fact patterns 
+in which the Court has found such consent. In Williams v. 
+Lee, the defendants operated a business venture on a 
+reservation and entered into commercial transactions with 
+tribal members. In Washington v. Confederated Tribes of 
+the Colville Indian Reservation, the defendants engaged in ~ 
+taxable commercial transactions. And in Morris vy. 
+Hitchcock, the defendant conducted commercial 
+transactions on the reservation. 
+
+
+To the extent the state officials’ conduct parallels any 
+prior case in this respect, it is Strate. There, the defendant 
+was an employee of a non-Indian subcontractor who entered 
+into a contract with a tribal corporation. Strate, 520 U:S. at 
+457. That contract did not create the qualifying kind of 
+consensual relationship for Montana purposes, the Court 
+held, because the injured tribal plaintiff “was not a party to 
+the subcontract, and the Tribes were strangers to the 
+accident.” Jd at 457 (quotation omitted). Similarly, in this 
+case, Hicks was not a party to the relationship between the 
+state officials and the Tribe, and the Tribe is a stranger to 
+any damages alleged by Hicks. 
+
+
+Neither may these principles be circumvented by the 
+claim that entry upon tribal land amounts to constructive 
+consent to the tribal court’s jurisdiction. That would allow a 
+tribe to eliminate Montana’s main rule merely through a 
+unilateral legislative act creating the necessary consent as a 
+
+
+38 
+
+
+constructive waiver of immunity. Precedent forecloses this 
+theory. See College Savings, supra. 
+
+
+3. Montana’s Second Exception Does Not 
+Apply. | 
+The second Montana exception provides tribes with 
+authority over nonmembers when their conduct “threatens 
+or has some direct effect on the political integrity, the 
+economic security, or the health or welfare of the tribe.” 
+Montana, 450 US. at 566. Yet, as Strate illustrates, a 
+tribe’s inherent power does not reach “beyond what is 
+necessary to protect tribal self-government or to control 
+internal relations.” Strate, 520 U.S. at 459 (citing Montana, 
+450 U.S. at 564). The everyday activities of the state 
+officials in this case hardly qualify under this standard. The 
+state officials sought and were expressly given authorization 
+by the tribal judge to be on the Reservation, and tribal police 
+officers accompanied the officials to the Hicks residence. 
+There is no allegation that the officials were any threat to 
+the Tribe’s political integrity or control of its members; nor 
+could there be on this record. 
+
+
+Proving the point, the claims filed by Hicks allege 
+injury to him personally, not to the Tribe. The two incidents 
+from which Hicks alleges injury were isolated incidents that, 
+of themselves, could not plausibly threaten the Tribe. 
+
+
+The district court determined that this case falls within 
+the second exception because “the Tribe has an interest in 
+providing Mr. Hicks, and any other tribal member similarly 
+situated, a forum in which to vindicate these rights.” P. 
+App. at B-13. However, the Tribe’s generalized interest in 
+providing a forum for its members is not the type of tribal 
+interest that was described in Montana. Because the tribal 
+court plaintiff could file a state or federal action to protect 
+her individual interests, “[o]pening the Tribal Court for her 
+optional use is not necessary to protect tribal self- 
+government.” Strate, 520 U.S. at 459. In Strate, the Court 
+
+
+39 
+
+
+also rejected the tribes’ general interest in the health and 
+welfare of tribal members as sustaining the exception. 
+“Those who drive carelessly on a public highway running 
+through a reservation endanger all in the vicinity, and surely 
+jeopardize the safety of tribal members. But if Montana’s 
+second exception requires no more, the exception would 
+severely shrink the rule.” Strate, 520 U.S. 457-58. The 
+same rationale applies here. 
+
+
+B. Montana’s Rule Applies To All Nonmember 
+Cases Without Reference To Land Status. 
+
+
+In the Ninth Circuit’s view, however, Montana does not 
+apply at all to this case. In one respect, we agree: because 
+tribes lack authority to abrogate a State’s and its officials’ 
+immunity from suit, neither the Montana rule nor its 
+exceptions need to be considered. But that is not what the 
+Ninth Circuit held. It converted the Montana presumption 
+against tribal jurisdiction into a presumption in favor of 
+jurisdiction when the alleged misconduct occurs on tribal 
+land. That is wrong. 
+
+
+1. Precedent Supports Montana’s Broad 
+Reading. 
+
+
+In Montana, the Court relied upon United States v. 
+Wheeler, 435 U.S. 313, 326 (1978), Fletcher v. Peck, 10 
+U.S. (6 Cranch) 87, 147 (1810) (Johnson, J., concurring), 
+and Oliphant v. Suquamish Indian Tribe, 435 U.S. 191, 195 
+(1978), all of which stand for the broad proposition that 
+tribes have been divested of powers inconsistent with their 
+status, among them the power to exercise jurisdiction over 
+nonmembers. See also Johnson and Graham’s Lessee v. 
+M'Intosh, 21 U.S. (8 Wheat.) 543, 574 (1823). Montana 
+confirmed the sweeping nature of this rule: “the principles 
+on which [Oliphant] relied support the general proposition 
+that inherent sovereign powers of an Indian tribe do not 
+extend to the activities of nonmembers of the tribe.” 
+Montana, 450 U.S. at 565 (emphasis added). So do later 
+
+
+40 
+
+
+cases. See, e.g., County of Yakima v. Confederated Tribes 
+and Bands of Yakima Indian Nation, 502 U.S. 251, 267 
+(1992); Duro v. Reina, 495 U.S. 676, 687-88 (1990); 
+Brendale v. Confederated Tribes & Bands of Yakima Indian 
+Nation, 492 U.S. 408, 426-27 (1989) (plurality); South 
+Dakota v. Bourland, 508 U.S. 679, 695 n.15 (1993) (“after 
+Montana, tribal sovereignty over nonmembers ‘cannot 
+survive without express congressional delegation’”). 
+
+
+In establishing a categorical rule that Indian Tribes do 
+not have criminal jurisdiction over nonmembers, Oliphant 
+relied heavily on the interests and expectations of 
+nonmembers, including their right to be protected from 
+“unwarranted intrusions on their personal liberty” in tribal 
+courts. Oliphant, 435 U.S. at 210. See also Strate, 520 US. 
+at 459 (considering whether nonmember ought to be made 
+to appear “in an unfamiliar court”). Oliphant also relied 
+upon the historical status of tribes to define their present day 
+jurisdiction, and on this basis determined that criminal 
+jurisdiction over non-Indians was inconsistent with tribal 
+status. Oliphant 435 U.S. at 197-98. The Court gleaned 
+from the historical record an “unspoken assumption” that 
+tribal jurisdiction over nonmembers does not exist. /d. at 
+203. 
+
+
+United States v. Wheeler, 435 U.S. 313, 326 (1978), is 
+to like effect. The Court described the limited retained 
+powers of tribes as those sovereign powers that were not 
+withdrawn by treaty, statute, or “by implication as a 
+necessary result of their dependent status.” /d at 323. Such 
+implicit divestiture, the Court added, has occurred in areas 
+“involving the relations between an Indian tribe and 
+nonmembers of the tribe.” /d at 326. Tribal self- 
+government in contrast principally “involve[s] only relations 
+among members of a tribe.” Jad. 
+
+
+Conspicuously missing from Oliphant, Wheeler, and 
+even Montana is any compelling indication that the general 
+presumption against jurisdiction should turn on land status. 
+
+
+ee ae eee eee 
+
+
+4) 
+
+
+None of the precedents establishes a distinction based on 
+that factor. And a tribe’s relationship with a nonmember, 
+even on tribal land, simply is not generally an internal 
+matter necessary for self-government. 
+
+
+Lastly, it deserves mention that control of nonmembers 
+originally fell to federal authorities. Worcester v. State of 
+Georgia, 31 U.S. (6 Pet.) 515, 555 (1832) (“Indian nations 
+were, from their situation, necessarily dependent on the 
+[United States]. . . for the protection from the lawless and 
+injurious intrusions into their country.”) (emphasis added); 
+Wheeler, 435 U.S. at 323-26 (tribes’ “incorporation within 
+the territory of the United States, and their acceptance of its 
+protection, necessarily divested them of some aspects of the 
+sovereignty which they had previously exercised”). This 
+. historical dependence upon the federal government for 
+protection from nonmembers is inconsistent with a residual 
+right of tribes to exercise self-help, especially if such self- 
+help includes within it remedies above and beyond 
+legitimate expulsion. The tribes’ historical reliance on the 
+United States for protection, together with the absence of 
+any treaty or statutory provisions establishing their own 
+power over nonmembers, signify a divestiture of such 
+power, requiring congressional restoration if it is to be 
+asserted here. 
+
+
+2. Subsequent Decisions Have Not Limited 
+The Montana Presumption. 
+
+
+Nothing decided since Montana has limited the 
+application of its presumption against tribal jurisdiction. 
+The two principal decisions that followed Montana 
+expressly did not decide the proper rule for nonmember 
+conduct on tribal land. 
+
+
+Contrary to the Ninth Circuit’s decision, E/ Paso 
+Natural Gas Co. v. Neztsosie, 526 U.S. 473 (1999), does not 
+alter this presumption based on land-ownership. All that 
+was at issue in E/ Paso was whether lower federal courts 
+
+
+42 
+
+
+properly applied the doctrine of tribal exhaustion. 526 U.S. 
+at 473. Exhaustion was determined unnecessary because the 
+federal Price-Anderson Act requires that claims arising 
+under it be heard in federal court. The Court did not address 
+whether the tribal court had jurisdiction in the absence of 
+the Act. That issue was not presented, as appeal of the tribal 
+court’s denial of injunctive relief was sought by the 
+nonmember companies, “whether or not [the tribal] courts 
+would have jurisdiction to exercise in the absence of the 
+[Price-Anderson] objection.” 526 U.S. at 485. The Court 
+thus expressly declined to address the issue. 526 US. at 
+483 n.4. 
+
+
+Strate also left the question open. It involved a lawsuit 
+arising from an accident that occurred on a state highway, 
+and to which the Court applied Montana. The Court 
+preceded its analysis with the proviso that “[w]e express no 
+view on the governing law or proper forum when an 
+accident occurs on a tribal road within a reservation.” 520 
+U.S. at 442. In doing so, it did not prescribe a different rule 
+for application on tribal land, nor did it reject Montana’s 
+application on such land. Again the issue was left 
+undecided. 
+
+
+3. The Montana Rule Protects Inherent, 
+Retained Tribal Powers, Including The 
+Right To Exclude. 
+
+
+In refusing to follow this approach, the Ninth Circuit 
+concluded that the “Tribe’s unfettered power to exclude 
+state officers from its land implies its authority to regulate 
+the behavior of hon-members on that land.” 196 F.3d at 
+1028. This reasoning, however, turns on a false dichotomy. 
+Even assuming for the sake of argument that the Tribe 
+maintains the same rights to exclude nonmember state 
+officials that it has to exclude other nonmembers, this right 
+may still be construed consistently with Montana's general 
+presumption, and not as a source of general adjudicatory 
+jurisdiction. 
+
+
+43 
+
+
+Tribal control over land, indeed, is a factor that the 
+Montana exceptions already consider. The first Montana 
+exception, based upon consent by the nonmember, allows 
+jurisdiction over commercial uses occurring on tribal lands. 
+It thus pertains in many cases to nonmembers present on 
+tribal land, making use of tribal resources for their own 
+gain. Montana’s second exception is also protective of 
+tribal territory, permitting jurisdiction over nonmembers 
+who represent a threat to tribal political and economic 
+integrity, or to the health and welfare of the tribe. These 
+exceptions in short already account for land-based concerns 
+whether stemming from the right to exclude or from any 
+other considerations. 
+
+
+4. Tribal Adjudicatory Jurisdiction Should 
+Not Depend Upon Land Status In Indian 
+Country. 
+
+
+Land status also is an unreliable basis upon which to 
+determine tribal adjudicatory jurisdiction. Indian-owned 
+allotments such as Mr. Hicks’ are subject to conveyance out 
+of Indian ownership. A jurisdictional presumption that 
+shifts, based upon changing Indian ownership of allotments, 
+would prove unworkable. It also would give no notice to 
+nonmembers, whose susceptibility to tribal jurisdiction 
+would turn on the most recent land transactions. 
+
+
+Permutations of land ownership also know no bounds. 
+Jurisdiction that depends on land ownership characterized 
+by the member/nonmember dichotomy may become 
+impossible to define with divisible heirships, marriages, and 
+devises. See Hodel v. Irving, 481 U.S. 704, 718 (1987) 
+(finding “little doubt that the extreme fractionation of Indian 
+lands is a serious public problem”). Conveyance of less 
+than fee interests into non-Indian ownership will also 
+confuse jurisdiction. A model for adjudicatory jurisdiction 
+based on ownership invites unending litigation and 
+uncertainty. 
+
+
+44 
+
+
+C. Montana Should Apply In This Case Because 
+The Tribe Approved The State Actions. 
+
+
+Even assuming arguendo that the Montana rule does 
+not normally apply to activities on Indian-controlled land, 
+the Montana analysis should nonetheless apply in this case 
+because the tribal judge approved the state officials’ entry 
+onto the Reservation. This rendered the Hicks allotment, for 
+nonmember governance purposes, the functional equivalent 
+of alienated, non-Indian land. See Strate, 520 U.S. at 454- 
+57 (referring to land on which the tribe provided a state 
+right-of-way as equivalent to non-Indian alienated land 
+because Tribe waived gatekeeping right). 
+
+
+By expressly approving the State’s search warrant in 
+this case, the Fallon Tribe ceded its gatekeeping right, and 
+thus alienated its control over Hicks’ allotment at least for 
+the purpose of executing the second warrant. The Tribe’s 
+surrender of its right to exclude the state officers justifies 
+applying Montana’s general presumption against tribal 
+jurisdiction over nonmembers. See Brendale  v. 
+Confederated Tribes and Bands of the Yakima Indian 
+Nation, 492 U.S. 408, 423-24 (1989) (plurality opinion) 
+(without right to exclude nonmembers, “that power can no 
+longer serve as the basis for tribal exercise of the lesser 
+included power [to regulate]”). 
+
+
+CONCLUSION 
+
+
+Fifty States make up the Union. The courts of the 
+States, together with the federal courts, form the 
+jurisprudential infrastructure of the nation. The Constitution 
+provides procedures for addition of other States to the 
+Union; it provides none for admission of other governments. 
+If admission of tribes and their courts as participants in the 
+national government is to be done, it must occur by federal 
+statute or by constitutional amendment. 
+
+
+Nevada of course does not seek to discourage the 
+Tribe’s self-determination or its self-government. However, 
+
+
+oy Se CE 
+
+
+45 
+
+
+_the State must also carefully guard its own sovereign 
+prerogatives, including its immunity. It therefore requests 
+that the Ninth Circuit’s decision be reversed; that state 
+immunity be deemed to bar all claims in tribal courts 
+brought against a state or its officials in any capacity, when 
+those claims arise from actions taken by officials in their 
+role as state employees; and that the matter be remanded to 
+the federal district court for entry of judgment in favor of 
+the State and its officials. 
+
+
+Respectfully submitted, 
+
+
+Of Counsel: FRANKIE SUE DEL PAPA 
+JEFFREY S. SUTTON Attorney General of the 
+Jones, Day, Reavis & State of Nevada 
+Pogue C. WAYNE HOWLE 
+1900 Huntington Center (Counsel of Record) 
+41 South High Street Senior Deputy Attorney 
+Columbus, OH 43215 General 
+(614) 469-3855 PAUL G. TAGGART 
+
+
+Deputy Attorney General 
+
+100 North Carson Street 
+Carson City, NV 89701-4717 
+(775) 684-1227 
+
+
+November 2000 Counsel for Petitioners 
+
+

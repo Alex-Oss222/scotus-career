@@ -1,0 +1,247 @@
+**Case and dockets:** K.D.M. v. Reedsport School District; Ninth Circuit judgment, 196 F.3d 1046; Supreme Court docket unassigned; OT2000 chunk 8.
+**Event and date:** Merits decision, 2001-06-25; no separate argument date supplied.
+**Result:** Constitutional disposition reversed and remanded, 6-3; constitutional Parts I–II six joins, complete remedial Part III five joins.
+**Version / lineage:** Original decision prepared for operator verification. No completed adjudication is replaced.
+
+## Event, participation, chronology and law entering
+
+K.D.M. v. Reedsport School District, review of the Ninth Circuit judgment reported at 196 F.3d 1046 (November 15, 1999). Merits disposition, June 25, 2001. The question is whether adequate and safely accessible alternative services permit the State's express religious-site restriction on secular special education. The independent IDEA onsite-entitlement ruling is not reopened.
+
+K.D.M., a blind child with cerebral palsy, attends Harbor Baptist Church School by his parents' religious choice. The district supplies equipment there and vision instruction at a nearby fire hall, about ninety minutes twice weekly with district transportation. Adequacy and travel safety are stipulated. Onsite instruction would also occur in a separate room. The rule permits secular private-school sites, but the record establishes no actual secular onsite recipient. The district court granted constitutional relief while denying an unconditional specialist entitlement; the Ninth Circuit reversed the constitutional judgment.
+
+The assigned merits date rests on the supplied inventory, not a fabricated historical Supreme Court disposition. The eight Associates and Stone participate; no recusal or change between submission and decision is identified. Quorum is nine, with five required for a controlling proposition. The live prospective educational dispute and stipulated record support review; no mootness or source-default premise is adopted. Review addresses the constitutional disposition, leaving the rejected independent IDEA theory and unpresented fee amount, damages, equipment, RFRA and Oregon constitutional questions outside it.
+
+The common pre-June25 baseline applies. Actual Freiler, not a prediction, entered through the fresh neutral KDM packet and final June18 public handoff. B_RELIGION, the targeting standards, relevant published positions, Good News Club and Children's Healthcare supply the remaining law. No Calcano, Colorado or St. Cyr rule is imported merely because those records were processed earlier. Research cutoff is immediately before this June25 event. No new factual reconstruction is used.
+
+## Stone fixed core and exact component joins
+
+Only the KDM module of freeze/OT_2000CHUNK8_STONE_KDM_HICKS.md supplies Stone's position. His intervening-law condition is met through actual Freiler and the affected-law refresh. He joins Parts I and II and the basic constitutional reversal/remand, preserving his express religious-classification rule, public-control and secular-operation limits and separate free-exercise and equality sources. He does not join Part III's complete implementation disposition: he would add an express direction to continue adequate services during implementation and, if no lawful neutral refusal ground exists on the stipulated record, to remove the religious barrier and provide onsite service on the same terms as comparable secular placements. His concurrence preserves both commands without inventing an actual secular recipient or making delivery unconditional. The five Associates' equal-consideration remedy is not enlarged by attributing these additional commands to them. Stone's common judgment support is distinct from full remedial assent. No fallback, new ground or unauthorized narrowing occurs.
+
+## Judgment and opinion table
+
+**Judgment:** The constitutional disposition is reversed and remanded, 6-3. **Supporting reversal and remand:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer. **Opposing:** Stevens, Souter and Ginsburg. Thomas, O'Connor, Scalia, Kennedy and Breyer adopt the complete tailored implementation rule; Stone-Zsela proposes the additional directions in his concurrence rather than joining that remedial part in full.
+
+The lower courts must confine relief to the religious criterion, preserving the independent regulatory provisions and lawful neutral decisions. The rejection of an individual statutory onsite entitlement remains undisturbed. No unconditional onsite award or damages issues.
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stone-Zsela joins Parts I–II only | Six support constitutional reversal; five adopt complete Part III implementation | Five join every part; Stone-Zsela joins constitutional grounds and concurs in the remedial judgment |
+| Concurrence in part and in the judgment | Stone-Zsela | — | Supports reversal/remand; proposes additional implementation directions | Parts I–II joined; service continuity and conditional onsite direction stated separately |
+| Dissent | Souter | Stevens, Ginsburg | Would affirm the constitutional disposition | Entire complete-service benefit/burden ground; no join in invalidation |
+
+## Controlling holdings
+
+### I. Adequate alternative service does not justify the express religious disqualification
+
+**Holding and operative rule:** A State may not exclude a child from consideration for onsite secular special-education services solely because the child's school is religious when the existing program permits comparable secular locations and effective public control can preserve the service's secular character. OAR 581-15-166(3)'s categorical religious-site restriction violates free exercise and equal protection as applied here; neutral educational, logistical and fiscal criteria remain available on equal terms, and no independent statutory onsite entitlement is created.
+
+**Authority:** Parts I and II of Justice Thomas's Opinion of the Court are joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Breyer. Six direct joins control the constitutional rule and establishment analysis. Stevens, Souter and Ginsburg disagree with constitutional invalidation.
+
+**Controlling explanation:** Church of the Lukumi Babalu Aye v. Hialeah subjects an objective religious disability to compelling justification and narrow tailoring. The rule permits consideration of a secular private-school location but categorically excludes the religious location. That legal difference is established by the rule itself; the absence of a proved actual secular onsite recipient does not erase it. Good News Club likewise distinguishes a legal comparison from a requirement to produce an actual comparator, although this public teaching service is not a private-expression forum.
+
+The stipulated adequacy of the fire-hall service, safe transportation and ability to remain in religious school answer claims of educational deprivation and dangerous travel. They do not make the religious condition neutral. Nor can the Court rely on lost classroom integration: onsite instruction would also occur in a separate room. The injury decided is unequal eligibility for an available delivery option because of religious enrollment, not an invented medical or instructional deficit.
+
+The State's separation rationale does not justify that categorical line under the governing actual-function law explained in Part II. Neutral site criteria and effective controls address lawful administration without the religious disqualification. Equal protection independently rejects the same unjustified differential legal term; the Court creates no blended scrutiny category. Employment Division v. Smith remains applicable to genuinely neutral, generally applicable rules. No finding of subjective hostility or general exemption from such rules is necessary.
+
+### II. Constitutional permission for controlled secular service defeats the categorical separation defense
+
+**Holding and operative rule:** Religious-school location alone does not make an independently controlled, operationally separate public vision service unconstitutional. The State may enforce actual safeguards against religious teaching and diversion, but it cannot justify this categorical exclusion by presuming that the religious premises turn the secular service into devotion; constitutional permission does not itself create a general duty to furnish onsite services.
+
+**Authority:** The same six Justices directly join Part II. The source of equal site consideration is Part I's nondiscrimination rule, not a new funding entitlement inferred from establishment permission.
+
+**Controlling explanation:** Agostini v. Felton identifies the public act and its actual religious or secular function, using purpose, effects and institutional relationships within one inquiry. It permits independently administered secular instruction on religious premises under effective public controls. Mitchell v. Helms requires correction of actual financed religious use but rejects religious identity, location, incidental savings and possible diversion as substitutes for that showing.
+
+The contemplated vision service remains the district's instruction, delivered separately from ordinary classroom teaching. The stipulated separate room permits operational separation, and the record identifies no devotional instruction requiring this categorical exclusion. The Court does not find that every future onsite arrangement necessarily complies with every safeguard. Public control and secular performance must remain real; neither neutral eligibility nor public employment immunizes actual religious teaching.
+
+Freiler applies the same unified inquiry to a mandatory official undertaking that preserved a selected religious account. This specialist's secular service is not that undertaking. Official attribution alone identifies the speaker, not a religious function. Children's Healthcare permits its particular secular-care accommodation; it validates neither all religious classifications nor this disability. Zobrest distinguished absence of a federal duty from an affirmative prohibition and supplied no establishment merits ruling. These distinctions answer the State's asserted constitutional necessity without requiring sectarian tuition, inseparably devotional teaching or a new evidentiary audit.
+
+### III. Relief must remove the religious criterion while preserving lawful service decisions
+
+**Holding and operative rule:** The Ninth Circuit's constitutional disposition is reversed, and the matter is remanded for a declaration and injunction against using religious enrollment or location alone to disqualify the proposed service site. The decree must preserve lawful neutral service and site decisions, paragraphs (1), (2) and (4) of the regulation, and the undisturbed rejection of an individual IDEA right to onsite delivery; it does not automatically order an onsite specialist.
+
+**Authority:** Part III is joined by O'Connor, Scalia, Kennedy and Breyer, giving Thomas five direct joins for this implementation rule. Stone-Zsela joins reversal and remand but concurs in the judgment on this component, proposing the additional directions stated in his separate writing. His vote is not counted as assent to the complete Part III remedy.
+
+**Controlling explanation:** The district decree already disclaimed an unconditional specialist entitlement and permitted equal nonreligious refusals consistent with IDEA. Its formal injunction against enforcement of the entire regulation nevertheless sweeps beyond the religious criterion. Mitchell requires relief fitted to the established defect while preserving independent lawful applications. The injunction must therefore target paragraph (3)'s categorical religious-site exclusion and require a delivery decision under lawful criteria, rather than erase the program's independent rules.
+
+The district may select the same offsite arrangement for genuine neutral reasons. It must not preserve the excluded religious condition under an administrative label. The stipulated adequacy, safety and separate-room facts need no reproof, and no new hearing is mandatory. This constitutional remand does not reopen statutory entitlement, award damages, withdraw equipment or determine fees, RFRA or Oregon constitutional claims.
+
+**Operative regulatory qualifications:** Paragraph (1) concerns children from age three through kindergarten eligibility whose parents reject an offered free appropriate public education and unilaterally choose private school; paragraph (2) concerns kindergarten eligibility through age twenty-one under the corresponding resident-district offer. Each denies an individual service entitlement in that setting and assigns selection, services and delivery to the responsible public agency under OAR 581-15-171. Paragraph (4) independently requires genuine opportunities for equitable participation consistent with children's number and needs. Those provisions remain effective, subject to the constitutional nondiscrimination rule.
+
+**Limits and questions not reached:** The holding protects equal eligibility within the service actually offered, not a universal private-school subsidy or an obligation to reimburse religious tuition. A materially different service inseparable from devotional instruction is outside this record. Specific lawful neutral grounds for the delivery decision remain for implementation; the Court does not invent one. The preserved statutory ruling and the distinction between permission and obligation remain binding.
+
+## Precedent treatment and present law
+
+- Church of the Lukumi Babalu Aye v. Hialeah — applied to the objective religious classification, compelling justification and tailoring; a modest alternative-site burden does not make the explicit disability neutral.
+- Employment Division v. Smith — preserved for genuinely neutral, generally applicable rules; no broad exemption regime is created.
+- Agostini v. Felton — applied through its unified actual-function inquiry and permission for operationally separate, publicly controlled secular instruction; permission alone supplies no onsite entitlement.
+- Mitchell v. Helms — applied to distinguish actual financed religious use from location presumptions and to preserve lawful applications when tailoring relief.
+- Zobrest v. Catalina Foothills School District — its antecedent-law remand and distinction between lack of duty and prohibition remain; no establishment merits holding is inferred.
+- Good News Club v. Milford Central School — its legal-comparator distinction informs the religious eligibility inquiry; its private-expression forum is not extended to public teaching services.
+- Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle — its limited accommodation and actual-control requirements remain program specific, not approval of every religious classification.
+- Freiler v. Tangipahoa Parish Board of Education — its complete-policy religious-function holding is applied as governing method and distinguished in operation; official attribution and location alone do not establish devotion.
+
+Equal site eligibility within the offered secular service may not be withheld solely because of religious enrollment or location. Adequate safe alternatives remain relevant to administration and remedy but do not validate the express classification. Actual public control and secular operation, rather than premises alone, govern the establishment question. The existing program's independent eligibility, selection and equitable-participation rules survive; the Court requires a lawful delivery decision and fitted relief, not a universal onsite entitlement. Stone-Zsela's additional continuity and conditional onsite commands are not part of the controlling mandate.
+
+## Published Noncontrolling Continuity
+
+K.D.M. v. Reedsport School District, June25, 2001:
+
+Chief Justice Stone-Zsela concurs in Parts I and II and in the judgment, with a distinct implementation position. He joins the constitutional reversal and a tailored injunction against the religious criterion, leaving the rejection of an independent statutory onsite right intact. He would expressly require adequate services to continue during implementation. If no lawful neutral ground supports refusal on the stipulated record, he would require removal of the religious barrier and provision of onsite service on the same terms as comparable secular placements. That condition does not award onsite delivery unconditionally or depend on an invented actual secular onsite recipient. It preserves genuinely neutral educational, logistical and fiscal criteria, effective public control and safeguards against religious instruction. These additional implementation directions are his position, not the Court's five-Justice Part III mandate.
+
+Justice Souter, joined by Justices Stevens and Ginsburg, dissents. They would affirm the constitutional rejection on the stipulated arrangement: the district supplies the complete adequate service, safe nearby transportation and continued religious enrollment. They distinguish the government's location for its own instructional service from denial of a benefit or exclusion of private religious expression. In their view constitutional permission to deliver a service at religious premises does not require making every permitted location available where the actual service and religious schooling remain intact.
+
+They confront the express legal distinction but find no actionable impairment of religious exercise or unequal access on this record. The lack of an actual secular onsite recipient supports that limited conclusion; they do not make an actual comparator indispensable to every challenge to a facial religious disability. They accept Agostini, Mitchell and Freiler's actual-function law and do not presume devotion from location, restore independent Lemon prongs or declare onsite service forbidden. Good News Club's private-access setting and Children's Healthcare's affirmative payment preference differ from the fully supplied public instruction here. Their view would leave the injunction displaced, with statutory obligations intact, while preserving materially different claims involving inadequate, unsafe, inaccessible or unequal services. Their conditional agreement that any contrary injunction must preserve independent regulatory provisions is not a vote for reversal.
+
+Five direct Part III joins and six Parts I–II joins control; no Marks combination is needed. The three dissenters' conditional decree-tailoring agreement supplies no additional reversal vote. No institutional, roster or allotment change or external follow-on event is admitted.
+
+## Adaptive audit annex: each Associate and historical comparison
+
+The following reconciliation table and comparison are mechanically carried from the final frozen handoff. The original model and full individual barriers remain preserved in freeze/OT_2000CHUNK8_COMMITMENTS_kdm.md; no current Supreme Court historical merits lineup exists for comparison.
+
+
+| Associate | Reconciled components A–C and sufficient ground | Historical comparison and actual entering-law basis | Result of review |
+|---|---|---|---|
+| Stevens | Affirm the constitutional rejection on this complete-service record. Permissible onsite service does not compel the State to offer this location for its own staff's instruction; no benefit denial or impairment of religious enrollment is established. Do not reinstate the injunction. | There is no historical Supreme Court vote to match. The lower-court majority's limited benefit/burden distinction is compatible with his Agostini substantive dissent and Good News Club activity distinction, but its independent Lemon and inferred-suppression methods are not adopted. His unanimous substantive Mitchell join and Freiler join require actual religious function; they foreclose calling the premises alone unconstitutional. His Lukumi joins remain a serious counterargument, answered at the definition of the supplied benefit and the actual as-applied burden, not by a general immunity for religious classifications. | Retained. His agreement that any contrary decree must be tailored remains conditional remedial agreement, not reversal. |
+| O'Connor | Reverse the constitutional judgment; the express religious location disqualification denies equal consideration within the supplied secular service. Remove that criterion and remand for limited relief, preserving neutral site decisions and the independent regulatory paragraphs. | No historical Supreme Court merits choice exists. Her Lukumi judgment concurrence condemns discriminatory religious burdens; her full Agostini, Mitchell and Good News Club joins reject categorical location presumptions while preserving real secular controls. The legal eligibility injury, rather than an invented educational deficit, supports scrutiny. Her authored Zobrest remand separates absence of duty from prohibition but supplies no additional entitlement. | Retained. No automatic onsite award, general exemption from neutral rules or immunity for financed devotion. |
+| Scalia | Reverse on objective religious classification and insufficient tailoring. Genuine generally applicable offsite policies remain available; invalidate the categorical religious criterion and conform relief to it. | No historical Supreme Court choice exists. His Lukumi objective-text concurrence supports this ground without subjective hostility; his Agostini and Mitchell joins permit separately controlled secular work. His Zobrest dissent and current Good News Club and Children's Healthcare positions distinguish actual public religious function from private faith. Freiler's dissent confirms that distinction without establishing a universal no-coercion immunity. | Retained. No motive-only ground, broad exemption regime, supposed private-speech forum or new audit condition. |
+| Kennedy | Reverse because the rule itself makes religious enrollment a legal disqualification from site consideration. Remand for nondiscriminatory consideration and a decree confined to that defect. | No historical Supreme Court choice exists. His Lukumi opinion treats objective selective restriction and tailoring as independently material. His full Agostini and Mitchell joins foreclose the categorical establishment inference. His Good News Club and Children's Healthcare joins preserve their particular program boundaries; his Freiler dissent does not undo his official-school-religion objections where actual public devotion exists. | Retained. Neither an actual secular onsite pupil nor extra physical injury is required for this legal-classification ground; no universal funding entitlement follows. |
+| Souter | Affirm at the actual adequate, safe, nearby-service scope. The district supplies the complete public instruction while leaving religious enrollment intact; public-service location is distinct from excluding private expression. No constitutional prohibition on future controlled onsite service is adopted. | No historical Supreme Court choice exists. His Agostini substantive dissent and Good News Club institutional distinction support state delivery discretion, while his later full substantive Mitchell join and Freiler join bind him to actual-function law. His Lukumi scrutiny join remains contrary evidence; his conclusion concerns whether this arrangement supplies the claimed burden, not whether an established religious disability can be balanced away. | Retained. No revival of Aguilar's categorical ban or general rational-basis rule for religious discrimination. Conditional decree-tailoring agreement is not reversal. |
+| Thomas | Reverse on the objective religious disability; safe alternative delivery does not make the criterion neutral. Require relief against that criterion with lawful program and site discretion preserved. | No historical Supreme Court choice exists. His Lukumi, Agostini and Mitchell joins support the text-and-operation distinction and reject presumed religious use. His Zobrest dissent and Good News Club and Children's Healthcare joins distinguish child-directed secular service from an actual public religious function. His Freiler dissent is consistent with that limited attribution rule, not an unstated funding or incorporation theory. | Retained. No devotional subsidy entitlement, animus finding, automatic onsite direction or additional evidentiary precondition. |
+| Ginsburg | Affirm this application because adequate, safe and nearby delivery supplies the complete secular benefit without impairing religious schooling. Keep statutory obligations intact and leave future lawful onsite choices open. | No historical Supreme Court choice exists. Her Agostini substantive dissent and Good News Club institutional concerns support the government-service distinction. Her full substantive Mitchell join and Freiler join prevent a location-only establishment finding. Good News Club's legal-comparator holding is addressed, not ignored: she distinguishes private access from the government's own fully supplied service and does not require an actual comparator in every facial-classification challenge. | Retained. No general permission to discriminate in secular benefits, no independent Lemon prongs and no unsupported fact remand. |
+| Breyer | Reverse the unnecessary religious eligibility criterion while preserving practical administration. Adequate alternatives limit relief and defeat an automatic onsite order; they do not justify the categorical distinction. | No historical Supreme Court choice exists. His Agostini dissent did not adopt the substantive direct-aid objection of Stevens, Souter and Ginsburg. His authored Mitchell rule rejects categorical presumptions and preserves separable lawful applications; his Good News Club comparison and Children's Healthcare accommodation distinguish limited permissible religious differentiation from an unsupported disability. His Freiler join addresses actual religious means and supplies no finding of such means here. | Retained. The decree must preserve paragraphs (1), (2) and (4), neutral site choices and equitable participation; no classroom-integration finding or new compulsory hearing. |
+
+## Historical departures and coalition limits
+
+No Associate has a historical Supreme Court merits vote in this matter from which a departure can be asserted. The five reversal commitments differ from the historical appellate result; the three affirmance commitments preserve that result without adopting all of its reasons. This is not evidence that a historical Supreme Court dissent became a majority.
+
+The concrete legal-premise differences are nonetheless material. Zobrest supplies no controlling establishment merits decision in this timeline; Agostini replaces independent Lemon-prong adjudication with the unified actual-function inquiry; Mitchell directly rejects religious identity or possible diversion as conclusive proof and supplies fitted relief. For O'Connor, Scalia, Kennedy and Thomas, their own Agostini and Mitchell joins support rejection of the categorical justification. For Breyer, his authorship and full substantive/remedial Mitchell positions support equal site consideration with retained secular safeguards. Stevens, Souter and Ginsburg accept those same current prohibitions on categorical establishment inference but retain a distinct view of the constitutional benefit and burden. None may reach its result simply by reproducing the old appellate rational-basis, subjective-purpose or independent-entanglement analysis.
+
+All five reversal commitments share the limited eligibility rule, not merely a judgment. All three affirmance commitments share the actual complete-service ground. Neither group acquires the other's constitutional conclusion through conditional agreement about remedy. Assembly may state a common coalition once when its scope is clear, but must preserve every individual barrier in the frozen handoff. A material new ground or changed premise requires the clean affected stages specified by the Engine; historical reconciliation itself supplies no Stone choice or fallback.
+
+
+## Assignment and final compatibility
+
+The legal form was fixed in tmp/chunk8_kdm_form.md before the final fresh count, including the express distinction between Stone's partial join and the five-Associate implementation ground. The preliminary shared-remedy characterization was clarified before any assignment was finalized. No part was divided to affect counts. Freeze/OT_2000CHUNK8_ASSIGNMENT_kdm.json and its ASSIGNMENT_SOURCES_kdm.md extraction recount 94 prior signed leads from actual tables; the last event is INS v. St. Cyr, June25, Stevens's lead.
+
+| Justice | Count before assignment | Eligible for whole lead | Balance pool |
+|---|---:|---|---|
+| Stone-Zsela | 10 | No: partial remedy join | No |
+| Stevens | 11 | No: dissent | No |
+| O'Connor | 11 | Yes | No |
+| Scalia | 10 | Yes | Yes |
+| Kennedy | 10 | Yes | Yes |
+| Souter | 12 | No: dissent | No |
+| Thomas | 9 | Yes | Yes |
+| Ginsburg | 10 | No: dissent | No |
+| Breyer | 11 | Yes | No |
+
+Stone assigns as a member of the reversal/remand coalition, although his partial remedial join excludes him from whole-lead authorship. One author can carry all parts. Eligible minimum is nine; the pool is Scalia, Kennedy and Thomas. Thomas is selected for the objective text-and-operation application his actual Lukumi, Agostini, Mitchell and current religious-function joins support, with the precise non-entitlement remedy retained. Kennedy's authored Lukumi opinion makes him the strongest pool alternative and Scalia's objective-classification position is also compatible. No new targeting framework or motive inquiry is needed; Thomas can express the settled common ground equally faithfully and has the lower count. No necessary formulation disagreement requires expansion. O'Connor and Breyer remain eligible in substance but outside the balance pool. Souter's complete-service distinction supplies the shared dissent; it is not a counted lead.
+
+All five reversing Associates join all three parts within their frozen constraints. Stone joins Parts I–II only, with his own two additional remedial commands. Stevens, Souter and Ginsburg join the bounded dissent, not a categorical establishment prohibition or general rational-basis treatment. The majority addresses their benefit-definition objection without changing their votes. No new Associate ground, join, objection or circulation history is invented; no post-reconciliation change requires a fresh audit. Six reversal votes, six constitutional rationale votes and five complete implementation votes are separate counts and are not conflated.
+
+## Sources and validation status
+
+The fresh KDM neutral packet and complete source supplement establish the four regulatory paragraphs, actual decree and stipulated facts. The reconciled KDM receipt records complete reading of both appellate writings and their footnotes; their differing comparator claims do not replace the validated no-actual-recipient record. Actual public entering-law materials establish the governing method. The scoped approved Stone module supplies his additional implementation choices. No missing research source produces default or a compulsory new hearing.
+
+The durable record is records/KDM_v_Reedsport_School_District_merits_2001-06-25.md. Local structural, vote/join, assignment, public-boundary, identical-holdings and 350-word explanation checks appear in freeze/OT_2000CHUNK8_ASSEMBLY_kdm_CHECKS.json. Coordinated workspace publication, generated Render Input and term-level validation remain control's integration work, not completed checks claimed here. No substantive or source blocker remains. No public Render is authored.
+
+## Public Projection
+
+## Event
+
+K.D.M. v. Reedsport School District, review of the Ninth Circuit judgment reported at 196 F.3d 1046 (November 15, 1999). Merits disposition, June 25, 2001. The question is whether adequate and safely accessible alternative services permit the State's express religious-site restriction on secular special education. The independent IDEA onsite-entitlement ruling is not reopened.
+
+K.D.M., a blind child with cerebral palsy, attends Harbor Baptist Church School by his parents' religious choice. The district supplies equipment there and vision instruction at a nearby fire hall, about ninety minutes twice weekly with district transportation. Adequacy and travel safety are stipulated. Onsite instruction would also occur in a separate room. The rule permits secular private-school sites, but the record establishes no actual secular onsite recipient. The district court granted constitutional relief while denying an unconditional specialist entitlement; the Ninth Circuit reversed the constitutional judgment.
+
+## Participation
+
+All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No nonparticipation is identified.
+
+## Public Action
+
+The Ninth Circuit constitutional judgment is reversed and the case remanded for tailored relief against the religious-site criterion.
+
+## Judgment & Remedy
+
+**Judgment:** The constitutional disposition is reversed and remanded, 6-3. **Supporting reversal and remand:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer. **Opposing:** Stevens, Souter and Ginsburg. Thomas, O'Connor, Scalia, Kennedy and Breyer adopt the complete tailored implementation rule; Stone-Zsela proposes the additional directions in his concurrence rather than joining that remedial part in full.
+
+The lower courts must confine relief to the religious criterion, preserving the independent regulatory provisions and lawful neutral decisions. The rejection of an individual statutory onsite entitlement remains undisturbed. No unconditional onsite award or damages issues.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stone-Zsela joins Parts I–II only | Six support constitutional reversal; five adopt complete Part III implementation | Five join every part; Stone-Zsela joins constitutional grounds and concurs in the remedial judgment |
+| Concurrence in part and in the judgment | Stone-Zsela | — | Supports reversal/remand; proposes additional implementation directions | Parts I–II joined; service continuity and conditional onsite direction stated separately |
+| Dissent | Souter | Stevens, Ginsburg | Would affirm the constitutional disposition | Entire complete-service benefit/burden ground; no join in invalidation |
+
+## Holdings
+
+### I. Adequate alternative service does not justify the express religious disqualification
+
+**Holding and operative rule:** A State may not exclude a child from consideration for onsite secular special-education services solely because the child's school is religious when the existing program permits comparable secular locations and effective public control can preserve the service's secular character. OAR 581-15-166(3)'s categorical religious-site restriction violates free exercise and equal protection as applied here; neutral educational, logistical and fiscal criteria remain available on equal terms, and no independent statutory onsite entitlement is created.
+
+**Authority:** Parts I and II of Justice Thomas's Opinion of the Court are joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Breyer. Six direct joins control the constitutional rule and establishment analysis. Stevens, Souter and Ginsburg disagree with constitutional invalidation.
+
+**Controlling explanation:** Church of the Lukumi Babalu Aye v. Hialeah subjects an objective religious disability to compelling justification and narrow tailoring. The rule permits consideration of a secular private-school location but categorically excludes the religious location. That legal difference is established by the rule itself; the absence of a proved actual secular onsite recipient does not erase it. Good News Club likewise distinguishes a legal comparison from a requirement to produce an actual comparator, although this public teaching service is not a private-expression forum.
+
+The stipulated adequacy of the fire-hall service, safe transportation and ability to remain in religious school answer claims of educational deprivation and dangerous travel. They do not make the religious condition neutral. Nor can the Court rely on lost classroom integration: onsite instruction would also occur in a separate room. The injury decided is unequal eligibility for an available delivery option because of religious enrollment, not an invented medical or instructional deficit.
+
+The State's separation rationale does not justify that categorical line under the governing actual-function law explained in Part II. Neutral site criteria and effective controls address lawful administration without the religious disqualification. Equal protection independently rejects the same unjustified differential legal term; the Court creates no blended scrutiny category. Employment Division v. Smith remains applicable to genuinely neutral, generally applicable rules. No finding of subjective hostility or general exemption from such rules is necessary.
+
+### II. Constitutional permission for controlled secular service defeats the categorical separation defense
+
+**Holding and operative rule:** Religious-school location alone does not make an independently controlled, operationally separate public vision service unconstitutional. The State may enforce actual safeguards against religious teaching and diversion, but it cannot justify this categorical exclusion by presuming that the religious premises turn the secular service into devotion; constitutional permission does not itself create a general duty to furnish onsite services.
+
+**Authority:** The same six Justices directly join Part II. The source of equal site consideration is Part I's nondiscrimination rule, not a new funding entitlement inferred from establishment permission.
+
+**Controlling explanation:** Agostini v. Felton identifies the public act and its actual religious or secular function, using purpose, effects and institutional relationships within one inquiry. It permits independently administered secular instruction on religious premises under effective public controls. Mitchell v. Helms requires correction of actual financed religious use but rejects religious identity, location, incidental savings and possible diversion as substitutes for that showing.
+
+The contemplated vision service remains the district's instruction, delivered separately from ordinary classroom teaching. The stipulated separate room permits operational separation, and the record identifies no devotional instruction requiring this categorical exclusion. The Court does not find that every future onsite arrangement necessarily complies with every safeguard. Public control and secular performance must remain real; neither neutral eligibility nor public employment immunizes actual religious teaching.
+
+Freiler applies the same unified inquiry to a mandatory official undertaking that preserved a selected religious account. This specialist's secular service is not that undertaking. Official attribution alone identifies the speaker, not a religious function. Children's Healthcare permits its particular secular-care accommodation; it validates neither all religious classifications nor this disability. Zobrest distinguished absence of a federal duty from an affirmative prohibition and supplied no establishment merits ruling. These distinctions answer the State's asserted constitutional necessity without requiring sectarian tuition, inseparably devotional teaching or a new evidentiary audit.
+
+### III. Relief must remove the religious criterion while preserving lawful service decisions
+
+**Holding and operative rule:** The Ninth Circuit's constitutional disposition is reversed, and the matter is remanded for a declaration and injunction against using religious enrollment or location alone to disqualify the proposed service site. The decree must preserve lawful neutral service and site decisions, paragraphs (1), (2) and (4) of the regulation, and the undisturbed rejection of an individual IDEA right to onsite delivery; it does not automatically order an onsite specialist.
+
+**Authority:** Part III is joined by O'Connor, Scalia, Kennedy and Breyer, giving Thomas five direct joins for this implementation rule. Stone-Zsela joins reversal and remand but concurs in the judgment on this component, proposing the additional directions stated in his separate writing. His vote is not counted as assent to the complete Part III remedy.
+
+**Controlling explanation:** The district decree already disclaimed an unconditional specialist entitlement and permitted equal nonreligious refusals consistent with IDEA. Its formal injunction against enforcement of the entire regulation nevertheless sweeps beyond the religious criterion. Mitchell requires relief fitted to the established defect while preserving independent lawful applications. The injunction must therefore target paragraph (3)'s categorical religious-site exclusion and require a delivery decision under lawful criteria, rather than erase the program's independent rules.
+
+The district may select the same offsite arrangement for genuine neutral reasons. It must not preserve the excluded religious condition under an administrative label. The stipulated adequacy, safety and separate-room facts need no reproof, and no new hearing is mandatory. This constitutional remand does not reopen statutory entitlement, award damages, withdraw equipment or determine fees, RFRA or Oregon constitutional claims.
+
+**Operative regulatory qualifications:** Paragraph (1) concerns children from age three through kindergarten eligibility whose parents reject an offered free appropriate public education and unilaterally choose private school; paragraph (2) concerns kindergarten eligibility through age twenty-one under the corresponding resident-district offer. Each denies an individual service entitlement in that setting and assigns selection, services and delivery to the responsible public agency under OAR 581-15-171. Paragraph (4) independently requires genuine opportunities for equitable participation consistent with children's number and needs. Those provisions remain effective, subject to the constitutional nondiscrimination rule.
+
+**Limits and questions not reached:** The holding protects equal eligibility within the service actually offered, not a universal private-school subsidy or an obligation to reimburse religious tuition. A materially different service inseparable from devotional instruction is outside this record. Specific lawful neutral grounds for the delivery decision remain for implementation; the Court does not invent one. The preserved statutory ruling and the distinction between permission and obligation remain binding.
+
+## Precedent Treatment
+
+- Church of the Lukumi Babalu Aye v. Hialeah — applied to the objective religious classification, compelling justification and tailoring; a modest alternative-site burden does not make the explicit disability neutral.
+- Employment Division v. Smith — preserved for genuinely neutral, generally applicable rules; no broad exemption regime is created.
+- Agostini v. Felton — applied through its unified actual-function inquiry and permission for operationally separate, publicly controlled secular instruction; permission alone supplies no onsite entitlement.
+- Mitchell v. Helms — applied to distinguish actual financed religious use from location presumptions and to preserve lawful applications when tailoring relief.
+- Zobrest v. Catalina Foothills School District — its antecedent-law remand and distinction between lack of duty and prohibition remain; no establishment merits holding is inferred.
+- Good News Club v. Milford Central School — its legal-comparator distinction informs the religious eligibility inquiry; its private-expression forum is not extended to public teaching services.
+- Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle — its limited accommodation and actual-control requirements remain program specific, not approval of every religious classification.
+- Freiler v. Tangipahoa Parish Board of Education — its complete-policy religious-function holding is applied as governing method and distinguished in operation; official attribution and location alone do not establish devotion.
+
+## Law After Decision
+
+Equal site eligibility within the offered secular service may not be withheld solely because of religious enrollment or location. Adequate safe alternatives remain relevant to administration and remedy but do not validate the express classification. Actual public control and secular operation, rather than premises alone, govern the establishment question. The existing program's independent eligibility, selection and equitable-participation rules survive; the Court requires a lawful delivery decision and fitted relief, not a universal onsite entitlement. Stone-Zsela's additional continuity and conditional onsite commands are not part of the controlling mandate.
+
+## Separate Writings
+
+Chief Justice Stone-Zsela concurs in Parts I and II and in the judgment, with a distinct implementation position. He joins the constitutional reversal and a tailored injunction against the religious criterion, leaving the rejection of an independent statutory onsite right intact. He would expressly require adequate services to continue during implementation. If no lawful neutral ground supports refusal on the stipulated record, he would require removal of the religious barrier and provision of onsite service on the same terms as comparable secular placements. That condition does not award onsite delivery unconditionally or depend on an invented actual secular onsite recipient. It preserves genuinely neutral educational, logistical and fiscal criteria, effective public control and safeguards against religious instruction. These additional implementation directions are his position, not the Court's five-Justice Part III mandate.
+
+Justice Souter, joined by Justices Stevens and Ginsburg, dissents. They would affirm the constitutional rejection on the stipulated arrangement: the district supplies the complete adequate service, safe nearby transportation and continued religious enrollment. They distinguish the government's location for its own instructional service from denial of a benefit or exclusion of private religious expression. In their view constitutional permission to deliver a service at religious premises does not require making every permitted location available where the actual service and religious schooling remain intact.
+
+They confront the express legal distinction but find no actionable impairment of religious exercise or unequal access on this record. The lack of an actual secular onsite recipient supports that limited conclusion; they do not make an actual comparator indispensable to every challenge to a facial religious disability. They accept Agostini, Mitchell and Freiler's actual-function law and do not presume devotion from location, restore independent Lemon prongs or declare onsite service forbidden. Good News Club's private-access setting and Children's Healthcare's affirmative payment preference differ from the fully supplied public instruction here. Their view would leave the injunction displaced, with statutory obligations intact, while preserving materially different claims involving inadequate, unsafe, inaccessible or unequal services. Their conditional agreement that any contrary injunction must preserve independent regulatory provisions is not a vote for reversal.
+
+## Procedure After Action
+
+The case returns through the Ninth Circuit for a constitutional decree fitted to paragraph (3)'s categorical religious exclusion and a delivery decision under lawful, generally applicable criteria and actual secular safeguards. Paragraphs (1), (2) and (4) remain in force. The courts need not reopen the stipulated adequacy, safety or separate-room facts, and no mandatory new hearing, damages, equipment withdrawal or specific fee award is ordered. The statutory onsite-entitlement rejection is undisturbed. Ordinary mandate procedure applies.
+
+## Source Notes
+
+The [petition appendices and predecision record](https://archive.org/details/micro_IA40386019_1663) contain the complete regulation, stipulated facts, Ninth Circuit majority and dissent and district decree. Appendix pages 5a–7a supply all four regulatory paragraphs and the express absence of an established actual secular onsite recipient; page 10a supplies adequate service, safe transportation and separate-room stipulations. Pages 33a–34a supply the injunction's formal breadth and its denial of an unconditional specialist right. No Supreme Court docket or separate oral-argument date is supplied; June 25, 2001 is the assigned merits date. No lost classroom integration or devotional instruction is established.

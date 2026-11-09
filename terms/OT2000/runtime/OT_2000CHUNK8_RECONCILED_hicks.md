@@ -1,0 +1,100 @@
+# Nevada v. Hicks — reconciled non-Stone commitments
+
+**Stage:** Historical reconciliation only; no present-matter Stone position and no author selection.
+**Event:** No. 99-1994, merits, June 25, 2001.
+**Research cutoff:** Immediately before the event. Actual Atkinson and Saucier enter at their published scope. The final clean screen of subsequently completed June 18 public law remains an assembly release gate; no uncoordinated June 25 decision enters as prior law.
+**Inputs preserved:** The frozen independent commitments are unchanged. This second handoff states the supported reconciled positions and explains every material difference from those commitments.
+
+## Verified comparator and current-law distinctions
+
+The complete official Hicks report, 533 U.S. 353–404, was read: all 52 supplied report pages, the Court's opinion and every footnote, Souter's concurrence with Kennedy and Thomas, Ginsburg's concurrence, O'Connor's opinion with Stevens and Breyer, and Stevens's opinion with Breyer. The scoped comparator's unanimous judgment description is accurate but insufficient to identify the separate grounds or remand instructions. Historical authorship is evidence about historical writings only and is not an assignment instruction.
+
+Historically, five of the eight present Associates—Scalia, Kennedy, Souter, Thomas and Ginsburg—supported rejection of both reviewed categories of tribal claims and dispensed with further tribal exhaustion. The other three supported reversal and remand on a materially different basis: O'Connor, with Stevens and Breyer, would require early federal consideration of the officials' immunity defenses rather than adopt the per se state-enforcement rule. Their opinion also expressly accepted Montana as the starting framework on tribal as well as nontribal land, while requiring serious attention to land and the exceptions. Stevens and Breyer separately rejected the proposition that §1983 could not be heard in a tribal tribunal that otherwise had authority over the parties and controversy. The report does not expressly identify O'Connor as joining that separate §1983 opinion; no such join is invented.
+
+The actual entering authorities were checked against the proposed differences:
+
+- Actual Strate requires corresponding governing power, a meaningful consensual nexus, and separate predicates for federal coercive relief. Its highway holding leaves retained trust land and properly connected arrangements open. Leaving them open does not commit any Justice to refusing Montana as a starting rule when that question later arises.
+- Actual Atkinson controls its nonmember fee-land tax. Kennedy, Souter and Thomas already support an all-land Montana starting point in their published concurrence. Its reservation of a general Court rule does not bar the other Associates from adopting that starting point here.
+- Actual Bourland preserves residual authority after the specified displacement of exclusion rights. Souter's prior dissent remains relevant to retained sovereignty but does not negate his more recent Atkinson position.
+- Actual Neztsosie assigns the specific Price-Anderson coverage question to federal court and preserves the independent conditions for uncovered claims and relief. It supplies no general statutory removal power and no automatic injunction for every federal claim. It does not hold that a tribal court possessing an adequate independent source of authority is invariably forbidden to decide a federal cause of action.
+- Actual Hafer preserves personal-capacity §1983 liability and applicable personal defenses. It supplies neither universal tribal competence nor sovereign immunity for personal claims.
+- Actual Saucier preserves existing objective personal immunity without a controlling universal merits-first sequence. Its force-specific separate views do not eliminate ordinary Harlow/Anderson protection for these search claims. No uncertainty about the proper forum in 2001 determines whether the 1990–1991 searches violated then-clearly-established law.
+
+The two warrants, retained trust allotment, immunity assertions and completed tribal jurisdictional review were also present historically. More precise retrieval of their actual terms is not a changed historical fact. No new merits finding, consent to civil litigation or dismissal of the Director has been established.
+
+## Reconciled component commitments
+
+| Justice | Tribal tort authority and disposition | Section 1983 forum component | Exhaustion, personal defenses and remedy |
+|---|---|---|---|
+| Stevens | Reverse the undifferentiated jurisdiction approval and remand; Montana guides retained-land nonmember analysis, with actual land interests and both exceptions considered; no adjudicated qualifying consent | Reject a categorical federal-cause bar where an adequate independent tribal jurisdictional source exists; return this component with the jurisdiction/immunity inquiry, rather than sustain jurisdiction now | Federal courts should consider the raised immunity defenses during review without automatic further tribal exhaustion; no immunity award or liability finding |
+| O'Connor | Reverse and remand on early immunity consideration and proper Montana application; reject a categorical state-officer exemption and an automatic jurisdiction finding from accepted warrant terms | Retain the independently modeled rejection of this asserted §1983 tribal forum; no independent statutory grant supplies the missing forum authority; do not attribute Stevens's separate historical view to her | Consider the actual defenses at the earliest appropriate federal stage; retain personal/sovereign distinctions and proper-party/equitable conditions |
+| Scalia | Reverse; the asserted regulation of execution of state process for an off-reservation offense is not necessary to tribal self-government or internal relations; these warrants supply no qualifying first exception | Reverse; §1983 does not supply the asserted tribal jurisdiction | No additional exhaustion where authority is absent; do not decide personal immunity or issue an automatic injunction |
+| Kennedy | Reverse under the state-enforcement ground and his all-land Montana starting point; neither exception established | Reverse on absence of a proper tribal forum source | Same no-additional-exhaustion result; independent remedy predicates remain |
+| Souter | Reverse under the state-enforcement ground and his all-land Montana starting point; no remand merely to repeat the already answered authority inquiry | Reverse on absence of a proper tribal forum source | Same; no search merits or personal-immunity determination |
+| Thomas | Reverse under the state-enforcement ground and his all-land Montana starting point; actual qualifying sources remain necessary | Reverse on absence of a proper tribal forum source | Same; preserve ordinary personal defenses elsewhere and the actual Neztsosie limits |
+| Ginsburg | Reverse on the state-enforcement category; leave general private nonmember retained-land jurisdiction unresolved | Reverse on the reviewed statutory-forum ground | Same; unrelated private conduct by an official is not immunized and relief remains bounded |
+| Breyer | Reverse and remand with Stevens/O'Connor on the proper Montana inquiry and early consideration of defenses; no affirmative accepted-condition jurisdiction rule now | With Stevens, reject a categorical statutory bar in an otherwise competent tribal forum; remand under the actual authority and defense inquiries | No unconditional further tribal exhaustion of the already raised defenses; no force-specific immunity theory imported into these searches |
+
+These are eight Associate commitments, not a completed Court judgment. All eight reject leaving the Ninth Circuit's undifferentiated approval and mandatory further-exhaustion direction intact. Five support final rejection of the reviewed tribal tort authority; three require a materially different return. Six support rejection of the reviewed §1983 forum; Stevens and Breyer preserve its possible availability if the independent authority and defense questions permit it. Formal agreement to reverse and remand must not be presented as unanimity for the five-Justice substantive no-tort-jurisdiction rule, or for the six-Justice statutory-forum ground.
+
+## Justice-specific reconciliation and join limits
+
+### Stevens
+
+The frozen model supported an accepted-permission tort remand, refused an all-land Montana rule and rejected the §1983 forum. His historical writings instead join Montana's applicability across land settings and the early-immunity ground, while expressly accepting the federal cause in an otherwise competent tribal court (533 U.S. 387–404). His National Farmers opinion, Montana join and actual Strate join are consistent with that distinction: underlying authority over nonmembers must exist, but the source of the cause of action is a separate question. No changed statute, grant, land status or immunity rule supports his modeled categorical forum rejection or refusal of the Montana starting point.
+
+After source review, reconcile to the early-defense/proper-Montana remand and conditional federal-forum position. Accepted permissions remain relevant evidence for the first exception; they are not an affirmative holding that the officials entered a qualifying regulatory arrangement. The strongest state objection is that official criminal enforcement is not ordinary consensual dealing. His historical answer preserves the inquiry rather than resolving that objection categorically for either side. The particular 1990 exterior condition does not govern the 1991 warrant, and neither instrument proves a breach or the Director's personal participation.
+
+The actual Strate and Neztsosie remedy rules qualify the historical suggested equivalent of removal: a federal injunction requires an actual federal basis, lawful defendants, any necessary immunity accommodation and ordinary equitable predicates. Section 1441 is not rewritten. His agreement to early consideration does not convert a waivable personal defense into nonwaivable subject-matter jurisdiction. A separate position, if needed in assembly, must explain these forum and early-defense grounds rather than the frozen model's final no-§1983 conclusion.
+
+### O'Connor
+
+Her historical opinion directly accepts Montana across land settings, emphasizes that retained land and consensual arrangements can matter, and would reverse because the federal courts failed to address raised immunity defenses (533 U.S. 387–401). Her actual Iowa Mutual, Strate, Atkinson and Hafer positions preserve those distinctions. The prior Court's failure to decide an all-land proposition is not a changed premise that supports the frozen refusal to adopt it here. Likewise, the more exact warrants are historical facts, not a reason to change her unresolved consensual-relationship assessment into a settled accepted-condition rule.
+
+Reconcile the tort/remedy commitment to proper Montana analysis with early federal immunity consideration. The relationship may qualify, but its character and scope require application; no per se state-officer immunity from every tribal claim follows. Retain her independently supported no-§1983-forum commitment at the frozen case-specific level because the complete historical source does not expressly commit her to Stevens's contrary separate proposition. That conclusion is not described as a verified historical full join in Part III. Hafer's personal-capacity rule remains intact; no immunity from personal liability is inferred merely from state employment.
+
+Her strongest objection to the five-Justice tort ground is its categorical subordination of retained tribal interests even where the officers used tribal authorization. Her strongest objection to a direct tribal-jurisdiction holding is that consent and land interests still require the Montana inquiry and do not decide every defense. A separate writing may state that actual middle position and its different remand. She does not award qualified immunity or prescribe a universal constitutional-merits-first sequence.
+
+### Scalia
+
+The historical full opinion matches the modeled state-enforcement result, no statutory tribal grant and nonexhaustion ground (533 U.S. 357–375). His actual Strate opinion supplies corresponding governing authority and nexus; his Hafer join separates personal liability from forum power. No displaced premise calls for abandoning this result.
+
+The strongest contrary point is the actual tribal authorization, but its relationship is intergovernmental implementation of state process, not on this record a qualifying private regulatory undertaking. The narrower no-authority rule resolves these searches without deciding every private nonmember claim or the effect of an express state-tribal cooperative contract. State status does not excuse an independent private venture or prove lawful execution. He may state Montana's nonmember principle across land settings while retaining the case-specific operative limit; no historical authorship is imported. Relief remains governed by his actual Strate joins, not by an assumed automatic injunction.
+
+### Kennedy
+
+His historical full join and broader concurrence, and his actual Atkinson concurrence, point to the same outcome. The all-land starting point does not make title irrelevant within the exceptions. His stronger alternative is a retained-land, accepted-condition remand; the character of the public enforcement relationship and absence of a qualifying direct tribal effect answer it at the modeled level. His actual Hafer and Saucier positions preserve personal liability and the objective defense in a competent forum, not an adjudication of the searches here. Retain all frozen component results with bounded relief and no automatic import of every argument in the historical concurrence.
+
+### Souter
+
+His historical concurrence expressly considers and rejects a merely formal remand for Montana application (533 U.S. 375–386). His actual Atkinson position already supplies the all-land starting point, notwithstanding his earlier Bourland dissent protecting compatible sovereignty. The strongest contrary approach gives the warrants and retained property greater jurisdictional significance; his conclusion rejects that jurisdictional inference without determining their lawful execution. He supports the five-Justice state-enforcement rule and the narrower federal-forum result. Retain the frozen commitments, and retain Saucier's separate conduct-date immunity inquiry without using it as a substitute ground for rejecting jurisdiction.
+
+### Thomas
+
+His historical full join and concurrence join match the actual Bourland source distinction, Neztsosie statutory-channel limits and Atkinson concurrence. A meaningful relationship is necessary, but a geographical and factual link alone does not make the state enforcement undertaking a qualifying regulatory relationship. The strongest response invokes trust land and actual permission; neither removes the character-of-relationship problem or proves the second exception. Retain reversal of both forum components and no additional exhaustion, preserving the appropriate personal defenses without deciding them. His historical join is not permission to create a general removal procedure absent from actual Neztsosie.
+
+### Ginsburg
+
+Her historical concurrence explicitly confines the operative holding to state enforcement, reserves nonmember defendants generally, and preserves possible authority over unrelated private conduct by an official (533 U.S. 386). That matches her frozen narrower commitment and her actual complete Strate/Atkinson joins. No changed premise requires expanding her rule into a universal bar. The actual warrants are the strongest contrary point but do not establish a separate civil-regulatory relationship in these searches. Retain both reversals and nonexhaustion. Her Saucier force-specific separate opinion supplies no general immunity replacement here. A separate reservation is needed only if the proposed lead writing exceeds these boundaries; authorship remains for assembly.
+
+### Breyer
+
+He historically joined both O'Connor's early-immunity/Montana opinion and Stevens's federal-forum opinion. Actual Strate's reservation of retained-land claims and actual Neztsosie's limited federal channel do not reverse those distinctions. His Saucier concurrence rejects an overlapping force reasonableness screen only in that different setting; it leaves ordinary personal defenses here.
+
+Reconcile the unsupported frozen all-land refusal and final statutory-forum rejection as for Stevens. A retained-land arrangement may support jurisdiction after proper analysis; it is not conclusively established merely because an authorization was requested and used. The strongest state-enforcement objection warrants careful Montana application, not automatic exemption for every state official. He supports early federal consideration of the raised immunity defenses and a bounded return, with no ruling that the officials prevail. He may join a separate explanation of the conditional §1983 forum and proper remand; no judgment-only agreement is converted into a join in final rejection of the tribal claims.
+
+## Departure and continuity findings
+
+No new historical fact or procedural premise supports the rejected portions of the independent model. Their replacement follows substantive review of the complete comparator against each Justice's own actual public positions, not an instruction to reproduce the historical count. All original model bytes remain preserved.
+
+**Historical departure:** Stevens and Breyer's possible federal protection against tribal adjudication must now conform to the actual Strate and unanimous Neztsosie rules separating the federal channel from independent injunction, party and immunity requirements. Their historical use of equivalent-removal reasoning does not establish an automatic federal injunction in this timeline; both had expressly joined the actual remedial limits. This changes the permissible explanation and remedial scope, not their conditional recognition of §1983 in an otherwise competent tribunal.
+
+For O'Connor, acceptance of the modeled case-specific §1983 rejection is not labeled a verified departure from an express contrary historical view: none is identified in her complete writing. It remains a separate substantive commitment for assembly, with her narrower tort/remedy position retained. No supposed historical unanimity on statutory forum power is used.
+
+The complete-resolution limit is concrete. Personal immunity, constitutional search legality, causation, damages and the Director's own involvement are not decided; the alleged conduct is not converted into a finding. Rejection of a forum does not guarantee a new timely filing elsewhere or create tolling. Actual Strate conditions govern coercive federal relief; absence of governing authority does not itself waive immunity or satisfy equity. The first and second Montana exceptions remain distinct. Express cooperative contracts, superior federal delegations, unrelated private conduct and every nonmember claim on retained land remain outside the five-Justice state-enforcement rule.
+
+## Readiness
+
+The Hicks reconciliation is substantively ready for assembly after the common June 18 public-law screen. No current-case neutral factual correction was needed. This handoff does not claim that a repository commit has occurred, does not create a Record or public render, and does not assign an opinion author. A material earlier-law change requires the affected clean stages again.
+
+Source support: official report at https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-353.pdf; frozen validated neutral packet and Hicks source supplement; actual tribal, Atkinson, Saucier, Hafer and civil-rights entering-law selections; scoped comparator; immutable Hicks commitment file. Every reference to a historical writing above is comparison evidence only.

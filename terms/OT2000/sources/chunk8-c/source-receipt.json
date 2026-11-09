@@ -1,0 +1,194 @@
+[
+  {
+    "file": "Adair_230_F3d_890.txt",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/230/230.F3d.890.99-1736.html",
+    "bytes": 16870,
+    "sha256": "5674f67ad612c4b539721afbc9cdd6e8a92156193ba2fa2570ce09719dd343b5"
+  },
+  {
+    "file": "USCODE_2000_15_1334.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title15/pdf/USCODE-2000-title15-chap36-sec1334.pdf",
+    "bytes": 207682,
+    "sha256": "e4bbbf2d338834705a7cea335bba1726f743cef79f51233cf4d4f5090059e9b4"
+  },
+  {
+    "file": "USCODE_2000_28_2244.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title28/pdf/USCODE-2000-title28-partVI-chap153-sec2244.pdf",
+    "bytes": 152006,
+    "sha256": "45ae2d2b714be9bc2703e2097abcd99a7279a43a573c310196548fc6ffc714e0"
+  },
+  {
+    "file": "USCODE_2000_8_1231.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title8/pdf/USCODE-2000-title8-chap12-subchapII-partIV-sec1231.pdf",
+    "bytes": 234406,
+    "sha256": "0039213cd66fd004a7e951313eeb2d6807bb17a08baa69487762024dd2e39759"
+  },
+  {
+    "file": "USCODE_2000_28_2241.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title28/pdf/USCODE-2000-title28-partVI-chap153-sec2241.pdf",
+    "bytes": 135832,
+    "sha256": "45bc1bf4260d88e6f1b569011ffdb4dcc6cf0b9a3685c36b13bb8f380135011d"
+  },
+  {
+    "file": "USCODE_2000_11_502.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title11/pdf/USCODE-2000-title11-chap5-subchapI-sec502.pdf",
+    "bytes": 171771,
+    "sha256": "7bb4984b78261c70fbc8e4aa578b79f1e3bfa797e5185466529fc39679b74b79"
+  },
+  {
+    "file": "USCODE_2000_11_1327.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title11/pdf/USCODE-2000-title11-chap13-subchapII-sec1327.pdf",
+    "bytes": 134298,
+    "sha256": "2fd488ab6c52712ca0cc32b06932fab717cca1a1b89953d171c67d38f6807d76"
+  },
+  {
+    "file": "USCODE_2000_15_1692e.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title15/pdf/USCODE-2000-title15-chap41-subchapV-sec1692e.pdf",
+    "bytes": 202903,
+    "sha256": "f8f7155d660856e349e5aca9edf1e212c0b1b60f9bd941b834493c0a5de15124"
+  },
+  {
+    "file": "USCODE_2000_15_1692f.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title15/pdf/USCODE-2000-title15-chap41-subchapV-sec1692f.pdf",
+    "bytes": 207431,
+    "sha256": "ea6301af2be4b7324ebdc62ae8d020dbdd2cb9c6992b364df6fb812c9cb4a058"
+  },
+  {
+    "file": "Tyler_US_amicus.pdf",
+    "url": "https://www.justice.gov/osg/media/233476/dl?inline=",
+    "bytes": 211428,
+    "sha256": "0533ffc82a44931a83982e73c79b644c1f80c1542222588e523587f4f6e69987"
+  },
+  {
+    "file": "Tyler_Archive_02.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0475/micro_IA40385014_0475%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "bytes": 52086,
+    "sha256": "5661527c3a5d9be2e14ae304672bb488638c4224581328ae8b158a94e2c3996e"
+  },
+  {
+    "file": "Tyler_Archive_05.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0475/micro_IA40385014_0475%2005.%20Joint%20Appendix_djvu.txt",
+    "bytes": 21432,
+    "sha256": "36d273dab7b3e3abe765e7d15e642792a9751b17192f5039c7382732e62adeba"
+  },
+  {
+    "file": "Tyler_Archive_06.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0475/micro_IA40385014_0475%2006.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 58204,
+    "sha256": "c4b3173598c7a4c1d9f6ecabf5365c4a7aeb79207f7747ad265567a2c7c79241"
+  },
+  {
+    "file": "Tyler_Archive_07.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0475/micro_IA40385014_0475%2007.%20Respondents%20Brief_djvu.txt",
+    "bytes": 37452,
+    "sha256": "16285615ca5c936b92aafe7895df40c5e4eca583e5cd4ee0fc13e30f86c4487f"
+  },
+  {
+    "file": "Lorillard_Archive_02.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1431/micro_IA40386019_1431%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "bytes": 75784,
+    "sha256": "8611bd1bfb5f17154e90ce45c1070faf91909da2824b7648d61958e6dd262536"
+  },
+  {
+    "file": "Lorillard_Archive_07.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1431/micro_IA40386019_1431%2007.%20Joint%20Appendix_djvu.txt",
+    "bytes": 461581,
+    "sha256": "d44006d2140759e12c05204d685fccd159491f142132ac5600e814320a68c01a"
+  },
+  {
+    "file": "Lorillard_Archive_08.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1431/micro_IA40386019_1431%2008.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 52957,
+    "sha256": "40f6218c42fbb83c6a6f7679444d7a4f13e67ab7af2f56bbfbb2b383ccd744ef"
+  },
+  {
+    "file": "Lorillard_Archive_09.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1431/micro_IA40386019_1431%2009.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 111776,
+    "sha256": "d2d1093217247bf6f7139be90d2e919b1e092ac55325b306619a9594523fb6b5"
+  },
+  {
+    "file": "Lorillard_Archive_10.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1431/micro_IA40386019_1431%2010.%20Respondents%20Brief_djvu.txt",
+    "bytes": 111574,
+    "sha256": "bb686f5706cc385394801205024217ac0249e166079b3e912901a01014a371eb"
+  },
+  {
+    "file": "Palazzolo_Archive_02.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0384/micro_IA40385014_0384%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "bytes": 112545,
+    "sha256": "a27ea91568dea7b475ec7c72e7f43cef3bb71a9eda2e92c89f807b02d7827db3"
+  },
+  {
+    "file": "Palazzolo_Archive_05.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0384/micro_IA40385014_0384%2005.%20Joint%20Appendix_djvu.txt",
+    "bytes": 137347,
+    "sha256": "59b9d35c822b6784b8ddee11a27c76d8d9aa1882b2938af864126293720bccd2"
+  },
+  {
+    "file": "Palazzolo_Archive_06.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0384/micro_IA40385014_0384%2006.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 109532,
+    "sha256": "3ef61be073c04688ecc5f663f072a66ecb081942d3d484bb7becce3b05f2a237"
+  },
+  {
+    "file": "Palazzolo_Archive_07.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0384/micro_IA40385014_0384%2007.%20Respondents%20Brief_djvu.txt",
+    "bytes": 210349,
+    "sha256": "e2864bc5521deaafaa7f08b83cc83573b8caf48273740847476a4ddcc58dc18f"
+  },
+  {
+    "file": "Zadvydas_Archive_02.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0400/micro_IA40385014_0400%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "bytes": 200509,
+    "sha256": "dacdd41592aff3a8301eda43080a780c76348fa179a9345c3094dcc424451d9f"
+  },
+  {
+    "file": "Zadvydas_Archive_07.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0400/micro_IA40385014_0400%2007.%20Joint%20Appendix_djvu.txt",
+    "bytes": 326228,
+    "sha256": "e0b7ea3679655d1669d597eece24d2629a280c4eb4a41aceaf081331872793b2"
+  },
+  {
+    "file": "Zadvydas_Archive_08.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0400/micro_IA40385014_0400%2008.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 77183,
+    "sha256": "92740ad13510d13c4bcac9c6da00a484e1b94c57ddbb4b9ccdfa4aca7e408be8"
+  },
+  {
+    "file": "Zadvydas_Archive_09.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0400/micro_IA40385014_0400%2009.%20Respondents%20Brief_djvu.txt",
+    "bytes": 170521,
+    "sha256": "b5e255044d565a5da9e8f8c64e27c52ed341daf32c6c049769a5d8ed3bd5f3ea"
+  },
+  {
+    "file": "Altadis_Archive_02.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "bytes": 5870,
+    "sha256": "7bcd6aab18cc3499c48f91563d924ac1781d57bbda03e0d2237b7d37d1f14a94"
+  },
+  {
+    "file": "Altadis_Archive_05.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2005.%20Joint%20Appendix_djvu.txt",
+    "bytes": 458701,
+    "sha256": "45d63a3adec25170b48caa8ccbb3da97fe1259e792ff03fbff11c8688c253271"
+  },
+  {
+    "file": "Altadis_Archive_06.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2006.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 52913,
+    "sha256": "d3988487f109206dff4bcbd5b995093913508fbf072b052f1cf4af38fa0af5e0"
+  },
+  {
+    "file": "Altadis_Archive_07.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2007.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 47441,
+    "sha256": "e2079692683bb3ae0b06642cb425f9bcbda342d6736f6cb05ad83c9b59977db9"
+  },
+  {
+    "file": "Altadis_Archive_08.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2008.%20Respondents%20Brief_djvu.txt",
+    "bytes": 111108,
+    "sha256": "5956126f15c66d74fec60df19ae9a1b37b40d2ab911969b3b9a5f7bb726d648a"
+  }
+]

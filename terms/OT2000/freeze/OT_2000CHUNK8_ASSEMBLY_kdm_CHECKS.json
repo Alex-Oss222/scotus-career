@@ -1,0 +1,49 @@
+{
+  "record": "KDM_v_Reedsport_School_District_merits_2001-06-25.md",
+  "sha256": "e3d47886e1a90db83991d2f2101b164de2cf917826b9da102377118f74ea40d8",
+  "public_sha256": "4861d7234f35a52a1047c06f63cd9e1bb7a74353803d125032b8a049b29b6ed9",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    228,
+    214,
+    218
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 12,
+    "Thomas": 9,
+    "Ginsburg": 10,
+    "Breyer": 11
+  },
+  "last_counted_event": {
+    "date": "2001-06-25",
+    "case": "INS v. St. Cyr",
+    "record": "INS_v_St_Cyr_merits_2001-06-25.md"
+  },
+  "eligible": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Breyer"
+  ],
+  "minimum": 9,
+  "pool": [
+    "Scalia",
+    "Kennedy",
+    "Thomas"
+  ],
+  "author": "Thomas",
+  "source_links_https": 1,
+  "legal_review": "Manual judgment, proposition, join and remedy compatibility review in Record. No tool determines legal meaning.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain."
+}

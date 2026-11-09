@@ -1,0 +1,352 @@
+{
+  "status": "pass",
+  "scope": "Actual internal opinion tables, date then alphabetical case; operator repository commitment verification remains deferred. Legal eligibility and fit are reviewed separately.",
+  "records": [
+    {
+      "record": "Duncan_v_Walker_merits_2001-06-18.md",
+      "date": "2001-06-18",
+      "case": "Duncan v. Walker",
+      "counts_before": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 9,
+        "Scalia": 10,
+        "Kennedy": 9,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_leads": 86,
+      "current_authors": [
+        "O'Connor"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_duncan.json"
+      ]
+    },
+    {
+      "record": "Freiler_v_Tangipahoa_Parish_Board_of_Education_merits_2001-06-18.md",
+      "date": "2001-06-18",
+      "case": "Freiler v. Tangipahoa Parish Board of Education",
+      "counts_before": {
+        "Stone-Zsela": 9,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 9,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_leads": 87,
+      "current_authors": [
+        "Stone-Zsela"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_freiler.json"
+      ]
+    },
+    {
+      "record": "Idaho_v_United_States_merits_2001-06-18.md",
+      "date": "2001-06-18",
+      "case": "Idaho v. United States",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 9,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_leads": 88,
+      "current_authors": [
+        "Souter"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_idaho.json"
+      ]
+    },
+    {
+      "record": "Calcano_Martinez_v_INS_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "Calcano-Martinez v. INS",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 10,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_leads": 91,
+      "current_authors": [
+        "O'Connor"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_calcano.json"
+      ]
+    },
+    {
+      "record": "FEC_v_Colorado_Republican_Federal_Campaign_Committee_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "FEC v. Colorado Republican Federal Campaign Committee",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_leads": 92,
+      "current_authors": [
+        "Breyer"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_colorado.json"
+      ]
+    },
+    {
+      "record": "INS_v_St_Cyr_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "INS v. St. Cyr",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 93,
+      "current_authors": [
+        "Stevens"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_st_cyr.json"
+      ]
+    },
+    {
+      "record": "KDM_v_Reedsport_School_District_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "K.D.M. v. Reedsport School District",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 94,
+      "current_authors": [
+        "Thomas"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_kdm.json"
+      ]
+    },
+    {
+      "record": "Nevada_v_Hicks_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "Nevada v. Hicks",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 95,
+      "current_authors": [
+        "Scalia"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_hicks.json"
+      ]
+    },
+    {
+      "record": "New_York_Times_Co_v_Tasini_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "New York Times Co. v. Tasini",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 96,
+      "current_authors": [
+        "Kennedy"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_tasini.json"
+      ]
+    },
+    {
+      "record": "United_States_v_United_Foods_Inc_merits_2001-06-25.md",
+      "date": "2001-06-25",
+      "case": "United States v. United Foods, Inc.",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 97,
+      "current_authors": [
+        "Thomas"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_united_foods.json"
+      ]
+    },
+    {
+      "record": "Adair_v_Sherman_merits_2001-06-27.md",
+      "date": "2001-06-27",
+      "case": "Adair v. Sherman",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 98,
+      "current_authors": [
+        "Stevens"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_adair.json"
+      ]
+    },
+    {
+      "record": "Lorillard_Tobacco_Co_v_Reilly_merits_2001-06-28.md",
+      "date": "2001-06-28",
+      "case": "Lorillard Tobacco Co. v. Reilly and Altadis U.S.A. Inc. v. Reilly",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 12,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 99,
+      "current_authors": [
+        "O'Connor"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_lorillard.json"
+      ]
+    },
+    {
+      "record": "Palazzolo_v_Rhode_Island_merits_2001-06-28.md",
+      "date": "2001-06-28",
+      "case": "Palazzolo v. Rhode Island",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 100,
+      "current_authors": [
+        "Thomas"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_palazzolo.json"
+      ]
+    },
+    {
+      "record": "Tyler_v_Cain_merits_2001-06-28.md",
+      "date": "2001-06-28",
+      "case": "Tyler v. Cain",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 12,
+        "Ginsburg": 10,
+        "Breyer": 11
+      },
+      "counted_leads": 101,
+      "current_authors": [
+        "Ginsburg"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_tyler.json"
+      ]
+    },
+    {
+      "record": "Zadvydas_v_Davis_and_Ashcroft_v_Ma_merits_2001-06-28.md",
+      "date": "2001-06-28",
+      "case": "Zadvydas v. Davis and Ashcroft v. Ma",
+      "counts_before": {
+        "Stone-Zsela": 10,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 12,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "counted_leads": 102,
+      "current_authors": [
+        "Breyer"
+      ],
+      "receipts": [
+        "OT_2000CHUNK8_ASSIGNMENT_zadvydas.json"
+      ]
+    }
+  ],
+  "errors": []
+}

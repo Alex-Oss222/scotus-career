@@ -1,0 +1,2624 @@
+___» Supreme Court, U.S. 
+FILED 
+
+
+9920 47 JUN 2 12000 
+
+
+No. 
+* U (ERK 
+In the 
+Supreme Court of the United States 
+October Term, 1999 
+
+
+re 
+
+
+ANTHONY PALAZZOLO, 
+Petitioner, 
+Vv. 
+
+
+RHODE ISLAND ex rel. PAUL J. TAVARES, 
+General Treasurer, and 
+COASTAL RESOURCES MANAGEMENT COUNCIL. 
+
+
+Respondents. 
+
+
+ro 
+
+
+On Petition for Writ of Certiorari to 
+the Supreme Court of Rhode Island 
+
+
+4- 
+
+
+PETITION FOR WRIT OF CERTIORARI 
++ 
+
+
+ERIC GRANT 
+Counsel of Record 
+JAMES S. BURLING 
+
+
+JOHN B. WEBSTER Pacific Legal Foundation 
+Attorney at Law 10360 Old Placerville Road, 
+875 Centerville Road Suite 100 
+Warwick, Rhode Island 02886 Sacramento, California 95827 
+Telephone: (401) 822-1300 Telephone: (916) 362-2833 
+Facsimile: (401) 821-4188 Facsimile: (916) 362-2932 
+
+
+Counsel for Petitioner 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+i. Whether a regulatory takings claim is categorically 
+barred whenever the enactment of the regulativn predates the 
+claimant’s acquisition of the property. 
+
+
+2. Where a land-use agency has authoritatively denied 
+a particular use of property and the owner alleges that such de- 
+nial per se constitutes a regulatory taking, whether the owner 
+must file additional applications seeking permission for “‘/ess 
+ambitious uses” in order to ripen the takings claim. 
+
+
+3. | Whether the remaining permissible uses of regulated 
+property are economically viable merely because the property 
+retains a value greater than zero. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QUESTIONS PRESENTED .....ccccccccssnsccsesesucees i 
+TABLE OF ALITHOORETERS 2... ccccvcccucsescccseusenene iil 
+OPTRGONSG BELOW .. ww cccsccscccscsscnscusneeeneene l 
+FRSC TOON . wc ccc vesccccecessseneuu suena l 
+CONSTITUTIONAL PROVISIONS ATISSUE ............ | 
+STATEMENT OF THE CASE ....cccccccsecccnessscuses 2 
+A. Pactual Dachapeune .....0cccccosssvceueeueuen 2 
+
+BD. Judicial PuesseGings ....cccscessscscvancesens 3 
+REASONS FOR GRANTING THE WRIT ................. 4 
+
+
+I. WHETHER A POST-ENACTMENT PURCHASER 
+IS CATEGORICALLY BARRED FROM ASSERT- 
+ING A REGULATORY TAKINGS CLAIM IS AN 
+IMPORTANT AND RECURRING QUESTION OF 
+TAKINGS LAW ON WHICH THE LOWER COURTS 
+ARE IN CONFLICT WITH EACH OTHER AND 
+WITH TER OCUURE ono cccccccsestuneeeeneneene 4 
+
+
+A. The leone end the Comiiet ... .o<cccccvetecunuu 5 
+
+
+B. The Appropriateness of Resolving the Issue Here . 10 
+
+
+Il. WHETHER A PROPERTY OWNER MUST SUBMIT 
+“ADDITIONAL APPLICATIONS” IN ORDER TO 
+RIPEN A REGULATORY TAKINGS CLAIM IS AN 
+IMPORTANT AND RECURRING QUESTION OF 
+TAKINGS PROCEDURE THAT DIVIDES THE 
+LOWER COURTS ..ccccccccsccseeuuanneneen 13 
+
+
+lil. THE LOWER COURTS ARE ALSO IN CONFLICT 
+AS TO WHETHER REMAINING USES OF REG- 
+ULATED PROPERTY ARE ECONOMICALLY 
+VIABLE MERELY BECAUSE THE PROPERTY 
+RETAINS SOME VALUE ...ccccsccvcsecusuneeel 20 
+
+
+CONCLEIBOUN onc ccccsccccseceb ous eun ann =nnEE 23 
+
+
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+
+Armstrong v. United States, 364 U.S. 40 (1960) .. 2.0... .. 5 
+Boise Cascade Corp. v. State, 99\ P.2d 563 
+
+(Or. Ct. App. 1999), petition for review 
+
+filed, No. $47459 (Or. Apr. 18, 2000) 2.0.00. 0 6... 6 
+Carson Harbor Village Ltd. v. City of Carson, 
+
+GE, BUD oo occ occccccccuccccees 10 
+City of Virginia Beach vy. Bell, 498 S.E.2d 414 
+
+(Va.), cert. denied, 525 U.S. 826(1998)............. 7 
+Cottonwood Farms v. Board of County 
+
+Commissioners, 763 P.2d 551 (Colo. 1988) ....... 9-10 
+Creppel v. United States, 4\ F.3d 627 
+
+EEE ee 7 
+Del Monte Dunes at Monterey, Ltd. v. City of 
+
+Monterey, 95 F.3d 1422 (9th Cir. 1996), 
+
+ME OUD occ ccc cc ccccece 10, 21-22 
+DiBattista v. State, 717 A.2d 640 (R.1. 1998) . 2.0000... 12 
+
+
+First English Evangelical Lutheran Church v. 
+County of Los Angeles, 482 U.S. 304 (1987) ..... 10-12 
+
+
+Good v. United States, 189 F.3d 1355 
+(Fed. Cir. 1999), cert. denied, 
+
+
+Neen TT ee ee ccene 7 
+Grant v. South Carolina Coastal Council, 
+ee. ccc cceeeccees 7 
+Greenbriar, Ltd. v. City of Alabaster, 
+881 F.2d 1570 (1 ith Cir. 1989) ................ 17, 20 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Hunziker v. State, 519 N.W.2d 367 (lowa 1994), 
+cert. denied, 514 U.S. 1003 (1995) ..... 2... 26 66. . 7 
+
+
+Karam v. State, 705 A.2d 1221 
+(N.J. Super. Ct. App. Div. 1998), 
+aff'd and adopted, 723 A.2d 943 (N.J.), 
+
+
+cert. denied, 120 S. Ct. $1 (1D9D) 2... ccc cece ecess ) 
+Kim v. City of New York, 681 N.E.2d 312 (N.Y.), 
+cert. denied, 522 U.S. 803 (1997) .............0005- 7 
+
+
+Lake Nacimiento Ranch Co. v. County of 
+San Luis Obispo, 841 F.2d 872 (9th Cir.), 
+
+
+cert. denied, 488 U.S. 827 (1988) ................. 22 
+Lucas v. South Carolina Coastal Council, 
+
+505 U.S. 1003 (1992) ....... pebeeauaesaes 3-6, 20-22 
+MacDonald, Sommer & Frates v. 
+
+County of Yolo, 477 U.S. 340 (1986) ........... 15-18 
+
+
+Mavhew v. Town of Sunnyvale, 
+964 S.W.2d 922 (Tex. 1998), 
+cert. denied, 526 U.S. 1144 (1999) ............. 16-18 
+
+
+Nollan v. California Coastal Commission, 
+ey es ED é.n-0040nncundeetéeeuebssees 7-8 
+
+
+Palm Beach Isles Associates v. United States, 
+pa LK ee 6 
+
+
+Penn Central Transportation Co. v. City 
+of New York, 438 U.S. 104(1978) ............ 3, 7,20 
+
+
+Suitum v. Tahoe Regional Planning Agency, 
+Ps HP NETE 9600 bee edexiseessons 12, 15, 19 
+
+
+Urban v. Planning Board of Manasquan, 
+PB I ee ee ) 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Vatalaro v. Department of Environmental 
+Regulation, 601 So. 2d 1223 (Fla. Dist. Ct. 
+App.), rev. denied, 613 So. 2d 3 (Fla. 1992) ......... 9) 
+Williamson County Regional Planning 
+Cammission v. Hamilton Bank, 
+es EE lt i a 15,19 
+Constitution and Statute 
+eas SES HW cb eccccvacnnedesdscvacens passim 
+Ce ee ee ee eis aie ee | 
+MT RRS Raed OO ORAS Gilet ih mR es | 
+Miscellaneous 
+William S. Walter, Appraisal 
+Methods and Regulatory Takings, 
+SS Be ED Gk. dubvecukdcccondeates 22 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Anthony Palazzolo respectfully petitions for a writ of cer- 
+tiorari to review the judgment of the Supreme Court of Rhode 
+Island. 
+
+
+> 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Supreme Court of Rhode Island is re- 
+ported at 746 A.2d 707 (2000); it appears at Appendix A to the 
+petition. The decision of the Superior Court of Rhode Island 
+(Washington County) is not reported; it appears at Appendix B 
+to the petition. 
+
+
+4 
+
+
+JURISDICTION 
+
+
+The judgment of the Supreme Court of Rhode Island was 
+entered on February 25, 2000. Petition Appendix (Pet. App.) 
+at A-1. On May 3, Justice Souter granted petitioner’s timely 
+application to extend the time within which to file the petition 
+to and including June 23, 2000. No. 994906. This Court has 
+jurisdiction under 28 U.S.C. § 1257(a). 
+
+
+— 
+
+
+CONSTITUTIONAL PROVISIONS AT ISSUE 
+
+
+The Fifth Amendment to the United States Constitution 
+provides in pertinent part: “nor shall private property be taken 
+for public use without just compensation.” 
+
+
+Section | of the Fourteenth Amendment to the United 
+States Constitution provides in pertinent part: “nor shall any 
+State deprive any person of life, liberty, or property, without 
+due process of law.” 
+
+
++ 
+
+
+2 
+
+
+STATEMENT OF THE CASE 
+
+
+For more than four decades, Petitioner Anthony Palazzolo 
+has been attempting to develop coastal property in Westerly, 
+Rhode Island. Because nearly all of this property consists of 
+“wetlands” —the contemporary name for what used to be called 
+marshes or ponds—Mr. Palazzolo must fill the property to be 
+able to develop it into single-family homes (for which it has 
+long been subdivided) or into a recreational beach facility. But 
+respondent Coastal Resources Management Council (CRMC) 
+and its predecessors have repeatedly denied him permission to 
+fill, such that the nominally private property is now de facto 
+devoted to public use as “a refuge and feeding ground for fish, 
+shellfish, and birds,” as “a buffer for flooding,” and as a filter 
+for “run-off into the pond.” Pet. App. at A—3. As a result of 
+these repeated denials, Mr. Palazzolo filed this inverse con- 
+demnation action against CRMC and respondent the State of 
+Rhode Island in the courts of that state, alleging that CRMC’s 
+actions effected a compensable regulatory taking of his prop- 
+erty for public use within the meaning of the Fifth Amendment 
+to the United States Constitution. Mr. Palazzolo did not pre- 
+vail in that venue, and now he seeks relief from this Court for 
+the federal constitutional errors committed by the court below. 
+
+
+A. Factual Background 
+
+
+The subject parcel consists of eighteen acres of wetlands 
+and “a few additional” acres of uplands. Pet. App. at A—3 n.1. 
+Mr. Palazzolo acquired a majority of the property in 1959 and 
+1960, and the remainder of the property in 1969. /d. at A—2 to 
+~3. (The state courts put great stock in the fact that he ow. d 
+the property by means of a sole-shareholder corporation until 
+February of 1978, when he became the owner in his individual 
+capacity. /d. at A~13 to—15.) In 1963, Mr. Palazzolo applied 
+for state approval to fill the parcel; that application was denied. 
+He applied again in 1966. Some five years later, CRMC’s pre- 
+decessor approved the application, id. at A-4; but the approval 
+was revoked just seventeen days after Mr. Palazzolo received 
+
+
+3 
+
+
+it. He applied again in 1983; that application was denied. /d 
+at A—S. In 1985, Mr. Palazzolo applied yet again tor approy a! 
+to fill the property; yet again, his application was denied. /d 
+
+
+B. Judicial Proceedings 
+
+
+After unsuccessfully seeking judicial review ot the lates 
+denial, Mr. Palazzolo timely filed this inverse condemnation 
+action, alleging that he suffered a compensable regulatory tak- 
+ing at the hands of CRMC. See id. at B-1 (“plaintiff contends 
+that the CRMC’s actions violated the Fifth Amendment's just 
+compensation clause as incorporated by the Due Process Clause 
+of the Fourteenth Amendment”). In 1997, the state trial court 
+issued a written decision rejecting that takings claim. See id 
+at B—1. Last year, in a published opinion, the Supreme Court 
+of Rhode Island affirmed. 
+
+
+Observing that Mr. Palazzolo based his takings claim on 
+both Lucas v. South Carolina Coastal Council, S05 U.S. 003 
+(1992), and Penn Central Transportation Co. v. City of New 
+York, 438 U.S. 104 (1978), the court below ruled that he could 
+prevail on neither theory. As to each, the court found dispos:- 
+tive the fact that Mr. Palazzolo did not take title to the property 
+in his individual capacity until 1978, at which time regulations 
+prohibiting the filling of wetlands were already in place. First. 
+as to the Lucas theory, the court concluded categorically that 
+“a regulatory takings claim may not be maintained where the 
+regulation predates the acquisition of the property.” Pet. App 
+at A—14. Second, as to the Penn Central theory, the court held 
+essentially the same thing, that where the regulation predates 
+the acquisition of the property, the owner categorically lacks 
+“reasonable investment-backed expectations.” /d at A-|7 
+
+
+But even if Mr. Palazzolo could overcome those categor- 
+ical hurdles, he still could not prevail. This particular case w as 
+not ripe, concluded the court below, because Mr. Palazzolo 's 
+four applications over a span of more than two decades were 
+not enough: he needed to “file additional applications seeking 
+
+
+4 
+
+
+permission for less ambitious uses” before his claim would be 
+ripe. /d. at A-12 n.6. Finally, the court gave another reason 
+why Mr. Palazzolo could not satisfy the requirements of Lucas 
+even if the case were ripe. Based solely on evidence that the 
+property had a residual value greater than zero, the court con- 
+cluded that Mr. Palazzolo “had not been deprived of all bene- 
+ficial use of his property.” /d. at A-13. For all these reasons, 
+the court affirmed the dismissal of his regulatory takings claim. 
+
+
+As a result of these rulings by the Rhode Island Supreme 
+Court, particularly the first two, Mr. Palazzolo is forever barred 
+from obtaining compensation for regulations that require his 
+eighteen-plus acres of land “to be left substantially in its natural 
+state.” Lucas, 505 U.S. at 1018. Accordingly, Mr. Palazzolo 
+now “owns”—if that term can be used ironically—nominally 
+private property that has actually been “pressed into some form 
+of public service under the guise of mitigating serious public 
+harm.” /d. 
+
+
+Mr. Palazzolo timely files this petition for certiorari. 
+REASONS FOR GRANTING THE WRIT 
+
+
+On three important questions of takings law and proce- 
+dure, the court below issued decisions that are in conflict with 
+the decisions of other lower courts, both state and federal. All 
+of those conflicts warrant resolution by this Court. 
+
+
+WHETHER A POST-ENACTMENT PURCHASER IS 
+CATEGORICALLY BARRED FROM ASSERTING A 
+REGULATORY TAKINGS CLAIM IS AN IMPORTANT 
+AND RECURRING QUESTION OF TAKINGS LAW ON 
+WHICH THE LOWER COURTS ARE IN CONFLICT 
+WITH EACH OTHER AND WITH THIS COURT 
+
+
+As described above, the Supreme Court of Rhode Island 
+ruled that a Lucas-type “regulatory takings claim may not be 
+maintained where the regulation predates the acquisition of the 
+
+
+5 
+
+
+property.” Pet. App. at A—14. In addition, the court ruled that 
+a Penn Central-type regulatory takings claim must necessarily 
+fail in this situation as well, because a property owner can have 
+no “reasonable investment-backed expectations” of developing 
+property if, at the time he acquired it, “there were already regu- 
+lations in place limiting [his] ability to” develop. /d. at A-17. 
+Together, these two rulings operate to categorically bar regu- 
+latory taking claims whenever the enactment of the regulation 
+predates the claimant’s acquisition of the property. In this re- 
+gard, the decision below conforms to a disturbing trend in the 
+lower courts to strip property owners of the protections of the 
+Fifth Amendment and to excuse governments from their “con- 
+stitutional obligation to pay just compensation.” Armstrong v. 
+United States, 364 U.S. 40, 49 (1960). Because this decision 
+and this trend cannot be reconciled either with the decisions of 
+other lower courts or of this Court, it is incumbent upon this 
+Court to resolve the issue. 
+
+
+A. The Issue and the Conflict 
+
+
+In Lucas, this Court “found categorical treatment appro- 
+priate .. . where regulation denies all economically beneficial 
+or productive use of land.” 505 U.S. at 1015. The Court thus 
+went on to reaffirm the “categorical rule that total regulatory 
+takings must be compensated.” Id. at 1026 (emphasis added). 
+The government was left with one escape from this obligation: 
+“Where the State seeks to sustain regulation that deprives land 
+of all economically beneficial use, . . . it may resist compen- 
+sation only if the logically antecedent inquiry into the nature of 
+the owner’s estate shows that the proscribed use interests were 
+not part of his title to begin with.” /d. at 1027. In other words, 
+the government can avoid paying compensation for land-use 
+limitations that otherwise amount to categorical takings only if 
+those limitations on use “inhere in the title itself, in the restric- 
+tions that background principles of the State’s law of property 
+
+
+6 
+
+
+and nuisance already place upon land ownership.” /d. at 1029 
+(emphasis added). ' 
+
+
+It is not surprising that in the aftermath of Lucas, lower 
+courts have been called on to decide whether a particular reg- 
+ulatory prohibition on land use was justified by a background 
+principle of property or nuisance law. See, e.g., Palm Beach 
+Isles Associates v. United States, 208 F.3d 1374, 1385 (Fed. 
+Cir. 2000) (ruling that “in order to assert a defense [to a regula- 
+tory taking] under the navigational servitude, the Government 
+must show that the regulatory imposition was for a purpose re- 
+lated to navigation”); Boise Cascade Corp. v. State, 99\ P.2d 
+563, 570 (Or. Ct. App. 1999) (rejecting the state’s “background 
+principles” defense to a regulatory taking because there is “no 
+authority for the proposition that knocking down a bird’s nest 
+on one’s property has ever been considered a public nuisance’), 
+petition for review filed, No. S47459 (Or. Apr. 18, 2000). 
+
+
+Other lower courts, however, have taken the background 
+principles exception of Lucas far beyond its moorings in the 
+common law of easements and nuisance. Rather than asking 
+whether a recently prohibited land use was “always unlawful” 
+under “relevant property and nuisance principles,” Lucas, 505 
+U.S. at 1030 (emphasis in original), these other courts merely 
+ask whether the use was “regulated” before the present owner 
+acquired the property. \n other words, these courts wholly 
+dispense with the notion that, unless compensation is paid, a 
+confiscatory regulation may “do no more than duplicate the re- 
+sult that could have been achieved in the courts” under the law 
+of easements and nuisance. /d. at 1029. Instead, confiscatory 
+
+
+' Lucas itself presented three examples of compensation-defeating 
+background principles: (1) “a permanent easement that was a pre- 
+existing limitation on the landowner’s title,” such as the federal gov- 
+ernment’s iiavigational servitude; (2) a prohibition against flooding 
+adjacent property; and (3) a prohibition against locating a nuclear 
+generating plant astride an earthquake fault. See id. at 1028-30. 
+
+
+J 
+
+
+regulations without compensation are automatically sustained 
+by these courts so long as the regulations were simply “on the 
+books” before the property was acquired by the present owner. 
+Under this regime, a regulatory takings claim is categorically 
+barred whenever the enactment of the regulation predates the 
+claimant’s acquisition of the property.’ 
+
+
+Other courts have reached the very same result under the 
+rubric of reasonable “investment-backed expectations,” a term 
+derived from Penn Central, 438 U.S. at 124, 127, 130.27. A 
+recent example is Good v. United States, in which the Federal 
+Circuit held that “[t]he requirement of investment-backed ex- 
+pectations ‘limits recovery to owners who can demonstrate that 
+they bought their property in reliance on the non-existence of 
+the challenged regulation.”” 189 F.3d 1355, 1360 (Fed. Cir. 
+1999) (quoting Creppel v. United States, 41 F.3d 627, 632 (Fed. 
+Cir. 1994)), cert. denied, 120 S. Ct. 1554 (2000). That is, any 
+person “who buys with knowledge of a [regulatory] restraint 
+assumes the risk of economic loss”——no compensation will be 
+granted. /d. at 1361; accord id. at 1363 (“Appellant's lack of 
+reasonable investment-backed expectations defeats his takings 
+claim as a matter of law.”). Again, this is the principle that a 
+regulatory takings claim is categorically barred whenever the 
+enactment of the regulation predates the claimant’s acquisition 
+of the property. 
+
+
+There are many reasons why this legal principle cannot 
+stand. The most obvious reason is its fundamental incompati- 
+bility with Nollan v. California Coastal Commission, 483 U.S. 
+825 (1987). The respondent in that case was a land-use agency 
+
+
+* See City of Virginia Beach v. Bell, 498 S.E.2d 414, 417 (Va.), cert. 
+denied, 525 U.S. 826 (1998); Kim v. City of New York, 681 N.E.2d 
+312, 314-16 (N.Y.), cert. denied, 522 U.S. 803 (1997); Grant v. 
+South Carolina Coastal Council, 461 S.E.2d 388, 391 (S.C. 1995): 
+Hunziker v. State, 519 N.W.2d 367, 371 (lowa 1994), cert. denied, 
+514 U.S. 1003 (1995). 
+
+
+8 
+
+
+established by the California Coastal Act of 1972. Pursuant to 
+the Act, “stringent regulation of development along the Cali- 
+fornia coast had been in place since at least since 1976,” and in 
+particular, a deed restriction granting the public an easement 
+for lateral beach access “had been imposed [by the Commis- 
+sion] since 1979 on all 43 shoreline new development projects 
+in the Faria Family Beach Tract.” /d. at 859 (Brennan, J., dis- 
+senting). Who could acquire property in this tract and possibly 
+expect to develop it without having to submit to imposition of 
+the lateral access deed restriction? Well, the Nollans bought a 
+lot in the Faria Tract in 1982 or thereafter and sought to invali- 
+date the restriction as a violation of the Takings Clause. This 
+Court, of course, ruled in the Nollans’ favor, holding that the 
+restriction constituted a taking because it did not “substantially 
+advance[] legitimate state interests.” /d. at 834. 
+
+
+In dissent, Justice Brennan challenged the Court’s holding 
+on several grounds, including the fact that the Nollans were “on 
+notice that new developments would be approved only if pro- 
+visions were made for lateral beach access.” /d. at 860. With 
+such notice, the Nollans “could have no reasonable expectation 
+of... approval of their [development] permit application with- 
+out any deed restriction ensuring public access to the ocean.” 
+Id. What was the Court’s response? No/llan opined: 
+
+
+Nor are the Nollans’ nights aitered because they ac- 
+quired the land well after the Commission had begun 
+to implement its policy. So long as the Commission 
+could not have deprived the prior owners of the ease- 
+ment without compensating them, the prior owners 
+must be understood to have transferred their full 
+property rights in conveying the lot. 
+
+
+Id. at 834 n.2. 
+
+
+The decision below cannot be reconciled with Nollan. If 
+it were really true that “a regulatory takings claim may not be 
+maintained where the regulation predates the acquisition of the 
+
+
+9 
+
+
+property,” Pet. App. at A—14, then how could the Nollans have 
+“maintained”—indeed, prevailed on—their regulatory takings 
+claim? The relevant statute predated their acquisition of prop- 
+erty in the Faria Family Beach Tract by at least a decade, the 
+Commission’s stringent anti-development regime predated it 
+by at least six years, and the Commission’s policy of explicit 
+deed restrictions predated it by at least three years. While the 
+court below rejected Mr. Palazzolo’s takings claim because he 
+“did not become the owner of the parcel until 1978,” after “the 
+regulations limiting his ability to fill the wetlands were already 
+in place,” Pet. App. A—17, this Court sustained the Nollans’ 
+takings claim even though “they acquired the land well after 
+the Commission had begun to implement its policy,” 483 U.S. 
+at 834 n.2 (emphasis added). - 
+
+
+Nor can the decision below be reconciled with decisions 
+of other state courts and of the Ninth Circuit. The New Jersey 
+courts have recently reaffirmed “the right of a property owner 
+to fair compensation when his property is zoned into inutility 
+by changes in the zoning law passes to the next owner despite 
+the latter's knowledge of the impediment to development.” 
+Karam v. State, 705 A.2d 1221, 1229 (N.J. Super. Ct. App. 
+Div. 1998), aff'd and adopted, 723 A.2d 943 (N.J.), cert. de- 
+nied, 120 S. Ct. 51 (1999); accord Urban v. Planning Board 
+of Manasquan, 592 A.2d 240, 242-43 (N.J. 1991). In Florida, 
+the rule is likewise: an owner’s “bundle of property nghts is 
+as he purchased it.” Vatalaro v. Department of Environmental 
+Regulation, 601 So. 2d 1223, 1229 (Fla. Dist. Ct. App.), rev. 
+denied, 613 So. 2d 3 (Fla. 1992). Vatalaro decisively rejected 
+the government’s argument that the owners could not possibly 
+have suffered a compensable taking merely because they had 
+“purchased their property after the enactment of the . . . Wet- 
+lands Protection Act of 1984 [and] were constructively aware 
+that their property was subject to the provisions of the act.” /d. 
+See generally Cottonwood Farms v. Board of County Commis- 
+sioners, 763 P.2d 551, 555 (Colo. 1988) (observing that “(t]he 
+
+
+10 
+
+
+majority of courts have held that the fact of prior purchase with 
+knowledge of applicable zoning regulations does not preclude 
+a property owner from challenging the validity of the regula- 
+tions on constitutional grounds, but does constitute a factor’). 
+
+
+The Ninth Circuit, too, has rejected the rule adopted by 
+the Rhode Island Supreme Court. In Carson Harbor Village 
+Lid. vy. City of Carson, 37 F.3d 468, 470-71 (9th Cir. 1994), the 
+defendant city enacted a mobilehome space rent control ordi- 
+nance in 1979 and two mobilehome conversion ordinances in 
+1982; however, the plaintiff property owner did not purchase 
+the subject mobilehome park until 1983. Based on that chron- 
+ology, the Ninth Circuit dismissed the property owner’s facial 
+regulatory takings claims. The court held that a facial taking 
+occurs, if at all, at “the time of a statute’s enactment” and that 
+because the owner “did not own the property when the statutes 
+were enacted and when the alleged facial takings occurred, it 
+has incurred no injury entitling it to assert a facial claim.” /d. 
+at 476. With respect to as-applied takings claims, by contrast, 
+the Ninth Circuit recognized that a post-enactment purchaser 
+may indeed “suffer injury” and thus have standing to assert the 
+claims. /d. n.8. This recognition stands in marked contrast to 
+the principle adopted by the court below, under which a post- 
+enactment purchaser is categorically barred from asserting any 
+kind of regulatory takings claim. See also Del Monte Dunes at 
+Monterey, Ltd. v. City of Monterey, 95 F.3d 1422, 1425 (9th 
+Cir. 1996) (affirming a compensation award of $1.45 million 
+in favor of a property owner that had purchased the regulated 
+property at the very end of a six-year permit application pro- 
+cess), aff'd, 526 U.S. 687 (1999). 
+
+
+B. The Appropriateness of Resolving the Issue Here 
+
+
+In First English Evangelical Lutheran Church v. County 
+of Los Angeles, 482 U.S. 304, 311 (1987), the Court observed 
+that “[c]oncerns with finality left us unable to reach the reme- 
+dial question in the earlier cases where we have been asked to 
+
+
+consider the” no-compensation rule adopted by the California 
+courts. In the circumstances presented by those cases, “{c]on- 
+sideration of the remedial question . . . , we concluded, would 
+be premature.” /d. In the present case, the question may arise 
+whether consideration of the first question presented would be 
+premature as well, given the lower court's ruling that the reg- 
+ulatory takings claim asserted by Mr. Palazzolo “was not ripe 
+for judicial review.” Pet. App. at A~12. For the following rea- 
+sons, such consideration would mot be premature. 
+
+
+As in First English, “(t}he posture of the present case is 
+quite different” from those cases in which the Court declined 
+to address the question presented. 482 U.S. at 311. Here, the 
+Rhode Island Supreme Court squarely held that—regardless of 
+whether a regulatory takings claim is otherwise npe for judicial 
+review, regardless of whether the regulation deprived the prop- 
+erty of all economically viable use, and regardless of whether 
+the regulation might otherwise effect a taking under the Penn 
+Central test—such a takings claim categorically “may not be 
+maintained where the regulation predates the acquisition of the 
+property.” Pet. App. at A~14. Accordingly, the constitutional 
+question whether a regulatory takings claim is categorically 
+barred whenever the enactment of the regulation predates the 
+claimant’s acquisition of the property is “squarely presented 
+here.” First English, 482 U.S. at 312. 
+
+
+Consistent with First English, the Court should reject any 
+“suggestion tha! regardless of the state court's treatment of the 
+question, we must independently . . . resolve the takings claim 
+on the merits before we can reach the” question presented. /d. 
+
+
+~ at 312-13. As in First English, the important point here is that 
+
+
+the state courts themselves deemed the case “sufficient to pre- 
+sent the issue,” id., and that the state courts actually decided the 
+issue presented. See Pet. App. at A—14 (opining that “the trial 
+justice’s determination that a regulatory takings claim may not 
+be maintained where the regulation predates the acquisition of 
+the property is a question of law that we review de novo.”). 
+
+
+12 
+To be sure, this case differs from First English in that the 
+court below determined that Mr. Palazzolo’s takings claim was 
+not ripe. But this difference is non-essential, and it provides 
+no reasoned basis for refusing to address the first question pre- 
+sented. In the first place, the question whether every regulatory 
+takings claim is categorically barred whenever enactment of 
+the regulation predates the claiman: s a2quisition of the prop- 
+erty is logically antecedent to the question whether a particular 
+takings claim is ripe. More importantly, perhaps, there is no 
+worry that the Court's resolution of the question presented will 
+contravene Article III limitations on judicial power. As noted 
+in Suitum v. Tahoe Regional Planning Agency, 520 U.S. 725, 
+733-34 & n.7 (1997), the ripeness principles fashioned by this 
+Court in the takings context—which principles provided the 
+basis of the lower court's ripeness ruling, see Pet. App. at A—-10 
+to —1 1 —do not implicate the “case or controversy” requirement 
+of Article III. Rather, those principles are “prudential hurdles” 
+to the assertion of regulatory takings claims. 520 U.S. at 734 
+(emphasis added). 
+
+
+Moreover, this Court would not, in resolving the question 
+presented, be issuing an advisory opinion. On the one hand, if 
+the lower court's “post-enactment purchaser” ruling ts not re- 
+versed, that ruling will bar Mr. Palazzolo from ever being able 
+to assert a regulatory takings claim with respect to the subject 
+property even if he satisfies the most stringent of mpeness re- 
+quirements.’ On the other hand, if this Court does reverse the 
+
+
+* In brief, no matter what steps Mr. Palazzolo may take to surmount 
+ripeness hurdles, he cannot possibly change the fact that the regula- 
+tion predates his acquisition of the property. Therefore, the judg- 
+ment below will forever preclude him from asserting a regulatory 
+takings claim with respect to the property. See, e.g, DiBattista v. 
+State, 717 A.2d 640, 642 (R.1. 1998) (“The doctrine of res judicata 
+renders a prior judgment by a court of competent jurisdiction in a 
+civil action between the same parties conclusive as to any issues ac- 
+tually litigated in the prior action . . . .”’). 
+
+
+13 
+
+
+“post-enactment purchaser” ruling, nothing else in the decision 
+below would preclude Mr. Palazzolo from successfully assert- 
+ing a Penn Central-type claim once he surmounts the requisite 
+ripeness hurdles. See Pet. App. at A—17 (declining to consider 
+any aspect of Mr. Palazzolo’s Penn Central-based regulatory 
+takings claim other than the fact that he became the owner of 
+the property after the regulations were “already .. . in place’’). 
+In this situation, resolution by this Court of the first question 
+presented by the petition would have significant and concrete 
+consequences for Mr. Palazzolo, the very opposite of an advi- 
+sory opinion. 
+
+
+Finally, it is appropriate to resolve the issue at this time 
+because there will be no further proceedings between the par- 
+ties, either in this litigation or in any other. As noted above, if 
+allowed to stand, the ruling below will bar Mr. Palazzolo from 
+ever being able to assert a regulatory takings claim. See supra 
+note 3. Future judicial denial of relief to Mr. Palazzolo would 
+be justified by the doctrine of res judicata, see id., an adequate 
+
+
+and independent state ground that would deprive this Court of 
+jurisdiction to address the issue. 
+
+
+For all these reasons, this Court should resolve the con- 
+flict in the lower courts by granting the petition and addressing 
+the important question whether a regulatory takings claim is 
+categorically barred whenever the enactment of the regulation 
+predates the claimant's acquisition of the property. 
+
+
+WHETHER A PROPERTY OWNER MUST SUBMIT 
+“ADDITIONAL APPLICATIONS” IN ORDER TO RIPEN 
+A REGULATORY TAKINGS CLAIM IS AN IMPORTANT 
+
+AND RECURRING QUESTION OF TAKINGS 
+PROCEDURE THAT DIVIDES THE LOWER COURTS 
+
+
+Mr. Palazzolo’s 1983 application to respondent CRMC 
+“sought permission to fill the entire eighteen acres of wetlands” 
+owned by him. Pet. App. at A—11. His most recent application 
+
+
+14 
+
+
+in 1985 sought permission to fill a smaller portion of the prop- 
+erty. See id.* At this time, CRMC regulations “prohibit[ed] 
+the filling, removing or grading in coastal wetlands adjacent to 
+Type | and 2 waters ‘unless the primary purpose of the altera- 
+tion is to preserve or enhance the feature as a conservation area 
+or buffer against storms.’” /d. at B-3 (quoting the Coastal Re- 
+sources Management Plan 300.2.B(1)). Since Mr. Palazzolo’s 
+property is “adjacent to Type | waters,” it is subject to these 
+regulations. /d. Because Mr. Palazzolo’s purpose in filling the 
+wetlands concededly was not to preserve or enhance a conser- 
+vation area or a storm buffer, but rather to build single-family 
+homes or a recreational beach facility, it is hardly surprising 
+that “CRMC denied the 1985 application” outright. /d. 
+
+
+Was this denial based on the magnitude of the wetlands 
+proposed to be filled? Would an application to fill a smaller 
+area have been approved by CRMC? The answer to both of 
+these questions is no. As the trial court found, Mr. Palazzolo 
+testified—without reported contradiction on this point—that 
+“CRMC informed him that any proposal involving the filling 
+of wetlands would be denied.” /d. at B-5 (emphasis added). 
+On the other hand, CRMC staff testified (also without contra- 
+diction) that “CRMC would have approved the [non-wetland] 
+eastern end of Shore Gardens Road as a home site.” /d.; see 
+also id. at A-11 (“There was undisputed evidence in the record 
+that it would be possible [for Mr. Palazzolo] to build at least 
+one single-family home on the existing upland area, with no 
+need for additional fill.”). Thus, the uncontradicted evidence 
+was that CRMC would permit Mr. Palazzolo to develop one 
+single-family home on the small upland portion of his property 
+
+
+* Although the opinions of the lower courts do not specify the precise 
+acreage sought to be filled by the 1985 application, the opinions do 
+make clear that such application sought to fill less acreage than the 
+18.0 acres of wetlands sought to be filled by the 1983 application. 
+See id; id. at B-3. In fact, the 1985 application sought to fill just 
+11.4 acres of wetlands. 
+
+
+15 
+
+
+but would not permit him to fill any of the eighteen acres of 
+wetlands, thereby precluding any development of that portion. 
+
+
+These facts satisfy this Court’s ripeness requirements for 
+regulatory takings claims, for “the government entity charged 
+with implementing the regulations has reached a final decision 
+regarding the application of the regulations to the property at 
+issue.” Williamson County Regional Planning Commission v. 
+Hamilton Bank, 473 U.S. 172, 186 (1985). CRMC, charged 
+with implementing the Coastal Resources Management Plan, 
+finally decided that the Plan barred Mr. Palazzolo from filling 
+any wetlands. In other words, the “nature and extent of per- 
+mitted development” on Mr. Palazzolo’s eighteen-plus acres 
+of land is perfectly clear: one single-family home and nothing 
+more. MacDonald, Sommer & Frates v. County of Yolo, 477 
+U.S. 340, 351 (1986). Accordingly, “[t}he demand for finality 
+is satisfied by [Palazzolo’s] claim, . . . there being no question 
+here about how the ‘regulations at issue apply to the particular 
+land in question.’ Suitum, 520 U.S. at 739 (quoting William- 
+son County, 473 U.S. at 191). 
+
+
+Nevertheless, the court below ruled that Mr. Palazzolo’s 
+claim was not ripe because he did not seek “permission for less 
+ambitious development plans,” specifically permission for uses 
+of the property that “would involve filling substantially less 
+wetlands or would involve development only of the upland 
+portion of the parcel.” Pet. App. at A~-!1. More generally, the 
+Rhode Island Supreme Court reached what it called the “self- 
+evident conclusion that a landowner who is denied regulatory 
+approval to use his or her property in a particular way must file 
+additional applications seeking permission for less ambitious 
+uses before a takings claim may be sustained.” /d. at A—12 n.6; 
+accord id. at A—11 (chiding Mr. Palazzolo because he had not 
+“explored development options less grandiose”). The court did 
+not cite any authority for this conclusion, but it apparently drew 
+inspiration from the statement in MacDonald that “[r]ejection 
+of exceedingly grandiose development plans does not logically 
+
+
+16 
+
+
+imply that less ambitious plans will receive similarly unfavor- 
+able reviews.” 477 U.S. at 353 n.9. 
+
+
+This use of MacDonald—to impose a per se requirement 
+that landowners denied permission to use their property in a 
+particular way must a/ways file “additional applications” seek- 
+ing permission for “less ambitious” uses in order to ripen their 
+takings claims, Pet. App. A—12 n.6—cannot be squared with 
+the decisions of the Supreme Court of Texas or the Court of 
+Appeals for the Eleventh Circuit. 
+
+
+In Mayhew v. Town of Sunnyvale, 964 S.W.2d 922 (Tex. 
+1998), cert. denied, 526 U.S. 1144 (1999), the property owners 
+sought approval for planned development of 3,600 homes, but 
+the town council unequivocally refused approval. Without re- 
+questing a variance or filing additional development applica- 
+tions, the property owners sued the town for a regulatory taking 
+See id. at 931. Crucial to this claim was the allegation by the 
+property owner that “only improvements along the lines of their 
+3,600 unit proposed planned development would avert a reg- 
+ulatory taking.” /d) The Supreme Court of Texas considered 
+whether, in these circumstances, the asserted takings claim was 
+ripe under this Court’s jurisprudence. 
+
+
+In contrast to the view of the Rhode Island court below, 
+the Texas court held that “[t]he United States Supreme Court 
+has indicated that such a claim may be ripe without the neces- 
+sity of seeking a variance or filing a subsequent application.” 
+Id. (emphasis added). In support of this holding, the court cited 
+none other than MacDonald itself! Observing that this Court 
+had noted in that decision that “the applicant did not ‘contend 
+that only improvements along the lines of its 159-home subdiv- 
+ision plan would avert a regulatory taking,’” the Texas court 
+construed MacDonald to “impIl{y] that the result [i.e., dismissal 
+for lack of ripeness] may have been different if the applicant's 
+complaint had been that the only way to avert a regulatory tak- 
+ing was for the county to approve the subdivision proposal.” 
+
+
+17 
+
+
+Mayhew, 964 S.W.2d at 932 (emphasis in orginal) (quotine 
+MacDonald, 477 U.S. at 352 n.8). Therefore, “{t)he mpenes 
+doctrine does not require a property owner . . . to seek perm: 
+for development that the property owner does not deem cc 
+nomically viable.” /d. 
+
+
+The Texas court then applied these principles to the case 
+at hand. Because the property owners alleged that “anythy 
+less than approval for 3,600 units on their property constitute 
+a regulatory taking”—that is, the failure to approve the 3.61" 
+units in and of itself effected a taking—MacDonald and other 
+ripeness decisions did not require them “to submit additions 
+alternative proposals . . . to ripen [their] complaint.” /d 
+holding is in marked contrast to the holding of the court below 
+unlike Mr. Palazzolo, the property owners in Mayhew were nor 
+required to file “additional applications” seeking permiss)' 
+for “less ambitious” uses in order to ripen their takings claim 
+Pet. App. A-12 n.6. Because the property owners in Vay ho» 
+were willing in essence to concede that permission for less 
+tensive development might be granted, while af the same fom 
+denying that such permission would avert a regulator (akin. 
+their claim was deemed ripe. 
+
+
+In Greenbriar, Ltd. v. City of Alabaster, 88\ F 26 | 57 
+(11th Cir. 1989), the Court of Appeals for the Eleventh Circus 
+applied this Court’s regulatory takings ripeness requirement. 
+to a substantive due process claim arising from a city’s refusal 
+to rezone the claimant’s property. Though the property owner 
+had sought (and finally been denied) the rezoning necessary ' 
+consummate its proposed development, the city neverthe & 
+argued that the court’s “consideration of this claim is barred > 
+the MacDonald ‘reapplication’ requirement.” /d at | 575-7 
+Like the court below, the city sought to impose a “requiremen! 
+that, where one comprehensive plan for the property has beer 
+rejected, the property owner must seek a final determination 
+to alternative, /ess ambitious schemes of development” /d a! 
+1576 (emphasis added). But the Eleventh Circuit demurred 
+
+
+18 
+
+
+because the record made clear that no conceivable alternative 
+would permit the level of development alleged to be constitu- 
+tionally required, the case was now ripe. In other words, where 
+“there is no uncertainty regarding the level of development that 
+would be permitted, MacDonald's reapplication requirement 
+serves no purpose,” and the decision of the land-use agency is 
+necessarily “final and conclusive.” /d. 
+
+
+Under the reasoning of the Texas Supreme Court and of 
+the Eleventh Circuit, Mr. Palazzolo’s regulatory takings claim 
+would have been found ripe. Similar to the property owners in 
+Mayhew, Mr. Palazzolo alleged that anything less than granting 
+him permission to fill wetlands woul result in a taking. See 
+Pet. App. at B-4 (Mr. Palazzolo “contended that the CRMC’s 
+rejection of his 1983 and his 1985 applications constituted a 
+taking of his property by denying him all beneficial use of his 
+property in violation of the United States Supreme Court’s de- 
+cision in Lucas ....”). To frame the allegation another way, 
+CRMC’s undisputed refusal to permit Mr. Palazzolo to fill any 
+wetlands in and of itself worked a regulatory taking—regard- 
+less of whether Mr. Palazzolo might have obtained permission 
+to develop one single-family home on his more than eighteen 
+acres of coastal property. In Texas, Mr. Palazzolo would not 
+have been “required to submit additional alternative proposals 
+... to ripen [his] complaint.” The same is true in the Eleventh 
+Circuit: because there was no uncertainty regarding the level 
+of development that would be permitted by CRMC—yjust one 
+single-family home on eighteen-plus acres—MacDonald’s re- 
+application requirement would serve no purpose, and CRMC’s 
+decision would be deemed final and conclusive for purposes of 
+ripeness.” 
+
+
+* In addition to the fact that Mr. Palazzolo did not seek permission 
+tor “less ambitious” development plans, the Rhode Island Supreme 
+Court based its ripeness determination on one other “fact,” namely, 
+that “although Palazzolo claimed that his property was taken when 
+
+(continued...) 
+
+
+19 
+
+
+This way of considering ripeness makes eminent sense. 
+The ripeness of a takings claim should not turn on the accuracy 
+of the property owner’s allegations about the economic impact 
+of the regulation on his property. In general, ripeness concerns 
+“fitness for review,” Suitum, 520 U.S. at 742; it should not be 
+the review itself. Thus, although Mayhew found the case to be 
+ripe because 3,600 homes was “the minimum number of units 
+the Mayhews believed [i.e., alleged] necessary to make an eco- 
+nomically viable use of their land,” 964 S.W.2d at 931 (empha- 
+sis added), the court also found, on the merits, that the city’s 
+failure to approve the 3,600-unit planned development did not 
+deprive the property of economically viable use, see id. at 937. 
+
+
+* (...continued) 
+
+he was denied permission to develop a seventy-four-lot subdivision, 
+he never applied for permission to develop such a subdivision.” Pet. 
+App. at A-11 (emphasis added). This statement is inaccurate, to say 
+the least. As the very first sentence of the supreme court's opinion 
+indicates, Mr. Palazzolo actually “alleg[ed] that the CRMC’s denial 
+of his application to fill eighteen acres of coastal wetlands consti- 
+tuted a taking.” Pet. App. at A-2 (emphasis added); accord id. at 
+B--1 (observing that Mr. Palazzolo “claim[ed] that [CRMC’s] denial 
+of his application to fill approximately 18 acres of wetlands consti- 
+tutes an inverse condemnation taking” (emphasis added)). 
+
+
+Nevertheless, this “fact” led the supreme court to conclude that 
+because Mr. Palazzolo “has not applied for permission to develop a 
+seventy-four-lot subdivision, he has not ‘received a final decision 
+regarding the application of the regulations to the property at issue.” 
+Id. at A—1 1 (quoting Williamson County, 473 U.S. at 186). This con- 
+clusion is a complete non sequitur. As described in the teat above, 
+the pertinent “regulations” are regulations that “prohibit the filling, 
+removing or grading in coastal wetlands” of the very type owned by 
+Mr. Palazzolo. Pet. App. B-3. Mr. Palazzolo’s application to fill 
+wetlands unequivocally “was denied by the CRMC on February 18, 
+1986.” Jd. at A~5. That denial—coupled with uncontradicted testi- 
+mony that “any proposal involving the filling of wetlands would be 
+denied,” id. at B~5—-undoubtedly constituted a “final decision” re- 
+garding application of CRMC’s regulations to the property. 
+
+
+20 
+
+
+Likewise, although the Eleventh Circuit in Greenbriar found 
+the property owner’s claim to be ripe because “there was no un- 
+certainty regarding the level of development to be permitted,” 
+881 F.2d at 1576, the court also found, on the merits, that the 
+Constitution did not actually require the city to permit this level 
+of development, see id. at 1577-80. 
+
+
+In the present case, Mr. Palazzolo’s allegations that the 
+failure to permit any filling of the wetlands effected a taking 
+under both Lucas and Penn Central may conceivably fail even 
+under a correct view of takings law, but see supra Part |, infra 
+Part III, but that possibility does not render the takings claim 
+unripe. Rather, given the uncontradicted evidence that CRMC 
+will allow no filling whatsoever, those substantive issues are 
+fit for immediate review. When the Supreme Court of Rhode 
+Island ruled otherwise, it created a conflict with the Supreme 
+Court of Texas and the Eleventh Circuit. This Court should 
+grant certiorari to resolve the conflict. 
+
+
+THE LOWER COURTS ARE ALSO IN CONFLICT AS 
+TO WHETHER REMAINING USES OF REGULATED 
+PROPERTY ARE ECONOMICALLY VIABLE MERELY 
+BECAUSE THE PROPERTY RETAINS SOME VALUE 
+
+
+Mr. Palazzolo argued in this case that he has suffered a 
+regulatory taking under both Lucas and Penn Central. As de- 
+tailed in Part |, the Rhode Island Supreme Court erroneously 
+rejected both of these arguments based on the “post-enactment 
+purchaser” rule. The court also rejected the Lucas argument on 
+another ground, namely, that Mr. Palazzolo’s property could 
+not have been deprived of all economically viable use because, 
+despite the regulatory restraint, it retained a value greater than 
+zero. In so ruling, the court below created a conflict with the 
+Court of Appeals for the Ninth Circuit. 
+
+
+In Lucas itself, the state trial court found—and the state 
+supreme court did not disagree—that the challenged regulatory 
+
+
+21 
+
+
+prohibition “rendered Lucas’s parcels ‘valueless.’ 505 U.S. at 
+1006. Thus, the Court had no occasion to flesh out what it 
+meant by an “economically viable use,” the denial of which is 
+a “categorical” taking. /d. at 1015-16. Cf id. at 1076 (state- 
+ment of Souter, J.) (observing that “[b]ecause the questionable 
+conclusion of total deprivation cannot be reviewed, the Court 
+is precluded from attempting to clarify the concept of total . . . 
+taking on which it rests”). The Rhode Island courts, however, 
+have read Lucas to require that property be rendered valueless 
+in order for a property owner to establish a categorical regula- 
+tory taking. Thus, when the court below considered whether 
+Mr. Palazzolo “has been deprived of all beneficial and reason- 
+able use of his land,” Pet. App. at A—12, the court considered 
+one piece of evidence—and one piece of evidence only. The 
+supreme court concurred with the trial court that Mr. Palazzolo 
+“had not demonstrated such a deprivation” solely on the fact 
+that “had he developed the upland portion of the land, its value 
+would have been $200,000” and that “the wetlands would have 
+value in the amount of $157,500 as an open space gift.” /d. 
+That is, the court did not consider such things as whether the 
+development would even be economically feasible in light of 
+its costs, whether Mr. Palazzolo would receive a viable return 
+on his more than four-decade-!ony investment in the property, 
+or whether the residual value was economically significant in 
+light of the $3.15 million in lost profits he has suffered. 
+
+
+The lower court’s refusal even to consider any facts other 
+than a nonzero residual value stands in marked conflict with 
+the approach taken by the Ninth Circuit in Del Monte Dunes. 
+There, a jury had found that the property owner had suffered a 
+compensable regulatory taking, and the trial court had denied 
+the city’s motion for a judgment notwithstanding the verdict. 
+The court of appeals affirmed, concluding (inter alia) that “the 
+jury was not compelled to find that the City’s actions left Del 
+Monte with an economically viable use of [its property].” 95 
+F.3d at 1434. In so concluding, the Ninth Circuit expressly 
+
+
+22 
+
+
+rejected the argument that “because Del Monte sold the [prop- 
+erty] to the State of California for $800,000 more than it paid, 
+economically viable uses for the property must have existed.” 
+Id. at 1432. Thus, whereas the Rhode Island courts found an 
+economically viable use merely because Mr. Palazzolo, “unlike 
+the plaintiff in Lucas,” could not prove that his property was 
+rendered valueless, Pet. App. at B—9, the Ninth Circuit upheld 
+a finding of no economically use where the property not only 
+retained value, but was sold for nearly a million dollars more 
+than its purchase price. See also Del Monte Dunes, 95 F.3d at 
+1433 (observing that “several courts have found a taking even 
+where the ‘taken’ property retained significant value”). This 
+Court, of course, affirmed the Ninth Circuit’s decision in De/ 
+Monte Dunes. See 526 U.S. 687 (1999). 
+
+
+Before Lucas, the Ninth Circuit observed that “the precise 
+meaning of ‘economically viable use of land’ is elusive and has 
+not been clarified by the Supreme Court.” Lake Nacimiento 
+Ranch Co. v. County of San Luis Obispo, 841 F.2d 872, 877 
+(9th Cir.), cert. denied, 488 U.S. 827 (1988). Because the facts 
+of Lucas “precluded [the Court] from attempting to clarify the 
+concept” of economically viable use, Lucas, 505 U.S. at 1076 
+(statement of Souter, J.), that decision did not render the con- 
+cept any less elusive. See, e.g., William S. Walter, Appraisal 
+Methods and Regulatory Takings, 63 Appraisal J. 331, 340-41 
+(1995) (arguing that Lucas does not itself define economically 
+viable use but rather “portends a search . . . for methodologies 
+to define when a property is economically idle and denied all 
+economically viable use” (emphasis added)). As evidenced by 
+the conflict between the Rhode Island Supreme Court and the 
+Ninth Circuit, that search is not bearing fruit, and the elusive- 
+ness remains. This Court should grant certiorari to bring much 
+needed clarification to this important area of constitutional law. 
+
+
++— 
+
+
+23 
+
+
+CONCLUSION 
+The petition for writ of certiorari should be granted. 
+DATED: June, 2000. 
+Respectfully submitted, 
+
+
+ERIC GRANT 
+Counsel of Record 
+JAMES S. BURLING 
+JOHN B. WEBSTER Pacific Legal Foundation 
+
+Attorney at Law 10360 Old Placerville Road, 
+875 Centerville Road Suite 100 
+Warwick, Rhode Island 02886 Sacramento, Califormia 95827 
+Telephone: (401) 822-1300 Telephone: (916) 362-2833 
+Facsimile: (401) 821-4188 Facsimile: (916) 362-2932 
+
+
+Counsel for Petitioner 
+
+
+! 
+TABLE OF CONTENTS 
+
+
+Opinion of the Supreme Court of Rhode Island 
+(Feb. 25, 2000) 
+
+
+Opinion of the Superior Court of Rhode Island, 
+Washington County (Oct. 24, 1997) 
+
+
+Appendix A-| 
+February 25, 2000 
+
+
+Supreme Court 
+No. 98-333-Appeal. 
+(WM 88-297) 
+
+
+Anthony Palazzolo 
+v. 
+
+
+State of Rhode Island, by and 
+through its General Treasurer, 
+Paul J. Tavares, et al. 
+
+
+Present: Weisberger, C.J., Lederberg, Bourcier, Flanders, 
+and Goldberg, JJ. 
+
+
+Appendix A-2 
+OPINION 
+
+
+Lederberg, Justice. Anthony Palazzolo (Palazzolo) 
+brought an inverse condemnation action against the Coastal 
+Resources Management Council (CRMC), alleging that the 
+CRMC’s denial of his application to fill eighteen acres of 
+coastal wetlands constituted a taking of his property for which 
+he was entitled to compensation pursuant to the United States 
+and Rhode Island Constitutions. After a trial justice found that 
+the denial of Palazzolo’s application was not a taking for which 
+compensation was owed, judgment was entered for the CRMC, 
+and Palazzolo timely appealed to this Court. It is our conclu- 
+sion that this case is not ripe for judicial review and that the 
+trial justice did not err in granting judgment to the CRMC. 
+
+
+Facts and Procedural History 
+
+
+Palazzolo has been president of Shore Gardens, Incorpor- 
+ated (SGI), a Rhode Island corporation, from the time of its 
+incorporation on July 29, 1959. On December 2, 1959, Pala- 
+zzolo, Natale Urso (Urso), and Elizabeth Urso transferred three 
+adjoining parcels of land in the Town of Westerly, Rhode 
+Island, (town) to SGI. The parcels are located between the 
+northern side of Atlantic Avenue and the southern shore of 
+Winnipaug Pond. In 1936, an earlier owner had subdivided that 
+portion of the land lying along Atlantic Avenue, leaving the 
+remainder as an undivided lot. In 1959, SGI submitted to the 
+town a new plat subdividing the entire property into eighty lots. 
+At the time, Palazzolo and Urso were the sole shareholders in 
+SGI. Between 1959 and 1961, SGI transferred for consider- 
+ation eleven of the lots to various grantees. These lots were 
+apparently in the upland area of the parcel and could be built 
+upon with little alteration to the land. In 1960, Urso transferred 
+his interest in SGI to Palazzolo, and Palazzolo became the sole 
+shareholder. In 1969, five of the previously sold lots were 
+reacquired by SGI. After this transaction, SGI was the record 
+owner of seventy-four of the original eighty lots. Although 
+
+
+Appendix A—3 
+
+
+SGI's corporate charter was revoked by the Rhode !s!and >« 
+retary of State on February 27, 1978, SGI remains the recor: 
+owner, and all taxes on the property are assessed to SU! 
+
+
+The property consists primarily of coastal wetlands anc 
+marshlands.' Some of the lots laid out in the subdivision pia 
+include a substantial amount of land that is under the w ater: 
+Winnipaug Pond. Additional land that is not permanent!) under 
+water is subject to daily tidal inundation, and “ponding 
+small pools occurs throughout the wetlands. The area serves 4 
+a refuge and feeding ground for fish, shellfish, and >irc 
+provides a buffer for flooding, and absorbs and filters run-o'! 
+into the pond. 
+
+
+Between 1962 and 1985, Palazzolo filed several app 
+cations with state agencies seeking permission to substantia 
+alter the property. During the same period, state regulator 
+governing alterations to coastal wetlands changed substantia 
+On March 29, 1962, Palazzolo submitted an application to ' 
+Division of Harbors and Rivers (DHR) of the Departmen! 
+Natural Resources (DNR) to dredge the pond and use the 
+dredge to fill the subject property. This application was ' 
+turned to Palazzolo by DHR because it lacked essential into 
+mation. On May 16, 1963, Palazzolo filed an application 
+seeking approval to build a bulkhead, to dredge the pond. anc 
+to fill the property. At the time of these two applications, there 
+was no statutory requirement that any state agency approye '< 
+
+
+' The exact size of the entire parcel has not been specified by © 
+parties. It is undisputed that the property comprises approximat: 
+eighteen acres of wetland, and it appears that there are no more |) 
+a few additional upland acres. 
+
+
+> At the time of Palazzolo’s 1962 and 1963 applications, DHR w. 
+part of the Department of Public Works. In 1965, however © 
+Legislature transferred DHR to the newly-created DNR. PL lve 
+ch. 137, §1. For purposes of clarity, we will refer to DNR throu 
+out this opinion. 
+
+
+Appendix A-4 
+
+
+filling of coastal wetlands, but a party wishing to dredge a river 
+or pond was required to gain approval of DHR.’ 
+
+
+In 1965, the Legislature adopted an act on inter-tidal wet- 
+lands protection that gave DNR‘ the authority to restrict filling 
+in coastal wetlands. P.L. 1965, ch. 140, $1, codified as G.L. 
+1956 §§ 2-1-13 through 2-1-17.° On April 29, 1966, Palazzolo 
+applied for DHR approval to dredge the pond and fill the tidal 
+marshlands so he could construct a recreational beach facility, 
+and on April 1, 1971, DHR issued a decision approving the ap- 
+plications and giving Palazzolo the option of either constructing 
+a bulkhead and filling the marsh or constructing a beach facil- 
+ity. On November 17, 1971, DHR revoked its assent, and this 
+revocation was not appealed. 
+
+
+In 1971, the Legislature enacted the Coastal Resources 
+Management Council enabling act, P.L. 1971, ch. 279, § 1, 
+codified as G.L. 1956 chapter 23 of title 46, which created the 
+CRMC and gave the CRMC authority to regulate coastal 
+wetlands. In 1977, the CRMC promulgated a set of regulations 
+—the Coastal Resources Management Program—that prohi- 
+
+
+’ Neither party has identified any statutory provision that required 
+DHR approval before a pond or river could be dredged, although 
+both parties agreed that Palazzolo was required to seek such ap- 
+proval. We wil! assume that DHR had authority to consider these 
+applications, although the question is purely of historical interest at 
+this point. 
+
+
+* This act ostensibly gave authority over coastal wetlands to the 
+Department of Agriculture and Conservation. P.L. 1965, ch. 140, 
+§ 1. Nearly simultaneously, however, the Legislature transferred all 
+of the functions, powers, and duties of the Department of Agriculture 
+and Conservation to DNR. P.L. 1965, ch. 137, § 1. 
+
+
+* This act was repealed in 1990. P.L. 1990, ch. 461, § 9. Well 
+before this repeal, the state had delegated authority over coastal 
+wetlands to the CRMC. 
+
+
+Appendix A—5 
+
+
+bited the filling of coastal wetlands without a special exception 
+from the CRMC. 
+
+
+In March 1983, Palazzolo filed an application with the 
+CRMC seeking approval to construct a bulkhead on the shore 
+of the pond and fill approximately eighteen acres of salt marsh. 
+That application, nearly identical to the application submitted 
+in 1963, was rejected by the CRMC. Palazzolo did not appeal 
+that decision. In January 1985, Palazzolo filed an application 
+to fill wetlands on the property, again so he could create a 
+recreational beach facility. This application, nearly identical to 
+the 1966 application, was denied by the CRMC on February 18, 
+1986. Palazzolo appealed this denial pursuant to G.L. 1956 
+§ 42-35-15, and that appeal was denied by a justice of the 
+Superior Court. Palazzolo v. Coastal Resources Management 
+Council, 1995 WL 941370 (R.I. Super., Jan. 5, 1995) (C.A. 
+No. 86-1496) (Israel, J.). 
+
+
+While Palazzolo’s appeal of the 1986 CRMC decision was 
+proceeding, he filed the instant action alleging that the CRMC’s 
+denial of his application constituted a taking of his property 
+without just compensation, in violation of the Fifth Amendment 
+to the United States Constitution and Article 1, section 16, of 
+the Rhode Island Constitution. Palazzolo sought damages in 
+the amount of $3,150,000, based on the profits he claimed he 
+would receive from filling the wetlands and developing the 
+property as seventy-four lots for single-family homes. A jury- 
+waived trial was held in June 1997, and on October 24, 1997, 
+the trial justice issued a thirteen-page decision that made 
+findings of fact and law. The trial justice concluded that 
+Palazzolo’s property had not been taken for public use and that 
+no compensation was required under the United States or 
+Rhode Island Constitutions. Palazzolo timely appealed, asking 
+this Court to review the trial justice’s findings of fact and law. 
+
+
+Additional facts will be discussed as required by analysis 
+of the legal issues presented. 
+
+
+Appendix A-6 
+
+
+Standard of Review 
+
+
+Palazzolo’s appeal seeks review of the findings of law and 
+the findings of fact made by the trial justice in his decision. A 
+trial justice’s findings on questions of law are reviewed de novo 
+by this Court. See, e.g., Nonnenmacher v. City of Warwick, 
+722 A.2d 1199, 1202 (R.1. 1999) (the existence of a contract Is 
+a question of law reviewed de novo by the Court); Levine v. 
+Bess Eaton Donut Flour Co., 705 A.2d 980, 982 (R.1. 1998) 
+(statutory interpretation is a question of law that the Court re- 
+views de novo). 
+
+
+Findings of fact by a trial justice sitting without a jury, 
+however, are accorded great weight upon review by this Court, 
+and those factual determinations “will not be disturbed unless 
+the justice has overlooked or misconceived material evidence 
+or was otherwise clearly wrong.” State v. Collins, 679 A.2d 
+862, 865 (R.1. 1996). 
+
+
+A trial justice’s findings on mixed questions of law and 
+fact are generally entitled to the same deference as the justice's 
+findings of fact. Hawkins v. Town of Foster, 708 A.2d 178, 182 
+(R.1. 1998). But, when those mixed questions of law and fact 
+impact constitutional matters, we shall review the findings de 
+novo, pursuant to Ornelas v. United States, 517 U.S. 690, 116 
+S. Ct. 1657, 134 L. Ed. 2d 911 (1996). See Foley v. Osborne 
+Court Condominium, 724 A.2d 436, 439 (R.1. 1999) (applying 
+the Ornelas standard to a civil case); State v. Campbell, 691 
+A.2d 564, 569 (R.1. 1997) (applying the Ornelas standard to a 
+criminal case). 
+
+Takings Analysis 
+
+Palazzolo’s claim for damages is grounded in the Fifth 
+
+Amendment to the United States Constitution, which bars the 
+
+
+taking of private property for public use, without just com- 
+pensation. 
+
+
+Appendix A—7 
+
+
+This prohibition on uncompensated taking has been 
+applied to the states through the Fourteenth Amendment. San 
+Diego Gas & Electric Co. v. City of San Diego, 450 U.S. 621, 
+623 n.1, 101 S. Ct. 1287, 1289 n.1, 67 L. Ed. 2d 551, 555 n.1 
+(1981). Similarly, article 1, section 16, of the Rhode Island 
+Constitution provides that “[p]rivate property shall not be taken 
+for public uses, without just compensation.” The United States 
+Supreme Court has recognized that this constitutional injunc- 
+tion is “designed to bar [g]overnment from forcing some people 
+alone to bear public burdens which, in all fairness and justice, 
+should be borne by the public as a whole.” Armstrong v. United 
+States, 364 U.S. 40, 49, 80S. Ct. 1563, 1569, 4 L. Ed. 2d 1554, 
+1561 (1960). 
+
+
+Historically, a taking was recognized when the govern- 
+ment confiscated a piece of real property for some public pur- 
+pose, such as constructing a road. See, e.g., Central Land Co. 
+v. City of Providence, 15 R.1. 246, 250, 2 A. 553, 556 (1886) 
+(city required to give compensation for land taken to widen 
+road). The United States Supreme Court has also recognized, 
+however, “that while property may be regulated to a certain ex- 
+tent, if regulation goes too far it will be recognized as a taking.” 
+Pennsylvania Coal Co. v. Mahon, 260 U.S. 393, 415, 43 S. Ct. 
+158, 160, 67 L. Ed. 322, 326 (1922). The question of whether 
+a specific governmental regulation of property has gone too far, 
+however, has not been an easy one to resolve. See Penn Cen- 
+tral Transportation Co. v. New York City, 438 U.S. 104, 123- 
+28, 98 S. Ct. 2646, 2658-61, 57 L. Ed. 2d 631, 647-51 (1978) 
+(discussing the difficulties in developing a “set formula” to 
+analyze regulatory takings claims). Fortunately, recent deci- 
+sions of the Supreme Court have identified a three-step process 
+
+
+that can be used in analyzing Palazzolo’s regulatory takings 
+claim. 
+
+
+First, a court confronted with a claim that a government 
+regulation effects a taking of property must determine whether 
+the claim is ripe for judicial review. See, e.g., MacDonald, 
+
+
+Appendix A-8 
+
+
+Sommer & Frates v. County of Yolo, 477 U.S. 340, 351-52, 106 
+S. Ct. 2561, 2567-68, 91 L. Ed. 2d 285, 295-97 (1986) (court 
+should not reach the merits of a takings claim if the claim is 
+premature); Williamson County Regional Planning Commission 
+v. Hamilton Bank of Johnson City, 473 U.S. 172, 186, 105 
+S. Ct. 3108, 3116, 87 L. Ed. 2d 126, 139 (1985) (judicial action 
+on a takings claim is not supportable when the claim is not 
+ripe). The United States Supreme Court in Williamson County 
+has stated that a regulatory takings claim “is not ripe until the 
+government entity charged with implementing the regulations 
+has reached a final decision regarding the application of the 
+regulations to the property at issue.” /d. 
+
+
+Second, if the claim is ripe, the reviewing court must then 
+determine whether the government regulation falls into one of 
+the two categories that the Supreme Court has identified as per 
+se takings. Lucas v. South Carolina Coastal Council, 505 U.S. 
+1003, 1015, 112 S. Ct. 2886, 2893, 120 L. Ed. 2d 798, 812-13 
+(1992). The first of these is any regulation that compels a prop- 
+erty owner to suffer a physical invasion of his or her property. 
+Id. at 1015, 112 S. Ct. at 2893, 120 L. Ed. 2d at 812. See also 
+Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419, 
+435-40, 102 S. Ct. 3164, 3175-78, 73 L. Ed. 2d 868, 882-85 
+(1982) (regulation requiring building owner to permit cable 
+television company to install equipment on the exterior of the 
+building was a compensable taking, regardless of the size of the 
+equipment). The second category ofper se takings occurs when 
+the regulation at issue “denies all economically beneficial or 
+productive use of land.” Lucas, 505 U.S. at 1015, 112 S. Ct. at 
+2893, 120 L. Ed. 2d at 813. See also Annicelli v. Town of South 
+Kingstown, 463 A.2d 133, 140 (R.1. 1983) (town was required 
+to compensate landowner after designating property as being in 
+“high flood danger” district, because the designation left owner 
+with no beneficial use of the property). Hence, when govern- 
+ment action constitutes either a physical invasion of property or 
+a denial of all beneficial use, the owner of the property must be 
+
+
+Appendix A-9 
+
+
+compensated regardless of the public interest advanced in sup- 
+port of the action. Lucas, 505 U.S. at 1015, 112 S. Ct. at 2893, 
+120 L. Ed. 2d at 812. 
+
+
+Finally, when a regulation does not amount to a per se 
+taking, the reviewing court must determine whether it meets the 
+test for a regulatory taking established in Penn Central, 438 
+U.S. at 124, 98 S. Ct. at 2659, 57 L. Ed. 2d at 648. This test 
+requires an ad hoc factual inquiry in which the court should 
+examine three factors. /d. First, what is the character of the 
+government action? /d. Second, what is the economic impact 
+of the action? /d. Third, to what extent has the regulation 
+interfered with distinct investment-backed expectations of the 
+owner? /d. See also Alegria v. Keeney, 687 A.2d 1249, 1252 
+(R.I. 1997) (applying the Penn Central test). 
+
+
+In our review, we begin by applying this three-step analy- 
+sis to evaluate Palazzolo’s claim that the CRMC’s denial of his 
+application to fill his property amounts to a compensable 
+taking. We first discuss the necessary question of whether the 
+claim is ripe for judicial review. 
+
+
+Ripeness 
+
+
+The requirement of ripeness is based on the principle that 
+this Court “will not render advisory opinions or function in the 
+abstract.” Rhode Island Ophthalmological Society v. Cannon, 
+113 R.I. 16, 28, 317 A.2d 124, 130-31 (1974). The United 
+States Supreme Court discussed the basic rationale of the ripe- 
+ness doctrine in Abbott Laboratories v. Gardner, 387 U.S. 136, 
+148-49, 87S. Ct. 1507, 1515, 18 L. Ed. 2d 681, 691 (1967), in 
+which the Court explained that unless administrative decisions 
+resulted in cases that were ripe for judicial resolution, courts 
+would become enmeshed in “abstract disagreements” concern- 
+ing administrative policies. See also Barrington School Com- 
+mittee v. Rhode Island State Labor Relations Board, 608 A.2d 
+1126, 1131 (R.I. 1992) (“the need for exhaustion to attain ripe- 
+ness allows an agency to correct its own errors, perhaps thereby 
+
+
+Appendix A--10 
+
+
+avoiding the necessity of any judicial involvement”). A case is 
+ripe for review only when there is an allegation of an injury in 
+fact and when the claims that are made are capable of proof at 
+trial. Cannon, 113 R.1. at 28, 317 A.2d at 130-31. See also In 
+re Petition of Almond, 603 A.2d 1087, 1090 (R.1. 1992) (peti- 
+tion regarding potential conflict between state and federal rules 
+governing prosecutors’ conduct was not ripe for review where 
+the federal court had adopted the state rule, because federal 
+prosecutors would face injury only if federal court abandoned 
+state rule); Vose v. Rhode Island Brotherhood of Correctional 
+Officers, 587 A.2d 913, 915 n.2 (R.1. 1991) (case was ripe for 
+review when there was actual conflict between statute and col- 
+lective bargaining agreement). 
+
+
+The concept of npeness looms large in the jurisprudence 
+of takings because for a court to determine whether a taking has 
+occurred, the court must be able to ascertain “the nature and 
+extent of permitted development” on the subject property. 
+MacDonald, Sommer & Frates, 477 U.S. at 351, 106 S. Ct. at 
+2567, 91 L. Ed. 2d at 295. Thus, a claim was found not to be 
+ripe when the claimants had not submitted a plan for 
+development of the property. See Agins v. City of Tiburon, 447 
+U.S. 255, 260, 100 S. Ct. 2138, 2141, 65 L. Ed. 2d 106, 111 
+(1980) (owners alleged that zoning change was a taking, but 
+had not sought permission to develop the land). _Similarly, 
+claims were deemed unripe when the claimants had submitted 
+only a single grandiose plan for development and had not de- 
+monstrated that less ambitious plans also would be rejected. 
+See MacDonald, Sommer & Frates, 477 U.S. at 353 n.9, 106 
+S. Ct. at 2568 n.9, 91 L. Ed. 2d at 297 n.9 (owner only had 
+sought approval for a 159-lot development and did not explore 
+options for less intensive development); Penn Central, 438 U.S. 
+at 136-37, 98 S. Ct. at 2665-66, 57 L. Ed. 2d at 656 (owner had 
+only sought approval to build fifty-story building above train 
+terminal and did not demonstrate that permission would be de- 
+nied for smaller structure); Alegria, 687 A.2d at 1253 (claimant 
+
+
+Appendix A—11 
+
+
+filed application to construct four buildings in wetlands, but 
+never sought approval for construction of fewer buildings). 
+
+
+On the basis of our de novo review of the record and of the 
+trial justice’s decision, it is our determination that Palazzolo’s 
+claim for compensation was not ripe for review. This holding 
+is derived from two crucial facts. First, although Palazzolo 
+claimed that his property was taken when he was denied per- 
+mission to develop a seventy-four-lot subdivision, he never 
+applied for permission to develop such a subdivision. His 
+1966 and 1985 applications sought to fill the wetlands so he 
+could construct a beach club. His 1963 and 1983 applications 
+sought permission to fill the wetlands, with no statement de- 
+scribing what he intended to do with the land when it was filled. 
+In fact, during the hearings on the 1983 application, he speci- 
+fically stated that he had no plans to build on the filled land. 
+Because Palazzolo has not applied for permission to develop a 
+seventy-four-lot subdivision, he has not received a “final deci- 
+sion regarding the application of the regulations to the property 
+at issue.” Williamson County, 473 U.S. at 186, 105 S. Ct. at 
+3116, 87 L. Ed. 2d at 139. 
+
+
+Our conclusion that Palazzolo’s claim is not ripe for ju- 
+dicial resolution also rests on the fact that he has not sought 
+permission for less ambitious development plans. His 1963 and 
+1983 applications sought permission to fill the entire eighteen 
+acres of wetlands. His 1966 and 1985 applications to develop 
+a private beach club sought permission to fill all of the wetlands 
+except for a fifty-foot strip between the fill and the pond. 
+Palazzolo has not sought permission for any other use of the 
+property that would involve filling substantially less wetlands 
+or that would involve development only of the upland portion 
+of the parcel. There was undisputed evidence in the record that 
+it would be possible to build at least one single-family home on 
+the existing upland area, with no need for additional fill. Until 
+Palazzolo has explored development options less grandiose than 
+filling eighteen acres of salt marsh, he cannot maintain a claim 
+
+
+Appendix A-12 
+
+
+that the CRMC has deprived him of all beneficial use of the 
+property.” 
+
+
+Because Palazzolo’s regulatory takings claim was not ripe 
+for judicial review, the trial justice properly entered judgment 
+in favor of the CRMC. Although our determination that the 
+claim was not ripe is dispositive of the case, we shall briefly 
+discuss the merits of Palazzolo’s claim. 
+
+
+Deprivation of All Beneficial Use 
+
+
+The trial justice properly began his consideration of 
+Palazzolo’s claim by examining whether there had been a per 
+se taking under the rubric of Lucas. Because both parties 
+acknowledged that the regulations in question did not compel 
+Palazzolo to suffer a physical invasion of his property, there 
+could only be a per se taking if Palazzolo has been deprived of 
+all beneficial and reasonable use of his land. The trial justice 
+found that Palazzolo had not demonstrated such a deprivation. 
+Based on our de novo review of the record, we agree. 
+
+
+Palazzolo presented evidence at trial indicating that he 
+would not be granted permission to fill eighteen acres of wet- 
+lands on the subject property. There was undisputed evidence; 
+however, that had he developed the upland portion of the land, 
+
+
+° This holding leads to the self-evident conclusion that a landowner 
+who is denied regulatory approval to use his or her property in a 
+particular way must file additional applications seeking permission 
+for less ambitious uses before a takings claim may be sustained. We 
+emphasize, however, that those subsequent applications must be 
+substantially different from the original application. In the case at 
+bar, Palazzolo repeatedly filed nearly identical applications to fill the 
+wetlands, and appealed only one of the three denials of these appli- 
+cations. The doctrine of administrative finality dictates that an ap- 
+plicant may not challenge administrative action by filing identical 
+repetitive applications, but must bring any challenge in Superior 
+Court in accord with the Administrative Procedures Act, G.L. 1956 
+§ 42-35-15. 
+
+
+eee 
+
+
+Appendix A-13 
+
+
+its value would have been $ 200,000. Further, there was test- 
+imony that the wetlands would have value in the amount of 
+$157,500 as an open-space gift. It is true that these sums are 
+significantly lower than the speculative $3,150,000 profit that 
+Palazzolo alleged he could earn from filling and developing the 
+wetlands,’ but “{t}he mere fact that [the landowner] may not 
+have received the anticipated return on his investment does not 
+render nugatory the remaining value of the land.” Alegria, 687 
+A.2d at 1253. In the face of this evidence, the trial justice was 
+not clearly wrong in finding that Palazzolo had not been de- 
+prived of all beneficial use of his property. 
+
+
+Even if Palazzolo had been denied all beneficial use of his 
+property, he would not be able to demonstrate a per se taking on 
+the facts of this case. In Lucas, the Supreme Court noted that 
+the government “may resist compensation only if the logically 
+antecedent inquiry into the nature of the owner's estate shows 
+that the proscribed use interests were not part of his [or her] 
+title to begin with.” Lucas, 505 U.S. at 1027, 112 S. Ct. at 
+2899, 120 L. Ed. 2d at 820. In applying this rule, the trial jus- 
+tice found that Palazzolo could not have become the owner of 
+the property before 1978, at which time the regulations limiting 
+his ability to fill the wetlands were already in place. The trial 
+justice thus determined that the nght to fill the wetlands was not 
+part of Palazzolo’s estate to begin with, and that he was there- 
+fore not owed any compensation for the deprivation of that 
+right. The trial justice’s finding that Palazzolo did not acquire 
+the parcel until 1978 is a mixed question of law and fact that 
+does not implicate constitutional matters. We will not overturn 
+
+
+” It was revealed at oral argument that the town’s current zoning law 
+would not permit seventy-four lots to be developed on only eighteen 
+acres. Further, there was no evidence that Palazzolo would be able 
+to obtain the necessary permits for the installation near Winnipaug 
+Pond of the number of septic systems that his proposed development 
+would require. Thus, it is clear that his anticipated “profit” was un- 
+realistically optimistic. 
+
+
+Appendix A-14 
+
+
+that finding unless there was “clear error, oversight, or mis- 
+conception of material evidence.” Hawkins, 708 A.2d at 182. 
+However, the trial justice’s determination that a regulatory 
+takings claim may not be maintained where the regulation 
+predates the acquisition of the property is a question of law that 
+we review de novo. In making these findings, the trial justice 
+did not overlook or misconceive any material evidence, nor did 
+he misapply the law. 
+
+
+During trial, the trial justice described the conveyance 
+history of this parcel as “a title examiner’s nightmare.” The 
+evidence was clear, however, that in 1959 the land was acquired 
+by SGI, not Palazzolo. Further, all transactions since 1959 
+have been conducted and recorded in the name of SGI. During 
+the time that SGI was a valid Rhode Island corporation, SGI 
+was clearly the owner of this property, despite the fact that 
+Palazzolo was SGI’s sole shareholder for most of that time. See 
+Rhode Island Hospital Trust Co. v. Doughton, 270 U.S. 69, 81, 
+46 S. Ct. 256, 258, 70 L. Ed. 475, 479 (1926) (“[t]he owner of 
+the shares of stock in a company is not the owner of the cor- 
+poration’s property”). See also Brotherton v. Department of 
+Environmental Conservation, 675 N.Y.S.2d 121, 122 (N.Y. 
+App. Div. 1998) (having “received the benefits of corporate 
+ownership for many years * * * [claimant] may not now 
+disregard the corporate form of ownership merely because it no 
+longer serves his interests”); City of Virginia Beach v. Bell, 255 
+Va. 395, 498 S.E.2d 414, 418 (Va. 1998), cert. denied, 119 S. 
+Ct. 73, 142 L. Ed. 2d 57, 67 U.S.L.W. 3001 (U.S. Va. Oct. 5, 
+1998) (No. 97-2061) (corporation, not stockholder, was owner 
+of property for purposes of takings analysis). Palazzolo did not 
+become the owner of the property until 1978 because only at the 
+time the corporation’s charter was revoked did the property pass 
+by operation of law to Palazzolo, its sole shareholder. Friendly 
+Home v. Shareholders & Creditors of Royal Homestead Land 
+Co., 477 A.2d 934, 938 (R.1. 1984). Thus, there was sufficient 
+
+
+Appendix A-15 
+
+
+evidence to support the tria!_v"#®ee-stinding that Palazzolo did 
+not become the owner of the parcel until 1978." 
+
+
+Palazzolo argued that if in fact he became deprived of all 
+beneficial use of the land, then under Lucas it is irrelevant when 
+he became owner of the property. Under his reasoning, if a 
+regulation deprives an owner of all beneficial use, it is im- 
+material whether the regulation predates the claimant’s owner- 
+ship of the land. However, Palazzolo was unable to cite a single 
+case in which a court has ordered compensation for a regulatory 
+taking when the claimant became the owner of the property 
+after the regulation became effective. Not only is this argument 
+unsupported by precedent, it is flawed. First, it violates the 
+Supreme Court’s dictate in Lucas instructing reviewing courts 
+to determine whether a landowner originally possessed the right 
+to engage in a particular use. Here, when Palazzolo became the 
+owner of this land in 1978, state laws and regulations already 
+substantially limited his nght to fill wetlands. Hence, the nght 
+to fill wetlands was not part of the title he acquired. See 
+Brotherton, 675 N.Y.S.2d at 122-23 (takings claim failed be- 
+cause “[the landowner] failed to demonstrate that, at the time he 
+acquired title, he possessed the right to develop and use the 
+property in the manner which he proposes”); City of Virginia 
+Beach, 498 S.E.2d at 417 (where the regulation predated the 
+landowner’s acquisition of the property, “the ‘bundle of nghts’ 
+which [the landowner] acquired upon obtaining title to the 
+
+
+* Had SGI sought compensation for a taking during its ownership of 
+the property, it would have been faced with the fact that it would not 
+have been able to demonstrate deprivation of all beneficial use, be- 
+cause it had transferred eleven parcels for consideration during the 
+first three years of its ownership. See Ciampitti v. United States, 22 
+Cl. Ct. 310, 320 (1991) (in determining whether there had been de- 
+privation of all beneficial use, court must “put into the equation not 
+only those areas as to which dredge and fill permits were denied, but 
+also those areas that had been successfully developed earlier’). 
+
+
+Appendix A—16 
+
+
+property did not include the right to develop the lots without 
+restrictions”). 
+
+
+Moreover, Palazzolo’s argument that the time of acqui- 
+sition is irrelevant could lead to pernicious “takings claims” 
+based on speculative purchases in which an individual inten- 
+tionally purchases land, the use of which is severely limited by 
+environmental restrictions, and then seeks compensation from 
+the state for that “taking.” Additionally, regulatory takings 
+would be treated differently from physical takings, a result that 
+is clearly contrary to the Lucas Court’s statement that the two 
+types of takings should be accorded similar treatment by courts. 
+Lucas, 505 U.S. at 1028-29, 112 S. Ct. at 2900, 120 L. Ed. 2d 
+at 821. For instance, under Palazzolo’s interpretation, any new 
+purchaser of land would be able to claim that a pre-existing 
+regulation resulted in a taking for which that new owner was 
+owed compensation. This is clearly different from the treat- 
+ment given to physical takings, in which only the owner at the 
+time of the taking is owed compensation. See id. (noting that 
+‘‘a permanent easement that was a pre-existing limitation upon 
+the landowner’s title” would not amount to a compensable tak- 
+ing). Regardless of whether the government physically takes 
+property in the form of an easement or promulgates regulations 
+restricting the property’s use, all subsequent owners take the 
+land subject to the pre-existing limitations and without the 
+compensation owed to the original affected owner. 
+
+
+Thus, the record here provided sufficient evidence to 
+support the trial justice’s findings that Palazzolo had not been 
+deprived of all beneficial use of his property and that he had no 
+inherent development nights derived from any rights that existed 
+prior to his acquiring title to the land in 1978. Therefore, there 
+was no per se taking. 
+
+
+Appendix A-—17 
+
+
+Investment-Backed Expectations 
+
+
+Having concluded that there was no per se taking, we must 
+determine whether there was a regulatory taking under the tes! 
+of Penn Central. The trial justice found that Palazzolo had no 
+reasonable investment-backed expectations that were affected 
+by this regulation and that therefore there was no taking We 
+agree. As we have discussed, the trial justice did not err in 
+finding that Palazzolo did not become the owner of the land 
+until 1978.” At that time, there were already regulations in 
+place limiting Palazzolo’s ability to fill the wetlands for dey - 
+elopment. 
+
+
+In light of these regulations, Palazzolo could not reason- 
+ably have expected that he could fill the property and develop 
+a seventy-four-lot subdivision. See Good v. United States, | 84 
+F.3d 1355, 1361-62 (Fed. Cir. 1999), petition for cert. filed, 6» 
+U.S.L.W. 3367 (U.S. Nov. 24, 1999) (No. 99-881) ("[ijJn view 
+of the regulatory climate that existed when [the landowner} ac 
+quired the subject property, [the landowner] could not have had 
+a reasonable expectation that he would obtain approval to fi) 
+ten acres of wetlands in order to develop the land”). 
+
+
+Palazzolo’s lack of reasonable investment-backed expec. 
+tations is dispositive in this case, and we need not consider the 
+other factors of the Penn Central test. Good, 189 F.3d at | 46° 
+
+
+” During oral argument it was suggested that a party to whom prop 
+erty passes through operation of law could assume the investment! 
+backed expectations of the original owner, and we were referred ! 
+
+the decision in Reahard v. Lee County, 968 F.2d 1131 (ith Cur 
+1992). The Eleventh Circuit in Reahard never decided the issue o! 
+whether the claimant, who had inherited the property trom his par 
+ents, had any reasonable investment-backed expectations, i/. 4! 
+1136, and the action was ultimately dismissed for lack of mpeness 
+Reahard v. Lee County, 30 F.3d 1412, 1418 (11th Cir. 1994) 
+
+
+Appendix A-18 
+
+
+Conclusion 
+
+
+In conclusion, therefore, Palazzolo’s claim was not ripe 
+tor review, he has not demonstrated that he has been deprived 
+of all beneficial use of his property, and he had no reasonable 
+investment-backed expectations that he could develop a 
+seventy-four-lot subdivision on this property. Therefore, the 
+judgment of the Superior Court is affirmed, and Palazzolo’s 
+appeal is denied and dismissed. The papers of the case may be 
+returned to the Superior Court. 
+
+
+Can penned uae 8 
+
+
+RY 
+
+
+Appendix B—! 
+FILED: OCTOBER 24, 1997 
+
+
+STATE OF RHODE ISLAND AND 
+PROVIDENCE PLANTATIONS 
+
+
+WASHINGTON, SC SUPERIOR COURT 
+
+
+ANTHONY PALAZZOLO, 
+individually and as successor : 
+in the title to SHORE 
+GARDENS, INC., 
+
+
+v. é C.A. No. 88-0297 
+
+
+COASTAL RESOURCES 
+MANAGEMENT COUNCIL, : 
+ET AL. 
+
+
+DECISION 
+
+
+WILLIAMS, J. Before the Court is the plaintiff's, Anthony 
+Palazzolo (“plaintiff”), claim that the Coastal Resources Man- 
+agement Council’s (“CRMC”) denial of his application to fill 
+approximately 18 acres of wetlands off Atlantic Avenue in 
+Westerly, Rhode Island, constitutes an inverse condemnation 
+taking. Specifically, the plaintiff contends that the CRMC's 
+actions violated the Fifth Amendment's just compensation 
+clause as incorporated by the Due Process Clause of the Four- 
+teenth Amendment and violated Article | § 16 of the Consti- 
+tution adopted December 4, 1986. Jumsdiction is pursuant to 
+G.L. 1956 § 8-2-14. 
+
+
+Appendix B—2 
+
+
+FACTS and TRAVEL [sic] 
+
+
+The subject property consists of approximately 74 lots 
+and is located adjacent to Winnapaug Pond in Westerly, Rhode 
+Island. On December 1, 1959, the plaintiff purchased an un- 
+divided one-half interest in the majority of the subject property 
+trom Natale Louis and Elizabeth D. Urso (“Ursos”) for 
+approximately $8,000 (Plaintiff's Exhibit 1). On December 2, 
+1959, the plaintiff and Ursos transferred the same property to 
+Shore Gardens, Inc. (SGI), a Rhode Island Corporation (Plain- 
+tiffs Exhibit |). The plaintiff was president of SGI from July 
+29, 1959, the date of incorporation, until February 27, 1978, 
+when SGI's Charter was revoked. On May 15, 1969, SGI ac- 
+quired, by Warranty Deed, the remainder of the subject property 
+for a purchase price of approximately $5,000 (Plaintiff's 
+Exhibit 2). Between 1959 and 1961 SGI sold six parcels to 
+Various parties who constructed homes on them. (Defendants’ 
+Exhibit OO-TT.) On March 29, 1962, the plaintiff submitted 
+an application to the State of Rhode Island Department of 
+Natural Resources, Division of Harbors and Rivers (DHR) to 
+dredge Winnapaug Pond and to use the dredge to fill marsh on 
+the subject property to make it “adaptable for useful 
+development.” (Plaintiffs Exhibit 14, Decision of the Chief of 
+the DHR at |.) The application was returned to the plaintiff be- 
+cause It was missing essential information. On May 16, 1963, 
+the plaintiff submitted a second application to DHR seeking 
+State approval to build a bulkhead on the subject property, to 
+dredge Winnapaug Pond, and to use the material as fill on the 
+subject property. On April 29, 1966, the plaintiff submitted 
+(without prejudice) a third application to DHR in which the 
+plaintiff proposed to dredge Winnapaug Pond and dispose of 
+the dredged material in tidal marshlands located on the subject 
+property in order to construct a recreational beach facility. On 
+Apnil |, 1971, the DHR issued a decision approving the plain- 
+tiffs applications and giving the plaintiff the option to elect 
+either the plan to construct a bulkhead and fill the salt marsh or 
+
+
+Appendix B-—3 
+
+
+the plan to construct a recreational beach facility and fill the salt 
+marsh. On November 17, 1971, the DHR revoked its assent. 
+The plaintiff did not appeal. 
+
+
+In 1971 the CRMC succeeded the DHR as the regulator of 
+coastal wetlands. (Testimony of Grover Fugate, R.I. Gen. Laws 
+§ 46-23-1, et seq.) In 1976 the CRMC adopted the Coastal 
+Resources Management Plan (CRMP) which prohibited the 
+filling of coastal wetlands without a special exception. In June 
+1983 the CRMC revised the CRMP to prohibit the filling, 
+removing or grading in coastal wetlands adjacent to Type | 
+and 2 waters “unless the primary purpose of the alteration is to 
+preserve or enhance the feature as a conservation area or buffer 
+against storms.” (CRMP 300.2.B(1)). The subject property is 
+adjacent to Type | waters. 
+
+
+In March 1983 the plaintiff filed an application with the 
+CRMC to construct a bulkhead, on the shoreline of Winnapaug 
+Pond and to fill approximately 18 acres of salt marsh on the 
+subject property. The 1983 application was nearly identical to 
+the application the plaintiff submitted to DHR in 1962. The 
+CRMC denied the plaintiff's application and he did not appeal 
+that decision. (Plaintiff's Exhibit 14, CRMC Decision, Docket 
+No. 83-3-55.) In January 1985 the plaintiff filed a second 
+application with the CRMC to construct a recreational beach 
+facility and to fill wetlands adjacent to Winnapaug Pond. 
+(Detendants’ Exhibit |, CRMC Recommendations of Subcom- 
+mittee, Docket No. 85-1-33.) The 1985 application was nearly 
+identical to the application the plaintiff submitted to DHR in 
+1966. The CRMC denied the 1985 application. On June 15, 
+1988, the plaintiff filed the instant action alleging that the 
+CRMC’s denial of his application constituted a taking of his 
+property without just compensation. 
+
+
+The plaintiff contended that SGI was not the true owner of 
+the subject property, even though it held title to the subject 
+property since December 2, 1959, and May 15, 1969. The 
+
+
+Appendix B-4 
+
+
+plaintiff argued that he was the owner of the subject property, 
+because he had acquired 100 percent of SGI's stock in 1961. 
+The plaintiff further argued that because a single-family dwell- 
+ing or a recreational beach facility was the only permissible use 
+for the subject property, the CRMC’s approval of one of his two 
+applications was necessary to enable him to obtain some use of 
+his property. The plaintiff also contended that the CRMC’s 
+rejection of his 1983 and his 1985 applications constituted a 
+taking of his property by denying him all beneficial use of his 
+property in violation of the United States Supreme Court's 
+decision in Lucas v. South Carolina Coastal Council, 505 U.S. 
+1003 (1992) and the Rhode Island Supreme Court’s decision 
+inn Annicelli v. Coastal Resources Management Council, 463 
+A.2d 133 (R.1. 1983). 
+
+
+The CRMC contended that its denial of the plaintiffs 
+application to fill approximately 18 acres of coastal wetlands 
+was not a taking because the plaintiff failed to present a more 
+moderate, less damaging, more environmentally compatible 
+alternative. Therefore, the CRMC argued, the plaintiff could 
+not contend that he had been deprived of all beneficial use of 
+his property. The state also asserted that the plaintiff's claim 
+was not ripe because he had failed to specify in his application 
+that he intended to develop a residential subdivision. Alter- 
+natively, the CRMC contended that the plaintiff could not claim 
+that his property was taken because SGI was the true owner of 
+the subject property at the time of the alieged taking. In addi- 
+tion, the CRMC contended that even if the plaintiff had title to 
+the subject property, he did not acquire it until 1978 when the 
+Secretary of State revoked SGI’s Certificate of Incorporation 
+and SGI lost its corporate status. The CRMC maintained that 
+because the plaintiff took title of the property subject to the reg- 
+ulations which existed in 1986, at the time of the alleged taking, 
+the plaintiff had no expectation to develop his property in 
+contravention of those regulations. Moreover, the state argued 
+that even if the CRMC’s regulations did deny the plaintiff loss 
+
+
+i a 
+
+
+Appendix B—S 
+
+
+of all beneficial use of the subject property, the state did not 
+have to compensate the plaintiff because of the common law 
+nuisance doctrine. The state raised numerous additional argu- 
+ments including statute of limitations, the public trust doctrine, 
+and lack of damages. 
+
+
+At tnal, the plaintiff testified that the CRMC informed him 
+that any proposal involving the filling of wetlands would be 
+denied. Several witnesses testified that the site at the eastern 
+end of Shore Gardens Road was developable. Grover Fugate, 
+the Director of CRMC, and Steven Clarke, a professional en- 
+gineer, testified that the CRMC would have approved the 
+eastern end of Shore Gardens Road as a home site. The state’s 
+witness, Mr. Andolfo, testified that the value of the subject 
+property located at the eastern end of Shore Gardens Road 
+would be approximately $200,000 if developed. The plaintiff 
+did not contradict this evidence. The plaintiff submitted an 
+appraisal report which noted that the subject property had a 
+value of $157,500 as an open-space gift. 
+
+
+TAKINGS ANALYSIS 
+
+
+The Takings Clause of the Fifth Amendment to the United 
+States Constitution made applicable to the states through the 
+Fourteenth Amendment and Article I, § 16 of the Rhode Island 
+Constitution provides that private property shall not be taken 
+for public use without just compensation. Under these provi- 
+sions, when the government’s interference with an individual's 
+private property rights reaches so far as to constitute a taking, 
+the government must compensate the individual for the inter- 
+ference. Brunelle v. Town of South Kingstown, No. 95-489-A.. 
+Slip Op. at 13 (R.1. filed July 31, 1997). 
+
+
+The plaintiff contends that the CRMC’s actions consti- 
+tuted a taking under the Fifth Amendment to the United States 
+Constitution and under Article I, § 16 of the Rhode Island Con- 
+stitution. The plaintiff cites Lucas v. South Carolina Coastal 
+Council, 112 S. Ct. 2882 (1992) and Annicelli v. Town of South 
+
+
+Appendix B-6 
+
+
+Kingston, 463 A.2d 133 (R.1. 1983) for the proposition that a 
+landowner whose land is deprived of all economically viable 
+use Is entitled to compensation. 
+
+
+In Lucas, the landowner brought two residential lots on a 
+South Carolina barrier island with the intention of building 
+single-family homes. 505 U.S. 1003, 1009, 112 S. Ct. 2886, 
+2889. Two years later the state Legislature enacted a law which 
+barred the landowner from erecting any permanent habitable 
+structures on the parcels. /d. The United States Supreme Court 
+found that the ban on construction had deprived the landowner 
+of all economically viable use of his property, and therefore, 
+effected a taking of his property requiring the payment of just 
+compensation unless the state could prove the plaintiffs pro- 
+posal constituted a common law nuisance, 505 U.S. at 1030- 
+1031, 112 S. Ct. at 2901-2902. The Lucas holding was limited 
+to the “relatively rare situations” where “no productive or eco- 
+nomically beneficial use is permitted.” 112 S. Ct. 2886, 2894, 
+505 U.S. 1016, 1018. 
+
+
+In Annicelli, the landowner signed a purchase-and-sales 
+agreement to purchase real estate for the purpose of construct- 
+ing a single-family dwelling. 463 A.2d 133, 135. Three weeks 
+after the agreement was signed, the town council adopted 
+amendments which created an HFD zone and prohibited build- 
+ing residential dwellings in that zone. /d. Under the amend- 
+ment, Annicelli’s property was in an HFD zone. /d. The Rhode 
+Island Supreme Court noted that the evidence in the record 
+showed that the plaintiff did not have any use of her property 
+and that an award of compensation was appropriate. 463 A.2d 
+at 140. (Emphasis added.) As in Lucas, the court awarded 
+compensation because it found that the property, had lost “all 
+reasonable or beneficial use.” 463 A.2d 133, 141. 
+
+
+Under either Lucas or Annicelli, the plaintiff has the bur- 
+den of proving that he had lost “all reasonable or beneficial use” 
+of his property in order to prevail in his claim for compensation. 
+
+
+Appendix B-7 
+
+
+However, the plaintiff's failure to prove that the government 
+regulation denied him all economically beneficial use of his 
+property does not necessarily preclude his recovery. Brunelle, 
+Slip Op. at 13. The Brunelle court also noted a situation which 
+“Involves those instances in which governmental regulations, 
+although not denying a property owner all economic benefit 
+from his or her land, nonetheless substantially serve to reduce 
+the economic value of the landowner’s property.” Slip Op. 
+at 14. The Rhode Island Supreme Court noted that when the 
+government regulation is derived from the state's general police 
+powers, the court should examine “the economic impact of the 
+regulation on the claimant and * * * the extent to which the 
+regulation has interfered with distinct investment-backed expec- 
+tations, to determine if compensation must be paid.” Brunelle, 
+Slip. Op. at 14 (quoting Lucas, 505 U.S. at 1019 n.8, 112 S.Ct. 
+at 2895 n.8, 120 L. Ed. 2d at 815 n.8 (quoting Penn Central 
+Transportation Co. v. New York City, 438 U.S. 104, 124, 98 
+S. Ct. 2646, 2659, 57 L. Ed. 2d 631, 648 (1978)). 
+
+
+The ownership of property creates a “bundle of rights” 
+including the night to possession, to exclude others, to use and 
+enjoy, and to dispose of the property. Loretto v. Teleprompter 
+Manhattan CATV Corp., 458 U.S. 419, 435 (1982). The eco- 
+nomic impact of the regulatory scheme is determined by view- 
+ing its effect on that bundle. In Lucas, the Court noted that the 
+State “may resist compensation only if the logically antecedent 
+inquiry into the nature of owner's estate shows that the pro- 
+scribed use interest were not part of his title to begin with.” 505 
+U.S. at 1028, 112 S. Ct. at 2886. Moreover, under Penn 
+Central, the court considered “the economic impact of the 
+regulation on the claimant and, particularly, the extent to which 
+the regulation has interfered with distinct investment-backed 
+expectations.” 438 U.S. 103, 124, 98 S. Ct. 2646, 2659. The 
+plaintiff contends that he has been the owner of the subject 
+property since 1961. However, the evidence at tral and general 
+corporate law principles demonstrate otherwise. On December 
+
+
+Appendix B-8 
+
+
+1, 1959, the plaintiff purchased an undivided one-half interest 
+in the majority of the subject property. On December 2, 1959, 
+the plaintiff and the Ursos transferred that property to SGI. 
+
+
+Therefore, as of December 2, 1959, SGI was the title owner of 
+
+
+the subject property until it transferred that title to a new owner. 
+On May 15, 1969, SGI acquired Lots 3-7 of the subject prop- 
+erty. SGI transferred title to six parcels of the subject property 
+to vanous parties between 1959 and 1961 and retained title to 
+the remainder of the subject property. In 1978, SGI's corporate 
+Status was revoked. 
+
+
+The plaintiff correctly states that when a private business 
+
+
+corporation Ceases to exist its property passes by operation of 
+
+
+law to its stockholders. (Plainutfs Bnef at 21 (citing Friendly 
+Homes v. Shareholders & Creditors, 474 A.2d 934 (R.L. 
+1984))). The plaintiff also correctly notes that when the Sec- 
+retary of State revokes a corporation’s charter, the corporate 
+assets pass to the stockholders. /d However, the plaintitt 
+incorrectly concludes that because he was SGI's sole stock- 
+holder as of 1960, he owned SGI's assets that included the sub- 
+ject property. According to corporate law principles, an owner 
+of all or a majority or the stock of a validly formed corporation 
+does not own the property of the corporation. Rhode /sland 
+Hospital Trust Company v. Doughton, Commissioner of 
+Revenue of North Carolina, 270 U.S. 69, 81, 46S. Ct. 256, 258 
+(1926). This rule is based on the theory that a corporation ts a 
+separate entity from its shareholders. Vol. 12B, Willaam Meade 
+Fletcher, Fletcher Cyclopedia of the Law of Private Corpora- 
+tions sec. 5517 (Perm. ed. 1993). Therefore, this Court finds 
+that the plaintiffs as the sole stockholder of SGI was not the 
+owner of the subject property until 1978, when the Secretary of 
+State revoked SGI's corporate status. 
+
+
+Determination of when a landowner obtains title to 
+property in a takings case 1s necessary for determination of the 
+“bundle of nghts” that the landowner owned at the time of the 
+taking. In the instant matter, the plaintiff took title to the prop- 
+
+
+> hem me 
+
+
+Appendix B—9 
+
+
+erty in 1978, which was seven years after the CRMC wetland 
+regulations had been promulgated. Since 1971, the CRMC has 
+had the authority to regulate coastal wetlands. Rhode Island 
+Gen. Laws § 46-23-1, et seq. In 1972, Congress enacted the 
+Federal Coastal Zone Management Act, 16 U.S.C. § 1451, et 
+seq., which required CRMC to implement regulations for the 
+protection of coastal wetlands. Finally, in 1976, the CRMC 
+adopted the Coastal Resources Management Plan which pro- 
+hibits the filling of coastal wetlands without a special excep- 
+tion. Because the plaintiff obtained title to the subject property 
+in 1978, and because the regulations that prohibited the filling 
+of wetlands were in place at that time, the plaintiff cannot 
+prevail in his claim that the CRMC’s actions constituted a 
+categorical taking of his property when it denied the plaintiffs 
+1985 application to fill wetlands on the subject property. 
+
+
+Moreover, the facts on the instant matter are clearly 
+distinguishable from those set forth in Lucas relied upon by the 
+plaintiff. In Lucas, the plaintiff purchased the subject property 
+two years before the passage of the regulations that denied him 
+of all beneficial use of his property. 112 S. Ct. 2886, 2889, 
+$05 U.S. 1003, 1009. In the instant matter, the regulations were 
+in place approximately two years before the plaintiff acquired 
+title to the property and approximately seven years before the 
+plaintiff submitted his first application to the CRMC in 1983. 
+Furthermore, unlike the plaintiff in Lucas, the plaintiff in the 
+instant matter failed to prove that he was denied all beneficial 
+use of the subject property. At tral, several witnesses testified 
+that the site at the eastern end of Shore Gardens Road was 
+developable. The state’s witness, Mr, Adolfo, testified that, if 
+developed, the value of the subject property on the eastern end 
+of the Shore Gardens Road would be approximately $200,000. 
+Grover Fugate, the director of CRMC, and Steven Clarke, a 
+professional engineer, testified that the CRMC would have 
+approved the site at the end of the road as a home site. In 
+addition, as an open-space gift the property's value would be 
+
+
+Appendix B—10 
+
+
+approximately $157,500. The above evidence was uncon- 
+tradicted. Our Supreme Court noted in A//egria, “the mere fact 
+that the plaintiff may not have received the anticipated return on 
+his investment does not render nugatory the remaining value of 
+the land.” Allegria, 687 A.2d 1249 (quoting Annicelli, 463 
+A.2d 133, 140). Accordingly, the evidence before this Court 
+demonstrates that the plaintiff did not lose all beneficial use of 
+the subject property. 
+
+
+In addition even assuming arguendo that the CRMC’s 
+regulations constituted a taking of the plaintiff's property, the 
+demonstrated that the use prohibited by the CRMC regulation 
+constituted a public or private nuisance. Brunelle, Slip Op. 
+at 13. The United States Supreme Court noted that its “total 
+taking” inquiry under Lucas would include an analysis of “the 
+degree ot harm to public lands and resources, or adjacent priv- 
+ate property, posed by the claimant’s proposed activities, see. 
+e.g. Restatement (Second) of Torts §§ 826, 827, the social 
+value of the claimant's activities and their suitability to the 
+locality in question...” Lucas, 112 S. Ct. 2886, 2901, 505 
+U.S. 1003, 1030-31. At tral, the CRMC introduced evidence 
+regarding the off-site impacts of the plaintiff's proposal. Cf, 
+Ocean Road Partners v. State, 670 A.2d 246 (1996) (Rejecting 
+argument that just compensation must include entrepreneunal 
+profit where plaintiff had not made improvements to property 
+at the time of taking). The CRMC introduced evidence that the 
+filling of 18 acres of salt marsh would reduce the existing salt 
+marsh in Winnapaug Pond by 12 percent. In addition, the evi- 
+dence showed that a 12 percent reduction in the salt marsh in 
+Winnapaug Pond would cause a reduction in the commercial 
+and recreational shellfish and finfish populations in Rhode 
+Island. Moreover, the evidence indicated that the 12 percent 
+loss of the total salt marsh filtering in the Winnapaug Pond will 
+have a significant detrimental impact on the existing salt marsh 
+filtering mechanisms within the pond which could be expected 
+
+
+es 
+eaten 
+
+
+en ee at Bae 
+
+
+Appendix B—11 
+
+
+to result in increased harmful nitrate levels within the pond. 
+The evidence illustrated that high levels of nitrate in ground- 
+water poses a public health threat because groundwater is the 
+sole source of drinking water. Therefore, based on evidence of 
+the probability of an increase in nitrate levels in Winnapaug 
+Pond and the threat to groundwater, and based on the evidence 
+that the plaintiff's proposal would not be suitable for the local- 
+ity of the subject property, this Court finds that the plaintiff's 
+proposal would constitute a public nuisance. As a result, even 
+were this Court to determine that CRMC’s denial of the plain- 
+tiffs application was a “total taking” under Lucas, the nuisance 
+doctrine would prevent this Court from awarding the plaintiff 
+compensation. 
+
+
+Furthermore, the plaintiff's claim must fail because he did 
+not have any investment-backed expectations. In a factually 
+similar case, the Rhode Island Supreme Court denied a land- 
+owner's claim for inverse condemnation against the Department 
+of Environmental Management (DEM). In Allegria v. Keeney, the 
+Rhode Island Supreme Court denied the plaintiff's claim that 
+DEM’s denial of his application to develop property which 
+contained wetlands constituted a taking. 687 A.2d 1250(1997). 
+In denying the plaintiff's claim the Court reasoned that the 
+plaintiff's knowledge of the applicable regulations was relevant 
+to its inquiry into the plaintiff's investment-backed expec- 
+tations. 687 A.2d at 1253. The court specifically noted that the 
+plaintiff had not been prohibited from pursuing alternative 
+proposals. “Any investment-backed expectation to develop the 
+property as though wetlands were not present, however, was 
+unreasonable in light of this state’s pervasive wetlands regula- 
+tions.” /d. at 1254. Similarly, the plaintiff in the instant matter 
+took title to the property in 1978 subject to the wetlands reg- 
+ulations so, like the plaintiff in A//egria, he cannot claim that he 
+had an investment-backed expectations. Moreover, the plaintiff 
+has not been prevented nor would he be prevented from devel- 
+oping the property along the eastern end of Shore Gardens 
+
+
+Appendix B—12 
+
+
+Road. Consequently, this Court finds that the plaintiff has not 
+demonstrated a taking under Penn Central with respect to in- 
+vestment-backed expectations because he knew that the state 
+regulated the filling of wetlands since 1965 and because is able 
+to pursue a smaller and more appropriate proposal to develop 
+the subject property. 
+
+
+Alternatively, even if the plaintiff were title holder of the 
+majority of the property since 1961, the plaintiff still failed to 
+prove a takings claim. This court has held “that pecuniary loss 
+or diminution in value is not controlling on the issue of confi- 
+scation because a property owner does not have a vested prop- 
+erty right in maximizing the value of his property.” 687 A.2d 
+1249, 1253 (quoting Annicelli v. Town of South Kingstown, 463 
+A.2d 133, 140). The plaintiff paid approximately $8,000 for the 
+property acquired in 1959 and SGI paid approximately $5,000 
+for the property acquired in 1969. The evidence showed that 
+SGI sold six individually buildable parcels of the property 
+between 1959 and 1961. If this Court determined that the 
+plaintiff owned the subject property, in 1961, then it must also 
+determine that the plaintiff, as opposed to SGI, benefitted from 
+the parcels sold in 1961. The plaintiff cannot claim that he 
+owned the property for one purpose and that SGI owned the 
+property for another purpose. As a result, even if the plaintiff 
+did not recover his initial total investment of $13,000, he did 
+receive some economic benefit when the parcels were sold, so 
+that his initial investment cannot be characterized as non- 
+economic for purposes of a takings analysis. See Allegria, 687 
+A.2d 1249, 1253. The plaintiff has not lost all or even a sub- 
+stantial use of the subject property. 
+
+
+Finally, the plaintiff's reliance on L.A. Ray Realty, et al. v. 
+Town Council of the Town of Cumberland, et al., is misplaced. 
+698 A.2d 202 (1997). In L.A. Ray, the Court found that govern- 
+ment officials’ denial of a development project violated that 
+plaintiff's substantive and procedural due process nghts. The 
+evidence at trail showed that the two proposals submitted to the 
+
+
+’ 
+) 
+é 
+: 
+I 
+“ 
+
+
+Appendix B—13 
+
+
+CRMC were nearly identical to the proposals submitted to the 
+DHR in 1962, 1963, and 1966 and rejected in 1971. The plain- 
+tiffs plans to dredge Winnapaug Pond and fill the wetlands on 
+his property in order to develop either a large-scale subdivision 
+or a recreational beach were both denied by DHR. The plaintitt 
+never appealed that decision. In 1983, approximately |2 years 
+after DHR denied the plaintiff's proposals based on regulations 
+in place prior to 1971, the plaintiff took a second “bite at the 
+apple” when he submitted the applications to the CRMC, the 
+agency which succeeded DHR in regulating wetlands. The 
+record reflects that the plaintiff has been afforded ample pro- 
+cedural due process. 
+
+
+CONCLUSION 
+
+
+Accordingly, this Court denies the plaintiff's request for 
+relief and enters judgment for the defendant State of Rhode 
+Island. Counsel shall confer and agree upon an appropriate 
+form of order and judgment reflective of this Court’s decision 
+and submit it to the Court forthwith for entry. 
+
+

@@ -1,0 +1,67 @@
+{
+  "record": "FEC_v_Colorado_Republican_Federal_Campaign_Committee_merits_2001-06-25.md",
+  "sha256": "41693991bb0533d7cf3e11689450f673c3a6d72a139b8293eff0145ebb2c37e1",
+  "public_sha256": "269a1064b3004067190028458e83fadf50264b1775c6f27bac596aeabb656bd2",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    312,
+    128
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity_and_departures": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 10,
+    "O'Connor": 11,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 12,
+    "Thomas": 9,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 10,
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Breyer",
+  "source_links_https": 3,
+  "vote_and_join_review": "Manual review: all controlling parts and judgment six; contrary party-expression ground and limited remedy three.",
+  "external_url_retrieval": "Not repeated: supplied validated primary-source handoffs support the cited facts.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain.",
+  "relative_input_file_existence": {
+    "result": "pass",
+    "files": [
+      "freeze/OT_2000CHUNK8_RECONCILED_colorado.md",
+      "freeze/OT_2000CHUNK8_RECONCILED_B1_RECEIPT.md",
+      "freeze/OT_2000CHUNK8_NEUTRAL_B_VALIDATED.md",
+      "freeze/OT_2000CHUNK8_NEUTRAL_B_REFRESH_RECEIPT.md",
+      "freeze/OT_2000CHUNK8_STONE_CALCANO_COLORADO.md",
+      "freeze/OT_2000CHUNK8_NEUTRAL_B_SOURCE_COLORADO.md",
+      "freeze/OT_2000CHUNK8_ASSIGNMENT_colorado.json",
+      "freeze/OT_2000CHUNK8_ASSIGNMENT_SOURCES_colorado.md",
+      "entering-law/OT_2000CHUNK8_JUNE18_PUBLIC_FINAL.md",
+      "entering-law/OT_2000CHUNK8_B_STATUTES.md",
+      "entering-law/OT_2000CHUNK8_B_PRIOR_PUBLIC.md",
+      "tmp/chunk8_colorado_form.md",
+      "entering-law/OT_2000CHUNK8_B_SPEECH.md",
+      "entering-law/OT_2000CHUNK8_B_CURRENT_DAGGETT.md",
+      "entering-law/OT_2000CHUNK8_B_CURRENT_MARIANI.md"
+    ]
+  }
+}

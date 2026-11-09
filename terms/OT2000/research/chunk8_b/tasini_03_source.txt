@@ -1,0 +1,5262 @@
+la 
+
+
+APPENDIX A — OPINION OF THE UNITED STATES 
+
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+DATED AND DECIDED SEPTEMBER 24, 1999 AND 
+AMENDED FEBRUARY 25, 2000 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+August Term, 1998 
+
+
+(Argued: April 26,1999 Decided: September 24, 1999) 
+(Amended: FEB 25 2000 
+
+
+Docket Nos. 97-9181, 97-9650 
+
+
+JONATHAN TASINI; MARY KAY BLAKELY; BARBARA 
+GARSON; MARGOT MIFFLIN; SONIA JAFFE ROBBINS 
+and DAVID S. WHITFORD, 
+
+
+Plaintiffs-Appellants, 
+
+
+BARBARA BELEJACK; DANIEL LAZARE; 
+JOAN OLECK and LINDSY VAN GELDER, 
+
+
+Plaintiffs, 
+v. 
+
+
+THE NEW YORK TIMES COMPANY, INC.; NEWSDAY, 
+INC.; THE TIME INCORPORATED MAGAZINE 
+COMPANY; MEAD DATA CENTRAL CORP. and 
+UNIVERSITY MICROFILMS INTERNATIONAL, 
+
+
+Defendants-Appellees. 
+
+
+2a 
+
+
+Appendix A 
+THE ATLANTIC MONTHLY COMPANY, 
+
+
+Defendant. 
+
+
+Before: WINTER, Chief Judge, MINER, and POOLER, 
+Circuit Judges. 
+
+
+WINTER, Chief Judge: 
+
+
+Six freelance writers appeai from a grant of summary 
+judgment dismissing their complaint. The complaint alleged 
+that appellees had infringed appellants’ various copyrights 
+by putting individual articles previously published in 
+periodicals on electronic databases available to the public. 
+On cross motions for summary judgment, the United States 
+District Court for the Southern District of New York held 
+that appellees’ use of the articles was protected by the 
+“privilege” afforded to publishers of “collective works” 
+under Section 201(c) of the Copyright Act of 1976 (“Act” 
+or “1976 Act’), 17 U.S.C. § 201(c). We reverse and remand 
+with instructions to enter judgment for appellants. 
+
+
+BACKGROUND 
+
+
+Appellants are freelance writers (individually, “Author” 
+and collectively, ““Authors”) who write articles for publication 
+in periodicals. Their complaint alleged that certain articles 
+were original works written for first publication by one of 
+the appellee publishers between 1990 and 1993. None of the 
+articles was written at a time when its Author was employed 
+
+
+3a 
+
+
+Appendix A 
+
+
+by the particular periodical; nor was any such article written 
+pursuant to a work-for-hire contract. The Authors registered 
+a copyright in each of the articles. 
+
+
+The appellee newspaper and magazine publishers 
+(collectively, “Publishers”) are periodical publishers who 
+regularly create “collective works,” see 17 U.S.C. § 101, 
+that contain articles by free lance authors as well as works 
+created for-hire or by employees. With respect to the free 
+lance articles pertinent to this appeal, the Publishers’ general 
+practice was to negotiate due-dates, word counts, subject 
+matter and price; no express transfer of rights under the 
+Author’s copyright was sought.' As to one article alleged in 
+the complaint, however, authored by appellant David S. 
+Whitford for Sports Illustrated, a publication of appellee The 
+Time Incorporated Magazine Company (“Time”), a written 
+contract expressly addressed republication rights. We address 
+Whitford’s claim separately below. 
+
+
+Appellee Mead Data Central Corp. owns and operates 
+the NEXIS electronic database. NEXIS is a massive database 
+
+
+1. Newsday contended in the district court that a legend on the 
+checks it used to pay for freelance pieces made those checks, once 
+endorsed, express transfers of copyright pursuant to Section 204(a) 
+of the Act. The district court rejected this argument, relying on 
+reasoning with which we substantially agree. See Tasini v. New York 
+Times Co., 972 F. Supp. 804, 810-811 (S.D.N.Y. 1997). In any event, 
+Newsday does not cross-appeal. 
+
+
+We note also that The New York Times has since updated its 
+policy to require freelance writers to execute an express transfer of 
+their copyrights. See id. at 807 n.2. 
+
+
+4a 
+Appendix A 
+
+
+that includes the full texts of articles appearing in literally 
+hundreds of newspapers and periodicals spanning many 
+years. Mead has entered into licensing agreements with each 
+of the Publishers. Pursuant to these agreements, the 
+Publishers provide Mead with much of the content of their 
+periodicals, in digital form, for inclusion in NEXIS. 
+Subscribers to NEXIS are able to access an almost infinite 
+combination of articles from one or more publishers by using 
+the database’s advanced search engine. The articles may be 
+retrieved individually or, for example, together with others 
+on like topics. Such retrieval makes the article available 
+without any material from the rest of the periodical in which 
+it first appeared. 
+
+
+We briefly describe the process by which an issue of a 
+periodical is made available to Mead for inclusion in NEXIS. 
+First, an individual issue of the paper is stripped, 
+electronically, into separate files representing individual 
+articles. In the process, a substantial portion of what appears 
+in that particular issue of the periodical is not made part ofa 
+file transmitted to Mead, including, among other things, 
+formatting decisions, pictures, maps and tables, and 
+obituaries. Moreover, although the individual articles are 
+“tagged” with data indicating the section and page on which 
+the article initially appeared, certain information relating to 
+the initial page layout is lost, such as placement above or 
+below the fold in the case of The New York Times. After 
+Mead further codes the individual files, the pieces are 
+incorporated into the NEXIS database. 
+
+
+Appellee University Microfilms International (“UMI’) 
+markets, inter alia, CD-ROM database products. Pursuant 
+
+
+PERI AN GIS 4) be, 
+
+
+Sa 
+
+
+Appendix A 
+
+
+to an agreement with The New York Times and Mead, UMI 
+produces and markets the “NY Times OnDisc” (“NYTO”) 
+CD-ROM, which contains the full texts of articles from The 
+New York Times. It also produces and markets a “General 
+Periodicals OnDisc” (“GPO”) CD-ROM, which contains 
+selected New York Times articles and thousands of other 
+articles. Pursuant to its agreement with Mead and The New 
+York Times, UMI incorporates the files containing Times 
+articles into its NYTO database. UMI uses a somewhat 
+different methodology to incorporate articles from the N.Y. 
+Times Sunday book- review and magazine sections onto its 
+GPO CD-ROM. As to these pieces, UMI scans them directly 
+onto “image-based” files. The image-based files are also 
+abstracted and included on the text-based CD-ROM; the 
+abstracts facilitate access to the image-based disk. 
+
+
+The gist of the Authors’ claim is that the copyright each 
+owns in his or her individual articles was infringed when 
+the Publishers provided them to the electronic databases. 
+Appellees do not dispute that the Authors own the copyright 
+in their individual works. Rather, they argue that the 
+Publishers own the copyright in the “collective works” that 
+they produce and are afforded the privilege, under Section 
+201(c) of the Act, of “reproducing and distributing” the 
+individual works in “any revision of that collective work.” 
+17 U.S.C. § 201(c). The crux of the dispute is, therefore, 
+whether one or more of the pertinent electronic databases 
+may be considered a “revision” of the individual periodical 
+issues from which the articles were taken. The district court 
+held that making the articles available on the databases 
+constitutes a revision of the individual periodicals and that 
+appellees’ licensing arrangements were protected under 
+
+
+6a 
+Appendix A 
+
+
+Section 201(c). See Tasini v. New York Times Co., 972 
+F. Supp. 804 (S.D.N.Y. 1997) [“Tasini I]. It therefore 
+granted appellees’ motion for summary judgment. After a 
+motion for reconsideration was denied, see Tasini v. New 
+York Times Co., 981 F. Supp. 841 (S.D.N.Y. 1997) [“Tasini 
+II’’], appellants brought this appeal. 
+
+
+DISCUSSION 
+
+
+We review de novo the grant or denial of summary 
+judgment and view the evidence in the light most favorable 
+to the non-moving party. See Turner v. General Motors 
+Acceptance Corp., 180 F.3d 451, 453-54 (2d Cir. 1999). 
+Summary judgment is appropriate only if the pleadings and 
+evidentiary submissions demonstrate the absence of any 
+genuine issue of material fact and that the moving party is 
+entitled to judgment as a matter of law. See id. at 453. 
+
+
+The unauthorized reproduction and distribution of a 
+copyrighted work generally infringes the copyright unless 
+such use is specifically protected by the Act. To reiterate, 
+each Author owns the copyright in an individual work and, 
+save for Whitford, see infra, has neither licensed nor 
+otherwise transferred any rights under it to a Publisher or 
+electronic database. These works were published with the 
+Authors’ consent, however, in particular editions of the 
+periodicals owned by the Publishers. The Publishers then 
+licensed much of the content of these periodicals, including 
+the Authors’ works, to one or more of the electronic database 
+providers. As a result, the Authors’ works are now available 
+to the public on one or more electronic databases and may 
+be retrieved individually or in combination with other pieces 
+
+
+LOTT LM  D 
+
+
+Ta 
+Appendix A 
+
+
+originally published in different editions of the periodical 
+or in different periodicals. 
+
+
+In support of their claim, the Authors advance two 
+principal arguments: first, Section 201(c) protects only the 
+Publishers’ initial inclusion of individually copyrighted 
+works in their collective works and does not permit the 
+inclusion of individually copyrighted works in one or more 
+of the electronic databases; and, second, any privilege the 
+Publishers have under Section 201(c) is not a transferrable 
+“right” within the meaning of Section 201(d) and hence may 
+not be invoked by the electronic database providers. The 
+district court rejected both arguments, reasoning that the 
+“privilege” under Section 201(c) is a “subdivision” of ari ght 
+that is transferrable under Section 201(d)(2), 972 F. Supp. 
+at 815, and that the scope of the “privilege” was broad enough 
+to permit the inclusion of the Authors’ pieces in the various 
+databases, see id. at 824-25. We hold that Section 201(c) 
+does not permit the Publishers to license individually 
+copyrighted works for inclusion in the electronic databases. 
+We need not, and do not, reach the question whether this 
+privilege is transferrable under Section 201(d).? 
+
+
+a) The Section 201(c) Presumption (or, simply, “Section 
+201(c)”’) 
+
+
+Section 201 of the Act provides, inter alia, that as to 
+contributions to collective works, the “[c]opyright in each 
+separate contribution . . . is distinct from copyright in the 
+
+
+2. We also do not consider the issue of assignability. Rather, 
+we assume for purposes of this decision only, that the Publishers 
+had the right to assign the articles in question to Mead and UMI. 
+
+
+8a 
+Appendix A 
+
+
+collective work as a whole, and vests initially in the author 
+of the contribution.” 17 U.S.C. § 201(c). Correspondingly, 
+Section 103, which governs copyright in compilations and 
+derivative works, provides in pertinent part that: 
+
+
+The copyright in a compilation or derivative work 
+extends only to the material contributed by the 
+author of such work, as distinguished from the 
+preexisting material employed in the work, and 
+does not imply any exclusive right in the 
+preexisting material. 
+
+
+17 U.S.C. § 103(b). Section 101 states that “[t]he term 
+‘compilation’ includes collective works.” 17 U.S.C. § 101. 
+It further defines “collective work” as “a work, such as a 
+periodical issue, anthology, or encyclopedia, in which a 
+number of contributions, constituting separate and 
+independent works in themselves, are assembled into a 
+collective whole.” Jd. 
+
+
+Publishers of collective works are not permitted to 
+include individually copyrighted articles without receiving 
+a license or other express transfer of rights from the author. 
+However, Section 201(c) creates a presumptive privilege to 
+authors of collective works. Section 201(c) creates a 
+presumption that when the author of an article gives the 
+publisher the author’s permission to include the article in a 
+collective work, as here, the author also gives a non- 
+assignable, non-exclusive privilege to use the article as 
+identified in the statute. It provides in pertinent part that: 
+
+
+In the absence of an express transfer of the 
+copyright or of any rights under it, the owner of 
+
+
+a 
+
+
+9a 
+Appendix A 
+
+
+copyright in the collective work is presumed to 
+have acquired only the privilege of reproducing 
+and distributing the contribution as part of that 
+particular collective work, any revision of that 
+collective work, and any later collective work in 
+the same series. 
+
+
+17 U.S.C. § 201(c). 
+
+
+Under this statutory framework, the author of an 
+individual contribution to a collective work owns the 
+copyright to that contribution, absent an express agreement 
+setting other terms. See id. The rights of the author of a 
+collective work are limited to “the material contributed by 
+the [collective-work] author” and do not include “any 
+exclusive right in the preexisting material.” 17 U.S.C. 
+§ 103(b). Moreover, the presumptive privilege granted to a 
+collective-work author to use individually copyrighted 
+contributions is limited to the reproduction and distribution 
+of the individual contribution as part of: (i) “that particular 
+[7.e., the original] collective work”; (ii) “any revision of that 
+collective work”; or (iii) “any later collective work in the 
+same series.” 17 U.S.C. § 201(c). Because it is undisputed 
+that the electronic databases are neither the original collective 
+work — the particular edition of the periodical — in which 
+the Authors’ articles were published nor a later collective 
+work in the same series, appellees rely entirely on the 
+argument that each database constitutes a “revision” of the 
+particular collective work in which each Author’s individual 
+contribution first appeared. We reject that argument. 
+
+
+We begin, as we must, with the language of the statute. 
+See Lewis v. United States, 445 U.S. 55, 60 (1980). The 
+
+
+10a 
+
+
+Appendix A 
+
+
+parameters of Section 201(c) are set forth in the three clauses 
+just noted. Under ordinary principles of statutory 
+construction, the second clause must be read in the context 
+of the first and third clauses. See General Elec. Co. v. 
+Occupational Safety & Health Review Comm'n, 583 F.2d 
+61, 64-65 (2d Cir. 1978) (“the meaning of one term may be 
+determined by reference to the terms it is associated with” 
+citing 2A Sutherland, Statutory Construction §§ 47.16 
+(Noscitur a sociis), 47.17 (Ejusdem generis) (4th ed. 1973)); 
+see also Securities & Exch. Comm’n v. National Sec., Inc., 
+393 U.S. 453, 466 (1969) (“The meaning of particular phrases 
+must be determined in context.”) (citation omitted). The first 
+clause sets the floor, so to speak, of the presumptive privilege: 
+the collective-work author is permitted to reproduce and 
+distribute individual contributions as part of “that particular 
+collective work.” In this context, “that particular collective 
+work” means a specific edition or issue of a periodical. See 
+17 U.S.C. § 201(c). The second clause expands on this, to 
+permit the reproduction and distribution of the individual 
+contribution as part of a “revision” of “that collective work,” 
+i.e., arevision of a particular edition of a specific periodical. 
+Finally, the third clause sets the outer limit or ceiling on 
+what the Publisher may do; it permits the reproduction and 
+distribution of the individual contribution as part of a “later 
+collective work in the same series,” such as a new edition of 
+a dictionary or encyclopedia. 
+
+
+The most natural reading of the “revision” of “that 
+collective work” clause is that Section 201(c) protects only 
+later editions of a particular issue of a periodical, such as 
+the final edition of a newspaper. Because later editions are 
+not identical to earlier editions, use of the individual 
+
+
+Debee Can ta 
+
+
+OO EO nt Basi BOA titel SABE A 9 it 
+
+
+lla ‘ 
+Appendix A 
+
+
+contributions in the later editions might not be protected 
+under the preceding clause. Given the context provided by 
+the surrounding clauses, this interpretation makes perfect 
+sense. It protects the use of an individual contribution in a 
+collective work that is somewhat altered from the original 
+in which the copyrighted article was first published, but that 
+is not in any ordinary sense of language a “later” work in 
+the “same series.” 
+
+
+In this regard, we note that the statutory definition of 
+“collective work” lists as examples “a periodical issue, 
+anthology, or encyclopedia.” 17 U.S.C. § 101. The use of 
+these particular kinds of collective works as examples 
+supports our reading of the revision clause. Issues of 
+periodicals, as noted, are often updated by revised editions, 
+while anthologies and encyclopedias are altered every so 
+often through the release of a new version, a “later collective 
+work in the same series.” Perhaps because the “same series” 
+clause might be construed broadly, the House Report on the 
+Act noted that the “revision” clause in Section 201(c) was 
+not intended to permit the inclusion of previously published 
+freelance contributions “in a new anthology or an entirely 
+different magazine or other collective work,” i.e., in later 
+collective works not in the same series. H.R. Rep. No. 
+94-1476, at 122-23 (1976), reprinted in 1976 U.S.C.A.A.N. 
+5659, 5738. 
+
+
+Moreover, Publishers’ contention that the electronic 
+databases are revised, digital copies of collective works 
+cannot be squared with basic canons of statutory 
+construction. First, if the contents of an electronic database 
+are merely a “revision” of a particular “collective work,” 
+
+
+12a 
+Appendix A 
+
+
+e.g., the August 16, 1999 edition of The New York Times, 
+then the third clause of Section 201(c) — permiiting the 
+reproduction and distribution of an individually copyrighted 
+work as part of “a later collective work in the same series” 
+— would be superfluous. See Regions Hosp. v. Shalala, 522 
+U.S. 448, 118 S. Ct. 909, 920 (1998) (Scalia, /., dissenting) 
+(“It is a cardinal rule of statutory construction that 
+significance and effect shall, if possible, be accorded to every 
+word. As early as in Bacon’s Abridgment, sect. 2, it was 
+said that ‘a statute ought, upon the whole, to be so construed 
+that, if it can be prevented, no clause, sentence, or word shall 
+be superfluous, void, or insignificant.’ ”) (quoting 
+Washington Mkt. Co. v. Hoffman, 101 U.S. 112, 115-16 
+(1879)). An electronic database can contain hundreds or 
+thousands of editions of hundreds or thousands of periodicals, 
+including newspapers, magazines, anthologies, and 
+encyclopedias. To view the contents of databases as revisions 
+would eliminate any need for a privilege for “a later collective 
+work in the same series.” 
+
+
+Second, the permitted uses set forth in Section 201(c) 
+are an exception to the general rule that copyright vests 
+initially in the author of the individual contribution. Reading 
+“revision of that collective work” as broadly as appellees 
+suggest would cause the exception to swallow the rule. See 
+Commissioner v. Clark, 489 U.S. 726, 739 (1989) (when a 
+statute sets forth exceptions to a general rule, we generally 
+construe the exceptions “narrowly in order to preserve the 
+primary operation of the [provision]’”’). Under Publishers’ 
+theory of Section 201(c), the question of whether an 
+electronic database infringes upon an individual author’s 
+article would essentially turn upon whether the rest of the 
+
+
+13a 
+
+
+Appendix A 
+
+
+articles from the particular edition in which the individual 
+article was published could also be retrieved individually. 
+However, Section 201(c) would not permit a Publisher to 
+sell a hard copy of an Author’s article directly to the public 
+even if the Publisher also offered for individual sale all of 
+the other articles from the particular edition. We see nothing 
+in the revision provision that would allow the Publishers to 
+achieve the same goal indirectly through NEXIS. 
+
+
+Appellees’ reading is also in considerable tension with 
+the overall] statutory framework. Section 201(c) was a key 
+innovation of the Copyright Act of 1976. Because the 
+Copyright Act of 1909 contemplated a single copyright, 
+authors risked losing their rights by allowing an article to be 
+used in a collective work. See 3 Melville Nimmer & David 
+Nimmer, Nimmer on Copyright § 10.01[A] (1996 ed.) 
+(discussing doctrine of indivisibility). To address this 
+concern, the 1976 Act expressly permitted the transfer of 
+less than the entire copyright, see 17 U.S.C. § 201(d), in 
+effect replacing the notion of a single “copyright” with that 
+of “exclusive rights” under a copyright. Jd. §§ 106, 103(b). 
+Section 201(d), which governs the transfer of copyright 
+ownership, provides: 
+
+
+(1) The ownership of a copyright may be 
+transferred in whole or in part... . 
+
+
+(2) Any of the exclusive rights comprised in a 
+copyright, including any subdivision of any of the 
+rights specified by section 106, may be transferred 
+as provided by clause (1) and owned separately. 
+The owner of any particular exclusive right is 
+
+
+14a 
+Appendix A 
+
+
+entitled, to the extent of that right, to all of the 
+protection and remedies accorded to the copyright 
+owner by this title. 
+
+
+Id. § 201(d) (emphasis added); see also id. § 204 (executions 
+of transfers of copyright ownership). Similarly, Section 501, 
+which sets forth the remedies for infringement of copyright, 
+provides in pertinent part that “[a]nyone who violates any 
+of the exclusive rights of the copyright owner ... is an 
+infringer.” Jd. § 501(a) (emphasis added).* Were the 
+permissible uses under Section 201(c) as broad and as 
+transferrable as appellees contend, it is not clear that the 
+rights retained by the Authors could be considered 
+“exclusive” in any meaningful sense. 
+
+
+In light of this discussion, there is no feature peculiar to 
+the databases at issue in this appeal that would cause us to 
+view them as “revisions.” NEXIS is a database comprising 
+thousands or millions of individually retrievable articles 
+taken from hundreds or thousands of periodicals. It can hardly 
+be deemed a “revision” of each edition of every periodical 
+that it contains. 
+
+
+Moreover, NEXIS does almost nothing to preserve the 
+copyrightable aspects of the Publishers’ collective works, 
+“as distinguished from the preexisting material employed in 
+the work.” 17 U.S.C. § 103(b). The aspects of a collective 
+work that make it “an original work of authorship” are the 
+
+
+3. It is worth noting that Section 201(c) grants collective works 
+authors “only” a “privilege,” rather than a “right.” Each of these 
+terms connotes specialized legal meanings, and they were juxtaposed 
+by Congress in the same sentence of Section 201(c). 
+
+
+MAND Dated bt ee ote ye +. 
+
+
+5 
+| 
+> 
+
+
+15a 
+Appendix A 
+
+
+selection, coordination, and arrangement of the preexisting 
+materials. /d. § 101; see also Feist Publications, Inc. v. Rural 
+Tel. Serv. Co., 499 U.S. 340, 349 (1991) (discussing factual 
+compilations).* However, as described above, in placing an 
+edition of a periodical such as the August 16, 1999 New 
+York Times, in NEXIS, some of the paper’s content, and 
+perhaps most of its arrangement are lost. Even if a NEXIS 
+user so desired, he or she would have a hard time recapturing 
+much of “the material contributed by the author of such 
+[collective] work.” 17 U.S.C. § 103(b). In this context, it is 
+significant that neither the Publishers nor NEXIS evince any 
+
+
+4. In arguing that NEXIS is a “revision,” an analogy might 
+perhaps be made to cases involving factual compilations and 
+applying a “substantial similarity” test. Tasini J, 972 F. Supp. at 
+825 n.15 (analogizing to factual compilation cases). Although the 
+“selection and arrangement” analysis of factual compilation cases 
+is clearly relevant to this case, “substantial similarity” analysis is 
+inapposite. In factual compilation cases, an infringement action is 
+
+
+‘brought by one compilation author against another compilation 
+
+
+author. Because neither author — indeed, no one — owns a copyright 
+in the underlying factual material comprising each collective work, 
+the inquiry in such cases is whether the latter compilation is 
+“substantially similar” in selection or arrangement to the former; 
+no claim exists as to unauthorized use of the facts. See id. at 821-22. 
+Here, by contrast, the compilations are “collective works” that 
+contain individually copyrighted material, and the infringement 
+action is brought by the author of the individual work. Because 
+Sections 103(b) and 201(c) make clear that the author of the 
+individual contribution retains all rights in his or her piece, the author 
+clearly may bring an infringement action for unauthorized 
+republication of the work. This is so, moreover, even if the author 
+of the collective work in which the individual contribution was 
+published might also have an infringement action against the person 
+who republished the contribution. 
+
+
+l6a 
+Appendix A 
+
+
+intent to compel, or even to permit, an end user to retrieve 
+an individual work only in connection with other works from 
+the edition in which it ran. Quite the contrary, The New York 
+Times actually forbids NEXIS from producing “facsimile 
+reproductions” of particular editions. See Tasini I, 972 
+F. Supp. at 826 n.17. What the end user can easily access, of 
+course, are the preexisting materials that belong to the 
+individual author under Sections 201(c) and 103(b). 
+
+
+The UMI databases involved in this appeal present a 
+slightly more difficult issue than does NEXIS.-One, NYTO, 
+is distinguishable from NEXIS in that it contains articles 
+from only one publisher; the other, GPO, is distinguishable 
+because it includes some image-based, rather than text-based, 
+files. Nevertheless, we also conclude that the Publishers’ 
+licensing of Authors’ works to UMI for inclusion in these 
+databases is not within the Section 201(c) revision provision. 
+
+
+The NYTO database operates very much like NEXIS; it 
+contains many articles that may be retrieved according to 
+criteria unrelated to the particular edition in which the articles 
+first appeared. Moreover, because the files it contains are 
+provided by Mead pursuant to an agreement between UMI, 
+Mead, and The New York Times, no more of the Times’ 
+original selection and arrangement is evident or retained in 
+NYTO than is retained in NEXIS. In every respect save its 
+being limited to The New York Times, then, NYTO is 
+essentially the same as NEXIS. That limitation, however, is 
+not material for present purposes. The relevant inquiry under 
+Section 201(c), is, as discussed above, whether the 
+republication or redistribution of the copyrighted piece is as 
+part of a collective work that constitutes a “revision” of the 
+
+
+aera a0 ee 9 ee Scat nate” ck erat badd 
+
+
+17a 
+Appendix A 
+
+
+previous collective work, or even a “later collective work in 
+the same series.” If the republication is a “new anthology” 
+or a different collective work, it is not within Section 201(c). 
+H.R. Rep. No. 94-1476, at 122-23 (1976), reprinted in 1976 
+U.S.C.A.A.N. 5659, 5738. Because NYTO is for present 
+purposes at best a new anthology of innumerable editions of 
+the Times, and at worst a new anthology of innumerable 
+articles from these editions, it cannot be said to be a 
+“revision” of any (or all) particular editions or to be a “later 
+collective work in the same series.” 
+
+
+For the same reason, GPO is not protected by Section 
+201(c). Although this database contains scanned photo- 
+images of editions of The New York Times Sunday book 
+review and magazine, it also contains articles from numerous 
+other periodicals. In this respect, then, it is also substantially 
+similar to NEXIS, and it, too, is at best a new anthology. 
+
+
+We emphasize that the only issue we address is whether, 
+in the absence of a transfer of copyright or any rights 
+thereunder, collective-work authors may re-license individual 
+works in which they own no rights. Because there has by 
+definition been no express transfer of rights in such cases, 
+our decision turns entirely on the default allocation and 
+presumption of rights provided by the Act. Publishers and 
+authors are free to contract around the statutory framework. 
+Indeed, both the Publishers and Mead were aware of the fact 
+that Section 201(c) might not protect their licensing 
+agreements, and at least one of the Publishers has already 
+instituted a policy of expressly contracting for electronic 
+re-licensing rights. See note 1, supra. 
+
+
+18a 
+
+
+Appendix A 
+b) Whitford 
+
+
+As noted, Whitford entered into an express licensing 
+agreement with Time. That agreement granted, in pertinent 
+part, to Time: 
+
+
+(a) the exclusive right first to publish the Story 
+in the Magazine: 
+
+
+(b) the non-exclusive right to license the 
+republication of the Story ... provided that the 
+Magazine shall pay to [him] fifty percent [ ] of 
+all net proceeds it receives for such republication: 
+and 
+
+
+(c) the right to republish the Story or any portions 
+thereof in or in connection with the Magazine or 
+in other publications published by [Time], 
+provided that [he] shall be paid the then prevailing 
+rates of the publication in which the Story is 
+republished. 
+
+
+Time subsequently licensed Whitford’s article to Mead 
+without notifying, obtaining authorization from, or 
+compensating, him. 
+
+
+In response to Whitford’s infringement action, Time 
+contended that its “first publication” rights under clause (a) 
+permitted it to license Whitford’s article to Mead. The district 
+court rejected this argument. See Tasini J, 972 F. Supp. at 
+811-12. Nevertheless, it granted summary judgment in favor 
+of Time on this claim. Upon appellants’ motion for 
+
+
+19a 
+
+
+Appendix A 
+
+
+reconsideration, the district court explained that because 
+Whitford’s contract appeared to grant republication rights 
+broad enough to cover Time’s agreement with Mead, his 
+remedy under the circumstances was a breach of contract 
+claim against Time. See Tasini II, 981 F. Supp. at 845. Such 
+a contract claim would be based on the fact that Time had 
+licensed Whitford’s piece to Mead without compensating 
+Whitford pursuant to their agreement. Whitford’s failure to 
+raise such a claim, in the court’s view, undermined his 
+infringement claim. See id. The court also explained that the 
+privilege afforded collective-works authors under Section 
+201(c) operates as a “ ‘presumed’ baseline.” See id., 981 
+F. Supp. at 846. Because Whitford’s agreement failed to limit 
+Time’s rights to less than those otherwise afforded under 
+Section 201(c), Time was presumed to have rights to 
+Whitford’s piece to the full extent of Section 201(c). See id. 
+Having already determined that Section 201(c) protected the 
+defendant newspapers’ license agreements with Mead, the 
+district court held that Time, too, was protected. 
+
+
+However, the fact that a party has licensed certain rights 
+to its copyright to another party does not prohibit the licensor 
+from bringing an infringement action where it believes the 
+license is exceeded or the agreement breached. See 
+Schoenberg v. Shapolsky Publishers, Inc., 971 F.2d 926, 932 
+(2d Cir. 1992) (“If a breach of a condition is alleged, then 
+the district court has subject matter jurisdiction.”). Rather, 
+where an author brings an infringement action against a 
+purported licensee, the license may be raised as a defense. 
+See Bourne v. Walt Disney Co., 68 F.3d 621, 631 (2d Cir. 
+1995). Where the dispute turns on whether there is a license 
+at all, the burden is on the alleged infringer to prove the 
+
+
+ee ne 
+
+
+20a 
+Appendix A 
+
+
+existence of the license. See id. Where the dispute is only 
+over the scope of the license, by contrast, “the copyright owner 
+bears the burden of proving that the defendant’s copying was 
+unauthorized.” Jd. In either case, however, an infringement 
+claim may be brought to remedy unauthorized uses of 
+copyrighted material. See id. Whitford did not, therefore, 
+have the burden of pleading a contract claim against Time.° 
+
+
+With respect to express transfers of rights under Section 
+201(c), that provision provides in pertinent part that “[iJn 
+the absence of an express transfer of the copyright or of any 
+rights under it, the owner of copyright in the collective work 
+is presumed to have acquired only the privilege of 
+reproducing and distributing the contribution [in limited 
+circumstances].” 17 U.S.C. § 201(c). Whitford contends that 
+this provision, by its plain terms, does not apply where there 
+is “an express transfer of copyright or of any rights under 
+it,” and that his license agreement with Time constitutes just 
+such an express transfer. Therefore, he contends, the court 
+erred in applying the privilege at all. 
+
+
+As noted, the district court rejected this argument, 
+observing that “Section 201(c) does not provide that the 
+
+
+5. Time did not raise paragraphs (b) or (c) of its license 
+agreement with Whitford as a defense to his infringement claim. 
+Instead, Time contended that the “first publication” rights it received 
+in paragraph (a) covered its subsequent license to Mead and that it 
+did not therefore have to further compensate Whitford for permitting 
+Mead to place his piece in NEXIS. Time took this position, of course, 
+because it did not compensate Whitford pursuant to the agreement 
+and could not, therefore, convincingly invoke the conditional license 
+granted in paragraphs (b) and (c) thereof. 
+
+
+21a 
+
+
+Appendix A 
+
+
+specified privileges apply ‘only’ in the absence of an express 
+transfer of rights,” but rather that “in the absence of an 
+express transfer of rights, publishers are presumed to acquire 
+‘only’ the delineated privileges.” Tasini II, 981 F. Supp. at 
+845. The district court went on to hold that “the specified 
+privileges represent a floor — i.e., a minimum level of 
+protection which, if unenhanced by express agreement, 
+publishers are generally presumed to possess. In other words, 
+. . . In the absence of an express transfer of ‘more,’ a publisher 
+is presumed to acquire, at a minimum [ ], the delineated 
+privileges.” Jd. at 845-46. 
+
+
+Under the district court’s reasoning, therefore, unless 
+Time’s agreement with Whitford explicitly narrowed its 
+“privilege” under Section 201(c), the privilege accorded by 
+that Section would continue to exist concurrently with any 
+other rights obtained under the agreement. Given the district 
+court’s previously expressed broad view of the Section 201 (c) 
+privilege, Time prevailed, not because the agreement 
+authorized the licensing of Whitford’s article to Mead but 
+because the agreement did not forbid it. 
+
+
+The district court is mistaken. As discussed above, 
+Section 201(c) creates only a presumption by the parties as 
+to what an author means to convey by giving consent to 
+inclusion of an article in a collective work. Section 201(c) 
+does not permit a collective-work author in Time’s shoes to 
+license to Mead an individually-copyrighted work such as 
+Whitford’s article. Time’s rights to license the article to Mead 
+must, therefore, be derived from its agreement with Whitford. 
+However, we agree with the district court that paragraph (a) 
+of that agreement does not authorize such a license, and the 
+
+
+oo Sa GS Re ener ae amma 
+
+
+22a 
+Appendix A 
+
+
+record is clear that Time cannot invoke the conditional 
+license provided in paragraphs (b) and (c). See Note 4, supra. 
+There being no other basis for Time to license Whitford’s 
+article to Mead, summary judgment should have been granted 
+in favor of Whitford on his claim. 
+
+
+CONCLUSION 
+
+
+We therefore reverse and remand with instructions to 
+enter judgment for appellants. 
+
+
+23a 
+
+
+APPENDIX B — OPINION AND ORDER OF THE 
+
+UNITED STATES DISTRICT COURT FOR THE 
+
+SOUTHERN DISTRICT OF NEW YORK DATED AND 
+FILED AUGUST 13, 1997 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+93 Civ. 8678 (SS) 
+
+
+JONATHAN TASINI, MARY KAY BLAKELY, 
+BARBARA GARSON, MARGOT MIFFLIN, SONIA 
+JAFFE ROBBINS, and DAVID S. WHITFORD, 
+
+
+Plaintiffs, 
+— against — 
+THE NEW YORK TIMES CO., NEWSDAY INC., 
+TIME INC., THE ATLANTIC MONTHLY CoO., 
+
+
+MEAD DATA CENTRAL CORP., and 
+UNIVERSITY MICROFILMS INC., 
+
+
+Defendants. 
+
+
+OPINION AND ORDER 
+
+
+In this action, the Court is called upon to determine 
+whether publishers are entitled to place the contents of their 
+periodicals into electronic data bases and onto CD-ROMs 
+without first securing the permission of the freelance writers 
+
+
+24a 
+Appendix B 
+
+
+whose contributions are included in those periodicals. 
+According to the Complaint, filed by a group of freelance 
+journalists, this practice infringes the copyright that each 
+writer holds in his or her individual articles. The defendant 
+publishers and electronic service providers respond by 
+invoking the “revision” privilege of the “collective works” 
+provision of the Copyright Act of 1976, 17 U.S.C. § 201(c). 
+Defendants maintain that they have not improperly exploited 
+plaintiffs’ individual contributions, but that they have 
+permissibly reproduced plaintiffs’ articles as part of 
+electronic revisions of the newspapers and magazines in 
+which those articles first appeared. For the reasons to be 
+discussed, the Court agrees with defendants, and grants 
+summary judgment in their favor. 
+
+
+BACKGROUND 
+
+
+Plaintiffs are six freelance writers who have sold articles 
+for publication in a variety of popular newspapers and 
+magazines, including The New York Times, Newsday, and 
+Sports Illustrated. The first two of these periodicals, 
+published respectively by defendants The New York Times 
+Company and Newsday, Inc., are daily newspapers widely 
+circulated to subscribers and newsstands. Sports Illustrated, 
+published by the defendant Time, Inc. (“Time”), is a weekly 
+magazine featuring articles and commentary of particular 
+interest to sports enthusiasts. In addition to circulating hard 
+copy versions of their periodicals, the defendant publishers 
+sell the contents of their publications to the remaining 
+defendants — University Microfilms Inc. (now called UMI 
+Company (“UMI’)) and The MEAD Corporation (now called 
+
+
+ee ee ee ee ee a 
+
+
+25a 
+
+
+Appendix B 
+
+
+LEXIS/NEXIS (“MEAD”)) — for inclusion in assorted 
+electronic data bases. ! 
+
+
+MEAD owns and operates NEXIS, an on-line, electronic, 
+computer assisted text retrieval system in which articles from 
+a number of leading newspapers, newsletters, magazines, and 
+wire services — including The New York Times, Newsday, 
+and Sports Illustrated — are displayed or printed in response 
+to search requests from subscribers. (Pl.s’ Mot. Summ. J. 
+Ex. 49 at M01464.) UMI produces and distributes two 
+CD-ROM products identified by plaintiffs in their Amended 
+Complaint. One of these products, “The New York Times 
+OnDisc,” operates in much the same manner as NEXIS, and 
+is made up of the articles appearing in each issue of The 
+New York Times. The remaining CD-ROM, “General 
+Periodicals OnDisc,” provides a full image-based 
+reproduction of The New York Times Book Review and 
+Sunday Magazine. 
+
+
+Plaintiffs move for summary judgment on their claims 
+of copyright infringement contending that the electronic 
+reproductions of their articles are improper under the 
+Copyright Act. Defendants Time and Newsday move for 
+summary judgment on the ground that plaintiffs entered into 
+contracts authorizing these publishers to sell plaintiffs’ 
+articles to the electronic defendants. All of the defendants 
+argue that, even in the absence of such agreements, dismissal 
+of this action is warranted because the publisher defendants 
+properly exercised their right, under the Copyright Act, to 
+produce revised versions of their publications. 
+
+
+1. Plaintiffs have settled their claims against the defendant 
+Atlantic Monthly. 
+
+
+26a 
+Appendix B 
+A. The Parties’ Relationship 
+
+
+The six plaintiffs claim that defendants infringed their 
+copyrights in a total of 21 articles sold for publication 
+between 1990 and 1993. Twelve of these articles, written by 
+plaintiffs Tasini, Mifflin, and Blakely, appeared in The New 
+York Times. Another eight of the articles, by plaintiffs Tasini, 
+Garson, Whitford, and Robbins, were featured in Newsday. 
+The remaining article, a piece entitled “Glory Amid Grief” 
+by plaintiff Whitford, appeared in an issue of Sports 
+Illustrated. All of the plaintiffs wrote their articles on a freelance 
+basis, and not as employees of the defendant publishers. 
+
+
+1. The New York Times 
+
+
+As of the time this action was commenced, freelance 
+assignments for The New York Times were typically 
+undertaken pursuant to verbal agreements reached between 
+the newspaper and the contributing journalists. A New York 
+Times editor and a selected freelance writer ordinarily agreed 
+upon such matters as the topic and length of a particular piece, 
+the deadline for submission, and the fee to be paid. (Keller 
+Dec. Ex. B7.) These discussions seldom extended into 
+negotiations over rights in the commissioned articles. Indeed, 
+there were no such negotiations between The New York 
+Times and any of the plaintiffs, all of whom submitted their 
+articles for publication by The New York Times without any 
+written agreements.? Jd. 
+
+
+2. The New York Times has recently adopted a policy pursuant 
+to which the paper accepts articles by freelance writers only on the 
+express written condition that the author surrender all rights in his 
+or her creation. (Pl.s’ Mot. Summ. J. Ex. 43.) 
+
+
+%. Ra eee wth ols Decal 
+
+
+ae! “ 
+
+
+27a 
+
+
+Appendix B 
+
+
+2. Newsday 
+
+
+Prior to this action, Newsday solicited its freelance 
+contributions in much the same manner as did The New York 
+Times. Freelance assignments for Newsday were most often 
+undertaken pursuant to discussions between editors and 
+writers and without any written agreements. (Keller Dec. Ex. 
+B2.) However, the checks with which Newsday paid 
+freelance writers for their contributions, including those 
+checks sent to plaintiffs following the publication of their 
+articles, included the following endorsement: 
+
+
+Signature required. Check void if this 
+endorsement altered. This check accepted as full 
+payment for first-time publication rights (or all 
+rights, if agreement is for all rights) to material 
+described on face of check in all editions 
+published by Newsday and for the right to include 
+such material in electronic library archives. 
+
+
+(Pl.s’ Mot. Summ. J. Ex. 47.) Plaintiff Tasini crossed out 
+this notation prior to cashing those checks paying him for 
+his two disputed submissions to Newsday. Those plaintiffs 
+who wrote the remaining six Newsday articles cashed their 
+checks with the notation intact. 
+
+
+3. Sports Illustrated 
+
+
+Only plaintiff Whitford submitted an article for 
+publication in Sports Illustrated. The relationship between 
+Time and Whitford was decidedly more formal than the 
+arrangements routinely entered into between freelance 
+
+
+28a 
+
+
+Appendix B 
+
+
+writers and Newsday or The New York Times. Whitford and 
+Sports Illustrated entered into a written contract specifying 
+the content and length of the purchased article, the date due, 
+and the fee to be paid by the magazine. The contract also 
+provided Sports Illustrated “the following rights”: 
+
+
+(a) the exclusive right first to publish the Story 
+in the Magazine: 
+
+
+(b) the non-exclusive right to license the 
+republication of the Story whether in translation, 
+digest, or abridgement form or otherwise in other 
+publications, provided that the Magazine shall pay 
+to you fifty percent (50%) of all net proceeds it 
+receives for such republication: and 
+
+
+(c) the right to republish the Story or any portions 
+thereof in or in connection with the Magazine or 
+in other publications published by The Time Inc. 
+Magazine Company, its parent, subsidiaries or 
+affiliates, provided that you shall be paid the then 
+prevailing rates of the publication in which the 
+Story is republished. 
+
+
+(Keller Dec. Ex. C7.) Plaintiff Whitford claims that he did 
+
+
+not intend, by this language, to grant Time electronic rights 
+in his article. (Pl.s’ Mot. Summ. J. Ex. 14.) 
+
+
+B. The Technological Reproductions 
+
+
+Beginning in the early 1980s, the defendant publishers 
+entered into a series of agreements pursuant to which they 
+
+
+29a 
+
+
+Appendix B 
+
+
+sold the contents of their periodicals to the electronic 
+defendants. NEXIS has carried the articles appearing in 
+Sports Illustrated since 1982, The New York Times since 
+1983, and Newsday since 1988. (Keller Dec. Ex. BS at J 3, 
+4, 8.) UMI has distributed “The New York Times OnDisc” 
+since 1992, and The New York Times Magazine and Book 
+Review have been available on the image-based CD-ROM 
+since 1990. (Keller Dec. Ex. B6 at 4§ 3, 8.) 
+
+
+1. NEXIS 
+
+
+The defendant publishers deliver or electronically 
+transmit to NEXIS the full text of all of the articles appearing 
+in each daily or weekly edition of their periodicals. The 
+publishers provide NEXIS with a complete copy of computer 
+text files which the publishers use during the process of 
+producing the hard copy versions of their periodicals. Coded 
+instructions as to page lay out added to these files permit 
+typesetters working for the publishers to produce 
+“mechanicals” — which resemble full pages as they will 
+appear at publication — copies of which are transmitted to 
+printing facilities for mass production. NEXIS does not use 
+the electronic files to create “mechanicals” or to emulate the 
+physical lay out of each periodical issue: such things as 
+photographs, advertisements, and the column format of the 
+newspapers are lost. NEXIS instead uses the electronic files 
+to input the contents of each article on-line along with such 
+information as the author’s name, and the publication and 
+page in which each article appeared. The articles appearing 
+in The New York Times and Newsday are available within 
+twenty-four hours after they first appear in print, and the 
+articles from an issue of Sports Illustrated appear on-line 
+within forty-five days of the initial hard copy publication. 
+
+
+30a 
+Appendix B 
+
+
+Customers enter NEXIS by using a telecommunications 
+package that enables them to access NEXIS’ mainframe 
+computers. Once on-line, customers enter “libraries” 
+consisting of the articles from particular publications, or 
+groups of publications. Customers can then conduct a 
+“Boolean search” by inputting desired search terms and 
+connectors from which the system generates a number of 
+“hits.” These “hits,” the articles in the library corresponding 
+to the selected search terms, can be reviewed either 
+individually or within a citation list. A citation list identifies 
+each article by the publication in which it appeared, by 
+number of words, and by author. When a particular article is 
+selected for full-text review, the entire content of the article 
+appears on screen with a heading providing the same basic 
+information reported within a citation list. Although articles 
+are reviewed individually, it is possible for a user to input a 
+search that will generate all of the articles — and only those 
+articles — appearing in a particular periodical on a particular 
+day. 
+
+
+2. The New York Times OnDisc 
+
+
+“The New York Times OnDisc,” the text only CD-ROM 
+product, is created from the same data furnished by The New 
+York Times to NEXIS. Indeed, at the end of each month, 
+pursuant to a three-way agreement among The New York 
+Times, NEXIS and UMI, NEXIS provides UMI with 
+magnetic tapes containing this information. UMI then 
+transfers the content of these tapes to CD-ROM discs and 
+codes the included articles to facilitate Boolean searching. 
+
+
+Not surprisingly, given that the two systems share data, 
+the text-based CD-ROM operates much like NEXIS. Users 
+
+
+3la 
+
+
+Appendix B 
+
+
+enter search terms prompting the system to access all 
+corresponding articles. These articles are displayed with 
+headings indicating the author, and the date and page of The 
+New York Times issue in which the articles appeared. As 
+with NEXIS, an article selected for review appears alone; 
+there are no photographs or captions or columns of text. 
+Moreover, a search typically retrieves articles which were 
+published on different dates, though it is possible to conduct 
+a search that will retrieve all of the articles making up a single 
+issue of The New York Times. 
+
+
+3. General Periodicals OnDisc 
+
+
+“General Periodicals OnDisc,” an image-based 
+CD-ROM product, does not carry full issues of The New 
+York Times, but only the Sunday Magazine and Book Review. 
+It includes numerous other periodicals, as well, although 
+none of those involved in this litigation. The image-based 
+system differs from the other technologies presently at issue 
+in that it is created by digital scanning. Articles are not 
+inputted into the system individually, but the entire Sunday 
+Magazine and Book Review are photographed producing 
+complete images of these periodicals. Articles appear 
+precisely as they do in print, complete with photographs, 
+captions, and advertisements. 
+
+
+“General Periodicals OnDisc” does not employ Boolean 
+searching. Image based discs are sold alongside text-based 
+discs, which are searchable, and which provide abstracts of 
+articles. By searching these abstracts, users can identify 
+articles that are of interest to them. Users can then return to 
+the image-based system in order to retrieve those articles. 
+
+
+32a 
+Appendix B 
+
+
+Drawing upon this interplay between discs, plaintiffs propose 
+that the image-based CD-ROMs are better characterized as 
+part-text/part-image based CD-ROMs. 
+
+
+C. The Parties’ Dispute 
+
+
+All of the parties recognize that the defendant 
+publications constitute “collective works” under the terms 
+of the Copyright Act of 1976. A collective work is one “in 
+which a number of contributions, constituting separate and 
+independent works in themselves, are assembled into a 
+collective whole.” 17 U.S.C. § 101. The rights which exist 
+in such works are delineated in 17 U.S.C. § 201(c): 
+
+
+Copyright in each separate contribution to a 
+collective work is distinct from copyright in the 
+collective work as a whole, and vests initially in 
+the author of the contribution. In the absence of 
+an express transfer of the copyright or of any 
+rights under it, the owner of copyright in the 
+collective work is presumed to have acquired only 
+the privilege of reproducing and distributing the 
+contribution as part of that particular collective 
+work, any revision of that collective work, and 
+any later collective work in the same series. 
+
+
+Plaintiffs maintain that the publisher defendants have 
+exceeded their narrow “privileges” under this provision by 
+selling plaintiffs’ articles for reproduction by the electronic 
+defendants. In particular, plaintiffs complain that the disputed 
+technologies do not revise the publisher defendants’ 
+
+
+33a 
+
+
+Appendix B 
+
+
+collective works, but instead exploit plaintiffs’ individual 
+articles.’ 
+
+
+Defendants Time and Newsday argue that they are not 
+limited to those privileges set out at the conclusion of Section 
+201(c), because plaintiffs have “expressly transferred” the 
+electronic rights in their articles. Newsday relies upon the 
+check legends authorizing the publisher to include plaintiffs’ 
+articles “in electronic library archives.” Time relies upon 
+the “right first to publish” secured in its written contract with 
+plaintiff Whitford. Plaintiffs insist that neither of these 
+provisions contemplate the sort of electronic reproductions 
+presently at issue. 
+
+
+3. Plaintiffs complain that the electronic reproductions of their 
+articles, on NEXIS and on disc, directly infringe their copyrights. 
+They seek to hold defendants contributorily liable only to the extent 
+that defendants have cooperated with one another in creating these 
+allegedly infringing works. Plaintiffs do not advance the distinct 
+claim that defendants are contributorily liable for potential copyright 
+infringement by users of the disputed electronic services. (12/10/96 
+Tr. at 34 (“This is not a case in which we have accused the defendants 
+
+. of manufacturing or distributing machines or equipment that 
+can be used by third parties in an infringing way.”).) To prevail 
+with such a claim, which would be governed by Sony Corp. v. 
+Universal City Studios, 464 U.S. 417, 442 (1984), defendants would 
+merely have to demonstrate that the disputed technologies can be 
+put to “substantial noninfringing uses.” See generally Ariel B. Taitz, 
+Removing Road Blocks Along The Information Superhighway: 
+Facilitating The Dissemination of New Technology By Changing 
+The Law Of Contributory Copyright Infringement, 64 Geo. Wash. 
+L. Rev. 133 (1995) (proposing “non-trivial infringing use doctrine” 
+as alternative approach to claims of contributory infringement). 
+
+
+34a 
+Appendix B 
+
+
+Even without an express transfer of rights, all of the 
+defendants maintain that the practice of electronically 
+reproducing plaintiffs’ articles is authorized under Section 
+201(c) of the Copyright Act. Defendants argue that the 
+disputed technologies merely generate “revisions of [the 
+defendant publishers’} collective work[s],” and therefore do 
+not usurp plaintiffs’ rights in their individual articles. 17 
+U.S.C. § 201(c). Plaintiffs counter that Section 201(c) was 
+not intended to permit electronic revisions of collective 
+works, and that, in any event, the technologies presently at 
+issue are incapable of creating such revisions. 
+
+
+DISCUSSION 
+I. INTRODUCTION 
+
+
+Summary judgment is required when “there is no genuine 
+issue as to any material fact and ... the moving party is 
+entitled to a judgment as a matter of law.” Fed. R. Civ. P. 
+56(c). “The moving party has the initial burden of ‘informing 
+the district court of the basis for its motion’ and identifying 
+the matter ‘it believes demonstrate[s] the absence of a 
+genuine issue of material fact.’ ” Leibovitz v. Paramount 
+Pictures Corp., 1996 WL 733015, *3 (S.D.N.Y. Dec. 18, 
+1996) (quoting Celotex Corp. v. Catrett, 477 U.S. 317, 323 
+(1986)). Once the movant satisfies its initial burden, the 
+nonmoving party must identify “specific facts showing that 
+there is a genuine issue for trial.” Fed. R. Civ. P. 56(e). In 
+assessing the parties’ competing claims, the Court must 
+resolve any factual ambiguities in favor of the nonmovant. 
+See McNeil v. Aguilos, 831 F. Supp. 1079, 1082 (S.D.N.Y. 
+1993). It is within this framework that the Court must finally 
+
+
+35a 
+
+
+Appendix B 
+
+
+determine “whether the evidence presents a sufficient 
+disagreement to require submission to a jury or whether it is 
+so one-sided that one party must prevail as a matter of law.” 
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 251-52 
+(1986). 
+
+
+Where there are cross motions for summary judgment, 
+as there are here, “the standard is the same as that for 
+individual motions for summary judgment and the court must 
+consider each motion independent of the other . . . . Simply 
+because the parties have cross-moved, and therefore have 
+implicitly agreed that no material issues of fact exist, does 
+not mean that the court must join in that agreement and grant 
+judgment as a matter of law for one side or the other.” Aviall, 
+Inc. v. Ryder System, Inc., 913 F. Supp. 826, 828 (S.D.N.Y. 
+1996) (citing Heublein, Inc. v. United States, 996 F.2d 1455, 
+1461 (2d Cir. 1993)), aff'd, 110 F.3d 892 (2d Cir. 1997). 
+
+
+I]. THE ALLEGED TRANSFER OF RIGHTS PURSUANT 
+TO CONTRACT 
+
+
+Two of the publisher defendants, Newsday and Time, 
+claim that plaintiffs “expressly transferred” electronic rights 
+in their articles, and that it is therefore unnecessary to 
+determine whether the electronic data bases produce 
+revisions of these defendants’ collective works. The Court 
+disagrees. 
+
+
+A. Newsday 
+
+
+According to Section 204(a) of the 1976 Act, “[a] 
+transfer of copyright ownership ... is not valid unless an 
+
+
+36a 
+Appendix B 
+
+
+instrument or conveyance, or a note or memorandum of the 
+transfer, is in writing and signed by the owner of the rights 
+conveyed or such owner’s duly authorized agent.” 17 U.S.C. 
+§ 204(a). “[A] writing memorializing the assignment of 
+copyright interests ‘doesn’t have to be the Magna Carta; a 
+one-line pro forma statement will do.’ However, the terms 
+of any writing purporting to transfer copyright interests, even 
+a one-line pro forma statement, must be clear.” Papa's 
+June Music, Inc. v. McLean, 921 F. Supp. 1154, 1158-59 
+(S.D.N.Y. 1996) (citing Effects Associates, Inc. v. Cohen, 
+908 F.2d 555, 557 (9th Cir. 1990)). 
+
+
+The only writing that Newsday points to in support of 
+the transfer of electronic rights appears on the back of the 
+checks it issued to plaintiffs in payment for their articles. In 
+particular, the publisher relies upon the language providing 
+that Newsday has the “right to include [plaintiffs’ articles] 
+in electronic library archives.” By the time Newsday sent 
+plaintiffs’ articles to NEXIS, however, plaintiffs had not yet 
+received or cashed these checks. Plaintiffs therefore contend 
+that any transfer of rights that might have been effected by 
+the check legends occurred too late to excuse defendants’ 
+alleged infringement. See R&R Recreation Products, Inc. v. 
+Joan Cook Inc., 1992 WL 88171, *4 (S.D.N.Y. 1992) 
+(“R&R’s assignment of the cat and mouse copyright to DMV 
+does not preclude suit by R&R for infringement occurring 
+prior to the assignment.”). 
+
+
+Newsday responds by arguing that a “note or 
+memorandum” of transfer can serve to validate a prior oral 
+agreement. See Eden Toys, Inc. v. Florelee Undergarment 
+Co. Inc., 697 F.2d 27, 36 (2d Cir. 1982) (“the ‘note or 
+
+
+37a 
+Appendix B 
+
+
+memorandum of the transfer’ need not be made at the time 
+when the license is initiated; the requirement is satisfied by 
+the copyright owner’s later execution of a writing which 
+confirms the agreement.”’); see also Imperial Residential 
+Design Inc. v. Palms Development Group, Inc., 70 F.3d 96, 
+99 (11th Cir. 1995) (“a copyright owner’s later execution of 
+a writing which confirms an earlier oral agreement validates ° 
+the transfer ab initio.”). Newsday is correct as to the law, 
+but finds no support in the facts. 
+
+
+Newsday concedes that there is no evidence of any prior 
+agreements concerning electronic rights 1n plaintiffs’ articles. 
+(Def. Newsday’s Res. Pl.s’ Rule 3(g) stmt No. 25 
+(““DEFENDANTS’ RESPONSE: Other than the check 
+endorsement ... there is no evidence of any express 
+agreement, written or oral, between any of the plaintiffs and 
+Newsday with respect to the articles at issue.”).) The most 
+Newsday claims is that the check legends confirmed “its 
+understanding” that there had been a transfer of electronic 
+rights in plaintiffs’ articles. (Defs’ Memo. Supp. Mot. Summ. 
+J. at 14n. 2.) This is not enough: the record reveals no basis 
+for concluding that Newsday’s purported “understanding” 
+was shared by plaintiffs, all of whom deny that they ever 
+intended to authorize the use of their articles on-line. Thus, 
+Newsday cannot now rely upon its check legends to give 
+retroactive effect to supposed unspoken agreements 
+concerning electronic rights in plaintiffs’ articles. 
+
+
+The check legends themselves, moreover, are ambiguous 
+and cannot be taken to reflect an express transfer of electronic 
+rights in plaintiffs’ articles. See Playboy Enterprises, Inc. v. 
+Dumas, 53 F.3d 549, 564 (2d Cir.) (finding that check legend 
+
+
+38a 
+Appendix B 
+
+
+providing for the “assignment ... of all right, title, and 
+interest” was ambiguous, and did not effectively transfer 
+copyright in certain paintings), cert. denied, 116 S. Ct. 567 
+(1995); see also Papa ’s-June, 921 F. Supp. at 1159 (“neither 
+the royalty checks nor the attached royalty statements 
+mention a transfer of copyright ownership.”); Museum 
+Boutique Intercontinental, Ltd. v. Picasso, 880 F. Supp. 153, 
+162 n. 11 (S.D.N.Y. 1995) (“the checks submitted by MBI, 
+which do not contain any explanatory notations besides 
+‘Picasso royalties,’ are not convincing proof, to say the least, 
+of the alleged oral agreement.’’). Plaintiffs argue persuasively 
+that the most reasonable interpretation of “electronic library 
+archives” does not encompass NEXIS. Plaintiffs provide 
+affidavits from experts who opine that an archive and a 
+commercial data base contain different types of material and 
+serve different purposes. (Pl.s’ Mot. Summ. J. Ex. 17.); cf 
+American Geophysical Union v. Texaco Inc., 60 F.3d 913, 
+919, 921 (2d Cir. 1995) (photocopying of articles from 
+scientific journal was characterized as “archival” where 
+copies were kept in researcher’s files for later reference and 
+were not used for any “direct or immediate commercial 
+advantage’). Plaintiffs also note, and Newsday admits, that 
+Newsday maintains its own “electronic library archives,” a 
+computerized in-house storage system that serves no 
+commercial purpose. (PlI.s’ Mot. Summ. J. Ex. 35 at 26.) It 
+is at least plausible — and would have been reasonable for 
+plaintiffs to conclude — that Newsday was simply referring 
+to such “archives” in its check legends. In any event, there 
+is no evidence that plaintiffs understood, or should have 
+understood, that the check legends implicated rights 
+extending as far as NEXIS. 
+
+
+39a 
+Appendix B 
+
+
+In short, there is no basis for holding that the Newsday 
+check legends effected an unambiguous and timely transfer 
+of any significant electronic rights in plaintiffs’ articles. 
+
+
+B. Sports Illustrated 
+
+
+In support of its Motion for Summary Judgment, 
+defendant Time invokes Section 10(a) of its contract with 
+Whitford. Pursuant to this provision, Sports Illustrated 
+acquired the right “first to publish” Whitford’s article. 
+Arguing that this language includes no “media-based 
+limitation,” Time contends that its “first publication” rights 
+must be interpreted to extend to NEXIS.* See Bartsch v. 
+Metro-Goldwyn-Mayer, Inc., 391 F.2d 150, 154-55 (2d Cir.) 
+(holding that the right to “exhibit” motion picture included 
+the right to exhibit movie on television), cert. denied, 393 
+U.S. 826 (1968); see also Bourne v. Walt Disney Co., 68 
+F.3d 621, 629 (2d Cir. 1995) (“motion picture” rights did 
+not “unambiguously exclude” videocassette rights), cert. 
+denied, 116 S. Ct. 1890 (1996); L.C. Page & Co. v. Fox 
+Film Corp., 83 F.2d 196, 199 (2d Cir. 1936) (“exclusive 
+
+
+4. By focusing upon Section 10(a) of its contract with Whitford, 
+Time conspicuously avoids directly relying upon Sections 10(b) and 
+10(c). (Def.s’ Memo. Supp. Mot. Summ. J. at 38 (“It is undisputed 
+that Sports Illustrated acquired the right ‘first to publish’ Whitford’s 
+article, and that the agreement nowhere expressly delineated or 
+limited the media in which such publication would be permissible. 
+The issue, then, is to determine how to interpret the contract’s scope 
+in light of its silence on the issue of format.”).) Each of these other 
+provisions broadly authorizes Time to republish Whitford’s story 
+provided that the publisher compensates Whitford for the 
+republication. Whitford also does not rely upon these provisions, 
+and does not advance any contract claim against Time. 
+
+
+40a 
+
+
+Appendix B 
+
+
+moving picture rights” included “talkies” as well as silent 
+films); Rooney v. Columbia Pictures Indus., Inc., 538 F. Supp. 
+211 (S.D.N.Y.) (exhibit “by any present or future method or 
+means” included videocassette rights), aff'd, 714 F.2d 117 
+(2d Cir. 1982), cert. denied, 460 U.S. 1084 (1983). 
+
+
+Time’s reliance upon the Bartsch line of authority is 
+misplaced. Bartsch and its progeny stand for the proposition 
+that when contract terms are broad enough to cover a new a 
+technological use, “the burden of framing and negotiating 
+an exception should fall on the grantor.” Bartsch, 391 F.2d 
+at 155. None of these cases, however, involved a contract 
+(like the one before the Court) that imposed specific temporal 
+limitations such as “first publication rights.” The right to 
+publish an article “first” cannot reasonably be stretched into 
+a right to be the first to publish an article in any and all 
+mediums. Cf. Harper & Row, Publishers, Inc. v. Nation 
+Enterprises, 471 U.S. 539, 564 (1985) (“The right of first 
+publication encompasses not only the choice whether to 
+publish at all, but also the choices of when, where, and in 
+what form first to publish a work.”) (emphasis added). 
+Because Whitford’s article was “first” published in print, 
+the electronic republication of that article some 45 days later 
+simply cannot have been “first.” 
+
+
+III. COLLECTIVE WORKS UNDER THE COPYRIGHT 
+ACT OF 1976 
+
+
+Because the Court cannot find that any of the plaintiffs 
+expressly transferred electronic rights in their articles, the 
+numerous arguments and voluminous record in this case 
+devolve to whether the electronic defendants produced 
+
+
+4la 
+
+
+Appendix B 
+
+
+“revisions,” authorized under Section 201(c) of the Copynght 
+Act, of the publisher defendants’ collective works. The issue 
+is narrow, but its resolution is not simple: there is virtually 
+no case law parsing the terms of Section 201(c), and certainly 
+no precedent elucidating the relationship between tiiat 
+provision and modern electronic technologies. Further 
+complicating matters, the Copyright Act of 1976 was crafted 
+through a unique and lengthy process involving the input of 
+numerous experts from assorted interest groups and 
+industries. See Barbara Ringer, First Thoughts On The 
+Copyright Act Of 1976, 22 N.Y.L. Sch. L. Rev. 477 (1977). 
+As a result, the pertinent legislative history is notoriously 
+impenetrable. See generally Jessica D. Litman, Copyright 
+Compromise, and Legislative History, 72 Cornell L. Rev. 
+857 (1987). 
+
+
+Despite the numerous challenges, there are several 
+considerations which allow a principled approach to 
+analyzing Section 201(c). Most importantly, the provision 
+cannot be understood in isolation, but must be considered 
+alongside other sections of the Act. 
+
+
+A. Collective Works And Derivative Works Under 
+Section 103(b) 
+
+
+“Both collective works and derivative works are based 
+upon preexisting works that are in themselves capable of 
+copyright.” 1 M. Nimmer & D. Nimmer, Nimmer on 
+Copyright § 3.02, at 3-8 (1996 ed.). A derivative work 
+“transforms” one or more such preexisting works into a new 
+creation. See 17 U.S.C. § 101. A collective work, on the 
+other hand, consists of numerous original contributions 
+
+
+42a 
+Appendix B 
+
+
+which are not altered, but which are assembled into an 
+original collective whole. /d. In both instances, the copyright 
+law accounts for the fact that the larger work — although it 
+is entitled to copyright protection — consists of independent 
+original contributions which are themselves protected. 
+
+
+The 1976 Act addresses the competing copyright 
+interests apparent in both derivative works and collective 
+works in Section 103(b). Pursuant to this provision: 
+
+
+The copyright in a compilation or derivative work 
+.- extends only to the material contributed by the 
+author of such work, as distinguished from the 
+preexisting material employed in the work, and 
+does not imply any exclusive right in the 
+preexisting material. The copyright in such work 
+is independent of, and does not affect or enlarge 
+the scope, duration, ownership, or subsistence of, 
+any copyright protection in the preexisting material.° 
+
+
+17 U.S.C. § 103(b). Section 103(b) does not represent an 
+innovation under the 1976 Act, but is intended merely to 
+
+
+clarify a point “commonly misunderstood” under Section 7 
+of the 1909 Act.° H.R. Report No. 94-1476, at 57 (1976). 
+
+
+5. Collective works are “compilations” which are composed 
+of protected “preexisting material.” See Section IIIB3, infra. 
+Accordingly, Section 103(b) speaks directly to the copyright status 
+of collective works. See Nimmer, § 3.07[A][1], at 3-34.9 n. i. 
+
+
+6. Section 7 of the 1909 Act provided as follows: 
+
+
+Compilations or abridgements, adaptations, arrangements, 
+dramatizations, translations, or other versions of works 
+(Cont’d) 
+
+
+43a 
+Appendix B 
+
+
+Specifically, “copyright in a ‘new version’ covers only the 
+material added by the later author, and has no effect one 
+way or the other on the copyright or public domain status of 
+the preexisting material.” /d. 
+
+
+The “misunderstanding” regarding copyright protection 
+in “new versions” and in “preexisting materials” developed 
+largely in connection with derivative works, and grew out 
+of the “new property rights” approach espoused, most 
+prominently, by Judge Friendly of the Second Circuit. See 
+Rohauer v. Killiam Shows, Inc., 551 F.2d 484 (2d Cir.) 
+(holding that film producer retained rights in underlying story 
+despite fact that novelist, who authorized initial use of story, 
+died before granting producer renewal rights), cert. denied, 
+431 U.S. 949 (1977). According to this view, “once a 
+derivative work is created pursuant to a valid license to use 
+the underlying material, a new property right springs into 
+existence with respect to the entire derivative work, so that 
+even if the license is thereafter terminated, the proprietor of 
+the derivative work may nevertheless continue to use the 
+
+
+(Cont'd) 
+
+in the public domain or of copyrighted works when 
+produced with the consent of the proprietor of the 
+copyright in such works, or works republished with new 
+matter, shall be regarded as new works subject to 
+copyright. . . but the publication of any such new works 
+shall not effect the force or validity of any subsisting 
+copyright upon the matter employed or any part thereof, 
+or be construed to imply an exclusive right to such use 
+of the original works, or to secure or extend copyright 
+in such original works. 
+
+
+17 U.S.C. § 7 (1976 ed.) (repealed by Copyright Act of 1976). 
+
+
+44a 
+
+
+Appendix B 
+
+
+material from the underlying work as contained in the 
+derivative work.” Nimmer, § 3.07[A][1], at 3-34.9. 
+Numerous authorities on copyright law, including Professor 
+Nimmer, assailed the reasoning in Rohauer, deriding the 
+“new property rights” approach as “neither warranted by any 
+express provision of the Copyright Act, nor by the rationale 
+as to the scope of protection achieved in a derivative work.” 
+Id. 
+
+
+Prior to its holding in Rohauer, and contrary to the “new 
+
+property rights” approach, the Second Circuit had upheld 
+several claims of infringement based upon the unauthorized 
+reuse — by the owner of a valid copyright in a derivative 
+work — of the protected preexisting material. See, e.g., 
+Gilliam v. American Broadcasting Companies, Inc., 538 F.2d 
+14 (2d Cir. 1976); G. Ricordi & Co. v. Paramount Pictures 
+Inc., 189 F.2d 469 (2d Cir.) (prohibiting plaintiff, in 
+declaratory judgment action, from making a motion picture 
+version of an opera that had been created with the permission 
+of the author of the underlying work), cert. denied, 342 U.S. 
+849 (1951); see also Russell v. Price, 612 F.2d 1123, 1128 
+(9th Cir. 1979) (“since exhibition of the film “Pygmallion” 
+necessarily involves exhibition of parts of Shaw’s play, 
+which is still copyrighted, plaintiffs here may prevent 
+defendants from renting the film for exhibition without their 
+authorization.”), cert. denied, 446 U.S. 952 (1980). In 
+Gilliam, for instance, the Court granted an injunction in favor 
+of plaintiffs, the members of a British comedy troop, who 
+claimed that the BBC infringed their copyright in certain 
+scripts. Plaintiffs had authorized the BBC to broadcast 
+television programs based upon these scripts, but took 
+exception when the BBC subsequently sold the programs to 
+
+
+“se 
+
+
+45a 
+Appendix B 
+
+
+the defendant, an American television network which edited 
+the programs prior to airing them in the United States. In 
+support of its decision to enjoin the defendant from airing 
+those edited versions for a second time, the Second Circuit 
+reasoned that, under Section 7 of the 1909 Act, “any 
+ownership by BBC of the copyright in the recorded program 
+would not affect the scope or ownership of the copyright in 
+the underlying script.” Gilliam, 538 F.2d at 20. The use of 
+that script without plaintiffs’ consent would therefore constitute 
+infringement, “even with the permission of the proprietor of 
+[a] derivative work [based upon that script].” /d. 
+
+
+Upholding a Ninth Circuit opinion which rejected 
+Rohauer in favor of the Second Circuit’s earlier approach in 
+Gilliam the Supreme Court finally and firmly settled the “new 
+property rights” controversy. See Stewart v. Abend, 495 U.S. 
+207 (1990). In Abend, the author of a fictional story agreed 
+to assign the rights in his renewal copynght term to the owner 
+of a movie version of that story, but died before the 
+commencement of the renewal period. Because the assignment 
+never occurred, the Court held that defendant infringed the 
+copyright of the successor owner of the story by continuing 
+to distribute the film during the renewal term of the 
+preexisting work. 
+
+
+In reaching its result, the Abend Court rejected 
+defendants’ view, based on Rohauer that the “creation of 
+the ‘new, i.e., derivative, work extinguishes any right the 
+owner of rights in the preexisting work might have had to 
+sue for infringement ...” /d. at 222. Citing Nimmer, the 
+Court concluded that such an approach runs counter to the 
+terms of both Section 7 of the 1909 Act and Section 103(b) 
+
+
+46a 
+Appendix B 
+
+
+of the 1976 Act, each of which advances the same 
+fundamental formula: 
+
+
+The aspects of a derivative work added by the 
+derivative author are that author’s property, but 
+the element drawn from the pre-existing work 
+remains on grant from the owner of the 
+pre-existing work. So long as the pre-existing 
+work remains out of the public domain, its use is 
+infringing if one who employs the work does not 
+have a valid license or assignment for use of the 
+preexisting work. It is irrelevant whether the 
+preexisting work is inseparably intertwined with 
+the derivative work. 
+
+
+Abend, 495 U.S. at 223-24 (citations omitted). Thus, Section 
+103(b) of the 1976 Act — like Section 7 of the 1909 Act 
+before it — stands as a rejection of the new property rights 
+theory. /d.; see also Nimmer, § 3.07, at 3-34.9 n. 3. (describing 
+Section 103(b) as “hardly consistent with the new property 
+right theory”). Under Section 103(b), any unauthorized use 
+of preexisting protected material by the creator of a derivative 
+or a collective work infringes the copyright existing in that 
+preexisting material. 
+
+
+B. Defendants’ “Privileges” Under Section 201(c) 
+
+
+The first sentence of Section 201(c) — providing that 
+the “[c]opyright in each separate contribution to a collective 
+work is distinct from copyright in the collective work as a 
+whole, and vests initially in the author of the contribution” 
+—— essentially reiterates the substance of Section 103(b). If 
+
+
+47a 
+
+
+Appendix B 
+
+
+the provision ended with its first sentence, plaintiffs would 
+prevail in this action. With no “new property right” in the 
+articles making up their collective works, the publisher 
+defendants would not be at liberty to reuse plaintiffs’ 
+individual contributions even in new versions of their own 
+periodicals. See Abend, 495 U.S. 207; see also Gilliam, 538 
+F.2d 14. In its second sentence, however, Section 201(c) 
+expands upon the baseline established in Section 103(b) by 
+extending to the creators of collective works “only the 
+privilege of reproducing and distributing the contribution as 
+part of that particular collective work, any revision of that 
+collective work, and any later collective work in the same 
+series.” 17 U.S.C. § 201(c). The determinative issue here, then, 
+is the precise scope of these “privileges.” 
+
+
+1. Privileges As Transferrable Rights 
+
+
+Plaintiffs liken the “privileges” which Section 201(c) 
+extends to “the owner of copyright in the collective work” 
+to narrowly circumscribed nonexclusive licenses. Unlike 
+assignments or exclusive licenses or most other conveyances 
+under copyright law, such limited grants are not transferrable. 
+See 17 U.S.C. § 101 (defining “transfer of copyright 
+ownership”). Because the publisher defendants own the 
+copyrights in their collective works, plaintiffs reason that 
+the electronic defendants are guilty of infringement even in 
+the event that they are creating revisions — authorized by 
+the publisher defendants — of the disputed periodicals. (Pl.s’ 
+Memo. Supp. Mot. Summ. J. at 16, n. 15; Pl.s’ Memo. Opp. 
+Def.s’ Cross-Mot. Summ. J. at 19-23.) 
+
+
+Plaintiffs arrive at their understanding of the term 
+“privileges” by juxtaposing Section 201(c) with Section 
+
+
+48a 
+Appendix B 
+
+
+201(d). The first clause of the latter section provides that 
+“(t]he ownership of a copyright may be transferred in whole > 
+or in part by any means of conveyance or by operation of 
+law ...” 17 U.S.C. § 201(d)(1). According to Section 
+201(d)(2): 
+
+
+Any of the exclusive rights comprised in a 
+
+- copyright, including any subdivision of any of the 
+rights specified by section 106, may be transferred 
+as provided by clause (1) and owned separately. 
+The owner of any particular exclusive right is 
+entitled, to the extent of that right, to all of the 
+protection and remedies accorded to the copyright 
+owner by this title. 
+
+
+In plaintiffs’ view, the fact that Section 201(d)(2) provides 
+for the transfer of “rights” can only be taken to mean that 
+the “privileges” identified in the preceding section of the 
+Act are nontransferable. This approach distorts the 
+relationship between Section 201(c) and Section 201(d). 
+
+
+Section 201(d)(2) does not speak only of “rights,” but 
+also of any “subdivision” of rights. The potential for such a 
+subdivision of rights is created in the preceding section, 
+201(d)(1), which permits the transfer of copyright, “in whole 
+or in part,” either by conveyance or by “operation of law.” 
+This recognition of the potential for a partial transfer of 
+copyright “by operation of law” follows from the fact that 
+exactly such a transfer is effected in the preceding Section 
+of the Act, Section 201(c), which extends certain enumerated 
+“privileges” to publishers. In other words, the three. 
+provisions operate in tandem: Section 201(c) transfers 
+
+
+AP ene: 
+
+
+49a 
+Appendix B 
+
+
+plaintiffs’ copyrights, “in part,” to defendants — a 
+permissible exercise under Section 201(d)(1) — and 
+therefore, under Section 201(d)(2), defendants are left with 
+full authority over the “subdivision” of rights they acquire. 
+
+
+When Sections 201(c) and 201(d) are placed into 
+historical context, the weakness in plaintiffs’ position is all 
+the more apparent. The 1976 Act, in significant part, amounts 
+to a repudiation of the concept of copyright indivisibility, a 
+principle pursuant to which the assorted rights comprising a 
+copyright could not be assigned in parts, i.e., subdivided. 
+See Nimmer, § 10.01[A], at 10-5. Under this former regime, 
+individual authors were at risk of inadvertently surrendering 
+all rights in a contribution to a collective work either to the 
+publisher of that work, or to the public. /d. Under Sections 
+201(c) and (d) of the 1976 Act, that threat is gone. Authors 
+are no longer at risk of losing all rights in their articles merely 
+because they surrender a small “subdivision” of those rights 
+— either by operation of Section 201(c) or by express transfer 
+— to the publishers of collective works. 
+
+
+The aim of Section 201(c) — to avoid the “unfair[ness]” 
+of indivisibility — would not be further served by equating 
+“privileges” with nonexclusive licenses. H.R. Report No. 
+94-1476, at 122 (1976). As explained, Congress was not 
+responding to any perceived problem associated with the 
+ability of publishers to enlist the help of outside entities to 
+produce versions of their collective works, but rather to the 
+risk that publishers of collective works might usurp all rights 
+in individual articles. It simply would not have advanced its 
+goal for Congress to have constrained publishers in their 
+efforts to generate and distribute their permitted revisions 
+
+
+50a 
+
+
+Appendix B 
+
+
+and reproductions. Such an approach would not prevent the 
+exploitation of individual contributions, but would serve only 
+to undermine the competing goal of ensuring that collective 
+works be marketed and distributed to the public. See H.R. 
+Rep. No. 94-1476, at 122 (1976) (characterizing the Section 
+201(c) privileges extended to publishers an “essential 
+counterpart” to the basic presumption favoring authors). 
+
+
+The term “privilege” is used in Section 201(c) to 
+underscore that the creators of collective works have only 
+limited rights in the individual contributions making up their 
+collective works; the term does not indicate that the creators 
+of collective works are limited in exercising those few rights, 
+or “privileges,” that they possess. Thus, to the extent that 
+the electronic reproductions qualify as revisions under 
+Section 201(c), the defendant publishers were entitled to 
+authorize the electronic defendants to create those revisions. 
+
+
+2. Reproductions, Revisions, and Computer 
+Technology 
+
+
+Plaintiffs advance several arguments in support of their 
+view that the framers of Section 201(c) intended to limit the 
+creators of collective works to revising and reproducing their 
+works in the same medium in which those collective works 
+initially appeared. For the reasons discussed, however, the 
+Court finds nothing in the terminology of Section 201(c), 
+the relevant legislative history, or the nature of revisions 
+generally which supports such an approach.’ 
+
+
+7. Plaintiffs undermine their arguments by struggling with the 
+copyright implications of microfilm, a high resolution film which 
+(Cont'd) 
+
+
+Sla 
+
+
+Appendix B 
+a. Display Rights 
+
+
+Plaintiffs contend that the right to reproduce articles as 
+part of a collective work, because it is unaccompanied by 
+other key rights, necessarily precludes the use of computer 
+technologies. Plaintiffs refer to Section 106 of the 1976 Act, 
+which lists the five exclusive rights, i.e., the “bundle” of 
+rights, constituting a copyright. The “reproduction” privilege 
+identified under Section 201(c), as plaintiffs note, invokes 
+the first of these rights — the right “to reproduce the 
+copyrighted work in copies or phonorecords.” See 17 U.S.C. 
+§ 106(1). Section 201(c) does not, however, implicate the 
+distinct right, under Section 106, to “display the copyrighted 
+work publicly.” Jd. at § 106(5). In plaintiffs’ view, this 
+absence of any express grant of “display” rights is fatal to 
+defendants’ position because a work cannot be reproduced 
+electronically unless it is “displayed” on a computer screen. 
+
+
+By focusing upon the “display” rights that are not granted 
+under Section 201(c), plaintiffs fail to account fully for the 
+“reproduction” rights that are extended to the owners of 
+
+
+(Cont’d) 
+
+permits users to scroll through entire issues of periodicals. (Compare 
+10/17/96 Tr. at 41 (“I believe that I have conceded this to opposing 
+counsel previously, that I think its possible that the right to make 
+microfilm editions of a publication or a periodical is encompassed 
+by the 201(c) privilege”), with 12/10/96 Tr. at 50 (deeming it 
+“probably the correct interpretation of 201(c)” that “even an 
+electronic equivalent of microfilm would be a violation”).) Of course, 
+if itis “possible” that Section 201(c) permits microfilm reproductions 
+of collective works, it is impossible that Section 201(c) prohibits 
+reproductions in a new medium. 
+
+
+52a 
+Appendix B 
+
+
+copyright in collective works. Although “reproduction” is 
+not defined separately under the Act, Section 106 reveals 
+predictably enough — that reproductions result in “copies.” 
+As defendants emphasize, this is a term with a broad and 
+forward looking definition: 
+
+
+‘Copies’ are material objects, other than 
+phonorecords, in which a work is fixed by any 
+method now known or later developed, and from 
+which the work can be perceived, reproduced, or 
+otherwise communicated, either directly or with 
+the aid of a machine or device . . . 
+
+
+17 U.S.C. § 101 (emphasis added). Thus, the right to 
+reproduce a work, which necessarily encompasses the right 
+to create copies of that work, presupposes that such copies 
+might be “perceived” from a computer terminal.° 
+
+
+Plaintiffs argue that the legislative history precludes the 
+Court from reading “display” rights into Section 201(c). As 
+plaintiffs point out, early draft versions of Section 201(c) 
+extended the “privilege to publish” — instead of the privilege 
+
+
+8. In searching for a reason that microfilm reproductions of 
+collective works might be permissible under Section 201(c), 
+plaintiffs themselves suggest another approach to rejecting their 
+display rights argument. (10/17/96 Tr. at 52 “I would agree with 
+your Honor that they have the right under 201(c) and 109(c) to take 
+plaintiffs’ work without their permission and put it in a microfilm.”) 
+Section 109(c) permits a person lawfully in possession of a copy of 
+a protected work “to display that copy publicly.” 17 U.S.C. § 109(c). 
+Thus, if defendants have reproduced plaintiffs’ articles in accord 
+with the conditions set under Section 201(c), they would be entitled 
+to display those copies pursuant to Section 109(c). 
+
+
+53a 
+Appendix B 
+
+
+to “reproduce” and “distribute” — individual contributions 
+in subsequent versions of a collective work. (Pl.s’ Memo. 
+Opp. Def.s’ Mot. Summ. J. at 22, n. 37.) “ ‘Publication’ is 
+the distribution of copies ... of a work to the public.” 
+17 U.S.C. § 101. More importantly, for plaintiifs’ purposes, 
+“publication” contemplates the public distribution of a work 
+“for purposes of further distribution, public performance, or 
+public display ...” Id. (emphasis added). The absence of 
+the term “publish” from the final version of Section 201(c), 
+according to plaintiffs, must therefore be taken to indicate 
+the absence of any such display rights. 
+
+
+The problem with plaintiffs’ argument is that it rests on 
+the unfounded assumption that the replacement of the term 
+“publish” in Section 201(c) necessarily amounted to a 
+rejection not only of that term, but also of the rights it 
+connotes. There is no hint in the pertinent legislative history, 
+however, that Congress settled upon its “reproducing and 
+distributing” language for purpose of diminishing the 
+publication rights initially envisioned for the creators of 
+collective works. To the contrary, it appears that the 
+“reproducing and distributing” language — a seeming 
+paraphrase of the “distribution of copies” language the Act 
+uses to define “publication” — was meant to secure precisely 
+those rights. Indeed, the House Report explicitly equates the 
+privilege of “reproducing and distributing” a contribution 
+as part of a “particular collective work” with the “privilege 
+of republishing the contribution under certain limited 
+circumstances.” H.R. Report No. 94-1476, at 122 (1976) 
+(emphasis added). 
+
+
+In sum, both the terms of the 1976 Act, and the pertinent 
+legislative history, reveal a design to extend display rights, 
+
+
+54a 
+Appendix B 
+
+
+in “certain limited circumstances,” to the creators of 
+collective works. Thus, so long as defendants are operating 
+within the scope of their privilege to “reproduce” and 
+“distribute” plaintiffs’ articles in “revised” versions of 
+defendants’ collective works, any incidental display of those 
+individual contributions is permissible. 
+
+
+b. The Updated Encyclopedia 
+
+
+Plaintiffs’ narrow reading of defendants’ reproduction 
+and revision rights is informed not only by the absence of 
+any “display” rights under Section 201(c), but also by the 
+examples of revisions included in the pertinent legislative 
+history. In particular, plaintiffs rely upon the following 
+passage of the House Report accompanying Section 201(c): 
+
+
+Under the language of this clause a publishing 
+company could reprint a Contribution from one 
+issue in a later issue of its magazine, and could 
+reprint an article from a 1980 edition of an 
+encyclopedia in a 1990 revision of it; the publisher 
+could not revise the contribution itself or include 
+it in a new anthology or an entirely different 
+magazine or other collective work. 
+
+
+H.R. Report No. 94-1476, at 122-23 (1976). To plaintiffs, 
+the modest reach of the encyclopedia example suggests a 
+natrow scope to the term revision, one not contemplating 
+new technologies or significant alterations of format and 
+organization. 
+
+
+For several reasons, plaintiffs are mistaken to approach 
+the encyclopedia example as the outer boundary of 
+
+
+55a 
+Appendix B 
+
+
+permissible revision. Foremost, the language of Section 
+201(c) does not support the sort of media restriction that 
+plaintiffs infer from the legislative history. Cf, Demarest v. 
+Manspeaker, 498 U.S. 184, 190 (1991) (“When we find the 
+terms of a statute unambiguous, judicial inquiry is compleie 
+except in rare and exceptional circumstances.’’). Indeed, 
+Section 201(c) contains no express limitation upon the 
+medium in which a revision can be creatéd. To the contrary, 
+“any revision” of a collective work is permissible, provided 
+it is a revision of “that collective work.” 
+
+
+Plaintiffs attribute the absence of any express prohibition 
+on electronic revisions to the fact that electronic data bases 
+were not a part of the “Congressional consciousness” at the 
+time that Section 201(c) was drafted. (Pl.s’ Memo. Supp. 
+Summ. J. at 41.) It is more accurate to say that Congress 
+was aware of such technologies, but did not fully understand 
+their implications. See Arthur R. Miller, Copyright 
+Protection For Computer Programs, Databases, And 
+Computer Generated Works: Is Anything New Since 
+CONTU?, 106 Harv. L. Rev. 977, 979 (1993). Recognizing 
+its ignorance in such matters, Congress expressly declined 
+— as of the time it passed the 1976 Act — to settle the 
+copyright implications of “automatic systems capable of 
+storing, processing, retrieving, or transferring information 
+...” 17 U.S.C. § 117 (repealed by Computer Software 
+Protection Act, Pub. L. No. 96-517, § 117, 94 Stat. 3028 
+
+
+9. As explained in Section III.B.3., infra, a collective work is 
+defined not by the medium in which it appears, but by its original 
+selection and organization of articles and other materials. See Feist 
+Publications, Inc. v. Rural Telephone Service Company, Inc., 499 
+U.S. 340 (1991). 
+
+
+56a 
+Appendix B 
+
+
+(1980)). Congress determined that such developing computer 
+technologies required continued investigation, and organized 
+a study of the matter by the National Commission on New 
+Technological Uses of Copyrighted Works (CONTU). H.R. 
+Rep. No. 1476, 94th Cong., 2d Sess. 116 (1976). In 1980, 
+after CONTU determined that the 1976 legislation would 
+afford “the desired substantive legal protection for 
+copyrighted works which exist in machine readable form,” 
+Congress repealed the original Section 117. Jd. at 40. 
+Plaintiffs invoke this history, particularly the initial 
+reluctance of Congress to delve into the realm of computer 
+technologies, as evidence that Section 201(c) was not 
+intended to vest defendants with electronic rights in their 
+collective works. 
+
+
+The legislative history that plaintiffs describe undercuts 
+their argument more than it advances it. The fact that 
+Congress initially saw the need to pass Section 117 is strong 
+indication that, in the absence of such an explicit limitation, 
+it is to be presumed that the terms of the 1976 Act encompass 
+all variety of developing technologies. With the repeal of 
+Section 117, this presumption is restored with respect to 
+computers. Thus, there is no remaining reason to foreclose 
+the possibility of an electronic “revision” of a collective 
+work. 
+
+
+As defendants emphasize, the 1976 Act was plainly 
+crafted with the goal of media neutrality in mind. See 
+Register’s Report on the General Revision of the U.S. 
+Copyright Law, included in Nimmer at Volume 5, Appendix 
+14 at 14-8 (“technical advances have brought in new 
+industries and new methods for the reproduction and 
+
+
+S7a 
+
+
+Appendix B 
+
+
+dissemination of the ... works that comprise the subject 
+matter of copyright... . In many respects, the [1909 Act] is 
+uncertain, inconsistent, or inadequate in its application to 
+present-day conditions.”’); see also Copynght Law Revision: 
+Hearing on H.R. 4347, 5680, 6831, 6835 Before 
+Subcommittee No. 3 of the House Committee on the Judiciary, 
+89th Cong., Ist Sess. 57 (1965) (testimony of George D. 
+Cary, Deputy Register of Copyrights: “We have tried to 
+phrase the broad rights granted in such a way that they can 
+be adapted as time goes on to each of new advancing 
+media.”’). Key terms of the Act are defined to accommodate 
+developing technologies. See, e.g., 17 U.S.C. § 101 (defining 
+“copies” in terms of “any method now known or later 
+developed”; defining “literary works” as works “expressed 
+in words, numbers, or other verbal or numerical symbols or 
+indicia, regardless of the nature of the material objects, such 
+as books, periodicals, manuscripts, phonorecords, film, tapes, 
+disks, or cards, in which they are embodied.”). Equally 
+telling, none of the provisions of the Act limit copyright 
+protection to existing technologies. The unusual exception 
+of the original Section 117 only demonstrates that Congress 
+took steps to ensure that its media neutral approach could 
+effectively accommodate developing technologies before 
+ultimately determining that the terms of the 1976 Act were 
+fully equipped for the task. 
+
+
+In sum, it is unwarranted simply to assume — on the 
+basis of one example provided in the legislative history of 
+Section 201(c) — that Congress intended for the terms 
+“reproduction” and “revision” to announce a radical 
+departure from the media neutrality otherwise characterizing 
+the Copyright Act of 1976. 
+
+
+é 58a 
+
+
+Appendix B 
+
+
+c. A “Plain Reading” of the Term Revision 
+
+
+Throughout their pleadings, plaintiffs seemingly 
+presume that a “revision,” by its plain meaning, must be 
+nearly identical to an original. Particularly in the context of 
+the Copyright Act of 1976, this is not so obvious. Conceived 
+as a “revision” of the 1909 Act, the 1976 Act thoroughly 
+changed the face of copyright law in the United States. See 
+Barbara Ringer, First Thoughts On The Copyright Act Of 
+1976, 22 N.Y.L. Sch. L. Rev. 477, 479 (1977). 
+
+
+At a bare minimum, the Copyright Act contemplates that 
+a “revision” can alter a preexisting work by a sufficient 
+degree to give rise to a new original creation. See 17 U.S.C. 
+§ 101. Indeed, a “derivative work,” which is itself an 
+“original work of authorship,” can be created by means of 
+“editorial revisions” to a preexisting work. /d. Thus, even 
+the revised encyclopedia might differ from its predecessor 
+edition by a “substantial, and not merely trivial” degree. See 
+Eden Toys, Inc. v. Florelee Undergarment Co., Inc., 697 F.2d 
+27, 34 (2d Cir. 1982). If “editorial revisions” can transform 
+a work to this extent, the broader “any revisions” language 
+of Section 201(c) suggests the promise of even greater 
+change.'° 
+
+
+10. The Author’s Guild of America, as amicus on plaintiffs’ 
+behalf, argues that plaintiffs’ narrow reading of the term “revision” 
+follows from the dictionary definition of that term: a definition which 
+encompasses “new” and “up-to-date” versions of a prior work. 
+(Memo. Author’s Guild at 7 citing Webster’s Ninth New Collegiate 
+Dictionary 1010 (1983).) This hardly advances plaintiffs’ position. 
+As explained, a derivative work is a “new” version of a preexisting 
+
+(Cont'd) 
+
+
+: May: 
+eel ad + 
+
+
+59a 
+
+
+Appendix B 
+
+
+The structure and language of Section 201(c) confirm 
+that the parameters of a permissible revision are broader than 
+plaintiffs suppose. Section 201(c) authorizes publishers to 
+“reproduce” an individual contribution “as part of ... any 
+revision” of the collective work in which it initially appeared. 
+By allowing only “reproductions” of individual contributions, 
+and not revisions of those contributions, Congress plainly 
+intended to prevent publishers from reshaping or altering 
+the content of individual articles. With this limitation in 
+place, Congress apparently was willing to permit publishers 
+significant leeway, i.e., the leeway to create “any revision” 
+of their collective works. 
+
+
+The legislative history is consistent with this 
+construction of Section 201(c). An early draft version of the 
+provision permitted publishers to reproduce an individual 
+contribution to a collective work “as part of that particular 
+collective work and any revisions of it.” Harriet Pilpel, a 
+prominent author representative, expressed the following 
+concern related to this language: 
+
+
+I have but one question with reference to the 
+wording, and that is with respect to the wording 
+
+
+(Cont'd) 
+
+work; although such a work “borrows substantially” from the work 
+that preceded it, a derivative work is characterized by the fact that 
+it is sufficiently unlike that preexisting work to be termed an original 
+creation. See Eden Toys, 697 F.2d at 34. Moreover, derivative works 
+are routinely created within a different medium than the works upon 
+which they are based. See, e.g., Twin Peaks Productions, Inc. v. 
+Publications International, Ltd., 996 F.2d 1366, 1373 (2d Cir. 1993) 
+(classifying a book as a derivative version of the television program 
+upon which it was based). 
+
+
+60a 
+
+
+Appendix B 
+
+
+at the end of subsection (c): “. . . and any revisions 
+of it.” If that means ‘any revision of the collective 
+work’ in terms of changing the contributions, or 
+their order, or including different contributions, 
+obviously the magazine writers and photographers 
+would not object. But there is an implication, or 
+at least an ambiguity, that somehow the owner of 
+the collective work has a right to make revisions 
+in the contributions to the collective work. This 
+is not and should not be the law, and consequently 
+I suggest that the wording at the end of subsection 
+(c) be changed to make that absolutely clear. 
+
+
+1964 Revision Bill with Discussions and Comments, 89th 
+Cong., Ist Sess., Copyright Law Revision, Part 5, at 9 
+(H. Comm. Print 1965). In other words, authors were 
+comfortable permitting publishers broad discretion in 
+revising their collective works, provided that individual 
+articles would remain intact. Section 201(c) was modified 
+to accommodate these narrow concerns, and it now clarifies 
+that a publisher is not permitted to revise an original 
+contribution to a collective work, but is permitted to 
+reproduce that contribution “as part of... any revision” of 
+“that collective work” in which it initially appeared. 
+
+
+In sum, Section 201(c) does not impose any significant 
+limitations upon publishers through the use of such terms as 
+“privilege,” “reproducing,” or “any revision.” A privilege is 
+
+
+transferrable; a reproduction can occur in any medium; and 
+“any revision” might include a major revision. The key 
+limitation imposed upon publishers under Section 201(c) 
+rests in the fact that publishers are permitted only to 
+
+
+6la 
+
+
+Appendix B 
+
+
+reproduce a particular plaintiff's article “as part of’ a revised 
+version of “that collective work” in which the article 
+originally appeared. 
+
+
+3. Revising “That Collective Work” 
+
+
+Although the “any revision” language of Section 201(c) 
+is broad, a new work must be recognizable as a version of a 
+preexisting collective work if it is to be fairly characterized 
+a revision of “that collective work.” 17 U.S.C. § 201(c). 
+Considering that defendants are prohibited from changing 
+the content of plaintiffs’ individual articles, this gives rise 
+to something which, at first blush, might seem puzzling: how 
+can a particular collective work, one made up entirely of 
+separate contributions, be revised without making changes 
+to those contributions? The resolution of this question rests 
+in the fact that collective works, even to the extent that they 
+consist entirely of individual original contributions, possess 
+distinguishing original characteristics of their own — i.e., 
+they are greater than the sum of their parts. It is therefore 
+possible to revise a collective work by changing the original 
+whole of that work without altering the content of the 
+individual contributions to that work."' 
+
+
+11. Many of the original contributions included in the defendant 
+publishers” periodicals qualify as “works made for hire.” 17 U.S.C. 
+§ 201(b). These pieces are written by employees of the defendant 
+publishers, and the publishers therefore obtain full rights in those 
+articles, including the right to alter those articles. /d. Because 
+defendants do not argue that any of plaintiffs’ articles qualify as 
+works made for hire, the analysis here focuses only on those rights 
+that the publisher defendants acquire over the articles appearing in 
+their publications simply on the basis of the distinct copyright 
+protection they hold in their collective works. 
+
+
+62a 
+Appendix B 
+
+
+In order to identify the original characteristics of a 
+collective work, it is useful to recognize that collective works 
+are a form of compilation. “A compilation is a work formed 
+by the collection and assembling of preexisting materials or 
+of data that are selected, coordinated, or arranged in such a 
+way that the resulting work as a whole constitutes an original 
+work of authorship.” 17 U.S.C. § 101. “Many compilations 
+consist of nothing but raw data — i.e., wholly factual 
+information not accompanied by any original written 
+expression.” Feist Publications, Inc. v. Rural Telephone 
+Service Co., 499 U.S. 340, 345 (1991). Collective works are 
+a unique form of compilation only because they are not made 
+up of facts, but of “separate and independent works” 
+protected as the original contributions of individual authors. 
+17 U.S.C. § 101. 
+
+
+Because it is a “bedrock principle of copyright” that no 
+author may possess a copyright in facts, the Supreme Court 
+has struggled to identify those aspects of factual compilations 
+that might reflect the original contribution of the copyright 
+holders in such works. See Feist, 499 U.S. 340. Ultimately, 
+the Feist Court determined that “[t]he only conceivable 
+expression is the manner in which the compiler has selected 
+and arranged the facts.” Jd. at 349. Because the creator of a 
+collective work, like the creator of any compilation, has no 
+rights in the component parts of his or her work, this same 
+formulation applies. In other words, the creators of collective 
+works are entitled to rights in those works only to the extent 
+that they have demonstrated creativity in selecting and 
+arranging preexisting materials into an original collective 
+whole. See H.R. Report No. 94-1476, at 122 (explaining that 
+publishers’ “exclusive rights” extent “to the elements of 
+
+
+63a 
+Appendix B 
+
+
+compilation and editing that went into the collective work 
+as awhole...”). It is this original contribution which gives 
+a collective work its unique character, i.e., which makes it 
+identifiable as “that collective work.” 
+
+
+Because compilations, and collective works, are 
+characterized by the fact that they possess relatively little 
+originality, defendants must walk a fine line in their efforts 
+to revise their collective works. Defendants are not permitted 
+to place plaintiffs’ articles into “new anthologies” or “entirely 
+different magazine[s] or other collective work[s],” but only 
+into revisions of those collective works in which plaintiffs’ 
+articles first appeared. See H.R. Report No. 94-1476, at 
+122-23 (1976); see also Quinto v. Legal Times of Washington, 
+Inc., 506 F. Supp. 554 (D.D.C. 1981) (holding that law school 
+newspaper could not authorize a separate District of 
+Columbia newspaper to reprint an article originally published 
+by the law school). If defendants change the original selection 
+and arrangement of their newspapers or magazines, however, 
+they are at risk of creating new works, works no longer 
+recognizable as versions of the periodicals that are the source 
+of their rights. Thus, in whatever ways they change their 
+collective works, defendants must preserve some significant 
+original aspect of those works — whether an original 
+selection or an original arrangement — if they expect to 
+satisfy the requirements of Section 201(c). Indeed, it is only 
+if such a distinguishing original characteristic remains that 
+the resulting creation can fairly be termed a revision of “that 
+collective work” which preceded it. 
+
+
+64a 
+
+
+Appendix B 
+C. Applying Section 201(c) 
+
+
+Even to the extent that they accept that an electronic 
+revision of a collective work is a theoretical possibility, 
+plaintiffs insist that the technologies presently at issue “deal 
+in individual articles and not in collective works.” (Pl.s’ 
+Mem. Supp. Mot. Summ. J. at 37.) For instance, searches 
+retrieve the fill content of individual articles, and not of entire 
+issues. The electronic defendants add coding to individual 
+articles in order to facilitate Boolean searching. Individual 
+articles are stored as separate “files” within the system, where 
+they exist alongside almost countless articles from numerous 
+other publications. Moreover, for the convenience of users, 
+articles are supplemented to make them useful on a stand 
+alone basis; headers appear with each article identifying the 
+author, and the publication and page in which the article 
+appeared. In short, plaintiffs complain that defendants not 
+only fail to preserve their collective works, they actively 
+dismantle those works for purposes of electronically 
+exploiting plaintiffs’ individual contributions.'” 
+
+
+12. Within this framework, plaintiffs struggle to explain their 
+objections to “General Periodicals OnDisc,” which carries 
+photographic images of The New York Times Sunday Magazine and 
+Book Review. Plaintiffs initially argued that these CD-ROMs do 
+not carry full issues of The New York Times, but only discreet 
+sections. The Sunday Magazine and Book Review, however, are self 
+contained periodicals, i.e., collective works, and defendants are 
+therefore entitled to reproduce them. 
+
+
+Ata December 10, 1996 hearing, plaintiffs turned their attention 
+to the abstracts accompanying the image based discs, arguing that 
+these paragraph length synopses constitute unauthorized derivative 
+
+(Cont’d) 
+
+
+65a 
+
+
+Appendix B 
+
+
+1. Aspects Of Defendants’ Periodicals Preserved 
+Electronically 
+
+
+In order to evaluate plaintiffs’ contention that NEXIS 
+and the disputed CD-ROMs “remove everything thai 
+constitutes the originality” of the publisher defendants’ 
+collective works, it is necessary first to identify the 
+distinguishing original characteristics of those works. 
+(10/17/96 Tr. at 38.) To the extent that defendants’ 
+publications reveal an original selection or arrangement of 
+materials, the Court must then determine whether these 
+characteristics are preserved electronically. This two step 
+approach is closely analogous — virtually identical — to 
+the analysis undertaken by those courts confronted with 
+claims of copyright infringement brought by the creators of 
+factual compilations. See, e.g., Feist, 499 U.S. 340; Lipton 
+v. Nature Co., 71 F.3d 464 (2d Cir. 1995); CCC Information 
+Services, Inc. v. MacLean Hunter Reports, Inc., 44 F.3d 61 
+(2d Cir. 1994), cert. denied, 116 S. Ct. 72 (1995); Key 
+Publications, Inc. v. Chinatown Today Publishing 
+Enterprises, Inc., 945 F.2d 509 (2d Cir. 1991); Nester ’s Map 
+& Guide, Corp. v. Hagstrom Map Co., 796 F. Supp. 729 
+(E.D.N.Y. 1992). 
+
+
+(Cont'd) 
+
+versions of plaintiffs’ articles. Defendants responded that plaintiffs 
+had not raised this issue in any of their earlier submissions to the 
+Court, and that defendants therefore had not had an opportunity to 
+address the issue in discovery or in argument. The Court has since 
+verified that defendants were correct, and therefore — as indicated 
+during the December hearing — the Court will not consider whether 
+the abstracts infringe plaintiffs’ copyrights in their individual 
+articles. (12/10/96 Tr. at 53.) 
+
+
+66a 
+Appendix B 
+
+
+In the compilation infringement context, courts begin 
+by determining whether the plaintiff's compilation exhibits 
+sufficient originality to merit protection; if there is sufficient 
+originality in either selection or arrangement, it is necessary 
+to determine whether these original elements have been 
+copied into the allegedly infringing work. /d.; see also 
+Skinder-Strauss Associates v. Massachusetts Continuing 
+Legal Education, Inc., 914 F. Supp. 665, 672 (D. Mass. 1995) 
+(“If a party demonstrates that its compilation is sufficiently 
+original to be copyrightable, he must further show copyright 
+infringement ... ‘The plaintiff must ... prove that the 
+copying of copyrighted material was so extensive that it 
+rendered the offending and copyrighted works substantially 
+similar’ as a matter of law.”) (quoting Lotus Development 
+Corp. v. Borland Intern., Inc., 49 F.3d 807, 813 (1st Cir. 
+1995)). A finding that an allegedly infringing work copies 
+original aspects of a protected compilation supports a finding 
+of infringement. There is no infringement where a defendant 
+copies only the component parts of a protected compilation. 
+
+
+In the circumstances of this case, the same analysis leads 
+to opposite results. If the disputed periodicals manifest an 
+original selection or arrangement of materials, and if that 
+originality is preserved electronically, then the electronic 
+reproductions can be deemed permissible revisions of the 
+publisher defendants’ collective works. If, on the other hand, 
+the electronic defendants do not preserve the originality of 
+the disputed publications, but merely exploit the component 
+parts of those works, then plaintiffs’ rights in those 
+component parts have been infringed. That this Court’s 
+revision analysis mirrors the Supreme Court’s compilation 
+infringement analysis reflects a common concern permeating 
+
+
+67a 
+Appendix B 
+
+
+both areas. Courts must ensure that the creators of factual 
+compilations and collective works derive their rights solely 
+from their original contributions, and that they not be 
+permitted to usurp complete control over the component parts 
+of their creations. See 17 U.S.C. § 103(b); see also Nimmer, 
+3.04[A], at 3-20-21 (“only that which is original with the 
+copyright proprietor or his assignor may be protected by his 
+copyright.”’). 
+
+
+In Feist, a telephone utility company claimed that the 
+defendant publishers infringed its copyright in a local “white 
+pages” by incorporating the phone numbers and addresses 
+listed in that directory into a larger phone book covering a 
+broader geographic region. Recognizing that the creator of 
+a phone book cannot have any exclusive rights in the facts 
+set forth in such a volume, the Court considered whether 
+plaintiff had made any significant original contribution in 
+creating its white pages. Though venturing that “the vast 
+majority of compilations” would reflect sufficient originality 
+in selection and in arrangement to merit protection, the Court 
+concluded that “not every selection, coordination, or 
+arrangement will pass muster.” Feist, 499 U.S. at 358-59. 
+Indeed, the plaintiffs’ white pages were “entirely typical,” 
+merely providing an alphabetical listing of all of the phone 
+numbers in a particular region. Jd. at 362. Therefore, the 
+Court held that defendant did not commit copyright 
+infringement by copying the factual information set forth in 
+plaintiffs directory. 
+
+
+In other instances, as envisioned by the Court in Feist, 
+the selection and arrangement of matter in assorted 
+compilations has been sufficiently original to warrant 
+
+
+68a 
+Appendix B 
+
+
+copyright protection. See, e.g., Lipton, 71 F.3d 464; Eckes 
+v. Card Prices Update, 736 F.2d 859 (2d Cir. 1984); Key, 
+945 F.2d 509; CCC, 44 F.3d 61 (holding that computer data 
+base provider infringed plaintiff's copyright in book of used 
+car valuations by including same selection of vehicles and 
+same price estimates in online system); Nester’s Map & 
+Guide Corp., 796 F. Supp. 729 (holding that publisher 
+infringed plaintiffs copyright in a taxi driver’s guide of New 
+York City by producing competing guide copying plaintiffs 
+selection and arrangement of street listings). In Lipton, for 
+instance, the Second Circuit held that defendant infringed 
+plaintiff's copyright in a book of venery — a guide of 
+“collective terms for identifying certain animal groups” — 
+by releasing a compilation consisting of those very terms 
+that plaintiff had selected for inclusion in his book. 71 F.3d 
+at 467. In Eckes, the Court held that defendants infringed 
+plaintiffs’ copyright in a baseball card price guide by 
+publishing a competing price “update” which listed 
+essentially the same 5,000 cards that plaintiffs guide 
+designated as “premium.” 736 F.2d at 861. These and other 
+decisions highlight that “[t]he amount of creativity, required 
+for copyright protection of a compilation is decidedly small,” 
+and that the mere selection of information for publication 
+can often times reflect sufficient originality to warrant 
+copyright protection. Lipton, 71 F.3d at 470. 
+
+
+Although relatively little creativity is required to give 
+rise to an original selection or arrangement of materials 
+within a compilation or collective work, great care is required 
+to preserve that original selection or arrangement in a 
+subsequent work. In order to preserve an original selection 
+of materials, for instance, a subsecuent work must copy more 
+
+
+69a 
+
+
+Appendix B 
+
+
+than a “certain percentage” of those materials. See Worth v. 
+Selchow & Righter Company, 827 F.2d 569, 573 (9th Cir. 
+1987) (holding that defendants’ trivia game did not copy 
+original selection of facts included in plaintiffs trivia 
+encyclopedia where defendant copied only a fraction of those 
+facts), cert. denied, 485 U.S. 977 (1988). As the Second 
+Circuit has put it, the subsequent work cannot differ in 
+selection by “more than a trivial degree” from the work that 
+preceded it. See Kregos v. Associated Press, 937 F.2d 700, 
+710 (2d Cir. 1991) (holding that defendant did not infringe 
+plaintiffs form of baseball pitching statistics by devising a 
+competing form including 6 of the 9 categories of statistics 
+identified by plaintiff); see also Lipton, 71 F.3d at 471 
+(finding that defendant’s allegedly infringing work contained 
+“essentially the same selection” as plaintiffs). 
+
+
+One of the defining original aspects of the publisher 
+defendants’ periodicals is the selection of articles included 
+in those works. Indeed, newspapers and magazines are quite 
+unlike phone books. Far more so even than books of 
+terminology or baseball card guides, selecting materials to 
+be included in a newspaper or magazine is a highly creative 
+endeavor. Zhe New York Times perhaps even represents the 
+paradigm, the epitome of a publication in which selection 
+alone reflects sufficient originality to merit copyright 
+protection. Identifying “all the news that’s fit to print” is 
+not nearly as mechanical (or noncontroversial) a task as 
+gathering all of the phone numbers from a particular region. 
+Indeed, recognizing matters of interest to readers is a highly 
+subjective undertaking, one that different editors and 
+different periodicals undoubtedly perform with varying 
+degrees of success. 
+
+
+70a 
+Appendix B 
+
+
+The defendant publishers’ protected original selection 
+of articles, a defining element of their periodicals, is 
+preserved electronically. Articles appear in the disputed data 
+bases solely because the defendant publishers earlier made 
+the editorial determination that those articles would appeal 
+to readers.'? As a result, the disputed technologies copy far 
+more than a “certain percentage” of the articles selected by 
+the publisher defendants. See Worth, 827 F.2d at 573; see 
+also Kregos, 937 F.2d at 710. Those technologies copy all 
+of the articles which are selected to appear in each daily or 
+weekly issue of The New York Times or Newsday or Sports 
+Illustrated. 
+
+
+Although they recognize that the complete content of 
+all of the articles from each disputed periodical are available 
+electronically, plaintiffs point out that those articles are 
+stored alongside almost countless other articles that appeared 
+in other issues of other periodicals. This immersion into a 
+larger data base does not automatically mean, however, that 
+the defendant publishers’ protected original selection is lost. 
+See CCC, 44 F.3d at 68 n. 8 (“The district court also believed 
+that CCC did not infringe Red Book’s original protected 
+elements because CCC included Red Book’s selection in a 
+more extensive data base. We disagree.”). Indeed, the 
+
+
+13. In this regard, there is no intervening original selection of 
+articles that might render NEXIS or UMI’s CD-ROMs separate 
+collective works. See H.R. Report No. 94-1476, at 122-23 (1976) 
+(“the publisher could not revise the contribution itself or include it 
+in a new anthology or an entirely different magazine or other 
+collective work”). Plaintiffs have not, in any event, contended that 
+NEXIS and the disputed CD-ROMs would qualify as such. (10/17/96 
+Tr. at 32.) 
+
+
+ut Be 
+
+
+Tla 
+
+
+Appendix B 
+
+
+electronic defendants avoid this risk by taking numerous 
+steps to highlight the connection between plaintiffs’ articles 
+and the hard copy periodicals in which they first appeared. 
+For instance, users access plaintiffs’ articles through data 
+bases consisting only of those articles printed in a particuiar 
+identified periodical, or particular periodicals. More 
+importantly, once an article is selected for review, that article 
+is identified not only by author, but by the publication, issue, 
+and page number in which it appeared. Thus, the electronic 
+technologies not only copy the publisher defendants’ 
+complete original “selection” of articles, they tag those 
+articles in such a way that the publisher defendants’ original 
+selection remains evident online.'* 
+
+
+14. The fact that the electronic services repeatedly identify the 
+publication from which each article was obtained undermines the 
+persuasive force of an analogy plaintiffs call upon throughout their 
+briefs. Plaintiffs compare the articles appearing in the data bases 
+with car parts; just as a wrecked vehicle is dissembled to create 
+value in its individual parts, plaintiffs contend that each of the 
+defendant publications quickly lose their value as collective works 
+and are therefore electronically dissembled to create value in the 
+individual articles. Once in a data base, however, an article’s 
+association with a particular periodical plainly enhances the value 
+of that article. Indeed, an article appearing in Newsday or The New 
+York Times is instantly imbued with a certain degree of credibility 
+that might not exist in the case of an article never published, or an 
+article published in other periodicals. To the extent that the articles 
+appearing in electronic form can be likened to car parts, then, it is 
+not those parts that can be fitted into most makes and models, but 
+those that are available only at a premium because they meet the 
+design specifications for a particular model produced by a particular 
+automobile manufacturer. 
+
+
+72a 
+Appendix B 
+
+
+2. Aspects Of Defendants’ Periodicals Not 
+Preserved Electronically 
+
+
+According to plaintiffs, the electronic reproductions 
+cannot reasonably be considered revisions of the publisher 
+defendants’ periodicals because significant elements of each 
+disputed periodical are not preserved electronically. Put 
+differently, plaintiffs object to the Court’s approach because 
+it focuses upon that which is retained electronically, as 
+opposed to that which is lost. Most notably, aside from the 
+image-based CD-ROM, the disputed technologies do not 
+reproduce the photographs, captions, and page lay-out of the 
+defendant publications. With these significant differences 
+between the technological reproductions and the defendant 
+publications, plaintiffs’ position has a certain appeal. There 
+is no avoiding that much of what is original about the 
+disputed publications is not evident online or on disc. 
+Ultimately, however, these changes to the defendant 
+publishers’ hard copy periodicals are of only peripheral 
+concern to the “revision” analysis. 
+
+
+By its very nature, a “revision” is necessarily a changed 
+version of the work that preceded it. As already explained, 
+(Section III.B.2.c., supra), Section 201(c) permits even major 
+changes to collective works. The framers of that provision 
+sought to avoid the exploitation of individual articles, and 
+did not intend to prevent publishers from reworking their 
+collective works in significant ways. In order to permit such 
+reworking, while at the same time preventing changes to the 
+substance of individual articles, Congress determined that 
+publishers would have the leeway to preserve certain original 
+aspects of their creations while discarding others. In the 
+
+
+73a 
+Appendix B 
+
+
+words of Section 201(c), Congress determined that publishers 
+would be permitted to create “any revision” of their collective 
+works. The critical question for the Court, then, is not 
+whether the electronic reproductions are different from the 
+publisher defendants’ collective works; it is inevitable that 
+a revision will be different from the work upon which it is 
+based. The question for the Court is whether the electronic 
+reproductions retain enough of defendants’ periodicals to be 
+recognizable as versions of those periodicals. 
+
+
+Because a collective work typically possesses originality 
+only in its selection and arrangement of materials, it is to be 
+expected that, in a revised version of such a work, either the 
+selection or arrangement will be changed or perhaps even 
+lost. This is precisely what has happened here. Lacking the 
+photographs and page lay out of the disputed periodicals, 
+NEXIS and “The New York Times OnDisc” plainly fail to 
+reproduce the original arrangement of materials included in 
+the publisher defendants’ periodicals. By retaining the 
+publisher defendants’ original selection of articles, however, 
+the electronic defendants have managed to retain one of the 
+few defining original elements oi the publishers’ collective 
+works. In other words, NEXIS and UMI’s CD-ROMs carry 
+recognizable versions of the publisher defendants’ 
+newspapers and magazines. For the purposes of Section 
+201(c), then, defendants have succeeded at creating “any 
+revision[s]” of those collective works. 
+
+
+The Court finds further support for its holding in the 
+language of those compilation infringement cases that have 
+already informed so much of the analysis in this decision. In 
+particular, a work that copies either the original selection or 
+
+
+74a 
+Appendix B 
+
+
+the original arrangement of a protected compilation is 
+“substantially similar” to that compilation for copyright 
+purposes. See Key, 945 F.2d at 514 (“If the Galore Directory 
+is substantially similar to the 1989-90 Key directory with 
+regard to that arrangement of categories or that selection of 
+businesses, then a finding of infringement can be supported.”’) 
+(emphasis added). In other words, where a compilation 
+possesses both an original arrangement and an original 
+selection, a substantial similarity persists even where the 
+original arrangement is sacrificed. Jd. Thus, because the 
+electronic data bases preserve defendants’ original selection 
+of articles, those data bases are “substantially similar,” as a 
+‘matter of law, to defendants’ periodicals.'° 
+
+
+15. “Substantial similarity,” as a term or art, perhaps often times 
+overstates the actual resemblance between two works. In particular, 
+relatively little copying is required to render an allegedly infringing 
+work “substantially similar” to a wholly original creation. See, e.g., 
+Twin Peaks, 996 F.2d at 1372 (“the concept of similarity embraces 
+not only global similarities in structure and sequence, but localized 
+similarity in language.”); Harper & Row Publishers v. Nation 
+Enterprises, 471 U.S. 539 (1985) (finding infringement where 
+defendant published magazine article which excerpted only 300- 
+400 words from President Ford’s as yet unreleased memoirs). 
+Substantial similarity, however, is a more exacting standard in the 
+compilation and collective work context. See Key, 945 F.2d at 514. 
+Indeed, substantial similarity depends upon the copying of “those 
+elements, and only those elements, that provide copyrightability to 
+the allegedly infringed compilation.” Jd. Thus, to a greater extent 
+than in other areas of copyright law, a finding that a work shares a 
+substantial similarity with a compilation or a collective work 
+provides a fair, if imperfect, indicator that that work actually bears 
+a significant resemblance to the work upon which it is based. 
+
+
+75a 
+
+
+Appendix B 
+
+
+By invoking the “substantial similarity” test of the 
+compilation infringement cases, the Court does not mean to 
+declare a fixed rule by which a revision of a particular 
+collective work is created any time an original selection or 
+arrangement is preserved in a subsequent creation. In certain 
+circumstances, it is possible that the resulting work might 
+be so different in character from “that collective work” which 
+preceded it that it cannot fairly be deemed a revision. The 
+Court need not speculate or hypothesize as to this possibility, 
+however, because the electronic reproductions do more than 
+merely preserve a defining element of the publishers’ 
+collective works. Those technologies preserve that element 
+within electronic systems which permit users to consult 
+defendants’ periodicals in new ways and with new efficiency, 
+but for the same purposes that they might otherwise review 
+the hard copy versions of those periodicals. Indeed, in the 
+broadest sense, NEXIS and CD-ROMs serve the same basic 
+function as newspapers and magazines; they are all sources 
+of information on the assorted topics selected by those editors 
+working for the publisher defendants.'® 
+
+
+16. Plaintiffs would likely contend that the Court mischaracterizes 
+the “basic function” of a newspaper or magazine by failing to appreciate 
+that hard copy newspapers and electronic data bases are put to very 
+different uses. Plaintiffs propose that people read newspapers to get 
+the day’s news, whereas they consult data bases and CD-ROMs for 
+research purposes. A newspaper does not cease to be a newspaper, 
+however, in the event that it comes to be used primarily for research 
+purposes. Once included in the stacks of a library, for instance, a 
+complete issue of The New York Times is undoubtedly still an issue of 
+The New York Times despite the fact that it would likely be consulted 
+only for particular articles identified by researchers in periodical indices. 
+In this sense, NEXIS and the CD-ROMs do not fail to reproduce 
+versions of defendants’ periodicals; they simply store those versions 
+within something akin to an electronic research library. 
+
+
+76a 
+
+
+Appendix B 
+
+
+In sum, if NEXIS was produced without the permission 
+of The New York Times or Newsday or Time, these 
+publishers would have valid claims of copyright infringement 
+against MEAD. If “General Periodicals OnDisc” or “The 
+New York Times OnDisc” was produced without the 
+permission of The New York Times, that publisher would 
+have a valid claim of infringement against UMI. In other 
+words, absent a consideration such as fair use, the defendant 
+publishers would be able to recover against the electronic 
+defendants for creating unauthorized versions of their 
+periodicals. See 17 U.S.C. § 107 (describing those circumstances 
+in which the unauthorized creation of a substantially similar 
+version of an original work is excused as “fair use”). The 
+Court ts-unable to conclude that these electronic versions 
+can be “substantially similar” to defendants’ collective works 
+for some purposes, without at least qualifying as “any 
+revision[s]” of those works for present purposes. 17 U.S.C. 
+§ 201(c). This is particularly so in light of the fact that these 
+technologies preserve this substantial similarity while 
+retaining the basic character of the publisher defendants’ 
+periodicals.'’ 
+
+
+17. Plaintiffs devote considerable attention to the arrangements 
+entered into between the publisher defendants and the electronic 
+defendants. For instance, plaintiffs emphasize that The New York 
+Times, in one of its license agreements with MEAD, expressly 
+prohibits NEXIS from producing “facsimile reproductions” of The 
+New York Times. (Pl.s’ Mot. Summ. J. Ex. 38 at M003642.) In its 
+first contract with UMI, on the other hand, The New York Times 
+grants UMI the exclusive right to reproduce full images of the 
+newspaper and its sections. (P].s’ Mot. Summ. J. Ex. 39 U007357.) 
+Plaintiffs argue that such arrangements demonstrate that The New 
+York Times recognizes that it is profiting from plaintiffs’ individual 
+
+(Cont’d) 
+
+
+77a 
+
+
+Appendix B 
+
+
+3. Section 201(c) And The Rights Of Authors 
+
+
+Plaintiffs are adamant that a ruling for defendants in this 
+case leaves freelance authors without any significant 
+protection under the 1976 Act. This result, according to 
+plaintiffs, cannot be reconciled with the fact that the passage 
+of Section 201(c) — and the dismantling of indivisibility — 
+represented an important victory for individual authors. 
+
+
+As an initial matter, plaintiffs exaggerate the 
+repercussions of this decision. The electronic data bases 
+retain a significant creative element of the publisher 
+defendants’ collective works. In numerous other conceivable 
+circumstances, Section 201(c) would apply to prevent the 
+exploitation, by publishers, of individual articles. The New 
+York Times, for instance, cannot sell a freelance article to 
+be included in Sports Illustrated. See Quinto, 506 F. Supp. 
+554; see also H.R. Report No. 94-1476, at 122-23 (1976) 
+(“the publisher could not revise the contribution itself or 
+include it in a new anthology or an entirely different 
+magazine or other collective work”). A magazine publisher 
+cannot rework a featured article into a full length book. Cf 
+Oddo v. Ries, 743 F.2d 630, 633-34 (9th Cir. 1984) 
+(explaining that magazine publisher did not acquire the 
+
+
+(Cont’d) 
+
+articles through NEXIS, and from its larger periodical through 
+“General Periodicals OnDisc.” To the contrary, by selling different 
+original aspects of The New York Times to different electronic 
+providers — article selection in the case of MEAD, and visual 
+layout in the case of UMI — the publisher is merely taking advantage 
+of the fact that there is more than one way to revise a collective 
+work. 
+
+
+78a 
+
+
+Appendix B 
+
+
+exclusive right to rework plaintiffs published articles into 
+book form). And publishers cannot create television or film 
+versions of individual freelance contributions to their 
+periodicals. Cf, Abend, 495 U.S. 207 (prohibiting film maker 
+from creating movie version of story first published in a 
+magazine without the permission of the author’s successor 
+in interest). Though these scenarios are perhaps overshadowed 
+by the seeming omnipresence of NEXIS and CD-ROM 
+technology, authors remain protected under Section 201(c). 
+
+
+The Court does not take lightly that its holding deprives 
+plaintiffs of certain important economic benefits associated 
+with their creations. This does not result from any 
+misapplication of Section 201(c), however, but from modern 
+developments which have changed the financial landscape 
+in publishing. In particular, on-line technologies and 
+CD-ROMs did not begin to flourish commercially until the 
+early to mid 1980s.'* Thus, when the Copyright Act was 
+formulated, during the 1960s and early 1970s, the most 
+immediate economic threat to freelance writers was not posed 
+by computer technology, but by the sort of transactions 
+described in the preceding paragraph — e.g., the sale of 
+articles between magazines, television adaptations of stories, 
+etc. Congress responded with a provision targeted to prevent 
+such exploitation. Publishers were left with the right to revise 
+their collective works; a right then perceived to have only 
+limited economic value, but a right that time and technology 
+have since made precious. 
+
+
+18. See Sidney A. Rosenzweig, Don't Put My Article Online!: 
+Extending Copyright’s New-Use Doctrine To The Electronic 
+Publishing Media And Beyond, 143 U. Pa. L. Rev. 899, 929 (1995). 
+
+
+79a 
+
+
+Appendix B 
+
+
+In sum, plaintiffs insist that the framers of Section 201(c) 
+never intended the windfall for publishers permitted under 
+this Court’s ruling. This may well be. If today’s result was 
+unintended, it is only because Congress could not have fully 
+anticipated the ways in which modern technology would 
+create such lucrative markets for revisions; it is not because 
+Congress intended for the term revision to apply any less 
+broadly than the Court applies it today. In other words, 
+though plaintiffs contend mightily that the disputed 
+electronic reproductions do not produce revisions of 
+defendants’ collective works, plaintiffs’ real complaint lies 
+in the fact that modern technology has created a situation in 
+which revision rights are much more valuable than 
+anticipated as of the time that the specific terms of the 
+Copyright Act were being negotiated. If Congress agrees with 
+plaintiffs that, in today’s world of pricey electronic 
+information systems, Section 201(c) no longer serves its 
+intended purposes, Congress is of course free to revise that 
+provision to achieve a more equitable result. Until and unless 
+this happens, however, the courts must apply Section 201(c) 
+according to its terms, and not on the basis of speculation as 
+to how Congress might have done things differently had it 
+known then what it knows now. See ABKCO Music, Inc. v. 
+Stellar Records, Inc., 96 F.3d 60, 65 (2d Cir. 1996) (“what 
+Congress may or may not do in the future to redefine 
+[a copyright] term is not for us to speculate.’’). 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, defendants’ motion for 
+summary judgment is GRANTED. The Clerk of the Court is 
+
+
+80a 
+Appendix B 
+
+
+directed to enter judgment dismissing this action against the 
+remaining defendants in accordance with this Opinion and 
+Order. 
+
+
+SO ORDERED. 
+
+
+Dated: New York, New York 
+August 13, 1997 
+
+
+s/ Sonia Sotomayor 
+Sonia Sotomayor 
+U.S.D.J. 
+
+
+8la 
+
+
+APPENDIX C — JUDGMENT OF THE UNITED 
+STATES DISTRICT COURT FOR THE SOUTHERN 
+DISTRICT OF NEW YORK DATED AND 
+FILED AUGUST 18, 1997 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+93 CIVIL 8678 (SS) 
+
+
+JONATHAN TASINI, MARY KAY BLAKELY, BARBARA 
+GARSON, MARGOT MIFFLIN, SONIA JAFFE ROBBINS, 
+and DAVID S. WHITFORD, 
+
+
+Plaintiffs, 
+— against — 
+
+
+THE NEW YORK TIMES CO., NEWSDAY INC., TIME INC., 
+THE ATLANTIC MONTHLY CO., MEAD DATA CENTRAL 
+CORP., and UNIVERSITY MICROFILMS INC., 
+
+
+Defendants. 
+JUDGMENT 
+
+
+Defendants having moved for summary judgment and 
+the motion having come before the Honorable Sonia 
+Sotomayor, United States District Judge, and the Court 
+thereafter, on August 13, 1997, having rendered its Opinion 
+(79095) and Order granting the defendants’ motion, it is, 
+
+
+ORDERED, ADJUDGED AND DECREED: That for 
+the reasons stated in the Court’s Opinion (79095) and Order 
+
+
+82a 
+Appendix C 
+
+
+of August 13, 1997, defendants’ motion for summary 
+judgment are hereby granted, and judgment is hereby entered 
+dismissing the remaining defendants in accordance with the 
+Court’s Opinion and Order. 
+
+
+DATED: New York, New York 
+August 18, 1997 
+
+
+JAMES M. PARKISON 
+Clerk of Court 
+
+
+BY: s/ [illegible] 
+Deputy Clerk 
+
+
+83a 
+
+
+APPENDIX D — OPINION AND ORDER OF THE 
+UNITED STATES DISTRICT COURT FOR THE 
+SOUTHERN DISTRICT OF NEW YORK 
+DATED OCTOBER 29, 1997 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+93 Civ. 8678 (SS) 
+
+JONATHAN TASINI, MARY KAY BLAKELY, 
+BARBARA GARSON, MARGOT MIFFLIN, SONIA 
+JAFFE ROBBINS, and DAVID S. WHITFORD, 
+
+Plaintiffs, 
+— against — 
+
+THE NEW YORK TIMES CO., NEWSDAY INC., 
+TIME INC., THE ATLANTIC MONTHLY CO., 
+MEAD DATA CENTRAL CORP., and 
+UNIVERSITY MICROFILMS INC., 
+
+
+Defendants. 
+
+
+OPINION AND ORDER 
+
+
+On August 13, 1997, this Court issued an Opinion and 
+Order dismissing plaintiffs’ Complaint, and rejecting the 
+contention that the defendant publishers and electronic 
+service providers had committed copyright infringement by 
+making plaintiffs’ freelance articles available in various 
+
+
+84a 
+Appendix D 
+
+
+electronic formats. Tasini v. New York Times Co., 1997 
+WL 466520, *3 (S.D.N.Y. Aug. 13, 1997). As the basis for 
+its ruling, the Court applied Section 201(c) of the Copyright 
+Act and determined that defendants had properly republished 
+plaintiffs’ individual freelance articles as part of electronic 
+“revisions” of the newspapers and periodicals in which those 
+articles first appeared. 17 U.S.C. § 201(c). 
+
+
+On September 3, 1997, plaintiffs filed a motion for 
+reconsideration, raising a number of objections to the Court’s 
+approach in its Opinion and Order. First, plaintiffs argue that 
+the Court should have ruled for Whitford, one of the 
+complaining freelance authors, upon rejecting Time Inc.’s 
+claim that it had acquired electronic rights in one of 
+Whitford’s articles pursuant to contract. Second, plaintiffs 
+argue that, even accepting the Court’s interpretation of 
+Section 20i(c), there is a disputed question of fact as to 
+whether any of the electronic technologies involved in this 
+case qualify as permissible revisions. Finally, plaintiffs 
+contend that the Court mistakenly accepted defendants’ 
+representations that plaintiffs had failed to raise an 
+infringement claim relating to certain article abstracts created 
+in connection with one of the disputed technologies, “General 
+Periodicals OnDisc.” 
+
+
+For the reasons discussed below, the Court rejects 
+plaintiffs’ motion, and declines to reverse any portion of its 
+earlier decision. ! 
+
+
+1. In its August 13 Opinion and Order, the Court set out a 
+detailed expianation of the facts and allegations pertinent to this 
+dispute. Tasini, 1997 WL 466520, at *1-4. Familiarity with those 
+facts is presumed. 
+
+
+85a 
+
+
+Appendix D 
+DISCUSSION 
+
+
+1. Plaintiff Whitford’s Contract Claim 
+
+
+In its August 13 Opinion, the Court rejected defendant 
+Time Inc.’s claim that it had acquired, by contract, electronic 
+rights in an article written by plaintiff Whitford and first 
+published in the hard copy version of Sports Illustrated. In 
+support of its argument, Time Inc. had invoked a provision 
+of its written agreement with Whitford pursuant to which 
+the publisher acquired “the exclusive right first to publish 
+the Story in the Magazine.” Tasini, 1997 WL 466520, at *3. 
+Determining that the right of “first” publication could not 
+reasonably be stretched into the right to be the first to publish 
+a particular work in any and all mediums, the Court held 
+that the disputed provision did not authorize Time Inc. to 
+make Whitford’s article available on NEXIS some 45 days 
+following its initial hard copy publication. 
+
+
+Having found that Time Inc. failed to acquire electronic 
+rights in Whitford’s article pursuant to its selected contract 
+provision, the Court considered whether Time Inc. — along 
+with those defendants who had not entered into enforceable 
+contracts concerning rights in the disputed articles — had 
+nevertheless obtained those rights by statute. Ultimately, the 
+Court determined that they had. All of the defendants had 
+acted within the scope of their “privileges,” under Section 
+201(c) of the Copyright Act of 1976, by creating electronic 
+“revisions” of their collective works.’ 
+
+
+2. Section 201(c), which the Court analyzed at length in its 
+August 13 Opinion, provides as follows: 
+
+
+(Cont'd) 
+
+
+86a 
+
+
+Appendix D 
+
+
+In their present motion, plaintiffs argue that the Court 
+should have held in Whitford’s favor directly upon rejecting 
+Time Inc.’s contract claim. The Section 201(c) privileges, 
+plaintiffs contend, “appl[y] only ‘[i]n the absence of an 
+express transfer of the copyright or of any rights under it 
+... ” (Memo Recon. at 2 (quoting Section 201(c)).) Because 
+there was an express transfer between Whitford and Time, 
+Inc. — and because defendants failed to show that this 
+transfer reaches NEXIS — plaintiffs contend the Section 
+201(c) privileges simply do not apply in favor of Time Inc. 
+Thus, plaintiffs insist that the Court should have extended 
+the specified statutory privileges only to the remaining 
+defendants, none of whom had entered into any binding 
+agreements concerning rights in the disputed articles. 
+
+
+A. The Court’s Contract Holding 
+Plaintiffs’ argument has considerable appeal, but it 
+
+
+depends upon a misstatement of the Court’s August 13 ruling. 
+The Court did not, as plaintiffs suppose, find that “Whitford 
+
+
+(Cont’d) 
+
+Copyright in each separate contribution to a collective 
+work is distinct from copyright in the collective work 
+as a whole, and vests initially in the author of the 
+contribution. In the absence of an express transfer of 
+the copyright or of any rights under it, the owner of 
+copyright in the collective work is presumed to have 
+acquired only the privilege of reproducing and 
+distributing the contribution as part of that particular 
+collective work, any revision of that collective work, 
+and any later collective work in the same series. 
+
+
+17 U.S.C. § 201(c). 
+
+
+87a 
+
+
+Appendix D 
+
+
+did not expressly transfer electronic rights in his article.” 
+(Memo. Recon. at 4.) Rather, the Court found that the 
+particular contract provision invoked by Time Inc. — the 
+provision extending “first” publication rights to the publisher 
+— did not authorize the electronic repubiication of 
+Whitford’s article. Because only Time Inc. invoked its 
+contract with Whitford, and because Time Inc. invoked only 
+this provision, the Court was not in a position to announce 
+any broader conclusion concerning the extent to which the 
+remainder of the agreement did or did not reach questions of 
+electronic republication. 
+
+The Court noted, however, in its August 13 Opinion, 
+that at least two provisions in the contract between Time 
+Inc. and Whitford potentially encompass rights extending 
+as far as NEXIS. Tasini, 1997 WL 466520, at 7 n. 4. One 
+provision, in particular, grants Time Inc. the following right 
+in Whitford’s article: 
+
+
+(b) the right to republish the Story or any portions 
+thereof in or in connection with the Magazine or 
+in other publications published by Time Inc. 
+Magazine Company, its parents, subsidiaries or 
+affiliates, provided that you shall be paid the then 
+prevailing rates of the publication in which the 
+Story is republished. 
+
+
+Tasini, 1997 WL 466520, at *3 (emphasis added). This 
+provision, with its broad “in connection with” language, 
+appears explicitly to authorize the republication of 
+Whitford’s article as part of a revised version of defendant’s 
+magazine, as appears on NEXIS, provided that Whitford is 
+
+
+88a 
+Appendix D 
+
+
+paid at “prevailing rates.” Recognizing this possibility, the 
+Court deemed it significant that plaintiffs neither raised a 
+breach of contract claim in their complaint or in their briefs 
+before the Court, nor presented any persuasive explanation. 
+as to why the provision did not — despite its seeming breadth 
+— govern Time Inc.’s republication on NEXIS.’ Tasini, 1997 
+WL 466520, at 7 n. 4. The Court was thereby left in the 
+unusual position of dealing with a situation likely governed 
+by contract, while dealing with a plaintiff to press a claim 
+only of infringement. 
+
+
+By taking the unconvincing all or nothing stance that its 
+contract with Time Inc. in no way implicated electronic 
+rights, and by declining to press a breach of contract claim, 
+Whitford framed its arguments in such a way that the Court 
+could not make any conclusive determination as to whether 
+
+
+3. Whitford argued only indirectly that NEXIS dissembles 
+Sports Illustrated to such an extent that it can not even be said that 
+articles are placed online “in connection” with the magazine. This 
+is unconvincing. By placing all of the articles appearing in each 
+issue of Sports Illustrated online, and by identifying each of those 
+articles by the Sports Illustrated issue in which they appeared, 
+NEXIS plainly republishes articles, like Whitford’s, “in connection” 
+with the magazine. In any event, if there is some persuasive evidence 
+that the provision does not apply in such circumstances, Whitford 
+never brought it to the Court’s attention. Cf. Bartsch v. 
+Metro-Goldwyn-Mayer, Inc., 391 F.2d 150, 155 (2d Cir.) (holding 
+that where contract language is broad enough to cover different 
+technological uses, “the burden of framing and negotiating an 
+exception should fall on the grantor.”), cert. denied, 393 U.S. 826 
+(1968); Bourne v. Walt Disney Co., 68 F.3d 621, 631 (2d Cir. 1995) 
+(“in cases where only the scope of the license is at issue, the 
+copyright owner bears the burden of proving that the defendant’s 
+copying was unauthorized.”), cert. denied, 116 S. Ct. 1890 (1996). 
+
+
+89a 
+
+
+Appendix D 
+
+
+Time Inc. had in fact exceeded the full extent of its rights 
+under the contract. The Court was able only to determine 
+that Time Inc. had gone beyond the isolated “first” 
+publication right that it had invoked. Because of the 
+remaining contract questions left unresolved by the parties’ 
+presentations, the Court resorted to the Section 201(c) 
+presumption extending certain limited privileges to 
+publishers. 
+
+
+B. The Presumed Privileges 
+
+
+The Court did not, as plaintiffs argue, act inconsistently 
+with the language of Section 201(c) by applying the 
+presumed privileges despite the existence of a contract 
+between the parties. Just as it is a publisher’s burden to 
+demonstrate that it has acquired rights greater than the 
+presumed privileges, it is an author’s burden to demonstrate 
+that any agreement between the parties limits a publisher to 
+fewer than those privileges. Cf, Bartsch, 391 F.2d 150 (where 
+contract language is broad enough to cover different 
+technological uses, “the burden of framing and negotiating 
+an exception should fall on the grantor’); Bourne v. Walt 
+Disney Co., 68 F.3d at 631 (placing burden on copyright 
+holders to demonstrate that particular use of protected work 
+is unauthorized under existing contract). In light of the 
+deficiencies in its contract presentation, this is a burden that 
+plaintiffs failed to meet. 
+
+
+Whitford seeks to avoid any responsibility for invoking 
+his contract with Time Inc. by taking the position that, where 
+a contract is in place between the parties, the Section 201(c) 
+privileges do not apply, and it becomes the publisher’s 
+
+
+90a 
+Appendix D 
+
+
+burden to demonstrate that its actions are authorized under 
+the agreement. (Memo. Recon. at 2.) Contrary to plaintiffs’ 
+reading, however, Section 201(c) does not provide that the 
+specified privileges apply “only” in the absence of an express 
+transfer of rights. More precisely, the provision indicates 
+that, in the absence of an express transfer of rights, publishers 
+are presumed to acquire “only” the delineated privileges. 
+17 U.S.C. § 201(c). Though subtle, this difference is significant. 
+
+
+Instead of using the term “only” to limit those 
+circumstances in which the specified privileges apply, 
+Section 201(c) uses the term “only” to suggest that the 
+specified privileges represent a floor — i.e., a minimum level 
+of protection which, if unenhanced by express agreement, 
+publishers are generally presumed to possess. In other words, 
+it is implicit in the language of section 201(c) — and explicit 
+in the House Report accompanying that provision — that in 
+the absence of an express transfer of “more,” a publisher is 
+presumed to acquire, at a minimum (i.e., “only”), the 
+delineated privileges. H.R. Report No. 94-1476, at 122 
+(1976). Indeed, Congress viewed this minimum level of 
+protection for the creators of collective works as an “essential 
+counterpart” to the larger presumption favoring the authors 
+of individual contributions. Jd. Thus, because Time Inc. 
+failed to demonstrate that it had obtained rights exceeding 
+the Section 201(c) privileges (i.e., “more”’), the Court limited 
+Time Inc. to “only” those “essential” privileges.‘ 
+
+
+4. The Court recognizes that the circumstances of this case 
+reveal a gap in the language of Section 201(c). By implying that an 
+“express transfer of . . . rights” would necessarily leave a publisher 
+with “more” than the statutory privileges, Congress seemingly 
+
+(Cont'd) 
+
+
+9la 
+
+
+Appendix D 
+
+
+The Section 201(c) privileges, as already emphasized, 
+are not framed as an absolute base line, but as a “presumed” 
+baseline. 17 U.S.C. § 201(c). Where a publisher seeks more 
+protection than these privileges provide, the burden is on 
+that publisher to demonstrate that it has acquired the desired 
+rights. Conversely, where a writer attempts to deny a 
+publisher certain of the Section 201(c) privileges, as Whitford 
+does, that writer must defeat the statutory presumption by 
+demonstrating an express transfer reflecting the desired 
+limitations. By failing to explain how — despite a seemingly 
+pertinent contract provision — Time Inc. failed to acquire 
+electronic rights under contract, and by failing in the 
+alternative to allege a breach of that provision, Whitford did 
+not make this required showing. Thus, the Court was left 
+
+
+(Cont’d) 
+
+assumed that any single “right” necessarily encompasses all of the 
+specified “privileges.” H.R. Report No. 94-1476, at 122 (1976). Even 
+under plaintiffs’ narrow reading of the term “privilege,” however, 
+it is possible for an express transfer of rights — such as a transfer of 
+“one time” publication rights, or, as here, “first” publication rights 
+— to leave a publisher with less protection than it would otherwise 
+possess under Section 201(c). By failing to take this into account, 
+Section 201(c) speaks directly only to those situations in which there 
+is either no express transfer — in which case the privileges apply 
+— or an express transfer clearly broad enough to displace the 
+presumption limiting a publisher to “only” the specified privileges. 
+The provision is less direct in dealing with those instances, like the 
+present, in which a contract potentially alters the statutory base line, 
+perhaps even in an author’s favor, but neither party has invoked or 
+adequately explained the pertinent contract language. For the reasons 
+explained, the Court finds that, in such a situation, the Section 201(c) 
+presumption applies, leaving a publisher with the specified 
+privileges, and “only” those privileges. 
+
+
+92a 
+
+
+Appendix D 
+
+
+with an insufficient basis either to conclude that Time Inc. 
+had exceeded its rights under the contract, or to hold that 
+Time Inc. had breached that contract. The Court therefore 
+evaluated Whitford’s copyright claim pursuant to the Section 
+201(c) presumptions. 
+
+
+In sum, because both parties failed to displace the 
+Section 201(c) presumption by which publishers are granted 
+certain limited privileges in connection with the individual 
+contributions appearing in their collective works, the Court 
+extended those statutory privileges — and “only” those 
+privileges — to Time Inc. 
+
+
+C. Defendants’ Request For Reconsideration 
+
+
+As part of their opposition to plaintiffs’ motion, 
+defendants themselves ask the Court to reconsider its 
+determination that first publication rights do not reach 
+NEXIS. According to defendants, nothing could be “more 
+basic” than that the right “first to publish” in a particular 
+“magazine” in no way “circumscribe [s]” a publisher’s right 
+to reissue that article in future publications of that same 
+magazine, even in different formats. (Opp. at 8 n. 5, 9 n. 6.) 
+There are at least two problems with this formulation which 
+defendants deem so elementary. 
+
+
+First, the Court has never accepted defendants’ 
+characterization that NEXIS carries the same “magazine” in 
+which Whitford’s article initially was published; NEXIS, 
+which strips away many of the elements present in the 
+publishers’ hard copy periodicals, carries a revised version 
+of that magazine. While this satisfies the “any revision” 
+
+
+93a 
+Appendix D 
+
+
+language of Section 201(c), the contract provision upon 
+which Time Inc. relies includes no similar language. Thus, 
+there is no basis for interpreting Time Inc.’s “first” 
+publication right to encompass the right first to publish 
+Whitford’s article in its hard copy magazine and then again 
+— a considerable time later — in a revised electronic version 
+of that magazine. 
+
+
+Second, in defendants’ initial motion, Time Inc. invoked 
+its “first” publication right as the source of its authority to 
+place Whitford’s article on NEXIS, but defendant now 
+suggests only that this contract provision in no way 
+“circumscribe[s]” the publisher’s existing electronic rights. 
+(Opp. at 8 n. 5.) In other words, defendants tacitly accept 
+that Time Inc.’s right to republish Whitford’s article on 
+NEXIS originates from some source other than the cited 
+contract provision. In particular, this authority necessarily 
+derives either from one of the contract provisions that neither 
+party invoked, or from the “privilege” language of Section 
+201(c) as applied by this Court in its August 13 Opinion. 
+
+
+In sum, in light of the arguments advanced by the parties, 
+the Court properly determined, in its August 13 Opinion, 
+that Time Inc.’s “first” publication rights do not reach 
+NEXIS, and that the Section 201(c) privileges nevertheless 
+apply in favor of Time Inc. 
+
+
+Il. Section 201(c) As Applied To The Undisputed Facts 
+In reaching its determination that the disputed 
+
+
+technologies carry permissible “revisions” under Section 
+201(c), the Court rejected numerous arguments advanced by 
+
+
+94a 
+
+
+Appendix D 
+
+
+the plaintiffs, all of which were offered in support of two 
+basic conclusions: (i) plaintiffs argued that a revision cannot 
+exist in a medium different from the work that preceded it, 
+and (ii) plaintiffs argued that even if an electronic revision 
+of a hard copy periodical is a theoretical possibility, the 
+particular systems involved in this litigation are incapable 
+of preserving enough of a collective work to generate such a 
+revision. 
+
+
+For purposes of this motion for reconsideration, plaintiffs 
+do not refute the Court’s conclusion that it is at least possible 
+to reproduce or revise a collective work within a medium 
+different than the one in which that work initially appeared.° 
+Instead, plaintiffs argue that the Court improperly resolved 
+a factual dispute by determining that the technologies at issue 
+in this case actually succeed at preserving plaintiffs’ articles 
+as a part of revised versions of the particular collective works 
+in which those articles first appeared. 
+
+
+A. The Court’s Analysis Under Section 201(c) 
+
+
+As a first step in determining whether a recognizable 
+version (i.e., “any revision”) of each of the publisher 
+
+
+5. In reaching this conclusion, the Court detected nothing in 
+the language or history of Section 201(c) supporting the sort of media 
+restriction favored by plaintiffs. Tasini, 1997 WL 466520, at *12- 
+17. The Court further reasoned that any such limitation would be 
+inconsistent with the forward looking and media neutral approach 
+characterizing the Copyright Act generally. /d. Finally, the Court 
+noted that plaintiffs themselves struggled with the copyright status 
+of microfilm, a nonprint photographic reproduction of newspapers 
+and other periodicals. Jd. at *12, n. 7. 
+
+
+95a 
+
+
+Appendix D 
+
+
+defendants’ periodicals is preserved electronically, the Court 
+sought to identify — within the context of a media neutral 
+statute — the defining characteristics of a collective work. 
+Tasini, 1997 WL 466520, at *18-20. Because collective 
+works are a species of compilation, the Court consulted those 
+cases involving copyright infringement claims brought by 
+the creators of other types of compilations, typically factual 
+compilations. /d. The Supreme Court has determined, in such 
+cases, that compilations are protected original creations only 
+to the extent that they evince an original selection or 
+arrangement of materials. See Feist Publications, Inc. v. 
+Rural Telephone Service Co., 499 U.S. 340, 349 (1991). In 
+other words, a compilation — and thus a collective work — 
+gets its unique character not from its individual parts, but 
+from the original manner in which those parts are combined 
+into a collective whole. 
+
+
+Having determined that a distinguishing characteristic 
+of any collective work is its original selection of materials, 
+the Court set out to identify this defining attribute of the 
+disputed periodicals. Tasini, 1997 WL 466520, at *20. In a 
+conclusion that plaintiffs do not contest, the Court found 
+that each publisher’s selection of articles for inclusion in 
+their collective works reveals significant originality and 
+editorial discretion. Jd. Drawing upon its earlier conclusion 
+that the broad “any revision” language of Section 201(c) 
+permits even major revisions, the Court reasoned that this 
+original article selection, if preserved in a subsequent 
+creation, would render that creation at least a recognizable 
+version of the hard copy periodical that preceded it. 
+
+
+In some of the same compilation infringement cases that 
+the Court had already consulted, it had been established that, 
+
+
+96a 
+Appendix D 
+
+
+in order to preserve an original selection of materials, a 
+subsequent creation must incorporate that selection nearly 
+in full. See, e.g., Kregos v. Associated Press, 937 F.2d 700, 
+710 (2d Cir. 1991) (deeming it unlikely that defendant 
+infringed plaintiff's form of baseball pitching statistics by 
+devising a competing form including only 6 of the 9 
+categories of statistics identified by plaintiff); cf Beudin v. 
+Ben & Jerry’s Homemade, Inc., 95 F.3d 1, 2 (2d Cir. 1996) 
+( “Where the quantum of originality is slight and the resulting 
+copyright ‘thin’ ” — as in the case of a compilation — 
+“infringement will be established only by very close copying 
+...”). Importing this principle into the Section 201(c) 
+context, the Court found it significant that the electronic 
+systems carry the publisher defendants’ complete selection 
+of articles, and that — once selected for review — those 
+articles are identified according to the periodicals in which 
+they originally appeared. Indeed, largely because it was 
+undisputed that a defining original characteristic of the 
+publisher defendants’ periodicals is fully preserved both 
+online and on disc, the Court held that the electronic systems 
+are home to revised versions of the publisher defendants’ 
+collective works.° Zasini, 1997 WL 466520, *21. 
+
+
+6. The Court’s holding did not follow automatically from the 
+fact that the electronic systems preserve a significant original aspect 
+of their hard copy counterparts, but was based also upon the Court’s 
+observation that each of the electronic systems could fairly be 
+analogized to a library in which complete issues of hard copy 
+periodicals are made available to researchers interested in locating 
+particular articles of interest. In other words, the electronic systems 
+do not destroy the publishers’ collective works; those systems make 
+revisions of those works available — for traditional purposes —: in 
+new and advanced ways. Tasini, 1997 WL 466520, *23. 
+
+
+97a 
+
+
+Appendix D 
+
+
+After finding that the NEXIS and the CD-ROM 
+technologies qualified as revised versions of their hard copy 
+predecessors, the Court noted the extent to which certain 
+terms of art employed in the compilation infringement 
+context lend further credence to its conclusions. Specificaily, 
+the Court contrasted the “substantial similarity” test 
+employed in compilation infringement cases with the broad 
+“any revision” language of Section 201(c). It would present 
+something of an anomaly, the Court reasoned, if a work could 
+be deemed ‘substantially similar’ to a particular collective 
+work for some copyright purposes without at least qualifying 
+as “any revision” of that same collective work for other 
+purposes under the Act. Jasini, 1997 WL 466520, *22-23. 
+The Court accepted this possibility, however, and 
+emphasized that the electronic systems are substantially 
+similar to their hard copy counterparts, not merely as a 
+technical matter, but in such a way as to preserve the “basic 
+character” of those periodicals. 
+
+
+Finally, the Court acknowledged that its specific holding 
+probably was not contemplated by the framers of Section 
+201(c). Nevertheless, in enacting a media neutral statute 
+employing a broad “any revision” standard, Congress left 
+open the possibility that publishers might ultimately garner 
+— as they now do — tremendous profits from then nascent 
+technologies. Addressing the possibility that modern 
+developments have thereby undercut the original 
+Congressional purpose of protecting authors, this Court 
+simply did not consider it an appropriate judicial function to 
+rework the language or structure of Section 201(c). See 
+Tasini, 1997 WL 466520, *23-24. 
+
+
+98a 
+
+
+Appendix D 
+
+
+B. Plaintiffs’ Alleged Factual Dispute 
+
+
+Purporting to accept the Court’s legal framework, at least 
+fo purposes of their present motion, plaintiffs contend that 
+there is a disputed question as to whether the electronic 
+reproductions are in fact substantially similar to the 
+defendants’ hard copy publications. In support of their 
+argument, plaintiffs identify a litany of ways in which the 
+electronic services are visually unlike their hard copy 
+counterparts. Most notably, and except for General 
+Periodicals OnDisc, those services do not display the 
+photographs, columns and page layout of the hard copy 
+newspapers and periodicals. Moreover, as plaintiffs 
+emphasize, the electronic services contain millions of 
+articles, almost countless more than any particular issue of 
+any one of the disputed publications. | 
+
+
+Aside from reiterating matters squarely addressed by the 
+Court in its August 13 Opinion, 7asini, 1997 WL 466520, 
+*21-23, plaintiffs’ reformulated argument — tied to the 
+Court’s discussion of “substantial similarity” — quite simply 
+misses the point. In the case of a collective work, a substantial 
+similarity exists where either an original selection or an 
+original arrangement is copied into a subsequent work. See, 
+e.g., Key Publications, Inc. v. Chinatown Today Publishing 
+Enterprises, Inc., 945 F.2d 509, 514 (2d Cir. 1991) (“If the 
+Galore directory is substantially similar to the 1989-90 Key 
+directory with regard to that arrangement of categories or 
+that selection of businesses, then a finding of infringement 
+can be supported.”). Moreover, where it is apparent that an 
+entire original selection of materials has been copied into a 
+subsequent work, that work shares a substantial similarity 
+
+
+99a 
+Appendix D 
+
+
+with the work that preceded it, even if the subsequent work 
+includes numerous additional materials, as well. See CCC 
+Information Services, Inc. v. MacLean Hunter Market Reports, 
+Inc., 44 F.3d 61 (2d Cir. 1994) (holding that computer data 
+base provider infringed plaintiffs copyright in book of used 
+car valuations by including same selection of vehicles and 
+same price estimates into larger online system), cert. denied, 
+1168S. Ct. 72 (1995); cf: Harper & Row Publishers v. Nation 
+Enterprises, 471 U.S. 539, 565 (1985) (“ ‘no plagiarist can 
+excuse the wrong by showing how much of his work he did 
+not pirate.’ ’’) (quoting Sheldon v. Metro-Goldwyn Pictures 
+Corp., 81 F.2d 49, 56 (2d Cir. 1936)). Thus, where it can be 
+established that an original selection of materials has in fact 
+been copied into another work, it is appropriate for a court 
+considering a motion for summary judgment to determine 
+— as a matter of law — that a substantial similarity exists.’ 
+
+
+7. By invoking the “ordinary observer” test commonly 
+employed in infringement cases, plaintiffs ignore the unique 
+considerations operating upon that standard as it applies in the 
+compilation context. In many circumstances, a finding of substantial 
+similarity depends upon whether an ordinary observer would 
+consider two works to have a common aesthetic appeal. See 
+Knitwaves, Inc. v. Lollytags Ltd., 71 F.3d 996, 1002 (2d Cir. 1995). 
+In the case of a compilation, however, this test looks more narrowly 
+to whether “the protectible elements, standing alone, are substantially 
+similar.” Jd. Thus, where an entire original selection of materials is 
+copied, even into a work that plainly would not be mistaken for its 
+predecessor, a finding of substantial similarity is appropriate. In 
+Lipton, for instance, the Second Circuit detected a substantial 
+similarity between plaintiff's book of terminology and a scarf 
+adorned with “essentially the same” terms selected by plaintiff for 
+inclusion in his compilation. Lipton, 71 F.3d 464, 471. In CCC, as 
+here, the Court identified a substantial similarity between a computer 
+data base and a hard copy publication. 44 F.3d 61. 
+
+
+100a 
+
+
+Appendix D 
+
+
+See, e.g., Lipton v. Nature Co., 71 F.3d 464 (2d Cir. 1995); 
+cf. Rogers v. Koon, 960 F.2d 301, 307 (2d Cir. 1992) 
+(explaining that, where it is clear that an original element of 
+one work has been copied into another, it is appropriate for 
+a court to determine, at summary judgment, that a substantial 
+similarity exists between the two). 
+
+
+In this case, there can be no dispute, and has been no 
+dispute, with respect to two critical facts. First, the selection 
+of articles included in each of the disputed periodicals 
+constitutes an original and defining characteristic of those 
+periodicals. Second, all of the articles printed in each issue 
+of the disputed hard copy periodicals are made available 
+electronically and, once online or on disc, those articles are 
+displayed with headers identifying the hard copy periodicals 
+in which they originally appeared. (Pl.s’ Memo. Supp. Mot. 
+Summ. J. at 21 (“each display . . . contains not only the text 
+of the articles or stories that have been copied, but also... 
+the title of the article, the author’s name, the origin of the 
+article (publication and date) .. .”).) On the basis of these 
+undisputed facts, and as other courts have done in the 
+analogous circumstances of compilation infringement cases, 
+this Court was able to determine — as a matter of law — the 
+extent of the similarity between the different works before 
+it. 
+
+
+By listing the numerous ways in which the electronic 
+reproductions are different from the paper periodicals, and 
+by suggesting that a jury might therefore have found an 
+absence of any substantial similarity, plaintiffs attempt to 
+turn the Court’s legal analysis on its head. As explained at 
+length in the August 13 Opinion, a revision is identified on 
+
+
+10la 
+Appendix D 
+
+
+the basis of what it retains of a prior work and not on the 
+basis of what it loses. Tasini, 1997 WL 466520, *21-23. This 
+grows out of the fact that the “any revision” language of 
+Section 201(c) contemplates even major revisions to a 
+collective work. A major revision, by its very nature, will 
+be different in substantial ways from the work that preceded 
+it. So long as a work retains a significant defining 
+characteristic of an earlier work, however, it remains a 
+recognizable version of that work. This is generally enough 
+to qualify a work as “any revision” of a particular collective 
+work for purposes of Section 201(c), and it is enough also to 
+qualify two works as substantially similar for other purposes 
+at copyright law. Thus, because there is no factual dispute 
+as to whether the disputed technologies preserve the complete 
+original selection of articles included in the publisher 
+defendants’ periodicals, the Court had ample factual basis 
+— within the legal framework that it employed — to hold in 
+defendants’ favor. 
+
+
+Finally, it is worth reiterating that the Court did not, 
+strictly speaking, hold for defendants under Section 201(c) 
+based solely upon its determination that a substantial 
+similarity exists between the hard copy periodicals and their 
+electronic counterparts. It is true that much of the Court’s 
+analysis was informed by the compilation infringement cases, 
+which necessarily implicate questions of substantial 
+similarity. More important for the Court’s purposes, 
+however, those decisions provide guidance in identifying the 
+distinguishing original characteristics of any particular 
+collective work, an inquiry necessarily critical whenever it 
+is a court’s task to compare such a work with a subsequent 
+creation. Having made this inquiry, this Court was able to 
+
+
+102a 
+Appendix D 
+
+
+determine, as a matter of law, that the disputed systems store 
+revised versions of the publisher defendants’ hard copy 
+periodicals. 
+
+
+III. “General Periodicals OnDisc” Abstracts 
+
+
+Plaintiffs finally argue that they had objected that the 
+article abstracts provided as a part of “General Periodicals 
+OnDisc” themselves constitute unauthorized derivative 
+versions of their articles, and that — in a footnote — the 
+Court mistakenly accepted defendants’ representation that 
+the issue had never been raised. Zasini, 1997 WL 466520, 
+*18, n. 12 (declining to consider “whether the abstracts 
+infringe plaintiffs’ copyrights in their individual articles.”). 
+This reflects both a misunderstanding as to exactly which 
+issues the Court declined to consider, and a 
+mischaracterization as to exactly which issues plaintiffs had 
+advanced. 
+
+
+Plaintiffs’ basic position throughout this litigation has 
+been that the electronic defendants dissemble the publishers’ 
+collective works in order to obtain value in plaintiffs’ 
+individual articles. This argument had its greatest force in 
+connection with NEXIS and “The New York Times OnDisc,” 
+both of which are text based systems which store and display 
+articles individually. Plaintiffs had a considerably more 
+difficult time advancing their position in connection with 
+“General Periodicals OnDisc,” an image based system which 
+photographically reproduces complete sections of The New 
+York Times. Indeed, plaintiffs struggled to find some way 
+in which to distinguish this system from microfilm, a 
+photographic reproduction which plaintiffs could not readily 
+
+
+103a 
+Appendix D 
+
+
+deem impermissible under Section 201(c). (Mot. Recon. at 
+15-16.) It 1s in connection with this effort that plaintiffs 
+invoked the article abstracts. 
+
+
+As they recount in their present motion, plaintiffs argued 
+that the article abstracts render General Periodicals OnDisc 
+a “marriage between two data bases.” (Memo. Supp. Recon. 
+at 13, 16.) More particularly, plaintiffs reasoned that General 
+Periodicals OnDisc is not a pure image based system, but a 
+hybrid system including a text based component. /d. This 
+text based component, plaintiffs argued, operates to 
+dismantle the publishers’ collective works by permitting 
+users to identify and to access individual articles appearing 
+within the system. In short, plaintiffs maintained that the 
+abstracts render General Periodicals OnDisc more akin to 
+NEXIS and The New York Times OnDisc than to microfilm. 
+(Memo. Supp. Recon. at 18.) 
+
+
+Because the Court found that even NEXIS and The New 
+York Times OnDisc qualify as a permissible revisions, 
+plaintiffs’ efforts at finding a text based component to 
+General Periodicals OnDisc amounted to an exercise in 
+futility. Whether conceived as a text based or image based 
+or hybrid system, General Periodicals OnDisc — like NEXIS 
+and The New York Times OnDisc — preserves enough of 
+each disputed periodical (i.e., the publisher defendants’ 
+original selection of articles) to qualify under the “any 
+revision” language of Section 201(c). In whatever way 
+plaintiffs’ articles are accessed and displayed, they are 
+preserved within the disputed systems as part of revised 
+versions of the periodicals in which they initially appeared. 
+Having reached this conclusion, the Court did not overlook 
+
+
+104a 
+Appendix D 
+
+
+plaintiffs’ argument that General Periodicals OnDisc is not 
+a true image based system; the Court simply considered that 
+argument inconsequential. 
+
+
+In expressly declining to address the possibility that the 
+individual article abstracts infringed plaintiffs’ rights in their 
+articles, the Court was responding to a concern unrelated to 
+the “part-text/part-image based” argument that plaintiffs had 
+actually raised in their pleadings. This concern grew out of 
+the Court’s determination that Section 201(c) broadly permits 
+revisions of collective works but only narrowly allows for 
+reproductions of individual articles. Tasini, 1997 WL 466520, 
+at *16. In light of this, the Court raised the possibility that 
+the article abstracts — depending upon their content — 
+might constitute unauthorized derivative versions of each 
+article, instead of something akin to a simple index useful 
+for retrieving the full text of those articles from within the 
+system. It is this narrow concern — a concern which plaintiffs 
+never raised — which the Court declined to consider in its 
+August 13 Opinion. Moreover, plaintiffs never presented the 
+Court with excerpts from the potentially infringing abstracts. 
+Even if it had been their intention to argue thaf those abstracts 
+constitute unauthorized derivative versions of the 
+corresponding articles, plaintiffs thereby failed to make out 
+a prima facie case of infringement. See Eckes v. Card Prices 
+Update, 736 F.2d 859, 861 (2d Cir. 1984) (explaining that it 
+is the burden of any plaintiff claiming copyright infringement 
+to prove that an allegedly infringing work copies protected 
+elements of the copyright holder’s protected work). 
+
+
+105a 
+
+
+Appendix D 
+CONCLUSION 
+
+
+For the reasons set forth above, plaintiffs motion for 
+reconsideration is DENIED. 
+
+
+SO ORDERED. 
+
+
+Dated: New York, New York 
+October 29, 1997 
+
+
+s/ Sonia Sotomayor 
+Sonia Sotomayor 
+U.S.D.J. 
+
+
+106a 
+
+
+APPENDIX E — ORDER OF THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+DENYING PETITION FOR REHEARING DATED 
+AND FILED APRIL 6, 2000 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+UNITED STATES COURT HOUSE 
+40 FOLEY SQUARE 
+NEW YORK 10007 
+
+
+ROSEANN B. MACKECHNIE 
+CLERK 
+
+
+At a stated term of the United States Court of Appeals 
+for the Second Circuit, held at the United States Courthouse, 
+Foley Square, in the City of New York, on the 6th day of 
+April two thousand. 
+
+Dkt No: 97-9181 
+Tasini 
+Plaintiff-Appellant 
+Vv 
+The New York Times 
+Defendant-Appellee 
+A petition for panel rehearing and a petition for rehearing 
+
+
+en banc having been filed herein by the appellee The New 
+York Times. 
+
+
+107a 
+
+
+Appendix E 
+
+
+Upon consideration by the panel that decided the appeal, 
+it is Ordered that said petition for rehearing is DENIED. 
+
+
+It is further noted that the petition for rehearing en banc has 
+been transmitted to the judges for the court in regular active 
+service and to any other judge that heard the appeal and that 
+no such judge has requested that a vote be taken thereon. 
+
+
+FOR THE COURT 
+
+
+ROSEANN B. MACKECHNIE, 
+Clerk 
+
+
+By: s/ Beth J. Meador 
+Beth J. Meador, 
+Administrative Attorney 
+
+
+108a 
+
+
+APPENDIX F — ORDER OF THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+GRANTING MOTION FOR STAY OF MANDATE 
+DATED AND FILED APRIL 26, 2000 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+* * * 
+
+
+Docket Number 
+97-9181 
+
+
+JONATHAN TASINI, et al., 
+Plaintiffs-Appellants, 
+<i ile 
+THE NEW YORK TIMES, et al., 
+Defendants-Appellees. 
+MOTION INFORMATION FORM 
+
+
+Motion for stay of mandate pending 
+filing of writ of certiorari 
+
+
+MOTION BY: (Name, address and tel. no. of law firm and 
+of attorney in charge of case) 
+
+
+Bruce P. Keller, Esq. 
+Debevoise and Plimpton 
+875 3rd Ave. 
+
+NY, NY 10022 
+212-909-6000 
+
+
+109a 
+
+
+Appendix F 
+
+
+OPPOSING COUNSEL: (Name, address and tel. no. of law 
+firm and of attorney in charge of 
+case) 
+
+
+Patricia A. Felch, Esq. 
+Banner & Whitcoff, Ltd. 
+10 S. Wacker Dr. 
+Chicago IL 60606 
+312-861-1400 
+
+
+Emily M. Bass, Esq. 
+Gaynor & Bass 
+
+535 Sth Ave. 
+
+NY, NY 10017 
+212-297-3383 
+
+
+Has consent of opposing counsel: 
+
+
+A. been sought? O Yes &I No 
+B. been obtained? [1 Yes &] No 
+
+
+Has service been effected? K] Yes OJ No 
+
+
+Is oral argument desired? OJ Yes &] No 
+
+
+* * * 
+
+
+Brief statement of the relief requested: 
+
+
+Stay of this Court’s mandate pending filing of petition for 
+writ of certiorari with the U.S. Supreme Court. 
+
+
+110a 
+Appendix F 
+
+
+s/ Bruce P. Keller 
+
+By: (Signature of Attorney) 
+
+Signed name must be printed beneath. 
+Bruce P. Keller 
+
+
+The New York Times Co., Inc., Newsday, Inc., 
+Time Inc., Mead Data Central Corp. and 
+University Microfilms 
+
+Appearing for: (Name of Party) 
+
+
+Appellee or Respondent: OJ Plaintiff [&l Defendant 
+ORDER 
+
+
+BEFORE: HON. RALPH K. WINTER, Chief Judge, 
+HON. ROGER J. MINER, HON. ROSEMARY S. 
+POOLER, C.JJ 
+
+
+IT IS HEREBY ORDERED that the motion for stay of 
+mandate be and it hereby is GRANTED. 
+
+
+FOR THE COURT 
+ROSEANN B. MACKECHNIE, 
+Clerk 
+
+
+by 
+
+
+s/ Beth J. Meador 
+Beth J. Meador 
+Administrative Attorney 
+
+
+llla 
+
+
+APPENDIX G — ORDER OF THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+GRANTING MOTION FOR EXTENSION OF STAY OF 
+MANDATE PENDING FILING OF WRIT OF 
+CERTIORARI DATED AND FILED JULY 24, 2000 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+Docket Number 97-9181 
+JONATHAN TASINI, et al., 
+Plaintiffs-Appellants, 
+vs 
+THE NEW YORK TIMES, et al., 
+Defendants-Appellees. 
+MOTION INFORMATION FORM 
+
+
+Motion for stay of mandate pending 
+filing of writ of certiorari 
+
+
+MOTION BY: 
+(Name, address and tel. no. of law firm and of attorney in 
+charge of case) 
+
+
+Bruce P. Keller, Esq. 
+Debevoise & Plimpton 
+875 3rd Av. 
+
+
+NY, NY 10022 
+212-909-6000 
+
+
+112a 
+
+
+Appendix G 
+
+
+OPPOSING COUNSEL: 
+(Name, address and tel. no. of law firm and of attorney in 
+charge of case) 
+
+
+Patricia A. Felch, Esq. 
+Banner & Witcoff, Ltd. 
+10 S. Wacker Dr. 
+Chicago, IL 60606 
+312-861-1400 
+
+
+Emily M. Bass, Esq. 
+Gaynor & Bass 
+
+535 Sth Ave 
+
+NY, NY 10017 
+212-297-3385 
+
+
+Has consent of opposing counsel: 
+
+
+A. been sought? CO) Yes &] No 
+B. been obtained? 1) Yes &] No 
+
+
+Has service been effected? K] Yes OJ No 
+
+
+Is oral argument desired? OJ Yes {&] No 
+
+
+* * * 
+
+
+Brief statement of the relief requested: 
+
+
+Thirty day extension of the stay of this Court’s mandate 
+pending filing of petition for writ of certiorari with the U.S. 
+Supreme Court. 
+
+
+113a 
+
+
+Appendix G 
+
+
+s/ Bruce P. Keller 
+
+By: (Signature of Attorney) 
+
+Signed name must be printed beneath. 
+Bruce P. Keller 
+
+
+The New York Times Co., Inc., Newsday, Inc. 
+Time Inc., Mead Data Central Corp. and 
+University Microfilm 
+
+Appearing for: (Name of Party) 
+
+
+Appellee or Respondent: O) Plaintiff Defendant 
+Date: June 30, 2000 
+— ORDER - 
+
+
+BEFORE: Hon. Ralph K. Winter, Chief Judge, Hon. Roger 
+J. Miner, Hon. Rosemary S. Pooler, Circuit Judges 
+
+
+IT IS HEREBY ORDERED that the motion be 
+GRANTED. 
+
+
+FOR THE COURT: 
+ROSEANN B. MacKECHNIE, 
+Clerk 
+
+By: 
+
+
+s/ Beth J. Meador 
+Beth J. Meador, 
+Administrative Attorney 
+
+
+114a 
+
+
+APPENDIX H — SELECTED PROVISIONS OF THE 
+COPYRIGHT ACT OF 1976 
+
+
+17 U.S.C. § 201(c) 
+
+
+§ 201. Ownership of copyright 
+
+
+* * * 
+
+
+(c) Contributions to collective works. Copyright in each 
+separate contribution to a collective work is distinct from 
+copyright in the collective work as a whole, and vests initially 
+in the author of the contribution. In the absence of an express 
+transfer of the copyright or of any rights under it, the owner 
+of copyright in the collective work is presumed to have 
+acquired only the privilege of reproducing and distributing 
+the contribution as part of that particular collective work, 
+any revision of that collective work, and any later collective 
+work in the same series. 
+
+
+17 U.S.C. § 101 
+§ 101. Definitions 
+Except as otherwise provided in this title, as used in this 
+
+
+title, the following terms and their variant forms mean the 
+following: 
+
+
+An “anonymous work” is a work on the copies or 
+phonorecords of which no natural person is 
+identified as author. 
+
+
+115a 
+Appendix H 
+
+
+An “architectural work” is the design of a building 
+as embodied in any tangible medium of expression, 
+including a building, architectural plans, or 
+drawings. The work includes the overall form as well 
+as the arrangement and composition of spaces and 
+elements in the design, but does not include 
+individual standard features. 
+
+
+“Audiovisual works” are works that consist of a 
+series of related images which are intrinsically 
+intended to be shown by the use of machines or 
+devices such as projectors, viewers, or electronic 
+equipment, together with accompanying sounds, if 
+any, regardless of the nature of the material objects, 
+such as films or tapes, in which the works are 
+embodied. 
+
+
+The “Berne Convention” is the Convention for the 
+Protection of Literary and Artistic Works, signed at 
+Berne, Switzerland, on September 9, 1886, and all 
+acts, protocols, and revisions thereto. 
+
+
+The “best edition” of a work is the edition, published 
+in the United States at any time before the date of 
+deposit, that the Library of Congress determines to 
+be most suitable for its purposes. 
+
+
+A person’s “children” are that person’s immediate 
+offspring, whether legitimate or not, and any 
+children legally adopted by that person. 
+
+
+A “collective work” is a work, such as a periodical 
+issue, anthology, or encyclopedia, in which a number 
+
+
+116a 
+Appendix H 
+
+
+of contributions, constituting separate and 
+independent works in themselves, are assembled into 
+a collective whole. 
+
+
+A “compilation” is a work formed by the collection 
+and assembling of preexisting materials or of data 
+that are selected, coordinated, or arranged in such a 
+way that the resulting work as a whole constitutes 
+an original work of authorship. The term 
+“compilation” includes collective works. 
+
+
+“Copies” are material objects, other than 
+phonorecords, in which a work is fixed by any 
+method now known or later developed, and from 
+which the work can be perceived, reproduced, or 
+otherwise communicated, either directly or with the 
+aid of a machine or device. The term “copies” 
+includes the material object, other than a 
+phonorecord, in which the work is first fixed. 
+
+
+“Copyright owner”, with respect to any one of the 
+exclusive rights comprised in a copyright, refers to 
+the owner of that particular right. 
+
+
+A work is “created” when it is fixed in a copy or 
+phonorecord for the first time; where a work is 
+prepared over a period of time, the portion of it that 
+has been fixed at any particular time constitutes the 
+work as of that time, and where the work has been 
+prepared in different versions, each version 
+constitutes a separate work. 
+
+
+117a 
+Appendix H 
+
+
+A “derivative work” is a work based upon one or 
+more preexisting works, such as a translation, 
+musical arrangement, dramatization, 
+fictionalization, motion picture version, sound 
+recording, art reproduction, abridgment, 
+condensation, or any other form in which a work 
+may be recast, transformed, or adapted. A work 
+consisting of editorial revisions, annotations, 
+elaborations, or other modifications which, as a 
+whole, represent an original work of authorship, is 
+a “derivative work”’. 
+
+
+A “device”, “machine”, or “process” is one now 
+known or later developed. 
+
+
+A “digital transmission” is a transmission in whole 
+or in part in a digital or other non-analog format. 
+
+
+To “display” a work means to show a copy of it, 
+either directly or by means of a film, slide, television 
+image, or any other device or process or, in the case 
+of a motion picture or other audiovisual work, to 
+show individual images nonsequentially. 
+
+
+An “establishment” is a store, shop, or any similar 
+place of business open to the general public for the 
+primary purpose of selling goods or services in 
+which the majority of the gross square feet of space 
+that is nonresidential is used for that purpose, and 
+in which nondramatic musical works are performed 
+publicly. 
+
+
+118a 
+Appendix H 
+
+
+A “food service or drinking establishment” is a 
+restaurant, inn, bar, tavern, or any other similar place 
+of business in which the public or patrons assemble 
+for the primary purpose of being served food or 
+drink, in which the majority of the gross square feet 
+of space that is nonresidential is used for that 
+purpose, and in which nondramatic musical works 
+are performed publicly. 
+
+
+The term “financial gain” includes receipt, .or 
+expectation of receipt, of anything of value, 
+including the receipt of other copyrighted works. 
+
+
+A work is “fixed” in a tangible medium of 
+expression when its embodiment in a copy or 
+phonorecord, by or under the authority of the author, 
+is sufficiently permanent or stable to permit it to be 
+perceived, reproduced, or otherwise communicated 
+for a period of more than transitory duration. A work 
+consisting of sounds, images, or both, that are being 
+transmitted, is “fixed” for purposes of this title if a 
+fixation of the work is being made simultaneously 
+with its transmission. 
+
+
+The “Geneva Phonograms Convention” is the 
+Convention for the Protection of Producers of 
+Phonograms Against Unauthorized Duplication of 
+Their Phonograms, concluded at Geneva, 
+Switzerland, on October 29, 1971. 
+
+
+The “gross square feet of space” of an establishment 
+means the entire interior space of that establishment, 
+
+
+119a 
+
+
+Appendix H 
+
+
+and any adjoining outdoor space used to serve 
+patrons, whether on a seasonal basis or otherwise. 
+
+
+The terms “including” and “such as” are illustrative 
+and not limitative. 
+
+
+An “international agreement” is — 
+(1) the Universal Copyright Convention; 
+(2) the Geneva Phonograms Convention; 
+(3) the Berne Convention; 
+(4) the WTO Agreement; 
+(5) the WIPO Copyright Treaty; 
+
+
+(6) the WIPO Performances’ and 
+Phonograms Treaty; and 
+
+
+(7) any other copyright treaty to which the 
+United States is a party. 
+
+
+A “joint work” is a work prepared by two or more 
+authors with the intention that their contributions 
+be merged into inseparable or interdependent parts 
+of a unitary whole. ; 
+
+
+“Literary works” are works, other than audiovisual 
+works, expressed in words, numbers, or other verbal 
+or numerical symbols or indicia, regardless of the 
+
+
+120a 
+
+
+Appendix H 
+
+
+nature of the material objects, such as books, 
+periodicals, manuscripts, phonorecords, film, tapes, 
+disks, or cards, in which they are embodied. 
+
+
+“Motion pictures” are audiovisual works consisting 
+of a series of related images which, when shown in 
+succession, impart an impression of motion, together 
+with accompanying sounds, if any. 
+
+
+To “perform” a work means to recite, render, play, 
+dance, or act it, either directly or by means of any 
+device or process or, in ihe case of a motion picture 
+or other audiovisual work, to show its images in any 
+sequence or to make the sounds accompanying it 
+audible. 
+
+
+A “performing rights society” is an association, 
+corporation, or other entity that licenses the public 
+performance of nondramatic musical works on 
+behalf of copyright owners of such works, such as 
+the American Society of Composers, Authors and 
+Publishers (ASCAP), Broadcast Music, Inc. (BMI), 
+and SESAC, Inc. 
+
+
+“Phonorecords” are material objects in which 
+sounds, other than those accompanying a motion 
+picture or other audiovisual work, are fixed by any 
+method now known or later developed, and from 
+which the sounds can be perceived, reproduced, or 
+otherwise communicated, either directly or with the 
+aid of a machine or device. The term “phonorecords” 
+includes the material object in which the sounds are 
+first fixed. 
+
+
+I2la 
+
+
+Appendix H 
+
+
+“Pictorial, graphic, and sculptural works” include 
+two-dimensional and three-dimensional works of 
+fine, graphic, and applied art, photographs, prints 
+and art reproductions, maps, globes, charts, 
+diagrams, models, and technical drawings, including 
+architectural plans. Such works shall include works 
+of artistic craftsmanship insofar as their form but 
+not their mechanical or utilitarian aspects are 
+concerned; the design of a useful article, as defined 
+in this section, shall be considered a pictorial, 
+graphic, or sculptural work only if, and only to the 
+extent that, such design incorporates pictorial, 
+graphic, or sculptural features that can be identified 
+separately from, and are capable of existing 
+independently of, the utilitarian aspects of the article. 
+
+
+For purposes of section 513, a “proprietor” is an 
+individual, corporation, partnership, or other entity, 
+as the case may be, that owns an establishment or a 
+food service or drinking establishment, except that 
+no owner or operator of a radio or television station 
+licensed by the Federal Communications 
+Commission, cable system or satellite carrier, cable 
+or satellite carrier service or programmer, provider 
+of online services or network access or the operator 
+of facilities therefor, telecommunications company, 
+or any other such audio or audiovisual service or 
+programmer now known or as may be developed in 
+the future, commercial subscription music service, 
+or owner or operator of any other transmission 
+service, shall under any circumstances be deemed 
+to be a proprietor. 
+
+
+122a 
+Appendix H 
+
+
+A “pseudonymous work” is a work on the copies or 
+phonorecords of which the author is identified under 
+a fictitious name. 
+
+
+“Publication” is the distribution of copies or 
+phonorecords of a work to the public by sale or other 
+transfer of ownership, or by rental, lease, or lending. 
+The offering to distribute copies or phonorecords to 
+a group of persons for purposes of further 
+distribution, public performance, or public display, 
+constitutes publication. A public performance or 
+display of a work does not of itself constitute 
+publication. 
+
+
+“Registration”, for purposes of sections 205(c)(2), 
+405, 406, 410(d), 411, 412, and 506(e), means a 
+registration of a claim in the original or the renewed 
+and extended term of copyright. 
+
+
+To perform or display a work “publicly” means — 
+
+
+(1) to perform or display it at a place open 
+to the public or at any place where a 
+substantial number of persons outside of a 
+normal circle of a family and its social 
+acquaintances is gathered; or 
+
+
+(2) to transmit or otherwise communicate 
+a performance or display of the work to a 
+place specified by clause (1) or to the 
+public, by means of any device or process, 
+whether the members of the public capable 
+
+
+123a 
+
+
+Appendix H 
+
+
+of receiving the performance or display 
+receive it in the same place or in separate 
+places and at the same time or at different 
+times. 
+
+
+“Sound recordings” are works that result from the 
+fixation of a series of musical, spoken, or other 
+sounds, but not including the sounds accompanying 
+a motion picture or other audiovisual work, 
+regardless of the nature of the material objects, such 
+as disks, tapes, or other phonorecords, in which they 
+are embodied. 
+
+
+“State” includes the District of Columbia and the 
+Commonwealth of Puerto Rico, and any territories 
+to which this title is made applicable by an Act of 
+Congress. 
+
+
+A “transfer of copyright ownership” is an 
+assignment, mortgage, exclusive license, or any 
+other conveyance, alienation, or hypothecation of a 
+copyright or of any of the exclusive rights comprised 
+in a copyright, whether or not it is limited in time or 
+place of effect, but not including a nonexclusive 
+license. 
+
+
+A “transmission program” is a body of material that, 
+as an aggregate, has been produced for the sole 
+purpose of transmission to the public in sequence 
+and as a unit. 
+
+
+To “transmit” a performance or display is to 
+communicate it by any device or process whereby 
+
+
+124a 
+
+
+Appendix H 
+
+
+images or sounds are received beyond the place from 
+which they are sent. 
+
+
+A “treaty party” is a country or intergovernmental 
+organization other than the United States that is a 
+party to an international agreement. 
+
+
+The “United States”, when used in a geographical 
+sense, comprises the several States, the District of 
+Columbia and the Commonwealth of Puerto Rico, 
+and the organized territories under the jurisdiction 
+of the United States Government. 
+
+
+For purposes of section 411, a work is a “United 
+States work” only if — 
+
+
+(1) in the case of a published work, the 
+work is first published — 
+
+
+(A) in the United States; 
+
+
+(B) simultaneously in the United 
+States and another treaty party or 
+parties, whose law grants a term of 
+copyright protection that is the 
+same as or longer than the term 
+provided in the United States; 
+
+
+(C) simultaneously in the United 
+States and a foreign nation that is 
+not a treaty party; or 
+
+
+125a 
+Appendix H 
+
+
+(D) in a foreign nation that is not 
+a treaty party, and all of the authors 
+of the work are nationals, 
+domiciliaries, or habitual residents 
+of, or in the case of an audiovisual 
+work legal entities with 
+headquarters in, the United States; 
+
+
+(2) in the case of an unpublished work, all 
+the authors of the work are nationals, 
+domiciliaries, or habitual residents of the 
+United States, or, in the case of an 
+unpublished audiovisual work, all the 
+authors are legal entities with headquarters 
+in, the United States; or 
+
+
+(3) in the case of a pictorial, graphic, or 
+sculptural work incorporated in a building 
+or structure, the building or structure is 
+located in the United States. 
+
+
+A “useful article” is an article having an intrinsic 
+utilitarian function that is not merely to portray the 
+appearance of the article or to convey information. 
+An article that is normally a part of a useful article 
+is considered a “useful article”. 
+
+
+The author’s “widow” or “widower” is the author’s 
+surviving spouse under the law of the author’s 
+domicile at the time of his or her death, whether or 
+not the spouse has later remarried. 
+
+
+* * * * 
+
+

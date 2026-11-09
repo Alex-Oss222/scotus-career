@@ -1,0 +1,1856 @@
+s preme Cour, U.S 
+\ piLeéD 
+
+
+00-201 AUG - 4200. 
+
+
+No. 00- 
+“Stitt te pale —— 
+IN THE 
+Supreme Court of the United States 
+
+
+THE NEW YORK TIMES COMPANY, INC.; NEWSDAY, INC.; 
+THE TIME INCORPORATED MAGAZINE COMPANY; LEXIS/ 
+NEXIS and UNIVERSITY MICROFILMS INTERNATIONAL, 
+
+
+Petitioners, 
+v. 
+
+
+JONATHAN TASINI; MARY KAY BLAKELY; BARBARA 
+GARSON; MARGOT MIFFLIN; SONIA JAFFE ROBBINS 
+and DAVID S. WHITFORD, 
+
+Respondents. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Bruce P. KELLER LAURENCE H. TRIBE 
+
+JEFFREY P. CUNARD Counsel of Record 
+
+MICHAEL R. POTENZA JONATHAN S. MASSEY 
+
+PETER C. JOHNSON Hauser Hall 420 
+
+DEBEVOISE & PLIMPTON 1575 Massachusetts Avenue 
+875 Third Avenue Cambridge, MA 02138 
+New York, NY 10022 (617) 495-4621 
+
+
+(212) 909-6000 
+
+
+THOMAS C. GOLDSTEIN 
+Tuomas C. GOLDsTEN, P.C. 
+4607 Asbury Place, NW 
+Washington, DC 20016 
+
+(202) 237-7543 
+
+
+Attorneys for Petitioners 
+
+
+159986 @ Counsel Press LLC 
+(800) 274-3321 + (800) 359-6859 
+
+
+i 
+QUESTION PRESENTED 
+
+
+The Copyright Act expressly grants periodical publishers 
+the right to reproduce and distribute their publications, 
+including articles contributed and separately copyrighted by 
+freelance authors, in, inter alia, “any revision” of the 
+publication. 17 U.S.C. § 201(c). For decades, publishers have 
+relied on that provision to make complete editions of their 
+periodicals available in both paper copies and copies stored 
+electronically (such as in the NEXIS database and on 
+CD-ROMs). The Second Circuit nonetheless held in this case 
+that such electronic publication infringes upon the copyrights 
+of freelance authors, a ruling that will require both the 
+massive deletion of freelance articles published in certain 
+electronic copies and the wholesale destruction of other 
+electronic editions of many of: the nation’s leading 
+periodicals. 
+
+
+The question presented is whether a publisher’s 
+reproduction and distribution of its entire periodical not only 
+in print, but also electronically, is privileged under the 
+Copyright Act or instead infringes upon the copyrights held 
+by contributing freelance authors. 
+
+
+ul 
+
+
+STATEMENT PURSUANT TO RULE 239.6 
+
+
+Petitioner The New York Times Company states that it 
+has no corporate parents, and that no publicly held company 
+owns 10% or more of The New York Times Company’s 
+stock. 
+
+
+Petitioner Newsday Inc. states that The Tribune 
+Company is its corporate parent, and that no other publicly 
+held company owns 10% or more of Newsday, Inc.’s stock. 
+
+
+Petitioner Time Inc. states that Time Warner Inc. is its 
+corporate parent, and that Time Inc. has no publicly-traded 
+stock. 
+
+
+Petitioner University Microfilms Inc. states that Bell & 
+Howell Co. is its corporate parent, and that no other publicly 
+held company owns 10% or more of University Microfilms, 
+Inc.’s stock. ; 
+
+
+Petitioner LEXIS/NEXIS (formerly known as Mead Data 
+Central) states that LEXIS/NEXIS is a division of Reed 
+Elsevier Inc., whose corporate parents are Reed International 
+P.L.C. and Elsevier N.V., and that LEXIS/NEXIS has no 
+publicly-traded stock. 
+
+
+lil 
+
+
+TABLE OF CONTENTS 
+
+
+ere 
+
+
+EE 
+
+
+Statement Of Jurisdiction ..................... 
+
+
+Statutory Provisions Involved ................. 
+
+
+statement Of The Case ...................000- 
+
+
+Reasons For Granting The Writ ................ 
+
+
+I. 
+
+
+II. 
+
+
+The Decision Below Sets A National Rule 
+Meriting This Court’s Immediate 
+Intervention Because It Will Cause 
+Irreparable Harm To Electronic Archives 
+Cee es cee eeanews 
+
+
+Certiorari Is Warranted Because The 
+Decision Below Conflicts With Decisions Of 
+This Court And Of Other Circuits. ........ 
+
+
+ili 
+
+
+Xil 
+
+
+18 
+
+
+Contents 
+Page 
+
+
+A. The Decision Below Conflicts With The 
+Holding Of This Court And Other 
+Circuits That The Predicted Conduct Of 
+Independent Third Parties Is Irrelevant 
+To A Claim Of Copyright Infringement. 
+
+CP ee ER eee 22 
+
+
+B. The Decision Below Conflicts With 
+Decisions Of This Court And Of’Other 
+Circuits Holding That “Originality” Is 
+An Essential Element Of The Creation 
+Of A “New” Work Under The Copyright 
+GS eS ee eee 26 
+
+
+CN 6 oko ee ba a eee 28 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Apple Computer v. Franklin Computer Corp., 714 
+Psd SO tke PORE) bi ksi cied dee cceccwsce 22 
+Atari Games Corp. v. Nintendo, 975 F.2d 832 (CA9 
+SE A aK hk FL eee Kea Ew EL AAS 23 
+Avis Rent A Car System y. Aguilar, 120 S. Ct. 2029 
+NE sea Matra le Caad eR ek ek krack ws 18 
+Bell South Adv. & Pub. Corp. v. Donnelly Info. Pub., 
+ee eo ee ee) rn 27 
+Cable/Home Communications Corp. v. Network 
+Productions, Inc., 902 F.2d 829 (CA11 1990) .. 26 
+Campbell v. Acuff-Rose Music, 510 U.S. 569 (1994) 
+LERNER KEN Ah SA ORD EEN OE COLNE S © OR MMOS SS 10, 26 
+Columbia Pictures Indus. v. Redd Horne, Inc., 749 
+Fe EP aE SD hk add Nea a cae ean ae ene 22 
+DSC Communications Corp. v. Pulse Communications, 
+EPO 8 .d0 13596 CAPE UFFF) occ nscsees 23 
+Entertainment Research Group v. Genesis Creative 
+Group, 122 F.3d 1211 (CAS 1997) .........5. 27 
+
+
+Feist Publications v. Rural Telephone Service Co., 
+ee Rl PRS OED shoo ek eck ¥vns eb adeabas passim 
+
+
+vi 
+
+
+Cited Authorities 
+Page 
+Fortnightly Corp. v. United Artists Television, 
+ge i ee ere ere ere 22 
+Fox Film Corp. v. Doyal, 286 U.S. 123 (1932) ... = 21 
+Gracen v. Bradford Exchange, 698 F.2d 300 (CA7 
+SUE: Scaweds os «bn onden beeen hen oeaeewees 27 
+Greenberg v. National Geographic Soc’y, No. 97-. 
+3924-civ, 1998 U.S. Dist. LEXIS 18060 (S.D. Fla. 
+May 14, 1998) .......... PPE ee ee yee ee 1] 
+Harper & Row, Publishers v. Nation Enters., 471 
+Ria PEP CROOED 000 bra eeekEwKE ARERR 10, 26 
+Los Angeles News Serv. v. Tullo, 973 F.2d 791 (CA9 | 
+EE Sxeevalceekendeen eee pea eee 24 
+MAI Sys. Corp. v. Peak Comp., 991 F.2d 511 (CA9 
+BOGE vs eeacccescétauvasewndenke cena a3 
+Marx v. The Globe Newspaper Co., Mass. Super. 
+Ct. No. 00-2579 (complaint filed June 12, 2000) 
+iebawae cee ise ceckeh 4050 eb eee 16 
+Matthew Bender & Co. v. West Publ’g Co., 158 F.3d 
+693 (CA2 1998), cert. denied, 119 S. Ct. 2039 
+Sn rer ney rer m. on Ge eo 25 
+
+
+MicroStar v. Formgen, Inc., 154 F.3d 1107 (CA9 
+| ORT eT ORC Te Te hs eee en 24 
+
+
+Vil 
+
+
+Cited Authorities 
+Page 
+Mills Music v. Snyder, 469 U.S. 153 (1984) ...... 10 
+National Cable Television Ass’n v. Copyright 
+Royalty Tribunal, 689 F.2d 1077 (CADC 1982) 
+puted Ce a ee Cate sks beds Wht cue wed 22 
+Nebraska Press Assn. v. Stuart, 427 U.S. 539 (1976) 
+PEASE RES ews SCRA SES SO Ke eee e a es 6 17 
+Princeton Univ. Press v. Michigan Document Servs., 
+Mtg Fe Wise 850) CCAB ISS) 2 nice ccc cese 24-25 
+RCA/Ariola Int’l v. Falcon Heights Pharm., 845 F.2d 
+PUR UE ROD 5% nei a cea wa Seen haves 25 
+Rosado v. Wyman, 397 U.S. 397 (1970) ......... 21 
+Ryan v. Carl Corp., 23 F. Supp. 2d 1146 (N.D. Cal. 
+a CEN ae Ry eh Loe LAREN SR AETE ce oe ade 1] 
+Sega Enters. v. Accolade, No. 92-15655 1993, U.S. 
+App. LEXIS 78 (CA9 Jan. 6, 1993) ........... 23 
+Sherry Mfg. Co. v. Towel King, 735 F.2d 1565 (CA11 
+PEP UNAS dra SRL ea ae eet ER RAE eR KS 27 
+Sony Computer Entertainment v. Connectix Corp., 
+Bus © oe SPO (CAD O08) on cece ceascenss 21-22 
+
+
+Sony Corporation of America v. Universal City 
+Studios, 464 U.S. 417 (1984) ..........00... passim 
+
+
+Vill 
+Cited Authorities 
+Page 
+Stenograph LLC v. Bossard Assocs., 144 F.3d 96 
+teers. SEE sca den ss cnelas Ole tee 23 
+Superior Form Builders v. Dan Chase Taxidermy 
+Supply Co., 74 F.3d 488 (CA4 1996) ......... 27 
+Teleprompter Corp. v. CBS, 415 U.S. 394 (1974) ... 22 
+Triad Sys. Corp. v. Southeastern Express Co., 64 
+Fe BPE Ce ROO Teac sak One tk eeees aes 23 
+Twentieth Century Music Corp. v. Aiken, 422 U.S. 
+Bi > Sa ee re aes rae Wehr net erie 21 
+Urantia Found. v. Maaherra, 114 F.3d 955 (CA9 
+| PNET ER OTE OO PET Ts or Teer ee ree 23 
+Vault Corp. v. Quaid Software, Ltd., 847 F.2d 255 
+ee CEE <n eoe caked eae aes oo baa sah aad 26 
+WGN Continental Broadcasting Co. v. United Video, 
+OPS 608 OEE CART CPE Veda di twhebedibass 21 
+Statutes: 
+eh io Serer er yr ere Tew rr rere ae passim 
+oe ars Oe SE os ko ew dae a boos diay eas 14 
+Oe Re oc so oe ee we a as eed 25 
+
+
+1x 
+Cited Authorities 
+Page 
+
+PCR Tae oo) ie toe Cae ate waa an passim 
+fh SES RE ee reas ar ee ae eee 16 
+ge «SURI REAe e rg 27 
+og l 
+ee | 12 
+United States Constitution: 
+POs PIE on kee scdeescvers 9,10 
+Rule: 
+ok BBs I GA RT AEE Pe ease id 9 
+Other Authorities: 
+Felicity Barringer, Freelancers Win Appeal In 
+
+Copyright Suit, N.Y. Times, Sept. 28, 1999 .... 14 
+Circular 65, Copyright Registration for Automated 
+
+Databases | (U.S. Copyright Office 1999) ..... 27 
+
+
+Commission on Physical Sciences, Mathematics, and 
+Applications, National Research Council, LC21: 
+A Digital Strategy for the Library of Congress 
+CN ID oe Svc ned u cdc cence 14 
+
+
+x 
+
+
+Cited Authorities 
+Page 
+
+
+Copyright Law Revision: Hearing on H.R. 4347 
+Before Subcomm. No. 3 of the House Comm. on 
+the Judiciary, 89th Cong., Ist Sess. 57 (1965) .. 6,19 
+
+
+Robert C. Denicola, Copyright in Collections of 
+Facts: A Theory for the Protection of Nonfiction 
+Literary Works, 81 Colum. L. Rev. 516 (1981)... 20 
+
+
+Randy Dotinga, Free-Lance Union Demands 
+Restitution from Papers: Writers Union Targets 
+Knight Ridder-Owned News Library, (last 
+modified July 13, 2000) <http://www. editorand 
+publisher.com/ephome/news/newshtm/stories/ 
+DUR X64 a 4 han hh OR Reese 13,15 
+
+
+Claire Anne Fitzgerald, Freelance Journalism After 
+Tasini, The Legal Intelligencer, Feb. 3, 2000 ... 13 
+
+
+Nancy Garman, The Tasini Decision and Database 
+Integrity, Online, Jan. 1, 2000 ............... 16 
+
+
+Jane Ginsburg, “No ‘Sweat’? Copyright and Other 
+
+
+Protection of Works of Information After Feist v. | 
+Rural Telephone,” 92 Colum. L. Rev. 338 (1992) ‘s 
+
+
+SOUOTEN GD. BE 5k ka 050046 eR 21 
+
+
+http://www.nwu.org/prc/prchome.htm (visited Aug. | 
+hy OOD 0s. cans aneens chine basen aes 13 
+
+
+xi 
+
+
+Cited Authorities 
+
+
+B. Kaplan, An Unhurried View of Copyright (1967) 
+
+
+Saw WA: TOE. DE AGECIDESD 5 vcs acnecas caves 
+
+
+1964 Revision Bill With Discussions And 
+Comments, Copyright Law Revision, Part 5 
+Se SCE SUED kbs wea hand sek ws 
+
+
+ees Be eg er 
+
+
+Shelly Warwick, Changing the Times: the Tasini 
+Decision and Why Future Full-Test Sources May 
+Cost More or Not be Complete, in Proceedings of 
+the 21st National Online Meeting 487 (Martha E. 
+ON Cg MS oS oka wdke wk b baeuke news 
+
+
+Jason Williams, Who Owns History?, Editor & Publ’r 
+i Se BU 64 Gas beech sensu cab aee 
+
+
+Kurt A. Wimmer, E-Litigation: The Digital 
+ceeeeemee, Nat'l £.. 3., Get. 25, WFP... cc eass 
+
+
+Page 
+
+
+21 
+
+
+14 
+
+
+14 
+
+
+14 
+
+
+Xxil 
+
+
+TABLE OF APPENDICES 
+
+
+Appendix A — Opinion of the United States Court 
+of Appeals for the Second Circuit Dated and 
+Decided September 24, 1999 and Amended 
+gg gee ee ort oe ee 
+
+
+Appendix B — Opinion and Order of the United 
+States District Court for the Southern District of 
+New York Dated and Filed August 13, 1997 
+
+
+ee ee ee i ee ee a i ee i ee ee ee ee ee ee er eee oe ae ee oe ee 
+
+
+Appendix C — Judgment of the United States 
+District Court for the Southern District of New 
+York Dated and Filed August 18, 1997 ........ 
+
+
+Appendix D — Opinion and Order of the United 
+States District Court for the Southern District 
+of New York Dated October 29, 1997 ......... 
+
+
+Appendix E — Order of the United States Court of 
+Appeals for the Second Circuit Denying Petition 
+for Rehearing Dated and Filed April 6, 
+MELEE ETS CEPR TE OLR C Ee Oe rr re ee me 
+
+
+Appendix F — Order of the United States Court of 
+Appeals for the Second Circuit Granting Motion 
+for Stay of Mandate Dated and Filed April 26, 
+PE Aah a a VAC eR Ae eho ee eee Made Vad 
+
+
+Page 
+
+
+la 
+
+
+23a 
+
+
+8la 
+
+
+83a 
+
+
+106a 
+
+
+Xili 
+
+
+Appendices 
+Page 
+
+
+Appendix G — Order of the United States Court of 
+Appeals for the Second Circuit Granting Motion 
+for Extension of Stay of Mandate Pending Filing 
+of Writ of Certiorari Dated and Filed July 24, 2000 
+
+
+pe ee ee ee a a a ee a or a a a a ae 
+
+
+llla 
+
+
+Appendix H — Selected Provisions of the 
+Te, Sa 
+
+
+] 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Petitioners respectfully petition for a writ of certiorari to 
+review the judgment of the United States Court of Appeals for 
+the Second Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The district court’s opinion (per Sotomayor, D.J. (now 
+circuit judge)) granting petitioners’ summary judgment motion 
+(Appendix (“Pet. App.”) 23a-80a) is published at 972 F. Supp. 
+804. The district court’s subsequent opinion reaffirming that 
+holding and denying respondents’ motion for reconsideration 
+(Pet. App. 83a-105a) is published at 981 F. Supp. 841. The court 
+of appeals’ opinion (per Winter, C.J., joined by Miner and Pooler, 
+JJ.) reversing (Pet. App. la-22a) is published at 206 F.3d 161. 
+The court of appeals’ orders denying rehearing and rehearing 
+en banc (id. 106a-107a), staying the mandate (id. 108a-110a), 
+and extending the stay of the mandate (id. 111a-113a) are not 
+otherwise published. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The court of appeals entered its opinion and order on 
+September 24, 1999, and denied rehearing and rehearing en 
+banc on April 6, 2000. Justice Ginsburg subsequently extended 
+the time to file this petition for a writ of certiorari to and 
+including August 4, 2000. Petitioners invoke this Court’s 
+jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The provisions of the Copyright Act of 1976, 17 U.S.C. 
+§ 101, et seq., relevant to this petition are reprinted in the 
+Appendix at 114a-125a. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners publish a number of periodicals in both print 
+and electronic copies. Some include articles contributed by 
+respondents, who are freelance authors that own the copyrights 
+to their individual contributions. The district court held that the 
+electronic copies were privileged under Section 201(c) of the 
+Copyright Act, which, in the absence of an express agreement, 
+
+
+2 
+
+
+permits a publisher to include individually copyrighted articles 
+contributed by freelancers in copies of a periodical and “any 
+revision” of that periodical. 17 U.S.C. § 201(c). The Second 
+Circuit reversed, holding that publication in electronic copies 
+infringes the copyrights held by freelance authors. 
+
+
+The court of appeals’ holding merits this Court’s immediate 
+review because it will require publishers and electronic database 
+companies, nationwide, irreversibly to delete tens of thousands 
+of freelance contributions currently stored in electronic archives. 
+It also will force the wholesale destruction of CD-ROMs 
+containing periodicals that include only a handful of such 
+contributions. In addition, the decision below conflicts with 
+decisions of this Court and of other circuits holding that the 
+conduct of third parties is irrelevant to a claim of direct copyright 
+infringement and that “originality” is the sine qua non of a “new” 
+work. 
+
+
+1. Petitioners publish a number of the nation’s most 
+prominent newspapers and special interest magazines, including 
+The New York Times (“the Times”), Newsday, and Sports 
+Illustrated (collectively, ‘the Publications”), in both print and 
+electronic copies. The electronic copies appear in databases such 
+as NEXIS, which contains essentially the complete editorial 
+content of the Publications dating from the early 1980s, as well 
+as CD-ROM products, which contain the same content of the 
+Times, as well as complete photographic copies of The New 
+York Times Sunday Magazine and The New York Times Book 
+Review. It is undisputed that, in every instance, the electronic 
+copies are created from complete editions of the periodicals, 
+not on an article-by-article basis. 
+
+
+These electronic copies have revolutionized research in 
+ways directly anticipated by Congress as far back as the early 
+1960s. They function as the modern equivalent of national 
+library shelves, combined with computerized search tools that 
+serve as indices with awesome power. This makes it possible to 
+complete in seconds research that previously would have 
+required months. For example, prior to the “information age,” a 
+
+
+3 
+
+
+researcher would locate articles in back issues of the Times by 
+retrieving and studying a hard-copy index of each year to be 
+researched, then retrieving each individual article from either 
+hard copies or microfilm reproductions of the newspaper. Now, 
+the identical research can be completed instantly and remotely 
+by entering a command into the search engine associated with 
+a database; indeed, the electronic search generally produces far 
+more accurate results because it retrieves articles based on their 
+text rather than on the general subject headings set forth in the 
+hard copy indices. 
+
+
+2. Respondents are a number of freelance authors, led by 
+the president of an organization (the National Writers Union) 
+dedicated to advancing the interests of freelance authors. 
+Between 1990 and 1993, respondents contributed articles, in 
+which they retained separate copyrights,' to petitioners’ 
+publications (collectively, “the Articles”). It is undisputed that 
+respondents provided the Articles to petitioners precisely for 
+the purpose of having them included in petitioners’ Publications 
+and that no agreement between petitioners and respondents 
+limits distribution of the Articles to print editions only. 
+
+
+Nonetheless, respondents contend that electronic 
+publication of entire periodical issues that contain their articles 
+constitutes direct copyright infringement. Specifically, they 
+maintain that the Copyright Act, as a matter of law, limits 
+publishers to reproducing and distributing the full contents of 
+their periodicals only in paper copies absent separate contractual 
+agreements with the freelance contributors. (Plaintiffs’ Amended 
+Compl. { 1). Of particular note, respondents do not assert that 
+petitioners contribute in any way to copyright infringement by 
+third parties who retrieve articles from the databases, a claim 
+that automatically would be defeated under this Court’s decision 
+in Sony Corporation of America v. Universal City Studios, 464 
+
+
+-1. Respondents’ contributions thus differ from articles written by 
+the Publications’ employees, which the Copyright Act deems 
+“works for hire” and for which the Publications hold the copyright. 
+17 U.S.C. § 101 (defining “works made for hire’’). 
+
+
+4 
+
+
+U.S. 417 (1984), because the databases indisputably 
+have “substantial noninfringing uses.” Pet. App. 33a n.3; 
+see also Tr. Oct. 17, 1996 at 78 (representation of respondents’ 
+counsel: “We have not claimed that any end users have engaged 
+in acts of direct infringement, and we have not in fact claimed 
+that either the publisher defendants or the database defendants 
+are guilty of contributory or vicarious liability with respect to 
+direct infringement committed by end users.”). 
+
+
+3. The district court rejected respondents’ claim, holding 
+that petitioners’ publishing activities are contemplated 
+and privileged by Section 201(c) of the Copyright Act. 
+Pet. App. 23a-80a. The Act defines the Publications as 
+“collective works” (a type of “compilation’”’) and the Articles 
+as “contributions” to those collective works. 17 U.S.C. § 101. 
+Section 201(c) grants a publisher, absent an agreement to the 
+contrary, “the privilege of reproducing and distributing the 
+contribution as part of that particular collective work, any 
+revision of that collective work, and any later collective work 
+in the same series.” Jd. at § 201(c). The district court held that, 
+because a print edition of a periodical is a “collective work,” 
+the electronic copy of the same periodical, whether distributed 
+alone or stored in a larger database comprised of a number of 
+such editions and other works, falls within the phrase 
+“any revision of that collective work.” 
+
+
+The district court explained that respondents were wrong 
+to assert that electronic publication results in a work 
+fundamentally different from the print edition. The databases 
+indisputably “permit users to consult defendants’ periodicals 
+in new ways and with new efficiency, but for the same purposes 
+that they might otherwise review the hard copy versions of those 
+periodicals.” Pet. App. 75a (emphasis added). Although some 
+(but not all) of the electronic copies differ slightly in appearance 
+from the original print editions — because in the ASCII text 
+copies no graphics, agate-type and paper page layouts are present 
+— that is precisely what makes them “revisions” rather than 
+originals. Pet. App. 72a-73a. In particular, the failure to retain 
+
+
+5 
+
+
+the exact arrangement of a particular periodical is “of only 
+peripheral concern” when petitioners retain their single most 
+important original contribution: the selection of the individual 
+articles to be published. Jd. The commitment of the Times 
+editorial staff to “[i]dentifying ‘all the news that’s fit to print,’ ” 
+for example, is “a highly subjective undertaking, one that 
+different editors and different periodicals undoubtedly perform 
+with varying degrees of success.” Id. 69a. That “selection,” in 
+turn, “remains evident online” because petitioners uniformly 
+include, with each article in the databases, information 
+identifying the publication, edition, and even pagination of the 
+hard copy edition in which that article was originally published. 
+Id. 71a. 
+
+
+Moreover, as the district court also noted, the basic, 
+definitional concepts of the Copyright Act expressly state that 
+“revisions,” including the “any revision” incorporated into 
+Section 201(c), can embrace substantial changes from the 
+original edition of a publication. The Act provides that “editorial 
+revisions” to a preexisting work can be so substantial that 
+they create a new work with its own copyright protections. 
+17 U.S.C. § 101 (providing that “editorial revisions” can create 
+new “derivative work’). As the district court succinctly 
+explained, “If ‘editorial revisions’ can transform a work to this 
+extent, the broader ‘any revisions’ language of Section 201(c) 
+Suggests the promise of even greater change.” Pet. App. 58a. 
+
+
+Fundamental to the district court’s conclusion was its 
+recognition that Congress intentionally drafted the terms of the 
+Copyright Act to be “media neutral.” Jd. 57a. Section 101 of 
+the Act states that a “literary work,” such as a periodical, 
+remains the same “regardless of” how it is embodied, whether 
+in paper or instead on “tapes, disks, or cards.” 17 U.S.C. § 101; 
+see also id. (a“*copy” of a work is the same whatever the medium 
+— whether “now known or later developed” — in which it is 
+embodied). These provisions are set forth in the very first section 
+of the Act, because Congress intentionally sought “to 
+accommodate developing technologies,” Pet. App. 57a, 
+
+
+6 
+specifically employing broad terms so “ ‘that they can be 
+adapted as time goes by to each of new advancing media.’ ” Jd. 
+(quoting Copyright Law Revision: Hearing on H.R. 4347, 4680, 
+6831, 6835 Before Subcomm. No. 3 of the House Comm. on 
+the Judiciary, 89th Cong., Ist Sess. 57 (1965) (testimony of 
+George D. Cary, Deputy Register of Copyrights)). 
+
+The district court also recognized that Congress enacted 
+Section 201(c) principally to overturn those decisions under 
+the predecessor Copyright Act of 1909 holding that publishers 
+could exploit freelance authors’ contributions apart from the 
+rest of the collective work. Pet. App. 60a. Electronic copies do 
+not implicate that concern because regardless of how such copies 
+may be accessed and read, the entire editorial content of the 
+collective work is published together. Thus, as the district court 
+concluded, Congress intended Section 201(c) to “avoid the 
+exploitation of individual articles,” without “prevent[ing] 
+publishers from reworking their collective works in significant 
+ways.” Id. 72a.? 
+
+
+Finally, the district court rejected respondents’ claim that 
+copies published electronically result in a “new” collective work 
+rather than in a permissible “revision” under Section 201(c). 
+Under this Court’s decision in Feist Publications v. Rural 
+Telephone Service Co., 499 U.S. 340, 359-61 (1991), a “new” 
+work is created only if it fails to retain the “original” elements 
+— whether “selection, coordination, or arrangement” — of the 
+prior work. 499 U.S. 340, 359-61 (1991). When the original 
+element of a periodical (the “compilation” copyright 
+contemplated by Section 101) is retained in the electronic copy 
+
+
+2. The district court further noted that authors’ representatives had 
+in fact made clear in the debates over the 1976 Copyright Act that they 
+“ ‘obviously’ ” did not object to the provisions insofar as such 
+“revisions” included selecting “ ‘contributions, or their order, or 
+including different contributions.’ ” Pet. App. 60a (citing and quoting 
+1964 Revision Bill With Discussions And Comments, Copyright Law 
+Revision, Part 5, at 9 (H. Comm. Print 1965) (statement of Author’s ; 
+Representative, Harriet Pilpel)). ; 
+
+
+i! 
+
+
+7 
+
+
+— here, the original selection of articles — “then the electronic 
+reproductions can be deemed permissible revisions of the 
+publisher defendants’ collective works.” Pet. App. 66a. 
+The district court accordingly entered summary judgment for 
+petitioners. 
+
+
+4. On respondents’ appeal, the Second Circuit reversed in 
+an opinion remarkable for its fundamental inconsistency with 
+governing precedent of this Court and decisions of other circuits, 
+for its inclusion of only one citation to a copyright law decision,? 
+and for the fact that it summarily and retroactively invalidates a 
+long-settled publishing practice. The Second Circuit held that, 
+as a matter of law, “Section 201(c) does not permit the Publishers 
+to license individually copyrighted works for inclusion in the 
+electronic databases.” Pet. App. 7a. Instead, the “any revision” 
+language of Section 201(c), according to the Second Circuit, 
+“protects only later editions of a particular issue of a periodical, 
+such as the final edition of a newspaper.” Id. 10a. 
+
+
+The legal principle established by the Second Circuit is 
+that a publisher may be guilty of direct copyright infringement 
+simply by publishing electronic copies of periodicals that permit 
+third parties to retrieve individual articles from the electronic 
+databases. As the court of appeals explained: 
+
+
+Subscribers to NEXIS are able to access an almost 
+infinite combination of articles from one or more 
+publishers by using the database’s advanced search 
+engine. The articles may be retrieved individually 
+or, for example, together with others on like topics. 
+Such retrieval makes the article available without 
+any material from the rest of the periodical in which 
+it first appeared. 
+
+
+3. The one instance is itself meager: a “see also” citation to Feist 
+as “discussing factual compilations.” Pet. App. 15 a. The only other 
+mention of copyright law decisions comes in a portion of the opinion 
+dealing with “licensing,” which is not at issue in this petition. 
+Id. 19a-20a. 
+
+
+8 
+
+
+Pet. App. 4a. Similarly, the CD-ROM products “contain[] many 
+articles that may be retrieved [through a search engine] 
+according to criteria unrelated to the particular edition in which 
+the articles first appeared.” Jd. 16a.‘ 
+
+
+The court of appeals believed that the ability of end users 
+to retrieve articles individually could not be reconciled with 
+the Copyright Act in two respects. First, the Second Circuit 
+maintained that such individually accessible electronic copies 
+fail to retain the original “selection” of the print edition because 
+“the Authors’ works are now available to the public on one or 
+more electronic databases and may be retrieved individually or 
+in combination with other pieces originally published in different 
+editions of the periodical or in different periodicals.” 
+Pet. App. 6a-7a. It concluded that such a process resulted in 
+“at best a new anthology of innumerable editions of the Times, 
+and at worst a new anthology of innumerable articles from these 
+editions,” not “a ‘revision’ of any (or all) particular editions.” 
+Id. 17a. 
+
+Second, the court of appeals opined that the availability of 
+individually accessible electronic copies infringes upon authors’ 
+rights to exploit their individual contributions: 
+
+
+Section 201(c) would not permit a Publisher to sell 
+a hard copy of an Author’s article directly to the 
+public even if the Publisher also offered for 
+individual sale all of the other articles from the 
+particular edition. We see nothing in the revision 
+provision that would allow the Publishers to achieve 
+the same goal indirectly through NEXIS. 
+
+
+Id. 13a. 
+
+5. On April 26, 2000, the Second Circuit granted a stay of 
+its mandate upon a showing by petitioners that a certiorari 
+petition would present a substantial question meriting this 
+
+
+4. See also id. 14a (“NEXIS is a database comprising thousands 
+or millions of individually retrievable articles taken from hundreds or 
+thousands of periodicals.”). 
+
+
+9 
+
+
+Court’s review and that there existed good grounds for a stay. 
+See Pet. App. 108a-110a; FRAP 41. In particular, petitioners 
+established, through undisputed sworn affidavits, that the 
+judgment in this case would require petitioners to delete vast 
+numbers of freelance articles permanently from the 
+NEXIS database and to destroy large numbers of CD-ROMs, 
+causing irreparable injury both to petitioners and to the public. 
+See infra at 14-16 & nn.7-8. 
+
+
+6. This petition for a writ of certiorari followed. 
+REASONS FOR GRANTING THE WRIT 
+
+
+The petition should be granted for two reasons. First, the 
+Second Circuit’s judgment, as a practical matter, sets a national 
+rule requiring the destruction of decades’ worth of articles 
+currently stored in electronic archives. Consistent with this 
+Court’s practice of immediately reviewing decisions under the 
+Copyright Act that overturn settled practices in publishing — 
+an inherently national industry closely tied to the constitutional 
+values underlying the First Amendment — review should be 
+granted to prevent this irreversible, nationwide harm. 
+
+
+Second, the Second Circuit’s decision conflicts with 
+holdings of this Court and of other circuits in two important 
+ways. It espouses the legal principle that a publisher may be 
+held liable for direct copyright infringement because of the 
+conduct of the third parties who retrieve articles from the 
+databases. That holding is contrary to this Court’s decision in 
+Sony and Sony’s progeny in other circuits, which hold that third- 
+party conduct is irrelevant to a direct infringement claim. The 
+Second Circuit’s judgment also holds that electronic publication 
+results in a “new” work. That holding is contrary to this Court’s 
+decision in Feist that the “mechanical” reproduction of a work 
+(as opposed to one adding some element of “originality”) cannot 
+create a new, copyrightable work, as well as Feist’s progeny in 
+other circuits. In both respects, the Second Circuit’s decision 
+also conflicts with this Court’s holding that, in cases of doubt, 
+the Copyright Act should be construed to encourage the 
+development of new technologies. 
+
+
+10 
+
+
+I. The Decision Below Sets A National Rule Meriting This 
+Court’s Immediate Intervention Because It Will Cause 
+Irreparable Harm To Electronic Archives Nationwide. 
+
+
+One consistent theme emerges from this Court’s leading 
+copyright decisions: the Court has taken care to review rulings 
+of the courts of appeals that disrupt settled practices in the 
+publishing and related mdusines, even absent a direct circuit 
+conflict.° The Court’s prompt intervention in such cases is 
+sound: the publishing industry is virtually unique in that a 
+decision of a single circuit (particularly the Second Circuit, 
+because so many publishers are located in New York City) can 
+effectively require a publisher to alter its practices fundamentally 
+throughout the nation. Moreover, the fate of publishing 
+(and the related music and entertainment industries) is directly 
+bound up with the values underlying the First Amendment. 
+“ *The fortunes of the law of copyright have always been closely 
+connected with freedom of expression, on the one hand, and 
+with technological improvements in means of dissemination, 
+on the other.’ ” Sony Corp. of Am. v. Universal City Studios, 
+464 U.S. 417, 431 n.12 (1984) (quoting B. Kaplan, An Unhurried 
+View of Copyright vii-viii (1967)). 
+
+
+5. See Campbell v. Acuff-Rose Music, 510 U.S. 569 (1994) 
+(holding that musical parody constitutes “fair use”; petitioner alleged 
+only a conflict in principle over treatment of musical parodies); 
+Feist Publications, Inc. v. Rural Tel. Serv. Co., 499 U.S. 340 (1991) 
+(holding that telephone white pages are not copyrightable if they lack 
+original “selection, coordination, or arrangement”; petitioner alleged 
+only a conflict in principle over “sweat of the brow doctrine”); 
+Harper & Row v. Nation Enters., 471 U.S. 539 (1985) (holding that use 
+of quotations from unpublished memoirs is not protected “fair use”’; 
+petitioner alleged only a conflict in principle over fair use doctrine); 
+Mills Music v. Snyder, 469 U.S. 153 (1984) (holding that publisher was 
+entitled to share in royalties from derivative works under terms of grant 
+from author; petitioner alleged no conflict at all); Sony Corp. v. Universal 
+City Studios, 464 U.S. 417 (1984) (holding that video tape recorder 
+manufacturers are not liable for contributory infringement based on 
+taping by users of the recorders; petitioner alleged only a conflict in 
+principle with a decision of Court of Claims). 
+
+
+1] 
+
+
+The Court’s concerns have been greatly amplified with the 
+advent of electronic publishing. A single court of appeals’ 
+decision holding that a database such as NEXIS may not 
+lawfully include various materials immediately denies access 
+to those materials to individuals nationwide and. indeed, 
+worldwide. In this case, for example, it makes no difference 
+what any other regional court of appeals may hold with respect 
+to the Section 201(c) privilege: the Second Circuit’s holding 
+effectively governs the NEXIS databases without regard to the 
+geographic location of the individuals who access those 
+databases or the identity or location of the freelancers whose 
+works have been included with the rest of the periodical. For 
+example, the Second Circuit’s decision conflicts directly with 
+a ruling by the Southern District of Florida, which expressly 
+adopted the holding and rationale of the district court in this 
+case. Greenberg v. National Geographic Soc’y, No. 97-3924- 
+civ, 1998 U.S. Dist. LEXIS 18060 (S.D. Fla. May 14, 1998). 
+The district court in Greenberg rejected a challenge brought by 
+freelance photographers to the National Geographic Society’s 
+practice of distributing a complete collection of back issues of 
+National Geographic magazine on CD-ROM. Although the 
+Section 201(c) privilege in theory still protects such electronic 
+publication in the Southern District of Florida (in fact, only the 
+Second Circuit has held to the contrary), in reality, publishers 
+and database providers must abide by the Second Circuit’s 
+judgment no matter whether the Eleventh Circuit subsequently 
+affirms or reverses the district court’s decision in Greenberg.° 
+
+
+6. Another decision involving Section 201(c), Ryan v. Carl Corp., 
+
+23 F. Supp. 2d 1146 (N.D. Cal. 1998), addressed the sale of individual 
+articles to which the Section 201(c) privilege was held not to apply. 
+The district court’s decision in Ryan, which cites the district court’s 
+opinion in this case favorably, refutes the Second Circuit's professed 
+concern that petitioners’ interpretation of Section 201(c) would 
+eviscerate the freelancers’ copyrights in their individual works. 
+Pet. App. 12a-13a. The Ryan decision underscores that the interpretation 
+of Section 201(c) relied on by petitioners leaves undisturbed 
+(Cont'd) 
+
+
+12 
+
+
+There are two other respects in which the Second Circuit’s 
+decision effectively sets an immediate national rule not subject 
+to further percolation in the courts of appeals. First, it applies 
+well beyond the individual parties to this case. The corporate 
+owner of NEXIS is a party defendant subject to the Second 
+Circuit’s judgment. The NEXIS database contains editions of 
+hundreds of other publications extending as far back as the 
+1970s. In order to avoid infringement liability with respect to 
+those publications, NEXIS, in conjunction with its publisher- 
+licensors, must locate and delete the freelance articles in all 
+those publications even though those other publishers are not 
+parties to this case and have their publishing facilities in 
+locations throughout the country outside the three states that 
+comprise the Second Circuit. University Microfilms, by far the 
+nation’s largest producer of informational CD-ROM products, 
+is a party defendant in this case and similarly must comply with 
+the judgment with respect not only to the three publishers who 
+are defendants but to all of the publications contained in its 
+products. Furthermore, the expansive jurisdictional provision 
+of the Copyright Act means that the nation’s other major 
+electronic databases and producers of CD-ROMs, including 
+WESTLAW, Dow Jones Interactive and Dialog, cannot ignore 
+the Second Circuit’s ruling in this case. See 28 U.S.C. § 1400(a) 
+(copyright infringement suit may be brought in any district 
+where the defendant may be found). 
+
+Thus, it is hard to identify a substantial periodical publisher 
+or electronic database company that is not required to delete a 
+significant body of information to avoid serious risk of 
+infringement liability under the Second Circuit’s judgment. In 
+the time since the Second Circuit issued its opinion in this case, 
+the National Writers Union, led by respondent Tasini, has 
+
+
+(Cont'd) 
+
+respondents’ ability to exploit their Articles on an individual basis and 
+is entirely consistent with the congressional intent to draw a clear 
+dividing line between aggregate uses (held by the Publishers) and 
+individual uses (held by freelancers) of the copyrighted articles 
+contained in collective works. See supra at 6. 
+
+
+13 
+
+
+threatened publishers and database companies nationwide with 
+infringement suits, unless they comply with the Second Circuit’s 
+judgment. See http://www.nwu.org/pre/prchome.htm (visited 
+Aug. 2, 2000). In fact, just three weeks ago, Mr. Tasini and the 
+NWU openly threatened to sue San J ose, California-based 
+Knight Ridder, Inc. over its online library. Randy Dotinga, Free- 
+Lance Union Demands Restitution from Papers: Writers Union 
+Targets Knight Ridder-Owned News Library, (last modified July 
+13, 2000) <http://www. editorandpublisher.com/ephome/news/ 
+newshtm/stories/07 1300nI.htm>. 
+
+
+Second, the effects of the Second Circuit’s judgment are 
+irreversible. The process of locating the vast number of freelance 
+articles contained in the NEXIS database has already begun; 
+some 100,000 articles may have to be permanently deleted at 
+an enormous cost and investment of time. With respect to already 
+published CD-ROM copies of periodicals, the immediate impact 
+of the decision below is even more serious. Because individual 
+articles cannot be deleted from a CD-ROM, the entire CD-ROM 
+must be removed from the marketplace, even though most of 
+the articles contained in the periodicals carried on those discs 
+were not written by freelance authors. 
+
+
+The gravity of these deletions is hard to overstate. Precisely 
+because the publication of periodicals in electronic copies has 
+been an accepted publishing practice for decades, the archives 
+of the nations’ periodicals are now (and increasingly will be) 
+Stored, in very large part, electronically. Relying on a decades- 
+old and industry-wide understanding of Section 201(c) of the 
+Act, many institutions, including the Library of Congress, have 
+replaced their crumbling collections of paper periodicals with 
+non-print copies in an effort to maintain the integrity of the 
+nation’s historical records. See, e.g., Claire Anne Fitzgerald, 
+Freelance Journalism After Tasini, The Legal Intelligencer, 
+Feb. 3, 2000 (noting that the practical impact of the Second 
+Circuit’s decision is “the loss of scholarship particularly where 
+hard copies of * * * works have been discarded in favor of 
+electronic storage”). This case accordingly will determine 
+
+
+14 
+
+
+whether historians, students, scholars, and others will continue 
+to enjoy ready access to the complete historical record of the 
+nation’s periodicals in “any tangible medium of expression,” 
+17 U.S.C. § 102(a), or will instead be forced to revert to the 
+research methods of a prior generation: the Reader’s Guide to 
+Periodical Literature and bound paper copies — to the extent 
+such copies still exist. See Kurt A. Wimmer, E-Litigation: 
+The Digital Dilemma, Nat’! L. J., Oct. 25, 1999, at B10 
+(“[T]he broader impact of Tasini will be felt not only by 
+professional researchers, but also by millions of Internet users 
+who expect to find comprehensive and reliable archives at 
+media-related sites.”) (emphasis added).’ 
+
+These effects, disastrous for the nation’s libraries, academic 
+institutions, and publishers, are fact, not speculation. After the 
+Second Circuit entered its decision, respondent Tasini declared 
+that “ ‘[e]very single data provider is now at risk * * * . 
+We could go into court tomorrow if we wanted and ask to shut 
+down every database.’ ” Felicity Barringer, Freelancers Win 
+Appeal In Copyright Suit, N.Y. Times, Sept. 28, 1999, at Cl 
+(emphasis added). Mr. Tasini was quite emphatic that the 
+judgment portended a “ ‘tidal wave of lawsuits,’ ” Jason 
+Williams, Who Owns History?, Editor & Publ’r Mag., Dec. 11, 
+1999, at 26, a metaphor he recently updated by characterizing 
+
+
+7. Libraries will be hardest hit by the information-destroying 
+effects of the decision below because, as one commentator has recently 
+recognized, it is “unlikely, given the current budget trends, that libraries 
+will be able to consistently purchase both an electronic version and a 
+print or microfilm version of all resources, and libraries may be forced 
+to choose between easy access and complete access.” Shelly Warwick, 
+Changing the Times: the Tasini Decision and Why Future Full-Test 
+Sources May Cost More or Not be Complete, in Proceedings of the 21st 
+National Online Meeting 487 (Martha E. Williams ed., 2000). The 
+situation is particularly grave for large research institutions, which will 
+be increasingly dependent on electronic archives in the future. 
+See generally Commission on Physical Sciences, Mathematics, and 
+Applications, National Research Council, LC21: A Digital Strategy for 
+the Library of Congress (forthcoming 2000). 
+
+
+15 
+
+
+virtually every newspaper in the country as sitting on a “financial 
+ticking time bomb.” See Randy Dotinga, Free-Lance Union 
+Demands Restitution from Papers: Writers Union Targets Knight 
+Ridder-Owned News Library, (last modified July 13, 2000) 
+<http://www. editorandpublisher.com/ephome/news/newshtm/ 
+stories/07 1300nl1.htm>. 
+
+
+Representatives of publishers and database companies, in 
+turn, submitted sworn and uncontradicted testimony in the 
+Second Circuit that deletions of freelance articles would iiave 
+to begin immediately and that CD-ROM products would have 
+to be withdrawn from the market.’ On the basis of this testimony, 
+
+
+8. See, e.g., Declaration of Kenneth A. Tillman, attached to Motion 
+by Defendants-Appellees for Stay of Mandate Pending Filing of Petition 
+for Writ of Certiorari, at J 16 (“UMI would have to consider removing 
+from circulation all CD-ROM discs containing any freelance articles, in 
+addition to those that contain Appellants’ articles. It would be impossible, 
+as a practical matter, to locate all such articles, which would include travel 
+pieces, book reviews, stories sent in by stringers, letters to the editor, 
+Op-ed pieces, and unsolicited articles sent in by public officials and 
+other citizens. * * * Because of the logistical impossibility of identifying 
+all such articles and removing the discs containing them, UMI’s only 
+recourse might be to remove from circulation all CD-ROMs from 
+past years * * *. This would make the UMI CD-ROM products useless as 
+a historical archive.”); Declaration of Fred T. Leftrict, Jr., attached to 
+Motion by Defendants-Appellees for Stay of Mandate Pending Filing of 
+Petition for Writ of Certiorari, at | 7 (“NEXIS could be forced to delete 
+many other freelance articles in addition to Appellants’, because it would 
+be impossible, as a practical matter, for publishers whose publications 
+appear on NEXIS to identify, locate, and negotiate with all freelance writers 
+whose works they have published since NEXIS began storing 
+their periodicals. The number of works lost to NEXIS and the public 
+through their process could number in the tens or hundreds of thousands.”); 
+Declaration of Alan Greengrass, attached to Motion by Defendants- 
+Appellees for Stay of Mandate Pending Filing of Petition for Writ 
+of Certiorari, at § 12 (“the Times would have to consider deleting from 
+the electronic databases many other freelance articles in addition 
+to Appellants’ * * * . The number of works lost through this process 
+could number in the thousands or tens of thousands”). These Declarations 
+are included in the lodging to be filed with petitioner’s reply. 
+
+
+16 
+
+
+the court of appeals stayed its mandate pending the disposition 
+of this petition for certiorari. The Second Circuit therefore was 
+manifestly wrong to offer that publishers and freelance authors 
+may “contract around” its holding by entering into agreements 
+permitting electronic publication of freelance contributions. 
+Pet. App. 17a. That suggestion fails to grasp the practical 
+impossibility of locating and negotiating with thousands of 
+individual freelance authors, their transferees and/or their heirs 
+or statutory successors, see 17 U.S.C. § 203, in the face of threats 
+of litigation regarding the use of articles already stored in 
+electronic archives and regarding the damages due as a result 
+of prior electronic publication. Indeed, the sheer logistical 
+difficulties inherent in this process will lead to the deletion of 
+freelance contributions even in the absence of specific demands 
+to do so from freelancers. See Nancy Garman, The Tasini 
+Decision and Database Integrity, Online, Jan. 1, 2000, at 8 
+(“[W]hat about the millions of articles online in full text that 
+date back to the 1970s and 1980s, and are not covered by explicit 
+author agreements? .. . [C]omprehensive searches of full-text 
+files will be a thing of the past, since you can’t search what 
+isn’t there.”) (emphasis added). 
+
+
+Moreover, the organization led by respondent Tasini (the 
+National Writers Union) has rejected the contractual solution 
+in favor of class action litigation. In response to the Second 
+Circuit’s decision in this case, The Boston Globe, which is a 
+subsidiary of petitioner The New York Times Company, adopted 
+a policy of hiring freelance authors only upon concluding 
+contractual agreements granting it the right to publish freelance 
+contributions electronically. The National Writers Union has 
+filed a class action on behalf of approximately nine 
+hundred freelance authors alleging that the policy constitutes 
+an invalid business practice under Massachusetts state law. 
+See Marx v. The Globe Newspaper Co., Mass. Super. Ct. 
+No. 00-2579 (complaint filed June 12, 2000). : 
+
+
+pe Te ne cnt it A St. Wi Oe ae a 
+
+
+17 
+
+
+In sum, not since the Ninth Circuit’s decision that this Court 
+reversed in Sony Corporation of America v. Universal Studios, 
+464 U.S. 417 (1984), which involved a challenge to the public’s 
+right to videotape television programs at home, has there been 
+a copyright decision that so precipitately makes unlawful so 
+firmly established and widespread a practice or one that so 
+adversely affects the consumer, commercial, library, and 
+academic communities. See also id. at 456 (“One may search 
+the Copyright Act in vain for any sign that the elected 
+representatives of the millions of people who watch television 
+every day have made it unlawful to copy a program for later 
+viewing at home * * * .”). The Second Circuit’s decision, in 
+and of itself and entirely apart from what any other circuit might 
+later hold, forces the destruction of large volumes of 
+constitutionally protected material without any proper basis. 
+Unlike the myriad cases — by far the most typical on the 
+certiorari docket — in which the adverse consequences of an 
+erroneous ruling by a single circuit court are largely reversible 
+by later review in this Court after further percolation in the lower 
+courts, this is a case in which the necessarily risk-averse position 
+of petitioners, as well as other publishers and database providers 
+around the country, leaves no choice other than to take 
+irreversible, information-destroying steps when the Second 
+Circuit’s judgment takes effect. In cases such as this, where 
+any possibility of subsequent error correction necessarily would 
+come too late, this Court need only decide one question in 
+determining whether to grant certiorari: Is the decision below 
+sufficiently dubious on the merits such that the massive 
+destruction of constitutionally protected information is too great 
+a cost to bear to warrant deferring review of the question 
+presented? Cf! Nebraska Press Assn. v. Stuart, 427 U.S. 539, 
+580 (1976) (Brennan, J., concurring in the judgment) (reiterating 
+view that “each passing day constituted an irreparable 
+infringement on First Amendment values”). Here, for the reasons 
+set forth below, it is difficult to conceive of a copyright decision 
+that could rest on more fundamental misapplications of settled 
+
+
+18 
+
+
+copyright law, or that could have greater adverse consequences 
+for the public’s right of access to copyrighted expression. 
+
+
+Fortunately, the necessity of immediate review is matched 
+
+
+by the unique suitability of this case as a vehicle for addressing 
+the question presented. The parties, which include multiple 
+freelance authors and several publications and database 
+providers, compiled an exhaustive record regarding the nature 
+of the Publications, the electronic copies stored in databases, 
+and the Articles in question. Cf. Avis Rent A Car System v. 
+Aguilar, 120 S. Ct. 2029, 2033 (2000) (Thomas, J., dissenting 
+from denial of certiorari) (noting that members of the Court 
+may have been disinclined to grant certiorari based on the lack 
+of a developed factual record). (Petitioners have submitted to 
+this Court a copy of the record on the joint motions for summary 
+judgment, which amply demonstrates the factual development 
+below.) By contrast, any later case (such as a subsequent 
+copyright infringement suit brought by a freelance author) is 
+very unlikely to have the benefit of so broad an array of parties 
+or of so fully developed a record, especially in light of the 
+de facto national scope of the Second Circuit’s decision. This 
+case accordingly merits the Court’s immediate review. 
+II. Certiorari Is Warranted Because The Decision Below 
+Conflicts With Decisions Of This Court And Of Other 
+Circuits. 
+
+
+The Second Circuit’s holding that electronic publication - 
+
+
+violates the copyrights held by contributing freelance authors 
+conflicts with two important principles of copyright law settled 
+by this Court and other circuits. Both conflicts are inexplicable 
+given that the only difference between the copies stored in the 
+electronic databases and paper editions of periodicals stored on 
+library shelves is that the former accelerate and improve 
+research, benefits that are entirely consonant with the goals of 
+the Copyright Act. As the district court recognized, electronic 
+databases “permit users to consult defendants’ periodicals in 
+new ways and with new efficiency, but for the same purposes 
+that they might otherwise review the hard copy versions of those 
+
+
+Sa?” Cee hit latent ie viatek, CELA, Lada + nak ee Oe ee ee . “ 
+
+
+19 
+
+
+periodicals.” Pet. App. 75a. There can be no dispute that research 
+in back copies of periodicals, even in paper copies, consistently 
+involves searching for individual articles rather than complete 
+back editions and that Congress, in enacting the 1976 Copyright 
+Act, was fully cognizant of the impending development of the 
+specific technologies at issue in this case: computers and 
+electronic databases.° 
+
+
+Moreover, as the district court also recognized, under the 
+Copyright Act’s media neutral definitions, periodicals remain 
+the same works whether published in paper or on a computer 
+disc. Specifically, under Section 101 of the Act, a “literary work” 
+remains the same “regardless of” whether it is embodied in paper 
+or instead on a diskette and a “copy” of a work is the same 
+whatever the medium in which it is embodied. Pet. App. 57a 
+(citing 17 U.S.C. § 101). 
+
+The Second Circuit’s decision, by contrast, proceeds as 
+though: (i) users of the databases retrieve individual articles 
+when they research back issues electronically but entire editions 
+
+
+9. For example, the Copyright Office explained in testimony 
+regarding the Act that 
+
+
+you can read the Bill from beginning to end and you won’t 
+find in it any reference to computers [even though] these 
+are one of the coming instruments of communication in 
+the future. We have tried to phrase the broad rights granted 
+in such a way that they can be adapted as time goes on to 
+each of the new advancing media. 
+
+
+Copyright Law Revision: Hearing on H.R. 4347, 4680, 6831, 6835 
+Before Subcomm. No. 3 of the House Comm. on the Judiciary, 89th 
+Cong., Ist Sess. 57 (1965) (testimony of George D. Cary, Deputy 
+Register of Copyrights). Congress also was specifically presented with 
+testimony confirming that computer databases would be used as vast 
+libraries in which complete books and periodicals could be stored in 
+their entirety but accessed in exactly the way the NEXIS database and 
+UMI CD-ROMs are used today. Hearings on H.R. 2223 at 338 
+(testimony of Paul G. Zurkowski, President, Information Industry 
+Association) (under the Act, collective works such as encyclopedias 
+and periodicals would be input, and through computer equivalents of 
+the Reader’s Guide, located to access individual contributions). 
+
+
+20 
+
+
+when they use paper indices and paper or microfilm editions of 
+the periodicals; and (ii) Congress intended to treat electronic 
+databases and print editions as somehow fundamentally different 
+under the Copyright Act. In fact, nobody can seriously maintain 
+either of these notions. Under the Second Circuit’s artificial 
+approach to paper versus electronic copies and new 
+versus revised works, new and infringing “anthologies” are 
+created on the hard drive of every computer in a judge’s 
+chambers whenever multiple programs (word processing or 
+spreadsheet), memos from law clerks, letters, or other 
+copyrightable materials are stored. That unworkable 
+proposition is completely inconsistent with Congressional 
+intent and the widely held recognition that it makes no sense 
+to impose print-related concepts on the bits and bytes that 
+make up databases. See Jane Ginsburg, “No ‘Sweat’? 
+Copyright and Other Protection of Works of Information After 
+Feist v. Rural Telephone,” 92 Colum. L. Rev. 338, 345 (1992) : 
+(computer databases “may lack any ‘arrangement,’ for they 
+are designed to permit the user to impose her own search 
+criteria on the mass of information”).!° Instead, it is 
+the district court’s conclusion — that “NEXIS and UMI’s 
+CD-ROMs carry recognizable versions of the publisher- 
+defendants’ newspapers and magazines” and simply “store 
+those versions within something akin to an electronic 
+research library,” Pet. App. 75a n.16 — that the Copyright 
+Act’s policy of media neutrality plainly compels. 
+
+The problems created by the decision below are all the 
+more troubling because the Second Circuit has construed the 
+Copyright Act so as to create a conflict between the Act’s 
+
+
+Signal cl 
+
+
+SN he EIRP OA A vote 
+
+
+AF A Malt soa a Bt ileal eed 
+
+
+10. See also Robert C. Denicola, Copyright in Collections of 
+Facts: A Theory for the Protection of Nonfiction Literary Works, 81 
+Colum. L. Rev. 516, 531 (1981) (it is “senseless to seek . . . a specific, 
+fixed arrangement of data. There is simply a collection of information 
+stored in an electronic memory — information that can be arranged 
+and retrieved in variations limited only by the capabilities of the 
+computer and the sophistication of the retrieval program”). 
+
+
+EES TE Te 
+
+
+21 
+
+
+terms and a vital form of technological development. This 
+Court, however, has definitively settled that, in cases of doubt, 
+the Copyright Act should be read to encourage new 
+technologies and that restrictions on the use of technology 
+should be left to Congress: 
+
+
+Sound policy, as well as history, supports our 
+consistent deference to Congress when major 
+technological innovations alter the market for 
+copyrighted materials. Congress has the 
+constitutional authority and the institutional ability 
+to accommodate fully the varied permutations of 
+competing interests that are inevitably implicated 
+by such new technology."! 
+
+
+Sony Corp. of Am. v. Universal City Studios, 464 U.S. 417, 
+(1984) (citing Twentieth Century Music Corp. v. Aiken, 422 U.S. 
+151, 156 (1975); Fox Film Corp. v. Doyal, 286 U.S. 123, 127 
+(1932). Other courts of appeals consistently have recognized, 
+and adhered to, this principle of construction.'2 The Second 
+
+
+11. It therefore bears noting that in 1983, Congress considered, 
+but refused to adopt, NWU-supported legislation that would have 
+allowed freelancers to terminate the automatic transfer of rights in 
+Section 201(c) if, among other things, “changes in ... media 
+exploitation” had proved “disadvantageous to the author.” Hearing on 
+S. 2044 at 45; S. 2138, 98th Cong. Ist Sess.; 129 Cong. Rec. 34,442 
+(1983). This legislative history briefed for, but ignored by, the Second 
+Circuit, underscores the impropriety of undoing, by judicial fiat, the 
+deliberate congressional balancing of interests reflected in Section 
+201(c). See Rosado v. Wyman, 397 U.S. 397, 415 n.17 (1970) 
+(congressional failure to adopt proposed amendment “gives rise to an 
+inference” of intent not to enact substance of rejected proposal). 
+
+
+12. As then-Judge Posner wrote for the Seventh Circuit: Congress 
+“wanted the courts to interpret the definitional provisions of the new 
+act flexibly, so that it would cover new technologies as they appeared, 
+rather than to interpret those provisions narrowly and so force Congress 
+periodically to update the act.” WGN Continental Broadcasting Co. v. 
+United Video, 693 F.2d 622 (CA7 1982); see also Sony Computer 
+
+
+(Cont’d) 
+
+
+22 
+
+
+Circuit’s decision not only rejected this principle but did so in a 
+manner that brought the Copyright Act into direct conflict with 
+the two other, settled principles of copyright law described 
+below, thus triply meriting review and reversal by this Court. 
+
+
+A. The Decision Below Conflicts With The Holding Of 
+This Court And Other Circuits That The Predicted 
+Conduct Of Independent Third Parties Is Irrelevant 
+To A Claim Of Copyright Infringement. 
+
+
+The Second Circuit’s opinion acknowledges that this case 
+involves allegations of direct copyright infringement only: 
+“(T]he Authors’ claim is that the copyright each owns in his or 
+her individual articles was infringed when the Publishers 
+provided them to the electronic databases.” Pet. App. 5a 
+(emphasis added). It is undisputed, however, that “when” such 
+delivery was made, it was delivery of the complete editorial 
+contents of each respective periodical, in the same computer- 
+readable format in which those contents are delivered to those 
+
+
+(Cont'd) 
+
+Entertainment v. Connectix Corp., 203 F.3d 596, 605 (CA9 2000) 
+(refusing to adopt holding that would have effect of requiring difficult 
+and less efficient development of computer software as resulting in 
+“ ‘wasted effort’ ” antithetical to copyright law (quoting Feist, 499 U.S. 
+at 354)); Columbia Pictures Indus. v. Redd Horne, Inc., 749 F.2d 154, 
+157 (CA3 1984) (“It is acknowledged that it is the role of the Congress, 
+not the courts, to formulate new principles of copyright law when the 
+legislature has determined that technological innovations have made 
+them necessary.”) (citing Sony v. Universal, supra; Teleprompter Corp. 
+v. CBS, 415 U.S. 394, 414 (1974)); Apple Computer v. Franklin 
+Computer Corp., 714 F.2d 1240, 1253 (CA3 1983) (relying on 
+“Congress’ receptivity to new technology and its desire to encourage, 
+through the copyright laws, continued imagination and creativity in 
+computer programming”); National Cable Television Ass'n v. Copyright 
+Royalty Tribunal, 689 F.2d 1077, 1079 (CADC 1982) (explaining that 
+it was this Court’s holding that cable retransmission did not violate the 
+copyrights of broadcasters under the 1909 Act that was a key impetus 
+for enactment of the 1976 Copyright Act (citing Teleprompter Corp. v. 
+CBS, 415 U.S. 394 (1974); Fortnightly Corp. v. United Artists Television, 
+392 U.S. 390 (1968))). 
+
+
+23 
+
+
+who print the paper copies of the Publications. In the terms 
+of the Copyright Act, respondents’ claims of direct copyright 
+infringement must be gauged at the point the publications were 
+“fixed” in the databases." 
+
+The Second Circuit, however, did not follow that well- 
+settled principle. Instead, it held, as a matter of law, that direct 
+infringement liability may be imposed based solely on the ability 
+of end users to cherry pick, out of the electronic copies, articles 
+“individually or in combination with other pieces originaily 
+
+
+13. MAI Sys. Corp. v. Peak Comp.,991 F.2d 511, 519 (CA9 1993) 
+(“[I]t is generally accepted that the loading of software into a computer 
+constitutes the creation of a copy under the Copyright Act,” “whether 
+the software is loaded into the RAM, the hard disk or the read 
+only memory”); see also Urantia Found. v. Maaherra, 114 F.3d 955 
+(CA9 1997) (defendant engaged in copyright infringement by copying 
+2000 “revelations” published in plaintiff’s book into searchable 
+CD-ROM study guide); Triad Sys. Corp. v. Southeastern Express Co., 
+64 F.3d 1330, 1333 & n.4 (CA9 1995) (holding that “copies * * * are 
+made” when placed “in the computer’s random access memory” or 
+“onto the hard drive” or “onto tapes”); Sega Enters. v. Accolade, 
+No. 92-15655 1993, U.S. App. LEXIS 78, at *18 (CA9 Jan. 6, 1993) 
+(“In order to constitute a ‘copy’ for purposes of the Act, the allegedly 
+infringing work must be fixed in some tangible form, ‘from which the 
+work can be perceived, reproduced, or otherwise communicated, either 
+directly or with the aid of a machine or device.’ 17 U.S.C. § 101. 
+The computer file generated by the disassembly program, the printouts 
+of disassembled code, and the computer files containing Accolade’s 
+modifications that were generated during the reverse engineering process 
+all satisfy that requirement.”); Atari Games Corp. v. Nintendo, 975 F.2d 
+832, 842 (CA9 1992) (holding that copies were created at each stage in 
+which computer code was “photocopie[d],” “hand-copied”, and placed 
+“into a computer”). Decisions of other circuits are to the same effect. 
+Stenograph LLC v. Bossard Assocs., 144 F.3d 96, 100 (CADC 1998) 
+(“The language of the Copyright Act, case law, and common sense 
+support the proposition that the installation of software into a computer 
+results in ‘copying’ within the meaning of the Copyright Act.”); 
+DSC Communications Corp. v. Pulse Communications, 170 F.3d 1354 
+(CAFED 1999) (“copying” occurred when defendant transferred 
+software from digital switching system to memory in computer card). 
+
+
+24 
+
+
+published in different editions of the periodical or in different 
+periodicals.” Pet. App. 6a. This unprecedented approach 
+conflicts squarely with this Court’s seminal holding in 
+Sony, supra, that such end user, “[t}hird party conduct [is] wholly 
+irrelevant in an action for direct infringement.” Sony, 464 U.S. 
+at 446. In Sony, motion picture studios claimed that 
+manufacturers of video tape recorders were liable for copyright 
+infringement because consumers could use the recorders to copy 
+off-air television programming without permission. This 
+Court refused to permit the court of appeals in that case to 
+impose direct liability on the manufacturers for the acts of 
+third-party consumers and held that, because the recorders 
+were capable of “substantial noninfringing uses” (such as 
+taping noncopyrighted programming or taping copyrighted 
+programming for later non-commercial private viewing), 
+contributory liability for infringement did not exist. 
+
+
+Other circuits have adhered faithfully to the distinction 
+between direct and contributory infringement drawn by this 
+Court in Sony. For example, in Los Angeles News Serv. 
+v. Tullo, 973 F.2d 791 (CA9 1992), the Ninth Circuit held 
+that the defendant (AVRS) infringed the plaintiff’s (LAN) 
+copyright in the contents of video tapes by recording the 
+contents of the tapes from television programs and then 
+distributing the material. The court explained that 
+
+
+“LAN’s claim against AVRS is not that AVRS is 
+vicariously liable for alleged infringements by its 
+customers but that it is directly liable for its own 
+infringements: The difference is crucial; * * * * 
+the ultimate use to which the customer puts the 
+tape is irrelevant, as is the use AVRS’s customers 
+make of the tapes AVRS sells.” 
+
+
+Id. at 797 (emphasis added). See also MicroStar v. Formgen, 
+Inc., 154 F.3d 1107, 1113 (CA9 1998) (refusing to consider 
+third-party use of allegedly infringing work because claim 
+asserted was for direct infringement); Princeton Univ. 
+Press v. Michigan Document Servs., Inc., 99 F.3d 1381, 1389 
+
+
+eee 
+
+
+25 
+
+
+(CA6 1999) (en banc) (rejecting proposition that “copy 
+shops” can assert fair use defense of end user in case of direct 
+infringement: “It is true that the use to which the materials 
+are put by the students who purchase the coursepacks is 
+noncommercial in nature. But the use of the materials by the 
+students is not the use that the publishers are challenging.”); 
+RCA/Ariola Int’l v. Falcon Heights Pharm., 845 F.2d 773, 
+781 (CA8 1988) (recognizing that direct liability cannot turn 
+“on what unknown customers may or may not do”).!4 
+
+
+The Second Circuit’s decision simply cannot be 
+reconciled with Sony and its progeny in the Sixth, Eighth 
+and Ninth Circuits. The court of appeals concluded here that 
+infringement existed not because the Publishers reproduce 
+or distribute articles individually (it is beyond dispute that 
+they do not), but instead because users of the CD-ROMs or 
+the NEXIS database might identify and read those articles 
+individually. That is precisely the third-party conduct that 
+Sony holds irrelevant to a claim of direct copyright 
+infringement. 
+
+
+Moreover, as the district court noted, respondents had 
+expressly waived below all claims based on such third-party 
+downloads. Pet. App. 33a n.3. This tactical choice is not 
+surprising: Any such claim of contributory copyright 
+infringement undoubtedly would fail because, as Sony also 
+holds, the publishing activities challenged below need only 
+be capable of “substantial noninfringing uses” to be protected 
+under the Copyright Act’s fair use provision, 17 U.S.C. § 107. 
+464 U.S. at 442. Given that the vast majority of retrievals by 
+individuals, such as researchers, students, university 
+professors, lawyers, and judges no doubt would qualify asa 
+“fair use” under the Copyright Act, it is clear that the 
+
+
+14. The Second Circuit’s decision also specifically conflicts with 
+the view of the United States Department of Justice as an amicus in 
+Matthew Bender & Co. v. West Publ’g Co., 158 F.3d 693 (CA2 1998), 
+cert. denied, 119 S. Ct. 2039 (1999), which stressed the importance of 
+a proper “direct” versus “contributory” infringement analysis. 
+
+
+26 
+
+
+substantial noninfringing uses defense — now precluded 
+under the Second Circuit’s unprecedented approach — 
+otherwise would apply. See generally Campbell v. Acuff-Rose 
+Music, 510 U.S. 569 (1994); Harper & Row, Publishers v. 
+Nation Enters., 471 U.S. 539 (1985). The Second Circuit, 
+nonetheless, ran roughshod over this Court’s holding in Sony 
+— an error exemplified by its baffling failure even to cite 
+this Court’s Sony decision.*® 
+
+
+B. The Decision Below Conflicts With Decisions Of 
+This Court And Of Other Circuits Holding That 
+“Originality” Is An Essential Element Of The 
+Creation Of A “New” Work Under The Copyright 
+Act. 
+
+
+The Second Circuit held in this case that the reproduction 
+and distribution of electronic copies of periodical issues resulted 
+in a new work outside the privilege accorded to publishers to 
+create “any revision” of their periodicals. According to the 
+Second Circuit, this new work was either “at best a new 
+anthology of innumerable editions of * * * the [Publications], 
+[or] at worst a new anthoiogy of innumerable articles from these 
+editions.” Pet. App. 17a. It is undisputed, however, that the 
+differences in the periodicals as fixed in print and as fixed in 
+electronic copies are dictated by the different media involved, 
+with the “revision” in this case characterized only by the 
+omission of graphics, advertisements and agate-type entries. 
+The Second Circuit’s decision therefore conflicts with this 
+Court’s decision in Feist, holding that “(t]he sine qua non of 
+copyright is originality” and that “mechanical” copying of a 
+
+
+15. By implicitly assuming such end-user conduct to be infringing, 
+the Second Circuit’s decision also is in conflict with the decisions of 
+the Fifth and Eleventh Circuits, both of which, in assessing contributory 
+infringement claims, consider whether a product or service is capable 
+of substantial non-infringing uses, such as fair uses. Cable/Home 
+Communications Corp. v. Network Productions, Inc., 902 F.2d 829, 
+846 (CA11 1990); Vault Corp. v. Quaid Software, Ltd., 847 F.2d 255, 
+267 (CAS 1988). 
+
+
+27 
+
+
+work is not sufficient to create a new work, 499 US. at 345, 
+and conflicts as well with the circuit court decisions following 
+and elaborating upon Feist. Under those decisions, the act of 
+transferring a work from one medium to another is deemed 
+insufficiently original to result in a new work. The differences 
+the Second Circuit identified as creating a “new” work — such 
+features as coding, searchability and digitization — are the 
+necessary and “inevitable” consequence of the very transfer to 
+a new medium, Feist, 499 U.S. at 363, and are “dictated by 
+functional considerations and common industry practice,” 
+Bell South Adv. & Pub. Corp. v. Donnelly Info. Pub., 999 F.2d 
+1436, 1443 (CA11 1993). They cannot, therefore, give rise to a 
+“new anthology” outside the scope of the “any revision” 
+privilege. Put simply, a new work is not created by 
+the mechanical way the databases are assembled. 
+See, e.g., Entertainment Research Group v. Genesis Creative 
+Group, 122 F.3d 1211, 1222 (CA9 1997) (“making decisions 
+that enable one to reproduce or transform an already existing 
+work into another medium” does not result in copyrightable 
+work); Superior Form Builders v. Dan Chase Taxidermy Supply 
+Co., 74 F.3d 488, 493 (CA4 1996) (“mechanical process” of 
+making casting from sculpture “allowed for no possibility of 
+originality, which is inherent in authorship”); Sherry Mfg. Co. 
+v. Towel King, 735 F.2d 1565, 1568 (CA11 1985) (“Thus, the 
+one indispensable element of authorship is originality. One who 
+Slavishly or mechanically copies from others may not claim to 
+be an author.”); Gracen v. Bradford Exchange, 698 F.2d 300, 
+305 (CA7 1983) (oil painting of still frame from movie 
+“differ[ed] only in the medium” and therefore was not 
+copyrightable). 
+
+For this reason, the Copyright Office, empowered by 
+Congress to administer the Act, 17 U.S.C. § 702, refuses to 
+register automated databases “where the collection and 
+arrangement” consists solely of “transferring data from hard 
+copy to computer storage.” Circular 65, Copyright Registration 
+for Automated Databases 1 (U.S. Copyright Office 1999). The 
+
+
+28 
+
+
+Second Circuit’s decision to the contrary impermissibly lowers 
+the constitutional originality bar, and conflicts with the decisions 
+of this Court and of other circuit courts of appeal, further 
+pointing to the need for plenary review by this Court. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the petition for a writ of certiorari 
+should be granted. 
+
+
+Respectfully submitted, 
+Bruce P. KELLER LAURENCE H. TRIBE 
+JEFFREY P. CUNARD Counsel of Record 
+MICHAEL R. POTENZA JONATHAN S. MASSEY 
+PETER C. JOHNSON Hauser Hall 420 
+DEBEVOISE & PLIMPTON 1575 Massachusetts Avenue 
+875 Third Avenue Cambridge, MA 02138 
+New York, NY 10022 (617) 495-4621 
+
+
+(212) 909-6000 
+
+
+THOMAS C. GOLDSTEIN 
+Tuomas C. GOLDsTEN, P.C. 
+4607 Asbury Place, NW 
+Washington, DC 20016 
+(202) 237-7543 
+
+
+Attorneys for Petitioners 
+
+

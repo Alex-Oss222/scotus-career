@@ -1,0 +1,20 @@
+[
+  {
+    "name": "national_farmers",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-471/pdf/USREPORTS-471-845.pdf",
+    "pages": 13,
+    "characters": 29598
+  },
+  {
+    "name": "iowa_mutual",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-480/pdf/USREPORTS-480-9.pdf",
+    "pages": 14,
+    "characters": 32639
+  },
+  {
+    "name": "montana",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-450/pdf/USREPORTS-450-544.pdf",
+    "pages": 38,
+    "characters": 88158
+  }
+]

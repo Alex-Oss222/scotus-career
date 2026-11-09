@@ -1,0 +1,1201 @@
+APR est | Sopenmne Court 1 | 
+
+
+No. 00-1011 
+
+
+In The 
+
+
+=) 
+
+
+ORR! OF THR GE K 
+
+
+Supreme Court of the United States 
+
+
+DEBORIS CALCANO-MARTINEZ, ET AL., 
+
+
+Petitioners, 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari To The United States 
+Court of Appeals For The Second Circuit 
+
+
+REPLY BRIEF FOR THE PETITIONERS 
+
+
+KERRY W. BRETZ 
+
+JULES E. COVEN 
+
+ALAN MICHAEL STRAUSS 
+BRETZ & COVEN 
+
+305 Broadway, Suite 100 
+New York, New York 10007 
+(212) 267-2555 
+
+
+PAUL A. ENGELMAYER 
+CHRISTOPHER J. MEADE 
+WILMER, CUTLER & PICKERING 
+520 Madison Avenue 
+
+New York, New York 10022 
+(212) 230-8800 
+
+
+LUCAS GUTTENTAG 
+Counsel of Record 
+LEE GELERNT 
+STEVEN R. SHAPIRO 
+AMERICAN CIVIL LIBERTIES 
+UNION FOUNDATION 
+125 Broad Street 
+
+
+New York, New York 10004 
+
+
+(212) 549-2617 
+
+
+JAYASHRI SRIKANTIAH 
+LILIANA M. GARCES 
+AMERICAN CIVIL LIBERTIES 
+
+UNION FOUNDATION 
+405 14th Street, Suite 300 
+Oakland, California 94612 
+(510) 625-2010 
+
+
+= SSSSSSSSSan@=DD=EU)=_—O 
+PRESS OF BYRON S. ADAMS # WASHINGTON, D.C. + 1-800-347-8208 
+
+
+ye 
+
+
+ES ET EN ee 
+
+
+1 
+TABLE OF CONTENTS 
+Page 
+ere ree ee 2 
+ee ore ee eee 7 
+C. Due Process and Article I ..................... 16 
+RR oie es 19 
+
+
+li 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page(s) 
+CASES: 
+Boggin, Ex parte, 104 Eng. Rep. 484 (K.B. 1811) ...... 15 
+Bollman, Ex parte, 8 U.S. (4 Cranch) 75 (1807) ..... 14-15 
+Bridges, Ex parte, 4 F. Cas. 98 (N.D. Ga. 1875) ....... 14 
+Bridges v. Wixon, 326 U.S. 135 (1945) ............... 13 
+Brownell v. Tom We Shung, 352 U.S. 180 (1956) ....... 13 
+Carlson v. Landon, 342 U.S. 524 (1952) ........... 16, 17 
+Chadha v. INS, 634 F.2d 408 (9th Cir. 1980), aff'd, 462 
+
+US. 919 (UE sk sivccave teehee eect ees 10 
+Commodity Futures Trading Comm’n v. Schor, 478 U.S. 
+
+S33 (1906)... . 44s Slee ees le 18 
+Dessalernos v. Savoretti, 356 U.S. 269 (1958) ......... 11 
+Federal Election Comm'n v. Akins, 524 U.S. 11 (1998) ... 7 
+Felker v. Turpin, 518 U.S. 651 (1996) .............. : 
+Foti v. INS, 375 U.S. 217 (1963) ..........20e000- 10, 11 
+Goldswain's Case, 96 Eng. Rep. 711 (C.P. 1778) ....... 15 
+
+
+Heikkila v. Barber, 345 U.S. 229 (1953) .... 3,9, 12, 13, 14 
+Honda Motor Co. v. Oberg, 512 U.S. 415 (1994) .... 17, 18 
+
+
+INS v. Cardoza-Fonseca, 480 U.S. 421 (1987) .......... 7 
+INS v. Chadha, 462 U.S. 919 (1983) ................. 11 
+INS v. Yueh-Shaio Yang, 519 U.S. 26 (1996) .......... 10 
+Jay v. Boyd, 351 UR; SUGGES iv dss seacesccevanc 10 
+
+
+Johnson v. Robison, 415 U.S. 361 (1974) .............. 4 
+
+
+ili 
+
+
+Table of Authorities continued 
+
+
+Page(s) 
+Kessler v. Strecker, 307 U.S. 22 (1939) ............... 13 
+Lewis v. Casey, 518 U.S. 343 (1996) ............... 9-10 
+-McCardle, Ex parte, 73 U.S. (6 Wall.) 318 (1868) ...... 15 
+Murray v. Hoboken Land and Improvement Co., 59 U.S. 
+eS OE 4 hick aetedasedecee eas re 
+See POs Roe a BOUOOOD onic bncesiesacescdins 14 
+Nishimura Ekiu v. United States, 142 U.S. 651 
+sc ceah ARAVA N ES Odeo kde bd o, ia, 845 37 
+Northern Pipeline Constr. Co. v. Marathon Pipe Line Co., 
+os. RIESE SE GSR eo epnaras ann ae eee eer 19 
+Reno v. American-Arab Anti-Discrimination Comm., 525 
+Sb a abe Khao s oneness Se aeane 12 
+Thomas v. Union Carbide Agric. Prods. Co., 473 U.S. 568 
+Nee ee eee ie wet pe kos ae.o hte te kh kaw es 18 
+Securities and Exchange Comm’n v. Chenery Corp., 318 
+cab sah sib OO CkR aeRO wEDS 7 
+United States ex rel. Accardi v. Shaughnessy, 347 U.S. 
+Yt, are bean aes 2, 7, 8, 9, 10, 12, 16 
+United States ex rel. Kaloudis v. Shaughnessy, 180 F.2d 
+nS erase Jaen ce aed teed eae eew es 8 
+United States ex rel. Mensevich v. Tod, 264 U.S. 134 
+Se 2S a een eae a ear 10 
+Watkins, Ex parte, 32 U.S. (7 Pet.) 568 (1833) ......... 16 
+
+
+Webster v. Doe, 486 U.S. 592 (1988) ................. 4 
+
+
+cise gaaaa aaa aaa: 
+
+
+ee 
+
+
+iv 
+
+
+Table of Authorities continued 
+
+
+Page(s) 
+
+Weinberger v. Salfi, 422 U.S. 749 (1975) .............. 4 
+Yamataya v. Fisher (The Japanese Immigrant Case), 189 
+
+CA A GR 8 6 5 04 6 a cen ew eee 16 
+Yerger, Ex parte, 75 U.S. (8 Wall.) 85 (1869) .......... 3 
+CONSTITUTIONAL PROVISIONS: 
+Ran Ss Fs Eee Da oa 6 a 64S koe Os eke ees Re 
+ike SS Pree rere rere pepereer ely en: 16 
+U.S. Const. Amend. V ....... MGs eueuncauuce knee 16 
+STATUTES AND REGULATIONS: 
+
+
+Habeas Corpus Act of 1867, ch. 28, § 1, 14 Stat. 385; Rev. 
+oN eo ht ree erent 14, 15 
+
+
+Illegal Immigration Reform and Immigrant Responsibility 
+Act of 1996 (IIRIRA), Pub. L. No. 104-208, Div. C, 
+110 Stat. 3009-575 
+
+
+S SURO), 110 Seat. SOOP-GIZ occ ccc ccc canccscecn 5 
+Immigration and Nationality Act (INA) (8 U.S.C. 1101 er 
+
+seq.) 
+
+8 U.S.C. 1105a(a)(10) (1994) ................ ee 
+Sak EID vd obac Kedcndadars cabeaa 6 
+Pris SE ee eae oa wee uae 5 
+DP Rpts REND hb nc 060d. be oknanes On i, it 
+8 U.S.C. 1227(a)(2)(A)(i) (Supp. V 1999) .......... | 
+8 U.S.C. 1227(a)(2)(A)(ii) (Supp. V 1999) ......... 5 
+8 U.S.C. 1227(a)(2)(B) (Supp. V 1999) ............ 6 
+8 U.S.C. 1227(a)(2)(C) (Supp. V 1999) ............ 6 
+
+
+8 U.S.C. 1252(a)(2) (Supp. V 1999) ............... 2 
+
+
+Vv 
+
+
+Table of Authorities continued 
+
+
+Page(s) 
+
+8 U.S.C. 1252(a)(2)(C) (Supp. V 1999) ....... passim 
+
+8 U.S.C. 1252(e)(2) (Supp. V 1999) ............ aoe 
+Judiciary Act of 1789, Act of Sept. 24, 1789, ch. 20, § 14, 
+
+SS | ee eee et rey yor rr eh ey 14 
+
+BO ALE. FAO vs iss hn s Whoa 4 eka Seve eee io 
+
+SCP. IZM CP 6 oi cb icvase sissies en 11 
+
+
+OTHER AUTHORITIES: 
+
+
+Paul M. Bator, The Constitution as Architecture: 
+Legislative and Administrative Courts Under Article 
+
+
+UTE. GS Wak, 30 2 Ce on vin cd sexeshantece 19 
+142 Cong. Rec. 7349 and 10,052 (1996) (Statements of 
+Sem: ANS a ok fons ence cede eee es 4-5 
+
+
+Henry M. Hart, Jr., The Power of Congress to Limit the 
+Jurisdiction of Federal Courts: An Exercise in 
+
+
+Dialectic, 66 Harv. L. Rev. 1362 (1953) .......... 13 
+1 James S. Liebman & Randy Hertz, Federal Habeas 
+Corpus Practice and Procedure (3d ed. 1998) ...... 15 
+
+
+Lewis Mayers, The Habeas Corpus Act of 1867: The 
+Supreme Court as Legal Historian, 32 U. Chi. L. Rev. 
+SE (POG sn < baka cena iad eae 16 
+
+
+Dallin H. Oaks, Habeas Corpus in the States--1776-1865, 
+32 UY, Chek. 1 Ov. Dee Clee aos Se ead caw act cane 16 
+
+
+S. Rep. No. 249, 104th Cong., 2d Sess. (1996) (Statements 
+wr Gan, AGUS i 0 kos oho hank hk 0 os eek 4-5 
+
+
+Senate Judiciary Comm. Tr. of Proceedings (Mar. 14, 
+1996) (Statements of Sen. Abraham) ............ 4-5 
+
+
+REPLY BRIEF FOR THE PETITIONERS 
+
+
+Petitioners challenge the Attorney General’s ruling that, as 
+a matter of law, he has no statutory authority to grant 
+petitioners a hearing on their request for relief under 8 U.S.C. 
+1182(c). The government contends that IIRIRA precludes 
+review in any court, including this Court, of that pure question 
+of law. Petitioners’ submission is that IRIRA can be construed 
+to allow either the court of appeals (in a petition for review) or 
+the district court (under 28 U.S.C. 2241) to adjudicate 
+petitioners’ claims, and that a complete prohibition of 
+jurisdiction in any court would violate the Constitution. 
+
+
+The government’s brief does not dispute the essential 
+elements of our analysis. The government agrees that the 
+preclusion statute should be construed in light of background 
+
+_presumptions and rules of construction. On that issue, 
+therefore, the disagreement between the parties is over which 
+rule(s) of construction should apply. The government also does 
+not dispute that the Suspension Clause protects the historic role 
+of habeas corpus inquiry over non-constitutional claims, at least 
+in the context of federal executive detention. Nor does the 
+government disagree that the habeas inquiry historically 
+exercised by this Court to determine the legal validity of a 
+deportation order encompassed constitutional as well as non- 
+constitutional claims. 
+
+
+The government’s submission instead rests on the 
+contention that the particular type of legal claim raised by 
+petitioners is barred, and that the preclusion of review is 
+unproblematic because it concerns eligibility for discretionary 
+relief. The government argues that the Suspension Clause does 
+not protect that claim because petitioners are “indisputably 
+deportable,” because the Attorney General might have chosen 
+to deny their requests in the exercise of discretion, and because 
+this Court’s habeas review of non-constitutional claims relating 
+to discretionary deportation relief should be disregarded as 
+insufficiently explicit or not constitutionally compelled. 
+
+
+2 
+
+
+The government’s brief does not offer any affirmative 
+authority from this Court’s immigration jurisprudence or from 
+the common law history of habeas corpus (in this country or 
+England) supporting the view that petitioners’ legal claim falls 
+outside the historic core of habeas scrutiny of non-judicial 
+executive detention. The government’s arguments, moreover, 
+are refuted in their entirety by this Court’s decision in United 
+States ex rel. Accardi v. Shaughnessy, 347 U.S. 260 (1954), are 
+dependent on conflating the difference between eligibility for 
+relief and the exercise of discretion, and ultimately hinge on the 
+unsupportable contention that because petitioners are 
+“deportable” within the meaning of the immigration act, the 
+Attorney General could “detain and remove” them without ever 
+adjudicating their claim for relief. 
+
+
+A. Statutory Construction. As we explained in our 
+opening brief (at 17-26, 42-49), Section 1252(a)(2)(C) should 
+be construed to preclude the broad scope of “review” that is 
+available for final orders of removal generally, but not the more 
+circumscribed scope of review traditionally provided by habeas 
+corpus.’ Our construction would permit the courts of appeals 
+to exercise petition-for-review jurisdiction in cases involving 
+aliens removable on the basis of one of the enumerated criminal 
+offenses, but only insofar as the alien raises a claim 
+encompassed by the scope of inquiry traditionally exercised in 
+a habeas corpus action. Alternatively, if petition-for-review 
+jurisdiction were unavailable, the statute should be read to 
+
+
+Section 1252(a)(2) refers to “Matters not subject to judicial 
+review.” Petitioners’ opening brief (at 17) inadvertently referred to Section 
+1252(a)(2)(C) as also using the term “judicial review.” As the government 
+correctly notes (at 26), subsection (C) of Section 1252(a)(2), like the other 
+subsections, uses the term “review.” Given Section 1252(a)(2)’s reference 
+to “judicial review,” use of the shorthand term “review” in its subsections 
+has no significance. In any event, petitioners’ submission on the 
+construction of Section 1252(a)(2)(C) does not turn on any difference 
+between the terms “review” and “judicial review.” 
+
+
+3 
+
+
+permit district courts to exercise habeas jurisdiction under 28 
+U.S.C. 2241 over petitioners’ claims. This brief will address 
+only the court of appeals avenue, and will not repeat the 
+arguments supporting district court review made in our opening 
+brief (at 44-49), and more fully in the respondent’s brief in JNS 
+v. St. Cyr, No. 00-767 (at 8-19). 
+
+
+Construing Section 1252(a)(2)(C) to preserve the 
+minimum scope of habeas scrutiny is supported by two lines of 
+authority. The first is this Court’s decisions in Felker v. 
+Turpin, 518 U.S. 651 (1996), and Ex parte Yerger, 75 US. (8 
+Wall.) 85 (1869), in which the Court refused to find a repeal of 
+its original habeas corpus jurisdiction in the absence of an 
+express directive. The second is the voluminous body of 
+immigration habeas law decided by this Court under the 
+“finality” provisions enacted by Congress between 1891 and 
+1952, in which the Court repeatedly acknowledged the broad 
+preclusive effect of the finality provisions and yet consistently 
+preserved habeas corpus. See Pet. Br. 17-29; see also Brief 
+Amicus Curiae American Bar Association 11-16, 22-24 
+(collecting cases). Notably, although the government takes 
+issue with certain aspects of the Court’s decision in Heikkila v. 
+Barber, 345 U.S. 229 (1953), it does not dispute Heikkila’s 
+holding of statutory construction, in which the Court 
+comprehensively discussed and reaffirmed the longstanding 
+- rule that the INA’s finality provisions should be read to 
+preclude broad APA-type review, but not habeas corpus. 
+
+
+1. The government itself does not urge the Court to read 
+Section 1252(a)(2)(C) to preclude all review. Instead, it reads 
+Section 1252(a)(2)(C) to allow aliens to raise claims 
+challenging whether they fall within the coverage of the 
+jurisdictional preclusion statute, and thus, to challenge whether 
+the BIA correctly concluded that they are aliens who are 
+removable on the basis of an offense listed in Section 
+1252(a)(2)(C). The government further urges the Court to read 
+
+
+4 
+
+
+Section 1252(a)(2)(C) to permit aliens to raise constitutional 
+claims challenging their removal order, even if the alien falls 
+within the coverage of Section 1252(a)(2)(C). 
+
+
+The government does not offer a textual basis for its 
+reading of the statute but argues that Section 1252(a)(2)(C) 
+should be read in light of this Court’s jurisprudence permitting 
+courts to determine their own jurisdiction (Gov’t Br. 21-23) 
+and in light of the jurisprudence concerning review of 
+constitutional claims, which the government reads as 
+establishing an express statement rule permitting review of 
+constitutional claims where “neither the text nor the legislative 
+history of [a] provision adverts specifically to preclusion of 
+review of constitutional claims ... .” Gov’t Br. 23. The 
+government urges this Court to rely solely on its rules of 
+construction, while contending that the Court should not invoke 
+the habeas corpus canons on which petitioners rely. 
+
+
+The government offers no convincing reason for reading 
+Section 1252(a)(2)(C) only in light of the canons on which it 
+relies. Moreover, the government’s construction of the statute 
+would not avoid serious constitutional issues. In this case the 
+Court would still be faced with the far-reaching constitutional 
+question of whether pure legal claims can be wholly precluded 
+where an administrative agency has ordered a deprivation of 
+personal liberty.” 
+
+
+2. The government relies heavily (at 19-21) on 
+statements made by Senator Abraham in support of its position 
+that the statute precludes even the narrow scope of habeas 
+inquiry. However, the government’s own position is 
+inconsistent with the quoted passages, which suggest that 
+
+
+2 The cases cited by the government involve benefits, Weinberger 
+
+
+v. Salfi, 422 U.S. 749 (1975), Johnson v. Robison, 415 U.S. 361 (1974), and 
+employment, Webster v. Doe; 486 U.S. 592 (1988). In those very different 
+contexts not involving a deprivation of liberty, the Court did not discuss the 
+right to judicial review of non-constitutional claims. 
+
+
+5 
+
+
+Senator Abraham believed that aliens with certain criminal 
+convictions should be afforded no judicial scrutiny of any 
+claim, including those the government would permit. 
+Furthermore, Senator Abraham’s statements appear remarkably 
+similar to the basic thrust of the finality provisions in effect 
+between 1891 and passage of the 1952 Immigration Act. Taken 
+literally, those provisions would have made the administrative 
+determination “final,” yet the Court preserved habeas inquiry 
+to ensure that administrative immigration officials acted within 
+the /egal limits imposed by Congress. Insofar as relevant, 
+Senator Abraham’s statements should be understood in light of 
+this pattern of judicial construction, especially given the 
+absence of any suggestion that he intended to ignore this 
+Court’s habeas jurisprudence in the immigration area.” 
+
+3. The government also argues that Section 
+1252(a)(2)(C) should be construed to preclude all judicial 
+scrutiny of petitioners’ legal challenge because that provision 
+is part of a “single, comprehensive package of provisions” in 
+which the “very same aliens” who are precluded from applying 
+for relief from dzportation are also precluded from obtaining 
+judicial review. Gov’t Br. 17-18. Contrary to the factual 
+premise of that argument, the reach of the jurisdictional 
+preclusion statute is not coterminous with the bars on relief. 
+Section 1252(a)(2)(C), by its terms, precludes review in cases 
+_ involving criminal offenses other than “aggravated felonies.” 
+
+
+> To the extent the government relies on the general goal of 
+expediting the removal of aliens with criminal convictions, that goal is not 
+hindered because the INA, as now amended by ITRIRA, no longer precludes 
+courts from reviewing final orders after the alien has been physically 
+removed from the country. See ITRIRA § 306(b), 110 Stat. 3009-612 
+(repealing 8 U.S.C. 1105a(c)). 
+
+
+* Section 1252(a)(2)(C) applies to, inter alia, any two crimes of 
+moral turpitude (where the possible sentence is one year) under INA § 
+237(a)(2)(A)(i) & (11) [8 U.S.C. 1227(a)(2)(A)(i) & (ii), any firearm offense 
+
+
+6 
+
+
+Thus, aliens who are not “aggravated felons” are precluded 
+from obtaining judicial scrutiny of their legal claims under the 
+government’s jurisdictional position. 
+
+
+4. The government also points to various provisions of 
+the INA where Congress provided for “judicial review” in 
+habeas corpus proceedings and argues that these provisions 
+show that the term “review” in Section 1252(a)(2)(C) should be 
+understood to apply to habeas corpus. Gov’t Br. 27-29. The 
+bulk of the government’s structural arguments, however, seek 
+to prove that Congress intended to preclude district court 
+habeas proceedings. Insofar as the government’s arguments 
+seek to prove that the term “review” in Section 1252(a)(2)(C) 
+must be understood to preclude a narrow habeas inquiry in any 
+court, those arguments are unavailing. Structural evidence and _ 
+negative inferences are insufficient to repeal the scope of 
+habeas inquiry under Felker/Yerger and this Court’s 
+immigration habeas decisions.° 
+
+
+(including failure to register) under INA § 237(a)(2)C) [8 U.S.C. 
+1227(a)(2)(C)], and any drug offense (including simple possession or abuse) 
+under INA § 237(a)(2)(B) [8 U.S.C. 1227(a)(2)(B)]. See also Gov’t Br. 22 
+(noting that Section 1252(a)(2)(C) applies to more than aggravated felons). 
+
+
+* Moreover, even in the absence of an express statement rule, the 
+government’s structural arguments would be insufficient. The government 
+does not dispute that for more than 60 years this Court consistently 
+preserved habeas corpus in the face of finality provisions that barred 
+judicial review. Rather, the government contends only that a statute 
+foreclosing judicial review need not “necessarily” be construed to preserve 
+habeas corpus. Gov’t Br. 28. But even if habeas corpus could be barred 
+without an explicit directive, the relevant inquiry under this Court’ s finality- 
+era decisions would nonetheless be whether ITRIRA’s restriction on judicial 
+review must be read to bar habeas corpus, not whether it is possible to read 
+the restriction in that sweeping manner. The government has not made that 
+showing. The habeas provisions on which the government relies each 
+provide for “judicial review” through the mechanism of a habeas corpus 
+proceeding. Gov’t Br. 27-29 (citing, e.g., 8 U.S.C. 1252(e)(2); former 8 
+U.S.C 1105a(b); former 8 U.S.C. 1105a(a)(10)). Those provisions do not 
+
+
+7 
+
+
+B. The Suspension Clause. 1. The crux of the 
+government’s argument is that because petitioners are 
+concededly “deportable,” their legal claim is not protected by 
+the writ guaranteed by the Constitution. Thus, the government 
+asserts that the “fundamental flaw” in our analysis is that 
+petitioners are “unquestionably removable . . . and are seeking 
+the exercise of the Attorney General’s power to grant 
+discretionary -relief from deportation.” Gov’t Br. 32. The 
+government’s argument is directly contradicted by this Court’s 
+ruling in Accardi and by the structure and requirements of the 
+deportation process, which do not permit the Attorney General 
+to issue a final order of removal until the application for relief 
+is adjudicated.° 
+
+
+unambiguously establish, however, that every time the INA restricts 
+“review,” that restriction must be understood to preclude the scope of 
+habeas corpus. 
+
+
+6 
+
+
+The government’ s apparent suggestion that the Attorney General’s 
+legal ruling is of no consequence because he “could” have exercised his 
+discretion negatively in every case over which he has (erroneously) 
+determined that he lacks discretionary authority, Gov’t Br. 32, iscontraryto 
+the basic principle thatan agency’ s decision mustbe defended on the ground 
+on which it was decided. SEC v. Chenery Corp., 318 U.S. 80 (1943). An 
+erroneous eligibility determination cannot be defended on the basis of how 
+discretion might have been exercised if the decision-maker had not 
+misconstrued his own authority. See FEC v. Akins, 524 U.S. 11,25 (1998) 
+("Ifareviewingcourtagrees thatthe agency misinterpreted the law, it will set 
+aside the agency’s action and remand the case -- even though the agency... 
+might later, in the exercise of its lawful discretion, reach the same result for 
+a different reason.”); INS v. Cardoza-Fonseca, 480 U.S. 421, 450 (1987) 
+(correcting legal error and remanding to Attorney General for discretionary 
+determination). In any case, there is noreason to presume that the Attorney 
+General would unilaterally deny the application of every applicant who 
+would be eligible if he properly understood his statutory authority. In the 
+past, half the applications were granted. Pet. Br. 5. Many of the legal 
+residents barred from eligibility by retroactive application of thenew statute 
+would be especially worthy candidates. See Brief Amici Curiae Florida 
+Immigrant Advocacy Center, etal. in INS v. St. Cyr7-20 (collecting cases). 
+
+
+8 
+
+
+In Accardi, an alien who was “admittedly deportable,” 347 
+U.S. at 261-62, and whose ground of deportation was 
+“uncontested,” id., brought a habeas corpus action to challenge 
+the denial of discretionary (suspension of deportation) relief. 
+The Court expressly acknowledged the discretionary nature of 
+the relief, see id. at 268, but rejected the dissenters’ objections 
+that the scope of habeas inquiry did not encompass the 
+petitioner’s legal claims. The dissent in Accardi raised each of 
+_ the objections put forth by the government in this case, 
+including (1) that the alien “does not question his 
+deportability,” (2) that “the only question” concerned a form of 
+relief over which the ultimate grant or denial rested in the 
+discretion of the Attorney General, (3) that there was no 
+“private right” involved in the request for discretionary relief, 
+and (4) that “no legal right exists in petitioner by virtue of 
+constitution, statute or common law to have a lawful order of 
+deportation suspended.” Jd. at 269-70 (Jackson, J., dissenting). 
+- This Court rejected those arguments, exercised habeas 
+jurisdiction, and granted relief to the petitioner. The Court 
+explained that it was not “reviewing and reversing the manner 
+in which discretion was exercised,” but rather, “the Board’s 
+alleged failure to exercise its own discretion, contrary to 
+existing valid regulations.” Jd. at 268 (emphasis in original).’ 
+
+
+7 Accardi is consistent with a long line of habeas decisions in the 
+
+
+courts of appeals deciding legal eligibility for discretionary relief, which the 
+government never addresses or refutes. See Pet. Br. 25 n.10 (collecting 
+courts of appeals cases). The one such case the government cites is United 
+States ex rel. Kaloudis v. Shaughnessy, 180 F.2d 489 (2d Cir. 1950) (L. 
+Hand, J.). That case concerned a challenge to the exercise of discretion. 
+Even in that context, however, Judge Hand explained that habeas would lie 
+if “it affirmatively appears that the denial has been actuated by 
+considerations that Congress could not have intended to make relevant.” 
+Id. at 491 (emphasis added). A fortiori, habeas jurisdiction lies to challenge 
+the Attorney General’s legal ruling that Congress divested him of all 
+statutory authority to exercise discretion. 
+
+
+9 
+
+
+The government seeks to avoid the dispositive significance 
+of Accardi on the grounds that the Court did not “delineate the 
+scope of the writ” and that it did not expressly state that the 
+habeas review in that case was “compelled by the 
+Constitution.” Gov’t Br. 39. While the Court did not delineate 
+the scope of the writ in respect to all claims, it did expressly 
+hold that habeas corpus encompassed legal claims relating to 
+discretionary relief, which was the entire focus of the dissent. 
+Moreover, the Court's exercise of jurisdiction over the 
+challenge in that case demonstrates that habeas review 
+necessarily encompasses the claim presented here. The 
+petitioner in Accardi challenged the BIA’s failure to conduct an 
+independent exercise of discretion as required by the 
+regulations, even though the Attorney General had ultimate 
+authority to overturn the BIA’s decision. Accardi, 347 U:S. at 
+268. In the present case, petitioners’ claim is that the Attorney 
+General has failed to exercise discretion altogether in violation 
+of the statute. 
+
+
+The government’s further contention that Accardi did not 
+mention the constitutional right to habeas corpus disregards the 
+crucial fact that Accardi was decided one year after the Court 
+had ruled in Heikkila that the scope of habeas scrutiny of 
+deportation orders was limited to that which was “required by 
+the Constitution.” 345 U.S. at 234-35. Accardi had no reason 
+to reiterate that point. Moreover, the dissent’s discussion in 
+Accardi of the scope of habeas corpus began by citing (at 269- 
+70) Nishimura Ekiu, one of the key cases on which Heikkila 
+based its finding that habeas corpus review of immigration 
+orders was limited to the constitutional minimum. 345 U.S. at 
+233. In light of the detailed dissent specifically addressing the 
+proper scope of habeas, and the Court’s express rejection of 
+those views, Accardi cannot be dismissed as a sub silentio 
+jurisdictional decision. Cf. Lewis v. Casey, 518 U.S. 343, 352 
+
+
+10 
+
+
+n.2 (1996) (ruling not binding because issue “was neither 
+challenged nor discussed” in prior case).*® 
+
+
+2. Wholly apart from Accardi, the government’s 
+contention that petitioners’ claim is not a challenge to the legal 
+validity of the deportation order, and hence unreviewable in 
+habeas corpus, is erroneous. First, the claim at issue here 
+concerns legal eligibility for discretionary relief, and not the 
+exercise of discretion. The government repeatedly conflates 
+these two distinct inquiries, see Gov’t Br. 15, 31, 32, which, as 
+noted in our opening brief, the Court has made abundantly clear 
+are analytically and legally separate, see Pet. Br. 24-25 (citing 
+Jay v. Boyd, 351 U.S. 345 (1956)). The government does not 
+rebut that fundamental point, nor could it. See INS v. Yueh- 
+Shaio Yang, 519 U.S. 26, 30 (1996) (citing Jay v. Boyd and 
+noting distinction between “prerequisites for eligibility” and 
+“unfettered discretion’’).° 
+
+In addition, the government’s argument is entirely 
+dependent on its suggestion that aliens who are deportable have 
+
+
+* The government’s attempt to craft four categories, which exclude 
+
+
+petitioners’ claim, to describe this Court’s finality era cases must fail. 
+Gov’t Br. 41. Either the Accardi claim -- and therefore also petitioners’ -- 
+fits within one of the government's categories (e.g., as a claim asserting 
+deprivation of a “fundamentally fair administrative hearing,” Gov’t Br. 41) 
+or the categories are artificial and incomplete. As the government 
+effectively concedes, other cases also do not fit within the categories. See 
+Gov't Br. 41-42 n.29 (discussing United States ex rel. Mensevich v. Tod, 
+264 U.S. 134 (1924)). See also Amicus ABA Br. 16 n.12. 
+
+
+. See also Foti v. INS, 375 U.S. 217, 228-29 n.15 (1963) (“finding 
+of eligibility and an exercise of (or refusal to exercise) discretion may 
+properly be considered as distinct and separate matters”); Chadha v. INS, 
+634 F.2d 408, 426 (9th Cir. 1980) (Kennedy, J.), aff'd, 462 U.S. 919 (1983) 
+(“Each of the[ ] [statutory] prerequisites [for suspension] requires a legal 
+determination of a traditional sort, the contents of which are explicated by 
+an orderly history of administrative practice and judicial review and 
+es 
+
+
+(aa Sees 
+
+
+11 
+
+
+no claim that could be protected by the Suspension Clause. 
+Gov’t Br. 33. But insofar as the government is arguing that an 
+alien who is “deportable” can be “detain[ed] and remov{[ed],” 
+Gov't Br. 33, without any adjudication of a claim for 
+discretionary relief under Section 1182(c), that assertion is 
+flatly wrong. The finding of deportability is only the initial 
+determination in an immigration proceeding. A deportation 
+order cannot issue until the claims for discretionary relief from 
+deportation have been adjudicated. The Attorney General must 
+determine if the alien is statutorily eligible, and if eligible must 
+adjudicate the application. Only at the conclusion of that 
+process does a final order issue, and only at that point does the 
+Attorney General have authority to remove the alien. See 8 
+C.F.R. 212.3(e) (1996) (requiring that Section 1182(c) 
+application “shall be adjudicated by the Immigration Judge” 
+during deportation proceedings); Foti v. INS, 375 U.S. 217, 223 
+(1963) (holding that a decision on discretionary relief from 
+deportation “[is] an integral part of the proceedings which have 
+led to the issuance of a final deportation order”); Dessalernos 
+v. Savoretti, 356 U.S. 269 (1958) (per curiam) (holding that 
+aliens “entitled to have his application for suspension of 
+deportation considered” to determine statutory eligibility); see 
+also INS v. Chadha, 462 U.S. 919, 938 (1983) (discretionary 
+relief is a matter “on which the final order is contingent”). 
+
+
+Thus, contrary to the government’s statements and implicit 
+suggestions, the Attorney General has no legal authority to 
+remove an alien until the relief application has been adjudicated 
+and, if the alien is statutorily eligible, until discretion is 
+exercised. Accordingly, petitioners’ claim that the Attorney 
+General has misconstrued the statutory eligibility requirements 
+governing relief goes to the legal validity of the final order, and 
+thus, to the validity of the Attorney General’s attempt to 
+remove them. Because the claim goes to the Attorney 
+General’s legal authority to remove petitioners, it is reviewable 
+even under the government’s understanding of habeas corpus. 
+
+
+12 
+
+
+See Gov’t Br. 33 (stating that habeas corpus involves 
+challenges to the executive branch’s “legal authority” to order 
+deprivation of liberty); id. at 37 (habeas covers challenges to 
+“legal authority”).'° 
+
+
+3. The government also argues (Gov’t Br. 37-39) that the 
+Court’s statement in Heikkila concluding that the finality 
+provisions had reduced the scope of review to the constitutional 
+minimum was dictum and -that Accardi (and the other 
+immigration habeas decisions on which petitioners rely) need 
+not be, followed because those decisions were not 
+constitutionally compelled."’ First, as already noted, Accardi 
+was decided only one year after Heikkila. Thus, whatever 
+dispute there may be over the binding nature of Heikkila’s 
+statements regarding the scope of habeas corpus, the effect of 
+the Court's pronouncement on subsequent cases such as 
+Accardi cannot be disregarded. Second, even assuming that 
+Heikkila did not have to rule squarely on the constitutional 
+scope of habeas corpus review, the Court’s statements were a 
+central focus of the opinion and were part of a comprehensive 
+discussion of the pre-1952 regime. Heikkila, 345 U.S. at 233- 
+
+\ 
+
+
+'0 Other forms of discretionary actions by the Attorney General do 
+
+
+not present the same question. For example, the Attorney General’s 
+discretion to initiate proceedings in the first place (prosecutorial discretion), 
+or the discretion not to execute a valid final order of deportation after the 
+administrative process has concluded (“deferred action”), are different 
+because they do not affect the validity of the final order and do not have 
+statutory eligibility criteria. Compare Reno v. American-Arab Anti- 
+Discrimination Comm. 525 U.S. 471, 489-91 (1999). In such instances, the 
+Attorney General can choose whether or not to exercise discretion. 
+
+
+The government’s claims about Heikkila in this case appear 
+inconsistent with its views in INS v. St. Cyr, where it does not contend that 
+Heikkila’s statements regarding the pre-1952 regime were dicta. Gov’t St. 
+Cyr Br. 4 (“This Court ruled that such [deportation and exclusion] orders 
+could be reviewed by writ of habeas corpus, but only to the extent that 
+judicial review was required by the Constitution,” citing Heikkila). 
+
+
+13 
+
+
+35. After canvassing the case law and congressional 
+enactments, the Court twice stated that courts could review 
+immigration decisions in habeas only if the review was 
+“required by the Constitution.” Jd. at 235; see also id. at 234 
+(Congress reduced review to the “fullest extent possible under 
+the Constitution”). 
+
+
+Third, and most importantly, the government has not 
+demonstrated that the statements in Heikkila are incorrect or 
+that the Heikkila Court misread the effect of the pre-1952 
+legislation and this Court’s precedents interpreting that 
+legislation. There is no dispute that enactment of the finality 
+provision in 1891 and the subsequent reiterations of it were 
+intended by Congress and understood by this Court to eliminate 
+the courts’ role in scrutinizing the expulsion of aliens from the 
+United States. See Pet. Br. 19-20 n.8 (collecting cases). Yet 
+the government has not addressed the critical decisions on 
+which Heikkila based its analysis, including the first decision 
+interpreting the finality provision, Nishimura Ekiu v. United 
+States, 142 U.S. 651, 660 (1892). See Pet. Br. 18-29 
+(discussing pre-1952 case law).’ 
+
+
+12 
+
+
+The government notes that Heikkila refers to “due process 
+requirements” and implies that the Court may have suggested that the scope 
+of habeas is limited to contemporary procedural due process claims. Gov’t 
+Br. 38-39. That would be inconsistent with the scope of review expressly 
+authorized by the Court in the numerous cases cited by Heikkila and would 
+also be contrary to Justice Clark’s usage of that term. See Heikkila, 345 
+U.S. at 235 (citing Kessler v. Strecker, 307 U.S. 22 (1939); Bridges v. 
+Wixon, 326 U.S. 135 (1945)). See also Brownell v. Tom We Shung, 352 
+U.S. 180, 182 n.1 (1956) (Clark, J.) (“[D]ue process has been held . . . to 
+include a fair hearing as well as conformity to statutory grounds.”) 
+(emphasis added); Henry M. Hart, Jr., The Power of Congress to Limit the 
+Jurisdiction of Federal Courts: An Exercise in Dialectic, 66 Harv. L. Rev. 
+1362, 1393 n.93 (1953) (“Justice Clark must . . . be understood [in Heikkila] 
+as saying that the Constitution gives the alien the right, among others, to 
+have the statutes observed.”) (emphasis added). See also Amicus ABA Br. 
+17 n.13. Indeed, the passage in which the due process language appeared 
+
+
+ta 
+
+
+The government does not offer its own reading of the pre- 
+1952 finality provisions or the Court’s decisions interpreting 
+those provisions, except to speculate that those decisions were 
+“presumably” decided on the basis of the Habeas Corpus Act 
+of 1867, ch. 28, § 1, 14 Stat. 385-86; Rev. Stat. §§ 751-766 
+(1875), rather than the habeas provision of the Judiciary Act of 
+1789, Act of Sept. 24, 1789, ch. 20, § 14, 1 Stat. 81-82. Gov’t 
+Br. 40-41. The government then asserts that the scope of 
+review authorized by the 1867 Act was broader than that 
+authorized by the 1789 Act and suggests that the expansion is 
+somehow relevant here. Jd. 
+
+
+However, the 1867 habeas legislation did not broaden the 
+scope of habeas review in any respect material to this case. Its 
+main purpose was to extend federal habeas corpus to prisoners 
+in state custody. See In re Neagle, 135 U.S. 1, 70-72 (1890); 
+Ex parte Bridges, 4 F. Cas. 98, 105-06 (N.D. Ga. 1875) 
+(Bradley, C.J.). In this case, petitioners are raising purely legal 
+claims challenging non-judicial executive detention by the 
+federal government. Such claims were reviewable both before 
+and after 1867. See Pet. Br. 29-34 (collecting cases); Brief 
+Amici Curiae Legal Historians 18-28. In fact, the Court’s 
+immigration habeas decisions under the pre- 1952 scheme relied 
+upon pre-1867 habeas decisions, further undermining any 
+suggestion that the Court viewed its decisions in immigration 
+cases involving legal claims as resting on an expanded scope of 
+habeas attributable to the 1867 Act. See, e.g., Ekiu, 142 U.S. 
+at 660-62 (citing, inter alia, Ex parte Bollman, 8 U.S. (4 
+
+
+in Heikkila concemed only “administrative findings of fact.” 345 U.S. at 
+236. Under this understanding of “due process,” the Attorney General’s 
+erroneous legal ruling in this case, which deprived petitioners of their right 
+to a Section 1182(c) adjudication and hearing, would constitute a due 
+process violation. 
+
+
+——— a <a 
+
+
+15 
+
+
+Cranch) 75 (1807)).'° Thus, even if only the Framers’ original 
+understanding and historic practice were relevant to inform the 
+scope of habeas corpus protected by the Suspension Clause (a 
+standard that the Court has not adopted, see Felker, 518 U.S. at 
+663-64), petitioners’ legal claim falls within the core protection 
+of the Great Writ. 
+
+
+The government’s effort to find support in English 
+common law also fails. The government’s central point 
+appears to be that habeas covered only a challenge to the legal 
+authority of the detention and that there is “thin” support for the 
+broader proposition that habeas permitted review of a 
+discretionary determination for abuse of discretion. See Gov’t 
+Br. 35. But petitioners here raise only a legal challenge, and do 
+not challenge any discretionary action.’* 
+
+
+‘3 None of the three sources offered by the government (Gov’t Br. 
+40 n.27) supports the proposition that the 1867 Act expanded the scope of 
+review in any way material here. Felker and the Liebman & Hertz treatise 
+simply note that the 1867 Act extended habeas jurisdiction to state 
+prisoners. See Felker, 518 U.S. at 659-60 (explaining that before 1867 
+there were only limited “instances in which a federal court could issue the 
+writ to produce a state prisoner”); 1 James S. Liebman & Randy Hertz, 
+Federal Habeas Corpus Practice and Procedure 47-48 (3d ed. 1998) 
+(discussing expansions in “federal court review of state court criminal 
+actions”). Ex parte McCardle, 73 U.S. (6 Wall.) 318, 324 (1868), did not 
+concern-the scope of habeas, but rather, the 1867 Act’s grant of appellate 
+jurisdiction to the Supreme Court over habeas casés. 
+
+
+'*  Inany event, the cases that the government discusses, see Gov’t 
+
+
+Br. 35-36 & n.23, suggest a broader use of the writ in England to permit 
+habeas scrutiny of some discretionary powers. Several of the cases involved 
+an element of discretion, yet the critical fact (which the government ignores) 
+is that in each case the writ issued. See, e.g., Ex parte Boggin, 104 Eng. 
+Rep. 484, 484 n.(a) (K.B. 1811); Gov’t Br. 36 (discussing Chalacombe case 
+in which the court acknowledged the existence of the Admiralty’s discretion 
+and issued the writ); Goldswain’s Case, 96 Eng. Rep. 711 (C.P. 1778), 
+Gov’t Br. 36-37 & n.23 (writ issued in challenge to legality of impressment 
+by sailor lacking statutory immunity who asserted Admiralty’s bad faith in 
+failing to honor a non-statutory grant of protection). (continued . . .) 
+
+
+16 
+
+
+In sum, the government acknowledges that the common 
+law writ necessarily encompassed more than constitutional 
+claims given its English origins, and thus, that the 1789 Act 
+(and common law practice) requires inquiry into the legal 
+validity of detention. See Gov’t Br. 41. Consequently, even 
+under the government’s own view of habeas corpus, this case 
+hinges on whether petitioners are challenging the legal validity 
+of their deportation orders. As we have already discussed, that 
+issue is resolved by the nature of petitioners’ claims, the 
+structure of the deportation process, and this Court’s decisions, 
+particularly Accardi. 
+
+
+C. Due Process and Article III. 1. The government 
+contends that this Court has already decided that due process 
+does not require judicial review of the type of challenges 
+brought by petitioners. Gov’t Br. 42-45. However, the two 
+cases on which the government relies (at 43), Yamataya v. 
+Fisher (The Japanese Immigrant Case), 189 U.S. 86 (1903), 
+and Carlson v. Landon, 342 U.S. 524 (1952), do not support 
+that proposition. In Yamataya, habeas review was preserved 
+
+
+The government suggests that Oaks viewed the writ as narrowly 
+available (Gov’t Br. 35 n.21), but omits the remainder of the sentence it 
+quotes (“and that once charged he was either jailed or brought to trial within 
+a specified time”), which makes it clear that the passage refers only to 
+habeas corpus challenging judicial detention and only in the criminal 
+context. Oaks, in fact, pointedly notes that use of the writ to challenge non- 
+judicial detention “reveals the writ of liberty performing what is perhaps its 
+most essential task: freeing persons from illegal official restraints of liberty 
+not founded in judicial action.” Dallin H. Oaks, Habeas Corpus in the 
+States -- 1776-1865, 32 U. Chi. L. Rev. 243, 266 (1965). The government’s 
+reliance (at 41 n.28) on the Mayers article is misplaced for the same reason, 
+since the article is concerned solely with habeas in the post-conviction 
+context. The government also incorrectly relies (at 41 n.28) on Ex Parte 
+Watkins, 342 U.S. (7 Pet.) 568 (1833). There, the writ could not be granted 
+on the excessive fine claim because this Court “ha[d] no appellate 
+jurisdiction to revise the sentences of inferior courts in criminal cases.” Jd. 
+at 574. 
+
+
+17 
+
+
+and the Court therefore had no occasion to decide whether pure 
+questions of law could be wholly precluded from all judicial 
+scrutiny. 189 U.S. at 98 (citing Ekiu). Moreover, even the 
+passage quoted by the government (at 43) states only that 
+review of facts could be precluded. Carlson did not involve the 
+right to judicial review, but rather a challenge to the Attorney 
+General’s power to detain pending deportation (over which 
+there was habeas review). 342 U.S. at 526-28. The sentence of 
+dicta quoted by the government suggests only that the 
+Constitution does not necessarily require broad judicial review 
+of immigration decisions. The Court never suggested, 
+however, that review of legal claims could be precluded and 
+indeed specifically cited to habeas decisions reviewing 
+constitutional and statutory claims. Jd. at 537 n.27, n.28. See 
+also Amicus ABA Br. 18 n.14 (discussing Carlson). 
+
+
+The government also offers a variety of unpersuasive 
+factual and legal grounds on which to distinguish petitioners’ 
+non-immigration cases. For example, the government suggests 
+that Honda Motor Co. v. Oberg, 512 U.S. 415 (1994), which 
+held that due process requires judicial scrutiny of punitive 
+damage awards, does not support petitioners’ right to review of 
+statutory claims because there “the Constitution also 
+prohibit[ed] grossly excessive punitive damages ....” Gov't 
+Br. 44. But in Honda, as the dissent notes, the Court held that 
+due process required judicial scrutiny of the damage award 
+under both federal constitutional and state law standards. See 
+512 U.S. at 450 (Ginsburg, J., dissenting) (dissenting 
+specifically on ground that due process did not require judicial 
+review of Honda’s state law claims). See also 512 U.S. at 435- 
+36 (Scalia, J., concurring) (noting that state law placed a 
+“reasonableness” limit on punitive damages and concluding 
+that the “deprivation of property without observing (or 
+providing a reasonable substitute for) an important traditional 
+procedure for enforcing state-prescribed limits upon such 
+
+
+18 
+
+
+deprivations violates the Due Process Clause”) (emphasis 
+added). 
+
+
+In short, the Court has never suggested that due process 
+would permit an administrative agency to order a deprivation 
+of liberty without any judicial scrutiny of whether the agency 
+remained within the legal limits on its power. The government 
+has cited no case to the contrary. 
+
+
+2. The government offers one basic response to 
+petitioners’ Article [I] submission and argues that there can be 
+no right to review protected by Article III because immigration 
+has been placed within the “public rights” category. Gov’t Br. 
+45-47. But the Court has eschewed an inflexible, categorical 
+approach. in the Article III area and has thus refused “to make 
+determinative for Article III purposes the distinction between 
+public rights and private rights... .” CFTC v. Schor, 478 U.S. 
+833, 853 (1986); Thomas v. Union Carbide Agric. Prods., 473 
+U.S. 568, 586-87 (1985) (not endorsing the view that “Article 
+fil has no force sirmply because a dispute is between the 
+Government and an individual” but has instead required 
+“practical attention to substance rather than doctrinaire reliance 
+on formal categories”). See Pet. Br. 41-42. Consequently, 
+petitioners’ right to a judicial forum must be evaluated in light 
+of the fundamental values protected by Article Il and whether 
+those values are impermissibly compromised by allowing the 
+Attorney General to determine the limits of his own statutory 
+enforcement authority. 
+
+
+In any event, as we also explained in our opening brief (at 
+41-42), the “public rights” theory does not support the 
+preclusion of review under the circumstances here, where 
+petitioners are not seeking broad APA-review and are raising 
+only a pure legal challenge to a deprivation of liberty. The very 
+nature of the habeas writ and its historic purpose could not be 
+reconciled with the government’s view that the public rights 
+
+
+a 
+
+
+19 
+
+
+doctrine would allow the preclusion of all judicial scrutiny over 
+a legal claim affecting liberty. 
+
+Furthermore, notwithstanding the broad language 
+historically used to describe it, the doctrine has not actually 
+been applied as to preclude all review. Indeed, even in Murray 
+v. Hoboken Land and Improvement Co., 59 U.S. (18 How.) 272 
+(1856), and other early cases, nonstatutory mechanisms 
+remained routinely available to permit litigants to seek common 
+law remedies. See Paul M. Bator, The Constitution as 
+Architecture: Legislative and Administrative Courts Under 
+Article III, 65 Ind. L.J. 233, 247 (1990) (noting that in Murray 
+review was actually available and stating that it “has never been 
+supposed” that judicial scrutiny of legal claims could be 
+foreclosed in all cases involving an individual and the 
+government); see also Northern Pipeline Constr. Co. v. 
+Marathon Pipe Line Co., 458 U.S. 50, 70 n.23 (1982) (pre- 
+Schor/Thomas Article III decision applying a categorical 
+approach but nonetheless noting that elimination of all “Art. I 
+judicial review” (including appellate review) would still raise 
+constitutional concerns). 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above and in our opening brief, if 
+the district courts lack habeas jurisdiction over petitioners’ 
+claims, the judgment of the court of appeals should be reversed 
+to allow petitioners’ claims to be adjudicated in the court of - 
+appeals by petitions for review. 
+
+
+Respectfully submitted, 
+
+
+KERRY W. BRETZ 
+
+JULES E. COVEN 
+
+ALAN MICHAEL STRAUSS 
+BRETZ & COVEN 
+
+305 Broadway, Suite 100 
+New York, New York 10007 
+(212) 267-2555 
+
+
+PAUL A. ENGELMAYER 
+CHRISTOPHER J. MEADE 
+WILMER, CUTLER & PICKERING 
+520 Madison Avenue 
+
+New York, New York 10022 
+(212) 230-8800 
+
+
+April 2001 
+
+
+20 
+
+
+LUCAS GUTTENTAG 
+
+Counsel of Record 
+LEE GELERNT 
+STEVEN R. SHAPIRO 
+AMERICAN CIVIL LIBERTIES 
+
+UNION FOUNDATION 
+
+125 Broad Street 
+New York, New York 10004 
+(212) 549-2617 
+
+
+JAYASHRI SRIKANTIAH 
+LILIANA M. GARCES 
+AMERICAN CIVIL LIBERTIES 
+
+UNION FOUNDATION 
+405 14th Street, Suite 300 
+Oakland, California 94612 
+(510) 625-2010 
+
+

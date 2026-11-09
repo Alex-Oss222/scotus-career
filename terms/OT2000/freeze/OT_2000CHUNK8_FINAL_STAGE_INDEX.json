@@ -1,0 +1,211 @@
+{
+  "term": "OT2000",
+  "chunk": 8,
+  "selection": "Final per-case durable stages; originals and superseded work remain evidence only.",
+  "cases": [
+    {
+      "matter": "duncan",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_duncan.md",
+          "sha256": "1bd5034db231d590ed0acdac4c26b1e983314384b28cde086c454cbff3154d0e"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_duncan.md",
+          "sha256": "debeb21948c79213349b770234b99eac64c52cee0e0e51eb1bcdb585b4f79dab"
+        }
+      }
+    },
+    {
+      "matter": "freiler",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_freiler.md",
+          "sha256": "3902b9c1b119e4132f4054d3263d8c1c121934517cb29b37d94f12d450c4222c"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_freiler.md",
+          "sha256": "48dada8ac16cb87d1af8ed7affb3dea5f38dcf0951751a62fb532e5910a08ef6"
+        }
+      }
+    },
+    {
+      "matter": "idaho",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_idaho.md",
+          "sha256": "f6670dbdc1100a86f0a0f0ad60f87c92c952f5fef40f46e3cbd578112f0ba64a"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_idaho.md",
+          "sha256": "ce3511bf4e4e8bb6dd18b40e6ab09c24b36fa9305b48887a2cd49424e05fb950"
+        }
+      }
+    },
+    {
+      "matter": "calcano",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_calcano.md",
+          "sha256": "edea8be558efb0f1fb537188a4449c861d4e6e02fc9b6d60ecef331382a7527a"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_calcano.md",
+          "sha256": "5f278a4874bf5678a1fe369cd3ebbbd16af09bc5c97f916dd6211f633bf0e215"
+        }
+      }
+    },
+    {
+      "matter": "colorado",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_colorado.md",
+          "sha256": "042ec29945a3d1357334bd9e2344b6dd94415348c616ca44ca19de14c1a341fa"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_colorado.md",
+          "sha256": "e0833f185887a62437a7ca18747da0fedd47b6368d723973a71fdeb60b8c2df1"
+        }
+      }
+    },
+    {
+      "matter": "st_cyr",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_st_cyr.md",
+          "sha256": "e1ae282f35f9ec2506f35e0dd55e54c627ac1e5e5dc5f52305d7197c1ee297a5"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_st_cyr.md",
+          "sha256": "9b88ff2e15ebbe1f810fd2962bb9262bc5ba670513412858d780a464605f23e3"
+        }
+      }
+    },
+    {
+      "matter": "kdm",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_kdm.md",
+          "sha256": "b8f680a313ed23237007d1214d96c87704568648a4aea0feeb90773b0ba255db"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_kdm.md",
+          "sha256": "98ec54d60b33d219a969aa4f63685e11ae4cb30fe64dffb1e09f730fbd39373b"
+        }
+      }
+    },
+    {
+      "matter": "hicks",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_hicks.md",
+          "sha256": "90fc73e4313fd3bb1136780fa3fdb94d03ff034a32efac4ea9c8fe6b07aeb904"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_hicks.md",
+          "sha256": "d465a09b4e30f353b6df0121f1cc7a6aca51efa8cb520a30f21f3c2e188f97da"
+        }
+      }
+    },
+    {
+      "matter": "tasini",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_tasini_REFRESH.md",
+          "sha256": "23c874a16a5fe02c9b2708aa2ff3d1cfad17ee5f869d4c78d5188ddaf577a07a"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_tasini_REFRESH.md",
+          "sha256": "239c96ad8cb6f14c1fc073498433c23fa5d6104de0947851767172cd8cbc3cd1"
+        }
+      }
+    },
+    {
+      "matter": "united_foods",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_united_foods_REFRESH.md",
+          "sha256": "872cb8bbe417d74d064ddeebb04ff66748f8a6421236de7cb3bfb070e3f4e6ee"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_united_foods_REFRESH.md",
+          "sha256": "1335ff4e0926bd3971eef8af6c66d77f0f59b32784077d751d64c56240647d69"
+        }
+      }
+    },
+    {
+      "matter": "adair",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_adair.md",
+          "sha256": "0cb6ac4044e5fc9804ce9e41c3c338816b685f382c61824561f31cd5fb96156e"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_adair.md",
+          "sha256": "5018e6d558c140a0170815bb05cd97c62807165532256744ae8bec02d8947d9f"
+        }
+      }
+    },
+    {
+      "matter": "lorillard",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_lorillard_FINAL.md",
+          "sha256": "ccdbe4defbc7d3b6d7d4255e3089a0ae13629cbd357e87756c049db92bcf1cd3"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_lorillard_FINAL.md",
+          "sha256": "beb988bd3d896fda1775985e5b134964cdb58ce292139add2ab3318f9ab74e7f"
+        }
+      }
+    },
+    {
+      "matter": "palazzolo",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_palazzolo_REFRESH.md",
+          "sha256": "c93cf43430aa49554e69a7a75d474d770f84104bfd06d9fc85190ab2f7afebe4"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_palazzolo_REFRESH.md",
+          "sha256": "803b2c377e8825be0631c2174ece7b22584dbe4c481928274c989e9ff1241e7b"
+        }
+      }
+    },
+    {
+      "matter": "tyler",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_tyler_REFRESH.md",
+          "sha256": "bfef482ab53e2d5e4679856d7006a6167a65a09f990ba31bf496f9e8f7f2a5b5"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_tyler_REFRESH.md",
+          "sha256": "26c8abd5a66a48f34d050e587e254949ae76c0e8296cda6983fdd7ee08085626"
+        }
+      }
+    },
+    {
+      "matter": "zadvydas",
+      "files": {
+        "commitments": {
+          "file": "OT_2000CHUNK8_COMMITMENTS_zadvydas.md",
+          "sha256": "5675622ebf04aee1c2188606033d6751dd306bfb9a35d1bb6ac9815196c5babe"
+        },
+        "reconciled": {
+          "file": "OT_2000CHUNK8_RECONCILED_zadvydas.md",
+          "sha256": "385ecee1d3f5cc74da6f82ea5b5723642d328d8cee543d98a02f0310a40896e0"
+        }
+      }
+    }
+  ],
+  "commitments_aggregate_sha256": "7ff84975a6adf0768463aa266608d0a9be3912d3cb4ac0e5559866c8972a6f21",
+  "reconciled_aggregate_sha256": "adbcbd9cf36e14566918ff1f96813f0d11b790fd4e82ec6889720a491fea41e1",
+  "boundary_repair": "Lorillard used fresh neutral validation and independent modeling after the documented original source exposure. See the control-only boundary receipt; the excluded substance was not supplied to either fresh context.",
+  "lorillard_final_neutral": {
+    "file": "OT_2000CHUNK8_NEUTRAL_LORILLARD_FINAL.md",
+    "sha256": "8566ff3e75f82a6ebee006928dbc26cffebf4767a2b8d6ad28a9ca3ed4164991",
+    "receipt": "OT_2000CHUNK8_NEUTRAL_LORILLARD_FINAL_RECEIPT.md",
+    "status": "Released; supersedes prior factual and review-scope framing. Original input split remains unchanged."
+  }
+}

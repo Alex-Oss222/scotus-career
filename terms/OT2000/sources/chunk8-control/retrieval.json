@@ -1,0 +1,86 @@
+[
+  {
+    "case": "duncan",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-167.pdf",
+    "pages": 27,
+    "characters": 59651,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "idaho",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-262.pdf",
+    "pages": 27,
+    "characters": 60335,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "calcano",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-348.pdf",
+    "pages": 5,
+    "characters": 10291,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "colorado",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-431.pdf",
+    "pages": 52,
+    "characters": 124310,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "st_cyr",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-289.pdf",
+    "pages": 59,
+    "characters": 136495,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "hicks",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-353.pdf",
+    "pages": 52,
+    "characters": 114795,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "tasini",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-483.pdf",
+    "pages": 42,
+    "characters": 97555,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "united_foods",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-405.pdf",
+    "pages": 28,
+    "characters": 57028,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "lorillard",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-525.pdf",
+    "pages": 81,
+    "characters": 180219,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "palazzolo",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-606.pdf",
+    "pages": 50,
+    "characters": 114043,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "tyler",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-656.pdf",
+    "pages": 22,
+    "characters": 50213,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  },
+  {
+    "case": "zadvydas",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-533/pdf/USREPORTS-533-678.pdf",
+    "pages": 48,
+    "characters": 105524,
+    "status": "complete text saved; substantive reading pending in reconciliation"
+  }
+]

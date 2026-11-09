@@ -1,0 +1,2544 @@
+la 
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 98-35186 
+
+
+D.C. No. 
+CV-96-06075-MRH 
+
+
+KDM, a minor, by and through 
+WJM, his father and next friend, 
+
+
+Plaintiff-Appellant, 
+v. 
+
+
+REEDSPORT SCHOOL DISTRICT; 
+NORMA PAULUS, in her official capacity as 
+Oregon Superintendent of Public Instruction, 
+Defendants-Appellees. 
+
+
+No. 98-35187 
+
+
+D.C. No. 
+CV-96-06075-MRH 
+ORDER 
+
+
+KDM, a minor, by and through 
+WJM, his father and next friend, 
+Plointiff-Appellant-Cross-Appellee, 
+
+
+Vv. 
+REEDSPORT SCHOOL DISTRICT, 
+Defendant, 
+and 
+
+
+NORMA PAULUS, in her official capacity as 
+Oregon Superintendent of Public Instruction, 
+Defendant-Appellee- 
+
+Cross-Appellant. 
+
+
+2a 
+
+
+Filed April 25, 2000 
+
+
+Before: Andrew J. Kleinfeld and Michael Daly Hawkins, 
+Circuit Judges, and William W. Schwartzer,' Senior 
+District Judge. 
+
+
+Order: Dissent by Judge O’SCANNLAIN. 
+
+
+ORDER 
+
+
+Judge Kleinfeld voted to grant the petition for rehearing 
+and the petition for rehearing en banc. Judge Hawkins voted 
+to deny the petition for rehearing and the petition for rehear- 
+ing en banc. Judge Schwarzer voted to deny the petition for 
+rehearing and recommended denial, of the petition for rehear- 
+ing en banc. ; 
+
+
+The full court has been advised of the petition for 
+rehearing en banc. An active judge requested a vote on 
+whether to rehear the matter en banc. The matter failed to 
+receive a majority of the votes of the nonrecused active 
+judges in favor of en banc consideration. Fed. R. App. P. 
+35(b). 
+
+
+The petition for rehearing and the petition for rehearing en 
+banc are denied. 
+
+
+O’SCANNLAIN, Circuit Judge, with whom KOZINSKI, 
+T.G. NELSON, KLEINFELD, TASHIMA, and WARDLAW, 
+Circuit Judges, join, dissenting from denial of rehearing en 
+banc: 
+
+
+Judge Kleinfeld’s excellent opinion explains in detail the 
+errors in the panel majority’s analysis and its fundamental 
+
+
+' The Honorable William W Schwarzer, Senior United States District 
+Judge for the Northern District of California; sitting by designation. 
+J 
+
+
+; 
+/ 
+
+
+asinkicneteniinah\Y 
+
+
+3a 
+
+
+inconsistency with Supreme Court precedent. I write only to 
+observe that the panel majority’s opinion, in crafting a de 
+minimis exception to the Free Exercise Clause’s requirement 
+of neutrality toward religion, contributes to the growing con- 
+fusion among the lower courts over the demands of the First 
+Amendment. See Columbia Union College v. Clark, 119 S. 
+Ct. 2357, 2358 (1999) (Thomas, J.. dissenting from the denial 
+of certiorari). It is only a matter of time before the Supreme 
+Court confronts this confusion to make clear what should 
+have already been clear to a faithful reader of Church of 
+Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S. 520 
+(1993). While a facially neutral law may be unconstitutional 
+if its true object “is to infringe upon or restrict practices 
+because of their religious motivation,” id. at 533, a law that is 
+non-neutral on its face, like the Oregon regulation at issue 
+here, triggers strict (and almost always fatal) scrutiny—even 
+in the absence of extrinsic evidence Suggesting that the law 
+was the result of anti-religious bigotry or animus. 
+
+
+It cannot be denied that this case, which simultaneously 
+implicates the Free Exercise, Establishment, and Equal Pro- 
+tection Clauses, involves questions of extraordinary impor- 
+tance. Because the panel majority’s opinion misreads 
+Supreme Court precedent and is inconsistent with well- 
+reasoned decisions of our sister circuits, I respectfully dissent 
+from the court’s denial of rehearing en banc. 
+
+
+4a 
+APPENDIX B 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 98-35186, 98-35187 
+
+
+KDM, a minor, by and through WJM, his father 
+and next friend, 
+Plaintiff-Appellant, 
+
+
+Vv. 
+
+
+REEDSPORT SCHOOL DISTRICT; NORMA PAULUS, in her 
+official capacity as Oregon Superintendent of Public 
+Instruction, 
+Defendants-Appellees. 
+
+
+KDM, a minor, by and through WJM, his father 
+and next friend, 
+Plaintiff-Appellant-Cross-Appellee, 
+
+
+Vv. 
+REEDSPORT SCHOOL DISTRICT, 
+Defendant, 
+and 
+
+
+Norma Paulus, in her official capacity as 
+Oregon Superintendent of Public Instruction, 
+Defendant-Appellee-Cross-Appellant. 
+
+
+Argued and Submitted March 1, 1999. 
+Filed Nov. 15, 1999. 
+
+
+Before: KLEINFELD and HAWKINS, Circuit Judges, and 
+SCHWARZER, Senior District Judge. 
+
+
+* The Honorable William W Schwarzer, Senior United States District 
+Judge for the Northern District of California, sitting by designation. 
+f 
+
+
+/ 
+
+
+Sa 
+
+
+Opinion by Judge SCHWARZER; Dissent by Judge 
+KLEINFELD. 
+
+
+SCHWARZER, Senior District Judge: 
+
+
+WJM’s son, KDM, is a minor who is legally blind and has 
+cerebral palsy. As such, KDM is a “child with disabilities” 
+entitled to special education and related services under the 
+Individuals with Disabilities Education Act (“IDEA”), 26 
+U.S.C. §§ 1400-1485 (1994). Oregon provides such services 
+to children enrolled in public schools. The Oregon 
+administrative regulation leaves it to the discretion of 
+individual school districts whether to provide such services to 
+children enrolled in private school but specifically provides 
+that “such special education and related services shall be 
+provided in a religiously-neutral setting.” OAR 581-15-166 
+(the “regulation”).' Defendant. Reedsport School District 
+
+
+' OAR 581-15-166 states in full: 
+
+
+Public Educational Agency Responsibility for Children Placed by 
+Parents in Private Schools 
+
+
+(1) If a child with a disability, who is three through the age of 
+eligibility for kindergarten, is offered a free and appropriate public 
+education by the Department of Education and the parent of the 
+child unilaterally enrolls the child in a private school, the child shall 
+not have an individual entitlement to receive special education and 
+related services from the Department of Education. Consistent with 
+the procedures set forth in OAR 581-15-171, the Department of 
+Education shall determine which children with disabilities shall 
+receive services, what services shall be provided and how those 
+services shall be provided, including the location for delivery of 
+those services. 
+
+
+(2) If a child with a disability, who is at the age of eligibility for 
+kindergarten through age 21, is offered a free appropriate public 
+education by the child’s resident school district and the parent of the 
+child unilaterally enrolls the child in a private school, the child shall 
+not have an individual entitlement to receive special education and 
+
+
+6a 
+
+
+(“District”) is willing to provide such services to KDM, but 
+not at KDM’s parochial school. We must decide whether the- 
+District’s refusal to provide services at the school violates the 
+IDEA or KDM’s rights under the Free Exercise, Establish- 
+ment, or Equal Protection Clauses of the Constitution. 
+
+
+I. FACTUAL AND PROCEDURAL BACKGROUND 
+
+
+While attending public school, KDM received from the 
+District the services of a vision specialist, physical therapy 
+and special equipment at his school. Motivated by sincerely- 
+held religious beliefs, KDM’s parents transferred him to 
+Harbor Baptist Church School (“Harbor Baptist’’), a sectarian 
+school. After the transfer, the District continued to supply 
+him with special equipment (braillers, computers and other 
+special equipment) at his new school. However, viewing the 
+Harbor School setting as not religiously-neutral, it no longer 
+supplied the vision specialist at the school. Instead, it 
+provided that service at a fire hall down the street from 
+Harbor Baptist. The adequacy of the service is not in dispute 
+nor is it disputed that it is safe for KDM to travel to and from 
+the fire hall, transportation being provided by the District. 
+The service is provided for approximately ninety minutes 
+
+
+related services from the child’s resident school district. Consistent 
+with the procedures set forth in OAR 581-15-171, resident school 
+districts shall determine which children with disabilities shall 
+receive services, what services shall be provided and how those 
+services shall be provided, including the location for the delivery of 
+those services. 
+
+
+(3) Such special education and related services shall be provided in 
+a religiously-neutral setting. 
+
+
+(4) The Department of Education and school districts shall provide 
+such children with genuine opportunities for equitable participation 
+in special education consistent with the number of children and their 
+needs. 
+
+
+Ta 
+
+
+twice a week. If this service were provided at Harbor Baptist, 
+it would be provided in a room separate from the classroom 
+because providing it in class could be disruptive to the 
+instruction both of KDM and the other students in the 
+classroom. 
+
+
+KDM brought this action through his father, WJM, against 
+the District and Norma Paulus, Oregon’s Superintendent for 
+Public Instruction, for declaratory and injunctive relief 
+requiring the defendants to place a vision specialist at Harbor 
+Baptist. Plaintiff, in substance, made three claims: First, that 
+defendants’ refusal to provide a vision specialist at School 
+violates the IDEA; second, that it violates the Free Exercise 
+and Establishment clauses of the First Amendment; and, 
+third, that it denies plaintiff the equal protection of the laws. 
+Following a bench trial on stipulated facts, the district court 
+entered judgment holding that the IDEA did not require the 
+district to provide services at a private school, but that the 
+Oregon regulation which permits services to be offered 
+private school students only in a religiously-neutral setting 
+violated the Free Exercise, Establishment and Equal 
+Protection Clauses and enjoined its enforcement.2 We have 
+subject matter jurisdiction under 20 U.S.C. § 1415(e)(2) and 
+appellate jurisdiction under 28 U.S.C. § 129] (1994), and 
+review the district court’s legal conclusions de novo. See 
+Walters v. Reno, 145 F.3d 1032, 1047 (9th Cir.1998), cert. 
+denied US. » 119 S.Ct. 1140, 143 L.Ed.2d 208 
+(1999). We now reverse the judgment.’ 
+
+
+> The record does not disclose whether Reedsport or other school 
+districts provide services at nonsectarian private schools, but the 
+regulation does not preclude them from doing so. 
+
+
+* Because the court entered judgment only on Counts III and IV, 
+plaintiff's constitutional claims, our mandate is limited to those counts. 
+
+
+8a 
+
+
+Il. THE IDEA DOES NOT REQUIRE THE DISTRICT 
+TO PROVIDE SERVICES AT KDM’s PRIVATE 
+SCHOOL 
+
+
+Plaintiff cross-appealed, contending that the IDEA requires 
+the District to provide KDM with services on site at Harbor 
+Baptist. While the IDEA requires states to provide some 
+measure of special education and related services to disabled 
+children in private schools, see 20 U.S.C.A. § 1412(a)(10)(A) 
+and (C) (Supp.1998); see also 34 C.F.R. §300.403-.452, since 
+its amendment in 1997, the act has specifically provided that 
+“[s]uch services may be provided to children with disabilities 
+on the premises of private, including parochial, schools, 
+to the extent consistent with law.” 20 U.S.C.A. 
+§ 1412(a)(10)(A)(i)(I]) (emphasis added). Every circuit that 
+has considered whether the IDEA as amended in 1997 
+requires services to be provided on site at a private school has 
+concluded it does not. See Foley v. Special Sch. Dist., 153 
+F.3d 863, 865 (8th Cir. 1998) (“Clare and her parents now 
+have no individual right under IDEA to the special education ~ 
+and related services in question, so they have no right to a 
+federal court decree mandating that those services be 
+provided at a particular location.”); Russman v. Board of 
+Educ., 150 F.3d 219, 221-22 (2d Cir. 1998) (“[S]tates are 
+required to provide to children voluntarily enrolled in private 
+schools only those services that can be purchased with a 
+proportionate amount of the federal funds received under the 
+program. .. . [The] statute does not require a school district to 
+provide on-site services to a disabled child who is voluntarily 
+enrolled in private school.”); Fowler v. Unified Sch. Dist. No. 
+259, 128 F.3d 1431, 1436-37 (10th Cir.1997) (“[T]he [school 
+district’s] sole obligation is to spend on such students. . . ‘a 
+proportionate amount of Federal funds,’. . .”); K.R. v. 
+Anderson Community Sch. Corp., 125 F.3d 1017, 1018 (7th 
+Cir. 1997) (affirming prior decision, 81 F.3d 673 (7th 
+Cir.1996), that the IDEA does not require provision of 
+services at a private school), cert. denied, 523 U.S. 1046, 118 
+
+
+as 
+
+
+e Re He ioe ht 
+
+
+PE PLO LAE YELLE LY OS EID AE 
+
+
+elctasa. eet k 
+
+
+9a 
+
+
+S.Ct. 1360, 140 L.Ed.2d 510 (1998); Cefalu v. East Baton 
+Rouge Parish Sch. Bd., 117 F.3d 231, 233 (Sth Cir.1997) 
+(“We therefore hold unambiguously that the defendants were 
+not legally obligated to provide an on- site sign language 
+interpreter to the plaintiff at the private school.”). We agree 
+with those courts and conclude that the district court properly 
+declined to grant plaintiff relief under the IDEA. 
+
+
+Ill. THE OREGON REGULATION AS APPLIED DOES 
+NOT VIOLATE THE FEDERAL CONSTITUTION 
+
+
+A. The Free Exercise Clause 
+
+
+The narrow question before us is whether the free exercise 
+rights of KDM and his parents were impermissibly burdened 
+by the application of Oregon’s regulation, which precludes 
+the District from providing special education services to 
+KDM at the sectarian school he attended. In deciding that 
+question we are guided by the distinction the Supreme Court 
+has recognized in the Establishment Clause context between a 
+Statute’s invalidity on its face and its invalidity in particular 
+applications. See Bowen v. Kendrick, 487 U.S. 589, 602, 108 
+S.Ct. 2562, 101 L.Ed.2d 520 (1988); see also Hunt vy. 
+McNair, 413 U.S. 734, 742, 93 S.Ct. 2868, 37 L.Ed.2d 923 
+(1973) (examining only “the transaction presently before [the 
+court}]” and not “the statute as a whole”); Zobrest v. Catalina 
+Foothills Sch. Dist., 963 F.2d 1190, 1194 n.3 (9th Cir. 1992) 
+(considering “only the validity of one very specific proposed 
+application of the statutes at issue”), rev’d on other grounds, 
+509 U.S. 1, 113 S.Ct. 2462, 125 L.Ed.2d 1 (1993). Whatever 
+the impact of the regulation might be in other factually 
+distinct situations, cf. Zobrest, 963 F.2d at 1192 (failure to 
+provide sign-language interpreter in the classroom for 
+plaintiff effectively forced his parents to choose between 
+foregoing a sectarian education or paying for the cost of the 
+interpreter themselves) and Peter y. Wedl, 155 F.3d 992 (8th 
+Cir. 1998) (failure to provide Spastic quadriplegic student 
+with needed fulltime paraprofessional while in school forced 
+
+
+~ 10a 
+
+
+choice between foregoing sectarian education or paying for 
+the paraprofessional), this is not a case in which the 
+regulation impinges on plaintiffs’ free exercise rights. The 
+parties stipulated that the service provided to KDM at the fire 
+hall down the street from the school twice a week for ninety 
+minutes is in compliance with KDM’s | statutory 
+individualized education plan, the adequacy of which is not in 
+dispute, and that he could safely travel there-indeed, the 
+vision specialist comes to KDM’s school, picks him up and 
+then returns him to his school. Moreover, plaintiffs have 
+stipulated that the vision specialist’s services would not be 
+provided in-class at Harbor Baptist but in a separate room. 
+Thus, there is no support for the district court’s finding that 
+the regulation forces KDM and his parents to choose between 
+enrolling at Harbor Baptist and receiving special education at 
+the fire hall or enrolling at a nonreligious school and 
+receiving in-class services. In sum, there is no showing that 
+application of the regulation to KDM’s case burdens KDM’s 
+or his parents’ free exercise of their religion. : 
+
+
+While the Oregon regulation is not “neutral” because it 
+restricts the provision of services to “religiously-neutral 
+settings,” cf. Employment Division v. Smith, 494 U.S. 872, 
+
+
+878, 110 S.Ct. 1595, 108 L.Ed.2d 876 (1990), as applied here © 
+
+
+it does not have “the object or purpose . . . [of] suppression of 
+religion or religious conduct.” Church of The Lukumi Babalu 
+Aye, Inc. v. City of Hialeah, 508 U.S. 520, 533, 113 S.Ct. 
+2217, 124 L.Ed.2d 472 (1993). KDM is not subjected to 
+“[o]fficial action that targets religious conduct for distinctive 
+treatment.” Jd. at 534, 113 S.Ct. 2217. His case is wholly 
+unlike Brown v. Borough of Mahaffey, 35 F.3d 846 (3d Cir. 
+1994), involving the deliberate installation by the city of a 
+gate impeding access to a particular revival meeting, or 
+Hartmann v. Stone, 68 F.3d 973 (6th Cir. 1995), involving an 
+Army regulation banning all religious practice by day care 
+providers on the base. Nor is Peter v. Wedl analogous because 
+under the facts of that case, as noted, plaintiff indeed was 
+
+
+lla 
+
+
+forced to choose between enrolling in the sectarian school or 
+receiving services essential to his ability to attend school. 155 
+F.3d at 1001. 
+
+
+That the regulation, standing alone, “discriminates” against 
+Students in religious schools, i.e., treats them differently by 
+denying them state services on the school grounds, does not 
+result in a burden on the free exercise of religion by someone 
+in the position of KDM or his parents. We agree with the 
+court in Strout v. Albanese, 178 F.3d 57 (Ist Cir. 1999), cert. 
+denied, USS. . cae SAX. Sy. L.Ed.2d 
+(1999), upholding, against a Free Exercise challenge, a Maine 
+Statute funding grants to private schools for students in 
+communities without public education facilities, provided the 
+schools are nonsectarian. The court distinguished Lukumi 
+because there was no evidence of “a substantial animus . . . 
+that motivated the law in question.” Jd. at 65. Here, the 
+District’s solicitousness in accommodating KDM could 
+hardly be said to reflect a purpose to “suppress[] religion or 
+religious conduct.” The mere fact that the District makes its 
+service to KDM available in the fire hall down the street from 
+his school does not amount to Suppression of religion or 
+religious conduct. 
+
+
+We conclude that Oregon’s regulation as applied to KDM 
+and his parents does not impose an impermissible burden on 
+their free exercise of religion. 
+
+
+B. The Establishment Clause 
+
+
+The district court also found that the Oregon regulation 
+violates the Establishment Clause because it requires the State 
+Superintendent of Education to decide on a case-by-case basis 
+whether particular settings are religious. Since Zobrest, the 
+mere presence of a public employee on religious premises 
+clearly is not enough to invoke the Establishment Clause. See 
+Zobrest, 509 U.S. at 13, 113 S.Ct. 2462: see also Agostini v. 
+Felton, 521 U.S. 203, 234, 117 S.Ct. 1997, 138 L.Ed.2d 391] 
+
+
+12a 
+
+
+(1997) (“[A]fter Zobrest we no longer presume that public 
+employees will inculcate religion simply because they happen 
+to be in a sectarian environment.”’). 
+
+In Agostini, the Supreme Court held that monthly visits by 
+supervisors to parochial school classrooms to ensure that 
+remedial education provided by public school teachers 
+remained secular did not result in excessive entanglement 
+under the test of Lemon v. Kurtzman, 403 U.S. 602, 612-13, 
+91 S.Ct. 2125, 29 L.Ed.2d 745 (1971). Agostini is merely the 
+latest in a line of cases rejecting an entanglement claim when 
+applied to the making of judgments by officials overseeing 
+regulatory schemes concerning the religious character of 
+activities. See Hernandez v. CIR, 490 U.S. 680, 696-97, 109 
+S.Ct. 2136, 104 L.Ed.2d 766 (1989) (“[RJoutine regulatory 
+interaction which involves no inquiries into religious 
+doctrine, . . . and no ‘detailed monitoring and close 
+administrative contact’ between secular and religious bodies, 
+does not of itself violate the nonentanglement command.” 
+(citations omitted)); Mueller v. Allen, 463 U.S. 388, 403, 103 
+S.Ct. 3062, 77 L.Ed.2d 721 (1983) (finding no entanglement 
+despite the fact that state officials required to determine 
+whether textbooks were religious); Board of Educ. v. Allen, 
+392 U.S. 236, 245, 88 S.Ct. 1923, 20 L.Ed.2d 1060 (1968) 
+(same). . 
+
+
+We conclude that the regulation does not offend the 
+entanglement prong of the Lemon test. We need go no further 
+because the district court did not determine that it offended 
+the first (secular purpose), or second (primary effect to 
+advance or inhibit religion), prong of the test. 
+
+
+C. The Equal Protection Clause 
+
+
+The district court held that the regulation violates the Equal 
+Protection Clause because it “has the effect of allowing in- 
+class services to disabled students at non-religious schools 
+while prohibiting in-class services to disabled students at 
+
+
+Ne PR telat eran any sbdindiiaeShctteata hdl tesco taecet De ehh a ar, 
+
+
+Ae Dery Ae 
+
+
+13a 
+
+
+religious schools, both public and private. ... Absent an anti- 
+establishment interest, however, such a distinction lacks a 
+rational, let alone compelling, justification.” Because 
+parochial school students are not a Suspect class, scrutiny of 
+their treatment by the state is under the rational basis test. See 
+City of New Orleans v. Dukes, 427 U.S. 297, 303-04, 96 S.Ct. 
+2513, 49 L.Ed.2d 511 (1976); Zobrest, 963 F.2d at 1197 n.6, 
+While under Zobrest the federal Establishment Clause raises 
+no bar to providing on-site services to disabled students at 
+sectarian schools, for purposes of equal protection analysis, 
+Oregon’s interpretation of its constitutional separation 
+requirement remains a legitimate state interest. The parties 
+stipulated that “[t]he State of Oregon interprets Article I, § 5, 
+of its constitution to require the provision of special education 
+and related services in a religiously-neutral setting.” See Or. 
+Const. art. I, § 5; Lowe vy. City of Eugene, 254 Or. 518, 463 
+P.2d 360, 364 (1969) (describing art. I, § 5 as an expression 
+of Oregon’s commitment to the doctrine of separation of 
+church and state); see also Cooper v. Eugene Sch. Dist. No. 
+4J, 301 Or. 358, 723 P.2d 298, 312 (1986) (upholding Oregon 
+State statute prohibiting school teacher from wearing religious 
+dress while on duty, finding religious garb incompatible 
+“with the school’s commitment to maintaining . . . the 
+atmosphere of religious freedom and neutrality. . .”.); Strout, 
+178 F.3d at 67 (“The Maine legislature rationally could have 
+believed that including sectarian schools within its funding 
+scheme would or might violate the establishment clause.” 
+(Campbell, J., concurring); Luetkemeyer v. Kaufmann, 364 
+F.Supp. 376, 382 (W.D.Mo. 1973), aff’d, 419 U.S. 888, 95 
+S.Ct. 167, 42 L.Ed.2d 134 (1974) (finding no equal protection 
+violation by Missouri’s denial of bus service to parochial 
+school student because of state’s legitimate interest in 
+maintaining separation of church and state). We conclude that 
+
+
+l4a | 
+
+
+KDM and his parents have not been denied the equal 
+protection of the laws.* 
+
+
+CONCLUSION 
+The judgment is REVERSED. 
+
+
+* In Zobrest, moreover, we rejected an equal protection claim on the 
+ground that the Free Exercise Clause does not create a fundamental right 
+to on-site special education services. See Zobrest, 963 F.2d at 1196 n. 6; 
+see also Norwood v. Harrison, 413 U.S. 455, 461-62, 93 S.Ct. 2804, 37 
+L.Ed.2d 723 (1973) (denial of public funds to private schools not an equal 
+protection violation). Although this court’s judgment in Zobrest was 
+reversed on the Establishment Clause ground, the Free Exercise portion of 
+the opinion remains intact. See Chas. Wolff Packing Co. v. Court of Indus. 
+Relations, 267 U.S. 552, 562, 45 S.Ct. 441, 69 LEd. 785 (1925) (quoting 
+Mutual Life Ins. Co. v. Hill, 193 U.S. 551, 553-54, 24 S.Ct. 538, 48 L.Ed. 
+788 (1904) (“[A] judgment of reversal is not necessarily an adjudication 
+by the appellate court of any other than the question in terms discussed 
+and decided.”’)). 
+
+
+b vom DEM mA) 2 
+
+
+NESE MM OT aOR EITM MANE ASIN LRAT TIRE. ENT I Nm R NNS 
+
+
+NOME 
+
+
+15a 
+
+
+KLEINFELD, Circuit Judge, dissenting: 
+
+
+Under today’s decision, the government may discriminate 
+against people based on their exercise of religion, so long as 
+the discriminatory burdens it imposes are not more substantial 
+than requiring a blind child with cerebral palsy to leave his 
+school building and go down the street to a fire hall. That is 
+quite a surprise. Fortunately, that is not the law in most of the 
+rest of the country. The Supreme Court,' and the Third, 
+Sixth,’ and Eighth* Circuits have all held to the contrary—the 
+Eighth Circuit in a case materially identical to this one. 
+Unfortunately, that will be the law in this circuit; if the 
+majority opinion stands. 
+
+
+The reason that the majority gets the wrong answer is that 
+it asks the wrong question. The majority formulates the 
+question in this case as whether the regulation requiring 
+special education to be provided in “a religiously-neutral 
+setting” ° imposes “an impermissible burden on [KDM’s and 
+his parents’] free exercise of religion.” Because going down 
+the street to the fire hall is only a slight inconvenience, the 
+majority concludes that the government may burden religion 
+to this extent, even though a student with the same afflictions 
+in a private secular school would not have to go down the 
+Street to the fire hall for his special education services. As for 
+why treating children in religious schools differently does not 
+violate the Equal Protection Clause, the majority says that 
+because religious school students are not a “suspect class,” a 
+
+
+' Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508 U.S. 520, 113 S.Ct. 2217, 
+124 L.Ed.2d 472 (1993). 
+
+
+* Brown v. Borough of Mahaffey, 35 F.3d 846 (3d Cir. 1994). 
+* Hartmann y. Stone, 68 F.3d 973 (6th Cir. 1995). 
+
+* Peter v. Wedl, 155 F.3d 992 (8th Cir. 1998). 
+
+> Or. Admin. R. 581-15-166(3). 
+
+
+16a 
+
+
+rational basis for the distinction is enough, and Oregon’s 
+desire to avoid religiosity in education, in order to avoid 
+anything that might amount to an establishment of religion, is 
+a rational basis. 
+
+
+The technical reason why the majority’s formulation is 
+wrong is that the majority asks a question developed in cases 
+involving neutral laws of general applicability, even though, 
+as the majority concedes, this case involves a non- neutral 
+law. The substantial burden test has only been applied to free 
+exercise challenges of neutral and generally applicable laws, 
+and it survives Employment Division v. Smith,° if at all, 
+only where “a neutral, generally applicable regulatory law” ’ 
+implicates a combination of the Free Exercise Clause and 
+another constitutional right, such as “the right of parents 
+. . . to direct the education of their children.” * The regulation 
+at issue here is not neutral on its face. By requiring a 
+“religiously-neutral setting,” the government expressly and 
+intentionally discriminates against religious as opposed to 
+secular private schools. Oregon could lawfully provide the 
+services only in public and not in private schools. But having 
+decided to provide the services in private schools, Oregon 
+cannot discriminate against religious schools without 
+violating the Constitution. 
+
+
+When the government, by a law not neutral on its face, 
+treats people of one or all religions better or worse than 
+others, the constitutional question is traditionally formulated 
+so that the answer has to be “No!” Church of Lukumi Babalu 
+Aye, Inc. v. Hialeah’ states the test we are required to apply to 
+
+
+* Employment Div. v. Smith, 494 U.S. 872, 110 S.Ct. 1595, 108 
+L.Ed.2d 876 (1990). 
+
+
+” Id. at 880, 110 S.Ct. 1595. 
+* Id. at 881, 110 S.Ct. 1595. 
+
+
+” Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508 U.S. 520, 113 
+S.Ct. 2217, 124 L.Ed.2d 472 (1993). 
+
+
+OANA TON TER LL ABODE RI POPE LEI LR AID CEO PRIM HY IR ON RIE Nah cusectrs 1 occas ee oe 
+
+
+* Po NPR 6 
+
+
+17a 
+
+
+non-neutral laws such as Oregon’s special education 
+regulation. Such a law gets “the most rigorous of scrutiny,” 
+must advance “ ‘interests of the highest order,’ ” and must be 
+“narrowly tailored.”"” That test, of course, is generally too 
+Stringent for any law to pass. Few laws singling out a 
+particular religion or religion in general for special burdens, 
+even slight burdens, can satisfy this test. 
+
+
+The law at issue in this case, requiring special education to 
+be provided in “a religiously-neutral setting,’”'' violates 
+KDM’s rights under the Free Exercise and Equal Protection 
+Clauses. Handicapped children at secular private schools get 
+special education in their schools, but handicapped children at 
+religious private schools must leave school to get the same 
+special education. This law violates the Constitution because 
+it distinguishes between people and burdens some of them on 
+account of their religious practices. 
+
+
+The majority puts us at odds with three other circuits to 
+have considered analogous issues. In the rare cases where 
+States have burdened religion, even insubstantially, by laws 
+that are not neutral, courts have almost uniformly held the 
+laws unconstitutional. The only circuit to have considered the 
+proposition that today’s majority adopts, that plaintiffs must 
+show a “substantial” or “impermissible” burden for a Free 
+Exercise challenge, has rejected the proposition. 
+
+
+In Brown v. Borough of Mahaffey, '* a municipality erected 
+a gate on public land to obstruct travel through a park to 
+revival services held on adjacent private land. Alternate 
+access was available, and the obstruction was but a slight 
+additional burden for those going to the revival. The Third 
+Circuit rejected the municipality’s argument that the plaintiffs 
+
+
+' Id. at 546, 113 S.Ct. 2217. 
+'' Or. Admin. R. 581-15-166(3). 
+'? Brown v. Borough of Mahaffey, 35 F.3d 846, 849 (3rd Cir. 1994), 
+
+
+18a 
+
+
+had failed to show that the gate imposed a substantial burden 
+and held that “[t]he rare cases which address acts or laws 
+which target religious activity have never limited liability to 
+instances where a ‘substantial burden’ was proved by the 
+plaintiff.” '* The court explained that “[t]he ‘substantial 
+burden’ requirement was developed in the Supreme Court’s 
+free exercise jurisprudence . . . in order to balance the tension 
+between religious rights and valid government goals 
+advanced by ‘neutral and generally applicable laws’ which 
+create an incidental burden on religious exercise.” '* “Because 
+government actions intentionally discriminating against 
+religious exercise a fortiori serve no legitimate purpose, no 
+balancing test is necessary to cabin religious exercise in 
+deference to such action.” 
+
+
+Similarly, in Hartmann v. Stone,'° an army regulation 
+forbid on-base child-care providers from using “[rJeligious 
+materials or activities specifically designed to teach or 
+promote religious doctrine.” '’ The Sixth Circuit held that 
+because the regulation was not neutral and generally 
+applicable, it had to be narrowly tailored to serve a 
+compelling state interest; it was not, so the Sixth Circuit held 
+that the Army Regulation violated the Free Exercise Clause. 
+The court expressly rejected the proposition, accepted by 
+today’s majority, that a state’s desire to assure the fullest 
+compliance with the Establishment Clause was a sufficiently 
+compelling interest to save the regulation. 
+
+
+'3 Id. at 850. 
+
+as 3 
+
+15 7g. 
+
+'© Hartmann vy. Stone, 68 F.3d 973, 979 (6th Cir. 1995). 
+"7 See id. at 977. 
+
+
+19a 
+
+
+Peter v. Wedl " is materially identical to the case we decide 
+today, yet the Eighth Circuit reaches the opposite conclusion 
+from today’s majority. In Peter, a Minnesota school district 
+rule prohibited special education services from being, 
+provided except in religiously “neutral” schools, whether 
+private or public." The Eighth Circuit held that the rule 
+_violated the Free Exercise, the Free Speech, and the Equal 
+Protection Clauses. “Government discrimination based on 
+religion violates the Free Exercise Clause of the First 
+Amendment.” ” Like the Sixth Circuit in Hartmann, the 
+Eighth Circuit expressly rejected Minnesota’s argument that 
+the law was constitutionally valid because of the state’s 
+interest in assiduous compliance with the Establishment 
+Clause. 
+
+
+The majority has not offered any persuasive distinction 
+between this case and the Supreme Court decision in Lukumi 
+or the Third, Sixth, and Eighth Circuit decisions. The 
+majority says Lukumi does not apply here because Oregon’s 
+regulation does not have as its object suppression of religion 
+or religious conduct. I am not sure why the majority thinks 
+this is the right question to ask—government discrimination 
+against one or all religions is unconstitutional even if 
+suppression is not the object. “At a minimum, the protections 
+of the Free Exercise Clause pertain if the law at issue 
+discriminates against some or all religious beliefs. . . .” 2! 
+Even if the extent of the burden mattered (which it does not 
+because the Oregon regulation is not neutral toward religion), 
+the exercise of religious convictions is substantially burdened 
+here. Religions have commanded for at least three millennia 
+
+
+* Peter v. Wedl, 155 F.3d 992 (8th Cir. 1998). 
+See id. at 994. 
+
+Id. at 995. 
+
+*" Lukumi, 508 U.S. at 532, 113 S.Ct. 2217. 
+
+
+20a 
+
+
+that parents educate their children in their religious beliefs. 
+“Therefore impress these My words upon your very heart: 
+bind them as a sign on your hand and let them serve 
+as a symbol on your forehead, and teach them to your 
+children. . .” ” Under Oregon’s regulation, if a blind child 
+with cerebral palsy goes to a secular private school, he gets 
+special education in his school, but if he goes to a religious 
+private school, he has to take a trip down the street for special 
+education. The Free Exercise Clause entitles people to live 
+their lives in accord with their religious beliefs, not just to say 
+their prayers, without having the government intentionally 
+discriminate against them for doing so. 
+
+
+The majority attempts to limit Lukumi to situations where 
+there is evidence that substantial animus to repress religion 
+motivated the law in question. That is a misreading. Lukumi 
+considered the anti-Santeria animus that motivated an 
+arguably facially neutral law against animal sacrifice as a 
+basis for treating the law as non-neutral. The Court held that 
+“[flacial neutrality is not determinative . . . . [because t]he 
+Free Exercise Clause, like the Establishment Clause, extends 
+beyond facial discrimination.” * Facial discrimination, on the 
+other hand, is almost always determinative. “The Free 
+Exercise Clause protects against governmental hostility which 
+is masked as well as overt.” * Once there is a non-neutral 
+law, as the majority has conceded that we have here, the test 
+under Lukumi is clear—‘“a law restrictive of religious 
+practices must advance ‘interests of the highest order’ and 
+must be narrowly tailored in pursuit of those interests.” * 
+“Animus” reclassifies a facially neutral law as one that targets 
+
+
+” Deuteronomy 11:18-19 (emphasis added). 
+5 Lukumi, 508 U.S. at 534, 113 S.Ct. 2217. 
+4 Id. 
+
+°S Id. at 546, 113 S.Ct. 2217. 
+
+
+See ASS Fw ee 
+
+
+2la 
+
+
+religion. “Animus” is immaterial here because the law at 
+issue is not facially neutral, but treats people differently 
+according to whether their school is religious. 
+
+
+The majority fails to adequately distinguish the Third, 
+Sixth, and Eighth Circuit decisions. The majority claims to 
+distinguish Brown on the ground that it involved the 
+deliberate burdening of a religious exercise, but that 
+distinction is false; the Oregon regulation at issue here 
+intentionally distinguishes between religious and “religiously- 
+neutral” private schools. That is a deliberate burdening of 
+one, and a benefitting of the other. The majority says 
+Hartmann involved a_ regulation “banning all religious 
+practices by day care providers on the base,” but does not say 
+why this should be distinguished from banning all special 
+education services in religious settings. They are the same for 
+this purpose. The majority’s attempt to distinguish Peter 
+makes no sense because, there, as here, the regulation al- 
+lowed special education services only at a religiously “neutral 
+site.” The majority purports to rely on a fact that was 
+irrelevant to the Eighth Circuit’s holding, and quotes only 
+from dictum on an alternative argument that the Eighth 
+Circuit did not reach.”’ That case and this one are, for analytic 
+purposes, carbon copies. 
+
+
+There is no such thing as a de minimis exception to the 
+Equal Protection Clause.* The government cannot 
+discriminate against people because of their religion, even 
+where the burden it imposes for that reason is only what the 
+majority considers a slight inconvenience. And there is no 
+such thing as a de minimis exception to the Establishment 
+
+
+> Id. at 994, 
+*” See id. at 1001. 
+- Monterey Mechanical Co. v. Wilson, 125 F.3d 702, 712 (9th Cir. 1997). 
+
+
+22a 
+
+
+Clause. Lee v. Weisman” holds that the “embarrassment and 
+the intrusion of the religious exercise cannot be refuted by 
+arguing that [a clergyman’s] prayers [at a public school 
+graduation ceremony], and similar ones to be said in the 
+future, are of a de minimis character.” * It follows that there 
+is also no such thing as a de minimis exception to the Free 
+Exercise Clause. 
+
+
+The government can no more discriminate against religion 
+in general than against a particular religion. The claimed in- 
+terest of Oregon, on which today’s majority relies, “in achiev- 
+ing greater separation of church and State than is already 
+ensured under the Establishment Clause of the Federal 
+Constitution—is limited by the Free Exercise Clause. .. .” *' 
+The school would not violate the Establishment Clause by 
+providing the special education services to the handicapped 
+child in this case, which it provides generally to all children 
+in their public or private schools, in his religious school.” To 
+the extent that Oregon bases the “religiously-neutral setting” 
+regulation on a “better safe than sorry” approach to the 
+Establishment Clause, the Free Exercise Clause prevents the 
+government from making itself safe from Establishment 
+
+
+9 Lee v. Weisman, 505 U.S. 577, 112 S.Ct. 2649, 120 L.Ed.2d 467 
+(1992). 
+
+
+” Td. at 594, 112 S.Ct. 2649. 
+
+
+*' Widmar vy. Vincent, 454 U.S. 263, 276, 102 S.Ct. 269, 70 L.Ed.2d 
+440 (1981). Cf. Rosenberger v. Rector and Visitors of Univ. of Va., 515 
+U.S. 819, 846, 115 S.Ct. 2510, 132 L.Ed.2d 700 (1995) (“There is no 
+Establishment Clause violation in the University’s honoring its duties 
+under the Free Speech Clause.”); Lamb’s Chapel v. Center Moriches 
+Union Free School District, 508 U.S. 384, 394, 113 S.Ct. 2141, 124 
+L.Ed.2d 352 (1993) (rejecting compelling state interest in avoiding 
+Establishment Clause violation). 
+
+
+2 Zobrest v. Catalina Foothills School District, 509 U.S. 1, 113 S.Ct. 
+2462, 125 L.Ed.2d 1(1993). 
+
+
+23a 
+
+
+Clause challenges by making adherents of religion sorry. The 
+“First Amendment forbids an official purpose to disapprove 
+of a particular religion or of religion in general.” * The 
+Constitution mandates “neutrality between religion and non- 
+religion.” “ “Withholding access would leave an imper- 
+missible perception that religious activities are disfavored.” * 
+Discriminating against religious schools in a program of 
+otherwise general availability makes no sense as a strategy 
+for avoiding an establishment of religion, because “treating 
+everyone the same without regard to religion is hard to see as 
+‘establishing’ anything—except equality.” * 
+
+
+One traditional test of the correctness of a legal proposition 
+is to apply it to a case where we can be confident of the right 
+answer, and see whether the proposition yields the wrong 
+answer. We do the same thing to test a spreadsheet, by 
+entering data where we know what the answer should be to 
+see if the spreadsheet properly generates it. The majority 
+today concludes that so long as the practice of religion is not 
+more substantially burdened than requiring a blind child with 
+cerebral palsy to leave his school building and go down the 
+Street for special education services, the government may 
+treat that child less favorably than others on account of his 
+religion, Will this rule yield the right answer if applied to 
+something we would all agree was Outrageous, say a 
+government requirement that all Jews wear armbands 
+displaying stars of David? I am confident that today’s 
+majority would be as appalled as I am by such a law and 
+would hold it unconstitutional, but it would be hard for the 
+
+
+*§ Lukumi, 508 U.S. at 532, 113 S.Ct. 2217. 
+4 Hartmann, 68 F.3d at 978. 
+
+
+7 Rosenberger, 515 U.S. at 846, 115 S.Ct. 2510 (O’Connor, 
+concurring) (summarizing the principle of neutrality toward religion). 
+
+
+vs Eugene Volokh, Equal Treatment Is Not Establishment, 13 Notre 
+Dame J.L. Ethics & Public Policy 341, 345 (1999). 
+
+
+24a 
+
+
+majority to get the right result from its holding in this case. 
+The majority holds today that a law may impose a 
+discriminatory burden on religion, so long as there is a 
+rational purpose for the law and the burden is no greater than 
+requiring a blind child with cerebral palsy to leave his school 
+and go down the street for special education services. The — 
+physical burden of wearing the armband is far less. The 
+historical associations with the armband are horrifying, but 
+our government would doubtless have a more beneficient 
+purpose and could articulate some rational basis, perhaps 
+implementation of some public safety or antidiscrimination 
+program. The hypothetical case could be modified to soften 
+the historical association by positing a law requiring 
+adherents of all religions to wear armbands announcing their 
+faiths. Today’s majority says the only question is whether the 
+special imposition on religion “impermissibly burden{[s] . . . 
+the free exercise rights of KDM and his parents.” That cannot 
+be so. Most religions allow their adherents to wear and 
+display symbols of the faith, but that does not entitle the 
+government to require such displays. As the armband 
+example makes clear, and as Lukumi makes explicit, that is 
+not the only question. Although the Oregon law imposes no 
+stigma comparable to the armbands, children must learn from 
+the Oregon regulation that their government regards religious 
+schools as bad in some way, places in which it will not deign 
+to provide services available in all other public and private 
+schools, like the “impermissible” perception that religious 
+activities are disfavored in Rosenberger. 
+
+
+The Free Exercise Clause prohibits government anti- 
+clericalism as vigorously as the Establishment Clause pro- 
+hibits government from preferring a particular religion. Our 
+revolution, unlike, say, the French, Mexican, or Russian, 
+evinced no hostility to any organized religion. Our founding 
+manifesto, the Declaration of Independence, says that people 
+are “endowed by their Creator” with their fundamental rights. 
+The Establishment Clause and the Free Exercise Clause are 
+
+
+25a 
+
+
+not in tension, as though one said people can practice their 
+religion, and the other said “but not in public.” The Free 
+Exercise and Establishment Clauses complement each other, 
+both advancing the purpose of freedom of religion. One 
+guarantees individuals the right to freely exercise their 
+religion, and the other assures that this free exercise will be 
+unburdened by government preference for a different 
+religion.” Americans are entitled to a government that does 
+not discriminate against them because of their religion, even 
+with burdens that those who do not bear them see as merely a 
+slight inconvenience. 
+
+
+*” See Michael W. McConnell, Religious Freedom at a Crossroads, 59 
+U. Chi. L. Rev. 115, 117 (1992), 
+
+
+NESS ERE Re Se ee Te TT 
+
+
+, 26a 
+APPENDIX C 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF OREGON 
+
+
+[Filed Jan 5, 1998] 
+
+
+Civil No. 96-6075-HO 
+
+
+WJM, on behalf of KDM, a minor, 
+
+
+Plaintiff, 
+v. 
+
+
+REEDSPORT SCHOOL DISTRICT and NORMA PAULUS, 
+Defendants. 
+
+
+JUDGMENT 
+
+
+The decision of the Superintendent is reversed and 
+judgment is entered in favor of Plaintiff on counts three and 
+
+
+four of his complaint. Plaintiff is entitled to reasonable 
+attorney fees. 
+
+
+Donald M. Cinnamond. Clerk 
+
+
+/s/ Lea Force 
+LEA FORCE 
+Deputy 
+Dated: January 5, 1998 
+
+
+27a 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF OREGON 
+
+
+[Filed Dec 18, 1997] 
+Case No. 96-6075-HO 
+
+
+K.D.M., a minor, by and through his father 
+and next friend, W.J.M.., 
+Plaintiff, 
+v. 
+
+
+REEDSPORT SCHOOL DISTRICT and NORMA PAULUS, 
+in her official capacity as Oregon Superintendent 
+of Public Instruction, 
+
+Defendants. 
+
+
+ORDER 
+
+
+This is an action challenging the Oregon Superintentdent of 
+Public Instruction’s decision that plaintiff’s son K.D.M. is not 
+entitled to training by a vision specialist on K.D.M.’s 
+parochial school campus. The Individuals with Disabilities 
+Education Act gives this court jurisdiction and the obligation 
+to review the Superintendent’s decision de novo. See 20 
+U.S.C. § 1415 (e) (2) (1995). 
+
+
+FACTS 
+
+
+Plaintiff's son K.D.M. is a minor who is legally blind and 
+has cerebral palsy. K.D.M. attends Harbor Baptist Church 
+School, a private religious school in Winchester Bay, Oregon. 
+Defendant Reedsport School District (The District) provides 
+K. D. M. with braillers, computers, and other special equip- 
+ment at Harbor Baptist. The District supplies K.D.M. with a 
+vision specialist at the fire hall down the street. Plaintiff 
+receives assistance from the vision specialist for 90 minutes 
+
+
+28a 
+
+
+twice weekly. Plaintiff concedes it is safe for K.D.M. to travel 
+to and from the fire hall but contends the fire hall is not an 
+appropriate educational environment. 
+
+
+Plaintiff seeks an injunction requiring defendants to 
+provide the vision specialist’s services at Harbor Baptist. 
+Plaintiff agrees that it could be disruptive to allow the vision 
+specialist to provide services to plaintiff in the regular 
+classroom but suggests that a separate classroom at Harbor 
+Baptist be used to provide the specialized instruction. 
+
+
+Oregon Administrative Rule 581-15-166 took effect May 
+25, 1995. It provides: 
+
+
+Public Educational Agency Responsibility for Children 
+Placed by Parents in Private Schools 
+
+
+* * * 
+
+
+(2) If a child with a disability, who is at the age of 
+eligibility for kindergarten through age 21, is offered a 
+free appropriate public education by the child’s resident 
+school district and the parent of the child unilaterally 
+enrolls the child in a private school, the child shall not 
+have an individual entitlement to receive special 
+education and related services from the child’s resident 
+school district. Consistent with the procedures set forth 
+in OAR 581-150-171, resident school districts shall 
+determine which children with disabilities shall receive 
+services, what services shall be provided and how those 
+services shall be provided, including the location for the 
+delivery of those services. 
+
+
+(3) Such special education and related services shall 
+be provided in a religiously-neutral setting. 
+
+
+The District concedes it is not providing the services of a 
+vision specialist at Harbor Baptist because it and the State of 
+Oregon believe Harbor Baptist is not a religiously-neutral 
+setting. / 
+
+
+29a 
+DISCUSSION 
+
+
+The Individuals with Disabilities Education Act (IDEA) 
+provides federal funding to states which comply with certain 
+conditions. One condition is that the state provide educational 
+services in the “[I]east restrictive environment”: 
+
+
+To the maximum extent appropriate, children with 
+disabilities, including children in private institutions or 
+other care facilities, are educated with children who are 
+not disabled, and special classes, separate schooling, or 
+other removal of children with disabilities from the 
+regular educational environment occurs only when the 
+nature or severity of the handicap is such that education 
+in regular classes with the use of supplementary aids and 
+services cannot be achieved satisfactorily. 
+
+
+20 U.S.C. § 1412 (5) (A) (1997). 
+
+
+A provision titled “Children in private schools” requires — 
+states to provide some degree of special education and related 
+services to disabled children enrolled in private schools: 
+
+
+[(A) (i)] To the extent consistent with the number and 
+location of children with disabilities in the State who are 
+enrolled by their parents in private elementary and 
+secondary schools, provision is made for the 
+participation of those children in the program assisted or 
+carried out under this subchapter by providing for such 
+children special education and related services in 
+accordance with the following requirements, . . . . 
+
+
+(1) Amounts expended for the provision of those 
+services by a local educational agency shall be equal to a 
+proportionate amount of Federal funds made available 
+under this subchapter. 
+
+
+(If) Such services may be provided to children with 
+disabilities on the premises of private, including 
+parochial, schools, to the extent consistent with law. 
+
+
+30a 
+
+
+Under the 1997 amendments to the IDEA, however, the 
+state’s obligation to pay for services to children in private 
+schools is limited: 
+
+
+[(C) (i) Subject to subparagraph (A), this subchapter 
+does not require a local educational agency to pay for 
+the cost of education, including special education or 
+related services, of a child with a disability at a 
+private school or facility if that agency makes a free 
+appropriate public education available to the child 
+and the parents elected to place the child in such 
+private school or facility. . . . 
+
+
+20 U.S.C. § 1412(a) (10). 
+
+
+According to the House Committee Report, the IDEA, as 
+amended, is intended to provide, “to the extent consistent 
+with law, at State discretion, the provi[sion of] services on the 
+premises of private, including parochial, schools.” H.Rep. 
+Comm. on Education and the Work Force No. 95, 105th 
+Cong. Ist Sess. 1,91 (May 13, 1997). 
+
+
+Defendants argue that they have met their obligations 
+under the IDEA by offering K.D.M. a free and appropriate 
+public education, and, therefore, they do not need to provide 
+K.D.M. with an in-class vision specialist. Defendants_rely in 
+large part on Goodall by Goodall v. Stafford Cty. Sch. Bd., 
+930 F.2d 363 (4th Cir. 1991), K.R. by M.R. v. Anderson 
+Comm. Sch. Corp., 125 F. 3d 1017 (1997), and Fowler v. 
+Unified Sch. Dist. No. 259, F.3d , 1997 WL 686039 
+(10th Cir. 1997). The Tenth Circuit Court of Appeals held in 
+Fowler that, under the 1997 IDEA amendments, a school 
+district is not required to provide special education services 
+on a disabled student’s parochial school campus if the district 
+has offered that student a free and appropriate public 
+education. Fowler at *5. The Seventh Circuit reached 
+essentially the same holding in Anderson, but with respect to 
+a disabled student in a private, non-sectarian school. 
+
+
+31a 
+
+Anderson, at 1019. Neither Fowler nor Anderson involved an 
+express or de facto state policy which, like OAR 581-15-166, 
+restricted services to non-religious settings. Accordingly, 
+those cases did not address the constitutional concerns 
+relevant here. 
+
+
+The Second Circuit Court of Appeals in Goodall and the 
+Ninth Circuit Court of Appeals in Zobrest vy. Catalina 
+Foothills Sch. Dist., 963 F.2d 1190 (9th Cir. 1992) did 
+address the Free Exercise implications of a school district’s 
+denial of services to disabled children enrolled in parochial 
+schools. All three judges on the Ninth Circuit panel agreed 
+that the school district’s denial of services on the student’s 
+parochial school campus imposed a burden on the student’s 
+and his parents’ rights under the Free Exercise clause of the 
+First Amendment to the United States Constitution.' Zobrest, 
+at 1196 (Fletcher, J., joined by Rheinhardt, J.), 1205 (Tang, 
+dissenting). Both Zobrest and the Goodall court, however, 
+held that any impingement on the child or parents’ Free 
+Exercise rights was justified by the state’s interest in avoiding 
+an Establishment Clause violation. Zobrest, 963 F.2d at 
+1196-97; Goodall, 930 F.2d at 369-70. 
+
+
+The United States Supreme Court granted the Zobrests’ 
+petition for a writ of certiorari and reversed the Ninth 
+Circuit’s decision. Zobrest v. Catalina Foothills Sch. Dist., 
+113 S.Ct. 2462, 2469 (1993). The Supreme Court held that 
+the Establishment Clause of the United States Constitution 
+does not prevent a school district from furnishing a sign 
+language interpreter in a disabled student’s parochial school. 
+Id. The Court did not reach the Zobrests’ Free Exercise claim 
+
+
+' The First Amendment provides: 
+
+
+Congress shall make no law respecting an establishment of religion, or 
+prohibiting the free exercise thereof; or abridging the freedom of speech, 
+or of the press; or the right of the people peaceably to assemble, and to 
+petition the Government for a redress of grievances. 
+
+
+32a 
+
+
+because the Zobrests did not challenge that part of the 
+decision. /d. at 2465 n.5. 
+
+
+While defendants argue that Zobrest merely establishes 
+that a school district may provide special education on 
+parochial campuses, not that it is required to do so, the 
+Court’s decision in Zobrest reaches further than defendants 
+suggest in that it undercuts the courts of appeals’ Free 
+Exercise reasoning in both Goodall and Zobrest: absent an 
+Establishment Clause violation, there remains no compelling 
+reason to violate the student and his parents’ Free Exercise 
+rights. Like the policy addressed in Zobrest, OAR 581-15-166 
+imposes a burden on K. D. M.’s and his parents’ free exercise 
+rights by forcing them to choose between enrolling at Harbor 
+Baptist and receiving special education at the fire hall or 
+enrolling at a non-religious school and receiving in-class 
+services. Under United States Supreme Court precedent, 
+neither federal nor state anti-establishment concerns justify 
+such an intrusion. See Widmar v. Vincent, 454 U.S. 263, 275- 
+76 (1981) (antiestablishment concerns arising out of state 
+constitution are limited by Free Exercise clause); see also 
+Zobrest, 963 F.2d at 1205 (Tang, J., dissenting); Everson v. 
+Bd. of Educ., 330 U.S. 1 (1947). OAR 581-15-166 violates 
+the Free Exercise clause of the First Amendment to the 
+United States Constitution. : 
+
+
+OAR 581-15-166 is infirm on other constitutional grounds. 
+The Establishment Clause permits neutral state polices that 
+have incidental effects on religious institutions, e.g., Zobrest, 
+509 U.S. at 14, but it prohibits states from engaging in 
+activities that entail “excessive entanglement between church 
+and state.” Agostini v. Felton — U.S. —, 117 S. Ct. 1997, 
+2002 (1997). OAR 581-15-166 imposes an obligation on the 
+Superintendent to decide, on a case by case basis, whether 
+particular settings are religious. If an education site-be it a 
+fire house, home school, or private school-contains a 
+Menorah on a table, a Psalm on the wall, a nativity scene in 
+
+
+33a 
+
+
+the corner, or the complete works of L. Ron Hubbard on a 
+shelf, OAR 581-15-166 would require a state administrator to 
+decide whether that setting is “religious” and, therefore, 
+qualified for educating disabled students. In trying to keep 
+church and state at arm’s length, OAR 581-15-166 runs the 
+risk of promoting head-on collisions. 
+
+
+OAR 581-15-166 also implicates the Equal Protection 
+Clause of the United States Constitution. Though defendants 
+argue the regulation distinguishes on the basis of “settings,” it 
+can hardly be denied that OAR 581-15-166 has the effect of 
+allowing in-class services to disabled students at non- 
+religious schools while prohibiting in-class services to 
+disabled students at religious schools, both public and private. 
+The Ninth Circuit held in Zobrest that the Equal Protection 
+Clause permits such a distinction in light of the state’s interest 
+in avoiding an Establishment clause violation. Absent an anti- 
+establishment interest, however, such a distinction lacks a 
+rational, let alone compelling, justification.” 
+
+
+In addition to a declaration that OAR 581-15-166 is 
+unconstitutional, plaintiff seeks specific enforcement of his 
+right to a vision specialist in a Harbor Baptist classroom. 
+Defendants are enjoined from enforcing OAR 581-15-166 
+and from following a policy of providing special education 
+and related services to disabled students at religious schools 
+on different terms than provided to ‘disabled students at non- 
+religious schools. As long as defendants provide IDEA 
+
+
+* While the Ninth Circuit in Zobrest applied rational basis scrutiny, the 
+existence of a fundamental Free Exercise right may warrant a compelling 
+interest standard. The higher standard may also be warranted by the 
+amalgamation of equal protection and substantive due process rights. See 
+Zobrest 494 U.S. at 881-82; see also Pierce y. Soc’y of Sisters, 268 U.S. 
+510 (1925) (recognizing the right of parents and guardians to direct their 
+children’s education). 
+
+Defendants have not suggested any justification aside from Oregon’s 
+anti-establishment concerns. 
+
+
+34a 
+
+
+benefits on such a basis, however, neither the IDEA nor the 
+United States or Oregon constitutions impose an obligation to 
+provide a vision specialist to K.D.M. While the IDEA 
+mandates a regular educational environment “to the 
+maximum extent appropriate,” its recent amendments make 
+clear that a district’s provision of services is not required if a 
+parent opts out of a free and appropriate public education. 
+Thus, a district may refuse to provide special education and 
+related services to private school students whose parents opt 
+out of free and appropriate public education as long as the 
+district does not create a distinction based on religious 
+settings and otherwise complies with the IDEA. 
+
+
+The court need not address plaintiff's claims under the 
+Oregon Constitution or the Religious Freedom Restoration 
+Act. Because there is no evidence that defendant Paulus 
+intentionally or recklessly violated plaintiff's clearly 
+established constitutional rights, Act Up!/Portland v. Bagley, 
+988 F.2d 868 (9th Cir. 1993), plaintiff is not entitled to relief 
+on his claim under 42 U.S.C. § 1983. 
+
+
+CONCLUSION 
+
+
+The decision of the Superintendent is reversed and 
+judgment entered in favor of plaintiff on counts three and four 
+of his Complaint (#1). As the prevailing party, plaintiff is 
+entitled to his reasonable attorney fees. 20 U.S.C. § 1415 (i) 
+(3) (B) (1997) 
+
+
+DATED this 18th day of December, 1997. 
+
+
+/s/ Michael R. Hogan 
+Michael R. Hogan 
+United States District Judge 
+
+
+35a 
+CERTIFICATE OF SERVICE 
+
+
+I certify that I served the foregoing Civil Appeals 
+Docketing Statement upon the below listed parties, on 
+February 4th, 1998, by mailing a certified true copy with 
+postage prepaid, to said parties at their regular mailing 
+addresses as shown below: 
+
+
+Attorneys for Plaintiff 
+
+
+Harold B. Scoggins 
+
+Farleigh, Wada & Witt, PC 
+
+Bank of America Financial Center 
+121 SW Morrison Street, Suite 600 
+Portland, OR 97204 
+
+
+Timothy Harrison 
+
+GIBBS & CRAZE, P.A. 
+
+5666 Seminole Boulevard, Suite 2 
+Seminole, Florida 34642 
+
+
+Attorney for Defendant Reedsport School District 
+
+
+Joseph D. Robertson 
+
+GARRETT, HEMANN, ROBERTSON, PAULUS 
+Jennings & Comstock, PC 
+
+1011 Commercial N.E. #210 
+
+Salem, OR 97308 
+
+
+/s/ Philip Schradle 
+PHILIP SCHRADLE 
+Assistant Attorney General 
+~ Attorney for Defendant-Appellant 
+Norma Paulus 
+
+
+36a 
+APPENDIX D 
+
+
+BEFORE THE SUPERINTENDENT 
+OF PUBLIC INSTRUCTION 
+
+
+DOE Case # DP95-141 
+Ref. No. 53341 
+
+
+IN THE MATTER OF THE EDUCATION OF K.D.M. 
+Vv. 
+
+
+REEDSPORT SCHOOL DISTRICT 
+
+
+DATE OF HEARING REQUEST: = August 10, 1995 
+
+
+DATE OF HEARING: September 11, 1995' 
+DATE OF ORDER: Novermber 20, 1995 
+PLACE OF HEARING: Salem, Oregon’ 
+HEARING OFFICER: Kim Scranton 
+
+
+CLAIMANT’S REPRESENTATIVE: Charles Craze, Attorney 
+DIVISION REPRESENTATIVE: Bruce Zagar, Attorney 
+WITNESSES: None 
+
+
+ISSUE: 
+
+
+Shall Reedsport School District provide a vision specialist for 
+K.M. in his classroom at Harbor Baptist Church School? 
+
+
+' Parties stipulated to facts. Hearing was opened only to determine due 
+dates for submitting written briefs. Written simultaneous briefs to be 
+postmarked by October 3. 
+
+* The hearing was conducted by telephone. The hearing office was 
+located in Salem, Oregon. 
+
+
+| P 
+
+
+37a 
+
+
+FINDINGS OF FACT: 
+
+
+K.D.M., the child of B.M. and G.M., is a child of 
+compulsory school age currently residing at 563 Elm 
+Avenue, Reedsport, Oregon 97467, which is in the 
+Reedsport School District (District), part of the Coos 
+Education Service District. 
+
+
+K.D.M. is legally blind and has cerebral palsy. As such, 
+he falls within the meaning of the term “children with 
+disabilities” as defined in the Individuals With 
+Disabilities Education Act (IDEA), 20 U.S.C. § 1401 (a). 
+
+
+K.D.M. is entitled to receive assistance from the State of 
+Oregon on the basis of his disability under the IDEA, and 
+has received such assistance by means of a vision 
+specialist and other special equipment. He has received 
+such assistance from the District through its contract with 
+the Coos Education Service District since he was 
+approximately one year of age. 
+
+
+The District has not provided a vision specialist to 
+K.D.M. in his classroom since he began attending the 
+Harbor Baptist Church School in Reedsport, Oregon, in 
+1993. The Harbor Baptist Church School is a sectarian 
+religious school. 
+
+
+The District has continued to supply K.D.M. with a 
+vision specialist and those services have been provided at 
+the fire hall in Winchester Bay, Oregon, across the street 
+from the Harbor Baptist Church School, and the District 
+has continued to supply him with braillers. computers, 
+and other special equipment at his school. K.D.M. 
+receives assistance at the fire hall for approximately 90 
+minutes, twice per week. These services by the District 
+are in compliance with K.D.M.’s _ individualized 
+education plan, the adequacy of which is not in dispute. 
+
+
+38a 
+
+
+6. K.D.M.’s parents enrolled him in the Harbor Baptist 
+Church School based on their sincerely held religious 
+conviction and beliefs. 
+
+
+7. The vision specialist could provide services to K.D.M. in 
+his regular classes. However, such an arrangement could 
+prove disruptive to both K.D.M.’s instruction and the 
+instruction of the other students. K.D.M.’S parents 
+suggest that a separate room at the Harbor Baptist Church 
+School be used to provide K.D.M.’s_ specialized 
+instruction. 
+
+
+8. K.D.M. is not being provided the services of a vision 
+specialist in his regular classroom at the Harbor Baptist 
+Church School by the District because of the religious 
+nature of the school. This is the sole issue in dispute. 
+
+
+9. Up until May 25, 1995, and at all relevant times prior to 
+that date, the Oregon Administrative Rules promulgated 
+by the Oregon Depariment of Education provided for the 
+following: 
+
+
+“School District Responsibility for Children in Private 
+Schools 
+
+
+58 1-15-166: 
+
+
+(1) School Districts shall make available special 
+education designed to meet the needs of resident 
+handicapped children in private schools. Such 
+special education shall not be provided in the private 
+school. 
+
+
+(2) School Districts shall provide such children with 
+genuine opportunities for equitable participation in 
+special education consistent with the number of 
+children and their needs.” 
+
+
+10. On May 25, 1995, with the signing of the new Oregon 
+Administrative Rule by the Superintendent of Public 
+Instruction, Norma Paulus, a revised rule became effective, 
+
+
+39a 
+
+
+thus governing the conduct of the District. New OAR 581-15- 
+166 provides as follows: 
+
+
+“Public Educational Agency Responsibility for Children 
+Placed by Parents in Private Schools 
+
+
+(1) 
+
+
+(2) 
+
+
+If a child with a disability, who is age three through 
+the age of eligibility for kindergarten, is offered a 
+free and appropriate public education by the 
+Department of Education and the parent of the child 
+unilaterally enrolls the child in a private school, the 
+child shall not have an individual entitlement to 
+receive special education and related services from 
+the Department of Education and related services 
+from the Department of Education. Consistent with 
+
+
+_ the procedures set forth in OAR 581-15-171, the 
+
+
+Department of Education shall determine which 
+children with disabilities shall receive services, 
+what services shall be provided and how those 
+services shall be provided, including the location 
+for the delivery of those services. 
+
+
+If a child with a disability, who is at the age of 
+eligibility for kindergarten through age 21, is 
+offered a free appropriate public education by the 
+child’s resident school district and the parent of the 
+child unilaterally enrolls the child in private school, 
+the child shall not have an individual entitlement to 
+receive special education and related services from 
+the child’s resident school district. Consistent with 
+
+
+the procedures set forth in OAR 581-15-17], 
+resident school districts shall determine which 
+children with disabilities shall receive services, 
+what services shall be provided and how those 
+services shall be provided, including the location 
+for the delivery of those services. 
+
+
+40a 
+
+
+(3) Such special education and related services shall be 
+provided in a religiously-neutral setting. 
+
+
+(4) The Department of Education and school districts 
+shall provide such children with genuine 
+opportunities for equitable participation in special 
+education consistent with the number of children 
+and their needs.” 
+
+
+CONCLUSIONS AND REASONS: 
+
+
+The governing statute applicable to the facts is the Individuals 
+with Disabilities Education Act (IDEA) (20 U.S.C. §§ 1400 et 
+seq.), which was implemented by the U.S. Department of 
+Education through regulations published at 34 C.F.R. 
+§§ 300.1 et seg. The IDEA requires that all children with 
+disabilities have available to them a free appropriate public 
+education which emphasizes special education and related 
+services designed to meet their unique needs (§ 1400(c)). 
+Further, § 1412 (2) (B) requires any State desiring to qualify 
+under this statute to demonstrate, among other things, that “a 
+free appropriate education will be provided for all children 
+with disabilities between the ages of three and eighteen 
+within the State not later than September 1, 1978... .” 34 
+C.F.R. §300.452 makes it clear that “[e]Jach LEA [Local 
+Educational Agency] shall provide special education and 
+related services designed to meet the needs of private school 
+children with disabilities in the jurisdiction of the agency,” 
+and cites 20 U.S.C. 1413(a) (4) (A) and 1414(a)(6) as 
+authority. 
+
+
+All disabled children must be provided services under the 
+IDEA. This is true even if the parents of the child choose to 
+send the child to a private school. Title 34 C.F.R. § 300.403 
+provides that if a child with a disability has a free and 
+appropriate public education available and the parents choose 
+to place the child in a private school or facility, the public 
+agency is not required to pay for the child’s education at the 
+
+
+4la 
+
+
+private school facility. “However, the public agency shall 
+make services available to the child as provided under 
+§§ 300.450-300.452”. 34 C.F.R. § 300.403. 
+
+
+Claimant argues that the Individuals with Disabilities 
+Education Act requires that K.D.M.’s vision specialist and 
+any other aid be provided in the regular educational 
+environment. He argues that parents have a fundamental right 
+to direct the upbringing of their children, including the right 
+to choose the type of education they receive. Section 300.452 
+requires each LEA to “provide special education and related 
+services designed to meet the needs of private school children 
+with disabilities residing in the jurisdiction of the agency.” 
+
+
+In Oregon, school districts must make available special 
+education designed to meet the needs of resident handicapped 
+children in private schools. The regulation requires special 
+education and related services be provided in a religiously 
+neutral setting. OAR 581-15-166(3). 
+
+
+The U.S. Department of Education’s administrative reg- 
+ulations for the IDEA are found in 34 C.F.R. §§300.1 ef seq. 
+According to section 300.533, Placement Procedures, each 
+public agency is to 
+
+
+“(4) Ensure that the placement decision is made in 
+conformity with the LRE rules in §§300.550- 
+300.554.” 
+
+
+Section 300.550 gives the general requirements for ensuring 
+that a child is placed in the least restrictive environment, and 
+states: 
+
+
+“(a) Each SEA shall ensure that each public agency 
+establishes and implements procedures that meet 
+the requirements of §§ 300.550-300.556. 
+
+
+“(b) Each public agency shall ensure- 
+
+
+“(1) That to the maximum extent appropriate, 
+children with disabilities, including children in 
+
+
+42a 
+
+
+public or private institutions or other care facilities, 
+are educated with children who are nondisabled; 
+and 
+
+
+“(2) That special classes, separate schooling or 
+other removal of children with disabilities from the 
+regular educational environment occurs only when 
+the nature or severity of the disability is such that 
+education in regular classes with the use of 
+supplementary aids and services cannot be achieved 
+satisfactorily.” 
+
+
+20 U.S.C. 1412(5)(B); 1414(a)1)(C)(iv). 
+
+
+K.D.M. is attending a private school with nondisabled 
+students. K.D.M. requires vision services. He is being 
+educated in a separate classroom at his school. His parents 
+want the vision services provided in the separate classroom. 
+The school district alleges they cannot provide the services at 
+the private school. The services are provided at a nearby fire 
+hall because Oregon law prohibits the services from being 
+provided in the school. In this instance, the school district is 
+providing the student with special education services to the 
+maximum extent possible. 34 CFR 300.550. There is no 
+requirement that IDEA requires services to be provided in a 
+religious school. 34 C.F.R. 300.403. See also Goodall v. 
+Stafford County School, 930 F2d 363, cert den, 502 U.S. 
+112 SCt 188 (1991). 
+
+
+In K.D.M.’s circumstances, it cannot be argued that the visual 
+therapy services provided in the fire hall are preventing his 
+education with other students when if that service were 
+provided in the private school in a separate room from other 
+students, it would be no more beneficial. 
+
+
+Claimant argues that the Establishment Clause of the U.S. 
+Constitution’s First Amendment does not prohibit the 
+placement of K.D.M.’s vision — in Harbor Baptist 
+Church School. 
+
+
+43a 
+
+
+In Zobrest v. Catalina Foothills School District, 125 L.Ed. 2d 
+1 (1993), the parents of a disabled child chose to send the 
+child to a Roman Catholic sectarian high school. When they 
+requested that the school district provide a sign-language 
+interpreter, their request was denied on the basis that to do so 
+would be a violation of the Federal Constitution. The United 
+States Supreme Court reversed the U.S. Ninth Circuit Court 
+of appeals and held that, pursuant to the Individuals with 
+Disabilities Education Act (IDEA), it is constitutionally 
+permissible to allow a public school district to provide a sign- 
+language interpreter to accompany a deaf student to classes in 
+a sectarian religious school. The court reasoned that the IDEA 
+benefits went to the child who qualifies as “handicapped” 
+under the IDEA, not to the sectarian organization, and thus 
+were not impermissible. 
+
+
+It does not require placement of the vision specialist in the 
+private school nor does it support claimant’s contention that 
+the OAR is contrary to law. 
+
+
+Claimant argues that Article I, Section 5, of the Oregon State 
+Constitution does not prohibit the placement of K.D.M.’s 
+vision specialist in Harbor Baptist Church School. 
+
+
+States must comply with Federal requirements if they accept 
+special education payments. The law accommodated the 
+States in allowing some flexibility in administering the 
+program where the requirements of special education would 
+come into conflict with issues of church and state or the 
+nature of the disability. It was important that special 
+education be provided to individuals in need of it regardless 
+of religious affiliation. The federal regulations allow school 
+districts to make modifications in what is provided as well as 
+where the services are provided, keeping mindful of the “least 
+restrictive environment” and the “maximum extent 
+appropriate” requirements, assuring they are educated with 
+children who are not disabled. 
+
+
+44a 
+
+
+The School District argues that Article I, Section 5 should not 
+be interpreted identically to the federal Establishment Clause. 
+In Cooper v. Eugene School District, 723 P2d 298, 306 Or 
+1986, the court held that only “sometimes” is_ the 
+interpretation the same and traditionally the provision of the 
+State constitution has been construed more strictly than the 
+federal Establishment Clause. 
+
+
+The SEA School districts must walk a fine balance between 
+the requirements of 20 U.S.C. and the Oregon Constitution. 
+School districts may provide the services at public schools or 
+at a neutral site and the Reedsport School District provides 
+the service at a neutral site. 
+
+
+The reality of the circumstances is that vision services are 
+provided to a student who is eligible for special education. 
+The services are provided at a religiously neutral setting 
+across the street from the parochial school. The services are 
+paid regardless of the location of the provided service. The 
+student benefits and the school benefits. Where the benefit is 
+a function of education, both benefit. 
+
+
+Claimant argues that refusal to place the vision specialist in 
+his school is impermissibly hostile toward religion. The First 
+Amendment to the U.S. Constitution “affirmatively mandates 
+accommodation, not merely tolerance, of all religions, and 
+forbids hostility toward any.” Lynch v. Donnelly, 465 U.S. 
+668, 673 (1984). The IDEA, 20 U.S.C. § 1401 (a), promotes 
+accommodation. The purpose of 20 U.S.C., Section 1400 was 
+to assure that all children have available to them a free and 
+appropriate education. The school district is reasonably 
+accommodating K.D.M. by providing him with a vision 
+specialist within the constraints of the regulations adopted by 
+the State of Oregon as it relates to students attending private 
+religious schools. The parents have elected to place K.D.M. 
+in a private school. The State has complied with the IDEA 
+and with State regulations by making services available to 
+K.D.M. as provided under §§ 300.450-300.452. There is no 
+
+
+j 
+/ 
+
+
+45a 
+
+
+evidence that the action taken by the school district prevents 
+K.D.M from practicing his religion or that the action prevents 
+access to the vision specialist. 
+
+
+In interpreting the Equal Access Act, 20 U.S.C. §§ 4071-74 
+(1988), the United States Supreme Court held in Board of 
+Education v. Mergens, 496 U.S. 226, 248 (1990) that, “(t]he 
+Establishment Clause does not license government to treat 
+religion and those who teach or practice it, simply by virtue 
+of their status as such, as subversive of American ideals and 
+therefore subject to unique disabilities.” Claimant argues that 
+to deny the visual specialist in his school setting merely 
+because that school is religious subjects him to unique 
+disabilities not faced by similarly situated students and as 
+such it denies K.D.M. equal Participation in the IDEA 
+program. The facts differed substantially from the facts of the 
+instant case. In Mergens the issue involved participation in a 
+private school club that was not related to a specific 
+curriculum. Additionally, the age of the students was 
+considered. The court considered that secondary school 
+Students were mature enough to understand that a school does 
+not endorse or support student speech that it merely permits 
+on a nondiscriminatory basis. The courts determined that the 
+Equal Access Act did not on its face contravene the 
+Establishment Clause. 
+
+
+Claimant alleges that the failure to provide a vision specialist 
+at Harbor Baptist Church School is a violation of 42 U.S.C. 
+§ 1983. It provides in part that “[evJery person who, under 
+color of any statute, ordinance, regulation, custom or usage, 
+of any State or Territory or the District.of Columbia, subjects, 
+or causes to be subjected, any citizen of the United States or 
+other person within the jurisdiction thereof to the deprivation 
+of any rights, privileges, or immunities secured by the 
+Constitutions and the laws, shall be liable to the party injury 
+in an action at law, suit in equity, or other proceeding for 
+redress.” 
+
+
+46a 
+
+
+Zobrest does not require districts to provide special education 
+services in a parochial school. In Oregon, the State has taken 
+a position of neutrality consistent with the Oregon 
+Constitution and adopted Administrative Rules which 
+prohibit the provision of special education in a religious 
+setting. The school district is providing special education to 
+K.D.M., in compliance with the Oregon Administrative Rule, 
+at a religiously neutral site. 
+
+
+The courts have been consistent in interpreting Article I, 
+Section 5 of the Oregon Constitution regarding religious 
+neutrality. The court contended in Dickman v. School District 
+62C, 232 Or. 238 (October 1962) that the wall of separation 
+in the state of Oregon must be kept “high and impregnable” 
+to meet the demands of Article I, Section 5. 
+
+
+The State is required to be neutral. Zobrest does not mandate 
+provision of services in the private school. It allows it in some 
+circumstances. Nothing in Zobrest, IDEA or the federal 
+regulations makes provision of on-site services mandatory. 
+The District is in compliance with IDEA, federal regulations, 
+the Oregon Constitution and the Oregon Administrative 
+Rules. 
+
+
+The hearing officer affirms for the school district. 
+ORDER: 
+
+
+Reedsport School District may continue to provide a vision 
+specialist for K.D.M. at the fire hal!. 
+
+
+Nov. 20, 1995 
+
+
+/s/ Kim Scranton, 
+—_ KIM SCRANTON 
+Hearing Officer 
+
+
+NOTICE TO ALL PARTIES: If you are dissatisfied with this 
+Order you may, within 120 days after the mailing date on this 
+Order, commence a nonjury civil action in any circuit court of 
+competent jurisdiction, ORS 343.175, or in the United States 
+
+
+47a 
+
+
+District Court, 20 USC 1415(e) (2). Failure to request review 
+within the time allowed will result in LOSS OF YOUR 
+RIGHT TO APPEAL FROM THIS ORDER. 
+
+
+ENTERED at Salem, Oregon Nov 20, 1995 with copies 
+mailed to: 
+
+
+Carol Esch, Oregon Department of Education, Public Service 
+Building, 255 Capitol NE, Salem, Oregon 97310-0203 
+
+
+/s/ Patrica Jones 
+PATRICA JONES 
+
+
+48a 
+CERTIFICATE OF SERVICE 
+
+
+I hereby certify that I served the foregoing FINAL ORDER 
+in Case No. DP95-141 on the parties and attorneys named 
+below on this 20th day of November 1995 by depositing a 
+copy of said document in a sealed envelope in the United 
+States Mail at Salem, Oregon, with the postage thereon fully 
+prepaid, and addressed to: 
+
+
+Bill and Gwen Moore 
+563 Elm Avenue 
+Reedsport, OR 97467 
+
+
+James Robinson, Superintendent 
+Reedsport School District 
+
+100 Ranch Road 
+
+Reedsport, OR 97467-1799 
+
+
+Charles Craze, Attorney at Law 
+1550 El Camino Real Suite 220 
+Menlo Park, CA 94025 
+
+
+Bruce Zager, Attorney at Law 
+1011 Commercial N.E. 
+Salem, OR 97308 
+
+
+Jennifer Tymchuck 
+
+Special Education 
+Reedsport School District 
+100 Ranch Road 
+Reedsport, OR 97467-1799 
+
+
+/s/ Patrica Jones 
+PATRICA JONES 
+
+
+49a 
+APPENDIX E 
+
+
+Education Code 
+
+
+20 U.S.C. §1412 (a) 
+(5) Least restrictive environment 
+(A) In general 
+
+
+To the maximum extent appropriate, children with 
+disabilities, including children in public or private 
+institutions or other care facilities, are educated with 
+children who are not disabled, and special classes, 
+separate schooling, or other removal of children with 
+disabilities from the regular educational environment 
+occurs only when the nature or severity of the 
+disability of a child is such that education in regular 
+Classes with the use of supplementary aids and 
+services cannot be achieved satisfactorily. 
+
+
+(10) Children in private schools 
+(A) Children enrolled in private schools by their parents 
+(i) In general 
+
+
+To the extent consistent with the number and 
+location of children with disabilities in the State 
+who are enrolled by their parents in private 
+elementary and secondary schools, provision is 
+made for the participation of those children in the 
+program assisted or carried out ‘under this 
+subchapter by providing for such children special 
+education and related services in accordance with 
+the following requirements, unless the Secretary 
+has arranged for services to those children under 
+subsection (f) of this section: 
+
+
+(1) Amounts expended for the provision of those 
+services by a local educational agency shall be 
+
+
+50a 
+
+
+equal to a proportionate amount of Federal funds 
+made available under this subchapter. 
+
+
+(II) Such services may be provided to children 
+with disabilities on the premises of private, 
+including parochial, schools, to the extent con- 
+sistent with law. 
+
+
+(ii) Child-find requirement 
+
+
+The requirements of paragraph (3) of this 
+subsection (relating to child find) shall apply with 
+respect to children with disabilities in the State 
+who are enrolled in private, including parochial, 
+elementary and secondary schools. 
+
+
+(C) Payment for education of children enrolled in private 
+schools without consent of or referral by the public 
+agency 
+(i) In general 
+
+Subject to subparagraph (A), this subchapter does 
+not require a local educational agency to pay for 
+the cost of education, including special education 
+and related services, of a child with a disability at a 
+private school or facility if that agency made a free 
+appropriate public education available to the child 
+
+
+and the parents elected to place the child in such 
+private school or facility. 
+
+
+20 U.S.C. §1415 (e) 
+(2) Requirements 
+Such procedures shall meet the following requirements: 
+
+
+(A) The procedures shall ensure that the mediation 
+process— 
+
+
+(i) is voluntary on the part of the parties; 
+
+
+(ii) is not used to deny or delay a parent’s right to a 
+due process hearing under subsection (f) of this 
+
+
+/ 
+/ 
+
+
+Sla 
+
+
+section, or to deny any other rights afforded under this 
+subchapter; and 
+
+
+(iii) is conducted by a qualified and impartial mediator 
+who is trained in effective mediation techniques. 
+
+
+(B) A local educational agency or a State agency may 
+establish procedures to require parents who choose 
+not to use the mediation process to meet, at a time and 
+location convenient to the parents, with a disinterested 
+party who is under contract with — 
+
+
+(i)a parent training and information center or 
+community parent resource center in the State 
+established under section 1482 or 1483 of this title: or 
+
+
+(ii) an appropriate alternative dispute resolution entity; 
+to encourage the use, and explain the benefits, of the 
+mediation process to the parents. 
+
+
+(C) The State shall maintain a list of individuals who are 
+qualified mediators and knowledgeable in laws and 
+regulations relating to the provision of special 
+education and related services. 
+
+
+(D) The State shall bear the cost of the mediation process, 
+including the costs of meetings described in 
+subparagraph (B). 
+
+
+(E) Each session in the mediation process shall be 
+scheduled in a timely manner and shall be held in a 
+location that is convenient to the parties to the 
+dispute. 
+
+
+(F) An agreement reached by the parties to the dispute in 
+the mediation process shall be set forth in a written 
+mediation agreement. 
+
+
+(G) Discussions that occur during the mediation process 
+shall be confidential and may not be used as evidence 
+in any subsequent due process hearings or civil 
+
+
+52a 
+
+
+proceedings and the parties to the mediation process 
+may be required to sign a confidentiality pledge prior 
+to the commencement of such process. 
+
+
+53a 
+APPENDIX F 
+
+
+Oregon Administrative Rules 
+(filed through May 15, 2000) 
+581-015-0166 
+
+
+Public Educational Agency Responsibility for Children 
+Placed by Parents in Private Schools 
+
+
+(1) If a child with a disability, who is age three through the 
+age of eligibility for kindergarten, is offered a free and 
+appropriate public education by the Department of Education 
+and the parent of the child unilaterally enrolls the child in a 
+private school, the child shall not have an_ individual 
+entitlement to receive special education and related services 
+from the Department of Education. Consistent with the 
+procedures set forth in OAR 581-015-0171, the Department 
+of Education shall determine which children with disabilities 
+shall receive services, what services shall be provided and 
+how those services shall be provided, including the location 
+for the delivery of those services. 
+
+
+(2) If a child with a disability, who is at the age of 
+eligibility for kindergarten through age 21, is offered a free 
+appropriate public education by the child’s resident school 
+district and the parent of the child unilaterally enrolls the 
+child in a private school, the child shall not have an individual 
+entitlement to receive special education and related services 
+from the child’s resident school district. Consistent with the 
+procedures set forth in OAR 581-015-0171, resident school 
+districts shall determine which children with disabilities shall 
+receive services, what services shall be provided and how 
+those services shall be provided, including the location for the 
+delivery of those services. 
+
+
+(3) Such special education and related services shall be 
+provided in a religiously-neutral setting. 
+
+
+(4) The Department of Education and school districts shall 
+provide such children with genuine opportunities for 
+
+
+54a 
+
+
+equitable participation in special education consistent with 
+the number of children and their needs. 
+
+
+Stat. Auth.: ORS 343.041, ORS 343.055 & CFR § 76.650 
+Stats. Implemented: ORS 343.155 
+
+
+Hist.: 1EB 28-1978, f. & ef. 7-20-78; 1EB 25-1980, f. & ef. 
+11-7-80; EB 12-1995, f. & cert. ef. 5-25-95 
+
+
+581-015-0171 
+
+
+Determination of Needs Number of Children and 
+Types of Service through Consultation Process 
+
+
+(1) For purposes of this rule, “public educational agencies” 
+means: 
+
+
+(a) The Department of Education for children who age 
+three through the age of eligibility for kindergarten; and 
+
+
+(b) School districts for children who are at the age of 
+eligibility for kindergarten through age 21. 
+
+
+(2) Public educational agencies shall consult with 
+appropriate representatives of children with disabilities 
+enrolled by their parents in private schools during all phases 
+of the development and design of the special education 
+services to be provided to private school children with 
+disabilities, including consideration of: 
+
+
+(a) Which children shall receive services; 
+(b) How the needs of children shall be identified; 
+(c) What services shall be provided; 
+
+
+(d) How services shall be provided, including the location 
+for the delivery of those services; and 
+
+
+(e) How the services shall be evaluated. 
+
+
+(3) The public educational agency shall consult with 
+appropriate representatives of ¢hildren with disabilities 
+
+
+SSa 
+
+
+enrolled by their parents in private schools before the public 
+educational agency makes any decision that affects the 
+opportunities of those children to receive special education 
+services, 
+
+
+(4) The public educational agency shall give the 
+appropriate representatives a genuine opportunity to express 
+their views regarding each matter subject to the consultation 
+requirements in this rule. 
+
+
+Stat. Auth.: ORS 343.041 , ORS 343.045 & ORS 343.055 
+
+
+Stats. Implemented: ORS 343.041 . ORS 343.055 & CFR § 
+76.650 
+
+
+Hist.: 1EB 28-1978, f. & ef. 7-20-78; EB 13-1995, f. & cert. 
+ef. 5-25-95 
+
+

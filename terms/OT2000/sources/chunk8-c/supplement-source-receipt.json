@@ -1,0 +1,19 @@
+[
+  {
+    "file": "Lorillard_Appendix.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1431/micro_IA40386019_1431%2003.%20Appendix_djvu.txt",
+    "bytes": 266578,
+    "sha256": "97a44782199f6f7a4b408c2aa05293b3f006b1b87654921204440a8e79b81d5b"
+  },
+  {
+    "file": "Adair_official.txt",
+    "url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Path=Y2000%2FD08-25%2FC%3A99-1736%3AJ%3A_%3Aaut%3AT%3Aop%3AN%3A0%3AS%3A0&Submit=Display",
+    "bytes": 24984,
+    "sha256": "1da91d783bc51e295fdc45385aada997838055f18c0980d4ac9752a1a7c7b545"
+  },
+  {
+    "file": "USCODE_2000_11_app_rule3001.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title11/pdf/USCODE-2000-title11-app-rule3001.pdf",
+    "error": "Requested section URL returned an error page rather than rule text; invalid download removed. Rule 3001(f) is supported here by the quoted primary appellate opinion."
+  }
+]

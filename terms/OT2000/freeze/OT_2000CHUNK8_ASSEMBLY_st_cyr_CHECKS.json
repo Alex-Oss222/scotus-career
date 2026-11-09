@@ -1,0 +1,54 @@
+{
+  "record": "INS_v_St_Cyr_merits_2001-06-25.md",
+  "sha256": "c675c57794eb66374929d7964f102a21c34a086a8950af79f801d788070fbb45",
+  "public_sha256": "667bc28e2a70b961b20377b01b46b5e90156d2847daeeefb765eeaa4e9730290",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    218,
+    300,
+    126
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 10,
+    "O'Connor": 11,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 12,
+    "Thomas": 9,
+    "Ginsburg": 10,
+    "Breyer": 11
+  },
+  "last_counted_event": {
+    "date": "2001-06-25",
+    "case": "FEC v. Colorado Republican Federal Campaign Committee",
+    "record": "FEC_v_Colorado_Republican_Federal_Campaign_Committee_merits_2001-06-25.md"
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 10,
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Stevens",
+  "source_links_https": 4,
+  "legal_review": "Manual judgment, proposition, join and remedy compatibility review in Record. No tool determines legal meaning.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain."
+}

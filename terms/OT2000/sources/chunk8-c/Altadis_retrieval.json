@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Altadis_Archive_06.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2006.%20Petitioners%20Brief_djvu.txt",
+    "characters": 52127,
+    "sha256": "9ad0f970e2d5a576464a84b6246a27ecf59347c924f780dd3bb5c59ab00d6117"
+  },
+  {
+    "file": "Altadis_Archive_07.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2007.%20Petitioners%20Brief_djvu.txt",
+    "characters": 47034,
+    "sha256": "0835ac14ee0b65736e50398b33b1a6645253a90f21e9cde7339e860d5a056bc7"
+  },
+  {
+    "file": "Altadis_Archive_09.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2009.%20Reply%20Brief_djvu.txt",
+    "characters": 27617,
+    "sha256": "efdad7eb3cdfa13977832e1270f920e2871fa9fc0dabd9297c58eb8197baeccf"
+  },
+  {
+    "file": "Altadis_Archive_10.txt",
+    "url": "https://archive.org/download/micro_IA40386019_1432/micro_IA40386019_1432%2010.%20Reply%20Brief_djvu.txt",
+    "characters": 25911,
+    "sha256": "cac72be1f3034e3dfffd704e669efdd9733e0b3a5e099f8f562310b5078f7ada"
+  }
+]

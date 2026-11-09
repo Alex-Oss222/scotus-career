@@ -1,0 +1,52 @@
+{
+  "record": "United_States_v_United_Foods_Inc_merits_2001-06-25.md",
+  "sha256": "b9461f2023c61d558a66575cd35968a2aece55de4e31bfbbdc828c99cb2a5936",
+  "public_sha256": "e7645d7fc8b9d17e63337e0f3596f3f549ee11faf95fa77b8ac33ff8d70ba2ee",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    306,
+    220,
+    196
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 11,
+    "Kennedy": 11,
+    "Souter": 12,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 11
+  },
+  "last_counted_event": {
+    "date": "2001-06-25",
+    "case": "New York Times Co. v. Tasini",
+    "record": "New_York_Times_Co_v_Tasini_merits_2001-06-25.md"
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas"
+  ],
+  "minimum": 10,
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Thomas"
+  ],
+  "author": "Thomas",
+  "source_links_https": 5,
+  "legal_review": "Manual judgment, proposition, join and remedy compatibility review in Record. No tool determines legal meaning.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain."
+}

@@ -1,0 +1,54 @@
+{
+  "record": "New_York_Times_Co_v_Tasini_merits_2001-06-25.md",
+  "sha256": "ff1061746a4438fbb405011d558751ea6840ba4217bbc02b8846f4639aee2eca",
+  "public_sha256": "f2ed485913096bfa9ee4c60ae065cc1c6feddf2be8757e6041b0dc438d5d0aca",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    243,
+    258,
+    206
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 11,
+    "Kennedy": 10,
+    "Souter": 12,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 11
+  },
+  "last_counted_event": {
+    "date": "2001-06-25",
+    "case": "Nevada v. Hicks",
+    "record": "Nevada_v_Hicks_merits_2001-06-25.md"
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "minimum": 10,
+  "pool": [
+    "Stone-Zsela",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "author": "Kennedy",
+  "source_links_https": 3,
+  "legal_review": "Manual judgment, proposition, join and remedy compatibility review in Record. No tool determines legal meaning.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain."
+}

@@ -1,0 +1,1509 @@
+No.  00-5961
+In the Supreme Court of the United States
+MELVIN TYLER, PETITIONER
+v.
+BURL CAIN, WARDEN
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING RESPONDENT
+BARBARA D. UNDERWOOD
+Acting Solicitor General
+Counsel of Record
+JOHN C. KEENEY
+Acting Assistant Attorney
+General
+MICHAEL R. DREEBEN
+Deputy Solicitor General
+JAMES A. FELDMAN
+Assistant to the Solicitor
+General
+NINA GOODMAN
+Attorney
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+(I)
+QUESTIONS PRESENTED
+1. Whether a second or successive petition for a writ
+of habeas corpus asserting a claim under Cage v.
+Louisiana, 498 U.S. 39 (1990) (per curiam), “relies on a
+new rule of constitutional law, made retroactive to
+cases on collateral review by the Supreme Court,”
+within the meaning of 28 U.S.C. 2244(b)(2)(A) (Supp. IV
+1998).
+2. Whether Cage v. Louisiana announced a new rule
+of constitutional law that should be made retroactive to
+cases on collateral review.
+
+(III)
+TABLE  OF  CONTENTS
+Page
+Interest of the United States ......................................................
+1
+Statement ........................................................................................
+2
+Summary of argument ..................................................................
+5
+Argument:
+I. Section 2244(b)(2)(A) permits a prisoner to file a
+second or successive habeas corpus petition that
+relies on a new rule of constitutional law only
+if this court has expressly made the new rule
+retroactive to cases on collateral review .......................
+8
+A.
+The text of Section 2244(b)(2)(A) permits a
+second or successive petition only when this
+Court—not a court of appeals or a district
+court—has made a new rule retroactive to
+cases on collateral review ..........................................
+8
+B.
+A requirement that this Court pass on the
+retroactivity issue accords with Congress’s
+intent and provides a workable standard ...............
+16
+II. The new constitutional rule announced in
+Cage v. Louisiana should not be applied retro-
+actively to cases on collateral review .............................
+23
+Conclusion .......................................................................................
+30
+Appendix A .....................................................................................
+1a
+Appendix B .....................................................................................
+5a
+TABLE  OF  AUTHORITIES
+Cases:
+Adams  v.  Evatt,  511 U.S. 1001 (1994) ................................
+22
+Arizona  v.  Fulminante,  499 U.S. 279 (1991) ....................
+26
+Arsenault  v.  Massachusetts,  393 U.S. 5 (1968) ................
+13
+Bailey  v.  United States,  516 U.S. 137 (1995) ................
+14, 19
+Bennett  v.  United States,  119 F.3d 470 (7th Cir.
+1997) .........................................................................................
+10
+
+IV
+Cases—Continued:
+Page
+Bousley  v.  United States,  523 U.S. 614 (1998) ..................
+19
+Brecht  v.  Abrahamson,  507 U.S. 619 (1993) .....................
+26
+Brown  v.  Lensing,  171 F.3d 1031 (5th Cir. 1999) .............
+4
+Browning  v.  United States,  No. 00-7096, 2001
+WL 202041 (10th Cir. Mar. 1, 2001) ...................................
+9
+Butler  v.  McKellar,  494 U.S. 407 (1990) ............................
+8, 9,
+21, 24, 25, 30
+Cage  v.  Louisiana,  498 U.S. 39 (1990) ....................
+1, 3, 6, 28
+Cooper  v.  Aaron,  358 U.S. 1 (1958) .....................................
+14
+Davenport, In re,  147 F.3d 605 (7th Cir. 1998) ...................
+20
+Dorsainvil, In re,  119 F.3d 245 (3d Cir. 1997) ....................
+20
+Felker  v.  Turpin,  518 U.S. 651 (1996) ...................
+2, 5, 16, 22
+Flowers  v.  Walter,  No. 99-35552, 2000 WL 33157575
+(9th Cir. Feb. 9, 2001) ...........................................................
+10
+Gideon  v.  Wainwright,  372 U.S. 335 (1963) .......................
+27
+Graham  v.  Collins,  506 U.S. 461 (1993) ..........
+9, 18, 19, 24, 30
+Gray  v.  Maryland,  523 U.S. 185 (1998) .............................
+29
+Henry  v.  City of Rock Hill,  376 U.S. 776 (1964) ..............
+23
+Humphrey  v.  Cain,  138 F.3d 552 (5th Cir.),
+cert. denied, 525 U.S. 935 (1998) .........................................
+4
+Joshua, In re,  224 F.3d 1281 (11th Cir. 2000) .....................
+9
+Kuhlmann  v.  Wilson,  477 U.S. 436 (1986) ........................
+23
+Lilly  v.  Virginia,  527 U.S. 116 (1999) .................................
+29
+Mackey  v.  United States,  401 U.S. 667 (1971) ..................
+17
+McCleskey  v.  Zant,  499 U.S. 467 (1991) ............................
+18
+Mitchell  v.  United States,  526 U.S. 314 (1999) .................
+29
+Neder  v.  United States,  527 U.S. 1 (1999) .........................
+26
+O’Dell  v.  Netherland,  521 U.S. 151 (1997) .........................
+24
+Penry  v.  Lynaugh,  492 U.S. 302 (1989) ...........................
+9, 25
+Rodriguez  v.  Superintendent, Bay State Corr. Ctr.,
+139 F.3d 270 (1st Cir. 1998) ..............................................
+10, 23
+Saffle  v.  Parks,  494 U.S. 484 (1990) .....................
+9, 19, 24, 25
+Sawyer  v.  Smith,  497 U.S. 227 (1990) ...........................
+18, 21,
+24, 25, 27, 29, 30
+Smith, In re,  142 F.3d 832 (5th Cir. 1998) ...........................
+4
+Smith  v.  Robbins,  528 U.S. 259 (2000) ...............................
+29
+
+V
+Cases—Continued:
+Page
+Solid Waste Agency  v.  United States Army Corps
+of Eng’rs,  121 S. Ct. 675 (2001) ...........................................
+14
+Stovall  v.  Denno,  388 U.S. 293 (1967) ................................
+13
+Sullivan  v.  Louisiana,  508 U.S. 275 (1993) .....................
+7, 22,
+23, 25, 26, 28
+Tatum, In re,  233 F.3d 857 (5th Cir. 2000) ..........................
+9
+Teague  v.  Lane,  489 U.S. 288 (1989) .............................
+passim
+Triestman  v.  United States,  124 F.3d 361 (2d Cir.
+1997) .........................................................................................
+20
+Vial, In re,  115 F.3d 1192 (4th Cir. 1997) ............................
+10
+Victor  v.  Nebraska,  511 U.S. 1 (1994) ......................
+4, 28, 29
+West  v.  Vaughn,  204 F.3d 53 (3d Cir. 2000) ......................
+10
+Williams  v.  Taylor,  529 U.S. 362 (2000) ..................
+5, 10, 11
+Winship, In re,  397 U.S. 358 (1970) ....................................
+8, 27
+Constitution, statutes and rule:
+U.S. Const. Amend. V (Due Process Clause) ......................
+24
+Antiterrorism and Effective Death Penalty Act of
+1996, Pub. L. No. 104-132, Tit. I, 110 Stat. 1217 ..............
+2
+18 U.S.C. 924(c) .........................................................................
+19
+28 U.S.C. 2241 ............................................................................
+20
+28 U.S.C. 2244 (Supp. IV 1998) ......................................
+1, 11, 1a
+28 U.S.C. 2244(b)(2) (Supp. IV 1998) ............
+2, 3, 14, 18, 20, 1a
+28 U.S.C. 2244(b)(2)(A) (Supp. IV 1998) ..................
+passim, 1a
+28 U.S.C. 2244(b)(2)(B) (Supp. IV 1998) .........................
+2, 3, 1a
+28 U.S.C. 2244(b)(3) (Supp. IV 1998) .....................................
+18, 2a
+28 U.S.C. 2244(b)(3)(A) (Supp. IV 1998) .........................
+2, 3, 2a
+28 U.S.C. 2244(b)(3)(C) (Supp. IV 1998) .......................
+2, 18, 2a
+28 U.S.C. 2244(b)(3)(D) (Supp. IV 1998) ...............................
+18, 2a
+28 U.S.C. 2244(d)(1) (Supp. IV 1998) .....................................
+15, 3a
+28 U.S.C. 2244(d)(1)(C) (Supp. IV 1998) ...............................
+15, 4a
+28 U.S.C. 2254 (Supp. IV 1998) .............................
+1, 2, 3, 11, 20
+28 U.S.C. 2254(d)(1) (Supp. IV 1998) ...........
+4, 5, 10, 11, 12, 13
+28 U.S.C. 2255 (Supp. IV 1998) ......................................
+1, 20, 21
+Sup. Ct. R. 10(c) ........................................................................
+21
+
+VI
+Miscellaneous:
+Page
+H.R. Conf. Rep. No. 518, 104th Cong., 2d Sess.
+(1996) ....................................................................................
+10, 16
+Robert L. Stern et al., Supreme Court Practice (7th
+ed. 1993) ...................................................................................
+23
+Webster’s Third New International Dictionary
+(1986) ....................................................................................
+12, 13
+
+(1)
+In the Supreme Court of the United States
+No.  00-5961
+MELVIN TYLER, PETITIONER
+v.
+BURL CAIN, WARDEN
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE SUPPORTING RESPONDENT
+INTEREST OF THE UNITED STATES
+This case presents the question whether a state
+prisoner’s second or successive petition for a writ of
+habeas corpus asserting a claim under Cage v. Louisi-
+ana, 498 U.S. 39 (1990) (per curiam), satisfies the
+requirement of 28 U.S.C. 2244(b)(2)(A) that such peti-
+tions rely “on a new rule of constitutional law, made
+retroactive to cases on collateral review by the Su-
+preme Court.”1  An identical statutory provision
+restricts second or successive motions for post-
+conviction relief by federal prisoners.  See 28 U.S.C.
+2255 para. 8(2).  Because the Court’s ruling will apply to
+collateral attacks on federal criminal judgments, the
+                                                 
+1 All citations to 28 U.S.C. 2244, 2254, and 2255 in this brief
+refer to Supp. IV 1998.
+
+2
+United States has a substantial interest in the outcome
+of this case.
+STATEMENT
+1. The Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA), Pub. L. No. 104-132, Tit. I, 110
+Stat. 1217, which was signed into law on April 24, 1996,
+works substantial changes to Chapter 153 of Title 28 of
+the United States Code, pertaining to collateral review
+of criminal convictions.  See Felker v. Turpin, 518 U.S.
+651, 654 (1996).  It places specific restrictions on second
+or successive habeas applications.  In particular, the
+Act provides that
+[a] claim presented in a second or successive habeas
+corpus application under section 2254 that was not
+presented in a prior application shall be dismissed
+unless  *  *  *  the applicant shows that the claim
+relies on a new rule of constitutional law, made
+retroactive to cases on collateral review by the
+Supreme Court, that was previously unavailable.
+28 U.S.C. 2244(b)(2)(A).  The Act also provides an alter-
+native test that permits a second or successive applica-
+tion for habeas corpus based on newly discovered
+evidence.  28 U.S.C. 2244(b)(2)(B).
+The AEDPA also contains a “gatekeeping” provision.
+That provision requires that, before a prisoner may file
+a second or successive application for a writ of habeas
+corpus in a district court under 28 U.S.C. 2254, the
+prisoner must “move in the appropriate court of appeals
+for an order authorizing the district court to consider
+the application.”  28 U.S.C. 2244(b)(3)(A).  To obtain
+such authorization, the prisoner must make a “prima
+facie showing” that his application “satisfies the
+
+3
+requirements,” 28 U.S.C. 2244(b)(3)(C), of Section
+2244(b)(2).
+2. In 1976, petitioner was convicted in Louisiana
+state court of second degree murder and sentenced to
+life imprisonment.  His conviction was affirmed by the
+Louisiana Supreme Court.  J.A. 4; see State v. Tyler,
+363 So.2d 902 (1978).  Petitioner then filed five applica-
+tions for post-conviction relief in state court, all of
+which were denied.  J.A. 4.  Petitioner also filed a fed-
+eral habeas corpus petition under 28 U.S.C. 2254.  The
+district court denied petitioner federal habeas corpus
+relief, and the court of appeals affirmed.  See Pet. 4.
+In 1995, petitioner filed his sixth application in state
+court for post-conviction relief, claiming that the jury
+instruction on reasonable doubt that was given at his
+trial violated Cage v. Louisiana, 498 U.S. 39 (1990) (per
+curiam).2  The state court denied his application, and
+the Louisiana Supreme Court denied a similar appli-
+cation.  J.A. 4-5; see State ex rel. Tyler v. Cain, 684
+So.2d 950 (1996).
+3. Petitioner then filed a motion in the court of
+appeals for authorization to file a second or successive
+habeas corpus petition in the district court.  J.A. 3; see
+28 U.S.C. 2244(b)(3)(A).  The court of appeals granted
+the motion, finding that petitioner had “made a prima
+facie showing that he meets the requirements of
+§ 2244(b)(2).”  J.A. 3.  The court limited petitioner’s suc-
+cessive habeas petition, however, to whether Cage
+                                                 
+2 The text of the reasonable doubt instruction given at
+petitioner’s trial is reproduced in Appendix B to this brief.  In
+Cage v. Louisiana, this Court held that a similar instruction was
+unconstitutional because it permitted “a finding of guilt based on a
+degree of proof below that required by the Due Process Clause.”
+498 U.S. at 41 (footnote omitted).
+
+4
+should be applied retroactively on collateral review and
+whether the reasonable doubt instruction at peti-
+tioner’s trial was unconstitutional under Cage and
+Victor v. Nebraska, 511 U.S. 1 (1994).  J.A. 3.
+4. The district court analyzed the case on the as-
+sumption that the court of appeals had already deter-
+mined that petitioner satisfied Section 2244(b)(2)(A).
+J.A. 4.  The district court held that Cage should be
+applied retroactively to petitioner’s application for
+collateral relief, noting that the court of appeals had
+held that Cage applies retroactively to cases on collat-
+eral review. J.A. 5-7 (citing Humphrey v. Cain, 138
+F.3d 552 (5th Cir.) (en banc), cert. denied, 525 U.S. 935,
+943 (1998)).  The court denied petitioner’s habeas
+corpus petition, however, concluding that petitioner
+could not satisfy the “stringent AEDPA standard,” J.A.
+12, of 28 U.S.C. 2254(d)(1), which precludes collateral
+relief on “any claim that was adjudicated on the merits
+in [s]tate court proceedings” unless the state court’s
+denial of relief “resulted in a decision that was contrary
+to, or involved an unreasonable application of, clearly
+established Federal law, as determined by the Supreme
+Court of the United States.”
+5. The court of appeals affirmed the denial of peti-
+tioner’s habeas corpus petition.  J.A. 14-15.  The court
+stated, however, that the district court “erred in not
+determining first whether [the] petition satisfied
+AEDPA’s successive habeas standard, 28 U.S.C.
+§ 2244(b)(2)(A).” J.A. 15. Citing its decisions in Brown
+v. Lensing, 171 F.3d 1031 (5th Cir. 1999), and In re
+Smith, 142 F.3d 832 (5th Cir. 1998), the court held that
+petitioner’s successive petition was barred by Section
+2244(b)(2)(A) because he could not show “that any Su-
+preme Court decision renders the Cage decision retro-
+
+5
+actively applicable to cases on collateral review.”  J.A.
+15.
+SUMMARY OF ARGUMENT
+I. The AEDPA imposes stringent new limitations on
+the ability of a prisoner to file a second or successive
+petition for a writ of habeas corpus.  A prisoner must,
+before filing his petition, meet a “gatekeeping” require-
+ment by having the court of appeals certify that his
+petition meets one of two narrow conditions.  See
+Felker v. Turpin, 518 U.S. 651, 657 (1996).  One of those
+conditions is that the petition must rely on a “new rule
+of constitutional law, made retroactive to cases on
+collateral review by the Supreme Court, that was
+previously unavailable.”  28 U.S.C. 2244(b)(2)(A).  The
+text of that provision requires that the determination
+that the new rule is retroactive be made by this Court
+—not by a lower court applying the principles of
+retroactivity announced in this Court’s opinions.
+The conclusion that Section 2244(b)(2)(A) requires a
+decision of this Court on the retroactivity of a particu-
+lar new rule is reinforced by this Court’s interpretation
+of an analogous provision of the AEDPA in Williams v.
+Taylor, 529 U.S. 362 (2000).  In that case, the Court
+made clear that the phrase “clearly established Federal
+law, as determined by the Supreme Court of the United
+States,” 28 U.S.C. 2254(d)(1), “refers to the holdings, as
+opposed to the dicta, of this Court’s decisions,” and
+“restricts the source of clearly established law to this
+Court’s jurisprudence.”  529 U.S. at 412.  There is no
+reason to give Section 2244(b)(2)(A) a different inter-
+pretation; in both provisions, Congress intended this
+Court’s specific decisions, rather than decisions of the
+lower courts, to provide the governing rule on the
+particular point of law at issue.
+
+6
+If Congress had intended to invoke only the “princi-
+ples” of this Court’s retroactivity decisions, as peti-
+tioner contends (Br. 9, 21-22), it could have easily used
+the “application of  *  *  *  law” language contained in
+the provision of the AEDPA at issue in Williams, and
+simply required the lower courts to assess whether a
+new rule was retroactive to cases on collateral review
+“by application of the principles determined by the
+Supreme Court.”  The italicized phrase, however, was
+not included in the statute. Indeed, on petitioner’s
+interpretation, the statute’s reference to “the Supreme
+Court” is superfluous; even without such a reference,
+the lower courts would be bound to apply this Court’s
+settled and well-established framework for the analysis
+of retroactivity questions.
+Interpreting the gatekeeping provision to require
+that this Court has made a decision retroactive before
+second or successive habeas petitions may be filed is
+consistent with the purpose of the AEDPA to restrict
+habeas litigation.  The requirement ensures that, unless
+and until this Court has determined that the new rule is
+available, lower courts need not adjudicate “new rule”
+claims in second petitions.  It is also consistent with the
+procedural scheme of the gatekeeping system, which
+contemplates summary decisions on a short timetable.
+There is, moreover, nothing anomalous about Con-
+gress’s requirement that this Court itself determine
+retroactivity; only a small set of new rules will qualify
+for retroactive application, and it is sensible to require
+this Court to make the decision before entitling
+repetitive habeas filers to seek relief.
+In this case, petitioner relies, for his new rule, on the
+holding of Cage v. Louisiana, 498 U.S. 39 (1990) (per
+curiam), that a particular reasonable-doubt instruction
+was unconstitutional. Cage arose on direct review, and
+
+7
+this Court has not made Cage retroactive to cases on
+collateral review.  Accordingly, petitioner was not
+entitled to relief in the courts below.
+II.
+Cage should not be made retroactive to cases on
+collateral review.  In a line of cases beginning with
+Teague v. Lane, 489 U.S. 288 (1989), this Court has
+established that new rules of constitutional criminal
+procedure are not retroactively applicable to cases on
+collateral review unless they satisfy one of two narrow
+exceptions.  First, a new rule is retroactively applicable
+if it places primary conduct beyond the reach of the
+State to prosecute, or establishes a categorical guaran-
+tee prohibiting a particular punishment for a class of
+persons.  Cage clearly does not satisfy that test; it
+simply held that a particular reasonable-doubt instruc-
+tion did not meet constitutional requirements.
+The second Teague exception is limited to “water-
+shed rules of criminal procedure” that are “central to an
+accurate determination of innocence or guilt.”  Teague
+v. Lane, 489 U.S. at 311, 313 (plurality opinion).  For a
+rule to fall within Teague’s second exception, it must
+satisfy two requirements: infringement of the new rule
+must “seriously diminish the likelihood of obtaining an
+accurate conviction,” id. at 315, and the new rule must
+“alter our understanding of the bedrock procedural
+elements” essential to the fairness of a proceeding, id.
+at 311.  Cage is not such a rule.
+This Court’s holding in Sullivan v. Louisiana, 508
+U.S. 275 (1993), that a Cage error is “structural”—i.e.,
+that it requires reversal without a harmless-error
+inquiry—does not establish that Cage is a “watershed”
+decision.  The holding in Sullivan indicates that the
+Cage rule serves the goal of obtaining an accurate
+conviction.  But it does not speak to whether the rule
+
+8
+has changed our conception of the fundamental ele-
+ments of a fair proceeding. And Cage did not do so.
+The reasonable doubt standard has been established
+at least since In re Winship, 397 U.S. 358 (1970).  Cage
+was simply an application of that principle. It did not
+alter our understanding of a fair trial; it simply refined
+an existing requirement.  If refinements of basic com-
+ponents of a fair trial, such as Cage, are considered
+“watershed” new rules, then many of this Court’s con-
+stitutional decisions will have to be made retroactive.
+Such a conclusion would be inconsistent with the
+Court’s recognition in Teague and later cases that it is
+“unlikely that many such components of basic due
+process have yet to emerge.”  Butler v. McKellar, 494
+U.S. 407, 416 (1990) (quoting Teague v. Lane, 489 U.S.
+at 312 (plurality opinion)).
+ARGUMENT
+I.
+SECTION 2244(b)(2)(A) PERMITS A PRISONER
+TO FILE A SECOND OR SUCCESSIVE HABEAS
+CORPUS PETITION THAT RELIES ON A NEW
+RULE OF CONSTITUTIONAL LAW ONLY IF THIS
+COURT HAS EXPRESSLY MADE THE NEW RULE
+RETROACTIVE TO CASES ON COLLATERAL
+REVIEW.
+A.
+The Text Of Section 2244(b)(2)(A) Permits A
+Second Or Successive Petition Only When This
+Court—Not A Court Of Appeals Or A District Court
+—Has Made A New Rule Retroactive To Cases On
+Collateral Review
+1. Section 2244(b)(2)(A) permits a prisoner to file a
+second or successive petition for a writ of habeas corpus
+only if the petition relies on a “new rule of consti-
+tutional law, made retroactive to cases on collateral
+review by the Supreme Court, that was previously
+
+9
+unavailable.”  A “new rule” is “made retroactive  *  *  *
+by the Supreme Court” only when this Court explicitly
+states that the new rule is retroactive or applies the
+new rule to a case on collateral review.  The text of
+Section 2244(b)(2)(A) requires that result.  The
+language is not satisfied, as petitioner contends (Br. 9),
+by a determination by the lower courts making the “new
+rule” retroactive in light of “the principles of this
+Court’s decisions” (Br. 21-22) in the field of retro-
+activity.
+This Court has adopted general principles for deter-
+mining the retroactivity of new rules of criminal proce-
+dure to cases on collateral review.  See Teague v. Lane,
+489 U.S. 299 (1989); see also Graham v. Collins, 506
+U.S. 461 (1993); Saffle v. Parks, 494 U.S. 484 (1990);
+Butler v. McKellar, 494 U.S. 407 (1990); Penry v.
+Lynaugh, 492 U.S. 302, 313-314 (1989).  But the
+AEDPA does not refer to such “principles.”  Rather,
+Congress specifically designated this Court as decision-
+maker on the issue of retroactivity.  Thus, as the
+Eleventh Circuit has explained, “[i]t is not enough that
+the new rule is or will be applied retroactively” by the
+courts of appeals, or “that it satisfies the criteria for
+retroactive application set forth by the Supreme
+Court”; the statute clearly states that “the Supreme
+Court” must have made the rule retroactive.  In re
+Joshua, 224 F.3d 1281, 1283 (2000); accord Browning v.
+United States, No. 00-7096 (10th Cir. Mar. 1, 2001), slip
+op. 4 (“[A] rule is ‘made retroactive’ by the Court only if
+the Court actually applies the rule retroactively, or
+makes some explicit statement regarding retro-
+activity.”); In re Tatum, 233 F.3d 857, 859 (5th Cir.
+2000) (petitioner “must point to a Supreme Court deci-
+sion that either expressly declares the collateral avail-
+ability of the rule  .  .  .  or applies the rule in a collateral
+
+10
+proceeding”); Rodriguez v. Superintendent, Bay State
+Corr. Ctr., 139 F.3d 270, 274-275 (1st Cir. 1998)
+(AEDPA “invests the [Supreme] Court with the sole
+authority” to declare new rules retroactive on collateral
+review for successive petitions); Bennett v. United
+States, 119 F.3d 470, 471 (7th Cir. 1997) (“only when a
+decision has been specifically declared retroactive by
+the Supreme Court may it be used as the basis for
+a successive motion for habeas corpus”); In re Vial,
+115 F.3d 1192, 1197 (4th Cir. 1997) (en banc) (Section
+2244(b)(2)(A) requires that “the Supreme Court
+declare[] the collateral availability of the rule in ques-
+tion, either by explicitly so stating or by applying the
+rule in a collateral proceeding”); see also H.R. Conf.
+Rep. No. 518, 104th Cong., 2d Sess. 111 (1996) (AEDPA
+provision limits successive applications for postconvic-
+tion relief to those applications “that involve new co-
+stitutional rights that have been retroactively applied
+by the Supreme Court”).3
+2. This Court’s decision in Williams v. Taylor, 529
+U.S. 362 (2000), which construed an analogous provision
+of the AEDPA, strongly supports the conclusion that
+Section 2244(b)(2)(A) requires an explicit ruling by this
+Court making a new rule retroactive.  In Williams, the
+Court considered 28 U.S.C. 2254(d)(1), which permits a
+federal habeas court to grant relief on a claim adjudi-
+cated by a state court only if the state court adjudica-
+tion “resulted in a decision that was contrary to, or in-
+                                                 
+3 Two courts of appeals have reached the contrary conclusion,
+and permit retroactivity decisions to be made under Section
+2244(b)(2)(A) by the lower courts.  For the reasons discussed
+below, those decisions are incorrect.  See West v. Vaughn, 204 F.3d
+53, 59-62 (3d Cir. 2000); Flowers v. Walter, 2000 WL 33157575, at
+*5 (9th Cir. Feb. 9, 2001).
+
+11
+volved an unreasonable application of, clearly
+established Federal law, as determined by the Supreme
+Court of the United States.”  This Court held that the
+phrase “clearly established Federal law, as determined
+by the Supreme Court of the United States” in Section
+2254(d)(1) “refers to the holdings, as opposed to the
+dicta, of this Court’s decisions,” and “restricts the
+source of clearly established law to this Court’s juris-
+prudence.”  529 U.S. at 412; accord id. at 382 (Stevens,
+J., concurring).  There is no indication that Congress
+intended its requirement of action “by the Supreme
+Court” in Sections 2244 and 2254 to have different
+meanings.  Rather, the phrase “made retroactive  *  *  *
+by the Supreme Court,” like the phrase “determined by
+the Supreme Court,” requires a specific ruling by this
+Court itself; a lower court’s prediction about what this
+Court might do, or its application of principles found in
+this Court’s decisions generally, is not sufficient.
+Petitioner argues (Br. 16-17) that the provision at
+issue in Williams deserves a different construction
+because it uses the phrase “clearly established Federal
+law, as determined by the Supreme Court,” while
+Section 2244(b)(2)(A) uses the phrase “made retroactive
+*  *  *  by the Supreme Court.”  But it is natural for
+Congress to speak of this Court “determin[ing]” federal
+law, just as it is natural to speak of this Court “ma[king]
+retroactive” a particular new rule.  Nothing in the two
+phrases points to an intention, in one provision, to
+require specific action by this Court while, in another
+provision, to invoke only “general principles” in this
+Court’s decisions.  The point of both provisions is that
+Congress was careful to specify that this Court had to
+take the necessary action—either determining the
+
+12
+content of the legal rule in Section 2254(d)(1) or making
+the new rule retroactive in Section 2244(b)(2)(A).4
+Petitioner also suggests that the definition of the
+word “made” in Section 2244(b)(2)(A) is broad enough
+to embrace the meaning of “to have ‘caused to occur,’ ”
+and that the verb “make” can be defined as “to cause to
+exist.”  Br. 15-16 (citing dictionary definitions).  On that
+basis, he posits that Congress’s use of the word “made”
+could include the act of “‘making’ something happen
+indirectly” (Br. 16), such as by announcing general
+principles that compel particular results (Br. 21-22).
+The dictionary definitions that petitioner cites do not
+support his argument that the word “made” can refer to
+entirely indirect action, such that this Court could be
+said to have “made” an event occur by announcing a
+broad legal standard that is then applied to a specific
+context by a lower court.5  In the context of the
+                                                 
+4 Petitioner cites (Br. 16-17) a variety of other provisions in the
+AEDPA that, he says, clearly specify that “something be done
+directly by a specific court”; he argues that in those provisions “the
+statutory language makes unmistakably plain that a particular
+court must do something actively, directly, and expressly.” Section
+2244(b)(2)(A), however, provides an equally unmistakable require-
+ment that a new decision is not available to second or successive
+habeas petitioners until it has been “made retroactive  *  *  *  by
+the Supreme Court.”
+5 For example, petitioner relies (Br. 15) on definitions of
+“make” that the Third Circuit drew from Webster’s Third New
+International Dictionary (1986).  The meanings given in that
+dictionary do not, however, apply to entirely indirect and general
+causation.  For example, the dictionary does define “make” as “to
+cause to exist, occur, or appear: bring to pass: create, cause,” but
+then gives as examples “God made heaven and earth,” “make a
+disturbance,” “his entrance made a sensation,” “making a fuss over
+nothing,” and “making mischief.”  Id. at 1363.  The same dictionary
+also defines “make” as “to cause to be or become: put in a certain
+
+13
+AEDPA, the phrase “made retroactive  *  *  *  by the
+Supreme Court” clearly refers to a concrete and specific
+act of this Court that establishes that a particular “new
+rule” is applicable on collateral review. Indeed, this
+Court has itself used the phrase “made retroactive” to
+describe its own rulings concerning the retroactive
+application of particular constitutional rules.6
+3. If Congress had wished to express the meaning
+that petitioner ascribes to Section 2244(b)(2)(A), it had
+a variety of simpler and more direct ways to do so.  The
+provision at issue in Williams, Section 2254(d)(1), itself
+suggests one model for how Congress could have
+written the statute to embody petitioner’s view that
+the retroactivity finding need merely result from an
+application of “the principles of ” this Court’s decisions.
+Pet. Br. 21-22.  Congress could have framed Section
+2244(b)(2)(A), as it did Section 2254(d)(1), by speaking
+of the “application of” this Court’s decisions.  Such a
+                                                 
+state or condition.”  Ibid.  The examples given for that meaning
+are:  “trying to make the matter clear to everyone,” “was made
+leader of the expedition,” “made him sorry he had spoken so
+quickly,” “made the scene real for us,” and “made himself useful
+around the house.”  The examples illustrate that the word “make”
+does not encompass indirect and general action, such as announc-
+ing general principles of retroactivity that are then applied by the
+lower courts.  The other dictionary cited by petitioner contains
+similar examples. Nothing in either dictionary supports peti-
+tioner’s theory.
+6 See Arsenault v. Massachusetts, 393 U.S. 5, 6 (1968) (“The
+right to counsel at the trial (Gideon v. Wainwright, 372 U.S. 335);
+on appeal (Douglas v. California, 372 U.S. 353); and at the other
+‘critical’ stages of the criminal proceedings (Hamilton v. Alabama,
+supra) have all been made retroactive.”) (emphasis added); Stovall
+v. Denno, 388 U.S. 293, 300 (1967) (“We conclude  *  *  *  that the
+Wade and Gilbert rules should not be made retroactive.”) (empha-
+sis added).
+
+14
+provision could have conditioned a second or successive
+habeas petition on a showing that the new rule cited in
+the petition has been “made retroactive to cases on
+collateral review by application of the principles deter-
+mined by the Supreme Court.”  Instead, however,
+Congress chose the quite different formulation that
+omits the italicized portion and simply requires that the
+rule have been “made retroactive to cases on collateral
+review by the Supreme Court.”
+Indeed, on petitioner’s view, the phrase “by the
+Supreme Court” in Section 2244(b)(2) is entirely super-
+fluous.  If the statute had said only that a second or
+successive habeas petitioner must invoke a “new rule of
+constitutional law, made retroactive to cases on
+collateral review,” the lower courts would have had to
+apply the well-established “principles” found in this
+Court’s retroactivity jurisprudence.  Those retro-
+activity decisions—like decisions of this Court on any
+other federal question—bind all federal and state
+courts, regardless of whether Congress so provides.
+See Cooper v. Aaron, 358 U.S. 1, 18-19 (1958).  And this
+Court’s Teague rules were announced and defined long
+before the enactment of the AEDPA.  Accordingly,
+petitioner’s reading of the statute would render the
+phrase “by the Supreme Court” without function, con-
+trary to this Court’s repeated admonition to avoid an
+interpretation of a statute that renders words superflu-
+ous.  See, e.g., Bailey v. United States, 516 U.S. 137, 150
+(1996); Solid Waste Agency v. United States Army
+Corps of Eng’rs, 121 S. Ct. 675, 682-683 (2001) (de-
+clining to adopt a construction that would “read[] [a]
+term  *  *  *  out of the statute” and “give it no effect
+whatever”).
+Under our reading of Section 2244(b)(2)(A), by con-
+trast, all of the terms of the statute are given effect,
+
+15
+and the statute can be read harmoniously as a whole.
+Section 2244(b)(2)(A) provides that a second or succes-
+sive petition must rely on a new rule “made retroactive
+to cases on collateral review by the Supreme Court.”
+The provision requires a decision by this Court holding
+that a “new rule” satisfies the stringent standards of
+Teague for retroactive application; only then can a
+second or successive habeas petitioner satisfy the gate-
+keeping requirement.7
+                                                 
+7 The AEDPA also provides a 1-year limitations period. 28
+U.S.C. 2244(d)(1) provides that “[t]he limitation period shall run
+from the latest of ” four dates, of which one is “the date on which
+the constitutional right asserted was initially recognized by the
+Supreme Court, if the right has been newly recognized by the
+Supreme Court and made retroactively applicable to cases on
+collateral review.”  28 U.S.C. 2244(d)(1)(C).  In order to apply that
+provision, it must be determined whether “the right has been
+*  *  *  made retroactively applicable to cases on collateral review.”
+28 U.S.C. 2244(d)(1)(C).  If that phrase refers to action by this
+Court making the rule retroactive, as our construction of the
+similar language in the gatekeeping provision suggests, then the
+inquiry is manageable and a uniform nationwide standard will
+result.  If, on the other hand, the question is just whether the
+principles of Teague make the new rule retroactive, as petitioner’s
+argument in this case suggests, then no decision by any court
+would be necessary, and the retroactivity clause would be entirely
+redundant.  Even if the action of a court of appeals or district court
+applying Teague were necessary, it is highly unlikely that Con-
+gress intended to hinge the application of the statute of limitations
+on whether some court of appeals or district court somewhere in
+the country had found that the new rule satisfied Teague.  The
+limitations provision should not be given such an indefinite
+interpretation, nor should the gatekeeping provision.  The similar
+language in both provisions should be read to require specific
+action by this Court to make the new rule retroactive.
+
+16
+B.
+A Requirement That This Court Pass On The
+Retroactivity Issue Accords With Congress’s Intent
+And Provides A Workable Standard
+A test that looks to an actual Supreme Court decision
+on retroactivity is easily applied and accords with
+Congress’s intention to limit the cases in which a second
+or successive habeas petitioner may proceed to court.
+In contrast, petitioner’s position—that second or suc-
+cessive habeas petitioners may proceed “when the prin-
+ciples of this Court’s decisions compel the conclusion
+that [the new rule] must be retroactive” (Br. 15)—is
+inconsistent with Congress’s intent in enacting the
+AEDPA and would be difficult to apply in a workable
+manner.
+1. A central purpose of the AEDPA is to “curb the
+abuse of the statutory writ of habeas corpus.”  H.R.
+Conf. Rep. No. 518, supra, at 111.  Requiring a second
+or successive habeas petitioner, who relies on a new
+rule of constitutional law, to point to a specific ruling by
+this Court making the rule in question retroactive is
+consistent with that purpose.  Any prisoner filing a
+second or successive petition has already had the oppor-
+tunity for direct review of his conviction and state post-
+conviction review.  In addition, he has filed and fully
+litigated an initial federal habeas petition.  Congress
+did not want to cut off all opportunity for prisoners in
+that position to bring a second or successive habeas
+petition. But Congress did want to “further restrict[],”
+Felker v. Turpin, 518 U.S. at 664, the ability of prison-
+ers who had previously filed habeas petitions to mount
+new challenges to their convictions and sentences, at a
+time when both their own attention and that of the
+courts and prosecutors should be turned to other
+matters.  “No one, not criminal defendants, not the
+
+17
+judicial system, not society as a whole is benefitted by a
+judgment providing a man shall tentatively go to jail
+today, but tomorrow and every day thereafter his con-
+tinued incarceration shall be subject to fresh litigation.”
+Mackey v. United States, 401 U.S. 667, 691 (1971)
+(Harlan, J., concurring in the judgments in part and dis-
+senting in part).
+Section 2244(b)(2)(A) accomplishes Congress’s pur-
+pose by giving prisoners a “second bite at the apple”
+only in truly exceptional cases.  Not only must the
+prisoner rely on “a new rule of constitutional law”—
+which can explain why the prisoner did not previously
+obtain relief on that basis—but the rule must have been
+“made retroactive to cases on collateral review by the
+Supreme Court.”  Congress thereby eliminated the
+opportunity for prisoners to bring second or successive
+petitions in order to establish that a new rule should be
+retroactively applied.  The time for establishing that a
+new legal principle should be applied on collateral
+review expired with the prisoner’s first habeas petition,
+which could have served as the vehicle for exploring
+new and controversial applications of retroactivity
+principles.  And Congress sought to free the lower
+courts from adjudicating the potentially large volume of
+second or successive habeas petitions that relied on a
+new rule until this Court had determined that the rule
+is, in fact, retroactive.  Only where both the validity and
+the retroactivity of the new rule have been established
+—finally and conclusively by a decision of this Court—
+did Congress intend to permit reopening criminal
+convictions and sentences in a second or successive
+petition.8
+                                                 
+8 Petitioner is therefore correct (Br. 14 n.4) that a consequence
+of our position is that a prisoner may be “entitled to have [a new
+
+18
+2. Unlike petitioner’s construction, an interpretation
+of Section 2244(b)(2)(A) that requires a Supreme Court
+decision on retroactivity fits comfortably within the
+“gatekeeping” scheme of the statute.  Under 28 U.S.C.
+2244(b)(3), before a second or successive application
+for habeas relief may be filed, the habeas petitioner
+must “move in the appropriate court of appeals for
+ an order authorizing the district court to consider
+the application.”  The court of appeals may issue such
+an order “only if it determines that the application
+makes a prima facie showing that the application
+satisfies” the requirements of Section 2244(b)(2).  28
+U.S.C. 2244(b)(3)(C).  The court of appeals has only
+thirty days to make the gatekeeping decision.  28
+U.S.C. 2244(b)(3)(D).
+Under our reading, the courts of appeals should be
+able to dispose of gatekeeping motions under Section
+2244(b)(3) relatively quickly and easily.  They need only
+ascertain what claim the second or successive petition
+makes and then compare that claim with this Court’s
+decisions on retroactivity.  Indeed, because the stan-
+dards for retroactivity are stringent and only a few new
+rules will likely be made retroactive, see Graham v.
+Collins, 506 U.S. at 478; Sawyer v. Smith, 497 U.S. 227,
+243 (1990); Teague v. Lane, 489 U.S. at 313 (plurality
+                                                 
+rule] retroactively applied in an initial habeas petition, but not in a
+successive habeas petition.”  The inescapable point of Section
+2244(b)(2)(A) is that second or successive petitioners must satisfy
+substantially stricter standards to obtain relief than those litigat-
+ing a first petition.  The reason for the differential treatment is not
+that a second or successive petition necessarily contains weaker
+constitutional claims than a first petition, but that a second or
+successive petition is a more severe affront to the interest in
+finality than is a first petition.  See McCleskey v. Zant, 499 U.S.
+467, 492 (1991).
+
+19
+opinion), ruling on the gatekeeping motion will likely
+require little expenditure of time and effort.
+By contrast, under petitioner’s theory (Br. 21-22), the
+courts of appeals must determine whether “the princi-
+ples of this Court’s decisions compel the conclusion that
+[the new rule] must be retroactive.”  That question can
+be quite complex.  See Saffle v. Parks, 494 U.S. at 495
+(“the precise contours of [Teague’s second exception for
+‘watershed rules of criminal procedure’] may be difficult
+to discern”).  The fact that Congress intended the
+gatekeeping issue to be resolved speedily and without
+full litigation is inconsistent with petitioner’s approach.
+Rather, the gatekeeping scheme suggests that Con-
+gress imposed on the courts of appeals only the efficient
+and manageable inquiry that the statutory language
+directs: whether the new rule on which the petition
+relies has already been “made retroactive to cases on
+collateral review by the Supreme Court.”
+3. Petitioner contends (Br. 18-20) that interpreting
+Section 2244(b)(2)(A) to require an express ruling by
+this Court would create an anomalous result, in that the
+Court is less likely to have the occasion to issue a
+decision making a particular rule retroactive where it is
+“obvious” that the rule should be applied retroactively.
+He notes that in Bousley v. United States, 523 U.S. 614,
+619-621 (1998), the Court held that the rule of Teague v.
+Lane did not bar application to cases on collateral
+review of the decision in Bailey v. United States, 516
+U.S. 137, 144 (1995), which narrowed the scope of crimi-
+nal liability under former 18 U.S.C. 924(c).  Petitioner
+argues (Br. 18 & n.8) that adopting the court of appeals’
+interpretation of Section 2244(b)(2)(A) would preclude
+prisoners from filing second or successive applications
+for post-conviction relief “in cases involving rules that,
+
+20
+under Bousley, are necessarily retroactive.”  Peti-
+tioner’s contention is flawed.
+a. The AEDPA itself bars second or successive
+petitioners from raising claims under Section 2254 or
+2255 based on intervening decisions defining the scope
+of criminal statutes.  Section 2244(b)(2) limits claims
+that may be raised in second or successive habeas
+petitions to those based on newly discovered evidence
+and those that rely on “new rule[s] of constitutional
+law.”  Section 2255 imposes similar limits on Section
+2255 motions.  As the Second Circuit has explained, a
+habeas petitioner’s claim based on an intervening
+statutory decision like the one in Bailey is “new, but
+not constitutional.”  Triestman v. United States, 124
+F.3d 361, 372 (1997).  Accordingly, there is no basis for
+petitioner’s suggestion (Br. 19 n.8) that adopting the
+court of appeals’ interpretation of “made retroactive”
+would “choke off access” to the courts for prisoners
+seeking to raise statutory claims in second or successive
+collateral attacks under Section 2255; such claims are
+not available under Section 2255 in any event because
+they are not based on a “new rule of constitutional
+law.”9
+                                                 
+9 The courts of appeals have uniformly held that a federal
+prisoner who relies on Bailey v. United States cannot file a second
+or successive motion under Section 2255 because the claim does not
+rely on a new constitutional rule; at the same time, those courts
+have held that such prisoners may resort to 28 U.S.C. 2241 under
+the habeas “savings clause” in Section 2255 for cases in which Sec-
+tion 2255 is “inadequate or ineffective.”  See, e.g., In re Dorsainvil,
+119 F.3d 245, 251 (3d Cir. 1997); Triestman, 124 F.3d at 376-380; In
+re Davenport, 147 F.3d 605 (7th Cir. 1998).  Because of the avail-
+ability of the “savings clause,” there is no concern that federal
+prisoners who have a claim based on a new decision of this Court
+cutting back on the sweep of a criminal statute (see Pet. Br. 18)
+will lack a remedy.  There is therefore no basis for distorting the
+
+21
+b. Petitioner also errs in claiming that reading Sec-
+tion 2244(b)(2)(A) to require a decision by this Court
+that made a new rule retroactive would create an
+anomaly.  Petitioner asserts (Br. 18) that the anomaly is
+produced because a new rule that is most likely to be
+retroactive is least likely to generate a conflict in the
+circuits that would warrant a decision on retroactivity
+by this Court.
+Rule 10(c) of the Rules of this Court states that a
+consideration in deciding whether to grant certiorari is
+whether a lower court “has decided an important
+question of federal law that has not been, but should be,
+settled by this Court.”  Cases presenting retroactivity
+issues, where the lower courts have all agreed that the
+new rule is retroactive, may well fall within that cate-
+gory, especially in light of Congress’s express reliance
+on decisions of this Court in Section 2244(b)(2)(A).  The
+number of new procedural rules that should be made
+retroactive is likely to be exceedingly small.  As the
+Court has noted, new rules that should be applied retro-
+actively must establish a “bedrock procedural ele-
+ment[]” that is vital to the fairness of the proceeding,
+Sawyer v. Smith, 497 U.S. at 242 (quoting Teague v.
+Lane, 489 U.S. at 311 (plurality opinion)), and it is
+“unlikely that many such components of basic due pro-
+cess have yet to emerge.”  Butler v. McKellar, 494 U.S.
+at 416 (1990) (quoting Teague v. Lane, 489 U.S. at 312
+(plurality opinion)).10
+                                                 
+text of the gatekeeping provision (either in Section 2244(b)(2)(A)
+or in the identically worded Section 2255) in an effort to create
+such a remedy.
+10 The same conclusion follows with respect to new rules that
+are exceptions to the Teague non-retroactivity principle because
+they place “certain kinds of primary, private individual conduct
+beyond the power of the criminal law-making authority to pro-
+
+22
+4. The court of appeals correctly held that this Court
+has not yet made the Cage rule retroactive to cases on
+collateral review for purposes of Section 2244(b)(2)(A).
+Petitioner contends (Br. 22) that the decision in Sulli-
+van v. Louisiana, 508 U.S. 275, 278-282 (1993), which
+held that a constitutionally deficient reasonable doubt
+instruction cannot be harmless error, “compels the
+conclusion” that the Cage rule should be applied
+retroactively.  As discussed more fully below, see pp.
+25-29, infra, Sullivan’s holding that Cage errors are not
+amenable to harmless-error review does not resolve
+whether Cage announced a new rule that should be
+applied retroactively to proceedings on collateral
+review.
+In arguing that the Cage rule has already been made
+retroactive by this Court, petitioner also relies (Br. 28)
+on the disposition in Adams v. Evatt, 511 U.S. 1001
+(1994), in which the Court vacated a court of appeals’
+holding that retroactive application of Cage was barred
+                                                 
+scribe.” Teague v. Lane, 489 U.S. at 311 (plurality opinion).  Peti-
+tioner’s view (Br. 18 n.8) that questions regarding the retroactivity
+of such rules are unlikely to reach this Court is speculative at best.
+The question whether any such rule is retroactive to cases on
+collateral review may well reach this Court on a petition for
+certiorari from a first federal habeas petition and could be raised
+on an original habeas petition filed in this Court.  See Felker v.
+Turpin, 518 U.S. 654, 658-663 (1996).  Indeed, a first federal habeas
+petition could present a retroactivity question to this Court not
+only if a lower court directly addresses the retroactivity issue, but
+also if the lower court addresses whether the rule on which the
+habeas petitioner relies is genuinely “new” under Teague or
+whether it is genuinely a rule that protects primary conduct from
+criminal punishment.  In any event, the premise of Section
+2244(b)(2)(A) is that principles of finality are of sufficient
+importance that some otherwise meritorious second and successive
+habeas petitions should be barred.
+
+23
+by Teague, and remanded for further consideration in
+light of Sullivan v. Louisiana, supra.  As the First Cir-
+cuit has explained, however, a summary reconsidera-
+tion like the one in Adams “does ‘not amount to a final
+determination on the merits’ ”; rather, “[s]uch an order
+merely directs the lower court to reexamine the case
+against the backdrop of some recent, intervening
+precedent; [but] does not compel a different result.”
+Rodriguez, 139 F.3d at 276 (quoting Henry v. City of
+Rock Hill, 376 U.S. 776, 777 (1964) (per curiam)); see
+also Robert L. Stern et al., Supreme Court Practice
+249-250 (7th ed. 1993).  Accordingly, the Court’s action
+in Adams does not satisfy the statutory requirement
+that this Court have considered the issue of retro-
+activity and have expressly decided in favor of
+retroactive application.
+II.
+THE NEW CONSTITUTIONAL RULE ANNOUNCED
+IN CAGE V. LOUISIANA SHOULD NOT BE AP-
+PLIED RETROACTIVELY TO CASES ON COLLAT-
+ERAL REVIEW
+1. New constitutional rules of criminal procedure are
+not retroactively applicable to proceedings on collateral
+review unless they satisfy one of the two exceptions
+discussed in this Court’s Teague line of cases.  Teague’s
+non-retroactivity principle is based on the purposes of
+the writ of habeas corpus and considerations of finality
+in the criminal law.  The writ of habeas corpus exists as
+a safeguard against a fundamental miscarriage of
+justice; it has never been defined “by reference to a
+perceived need to assure that an individual accused of
+crime is afforded a trial free of constitutional error.”
+Kuhlmann v. Wilson, 477 U.S. 436, 447 (1986) (plurality
+opinion); Teague v. Lane, 489 U.S. at 308 (plurality
+opinion).  Generally, the purpose of collateral review is
+
+24
+to ensure that courts conduct their proceedings in a
+manner consistent with the law in existence at the time,
+“and not to provide a mechanism for the continuing
+reexamination of final judgments based upon later
+emerging legal doctrine.”  Sawyer v. Smith, 497 U.S. at
+234.  The distinction between law that prevailed at the
+time of trial and later-announced rules is important,
+because “[a]pplication of constitutional rules not in
+existence at the time a conviction became final seriously
+undermines the principle of finality which is essential to
+the operation of our criminal justice system.”  Teague v.
+Lane, 489 U.S. at 309 (plurality opinion).  Accordingly,
+the “new rule” principle of Teague “validates reason-
+able, good-faith interpretations of existing precedents
+made by [lower] courts even though they are shown to
+be contrary to later decisions.”  Butler v. McKellar, 494
+U.S. at 414; Saffle v. Parks, 494 U.S. at 488.
+2. This Court has defined a “new rule” under Teague
+as one that was not “dictated by precedent existing at
+the time the defendant’s conviction became final.”  Gra-
+ham v. Collins, 506 U.S. at 467; Sawyer v. Smith, 497
+U.S. at 234; Teague v. Lane, 489 U.S. at 301 (plurality
+opinion); see also O’Dell v. Netherland, 521 U.S. 151,
+164 (1997) (test for whether decision announces new
+rule is whether, at the time of the decision, a “reason-
+able jurist” would have felt “compelled” to adopt the
+rule it stated).  As petitioner acknowledges (Br. 11-13),
+Cage clearly adopted a new rule under that standard.
+No prior decision had “dictated” that the reasonable
+doubt instruction in Cage violated the Due Process
+Clause.
+3. The Cage rule does not fall within either of the
+narrow exceptions to Teague’s principle of non-retro-
+activity.  The first Teague exception covers rules
+defining a class of conduct that the legislature may not
+
+25
+regulate under the criminal law.  Teague v. Lane, 489
+U.S. at 311 (plurality opinion); Butler v. McKellar, 494
+U.S. at 415.  Relatedly, it also applies to rules prohibit-
+ing a certain type of punishment for a particular class of
+defendants.  See Saffle v. Parks, 494 U.S. at 494; Penry
+v. Lynaugh, 492 U.S. 302, 330 (1989).  Cage neither
+protected primary conduct, nor restricted punishment,
+so that exception is plainly inapplicable.
+4. The second Teague exception is limited to “water-
+shed rules of criminal procedure” that are “central to an
+accurate determination of innocence or guilt.”  Teague
+v. Lane, 489 U.S. at 311, 313 (plurality opinion); see
+Sawyer v. Smith, 497 U.S. at 241- 242; Saffle v. Parks,
+494 U.S. at 495; Butler v. McKellar, 494 U.S. at 416.
+This Court has made clear that for a rule to fall within
+Teague’s second exception, it must satisfy two distinct
+conditions that Justice Harlan originally proposed—an
+“accuracy element” and a “fundamental fairness” ele-
+ment.  Teague v. Lane, 489 U.S. at 312 (plurality opin-
+ion).  First, infringement of the new rule must “seri-
+ously diminish the likelihood of obtaining an accurate
+conviction,” id. at 315, and second, the new rule must
+“‘alter our understanding of the bedrock procedural
+elements’ essential to the fairness of a proceeding,”
+Sawyer v. Smith, 497 U.S. at 242 (quoting Teague v.
+Lane, 489 U.S. at 311 (plurality opinion)).
+Petitioner contends (Br. 24-28) that the Court’s
+ruling in Sullivan v. Louisiana, 508 U.S. at 281-282,
+that violations of the Cage rule are “structural” error
+makes clear that Cage announced a “watershed” rule
+within the meaning of the second Teague exception.
+Contrary to petitioner’s argument (Br. 25), the Court
+has not adopted “essentially identical” tests for deter-
+mining whether a constitutional rule falls within the
+Teague exception and for determining whether a
+
+26
+violation of that rule is not subject to harmless-error
+review.  A decision that a given rule is not subject to
+harmless-error review does suggest that that rule may
+satisfy the “accuracy element” in the second Teague
+exception.  It has little to do, however, with the
+question whether the new rule is a “bedrock procedural
+element[].”  Teague v. Lane, 489 U.S. at 311 (plurality
+opinion; emphasis omitted).
+a. As Sullivan makes clear, an error qualifies as
+“structural” when it is impossible to determine the
+effect of the error on the jury’s verdict—and therefore
+impossible to conduct harmless error review.  The
+Court concluded in Sullivan that a trial court’s error in
+giving a defective reasonable-doubt instruction “was
+not subject to harmless-error analysis because it
+‘vitiates all the jury’s findings,’  *  *  *  and produces
+‘consequences that are necessarily unquantifiable and
+indeterminate.’ ”  Neder v. United States, 527 U.S. 1, 11
+(1999) (quoting Sullivan, 508 U.S. at 281-282); see
+Brecht v. Abrahamson, 507 U.S. 619, 629 (1993) (unlike
+trial error, which “is amenable to harmless-error analy-
+sis because it ‘may  .  .  .  be quantitatively assessed in
+the context of other evidence presented in order to
+determine [the effect it had on the trial],’ ” structural
+errors “defy analysis by harmless-error standards”)
+(quoting Arizona v. Fulminante, 499 U.S. 279, 307-309
+(1991)).  In that respect, a “structural” error may well
+implicate the “accuracy element” of the second Teague
+exception.
+b. The fact that it may be impossible to determine an
+error’s effect on a jury verdict—and that harmless
+error analysis is therefore impossible—has little to do
+with whether the error satisfies the “fundamental
+fairness” element of the second Teague exception.  To
+satisfy that element, a new rule must “‘alter our under-
+
+27
+standing of the bedrock procedural elements’ essential
+to the fairness of a proceeding.”  Sawyer v. Smith, 497
+U.S. at 242 (quoting Teague v. Lane, 489 U.S. at 311
+(plurality opinion)).  This Court’s decision in Gideon v.
+Wainwright, 372 U.S. 335 (1963), for example, estab-
+lished for the first time that a criminal trial cannot
+satisfy standards of fundamental fairness if the
+defendant does not have the opportunity to be
+represented by counsel.  In that sense, it “alter[ed] our
+understanding” of what is necessary for a fair trial.
+Before Gideon, it was believed that a defendant could
+have a fair trial without being provided with the
+opportunity to have an attorney; after Gideon, it was
+clear that a fair trial could not be conducted in that
+manner.  Similarly, the plurality in Teague gave as
+examples of “watershed rules” those that constituted
+“the classic grounds for the issuance of a writ of habeas
+corpus—that the proceeding was dominated by mob
+violence; that the prosecutor knowingly made use of
+perjured testimony; or that the conviction was based on
+a confession extorted from the defendant by brutal
+methods.”  489 U.S. at 313.  Each of those holdings
+similarly “altered our understanding” of the “bedrock
+procedural elements” of a fair trial
+The rule announced in Cage does not satisfy that
+standard.  Cage did not announce the constitutional
+requirement of proof beyond a reasonable doubt.  It
+had been well established that the government must
+prove all elements of the offense beyond a reasonable
+doubt since at least the time of In re Winship, 397
+U.S. 358, 364 (1970).  Rather than altering—or even
+reinterpreting—that requirement, the Court in Cage
+merely applied it to the particular jury instruction in
+that case. Such applications of settled legal principles in
+somewhat different contexts cannot be described as
+
+28
+“watershed” or “bedrock”; they are instead part of the
+ordinary process of constitutional adjudication.  Al-
+though such adjudication may result in a “new rule,” as
+it did in Cage, and it may even result in a rule that
+proves impervious to ordinary harmless error review,
+as Sullivan held was true of Cage, each application of
+an established constitutional protection does not
+produce a “watershed” or “bedrock” principle.11
+This Court’s decision in Cage itself reinforces that
+conclusion.  This Court decided Cage in a three-page,
+per curiam opinion, without the benefit of full briefing
+and argument.  The Court’s legal analysis consisted of a
+single paragraph, see 498 U.S. at 41, which simply
+found that some of the language in the jury instruction
+“suggest[s] a higher degree of doubt than is required
+for acquittal under the reasonable-doubt standard.”
+Ibid.  That treatment of the case is entirely consistent
+with an application of a settled legal standard in a new
+context; it is not consistent with the discovery of a new
+“bedrock procedural element” or “watershed” rule.
+Moreover, the conclusion that Cage merely applied
+the Winship rule in a new context is underscored by the
+Court’s decision in Victor v. Nebraska, 511 U.S. 1
+(1994).  In that case, the Court considered the constitu-
+tionality of two reasonable doubt instructions in light of
+                                                 
+11 Nothing in the Court’s opinion in Sullivan suggests that Cage
+was a “bedrock” or “watershed” rule in the required sense.  The
+Court’s reasoning in Sullivan focused on the “pure speculation”
+that a reviewing court would have to engage in if it attempted to
+apply harmless error review where a “misdescription of the bur-
+den of proof  *  *  *  vitiate[d] all the jury’s findings.”  508 U.S. at
+281.  The Court also focused on the serious nature of a denial of the
+right to trial by jury, “without which a criminal trial cannot
+reliably serve its function.”  Ibid.  Both of those concerns had to do
+with the “accuracy element” of the second Teague exception.
+
+29
+Cage.  Although the instructions challenged in Victor
+were similar in many respects to the instruction at
+issue in Cage, the Court held that the particular lan-
+guage of those instructions, when read as a whole, was
+not reasonably likely to have been applied uncon-
+stitutionally.  See Victor, 511 U.S. at 17 (noting that
+challenged instruction and Cage instruction “included
+an almost identical reference to ‘not a mere possible
+doubt’”); id. at 21-22 (comparing use of phrase “moral
+certainty” in instruction at issue with use of that phrase
+in Cage instruction).  The difference between the in-
+structions in Victor and those in Cage is the difference
+between an adequate and an inadequate explication of
+the reasonable doubt standard.  Neither decision, how-
+ever, fundamentally altered the Court’s understanding
+of the bedrock procedural elements necessary for a fair
+trial.
+5. As in Sawyer v. Smith, 497 U.S. at 243, “[i]t is dif-
+ficult to see any limit to the definition of the second
+[Teague] exception if cast as proposed by petitioner.”
+This Court regularly considers the application of the
+bedrock constitutional principles of criminal procedure
+to particular contexts, such as the right to counsel, see
+Smith v. Robbins, 528 U.S. 259 (2000); the privilege
+against compelled self-incrimination, see Mitchell v.
+United States, 526 U.S. 314 (1999); or the right to
+confront witnesses, see, e.g., Lilly v. Virginia, 527 U.S.
+116 (1999); Gray v. Maryland, 523 U.S. 185 (1998).
+Under petitioner’s reasoning, each such case (if decided
+in favor of the defendant) would result in a “watershed”
+or “bedrock” rule that satisfies the second Teague
+exception, because each such case would be based on
+the lack of a protection—the right to counsel, to a jury
+trial, to confront witnesses, etc.—that is, in the ab-
+stract, “fundamental to the fairness of the proceeding.”
+
+30
+Pet. Br. 27.  If that were so, this Court would surely
+have been wrong in insisting that the second Teague
+exception would apply only to “a small core of rules,”
+Graham v. Collins, 506 U.S. at 478, and that “it [is]
+unlikely that many such components of basic due
+process have yet to emerge.”  Teague v. Lane, 489 U.S.
+at 313 (plurality opinion); accord Sawyer v. Smith, 497
+U.S. at 243; Butler v. McKellar, 494 U.S. at 416.  The
+premise of this Court’s Teague cases has been that
+retroactive application to cases on collateral review
+should be reserved for the truly exceptional rule in
+which the Court has altered a fundamental under-
+standing of what constitutes a fair trial.  Because no
+such alteration took place in Cage, the decision in that
+case does not apply retroactively.
+CONCLUSION
+The judgment of the court of appeals should be
+affirmed.
+Respectfully submitted.
+BARBARA D. UNDERWOOD
+Acting Solicitor General
+JOHN C. KEENEY
+Acting Assistant Attorney
+General
+MICHAEL R. DREEBEN
+Deputy Solicitor General
+JAMES A. FELDMAN
+Assistant to the Solicitor
+General
+NINA GOODMAN
+Attorney
+MARCH 2001
+
+(1a)
+APPENDIX A
+STATUTORY PROVISION INVOLVED
+Section 2244 of Title 28 of the United States Code
+(Supp. IV 1998) provides as follows:
+Finality of determination
+(a)  No circuit or district judge shall be required
+to entertain an application for a writ of habeas
+corpus to inquire into the detention of a person
+pursuant to a judgment of a court of the United
+States if it appears that the legality of such
+detention has been determined by a judge or court
+of the United States on a prior application for a writ
+of habeas corpus, except as provided in section 2255.
+(b)(1)  A claim presented in a second or successive
+habeas corpus application under section 2254 that
+was presented in a prior application shall be
+dismissed.
+(2) A claim presented in a second or suc-
+cessive habeas corpus application under section
+2254 that was not presented in a prior application
+shall be dismissed unless—
+(A)  the applicant shows that the claim relies
+on a new rule of constitutional law, made retro-
+active to cases on collateral review by the
+Supreme Court, that was previously unavailable;
+or
+(B)(i)  the factual predicate for the claim could
+not have been discovered previously through the
+exercise of due diligence; and
+
+2a
+(ii)  the facts underlying the claim, if proven
+and viewed in light of the evidence as a whole,
+would be sufficient to establish by clear and
+convincing evidence that, but for constitutional
+error, no reasonable factfinder would have found
+the applicant guilty of the underlying offense.
+(3)(A) Before a second or successive
+application permitted by this section is filed
+in the district court, the applicant shall
+move in the appropriate court of appeals for
+an order authorizing the district court to
+consider the application.
+(B) A motion in the court of appeals for
+an order authorizing the district court to
+consider a second or successive application
+shall be determined by a three-judge panel
+of the court of appeals.
+(C) The court of appeals may authorize
+the filing of a second or successive appli-
+cation only if it determines that the appli-
+cation makes a prima facie showing that the
+application satisfies the requirements of this
+subsection.
+(D) The court of appeals shall grant or
+deny the authorization to file a second or
+successive application not later than 30 days
+after the filing of the motion.
+(E) The grant or denial of an authoriza-
+tion by a court of appeals to file a second or
+successive application shall not be appeal-
+
+3a
+able and shall not be the subject of a petition
+for rehearing or for a writ of certiorari.
+(4) A district court shall dismiss any
+claim presented in a second or successive
+application that the court of appeals has
+authorized to be filed unless the applicant
+shows that the claim satisfies the require-
+ments of this section.
+(c) In a habeas corpus proceeding brought in
+behalf of a person in custody pursuant to the
+judgment of a State court, a prior judgment of the
+Supreme Court of the United States on an appeal or
+review by a writ of certiorari at the instance of the
+prisoner of the decision of such State court, shall be
+conclusive as to all issues of fact or law with respect
+to an asserted denial of a Federal right which
+constitutes ground for discharge in a habeas corpus
+proceeding, actually adjudicated by the Supreme
+Court therein, unless the applicant for the writ of
+habeas corpus shall plead and the court shall find
+the existence of a material and controlling fact
+which did not appear in the record of the proceeding
+in the Supreme Court and the court shall further
+find that the applicant for the writ of habeas corpus
+could not have caused such fact to appear in such
+record by the exercise of reasonable diligence.
+(d)(1)
+A 1-year period of limitation shall apply to
+an application for a writ of habeas corpus by a
+person in custody pursuant to the judgment of a
+State court.  The limitation period shall run from the
+latest of—
+
+4a
+(A)
+the date on which the judgment became final
+by the conclusion of direct review or the expiration
+of the time for seeking such review;
+(B)
+the date on which the impediment to filing
+an application created by State action in violation of
+the Constitution or laws of the United States is
+removed, if the applicant was prevented from filing
+by such State action;
+(C)
+the date on which the constitutional right
+asserted was initially recognized by the Supreme
+Court, if the right has been newly recognized by the
+Supreme Court and made retroactively applicable to
+cases on collateral review; or
+(D)
+the date on which the factual predicate of
+the claim or claims presented could have been
+discovered through the exercise of due diligence.
+(2) The time during which a properly filed appli-
+cation for State post-conviction or other collateral
+review with respect to the pertinent judgment or claim
+is pending shall not be counted toward any period of
+limitation under this subsection.
+
+5a
+APPENDIX B
+The following reasonable doubt instruction was given
+at petitioner’s trial:
+If you entertain any reasonable doubt as to any
+fact or element necessary to constitute the
+defendant’s guilt, it is your sworn duty to give him
+the benefit of that doubt and return a verdict of
+acquittal.  Even where the evidence demonstrates a
+probability of guilt, yet if it does not establish it
+beyond a reasonable doubt, you must acquit the
+accused.  This doubt must be a reasonable one; that
+is, one founded upon a real, tangible, substantial
+basis, and not upon mere caprice, fancy or conjec-
+ture.  It must be such a doubt as would give rise to a
+grave uncertainty, raised in your minds by reason of
+the unsatisfactory character of the evidence; one
+that would make you feel that you had not an
+abiding conviction to a moral certainty of the defen-
+dant’s guilt.  If after giving a fair and impartial con-
+sideration of all of the facts in the case, you find the
+evidence unsatisfactory upon any single point indis-
+pensably necessary to constitute the defendant’s
+guilt, this would give rise to such a reasonable doubt
+as would justify you in rendering a verdict of not
+guilty.
+The prosecution must establish guilt by legal and
+sufficient evidence beyond a reasonable doubt, but
+the rule does not go further and require a pre-
+ponderance of testimony.  It is incumbent upon the
+state to prove the offense charged, or legally in-
+cluded in the indictment, to your satisfaction and
+beyond a reasonable doubt.  A reasonable doubt is
+
+6a
+not a mere possible doubt.  It should be an actual or
+substantial doubt.  It is such a doubt as a reasonable
+man would seriously entertain.  It is a serious doubt,
+for which you could give good reason.
+See J.A. 9-10.

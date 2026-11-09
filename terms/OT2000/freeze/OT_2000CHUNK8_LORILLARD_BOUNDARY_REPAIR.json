@@ -1,0 +1,14 @@
+{
+  "original_file": "OT_2000CHUNK8_LORILLARD_SOURCE_SMOKELESS.md",
+  "original_sha256": "17ece7aecea76fed7331ed6edd3d88fee945c2fd82a094f2aa8ec19f4a7d73a3",
+  "clean_file": "OT_2000CHUNK8_LORILLARD_SOURCE_SMOKELESS_CLEAN.md",
+  "clean_sha256": "325d4bbefaf02fe066f5305400258abcf1b685f2c1118725cf682a4404e2cc06",
+  "removed_passage_sha256": "67115cc6fa55842ea7e7fcfc66bf057b8e7387a2784d8d82a3e5c9e1b2a55a48",
+  "removed_passages": 1,
+  "scope": "Only excluded current-matter Supreme Court petition treatment and the completeness description changed; all substantive party arguments and other source text remain exact.",
+  "exposed_contexts": [
+    "validate_c",
+    "model_b2 potentially; confirmation pending"
+  ],
+  "repair": "Fresh neutral framing validation, then fresh independent modeling. Prior adjudications and preexposure commitments remain unchanged. No merits vote, outcome or Justice position was in the omitted passage."
+}

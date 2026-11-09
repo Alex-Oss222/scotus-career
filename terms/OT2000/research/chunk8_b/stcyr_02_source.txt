@@ -1,0 +1,4933 @@
+Tre «lai 
+a D 
+OF v67 NOV 1 3 2000 
+
+
+wrrice OF Ile CLERK 
+
+
+In the Supreme Court of the Gnited States 
+
+
+No. 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+PETITIONER 
+
+
+Vv. 
+ENRICO ST. CYR 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+APPENDIX TO 
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+
+
+DAVID W. OGDEN 
+Assistant Attorney General 
+
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+
+PAUL R.Q. WOLFSON 
+Assistant to the Solicitor 
+General 
+
+
+STEPHEN C. ROBINSON 
+
+DONALD E. KEENER 
+
+ALISON R. DRUCKER 
+
+ERNESTO H. MOLINA 
+
+JAMES K. FILAN, JR. 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Appendix A (court of appeals opinion, Sept. 1, 2000) ... 
+Appendix B (court of appeals opinion in Calcano- la 
+Martinez v. INS, Madrid v. INS, and Khan v. INS. 
+Sept. 1, 2000) 40a 
+Appendix C (district court decision, Aug. 30, 1999) ...... 75a 
+
+
+Appendix D (district court judgment, Aug. 30, 1999)... 92a 
+Appendix E (decision of Board of Immigration 
+
+
+Appeals, Nov. 10, 1998) ... . & 
+Appendix F (decision of immigration judge, Jan. 12 
+
+1998) ..... , 96a 
+Appendix G (constitutional and statutory provisions 
+
+PUTED seviiniiecisvistioninstitenstanininiesiinininsimnctants 98a 
+
+
+; (I) 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+No. 99-2614 
+ENRICO ST. CYR, PETITIONER-APPELLEE 
+Vv. 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+RESPONDENT-APPELLANT 
+
+
+[Argued: Mar. 30, 2000] 
+{[Decided: Sept. 01, 2000] 
+
+
+Before: OAKES, WALKER and KEITH,” 
+Circuit Judges. 
+
+
+OAKES, Senior Circuit Judge: 
+
+
+The case before us presents legal questions of re- 
+viewability and retroactivity under the 1996 amend- 
+ments to the Immigration and Nationality Act (“INA”). 
+Congress amended the INA through the enactment of 
+the Antiterrorism and Effective Death Penalty Act 
+(“AEDPA”), Pub. L. No. 104-132, 110 Stat. 1214 et seq. 
+(1996) and the Illegal Immigration Reform and Immi- 
+
+
+* The Honorable Damon J. Keith of the United States Court of 
+Appeals for the Sixth Circuit, sitting by designation. 
+
+
+(la) 
+
+
+2a 
+
+
+grant Responsibility Act (““IIRIRA”), Pub. L. No. 104- 
+208, 110 Stat. 3009-546 et seq. (1996). These laws se- 
+verely narrowed the rights of certain classes of aliens, — 
+including those like St. Cyr who were ordered deported 
+because of a prior drug conviction, and have spawned a 
+multitude of judicial decisions. 
+
+
+AEDPA § 440(d) and IIRIRA § 304 significantly 
+limit the cases where discretionary relief from removal 
+can be sought. They effectively preclude an alien, who 
+- Is removable from the United States because of a 
+conviction of a crime that qualifies as an “aggravated 
+felony” under the law, from applying for discretionary 
+relief from removal. St. Cyr’s removal proceedings 
+were commenced after the enactment of the AEDPA 
+and IIRIRA. However, St. Cyr pled guilty to the drug- 
+related offense that rendered him deportable and in- 
+eligible under the AEDPA and ITRIRA to apply for 
+discretionary relief a year before the statutes were 
+enacted. He argues that applying the AEDPA § 440(d) 
+and IIRIRA § 304 bar to his removal proceedings 
+would have an impermissible retroactive effect. Thus, 
+in this case, we must determine whether the bar to 
+discretionary relief from removal is properly applied 
+retroactively to pre-enactment guilty pleas. 
+
+
+BACKGROUND 
+
+
+Enrico St. Cyr, a native of Haiti, was admitted to the 
+United States as a lawful permanent resident on June 
+17, 1986. St. Cyr’s family lives in the United States. 
+His parents and sister are citizens of this country and 
+his brother is a lawful permanent resident. 
+
+
+3a 
+
+
+On March 8, 1996, prior to the enactment date of the 
+AEDPA and IIRIRA, St. Cyr pled guilty to the sale of 
+a controlled hallucinogenic narcotic in violation of Con- 
+necticut General Statutes § 21a-277(a). At the time that 
+St. Cyr pled guilty to the charge, the drug conviction 
+rendered him deportable under the immigration 
+laws. See INA § 241(a)(2)(B)(i), codified at 8 U.S.C. 
+§ 1251(a)(2)(B)(i) (1994), now renumbered as INA 
+§ 237(a)(2)(B)(i), codified at 8 U.S.C. § 1227(a)(2)(B)(i) 
+(1999); see also INA § 241(a)(2)(A)(iii), codified at 
+8 U.S.C. § 1251(a)(2)(A)(iii) (1994), now renumbered 
+as INA § 237(a)(2)(iii), codified at 8 U.S.C. 
+§ 1227(a)(2)(A)(iii) (1999); INA § 101(a)(43), codified at 8 
+U.S.C. § 1101(a)(48) (1999).’ 
+
+
+On April 10, 1997, the Immigration and Naturali- 
+zation Service (“INS”) issued St. Cyr a Notice to 
+Appear, charging him as removable under INA 
+§ 237(a)(2)(A)(iii) because he had been convicted of an 
+aggravated felony. On January 12, 1998, an immi- 
+gration judge (“IJ”) found that St. Cyr was removable 
+under INA § 237(a)(2)(_:)Gii). In the time between St. 
+Cyr’s conviction and his receipt of a Notice to Appear, 
+Congress enacted the AEDPA and IIRIRA. These 
+laws significantly limited the cases where discretionary 
+
+
+1 INA § 237(a)(2)(B)(i) provides that “Any alien who at any 
+time after admission has been convicted of a violation of (or a 
+conspiracy or attempt to violate) any law or regulation of a State, 
+the United States, or a foreign country relating to a controlled 
+substance . . . other than a single offense involving [a small 
+amount of marijuana for one’s own use] is deportable.”; INA 
+§ 237(a)(2)(A)(iii) provides that “Any alien who is convicted of an 
+aggravated felony at any time after admission is deportable.”; INA 
+§ 101(a)(43), codified at 8 U.S.C. § 1101(a)(43) defines “aggravated 
+felony” to include illicit trafficking in a controlled substance. 
+
+
+4a 
+
+
+relief from deportation could be sought and rendered an 
+alien who was removable because of an aggravated 
+felony conviction statutorily ineligible to apply for relief 
+from deportation. 
+
+
+At his hearing, St. Cyr sought to prevent his removal 
+by applying for a discretionary waiver of deportation 
+under former INA § 212(c). See 8 U.S.C. § 1182(c) 
+(1996) (repealed by IIRIRA, § 304(b), 110 Stat. at 3009- 
+597, September 30, 1996). The IJ denied St. Cyr’s 
+§ 212(c) application. St. Cyr appealed his removal order 
+to the Board of Immigration Appeals (“BIA”). Because 
+of the changes made by Congress to the immigration 
+laws, specifically IIRIRA § 304(b)’s repeal of the avail- 
+ability of § 212(c) relief to aliens such as St. Cyr, the 
+BIA dismissed his appeal on November 10, 1998. 
+
+
+On April 27, 1999, St. Cyr filed a habeas corpus peti- 
+tion in the United States District Court for the District 
+of Connecticut. In his petition, he argued that § 440(d) 
+of the AEDPA and IIRIRA § 304 should not be applied 
+retrospectively to bar his eligibility for § 212(c) relief 
+because both his criminal conduct and his conviction 
+occurred prior to the statutes’ enactment. The INS 
+argued that the 1996 amendments to the INA divested 
+the district court of jurisdiction to hear St. Cyr’s habeas 
+petition. On the merits, the INS argued that § 440(d) of 
+the AEDPA was applicable to St. Cyr’s case because 
+removal proceedings had been commenced against him 
+after the effective date of the AEDPA. Specifically, the 
+INS argued that applying § 440(d) to aliens ordered de- 
+portable because of a criminal conviction that was 
+entered prior to the AEDPA’s effective date was not an 
+unjustified retrospective application of § 440(d). 
+
+
+5a - 
+
+
+On August 23, 1999, the district court rejected the 
+INS’s arguments and held that it had jurisdiction to 
+hear the habeas petition because the 1996 amendments 
+to the INA did not explicitly divest a district court of 
+its habeas jurisdiction over final removal orders under 
+28 U.S.C. § 2241. It concluded that the scope of its re- 
+view pursuant to 28 U.S.C. § 2241 included St. Cyr’s 
+statutory claim that the BIA had misapplied the immi- 
+gration laws. 
+
+
+In addressing the merits of St. Cyr’s habeas petition, 
+the district court held that AEDPA § 440(d) is inappli- 
+cable to an alien placed in removal proceedings after 
+the AEDPA’s enactment if the relevant convictions, 
+criminal proceedings, or underlying criminal conduct 
+occurred prior to enactment. The court reasoned that 
+Congress did not intend AEDPA § 440(d) to be applied 
+retroactively to such pre-enactment events because it 
+would unfairly attach new legal consequences to pre- 
+AEDPA criminal conduct. Thus, the district court 
+concluded that St. Cyr’s removal proceedings should be 
+governed by the laws that were in effect at the time he 
+committed the crime. The INS timely appealed. 
+
+
+DISCUSSION 
+
+
+I. Jurisdiction. 
+
+
+Because the question whether the district court had 
+subject matter jurisdiction in this case is a question of 
+law, we review it de novo. See Conntech Dev. Co. v. 
+University of Connecticut Educ. Properties, Inc., 102 
+F.3d 677, 681 (2d Cir. 1996). 
+
+
+The INS’s arguments that the district court lacked 
+jurisdiction under 28 U.S.C. § 2241 to decide St. Cyr’s 
+
+
+6a 
+
+
+claim are foreclosed by our decision in Calcano- 
+Martinez v. Reno, Civ. Nos. 98-4033, 98-4214, 98-4246 
+(2d Cir. 2000), a case argued on the same day as this 
+one. In that case, we held that the permanent rules of 
+IIRIRA do not divest Article III courts of their habeas 
+jurisdiction under 28 U.S.C. § 2241 to review statutory 
+and constitutional challenges to final removal orders 
+when no other avenue for judicial review is available. 
+Here, no such avenue existed because St. Cyr, con- 
+victed of a crime involving a controlled substance, is an 
+alien deportable under INA § 237(a)(2)(A)(iii). A peti- 
+tion in the court of appeals pursuant to INA § 242(a)(1) 
+is, therefore, unavailable to him. See 8 U.S.€. 
+§ 1252(a) (2)(C) (1999). 
+
+
+Although a federal court’s habeas jurisdiction does 
+not include all challenges that an alien may launch 
+against his or her removal order, St. Cyr’s habeas peti- 
+tion raises pure questions of law. He is not challenging 
+the BIA’s refusal to exercise its discretion in his favor. 
+Rather, he is challenging the BIA’s determination that 
+it cannot legally consider St. Cyr’s request to exercise 
+its discretion. Therefore, his habeas challenge to his 
+final order of removal is the type of claim that is 
+cognizable in the district court under 28 U.S.C. § 2241. 
+
+
+Because there is no other avenue for judicial review 
+available and St. Cyr’s petition raises a purely legal 
+challenge to his final order of removal, the district court 
+had subject matter jurisdiction to review his habeas 
+petition. 
+
+
+II. Availability of § 212(c) relief. 
+
+
+Having determined that the district court had juris- 
+diction to decide St. Cyr’s claim, we turn to the issue 
+
+
+Ta 
+
+
+raised by St. Cyr in his habeas petition: whether 
+AEDPA § 440(d) and IIRIRA § 304, which essentially 
+make discretionary relief unavailable to an alien like St. 
+Cyr, apply to his removal proceeding. 
+
+
+A. History of Discretionary Relief. 
+
+
+Under the law in effect prior to the enactment of the 
+AEDPA, certain aliens otherwise determined to be de- 
+portable were entitled to apply to the Attorney General 
+or her delegates’ for a waiver of deportation under INA 
+§ 212(c), 8 U.S.C. § 1182(c) (1994). Former § 212(¢) pro- 
+vided: 
+
+Aliens lawfully admitted for permanent residence 
+who temporarily proceeded abroad voluntarily and 
+not under an order of deportation, and who are re- 
+turning to a lawful unrelinquished domicile of seven 
+consecutive years, may be admitted in the discretion 
+of the Attorney General without regard to [pro- 
+visions setting forth various grounds for exclusion]. 
+. . . The first sentence of this subsection shall not 
+apply to an alien who has been convicted of one or 
+more aggravated felonies and has served for such 
+felony or felonies a term of imprisonment of at least 
+five years. 
+
+
+8 U.S.C. § 1182(c) (1994) (repealed by IIRIRA § 304(b), 
+110 Stat. at 3009-597, Sept. 30, 1996). 
+
+
+Although the literal terms of § 212(c) appeared to 
+apply only to resident aliens who had temporarily pro- 
+ceeded abroad and were returning to the United States, 
+since 1976 the section has been-interpreted by this 
+Court to permit the Attorney General to waive the 
+
+
+2 The Attorney General’s delegates include [Js and the BIA. 
+
+
+8a 
+
+
+grounds for deportation under certain conditions in the 
+case of a lawfully admitted permanent resident in de- 
+portation proceedings. See Buitrago-Cuesta v. INS, 
+7 F.3d 291, 292 (2d Cir. 1993); Francis v. INS, 532 F.2d 
+268, 272-73 (2d Cir. 1976). 
+
+
+Discretionary relief from deportation, which has been 
+available in our system in some form since at least 1917, 
+- see Francis, 532 F.2d at 270, provides the Attorney 
+General with a mechanism to consider the impact of 
+immigration on an alien’s family. Prior to 1996, INA 
+§ 212(c) gave power to the Attorney General to permit 
+a worthy alien to stay in this country in order to avoid 
+extraordinary hardship to the alien’s family in the 
+United States. See id. at 272. In a case where a con- 
+victed alien demonstrated that he or she had a lawful 
+unrelinquished domicile in the United States for at least 
+seven years and that his or her conviction was not for 
+an “aggravated felony,” for which he or she had served 
+a term of imprisonment of five years or longer, the 
+Attorney General could, in her discretion, waive de- 
+portation. See 8 U.S.C. § 1182(c) (1994). Under the law 
+in effect before 1996, if the Attorney General denied 
+relief, the alien could challenge that denial by filing a 
+petition for review in the court of appeals. See 8 U.S.C. 
+§ 1105a(a) (1994) (repealed by IIRIRA § 306(b), 110 
+Stat. at 3009-612, Sept. 30, 1996). 
+
+
+On April 24, 1996, Congress enacted the AEDPA, of 
+which § 440(d) expanded the category of criminal con- 
+victions that would render an alien ineligible to apply 
+for § 212(c) relief. The explicit goal of the AEDPA was 
+to enhance “the ability of the United States to deport 
+criminal aliens.” H.R. Conf. Rep. No. 104-518, at 119 
+
+
+9a 
+
+
+(1996), reprinted in 1996 U.S.C.C.A.N. 924, 9523 Sec- 
+tion 440(d) struck the language “has been convicted of 
+one or more aggravated felonies” and that which 
+followed in § 212(c) and inserted the following bar: 
+
+
+This section shall not apply to an alien who is 
+deportable by reason of having committed any 
+criminal offense covered in section 241(a)(2)(A)(iii), 
+(B), (C), or (D), or any offense covered by section 
+241(a)(2)(A)(ii) for which both predicate offenses are 
+covered by section 241(a)(2)(A)(i). 
+
+
+AEDPA § 440(d), 110 Stat. at 1277.4 Under the 
+amended version, a waiver could not be granted to an 
+alien convicted of certain enumerated offenses including 
+a drug-related crime, two or more offenses involving 
+
+
+3 This was by no means Congress’s first attempt to narrow a 
+criminal alien’s eligibility for a waiver from deportation) Congress 
+passed the Anti-Drug Abuse Act of 1988 and made conviction of an 
+aggravated felony an additional ground for deportation. See Anti- 
+Drug Abuse Act of 1988 § 7344, 102 Stat. at 4470-71 (codified at 8 
+U.S.C. § 1251(a)(2)(A)(iii) (1996)). In 1990, Congress amended 
+§ 212(c) and precluded waiver for aliens convicted of aggravated 
+felonies who had served at least five years in prison for the con- 
+viction. See Immigration Act of 1990, Pub. L. No. 101-649, 
+§ 511(a), 104 Stat. 4978, 5052 (1990), codified at 8 U.S.C. § 1182(c). 
+Also in 1990, Congress expanded the definition of aggravated 
+felony to include more offenses and render a greater number of 
+criminal aliens ineligible for discretionary relief. See id. § 501, 104 
+Stat. at 5048. Again, in 1994, Congress expanded the definition of 
+aggravated felony to include more classes of crimes. See Immi- 
+gration and Nationality Technical Corrections Act of 1994, Pub. L. 
+No. 103-416 § 222(a), 108 Stat. 4805, 43822 (1994), codified at 
+8 U.S.C. § 1101(a)(48). 
+
+* INA § 241, codified at 8 U.S.C. § 1251 (1994) was renumbered 
+by IIRIRA as INA § 287, codified at 8 U.S.C. 8 1227. See IIRIRA 
+§ 305(a)(92), 110 Stat. at 3009-598. 
+
+
+10a 
+
+
+moral turpitude, and an aggravated felony, regardless 
+of time served in prison. 
+
+
+Just a few months later, on September 30, 1996, Con- 
+gress enacted IIRIRA, which wrought further changes 
+to the availability of deportation waivers. IIRIRA in- 
+cluded temporary transitional rules and permanent 
+rules. Under the statutory interplay of IIRIRA’s tran- 
+sitional rules and the AEDPA, the Attorney General 
+was able, in her discretion, to grant relief from de- 
+portation under INA § 212(c) as amended by § 440(d). 
+See IIRIRA § 309(c)(1), 110 Stat. at 3009-625 (most 
+of IIRIRA amendments to the INA do not apply to 
+aliens placed in deportation proceedings prior to April 
+1, 1997); see also Tasios v. Reno, 204 F.3d 544, 547 n.1 
+(4th Cir. 2000). 
+
+
+The permanent provisions of IIRIRA, however, re- 
+peal INA § 212(c) altogether and consolidate prior “sus- 
+pension of deportation” relief and aspects of former 
+§ 212(c) relief into an entirely new form of relief. See 8 
+U.S.C. § 1229b(a)(3) (1999). Section 304(a) of IIRIRA, 
+entitled “Cancellation of removal for certain permanent 
+residents,” found at INA § 240A, provides: 
+
+
+The Attorney General may cancel removal in the 
+case of an alien who is inadmissible or deportable 
+from the United States if the alien- : 
+
+
+(1) has been an alien lawfully admitted for perma- 
+nent residence for not less than 5 years, 
+
+
+(2) has resided in the United States continuously 
+for 7 years after having been admitted in any status, 
+and 
+
+
+lla 
+
+
+(3) has not been convicted of any aggravated fe- 
+lony. 
+
+
+8 U.S.C. § 1229b(a) (1999). Cancellation of removal is 
+thus limited to a smaller category of aliens than had 
+historically been eligible for pre-AEDPA § 212(c) relief 
+because it is unavailable to all aliens convicted of 
+aggravated felonies and not just to those imprisoned for 
+more than five years. Compare 8 U.S.C. § 1182(c) 
+(1994) with 8 U.S.C. § 1129b (1999). Cancellation of re- 
+moval, however, is categorically available to a larger 
+number of aliens than those eligible under AEDPA 
+§ 440(d) because it restores the availability of dis- 
+cretionary relief for aliens deportable because they 
+‘ committed two or more crimes of moral turpitude under 
+INA § 237(a)(2)(A)(ii). Compare 8 U.S.C. § 1182(c) as 
+amended by AEDPA § 440(d) with 8 U.S.C. § 1229b 
+(1999). 
+
+
+This complex statutory history applies to St. Cyr as 
+follows: when St. Cyr pled guilty to drug trafficking i in 
+March of 1996, he was deportable under the immigra- 
+tion laws as an alien convicted of a drug-related offense 
+which constituted an aggravated felony as defined 
+under the INA. See 8 U.S.C. § 1251(a)(2)(B)(i) (1994); 8 
+U.S.C. § 1251(a)(2)(A)(iii) (1994); 8 U.S.C. § 1101(a)(43). 
+At the time he pled guilty to the deportable offense, he 
+was eligible to apply for a waiver of deportation under 
+§ 212(c) of the INA. On April 24, 1996, before removal 
+proceedings were commenced against St. Cyr, AEDPA 
+§ 440(d) was enacted, making aliens such as he ineligible 
+to apply for a § 212(c) waiver. By April 10, 1997, the 
+date that removal proceedings against St. Cyr were 
+commenced, INA § 212(c) relief had been repealed by 
+ITRIRA § 304(b) and replaced by “cancellation of re- 
+
+
+12a 
+
+
+moval” in § 304(a). St. Cyr was ineligible to apply for 
+“cancellation from removal” by its terms because he 
+was convicted of an aggravated felony. See 8 U.S.C. 
+§ 1101(a)(43). Thus, if either AEDPA § 440(d) or 
+IIRIRA § 304 apply to this case, as the INS argues, St. 
+Cyr is removable because he pled guilty to a deportable 
+offense and is statutorily ineligible to apply to the BIA 
+for discretionary relief from deportation. 
+
+
+B. Retroactivity. 
+
+
+Our analysis of whether AEDPA § 440(d) and 
+IIRIRA § 304 (referred to collectively as “the bar to 
+relief”) apply to removal proceedings against an alien 
+who pled guilty to a deportable crime before the date of 
+IIRIRA’s enactment is governed by the legal principles 
+announced by the Supreme Court in its landmark de- 
+cisions, Landgraf v. USI Film Prod., 511 U.S. 244 
+(1994) and Hughes Aircraft Co. v. United States ex rel. 
+Schumer, 520 U.S. 939, 117 S. Ct. 1871, 188 L.Ed.2d 135 
+(1997). The Supreme Court directs that we begin 
+with the “presumption . . . deeply rooted in our 
+jurisprudence,” against the retroactive application of 
+legislation. Landgraf, 511 U.S. at 265; Hughes Aircraft, 
+520 U.S. at 946 (quoting Landgraf). This “principle that 
+the legal effect of conduct should ordinarily be assessed 
+under the law that existed when the conduct took place 
+has timeless and universal appeal.” Landgraf, 511 U.S. 
+at 265 (quoting Kaiser Aluminum & Chem. Corp. v. 
+Bonjorno, 494 U.S. 827, 855, 110 S. Ct. 1570, 108 
+L.Ed.2d 842 (1990) (Scalia, J., concurring)). “Elemen- 
+tary considerations of fairness dictate that individuals 
+should have an opportunity to know what the law is and 
+to conform their conduct accordingly; settled expecta- 
+tions should not be lightly disrupted.” Jd. Application 
+of this presumption requires that statutes are not 
+
+
+13a 
+
+
+afforded retrospective effect unless “Congress has 
+clearly manifested its intent to the contrary.” Hughes 
+Aircraft, 520 U.S. at 946. 
+
+
+The Supreme Court in Landgraf provided the 
+following framework for determining whether a law 
+should apply to cases where the underlying conduct 
+occurred prior to enactment: 
+
+
+When a case implicates a federal statute enacted 
+after the events in suit, the court’s first task is to 
+determine whether Congress has expressly pre- 
+scribed the statute’s proper reach. If Congress has 
+done so, of course, there is no need to resort to 
+judicial default rules. When, however, the statute 
+contains no such express command, the court must 
+determine whether the new statute would have 
+‘retroactive effect, i.e, whether it would impair 
+rights a party possessed when he acted, increase a 
+party’s liability for past conduct, or impose new 
+duties with respect to transactions already com- 
+pleted. If the statute would operate retroactively, 
+our traditional presumption teaches that it does not 
+govern absent clear congressional intent favoring 
+such a result. | 
+
+
+Id. 511 U.S. at 280. Landgraf therefore contemplates a 
+two-step inquiry: (1) whether Congress prescribed the 
+statute’s temporal reach and, if not, (2) a determination 
+whether retrospective application would have a “retro- 
+active effect.” If application of the statute to the con- 
+duct at issue would have a retroactive effect, “then, in 
+keeping with our ‘traditional presumption’ against re- 
+troactivity, we presume that the statute does not apply 
+to that conduct.” Martin v. Hadix, 527 U.S. 3438, 352, 
+
+
+l4a 
+
+
+119 S. Ct. 1998, 144 L.Ed.2d 347 (1999) (quoting 
+Landgraf, 511 U.S. at 280). 
+
+
+1. Congressional Intent. 
+
+
+Our first step under J andgraf is to determine, using 
+ordinary tools for statutory interpretation, whether 
+Congress expressly prescribed that AEDPA § 440(d) 
+and IIRIRA § 304 should be applied to rem val pro- 
+ceedings involving convictions entered prior to its 
+enactment. See 511 U.S. at 280. In Henderson v. INS, 
+157 F.3d 106, 129-30 (2d Cir. 1998), cert. denied, Reno v. 
+Navas, 526 U.S. 1004, 119 S. Ct. 1141, 148 L.Ed.2d 209 
+(1999), we analyzed whether AEDPA § 440(d) applied 
+to deportation proceedings pending on the date of 
+enactment. Our analysis ended after the first Landgraf 
+step because there existed “abundant direct evidence 
+-that the section was not intended to apply retro- 
+actively” to deportation proceedings pending on the 
+date of enactment. See id. at 129. Our decision that 
+Congress clearly intended that AEDPA § 440(d) not 
+apply to aliens for whom deportation proceedings had, 
+on the date of AEDPA’s enactment, already com- 
+menced, was in accord with the majority of U.S. Courts 
+of Appeals to consider the same question. See Magana- 
+Pizano v. INS, 200 F.3d 608, 611 (9th Cir. 1999); Pak v. 
+Reno, 196 F.3d 666, 675-76 (6th Cir. 1999); Shah v. 
+Reno, 184 F.3d 719, 724 (8th Cir. 1999); Mayers v. INS, 
+175 F.3d 1289, 1303-04 (11th Cir. 1999); Goncalves v. 
+Reno, 144 F.3d 110, 133 (ist Cir. 1989), cert. denied, 
+Reno v. Goncalves, 526 U.S. 1004, 119 S. Ct. 1140, 143 
+L.Ed.2d 208 (1999); Sandoval v. Reno, 166 F.3d 225, 
+241-42 (3d Cir. 1999); LaGuerre v. Reno, 164 ¥.3d 1035, 
+1040-41 (7th Cir. 1998), cert. denied, Reno v. LaGuerre, 
+— US. —, 1208S. Ct. 1157, 145 L.Ed.2d 1069 (2000). 
+
+
+15a 
+
+
+The specific issue raised in this case, however, is not 
+whether the bar to relief applies to pending removal 
+proceedings but whether it bars an alien who pled 
+guilty to the deportable crime before the AEDPA or 
+IIRIRA’s effective date from applying for a waiver. 
+The question whether Congress intended AEDPA 
+§ 440(d) to apply to removal proceedings against an 
+alien ordered removed because of a pre-enactment con- 
+viction or criminal conduct has been much discussed in 
+numerous published opinions of district courts and 
+
+
+courts of appeals. When the past conduct under the - 
+
+
+Landgraf analysis changes from the commencement of 
+removal proceedings to the conviction or criminal con- 
+duct, the majority of courts of appeals that have con- 
+sidered AEDPA § 440(d) conclude that Congress’s 
+intent whether to apply the law retrospectively is 
+ambiguous. See Mattis v. Reno, 212 F.3d 31, 36 (1st Cir. 
+2000); Tasios v. Reno, 204 F.3d 544, 550 (4th Cir. 2000); 
+Magana-Pizano, 200 F.3d at 612; Requena-Rodriquez v. 
+Pasquarell, 190 F.3d 299, 307-8 (5th Cir. 1999); 
+DeSousa v. Reno, 190 F.3d 175, 186-87 (3d Cir. 1999); 
+Jurado-Gutierrez v. Greene, 190 F.3d 1135, 1150 (10th 
+Cir. 1999), cert. denied Palaganas-Suarez v. Greene, 
+—__, US.__,__ U.S. __, 120S. Ct. 1589, 146 L.Ed.2d 
+352 (2000); Turkhan v. Perryman, 188 F.3d 814, 826 
+(7th Cir. 1999). We agree with the majority of courts 
+that have held that Congress’s intent whether to apply 
+AEDPA § 440(d) to pre-enactment convictions 
+is ambiguous and because the question has been 
+thoroughly analyzed in the foregoing opinions, we do 
+not set forth our own detailed analysis of AEDPA 
+
+
+§ 440(d). 
+
+
+We turn now to IIRIRA § 304(b). The INS argues 
+that, unlike AEDPA § 440(d), Congress provided 
+
+
+; 
+
+
+16a 
+
+
+specific “statutory guidance” in IIRIRA § 309(a) as to 
+whether IIRIRA § 304 reaches back to bar an alien who 
+pled guilty to a deportable crime before the effective 
+date of IIRIRA. IIRIRA § 309(a) provides that the 
+new rules added by IIRIRA §§ 301-308, including 
+IIRIRA’s repeal of § 212(c) relief and substitution of 
+cancellation of removal relief contained in IIRIRA 
+§ 304(a), apply to an alien covered by the rules unless 
+that alien is currently in removal proceedings. See 
+IIRIRA § 309(a), 110 Stat. at 3009-625 (new rules apply 
+except to “an alien who is in exclusion or deportation 
+proceedings as of [April 1, 1997]”). Thus, according to 
+the INS, Congress indicated that IIRIRA’s permanent 
+rules, including § 304, apply in cases such as St. Cyr’s 
+that are commenced after April 1, 1997. 
+
+
+We disagree that IIRIRA’s general effective date 
+provision set forth in IIRIRA § 309(a) demonstrates 
+that Congress carefully considered whether the repeal 
+of the only opportunity for relief from removal should 
+bar that relief for an alien who pled guilty prior to 
+IIRIRA’s enactment to the crime rendering him or her 
+removable. In Landgraf, the Supreme Court noted that 
+a provision stating that “[a] statute will become effec- 
+tive on a certain date does not even arguably suggest 
+that it has any application to conduct that occurred at 
+an earlier date.” 511 U.S. at 257. Although the lan- 
+guage in IIRIRA § 309(a) is arguably more direct than 
+a typical effective date provision, it is not precise 
+enough to mandate retroactive application of IIRIRA 
+§ 304 under the first step of the Landgraf inquiry. 
+“(Tjhe only presumption mentioned in [Landgraf] is a 
+
+
+.general presumption against retroactivity,” Hughes 
+
+
+Aircraft, 520 U.S. at 950. Accordingly, in its post- 
+Landgraf decisions, the Supreme Court has indicated 
+
+
+17a 
+
+
+that a “heightened level of clarity” is required to justify 
+the retroactive application of a law that implicates past 
+conduct. See Salahuddin v. Mead, 174 F.8d 271, 275 (2d 
+Cir. 1999) (citing Lindh v. Murphy, 521'U.S. 320, 328 
+n.4, 117 S. Ct. 2059, 1388 L.Ed.2d 481 (1997); Hughes 
+Aircraft, 520 U.S. at 946 (1997)). Therefore, Congress 
+must have used statutory language that can “sustain 
+only one interpretation” in order to make IIRIRA § 304 
+retroactive to pre-enactment guilty pleas. See Lindh, 
+521 U.S. at 328 n.4. We shall not infer from the general 
+language contained in IIRIRA § 309(a), making § 304 
+effective in pending proceedings, that Congress also 
+intended the bar to discretionary relief to apply to pre- 
+enactment guilty\ pleas, an application that we hold 
+today has an impermissible retroactive effect. See infra 
+at Section IIB(2). 
+
+
+An examination of other IIRIRA provisions demon- 
+strates that despite the general effective date pro- 
+vision, Congress made sure to use specific language, 
+capable of only one interpretation, when it clearly 
+intended a provision to apply to past conduct relevant 
+to the particular provision. See, é.g., IIRIRA § 321(c), 
+110 Stat. at 3009-628 (providing that amended defini- 
+tion of “aggravated felony” applies regardless of “when 
+the conviction occurred”) (emphasis added); IIRIRA 
+§ 322(c), 110 Stat. at 3009-629 (providing that new de- 
+finitions of “conviction” and “term of imprisonment” 
+shall apply “to convictions and sentences entered be- 
+fore, on, or after the date of the enactment of this Act”) 
+(emphasis added); IIRIRA § 324(c), 110 Stat: at 3009- 
+629 (providing that provision governing re-entry of 
+deported aliens applies to “departures that occurred 
+before, on, or after the date of enactment” of IITRIRA) 
+(emphasis added); IIRIRA § 347(c), 110 Stat. at 3009- 
+
+
+18a 
+
+
+639 (providing that provision rendering an alien deport- 
+able because he or she voted in violation of the law is 
+applicable to “voting occurring before, on, or after the 
+date of the enactment of this Act.”) (emphasis added). 
+Indeed, that Congress knew how to explicitly make an 
+IIRIRA provision applicable to “convictions and sen- 
+tences entered before, on, or after the date of the 
+enactment of the Act,” is demonstrated by IIRIRA 
+§ 321(c) and IIRIRA § 322(c). Because Congress made 
+some provisions specifically applicable to prior con- 
+victions but did not do so in regard to IIRIRA § 304, it 
+appears that Congress did not definitively decide the 
+issue of § 304’s retroactive application to pre-enactment 
+convictions. 
+
+
+The INS notes that the removal ground underlying 
+St. Cyr’s proceedings, made applicable by IIRIRA, 
+renders aliens subject to removal proceedings if they 
+were “convicted of an aggravated felony at any time 
+after admission.” 8 U.S.C. § 1227(a)(2)A)(iii) (1999) 
+(emphasis added). The INS argues that the use of past- 
+tense language to qualify the timing of a deportable 
+conviction shows that Congress clearly intended that 
+an alien, such as St. Cyr, who committed his or her 
+crime and was convicted prior to IIRIRA’s April 1, 
+1997, effective date would become subject to removal 
+proceedings in which § 212(c) relief is no longer avail- 
+able. 
+
+
+We are not persuaded that the use of the past tense 
+in INA § 237 is an indication that Congress intended 
+IIRIRA § 304 to apply retrospectively. A similar argu- 
+ment was considered and rejected by the Supreme 
+Court in Martin v. Hadix, 527 U.S. at 354-55. There, 
+the Court considered the retroactivity of the Prison 
+
+
+19a 
+
+
+Litigation Reform Act of 1995 (“PLRA”), 42 U.S.C. 
+§ 1997e(d)(3), which limited the fees available to 
+prisoners’ attorneys who were monitoring prisons post- 
+judgment. See Martin, 527 U.S. at 347. The petitioners 
+argued that the language of § 803(d)(1)—"[iJn any 
+action brought by a prisoner who is confined [to a 
+correctional facility] . . . attorney’s fees . . . shall not 
+be awarded”—clearly expressed a congressional intent 
+that § 803(d) apply to pending cases. Id. at 2003-4 
+(emphasis added). The Court rejected the argument 
+that Congress’s use of a past-tense verb clearly indi- 
+cated Congress’s intent that the provision apply to 
+pending cases. The Court reasoned that § 803(d)(1) 
+“define[s] the substantive availability of attorney’s fees; 
+[it] [does] not purport to define the temporal reach of 
+these substantive limitations.” Jd. at 354. Thus, the 
+Court concluded that the language fell short of dem- 
+onstrating a clear congressional intent to apply § 803(d) 
+retrospectively to pending cases and that had Congress \ 
+intended the provision to apply to all fee orders, in- 
+cluding those compensating work performed before the 
+effective date, “it could have used language more obvi- 
+ously targeted to addressing the temporal reach of that 
+section.” Id. | 
+
+
+Under the reasoning of Martin, the use of a past- 
+tense verb in INA § 237(a)(2)(iii) is not dispositive of 
+Congress’s intent to apply IIRIRA § 304 retroactively 
+to pre-enactment convictions. The language “convicted 
+of an aggravated felony” in INA § 237(a)(2)(iii) is used 
+to describe the substantive availability for removal 
+from the United States. It is not used to describe the 
+retrospective application of IIRIRA § 304. We there- 
+fore cannot and will not rely on the text of INA 
+§ 237(a)(2)(A)iii) to hold that IIRIRA § 304 applies.in_ 
+
+
+20a 
+
+
+cases where an alien pled guilty to the underlying 
+deportable crime prior to IIRIRA’s enactment. 
+
+
+This is not to say that the INS’s argument is not 
+sophisticated. In Salahuddin, this Court relied on a 
+similarly formulated argument to hold that Congress 
+clearly intended that a statute be applied prospectively. 
+174 F.3d at 274-75. In that case, the appellant 
+argued that the exhaustion requirement of 42 U.S.C. 
+§ 1997e(a), as amended by the PLRA, should not apply 
+to an action pending at the time of its enactment. See 
+id. at 272. Because the new provision provided that no 
+action “shall be brought” until administrative remedies 
+are exhausted, we concluded that a plain reading of the 
+statute made it clear that Congress intended it to be 
+applied prospectively. Jd. at 274. We reasoned there 
+that the use of the future tense in the provision was 
+sufficient evidence of Congress’s intent to apply the 
+statute prospectively. Seeid. at 274-75. An inter- 
+pretation that supports the application of a statute 
+prospectively, however, does not justify its retroactive 
+application. See id. at 275 (distinguishing between 
+interpretations justifying prospective and retroactive 
+applications); see also Goncalves, 144 F.3d at 129 (refus- 
+ing to require that Congress draft an explicit effective 
+date provision to insure against retroactive application 
+because that rule would reflect a presumption in favor 
+of retroactive application). The longstanding presump- 
+tion is against, not in favor of, the retroactive appli- 
+cation of a statute to pre-enactment conduct. See 
+Landgraf, 511 U.S. at 265. Were we to infer from the 
+sole use of a tense that Congress intended the IIRIRA 
+§ 304 bar to apply to past conduct, we would reverse 
+this established presumption. Therefore, although we 
+interpreted a 42 U.S.C. § 1997e(a) in Salahuddin to 
+
+
+21a 
+
+
+apply prospectively based on the use of future tense 
+-phraseology, the presumption against retroactive appli- 
+cation requires a more explicit statement from Con- 
+gress to interpret IIRIRA § 304 to apply retroactively.® 
+
+
+In sum, we conclude that there is no clear evidence 
+that Congress considered and decided whether IIRIRA 
+§ 304’s bar to relief from removal applies retrospec- 
+tively to removal proceedings commenced after 
+IIRIRA’s enactment against an alien who pled guilty to 
+the underlying criminal conduct before its enactment. 
+The requirement that Congress “first make its inten-. 
+tion clear helps ensure that Congress itself has deter- 
+mined that the benefits of retroactivity outweigh the 
+potential for disruption or unfairness.” Landgraf, 511 
+
+
+® St. Cyr, relying on a brief submitted in the consolidated cases, 
+Calcano-Martinez v. INS, Civ. Nos. 99-4033; 98-4214; 98-4246 (2d 
+Cir. [Sept. 1, 2000]), agrees that IIRIRA lacks an express directive 
+that the statute apply retrospectively and contends that IIRIRA 
+reveals Congress’s explicit intent that “cancellation of removal” be 
+applied only to those cases involving post-enactment convictions. 
+According to St. Cyr, the absence of specific retrospective lan- 
+guage in IIRIRA § 304, when such language is used in other 
+IIRIRA provisions, requires the court to infer by negative impli- 
+cation that Congress clearly intended IIRIRA § 304 to apply 
+prospectively. We disagree. The provisions for which Congress 
+expressly provided a retroactive temporal reach cover distinct 
+subject matters that are too dissimilar to the-availability of dis- 
+cretionary relief to support a negative inference in favor of pro- 
+spective application of IIRIRA § 304. See Martin, 527 U.S. at 356- 
+57. In addition, the effective date provision in IIRIRA § 309(a), 
+although it does not make IIRIRA § 304 retroactive to pre-enact- 
+ment convictions, does render Congressional intent ambiguous. 
+Therefore, we decline to infer from this lack of guidance that Con- 
+gress intended IIRIRA § 304 to apply only prospectively and hold 
+that Congress’s intent as to the section’s temporal reach is ambig- 
+
+
+uous. 
+
+
+22a 
+
+
+U.S. at 268. The statutory language does not convince 
+us, and the INS has pointed to no legislative history in 
+support of the conclusion, that Congress specifically 
+considered the precise issue whether IIRIRA § 304 
+should be applied to an alien who rendered a pre-enact- 
+ment guilty plea. Therefore, we hold Congress’s intent 
+with respect to the application of IIRIRA § 304 to pre- 
+enactment convictions is unclear.° 
+
+
+2. Retroactive Effect. 
+
+
+Having concluded that no clear congressional intent 
+exists as to whether AEDPA § 440(d) or IIRIRA § 304 
+
+
+° In some cases, the interest in avoiding constitutional ques- 
+tions will cause a court to refrain from applying a statute retro- 
+actively. See Landgraf, 511 U.S. at 267 n.21 (citing Pension 
+Benefit Guar. Corp. v. R.A. Gray & Co., 467 U.S. 717, 730, 104 S. 
+Ct. 2709, 81 L.Ed.2d 601 (1984); Usery v. Turner Elkhorn Mining 
+Co., 428 U.S. 1, 17, 96 S. Ct. 2882, 49 L.Ed.2d 752 (1976)). Our 
+holding in this case is guided, in part, by that principle. Even when 
+Congress clearly intends that legislation is to be applied to past 
+conduct, Congress’s broad power to enact retroactive legislation 
+does not go completely unchecked. The Fifth Amendment’s Due 
+Process Clause places a narrow limit on Congress’s power to 
+sweep away citizens’ settled expectations under the law. The 
+Constitution’s safeguard against retroactivity is especially appro- 
+priate where it protects an unpopular group or individual. See 
+Landgraf, 511 U.S. at 266; Pottinger, 51 F. Supp. 2d at 361 (the 
+presumption against retroactivity “reflects our enduring commit- 
+ment to the protection of the unpopular and the voiceless from 
+the retributive and vindictive use of retroactive legislation.”). 
+Because, in our view, a profound constitutional question would 
+arise under the Fifth Amendment’s Due Process Clause were we 
+to interpret IIRIRA as precluding the availability of § 212(c) relief 
+in cases where an alien pled guilty or nolo contendere in reliance on 
+the availability of § 212(c) relief, our ruling today that IIRIRA 
+§ 304 does not apply retroactively to pre-enactment guilty pleas 
+avoids this result. 
+
+
+23a 
+
+
+apply to an alien who pled guilty to a removable crime 
+prior to the statute’s enactment, we must determine 
+whether a bar to relief has any retroactive effect. See 
+Landgraf, 511 U.S. at 280; Hughes Aircraft, 520 U.S. at 
+946. “A statute does not operate ‘retrospectively’ 
+merely because it is applied in a case arising from 
+conduct antedating the statute’s enactment.” Land- 
+graf, 511 U.S. at 269. Rather, our inquiry requires a 
+“common sense, functional judgment” to determine 
+“whether the new provision attaches new legal conse- 
+quences to events completed before its enactment.” 
+Martin, 527 U.S. at 357-58 (quoting Landgraf, 511 U.S. 
+at 270). A statute that “would impair rights a party 
+possessed when he acted, increase a party’s liability for 
+past conduct, or impose new duties with respect to 
+transactions already completed” has retroactive effect. 
+Landgraf, 511 U.S. at 280. 
+
+
+We are the first U.S. Court of Appeals to consider 
+whether applying IIRIRA § 304 to pre-enactment con- 
+victions is impermissibly retroactive. A number of 
+our sister courts, however, have considered the similar 
+question of whether the scope of AEDPA § 440(d) 
+extends to deportation proceedings that involve con- 
+victions or guilty pleas that occurred prior to the 
+AEDPA’s enactment. The Tenth, Fifth, and Third Cir- 
+cuits have analyzed whether AEDPA § 440(d) was 
+retroactive as applied to aliens whose criminal convic- 
+tions occurred prior to the AEDPA’s effective date. 
+See Jurado-Gutierrez, 190 F.3d at 1147; Requena- 
+Rodriquez, 190 F.3d at 306; DeSousa, 190 F.3d at 
+185. Having found that Congressional intent to apply 
+AEDPA § 440(d) retrospectively was ambiguous, these 
+Courts, adopting the INS’s position, determined that 
+there existed no impermissible retroactive effect in 
+
+
+24a 
+
+
+applying AEDPA § 440(d) to pre-enactment convic- 
+tions. See Jurado-Gutierrez, 190 F.3d at 1150-52; 
+Requena-Rodriquez, 190 F.3d at 307-8; DeSousa, 190 
+F.3d at 187. 
+
+
+In three very recent cases, the First, Fourth, and 
+Ninth Circuits had occasion to consider specifically 
+whether AEDPA § 440(d) reached backward to cover a 
+pre-enactment guilty or nolo contendere plea to an 
+otherwise qualifying offense. See Mattis, 212 F.3d at 
+37; Tasios, 204 F.3d at 551; reh’g en banc denied, Tasios 
+v. Reno, No. 99-6061 (9th Cir.) (May 25, 2000); Magana- 
+Pizano, 200 F.3d at 612. In these cases, the relevant 
+conduct for the retroactive determination was specifi- 
+cally a guilty or nolo contendere plea. The Fourth Cir- 
+cuit concluded that application of AEDPA § 440(d)’s 
+bar on discretionary relief previously afforded by INA 
+§ 212(c) to guilty pleas made before the AEDPA’s 
+enactment “would upset reasonable, settled expecta- 
+tions and change the legal effect of prior conduct.” 
+Tasios, 204 F.3d at 552. Accordingly, that Circuit 
+adopted a blanket rule that AEDPA § 440(d) does 
+not apply retroactively. See id. The First and Ninth 
+Circuits, adopting a middle ground, determined that 
+AEDPA § 440(d) should not apply to an alien who can 
+make a specific showing that he or she entered a guilty 
+or nolo contendere plea in reliance upon the relief 
+afforded by INA § 212(c). See Mattis, 212 F.3d at 39-40; 
+Magana-Pizano, 200 F.3d at 613-14. 
+
+
+Finally, the Seventh Circuit has developed an ap- 
+proach that is in accord with the decisions of the First 
+and Ninth Circuits. It has announced a general rule 
+that AEDPA § 440(d)’s bar on INA § 212(c)’s discre- 
+tionary relief applies retroactively to pre-enactment 
+
+
+25a 
+
+
+guilty pleas. See LaGuerre, 164 F.3d at 1041; Turkhan, 
+188 F.3d at 827. It has also, however, identified a parti- 
+cular set of circumstances where applying AEDPA 
+§ 440(d) to past conduct would have an impermissible 
+retroactive effect. Under the law of the Seventh 
+Circuit, AEDPA § 440(d) applies retrospectively unless 
+an alien actually had conceded deportability, despite a 
+colorable defense, in reliance upon receiving a § 212(c) 
+waiver. See Turkhan, 188 F.3d at 827; Morales- 
+Ramirez v. Reno, 209 F.3d 977, 982 (7th Cir. 2000). 
+
+
+We conclude that AEDPA § 440(d) and IIRIRA § 304 
+as applied to a guilty or nolo contendere plea that pre- 
+-dates the statutes’ enactment has an impermissible 
+retroactive effect. In so holding, we follow the reason- 
+ing of the Fourth Circuit in Tasios v. Reno that such an 
+application of the bar to relief would upset settled 
+expectations and change the legal effect of prior con- 
+duct. 
+
+
+As an initial matter, we note that it is difficult to 
+argue that barring eligibility for discretionary relief 
+on the basis of pre-enactment criminal conduct—as 
+opposed to a plea going to the guilt of a deportable 
+crime—constitutes an impermissible retroactive appli- 
+cation of a statute. Indeed, we agree that, 
+
+
+It would border on the absurd to argue that these 
+aliens might have decided not to commit drug 
+crimes, or might have resisted conviction more vig- 
+orously, had they known that if they were not only 
+imprisoned but also, when their prison term ended, 
+ordered deported, they could not ask for a discre- 
+tionary waiver of deportation. 
+
+
+26a 
+
+
+Jurado-Gutierrez, 190 F.3d at 1150-51 (quoting La- 
+Guerre, 164 F.3d at 1041). Thus, we conclude that the 
+bar to discretionary relief applies regardless of whether 
+a legal permanent alien’s underlying criminal conduct 
+
+
+pre-dated the AEDPA or IIRIRA. 
+
+
+However, in Hughes Aircraft, the Supreme Court 
+conducted a retroactivity analysis that was not focused 
+solely on the petitioner’s primary conduct, but also on 
+the relevant secondary conduct. See 520 U.S. at 947-48. 
+Furthermore, “it is the conviction, not the underlying 
+criminal act, that triggers the disqualification from 
+
+
+§ 212(c) relief.” Mattis, 212 F.3d at 37. Thus, in _ 
+
+
+considering whether the changes to the availability of 
+discretionary relief would alter the legal effect of 
+conduct that predates the AEDPA and IIRIRA’s 
+enactment, our analysis focuses on the decision to 
+enter a guilty plea to a crime—not on the criminal 
+conduct—that qualifies the alien for removal under the 
+immigration laws. 
+
+
+A “legal change that would have an impact on private 
+parties’ planning” triggers the presumption against 
+retroactivity. See Landgraf, 511 U.S. at 282-83. A 
+number of courts have documented that “an alien 
+charged with a crime [making him eligible for deporta- 
+tion] would factor the immigration consequences of 
+conviction in deciding whether to plead or proceed to 
+trial... .” Tasios, 204 F.3d at 552 (quoting Magana- 
+Pizano, 200 F.3d at 612); see also Pottinger v. Reno, 51 
+F. Supp. 2d. 349, 362-63 (E.D.N.Y. 1999); Wallace v. 
+Reno, 24 F. Supp. 2d 104, 110 (D. Mass. 1998), aff’d 194 
+F.3d 279 (1st Cir. 1999); Mojica v. Reno, 970 F.Supp. 
+130, 177 (E.D.N.Y. 1997), affd in part, dismissed in 
+part, Henderson v. INS, 157 F.3d 106 (2d Cir. 1998); 
+
+
+27a 
+
+
+Reyes-Hernandez v. INS, 89 F.3d 490, 492 (7th Cir. 
+1996). 
+
+
+As the Amici’ in this case demonstrate, a legal re- 
+sident who is charged with a crime that renders him 
+removable from the United States carefully considers 
+the immigration consequences of his or her conviction 
+- and, specifically, the availability of discretionary relief 
+from removal. It is not unreasonable to attribute 
+knowledge of the availability of relief to a legal resident 
+because it is a common requirement that defense 
+counsel and the court advise a criminal defendant of the 
+immigration consequences of a guilty plea. Addi- 
+tionally, an attorney’s professional duty to his or her 
+client includes advising that client of the immigration 
+consequences of a plea or conviction. See Magana- 
+Pizano, 200 F.3d at 612; see also ABA Standards for 
+Criminal Justice, Pleas of Guilty, Standard 14-3.2, com- 
+mentary at 75 (2d ed. 1982) (providing that where it is 
+apparent that a defendant faces deportation as a 
+result of conviction, counsel “should fully advise the 
+defendant of these consequences.”); National Legal Aid 
+and Defender Association Performance Guidelines for 
+Criminal Defense Representation, Guideline 6.2(a)(3) 
+and commentary (1994) (recognizing that it is defense 
+counsel’s duty to “be fully aware of, and make sure that 
+the client is fully aware of . . . consequences of 
+conviction such as deportation.”). A criminal defense 
+law treatise provides that: 
+
+
+” In regard to this point, Amici include The Legal Aid Society 
+of the City of New York, The New York State Association of 
+Criminal Defense Lawyers, and the New York State Defenders 
+Association. These briefs were submitted in Calcano-Martinez v. 
+INS, Civ. Nos. 99-4083; 98-4214; 98-4246 (2d Cir. 2000). 
+
+
+28a 
+
+
+Preserving the client’s right to remain in the United 
+States may be more important to the client than any 
+potential jail sentence. Thus, the immigration 
+consequences of a prosecution may totally alter the 
+strategies chosen . . . a[ny] attorney who suspects 
+that this client is an alien has a duty to inquire and 
+to protect his client’s immigration status. Pleas and 
+admissions must be approached with caution and 
+with knowledge of the consequences. . . . 
+
+
+3 Bender’s Criminal Defense Techniques (1999) 
+§ 60A.01 and § 60A.2[2]. Furthermore, lawful perma- 
+nent residents are typically part of a resident alien 
+community and are likely aware of what happens to 
+other members of the community who engage in 
+criminal conduct. See Pottinger, 51 F. Supp. 2d at 363. 
+
+
+There is also little doubt that before the AEDPA and 
+IIRIRA were enacted, an alien’s reliance on the possi- 
+bility of receiving a waiver of deportation was reason- 
+able because there was a strong possibility that he or 
+she would receive relief. See Tasios, 204 F.3d at 551 
+(“in the years immediately preceding the enactment of 
+AEDPA, immigration judges and the BIA granted over 
+half of the § 212(c) applications they decided”). When 
+a request was denied, an alien could petition a court of 
+appeals for review and, “on a nontrivial number of 
+occasions,” these denials were overturned. See id. at 
+551-52 (quoting Reyes-Hernandez, 89 F.3d at 492). 
+
+
+When, in March of 1996, St. Cyr pled guilty to his 
+drug-trafficking offense, he and legal residents in his 
+position were removable from the United States. He 
+and others like him, however, could depend on the 
+availability of a hearing to determine his eligibility for 
+
+
+29a 
+
+
+relief from removal. Given the dramatic impact re- 
+mova! would have on a legal resident’s life, it is likely 
+that a legal resident would, because of the possibility of 
+receiving a lighter sentence, only decide to concede 
+guilt to a crime that renders him or her removable in 
+order to be eligible to apply for relief from removal. 
+Under the law today, this settled expectation is upset 
+dramatically. For certain classes of aliens, there is 
+currently no reason to forgo fighting the conviction of a 
+qualifying crime and enter a plea because, pursuant to 
+the AEDPA and IIRIRA, there is no possibility of 
+relief from removal as a result of the plea. 
+
+
+“(Individuals should have an opportunity to know 
+what the law is and to conform their conduct accord- 
+ingly.” Landgraf, 511 U.S. at 265. Because there is 
+sufficient evidence that a legal resident accused of a 
+crime that renders him or her removable from this 
+country would have conformed his or her conduct ac- 
+cording to the availability of relief when he or she pled 
+guiity, AEDPA § 440(d) and IIRIRA § 304 would 
+severely upset settled expectations were it applied 
+retroactively to pre-enactment guilty pleas. A repeal of 
+the eligibility to apply for relief from removal would 
+attach new legal consequences to a legal resident’s 
+guilty plea to a removal crime. Therefore, AEDPA 
+§ 440(d) and IIRIRA § 304 have an impermissible 
+retroactive effect as applied to pre-enactment guilty 
+pleas. 
+
+
+We are not persuaded that, as the INS argues, be- 
+cause the bar to relief can be described as a new 
+jurisdictional rule—in that it gives the Attorney 
+General jurisdiction to grant a waiver in her discretion 
+—it automatically has no retroactive effect. It is true 
+
+
+30a 
+
+
+that a change in law that “speak[s] to the power of the 
+court rather than to the rights or obligations of the 
+parties” may be applied in a case without raising con- 
+cerns that it is impermissibly retroactive. Landgraf, 
+511 U.S. at 274 (quoting Republic Nat'l Bank of Miami 
+v. United States, 506 U.S. 80, 100, 118 S. Ct. 554, 121 
+L.Ed.2d 474 (1992) (Thomas, /. concurring). In Hughes 
+Aircraft, however, the Supreme Court explained that a 
+jurisdictional statute that does not “merely address [ ] 
+which court shall have jurisdiction to entertain a parti- 
+cular cause of action” but, rather, affects “whether [a 
+claim] may be brought at all” should not presumptively 
+be given retroactive effect. 520 U.S. at 951. AEDPA 
+§ 440(d) and IIRIRA § 304 do not merely change the 
+degree of deference to be afforded a § 212(c) request or 
+change the judicial or administrative forum in which 
+relief may be granted. Rather, they alter the sub- 
+stantive rights of aliens subject to removal proceedings 
+because it eradicates a form of relief previously avail- 
+able. By their terms, AEDPA § 440(d) and IIRIRA 
+§ 304 attach new substantive legal consequences to a 
+guilty or nolo contendere plea to a deportable crime and 
+would have an impermissible retroactive effect if ap- 
+plied to pre-enactment pleas. 
+
+
+Our conclusion here is consistent with the law of this 
+Circuit. In Buitrago-Cuesta, we considered a 1990 
+amendment to INA § 212(c) which precluded an alien 
+who had “been convicted of an aggravated felony and 
+has served a term of at least 5 years” from seeking a 
+discretionary waiver from deportability. See 7 F.3d at 
+292. The petitioner in that case argued that because at 
+the time of his conviction his crime was not defined as 
+an “aggravated felony,” the 1990 amendment should not 
+apply to his deportation proceeding commenced prior to 
+
+
+3la 
+
+
+the amendment. See id. We decided that Congress 
+intended that the 1990 amendment be applied retro- 
+spectively. See id. at 295. Since we decided Buitrago- 
+Cuesta, however, the Supreme Court has decided 
+Landgraf, Hughes Aircraft, and Martin, cases that 
+honed retroactivity principles. See id. at 293 (“{at time 
+of decision] [t]he Supreme Court’s position on the retro- 
+activity of civil statutes is somewhat unclear.”). 
+Moreover, the petitioner in Buitrago-Cuesta did not 
+pled guilty to a deportable crime but instead was 
+convicted after a jury trial in state court. See id. at 293. 
+Therefore, our ruling today that the 1996 amendments 
+insofar as they bar relief afforded prior to their 
+enactment have a retroactive effect as applied to pre- 
+enactment guilty pleas—a situation where an alien is 
+likely to strategize according to the availability of 
+discretionary relief—does not contradict our earlier 
+ruling in Buitrago-Cuesta. 
+
+
+The INS’s warning against “an absurd superpro- 
+spective result” is also unfounded. We do not rule 
+today that application of the 1996 amendments to pre- 
+enactment convictions has an impermissible retroactive 
+effect. Rather, we hold that AEDPA § 440(d) and 
+ITRIRA § 304 do not apply to pre-enactment guilty 
+pleas or pleas of nolo contendere because such an appli- 
+cation would upset reasonable, settled expectations and 
+change the legal effect of prior conduct. Our ruling 
+affects the narrow class of cases where an alien pled 
+guilty to a criminal offense that qualifies as a removable 
+crime. Discretionary relief as amended by AEDPA 
+§ 440(d) still applies to all aliens with convictions pre- 
+dating its enactment and to all guilty pleas entered 
+after its effective date. Likewise, cancellation of re- 
+moval still applies to all aliens with convictions pre- 
+
+
+32a 
+
+
+dating IIRIRA and to all guilty pleas entered by aliens 
+to deportable crimes after it took effect. 
+
+
+CONCLUSION 
+
+
+In sum, we hold that the district court had habeas 
+corpus jurisdiction under 28 U.S.C. § 2241 to review St. 
+Cyr’s challenge to the BIA’s interpretation of AEDPA 
+§ 440(d) and IIRIRA § 304. On the merits, we hold 
+that the bar on applying for relief enacted in AEDPA 
+§ 440(d) and IIRIRA § 304 does not apply to an alien 
+who pled guilty or nolo contendere to an otherwise 
+qualifying crime prior to IIRIRA’s enactment date. 
+Because we determine that these laws do not apply 
+retroactively to St. Cyr, we do not decide his consti- 
+tutional challenges. The district court is affirmed 
+insofar as it held that the bar to discretionary relief 
+from removal does not apply to guilty and nolo con- 
+tendere pleas entered before IIRIRA’s enactment. 
+
+
+33a 
+
+
+JOHN M. WALKER, Jr., Circuit Judge, Dissenting: 
+
+
+There is no doubt that it is within Congress’s power 
+to redefine what will subject an alien to removal, see 
+Mathews v. Diaz, 426 U.S. 67, 81, 96 S. Ct. 1883, 48 
+L.Ed.2d 478 (1976), and that Congress may effect such 
+changes to require removal of an alien who would not 
+have been subject to removal before the changes be- 
+came effective,* see United States v. Koziel, 954 F.2d 
+831, 834 (2d Cir. 1992) (upholding retroactive repeal of 
+Judicial Recommendations Against Deportation for 
+certain criminal aliens); Marcello v. Bonds, 349 U.S. 
+302, 314, 75 S. Ct. 757, 99 L.Ed. 1107 (1955) (permitting 
+deportation based on conviction that would not have 
+been a basis for deportation when the crime was com- 
+mitted). Indeed, there is a long tradition of Congress 
+retroactively changing the qualifications for aliens’ con- 
+
+
+* The majority hints that removing 8 U.S.C. § 1182(c¢) 
+(“$ 212(c)”) relief retroactively would raise “a profound consti- 
+tutional question.” Supra at [24 n.6). I share no such concern. 
+
+
+remove § 212(c) relief, as advocated by the INS. I do not dispute 
+the general presumption against the retroactive application of 
+congressional enactments, especially where the rights of “an un- 
+popular group or individual” are affected. Jd. But this is not an 
+issue of constitutional dimension. Accordingly, I share the view of 
+the majority, as expressed in the body of its opinion, that our 
+inquiry here is governed by retroactivity analysis and not by the 
+canon of construction requiring us to avoid constitutional ques- 
+tions. 
+
+
+34a 
+
+
+tinued residence in the United States. See, eg., 
+Harisiades v. Shaughnessy, 342 U.S. 580, 593, 72 S. Ct. 
+512, 96 L.Ed. 586 (1952); Mahler v. Eby, 264 U.S. 32, 39, 
+44 S. Ct. 283, 68 L.Ed. 549 (1924); Bugajewitz v. Adams, 
+228 U.S. 585, 592, 33 S. Ct. 607, 57 L.Ed. 978 (1913). 
+While there is little doubt that Congress may alter the 
+requirements for continued residence in this country, 
+identifying when Congress has chosen to exercise its 
+power retroactively has proven a more difficult pro- 
+blem and it is here that my views diverge from those of 
+my colleagues. 
+
+
+The majority’s opinion has correctly identified the 
+nature of the inquiry that we must undertake. See 
+supra [13a-14a] (quoting Landgraf v. USI Film Prods., 
+511 U.S. 244, 280 (1994)). The threshold question in the 
+Landgraf framework is whether Congress has ex- 
+pressly provided for a statute’s retroactive application. 
+If so, our inquiry is at an end. See id.; Martin v. Hadiz, 
+527 U.S. 343, 352, 119 S. Ct. 1998, 144 L.Ed.2d 347 
+(1999). The majority has found ambiguity in the tem- 
+poral reach of Congress’s repeal of § 212(c) relief for 
+criminal aliens. I disagree. 
+
+
+I believe that Congress’s intent is clear on the face of 
+the statute and that IIRIRA, Pub. L. No. 104-208, 110 
+Stat. 3009-546 et seg. (1996), has removed the avail- 
+ability of § 212(c), or equivalent relief, from criminal 
+aliens like the petitioner here, regardless of when they 
+entered their guilty pleas. This plain congressional 
+intent is evident from IIRIRA’s general statutory 
+framework and its comprehensive method of imple- 
+mentation. See Robinson v. Shell Oil Co., 519 U.S. 337, 
+341, 117 S. Ct. 843, 1386 L.Ed.2d 808 (1997) (“The plain- 
+ness or ambiguity of statutory language is to be deter- 
+
+
+35a 
+
+
+mined by reference to the language itself, the specific 
+context in which that language is used, and the broader 
+context of the statute as a whole.” (emphasis added)). 
+
+
+IIRIRA § 309 fixed April 1, 1997 as IIRIRA’s effec- 
+tive date. See 110 Stat. at 3009-625. While § 309 con- 
+tains a general savings clause listing those aliens for 
+whom IIRIRA does not apply as of its effective date, 
+none of those exceptions are relevant here. See 
+§ 303(b)(2), 110 Stat. at 3009-586; § 242(g¢), 8 U.S.C. 
+§ 1252(g); § 306(c), 110 Stat. at 3009-612; §§ 308(d)(2)(D) 
+& (d)(5), 110 Stat. at 3009-617, 619. Moreover, Con- 
+gress, intending that IIRIRA be a complete break from 
+the past, enacted transitional provisions that would 
+operate during a phase-in period ending on IIRIRA’s 
+effective date. See Calcano-Martinez v. Reno, Civ. 
+Nos. 98-4033, 98-4214, 98-4246, at [50a-54a] (describing 
+ITRIRA’s transitional rules). This legislative scheme of 
+transitional provisions followed by permanent legisla- 
+tion can be reduced to one essential point relevant to 
+IIRIRA’s repeal of § 212(c): Congress intended the 
+whole of IIRIRA’s permanent provisions to apply to 
+every alien as of April 1, 1997, except where it ex- 
+pressly exempted those provisions that were not meant 
+to apply as of that date. The provision repealing 
+§ 212(c) was not one of them. Included in the provisions 
+generally effective as of April 1, 1997 is § 304(b), 
+repealing § 212(c), and § 304(a), replacing § 212(c) with 
+new provisions entitled “Cancellation of Removal.” See 
+§ 304, 110 Stat. at 3009-594-97. The new cancellation of 
+removal proceedings exclude Specified classes of 
+criminal aliens, including the petitioner here, from 
+seeking discretionary relief. 
+
+
+36a 
+
+
+Congress could not have been more express about its 
+intent to have ILRIRA apply to all aliens against whom 
+deportation or removal proceedings were not yet pend- 
+ing as of April 1, 1997. See generally § 309. If, as peti- 
+tioner necessarily concedes, it is IIRIRA and not the 
+old INA that subjects him to removal, then it is 
+IIRIRA’s provisions that provide for the limits of judi- 
+cial review and for cancellation of removal proceedings. 
+I need look no farther to find that Congress made 
+express its intention to disallow the relevant aliens 
+against whom removal proceedings were filed after 
+April 1, 1997 from seeking the protection of-§ 212(c) 
+relief. Because petitioner falls generally within 
+IIRIRA’s provisions, he is subject to IIRIRA’s “Can- 
+cellation of Removal” proceedings—from which, be- 
+cause of his criminal past, he is expressly excluded— 
+and does not have access to § 212(c) relief. 
+
+
+The majority discounts this argument, suggesting 
+that it is based on nothing more than the statute’s 
+effective date and that such reasoning is impermissible 
+because of the pronouncement in Landgraf that “[a] 
+statement that a statute will become effective on a 
+certain date does not even arguably suggest that it has 
+any application to conduct that occurred at an earlier 
+date.” Landgraf, 511 U.S. at 257. But the Court’s 
+statement in Landgraf is inapplicable here. Changes to 
+the Civil Rights Act of 1991, at issue in Landgraf, 
+created new rights of employees “to recover com- 
+pensatory and punitive damages for certain violations 
+of Title VII of the Civil Rights Act of 1964,” id. at 247, 
+and the Court had to decide only whether a Title VII 
+plaintiff whose suit was on appeal when the 1991 Act 
+was enacted should be retroactively entitled to the 
+Act’s punitive damages provisions. In that context, the 
+
+
+37a 
+
+
+fact that the 1991 Act was enacted on November 21, 
+1991 did not help the Court to decide whether it was 
+intended to apply to claims predating the Act. But 
+here, where the entirety of the new IIRIRA applies 
+generally to the petitioner— indeed, if it did not, he 
+would not be subject to removal at all—IIRIRA’s 
+complex provisions governing its effective dates are 
+Squarely relevant to determining the extent of 
+ITRIRA’s application as to him. In my view, these 
+provisions plainly provide that petitioner is not entitled 
+to § 212(c) relief. 
+
+
+The awkward statutory patchwork sewn together by 
+-the majority from scraps of IIRIRA and the former 
+INA reveals Congress could not have intended the ma- 
+jority’s conclusion. The majority’s opinion faces insur- 
+mountable hurdles even on a linguistic level. The peti- 
+tioner here is subject to removal under the new 
+IIRIRA. With this opinion, the majority has permitted 
+petitioner access to a waiver of deportation hearing 
+under § 212(c) that was part and parcel of a statutory 
+scheme that no longer exists. Under IIRIRA, there is 
+no such thing as deportation that can be waived. In 
+order to reach the result they want, the majority has 
+effectively taken a provision that they like from a 
+Statute that has been substantially replaced, and 
+grafted it onto the replacement. 
+
+
+Insofar as the Landgraf presumption against retro- 
+activity is a canon of construction that permits us to 
+divine the intent of Congress, I cannot concur in a 
+conclusion that flies so indisputably in the face of Con- 
+gress’s express denial of cancellation of removal hear- 
+ings for this alien. Combined with what I think are 
+compelling expressions of Congress’s actual intent to 
+
+
+38a 
+
+
+repeal § 212(c) retroactively as to the broader class of 
+criminal aliens described in IIRIRA § 304, I respect- 
+fully dissent from my colleagues’ view that § 304 may 
+only be applied prospectively to pleas antedating 
+IIRIRA’s enactment. 
+
+
+Because Congress’s intent is plain on the face of the 
+statute, I see no reason to reach the second step of the 
+Landgraf analysis which requires us to determine 
+whether IIRIRA’s provisions governing cancellation of 
+removal have genuine retroactive effect. Nevertheless, 
+if I were to reach Landgraf’s second step, I would con- 
+clude that provisions denying cancellation of removal do 
+not operate retroactively. I believe that analysis of this 
+question should be governed by cases arising in the 
+context of the substantially analogous 1990 amendment 
+to the INA. 
+
+
+The 1990 amendment limited the relief afforded by 
+§ 212(c)’s waiver of deportation by excluding aggra- 
+vated felons who were sentenced to terms of imprison- 
+ment of at least five years. In holding that the 1990 
+amendment did not have a retroactive effect, the Ninth 
+Circuit persuasively held that “[clongressional repeal of 
+a discretionary power to relieve an alien from deporta- 
+tion does not attach any new legal consequences to the 
+pre-enactment events.” Samaniego-Meraz v. INS, 53 
+F.3d 254, 256 (9th Cir. 1995). As in the present case, 
+“the consequences of petitioner’s criminal conduct were 
+clear at the time of that conduct and they remain un- 
+changed today. He was subject to possible criminal 
+sanctions and deportation.” Scheidemann v. INS, 83 
+F.3d 1517, 1523 (8d Cir. 199€.. “In general, the concern 
+regarding retroactive application of statutes is the 
+deprivation of rights without notice and fair warning; 
+
+
+39a 
+
+
+such concerns are not present in this case... . In 
+this case, Congress did not attach additional conse- 
+quences [to past criminal activity] but merely withdrew 
+a previously available form of discretionary relief.” Jd. 
+(quoting De Osorio v. INS, 10 F.3d 1034, 1042 (4th Cir. 
+1993)) (alterations in original). True retroactivity 
+would occur if IIRIRA revoked § 212(c) relief from 
+those who had received it prior to IIRIRA’s effective 
+date. IIRIRA § 304(b), like the 1990 amendment, “is 
+not made retroactive merely because it applies to 
+convictions for aggravated felonies before that time. 
+The past aggravated felony conviction is only the pre- 
+requisite for the prospective denial of discretionary 
+relief.” De Osorio, 10 F.3d at 1042. 
+
+
+As of IIRIRA’s April 1, 1997 effective date, Congress 
+plainly changed the category of aliens who thereafter 
+may seek cancellation of removal, and I disagree that 
+the new scheme has a genuinely retroactive effect. 
+Accordingly, I would conclude that the Landgraf pre- 
+sumption against retroactivity has no effect on our 
+analysis. In the absence of any such presumption 
+against retroactivity, our more traditional tools of 
+construction apply, including the usual deference 
+afforded to agency interpretations under Chevron, 
+U.S.A., Inc. v. Natural Resources Defense Council, 
+Inc., 467 U.S. 837, 104 S. Ct. 2778, 81 L.Ed.2d 694 
+(1984). Thus, even were I to agree that the temporal 
+reach of § 304(b) is ambiguous, I still believe that 
+petitioner here would not be entitled-to withholding of 
+deportation or cancellation of removal proceedings. 
+
+
+40a 
+
+
+APPENDIX B 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+Docket Nos. 98-4033, 98-4214, 98-4246 
+
+
+DEBORIS CALCANO-MARTINEZ, PETITIONER 
+Vv. 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+RESPONDENT 
+
+
+SERGIO MADRID, PETITIONER 
+Vv. 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+RESPONDENT 
+
+
+FAZILA KHAN, PETITIONER 
+Vv. 
+
+
+IMMIGRATION AND NATURALIZATION SERVICE, 
+RESPONDENT 
+
+
+[Decided: Sept. 1, 2000] 
+
+
+4la 
+
+
+Before: OAKES, WALKER, and KEITH," 
+Circuit Judges. 
+
+
+OAKES, Senior Circuit Judge: 
+
+
+The consolidated cases before the Court require us to 
+interpret the effect of the permanent rules of the Illegal 
+
+
+546 (1996), on the jurisdiction of federal courts to hear 
+challenges raised by criminal aliens with respect to 
+
+
+handed down in the last three years, we considered the 
+effect of various provisions of the Antiterrorism and 
+Effective Death Penalty Act of 1996 (“AEDPA”), Pub. 
+L. No. 104-132, 110 Stat. 1214 (1996) and the transi- 
+tional rules of IIRIRA ona federal court’s jurisdiction 
+to review removal proceedings. This is our first occa- 
+sion tu examine the effect of ITRIRA’s permanent rules 
+
+
+In enacting the AEDPA and IIRIRA in 1996, Con- 
+gress reworked the role of the courts in immigration 
+decisions by severely limiting judicial review of final 
+orders of deportation for certain classes of aliens. By 
+
+
+* The Honorable Damon J. Keith of the United States Court of 
+Appeals for the Sixth Circuit, sitting by designation. 
+
+
+42a 
+
+
+1997 WL 563320. In our first decision interpreting Con- 
+gress’s 1996 amendments, we held that the AEDPA 
+“repealed the jurisdiction a court of appeals formerly 
+had over petitions for review filed by aliens convicted of 
+[certain criminal offenses].” Hincapie-Nieto v. INS, 92 
+F.3d 27, 28 (2d Cir. 1996). Two years later, we held that 
+under the transitional rules of IIRIRA, federal courts 
+retained habeas jurisdiction under 28 U.S.C. § 2241. 
+See Jean-Baptiste v. Reno, 144’ F.3d 212, 220 (2d Cir.), 
+reh’g denied, 175 F.3d 226 (2d Cir. 1998). Four months 
+after our decision in Jean-Baptiste, we examined the 
+scope of the remaining habeas review and held that 
+federal courts retained jurisdiction to review statutory 
+and constitutional challenges to deportation orders. See 
+Henderson v. INS, 157 F.3d 106, 122 (2d Cir. 1998), cert. 
+denied, Reno v. Navas, 526 U.S. 1004, 119 S. Ct. 1141, 
+143 L.Ed.2d 209 (1999). 
+
+
+The three petitioners before us, Deboris Calcano- 
+Martinez, Sergio Madrid, and Fazila Khan, are legal 
+permanent residents of the United States who have 
+been ordered deported because of prior criminal con- 
+victions. Each has filed a petition for review in this 
+Court pursuant to INA § 242(a)(2), codified at 8 U.S.C. 
+§ 1252(a)(2), challenging the final orders of removal 
+entered against them by the Board of Immigration 
+Appeals (“BIA”). Each petitioner has also filed a 
+petition for habeas corpus in a United States district 
+court. The petitions of Caleano-Martinez and Madrid 
+were dismissed without prejudice to refiling after this 
+Court’s mandate in the present case, and Khan’s peti- 
+tion is pending in the Eastern District of New York. 
+On appeal, the petitioners do not dispute that they are 
+aliens with criminal convictions that render them 
+deportable under the Immigration and Naturalization 
+
+
+The INS argues that this Court does not have juris- 
+diction to hear these petitions. We hold, for the reasons 
+set forth herein, that INA § 242(a)(2)(C) bars this Court 
+
+
+interpreting the immigration laws. Accordingly, we 
+dismiss the petitions without prejudice to the same 
+claims being brought pursuant to habeas petitions. 
+
+
+I. BACKGROUND 
+
+
+A. Deboris Calcano-Martinez. 
+
+
+Deboris Calcano-Martinez is a native and citizen of 
+the Dominican Republic who was admitted to the 
+United States as a lawful permanent resident in 1971, 
+
+
+Law. 
+
+
+44a 
+
+
+On June 16, 1997, the INS commenced removal pro- 
+ceedings against Calcano-Martinez by filing a Notice to 
+Appear. See 8 C.F.R. § 239.1(a) (1999). The notice 
+charged that Calcano-Martinez’s narcotic conviction 
+rendered her deportable from the United States pur- 
+suant to INA §§ 237(a)(2)(A)(iii) and (a)(2)(B)(i), codi- 
+fied at 8 U.S.C. §§ 1227(a)(2)(A)(iii), (a)(2)(B)G) (1999), 
+as an alien convicted of an aggravated felony and as an 
+alien convicted of a violation of a controlled substance 
+law.” 
+
+
+A removal hearing, at which Calcano-Martinez was 
+represented by counsel, was held before an Immi- 
+gration Judge (“IJ”). At the end of the hearing, the IJ 
+ordered Calcano-Martinez deportable as charged by the 
+INS and ruled that, based on her criminal convictions, 
+she was statutorily ineligible for any relief from re- 
+moval. Calcano-Martinez timely appealed the IJ’s 
+decision to the BIA. The BIA dismissed her appeal. On 
+January 29, 1998, Calcano filed a petition for review in 
+this Court. On October 13, 1999, Calcano filed a petition - 
+for a writ of habeas corpus in the United States District 
+Court for the Southern District of New York. See 
+Calcano-Martinez v. Reno, No. 99 Civ. 10481 (S.D.N.Y. 
+filed Oct. 13, 1999). By stipulation and order dated 
+December 20, 1999, Calcano’s habeas petition was dis- 
+missed without prejudice to refiling after this Court’s 
+mandate in the instant case. 
+
+
+® INA § 237(a)(2)(A)(iii) provides that “[a]ny alien who is con- 
+victed of an aggravated felony at any ‘ime after admission is 
+deportable.” INA § 237(a)(2)(B)i) states that “[aJny alien who at 
+any time after admission has been convicted of a violation of . . . 
+any law or regulation of a State, the United States, or a foreign 
+country relating to a controlled substance . . . is deportable.” 
+
+
+45a 
+
+
+B. Sergio Madrid. 
+
+
+On June 24, 1997, the INS commenced removal pro- 
+ceedings against Madrid by filing a Notice to Appear. 
+The notice charged that Madrid’s narcotic conviction 
+rendered him deportable from the United States as an 
+alien convicted of an aggravated felony and as an alien 
+convicted of a violation of a controlled substance law. 
+See 8 U.S.C. §§ 1227(a)(2)(A)(iii), (a)(2)(B)(i); 8 U.S.C. 
+§ 1101(a)(43)." A removal hearing was held before an 
+IJ and at the close of the hearing, the IJ rendered 
+Madrid deportable. Madrid appealed the BIA’s 
+
+
+review in this Court. On October 13, 1999, Madrid filed 
+a petition for a writ of habeas corpus in the United 
+States District Court for the Southern 
+
+
+order dated December 20, 1999, Madrid’s habeas 
+petition was dismissed without prejudice to refiling 
+after this Court’s mandate in the instant case. 
+
+
+WINA § 101(a)(43), codified at 8 U.S.C. § 1101(a)(43), defines 
+“aggravated felony” as a crime involving “illicit trafficking in a 
+controlled substance.” 
+
+
+46a 
+
+
+C. Fazila Khan. 
+
+
+Fazila Khan is a native and citizen of Guyana who 
+was admitted to the United States as a lawful per- 
+manent resident on September 2, 1987. Khan’s family, 
+including her mother and sister as well as five of her 
+aunts and uncles, are also United States citizens. She 
+also has a four-year-old daughter who is a United 
+States citizen. On February 13, 1997, Khan was sen- 
+tenced to a prison term of four months, to be followed 
+by a period of supervised release for one year, in con- 
+nection with her November 6, 1996, guilty plea to the 
+use of a telephone to facilitate the distribution of heroin 
+in violation of 21 U.S.C. §§ 843(b), (d). 
+
+
+In May 1997, the INS commenced removal pro- 
+ceedings against Khan by filing a Notice to Appear. 
+The notice charged that her offense rendered her de- 
+portable as an alien convicted of an aggravated felony. 
+See INA § 237(a)(2)(A)(iii), codified at 8 U.S.C. 
+§ 1127(a)(2 Ail); 8 U.S.C. § 1101(a)(43)(B). 
+
+
+A removal hearing was held before an IJ and Khan, 
+represented by counsel, denied that she was deportable 
+as charged. On July 24, 1997, the IJ ordered her de- 
+portable. Khan timely appealed the IJ’s decision. On 
+May 28, 1997, the BIA issued a decision dismissing 
+Khan’s appeal. On June 29, 1998, Khan filed a petition 
+for review in this Court. On October 13, 1998, Khan 
+also challenged her removal order by filing a petition 
+for a writ of habeas corpus in the United States District 
+Court for the Eastern District of New York. Khan v. 
+Reno, No. CV 99-6515 (E.D.N.Y. filed Oct. 13, 1999). 
+That petition is pending. 
+
+
+47a 
+
+
+D. INA § 212(c) Waiver from Deportation. 
+
+
+Under former INA § 212(c), codified at 8 U.S.C. 
+§ 1182(c) (1996), the Attorney General had discre- 
+tionary authority to waive the deportation of an alien 
+deportable because of a prior conviction where de- 
+portation would cause extraordinary hardship to the 
+deportee or his or her family. The permanent rules of 
+IIRIRA, effective April 1, 1997, repealed § 212(c) in its 
+entirety and replaced it with another form of relief 
+entitled “cancellation of removal,” found at new INA 
+§ 240A, codified at 8 U.S.C. § 1229b (1999). See IIRIRA 
+$§ 304(a), (b), 110 Stat. at 3009-587-594. That relief, 
+permitting the Attorney Generai to waive deportation 
+for certain classes of aliens, is categorically not avail- 
+able to an alien convicted of a crime that qualifies as an 
+“aggravated felony” under the Statute. See id. The 
+petitioners are each ineligible for “cancellation of re- 
+moval” because their convictions qualify as “aggravated 
+felonies” under the INA. See IN A § 240A, codified at 8 
+U.S.C. § 1229b (1999): 8 U.S.C. § 1101(a)(43). 
+
+
+In their petitions for review to this Court, the peti- 
+tioners argue that the BIA erred by interpreting 
+IIRIRA § 304’s repeal of § 212(c) relief and replacement 
+with “cancellation of removal” to apply retroactively to 
+an alien who is convicted before April 1, 1997, the effec- 
+tive date of IIRIRA § 304(a)." The petitioners further 
+contend that if IIRIRA is interpreted to apply retro- 
+actively to pre-enactment convictions, § 304(a) of 
+ITRIRA is unconstitutional because it violates their 
+
+
+"| At argument, counsel for the petitioners alternatively argued 
+that IIRIRA §§ 304(a), (b) should not apply retrospectively to 
+guilty pleas entered to deportable crimes prior to IIRIRA’s effec- 
+tive date. 
+
+
+48a 
+
+
+rights guaranteed under the due process and equal 
+protection clauses of the U.S. Constitution. 
+
+
+II. DISCUSSION 
+
+
+We must consider whether we have jurisdiction over 
+the petition before us. Implicit in this question is 
+whether IIRIRA’s permanent rules repealed habeas 
+corpus jurisdiction to review final removal orders 
+entered against a legal resident alien who is removable 
+because of a prior conviction. See Liang v. INS, 206 
+F.3d 308, 312-13 (3d Cir. 2000) (noting the interrelation- 
+ship between jurisdiction over a petition for review and 
+habeas corpus). The permanent rules of IIRIRA are 
+Congress’s most recent enactment, in a line of many, on 
+the subject of the judicial review available over immi- 
+gration decisions. A complete discussion of the history 
+of judicial review of immigration orders is set forth in 
+this Court’s decision in Henderson, 157 F.3d at 112-17. 
+For our purposes on this appeal, it is necessary to begin ~ 
+with the 1996 amendments to the INA. 
+
+
+A. The AEDPA. 
+
+
+In April of 1996, Congress enacted the AEDPA, 
+which included two provisions relevant to the judicial 
+review of immigration decisions. Prior to the enact- 
+ment of the AEDPA, INA § 106(a)(10) provided that 
+“any alien held in custody pursuant to an order of 
+deportation may obtain judicial review thereof by ha- 
+beas corpus proceedings.” 8 U.S.C. § 1105a(a)(10) 
+(1996). Section 401(e) of the AEDPA, entitled “Elimi- 
+nation of Custody Review by Habeas Corpus,” expli- 
+citly repealed prior INA § 106(a)(10). See AEDPA 
+§ 401(e), 110 Stat. at 1268. Section 440(a) was enacted 
+to replace the repealed provision and substitute the 
+following language: 
+
+
+49a 
+
+
+(10) Any final order of deportation against an alien 
+who is deportable by reason of having committed a 
+criminal offense covered in section 241(a)(2)(A)(iii), 
+(B), (C), or (D), or any offense covered by section 
+
+
+was repealed, we noted that “[t]he absence of an op- 
+
+
+arising in the course of deportation proceedings.” Jd. at 
+30. In Hincapie-Nieto, it was not necessary to deter- 
+mine whether district courts continued to have 28 
+
+
+50a 
+
+
+Our suggestion in Hincapie-Nieto that AEDPA 
+§ 440(a)’s bar of judicial review under the INA was 
+constitutional because courts might review deportation 
+orders through habeas corpus petitions was in accord 
+with the vast majority of courts of appeals to consider 
+the same issue. See Mansour v. INS, 123 F.3d 423, 426 
+(6th Cir. 1997); Mendez-Morales v. INS, 119 F.3d 738, 
+739 (8th Cir. 1997); Williams v. INS, 114 F.3d 82, 838-4 
+(5th Cir. 1997); Fernandez v. INS, 113 F.3d 1151, 1154- 
+55 (10th Cir. 1997); Chow v. INS, 118 F.3d 659, 668-70 
+(7th Cir. 1997); Boston-Bollers v. INS, 106 F.3d 352, 354 
+n.1 (11th Cir. 1997); Kolster v. INS, 101 F.3d 785, 790-91 
+(1st Cir. 1996); Salazar-Haro v. INS, 95 F.3d 309, 311 
+(3d Cir. 1996); Duldulao v. INS, 90 F.3d 396, 400 n.4 
+(9th Cir. 1996). 
+
+
+B. IIRIRA’s Transitional Rules. 
+
+
+Five months after enacting the AEDPA, on Septem- 
+ber 30, 1996, Congress enacted IIRIRA, which further 
+narrowed judicial review for legal residents ordered 
+removable because they were convicted of certain 
+crimes. IIRIRA contains two sets of provisions. The 
+transitional rules (which are not codified in the U.S. 
+Code) control deportation proceedings commenced 
+prior to April 1, 1997. See IIRIRA § 309(c), 110 Stat. at 
+3009-625. Section 309(c)(4)(G) of IIRIRA’s transitional 
+rules is the successor to AEDPA § 440(a) and provides 
+in more absolute language that “there shall be no 
+appeal permitted in the case of an alien who is inadmiss- 
+ible or deportable by reason of having committed a 
+criminal offense covered in [the deportation proceed- 
+ings of the INA].” IIRIRA § 309(c)(4)(G), 110 Stat. at 
+3009-626, codified at 8 U.S.C. § 1101 note (1999). 
+
+
+5la 
+
+
+In addition, ITRIRA § 806(a) amends INA § 242(g) to 
+provide: 
+
+
+Exclusive Jurisdiction. Except as provided in this 
+section and notwithstanding any other provision of 
+law, no court shall have jurisdiction to hear any 
+cause or claim by or on behalf of any alien arising 
+from the decision or action by the Attorney General 
+to commence proceedings, adjudicate cases, or exe- 
+cute removal orders against any alien under this 
+Chapter. 
+
+
+ITRIRA § 306(a), 110 Stat. at 3009-612, codified at 8 
+U.S.C. § 1252(g) (1999), Although INA § 242(g) is listed 
+with the permanent provisions, IIRIRA § 306(c) makes 
+§ 242(g) applicable to both transitional and permanent 
+rules cases. See IIRIRA § 306(c), 110 Stat. at 3009-612. 
+
+
+In Jean-Baptiste, 144 F.3d at 214-18, this Court 
+considered whether INA § 242(g) divested federal 
+courts of jurisdiction over a case where legal residents, 
+ordered deported because of a criminal conviction, 
+maintained that their right to due process was violated 
+because they had never been given notice that their 
+criminal conviction could subject them to consequences 
+under the immigration laws. Finding that plaintiffs’ 
+claims arose out of “the decision of the Attorney 
+General to commence proceedings, adjudicate cases, or 
+execute removal orders,” this Court held that INA 
+§ 242(g) deprived federal courts of jurisdiction to hear 
+plaintiffs’ claims. See id. at 218. 
+
+
+We reasoned, however, that all review had not been 
+eliminated by INA § 242(g) or the AEDPA. See id. 
+Relying on the doctrine articulated in Felker v. Turpin, 
+518 U.S. 651, 659-61, 116 S. Ct. 2333, 185 L.Ed.2d 827 
+
+
+52a 
+
+
+(1996), that repeal by implication of the right to petition 
+for habeas corpus relief is disfavored, we held that: 
+
+
+Nothing in the language of either the [AEDPA] or 
+[IIRIRA] suggests that Congress expressly re- 
+pealed § 2241, limited its scope, or eliminated the 
+jurisdiction of the district courts under that statute 
+to entertain petitions seeking writs of habeas 
+corpus. Those two Acts therefore do not specifically 
+exclude habeas review in deportation cases under 
+San. ss 
+
+
+Id. at 219. Therefore, in Jean-Baptiste, this Court 
+concluded that the AEDPA and IIRIRA’s transitional 
+rules did not repeal the habeas jurisdiction granted to 
+federal courts by Congress in 28 U.S.C. § 2241 to re- 
+view challenges to final deportation orders. We left 
+open the question of the scope of the habeas review of 
+immigration decisions available under 28 U.S.C. § 2241. 
+See id. at 220. 
+
+
+Our decision in Jean-Baptiste is in accord with the 
+majority of circuits also to hold that the language of 
+§ 242(g) did not repeal habeas jurisdiction over immi- 
+gration decisions. The First, Third, Fourth, Fifth, 
+Sixth, Eighth, Ninth, Tenth, and Eleventh Circuit 
+Courts of Appeals held that habeas jurisdiction to 
+review final deportation decisions survived the AEDPA 
+and IIRIRA transitional rules’ streamline of the judi- 
+cial review available under the INA. See Magana- 
+Pizano v. INS, 200 F.3d 603, 609 (9th Cir. 1999); Pak v. 
+Reno, 196 F.3d 666, 673 (6th Cir. 1999); Bowrin v. INS, 
+194 F.3d 483, 489 (4th Cir. 1999); Requena-Rodriquez v. 
+Pasquarell, 190 F.3d 299, 306 (5th Cir. 1999); Jwrado- 
+Gutierrez v. Greene, 190 F.3d 1135, 1145-46 (10th Cir. 
+1999), cert. denied, Paluganas-Suarez v. Greene, 
+
+
+58a 
+
+
+Mayers v. INS, 175 F.3d 1289, 1801 (11th Cir. 1999); 
+Sandoval v. Reno, 166 F.3d 225, 236-37 (3d Cir. 1999); 
+Goncalves v. Reno, 144 F.3d 110, 119-23 (ist Cir. 1998), 
+
+
+Circuit has held that the transitional rules of IIRIRA 
+effected a repeal of habeas jurisdiction over final 
+deportation orders. See LaGuerre v. Reno, 164 F.3d 
+
+
+In Henderson, 157 F.3d at 118-22, we reaffirmed our 
+synthesized holding of Hincapie-Nieto and Jean- 
+Baptiste that under the INA, modified by the AEDPA 
+and IIRIRA’s transitional rules, an alien ordered de- 
+ported because of a criminal conviction cannot seek a 
+petition for review in the court of appeals but must 
+pursue a claim in a habeas proceeding pursuant to 28 
+U.S.C. § 2241. Although the panel questioned the wis- 
+dom of having the channel for review be by habeas in 
+the district court rather than by petition for review in 
+the courts of appeals, it acknowledged that it was 
+bound by a reasonable comprehension of the statute _ 
+and Second Circuit precedent. See id. at 119 n.9; see 
+also Jean-Baptiste, 175 F.3d at 226 (denying a subse- 
+quent petition for rehearing despite the Henderson 
+panel’s questioning). 
+
+
+54a 
+
+
+that the courts were without power to review the 
+Attorney General’s interpretation of the immigration 
+laws. See Henderson, 157 F.3d at 119-20. We soundly 
+rejected the INS’s argument and held that federal 
+courts have jurisdiction under 28 U.S.C. § 2241 to 
+consider all claims that are purely legal in nature— 
+including constitutional challenges and claims that the 
+Attorney General misinterpreted the immigration laws. 
+See id. at 122. 
+
+
+C. IIRIRA’s Permanent Rules. 
+
+
+The permanent rules of IIRIRA govern deportation 
+proceedings initiated after April 1, 1997. See IIRIRA 
+§ 309(c), 110 Stat. at 3009-625. The parties agree that 
+because deportation proceedings were not initiated 
+against any of the petitioners until after April 1, 1997, 
+the permanent rules apply to their cases. The per- 
+manent rules revamp the INA by striking 8 U.S.C. 
+§ 1105(a) in its entirety and relocating the rules govern- 
+ing judicial review of deportation orders to 8 U.S.C. 
+§ 1252. See IIRIRA § 306(a), 110 Stat. at 3009-607-612. 
+
+
+The INS argues that the court of appeals is the 
+exclusive forum for all immigration matters, invoking 
+several provisions of the permanent rules in support of 
+its position that IIRIRA, in its final form, divests 
+district courts of their habeas jurisdiction. The INS 
+calls our attention to newly added INA §§ 242(a)(1), 
+242(a)(2)(C), 242(e)(2), 242(¢) and 242(b)(9). See 
+IIRIRA § 306(a), 110 Stat. at 3009-607-612. Section 
+242(a)(1) of the INA provides: 
+
+
+Judicial review of a final order of removal (other 
+than an order of removal without a hearing pursuant 
+to section 1225(b)(1) of this title) is governed only by 
+chapter 158 of Title 28 [the Hobbs Act]... . 
+
+
+55a 
+
+
+8 U.S.C. § 1252(a)(1) (1999). The INS argues that be- 
+cause the Hobbs Act gives exclusive jurisdiction to the 
+court of appeals, see 28 U.S.C. § 2342 (“The court of 
+appeals . . . has exclusive jurisdiction” over specified 
+agency orders), § 242(a)(1) evidences Congress's intent 
+
+
+to eradicate habeas review. 
+
+
+Seetion 242(a)(2)(C) of the INA is the successor to 
+AEDPA § 440(a) and ITRIRA § 309(c)(4)(g) and in its 
+final form now states: 
+
+
+Notwithstanding any other provision of law, no 
+court shall have jurisdiction to review any final 
+order of removal] against an alien who is removable 
+by reason of having committed a criminal offense 
+covered in [the deportation sections of the INA]. 
+
+
+8 U.S.C. § 1252(a)(2)(C) (1999). The INS argues that 
+when it added the “notwithstanding any other provision 
+of law” phrase to the final incarnation of this section, 
+Congress explicitly repealed habeas jurisdiction. 
+
+
+The INS also relies on INA § 242(e)(2). This section 
+provides: 
+
+
+Judicial review of any determination made under 
+section 1225(b)(1) of this title is available in habeas 
+corpus proceedings, but shall be limited to 
+determinations of—(A) whether the petitioner is an 
+alien, (B) whether the petitioner was ordered re- 
+moved under such section, and (C) whether the 
+petitioner can prove by a preponderance of the 
+evidence that the petitioner is an alien lawfully 
+admitted for permanent residence, has been ad- 
+mitted as a refugee under section 1157, or has been 
+granted asylum under section 1158, such status not 
+having been terminated, and is entitled to such 
+
+
+56a 
+
+
+further inquiry as prescribed by the Attorney 
+General pursuant to section 12255(b)(1)(C) of this 
+title. 
+
+
+8 U.S.C. § 1252(e)(2) (1999). The INS contends that be- 
+cause INA § 242(e)(2) provides for statutory habeas 
+review under the delineated circumstances, Congress 
+knew how to create habeas review under the INA when 
+it so desires. It follows, according to the INS, that 
+Congress’s decision to omit analogous language in re- 
+gard to an alien’s challenge to his or her final deporta- 
+tion order demonstrates its intent that this review be 
+unavailable. 
+
+
+The INS additionally points to INA § 242(g), a 
+section already considered by this Court in Henderson. 
+Section 242(g) provides: 
+
+
+Except as provided in this section and notwith- 
+standing any other provision of law, no court shall 
+have jurisdiction to hear any cause or claim by or on 
+behalf of any alien arising from the decision or 
+action by the Attorney General to commence pro- 
+ceedings, adjudicate cases, or execute removal 
+orders against any alien under this Chapter. 
+
+
+8 U.S.C. § 1252(g) (1999). 
+
+
+Finally, § 242(b)(9), upon which the INS rests its 
+principal argument provides: 
+
+
+Judicial review of all questions of law and fact, in- 
+cluding interpretation and application of constitu- 
+tional and statutory provisions, arising from any 
+action taken or proceeding brought to remove an 
+alien from the United States under this subchapter 
+
+
+57a 
+
+
+shall be available only in judicial review of a final 
+order under this section. 
+
+
+8 U.S.C. § 1252(b)(9) (1999). The INS argues that be- 
+cause INA § 242(b)(2) requires that all petitions for 
+review “be filed with the court of appeals for the 
+judicial circuit in which the immigration judge com- 
+pleted the proceedings,” § 242(b)(9) necessarily divests 
+any court of jurisdiction other than the appropriate 
+court of appeals. In Support of this argument, the INS 
+points to the Supreme Court’s recent characterization 
+in dicta of § 242(b)(9) as a “zipper clause” that channels 
+all review of removal decisions under the INA into the 
+court of appeals. See Reno vy. American-Arab Anti- 
+Discrimination Comm., 525 U.S. 471, 483, 119 S. Ct. 
+936, 142 L.Ed.2d 940 (1999) (“AADC”). 
+
+
+Four courts of appeals have considered arguments 
+similar to those presented by the INS in this case. The 
+Fifth and Eleventh Circuit Courts of Appeals adopted 
+the INS’s position; the Third and N inth rejected it. 
+
+
+In Richardson v. Reno, 180 F.3d 1311, 1312-13 (11th 
+Cir. 1999) (“Richardson II”), cert. denied, Richardson 
+v. Reno, __, U.S. —__., 120 St. Ct. 1529 (2000), the 
+Eleventh Circuit reaffirmed its holding in Richardson 
+v. Reno, 162 F.3d 1388 (11th Cir. 1998) (“Richardson 
+I”), after reconsideration in light of the Supreme 
+Court’s decision in AADC, that IIRIRA’s permanent 
+rules eliminated § 224] habeas jurisdiction over an 
+alien’s challenge to his or her removal proceedings. The 
+court held that INA § 242(b)(2), § 242(e)(2) and the 
+AEDPA’s elimination of habeas review in § 401(e) evi- 
+denced Congress’s intent to preclude statutory habeas 
+review over immigration decisions. See id. at 1814. 
+
+
+58a 
+
+
+More specifically, the court held that INA § 242(b)(9) 
+and the Supreme Court’s description of that section in 
+AADC as a “zipper clause” that channels judicial re- 
+view of immigration decisions exclusively into that 
+provided by the INA, was evidence that Congress 
+intended to repeal all habeas review. See id. at 1314-15. 
+The court concluded that the repeal of habeas juris- 
+diction to review immigration decisions is not unconsti- 
+tutional because judicial review still remains under 
+INA § 242(a)(2)(C) to determine whether the petitioner 
+is an alien, is deportable, and deportable for a reason 
+covered by INA § 242(a)(2)(C). See id. at 1315-16. 
+Furthermore, the court said, review of substantial con- 
+stitutional questions and challenges to the consti- 
+tutionality of the INA itself remains available because 
+INA § 242(a)(2)(C) does not literally foreclose consti- 
+tutional challenges to the statute itself. See id. at 1316 
+n.d. 
+
+
+In Max-George v. Reno, 205 F.3d 194, 197-98 (5th Cir. 
+2000), the Fifth Circuit followed the lead of the 
+Eleventh Circuit and agreed with the INS that 28 
+U.S.C. § 2241 habeas jurisdiction had been repealed by 
+IIRIRA’s permanent rules. According to the Fifth 
+Circuit, Congress need not explicitly mention habeas 
+jurisdiction generally or § 2241 by name to repeal ha- 
+beas jurisdiction. See id. at 199 (“While Congress could 
+theoretically have been more explicit by specifically 
+mentioning habeas corpus in general or § 2241 in 
+particular, we believe the jurisdictiona! limitation de- 
+scribed throughout § 1252 was sufficiently explicit.”). 
+Accordingly, the court reasoned that, unlike the lan- 
+guage in IIRIRA’s transitional rules, the jurisdiction- 
+stripping provisions in the permanent rules, beginning 
+with the far more preclusive language “notwithstanding 
+
+
+59a 
+
+
+any other provisions of law,” explicitly repealed § 2241 
+habeas jurisdiction over immigration decisions. Jd. at 
+198. The Fifth Circuit, like the Eleventh Circuit, rea- 
+soned that the repeal was not unconstitutional because 
+sufficient judicial review remained available for 
+criminal aliens’ challenges against removal under INA 
+§ 242(a)(2)(C). See id. at 199-201. It did not go as far, 
+however, as the Eleventh Circuit to hold that review of 
+constitutional and statutory claims were preserved. It 
+held instead that the court of appeals retains juris- 
+diction under § 242(a)(2)(C) only to determine whether 
+the prerequisites for precluding review are met, 
+whether the provisions classifying the petitioner in a 
+Specific criminal category are constitutionally applied, 
+and whether the level of judicial review remaining in a 
+particular case satisfies the Constitution. See id. 
+
+
+In Liang v. INS, 206 F.3d 308, 316-18 (3d Cir. 2000), 
+the Third Circuit parted ways with the Fifth and 
+Eleventh Circuits, holding that because none of the 
+Sections in § 1252 expressly refers to habeas juris- 
+diction or to § 2241, none expressly revoked habeas 
+jurisdiction. The court reasoned that the Supreme 
+Court did not, in AADC, decide that § 242(b)(9) radi- 
+cally eliminated habeas jurisdiction because that was 
+not the issue raised in that case, and the Supreme 
+Court explicitly noted that courts were in disagreement 
+whether habeas jurisdiction remained after IIRIRA. 
+See id. at 319. The Third Circuit also disagreed with 
+the Fifth and Eleventh Circuits’ conclusion that suffi- 
+cient judicial review remained under § 242(a)(2)(C) so 
+that the repeal of habeas was not unconstitutional, and 
+continued to adhere to its earlier ruling in Sandoval, 
+166 F.3d 225, that the language of § 242(a)(2)(C) makes 
+clear that the court of appeals lacks jurisdiction over 
+
+
+60a 
+
+
+petitions of review filed by aliens removable because of 
+prior convictions. See id. at 321. Because no judicial 
+review of criminal aliens’ statutory and constitutional 
+claims remains under § 242(a)(2)(C), the court con- 
+cluded that a repeal of habeas jurisdiction over immi- 
+gration decisions raises serious constitutional questions. 
+See id. at 321-22. 
+
+
+The Ninth Circuit, following the lead of the Third 
+Circuit, held that IIRIRA’s permanent rules do not use 
+language explicit enough to repeal a federal court’s 
+habeas jurisdiction to review final removal orders. See 
+Flores-Miramontes v. INS, 212 F.3d 1133, 1137-38 (9th 
+Cir. 2000). The court reasoned that although the 
+language of the permanent rules is stronger than that 
+of the transitional provisions, the difference would not 
+cause it to depart from its decision in Magana-Pizano, 
+200 F.3d 603, to find a repeal of 28 U.S.C. § 2241 
+jurisdiction over final removal orders. See Flores- 
+Miramontes, 212 F.3d at 1137. Furthermore, the court 
+held that § 242(b)(9) and the Supreme Court’s remarks 
+about that provision did not require the conclusion that 
+habeas review is repealed. See id. at 1139. Finally, the 
+court found that an interpretation that IIRIRA does 
+not repeal habeas jurisdiction avoids a substantial 
+constitutional question. See id. at 1141-42. In so doing, 
+it rejected the INS’s argument that review of sub- 
+stantial constitutional claims remained in the court of 
+appeals under a petition for review. See id. at 1142. 
+
+
+We are persuaded by the Third and Ninth Circuits’ 
+reasoning in Liang v. INS and Flores-Miramontes v. 
+INS that Article III courts continue to have habeas 
+jurisdiction under 28 U.S.C. § 2241 over legal chal- 
+lenges to final removal orders. We conclude that the 
+
+
+6la 
+
+
+constitutional questions that would arise were we to 
+find that IIRIRA eliminates habeas jurisdiction over 
+final immigration decisions. 
+
+
+We will not strain to infer that Congress radically 
+repealed the federal courts’ habeas jurisdiction to re- 
+- View final orders of removal. In Felker, 518 U.S. at 657, 
+the Supreme Court considered whether Title I of the 
+
+
+dictional statutes by implication are not favored. See 
+Felker, 518 U.S. at 660. This rule requires that a court 
+cannot presume that a congressional enactment effects 
+a repeal of a jurisdictional statute when it does not 
+explicitly mention the jurisdictional statute or the 
+general type of jurisdiction by name. 
+
+
+62a 
+
+
+In Jean-Baptiste, 144 F.3d at 220, we determined 
+that although the AEDPA and IIRIRA’s transitional 
+rules eliminated habeas corpus review under INA 
+§ 106(a)(10), neither specifically discussed 28 U.S.C. 
+§ 2241 or habeas jurisdiction generally. Following the 
+rule articulated in Felker, we held that Congress did 
+not repeal habeas corpus jurisdiction under 28 U.S.C. 
+§ 2241. See id. In order to find habeas jurisdiction 
+eradicated, our precedent thus requires an explicit 
+statement from Congress that mentions a repeal of 
+habeas jurisdiction. The majority of other circuit courts 
+have also held that Congress must explicitly mention 
+§ 2241 or general habeas jurisdiction to repeal it. See ~ 
+Flores-Miramontes, 212 F.3d at 1137; Liang, 206 F.3d 
+at 320; Magana-Pizano, 200 F.3d at 608-09; Pak, 196 
+F.3d at 673; Bowrin, 194 F.3d at 489; Jwrado-Gutierrez, 
+190 F.3d at 1145-46; Shah, 184 F.3d at 724; Goncalves, 
+144 F.3d at 119; but see LaGuerre, 164 F.3d at 1038-39. 
+
+
+Nothing in IIRIRA’s permanent provisions requires 
+us to stray from our determination in Jean-Baptiste 
+that habeas review survives IIRIRA. Although the 
+language is arguably more restrictive, there is still 
+nothing in IIRIRA’s permanent provisions that consti- 
+tutes a sufficiently clear statement of congressional 
+intent to repeal the habeas jurisdiction granted Article 
+III courts by 28 U.S.C. § 2241. Although each new pro- 
+vision works to narrow or limit the judicial review 
+available to the criminal aliens under the INA, INA 
+§§ 242(a)(1), 242(a)(2)(C), 242(e)(2), and 242(g)" do not 
+
+
+2 Indeed, the INS’s argument that INS § 242(g) repeals § 2241 
+habeas jurisdiction over final deportation orders is foreclosed by 
+the Supreme Court’s decision in AADC, interpreting § 242(g) to 
+
+
+63a 
+
+
+explicitly mention a repeal of a federal court’s general 
+habeas jurisdiction or 28 U.S.C. § 2241. See 8 U.S.C. 
+$§ 1252(a)(1), (a)(2\C), (e)(2), and (g) (1999). Judicial 
+review and habeas corpus have distinct technical mean- 
+ings under the law. See Heikkila v. Barber, 345 U.S. 
+229, 235-36, 73 S. Ct. 603, 97 L.Ed. 972 (1953); see also 
+Flores-Miramontes, 212 F.3d at 1140 (citing Sandoval, 
+166 F.3d at 235). We will not infer that Congress meant 
+to repeal habeas corpus review under 28 U.S.C. § 2241 
+when it mentioned only judicial review, a distinct and 
+Separate concept from habeas. 
+
+
+Felker’s requirement that Congress provide an 
+explicit statement in order to repeal habeas jurisdiction 
+is particularly relevant in this case. As the Ninth 
+Circuit pointed out, Felker was decided three months 
+before IIRIRA became law. We assume that Congress 
+is aware of the law, see U.S. y. Georgopoulos, 149 F.3d 
+169, 172 (2d Cir. 1998) (citing Miles v. Apex Marine 
+Corp., 498 U.S. 19, 32, 111 S. Ct. 317, 112 L.Ed.2d 275 
+(1990)), and therefore aware of Felker’s mandate when 
+it considered the transitional and permanent rules of 
+IIRIRA. See Flores-Miramontes, 212 F.3d at 1139. 
+Had Congress intended that the avenue of review avail- 
+able under 28 U.S.C. § 2241 be repealed, it knew to use 
+more explicit language than it chose. 
+
+
+The INS rests heavily on the phrase “notwith- 
+standing any other provision of law” added to INA 
+§ 242(a)(2)(C), codified at 8 U.S.C. § 1252(a)(2)(C) 
+(1999). However, we were not persuaded that the same 
+exact phraseology repealed § 2241 habeas jurisdiction 
+
+
+apply only to the three discrete immigration decisions identified in 
+the section. See 525 U.S. at 482. 
+
+
+64a 
+
+
+when, in Jean-Baptiste, we examined the effect on ha- 
+beas jurisdiction of INA section 242(g). See 144 F.3d at 
+218. Other courts of appeals have also held that the 
+“notwithstanding” language was not strong enough to 
+repeal habeas jurisdiction. See Sandoval, 166 F.3d at 
+236; Goncalves, 144 F.3d at 122. Our holding and our 
+application of it in Jean-Baptiste controls our inter- 
+pretation of the permanent rules and requires a con- 
+clusion that the permanent rules do not divest federal 
+courts of jurisdiction to review a criminal alien’s legal 
+challenge to his or her removal order. 
+
+
+As for the INS’s reliance on § 242(b)(9), we first re- 
+cognize that § 242(b)(9) does not expressly mention 
+habeas jurisdiction or § 2241. INA § 242(b)(9) is a con- 
+gressional limitation on judicial review and does not 
+concern habeas jurisdiction. Thus, under Felker and 
+our decision in Jean-Baptiste, § 242(b)(9) does not con- 
+stitute a repeal of habeas corpus. 
+
+
+Furthermore, we are not persuaded by the INS 
+that the Supreme Court’s characterization of INA 
+§ 242(b)(9) as a “zipper clause” requires us to hold that 
+it effects a repeal of habeas jurisdiction. In AADC, a 
+group of temporary residents, who belonged to the 
+Popular Front for the Liberation of Palestine, sought 
+injunctive and declaratory relief on the ground that 
+the INS was selectively enforcing the immigration laws 
+against them in violation of their First and Fifth 
+Amendment rights. See 525 U.S. at 473-74. The INS 
+sought to dismiss the case for lack of jurisdiction, argu- 
+ing that INA § 242(g), made applicable to the case by 
+§ 306(c)(1) of IIRIRA, deprived the courts of power to 
+hear the appeal. See id. at 475. The Supreme Court 
+agreed with the INS that INA § 242(g) deprived 
+
+
+65a 
+
+
+federal courts of jurisdiction over the petitioners’ selec- 
+tive enforcement case until the deportation orders 
+against them became final, if ever. See id. at 482. The 
+Court, however, rejected the “unexamined assumption 
+that § 1252(g) covers the universe of deportation 
+claims” and held that the section covered only the three 
+discrete actions delineated by the statute: the Attorney 
+General’s decision to commence proceedings, adjudicate 
+cases, or execute removal orders. See id. In AADC, 
+the Supreme Court contrasted the narrow scope of INA 
+§ 242(g) with INA § 242(b)(9), which it described as an 
+“unmistakable zipper clause” that channels judicial 
+review of all immigration-related decisions and actions 
+to the court of appeals. Jd. at 482-83. 
+
+
+The Court’s description of INA § 242(b)(9) as a 
+“zipper clause” that “channels judicial review” of immi- 
+gration decisions to the court of appeals was not a 
+holding that § 242(b)(9) divests federal courts of § 2241 
+habeas jurisdiction. The discussion of § 242(b)(9) in 
+AADC pertained to whether § 242(g) was redundant of 
+§ 242(b)(9). By interpreting § 242(g) narrowly, the 
+Supreme Court held that the apparent redundancy was 
+a “mirage.” Id. at 482. Far from deciding the question 
+what habeas relief remained after IIRIRA, the Court 
+chose not to address the question. See id. at 480 n.7 
+(noting disagreement among the courts of appeals). To 
+repeat, that case did not concern a habeas petition but 
+
+
+'8 The Supreme Court thus held that INA § 242(g) applies in a 
+very narrow class of cases. This holding is contrary to our inter- 
+pretation of that section in Jean-Baptiste where we assumed that 
+it governed in the case before us. This distinction has no bearing, 
+however, on our holding in Jean-Baptiste that the language of 
+§ 242(g) was insufficient to repeal § 2241. 
+
+
+66a 
+
+
+was a case brought under a federal court’s federal 
+question subject matter jurisdiction. See id. at 474: 
+Therefore, “that case does not require a conclusion 
+contrary to the rule set forth in Felker.” Flores- 
+Miramontes, 212 F.3d at 1139. Accordingly, we will 
+not presume that the Supreme Court meant its decision 
+in AADC to have the radical effect of repealing habeas 
+jurisdiction when it declined to address the issue 
+directly. 
+
+
+As the Ninth Circuit points out, our interpretation 
+that INA § 242(b)(9) does not eradicate 28 U.S.C. § 2241 
+habeas jurisdiction does not render that section mean- 
+ingless. See Flores-Miramontes, 212 F.3d at 1140. Put 
+differently, § 242(b)(9) forces a legal resident alien in 
+removal proceedings to save all of his or her challenges 
+to an unlawful government decision or action until after 
+a final removal order is issued. Congress enacted INA 
+§ 242(b)(9) for the important purpose of consolidating 
+all claims that may be brought in removal proceedings 
+into one final petition for review of a final order in 
+the court of appeals. See id. at 1141. Before INA 
+§ 242(b)(9), only actions attacking the deportation order 
+itself were brought in a petition for review while 
+other challenges could be brought pursuant to a federal 
+court’s federal question subject matter jurisdiction 
+under 28 U.S.C. § 1331. Now, by establishing “exclu- 
+sive appellate court” jurisdiction over claims “arising 
+from any action taken or proceeding brought to remove 
+an alien,” all challenges are channeled into one petition. 
+See 8 U.S.C. § 1252(b)(9); Flores-Miramontes, 212 F.3d 
+at 1140-41. Hence, § 242(b)(9) concerns judicial review 
+in a civil action brought under 28 U.S.C. § 1331 rather 
+than review under habeas corpus. Finally, our inter- 
+pretation of IIRIRA’s permanent rules as preserving 
+
+
+67a 
+
+
+28 U.S.C. § 2241 habeas jurisdiction allows us to avoid 
+the serious constitutional question that a repeal of ha- 
+beas jurisdiction over removal proceedings involving 
+criminal aliens would raise under the Constitution. See 
+Webster v. Doe, 486 U.S. 592, 603, 108 S. Ct. 2047, 100 
+L.Ed.2d 632 (1988) (interpreting a federal statute to 
+avoid a serious constitutional question presented where 
+the statute appeared to foreclose review of consti- 
+tutional claims); Ashwander v. Tennessee Valley Auth., 
+297 U.S. 288, 348, 56 S. Ct. 466, 80 L.Ed. 688 (1936) 
+(Brandeis J., concurring) (same). The Suspension 
+Clause mandates that “(t]he privilege of the Writ of 
+Habeas Corpus shall not be suspended, unless when in 
+cases of rebellion or invasion of the public safety may 
+require.” U.S. Const. art. 1,§ 9, cl. 2. Just recently, 
+Justice Stevens, writing for the Supreme Court ma- 
+jority, remarked that “[t]he writ of habeas corpus plays 
+a vital role in protecting constitutional rights.” Slack v. 
+McDaniel, — U.S. ——, 120 S. Ct. 1595, 1603, 146 
+L.Ed.2d 542 (2000). Historically, legal permanent 
+residents ordered removable from this country have 
+been entitled to assert their legal rights in habeas 
+corpus proceedings. See ¢.g., Heikkila, 345 U.S. at 230; 
+Nishimura Ekiu v. United States, 142 U.S. 651, 660, 12 
+S. Ct. 336, 35 L.Ed. 1146 (1892); United States v. Jung 
+Ah Lung, 124 U.S. 621, 622-23, 8 S. Ct. 663, 31 L.Ed. 591 
+(1888). Indeed, non-citizens have long been permitted 
+to raise statutory claims, similar to those raised by the 
+petitioners before us, that are based on the executive 
+branch’s misinterpretation of the immigration laws. See 
+_ Kwong Hai Chew v. Colding, 344 U.S. 590, 596-600, 73 
+S. Ct. 472, 97 L.Ed. 576 (1953); Wong Yang Sung v. 
+McGrath, 339 U.S. 38, 48-53, 70 S. Ct. 445, 94 L.Ed. 616 
+(1950); Fong Haw Tan v. Phelan, 333 U.S. 6, 9, 68 S. Ct. 
+374, 92 L.Ed. 433 (1948); Delgadillo v. Carmichael, 332 
+
+
+68a 
+
+
+U.S. 388, 390-91, 68 S. Ct. 10, 92 L.Ed. 17 (1947); 
+Kessler v. Strecker, 307 U.S. 22, 28-32, 59 S. Ct. 694, 83 
+L.Ed. 1082 (19389); Mahler v. Eby, 264 U.S. 32, 45, 44 
+S. Ct. 283, 68 L.Ed. 549 (1924). An interpretation 
+that repeals habeas corpus jurisdiction as it applies to 
+legal permanent residents ordered removed from the 
+country because of prior crimes would therefore raise a 
+serious constitutional question under the Suspension 
+Clause of the Constitution. 
+
+
+The INS argues that a constitutional question does 
+not arise if 28 U.S.C. § 2241 jurisdiction is repealed be- 
+cause the constitutionally-mandated amount of judicial 
+review remains under the INA. Specifically, although 
+it acknowledges the broad preclusive language of 
+§ 242(a)(2)(C) and the majority of courts’ interpretation 
+of it, see supra at II. A, the INS assures us that a 
+criminal alien may still obtain review of his or her 
+removal orders pursuant to a petition for review in a 
+court of appeals. It argues that this review includes all 
+that is required by the Constitution—“substantial” 
+constitutional claims and “certain jurisdictional facts” 
+including whether the petitioner is an alien who is re- 
+movable by reason of having committed a specified 
+criminal offense. 
+
+
+It is true that the Supreme Court has held that 
+Congress may divest the district courts of habeas juris- 
+diction without violating the Constitution so long as it 
+substitutes “a collateral remedy which is neither inade- 
+quate nor ineffective to test the legality of a person’s 
+detention.” Swain v. Pressley, 430 U.S. 372, 381, 97 
+S. Ct. 1224, 51 L.Ed.2d 411 (1977). In accord with this 
+principle, we heretofore have recognized the need for 
+adequate judicial review of the legal challenges filed by 
+
+
+69a 
+
+
+a criminal alien. We have determined that, because 
+§ 242(a)(2)(C) eradicated all review for legal residents 
+ordered removed owing to a prior conviction, habeas 
+review of this class of claims remains. See Henderson, 
+157 F.3d at 119; Jean Baptiste, 144 F.3d at 219; 
+Hincapie-Nieto, 92 F.3d at 31. 
+
+
+The INS’s interpretation of INA § 242(a)(2)(C) and 
+its definition of what review is required by the Consti- 
+tution is a misapprehension of the law, in conflict with 
+our prior decisions, and difficult. to reconcile with the 
+INS’s earlier position taken in Hincapie-Nieto. A\- 
+though a-federal court of appeals generally retains 
+jurisdiction under INS § 242(a)(1) to review a legal 
+resident alien’s challenge to his or her final order of 
+removal, INA § 242(a)(2)(C) excepts this review for a 
+petition filed by a detained alien ordered removable 
+because of a criminal conviction. See 8 U.S.C. § 1252(a) 
+(2)(C). Thus, in Hincapie-Nieto and Jean-Baptiste, we 
+interpreted § 242(a)(2)(C) as barring all review of a final 
+order of removal entered against an alien removable 
+because of a prior conviction, Hincapie-Nieto, 92 F.3d 
+at 30; Jean-Baptiste, 144 F.3d at 219. Indeed, in 
+Hincapie-Nieto, the INS, contrary to what it asserts 
+here, assured the court that there was no constitutional 
+infirmity with this interpretation because a non-citizen 
+in executive detention could obtain judicial review of 
+his or her deportation order by habeas corpus. See 92 
+F.3d at 31. ; 
+
+
+Furthermore, in Jean-Baptiste, we rejected the very 
+same argument presented by the INS in this case. 
+There, the INS argued that it was unnecessary to pre- 
+serve habeas jurisdiction to avoid a constitutional 
+question because review of constitutional questions re- 
+
+
+70a 
+
+
+mained available under the INA. Relying on our prior 
+decision in Hincapie-Nieto, we held that the INA as 
+amended by IIRIRA takes away that review for legal 
+residents ordered removable because of prior con- 
+victions. See Jean-Baptiste, 144 F.3d at 219-20. The 
+INS’s arguments were “not well-taken” in that case, see 
+id. at 220, and are received with the same skepticism 
+here. There is nothing in IIRIRA’s permanent rules or 
+their legislative history that indicates that Congress 
+excepted review of substantial constitutional questions 
+under INA § 242. 
+
+
+In addition, the INS’s formulation of the review 
+required by the Constitution falls short of the review 
+that we held in Henderson is mandated. We found 
+there that even a partial repeal of habeas jurisdiction to 
+hear an executively detained alien’s statutory chal- 
+lenges may violate the Suspension Clause. See 157 F.3d 
+at 120. In that case, we reasoned that the INS’s 
+articulation of the review that is required under the 
+Constitution: . 
+
+
+is drawn from the very different context of succes- 
+sive federal habeas corpus petitions by prisoners in 
+state custody who have already had one or more 
+opportunities for full judicial process and appeals in 
+the state system, with an opportunity for further 
+review in the Supreme Court by a writ of certiorari, 
+and one or more opportunities for review in the 
+federal judiciary on their first habeas petition. 
+
+
+Id. (quoting Goncalves, 144 F.3d at 118 n.8). The case of 
+a legal permanent resident alien, in contrast, arises in 
+the setting of executive detention, “a context in which 
+the petitioner[ ] ha[s] never had [his or her] claim[ ] 
+review[ed] by any court, federal or state.” Jd. In this 
+
+
+7la 
+
+
+context, circuit courts, including this one, have noted 
+that review of statutory questions similar to the one 
+presented in this case has long been deemed essential 
+to ensure that a detained alien receives full due process 
+of law. See Henderson, 157 F.3d at 121 (citing Gegiow 
+v. Uhl, 239 U.S. 3, 3, 36 S.Ct. 2, 60 L.Ed. 114 (1915); 
+Brownell v. We Shung, 352 U.S. 180, 182 n.1, 77 S. Ct. 
+252, 1 L.Ed.2d 225 (1956)); Goncalves, 144 F.3d at 124 
+(citing numerous immigration cases that have con- 
+sidered claims of statutory right)); see also Mayers, 175 
+F.3d at 1300 (citing United States ex rel. Hintopoulos v. 
+Shaughnessy, 353 U.S. 72, 78, 77 S. Ct. 618, 1 L.Ed.2d 
+652 (1957)); Accardi v. Shaughnessy, 347 U.S. 260, 268, 
+74 S. Ct. 499, 98 L.Ed. 681 (1954)). 
+
+
+Furthermore, the language of 28 U.S.C. § 2241 does 
+not contemplate that the writ only extends to a person 
+in custody in violation of the Constitution. Rather, the 
+statute also provides habeas jurisdiction over claims 
+that a person is in custody in violation of federal laws 
+and treaties. See 28 U.S.C. § 2241 (providing that 
+the writ of habeas corpus shall extend to a person in 
+custody “in violation of the Constitution or laws or 
+treaties of the United States”). Hence, the literal 
+terms of 28 U.S.C. § 2241 contemplate statutory claims 
+against executive detention. 
+
+
+The substitution of judicial review only of substantial 
+constitutional questions for the habeas review guaran- 
+teed under 28 U.S.C. § 2241 therefore does not cure the 
+constitutional infirmity that could result from a repeal 
+of the habeas statute. Without habeas jurisdiction to 
+review final orders, there is currently no judicial review 
+at all of a removal order issued against a non-citizen 
+who is ordered removable because he or she committed 
+
+
+72a 
+
+
+a certain crime. Because habeas jurisdiction is consti- 
+tutionally required where the immigration laws have 
+been interpreted to bar other forms of judicial review 
+under § 242(a)(2)(C), our decision that habeas review 
+remains for a criminal alien’s legal challenge to his or 
+her deportation order obviates the profound consti- 
+tutional questions that would arise if we concluded that 
+all judicial review had been eradicated. 
+
+
+Although not all challenges that an alien may launch 
+against his removal are cognizable under habeas, purely 
+legal statutory and constitutional claims are within 
+§ 2241’s scope. Thus, a federal court’s habeas review 
+includes the claim raised by the petitioners in these 
+consolidated cases—that IIRIRA does not apply to bar 
+the availability of § 212(c) relief for convictions that 
+occurred prior to its enactment. The petitioners chal- 
+lenge the government’s refusal to consider an appli- 
+cation for a waiver from deportation and do not ask the 
+court to determine whether the BIA exercised its 
+discretion appropriately. Their claim is a purely legal 
+question that is cognizable under the habeas statute. 
+
+
+We note, as did the Third Circuit in Liang, that if we 
+were legislators, rather than judges, we might opt for a 
+statutory scheme under which an alien’s constitutional 
+and statutory challenges are cognizable in the court of 
+appeals pursuant to a petition for review. This would 
+eradicate habeas corpus’s duplicative review of legal 
+questions in the district court and the court of appeals 
+and serve Congress’s goal to streamline judicial review. 
+However, we disagree with the Eleventh Circuit’s 
+interpretation of INA § 242(a)(2)(C) in Richardson II as 
+permitting review of both statutory and constitutional 
+claims. Although this interpretation may represent 
+
+
+73a : 
+
+
+sound legislative policy, we reiterate that we do not 
+read IIRIRA or our prior cases to permit such review 
+under INA § 242(a)(2)(C). 
+
+
+Notwithstanding, the question raised by the peti- 
+tioners is a purely legal matter appropriate for a court, 
+rather than the BIA, to determine. See Mayers, 175 
+F.3d at 1300; see aiso Goncalves, 144 F.3d at 113; 
+LaGuerre, 164 F.3d at 1041. It is the type of question 
+that, once answered by the highest court, is answered 
+for all cases that follow presenting the same issue. We 
+therefore believe our decision today that a legal re- 
+sident alien’s pure legal challenges are preserved via 
+habeas corpus to his or her removal order serves to 
+advance Congress’s goal of streamlining judicial review. 
+
+
+III. CONCLUSION 
+
+
+We affirm our adherence to the proposition that had 
+Congress intended to strip federal courts of habeas 
+jurisdiction under 28 U.S.C. § 2241 over criminal aliens’ 
+statutory and constitutional challenges, it would have 
+done so by making its intent explicit. Because the 
+permanent rules do not mention a repeal of 28 U.S.C. 
+§ 2241 or habeas jurisdiction generally, we hold that 
+they do not deprive a federal court of its habeas juris- 
+diction under § 2241 to review the purely legal claims of 
+criminal aliens against final orders of removal. Because 
+we lack jurisdiction under INA § 242(a)(2)(C) over the 
+petitions for review brought by Calcano-Martinez, 
+Madrid, and Khan challenging their final orders of 
+removal, we dismiss the petitions without prejudice to 
+Khan’s pending petition or to the same claims being 
+brought by Calcano-Martinez and Madrid under habeas 
+corpus. 
+
+
+74a 
+
+
+APPENDIX C 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF CONNECTICUT 
+
+
+Nos. 3:99ev260 (AHN), 3:99ev772 (AHN), 
+3:99ev773(AHN) 
+
+
+ROHAN P. DUNBAR 
+Vv. 
+
+
+INS 
+
+
+GYNO DOMOND 
+
+
+v. 
+INS 
+
+
+ENRICO ST. CYR 
+
+
+v. 
+INS 
+
+
+[Aug. 30, 1999) 
+
+
+75a 
+
+
+RULING ON PETITIONS FOR HABEAS CORPUS 
+
+
+The petitioners in these cases, Rohan P. Dunbar 
+(“Dunbar”), Gyno Domond (“Domond”), and Enrico St. 
+Cyr (“St. Cyr”), are Lawful Permanent Residents 
+(“LPRs”) of the United States currently facing deporta- 
+tion as a consequence of criminal acts they have com- 
+mitted. The Immigration and N aturalization Service 
+(“INS”) has agreed, through an oral stipulation entered 
+into via the United States Attorney’s Office for the 
+District of Connecticut, to suspend the deportation of 
+the petitioners pending the outcome of these actions. 
+
+
+In particular, the petitioners seek writs of habeas 
+corpus compelling the INS to allow them to apply for a 
+statutorily repealed form of discretionary relief from 
+deportation. For the following reasons, Dunbar’s 
+petition [doc. # 1 (3:99ev260(AHN))] is GRANTED, 
+Domond’s petition [doc. # 1 (3:99ev772(AHN))] is 
+GRANTED, and St. Cyr’s petition [doc. # 1 (3:99ev773 
+(AHN))] is GRANTED. 
+
+
+BACKGROUND 
+
+
+On April 24, 1996, Congress enacted the Anti- 
+Terrorism and Effective Death Penalty Act of 1996, 
+Pub. L. No. 104-132, 110 Stat. 1214 (1996) (“AEDPA”) 
+(effective date April 24, 1996). Later that year, Con- 
+gress enacted the Illegal Immigration Reform and 
+Immigrant Responsibility Act of 1996, Pub. L. No. 104- 
+208, Div. C, 110 Stat. 3009 (1996) (“IIRIRA”) (transi- 
+tional rules effective date October 30, 1996 and 
+permanent rules effective date April 1, 1997). As 
+discussed below, these acts established significant 
+
+
+76a 
+
+
+changes in the Immigration and Naturalization Act, 8 
+U.S.C. §§ 1101-1537 (“INA”), that affect, inter alia, (1) 
+the jurisdiction of federal courts to review immigration 
+decisions and (2) the relief available to aliens involvea 
+in deportation proceedings. The effects of these acts 
+underlie the current petitions. 
+
+
+I. Dunbar 
+
+
+Dunbar was admitted to the United States as an 
+LPR on March 27, 1984. Subsequently, he was 
+convicted of assault in the second degree on January 2, 
+1996. As a consequence, on March 22, 1996, INS issued 
+an Order to Show Cause which was served on Dunbar 
+on April 18, 1996, but not filed with the Office of the 
+Immigration Judge until May 1, 1996. An Immigration 
+Judge (“IJ”) held hearings on November 19, 1996, May 
+20, 1997, September 23, 1997, and January 12, 1998, and 
+determined that Dunbar was subject to deportation as 
+an alien who had committed an aggravated felony. 
+Dunbar appealed to the Board of Immigration Appeals 
+(“BIA”) which dismissed his appeal on January 20, 1999. 
+He filed the current petition for a writ of habeas corpus 
+on February 11, 1999. 
+
+
+Il. Domond 
+
+
+Domond entered the United States at an unknown 
+time in the past. He obtained LPR status on August 12, 
+1993. Subsequently, on November 8, 1996, he was 
+convicted of robbery. The robbery itself had occurred 
+on November 18, 1994. As a result of his conviction, 
+INS issued an Order to Show Cause on December 30, 
+1996, which was served on Domond on February 24, 
+1997, and filed with the Office of the Immigration Judge 
+
+
+77a 
+
+
+on February 27, 1997. On March 8, 1998, an IJ deter- 
+mined that Domond was subject to deportation as an 
+alien who had been convicted of an aggravated felony. 
+Domond appealed to the BIA which dismissed his 
+appeal on December 22, 1998. He then filed the current 
+petition for a writ of habeas corpus on April 27, 1999. 
+
+
+III. St. Cyr 
+
+
+St. Cyr was admitted to the United States as a LPR 
+on June 17, 1986. He was convicted of sale of a narcotic/ 
+hallucinogen on March 8, 1996. As a consequence, INS 
+issued a Notice to Appear in removal proceedings on 
+April 10, 1997, which was served on St. Cyr on July 10, 
+1997 and filed with the Immigration Judge on July 23, 
+1997. On January 12, 1998, an IJ determined that St. 
+Cyr was subject to deportation as an alien convicted of 
+sale of a narcotic/hallucinogen. St. Cyr appealed to the 
+BIA which dismissed his appeal on November 10, 1998. 
+He filed the current petition for a writ of habeas corpus 
+on April 27, 1999. . 
+
+
+DISCUSSION 
+
+
+The INA provides that any alien who has been con- 
+victed of one of several various offenses, such as 
+an aggravated felony or a controlled substance viola 
+tion, is subject to deportation. See 8 U.S.C.A. 
+$§ 1227(a)(2)(A)(E) (West 1999). Prior to the 1996 
+amendments to the INA, an alien who faced 
+deportation due to a criminal conviction could request 
+discretionary relief from deportation pursuant to INA 
+§ 212(c). See 8 U.S.C.A. § 1182(c) (West 1995) (re- 
+pealed). If that request was denied, an alien could seek 
+review in the Courts of Appeals, see 8 U.S.C.A. 
+
+
+78a 
+
+
+§ 1105(a) (West 1995) (repealed), or could petition for a 
+writ of habeas corpus pursuant to either the INA, see 8 
+U.S.C.A. § 1105a(a) (10) (West 1995) (repealed), or the 
+general habeas statute, see 28 U.S.C. § 2241 (1999). 
+
+
+On April 24, 1996, Congress enacted AEDPA. 
+AEDPA § 440(d) barred INA § 212(c) relief for persons 
+subject to deportation due to having committed any of 
+certain enumerated crimina: offenses, including aggra- 
+vated felonies, and crimes involving “moral turpitude” 
+or controlled substances. See AEDPA § 440(d). Later, 
+in September 1996, Congress passed IIRIRA which 
+repealed iNA § 212(c) relief entirely and replaced it 
+with a new type of relief designated “cancellation of re- 
+moval.” See IIRIRA § 304(b); see also 8 U.S.C. 
+§ 1229(b).' Cancellation of removal relief cannot be 
+given to any alien that has been convicted of an aggra- 
+vated felony. See 8 U.S.C. § 1229b(a)(3). Included in 
+the definition of an aggravated felony is “illicit traf- 
+ficking in a controlled substance.” 8 U.S.C.A. 
+§ 1101(a)(43)(B). 
+
+
+In addition, IIRIRA supplanted the INA’s judicial 
+review provisions. See IIRIRA § 309(c)(1); see also 8 
+U.S.C. § 1252. In particular, the amended § 1252 
+
+
+1 IIRIRA contains two different sets of rules. First, there are 
+the “transitional rules” which apply to persons whose removal 
+proceedings were commenced before April 1, 1997, and against 
+whom a final deportation order issued after © »ber 30, 1996. See 
+IIRIRA §§ 309(c), as amended by the Act of U__ 11, 1997, § 2, Pub. 
+L. No. 104-302, 110 Stat. 3656, 3657. Second, there are the “perma- 
+nent rules” which apply to persons whose removal proceedings 
+commenced after April 1, 1997. Seeid. Given this Court’s con- 
+clusions, discussed infra, regarding the pending petitions, this dis- 
+tinction is not relevant for current purposes. 
+
+
+79a 
+
+
+generally limits the availability of judicial review of 
+deportation orders to the Courts of Appeals. See 8 
+U.S.C. §§ 1252(a)-(b). As relevant to the arguments 
+presented in this case, § 1252(g) provides that: 
+
+
+Except as provided in this section and notwith- 
+standing any other provision of law, no court shall 
+have jurisdiction to hear any cause or claim by cr on 
+behalf of any alien arising from the decision or 
+action by the Attorney General to commence pro- 
+
+. ceedings, adjudicate cases, or execute removal 
+orders against any alien under this act. 
+
+
+8 U.S.C.A. § 1252(g). 
+
+
+Here, the government asserts that the 1996 amend- 
+ments to the INA deprive this Court of jurisdiction 
+over St. Cyr’s claim and preclude Dunbar and Domond 
+from requesting INA § 212(c) relief. 
+
+
+I. Jurisdiction 
+
+
+The government contends that this Court lacks 
+jurisdiction over St. Cyr’s action because his proceed- 
+ings before an IJ began after IIRIRA amended § 1252 
+to place severe limitations on judicial review of removal 
+orders. In support of this claim, the government relies 
+on Reno v. American-Arab Anti-Discrimination Com- 
+mittee, 525 U.S. 471, 119 S.Ct. 936, 941-42 & 942 n.7, 142 
+L.Ed.2d 940 (1999) (“AAADC “), and Fontes v. Reno, 
+No. 99cv10491-REK, slip op. at 8-9, (D. Mass. Mar. 9, 
+1999). 
+
+
+In AAADC, the Supreme Court held that § 1252(g) 
+deprived federal courts of jurisdiction over an action 
+that alleged that the INS had targeted certain 
+
+
+80a 
+
+
+individuals for deportation because of their affiliation 
+with a politically unpopular group. See 119 S. Ct. at 
+943. The Court ruled that § 1252(g) narrowly applies to 
+preclude judicial review of the Attorney General’s 
+“decision or action” to “commence proceedings, adjud- 
+cate cases, or execute removal orders.” Seeid. The 
+Court noted that many other actions exist that are part 
+of the deportation process that are not covered by 
+§ 1252(g), and that § 1252(g) should not be read as an 
+all-encompassing provision. See id. Indeed, the Court 
+recognized that the reason this provision focuses on 
+these discrete acts of the Attorney General is that they 
+all represent points in a deportation proceeding at 
+which the Attorney General could decide for humani- 
+tarian reasons to “defer action,” 7.e., to abandon de- 
+portation proceedings against an individual who is 
+subject to deportation. See id. at 943-44. This 
+provision, then, is designed merely to shelter the 
+Attorney General’s decision to continue or discontinue a 
+deportation proceeding, see id. at 944, and has no direct 
+relevance to questions regarding a federal court’s 
+habeas jurisdiction. Indeed, in regard to the continuing 
+validity of habeas jurisdiction, while the Supreme Court 
+in AAADC expressly noted that “disagreement” exists 
+between the Courts of Appeals concerning that issue, 
+see id. at 942 n.7, it never purported to resolve that 
+disagreement. 
+
+
+In pre-AAADC rulings, both the Second Circuit and 
+other Courts of Appeals have held that federa’ courts 
+
+
+continue even after the 1996 amendments tothe INA to . 
+
+
+have jurisdiction over petitions for habeas corpus pur- 
+suant to 28 U.S.C. § 2241. See Henderson v. INS, 157 
+F.3d 106, 118-20 (2d Cir. 1998), cert. denied sub nom. 
+Navas v. Reno, 526 U.S. 1004, 119 S. Ct. 1141, 143 
+
+
+8la 
+
+
+L.Ed.2d 209 (1999); Jean-Baptiste v. Reno, 144 F.3d 
+212, 219 (2d Cir. 1998), reh’g en banc denied, 175 F.3d 
+226 (1999); see also Goncalves v. Reno, 144 F.3d 110, 
+123 (1st Cir. 1998), cert. denied, 526 U.S. 1004, 119 S. Ct. 
+1140, 143 L.Ed.2d 208 (1999); Sandoval v. INS, 166 F.3d 
+225 (3rd Cir. 1999). 
+
+
+In Jean-Baptiste, the Second Circuit held that “in the 
+absence of language affirmatively and clearly elimi- 
+nating habeas review, we presume Congress did not 
+aim to bar federal courts’ habeas jurisdiction pursuant 
+to § 2241.” 114 F.3d at 219. In particular, the court 
+ruled that: 
+
+
+Nothing in the language of either the Antiterrorism 
+Act or the Immigration Reform Act suggests that 
+Congress expressly repealed § 2241, limited its 
+scope, or eliminated the jurisdiction of the district 
+courts under that statute to entertain petitions 
+seeking writs of habeas corpus. Those two Acts 
+therefore do not specifically exclude habeas review 
+in deportation cases under § 2241, and repeal by 
+implication of the rights to petition for habeas cor- 
+pus relief is disfavored. 
+
+
+See id. (citing, inter alia, Felker v. Turpin, 518 U.S. 
+651, 116 S. Ct. 2338, 185 L.Ed.2d 827 (1996)). 
+
+
+In Henderson, the Second Circuit reaffirmed that 
+§ 2241 habeas remains a valid option after the 1996 
+amendments although the scope of review permitted 
+has been narrowed. See 157 F.3d at 119. In particular, 
+the court stated that federal courts retain the “power to 
+review the Attorney General’s interpretation of the 
+immigration laws.” Jd. at 120 & nn. 10-12. Similarly, 
+the First and Third Circuits have held that the 1996 
+
+
+82a 
+
+
+INA amendments neither expressly nor implicitly re- 
+pealed the ability of a petitioner to seek judicial review 
+by a writ of habeas corpus pursuant to § 2241. See 
+Goncalves, 144 F.3d at 119-23 (discussing several 
+grounds for holding § 2241 not repealed); Sandoval, 166 
+F.3d at 238. 
+
+
+Here, the Court holds that it retains habeas juris- 
+diction over all of the petitioners’ claims. Following 
+Jean-Baptiste, the Court concludes that Congress has 
+not explicitly repealed or limited § 2241 habeas juris- 
+diction. See 144 F.3d at 219. Further, the basic issue of 
+retrospective application of the 1996 amendment and 
+eventual repeal of § 212(c) relief is the same variety of 
+issue over which the Henderson court concluded federal 
+courts retain habeas jurisdiction. Finally, as discussed 
+above, the Supreme Court’s ruling in AAADC is inap- 
+posite, as it merely clarifies that § 1252(g) primarily 
+applies to “deferred action” decisions by the Attorney 
+General and does not address the status of habeas 
+jurisdiction after the 1996 amendments.” 
+
+
+Il. Availability of INA § 212(c) Relief — 
+
+
+The government argues that the petitioners should 
+not be entitled to INA § 212(c) relief because their 
+deportation proceedings commenced after the effective 
+date of AEDPA, 2.e., April 24, 1996. In particular, the 
+government contends that application to the petitioners 
+of AEDPA § 440(d)—which significantly limited the 
+cases where section 212(c) relief could be sought—does 
+
+
+2 Based on this Court's interpretation of AAADC and relevant 
+Second Circuit precedent, this Court finds the reasoning of Fontes, 
+No. 99ev10491-REK, slip op. at 8-9, to be unpersuasive. 
+
+
+83a 
+
+
+not constitute an unjustified retrospective application 
+of § 440(d). 
+
+
+The Second Circuit has held in general “that § 440(d) 
+does not apply to cases initiated before the date of its 
+enactment.” Henderson, 157 F.3d at 129 (expressing 
+agreement with the First Circuit’s opinion in Gon- 
+calves, 144 F.3d at 126). In Support of this conclusion, 
+the Henderson court recognized that “statutes are not 
+ordinarily afforded retroactive effect unless ‘Congress 
+has clearly manifested its intent’ to have them so 
+applied.” Jd. (quoting Hughes Aircraft Co. v. United 
+States ex rel. Schumer, 520 U.S. 939, 117 S. Ct. 1871, 
+1876, 188 L.Ed.2d 135 (1997)). However, the court 
+found that it did not have to rely on that presumption 
+because “when § 440(d) is read in conjunction with the 
+rest of the AEDPA and with the legislative history of 
+the statute, there is abundant direct evidence that the 
+section was not intended to apply retroactively.” Jd. at 
+
+
+129-30 (discussing that other AEDPA sections contain 
+
+
+explicit language of their retrospective effect and that 
+compromise bill passed by Congress omitted Senate 
+language that would have applied § 440(d) retro- 
+actively). 
+
+
+Based upon this determination, the Second Circuit 
+held that when a petitioner’s “deportation proceeding 
+was pending on the date of the Statute’s enactment, 
+. . » § 440(d) does not apply to him.” Jd. at 130 (footnote 
+omitted). In particular, the court found that 
+§ 440(d) did not apply to a petitioner who requested 
+INA § 212(c) relief prior to AEDPA’s enactment even 
+though the deportation hearing was held after 
+AEDPA’s enactment. See id. at 110, 130. The court 
+also ruled that § 440(d) did not apply to a petitioner who 
+
+
+84a 
+
+
+was in exclusion proceedings prior to AEDPA’s enact- 
+ment, which were changed to deportation proceedings 
+after the enactment. See id. at 111, 130. However, due 
+to its reading of the facts of the petitions in Henderson, 
+the Second Circuit expressly stated that it “need not 
+reach [petitioner’s] broader argument that the statute 
+should not apply to primary conduct—~.e., criminal 
+convictions—that occurred prior to April 24, 1996.” Id. 
+at 128 n.28. 
+
+
+With this background in mind, the Court now turns 
+to the arguments advanced in these cases. Prelimi- 
+narily, the government argues that this Court should 
+not recognize a deportation proceeding as commencing 
+until after the Order to Show Cause has been filed with 
+the IJ. In support, the government points out that 
+under 8 C.F.R. § 242.1(a) deportation proceedings begin 
+when the Order is filed with the IJ. The government 
+contends that when the Order was issued is irrelevant 
+to whether deportation proceedings have commenced. 
+
+
+The Court is not convinced. This Court agrees with 
+the District of Oregon that: 
+
+
+the defendants’ argument that [petitioner] was not 
+in deportation proceedings until the order to show 
+cause was filed with the immigration court [is 
+unpersuasive]. As of the time the order to show 
+cause was issued, the INS had the power to arrest 
+him; commencement of the case in immigration 
+court was subject only to the vagaries of admini- 
+strative scheduling. From a due process standpoint, 
+[petitioner] was subject to the deportation power of 
+the INS as of the time the show cause order issued; 
+fairness requires that the INS, having placed [peti- 
+
+
+85a 
+
+
+tioner] under its authority, should also live with the 
+results of that decision. 
+
+
+Mercado-Amador v. Reno, 47 F. Supp. 2d 1219, 1223- 
+1224 (D. Or. 1999) (reaffirming ruling that § 440(d) did 
+not apply to petitioner where INS issued order to show 
+cause prior to AEDPA’s enactment but did not serve 
+order on petitioner until after AEDPA’s enactment). 
+
+
+Given this Court’s determination that a deportation 
+proceeding effectively begins once an Order to Show 
+Cause has been issued to a potential deportee, Hender- 
+son indicates that potential deportees who have been 
+issued Orders to Show Cause prior to the enactment of 
+AEDPA should be allowed to request INA § 212(c) 
+relief. See Henderson, 157 F.3d at 111, 130 n.30 (finding 
+petitioner whose case changed from exclusion to de- 
+portation after April 24, 1996 and who did not request 
+section 212(c) relief until August 2, 1996 should be 
+provided a hearing on such relief). Here, this reasoning 
+requires that Dunbar’s petition be granted. However, 
+as discussed below, this Court finds that alternate 
+grounds also compel this result. 
+
+
+As the primary argument in these cases, the peti- 
+tioners claim exactly what the Second Circuit declined 
+to address in Henderson—that § 440(d) should not 
+apply to persons whose convictions (or in Domond’s 
+case, criminal conduct only) occurred prior to April 24, 
+1996. The basic issue, then, is one of “retrospective 
+application.” 
+
+
+The Supreme Court, in Landgraf v. USI Film 
+Prods., 511 U.S. 244, 114 S. Ct. 1483, 128 L.Ed.2d 229 
+
+
+86a 
+
+
+(1994), set forth the basic framework for addressing 
+‘whether a statute applies retrospectively: 
+
+
+When a case implicates a federal statute enacted 
+after the events in suit, the court’s first task is to 
+determine whether Congress has expressly pre- 
+scribed the statute’s proper reach. If Congress has 
+done so, of course, there is no need to resort to 
+judicial default rules. When, however, the statute 
+contains no such express command, the court must 
+determine whether the new statute would have 
+retroactive effect, 7.e., whether it would impair 
+rights a party possessed when he acted, increase a 
+party’s liability for past conduct, or impose new 
+duties with respect to transactions already com- 
+pleted. If the statute would operate retroactively, 
+our traditional presumption teaches that it does not 
+govern absent. clear congressional intent favoring 
+such a result. 
+
+
+Id. at 280, 114 S. Ct. 1488. The Court stated that in 
+making this determination: 
+
+
+[a] court must ask whether the new provision 
+attaches new legal consequences to events com- 
+pleted before its enactment. The conclusion that a 
+particular rule operates “retroactively” comes at the 
+end of a process of judgment concerning the nature 
+and extent of the change in the law and the degree 
+of connection between the operation of the new rule 
+and a relevant past event. Any test of retroactivity 
+will leave room for disagreement in hard cases, and 
+is unlikely to classify the enormous variety of legal 
+changes with perfect philosophical clarity. 
+However, retroactivity is a matter on which judges 
+tend to have “sound . . . instinct[s],” see Danforth 
+v. Groton Water Co., 178 Mass. 472, 476, 59 N.E. 
+
+
+87a 
+
+
+1033, 1034 (1901) (Holmes, J.), and familiar con- 
+siderations of fair notice, reasonable reliance, and 
+settled expectations offer sound guidance. 
+
+
+Id. at 269-70, 114 S.Ct. 1488. 
+
+
+Here, the Court holds that these principles dictate 
+that the current petitioners should have their de- 
+portation proceedings governed by the laws that were 
+in effect at the time they committed their crimes. See 
+Pottinger v. Reno, 51 F. Supp. 2d 349, 351 (E.D.N.Y. 
+1999) (stating “petitioners in all these cases should be 
+treated as if the laws governing their rights were those 
+in existence at the time they committed the crimes for 
+‘which the government now seeks to deport them”). 
+Alternatively, the Court believes that at the very least 
+the date of conviction should control the determination 
+of when a person is in deportation proceedings. See 
+Wallace v. Reno, 24 F. Supp. 2d 104, 111-12 (D. Mass. 
+1998) (holding that § 440(d) does not apply to indi- 
+viduals whose deportation proceedings resulted from 
+guilty pleas entered into prior to April 24, 1996). The 
+reasons for these conclusions are set forth below. 
+
+
+As an initial matter, the Court finds that the type of 
+discretionary relief the petitioners seek constitutes a 
+legal interest that is important enough for retro- 
+spective application concerns to apply. See Lee v. Reno, 
+15 F. Supp. 2d 26, 45-46 (D.D.C. 1998) (stating that 
+“even though [petitioner] never had a Tight’ to receive 
+a § 212(c) waiver, he certainly was entitled to have the 
+opportunity to be heard and to present his case in 
+accordance with the agency’s factors” and that “at the 
+time of [petitioner’s] conduct, he could have applied for 
+a § 212(c) wavier, and retroactive application of § 440(d) 
+
+
+88a 
+
+
+would ‘disable’ him from doing so”); see also AAADC, 
+119 S. Ct. at 950 (Ginsburg, J., concurring) (recognizing 
+that “[djeportation . . . is a grave sanction”); 
+Pottinger, 51 F. Supp. 2d at 362 (“A ‘legal change that 
+would have an impact on private parties’ planning’ 
+triggers the presumption against retroactivity, even if 
+the change is only the attachment of additional civil 
+liability to conduct that was already deemed ‘morally 
+reprehensible or illegal’” (quoting Landgraf, 511 U.S. 
+at 282-83 & n.35, 114 S. Ct. 1483)). 
+
+
+Here, the Court finds that the operative event for 
+determining whether AEDPA § 440(d) and the ITRIRA 
+amendments should apply is the actual commission of 
+the crime for which the petitioners now face deporta- 
+tion. See Pottinger, 51 F. Supp. 2d at 355. “The time of 
+the conviction and the time deportation proceedings 
+commenced were happenstance, without relevance to 
+the reason for congressional treatment of criminal 
+permanent resident aliens.” Jd. Indeed, the very 
+purpose of the amendments was to change the legal 
+consequences of certain criminal conduct, not the conse- 
+quences of being convicted of that conduct or having 
+deportation proceedings commenced. 
+
+
+As recognized by the Second Circuit in Henderson 
+and expounded upon by the Eastern District of New 
+York in Pottinger, AEDPA contains several provisions 
+that provide varying degrees of retroactivity for their 
+application. See Pottinger, 51 F. Supp. 2d at 359 (re- 
+viewing how “AEDPA section 440(d)’s silence as to 
+temporal reach stands in stark contrast to the finely 
+calibrated retroactivity language of other AEDPA 
+sections”). This state of affairs leaves no doubt as to 
+the ability of Congress to delineate the temporal reach 
+
+
+89a 
+
+
+of a statute. The failure of Congress to explicitly and 
+clearly indicate whether the amendments limiting and 
+ultimately repealing INA § 212(c) relief should apply to 
+primary conduct predating the enactment of those 
+amendments leaves no room for doubt that they the 
+amendments should not be applied retrospectively. Cf. 
+id. at 360-361 (stating “Congress’s choice not to include 
+- + + any retroactivity language—in section 440(d) is 
+reasonably construed as evidence of its plan to de- 
+signate the section as applicable only to post-enactment 
+conduct”). 
+
+
+As noted in Pottinger, this conclusion is bolstered by 
+the Supreme Court’s recognition that statutes are 
+generally presumed not to apply retrospectively: 
+
+
+The presumption against retroactive legislation is 
+deeply rooted in our jurisprudence, and embodies a 
+legal doctrine centuries older than our Republic. 
+Elementary considerations of fairness dictate that 
+individuals should have an opportunity _te-know 
+what the law is and to conform their conduct accord- 
+ingly; settled expectations should not lightly be 
+disrupted. For that reason, the principle that the 
+legal effect of conduct should ordinarily be assessed 
+under the law that existed when the conduct took 
+place has timeless and universal appeal. 
+
+
+Id. (quoting Landgraf, 511 U.S. at 265, 114 S. Ct. 1483). 
+In addition, this Court concurs with the view that “the 
+rule of lenity complements Landgraf in requiring the 
+Statute to be read in favor of the petitioner.” Jd. at 363. 
+
+
+Here, this determination requires that all of the cur- 
+rent petitions be granted because all of the petitioners 
+
+
+90a 
+
+
+committed the crimes which provide the basis for their 
+deportation proceedings prior to April 24, 1996. 
+
+
+In the event of an appeal and rejection of the primary 
+holding in this case, the Court notes its belief that at a 
+minimum the date of conviction should govern a po- 
+tential deportee’s eligibility for INA § 212(c) relief. See 
+Wallace, 24 F. Supp. 2d at 111-12; see also Pottinger, 51- 
+F. Supp. 2d at 360-61. As recognized in Wallace, attor- 
+neys have a professional duty to discuss the immi- 
+gration consequences of a conviction with their non- 
+citizen clients and a large percentage of INA § 212(c) 
+requests for relief have been granted. See Wallace, 24 
+F. Supp. 2d at 110-11 (noting, in regard to guilty pleas, 
+that “a noncitizen criminal defendant would most likely 
+have been informed of and had good reason to consider 
+the immigration consequences of a guilty plea”). These 
+considerations indicate that potential deportees would 
+have had settled expectations and reasonably relied on 
+their eligibility for INA § 212(c) relief at the time of 
+their guilty pleas or convictions. Under these circum- 
+stances, the Court concludes that the Landgraf prin- 
+ciples counsel that the amendments to AEDPA and 
+IIRIRA at issue should not apply retroactively to bar 
+petitioners whose convictions predate those 
+amendments from requesting INA § 212(c) relief.’ 
+
+
+A brief concluding remark is appropriate. These 
+consolidated cases represent yet another example of 
+the costly and unnecessary litigation that is spawned by 
+Congress when it fails to indicate whether legislation 
+
+
+3 The Court notes that if the operative date is found on appeal 
+to be the date of guilty plea or conviction, then all of the petitioners 
+except Domond will still be eligible to request INA § 212(c) relief. 
+
+
+9la 
+
+
+should be applied retrospectively. A one line sentence 
+could have avoided these and many other cases 
+currently pending before the courts of this Circuit and 
+its sister Circuits. 
+
+
+CONCLUSION 
+
+
+For the reasons stated above, Dunbar’s petition [doc. 
+# 1 (3:99ev260(AHN)) ] is GRANTED, Domond’s peti- 
+tion [doc. # 1 (3:99ev772(AHN)) ] is GRANTED, and 
+St. Cyr’s petition [doc. # 1 (3:99ev773(AHN)) ] is 
+GRANTED. The Clerk is ordered to CLOSE these 
+cases. 
+
+
+SO ORDERED this 28rd day of August, 1999 at 
+Bridgeport, Connecticut. 
+
+
+/s/ 
+ALAN H. NEvas 
+United States District J udge 
+
+
+92a 
+
+
+APPENDIX D 
+UNITED STATES DISTRICT COURT 
+DISTRICT OF CONNECTICUT 
+
+
+3:99CV773 AHN 
+ENRICO ST. CYR 
+V. 
+
+
+IMMIGRATION AND 
+NATURALIZATION SERVICE 
+
+
+[Filed Aug. 30, 1999] 
+
+
+JUDGMENT 
+
+
+This cause came on for consideration on a petition for 
+habeas corpus by the Honorable Alan H. Nevas, Senior 
+US. District Judge, and 
+
+
+The Court having -nsidered the petition and all the 
+papers submitted in connection therewith, filed its Rul- 
+ing on Petition for Habeas Corpus granting the petition 
+and allowing the petitioners to apply for a statutorily 
+repealed form of discretionary relief from deportation. 
+
+
+It is therefore ORDERED and ADJUDGED that the 
+writ of habeas corpus is granted and Immigration and 
+Naturalization is to allow petitioners to apply for dis- 
+
+
+cretionary relief from deportation pursuant to the 
+Court’s ruling. — 
+
+
+93a 
+
+
+Dated at Bridgeport, Connecticut, this 30th day of 
+August, 1999. 
+
+
+KEVIN F. ROWE, CLERK 
+
+
+By Si ; 
+Deputy Clerk 
+
+
+94a 
+
+
+APPENDIX E 
+
+
+U.S. Department of Justice 
+
+Executive Office for Immigration 
+
+Review Decision of the Board 
+of Immigration Appeals 
+
+
+Falls Church, Virginia 22041 
+
+
+File: A41 052 179 — Hartford Date: Nov 10 1998 
+
+
+Inre: ENRICO SAINT CYR a.k.a. Enrico St. Cyr 
+
+
+IN REMOVAL PROCEEDINGS 
+APPEAL 
+ON BEHALF OF 
+RESPONDENT: Michael G. Moore, Esquire 
+[REDACTED] 
+_ [REDACTED] 
+CHARGE: 
+
+
+Notice: Sec. 237(a)(2)(A)(iii), I&N Act 
+[8 U.S.C. § 1227(a)(2)(A)@iii)] 
+Convicted of aggravated felony 
+
+
+APPLICATION: Waiver of Inadmissibility; 
+cancellation of removal 
+
+
+ORDER: 
+
+
+PER CURIAM. The respondent’s appeal fee waiver 
+request is granted. See 8 C.F. R. § 3.8(c). The appeal is 
+dismissed. The respondent is a native and citizen of 
+Haiti, and a United States lawful permanent resident. 
+
+
+95a 
+
+
+The record reflects that in 1996, he was convicted of 
+sale of a hallucinogen/narcotic in the State of Connecti- 
+cut (Exh. 2). Based on this evidence, the Immigration 
+Judge found the respondent removable as charged. The 
+respondent requested a waiver of inadmissibility under 
+section 212(c) of the Immigration and N ationality Act, 8 
+U.S.C. § 1182(c), which the Immigration Judge denied. 
+
+
+On appeal, the respondent argues that he is elizible 
+for a section 212(c) waiver of inadmissibility. We dis- 
+agree as section 212(c) relief is not available in removal 
+proceedings, which the respondent is properly in. 
+Section 212(c) was repealed by section 304(b) of the 
+Illegal Immigration Reform and Immigrant Responsi- 
+bility Act of 1996 (“IIRIRA”), Division C of Pub. L. No. 
+104-208, 110 Stat. 3009 (enacted Sept. 30, 1996), and was 
+replaced with cancellation of removal under section 
+240A, 8 U.S.C. § 1229b. The respondent is statutorily 
+ineligible for cancellation of removal as his criminal con- 
+viction constitutes an aggravated felony. See sections 
+101(a)(43)(B), 8 U.S.C. §§1101(a)(43)(B), and 240A(a)(3). 
+Accordingly, the appeal is dismissed. 
+
+
+/s/ 
+JOHN GUENDELSBERGER 
+FOR THE BOARD 
+
+
+96a 
+
+
+APPENDIX F 
+
+
+U.S. Department of Justice 
+Executive Office for Immigration Review 
+Office of the Immigration Judge 
+
+
+In the Matter of: Case No. A 41 052 179 
+ENRICO ST. CYR Docket: MACDOUGUAL 
+RESPONDENT REMOVAL PROCEEDINGS 
+
+
+ORDER OF THE IMMIGRATION JUDGE 
+
+
+This is a summary of the oral decision entered on 
+1-12-98. This memorandum is solely for the con- 
+venience of the parties. If the proceedings should be 
+appealed, the Oral Decision will become the official de- 
+cision in this matter. 
+
+
+The respondent was ordered deported to HAITI. 
+[1 Respondent’s application for voluntary departure 
+
+
+was denied and respondent was ordered deported to 
+: or in the alternative to 
+
+
+O Respondent’s application for voluntary departure 
+was granted until , with an alternate 
+order of deportation to or 
+
+
+(1) Respondent’s application for asylum was ( ) granted 
+() denied ( ) withdrawn ( ) other. 
+
+
+© Respondent’s application for withholding of deporta- 
+tion was ( ) granted ( ) denied ( ) withdrawn ( ) other. 
+
+
+97a 
+
+
+C) Respondent’s application for suspension of deporta- 
+tion was ( ) granted ( ) denied ( ) withdrawn ( ) other. 
+
+
+Respondent’s application for waiver under Section 
+212(c) of the Immigration and N ationality Act was 
+() granted ( X ) denied ( ) withdrawn ( ) other. 
+
+
+OQ Respondent's application for was 
+() granted () denied ( ) withdrawn () other. 
+
+
+() Proceedings were terminated. 
+
+
+C1 The application for adjustment of status under 
+Section (216)(216A)(245)(249) was ( ) granted 
+() denied ( ) withdrawn () other. If granted, it was 
+ordered that the respondent be issued all appropri- 
+ate documents necessary to give effect to this order. 
+
+
+CJ Respondent’s status was rescinded under Section 
+246. 
+
+
+> 
+
+
+Other 2-11-98 
+
+
+CJ Respondent was advised of the limitation on dis- 
+cretionary relief for failure to appear as ordered in 
+the Immigration Judge’s oral decision. 
+
+
+Immigration Judge 
+Date: 1-12-98 . 
+
+
+Appeal: [RESERVEDJWAIVED (A/1/B) 
+
+
+98a 
+
+
+APPENDIX G 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Suspension of Habeas Corpus Clause of the 
+United States Constitution, Art. I, § 9, Cl. 2, provides: 
+
+
+The Privilege of the Writ of Habeas Corpus shall 
+not be suspended, unless when in Cases of Rebellion 
+or Invasion the public Safety may require it. 
+
+
+2. Prior to April 24, 1996, Section 106(a) of the Immi- 
+gration and Nationality Act, 8 U.S.C. 1105a(a) (1994), 
+_ provided in pertinent part: 
+
+
+Exclusiveness of procedure 
+
+
+The procedure prescribed by, and all the 
+provisions of chapter 158 of title 28, shall apply to, 
+and shall be the sole and exclusive procedure for, 
+the judicial review of all final orders of depor- 
+tation, heretofore or hereafter made against aliens 
+within the United States pursuant to admini- 
+strative proceedings under section 1252(b) of this 
+title or pursuant to section 1252a of this title or 
+comparable provisions of any prior Act, except 
+that— 
+
+
+* * KF K 
+
+
+(10) Habeas corpus 
+
+
+any alien held in custody pursuant to an order 
+_of deportation may obtain judiciai review thereof 
+
+
+by habeas corpus proceedings. 
+
+
+RD ee 
+
+
+99a 
+
+
+3. Effective April 24, 1996, Section 106(a) of the 
+Immigration and Nationality Act, 8 U.S.C. 1105a(a), 
+provided in pertinent part: 
+
+
+Exclusiveness of procedure 
+
+
+The procedure prescribed by, and all the 
+provisions of chapter 158 of title 28, shall apply to, 
+and shall be the sole and exclusive procedure for, 
+the judicial review of all final orders of deporta- 
+tion, heretofore or hereafter made against aliens 
+within the United States pursuant to administra- 
+tive proceedings under section 1252(b) of this title 
+or pursuant to section 1252a of this title or com- 
+parable provisions of any prior Act, except that—- 
+
+
+a, ee ee 
+
+
+(10) Any final order of deportation against 
+an alien who is deportable by reason of having 
+committed a criminal offense covered by sec- 
+tion [1251](a)(2)(A)(iii), (B), (C), or (D), or any 
+offense covered by section [1251](a)(2)(A)(ii) 
+for which both predicate offenses are covered 
+by section [1251](a)(2)(A)(i), shall not be sub- 
+ject to review by any court. 
+
+
+4. Prior to April 24, 1996, Section 212(c) of the 
+Immigration and Nationality Act, 8 U.S.C. 1182(c) 
+(1994), provided: 
+
+
+Nonapplicability of subsection (a) 
+
+
+Aliens lawfully admitted for permanent resi- 
+dence who temporarily proceeded abroad volun- 
+tarily and not under an order of deportation, and 
+who are returning to a lawful unrelinquished 
+domicile of seven consecutive years, may be ad- 
+
+
+100a 
+
+
+mitted in the discretion of the Attorney General 
+without regard to the provisions of subsection (a) 
+of this section (other than paragraphs (3) and 
+(9)(C)). Nothing contained in this subsection shall 
+limit the authority of the Attorney General to 
+exercise the discretion vested in him under section 
+1181(b) of this title. The first sentence of this 
+subsection shall not apply to an alien who has been 
+convicted of one or more aggravated felonies and 
+has served for such felony or felonies a term of 
+imprisonment of at least 5 years. 
+
+
+5. Effective April 24, 1996,’ Section 212(c) of the 
+Immigration and Nationality Act, 8 U.S.C. 1182(c), 
+provided: = 
+
+
+Nonapplicability of subsection (a) 
+
+
+Aliens lawfully admitted for permanent resi- 
+dence who temporarily proceeded abroad vol- 
+untarily and not under an order of deportation, 
+and who are returning to a lawful unrelinquished 
+domicile of seven consecutive years, may be ad- 
+mitted in the discretion of the Attorney General 
+without regard to the provisions of subsection (a) 
+of this section (other than paragraphs (3) and 
+(9)(C)). Nothing contained in this subsection shall 
+
+
+1 Section 1182(c) of Title 8 was amended by Section 440(d) of 
+the Antiterrorism and Effective Death Penalty Act of 1996 
+(AEDPA), Pub. L. No. 104-132, 110 Stat. 1277, on April 24, 1996. 
+Further technical amendments were made by Section 306(d) of the 
+Illegal Immigration Reform and Immigrant Responsibility Act, 
+Pub. L. No. 104-208, Div. C, 110 Stat. 3009-612, on September 30, 
+1996, and those technical amendments were made effective as if 
+they were enacted on the original enactment date of AEDPA. The 
+version set forth in the text reflects both sets of amendments. 
+
+
+10la 
+
+
+limit the authority of the Attorney General to 
+exercise the discretion vested in him under section 
+1181(b) of this title. This subsection shall not 
+apply to an alien who is deportable by reason of 
+having committed any criminal offense covered in 
+section [1251}(a)(2)(A)(iii), (B), (C), or (D), or any 
+offense covered by section [1251](a)(2)(A)(ii) for 
+which both predicate offenses are, without regard 
+to the date of their commission, otherwise covered 
+by section [1251](a)(2)(A)(i). 
+
+
+6. Section 235(b) of the Immigration and N ationality 
+“Act, 8 U.S.C. 1225(b) (Supp. IV 1998), provides in 
+pertinent part: 
+
+
+(b) Inspection of applicants for admission 
+
+
+(1) Inspection of aliens arriving in the United 
+States and certain other aliens who have 
+not been admitted or paroled 
+
+
+(A) Screening 
+
+
+(i) In general 
+
+
+If an immigration officer determines 
+that an alien (other than an alien described 
+in subparagraph (F)) who is arriving in the 
+United States or is described in clause (iii) 
+is inadmissible under section 1182(a)(6)(C) 
+or 1182(a)(7) of this title, the officer shall 
+order the alien removed from the United 
+States without further hearing or review 
+unless the alien indicates either an in- 
+tention to apply for asylum under section 
+1158 of this title or a fear of persecution. 
+
+
+102a 
+
+
+(ii) Claims for asylum 
+
+
+If.an immigration officer determines 
+that an alien (other than an alien described 
+in subparagraph (F’)) who is arriving in the 
+United States or is described in clause (iii) 
+is inadmissible under section 1182(a)(6)(C) 
+or 1182(a)(7) of this title and the alien indi- 
+cates either an intention to apply for asy- 
+lum under section 1158 of this titl. er a 
+fear of persecution, the officer shal! 
+the alien for an interview by an asylum 
+officer under subparagraph (B). 
+
+
+* * * * * 
+
+
+(B) Asylum interviews 
+
+
+(i) Conduct by asylum officers 
+
+
+An asylum officer shall conduct inter- 
+views of aliens referred under subpara- 
+graph (A)(ii), either at a port of entry or 
+at such other place designated by the 
+Attorney General. 
+
+
+(ii) Referral of certain aliens 
+
+
+If the officer determines at the time of 
+the interview that an alien has a credible 
+fear of persecution (within the meaning of 
+clause (v)), the alien shall be detained for 
+further consideration of the application for 
+asylum. 
+
+
+108a 
+
+
+(iii) Removal without further review if 
+no credible fear of persecution 
+
+
+(I) In general 
+
+
+Subject to subclause (III), if the 
+officer determines that an alien does 
+not have a credible fear of persecution, 
+the officer shall order the alien re- 
+moved from the United States without 
+further hearing or review. 
+
+
+(IIT) Record of determination 
+
+
+The officer shall prepare a written 
+record of a determination under sub- 
+clause (I). Such record shall include a 
+summary of the material facts as stated 
+by the applicant, such additional facts 
+(if any) relied upon by the officer, and 
+the officer’s analysis of why, in the light 
+of such facts, the alien has not estab- 
+lished a credible fear of persecution. A 
+copy of the officer’s interview notes 
+shall be attached to the written sum- 
+
+
+mary. 
+
+
+(III) Review of determination 
+
+
+The Attorney General shall provide 
+by regulation and upon the alien’s 
+request for prompt review by an 
+immigration judge of a determination 
+under subclause (I) that the alien does 
+not have a credible fear of persecution. 
+Such review shall include an opportun- 
+ity for the alien to be heard and ques- 
+
+
+104a 
+
+
+tioned by the immigration judge, either 
+in person or by telephonic or video 
+connection. Review shall be concluded 
+as expeditiously as possible, to the 
+maximum extent practicable within 24 
+hours, but in no case later than 7 days 
+after the date of the determination 
+under subclause (I). 
+
+
+* * *£ * * 
+
+
+(C) Limitation on administrative review 
+
+
+Except as provided in subparagraph 
+(B)Gii)(III), a removal order entered in ac- 
+cordance with subparagraph (A)(i) or 
+(B)(iii)(I) is not subject to administrative 
+appeal, except that the Attorney General shall 
+provide by regulation for prompt review of 
+such an order under subparagraph (A)(i) 
+against an alien who claims under oath, or as 
+permitted under penalty of perjury under 
+section 1746 of title 28, after having been 
+warned of the penalties for falsely making 
+such claim under such conditions, to have been 
+lawfully admitted for permanent residence, to 
+have been admitted as a refugee under section 
+1157 of this title, or to have been granted 
+asylum under section 1158 of this title. 
+
+
+* * * * * 
+
+
+— — ” 
+
+
+105a 
+
+
+7. Section 240A(a) of the Immigration and National- 
+ity Act, 8 U.S.C. 1229b(a) (Supp. IV 1998), provides: 
+
+
+(a) Cancellation of removal for certain permanent 
+residents 
+
+
+The Attorney General may cancel the removal 
+in the case of an alien who is inadmissible or 
+deportable from the United States if the alien— 
+
+
+(a) has been an alien lawfully admitted for 
+permanent residence for not less than 5 years, 
+
+
+(b) has resided in the United States con- 
+tinuously for 7 years after having been ad- 
+mitted in any status, and 
+
+
+(c) has not been convicted of any aggra- 
+vated felony. 
+
+
+8. Section 242 of the Immigration and Nationality 
+Act, 8 U.S.C. 1252 (Supp. IV 1998), provides in perti- 
+nent part: 
+
+
+§ 1252. Judicial review of orders of removal 
+(a) Applicable provisions 
+
+
+(1) General orders of removal 
+
+
+Judicial review of a final order of removal 
+(other than an order of removal without a hear- 
+ing pursuant to section 1225(b)(1) of this title) 
+is governed only by chapter 158 of title 28, 
+except as provided in subsection (b) of this 
+section and except that the court may not 
+
+
+106a 
+
+
+order the taking of additional evidence under 
+section 2347(c) of such title. 
+
+
+(2) Matters not subject to judicial review 
+
+
+* * *£ K * 
+
+
+(B) Denials of discretionary relief 
+
+
+Notwithstanding any other provision 
+of law, no court shall have jurisdiction to 
+review— 
+
+
+(i) any judgment regarding the 
+granting of relief under section 
+1182(h), 1182), 1229b, 1229c, or 1255 
+of this title,or | 
+
+
+(ii) any other decision or action 
+of the Attorney General the 
+authority for which is specified under 
+this subchapter to be in the 
+discretion of the Attorney General, 
+other than the granting of relief 
+under section 1158(a) of this title. 
+
+
+(C) Orders against criminal aliens 
+
+
+Notwithstanding any other provision 
+of law, no court shall have jurisdiction to 
+review any final order of removal against 
+an alien who is removable by reason 
+of having committed a criminal offense 
+covered in section 1182(a)(2) or 
+1227(a)(2)(A)Gii), (B), (C), or (D) of this 
+title, or any offense covered by section 
+1227(a)(2)(A)Gi) of this title for which both 
+predicate offerses are, without regard to 
+
+
+107a 
+
+
+their date of commission, otherwise 
+covered by section 1227(a)(2)(A)(i) of this 
+title. 
+
+
+* * * * 
+
+
+(b) Requirements for review of orders of removal 
+
+
+With respect to review of an order of removal 
+under subsection (a)(1) of this section, the following 
+requirements apply: 
+
+
+(1) Deadline \ 
+The petition for review must be filed not later 
+
+
+than 30 days after the date of the final order of 
+removal. 
+
+
+* * * * * 
+
+
+(6) Consolidation with review of motions to 
+reopen or reconsider 
+
+
+When a petitioner seeks review of an order 
+under this section, any review sought of a motion 
+to reopen or reconsider the order shall be 
+consolidated with the review of the order. 
+
+
+* * * * * 
+
+
+(9) Consolidation of questions for judicial 
+review 
+
+
+Judicial review of all questions of law and fact, 
+including interpretation and application of consti- 
+tutional and statutory provisions, arising from 
+any action taken or proceeding brought to remove 
+an alien from the United States under this 
+
+
+108a 
+
+
+subchapter shall be available only in judicial 
+review of a final order under this section. 
+(c) Requirements for petition 
+
+
+A petition for review or fcr habeas corpus of an 
+order of removal— 
+
+
+(1) shall attach a copy of such order, and 
+
+
+(2) shall state whether a court has upheld the 
+validity of the order, and, if so, shall state the 
+name of the court, the date of the court’s ruling, 
+and the kind of proceeding. 
+
+
+(d) Review of final orders 
+
+
+A court may review a final order of removal only 
+a. 
+(1) the alien has exhausted all administrative 
+remedies available to the alien as of right, and 
+
+
+(2) another court has not decided the validity 
+of the order, unless the reviewing court finds 
+that the petition presents grounds that could not 
+have been presented in the prior judicial pro- 
+ceeding or that the remedy provided by the prior 
+proceeding was inadequate or ineffective to test 
+the validity of the order. 
+
+
+(e) Judicial review of orders under section 
+1225(b)(1) 
+(1) Limitations on relief 
+Without regard to the nature of the action or 
+claim and without regard to the identity of the 
+party or parties bringing the action, no court 
+may— \ 
+
+
+109a 
+
+
+(A) enter declaratory, injunctive, 
+or other equitable relief in any action 
+pertaining to an order to exclude an 
+alien in accordance with section 
+1225(b)(1) of this title except as specifi- 
+cally authorized in a subsequent para- 
+graph of this subsection, or 
+
+
+(B) certify a class under Rule 23 of 
+the Federal Rules of Civil Procedure in 
+any action for which judicial review is 
+authorized under a subsequent para- 
+graph of this subsection. 
+
+
+(2) Habeas corpus proceedings 
+
+
+Judicial review of any determination 
+made under section 1225(b)(1) of this title 
+is available in habeas corpus proceedings, 
+but shall be limited to determinations of— 
+
+
+(A) whether the petitioner is an 
+alien, 
+
+
+(B) whether the petitioner was 
+ordered removed under such section, 
+and > 
+
+
+(C) whether the petitioner can 
+prove by a preponderance of the 
+evidence that the petitioner is an alien 
+lawfully admitted for permanent re- 
+sidence, has been admitted as a refugee 
+under section 1157 of this title, or has 
+been granted asylum under section 
+1158 of this title, such status not having 
+been terminated, and is entitled to such 
+
+
+110a 
+
+
+further inquiry as prescribed by the 
+Attorney General pursuant to section 
+1225(b)(1)(C) of this title. 
+
+
+* * * KF 
+
+
+9. Section 401(e) of the Antiterrorism and Effective 
+Death Penalty Act of 1996 (AEDPA), Pub. L. No. 104- 
+132, 110 Stat. 1268 (Apr. 24, 1996), provides: 
+
+
+ELIMINATION OF CUSTODY REVIEW BY 
+HABEAS CORPUS.—Section 106(a) of the Im- 
+migration and Nationality Act (8 U.S.C. 1105a(a)) is 
+amended— 
+
+
+(1) in paragraph (8), by adding “and” at 
+the end; 
+
+(2) in paragraph (9), by striking “; and” at 
+the end and inserting a period; and 
+
+(3) by striking paragraph (10). 
+
+
+10. Section 440 of the Antiterrorism and Effective 
+Death Penalty Act of 1996 (AEDPA), Pub. L. No. 104- 
+132, 110 Stat. 1276 (Apr. 24, 1996), as amended by the 
+Illegal Immigration Reform and Immigrant Respon- 
+sibility Act of 1996 (IIRIRA), Pub. L. No. 104-208, Div. 
+C, 110 Stat. 3009-546 (Sept. 30, 1996),? provides in 
+pertinent part: 7 
+
+
+2 Section 306(d) of IIRIRA, Pub. L. No. 104-208, Div. C, 110 
+Stat. 3009-612, made certain technical amendments to Section 440 
+of AEDPA, Pub. L. No. 104-132, 110 Stat. 1276, effective as if in- 
+cluded in the original enactment of AEDPA. 
+
+
+oo a ee ie) Cee 
+
+
+lla 
+
+
+CRIMINAL ALIEN REMOVAL. 
+
+
+(a) JUDICIAL REVIEW.—Section 106 of the 
+Immigration and Nationality Act (8 U.S.C. 
+1105a(a)(10)) is amended to read as follows: 
+
+
+“(19) Any final order of deportation 
+against an alien who is deportable by reason of 
+having committed a criminal offense covered in 
+section 241(a)(2) (A)(iii), (B), (C), or (D), or any 
+offense covered by section 241(a)(2)(A)(ii) for 
+which both predicate offenses are, without 
+regard to the date of their commission, other- 
+wise covered by section 241(a)(2)(A)(i), shall 
+not be subject to review by any court.” 
+
+
+* * * * * 
+
+
+(d) CLASSES OF EXCLUDABLE ALI- 
+ENS.—Section 212(c) of such Act (8 U.S.C. 1182(c)) 
+is amended— 
+
+
+(1) __ by striking “The first sentence of 
+this” and inserting “This”; and 
+
+
+(2) by striking “has been convicted of 
+one or more aggravated felonies” and all that 
+follows through the end and inserting “is 
+deportable by reason of having committed any 
+criminal offense covered in section 241(a)(2) 
+(A)Gii), (B), (C), or (D), or any offense covered 
+by section 241(a)(2)(A)(ii) for which both 
+predicate offenses are, without regard to the 
+date of their commission, otherwise covered by 
+section 241(a)(2)(A)(i).” 
+
+
+112a 
+
+
+11. Section 304(b) of the Illegal Immigration Reform 
+and Immigrant Responsibility Act of 1996, Pub. L. No. 
+104-208, Div. C, 110 Stat. 3009-597 (Sept. 30, 1996) 
+provides: 
+
+
+REPEAL OF SECTION 212(c). —Section “212(c) 
+(8 U.S.C. 1182(c)) is repealed. 
+
+
+12. Section 309 of the Illegal Immigration Reform 
+_and Immigrant Responsibility Act of 1996, Pub. L. No. 
+104-208, Div. C, 110 Stat. 3009-625 (Sept. 30, 1996), as 
+amended by Pub. L. No. 104-302, 110 Stat. 3656 (Oct. 
+11, 1996), provides in pertinent part: 
+
+
+EFFECTIVE DATES; TRANSITION. 
+
+
+(a) IN GENERAL.—Except as provided 
+in this section and sections 303(b)(2), 306(c), 
+308(d)(2)(D), or 308(d)(5) of this division, this 
+subtitle and the amendments made by this subtitle 
+shall take effect on the first day of the first month 
+beginning more than 180 days after the date of the’ 
+enactment of this Act (in this title referred to as the 
+“title III-A effective date”). 
+
+
+* * * * 
+
+
+\ 
+(ec) TRANSITION FOR ALIENS IN PRO- 
+CEEDINGS.— 
+
+
+(1) GENERAL RULE THAT NEW 
+RULES DO NOT APPLY.—Subject to the 
+succeeding provisions of this subsection, in the 
+case of an alien who is in exclusion or 
+deportation proceedings before the title III-A 
+effective date— 
+
+
+ee ee 
+
+
+113a 
+
+
+(A) the amendments made by this 
+subtitle shall not apply, and 
+
+
+(B) the proceedings (including judi- 
+cial review thereof) shall continue to be 
+conducted without regard to such amend- 
+ments. 
+
+
+* * * * * 
+
+
+(4) TRANSITIONAL CHANGES IN 
+JUDICIAL REVIEW.—In the case in which a 
+final order of exclusion or deportation is 
+entered more than 30 days after the date of the 
+enactment of this Act, notwithstanding any 
+provision of section 106 of the Immigration and 
+Nationality Act (as in effect as of the date of 
+the enactment of this Act) to the contrary— 
+
+
+* * * * * 
+
+
+(G) there shall be no appeal per- 
+mitted in the case of an alien who is inad- 
+missible or deportable by reason of having 
+committed a criminal offense covered in 
+section 212(a)(2) or section 241(a)(2)(A)(iii), 
+(B), (C), or (D) of the Immigration and 
+Nationality Act (as in-effect as of the date of 
+the enactment of this Act), or any offense 
+covered by section 241(a)(2)(A)(ii) of such 
+Act (as in effect on such date) for which 
+both predicate offenses are, without regard 
+to their date of commission, otherwise 
+covered by section 241(a)(2)(A){i) of such 
+Act (as so in effect). 
+
+
+1l4a 
+
+
+* * * KF 
+
+
+13. Section 2241 of Title 28, United States Code, 
+provides in pertinent part: 
+
+
+(a) Writs of habeas corpus may be granted by 
+the Supreme Court, any justice thereof, the district 
+courts and any circuit judge within their respective 
+jurisdictions. The order of a circuit judge shall be 
+entered in the records of the district court of the 
+district wherein the restraint complained of is had. 
+
+
+* * Kk K 
+
+
+(c) The writ of habeas corpus shall not extend 
+to a prisoner unless— 
+
+
+* * KF K 
+
+
+(3) He is in custody in violation of the 
+Constitution or laws or treaties of the United - 
+States[.] 
+
+
+} 
+* *£ KF K 
+
+

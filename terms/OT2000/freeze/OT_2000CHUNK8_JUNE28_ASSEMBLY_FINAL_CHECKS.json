@@ -1,0 +1,49 @@
+{
+  "ordered_cases": [
+    "lorillard",
+    "palazzolo",
+    "tyler",
+    "zadvydas"
+  ],
+  "records": [
+    {
+      "case": "lorillard",
+      "record": "terms/OT2000/records/Lorillard_Tobacco_Co_v_Reilly_merits_2001-06-28.md",
+      "sha256": "5007354d33fdf818752d35c3117d917ea4f7dbfa16d140d2178613ee6a0e0eb6",
+      "public_sha256": "779e4621bb8d1616630183fc11aaa31a692582e940e6509777be91f11e80c8d9",
+      "preassignment_leads": 99,
+      "author": "O'Connor",
+      "checks": "pass"
+    },
+    {
+      "case": "palazzolo",
+      "record": "terms/OT2000/records/Palazzolo_v_Rhode_Island_merits_2001-06-28.md",
+      "sha256": "2a4803bcead65bcdae6949b3a99c56514e3850e7581ef72dd3c4de771b94d021",
+      "public_sha256": "203ca871883c43a997b2bbd56544e601a54d405e0208039622fad7e5fecc5dbe",
+      "preassignment_leads": 100,
+      "author": "Thomas",
+      "checks": "pass"
+    },
+    {
+      "case": "tyler",
+      "record": "terms/OT2000/records/Tyler_v_Cain_merits_2001-06-28.md",
+      "sha256": "cb60dba6db7fff6a9129623bc59f670028568a5375a0a952f04f0a206eabb795",
+      "public_sha256": "335c07a894d93539e32f8e86cf54d2c2305196948f37ee393484856803cb1ee2",
+      "preassignment_leads": 101,
+      "author": "Ginsburg",
+      "checks": "pass"
+    },
+    {
+      "case": "zadvydas",
+      "record": "terms/OT2000/records/Zadvydas_v_Davis_and_Ashcroft_v_Ma_merits_2001-06-28.md",
+      "sha256": "9b164688fdbd724ccdb5e9efea263010b6c3d8c498a2bb3b354f5704f450622c",
+      "public_sha256": "d38cb843b922226d8fdf83ec570bfbd0ea43bb57825725822d810ac314dd5d67",
+      "preassignment_leads": 102,
+      "author": "Breyer",
+      "checks": "pass"
+    }
+  ],
+  "scope": "Only the four new June 28 Records and their own receipts checked. No completed earlier adjudication changed.",
+  "assignment_sequence": "Each Record was persisted before the next fresh actual-table count. Lorillard geographic and Tyler public-wording validation clarifications changed no count-bearing section.",
+  "integration": "Ready for root workspace, render-input, manifest and term checks."
+}

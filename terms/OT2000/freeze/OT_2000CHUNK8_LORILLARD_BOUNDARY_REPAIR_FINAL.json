@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "source": "OT_2000CHUNK8_LORILLARD_SOURCE_SMOKELESS.md",
+      "source_sha256": "17ece7aecea76fed7331ed6edd3d88fee945c2fd82a094f2aa8ec19f4a7d73a3",
+      "copy": "OT_2000CHUNK8_LORILLARD_SOURCE_SMOKELESS_CLEAN.md",
+      "copy_sha256": "6e68e6b5b9b4efd00fc0a9a0e14c51be1f5409796c490cb7e16cf128077155cd",
+      "removed_span_sha256": [
+        "67115cc6fa55842ea7e7fcfc66bf057b8e7387a2784d8d82a3e5c9e1b2a55a48"
+      ]
+    },
+    {
+      "source": "OT_2000CHUNK8_LORILLARD_SOURCE_CIGAR.md",
+      "source_sha256": "854ed8398e42b6e76a8d865f61059a55709ebc4c654cd2354e771ff58424b29e",
+      "copy": "OT_2000CHUNK8_LORILLARD_SOURCE_CIGAR_CLEAN.md",
+      "copy_sha256": "06b106b799a74050e371a1a6193274077cba068832ea2cf705988524027f4a8c",
+      "removed_span_sha256": [
+        "3c60fdc463e78326ff11c237f66d1b7312026f9fcf34371f9f2e8979adbf0563",
+        "79fa292a3321e007ceeec51e5109b0e49a5e0decdc0262b3020489911a960f8a"
+      ]
+    },
+    {
+      "source": "OT_2000CHUNK8_LORILLARD_SOURCE_CIGARETTE.md",
+      "source_sha256": "ade1daf189e3dd78760cd6da7c00e9348d2493e9961ee3207fb89a97cda51fd6",
+      "copy": "OT_2000CHUNK8_LORILLARD_SOURCE_CIGARETTE_CLEAN.md",
+      "copy_sha256": "1e5c48f94ace76aec5648bbd272015cd18135533db5a50fee4475a681b272e1d",
+      "removed_span_sha256": [
+        "96ac852725a703e7444eff55542b8ab7916e55bb7fc5f7303575bee99afa6138"
+      ]
+    },
+    {
+      "source": "OT_2000CHUNK8_LORILLARD_SOURCE_STATE.md",
+      "source_sha256": "17bb4fa1e6adc8022344532fbc5023224b8e6c267113dd2173ad14268a620bb9",
+      "copy": "OT_2000CHUNK8_LORILLARD_SOURCE_STATE_CLEAN.md",
+      "copy_sha256": "dea5291bc13720377e944f83356e27d82c5cb9a3be49e73d5ccbeeaeaa7e511c",
+      "removed_span_sha256": []
+    },
+    {
+      "source": "OT_2000CHUNK8_LORILLARD_SOURCE_CIGAR_REPLY.md",
+      "source_sha256": "a90243fbeccd89d76ccbd5b68810e5f4a9f74b67029f8ca33bf336be1ae85454",
+      "copy": "OT_2000CHUNK8_LORILLARD_SOURCE_CIGAR_REPLY_CLEAN.md",
+      "copy_sha256": "e50eb1accd6ab2422af01ddb20021f1d50e7f6237f012bb55531c38713d0b4d2",
+      "removed_span_sha256": []
+    }
+  ],
+  "confirmed_exposed_contexts": [
+    "model_b2",
+    "validate_c",
+    "lorillard_scope_check"
+  ],
+  "excluded_material": "Current-matter Supreme Court petition treatment in party briefs; no valid final Lorillard model exists.",
+  "boundary": "Fresh framing validation followed by fresh independent modeling. No account of the excluded substance is sent to either clean context. Earlier completed work and original source bytes are preserved.",
+  "note": "This complete screening receipt supplements the earlier one-source repair receipt. Originals and draft evidence remain preserved; only new clean copies are authorized downstream."
+}

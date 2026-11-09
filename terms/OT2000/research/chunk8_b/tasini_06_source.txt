@@ -1,0 +1,700 @@
+FILE 
+
+
+bs 
+n,m | OCT 17 2000 
+OFFICE 
+IN THE 7 
+Supreme Court of the United States 
+
+
+. THE NEW YORK TIMES COMPANY, INC.; NEWSDAY, INC.; 
+THE TIME INCORPORATED MAGAZINE COMPANY; LEXIS/ 
+NEXIS and UNIVERSITY MICROFILMS INTERNATIONAL, 
+
+
+Petitioners, 
+Vv. 
+JONATHAN TASINI; MARY KAY BLAKELY; BARBARA 
+GARSON; MARGOT MIFFLIN; SONIA JAFFE ROBBINS 
+and DAVID S. WHITFORD, 
+Respondents. 
+
+
+On PETITION FOR A WRIT OF CERTIORARI TO THE 
+UNITED STATES CouRT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+PETITIONERS’ REPLY BRIEF 
+
+Bruce P. KELLER LAURENCE H. TRIBE 
+
+JEFFREY P. CUNARD Counsel of Record 
+
+MICHAEL R. POTENZA JONATHAN S. MASSEY 
+
+PETER C. JOHNSON Hauser Hall 420 
+
+DEBEVOISE & PLIMPTON 1575 Massachusetts Avenue 
+875 Third Avenue Cambridge, MA 02138 
+New York, NY 10022 (617) 495-4621 
+
+
+(212) 909-6000 
+
+
+THOMAS C, GOLDSTEIN 
+THOMAS C. GOLDSTEIN, P.C. 
+4607 Asbury Place, NW 
+Washington, DC 20016 
+
+(202) 237-7543 
+
+
+Attorneys for Petitioners 
+
+
+162896 @) Counsel Press LLC 
+(800) 274-3321 + (800) 359-6859 
+
+
+3 
+ra 
+‘ 
+
+
+i 
+
+
+STATEMENT PURSUANT TO RULE 29.6 
+
+
+Petitioners refer the Court to page ii of the Petition. 
+
+
+EE 
+
+
+li 
+TABLE OF CONTENTS 
+
+Page 
+Statement Pursuant to Rule 29.6 ............... 1 
+WO ECE ois os ia ee il 
+Table of Cited Authorities .................... ill 
+
+1. The Irreparable Harm Threatened By The 
+NS en ] 
+
+2. There Is No Need To Await The Completion Of 
+See EY TOM... sc 3 
+
+3. Respondents’ Merits Arguments Underscore The 
+Importance Of The Question Presented. ...... 5 
+
+4. The Judgment Below Conflicts With Decisions 
+Of This Court And Lower Courts. ........... 9 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Cases: 
+
+
+Campbell v. Acuff-Rose Music, 510 U.S. 569 (1994) 
+
+
+Feist Publications v. Rural Telephone Service Co., 
+ng bh occ ads va eeecdvacs 
+
+
+Greenberg v. National Geographic Soc’y, 
+No. 97-3924-civ, 1998 U.S. Dist. LEXIS 18060 
+(S.D. Fin. May 14, 1998) .. 2.0... ccs scceeee 
+
+
+In Re Literary Works in Electronic Databases 
+Copyright Litigation, MDL No. 1379 (J.P.M.L. 
+EE Sle ce kac sak eavacsgaeeeeses 
+
+
+Matthew Bender & Co. v. West Publ’g Co., 158 F.3d 
+693 (CA2 1998), cert. denied, 526 U.S. 1154 
+a Sawer hb 260 N46 reac ete bwesvecees 
+
+Mills Music, Inc. v. Snyder, 469 U.S. 153 (1985) .. 
+
+
+N.A.S. Import, Corp. v. Chenson Enters., Inc., 
+SE EE BOMED 5 csc sccccrcccesers 
+
+
+Posner v. Gale Group, Inc., 00-CIV-7376 (S.D.N.Y., 
+UE RG) onc cic ccc cevanenscneces 
+
+
+Rural Telephone Service Co. v. Feist Publications, 
+663 F. Supp. 214 (D. Kan. 1987) ............. 
+
+
+Page 
+
+
+iv 
+
+
+Cited Authorities 
+Page 
+Ryan v. Carl Corp., 23 F. Supp. 2d 1146 (N.D. Cal. 
+a iar ae ee ks 2 oa is pk ea wet Ks WO 6 
+Sony Corporation of America v. Universal City 
+Studios, 464 U.S. 417 (1984) ................ 2,9 
+Statutes: 
+og 8 Soak ree errs rea eras or Peers 10 
+er oe. vk an ce aA 9 a 3, 4, 6, 7 
+Oe IE os sk enc ae Cied a be kes baa oe ] 
+ee ae EE oo k's k's Ack oe ee ao ea l 
+EF Mees TE ccs bi he ca CK See aes Fewees nes 1 
+gg k Co fA res tee err ee ] 
+
+
+iS 6. ee 1 
+
+
+Cited Authorities 
+
+
+Other Authorities: 
+
+
+House Comm. on the Judiciary, 89th Cong., 
+Copyright Law Revision, Part 5 (1965) ....... 
+
+
+ee eS ee. ee 
+
+
+Mark S. Kaufman, Didn't I Read That Somewhere: 
+The Practical Impact of Tasini v. The New York 
+Times, 9 NYSBA 3 (Spring/Summer 2000) .... 
+
+
+Ryan v. Carl Copyright Suit Settled But Spawns 
+Additional Litigation, Online Libraries & 
+Microcomputers, Sept. 1, 2000 .............- 
+
+
+Robert L. Stern & Eugene Gressman, et al., SUPREME 
+Court Practice (7th ed. 1993) .............- 
+
+
+Page 
+
+
+1 
+
+
+1. The Irreparable Harm Threatened By The Decision 
+Below. The Second Circuit’s judgment, as a practical matter, 
+requires the destruction of hundreds of thousands of 
+electronically stored articles, spanning decades. Whether the 
+deletions occur voluntarily, or eventually are court-ordered, they 
+will occur on a massive scale. Respondent Tasini, of the National 
+Writer’s Union (“NWU”), himself guaranteed this response 
+when he promised a “tidal wave of lawsuits” and warned 
+virtually every newspaper in the country that it sits on a 
+“financial ticking time bomb.” See Pet. 14-15. In fact, at least 6 
+Tasini-type actions already are pending, Garson Br. 14, including 
+a nationwide class action composed of freelancers holding 
+copyrights since 1977. See Complaint in Posner v. Gale Group, 
+Inc., 00-CIV-7376 (S.D.N.Y., filed Sept. 28, 2000). 
+
+The inevitability of these deletions, unless the Second 
+Circuit’s erroneous decision is reversed, is a direct consequence 
+of the substantial remedies available to plaintiffs under the 
+Copyright Act! and the even more substantial remedies available 
+for willful infringement.” No rational publisher can assume risks 
+of such magnitude, as noted by: (1) an amicus brief by five 
+Pulitzer Prize winning historians (some of them freelance 
+writers), who find the completeness and integrity of electronic 
+archives vital to their research and have urged the Court to review 
+the Second Circuit’s decision; (2) an amicus brief by publishers 
+
+
+1. Remedies include the nationwide injunction, 17 U.S.C. § 502(b), 
+sought by respondents. In addition, 17 U.S.C. § 504(a), (b) provides 
+for actual damages plus the profits of the infringer, computed on the 
+basis of gross revenue, with the defendant bearing the burden of 
+demonstrating deductible expenses and the elements of profit 
+attributable to factors other than the copyrighted work. Alternatively, if 
+copyright in the work was properly registered statutory damages of up 
+to $30,000 per infringement may be awarded. 17 U.S.C. §§ 412, 504(c). 
+
+2. Damages can reach $150,000 per work. 17 U.S.C. § 504(c). 
+See N.A.S. Import, Corp. v. Chenson Enters., Inc., 968 F.2d 250, 253 
+(CA2 1992) (reversing non-willfulness finding where defendant 
+continued to distribute infringing handbags after letter saying it would 
+cease doing so). 
+
+
+oh 
+
+
+ae ia SSN as BN sh 
+
+
+FR St: 
+
+
+a ae ee 
+et FE SET SE SOS 
+
+
+. NAS aN ES Bie tig pris ET re BF a IEE oP 
+sa Soi iy BS Saas ek COE ee 
+
+
+2 
+
+
+of hundreds of newspapers and magazines, including some of 
+the most influential in the nation; and (3) the business and legal 
+press.’ Consistent with this Court’s practice of reviewing 
+copyright decisions that so dramatically upset settled 
+expectations, see Sony Corporation of America v. Universal 
+City Studios, 464 U.S. 417 (1984), review should be granted to 
+prevent this irreversible, nationwide harm. 
+
+Respondents prefer to focus on the purportedly small share 
+of articles written by freelancers, Garson Br. 10, but do not 
+deny that the loss to NEXIS alone could number in the hundreds 
+of thousands of articles, see Pet. 15 n.8. Furthermore, as the 
+historians make clear, “[t]he omission of these materials from 
+the electronic databases, for any reason on a large scale or even 
+an occasional basis, undermines the principal benefits that 
+electronic archives offer historians — efficiency, accuracy and 
+comprehensiveness.” Burns et al. Amicus Br. 11-12. 
+
+Nor can respondents contest the sweep of the articles 
+affected. At risk are book reviews, stories sent in by stringers, 
+letters to the editor, Op-ed pieces, and unsolicited articles sent 
+in by public officials and other citizens, see Pet. 15 n.8 — even 
+student notes in law reviews. Advance Publications Amicus 
+Br. 6. Moreover, entire discs containing freelance articles would 
+have to be removed from the market. Pet. 13. Any substitute 
+CD-ROMs (Garson Br. 18 n.21) would be useless as a historical 
+
+
+3. See, e.g., Mark S. Kaufman, Didn’t | Read That Somewhere: 
+The Practical Impact of Tasini v. The New York Times, 9 NYSBA 3, 8 
+(Spring/Summer 2000) (“It is unlikely that publishers will be able to 
+dig into the past and collect transfers from each freelance author in 
+order to make their historical issues compliant with Tasini. As a result, 
+the public will not have access to historical issues of periodicals — 
+except perhaps in libraries.”). See also Ryan v. Carl Copyright Suit 
+Settled But Spawns Additional Litigation, Online Libraries & 
+Microcomputers, Sept. 1, 2000 (noting “a significant loss of content” 
+and that research and scholarship “could be badly damaged.”); Pet. 14 
+(quoting from articles documenting the adverse impact of Tasini, not 
+only on scholars, but also on millions of consumers). 
+
+
+3 
+
+
+archive because they would contain gaps ranging from several 
+days’ worth of publications to several years’. See Declaration 
+of Kenneth A. Tillman, attached to Motion for Stay of Mandate 
+{i 7, 10, 13 (lodged by petitioners); see also Pet. 13. 
+
+Entire industries have been built over the last two decades 
+on the expectation, based in Section 201(c), that publishers may 
+reproduce their entire periodicals in the electronic copies now 
+held to be illegal. Respondents speculate that those businesses 
+can continue if publishers negotiate appropriate compensation 
+arrangements with freelancers. Garson Br. 18; Tasini Br. 14- 
+15. This ignores the practical impossibility of locating and 
+negotiating with thousands of individual freelance authors, their 
+transferees in interest, and/or their heirs in the face of class 
+action litigation regarding the use of articles already published 
+in electronic copies. The retroactive nature of the problem, as 
+well as the sheer logistical difficulties inherent in the process, 
+are confirmed by undisputed affidavits (see Pet. 15 n.8) that 
+respondents decided not to contest in the court of appeals. 
+Garson Br. 17 n.20; Tasini Br. 8. Respondents’ proposed 
+Publication Rights Clearinghouse (Tasini Br. 15 n.6) is no 
+solution. Freelancers, by definition, are not collectively 
+organized and the NWU is not recognized by anyone as a 
+collective bargaining agent.‘ 
+
+2. There Is No Need To Await The Completion Of The 
+Remedy Phase. The Second Circuit remanded with directions 
+for judgment to be entered for respondents. Pet. App. 22. 
+Whatever remedial decree ultimately may issue, it cannot affect 
+the question presented by the petition. The court of appeals’ 
+
+
+4. Respondents suggest, even under petitioners’ construction of 
+Section 201(c), that publishers still must contact freelancers whose 
+contracts did not expressly refer to the right to make electronic copies. 
+Tasini Br. 9-10. Not so. Under the proper reading of Section 201(c), 
+publishers are presumed, in the absence of an express transfer to the 
+freelancer, to be able to make electronic copies of their collective works. 
+Contracts like those entered into by Whitford are the belt to the 
+suspenders of Section 201(c), and a correct interpretation of Section 
+201(c) obviates the need to contact such freelancers. 
+
+
+4 
+
+
+interpretation of Section 201(c), therefore, is properly before 
+this Court. See Robert L. Stern & Eugene Gressman, et al., 
+SUPREME CourT PRACTICE § 2.2, at 40 (7th ed. 1993) (“[T]he 
+Court has granted certiorari to review an important question of 
+law even though presented by a judgment of a court of appeals 
+denying a motion to dismiss or remanding a case for a new 
+trial”). For example, in Feist Publications v. Rural Telephone 
+Service Co., 499 U.S. 340 (1991), this Court granted certiorari 
+even though the lower court judgment was restricted to liability 
+and provided that “the proper measure of damages shall be 
+determined in the future.” 663 F. Supp. 214, 220 (D. Kan. 1987). 
+
+Tellingly, although respondents cite the Posner class action 
+as arising in the Northern District of California (Garson Br. 14- 
+15 n.18), in fact it was voluntarily dismissed in California and 
+refiled in the Southern District of New York, with the NWU 
+added as a party, on September 28, 2000. This refiling illustrates 
+why further “percolation” would be pointless and harmful.° The 
+Second Circuit’s decision in Tasini effectively imposes a national 
+rule not because the Second Circuit is a respected copyright 
+court and many publishers have offices in New York, but because 
+publishers of note, especially those that provide electronic copies 
+of their periodicals, have sufficient contacts with New York to 
+permit suit there, giving the Second Circuit’s decision de facto 
+national application. Any freelancer seeking nationwide relief 
+need only sue in New York, as part of the cottage litigation 
+industry already emerging there. Thus, the Posner complaint 
+alleges that the defendants (none of whom is alleged to be a 
+New York corporation) “have engaged in substantial acts of 
+infringement” in New York and “are subject to personal 
+
+
+5. Posner plaintiffs, which include the NWU, have urged that all 
+the class action suits by freelance writers be multidistricted in 
+New York, specifically to take advantage of the Second Circuit's 
+holding. Joint Response of Authors Guild and Posner Plaintiffs 
+to Motion for Transfer and Consolidation of Actions. Jn Re Literary 
+Works in Electronic Databases Copyright Litigation, MDL No. 1379 
+(J.P.M.L. Oct. 6, 2000). 
+
+
+5 
+
+
+jurisdiction” there. Complaint in Posner v. Gale Group, Inc., 
+00-CIV-7376, J 28 (S.D.N.Y.) (filed Sept. 28, 2000).° 
+
+3. Respondents’ Merits Arguments Underscore The 
+Importance Of The Question Presented. On the merits, 
+respondents admit that this is “a case of first impression,” 
+but insist that this Court will be able to ascertain the answer 
+as a matter of “‘a routine exercise in statutory construction.” 
+Garson Br. i; Tasini Br. 6, 10-11. They echo the Second 
+Circuit’s holcing that electronic publishing is akin to 
+“sell[ing] a hard copy of an Author’s article [by itself] directly 
+to the public,” Pet. App. 13a, or cutting an individual article 
+out of newspaper and distributing it as a flyer on the street. 
+Garson Br. 7; Tasini Br. 4. 
+
+Far from supplying a reason to deny certiorari, this 
+illuminates the importance of the substantive copyright issue 
+presented and the ability of this Court, through the familiar 
+exercise of statutory construction, to resolve an open legal 
+question of profound national significance. As with many 
+other copyright cases this Court has heard, this case has a 
+
+
+6. Respondents suggest review is inappropriate because petitioners 
+raised the possibility of other defenses, including those relating to 
+substantial non-infringing uses, in the context of seeking on rehearing 
+a change to the Second Circuit’s judgment. Tasini Br. 5 n.3, 6, 14. 
+In fact, those defenses provide a further reason to grant review. 
+The Second Circuit’s denial of rehearing and its instruction to enter judgment 
+for respondents puts it in direct conflict with the view of the United States 
+Department of Justice as an amicus in Matthew Bender & Co. v. West Publ’g 
+Co., 158 F.3d 693, 706-07 (CA2 1998), cert. denied, 526 U.S. 1154 (1999), 
+which stressed the important distinction between a “direct” versus 
+“contributory” infringement analysis. It is in connection with 
+the latter analysis, which the Second Circuit should have employed, 
+that petitioners sought to assert their defenses. Now, without having had 
+the opportunity to assert this distinction (which this Court and the 
+Department of Justice have repeatedly emphasized), countless publishers 
+nationwide will be forced to insist that their licensees delete literally tens 
+of thousands of articles or, worse still, entire collective works. Pet. 11-12. 
+
+
+fully-developed summary judgment record.’ The district 
+court below observed that “there can be no dispute, and there 
+has been no dispute, with respect to [the] critical facts.” 
+Pet. App. 100a. This case involves a discrete, but vitally 
+important, matter of statutory interpretation, and it is the subject 
+of thorough analysis in the district court, whose reasoning has 
+been adopted by two other district courts. See Greenberg v. 
+National Geographic Soc’y, No. 97-3924-civ, 1998 U.S. Dist. 
+LEXIS 18060 (S.D. Fla. May 14, 1998); Ryan v. Carl Corp., 
+23 F. Supp. 2d 1146 (N.D. Cal. 1998). , 
+
+This Court should grant review to consider whether 
+the creation of an electronic copy, with its dramatically enhanced 
+indexing and search capabilities, so changes the underlying 
+collective work that it no longer exists once digitized. According 
+to the Second Circuit, that electronic copies of articles are 
+individually searchable and retrievable, Pet. App. 14a-15a — 
+i.e., the very quality that gives electronic copies their utility — 
+means that electronic databases cannot qualify as “revision{s].” 
+It therefore unexpectedly penalizes publishers for having 
+invested in the development of digital technologies that the 1976 
+Copyright Act was intended to promote. This Court should 
+review that holding now, for it rests on a patently incorrect 
+statutory interpretation.® Otherwise, all forms of electronic 
+
+
+7. See Mills Music, Inc. v. Snyder, 469 U.S. 153 (1985) (granting 
+certiorari, even in the absence of a circuit split, in case involving 
+interpretation of Copyright Act in summary judgment posture); 
+see also Campbell v. Acuff-Rose Music, 510 U.S. 569 (1994). 
+
+8. Section 201(c) permits publishers to make “any” revision. That 
+plain language does not justify the Second Circuit’s characterization of 
+“that particular collective work” as a “floor,” “any later collective work 
+in the same series” as a “ceiling” and the penultimate category — “any 
+revision” — as a middle level that must be less expansive that the 
+“ceiling” category. Not only is there no rule of statutory interpretation 
+that requires Congress to list phrases in a statute in any particular order, 
+these three clauses represent three distinct publishing practices 
+considered by Congress. The first clause means the issue of the 
+
+
+(Cont’d) 
+
+
+SD RARE DALAM OD PBIG SENSE LA 8 AG A Heo 4 ich Piel 
+
+
+7 
+
+
+reproductions and distributions will be at risk of unanticipated 
+infringement claims and the threatened “tidal wave” of litigation. 
+
+Respondents caricature the process of making electronic 
+copies as applying “shears” to print editions, and they refer 
+to electronic copies as a collection of spare car parts at a 
+junk yard (as compared to the whole “Mercedes Benz” 
+of the print edition). Garson Br. 7, 24-25, 28; Tasini Br. 11-12. 
+Petitioners, however, do not “cut out” individual articles with 
+“electronic scissors.” As the district court found, Pet. App. 29a, 
+30a, the publishers provide NEXIS and UMI with the complete 
+daily editorial contents of their periodicals in precisely the same 
+format as they are transmitted to the publishers’ printers. 
+The district court did not find that any of the defendants “store 
+and display individual articles, not collective works.” 
+Garson Br. 4. (What the respondents cite as the district court’s 
+findings (id., citing Pet. App. 54a, 102a) are in fact the district 
+court’s description of respondents’ arguments.) Rather, the 
+district court found that the electronic copies preserve the 
+‘publishers’ protected original selection of articles, a defining 
+element of their periodicals.” Pet. App. 70a. “[T]he electronic 
+
+
+(Cont'd) 
+
+magazine, newspaper or encyclopedia in which the article is first 
+published. “Later collective work in the same series” means that “a 
+publishing company could reprint a contribution from one issue in a 
+later issue of its magazine,” H.R. Rep. No. 1476 at 122 (1976) and is 
+necessary because that later issue could not be considered a “revision” 
+under any interpretation. That leaves the “any revision” clause to stand 
+on its own, without the ceiling of the third clause that the Second Circuit 
+erected over it. An example of a “revision” is “reprint[ing] an article 
+from a 1980 encyclopedia in a 1990 revision of it.” Jd. Under the Second 
+Circuit’s reading of Section 201(c), however, this revision, specifically 
+approved by Congress, would be through the roof of the third clause 
+and therefore infringing. This legislative history, briefed but ignored 
+by the Second Circuit, is exactly on point. See House Comm. on the 
+Judiciary, 89th Cong., Copyright Law Revision, Part 5 at 149 (1965) 
+(included as Exhibit J4 to defendants’ motion for summary judgment 
+lodged with the Clerk of this Court). 
+
+
+8 
+
+
+technologies [also] tag those articles in such a way that the 
+publisher defendants’ original selection remains evident online.” 
+Id. 71a. “NEXIS and UMI’s CD-ROMs carry recognizable 
+versions of the publisher defendants’ newspapers and 
+magazines.” Id. 73a.° If the print copy is a Mercedes Benz, 
+therefore, so too is the electronic copy. See Pet. App. 71a n.14 
+(district court’s express refutation of “auto junkyard” analogy). 
+
+The point is driven home by respondents’ insistence that 
+“(a]bsolutely nothing in the Second Circuit’s opinion precludes” 
+publishers from creating “replicas of their publications — or, 
+in essence, an electronic microfilm.” Garson Br. 8-9. Of course, 
+the image-based CD-ROM copies in this very case, General 
+Periodicals OnDisc (GPO), involve exactly that: a “replica,” in 
+which (as the district court found) “the entire Sunday Magazine 
+and Book Review are photographed producing complete images 
+of these periodicals. Articles appear precisely as they do in print, 
+complete with photographs, captions, and advertisements.” 
+Pet. App. 31a. Yet the Second Circuit expressly held that GPO 
+infringed and was “at best a new anthology.” Jd. 17a. This shows 
+that the Second Circuit’s judgment is not limited in the way 
+respondents claim and that respondents cannot defend the actual 
+
+
+9. See also Pet. App. 69a (noting the “highly creative endeavor” 
+of selection); id. 72a (absence of photographs, captions, and page 
+lay-out is “of only peripheral concern”’); id. 75a n.16 (“NEXIS and the 
+CD-ROMs do not fail to reproduce versions of defendants’ periodicals; 
+they simply store those versions within something akin to an electronic 
+research library”); id. 95a (“this original article selection, if preserved 
+... would render that creation at least a recognizable version of the 
+hard copy periodical”); id. 96a n.6 (“the electronic systems do not 
+destroy the publishers’ collective works; those systems make revisions 
+of those works available — for traditional purposes — in new and 
+advanced ways”); id. 97a (“the electronic systems are substantially 
+similar to their hard copy counterparts, not merely as a technical matter, 
+but in such a way as to preserve the ‘basic character’ of those 
+periodicals”); id. 103a (“In whatever way plaintiffs’ articles are accessed 
+and displayed, they are preserved . . . as part of revised versions of the 
+periodicals in which they initially appeared”). 
+
+
+9 
+
+
+decision below. Rather, they defend a different and more modest 
+judgment, nowhere precisely defined, that respondents, for 
+present purposes, understandably wish had been rendered. 
+
+4. The Judgment Below Conflicts With Decisions Of 
+This Court And Lower Courts. Petitioners do not seek 
+“different rules” for the electronic medium. Garson Br. 7; 
+Tasini Br. 12-13. Rather, petitioners seek to apply familiar 
+copyright principles to electronic databases in a medium-neutral 
+way. The Second Circuit did not do that. It defined the collective 
+work by examining how the electronic copies might be used by 
+third parties (to search for and retrieve individual articles), not 
+by examining whether the electronic copies retained the editorial 
+selection of the printed version. This conflicts directly with Sony, 
+Feist and all of the Circuits correctly applying those cases. Sony 
+unequivocally held that “[t]hird-party conduct [is] wholly 
+irrelevant in an action for direct infringement.” 464 U.S. at 446. 
+Yet the Second Circuit’s decision turns entirely on the ability 
+of end users to access particular articles according to 
+individualized and unknowable search criteria. That respondents 
+did not even plead a contributory infringement claim based on 
+end-user conduct, Garson Br. 3 & n.6, 22; Tasini Br. 11, makes 
+the Second Circuit’s decision even more baffling.'° 
+
+Similarly, the holding that “new” works are created by the 
+mechanical process of transferring content from a print to 
+electronic medium is a direct attack on the originality 
+requirement addressed in Feist, 499 U.S. at 362-64, and 
+inconsistent with the practice of the U.S. Copyright Office in 
+
+
+10. Respondents claim that Sony is distinguishable because this 
+case “involves the defendants’ reproduction and sale of the infringing 
+works themselves. Sony only concerned sale of the ‘means.’ ” Garson 
+Br. 22. That claim founders on the same shoals as the rest of respondents’ 
+theory. Electronic copies that preserve the selection of the original 
+collective works are not themselves inherently infringing — except by 
+virtue of the Second Circuit’s erroneous holding that the capacity of 
+end users to search for and retrieve individual articles renders the 
+databases ineligible for status as “revisions.” The Second Circuit’s focus 
+on the conduct of end users creates a clear conflict. Pet. 22-26. 
+
+
+10 
+
+
+refusing to register automated databases consisting solely of 
+data transferred from hard copy to computer storage. Pet. 27. 
+
+Further, the decision conflicts with the bedrock principle 
+of media neutrality embodied throughout the fundamental 
+definitions of the Copyright Act. All the differences between 
+the electronic copies that appear in NEXIS and the print copies 
+identified by the Second Circuit as creating new infringing works 
+— the exclusion of graphics and page layouts, and the 
+ability to search articles by keywords, Pet. App. 15a-16a — are 
+dictated by the form of the “copies” of the “work” in dispute. 
+17 U.S.C. § 101. Yet even these differences are not present in 
+GPO, a “copy” of a “work” the Second Circuit, under its 
+medium-specific approach, held to be infringing, id. 17a — a 
+holding that respondents Garson and Robbins do not even 
+defend. 
+
+Respondents admit that a square circuit conflict cannot be 
+expected. Garson Br. 25. Indeed, recent copyright cases in which 
+this Court has granted review have involved conflicts in 
+principle, not square conflicts in holdings. Pet. 10 n.5. In any 
+event, the district court decision in Greenberg presents a square 
+conflict, as respondents concede. Tasini Br. 7-8 n.4. The instant 
+case, with its complete array of parties, full complement of legal 
+issues, and fully developed record, is the best vehicle for this 
+Court’s review."' 
+
+
+11. No amount of percolation will change Tasini as the best vehicle 
+for Supreme Court review. Every issue that is in Greenberg is in Tasini, 
+and then some. Tasini offers a complete array of publishers, and a mix 
+of text-only and image-based electronic copies, whereas no database 
+providers are parties to Greenberg and the only CD-ROMs at issue in 
+Greenberg are image-based products that respondents in Tasini now 
+contend do not infringe. Garson Br. 8-9. Finally, because Greenberg 
+relied primarily on the Tasini decision to grant summary judgment, the 
+record in that case is not as fully developed as the record here. 
+
+
+Bruce P. KELLER 
+
+
+Respectfully submitted, 
+
+
+LAURENCE H. TRIBE 
+
+
+JEFFREY P. CUNARD Counsel of Record 
+
+MICHAEL R. POTENZA JONATHAN S. MASSEY 
+
+PETER C. JOHNSON Hauser Hall 420 
+
+DEBEVOISE & PLIMPTON 1575 Massachusetts Avenue 
+875 Third Avenue Cambridge, MA 02138 
+New York, NY 10022 (617) 495-4621 
+
+
+(212) 909-6000 
+
+
+October 17, 2000 
+
+
+THomaS C. GOLDSTEIN 
+THomas C. GoLpsTEMN, P.C. 
+4607 Asbury Place, NW 
+Washington, DC 20016 
+(202) 237-7543 
+
+
+Attorneys for Petitioners 
+
+

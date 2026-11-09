@@ -1,0 +1,3325 @@
+[Report page 1]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+525OCTOBER TERM, 2000
+Syllabus
+LORILLARD TOBACCO CO. et al. v. REILL Y, ATTOR-
+NEY GENERAL OF MASSACHUSETTS, et al.
+certiorari to the united states court of appeals for
+the first circuit
+No. 00–596. Argued April 25, 2001—Decided June 28, 2001*
+After the Attorney General of Massachusetts (Attorney General) promul-
+gated comprehensive regulations governing the advertising and sale of
+cigarettes, smokeless tobacco, and cigars, petitioners, a group of tobacco
+manufacturers and retailers, ﬁled this suit asserting, among other
+things, the Supremacy Clause claim that the cigarette advertising regu-
+lations are pre-empted by the Federal Cigarette Labeling and Adver-
+tising Act (FCLAA), which prescribes mandatory health warnings for
+cigarette packaging and advertising, 15 U. S. C. § 1333, and pre-empts
+similar state regulations, § 1334(b); and a claim that the regulations vio-
+late the First and Fourteenth Amendments to the Federal Constitution.
+In large measure, the District Court upheld the regulations. Among
+its rulings, the court held that restrictions on the location of advertising
+were not pre-empted by the FCLAA, and that neither the regulations
+prohibiting outdoor advertising within 1,000 feet of a school or play-
+ground nor the sales practices regulations restricting the location and
+distribution of tobacco products violated the First Amendment. The
+court ruled, however, that the point-of-sale advertising regulations re-
+quiring that indoor advertising be placed no lower than ﬁve feet from
+the ﬂoor were invalid because the Attorney General had not provided
+sufﬁcient justiﬁcation for that restriction. The First Circuit afﬁrmed
+the District Court’s rulings that the cigarette advertising regulations
+are not pre-empted by the FCLAA and that the outdoor advertising
+regulations and the sales practices regulations do not violate the First
+Amendment under Central Hudson Gas & Elec. Corp. v. Public Serv.
+Comm’n of N. Y .,447 U. S. 557, but reversed the lower court’s invalida-
+tion of the point-of-sale advertising regulations, concluding that the At-
+torney General is better suited than courts to determine what restric-
+tions are necessary.
+Held:
+1. The FCLAA pre-empts Massachusetts’ regulations governing out-
+door and point-of-sale cigarette advertising. Pp. 540–553.
+*Together with No. 00–597, Altadis U. S. A. Inc., as Successor to Con-
+solidated Cigar Corp. and Havatampa, Inc., et al. v. Reilly, Attorney
+General of Massachusetts, et al., also on certiorari to the same court.
+
+[Report page 2]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+526 LORILLARD TOBACCO CO. v. REILL Y
+Syllabus
+(a) The FCLAA’s pre-emption provision, § 1334, prohibits (a) re-
+quiring cigarette packages to bear any “statement relating to smoking
+and health, other than the statement required by” § 1333, and (b) any
+“requirement or prohibition based on smoking and health . . . imposed
+under state law with respect to the advertising or promotion of any
+cigarettes the packages of which are labeled in conformity with” § 1333.
+The Court’s analysis begins with the statute’s language. Hughes Air-
+craft Co. v. Jacobson, 525 U. S. 432, 438. The statute’s interpretation is
+aided by considering the predecessor pre-emption provision and the con-
+text in which the current language was adopted. See, e. g., Medtronic,
+Inc. v. Lohr, 518 U. S. 470, 486. The original provision simply prohib-
+ited any “statement relating to smoking and health...i nt h eadvertis-
+ing of any cigarettes the packages of which are labeled in conformity
+with the [Act’s] provisions.” Without question, the current pre-emption
+provision’s plain language is much broader. Cipollone v. Liggett Group,
+Inc., 505 U. S. 504, 520. Rather than preventing only “statements,” the
+amended provision reaches all “requirement[s] or prohibition[s] . . . im-
+posed under State law.” And, although the former statute reached only
+statements “in the advertising,” the current provision governs “with
+respect to the advertising or promotion” of cigarettes. At the same
+time that Congress expanded the pre-emption provision with respect to
+the States, it enacted a provision prohibiting cigarette advertising in
+electronic media altogether. Pp. 540–546.
+(b) Congress pre-empted state cigarette advertising regulations
+like the Attorney General’s because they would upset federal legislative
+choices to require speciﬁc warnings and to impose the ban on cigarette
+advertising in electronic media in order to address concerns about smok-
+ing and health. In holding that the FCLAA does not nullify the Massa-
+chusetts regulations, the First Circuit concentrated on whether they are
+“with respect to” advertising and promotion, concluding that the
+FCLAA only pre-empts regulations of the content of cigarette advertis-
+ing. The court also reasoned that the regulations are a form of zoning,
+a traditional area of state power, and, therefore, a presumption against
+pre-emption applied, see California Div. of Labor Standards Enforce-
+ment v. Dillingham Constr., N. A., Inc., 519 U. S. 316, 325. This Court
+rejects the notion that the regulations are not “with respect to” ciga-
+rette advertising and promotion. There is no question about an indi-
+rect relationship between the Massachusetts regulations and cigarette
+advertising: The regulations expressly target such advertising. Id., at
+324–325. The Attorney General’s argument that the regulations are
+not “based on smoking and health” since they do not involve health-
+related content, but instead target youth exposure to cigarette advertis-
+ing, is unpersuasive because, at bottom, the youth exposure concern is
+
+[Report page 3]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+527Cite as: 533 U. S. 525 (2001)
+Syllabus
+intertwined with the smoking and health concern. Also unavailing is
+the Attorney General’s claim that the regulations are not pre-empted
+because they govern the location, not the content, of cigarette advertis-
+ing. The content/location distinction cannot be squared with the pre-
+emption provision’s language, which reaches all “requirements” and
+“prohibitions” “imposed under State law.” A distinction between ad-
+vertising content and location in the FCLAA also cannot be reconciled
+with Congress’ own location-based restriction, which bans advertising
+in electronic media, but not elsewhere. The Attorney General’s asser-
+tion that a complete state ban on cigarette advertising would not be
+pre-empted because Congress did not intend to preclude local control of
+zoning ﬁnds no support in the FCLAA, whose comprehensive warnings,
+advertising restrictions, and pre-emption provision would make little
+sense if a State or locality could simply target and ban all cigarette
+advertising. Pp. 546–551.
+(c) The FCLAA’s pre-emption provision does not restrict States’
+and localities’ ability to enact generally applicable zoning restrictions on
+the location and size of advertisements that apply to cigarettes on equal
+terms with other products, see, e. g., Metromedia, Inc. v. San Diego, 453
+U. S. 490, 507–508, or to regulate conduct as it relates to the sale or use
+of cigarettes, as by prohibiting cigarette sales to minors, see 42 U. S. C.
+§§ 300x–26(a)(1), 300x–21, as well as common inchoate offenses that at-
+tach to criminal conduct, such as solicitation, conspiracy, and attempt,
+cf. Central Hudson, supra, at 563–564. Pp. 551–552.
+(d) Because the issue was not decided below, the Court declines
+to reach the smokeless tobacco petitioners’ argument that, if the out-
+door and point-of-sale advertising regulations for cigarettes are pre-
+empted, then the same regulations for smokeless tobacco must be invali-
+dated because they cannot be severed from the cigarette provisions.
+P. 553.
+2. Massachusetts’ outdoor and point-of-sale advertising regulations
+relating to smokeless tobacco and cigars violate the First Amendment,
+but the sales practices regulations relating to all three tobacco products
+are constitutional. Pp. 553–571.
+(a) Under Central Hudson’s four-part test for analyzing regula-
+tions of commercial speech, the Court must determine (1) whether the
+expression is protected by the First Amendment, (2) whether the as-
+serted governmental interest is substantial, (3) whether the regulation
+directly advances the governmental interest asserted, and (4) whether
+it is not more extensive than is necessary to serve that interest. 447
+U. S., at 566. Only the last two steps are at issue here. The Attorney
+General has assumed for summary judgment purposes that the First
+Amendment protects the speech of petitioners, none of whom contests
+
+[Report page 4]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+528 LORILLARD TOBACCO CO. v. REILL Y
+Syllabus
+the importance of the State’s interest in preventing the use of tobacco
+by minors. The third step of Central Hudson requires that the govern-
+ment demonstrate that the harms it recites are real and that its restric-
+tion will in fact alleviate them to a material degree. Edenﬁeld v. Fane,
+507 U. S. 761, 770–771. The fourth step of Central Hudson requires a
+reasonable ﬁt between the legislature’s ends and the means chosen to
+accomplish those ends, a means narrowly tailored to achieve the desired
+objective. E. g., Florida Bar v. Went For It, Inc., 515 U. S. 618, 632.
+Pp. 553–556.
+(b) The outdoor advertising regulations prohibiting smokeless to-
+bacco or cigar advertising within 1,000 feet of a school or playground
+violate the First Amendment. Pp. 556–566.
+(1) Those regulations satisfy Central Hudson’s third step by di-
+rectly advancing the governmental interest asserted to justify them.
+The Court’s detailed review of the record reveals that the Attorney
+General has provided ample documentation of the problem with under-
+age use of smokeless tobacco and cigars. In addition, the Court dis-
+agrees with petitioners’ claim that there is no evidence that preventing
+targeted advertising campaigns and limiting youth exposure to adver-
+tising will decrease underage use of those products. On the record
+below and in the posture of summary judgment, it cannot be concluded
+that the Attorney General’s decision to regulate smokeless tobacco and
+cigar advertising in an effort to combat the use of tobacco products by
+minors was based on mere “speculation and conjecture.” Edenﬁeld,
+supra, at 770. Pp. 556–561.
+(2) Whatever the strength of the Attorney General’s evidence to
+justify the outdoor advertising regulations, however, the regulations do
+not satisfy Central Hudson’s fourth step. Their broad sweep indicates
+that the Attorney General did not “carefully calculat[e] the costs and
+beneﬁts associated with the burden on speech imposed.” Cincinnati v.
+Discovery Network, Inc., 507 U. S. 410, 417. The record indicates that
+the regulations prohibit advertising in a substantial portion of Massa-
+chusetts’ major metropolitan areas; in some areas, they would constitute
+nearly a complete ban on the communication of truthful information.
+This substantial geographical reach is compounded by other factors.
+“Outdoor” advertising includes not only advertising located outside an
+establishment, but also advertising inside a store if visible from outside.
+Moreover, the regulations restrict advertisements of any size, and the
+term advertisement also includes oral statements. The uniformly
+broad sweep of the geographical limitation and the range of communica-
+tions restricted demonstrate a lack of tailoring. The governmental in-
+terest in preventing underage tobacco use is substantial, and even com-
+pelling, but it is no less true that the sale and use of tobacco products by
+
+[Report page 5]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+529Cite as: 533 U. S. 525 (2001)
+Syllabus
+adults is a legal activity. A speech regulation cannot unduly impinge on
+the speaker’s ability to propose a commercial transaction and the adult
+listener’s opportunity to obtain information about products. The Attor-
+ney General has failed to show that the regulations at issue are not
+more extensive than necessary. Pp. 561–566.
+(c) The regulations prohibiting indoor, point-of-sale advertising of
+smokeless tobacco and cigars lower than 5 feet from the ﬂoor of a retail
+establishment located within 1,000 feet of a school or playground fail
+both the third and fourth steps of the Central Hudson analysis. The
+5-foot rule does not seem to advance the goals of preventing minors
+from using tobacco products and curbing demand for that activity by
+limiting youth exposure to advertising. Not all children are less than
+5 feet tall, and those who are can look up and take in their surroundings.
+Nor can the blanket height restriction be construed as a mere regulation
+of communicative action under United States v. O’Brien, 391 U. S. 367,
+since it is not unrelated to expression, see, e. g., Texas v. Johnson, 491
+U. S. 397, 403, but attempts to regulate directly the communicative im-
+pact of indoor advertising. Moreover, the restriction does not consti-
+tute a reasonable ﬁt with the goal of targeting tobacco advertising that
+entices children. Although the First Circuit decided that the restric-
+tion’s burden on speech is very limited, there is no de minimis exception
+for a speech restriction that lacks sufﬁcient tailoring or justiﬁcation.
+Pp. 566–567.
+(d) Assuming that petitioners have a cognizable speech interest in
+a particular means of displaying their products, cf. Cincinnati v. Discov-
+ery Network, Inc., supra, at 410, the regulations requiring retailers to
+place tobacco products behind counters and requiring customers to have
+contact with a salesperson before they are able to handle such a product
+withstand First Amendment scrutiny. The State has demonstrated a
+substantial interest in preventing access to tobacco products by minors
+and has adopted an appropriately narrow means of advancing that inter-
+est. See, e. g., O’Brien, supra, at 382. Because unattended displays of
+such products present an opportunity for access without the proper age
+veriﬁcation required by law, the State prohibits self-service and other
+displays that would allow an individual to obtain tobacco without direct
+contact with a salesperson. It is clear that the regulations leave open
+ample communication channels. They do not signiﬁcantly impede adult
+access to tobacco products, and retailers have other means of exercising
+any cognizable speech interest in the presentation of their products.
+The Court presumes that vendors may place empty tobacco packaging
+on open display, and display actual tobacco products so long as that
+display is only accessible to sales personnel. As for cigars, there is
+no indication that a customer is unable to examine a cigar prior to pur-
+
+[Report page 6]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+530 LORILLARD TOBACCO CO. v. REILL Y
+Syllabus
+chase, so long as that examination takes place through a salesperson.
+Pp. 567–570.
+(e) The Court declines to address the cigar petitioners’ First
+Amendment challenge to a regulation prohibiting sampling or promo-
+tional giveaways of cigars and little cigars. That claim was not sufﬁ-
+ciently briefed and argued before this Court. Pp. 570–571.
+218 F. 3d 30, afﬁrmed in part, reversed in part, and remanded.
+O’Connor, J ., delivered the opinion of the Court, Parts I, II–C, and
+II–D of which were unanimous; Parts III–A, III–C, and III–D of which
+were joined by Rehnquist, C. J., and Scalia, Kennedy , Souter, and
+Thomas, JJ.; Part III–B–1 of which was joined by Rehnquist, C. J., and
+Stevens, Souter, Ginsburg, and Breyer, JJ.; and Parts II–A, II–B,
+III–B–2, and IV of which were joined by Rehnquist, C. J., and Scalia,
+Kennedy ,and Thomas, JJ. Kennedy ,J., ﬁled an opinion concurring in
+part and concurring in the judgment, in which Scalia, J., joined, post,
+p. 571. Thomas, J., ﬁled an opinion concurring in part and concurring in
+the judgment, post, p. 572. Souter, J., ﬁled an opinion concurring in part
+and dissenting in part, post, p. 590. Stevens, J., ﬁled an opinion concur-
+ring in part, concurring in the judgment in part, and dissenting in part,
+in which Ginsburg and Breyer, JJ., joined, and in which Souter, J.,
+joined as to Part I, post, p. 590.
+Jeffrey S. Sutton argued the cause for petitioners in
+No. 00–596. With him on the briefs were D a n i e lP .C o l l i n s ,
+Michael R. Doyen, Fred A. Rowley, Jr., Kenneth S. Geller,
+Andrew L. Frey, Richard M. Zielinski, John L. Strauch,
+Gregory G. Katsas, John B. Connarton, Jr., Patricia A. Bar-
+ald, and David H. Remes. James V. Kearney ﬁled a brief
+for petitioners in No. 00–597. With Mr. Kearney on the
+brief were Christopher Harris and Richard P . Bress. Peter
+J. McKenna and Eric S. Sarner ﬁled a brief for petitioner
+U. S. Smokeless Tobacco Company in both cases.
+William W . Porter, Assistant Attorney General of the
+Commonwealth of Massachusetts, argued the cause for re-
+spondents in both cases. With him on the brief were
+Thomas F. Reilly, Attorney General, and Susan Paulson,
+Assistant Attorney General.
+Acting Solicitor General Underwood argued the cause
+for the United States as amicus curiae urging afﬁrmance.
+
+[Report page 7]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+531Cite as: 533 U. S. 525 (2001)
+Counsel
+With her on the brief were Acting Assistant Attorney Gen-
+eral Schiffer, Deputy Solicitor General Kneedler, Irving L.
+Gornstein, and Douglas N. Letter.*
+*Briefs of amici curiae urging reversal were ﬁled for the American
+Advertising Federation et al. by Daniel E. Troy and Robin S. Conrad; for
+the American Association of Advertising Agencies et al. by Penelope S.
+Farthing; for the Association of National Advertisers, Inc., by Steven G.
+Brody, John J. Walsh, and Gilbert H. Weil; for Inﬁnity Outdoor, Inc., et al.
+by Floyd Abrams and Joel Kurtzberg; for the National Association of Con-
+venience Stores by Scott A. Sinder and John B. Williams; for the News-
+paper Association of America et al. by Bruce E. H. Johnson, P . Cameron
+DeVore, Rene´ P . Milam, Steven R. Shapiro, Stuart D. Karle, Robin Bier-
+stedt, Lucy Dalglish, and Gregg Leslie; for the Product Liability Advisory
+Council, Inc., by Leslie G. Landau; and for the Washington Legal Founda-
+tion by Daniel J. Popeo and Richard A. Samp.
+Briefs of amici curiae urging afﬁrmance were ﬁled for the State of
+California et al. by Seth E. Mermin and Corinne Lee Murphy, Deputy
+Attorneys General of California, Bill Lockyer, Attorney General, Richard
+M. Frank, Chief Assistant Attorney General, Herschel T. Elkins and Den-
+nis Eckhart, Senior Assistant Attorneys General, Ronald A. Reiter, Su-
+pervising Deputy Attorney General, and Robert R. Rigsby, Corporation
+Counsel of the District of Columbia, and by the Attorneys General for
+their respective jurisdictions as follows: Bruce M. Botelho of Alaska, Janet
+Napolitano of Arizona, Mark Pryor of Arkansas, Ken Salazar of Colo-
+rado, Richard Blumenthal of Connecticut, Robert A. Butterworth of Flor-
+ida, Earl I. Anzai of Hawaii, Alan G. Lance of Idaho, Jim Ryan of Illinois,
+Steve Carter of Indiana, Tom Miller of Iowa, Carla J . Stovall of Kansas,
+Richard P . Ieyoub of Louisiana, Steve Rowe of Maine, J. Joseph Curran,
+Jr., of Maryland, Mike Hatch of Minnesota, Mike Moore of Mississippi,
+Jeremiah W. Nixon of Missouri, Mike McGrath of Montana, Frankie Sue
+Del Papa of Nevada, Philip T . McLaughlin of New Hampshire, John
+Farmer of New Jersey, Patricia Madrid of New Mexico, Eliot Spitzer of
+New York, Wayne Stenehjem of North Dakota, Herbert D. Soll of the
+Northern Mariana Islands, Betty D. Montgomery of Ohio, W. A. Drew
+Edmondson of Oklahoma, Hardy Myers of Oregon, Mike Fisher of Penn-
+sylvania, Sheldon Whitehouse of Rhode Island, Mark Barnett of South
+Dakota, Paul Summers of Tennessee, John Cornyn of Texas, Mark Shurt-
+leff of Utah, William H. Sorrell of Vermont, Christine O. Gregoire of
+Washington, Darrel V. McGraw, Jr., of West Virginia, and James E. Doyle
+of Wisconsin; for the Cities of Oakland, California, et al. by Stephen P .
+Berzon, Michael E. Wall, Lawrence Rosenthal, and Benna Ruth Solomon;
+
+[Report page 8]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+532 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+Justice O’Connordelivered the opinion of the Court.
+In January 1999, the Attorney General of Massachusetts
+promulgated comprehensive regulations governing the ad-
+vertising and sale of cigarettes, smokeless tobacco, and ci-
+gars. 940 Code of Mass. Regs. §§ 21.01–21.07, 22.01–22.09
+(2000). Petitioners, a group of cigarette, smokeless tobacco,
+and cigar manufacturers and retailers, ﬁled suit in Federal
+District Court claiming that the regulations violate federal
+law and the United States Constitution. In large measure,
+the District Court determined that the regulations are valid
+and enforceable. The United States Court of Appeals for
+the First Circuit afﬁrmed in part and reversed in part, con-
+cluding that the regulations are not pre-empted by federal
+law and do not violate the First Amendment. The ﬁrst
+question presented for our review is whether certain ciga-
+rette advertising regulations are pre-empted by the Federal
+Cigarette Labeling and Advertising Act (FCLAA), 79 Stat.
+282, as amended, 15 U. S. C. § 1331 et seq. The second ques-
+tion presented is whether certain regulations governing the
+advertising and sale of tobacco products violate the First
+Amendment.
+for the City of Los Angeles et al. by Mark E. Haddad, James M. Harris,
+Joseph R. Guerra, and James K. Hahn; for the City of New York et al. by
+Michael D. Hess, Leonard J. Koerner, Elizabeth Susan Natrella, Richard
+M. Weinberg, and Sandra R. Gutman; for the American Legacy Founda-
+tion by A. Stephen Hut, Jr., John Payton, Patrick J. Carome, and Mat-
+thew A. Brill; for the American Medical Association et al. by Donald W .
+Garner; for the National Center for Tobacco-Free Kids et al. by David
+Vladeck, Allison M. Zieve, Alan B. Morrison, and Matthew L. Myers; for
+the National Conference of State Legislatures et al. by Richard Ruda,
+James I. Crowley, and D. Bruce La Pierre; and for the Tobacco Control
+Resource Center, Inc., by Richard A. Daynard.
+Briefs of amici curiae were ﬁled for the State’s Attorney of Dupage
+County, Illinois, et al. by Richard Hodyl, Jr., Joseph E. Birkett, and
+Nancy J. Wolfe; and for the American Planning Association by Randal
+R. Morrison.
+
+[Report page 9]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+533Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+I
+In November 1998, Massachusetts, along with over 40
+other States, reached a landmark agreement with major
+manufacturers in the cigarette industry. The signatory
+States settled their claims against these companies in ex-
+change for monetary payments and permanent injunctive re-
+lief. See App. 253–258 (Outline of Terms for Massachusetts
+in National Tobacco Settlement); Master Settlement Agree-
+ment (Nov. 23, 1998), http://www.naag.org. At the press
+conference covering Massachusetts’ decision to sign the
+agreement, then-Attorney General Scott Harshbarger an-
+nounced that as one of his last acts in ofﬁce, he would create
+consumer protection regulations to restrict advertising and
+sales practices for tobacco products. He explained that the
+regulations were necessary in order to “close holes” in the
+settlement agreement and “to stop Big Tobacco from recruit-
+ing new customers among the children of Massachusetts.”
+App. 251.
+In January 1999, pursuant to his authority to prevent
+unfair or deceptive practices in trade, Mass. Gen. Laws,
+ch. 93A, § 2 (1997), the Massachusetts Attorney General (At-
+torney General) promulgated regulations governing the sale
+and advertisement of cigarettes, smokeless tobacco, and ci-
+gars. The purpose of the cigarette and smokeless tobacco
+regulations is “to eliminate deception and unfairness in the
+way cigarettes and smokeless tobacco products are mar-
+keted, sold and distributed in Massachusetts in order to ad-
+dress the incidence of cigarette smoking and smokeless to-
+bacco use by children under legal ag e...[ and] in order to
+prevent access to such products by underage consumers.”
+940 Code of Mass. Regs. § 21.01 (2000). The similar purpose
+of the cigar regulations is “to eliminate deception and unfair-
+ness in the way cigars and little cigars are packaged, mar-
+keted, sold and distributed in Massachusetts [so that] . . .
+consumers may be adequately informed about the health
+
+[Report page 10]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+534 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+risks associated with cigar smoking, its addictive properties,
+and the false perception that cigars are a safe alternative to
+cigarettes . . . [and so that] the incidence of cigar use by
+children under legal age is addressed . . . in order to prevent
+access to such products by underage consumers.” Ibid.
+The regulations have a broader scope than the master settle-
+ment agreement, reaching advertising, sales practices, and
+members of the tobacco industry not covered by the agree-
+ment. The regulations place a variety of restrictions on
+outdoor advertising, point-of-sale advertising, retail sales
+transactions, transactions by mail, promotions, sampling of
+products, and labels for cigars.
+The cigarette and smokeless tobacco regulations being
+challenged before this Court provide:
+“(2) Retail Outlet Sales Practices. Except as other-
+wise provided in [§ 21.04(4)], it shall be an unfair or
+deceptive act or practice for any person who sells or
+distributes cigarettes or smokeless tobacco products
+through a retail outlet located within Massachusetts
+to engage in any of the following retail outlet sales
+practices:
+.....
+“(c) Using self-service displays of cigarettes or smoke-
+less tobacco products;
+“(d) Failing to place cigarettes and smokeless tobacco
+products out of the reach of all consumers, and
+in a location accessible only to outlet personnel.”
+§§ 21.04(2)(c)–(d).
+“(5) Advertising Restrictions. Except as provided in
+[§ 21.04(6)], it shall be an unfair or deceptive act or prac-
+tice for any manufacturer, distributor or retailer to en-
+gage in any of the following practices:
+“(a) Outdoor advertising, including advertising in en-
+closed stadiums and advertising from within a retail es-
+tablishment that is directed toward or visible from the
+
+[Report page 11]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+535Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+outside of the establishment, in any location that is
+within a 1,000 foot radius of any public playground, play-
+ground area in a public park, elementary school or sec-
+ondary school;
+“(b) Point-of-sale advertising of cigarettes or smokeless
+tobacco products any portion of which is placed lower
+than ﬁve feet from the ﬂoor of any retail establishment
+which is located within a one thousand foot radius of
+any public playground, playground area in a public park,
+elementary school or secondary school, and which is not
+an adult-only retail establishment.” §§ 21.04(5)(a)–(b).
+The cigar regulations that are still at issue provide:
+“(1) Retail Sales Practices. Except as otherwise pro-
+vided in [§ 22.06(4)], it shall be an unfair or deceptive act
+or practice for any person who sells or distributes cigars
+or little cigars directly to consumers within Massachu-
+setts to engage in any of the following practices:
+“(a) sampling of cigars or little cigars or promotional
+give-aways of cigars or little cigars.” § 21.06(1)(a).
+“(2) Retail Outlet Sales Practices. Except as other-
+wise provided in [§ 22.06(4)], it shall be an unfair or de-
+ceptive act or practice for any person who sells or dis-
+tributes cigars or little cigars through a retail outlet
+located within Massachusetts to engage in any of the
+following retail outlet sales practices:
+.....
+“(c) Using self-service displays of cigars or little cigars;
+“(d) Failing to place cigars and little cigars out of the
+reach of all consumers, and in a location accessible only
+to outlet personnel.” §§ 22.06(2)(c)–(d).
+“(5) Advertising Restrictions. Except as provided in
+[§ 22.06(6)], it shall be an unfair or deceptive act or prac-
+tice for any manufacturer, distributor or retailer to en-
+gage in any of the following practices:
+
+[Report page 12]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+536 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+“(a) Outdoor advertising of cigars or little cigars, includ-
+ing advertising in enclosed stadiums and advertising
+from within a retail establishment that is directed to-
+ward or visible from the outside of the establishment,
+in any location within a 1,000 foot radius of any public
+playground, playground area in a public park, elemen-
+tary school or secondary school;
+“(b) Point-of-sale advertising of cigars or little cigars
+any portion of which is placed lower than ﬁve feet from
+the ﬂoor of any retail establishment which is located
+within a one thousand foot radius of any public play-
+ground, playground area in a public park, elementary
+school or secondary school, and which is not an adult-
+only retail establishment.” §§ 22.06(5)(a)–(b).
+The term “advertisement” is deﬁned as:
+“any oral, written, graphic, or pictorial statement or
+representation, made by, or on behalf of, any person who
+manufactures, packages, imports for sale, distributes or
+sells within Massachusetts [tobacco products], the pur-
+pose or effect of which is to promote the use or sale of
+the product. Advertisement includes, without limita-
+tion, any picture, logo, symbol, motto, se lling message,
+graphic display, visual image, recognizable color or pat-
+tern of colors, or any other indicia of product identiﬁca-
+tion identical or similar to, or identiﬁable with, those
+used for any brand of [tobacco product]. This includes,
+without limitation, utilitarian items and permanent or
+semi-permanent ﬁxtures with such indicia of product
+identiﬁcation such as lighting ﬁxtures, awnings, display
+cases, clocks and door mats, but does not include utilitar-
+ian items with a volume of 200 cubic inches or less.”
+§§ 21.03, 22.03.
+Before the effective date of the regulations, February 1,
+2000, members of the tobacco industry sued the Attorney
+General in the United States District Court for the District
+
+[Report page 13]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+537Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+of Massachusetts. Four cigarette manufacturers (Lorillard
+Tobacco Company, Brown & Williamson Tobacco Corpora-
+tion, R. J. Reynolds Tobacco Company, and Philip Morris In-
+corporated), a maker of smokeless tobacco products (U. S.
+Smokeless Tobacco Company), and several cigar manufactur-
+ers and retailers claimed that many of the regulations violate
+the Commerce Clause, the Supremacy Clause, the First and
+Fourteenth Amendments, and Rev. Stat. § 1979, 42 U. S. C.
+§ 1983. The parties sought summary judgment. 76 F.
+Supp. 2d 124, 127 (1999); 84 F. Supp. 2d 180, 183 (2000).
+In its ﬁrst ruling, the District Court considered the Su-
+premacy Clause claim that the FCLAA, 15 U. S. C. § 1331
+et seq., pre-empts the cigarette advertising regulations. 76
+F. Supp. 2d, at 128–134. The FCLAA prescribes the health
+warnings that must appear on packaging and in advertise-
+ments for cigarettes. The FCLAA contains a pre-emption
+provision that prohibits a State from imposing any “require-
+ment or prohibition based on smoking and health . . . with
+respect to the advertising or promotion of . . . cigarettes.”
+§ 1334(b). The FCLAA’s pre-emption provision does not
+cover smokeless tobacco or cigars.
+The District Court explained that the central question for
+purposes of pre-emption is whether the regulations create a
+predicate legal duty based on smoking and health. The
+court reasoned that to read the pre-emption provision to pro-
+scribe any state advertising regulation enacted due to health
+concerns about smoking would expand Congress’ purpose be-
+yond a reasonable scope and leave States powerless to regu-
+late in the area. The court concluded that restrictions on
+the location of advertising are not based on smoking and
+health and thus are not pre-empted by the FCLAA. The
+District Court also concluded that a provision that permitted
+retailers to display a black and white “tombstone” sign read-
+ing “Tobacco Products Sold Here,” 940 Code of Mass. Regs.
+§ 21.04(6) (2000), was pre-empted by the FCLAA.
+
+[Report page 14]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+538 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+In a separate ruling, the District Court considered the
+claim that the Attorney General’s regulations violate the
+First Amendment. 84 F. Supp. 2d, at 183–196. Rejecting
+petitioners’ argument that strict scrutiny should apply, the
+court applied the four-part test of Central Hudson Gas &
+Elec. Corp. v. Public Serv. Comm’n of N. Y ., 447 U. S. 557
+(1980), for commercial speech. The court reasoned that the
+Attorney General had provided an adequate basis for regu-
+lating cigars and smokeless tobacco as well as cigarettes be-
+cause of the similarities among the products. The court
+held that the outdoor advertising regulations, which prohibit
+outdoor advertising within 1,000 feet of a school or play-
+ground, do not violate the First Amendment because they
+advance a substantial government interest and are narrowly
+tailored to suppress no more speech than necessary. The
+court concluded that the sales practices regulations, which
+restrict the location and distribution of tobacco products,
+survive scrutiny because they do not implicate a signiﬁcant
+speech interest. The court invalidated the point-of-sale ad-
+vertising regulations, which require that indoor advertising
+be placed no lower than ﬁve feet from the ﬂoor, ﬁnding that
+the Attorney General had not provided sufﬁcient justiﬁcation
+for that restriction. The District Court’s ruling with re-
+spect to the cigar warning requirements and the Commerce
+Clause is not before this Court.
+The United States Court of Appeals for the First Circuit
+issued a stay pending appeal, App. 8–9, and afﬁrmed in part
+and reversed in part the District Court’s judgment, Consol-
+idated Cigar Corp. v. Reilly, 218 F. 3d 30 (2000). With
+respect to the Supremacy Clause, the Court of Appeals
+afﬁrmed the District Court’s ruling that the Attorney
+General’s cigarette advertising regulations are not pre-
+empted by the FCLAA. The First Circuit was persuaded
+by the reasoning of the Second and Seventh Circuits, which
+had concluded that the FCLAA’s pre-emption provision is
+ambiguous, and held that the provision pre-empts regula-
+
+[Report page 15]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+539Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+tions of the content, but not the location, of cigarette adver-
+tising. See Greater New York Metropolitan Food Council,
+Inc. v. Giuliani, 195 F. 3d 100, 104–110 (CA2 1999); Federa-
+tion of Advertising Industry Representatives, Inc. v. Chi-
+cago, 189 F. 3d 633, 636–640 (CA7 1999).
+With respect to the First Amendment, the Court of Ap-
+peals applied the Central Hudson test. 447 U. S. 557 (1980).
+The court held that the outdoor advertising regulations do
+not violate the First Amendment. The court concluded that
+the restriction on outdoor advertising within 1,000 feet of a
+school or playground directly advances the State’s substan-
+tial interest in preventing tobacco use by minors. The court
+also found that the outdoor advertising regulations restrict
+no more speech than necessary, reasoning that the distance
+chosen by the Attorney General is the sort of determination
+better suited for legislative and executive decisionmakers
+than courts. The Court of Appeals reversed the District
+Court’s invalidation of the point-of-sale advertising regula-
+tions, again concluding that the Attorney General is better
+suited to determine what restrictions are necessary. The
+Court of Appeals also held that the sales practices regula-
+tions are valid under the First Amendment. The court
+found that the regulations directly advance the State’s inter-
+est in preventing minors’ access to tobacco products and that
+the regulations are narrowly tailored because retailers have
+a variety of other means to present the packaging of their
+products and to allow customers to examine the products.
+As for the argument that smokeless tobacco and cigars are
+different from cigarettes, the court expressed some misgiv-
+ings about equating all tobacco products, but ultimately de-
+cided that the Attorney General had presented sufﬁcient evi-
+dence with respect to all three products to regulate them
+similarly. The Court of Appeals’ decision with respect to
+the cigar warning requirements and the Commerce Clause is
+not before this Court.
+
+[Report page 16]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+540 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+The Court of Appeals stayed its mandate pending disposi-
+tion of a petition for a writ of certiorari. App. 13. The cig-
+arette manufacturers and U. S. Smokeless Tobacco Company
+ﬁled a petition, challenging the Court of Appeals’ decision
+with respect to the outdoor and point-of-sale advertising reg-
+ulations on pre-emption and First Amendment grounds, and
+the sales practices regulations on First Amendment grounds.
+The cigar companies ﬁled a separate petition, again raising
+a First Amendment challenge to the outdoor advertising,
+point-of-sale advertising, and sales practices regulations.
+We granted both petitions, 531 U. S. 1068 (2001), to resolve
+the conﬂict among the Courts of Appeals with respect to
+whether the FCLAA pre-empts cigarette advertising regu-
+lations like those at issue here, cf. Lindsey v. Tacoma-Pierce
+County Health Dept., 195 F. 3d 1065 (CA9 1999), and to de-
+cide the important First Amendment issues presented in
+these cases.
+II
+Before reaching the First Amendment issues, we must de-
+cide to what extent federal law pre-empts the Attorney Gen-
+eral’s regulations. The cigarette petitioners contend that
+the FCLAA, 15 U. S. C. § 1331 et seq., pre-empts the Attor-
+ney General’s cigarette advertising regulations.
+A
+Article VI, cl. 2, of the United States Constitution com-
+mands that the laws of the United States “shall be the su-
+preme Law of the Land;...a n yT h i n gi nt h eConstitution
+or Laws of any State to the Contrary notwithstanding.”
+See also McCulloch v. Maryland, 4 Wheat. 316, 427 (1819)
+(“It is of the very essence of supremacy, to remove all obsta-
+cles to its action within its own sphere, and so to modify
+every power vested in subordinate governments”). This
+relatively clear and simple mandate has generated consider-
+able discussion in cases where we have had to discern
+whether Congress has pre-empted state action in a particu-
+
+[Report page 17]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+541Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+lar area. State action may be foreclosed by express lan-
+guage in a congressional enactment, see, e. g., Cipollone v.
+Liggett Group, Inc., 505 U. S. 504, 517 (1992), by implication
+from the depth and breadth of a congressional scheme that
+occupies the legislative ﬁeld, see, e. g., Fidelity Fed. Sav. &
+Loan Assn. v. De la Cuesta, 458 U. S. 141, 153 (1982), or by
+implication because of a conﬂict with a congressional enact-
+ment, see, e. g., Geier v. American Honda Motor Co., 529
+U. S. 861, 869–874 (2000).
+In the FCLAA, Congress has crafted a comprehensive
+federal scheme governing the advertising and promotion of
+cigarettes. The FCLAA’s pre-emption provision provides:
+“(a) Additional statements
+“No statement relating to smoking and health, other
+than the statement required by section 1333 of this title,
+shall be required on any cigarette package.
+“(b) State regulations
+“No requirement or prohibition based on smoking and
+health shall be imposed under State law with respect
+to the advertising or promotion of any cigarettes the
+packages of which are labeled in conformity with the
+provisions of this chapter.” 15 U. S. C. § 1334.
+The FCLAA’s pre-emption provision does not cover smoke-
+less tobacco or cigars.
+In these cases, our task is to identify the domain expressly
+pre-empted, see Cipollone, supra, at 517, because “an ex-
+press deﬁnition of the pre-emptive reach of a statute . . .
+supports a reasonable inference . . . that Congress did not
+intend to pre-empt other matters,” Freightliner Corp. v.
+Myrick, 514 U. S. 280, 288 (1995). Congressional purpose is
+the “ultimate touchstone” of our inquiry. Cipollone, supra,
+at 516 (internal quotation marks omitted). Because “federal
+law is said to bar state action in [a] ﬁel[d] of traditional state
+regulation,” namely, advertising, see Packer Corp. v. Utah,
+285 U. S. 105, 108 (1932), we “wor[k] on the assumption that
+
+[Report page 18]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+542 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+the historic police powers of the States [a]re not to be super-
+seded by the Federal Act unless that [is] the clear and mani-
+fest purpose of Congress.” California Div. of Labor Stand-
+ards Enforcement v. Dillingham Constr., N. A., Inc., 519
+U. S. 316, 325 (1997) (internal quotation marks omitted).
+See also Medtronic, Inc. v. Lohr, 518 U. S. 470, 475 (1996).
+Our analysis begins with the language of the statute.
+Hughes Aircraft Co. v. Jacobson, 525 U. S. 432, 438 (1999).
+In the pre-emption provision, Congress unequivocally pre-
+cludes the requirement of any additional statements on ciga-
+rette packages beyond those provided in § 1333. 15 U. S. C.
+§ 1334(a). Congress further precludes States or localities
+from imposing any requirement or prohibition based on
+smoking and health with respect to the advertising and pro-
+motion of cigarettes. § 1334(b). Without question, the sec-
+ond clause is more expansive than the ﬁrst; it employs far
+more sweeping language to describe the state action that is
+pre-empted. We must give meaning to each element of the
+pre-emption provision. We are aided in our interpretation
+by considering the predecessor pre-emption provision and
+the circumstances in which the current language was
+adopted. See Medtronic, supra, at 486; McCarthy v. Bron-
+son, 500 U. S. 136, 139 (1991); Km a r tC o r p .v.Cartier, Inc.,
+486 U. S. 281, 291 (1988).
+In 1964, the groundbreaking Report of the Surgeon Gener-
+al’s Advisory Committee on Smoking and Health concluded
+that “[c]igarette smoking is a health hazard of sufﬁcient im-
+portance in the United States to warrant appropriate reme-
+dial action.” Department of Health, Education, and Wel-
+fare, U. S. Surgeon General’s Advisory Committee, Smoking
+and Health 33. In 1965, Congress enacted the FCLAA as a
+proactive measure in the face of impending regulation by
+federal agencies and the States. Pub. L. 89–92, 79 Stat. 282.
+See also Cipollone, supra, at 513–515. The purpose of the
+FCLAA was twofold: to inform the public adequately about
+the hazards of cigarette smoking, and to protect the national
+
+[Report page 19]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+543Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+economy from interference due to diverse, nonuniform, and
+confusing cigarette labeling and advertising regulations with
+respect to the relationship between smoking and health.
+Pub. L. 89–92, § 2. The FCLAA prescribed a label for ciga-
+rette packages: “Caution: Cigarette Smoking May Be Haz-
+ardous to Your Health.” § 4. The FCLAA also required
+the Secretary of Health, Education, and Welfare (HEW) and
+the Federal Trade Commission (FTC) to report annually to
+Congress about the health consequences of smoking and the
+advertising and promotion of cigarettes. § 5.
+Section 5 of the FCLAA included a pre-emption provision
+in which “Congress spoke precisely and narrowly.” Cipol-
+lone, supra, at 518. Subsection (a) prohibited any require-
+ment of additional statements on cigarette packaging. Sub-
+section (b) provided that “[n]o statement relating to smoking
+and health shall be required in the advertising of any ciga-
+rettes the packages of which are labeled in conformity with
+the provisions of this Act.” Section 10 of the FCLAA set a
+termination date of July 1, 1969, for these provisions. As
+we have previously explained, “on their face, [the pre-
+emption] provisions merely prohibited state and federal
+rulemaking bodies from mandating particular cautionary
+statements on cigarette labels [subsection (a)] or in ciga-
+rette advertisements [subsection (b)].” Cipollone, supra, at
+518.
+The FCLAA was enacted with the expectation that Con-
+gress would reexamine it in 1969 in light of the developing
+information about cigarette smoking and health. H. R. Rep.
+No. 586, 89th Cong., 1st Sess., 6 (1965); 111 Cong. Rec. 16541
+(1965). In the intervening years, Congress received reports
+and recommendations from the HEW Secretary and the
+FTC. S. Rep. No. 91–566, pp. 2–6 (1969). The HEW Secre-
+tary recommended that Congress strengthen the warning,
+require the warning on all packages and in advertisements,
+and publish tar and nicotine levels on packages and in adver-
+tisements. Id., at 4. The FTC made similar and additional
+
+[Report page 20]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+544 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+recommendations. The FTC sought a complete ban on radio
+and television advertising, a requirement that broadcasters
+devote time for health hazard announcements concerning
+smoking, and increased funding for public education and re-
+search about smoking. Id., at 6. The FTC urged Congress
+not to continue to prevent federal agencies from regulating
+cigarette advertising. Id., at 10. In addition, the Federal
+Communications Commission (FCC) had concluded that ad-
+vertising which promoted the use of cigarettes created a
+duty in broadcast stations to provide information about the
+hazards of cigarette smoking. Id., at 6–7.
+In 1969, House and Senate committees held hearings
+about the health effects of cigarette smoking and advertis-
+ing by the cigarette industry. The bill that emerged from
+the House of Representatives strengthened the warning
+and maintained the pre-emption provision. The Senate
+amended that bill, adding the ban on radio and television
+advertising, and changing the pre-emption language to its
+present form. H. R. Conf. Rep. No. 91–897, pp. 4–5 (1970).
+The ﬁnal result was the Public Health Cigarette Smoking
+Act of 1969, in which Congress, following the Senate’s
+amendments, made three signiﬁcant changes to the FCLAA.
+Pub. L. 91–222, § 2, 84 Stat. 87. First, Congress drafted a
+new label that read: “Warning: The Surgeon General Has
+Determined That Cigarette Smoking Is Dangerous to Your
+Health.” FCLAA, § 4. Second, Congress declared it un-
+lawful to advertise cigarettes on any medium of electronic
+communication subject to the jurisdiction of the FCC. § 6.
+Finally, Congress enacted the current pre-emption provision,
+which proscribes any “requirement or prohibition based on
+smoking and health . . . imposed under State law with re-
+spect to the advertising or promotion” of cigarettes. § 5(b).
+The new subsection (b) did not pre-empt regulation by fed-
+eral agencies, freeing the FTC to impose warning require-
+ments in cigarette advertising. See Cipollone, 505 U. S., at
+515. The new pre-emption provision, like its predecessor,
+only applied to cigarettes, and not other tobacco products.
+
+[Report page 21]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+545Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+In 1984, Congress again amended the FCLAA in the Com-
+prehensive Smoking Education Act. Pub. L. 98–474, 98
+Stat. 2200. The purpose of the Act was to “provide a new
+strategy for making Americans more aware of any adverse
+health effects of smoking, to assure the timely and wide-
+spread dissemination of research ﬁndings and to enable indi-
+viduals to make informed decisions about smoking.” § 2.
+The Act established a series of warnings to appear on a ro-
+tating basis on cigarette packages and in cigarette advertis-
+ing, § 4, and directed the Health and Human Services Secre-
+tary to create and implement an educational program about
+the health effects of cigarette smoking, § 3.
+The FTC has continued to report on trade practices in the
+cigarette industry. In 1999, the ﬁrst year since the master
+settlement agreement, the FTC reported that the cigarette
+industry expended $8.24 billion on advertising and promo-
+tions, the largest expenditure ever. FTC, Cigarette Report
+for 1999, p. 1 (2000). Substantial increases were found in
+point-of-sale promotions, payments made to retailers to facil-
+itate sales, and retail offers such as buy one, get one free,
+or product giveaways. Id., at 4–5. Substantial decreases,
+however, were reported for outdoor advertising and transit
+advertising. Id., at 2. Congress and federal agencies con-
+tinue to monitor advertising and promotion practices in the
+cigarette industry.
+The scope and meaning of the current pre-emption provi-
+sion become clearer once we consider the original pre-
+emption language and the amendments to the FCLAA.
+Without question, “the plain language of the pre-emption
+provision in the 1969 Act is much broader.” Cipollone, 505
+U. S., at 520. Rather than preventing only “statements,”
+the amended provision reaches all “requirement[s] or
+prohibition[s]...i mposed under State law.” And, although
+the former statute reached only statements “in the advertis-
+ing,” the current provision governs “with respect to the ad-
+vertising or promotion” of cigarettes. See ibid. Congress
+expanded the pre-emption provision with respect to the
+
+[Report page 22]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+546 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+States, and at the same time, it allowed the FTC to regulate
+cigarette advertising. Congress also prohibited cigarette
+advertising in electronic media altogether. Viewed in light
+of the context in which the current pre-emption provision
+was adopted, we must determine whether the FCLAA pre-
+empts Massachusetts’ regulations governing outdoor and
+point-of-sale advertising of cigarettes.
+B
+The Court of Appeals acknowledged that the FCLAA
+pre-empts any “requirement or prohibition based on smoking
+and health . . . with respect to the advertising or promotion
+of . . . cigarettes,” 15 U. S. C. § 1334(b), but concluded that
+the FCLAA does not nu llify Massachusetts’ cigarette adver-
+tising regulations. The court concentrated its analysis on
+whether the regulations are “with respect to” advertising
+and promotion, relying on two of its sister Circuits to con-
+clude that the FCLAA only pre-empts regulations of the
+content of cigarette advertising. The Court of Appeals also
+reasoned that the Attorney General’s regulations are a form
+of zoning, a traditional area of state power; therefore the
+presumption against pre-emption applied.
+The cigarette petitioners maintain that the Court of Ap-
+peals’ “with respect to” analysis is inconsistent with the
+FCLAA’s statutory text and legislative history, and gives
+the States license to prohibit almost all cigarette advertising.
+Petitioners also maintain that there is no basis for construing
+the pre-emption provision to prohibit only content-based ad-
+vertising regulations.
+Although they support the Court of Appeals’ result, the
+Attorney General and United States as amicus curiae do not
+fully endorse that court’s textual analysis of the pre-emption
+provision. Instead, they assert that the cigarette advertis-
+ing regulations are not pre-empted because they are not
+“based on smoking and health.” The Attorney General and
+
+[Report page 23]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+547Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+the United States also contend that the regulations are not
+pre-empted because they do not prescribe the content of cig-
+arette advertising and they fall squarely within the State’s
+traditional powers to control the location of advertising and
+to protect the welfare of children.
+Turning ﬁrst to the language in the pre-emption provision
+relied upon by the Court of Appeals, we reject the notion
+that the Attorney General’s cigarette advertising regulations
+are not “with respect to” advertising and promotion. We
+disagree with the Court of Appeals’ analogy to the Employee
+Retirement Income Security Act of 1974 (ERISA). In some
+cases concerning ERISA’s pre-emption of state law, the
+Court has had to decide whether a particular state law “re-
+lates to” an employee beneﬁt plan covered by ERISA even
+though the state law makes no express reference to such a
+plan. See, e. g., California Div. of Labor Standards En-
+forcement v. Dillingham Constr., N. A., Inc., 519 U. S., at
+324–325. Here, however, there is no question about an indi-
+rect relationship between the regulations and cigarette ad-
+vertising because the regulations expressly target cigarette
+advertising. 940 Code of Mass. Regs. § 21.04(5) (2000).
+Before this Court, the Attorney General focuses on a dif-
+ferent phrase in the pre-emption provision: “based on smok-
+ing and health.” The Attorney General argues that the cig-
+arette advertising regulations are not “based on smoking
+and health,” because they do not involve health-related con-
+tent in cigarette advertising but instead target youth expo-
+sure to cigarette advertising. To be sure, Members of this
+Court have debated the precise meaning of “based on smok-
+ing and health,” see Cipollone, supra, at 529, n. 7 (plurality
+opinion), but we cannot agree with the Attorney General’s
+narrow construction of the phrase.
+As Congress enacted the current pre-emption provision,
+Congress did not concern itself solely with health warnings
+for cigarettes. In the 1969 amendments, Congress not only
+
+[Report page 24]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+548 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+enhanced its scheme to warn the public about the hazards
+of cigarette smoking, but also sought to protect the public,
+including youth, from being inundated with images of ciga-
+rette smoking in advertising. In pursuit of the latter goal,
+Congress banned electronic media advertising of cigarettes.
+And to the extent that Congress contemplated additional
+targeted regulation of cigarette advertising, it vested that
+authority in the FTC.
+The context in which Congress crafted the current pre-
+emption provision leads us to conclude that Congress prohib-
+ited state cigarette advertising regulations motivated by
+concerns about smoking and health. Massachusetts has
+attempted to address the incidence of underage cigarette
+smoking by regulating advertising, see 940 Code of Mass.
+Regs. § 21.01 (2000), much like Congress’ ban on cigarette
+advertising in electronic media. At bottom, the concern
+about youth exposure to cigarette advertising is intertwined
+with the concern about cigarette smoking and health. Thus
+the Attorney General’s attempt to distinguish one concern
+from the other must be rejected.
+The Attorney General next claims that the State’s outdoor
+and point-of-sale advertising regulations for cigarettes are
+not pre-empted because they govern the location, and not
+the content, of advertising. This is also Justice Stevens’
+main point with respect to pre-emption. Post, at 595 (opin-
+ion concurring in part, concurring in judgment in part, and
+dissenting in part).
+The content versus location distinction has some surface
+appeal. The pre-emption provision immediately follows the
+section of the FCLAA that prescribes warnings. See 15
+U. S. C. §§ 1333, 1334. The pre-emption provision itself re-
+fers to cigarettes “labeled in conformity with” the statute.
+§ 1334(b). But the content/location distinction cannot be
+squared with the language of the pre-emption provision,
+which reaches all “requirements” and “prohibitions” “im-
+posed under State law.” A distinction between the content
+
+[Report page 25]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+549Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+of advertising and the location of advertising in the FCLAA
+also cannot be reconciled with Congress’ own location-based
+restriction, which bans advertising in electronic media, but
+not elsewhere. See § 1335. We are not at liberty to pick
+and choose which provisions in the legislative scheme we will
+consider, see post, at 596, n. 5 (opinion of Stevens, J.), but
+must examine the FCLAA as a whole.
+Moreover, any distinction between the content and loca-
+tion of cigarette advertising collapses once the implications
+of that approach are fully considered. At oral argument, the
+Attorney General was pressed to explain what types of state
+regulations of cigarette advertising, in his view, are pre-
+empted by the FCLAA. The Attorney General maintained
+that a state law that required cigarette retailers to remove
+the word “tobacco” from advertisements, or required ciga-
+rette billboards to be blank, would be pre-empted if it were
+a regulation of “health-related content.” Tr. of Oral Arg. 41,
+42. The Attorney General also maintained, however, that a
+complete ban on all cigarette advertising would not be pre-
+empted because Congress did not intend to invade local con-
+trol over zoning. Id., at 42–44. The latter position clearly
+follows from the factual distinction between content and lo-
+cation, but it ﬁnds no support in the text of the FCLAA’s
+pre-emption provision. We believe that Congress wished to
+ensure that “a State could not do through negative mandate
+(e. g., banning all cigarette advertising) that which it already
+was forbidden to do through positive mandate ( e. g., man-
+dating particular cautionary statements).” Cipollone, 505
+U. S., at 539 (Blackmun, J., joined by Kennedy and Souter,
+JJ., concurring in part and dissenting in part). See also
+Vango Media, Inc. v. New York, 34 F. 3d 68 (CA2 1994) (hold-
+ing pre-empted a regulation that required one public health
+message for every four cigarette advertisements).
+Justice Stevens, post, at 595–598, maintains that Con-
+gress did not intend to displace state regulation of the loca-
+tion of cigarette advertising. There is a critical distinction,
+
+[Report page 26]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+550 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+however, between generally applicable zoning regulations,
+see infra, at 551–552, and regulations targeting cigarette
+advertising. The latter type of regulation, which is inev-
+itably motivated by concerns about smoking and health,
+squarely contradicts the FCLAA. The FCLAA’s compre-
+hensive warnings, advertising restrictions, and pre-emption
+provision would make little sense if a State or locality could
+simply target and ban all cigarette advertising.
+Justice Stevens ﬁnds it ironic that we conclude that
+“federal law precludes States and localities from protecting
+children from dangerous products within 1,000 feet of a
+school,” in light of our prior conclusion that the “Federal
+Government lacks the constitutional authority to impose a
+similarly motivated ban” in United States v. Lopez, 514 U. S.
+549 (1995). Post, at 598–599, n. 8. Our holding is not as
+broad as Justice Stevens states; we hold only that the
+FCLAA pre-empts state regulations targeting cigarette ad-
+vertising. States remain free to enact generally applicable
+zoning regulations, and to regulate conduct with respect to
+cigarette use and sales. Infra, at 552. The reference to
+Lopez is also inapposite. In Lopez, we held that Congress
+exceeded the limits of its Commerce Clause power in the
+Gun-Free School Zones Act of 1990, which made it a federal
+crime to possess a ﬁrearm in a school zone. 514 U. S., at
+553–568. These cases, by contrast, concern the Supremacy
+Clause and the doctrine of pre-emption as applied in a case
+where Congress expressly precluded certain state regula-
+tions of cigarette advertising. Massachusetts did not raise
+a constitutional challenge to the FCLAA, and we are not
+confronted with whether Congress exceeded its constitution-
+ally delegated authority in enacting the FCLAA.
+In sum, we fail to see how the FCLAA and its pre-emption
+provision permit a distinction between the speciﬁc concern
+about minors and cigarette advertising and the more general
+concern about smoking and health in cigarette advertising,
+especially in light of the fact that Congress crafted a legisla-
+
+[Report page 27]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+551Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+tive solution for those very concerns. We also conclude that
+a distinction between state regulation of the location as op-
+posed to the content of cigarette advertising has no founda-
+tion in the text of the pre-emption provision. Congress
+pre-empted state cigarette advertising regulations like the
+Attorney General’s because they would upset federal legisla-
+tive choices to require speciﬁc warnings and to impose the
+ban on cigarette advertising in electronic media in order to
+address concerns about smoking and health. Accordingly,
+we hold that the Attorney General’s outdoor and point-of-
+sale advertising regulations targeting cigarettes are pre-
+empted by the FCLAA.
+C
+Although the FCLAA prevents States and localities from
+imposing special requirements or prohibitions “based on
+smoking and health” “with respect to the advertising or pro-
+motion” of cigarettes, that language still leaves signiﬁcant
+power in the hands of States to impose generally applicable
+zoning regulations and to regulate conduct. As we noted
+in Cipollone, “each phrase within [the provision] limits the
+universe of [state action] pre-empted by the statute.” 505
+U. S., at 524 (plurality opinion).
+For instance, the FCLAA does not restrict a State or lo-
+cality’s ability to enact generally applicable zoning restric-
+tions. We have recognized that state interests in trafﬁc
+safety and esthetics may justify zoning regulations for adver-
+tising. See Metromedia, Inc. v. San Diego, 453 U. S. 490,
+507–508 (1981). See also St. Louis Poster Advertising Co.
+v. St. Louis, 249 U. S. 269, 274 (1919); Thomas Cusack Co. v.
+Chicago, 242 U. S. 526, 529–531 (1917). Although Congress
+has taken into account the unique concerns about cigarette
+smoking and health in advertising, there is no indication that
+Congress intended to displace local community interests in
+general regulations of the location of billboards or large mar-
+quee advertising, or that Congress intended cigarette adver-
+tisers to be afforded special treatment in that regard. Re-
+
+[Report page 28]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+552 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+strictions on the location and size of advertisements that
+apply to cigarettes on equal terms with other products ap-
+pear to be outside the ambit of the pre-emption provision.
+Such restrictions are not “based on smoking and health.”
+The FCLAA also does not foreclose all state regulation of
+conduct as it relates to the sale or use of cigarettes. The
+FCLAA’s pre-emption provision explicitly governs state reg-
+ulations of “advertising or promotion.” * Accordingly, the
+FCLAA does not pre-empt state laws prohibiting cigarette
+sales to minors. To the contrary, there is an established
+congressional policy that supports such laws; Congress has
+required States to prohibit tobacco sales to minors as a con-
+dition of receiving federal block grant funding for substance
+abuse treatment activities. 106 Stat. 394, 388, 42 U. S. C.
+§§ 300x–26(a)(1), 300x–21.
+In Massachusetts, it is illegal to sell or distribute tobacco
+products to persons under the age of 18. Mass. Gen. Laws,
+ch. 270, § 6 (2000). Having prohibited the sale and distribu-
+tion of tobacco products to minors, the State may prohibit
+common inchoate offenses that attach to criminal conduct,
+such as solicitation, conspiracy, and attempt. Cf. Central
+Hudson Gas & Elec. Corp. v. Public Serv. Comm’n of New
+York, 447 U. S., at 563–564; Carey v. Population Servs. Int’l,
+431 U. S. 678, 701 (1977); Virginia Bd. of Pharmacy v. Vir-
+ginia Citizens Consumer Council, Inc., 425 U. S. 748, 772
+(1976); 60 Fed. Reg. 41330–41332 (1995) (citing evidence that
+industry may be attempting to induce individuals under 18
+to smoke cigarettes). States and localities also have at their
+disposal other means of regulating conduct to ensure that
+minors do not obtain cigarettes. See Part III–D, infra.
+*The Senate Report explained that the pre-emption provision “would in
+no way affect the power of any State or political subdivision of any State
+with respect to the taxation or the sale of cigarettes to minors, or the
+prohibition of smoking in public buildings, or similar police regulations.
+It is limited entirely to State or local requirements or prohibitions in the
+advertising of cigarettes.” S. Rep. No. 91–566, p. 12 (1969).
+
+[Report page 29]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+553Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+D
+The smokeless tobacco petitioners argue that if the State’s
+outdoor and point-of-sale advertising regulations for ciga-
+rettes are pre-empted, then the same advertising regulations
+with respect to smokeless tobacco must be invalidated be-
+cause they cannot be severed from the cigarette provisions.
+Brief for Petitioner U. S. Smokeless Tobacco Co. in Nos. 00–
+596 and 00–597, p. 4, n. 5. The District Court did not reach
+the severability issue with respect to the advertising provi-
+sions that are before this Court. 76 F. Supp. 2d, at 134,
+n. 11. The Court of Appeals also did not reach severability
+because that court likewise concluded that the cigarette ad-
+vertising regulations were not pre-empted. 218 F. 3d, at 37,
+n. 3. We decline to reach an issue that was not decided
+below. National Collegiate Athletic Assn. v. Smith, 525
+U. S. 459, 470 (1999).
+III
+By its terms, the FCLAA’s pre-emption provision only
+applies to cigarettes. Accordingly, we must evaluate the
+smokeless tobacco and cigar petitioners’ First Amendment
+challenges to the State’s outdoor and point-of-sale advertis-
+ing regulations. The cigarette petitioners did not raise a
+pre-emption challenge to the sales practices regulations.
+Thus, we must analyze the cigarette as well as the smoke-
+less tobacco and cigar petitioners’ claim that certain sales
+practices regulations for tobacco products violate the First
+Amendment.
+A
+For over 25 years, the Court has recognized that commer-
+cial speech does not fall outside the purview of the First
+Amendment. See, e. g., Virginia Bd. of Pharmacy, supra,
+at 762. Instead, the Court has afforded commercial speech
+a measure of First Amendment protection “ ‘commensurate’ ”
+with its position in relation to other constitutionally guaran-
+teed expression. See, e. g., Florida Bar v. Went For It, Inc.,
+
+[Report page 30]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+554 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+515 U. S. 618, 623 (1995) (quoting Board of Trustees of State
+U n i v .o fN .Y .v.Fox, 492 U. S. 469, 477 (1989)). In recogni-
+tion of the “distinction between speech proposing a commer-
+cial transaction, which occurs in an area traditionally subject
+to government regulation, and other varieties of speech,”
+Central Hudson, supra, at 562 (internal quotation marks
+omitted), we developed a framework for analyzing regula-
+tions of commercial speech that is “substantially similar” to
+the test for time, place, and manner restrictions, Board of
+Trustees of State Univ. of N. Y . v. Fox, supra, at 477. The
+analysis contains four elements:
+“At the outset, we must determine whether the expres-
+sion is protected by the First Amendment. For com-
+mercial speech to come within that provision, it at least
+must concern lawful activity and not be misleading.
+Next, we ask whether the asserted governmental inter-
+est is substantial. If both inquiries yield positive an-
+swers, we must determine whether the regulation di-
+rectly advances the governmental interest asserted, and
+whether it is not more extensive than is necessary to
+serve that interest.” Central Hudson, supra, at 566.
+Petitioners urge us to reject the Central Hudson analysis
+and apply strict scrutiny. They are not the ﬁrst litigants to
+do so. See, e. g., Greater New Orleans Broadcasting Assn.,
+Inc. v. United States, 527 U. S. 173, 184 (1999). Admittedly,
+several Members of the Court have expressed doubts about
+the Central Hudson analysis and whether it should apply in
+particular cases. See, e. g., Greater New Orleans, supra, at
+197 (Thomas, J., concurring in judgment); 44 Liquormart,
+Inc. v. Rhode Island, 517 U. S. 484, 501, 510–514 (1996) (joint
+opinion of Stevens, Kennedy, and Ginsburg, JJ.); id., at
+517 (Scalia, J., concurring in part and concurring in judg-
+ment); id., at 518 (Thomas, J., concurring in part and concur-
+ring in judgment). But here, as in Greater New Orleans,
+we see “no need to break new ground. Central Hudson, as
+
+[Report page 31]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+555Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+applied in our more recent commercial speech cases, provides
+an adequate basis for decision.” 527 U. S., at 184.
+Only the last two steps of Central Hudson’s four-part anal-
+ysis are at issue here. The Attorney General has assumed
+for purposes of summary judgment that petitioners’ speech
+is entitled to First Amendment protection. 218 F. 3d, at 43;
+84 F. Supp. 2d, at 185–186. With respect to the second step,
+none of the petitioners contests the importance of the State’s
+interest in preventing the use of tobacco products by mi-
+nors. Brief for Petitioners Lorillard Tobacco Co. et al. in
+No. 00–596, p. 41; Brief for Petitioner U. S. Smokeless To-
+bacco Co. in Nos. 00–596 and 00–597, at 16; Brief for Petition-
+ers Altadis U. S. A. Inc. et al. in No. 00–597, p. 8.
+The third step of Central Hudson concerns the relation-
+ship between the harm that underlies the State’s interest
+and the means identiﬁed by the State to advance that inter-
+est. It requires that
+“the speech restriction directly and materially advanc[e]
+the asserted governmental interest. ‘This burden is
+not satisﬁed by mere speculation or conjecture; rather,
+a governmental body seeking to sustain a restriction on
+commercial speech must demonstrate that the harms it
+recites are real and that its restriction will in fact allevi-
+ate them to a material degree.’ ” Greater New Orleans,
+supra, at 188 (quoting Edenﬁeld v. Fane, 507 U. S. 761,
+770–771 (1993)).
+We do not, however, require that “empirical data come . . .
+accompanied by a surfeit of background information. . . . [W]e
+have permitted litigants to justify speech restrictions by
+reference to studies and anecdotes pertaining to different
+locales altogether, or even, in a case applying strict scru-
+tiny, to justify restrictions based solely on history, consensus,
+and ‘simple common sense.’ ” Florida Bar v. Went For It,
+Inc., supra, at 628 (citations and internal quotation marks
+omitted).
+
+[Report page 32]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+556 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+The last step of the Central Hudson analysis “comple-
+ments” the third step, “asking whether the speech restric-
+tion is not more extensive than necessary to serve the inter-
+ests that support it.” Greater New Orleans, supra, at 188.
+We have made it clear that “the least restrictive means” is
+not the standard; instead, the case law requires a reasonable
+“ ‘ﬁt between the legislature’s ends and the means chosen to
+accomplish those ends, . . . a means narrowly tailored to
+achieve the desired objective.’ ” Went For It, Inc., supra, at
+632 (quoting Board of Trustees of State Univ. of N. Y . v. Fox,
+supra, at 480). Focusing on the third and fourth steps of
+the Central Hudson analysis, we ﬁrst address the outdoor
+advertising and point-of-sale advertising regulations for
+smokeless tobacco and cigars. We then address the sales
+practices regulations for all tobacco products.
+B
+The outdoor advertising regulations prohibit smokeless
+tobacco or cigar advertising within a 1,000-foot radius
+of a school or playground. 940 Code of Mass. Regs.
+§§ 21.04(5)(a), 22.06(5)(a) (2000). The District Court and
+Court of Appeals concluded that the Attorney General had
+identiﬁed a real problem with underage use of tobacco prod-
+ucts, that limiting youth exposure to advertising would com-
+bat that problem, and that the regulations burdened no more
+speech than necessary to accomplish the State’s goal. 218
+F. 3d, at 44–53; 84 F. Supp. 2d, at 186–193. The smokeless
+tobacco and cigar petitioners take issue with all of these
+conclusions.
+1
+The smokeless tobacco and cigar petitioners contend that
+the Attorney General’s regulations do not satisfy Central
+Hudson’s third step. They maintain that although the At-
+torney General may have identiﬁed a problem with underage
+cigarette smoking, he has not identiﬁed an equally severe
+problem with respect to underage use of smokeless tobacco
+
+[Report page 33]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+557Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+or cigars. The smokeless tobacco petitioner emphasizes the
+“lack of parity” between cigarettes and smokeless tobacco.
+Brief for Petitioner U. S. Smokeless Tobacco Co. in Nos. 00–
+596 and 00–597, at 19; Reply Brief for Petitioner U. S.
+Smokeless Tobacco Co. in Nos. 00–596 and 00–597, pp. 4, 10–
+11. The cigar petitioners catalog a list of differences be-
+tween cigars and other tobacco products, including the char-
+acteristics of the products and marketing strategies. Brief
+for Petitioners Altadis U. S. A. Inc. et al. in No. 00–597,
+at 9–11. The petitioners ﬁnally contend that the Attorney
+General cannot prove that advertising has a causal link to
+tobacco use such that limiting advertising will materially al-
+leviate any problem of underage use of their products. Brief
+for Petitioner U. S. Smokeless Tobacco Co. in Nos. 00–596
+and 00–597, at 20–22; Brief for Petitioners Altadis U. S. A.
+Inc. et al. in No. 00–597, at 9–16.
+In previous cases, we have acknowledged the theory that
+product advertising stimulates demand for products, while
+suppressed advertising may have the opposite effect. See
+Rubin, 514 U. S., at 487; United States v. Edge Broadcasting
+Co., 509 U. S. 418, 434 (1993); Central Hudson, 447 U. S., at
+568–569. The Attorney General cites numerous studies to
+support this theory in the case of tobacco products.
+The Attorney General relies in part on evidence gathered
+by the Food and Drug Administration (FDA) in its attempt
+to regulate the advertising of cigarettes and smokeless to-
+bacco. See Regulations Restricting the Sale and Distribu-
+tion of Cigarettes and Smokeless Tobacco Products to Pro-
+tect Children and Adolescents, FDA Proposed Rule, 60 Fed.
+Reg. 41314 (1995); Regulations Restricting the Sale and Dis-
+tribution of Cigarettes and Smokeless Tobacco to Protect
+Children and Adolescents, FDA Final Rule, 61 Fed. Reg.
+44396 (1996). The FDA promulgated the advertising regu-
+lations after ﬁnding that the period prior to adulthood is
+when an overwhelming majority of Americans ﬁrst decide to
+use tobacco products, and that advertising plays a crucial
+
+[Report page 34]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+558 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+role in that decision. Id., at 44398–44399. We later held
+that the FDA lacks statutory authority to regulate tobacco
+products. See FDA v. Brown & Williamson Tobacco Corp.,
+529 U. S. 120 (2000). Nevertheless, the Attorney General
+relies on the FDA’s proceedings and other studies to support
+his decision that advertising affects demand for tobacco
+products. Cf. Erie v. Pap’s A. M., 529 U. S. 277, 296 (2000)
+(plurality opinion) (cities and localities may rely on evidence
+from other jurisdictions to demonstrate harmful secondary
+effects of adult entertainment and to justify regulation);
+Barnes v. Glen Theatre, Inc., 501 U. S. 560, 583–584 (1991)
+(Souter, J., concurring in judgment) (same); Renton v. Play-
+time Theatres, Inc., 475 U. S. 41, 50–52 (1986) (same). See
+also Nixon v. Shrink Missouri Government PAC, 528 U. S.
+377, 393, and n. 6 (2000) (discussing evidence of corruption
+and the appearance of corruption in campaign ﬁnance).
+In its rulemaking proceeding, the FDA considered several
+studies of tobacco advertising and trends in the use of vari-
+ous tobacco products. The Surgeon General’s report and
+the Institute of Medicine’s report found that “there is sufﬁ-
+cient evidence to conclude that advertising and labeling play
+a signiﬁcant and important contributory role in a young per-
+son’s decision to use cigarettes or smokeless tobacco prod-
+ucts.” 60 Fed. Reg. 41332. See also Pierce et al., Tobacco
+Industry Promotion of Cigarettes and Adolescent Smoking,
+279 JAMA 511, 514 (1998).
+For instance, children smoke fewer brands of cigarettes
+than adults, and those choices directly track the most heavily
+advertised brands, unlike adult choices, which are more dis-
+persed and related to pricing. FDA Proposed Rule, 60 Fed.
+Reg. 41332. Another study revealed that 72% of 6 year olds
+and 52% of children ages 3 to 6 recognized “Joe Camel,” the
+cartoon anthropomorphic symbol of R. J. Reynolds’ Camel
+brand cigarettes. Id., at 41333. After the introduction of
+Joe Camel, Camel cigarettes’ share of the youth market rose
+from 4% to 13%. Id., at 41330. The FDA also identiﬁed
+
+[Report page 35]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+559Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+trends in tobacco consumption among certain populations,
+such as young women, that correlated to the introduction and
+marketing of products geared toward that population. Id.,
+at 41333.
+The FDA also made speciﬁc ﬁndings with respect to
+smokeless tobacco. The FDA concluded that “[t]he recent
+and very large increase in the use of smokeless tobacco prod-
+ucts by young people and the addictive nature of these prod-
+ucts has persuaded the agency that these products must be
+included in any regulatory approach that is designed to help
+prevent future generations of young people from becoming
+addicted to nicotine-containing tobacco products.” Id., at
+41318. Studies have analyzed smokeless tobacco use by
+young people, discussing trends based on gender, school
+grade, and locale. See, e. g., Boyd et al., Use of Smokeless
+Tobacco among Children and Adolescents in the United
+States, 16 Preventative Medicine 402–418 (1987), Record,
+Doc. No. 38, Exh. 63.
+Researchers tracked a dramatic shift in patterns of smoke-
+less tobacco use from older to younger users over the past
+30 years. See, e. g., FDA Proposed Rule, 60 Fed. Reg.
+41317; Tomar, Giovano, & Erickson, Smokeless tobacco brand
+preference and brand switching among US adolescents and
+young adults, 4 Tobacco Control 67 (1995), Record, Doc.
+No. 38, Exh. 62; Department of Health and Human Services,
+Preventing Tobacco Use Among Young People: A Report of
+the Surgeon General 163 (1994), Record, Doc. No. 36, Exh. 1.
+In particular, the smokeless tobacco industry boosted sales
+tenfold in the 1970’s and 1980’s by targeting young males.
+FDA Proposed Rule, 60 Fed. Reg. 41331. See also National
+Cancer Institute, Cigars: Health Effects and Trends, Smok-
+ing and Tobacco Control Monograph No. 9, p. 16 (1998), Rec-
+ord, Doc. No. 39, Exh. 67. Another study documented the
+targeting of youth through smokeless tobacco sales and ad-
+vertising techniques. Ernster, Advertising and Promotion
+of Smokeless Tobacco Products, National Cancer Institute
+
+[Report page 36]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+560 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+Monograph No. 8, pp. 87–93 (1989), Record, Doc. No. 38,
+Exh. 66.
+The Attorney General presents different evidence with re-
+spect to cigars. There was no data on underage cigar use
+prior to 1996 because the behavior was considered “uncom-
+mon enough not to be worthy of examination.” Smoking
+and Tobacco Control Monograph No. 9, at 13; FTC Report
+to Congress: Cigar Sales and Advertising and Promotional
+Expenses for Calendar Years 1996 and 1997, p. 9 (1999), Rec-
+ord, Doc. No. 39, Exh. 71. In 1995, the FDA decided not to
+include cigars in its attempted regulation of tobacco product
+advertising, explaining that “the agency does not currently
+have sufﬁcient evidence that these products are drug deliv-
+ery devices . . . . FDA has focused its investigation of its
+authority over tobacco products on cigarettes and smokeless
+tobacco products, and not on pipe tobacco or cigars, because
+young people predominantly use cigarettes and smokeless to-
+bacco products.” 60 Fed. Reg. 41322.
+More recently, however, data on youth cigar use has
+emerged. The National Cancer Institute concluded in its
+1998 Monograph that the rate of cigar use by minors is in-
+creasing and that, in some States, the cigar use rates are
+higher than the smokeless tobacco use rates for minors.
+Smoking and Tobacco Control Monograph No. 9, at 19, 42–51.
+In its 1999 Report to Congress, the FTC concluded that “sub-
+stantial numbers of adolescents are trying cigars.” FTC
+Report to Congress, at 9. See also Department of Health
+and Human Services, Ofﬁce of Inspector General, Youth Use
+of Cigars: Patterns of Use and Perceptions of Risk (1999),
+Record, Doc. No. 39, Exh. 78.
+Studies have also demonstrated a link between advertising
+and demand for cigars. After Congress recognized the
+power of images in advertising and banned cigarette adver-
+tising in electronic media, television advertising of small ci-
+gars “increased dramatically in 1972 and 1973,” “ﬁlled the
+void left by cigarette advertisers,” and “sales . . . soared.”
+
+[Report page 37]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+561Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+Smoking and Tobacco Control Monograph No. 9, at 24. In
+1973, Congress extended the electronic media advertising
+ban for cigarettes to little cigars. Little Cigar Act, Pub. L.
+93–109, § 3, 87 Stat. 352, as amended, 15 U. S. C. § 1335. In
+the 1990’s, cigar advertising campaigns triggered a boost in
+sales. Smoking and Tobacco Control Monograph No. 9, at
+215.
+Our review of the record reveals that the Attorney Gen-
+eral has provided ample documentation of the problem with
+underage use of smokeless tobacco and cigars. In addition,
+we disagree with petitioners’ claim that there is no evidence
+that preventing targeted campaigns and limiting youth expo-
+sure to advertising will decrease underage use of smokeless
+tobacco and cigars. On this record and in the posture of
+summary judgment, we are unable to conclude that the At-
+torney General’s decision to regulate advertising of smoke-
+less tobacco and cigars in an effort to combat the use of to-
+bacco products by minors was based on mere “speculation
+[and] conjecture.” Edenﬁeld v. Fane, 507 U. S., at 770.
+2
+Whatever the strength of the Attorney General’s evidence
+to justify the outdoor advertising regulations, however, we
+conclude that the regulations do not satisfy the fourth step of
+the Central Hudson analysis. The ﬁnal step of the Central
+Hudson analysis, the “critical inquiry in this case,” requires
+a reasonable ﬁt between the means and ends of the regula-
+tory scheme. 447 U. S., at 569. The Attorney General’s
+regulations do not meet this standard. The broad sweep of
+the regulations indicates that the Attorney General did not
+“carefully calculat[e] the costs and beneﬁts associated with
+the burden on speech imposed” by the regulations. Cincin-
+nati v. Discovery Network, Inc., 507 U. S. 410, 417 (1993)
+(internal quotation marks omitted).
+The outdoor advertising regulations prohibit any smoke-
+less tobacco or cigar advertising within 1,000 feet of schools
+
+[Report page 38]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+562 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+or playgrounds. In the District Court, petitioners main-
+tained that this prohibition would prevent advertising in
+87% to 91% of Boston, Worcester, and Springﬁeld, Massachu-
+setts. 84 F. Supp. 2d, at 191. The 87% to 91% ﬁgure ap-
+pears to include not only the effect of the regulations, but
+also the limitations imposed by other generally applicable
+zoning restrictions. See App. 161–167. The Attorney Gen-
+eral disputed petitioners’ ﬁgures but “concede[d] that the
+reach of the regulations is substantial.” 218 F. 3d, at 50.
+Thus, the Court of Appeals concluded that the regulations
+prohibit advertising in a substantial portion of the major
+metropolitan areas of Massachusetts. Ibid.
+The substantial geographical reach of the Attorney Gener-
+al’s outdoor advertising regulations is compounded by other
+factors. “Outdoor” advertising includes not only advertis-
+ing located outside an establishment, but also advertising in-
+side a store if that advertising is visible from outside the
+store. The regulations restrict advertisements of any size
+and the term advertisement also includes oral statements.
+940 Code of Mass. Regs. §§ 21.03, 22.03 (2000).
+In some geographical areas, these regulations would con-
+stitute nearly a complete ban on the communication of truth-
+ful information about smokeless tobacco and cigars to adult
+consumers. The breadth and scope of the regulations, and
+the process by which the Attorney General adopted the reg-
+ulations, do not demonstrate a careful calculation of the
+speech interests involved.
+First, the Attorney General did not seem to consider the
+impact of the 1,000-foot restriction on commercial speech in
+major metropolitan areas. The Attorney General appar-
+ently selected the 1,000-foot distance based on the FDA’s de-
+cision to impose an identical 1,000-foot restriction when it
+attempted to regulate cigarette and smokeless tobacco ad-
+vertising. See FDA Final Rule, 61 Fed. Reg. 44399; Brief
+for Respondents 45, and n. 23. But the FDA’s 1,000-foot
+regulation was not an adequate basis for the Attorney Gen-
+
+[Report page 39]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+563Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+eral to tailor the Massachusetts regulations. The degree to
+which speech is suppressed—or alternative avenues for
+speech remain available—under a particular regulatory
+scheme tends to be case speciﬁc. See, e. g., Renton, 475
+U. S., at 53–54. And a case speciﬁc analysis makes sense,
+for although a State or locality may have common interests
+and concerns about underage smoking and the effects of to-
+bacco advertisements, the impact of a restriction on speech
+will undoubtedly vary from place to place. The FDA’s regu-
+lations would have had widely disparate effects nationwide.
+Even in Massachusetts, the effect of the Attorney General’s
+speech regulations will vary based on whether a locale is
+rural, suburban, or urban. The uniformly broad sweep of
+the geographical limitation demonstrates a lack of tailoring.
+In addition, the range of communications restricted seems
+unduly broad. For instance, it is not clear from the regula-
+tory scheme why a ban on oral communications is necessary
+to further the State’s interest. Apparently that restriction
+means that a retailer is unable to answer inquiries about its
+tobacco products if that communication occurs outdoors.
+Similarly, a ban on all signs of any size seems ill suited to
+target the problem of highly visible billboards, as opposed
+to smaller signs. To the extent that studies have identiﬁed
+particular advertising and promotion practices that appeal
+to youth, tailoring would involve targeting those practices
+while permitting others. As crafted, the regulations make
+no distinction among practices on this basis.
+The Court of Appeals recognized that the smokeless to-
+bacco and cigar petitioners’ concern about the amount of
+speech restricted was “valid,” but reasoned that there was
+an “obvious connection to the state’s interest in protecting
+minors.” 218 F. 3d, at 50. Even on the premise that Massa-
+chusetts has demonstrated a connection between the outdoor
+advertising regulations and its substantial interest in pre-
+venting underage tobacco use, the question of tailoring re-
+
+[Report page 40]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+564 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+mains. The Court of Appeals failed to follow through with
+an analysis of the countervailing First Amendment interests.
+The State’s interest in preventing underage tobacco use is
+substantial, and even compe lling, but it is no less true that
+the sale and use of tobacco products by adults is a legal activ-
+ity. We must consider that tobacco retailers and manufac-
+turers have an interest in conveying truthful information
+about their products to adults, and adults have a correspond-
+ing interest in receiving truthful information about tobacco
+products. In a case involving indecent speech on the In-
+ternet we explained that “the governmental interest in pro-
+tecting children from harmful materials . . . does not justify
+an unnecessarily broad suppression of speech addressed to
+adults.” Reno v. American Civil Liberties Union, 521 U. S.
+844, 875 (1997) (citations omitted). See, e. g., Bolger v.
+Youngs Drug Products Corp., 463 U. S. 60, 74 (1983) (“The
+level of discourse reaching a mailbox simply cannot be lim-
+ited to that which would be suitable for a sandbox”); Butler
+v. Michigan, 352 U. S. 380, 383 (1957) (“The incidence of this
+enactment is to reduce the adult population . . . to reading
+only what is ﬁt for children”). As the State protects chil-
+dren from tobacco advertisements, tobacco manufacturers
+and retailers and their adult consumers still have a protected
+interest in communication. Cf. American Civil Liberties
+Union, supra, at 886–889 (O’Connor, J., concurring in judg-
+ment in part and dissenting in part) (discussing the creation
+of “adult zones” on the Internet).
+In some instances, Massachusetts’ outdoor advertising
+regulations would impose particularly onerous burdens on
+speech. For example, we disagree with the Court of Ap-
+peals’ conclusion that because cigar manufacturers and re-
+tailers conduct a limited amount of advertising in comparison
+to other tobacco products, “the relative lack of cigar adver-
+tising also means that the burden imposed on cigar advertis-
+ers is correspondingly small.” 218 F. 3d, at 49. If some
+retailers have relatively small advertising budgets, and use
+
+[Report page 41]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+565Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+few avenues of communication, then the Attorney General’s
+outdoor advertising regulations potentially place a greater,
+not lesser, burden on those retailers’ speech. Furthermore,
+to the extent that cigar products and cigar advertising dif-
+fer from that of other tobacco products, that difference
+should inform the inquiry into what speech restrictions are
+necessary.
+In addition, a retailer in Massachusetts may have no
+means of communicating to passersby on the street that it
+sells tobacco products because alternative forms of adver-
+tisement, like newspapers, do not allow that retailer to pro-
+pose an instant transaction in the way that onsite advertis-
+ing does. The ban on any indoor advertising that is visible
+from the outside also presents problems in establishments
+like convenience stores, which have unique security concerns
+that counsel in favor of full visibility of the store from the
+outside. It is these sorts of considerations that the Attor-
+ney General failed to incorporate into the regulatory scheme.
+We conclude that the Attorney General has failed to show
+that the outdoor advertising regulations for smokeless to-
+bacco and cigars are not more extensive than necessary to
+advance the State’s substantial interest in preventing under-
+age tobacco use. Justice Stevens urges that the Court
+remand the case for further development of the factual rec-
+ord. Post, at 601–603. We believe that a remand is inap-
+propriate in these cases because the State had ample oppor-
+tunity to develop a record with respect to tailoring (as it had
+to justify its decision to regulate advertising), and additional
+evidence would not alter the nature of the scheme before the
+Court. See Greater New Orleans, 527 U. S., at 189, n. 6.
+A careful calculation of the costs of a speech regulation
+does not mean that a State must demonstrate that there is
+no incursion on legitimate speech interests, but a speech reg-
+ulation cannot unduly impinge on the speaker’s ability to
+propose a commercial transaction and the adult listener’s
+opportunity to obtain information about products. After
+
+[Report page 42]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+566 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+reviewing the outdoor advertising regulations, we ﬁnd the
+calculation in these cases insufﬁcient for purposes of the
+First Amendment.
+C
+Massachusetts has also restricted indoor, point-of-sale ad-
+vertising for smokeless tobacco and cigars. Advertising
+cannot be “placed lower than ﬁve feet from the ﬂoor of any
+retail establishment which is located within a one thousand
+foot radius of” any school or playground. 940 Code of Mass.
+Regs. §§ 21.04(5)(b), 22.06(5)(b) (2000). The District Court
+invalidated these provisions, concluding that the Attorney
+General had not provided a sufﬁcient basis for regulating
+indoor advertising. 84 F. Supp. 2d, at 192–193, 195. The
+Court of Appeals reversed. 218 F. 3d, at 50–51. The court
+explained: “We do have some misgivings about the effective-
+ness of a restriction that is based on the assumption that
+minors under ﬁve feet tall will not, or will less frequently,
+raise their view above eye-level, but we ﬁnd that such [a]
+determination falls within that range of reasonableness in
+which the Attorney General is best suited to pass judgment.”
+Id., at 51.
+We conclude that the point-of-sale advertising regulations
+fail both the third and fourth steps of the Central Hudson
+analysis. A regulation cannot be sustained if it “ ‘provides
+only ineffective or remote support for the government’s pur-
+pose,’ ”Edenﬁeld, 507 U. S., at 770 (quoting Central Hudson,
+447 U. S., at 564), or if there is “little chance” that the restric-
+tion will advance the State’s goal, Greater New Orleans,
+supra, at 193 (internal quotation marks omitted). As out-
+lined above, the State’s goal is to prevent minors from using
+tobacco products and to curb demand for that activity by
+limiting youth exposure to advertising. The 5-foot rule does
+not seem to advance that goal. Not all children are less than
+5 feet tall, and those who are certainly have the ability to
+look up and take in their surroundings.
+
+[Report page 43]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+567Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+By contrast to Justice Stevens, post, at 604–605, we do
+not believe this regulation can be construed as a mere regu-
+lation of conduct under United States v. O’Brien, 391 U. S.
+367 (1968). To qualify as a regulation of communicative
+action governed by the scrutiny outlined in O’Brien, the
+State’s regulation must be unrelated to expression. Texas
+v. Johnson, 491 U. S. 397, 403 (1989). See also Erie v. Pap’s
+A. M., 529 U. S., at 289–296 (plurality opinion). Here, Mas-
+sachusetts’ height restriction is an attempt to regulate di-
+rectly the communicative impact of indoor advertising.
+Massachusetts may wish to target tobacco advertisements
+and displays that entice children, much like ﬂoor-level candy
+displays in a convenience store, but the blanket height re-
+striction does not constitute a reasonable ﬁt with that goal.
+The Court of Appeals recognized that the efﬁcacy of the reg-
+ulation was questionable, but decided that, “[i]n any event,
+the burden on speech imposed by the provision is very lim-
+ited.” 218 F. 3d, at 51. There is no de minimis exception
+for a speech restriction that lacks sufﬁcient tailoring or justi-
+ﬁcation. We conclude that the restriction on the height of
+indoor advertising is invalid under Central Hudson’s third
+and fourth prongs.
+D
+The Attorney General also promulgated a number of regu-
+lations that restrict sales practices by cigarette, smokeless
+tobacco, and cigar manufacturers and retailers. Among
+other restrictions, the regulations bar the use of self-service
+displays and require that tobacco products be placed out of
+the reach of all consumers in a location accessible only to
+salespersons. 940 Code of Mass. Regs. §§ 21.04(2)(c)–(d),
+22.06(2)(c)–(d) (2000). The cigarette petitioners do not
+challenge the sales practices regulations on pre-emption
+grounds. Brief for Petitioners Lorillard Tobacco Co. et al.
+in No. 00–596, at 5, n. 2. Two of the cigarette petitioners
+(Brown & Williamson Tobacco Corporation and Lorillard To-
+bacco Company), petitioner U. S. Smokeless Tobacco Com-
+
+[Report page 44]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+568 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+pany, and the cigar petitioners challenge the sales practices
+regulations on First Amendment grounds. The cigar peti-
+tioners additionally challenge a provision that prohibits sam-
+pling or promotional giveaways of cigars or little cigars.
+940 Code of Mass. Regs. § 22.06(1)(a) (2000).
+The District Court concluded that these restrictions impli-
+cate no cognizable speech interest, 84 F. Supp. 2d, at 195–196,
+but the Court of Appeals did not fully adopt that reasoning.
+The Court of Appeals recognized that self-service displays
+“often do have some communicative commercial function,”
+but noted that the restriction in the regulations “is not on
+speech, but rather on the physical location of actual tobacco
+products.” 218 F. 3d, at 53. The court reasoned that noth-
+ing in the regulations would prevent the display of empty
+tobacco product containers, so long as no actual tobacco prod-
+uct was displayed, much like movie jackets at a video store.
+Ibid. With respect to cigar products, the court observed
+that retailers traditionally allow access to those products, so
+that the consumer may make a selection on the basis of a
+number of objective and subjective factors including the
+aroma and feel of the cigars. Ibid. Even assuming a
+speech interest, however, the court concluded that the regu-
+lations were narrowly tailored to serve the State’s substan-
+tial interest in preventing access to tobacco products by mi-
+nors. Id., at 54. The court also noted that the restrictions
+do not apply to adult-only establishments. Ibid.
+Petitioners devoted little of their brieﬁng to the sales prac-
+tices regulations, and our understanding of the regulations
+is accordingly limited by the parties’ submissions. As we
+read the regulations, they basically require tobacco retailers
+to place tobacco products behind counters and require cus-
+tomers to have contact with a salesperson before they are
+able to handle a tobacco product.
+The cigarette and smokeless tobacco petitioners contend
+that “the same First Amendment principles that require in-
+validation of the outdoor and indoor advertising restrictions
+
+[Report page 45]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+569Cite as: 533 U. S. 525 (2001)
+Opinion of the Court
+require invalidation of the display regulations at issue in this
+case.” Brief for Petitioners Lorillard Tobacco Co. et al. in
+No. 00–596, at 46, n. 7. See also Reply Brief for Petitioner
+U. S. Smokeless Tobacco Co. in Nos. 00–596 and 00–597, at
+12, n. 7. The cigar petitioners contend that self-service dis-
+plays for cigars cannot be prohibited because each brand of
+cigar is unique and customers traditionally have sought to
+handle and compare cigars at the time of purchase. Brief
+for Petitioners Altadis U. S. A. Inc. et al. in No. 00–597, at
+23, n. 9; Reply Brief for Petitioners Altadis U. S. A. Inc. et al.
+in No. 00–597, p. 10, n. 7.
+We reject these contentions. Assuming that petitioners
+have a cognizable speech interest in a particular means
+of displaying their products, cf. Cincinnati v. Discovery
+Network, Inc., 507 U. S. 410 (1993) (distribution of a maga-
+zine through newsracks), these regulations withstand First
+Amendment scrutiny.
+Massachusetts’ sales practices provisions regulate conduct
+that may have a communicative component, but Massachu-
+setts seeks to regulate the placement of tobacco products
+for reasons unrelated to the communication of ideas. See
+O’Brien, supra, at 382. See also Pap’s A. M., 529 U. S., at
+289 (plurality opinion); id., at 310 (Souter, J., concurring in
+part and dissenting in part); Johnson, supra, at 403. We
+conclude that the State has demonstrated a substantial inter-
+est in preventing access to tobacco products by minors and
+has adopted an appropriately narrow means of advancing
+that interest. See O’Brien, supra, at 382.
+Unattended displays of tobacco products present an oppor-
+tunity for access without the proper age veriﬁcation required
+by law. Thus, the State prohibits self-service and other dis-
+plays that would allow an individual to obtain tobacco prod-
+ucts without direct contact with a salesperson. It is clear
+that the regulations leave open ample channels of communi-
+cation. The regulations do not signiﬁcantly impede adult
+access to tobacco products. Moreover, retailers have other
+
+[Report page 46]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+570 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of the Court
+means of exercising any cognizable speech interest in the
+presentation of their products. We presume that vendors
+may place empty tobacco packaging on open display, and dis-
+play actual tobacco products so long as that display is only
+accessible to sales personnel. As for cigars, there is no indi-
+cation in the regulations that a customer is unable to exam-
+ine a cigar prior to purchase, so long as that examination
+takes place through a salesperson.
+The cigar petitioners also list Massachusetts’ prohibition
+on sampling and free giveaways among the regulations they
+challenge on First Amendment grounds. See 940 Code of
+Mass. Regs. § 22.06(1)(a) (2000); Brief for Petitioners Altadis
+U. S. A. Inc. et al. in No. 00–597, at 2. At no point in their
+briefs or at oral argument, however, did the cigar petitioners
+argue the merits of their First Amendment claim with re-
+spect to the sampling and giveaway regulation. We decline
+to address an issue that was not sufﬁciently briefed and ar-
+gued before this Court. See Northwest Airlines, Inc. v.
+County of Kent, 510 U. S. 355, 366, n. 10 (1994); Williams v.
+United States, 503 U. S. 193, 206 (1992); Granﬁnanciera,
+S. A. v. Nordberg, 492 U. S. 33, 38–40 (1989).
+We conclude that the sales practices regulations withstand
+First Amendment scrutiny. The means chosen by the State
+are narrowly tailored to prevent access to tobacco products
+by minors, are unrelated to expression, and leave open alter-
+native avenues for vendors to convey information about
+products and for would-be customers to inspect products be-
+fore purchase.
+IV
+We have observed that “tobacco use, particularly among
+children and adolescents, poses perhaps the single most sig-
+niﬁcant threat to public health in the United States.” FDA
+v. Brown & Williamson Tobacco Corp., 529 U. S., at 161.
+From a policy perspective, it is understandable for the States
+to attempt to prevent minors from using tobacco products
+before they reach an age where they are capable of weighing
+
+[Report page 47]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+571Cite as: 533 U. S. 525 (2001)
+Opinion of Kennedy , J .
+for themselves the risks and potential beneﬁts of tobacco use,
+and other adult activities. Federal law, however, places lim-
+its on policy choices available to the States.
+In these cases, Congress enacted a comprehensive scheme
+to address cigarette smoking and health in advertising and
+pre-empted state regulation of cigarette advertising that at-
+tempts to address that same concern, even with respect to
+youth. The First Amendment also constrains state efforts
+to limit advertising of tobacco products, because so long as
+the sale and use of tobacco is lawful for adults, the tobacco
+industry has a protected interest in communicating informa-
+tion about its products and adult customers have an interest
+in receiving that information.
+To the extent that federal law and the First Amendment
+do not prohibit state action, States and localities remain free
+to combat the problem of underage tobacco use by appro-
+priate means. The judgment of the United States Court of
+Appeals for the First Circuit is therefore afﬁrmed in part
+and reversed in part, and the cases are remanded for further
+proceedings consistent with this opinion.
+It is so ordered.
+Justice Kennedy, with whom Justice Scalia joins,
+concurring in part and concurring in the judgment.
+The obvious overbreadth of the outdoor advertising re-
+strictions sufﬁces to invalidate them under the fourth part
+of the test in Central Hudson Gas & Elec. Corp. v. Public
+Serv. Comm’n of N. Y .,447 U. S. 557 (1980). As a result, in
+my view, there is no need to consider whether the restric-
+tions satisfy the third part of the test, a proposition about
+which there is considerable doubt. Cf. post, at 583–584
+(Thomas, J., concurring in part and concurring in judgment).
+Neither are we required to consider whether Central Hud-
+son should be retained in the face of the substantial objec-
+tions that can be made to it. See post, at 574–582 (opinion
+of Thomas, J.). My continuing concerns that the test gives
+
+[Report page 48]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+572 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+insufﬁcient protection to truthful, nonmisleading commercial
+speech require me to refrain from expressing agreement
+with the Court’s application of the third part of Central Hud-
+son. See, e. g., 44 Liquormart, Inc. v. Rhode Island, 517
+U. S. 484, 501–504 (1996) (opinion of Stevens, J., joined by
+Kennedy and Ginsburg, JJ.). With the exception of Part
+III–B–1, then, I join the opinion of the Court.
+Justice Thomas, concurring in part and concurring in
+the judgment.
+I join the opinion of the Court (with the exception of Part
+III–B–1) because I agree that the Massachusetts cigarette
+advertising regulations are pre-empted by the Federal Ciga-
+rette Labeling and Advertising Act, 15 U. S. C. § 1331 et seq.
+I also agree with the Court’s disposition of the First Amend-
+ment challenges to the other regulations at issue here, and
+I share the Court’s view that the regulations fail even the
+intermediate scrutiny of Central Hudson Gas & Elec. Corp.
+v. Public Serv. Comm’n of N. Y ., 447 U. S. 557 (1980). At
+the same time, I continue to believe that when the govern-
+ment seeks to restrict truthful speech in order to suppress
+the ideas it conveys, strict scrutiny is appropriate, whether
+or not the speech in question may be characterized as “com-
+mercial.” See 44 Liquormart, Inc. v. Rhode Island, 517
+U. S. 484, 518 (1996) (Thomas, J., concurring in part and con-
+curring in judgment). I would subject all of the advertising
+restrictions to strict scrutiny and would hold that they vio-
+late the First Amendment.
+I
+At the heart of this litigation is a Massachusetts regulation
+that imposes a sweeping ban on speech about tobacco prod-
+ucts. 940 Code of Mass. Regs. § 21.04(5) (2000), which gov-
+erns cigarettes and smokeless tobacco, and § 22.06(5), which
+governs cigars, prohibit all outdoor advertising, all indoor
+advertising that can be seen from outdoors, and all point-of-
+sale advertising (even if not visible from outdoors) that is
+
+[Report page 49]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+573Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+lower than ﬁve feet from the ﬂoor. 1 These restrictions are
+superﬁcially limited in their geographic scope: They apply
+only within 1,000 feet of “any public playground, playground
+area in a public park, elementary school or secondary
+school.” § 21.04(5)(a). But the Court of Appeals acknowl-
+edged that the zone of prohibition covers as much as 90 per-
+cent of the three largest cities in Massachusetts, Consoli-
+dated Cigar Corp. v. Reilly, 218 F. 3d 30, 50 (CA1 2000), so
+the practical effect is little different from that of a total ban.
+Cf. United States v. Playboy Entertainment Group, Inc., 529
+U. S. 803, 812 (2000) (“The Government’s content-based bur-
+dens must satisfy the same rigorous scrutiny as its content-
+based bans”).
+Respondents suggest in passing that the regulations are
+“zoning-type restrictions” that should receive “the interme-
+diate level of scrutiny traditionally associated with various
+forms of ‘time, place, and manner’ regulations.” Brief for
+Respondents 31. We have indeed upheld time, place, and
+manner regulations that prohibited certain kinds of outdoor
+signs, see, e. g., Members of City Council of Los Angeles v.
+Taxpayers for Vincent, 466 U. S. 789 (1984), and we have
+similarly upheld zoning laws that had the effect of restricting
+certain kinds of sexually explicit expression, see, e. g., Ren-
+ton v. Playtime Theatres, Inc., 475 U. S. 41 (1986). But the
+abiding characteristic of valid time, place, and manner regu-
+lations is their content neutrality. See Ward v. Rock
+Against Racism, 491 U. S. 781, 791–796 (1989). In Vincent
+the city prohibited all signs on public property, not to sup-
+1 Other regulations prohibit the sale of tobacco products “in any manner
+other than in a direct, face-to-face exchange,” forbid self-service displays,
+and require that tobacco products be accessible only to store personnel.
+See §§ 21.04(2)(a), (c)–(d), §§ 22.06(2)(a), (c)–(d). In addition, they prohibit
+sampling and promotional giveaways. See §§ 21.04(1), 22.06(1). I agree
+with the Court, see ante, at 567–570, that these regulations, which govern
+conduct rather than expression, should be upheld under the test of United
+States v. O’Brien, 391 U. S. 367 (1968).
+
+[Report page 50]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+574 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+press the message conveyed by any of the signs, but simply
+to minimize the esthetic effect of visual clutter. Likewise,
+the ordinance in Renton was aimed not at expression, but at
+the “secondary effects” caused by adult businesses.
+The regulations here are very different. Massachusetts
+is not concerned with any “secondary effects” of tobacco ad-
+vertising—it is concerned with the advertising’s primary ef-
+fect, which is to induce those who view the advertisements
+to purchase and use tobacco products. Cf. Boos v. Barry,
+485 U. S. 312, 321 (1988) (“Listeners’ reactions to speech are
+not the type of ‘secondary effects’ we referred to in Ren-
+ton”). In other words, it seeks to suppress speech about
+tobacco because it objects to the content of that speech. We
+have consistently applied strict scrutiny to such content-
+based regulations of speech. See, e. g., Turner Broadcast-
+ing System, Inc. v. FCC, 512 U. S. 622, 641–643 (1994).
+A
+There was once a time when this Court declined to give
+any First Amendment protection to commercial speech. In
+Valentine v. Chrestensen, 316 U. S. 52 (1942), the Court went
+so far as to say that “the Constitution imposes [no] restraint
+on government as respects purely commercial advertising.”
+Id., at 54. That position was repudiated in Virginia Bd. of
+Pharmacy v. Virginia Citizens Consumer Council, Inc., 425
+U. S. 748 (1976), which explained that even speech “which
+does ‘no more than propose a commercial transaction’ ” is
+protected by the First Amendment. Id., at 762 (quoting
+Pittsburgh Press Co. v. Pittsburgh Comm’n on Human Re-
+lations, 413 U. S. 376, 385 (1973)). Since then, the Court has
+followed an uncertain course—much of the uncertainty being
+generated by the malleability of the four-part balancing test
+of Central Hudson. See 44 Liquormart, 517 U. S., at 520–
+522 (Thomas, J., concurring in part and concurring in
+judgment).
+
+[Report page 51]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+575Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+I have observed previously that there is no “philosophical
+or historical basis for asserting that ‘commercial’ speech is
+of ‘lower value’ than ‘noncommercial’ speech.” Id., at 522.
+Indeed, I doubt whether it is even possible to draw a co-
+herent distinction between commercial and noncommercial
+speech. See id., at 523, n. 4 (citing Kozinski & Banner,
+Who’s Afraid of Commercial Speech, 76 Va. L. Rev. 627
+(1990)).2
+It should be clear that if these regulations targeted any-
+thing other than advertising for commercial products—if, for
+example, they were directed at billboards promoting political
+candidates—all would agree that the restrictions should be
+subjected to strict scrutiny. In my view, an asserted gov-
+ernment interest in keeping people ignorant by suppressing
+expression “is per se illegitimate and can no more justify
+regulation of ‘commercial’ speech than it can justify regula-
+tion of ‘noncommercial’ speech.” 517 U. S., at 518 ( Thomas,
+J., concurring in part and concurring in judgment). That is
+essentially the interest asserted here, and, adhering to the
+views I expressed in 44 Liquormart, I would subject the
+Massachusetts regulations to strict scrutiny.
+B
+Even if one accepts the premise that commercial speech
+generally is entitled to a lower level of constitutional protec-
+tion than are other forms of speech, it does not follow that
+the regulations here deserve anything less than strict scru-
+tiny. Although we have recognized several categories of
+2 Tobacco advertising provides a good illustration. The sale of tobacco
+products is the subject of considerable political controversy, and not sur-
+prisingly, some tobacco advertisements both promote a product and take
+a stand in this political debate. See Brief for National Association of Con-
+venience Stores as Amicus Curiae 20–22. A recent cigarette advertise-
+ment, for example, displayed a brand logo next to text reading, “Why
+do politicians smoke cigars while taxing cigarettes?” App. to Brief for
+National Association of Convenience Stores as Amicus Curiae 2a.
+
+[Report page 52]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+576 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+speech that normally receive reduced First Amendment pro-
+tection, or no First Amendment protection at all, we have
+never held that the government may regulate speech within
+those categories in any way that it wishes. Rather, we have
+said “that these areas of speech can, consistently with the
+First Amendment, be regulated because of their constitu-
+tionally proscribable content. ” R. A. V. v. St. Paul, 505
+U. S. 377, 383 (1992). Even when speech falls into a category
+of reduced constitutional protection, the government may
+not engage in content discrimination for reasons unrelated
+to those characteristics of the speech that place it within the
+category. For example, a city may ban obscenity (because
+obscenity is an unprotected category, see, e. g., Roth v.
+United States, 354 U. S. 476 (1957)), but it may not ban “only
+those legally obscene works that contain criticism of the city
+government.” R. A. V., supra, at 384.
+In explaining the distinction between commercial speech
+and other forms of speech, we have emphasized that commer-
+cial speech is both “more easily veriﬁable by its dissemina-
+tor” and less likely to be “chilled by proper regulation.”
+Virginia Bd., 425 U. S., at 772, n. 24. These characteristics
+led us to conclude that, in the context of commercial speech,
+it is “less necessary to tolerate inaccurate statements for fear
+of silencing the speaker,” and also that it is more “appro-
+priate to require that a commercial message appear in such
+a form, or include such additional information, warnings, and
+disclaimers, as are necessary to prevent its being deceptive.”
+Ibid. Whatever the validity of this reasoning, it is limited
+to the peculiarly commercial harms that commercial speech
+can threaten—i. e., the risk of deceptive or misleading adver-
+tising. As we observed in R. A. V.:
+“[A] State may choose to regulate price advertising in
+one industry but not in others, because the risk of fraud
+(one of the characteristics of commercial speech that jus-
+tiﬁes depriving it of full First Amendment protection) is
+in its view greater there. But a State may not prohibit
+
+[Report page 53]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+577Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+only that commercial advertising that depicts men in a
+demeaning fashion.” 505 U. S., at 388–389 (citations
+omitted).
+In 44 Liquormart, several Members of the Court said
+much the same thing:
+“[W]hen a State entirely prohibits the dissemination of
+truthful, nonmisleading commercial messages for rea-
+sons unrelated to the preservation of a fair bargain-
+ing process, there is far less reason to depart from the
+rigorous review that the First Amendment generally
+demands.” 517 U. S., at 501 (opinion of Stevens, J.,
+joined by Kennedy and Ginsburg, JJ.).
+Whatever power the State may have to regulate commercial
+speech, it may not use that power to limit the content of
+commercial speech, as it has done here, “for reasons unre-
+lated to the preservation of a fair bargaining process.” Such
+content-discriminatory regulation—like all other content-
+based regulation of speech—must be subjected to strict
+scrutiny.
+C
+In an effort to avoid the implications of these basic princi-
+ples of First Amendment law, respondents make two princi-
+pal claims. First, they argue that the regulations target de-
+ceptive and misleading speech. See Brief for Respondents
+33 (“Petitioners’ advertising clearly engenders ‘the potential
+for deception or confusion’ that allows for regulation of com-
+mercial speech based on its content” (quoting Bolger v.
+Youngs Drug Products Corp., 463 U. S. 60, 65 (1983))). Sec-
+ond, they argue that the regulations restrict speech that pro-
+motes an illegal transaction— i. e., the sale of tobacco to mi-
+nors. See Brief for Respondents 15 (“The regulations . . .
+exhibit a close connection to a commercial transaction the
+State has prohibited”).
+Neither theory is properly before the Court. For pur-
+poses of summary judgment, respondents were w illing to as-
+
+[Report page 54]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+578 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+sume “that the tobacco advertisements at issue here are
+truthful, nonmisleading speech about a lawful activity.” 218
+F. 3d, at 43. Although respondents now claim that they
+have not conceded this point, see Brief for Respondents 35,
+n. 17, the fact remains that they did not urge their theories
+in the lower courts, and in general, we do not consider argu-
+ments for afﬁrmance that were not presented below. See,
+e. g., Glover v. United States, 531 U. S. 198, 205 (2001).
+These concessions should make this an easy case, one clearly
+controlled by 44 Liquormart and by Greater New Orleans
+Broadcasting Assn., Inc. v. United States, 527 U. S. 173
+(1999). At all events, even if we were to entertain these
+arguments, neither is persuasive.
+Respondents suggest that tobacco advertising is mislead-
+ing because “its youthful imagery and . . . sheer ubiquity”
+leads children to believe “that tobacco use is desirable and
+pervasive.” Brief for Respondents 33; see also Brief for
+United States as Amicus Curiae 7 (“[S]o many children lack
+the maturity in judgment to resist the tobacco industry’s ap-
+peals to excitement, glamour, and independence”). This jus-
+tiﬁcation is belied, however, by the sweeping overinclusivity
+of the regulations. Massachusetts has done nothing to tar-
+get its prohibition to advertisements appealing to “excite-
+ment, glamour, and independence”; the ban applies with
+equal force to appeals to torpor, homeliness, and servility.
+It has not focused on “youthful imagery”; smokers depicted
+on the sides of buildings may no more play shufﬂeboard than
+they may ride skateboards.
+The regulations even prohibit a store from accurately stat-
+ing the prices at which cigarettes are sold. Such a display
+could not possibly be misleading, unless one accepts the
+State’s apparent view that the simple existence of tobacco
+advertisements misleads people into believing that tobacco
+use is more pervasive than it actually is. The State misun-
+derstands the purpose of advertising. Promoting a product
+that is not yet pervasively used (or a cause that is not yet
+
+[Report page 55]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+579Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+widely supported) is a primary purpose of advertising. To-
+bacco advertisements would be no more misleading for sug-
+gesting pervasive use of tobacco products than are any other
+advertisements that attempt to expand a market for a prod-
+uct, or to rally support for a political movement. Any infer-
+ence from the advertisements that businesses would like for
+tobacco use to be pervasive is entirely reasonable, and adver-
+tising that gives rise to that inference is in no way deceptive.
+The State also contends that tobacco advertisements may
+be restricted because they propose an illegal sale of tobacco
+to minors. A direct solicitation of unlawful activity may of
+course be proscribed, whether or not it is commercial in na-
+ture. See Brandenburg v. Ohio, 395 U. S. 444 (1969) (per
+curiam). The State’s power to punish speech that solicits
+or incites crime has nothing to do with the commercial char-
+acter of the speech. After all, it is often the case that solici-
+tation to commit a crime is entirely noncommercial. The
+harm that the State seeks to prevent is the harm caused by
+the unlawful activity that is solicited; it is unrelated to the
+commercial transaction itself. Thus there is no reason to
+apply anything other than our usual rule for evaluating solic-
+itation and incitement simply because the speech in question
+happens to be commercial. See Carey v. Population Serv-
+ices Int’l, 431 U. S. 678, 701–702 (1977).
+Viewed as an effort to proscribe solicitation to unlawful
+conduct, these regulations clearly fail the Brandenburg test.
+A State may not “forbid or proscribe advocacy of the use of
+force or of law violation except where such advocacy is di-
+rected to inciting or producing imminent lawless action and
+is likely to incite or produce such action.” Brandenburg,
+supra, at 447. Even if Massachusetts could prohibit adver-
+tisements reading, “Hey kids, buy cigarettes here,” these
+regulations sweep much more broadly than that. They
+cover “any ...s t atement or representation . . . the purpose
+or effect of which is to promote the use or sale” of tobacco
+products, whether or not the statement is directly or indi-
+
+[Report page 56]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+580 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+rectly addressed to minors. 940 Code of Mass. Regs. § 21.03
+(2000). On respondents’ theory, all tobacco advertising may
+be limited because some of its viewers may not legally act
+on it.
+It is difﬁcult to see any stopping point to a rule that would
+allow a State to prohibit all speech in favor of an activity in
+which it is illegal for minors to engage. Presumably, the
+State could ban car advertisements in an effort to enforce its
+restrictions on underage driving. It could regulate adver-
+tisements urging people to vote, because children are not
+permitted to vote. And, although the Solicitor General re-
+sisted this implication of her theory, see Tr. of Oral Arg. 55–
+56, the State could prohibit advertisements for adult busi-
+nesses, which children are forbidden to patronize.
+At bottom, respondents’ theory rests on the premise that
+an indirect solicitation is enough to empower the State to
+regulate speech, and that, as petitioners put it, even an ad-
+vertisement directed at adults “will give any children who
+may happen to see it the wrong idea and therefore must be
+suppressed from public view.” Brief for Petitioners Loril-
+lard Tobacco Co. et al. in No. 00–596, p. 36. This view is
+foreign to the First Amendment. “Every idea is an incite-
+ment,” Gitlow v. New York, 268 U. S. 652, 673 (1925) (Holmes,
+J., dissenting), and if speech may be suppressed whenever it
+might inspire someone to act unlawfully, then there is no
+limit to the State’s censorial power. Cf. American Booksell-
+ers Assn., Inc. v. Hudnut, 771 F. 2d 323 (CA7 1985), aff’d,
+475 U. S. 1001 (1986).
+There is a deeper ﬂaw in the State’s argument. Even if
+Massachusetts has a valid interest in regulating speech di-
+rected at children—who, it argues, may be more easily mis-
+led, and to whom the sale of tobacco products is unlawful—
+it may not pursue that interest at the expense of the free
+speech rights of adults.
+The theory that public debate should be limited in order
+to protect impressionable children has a long historical pedi-
+
+[Report page 57]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+581Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+gree: Socrates was condemned for being “a doer of evil, inas-
+much as he corrupts the youth.” 1 Dialogues of Plato, Apol-
+ogy 348 (B. Jowett transl., 4th ed. 1953). But the theory has
+met with a less enthusiastic reception in this Court than it
+did in the Athenian assembly. In Butler v. Michigan, 352
+U. S. 380 (1957), we struck down a statute restricting the
+sale of materials “ ‘tending to incite minors to violent or de-
+praved or immoral acts.’ ” Id., at 381 (quoting then Mich.
+Penal Code § 343). The effect of the law, we observed, was
+“to reduce the adult population of Michigan to reading only
+what is ﬁt for children.” 352 U. S., at 383. As Justice
+Frankfurter colorfully put it, “Surely, this is to burn the
+house to roast the pig.” Ibid.
+We have held consistently that speech “cannot be sup-
+pressed solely to protect the young from ideas or images that
+a legislative body thinks unsuitable for them.” Erznoznik
+v. Jacksonville, 422 U. S. 205, 213–214 (1975); accord, Bolger,
+463 U. S., at 74 (“The level of discourse reaching a mailbox
+simply cannot be limited to that which would be suitable for
+a sandbox”). To be sure, in FCC v. Paciﬁca Foundation,
+438 U. S. 726 (1978), we upheld the Federal Communications
+Commission’s power to regulate indecent but nonobscene
+radio broadcasts. But Paciﬁca relied heavily on what it
+considered to be the “special justiﬁcations for regulation of
+the broadcast media that are not applicable to other speak-
+ers.” Reno v. American Civil Liberties Union, 521 U. S.
+844, 868 (1997). It emphasized that radio is “ uniquely
+pervasive” and “uniquely accessible to children, even those
+too young to read.” Paciﬁca, supra, at 748–749 (emphasis
+added).
+Outside of the broadcasting context, we have adhered to
+the view that “the governmental interest in protecting chil-
+dren from harmful materials” does not “justify an unneces-
+sarily broad suppression of speech addressed to adults.”
+Reno, supra, at 875; see also Playboy Entertainment, 529
+U. S., at 814 (“[T]he objective of shielding children does not
+
+[Report page 58]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+582 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+sufﬁce to support a blanket ban if the protection can be ac-
+complished by a less restrictive alternative”). Massachu-
+setts may not avoid the application of strict scrutiny simply
+because it seeks to protect children.
+II
+Under strict scrutiny, the advertising ban may be saved
+only if it is narrowly tailored to promote a compe lling gov-
+ernment interest. See, e. g., id., at 813. If that interest
+could be served by an alternative that is less restrictive of
+speech, then the State must use that alternative instead.
+See ibid.; Reno, supra, at 874. Applying this standard, the
+regulations here must fail.
+A
+Massachusetts asserts a compe lling interest in reducing
+tobacco use among minors. Applied to adults, an interest in
+manipulating market choices by keeping people ignorant
+would not be legitimate, let alone compelling. See supra,
+at 575. But assuming that there is a compe lling interest
+in reducing underage smoking, and that the ban on outdoor
+advertising promotes this interest, I doubt that the same is
+true of the ban on point-of-sale advertising below ﬁve feet.
+See 940 Code of Mass. Regs. §§ 21.04(5)(b), 22.06(5)(b) (2000).
+The Court of Appeals admitted to having “some misgivings
+about the effectiveness of a restriction that is based on the
+assumption that minors under ﬁve feet tall will not, or will
+less frequently, raise their view above eye-level,” 218 F. 3d,
+at 51, as well it might have, since respondents have produced
+no evidence to support this counterintuitive assumption.
+Obviously even short children can see objects that are taller
+than they are. Anyway, by the time they are 12 1⁄2 years old,
+both the median girl and the median boy are over ﬁve feet
+tall. See U. S. Centers for Disease Control and Prevention,
+Growth Charts (2000). Thus, there is no reason to believe
+that this regulation does anything to protect minors from
+
+[Report page 59]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+583Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+exposure to tobacco advertising. 3 Far from serving a com-
+pelling interest, the ban on displays below ﬁve feet seems to
+lack even a minimally rational relationship to any conceiv-
+able interest.
+There is also considerable reason to doubt that the restric-
+tions on cigar and smokeless tobacco outdoor advertising
+promote any state interest. Outdoor advertising for cigars,
+after all, is virtually nonexistent. Cigar makers use no bill-
+boards in Massachusetts, and in fact their nationwide out-
+door advertising budget is only about $50,000 per year. See
+218 F. 3d, at 49. To the extent outdoor advertising exists,
+there is no evidence that it is targeted at youth or has a
+signiﬁcant effect on youth. The Court of Appeals focused
+on the State’s evidence of a relationship between “tobacco
+advertising and tobacco use,” id., at 48, thus eliding the
+dearth of evidence showing any relationship between cigar
+advertising and cigar use by minors. Respondents princi-
+pally rely on a National Cancer Institute report on cigar
+smoking, see Brief for Respondents 39, n. 19. But that re-
+port contains only the conclusory assertion that cigars are
+being “heavily promoted in ways likely to inﬂuence adoles-
+cent use,” and it does not even discuss outdoor advertising,
+instead focusing on “[e]ndorsements by celebrities,” “the re-
+3 This is not to say that the regulation does nothing at all. As the Court
+points out, see ante, at 565, security concerns require that convenience
+stores be designed so that the interior of the store is visible from the
+street. See also Occupational Safety and Health Administration, Recom-
+mendations for Workplace Violence Prevention Programs in Late-Night
+Retail Establishments 6 (1998) (“Shelves should be low enough to assure
+good visibility throughout the store”). The § 21.04(5)(b) ban on displays
+below ﬁve feet and the § 21.04(5)(a) ban on displays visible from outside
+the store, combined with these security concerns, would prevent many
+convenience stores from displaying any tobacco products at all. Thus,
+despite the State’s disclaimers, see Brief for Respondents 30 (“The State,
+quite clearly, is not trying to suppress altogether the communication of
+product information to interested consumers”), the restrictions effectively
+produce a total ban.
+
+[Report page 60]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+584 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+surgence of cigar smoking in movies,” and “cigar lifestyle
+magazines such as ‘Cigar Aﬁcionado.’ ” National Cancer
+Institute, Cigars: Health Effects and Trends, Smoking and
+Tobacco Control Monograph No. 9, pp. 14–15 (1998), Record,
+Doc. No. 39, Exh. 67. The report candidly acknowledges
+that “[a]dditional information is needed to better character-
+ize marketing efforts for cigars” and “to learn the extent to
+which advertising and promotion for cigar s...reaches and
+affects kids.” Id., at 216–217. In other words, respondents
+have adduced no evidence that a ban on cigar advertising
+will do anything to promote their asserted interest.
+Much the same is true of smokeless tobacco. Here re-
+spondents place primary reliance on evidence that, in the late
+1960’s, the U. S. Smokeless Tobacco Company increased its
+sales through advertising targeted at young males. See
+Brief for Respondents 39, n. 19. But this does nothing to
+show that advertising affecting minors is a problem today.
+The Court invokes the Food and Drug Administration’s ﬁnd-
+ings, see ante, at 559–560, but the report it cites based its
+conclusions on the observed “very large increase in the use
+of smokeless tobacco products by young people.” 60 Fed.
+Reg. 41318 (1995). This premise is contradicted by one of
+respondents’ own studies, which reports a large, steady de-
+crease in smokeless tobacco use among Massachusetts high
+school students during the 1990’s. See App. 292. This
+ﬁnding casts some doubt on whether the State’s interest in
+additional regulation is truly compe lling. More importantly,
+because cigarette smoking among high school students has
+not exhibited such a trend, see ibid., it indicates that re-
+spondents’ effort to aggregate cigarettes and smokeless to-
+bacco is misguided.
+B
+In any case, even assuming that the regulations advance a
+compelling state interest, they must be struck down because
+they are not narrowly tailored. The Court is correct, see
+ante, at 561–563, that the arbitrary 1,000-foot radius demon-
+
+[Report page 61]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+585Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+strates a lack of narrow tailoring, but the problem goes
+deeper than that. A prohibited zone deﬁned solely by cir-
+cles drawn around schools and playgrounds is necessarily
+overinclusive, regardless of the radii of the circles. Con-
+sider, for example, a billboard located within 1,000 feet of a
+school but visible only from an elevated freeway that runs
+nearby. Such a billboard would not threaten any of the in-
+terests respondents assert, but it would be banned anyway,
+because the regulations take no account of whether the ad-
+vertisement could even be seen by children. The prohibited
+zone is even more suspect where, as here, it includes all but
+10 percent of the area in the three largest cities in the State.
+The loose tailoring of the advertising ban is displayed not
+only in its geographic scope but also in the nature of the
+advertisements it affects. The regulations deﬁne “adver-
+tisement” very broadly; the term includes any “writte n...
+statement or representation, made by” a person who sells
+tobacco products, “the purpose or effect of which is to pro-
+mote the use or sale of the product.” 940 Code of Mass.
+Regs. § 21.03 (2000). Almost everything a business does has
+the purpose of promoting the sale of its products, so this
+deﬁnition would cover anything a tobacco retailer might say.
+Some of the prohibited speech would not even be commercial.
+If a store displayed a sign promoting a candidate for Attor-
+ney General who had promised to repeal the tobacco regula-
+tions if elected, it probably would be doing so with the long-
+term purpose of promoting sales, and the display of such a
+sign would be illegal.
+Even if the deﬁnition of “advertisement” were read more
+narrowly so as to require a speciﬁc reference to tobacco prod-
+ucts, it still would have Draconian effects. It would, for ex-
+ample, prohibit a tobacconist from displaying a sign reading
+“Joe’s Cigar Shop.” The effect of this rule is not to make
+cigars impossible to ﬁnd; retailers are after all allowed to
+display a 576-square-inch black-and-white sign reading “To-
+bacco Products Sold Here.” § 22.06(6). Rather, it is to
+
+[Report page 62]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+586 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+make individual cigar retailers more difﬁcult to identify by
+making them change their names. Respondents assert no
+interest in cigar retailer anonymity, and it is difﬁcult to con-
+ceive of any other interest to which this rule could be said
+to be narrowly tailored.
+The regulations fail the narrow tailoring inquiry for an-
+other, more fundamental reason. In addition to examining
+a narrower advertising ban, the State should have examined
+ways of advancing its interest that do not require limiting
+speech at all. Here, respondents had several alternatives.
+Most obviously, they could have directly regulated the con-
+duct with which they were concerned. See, e. g., Rubin v.
+Coors Brewing Co., 514 U. S. 476, 490–491 (1995) (invalidat-
+ing ban on disclosure of alcohol content on beer labels, in
+part because the Government could have pursued alterna-
+tives such as “directly limiting the alcohol content of beers”);
+see also 44 Liquormart, 517 U. S., at 524 (Thomas, J., concur-
+ring in part and concurring in judgment) (“[I]t would seem
+that directly banning a product (o r... otherwise restricting
+its sale in speciﬁc ways) would virtually always be at least as
+effective in discouraging consumption as merely restricting
+advertising”). Massachusetts already prohibits the sale of
+tobacco to minors, but it could take steps to enforce that
+prohibition more vigorously. It also could enact laws pro-
+hibiting the purchase, possession, or use of tobacco by mi-
+nors. And, if its concern is that tobacco advertising commu-
+nicates a message with which it disagrees, it could seek to
+counteract that message with “more speech, not enforced
+silence,” Whitney v. California, 274 U. S. 357, 377 (1927)
+(Brandeis, J., concurring).
+III
+Underlying many of the arguments of respondents and
+their amici is the idea that tobacco is in some sense sui gene-
+ris—that it is so special, so unlike any other object of regula-
+tion, that application of normal First Amendment principles
+should be suspended. See, e. g., Brief for Respondents 50
+
+[Report page 63]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+587Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+(referring to tobacco use as “one of the State’s—and indeed
+the Nation’s—most urgent problems”); Brief for United
+States as Amicus Curiae 19–20 (cataloging the prevalence
+and the effects of tobacco use); Brief for American Medical
+Association et al. as Amici Curiae 24 (advocating “the au-
+thority of governments to protect children from uniquely
+dangerous messages”). Smoking poses serious health risks,
+and advertising may induce children (who lack the judgment
+to make an intelligent decision about whether to smoke) to
+begin smoking, which can lead to addiction. The State’s as-
+sessment of the urgency of the problem posed by tobacco is
+a policy judgment, and it is not this Court’s place to second-
+guess it. Nevertheless, it seems appropriate to point out
+that to uphold the Massachusetts tobacco regulations would
+be to accept a line of reasoning that would permit restric-
+tions on advertising for a host of other products.
+Tobacco use is, we are told, “the single leading cause of
+preventable death in the United States.” Brief for United
+States as Amicus Curiae 19. The second largest contribu-
+tor to mortality rates in the United States is obesity.
+Koplan & Dietz, Caloric Imbalance and Public Health Policy,
+282 JAMA 1579 (1999). It is associated with increased inci-
+dence of diabetes, hypertension, and coronary artery disease,
+ibid., and it represents a public health problem that is rapidly
+growing worse. See Mokdad et al., The Spread of the Obe-
+sity Epidemic in the United States, 1991–1998, 282 JAMA
+1519 (1999). Although the growth of obesity over the last
+few decades has had many causes, a signiﬁcant factor has
+been the increased availability of large quantities of high-
+calorie, high-fat foods. See Hill, Environmental Contribu-
+tions to the Obesity Epidemic, 280 Science 1371 (1998).
+Such foods, of course, have been aggressively marketed and
+promoted by fast food companies. See Nestle & Jacobson,
+Halting the Obesity Epidemic, U. S. Dept. of Health and
+Human Services, 115 Public Health Reports 12, 18 (2000).
+
+[Report page 64]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+588 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Thomas, J .
+Respondents say that tobacco companies are covertly tar-
+geting children in their advertising. Fast food companies do
+so openly. See, e. g., Kramer, McD’s Steals Another Toy
+from BK, Advertising Age, Nov. 15, 1999, p. 1 (describing a
+McDonald’s promotional campaign); Lucas, BK Takes Choice
+Message to Kids, Adweek, June 29, 1998, p. 4 (describing a
+Burger King promotional campaign). Moreover, there is
+considerable evidence that they have been successful in
+changing children’s eating behavior. See Borzekowski &
+Robinson, The 30-Second Effect, 101 J. Am. Dietetic Assn. 42
+(2001); Taras, Sallis, Patterson, Nader, & Nelson, Television’s
+Inﬂuence on Children’s Diet and Physical Activity, 10 J.
+Dev. & Behav. Pediatrics 176 (1989). The effect of advertis-
+ing on children’s eating habits is signiﬁcant for two reasons.
+First, childhood obesity is a serious health problem in its
+own right. Troiano & Flegal, Overweight Children and Ad-
+olescents, 101 Pediatrics 497 (1998). Second, eating pref-
+erences formed in childhood tend to persist in adulthood.
+Birch & Fisher, Development of Eating Behaviors Among
+Children and Adolescents, 101 Pediatrics 539 (1998). So
+even though fast food is not addictive in the same way to-
+bacco is, children’s exposure to fast food advertising can have
+deleterious consequences that are difﬁcult to reverse.
+To take another example, the third largest cause of pre-
+ventable deaths in the United States is alcohol. McGinnis &
+Foege, Actual Causes of Death in the United States, 270
+JAMA 2207, 2208 (1993). Alcohol use is associated with tens
+of thousands of deaths each year from cancers and digestive
+diseases. Id., at 2208–2209. And the victims of alcohol use
+are not limited to those who drink alcohol. In 1996, over
+17,000 people were killed, and over 321,000 people were in-
+jured, in alcohol-related car accidents. U. S. Dept. of Jus-
+tice, Alcohol and Crime 13 (1998). Each year, alcohol is in-
+volved in several million vi olent crimes, including almost
+200,000 sexual assaults. Id., at 3–4.
+
+[Report page 65]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+589Cite as: 533 U. S. 525 (2001)
+Opinion of Thomas, J .
+Although every State prohibits the sale of alcohol to those
+under age 21, much alcohol advertising is viewed by children.
+Federal Trade Commission, J. Evans & R. Kelly, Self-
+Regulation in the Alcohol Industry (Sept. 1999); Grube &
+Wallack, Television Beer Advertising and Drinking Knowl-
+edge, Beliefs, and Intentions among Schoolchildren, 84 Am.
+J. Pub. Health 254 (1994). Not surprisingly, there is consid-
+erable evidence that exposure to alcohol advertising is asso-
+ciated with underage drinking. See Atkin, Survey and Ex-
+perimental Research on Effects of Alcohol Advertising, in
+The Effects of the Mass Media on the Use and Abuse of Alco-
+hol 39 (S. Martin ed. 1995); Madden & Grube, The Frequency
+and Nature of Alcohol and Tobacco Advertising in Televised
+Sports, 1990 through 1992, 84 Am. J. Pub. Health 297 (1994).
+Like underage tobacco use, underage drinking has effects
+that cannot be undone later in life. Those who begin drink-
+ing early are much more likely to become dependent on alco-
+hol. Indeed, the probability of lifetime alcohol dependence
+decreases approximately 14 percent with each additional
+year of age at which alcohol is ﬁrst used. Grant & Dawson,
+Age at Onset of Alcohol Use and its Association with
+DSM–IV Alcohol Abuse and Dependence, 9 J. Substance
+Abuse 103, 108 (1997). And obviously the effects of under-
+age drinking are irreversible for the nearly 1,700 Americans
+killed each year by teenage drunk drivers. See National
+Highway Trafﬁc Safety Administration, 1998 Youth Fatal
+Crash and Alcohol Facts.
+Respondents have identiﬁed no principle of law or logic
+that would preclude the imposition of restrictions on fast
+food and alcohol advertising similar to those they seek to
+impose on tobacco advertising. Cf. Tr. of Oral Arg. 56–57.
+In effect, they seek a “vice” exception to the First Amend-
+ment. No such exception exists. See 44 Liquormart, 517
+U. S., at 513–514 (opinion of Stevens, J., joined by Ken-
+nedy, Thomas, and Ginsburg, JJ.). If it did, it would have
+almost no limit, for “any product that poses some threat to
+
+[Report page 66]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+590 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+public health or public morals might reasonably be character-
+ized by a state legislature as relating to ‘vice activity.’ ” Id.,
+at 514. That is why “a ‘vice’ label that is unaccompanied by
+a corresponding prohibition against the commercial behavior
+at issue fails to provide a principled justiﬁcation for the regu-
+lation of commercial speech about that activity.” Ibid.
+No legislature has ever sought to restrict speech about an
+activity it regarded as harmless and inoffensive. Calls for
+limits on expression always are made when the specter of
+some threatened harm is looming. The identity of the harm
+may vary. People will be inspired by totalitarian dogmas
+and subvert the Republic. They will be inﬂamed by racial
+demagoguery and embrace hatred and bigotry. Or they will
+be enticed by cigarette advertisements and choose to smoke,
+risking disease. It is therefore no answer for the State to
+say that the makers of cigarettes are doing harm: perhaps
+they are. But in that respect they are no different from
+the purveyors of other harmful products, or the advocates of
+harmful ideas. When the State seeks to silence them, they
+are all entitled to the protection of the First Amendment.
+Justice Souter, concurring in part and dissenting in
+part.
+I join Parts I, II–C, II–D, III–A, III–B–1, III–C, and
+III–D of the Court’s opinion. I join Part I of the opinion
+of Justice Stevens concurring in part, concurring in the
+judgment in part, and dissenting in part. I respectfully dis-
+sent from Part III–B–2 of the opinion of the Court, and like
+Justice Stevens would remand for trial on the constitu-
+tionality of the 1,000-foot limit.
+Justice Stevens, with whom Justice Ginsburg and
+Justice Breyer join, and with whom Justice Souter joins
+as to Part I, concurring in part, concurring in the judgment
+in part, and dissenting in part.
+This suit presents two separate sets of issues. The ﬁrst—
+involving pre-emption—is straightforward. The second—
+
+[Report page 67]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+591Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+involving the First Amendment—is more complex. Because
+I strongly disagree with the Court’s conclusion that the
+Federal Cigarette Labeling and Advertising Act of 1965
+(FCLAA or Act), 15 U. S. C. § 1331 et seq., as amended, pre-
+cludes States and localities from regulating the location of
+cigarette advertising, I dissent from Parts II–A and II–B
+of the Court’s opinion. On the First Amendment questions,
+I agree with the Court both that the outdoor advertising
+restrictions imposed by Massachusetts serve legitimate and
+important state interests and that the record does not indi-
+cate that the measures were properly tailored to serve those
+interests. Because the present record does not enable us to
+adjudicate the merits of those claims on summary judgment,
+I would vacate the decision upholding those restrictions and
+remand for trial on the constitutionality of the outdoor ad-
+vertising regulations. Finally, because I do not believe that
+either the point-of-sale advertising restrictions or the sales
+practice restrictions implicate signiﬁcant First Amendment
+concerns, I would uphold them in their entirety.
+I
+As the majority acknowledges, ante, at 541–542, under
+prevailing principles, any examination of the scope of a pre-
+emption provision must “ ‘start with the assumption that the
+historic police powers of the States [are] not to be super-
+seded by . . . Federal Act unless that [is] the clear and mani-
+fest purpose of Congress.’ ” Cipollone v. Liggett Group,
+Inc., 505 U. S. 504, 516 (1992) (quoting Rice v. Santa Fe Ele-
+vator Corp., 331 U. S. 218, 230 (1947)); see also, e. g., Califor-
+nia Div. of Labor Standards Enforcement v. Dillingham
+Constr., N. A., Inc., 519 U. S. 316, 325 (1997); Medtronic, Inc.
+v. Lohr, 518 U. S. 470, 475 (1996). As the regulations at
+issue in this suit implicate two powers that lie at the heart
+of the States’ traditional police power—the power to regu-
+late land usage and the power to protect the health and
+safety of minors—our precedents require that the Court con-
+strue the pre-emption provision “narrow[ly].” Id., at 485;
+
+[Report page 68]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+592 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+see also Cipollone, 505 U. S., at 518. If Congress’ intent to
+pre-empt a particular category of regulation is ambiguous,
+such regulations are not pre-empted. 1
+The text of the pre-emption provision must be viewed in
+context, with proper attention paid to the history, structure,
+and purpose of the regulatory scheme in which it appears .
+See, e. g., Medtronic, 518 U. S., at 484–486; New York State
+Conference of Blue Cross & Blue Shield Plans v. Travelers
+Ins. Co., 514 U. S. 645, 655–656 (1995); Cipollone, 505 U. S.,
+at 513–515, 519–520, 529, 530, n. 27; accord, ante, at 542. 2
+An assessment of the scope of a pre-emption provision must
+give effect to a “reasoned understanding of the way in which
+Congress intended the statute and its surrounding regula-
+tory scheme to affect business, consumers, and the law.”
+Medtronic, 518 U. S., at 486.
+This task, properly performed, leads inexorably to the con-
+clusion that Congress did not intend to pre-empt state and
+local regulations of the location of cigarette advertising when
+it adopted the provision at issue in this suit. In both 1965
+and 1969, Congress made clear the purposes of its regulatory
+1 See, e. g., Florida Lime & Avocado Growers, Inc. v. Paul, 373 U. S.
+132, 146–147 (1963) (“[W]e are not to conclude that Congress legislated
+the ouster of this [state] statute . . . in the absence of an unambiguous
+congressional mandate to that effect”); Cipollone, 505 U. S., at 533 (Black-
+mun, J., joined by Kennedy and Souter, JJ., concurring in part, concur-
+ring in judgment in part, and dissenting in part) (“The principles of fed-
+eralism and respect for state sovereignty that underlie the Court’s
+reluctance to ﬁnd pre-emption where Congress has not spoken directly
+to the issue apply with equal force where Congress has spoken, though
+ambiguously. In such cases, the question is not whether Congress in-
+tended to pre-empt state regulation, but to what extent. We do not, ab-
+sent unambiguous evidence, infer a scope of pre-emption beyond that
+which clearly is mandated by Congress’ language” (emphasis deleted)).
+2 Cf. Central Hanover Bank & Trust Co. v. Commissioner, 159 F. 2d 167,
+169 (CA2 1947) (L. Hand, J.) (“There is no more likely way to misappre-
+hend the meaning of language—be it in a constitution, a statute, a will or
+a contract—than to read the words literally, forgetting the object which
+the document as a whole is meant to secure”).
+
+[Report page 69]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+593Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+endeavor, explaining with precision the federal policies moti-
+vating its actions. According to the Acts, Congress adopted
+a “comprehensive Federal Program to deal with cigarette
+labeling and advertising with respect to any relationship be-
+tween smoking and health,” for two reasons: (1) to inform
+the public that smoking may be hazardous to health and (2)
+to ensure that commerce and the interstate economy not be
+“impeded by diverse, nonuniform, and confusing cigarette la-
+beling and advertising regulations with respect to any rela-
+tionship between smoking and health.” 15 U. S. C. § 1331.
+In order to serve the second purpose it was necessary to
+pre-empt state regulation of the content of both cigarette
+labels and cigarette advertising. If one State required the
+inclusion of a particular warning on the package of cigarettes
+while another State demanded a different formulation, ciga-
+rette manufacturers would have been forced into the difﬁcult
+and costly practice of producing different packaging for use
+in different States. To foreclose the waste of resources that
+would be entailed by such a patchwork regulatory system,
+Congress expressly precluded other regulators from requir-
+ing the placement on cigarette packaging of any “statement
+relating to smoking and health.” § 1334(a). Similar con-
+cerns applied to cigarette advertising. If different regula-
+tory bodies required that different warnings or statements
+be used when cigarette manufacturers advertised their prod-
+ucts, the text and layout of a company’s ads would have had
+to differ from locale to locale. The resulting costs would
+have come with little or no health beneﬁt. Moreover, given
+the nature of publishing, it might well have been the case
+that cigarette companies would not have been able to adver-
+tise in national publications without violating the laws of
+some jurisdictions. In response to these concerns, Congress
+adopted a parallel provision pre-empting state and local reg-
+ulations requiring inclusion in cigarette advertising of any
+“statement relating to smoking and health.” § 1334(b) (1970
+ed.) (amended 1970).
+
+[Report page 70]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+594 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+There was, however, no need to interfere with state or
+local zoning laws or other regulations prescribing limitations
+on the location of signs or billboards. Laws prohibiting a
+cigarette company from hanging a billboard near a school in
+Boston in no way conﬂict with laws permitting the hanging
+of such a billboard in other jurisdictions. Nor would such
+laws even impose a signiﬁcant administrative burden on
+would-be advertisers, as the great majority of localities im-
+pose general restrictions on signage, thus requiring advertis-
+ers to examine local law before posting signs whether or not
+cigarette-speciﬁc laws are pre-empted. See Greater N. Y .
+Metropolitan Food Council, Inc. v. Giuliani, 195 F. 3d 100,
+109 (CA2 1999) (“Divergent local zoning restrictions on the
+location of sign advertising are a commonplace feature of the
+national landscape and cigarette advertisers have always
+been bound to observe them”). Hence, it is unsurprising
+that Congress did not include any provision in the 1965 Act
+pre-empting location restrictions.
+The Public Health Cigarette Smoking Act of 1969 (1969
+Act), § 2, 84 Stat. 87, made two important changes in the
+pre-emption provision. First, it limited the applicability of
+the advertising prong to States and localities, paving the
+way for further federal regulation of cigarette advertising.
+FCLAA, § 4. Second, it expanded the scope of the advertis-
+ing pre-emption provision. Where previously States were
+prohibited from requiring particular statements in cigarette
+advertising based on health concerns, they would henceforth
+be prohibited from imposing any “requirement or prohibi-
+tion based on smoking and health . . . with respect to the
+advertising or promotion” of cigarettes. § 5(b), 15 U. S. C.
+§ 1334(b).3
+3 In Cipollone v. Liggett Group, Inc., 505 U. S. 504, 521 (1992), we held
+that one of the consequences of this change in language was that after
+1969 the statute pre-empts some common-law actions.
+
+[Report page 71]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+595Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+Ripped from its context, this provision could theoretically
+be read as a breathtaking expansion of the limitations im-
+posed by the 1965 Act. However, both our precedents and
+common sense require us to read statutory provisions—and,
+in particular, pre-emption clauses—in the context of both
+their neighboring provisions and of the history and purpose
+of the statutory scheme. See supra, at 592. When so
+viewed, it is quite clear that the 1969 amendments were in-
+tended to expand the provision to capture a narrow set of
+content regulations that would have escaped pre-emption
+under the prior provision, not to fundamentally reorder the
+division of regulatory authority between the Federal and
+State Governments.
+All signs point inescapably to the conclusion that Congress
+only intended to pre-empt content regulations in the 1969
+Act. It is of crucial importance that, in making modiﬁca-
+tions of the pre-emption provision, Congress did not alter
+the statement laying out the federal policies the provision
+was intended to serve. See 15 U. S. C. § 1331. To this day,
+the stated federal policies in this area are (1) to inform the
+public of the dangers of cigarette smoking and (2) to protect
+the cigarette companies from the burdens of confusing and
+contradictory state regulations of their labels and advertise-
+ments. See ibid. The retention of this provision un-
+changed is strong evidence that Congress’ only intention in
+expanding the pre-emption clause was to capture forms of
+content regulation that had fallen through the cracks of the
+prior provision—for example, state laws prohibiting ciga-
+rette manufacturers from making particular claims in their
+advertising or requiring them to ut ilize speciﬁed layouts or
+include particular graphics in their marketing. 4
+4 Because of the nature of magazine publishing and distribution, it is
+conceivable that a State or locality might cause the kind of regulatory
+confusion the statute was drafted to prevent by adopting a law prohibiting
+the advertising of cigarettes in any publication distributed within its
+
+[Report page 72]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+596 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+The legislative history of the provision also supports such
+a reading. The record does not contain any evidence that
+Congress intended to expand the scope of pre-emption be-
+yond content restrictions. 5 To the contrary, the Senate Re-
+port makes it clear that the changes merely “clariﬁed” the
+scope of the original provision. S. Rep. No. 91–566, p. 12
+(1969). Even as amended, Congress perceived the provision
+as “narrowly phrased” and emphasized that its purpose is
+to “avoid the chaos created by a multiplicity of conﬂicting
+regulations.” Ibid. According to the Senate Report, the
+changes “in no way affect the power of any state or political
+subdivision of any state with respect to...t h es a l eo f
+cigarettes to minors . . . or similar police regulations.”
+Ibid.
+In analyzing the scope of the pre-emption provision, the
+Courts of Appeals have almost uniformly concluded that
+state and local laws regulating the location of billboards and
+signs are not pre-empted. See Consolidated Cigar Corp. v.
+Reilly, 218 F. 3d 30, 39–41 (CA1 2000) (case below); Greater
+New York Metropolitan Food Council, Inc. v. Giuliani, 195
+F. 3d 100, 104–110 (CA2 1999); Federation of Advertising
+Industry Representatives, Inc. v. Chicago, 189 F. 3d 633,
+boundaries. There is at least a modicum of support for the suggestion
+that Congress may have intended the pre-emption of such restrictions.
+See id., at 515, n. 11 (noting that California was considering such a ban at
+the time Congress was considering the 1969 Act). However, the concerns
+posed by the diverse regulation of national publications are not present
+with regard to the local regulation of the location of signs and billboards.
+5 At one point, the Court brieﬂy argues that it would be wrong to con-
+clude that Congress intended to preclude only content restrictions, be-
+cause it imposed a location restriction (a ban on television and radio adver-
+tising) in another provision of the same bill. See ante, at 548–549. This
+argument is something of a non sequitur. The fact that Congress, in
+adopting a comprehensive legislative package, chose to impose a federal
+location restriction for a national medium has no bearing on whether, in a
+separate provision, the Legislature intended to strip States and localities
+of the authority to impose location restrictions for purely local advertis-
+ing media.
+
+[Report page 73]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+597Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+636–640 (CA7 1999); Penn Advertising of Baltimore, Inc. v.
+Mayor and City Council of Baltimore, 63 F. 3d 1318 (CA4
+1995); contra, Lindsey v. Tacoma-Pierce Cty. Health Dept.,
+195 F. 3d 1065 (CA9 1999). The decisions in those cases
+relied heavily upon our discussion of the same pre-emption
+provision in Cipollone, 505 U. S., at 515–524. In Cipollone,
+while the Members of the Court expressed three different
+opinions concerning the scope of pre-emption mandated by
+the provision, those differences related entirely to which, if
+any, of the plaintiff’s claims based on the content of the de-
+fendants’ advertising were pre-empted by § 5. Nary a word
+in any of the three Cipollone opinions supports the thesis
+that § 5 should be interpreted to pre-empt state regulation
+of the location of signs advertising cigarettes. Indeed,
+seven of the nine Justices subscribed to opinions that explic-
+itly tethered the scope of the pre-emption provision to Con-
+gress’ concern with “diverse, nonuniform, and confusing ciga-
+rette labeling and advertising regulations.” Id., at 519; id.,
+at 534, 541 (opinion of Blackmun, J., joined by Kennedy and
+Souter, JJ.).
+I am ﬁrmly convinced that, when Congress amended the
+pre-emption provision in 1969, it did not intend to expand
+the application of the provision beyond content regulations. 6
+6 Petitioners suggest in passing that Massachusetts’ regulation amounts
+to a “near-total ba[n],” Brief for Petitioners Lorillard Tobacco Co. et al. in
+No. 00–596, p. 22, and thus is a de facto regulation of the content of ciga-
+rette ads. But we need not consider today the circumstances in which
+location restrictions approximating a total ban might constitute regulation
+of content and thus be pre-empted by the Act, because petitioners have
+failed to introduce sufﬁcient evidence to create a genuine issue as to that
+claim. Petitioners introduced maps purporting to show that cigarette ad-
+vertising is barred in 90.6% of Boston proper, 87.8% of Worcester, and
+88.8% of Springﬁeld. See App. 165–167. But the maps do not distin-
+guish between the area restricted due to the regulation at issue here and
+the area restricted due to pre-existing regulations, such as general zoning
+requirements applicable to all outdoor advertising. Nor do the maps
+show the percentage (with respect to either area or population) of the
+State that is off limits to cigarette advertising; they cover only three cities
+
+[Report page 74]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+598 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+I, therefore, ﬁnd the conclusion inescapable that the zoning
+regulation at issue in this suit is not a “requirement or
+prohibition . . . with respect to . . . advertising” within the
+meaning of the 1969 Act. 7 Even if I were not so convinced,
+however, I would still dissent from the Court’s conclusion
+with regard to pre-emption, because the provision is, at the
+very least, ambiguous. The historical record simply does
+not reﬂect that it was Congress’ “ ‘clear and manifest pur-
+pose,’ ”id., at 516, to pre-empt attempts by States to utilize
+their traditional zoning authority to protect the health and
+welfare of minors. Absent such a manifest purpose, Massa-
+chusetts and its sister States retain their traditional police
+powers.8
+containing approximately 14% of the State’s population. See U. S. Census
+Bureau, Statistical Abstract of the United States 28, 47, 49 (1999) (provid-
+ing population ﬁgures for 1998). The area in which cigarette advertising
+is restricted is likely to be considerably less in less densely populated
+portions of the State. And even on the interpretation of this data most
+favorable to petitioners, the Massachusetts regulation still permits indoor
+and outdoor cigarette advertising in at least 10% of the geographical area
+of the State. In short, the regulation here is not the equivalent of a total
+ban on cigarette advertising.
+7 Hence, while I agree in large part with the substance of the arguments
+proffered by the respondents and the United States on the pre-emption
+issue, I reject their conclusion that the content/location distinction ﬁnds
+expression in the limiting phrase “based on smoking and health.” See
+Brief for Respondents 20; Brief for United States as Amicus Curiae 5;
+accord, Penn Advertising of Baltimore, Inc. v. Mayor and City Council
+of Baltimore, 63 F. 3d 1318 (CA4 1995). Instead, I would follow the First,
+Second, and Seventh Circuits in concluding that a statute regulating the
+location of advertising is not a “requirement or prohibitio n...w i t hr e -
+spect to . . . advertising” within the meaning of the 1969 Act. See Consol-
+idated Cigar Corp. v. Reilly, 218 F. 3d 30, 39–41 (CA1 2000) (case below);
+Greater N. Y . Metropolitan Food Council, Inc. v. Giuliani, 195 F. 3d 100,
+104–110 (CA2 1999); Federation of Advertising Industry Representatives,
+Inc. v. Chicago, 189 F. 3d 633, 636–640 (CA7 1999).
+8 The Court’s holding that federal law precludes States and localities
+from protecting children from dangerous products within 1,000 feet of a
+school is particularly ironic given the Court’s conclusion six years ago that
+
+[Report page 75]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+599Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+II
+On the First Amendment issues raised by petitioners, my
+disagreements with the majority are less signiﬁcant. I
+would, however, reach different dispositions as to the 1,000-
+foot rule and the height restrictions for indoor advertising,
+and my evaluation of the sales practice restrictions differs
+from the Court’s.
+The 1,000-Foot Rule
+I am in complete accord with the Court’s analysis of the
+importance of the interests served by the advertising re-
+strictions. As the Court lucidly explains, few interests are
+more “compelling,” ante, at 564, than ensuring that minors
+do not become addicted to a dangerous drug before they are
+able to make a mature and informed decision as to the health
+risks associated with that substance. Unlike other products
+sold for human consumption, tobacco products are addictive
+and ultimately lethal for many long-term users. When that
+interest is combined with the State’s concomitant concern for
+the effective enforcement of its laws regarding the sale of
+tobacco to minors, it becomes clear that Massachusetts’ regu-
+lations serve interests of the highest order and are, there-
+fore, immune from any ends-based challenge, whatever level
+of scrutiny one chooses to employ.
+Nevertheless, noble ends do not save a speech-restricting
+statute whose means are poorly tailored. Such statutes
+the Federal Government lacks the constitutional authority to impose a
+similarly motivated ban. See United States v. Lopez, 514 U. S. 549 (1995).
+Despite the absence of any identiﬁed federal interest in creating “an invisi-
+ble federal zone extending 1,000 feet beyond the (often irregular) bound-
+aries of the school property,” as the majority construes it today, the “stat-
+ute now before us forecloses the States from experimenting and exercising
+their own judgment in an area to which States lay claim by right of history
+and expertise,” id., at 583 (Kennedy , J., concurring). I wonder why a
+Court sensitive to federalism concerns would adopt such a strange con-
+struction of statutory language whose quite different purpose Congress
+took pains to explain.
+
+[Report page 76]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+600 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+may be invalid for two different reasons. First, the means
+chosen may be insufﬁciently related to the ends they pur-
+portedly serve. See, e. g., Rubin v. Coors Brewing Co., 514
+U. S. 476 (1995) (striking a statute prohibiting beer labels
+from displaying alcohol content because the provision did not
+signiﬁcantly forward the government’s interest in the health,
+safety, and welfare of its citizens). Alternatively, the stat-
+ute may be so broadly drawn that, while effectively achiev-
+ing its ends, it unduly restricts communications that are
+unrelated to its policy aims. See, e. g., United States v.
+Playboy Entertainment Group, Inc., 529 U. S. 803, 812 (2000)
+(striking a statute intended to protect children from indecent
+television broadcasts, in part because it constituted “a sig-
+niﬁcant restriction of communication between speakers and
+willing adult listeners”). The second difﬁculty is most fre-
+quently encountered when government adopts measures
+for the protection of children that impose substantial re-
+strictions on the ability of adults to communicate with one
+another. See, e. g., Playboy Entertainment Group, Inc.,
+supra; Reno v. American Civil Liberties Union, 521 U. S.
+844 (1997); Sable Communications of Cal., Inc. v. FCC, 492
+U. S. 115 (1989).
+To my mind, the 1,000-foot rule does not present a tailor-
+ing problem of the ﬁrst type. For reasons cogently ex-
+plained in our prior opinions and in the opinion of the Court,
+we may fairly assume that advertising stimulates consump-
+tion and, therefore, that regulations limiting advertising will
+facilitate efforts to stem consumption. 9 See, e. g., Rubin,
+514 U. S., at 487; United States v. Edge Broadcasting Co.,
+509 U. S. 418, 434 (1993); ante, at 557. Furthermore, if the
+government’s intention is to limit consumption by a particu-
+lar segment of the community—in this case, minors—it is
+9 Moreover, even if it were our practice to require a particularized show-
+ing of the effects of advertising on consumption, the respondents have met
+that burden in this suit. See ante, at 557–561 (summarizing the evidence).
+
+[Report page 77]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+601Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+appropriate, indeed necessary, to tailor advertising restric-
+tions to the areas where that segment of the community con-
+gregates—in this case, the area surrounding schools and
+playgrounds.
+However, I share the majority’s concern as to whether the
+1,000-foot rule unduly restricts the ability of cigarette manu-
+facturers to convey lawful information to adult consumers.
+This, of course, is a question of line-drawing. While a ban
+on all communications about a given subject would be the
+most effective way to prevent children from exposure to such
+material, the State cannot by ﬁat reduce the level of dis-
+course to that which is “ﬁt for children.” Butler v. Michi-
+gan, 352 U. S. 380, 383 (1957); cf. Bolger v. Youngs Drug
+Products Corp., 463 U. S. 60, 74 (1983) (“The level of dis-
+course reaching a mailbox simply cannot be limited to that
+which would be suitable for a sandbox”). On the other hand,
+efforts to protect children from exposure to harmful material
+will undoubtedly have some spillover effect on the free
+speech rights of adults. See, e. g., FCC v. Paciﬁca Founda-
+tion, 438 U. S. 726, 749–750, and n. 28 (1978).
+Finding the appropriate balance is no easy matter.
+Though many factors plausibly enter the equation when cal-
+culating whether a child-directed location restriction goes
+too far in regulating adult speech, one crucial question is
+whether the regulatory scheme leaves available sufﬁcient
+“alternative avenues of communication.” Renton v. Play-
+time Theatres, Inc., 475 U. S. 41, 50 (1986); Members of City
+Council of Los Angeles v. Taxpayers for Vincent, 466 U. S.
+789, 819 (1984) (Brennan, J., dissenting); accord, ante, at 563.
+Because I do not think the record contains sufﬁcient informa-
+tion to enable us to answer that question, I would vacate the
+award of summary judgment upholding the 1,000-foot rule
+and remand for trial on that issue. Therefore, while I agree
+with the majority that the Court of Appeals did not sufﬁ-
+ciently consider the implications of the 1,000-foot rule for
+the lawful communication of adults, see ante, at 561–566,
+
+[Report page 78]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+602 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+I dissent from the disposition reﬂected in Part III–B–2 of
+the Court’s opinion.
+There is no doubt that the 1,000-foot rule prohibits ciga-
+rette advertising in a substantial portion of Massachusetts’
+largest cities. Even on that question, however, the parties
+remain in dispute as to the percentage of these urban areas
+that is actually off limits to tobacco advertising. See ante,
+at 562. Moreover, the record is entirely silent on the impact
+of the regulation in other portions of the Commonwealth.
+The dearth of reliable statistical information as to the scope
+of the ban is problematic.
+More importantly, the Court lacks sufﬁcient qualitative in-
+formation as to the areas where cigarette advertising is pro-
+hibited and those where it is permitted. The fact that 80%
+or 90% of an urban area is unavailable to tobacco advertise-
+ments may be constitutionally irrelevant if the available
+areas are so heavily trafﬁcked or so central to the city’s cul-
+tural life that they provide a sufﬁcient forum for the propa-
+gation of a manufacturer’s message. One electric sign in
+Times Square or at the foot of the Golden Gate Bridge may
+be seen by more potential customers than a hundred signs
+dispersed in residential neighborhoods.
+Finally, the Court lacks information as to other avenues
+of communication available to cigarette manufacturers and
+retailers. For example, depending on the answers to empir-
+ical questions on which we lack data, the ubiquity of print
+advertisements hawking particular brands of cigarettes
+might sufﬁce to inform adult consumers of the special advan-
+tages of the respective brands. Similarly, print advertise-
+ments, circulars mailed to people’s homes, word of mouth,
+and general information may or may not be sufﬁcient to
+imbue the adult population with the knowledge that particu-
+lar stores, chains of stores, or types of stores sell tobacco
+products.10
+10 As the above observations indicate, the analysis as to whether the
+1,000-foot rule impermissibly curtails speech between adults will require
+a particularized analysis that may well ask slightly different questions—
+
+[Report page 79]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+603Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+In granting summary judgment for the respondents, the
+District Judge treated the First Amendment issues in this
+suit as pure questions of law and stated that “there are
+no material facts in dispute concerning these issues.” 84
+F. Supp. 2d 180, 183 (Mass. 2000). With due respect, I
+disagree. While the ultimate question before us is one of
+law, the answer to that question turns on complicated factual
+questions relating to the practical effects of the regulations.
+As the record does not reveal the answer to these disputed
+questions of fact, the court should have denied summary
+judgment to both parties and allowed the parties to present
+further evidence.
+I note, moreover, that the alleged “overinclusivity” of the
+advertising regulations, ante, at 578 (Thomas, J., concurring
+in part and concurring in judgment), while relevant to whether
+the regulations are narrowly tailored, does not “beli[e]” the
+claim that tobacco advertising imagery misleads children
+into believing that smoking is healthy, glamorous, or sophis-
+ticated, ibid. See Brief for American Legacy Foundation as
+Amicus Curiae 4–5, and nn. 9, 10; Brief for City of Los
+Angeles et al. as Amici Curiae 4 (documenting charge that
+advertisements for cigarettes and smokeless tobacco target
+underage smokers). For purposes of summary judgment,
+the State conceded that the tobacco companies’ advertising
+concerns lawful activity and is not misleading. Under the
+Court’s disposition of the cases today, the State remains free
+to proffer evidence that the advertising is in fact misleading.
+See Virginia Bd. of Pharmacy v. Virginia Citizens Con-
+sumer Council, Inc., 425 U. S. 748, 771 (1976) (“[M]uch com-
+mercial speech is not provably false, or even wholly false, but
+only deceptive or misleading. We foresee no obstacle to a
+State’s dealing effectively with this problem”). I would va-
+cate the grant of summary judgment to respondents on this
+issue and remand for further proceedings.
+and conceivably could reach different results—with regard to the constitu-
+tionality of the restrictions as applied to manufacturers and retailers.
+
+[Report page 80]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+604 LORILLARD TOBACCO CO. v. REILL Y
+Opinion of Stevens, J .
+The Sales Practice and Indoor Advertising Restrictions
+After addressing petitioners’ challenge to the sales prac-
+tice restrictions imposed by the Massachusetts statute, the
+Court concluded that these provisions did not violate the
+First Amendment. I concur in that judgment, but write
+separately on this issue to make two brief points.
+First, I agree with the District Court and the Court of
+Appeals that the sales practice restrictions are best analyzed
+as regulating conduct, not speech. See 218 F. 3d, at 53.
+While the decision how to display one’s products no doubt
+serves a marginal communicative function, the same can be
+said of virtually any human activity performed with the hope
+or intention of evoking the interest of others. This Court
+has long recognized the need to differentiate between legis-
+lation that targets expression and legislation that targets
+conduct for legitimate non-speech-related reasons but im-
+poses an incidental burden on expression. See, e. g., United
+States v. O’Brien, 391 U. S. 367 (1968). However difﬁcult
+that line may be to draw, it seems clear to me that laws
+requiring that stores maintain items behind counters and
+prohibiting self-service displays fall squarely on the conduct
+side of the line. Restrictions as to the accessibility of dan-
+gerous or legally restricted products are a common feature
+of the regulatory regime governing American retail stores.
+I see nothing the least bit constitutionally problematic in re-
+quiring individuals to ask for the assistance of a salesclerk
+in order to examine or purchase a handgun, a bottle of peni-
+cillin, or a package of cigarettes.
+Second, though I admit the question is closer, I would, for
+similar reasons, uphold the regulation limiting tobacco ad-
+vertising in certain retail establishments to the space ﬁve
+feet or more above the ﬂoor. 11 When viewed in isolation,
+this provision appears to target speech. Further, to the ex-
+11 This ban only applies to stores located within 1,000 feet of a school or
+playground and contains an exception for adult-only establishments. See
+ante, at 535, 536.
+
+[Report page 81]
+533US2 Unit: $U84 [11-05-02 18:55:51] PAGES PGT: OPIN
+605Cite as: 533 U. S. 525 (2001)
+Opinion of Stevens, J .
+tent that it does target speech it may well run into constitu-
+tional problems, as the connection between the ends the stat-
+ute purports to serve and the means it has chosen are
+dubious. Nonetheless, I am ultimately persuaded that the
+provision is unobjectionable because it is little more than an
+adjunct to the other sales practice restrictions. As the
+Commonwealth of Massachusetts can properly legislate the
+placement of products and the nature of displays in its con-
+venience stores, I would not draw a distinction between such
+restrictions and height restrictions on related product adver-
+tising. I would accord the Commonwealth some latitude in
+imposing restrictions that can have only the slightest impact
+on the ability of adults to purchase a poisonous product and
+may save some children from taking the ﬁrst step on the
+road to addiction.
+III
+Because I strongly disagree with the Court’s conclusion on
+the pre-emption issue, I dissent from Parts II–A and II–B of
+its opinion. Though I agree with much of what the Court
+has to say about the First Amendment, I ultimately disagree
+with its disposition or its reasoning on each of the regula-
+tions before us. 12
+12 Reﬂecting my partial agreement with the Court, I join Parts I, II–C,
+II–D, and III–B–1 and concur in the judgment reﬂected in Part III–D.

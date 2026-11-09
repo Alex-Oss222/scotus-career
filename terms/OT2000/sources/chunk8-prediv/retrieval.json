@@ -1,0 +1,32 @@
+[
+  {
+    "name": "keller",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-496/pdf/USREPORTS-496-1.pdf",
+    "pages": 17,
+    "characters": 39085
+  },
+  {
+    "name": "irwin",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-498/pdf/USREPORTS-498-89.pdf",
+    "pages": 14,
+    "characters": 30135
+  },
+  {
+    "name": "rose_lundy",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-455/pdf/USREPORTS-455-509.pdf",
+    "pages": 42,
+    "characters": 96361
+  },
+  {
+    "name": "epperson",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-393/pdf/USREPORTS-393-97.pdf",
+    "pages": 20,
+    "characters": 41311
+  },
+  {
+    "name": "edwards",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-482/pdf/USREPORTS-482-578.pdf",
+    "pages": 63,
+    "characters": 143023
+  }
+]

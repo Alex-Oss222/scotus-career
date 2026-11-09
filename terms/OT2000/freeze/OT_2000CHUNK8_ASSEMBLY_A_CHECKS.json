@@ -1,0 +1,54 @@
+[
+  {
+    "case": "Duncan v. Walker",
+    "record": "Duncan_v_Walker_merits_2001-06-18.md",
+    "author": "O'Connor",
+    "judgment": [
+      7,
+      2
+    ],
+    "explanation_words": [
+      267,
+      179
+    ],
+    "counts_match_fresh_tables": true,
+    "public_holdings_exact": true,
+    "frozen_reconciliation_exact": true,
+    "local_links_resolve": true,
+    "sha256": "f5d20b2616cfc09c78c43c8e9349e1282d3c1efabe2c0b1cc3066013e8bdfea4"
+  },
+  {
+    "case": "Freiler v. Tangipahoa Parish Board of Education",
+    "record": "Freiler_v_Tangipahoa_Parish_Board_of_Education_merits_2001-06-18.md",
+    "author": "Stone-Zsela",
+    "judgment": [
+      6,
+      3
+    ],
+    "explanation_words": [
+      300
+    ],
+    "counts_match_fresh_tables": true,
+    "public_holdings_exact": true,
+    "frozen_reconciliation_exact": true,
+    "local_links_resolve": true,
+    "sha256": "2eaefd43dc31c270b6cc4c1d91d104e1e8649cc16cd1555e8f939d4c7849503a"
+  },
+  {
+    "case": "Idaho v. United States",
+    "record": "Idaho_v_United_States_merits_2001-06-18.md",
+    "author": "Souter",
+    "judgment": [
+      6,
+      3
+    ],
+    "explanation_words": [
+      314
+    ],
+    "counts_match_fresh_tables": true,
+    "public_holdings_exact": true,
+    "frozen_reconciliation_exact": true,
+    "local_links_resolve": true,
+    "sha256": "555c8773f96d47b782a87a14ab894c1436d4f0611469f5f93a666b1337168887"
+  }
+]

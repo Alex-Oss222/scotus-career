@@ -1,0 +1,1401 @@
+# Lorillard / Altadis: smokeless source reading copy
+
+Mechanically copied from the saved predecision party source, with marked omissions required by the stage boundary. Party arguments and descriptions are not findings. OCR is unchanged.
+
+QUESTIONS PRESENTED 
+
+
+1. Whether strict scrutiny should be applied to content- 
+based restrictions on truthful, nonmisleading smokeless 
+tobacco advertising when the restrictions are designed to 
+suppress speech for reasons unrelated to ensuring a fair 
+bargaining process. 
+
+
+2. Whether under Central Hudson a State may meet its 
+burden of showing that restrictions on speech directly and 
+materially advance the asserted interest by submitting data 
+that either tend to contradict or fail to support the State’s 
+justification for the restrictions. 
+
+
+3. Whether under Central Hudson restrictions on 
+speech, promulgated for the ostensible purpose of addressing 
+minors’ smokeless tobacco consumption, are no more 
+extensive than necessary when the State foregoes alternative 
+measures and its own data show a “significant” and “steady” 
+decline in such consumption. 
+
+
+tl 
+
+
+STATEMENT PURSUANT TO RULE 29.6 
+
+
+Amending its prior Rule 29.6 Statement, Petitioner states 
+that effective January 1, 2001, it changed its name from 
+United States Tobacco Company to U.S. Smokeless Tobacco 
+Company. There are no other changes to its prior statement. 
+
+
+iil 
+
+
+TABLE OF CONTENTS 
+
+
+Questions Presented ..........--.se eee eeeeee 
+Statement Pursuant To Rule 29.6 .............-. 
+Teele OF COGNOINS 2 wc cc ccc eves ence ncccne 
+Table Of Cited Authorities ................50: 
+Opinions Below ............--eeeeee eee ceeees 
+EES EM ee Cee eee ee eee eee Te 
+
+
+Constitutional, Statutory And Regulatory Provisions 
+Ff Se Se eer eee eee ee 
+
+
+i ee acawabceen ee saree 
+
+
+Summary Of The Argument .............---5:: 
+Geese oe 
+
+
+I. Strict Scrutiny Should Apply To Content- 
+Based Speech Restrictions That Are 
+Unrelated To Ensuring A Fair Bargaining 
+Ee aa KERRMEN SS ENR KN CRN es See 
+
+
+iv 
+
+
+Contents 
+
+
+A. Strict Scrutiny Applies To Content- 
+Based Speech Restrictions. .......... 
+
+
+B. The Regulations Effectively Ban 
+Advertising For Reasons Unrelated To 
+Ensuring A Fair Bargaining Process. .. 
+
+
+C. The Regulations Effectively Ban Speech 
+That Promotes Smokeless Tobacco 
+Brands While Permitting The State To 
+Communicate Anti-Tobacco Messages 
+I WE 6k MAEDA 
+
+
+II. Even If The Central Hudson Test Provides 
+The Appropriate Standard For Evaluating 
+The Regulations, They Fail To Meet 
+Constitutional Requirements. ............ 
+
+
+A. The Attorney General’s Smokeless 
+Tobacco Submission Fails To 
+Demonstrate That The Regulations Will 
+Directly And Materially Reduce Minors’ 
+Smokeless Tobacco Consumption. .... 
+
+
+1. The Attorney General Cannot Rely 
+On Information Related To Cigarette 
+Advertising To Ban Smokeless 
+Tobacco Advertising. ........... 
+
+
+Page 
+
+
+10 
+
+
+12 
+
+
+13 
+
+
+16 
+
+
+17 
+
+
+19 
+
+
+Contents 
+Page 
+2. The Attorney General’s Smokeless - 
+Tobacco Submission- Tends To 
+
+
+Contradict Or Fails To Support His 
+Justification For The Regulations... 20 
+
+
+B. The Regulations’ Ban On Advertising Is 
+Far More Extensive Than Necessary... 23 
+
+
+Coetetiite oo a a xx co uo cau eas beaeeens eee 25 
+
+
+vi 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Bolger v. Youngs Drug Products Corp., 463 U.S. 60 
+CODES) ows cede cand pevins haere 11 
+Butler v. Michigan, 352 U.S. 380 (1957) ......... 11 
+Carey v. Population Services International, 431 U.S. 
+CIE CIGTE) oo acces oeeiaedenceeeeeeen 12, 13 
+
+
+Central Hudson Gas & Electric Corp. v. Public 
+Service Commission, 447 U.S. 557 (1980) .... passim 
+
+
+City of Cincinnati v. Discovery Network, Inc., 507 
+Os MAO CERES. once ck thon cenave ses ceee 12,14 
+
+
+City of Ladue v. Gilleo, 512 U.S. 43 (1994) ...... 24 
+
+
+Denver Area Educational Telecommunications 
+Consortium, Inc. v. Federal Communications 
+Commission, 518 U.S. 727 (1996) ............ 11 
+
+
+Edenfield v. Fane, 507 U.S. 761 (1993) ....... 18, 19, 22 
+
+
+Food & Drug Administration v. Brown & Williamson 
+Tobacco Corp., 529 U.S. 120 (2000) .......... 21 
+
+
+44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484 
+fo) eee rr: rye rr 12, 15, 16, 17, 22, 24 
+
+
+Vil 
+
+
+Cited Authorities 
+Page 
+
+
+Greater New Orleans Broadcasting Ass'n v. United 
+States, $27 U.S. 173 C1SPF) .. wacensas 10, 16, 17, 18 
+
+
+Police Department v. Mosley, 408 U.S. 92 (1972) ... 14 
+
+
+Posadas de Puerto Rico Associates v. Tourism Co. 
+of Puerto Rico, 478 U.S. 328 (1986) .......... 17 
+
+
+R.A.V. v. City of St. Paul, 505 U.S. 377 (1992) ..... 10, 14 
+
+
+Rosenberger v. Rector of University of Virginia, 515 
+io. : 24) .) Spee eee se eae er re 14 
+
+
+Rubin v. Coors Brewing Co., 514 U.S. 476 (1995) ... 18 
+
+
+Sable Communications of California, Inc. v. Federal 
+Communications Commission, 492 U.S. 115 
+ti. Mere erry TT Tee eee eee rte e ee 17 
+
+
+United States v. Playboy Entertainment Group, Inc., 
+bop eee Oo eee aie 10, 11 
+
+
+United States v. Schwimmer, 279 U.S. 644 (1929), 
+overruled by Girouard v. United States, 328 U.S. 
+| eee Pe mer ea ts mer oe renee 11 
+
+
+West Virginia State Board of Education v. Barnette, 
+poy BOS Ro" OG Re errr Tae ae 15 
+
+
+vill 
+- Cited Authorities 
+Page 
+
+United States Constitution: 
+Pe TN os S05 cd kek see es kenw ees passim 
+TT eee | l 
+Statutes: 
+Uk So 6 renee erry errr Se 4 
+ee a PEED kd beds Phase bacsdh iu ened 1 
+Fla. Stat. Ann. ch. 569.4 (West Supp. 2001) ...... 24 
+a a ere re rere 1 
+Mass. Gen. Laws oh. 935A, § 4.0.2... 0. ccccccee 7, 24 
+Mass. Gen. Laws ch. 270, § 6 ..............02- 24 
+N.Y. Pub. Health § 1399-cc (McKinney Supp. 
+
+| ee eee rr ot rE ry ere oe 24 
+Ohio Rev. Code Ann. § 2927.021 (West 2000) .... 24 
+Ohio Rev. Code Ann. § 2927.022 (West 2000) .... 24 
+
+
+Wyo. Stat. Ann. § 14-3-302 (West 2000) ........ 24 
+
+
+| 
+j 
+‘ 
+
+
+1x 
+
+
+Cited Authorities 
+Page 
+
+940 C.M.R. §§ 21.00-.07 ......... cece eee ences 1 
+
+SARC PER. 0 ZUG onic cviceeninssrecssisac. 5 
+
+Lon %  & Ee: Pen er ee se 13 
+
+940 C.M.R. § 21.04(2)(c) .. 0... cece eee e ce eees 2, 6 
+
+940 C.M.R. § 21.04(2)(d).. 0... ee eee eee eee 2,6 
+
+940 C.MLR. § 21.04(5) ...... cc cccescceccccess 2,6 
+
+940 C.M.R. § 21.04(5)(D) .......- eee ee eee eee: 3 
+
+O40 CR. § 21.0006) . 2... c cee cewescess 4,15 
+
+gtk fe eek | eee errr rere Tee ree 13 
+
+Other Authorities: 
+
+Regulations Restricting the Sale and Distribution of 
+Cigarettes and Smokeless Tobacco to Protect 
+Children and Adolescents; Revocation, 65 Fed. 
+
+Reg. 17135 (Mar. 31, 2000) .............---: ai, 20 
+
+George Orwell, 1984 (1949) ........-.--0e ee eee 15 
+
+
+OPINIONS BELOW 
+
+The opinion of the United States Court of Appeals for 
+the First Circuit is reported at Consolidated Cigar Corp. v. 
+Reilly, 218 F.3d 30 (ist Cir. 2000). Pet. App. 1a-45a. 
+The memoranda and orders of the United States District Court 
+for the District of Massachusetts are reported at Lorillard 
+Tobacco Co. v. Reilly, 76 F. Supp. 2d 124 (D. Mass. 1999), 
+and Lorillard Tobacco Co. v. Reilly, 84 F. Supp. 2d 180 
+(D. Mass. 2000). Pet. App. 46a-60a and 61a-104a, 
+respectively. 
+
+
+JURISDICTION 
+
+
+The United States Court of Appeais for the First Circuit 
+entered its judgment on July 17, 2000. This Court has 
+jurisdiction pursuant to 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL, STATUTORY AND 
+REGULATORY PROVISIONS INVOLVED 
+
+
+The regulations of the Massachusetts Attorney 
+General that give rise to this case are codified at 940 C.M.R. 
+§§ 21.00-.07. Pet. App. 105a-14a. The statute under which 
+these regulations were promulgated is Mass. Gen. Laws ch. 
+93A, § 2. Pet. App. 127a. 
+
+
+The First Amendment to the United States Constitution, 
+as made applicable to the States by the Fourteenth 
+Amendment, provides in relevant part: “Congress shall make 
+no law . . . abridging the freedom of speech ... .” 
+
+
+2 
+STATEMENT OF THE CASE 
+
+
+Petitioner U.S. Smokeless Tobacco Company 
+(“USSTC”)' respectfully submits this Brief in order to present 
+facts and arguments that are uniquely applicable to USSTC, 
+the only Petitioner challenging the regulations of the 
+Massachusetts Attorney General specifically with respect 
+to smokeless tobacco.” While it joined with Lorillard Tobacco 
+Company, Brown & Williamson Tobacco Corporation, 
+R.J. Reynolds Tobacco Company, and Philip Morris 
+Incorporated (the “Cigarette Petitioners”) in seeking 
+certiorari, USSTC commenced its own action challenging 
+the regulations in the District Court. See JA 16-26. Although 
+its action was consolidated below with the related cases filed 
+by the Cigarette Petitioners and the cigar manufacturer and 
+retailer Petitioners, USSTC has throughout the course of this 
+litigation maintained its own, separate claims.’ 
+
+
+During a period of time in which the State itself 
+recognized that there has been a “steady and significant 
+decline” in underage smokeless tobacco consumption 
+
+
+1. Effective January 1, 2001, United States Tobacco Company 
+changed its name to U.S. Smokeless Tobacco Company. For ease of 
+reference, and in order to avoid confusion, only the new name is 
+used in this Brief. 
+
+
+2. USSTC is challenging the following provisions of the 
+regulations in this Court: 940 C.M.R. §§ 21.04(2)(c), 21.04(2)(d), 
+and 21.04(5). 
+
+
+3. Whenever possible, USSTC relies on the Brief submitted by 
+the Cigarette Petitioners, and limits its presentation here in order to 
+avoid repetition. 
+
+
+3 
+
+
+(Cir. JA 4580),* the Massachusetts Attorney General, as part 
+of his declared “war against Big Tobacco” (JA 248), 
+promulgated regulations ostensibly to address the incidence 
+of, inter alia, underage smokeless tobacco consumption 
+(Pet. App. 105a). The regulations amount to a virtual ban on 
+smokeless tobacco advertising in metropolitan 
+Massachusetts. At the same time, Massachusetts was 
+spending up to sixteen million dollars per year on anti- 
+tobacco advertising. See JA 92. In its decision upholding 
+the regulations against all challenges, the Court of Appeals 
+noted the “sharp decline in the use of smokeless tobacco by 
+young people” (Pet. App. 23a) and expressly acknowledged 
+USSTC’s “frustration at increased regulation while current 
+efforts seem to be bearing fruit” (id. at 24a). 
+
+
+PROCEEDINGS BELOW 
+
+
+On May 26, 1999, USSTC filed its Complaint for 
+Declaratory and Injunctive Relief in the United States District 
+Court for the District of Massachusetts, challenging the 
+validity of certain provisions of the regulations primarily on 
+the grounds that they violated the First Amendment and the 
+Supremacy Clause. JA 16-26. 
+
+
+The District Court granted in part and denied 
+in part Petitioners’ cross-motions for summary judgment 
+on First Amendment grounds, upholding the regulations 
+except for its ruling that 940 C.M.R. § 21.04(5)(b), 
+which prohibits indoor advertising below five feet, was 
+unconstitutional. Pet. App. 82a-83a. In addition, in a separate 
+memorandum and order, the District Court granted in part 
+
+
+4. The Joint Consolidated Appendix filed in the United States 
+Court of Appeals for the First Circuit is referred to in this Brief as 
+a> Oh 
+
+
+4 
+
+
+and denied in part Petitioners’ cross-motions for summary 
+judgment on preemption grounds. Jd. at 59a-60a. The District 
+Court held that the only section of the regulations preempted 
+by the FCLAA was 940 C.M.R. § 21.04(6), which permitted 
+outdoor signs limited in size to 576 square inches and to 
+the words, “Tobacco Products Sold Here.” Pet. App. 57a, 
+59a-60a. 
+
+
+The District Court entered final judgment on January 
+25, 2000, and USSTC filed its notice of appeal the next day. 
+JA 6. The Court of Appeals stayed the regulations pending 
+appeal on January 31, 2000, and thereafter consolidated the 
+various District Court cases for review. /d. at 8-9. On July 
+17, 2000, the Court of Appeals, with the following exception, 
+affirmed the District Court’s First Amendment decision: 
+it reversed the District Court’s ruling for Petitioners on 
+indoor advertising below five feet, thus upholding the 
+regulations in their entirety against the First Amendment 
+challenges. Jd. at 31a-32a, 45a. In addition, the Court of 
+Appeals affirmed the District Court’s decision as to 
+preemption. Jd. at 13a, 45a.° 
+
+
+[Source-boundary omission] 
+
+
+5. The District Court’s decision that 940 C.M.R. § 21.04(6) is 
+preempted by Section 5 of the Federal Cigarette Labeling and 
+Advertising Act, as amended, 15 U.S.C. § 1334 (the “FCLAA”), 
+and nonseverable as to smokeless tobacco was not appealed by the 
+Attorney General and therefore was not at issue in the Court of 
+Appeals. Pet. App. 6a & n.2. USSTC contended below that if the 
+regulations are preempted as to cigarettes, then they should be 
+preempted by the FCCLA with respect to smokeless tobacco on the 
+grounds that the regulations cannot be severed in their application 
+between the two. To the extent that this Court finds the regulations 
+preempted by the FCCLA, they should be invalidated as to both 
+cigarettes and smokeless tobacco. 
+
+
+5 
+FACTS 
+
+
+Petitioner USSTC, through its subsidiaries, manufactures 
+smokeless tobacco products and engages in truthful 
+and nonmisleading advertising throughout the United States 
+and in Massachusetts. Cir. JA 3754-62. USSTC’s advertising 
+promotes its smokeless tobacco products to adult tobacco 
+consumers and provides them with truthful brand, 
+availability, price and other information. Jd. In addition, 
+all of USSTC’s advertisements for years have included 
+the following message: “U.S. Tobacco Reminds You 
+__ Smokeless Tobacco — Not For Sale To Minors.” Jd. 
+USSTC also uses self-service displays in the advertising of 
+its smokeless tobacco products, which permit consumers to 
+compare product attributes (such as freshness information) 
+and prices without having to ask a store clerk for assistance. 
+Id. at 3755-56, 3762. 
+
+
+It is undisputed that Massachusetts has, in recent years, 
+seen a “steady and significant decline” in underage smokeless 
+tobacco consumption. Jd. at 4580. In fact, the Attorney 
+General’s submission below reveals that minors’ smokeless 
+tobacco consumption in Massachusetts dropped nearly 50% 
+from 1993 to 1999 — from 9.4% in 1993 to 6% in 1997, 
+with a further reduction to 4.9% in 1999. JA 284, 287. During 
+this period of decline, the Attorney General promulgated the 
+regulations, in his words, “to eliminate deception and 
+unfairness in the way cigarettes and smokeless tobacco 
+products are marketed, sold and distributed in Massachusetts 
+in order to address the incidence of cigarette smoking 
+and smokeless tobacco use by children under legal age.” 
+940 C.M.R. § 21.01. The regulations declare all outdoor 
+cigarette and smokeless tobacco advertising, and indoor 
+cigarette and smokeless tobacco advertising visible from or 
+
+
+6 
+
+
+directed toward the outside of the retail premises, within 
+1,000 feet of any school, public park or public playground 
+to be “unfair or deceptive.” See 940 C.M.R. § 21.04(5).° 
+Thus, the practical effect of the regulations is virtually to 
+ban the advertising of smokeless tobacco products in 
+metropolitan Massachusetts. JA 164-67.’ 
+
+
+The Attorney General conceded, for purposes 
+of summary judgment, the truthful and nonmisleading 
+
+
+6. As to the remaining regulations challenged here by USSTC, 
+940 C.M.R. § 21.04(2)(c) effectively bans the use of self-service 
+display advertising of smokeless tobacco products at retail outlets, 
+and 940 C.M.R. § 21.04(2)(d) requires that smokeless tobacco 
+products be placed “out of the reach of all consumers, and in a 
+location accessible only to outlet personnel.” USSTC’s self-service 
+display advertising communicates the availability of particular brands 
+at the retail location, identifies their price, provides freshness 
+information, and may include a selling message. Cir. JA 3757. These 
+advertisements provide consumers with truthful information about 
+USSTC’s products and are in no way misleading. Jd. All current 
+self-service displays also include a diamond-shaped icon that states, 
+“U.S. Tobacco Reminds You — Smokeless Tobacco — Not For Sale 
+To Minors.” Jd. 
+
+
+7. Restrictrons on outdoor advertising that the Cigarette 
+Petitioners have accepted by way of agreement are not applicable to 
+USSTC. In November 1998, while the regulations were still proposed 
+and pending public notice and comment, forty-five States — but 
+notably not including Massachusetts — resolved certain claims 
+against USSTC by entering into the Smokeless Tobacco Master 
+Settlement Agreement (“STMSA”). The restrictions on outdoor 
+advertising contained in the STMSA are virtually identical to the 
+outdoor advertising provisions contained in the Master Settlement 
+Agreement entered into by the Cigarette Petitioners and forty-six 
+
+- States, including Massachusetts. However, these provisions of the 
+STMSA are inapplicable in Massachusetts in light of the 
+Commonwealth’s failure to join the STMSA. 
+
+
+a Oe a ec 
+
+
+7 
+
+
+nature of USSTC’s speech concerning a lawful activity 
+(Pet. App. 17a), and maintained that whether USSTC’s 
+advertisements are unfair or deceptive is not “relevant to the 
+subject matter of this litigation.” Cir. JA 549-52. The 
+Attorney General also acknowledged that the effect of the 
+regulations is to ban tobacco advertising for the specific 
+purpose of suppressing the content of the advertising, i.e., 
+its alleged positive imagery. See id. at 541-42. At the same 
+time, from 1994 to 1999, Massachusetts spent between eleven 
+and sixteen million dollars per year on advertising in an effort 
+to reduce tobacco consumption among the entire population. 
+JA 92. 
+
+
+With respect to alternatives to the regulations, 
+the Attorney General has conceded that he did not consider 
+any, other than “to rely on existing enforcement, educational 
+and other efforts to reduce youth access to tobacco.” 
+Cir. JA 3738-39. Other alternatives to the regulations, 
+however, are available. For example, Massachusetts does not 
+have in place a retailer licensing scheme for the purpose of 
+supervising compliance with laws prohibiting sales of 
+tobacco products to minors (id. at 293 7), or laws prohibiting 
+“the purchase, possession or use of tobacco products by 
+minors themselves” (id. at 2930). In addition, the Attorney 
+General already has the power, without the regulations, to 
+address any purportedly unfair or deceptive tobacco 
+advertising. See Mass. Gen. Laws ch. 93A, § 4. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The regulations violate the First Amendment whether 
+they are reviewed under strict scrutiny or the four-part test 
+set forth in Central Hudson Gas & Electric Corp. v. Public 
+Service Commission, 447 U.S. 557 (1980). 
+
+
+—_ — a a 
+
+
+8 
+
+
+Content-based speech restrictions are presumptively 
+unconstitutional. Any attempt to ban the content of speech 
+because it expresses a particular message or thought with which 
+the State disagrees should be subject to strict scrutiny, regardless 
+of whether the speech is commercial in character or not. Here, 
+for policy reasons entirely unrelated to ensuring a fair bargaining 
+process, the Attorney General has promulgated a content-based 
+regulatory scheme that effectively would ban the concededly 
+truthful and nonmisleading advertising of smokeless tobacco 
+products in metropolitan Massachusetts. At the same time, 
+Massachusetts is at liberty to pursue its “war against Big 
+Tobacco” (JA 248) through all available means, including State- 
+sponsored anti-tobacco speech. Applying strict scrutiny, the 
+regulations must be invalidated. 
+
+
+The regulations also fail to pass constitutional muster under 
+the intermediate scrutiny test applicable to commercial speech 
+under Central Hudson and its progeny. First, the Attorney 
+General fails to demonstrate that the regulations directly and 
+materially advance the asserted governmental interest. Indeed, 
+his token submission as to smokeless tobacco tends to contradict 
+or fails to support the alleged causal link between advertising 
+and underage consumption. Second, the regulations’ effective 
+ban on advertising is far more extensive than necessary. The 
+Attorney General has admitted that he has not even considered 
+alternatives to the regulations, other than continuing current 
+efforts (Cir. JA 3738-39) — the same efforts, inter alia, that 
+already have resulted in a “steady and significant decline” in 
+minors’ smokeless tobacco consumption (id. at 4580). 
+His refusal to consider these alternative measures is particularly - 
+troubling when the Attorney General has conceded that one of 
+these measures — a retailer licensing scheme — has been 
+demonstrated elsewhere to “drastically reduce” the rate of illegal 
+sales to minors. Jd. at 2937. 
+
+
+9 
+
+
+ARGUMENT 
+
+
+I. STRICT SCRUTINY SHOULD APPLY TO 
+CONTENT-BASED SPEECH RESTRICTIONS 
+THAT ARE UNRELATED TO ENSURING A FAIR 
+BARGAINING PROCESS. 
+
+
+The regulations constitute presumptively un- 
+constitutional, content-based speech restrictions that should 
+receive strict scrutiny, despite the commercial aspects of the 
+speech they purport to prohibit. The Court of Appeals itself 
+reached the following conclusions that USSTC submits 
+warrant the application of strict scrutiny: the regulations 
+(i) are “plainly content-based” (Pet. App. 14a); (ii) do not 
+“further the state’s interest in prohibiting the dispersion of 
+false and misleading information to consumers” (id. at 28a 
+n.11); (iii) serve to “dispel[{] the advertising-encouraged 
+notion that tobacco products are pervasive and form part of 
+the ‘good life’ ” (id. at 29a); and (iv) do not proscribe 
+“tobacco-related speech that has a purpose or effect other 
+than promotion” (id. at 14a). 
+
+
+Despite these conclusions, the Court of Appeals applied 
+only a Central Hudson analysis. In its decision, the Court of 
+Appeals acknowledged the “recent rumblings from members 
+of the Supreme Court and others suggesting that the Central 
+Hudson test may be in need of minor or major modification,” 
+but nevertheless declined to apply strict scrutiny. Jd. at 16a. 
+USSTC respectfully submits that the nature of the regulations 
+in this case merits strict scrutiny review.* 
+
+
+8. The application of strict scrutiny to the regulations is 
+consistent with this Court’s prior decisions. However, to the extent 
+that its application here would mark a departure from existing case 
+law, USSTC submits that strict scrutiny should apply to the 
+regulations for the reasons set forth herein and in the Brief submitted 
+by the Cigarette Petitioners. 
+
+
+10 
+
+
+A. Strict Scrutiny Applies To Content-Based Speech 
+Restrictions. 
+
+
+A cornerstone of First Amendment jurisprudence is the 
+presumptive unconstitutionality of content-based speech 
+restrictions, which receive strict scrutiny. “Content-based 
+regulations are presumptively invalid,” R.A.V. v. City of St. 
+Paul, 505 U.S. 377, 382 (1992), and “a content-based speech 
+restriction ... can stand only if it satisfies strict scrutiny,” 
+United States v. Playboy Entm t Group, Inc., 1120S. Ct. 1878, 
+1886 (2000).° 
+
+
+This foundation, upon which rest many of this Court’s 
+most important First Amendment decisions, exists for good 
+reason: content suppression interferes with a central purpose 
+of the First Amendment, that every “citizen is entitled to seek 
+out or reject certain ideas or influences without Government 
+interference or control.” Jd. at 1889; see Greater New Orleans 
+Broad. Ass’n v. United States, 527 U.S. 173, 195 (1999) 
+(“presumption that the speaker and the audience, not the 
+Government, should be left to assess the value of accurate 
+and nonmisleading information about lawful conduct’). 
+In addition, the urge of government officials to silence speech 
+with which they disagree is all too great, and a strong 
+rule that protects the content of speech from government 
+control, backed up by strict scrutiny, helps to keep 
+this temptation in check. “Reviewing speech regulations 
+under fairly strict categorical rules keeps the starch in the 
+
+
+9. While the regulations do not totally ban smokeless tobacco 
+advertising, “[i]t is of no moment that [they do] not impose a complete 
+prohibition. The distinction between laws burdening and laws 
+banning speech is but a matter of degree. The Government’s content- 
+based burdens must satisfy the same rigorous scrutiny as its content- 
+based bans.” Playboy Entm t, 120 S. Ct. at 1886. 
+
+
+11 
+
+
+standards for those moments when the daily politics cries 
+loudest for limiting what may be said.” Denver Area Educ. 
+Telecomms. Consortium, Inc. v. FCC, 518 U.S. 727, 774 
+(1996) (Souter, J., concurring). 
+
+
+Indeed, the First Amendment does not exist to protect 
+favored speech, but rather to ensure the viability of disfavored 
+speech. “[I]f there is any principle of the Constitution that 
+more imperatively calls for attachment than any other it is 
+the principle of free thought — not free thought for those 
+who agree with us but freedom for the thought that we hate.” 
+United States v. Schwimmer, 279 U.S. 644, 654-55 (1929) 
+(Holmes, J., dissenting), overruled by Girouard v. United 
+States, 328 U.S. 61, 68-69 (1946). Regardless of whether or 
+not the Attorney General believes that he is serving legitimate 
+interests by silencing tobacco companies, the First 
+Amendment prohibits him from doing so. 
+
+
+These principles should be no less applicable to USSTC’s 
+advertising merely because the speech is suppressed 
+for the stated purpose of addressing underage smokeless 
+tobacco consumption, unquestionably a laudable goal. 
+In Playboy Entertainment, this Court held that content-based 
+restrictions must be reviewed under strict scrutiny, even 
+when the purpose of the restrictions is to protect minors. 
+120 S. Ct. at 1885-87. The Playboy Entertainment decision 
+thus reaffirms prior speech cases holding that an interest 
+in protecting minors does not relieve the government of 
+its responsibility to act in conformity with the Constitution. 
+See, e.g., Butler v. Michigan, 352 U.S. 380, 383 (1957) 
+(speech restrictions may not “reduce the adult population... 
+to reading only what is fit for children” as “sjurely, this is 
+to burn the house to roast the pig”); Bolger v. Youngs Drug 
+Prods. Corp., 463 U.S. 60, 74 (1983) (“The level of discourse 
+reaching a mailbox simply cannot be limited to that which 
+would be suitable for a sandbox.”). 
+
+
+12 
+
+
+B. The Regulations Effectively Ban Advertising For 
+Reasons Unrelated To Ensuring A Fair Bargaining 
+Process. 
+
+
+Commercial speech restrictions traditionally have been 
+subject to only intermediate scrutiny because they are based 
+on the government’s interest in ensuring a fair bargaining 
+process. In 44 Liquormart, Inc. v. Rhode Island, 517 U.S. 
+484 (1996), Justice Stevens observed that this Court has 
+endorsed the view that it “is the State’s interest in protecting 
+consumers from ‘commercial harms’ that provides 
+‘the typical reason why commercial speech can be subject to 
+greater governmental regulation.’ ” Jd. at 502 (quoting City 
+of Cincinnati v. Discovery Network, Inc., 507 U.S. 410, 426 
+(1993)). As Justice Stevens explained, “the State retains less 
+regulatory authority when its commercial speech restrictions 
+strike at ‘the substance-of the information communicated’ 
+rather than the ‘commercial aspect of [it] — with offerors 
+communicating offers to offerees.’ ” 44 Liquormart, 517 U.S. 
+at 499 (alteration in original) (citations omitted). Thus, this 
+Court’s “early cases uniformly struck down several broadly 
+based bans on truthful, nonmisleading commercial speech, 
+each of which served ends unrelated to consumer protection.” 
+Id. at 497-98. See Carey v. Population Servs. Int’l, 431 U.S. 
+678, 701 (1977) (holding unconstitutional restrictions that 
+were designed, in part, to protect minors from 
+“advertisements of contraceptive products .. . [that] would 
+legitimize sexual activity of young people’”’). 
+
+
+In the instant case, the regulations are not directed to 
+ensuring a fair bargaining process, and thus the theoretical 
+basis for applying less than strict scrutiny is absent. Indeed, 
+the Court of Appeals was “not persuaded that the regulations 
+further the state’s interest in prohibiting the dispersion of 
+
+
+13 
+
+
+false and misleading information to consumers.” Pet. App. 
+28a n.11. In addition, the Attorney General essentially has 
+admitted as much, contending that whether USSTC’s 
+advertisements are unfair or deceptive is not “relevant to the 
+subject matter of this litigation.” See Cir. JA 549-52. Because 
+the regulations strike “at the ideas conveyed and form of 
+expression,” Carey, 431 U.S. at 701 n.28, and not at 
+any commercial aspect of USSTC’s speech, strict scrutiny 
+should apply. 
+
+
+C. The Regulations Effectively Ban Speech That 
+Promotes Smokeless Tobacco Brands While 
+Permitting The State To Communicate Anti-Tobacco 
+Messages At Will. 
+
+
+The Attorney General has conceded that the regulations 
+are specifically intended to suppress the alleged positive 
+imagery associated with tobacco. See Cir. JA 541-42. As the 
+Court of Appeals noted, the regulations serve to “dispel[] 
+the advertising-encouraged notion that tobacco products are 
+pervasive and form part of the ‘good life’ ” (Pet. App. 29a) 
+and proscribe only speech “ ‘the purpose or effect of which 
+is to promote the use or sale of . . . tobacco’ ” (id. at 14a) 
+(quoting 940 C.M.R. §§ 21.03, 22.03). 
+
+
+Yet, at the same time that USSTC’s speech promoting 
+its brands is effectively silenced by the regulations, the State 
+is permitted free reign to communicate its anti-tobacco 
+messages.'° Indeed, then-Attorney General Scott Harshbarger 
+
+
+10. In addition to communicating other information, USSTC’s 
+advertising also presents its particular viewpoint that its smokeless 
+tobacco products are for sale to adults only, which is captured in the 
+following message included in all of USSTC’s advertisements: 
+
+(Cont’d) 
+
+
+14 
+announced his decision to promulgate the regulations as part 
+of Massachusetts’ continuing “war against Big Tobacco.” 
+JA 248. Massachusetts’ arsenal in this “war” includes State- 
+sponsored anti-tobacco speech. For instance, from 1994 to 
+1999 the Commonwealth spent between eleven and sixteen 
+million dollars per year on television, radio, billboard and 
+print advertising in an effort to reduce tobacco consumption 
+among the entire population. JA 92. In addition, anti-tobacco 
+speech by private individuals or groups is left unfettered by 
+the regulations, because they do not proscribe “tobacco- 
+related speech that has a purpose or effect other than 
+promotion.” Pet. App. 14a. Under the First Amendment, 
+however, government may not “license one 
+side of a debate to fight freestyle, while requiring the 
+
+
+other to follow Marquis of Queensberry rules.” R.A.V., 505 
+US. at 392. 
+
+
+“[A]bove all else, the First Amendment means that 
+government has no power to restrict expression because of 
+its message ....” Police Dept v. Mosley, 408 U.S. 92, 95 
+(1972)."' Thus, despite his desire to silence USSTC, the 
+Attorney General is not allowed to dictate the scope of a 
+permissible, official dialogue about smokeless tobacco by 
+
+
+(Cont'd) 
+
+“U.S. Tobacco Reminds You — Smokeless Tobacco — Not For Sale 
+To Minors.” Cir. JA 3756-62. It is of no moment that this viewpoint 
+on a matter of public concern is contained within advertising, because 
+“the interest in protecting the free flow of information and ideas is 
+still present when such expression is found in a commercial context.” 
+Discovery Network, 507 U.S. at 426 n.21). 
+
+
+11. Strict scrutiny applies in such cases because “[vJiewpoint 
+discrimination is . . . an egregious form of content discrimination.” 
+Rosenberger v. Rector of Univ. of Va., 515 U.S. 819, 829 (1995). 
+
+
+15 
+
+
+censoring the disfavored view and declaring as the gospel 
+the State’s own message. See W. Va. State Bd. of Educ. v. 
+Barnette, 319 U.S. 624, 642 (1943) (“no official, high or 
+petty, can prescribe what shall be orthodox in politics, 
+nationalism, religion, or other matters of opinion”). Such a 
+regime constitutes pure thought control that is more 
+appropriate for Orwell than for Lowell because, in our 
+system, there can be no “Ministry of Truth.” See George 
+Orwell, 1984 (1949)." 
+
+
+When the State disfavors a particular message, 
+“ ‘the remedy to be applied is more speech, not enforced 
+silence.’ ” 44 Liquormart, 517 U.S. at 498 (quoting Whitney 
+v. California, 274 U.S. 357, 377 (1927), overruled 
+by Brandenburg v. Ohio, 395 U.S. 444, 449 (1969)). 
+The Commonwealth has shown that it is quite capable of 
+responding to any thoughts or messages it dislikes.-As the 
+Attorney General advised the Court of Appeals, the 
+“Commonwealth’s tobacco control efforts include ... a 
+sustained counter-advertising campaign.” Brief of Defendant- 
+Appellee at 8 (1st Cir.) (No. 01117). At atime when tobacco 
+companies are being vilified, there exists an even greater 
+need to protect USSTC’s constitutional rights to promote its 
+smokeless tobacco brands to adult tobacco consumers and 
+to communicate its stance against the sale of smokeless 
+tobacco products to minors. 
+
+
+For the foregoing reasons, the regulations should be 
+reviewed under strict scrutiny, a test they cannot pass. 
+
+
+. 12. Indeed, the regulations as promulgated included an express 
+exception for State-sanctioned tobacco advertising, in the form of 
+outdoor signs no larger than 576 square inches, that were limited in 
+content to black text on a white background stating “Tobacco 
+Products Sold Here.” 940 C.M.R. § 21.04(6). 
+
+
+16 
+
+
+Il. EVEN IF THE CENTRAL HUDSON TEST 
+PROVIDES THE APPROPRIATE STANDARD FOR 
+EVALUATING THE REGULATIONS, THEY FAIL 
+TO MEET CONSTITUTIONAL REQUIREMENTS. 
+
+
+Even if this Court decides that the Central Hudson test 
+provides the appropriate standard for assessing the 
+constitutionality of the regulations, the Court of Appeals’ 
+decision on Central Hudsons third and fourth parts — which 
+rests on a highly deferential standard of review more akin to 
+rational basis than intermediate scrutiny — should be 
+reversed with respect to USSTC because the Attorney General 
+has failed to meet his “burden of. . . justifying the challenged 
+restriction[s].” Greater New Orleans, 527 U.S. at 183."° 
+
+
+The Court of Appeals’ decision that the Attorney 
+General’s token submission as to smokeless tobacco satisfies 
+Central Hudson's third part is incorrect, and reflects a level 
+of deference to the Attorney General’s judgment that is 
+fundamentally at odds with 44 Liquormart.'* See 517 U.S. 
+
+
+13. The first and second parts of the Central Hudson test are 
+not at issue. The first part — that the speech at issue concern lawful 
+activity and be truthful and nonmisleading — was not at issue in the 
+Court of Appeals because the Attorney General conceded this point 
+for purposes of summary judgment. Pet. App. 17a. Similarly, the 
+second part’s requirement of a substantial state interest was not 
+challenged by USSTC. See Plaintiff’s (USSTC’s) Memorandum Of 
+Law In Opposition To Motion For Partial Summary Judgment 
+(First Amendment Claims) at 10 n.11 (D. Mass.) (99-11118). 
+
+
+14. In 44 Liquormart, this Court specifically rejected the 
+deferential approach to regulation applied here by the Court of 
+Appeals. 517 U.S. at 510; id. at 531-32 (O’Connor, J., concurring) 
+(“exarain[ing] more searchingly the State’s professed goal, and the 
+speech restrictions put into place to further it, ... comports better 
+with the purpose of the analysis set out in Central Hudson’). Indeed, 
+
+(Cont'd) 
+
+
+17 
+
+
+at 509-10; id. at 531-32 (O’Connor, J., concurring). 
+The Attorney General’s submission as to smokeless tobacco, 
+which USSTC submits is patently inadequate, tends to 
+contradict or fails to support the stated justification for the 
+regulations. 
+
+
+With respect to Cen'ral Hudson's fourth part, the 
+regulations cannot be deemed no more extensive than 
+necessary in light of (i) the “steady and significant decline” 
+in underage smokeless tobacco consumption that has been 
+occurring over the past decade in the absence of the 
+regulations (Cir. JA 4580), and (ii) numerous less restrictive 
+alternatives to the regulations, including one that the Attorney 
+General has recognized could “drastically” reduce the sale 
+of tobacco products to minors (id. at 2937). 
+
+
+A. The Attorney Gerneral’s Smokeless Tobacco 
+Submission Fails To Demonstrate That The 
+Regulations Will Directly And Materially Reduce 
+Minors’ Smokeless Tebacco Consumption. 
+
+
+Under the third part cf Central Hudson, the Attorney 
+General must demonstrate that the regulations “directly and 
+materially advance[] the asserted governmental interest.” 
+
+
+(Cont’d) 
+
+the Court of Appeals’ extreme deference to the Attorney General 
+seems to be more in accord with the rationale of Posadas de Puerto 
+Rico Associates v. Tourism Co. of Puerto Rico, 478 U.S. 328 (1986), 
+which this Court has rejected than with this Court’s more recent 
+decisions. See Greater New Crleans, 527 U.S. at 182 (noting that 
+the 44 Liquormart Court found that Supreme Court precedent “both 
+preceding and following Posadas had applied the Central Hudson 
+test more strictly”); see also Sable Communications of Cal., Inc. v. 
+FCC, 492 U.S. 115, 129 (1989) (“ ‘Deference to a legislative finding 
+cannot limit judicial inquiry when First Amendment rights are at 
+stake.’ ” (quoting Landmark Communications, Inc. v. Virginia, 435 
+U.S. 829, 843 (1978))). 
+
+
+18 
+
+
+Greater New Orleans, 527 U.S. at 188. “ ‘[T]}his requirement 
+is critical; otherwise “a State could with ease restrict 
+commercial speech in the service \of other objectives that 
+could not themselves justify a burden on commercial 
+expression.” ” ” Jd. (citations omitted). “ ‘This burden is not 
+satisfied by mere speculation or conjecture; rather, a 
+governmental body seeking to sustain a restriction on 
+commercial speech must demonstrate that the harms it recites 
+are real and that its restriction will in fact alleviate them to a 
+material degree.’ ” Jd. (quoting Edenfield v. Fane, 507 U.S. 
+761, 770-71 (1993)); see also Rubin v. Coors Brewing Co., 
+514 U.S. 476, 490 (1995) (“[A]necdotal evidence and 
+educated guesses” are insufficient.). Consequently, the 
+Attorney General must prove that the regulations do more 
+than merely provide “ineffective or remote support” for the 
+stated objective. Central Hudson, 447 U.S. at 564. 
+
+
+In the instant case, the Court of Appeals held, with 
+respect to smokeless tobacco, that “[t]he product-specific 
+information submitted by the Attorney General, taken in 
+conjunction with the other statistical and anecdotal 
+information presented,” satisfies Central Hudson ’ third part. 
+Pet. App. 27a. USSTC respectfully submits that this holding 
+was erroneous. The Attorney General’s smokeless tobacco- 
+specific submission is meager, and what little there is tends 
+to contradict or fails to support the Attorney General’s 
+justification for the regulations. 
+
+
+19 
+
+
+1. The Attorney General Cannot Rely On 
+Information Related To Cigarette Advertising To j 
+Ban Smokeless Tobacco Advertising. 
+
+
+As the Court of Appeals recognized, the Attorney 
+General’s submission below related predominantly to 
+cigarettes. Pet. App. 27a. However, the Attorney General 
+cannot justify restrictions on speech regarding one product 
+based on data submitted with respect to another, particularly 
+when the data itself demonstrate-a lack of parity between the 
+products on the very issues critical to the First Amendment 
+inquiry. See Central Hudson, 447 U.S. at 564 (“ineffective 
+or remote support” insufficient); Edenfield, 507 U.S. at 770 
+(“mere speculation or conjecture” insufficient). 
+
+
+According to the Attorney General’s submission, while 
+cigarette smoking among ninth through twelfth-graders in 
+Massachusetts increased between 1993 and 1997, smokeless 
+tobacco consumption within the same population sample 
+“declined steadily” and “significantly” (Cir. JA 1074-75, 
+1078); while minors were successful 42% of the time when 
+illegally purchasing cigarettes, minors were successful 
+15% of the time when purchasing smokeless tobacco (id. at 
+2471); and while cigarettes were accessible to shoplifters 
+in 50.5% of subject outlets in a survey, smokeless tobacco 
+was accessible to shoplifters in 6.1% of the same outlets 
+(id. at 2477). Given this lack of parity, the Attorney General’s 
+reliance on data relating to cigarettes to censor smokeless 
+tobacco advertising cannot survive scrutiny under Central 
+Hudson. 
+
+
+\ 
+
+
+20 
+
+
+2. The Attorney General’s Smokeless Tobacco 
+Submission Tends To Contradict Or Fails To 
+Support His Justification For The Regulations. 
+
+
+As an initial matter, the Attorney General’s extremely 
+limited smokeless tobacco-specific submission includes a 
+1999 Massachusetts Department of Education survey thatt 
+shows that smokeless tobacco usage among minors im 
+Massachusetts has “declined steadily” and “significantly” 
+since 1993, from 9.4% in 1993 to 6% in 1997 (Cir. JA 1074, 
+1078), with a further reduction to 4.9% in 1999 (JA 284, 
+287). This decline has occurred in the absence of the 
+regulations. 
+
+
+In addition, an “observational study” relied upon by the 
+Attorney General tends to contradict the Attorney General’s: 
+proposition that advertising causes minors’ demand for 
+tobacco products. Cir. JA 2469-89. This study observed a 
+“lack of association between illegal sales rates and. 
+advertising” and noted that “others have reported similar 
+findings.” Jd. at 2482.'° Another study cited by the Attorney 
+General (2516-22), which was conducted in California. 
+in 1990, 1992, and 1993, found that advertising 
+was “associated” with consumption but questioned the 
+“directionality of the relationship,” stressing that an 
+association between perception of advertising and 
+
+
+consumption does not “provide evidence suggesting a causal 
+link” (id. at 2521)."° 
+
+
+15. Indeed, the expert testimony of record confirms that 
+family influence and peer pressure — not advertising — principally 
+
+
+influence whether minors will consume tobacco products. 
+JA 151-52. 
+
+
+16. There are other examples that reveal the self-contradictory 
+or irrelevant nature of the Attorney General’s submission with respect 
+
+
+to smokeless tobacco. For instance, two other “studies” in the 
+(Cont’d) 
+
+
+21 
+
+
+Finally, the Attorney General’s smokeless tobacco 
+submission includes conclusory statements made by the Food 
+and Drug Administration (the “FDA”). In connection with 
+the adoption of its vacated rule concerning tobacco products, 
+the FDA asserted that a shift in smokeless tobacco 
+consumption trends during the 1970s and early 1980s 
+signaled the “effectiveness of advertising.” Jd. at 1531." 
+
+
+(Cont'd) ¢ 
+Attorney General’s submission mention advertising and smokeless 
+tobacco, but they do not address whether any causal link 
+exists between smokeless tobacco advertising and minors’ 
+consumption. The first, written over ten years ago, describes 
+smokeless tobacco advertisements from roughly fifteen to thirty 
+years ago. Cir. JA 2559-66. It does not discuss USSTC’s point-of- 
+sale and outdoor advertising, let alone USSTC’s current advertising. 
+The other study is entitled, Smokeless tobacco brand preference and 
+brand switching among US adolescents and young adults. 
+Id. at 2490-95. The purpose of this study was, inter alia, to “describe 
+the brand preference of young smokeless tobacco users” as it related 
+to duration and intensity of consumption (id. at 2490) — not whether 
+there is a causal link between smokeless tobacco advertising and 
+minors’ consumption. Also, the Attorney General’s submission 
+includes the 1994 Report of the Surgeon General, Preventing 
+Tobacco Use Among Young People (id. at 1203-376), which contains 
+isolated paragraphs that purport to address smokeless tobacco 
+marketing and usage trends in the 1970s and the mid-1980s 
+(id. at 1336). This report, however, does not rely on current 
+\ information or analyze whether there is a causal link between 
+smokeless tobacco advertising specifically and minors’ consumption. 
+
+
+17. Even assuming, arguendo, that the FDA’s conclusory 
+opinion could help justify the regulations, the FDA rulemaking 
+pursuant to which the statement was made was held by this Court to 
+be beyond the FDA’s jurisdiction. See Food & Drug Admin. v. Brown 
+& Williamson Tobacco Corp., 529 U.S. 120 (2000). The FDA revoked 
+and removed the subject regulations after this Court’s ruling that it 
+
+
+lacked jurisdiction. See Regulations Restricting the Sale 
+(Cont'd) 
+
+
+| | niatcimeaica en 
+
+
+22 
+
+
+The FDA rulemaking, however, addressed only alleged 
+decades-old marketing, and, in any event, the agency 
+conceded that there is not a single study that “[e]stablish[es] 
+that advertising has an effect of directly causing minors to 
+use tobacco products.” Jd. at 1523."* 
+
+
+If the third part of Central Hudson can be satisfied by 
+this record, which actually tends to contradict or does not 
+support the Attorney General’s justification for the 
+regulations as to smokeless tobacco, then surely the 
+requirement is rendered meaningless. See Edenfield, 507 U.S. 
+at 772 (invalidating speech restrictions when evidence tended 
+to “contradict[], rather than strengthen[]” the justifications 
+for the restrictions). In 44 Liquormart, 517 U.S. 484, Justice 
+Stevens reasoned that in the absence of any evidence it could 
+not be assumed for third prong purposes that price advertising 
+for alcohol affected temperance. See id. at 505-07. Similarly, 
+the Court of Appeals here could point to no relevant evidence 
+demonstrating a causal link between smokeless tobacco 
+advertising and consumption by minors, and in essence relied 
+instead only on the kind of “ ‘speculation and conjecture’ 
+that is an unacceptable means of demonstrating that a 
+restriction on commercial speech directly advances the State’s 
+asserted interest.” Jd. at 507 (citation omitted). 
+
+(Cont'd) 
+and Distribution of Cigarettes and Smokeless Tobacco to Protect 
+
+
+Children and Adolescents; Revocation, 65 Fed. Reg. 17135, 17136 
+(Mar. 31, 2000). 
+
+
+18. In another example of its overly deferential approach to 
+the regulations, the Court of Appeals expressly recognized USSTC’s 
+objection that the purported basis for the FDA’s conclusory statement 
+in its rulemaking was “dated” and “d[id] not specifically evaluate 
+the impact of outdoor advertising,” but nonetheless held that 
+“such objections demand more than Central Hudson requires.” 
+Pet. App. 23a. 
+
+
+23 aoe 
+
+
+B. The Regulations’ Ban On Advertising Is Far More 
+Extensive Than Necessary. 
+
+
+The fourth Central Hudson requirement is that 
+the restriction must not be more extensive than necessary to 
+serve the asserted interest. Central Hudson, 447 U.S. at 566. 
+Given that the regulations were promulgated during the midst 
+of a period of steady and significant decline in minors’ 
+consumption of smokeless tobacco products, and without 
+regard for less restrictive means of further reducing minors’ 
+consumption, they cannot meet this part of the test. As an 
+initial matter, the best proof of the regulations’ failure to meet 
+the fourth part is reflected by the Court_of Appeals’ 
+conclusion, based on the Attorney General’s own submission, 
+that “current efforts seem to be bearing fruit” with respect to 
+the noted decline in underage smokeless tobacco 
+consumption. Pet. App. 24a. If the asserted interest is being 
+well-served in the absence of speech restrictions, how can it 
+possibly be said that the regulations are no more extensive 
+than necessary? 
+
+
+\ 
+
+
+Further, the Attorney General has conceded that he did 
+not consider any alternatives to the regulations, other than 
+“to rely on existing enforcement, educational and other efforts 
+to reduce youth access to tobacco.” Cir. JA 3739. As might 
+be expected, there are numerous alternatives to banning 
+USSTC’s speech that would directly advance the Attorney 
+General’s stated purpose of reducing minors’ consumption 
+of smokeless tobacco products. Notably, Massachusetts has 
+
+no licensing scheme to supervise compliance with laws 
+prohibiting sales of tobacco products to minors. Yet the 
+Attorney General’s 1994 survey found that such a licensing 
+program could “drastically reduce the sale of tobacco 
+products to minors.” Cir. JA 2937. In addition, minors could 
+
+
+24 
+
+
+be prohibited from purchasing, possessing, or consuming 
+tobacco products. Furthermore, enforcement of existing laws 
+that penalize the sale of tobacco (such as Mass. Gen. Laws 
+ch. 270, § 6) could be strengthened, such as by encouraging 
+retailers to use electronic age verification measures. '® Finally, 
+the Attorney General already has the power to combat 
+advertising that actually is unfair or deceptive on a case-by- 
+case basis. See Mass. Gen. Laws ch. 93A, § 4. Such an 
+approach would be far less restrictive than the current 
+declaration that all smokeless tobacco advertising is, ipso 
+facto, unfair and deceptive.” 
+
+
+It can hardly be said that the regulations’ effective ban 
+on smokeless tobacco advertising is no more extensive than 
+
+
+19. Four States to date have adopted legislation authorizing 
+retailers to use such verification measures. See Fla. Stat. Ann. ch. 
+569.4 (West Supp. 2001); N.Y. Pub. Health § 1399-cc (McKinney 
+Supp. 2001); Ohio Rev. Code Ann. §§ 2927.021, 2927.022 (West 
+2000); Wyo. Stat. Ann. § 14-3-302 (West 2000). 
+
+
+20. Moreover, the regulations’ effective ban on advertising 
+leaves no adequate, alternative means for USSTC to communicate, 
+inter alia, its age of purchase message, “U.S. Tobacco Reminds You 
+— Smokeless Tobacco — Not For Sale To Minors,” selling message, 
+product availability, freshness information, and price at retail 
+locations. Cir. JA 3755-57. In 44 Liquormart, this Court’s ruling 
+that the advertising restriction at issue was more extensive than 
+necessary was based on the following: “[the restriction] prevent[ed] 
+sellers of alcohol from communicating price information anywhere 
+but at the point of purchase,” “[n]o channels exist[ed] at all to permit 
+them to publicize the price,” 517 U.S. at 530-31 (O’Connor, J., 
+concurring), and alternatives to the price advertising ban were 
+available, id. at 507. For the same reasons, the regulations here are 
+more extensive than necessary and fail Central Hudson's fourth part. 
+
+- See also City of Ladue v. Gilleo, 512 U.S. 43, 57 (1994) (recognizing 
+there was “no practical substitute” to prohibited residential signs). 
+
+
+ceiling (titan Cynieie ap mTe + © ea 
+
+
+25 
+
+
+necessary, in light of the steady and significant decline in 
+minors’ smokeless tobacco consumption in the absence of 
+the regulations, the foregone alternatives noted above, and 
+the Attorney General’s existing ability to proceed against 
+advertising that is, in actuality, unfair or deceptive. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Petitioner US STC respectfully 
+requests that this Court reverse the judgment of the Court of 
+Appeals. 
+
+
+Respectfully submitted, 
+
+
+PETER J. MCKENNA 
+\ Counsel of Record 
+Eric S. SARNER 
+SKADDEN, ARPS, SLATE, 
+MEAGHER & FLomM LLP. “=~- 
+Four Times Square 
+New York, NY 10036 
+(212) 735-3000 
+
+
+Counsel for Petitioner 
+U.S. Smokeless Tobacco Company 
+
+
+February 22, 2001 
+
+

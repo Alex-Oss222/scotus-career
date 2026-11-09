@@ -1,0 +1,1577 @@
+( lon 22, z2¢0/ "FILED 
+() JAN 22 2001 
+No. 00-5961 
+OFFICE OF THE CLERK 
+In The 
+
+
+Supreme Court of the United States 
+
+
+¢ 
+
+
+MELVIN TYLER, 
+
+
+Petitioner, 
+versus 
+
+
+BURL CAIN, WARDEN, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fifth Circuit 
+
+
+« 
+
+
+BRIEF FOR PETITIONER 
+o 
+
+
+Hersert V. LARSON, JR. 
+
+700 Camp Street 
+
+New Orleans, Louisiana 70130 
+(504) 528-9500 
+
+Counsel of Record 
+
+
+Scott L. NELtson 
+
+2555 M Street, N.W. 
+Washington, D.C. 20037 
+(202) 833-5142 
+
+
+Attorneys for Petitioner 
+Melvin Tyler 
+
+
+i 
+
+
+QUESTIONS PRESENTED FOR REVIEW 
+I. 
+
+
+Whether a petition for a writ of habeas corpus assert- 
+ing a claim of error under Cage v. Louisiana, 498 U.S. 39 
+(1990), relies on a “new rule of constitutional law, made 
+retroactive to cases on collateral review by the Supreme 
+Court,” within the meaning of 28 U.S.C. § 2244(b)(2)(A) 
+[the Anti-Terrorism and Effective Death Penalty Act). 
+
+
+ll. 
+
+
+Whether the new rule of constitutional law 
+announced by this Court in Cage v. Louisiana, 498 U.S. 39 
+(1990) should be made retroactively applicable to peti- 
+tioners seeking collateral review of their convictions. 
+
+
+ii 
+
+
+PARTIES TO THE PROCEEDINGS 
+IN THE COURTS BELOW 
+
+
+1. Melvin Tyler 
+2. Burl Cain, Warden 
+
+
+3. The State of Louisiana 
+
+
+ili 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED FOR REVIEW ........... i 
+PARTIES TO THE PROCEEDINGS IN THE COURTS 
+DT SPERGUUASESEC SSC 0Ccescoccecccecccecoccees ii 
+MEE I PUTED co cc cccccccccccccccccccccess iii 
+TABLE OF AUTIIORITIES ...... ccc cccccccccccccees iv 
+OPINIONS OF THE COURTS BELOW ............. 1 
+GSS SSC Seeceoescccceccocccecccccccces 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+DEED secsccccccccccncececccccceeces 2 
+STATEMENT OF THE CASE...............0000000. 2 
+SUMMARY OF THE ARGUMENT ................. 8 
+TT SERGUGSGGGeesedseescosascccscceccecces 11 
+
+
+I. A HABEAS PETITIONER WHO CLAIMS CAGE 
+ERROR RELIES ON A NEW RULE OF CONSTI- 
+TUTIONAL LAW, MADE RETROACTIVE TO 
+CASES ON COLLATERAL REVIEW BY THE 
+i Us coscecccccccececccccsceceses 11 
+
+
+A. Cage Announced a New Rule.............. 11 
+
+
+B. Section 2244(b)(2)(A) Does Not Require that 
+a New Rule Be Made Retroactive by a Direct 
+Sees GE GS CUE on. ccc cccccicccccess 13 
+
+
+C. The Rule in Cage Has Been Made Retroactive to 
+Cases on Collateral Review by this Court.... 22 
+
+
+Il. IF CAGE HAS NOT YET BEEN MADE RETRO- 
+ACTIVE BY THIS COURT WITHIN THE MEAN- 
+ING OF THE AEDPA, THIS COURT SHOULD 
+TE /pocecccebencessocececceces 30 
+
+
+i PGERGSSSeESCescecsecoccccccccccccccs 31 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+Page 
+
+
+Cases 
+
+
+Adams v. Aiken, 965 F.2d 1306 (4th Cir.1992), cert. 
+denied, sub nom. Adams v. Evatt, 508 U.S. 974 
+(1993), reh'g granted, 511 U.S. 1001 (1994) ..13, 20, 28 
+
+
+Adams v. Aiken, 41 F.3d 175 (4th Cir.1994)........ 13, 29 
+Adams v. Evatt, 511 U.S. 1001 (1994)................. 28 
+American Tobacco Company v. Patterson, 456 U.S. 63 
+
+SE 6s 6pecechacncgecendéaesaceceensucasoneeuenss 21 
+Arizona v. Fulminante, 499 U.S. 279 (1991) ........ 24, 26 
+Bailey v. United States, 516 U.S. 137 (1995).......... 18 
+Bousley v. United States, 523 U.S. 614 (1998) ...... 17, 19 
+Brown v. Lensing, 171 F.3d 1031 (5th Cir.1999) ...... 6, 7 
+Butler v. McKellar, 494 U.S. 407 (1990)............ 11, 24 
+Cage v. Louisiana, 498 U.S. 39 (1990)............. passim 
+Cleveland v. United States, 121 S. Ct. 365 (2000)...... 18 
+Gaines v. Kelly, 202 F.3d 598 (2d Cir.2000)........ 13, 20 
+Goeke v. Branch, 514 U.S. 115 (1995) ................. 11 
+Graham v. Collins, 506 U.S. 461 (1993) ............ 11, 24 
+Harmon v. Marshall, 69 F.3d 963 (9th Cir.1995)....... 20 
+Humphrey v. Cain, 120 F.3d 526 (5th Cir.1997)........ 29 
+
+
+Humphrey v. Cain, 138 F.3d 552 (5th Cir.1998) (en 
+banc), cert. denied, 525 U.S. 935 (1998)... .6, 7, 12, 13, 20 
+
+
+In re Hill, 113 F.3d 181 (11th Cir.1997) .............. 13 
+In re Smith, 142 F.3d 832 (5th Cir.1998)........ 6, 13, 14 
+
+
+EE or eee 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+In re Winship, 397 U.S. 358 (1970) ............-00000: 12 
+Jackson v. Virginia, 443 U.S. 307 (1979)............... 12 
+Jones v. United States, 120 S. Ct. 1904 (2000)......... 18 
+Lindh v. Murphy, 521 U.S. 320 (1997) ............045. 14 
+Mackey v. United States, 401 U.S. 667 (1971)....... 22, 23 
+Neder v. United States, 527 U.S. 1 (1999)............. 26 
+Nevius v. Sumner, 105 F.3d 453 (9th Cir.1996)........ 13 
+
+
+Nutter v. White, 39 F.3d 1154 (11th Cir.1994) 
+soe eceseccsccoecceeceseceesnsesoedsesece 13, 20, 26, 27 
+
+
+O'Dell v. Netherland, 521 U.S. 461 (1997)............. 11 
+Rodriguez v. Superintendent, Bay State Correctional 
+Center, 139 F.3d 270 (1st Cir.1998)..............4.. 13 
+Saffle v. Parks, 494 U.S. 484 (1990). ...........25000e. 11 
+Sawyer v. Smith, 497 U.S. 227 (1990).............005- 23 
+State v. Cage, 554 So.2d 39 (La.1989)................. 12 
+State v. McDaniel, 410 So.2d 754 (La.1982)........... 12 
+State v. Messiah, 538 So.2d 175 (La.1988)............. 12 
+State v. Penns, 758 So.2d 776 (La.1999) .............. 12 
+State v. Schoonover, 211 So.2d 273 (La.1968).......... 12 
+State v. Taylor, 410 So.2d 224 (La.1982) .............. 12 
+State v. Tyler, 363 So.2d 902 (La.1978) .............0.- 3 
+Sullivan v. Louisiana, 508 U.S. 275 (1993)......... passim 
+Teague v. Lane, 489 U.S. 288 (1989) .............. passim 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+Tillman v. Cook, 215 F.3d 1116 (10th Cir.2000)..... 13, 20 
+Victor v. Nebraska, 511 U.S. 1 (1994).......... 12, 28, 29 
+
+
+West v. Vaughn, 204 F.3d 53 (3rd Cir.2000) 
+seuseaeadesebsncbueedaaeseeened 13, 15, 17, 20, 21 
+
+
+Williams v. Taylor, 120 S. Ct. 1479 (2000).......... 15, 16 
+Williams v. Taylor, 120 S. Ct. 1495 (2000)............. 17 
+
+
++ an OO EE OT ey Oar verte. 
+
+
+LO AON OO, PI OO 
+
+
+OPINIONS DELIVERED IN THE COURTS BELOW 
+
+
+The opinion of the United States Court of Appeals for 
+the Fifth Circuit being reviewed by this Court, Tyler v. 
+Cain, #98-31159 (June 1, 2000), is not reported. It is found 
+in the Joint Appendix at pages 14-15. The “Memorandum 
+and Order” of the United States District Court for the 
+Eastern District of Louisiana, which denied Tyler’s peti- 
+tion for habeas relief pursuant to 28 U.S.C. § 2254 is also 
+unreported. This “Memorandum and Order” is found in 
+the Joint Appendix at pages 4-13. 
+
+
+} 
+
+
+JURISDICTION 
+
+
+The United States District Court for the Eastern Dis- 
+trict of Louisiana had jurisdiction over petitioner’s suc- 
+cessive application for a writ of habeas corpus under 28 
+U.S.C. § 1241, an order of the United States Court of 
+Appeals for the Fifth Circuit authorizing the filing of the 
+application under 28 U.S.C. § 1244(a)(3) having been 
+issued on April 29, 1997. The Court of Appeals had 
+jurisdiction over petitioner’s appeal from the denial of 
+the application for habeas corpus under 28 U.S.C. §§ 1291 
+and 2253. A certificate of appealability under 28 U.S.C. 
+§ 2253(c) was issued on October 23, 1998. The Fifth Cir- 
+cuit issued its opinion in the case on June 1, 2000, and 
+petitioner timely filed a petition for a writ of certiorari on 
+August 28, 2000, which was granted on December 11, 
+2000. This Court has jurisdiction under 28 U.S.C. § 1254. 
+
+
+¢ 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The Sixth Amendment to the United States Constitu- 
+tion, provides, in pertinent part: 
+
+
+In all criminal prosecutions, the accused shall 
+enjoy the right to a speedy and public trial, by 
+an impartial jury... 
+
+
+The Fourteenth Amendment to the United States 
+Constitution provides, in pertinent part: 
+
+
+. nor shall any State deprive any person of 
+life, liberty, or property, without due process of 
+law... 
+
+
+Title 28, United States Code, Section 2244 provides, in 
+pertinent part: 
+
+
+(b)(2) A claim presented in a second or succes- 
+sive habeas corpus application under section 
+2254 that was not presented in a prior applica- 
+tion shall be dismissed unless - 
+
+
+(A) the applicant shows that the claim 
+relies on a new rule of constitutional law, 
+made retroactive to cases on collateral 
+review by the Supreme Court, that was pre- 
+viously unavailable; .. . 
+
+
+¢ 
+
+
+STATEMENT OF THE CASE 
+
+
+On March 20, 1975, Melvin Tyler got into a fight with 
+his girlfriend over whether she would reconcile with her 
+husband. After drinking himself into a rage, he went to 
+her house, stood in the alleyway outside the house, and 
+fired a .22 caliber pistol into a draped and enclosed 
+
+
+ee 
+
+
+window. Unbeknownst to him, Tyler’s twenty-day-old 
+daughter lay asleep under the window. Tyler’s shots rico- 
+cheted, hitting the infant, causing her death. Tyler was 
+arrested, prosecuted, and convicted of second-degree 
+murder in the Criminal District Court for the Parish of 
+Orleans, State of Louisiana. See State v. Tyler, 363 So.2d 
+902 (La.1978). 
+
+
+At Tyler’s trial, the following definition of reasonable 
+doubt was given: 
+
+
+If you entertain any reasonable doubt as to any 
+fact or element necessary to constitute the 
+defendant’s guilt, it is your sworn duty to give 
+him the benefit of that doubt and return a ver- 
+dict of acquittal. Even where the evidence dem- 
+onstrates a probability of guilt, yet if it does not 
+establish it beyond a reasonable doubt, you 
+must acquit the accused. 
+
+
+This doubt must be a reasonable one; that is, one 
+founded upon a real, tangible, substantial basis, 
+and not upon mere caprice, fancy or conjecture. 
+It must be such a doubt as would give rise to a 
+grave uncertainty, raised in your minds by rea- 
+son of the unsatisfactory character of the evi- 
+dence; one that would make you feel that you 
+had not an abiding conviction to a moral cer- 
+tainty of the defendant's guilt. If, after giving a 
+fair and impartial consideration of all the facts 
+in the case, you find the evidence unsatisfactory 
+upon any single point indispensably necessary 
+to constitute the defendant's guilt, this would 
+give rise to such a reasonable doubt as would 
+justify you in rendering a verdict of not guilty. 
+
+
+The prosecution must establish guilt by legal 
+and sufficient evidence beyond a reasonable 
+
+
+doubt, but the rule does not go further and 
+require a preponderance of testimony. It is 
+incumbent upon the state to prove the offense 
+charged, or legally included in the indictment, 
+to your satisfaction and beyond a reasonable 
+doubt. A reasonabie doubt is not a mere possi- 
+ble doubt. It should be an actual or substantial 
+doubt. It is such a doubt as a reasonable man 
+would seriously entertain. It is a serious doubt 
+for which you could give good reason. 
+
+
+After his conviction and sentence of life imprison- 
+ment were affirmed by the Louisiana Supreme Court, 
+Tyler began seeking post-conviction relief, in both state 
+and federal court. Included in these efforts were five 
+petitions for post-conviction relief in the Louisiana state 
+courts, and one petition in federal court. See State ex rel. 
+Tyler v. Maggio, 428 So.2d 483 (La.1982); State v. Tyler, 430 
+So.2d 92 (La.1983); State ex rel. Tyler v. State, 437 So.2d 
+1142 (La.1983); State v. Tyler, 446 So.2d 1226 (La.1984); 
+State ex rel. Tyler v. Blackburn, 494 So.2d 1171 (La.1986); 
+and Tyler v. Butler, #88cv4929, (E.D.La.), aff'd, Tyler v. 
+Butler, #90-3275 (5th Cir.1990). 
+
+
+In November 1990, this Court handed down its deci- 
+sion in Cage v. Louisiana, 498 U.S. 39 (1990). Because the 
+jury instruction defining reasonable doubt given at 
+Tyler’s trial was virtually identical to the instruction con- 
+demned in Cage,! in 1995 Tyler filed his sixth petition for 
+
+
+1 Like the instruction condemned in Cage, Tyler’s jury 
+instruction contained the following phrases: “It must be such a 
+doubt as would give rise to a grave uncertainty raised in your minds 
+by reasons of the unsatisfactory character of the evidence; one 
+that would make you feel that you had not an abiding conviction 
+
+
+post-conviction relief in the state district court, raising 
+inter alia a claim that his jury had been given an erro- 
+neous instruction regarding reasonable doubt. Tyler had 
+not previously raised this claim. 
+
+
+This petition was denied by the state district court, 
+and then by the Louisiana Supreme Court, in December 
+1996. State ex rel. Tyler v. Cain, 684 So.2d 950 (1996). 
+
+
+Having exhausted his state remedies, Tyler turned to 
+federal court. In early 1997, Tyler filed a petition in the 
+United States Court of Appeals for the Fifth Circuit for 
+authorization to file a successive petition for federal 
+habeas relief under 28 U.S.C. § 2254.2 
+
+
+In April 1997, the Court of Appeals granted Tyler 
+leave to file the successive application, but limited the 
+successive application to “whether Cage v. Louisiana, 498 
+U.S. 39 (1990) should be applied retroactively on collat- 
+eral review and whether the jury instruction on reason- 
+able doubt given to his jury was unconstitutional under 
+Cage and Victor v. Nebraska, 511 U.S. 1 (1994)... .” (Joint 
+Appendix, p.3). 
+
+
+Thereafter, Tyler presented his Cage claim to the dis- 
+trict court. In its order dated September 10, 1998, (Joint 
+
+
+to a moral certainty of the defendant's guilt. * * * It should be an 
+actual or substantial doubt.” (Emphasis added.) 
+
+
+2 The Anti-Terrorism and Effective Death Penalty Act 
+(AEDPA), 28 U.S.C. § 2244(b)(3)(A), provides as follows: 
+
+
+(3)(A) Before a second or successive application 
+permitted by this section is filed in the district court, 
+the applicant shall move in the appropriate court of 
+appeals for an order authorizing the district court to 
+consider the application. 
+
+
+Appendix, pp.4-13) the district court held that Cage must 
+be applied retroactively, because of the en banc opinion of 
+the United States Court of Appeals for the Fifth Circuit in 
+Humphrey v. Cain, 138 F.3d 552 (5th Cir.1998). (Memoran- 
+dum and Order, Joint Appendix, pp.7-8). 
+
+
+However, the district court denied Tyler relief. In the 
+view of the district court, the Anti-Terrorism and Effec- 
+tive Death Penalty Act (AEDPA), specifically 28 U.S.C. 
+§ 2254(d)(1), changed the standard of review for state 
+habeas petitioners, and under the new standard of 
+resew, a “Cage-type” instruction like the one given at 
+Tyler’s trial was in fact acceptable. (Memorandum and 
+Order, Joint Appendix, pp.11-12). 
+
+
+Tyler timely appealed the judgment of the district 
+court to the Court of Appeals for the Fifth Circuit. 
+
+
+The Court of Appeals did not reach the substantive 
+issues presented by Tyler’s appeal, but instead concluded 
+that 
+
+
+[t]he district court erred in not determining first 
+whether Tyler’s petition satisfied AEDPA’s suc- 
+cessive habeas standard, 28 U.S.C. 
+§ 2244(b)(2)(A). Procedurally, this case is gov- 
+erned by Brown v. Lensing, 171 F.3d 1031 (5th 
+Cir.1999), which relies on In re Smith, 142 F.3d 832 
+(5th Cir.1998,. Under circumstances indis- 
+tinguishable from this case, petitioner Brown was 
+denied successive habeas relief because he could 
+not show that any Supreme Court decision ren- 
+ders the Cage decision retroactively applicable to 
+cases on collateral review, as AEDPA now 
+requires. Moreover, the Brown case specifically 
+disapproved the district court’s approach in this 
+case. Brown, 171 F.3d at 1032 n.9. 
+
+
+WLR EPR x 
+ny gE < yee 
+>. ug ag 
+
+
+7 
+
+
+Like cases demand like treatment. Tyler’s 
+successive petition fails according to Brown and 
+§ 2244(b)(2)(A). 
+
+
+(Joint Appendix, p.15). 
+
+
+In substance, what the Fifth Circuit held was that 
+Tyler could not obtain relief under Cage in a successive 
+habeas petition, even though the Fifth Circuit itself, sit- 
+ting en banc in Humphrey v. Cain, 138 F.3d 552 (5th 
+Cir.1998), had held Cage retroactively applicable to 
+habeas corpus petitions. Following its rulings in Smith 
+and Brown, the court ruled that under 28 U.S.C. 
+§ 2244(b)(2)(A), it was not enough that the Fifth Circuit 
+(and every other court of appeals to address the issue) 
+had decided that the principles laid down by this Court 
+required that Cage be given retroactive effect. In the Fifth 
+Circuit’s view, the requirement in § 2244(b)(2)(A) that a 
+successive habeas applicant present a claim that “relies 
+on a new rule of constitutional law, made retroactive to 
+cases on collateral review by the Supreme Court, that was 
+previously unavailable,” could be satisfied only if this 
+Court itself directly held that Cage was retroactive. 
+
+
+Tyler’s petition for a writ of certiorari to the Fifth 
+Circuit followed. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+Under the AEDPA, a habeas petitioner may obtain 
+relief in a successive petition if, but only if, he or she 
+satisfies the requirements of 28 U.S.C. § 2244(b)(2). That 
+subsection requires dismissal of a successive petition 
+unless the petitioner establishes that he or she is legit- 
+imately entitled to rely on either newly established rules 
+of law or newly discovered facts warranting relief. As to 
+newly established law, the statute provides that the suc- 
+cessive habeas applicant must show that his claim “relies 
+on a new rule of constitutional law, made retroactive to 
+cases on collateral review by the Supreme Court, that was 
+previously unavailable.” 28 U.S.C. § 2244(b)(2)(A). 
+
+
+The AEDPA neither defines the term “new rule of 
+constitutional law” nor provides standards for determin- 
+ing when a “new rule” applies retroactively. This statu- 
+tory silence, viewed against the backdrop of this Court’s 
+habeas corpus jurisprudence, indicates an intent to incor- 
+porate this Court’s body of cases concerning the defini- 
+tion of new rules and the circumstances under which they 
+are retroactively applicable in habeas proceedings. 
+
+
+The underlying principles of retroactivity are, of 
+course, set forth in this Court’s decision in Teague v. Lane, 
+489 U.S. 288 (1989). Under Teague, a “new rule” of crimi- 
+nal procedure is one not compelled or dictated by prece- 
+dent at the time of its announcement by this Court. Such 
+new rules are retroactively applicable only if they either 
+place substantive conduct beyond the reach of criminal 
+punishment or announce “watershed rules” that are 
+essential to the fairness and reliability of criminal pro- 
+ceedings. When a new rule within the meaning of Teague 
+
+
+has been “made retroactive” by the Court under the 
+criteria set forth in Teague, a successive habeas petition 
+invoking that rule is not subject to dismissal under 
+§ 2244(b)(2)(A). 
+
+
+Here, the rule that petitioner Tyler sought to invoke 
+in his successive habeas application is the holding of Cage 
+v. Louisiana, 498 U.S. 39 (1990), which condemned the 
+reasonable-doubt instruction given to the jury in Tyler’s 
+case. There is no doubt that, from Tyler’s standpoint, Cage 
+announced a “new rule” under Teague, for it postdates the 
+affirmance of his conviction on direct appeal, and it was 
+not dictated by precedent in existence at the time his 
+conviction became final. , 
+
+
+Nonetheless, the Fifth Circuit held that Tyler’s peti- 
+tion was subject to dismissal under § 2244(b)(2)(A) - not 
+because the Cage rule is not retroactive (indeed, the Fifth 
+Circuit agrees with the other courts of appeals that it is 
+retroactive), but because, in the Fifth Circuit’s view, the 
+Cage rule has not yet been “made” retroactive by this 
+Court. 
+
+
+In so holding, the Fifth Circuit has given 
+§ 2244(b)(2)(A) a constricted meaning that is not justified 
+by its language. The statute does not require a direct 
+holding by this Court that a particular rule is retroactive, 
+but only action by this Court that has the effect of “mak- 
+ing” it retroactive. Where precedents of this Court compel 
+the conclusion that a particular new rule must be retroac- 
+tive, that standard is satisfied. 
+
+
+That is the situation in this case. In Sullivan v. Louisi- 
+ana, 508 U.S. 275 (1993), this Court held that Cage error is 
+a “structural error” that is so fundamental to the fairness 
+
+
+10 
+
+
+and accuracy of a criminal proceeding that it can never be 
+harmless error. The reasoning of the Court in Sullivan 
+demonstrates without doubt that Cage must also be retro- 
+actively applicable in habeas proceedings, for the test for 
+“structural error” is substantively identical to the one 
+used to identify “watershed rules” under Teague. Sullivan 
+held that Cage error necessarily vitiates a conviction, and 
+the reasoning that leads to that result also dictates retro- 
+activity. Indeed, the conclusion is so evident that every 
+court of appeals to consider the issue after Sullivan has 
+agreed. 
+
+
+Thus, in a very real sense, this Court has “made” Cage 
+retroactive. The Court of Appeals’ ruling, which is prem- 
+ised solely on the view that Cage has not been made 
+retroactive, must therefore be reversed. 
+
+
+Alternatively, even if this Court has not yet “made” 
+Cage retroactive within the meaning of § 2244(b)(2)(A), 
+the reasoning of Sullivan plainly indicates that it should 
+now do so explicitly. Once the Court takes that step, Cage 
+will without question have been “made” retroactive by 
+this Court, and Tyler’s successive petition will be proper 
+under § 2244(b)(2)(A). Thus, even if the Court agrees with 
+the Fifth Circuit’s construction of § 2244(b)(2)(A), reversal 
+of the decision below will still be required once this Court 
+resolves the question of Cage’s retroactivity. 
+
+
+¢ 
+
+
+— oe 4 ee @ . de —-». 
+
+
+11 
+
+
+ARGUMENT 
+I. 
+
+
+A HABEAS PETITIONER WHO CLAIMS CAGE ERROR 
+RELIES ON A “NEW RULE OF CONSTITUTIONAL 
+LAW, MADE RETROACTIVE TO CASES ON 
+COLLATERAL REVIEW BY THE SUPREME COURT” 
+
+
+A. Cage Announced a “New Rule” 
+
+
+There is no question but that Cage v. Louisiana 
+announced a “new rule” within the meaning of Teague v. 
+Lane, 489 U.S. 288 (1989), and the AEDPA. As Teague 
+makes clear, “a case announces a new rule when it breaks 
+new ground or imposes a new obligation on the States or 
+the Federal Government” — that is, when “the result was 
+not dictated by precedent existing at the time the defen- 
+dant’s conviction became final.” Teague, 489 U.S. at 301. 
+This definition of a new rule has been repeatedly reaf- 
+firmed by the Court. See O'Dell v. Netherland, 521 U.S. 151, 
+156 (1997); Graham v. Collins, 506 U.S. 461, 466-467 (1993). 
+As the Court put it in Goeke v. Branch, 514 U.S. 115 (1995), 
+the question is “whether a state court considering [the 
+defendant's] claim at the time his conviction became final 
+would have felt compelled by existing precedent to con- 
+clude that the rule {he] seeks was required by the Consti- 
+tution.” Jd. at 118 (quoting Saffle v. Parks, 494 U.S. 484, 488 
+(1990)). If an issue was “susceptible to debate among 
+reasonable minds,” the resolution of the issue constitutes 
+a new rule. Butler v. McKellar, 494 U.S. 407, 415 (1990). 
+
+
+Although the rule of Cage was based upon and was 
+consistent with existing precedent, it was not dictated by 
+precedent, and was hardly beyond debate by reasonable 
+jurists. While the theoretical foundations for Cage were 
+
+
+12 
+
+
+laid by In re Winship, 397 U.S. 358 (1970), and Jackson v. 
+Virginia, 443 U.S. 307 (1979), those cases did not by them- 
+selves compel the outcome of Cage before it was decided, 
+and certainly could not have been viewed as dictating the 
+result at the time Tyler’s conviction was affirmed in 
+1978.3 As the Fourth Circuit has stated, “Whether a trial 
+
+
+3 The Louisiana Supreme Court’s treatment of the issue 
+over the years demonstrates that the issue was, at best, 
+uncertain until Cage was decided. That court upheld a similar 
+instruction against federal constitutional challenge in 1968, see 
+State v. Schoonover, 211 So.2d 273 (La.1968), and after a brief 
+detour in which the court struck down such an instruction in 
+1982, see State v. McDaniel, 410 So.2d 754 (La.1982), the court 
+reverted to upholding such instructions, see State v. Taylor, 410 
+So.2d 224 (La.1982); State v. Messiah, 538 So.2d 175 (La.1988). In 
+1989, the court relied upon Taylor and Messiah to uphold the jury 
+instruction given at Tommy Cage's trial. See State v. Cage, 554 
+So.2d 39, 41 (La.1989). This, of course, is the decision that 
+ultimately led to this Court’s decision in Cage v. Louisiana the 
+following year. Remarkably, even after Cage, the Louisiana 
+Supreme Court seems to consider the issue an open one. As the 
+court most recently noted in State v. Penns, 758 So.2d 776, 
+777-778 (La.1999): 
+
+In State v. Smith, 637 So.2d 398, 406, cert. denied, 
+513 U.S. 1045 (1994), this court held that in light of 
+Victor v. Nebraska, 511 U.S. 1 (1994), a so-called Cage 
+instruction, see Cage v. Louisiana, 498 U.S. 39 (1990) 
+(per curiam), did not require reversal of the 
+defendant's conviction on grounds that it diluted the 
+state’s burden of proving the accused's guilt beyond a 
+reasonable doubt in violation of due process 
+guarantees. * * * Unless and until the United States 
+Supreme Court resolves the status of a Cage/Humphrey 
+instruction after Victor, our decisions in Smith and 
+[State v.] Williams [708 So.2d 703 (1998)], as well as our 
+decision in State ex rel. Taylor v. Whitley, 606 So.2d 
+1292 (La.1992) (Cage not retroactively applicable to 
+
+
+RN ANGH oy A 
+
+
+~— 
+
+
+13 
+
+
+court’s unconstitutional misdescription of the burden of 
+proof in a criminal case violates the Due Process Clause 
+was certainly an open question before Cage.” Adams v. 
+Aiken, 41 F.3d 175 (4th Cir.1994). 
+
+
+This conclusion is shared by every court that has 
+considered the question. Tillman v. Cook, 215 F.3d 1116, 
+1122 (10th Cir.2000); Gaines v. Kelly, 202 F.3d 598, 602-03 
+(2d Cir.2000); West v. Vaughn, 204 F.3d 53 (3d Cir.2000); 
+Rodriguez v. Superintendent, Bay State Correctional Center 
+139 F.3d 270, 273-74 (1st Cir.1998); Humphrey v. Cain, 138 
+F.3d 552 (5th Cir.) (en banc), cert. denied, 525 U.S. 935 
+(1998); In re Hill, 113 F.3d 181 (11th Cir.1997); Nevius v. 
+Sumner, 103 F.3d 453 (9th Cir.1996); and Nutter v. White, 39 
+F.3d 1154 (11th Cir.1994). The Fifth Circuit summed the 
+matter up in In re Smith, 142 F.3d 832, 835 (5th Cir.1998): 
+“It is undisputed that Cage announced a new rule of 
+constitutional law.” 
+
+
+B. Section 2244(b)(2)(A) Does Not Require that a 
+New Rule Be “Made Retroactive” by a Direct 
+Holding of this Court 
+
+
+Cage, as a new rule of constitutional law announced 
+by this Court, may serve as the basis for entertaining and 
+granting a successive habeas petition under 28 U.S.C. 
+§ 2244(b)(2)(A) if it has been “made retroactive to cases 
+
+
+final convictions subject only to collateral attack), and 
+not the decision in Humphrey [v. Cain, 138 F.3d 552 
+(Sth Cir.1998) (en banc), cert. denied, 525 U.S. 935 
+(1998)], bind the district courts of this state in 
+reviewing claims that trial judges have read 
+erroneous instructions on reasonable doubt. 
+
+
+14 
+
+
+on collateral review by the Supreme Court.” The premise 
+of the Fifth Circuit’s decision in this case is that the plain 
+meaning of this language permits the filing of a succes- 
+sive petition only when there has been a decision of this 
+Court that directly holds a new rule retroactive on collat- 
+eral review - either by explicitly stating that the rule 
+applies retroactively in such proceedings, or by speci- 
+fically applying the rule in a habeas case. See In re Smith, 
+142 F.3d at 835. 
+
+
+In the view of the Fifth Circuit, absent such a direct 
+holding by this Court, the lower federal courts may not 
+apply the new rule retroactively in a successive habeas 
+petition - even though the Fifth Circuit itself (along with 
+every other federal court of appeals that has reached the 
+issue) has held that the principles of this Court’s deci- 
+sions compel the conclusion that the new rule announced 
+in Cage does apply retroactively in habeas proceedings.* 
+
+
+The Fifth Circuit’s reading of the statute is not, how- 
+ever, commanded by the law’s plain language.> Moreover, 
+its reading carries with it bizarre consequences for the 
+administration of justice under the habeas corpus statute. 
+The statute is equally susceptible of a reading that avoids 
+
+
+4 The result is that in the Fifth Circuit, a state prisoner 
+whose conviction was affirmed before Cage is entitled to have 
+Cage retroactively applied in an initial habeas petition, but not in 
+a successive habeas petition. 
+
+
+5 Reliance on “plain meaning” is hazardous when dealing 
+with the portions of the habeas statute added by the AEDPA, the 
+language of which is often complex and confusing. As this 
+Court has recognized, “in a world of silk purses and pig’s ears, 
+the Act is not a silk purse of the art of statutory drafting.” Lindh 
+v. Murphy, 521 U.S. 320, 336 (1997). 
+
+
+——_— — a ahem - 
+
+
+15 
+
+
+those consequences; a reading that does not necessitate a 
+direct holding by this Court to make a claim retroactively 
+available in a successive habeas petition when retroac- 
+tivity is the unmistakable import of this Court’s rulings. 
+The particular language at issue here - “made retroactive 
+to cases on collateral review by the Supreme Court” - 
+does not yield only a single, unambiguous meaning. 
+Indeed, the meaning ascribed to it by the Fifth Circuit 
+(and other courts that have given it the same reading) is 
+not even its most natural reading. 
+
+
+The statute does not require that a new rule have 
+been “held” retroactive by the Supreme Court, or 
+“applied retroactively” by the Supreme Court - words 
+that would have made it clear that a direct action by the 
+Supreme Court was necessary before a new rule could be 
+relied on in a successive petition. Cf. Williams v. Taylor, 
+120 S. Ct. 1479, 1488 (2000) (Williams I).© Instead, the 
+statute says only that the rule must be “made retroactive 
+to cases on collateral review by the Supreme Court.” As 
+the Third Circuit has recently pointed out, the “many 
+meanings” of “the broader verb ‘made’ ” include “to have 
+‘caused to occur’ and ‘caused to be or become: put in a 
+certain state or condition.’ ” West v. Vaughn, 204 F.3d 53, 
+
+
+© In Williams I, the Court rejected the argument that the use 
+of the term “failed to” in the AEDPA (28 U.S.C. § 2254(e)(2)) was 
+intended to mean simply “did not,” with no implication of fault. 
+The Court stated: “Had Congress intended a no-fault standard, 
+it would have had no difficulty making its intent plain. It would 
+have had to do no more than use, in lieu of the phrase ‘has failed 
+to,’ the phrase ‘did not.’ ” 120 S. Ct. at 1488. 
+
+
+16 
+
+
+59 (2000) (quoting Webster's Third New International Dic- 
+tionary 1363 (1966)). Similarly, the Oxford American Dic- 
+tionary (1980) includes among sixteen listed definitions of 
+the verb to “make” the following: “to establish (laws or 
+rules or distinctions),” “to cause to exist, to produce,” “to 
+result in,” and “to cause to be or become.”” Moreover, the 
+word does not exclude “making” something happen indi- 
+rectly as well as directly. 
+
+
+Notably, where the drafters of the AEDPA intended 
+to require that something be done directly by a specific 
+court, they made that intention plain. For example, one of 
+the triggers for the new one-year statute of limitations for 
+the filing of a habeas petition is “the date on which the 
+constitutional right asserted was initially recognized by 
+the Supreme Court, if the right has been newly recog- 
+nized by the Supreme Court and made retroactively 
+applicable to cases on collateral review.” 28 U.S.C. 
+§ 2244(d)(1)(C). This formulation makes clear that it is the 
+Supreme Court itself that must “initially recognize” and 
+“newly recognize” a right to start the running of the 
+statute of limitations, as distinct from the less specific 
+requirement that the right be “made retroactively applica- 
+ble.” Similarly, § 2244(c) makes judgments of this Court 
+conclusive on issues of fact or law “actually adjudicated 
+by the Supreme Court.” And § 2254(d)(1) provides that 
+only “clearly established Federal law, as determined by 
+the Supreme Court of the United States,” may serve as 
+the basis for habeas relief, making clear that “this Court's 
+
+
+7 Cf. Williams I, 120 S. Ct. at 1488 (noting multiple 
+dictionary definitions of “ fail”). 
+
+
+_— dll a iis a - 
+
+
+17 
+
+
+jurisprudence” is the exclusive source of clearly estab- 
+lished law. Williams v. Taylor (Williams IT), 120 S. Ct. 1495, 
+1523 (2000). 
+
+
+Under § 2244(b)(3), which requires “authorization” 
+by a court of appeals before any successive petition is 
+filed, the drafters of the statute went out of their way to 
+make clear that such “authorization” by the court of 
+appeals must be direct and express, by requiring the 
+petitioner to file a motion in the court of appeals and 
+requiring the court of appeals to “grant or deny the 
+authorization” within 30 days of the filing of the motion. 
+With equal specificity, 28 U.S.C. § 2255 provides for 
+appointment of counsel “except as provided by a rule 
+promulgated by the Supreme Court” (emphasis added). 
+
+
+In all these instances, the statutory language makes 
+unmistakably plain that a particular court must do some- 
+thing actively, directly, and expressly. By contrast, the 
+language of § 2244(b)(2)(A) requires only that this Court 
+must have done (or do) something that has the effect of 
+“making” a new rule retroactive in collateral proceedings. 
+Of course, this language “obviously encompasses direct 
+retroactive application of a rule by the Supreme Court or 
+express statements to that effect,” but those meanings do 
+not “exhaust the phrase.” West v. Vaughn, 204 F.3d at 59. 
+As the Third Circuit has recognized, the language raises 
+the question “whether there are alternative methods 
+through which the Supreme Court could cause a rule to 
+become retroactive.” Id. The answer is definitely yes. 
+
+
+An example makes the point. In Bousley v. United 
+States, 523 U.S. 614, 621 (1998), this Court held that the 
+Teague rule of nonretroactivity does not apply to new 
+
+
+18 
+
+
+decisions that “hol[d] that a substantive federal criminal 
+statute does not reach certain conduct.” Jd. at 620. Rather, 
+after Bousley, such decisions are automatically retroactive 
+in cases on collateral review. See id. It was, of course, 
+necessary for the Court to decide Bousley in order to 
+resolve a conflict among the Circuits over the retroac- 
+tivity of the Court’s decision in Bailey v. United States, 516 
+U.S 137 (1995). 
+
+
+After Bousley, however, retroactivity is no longer an 
+open issue when the Court decides such cases as Jones v. 
+United States, 120 S. Ct. 1904 (2000) (limiting scope of 18 
+U.S.C. § 844(i)), or Cleveland v. United States, 121 S. Ct. 365 
+(2000) (holding that licenses are not “property” under 
+mail and wire fraud statutes). There can be no doubt that, 
+in light of Bousley, this Court “makes” such rulings retro- 
+active in cases on collateral review merely by issuing 
+them: their retroactivity goes without saying. But under 
+the Fifth Circuit’s construction of “made retroactive to 
+cases on collateral review by the Supreme Court,” that is 
+not good enough. Unless this Court were to go through 
+the pointless exercise of taking a case merely to establish 
+what any reasonable jurist would already know was the 
+law, successive petitions seeking the retroactive applica- 
+tion of such new rulings would be barred, even though it 
+must be apparent to everyone that the rulings have in fact 
+been “made retroactive.”® 
+
+
+8 This particular consequence might not often arise for 
+petitions filed under 28 U.S.C. § 2254, to which § 2244(b)(2)(A) is 
+applicable, because this Court does not define the substantive 
+scope of state criminal statutes. But the Bousley principle of 
+automatic retroactivity also applies to decisions holding that 
+certain conduct (for example, flag-burning) may not 
+
+
+19 
+
+
+As this example illustrates, the most vexing conse- 
+quence of the Fifth Circuit’s construction of the statute is 
+that it creates an absurd dilemma: either this Court must 
+take up and decide retroactivity issues that are so obvious 
+that they do not meet the ordinary standards for the 
+exercise of this Court’s certiorari jurisdiction, or prisoners 
+will be denied the right to file successive habeas petitions 
+in precisely the circumstances where such petitions are 
+most clearly justified - that is, when this Court has issued 
+a new rule that all would agree is entitled to retroactive 
+effect on collateral review. The statute itself reflects a 
+recognition that a prisoner should be permitted to obtain 
+habeas relief through a successive petition when this 
+Court has established a new rule of constitutional law 
+that was not previously available to the prisoner and that 
+is retroactive in habeas proceedings. If, however, this 
+Court must explicitly decide the retroactivity question 
+before a new rule becomes available to successive habeas 
+petitioners, the perverse consequence will be that the more 
+obvious it is that a rule should be retroactive, the less likely it 
+
+
+constitutionally be criminalized. See Bousley, 523 U.S. at 620. 
+Such rulings, of course, are applicable to state statutes and may 
+be invoked by state prisoners through petitions under § 2254. 
+Moreover, 28 U.S.C. § 2255, the avenue through which federal 
+prisoners seeking the retroactive application of this Court’s 
+rules of substantive federal criminal law must obtain relief, 
+contains precisely the same requirement that successive 
+motions not based on newly discovered evidence must invoke 
+“a new rule of constitutional law, made retroactive to cases on 
+collateral review by the Supreme Court, that was previously 
+unavailable.” The Fifth Circuit’s interpretation of “made 
+retroactive” would thus potentially choke off access to the court 
+for both state and federal prisoners in cases involving rules that, 
+under Bousley, are necessarily retroactive. - 
+
+
+20 
+
+
+is that a successive petitioner will be able to avail himself of 
+it —- for this Court generally will issue a writ of certiorari 
+only to decide a doubtful issue that has divided the lower 
+courts, not one whose resolution is so easy that it has led 
+to unanimity below. 
+
+
+This case provides a striking illustration. Seven of the 
+twelve regional Circuits have addressed the issue of 
+Cage’s retroactivity. All seven have held that this Court’s 
+ruling in Sullivan v. Louisiana, 508 U.S. 275 (1993), 
+although not addressing retroactivity directly, compels 
+the conclusion that Cage must be given retroactive effect. 
+See Gaines v. Kelly, 202 F.3d 598, 602-03 (2d Cir.2000); West 
+v. Vaughn, 204 F.3d 53 (3d Cir.2000); Adams v. Aiken, 41 
+F.3d 175 (4th Cir.1994); Humphrey v. Cain, 138 F.3d 552 (5th 
+Cir.) (en barc), cert. denied, 525 U.S. 935 (1998); Harmon v. 
+Marshall, 69 F.3d 963 (9th Cir.1995); Tillman v. Cook, 215 
+F.3d 1116, 1122 (10th Cir.2000); Nutter v. White, 39 F.3d 
+1154 (11th Cir.1994). Such uniformity among the lower 
+courts ordinarily would “obviat[e] the need for the 
+Supreme Court to make a future, more explicit pronoun- 
+cement on whether Cage should be applied retroactively.” 
+West v. Vaughn, 204 F.3d at 62. Under the Fifth Circuit’s 
+view of § 2244(b)(2)(A), the very unanimity among the 
+courts of appeals that Cage must be retroactive would 
+effectively bar petitioners such as Tyler from raising it. 
+
+
+Of course, this Court has now granted certiorari in 
+this case in part to resolve the question whether Cage 
+should be given retroactive effect. But absent the direct 
+conflict among the courts of appeals over the construc- 
+tion of § 2244(b)(2)(A) created by the Third Circuit's 
+decision in West v. Vaughn, there is strong reason to doubt 
+
+
+oo. — 
+
+
+21 
+
+
+whether this Court would have considered it worthwhile 
+to address the retroactivity question on which all the 
+lower courts have agreed, and successive habeas peti- 
+tioners in the Fifth Circuit (and other circuits that have 
+adopted a similar construction of § 2244(b)(2)(A)) would 
+simply be out of luck.? Unless this Court imposes upon 
+itself the burden of deciding retroactivity issues that do 
+not satisfy the normal standards for review by this Court, 
+adoption of the Fifth Circuit’s construction of 
+§ 2244(b)(2)(A) will leave future habeas petitioners in the 
+same predicament, in which the easier the retroactivity 
+issue is, the harder it is to obtain relief. 
+
+
+It is axiomatic that, where it is possible, a statute 
+should be read to avoid results that are absurd, unreason- 
+able, and contrary to the underlying purpose of the law. 
+See American Tobacco Company v. Patterson, 456 U.S. 63, 71 
+(1982). The construction of § 2244(b)(2)(A) that the Fifth 
+Circuit has adopted leads to precisely such consequences. 
+To avoid them, the Court should adopt a more plausible 
+and natural reading of the statute, under which a new 
+decision of this Court establishing a constitutional right is 
+“made retroactive” by this Court when the principles of 
+
+
+* In 1999, for example, before the decision in West v. Vaughn 
+made the conflict over § 2244(b)(2)(A) inescapable, this Court 
+(with three Justices dissenting) declined to give plenary 
+consideration to an application for an original writ of habeas 
+corpus raising the Cage retroactivity issue in In re Smith, 119 
+S. Ct. 2064 (1999), despite the Solicitor General's urging that the 
+case be set for briefing and argument. The result was that the 
+Fifth Circuit’s decision denying Mr. Smith leave to file a 
+successive application seeking retroactive relief under Cage was 
+allowed to stand. See In re Smith, 142 F.3d at 842. 
+
+
+22 
+
+
+this Court’s decisions compel the conclusion that it must 
+be retroactive. Given the narrowness of the exceptions to 
+the retroactivity rules of Teague, such cases will doubtless 
+be rare, but they will be precisely the cases in which 
+allowing habeas corpus relief is necessary to vindicate 
+fundamental principles and avoid unjust results. As dem- 
+onstrated below, cases involving claims of Cage error fall 
+into that category. 
+
+
+C. The Rule in Cage Has Been “Made Retroactive” 
+to Cases on Collateral Review by this Court 
+
+
+Under Teague, the new rule of constitutional law 
+announced by the Court in Cage is retroactively applica- 
+ble to cases on collateral review if it falls within one of 
+two “narrow exceptions” to Teague’s general nonretroac- 
+tivity principle. The first exception, inapplicable here, is 
+for rules that “plac[e] ‘certain kinds of primary, private 
+individual conduct beyond the power of the criminal law- 
+making authority to proscribe.’” Teague, 489 U.S. at 307 
+(quoting Mackey v. United States, 401 U.S. 667, 692 (1971) 
+(opinion of Harlan, J.)). The second exception applies to 
+“watershed rules of criminal procedure” that “implicate 
+the fundamental fairness of the trial” and are “central to 
+an accurate determination of innocence or guilt.” Teague, 
+489 U.S. at 311, 312, 313. This Court’s decision in Sullivan 
+v. Louisiana, 508 U.S. 276 (1993), compels the conclusion 
+that the Cage rule falls squarely within the second excep- 
+tion. 
+
+
+In Teague, the Court expressly adopted Justice Har- 
+lan’s view of retroactivity for cases on collateral review, 
+as set forth in his opinion in Mackey v. United States, 401 
+
+
+23 
+
+
+U.S. 667, 675 (1971) — including Justice Harlan’s view that 
+there were but two exceptions to the rule. Teague, 489 U.S. 
+at 311-12. Teague elaborated on the nature of the second 
+exception, which in Justice Harlan’s formulation applied 
+to new rules requiring the observance of “ ‘those pro- 
+cedures that... are “implicit in the concept of ordered 
+liberty.” ’” Teague, 489 U.S. at 311 (quoting Mackey, 401 
+U.S. at 693). According to the Teague Court, Justice Har- 
+lan’s language left “no doubt” that this second exception 
+was “to be reserved for watershed rules of criminal pro- 
+cedure.” !d. 
+
+
+Teague went on to emphasize that the “watershed 
+rules” exception was limited to new rules that combined 
+two essential characteristics, both derived from Justice 
+Harlan’s opinions on retroactivity. See Teague, 489 U.S. at 
+312. First, a rule falling within the second exception must 
+be “central to an accurate determination of innocence or 
+guilt” — that is, it must establish “procedures without 
+which the likelihood of an accurate conviction is seri- 
+ously diminished.” Id. at 313. Second, “the procedure at 
+issue must implicate the fundamental fairness of the 
+trial.” Id. at 312. In Justice Harlan’s words, the new rule 
+must “ ‘alter our understanding of the bedrock procedural 
+elements that must be found to vitiate the fairness of a 
+particular conviction.’ ” Id. (quoting Mackey, 401 U.S. at 
+693-94) (emphasis in Teague). 
+
+
+Subsequent decisions of this Court have reiterated 
+these basic elements of the second Teague exception. For 
+example, in Sawyer v. Smith, 497 U.S. 227 (1990), the Court 
+summarized the exception as follows: “A rule that quali- 
+fies under this exception must not only improve accuracy, 
+
+
+¥ 24 
+
+
+but also ‘ “alter our understanding of the bedrock pro- 
+cedural elements” ’ essential to the fairness of a proceed- 
+ing.” Id. at 242 (citation omitted). See also, e.g., Graham v 
+Collins, 506 U.S. 461, 478 (1993); Butler v. McKellar, 494 
+U.S. 407, 416 (1990). 
+
+
+A rule that satisfies these stringent limitations is in 
+select company indeed. That the rule in Cage falls within 
+this “small core of rules” (Graham v. Collins, 506 U.S. at 
+478), however, has already been effectively determined 
+by this Court’s holding in Sullivan v. Louisiana that the 
+Cage rule is in the equally exclusive company of those 
+rules that are so fundamental to the fairness of a proceed- 
+ing and so essential to the accurate determination of guilt 
+or innocence that their violation can never be harmless 
+error. 
+
+
+In Sullivan, the Court held that a jury instruction 
+identical to the one held unconstitutional in Cage was one 
+of those few “structural defects in the constitution of the 
+trial mechanism, which defy analysis by harmless-error 
+standards.” Sullivan, 508 U.S., at 281 (quoting Arizona v. 
+Fulminante, 499 U.S. 279, 309 (1991)). The Court rested 
+this conclusion on the role of a constitutionally adequate 
+reasonable doubt instruction in ensuring the fundamental 
+right to trial by jury, which “includes, of course, as its 
+most important element, the right to have the jury, rather 
+than the judge, reach the requisite finding of ‘guilty.’ ” Id. 
+at 277. Moreover, the Court emphasized, “the jury verdict 
+required by the Sixth Amendment is a jury verdict of 
+
+
+guilty beyond a reasonable doubt” —- a verdict that cannot | 
+
+
+ever come into being when an improper reasonable-doubt 
+instruction is given. Id. at 278. As the Chief Justice put it 
+in his concurring opinion, “A constitutionally deficient 
+
+
+_--o oo 
+
+
+25 
+
+
+reasonable-doubt instruction will always result in the 
+absence of ‘beyond a reasonable doubt’ jury findings.” Id. 
+at 285 (Rehnquist, C.J., concurring) (emphasis added). Or, 
+to use the majority’s succinct formulation, “a misdescrip- 
+tion of the burden of proof” “vitiates all the jury’s find- 
+ings.” Id. at 281 (emphasis in original). 
+
+
+From these premises, the Court reasoned that an 
+unconstitutional reasonable doubt instruction necessarily 
+destroys the fairness and reliability of a criminal trial. In 
+the words of the Court: 
+
+
+Denial of the right to a jury verdict of guilt 
+beyond a reasonable doubt is certainly an error 
+of the former sort [structural defects], the jury 
+guarantee being a basic protection whose pre- 
+cise effects are unmeasurable, but without 
+which a criminal trial cannot reliably serve its 
+function, Rose [v. Clark, 478 U.S. 570], at 577 
+[(1986)]. The right to trial by jury reflects, we 
+have said, “a profound judgment about the way 
+in which law should be enforced and justice 
+administered.” Duncan v. Louisiana, 391 U.S. 
+[145], at 155 [(1968)]. The deprivation of that 
+right, with consequences that are necessarily 
+unquantifiable and indeterminate, unquestiona- 
+bly qualifies as structural error. 
+
+
+Id. at 281-82. 
+
+
+The conclusion that the Cage rule is “structural error” 
+that is not amenable to harmless error review necessarily 
+implies that the Cage rule falls within the second Teague 
+exception, for the two tests are essentially identical. Both 
+are designed to isolate a very small class of procedures so 
+fundamental that this Court will not tolerate a conviction 
+
+
+26 
+
+
+when they have been violated.!° And both have the same 
+focus on identifying procedures that are simultaneously 
+essential to the fundamental fairness of a proceeding and 
+to the reliability of the determination of innocence or 
+guilt. As the Court explained in Arizona v. Fulminante, 499 
+U.S. 279 (1991), which established the standard for identi- 
+fying structural errors that was applied in Sullivan, a 
+structural error is one that deprives the defendant of 
+those “basic protections” without which “a criminal trial 
+cannot reliably serve its function as a vehicle for deter- 
+mination of guilt or innocence, and no criminal punish- 
+ment may be regarded as fundamentally fair.” Id. at 310 
+(quoting Rose v. Clark, 478 U.S. at 577-78). The twin 
+requirements of reliability and fundamental fairness are 
+perfectly congruent with the elements of the second Tea- 
+gue exception. 
+
+
+Moreover, the specific factors emphasized by the Sul- 
+livan Court in explaining why Cage errors are structural 
+defects also point ineluctably to the conclusion that Cage 
+announced a “watershed rule” within the meaning of 
+Teague. First, as Sullivan repeatedly emphasized, Cage 
+error fundamentally undermines the reliability of a trial’s 
+outcome. The Cage rule is designed to protect the reason- 
+able-doubt standard, which itself “guards against convic- 
+tion of the innocent by ensuring the systematic accuracy of 
+the criminal system.” Nutter v. White, 39 F.3d 1154, 1157 
+
+
+10 Compare Teague, 489 U.S. at 313 (“we believe it unlikely 
+that many such components of basic due process have yet to 
+emerge”) with Neder v. United States, 527 U.S. 1 (1999) (“We have 
+found an error to be ‘structural,’ and thus subject to automatic 
+reversal, only in a ‘very limited class of cases.’ ”) 
+
+
+27 
+
+
+(11th Cir.1994). The impact of an improper reasonable- 
+doubt instruction, the Sullivan Court stated, was 
+“unquantifiable,” “indeterminate,” and “unmeasurable,” 
+but an erroneous instruction under Cage deprived the 
+defendant of rights “without which a criminal trial cannot 
+reliably serve its function.” Sullivan, 508 U.S. at 281-82 
+(emphasis added). Indeed, as Sullivan emphasized, Cage 
+error not only deprives the defendant of a reliable deter- 
+mination of guilt or innocence; in a very real sense, it 
+means that there has been no verdict at all. Id. at 279-81. The 
+error thus renders it “impossible to assess the accuracy of 
+the conviction.” Nutter, 39 F.3d at 1157. In Teague’s terms, 
+the Cage rule is “central to an accurate determination of 
+innocence or guilt,” 489 U.S. at 313, for when Cage has 
+been violated there can be no accurate determination of 
+innocence or guilt. : 
+
+
+Similarly, Sullivan makes clear that Cage falls within 
+the category of rules that “implicate the fundamental 
+fairness of the trial.” Teague, 489 U.S. at 312. Sullivan's 
+central point is that Cage error deprives a defendant of 
+what can only be called a “bedrock element” of pro- 
+cedural fairness: the right to have the jury make the 
+essential determination of guilt beyond a reasonable 
+doubt. Nothing can be more evident from a reading of the 
+opinion than that the Court regarded the protections of 
+Cage as fundamental to the fairness of the proceeding. 
+Thus, Sullivan makes clear that Cage falls within the cate- 
+gory of opinions that, as Teague put it, “alter our under- 
+standing of the bedrock procedural elements that must be 
+found to vitiate the fairness of a particular conviction.” 
+Teague, 489 U.S. at 311. Lest there be any doubt on the 
+
+
+28 
+
+
+point, the Sullivan opinion echoes this passage from Tea- 
+gue when it states bluntly that Cage error “vitiates all the 
+jury's findings.” Sullivan, 508 U.S. at 281. 
+
+
+Thus, the reasoning of Sullivan necessarily makes 
+Cage retroactive under Teague. This conclusion finds fur- 
+ther support in the Court’s action in Adams v. Evatt, 511 
+U.S. 1001 (1994). Adams arose from the Fourth Circuit's 
+decision in Adams v. Aiken, 965 F.2d 1036 (4th Cir.1992), in 
+which that court held, prior to Sullivan, that Cage did not 
+apply retroactively under either the first or the second 
+Teague exception. As to the second exception, the Fourth 
+Circuit held that a Cage error did not affect “the bedrock 
+procedural elements essential to the fairness of the proceed- 
+ing.” 965 F.2d 1312 (citation and internal quotation marks 
+omitted). 
+
+
+This Court initially denied certiorari in Adams. 508 
+U.S. 974 (1993). Six days after the decision in Victor v. 
+- Nebraska, 511 U.S. 1 (1994), however, the Court granted 
+rehearing, and, in a one-paragraph order, granted the 
+petition for a writ of certiorari, vacated the judgment of 
+the Court of Appeals for the Fourth Circuit, and 
+“remanded [the case] to the United States Court of 
+Appeals for the Fourth Circuit for further consideration 
+in light of Sullivan v. Louisiana, 508 U.S. 275.” Since the 
+only claim made in the Adams petition for certiorari that 
+related in any way to Sullivan was the claim that Cage 
+should be applied retroactively, it is evident that the 
+Court's action reflected the view that Sullivan had a bear- 
+ing on the retroactivity issue. 
+
+
+On remand, the Fourth Circuit took the point imme- 
+diately, and concluded that Sullivan's recognition that 
+
+
+EE 
+
+
+29 
+
+
+Cage violations constitute structural error dictated that 
+Cage was to be applied retroactively. Adams v. Aiken, 41 
+F.3d 175, 178 (4th Cir.1994). As the Fourth Circuit 
+explained: 
+
+
+In view of . . . Teague’s second exception, the 
+question arises whether the remedy for an 
+unconstitutional reasonable doubt instruction 
+should be applied retroactively. The answer is 
+found in Sullivan's explanation of the crippling 
+effects of such an instruction: “a misdescription 
+of the burden of proof. . . vitiates all the jury’s 
+findings.” Without a jury’s constitutional find- 
+ing of guilt, a conviction lacks both “accuracy” 
+and one of the “bedrock procedural elements essen- 
+tial to the fairness of the proceeding.” 
+
+
+Id. at 178 (citations omitted; emphasis in original). 
+
+
+Every other court of appeals to face the issue has 
+reached the same conclusion. The Fifth Circuit, which 
+had previously held Cage not to be retroactive, overruled 
+itself en banc after Sullivan, holding that “the Supreme 
+Court has made it plain that Cage-Victor errors fit within 
+the second Teague exception.” Humphrey v. Cain, 120 F.3d 
+526, 529 (Sth Cir.1997) (emphasis added) (panel opinion 
+adopted by en banc court in Humphrey v. Cain, supra). As 
+noted above, the Second, Third, Ninth, Tenth and Elev- 
+enth Circuit have also held that Sullivan requires retroac- 
+tive application of Cage (see cases cited supra p. 20), and 
+no court since Sullivan has disagreed. All these courts of 
+appeals have reached the same conclusion: that Sullivan's 
+reasoning conclusively demonstrates that the Cage rule 
+vindicates the values of reliability and fundamental fair- 
+ness that require retroactivity under Teague’s second 
+exception. 
+
+
+30 
+
+Together, Teague, Cage, Sullivan, this Court's action in 
+Adams, and the unanimous response of the courts of 
+appeals compel the conclusion that this Court’s prece- 
+dents have made Cage retroactive. Under any reasonable 
+constructi@n of the AEDPA, where this Court’s decisions 
+so clearly necessitate retroactive application of a new 
+rule, that rule has indeed been “made retroactive to cases 
+on collateral review by the Supreme Court.” 
+
+
+IF CAGE HAS NOT YET BEEN “MADE 
+RETROACTIVE” BY THIS COURT WITHIN 
+THE MEANING OF THE AEDPA, 
+THIS COURT SHOULD NOW MAKE IT SO 
+
+
+If, contrary to our argument, a new rule can be 
+“made retroactive” by this Court under 28 U.S.C. 
+§ 2244(b)(2)(A) only by a direct holding of this Court, this 
+Court should proceed to make Cage retroactive by affir- 
+matively answering the second question presented: 
+“Whether the new rule of constitutional law announced 
+by this Court in Cage v. Louisiana, 498 U.S. 39 (1990) 
+should be made retroactively applicable to petitioners 
+seeking collateral review of their convictions.” As we 
+have demonstrated, Sullivan's reasoning conclusively 
+demonstrates that the Cage rule falls within the second 
+Teague exception. Therefore, if Sullivan has not already 
+“made” Cage retroactive, this Court should do so now. On 
+remand, with Cage having been “made retroactive by this 
+Court,” petitioner Tyler will be eligible for relief under 
+§ 2244(b)(2)(A) if he otherwise is able to establish that his 
+
+
+31 
+
+
+trial was indeed infected by Cage error, and if the other 
+requirements of the habeas statutes are satisfied. 
+
+
+¢ 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Court should hold that 
+its decision in Cage v. Louisiana is a new rule of law that 
+has been made retroactive (or is now retroactive) to cases 
+on collateral review. Accordingly, the Court should 
+reverse the decision of the Court of Appeals for the Fifth 
+Circuit in these proceedings and remand for further pro- 
+ceedings. 
+
+
+Hersert V. Larson, Jr. 
+
+Counsel of Record 
+
+700 Camp Street 
+
+New Orleans, Louisiana 70130 
+(504) 528-9500 
+
+
+Scott NELSON 
+
+2555 M Street, N.W. 
+Washington, D.C. 20037 
+(202) 833-5142 
+
+
+Attorneys for Petitioner 
+Melvin Tyler 
+
+
+January 24, 2001 
+
+

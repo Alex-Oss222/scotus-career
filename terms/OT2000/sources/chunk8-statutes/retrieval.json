@@ -1,0 +1,62 @@
+[
+  {
+    "file": "8_1252_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title8/html/USCODE-2000-title8-chap12-subchapII-partV-sec1252.htm",
+    "characters": 34179
+  },
+  {
+    "file": "8_1182_1994",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title8/html/USCODE-1994-title8-chap12-subchapII-partII-sec1182.htm",
+    "error": "Official endpoint returned no source"
+  },
+  {
+    "file": "28_2241_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title28/html/USCODE-2000-title28-partVI-chap153-sec2241.htm",
+    "characters": 4110
+  },
+  {
+    "file": "28_2244_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title28/html/USCODE-2000-title28-partVI-chap153-sec2244.htm",
+    "characters": 8703
+  },
+  {
+    "file": "2_441a_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title2/html/USCODE-2000-title2-chap14-subchapI-sec441a.htm",
+    "characters": 14152
+  },
+  {
+    "file": "17_101_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title17/html/USCODE-2000-title17-chap1-sec101.htm",
+    "characters": 45557
+  },
+  {
+    "file": "17_103_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title17/html/USCODE-2000-title17-chap1-sec103.htm",
+    "characters": 4295
+  },
+  {
+    "file": "17_106_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title17/html/USCODE-2000-title17-chap1-sec106.htm",
+    "characters": 17537
+  },
+  {
+    "file": "17_201_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title17/html/USCODE-2000-title17-chap2-sec201.htm",
+    "characters": 16286
+  },
+  {
+    "file": "7_6104_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title7/html/USCODE-2000-title7-chap90-sec6104.htm",
+    "characters": 13299
+  },
+  {
+    "file": "7_6105_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title7/html/USCODE-2000-title7-chap90-sec6105.htm",
+    "characters": 2766
+  },
+  {
+    "file": "7_6106_2000.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title7/html/USCODE-2000-title7-chap90-sec6106.htm",
+    "characters": 2414
+  }
+]

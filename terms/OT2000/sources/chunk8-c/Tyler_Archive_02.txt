@@ -1,0 +1,1272 @@
+005961 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 2000 
+Supreme Coust, U.S. 
+FIT Ep 
+MELVIN TYLER AUG 30 2000 
+Petitioner 
+versus CLERK 
+BURL CAIN, WARDEN 
+Respondent 
+
+
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Fifth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+ee eS SS SS CS 
+
+
+HERBERT V. LARSON, JR. 
+700 Camp Street 
+
+New Orleans, Louisiana 70130 
+(504) 528-9500 
+
+
+Attorney for Petitioner 
+Melvin Tyler 
+
+
+QUESTIONS PRESENTED FOR REVIEW ; 
+PARTIES TO THE PROCEEDINGS IN THE COURTS BELOW 
+
+
+i. l. Melvin Tyler 
+
+
+Whether a petition for a writ of habeas corpus asserting a claim of error under Cage 
+
+
+' 
+
+
+Burl Cain, Warden 
+
+
+v. Louisiana, 498 U.S. 39 (1990), relies on a “new rule of constitutional law, made retroactive 3 The State of Louisiana 
+to cases on collateral review by the Supreme Court,” within the meaning of 28 U.S.C. § 
+
+
+2244(b)(2)(A) [the Anti-Terrorism and Effective Death Penalty Act]. 
+
+
+Il. 
+Whether the new rule of constitutional law announced by this Court in Cage v. 
+Louisiana, 498 U.S. 39 (1990) should be made retroactively applicable to petitioners seeking 
+
+
+collateral review of their convictions. 
+
+
+TABLE OF CONTENTS 
+
+PAGE 
+
+QUESTIONS PRESENTED FOR REVIEW IN THE PETITION ...... 0-6-0 +e see eeeeeees i 
+PARTIES TO THE PROCEEDINGS IN THE COURTS BELOW ....... 65-55-5555 s00us il 
+TABLE OF CONTENTS ........-. cece cece e eee reenter ee en ene ee ee ee eee eeeeeees iil 
+TABLE OF AUTHORITIES .........-. cece cece creer ence nen eeeeeeeeeeeeeenee iv 
+OPINIONS OF THE COURTS BELOW ........... 5c cee e eee eee e eee eee eee eee nees 2 
+
+STATEMENT OF THE GROUNDS ON WHICH THE 
+
+JURISDICTION OF THE COURT IS INVOKED ..... 0.6... cece ee eee nes 3 
+CONSTITUTIONAL AND STATUTORY PROVISIONS INVOLVED ......- +. 666s ss s0es 5 
+STATEMENT OF THE CASE .......... ccc e cece e recent erences ene ee eee eeeeeeeees 6 
+REASONS FOR GRANTING THE PETITION .... 2... 60 eee eee ee een ees 10 
+COMCLAIOIOI wc cccccccccccccscceccusseeesseeuseneeuee en 0Ne 000 sumanEOEEEE 18 
+19 
+
+
+[\ |. SPPPPPPTPTTTrrTror Tr rT 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES 
+CASES PAGE 
+
+
+Adams v. Aiken, 965 F.2d 1306 (4th Cir. 1992), 
+cert. denied, sub nom. Adams v. Evatt, 
+508 U.S. 974, 113 S.Ct. 2966 (1993), 
+
+
+reh'g granted, 511 U.S. 1001, 114 S.Ct. 1365 (1994)) . 00 eee, 12,13 
+Adams v. Evatt, 41 F.3d 175, 178 (4th Cir.1994) 2.00.00, ry Pee Oe 13.14 
+Gs GR, BOE Wels GUE GUE GUUUOD coc ceccccccccccccccceccccceccececenes 7 
+Cage v. Louisiana, 498 U.S. 39, 111 S.Ct. 328 (1990) 2.6. passim 
+Humphrey v. Cain, 138 F.3d 552 (Sth Cir. 1998 (en banc) . 2... eee 6.10.12 
+In re Gregory Smith, Movant, 142 F.3d 832 (Sth Cir.1998) 2.2.00 eee eee 6.7.12 
+a pe esebecoeesenccceouce 12.15 
+ee oe ee cabesdebbeucesadessoesass 10 
+Nevius v. Sumner, 105 F.3d 4$3 (Sth Cir. 1996)... cc cece eee ee eees 12.14 
+Nemter v. Waltaap, SSO FOG UGST (1 BGs Cie. IDOE) 0. wc ccc ccc ccc eeeccccscccvcees 12 
+
+
+Rodriguez v. Superintendent, Bay State Correctional Center, 139 F.3d 270 (1st Cir.1998).... 15 
+
+
+i ee ica ces debe sedegsaveeecseessees 7.16 
+rr co heeds ok os tee cendbbesenacecesetetes 8 
+Sullivan v. Louisiana, 508 U.S. 275, 113 S.Ct. 2078 (1993) 0 enn 11 
+Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060 (1989) 00ers 12 
+es Ce SP ee PU IGIEED oo cc ccccccccccccccccccccecenccecceses 13 
+Victor v. Nebraska, $11 U.S. 1, 114 S.Ct. 1239 (1994) . 20. cee ee 11.12 
+West v. Vaughn, 204 F.3d $3 (3rd Cir.2000) 2.2... cece eee eee e eens 12,14 
+
+
+iv 
+
+
+No. 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 2000 
+MELVIN TYLER 
+Petitioner 
+versus 
+BURL CAIN, WARDEN 
+Respondent 
+
+
+Petitioner Melvin Tyler respectfully requests that this Court issue a writ of certiorari to 
+review the judgment of the United States Court of Appeals for the Fifth Circuit entered on June 1, 
+2000. to address the important question of federal law presented herein, and to resolve the conflict 
+
+
+among the federal Courts of Appeals on this question. 
+
+
+OPINIONS DELIVERED IN THE COURTS BELOW 
+The opinion of the United States Court of Appeals for the Fifth Circuit which gives rise to 
+this petition is Tyler v. Cain, #98-31159 (June 1, 2000), which is not reported. A copy of the opinion 
+is attached to this petition as Appendix A. The “Memorandum and Order” of the United States 
+District Court for the Eastern District of Louisiana denying Tyler's petition for post-conviction relief 
+pursuant to 28 U.S.C. § 2254 is also unreported. This “Memorandum and Order” is attached to this 
+
+
+petition as Appendix B. 
+
+
+STATEMENT OF THE GROUNDS ON WHICH THE 
+JURISDICTION OF THE COURT IS INVOKED 
+
+
+In April, 1997, petitioner Melvin Tyler, who is in the custody of the State of Louisiana. 
+sought and received authorization from the United States Court of Appeals for the Fifth Circuit to 
+file a successive petition for a writ of habeas corpus (28 U.S.C. § 2254) in the United States District 
+Court for the Eastern District of Louisiana. However. the Court of Appeals limited the successive 
+petition to the questions of whether this Court's decision in Cage v. Louisiana, 498 U.S. 39, 111 
+S.Ct. 328 (1990) should be applied retroactively, and if so, whether the jury charge given at Tyler's 
+trial was unconstitutional.’ 
+
+In its order dated September 10, 1998, which is attached as Appendix B, the district court 
+held that Cage v Louisiana, 498 U.S. 39, 111 S.Ct. 328 (1990) must be applied retroactively, 
+becatse of the en banc opinion of the United States Court of Appeals for the Fifth Circuit in 
+Humphrey v. Cain, 138 F.3d 552 (Sth Cir., 1998)(Memorandum and Order, Appendix B, p.4). 
+
+However. the district court denied petitioner Tyler relief, even though the “reasonable doubt” 
+portion cf the jury charges given ai his trial was indistinguishable from the one struck down by this 
+Court in Cage. In the view of the district court, the Anti-terrorism and Effective Death Penalty Act 
+(AEDPA), specifically 28 U.S.C. § 2254 (d)(1), changed the standard of review for state habeas 
+petitioners, and under the “new” standard of review, a ‘Cage-type’ instruction like the one given at 
+
+
+Tyler’s trial was in fact constitutional (Memorandum and Order, Appendix B., pp.8-10). 
+
+
+_ The jury charge Tyler complained of was almost identical to the one condemned by this 
+Court in Cage. Like the instruction in Cage, Tyler's jury instruction contained the phrases: “/t must 
+be such a doubt as would give rise to a grave uncertainty raised in your minds by reasons of the 
+unsatisfactory character of the evidence; one that would make you feel that you had not an abiding 
+conviction to a moral certainty of the defendant's guilt. * * * It should be an actual or substantial 
+doubt.” 
+
+
+In his appeal to the Court of Appeals for the Fifth Circuit, Tyler contended that AEDPA did 
+not change the standard of review for state habeas petitioners. Even assuming that it did, however. 
+Tyler argued that under the “new” standard of review, this Court's decisions in Cage and Sullivan 
+v. Louisiana, 508 U.S. 275, 113 S.Ct. 2078 (1993) were still controlling, and that accordingly. the 
+jury instructions given at his trial were unconstitutional. Tyler further contended that Suns decisions 
+should be given retroactive effect on collateral review. 
+
+The Court of Appeals did not reach the substantive issues, but instead concluded that 
+
+
+[t]he district court erred in not determining first whether Tyler's petition satisfied 
+AEDPA’s successive habeas standard, 28 U.S.C. § 2244(b)(2)(A). Procedurally, this 
+case is governed by Brown v. Lensing, 171 F.3d 1031 (Sth Cir.1999), which relies 
+on In re Smith, 142 F.3d 832 (Sth Cir.1998). Under circumstances indistinguishable 
+from this case, petitioner Brown was denied successive habeas relief because he 
+could not show that any Supreme Court decision renders the Cage decision 
+retroactively applicable to cases on collateral review, as AEDPA now requires. 
+Moreover, the Brown case specifically disapproved the district court's approach in 
+this case. Brown, 171 F.3d at 1032 n.9. 
+
+
+Like cases demand like treatment. Tyler's successive petition fails according 
+to Brown and § 2244(b)(2)(A). 
+(Appendix A, p.2). 
+This opinion was issued on June |, 2000. Consequently, this Court has jurisdiction under 
+
+
+28 U.S.C. § 1254(1). See Supreme Court Rule 13.3 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS INVOLVED 
+The Fifth Amendment to the United States Constitution provides, in pertinent part: 
+
+
+No person shall . . . be deprived of life, liberty, or property, without 
+
+
+due process of law... 
+
+
+The Sixth Amendment to the United States Constitution, provides, in pertinent part: 
+In all criminal prosecutions, the accused shall enjoy the right to a 
+
+
+speedy and public trial. . . 
+
+
+The Fourteenth Amendment to the United States Constitution provides, in pertinent 
+part: 
+_.. nor shall any State deprive any person of life, liberty, or property, 
+
+
+without due process of law. . ._ 
+
+
+Title 28, United States Code, Section 2244 provides, in pertinent part: 
+(b\(2) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was not presented in a prior 
+application shall be dismissed unless -- 
+
+(A) the applicant shows that the claim relies or new 
+rule of constitutional law, made retroactive to cases on 
+collateral review by the Supreme Court, that was 
+
+
+previously unavailable; . . . 
+
+
+STATEMENT OF THE CASE 
+I. INTRODUCTION 
+
+Two years ago, in August, 1998, undersigned counsel, acting on behalf of the petitioner 
+Gregory Smith, filed a petition for a writ of habeas corpus with this Honorable Court. In that 
+petition, docketed as proceedings #98-5804, Gregory Smith sought to invoke the original jurisdiction 
+of this Court, to present the same two questions being presented in this petition. 
+
+In response to Gregory Smith's petition, this Court directed the State of Louisiana to file a 
+brief, and invited the Solicitor General of the United States to file a brief. In the Brief for the United 
+States as Amicus Curiae, the Solicitor General concluded that “[{t}he application for a petition for 
+a writ of habeas corpus should be set for full briefing and argument on its merits.” 
+
+This recommendation notwithstanding, the Court denied Gregory Smith’s petition on June 
+7, 1999, with a notation that “Justice Stevens, Souter, and Breyer would set the case for full 
+briefing.” 
+
+As a result of this denial, an additional two years have passed with no final resolution of 
+issues of great legal import: did this Court’s decision in Cage v. Louisiana, 498 U.S. 39 (1990), 
+announce a new rule of constitutional law, one that must be applied retroactively to cases on 
+collateral review? Although most federal courts that have considered the question have concluded 
+that it did, see e.g., Humphrey v. Cain, 138 F.3d 552 (Sth Cir.(en banc), cert. denied, 525 U.S. 935, 
+119 S.Ct. 348, 365 (1998), for most circuits, it is this Court's determination that is critical. 
+
+During these two years, many federal courts have been denying relief to petitioners with 
+
+
+‘Cage claims,’ because of the absence of a clear statement from this Court that Cage did announce 
+
+
+a new rule of law, one that must be applied retroactively. See, e.g., In re Gregory Smith, 142 F.3d 
+
+
+832 (Sth Cir.1998), Brown v. Lensing, 171 F.3d 1031(Sth Cir.1999). State courts in these circuits. 
+in turn, have been denying relief, because they do not consider themselves bound by any federal 
+court decisions other than those coming directly from this Court: 
+
+
+The decision in Humphrey|[v. Cain, supra\(or Wilson [v. Cain, 199 F.3d 439 
+(Sth Cir.1999)) might constitute persuasive authority but will not bind this Court in 
+our interpretation of what federal constitutional law generally requires. * * * 
+(citations omitted). * * * 
+
+
+Unless and until the United States Supreme Court resolves the status of a 
+Cage/Humphrey instruction after Victor [v. Nebraska, 511 U.S. 1, 114 S.Ct. 1239 
+(1994)], our decisions in [State v. ] Smith [637 So.2d 398, cert. denied, 513 U.S. 
+1045, 115 S.Ct. 641 (1994)] and [State v.] Williams, [708 So.2d 703-(La.1998] as 
+well as our decision in State ex rel. Taylor v. Whitley, 606 So.2d 1292 
+(La.1992)(Cage not retroactively applicable to final convictions subject only to 
+collateral attack), and not the decision in Humphrey, bind the district courts of this 
+state in reviewing claims that trial judges have read erroneous instructions on 
+reasonable doubt. See generally Robert M. Cover and T. Alexander Aleinikoff, 
+Dialectical Federalism: Habeas Corpus and the Court, 86 Yale L.J. 1035, 1046- 
+1054 (1977). - 
+
+State v. Penns, 758 So.2d 776 (La.1999). 
+
+
+The net result of these two lines of cases has been to turn this Court’s decision in Cage into 
+an historical artifact, one with no relevance or meaning to those petitioners whose convictions were 
+obtained through the use of constitutionally flawed jury instructions. This petition presents the Court 
+with the opportunity to revivify Cage. 
+
+2. THE SPECIFIC FACTS OF THIS PROCEEDING 
+
+On March 20, 1975, petitioner Melvin Tyler got into a fight with his girlfriend over whether 
+she would reconcile with her husband. After drinking himself into a rage, he went to her house, 
+stood in the alleyway outside her house, and fired a .22 caliber pistol into a draped and enclosed 
+window. Unbeknownst to him, Tyler’s nineteen year-old daughter lay asleep under the window. 
+
+
+Tyler's shots caused her death. Tyler was arrested, prosecuted, and convicted of second-degree 
+
+
+murder in the Criminal District Court for the Parish of Orleans, State of Louisiana -- the same court 
+that gave rise to this Court’s decisions in Cage v. Louisiana, 498 U.S. 39 (1990), and Sullivan v 
+Louisiana, 508 U.S. 275 (1993). See State v. Tyler, 363 So.2d 903 (La.1979). 
+
+After his conviction and sentence of life imprisonment were affirmed by the Louisiana 
+Supreme Court, Tyler began seeking post-conviction relief, in both state and federal court. Included 
+in these efforts were five petitions for post-conviction relief in the Louisiana courts. See State ex rel 
+Tyler v. Maggio, 428 So.2d 483 (La.1982); State v. Tyler, 430 So.2d 92 (La.1983); State ex rel. Tyler 
+v. State, 437 So.2d 1142 (La.1983); State v. Tyler, 446 So.2d 1226 (La.1984) and State ex rel. Tyler 
+v. Blackburn, 494 So.2d 1171 (La.1986). 
+
+In 1990, this Court handed down its decision in Cage, supra. Because the jury instruction 
+regarding “reasonable doubt” that was given at Tyler's trial was virtually identical to the instruction 
+
+
+condemned in Cage,’ in 1995, Tyler filed his sixth petition for post-conviction relief in the state 
+
+
+“ At petitioner Tyler’s trial, reasonable doubt was defined as follows: 
+
+
+If you entertain any reasonable doubt as to any fact or element necessary to constitute 
+the defendant's guilt, it is your sworn duty to give him the benefit of that doubt and 
+return a verdict of acquittal. Even where the evidence demonstrates a probability of 
+guilt, yet if it does not establish it beyond a reasonable doubt, you must acquit the 
+accused. 
+
+
+This doubt must be a reasonable one; that is, one founded upon a real, tangible, 
+substantial basis, and not upon mere caprice, fancy or conjecture. It must be such a 
+doubt as would give rise to a grave uncertainty, raised in your minds by reason of the 
+unsatisfactory character of the evidence; one that would make you feel that you had 
+not an abiding conviction to a moral certainty of the defendant's guilt. If, after giving 
+a fair and impartial consideration of all the facts in the case, you find the evidence 
+unsatisfactory upon any single point indispensably necessary to constitute the 
+defendant's guilt, this would give rise to such a reasonable doubt as would justify you 
+in rendering a verdict of not guilty. 
+
+
+The prosecution must establish guilt by legal and sufficient evidence beyond a 
+8 
+
+
+district court raising inter alia, a Cage claim, i.e., a claim that his jury had been given an erroneous 
+instruction regarding reasonable doubt. This claim had not previously been raised by Tyler. This 
+petition was denied by the Louisiana Supreme Court in December 1996. State ex rel. Tyler v. Cain, 
+684 So.2d 950 (1996). 
+
+Having exhausted his state remedies, Tyler turned to federal court. In April, 1997, Tyler filed 
+a petition in the United States Court of Appeals for the Fifth Circuit for authorization to file a 
+successive petition for federal habeas relief (28 U.S.C. § 2254). See the Anti-Terrorism and 
+Effective eath Penalty Act (AEDPA), 28 U.S.C. § 2244(b)(3)(A), which provides as follows: 
+
+(3)(A) Before a second or successive application permitted by this section is filed in 
+
+the district court, the applicant shall move in the appropriate court of appeals for an 
+
+order authorizing the district court to consider the application. 
+
+The Court of Appeals granted Tyler leave to file the successive application, but limited the 
+successive application to “whether Cage v. Louisiana 498 U.S. 39 (1990) should be applied 
+
+
+retroactively on collateral review and whether the jury instruction on reasonable doubt was 
+
+
+unconstitutional under Cage and Victor v. Nebraska, 511 U.S.1....” 
+
+
+Thereafter, Tyler presented his Cage claim to the district court, and the Court of Appeals, 
+
+
+both of which denied relief, for the reasons noted above. Hence this petition. 
+
+
+reasonable doubt, but the rule does not go further and require a preponderance of 
+testimony. It is incumbent upon the state to prove the offense charged, or legally 
+included in the indictment, to your satisfaction and beyond a reasonable doubt. A 
+reasonable doubt is not a mere possible doubt. It should be an actual or substantial 
+doubt. It is such a doubt as a reasonable man would seriously entertain. It is a 
+serious doubt for which you could give good reason. 
+
+
+Dee we Ke 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+On its face, the opinion of the Court of Appeals for the Fifth Circuit purports to be a simple 
+and straightforward application of a clear statute to an undisputed set of facts. Behind this opinion. 
+however, are dilemmas which are one part Lewis Carroll, and one part Franz Kafka. Because of the 
+holding in Humphrey v. Cain, 138 F.3d 552 (Sth Cir.1998)(en banc), the Fifth Circuit, and every 
+federal district court in the Fifth Circuit must apply Cage retroactively, unless, however, the federal 
+petition is a successive one, in which case relief will be denied, because this Court has never held 
+that Cage is to be given retroactive application -- at least in the eyes of the Court of Appeals for the 
+Fifth Circuit. 
+
+Every other court of appeals to have addressed the issue has also interpreted this Court's 
+rulings to require the retroactive application of Cage. But under the Fifth Circuit’s application of 
+the law, the unanimous view of the federal courts on this issue is to be disregarded. Indeed, the very 
+unanimity of the federal courts on the question of retroactivity may have the effect of making it more 
+difficult to for a successive habeas petitioner to surmount the procedural obstacles created by the 
+AEDPA, given this Court’s disinclination to decide issues as to which there is no disagreement 
+among the courts of appeals. 
+
+These circumstances are legally absurd. They are, however, the inevitable result of 
+interpreting the statute to direct the courts of appeals to disregard any judicial finding of retroactivity 
+that does not come from the Supreme Court -- even if the finding is one of their own. Such 
+
+
+legislation stands Marbury v. Madison, 5 U.S. 137 (1803) on its head. 
+
+
+10 
+
+
+I. THE COURT OF APPEALS FOR THE FIFTH CIRCUIT HAS DECIDED AN 
+IMPORTANT FEDERAL QUESTION IN A WAY WHICH CONFLICTS WITH 
+RELEVANT DECISIONS OF THIS COURT, AND IN A WAY WHICH IS IN 
+CONFLICT WITH TWO OTHER CIRCUIT COURTS OF APPEALS. 
+
+
+In Cage v. Louisiana, 498 U.S. 39 (1990), this Court held that a jury instruction which 
+defines reasonable doubt in a manner that allows a finding of guilt based on a degree of proof below 
+that required by the Due Process Clause is improper, and grounds for reversing a conviction obtained 
+
+
+using such an instruction. 
+
+
+Three years later, in Sullivan v. Louisiana, 508 U.S. 275 (1993), this Court held that a 
+constitutionally deficient reasonable doubt instruction, such as the one given in Cage, cannot be 
+harmless error, but is instead “structural error,” and thus outside the entire harmless error analysis. 
+
+In the words of the Court: 
+
+
+In [Arizona v.] Fulminante, [499 U.S. 279 (1991)] we distinguished between, on the 
+one hand, “structural defects in the constitution of the trial mechanism, which defy 
+analysis by ‘harmless-error’ standards,” 499 U.S., at 309, and, on the other hand, trial 
+errors which occur “during the presentation of the case to the jury, and which may 
+therefore be quantitatively assessed in the context of other evidence presented,” id., 
+at 307-308. Denial of the right to a jury verdict of guilt beyond a reasonable doubt 
+is certainly an error of the former sort, the jury guarantee being a “basic protectio[n]” 
+whose precise effects are unmeasurable, but without which a criminal trial cannot 
+reliably serve its function, Rose [v. Clark, 478 U.S. 570 (1986)], supra, 478 U.S. at 
+577. The right to trial by jury reflects, as we have said, “ a profound judgment about 
+the way in which law should be enforced and justice administered.” Duncan v. 
+Louisiana, 391 U.S., at 155. The deprivation of that right, with consequences that 
+are necessarily unquantifiable and indeterminate, unquestionably qualifies as 
+“structural error.” 
+
+
+Sullivan, 508 U.S. at 283. 
+
+
+Plainly, Cage, as explained by Sullivan, announced a new rule of law.’ The result in Cage 
+
+
+* While Sullivan was soon followed by Victor v. Nebraska, 511 U.S. 1 (1994), Victor 
+changed neither the Court’s holding in Cage, nor Sullivan's determination that when a reasonable 
+doubt jury instruction is constitutionally deficient, it is not subject to a harmless error analysis. 
+
+
+11 
+
+
+ea 
+
+
+certainly “was not dictated by precedent existing at the time the defendant’s conviction became 
+final.” Teague v. Lane, 489 U.S. 288, 301 (1989). Thus, every lower court to consider the question 
+has found that in deciding Cage, this Court “announced a new rule [of law].” See, e.g., Adams v. 
+Aiken, 965 F.2d 1306, 1312 (4th Cir.1992), vacated and remanded, 511 U.S. 1001 (1994), 
+Humphrey v. Cain, supra, Nevius v. Sumner, 103 F.3d 453 (9th Cir.1996), Nutter v. Whitley, 950 
+F.2d 1037 (11th Cir.1994), In re Hill, 113 F.3d 181 (11th Cir.1997), and West v. Vaughn, 204 F.3d 
+53 (3rd Cir.2000). As the Fifth Circuit wrote in Jn re Gregory Smith, Movant, 142 F.3d 832, 835 
+(Sth Cir. 1998): 
+
+It is undisputed that Cage announced a new rule of constitutional law. See Sullivan 
+
+v. Louisiana, 508 U.S. 275, 282, 113 S.Ct. 2078, 2083, 124 L.Ed. 2d 182 
+
+(1993)(denying right to beyond-reasonable-doubt-jury-verdict is structural defect that 
+
+takes away “basic protectio[n] whose precise effects are unmeasurable, but without 
+
+which a criminal trial cannot reliably serve its function.”). 
+
+Certainly, as a new rule of law, Cage cannot be applied retroactively to cases on collateral 
+review, unless it falls into one of the two Teague exceptions: (1) if the new rule places “certain kinds 
+of primary, private individual conduct beyond the power of the criminal law-making authority to 
+proscribe,” Teague v. Lane, supra, 489 U.S. at 307 (citation omitted), or (2) if the new rule “requires 
+the observance of ‘those procedures that . . . are ‘implicit in the concept of ordered liberty.”’” /d 
+(citation omitted). 
+
+However, given this Court’s determination that a Cage error “unquestionably qualifies as 
+
+
+‘structural error,” the conclusion appears inescapable: a Cage error falls under the second Teague 
+
+
+exception, and the ruling in Cage should be applied retroactively to cases on collateral review. This, 
+
+
+Rather, in Victor the Court simply determined that the two “reasonable doubt” jury instructions 
+before it were not constitutionally deficient. (“In these two cases, we consider the constitutionality 
+of two attempts to define ‘reasonable doubt.”” Victor, 511 U.S., 1, 3 (1994)). 
+
+
+12 
+
+
+of course, is precisely the conclusion reached by the Court of Appeals for the Fifth Circuit in 
+Humphrey v. Cain, 138 F.3d 552 (Sth Cir.1998)(en banc)’. And it appears to be the conclusion this 
+Court has already reached in connection with its disposition in Adams v. Evatt, 511 U.S. 1001 
+(1994). 
+
+Adams arose from the Fourth Circuit’s decision in Adams v. Aiken, 965 F.2d 1036 (4th 
+Cir.1992). In Adams v. Aiken the Fourth Circuit, prior to Sullivan, held that a Cage error had 
+occurred, but that Cage did not apply retroactively under either the first or the second Teague 
+exception. Specifically, as to the second exception, the Fourth Circuit held that a Cage error did not 
+affect “the bedrock procedural elements essential to the fairness of the proceeding.” 965 F.2d 1312 
+(citation and internal quotation marks omitted). 
+
+This Court initially denied certiorari in Adams. 508 U.S. 974 (1993). Six days after the 
+decision in Victor v. Nebraska, 511 U.S. 1 (1994), however, the Court granted rehearing, and in a 
+one-paragraph opinion, granted the petition for rehearing, granted the petition for a writ of certiorari, 
+vacated the judgment of the Court of Appeals for the Fourth Circuit, and “. . . remanded [the case] 
+to the United States Court of Appeals for the Fourth Circuit for further consideration in light of 
+Sullivan v. Louisiana, 508 U.S. 275.” Since the only claim made in the Adams petition for certiorari 
+that related in any way to Sullivan was the claim that Cage should be applied retroactively, it is 
+evident that the Court’s action reflected the view that Sullivan had a bearing on the retroactivity 
+issue. On remand, the Court of Appeals for the Fourth Circuit concluded that Sullivan's recognition 
+
+
+that Cage violations constitute “structural error” dictated that Cage was to be applied retroactively. 
+
+
+‘It is also the conclusion reached by the Second, Third, Fourth, Tenth, and Eleventh 
+Circuits. See Tillman v. Cook, 215 F.3d 1116, 1121-1122 (11th Cir.2000). 
+
+
+13 
+
+
+Adams v. Evatt, 4\ F.3d 175, 178 (4th Cir.1994). 
+
+Together, Teague, Cage, Sullivan, and this Court's action in Adams point ineluctably to the 
+conclusion -- which the courts of appeals have unanimously adopted -- that Cage applies 
+retroactively. Indeed, the Fifth Circuit itself has acknowledged that “the Supreme Court has made 
+it plain that Cage-Victor errors fit within the second Teague exception.” Humphrey v. Cain, 120 
+F.3d 526, 529 (Sth Cir.1997)(panel opinion adopted by en banc court in Humphrey v. Cain, supra). 
+Under any reasonable construction of the AEDPA, where this Court's decisions so clearly necessitate 
+retroactive application of a new rule, that rule has indeed been “made retroactive to cases on 
+collateral review by the Supreme Court.” The Fifth Circuit's contrary decision in this case thus 
+conflicts with controlling decisions of this Court. 
+
+Moreover, as indicated above, the Fifth Circuit's decision that a successive petition raising 
+a Cage issue may not be filed under 28 U.S.C. § 2244(b)(2)(A) is in direct conflict with the decision 
+of the Ninth Circuit in Nevius v. Sumner, 105 F.3d 453 (9th Cir. 1996), and in direct conflict with the 
+decision of the Third Circuit in West v. Vaughn, 204 F.3d 53 (3rd Cir.2000). 
+
+In Nevius, a petitioner sought to raise a Cage issue in a successive petition. The Ninth Circuit 
+granted leave to file the petition under § 2244(b)(2)(A), noting that the history of this Court's cases 
+on Ye Cage issue indicated that Cage must be retroactive, and finding that the petitioner “has made 
+a ‘prima facie showing that the application satisfies the requirements of this subsection."” /d at 462. 
+
+West also presents an instance of a petitioner seeking to raise a Cage issue in a successive 
+petition. After finding that Cage did indeed announce a new rule, the Third Circuit concluded that 
+this Court had never explicitly held Cage to be retroactive -- “ We are similarly unaware of any such 
+
+
+precedent [explicitly stating that the Cage rule is to be applied retroactively]” West, supra, p.59. 
+
+
+14 
+
+
+However, the West court found that this was not the end of the inquiry, because the court was 
+“not convinced that [the phrase] ‘made retroactive’ [as used in § 2244(b)(2)(A)] deserves the 
+restrictive gloss applied by these [other circuit] courts in construing the term.” West, supra, p.59. 
+The West court then went on to find that this Court’s decision in Sullivan compelled retroactive 
+application of Cage. West, supra, pp.61-63. 
+
+The Fifth Circuit, however, has specifically rejected the Ninth Circuit's decision in Nevius 
+v. Sumner, aligning itself instead with the First Circuit's decision in Rodriguez v. Superintendent, 
+Bay State Correctional Center, 139 F.3d 270 (1st Cir.1998), and the Eleventh Circuit's ruling in /n 
+re Hill, 113 F.3d 181 (11th Cir.1997). In Rodriguez, the First Circuit rejected the filing of a habeas 
+petition raising a Cage claim. Like the Fifth Circuit. the First Circuit specifically disagreed with 
+Nevius v. Sumner, rejected the petitioner's reliance on Sullivan and Adams, and held that the statute 
+required a decision by this Court directly addressing the question of retroactivity. Similarly, in Jn re 
+Hill, the Eleventh Circuit held that its own prior ruling that Cage applies retroactively was 
+unavailing in a successive habeas petition, and denied the petitioner leave to file. 
+
+The effect of these varying decisions is that in the nine states of the Ninth Circuit, and the 
+three states and the other territories of the Third Circuit, a state prisoner can file a successive habeas 
+petition raising a Cage claim, whereas in the five states that make up the First Circuit, the three 
+comprised in the Fifth Circuit, and the three in the Eleventh Circuit, such a petition may not be filed. 
+This Court should grant plenary review of this petition to resolve this conflict over an important 
+
+
+issue of federal law. 
+
+
+is 
+
+
+Il. THE RETROACTIVITY ISSUE IN THIS CASE PRESENTS AN 
+IMPORTANT QUESTION OF FEDERAL LAW 
+
+
+If the Court of Appeals for the Fifth Circuit is correct in its position that this Court has never 
+determined (for purposes of § 2244 (b)(2)(A)) whether the rule of law announced in Cage is to be 
+applied retroactively, then the reasons for granting this petition become all the more compelling. At 
+least five circuits, the Third, the Fourth, the Fifth, the Tenth, and the Eleventh, have determined that 
+Cage is to be given retroactive effect. Nevertheless, even if every other circuit follows their lead, 
+federal relief will be unavailable to any state prisoner filing a successive petition. While one might 
+hope that state courts addressing post-conviction petitions under their own procedures will adhere 
+to rulings made by the federal Courts of Appeal. it is plain from the decision of the Louisiana 
+Supreme Court in State v. Penns, supra, that this is not going to happen -- at least in Louisiana. 
+Thus, in Louisiana, there is no remedy available to state prisoners -- in any court. 
+
+In short, whether any given habeas petitioner receives the constitutional protections to which 
+he or she is entitled by virtue of Cage and Sullivan has become a question of judicial roulette, not 
+a principled application of the laws. : 
+
+Petitioner's claim that Cage is retroactive is surely substantial, indeed, every federal court 
+to address the issue after Sullivan has so held. Ordinarily, such unanimity might be a reason for this 
+Court to deny review of the issue. But here, the need for resolution of the retroactivity issue by this 
+Court follows directly from the interpretation of the AEDPA adopted by the court below, which 
+places a premium not on what the proper retroactivity rule is, but on who has announced the rule. 
+If the AEDPA is to be so interpreted, then this Court has a special role and responsibility with 
+
+
+respect to the resolution of retroactivity issues -- at least where, as here, the claim of retroactivity is 
+
+
+16 
+
+
+weighty. 
+
+Failure by this Court either to reverse the Fifth Circuit's interpretation of the AEDPA or to 
+take on the merits of the retroactivity question would lead to an absurd result. The effect of allowing 
+a ruling like the one below to stand unreviewed would be to create a system where, if a retroactivity 
+question 1s so close and debatable that it engenders division in the lower courts that this Court 
+ultimately resolves in favor of retroactivity, then the issue may be presented in successive habeas 
+petitions. If, on the other hand. the case for retroactivity is so easy and obvious that the courts of 
+appeals all agree and the issue is never addressed by this Court, a successive petition raising the 
+issue is barred. In short, the better the petitioner's claim, the less chance he will have to raise it.” 
+
+No rational legislature could have intended to create such a system. To restore reason to the 
+law. this Court has two choices: it may interpret the AEDPA to permit the courts of appeals to give 
+effect to the clear import of this Court's decisions when they dictate (but do not directly rule on) the 
+retroactive application of a new rule, or it may decide the retroactivity question itself. Leaving the 
+
+
+Fifth Circuit's decision intact is not an acceptable third alternative. 
+
+
+The Fourth Circuit, in an opinion denying a prisoner leave to file a successive petition 
+raising a non-Cage claim because this Court had not directly decided the retroactivity issue involved, 
+took note of the jurisprudential awkwardness its interpretation of the AEDPA created in cases 
+presenting easy retroactivity questions: “Of course, it seems unlikely that the Supreme Court would 
+grant certiorari to declare the applicability of a rule announced on direct review to collateral 
+proceedings . . . lower federal courts uniformly rule in favor of collateral availability.” Jn re Vial, 
+115 F.3d 1192, 1196, n. 8 (4th Cir.1997). Despite its recognition of this “Catch 22," the Fourth 
+Circuit in Vial felt constrained to require a direct retroactivity ruling by this Court as a prerequisite 
+to a successive petition. 
+
+
+17 
+
+
+CONCLUSION 
+Wherefore, the foregoing reasons considered. this Court is respectfully urged to grant Melvin 
+
+
+Tyler's petition for a writ of certiorari. 
+
+
+New Orleans, Louisiana, ws Bon of August, 2000. 
+
+
+(504) 528-9500 
+
+
+Attorney for Petitioner 
+Melvin Tyler 
+
+
+18 
+
+
+19 
+
+
+U.S. COURT OF APPEALS 
+
+
+FILED 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+
+FOR THE FIFTH CIRCUIT JUN 0 1 2000 
+CHARLES R, FULBRUGE iII 
+' CLERK 
+
+
+No. 98-31159 
+Summary Calendar 
+
+
+MELVIN TYLER, 
+Petitioner-Appellant, 
+versus 
+
+
+BURL CAIN, Warden, Louisiana 
+State Penitentiary, 
+
+
+Respondent -Appellee. 
+
+
+Appeal from the United States District Court 
+for the Eastern District of Louisiana 
+USDC No. 97-CV-1549-G 
+
+
+Before JOLLY, JONES, and BENAVIDES, Circuit Judges. 
+PER CURIAM:” 
+
+Melvin Tyler, Louisiana prisoner # 81668, appeals the 
+dismissal of his petition under 28 U.S.C. § 2254. In 1976, Tyler 
+was convicted of one count of second degree murder. He is 
+continuing to serve his sentence of life imprisonment without the 
+benefit of parole, probation, or suspension of sentence for a 
+period of twenty years. 
+
+Tyler has requested federal habeas relief following the 
+denial of his numerous state habeas petitions. This court has 
+
+
+previously given Tyler permission to file a successive § 2254 
+
+
+Pursuant to 5" Crr. R. 47.5, the court has determined that this 
+opinion should not be published and is not precedent except under the limited 
+circumstances set forth in 5" Crr. R. 47.5.4. 
+
+
+No. 98-31159 
+oZeq 
+
+
+application on the issues whether Cage v. Louisiana, 498 U.S. 39 
+
+
+(1990), should be applied retroactively on collateral review and 
+
+
+whether the jury instruction on reasonable doubt given to his jury 
+was unconstitutional under Cage and Victor v. Nebraska, 511 U.S. 1 
+(1990). The district court determine?’ that, based upon Humphrey v. 
+Cain, 138 F.3d 552 (5 Cir.) (en banc), cert. denied, 119 S. Ct. 
+348, 365 (1998), Cage was to be applied retroactively, but it 
+denied relief under the standard set forth by 28 U.S.C. § 2254(d). 
+
+The district court erred in not determining first whether 
+
+
+Tyler’s petition satisfied AEDPA’s successive habeas standard, 28 
+
+
+U.S.C. § 2244(b)(2) (A). Procedurally, this case is governed by 
+Brown v. Lensing, 171 F.3d 1031 (Sth Cir. 1999), which relies on In 
+re Smith, 142 F.3d 832 (Sth Cir. 1998). Under circumstances 
+
+
+indistinguishable from this case, petitioner Brown was denied 
+successive habeas relief because he could not show that any Supreme 
+Court decision renders the Cage decision retroactively applicable 
+to cases on collateral review, as AEDPA now requires. Moreover, 
+the Brown case specifically disapproved the district court’s 
+approach in this case. Brown, 171 F.3d at 1032 n.9. 
+
+Like cases demand like treatment. MTyler’s successive 
+petition fails according to Brown and § 2244/(b) (2) (A). 
+
+For these reasons, only, the judgment of the district 
+
+
+court denying habeas relief is AFFIRMED. 
+
+
+20 
+
+
+MINUTE ENTRY — 
+SEAR, CHIEF JUDGE 1998 SEP 10 
+September 8, 1998 
+
+UNITED STATES DISTRICT COURT 
+
+
+EASTERN DISTRICT OF LOUISIANA 
+
+
+MELVIN TYLER * TIVIL ACTION 
+VERSUS * NO. 37-1549 
+BURL CAIN, WARDEN e SECTION "G" 
+
+MEMORANDUM AND ORDER 
+Background 
+
+
+Petitioner Melvin Tyler, a prisoner currently incarcerated in 
+the Louisiana State Penitentiary, Angola, Louisiana, was convicted 
+on February 19, 1976 of one count of second degree murder and 
+sentenced to life imprisonment without the benefit of parole, 
+probation, or suspension of sentence. Tyler directly appealed his 
+conviction to the Louisiana Supreme Court.‘ Following that appeal, 
+he was resentenced to life imprisonment without the benefit of 
+
+
+parole, probation, or suspension of sentence for a period of twenty 
+
+
+‘ The petitioner raised the following arguments on appeal: 
+1) the trial court improperly denied his Motion to Quash an 
+improper grand jury; 2) the trial court gave an 
+unconstitutionally excessive sentence; and , 3) the trial court 
+gave an improper jury instruction on specific intent. 
+
+
+State v. Tyler, 363 So.2d 903 (La. 1978). 
+
+
+(20) years. 
+
+Tyler subsequently filed six (6) applications for post- 
+conviction relief in state court, all of which were denied. In his 
+petition for federal habeas relief, Tyler raises the same two 
+claims he raised in his final post-conviction application in state 
+court. Prior to filing the federal petition, Tyler obtained 
+
+
+permission from the United States Fifth Circuit Court of Appeals to 
+
+
+file a successive writ.’ The Fifth Circuit. nowever, limited his 
+application to the issue of whether Cage v. Louisiana, 498 U.S. 39, 
+111 $.Ct. 328 (1590) and Victor v. Nebras<a. U.S. , 436 §.CE. 
+
+
+1239, 127 L.ed.2d 583 (1994) should be applied retroactively on 
+collateral review, and, if so applied, wnether the jury instruction 
+given at Tyler’s trial was unconstitutional.’ 
+
+Magistrate Judge Louis Moore, Jr. issued a Report and 
+Recommendation in which he recommended that Tyler’s petition for a 
+writ of habeas corpus pursuant to 28 U.S.c. § 2254 be denied. 
+
+
+Because petitioner has filed timely objections to the magistrate’s 
+
+
+Report and Recommendation, a de novo review of those portions of 
+
+
+> In re Melvin Tyler, Doc. No. 97-00165 (U.S. App. Sth Cir. 
+1997). 
+
+
+» Id. 
+
+
+the findings to which petiticner has objected is required. 
+aastyese 
+
+The first issue to be considered :s whether Cage v. Loulsiana, 
+498 U.S. 39, 111 S.Ct. 328 (1990) and Victor v. Nebraska, 7.8. 
+
+
+114 §.Ct. 21239, 127 L.ed.2d 583 (1954) should be applied 
+
+
+uw 
+
+
+retroactively on collateral review cf Tyler's case.‘ 
+
+
+‘ In determining this, I am not limited solely to United 
+States Supreme Court determinations on its retroactivity as in In 
+e Smith, 142 F.3d §32. In Smith, petitioner was seeking writ 
+from the Fifth circuit to file for a successive habeas 
+application based on a similar allecedly unconstitutior-. 
+"reasonable doubt" jury charge. In Smith, the Fifth Circuit 
+adopted the view that: 
+
+an application to file a second or successive habeas 
+
+petition must point to a Supreme Court decision that 
+
+either expressly declares the ccllateral availability 
+
+of the rule (such as by holding or stating that the 
+
+particular rule upon which the petitioner seeks to rely 
+
+is retroactively available on collateral review) or 
+
+applies the rule in a collateral proceeding. 
+
+Id. at 835, ‘emphasis added]. 
+
+
+The Fifth Circuit additionally stated that Smith was required to 
+make a "prima facie showing" that the Cage rule has been "made 
+retroactive to cases on collateral review by the Supreme Court" 
+as required by § 2244(b) (2) (A). 
+
+However, it is net before me to decide whether Tyler is 
+permitted to file this successive habeas application in 
+accordance with 28 U.S.C. § 2244(b) (2) (A). The Fifth Circuit has 
+already granted him permission to do so. Nonetheless, they have 
+limited his application to the issue of whether Cage v. 
+Louisiana, 498 U.S. 39, 111 S.Ct. 328 (1990) and Victor v. 
+Nebraska, U.S. _, 114 S.Ct. 1239, 127 L.ed.2d 583 (1994) 
+should be applied retroactively on collateral review of his case 
+
+
+3 
+
+
+Since the time the Fifth Circuit granted authorization for 
+Tyler to file his habeas application, that court had an opportunity 
+to rule on the issue of whether Cage and Victor should be applied 
+retroactively on collateral review. ‘In Humphrey v. Cain, 135 F.3d 
+SS2 (Sth Cir. 1398), adopting the panel opinion, 120 F.3d 525 (Sth 
+Cir. 1997), the Fifth Circuit en banc held that Cage, as clarified 
+by Victor, announced a new rule of constitutional law made 
+retroactive to cases on collateral review. Id. and See Messick v. 
+Cain, 1998 WL 473942, (E.D. La). | 
+
+Therefore, the only remaining question is whether the jury 
+instruction given at Tyler’s trial was unconstitutional. _— 
+the Supreme Court held that an instruction containing questionable 
+reasonable doubt language was unconstitutional, because it 
+permitted finding guilt based upon a degree of proof below that 
+required by the Due Process Clause of the Fourteenth Amendment. 
+
+Tyler claims the trial court erroneously instructed the jury 
+
+
+on reasonable doubt, and that this instruction violated the 
+
+
+and if so applied, whether the jury instruction given at Tyler’s 
+trial was unconstitutional. 
+
+Since I am not deciding whether to grant an application to 
+apply for successive writs, I am not governed by 28 U.S.C. 2244 
+(b) (2) (A). Thus, I am not limited to Supreme Court 
+determinations on this issue as Smith was. 
+
+
+4 
+
+
+Fourteenth Amendment's due process clause by reducing the state's 
+burden of proof against him, as discussed in Cage v. Louisiana, 498 
+U.S. 39, 111 S.Ct. 328, 112 L.Ed.2d 339 (1990) and Victor vy. 
+Nebraska, U.S. __, 114 S.Ct. 1239, 127 L.Ed. $83 (1994). 
+
+Cage and Victor set the standard by which courts examine the 
+"reasonable doubt" instructions. Cage and Victor affirmed the 
+principle that the charge must not allow the jury to convict unless 
+it is convinced that the evidence demonstrates guilt beyond a 
+Yeasonable doubt. Victor modified Cage by leaving no uncertainty 
+that the inquiry is “not whether the instruction ‘could have’ been 
+applied in [an] umconstitutional manner, but whether there is a 
+reasonable likelihood that the jury did so apply it."* 
+
+Using this standard, the Fifth Circuit decided Humphrey v 
+Cain, 138 F.3d 552. In Humphrey, the Fifth Circuit sitting en banc 
+held that the complained-of reasonable doubt instruction was 
+unconstitutional, over-ruling prior cases. The jury charge given 
+at Tyler's trial is identical to the charge on reasonable doubt 
+
+
+given in Humphry. The issue in this case is whether Tyler’s habeas 
+
+
+application was filed too late to apply the Humphrey ruling. 
+
+
+> Humphrey v. Cain, 120 F.3d 526, 531. 
+
+
+5 
+
+
+In Humphrey, the petitioner filed his habeas application prior 
+to the April 24, 1996 effective date of “he Anti-terrorism and 
+Effective Death Penalty Act (AFDPA). which established a new 
+standards of review for state court decisions in habeas cases. 
+Thus, Humphrey’s claims were analyzed under the old version of the 
+habeas statute. The court noted this distinction in Humphrey when 
+it stated, 
+
+Prisoners who file petitions after April 24, 1996, must 
+
+surmount the formidable barriers erected by the Anti- 
+
+terrorism and Effective Death Penalty Act. Of course, we 
+
+dc not have the occasion =c measure how high those 
+
+barriers might be. We note only that the 
+
+heightened standard of review for state prisoners, see 28 
+
+U.S.C. § 2254(d) (1), could shut out future petitioners in 
+
+Humphrey’s situation. 
+
+Tyler’s petition here was filed on March 18, 1997, after the 
+April 24, 1996 effective date cf AEDPA. Hence, in order for Tyler 
+
+
+to prevail, he must surmount the "formidable barriers” erected in 
+
+
+28 U.S.C. § 2254 (d)(1).* Im other words, Tyler must show che 
+
+
+* 28 U.S.C. § 2254 provides: 
+Whether jury instruction is unconstitutional 
+and whether a new rule of law is to be 
+
+‘ applied retroactively are questions of law. 
+
+On a question of law, this Court may not 
+grant habeas relief with respect to a state 
+court’s determination unless the “state 
+court’s decision rested on a legal 
+determination that was ‘contrary to 
+
+
+State court decision denying him rel:ef on his Cage and Victor 
+Claim was “comtrary to .. . clearly established Federal law. as 
+determined by the Supreme Court of the United States." 
+
+In petitioner’s cbjections to the Magistrates Report and 
+Recommendations, petitioner urges the court to use the Humphrey 
+decision to grant him relief. Since Humphrey was decided under a 
+different habeas standard than the one that applies in this case, 
+Humphrey is inapplicable. 
+
+In reviewing petitioner's reasonable doubt instruction, I find 
+his claim unavailing under Cage and its progeny in light of the 
+standards governed Dy AEDPA. The disputed instruction’ in this case 
+
+
+reads as follows. 
+
+
+If you entertain amy reasonable doubt as to any fact or 
+element necessary to constitute the defendant’s guilt, it 
+is your sworn duty to give him the benefit of that doubt 
+and return a verdict of acquittal. Even where the 
+evidence demonstrates a probability of guilt, yet if it 
+does not establish it beyond a reasonable doubt, you must 
+acquit the accused. This doubt must be a reasonable one; 
+that is, cone founded upon a real, tangible, substantial 
+basis, and not upon mere caprice, fancy or conjecture. 
+It must be such a doubt as would give rise to a grave 
+
+
+clearly established Federal law, as 
+determined by the Supreme Court.’” 28 U.S.C. 
+
+
+§ 2254 (d) (1). Lindh v. Murphy, U.S. 
+117 §.Ct. 2059 (1997). 
+
+
+uncertainty, raised in your minds by reason of the 
+unsatisfactory character of the evidence; cone tha= would 
+make you feel chat you had mot an abicing conviction to 
+a moral certainty of the defendant's guilt. If, after 
+giving a fair and impartial consideration of all of the 
+facts in the case, you find the evidence unsatisfactory 
+upon any single point indispensably necessary to 
+constitute the defendant’s guilt, this wculd give rise to 
+such a reasonable doubt as would <ust:ify you in rendering 
+a verdict of not guilty. 
+
+
+The prosecution must establish guilt by legal and 
+
+sufficient evidence beyond a reasonable doubt, but the 
+
+rule does not go further and require a preponderance of 
+
+testimony. It is incumbent upon the state to prove the 
+
+offense charged, or legally included in the indictment, 
+
+to your satisfaction and beyond a reasonable doubt. A 
+
+reasonable doubt is not a mere possible doubt. It should 
+
+be an actual or substantial doubt. t is such a doubt as 
+
+a reasonable man would seriously entertain. It is a 
+
+serious doubt, for which you could give good reason. 
+
+{Emphasis added.) 
+
+This instruction defined reasonable doubt through the use of 
+phrases that have been disapproved in the past, including “grave 
+uncertainty," “moral uncertainty,” and "actual or substantial 
+doubt," combined with the explanation that the jury could acquit 
+only if it had "serious doubt, ‘or which you could give good 
+reason." Petitioner argues that this “good reason" limitation on 
+reasonable doubt, in conjunction with other errors, lowered the 
+
+
+standard of proof required by due process. 
+
+
+In amalyzing this charge under a more stringent AEL?A 
+
+
+Standard, the charge is able to pass comst:ituticnal muster. Terms 
+such as “substantial basis" in connection with “grave uncertainty" 
+has been recently allewed by the Fifth Circuit. as has “grave 
+uncertainty” used with “moral certainty”. See Weston v.Ieyoub, 69 
+F.3d 73 (Sth Cir. 1995); and Gaston v. Whitley, 67 F.3d 121 (Sth 
+Cir. 21995), cert. denied, 51:8 U.S. 1023, 116 §.Ct. 28561, 135 
+L.=d.2d 1078 (1996). The Fifth Circuit has also upheld 
+instructions using the phrases "substantial doubt" together with 
+"moral certainty.” Schnider v. Day, 73 F.3d 610 (Sth Cir. 1996) ; 
+and Bias v. Ieyoub, 36 F.3d 479 (Sth Cir.1394). 
+
+Moreover, other circuits have refused to reverse convictions 
+with articulation demanding reasonable-doubt instruction such as 
+the one in this case. See Chalmers v. Mitchell, 73 F.3d 1262, 1268- 
+69 (24 Circ. 1996); U.S. _., 37 §$.CE 196, 136 L.Ed.2d 60 
+(1996) ; 5 =. , 118 F.3d 900 (2d Cir.1997); and Vargas 
+
+
+v. Keane. 86 F.3d 1273, (2d Cir. 1996). cert. denied, J.S. 
+
+
+‘ 
+
+
+117 $.Ct. 240, 136 L.Ed.2d 169 (1996). The Second Circuit held 
+that an instruction survived due process scrutiny in spite of its 
+characterization of reasonable doubt as “doubt for which you can 
+
+
+give a reason if called upon to do so by a fellow juror in the jury 
+
+
+room." Vargas at 1277-79. 
+In Humphry these three phrases read in connection with the 
+good reason limitation was found to deny the petitioner a 
+constitutional jury trial. They found that this jury instruction 
+"define[d) reasonable doubt with all the phrases that 
+(although panned by the Court) survived constitutional 
+attack in Victor, but [they] are coupled with an 
+additional potent qualifier. Arguably, jurors were not 
+allowed to entertain doubt without being able to express 
+a good reason. The abiding conviction of guilt to a 
+
+
+moral certainty could abide only if the juror could offer 
+a good explanation.” 
+
+
+Humphry at 531. 
+The Humphry court, in determining the instruction’s 
+constitutionality, used the more relaxed standard in Victor.’ 
+However, when analyzing this charge under a more stringent AEDPA 
+Standard, petitioner is not able to surmount the formidable 
+barriers erected by the Anti-terrorism and Effective Death Penalty 
+Act. 
+
+Therefore, after reviewing the record and the report of the 
+Magistrate Judge, I find that the state court decision denying 
+Tyler relief was not contrary to any clearly established federal 
+
+
+law. Accordingly, Tyler’s petition for habeas relief is denied. 
+
+
+” Messick at 3. 
+
+
+After a de novo review of the record, the applicable law, the 
+Report and Recommendation of Magistrate Judge Moore, and 
+Plaintiff's objections to the report. T approve the Magistrate 
+Judge's Report an@ Recommendation and adopt it as my opinion. 
+
+Accordingly 
+
+
+IT IS ORDERED that plaintiff's suit is DISMISSED WITH 
+
+
+es 
+
+
+MOREY L. SEAR 
+
+
+PREJUDICE. 
+
+
+CHIEF JUDGE 
+
+

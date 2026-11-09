@@ -1,0 +1,63 @@
+{
+  "case": "lorillard",
+  "record": "terms/OT2000/records/Lorillard_Tobacco_Co_v_Reilly_merits_2001-06-28.md",
+  "sha256": "5007354d33fdf818752d35c3117d917ea4f7dbfa16d140d2178613ee6a0e0eb6",
+  "public_sha256": "779e4621bb8d1616630183fc11aaa31a692582e940e6509777be91f11e80c8d9",
+  "exact_first_four_labels": true,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identity": true,
+  "explanation_words": [
+    {
+      "holding": "I. Covered cigarette advertising is expressly preempted",
+      "words": 186
+    },
+    {
+      "holding": "II-A. The outdoor preventive showing establishes material advancement at this limited level",
+      "words": 174
+    },
+    {
+      "holding": "II-B. The categorical outdoor restrictions lack reasonable fit",
+      "words": 235
+    },
+    {
+      "holding": "III-A. The height rule lacks demonstrated material advancement",
+      "words": 159
+    },
+    {
+      "holding": "III-B. The height rule also independently fails reasonable fit",
+      "words": 142
+    },
+    {
+      "holding": "IV. Staff-mediated access survives the presented speech challenge",
+      "words": 197
+    },
+    {
+      "holding": "V. Sampling and derivative inseverability remain distinct questions",
+      "words": 165
+    }
+  ],
+  "local_links_resolve": true,
+  "text_hygiene_pass": true,
+  "assignment_receipt": "terms/OT2000/freeze/OT_2000CHUNK8_ASSIGNMENT_lorillard.json",
+  "substantive_compatibility": "Final frozen commitments and approved Stone core preserved; no post-reconciliation Associate change.",
+  "integration_status": "Per-case assembly checks complete; coordinated workspace and term checks belong to root integration.",
+  "assembly_validation_clarification": {
+    "preserved_initial_bytes": "terms/OT2000/tmp/chunk8_lorillard_initial_assembly_before_scope_validation.md",
+    "initial_sha256": "6f8cf52c7d83f2a5a14aedbd77c47ee8f521f617fa139b866811ff79c30f4ac1",
+    "change": "Restored the frozen indoor height-rule geographic trigger in both identical Holdings copies: establishments within the specified 1,000-foot playground/school radius.",
+    "opinion_tables_and_assignment_unchanged": true,
+    "prior_assignment_sources": "Palazzolo and Tyler counted the identical opinion tables. Their source extracts contain no Record-content digest and their count timing is unchanged."
+  }
+}

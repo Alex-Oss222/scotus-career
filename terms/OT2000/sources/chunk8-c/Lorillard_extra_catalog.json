@@ -1,0 +1,85 @@
+{
+  "listing_query": "collection:us-supreme-court AND (\"00-597\" OR Altadis)",
+  "listing_url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2200-597%22+OR+Altadis%29&output=json&rows=30&fl%5B%5D=identifier&fl%5B%5D=title",
+  "items": [
+    {
+      "identifier": "micro_IA40386019_1432",
+      "title": "Lorillard Tobacco Co. v. Reilly, 532 U.S. 956 (2001) (No. 00-597)"
+    }
+  ],
+  "files": [
+    {
+      "item": "micro_IA40386019_1431",
+      "names": [
+        "micro_IA40386019_1431 01. Docket_djvu.txt",
+        "micro_IA40386019_1431 02. Petition for Writ of Certiorari_djvu.txt",
+        "micro_IA40386019_1431 03. Appendix_djvu.txt",
+        "micro_IA40386019_1431 04. Opposition Brief_djvu.txt",
+        "micro_IA40386019_1431 05. Reply Brief_djvu.txt",
+        "micro_IA40386019_1431 06. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 07. Joint Appendix_djvu.txt",
+        "micro_IA40386019_1431 08. Petitioners Brief_djvu.txt",
+        "micro_IA40386019_1431 09. Petitioners Brief_djvu.txt",
+        "micro_IA40386019_1431 10. Respondents Brief_djvu.txt",
+        "micro_IA40386019_1431 11. Reply Brief_djvu.txt",
+        "micro_IA40386019_1431 12. Reply Brief_djvu.txt",
+        "micro_IA40386019_1431 13. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 14. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 15. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 16. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 17. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 18. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 19. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 20. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 21. Appendix_djvu.txt",
+        "micro_IA40386019_1431 22. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 23. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 24. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 25. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 26. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 27. Appendix_djvu.txt",
+        "micro_IA40386019_1431 28. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 29. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 30. Appendices_djvu.txt",
+        "micro_IA40386019_1431 31. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 32. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 33. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 34. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 35. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1431 36. Appendix_djvu.txt",
+        "micro_IA40386019_1431_djvu.txt"
+      ]
+    },
+    {
+      "item": "micro_IA40386019_1432",
+      "names": [
+        "micro_IA40386019_1432 02. Petition for Writ of Certiorari_djvu.txt",
+        "micro_IA40386019_1432 03. Appendix_djvu.txt",
+        "micro_IA40386019_1432 04. Opposition Brief_djvu.txt",
+        "micro_IA40386019_1432 05. Joint Appendix_djvu.txt",
+        "micro_IA40386019_1432 06. Petitioners Brief_djvu.txt",
+        "micro_IA40386019_1432 07. Petitioners Brief_djvu.txt",
+        "micro_IA40386019_1432 08. Respondents Brief_djvu.txt",
+        "micro_IA40386019_1432 09. Reply Brief_djvu.txt",
+        "micro_IA40386019_1432 10. Reply Brief_djvu.txt",
+        "micro_IA40386019_1432 11. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 12. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 13. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 14. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 15. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 16. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 17. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 18. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 19. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 20. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 21. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 22. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 23. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 24. Appendix_djvu.txt",
+        "micro_IA40386019_1432 25. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432 26. Amicus Curiae Brief_djvu.txt",
+        "micro_IA40386019_1432_djvu.txt"
+      ]
+    }
+  ]
+}

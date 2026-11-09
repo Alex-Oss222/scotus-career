@@ -1,0 +1,1609 @@
+FEB 13 rov| i" Siprene Cont US) 
+No. 00-121 , | 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States . 
+ie 
+
+
+GEORGE DUNCAN, Superintendent, 
+Great Meadow Correctional Facility, 
+Petitioner, 
+¥. 
+SHERMAN WALKER, 
+Respondent. 
+
+
+On Writ of Certiorari to 
+The United States Court of Appeals 
+for the Second Circuit 
+
+
+BRIEF FOR RESPONDENT 
+
+
+JOHN H. BLUME DEBORAH WOLIKOW LOEWENBERG * 
+CORNELL LAW SCHOOL GEORGE W. GALGANO, JR. 
+
+110 Myron Taylor Hall 155 North Main Street 
+
+Ithaca, NY 14853 New City, NY 10956 
+
+(607) 255-1030 (845) 638-4747 
+
+KEIR M. WEYBLE * Counsel of record 
+
+
+P.O. Box 11744 
+Columbia, SC 29211 
+(803) 765-1044 
+
+
+Counsel for Respondent 
+
+
+WILSON-EPES PRINTING Co., INC. — (202) 789-0096 -— WASHINGTON, D.C. 20001 
+
+
+IBEST AVAILABLE COPY 
+
+
+PETITIONER’S QUESTION PRESENTED 
+
+
+Whether’ a prior federal habeas corpus petition is an 
+“application for State post-conviction or other collateral 
+review” within the meaning of 28 U.S.C. §2242(d)(2), which 
+provides that the one-year statute of limitations for federal 
+habeas corpus petitions set forth in the Antiterrorism and 
+Effective Death Penalty Act (““AEDPA”) is tolled during the 
+pendency of such an application. 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+PETITIONER’S QUESTION PRESENTED ................ i 
+ee Bs CIRM TED wicececneesnensseensssnciccosernnssaine iV 
+RESPONDENT’S STATEMENT OF THE CASE........ I 
+APE PEG SIR” FADAPUPINEEIES © snccesnencccsronececnssscscsoesssncce 6 
+nT TT sinsiduiessindintsttuenininsdensbnantprscennonaniincnsanstendehestsonse 8 
+I. THE COURT OF APPEALS PROPERLY 
+CONSTRUED THE PLAIN LANGUAGE OF 
+THE SECTION 2244(d)(2) TO INCLUDE 
+PRIOR PETITIONS FOR WRITS OF 
+NE AUER TEND sesintsosccoseenenssnecncsencesounnssvesnes 8 
+Il. THE LIMITATIONS PERIOD IS SATISFIED 
+WHEN AN APPLICATION FOR A WRIT 
+OF HABEAS CORPUS IS FILED WITH 
+Re CPs GO IIIED snccicsrcncsesccerenrescerncesncee 16 
+Ill. SUSPENDING THE RUNNING OF THE 
+LIMITATIONS PERIOD DURING THE 
+PENDENCY OF A PETITION SUBSE- 
+QUENTLY DISMISSED WITHOUT PREJU- 
+DICE IS CONSISTENT _WITH THE 
+PM EE SIE” RBG) ccccevenscenescrvsscsvensccnsosaonee 24 
+nnn sects thinniamvabetodiasandusctnensnewonnuanennarseanccene 28 
+
+
+(ili) 
+
+
+iV 
+TABLE OF AUTHORITIES 
+CASES Page 
+Adams v. United States, 155 F.3d 582 (2nd Cir. 
+PID uccicacicceitesalisnteichasabcieakieaiciaeseimecaliaaseaaimnaianianss 28 i 
+Agency Holding Corp. v. Malley-Duff & 
+Associates, Inc., 483 U.S. 143 (1987)............... 21 
+American Pipe & Construction Co. v. Utah, 414 
+SEs AE PE Dcctvcrsisiinceaninnhdadbicsinistinseackehinkiinilt 19, 20 
+Artuz v. Bennett, 121 S.Ct. 361, (2000) ................. l 
+Banks v. Horn, 126 F.3d 206 (3rd Cir. 1997) ........ 23 
+Barrett v. Yearwood, 63 F. Supp. 2d, 1245 (E.D. 
+CR: SIP Pasicchidecicianeansinccenceeaehtacaniacesisanartmniiadeeniie 4 
+Bear v. Boone, 173 F.3d 782 (10th Cir. 1999)....... 22 
+Blue Chip Stamps v. Manor Drug Stores, 421 
+SEs Fae 1 1H oi scxensciitinninssiaeetibiantametheuaaaimanake 15 
+Burnettt v. New York Central Railroad Co., 380 
+Fes MRO Fe Pisanticnscecncnenaebianmnandlagiadniignade 20 
+Calderon v. United States District Court, 128 
+F.3d 1283 (9th Cir. 1998), cert. denied, 522 
+A Fe slcindiitapintibitiiaccidoainpaiabiienditatiia 3 
+Conroy v. Aniskoff, 507 U.S. 511 (1993)... 18 ; 
+Duncan v. Walker, 121 S.Ct. 480 (2000)............... 6 
+Evici v. Commissioner of Corrections, 226 F.3d 
+Be CEE CR, a iccissniasidieadaicsemiiitinetbeaanaiins 22 
+FCC v. Pacifica Foundation, 438 U.S. 726 | 
+(| RSE Te Mn ont AN oe 12 | 
+Gozlon-Peretz v. United States, 498 U.S. 395 
+OC PIPUPE P oiscciscuncosiessicsnssssbassaliisiuibiaitaanataninaiidaiaiuadimmcanausiaiiakie 15, 19 
+Granberry v. Greer, 481 U.S. 129 (1987) ............. 17 
+Green v. Johnson, 116 F.3d 1115 (Sth Cir. 1997). 16 
+Grooms v. Johnson, 208 F.3d 489 (Sth Cir. 
+RAID sincrsoeucsiiciooanspedelbasssasidideiialmnsmelaeeaictaclaaiccas 6 
+Harrison v. Galaza, 1999 WL 58594 (N.D. Cal. 
+PS, FID viccasissenihnsebsienetileatianitatnisnaieiiahetasitaien 22 
+Jimenez v. Rice, 222 F.3d 1210 (9th Cir. 2000)..... 6 | 
+
+
+Vv 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Johnson v. Railway Express Agency, Inc., 421 
+
+OF, S56 CIF TS) inenictccnsicencsvnntoigeivctontnntaunniietinanetnie 20 
+Jones v. Morton, 195 F.3d 153 (3d Cir. 1999)....... 5, 9, 21 
+Kethley v. Berge, 14 F. Supp 2d 1077 (E.D. 
+
+BUD BI ciccrsensinssecnnnseanneainigaaiatannetuincnuininteniies a an 
+Lewis v. Casey, 518 U.S. 343 (1996)........ccsceeeees 13 
+Lindh v. Murphy, 521 U.S. 320 (1997) ......ccseeceeeees 15 
+Longchar v. Thomas, 517 U.S. 314 (1996)............ 28 
+
+
+Mercadel v. Cain, 179 F.3d 271 (Sth Cir. 1999)... 22 
+Morgan v. Bennett, 204 F.3d 360 (2nd Cir. 
+
+
+OD cissaccissiaihhsicteiaetitntnciaiacilsiitiaiclaninlleaisiiti 22 
+Musick, Peeler & Garrett v. Employers Ins., 508 
+
+OE, FIO CI enisaitinenniinaesnianinistnnitsninenninsinniianns 19 
+Nichols v. Bowersox, 172 F.3d 1068 (8th Cir. 
+
+IID vicccnsevissiniceinsineennepienincaiauiniieanscaascictimemniatasintaiia 16 
+Pedraza v. State of Oklahoma, 1999 WL 644814 
+
+(26 tla Che; Ati, ZS, TGIF) csecissinscisntiemistssovmnivesns 22 
+People v. Rosario, 173 N.E.2d 881(N.Y.), cert, 
+
+Gemnied, DGB 01.3. BGG. CUB) cccscesensinssansccresnscsnnse 2 
+People v. Walker, 628 N.Y.S.2d 950 (N.Y. 
+
+ADD. DIV. 1995) .ccccnccoscscrseessrcosanscsesvesecsnnscessenecess 2 
+People v. Walker, 639 N.Y.S. 2d 932 (N.Y. App. 
+
+EIU, BBE) eensicncesesennnncsinnnpitvnnnnnecumannnsaansiniinonn 2 
+People v. Walker, 664 N.E.2d 519 (N.Y.1996)...... 2 
+Peterson v. Demskie, 107 F.3d 92 (2d Cir. 
+
+PITY sccthsninensnintacccnchisprasutcinanciiamaaiinmaniiiamione 3 
+Petrick v. Martin, 263 F3d. 624, (10th Cir. 
+
+FATED scsinccicinevisiitinsnaiinniniiiistineiiiiiaaanbaciiaadeitnaaines passim 
+Reiter v. Sonotone Corp., et al, 442 U.S. 330 
+
+CFI ccssuissitishisieniatiiiandionguatiaibsibonsiinpincabdbmuaadtaiiocicans 12 
+Rogers v. United States, 180 F.3d 349 (1st Cir. 
+
+DOOD isiecdinieeciaviieisiigiiaiiih cent nitaaenitmiianniniains 16 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Ross v. Artuz, 150 F.3d 97 (2d Cir. 1998).............. 3, 16 
+Russello v. United States, 464 U.S. 16, 23 (1983). 15, 19 
+Sheridan v. United States, 487 U.S. 392 (1988)... 19 
+
+
+Slack v. McDaniel, 120 S.Ct. 1595 (2000) ............ 25 
+Snowden v. Singletary, 135 F.3d 732 (11th Cir. 
+
+PIPIGED vasucknsnaiunsandesnbsiahebiibbaitaieannanintapentniamianaiiaias 23 
+Stewart v. Martinez-Villareal, 523 U.S. 637 
+
+CBIPIIIE  ..:icrcoincasnichsssnnsiisininbeentaeadeanidielmmmisasitalaenal 10 
+Strickland v. Washington, 466 U.S. 668 (1984)..... 17 
+Thompson v. United States, 246 U.S. 547 (1918).. 18 
+Touche Ross & Co. v. Redington, 442 U.S. 560 
+
+(TTD D ccosnstnisntacsiastuiaitaisssaiamddammeimam maaan 15 
+United States v. Evans, 224 F.3d 670 (2000)......... 27 
+United States v. Flores, 135 F.3d 1000 (Sth Cir. 
+
+PPD ncccasncesssetnicniceenlinnciobansdsieaianalaaaainiaaaaie’ 3 
+United States v. James, 478 U.S. 597 (1986)......... 12 
+United States v. Miller, 197 F.3d 644 (3d Cir. 
+
+OPTED P siss:nissesndneinecieseshiiaaieesiiledeiiesinedtelaspiadia maine aciialaiaan 27 
+United States v. Simmonds, 11 F.3d 737 (10th 
+
+G00, CSF 7 } snscontassnnanabankenamieaieeaaimuiiaeieaiaiea 3 
+Vincze v. Hickman, 1999 WL 98330 (E.D.Cal. 
+
+FORTS, POW) ccsncinsassinviciasigasiasiaesataiadiiaeeiatihinns 22 
+Walker v. Artuz, 208 F.3d 357 (2d. Cir. 2000)....... passim 
+
+
+Walker v. Legal Aid Society, et al. No. 96 Civ. 
+2946, 1996 U.S. Dist. LEXIS 22492 
+
+
+(SDI. Y 4, BURY Th, FI ii ncieereea 3 
+Walters v. Metro. Educ. Enter., Inc., 117 S.Ct. 
+Ce TP iaiinin sciietcnesicnicatecinheniicseaiamaaneeae nas 13,14 
+
+
+Whitefield v. United States, 92 U.S. 165 (1875)... 18 
+Wilcox v. Florida Department. of Corrections, 
+
+158 F.3d 1209 (11th Cir. 1998) ............ccssscsceees 16 
+Williams v. Taylor, 520 U.S. 420 (2000)............... 12, 13 
+Wilson v. Garcia, 471 U.S.261 (1985)...............000 21 
+
+
+vii : 
+TABLE OF AUTHORITIES—Continued 
+
+
+STATUTES Page 
+Be WE cs Se a citcattncicincinitenniiteinnynniiniccinininianiaitis l 
+De A ities SE tcl eitineemigninminnimsinnntin 25 
+Be Ree ee ROD tectsinsscctintsnncnnnentibianiinennien 18, 21, 23, 24 
+Be ea IRD Nestcetesctitnintniweintnilitvinninsnireniins passim 
+Fe a SID cieeensinininiceensearininnietieaniis l 
+Ul ils: GOOD peaninctrcenvinntetnneseenusinnientuietiin passim 
+Be ie ns ee ritnidlicennenivavninenetcnneneeiniisneiinn 3, 25 
+Be Bere Ren ED sihinintcinsncienenesihsnienstivemntntiniinneitiin 17 
+Te Ua. IE Dict itnltriacerrinriniinicirnpanoneinias 18 
+ee ce SED ‘siciicasainenhcnecanaiantecenneeianiiiatin passim 
+is SE iiniiineincaseiiatiiniicnnniiatiiaiinls 27, 28 
+Be tics HET aciitcradnsipnntctiauneniainintaibeamnanianiniiiens 1,15 
+Be Re, ED stissnesietiinncenentigmsinstinnie 10, 11, 14, 15 
+Be UK. FED csecesanninsnvesninsasensinnsneavonin 15 
+
+
+GE UK, GE scare ctessseiiesernentarsentasesevsnntoentwensnnstin 2 
+
+
+RESPONDENT’S STATEMENT OF THE CASE 
+
+
+Introduction 
+
+
+One of the several changes Congress made to federal 
+habeas proceedings in the Antiterrorism and Effective Death 
+Penalty Act, (hereinafter “AEDPA”), was the creation of a 
+one year statute of limitations for habeas corpus petitions 
+filed by state prisoners. 28 U.S.C. § 2244.' The limitations 
+provision requires habeas petitioners, in most circumstances, 
+to file their federal petitions within one year of the time their 
+State convictions become final on direct review. 28 U.S.C. 
+§ 2244(d)(1)(a).” The statute provides that the limitations 
+period is tolled during the pendency of “a properly filed 
+application for State post-conviction or other collateral 
+review with respect to the pertinent judgment or claim”. 28 
+U.S.C. § 2244(d)(2). See also Artuz v. Bennett, 121 S.Ct. 
+361, (2000) This case presents the specific question whether 
+the filing of a petition for a writ of habeas corpus in federal 
+district court is an application for “State post-conviction or 
+other collateral review” thereby tolling the limitations period. 
+That question necessarily involves a determination whether a 
+petition containing unexhausted claims is, nonetheless, an 
+application for habeas corpus relief, satisfying AEDPA’s 
+requirement that the application be filed in federal court 
+within one year. 
+
+
+' The AEDPA creates a shorter limitations period for state capital 
+offenders in “opt in” jurisdictions, see 28 1J.S.C. §2263(a), which is not in 
+issue in this case. 
+
+
+’ There are certain other “triggering mechanisms” which commence the 
+limitations period, e.g., newly discovered evidence, new rules of law, and 
+the termination of state impediments to filing. See §2244(d)(1). These 
+other initiating events are also not at issue in this case. 
+
+
+Prior Proceedings 
+
+
+Respondent entered a guilty plea to the charge of Robbery 
+in the First Degree on June 6, 1992, in Queens County, New 
+York Supreme Court. He was sentenced to a seven to 
+fourteen-year indeterminate term of incarceration. He raised 
+four claims on direct appeal to New York’s intermediate 
+appellate court: (1) a violation of People v. Rosario, 173 
+N.E.2d 881(N.Y.), cert, denied, 368 U.S. 866 (1961) arising 
+from the prosecution’s failure to tum over a_ witness’ 
+statement; (2) an abrogation of his Sixth Amendment right to 
+counsel at a police-arranged lineup; (3) a due process 
+violation as a result of a suggestive lineup; and (4) an 
+argument that the imposed sentence was _ excessive. 
+Respondent’s conviction was affirmed on June 12, 1995. 
+People v. Walker, 628 N.Y.S.2d 950 (N.Y. App. Div. 
+1995).(App. 30a-46a) The New York Court of Appeals 
+dismissed Respondent’s application for leave to appeal on 
+January 15, 1996. People v. Walker, 664 N.E.2d 519 
+(N.Y.1996).(App. 95a-96a) Respondent did not seek a writ 
+of certiorari. Therefore, his conviction became final on April 
+15, 1996. 
+
+
+While Respondent’s application for leave to appeal was 
+pending in the New York Court of Appeals, he sought a writ 
+of error coram nobis from the Appellate Division. His pro se 
+application alleged that he was denied the right to the 
+effective assistance of appellate counsel due to counsel’s 
+failure to investigate the veracity of information given to law 
+enforcement by a confidential informant and by the New 
+York Legal Aid Society’s withdrawal as counsel of record 
+because it had previously represented the confidential 
+informant. The application was denied «a March 18, 1996. 
+People v. Walker, 639 N.Y.S. 2d 932 (N.Y. App. Div. 
+1996).(App. 148a-149a) 
+
+
+On April 10, 1996, Respondent, pro se, filed a single 
+document in the United Stated District Court for the Eastern 
+
+
+3 
+
+
+District of New York containing both a claim under 42 
+U.S.C. § 1983 and claims for federal habeas relief pursuant to 
+28 U.S.C. § 2254. On July 12, 1996, the federal district court 
+dismissed Respondent's petition without prejudice. Walker v. 
+Legal Aid Society, et al. No. 96 Civ. 2946, 1996 U.S. Dist. 
+LEXIS 22492, at *4 (E.D.N.Y., July 12, 1996) (App. 20a) 
+The court did so because it was “not apparent that 
+Respondent had exhausted all of his state remedies.”. 
+
+
+On May 22, 1997, Respondent, still pro se, and without 
+having returned to state court, filed a federal petition for 
+habeas corpus containing all exhausted claims. Applying the 
+then prevailing law in the Second Circuit, see Peterson v. 
+Demskie, 107 F.3d 92 (2d Cir. 1997) the district court 
+dismissed Respondent’s petition as untimely, holding that 
+Respondent had failed to file in federal court within a 
+“reasonable time” of AEDPA’s April 24, 1996 enactment.’ 
+Walker v. Artuz, 1998 WL 355398 (E.D.N.Y., May 6, 1998). 
+
+
+The Second Circuit granted Respondent a Certificate of 
+Appealability on December 1, 1998, appointed counsel and 
+certified two questions for review: the first of which 
+concerned whether Respondent’s “first petition ... tolled the 
+period of limitations set forth in 28 U.S.C. § 2244(d)(2); the 
+second question concerned whether equitable tolling was 
+appropriate “where the prior, timely-filed section 2254 
+
+
+* Respondent’s conviction became “final” several weeks prior to the 
+enactment of AEDPA. Initially, as noted above, the Second Circuit held 
+that such petitioners had a “reasonable time” to file in federal court. 
+Subsequently, however, the Second Circuit (and most other federal circuit 
+courts of appeal), determined that individuals whose convictions were 
+final prior to AEDPA’s April 24, 1996 enactment, were entitled to a one 
+year grace period. See Ross v. Artuz, 150 F.3d 97, 100-02 (2d Cir. 1998) 
+United States v. Flores, 135 F.3d 1000, 1006 (Sth Cir. 1998) Calderon v. 
+United States District Court, 128 F.3d 1283, 1287 (9th Cir. 1998), cert. 
+denied, 522 U.S. 1099 (1998) United States v. Simmonds,11 F.3d 737, 746 
+(10th Cir. 1997) 
+
+
+4 
+
+
+petition was dismissed without prejudice for failure to 
+exhaust all claims . . .” (App. 21a-22a). On March 27, 2000, 
+the Second Circuit Court of Appeals reversed the decision of 
+the district court, holding that § 2244(d)(1)’s one-year statute 
+of limitations was tolled while Respondent’s mixed petition 
+was pending in the district court. 
+
+
+Construing the statutory language, the Second Circuit court 
+reasoned that the limitations period is tolled during the time a 
+“properly filed application for State post-conviction or other 
+collateral review wiih respect to the pertinent judgment or 
+claim is pending.” 28 U.S.C. §2244 (d)(2) In the Second 
+Circuit court’s view, the plain meaning of the statute 
+compelled a determination that a federal habeas petition is an 
+application for “collateral review”. 208 F.3d at 359. While 
+the court stated that it is possible to interpret the word “State” 
+in Section 2244(d)(2) to modify both “post-conviction” and 
+“other collateral”, it determined that “[c]lose analysis of the 
+statute’s language, however shows that ‘State’ modified only 
+the word ‘post-conviction’, and the phrase ‘other collateral’ 
+is to be given its naturally broader meaning.” Walker v. Artuz, 
+208 F.3d 357, 359 (2d. Cir. 2000). The construction urged by 
+the government was, in the Second Circuit court’s view, 
+“ungainly.” /d. The panel stated: 
+
+
+We choose to adopt an interpretation that gives full 
+meaning to the phrase “State post-conviction review”, 
+which means federal habeas petitions. As the district 
+court held in Barrett, “State post-conviction review” 
+means all collateral review of a conviction provided by a 
+state”, and the phrase “other collateral review” would be 
+meaningless if it did not refer to federal habeas petitions. 
+Barrett 63 F. Supp. 2d, at 1250 
+
+
+Id. at 360. The court further held that its conclusion was 
+consistent with the overall objective of the AEDPA “because 
+the statute of limitations remains enforceable and intact. Our 
+interpretation merely avoids penalizing state prisoners who 
+
+
+5 
+
+
+properly have filed federal habeas petitions and are awaiting a 
+response from the court.” Jd. The court also stated that its 
+interpretation of Section 2244(d)(2) would “reward 
+petitioners for filing their federal petitions as soon as 
+possible, thus promoting the statutory objective of efficiency 
+in the review of state court judgments” and lead to “speedier 
+completion of collateral review”. /d. at 360-61. The Walker 
+court rejected the position urged by the government on 
+appeal, and again in this Court, as unfair. Citing Kethley v. 
+Berge, 14 F. Supp 2d 1077, 1079 (E.D. Wis.1998) the Second 
+Circuit Court of Appeals stated: 
+
+
+In the Wisconsin case of Kethley v. Berge, the district 
+court indeed held that “time is not tolled while an 
+improperly filed federal habeas petition is gathering dust 
+on district court shelves” pursuant to Section 2244(d)(2). 
+See Kethley v. Berge, 14 F.Supp. 2d 1077, 1079 (E.D. 
+Wis. 1998). However, the Wisconsin court also 
+recognized the inequity resulting from its interpretation, 
+stating that “the procedural dismissal of petitioner’s 
+action in the present case should not later be construed to 
+produce the unintended effect of barring federal habeas 
+review under the AEDPA statute of limitations 
+provision.” /d. 
+
+
+Id. at 361. Because the Second Circuit Court of Appeals 
+decided that Respondent’s federal petition tolled the 
+limitations period, it “did not reach his alternative [equitable 
+tolling] argument.” /d. 
+
+
+The Second Circuit’s holding was recently embraced by 
+the Tenth Circuit Court of Appeals in its decision Petrick v. 
+Martin, 263 F3d. 624, (10th Cir. 2001), WL8313, 2001 (10th 
+Cir. [Okla.] Jan. 03, 2001) (No. 99-6399). However, the 
+Third, Fifth and Ninth Circuits each have narrowly construed 
+the statute to exclude federal habeas petitions from tolling the 
+limitations period. See, Jones v. Morton, 195 F.3d 153 (3d 
+
+
+6 
+
+
+Cir. 1999); Grooms v. Johnson, 208 F.3d 489 (Sth Cir. 1999); 
+Jimenez v. Rice, 222 F.3d 1210 (9th Cir. 2000). 
+
+
+On November 13, 2000, this Court granted the 
+government’s application for a writ of certiorari to resolve the 
+conflict among the circuit courts. 121 S.Ct. 480 (2000), 69 
+USLWW 3310 (No. 00-121). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Second Circuit’s holding in the case below, embraced 
+by the Tenth Circuit in Petrick v. Martin, supra., that the one- 
+year statute of limitations established by 28 U.S.C. 
+§ 2244(d)(1) is tolled during the pendency of an application 
+for federal habeas relief, is supported by the plain reading of 
+the statute, the traditional canons of statutory construction, 
+the concomitant principles of exhaustion and comity, and by 
+the policy underlying the enactment of the AEDPA. 
+
+
+The basic rules of grammar and statutory construction 
+require that phrases on opposite sides of the disjunctive “or” 
+be given their separate meanings. Because the terms “post- 
+conviction” review and “collateral review” are often used 
+interchangeably by practitioners and courts alike, the phrase 
+“other collateral review” has very little meaning if it does not 
+include federal habeas petitions. The interpretation urged by 
+the government would require this Court to rewrite the statute 
+to include the word “State” immediately before the second 
+part of the disjunctive, “other collateral review”. 
+
+
+The government’s contention that “other collateral review” 
+refers only to those atypical proceedings that are not post- 
+conviction in nature, such as mental health confinements, 
+urges this Court to ignore the ordinary and customary 
+meaning of the terms “post-conviction” and “collateral 
+review’. Those terms conventionally refer to habeas corpus 
+or judicial orders issued after a conviction becomes final. 
+Certainly, the phrase “other collateral review” is broad 
+
+
+7 
+
+
+enough to encompass such proceedings and federal habeas 
+corpus petitions. 
+
+
+The statute of limitations was satisfied when Respondent 
+filed his first petition for habeas relief within one year of his 
+state court conviction becoming final. If the limitations clock 
+continued to run during the period his petition was pending in 
+federal district court, he would be penalized for complying 
+with the statute. By encouraging state prisoners to file their 
+applications for federal habeas relief within one-year of their 
+convictions becoming final, the principles of comity and 
+exhaustion are facilitated. Federal district courts are often 
+helpful to habeas petitioners, the vast majority of whom are 
+pro se, by advising whether a claim needs to be further 
+addressed by the state courts. 
+
+
+The Second Circuit’s holding comports with and furthers 
+‘Congress’ goals in the enactment of the AEDPA. Because 
+state prisoners have no ability to influence whether or not 
+their applications will be heard swiftly, the Second Circuit’s 
+ruling is the only fair interpretation of the statute. Congress 
+did not intend to eliminate the right of federal habeas review 
+to prisoners who file timely applications, even if they contain 
+unexhausted claims. 
+
+
+Finally, the Second Circuit’s holding does not encourage 
+state prisoners to circumvent the statute of limitations by 
+filing petitions that contain unexhausted claims. Section 
+2254(b)(2) enables a district court to deny a petition on the 
+merits, even if it contains unexhausted claims. The real 
+possibility that a state prisoner’s petition may be dismissed on 
+the merits, thus requiring that he seek leave to file a second or 
+successive petition, is certainly not a risk most would take. 
+
+
+The judgment of the Second Circuit should be affirmed. 
+
+
+8 
+
+
+ARGUMENT 
+
+
+I. THE COURT OF APPEALS PROPERLY CON- 
+STRUED THE PLAIN LANGUAGE OF THE 
+SECTION 2244(D)(2) TO INCLUDE PRIOR } 
+PETITIONS FOR WRITS OF HABEAS ; 
+CORPUS. 
+
+The Second Circuit held that federal petitions for writs of 
+habeas corpus are included in the phrase “State post- 
+conviction or other collateral review”. 28 U.S.C. 
+§ 2244(d)(2). By applying traditional canons of statutory 
+construction, including both a natural reading and contextual 
+analysis of the statute, the Second Circuit’s ruling ensured 
+Respondent’s right to one full review of his constitutional 
+claims by the federal courts. In so ruling, the Second Circuit 
+remained faithful to the common law of habeas corpus and 
+simultaneously furthered Congress’ goals in enacting the 
+AEDPA. 
+
+The Second Circuit held that the one-year limitations 
+period was tolled during the time Respondent’s unexhausted 
+petition was pending in federal court. Walker, 208 F.3d at 
+361-62. The court so ruled by analyzing § 2244(d)(2), which 
+states: 
+
+The time during which a properly filed application for 
+
+State post-conviction or other collateral review with 
+
+respect to the pertinent judgment or claim is pending 
+
+shall not be counted toward any period of limitation 
+
+under this subsection. 
+The panel construed the phrase, “([s]tate post-conviction or 
+other collateral review” to include federal habeas petitions. 
+208 F.3d at 359-61. Thus, the court held that Respondent’s 
+unexhausted petition stopped the limitations clock. /d. A 
+closer examination of the Second Circuit’s decision in 
+Respondent’s case, as well as the Tenth Circuit’s decision in 
+Petrick v. Martin, 2001 WL 8313 (10th Cir., Jan. 3, 2001), 
+agreeing with the Second Circuit, must result in an 
+affirmance. 
+
+
+REN eS er a EM | 
+
+
+9 
+
+
+The Second Circuit held that the statutory limitations 
+period was tolled during the pendency of a feder®! petition 
+ultimately dismissed due to uncertainty about its exhaustion 
+status. In the court’s view, a federal petition was an 
+“application for State post-conviction or other collateral 
+review” satisfying Section 2244(d)(2)’s tolling requirement. 
+In finding so, the court addressed the Third Circuit’s 
+conclusion to the contrary, in Jones v. Morton, 195 F.3d 153 
+(3rd Cir. 1999). 
+
+
+Jones held that the word “State” should be read to modify 
+both “post-conviction” and “other collateral review”, thus 
+affording tolling “for various forms of state review only.” 
+195 F.3d at 159. The Second Circuit acknowledged that “[iJt 
+is possible to interpret ‘State’ in Section 2244(d)(2) to modify 
+both ‘post-conviction’ and ‘other collateral,’ 208 F.3d at 
+359, but concluded that “[c]lose analysis of the statute [sic] 
+language, however, shows that ‘State’ modifies only the word 
+‘post-conviction,’ and the phrase ‘other collateral’ is to be 
+given its naturally broader meaning.” Jd. In fact, in the | 
+panel’s view, “applying ‘State’ to both of the disjunctive 
+phrases would create a linguistic oddity because the statute 
+would refer to ‘a properly filed application for ‘State post- 
+conviction’. . . review or ‘State . . . other review.’ ” /d. at 361. 
+The Second Circuit Court of Appeals explained: 
+
+
+“State other collateral review” is an _ ungainly 
+construction that we do not believe Congress intended. 
+If Congress had intended the meaning that the Sperling 
+court imputed, it might more naturally have written “a 
+
+
+properly filed application for State post-conviction or 
+collateral review.” We chose to adopt an interpretation 
+that gives full meaning to the phrase “State post- 
+conviction review,” which includes all state remedies, 
+and the phrase “other collateral review,” which means 
+federal habeas petitions. 
+
+
+10 
+208 F.3d at 360.* 
+
+
+The Tenth Circuit found the Second Circuit’s opinion in 
+this case “more persuasive” than the contrary decisions of 
+several other courts, agreeing that “the language of the statute 
+is best read as tolling the limitations period for ‘State post- 
+conviction review,’ or ‘other collateral review,’ including 
+federal habeas review.” Petrick, 2001 WL 8313 at *3. The 
+Petrick court also looked to the statute of limitations 
+Congress enacted for capital cases in opt-in jurisdictions, 28 
+U.S.C. § 2263(b)(2), for confirmation of its parsing of the 
+statutory language. There, the court noted, “Congress 
+indicated that ‘other collateral relief’ included only state 
+remedies.” /d. at *3. Section 2263 (b)(2) was thus “some 
+indication that Congress did not intend to limit ‘other 
+collateral review’ in § 2244(d)(2) to state remedies.” Id.” 
+
+
+* The court also rejected the argument that “State post-conviction 
+review” means judicial remedies, and “other collateral review” refers to 
+non-judicial remedies such as clemency. /d. at 360. The panel correctly 
+recognized that both post-conviction and _ collateral review 
+“conventionally refer to habeas corpus, coram nobis and similar writs of 
+judicial orders that courts issue.” /d. The Tenth Circuit agreed, holding 
+that “other collateral review” is “virtually meaningless if it is read to 
+include only state remedies other than state post-conviction review.” 
+Petrick, 2001 WL at *3. According to the Petrick court, “ ‘State post- 
+conviction review” is a broad term that can encompass all review a 
+prisoner seeks after conviction and we see no reason to believe that 
+Congress should have believed that there were other forms of state 
+‘collateral review’ that did not come within the scope of ‘post-conviction 
+review.’ ” /d. 
+
+
+> The Tenth Circuit also stated that its interpretation of § 2244(d)(2) 
+was consistent with “the inapplicability of the successiveness rule to a 
+federal petition filed after an initial federal petition is dismissed for failure 
+to exhaust state remedies.” /d. at *4; See also, Stewart v. Martinez- 
+Villareal, 523 U.S. 637, 644 (1998) As this Court explained, “[nJot 
+barring a second, post-conviction petition as successive would offer little 
+solace to the petitioner whose second petition is dismissed because the 
+
+
+1] 
+
+
+The panel in Respondent’s case also concluded that its 
+interpretation of § 2244(d)(2) was consistent with the 
+purposes of the limitations period because it “will reward 
+petitioners for filing their federal petitions as soon as 
+possible, thus promoting the statutory objective of efficiency 
+in the review of state criminal judgments.” 208 F.3d at 36-61. 
+The court also recognized the extreme unfairness of allowing 
+the limitations period to run while an unexhausted petition 
+was pending in federal court because, in many cases, the 
+construction of § 2244(d)(2) urged by the government would 
+“produce the unintended effect of barring federal habeas 
+review.” /d. at 361 (quoting Kethley v. Berge, 14 F.Supp. 2d 
+1077 (E.D. Wi 1998). The panel stated: “Our interpretation 
+merely avoids penalizing state prisoners who have properly 
+filed federal habeas petitions and are awaiting a response 
+from the federal court.” 208 F.3d at 361. Again, the Tenth 
+Circuit agreed fully: “A contrary interpretation of 
+§ 2244(d)(2) would mean that a diligent prisoner who filed 
+his federal petition the very day after his state conviction 
+became final could still be permanently barred from habeas 
+relief if the district court delayed before dismissing the 
+petition for failure to exhaust.” Petrick, supra., 2001 WL 
+8313 at *4. 
+
+
+The Second and Tenth Circuits’ reading of § 2244(d)(2) is 
+fully supported by fundamental canons of statutory 
+construction. Reading the phrase “other collateral” to include 
+federal habeas proceedings gives the most sensible meaning 
+to an arguably unclear piece of statutory language. 
+Furthermore, this interpretation of the statutory language is 
+powerfully bolstered by Congress’ use of different and more 
+pointed language in § 2263(b)(2) to restrict the availability of 
+tolling to state court proceedings. 
+
+
+limitations period ran while the first petition was pending in federal 
+court.” /d. 
+
+
+12 
+
+
+_ “We start, as always, with the language of the statute.” 
+
+Williams v. Taylor, 520 U.S. 420, 431 (2000); see also United 
+States v. James, 478 U.S. 597, 604 (1986). Here, that 
+language provides for tolling of the limitations period during 
+the pendency of an application for “State post-conviction or 
+other collateral review. . .” § 2244(d)(2). The phrase is 
+
+
+divided down the center by the disjunctive “or”, with “State - 
+
+
+post-conviction” on one side of the divide, and “other 
+collateral review” on the other. A natural reading of the 
+language yields the conclusion that the word “review” 
+operates as the subject of both “State post-conviction” and 
+“other collateral’, such that § 2244(d)(2) as a whole refers to 
+applications for both “State post-conviction review” and 
+“other collateral review.” ° 
+
+
+The precise role played by the word “State” is less clear. 
+As both the Second and Tenth Circuits acknowledged, “[iJt is 
+possible to interpret the word ‘State’... to modify both 
+‘post-conviction’ and ‘other collateral.’” Walker, 208 F.3d at 
+359 (quoted approvingly in Petrick, supra., 2001 WL 8313 at 
+*3) (emphasis added), As both courts went on to conclude, 
+however, that interpretation is, for several reasons, not the 
+best alternative. As a practical matter, reading “State” to 
+modify “other collateral review” does not produce a 
+linguistically comfortable result, i.e., “application for State 
+... other collateral review.” 
+
+
+More importantly, the ordinary requirement that statutory 
+“terms connected by a disjunctive be given separate 
+meanings, unless the context dictates otherwise,” Reiter v. 
+Sonotone Corp., et al, 442 U.S. 330, 338-339 (1979) (citing 
+FCC v. Pacifica Foundation, 438 U.S. 726, 739-40 (1978)), 
+
+
+© That the word “review” performs this function in § 2244(d)(2) is 
+confirmed by the fact that neither “State post-conviction” nor “other 
+collateral” convey any functional meaning in the absence of a subject, like 
+“review”. 
+
+
+| 
+4 
+} 
+| 
+/ 
+
+
+13 
+
+
+is frustrated by reading “State” to modify “other collateral”. 
+This Court’s own usage of the terms indicates that “post- 
+conviction review” and “collateral review” can mean the 
+same thing.’ Thus, the only method by which to supply 
+independent meaning to the phrases occupying opposite sides 
+of § 2244(d)(2)’s disjunctive “or” is by use of distinguishing 
+adjectives, “State” and “other”. For these adjectives to 
+actually give the requisite independent meaning to the terms 
+“post-conviction review” and “collateral review”, the 
+meanings of the adjectives themselves must necessarily be 
+distinct. “State” must mean exactly what is says, and “other” 
+must refer to all forms of collateral review “other” then “State 
+post-conviction review”.” See Petrick, supra., 2001 WL 8313 
+at *3 (agreeing with the Second Circuit “that ‘other collateral 
+review’ is virtually meaningless if it is read to only include 
+State remedies other than state post-conviction review’), 
+Federal habeas corpus proceedings certainly fall within any 
+sensible definition of “other” collateral review. 
+
+
+The government’s contention that “other collateral review” 
+refers strictly to the purportedly “wide variety of State 
+‘collateral review’ that is not ‘State post-conviction’ review”, 
+Pet. Br. 21, is wholly unpersuasive for two reasons, First, had 
+this been Congress’ intention, there would have been no need 
+to include a reference to “post-conviction” review at all since, 
+
+
+” See, e.g. Williams, 529 U.S. at 433 (prisoner “had not developed the 
+facts of his claim in state collateral proceedings, an omission caused by 
+the negligence of his state post-conviction counsel”’)(emphasis added); 
+Lewis v. Casey, 518 U.S. 343, 377 (1996) (discussing previous decisions 
+rejecting claims of constitutional entitlement to state-appointed counsel in 
+“State collateral proceedings” and “state post-conviction proceedings’’). 
+
+
+* Ascribing these independent meanings to the adjectives “State” and 
+“other” and in turn to the otherwise practically indistinguishable terms 
+they describe, also avoids offending the well settled principle of statutory 
+construction that the language of a statute “must be interpreted, if 
+possible, to give each word some operative effect.” Walters v. Metro. 
+Educ. Enter., Inc., 117 S.Ct. 660, 664 (1997). 
+
+
+14 
+
+
+by the government’s own reading, “ ‘post-conviction’ review 
+is a subset of ‘other collateral review.’” Jd. The 
+government’s interpretation ignores the familiar maxim that 
+the language of a statute “must be interpreted, if possible, to 
+give each word some operative effect.” Walters, supra. 
+Second, the government’s attribution to Congress of an intent 
+to use “other collateral review” merely to refer to challenges 
+to pre-trial detention or commitments to mental health 
+institutions is at odds with the government’s own articulation 
+of Congress’ purpose in enacting § 2244(d): “The statute of 
+limitations enacted in AEDPA was written to balance twin 
+goals of comity in tension [sic], i.e., to balance the goal of 
+reducing delays to the finality of state convictions with the 
+goal of ensuring full exhaustion of state court remedies.” Pet. 
+Br. 33 (emphasis added), Surely a legislature in pursuit of 
+such well-defined, state conviction-oriented objectives would 
+not take such an indirect approach to ensuring the availability 
+of tolling during the types of relatively unusual non-post- 
+conviction proceedings identified by the government. And 
+even if Congress did have such proceedings in mind, it would 
+be reasonable to assume that Congress would have chosen 
+language less susceptible to an alternative interpretation than 
+the phrase “other collateral review”. 
+
+
+That Congress intended § 2244(d)(2)’s phrase “State post- 
+conviction or other collateral review” to encompass federal 
+habeas proceedings is confirmed by Congress’ treatment of 
+the question of tolling in § 2263(b)(2), which provides that 
+“the time requirements established by subsection (a) shall be 
+tolled *** from the date on which the first petition for post- 
+conviction review or other collateral relief is filed until the 
+final State court disposition of such petition[.]’” Unlike 
+§ 2244(d)(2), the plain language of § 2263(b)(2) makes 
+explicitly clear that tolling for “post-conviction review or 
+other collateral relief” is unavailable at any point beyond “the 
+final State court disposition” of a prisoner’s challenge. As 
+this Court observed in another decision concerning 
+
+
+— 
+
+
+15 
+
+
+inconsistency between Chapters 153 and 154 of the AEDPA, 
+“[(njothing, indeed, but a different intent explains the different 
+treatment.” Lindh v. Murphy, 521 U.S. 320, 329 (1997). 
+Simply put, had Congress desired to restrict tolling under 
+§ 2242(d)(2) to only the time during which state proceedings 
+remain pending, it would have done so expressly, just as it 
+did in § 2263(b)(2).’ The fact that Congress did not do so is 
+solid evidence of its intent not to impose any such restriction, 
+but to instead, include federal habeas review, and any other 
+“collateral review” within the class of proceedings by which 
+§2244(d)(2)’s tolling mechanism is triggered.'° 
+
+
+” See, e.g., Gozlon-Peretz v. United States, 498 U.S. 395, 404 (1991) 
+(quoting Russello v. United States, 464 U.S. 16 (1983) (internal quotation 
+marks omitted)( *[W]here Congress includes particular language in one 
+section of a statute but omits it in another section of the same Act, it is 
+generally presumed that Congress acts intentionally and purposely in the 
+disparate inclusion or exclusion’’); see also Touche Ross & Co. y. 
+Redington, 442 U.S. 560, 572 (1979) (“Obviously, then, when Congress 
+wished to provide a private damages remedy, it knew how to do so and 
+did it expressly”); Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 
+734 (1975) (“When Congress wished to provide a remedy to those who 
+neither purchase nor sell securities, it had little trouble in doing so 
+expressly”). 
+
+' The government contends that “[i]t defies logic to believe that 
+Congress intended to allow for unexhausted federal habeas petitions to 
+toll the limitations period in all cases except capital cases, where the 
+consequences of constitutional error are of the highest potential order of 
+gravity.” Pet. Br. 27. While the government’s sentiments with respect to 
+the theoretical importance of heightened scrutiny in capital cases are 
+appealing in the abstract, there can be no doubt that reduction of 
+procedural safeguards in favor of increasing the pace of capital collateral 
+litigation was precisely what Congress intended. Compare § 2244(d)(1) 
+(imposing one-year limitations period for habeas corpus petitions 
+generally) with § 2263(a) (imposing 180 day limitations period for death- 
+sentenced prisoners); see §2266(b)(1)(A) (mandating entry of “final 
+
+
+judgment on any application for a writ of habeas corpus brought. . . in a 
+
+
+capital case not later than 180 days after the date on which the application 
+is filed”); see, e.g., Lindh v. Murphy, 521 U.S. at 331 (describing the 
+
+
+16 
+
+
+Il. THE LIMITATIONS PERIOD IS SATISFIED 
+WHEN AN APPLICATION FOR A WRIT OF 
+HABEAS CORPUS IS FILED WITH THE 
+FEDERAL COURT. 
+
+
+Even if this Court finds that the canons of statutory 
+construction do not support the Second Circuit Court of 
+Appeals’ ruling, the plain language of the first part of the 
+statute, § 2244(d)(1), logically leads to the conclusion that 
+Congress intended for the limitations clock to stop once the 
+petition is filed in federal court. Common sense requires that 
+this provision be read to mean that the statutory limitations 
+period cannot run after its primary requirement—the filing of 
+the habeas petition—is satisfied. 
+
+
+Section 2244(d)(1) reads, in relevant part, “A 1-year period 
+of limitation shall apply to an application for a writ of habeas 
+corpus by a person in custody pursuant to the judgment of a 
+State court.” By its plain terms, § 2244(d)(1)’s language 
+establishes a single, unambiguous requirement for a state 
+prisoner who intends to pursue his federal habeas corpus 
+remedies: he must file an “application for a writ of habeas 
+corpus” within one year of the relevant triggering event." 
+“Grace period” petitioners like Respondent were required to 
+
+
+function of Chapter 154: “In general terms, applications will be expedited 
+(for a State’s benefit) when a State has made adequate provision for 
+counsel to represent indigent habeas applicants at the State’s expense’’); 
+Green v. Johnson, 116 F.3d 1115, 1119 (Sth Cir. 1997) (AEDPA created 
+“a new chapter 154 with special rules favorable to the state.”) 
+
+'' For prisoners like Walker, whose convictions “became final” prior to 
+the AEDPA’s April 24, 1996 effective date, a one year “grace period” 
+applies, pursuant to which the limitations clock begins to run on the Act’s 
+effective date, but may be tolled by the same means available to other 
+prisoners. See, e.g., Ross v. Artuz, 150 F.3d 97, 100-02 (2d Cir. 1998); 
+Wilcox v. Florida Department. of Corrections, 158 F.3d 1209, 1210 (11th 
+Cir. 1998) (per curiam); Nichols v. Bowersox, 172 F.3d 1068 (8th Cir. 
+1999) (en banc); Rogers v. United States, 180 F.3d 349, 355 (ist Cir. 
+1999). 
+
+
+17 
+
+
+file their petitions by April 24, 1997. The statute requires 
+nothing more. 
+
+
+Respondent’s April 10, 1996 petition Clearly satisfied 
+§ 2244(d)(1)’s only requirement. While his petition was 
+subsequently dismissed “without prejudice” due to questions 
+about whether all claims were exhausted, see Walker v. Artuz, 
+208 F.3d 357, 358 (2d Cir. 2000), it was still undoubtedly an 
+“application for a writ of habeas corpus”. This Court has 
+never suggested that a petition containing unexhausted claims 
+is not an application for a writ of habeas corpus, or that such a 
+petition is somehow jurisdictionally defective. See, e.g., 
+Granberry v. Greer, 481 U.S. 129, 131 (1987) (“failure to 
+exhaust state remedies does not deprive an appellate court of 
+jurisdiction to consider the merits of a habeas corpus 
+application”); Rose v. Lundy, 455 U.S. 509, 513-514 (1982) 
+(referring to “petition” containing “both exhausted and 
+unexhausted claims”); see also, e.g., Strickland vy. 
+Washington, 466 U.S. 668, 684 (1984) (“exhaustion rule 
+requiring dismissal of mixed petitions, though to be strictly 
+enforced, is not jurisdictional”). Rather, it has always been 
+clearly understood that a mixed, or in this case, arguably 
+mixed, petition is still an application for a writ of habeas 
+corpus. : 
+
+
+Likewise, the AEDPA contains no provision suggesting, or 
+even implying, that a petition containing unexhausted claims 
+either fails to constitute an application for habeas relief, or 
+fails to confer jurisdiction on the federal court. On the 
+contrary, § 2254(b), which contains the AEDPA’s exhaustion 
+requirement, clearly and specifically contemplates the filing 
+of an “application for a writ of habeas corpus” containing 
+unexhausted claims, and sets forth the alternatives available 
+to a federal court faced with such a petition. See § 2254(b)(2) 
+(“An application for a writ of habeas corpus may be denied 
+on the merits, notwithstanding the failure of the applicant to 
+exhaust the remedies available in the courts of the State’’); see 
+
+
+18 
+
+
+also § 2254(b)(1) (“An application for a writ of habeas corpus 
+on behalf of a person in custody pursuant to the judgment of a 
+State court shall not be granted unless it appears that — (A) the 
+applicant has exhausted the remedies available in the courts 
+of the State .. .”). 
+
+
+In light of Congress’ awareness that habeas petitions that 
+do not satisfy § 2254(b)(1)’s total exhaustion rule are 
+sometimes filed, and its decision to address that subcategory 
+of petitions specifically through § 2254(b)(2), the absence of 
+any express exception for unexhausted or mixed petitions 
+anywhere in § 2244(d) is very significant. If Congress 
+intended either to change the long-established understanding 
+that a mixed petition is still a petition, or to ensure that the 
+limitations period would run during the pendency of a mixed 
+or arguably mixed petition, it would have made that intention 
+clear. See Thompson v. United States, 246 U.S. 547, 551 
+(1918) (‘we cannot doubt that if the Congress had intended 
+. . . to change the law, as evidenced by the Whitefield [v. 
+United States, 92 U.S. 165(1875)] decision, of which we must 
+assume that it had full knowledge. . . it would have done so in 
+plain terms, especially in a manner of such great importance 
+as we have here. . .”); cf., Conroy v. Aniskoff, 507 U.S. 511, 
+516 (1993) (presuming Congress’ familiarity with decisions 
+relating to statute under consideration). 
+
+
+Had Congress intended as the government contends, 
+§ 2244(d)(1) would have’ been drafted to say, “A 1 year 
+period of limitations shall apply to an application for a writ of 
+habeas corpus satisfying the total exhaustion rule . . . [or 
+containing only exhausted claims].” The fact that Congress 
+did not do so, especially after having taken specific action to 
+address a closely related occurrence in § 2254(b)(2), is 
+powerful evidence that Congress simply did not envision the 
+limitations clock running during the pendency of a habeas 
+
+
+PE OE FETA PBN ORS Ray ny 
+
+
+MELISS EP AHP EE 
+
+
+Se LORE SAAN SD. 
+
+
+19 
+
+
+petition, exhausted or not.'? Thus, regardless of whether all of 
+the claims contained in Respondent’s April 10, 1996 petition 
+were exhausted, it was an “application for a writ of habeas 
+corpus” which satisfied, and therefore stopped, § 2244(d)(1)’s 
+limitations clock. Simply put, Respondent made it to federal 
+court within one year of the relevant triggering event. The 
+AEDPA does not require anything more. Once satisfied, the 
+limitations period ceased to run while Respondent’s case was 
+pending in the district court.'° 
+
+
+There are other compelling considerations which indicate 
+that § 2244 (d)(1)’s limitations period is suspended during the 
+pendency of a mixed application for habeas relief that is 
+subsequently dismissed without prejudice. This Court has 
+long recognized “the power of the federal courts to hold that 
+[a] statute of limitations is tolled under certain circumstances 
+not inconsistent with the legislative purpose.” American Pipe 
+
+
+'2 Cf. Gonzlon-Peretz v. United States, supra., quoting Russello v. 
+
+
+United States, supra; Musick, Peeler & Garrett v. Employers Ins., 508 
+U.S. 286, 305-306 (1993) (Thomas, J., dissenting, joined by Blackmun 
+and O’Connor, JJ.) (“Courts should not treat legislative and administrative 
+silence as a tacit license to accomplish what Congress and the SEC are 
+unable or unwilling to do”). 
+
+'* Any doubt about the correctness of this understanding of 
+§2244(d)(1) evaporates upon consideration of exactly how the limitations 
+period would work under the government’s theory. If the filing of an 
+“application for a writ of habeas corpus” does not stop (or, in this case, 
+prevent the start of) the limitations clock, then that clock would never 
+stop. Instead, it would run until the conclusion of habeas proceedings 
+regardless of the application’s exhaustion status; or, if those proceedings 
+continued for more than one year, until the expiration of the one year 
+limitations period, at which time the otherwise proper (and once timely) 
+habeas petition would become untimely and dismissal with prejudice 
+would be required. This simply cannot be what Congress intended. See, 
+e.g., Sheridan v. United States, 487 U.S. 392, 402 n.7 (1988) (courts 
+should strive to avoid attributing absurd designs to Congress, particularly 
+when the language of the statute and its legislative history provide little 
+support for the proffered, counterintuitive reading.”). 
+
+
+20 
+
+
+& Construction Co. v. Utah, 414 U.S. 538, 559 (1974); see 
+also id., at 558. (“In recognizing judicial power to toll statutes 
+of limitation in federal courts we are not breaking new 
+ground”). This power exists both where Congress has been 
+silent on the question of tolling, as well as where “Congress 
+has specified a precise limitations period, and further has 
+provided for a tolling period in the event that [specified] 
+litigation is instituted.” /d. at 556.'* As discussed more fully 
+below, in the habeas context, a determination that the filing of 
+a habeas petition subsequently dismissed without prejudice 
+suspends the running of the limitations period is not only 
+consistent with the “legislative purpose” underlying 
+§ 2244(d) and the rest of the AEDPA, it is essential to the 
+orderly and _ fair administration of habeas corpus 
+proceedings. '° 
+
+
+Aside from the plain language and logical function of the 
+limitations period described- above, the most compelling 
+reason for suspending the running of the limitations period 
+during the pendency of an unexhausted or mixed petition is 
+
+
+'* Application of the rules embodied in American Pipe is particularly 
+appropriate in a case like this one, where there exists “a substantial body 
+of relevant procedural law to guide the decision to toll the limitations 
+period, and significant underlying federal policy that would . . . conflict[] 
+with a decision not to suspend the running of the statute.” Johnson v. 
+Railway Express Agency, Inc., 421 U.S. 454, 466 (1975). - 
+
+
+' This Court has addressed the issue of whether to toll a federal 
+limitations period during the pendency of a procedurally defective 
+pleading at least once before. In Burnettt v. New York Central Railroad 
+Co., 380 U.S. 424 (1965), which presented a question of timeliness under 
+the limitations period governing actions under the Federal Employers’ 
+Liability Act (FELA), the Court held that “when a plaintiff begins a 
+timely FELA action in a state court of competent jurisdiction, service of 
+process is made upon the opposing party, and the state court action is 
+dismissed because of improper venue, the FELA limitation is tolled 
+during the pendency of the state action.” /d. at 428. The logic which 
+dictated the Court’s resolution of the question presented in Burnettt 
+applies with equal force here. 
+
+
+21 
+
+
+the perverse consequences that would flow from the failure to 
+do so. Like limitations periods in other contexts, §2244(d) 
+must be predictable, and capable of satisfaction by a person 
+of common intelligence exercising ordinary diligence in 
+attempting to comply with its requirements. See, e.g., Wilson 
+v. Garcia, 471 U.S.261, 275 (1985); Agency Holding Corp. v. 
+Malley-Duff & Associates, Inc., 483 U.S. 143, 150 (1987). 
+However, permitting the limitations clock to run during the 
+pendency of a habeas petition, filed in good faith but 
+subsequently dismissed for non-exhaustion, introduces an 
+unacceptable and unfair level of uncertainty. Under such a 
+scheme, a petitioner could never be assured that his federal 
+habeas petition was timely filed. Control over the timeliness 
+of prisoners’ petitions would be removed from the prisoners 
+themselves and placed in the hands of overworked judges 
+with no mandate to process petitions uniformly or 
+expeditiously. 
+
+For example, two prisoners incarcerated in the same 
+federal district, whose convictions became final on the same 
+date, who both filed mixed (or arguably mixed) petitions 
+containing identical claims, could receive very different 
+treatment. One prisoner’s petition could be assigned to a 
+judge who reviews the application and dismisses it for failure 
+to exhaust within thirty days of filing. That petitioner would 
+have ample opportunity to return to state court and then 
+pursue his federal remedies.© If the other prisoner’s 
+application is assigned to an overburdened and understaffed 
+judge, who takes thirteen months to review and dismiss his 
+petition “without prejudice”, he would be “out of time”, 
+although he did nothing wrong. Under the government’s 
+reading of §2244(d), he would be stripped of the opportunity 
+to ever secure federal review of his conviction or sentence. 
+
+
+'© A number of prisoners around the country have actually suffered this 
+fate. See, e.g. Jones v. Morton, 195 F.3d 153, 158 (3d Cir. 1999) (petition 
+rendered untimely when nearly ten month period during which mixed 
+
+
+22 
+
+
+It is simply no answer to place the onus on the prisoner to 
+make certain his petition contains only exhausted claims, on 
+penalty of possible forfeiture of his right to ever obtain 
+federal habeas review. The requirements of exhaustion and 
+fair presentation, as to both legal claims and factual 
+allegations, frequently pose genuinely difficult questions 
+which are debatable by knowledgeable attorneys and 
+experienced judges. See, e.g., Evici v. Commissioner of 
+Corrections, 226 F.3d 26, 28 (1st Cir. 2000) (vacating district 
+court’s dismissal for exhaustion, and remanding for further 
+proceedings); Morgan v. Bennett, 204 F.3d 360, 369 (2nd Cir. 
+2000) (disagreeing with district court’s conclusion that claim 
+had not been adequately presented to state courts and 
+remanding for merits consideration); Mercadel v. Cain, 179 
+F.3d 271, 275 (Sth Cir. 1999) (vacating district court’s denial 
+of relief on merits and remanding for dismissal without 
+prejudice to permit petitioner to exhaust available state 
+remedies); Bear v. Boone, 173 F.3d 782 (10th Cir. 1999) 
+(reversing district court’s non-exhaustion ruling and 
+remanding for merits review). 
+
+
+Frequently, habeas petitioners’ representations that their 
+claims are exhausted are challenged by the government, and 
+reviewing courts, in the spirit of comity (which animated this 
+
+
+petition lay dormant in district court was included in limitations 
+calculation); Pedraza v. State of Oklahoma, 1999 WL 644814 at *1 (10th 
+Cir. Aug. 25, 1999) (properly exhausted petition found time-barred as 
+result of court’s refusal to exclude from limitations period approximately 
+eight months during which previous, unexhausted petition, remained 
+pending in district court); Harrison v. Galaza, 1999 WL 58594 at *2 
+(N.D. Cal. Feb. 4, 1999) (dismissing petition as untimely after concluding 
+that 338 days during which initial, unexhausted petition was pending in 
+district court could not be excluded from limitations period); Vincze v. 
+Hickman, 1999 WL 98330 (E.D.Cal. Jan.13, 1999) (dismissing petition as 
+untimely after concluding that post-Act portion of more than two year 
+period in which initial, unexhausted petition was pending-in district court 
+would not be excluded from limitations period). 
+
+
+Ne) eee 
+
+
+POO A SBE Se 
+
+
+23 
+
+
+Court’s holding in Rose), often resolve these disputes in favor 
+of dismissal without prejudice for failure to exhaust. See, e.g. 
+Snowden v. Singletary, 135 F.3d 732, 737 (11th Cir. 1998), 
+cert. denied, 119 S.Ct. 405 (1998) (“Federal courts may apply 
+state rules about procedural bars to conclude that further 
+attempts at exhaustion would be futile. This step should not 
+be taken if there is a reasonable possibility that an exception 
+_ to the procedural bar may still be available to the petitioner”); 
+
+Banks v. Horn, 126 F.3d 206 (3rd Cir. 1997) (dismissing for 
+lack of exhaustion where possibility existed that procedurally 
+barred claim could receive state court review under state law 
+miscarriage of justice exception). 
+
+
+Moreover, the government’s reading of § 2244(d) causes 
+the once innocuous and prudential practice of erring on the 
+side of dismissal “without prejudice” to become a trap in 
+which hapless prisoners will unwittingly forfeit their right to 
+federal review. Were this Court to ratify the government’s 
+view, the longstanding rule of Rose v. Lundy, supra, would be 
+seriously jeopardized. In Rose, this Court observed that the 
+“total exhaustion rule. . . does not unreasonably impair the 
+prisoner’s right to relief...” Rose, 455 U.S. at 522 (emphasis 
+added). The acceptance of the government’s view of 
+§ 2244(d), however, would in fact create a very real 
+impairment of prisoners’ rights to federal review. In cases 
+presenting close questions of exhaustion, fair-minded federal 
+judges would very likely begin resolving those questions, 
+correctly or incorrectly, in favor of finding that the exhaustion 
+requirement has been satisfied simply to avoid imposing this 
+draconian fate on prisoners who have acted in good faith. 
+This, of course, would severely undermine and devalue the 
+comity interests at the core of the Rose dismissal requirement. 
+See Rose, 455 U.S. at 518 (citation omitted). (“The 
+exhaustion doctrine is principally designed to protect the state 
+courts’ role in the enforcement of federal law and prevent 
+disruption of state judicial proceedings”). 
+
+
+24 
+
+
+Finally, consideration of how the government’s 
+interpretation of § 2244(d)(1) would work in practice leads to 
+the obvious question of how a court of appeals’ disagreement 
+with a district court’s finding of exhaustion would impact the 
+standing of a prisoner’s petition. There could be cases where, 
+for example, the district court grants relief after finding that a 
+prisoner’s claim was exhausted, but the court of appeals, 
+while agreeing with the district court’s determination on the 
+merits, vacates the exhaustion ruling after identifying some 
+possibility that the prisoner might yet obtain merits review in 
+state court. In all but the rarest of circumstances, the district 
+court and the court of appeals proceedings will have occupied 
+more than one year. If, as logic would dictate, the court of 
+appeals’ determination that the case should be returned to the 
+state court has the effect of retroactively rendering the 
+petition subject to dismissal since the day it was filed in the 
+district court, the prisoner would be instantly and 
+permanently out of time. And if the prisoner is thereafter 
+unsuccessful in securing relief from the state courts, he will, 
+as a result of the federal courts’ inability to agree on a close 
+question of exhaustion, be forever barred from obtaining the 
+relief to which those same federal courts found him entitled. 
+The unfairness of such a regime is obvious. 
+
+
+Iii. SUSPENDING THE RUNNING OF THE LIMI- 
+TATIONS PERIOD DURING THE PENDENCY 
+OF A PETITION SUBSEQUENTLY DISMISSED 
+WITHOUT PREJUDICE IS CONSISTENT WITH 
+THE PURPOSE OF §2244(D). 
+
+
+In support of its strained and unpersuasive construction of 
+the statutory language, the government argues that 
+suspending §2244(d)’s limitation period during the pendency 
+of an unexhausted federal habeas petition will lead to 
+repetitive, abusive filings by prisoners, without furthering the 
+interests underlying the exhaustion requirement. See Pet. Br. 
+32-36. The government contends, for example, that “[iJf 
+
+
+25 
+
+
+. tolling were permitted for federal habeas petitions, then 
+habeas petitioners would be encouraged to make federal court 
+their first stop” because “there would be no practical 
+incentive. . . for a petitioner to evaluate his or her claims for 
+exhaustion prior to filing in federal court.” Pet. Br. 34. The 
+government also asserts that prisoners would file unexhausted 
+federal petitions to “buy additional time prior to filing in state 
+court.” Jd. In short, the government raises the spectre of 
+federal courts being flooded with frivolous petitions. 
+
+
+But as this Court noted in Slack v. McDaniel, 120 S.Ct. 
+1595, 1606 (2000), States can enact legislation that prevent 
+prisoners from repeatedly returning to courts for post- 
+conviction review. Section 2254(b)(2) provides federal courts 
+with a means to dismiss petitions with prejudice, even if they 
+contain claims that have not been properly exhausted in the 
+state courts. And the Federal Rules of Civil Procedure, 
+applicable to habeas proceedings, provide the federal courts 
+with alternative ways to stop vexatious petitioners. 
+
+
+Section § 2254(b)(2) of the AEDPA provides that “[a]n 
+application for a writ of habeas corpus may be denied on the 
+merits, notwithstanding the failure of the applicant to exhaust 
+the remedies available in the courts of the State.” Section 
+2254(b)(2) empowers the district court judges to deny 
+petitions containing unexhausted claims on the merits, 
+thereby subjecting any subsequent petition the prisoner may 
+attempt to file, to the extremely rigorous second or Successive 
+application requirements contained in § 2244(b).'’ Clearly, 
+
+
+'7 Section 2244(b) provides, in pertinent part: 
+
+
+(b) (1) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was presented in a prior application 
+shall be dismissed. 
+
+
+(2) A claim presented in a second or successive habeas corpus 
+application under section 2254 that was not presented in a prior 
+application shall be dismissed unless- 
+
+
+26 
+
+
+no prisoner with even the most rudimentary understanding of 
+habeas procedure, would view the real possibility of a denial 
+on the merits and its attendant second or successive petition 
+consequences a risk worth taking merely “to buy additional 
+time”. Pet. Br. 34.'* 
+
+
+Furthermore, contrary to the government’s suggestion, 
+suspending the running of the limitations period for the time a 
+federal district court requires to determine that a petition 
+contains unexhausted claims is entirely consistent with, and 
+does further, the objectives embodied in the total exhaustion 
+rule. As this Court necessarily concluded in Rose, dismissal 
+of mixed petitions is a necessary tool for promoting full 
+exhaustion of all claims. To avoid unwarranted unfairness, 
+however, such dismissals must be accomplished in a manner 
+that “does not unreasonably impair the prisoner’s right to 
+relief.” Rose, 455 U.S. at 522. As discussed supra at 31-31, 
+
+
+(A) the applicant shows that the claim relies on a new rule 
+of constitutional law, made retroactive to cases on 
+collateral review by the Supreme Court, that was 
+previously unavailable; or 
+
+
+(B)(i) the factual predicate for the claim could not have 
+been discovered previously through the exercise of due 
+diligence; and 
+
+
+(ii) the facts underlying the claim, if proven and viewed 
+in light of the evidence as a whole, would be sufficient to 
+establish by clear and convincing evidence that, but for 
+constitutional error, no reasonable factfinder would have 
+found the applicant guilty of the underlying offense. 
+
+
+'S Moreover, as this Court has recognized, non-capital prisoners, who 
+file the overwhelming majority of federal habeas petitions, have no 
+incentive to delay the adjudication of their claims. See, Rose, 455 U.S. at 
+520 (“The prisoner’s principal interest, of course, is in obtaining speedy 
+federal relief on his claims”). In addition, no competent attorney 
+representing a death-sentenced prisoner would risk denial on the merits 
+pursuant to § 2254(b)(2) merely for the sake of suspending the limitations 
+period. 
+
+
+27 
+
+
+subjecting prisoners who file in good faith.to permanent loss 
+of the right to seek habeas relief as a result of dispositional 
+delays entirely beyond their control would clearly constitute 
+an unreasonable impairment of access to habeas review, and 
+would be fundamentally unfair. The more prudent course, 
+especially in light of the discipline imposed by the threat of 
+§ 2254(b)(2), is to affirm the ruling of the Second Circuit 
+Court of Appeals below, and suspend the running of the 
+limitations period during the pendency of habeas petitions 
+containing unexhausted claims. 
+
+
+Were this Court to determine that the limitations period is 
+not suspended during the pendency of a federal petition for a 
+writ of habeas corpus, basic fairness would require the 
+establishment of procedures capable of safeguarding the 
+rights of unwary prisoners. At minimum, it would be 
+necessary to promulgate rules requiring federal district courts 
+to expedite consideration of the exhaustion status of the 
+petitions they receive, and to promptly dismiss those petitions 
+that do not satisfy the total exhaustion rule. Additionally, a 
+notification and election procedure would be necessary, 
+whereby the district court would be required to inform a 
+prisoner that his petition contains unexhausted claims, warn 
+the prisoner of his limitations period status, and permit him to 
+choose either to amend the petition to delete unexhausted 
+claims, or to accept dismissal.'” Proceeding without such 
+
+
+'? Several federal courts of appeal have recently adopted an analogous 
+procedure to warn federal prisoners about the consequences of a district 
+court’s recharacterization of a post-trial pleading as a motion for relief 
+pursuant to 28 U.S.C. § 2255, and to allow those prisoners to make an 
+informed determination as how to proceed. See, e.g. United States vy. 
+Evans, 224 F.3d 670, 675 (2000) (“When a prisoner who has yet to file a 
+motion under § 2255 invokes Rule 33 but presents issues substantively 
+within §2255 Par.1, the district judge should alert the movant that his can 
+preclude any later collateral proceedings and ask whether the prisoner 
+wishes to withdraw the claim (or add any other arguments for collateral 
+relief)”); United States v. Miller, 197 F.3d 644, 652 (3d Cir. 1999) (“upon 
+
+
+28 
+
+
+basic procedural safeguards would create a_ genuine, 
+unacceptable risk of trapping large numbers of prisoners into 
+unwittingly sacrificing their first and only opportunity for 
+federal habeas review. Indeed, as this Court noted, in 
+Longchar v. Thomas, 517 U.S. 314, 324 (1996), “Dismissal 
+of a first federal habeas petition is a particularly serious 
+matter, for that dismissal denied the petitioner the protections 
+of the Great Writ entirely, risking injury to an important 
+interest in human liberty”. 
+
+
+CONCLUSION 
+
+
+4 
+
+
+For the reasons set forth above, the Second Circuit Court of 
+Appeals’ ruling should be affirmed. 
+
+
+receipt of pro se pleadings challenging an inmate’s conviction or 
+incarceration—whether styled as a § 2255 motion or not—a district court 
+should issue a notice to the petitioner regarding the effect of his pleadings. 
+This notice should advise the petitioner that he can (1)have his motion 
+ruled upon as filed; (2) if his motion is not styled as a § 2255 motion have 
+his motion recharacterized as a §2255 motion and heard as such, but lose 
+his ability to file successive petitions absent certification by the court of 
+appeals; or (3) withdraw the motion, and file one all-inclusive §2255 
+petition within the one-year statutory period”); Adams v. United States, 
+155 F.3d 582, 584 (2nd Cir. 1998) (per curiam) (“[D]istrict courts should 
+not recharacterize a motion purportedly made under some other rule as a 
+motion made under § 2255 unless (a) the movant, with knowledge of the 
+potential adverse consequences of such recharacterization, agrees to have 
+the motion so recharacterized, or (b) the court finds that, notwithstanding 
+its designation, the motion should be considered as made under § 2255 
+because of the nature of the relief sought, and offers the movant the 
+opportunity to withdraw the motion rather than have it so 
+recharacterized”). 
+
+
+JOHN H. BLUME 
+CORNELL LAW SCHOOL 
+110 Myron Taylor Hall 
+Ithaca, NY 14853 
+(607) 255-1030 
+
+
+KEIR M. WEYBLE 
+P.O. Box 11744 
+Columbia, SC 29211 
+(803) 765-1044 
+
+
+29 
+Respectfully submitted, 
+
+
+DEBORAH WOLIKOW LOEWENBERG * 
+GEORGE W. GALGANO, JR. 
+
+155 North Main Street 
+
+New City, NY 10956 
+
+(845) 638-4747 
+
+
+* Counsel of record 
+
+

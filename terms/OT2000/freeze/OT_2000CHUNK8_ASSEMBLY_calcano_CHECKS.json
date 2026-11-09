@@ -1,0 +1,68 @@
+{
+  "record": "Calcano_Martinez_v_INS_merits_2001-06-25.md",
+  "sha256": "b14936bec72f2dfbd0bd2313e0efeaec46c435c8d9994c35de8709f7bba90013",
+  "public_sha256": "fdbcc40c771ab504bed8487576ddd4224a036348355ff499a4d0bd1b82ab9610",
+  "opening_labels": "pass",
+  "eleven_public_blocks": "pass",
+  "holdings_identity": "pass",
+  "ordinary_explanation_word_counts": [
+    209,
+    301,
+    175
+  ],
+  "public_metadata_boundary": "pass",
+  "opinion_table": "pass",
+  "continuity_and_departures": "pass",
+  "assignment_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 10,
+    "O'Connor": 10,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 12,
+    "Thomas": 9,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 10,
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "O'Connor",
+  "source_links_https": 4,
+  "vote_and_join_review": "Manual review: Part I has nine direct joins; Parts II–III and full judgment six; contrary remedy three.",
+  "external_url_retrieval": "Not repeated: supplied validated primary-source handoffs support the cited facts.",
+  "remaining_integration": "Control workspace publication, generated Render Input and term-level checks remain.",
+  "relative_input_file_existence": {
+    "result": "pass",
+    "files": [
+      "freeze/OT_2000CHUNK8_RECONCILED_calcano.md",
+      "freeze/OT_2000CHUNK8_RECONCILED_B1_RECEIPT.md",
+      "freeze/OT_2000CHUNK8_NEUTRAL_B_VALIDATED.md",
+      "freeze/OT_2000CHUNK8_NEUTRAL_B_REFRESH_RECEIPT.md",
+      "freeze/OT_2000CHUNK8_STONE_CALCANO_COLORADO.md",
+      "freeze/OT_2000CHUNK8_NEUTRAL_B_SOURCE_CALCANO.md",
+      "freeze/OT_2000CHUNK8_ASSIGNMENT_calcano.json",
+      "freeze/OT_2000CHUNK8_ASSIGNMENT_SOURCES_calcano.md",
+      "entering-law/OT_2000CHUNK8_JUNE18_PUBLIC_FINAL.md",
+      "entering-law/OT_2000CHUNK8_B_STATUTES.md",
+      "entering-law/OT_2000CHUNK8_B_PRIOR_PUBLIC.md",
+      "tmp/chunk8_calcano_form.md",
+      "entering-law/OT_2000CHUNK8_B_IMMIGRATION.md",
+      "entering-law/OT_2000CHUNK8_B_TRANSITION.md",
+      "entering-law/OT_2000CHUNK8_B_CALCANO_AADC_SUPPLEMENT.md"
+    ]
+  }
+}
