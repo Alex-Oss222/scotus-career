@@ -54,6 +54,8 @@ A Decision Record or Admitted Source Record is durable only when written to its 
 
 When such a source changes law, procedure, or institutional state during a term, commit its Admitted Source Record before the first Court event on or after its effective time. State the exact source, filing, action or operative text; authority; effective date and provenance; legal, procedural, docket, or institutional state changed; scope and transition; source location; and validation status. Do not turn it into a judicial holding or invent a construction or consequence the source does not settle.
 
+Before admitting a statute, amendment, or regulation, or applying one as governing law in a Neutral Modeling Packet, check whether history enacted it specifically to abrogate, codify, or modify a Supreme Court decision that this timeline decided differently or never decided. If it did, its historical predicate is absent here: do not admit or apply it automatically. Stop the affected matter and ask the user whether the provision is in force as enacted (record it as an Admitted Source Record), not in force (admit nothing), or in force in a stated modified form (a Section 14 reconstruction premise). This check concerns only whether the provision exists; it does not construe the provision or predict what Congress would have done in response to a simulated decision.
+
 ### Term-opening baseline
 
 Before the first adjudication, establish:
@@ -316,6 +318,8 @@ Complete resolution of the question decided. Once the Court reaches a question, 
 
 Test the assigned opinion's judgment, propositions, scope, remedy, and limits against each provisional commitment. Change a commitment only when a circulated formulation answers the substance of a recorded legal objection, adopts a narrower or broader lawful position the commitment records, or materially changes the proposition being joined. A Justice joins a revised formulation only when that Justice's own date-eligible reasoning supports the operative proposition as now formulated, whether broader, narrower, or differently structured; that support may rest on a justified inference from the Justice's sources, and an identical historical formulation is not required. Answering an objection permits reconsideration but does not compel a join; check whether the revision creates a new material objection for that Justice or another necessary joiner. A join requires neither identical reasoning nor agreement with every sentence: record a remaining difference the Justice's reasoning tolerates as a reservation or a concurrence that joins the opinion, and otherwise preserve the partial join, judgment-only agreement, separate opinion, or dissent. This is a qualitative legal judgment, not a numeric test. Record the objection, the revision answering it, the basis and scope of any changed join, and any remaining disagreement. Treat the sequence as simulation inference unless a reliable source establishes it. This is why expansion assignment exists: a join is formulation-sensitive, not fixed by who holds the pen.
 
+Also test the assigned opinion against the strongest date-eligible ground of the principal dissent or of a concurrence in the judgment only. When the controlling coalition has an answer to that ground, its controlling rationale states the answer concisely, whether or not it names the writing. State only reasoning the coalition adopts; add nothing where the ground does not divide the Court or the rationale already answers it. If the test shows the opinion cannot honor a necessary joiner's recorded limit, the preceding paragraph and the reassignment rule below govern; do not create a defection the Justice's own date-eligible reasoning does not support.
+
 If circulation materially changes a non-Stone commitment after historical reconciliation, send the frozen Neutral Modeling Packet, comparator, prior reconciled commitment, and a sanitized statement of the revised public legal ground to a reconciliation audit that receives no Stone supplement or private Stone material. Before commitment, that audit must confirm the revised position has a Justice-specific, date-eligible basis and record any new historical departure. If it cannot, return the affected commitment for correction or stop it.
 
 Do not invent draft history when final compatibility is enough to determine joins. Reassign or change opinion form only when a material revision causes the draft to lose its governing coalition, and then reassign under the balanced-assignment rule.
@@ -331,7 +335,7 @@ For each controlling proposition or independently sufficient alternative holding
 - case and citation or docket, decision date, and exact question answered;
 - exact legal proposition and authority basis;
 - source opinion and proposition-level joiners;
-- concise controlling rationale;
+- concise controlling rationale, including any answer Section 8 requires to a separate writing's ground;
 - case application and remedy when part of the holding;
 - only adopted limits, exceptions and safe harbors, and any question left undecided under the complete-resolution rule in Section 8, with its ground; and
 - effect on the judgment below.

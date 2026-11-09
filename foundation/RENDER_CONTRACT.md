@@ -131,7 +131,7 @@ participation, and consolidation or companion facts.]
 the exact remedy and any effective transition.]
 
 #### Opinion Topology
-[Precise authorship-and-joins account or writing table from Section 4.3.]
+[Delivery line and, where required, writing table from Section 4.3.]
 
 #### Controlling Propositions and Authority
 [Separate question, threshold, component, and alternative-holding blocks.]
@@ -179,7 +179,9 @@ Do not reconstruct either form from opinion joins or a vote count. If individual
 
 ### 4.3 Opinion Topology
 
-Use the table whenever any Justice joins only part of an opinion or concurs only in the judgment, when no opinion commands a majority, and whenever overlapping writings would be unclear in a concise narrative. Preserve every distinct join and relationship in either form. For one uncomplicated Court opinion and any straightforward dissent or concurrence, a precise authorship-and-joins statement is sufficient. The table form is:
+Open with one delivery line in United States Reports form whenever **Opinion Topology** supplies a signed opinion, for example: `STEVENS, J., delivered the opinion of the Court, in which O'CONNOR and SOUTER, JJ., joined. SCALIA, J., filed a dissenting opinion, in which THOMAS, J., joined.` Print each author's surname in capitals with J. or, for the Chief Justice, C. J. Keep joins, partial joins, and relationships exactly as supplied, in ordinary reporter phrasing: delivered the opinion of the Court with respect to the supplied parts; announced the judgment of the Court and delivered an opinion; filed an opinion concurring in part and dissenting in part; filed an opinion concurring in the judgment. A per curiam or unsigned action uses its supplied form. This line replaces any prose authorship statement. A table, where required below, follows it and carries only the detail the line cannot state clearly.
+
+Use the table whenever any Justice joins only part of an opinion or concurs only in the judgment, when no opinion commands a majority, and whenever overlapping writings would be unclear in a concise narrative. Preserve every distinct join and relationship in either form. For one uncomplicated Court opinion and any straightforward dissent or concurrence, the delivery line is sufficient. The table form is:
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

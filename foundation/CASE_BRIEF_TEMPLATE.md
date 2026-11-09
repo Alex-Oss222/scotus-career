@@ -37,7 +37,7 @@ Section I must permit independent modeling without revealing Stone's position or
 * **Material Record:** [only decision-material facts, disputes, assumptions, and missing findings]
 * **Threshold, Preservation, and Vehicle Matters:** [material matters or none identified]
 * **Relevant Dates:** [only chronology-material dates]
-* **Companion or Related Matters:** [if material]
+* **Companion or Related Matters:** [if material; when a companion or same-term case raises the same doctrine, state the factual, statutory, or procedural differences between the two records, without predicting either outcome or borrowing a historical opinion's framing]
 * **Participation Matter:** [recusal, vacancy, nonparticipation, or none identified]
 
 Do not invent a finding the record does not contain.
@@ -55,7 +55,7 @@ Repeat for each genuinely distinct issue:
 
 * **Controlling Simulated Law:** [Holdings proposition and authority]
 * **Current Reusable Doctrine:** [operative Standards & Tests provisions]
-* **Other Governing Law:** [constitutional, statutory, surviving, or effective noncase law]
+* **Other Governing Law:** [constitutional, statutory, surviving, or effective noncase law; flag any statute or amendment history enacted to abrogate, codify, or modify a Supreme Court decision this timeline decided differently or never decided]
 * **Material Other Authority:** [only authority that performs work]
 * **Existing Rule's Reach:** [the questions and applications entering law already governs; distinguish a genuinely unresolved legal question from an ordinary future application that needs only fact-finding under a settled rule]
 * **Open Point:** [the legal question entering law actually leaves unresolved, if any]
@@ -70,8 +70,8 @@ For each material issue state compactly:
 * material alternative or unreached grounds;
 * petitioner's or appellant's strongest supported position, including the general rule it asks the Court to adopt;
 * respondent's or appellee's strongest supported position, including the general rule it asks the Court to adopt;
-* necessary concessions or limiting principles;
-* Solicitor General or amicus position only when it could affect analysis.
+* necessary concessions or limiting principles, including any made by counsel at oral argument and verified from the transcript, never from the opinion;
+* Solicitor General or amicus position when it could affect analysis; when the United States or a principal amicus proposes a rule, construction, or remand different from both parties, state that rule and its judgment consequence.
 
 Do not manufacture symmetry where one side lacks a credible answer.
 
