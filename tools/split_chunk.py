@@ -20,16 +20,21 @@ TOP_SECTION_RE = re.compile(r"^#\s+SECTION\s+(I|II|III)\b.*$", re.M)
 # opened by "<!-- MATTER slug -->"). In a top-level brief every "#" heading other than a SECTION
 # heading or the chunk title is a case caption, numbered or not.
 TOP_CAPTION_RE = re.compile(r"^#\s+(?!SECTION\s+(?:I|II|III)\b)(?!OT_\d{4}CHUNK\d+\s*$)(.+?)\s*$", re.M)
+# OT2001 briefs number each caption one level down ("## 1. Caption") with "# SECTION" headings at the top level.
+NUMBERED_CAPTION_RE = re.compile(r"^##\s+(\d+\.\s+.+?)\s*$", re.M)
 SECTION_COMMENT_RE = re.compile(r"<!--\s*(BEGIN|END)_SECTION\s+(I|II|III)\s*-->")
 LAYOUTS = (
     "Accepted brief layouts: (1) '## Caption' cases with '### SECTION I/II/III' headings; "
     "(2) top-level '# Caption' or '# n. Caption' cases with '# SECTION I/II/III' headings "
-    "(optionally preceded by '<!-- MATTER slug -->'). Each case needs exactly one SECTION I, II and III, "
+    "(optionally preceded by '<!-- MATTER slug -->'); (3) '## n. Caption' cases with '# SECTION I/II/III' "
+    "headings. Each case needs exactly one SECTION I, II and III, "
     "in that order, and no other top-level '#' heading inside a case."
 )
 
 def layout(text: str):
     if TOP_SECTION_RE.search(text):
+        if not TOP_CAPTION_RE.search(text) and NUMBERED_CAPTION_RE.search(text):
+            return NUMBERED_CAPTION_RE, TOP_SECTION_RE
         return TOP_CAPTION_RE, TOP_SECTION_RE
     return CASE_RE, SECTION_RE
 
