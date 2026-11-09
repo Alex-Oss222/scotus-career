@@ -1,0 +1,72 @@
+[
+  {
+    "name": "kelly",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-246.pdf",
+    "pages": 20,
+    "sha256": "c63540bf6327f1c02ad0c3996c08c27d3878ac21177893222dc2489253da7117",
+    "characters": 44299
+  },
+  {
+    "name": "arvizu",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-266.pdf",
+    "pages": 14,
+    "sha256": "409a09d3b6d8acde00ef37f7c3938c201fd293b4a1b917702e37293679ffb2be",
+    "characters": 28962
+  },
+  {
+    "name": "waffle-house",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-279.pdf",
+    "pages": 37,
+    "sha256": "290d42bd3764e4dd4274ca196ad6729ca18b952aa120522f4376bd8684a22296",
+    "characters": 84770
+  },
+  {
+    "name": "thomas",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-316.pdf",
+    "pages": 11,
+    "sha256": "29a57aaaaabccaff3b812de6cf5fac5ddab889d0e07f73edbcf95c76405a1ded",
+    "characters": 22859
+  },
+  {
+    "name": "gulf-power",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-327.pdf",
+    "pages": 35,
+    "sha256": "ab3406c6e540b5ebbf29e1a06616caee53bfd437ca9d0759ac364a3bb7d4dffe",
+    "characters": 77861
+  },
+  {
+    "name": "lee",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-362.pdf",
+    "pages": 45,
+    "sha256": "da16301817c5096f7a7082f6c56721546d1099f8cef8d9666529fd70e4ebe740",
+    "characters": 98793
+  },
+  {
+    "name": "crane",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-407.pdf",
+    "pages": 19,
+    "sha256": "5ff0a8c4a29941ca7e60e61f74adb73acc2182159b0ca7beaabbd21d9f2e1c2b",
+    "characters": 39803
+  },
+  {
+    "name": "owasso",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-426.pdf",
+    "pages": 12,
+    "sha256": "512004d73b1e55ef715d06a1184d974f865367ac6004457f26c1c986689af747",
+    "characters": 26498
+  },
+  {
+    "name": "sigmon-coal",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-438.pdf",
+    "pages": 35,
+    "sha256": "22f6c7577c8929e6ea5c2c69dcb63155961d795c0e045afafbfc1bd9fc72ebd0",
+    "characters": 81029
+  },
+  {
+    "name": "blumer",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-534/pdf/USREPORTS-534-473.pdf",
+    "pages": 33,
+    "sha256": "76414c636e852bf766eb12ffe89bc272b4568d44ca370ba81f6115de96be77cf",
+    "characters": 76128
+  }
+]

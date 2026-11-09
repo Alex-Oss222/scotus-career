@@ -1,0 +1,688 @@
+https://law.resource.org/pub/us/case/reporter/F3/252/252.F3d.749.97-20948.html
+
+
+
+  
+    252 F.3d 749
+    
+    
+    
+    
+    
+
+  
+  
+    252 F.3d 749 (5th Cir. 2001)
+    JOYCE RILEY, Plaintiff-Appellant,v.ST. LUKE'S EPISCOPAL HOSPITAL,  BRANISLAV RADOVANCEVIC,  O. HOWARD FRAZIER, M.D.,  SURGICAL ASSOCIATES OF TEXAS, P.A.,  THE UNIVERSITY OF TEXAS HOUSTON  HEALTH SCIENCE CENTER,  BAYLOR COLLEGE OF MEDICINE,  TEXAS HEART INSTITUTE, and EDWARD K. MASSIN, M.D.,   Defendants-Appellees.
+    No. 97-20948
+    UNITED STATES COURT OF APPEALS, FIFTH CIRCUIT
+    May 25, 2001
+    
+      [Copyrighted Material Omitted]
+      Appeal from the United States District Court for the Southern District of Texas.
+      Before JOLLY, HIGGINBOTHAM, DAVIS, JONES, SMITH, WIENER, BARKSDALE, EMILIO M. GARZA, DeMOSS, BENAVIDES, STEWART, PARKER, and DENNIS, Circuit Judges.*
+      CARL E. STEWART, Circuit Judge:
+    
+    
+      1
+      We took this case en banc to reconsider the issue of whether the qui tam provisions of the False Claims Act ("FCA"), which permits private citizens, or relators, to pursue actions for fraudulent claims in the name of the federal government, violate the constitutional separation of powers doctrine under the Take Care and Appointments Clauses of Article II. Because we find no such unconstitutional intrusion, we reverse and remand to the district court.
+    
+    FACTUAL AND PROCEDURAL HISTORY
+    
+      2
+      Joyce Riley ("Riley"), a former nurse at St. Luke's Episcopal Hospital ("St. Luke's"), sued eight defendants under the qui tam provisions of the FCA, claiming that they defrauded and conspired to defraud the United States Treasury in violation of the statute. Riley proceeded with the lawsuit although the government exercised its right not to intervene under 31 U.S.C. § 3730(b)(4)(B) (2000).1 The district court subsequently dismissed Riley's lawsuit on standing grounds.2 On appeal, however, this Court held that although Riley had standing to sue under Article III,3 qui tam actions pursued under the FCA in which the government does not intervene violate the doctrine of separation of powers and the Take Care Clause.
+    
+    
+      3
+      The United States intervened to defend the constitutionality of the FCA. We subsequently decided to rehear this case en banc, but delayed it pending the Supreme Court's decision in Stevens.4
+    
+    DISCUSSION
+    I. The Role of History
+    
+      4
+      Qui tam lawsuits have been used throughout American and English history as a means todiscover and to prosecute fraud against the national treasuries. Indeed, the Founding Fathers and the First Congress enacted a number of statutes authorizing qui tam actions. Stevens, 529 U.S. at 793-96 nn.5-7, 120 S.Ct. 1858. After undergoing a decline in popularity and need, qui tam, under the guise of the original FCA, enjoyed a renaissance during the Civil War era. This renaissance was precipitated by a desire to combat widespread corruption and fraud amongst defense contractors who supplied the Union Army. Stevens, 529 U.S. at 792, 120 S.Ct 1858.
+    
+    
+      5
+      In 1986, qui tam underwent a similar surge of popularity after Congress's decision to amend the FCA in order to promote such lawsuits in the face of an ever-growing federal deficit and fears that defense contractors were once again defrauding the government. The most important amendment that Congress made to the 1986 legislation was to increase the reward offered to qui tam plaintiffs. J. Randy Beck, The False Claims Act and the English Eradication of Qui Tam Legislation, 78 N.C. L. Rev. 539, 541-42 (2000). The increase in the proceeds available to relators has resulted in an augmented number of lawsuits filed by qui tam relators. Id. at 542. As of September 1999, more than 2900 qui tam lawsuits had been filed. Id. Moreover, more than a billion dollars have been recovered under the FCA qui tam provisions since 1987. Anna Mae Walsh Burke, Qui Tam: Blowing the Whistle for Uncle Sam, 21 Nova L. Rev. 869, 871 (1997).
+    
+    
+      6
+      The practical effects of the 1986 amendments to the FCA notwithstanding, the Supreme Court in Stevens gave due credence to the important historical role that qui tam lawsuits have played on both sides of the Atlantic as a means to root out corruption against national governments. Justice Scalia, writing for the 7-2 majority in Stevens, noted that the history of qui tam was "well nigh conclusive" with respect to resolving the question of whether qui tam relators filing suit under the FCA have Article III standing. Stevens, 529 U.S. at 792, 120 S.Ct. 1858.
+    
+    
+      7
+      Although the Court in Stevens expressed no opinion regarding the role of history in evaluating the Article II Take Care and Appointments Clauses questions, we are persuaded that it is logically inescapable that the same history that was conclusive on the Article III question in Stevens with respect to qui tam lawsuits initiated under the FCA is similarly conclusive with respect to the Article II question concerning this statute. Indeed, the dissent in Stevens noted that history alone resolves the question of whether the qui tam provisions in the FCA violate Article II, stating "[t]hat [historical] evidence, together with the evidence that private prosecutions were commonplace in the 19th century . . . is also sufficient to resolve the Article II question that the Court has introduced sua sponte, ante, at 1865, n.8." Stevens, 529 U.S. at 801. (Stevens, J., dissenting). Therefore, we find that history, although not the sole definitive argument supporting the view that the FCA's qui tam provisions do not violate Article II, is certainly a "touchstone illuminating" their constitutionality. Riley, 196 F.3d at 543-44 (Stewart, J., dissenting). Moreover, this historical perspective provides us with a helpful bridge into the workings of the statute itself.
+    
+    
+      8
+      II. The Executive's Control Over Qui Tam Actions Initiated Under the FCA
+    
+    
+      9
+      That a private citizen may pursue qui tam litigation under the FCA, whether the government chooses to intervene or does not choose, does not interfere with the President's constitutionally assigned functions under Article II's Take Care Clause. Although the Clause states that the Executive must "take Care that the Laws be faithfully executed," it does not require Congress to prescribe litigation by the Executive as the exclusive means of enforcing federal law. U.S. Const. art. II, § 3. Thus, even though Congress has historically allowed alternative mechanisms of fraud enforcement against the federal government, this state of affairs does not therefore mean that the Executive's functions to control such litigation are necessarily impinged.
+    
+    
+      10
+      As this Court has previously noted, the Executive retains significant control over litigation pursued under the FCA by a qui tam relator. First, there is little doubt that the Executive retains such control when it intervenes in an action initiated by a relator.5 Second, even in cases where the government does not intervene, there are a number of control mechanisms present in the qui tam provisions of the FCA so that the Executive nonetheless retains a significant amount of control over the litigation. The record before us is devoid of any showing that the government's ability to exercise its authority has been thwarted in cases where it was not an intervenor.
+    
+    
+      11
+      Our precedent, moreover, accords with the position that this en banc court now takes. In Searcy v. Philips Elec. N. Am. Corp., et al., 117 F.3d 154 (5th Cir. 1997), we held that the FCA clearly permits the government to veto settlements by a qui tam plaintiff even when it remains passive in the litigation. We cited several ways in which the government may assume control over qui tam litigation in which it does not intervene under the FCA. See id., 117 F.3d at 160. We noted that not only may the government take over a case within 60 days of notification, but it may also intervene at a date beyond the 60-day period upon a showing of good cause. Id., 117 F.3d at 159 (citing 31 U.S.C. § 3730(d)(2)(A) and 31 U.S.C. §§ 3730(b)(3) & (c)(3)). This Court also stated that the government retains the unilateral power to dismiss an action "notwithstanding the objections of the person." Id., 117 F.3d at 160 (citing 31 U.S.C. § 3730(c)(2)(A)).
+    
+    
+      12
+      In United States ex rel. Russell v. Epic Healthcare Mgmt. Group, we held that parties, in a qui tam suit filed under the FCA in which the United States does not intervene, have 60 days to file a notice of appeal under Rule 4(a)(1) of the Federal Rules of Civil Procedure.6 193 F.3d 304, 306 (5th Cir. 1999). We similarly stated in Russell that although the government does not intervene, its involvement in the litigation nonetheless continues. Id. We noted, for example, that, in addition to the control mechanisms already stated in Searcy, the government "may request that it be served with copies of pleadings and be sent deposition transcripts . . . [and it] may pursue alternative remedies, such as administrative proceedings." Id. at 307; see also 31 U.S.C. § 3730(c)(3) and (5). We also noted that despite the government's non-intervention, it "receives the larger share of any recovery," amounting to up to 70% of the proceeds of a lawsuit.7 Id.; see also 31 U.S.C. § 3730 (d)(1) and (2).
+    
+    
+      13
+      Furthermore, the FCA itself describes several additional ways in which the United States retains control over a lawsuit filed by a qui tam plaintiff. In the area of settlement, for example, the government may settle a case over a relator's objections if the relator receives notice and hearing of the settlement. 31 U.S.C. § 3730(c)(2)(B). Additionally, in the area of discovery, if the government shows that discovery initiated by a qui tam plaintiff "would interfere with the Government's investigation or prosecution of a criminal or civil matter arising out of the same facts, the court may stay the discovery for sixty days or more," whether or not the government intervenes. 31 U.S.C. § 3730(c)(4).
+    
+    
+      14
+      For this reason, it is therefore apparent that the Supreme Court's decision in Morrison v. Olson, 487 U.S. 654, 108 S. Ct. 2597, 101 L. Ed. 2d 569 (1988), the primary case upon which the Riley panel majority relied to analyze the constitutionality of the qui tam provisions of the FCA under Article II,8 is inapplicable to the present discussion. At issue in Morrison were the independent counsel provisions of the Ethics in Government Act ("EGA"), which permitted the delegation of "criminal prosecution functions to a judicially appointed prosecutor who could be removed only by the Attorney General, and only under a highly constrained 'good cause' requirement." Returning Separation-of-Powers Analysis to Its Normative Roots: The Constitutionality of Qui Tam Actions and Other Private Suits to Enforce Civil Fines, 30 Envtl. L. Rep. (Envtl. L. Inst.) 11,081, at 11, 095 (Dec. 2000) [hereinafter Returning Separation-of-Powers]. The Morrison Court upheld the independent counsel provisions, finding that they do not violate separation of powers principles by impermissibly infringing upon the Executive's constitutional duties under either the Take Care Clause or the Appointments Clause of Article II. Morrison, 487 U.S. at 696.
+    
+    
+      15
+      Morrison, although it examined similar constitutional questions with regard to the Executive's duties under Article II, is not relevant to the present discussion of qui tam relators, which invokes civil suits filed by private plaintiffs, for two principal reasons. First, the EGA assigns the independent counsel to act as the United States itself, in contrast to the FCA's qui tam provisions, which only authorize the relator to bring a lawsuit in the name of the United States. 28 U.S.C. § 594(a) (2000), expired by 28 U.S.C. § 599 (authorizing the independent counsel to have "full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice"); see also 28 U.S.C. § 594(i), expired by 28 U.S.C. § 599 (noting that the independent counsel and persons appointed by that independent counsel "are separate from and independent of the Department of Justice"); 28 U.S.C. § 597(a), expired by 28 U.S.C. § 599 (stating that when an independent counsel has undertaken its duty to investigate and to prosecute "the Department of Justice, the Attorney General, and all other officers and employees of the Department of Justice shall suspend all investigations and proceedings regarding such matter, except to the extent required by section 594(d)(1) [28 USCS [sic] §§ 594(d)(1)], and except insofar as such independent counsel agrees in writing that such investigation or proceedings may be continued by the Department of Justice").
+    
+    
+      16
+      Second, in contrast to independent counsel who undertake functions relevant to a criminal prosecution, relators are simply civil litigants. No function cuts more to the heart of the Executive's constitutional duty to take care that the laws are faithfully executed than criminal prosecution. Since the advent of public prosecutions in the United States, "no private citizen . . . can subject another private citizen to the unique and virtually unfettered powers of a criminal prosecutor . . . . The burdens of criminal investigation cannot be imposed on any target unless the investigator has been duly clothed with the power of the state through a process that is legally and politically accountable." Returning Separation-of-Powers, at 11, 097. Thus, because the independent counsel provisions at issue in Morrison and the qui tam provisions central to Riley involve two different types of lawsuits, the Executive must wield two different types of control in order to ensure that its constitutional duties under Article II are not impinged. Should the occasion arise, these two different types of control necessarily require the application of two different sorts of tests. Hence, the Morrison control test that the panel majority used to evaluate the constitutionality of the qui tam provisions in the FCA is simply not dispositive of the instant case, as it involves an entirely different lawsuit and requires entirely different control mechanisms.9
+    
+    
+      17
+      There is also a credible argument that because the Court upheld the EGA's independent counsel provisions under Article II, it would similarly uphold the FCA's qui tam provisions under the same Article. Relators sue in civil capacities, involving lesser uses of traditional Executive power, in contrast to independent counsels who arguably wield greater "Executive" power because they act in criminal contexts.10
+    
+    
+      18
+      Moreover, the powers of a qui tam relator to interfere in the Executive's overarching power to prosecute and to control litigation are seen to be slim indeed when the qui tam provisions of the FCA are examined in the broad scheme of the American judicial system. The prosecution of criminal cases has historically lain close to the core of the Article II executive function. The Executive Branch has extraordinarily wide discretion in deciding whether to prosecute. Indeed, that discretion is checked only by other constitutional provisions such as the prohibition against racial discrimination and a narrow doctrine of selective prosecution. Nonetheless, when the Executive has made the decision to initiate the criminal case, its large discretion is narrowed considerably and the power to dispose of the case is shared in part with the Third Branch.
+    
+    
+      19
+      For example, Rule 48(a) of the Federal Rules of Criminal Procedure clearly states that although the Executive has the power to indict an individual, it may not dismiss such an indictment without "leave of court." Fed.R.Crim.P. 48(a). Similarly, Rule 11 of the Federal Rules of Criminal Procedure requires court approval of plea bargains, a judicial check that functions in a manner similar to that of Rule 48. Fed.R.Crim.P. 11(a)(2).11
+    
+    
+      20
+      Thus, although our judicial system allows for these seemingly greater intrusions by the Judiciary into the Executive's paramount power to prosecute in the criminal context, Rule 48, Rule 11, and the criminal justice system have not suffered from the constitutional and systemic pitfalls that have been ascribed to the FCA's qui tam provisions. See, e.g., United States v. Cowan, 524 F.2d 504, 513 (5th Cir. 1975) (stating that "the phrase 'by leave of court' in Rule 48(a) was intended to modify and condition the absolute power of the Executive, consistently with the Framer's concept of Separation of Powers, by erecting a check on the abuse of Executive prerogatives"). Any intrusion by the qui tam relator in the Executive's Article II power is comparatively modest, especially given the control mechanisms inherent in the FCA to mitigate such an intrusion and the civil context in which qui tam suits are pursued. Hence, the qui tam portions of the FCA do not violate the constitutional doctrine of separation of powers by impinging upon the Executive's constitutional duty to take care that the laws are faithfully executed under Article II of the Constitution.12
+    
+    
+      21
+      III. The FCA's Qui Tam Provisions do not Violate the Appointments Clause
+    
+    
+      22
+      The Appointments Clause states in part that "the President shall nominate, and by and with the advice and consent of the Senate shall appoint . . . all other officers of the United States, whose appointments are not herein otherwise provided for and which shall be established by law. But the Congress may, by law, vest the appointment of such inferior officers as they may think proper . . . in the heads of departments." U.S. Const. art. II, § 2, cl. 2. The district court and the panel majority in Riley declined to address this question, but it is presented to us en banc because it was raised in the district court as an additional basis for finding constitutional deficiency in the qui tam provisions of the FCA. We are persuaded that this argument holds even less vitality than the arguments made about the Take Care Clause, given that qui tam relators are not officers of the United States.
+    
+    
+      23
+      Supreme Court precedent has established that the constitutional definition of an "officer" encompasses, at a minimum, a continuing and formalized relationship of employment with the United States Government. See Auffmordt v. Hedden, 137 U.S. 310, 327, 11 S. Ct. 103, 34 L. Ed. 674 (1890) (finding that a merchant appraiser is not an "officer" for purposes of the Appointments Clause where his position is without tenure, duration, continuing emolument, or continuous duties); United States v. Germaine, 99 U.S. 508, 511-12, 25 L. Ed. 482 (1878) (holding that a surgeon appointed by Commissioner of Pensions was not an "officer" where his duties were not continuing and permanent). There is no such relationship with regard to qui tam relators, and they therefore are not subject to either the benefits or the requirements associated with offices of the United States. For instance, qui tam plaintiffs do not draw a government salary and are not required to establish their fitness for public employment.13 Therefore, we are persuaded that the FCA's qui tam provisions do not violate the Appointments Clause.
+    
+    CONCLUSION
+    
+      24
+      For the foregoing reasons, we hold that the qui tam provisions of the False Claims Act do not violate the principle of separation of powers by impermissibly infringing upon the constitutional duty of the Executive to take care that the laws are faithfully executed under the Take Care Clause of Article II. We similarly hold that the FCA's qui tam provisions do not violate the Appointments Clause. We, therefore, REVERSE and REMAND to the district court for further proceedings.
+    
+    
+      25
+      REVERSED AND REMANDED.
+    
+    
+      
+        NOTES:
+      
+      
+        *
+          Chief Judge King did not participate in this decision.
+      
+      
+        1
+          In exchange, qui tam plaintiffs, such as Riley, may recover up to 30 percent of the proceeds of an action, in addition to reasonable attorneys' fees and costs, if the action is successful. 31 U.S.C. § 3730(d)(2). Relators, however, may recover a maximum of 25 percent of the proceeds in lawsuits initiated by a relator in which the government chooses to intervene. 31 U.S.C. § 3730(d)(1).
+      
+      
+        2
+          United States ex rel. Riley v. St. Luke's Episcopal Hosp., et al., 982 F. Supp. 1261, 1268-69 (S.D. Tex. 1997).
+      
+      
+        3
+          The United States Supreme Court subsequently held that relators have standing to bring qui tam actions under the FCA. Vermont Agency of Natural Res. v. United States ex rel. Stevens, 529 U.S. 765, 848, 120 S. Ct. 1858, 146 L. Ed. 2d 836 (2000). We, therefore, pretermit discussion of this issue.
+      
+      
+        4
+          For further examination of the factual and procedural background of this case, see United States ex rel. Riley v. St. Luke's Episcopal Hosp., et al., 196 F.3d 514 (5th Cir. 1999), vacated by 196 F.3d at 516, and United States ex rel. Riley v. St. Luke's Episcopal Hosp., et al., 982 F. Supp. 1261.
+      
+      
+        5
+          The panel majority's original holding was limited solely to cases in which the government does not intervene, and it did not address this subset of the qui tam universe. See Riley, 196 F.3d at 529 n.43.
+      
+      
+        6
+          We nonetheless affirmed the district court's dismissal of the qui tam suit in Russell because the relator failed to plead fraud with particularity in accordance with Rule 9(b) of the Federal Rules of Civil Procedure. Russell, 193 F.3d at 306.
+      
+      
+        7
+          In United States ex rel. Foulds v. Tex. Tech Univ., we also held that the Eleventh Amendment barred a qui tam suit by a private plaintiff against a public university in which the government did not intervene, and we stated that there is a continuum of control that the government has in qui tam lawsuits. 171 F.3d 279, 289-90 (5th Cir. 1999), cert. denied, 530 U.S. 1202, 120 S. Ct. 2194, 147 L. Ed. 2d 231 (2000). On the one hand, the government has complete control when it decides to intervene. Id. On the other hand, although we indicated that a relator has significant control over qui tam litigation when the government chooses not to intervene, we stated that the government still "retains some control over the qui tam suit." Id. at 289-90, 293. Thus, our holding in Foulds does not contradict our en banc position now.
+      
+      
+        8
+          The Riley majority gleaned a four-part test from Morrison to determine whether the Executive retains sufficient control and discretion over lawsuits filed by qui tam plaintiffs under the FCA consistent with the Take Care Clause of Article II. This test included the following inquiries: 1) whether the Executive may remove the relator for good cause; 2) whether the Executive may request the appointment of the relator; 3) whether the Executive defines the jurisdiction of the relator; and 4) whether the relator must abide by the policies of the Department of Justice. Riley, 196 F.3d at 527-28. The panel majority, however, emphasized the second factor of this Morrison control test by focusing on two elements: 1) the Executive does not have prosecutorial discretion to prosecute a claim brought by a qui tam plaintiff; and 2) the Executive does not have sufficient control over the litigation if it does not intervene in the litigation once it is commenced. Id. at 528.
+      
+      
+        9
+          The Ninth Circuit in United States ex rel. Kelly v. Boeing Co., 9 F.3d 743, 752 (9th Cir. 1993), also used Morrison to examine the question of whether the FCA's qui tam provisions violate separation of powers. In contrast to the Morrison control test used by the panel majority in Riley, however, the Ninth Circuit relied on the independent counsel provisions discussed in Morrison simply as an analogy. For example, it analyzed the qui tam provisions in the FCA only to the extent that they "'as a whole' [compared] to the independent counsel provisions 'as a whole'" and whether the FCA "taken as a whole" violates the principle of separation of powers by unduly interfering with the President's constitutional role. Kelly, 9 F.3d at 752.
+      
+      
+        10
+          Other circuits have either cited the control mechanisms in the FCA that we now discuss or have already taken the position we now declare en banc. See, e.g., United States v. Health Possibilities, P.S.C., 207 F.3d 335, 340-41 (6th Cir. 2000) (holding that the absolute consent of the Attorney General is required before a relator may settle an action under the qui tam provisions of the FCA even when it does not intervene in the action); United States ex rel. Zissler v. Regents of Univ. of Minn., 154 F.3d 870, 872 (8th Cir. 1998) (agreeing with other circuit courts that the United States is "the real party in interest" because of its "extensive power" to control the qui tam litigation as well as the "extensive benefit flowing to [it] from any recovery"); United States ex rel. Hall v. Tribal Dev. Corp., 49 F.3d 1208, 1213 (7th Cir. 1995) (reiterating that "it is the government, not the individual relator, who is the real plaintiff in the suit"); United States ex rel. Taxpayers Against Fraud v. Gen. Elec. Co., 41 F.3d 1032, 1041 (6th Cir. 1994) (stating that the FCA's qui tam provisions "do not contradict the constitutional principle of separation of powers. Rather, they have been crafted with particular care to maintain the primacy of the Executive Branch in prosecuting false-claims action, even when the relator has initiated the process"); Kelly, 9 F.3d at 745 (holding in part that the qui tam provisions of the FCA do not violate the constitutional principle of separation of powers); United States ex rel. Kreindler & Kreindler v. United Tech. Corp., 985 F.2d 1148, 1155 (2d Cir. 1993) (stating that "the FCA qui tam provisions do not usurp the executive branch's litigating function because the statute gives the executive branch substantial control over the litigation"); United States ex rel. Milam v. Univ. of Tex. M.D. Anderson Cancer Ctr., 961 F.2d 46, 48-49 (4th Cir. 1992) (emphasizing the "extensive power the government has to control [qui tam] litigation" and underscoring that the United States is the "real plaintiff" in a qui tam action filed under the FCA, that it "is entitled to the lion's share of any amount recovered," and that it may intervene upon a showing of good cause).
+      
+      
+        11
+          Rule 11, however, is perhaps less intrusive vis-a-vis the Executive Power than judicial intervention at the indictment phase, as the guilty plea implicates the adjudication of guilt- a distinctly judicial function.
+      
+      
+        12
+          There is also an argument that Article II's Take Care Clause and Article III's standing requirement, resolved by the Court in Stevens, are two different sides of the same Separation of Powers coin. In both instances, the Judiciary may not enter into the traditional sphere of Executive power, and citizens cannot enlist the judiciary in a quest to police the government absent a personal interest distinct from that of all citizens. Although we find this argument persuasive, we limit our discussion to the issues examined herein.
+      
+      
+        13
+          We note also that our holding does not differ from that of at least one member of the Supreme Court and other circuit courts. The dissent in Stevens plainly stated that the FCA's qui tam provisions do not violate the Appointments Clause. 529 U.S. at 863 (Stevens, J., dissenting). Circuit courts according with our view en banc regarding the Appointments Clause include the Sixth, Ninth, and Fourth Circuits. See, e.g., Taxpayers Against Fraud, 41 F.3d at 1041; Kelly, 9 F.3d at 758; Milam, 961 F.2d at 49 (implicitly supporting this argument and stating that "Congress has let loose a posse of ad hoc deputies to uncover and prosecute frauds against the government").
+      
+    
+    
+      26
+      JERRY E. SMITH, Circuit Judge, with whom DeMOSS, Circuit Judge, joins dissenting:
+    
+    
+      27
+      Allowing relators to pursue False Claims Act("FCA") qui tam actions in which the government has declined to intervene violates the Take Care Clause1 and the Appointments Clause2 of Article II.3 Although Judge Stewart has presented a well-written, comprehensive opinion on behalf of the en banc majority, that majority fails to recognize either the encroachment on executive power that results from turning over litigation of the government's business to self-appointed relators or the consequent violations of separation of powers. Accordingly, I respectfully dissent.
+    
+    
+      28
+      I. Violations of Separation of Powers Generally.
+    
+    
+      29
+      The Constitution divides power among the three branches. "The ultimate purpose of this separation of powers is to protect the liberty and security of the governed." Metro. Washington Airports Auth. v. Citizens for Abatement of Aircraft Noise, Inc., 501 U.S. 252, 272 (1991). As former Attorney General Levi explained:
+    
+    
+      30
+      The essence of the separation of powers concept formulated by the Founders from the political experience and philosophy of the revolutionary era is that each branch, in different ways, within the sphere of its defined powers and subject to the distinct institutional responsibilities of the others is essential to the liberty and security of the people. Each branch, in its own way, is the people's agent, its fiduciary for certain purposes. . . .
+    
+    
+      31
+      Fiduciaries do not meet their obligations by arrogating to themselves the distinct duties of their master's other agents.
+    
+    
+      32
+      Levi, Some Aspects of Separation of Powers, 76 Colum. L. Rev. 371 385-386 (1976). It is the duty of the courts to police the boundaries of the separation of powers.4
+    
+    
+      33
+      The branch that must be most carefully monitored against attempted encroachments on the other branches is the legislative, as James Madison explained:
+    
+    
+      34
+      It will not be denied, that power is of an encroaching nature, and that it ought to be effectually restrained from passing the limits assigned to it. . . .
+    
+    
+      35
+      The founders of our republics . . . seem never for a moment to have turned their eyes from the danger to liberty from the overgrown and all-grasping prerogative of an hereditary magistrate . . . They seem never to have recollected the danger from legislative usurpations; which by assembling all power in the same hands, must lead to the same tyranny as is threatened by executive usurpations. . . . [I]t is against the enterprising ambition of this department, that the people ought to indulge all their jealousy and exhaust all their precautions.
+    
+    
+      36
+      The legislative department derives a superiority in our governments from other circumstances. Its constitutional powers being at once more extensive and less susceptible of precise limits, it can with the greater facility, mask under complicated and indirect measures, the encroachments which it makes on the co-ordinate departments. It is not unfrequently a question of real-nicety in legislative bodies, whether the operation of a particular measure, will, or will not extend beyond the legislative sphere.
+    
+    
+      37
+      The Federalist No. 48, at 332-34 (J. Cooke ed. 1961).
+    
+    
+      38
+      To protect against the danger of legislative encroachment, the Constitution forbids Congress to "invest itself or its Members with either executive power or judicial power." J.W. Hampton, Jr., & Co. v. United States, 276 U.S. 394, 406 (1928). This prohibition applies not only to Congress but also to its agents, as explained in Bowsher v. Synar, 478 U.S. 714, 726 (1986):
+    
+    
+      39
+      To permit the execution of the laws to be vested in an officer answerable only to Congress would, in practical terms, reserve in Congress control over the execution of the laws. . . . The structure of the Constitution does not permit Congress to execute the laws; it follows that Congress cannot grant to an officer under its control what it does not possess.
+    
+    
+      40
+      Thus, the Constitution is pellucid on separation of powers.5 It does not permit Congress to vest executive power in one of Congress's agents. The question presented in this case is whether the Constitution also forbids Congress from vesting the executive power in a self-appointed agent who answers to no one. The answer to this question must be no, because the Constitution is violated both when one branch of government aggrandizes itself at the expense of another and when one branch "impermissibly undermine[s]"6 the constitutionally granted powers and functions of another, even if there is no aggrandizement.7
+    
+    
+      41
+      II. Take Care Clause and Separation of Powers.
+    
+    
+      42
+      A. Violations of Take Care Clause.
+    
+    
+      43
+      The Take Care Clause states that the Executive "shall take Care that the Laws be faithfully executed." U.S. Const. art. II, § 3. It gives the Executive the power to enforce the laws, see Springer v. Philippine Islands, 277 U.S. 189, 202 (1928); such power includes the authority "to investigate and litigate offenses against the United States."  United States ex rel. Stillwell v. Hughes Helicopters, Inc., 714 F. Supp. 1084, 1088 (C.D. Cal. 1989) (citing Buckley v. Valeo, 424 U.S. 1, 138 (1976) (per curiam)).
+    
+    
+      44
+      The Take Care Clause was designed as a crucial bulwark to the separation of powers and is far from a dead letter or obsolete relic. As recently as 1997, the Supreme Court cited the Take Care Clause in striking (on other grounds) provisions of the Brady Act, explaining:
+    
+    
+      45
+      The Constitution does not leave to speculation who is to administer the laws enacted by Congress; the President, it says, "shall take Care that the Laws be faithfully executed," Art. II, § 3, personally and through officers whom he appoints. . . . The Brady Act effectively transfers this responsibility to thousands of [state law enforcement officers] in the 50 States, who are left to implement the program without meaningful Presidential control (if indeed meaningful Presidential control is possible without the power to appoint and remove). The insistence of the Framers upon unity in the Federal Executive--to insure both vigor and accountability--is well-known. . . . That unity would be shattered, and the power of the President would be subject to reduction, if Congress could act as effectively without the President as with him, by simply requiring state officers to execute its laws.
+    
+    
+      46
+      Printz v. United States, 521 U.S. 898 (1997) (citations omitted).8
+    
+    
+      47
+      Like the Brady Act, the FCA violates the separation of powers embodied in the Take Care Clause in a number of ways. First, it diminishes the political accountability of the Executive for enforcement of the laws by allowing any private citizen to sue on behalf of the government, even though the Attorney General--perhaps because he believes that institution of the action is inimical to the government's interests--has decided not to pursue the claim.9 This removes from the Executive Branch the prosecutorial discretion that is at the heart of the President's power to execute the laws,10 and leaves no one in government who is accountable for the prosecution of government claims. Thus, the protections built into the Constitution against selective or harsh enforcement of laws are quashed in FCA suits conducted by relators.
+    
+    
+      48
+      Second, the FCA violates the separation of powers principles embodied in the Take Care Clause by both aggrandizing Congressional power and impermissibly undermining Executive power.11 Through this statute, Congress has invoked both its own power--to pass laws--and that of the Executive--to assign their enforcement. It does not save the Act that Congress did not give itself the enforcement power it took from the Executive, because the Act "impermissibly undermines" Executive functions by wresting control, from the President, of the initiation and prosecution of government lawsuits.
+    
+    
+      49
+      Defendants need show no more than this to establish a Take Care Clause separation-of-powers violation. Nevertheless, the FCA goes further, aggrandizing both the Legislative and Judicial branches: first, by allowing Congress to enforce laws without reliance on the Executive; second, by decreasing Executive power, which makes Congress relatively stronger; and third, by shifting some of the discretion to bring suit and to control the action from the Executive to the judiciary, as I discuss infra.
+    
+    
+      50
+      Third, the FCA does not provide the Executive with enough control over the relator to be able to "take care that the laws be faithfully executed."12 The decision to initiate the lawsuit is made by the relator, without input from the Executive.13 The Executive has absolutely no control of the relator and therefore no way to ensure that he "take[s] care that the laws be faithfully executed." The relator does not have to follow Department of Justice ("DOJ") policies, has no agency relationship with the government,14 has no fiduciary or other duties to it, and has no obligation whatsoever to pursue the best interests of the United States.15 Instead, the relator can negotiate a settlement in his own interest rather than in the public interest. While the government must be consulted in all such settlements, there is no guarantee that it will take an active interest in these cases or that the settlements reached by a relator and approved by the DOJ will be of the same sort that the government would reach on its own for the benefit of the public.16
+    
+    
+      51
+      Nor may the Executive freely dismiss a qui tam action. If the relator objects to the decision to dismiss, the government must notify him of the filing of the motion to dismiss, and the court must grant him a hearing before deciding whether to permit dismissal.17 Moreover, the Executive may not freely settle a qui tam action. If the relator objects to the government's attempt to settle, the government must obtain court approval, and the court may approve only after it holds a hearing and finds that the settlement is "fair, adequate, and reasonable under all the circumstances."18
+    
+    
+      52
+      The Executive may not freely restrict the relator's participation in the qui tam action but first must first show the court that the relator's unrestricted participation "would interfere with or unduly delay the Government's prosecution of the case, or would be repetitious, irrelevant, or for purposes of harassment." 31 U.S.C. § 3730(c)(2)(C). Nor can the Executive control the breadth of the matter litigated by the relator. Thus, a relator may make sweeping allegations that, while true, he is unable effectively to litigate, but which nonetheless bind the government, via res judicata, and prevent it from suing over those concerns at a later date when more information is available. Finally, the Executive has no power to remove the relator from the litigation under any circumstances.19
+    
+    
+      53
+      B. Inapplicable Precedent.
+    
+    
+      54
+      In only one case has the Supreme Court allowed an encroachment on the Executive anywhere near that countenanced by the FCA. In Morrison v. Olson, 487 U.S. 654 (1988), the Court upheld the constitutionality of the independent counsel provisions of the Ethics in Government Act ("EGA"). The Court recognized that the special structural problems dealt with by the EGA required some encroachment on the Executive's Take Care Clause powers.
+    
+    
+      55
+      The independent counsel device was intended to address a narrow structural problem--the conflict of interest present when the Attorney General is called on to investigate criminal wrongdoing by his close colleagues in the Executive Branch. In accepting the independent counsel as an appropriate means of dealing with this intra-branch conflict, the Morrison Court announced that when congressional action potentially undermines the Executive's litigative function, the test of constitutionality is whether the Executive Branch retains sufficient "control" over the litigation "to ensure that the President is able to perform his constitutionally assigned duties." Id. at 696. While acknowledging the independent counsel's special needs for independence, the Morrison court stressed four features of the EGA that preserved sufficient Executive control to satisfy Article II:
+    
+    
+      56
+      Most importantly, [1] the Attorney General retains the power to remove the counsel for "good cause," a power that we have already concluded provides the Executive with substantial ability to ensure that the laws are "faithfully executed" by an independent counsel. [2] No independent counsel may be appointed without a specific request by the Attorney General, and the Attorney General's decision not to request appointment if he finds "no reasonable grounds to believe that further investigation is warranted" is committed to his unreviewable discretion. The Act thus gives the Executive a degree of control over the power to initiate an investigation by the independent counsel. [3] In addition, the jurisdiction of the independent counsel is defined with reference to the facts submitted by the Attorney General, and [4] once a counsel is appointed, the Act requires that the counsel abide by Justice Department policy unless it is not "possible" to do so. Notwithstanding the fact that the counsel is to some degree "independent" and free from executive supervision to a greater extent than other federal prosecutors, in our view these features of the Act give the Executive Branch sufficient control over the independent counsel to ensure that the President is able to perform his constitutionally assigned duties.
+    
+    
+      57
+      Morrison, 487 U.S. at 696 (emphasis added).
+    
+    
+      58
+      As the panel opinion pointed out, not a single one of the features of the EGA that preserved Executive control is present in the FCA's qui tam provisions. The Attorney General has no power to remove a relator, no matter how irresponsible the suit becomes. If he makes the proper showing to the court, the Attorney General may limit the relator's participation, see 31 U.S.C. § 3730(c)(2)(C), and may even dismiss the action once the court has afforded the relator with a hearing on the motion to dismiss, see id. § 3730(c)(2)(A), but may not simply remove the relator, see id. § 3730(c)(1),(3).
+    
+    
+      59
+      Perhaps more importantly, the second crucial feature present in the independent counsel statute is missing: The Attorney General loses all control over the decision whether to initiate the suit. Even if the Attorney General determines that there are "no reasonable grounds" for the fraud action, the relator may override that judgment and initiate a lawsuit.20 The action goes forward in the government's name, under total control of the self-interested and publicly unaccountable relator, even if the Attorney General has concluded that proceeding with a lawsuit is not merited or is otherwise not in the United States's interests.
+    
+    
+      60
+      The third and fourth features also are conspicuously absent. The Attorney General has no control over the breadth of a relator's suit. Indeed, as I have already noted, a relator may make sweeping allegations that he is unable effectively to litigate, and thereby bind the government, via res judicata, to his failed suit. Finally, the relator, unlike the independent counsel, need not adhere to the rules and policies of the DOJ.
+    
+    
+      61
+      The majority makes two unconvincing arguments as to why it is improper to apply the analysis in Morrison to this case. It reasons:
+    
+    
+      62
+      First, the EGA assigns the independent counsel to act as the United States itself, in contrast to the FCA's qui tam provisions, which only authorize the relator to bring a lawsuit in the name of the United States. . . . Second, in contrast to independent counsel who undertake functions relevant to a criminal prosecution, relators are simply civil litigants.
+    
+    
+      63
+      (Citing 28 U.S.C. § 594(a) (2000), expired by 28 U.S.C. § 599).
+    
+    
+      64
+      As to its first point, the majority does not explain the difference between litigating "as the United States" as opposed to litigating "in the name of the United States." Nor does the majority explain how such a distinction can do away with the Court's exhortation in Morrison that, when congressional action threatens to encroach on Executive activities, the test of constitutionality is whether the Executive Branch retains sufficient "control" over the litigation "to ensure that the President is able to perform his constitutionally assigned duties." Id. at 696. Certainly, different amounts of control may be appropriate depending on the role of the one litigating the government's case, but an act of Congress that uses the magic words that a person is litigating "in the name of the United States," rather than "as the United States," surely cannot strip courts of their responsibility to evaluate whether the legislation allows for the President to fulfill his duty to take care that the laws be faithfully executed.
+    
+    
+      65
+      The majority's second stated reason why Morrison is irrelevant to this case is a mere distinction between the facts of the two cases. The majority points out that independent counsel are granted criminal prosecutorial duties, whereas FCA relators "are simply civil litigants." The majority notes that criminal prosecution is at the "heart of the Executive's constitutional duty" and then, without more, asserts that "the Morrison control test that the panel majority used to evaluate the constitutionality of the qui tam provisions of the FCA is simply not dispositive of the instant case, . . ." Although different controls may be needed for the Executive to take care of the execution of the laws in criminal as opposed to civil cases, nothing in the Supreme Court's jurisprudence suggests that the Take Care Clause does not apply to civil cases.21
+    
+    
+      66
+      Further, as the majority notes, other circuits have found the control provisions in Morrison useful "as a whole" in evaluating the constitutionality of the FCA "as a whole."22 The majority unfairly attacks the panel opinion as rigidly applying the four-factor test from Morrison in determining whether the FCA withstands constitutional scrutiny under Article II. In actuality, after observing that the FCA contains not a single one of the control mechanisms that the Morrison court found in the EGA, the panel went on to conclude that "[e]ven taking the qui tam provisions 'as a whole' and not focusing on any of the particular differences between the provisions and the independent counsel statute, qui tam effects a greater degree of encroachment on Executive prerogatives than does the [EGA] upheld in Morrison." Riley, 196 F.3d at 529.
+    
+    
+      67
+      As I have explained above, the most crucial ways in which the FCA fails to provide the executive with sufficient control are that the FCA does not allow the Executive to initiate litigation, terminate litigation (without court approval), control the scope and pace of the litigation, or control the procedures used by the lawyer prosecuting the case. The FCA's most severe violations of the separation of powers principles embedded in the Take Care Clause include the fact that unaccountable, self-interested relators are put in charge of vindicating government rights, and that the transparency and controls of the constitutional system are not in place to influence the outcome of such litigation.
+    
+    
+      68
+      Finally, the elements of the FCA that disable effective Executive control were not drafted in response to the special intra-branch problems that the EGA sought to correct in Morrison.23 Rather, the FCA was broadly drafted for the much-less-compelling purpose of being one of a number of tools available to combat fraud by government contractors. Although the majority implies otherwise, suits brought by relators in which the government does not intervene are not even particularly useful in collecting monies for the government.24
+    
+    
+      69
+      III. Violations of the Appointments Clause.
+    
+    
+      70
+      The Appointments Clause is a valid and independent ground for affirming the district court's dismissal. That clause mandates that the Executive
+    
+    
+      71
+      shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law; but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in Heads of Departments.
+    
+    
+      72
+      U.S. Const. art. II, § 2, cl. 2.
+    
+    
+      73
+      As I have noted, relators are not appointed by any branch of government, but rather appoint themselves. The majority gives short shrift to the Appointments Clause issue, concluding that it is not violated, because "qui tam relators are not officers of the United States." The majority ignores, however, the question that logically follows its conclusion that relators are not officers: whether non-officers may prosecute claims owned by the United States.
+    
+    
+      74
+      Supreme Court precedent makes it plain that the answer to this question is no. The Court has twice held, first in Buckley, 424 U.S. 1, and then in Morrison, 487 U.S. at 671 n.12, that persons litigating on behalf of the United States are officers of the United States. In Buckley, the Court held that the Federal Election Campaign Act of 1971, which authorized the President pro tempore of the Senate and the Speaker of the House to select four of the six voting members of the Federal Election Commission, violated the Appointments Clause. Buckley, 424 U.S. at 113, 140. The Court adopted the general rule that "any appointee exercising significant authority pursuant to the laws of the United States is an 'Officer of the United States' and must, therefore, be appointed in the manner prescribed by § 2, cl. 2, of [Article II]. . . ." Id. at 126.25 The Buckley Court observed that the Act assigned the commission "primary responsibility for conducting civil litigation in the courts of the United States for vindicating public rights" and that "[s]uch functions may be discharged only by persons who are 'Officers of the United States.'" Id. at 140 (emphasis added).
+    
+    
+      75
+      Defendants argue that "[t]he authority of qui tam relators to initiate, conduct, and terminate litigation on behalf of the United States brings them within the Buckley standard." Defendants further note that when the government does not intervene, the relator has primary responsibility for the litigation. Thus, defendants reason, in cases in which the government does not intervene, the litigation of qui tam actions by relators violates the Appointments Clause because in such cases relators exercise "significant authority pursuant to the laws of the United States," Buckley, 424 U.S. at 126, but are not properly appointed officers of the United States.
+    
+    
+      76
+      The government responds with reasoning similar to the majority's by arguing that the Appointments Clause applies only to federal government appointees and that "since the decision in Buckley deals with what functions federal officials can properly carry out, it tells us nothing about the constitutional status of private persons such as qui tam relators." This argument proves too much. Under this reasoning, all that Congress or the President must do to circumvent the strictures of the Appointments Clause is to delegate authority to someone who has not officially been appointed to any federal office.
+    
+    
+      77
+      Defendants' view of the Appointments Clause has more fidelity to the Constitution. They argue that the Appointments Clause protects against power improperly granted, whether to federal employees or private citizens.26 Thus, defendants observe that it does not matter whether relators are more properly described as officers who have not properly been appointed or as non-officers who therefore are not qualified to sue on behalf of the government. Either way, the Appointments Clause is violated when a relator sues without government intervention.
+    
+    
+      78
+      The government alternatively attempts to show that relators do not need to be appointed, because they are litigating only for themselves. This argument also is unavailing. The holding in Vermont Agency of Natural Resources v. United States ex rel. Stevens, 529 U.S. 765 (2000), that relators are only partial assignees plainly means that relators also sue partly on behalf of the government.
+    
+    
+      79
+      The government puts forth another alternative argument for why the Appointments Clause is not violated by the FCA. It is the same argument made by the majority in contending that the FCA does not violate the Take Care Clause--that relators litigate "for" the government but not "as" the government. This semantic distinction is as unavailing in the context of the Appointments Clause as it was in that of the Take Care Clause.
+    
+    
+      80
+      Neither the government nor the majority cites any authority holding that litigating for the government is different from litigating as the government, and indeed there is no difference for purposes of this case. No matter how one describes what the relator does, the fact remains that he sues under the laws of the United States, based on claims owned by the United States and to vindicate public injury. This is made obvious by, inter alia, the fact that settlements cannot be approved without the government's acquiescence.
+    
+    
+      81
+      It is because relators are not litigating only for themselves that the approval of the party they are representing--the government--is needed for settlements. That the persons carrying out these functions on behalf of the government are properly appointed is the very purpose and command of the Appointments Clause.
+    
+    
+      82
+      Finally, the government attempts to argue that neither the Appointments Clause nor the Take Care Clause is violated by the FCA, because the Constitution allows a private person not appointed by the Executive to sue under statutes like title VII, which suits are said to vindicate public interests. In making this argument, the government erroneously conflates the type of claim pursued in a title VII suit, in which a private citizen sues to vindicate a personal injury and incidentally serves a public purpose with the type of claim pursued in a relator suit under the FCA, in which a private person sues solely to vindicate an injury to the government and is rewarded with a share of the recovery.
+    
+    
+      83
+      The collapsing of private and public injury explicit in the government's reasoning would lead to the ultimate conclusion that all citizens must be allowed to sue to enforce all laws, because every law, even in the core "private" law areas of tort and contract, can be said to serve the purpose of the sovereign--i.e., to regulate individuals' conduct through law. Although such a system may be interesting to contemplate, it has not been accepted in American jurisprudence. Instead, the public/private distinction, however flawed, has been maintained as a key determinant of what is government action and when such action is permissible. Thus, the government's title VII analogy fails, and the FCA's violation of the Appointments Clause remains.
+    
+    
+      84
+      IV. Stevens Left Open the Constitutionality of Qui tam Suits Under Article II.
+    
+    
+      85
+      As we know, Stevens held that relators in qui tam suits have standing to sue under the FCA. From this holding, the majority claims to be "persuaded that it is logically inescapable that the same history which was conclusive on the Article III question in Stevens . . . is similarly conclusive with respect to the Article II question concerning this statute."27 If this logical inescapability is true, it seems to have been missed by a majority of the Supreme Court. Instead, the six-member majority in Stevens expressly disclaimed any view with regard to Article II challenges, stating explicitly that Article II was neither presented to the Court by the parties, nor rose to a jurisdictional issue that the Court was required to resolve sua sponte.28 Moreover, the fact that the majority in Stevens took pains to point out that it was not deciding the constitutionality of qui tam suits under Article II suggests strongly that the Court did not think this issue is easily decided by history.
+    
+    
+      86
+      In fact, Justice Scalia, the author of the majority opinion in Stevens, and Justice Thomas and perhaps Justice Kennedy, seem to have reservations as to the constitutionality of qui tam actions under Article II. In Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc., 528 U.S. 167 (2000) ("FOE"), which was decided just four months before Stevens, Justices Scalia and Thomas, while noting that the case (like Stevens) did not raise Article II issues,29 nevertheless described some of the potentially troubling loss of control that can arise from citizen suits brought without government intervention:
+    
+    
+      87
+      By permitting citizens to pursue civil penalties payable to the Federal Treasury, the Act does not provide a mechanism for individual relief in any traditional sense, but turns over to private citizens the function of enforcing the law. . . .
+    
+    
+      88
+      To be sure, the EPA may foreclose the citizen suit by itself bringing suit. This allows public authorities to avoid private enforcement only by accepting private direction as to when enforcement should be undertaken--which is no less constitutionally bizarre. Elected officials are entirely deprived of their discretion to decide that a given violation should not be the object of suit at all, or that the enforcement decision should be postponed. See [33 U.S.C.] § 1365(b)(1)(A) (providing that citizen plaintiff need only wait 60 days after giving notice of the violation to the government before proceeding with action). This is the predictable and inevitable consequence of the Court's allowing the use of public remedies for private wrongs.
+    
+    
+      89
+      Id. at 210 (Scalia, J., dissenting) (citations omitted).30
+    
+    
+      90
+      Further, in FOE, Justice Kennedy wrote a concurring opinion explicitly recognizing that Article II challenges raise "[d]ifficult and fundamental questions" which "are best reserved for a later case."31 Thus, a third member of the Stevens majority appears to harbor doubts about the constitutionality of citizen suits under Article II. The majority's arguments that Stevens "essentially resolves the issue before this court" is therefore well off the mark.
+    
+    
+      91
+      The obvious question, then, is how the majority in Stevens could have found that history is so important in determining Article III standing to sue but perhaps less important in determining constitutionality under Article II. Fortunately, Stevens definitively answers this question:
+    
+    
+      92
+      We are confirmed in this conclusion [regarding standing] by the long tradition of qui tam actions in England and the American Colonies. That history is particularly relevant to the constitutional standing inquiry since, as we have said elsewhere, Article III's restriction of the judicial power to 'Cases' and 'Controversies' is properly understood to mean 'cases and controversies of the sort traditionally amenable to, and resolved by, the judicial process.'
+    
+    
+      93
+      Stevens, 529 U.S. at 766 (emphasis added). In other words, the nature of the standing inquiry dictates that special attention be paid to historical practice. Such extreme deference need not be given, by contrast, within the context of Article II challenges.
+    
+    
+      94
+      Furthermore, in Stevens there existed a reasonable interpretation of the FCA that satisfied the requirements of Article III. The Court, informed by the long history of qui tam actions, interpreted the FCA as making the relator a partial assignee of the government's claim. In doing so, the Court followed established law that "the assignee of a claim has standing to assert the injury in fact suffered by the assignor." Id. Thus, in the end, history merely helped the Court choose an interpretation of the statute that was plainly constitutional.
+    
+    
+      95
+      The Article II issues raised by the FCA, however, were not so easily disposed of by history, and thus the majority did not address them in Stevens. The Court's conclusion that the relator is a partial assignee allowed her into the courtroom but did not take care of the constitutional issued raised by the fact of an unaccountable private citizen's litigating on behalf of the government--and there can be no mistake that, in the wake of Stevens, a relator is litigating on behalf of the government, because Stevens explicitly states that a realtor is only a partial assignee, and accordingly, the part of the claim the relator is not litigating for himself he is litigating for the government. Therefore, rather than helping the majority, the reasoning in Stevens supports the defendants' position by showing that even though the government signs over to the relator sufficient partial interest in the litigation to qualify for Article III standing, the majority interest that is not signed over--and therefore still owned by the government--must be prosecuted by an officer of the United States under the Appointments Clause, and must be faithfully managed by the Executive under the Take Care Clause.
+    
+    
+      96
+      V. History Is Not Controlling.
+    
+    
+      97
+      The majority believes that even if Stevens does not settle this issue, the long historical use of "qui tam" statutes somehow constitutionalizes them. The majority quotes Justice Stevens's dissent in Stevens "[t]hat [historical] evidence, together with the evidence that private prosecutions were commonplace in the 19th century . . . is . . . sufficient to resolve the Article II question . . . " (quoting Stevens, 529 U.S. at 801. (Stevens, J., dissenting).32 Long use--even dating back to the earliest Congress--cannot insulate a practice from constitutional challenge, however, as all three judges on the original panel agreed.33
+    
+    
+      98
+      Further, although action taken by the earliest Congress has been looked to as evidence of the founders' interpretation of the meaning of the Constitution, courts logically have given less weight to acts passed quickly and without deliberation as to their constitutionality.34 A careful review of the history of qui tam laws leads one to conclude that they should be classified among those statutes that have been passed more from expediency than from reasoned constitutional analysis; and further, that history provides no indication of what were the founders' general opinions of the constitutionality of qui tam statutes, nor what would have been their particular opinion of this case in which an unappointed, unaccountable citizen sues on the government's behalf without government participation.
+    
+    
+      99
+      The government disagrees, arguing that a number of the original qui tam statutes were similar to the FCA. Defendants contend that these early qui tam statutes were quite different from the modern FCA. For two reasons, both sides can make hay from the earliest qui tam statutes. First, some do not specify whether they allow a private citizen to bring suit; and second, the term "qui tam" has been used to describe a wide variety of statutes, ranging from those giving rewards to informers to medieval English statutes allowing private citizens to prosecute criminals and keep a portion of the forfeiture.
+    
+    
+      100
+      This ambiguity and the broad coverage of historical qui tam statutes have allowed widely divergent interpretations of the first such laws. Defendants assert that only three of the qui tam statutes passed by the first Congress permitted a private citizen to sue on the government's behalf when he had not suffered personal injury, and they characterize the rest of the early qui tam statutes as "simple informer laws" that merely awarded informers a share in any recovery secured by the government. Conversely, the government quotes United States ex rel. Marcus v. Hess, 317 U.S. 537, 541 n.4 (1943), which states: "Statutes providing for a reward to informers which do not specifically either authorize or forbid the informer to institute the action are construed to authorize him to sue" (citation omitted). From this the government assumes that all twenty of the early qui tam statutes must have allowed citizens to sue on its behalf.
+    
+    
+      101
+      Although the precise contours of the early qui tam statutes are difficult to distinguish, the defendants' interpretation of them is more accurate than is the government's. Even if the government is correct in stating that early qui tam statutes that were silent on the issue of enforcement allowed citizen suits, it still appears that these early qui tam statutes required a citizen to have suffered some private injury before he could sue on behalf of the government--unlike the FCA, which allows suit solely based on injury to the government.35
+    
+    
+      102
+      Moreover, it is undisputed that Congress largely abandoned the use of qui tam statutes in the nineteenth century. In fact, all of the qui tam provisions enacted by the First Congress have been repealed. See Note, The History and Development of Qui tam, 1972 Wash. U. L.Q. 81, 97-101. Later Congresses enacted only seven qui tam statutes,36 and none was passed after 1871. The few qui tam statutes that remain do not allow private parties to sue based on a proprietary interest belonging to the government; those acts involve relatively arcane areas and are now essentially dormant.
+    
+    
+      103
+      Finally, at the time the first qui tam acts were passed, the executive was in its infancy. There was no DOJ, and the nugatory prosecutorial arm of the Executive could not adequately monitor fraud committed by government contractors. Thus, the exigencies of a weak Executive led Congress to pass a number of qui tam acts.
+    
+    
+      104
+      The first version of the FCA likewise was passed in another time of great exigency--during the Civil War. Again, the Executive was unable to monitor and prosecute fraud by defense contractors occurring in a war-torn country in which military requisitions had multiplied enormously. Congress resurrected the qui tam suit in an attempt to grapple with this problem. Thus, the FCA was enacted by a desperate Congress that did not have the time or inclination to engage in a reasoned discussion of constitutionality.
+    
+    
+      105
+      Today the Executive is anything but weak.37 A bounty system may still be needed to root out some fraud, but there is no need to deputize private citizens to prosecute the claims of the United States. Thus, the history of qui tam statutes does not prove particularly useful in determining the constitutionality of the FCA in cases in which the government does not intervene, because there is no evidence of an extensive history of statutes like the FCA that allow a citizen to sue on the government's behalf without the government's being involved in the suit, and because qui tam statutes were adopted in times of exigency and without consideration of separation of powers issues.38 Because the FCA violates the Take Care Clause, the Appointments Clause, and separation of powers principles, I respectfully dissent.
+    
+    
+      
+        NOTES:
+      
+      
+        1
+          U.S. Const. art. II, § 3.
+      
+      
+        2
+          U.S. Const. art. II, § 2.
+      
+      
+        3
+          Although I refer repeatedly to the constitutionality vel non of "the FCA," this case deals only with the small subset of FCA actions in which the United States elects not to intervene, and the relator consequently goes forward with the action on his own. There is no question that FCA claims litigated by the government are constitutional.
+      
+      
+        4
+          "Violations of the separation-of-powers principle have been uncommon because each branch has traditionally respected the prerogatives of the other two. Nevertheless, the Court has been sensitive to its responsibility to enforce the principle when necessary." Metro. Washington Airports Auth., 501 U.S. at 272.
+        Time and again we have reaffirmed the importance in our constitutional scheme of the separation of governmental powers into the three coordinate branches. As we stated in Buckley v. Valeo, 424 U.S. 1, 122 (1976), the system of separated powers and checks and balances established in the Constitution was regarded by the Framers as "a self-executing safeguard against the encroachment or aggrandizement of one branch at the expense of the other." We have not hesitated to invalidate provisions of law which violate this principle.
+        Morrison v. Olson, 487 U.S. 654, 693 (1988) (selective internal citations omitted).
+      
+      
+        5
+          See Humphrey's Executor v. United States, 295 U.S. 602, 629-30 (1935) ("The fundamental necessity of maintaining each of the three general departments of government entirely free from the control or coercive influence, direct or indirect, of either of the others, has often been stressed and is hardly open to serious question. . . . James Wilson, one of the framers of the Constitution and a former justice of this court, said that the independence of each department required that its proceedings 'should be free from the remotest influence, direct or indirect, of either of the other two powers.'") (quoting 1 Andrews, The Works of James Wilson 367 (1896))).
+      
+      
+        6
+          Morrison, 487 U.S. at 658.
+      
+      
+        7
+          See Clinton v. Jones, 520 U.S. 681, 701 (1997) (stating that "the separation of powers doctrine requires that a branch not impair another in the performance of its constitutional duties") (quoting Loving v. United States, 517 U.S. 748, 757 (1996)); Morrison, 487 U.S. at 694-95 (1988); Commodity Futures Trading Comm'n v. Schor, 478 U.S. 833, 856-57 (1986); Nixon v. Adm'r of Gen. Servs., 433 U.S. 425, 443 (1977); see also Neil Kinkopf, Of Devolution, Privatization and Globalization: Separation of Powers Limits on Congressional Authority To Assign Federal Power to Non-federal Actors, 50 Rutgers L. Rev. 331, 338-39 (1998).
+      
+      
+        8
+          The Printz Court observed that early statutes requiring state officials to enforce federal laws imposed only adjudicative, not executive, duties on state officials. See Printz, 521 U.S. at 927 (recognizing "early [federal] statutes imposing obligations on state courts" but noting an "utter lack of statutes imposing obligations on the States' executives"). This observation counters the government's argument that the history of state officials' executing federal law demonstrates that the Constitution does not require that the President retain meaningful control over federal law enforcement. The early statutes to which the government points as indicating that state officials have historically enforced federal law may have permitted adjudicative tasks, but they could not properly have allowed state officials to sue on behalf of the federal government, for "[a] lawsuit is the ultimate remedy for a breach of the law, and it is to the President . . . that the Constitution entrusts the responsibility to 'Take Care that the Laws be faithfully executed.'" Buckley v. Valeo, 424 U.S. at 138 (1976).
+      
+      
+        9
+          See 31 U.S.C. § 3730(c)(3) ("If the Government elects not to proceed with the action, the person who initiates the action shall have the right to conduct the action.").
+      
+      
+        10
+          See United States v. Nixon, 418 U.S. 683, 693 (1974) ("[T]he Executive Branch has exclusive authority and absolute discretion to decide whether to prosecute a case"); Heckler v. Chaney, 470 U.S. 821, 832 (1985) (refusing to force the EPA to take action) ("[T]he decision of a prosecutor in the Executive Branch not to indict . . . has long been regarded as the special province of the Executive Branch, inasmuch as it is the Executive who is charged by the Constitution to 'take Care that the Laws be faithfully executed.'").
+      
+      
+        11
+           See notes 6-7, supra, and accompanying text.
+      
+      
+        12
+          U.S. Const. art. II § 3.
+      
+      
+        13
+           It is true that the government may intervene within sixty days and seek to dismiss the lawsuit. 31 U.S.C. § 3730(c)(2)(A). It cannot, however, dismiss the suit as of right. The relator has the right to be heard at a hearing before the suit is dismissed. Id. Unless the statutory hearing is merely pro forma, it follows that in some cases the Executive will be unsuccessful in overcoming the relator's objections and will be unable to dismiss the suit.
+        Further, in cases--such as Riley--in which the government does not intervene, the suit should end. The Constitution grants complete control of the execution of the laws to the Executive. This control includes total discretion over the allocation of prosecutorial resources. The dynamic created by the FCA--wherein Congress has mandated that the Executive must investigate, intervene, and motion to dismiss a suit that it does not want to see pursued--unconstitutionally interferes with the Executive's allocation of its prosecutorial resources. Furthermore, the amount of resources that the FCA requires the DOJ to allocate to review FCA suits is not insignificant. See note 24, infra.
+      
+      
+        14
+          The government's brief confirms that there is no agency relationship.
+      
+      
+        15
+          This court has previously noted that "the government does not expect that the relator will act first and foremost with the government's interests in mind." United States ex rel. Foulds v. Tex. Tech Univ., 171 F.3d 279, 290 (5th Cir. 1999). Qui tam relators "are motivated primarily by prospects of monetary reward rather than the public good." Hughes Aircraft, 520 U.S. 939, 949 (1997). Of course, this concern about encroachment on the Executive's prosecutorial discretion is present only in qui tam actions in which the government declines to intervene. When the Attorney General does intervene, the Executive is essentially initiating the action at the urging of an informer and thereby retains "a degree of control over the power to initiate" the action.
+      
+      
+        16
+          Public choice theory tells us that the reason for this is that, although the government, on its own, might not be inclined to seek the settlement negotiated by the private interest group, the fact that the public is for the most part unaware of the settlement--while the interest group lobbies the government to join the settlement--gives the government a one-sided incentive to go along with whatever agreement the private parties have made. Thus is accountability lessened and public law twisted to private purposes, as Justice Scalia described in Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc., 528 U.S. 167, 210 (2000) ("FOE"):
+        A Clean Water Act plaintiff pursuing civil penalties acts as a self-appointed mini-EPA. Where, as is often the case, the plaintiff is a national association, it has significant discretion in choosing enforcement targets. Once the association is aware of a reported violation, it need not look long for an injured member, at least under the theory of injury the Court applies today. And once the target is chosen, the suit goes forward without meaningful public control. The availability of civil penalties vastly disproportionate to the individual injury gives citizen plaintiffs massive bargaining power--which is often used to achieve settlements requiring the defendant to support environmental projects of the plaintiffs' choosing. Thus is a public fine diverted to a private interest.
+      
+      
+        17
+          31 U.S.C. § 3730(c)(2)(A). The requirement that the government obtain court permission to dismiss a qui tam suit raises serious questions regarding the balance of power between the Executive and Judicial Branches. See In re Int'l Bus. Machs. Corp., 687 F.2d 591, 602 (2d Cir. 1982) ("The district court's involvement in the executive branch's decision to abandon litigation might impinge upon the doctrine of separation of powers."). Such questions are not implicated in this case, however, because they involve potential interference with Executive prerogatives not by a relator, as here, but by the judiciary.
+      
+      
+        18
+          Id. § 3730(c)(2)(B).  Gravitt v. Gen. Elec. Co., 680 F. Supp. 1162 (S.D. Ohio 1988), illustrates how the qui tam provisions encroach on the Executive's control of settlements. There, the court refused to accept the government's settlement, lecturing the DOJ on the inadequacy of its investigation into the matter alleged in the relator's complaint.  See id. at 1164. It turns out, however, that the fraud complained of resulted in a net undercharge to the government, and a few years later, the DOJ succeeded in settling for the sum the Gravitt court initially had rejected. See Memorandum re: Constitutionality of the Qui Tam Provisions of the False Claims Act, 13 U.S. Op. Off. Legal Counsel 207, 219.
+      
+      
+        19
+           See 31 U.S.C. § 3730(c)(1) (providing that if the government intervenes, the relator "shall have the right to continue as a party to the action, subject to the limitations set forth in paragraph (2)," none of which permits removal); id. § 3730(c)(3) (providing that if government intervenes after initially deciding not to do so, it may not limit relator's status and rights). One commentator has pointed out that a plain reading of § 3730(c)(3) appears to bar the government from dismissing a case if it intervenes after initially declining to do so, for dismissal would certainly "limit[ ] the status and rights of the person initiating the action." See James T. Blanch, Note, The Constitutionality of the False Claims Act's Qui Tam Provisions, 16 HARV. J.L. & PUB. POLICY 701, 766 (1993). But see United States ex rel. Kelly v. Boeing Co., 9 F.3d 743, 752 & n.8 (9th Cir. 1993) (reasoning that to preserve the FCA, the Act should be interpreted to give government similar degree of control over litigation as if it had intervened at litigation's inception).
+      
+      
+        20
+          The Ninth Circuit, while rejecting an Article II challenge to the FCA, admitted that, under the EGA, the "Attorney General['s] . . . unreviewable discretion to request appointment of a counsel, and therefore to initiate litigation by a counsel," is an "unqualified control built into the independent counsel provisions," and that "[c]learly, the government has greater authority to prevent the initiation of prosecution by an independent counsel than by a qui tam relator." United States ex re. Kelly v. Boeing Co., 9 F.3d 743, 754 (9th Cir. 1993). It is difficult to overstate the importance of this control, which is missing from the FCA, when one recognizes that once suit has been filed, the controls the Executive Branch may exercise--most of which require court approval of some sort--are simply not sufficient to counterbalance this major encroachment on Executive power.
+      
+      
+        21
+          Although the majority makes much of the factual distinction that the FCA only allows civil suits, whereas the Supreme Court upheld the constitutionality of criminal prosecutions brought by independent counsel, the reasoning of the majority in this case makes this a difference only in degree, not in kind. The majority articulates no rational limiting principle that allows constitutionality here but that makes it unconstitutional for Congress to pass a statute permitting relators to, say, prosecute government claims for criminal forfeiture, or for criminal fines, so long as part of the recovery was assigned to the relator. Indeed, the majority noted with approval the Fourth Circuit's statement that, in passing the FCA, "Congress has let loose a posse of ad hoc deputies to uncover and prosecute frauds against the government" (quoting United States ex rel. Milam v. Univ. of Tex. M.D. Anderson Cancer Ctr., 961 F.2d 46, 49 (4th Cir. 1992)). Possees may have been appropriate in the Wild West, where they were deputized by the an executive officer--the Sheriff--but Congress has no business forming them now.
+      
+      
+        22
+          The majority states (citing United States ex rel. Kelly v. Boeing Co., 9 F.3d 743, 745 (9th Cir. 1993) the "[t]aken as a whole, . . . the FCA affords the Executive Branch a degree of control over qui tam relators that is not distinguishable from the degree of control the Morrison Court found the Executive Branch exercises over independent counsels." See also United States ex rel. Kreindler & Kreindler v. United Tech. Corp., 985 F.2d 1148 (2d Cir. 1993) (rejecting Article II challenge to FCA); United States ex rel. Taxpayers Against Fraud v. Gen. Elec. Co., 41 F.3d 1032, 1041 (6th Cir. 1994) (same).
+      
+      
+        23
+          See Riley, 196 F.3d at 529:
+        The independent counsel device was intended to address a narrow structural problem--the perceived conflict of interest when the Attorney General is called on to investigate criminal wrongdoing by his close colleagues within the Executive Branch. The Morrison Court accepted the independent counsel as an appropriate means of dealing with this intra-branch conflict. The device arguably does not unduly encroach on executive power, because its very purpose is to investigate impermissible executive activity. Moreover, it is narrowly tailored to achieve its purpose: It encroaches on the Executive only to the limited extent necessary to protect against a conflict of interest, while retaining executive control consistent with that objective. . . .
+        Given the independent counsel statute's special objective and narrow tailoring, the Morrison Court likely was especially forgiving of Executive encroachment.
+      
+      
+        24
+          Because this case deals only with those qui tam actions in which the government does not intervene, the majority's statistics indicating the effectiveness of all FCA qui tam actions are inapposite. The majority cites data showing that FCA qui tam actions have resulted in recoveries of more than a billion dollars as of September 1999, implicitly suggesting that such information should influence our opinion of the constitutionality of the qui tam action at issue in this case. While the alleged effectiveness of the FCA's qui tam provisions should not affect our decision as to their constitutionality, the only statistics relevant to this case would describe the effectiveness of a subset of qui tam actions--those in which the government does not intervene.
+        DOJ data indicates that such actions, relative to qui tam actions in which the government does intervene, have not resulted in a significant boon to the federal treasury. For example, in the first nine months of 2000, the government recovered $1.2 billion in cases in which it had intervened but only $913,957 in those in which it had not (less than eight hundredths of one percent (.0077%) of the total qui tam recoveries in 2000). See Fried Frank Harris Shriver & Johnson, FCA Statistics, at http://www.ffhsj.com/quitam/fcastats.htm (last modified Dec. 19, 2000) (posting, without modification, data received from the DOJ through requests under the Freedom of Information Act). Even taking the figures for total qui tam recoveries since 1988, $3.962 billion has been recovered in qui tam actions in which the government joined, and only $211 million (5% of the total recovered) has been recovered in cases in which the government declined to join. If one excludes the anomalous year of 1999, suits in which the government does not join amount to only 1.47% of the total qui tam recoveries.
+        The above statistics might lead one to believe that the government joins most qui tam lawsuits. This is not the case, however. Of the 2520 qui tam cases that have been concluded to date, the government has joined only 554 cases (22%) but has refused to join 1,966 cases (78%). Of the 554 cases the government has joined, it has recovered money by settlement or judgment 425 times (77% of its cases) and has failed to achieve a recovery only 11 times (2% of its cases), 112 cases remain active, 3 are inactive, and 3 are uncertain. Of the 1,966 cases that the government has refused to join, only 100 have resulted in recoveries (5%), while 1,451 have been lost (74%); 258 cases remain active, 34 are inactive, and 123 are uncertain.
+        These figures show that the cases in which the government declines to intervene are generally the meritless cases. Hence, the majority's implicit suggestion that a determination of unconstitutionality in this limited case would result in the disablement of an effective law enforcement tool is utterly without support.
+      
+      
+        25
+          See also Edmond v. United States, 520 U.S. 651, 662 (1997); Weiss v. United States, 510 U.S. 163, 169-70 (1994); Freytag v. Comm'r, 501 U.S. 868, 881 (1991).
+      
+      
+        26
+          The Supreme Court has put it this way:
+        The structural principles embodied in the Appointments Clause do not speak only, or even primarily, of Executive prerogatives simply because they are located in Article II. The Appointments Clause prevents Congress from dispensing power too freely; it limits the universe of eligible recipients of the power to appoint. Because it articulates a limiting principle, the Appointments Clause does not always serve the Executive's interests. For example, the Clause forbids Congress to grant the appointment power to inappropriate members of the Executive Branch. Neither Congress nor the Executive can agree to waive this structural protection. 'The assent of the Executive to a bill which contains a provision contrary to the Constitution does not shield it from judicial review.' The structural interests protected by the Appointments Clause are not those of any one branch of Government but of the entire Republic.
+        Freytag, 501 U.S. at 880 (quoting INS v. Chadha, 462 U.S. 919, 942 n.13 (1983)).
+      
+      
+        27
+          The majority cites only the dissent in Stevens to support its view, saying, "[i]ndeed, the dissent in Stevens noted that history alone resolves the question of whether the qui tam provisions in the FCA violate Article II . . . ."
+      
+      
+        28
+          See Stevens, 529 U.S. at 778 n.8 ("[W]e express no view on the question whether qui tam suits violate Article II, in particular the Appointments Clause of § 2 and the 'Take Care' Clause of § 3. Petitioner does not challenge the qui tam mechanism under either of those provisions, nor is the validity of qui tam suits under those provisions a jurisdictional issue that we must resolve here. See Steel Co. v. Citizens for a Better Environment, 523 U.S. 83, 102 n.4 (1998) ("[O]ur standing jurisprudence, . . . though it may sometimes have an impact on Presidential powers, derives from Article III and not Article II."); see also Lujan v. Defenders of Wildlife, 504 U.S. 555, 576-78, (1992). The dissent implicitly attacks us for 'introduc[ing] [this question] sua sponte.' We raise the question, however, only to make clear that it is not at issue in this case. It is only the dissent that proceeds to volunteer an answer.").
+      
+      
+        29
+          See FOE, 528 U.S. at 719. ("Article II of the Constitution commits it to the President to 'take Care that the Laws be faithfully executed,' and provides specific methods by which all persons exercising significant executive power are to be appointed. As Justice KENNEDY'S concurrence correctly observes, the question of the conformity of this legislation with Article II has not been argued--and I, like the Court, do not address it.") (Scalia, J., dissenting).
+      
+      
+        30
+          See also id. at 209 n. 2 (Scalia, J., dissenting) ("The Court points out that the government is allowed to intervene in a citizen suit, but this power to 'bring the Government's views to the attention of the court,' is meager substitute for the power to decide whether prosecution will occur. Indeed, according the Chief Executive of the United States the ability to intervene does no more than place him on a par with John Q. Public, who can intervene--whether the government likes it or not--when the United States files suit.")
+      
+      
+        31
+          Justice Kennedy wrote:
+        Difficult and fundamental questions are raised when we ask whether exactions of public fines by private litigants, and the delegation of Executive power which might be inferable from the authorization, are permissible in view of the responsibilities committed to the Executive by Article II of the Constitution of the United States. The questions presented in the petition for certiorari did not identify these issues with particularity; and neither the Court of Appeals in deciding the case nor the parties in their briefing before this Court devoted specific attention to the subject. In my view these matters are best reserved for a later case. With this observation, I join the opinion of the Court.
+        FOE, 528 U.S. at 197 (Kennedy, J., concurring). Justice Kennedy's concurrence seems to have been made to clarify that a passing remark made in a footnote by the majority opinion in FOE did not decide the issue of Article II constitutionality of citizen suits. The footnote to the majority opinion states that
+        the dissent's broader charge that citizen suits for civil penalties under the Act carry 'grave implications for democratic governance' seems to us overdrawn. Certainly the federal Executive Branch does not share the dissent's view that such suits dissipate its authority to enforce the law. In fact, the Department of Justice has endorsed this citizen suit from the outset, submitting amicus briefs in support of FOE in the District Court, the Court of Appeals, and this Court. As we have already noted, the Federal Government retains the power to foreclose a citizen suit by undertaking its own action. And if the Executive Branch opposes a particular citizen suit, the statute allows the Administrator of the EPA to 'intervene as a matter of right' and bring the Government's views to the attention of the court.
+        FOE, 528 U.S. at 188 n.4.
+      
+      
+        32
+          Under the majority's extreme deference to historical practice, the history of qui tam statutes authorizing private enforcement of criminal statutes would be enough to allow qui tam relators to prosecute criminal suits on behalf of the government, which even the majority acknowledges is unconstitutional.
+      
+      
+        33
+          See, e.g., Riley, 196 F.3d at 543 (Stewart, J., dissenting) ("I heartily agree [] that history does not 'by itself' validate the constitutionality of the qui tam relator provisions of the [FCA]"). See also Marsh v. Chambers, 463 U.S. 783, 790 (1983) ("Standing alone, historical practice cannot justify contemporary violations [of the Constitution.]"); Walz v. Tax Comm'r, 397 U.S. 664, 678 (1970) ("It is obviously correct that no one acquires a vested or protected right in violation of the Constitution by long use, even when that span of time covers our entire national existence and indeed predates it.").
+      
+      
+        34
+          For example, in holding that appointing paid chaplains to open legislative proceedings does not violate the Establishment Clause, the Supreme Court reviewed the Framers' extensive debates regarding the practice's constitutionality and drew a distinction between actions carefully considered by the Framers and those "taken thoughtlessly, by force of long tradition and without regard to the [constitutional] problems." Marsh, 463 U.S. at 791. The Court also noted that "the unambiguous and unbroken history of more than 200 years" indicated that the practice "ha[d] become part of the fabric of our society." Id. at 792.
+      
+      
+        35
+          Many of the early qui tam statutes allowed citizens to keep part of the recovery gotten by the government as a reward for informing, or involved cases in which the citizen had suffered a private injury. See Act of July 31, 1789, ch. 5, § 38, 1 Stat. 29, 48; Act of Sept. 1, 1789, ch. 11, § 21, 1 Stat. 55, 60; Act of Aug. 4, 1790, § 69, 1 Stat. 145, 177 (customs and maritime laws providing for a share of recovery to informers); Act of Sept. 2, 1789, ch. 13, § 8, 1 Stat. 65, 67 (penalties levied against Treasury Department officials for violation of prohibitions attached to their office); Act of March 3, 1791, ch. 8, § 1, 1 Stat. 215 (same). Two other statutes authorized government appointed census-takers to bring suits against uncooperative citizens and to retain half of any fines obtained. See Act of March 1, 1790, ch. 2, § 6, 1 Stat. 101, 103; Act of July 5, 1790, ch. 25, § 1, 1 Stat. 129. Act of July 31, 1789, ch. 5, § 29, 1 Stat. 29, 45 (permitting recovery against customs officials who had failed to display a table of fees and duties); Act of Aug. 4, 1790, ch. 35, § 55, 1 Stat. 145, 173 (same); Act of July 20, 1790, ch. 29, § 1, 1 Stat. 131 (allowing recovery against ships' masters who failed to contract with crew); id. § 4, 1 Stat. 131, 133 (permitting recovery against persons harboring runaway seamen). Two other statutory provisions permitted only injured parties to sue. See Act of May 31, 1790, ch. 15, §§ 2, 6, 1 Stat. 124, 125-26 (allowing authors and publishers to recover from copyright violators).
+      
+      
+        36
+          See (1) Act of Feb. 20, 1792, ch. 7, § 25, 1 Stat. 232, 239 (providing that informer could sue for penalties under postal statute and keep half); reenacted Mar. 3, 1845, ch. 43, § 17, 5 Stat. 732, 738; (2) Act of Mar. 22, 1794, ch. 11, §§ 2, 4, 1 Stat. 347, 349 (providing that individual could prosecute on government's behalf for slave trading); reenacted by Act of Mar. 26, 1804, ch. 38, § 10, 2 Stat. 283, 286; Act of Mar. 2, 1807, ch. 22, § 3, 2 Stat. 426; Act of Mar. 4, 1909, ch. 321, §§ 254-57, 35 Stat. 1138, 1140; (3) Act of July 6, 1797, ch. 11, § 20, 1 Stat. 527, 532 (providing that informer received half of penalties related to duties on paper products--uncertain whether informer could sue); adopted by Act of Feb. 28, 1799, ch. 17, § 5, 1 Stat. 622, 623 (same for penalties involving altering stamp duties); (4) Act of May 3, 1802, ch. 48, § 4, 2 Stat. 189, 191 (providing that individual could prosecute on government's behalf for employment of other than a "free white person" in postal service); (5) Act of Aug. 5, 1861, ch. 45, § 11, 12 Stat. 292, 296-97 (providing that individual could sue import assessor acting without taking oath, and keep half the fine); (6) Act of July 8, 1870, ch. 230, § 39, 16 Stat. 198, 203 (providing that individual could sue on government's behalf for unlawful contracting with Indians); reenacted by Act of May 21, 1872, ch. 177, § 3, 17 Stat. 136, 137. The First Congress's statute regarding unlawful trading with Indians was also reenacted. Act of Mar. 1, 1793, ch. 19, § 12, 1 Stat. 329, 331; Act of May 19, 1796, ch. 30, § 18, 1 Stat. 469, 474; Act of Mar. 30, 1802, ch. 13, § 18, 2 Stat. 139, 145; Act of June 30, 1834, ch. 161, § 27, 4 Stat. 729, 733-34.
+      
+      
+        37
+          The DOJ now exists as an executive department with more than 120,000 employees and an annual budget of approximately $ 21.5 billion. See DOJ Annual Report 1 (2000).
+      
+      
+        38
+           Further, a realistic view of separation of powers recognizes that as times change and government evolves, the branches' relative power vis a vis each other changes as well. Thus, when the FCA was first enacted in 1863, it did not encroach as much on the Executive, in that it did not take away work that the Executive otherwise could be doing; instead, it allowed prosecutions of fraud feasors whom the Executive could not otherwise have pursued. Thus, the encroachment on the Executive was less than it is today, because the Executive now exists as a robust branch that could prosecute the claims be given to relators by the FCA.
+        Today, giving suits to relators does encroach more on Executive power because, with the full prosecutorial power of the DOJ behind it, the Executive could easily bring these suits if it wanted to. Therefore, in cases such as this, in which the government has declined to intervene, it is likely that that decision is not a result of limited resources, but instead because the government has decided for some reason that to pursue the claim is inappropriate. To encroach on this prosecutorial discretion now is thus a greater violation of separation of powers principles than was the historic use of the FCA.
+      
+    
+    
+      CC∅ | Transformed by Public.Resource.Org
+    
+  
+

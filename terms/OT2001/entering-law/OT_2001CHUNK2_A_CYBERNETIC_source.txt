@@ -1,0 +1,443 @@
+https://law.resource.org/pub/us/case/reporter/F3/252/252.F3d.1039.99-56868.99-56856.html
+
+
+
+  
+    252 F.3d 1039
+    
+    
+    
+    
+    
+
+  
+  
+    252 F.3d 1039 (9th Cir. 2001)
+    IN RE: CYBERNETIC SERVICES, INC., D/B/A SILENT RADIO, INC., DEBTOR. PETITIONING CREDITORS; BYRON Z. MOLDO, CHAPTER 7 TRUSTEE OF THE ESTATE OF CYBERNETIC SERVICES, INC., DBA SILENT RADIO, INC. ("MOLDO"), APPELLANTS, v. MATSCO, INC., APPELLEE. IN RE: CYBERNETIC SERVICES, INC., D/B/A SILENT RADIO, INC., DEBTOR.BYRON Z. MOLDO, CHAPTER 7 TRUSTEE, APPELLANT,v.MATSCO, INC., AND MATSCO FINANCIAL CORPORATION, PETITIONING CREDITORS, APPELLEES.
+    No. 99-56856, No. 99-56868
+    UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+    Argued and Submitted April 17, 2001Filed June 6, 2001
+    
+      [Copyrighted Material Omitted][Copyrighted Material Omitted]
+      Lorin Brennan, Newport Beach, California; Damon G. Saltzburg, Saltzburg, Ray & Bergman, Llp, Los Angeles, California; and Paul M. Brent, Steinberg, Nutter & Brent, Santa Monica, California, for the appellants.
+      James A. Tiemstra, Miller, Starr & Regalia, Walnut Creek, California, for the appellees.
+      Appeals from the Ninth Circuit Bankruptcy Appellate Panel Perris, Klein, and Riegle, Bankruptcy Judges, Presiding. BAP No. CC-98-01690-PKRi; BAP No. CC-98-01690-PKRi
+      Before: Harry Pregerson, Ferdinand F. Fernandez, and Susan P. Graber, Circuit Judges.
+    
+    
+      1
+      The opinion of the court was delivered by: Graber, Circuit Judge
+    
+    OPINION
+    
+      2
+      As is often true in the field of intellectual property, we must apply an antiquated statute in a modern context. The question that we decide today is whether 35 U.S.C. §§ 261 of the Patent Act, or Article 9 of the Uniform Commercial Code (UCC), as adopted in California, requires the holder of a security interest in a patent to record that interest with the federal Patent and Trademark Office (PTO) in order to perfect the interest as against a subsequent lien creditor.1 We answer "no"; neither the Patent Act nor Article 9 so requires. We therefore affirm the decision of the Bankruptcy Appellate Panel (BAP).
+    
+    FACTUAL AND PROCEDURAL BACKGROUND
+    
+      3
+      The parties stipulated to the relevant facts: Matsco, Inc., and Matsco Financial Corporation (Petitioners) have a security interest in a patent developed by Cybernetic Services, Inc. (Debtor). The patent is for a data recorder that is designed to capture data from a video signal regardless of the horizontal line in which the data is located. Petitioners' security interest in the patent was "properly prepared, executed by the Debtor and timely filed with the Secretary of State of the State of California," in accordance with the California Commercial Code. Petitioners did not record their interest with the PTO.
+    
+    
+      4
+      After Petitioners had recorded their security interest with the State of California, certain creditors filed an involuntary Chapter 7 petition against Debtor, and an order of relief was granted. The primary asset of Debtor's estate is the patent. Petitioners then filed a motion for relief from the automatic stay so that they could foreclose on their interest in the patent. The bankruptcy Trustee opposed the motion, arguing that Petitioners had failed to perfect their interest because they did not record it with the PTO.
+    
+    
+      5
+      The bankruptcy court ruled that Petitioners had properly perfected their security interest in the patent by following the provisions of Article 9. Furthermore, the court reasoned, because Petitioners had perfected their security interest before the filing of the bankruptcy petition, Petitioners had priority over the Trustee's claim in the patent and deserved relief from the stay. Accordingly, the bankruptcy court granted Petitioners' motion. The BAP affirmed.
+    
+    
+      6
+      Petitioners then filed this timely appeal.
+    
+    STANDARD OF REVIEW
+    
+      7
+      We review for abuse of discretion orders granting relief from an automatic stay. Benedor Corp. v. Conejo Enters., Inc. (In re Conejo Enters., Inc.), 96 F.3d 346, 351 (9th Cir. 1996). We review de novo any conclusions of law. Vanderpark Props., Inc. v. Buchbinder (In re Windmill Farms, Inc.), 841 F.2d 1467, 1469 (9th Cir. 1988).
+    
+    DISCUSSION
+    
+      8
+      Article 9 of the UCC, as adopted in California, governs the method for perfecting a security interest in personal property.2 Article 9 applies to "general intangibles," a term that includes intellectual property. Cal. Com. Code §§ 9106. The parties do not dispute that Petitioners complied with Article 9's general filing requirements and, in the case of most types of property, would have priority over a subsequent lien creditor. The narrower question in this case is whether Petitioners' actions were sufficient to perfect their interest when the "general intangible" to which the lien attached is a patent. The parties also do not dispute that, if Petitioners were required to file notice of their security interest in the patent with the PTO, then the Trustee, as a hypothetical lien creditor under 11 U.S.C. §§ 544(a)(1), has a superior right to the patent.
+    
+    
+      9
+      The Trustee makes two arguments. First, the Trustee contends that the Patent Act preempts Article 9's filing requirements. Second, the Trustee argues that Article 9 itself provides that a security interest in a patent can be perfected only by filing it with the PTO.3 We discuss each argument in turn.
+    
+    A. Preemption
+    1. The Analytical Framework
+    
+      10
+      "[T]he Supremacy Clause, U.S. Const., Art. IV, cl. 2, invalidates state laws that `interfere with, or are contrary to,' federal law." Hillsborough County, Fla. v. Automated Med. Labs., Inc., 471 U.S. 707, 712 (1985) (quoting Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1, 92 (1824)). Congress may preempt state law in several different ways. Congress may do so expressly (express preemption). Id. at 713. Even in the absence of express preemptive text, Congress' intent to preempt an entire field of state law may be inferred"where the scheme of federal regulation is sufficiently comprehensive to make reasonable the inference that Congress `left no room' for supplementary state regulation" (field preemption). Id. (quoting Rice v. Santa Fe Elevator Corp., 331 U.S. 218, 230 (1947)). State law also is preempted "when compliance with both state and federal law is impossible," or if the operation of state law " `stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress' " (conflict preemption). G.S. Rasmussen & Assocs. v. Kalitta Flying Serv., Inc., 958 F.2d 896, 903-04 (9th Cir. 1992) (quoting Kewanee Oil Co. v. Bicron Corp. , 416 U.S. 470, 479 (1974)). In all cases, "[c]ongressional intent to preempt state law must be clear and manifest." Indus. Truck Ass'n v. Henry, 125 F.3d 1305, 1309 (9th Cir. 1997).
+    
+    
+      11
+      The Patent Act does not contain preemptive text, so express preemption is not an issue here. Concerning field and conflict preemption, the Supreme Court has adopted a "pragmatic" approach to deciding whether the Patent Act preempts a particular state law. Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 489 U.S. 141, 156 (1989). Congress, in the Patent Act, "has balanced innovation incentives against promoting free competition, and state laws upsetting that balance are preempted." G.S. Rasmussen, 958 F.2d at 904."[S]tate regulation of intellectual property must yield to the extent that it clashes with the balance struck by Congress" in the Patent Act. Bonito Boats, 489 U.S. at 152 (emphasis added).
+    
+    
+      12
+      Using this form of analysis, the Supreme Court has held, on numerous occasions, that the Patent Act preempts a state law that grants patent-like protection to a product. See, e.g., id.; Sears, Roebuck & Co. v. Stiffel Co., 376 U.S. 225, 231 (1964); Compco Corp. v. Day-Brite Lighting, Inc. , 376 U.S. 234, 237 (1964). Those cases do not control, however, because we are confronted not with a state law that grants patent-like protection to a product but, rather, with a state commercial law that provides a method for perfecting a security interest in a federally protected patent.
+    
+    
+      13
+      That distinction is key because the Supreme Court has instructed clearly that the Patent Act does not preempt every state commercial law that touches on intellectual property. For example, in Aronson v. Quick Point Pencil Co., 440 U.S. 257, 262 (1979), the Supreme Court observed that commercial agreements "traditionally are the domain of state law. State law is not displaced merely because the contract relates to intellectual property which may or may not be patentable; the states are free to regulate the use of such intellectual property in any manner not inconsistent with federal law."
+    
+    
+      14
+      The Court also has held that the Patent Act does not preempt a state's trade secret law even though the practical effect of the state law is to prohibit the public dissemination of information that, under the Patent Act, is not eligible for protection. Kewanee Oil, 416 U.S. at 474. In Kewanee, the Court examined the purposes of the Patent Act and the state trade secret law at issue and concluded that the state law did not stand " `as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.' " Id. at 479 (quoting Hines v. Davidowitz, 312 U.S. 52, 67 (1941)). The Court observed that the state law also encouraged invention, but did so by protecting a subject matter that was beyond the Patent Act's horizon; therefore, "the two systems are not and never would be in conflict." Id. at 484.
+    
+    
+      15
+      It is within this framework that we evaluate the Trustee's claim. The Trustee argues that the recording provision found in 35 U.S.C. §§ 261 requires that the holder of a security interest in a patent record that interest with the PTO in order to perfect as to a subsequent lien creditor. Section 261 provides:
+    
+    
+      16
+      Ownership; assignmentSubject to the provisions of this title, patents shall have the attributes of personal property.
+    
+    
+      17
+      Applications for patent, patents, or any interest therein, shall be assignable in law by an instrument in writing. The applicant, patentee, or his assigns or legal representatives may in like manner grant and convey an exclusive right under his application for patent, or patents, to the whole or any specified part of the United States.
+    
+    
+      18
+      A certificate of acknowledgment under the hand and official seal of a person authorized to administer oaths within the United States, or, in a foreign country, of a diplomatic or consular officer of the United States or an officer authorized to administer oaths whose authority is proved by a certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, shall be prima facie evidence of the execution of an assignment, grant or conveyance of a patent or application for patent.
+    
+    
+      19
+      An assignment, grant or conveyance shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it is recorded in the Patent and Trademark Office within three months from its date or prior to the date of such subsequent purchase or mortgage.
+    
+    
+      20
+      (Emphasis added.)
+    
+    
+      21
+      If the Trustee's reading of the relevant portion of§§ 261 is correct, then to the extent that Article 9 allows a different method of perfection, it would be preempted under either a "field" or "conflict" preemption theory.4 That is because recording systems increase a patent's marketability and thus play an integral role in the incentive scheme created by Congress. Recording systems provide notice and certainty to present and future parties to a transaction; they work"by virtue of the fact that interested parties have a specific place to look in order to discover with certainty whether a particular interest has been transferred." Nat'l Peregrine, Inc. v. Capitol Fed. Sav. & Loan Ass'n (In re Peregrine Entm't, Ltd.), 116 B.R. 194, 200 (C.D. Cal. 1990); see also Littlefield v. Perry, 88 U.S. 205, 221 (1874) (noting that the Patent Act's recording system "is intended for the benefit of the public " and that "[b]ona fide purchasers look to it for their protection"). If, as the Trustee argues, the Patent Act expressly delineates the place where a party must go to acquire notice and certainty about liens on patents, then a state law that requires the public to look elsewhere unquestionably would undercut the value of the Patent Act's recording scheme. If, on the other hand, §§ 261 does not cover liens on patents, then Article 9's filing requirements do not conflict with any policies inherent in the Patent Act's recording scheme.
+    
+    
+      22
+      Article 9 itself recognizes the existence of preemption principles. California Commercial Code §§ 9104(a) expressly subordinates Article 9's requirements to those of federal law. That section provides that Article 9 does not apply to any "security interest subject to any statute of the United States to the extent that such statute governs the rights of parties to and third parties affected by transactions in particular types of property." Section 9104(a) may be broader than federal preemption doctrine under the Patent Act. The text of§§ 9104(a) implies that Article 9's requirements are inapplicable to the extent that a federal law governs the rights of a party to a secured transaction, with or without a conflict between the state law and the scheme created by Congress in the Patent Act. Cf. Levitin v. PaineWebber, Inc., 159 F.3d 698, 704 (2d Cir. 1998) (speculating that §§ 104(a) of Article 9 "calls for analysis more sweeping than traditional preemption analysis").
+    
+    
+      23
+      This possible difference in scope does not affect the result in the present case, however. As noted, the Trustee argues that §§ 261 required Petitioners to record their interest with the PTO. If that is true, then the Trustee has priority to the patent's proceeds, either because there is a clear conflict between the state and federal schemes and the state scheme is preempted, or because the Patent Act "governs the rights of parties" to the transaction and §§ 9104(a) operates to nullify Article 9's filing requirements. We turn to that issue now.
+    
+    
+      24
+      2. The Patent Act Requires Parties to Record with the PTO Only Ownership Interest in Patents.
+    
+    
+      25
+      As noted, the Patent Act's recording provision provides that an "assignment, grant or conveyance shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it is recorded in the [PTO]." 35 U.S.C. §§ 261. In order to determine whether Congress intended for parties to record with the PTO the type of interest that is at issue in this case, we must give the words of the statute the meaning that they had in 1870, the year in which the current version of §§ 261 was enacted.5 See Perrin v. United States, 444 U.S. 37, 42 (1979) (giving the word "bribery," as used in the Travel Act, the meaning that it had in 1961, when the Travel Act was enacted).
+    
+    
+      26
+      Our task is not an easy one because security interests, and the words used to describe them, have changed significantly since the 19th Century. See generally 4 James J. White & Robert S. Summers, Uniform Commercial Code §§ 30-1, at 2 (4th ed. 1995) (noting that, before the advent of Article 9, "the lawyer had to work with a variety of security devices, each governed by its own law"). For example, before Article 9, a party could secure property using a pledge, an assignment, a chattel mortgage, a chattel trust, a trust deed, a factor's lien, or a conditional sale. Grant Gilmore, Security Interests in Personal Property §§ 10.1, at 296 (1965). Each type of device carried with it elaborate rules that controlled its use, and each conferred different rights and liabilities upon the contracting parties. See id. §§ 11.1, at 333 (noting that a "considerable amount of pre-Code case law was devoted to the invalidation of security transactions on the ground that one of the specialized devices had been used outside its `proper' field"). Article 9, which was first enacted in 1962, brought the"long history of the proliferation of independent security devices. . . to an end." Id. §§ 10.1, at 296. It did so in part by introducing a body of law that would govern a "single, `unitary' security device": the Article 9 security interest. 4 White & Summers§§ 30-1, at 2.
+    
+    
+      27
+      With that history in mind, we must determine whether Congress intended to include the kind of transaction at issue in this case within the scope of 35 U.S.C. §§ 261. The first phrase in §§ 261's recording provision -- "assignment, grant or conveyance" -- refers to different types of transactions. The neighboring clause -- "shall be void as against any subsequent purchaser or mortgagee" -- refers to the status of the party that receives an interest in the patent. Therefore, for the Trustee to prevail in this case, (1) Petitioners' transaction with Debtor must have been the type of "assignment, grant or conveyance" referred to in §§ 261, and (2) the Trustee, who has the status of a hypothetical lien creditor, must be a "subsequent purchaser or mortgagee." We hold that neither condition is met.6
+    
+    
+      28
+      As we will discuss next, our conclusion finds support in the text of §§ 261, keeping in view the historical definitions of the terms used in the recording provision; the context, structure, and policy behind §§ 261; Supreme Court precedent; and PTO regulations. We will begin by analyzing the statute's text and context, as interpreted by the Supreme Court. For the sake of clarity, we will discuss the two relevant phrases in the recording provision of §§ 261 separately.
+    
+    
+      29
+      a. The Phrase "Assignment, Grant or Conveyance" Concerns Transfers of Ownership Interests Only.
+    
+    
+      30
+      The historical meanings of the terms "assignment, grant or conveyance" all involved the transfer of an ownership interest. A patent "assignment" referred to a transaction that transferred specific rights in the patent, all involving the patent's title. E.g., Oliver v. Rumford Chem. Works, 109 U.S. 75, 82-83 (1883) (noting that an "assignment" involves a transfer of a patent's title); Waterman v. MacKenzie, 138 U.S. 252, 255 (1891) (explaining that an "assignment" vests in the assignee "title in so much of the patent itself"); 2 William C. Robinson, The Law of Patents §§ 762, at 517 (1890) ("An assignment is a transfer of the entire interest in a patented invention, or of an undivided portion of such entire interest, as to every section of the United States."); 48 C.J. Patents §§ 390, at 253 (1929) ("Generally an assignment of a patent vests in the assignee a title to so much of the patent itself, and transfers to the assignee an exclusive right to do everything under the patent which the patentee himself could do." (footnote omitted)).
+    
+    
+      31
+      A "grant," historically, also referred to a transfer of an ownership interest in a patent, but only as to a specific geographic area. See Moore v. Marsh, 74 U.S. 515, 521 (1868) (explaining that grants "must convey the exclusive right, under the patent, to make and use, and vend to others to be used, the thing patented, within and throughout some specified district or portion of the United States, and such right must be exclusive of the patentee, as well as of all others except the grantee"); Houdry Process Corp. v. Universal Oil Prods. Co., 87 F. Supp. 547, 552 (D. Del. 1949) ("A grant differs from an assignment merely as to the geographical area covered by the agreement."); 2 Robinson §§ 763, at 518 (noting that the "essential difference" between an assignment and a grant is "the territorial area to which they relate").
+    
+    
+      32
+      Although older cases defining the term "conveyance" in the context of intangible property are sparse, and its historic meaning tended to vary, the common contemporaneous definition was "to transfer the legal title . . . from the present owner to another." Abendroth v. Town of Greenwich, 29 Conn. 356 (1860); see also, e.g., Frame v. Bivens, 189 F. 785, 789 (C.C.E.D. Okla. 1909) ("A conveyance is the transfer of the title of land from one person or class of persons to another."); I Bouvier's Law Dictionary 361 (14th ed. 1874) (defining "conveyance" as the "transfer of the title of land from one person or class of persons to another"); I Burrill's Law Dictionary 375 (2d ed. 1871) (defining "conveyance" as an "instrument in writing, by which property or the title to property is transferred from one person to another"); Black's Law Dictionary 431 (3d ed. 1933) ("In the strict legal sense, a transfer of legal title to land.").
+    
+    
+      33
+      That Congress intended to incorporate the common, contemporaneous meanings of the words "assignment, " "grant," and "conveyance" into the Patent Act's recording provision can be seen when §§ 261 is examined in its entirety. See FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 133 (2000) (noting that it is a " `fundamental canon of statutory construction that the words of a statute must be read in their context and with a view to their place in the overall statutory scheme' " (quoting Davis v. Mich. Dep't of Treasury, 489 U.S. 803, 809 (1989))). The first clue is the provision's title: "Ownership; assignment." See United States v. Kaluna, 192 F.3d 1188, 1195 (9th Cir. 1999) (instructing that a statute's title is a tool for interpreting the statute's meaning). By using the unambiguous words "ownership; assignment, " Congress must have intended to introduce the subject that was to follow: the ownership of patents and the assignment thereof.
+    
+    
+      34
+      Continuing through §§ 261, the second paragraph states that patents shall be assignable by an instrument in writing. That paragraph goes on to provide that the patentee or the patentee's assigns "may in like manner grant and convey an exclusive right under his application for patent . . . to the whole or any specified part of the United States." (Emphasis added.) The types of transactions referred to in §§ 261's second paragraph -- (1) the assignment of a patent, and (2) the grant or conveyance of an exclusive right in a patent in the whole or part of the United States -- track the historical definitions of assignment, grant, and conveyance that we just discussed --transactions that all involve the transfer of an ownership interest in a patent.
+    
+    
+      35
+      Moreover, we presume that words used more than once in the same statute have the same meaning throughout. Boise Cascade Corp. v. EPA, 942 F.2d 1427, 1432 (9th Cir. 1991). Here, the second paragraph of §§ 261 uses the words "grant and convey" to signify the transfer of an "exclusive right [in a patent] . . . to the whole or any specified part of the United States." We presume, then, that when Congress used the words "grant or conveyance" two paragraphs later in the same statute, Congress still intended to refer to ownership interests only.
+    
+    
+      36
+      Supreme Court precedent supports our view that the terms "assignment, grant or conveyance" refer to ownership interests only. In Waterman, the Supreme Court analyzed the nature of a patent "assignment" and "mortgage." The plaintiff in Waterman assigned to his wife a patent for an improvement in fountain pens. The plaintiff's wife then granted back to the plaintiff a license to use the patent. That license was never recorded. The wife then assigned the patent to a third party as collateral for a debt; the document concerning this arrangement was filed with the PTO. Finally, the wife assigned the patent back to the plaintiff. The question for the Court was whether the plaintiff had standing to bring an action for infringement of the patent. The Court held that only the third party had standing. 138 U.S. at 261.
+    
+    
+      37
+      In resolving the matter, the Court noted that a patent's owner may convey, assign, or grant one of three interests:
+    
+    
+      38
+      [1] the whole patent, comprising the exclusive right to make, use and vend the invention throughout the United States; or [2] an undivided part or share of that exclusive right; or [3] the exclusive right under the patent within and throughout a specified part of the United States. A transfer of either of these three kinds of interests is an assignment, properly speaking, and vests in the assignee a title in so much of the patent itself, with a right to sue infringers. . . . Any assignment or transfer, short of one of these, is a mere license, giving the licensee no title in the patent, and no right to sue at law in his own name for an infringement.
+    
+    
+      39
+      Id. at 255 (emphasis added) (citation omitted). Whether a particular conveyance qualifies as an assignment or a license "does not depend upon the name by which it calls itself, but upon the legal effect of its provisions," id. at 256; that is, whether title is passed depends on the rights that were transferred by the contracting parties. Only the holder of an ownership interest in the patent had standing to sue.
+    
+    
+      40
+      Waterman contains no explicit holding that 35 U.S.C. §§ 261 applies only to a secured transaction that effects a transfer of ownership, but it does imply as much. The Court in Waterman expressly differentiated between three kinds of transfers of ownership interests -- all of which it labeled as versions of "assignments" -- and everything else, which it referred to as "mere licenses." The Court did not discuss"grants" or "conveyances" separately, but (1) as a matter of logic, they must fall into one of the two overarching and mutually exclusive categories that the Court created: assignments (ownership interests) or licenses (less than ownership interests); and (2) the kinds of transfers of ownership interests discussed by the Court (and labeled "assignments") correspond neatly to the historical definitions of the transactions delineated in the statute. See Hillman at 2-19 to 2-20 (observing that the Patent Act "distinguishes `assignments' of patents (of which `grants' and `conveyances' are specific types) from all other transfers (which are called `licenses')"). It is clear, then, that the transactions that the Court referred to as effecting a transfer of ownership are the same transactions that Congress referred to as an "assignment, grant or conveyance."
+    
+    
+      41
+      The Court's decision in Littlefield compels a similar conclusion. In Littlefield, a patent holder (the defendant) "granted" rights in a patent to a third party (the plaintiff), but did so through two separate contracts. The Court described the first contract as an "absolute conveyance" of the patent from the defendant to the plaintiff. In the second contract, the parties reserved some of the rights in the patent to the defendant. 88 U.S. at 219-20. The plaintiff recorded the first agreement but not the second, and eventually he sued the defendant for infringement. The defendant argued that the plaintiff could not sue him for infringement because the plaintiff held only a license. The Supreme Court disagreed.
+    
+    
+      42
+      In evaluating the claim, the Court examined the two agreements at issue. The Court noted that, in determining which party had an assignment and which had a license, it was an "important fact . . . that only one of the parts is recorded. . . . The record[ing] of the [first contract] alone . . . furnishes the strongest evidence of the intention of the parties to give effect to the two instruments as an assignment" to the plaintiff. Id. at 221. Therefore, under the "absolute conveyance," the plaintiff held an assignment, while the unrecorded agreement gave the defendant a "mere license."
+    
+    
+      43
+      In summary, the statute's text, context, and structure, when read in the light of Supreme Court precedent, compel the conclusion that a security interest in a patent that does not involve a transfer of the rights of ownership is a"mere license" and is not an "assignment, grant or conveyance" within the meaning of 35 U.S.C. §§ 261. And because §§ 261 provides that only an "assignment, grant or conveyance shall be void" as against subsequent purchasers and mortgagees, only transfers of ownership interests need to be recorded with the PTO. See Moraine Prods. v. ICI Am., Inc., 538 F.2d 134, 143 (7th Cir. 1976) (" `Patent licenses are not governed by the Patent Act, Section 261 being inapplicable to licensees.' " (quoting P. Rosenberg, Patent Law Fundamentals 264 (1975))); Keystone Type Foundry v. Fastpress Co. , 272 F. 242, 245 (2d Cir. 1921) ("[I]t had long passed into the textbooks that . . . an assignee acquired title subject to prior licenses of which the assignee must inform himself as best he can, and at his own risk."); Jones v. Berger , 58 F. 1006, 1007 (C.C.D. Md. 1893) ("There would seem to be no doubt that a license to use a patent not exclusive of others need not be recorded . . . . A subsequent assignee takes title to the patent subject to such licenses, of which he must inform himself as best he can at his own risk." (citations omitted)); Sanofi, S.A. v. Med-Tech Veterinarian Prods., Inc., 565 F. Supp. 931, 939 (D.N.J. 1983) (holding that "there is no obligation to record a license" with the PTO); 2 Robinson §§ 817, at 602 ("A license is not such a conveyance of an interest in the patented invention as to affect its ownership, and hence is not required to be recorded.").
+    
+    
+      44
+      In the present case, the parties do not dispute that the transaction that gave Petitioners their interest in the patent did not involve a transfer of an ownership interest in the patent. Petitioners held a "mere license," which did not have to be recorded with the PTO.
+    
+    
+      45
+      b. The Phrase "Subsequent Purchaser or Mortgagee" does not Include Subsequent Lien Creditors.
+    
+    
+      46
+      The Trustee's argument fails not only because a security interest that does not transfer ownership is not an "assignment, grant or conveyance," but also because he is not a subsequent "purchaser or mortgagee." Congress intended for parties to record their ownership interests in a patent so as to provide constructive notice only to subsequent holders of an ownership interest. Again, we derive our conclusion from the historical definitions of the words, from the context and structure of §§ 261, and from Supreme Court precedent.
+    
+    
+      47
+      The historical meaning of "purchaser or mortgagee " proves that Congress intended for the recording provision to give constructive notice only to subsequent holders of an ownership interest. For the sake of convenience, we begin with the definition of "mortgagee."
+    
+    
+      48
+      Historically, a "mortgagee" was someone who obtained title to property used to secure a debt. See James Schouler, Personal Property §§ 416, at 622 (5th ed. 1918) (noting that "[m]ortgages of chattels, then, are to be distinguished at common law from liens and pledges in this sort of out-and-out transfer of the title conditionally which is carried by the original transaction"). A "mortgage" must be differentiated from a "pledge," a term that is absent from the Patent Act. Professor Gilmore, in his treatise, Security Interests in Personal Property §§ 1.1, at 8, notes that the historical distinction between a pledge and a mortgage was that "the mortgagee got title or an estate whereas the pledgee got merely possession with a right to foreclose on default." Similarly, Judge Learned Hand wrote, in 1922, that it "is everywhere agreed that the significant distinction between a pledge and a mortgage is that in the first the creditor gets no title, . . . while in the second he does." Ex parte Crombie & La Mothe, Inc. (In re German Publ'n Soc'y), 289 F. 509, 509 (S.D.N.Y. 1922); see also Leonard A. Jones, A Treatise on the Law of Collateral Securities and Pledges §§ 2, at 4 (Edward M. White rev., 3d ed. 1912) (defining a "pledge" as "something more than a mere lien and something less than a mortgage"), cited in Black's Law Dictionary 1175 (7th ed. 1999).
+    
+    
+      49
+      That the Patent Act refers to securing a patent through a "mortgage" but not through a "pledge" is significant, for both were common methods of using a patent as collateral. See Schouler §§ 395, at 589 (noting that patent rights "are constantly interchanged in our business community for the purpose of pledge"); cf. Gilmore §§ 1.2, at 9-10 ("If it ever was true that only tangible chattels could be pledged, it is well over a century since that proposition had any vitality."). Generally, the inclusion of certain terms in a statute implies the exclusion of others. United States v. Kakatin , 214 F.3d 1049, 1051 (9th Cir. 2000). It seems then, that by using the term "mortgagee," but not "lien" or "pledge," Congress intended in 1870 for the Patent Act's recording provision to protect only those who obtained title to a patent.
+    
+    
+      50
+      The term "purchaser" does not detract from this conclusion. Section 261 instructs that an unrecorded "assignment, grant or conveyance" shall be void as against a subsequent"purchaser . . . for a valuable consideration, without notice. " The historical definition of a "purchaser for value and without notice" was a "bona fide purchaser. A purchaser .. . who takes a conveyance purporting to pass the entire title, legal and equitable," who pays value and does not have notice of the rights of others to the property. Bouvier's Law Dictionary 1005 (Baldwin's Century ed. 1926). The Supreme Court seems to have accepted this definition as well. See Littlefield, 88 U.S. at 221 (noting that "[b]ona fide purchasers look to [the Patent Act's recording provision] for their protection").
+    
+    
+      51
+      Congress, by stating that certain transactions shall be void as against a subsequent "purchaser or mortgagee " intended for the words to be read together: A "purchaser" is one who buys an ownership interest in the patent, while a "mortgagee" is one who obtains an ownership interest in a patent as collateral for a debt.
+    
+    
+      52
+      Our previous comments about the context and structure of §§ 261 support our conclusion that Congress intended to protect only subsequent holders of an ownership interest. As noted, the title of §§ 261 is "Ownership; assignment," which suggests that the recording provision is concerned only with ownership interests.
+    
+    
+      53
+      Similarly, the second paragraph delineates the types of transactions that §§ 261 covers -- (1) the assignment of a patent, and (2) the grant or conveyance of an exclusive right in the patent to the whole or any specified part of the United States -- each involving the transfer of an ownership interest in a patent. It follows that, when Congress referred to a "subsequent purchaser or mortgagee," it was simply describing the future recipients of those transactions. In one case the recipient bought the interest (purchaser), while in the other the recipient loaned money and received the interest as collateral (mortgagee). In either case, an ownership interest was transferred.
+    
+    
+      54
+      Precedent confirms our reading of the statute. The Supreme Court has endorsed the view that Congress intended to provide constructive notice only to subsequent recipients of an ownership interest in a patent. In Waterman, the Court observed, as we do, that the Patent Act refers to a"mortgage" but not to a "pledge." The Court noted that, when a party has the status of a mortgagee,
+    
+    
+      55
+      it is not merely the possession or a special property that passes; but, both at law and in equity, the whole title is transferred to the mortgagee, as security for the debt, subject only to be defeated by performance of the condition . . . and the right of possession, when there is no express stipulation to the contrary, goes with the right of property.
+    
+    
+      56
+      138 U.S. at 258 (emphasis added). Moreover, with title or possession of the property came certain rights in the mortgagee. Id. at 258-59. But a patent right"is incorporeal property, not susceptible of actual delivery or possession." Id. at 260. Therefore, when "it is provided by statute that a mortgage of personal property shall not be valid against third persons, unless the mortgage is recorded, a recording of the mortgage is a substitute for, and . . . equivalent to, a delivery of possession, and makes the title and the possession of the mortgagee good against all the world." Id. at 260 (emphasis added).
+    
+    
+      57
+      The Court then observed that, once a mortgagee has recorded the transaction, that party is "entitled to grant licenses, to receive license fees and royalties, and to have an account of profits or an award of damages against infringers." Id. Because the Court had already noted that only the holder of an ownership interest in a patent could sue for damages against infringers, it is clear that the Court read the term "mortgagee" to refer to a party who held an ownership interest in the patent.
+    
+    
+      58
+      In summary, the historical definitions of the terms"purchaser or mortgagee," taken in context and read in the light of Supreme Court precedent, establish that Congress was concerned only with providing constructive notice to subsequent parties who take an ownership interest in the patent in question. See In re Transp. Design & Tech., Inc., 48 B.R. 635, 639-40 (S.D. Cal. 1985) (interpreting Waterman as holding that the Patent Act is concerned only with transactions that transfer title); City Bank & Trust Co. v. Otto Fabric, Inc., 83 B.R. 780, 782-83 (D. Kan. 1988) (same).
+    
+    
+      59
+      The Trustee is not a subsequent"mortgagee," as that term is used in 35 U.S.C. §§ 261, because the holder of a patent mortgage holds title to the patent itself. Waterman, 138 U.S. at 258. Instead, the Trustee is a hypothetical lien creditor.7 The Patent Act does not require parties to record documents in order to provide constructive notice to subsequent lien creditors who do not hold title to the patent.
+    
+    
+      60
+      3. Public Policies that Underlie Recording Provisions Cannot Override the Text of the Patent Act.
+    
+    
+      61
+      The Trustee argues that requiring lien creditors to record their interests with the PTO is in line with the general policy behind recording statutes. It may be, as the Trustee argues, that a national system of filing security interests is more efficient and effective than a state-by-state system. However, there is no statutory hook upon which to hang the Trustee's policy arguments. Moreover, we are not concerned with the policy behind recording statutes generally but, rather, with the policy behind 35 U.S.C. §§ 261 specifically.
+    
+    
+      62
+      Title 35 U.S.C. §§ 261, as we have demonstrated and as its label suggests, is concerned with patent ownership. In that provision Congress gave patent holders the right to transfer their ownership interests, but only in specific ways. The congressional policy behind that decision was to protect the patent holder and the public for, as the Supreme Court put it,
+    
+    
+      63
+      it was obviously not the intention of the legislature to permit several monopolies to be made out of one, and divided among different persons within the same limits. Such a division would inevitably lead to fraudulent impositions upon persons who desired to purchase the use of the improvement, and would subject a party who, under a mistake as to his rights, used the invention without authority, to be harassed by a multiplicity of suits instead of one, and to successive recoveries of damages by different persons holding different portions of the patent right in the same place.
+    
+    
+      64
+      Gayler v. Wilder, 51 U.S. (10 How.) 501, 519-20 (1850); see also Hillman at 2-19 (noting that patent law"adheres to strict concepts of title, in order to protect the ownership of new inventions"). The recording provision, if read to include ownership interests only, is perfectly aligned with that policy. By contrast, a security interest in a patent does not make "several monopolies . . . out of one, . . . divided among different persons within the same limits." Gayler, 51 U.S. at 519.
+    
+    
+      65
+      We must interpret §§ 261 in the light of the purposes that Congress was seeking to serve. United States v. Smith, 683 F.2d 1236, 1240 (9th Cir. 1982). Congress simply was not concerned with nonownership interests in patents, and this limitation was well understood at the time. As explained in a venerable treatise on the law of patents:
+    
+    
+      66
+      A license is not such a conveyance of an interest in the patented invention as to affect its ownership, and hence is not required to be recorded . . . . The value of the patented invention to the vendee may be impaired by such outstanding licenses, but of this he must inform himself at his own risk as best he may. The record of a license, not being legally required, is not constructive notice to any person for any purpose.
+    
+    
+      67
+      2 Robinson §§ 817, at 602-03 (footnotes omitted).
+    
+    
+      68
+      The Patent Act was written long before the advent of the "unitary" Article 9 security interest. But we must interpret 35 U.S.C. §§ 261 as Congress wrote it. The Constitution entrusts to Congress, not to the courts, the role of ensuring that statutes keep up with changes in financing practices. It is notable that Congress has revised the Patent Act numerous times since its enactment, most recently in 1999, see Pub. L. 106-113, but it has not updated the Act's recording provision. We decline the Trustee's invitation to do so in Congress' place.
+    
+    
+      69
+      4. Cases Interpreting the Copyright Act do not Control.
+    
+    
+      70
+      The Trustee's final argument is that this court should follow Peregrine, in which a bankruptcy court held that the Copyright Act preempts state methods of perfecting security interests in copyrights. The court in Peregrine observed that the "federal copyright laws ensure predictability and certainty of copyright ownership, promote national uniformity and avoid the practical difficulties of determining and enforcing an author's rights under the differing laws and in the separate courts of the various States." 116 B.R. at 199 (internal quotation marks omitted). The court reasoned that allowing state methods to stand would conflict with those goals. Id. But see 4 White & Summers §§ 30-12, at 86 (referring to Peregrine as "misguided").
+    
+    
+      71
+      Of course, Peregrine is not binding on this court although, in the present case, we have no occasion to pass on its correctness as an interpretation of the Copyright Act. We note, however, that the Copyright Act, by its terms, governs security interests. The Copyright Act governs any "transfer" of ownership, which is defined by statute to include any"hypothecation." 17 U.S.C. §§§§ 101, 201(d)(1). A"hypothecation" is the "pledging of something as security without delivery of title or possession." Black's Law Dictionary 747 (7th ed. 1999); see also Douglas J. Whaley, Problems and Materials on Secured Transactions 10 n.3 (4th ed. 1997) (noting that a"pledge is sometimes called a hypothecation").
+    
+    
+      72
+      By contrast, the Patent Act does not refer to a"hypothecation" and, as we have demonstrated, does not refer to security interests at all. The fact that one federal intellectual property statute with a recording provision expressly refers to security interests (the Copyright Act), while another does not (the Patent Act), is more evidence that security interests are outside the scope of 35 U.S.C. §§ 261. See S. Cal. Bank v. Zimmerman (In re Hilde), 120 F.3d 950, 955 (9th Cir. 1997) (noting that, when " `a statute omits a specific matter from its coverage, the inclusion of such a matter in another statute on a related subject demonstrates an intent to omit the matter from the coverage of the statute in which it is not mentioned' ") (quoting Cal. Coastal Comm'n v. Quanta Inv. Corp., 113 Cal. App. 3d 579, 599 (1980)).
+    
+    
+      73
+      5. PTO Regulations Require Only the Recording of Documents that Transfer Ownership in a Patent.
+    
+    
+      74
+      It is worthy of mention that the applicable PTO regulations parallel our interpretation of 35 U.S.C. §§ 261. Title 37 C.F.R. §§ 3.11(a) provides that "assignments" must be recorded in the PTO. That regulation also states that "[o]ther documents affecting title to applications, patents, or registrations, will be recorded at the discretion of the Commissioner" of Patents and Trademarks. (Emphasis added.) Section 313 of the Manual of Patent Examining Procedure (7th ed. 1998) explains that "[o]ther documents" that may be filed include "agreements which convey a security interest. Such documents are recorded in the public interest in order to give third parties notification of equitable interests . . . ."
+    
+    
+      75
+      Title 37 C.F.R. §§ 3.11 is illuminating because it shows that the PTO does not consider security interests to be"assignments, grants or conveyances." Under 35 U.S.C.§§ 261, certain conveyances -- those that transfer an ownership interest -- must be recorded to be effective as against a subsequent purchaser or mortgagee. If security interests were "assignments, grants or conveyances," then they would have to be filed to provide constructive notice to a subsequent purchaser or mortgagee, consistent with the Patent Act. As a matter of law and logic, the Commissioner would not have the"discretion" to reject federal filing.8
+    
+    
+      76
+      The PTO consistently has interpreted 35 U.S.C. §§ 261 in this way. An earlier version of the regulation, 37 C.F.R. §§ 1.331, which was originally enacted in 1959, allowed for the federal filing of "[o]ther instruments affecting title to a patent . . . even though the recording thereof may not serve as constructive notice under 35 U.S.C. 261." 37 C.F.R. §§ 1.331(a) (emphasis added). Similarly, 37 C.F.R. §§ 7, also originally enacted in 1959, distinguished between"assignments" and "licenses," much as Waterman had. "Assignment[ ]" meant any "instrument which conveys to the Government only the title to a patent." 37 C.F.R.§§ 7.2 (removed and reserved Oct. 10, 1997). "Licenses " were any instruments other than assignments. 37 C.F.R. §§ 7.3 (removed and reserved Oct. 10, 1997).
+    
+    
+      77
+      We acknowledge that the issue in this case "is a pure question of statutory construction for the courts to decide" and that the PTO's interpretation is not entitled to any particular deference. INS v. Cardoza-Fonseca, 480 U.S. 421, 446 (1987); see also Chevron U.S.A., Inc. v. Natural Res. Def. Council, Inc., 467 U.S. 837, 843 n.9 (1984) (noting that the "judiciary is the final authority on issues of statutory construction"). Although the statute is ambiguous now, it seems not to have been in 1870. Moreover, we do not believe that 35 U.S.C.§§ 261 contains within it a delegation of authority, either explicit or implicit, that would enable the PTO to broaden or narrow the reach of the Patent Act's recording provision. See id. at 844 (noting that deference is appropriate only when Congress has delegated the authority to an administrative agency to fill a statutory gap or interpret an ambiguous provision.)
+    
+    
+      78
+      However, when we must interpret an archaic statute, the historic practice of the agency that was created to help implement that statute can shed light on its meaning. Cf. Mesa Verde Constr. Co. v. N. Cal. Dist. Council of Laborers, 861 F.2d 1124, 1130 n.5 (9th Cir. 1988) (stating that"[w]e have long recognized that considerable weight should be accorded to an executive department's construction of a statutory scheme it is entrusted to administer"). Under 37 C.F.R. §§ 3.1l, Petitioners were not required to record with the PTO their security interest in order to perfect as to the Trustee.
+    
+    
+      79
+      6. There is no Conflict Between the Patent Act and Article 9 in this Case.
+    
+    
+      80
+      Because the Patent Act does not cover security interests or lien creditors at all, there is no conflict between 35 U.S.C. §§ 261 and Article 9. Petitioners did not have to file with the PTO to perfect their security interest as to a subsequent lien creditor.
+    
+    B. Article 9's Step-Back Provision
+    
+      81
+      The Trustee's second major argument is that Article 9 itself requires that a creditor file notice of a secured transaction with the PTO in order to perfect a security interest. California Commercial Code §§ 9302(3)(a) states that the filing of a financing statement pursuant to Article 9 "is not necessary or effective to perfect a security interest in property subject to . . . [a] statute . . . which provides for a national or international registration . . . or which specifies a place of filing different from that specified in" Article 9. If§§ 9302(3)(a) applies, then a party must utilize the federal registration system in order to perfect its security interest. Cal. Com. Code §§ 9302(4).9
+    
+    
+      82
+      The question, then, is whether the Patent Act is "[a] statute . . . which provides for a national or international registration . . . or which specifies a place of filing different from that specified in" Article 9. Cal. Com. Code§§ 9302(3)(a). The Patent Act is clearly a statute that provides for a national registration. But that begs the more focused question: a national registration of what? Courts have tended to use the context of the statute to amplify the bare text and to answer the focused question: a national registration of security interests. For example, in Aerocon Engineering, Inc. v. Silicon Valley Bank (In re World Auxiliary Power Co.), 244 B.R. 149, 155 (N.D. Cal. 1999), the bankruptcy court observed that §§ 9302(3)(a), if read literally,
+    
+    
+      83
+      would be absurd. It would provide that, whenever a particular type of collateral may be registered nationally, regardless of whether the federal statute specifies a place for filing a security interest different than that provided by the UCC, filing a UCC-1 financing statement would be neither necessary nor effective to perfect a security interest in the collateral.
+    
+    
+      84
+      Courts have thus read §§ 9302(3)(a) as providing that federal filing is necessary only when there is a statute that "provides for" a national registration of security interests. See, e.g., Trimarchi v. Together Dev. Corp., 255 B.R. 606, 610 (D. Mass. 2000) (holding that §§ 9302(3)(a) did not require the federal filing of a trademark because the Lanham Act does not provide for a national recording system of security interests). We agree with that interpretation.
+    
+    
+      85
+      Under that more restrictive definition, it is clear that the Patent Act is outside the scope of §§ 9302(3)(a). As we have explained, a transaction that grants a party a security interest in a patent but does not effect a transfer of title is not the type of "assignment, grant or conveyance" that is referred to in 35 U.S.C. §§ 261. The transaction in this case did not transfer an ownership interest. Therefore, §§ 9302(3)(a) did not require that Petitioners record their security interest with the PTO.
+    
+    
+      86
+      The Comments to Article 9 of the UCC support this view. Comment 8 states that §§ 9302(3)
+    
+    
+      87
+      exempts from the filing provisions of this Article transactions as to which an adequate system of filing, state or federal, has been set up outside this Article and subsection (4) makes clear that when such a system exists perfection of a relevant security interest can be had only through compliance with that system.
+    
+    
+      88
+      The Comments instruct that "17 U.S.C. §§§§ 28, 30 (copyrights), 49 U.S.C. §§ 1403 (aircraft), [and ] 49 U.S.C. §§ 20(c) (railroads)" are examples of the "type of federal statutes" referred to in §§ 9302(3). Each of the statutes listed in the Comments refers expressly to security interests. See 17 U.S.C. §§ 101; 49 U.S.C. §§ 44107; 49 U.S.C.§§ 11301. The Patent Act is not among them.
+    
+    C. Conclusion
+    
+      89
+      Because 35 U.S.C. §§ 261 concerns only transactions that effect a transfer of an ownership interest in a patent, the Patent Act does not preempt Article 9, and neither California Commercial Code §§ 9104(a) nor §§ 9302(3) applies. Consequently, Petitioners perfected their security interest in Debtor's patent by recording it with the California Secretary of State. They have priority over the Trustee's claim because they recorded their interest before the filing of the bankruptcy petition.
+    
+    
+      90
+      AFFIRMED.
+    
+    
+      
+        Notes:
+      
+      
+        1
+         A "security interest" is an interest in personal property that secures a payment or the performance of an obligation. Cal. Com. Code §§ 1201(36)(a). We refer to a person who holds a security interest in property but who does not hold title to that property as a "lien creditor." " `Perfection' and `priority' . . . are separable but intertwined concepts. When a lender has properly perfected a security interest in property by filing its interest in the appropriate office, the lender may obtain priority -- the ability to assert that its interest ranks before those of other parties with claims to that property." Alice Haemmerli, Insecurity Interests: Where Intellectual Property and Commercial Law Collide, 96 Colum. L. Rev. 1645, 1657 (1996).
+      
+      
+        2
+         For convenience, we refer to California's statutes governing secured transactions as "Article 9" throughout this opinion, although it should be understood that we mean California law only.
+      
+      
+        3
+         On appeal, the Trustee also argues that, under the Bankruptcy Act, 11 U.S.C. §§ 544(a)(2), he is not a hypothetical lien creditor but, rather, has the status of an "unsatisfied execution creditor. " We need not explore the ramifications of that argument because it was not raised below and, accordingly, has been waived. See El Paso City v. Am. W. Airlines, Inc. (In re Am. W. Airlines, Inc.), 217 F.3d 1161, 1165 (9th Cir. 2000) (noting, in an appeal from a BAP decision, that, "[a]bsent exceptional circumstances, we generally will not consider arguments raised for the first time on appeal, although we have discretion to do so"). The Trustee has not argued that "exceptional circumstances" exist in this case, nor does the record disclose any.
+      
+      
+        4
+         Although the categories "field" and "conflict" preemption provide a useful analytic framework, "they are not `rigidly distinct.' Field preemption, for instance, `may be understood as a species of conflict pre-emption: A state law that falls within a pre-empted field conflicts with Congress' intent (either express or plainly implied) to exclude state regulation[ ].' " Indus. Truck Ass'n v. Henry, 125 F.3d 1305, 1309 (9th Cir. 1997) (quoting English v. Gen. Elec. Co., 496 U.S. 72, 79 n.5 (1990)).
+      
+      
+        5
+         The text of the relevant part of §§ 261 is derived from the Patent Act of 1870, ch. 230, §§ 36, 16 Stat. 203. An earlier version, July 4, 1836 (5 Stat. 121), provided as follows:
+        "Every patent shall be assignable at law, either as to the whole interest or any undivided part thereof, by any instrument in writing; which assignment, and also every grant and conveyance of the exclusive right under any patent, to make and use, and to grant to others to make and use, the thing patented within and throughout any specified part or portion of the United States, shall be recorded in the Patent Office within three months from the execution thereof."
+        (As quoted in Oliver v. Rumford Chem. Works, 109 U.S. 75, 81-82 (1883).)
+      
+      
+        6
+         Although no circuit court has yet resolved the issue that we face, there exists quite a bit of academic debate on the subject of whether the Patent Act preempts Article 9. Professor Gilmore argues that, although the Patent Act "contains no express authorization of patent mortgages comparable to the copyright provision . . . [,] the statute confers upon patents `the attributes of personal property' and the recording provision makes an unrecorded assignment void `against any subsequent . . . mortgagee,' [and] there can be no doubt that security transfers of patents are recognized." Grant Gilmore, Security Interests in Personal Property §§ 10.1, at 417 (1965) (quoting 35 U.S.C. §§ 261).
+        There also is academic support for the opposite view, which (for the reasons explained in the text of this opinion) we embrace. See William C. Hillman, Documenting Secured Transactions, 2-19 to 2-20 (May 1998 rev.) (concluding that the Patent Act does not preempt Article 9); 4 White & Summers §§ 30-12, at 86 (noting that the text of "federal statutes appears to distinguish between security interests and outright assignments, and among lien creditors, mortgagees, bona fide purchasers and others"); Haemmerli, supra note 1, at 1696-1700 (arguing that security interests are not within the scope of 35 U.S.C. §§ 261).
+      
+      
+        7
+         The Trustee did not argue below that he is a subsequent "purchaser," so we need not consider that question.
+      
+      
+        8
+         No party challenges the validity of the PTO's regulations, and we express no opinion on that subject.
+      
+      
+        9
+         Section 9302(3)(a) concerns only the "where to file" question; any issues left unresolved by the federal statute (e.g., priority), are resolved by looking to Article 9. See Cal. Com. Code§§ 9104(a) (instructing that Article 9 does not apply "to the extent" that federal statutes govern the rights of parties to a secured transaction).
+      
+    
+    
+      CC∅ | Transformed by Public.Resource.Org
+    
+  
+

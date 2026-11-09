@@ -1,0 +1,45 @@
+{
+  "case": "Lee v. Kemna",
+  "date": "2002-01-22",
+  "author": "Souter",
+  "counts": {
+    "Stone-Zsela": 2,
+    "Stevens": 2,
+    "O'Connor": 3,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 2,
+    "Breyer": 3
+  },
+  "last_counted_event": "Kansas v. Crane, 2002-01-22",
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "explanation_word_counts": [
+    204,
+    143
+  ],
+  "checks": "four labels; eleven blocks; holdings identity; eight frozen rows; pool eligibility; word ceilings; links; prohibited tokens; public metadata exclusion; human coalition and remedy compatibility reviewed",
+  "record": "terms/OT2001/records/lee-v-kemna_merits_2002-01-22.md",
+  "verified_topology_counts": {
+    "full_lead": 6,
+    "dissent": 3
+  },
+  "post_review_validation": "Exact ordered blocks and Holdings identity; frozen eight table identity; final public-topology names/counts; eligible intersection and balance pool; actual-table recount; source links; all published separate positions retained; public metadata and prohibited-token scans.",
+  "scope_clarification": "Unadmitted sworn-explanation detail removed from Court factual rationale; supported neutral facts remain sufficient."
+}

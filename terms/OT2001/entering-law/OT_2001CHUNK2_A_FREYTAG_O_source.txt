@@ -1,0 +1,555 @@
+https://www.law.cornell.edu/supct/html/90-762.ZO.html
+ 
+ 
+
+  
+   
+    
+   
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+   
+
+	 
+	  
+	 
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	 
+	   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+   
+  
+  Freytag v. Commissioner, 501 U.S. 868 (1991) 
+  
+  
+   
+
+     
+     
+	 
+		 
+			  LII  
+			 
+			  Supreme Court  		 
+		 
+	 
+
+
+ 
+ 
+  
+ Freytag v. Commissioner (90-762), 501 U.S. 868 (1991) 
+   Concurrence      Syllabus      Opinion         HTML version   WordPerfect version    HTML version   WordPerfect version    HTML version   WordPerfect version     
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 90-762 -- OPINION  
+ 
+ 
+ 
+     v.   COMMISSIONER    
+ NOTICE: This opinion is subject to formal revision before publication in the  preliminary print of the United States Reports.  Readers are requested to  notify the Reporter of Decisions, Supreme Court of the United States, Wash- ington, D. C. 20543, of any typographical or other formal errors, in order  that corrections may be made before the preliminary print goes to press.  
+ 
+ 
+ 
+  
+ No.  90-762   
+ 
+ 
+ 
+  
+ FREYTAG,  et al.,  PETITIONERS v.COMMISSIONER OF INTERNAL REVENUE  
+ 
+ 
+ 
+  
+ [ June 27, 1991 ]   
+    Justice Blackmun  delivered the opinion of the Court.  
+ 
+ 
+ 
+  
+   The leading Framers of our Constitution viewed the princi- ple of separation of powers as the central guarantee of a just  government.  James Madison put it this way: "No political  truth is certainly of greater intrinsic value or is stamped with  the authority of more enlightened patrons of liberty."  The  Federalist No. 47, p. 324 (J. Cooke ed. 1961).  In this litiga- tion, we must decide whether the authority that Congress  has granted the chief judge of the United States Tax Court to  appoint special trial judges transgresses our structure of sep- arated powers.  We answer that inquiry in the negative.  
+ 
+ 
+ 
+  
+ I   By the Tax Reform Act of 1969,  951, 83 Stat. 730,  26 U.S.C.  7441  Congress "established, under article I of the  Constitution of the United States, a court of record to be  known as the United States Tax Court."  It also empowered  the Tax Court to appoint commissioners to assist its judges.    958, 83 Stat. 734.  By the Tax Reform Act of 1984,  464(a),  98 Stat. 824, the title "commissioner" was changed to "special  trial judge."  By  463(a) of that Act, 98 Stat. 824, and by   1556(a) of the Tax Reform Act of 1986, 100 Stat. 2754, Con- gress authorized the chief judge of the Tax Court to appoint  and assign these special trial judges to hear certain specifi- cally described proceedings and "any other proceeding which  the chief judge may designate."   26 U.S.C.  7443 A(a) and  (b).  The Tax Court presently consists of 19 judges ap- pointed to 15-year terms by the President, by and with the  advice and consent of the Senate.   26 U.S.C.  7443 (a),  (b), and (e).  
+ 
+ 
+ 
+  
+ II   This complex litigation began with determinations of fed- eral income tax deficiencies against the several petitioners,  who had deducted on their returns approximately $1.5 billion  in losses allegedly realized in a tax shelter scheme.
+ 
+ 
+ 
+   [n.1]   
+ 
+ 
+ 
+   When  petitioners sought review in the Tax Court in March 1982,  their cases were assigned to Tax Court Judge Richard C.  Wilbur.  Trial began in 1984.  Judge Wilbur became ill in  November 1985, and the chief judge of the Tax Court as- signed Special Trial Judge Carleton D. Powell to preside over  the trial as evidentiary referee, with the proceedings video- taped.  App. 2.  When Judge Wilbur's illness forced his re- tirement and assumption of senior status effective April 1,  1986, the cases were reassigned, with petitioners' specified  consent, Brief for Petitioners 8; Tr. of Oral Arg. 10, to Judge  Powell for preparation of written findings and an opinion.   App. 8, 12-14.  The judge concluded that petitioners' tax  shelter scheme consisted of sham transactions and that peti- tioners owed additional taxes.  The chief judge adopted  Judge Powell's opinion as that of the Tax Court.  89 T. C.  849 (1987).
+ 
+ 
+ 
+   [n.2]   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+    Petitioners took an appeal to the Court of Appeals for the  Fifth Circuit.  It affirmed.  904 F. 2d 1011 (1990).  Peti- tioners did not argue to the Court of Appeals, nor do they  argue here, that the Tax Court is not a legitimate body.   Rather, they contended that the assignment of cases as com- plex as theirs to a special trial judge was not authorized by   7443A, and that this violated the Appointments Clause of  the Constitution, Art. II,  2, cl. 2.  The Court of Appeals  ruled that because the question of the special trial judge's au- thority was "in essence, an attack upon the subject matter ju- risdiction of the special trial judge, it may be raised for the  first time on appeal."  904 F. 2d, at 1015 (footnote omitted).   The court then went on to reject petitioners' claims on the  merits.  It concluded that the Code authorized the chief  judge of the Tax Court to assign a special trial judge to hear  petitioners' cases and that petitioners had waived any con- stitutional challenge to this appointment by consenting to a  trial before Judge Powell.   Id. , at 1015, n. 9.  
+ 
+ 
+ 
+  
+    We granted certiorari, --- U. S. --- (1991), to resolve  the important questions the litigation raises about the Con- stitution's structural separation of powers.  
+ 
+ 
+ 
+  
+ III   Section 7443A(b) of the Internal Revenue Code specifically  authorizes the chief judge of the Tax Court to assign four cat- egories of cases to special trial judges: "(1) any declaratory  judgment proceeding," "(2) any proceeding under section  7463," "(3) any proceeding" in which the deficiency or claimed  overpayment does not exceed $10,000, and "(4) any other  proceeding which the chief judge may designate."  In the  first three categories, the chief judge may assign the special  trial judge not only to hear and report on a case but also to  decide it.   7443A(c).  In the fourth category, the chief  judge may authorize the special trial judge only to hear the  case and prepare proposed findings and an opinion.  The ac- tual decision then is rendered by a regular judge of the Tax  Court.  
+ 
+ 
+ 
+  
+    Petitioners argue that adjudication by the special trial  judge in this litigation exceeded the bounds of the statutory  authority that Congress has conferred upon the Tax Court.   Despite what they concede to be the "sweeping language" of  subsection (b)(4), Brief for Petitioners 6, petitioners claim  that Congress intended special trial judges to preside over  only the comparatively narrow and minor matters covered by  subsections (b)(1), (2), and (3).  
+ 
+ 
+ 
+  
+    The plain language of  7443A(b)(4) surely authorizes the  chief judge's assignment of petitioners' cases to a special trial  judge.  When we find the terms of a statute unambiguous,  judicial inquiry should be complete except in rare and excep- tional circumstances.   Demarest  v.  Manspeaker , --- U. S.  ---, --- (1991) (slip op. 6).  Subsection (b)(4) could not be  more clear.  It states that the chief judge may assign "any  other proceeding" to a special trial judge for duties short of  "mak[ing] the decision."  The subsection's text contains no  limiting term that restricts its reach to cases that are minor,  simple, or narrow, as petitioners urge.  We have stated that  courts "are not at liberty to create an exception where Con- gress has declined to do so."   Hallstrom  v.  Tillamook    County ,  493 U.S. 20 , --- (1989) (slip op. 5).  
+ 
+ 
+ 
+  
+    Nothing in the legislative history contradicts the broad  sweep of subsection (b)(4)'s language.  In proposing to au- thorize the chief judge to assign "any other proceeding" to  the special trial judges, the Committee on Ways and Means  stated that it intended "to clarify" that any other proceeding  could be assigned to special trial judges "so long as a Tax  Court judge must enter the decision."  H. R. Rep. No. 98- 432, pt. 2, p. 1568 (1984).  The Report goes on to explain:  
+ 
+ 
+ 
+  
+ The Conference Report "follows the House Bill," H. R. Conf.  Rep. No. 98-861, p. 1127 (1984), and, like the House Report,  indicates that Congress knowingly removed the jurisdictional  requirement of a maximum amount in dispute in order to ex- pand the authority of special trial judges to hear but not to  decide cases covered by subsection (b)(4).  
+ 
+ 
+ 
+  
+    Petitioners appear not to appreciate the distinction be- tween the special trial judges' authority to hear cases and  prepare proposed findings and opinions under subsection (b) (4) and their lack of authority actually to decide those cases,  which is reserved exclusively for judges of the Tax Court.
+ 
+ 
+ 
+   [n.3]   
+ 
+ 
+ 
+    Because they do not distinguish between hearing a case and  deciding it, petitioners advance two arguments that, it seems  to us, miss the mark.  
+ 
+ 
+ 
+  
+    Petitioners first argue that the legislative history notes  that the amendment to what is now  7443A was merely a  "technical" change and cannot be read to transfer dispositive  power to special trial judges.  Petitioners are correct that  the 1984 amendment neither transferred decisional power  nor altered the substantive duties of the special trial judges.   Congress has limited the authority of special trial judges to  enter decisions to the narrow category of cases set forth in  subsections (b)(1), (2), and (3).  The scope of the special trial  judges' authority to hear and decide cases, however, has lit- tle, if any, relevance to the category of cases that the special  trial judges may hear but not decide.  
+ 
+ 
+ 
+  
+    Since the enactment of the Revenue Act of 1943,  503, 58  Stat. 72, the Tax Court has possessed authority to appoint  commissioners to assist it in particular cases.  Special trial  judges and their predecessors, the commissioners, have been  authorized for almost a half century to hear any case before  the Tax Court in the discretion of its chief judge.  In prac- tice, before 1984, special trial judges often heard and re- ported on large and complex cases.  Accordingly, when Con- gress adopted subsection (b)(4), it codified the chief judge's  discretion to assign cases like petitioners' to a special trial  judge for hearing and preparation of a report.  The 1984  amendment was "technical" in light of the historical develop- ment of the special trial judge's role; the technical nature of  the amendment, however, does not alter the wide-ranging ef- fect of the statutory text's grant of authority to the chief  judge to assign "any other proceeding" within the Tax  Court's jurisdiction to a special trial judge.  
+ 
+ 
+ 
+  
+    Petitioners also argue that the phrase "any other proceed- ing" is a general grant of authority to fill unintended gaps left  by subsections 7443A(b)(1), (2), and (3).  Reading subsection  (b)(4) as a catch-all provision, petitioners argue that its mean- ing must be limited to cases involving a small amount of  money because any other interpretation would render the  limitations imposed by subsections (b)(1), (2), and (3) a nul- lity.  In support of this argument, petitioners rely on this  Court's decision in  Gomez  v.  United States ,  490 U.S. 858   (1989).  
+ 
+ 
+ 
+  
+    We held in  Gomez  that the Federal Magistrates Act's gen- eral grant of authority allowing magistrates to "be assigned  such additional duties as are not inconsistent with the Con- stitution and laws of the United States,"  28 U.S.C.  636 (b) (3), did not permit a magistrate to supervise juror voir dire in  a felony trial over a defendant's objection.  In so holding, we  explained:  
+ 
+ 
+ 
+  
+ "When a statute creates an office to which it assigns spe- cific duties, those duties outline the attributes of the  office.  Any additional duties performed pursuant to a  general authorization in the statute reasonably should  bear some relation to the specified duties."  490 U. S.,  at 864.  
+ 
+ 
+ 
+  
+ In the Magistrates Act, the list of specifically enumerated du- ties followed the general grant of authority and provided the  outlines for the scope of the general grant.  Unlike the Mag- istrates Act,  7443A explicitly distinguishes between the  categories of cases enumerated in subsections (b)(1), (2), and  (3), which are declaratory judgment proceedings and cases  involving $10,000 or less, and the category of "any other pro- ceeding" found in subsection (b)(4).  
+ 
+ 
+ 
+  
+    The lesser authority exercised by special trial judges in  proceedings under subsection (b)(4) also prevents that sub- section from serving as a grant of general authority to fill any  gaps left in the three preceding subsections.  Special trial  judges may hear  and  decide declaratory judgment proceed- ings and the limited-amount cases.  A special trial judge,  however, cannot render the final decision of the Tax Court in  a case assigned under subsection (b)(4).  If the cases that  special trial judges may hear, but not decide, under subsec- tion (b)(4) are limited to the same kind of cases they could  hear and decide under the three preceding subsections, then  subsection (b)(4) would be superfluous.  Our cases consist- ently have expressed "a deep reluctance to interpret a statu- tory provision so as to render superfluous other provisions in  the same enactment."   Pennsylvania Public Welfare Dept.   v.  Davenport , --- U. S. ---, --- (1990) (slip op. 8).  See  also  Automobile Workers  v.  Johnson Controls, Inc. , ---  U. S. ---, --- (1991) (slip op. 12).  The scope of subsection  (b)(4) must be greater than that of subsections (b)(1), (2), and  (3).  
+ 
+ 
+ 
+  
+    We conclude that subsection (b)(4) permits the chief judge  to assign  any  Tax Court proceeding, regardless of complexity  or amount, to a special trial judge for hearing and the prepa- ration of proposed findings and written opinion.  The stat- ute's language, structure, and history permit no other  conclusion.  
+ 
+ 
+ 
+  
+ IV   This construction of  7443A raises a constitutional issue to  which we now must turn.  Petitioners submit that if subsec- tion (b)(4) permits a special trial judge to preside over the  trial of any Tax Court case, then the statute violates the Ap- pointments Clause of the Constitution, Art. II,  2, cl. 2.   According to petitioners, a special trial judge is an "Officer"  of the United States who must be appointed in compliance  with the Clause.  The Clause reads:  
+ 
+ 
+ 
+  
+  "He [the President] . . . shall nominate, and by and  with the Advice and Consent of the Senate, shall appoint  Ambassadors, other public Ministers and Consuls,  Judges of the supreme Court, and all other Officers of  the United States, whose Appointments are not herein  otherwise provided for, and which shall be established  by Law; but the Congress may by Law vest the Appoint- ment of such inferior Officers, as they think proper, in  the President alone, in the Courts of Law, or in the  Heads of Departments."  
+ 
+ 
+ 
+  
+ Thus, the Constitution limits congressional discretion to vest  power to appoint "inferior officers" to three sources: the  President alone, the Heads of Departments, and "the Courts  of Law."  Petitioners argue that a special trial judge is an  "inferior Officer," and also contend that the chief judge of the  Tax Court does not fall within any of the Constitution's three  repositories of the appointment power.  
+ 
+ 
+ 
+  
+ A   We first address the Government's argument that petition- ers have waived their right to challenge the constitutional  propriety of  7443A.  The Commissioner contends that peti- tioners waived this right not only by failing to raise a timely  objection to the assignment of their cases to a special trial  judge, but also by consenting to the assignment.  
+ 
+ 
+ 
+  
+    The roots of the separation-of-powers concept embedded in  the Appointments Clause are structural and political.  Our  separation-of-powers jurisprudence generally focuses on the  danger of one Branch's aggrandizing its power at the expense  of another Branch.  See  Mistretta  v.  United States ,  488 U.S. 361 , 382 (1989).  The Appointments Clause not only  guards against this encroachment but also preserves another  aspect of the Constitution's structural integrity by prevent- ing the diffusion of the appointment power.  
+ 
+ 
+ 
+  
+   The Commissioner correctly notes that petitioners gave  their consent to trial before the special trial judge.  This  Court in the past, however, has exercised its discretion to  consider nonjurisdictional claims that had not been raised  below.  See  Grosso  v.  United States ,  390 U.S. 62 , 71-72  (1968);  Glidden Co.  v.  Zdanok ,  370 U.S. 530 , 535-536 (1962);   Hormel  v.  Helvering ,  312 U.S. 552 , 556-560 (1941).    Glidden  expressly included Appointments Clause objections  to judicial officers in the category of nonjurisdictional struc- tural constitutional objections that could be considered on ap- peal whether or not they were ruled upon below:  
+ 
+ 
+ 
+  
+ "And in  Lamar  v.  United States ,  241 U.S. 103 , 117-118,  the claim that an intercircuit assignment . . . usurped  the presidential appointing power under Art. II,  2, was  heard here and determined upon its merits, despite the  fact that it had not been raised in the District Court or in  the Court of Appeals or even in this Court until the filing  of a supplemental brief upon a second request for re- view."   Glidden , 370 U. S., at 536 (Harlan, J., announc- ing the judgment of the Court).  
+ 
+ 
+ 
+  
+   Like the Court in  Glidden , we are faced with a constitu- tional challenge that is neither frivolous nor disingenuous.   The alleged defect in the appointment of the special trial  judge goes to the validity of the Tax Court proceeding that is  the basis for this litigation.  It is true that, as a general mat- ter, a litigant must raise all issues and objections at trial.   But the disruption to sound appellate process entailed by en- tertaining objections not raised below does not always over- come what Justice Harlan called "the strong interest of the  federal judiciary in maintaining the constitutional plan of  separation of powers."   Ibid.   We conclude that this is one  of those rare cases in which we should exercise our discretion  to hear petitioners' challenge to the constitutional authority  of the special trial judge.  
+ 
+ 
+ 
+  
+   In reaching this conclusion, we note that we are not per- suaded by the Commissioner's request that this Court defer  to the Executive Branch's decision that there has been no  legislative encroachment on presidential prerogatives under  the Appointments Clause in connection with  7443A.  Ac- cording to the Commissioner, the structural interests impli- cated in this litigation are those of the Executive Branch,  which can be expected to look out for itself.  It is claimed,  accordingly, that there is no need for this Court to be con- cerned about protecting the separation-of-powers interests at  stake here.  
+ 
+ 
+ 
+  
+    We are not persuaded by this approach.  The Commis- sioner, we believe, is in error when he assumes that the in- terest at stake is the Executive's own appointment power.   The structural principles embodied in the Appointments  Clause do not speak only or even primarily of Executive pre- rogatives simply because they are located in Article II.  The  Appointments Clause prevents Congress from dispensing  power too freely; it limits the universe of eligible recipients of  the power to appoint.  Because it articulates a limiting prin- ciple, the Appointments Clause does not always serve the  Executive's interests.  For example, the Clause forbids Con- gress from granting the appointment power to inappropriate  members of the Executive Branch.  Neither Congress nor  the Executive can agree to waive this structural protection.   "The assent of the Executive to a bill which contains a provi- sion contrary to the Constitution does not shield it from judi- cial review."   INS  v.  Chadha ,  462 U.S. 919 , 942, n. 13  (1983).  The structural interests protected by the Appoint- ments Clause are not those of any one Branch of government  but of the entire Republic.  
+ 
+ 
+ 
+  
+ B   We turn to another preliminary issue in petitioners' Ap- pointments Clause challenge.  Petitioners argue that a spe- cial trial judge is an "inferior Officer" of the United States.   If we disagree, and conclude that a special trial judge is only  an employee, petitioners' challenge fails, for such "lesser  functionaries" need not be selected in compliance with the  strict requirements of Article II.   Buckley  v.  Valeo ,  424 U.S. 1 , 126, n. 162 (1976).  
+ 
+ 
+ 
+  
+    The Commissioner, in contrast to petitioners, argues that a  special trial judge assigned under  7443A(b)(4) acts only as  an aide to the Tax Court judge responsible for deciding the  case.  The special trial judge, as the Commissioner charac- terizes his work, does no more than assist the Tax Court  judge in taking the evidence and preparing the proposed find- ings and opinion.  Thus, the Commissioner concludes, spe- cial trial judges acting pursuant to  7443A(b)(4) are employ- ees rather than "Officers of the United States."  
+ 
+ 
+ 
+  
+    "[A]ny appointee exercising significant authority pursuant  to the laws of the United States is an `Officer of the United  States,' and must, therefore, be appointed in the manner pre- scribed by  2, cl. 2, of [Art. II]."   Buckley , 424 U. S., at  126.  The two courts that have addressed the issue have held  that special trial judges are "inferior Officers."  The Tax  Court so concluded in  First Western Govt. Securities, Inc.  v.   Commissioner , 94 T. C. 549, 557-559 (1990), and the Court  of Appeals for the Second Circuit in  Samuels, Kramer & Co.   v.  Commissioner , 930 F. 2d 975, 985 (1991), agreed.  Both  courts considered the degree of authority exercised by the  special trial judges to be so "significant" that it was incon- sistent with the classifications of "lesser functionaries" or  employees.  Cf.  Go-Bart Importing Co.  v.  United States ,   282 U.S. 344 , 352-353 (1931) (United States commissioners  are inferior officers).  We agree with the Tax Court and the  Second Circuit that a special trial judge is an "inferior Offi- cer" whose appointment must conform to the Appointments  Clause.  
+ 
+ 
+ 
+  
+    The Commissioner reasons that special trial judges may be  deemed employees in subsection (b)(4) cases because they  lack authority to enter a final decision.  But this argument  ignores the significance of the duties and discretion that spe- cial trial judges possess.  The office of special trial judge is  "established by Law," Art. II,  2, cl. 2, and the duties, sal- ary, and means of appointment for that office are specified by  statute.  See  Burnap  v.  United States ,  252 U.S. 512 , 516- 517 (1920);  United States  v.  Germaine ,  99 U.S. 508 , 511-512  (1879).  These characteristics distinguish special trial judges  from special masters, who are hired by Article III courts on a  temporary, episodic basis, whose positions are not estab- lished by law, and whose duties and functions are not delin- eated in a statute.  Furthermore, special trial judges per- form more than ministerial tasks.  They take testimony,  conduct trials, rule on the admissibility of evidence, and have  the power to enforce compliance with discovery orders.  In  the course of carrying out these important functions, the spe- cial trial judges exercise significant discretion.  
+ 
+ 
+ 
+  
+    Even if the duties of special trial judges under subsection  (b)(4) were not as significant as we and the two courts have  found them to be, our conclusion would be unchanged.   Under  7443A(b)(1), (2), and (3), and (c), the chief judge  may assign special trial judges to render the decisions of the  Tax Court in declaratory judgment proceedings and limited- amount tax cases.  The Commissioner concedes that in cases  governed by subsections (b)(1), (2), and (3), special trial  judges act as inferior officers who exercise independent au- thority.  But the Commissioner urges that petitioners may  not rely on the extensive power wielded by the special trial  judges in declaratory judgment proceedings and limited- amount tax cases because petitioners lack standing to assert  the rights of taxpayers whose cases are assigned to special  trial judges under subsections (b)(1), (2), and (3).  
+ 
+ 
+ 
+  
+    This standing argument seems to us to be beside the point.   Special trial judges are not inferior officers for purposes of  some of their duties under  7443A, but mere employees with  respect to other responsibilities.  The fact that an inferior  officer on occasion performs duties that may be performed by an employee not subject to the Appointments Clause does  not transform his status under the Constitution.  If a special  trial judge is an inferior officer for purposes of subsec- tions (b)(1), (2), and (3), he is an inferior officer within the  meaning of the Appointments Clause and he must be prop- erly appointed.  
+ 
+ 
+ 
+  
+ C   Having concluded that the special trial judges are "inferior  Officers," we consider the substantive aspect of petitioners'  Appointments Clause challenge.  The principle of separation  of powers is embedded in the Appointments Clause.  Its rel- evant language bears repeating: "[T]he Congress may by  Law vest the Appointment of such inferior Officers, as they  think proper, in the President alone, in the Courts of Law, or  in the Heads of Departments."  Congress clearly vested the  chief judge of the Tax Court with the power to appoint spe- cial trial judges.  An important fact about the appointment  in this case should not be overlooked.  This case does not in- volve an "interbranch" appointment.  Cf.  Morrison  v.  Olsen ,   487 U.S. 654 , 675-677 (1988).  However one might classify  the chief judge of the Tax Court, there surely is nothing in- congruous about giving him the authority to appoint the clerk  or an assistant judge for that court.  See  id. , at 676.  We do  not consider here an appointment by some officer of inferior  officers in, for example, the Department of Commerce or De- partment of State.  The appointment in this case is so obvi- ously appropriate that petitioners' burden of persuading us  that it violates the Appointments Clause is indeed heavy.  
+ 
+ 
+ 
+  
+   Although petitioners bear a heavy burden, their challenge  is a serious one.  Despite Congress' authority to create of- fices and to provide for the method of appointment to those  offices, "Congress' power . . . is inevitably bounded by the  express language of Article II and unless the method it pro- vides comports with the latter, the holders of those offices  will not be `Officers of the United States.' "   Buckley , 424  U. S., at 138-139 (discussing Congress' power under the  Necessary and Proper Clause).  
+ 
+ 
+ 
+  
+    The "manipulation of official appointments" had long been  one of the American revolutionary generation's greatest  grievances against executive power, see G. Wood, The Cre- ation of The American Republic 1776-1787, p. 79 (1969)  (Wood), because "the power of appointment to offices" was  deemed "the most insidious and powerful weapon of eigh- teenth century despotism."   Id. , at 143.  Those who framed  our Constitution addressed these concerns by carefully hus- banding the appointment power to limit its diffusion.  Al- though the debate on the Appointments Clause was brief, the  sparse record indicates the Framers' determination to limit  the distribution of the power of appointment.  The Constitu- tional Convention rejected Madison's complaint that the Ap- pointments Clause did "not go far enough if it be necessary at  all": Madison argued that "Superior Officers below Heads of  Departments ought in some cases to have the appointment of  the lesser offices."  2 Records of the Federal Convention of  1787, pp. 627-628 (M. Farrand rev. 1966).  The Framers un- derstood, however, that by limiting the appointment power,  they could ensure that those who wielded it were accountable  to political force and the will of the people.  Thus, the Clause  bespeaks a principle of limitation by dividing the power to ap- point the principal federal officers -- Ambassadors, Ministers,  Heads of Departments, and Judges -- between the Executive  and Legislative Branches.  See  Buckley , 424 U. S., at  129-131.  Even with respect to "inferior officers," the Clause  allows Congress only limited authority to devolve appoint- ment power on the President, his Heads of Departments, and  the Courts of Law.  
+ 
+ 
+ 
+  
+    With this concern in mind, we repeat petitioners' central  challenge: Can the chief judge of the Tax Court constitution- ally be vested by Congress with the power to appoint?  The  Appointments Clause names the possible repositories for the  appointment power.  It is beyond question in this litigation  that Congress did not intend to grant to the President the  power to appoint special trial judges.  We therefore are left  with three other possibilities.  First, as the Commissioner  urges, the Tax Court could be treated as a department with  the chief judge as its head.  Second, as the  Amicus  suggests,  the Tax Court could be considered one of "the Courts of  Law."  Third, we could agree with petitioners that the Tax  Court is neither a "Department" nor a "Court of Law."   Should we agree with petitioners, it would follow that the ap- pointment power could not be vested in the chief judge of the  Tax Court.  
+ 
+ 
+ 
+  
+    We first consider the Commissioner's argument.  Accord- ing to the Commissioner, the Tax Court is a department be- cause for 45 years before Congress designated that court as a  "court of record" under Article I, see  7441, the body was an  independent agency (the predecessor Board of Tax Appeals)  within the Executive Branch.  Furthermore, the Commis- sioner argues that  7441 simply changed the status of the  Tax Court within that Branch.  It did not remove the body  to a different Branch or change its substantive duties.  
+ 
+ 
+ 
+  
+    The Commissioner "readily" acknowledges that "the Tax  Court's fit within the Executive Branch may not be a perfect  one."  Brief for Respondent 41.  But he argues that the Tax  Court must fall within one of the three Branches and that the  Executive Branch provides its best home.  The reasoning of  the Commissioner may be summarized as follows: (1) The Tax  Court must fit into one of the three Branches; (2) it does not  fit into either the Legislative Branch or the Judicial Branch;  (3) at one time it was an independent agency and therefore it  must fit into the Executive Branch; and (4) every component  of the Executive Branch is a department.  
+ 
+ 
+ 
+  
+    We cannot accept the Commissioner's assumption that  every part of the Executive Branch is a department the head  of which is eligible to receive the appointment power.  The  Appointments Clause prevents Congress from distributing  power too widely by limiting the actors in whom Congress  may vest the power to appoint.  The Clause reflects our  Framers' conclusion that widely distributed appointment  power subverts democratic government.  Given the inexora- ble presence of the administrative state, a holding that every  organ in the Executive Branch is a department would multi- ply indefinitely the number of actors eligible to appoint.  The  Framers recognized the dangers posed by an excessively dif- fuse appointment power and rejected efforts to expand that  power.  See Wood, at 79-80.  So do we.  For the chief  judge of the Tax Court to qualify as a "Head of a Depart- ment," the Commissioner must demonstrate not only that the  Tax Court is a part of the Executive Branch but also that it is  a department.  
+ 
+ 
+ 
+  
+    We are not so persuaded.  This Court for more than a cen- tury has held that the term "Department" refers only to " `a  part or division of the executive government, as the Depart- ment of State, or of the Treasury,' " expressly "creat[ed]" and  "giv[en] . . . the name of a department" by Congress.    Germaine , 99 U. S., at 510-511.  See also  Burnap , 252  U. S., at 515 ("The term head of a Department means . . .  the Secretary in charge of a great division of the executive  branch of the Government, like the State, Treasury, and  War, who is a member of the Cabinet").  Accordingly, the  term "Heads of Departments" does not embrace "inferior  commissioners and bureau officers."   Germaine , 99 U. S., at  511.  
+ 
+ 
+ 
+  
+    Confining the term "Heads of Departments" in the Ap- pointments Clause to executive divisions like the Cabinet- level departments constrains the distribution of the appoint- ment power just as the Commissioner's interpretation, in  contrast, would diffuse it.  The Cabinet-level departments  are limited in number and easily identified.  Their heads are  subject to the exercise of political oversight and share the  President's accountability to the people.  
+ 
+ 
+ 
+  
+    Such a limiting construction also ensures that we interpret  that term in the Appointments Clause consistently with its  interpretation in other constitutional provisions.  In   Germaine , see 99 U. S., at 511, this Court noted that the  phrase "Heads of Departments" in the Appointments Clause  must be read in conjunction with the Opinion Clause of Art.  II,  2, cl. 1.  The Opinion Clause provides that the Presi- dent "may require the Opinion, in writing, of the principal Of- ficer in each of the Executive Departments," and  Germaine   limited the meaning of "Executive Department" to the Cabi- net members.  
+ 
+ 
+ 
+  
+    The phrase "executive departments" also appears in  4 of  the Twenty-fifth Amendment, which empowers the Vice  President, together with a majority of the "principal officers  of the executive departments," to declare the President "un- able to discharge the powers and duties of his office."  U. S.  Const., Amdt. 25,  4.  The Amendment was ratified Febru- ary 10, 1967, and its language, of course, does not control our  interpretation of a prior constitutional provision, such as the  Appointments Clause.
+ 
+ 
+ 
+   [n.4]   
+ 
+ 
+ 
+   Nevertheless, it is instructive that  the hearings on the Twenty-fifth Amendment confirm that  the term "department" refers to Cabinet-level entities:  
+ 
+ 
+ 
+  
+ "[O]nly officials of Cabinet rank should participate in the  decision as to whether presidential inability exists. . . .   The intent . . . is that the Presidential appointees who  direct the 10 executive departments named in  5 U.S.C.  1  [now codified as  101], or any executive department  established in the future, generally considered to com- prise the President's Cabinet, would participate .   .   . in determining inability."  H. R. Rep. No. 203, 89th  Cong., 1st Sess., 3 (1965).  
+ 
+ 
+ 
+  
+    Treating the Tax Court as a "Department" and its chief  judge as its "Head" would defy the purpose of the Appoint- ments Clause, the meaning of the Constitution's text, and the  clear intent of Congress to transform the Tax Court into an  Article I legislative court.  The Tax Court is not a  "Department."  
+ 
+ 
+ 
+  
+    Having so concluded, we now must determine whether it is  one of the "Courts of Law," as  Amicus  suggests.  Petition- ers and the Commissioner both take the position that the Tax  Court cannot be a "Court of Law" within the meaning of the  Appointments Clause because, they say, that term is limited  to Article III courts.
+ 
+ 
+ 
+   [n.5]   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+    The text of the Clause does not limit "the Courts of Law"  to those courts established under Article III of the Constitu- tion.  The Appointments Clause does not provide that Con- gress can vest appointment power only in "one supreme  Court" and other courts established under Article III, or only  in tribunals that exercise broad common-law jurisdiction.   Petitioners argue that Article II's reference to "the Courts of  Law" must be limited to Article III courts because Article  III courts are the only courts mentioned in the Constitution.   It of course is true that the Constitution "nowhere makes  reference to `legislative courts.' "  See  Glidden , 370 U. S., at 543.  But petitioners' argument fails nevertheless.  We  agree with petitioners that the Constitution's terms are illu- minated by their cognate provisions.  This analytic method  contributed to our conclusion that the Tax Court could not be  a department.  Petitioners, however, underestimate the im- portance of this Court's time-honored reading of the Con- stitution as giving Congress wide discretion to assign the  task of adjudication in cases arising under federal law to leg- islative tribunals.  See,  e. g. ,  American Ins. Co.  v.  Canter ,  1 Pet. 511, 546 (1828) (the judicial power of the United States  is not limited to the judicial power defined under Art. III and  may be exercised by legislative courts);  Williams  v.  United    States ,  289 U.S. 553 , 565-567 (1933) (same).  
+ 
+ 
+ 
+  
+    Our cases involving non-Article III tribunals have held  that these courts exercise the judicial power of the United  States.  In both  Canter  and  Williams , this Court rejected  arguments similar to the literalistic one now advanced by pe- titioners, that only Article III courts could exercise the judi- cial power because the term "judicial Power" appears only in  Article III.  In  Williams , this Court explained that the  power exercised by some non-Article III tribunals  is  judicial  power:  
+ 
+ 
+ 
+  
+ "The Court of Claims . . . undoubtedly . . . exercises ju- dicial power, but the question still remains -- and is the  vital question -- whether it is the judicial power defined  by Art. III of the Constitution.  
+ 
+ 
+ 
+  
+    "That judicial power apart from that article may be  conferred by Congress upon legislative courts . . . is  plainly apparent from the opinion of Chief Justice Mar- shall in  American Insurance Co.  v.  Canter  . . . dealing  with the territorial courts. . . .  [T]he legislative courts  possess and exercise judicial power . . . although not  conferred in virtue of the third article of the Constitu- tion."  289 U. S., at 565-566.  
+ 
+ 
+ 
+  
+ We cannot hold that an Article I court, such as the Court of  Claims in  Williams  or the territorial court of Florida in   Canter  can exercise the judicial power of the United States  and yet cannot be one of the "Courts of Law."  
+ 
+ 
+ 
+  
+    Nothing in  Buckley  v.  Valeo  contradicts this conclusion.   While this Court in  Buckley  paraphrased the Appointments  Clause to allow the appointment of inferior officers "by the  President alone, by the heads of departments, or by the Judi- ciary," 424 U. S., at 132, we did not hold that "Courts of  Law" consist only of the Article III judiciary.  The appoint- ment authority of the "Courts of Law" was not before this  Court in  Buckley .  Instead, we were concerned with  whether the appointment of Federal Elections Commission- ers by Congress was constitutional under the Appointments  Clause.  
+ 
+ 
+ 
+  
+    The narrow construction urged by petitioners and the  Commissioner also would undermine longstanding practice.   "[F]rom the earliest days of the Republic," see  Northern    Pipeline Construction Co.  v.  Marathon Pipe Line Co. ,  458 U.S. 50 , 64 (1982), Congress provided for the creation of leg- islative courts and authorized those courts to appoint clerks,  who were inferior officers.  See,  e. g. ,  In re Hennen , 13 Pet.  230 (1839).  Congress' consistent interpretation of the Ap- pointments Clause evinces a clear congressional understand- ing that Article I courts could be given the power to appoint.   Because " `traditional ways of conducting government . . .  give meaning' to the Constitution,' "  Mistretta , 488 U.S, at  401, quoting  Youngstown Sheet & Tube Co.  v.  Sawyer , 343  U. S., at 610 (concurring opinion), this longstanding interpre- tation provides evidence that Article I courts are not pre- cluded from being "Courts of Law" within the meaning of the  Appointments Clause.  
+ 
+ 
+ 
+  
+    Having concluded that an Article I court, which exercises  judicial power, can be a "Court of Law," within the meaning  of the Appointments Clause, we now examine the Tax  Court's functions to define its constitutional status and its  role in the constitutional scheme.  See  Williams , 289 U. S.,  at 563-567.  The Tax Court exercises judicial, rather than  executive, legislative, or administrative power.  It was es- tablished by Congress to interpret and apply the Internal  Revenue Code in disputes between taxpayers and the Gov- ernment.  By resolving these disputes, the court exercises a  portion of the judicial power of the United States.  
+ 
+ 
+ 
+  
+    The Tax Court exercises judicial power to the exclusion of  any other function.  It is neither advocate nor rulemaker.   As an adjudicative body, it construes statutes passed by Con- gress and regulations promulgated by the Internal Revenue  Service.  It does not make political decisions.  
+ 
+ 
+ 
+  
+    The Tax Court's function and role in the federal judicial  scheme closely resemble those of the federal district courts,  which indisputably are "Courts of Law."  Furthermore, the  Tax Court exercises its judicial power in much the same way  as the federal district courts exercise theirs.  It has author- ity to punish contempts by fine or imprisonment,  26 U.S.C.  7456 (c); to grant certain injunctive relief,  6213(a); to order  the Secretary of the Treasury to refund an overpayment de- termined by the court,  6512(b)(2); and to subpoena and ex- amine witnesses, order production of documents, and admin- ister oaths,  7456(a).  All these powers are quintessentially  judicial in nature.  
+ 
+ 
+ 
+  
+    The Tax Court remains independent of the Executive and  Legislative Branches.  Its decisions are not subject to re- view by either the Congress or the President.  Nor has  Congress made Tax Court decisions subject to review in the  federal district courts.  Rather, like the judgments of the  district courts, the decisions of the Tax Court are appealable  only to the regional United States Courts of Appeals, with  ultimate review in this Court.  The Courts of Appeals, more- over, review those decisions "in the same manner and to the  same extent as decisions of the district courts in civil actions  tried without a jury."   7482(a).  This standard of review  contrasts with the standard applied to agency rulemaking by  the Courts of Appeals under  10(e) of the Administrative  Procedure Act,  5 U.S.C.  706 (2)(A).  See  Motor Vehicle    Mfrs. Ass'n  v.  State Farm Mutual Auto Ins. Co. ,  463 U.S. 29 , 43-44 (1983).  
+ 
+ 
+ 
+  
+    The Tax Court's exclusively judicial role distinguishes it  from other non-Article III tribunals that perform multiple  functions and provides the limit on the diffusion of appoint- ment power that the Constitution demands.  Moreover,  since the early 1800s, Congress regularly granted non-Article  III territorial courts the authority to appoint their own clerks  of court, who, as of at least 1839, were "inferior Officers"  within the meaning of the Appointments Clause.  See  In re    Hennen , 13 Pet., at 258.  Including Article I courts, such as  the Tax Court, that exercise judicial power and perform ex- clusively judicial functions among the "Courts of Law" does  not significantly expand the universe of actors eligible to re- ceive the appointment power.  
+ 
+ 
+ 
+  
+    The judgment of the Court of Appeals is affirmed.  
+ 
+ 
+ 
+  
+    
+ 
+ 
+ 
+  
+ It is so ordered.                                 
+ 
+ 
+ 
+  
+   Notes    1 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  At oral argument, counsel for petitioners described the litigation in this  way:  
+ 
+ 
+ 
+  
+  "This is a tax case with implications for up to 3,000 taxpayers and a bil- lion and a half in alleged tax deficiencies, and it involved one of the longest  trials below in the tax court's history -- 14 weeks of evidence, complex fi- nancial testimony, 9,000 pages of transcripts, 3,000-plus exhibits."  Tr. of  Oral Arg. 3.  
+ 
+ 
+ 
+  
+ Counsel also stated petitioners' primary position:  
+ 
+ 
+ 
+  
+  "In other words, just to put our point succinctly, Congress did not and  could not have intended special trial judges in large, complex, multiparty,  multimillion dollar tax shelter cases -- alleged tax shelter cases such as this  one -- Congress did not and could not have intended such cases to be in ef- fect decided by the autonomous actions of a special trial judge."   Id. , at 17.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  2 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  Petitioners place some emphasis on the facts that Special Trial Judge  Powell filed his proposed findings and opinion with the Tax Court on Octo- ber 21, 1987; that on that day the chief judge issued an order reassigning  the litigation to himself for disposition, App. 15; and that on that same day  the chief judge adopted the opinion of Judge Powell.  Brief for Petitioners  8-9.  Indeed, the opinion, including its appendix, covers 44 pages in the  Tax Court Reports.  At oral argument, however, counsel observed that  Judge Powell "sometime in the preceding 4 months had filed a report with  the Chief Judge of the tax court."  Tr. of Oral Arg. 11.  In any event, this  chronology does not appear to us to be at all significant.  The chief judge  had the duty to review the work of the special trial judge, and there is  nothing in the record disclosing how much time he devoted to the task.  As  chief judge he was aware of the presence of the several cases in the court  and the magnitude of the litigation.  The burden of proof as to any nega- tive inference to be drawn from the time factor rests on petitioners.  We  are not inclined to assume "rubber stamp" activity on the part of the chief  judge.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  3 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  Petitioners also argue that the deferential standard with which Tax  Court Rule 183 requires a Tax Court judge to review the factual findings of  a special trial judge allows the latter not only to hear a case but effectively  to resolve it.  This point is not relevant to our grant of certiorari, which  concerned the question whether the assignment of petitioners' cases to a  special trial judge was authorized by  26 U.S.C.  7443 A(b)(4).  Accord- ingly, we say no more about this new argument than to note that under   7443A(c), a special trial judge has no authority to decide a case assigned  under subsection (b)(4).  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  4 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  Because the language of the Twenty-fifth Amendment does not bind  our interpretation of the Appointments Clause, the fact that the Amend- ment strictly limits the term "Department" to those departments named in   5 U.S.C.  101  does not provide a similar limitation on the term "De partment" within the meaning of the Appointments Clause.  We do not  address here any question involving an appointment of an inferior officer  by the head of one of the principal agencies, such as the Federal Trade  Commission, the Securities Exchange Commission, the Federal Energy  Regulatory Commission, the Central Intelligence Agency, and the Federal  Reserve Bank of St. Louis.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  5 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  The Commissioner has not been consistent in this position.  Indeed,  when the present litigation was in the Fifth Circuit, the Government advo- cated that the Tax Court is one of the "Courts of Law."  Brief for Appellee  47-51.  It abandoned that position in the later case of  Samuels, Kramer &    Co.  v.  Commissioner , 930 F. 2d 975 (CA2 1991), and there urged that the  Tax Court was a "Department."  Brief for Appellee 34-48.  
+ 
+ 
+ 
+  
+    
+
+

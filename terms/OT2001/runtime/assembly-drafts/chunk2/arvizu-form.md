@@ -1,0 +1,3 @@
+﻿# Arvizu form determination before assignment recount
+
+One signed unanimous Court opinion will state the contextual method, independent ultimate review with protected historical facts and genuine contextual weight, the sufficient supported pre-stop combination, and remand of preserved independent consent issues. Scalia joins the entire existing-law application and writes separately to preserve his criticism of inferential deference as conceptually inconsistent with independent review; the concurrence changes no operative join. All nine fully support the Court's governing propositions. No division or separate controlling part is needed, and no counts inform that determination.

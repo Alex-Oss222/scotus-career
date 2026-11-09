@@ -6,11 +6,11 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-Sixteen chunk 1 Court events are completed. The latest processed event date is 2002-01-09. The next eligible manifest matters are Kelly v. South Carolina; Riley v. St. Luke’s Episcopal Hospital on 2002-01-09. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date. Chao v. Mallard Bay Drilling, Inc., dated 2002-01-09, supplies no entering law or prior published position to the remaining January 9 matters. For those matters, select only earlier-date public law and positions. Chronological processing and authorship assignment order do not create legal priority.
+Thirty-one Court events in chunks 1 and 2 are completed. The latest processed event date is 2002-02-20. The next eligible manifest matters are Porter v. Nussle and Swierkiewicz v. Sorema N. A. on 2002-02-26. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date. Chronological processing and authorship assignment order do not create legal priority. Romeu v. Cohen remains open at its February 19 position in the calendar, awaiting renewed control validation; no Court action or new effective date is inferred.
 
-## Current law available before the next shared date
+## Current law available before the next event
 
-The following public rules and positions precede the next January 9 events. Chao's January 9 substance is retained in the full chronological reading copy and continuity but excluded from this entering-law summary for those same-date matters.
+The opening Holdings and Standards and Tests remain authoritative at their published scope, as affected by the following effective current-term law. Exact controlling propositions and precedent treatment remain in the linked public-law sections and authoritative Records.
 
 ### Brown v. City of Oneonta — 2001-11-13
 
@@ -102,6 +102,102 @@ The original ADA now requires the stated severe restriction in central daily-lif
 
 Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK1_PUBLIC_LAW.md#toyota-motor-manufacturing-kentucky-inc-v-williams-merits-2002-01-08).
 
+### Chao v. Mallard Bay Drilling, Inc. — 2002-01-09
+
+OSHA retains authority over these working conditions because Coast Guard potential authority was not exercised through pertinent standards or comprehensive regulation. Work on a barge in Louisiana falls within §4(a), subject independently to any displacement actually established under §4(b)(1). Actual overlap, rather than vessel status alone, governs other settings.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK1_PUBLIC_LAW.md#chao-v-mallard-bay-drilling-inc-merits-2002-01-09).
+
+### Kelly v. South Carolina — 2002-01-09
+
+Effective January 9, 2002, the combined future-danger presentation triggers Simmons despite its concurrent character and prison-adaptability uses, and the actual defense argument and ordinary-meaning charge are constitutionally inadequate. The existing contextual trigger, effective alternative means of explanation and State-burden direct-review harmlessness standard remain in force. The danger and adequacy determinations bind the remand; the state court must perform the distinct error-effect inquiry. No controlling rationale requires fixed words or treats every omission as structural error.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#kelly-v-south-carolina-merits-2002-01-09).
+
+### Riley v. St. Luke's Episcopal Hospital — 2002-01-09
+
+The FCA's bounded assigned-claim mechanism may constitutionally continue after initial governmental declination. Its private claimant does not occupy a continuing federal office, and the actual retained government powers, with their distinct statutory conditions, are sufficient for the arrangement presented. These Article II conclusions are separate from assigned-injury standing and statutory defendant coverage. They authorize no general private executive office and do not decide an actual judicial override of a supported government request absent from this record.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#riley-v-st-lukes-episcopal-hospital-merits-2002-01-09).
+
+### EEOC v. Waffle House, Inc. — 2002-01-15
+
+The FAA supplies no bar for this excluded employment agreement. Independently, an employee's private forum promise does not remove Congress's individual-remedy categories from the EEOC's own enforcement action, even if the promise binds the employee under an independent source. Liability and every actual award remain governed by their statutory predicates, mitigation rules and nonduplication limits. Concrete adjudication, release, settlement and satisfaction questions await a record establishing them.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#eeoc-v-waffle-house-inc-merits-2002-01-15).
+
+### In re Cybernetic Services, Inc. — 2002-01-15
+
+A nonownership patent security interest otherwise perfected under the governing California law needs no additional section 261 filing to prevail against this section 544(a)(1) trustee. Transaction coverage and protected-transferee status remain independent federal inquiries. Both former California withdrawal provisions retain transaction-specific operation and do not replace state perfection with a federal ownership register that lacks a perfection system for this interest. The Court leaves actual ownership-transfer and purchaser contests to their own preserved facts and statutory analysis.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#in-re-cybernetic-services-inc-merits-2002-01-15).
+
+### Thomas v. Chicago Park District — 2002-01-15
+
+Genuinely neutral park coordination may use the ordinance's objective grounds, bounded administrative timetable, written reasons, correction and alternative-scheduling provisions, and review without requiring the District to initiate a censorship proceeding after each denial. Permissive forgiveness of a listed defect does not itself create facially unbounded discretion. The same structure remains subject to meaningful review and to properly presented challenges to viewpoint discrimination, actual delay or other unauthorized administration. No automatic-issuance rule or universal court-decision deadline is established.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#thomas-v-chicago-park-district-merits-2002-01-15).
+
+### United States v. Arvizu — 2002-01-15
+
+Supported observations capable of innocent explanations retain their actual contextual force but gain no automatic positive weight by accumulation. Independent judicial review determines whether their relationships supply individualized suspicion. This pre-stop combination meets that standard without neighborhood stigma, proof of an observed offense or post-stop contraband. The lawful-stop conclusion leaves the independent authority for the ensuing search to the preserved consent questions.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#united-states-v-arvizu-merits-2002-01-15).
+
+### National Cable & Telecommunications Assn., Inc. v. Gulf Power Co. — 2002-01-16
+
+Section 224's general coverage encompasses qualifying mixed cable-Internet and wireless telecommunications attachments. A gap or dispute about an applicable rate formula does not itself create a jurisdictional exclusion. The statutory formulas, ownership and provider limits, and qualifying state-regulation allocation retain their force. These are new coverage holdings; no Internet-service classification or particular rate is approved.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#national-cable-telecommunications-assn-inc-v-gulf-power-co-merits-2002-01-16).
+
+### Kansas v. Crane — 2002-01-22
+
+The serious-difficulty requirement is a new controlling due-process rule for the civil-commitment question presented. Courts must examine actual functional impairment connected to the qualifying condition and dangerous conduct, while retaining the applicable statutory burden. The functional rule governs application on remand; whether the existing verdict and evidence satisfy it is factual and remedial work, not unresolved law. Separate retrospective-punishment claims retain their own demanding proof and temporal requirements.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#kansas-v-crane-merits-2002-01-22).
+
+### Lee v. Kemna — 2002-01-22
+
+The adequate-state-ground doctrine now expressly reaches this exceptional application of Missouri's continuance requirements. Useful, regularly applied procedural requirements remain enforceable, but their ordinary legitimacy does not make an exorbitant application adequate. Removal of this particular default barrier leaves the due-process merits, remaining lawful habeas restrictions and entitlement to relief for their own adjudication.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#lee-v-kemna-merits-2002-01-22).
+
+### United States v. Microsoft Corp. — 2002-01-22
+
+The presented platform/browser combination receives a restriction-specific rule-of-reason inquiry, with existing tying categories preserved outside this setting and the case's unpresented-claim limits retained. Section 455(a)'s appearance rule remains objective. Civil relief from an established violation depends on all three Liljeberg interests; on this record they require a new judge to assess and reconsider material liability foundations where meaningful independence cannot be established, beyond replacement of the remedial decree. The factual competitive balance, individual findings' binding status and appropriate relief are remand applications of those rules.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#united-states-v-microsoft-corp-merits-2002-01-22).
+
+### Barnhart v. Sigmon Coal Co. — 2002-02-19
+
+Direct asset succession to an original signatory is insufficient by itself for the challenged statutory assignments. Independently qualifying related persons, the separate prospective assignment-transfer mechanism and enforceable contractual obligations remain governed by their own conditions. This is a statutory coverage rule, not a general immunity for asset purchasers or a constitutional invalidation of the program.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#barnhart-v-sigmon-coal-co-merits-2002-02-19).
+
+### Igartua De La Rosa v. United States — 2002-02-19
+
+Courts may enforce applicable constitutional rights in Puerto Rico, but may not order this territorial presidential-elector appointment and count without a constitutional allocation. The present allocation differs from equal administration of an existing State's electorate. The judgment resolves the preserved claim and leaves the unappealed and outside-scope questions in their existing posture.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#igartua-de-la-rosa-v-united-states-merits-2002-02-19).
+
+### Owasso Independent School District No. I-011 v. Falvo — 2002-02-19
+
+Temporary peer grading and immediate reporting in the described instructional process do not constitute institutional maintenance of education records. FERPA coverage requires both relation to the student and the statutory maintenance function. Record location is not a categorical condition; later institutional retention and the private-enforcement question remain distinct.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#owasso-independent-school-district-no-i-011-v-falvo-merits-2002-02-19).
+
+### Winn-Dixie Stores, Inc. v. Commissioner — 2002-02-20
+
+The four-of-seven exception is not a statutory safe harbor from substantive-sham scrutiny. This arrangement's accepted lack of both nontax business purpose and pretax profit potential supports the disallowance. Transactions with meaningful economic substance, mixed findings or an affirmative statutory incentive remain governed by their own legal and factual predicates.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#winn-dixie-stores-inc-v-commissioner-merits-2002-02-20).
+
+### Wisconsin Department of Health and Family Services v. Blumer — 2002-02-20
+
+States may use the income-first method in the section 1396r-5(e)(2)(C) resource-allowance hearing while respecting ownership attribution, the optional character of transfer, and the actual-availability condition for a posteligibility deduction. A lawful forecast is not an accomplished transfer. Resource inadequacy, exceptional financial duress and court-ordered support retain their separate statutory treatments.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#wisconsin-department-of-health-and-family-services-v-blumer-merits-2002-02-20).
+
 ## Material published noncontrolling positions
 
 ### TRW Inc. v. Andrews — 2001-11-13
@@ -168,6 +264,90 @@ Chief Justice Stone-Zsela concurs in the occupational-shortcut and mitigation pr
 
 These are published noncontrolling positions, with the scope and joins shown in the [public opinion account](../entering-law/OT_2001CHUNK1_PUBLIC_LAW.md#toyota-motor-manufacturing-kentucky-inc-v-williams-merits-2002-01-08).
 
+### Kelly v. South Carolina — 2002-01-09
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part, joined by no other Justice.** He joins Part I in full. The escape planning and proposed violence while confined invited the inference that the omitted parole information answers. Under Chapman, the complete presentation leaves reasonable doubt whether the misleading sentencing premise contributed to death. Strong aggravation does not resolve that separate inquiry. He would therefore reverse the death-sustaining judgment and require a new lawful penalty proceeding now if the State continues to seek death, preserving guilt. This is a record-specific harmfulness determination, not structural error or an automatic new-hearing rule in every capital case. Simmons and Shafer supply the governing protection and the separate error-effect standard; his disagreement concerns its application and the resulting immediate remedy.
+
+**Justice Scalia, dissenting, joined by no other Justice.** He would affirm against this federal claim because the Constitution does not supply this further parole-information obligation. Gardner's unavailable adverse material and Skipper's excluded rebuttal evidence do not establish a general duty to explain parole law. He accepts Shafer's account of the statutory alternatives without joining the new constitutional application. Treating evidence capable of forecasting danger as sufficient risks erasing Simmons's conditional limit. He resolves neither informational adequacy nor harmlessness and does not join the other dissents.
+
+**Justice Kennedy, dissenting, joined by no other Justice.** He accepts Simmons and Shafer's contextual rule but finds the trigger absent here. In his view the State actually used the material for retribution, character and inability to adapt safely to prison, rather than meaningfully invoking danger from ordinary future release. Parole ineligibility does not answer danger to guards or an escape risk. Evidence capable of supporting a prediction is not necessarily a State invocation of the particular danger the rule addresses. He requires no verbal formula and does not deny that circumstantial evidence can establish the trigger on a different record. He would affirm without separately deciding adequacy or error effect.
+
+**Justice Thomas, dissenting, joined by no other Justice.** Assuming the sentencing alternatives and future-danger predicate, he finds the actual information adequate. Defense argument conveyed permanent imprisonment, the judge directed the ordinary meaning of life, and the jury received neither a direction barring parole consideration nor a response to a parole inquiry that displaced the explanation. The good-time evidence also belongs in the full presentation. As in his Shafer dissent, substance can satisfy Simmons without the requested statutory formula. He therefore would affirm for compliance, not absence of danger or harmlessness. His constitutional disagreement with Simmons remains a reservation, not an independent ground, and he makes no finding about the jurors' actual beliefs.
+
+All four separate positions are noncontrolling at the stated scope. The case returns to South Carolina for the Chapman determination; the federal merits event is complete, while state sentencing proceedings continue under the mandate. No later state result or external consequence is admitted, and no roster or institutional change occurs.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#kelly-v-south-carolina-merits-2002-01-09).
+
+### Riley v. St. Luke's Episcopal Hospital — 2002-01-09
+
+**Justice Scalia, dissenting, joined by Justice Thomas.** They would reverse on both Article II grounds and bar this nonintervened prosecution while preserving lawful governmental enforcement. A partial financial assignment does not eliminate the sovereign's retained claim, penalties, settlement interests or exposure to a binding judgment. In their view, initiation and prosecution of that public component exercise executive power through a statutory role continuing until the suit ends. The Executive neither selected this prosecutor nor possesses the ordinary chain of direction that execution of the laws requires.
+
+Scalia's Morrison dissent supplies his executive-control premise; Vermont Agency's assignment-based standing opinion expressly reserves this distinct Article II question. His and Thomas's published Laidlaw concern about private public-law enforcement likewise distinguishes an injured claimant from uncontrolled governmental enforcement. Edmond, Hilario and Landry require attention to actual authority, appointment and supervision rather than final judgment power alone. The relator's financial incentive and title do not remove the significant public function. Early qui tam practice and a court-bound assigned claim are substantial contrary considerations, but they do not cure prosecution of the retained public interest without lawful appointment and constitutionally adequate direction.
+
+The statutory safeguards are real but conditional. Later intervention requires good cause, dismissal requires notice and a hearing opportunity, settlement has its separate judicial standard, and discovery protection depends on its stated showing. These measures do not supply the missing selection and direction. The dissent does not demand presidential at-will removal of every inferior officer or decide every private statutory action. It would return for the procedural consequence of disallowing Riley's nonintervened prosecution, including any lawful governmental election, without invalidating section 3730(a), dismissing government claims with prejudice, presuming intervention or appointment, or treating the entire Act as inseverable.
+
+These are the complete material noncontrolling positions of Scalia and Thomas in their common dissent. The federal merits event is complete; the Fifth Circuit's remand remains operative. No liability finding, subsequent governmental election, external consequence or institutional change is admitted.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#riley-v-st-lukes-episcopal-hospital-merits-2002-01-09).
+
+### EEOC v. Waffle House, Inc. — 2002-01-15
+
+**Justice Thomas, concurring in part and dissenting in part, joined by Justice Scalia.** They join Part I because Circuit City's governing employment exclusion removes the FAA as a source of enforcement, despite their continuing disagreement with that precedent. They also join Part III's ordinary liability, remedy and nonduplication conditions. The Commission may bring its independent public action and cannot itself be compelled to arbitrate.
+
+They reject Parts II and IV because nonparty assent does not answer whether a court should grant relief for Baker's individual injury in disregard of his own enforceable commitment. Section 706(g)'s requirement of appropriate relief and the distinction between permission to sue and entitlement to a particular remedy, in their view, require respect for a valid beneficiary promise even though broader public relief remains available. First Options addresses actual assent to arbitration, not that distinct remedial question; Great-West similarly preserves attention to the statute authorizing the particular remedy.
+
+The FAA cannot establish enforceability here. They would therefore vacate its categorical restriction and remand to consider any properly available independent state-law ground, the promise's actual scope, and its consequence for individual relief under their view. They presume neither a valid independent ground nor a completed arbitration, and ordinary preservation limits remain. Their position does not compel arbitration of the agency or affirm the existing restriction on a displaced FAA premise.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#eeoc-v-waffle-house-inc-merits-2002-01-15).
+
+### United States v. Arvizu — 2002-01-15
+
+**Justice Scalia, concurring, joined by no other Justice.** He joins the Court's full application of governing law and its reversal and bounded remand. He retains his Ornelas dissent's preference for deferential review and his objection that giving weight to an inferential conclusion can be conceptually inconsistent with independently deciding the ultimate issue. A factual description of the children's waving can receive factual protection; whether it is suspicious cannot be sheltered from constitutional judgment simply by calling it an officer inference. Reversal follows here even under traditional independent review. His join applies Ornelas as governing law without endorsing its original choice of standard, dispensing with innocent explanations or authorizing the subsequent search.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#united-states-v-arvizu-merits-2002-01-15).
+
+### National Cable & Telecommunications Assn., Inc. v. Gulf Power Co. — 2002-01-16
+
+Thomas, joined by Souter, concurs in the wireless holding but would vacate the mixed-service portion for a reasoned agency determination. If cable-modem access is cable service, subsection (d)'s formula controls; if it is telecommunications service, subsection (e)'s formula controls. Only after resolving those possibilities can residual authority under subsection (b) support the particular regulatory choice. The service supplied by an Internet service provider and the transmission carrying customers to that provider are distinct classification questions. The Commission's treatment of one does not necessarily resolve the other. Permian Basin's demand for a reasoned rate method supports returning that choice to the agency. Probable ultimate jurisdiction and policy favoring broadband deployment cannot supply the missing statutory explanation. This position rejects categorical noncoverage but withholds approval of the existing unexplained agency determination.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#national-cable-telecommunications-assn-inc-v-gulf-power-co-merits-2002-01-16).
+
+### Kansas v. Crane — 2002-01-22
+
+Scalia, joined by Thomas, agrees that due process does not require complete inability to control conduct. He would hold that a genuine present mental abnormality or disorder causally making repeated sexual violence likely supplies the substantive limitation, when proved under Kansas's burden. An additional independent control finding is not constitutionally required. The new serious-difficulty formulation, in his view, gives uncertain guidance and turns descriptions of an individual's condition into a universal extra element. This position neither treats a label or danger alone as sufficient nor allows a high burden to create a missing substantive predicate. It preserves Foucha's ended-predicate rule and Hendricks and Seling's separate review of actual punitive operation. He would reverse the complete-incapacity rule and remand under the statute's genuine condition-and-causal-danger requirements.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#kansas-v-crane-merits-2002-01-22).
+
+### Lee v. Kemna — 2002-01-22
+
+Kennedy, joined by Scalia and Thomas, would affirm because Rule 24.10 retained a substantive function apart from the written-motion form. Earlier alibi descriptions and earlier attendance did not necessarily establish what the witnesses would then say, whether they could be obtained within a reasonable time, or the current diligence and other facts needed to evaluate the delay. A focused contemporaneous presentation also creates a reviewable record. A known procedural ground may support appellate affirmance even when the trial judge relied on scheduling; an uncited requirement is not thereby useless. Osborne involved repetition of a legal objection already foreclosed, not the initial support for a factual request. The dissent objects that searching earlier portions of the record for substantial compliance can displace the State's actual presentation rule. It does not hold that every formally regular rule is adequate in every application, and relies on no finding about why the witnesses left or whether their alibi was true.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#lee-v-kemna-merits-2002-01-22).
+
+### United States v. Microsoft Corp. — 2002-01-22
+
+Stevens concurs in Parts II and III and dissents from Part I's uniform direction. Jefferson Parish and Kodak preserve the established category when independent demand and a separable forced tie satisfy its elements. Genuine functional integration may warrant fuller competitive inquiry, but useful distribution of interfaces does not make compulsory retention of a complete browser an innovative design. His California Dental position likewise requires examination of the actual restraint. He would distinguish contractual and removal restraints that fit the conventional category from integrated functionality; he would neither reinstate the entire undifferentiated trial judgment nor decide ultimate tying liability.
+
+O'Connor, joined by Scalia, Thomas and Breyer, concurs in Parts I and II and dissents from Part III. Under all three Liljeberg interests, they find the existing appellate allocation sufficient. The plaintiffs did not participate in the misconduct; repeating completed adjudication can impose serious costs; appellate review differentiated sustainable liability from rejected theories; and reassignment plus replacement of the entire remedy materially protect deterrence and public confidence. They expressly account for interviews beginning before the findings. The misconduct's pronounced remedial expression supports their line without making all earlier contacts irrelevant. They adopt neither an actual-bias prerequisite nor an automatic rule that clear-error review cures disqualification. Their disagreement concerns the sufficiency of this particular allocation, not the governing appearance standard or a belief that the appellate court conducted a new trial.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#united-states-v-microsoft-corp-merits-2002-01-22).
+
+### Barnhart v. Sigmon Coal Co. — 2002-02-19
+
+**Stevens, joined by O'Connor and Breyer, dissenting.** The dissent would reverse and remand for application of an inclusive succession rule. Congress allocated existing health-benefit obligations across continuing business relationships. Reading the successor sentence in that integrated structure avoids the anomaly of reaching a related person's successor while exempting the closer direct successor that continued the coal business and assumed its agreement. The contextual treatment of successors in 1 U.S.C. sections 1 and 5, together with the labor-law succession principles illustrated by Wiley, Golden State Bottling and Fall River Dyeing, supports that reading; those authorities do not establish liability for every solvent purchaser.
+
+The dissent recognizes that a differentiated list and a separate prospective transfer provision could reflect compromise. Its answer is that the entire succession structure supplies the context for that list, and the Court's separation defeats the allocation Congress made. Legislative explanations corroborate that construction rather than replacing the text. The dissent does not treat a bargaining discount as a proved fact, impose unrestricted federal common-law liability, or decide the constitutional question. Preserved successor-status and other application issues remain for the proper tribunal on remand.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#barnhart-v-sigmon-coal-co-merits-2002-02-19).
+
+### Wisconsin Department of Health and Family Services v. Blumer — 2002-02-20
+
+**Stevens, joined by Stone-Zsela, O'Connor and Scalia, dissenting.** The dissent would affirm the resources-first requirement and return the matter for a calculation using supported income and resource figures. Section (e)(2)(C) directs an increased resource allowance when the community spouse's protected income is inadequate. Predicting income from resources legally attributable to that spouse differs from predicting another person's optional payment. Section (d)(1)(B)'s posteligibility transfer does not add a prerequisite that the spouse depend on that payment before receiving the resource protection; denying eligibility can prevent the projected arrangement from beginning.
+
+The dissent recognizes that (b)(1) is not a reciprocal nonattribution rule and that (b)(2) expressly addresses posteligibility attribution. Its point is the scheme's separation of ownership, resource protection and voluntary support, not an invented symmetric prohibition. The Court's answer that every method forecasts future circumstances fails to explain why Congress's resource protection may depend first on another person's voluntary transfer. A future payment might not occur or might diminish; those are objections to the legal method, not findings about Irene's later conduct. Administrative flexibility, conservation of funds and expertise cannot supply the missing compulsory transfer or displace the specific statutory command. The agency's changed view is not invalid merely because it changed, but its reasoning must answer this objection. The dissent asserts no constitutional right to preserve assets and would award no unsupported dollar amount.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#wisconsin-department-of-health-and-family-services-v-blumer-merits-2002-02-20).
+
 ## Court, seniority and participation
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
@@ -190,6 +370,8 @@ These are published noncontrolling positions, with the scope and joins shown in 
 All nine Justices are seated. Seniority is Stone-Zsela as Chief Justice, followed among the Associates by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Case-specific participation is determined at argument or submission and again at decision. No supplied neutral participation field establishes a case-specific simulated exclusion. O'Connor's three historical nonparticipation references are Run flags only; the [manifest](manifest.md#participation-flags-for-run) preserves their terms.
 
 The August 3, 1994 allotment order remains in force: Stone-Zsela—District of Columbia, Fourth and Federal; Breyer—First; Ginsburg—Second; Souter—Third; Scalia—Fifth; Stevens—Sixth and Seventh; O'Connor—Eighth and Tenth; Kennedy—Ninth; Thomas—Eleventh. The Court's standing referral, signed-explanation and certification practice remains as stated in Standing State section 3.
+
+All nine Justices participated in each chunk 2 decision, including Gulf Power. Remaining case-specific flags require validation at their own events.
 
 ## Circuit allotments
 
@@ -243,4 +425,6 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 108 scheduled events, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 93 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+
+Romeu v. Cohen remains pending on its inherited grant. No merits or procedural Court action was entered for its scheduled February 19 event. Its calendar position requires a renewed control check before adjudication; it supplies no current law or published Justice position. This projection contains no private position or provisional vote.

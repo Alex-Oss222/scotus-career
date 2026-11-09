@@ -1,0 +1,1596 @@
+34
+253 FEDERAL REPORTER, 3d SERIES
+UNITED STATES of America,
+Appellee,
+v.
+MICROSOFT CORPORATION,
+Appellant.
+Nos. 00–5212 and 00–5213.
+United States Court of Appeals,
+District of Columbia Circuit.
+Argued Feb. 26 and 27, 2001.
+Decided June 28, 2001.
+Rehearing Denied Aug. 2, 2001.
+United States and individual states
+brought antitrust action against manufac-
+turer of personal computer operating sys-
+tem and Internet web browser. The Unit-
+ed States District Court for the District
+of Columbia, Thomas Penfield Jackson, J.,
+concluded that manufacturer had commit-
+ted monopolization, attempted monopoliza-
+tion, and tying violations of the Sherman
+Act, 87 F.Supp.2d 30, and issued remedial
+order requiring manufacturer to submit
+proposed plan of divestiture, 97 F.Supp.2d
+59. Manufacturer appealed, and states pe-
+titioned for certiorari. The Supreme Court
+declined to hear direct appeal, denied pe-
+tition, and remanded, 530 U.S. 1301, 121
+S.Ct. 25, 147 L.Ed.2d 1048. The Court of
+Appeals held that: (1) manufacturer com-
+mitted monopolization violation; (2) manu-
+facturer did not commit attempted mo-
+nopolization violation; (3) rule of reason,
+rather than per se analysis, applied to
+tying claim; (4) remand was required to
+determine if manufacturer committed ty-
+ing violation; (5) vacation of remedies de-
+cree was required; and (6) district judge’s
+comments to the press while the case was
+pending required his disqualification on
+remand.
+Affirmed in part, reversed in part, and
+remanded in part.
+
+44
+253 FEDERAL REPORTER, 3d SERIES
+Richard J. Urowsky and Steven L. Hol-
+ley argued the causes for appellant.  With
+them on the briefs were John L. Warden,
+Richard C. Pepperman, II, William H.
+Neukom, Thomas W. Burt, David A. Hein-
+er, Jr., Charles F. Rule, Robert A. Long,
+Jr., and Carter G. Phillips.  Christopher J.
+Meyers entered an appearance.
+Lars H. Liebeler, Griffin B. Bell, Lloyd
+N. Cutler, Louis R. Cohen, C. Boyden
+Gray, William J. Kolasky, William F. Ad-
+kinson, Jr., Jeffrey D. Ayer, and Jay V.
+Prabhu were on the brief of amici curiae
+The Association for Competitive Technolo-
+gy and Computing Technology Industry
+Association in support of appellant.
+David R. Burton was on the brief for
+amicus curiae Center for the Moral De-
+fense of Capitalism in support of appellant.
+Robert S. Getman was on the brief for
+amicus curiae Association for Objective
+Law in support of appellant.
+Jeffrey P. Minear and David C. Freder-
+ick, Assistants to the Solicitor General,
+United States Department of Justice, and
+John G. Roberts, Jr., argued the causes for
+appellees.  With them on the brief were A.
+Douglas Melamed, Acting Assistant Attor-
+ney General, United States Department of
+Justice, Jeffrey H. Blattner, Deputy Assis-
+tant Attorney General, Mary Jean Molten-
+brey, Director, Catherine G. O’Sullivan,
+Robert B. Nicholson, Adam D. Hirsh, An-
+drea Limmer, David Seidman, and Chris-
+topher Sprigman, Attorneys, Eliot Spitzer,
+Attorney General, State of New York,
+Richard L. Schwartz, Assistant Attorney
+General, and Kevin J. O’Connor, Office of
+the Attorney General, State of Wisconsin.
+John Rogovin, Kenneth W. Starr, John
+F. Wood, Elizabeth Petrela, Robert H.
+Bork, Theodore W. Ullyot, Jason M. Mah-
+ler, Stephen M. Shapiro, Donald M. Falk,
+Mitchell S. Pettit, Kevin J. Arquit, and
+Michael C. Naughton were on the brief for
+amici curiae America Online, Inc., et al., in
+support of appellee.  Paul T. Cappuccio
+entered an appearance.
+Lee A. Hollaar, appearing pro se, was
+on the brief for amicus curiae Lee A.
+Hollaar.
+Carl Lundgren, appearing pro se, was
+on the brief for amicus curiae Carl Lund-
+gren.
+Before:  EDWARDS, Chief Judge,
+WILLIAMS, GINSBURG, SENTELLE,
+RANDOLPH, ROGERS and TATEL,
+Circuit Judges.
+Opinion for the Court filed PER
+CURIAM.
+TABLE OF CONTENTS
+SummaryTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT44
+I.
+Introduction TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT47
+A.
+BackgroundTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT47
+B.
+Overview TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT48
+II.
+MonopolizationTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT50
+A.
+Monopoly PowerTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT51
+1.
+Market Structure TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT51
+a.
+Market definition TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT51
+b.
+Market power TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT54
+2.
+Direct Proof TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT56
+B.
+Anticompetitive ConductTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT58
+1.
+Licenses Issued to Original Equipment Manufacturers TTTTTTTTTTTTTTTTTTT59
+a.
+Anticompetitive effect of the license restrictions TTTTTTTTTTTTTTTTTTTTT60
+b.
+Microsoft’s justifications for the license restrictions TTTTTTTTTTTTTTTTTT62
+2.
+Integration of IE and Windows TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT64
+a.
+Anticompetitive effect of integrationTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT65
+
+45
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+b.
+Microsoft’s justifications for integrationTTTTTTTTTTTTTTTTTTTTTTTTTTTTT66
+3.
+Agreements with Internet Access Providers TTTTTTTTTTTTTTTTTTTTTTTTTTTT67
+4.
+Dealings with Internet Content Providers, Independent Software
+Vendors, and Apple Computer TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT71
+5.
+Java TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT74
+a.
+The incompatible JVM TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT74
+b.
+The First Wave Agreements TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT75
+c.
+Deception of Java developersTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT76
+d.
+The threat to Intel TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT77
+6.
+Course of ConductTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT78
+C.
+CausationTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT78
+III.
+Attempted MonopolizationTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT80
+A.
+Relevant MarketTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT81
+B.
+Barriers to EntryTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT82
+IV.
+Tying TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT84
+A.
+Separate–Products Inquiry Under the Per Se Test TTTTTTTTTTTTTTTTTTTTTTTTTT85
+B.
+Per Se Analysis Inappropriate for this Case TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT89
+C.
+On Remand TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT95
+V.
+Trial Proceedings and RemedyTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT97
+A.
+Factual BackgroundTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT98
+B.
+Trial Proceedings TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT100
+C.
+Failure to Hold an Evidentiary Hearing TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT101
+D. Failure to Provide an Adequate ExplanationTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT103
+E. Modification of Liability TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT103
+F.
+On Remand TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT105
+G.
+Conclusion TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT107
+VI.
+Judicial MisconductTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT107
+A.
+The District Judge’s Communications with the Press TTTTTTTTTTTTTTTTTTTTTTT107
+B.
+Violations of the Code of Conduct for United States Judges TTTTTTTTTTTTTTTTT111
+C.
+Appearance of Partiality TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT114
+D. Remedies for Judicial Misconduct and Appearance of Partiality TTTTTTTTTTTTTT116
+1.
+Disqualification TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT116
+2.
+Review of Findings of Fact and Conclusions of LawTTTTTTTTTTTTTTTTTTTTT117
+VII.
+Conclusion TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT118
+PER CURIAM:
+Microsoft 
+Corporation 
+appeals 
+from
+judgments of the District Court finding
+the company in violation of §§ 1 and 2 of
+the Sherman Act and ordering various
+remedies.
+The action against Microsoft arose pur-
+suant to a complaint filed by the United
+States and separate complaints filed by
+individual States.  The District Court de-
+termined that Microsoft had maintained a
+monopoly in the market for Intelcompati-
+ble PC operating systems in violation of
+§ 2;  attempted to gain a monopoly in the
+market for internet browsers in violation
+of § 2;  and illegally tied two purportedly
+separate products, Windows and Internet
+Explorer (‘‘IE’’), in violation of § 1.  Unit-
+ed States v. Microsoft Corp., 87 F.Supp.2d
+30 (D.D.C.2000) (‘‘Conclusions of Law’’).
+The District Court then found that the
+same facts that established liability under
+§§ 1 and 2 of the Sherman Act mandated
+findings of liability under analogous state
+law antitrust provisions.  Id.  To remedy
+the Sherman Act violations, the District
+Court issued a Final Judgment requiring
+Microsoft to submit a proposed plan of
+divestiture, with the company to be split
+into an operating systems business and an
+applications business.  United States v.
+Microsoft Corp., 97 F.Supp.2d 59, 64–65
+(D.D.C.2000) (‘‘Final Judgment’’).  The
+District Court’s remedial order also con-
+tains a number of interim restrictions on
+Microsoft’s conduct.  Id. at 66–69.
+
+50
+253 FEDERAL REPORTER, 3d SERIES
+II. MONOPOLIZATION
+[1, 2] Section 2 of the Sherman Act 
+makes it unlawful for a firm to ‘‘monopo-
+lize.’’  15 U.S.C. § 2.  The offense of mo-
+nopolization has two elements:  ‘‘(1) the 
+possession of monopoly power in the rele-
+vant market and (2) the willful acquisition 
+or maintenance of that power as distin-
+guished from growth or development as a 
+consequence of a superior product, busi-
+ness acumen, or historic accident.’’  Unit-
+ed States v. Grinnell Corp., 384 U.S. 563, 
+570–71, 86 S.Ct. 1698, 16 L.Ed.2d 778 
+(1966).  The District Court applied this 
+test and found that Microsoft possesses 
+monopoly power in the market for Intel-
+compatible PC operating systems.  Focus-
+ing primarily on Microsoft’s efforts to sup-
+press Netscape Navigator’s threat to its 
+operating system monopoly, the court also 
+found that Microsoft maintained its power 
+not through competition on the merits, but 
+through unlawful means.  Microsoft chal-
+lenges both conclusions.  We defer to the 
+District Court’s findings of fact, setting 
+them aside only if clearly erroneous.  FED 
+R. CIV. P. 52(a).  We review legal questions 
+de novo.  United States ex rel. Modern
+
+51
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+Elec., Inc. v. Ideal Elec. Sec. Co., 81 F.3d
+240, 244 (D.C.Cir.1996).
+We begin by considering whether Micro-
+soft possesses monopoly power, see infra
+Section II.A, and finding that it does, we
+turn to the question whether it maintained
+this power through anticompetitive means.
+Agreeing with the District Court that the
+company behaved anticompetitively, see
+infra Section II.B, and that these actions
+contributed to the maintenance of its mo-
+nopoly power, see infra Section II.C, we
+affirm the court’s finding of liability for
+monopolization.
+
+53
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+[8] This brings us to Microsoft’s main
+challenge to the District Court’s market
+definition:  the exclusion of middleware.
+Because of the importance of middleware
+to this case, we pause to explain what it is
+and how it relates to the issue before us.
+Operating systems perform many func-
+tions, including allocating computer memo-
+ry and controlling peripherals such as
+printers and keyboards.  See Direct Testi-
+mony of Frederick Warren–Boulton ¶ 20,
+reprinted in 5 J.A. at 3172–73.  Operating
+systems also function as platforms for soft-
+ware applications.  They do this by ‘‘ex-
+posing’’—i.e., making available to software
+developers—routines or protocols that per-
+form certain widely-used functions.  These
+are known as Application Programming
+Interfaces, or ‘‘APIs.’’  See Direct Testi-
+mony of James Barksdale ¶ 70, reprinted
+in 5 J.A. at 2895–96.  For example, Win-
+dows contains an API that enables users to
+draw a box on the screen.  See Direct
+Testimony of Michael T. Devlin ¶ 12, re-
+printed in 5 J.A. at 3525.  Software devel-
+opers wishing to include that function in an
+application need not duplicate it in their
+own code.  Instead, they can ‘‘call’’—i.e.,
+use—the Windows API.  See Direct Testi-
+mony of James Barksdale ¶ ¶ 70–71, re-
+printed in 5 J.A. at 2895–97.  Windows
+contains thousands of APIs, controlling ev-
+erything from data storage to font display.
+See Direct Testimony of Michael Devlin
+¶ 12, reprinted in 5 J.A. at 3525.
+Every operating system has different
+APIs.  Accordingly, a developer who
+writes an application for one operating
+system and wishes to sell the application to
+users of another must modify, or ‘‘port,’’
+the application to the second operating
+system.  Findings of Fact ¶ 4.  This pro-
+cess is both timeconsuming and expensive.
+Id. ¶ 30.
+‘‘Middleware’’ refers to software prod-
+ucts that expose their own APIs.  Id. ¶ 28;
+Direct Testimony of Paul Maritz ¶ ¶ 234–
+36, reprinted in 6 J.A. at 3727–29.  Be-
+cause of this, a middleware product writ-
+ten for Windows could take over some or
+all of Windows’s valuable platform func-
+tions—that is, developers might begin to
+rely upon APIs exposed by the middleware
+for basic routines rather than relying upon
+the API set included in Windows.  If mid-
+dleware were written for multiple operat-
+ing systems, its impact could be even
+greater.  The more developers could rely
+upon APIs exposed by such middleware,
+the less expensive porting to different op-
+erating systems would be.  Ultimately, if
+developers could write applications relying
+exclusively on APIs exposed by middle-
+ware, their applications would run on any
+operating system on which the middleware
+was also present.  See Direct Testimony of
+Avadis Tevanian, Jr. ¶ 45, reprinted in 5
+J.A. at 3113.  Netscape Navigator and
+Java—both at issue in this case—are mid-
+dleware products written for multiple op-
+erating systems.  Findings of Fact ¶ 28.
+Microsoft argues that, because middle-
+ware could usurp the operating system’s
+platform function and might eventually
+take over other operating system functions
+(for instance, by controlling peripherals),
+the District Court erred in excluding Navi-
+gator and Java from the relevant market.
+The District Court found, however, that
+neither Navigator, Java, nor any other
+middleware product could now, or would
+soon, expose enough APIs to serve as a
+platform for popular applications, much
+less take over all operating system func-
+tions.  Id. ¶ ¶ 28–29.  Again, Microsoft
+fails to challenge these findings, instead
+simply asserting middleware’s ‘‘potential’’
+as a competitor.  Appellant’s Opening Br.
+at 86.  The test of reasonable interchange-
+ability, however, required the District
+Court to consider only substitutes that
+constrain pricing in the reasonably fore-
+
+54
+253 FEDERAL REPORTER, 3d SERIES
+seeable future, and only products that can
+enter the market in a relatively short time
+can perform this function.  See Rothery,
+792 F.2d at 218 (‘‘Because the ability of
+consumers to turn to other suppliers re-
+strains a firm from raising prices above
+the competitive level, the definition of the
+‘relevant market’ rests on a determination
+of available substitutes.’’);  see also Find-
+ings of Fact ¶ 29 (‘‘[I]t would take several
+years for middleware TTT to evolve’’ into a
+product that can constrain operating sys-
+tem pricing.).  Whatever middleware’s ul-
+timate potential, the District Court found
+that consumers could not now abandon
+their operating systems and switch to mid-
+dleware in response to a sustained price
+for Windows above the competitive level.
+Findings of Fact ¶ ¶ 28, 29.  Nor is mid-
+dleware likely to overtake the operating
+system as the primary platform for soft-
+ware development any time in the near
+future.  Id.
+Alternatively, Microsoft argues that the
+District Court should not have excluded
+middleware from the relevant market be-
+cause the primary focus of the plaintiffs’
+§ 2 charge is on Microsoft’s attempts to
+suppress middleware’s threat to its operat-
+ing system monopoly.  According to Mi-
+crosoft, it is ‘‘contradict[ory],’’ 2/26/2001
+Ct. Appeals Tr. at 20, to define the rele-
+vant market to exclude the ‘‘very competi-
+tive threats that gave rise’’ to the action.
+Appellant’s Opening Br. at 84.  The pur-
+ported contradiction lies between plaintiffs’
+§ 2 theory, under which Microsoft pre-
+served its monopoly against middleware
+technologies that threatened to become vi-
+able substitutes for Windows, and its theo-
+ry of the relevant market, under which
+middleware is not presently a viable sub-
+stitute for Windows.  Because middle-
+ware’s threat is only nascent, however, no
+contradiction exists.  Nothing in § 2 of the
+Sherman Act limits its prohibition to ac-
+tions taken against threats that are al-
+ready well-developed enough to serve as
+present substitutes.  See infra Section
+II.C.  Because market definition is meant 
+to identify products ‘‘reasonably inter-
+changeable by consumers,’’ du Pont, 351 
+U.S. at 395, 76 S.Ct. 994, and because 
+middleware is not now interchangeable 
+with Windows, the District Court had good 
+reason for excluding middleware from the 
+relevant market. 
+
+59
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+With these principles in mind, we now 
+consider Microsoft’s objections to the Dis-
+trict Court’s holding that Microsoft violat-
+ed § 2 of the Sherman Act in a variety of 
+ways.
+1.
+Licenses Issued to Original Equip-
+ment Manufacturers
+The District Court condemned a number
+of provisions in Microsoft’s agreements li-
+censing Windows to OEMs, because it
+
+60
+253 FEDERAL REPORTER, 3d SERIES
+found that Microsoft’s imposition of those
+provisions (like many of Microsoft’s other
+actions at issue in this case) serves to
+reduce usage share of Netscape’s browser
+and, hence, protect Microsoft’s operating
+system monopoly.  The reason market
+share in the browser market affects mar-
+ket power in the operating system market
+is complex, and warrants some explana-
+tion.
+Browser usage share is important be-
+cause, as we explained in Section II.A
+above, a browser (or any middleware prod-
+uct, for that matter) must have a critical
+mass of users in order to attract software
+developers to write applications relying
+upon the APIs it exposes, and away from
+the APIs exposed by Windows.  Applica-
+tions written to a particular browser’s
+APIs, however, would run on any comput-
+er with that browser, regardless of the
+underlying operating system.  ‘‘The over-
+whelming majority of consumers will only
+use a PC operating system for which there
+already exists a large and varied set of TTT
+applications, and for which it seems rela-
+tively certain that new types of applica-
+tions and new versions of existing applica-
+tions will continue to be marketedTTTT’’
+Findings of Fact ¶ 30.  If a consumer
+could have access to the applications he
+desired—regardless of the operating sys-
+tem he uses—simply by installing a partic-
+ular browser on his computer, then he
+would no longer feel compelled to select
+Windows in order to have access to those
+applications;  he could select an operating
+system other than Windows based solely
+upon its quality and price.  In other
+words, the market for operating systems
+would be competitive.
+Therefore, Microsoft’s efforts to gain
+market share in one market (browsers)
+served to meet the threat to Microsoft’s
+monopoly in another market (operating
+systems) by keeping rival browsers from
+gaining the critical mass of users neces-
+sary to attract developer attention away
+from Windows as the platform for software
+development.  Plaintiffs also argue that
+Microsoft’s actions injured competition in
+the browser market—an argument we will
+examine below in relation to their specific
+claims that Microsoft attempted to monop-
+olize the browser market and unlawfully
+tied its browser to its operating system so
+as to foreclose competition in the browser
+market.  In evaluating the § 2 monopoly
+maintenance claim, however, our immedi-
+ate concern is with the anticompetitive ef-
+fect of Microsoft’s conduct in preserving
+its monopoly in the operating system mar-
+ket.
+In evaluating the restrictions in Micro-
+soft’s agreements licensing Windows to
+OEMs, we first consider whether plaintiffs
+have made out a prima facie case by dem-
+onstrating that the restrictions have an
+anticompetitive effect.  In the next subsec-
+tion, we conclude that plaintiffs have met
+this burden as to all the restrictions.  We
+then consider Microsoft’s proffered justifi-
+cations for the restrictions and, for the
+most part, hold those justifications insuffi-
+cient.
+a.
+Anticompetitive effect of the license
+restrictions
+[22]
+The restrictions Microsoft places
+upon Original Equipment Manufacturers
+are of particular importance in determin-
+ing browser usage share because having
+an OEM pre-install a browser on a com-
+puter is one of the two most cost-effective
+methods by far of distributing browsing
+software.  (The other is bundling the
+browser with internet access software dis-
+tributed by an IAP.)  Findings of Fact
+¶ 145.  The District Court found that the
+restrictions Microsoft imposed in licensing
+Windows to OEMs prevented many OEMs
+from distributing browsers other than IE.
+
+61
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+Conclusions of Law, at 39–40.  In particu-
+lar, the District Court condemned the li-
+cense provisions prohibiting the OEMs
+from:  (1) removing any desktop icons,
+folders, or ‘‘Start’’ menu entries;  (2) alter-
+ing the initial boot sequence;  and (3) oth-
+erwise altering the appearance of the Win-
+dows desktop.  Findings of Fact ¶ 213.
+The District Court concluded that the
+first license restriction—the prohibition
+upon the removal of desktop icons, folders,
+and Start menu entries—thwarts the dis-
+tribution of a rival browser by preventing
+OEMs from removing visible means of
+user access to IE.  Id. ¶ 203.  The OEMs
+cannot practically install a second browser
+in addition to IE, the court found, in part
+because ‘‘[p]re-installing more than one
+product in a given category TTT can signifi-
+cantly increase an OEM’s support costs,
+for the redundancy can lead to confusion
+among novice users.’’  Id. ¶ 159;  see also
+id. ¶ 217.  That is, a certain number of
+novice computer users, seeing two browser
+icons, will wonder which to use when and
+will call the OEM’s support line.  Support
+calls are extremely expensive and, in the
+highly competitive original equipment mar-
+ket, firms have a strong incentive to mini-
+mize costs.  Id. ¶ 210.
+Microsoft denies the ‘‘consumer confu-
+sion’’ story;  it observes that some OEMs
+do install multiple browsers and that exec-
+utives from two OEMs that do so denied
+any knowledge of consumers being con-
+fused by multiple icons.  See 11/5/98 pm
+Tr. at 41–42 (trial testimony of Avadis
+Tevanian of Apple), reprinted in 9 J.A. at
+5493–94;  11/18/99 am Tr. at 69 (trial testi-
+mony of John Soyring of IBM), reprinted
+in 10 J.A. at 6222.
+Other testimony, however, supports the
+District Court’s finding that fear of such
+confusion deters many OEMs from pre-
+installing multiple browsers.  See, e.g.,
+01/13/99 pm Tr. at 614–15 (deposition of
+Microsoft’s Gayle McClain played to the
+court) (explaining that redundancy of icons
+may be confusing to end users);  02/18/99
+pm Tr. at 46–47 (trial testimony of John
+Rose of Compaq), reprinted in 21 J.A. at
+14237–38 (same);  11/17/98 am Tr. at 68
+(deposition of John Kies of Packard Bell–
+NEC played to the court), reprinted in 9
+J.A. at 6016 (same);  11/17/98 am Tr. at 67–
+72 (trial testimony of Glenn Weadock), re-
+printed in 9 J.A. at 6015–20 (same).  Most
+telling, in presentations to OEMs, Micro-
+soft itself represented that having only one
+icon in a particular category would be ‘‘less
+confusing for endusers.’’  See Govern-
+ment’s Trial Exhibit (‘‘GX’’) 319 at MS98
+0109453.  Accordingly, we reject Micro-
+soft’s argument that we should vacate the
+District Court’s Finding of Fact 159 as it
+relates to consumer confusion.
+As noted above, the OEM channel is one
+of the two primary channels for distribu-
+tion of browsers.  By preventing OEMs
+from removing visible means of user ac-
+cess to IE, the license restriction prevents
+many OEMs from pre-installing a rival
+browser and, therefore, protects Micro-
+soft’s monopoly from the competition that
+middleware 
+might 
+otherwise 
+present.
+Therefore, we conclude that the license
+restriction at issue is anticompetitive.  We
+defer for the moment the question whether
+that anticompetitive effect is outweighed
+by Microsoft’s proffered justifications.
+The second license provision at issue
+prohibits OEMs from modifying the initial
+boot sequence—the process that occurs
+the first time a consumer turns on the
+computer.  Prior to the imposition of that
+restriction, ‘‘among the programs that
+many OEMs inserted into the boot se-
+quence were Internet sign-up procedures
+that encouraged users to choose from a list
+of IAPs assembled by the OEM.’’  Find-
+ings of Fact ¶ 210.  Microsoft’s prohibition
+on any alteration of the boot sequence thus
+
+62
+253 FEDERAL REPORTER, 3d SERIES
+prevents OEMs from using that process to
+promote the services of IAPs, many of
+which—at least at the time Microsoft im-
+posed the restriction—used Navigator
+rather than IE in their internet access
+software.  See id. ¶ 212;  GX 295, reprinted
+in 12 J.A. at 14533 (Upon learning of OEM
+practices including boot sequence modifica-
+tion, Microsoft’s Chairman, Bill Gates,
+wrote:  ‘‘Apparently a lot of OEMs are
+bundling non-Microsoft browsers and com-
+ing up with offerings together with [IAPs]
+that get displayed on their machines in a
+FAR more prominent way than MSN or
+our Internet browser.’’).  Microsoft does
+not deny that the prohibition on modifying
+the boot sequence has the effect of de-
+creasing competition against IE by pre-
+venting OEMs from promoting rivals’
+browsers.  Because this prohibition has a
+substantial effect in protecting Microsoft’s
+market power, and does so through a
+means other than competition on the mer-
+its, it is anticompetitive.  Again the ques-
+tion whether the provision is nonetheless
+justified awaits later treatment.
+Finally, Microsoft imposes several addi-
+tional provisions that, like the prohibition
+on removal of icons, prevent OEMs from
+making various alterations to the desktop:
+Microsoft prohibits OEMs from causing
+any user interface other than the Windows
+desktop to launch automatically, from add-
+ing icons or folders different in size or
+shape from those supplied by Microsoft,
+and from using the ‘‘Active Desktop’’ fea-
+ture 
+to 
+promote 
+third-party 
+brands.
+These restrictions impose significant costs
+upon the OEMs;  prior to Microsoft’s pro-
+hibiting the practice, many OEMs would
+change the appearance of the desktop in
+ways they found beneficial.  See, e.g.,
+Findings of Fact ¶ 214;  GX 309, reprinted
+in 22 J.A. at 14551 (March 1997 letter
+from Hewlett–Packard to Microsoft:  ‘‘We
+are responsible for the cost of technical
+support of our customers, including the
+33% of calls we get related to the lack of
+quality or confusion generated by your
+productTTTT  We must have more ability
+to decide how our system is presented to
+our end users.  If we had a choice of
+another supplier, based on your actions in
+this area, I assure you [that you] would not
+be our supplier of choice.’’).
+The dissatisfaction of the OEM custom-
+ers does not, of course, mean the restric-
+tions are anticompetitive.  The anticom-
+petitive effect of the license restrictions is,
+as Microsoft itself recognizes, that OEMs
+are not able to promote rival browsers,
+which keeps developers focused upon the
+APIs in Windows.  Findings of Fact ¶ 212
+(quoting Microsoft’s Gates as writing,
+‘‘[w]inning Internet browser share is a
+very very important goal for us,’’ and em-
+phasizing the need to prevent OEMs from
+promoting both rival browsers and IAPs
+that might use rivals’ browsers);  see also
+01/13/99 Tr. at 305–06 (excerpts from de-
+position of James Von Holle of Gateway)
+(prior to restriction Gateway had pre-in-
+stalled non-IE internet registration icon
+that was larger than other desktop icons).
+This kind of promotion is not a zero-sum
+game;  but for the restrictions in their
+licenses to use Windows, OEMs could pro-
+mote multiple IAPs and browsers.  By
+preventing the OEMs from doing so, this
+type of license restriction, like the first two
+restrictions, is anticompetitive:  Microsoft
+reduced rival browsers’ usage share not by
+improving its own product but, rather, by
+preventing OEMs from taking actions that
+could increase rivals’ share of usage.
+
+64
+253 FEDERAL REPORTER, 3d SERIES
+...
+ The restrictions therefore violate § 2 of 
+the Sherman Act.
+2.
+Integration of IE and Windows
+Although Microsoft’s license restrictions
+have a significant effect in closing rival
+browsers out of one of the two primary
+channels of distribution, the District Court
+found that ‘‘Microsoft’s executives believed
+TTT its contractual restrictions placed on
+OEMs would not be sufficient in them-
+selves to reverse the direction of Naviga-
+tor’s usage share.  Consequently, in late
+1995 or early 1996, Microsoft set out to
+bind [IE] more tightly to Windows 95 as a
+technical matter.’’  Findings of Fact ¶ 160.
+Technologically binding IE to Windows,
+the District Court found, both prevented
+OEMs from pre-installing other browsers
+and deterred consumers from using them.
+In particular, having the IE software code
+as an irremovable part of Windows meant
+that pre-installing a second browser would
+‘‘increase an OEM’s product testing costs,’’
+because an OEM must test and train its
+support staff to answer calls related to
+every software product preinstalled on the
+machine;  moreover, pre-installing a brow-
+ser in addition to IE would to many OEMs
+be ‘‘a questionable use of the scarce and
+valuable space on a PC’s hard drive.’’  Id.
+¶ 159.
+Although the District Court, in its Con-
+clusions of Law, broadly condemned Mi-
+crosoft’s decision to bind ‘‘Internet Ex-
+plorer to Windows with TTT technological
+shackles,’’ Conclusions of Law, at 39, its
+findings of fact in support of that conclu-
+sion center upon three specific actions
+Microsoft took to weld IE to Windows:
+excluding IE from the ‘‘Add/Remove Pro-
+grams’’ utility;  designing Windows so as
+in certain circumstances to override the
+user’s choice of a default browser other
+than IE;  and commingling code related
+
+65
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+to browsing and other code in the same
+files, so that any attempt to delete the
+files containing IE would, at the same
+time, cripple the operating system.  As
+with the license restrictions, we consider
+first whether the suspect actions had an
+anticompetitive effect, and then whether
+Microsoft has provided a procompetitive
+justification for them.
+a.
+Anticompetitive effect of integration
+[27]
+As a general rule, courts are prop-
+erly very skeptical about claims that com-
+petition has been harmed by a dominant
+firm’s product design changes.  See, e.g.,
+Foremost Pro Color, Inc. v. Eastman Ko-
+dak Co., 703 F.2d 534, 544–45 (9th Cir.
+1983).  In a competitive market, firms rou-
+tinely innovate in the hope of appealing to
+consumers, sometimes in the process mak-
+ing their products incompatible with those
+of rivals;  the imposition of liability when a
+monopolist does the same thing will inevi-
+tably deter a certain amount of innovation.
+This is all the more true in a market, such
+as this one, in which the product itself is
+rapidly changing.  See Findings of Fact
+¶ 59.  Judicial deference to product inno-
+vation, however, does not mean that a
+monopolist’s product design decisions are
+per se lawful.  See Foremost Pro Color,
+703 F.2d at 545;  see also Cal. Computer
+Prods., 613 F.2d at 739, 744;  In re IBM
+Peripheral EDP Devices Antitrust Litig.,
+481 F.Supp. 965, 1007–08 (N.D.Cal.1979).
+[28]
+The District Court first con-
+demned as anticompetitive Microsoft’s de-
+cision to exclude IE from the ‘‘Add/Re-
+move Programs’’ utility in Windows 98.
+Findings of Fact ¶ 170.  Microsoft had
+included IE in the Add/Remove Programs
+utility in Windows 95, see id. ¶ ¶ 175–76,
+but when it modified Windows 95 to pro-
+duce Windows 98, it took IE out of the
+Add/Remove 
+Programs 
+utility. 
+ This
+change reduces the usage share of rival
+browsers not by making Microsoft’s own
+browser more attractive to consumers but,
+rather, by discouraging OEMs from dis-
+tributing rival products.  See id. ¶ 159.
+Because 
+Microsoft’s 
+conduct, 
+through
+something other than competition on the
+merits, has the effect of significantly re-
+ducing usage of rivals’ products and hence
+protecting its own operating system mo-
+nopoly, it is anticompetitive;  we defer for
+the moment the question whether it is
+nonetheless justified.
+Second, the District Court found that
+Microsoft designed Windows 98 ‘‘so that
+using Navigator on Windows 98 would
+have unpleasant consequences for users’’
+by, in some circumstances, overriding the
+user’s choice of a browser other than IE as
+his or her default browser.  Id. ¶ ¶ 171–72.
+Plaintiffs argue that this override harms
+the competitive process by deterring con-
+sumers from using a browser other than
+IE even though they might prefer to do so,
+thereby reducing rival browsers’ usage
+share and, hence, the ability of rival brow-
+sers to draw developer attention away
+from the APIs exposed by Windows.  Mi-
+crosoft does not deny, of course, that over-
+riding the user’s preference prevents some
+people from using other browsers.  Be-
+cause the override reduces rivals’ usage
+share and protects Microsoft’s monopoly, it
+too is anticompetitive.
+[29]
+Finally, the District Court con-
+demned Microsoft’s decision to bind IE to
+Windows 98 ‘‘by placing code specific to
+Web browsing in the same files as code
+that provided operating system functions.’’
+Id. ¶ 161;  see also id. ¶ ¶ 174, 192.  Put-
+ting code supplying browsing functionality
+into a file with code supplying operating
+system functionality ‘‘ensure[s] that the
+deletion of any file containing browsing-
+specific routines would also delete vital
+operating system routines and thus cripple
+WindowsTTTT’’  Id. ¶ 164.  As noted above,
+
+66
+253 FEDERAL REPORTER, 3d SERIES
+preventing an OEM from removing IE
+deters it from installing a second browser
+because doing so increases the OEM’s
+product testing and support costs;  by con-
+trast, had OEMs been able to remove IE,
+they might have chosen to pre-install Navi-
+gator alone.  See id. ¶ 159.
+Microsoft denies, as a factual matter,
+that it commingled browsing and non-
+browsing code, and it maintains the Dis-
+trict Court’s findings to the contrary are
+clearly erroneous.  According to Microsoft,
+its expert ‘‘testified without contradiction
+that ‘[t]he very same code in Windows 98
+that provides Web browsing functionality’
+also performs essential operating system
+functions—not code in the same files, but
+the very same software code.’’  Appellant’s
+Opening Br. at 79 (citing 5 J.A. 3291–92).
+Microsoft’s expert did not testify to that
+effect ‘‘without contradiction,’’ however.  A
+Government expert, Glenn Weadock, testi-
+fied that Microsoft ‘‘design[ed] [IE] so that
+some of the code that it uses co-resides in
+the same library files as other code needed
+for Windows.’’  Direct Testimony ¶ 30.
+Another Government expert likewise testi-
+fied that one library file, SHDOCVW.DLL,
+‘‘is really a bundle of separate functions.
+It contains some functions that have to do
+specifically with Web browsing, and it con-
+tains some general user interface functions
+as well.’’  12/14/98 am Tr. at 60–61 (trial
+testimony of Edward Felten), reprinted in
+11 J.A. at 6953–54.  One of Microsoft’s
+own documents suggests as much.  See
+Plaintiffs’ Proposed Findings of Fact
+¶ 131.2.vii (citing GX 1686 (under seal) (Mi-
+crosoft document indicating some functions
+in SHDOCVW.DLL can be described as
+‘‘IE only,’’ others can be described as
+‘‘shell only’’ and still others can be de-
+scribed as providing both ‘‘IE’’ and ‘‘shell’’
+functions)).
+In view of the contradictory testimony in
+the record, some of which supports the
+District Court’s finding that Microsoft
+commingled browsing and non-browsing
+code, we cannot conclude that the finding
+was clearly erroneous.  See Anderson v.
+City of Bessemer City, 470 U.S. 564, 573–
+74, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985)
+(‘‘If the district court’s account of the evi-
+dence is plausible in light of the record
+viewed in its entirety, the court of appeals
+may not reverse it even though convinced
+that had it been sitting as the trier of fact,
+it would have weighed the evidence differ-
+ently.’’).  Accordingly, we reject Micro-
+soft’s argument that we should vacate
+Finding of Fact 159 as it relates to the
+commingling of code, and we conclude that
+such commingling has an anticompetitive
+effect;  as noted above, the commingling
+deters OEMs from pre-installing rival
+browsers, thereby reducing the rivals’ us-
+age share and, hence, developers’ interest
+in rivals’ APIs as an alternative to the API
+set exposed by Microsoft’s operating sys-
+tem.
+b.
+Microsoft’s justifications for inte-
+gration
+[30]
+Microsoft proffers no justification
+for two of the three challenged actions
+that it took in integrating IE into Win-
+dows—excluding IE from the Add/Re-
+move Programs utility and commingling
+browser and operating system code.  Al-
+though Microsoft does make some general
+claims regarding the benefits of integrat-
+ing the browser and the operating system,
+see, e.g., Direct Testimony of James All-
+chin ¶ 94, reprinted in 5 J.A. at 3321
+(‘‘Our vision of deeper levels of technical
+integration is highly efficient and provides
+substantial benefits to customers and de-
+velopers.’’), it neither specifies nor sub-
+stantiates those claims.  Nor does it ar-
+gue that either excluding IE from the
+Add/Remove Programs utility or com-
+mingling code achieves any integrative
+
+67
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+benefit.  Plaintiffs plainly made out a pri-
+ma facie case of harm to competition in
+the operating system market by demon-
+strating that Microsoft’s actions increased
+its browser usage share and thus protect-
+ed its operating system monopoly from a
+middleware threat and, for its part, Mi-
+crosoft failed to meet its burden of show-
+ing that its conduct serves a purpose oth-
+er than protecting its operating system
+monopoly.  Accordingly, we hold that Mi-
+crosoft’s exclusion of IE from the Add/Re-
+move Programs utility and its comming-
+ling of browser and operating system code
+constitute exclusionary conduct, in viola-
+tion of § 2.
+As for the other challenged act that
+Microsoft took in integrating IE into Win-
+dows—causing Windows to override the
+user’s choice of a default browser in cer-
+tain circumstances—Microsoft argues that
+it has ‘‘valid technical reasons.’’  Specifi-
+cally, Microsoft claims that it was neces-
+sary to design Windows to override the
+user’s preferences when he or she invokes
+one of ‘‘a few’’ out ‘‘of the nearly 30 means
+of accessing the Internet.’’  Appellant’s
+Opening Br. at 82.  According to Micro-
+soft:
+The Windows 98 Help system and Win-
+dows Update feature depend on ActiveX
+controls not supported by Navigator,
+and the now-discontinued Channel Bar
+utilized Microsoft’s Channel Definition
+Format, which Navigator also did not
+support.  Lastly, Windows 98 does not
+invoke Navigator if a user accesses the
+Internet through ‘‘My Computer’’ or
+‘‘Windows Explorer’’ because doing so
+would defeat one of the purposes of
+those features—enabling users to move
+seamlessly from local storage devices to
+the Web in the same browsing window.
+Id. (internal citations omitted).  The plain-
+tiff bears the burden not only of rebutting
+a proffered justification but also of demon-
+strating that the anticompetitive effect of
+the challenged action outweighs it.  In the
+District Court, plaintiffs appear to have
+done neither, let alone both;  in any event,
+upon appeal, plaintiffs offer no rebuttal
+whatsoever.  Accordingly, Microsoft may
+not be held liable for this aspect of its
+product design.
+3.
+Agreements with Internet Access
+Providers
+The District Court also condemned as
+exclusionary Microsoft’s agreements with
+various IAPs.  The IAPs include both In-
+ternet Service Providers, which offer con-
+sumers internet access, and Online Ser-
+vices (‘‘OLSs’’) such as America Online
+(‘‘AOL’’), which offer proprietary content
+in addition to internet access and other
+services.  Findings of Fact ¶ 15.  The Dis-
+trict Court deemed Microsoft’s agreements
+with the IAPs unlawful because:
+...  Micro-soft 
+extended 
+valuable 
+promotional 
+treatment 
+to 
+the 
+ten 
+most important IAPs in exchange for 
+their 
+commitment 
+to 
+promote 
+and 
+distribute [IE] and to exile Navigator 
+from the desktop.  Id. ¶ ¶ 255–58, 261, 
+272, 288–90, 305–06.  ...
+...
+In this case, plaintiffs allege that, by 
+closing to rivals a substantial percentage 
+of the available opportunities for browser 
+distribution, Microsoft managed to pre-
+serve its monopoly in the market for oper-
+ating systems.  The IAPs constitute one of 
+the two major channels by which browsers 
+can be distributed.  Findings of Fact 
+¶ 242.  Microsoft has exclusive deals with
+
+71
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+‘‘fourteen of the top fifteen access provid-
+ers in North America[, which] account for
+a large majority of all Internet access sub-
+scriptions in this part of the world.’’  Id.
+¶ 308.  By ensuring that the ‘‘majority’’ of
+all IAP subscribers are offered IE either
+as the default browser or as the only brow-
+ser, Microsoft’s deals with the IAPs clearly
+have a significant effect in preserving its
+monopoly;  they help keep usage of Navi-
+gator below the critical level necessary for
+Navigator or any other rival to pose a real
+threat to Microsoft’s monopoly.  See, e.g.,
+id. ¶ 143 (Microsoft sought to ‘‘divert
+enough browser usage from Navigator to
+neutralize it as a platform.’’);  see also
+Carlton, at 670.
+Plaintiffs having demonstrated a harm
+to competition, the burden falls upon Mi-
+crosoft to defend its exclusive dealing
+contracts with IAPs by providing a pro-
+competitive justification for them.  Signif-
+icantly, Microsoft’s only explanation for
+its exclusive dealing is that it wants to
+keep developers focused upon its APIs—
+which is to say, it wants to preserve its
+power in the operating system market.
+02/26/01 Ct. Appeals Tr. at 45–47.  That
+is not an unlawful end, but neither is it a
+procompetitive justification for the specific
+means here in question, namely exclusive
+dealing contracts with IAPs.  According-
+ly, we affirm the District Court’s decision
+holding that Microsoft’s exclusive con-
+tracts with IAPs are exclusionary devices,
+in violation of § 2 of the Sherman Act.
+4.
+Dealings with Internet Content
+Providers, Independent Software
+Vendors, and Apple Computer
+The District Court held that Microsoft
+engages in exclusionary conduct in its
+dealings with ICPs, which develop web-
+sites;  ISVs, which develop software;  and
+Apple, which is both an OEM and a soft-
+ware developer.  See Conclusions of Law,
+at 42–43 (deals with ICPs, ISVs, and Apple
+‘‘supplemented Microsoft’s efforts in the
+OEM and IAP channels’’).  The District
+Court condemned Microsoft’s deals with
+ICPs and ISVs, stating:  ‘‘By granting
+ICPs and ISVs free licenses to bundle [IE]
+with their offerings, and by exchanging
+other valuable inducements for their
+agreement to distribute, promote[,] and
+rely on [IE] rather than Navigator, Micro-
+soft directly induced developers to focus on
+its own APIs rather than ones exposed by
+Navigator.’’  Id. (citing Findings of Fact
+¶ ¶ 334–35, 340).
+[36]
+With respect to the deals with
+ICPs, the District Court’s findings do not
+support liability.  After reviewing the ICP
+agreements, the District Court specifically
+stated that ‘‘there is not sufficient evidence
+to support a finding that Microsoft’s pro-
+motional restrictions actually had a sub-
+stantial, deleterious impact on Navigator’s
+usage share.’’  Findings of Fact ¶ 332. Be-
+cause plaintiffs failed to demonstrate that
+Microsoft’s deals with the ICPs have a
+substantial effect upon competition, they
+have not proved the violation of the Sher-
+man Act.
+[37]
+As for Microsoft’s ISV agree-
+ments, however, the District Court did not
+enter a similar finding of no substantial
+effect.  The District Court described Mi-
+crosoft’s deals with ISVs as follows:
+In dozens of ‘‘First Wave’’ agreements
+signed between the fall of 1997 and the
+spring of 1998, Microsoft has promised
+to give preferential support, in the form
+of early Windows 98 and Windows NT
+betas, other technical information, and
+the right to use certain Microsoft seals
+of approval, to important ISVs that
+agree to certain conditions.  One of
+these conditions is that the ISVs use
+Internet Explorer as the default brows-
+ing software for any software they de-
+velop with a hypertext-based user inter-
+
+72
+253 FEDERAL REPORTER, 3d SERIES
+face.  Another condition is that the ISVs
+use Microsoft’s ‘‘HTML Help,’’ which is
+accessible only with Internet Explorer,
+to implement their applications’ help
+systems.
+Id. ¶ 339.  The District Court further
+found that the effect of these deals is to
+‘‘ensure [ ] that many of the most popular
+Web-centric applications will rely on
+browsing technologies found only in Win-
+dows,’’ id. ¶ 340, and that Microsoft’s deals
+with ISVs therefore ‘‘increase[ ] the likeli-
+hood that the millions of consumers using
+[applications designed by ISVs that en-
+tered into agreements with Microsoft] will
+use Internet Explorer rather than Naviga-
+tor.’’  Id. ¶ 340.
+The District Court did not specifically
+identify what share of the market for
+browser distribution the exclusive deals
+with the ISVs foreclose.  Although the
+ISVs are a relatively small channel for
+browser distribution, they take on greater
+significance because, as discussed above,
+Microsoft had largely foreclosed the two
+primary channels to its rivals.  In that
+light, one can tell from the record that by
+affecting the applications used by ‘‘mil-
+lions’’ of consumers, Microsoft’s exclusive
+deals with the ISVs had a substantial ef-
+fect in further foreclosing rival browsers
+from the market.  (Data introduced by
+Microsoft, see Direct Testimony of Camer-
+on Myhrvold ¶ 84, reprinted in 6 J.A. at
+3922–23, and subsequently relied upon by
+the District Court in its findings, see, e.g.,
+Findings of Fact ¶ 270, indicate that over
+the two-year period 1997–98, when Micro-
+soft entered into the First Wave agree-
+ments, there were 40 million new users of
+the internet.)  Because, by keeping rival
+browsers from gaining widespread distri-
+bution (and potentially attracting the at-
+tention of developers away from the APIs
+in Windows), the deals have a substantial
+effect in preserving Microsoft’s monopoly,
+we hold that plaintiffs have made a prima
+facie showing that the deals have an anti-
+competitive effect.
+Of course, that Microsoft’s exclusive
+deals have the anticompetitive effect of
+preserving Microsoft’s monopoly does not,
+in itself, make them unlawful.  A monopo-
+list, like a competitive firm, may have a
+perfectly legitimate reason for wanting an
+exclusive arrangement with its distribu-
+tors.  Accordingly, Microsoft had an op-
+portunity to, but did not, present the Dis-
+trict Court with evidence demonstrating
+that the exclusivity provisions have some
+such procompetitive justification.  See
+Conclusions of Law, at 43 (citing Findings
+of Fact ¶ ¶ 339–40) (‘‘With respect to the
+ISV agreements, Microsoft has put for-
+ward no procompetitive business ends
+whatsoever to justify their exclusionary
+terms.’’).  On appeal Microsoft likewise
+does not claim that the exclusivity re-
+quired by the deals serves any legitimate
+purpose;  instead, it states only that its
+ISV agreements reflect an attempt ‘‘to
+persuade ISVs to utilize Internet-related
+system services in Windows rather than
+Navigator.’’  Appellant’s Opening Br. at
+114.
+As we explained before, however,
+keeping developers focused upon Win-
+dows—that is, preserving the Windows
+monopoly—is a competitively neutral goal.
+Microsoft having offered no procompetitive
+justification for its exclusive dealing ar-
+rangements with the ISVs, we hold that
+those arrangements violate § 2 of the
+Sherman Act.
+[38]
+Finally, the District Court held
+that Microsoft’s dealings with Apple violat-
+ed the Sherman Act.  See Conclusions of
+Law, at 42–43.  Apple is vertically inte-
+grated:  it makes both software (including
+an operating system, Mac OS), and hard-
+ware (the Macintosh line of computers).
+Microsoft primarily makes software, in-
+cluding, in addition to its operating system,
+
+73
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+a number of popular applications.  One,
+called ‘‘Office,’’ is a suite of business pro-
+ductivity applications that Microsoft has
+ported to Mac OS.  The District Court
+found that ‘‘ninety percent of Mac OS
+users running a suite of office productivity
+applications [use] Microsoft’s Mac Office.’’
+Findings of Fact ¶ 344.  Further, the Dis-
+trict Court found that:
+In 1997, Apple’s business was in steep
+decline, and many doubted that the com-
+pany would survive much longerTTTT
+[M]any ISVs questioned the wisdom of
+continuing to spend time and money de-
+veloping applications for the Mac OS.
+Had Microsoft announced in the midst of
+this atmosphere that it was ceasing to
+develop new versions of Mac Office, a
+great number of ISVs, customers, devel-
+opers, and investors would have inter-
+preted the announcement as Apple’s
+death notice.
+Id. ¶ 344.  Microsoft recognized the impor-
+tance to Apple of its continued support of
+Mac Office.  See id. ¶ 347 (quoting internal
+Microsoft e-mail) (‘‘[We] need a way to
+push these guys[, i.e., Apple] and [threat-
+ening to cancel Mac Office] is the only one
+that seems to make them move.’’);  see also
+id. (‘‘[Microsoft Chairman Bill] Gates
+asked whether Microsoft could conceal
+from Apple in the coming month the fact
+that Microsoft was almost finished devel-
+oping Mac Office 97.’’);  id. at ¶ 354 (‘‘I
+think TTT Apple should be using [IE] ev-
+erywhere and if they don’t do it, then we
+can use Office as a club.’’).
+In June 1997 Microsoft Chairman Bill
+Gates determined that the company’s ne-
+gotiations with Apple ‘‘ ‘have not been go-
+ing well at allTTTT  Apple let us down on
+the browser by making Netscape the stan-
+dard install.’  Gates then reported that he
+had already called Apple’s CEO TTT to ask
+‘how we should announce the cancellation
+of Mac OfficeTTTT’ ’’  Id. at ¶ 349.  The
+District Court further found that, within a
+month of Gates’ call, Apple and Microsoft
+had reached an agreement pursuant to
+which
+Microsoft’s primary obligation is to con-
+tinue releasing up-to-date versions of
+Mac Office for at least five yearsTTTT
+[and] Apple has agreed TTT to ‘‘bundle
+the most current version of [IE] TTT
+with [Mac OS]’’TTT [and to] ‘‘make [IE]
+the default [browser]’’TTTT  Navigator is
+not installed on the computer hard drive
+during the default installation, which is
+the type of installation most users elect
+to employTTTT  [The] Agreement fur-
+ther provides that TTT Apple may not
+position icons for nonMicrosoft browsing
+software on the desktop of new Macin-
+tosh PC systems or Mac OS upgrades.
+Id. ¶ ¶ 350–52.  The agreement also pro-
+hibits Apple from encouraging users to
+substitute another browser for IE, and
+states that Apple will ‘‘encourage its em-
+ployees to use [IE].’’  Id. ¶ 352.
+This exclusive deal between Microsoft
+and Apple has a substantial effect upon
+the distribution of rival browsers.  If a
+browser developer ports its product to a
+second operating system, such as the
+Mac OS, it can continue to display a com-
+mon set of APIs.  Thus, usage share, not
+the underlying operating system, is the
+primary determinant of the platform chal-
+lenge a browser may pose.  Pre-installa-
+tion of a browser (which can be accom-
+plished either by including the browser
+with the operating system or by the
+OEM installing the browser) is one of the
+two most important methods of browser
+distribution, and Apple had a not insignif-
+icant share of worldwide sales of operat-
+ing systems.  See id. ¶ 35 (Microsoft has
+95% of the market not counting Apple
+and ‘‘well above’’ 80% with Apple includ-
+ed in the relevant market).  Because Mi-
+crosoft’s exclusive contract with Apple
+
+74
+253 FEDERAL REPORTER, 3d SERIES
+has a substantial effect in restricting dis-
+tribution of rival browsers, and because
+(as we have described several times
+above) reducing usage share of rival
+browsers serves to protect Microsoft’s
+monopoly, its deal with Apple must be
+regarded as anticompetitive.  See Conclu-
+sions of Law, at 42 (citing Findings of
+Fact ¶ 356) (‘‘By extracting from Apple
+terms that significantly diminished the
+usage of Navigator on the Mac OS, Mi-
+crosoft helped to ensure that developers
+would not view Navigator as truly cross-
+platform middleware.’’).
+Microsoft offers no procompetitive justi-
+fication for the exclusive dealing arrange-
+ment.  It makes only the irrelevant claim
+that the IE-for-Mac Office deal is part of a
+multifaceted set of agreements between
+itself and Apple, see Appellant’s Opening
+Br. at 61 (‘‘Apple’s ‘browsing software’ ob-
+ligation was [not] the quid pro quo for
+Microsoft’s Mac Office obligation[;]  TTT all
+of the various obligations TTT were part of
+one ‘overall agreement’ between the two
+companies.’’);  that does not mean it has
+any procompetitive justification.  Accord-
+ingly, we hold that the exclusive deal with
+Apple is exclusionary, in violation of § 2 of
+the Sherman Act.
+
+78
+253 FEDERAL REPORTER, 3d SERIES
+C.
+Causation
+[44]
+As a final parry, Microsoft urges
+this court to reverse on the monopoly
+maintenance claim, because plaintiffs nev-
+er established a causal link between Mi-
+crosoft’s anticompetitive conduct, in partic-
+ular its foreclosure of Netscape’s and
+Java’s distribution channels, and the main-
+tenance of Microsoft’s operating system
+monopoly.  See Findings of Fact ¶ 411
+(‘‘There is insufficient evidence to find
+that, absent Microsoft’s actions, Navigator
+and Java already would have ignited genu-
+ine competition in the market for Intel-
+compatible PC operating systems.’’).  This
+is the flip side of Microsoft’s earlier argu-
+ment that the District Court should have
+included middleware in the relevant mar-
+ket.  According to Microsoft, the District
+Court cannot simultaneously find that mid-
+dleware is not a reasonable substitute and
+that Microsoft’s exclusionary conduct con-
+tributed to the maintenance of monopoly
+power in the operating system market.
+Microsoft claims that the first finding de-
+pended on the court’s view that middle-
+ware does not pose a serious threat to
+Windows, see supra Section II.A, while the
+
+79
+U.S. v. MICROSOFT CORP.
+Cite as 253 F.3d 34 (D.C. Cir. 2001)
+second finding required the court to find
+that Navigator and Java would have devel-
+oped into serious enough cross-platform
+threats to erode the applications barrier to
+entry.  We disagree.
+Microsoft points to no case, and we can
+find none, standing for the proposition
+that, as to § 2 liability in an equitable
+enforcement action, plaintiffs must present
+direct proof that a defendant’s continued
+monopoly power is precisely attributable
+to its anticompetitive conduct.  As its lone
+authority, Microsoft cites the following
+passage from Professor Areeda’s antitrust
+treatise:  ‘‘The plaintiff has the burden of
+pleading, introducing evidence, and pre-
+sumably proving by a preponderance of
+the evidence that reprehensible behavior
+has contributed significantly to the TTT
+maintenance of the monopoly.’’  3 PHILLIP
+E. AREEDA & HERBERT HOVENKAMP, ANTI-
+TRUST LAW ¶ 650c, at 69 (1996) (emphasis
+added).
+But, with respect to actions seeking in-
+junctive relief, the authors of that treatise
+also recognize the need for courts to infer
+‘‘causation’’ from the fact that a defendant
+has engaged in anticompetitive conduct
+that ‘‘reasonably appear[s] capable of
+making a significant contribution to TTT
+maintaining monopoly power.’’  Id. ¶ 651c,
+at 78;  see also Morgan v. Ponder, 892
+F.2d 1355, 1363 (8th Cir.1989);  Barry
+Wright, 724 F.2d at 230.  To require that
+§ 2 liability turn on a plaintiff’s ability or
+inability to reconstruct the hypothetical
+marketplace absent a defendant’s anticom-
+petitive conduct would only encourage mo-
+nopolists to take more and earlier anti-
+competitive action.
+We may infer causation when exclu-
+sionary conduct is aimed at producers of
+nascent competitive technologies as well
+as when it is aimed at producers of es-
+tablished substitutes.  Admittedly, in the
+former case there is added uncertainty,
+inasmuch as nascent threats are merely
+potential substitutes.  But the underlying
+proof problem is the same—neither plain-
+tiffs nor the court can confidently recon-
+struct a product’s hypothetical technologi-
+cal development in a world absent the
+defendant’s 
+exclusionary 
+conduct. 
+ To
+some degree, ‘‘the defendant is made to
+suffer the uncertain consequences of its
+own undesirable conduct.’’  3 AREEDA &
+HOVENKAMP, ANTITRUST LAW ¶ 651c, at 78.
+Given this rather edentulous test for
+causation, the question in this case is not
+whether Java or Navigator would actually
+have developed into viable platform substi-
+tutes, but (1) whether as a general matter
+the exclusion of nascent threats is the type
+of conduct that is reasonably capable of
+contributing significantly to a defendant’s
+continued monopoly power and (2) whether
+Java and Navigator reasonably constituted
+nascent threats at the time Microsoft en-
+gaged in the anticompetitive conduct at
+issue.  As to the first, suffice it to say that
+it would be inimical to the purpose of the
+Sherman Act to allow monopolists free
+reign to squash nascent, albeit unproven,
+competitors at will—particularly in indus-
+tries marked by rapid technological ad-
+vance 
+and 
+frequent 
+paradigm 
+shifts.
+Findings of Fact ¶ ¶ 59–60.  As to the
+second, the District Court made ample
+findings that both Navigator and Java
+showed potential as middleware platform
+threats.  Findings of Fact ¶ ¶ 68–77.
+Counsel for Microsoft admitted as much at
+oral argument.  02/26/01 Ct. Appeals Tr.
+at 27 (‘‘There are no constraints on output.
+Marginal costs are essentially zero.  And
+there are to some extent network effects.
+So a company like Netscape founded in
+1994 can be by the middle of 1995 clearly a
+potentially lethal competitor to Windows
+because it can supplant its position in the
+market because of the characteristics of
+these markets.’’).
+
+80
+253 FEDERAL REPORTER, 3d SERIES
+Microsoft’s 
+concerns 
+over 
+causation 
+have more purchase in connection with the 
+appropriate remedy issue, i.e., whether 
+the court should impose a structural reme-
+dy or merely enjoin the offensive conduct 
+at issue.  As we point out later in this 
+opinion, divestiture is a remedy that is im-
+posed only with great caution, in part be-
+cause its long-term efficacy is rarely cer-
+tain.  See infra Section V.E.  Absent 
+some measure of confidence that there has 
+been an actual loss to competition that 
+needs to be restored, wisdom counsels 
+against adopting radical structural relief. 
+See 3 AREEDA & HOVENKAMP, ANTITRUST
+LAW ¶ 653b, at 91–92 (‘‘[M]ore extensive 
+equitable relief, particularly remedies such 
+as divestiture designed to eliminate the 
+monopoly altogether, raise more serious 
+questions and require a clearer indication 
+of a significant causal connection between 
+the conduct and creation or maintenance 
+of the market power.’’).  But these queries 
+go to questions of remedy, not liability. 
+In short, causation affords Microsoft no 
+defense to liability for its unlawful actions 
+undertaken to maintain its monopoly in 
+the operating system market.

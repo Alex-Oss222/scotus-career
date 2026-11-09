@@ -1,0 +1,1899 @@
+Au G 20 2o o| 1) Somme 78 
+
+
+No. 00-9280 | AUG 20 a 
+
+
+OFFI ae 
+In The | ane OF THR CLERK 
+
+
+nn 
+
+
+Supreme Court of the United States 
+
+
+¢ 
+
+
+WILLIAM ARTHUR KELLY, 
+
+
+Petitioner, 
+
+
+STATE OF SOUTH CAROLINA, 
+Respondent. 
++ 
+
+
+On Writ Of Certiorari To The 
+Supreme Court Of South Carolina 
+
+
++ 
+
+
+BRIEF FOR PETITIONER 
+¢ 
+
+
+Rosert M. Dupex 
+
+SouTH CAROLINA OFFICE OF 
+APPELLATE DEFENSE 
+
+1122 Lady Street, Suite 940 
+
+Columbia, SC 29201 
+
+(803) 734-1330 
+
+
+Davip I. Bruck 
+
+Counsel of Record 
+Rosert E. LomMinack 
+P. O. Box 11744 
+Columbia, SC 29211 
+(803) 765-1044 
+
+
+Attorneys for Petitioner - 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTION PRESENTED 
+
+
+Whether the South Carolina courts’ refusal to inform 
+petitioner’s sentencing jury that he would never be eligi- 
+ble for parole if the jury sentenced him to life imprison- 
+ment rather than to death violated Simmons v. South 
+Carolina, 512 U.S. 154 (1994). 
+
+
+RECEIVED 
+SEP 0 7 2001 
+LIBRARY SERVICES 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+eh ye By | PPPeeTTTT TTT rr rer er i 
+Es GF GUST oc kv cevncicésesencnsensiuees ii 
+See GE RATER oo ev cecestcvccsesensseeus iv 
+CITATION TO OPINION BELOW.................. 1 
+POE EEIE oc ocvcceeesaceccssccusaevacanouaenen 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+SED SVE sv cccvesvcecntecsensesseeuanes 1 
+gf TT ee 2 
+SUMMARY OF ARGUMENT.................20005- 14 
+GEPEEIENGS 00sec vncssccssewincasoevesnseeeenaens 16 
+
+
+1. The South Carolina Supreme Court's holding that 
+Simmons does not apply to the statutory scheme 
+governing petitioner’s sentencing hearing has 
+been overruled by this Court’s intervening deci- 
+sion in Shafer v. South Carolina, 532 U.S. __, 121 
+D. GR, TD GIO oc cccccccccencveseneudeocnseses 16 
+
+
+2. Because the prosecution presented both evidence 
+and argument calculated to persuade the jury 
+that petitioner would be dangerous unless exe- 
+cuted, Simmons entitled him to an instruction that 
+he would be ineligible for parole if sentenced to 
+SD SCRUPUIIGUNETE ooo cccccsececccntsectaneneees 17 
+
+
+A. The prosecutor’s argument, standing alone, 
+plainly raised the issue of future dangerous- 
+ness as a sentencing issue ................. 18 
+
+
+iii 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+B. There is no basis in law or logic for South 
+Carolina’s insistence that a convicted mur- 
+derer’s future dangerousness in prison car- 
+
+\ ries no inference of future dangerousness 
+outside of prison ..........6.-e cece eeeeeees 20 
+
+
+C. The applicability of Simmons should not 
+depend on prosecutors’ creativity in manipu- 
+lating the elusive distinction between evi- 
+dence of character and evidence of future 
+Gangerousness ......-. 66. e cece cece eee eeees 23 
+
+
+D. South Carolina’s resistance to Simmons will 
+persist until this Court makes unmistakably 
+
+
+clear how far Simmons extends............. 25 
+CEE nnn ckicncckensdndekessteosteunseses 31 
+APPENDIX: S.C. Code § 16-3-20 ..........050ee App. 1 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Allridge v. Scott, 41 F.3d 213 (5th Cir. 1994).......... 22 
+Bell v. State, 938 S.W.2d 35 (Tex. Crim. App. 1996) .... 24 
+California v. Ramos, 463 U.S. 992 (1983).............. 23 
+Gregg v. Georgia, 428 U.S. 153 (1976) .............005. 6 
+Johnson v. Texas, 509 U.S. 350 (1993)..............05. 24 
+
+
+Penry v. Johnson, ___ U.S. __, 121 S. Ct. 1910 (2001) .... 30 
+Pope v. Commonwealth, 360 S.E.2d 352 (Va. 1987)..... 24 
+
+
+Ramdass v. Angelone, 530 U.S. 156 (2000)............. 23 
+Shafer v. South Carolina, 532 U.S. __, 121 S. Ct. 
+
+i Ci iétedohugnedebadsdeedseasoéesoneees passim 
+Simmons v. South Carolina, 512 U.S. 154 (1994)... passim 
+Skipper v. South Carolina, 476 U.S. 1 (1986) .......... 24 
+Southerland v. State, 524 S.E.2d 833 (S.C. 1999)....... 12 
+State v. Haselden, No. 99-GS-32-3064 (appeal pend- 
+
+MS DA GU GRD ccccccccccccccccccccccccccces 26, 27 
+State v. Kelly, 540 S.E.2d 851 (S.C. 2001)......... passim 
+State v. Rogers, 466 S.E.2d 360 (S.C. 1996) ........... 28 
+State v. Shafer, 531 S.E.2d 524 (S.C. 2000)............ 17 
+State v. Shaw, 255 S.E.2d 799 (S.C. 1979)............. 29 
+State v. Southerland, 447 S.E.2d 862 (S.C. 1994)....11, 25 
+State v. Starnes, 531 S.E.2d 907 (S.C. 2000)........... 17 
+
+
+State v. Tucker, 464 S.E.2d 105 (S.C. 1995)............ 28 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+State v. Tucker, 478 S.E.2d 260 (S.C. 1996)............ 24 
+State v. Young, 459 S.E.2d 84 (S.C. 1994)............. 23 
+State v. Williams, 468 S.E.2d 626 (S.C. 1996).......... 26 
+STATUTES 
+2B USC. © IDG) ...cccccccccccccccccccccccsccccces 1 
+S.C. Code Ann. §§ 16-3-10 et seq. (2000 Cum. 
+Gupp.).....ccccccccccccccccccccscccscscsccssesseves 1 
+S.C. Code Ann. § 16-3-20(A) ....... 5. cece cece cece eens 2 
+No. 83, § 10, 1995 S.C. Acts 557 ........-. cece eee eees 2 
+MISCELLANEOUS 
+Robert M. Utley, Billy the Kid: A Short and Violent 
+Life (1989)... 2. cccccccccccccccccccccvccsscccsccees 10 
+Theodore Eisenberg, et al., The Deadly Paradox of 
+Capital Jurors, 74 S. Cal. L. Rev. 371 (2001)........ 30 
+Vernon L. Quinsey, et al., Violent Offenders: 
+Appraising and Managing Risk (1998)............++- 21 
+William J. Bowers and Benjamin D. Steiner, Death 
+ult: an Empirical Demonstration of False 
+and Forced Choices in Capital Sentencing, 77 Tex. 
+L. Rav. GB (ISPD) 2. cc ccccccccccccccccccccccccccss 30 
+
+
+CITATION TO OPINION BELOW 
+
+
+The opinion of the South Carolina Supreme Court 
+affirming petitioner’s conviction and death sentence is 
+reported as State v. Kelly, 343 S.C. 350, 540 S.E.2d 851 
+(2001), and is reprinted in the Joint Appendix at pages 
+313-343. 
+
+
+JURISDICTION 
+
+
+The judgment of the South Carolina Supreme Court 
+was entered on January 8, 2001. The petition for writ of 
+certiorari was filed on April 5, 2001, and granted on June 
+25, 2001. This Court's jurisdiction is invoked pursuant to 
+28 U.S.C. § 1257(a), petitioner having asserted below and 
+asserting herein deprivation of rights secured by the 
+United States Constitution. 
+
+
+¢ 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. This case involves the Fourteenth Amendment to 
+the Constitution of the United States, which provides in 
+pertinent part, “[NJor shall any state deprive any person 
+of life . . . without due process of law... . ” 
+
+
+2. It also involves S.C. Code Ann. §§ 16-3-10 et seq. 
+(2000 Cum. Supp.), which code sections are reprinted in 
+the Appendix to this brief at pages A-1 to A-5. 
+
+
+o 
+
+
+STATEMENT OF FACTS 
+
+
+On January 1, 1996, a South Carolina statutory 
+amendment took effect that abolished parole or other 
+forms of early release for all prisoners convicted of mur- 
+der. No. 83, § 10, 1995 S.C. Acts 557, codified as $.C. Code 
+§ 16-3-20 (Supp. 2000), App. 1-2. In capital cases, the same 
+legislation limited the sentencing jury’s options to death 
+and life imprisonment without possibility of parole, so 
+long as the jury determined the defendant to be death- 
+eligible by finding the existence of one or more statutory 
+aggravating circumstances. Id.} 
+
+
+Just five days after the no-parole amendment took 
+effect, 17-year-old William Arthur Kelly killed a former 
+co-worker at a Kentucky Fried Chicken restaurant during 
+the course of a robbery. He confessed to the crime, and 
+was duly indicted in a South Carolina state court for 
+murder, kidnaping, armed robbery, and possession of a 
+knife during the commission of a violent crime. The facts 
+of the offense involve the gruesome stabbing of a preg- 
+nant victim, and were summarized by the South Carolina 
+Supreme Court as follows: 
+
+
+On the night of January 5, 1996, police offi- 
+cer Stephen Clare drove by the Batesburg KFC 
+and noticed in the parking lot a car running 
+with the driver’s door open. Knowing that it 
+was after the restaurant’s usual closing time and 
+recognizing the car as belonging to Shirley 
+Shealy, the manager of the KFC, Officer Clare 
+
+
+1 This Court recently considered these amendments to the 
+South Carolina capital sentencing scheme in Shafer v. South 
+Carolina, 532 U.S. __, 121 S. Ct. 1263 (2001). 
+
+
+3 
+\ 
+
+
+pulled in to investigate. Officer Clare discovered 
+Shealy’s body in the KFC; her hands were taped 
+behind her back, and money was strewn all over 
+the floor and stuck to her bloody body. 
+
+
+Kelly, a former KFC employee, had visited 
+_the KFC earlier that day. After interviewing KFC 
+employees, Batesburg-Leesville Chief of Police 
+William Oswald attempted to locate Kelly. On 
+January 8, 1996, Kelly’s mother called Chief 
+Oswald and told him that Kelly was in Lowell, 
+Massachusetts. Lowell police detectives found 
+Kelly at his sister’s residence in Lowell. Kelly, 
+who was seventeen years old at the time, was 
+advised of his Miranda rights and made a state- 
+ment to the detectives admitting that he killed 
+Shealy and stole money from the KFC. Kelly had 
+in his possession money stained with Shealy’s 
+blood. In addition, the Lowell detectives 
+retrieved Kelly’s bloodstained clothing from his 
+car. 
+
+
+At trial, defense counsel virtually conceded peti- 
+tioner’s guilt from the outset, informing the jury in his 
+opening statement that the primary issue for the jury’s 
+consideration would be whether to impose the death 
+penalty. R. 1255-56. The state did offer a custodial confes- 
+sion in which petitioner made the highly improbable 
+claim that the victim had provoked the killing by making 
+sexual advances, JA 19-25; although the trial judge found 
+that assertion sufficient to warrant a jury instruction on 
+the lesser-included offense of voluntary manslaughter, 
+neither petitioner nor his counsel pursued this claim at 
+trial. For its part, the state’s guilt phase presentation 
+emphasized the extreme violence of the crime (“He cut 
+her on the side of the neck. He cut her from the top of her 
+
+
+head down to her back. . . . He cut her in her neck, cut 
+under her breasts, on the side and just ripped her... 
+everywhere imaginable. That’s what he did.”), and prom- 
+ised to prove that petitioner “butchered her like an ani- 
+mal . . . for what he values more than common decency 
+. more than human life, the lust for money.” JA 10, 
+15-16. Following through on this promise, the state pre- 
+sented detailed testimony from a crime-scene technician 
+and a pathologist describing the gory aftermath of the 
+many knife wounds that petitioner admitted to having 
+inflicted. JA 27-33. In his closing argument, the prosecu- 
+tor stressed the premeditated nature of the murder, and 
+reminded the jury of its brutality: “William Arthur Kelly 
+. . repeatedly, brutally stabbed her, cut her, slit her 
+throat, put a hatchet-like wound in her head, cut her up 
+like a piece of meat and left her there to die.” JA 60. In 
+response, defense counsel effectively conceded peti- 
+tioner’s guilt of murder, and admitted that “nobody 
+would believe all of [his] statement.” R. 1612. The jury 
+deliberated only 65 minutes before convicting petitioner 
+of all four counts in the indictment. R. 1638-40. 
+
+
+The prosecutor began the capital sentencing hearing 
+that followed by describing petitioner as “a cold-blooded 
+conniving, calculated murderer,” and expressing the hope 
+that the members of the jury would “never in your lives 
+have to experience what you are experiencing right now. 
+Being some thirty feet away from such a person. Mur- 
+derer.” JA 64. After informing the jury that “we are going 
+to be vigorously seeking the death penalty and folks, we 
+expect the death penalty,” JA 68, the prosecutor re- 
+offered in aggravation of punishment all of the evidence 
+previously adduced at the guilt-or-innocence phase of the 
+
+
+trial. R. 1661. Next, the prosecution called a series of 
+correctional officers and one of petitioner’s former cell- 
+mates to establish that petitioner was a dangerous and 
+remorseless prisoner who posed a high risk of escape. By 
+these witnesses’ testimony, the state sought to prove the 
+following facts: 
+
+
+¢ while awaiting trial on the present charges, petitioner 
+angrily refused an order to go into his cell, and 
+backup correctional cfficers had to be summoned to 
+force him back into his cell, JA 73; 
+
+
+* petitioner was charged with attempting to escape 
+after it was learned that the mortar around a cinder 
+block in his cell had been scraped away, JA 81-83, 
+93-102, 105-110; 
+
+
+* on at least five occasions, petitioner had talked with a 
+former cell-mate about escaping from jail, JA 128; 
+
+
+* petitioner had on more than one occasion made a 
+“shank,” a sharp knife-like tool, which is commonly 
+used as a weapon in jail, JA 129-130, JA 139-141; 
+
+
+* petitioner had devised a plan to take a correctional 
+officer hostage with a shank, and had gone so far as to 
+call the correctional officer to his cell while he held a 
+shank behind his back, JA 129-132, 146-147; 
+
+
+* petitioner behaved in a confrontational and aggres- 
+sive manner around other inmates, JA 147, and 
+
+
+* petitioner joked and bragged to other jail inmates 
+about the murder, asked to be nicknamed “KFC,” and 
+drew a grisly cartoon about the crime. JA 147-149. 
+
+
+Following this testimony, the state offered additional 
+photographs, bloodstained clothing and medical testi- 
+mony concerning the extremely violent and gruesome 
+manner in which petitioner killed the victim. JA 151-178. 
+
+
+Responding to a defense objection to the photos and 
+clothing, the prosecutor said that he was offering them 
+both to establish the statutory aggravating circumstance 
+of physical torture, and to show “the character and char- 
+acteristics of the defendant.” JA 151-55.2 
+
+
+After completing its own presentation, the prosecu- 
+tion elicited the following additional facts through cross- 
+examination of a defense psychologist: 
+
+
+* petitioner told a mental health counselor that he 
+“obresses” about killing people who anger him, and 
+about how he could do it without being caught, JA 195; 
+
+
+* petitioner was part of a prison gang, JA 206-208, and 
+
+
+* petitioner tortured and killed small animals while he 
+was growing up. JA 218-219. 
+
+
+Cross-examining a former state prison official called 
+by the defense, the prosecutor also highlighted the wit- 
+ness’s passing reference to loss of “good-time” as a means 
+of controlling prisoners, despite petitioner’s objection 
+that the state was trying to mislead the jury by falsely 
+suggesting that a life sentence could be shortened by 
+good-time credit. JA 229-237. 
+
+
+2 The state alleged a total of five statutory aggravating 
+circumstances - kidnaping, burglary, armed robbery, larceny 
+with use of a deadly weapon, and physical torture. South 
+Carolina’s capital sentencing scheme, which closely resembles 
+the Georgia system upheld in Gregg v. Georgia, 428 U.S. 153 
+(1976), also allows the jury to consider a wide array of 
+nonstatutory aggravating factors (such as future 
+dangerousness) as reasons to impose the death penalty once a 
+finding of one or more statutory factors has rendered the 
+defendant death-eligible. Simmons v. South Carolina, 512 U.S. 
+154, 162 (1994). 
+
+
+| 
+
+
+During the charge conference just before closing 
+arguments, JA 243-254, petitioner’s counsel requested, on 
+the authority of Simmons v. South Carolina, 512 U.S. 154 
+(1994), that the judge read to the jury the following 
+portion of S.C. Code Ann. § 16-3-20(A): 
+
+
+“[Llife imprisonment” means imprisonment 
+until the death of the offender. No person sen- 
+tenced to life imprisonment is eligible for 
+parole, community supervision, or any early 
+release program, nor is the person eligible to 
+receive any work credits, education credits, 
+good conduct credits, or any other credits that 
+would reduce the mandatory life imprisonment 
+required by law. 
+
+
+Defendant’s Request to Charge Number 1, JA 311, 322, 
+540 S.E.2d at 856. At this point, the trial judge became 
+aware, apparently for the first time, that petitioner’s 
+crime occurred after the effective date of South Carolina’s 
+abolition of parole for convicted murderers, and that the 
+jury’s life imprisonment option therefore meant life with- 
+out possibility of parole. JA 243-244. However, the pros- 
+ecutor responded that peti:: oner’s parole-ineligibility was 
+“immaterial,” asserting that petitioner was not entitled to 
+a Simmons instruction on parole ineligibility because the 
+prosecutor was “not going to argue future dan- 
+gerous[ness]” in his penalty phase summation. JA 245. 
+Defense counsel protested that “the state has already 
+raised future dangerousness . . . in its case in chief” by 
+presenting evidence of petitioner’s escape attempts, his 
+possession of a shank in jail, and his plotting to take a 
+female jail guard hostage. She continued, 
+
+
+The clear inference that they seek for the jury to 
+derive from this evidence is that he has a violent 
+
+
+9 
+character. He is going to be dangerous in the Loe tical ' q 
+future. That is a part of his character. . . . They the sentencing jury. Specifically, counsel requested an 
+also raise those inferences through their cross- : instruction that included the following: 
+
+
+examination of our expert witnesses as to those 
+matters contained in the jail records. Future 
+dangerousness has already been put at issue by 
+the state itself in its case in chief. 
+
+
+JA 245-246. The prosecutor responded, 
+
+
+I can’t understand how past conduct somehow 
+throws it into the future. We are talking about 
+his past background, conduct, character. I am 
+not going to talk about this defendant posing a 
+future danger to the public and to society... . I 
+didn’t put up any psychiatrist or psychologist 
+that said this man will kill again in the future. 
+
+
+JA 246. After considering the matter during a recess, the 
+trial judge agreed with the state, ruling as follows: 
+
+
+The argument that [defense counsel] make con- 
+cerning the defendant’s request to charge 
+number one . . . you made the argument that the 
+state has made future dangerousness an issue in 
+this matter. I don’t believe that the issues that 
+have been presented by the state insofar as the 
+testimony from the prison guards et cetera are 
+such that causes this court to determine that 
+future dangerousness has been made an issue. I 
+think those are issues that go to the defendant’s 
+character and characteristics. As a result, I’m 
+going to deny defendant’s request for charge 
+number one. 
+
+
+~~ 
+
+
+I have instructed you on the “aggravating” 
+factors that you may consider as reasons to 
+impose the death penalty. I tell you now that 
+you may not consider, as a reason to impose the 
+death penalty, any possibility that the defendant 
+may be dangerous in the future unless he is 
+executed. In this case, there is no evidence that 
+the defendant will be dangerous if he does not 
+receive the death penalty but is instead sen- 
+tenced to life imprisonment. The state does not 
+contend that he will be dangerous in the future. 
+Therefore, any consideration about future dan- 
+gerousness is not a legal factor for you to con- 
+sider as a reason to sentence the defendant to 
+death. This subject may not be considered by 
+you at all in deciding whether the death penalty 
+should be imposed, and should not even be 
+mentioned by you during your deliberations as 
+to the sentence to be imposed. 
+
+
+Defendant’s Proposed Instruction No. 2, JA 312, 329-330, 
+540 S.E.2d at 859. The state opposed this instruction, and 
+despite defense counsel’s urging that the jury would infer 
+petitioner’s future dangerousness “from the evidence that 
+the state itself put before the jury” absent such an instruc- 
+tion, the trial judge refused to give it. JA 251. 
+
+
+9. ; 
+JA 24 The prosecutor then delivered his summation. Not- 
+
+
+Defense counsel next requested, based on the court's withstanding his assurance that the state would not 
+finding that the state had not made an issue of peti- 
+
+
+“argue” petitioner’s future dangerousness, he proceeded 
+tioner’s future dangerousness, that the court so instruct 
+
+
+to characterize petitioner as more frightening than a 
+
+
+10 
+
+
+serial killer, JA 260, as a butcher, and as “Billy the Kid.” 
+JA 267-268. In an effort to minimize the significance of the 
+fact that petitioner was only 17 and had no prior criminal 
+record, the prosecutor argued, “You know something, a 
+person that commits an uncharacteristic and an 
+unpredictable crime is more frightening than a serial 
+killer, more frightening than a career criminal.” JA 260. 
+The prosecutor informed the jury that petitioner’s mur- 
+derousness was an innate and immutable fact: “He was 
+going to kill. It was just a matter of when. Whether he 
+was 17, 27, or 37.” JA 261. Later in his closing, the 
+prosecutor repeatedly referred to petitioner as “Bloody 
+Billy, the butcher of Batesburg.” JA 267. He went on to 
+explain what made petitioner so dangerous: “What did 
+his own witness say[?] He doesn’t have any mental ill- 
+ness. He’s intelligent. He’s not retarded. He’s quick-wit- 
+ted. Doesn’t that make somebody a little more 
+dangerous... ”. JA 269. Petitioner’s counsel promptly 
+objected, telling the judge that the prosecutor had “stipu- 
+lated dangerousness is not an issue,” whereupon the 
+prosecutor changed course to suggest that the dangerous- 
+ness he had just referred to was “ . . . for this lady, this 
+crime on January 5th, doesn’t that make him more 
+unpredictable for Shirley Shealy. When you let your 
+guard down and they stab you in the back. That’s what 
+
+
+3 See Robert M. Utley, Billy the Kid: A Short and Violent Life 
+(1989). Henry Antrim, also known as Billy the Kid, was a 
+notorious Western outlaw and gang leader known for his boyish 
+appearance and extreme ruthlessness. He killed his first victim 
+when he was seventeen, id. at 12-14, and eventually murdered at 
+least nine people before being gunned down himself at the age 
+of twenty-one. Id. at 203-04. 
+
+
+11 
+
+
+we have here.” JA 269. The prosecutor reminded the jury 
+of petitioner's attempted escapes, JA 270-271, and his 
+plan to take a correctional officer hostage, JA 271-272, 
+and invited the jury to conclude from this evidence that 
+“shanks will be shanks. And murderers will be mur- 
+derers. And he is the cold-blooded one right over there.” 
+JA 272. He reminded the jury that petitioner had bragged 
+and joked about his crimes while in jail. JA 275. Finally, 
+he again told the jury “that we are seeking the death 
+penalty and we expect the death penalty,” and concluded, 
+“Folks, if you don’t give him the death penalty, anything 
+less will be a final stab to the memory of Shirley and 
+Sidney Bruce.” JA 276.4 
+
+
+In keeping with his pre-argument ruling, the trial 
+judge gave the jury no instructions concerning the 
+unavailability of parole release for murderers sentenced 
+to life imprisonment, stating only that “the terms ‘life 
+imprisonment’ and ‘death sentence’ are to be understood 
+in this ordinary and plain meaning.” JA 289.5 While 
+
+
+* Sidney was the name that *he victim’s family gave to her 
+dead fetus, after it was removed from her womb at autopsy. The 
+unborn child was placed in its mother’s arms in her casket for 
+burial, and the state’s case in aggravation of punishment 
+included a description by the victim's sister of the effect of 
+viewing the tiny infant’s corpse in its dead mother’s arms. R. 
+1858. 
+
+
+5 Despite this Court’s determination in Simmons that such a 
+“plain meaning” instruction does not protect capital defendants 
+against jurors’ prejudicial misconceptions concerning parole, 
+512 U.S. at 169-170 (plurality opinion), 177-78 (O’Connor, J., 
+concurring), the South Carolina Supreme Court continues to 
+require that the instruction be given. Compare State v. 
+Southerland, 447 S.E.2d 862 (S.C. 1994) (Simmons charge not 
+
+
+42 
+
+
+declining to further define life imprisonment, the trial 
+judge did advise the jury that “the death penalty . . . in 
+this state is by electrocution or lethal injectien.” JA 289. 
+
+
+Following the sentencing instructions, defense coun- 
+sel renewed her objection to the trial court’s failure to 
+charge the jury regarding petitioner’s ineligibility for 
+parole, or in the alternative, to charge the jury that peti- 
+tioner’s future dangerousness was not an issue in the 
+case. JA 304. The judge again refused both requests. After 
+deliberating for 43 minutes, the sentencing jury found all 
+five statutory aggravating circumstances alleged by the 
+state, and returned a binding recommendation of death. 
+JA 305-307. 
+
+
+On appeal to the South Carolina Supreme Court, 
+petitioner renewed his argument that Simmons v. South 
+Carolina entitled him to advise the jury of his ineligibility 
+for parole had he been sentenced to life imprisonment. 
+State v. Kelly, Brief of Appellant at 2-13; Reply Brief at 3-5. 
+In response, the state relied in part on a since-invalidated 
+rationale for avoiding the effect of Simmons: namely, that 
+Simmons had been rendered inapplicable to South Caro- 
+lina’s capital sentencing scheme by the 1995 statutory 
+amendments. Brief of Respondent at 19-27. The state also 
+argued that the prosecutor had not raised future danger- 
+ousness outside of prison as an issue, and that petitioner 
+was therefore not entitled to a Simmons instruction. Brief 
+of Respondent at 27-39. 
+
+
+required because prosecutor agreed not to “argue” future 
+dangerousness) with Southerland v. State, 524 S.E.2d 833 (S.C. 
+1999) (appellate counsel ineffective for failing to raise denial of 
+“plain meaning” instruction). 
+
+
+13 
+
+
+With one justice dissenting, the South Carolina 
+Supreme Court accepted both of the state’s arguments, 
+holding that the record did not satisfy the “future danger- 
+ousness” requirement of Simmons, State v. Kelly, 540 
+S.E.2d 851, 857 (S.C. 2001), JA 324-326, and also that the 
+1995 amendments placed South Carolina’s sentencing 
+scheme outside the ambit of Simmons in any event. Id., at 
+857-58, JA 326-329. With regard to future dangerousness, 
+the state court majority first opined that the state’s evi- 
+dence regarding petitioner’s attempted escapes, his fre- 
+quent talk about escaping, and his possession of a shank 
+“simply is not the type of future dangerousness evidence 
+contemplated by Simmons.” Id. at 857, JA 324. While 
+acknowledging that “evidence of Kelly’s future danger to 
+others within prison . . . was clearly presented by the 
+State,” id. at 859, JA 331, the state supreme court held that 
+this evidence only placed in issue his ability to adapt to 
+prison life, and did not invite the jury to weigh “what is 
+considered ‘future dangerousness’ under Simmons, i.e. a 
+future danger to society.” Id., JA 331. 
+
+
+To petitioner’s argument that the prosecutor had also 
+raised the issue of petitioner’s dangerousness directly in 
+his closing argument, the state court responded that “the 
+State consciously avoided any implication of future dan- 
+gerousness,” and did not explicitly ask the jury to impose 
+the death penalty based on petitioner’s future danger to 
+society. Id. at 857, JA 326. For these reasons, the state 
+court concluded that future dangerousness “was neither a 
+logical inference from the evidence nor was it injected 
+into the case through the State’s closing argument.” Id., 
+JA 326. 
+
+
+14 
+
+
+Petitioner also raised on appeal the trial court’s 
+refusal to instruct the jury that petitioner’s future danger- 
+ousness was not an appropriate sentencing consideration. 
+Brief of Petitioner at 14-16. The state argued that such an 
+instruction would have been improper in this case, 
+because the prosecutor “did not stipulate to the factual 
+issue that future dangerousness was not in issue; instead, 
+he merely agreed not to argue future dangerousness in 
+
+
+closing.” Brief of Respondent at 42. The South Carolina _ 
+
+
+Supreme Court agreed with the state, holding that the 
+proposed instruction\would have improperly precluded 
+the jury from considering the evidence presented by the 
+prosecution to show that petitioner posed a danger 
+within a prison setting. 540 S.E.2d at 859, JA 331. 
+
+
++ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In Shafer v. South Carolina, 121 S. Ct. 1263 (2001), this 
+Court invalidated one of the two bases of the South 
+Carolina Supreme Court's affirmance of petitioner’s 
+sentence — namely, that post-Simmons changes in South 
+Carolina’s capital sentencing procedures had wholly 
+eliminated the state’s obligation to inform sentencing 
+juries of the nonexistence of parole. The constitutionality 
+of petitioner’s sentence thus rests on the validity of the 
+state court’s remaining justification for denying his 
+request for a Simmons instruction, which was that the 
+prosecution never placed his future dangerousness at 
+issue. This rationale is belied by the record. 
+
+
+The state prepared the way for what would prove to 
+be an onslaught of dangerousness rhetoric by placing 
+
+
+15 
+
+
+before the jury evidence of petitioner’s pretrial escape 
+attempts, his possession of weapons in jail, his plan to 
+take a correctional officer hostage, his expressed lack of 
+remorse, his obsessive homicidal! ideation, and his history 
+of torturing small animals. In addition, the trial court 
+permitted the prosecution to introduce, as evidence of 
+petitioner's “character,” graphic depictions of the 
+extreme brutality with which he murdered the victim. 
+Then, in his sentencing phase jury argument, the prosecu- 
+tor squarely put before the jury the issue of petitioner’s 
+future dangerousness. The prosecutor implied that peti- 
+tioner was a second Billy the Kid, and referred to him as 
+“Bloody Billy” and as “the Butcher of Batesburg.” He told 
+the jury that “murderers will be murderers,” and called 
+petitioner “cold-blooded” and “more frightening than a 
+serial killer, more frightening than a career criminal.” He 
+even asserted —- while denying that he was making an 
+issue of petitioner’s dangerousness - that petitioner’s 
+lack of any mental disability rendered him “more dan- 
+gerous” to those around him. 
+
+
+The state supreme court did acknowledge that the 
+evidence relating to petitioner’s misconduct in jail tended 
+to prove his future dangerousness, but insisted that in- 
+prison dangerousness does not implicate the rule of Sim- 
+mons because such evidence is not rebutted by proof of 
+parole ineligibility. This reasoning overlooks that violent 
+behavior in prison is highly predictive of violent behavior 
+in the general society, should the defendant ever be 
+released. 
+
+
+Nor is there any validity to the South Carolina 
+courts’ distinction between evidence of petitioner’s 
+“character” and evidence of his future dangerousness. 
+
+
+16 
+
+
+Because the state’s depiction of petitioner’s “character” 
+was that of a remorseless, unpredictable and incorrigible 
+killer, the message the state sought to convey to the jury 
+was that in this case, “dangerousness” and “character” 
+amounted to the same thing. Accordingly, under Sim- 
+mons, petitioner should have been allowed to respond to 
+the state’s case for death by showing that he would never 
+be eligible for parole if sentenced to life imprisonment. 
+
+
+South Carolina’s resistance to this Court's decision in 
+Simmons should end here. The Court should disapprove 
+South Carolina’s myopic view of Simmons’ dangerousness 
+requirement, and should make clear that that requirement 
+is satisfied whenever the prosecution introduces evidence 
+from which a capital sentencing jury could reasonably 
+infer that the defendant would be dangerous if released. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+1. The South Carolina Supreme Court’s holding that 
+Simmons does not apply to the statutory scheme 
+governing petitioner’s sentencing hearing has been 
+overruled by this Court’s intervening decision in 
+Shafer v. South Carolina, 532 U.S. __, 121 S. Ct. 1263 
+(2001). 
+
+
+Petitioner’s case is yet another in a series of decisions 
+which recently led this Court to observe that “South 
+Carolina has consistently refused to inform the jury of a 
+capital defendant’s parole eligibility status.” Shafer v. 
+South Carolina, 121 S. Ct. 1263, 1271 (2001). This time, as 
+related above, the state court’s refusal rests on alternative 
+holdings. First, the state supreme court held that while 
+
+
+— ~~ En 
+
+
+17 
+
+
+the state’s evidence and jury argument “clearly” placed 
+in issue petitioner’s future dangerousness, they did so in 
+a way that failed to trigger the due process rule of Sim- 
+mons v. South Carolina, 512 U.S. 154 (1994). And second, 
+the state court reiterated its holding, previously 
+announced in State v. Starnes, 531 S.E.2d 907 (S.C. 2000), 
+and State v. Shafer, 531 S.E.2d 524 (S.C. 2000), that Sim- 
+mons is in any event inapplicable to the current South 
+Carolina sentencing scheme. 
+
+
+The second of these holdings has now been expressly 
+rejected by Shafer v. South Carolina, supra. In Shafer, this 
+Court held that the possibility of a less-than-life sentence 
+in cases where the prosecution fails to establish the 
+defendant’s death-eligibility does not remove South Car- 
+olina’s sentencing scheme from the ambit of Simmons. The 
+state court’s decision to the contrary cannot stand in light 
+of Shafer. 
+
+
+2. Because the prosecution presented both evidence 
+and argument calculated to persuade the jury that 
+petitioner would be dangerous unless executed, 
+Simmons entitled him to an instruction that he 
+would be ineligible for parole if sentenced to life 
+imprisonment. 
+
+
+The South Carolina Supreme Court also held that the 
+state did not place petitioner’s future dangerousness in 
+issue as required by Simmons, opining that dangerous- 
+ness, as that concept is employed in Simmons, was “nei- 
+ther a logical inference from the evidence nor was it 
+injected into the case through the State’s closing argu- 
+ment.” State v. Kelly, supra, 540 S.E.2d at 857, JA 326. This 
+
+
+18 
+
+
+holding was incorrect on both points: the issue of peti- 
+tioner’s future dangerousness was both a logical inference 
+from the state’s evidence and was hammered home in 
+closing argument. The state supreme court majority’s 
+holding to the contrary reflects a recalcitrant refusal to 
+implement this Court’s decision in Simmons, and should 
+be reversed. 
+
+
+A. The prosecutor’s argument, standing alone, 
+plainly raised the issue of future dangerous- 
+ness as a sentencing issue. 
+
+
+The South Carolina Supreme Court notwithstanding, 
+the record of this case is replete with generalized claims 
+of future dangerousness. Most egregious was the pros- 
+ecutor’s explicit assertion during closing argument that 
+petitioner was all the more dangerous because his lack of 
+mental disability rendered his crimes unpredictable. In 
+making this argument (“Doesn’t that make somebody a 
+little more dangerous([?]”), the prosecutor appears to have 
+momentarily forgotten the “no-dangerousness” charade 
+by which he was attempting to circumvent this Court’s 
+decision in Simmons: his subsequent attempt to confine 
+this general allegation of future dangerousness to the 
+already-murdered victim seems a hastily-improvised 
+(and somewhat illogical) response to defense counsel's 
+Simmons-related objection. 
+
+
+Nor was this the only explicit reference to gener- 
+alized future dangerousness in the prosecutor’s some- 
+what inflammatory summation. Throughout his closing 
+argument, the prosecutor portrayed petitioner as an 
+incorrigible killer: he evoked the memory of Billy the Kid, 
+
+
+( 
+
+
+—— als a ez naa 
+
+
+19 
+
+
+tagged petitioner as “Bloody Billy” and as “the Butcher of 
+Batesburg,” provided the jury with future-dangerousness 
+aphorisms such as “murderers will be murderers,” and 
+expressed the hope that the jurors would never again be 
+so close to a murderer as they were at that moment. He 
+called petitioner “cold-blooded” and “more frightening 
+than a serial killer, more frightening than a career crimi- 
+nal.” And this cascade of dangerousness rhetoric was fed 
+not only by the state’s evidence regarding petitioner’s 
+extremely violent crime and his misconduct in jail, but 
+also by prosecution cross-examination about petitioner’s 
+obsessive thoughts of killing people, and his history of 
+torturing and killing small animals. — 
+
+
+Even if the prosecutor did modulate parts of his 
+summation as a tactic intended to avert a truthful Sim- 
+mons instruction, his argument raised petitioner’s alleged 
+
+
+_ future dangerousness much more explicitly than anything 
+
+
+in Simmons itself. In that case, the sum total of the pros- 
+ecutor’s argument on future dangerousness was as fol- 
+lows: 
+
+
+The question for the jury, the prosecution 
+argued, was “what to do with [petitioner] now 
+that he is in our midst.” The prosecution further 
+
+
+“ 
+
+
+urged that a verdict for death would be “a 
+response of society to someone who is a threat. 
+Your verdict will be an act of self-defense.” 
+
+
+512 U.S. at 157, 177. These veiled references to Simmons’ 
+dangerousness were just that: veiled references. Indeed, 
+two dissenting Justices detected nothing at all in the 
+prosecutor’s argument that even referred to Simmons’ 
+future behavior: to the dissenters, the “in-our-tidst” pas- 
+sage referred only to Simmons’ alleged attempt to blame 
+
+
+20 
+
+
+his crimes on his childhood environment, while the “self- 
+defense” reference was merely an appeal for a calm and 
+dispassionate societal response to Simmons’ brutal 
+crimes, rather than a sentence based on anger or emotion. 
+512 U.S. at 181-82 (Scalia, J., dissenting). If the prosecu- 
+tor’s argument in Simmons sufficed to place Simmons’ 
+dangerousness in issue, so did the much more explicit 
+cross-examination and argument here. 
+
+
+B. There is no basis in law or logic for South 
+Carolina’s insistence that a convicted mur- 
+derer’s future dangerousness in prison carries 
+no inference of future dangerousness outside of 
+prison. 
+
+
+The state court did acknowledge that the prosecutor 
+“clearly presented” both evidence and argument to the 
+effect that petitioner would pose a violent escape risk 
+while incarcerated. 540 S.E.2d at 855-57, JA 321-326. 
+According to the South Carolina Supreme Court, how- 
+ever, this explicit claim of future dangerousness did not 
+implicate the Simmons right of rebuttal because the fact of 
+petitioner’s parole ineligibility did not directly rebut the 
+state’s implication that he would attempt to secrete 
+weapons, take hostages and escape if he was not exe- 
+cuted. Id. at 857, JA 325. 
+
+
+Of course, a dangerous prisoner can fashion 
+weapons, take hostages and try to escape whether or not 
+he is eligible for parole. What the state court overlooked, 
+however, is that evidence of dangerousness in prison is 
+also powerful evidence of dangerousness outside of 
+
+
+— ee 
+
+
+21 
+
+
+prison, where the defendant will have much more free- 
+dom to indulge whatever violent impulses he may har- 
+bor. Evidence that for this particular defendant, not even 
+prison was effective in curbing his violent tendencies 
+created a particularly strong inference of generalized 
+future dangerousness.® So while an accurate instruction 
+on petitioner’s parole ineligibility would not have 
+answered the state’s claim that he would be dangerous 
+while serving a life sentence in prison, it would have 
+allayed the jury’s inevitable concern that petitioner 
+would prove all the more violent should he ever be 
+paroled back into society. 
+
+
+One facet of the state’s case — petitioner’s alleged 
+hostage-taking plan - was especially likely to have 
+reminded the jury of the obvious relationship between in- 
+prison and out-of-prison dangerousness. The state’s claim 
+that petitioner tried to lure a slightly-built female jail 
+officer into his cell while hiding a homemade knife 
+behind his back must have struck the jury as similar to 
+the facts of the Shealy murder itself. If petitioner was 
+inclined to repeat such crimes even while confined in the 
+highly restrictive setting of a county jail, the jury surely 
+reasoned, he would be particularly likely to do so if and 
+when he was released from prison. 
+
+
+6 While a jury would hardly require scientific confirmation 
+of this self-evident proposition, current research on violent 
+recidivism does indicate that a history of violent behavior in 
+prison increases the likelihood of violent behavior if and when 
+the offender is released. Vernon L. Quinsey, et al., Violent 
+Offenders: Appraising and Managing Risk 161 (1998). 
+
+
+22 
+
+
+In this connection, the South Carolina Supreme Court 
+may have misunderstood the Court’s observation in Sim- 
+mons concerning the relationship between accurate 
+instructions on parole ineligibility and dangerousness in 
+prison. As the Simmons plurality noted, 
+
+
+the fact that a defendant is parole ineligible does 
+not prevent the State from arguing that the 
+defendant poses a future danger. The State is 
+free to argue that the defendant will pose a 
+danger to others in prison and that executing 
+him is the only means of eliminating the threat 
+to the safety of other inmates or prison staff. But 
+the State may not mislead the jury by concealing 
+accurate information about the defendant’s 
+parole ineligibility. 
+
+
+512 U.S. at 165. Likewise, Justice O’Connor observed that 
+whenever due process entitles a capital defendant to 
+inform the jury of his parole ineligibility, “the prosecution 
+is free to argue that the defendant would be dangerous in 
+prison.” Id. at 177. These passages make clear that proof 
+of a defendant's likely misconduct in prison is a permis- 
+sible basis for argument by the prosecutor that only a 
+death sentence can protect against the defendant's fore- 
+seeable future depredations whether or not he is legally 
+ineligible for parole; but such proof is not, as the prosecutor 
+and the South Carolina Supreme Court seemed to think, a 
+basis for concealing from the jury the crucial information 
+that, in fact, the defendant is ineligible for parole.’ 
+
+
+7 The one federal case cited by the South Carolina Supreme 
+Court on this point appears to reflect a similar misreading of 
+Simmons. In Allridge v. Scott, 41 F.3d 213, 223 (5th Cir. 1994), the 
+court suggested in dictum that “when the state argues that the 
+
+
+23 
+
+
+C. The applicability of Simmons should not 
+depend on prosecutors’ creativity in manipulat- 
+ing the elusive distinction between evidence of 
+character and evidence of future dangerous- 
+ness. 
+
+
+In denying petitioner’s request for a Simmons instruc- 
+tion, the trial judge ruled that the state’s evidence of 
+future dangerousness actually went to petitioner’s “char- 
+acter and characteristics.” This purported distinction 
+between bad character and dangerousness does find sup- 
+port in prior South Carolina decisions, see, e.g., State v. 
+Young, 459 S.E.2d 84, 87 n.4 (S.C. 1994), but this Court’s 
+cases are to the contrary. California v. Ramos, 463 U.S. 992, 
+1006 n.20 (1983) (“[A] . . . jury’s evaluation of the defen- 
+dant’s future dangerousness may rest on lay testimony 
+about the defendant’s character and background and the 
+inferences to be drawn therefrom”); Ramdass v. Angelone, 
+530 U.S. 156, 171 (2000) (“To demonstrate Ramdass’ evil 
+character and his propensity to commit violent acts in the 
+future, the prosecutor used Ramdass’ prior criminal con- 
+duct. ... ”). In this context, moreover, the distinction is 
+meaningless. When the prosecution seeks to prove that a 
+teenaged murderer has exhibited unpredictable and 
+extreme violence, lacks remorse, and behaves violently in 
+
+
+defendant poses a future danger to everybody, fellow inmates 
+included, then Simmons is inapplicable because whether the 
+defendant is eligible for parole is irrelevant.” This suggestion 
+was not necessary to the judgment, because the defendant in 
+Allridge was actually eligible for parole under state law. Outside 
+of South Carolina, no court appears to have upheld the denial of 
+a Simmons instruction solely because the state’s proof of the 
+defendant’s dangerousness was restricted to the controlled and 
+highly-structured setting of prison. 
+
+
+a4 
+
+
+jail, it is trying to prove that his character is one of 
+persistent and violent criminality - which is to say, that 
+he is dangerous and will remain so. The defendant's right 
+to inform the jury that he will never be released from 
+prison does not depend on whether this portrayal is 
+labeled “dangerousness” or “character,” because in this 
+setting the two terms mean the same thing. See Skipper v. 
+South Carolina, 476 U.S. 1, 7 (1986) (rejecting South Caro- 
+lina’s effort to distinguish between capital defendant's 
+“past good conduct to prove good character and use of 
+the same evidence to establish future good conduct in 
+prison.”). 
+
+
+In states where dangerousness is a formal statutory 
+factor, prosecutors generally rely on precisely the type of 
+evidence that the state introduced here to meet their 
+burden of proving dangerousness. Courts in both Virginia 
+and Texas - states where future dangerousness is a formal 
+s*- itory aggravating factor — have held that the facts of 
+the capital murder alone may support a finding of danger- 
+ousness beyond a reasonable doubt. See, e.g., Pope v. 
+Commonwealth, 360 S.E.2d 352, 361 (Va. 1987); Bell v. State, 
+938 S.W.2d 35, 42 (Tex. Crim. App. 1996). In addition, 
+given that “[clonsideration of a defendant’s past conduct 
+as indicative of his probable future behavior is an inevita- 
+ble and not undesirable element of criminal sentencing,” 
+Skipper v. South Carolina, 476 U.S. 1, 5 (1986), prosecutors 
+usually present any available evidence of prior convic- 
+tions and other violent or anti-social conduct to prove 
+future dangerousness. See e.g., Johnson v. Texas, 509 U.S. 
+350, 355 (1993) (state proved future dangerousness by 
+introducing 19-year-old offender’s prior crimes); State v. 
+Tucker, 478 S.E.2d 260, 269-70 (S.C. 1996) (recognizing that 
+
+
+25 
+
+
+evidence of past criminal behavior is highly relevant to 
+both character and future dangerousness of convicted 
+murderer). While the weight to be accorded such evi- 
+dence in establishing future dangerousness for any given 
+offender may be open to dispute, this much is not: when 
+the prosecution proves a grisly, premeditated murder of a 
+defendant’s pregnant co-worker, and then presents “char- 
+acter” evidence at sentencing that the defendant bragged 
+about his offense, defied jail authorities, attempted to 
+escape, and plotted a hostage-taking at knife-point, any 
+rational sentencer will likely consider the possibility of 
+violent future behavior before deciding to spare the 
+defendant's life. The state having presented the evidence 
+that triggers this concern, the defendant has a due pro- 
+cess right to allay it if he can, and Simmons clearly entitles 
+him to attempt to do that by informing the jury that he 
+would never be eligible for parole. 
+
+
+D. South Carolina’s resistance to Simmons will 
+persist until this Court makes unmistakably 
+clear how far Simmons extends. 
+
+
+This is not the first time that the South Carolina 
+Supreme Court has avoided applying Simmons by refus- 
+ing to acknowledge the state’s injection of a capital defen- 
+dant’s future dangerousness as a sentencing issue. State v. 
+Southerland, 447 S.E.2d 862 (S.C. 1994); sentence vacated on 
+other grounds, 524 S.E.2d 833 (S.C. 1999). More impor- 
+tantly, it may not be the last. Shafer v. South Carolina, 121 
+S. Ct. 1263 (2001), is currently pending before the South 
+Carolina Supreme Court on remand from this Court for a 
+determination of whether the state’s evidence and argu- 
+ment placed future dangerousness “at issue,” and State v. 
+
+
+26 
+
+
+Haselden, No. 99-GS-32-3064 (appeal pending S.C. S. Ct.), 
+a case involving the same prosecutor and trial judge as 
+does this one, will soon present the question yet again. Of 
+course, each of these cases involves its own facts, and 
+although the sentencing juries in all three likely consid- 
+ered the issue of the defendants’ future dangerousness, 
+the state has already begun to urge that the facts of Shafer 
+and Haselden are less egregious than - and thus distin- 
+guishable from - those of this case. Indeed, in suc- 
+cessfully opposing a Simmons-based motion for a new 
+sentencing trial in Haselden, supra, prosecutor Myers 
+recently cited his own jury argument and the South Caro- 
+lina Supreme Court’s opinion in this case to show that his 
+Haselden argument did not mandate a Simmons instruc- 
+tion: 
+
+
+Now, [defense counsel] always try to say I 
+argue future dangerousness and the [state] 
+supreme court keeps telling them, No, he 
+doesn’t. [The court] said I didn’t argue future 
+dangerousness in State versus Southerland, [447 
+S.E.2d 862 (S.C. 1994)]. They said I didn’t argue 
+future dangerousness in State versus Luke Wil- 
+liams, [468 S.E.2d 626 (S.C. 1996)]. They said I 
+didn’t argue future dangerousness in State 
+
+
+versus William Arthur Kelly, 540 S.E.2d 855... 
+
+
+In Kelly, I even talked about Mr. Kelly 
+attempting to escape from the Lexington County 
+jail. I put in evidence Mr. Kelly was going to 
+hold a female correctional officer to escape and 
+he was making a shank. I put in evidence that 
+he had a shank in his cell. . . . And I also talked 
+about the escape and I argued about the escape. 
+I also put in evidence that Mr. Kelly, he had 
+murdered a woman down at the Kentucky Fried 
+
+
+-—e 
+
+
+27 
+
+
+\ 
+
+
+Chicken place, a pregnant woman, and at the jail 
+he wanted to be called K.F.C. and that he went 
+around with a styrofoam cup with a chicken 
+with his head cut off with blood coming down it 
+for what he had done to Shirley Shealy in that 
+case. 
+
+
+Oh, they argued that was future dangerous- 
+ness. The Supreme Court of South Carolina said, 
+No sir, it isn’t. Solicitor Myers doesn’t put in 
+future dangerousness. 
+
+
+I said — I called him he’s worse than a mass 
+murderer, that it’s an unpredictable crime and 
+more frightening than a serial killer. I called him 
+a career criminal. But you kind of trust those 
+people like him when he’s not a serial killer a 
+little bit more, it makes him more dangerous for 
+this victim, unpredictable for Sherry Shealy. I 
+said, Murderers will be murderers. 
+
+
+Through all that, through all their argu- 
+ments the South Carolina Supreme Court said, 
+First, we agree with the trial court that the 
+state’s evidence did not implicate future danger- 
+ousness. 
+
+
+State v. Haselden, supra, Trial Transcript at 2336-38 (April 
+5, 2001). 
+
+
+This prosecutor may be unusual for the zeal with 
+which he has sought to evade the effect of this Court's 
+decision in Simmons, and for the candor with which he 
+recounts his success so far. But Mr. Myers is not alone 
+among South Carolina prosecutors in seeking to take 
+advantage of the state courts’ lax enforcement of the 
+Simmons rule. As counsel for South Carolina recently 
+
+
+28 
+
+
+acknowledged before this Court, South Carolina prosecu- 
+tors make “tactical decision|s]” to avoid arguing about 
+capital defendants’ future dangerousness precisely so as 
+to avoid having to inform the jury, under Simmons, that 
+the defendant will never be paroled. Shafer, supra, Tr. of 
+Oral Arg. at 38-39 (Jan. 9, 2001).® Given the continuing 
+unwillingness of South Carolina prosecutors and courts 
+to enlighten sentencing juries concerning the actual alter- 
+native to the death penalty that South Carolina’s legisla- 
+ture has established, only a clear restatement of the 
+Simmons rule will obviate the necessity of further case-by- 
+case review by this Court. 
+
+
+Accordingly, petitioner submits that the Court should 
+now hold that future dangerousness is “in issue” within 
+the meaning of Simmons when 
+
+
+(a) the prosecution presents evidence from which a 
+jury could find the defendant poses a future 
+danger, 
+
+
+(b) the prosecutor’s argument states or implies that 
+the defendant poses a future danger, or 
+
+
+(c) the judge instructs the jury to consider the issue 
+of future dangerousness. 
+
+
+8 It is significant that the only two defendants to have 
+received sentencing phase relief from the South Carolina 
+Supreme Court under Simmons were both tried prior to June 17, 
+1994, the date of the Simmons decision - and thus before South 
+Carolina prosecutors could tailor their courtroom presentations 
+with a view to evading the holding of that case. State v. Tucker, 
+464 S.E.2d 105 (S.C. 1995) (tried November 29 to December 7, 
+1993); State v. Rogers, 466 S.E.2d 360 (S.C. 1996) (tried February 
+28 to March 5, 1994). 
+
+
+29 
+
+
+In jurisdictions like South Carolina, where future danger- 
+ousness is not a statutory aggravating circumstance, and 
+where the jury considers all of the evidence relevant to 
+sentencing once death-eligibility is established, S.C. Code 
+§ 16-3-20(B) (Supp. 2000), State v. Shaw, 255 S.E.2d 799, 
+808 (S.C. 1979), future dangerousness instructions will 
+not normally be given, and the Simmons rule will be 
+triggered, if at all, either by the state’s evidence or by 
+argument, or (as here) by both. 
+
+
+This restatement of the Simmons rule would work no 
+change in the rule itself. Nothing in Simmons limited its 
+reach to cases in which the prosecution made an explici§ 
+claim of dangerousness in its sentencing phase jury argu- 
+ment, and Shafer has already made clear that future dan- 
+gerousness may be placed “at issue” by either “the 
+prosecutor’s evidentiary submissions or closing argu- 
+ment.” 121 S. Ct. at 1274-75 (emphasis added). Indeed, in 
+this very case the South Carolina Supreme Court 
+acknowledged that future dangerousness can become an 
+issue by virtue of the state’s evidence alone, since the 
+state court’s rejection of petitioner’s Simmons claim rests 
+on its conclusion that dangerousness “was neither a logi- 
+cal inference from ihe evidence nor was it injected into 
+the case through the state’s closing argument.” 540 S.E.2d 
+at 857, JA 326. Given this acknowledgment, one would be 
+hard-pressed to think of any workable standard other 
+than evidentiary sufficiency (that is, whether the evi- 
+dence before the jury suffices to support an inference of 
+future dangerousness) in determining whether Simmons 
+applies. Any more demanding standard would fail to 
+protect against the evil with which Simmons is concerned 
+- that a jury would sentence a defendant to death out of a 
+
+
+30 
+
+
+misplaced fear that he would otherwise be paroled, and 
+thereby allowed to resume his violent conduct. See gener- 
+
+
+ally, William J. Bowers and Benjamin D. Steiner, Death by 
+
+
+Default: an Empirical Demonstration of False and Forced 
+Choices in Capital Sentencing, 77 Tex. L. Rev. 605 (1999); 
+Theodore Eisenberg, et al., The Deadly Paradox of Capital 
+Jurors, 74 S. Cal. L. Rev. 371 (2001). 
+
+
+Virtually alone among the nation’s death penalty 
+jurisdictions, see Shafer, supra, 121 S. Ct. at 1271 n.4, South 
+Carolina continues to devise new rationales for its unfair 
+and unconstitutional refusal to inform sentencing juries 
+of the alternative to the death penalty that state law 
+provides. By refusing to acknowledge the state’s obvious 
+injection of the issue of future dangerousness into peti- 
+tioner’s sentencing hearing, the South Carolina Supreme 
+Court has sought, once again, to vitiate the Simmons rule. 
+See Penry v. Johnson, 121 S. Ct. 1910, 1924 (2001) (indicat- 
+
+
+ing that the South Carolina Supreme Court’s mischarac- _ 
+
+
+terization of the operation of state law had led, in Shafer, 
+to an objectively unreasonable limitation on Simmons). 
+The Court should not permit such persistent disregard of 
+one of its constitutional precedents. 
+
+
+¢ 
+
+
+31 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the South 
+Carolina Supreme Court should be reversed to the extent 
+that it leaves petitioner’s death sentence undisturbed. 
+
+
+Respectfully submitted, 
+
+
+Rosert M. Dupex 
+
+S.C. Office of Appellate Defense 
+1122 Lady Street 
+
+Suite 940 
+
+Columbia, S.C. 29201 
+
+(803) 734-1330 
+
+
+Davip I. Bruck 
+
+Counsel of Record 
+Rosert E. LOMINACK 
+P.O. Box 11744 
+Columbia, S.C. 29211 
+(803) 765-1044 
+
+
+Counsel for Petitioner 
+August, 2001 
+
+
+App. 1 
+
+
+CODE OF LAWS OF SOUTH CAROLINA 1976 
+ANNOTATED TITLE 16. CRIMES AND OFFENSES 
+CHAPTER 3. OFFENSES AGAINST THE PERSON 
+
+ARTICLE 1. HOMICIDE 
+
+
+§ 16-3-20. Punishment for murder: separate sentencing 
+proceeding to determine whether sentence should be 
+death or life imprisonment. 
+
+
+(A) A person who is convicted of or pleads guilty to 
+murder must be punished by death, by imprisonment for 
+life, or by a mandatory minimum term of imprisonment 
+for thirty years. If the State seeks the death penalty and a 
+statutory aggravating circumstance is found beyond a 
+reasonable doubt pursuant to subsections (B) and (C), 
+and a recommendation of death is not made, the +rial 
+judge must impose a sentence of life imprisonment. For 
+purposes of this section, “life imprisonment” means until 
+death of the offender. No person sentenced to life 
+imprisonment pursuant to this section is eligible for 
+parole, community supervision, or any early release pro- 
+gram, nor is the person eligible to receive any work 
+credits, education credits, good conduct credits, or any 
+other credits that would reduce the mandatory life 
+imprisonment required by this section. No person sen- 
+tenced to a mandatory minimum term of imprisonment 
+for thirty years pursuant to this section is eligible for 
+parole or any early release program, nor is the person 
+eligible to receive any work credits, education credits, 
+good conduct credits, or any other credits that would 
+reduce the mandatory minimum term of imprisonment 
+for thirty years required by this section. Under no cir- 
+cumstances may a female who is pregnant be executed so 
+
+
+App. 2 
+
+
+long as she is pregnant or for a period of at least nine 
+months after she is no longer pregnant. When the Gover- 
+nor commutes a sentence of death to life imprisonment 
+under the provisions of Section 14 of Article IV of the 
+Constitution of South Carolina, 1895, the commutee is not 
+eligible for parole, community supervision, or any early 
+release program, nor is the person eligible to receive any 
+work credits, good conduct credits, education credits, or 
+any other credits that would reduce the mandatory 
+imprisonment required by this subsection. 
+
+
+(B) When the State seeks the death penalty, upon 
+conviction or adjudication of guilt of a defendant of mur- 
+der, the court shall conduct a separate sentencing pro- 
+ceeding. In the proceeding, if a statutory aggravating 
+circumstance is found, the defendant must be sentenced 
+to either death or life imprisonment. If no statutory 
+aggravating circumstance is found, the defendant must 
+be sentenced to either life imprisonment or a mandatory 
+minimum term of imprisonment for thirty years. The 
+proceeding must be conducted by the trial judge before 
+the trial jury as soon as practicable after the lapse of 
+twenty-four hours unless waived by the defendant. If 
+trial by jury has been waived by the defendant and the 
+State, or if the defendant pleaded guilty, the sentencing 
+proceeding must be conducted before the judge. In the 
+sentencing proceeding, the jury or judge shall hear addi- 
+tional evidence in extenuation, mitigation, or aggravation 
+of the punishment. Only such evidence in aggravation as 
+the State has informed the defendant in writing before 
+the trial is admissible. This section must not be construed 
+to authorize the introduction of any evidence secured in 
+violation of the Constitution of the United States or the 
+
+
+- 
+
+
+App. 3 
+
+
+State of South Carolina or the applicable laws of either. 
+The State, the defendant, and his counsel are permitted to 
+present arguments for or against the sentence to be 
+imposed. The defendant and his counsel shall have the 
+closing argument regarding the sentence to be imposed. 
+
+
+(C) The judge shall consider, or he shall include in 
+his instructions to the jury for it to consider, mitigating 
+circumstances otherwise authorized or allowed by law 
+and the following statutory aggravating and mitigating 
+circumstances which may be supported by the evidence: 
+
+
+(a) Statutory aggravating circumstances: 
+
+
+(1) The murder was committed while in the com- 
+mission of the following crimes or acts: 
+
+
+(a) criminal sexual conduct in any degree; 
+
+(b) kidnapping; 
+
+(c) burglary in any degree; 
+
+(d) robbery while armed with a deadly weapon; 
+(e) larceny with use of a deadly weapon; 
+
+(f) killing by poison; 
+
+
+(g) drug trafficking as defined in Section 
+44-53-370(e), § 44-53-375(B), § 44-53-440, or 
+§ 44-53-445; 
+
+
+(h) physical torture; or 
+(i) dismemberment of a person. 
+
+
+(2) The murder was committed by a person with a 
+prior conviction for murder. 
+
+
+App. 4 
+
+
+(3) The offender by his act of murder knowingly 
+created a great risk of death to more than one person in a 
+public place by means of a weapon or device which 
+normally wouid be hazardous to the lives of more than 
+one person. 
+
+
+(4) The offender committed the murder for himself 
+or another for the purpose of receiving money or a thing 
+of monetary value. 
+
+
+(5) The murder of a judicial officer, former judicial 
+officer, solicitor, former solicitor, or other officer of the 
+court during or because of the exercise of his official duty. 
+
+
+(6) The offender caused or directed another to com- 
+mit murder or committed murder as an agent or 
+employee of another person. 
+
+
+(7) The murder of a federal, state, or local law 
+enforcement officer, peace officer or former peace officer, 
+corrections employee or former corrections employee, or 
+fireman or former fireman during or because of the per: 
+formance of his official duties. 
+
+
+(8) The murder of a family member of an official 
+listed in subitems (5) and (7) above with the intent to 
+impede or retaliate against the official. “Family member” 
+means a spouse, parent, brother, sister, child, or person to 
+whom the official stands in the place of a parent or a 
+person living in the official’s household and related to 
+him by blood or marriage. 
+
+
+(9) Two or more persons were murdered by the 
+defendant by one act or pursuant to one scheme or course 
+of conduct. 
+
+
+ee — 
+
+
+App. 5 
+
+
+(10) The murder of a child eleven years of age or 
+under. 
+
+
+(11) The murder of a witness or potential witness 
+committed at any time during the criminal process for the 
+purpose of impeding or deterring prosecution of any 
+crime. 
+
+
+(b) Mitigating circumstances: 
+
+
+(1) The defendant has no significant history of prior 
+criminal conviction involving the use of violence against 
+another person. 
+
+
+(2) The murder was committed while the defendant 
+was under the influence of mental or emotional distur- 
+bance. 
+
+
+(3) The victim was a participant in the defendant's 
+conduct or consented to the act. 
+
+
+(4) The defendant was an accomplice in the murder 
+committed by another person and his participation was 
+relatively minor. 
+
+
+(5) The defendant acted under duress or under the 
+domination of another person. 
+
+
+(6) The capacity of the defendant to appreciate the 
+criminality of his conduct or to conform his conduct to 
+the requirements of law was substantially impaired. 
+
+
+(7) The age or mentality of the defendant at the time 
+of the crime. 
+
+
+(8) The defendant was provoked by the victim into 
+committing the murder. 
+
+
+App. 6 
+
+
+(9) The defendant was below the age of eighteen at 
+the time of the crime. 
+
+
+(10) The defendant had mental retardation at the 
+time of the crime. “Mental retardation” means signifi- 
+cantly subaverage general intellectual functioning exis- 
+ting concurrently with deficits in adaptive behavior and 
+manifested during the developmental period. 
+
+
+The statutory instructions as to statutory aggravating 
+and mitigating circumstances must be given in charge 
+and in writing to the jury for its deliberation. The jury, if 
+its verdict is a recommendation of death, shall designate 
+in writing, and signed by all members of the jury, the 
+statutory aggravating circumstance or circumstances 
+which it found beyond a reasonable doubt. The jury, if it 
+does not recommend death, after finding a statutory 
+aggravating circumstance or circumstances beyond a rea- 
+sonable doubt, shall designate in writing, and signed by 
+all members of the jury, the statutory aggravating circum- 
+stance or circumstances it found beyond a reasonable 
+doubt. In nonjury cases the judge shall make the designa- 
+tion of the statutory aggravating circumstance or circum- 
+stances. Unless at least one of the statutory aggravating 
+circumstances enumerated in this section is found, the 
+death penalty must not be imposed. 
+
+
+Where a statutory aggravating circumstance is found 
+and a recommendation of death is made, the trial judge 
+shall sentence the defendant to death. The trial judge, 
+before imposing the death penalty, shall find as an affir- 
+mative fact that the death penalty was warranted under 
+the evidence of the case and was not a result of prejudice, 
+passion, or any other arbitrary factor. Where a statutory 
+
+
+App. 7 
+
+
+aggravating circumstance is found and a sentence of 
+death is not recommended by the jury, the trial judge 
+shall sentence the defendant to life imprisonment as pro- 
+vided in subsection (A). Before dismissing the jury, the 
+trial judge shall question the jury as to whether or not it 
+found a statutory aggravating circumstance or circum- 
+stances beyond a reasonable doubt. If the jury does not 
+unanimously find any statutory aggravating circum- 
+stances or circumstances beyond a reasonable doubt, it 
+shall not make a sentencing recommendation. Where a 
+statutory aggravating circumstance is not found, the trial 
+judge shall sentence the defendant to either life imprison- 
+ment or a mandatory minimum term of imprisonment for 
+thirty years. No person sentenced to life imprisonment or 
+a mandatory minimum term of imprisonment for thirty 
+years under this section is eligible for parole or to receive 
+any work credits, good conduct credits, education credits, 
+or any other credits that would reduce the sentence 
+required by this section. If the jury has found a statutory 
+aggravating circumstance or circumstances beyond a rea- 
+sonable doubt, the jury shall designate this finding, in 
+writing, signed by all the members of the jury. The jury 
+shall not recommend the death penalty if the vote for 
+such penalty is not unanimous as provided. If members 
+of the jury afte: a reasonable deliberation cannot agree on 
+a recommendation as to whether or not the death sen- 
+tence should be imposed on a defendant found guilty of 
+murder, the trial judge shall dismiss such jury and shall 
+
+
+- gentence the defendant to life imprisonment as provided 
+
+
+in subsection (A). 
+
+
+(D) Notwithstanding the provisions of Section 
+14-7-1020, in cases involving capital punishment a person 
+
+
+App. 8 
+
+
+called as a juror must be examined by the attorney for the 
+defense. 
+
+
+(E) In a criminal action in which a defendant is 
+charged with a crime which may be punishable by death, 
+a person may not be disqualified, excused, or excluded 
+from service as a juror by reason of his beliefs or attitudes 
+against capital punishment unless such beliefs or atti- 
+tudes would render him unable to return a verdict 
+according to law. 
+
+

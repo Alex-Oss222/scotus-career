@@ -1,0 +1,9 @@
+# Blumer neutral agency-status source addendum
+
+Source: the federal Government's contemporaneous filing reproduces and identifies the agency policy documents in the petition appendix, pp. 81a and 85a–88a. The following copy supplies only agency chronology and the reported text of those documents; it supplies no historical Supreme Court action, vote, rationale or petition-stage position.
+
+The agency's initial policy statement regarding 42 U.S.C. 1396r-5(e)(2)(C), issued in November 1993, indicated that it was "requiring that the institutionalized spouse must first make available the maximum amount of income he or she can as a community spouse monthly income allowance under [42 U.S.C. 1396r-5(d)(1)(B)] before being allowed to raise the [CSRA]." Pet. App. 81a. Later, on March 3, 1994, HCFA's Director issued a memorandum, stating that the November 1993 memorandum should not be read as requiring the income-first method. Id. at 85a, 88a. Rather, the agency sought to give the States "the option to use the 'income first' rule or to apply some other reasonable interpretation of the law until we have issued final regulations which specifically address this issue." Id. at 86a.
+
+Further source: 66 Federal Register 46763–46768, September 7, 2001, is a proposed rule permitting States to select income-first or resources-first methodology. It is a proposal, not an effective final legislative rule. Verify its provisions from the Federal Register if their details matter; its publication status does not supply an adjudicated construction.
+
+Public source URLs: https://www.justice.gov/osg/brief/wisconsin-dept-health-and-family-servs-v-blumer-invitation ; https://www.govinfo.gov/content/pkg/FR-2001-09-07/pdf/FR-2001-09-07.pdf . The raw filing contains material outside neutral scope and is not a neutral handoff.

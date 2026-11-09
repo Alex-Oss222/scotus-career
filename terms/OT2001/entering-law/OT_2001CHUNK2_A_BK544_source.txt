@@ -1,0 +1,57 @@
+https://www.govinfo.gov/content/pkg/USCODE-1994-title11/html/USCODE-1994-title11-chap5-subchapIII-sec544.htm
+U.S.C. Title 11 - BANKRUPTCY
+11 U.S.C. 
+United States Code, 1994 Edition
+Title 11 - BANKRUPTCY
+CHAPTER 5 - CREDITORS, THE DEBTOR, AND THE ESTATE
+SUBCHAPTER III - THE ESTATE
+Sec. 544 - Trustee as lien creditor and as successor to certain creditors and purchasers
+From the U.S. Government Publishing Office, www.gpo.gov
+
+
+
+
+
+§544. Trustee as lien creditor and as successor to certain creditors and purchasers
+
+
+(a) The trustee shall have, as of the commencement of the case, and without regard to any knowledge of the trustee or of any creditor, the rights and powers of, or may avoid any transfer of property of the debtor or any obligation incurred by the debtor that is voidable by—
+(1) a creditor that extends credit to the debtor at the time of the commencement of the case, and that obtains, at such time and with respect to such credit, a judicial lien on all property on which a creditor on a simple contract could have obtained such a judicial lien, whether or not such a creditor exists;
+(2) a creditor that extends credit to the debtor at the time of the commencement of the case, and obtains, at such time and with respect to such credit, an execution against the debtor that is returned unsatisfied at such time, whether or not such a creditor exists; or
+(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bona fide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
+
+(b) The trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title.
+
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2596; Pub. L. 98–353, title III, §459, July 10, 1984, 98 Stat. 377.)
+
+
+
+Historical and Revision Notes
+I74legislative statementsSection 544(a)(3) modifies similar provisions contained in the House bill and Senate amendment so as not to require a creditor to perform the impossible in order to perfect his interest. Both the lien creditor test in section 544(a)(1), and the bona fide purchaser test in section 544(a)(3) should not require a transferee to perfect a transfer against an entity with respect to which applicable law does not permit perfection. The avoiding powers under section 544(a)(1), (2), and (3) are new. In particular, section 544(a)(1) overrules Pacific Finance Corp. v. Edwards, 309 F.2d 224 (9th Cir. 1962), and In re Federals, Inc., 553 F.2d 509 (6th Cir. 1977), insofar as those cases held that the trustee did not have the status of a creditor who extended credit immediately prior to the commencement of the case.
+The House amendment deletes section 544(c) of the House bill.
+
+
+senate report no. 95–989
+Subsection (a) is the “strong arm clause” of current law, now found in Bankruptcy Act §70c [section 110(c) of former title 11]. It gives the trustee the rights of a creditor on a simple contract with a judicial lien on the property of the debtor as of the date of the petition; of a creditor with a writ of execution against the property of the debtor unsatisfied as of the date of the petition; and a bona fide purchaser of the real property of the debtor as of the date of the petition. “Simple contract” as used here is derived from Bankruptcy Act §60a(4) [section 96(a)(4) of former title 11]. The third status, that of a bona fide purchaser of real property, is new.
+Subsection (b) is derived from current section 70e [section 110(e) of former title 11]. It gives the trustee the rights of actual unsecured creditors under applicable law to void transfers. It follows Moore v. Bay, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
+
+
+Amendments
+1984—Subsec. (a)(1). Pub. L. 98–353, §459(1), inserted “such” after “obtained”.
+Subsec. (a)(2). Pub. L. 98–353, §459(2), substituted “; or” for “; and”.
+Subsec. (a)(3). Pub. L. 98–353, §459(3), inserted “, other than fixtures,” after “property”, and “and has perfected such transfer” after “purchaser” the second place it appeared.
+
+
+Effective Date of 1984 Amendment
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+
+
+Section Referred to in Other Sections
+
+
+This section is referred to in sections 106, 303, 349, 502, 522, 541, 546, 548, 550, 551, 552, 749, 764, 901, 926 of this title; title 28 section 1409.
+
+
+
