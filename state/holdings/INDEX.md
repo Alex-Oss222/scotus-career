@@ -10,7 +10,12 @@ The doctrinal volumes in this directory are the preferred reading source from OT
 |---|---|
 | Constitutional Structure | [constitutional-structure.md](constitutional-structure.md) |
 | Federal Courts | [federal-courts.md](federal-courts.md) |
+| Federal Courts: Habeas and Collateral Review | [federal-courts-habeas.md](federal-courts-habeas.md) |
+| Federal Courts: Justiciability | [federal-courts-justiciability.md](federal-courts-justiciability.md) |
+| Federal Courts: Immunities and Remedies | [federal-courts-immunities-and-remedies.md](federal-courts-immunities-and-remedies.md) |
 | Criminal Procedure | [criminal-procedure.md](criminal-procedure.md) |
+| Criminal Procedure: Search, Seizure and Interrogation | [criminal-procedure-investigations.md](criminal-procedure-investigations.md) |
+| Criminal Procedure: Sentencing and Capital Punishment | [criminal-procedure-sentencing-and-capital.md](criminal-procedure-sentencing-and-capital.md) |
 | Civil Rights | [civil-rights.md](civil-rights.md) |
 | First Amendment | [first-amendment.md](first-amendment.md) |
 | Election Law | [election-law.md](election-law.md) |

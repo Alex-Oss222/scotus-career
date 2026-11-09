@@ -7,7 +7,12 @@ from pathlib import Path
 AREAS = [
     ("Constitutional Structure", "constitutional-structure"),
     ("Federal Courts", "federal-courts"),
+    ("Federal Courts: Habeas and Collateral Review", "federal-courts-habeas"),
+    ("Federal Courts: Justiciability", "federal-courts-justiciability"),
+    ("Federal Courts: Immunities and Remedies", "federal-courts-immunities-and-remedies"),
     ("Criminal Procedure", "criminal-procedure"),
+    ("Criminal Procedure: Search, Seizure and Interrogation", "criminal-procedure-investigations"),
+    ("Criminal Procedure: Sentencing and Capital Punishment", "criminal-procedure-sentencing-and-capital"),
     ("Civil Rights", "civil-rights"),
     ("First Amendment", "first-amendment"),
     ("Election Law", "election-law"),
