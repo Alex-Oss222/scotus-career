@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Election Law
 
@@ -1942,3 +1942,339 @@ The distinct defendant-immunity question is stated in the primary Federal Courts
 - Reform Party of Allegheny County v. Allegheny County Department of Elections retains its equal-access holding concerning a timely consensual cross-nomination and its limits on the independent association issue. It does not itself decide the present public-primary question.
 - Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston supplies protection for the composition of private expression, with its actual limits; this decision neither exempts ordinary services from neutral regulation nor classifies every regulated association as private expression.
 - The white-primary decisions, including Smith v. Allwright and Terry v. Adams, retain their prohibitions on unconstitutional exclusion from electoral processes. Associational protection supplies no exemption from those constitutional commands.
+
+### Contributions and responsive public financing
+
+#### Daggett v. Commission on Governmental Ethics & Election Practices
+
+**Docket or dockets:** Consolidated First Circuit Nos. 99-2243, 99-2274, 00-1061, and 00-1066; judgment below, 205 F.3d 445. No separate Supreme Court docket is supplied.
+**Decided:** December 11, 2000.
+
+##### Maine's $250 legislative contribution limit under the government's close-fit burden
+
+**Holding:** A candidate-contribution ceiling must be closely drawn to an objectively supported, sufficiently important corruption or appearance interest and preserve meaningful association and effective advocacy in the actual campaign setting. Maine carries that burden for this $250 per-election legislative ceiling; the result creates no general dollar safe harbor and does not shift to challengers a burden of proving campaigning impossible.
+
+**Proposition-level authority:** Part I of Stone-Zsela's Opinion of the Court, joined by Stevens, O'Connor, Souter, Ginsburg, and Breyer; six Justices.
+
+**Material application:** Contributor leverage evidence, including threatened withdrawal of funding to alter official positions, supports more than ordinary access or agreement. Campaign scale, actual fundraising, per-election operation, and usable private channels supply fit. Static projections of concentrated losses and special-election experience have limits and do not settle future replacement capacity. Completed bribery, statistical proof, and referendum approval are not constitutional prerequisites or substitutes for the fit inquiry.
+
+**Limits and questions not reached:** The candidate's own and spouse's contributions retain section 1015(1)'s exception; that exception does not erase separately accepted public-participation conditions. Public funding cannot cure an independently invalid private restriction. Materially different suppressive applications remain reviewable.
+
+**Treatment of earlier authority:** Russell v. Burris and Nixon v. Shrink Missouri Government PAC supply the government's affirmative close-fit burden and contextual protection for meaningful association, without a nominal-dollar floor or impossibility requirement. Buckley v. Valeo retains the contribution/expenditure distinction.
+
+##### Candidate-financing and independent-expenditure triggers for bounded responsive grants
+
+**Holding:** Maine may provide additional public grants to a support-qualified participant in response either to the private opponent's candidate-financing measure or to qualifying independent advocacy where this capped program's demonstrated connection and operation establish neither an independent legal restraint nor substantial practical suppression of the opposing lawful activity. Each trigger is sustained on the actual qualification, cap, participant-restriction, and offset terms; no categorical exemption for subsidies or unlimited power to offset private speech follows.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion, joined by Stevens, Souter, Ginsburg, and Breyer. These five directly support each trigger; no combination of separate rationales supplies the holding.
+
+**Material application:** The private speaker retains its funds, message, and lawful fundraising and spending freedom, without compelled attribution or endorsement. The finite grant supports a qualified contestant who accepts financing restrictions and is reduced for specified independent advocacy already favoring that participant. The record establishes competitive effects without substantial suppression of the private route. Independent advocacy is not reclassified as a coordinated contribution because the formula measures it.
+
+**Limits and questions not reached:** The response to protected activity must be examined rather than dismissed as voluntary. The decision establishes no constitutional parity entitlement, general insulation from an opponent's public resources, or immunity for a materially different suppressive application.
+
+**Treatment of earlier authority:** Buckley permits voluntary public financing with participant conditions. Reform Party of the United States v. Federal Election Commission rejects automatic funding parity while preserving actual exclusion or suppression review. Day v. Holahan retains its invalidating judgment and vote-supported propositions for its different mechanism; neither its four-Justice expressive-burden rationale nor Stone-Zsela's separate theory becomes controlling.
+
+##### Combined operation of the contribution limit and financing option
+
+**Holding:** A sustained contribution ceiling and capped public option do not establish unconstitutional coercion where their actual combined operation leaves a meaningful private campaigning alternative. Nominal voluntariness is insufficient, and otherwise lawful components may combine into a forbidden burden, but this record establishes no additional substantial suppression warranting invalidation of the whole option.
+
+**Proposition-level authority:** Part III of Stone-Zsela's opinion, joined by Stevens, O'Connor, Souter, Ginsburg, and Breyer. O'Connor's join rejects only the additional systemwide ground and does not approve responsive grants. Scalia, Kennedy, and Thomas do not reach the additional theory and supply no sustaining votes.
+
+**Material application:** Contribution capacity, grant limits, participant obligations, and the conditional shortage rule together preserve the private alternative here. Attractive incentives and a better-funded opponent do not alone establish compulsion. No fixed funding percentage, compulsory study, or disappeared candidate is required to show an impermissible application.
+
+**Operative remedy or transition:** Rejection of the presented challenges is affirmed, with a 6-3 contribution judgment, 5-4 judgments on each responsive trigger, and six votes rejecting the additional combination ground. No component is invalidated, so no severability remedy, replacement formula, automatic prior-ceiling revival, repayment, retrospective liability, or reopened election follows.
+
+**Material application:** The following statutory qualifications govern all three holdings. The legislative ceiling is per election; the individual candidate's own and spouse's contributions retain §1015(1)'s exception. That exception does not remove separate restrictions accepted by a certified public participant. A legislative participant must file the declaration, obtain ballot qualification and compliant seed funding, and collect qualifying $5 contributions from at least 150 registered district voters for a Senate race or 50 for a House race. Contributions go to the fund by check or money order during the qualifying period with the candidate's knowledge and approval, an identifying receipt, and no exchanged value. Seed money is limited to $100 per individual, including candidate or family funds, and aggregate legislative amounts of $1,500 for Senate or $500 for House, subject to Commission rule authority. Unspent seed money transfers to the fund at certification. Later private contributions require specific Commission authorization.
+
+Contested-election initial grants use the corresponding office's average expenditures in contested races in the prior two applicable elections, with the initial 2000 amount reduced by 25 percent; inadequate data permits use of the most recent applicable elections. An uncontested primary uses the corresponding uncontested average or the contested average if lower. No grant issues for an uncontested general election.
+
+The matching measure is the greater of expenditures or obligations and funds raised or borrowed, alone or with qualifying independent expenditures reported under §1019. Once that measure exceeds the applicable initial distribution, the Commission pays the opposing certified candidate the reported excess. Supplements stop at twice the relevant contested-primary or contested-general initial distribution, making the ordinary combined maximum three times that distribution. The regulatory deduction reduces matching payments for independent express advocacy favoring the participant or opposing the private opponent after that opponent exceeds the initial distribution; it never reduces the initial grant. No unpresented multiple-opponent formula is decided.
+
+Section 1125(13) forbids spending beyond available fund revenue. If revenue cannot meet the initial or matching distributions, the Commission may authorize certified candidates to accept and spend private contributions up to the applicable funding amounts, reduced by seed money and subject to the legislative $250 per-donor-per-election ceiling and Commission rules. This is conditional permission, not a mandatory release or unlimited financing right. No actual shortage is found.
+
+**Limits and questions not reached:** These qualifications identify the adjudicated mechanism rather than independent constitutional holdings for every administrative detail. The separate section 1019 disclosure claim, gubernatorial ceiling, unsupported party-specific theory, and unpursued primary-allocation and section 1017 claims are outside the grant. Participant terminology commands no governmental stigmatization of nonparticipants.
+
+### Corporate contributions and true-source attribution
+
+#### Mariani v. United States
+
+**Docket or dockets:** Third Circuit No. 99-3875; judgment below, 212 F.3d 761 (en banc). No separate Supreme Court docket is supplied.
+**Decided:** December 12, 2000.
+
+##### Categorical challenge to direct business-corporation treasury contributions
+
+**Holding:** The sufficiently important anticorruption-interest and close-fit standard permits the presented viewpoint-neutral prohibition on direct business-corporation treasury contributions to federal candidates. The direct-recipient and commercial-source safeguards, together with voluntary human political channels, defeat this categorical objection without adjudicating independent expenditures or all corporate applications.
+
+**Proposition-level authority:** Part II of O'Connor's Opinion of the Court, joined by Stone-Zsela, Stevens, Souter, Ginsburg, and Breyer; six Justices.
+
+**Material application:** Candidate control of treasury transfers supplies the regulated obligation and circumvention risk. Commercial resources collected for other purposes remain distinct from funds supplied through voluntary political contributions; lawful corporate administration and solicitation do not transform treasury assets into the fund's candidate-contribution money. Mere wealth concentration, ordinary access, corporate form, or nominal availability of another fund cannot independently satisfy fit, and no particular fund's resources or success is found.
+
+**Limits and questions not reached:** Government must justify the actual restriction, including complete exclusion of the treasury source. A materially different organization or supported operational burden requires its own record. No automatic corporate-fund safe harbor, contribution dollar floor, expenditure holding, or rule requiring association to become impossible is announced.
+
+**Treatment of earlier authority:** Russell v. Burris, Shrink Missouri, and Daggett apply affirmative contribution-fit scrutiny, including complete source exclusion and cumulative burdens. Buckley supplies the contribution/expenditure distinction. National Right to Work Committee supports the commercial-source and voluntary-political-channel distinction, including protection of economic payers, without making its deference conclusive or proving fund capacity. Austin v. Michigan Chamber of Commerce retains its independent-expenditure holding; its scrutiny and nonprofit exception do not become automatic contribution rules.
+
+##### The developed party soft-money comparison
+
+**Holding:** Different party-financing channels do not constitutionally require direct corporate treasury candidate contributions where the challenged rule remains closely fitted to their distinct transfer risk. The developed evidence of candidate fundraising involvement, party support, access, and some coordinated advertising establishes neither invalidity of this prohibition nor legal identity between every party transaction and a direct candidate transfer.
+
+**Proposition-level authority:** Part III of O'Connor's opinion, joined by the same five Justices as Part II; six direct joins.
+
+**Material application:** Underinclusion may reveal a failed justification, but every imperfect boundary is not invalid. Direct receipt places the treasury contribution under the candidate's control, a relation not established for every party use. Reported coordination does not certify the legality of all described arrangements, and ideological agreement is not itself coordination.
+
+**Limits and questions not reached:** The holding does not validate unchallenged soft-money practices, classify every party expenditure, or let resources of a different association automatically answer a burden on the chosen one.
+
+**Treatment of earlier authority:** FEC v. Akins, June 25, 1997, preserves actual transaction definitions, candidate connection, thresholds, and distinct exclusions and reporting provisos. Day v. Holahan retains its pooling, meaningful-association, nonprofit independent-spending protections, and unresolved responsive-financing rationale. Daggett's contribution and cumulative-burden rules remain bounded to their adopted grounds; public financing cannot cure an independent private restraint.
+
+##### Independent constitutional protection of truthful contribution attribution
+
+**Holding:** Congress may address truthful source attribution and evasion in the presented candidate-contribution transactions by prohibiting contributions in another's name, knowing permission to use one's name, and knowing acceptance of falsely attributed contributions. The constitutional objection to the alleged knowing reimbursement scheme fails independently of the corporate-source rule; regulatory differences elsewhere create no entitlement to substitute a false donor.
+
+**Proposition-level authority:** Part IV of O'Connor's opinion, unanimous on this bounded constitutional answer.
+
+**Limits and questions not reached:** Section 441f's first clause lacks an express knowledge word, while its second and third clauses contain one. That textual difference is neither a strict-criminal-liability holding nor construction of the enforcement provision's elements. Innocent-error applications remain unadjudicated. A supported reasonable probability of threats, harassment, or reprisals retains its own disclosure protection and possible nondisclosure remedy, without authorizing false naming; no such showing is established here. No general identification rule for all political association follows.
+
+**Operative remedy or transition:** Both corporate constitutional answers are affirmed 6-3 and the independent false-source answer 9-0. The pending criminal process must independently determine corporate source where relevant, true attribution, applicable knowledge, and every other element and defense. Allegations establish no guilt, completed exchange, count sufficiency, penalty, or charge under every clause. No acquittal, replacement ceiling, refund, damages, severability remedy, or order governing unchallenged party financing follows.
+
+**Treatment of earlier authority:** Buckley supports contribution information and enforcement interests without approving every restriction. McIntyre v. Ohio Elections Commission, April 19, 1995, protects truthful anonymous advocacy while preserving distinct candidate-finance attribution and tailored impersonation controls; supported nondisclosure protection does not authorize a false name.
+
+**Material application:** The presented holdings retain the following statutory scope and qualifications.
+
+The direct-treasury holding concerns the presented business-corporation-to-federal-candidate class. Section 441b(a) covers national-bank and congressionally organized corporate contributions or expenditures in elections for any political office, including candidate-selection primaries, conventions, and caucuses. For corporations generally and labor organizations, it covers elections for presidential and vice-presidential electors, Senators, Representatives, Delegates, and Resident Commissioners, and the corresponding nomination processes. It separately prohibits knowing acceptance or receipt by candidates, political committees, or other persons, and consent to prohibited organizational contributions or expenditures by corporate or bank officers or directors and labor-organization officers. A labor organization includes an organization, agency, employee committee, or plan with employee participation and at least a partial purpose of dealing with employers over grievances, labor disputes, wages, pay rates, hours, or working conditions. These distinct classes receive no new independent holdings merely because they share the section; independent expenditures and press activity remain outside this decision.
+
+Section 441b(b)(2) reaches direct or indirect payments, distributions, loans, advances, deposits, gifts, services, and value to candidates, campaign committees, political parties, or organizations in connection with covered elections. It excepts ordinary-course national or State bank loans complying with applicable banking law and regulations. Three separate exclusions protect corporate communications on any subject to stockholders, executive or administrative personnel, and their families, or labor communications to members and families; nonpartisan registration and get-out-the-vote activity directed to the corresponding groups; and establishment, administration, and solicitation for separate segregated political funds by corporations, labor organizations, membership organizations, cooperatives, and nonstock corporations. The distinct membership-communication exclusion and reporting proviso in §431, preserved in Akins, are not substituted for these provisions.
+
+The political fund cannot use value obtained by physical force, job discrimination, financial reprisal or threats; payments required for labor-organization membership or employment; or commercial transactions. Any person soliciting an employee must disclose, at the time of solicitation, the fund's political purpose and the employee's right to refuse without reprisal. Corporate support for establishment, administration, and solicitation does not authorize treasury money as the fund's candidate-contribution money.
+
+Ordinary corporate solicitation reaches stockholders, executive or administrative personnel, and their families; ordinary labor solicitation reaches members and their families. Corporations, labor organizations, and their funds may also make two written solicitations per calendar year to corporate stockholders, executive or administrative personnel, employees, and their families, mailed to residences and designed to conceal from the solicitor who gives $50 or less and who gives nothing. Additional routes preserve member solicitation by membership organizations, cooperatives, nonstock corporations, and their funds, and trade-association or trade-association-fund solicitation with a member corporation's separate, specific approval, limited to one association per corporation per calendar year. That trade-association route reaches the approving member corporation's stockholders, executive or administrative personnel, and their families.
+
+Lawful methods of soliciting or facilitating voluntary fund contributions available to corporations for stockholders and executive or administrative personnel must also be available to labor organizations for members. A corporation using those methods, including its subsidiaries, branches, divisions, and affiliates, must provide them on written request to a labor organization representing members working for those entities at reimbursement of expenses only. Executive or administrative personnel must be salaried rather than hourly and have policymaking, managerial, professional, or supervisory responsibility. These statutory routes establish no finding that the particular companies possess a successful fund, sufficient donor pool, or practical resources.
+
+Section 441f contains no internal blanket exception. The actual contribution definition, true source, attributable reporting, knowledge and enforcement requirements, and supported associational protections retain their separate work. None of the indictment allegations supplies a completed exchange, corrupt intent, knowledge, or actual influence finding.
+
+For section 437h eligibility, substantiality, and the review route, see this case, Third Circuit No. 99-3875, December 12, 2000, under Federal Courts, Certified campaign-finance constitutional questions.
+
+### Official congressional ballot policy penalties
+
+#### Cook v. Gralike, 531 U.S. 510
+
+**Docket or dockets:** No. 99-929.
+**Decided:** February 28, 2001.
+
+##### Whether congressional ballots may penalize refusal of a state-selected legislative position
+
+**Holding:** The Elections Clause does not authorize a State to use its official congressional ballot to disadvantage candidates because they refuse a prescribed position or pledge concerning future federal legislation. Adverse labels triggered by noncompliance with the State's selected policy exceed election-manner authority even when the candidate remains eligible and the name stays on the ballot.
+
+**Proposition-level authority:** Stevens's Court opinion has seven supporters for the constitutional source rule: Stevens, Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg and Breyer. Those seven and Thomas support the label application; Thomas accepts the parties' source premise only for this litigation. O'Connor agrees in judgment on a separate speech ground and supplies no structural rationale join.
+
+**Material application:** Thornton supplies the source principle that authority over congressional balloting rests on constitutional delegation, not a reserved power over previously nonexistent federal offices. These labels impose an official electoral disadvantage for rejecting a policy program even though eligibility and ballot access remain. Quantified proof of lost votes is unnecessary.
+
+**Limits and questions not reached:** The labels fail even assuming the enactment may exercise the manner power; the referendum/legislature question is therefore not decided. No Court speech holding, general public-forum theory, prohibition on private advocacy or genuinely nonbinding requests, or restriction on unrelated neutral information is adopted.
+
+##### Whether affirmance preserves the actual sections 15-19 injunction
+
+**Holding:** The judgment preserving the injunction against Article VIII sections 15–19 is affirmed. Because the State defended the enactment in its entirety and sought no alternative severance if that defense failed, the Court leaves the reviewed decree undisturbed rather than substituting a new label-only decree or independently deciding the validity of every nonbinding instruction.
+
+**Proposition-level authority:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly adopt the full decree account. Stone-Zsela joins the label relief and concurs only in the residual sections 15-16 judgment. The disposition is unanimous.
+
+**Limits and questions not reached:** Section 19 label review and its clear-and-convincing burden are distinct from section 20 automatic repeal, section 21 forum and section 22 severability. The severability clause does not by itself select new relief. Affirmance makes no separate constitutional holding about every nonbinding instruction and creates no Missouri severability rule.
+
+**Operative remedy or transition:** The injunction against sections 15-19 remains enforceable at its existing scope. The State defended the whole enactment without seeking alternative severance here; no replacement label-only decree or rewrite is ordered.
+
+**Treatment of earlier authority:**
+
+- U.S. Term Limits, Inc. v. Thornton: extends the distinction between genuine election procedure and substantive candidate disadvantage to adverse policy-compliance labels; its exclusive-qualifications and national-office source holdings remain in force.
+- Libertarian Party of Illinois v. Rednour: distinguishes genuine support and nomination procedure from the official political penalty here; ordinary access regulation retains its separate constitutional review.
+- Anderson v. Martin: applies the official ballot's capacity to impose a candidate disadvantage; the Court's sufficient rule here rests on the Elections Clause.
+- Burdick v. Takushi: preserves calibrated review of actual electoral burdens and legitimate administration; it supplies no authority for official favoritism among substantive political positions.
+
+### Presidential-election timing and fairness
+
+#### Bush v. Palm Beach County Canvassing Board, 531 U.S. 70
+
+**Docket or dockets:** No. 00-836.
+**Decided:** December 4, 2000.
+
+##### Section 5's conditional benefit and the distinct due-process inquiry
+
+**Holding:** Then-operative 3 U.S.C. section 5 grants conclusive treatment in the federal count to a qualifying final determination under pre-election state law made at least six days before the electors meet; it does not itself forbid all later counting. Due process separately distinguishes authoritative construction of ambiguity from fundamental unfairness; post-vote interpretation or conflicting advice alone establishes no violation, and the submitted fairness issue returns on the clarified state-law premises.
+
+**Proposition-level authority:** Part II's timing proposition has all nine Justices' joins. Part III's due-process rationale is supported by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer; Stone-Zsela joins only that component's remand disposition.
+
+**Material application:** December 12 is the six-day date for the December 18 meeting, without itself becoming an absolute state-law termination date. Actual official guidance, dissemination, inducement, reliance, and voting circumstances matter to fairness without constituting a new rigid checklist. Conflicting post-election advice does not establish a pre-election assurance or detrimental reliance.
+
+**Limits and questions not reached:** The Court neither finds qualification for or loss of section 5's benefit nor resolves a due-process violation. Whether a clear rule was displaced instead of an ambiguity construed depends partly on the state-law clarification. No general prohibition on state constitutional interpretation is adopted.
+
+**Operative remedy or transition:** The federal components return within the defined vacatur-and-clarification disposition; no counting stay or terminal federal date is created.
+
+**Treatment of earlier authority:** Foster v. Love retains its congressional final-selection rule and express presidential-timing reservation. Citizens for a Constitutional Convention v. Yoshina, January 21, 1999, supplies the fundamental-fairness distinction and prevents automatic invalidation for a neutral interpretation differing from earlier advice.
+
+For finality, clarification scope, and the operative remedy, see this case, No. 00-836, December 4, 2000, under Federal Courts, Review of state judgments and clarification remands.
+
+### Statewide judicial vote determinations
+
+#### Bush v. Gore
+
+**Docket or dockets:** No. 00-949; review of Florida Supreme Court No. SC00-2431.
+**Decided:** December 12, 2000.
+
+##### Equal treatment of materially comparable ballots in a statewide judicial determination
+
+**Holding:** A statewide judicial determination combining recovered votes with further examination cannot apply materially arbitrary operative criteria to legally comparable ballots. The supervising court must provide sufficiently definite, consistent, reviewable applications of the existing legal-vote standard, while allowing relevant physical-evidence differences and ordinary variations that do not produce material inequality.
+
+**Proposition-level authority:** Part II of Souter's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, and Breyer; seven Justices. Stevens and Ginsburg reject liability in this decree.
+
+**Material application:** Supported testimony identifies conflicting Miami-Dade thresholds for dimples, separation, light, and other indications, and changing Palm Beach whole-ballot approaches without established consistent reconsideration of all affected earlier rulings. Combining those recovered votes and further examination under a general intent direction leaves material operative conflicts unresolved. Official honesty and a valid general rule do not themselves cure that defect.
+
+**Limits and questions not reached:** Mere disagreement, equipment differences, or an unclear mark establishes no violation. Bad faith, proof of a changed winner, a complete matched-ballot study, duplicate votes, and recovery of votes from every overvote are not required findings. The rule is not limited to these candidates or this election and creates no national physical-mark code.
+
+**Treatment of earlier authority:** Harper v. Virginia Board of Elections and Reynolds v. Sims supply equal participation and voting-weight principles for actual crediting criteria. Burdick v. Takushi, June 8, 1992, preserves reasonable neutral administration but not material unequal treatment. Shaw v. Reno, June 28, 1993, retains its rejection of territorial design alone as deprivation; actual unequal ballot valuation is distinct.
+
+##### The separate due-process objection to authoritative interpretation
+
+**Holding:** A neutral judicial construction of ambiguity does not become fundamentally unfair solely because it differs from asserted practice or advisory interpretation. A supported inducement or frustrated-choice claim requires consideration of the actual directions, dissemination, reliance, and voting circumstances; this record supplies no independent due-process basis for reversal.
+
+**Proposition-level authority:** Part IV of Souter's opinion, joined by all seven other Associate Justices; eight Justices. Stone-Zsela agrees only in the component disposition.
+
+**Material application:** The pre-existing contest and voter-intent provisions and the state court's statutory explanation prevent an inference of unfairness from interpretation alone. No established pre-election assurance, dissemination, or detrimental reliance supports the distinct deprivation asserted here.
+
+**Limits and questions not reached:** Absence of those facts establishes neither litigant default nor misleading conduct. Deliberate official misdirection, pervasive frustration of effective choice, and supported reliance claims remain distinct. Equal-treatment liability requires no official-inducement finding.
+
+**Treatment of earlier authority:** Citizens for a Constitutional Convention v. Yoshina, January 21, 1999, supplies the actual unfairness inquiry. Palm Beach, December 4, 2000, preserved that inquiry apart from Article II rather than equating the two.
+
+##### Section 5's conditional federal benefit and the elector meeting
+
+**Holding:** Under then-operative 3 U.S.C. section 5, a final determination of an elector-appointment controversy through procedures established in state law before election day receives conclusive federal-count treatment if made pursuant to that law at least six days before the electors meet. December 12 is the qualifying date for the December 18 meeting, but section 5 alone forbids no later counting, independently applicable state limits remain binding, and section 7's meeting date remains fixed.
+
+**Proposition-level authority:** Part V-A of Souter's opinion, unanimous.
+
+**Limits and questions not reached:** No qualification for or forfeiture of the federal benefit, completed count, feasibility, impossibility, or comprehensive rule for competing electoral submissions is decided from the calendar alone.
+
+**Treatment of earlier authority:** Palm Beach preserves the distinction between conditional federal benefit and state-law deadline. Foster v. Love, December 2, 1997, concerns premature final congressional selection and supplies no presidential counting cutoff.
+
+##### Authoritative resolution of the precise state-law termination consequence
+
+**Holding:** The December 11 state clarification does not require this Court to impose categorical December 12 termination of every corrective contest proceeding. The state judiciary must authoritatively determine the precise consequence of its governing timing law for lawful and feasible correction; this directive permits neither disregard of a binding state limit nor completion until December 18 as of right.
+
+**Proposition-level authority:** Part V-C has five direct joins: Souter, Stone-Zsela, Stevens, Ginsburg, and Breyer. Stevens and Ginsburg continue to oppose vacatur; their timing joins are not votes for that judgment. O'Connor, Scalia, Kennedy, and Thomas construe state law to require December 12 finality.
+
+**Limits and questions not reached:** The unresolved consequence concerns state law, not section 5's settled character. No extension, postponed elector meeting, or presumed winner is supplied.
+
+##### Defined correction of the established unequal-treatment defect
+
+**Holding:** The affected inclusion and examination directions must be vacated and returned immediately for consistent, reviewable application of existing state law, including affected earlier additions when necessary to cure material inequality. Correction requires lawful authority, accurate figures, an adequate process, and actual feasibility; the defect does not itself terminate the entire contest or award electoral votes.
+
+**Proposition-level authority:** Part V-B of Souter's opinion, joined by Stone-Zsela, O'Connor, Kennedy, and Breyer; five direct joins. Scalia and Thomas choose independent Article II reversal, with equality correction only as a conditional alternative. Stevens and Ginsburg would affirm. The operative judgment is therefore 5-2-2, not seven unconditional votes for the same remand.
+
+**Operative remedy or transition:** The mandate issues immediately. The state court must reconcile affected earlier inclusions and further examination, resolve Palm Beach's disputed net 215/176 figure before lawful inclusion, distinguish the Miami-Dade partial return from the unexamined undervote pool, and permit meaningful objection and review. Supported claims about comparable excluded legal votes require an answer; neither universal overvote examination nor repetition of a proper examination absent material inconsistency follows. A vote is not discarded merely because relevant physical evidence differs.
+
+**Limits and questions not reached:** The rejected Nassau adjustment and claim to reexamine approximately 3,300 previously examined Palm Beach ballots remain undisturbed limits, without new federal merits adjudication. Neither completed implementation nor present impossibility is established, and absence of impossibility proves no feasible completion. The state judiciary must determine authority, binding timing, and practical feasibility. The Court retains no counting supervision, imposes no separate stay, decides no unpresented stay request, fixes no tally, and awards no candidate Florida's electoral votes.
+
+**Treatment of earlier authority:** Palm Beach supplies bounded correction respectful of lawful state administration, without a recount stay or candidate result. The equality rule requires correction of operative criteria, not a presumed electoral outcome.
+
+For the Article II holding, see this case, No. 00-949, December 12, 2000, under Constitutional Structure, Legislative direction of presidential-elector appointment. For the section 1257 threshold, see Federal Courts, Immediate review of state decrees under Cox.
+
+
+### Racial predominance and a cognizable districting injury
+
+#### Easley v. Cromartie / Smallwood v. Cromartie, 532 U.S. 234
+
+**Docket or dockets:** Nos. 99-1864 and 99-1865.
+**Decided:** April 18, 2001.
+**Companion or consolidated matters:** The State and intervenors challenge the same three-judge judgment; both receive the same mandate.
+
+##### Whether a completed racial-predominance finding establishes a districting injury
+
+**Holding:** A common territorial district is not invalid solely because racial considerations predominated and ordinary districting criteria were subordinated. Relief requires an actually presented and preserved exclusion, intentional dilution, materially unequal participation, inferior civic membership or other independent deprivation, assessed under that claim's own elements, burdens and justification rules; without such a claim, judgment must be entered for defendants on the insufficient design-only theory.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Breyer: five Justices. All nine support immediate vacatur, but O'Connor, Scalia, Kennedy and Thomas do not join the controlling rule or remand limitation.
+
+**Limits and questions not reached:** Shape, racial and political correlation, communications, maps and electoral experience remain usable evidence, not automatic injury. No universal statistical model or alternative-map requirement is imposed; the actual claim's requirements remain. A partisan explanation cannot defeat a proved wrong, and unequal treatment need not produce a second governmental act, electoral defeat or financial loss. Actual preservation and proof of an independent claim are not found.
+
+**Operative remedy or transition:** Vacate both judgments and dependent relief and remand only for actually presented, preserved independent claims under ordinary procedure. The mandate creates no new claim, final map-validity determination, replacement plan, election change, quota or automatic discovery entitlement.
+
+**Treatment of earlier authority:** Shaw v. Reno, Johnson v. Miller and Bush v. Vera retain the territorial-design boundary and independent-injury protections. Hunt v. Cromartie's prior mandate is enforced; a predominance-only trial does not satisfy it. Adarand governs justification for an actual covered racial allocation, not creation of a missing cause of action. Ordinary factual deference cannot transform legally insufficient predominance into injury.
+
+### Population bases for representative districts
+
+#### Chen v. City of Houston
+
+**Docket or dockets:** Fifth Circuit No. 98-20440; judgment below, 206 F.3d 502.
+**Decided:** May 21, 2001.
+
+##### Whether unequal citizen voting-age populations forbid municipal districts based on total resident population
+
+**Holding:** A municipality may use total resident population for ordinary representative council districts even when citizen voting-age populations materially differ. Representing all residents is a permissible constitutional objective; differences in eligible electorates alone do not compel another denominator or a new election.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+**Material application:** Houston's 8.63-percent maximum total-population deviation supplies neither a requirement to substitute citizen voting-age population nor immunity from every constitutional claim. Deviation is measured after choosing the legally permissible population base; preclearance does not decide the constitutional question.
+
+**Limits and questions not reached:** The ruling does not require total population universally, approve another proposed denominator, or decide the separate racial-gerrymandering claim. Intentional exclusion and independently established dilution remain distinct; no demographic or alternative-map finding is made.
+
+**Operative remedy or transition:** The Fifth Circuit is affirmed on the accepted population-base claim; no redistricting, demographic hearing or election relief is ordered.
+
+**Treatment of earlier authority:** Reynolds v. Sims and Avery v. Midland County supply districting equality without compelling an eligible-voter denominator. Burns v. Richardson preserves permissible population choices. Voinovich v. Quilter governs deviations within the legally relevant measure, without categorical protection below ten percent. United States Department of Commerce v. Montana preserves review despite legislative choice, without transferring its interstate-allocation holding to intrastate districts. Easley v. Cromartie and Smallwood v. Cromartie remain distinct racial-districting authority.
+
+
+
+### Actually coordinated political-party expenditures
+
+#### FEC v. Colorado Republican Federal Campaign Committee
+
+**Docket or dockets:** No. 00-191.
+**Decided:** June 25, 2001.
+
+##### Whether the presented Senate party-spending ceiling survives the categorical facial challenge
+
+**Holding:** Congress may limit expenditures actually coordinated with a federal candidate when the government demonstrates an objectively grounded risk of circumvention of valid candidate-contribution limits and a restriction closely drawn to that risk while preserving meaningful party association and effective advocacy. On this developed record, the presented Senate-election party ceiling satisfies that standard against the categorical facial challenge; party identity, policy agreement, endorsement or ordinary affiliation alone establishes neither coordination nor corruption.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct votes for both holdings and their qualifications.
+
+**Material application:** The developed evidence of donor understandings, fundraising credits and allocation arrangements establishes a practical candidate-limit circumvention channel without a completed bribe or a finding that every tally is unlawful. Formal earmark enforcement alone does not reach tacit understandings and general-treasury allocation. The Court weighs coordination's real association costs and the substantial coordinated activity still permitted; unlimited independent spending is not alone an answer to those burdens.
+
+Section 441a(a)(7)(B)(i) requires actual cooperation, consultation or concert with, or a request or suggestion from, a candidate, an authorized political committee or an agent. Section (a)(7)(B)(ii) separately addresses financing dissemination, distribution or republication of candidate-prepared campaign material; it is not the same predicate. Section (a)(8) attributes a contribution directed through an intermediary or conduit to its original source and requires source-and-recipient reporting. The (a)(4) exception for transfers among national, State, district, local and subordinate committees of the same party applies to the limits in (a)(1) and (2); it supplies no categorical constitutional immunity for candidate-connected spending.
+
+Section (d)(1) permits the identified national and State party committees, including subordinate State committees, to make general-election expenditures notwithstanding other contribution or expenditure limits, subject to (d)(2) and (3). Section (d)(3)(A)'s Senate and single-Representative-State allowance is the greater of two cents per voting-age resident or $20,000, increased under (c)'s annual price-index adjustment. Section (d)(3)(B)'s separate $10,000 indexed allowance concerns other House, Delegate and Resident Commissioner races. The present constitutional holding concerns the Senate counterclaim; it does not independently adjudicate those other categories or the presidential allowance, replace the statutory amounts, or erase ordinary contribution and genuine-conduit distinctions.
+
+**Limits and questions not reached:** Ordinary access, equalization and opposition to campaign expense supply no independent justification. A particular jointly expressed communication may require distinct constitutional characterization; the facial record does not resolve that question or establish the extent needed for broader overbreadth relief. No materially different ceiling, unconnected spending, presidential allowance, other House category, all soft-money practice or universal empirical safe harbor is approved.
+
+**Treatment of earlier authority:** Buckley supplies the functional contribution/expenditure distinction. Colorado Republican v. FEC (June 26, 1996) retains its six-Justice protection of genuinely independent expression and actual candidate connection; this decision resolves its reserved facial coordinated-spending question. Russell, Shrink Missouri and Daggett require an objective government showing and close fit without a fixed dollar floor. Day preserves meaningful intermediary association and realistic conduit regulation. Mariani distinguishes direct candidate resources from different party arrangements and retains its separate false-source holding.
+
+##### Whether rejection of the broader counterclaim alters the earlier independent-advertisement judgment
+
+**Holding:** The Tenth Circuit's judgment sustaining facial invalidation of the presented coordinated-party expenditure ceiling is reversed, and the case is remanded for rejection of the party's categorical exemption claim and conforming proceedings. The earlier judgment protecting the genuinely independent advertisements remains effective; any remaining enforcement matter requires its own actual statutory predicates and lawful liability and remedial findings.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct votes for both holdings and their qualifications.
+
+**Limits and questions not reached:** The accepted independence of the pre-nomination advertisements is not reopened. The party abandoned its earlier inseverability argument, which supplies neither a new holding nor a remedial instruction.
+
+**Operative remedy or transition:** The facial invalidation is reversed and the case remanded for rejection of categorical party immunity and conforming proceedings. No specific transaction is newly found coordinated; no civil penalty, refund, damages, donor attribution, replacement ceiling or mandatory new trial is ordered.
+
+### Independent Senate nomination deadlines
+
+#### Wood v. Meadows
+
+**Docket or dockets:** Fourth Circuit No. 99-1069; district court No. CA-94-47-D; judgment below, 207 F.3d 708. No Supreme Court docket is established.
+**Decided:** June 11, 2001.
+
+For the continuing-controversy holding in Wood v. Meadows, June 11, 2001, Fourth Circuit No. 99-1069, see Federal Courts — Recurring election controversies after the challenged election.
+
+##### This accessible nomination system proportionately supports the June deadline
+
+**Holding:** A State may close independent Senate nomination on its June primary date when the complete scheme affords a substantial practical petition period, reasonably attainable support requirements, multiple petition signing, retained primary participation and time after primary candidates file to organize independently, and when common nomination timing and orderly preparation proportionately justify the actual burden. Virginia's demonstrated system satisfies that standard; calling a restriction reasonable does not eliminate scrutiny of the relationship between burden and asserted interests.
+
+**Proposition-level authority:** Souter's complete opinion is supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, including its author. Those seven direct joins control the application and affirmance.
+
+**Material application:** The challenged election required 14,865 signatures, including 200 per district, with collection from January 1, multiple signing, retained primary participation and no prior disaffiliation. Primary candidates filed sixty days before the June deadline. Independents therefore had a meaningful organization period but could not await primary results. That lost opportunity was a real, nonsevere burden in the complete system. About thirty days were needed for processing, so verification alone did not justify all 150 days; common nomination timing and an orderly general-election campaign supplied additional proportional grounds.
+
+**Limits and questions not reached:** Anderson's actual burden, precise interests and fit inquiry remains mandatory. Under Burdick, severe restrictions require compelling-interest narrow tailoring; reasonable nondiscriminatory restrictions permit proportionate important regulatory interests. Formal equality and primary-day coincidence supply no safe harbor. The Court requires neither the latest mechanically possible date nor an opportunity to await every later preference; materially different cumulative barriers require their own review.
+
+**Operative remedy or transition:** The judgment sustaining Virginia's deadline is affirmed and prospective relief denied, while the lower court's categorical no-fit formulation is rejected. No replacement date, ballot placement or reopening of an election is ordered.
+
+**Treatment of earlier authority:**
+
+- Anderson v. Celebrezze: applied as the actual burden, precise interest and fit inquiry; its earlier presidential deadline does not mechanically decide this Senate system.
+- Burdick v. Takushi: applied without changing its calibrated scrutiny or importing an absolute rule from its write-in application.
+- Timmons v. Twin Cities Area New Party: applied for proportionate preventive nomination administration in an accessible system; it remains neither pure rational-basis review nor permission to suppress competition.
+- Norman v. Reed and Moore v. Ogilvie: applied to the continuing election controversy and meaningful access; support screening remains permissible within the actual electorate.
+- Storer v. Brown: applied for the legitimate role of orderly candidate selection, without validating every deadline.

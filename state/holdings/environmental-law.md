@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Environmental Law
 
@@ -401,3 +401,119 @@ Temporary nonuse requires conformity with the applicable land-use, allotment-man
 - **Allentown Mack Sales & Service, Inc. v. NLRB:** Its whole-record evidentiary rule is not extended to decide the arbitrary-and-capricious question absent from this grant.
 
 For prospective ownership of cooperative improvements in Public Lands Council v. Babbitt, No. 98-1991, May 15, 2000, see Property and Economic Rights — Prospective title to cooperative grazing improvements.
+
+### Clean Water Act jurisdiction over isolated waters
+
+#### Solid Waste Agency of Northern Cook County v. U.S. Army Corps of Engineers, 531 U.S. 159
+
+**Docket or dockets:** No. 99-1178
+**Decided:** January 9, 2001.
+
+##### Whether migratory-bird use alone authorizes section 404 jurisdiction over these isolated ponds
+
+**Holding:** Section 404 of the Clean Water Act does not authorize federal jurisdiction over the isolated, nonnavigable intrastate ponds presented solely because migratory birds use them. The Corps must identify authority within the enacted water program; an asserted interstate environmental benefit alone does not supply the delegated jurisdiction, and the challenged jurisdiction and permit-denial ground must be set aside to the extent they depend exclusively on that criterion.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy and Thomas; five Justices.
+
+**Material application:** The abandoned-pit ponds are neither wetlands under the Corps' vegetation definition nor alleged to adjoin navigable waters. The Act's expanded water definition, state-administration provisions and wildlife objectives do not supply jurisdiction solely from bird use.
+
+**Limits and questions not reached:** Adjacent wetlands remain covered under Riverside Bayview. The Court imposes no universal present-navigability or adjacency requirement, decides no general rule for all isolated waters or materially different statutory connections, and does not reach Congress's commerce power. A changed agency position or preamble form is not independently disqualifying; no universal Chevron, Skidmore or own-regulation rule is announced.
+
+**Operative remedy or transition:** Reverse and remand to remove the challenged jurisdiction and permit-denial ground only to the extent they depend exclusively on the bird criterion. No permit is awarded; another properly established jurisdictional basis and independent state or local requirements remain distinct. The abandoned permit-merits challenge is not reopened.
+
+**Treatment of earlier authority:**
+
+- United States v. Riverside Bayview Homes: preserves its adjacent-wetland construction and ecological reasoning, distinguishing the expressly reserved isolated-water application rather than treating adjacency as a universal statutory test.
+- MCI Telecommunications Corp. v. AT&T: applies the requirement that an agency act within the actual statutory grant; an administrative criterion cannot supply omitted authority.
+- FDA v. Brown & Williamson Tobacco Corp.: applies analysis of the connected statutory scheme before deference; the decision supplies no general rule against consequential agency regulation.
+- Babbitt v. Sweet Home Chapter of Communities for a Great Oregon: distinguishes its habitat-injury construction under a different statutory definition and preserves its actual-injury and causation limits.
+- Christensen v. Harris County: leaves intact its specific advisory-letter and own-regulation holdings; it does not establish a categorical rule against every preamble or informal interpretation.
+- United States v. Lopez, National Association of Home Builders v. Babbitt, and United States v. Morrison: leave their actual Commerce rules unchanged because the statutory ground makes the contingent constitutional question unnecessary.
+
+### National ambient standards and ozone implementation
+
+#### Whitman v. American Trucking Associations, Inc. / American Trucking Associations, Inc. v. Whitman, 531 U.S. 457
+
+**Docket or dockets:** Nos. 99-1257 and 99-1426.
+**Decided:** February 27, 2001.
+
+For this decision of February 27, 2001, Nos. 99-1257 and 99-1426, Environmental Law contains standard-setting costs and implementation requirements; Constitutional Structure contains congressional guidance and the agency-cure question; Administrative Law contains the independent review routes.
+
+##### Whether implementation costs enter primary or secondary national ambient standards
+
+**Holding:** Section 109(b) excludes economic implementation costs from national primary and secondary ambient air-quality standard setting. Primary standards must provide the protection requisite for public health under section 108's scientific pollutant-effects criteria and with an adequate margin of safety; secondary standards must protect public welfare from known or anticipated adverse effects associated with the pollutant's presence under those criteria, without importing the primary safety-margin requirement.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy). The operative primary-standard rule and standard/implementation distinction have all nine Justices; the secondary-standard rule has Kennedy, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer, while Stone-Zsela concurs in that judgment only. The additional text-and-structure explanation has Kennedy, Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg for primary standards and the same coalition without Stone-Zsela for secondary standards. Breyer joins the operative rules and common distinction through his context-and-history method, withholding that additional methodological explanation. His separate risk discussion supplies no further Court rule or cost exception.
+
+**Limits and questions not reached:** Implementation costs do not become pollutant effects by being described as health or welfare consequences. Section 109(d)(2)(C)(iv) separately requires committee advice on adverse health, welfare, social, economic and energy effects of attainment strategies; it does not add cost balancing to standard setting. The rule neither requires zero risk nor forbids costs under provisions that authorize them. No concentration, scientific-method defect or indirect health-effects claim is decided.
+
+**Operative remedy or transition:** The cost exclusion in No. 99-1426 is affirmed for both kinds of standard, unanimously in judgment.
+
+##### How EPA must reconcile the revised ozone standard with applicable specific implementation requirements
+
+**Holding:** EPA may resolve genuine statutory fit questions concerning revised ozone standards, but attainment of the old one-hour standard alone does not authorize elimination of otherwise applicable Subpart 2 classifications, dates and associated requirements. EPA's conditional transition is unlawful to that extent, and the agency must supply a construction that gives the applicable general and ozone-specific provisions their enacted work.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Material application:** Sections 172(a)(1)(C) and 172(a)(2)(D) preserve specific classifications and dates; section 181(b)(1) reaches later classifications. EPA may address actual fit problems between the old one-hour design-value system and the revised eight-hour standard, including exceeded old dates and areas below the old threshold but above the new one. Neither temporary retention followed by termination at old-standard attainment nor mechanical transplantation of every original metric is lawful simply by assertion.
+
+**Limits and questions not reached:** The qualifications below govern at their own terms. No area-specific eligibility, violation or further section 182 application is adjudicated; no replacement concentration, implementation regime or particular state plan is selected.
+
+**Operative remedy or transition:** EPA's implementation construction in No. 99-1257 is rejected unanimously and remanded for the agency's first lawful reconciliation and remaining preserved scientific and statutory review.
+
+| Provision | Qualification preserved |
+|---|---|
+| Section 172(a)(1) | The Administrator may classify on severity and availability/feasibility grounds under the general provision; publication and at least thirty days for written comment apply. Sections 553–557 procedures do not apply, and classification review waits for final plan action under section 110(k)/(l) or sanctions under section 179. The entire paragraph yields where another provision specifically supplies classifications. This classification-specific delayed review does not bar the distinct framework question decided here. |
+| Section 172(a)(2) | A primary-standard date must be as expeditious as practicable and ordinarily no later than five years after designation; severity and available/feasible controls permit an extension only to a total of ten years after designation. Secondary attainment is as expeditious as practicable. On State application, either may receive up to two one-year extensions only with plan compliance and no more than a minimal number of preceding-year exceedances under EPA guidance. The paragraph yields where other provisions specifically supply attainment dates. |
+| Section 172(e) | Relaxation of a primary standard triggers requirements within twelve months for areas not then attaining it, with controls no less stringent than before relaxation. This is not a general authority governing every revision or an exception to another applicable command. |
+| Section 181(a) | Classification is by the statutory design-value table and pre-November 15, 1990 methodology. The table uses ozone design values in ppm: Marginal 0.121 to below 0.138, Moderate 0.138 to below 0.160, Serious 0.160 to below 0.180, Severe 0.180 to below 0.280, and Extreme 0.280 or more. Its outer attainment limits are three, six, nine, fifteen, and twenty years after that date respectively, with attainment as expeditious as practicable. Severe areas with a 1988 design value between 0.190 and 0.280 ppm receive seventeen rather than fifteen years. The ninety-day discretionary adjustment applies only where a five-percent design-value difference would place the area in another category, through the prescribed classification procedure; the Administrator may consider the number of ozone-standard exceedances, intrastate or interstate pollution transport, and the mix of sources and pollutants. State-requested one-year extensions require plan compliance and no more than one preceding-year ozone exceedance; no more than two are allowed. The publication and delayed-review procedure is carried over from section 172(a)(1)(B). |
+| Section 181(b)(1) | A subsequently redesignated attainment/unclassifiable area becomes classified under the table and receives the same plan, general-subpart, and specific-subpart requirements, with absolute fixed dates extended by the interval between November 15, 1990 and its classification. |
+| Section 181(b)(2)–(3) | Within six months after the applicable date including extension, EPA determines attainment by design value. Except for Severe or Extreme areas, failure produces the higher of the next class or the design-value class; the latter route cannot itself reclassify an area Extreme. Notice is due within six months. A State request for a higher classification must be granted and published. |
+| Section 181(b)(4) | A Severe area's failure triggers section 185 fees and continuing reasonable-progress/NOx percentage duties, demonstrated each three years until attainment, with sanctions for failure to demonstrate. Extreme-area new-source review and major-source definitions apply additionally if its design value exceeds 0.140 ppm at the attainment year or it missed its latest milestone; for other failing Severe areas they apply after three years unless attainment occurs. If EPA changes the compliance method, a comparably related indicator replaces 0.140 for those provisions. |
+| Section 182(a) opening | Marginal-area States must submit the required supplemental plan revisions except to the extent already submitted as of November 15, 1990. No further section 182 application is adjudicated. |
+| Section 307(b) | National standards and other nationally applicable final actions go to the D.C. Circuit; locally or regionally applicable final actions ordinarily go to the appropriate circuit, with the published nationwide-determination route retained. The ordinary petition period is sixty days after Federal Register notice; a petition based solely on later-arising grounds has sixty days after those grounds arise. Reconsideration does not change finality, extend the review period, or postpone effectiveness. Review available under paragraph (1) cannot be saved for a later enforcement case; final deferral of nondiscretionary action remains challengeable. No unpresented timeliness default is found. |
+
+**Treatment of earlier authority:**
+
+- Union Electric Co. v. EPA: applies the distinction between standard setting and implementation; cost authority elsewhere does not enter section 109(b).
+- MCI Telecommunications Corp. v. AT&T: applies respect for connected mandatory statutory functions, without creating a general economic-magnitude exception.
+- FDA v. Brown & Williamson Tobacco Corp.: applies the actual connected statutory scheme, rather than a generic rule against consequential delegations.
+- National Mining Association v. Department of the Interior: applies the requirement to preserve connected conditions and remedies rather than erase an applicable constraint.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council: preserves lawful agency choice within delegated ambiguity; it supplies no authority to nullify retained specific provisions.
+- Christensen v. Harris County: preserves the distinct inquiry into interpretive force and the limits of interpretation; no statutory command becomes optional merely through agency characterization.
+
+
+### Constitutional limits on protected-wildlife taking
+
+#### Gibbs v. Babbitt
+
+For Commerce Clause limits and the existing-record inquiry governing private-land experimental-red-wolf taking, see Constitutional Structure, Gibbs v. Babbitt, Fourth Circuit No. 99-1218, decided March 21, 2001. The decision does not alter the existing taking exceptions or decide a Property Clause, treaty or compensation theory.
+
+### Periodic monitoring and substantive amendment by guidance
+
+#### Appalachian Power Co. v. EPA
+
+**Docket or dockets:** D.C. Circuit Nos. 98-1512, 98-1536, 98-1537, 98-1538, 98-1540 and 98-1542; judgment below, 208 F.3d 1015.
+**Decided:** May 29, 2001.
+
+##### Whether the existing monitoring regulation permits universal replacement of prescribed periodic monitoring
+
+**Holding:** Section 70.6(a)(3)(i)(B) permits added periodic monitoring when the applicable requirement lacks periodic testing or instrumental or noninstrumental monitoring, including qualifying recordkeeping. It does not permit EPA to replace already prescribed recurring monitoring whenever the agency considers it insufficient; that substantive enlargement requires the applicable rulemaking procedures.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court controls this holding and the vacatur holding below.
+
+**Material application:** Paragraph (A) incorporates applicable monitoring and testing and permits streamlining only with at least equivalent compliance assurance. Paragraph (B) requires reliable, representative compliance data with terms, methods, units, averaging periods and statistical conventions consistent with the applicable requirement; recordkeeping may suffice. Paragraph (C) requires necessary use and maintenance provisions and installation provisions where appropriate. Paragraph (c)(1)'s compliance assurance must remain consistent with (a)(3). Missing periodic testing, an unspecified frequency or a one-time startup test can leave a lawful gap to fill.
+
+**Limits and questions not reached:** The ruling does not forbid every interpretive change or require notice and comment for every technical explanation. The alternative attack on the 1992 regulation and the outer limit of congressional delegation are not reached.
+
+**Treatment of earlier authority:** Auer v. Robbins and Thomas Jefferson University v. Shalala preserve weight for fair, considered agency interpretations within regulatory text. Christensen v. Harris County forbids using interpretation to amend that text; its distinct advisory-letter holding creates no categorical guidance exclusion. Whitman preserves connected legal commands without deciding this regulatory dispute through nondelegation. Solid Waste Agency of Northern Cook County v. United States Army Corps of Engineers supplies no general prohibition of informal administration.
+
+##### Whether the invalid monitoring directive can be severed from the remaining guidance
+
+**Holding:** The entire 1998 guidance must be set aside because the challenged and remaining directions are intertwined and the record gives substantial reason to doubt independent adoption of the remainder. This record-specific conclusion establishes no universal severability formula.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Operative remedy or transition:** The D.C. Circuit's whole-guidance vacatur is affirmed. Existing emissions and monitoring requirements, the 1992 regulation, lawful gap-filling and independently authorized stricter state requirements remain effective. Future lawful rulemaking remains available; the Court prescribes no substitute monitoring frequency, rule or permit condition.
+
+For this case's immediate reviewability under section 307(b), see Administrative Law - Reviewability of binding agency guidance, Appalachian Power Co. v. EPA, decided May 29, 2001, on the same six dockets.

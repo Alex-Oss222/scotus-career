@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Maritime Law
 
@@ -563,3 +563,58 @@ The public must receive adequate notice of the wreck's location. For the third c
 - Mobil Oil Corp. v. Higginbotham supplies deference to Congress's actual compensation choices within DOHSA's field.
 - Miles v. Apex Marine Corp. supplies the requirement that judicial maritime remedies respect applicable congressional remedial boundaries, without making every maritime setting exclusive.
 - Offshore Logistics, Inc. v. Tallentire preserves the Act's high-seas field and the distinction from territorial remedies.
+
+### Saved state remedies and vessel-owner limitation
+
+#### Lewis v. Lewis & Clark Marine, Inc., 531 U.S. 438
+
+**Docket or dockets:** No. 99-1331.
+**Decided:** February 21, 2001.
+
+##### Whether adequate protection of limitation permits state adjudication without a jury demand
+
+**Holding:** A district court may dissolve a Rule F injunction when the actual fund relationship, binding claimant stipulations and retained federal jurisdiction adequately protect the vessel owner's statutory limitation right. The saving-to-suitors clause does not require a state jury demand, and the Limitation Act supplies no separate exclusive federal exoneration right that compels restraint once limitation is protected.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** The district court found the fund adequate; Lewis limited his claim below it, relinquished limitation-related preclusion and preserved federal limitation adjudication. Those protections and retained jurisdiction support discretionary dissolution of the restraint.
+
+**Limits and questions not reached:** A stipulation is not automatically sufficient, cannot bind absent claimants without legal authority, and supplies no universal single-claimant or multiple-claimant formula. If competing claims, insufficient funds or ineffective stipulations genuinely threaten limitation, federal adjudication of liability and limitation remains available. Liability, damages, privity or knowledge and ultimate limitation are undecided.
+
+**Operative remedy or transition:** Reversal permits the state action to proceed under the binding protections while the federal limitation proceeding and security remain in place. The order neither grants exoneration nor terminates limitation jurisdiction.
+
+**Treatment of earlier authority:**
+
+- Langnes v. Green: applies discretionary protection of saved state remedies while retaining federal jurisdiction over limitation.
+- Lake Tankers Corp. v. Henn: applies the adequate-fund route; limitation jurisdiction does not invariably require exclusive federal liability adjudication.
+- American Dredging: applies the distinction between state-forum administration and impairment of an actual maritime safeguard; no new general uniformity theory is necessary.
+- Yamaha Motor Corp. v. Calhoun: preserves otherwise available state remedies within its nonseafarer field; it supplies no expansion of this seaman's substantive recovery.
+
+
+### Negligence causing death under general maritime law
+
+#### Norfolk Shipbuilding & Drydock Corp. v. Garris, 532 U.S. 811
+
+**Docket or dockets:** No. 00-346.
+**Decided:** June 4, 2001.
+
+##### Death caused by negligent breach of an established maritime duty
+
+**Holding:** General maritime law permits recovery for death caused by negligent breach of an otherwise applicable maritime duty when the governing statutory regime does not preclude the action. In this nonseaman, territorial-water claim against a third party that was neither the employer nor vessel owner, the complaint cannot be dismissed solely because the alleged negligent injury was fatal; duty, breach, causation, defenses and lawful recovery remain subject to ordinary adjudication.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined in full by the other eight participating Justices, directly adopts the complete rule, statutory application and affirmance.
+
+**Material application:** The nonseaman died in territorial waters. The defendant was neither his employer nor the vessel owner, and the Longshore and Harbor Workers' Compensation Act preserved the relevant third-party negligence action. Recognition of the death remedy supplies no new underlying duty.
+
+**Limits and questions not reached:** The Jones Act and Death on the High Seas Act do not govern this claim. Exclusive employer compensation, vessel provisions and applicable statutory recovery limits remain intact. Duty, breach, causation, defenses, beneficiaries and lawful damages require ordinary adjudication; damage categories and survival are outside the question, with no punitive-damages rule or reopening of the separate state judgment.
+
+**Operative remedy or transition:** The Fourth Circuit's removal of categorical dismissal is affirmed, and the complaint may proceed under the maritime negligence death rule. No liability or award is entered.
+
+**Treatment of earlier authority:**
+
+- Moragne v. States Marine Lines, Inc.: extends its death-remedy principle from the original unseaworthiness setting to negligent breach of an established maritime duty where the actual statutory regime permits the action; no controlling holding is overruled.
+- Dooley v. Korean Air Lines Co.: preserves its prohibition against a parallel survival recovery inconsistent with the governing high-seas compensation scheme; that exclusive field does not reach this territorial-water death.
+- Miles v. Apex Marine Corp.: preserves statutory limits within the remedial field Congress actually governs, without universal displacement of maritime claims elsewhere.
+- Yamaha Motor Corp., U.S.A. v. Calhoun: preserves otherwise available state remedies for its distinct nonseafarer class; it does not itself decide this worker's federal negligence action or damages.
+- American Dredging Co. v. Miller: preserves the distinction between state forum administration and substantive maritime rights, rather than supplying unrestricted substantive supplementation.
+- Lewis v. Lewis & Clark Marine, Inc.: preserves protection of an actual limitation right alongside saved remedies; its forum and adequate-protection rule does not determine this negligence claim.

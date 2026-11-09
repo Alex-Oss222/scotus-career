@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Tort Law
 
@@ -309,3 +309,46 @@ No damages, discovery, new evidentiary hearing or remand is ordered. The wives' 
 - United States v. Stanley — retained as foreclosing an additional case-specific disruption requirement once service incidence is established; its Bivens holding concerns an implied constitutional remedy, and its FTCA jurisdictional ruling does not decide Richards's classification.
 - United States v. Shearer — applied to the actual permission and order theories; off-duty character and ordinary-negligence terminology do not remove a direct command challenge.
 - Minns v. United States — its controlling protection of actual policy discretion, subject to binding-direction and protected-choice requirements, remains in force; its fragmented judgment supplies no controlling Feres extension or automatic military-vehicle immunity.
+
+
+### California child-protection tort liability and immunity
+
+#### Wallis v. Spencer
+
+**Docket or dockets:** Ninth Circuit No. 97-55579; judgment below, 202 F.3d 1126. No Supreme Court docket is supplied.
+**Decided:** April 2, 2001.
+
+##### Separate California liability and immunity requirements for the surviving tort claims
+
+**Holding:** The surviving California claims must be assessed within their existing scope under state liability and immunity law; federal restrictions on municipal respondeat superior and borrowed personal immunity do not replace that inquiry. Disputes about CPS enlistment and the nature of the conduct prevent resolution here under Government Code section 820.2, while the rejected reply-only section 821.6 theory is not reopened.
+
+**Proposition-level authority:** Stevens's Part IV, joined by the other seven Associate Justices; Stone-Zsela agrees with the remand in judgment only.
+
+**Limits and questions not reached:** Sections 815.2(a) and (b) separately govern employee-based liability and derivative immunity. Section 820.2 protects conduct resulting from vested discretion even when abused, subject to the nondiscretionary and tort-specific limits left for adjudication. Newton and Alicia T. protect discretionary child-abuse investigation and reasonably enlisted assistance, not nondiscretionary acts or at least some intentional torts, including Newton's battery and false-imprisonment limits. The Court finds no tort liability and imports no vacated independent federal examination rule.
+
+**Operative remedy or transition:** Remand the surviving claims for their own liability, immunity, presentation and causation determinations. The section 821.6 rejection based on reply-only presentation and disclaimer of dependency-prosecution participation remains intact.
+
+**Treatment of earlier authority:** Monell's federal rejection of respondeat superior does not displace California's separate statutory route. Newton and Alicia T. retain their stated state-law roles without becoming federal immunity rules.
+
+For the emergency-removal, section 1983 and independent-examination questions, see Civil Rights, Wallis v. Spencer, No. 97-55579, decided April 2, 2001.
+
+### Appellate review of constitutional punitive-damages limits
+
+#### Cooper Industries, Inc. v. Leatherman Tool Group, Inc., 532 U.S. 424
+
+**Docket or dockets:** No. 99-2035.
+**Decided:** May 14, 2001.
+
+##### Whether constitutional excessiveness receives independent appellate review
+
+**Holding:** Appellate courts independently apply BMW's constitutional limit to a punitive award while preserving supported historical findings about conduct, culpability, causation and harm. Determining that legal boundary does not retry historical facts, so the Seventh Amendment does not require abuse-of-discretion review of the constitutional determination.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter and Breyer; seven direct joins. Scalia and Thomas accept BMW as binding for this limited question without renewed endorsement of its substantive foundation.
+
+**Material application:** Review must distinguish deceptive promotion from copying independently held lawful and must use supported actual or potential harm tied to the adjudicated wrong, rather than invented loss or unrelated wealth.
+
+**Limits and questions not reached:** BMW's substantive validity, Oregon's allocation of part of the award and a permissible amount are outside the grant. No universal mixed-question standard, appellate factfinding power or rule for materially different statutory multiples or exact deterrence schemes is adopted.
+
+**Operative remedy or transition:** Vacate and remand, 7-2, for independent constitutional review. The Court neither declares the $4.5 million award unconstitutional nor fixes a ratio, remittitur or new trial; the $50,000 compensation and separate functionality judgment remain intact.
+
+**Treatment of earlier authority:** BMW's qualified substantive guideposts remain unchanged. Bajakajian and Ornelas supply the task-specific separation of constitutional evaluation from historical facts. Gasperini's deference for supported compensatory valuation remains distinct. Oberg's meaningful scrutiny and adequate-substitute qualification survive; TXO supplies no controlling numerical formula. TrafFix protects lawful useful copying, and Buford's practical Guidelines review does not determine this constitutional task.

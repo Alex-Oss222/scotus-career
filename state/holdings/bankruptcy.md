@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Bankruptcy
 
@@ -797,3 +797,36 @@ For the other questions in McClellan Federal Credit Union v. Parker, decided 199
 - **Director, OWCP v. Greenwich Collieries:** Its production/persuasion distinction is applied; its APA-based proponent burden is not transferred to bankruptcy without a statutory basis.
 - **United States v. Noland** and **United States v. Reorganized CF&I Fabricators:** Applied against generalized equitable alteration while preserving authorized claim-specific equity; federal priority characterization does not itself determine the burden of proving state tax liability.
 - **PBGC v. CF&I Fabricators:** Applied to require reconciliation of an external liability rule with federal allowance, not automatic replacement of the former.
+
+
+### Unopposed valuation and distinct confirmation consequences
+
+#### Adair v. Sherman
+
+**Docket or dockets:** Supreme Court docket not supplied; Seventh Circuit No. 99-1736; district-court No. 98 C 3946.
+**Decided:** June 27, 2001.
+
+##### Whether notice, nonobjection and confirmation establish actual litigation of collateral value
+
+**Holding:** When a debtor receives adequate notice of a preconfirmation proof of claim but does not contest its collateral valuation, deemed allowance and plan confirmation alone do not establish that the valuation was actually litigated for issue preclusion in a later FDCPA damages action. The opportunity to obtain a contested determination cannot substitute for the adjudicative event; a genuinely litigated determination remains subject to ordinary issue-specific preclusion rules.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court; all nine adopt Parts I–III and the bounded vacatur.
+
+**Limits and questions not reached:** This is neither a fraud exception to an adjudication nor an excuse for inadequate notice. Actually litigated valuation, defective notice and a proof first filed after confirmation remain undecided. Alleged overvaluation and deception are not findings.
+
+**Operative remedy or transition:** The Seventh Circuit's judgment is vacated insofar as it sustains dismissal through issue preclusion based on the unopposed valuation, and the case is remanded for consideration of Adair's FDCPA complaint and independently supported, properly available defenses. Adair must establish the applicable statutory coverage and elements; the judgment establishes no fraud, collateral value, liability or damages and orders no revision of the bankruptcy plan. The lower court must consider the complete FDCPA coverage and liability requirements and any properly available independent defense. No new objection period, sanctions, revocation or valuation hearing is ordered.
+
+**Treatment of earlier authority:** Montana supplies actual and necessary determination. Dodd’s distinction among determination, opportunity and a separate federal claim is extended to federal bankruptcy without importing its Oregon-law and §1738 source. Heintz rejects categorical litigation-attorney immunity but does not establish collector status, a violation or the bankruptcy-specific displacement question. Randell and New Hampshire do not supply an adjudicated valuation.
+
+
+##### Whether claim allowance, evidentiary force and plan effects substitute for actual litigation
+
+**Holding:** Section 502(a)'s deemed allowance, Rule 3001(f)'s prima facie evidentiary effect and §1327's binding plan and property consequences retain their separate operation; none, solely through this unopposed process, substitutes for actual litigation of valuation. A damages label does not eliminate those consequences or any independently applicable claim-preclusion defense, which must be established under its own governing rule and supported judgment, parties, claims and procedural record.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court; all nine adopt Parts I–III and the bounded vacatur.
+
+**Material application:** Under §502(a), a claim or interest supported by a proof filed under §501 is deemed allowed unless a party in interest objects; that class expressly includes a creditor of a general partner in a partnership that is a debtor under Chapter 7. Rule 3001(f) gives a proof executed and filed in accordance with the Bankruptcy Rules prima facie evidence of its validity and amount. Under §1327(a), confirmed plan provisions bind the debtor and each creditor whether or not the creditor's claim is provided for and whether the creditor objected, accepted or rejected. Under §1327(b), confirmation vests all estate property in the debtor except as the plan or confirmation order otherwise provides. Under §1327(c), subject to the same plan-or-order exception, property vesting under subsection (b) is free and clear of a claim or interest of a creditor provided for by the plan. Subsection (c)'s creditor-provided-for condition is distinct from subsection (a)'s broader binding provision.
+
+**Limits and questions not reached:** The district court’s distinct claim-preclusion theory must satisfy its own governing rule; the remand may not rename opportunity as actual litigation. No general rule makes all bankruptcy consequences disappear upon dismissal. Whether an FDCPA claim may ever rest on a bankruptcy filing is outside the reviewed issue; statutory elements, litigation immunity and displacement remain for their own supported analysis.
+
+**Treatment of earlier authority:** Taylor retains the consequence of failing to object to a scheduled exemption within its actual deadline and extension conditions; it does not deem every unopposed assertion litigated. Semtek requires identifying the judgment’s source and particular effect, without transplanting its federal-diversity incorporation rule. Pioneer and Hartford Underwriters preserve the particular procedural mechanism, authorized claimant and remedy; no general equitable relief from nonobjection follows.

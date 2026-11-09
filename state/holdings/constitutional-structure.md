@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Constitutional Structure
 
@@ -1499,11 +1499,15 @@ For the other questions in this decision, see Federal Taxation — Federal oblig
 
 **Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on each proposition.
 
+**Current-force modification:** Kansas v. Colorado, June 11, 2001, resolves the reserved compensation questions without disturbing the rejection of an established laches bar or finding culpable Kansas delay. Its five-Justice Part V-A permits the Compact-specific denial of additional lost-investment interest for the earliest losses while preserving appropriate inflation correction. The component judgments require the Master's 1969 commencement, never before the underlying compensable loss; no majority rationale selects that exact cutoff. Settled liability and the Compact allocation remain intact.
+
 **Treatment of earlier authority:**
 
 - Illinois v. Kentucky, 500 U.S. 380 (1991): distinguishes its concrete prescription and acquiescence setting; its general laches observation does not establish an absolute Compact-enforcement exemption.
 - Nebraska v. Wyoming, April 20, 1993: preserves its concrete acquiescence determination without treating knowledge of wells or passage of time as equivalent conduct here.
 - Texas v. New Mexico, 482 U.S. 124 (1987): retains enforcement of past Compact obligations despite good-faith uncertainty, while leaving appropriate remedial considerations for the remedy proceeding.
+
+**Later-authority backlinks:** Kansas v. Colorado, June 11, 2001 — compensation and remedy-stage equities, including the distinct interest rules and component accrual judgments.
 
 ##### The separate reservoir bargain supplies no independent pumping credit
 
@@ -3273,3 +3277,384 @@ No general foreign-affairs field, dormant foreign-affairs, Foreign Commerce Clau
 - **Plaut v. Spendthrift Farm, Inc.:** Its application of the same bounded reinstatement rule remains; neither its holding nor the completed-judgment objection determines every prospective-remedy question.
 
 For the mandatory statutory construction and genuine opportunity to present supported Article III or due-process application objections on remand, see Miller v. French / United States v. French, Nos. 99-224 and 99-582, June 19, 2000, under Federal Courts, automatic stays of prospective prison relief.
+
+### Congressional guidance and agency self-limitation
+
+#### Whitman v. American Trucking Associations, Inc. / American Trucking Associations, Inc. v. Whitman, 531 U.S. 457
+
+**Docket or dockets:** Nos. 99-1257 and 99-1426.
+**Decided:** February 27, 2001.
+
+For this decision of February 27, 2001, Nos. 99-1257 and 99-1426, Environmental Law contains standard-setting costs and implementation requirements; Constitutional Structure contains congressional guidance and the agency-cure question; Administrative Law contains the independent review routes.
+
+##### Whether the primary-standard statute supplies sufficient congressional guidance
+
+**Holding:** Section 109(b)(1) constitutionally guides EPA by identifying the pollutant subject, published scientific criteria, requisite public-health protection and adequate safety margin. Requisite protection is sufficient without exceeding what protection requires; Congress need not choose a unique numerical concentration to confine the technical judgment.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous on adequate guidance and its common explanation. Kennedy, Stone-Zsela, O'Connor, Scalia, Thomas, Ginsburg and Breyer also support characterizing the agency's work as bounded execution; Stevens and Souter do not join that characterization.
+
+**Limits and questions not reached:** The absence of one inevitable numerical concentration does not establish standardless power. Ordinary scientific and statutory review remain available. The Court neither reconsiders the intelligible-principle doctrine nor adjudicates a constitutional challenge to secondary standards under section 109(b)(2).
+
+##### Whether agency self-limitation can cure a genuinely standardless delegation
+
+**Holding:** If Congress has supplied no constitutionally sufficient governing principle, an agency cannot cure the defect by selecting its own limit. EPA may choose and explain a lawful scientific methodology within section 109(b)(1)'s existing boundaries, but may not supply a missing legislative policy.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous; this ground independently defeats the proposed agency-cure remand.
+
+**Operative remedy or transition:** The primary-standard delegation ruling and agency-cure remand in No. 99-1257 are reversed. EPA may select and justify methods within the existing congressional limits; cost balancing is neither authorized nor required to cure the alleged constitutional defect.
+
+**Treatment of earlier authority:**
+
+- J. W. Hampton, Jr., & Co., Mistretta and Touby: apply the intelligible-principle requirement to the enacted primary-standard limits; the doctrine is not reconsidered.
+- Loving v. United States: applies attention to actual congressional authorization and bounds while preserving its military/criminal qualifications and Thomas's distinct prior ground.
+
+### Federal preemption of agency-fraud claims
+
+#### Buckman Co. v. Plaintiffs' Legal Committee, 531 U.S. 341
+
+**Docket or dockets:** No. 98-1768.
+**Decided:** February 21, 2001.
+
+##### Whether private agency-fraud claims may supply the absent FDA fraud-and-action predicate
+
+**Holding:** A state claim existing solely by virtue of alleged fraud in the FDA clearance process is preempted where, as here, no authoritative agency fraud determination and resulting agency-action predicate exists and the claim requires private adjudicators to supply the fraud finding and hypothetical clearance denial. This federal-dependent claim displaces Congress's government-enforcement allocation; the rule does not decide a materially different claim supported by authoritative agency findings and action or one enforcing a genuinely independent traditional state duty.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous at the stated no-agency-predicate scope.
+
+**Material application:** The pleaded duty arises from the applicant-regulator relationship and would require a jury to reconstruct the fraud finding and hypothetical clearance denial assigned to government. Substantial-equivalence clearance is not a substantive safety determination; overlap, regulatory convenience and federal compliance alone do not establish conflict.
+
+**Limits and questions not reached:** Independent traditional negligence or warning duties retain their own analysis even when federal evidence is relevant. A materially different claim supported by authoritative agency findings and action is reserved. Lawful off-label treatment does not permit deception, and the Court finds neither fraud nor ordinary causation. Section 337(b) allows a State, in its own name and jurisdiction, to civilly enforce or restrain violations of sections 341 and 343(b), (c), (d), (e), (f), (g), (h), (i), (k), (q) and (r) concerning food in that State. Proceedings must wait 30 days after notice to the Secretary, or 90 days if the Secretary begins informal or formal enforcement concerning that food within the first 30 days. They are barred while the Secretary diligently prosecutes the pertinent court proceeding or after settlement of that proceeding or the related informal or formal enforcement action. The State may intervene as of right in the specified court proceeding. This exception provides no private device action.
+
+The Court does not decide section 360k express preemption as an additional ground, invalidate the clearance, adjudicate every off-label use or dismiss every independent product claim.
+
+**Operative remedy or transition:** The Third Circuit's restoration of the presented agency-fraud theories is reversed and remanded for their preemption. Independently preserved claims remain for their own adjudication; no withdrawal of clearance or mandatory FDA proceeding is required.
+
+**Treatment of earlier authority:**
+
+- Medtronic v. Lohr, June 26, 1996: preserves actual comparison, the clearance/approval distinction and genuinely parallel independent duties; distinguishes the present federal-derived regulator duty from the patient-protection duties there.
+- Geier, May 22, 2000: applies independent actual-conflict analysis through an identified enacted allocation, without creating compliance immunity or relying on regulatory inconvenience.
+- United States v. Locke, March 6, 2000: preserves its subject-specific statutory allocation; its vessel-law field does not establish a medical-device field immunity.
+
+### Judicial appointment of United States Attorneys
+
+#### United States v. Hilario
+
+**Docket or dockets:** No separate Supreme Court docket supplied; judgment below 218 F.3d 19.
+**Decided:** March 19, 2001.
+
+For United States v. Hilario, March 19, 2001, judgment below 218 F.3d 19, Constitutional Structure contains the duration, classification and judicial-appointment holdings; Federal Courts contains the independent appellate-authority holding.
+
+##### Whether the judicial United States Attorney appointment expires after four years
+
+**Holding:** Under the contemporaneous section 546(d), when the Attorney General's interim appointment expires after 120 days under section 546(c)(2), the district court may appoint a United States Attorney to serve until the vacancy is filled. Section 541's ordinary four-year term does not displace that express endpoint, and Gil's judicial appointment did not terminate merely because four years passed.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous for the direct section 546(d) endpoint.
+
+**Limits and questions not reached:** The Attorney General's section 546(c) appointee serves until the earlier of qualification of the presidential appointee or 120 days. Section 546(b)'s Senate-rejection bar applies separately to the Attorney General route and is neither extended nor removed. The judicial order must be filed with the clerk; no filing defect is presented. The presidential appointment route and presidential removal remain available.
+
+**Independent alternative holding:** Even assuming section 541(b)'s four-year language applies to the judicial appointee, the same subsection directs the United States Attorney to continue performing the office's duties until a successor is appointed and qualifies. An anniversary alone therefore does not terminate authority on Hilario's proposed reading when no successor has replaced Gil.
+
+**Proposition-level authority for alternative holding:** Breyer, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg adopt the alternative. Stone-Zsela joins the direct vacancy-endpoint ground and judgment only.
+
+**Limits and questions not reached:** The alternative does not extend the Attorney General's 120-day appointment power, replace section 546(d), or cure a constitutionally defective appointment.
+
+##### Whether the actual executive controls make United States Attorneys inferior officers
+
+**Holding:** United States Attorneys, including this judicial appointee, are inferior officers under the actual statutory structure because the Attorney General directs their duties and litigation, may take or reassign cases, and the President retains removal. Substantial district-level prosecutorial duties and long tenure do not make the office independent of those combined controls; no single supervisory, review or removal power is held sufficient for every federal office.
+
+**Proposition-level authority:** Breyer, Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg join the sufficient combined-control rationale. Souter reaches inferior status by a separate fuller inquiry; his agreement in classification does not add a rationale join.
+
+**Material application:** Sections 516 and 519 supply Attorney General direction; section 518 permits executive takeover or reassignment; section 541(c) assigns removal to the President, not a general Attorney General discharge power. Their combined office-specific operation controls; neither a single factor nor prompt replacement is presumed.
+
+##### Whether district-court selection impermissibly joins judicial and prosecutorial power
+
+**Holding:** Congress may vest appointment of this inferior executive officer in the district court under the Appointments Clause's court-of-law option when selection gives the judges no charging, litigation, removal or supervisory authority over the officer's execution of duties. The court's later hearing of cases brought by its appointee and the absence of automatic statutory disqualification do not alone establish unconstitutional partiality or an impermissible merger of judicial and executive power.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Limits and questions not reached:** The court appoints as a court and has no automatic statutory disqualification from later cases, but acquires no ongoing prosecutorial control. Actual direction, coercion or bias is not established. Ordinary disqualification law and supported actual-bias claims remain available.
+
+##### Whether more than six years of service independently invalidates the appointment
+
+**Holding:** More than six years without presidential replacement does not by itself invalidate a judicial appointment that remains within section 546(d)'s vacancy condition and the office's constitutionally sufficient executive controls. Passage of time neither converts this regular inferior office into a principal office nor authorizes a new judicially imposed term limit.
+
+**Proposition-level authority:** All nine Justices support the duration-only conclusion in Breyer's opinion; Souter uses his separate classification premise.
+
+**Operative remedy or transition:** The First Circuit judgment reversing dismissal of the indictment is affirmed. Prosecution may continue, with no finding of guilt, wholesale validation of prosecutorial acts, ratification, cure or reopening of other prosecutions.
+
+**Limits and questions not reached:** The Government's argument that dismissal would be improper even if the appointment were invalid is unnecessary and unadjudicated. Duration cannot cure an independently defective appointment or act.
+
+**Treatment of earlier authority:**
+
+- Weiss preserves the distinction between appointment and assignment; its commissioned-officer holding does not itself authorize this separate office.
+- Edmond's actual combined-control inquiry is applied to the prosecutorial hierarchy. The Court adopts no universal single-factor classification rule.
+- Morrison and Ex parte Siebold support Congress's court-appointment option within their scope; Morrison and Mistretta also require the distinct judicial-integrity inquiry applied here.
+- Ryder retains meaningful relief for a qualifying timely substantial appointment defect. It supplies neither a long-service cure nor automatic dismissal of a prosecutor's indictment; no defect requiring its remedy is established.
+
+### Legislative direction of presidential-elector appointment
+
+#### Bush v. Gore
+
+**Docket or dockets:** No. 00-949; review of Florida Supreme Court No. SC00-2431.
+**Decided:** December 12, 2000.
+
+##### Ordinary interpretation of the legislature's contest and legal-vote rules under Article II
+
+**Holding:** Article II protects the legislature's choice of the manner of appointing presidential electors while allowing ordinary judicial interpretation and enforcement of its enacted code. The challenged inclusion and examination directions, confined to the code's contest grounds and existing legal-vote requirements, do not establish material legislative displacement warranting independent reversal; materially new substantive voting rules would remain impermissible.
+
+**Proposition-level authority:** Part III of Souter's Opinion of the Court, joined by Stevens, O'Connor, Kennedy, Ginsburg, and Breyer; six Justices. Stone-Zsela joins only rejection of independent reversal; Scalia and Thomas oppose it.
+
+**Material application:** The enacted contest is distinct from protest procedures, covers rejected legal votes sufficient to change or place the result in doubt, and permits investigative and corrective measures. It allows examination before proof of the winner and does not confine the trial judge to appellate review of board discretion. The December 11 state clarification supplies statutory reasoning about conflicting late-return provisions, manual review, and timing. Existing intent provisions support determining whether a legal vote was rejected; prior practice and asserted administrative interpretation do not conclusively settle the text.
+
+**Limits and questions not reached:** General remedial power cannot erase substantive voting requirements, certification's remaining function, or allocated institutional responsibility. The ruling treats no undervote automatically as a legal vote, establishes no new mark requirement, permits no unlimited late amendment, and resolves no precise remaining state timing consequence. The separate equality defect still requires correction under existing law.
+
+**Operative remedy or transition:** Independent Article II reversal is rejected, 7-2 in disposition, with six Justices supporting this rationale. That rejection does not displace the Court's separate corrective vacatur for unequal treatment.
+
+**Treatment of earlier authority:** Bush v. Palm Beach County Canvassing Board, December 4, 2000, requires examination of actual statutory authority rather than conclusive acceptance of a state label or automatic treatment of interpretation as legislative displacement. Its limited clarification judgment is preserved; the state response supplies relevant reasoning, not a new federal holding.
+
+For reviewability, see this case, No. 00-949, December 12, 2000, under Federal Courts, Immediate review of state decrees under Cox. For equality, fairness, timing, and the corrective mandate, see Election Law, Statewide judicial vote determinations.
+
+### Spending conditions and genuine state choice
+
+#### Kansas v. United States
+
+**Docket or dockets:** Tenth Circuit No. 98-3341; no separate Supreme Court docket supplied; judgment below, 214 F.3d 1196
+**Decided:** January 22, 2001.
+
+##### Whether the pleaded child-support and TANF conditions constitute coercion
+
+**Holding:** The pleaded child-support and Temporary Assistance for Needy Families funding arrangement is not unconstitutional coercion merely because declining substantial related assistance is politically and financially difficult. Coercion remains possible when the structure and practical operation of threatened funding loss leave no genuine choice; clear notice, program relationship and the absence of an entitlement to unchanged grants are relevant but do not independently settle that question, and no fixed dollar, percentage or insolvency threshold governs.
+
+**Proposition-level authority:** O’Connor’s unanimous opinion of the Court.
+
+**Material application:** The funding is related to the supported family-assistance system, and declining the program creates no continuing administration command. Historical funding amounts and substantial dependence show inducement but do not establish present forfeiture or a concrete inability to leave. Well-pleaded facts are accepted; a conclusion that refusal is impossible is not an additional fact.
+
+**Limits and questions not reached:** The Court requires no statistics-only proof, mandatory factor list, total-resource percentage, insolvency or exhaustion of every alternative. Material supported allegations of compulsion cannot be disregarded because participation is called voluntary. No separate privacy, procedural due-process, collection-mechanism or particular-sanction ruling is made.
+
+**Operative remedy or transition:** Affirm dismissal of the reviewed coercion claim. No former-terms payment, sanction, replacement program, exemption or discovery to find an unpleaded theory is ordered.
+
+**Limits of the statutory application:** Section 602(a)(2) requires the chief executive's certification that the State will operate a child-support program under an approved part-D plan during the fiscal year. Complete refusal to operate that program differs from deficiencies in a continuing program.
+
+For fiscal years beginning on or after October 1, 1997, section 609(a)(8) requires a finding of failure to achieve the paternity-establishment percentages or other performance measures, incomplete or unreliable data, or lack of substantial compliance with part D. Performance findings rest on section 654(15)(B) submitted data or a section 652(a)(4) review; data-reliability findings rest on section 652(a)(4)(C)(i) audits, and substantial-compliance findings on section 652(a)(4)(C) audits. The substantial-compliance branch excludes section 654(24), (27)(A) and (27)(B)(i). In the succeeding corrective fiscal year, the State must have failed to take sufficient corrective action to achieve required performance or compliance, or again submitted incomplete or unreliable data. The reduction is 1–2 percent, 2–3 percent for the second consecutive finding and 3–5 percent for the third or later consecutive finding. It reduces otherwise payable TANF amounts for quarters after that corrective year and before quarters following the first full quarter in which the required performance or substantial compliance is achieved. Technical noncompliance counts as substantial compliance only if the Secretary determines that it does not adversely affect program performance; technically incomplete or unreliable data count as adequate only on the Secretary's parallel determination that the defect does not adversely affect measurement of paternity establishment or other performance. No triggering finding or actual sanction is adjudicated here.
+
+Under section 666(d), the Secretary may exempt a law or procedure required by or pursuant to that section if the State demonstrates, using caseload, processing-time, administrative-cost, average-collection and other requested data or estimates, that it will not improve effectiveness and efficiency. The exemption is discretionary, remains subject to continuing review and ends if circumstances change. It supplies neither a guaranteed exemption nor an exemption from every part-D obligation; the result does not depend on predicting an exemption for Kansas.
+
+Section 654(26) continues to require safeguards against unauthorized use or disclosure; prohibits whereabouts disclosure to another party subject to a protective order and to a person where physical or emotional harm is reasonably feared; requires notice to the Secretary when those prohibitions apply and reasonable evidence of domestic violence or child abuse indicates harmful disclosure; and requires court screening before further disclosure of flagged information received from the Secretary. If the court finds further disclosure could harm the parent or child, the court and its agents must not disclose it.
+
+**Treatment of earlier authority:**
+
+- South Dakota v. Dole: applies the distinction between inducement and coercion with general-welfare, notice, relatedness and independent constitutional limits preserved; its five-percent setting becomes no numerical safe harbor.
+- New York v. United States: applies its monetary-incentive holding and distinguishes its unavoidable take-title command; no constitutional entitlement to retain grants on superseded terms follows.
+- Steward Machine Co. v. Davis: applies its distinction between financial pressure and compulsion without treating every expensive choice as voluntary by definition.
+- Printz v. United States: distinguishes its actual compulsory-assistance and fiscal-remand questions from conditional funded cooperation; its source-and-function limits and absence of a controlling compensation entitlement remain intact.
+
+
+### Commerce authority over protected-wildlife taking
+
+#### Gibbs v. Babbitt
+
+**Docket or dockets:** Fourth Circuit No. 99-1218; judgment below, 214 F.3d 483. No separate Supreme Court docket is supplied.
+**Decided:** March 21, 2001.
+
+##### The regulated class and interstate connection for noncommercial taking of experimental red wolves
+
+**Holding:** The enacted class is protected-wildlife taking without a commercial element. Commercial motives, earlier interstate transport, projected tourism, scientific value and potential trade do not establish the required interstate connection either separately or by accumulating incomplete connections; aggregation measures effects only after an eligible connection is identified.
+
+**Proposition-level authority:** O'Connor's Part I, joined by Stone-Zsela, Scalia, Kennedy and Thomas: five direct joins. Ginsburg and Breyer do not join this restrictive connection premise.
+
+**Limits and questions not reached:** A commercial landowner does not make taking itself commercial. The decision does not categorically immunize all noneconomic conduct or insert a commercial element into the regulation.
+
+##### Existing-record support for the necessary-regime or independent-externality route
+
+**Holding:** These private-land applications require materially supported identification of either a valid interstate federal regime that excluding the taking class would evade or materially impair, or a substantial concrete cross-border effect that affected States cannot reasonably confine or internalize through ordinary territorial authority, with reasonable fit between prohibition and effect. The existing record must be examined under both complete routes; if neither is supported, party- and application-specific declaratory or injunctive relief is required.
+
+**Proposition-level authority:** O'Connor's Part II, joined by Stone-Zsela, Kennedy, Ginsburg and Breyer: five direct joins to the complete inquiry and remedy. No broader substantial-class-effects rationale controls.
+
+**Material application:** Actual interstate visitors, volunteers and scientific activity warrant evaluation without invented interstate wolf migration, market demand, failed state cooperation or causal necessity. Supported predictions and circumstantial proof can suffice without a mandatory statistical study, fixed revenue threshold or proof that every wolf crosses a state line; conservation comprehensiveness, federal refuge ownership, national interest or policy disagreement alone cannot complete a route.
+
+**Operative remedy or transition:** Vacate and remand for evaluation of the existing legislative and adjudicative record, not an indefinite search for new science or replacement theories. Neither route is adjudged proved. The mandate permits no taking, awards no damages or compensation, invalidates no general ESA program and does not reopen Mann's earlier conviction.
+
+**Limits and questions not reached:** Property Clause, treaty and compensation theories are outside the Commerce question. The decision does not alter the existing private-land taking rule. The reported exceptions concern taking neither intentional nor willful, defense of a person's life, a landowner's taking while wolves actually kill livestock or pets with freshly wounded or killed animals evident, an owner's nonlethal and noninjurious harassment, and taking with written approval after abandoned Service capture efforts; the reported 24-hour notification requirement remains. No exception is found to authorize future conduct or taking based merely on feared livestock danger.
+
+**Treatment of earlier authority:** Lopez supplies the enacted-class and eligible-connection sequence. Home Builders supplies both complete mechanisms, evidentiary support, territorial limits, predictive latitude and confined relief. Morrison preserves the connection requirement and denies a general right to repeated evidentiary opportunities; the identified existing-record inquiry creates no such right. Solid Waste's statutory holding and separate bird analysis supply no wolf facts or new constitutional rule. Sweet Home's statutory taking and causation rules are unchanged.
+
+### Judicial compensation, ordinary taxes and discriminatory reductions
+
+#### United States v. Hatter, 532 U.S. 557
+
+**Docket or dockets:** No. 99-1978.
+**Decided:** May 21, 2001.
+
+##### Whether incumbent judges are exempt from later ordinary nondiscriminatory taxation
+
+**Holding:** The Compensation Clause permits ordinary nondiscriminatory taxes on incumbent judicial compensation, including generally shared taxes enacted after appointment. Evans v. Gore is overruled to that extent; direct salary reductions and discriminatory indirect reductions remain forbidden, and this generally extended Medicare tax is valid.
+
+**Proposition-level authority:** Souter's Parts II and III, joined by Stone-Zsela, Kennedy, Ginsburg and Breyer; five direct joins to ordinary taxation, the limited overruling, both tax applications and the discrimination rule. Scalia and Thomas join neither part; Stevens and O'Connor do not participate.
+
+**Limits and questions not reached:** A tax label cannot validate disguised diminution, and coverage of other officials does not save a direct salary cut. Later appointees and materially different pension classifications are outside the questions.
+
+**Operative remedy or transition:** Reverse Medicare compensation liability, 5-2. Recovery under the rejected categorical exemption is unavailable; denial does not rest on the earlier panel's displaced blanket limitations bar.
+
+**Treatment of earlier authority:** Evans loses its categorical incumbent tax exemption but retains protection against direct diminution and discriminatory evasion. O'Malley's ordinary-civic-obligation distinction extends to incumbents while its later-appointee holding remains. Will protects compensation already due and separates general taxes from direct cuts. Acker's statutory consent and actual-operation analysis do not themselves decide the independently presented Compensation Clause issue.
+
+##### Whether the Social Security transition discriminatorily reduces these incumbents' compensation
+
+**Holding:** Congress may not materially single out incumbent Article III judges for reduced compensation through the combined operation of tax coverage and pension classifications. This compulsory Social Security transition violates that protection because the affected judges bear an added charge without the opt-out available to most incumbent employees or the contribution adjustment protecting mandatory participants with contributory pensions; subjective legislative hostility is unnecessary.
+
+**Proposition-level authority:** The five-Justice Part III coalition identified above controls this ground. Scalia and Thomas support Social Security liability on different rationales and add no joins to the discrimination rule.
+
+**Material application:** The relevant comparison concerns current employees entering the program; the judges' noncontributory retirement arrangement gives neither identified protection. Mere differences between pension systems do not alone resolve the constitutional comparison.
+
+**Limits and questions not reached:** The decision does not require identical pension plans or make every exemption elsewhere invalidate a judicial tax. It neither exempts every judge from Social Security nor invalidates taxation of other taxpayers, and it adopts no hostile-purpose element or mandatory checklist.
+
+**Operative remedy or transition:** Affirm Social Security liability, 7-0. Only timely, proven deductions for the affected incumbents are recoverable, subject to the operative limitations treatment and individual computation.
+
+**Treatment of earlier authority:** Evans's surviving anti-evasion protection and Will's protection of compensation due apply. Acker informs attention to operation and pertinent comparison but retains its statutory federal-source and local-function limits.
+
+##### Whether a later general salary increase satisfies or ends the unconstitutional deduction
+
+**Holding:** A salary increase does not automatically cure an unconstitutional deduction merely by exceeding it; the legal relationship between the increase and the injury matters. This general increase was independently owed compensation, not satisfaction of the Social Security injury, so timely unlawful deductions remain recoverable; a genuinely compensatory lawful measure is not categorically excluded in other circumstances.
+
+**Proposition-level authority:** Souter's Part IV, joined by Stone-Zsela, Scalia, Kennedy, Ginsburg and Breyer; six direct joins. Thomas agrees with rejection of cure on a distinct entitlement ground. Scalia's Part IV join does not adopt denial of Medicare recovery.
+
+**Operative remedy or transition:** Affirm rejection of the cure defense, 7-0, and remand for lawful computation. The surviving en banc framework treats recurring deductions as continuing claims, excluding amounts more than six years before the relevant filing. No new Supreme Court accrual rule, filing condition, mandated hearing, compensating formula or numerical award is announced.
+
+**Treatment of earlier authority:** Will protects compensation once an increase takes effect; its pleaded recovery interval did not establish automatic satisfaction of a different unconstitutional charge. Neither a higher net salary nor numerical excess alone establishes cure.
+
+For Hatter's confined review holding concerning the earlier no-quorum affirmance, see Federal Courts, this case, May 21, 2001, No. 99-1978.
+
+
+
+### Appointment of administrative hearing officers and lawful rehearing
+
+#### Landry v. Federal Deposit Insurance Corporation
+
+**Docket or dockets:** D.C. Circuit No. 99-1230; agency FDIC 95-65e; judgment below, 204 F.3d 1125. No Supreme Court docket is established.
+**Decided:** June 15, 2001.
+
+##### Substantial statutory hearing authority makes this ALJ an inferior officer
+
+**Holding:** An ALJ occupying this continuing office established by law and exercising substantial discretion over required evidentiary hearings, evidence, procedural orders, findings and recommendations is an inferior officer even though the FDIC Board independently reviews the record and issues the final order. The Board's final authority does not reduce the hearing office to employee assistance; the agency's abandoned valid-appointment defense leaves no alternative lawful appointment ground for this case.
+
+**Proposition-level authority:** Ginsburg's opinion is joined in full by all nine Justices. The complete office-specific classification and fresh-adjudication grounds therefore control directly.
+
+**Material application:** The continuing statutory ALJ office exercises consequential discretion over evidence, procedure, findings and recommendations in mandatory hearings. Confined jurisdiction, subordination and Board review establish an inferior office without eliminating significant governmental authority. Appointment remains distinct from case assignment.
+
+**Limits and questions not reached:** Neither final-order authority nor any single review, removal, tenure or duty factor is universally determinative. The agency abandoned its alternative valid-appointment defense. Whether a banking agency is a constitutional department in a properly preserved case and whether a future instrument is valid remain undecided.
+
+**Treatment of earlier authority:**
+
+- Buckley v. Valeo: applied to significant governmental authority; the ALJ's consequential hearing functions satisfy that inquiry.
+- Freytag v. Commissioner: its significant-duty rationale is applied independently of its alternative final-decision rationale; final agency-order authority is not indispensable here.
+- Edmond v. United States: its actual combined-hierarchy inquiry and distinction between appointment and assignment are extended to this hearing office without a universal single-factor test.
+- United States v. Hilario: its combined-control approach is applied at the actual duties, jurisdiction and tenure of this different office; its prosecutorial disposition establishes no adjudicative cure.
+
+##### Independent review of the existing record does not replace a lawful hearing
+
+**Holding:** On a timely direct challenge, de novo Board review of the record created through an evidentiary hearing conducted by an unconstitutionally appointed ALJ does not cure the defect. The challenger is entitled to a fresh hearing before a constitutionally appointed adjudicator and a fresh Board decision without proving that the appointment error changed the ultimate result.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court directly adopts the existing-record cure and fresh-adjudication holding.
+
+**Material application:** The Board genuinely reconsidered the record and could reject recommendations, but did not replace the two-week evidentiary hearing that generated it. The APA prejudicial-error rule, admissions and independent Board judgment do not require the timely challenger to show how a lawfully conducted hearing would differ.
+
+**Limits and questions not reached:** The rule addresses a timely direct challenge to this hearing-and-record-review structure. It does not decide collateral or forfeited objections, every structural harmless-error issue, ministerial acts or cure by a genuinely new lawful evidentiary adjudication.
+
+**Operative remedy or transition:** The appellate judgment is vacated; the challenged removal and prohibition order must be set aside for a fresh hearing before a constitutionally appointed adjudicator and a fresh Board decision. The same charges may be lawfully pursued. No innocence finding, dismissal of charges, named replacement adjudicator or damages award follows.
+
+**Treatment of earlier authority:**
+
+- Ryder v. United States: its timely direct-challenge protection is applied, and its reserved question about a different review structure is resolved against cure through Board reconsideration of this existing hearing record. Other cure settings remain outside this holding.
+
+### Federal preemption of cigarette advertising restrictions
+
+#### Lorillard Tobacco Co. v. Reilly; Altadis U.S.A. Inc. v. Reilly
+
+**Docket or dockets:** Nos. 00-596 and 00-597.
+**Decided:** June 28, 2001.
+
+##### Whether the federal cigarette clause preempts health-based advertising-location prohibitions
+
+**Holding:** Under 15 U.S.C. §1334(b), a State may not impose a smoking-and-health requirement or prohibition with respect to the advertising or promotion of cigarettes whose packages satisfy the federal labeling requirements. Massachusetts's cigarette applications of §21.04(5)(a)–(b) impose such prohibitions even though they regulate advertising location; general zoning unconnected to smoking and health and independent restrictions on sales to minors are not displaced by this holding.
+
+**Proposition-level authority:** O'Connor's Part I, joined by Stone-Zsela, Scalia, Kennedy and Thomas, supplies five direct votes.
+
+**Limits and questions not reached:** Federal package-label compliance is required. The statute does not directly cover cigars or smokeless tobacco, and no cigarette retail-preemption question is decided. The cigarette First Amendment alternative is unnecessary. The protected-speech and access questions appear under First Amendment — Tobacco advertising and physical access.
+
+**Operative remedy or transition:** The cigarette advertising judgment is reversed for all four manufacturer petitioners, with conforming declaratory and injunctive relief. No substitute scheme, damages or new evidentiary trial is ordered.
+
+**Treatment of earlier authority:** Cipollone’s predicate-duty method extends to direct advertising-location prohibitions while preserving claim-specific statutory conditions. Medtronic and Geier require scheme-specific analysis; neither establishes general industry immunity, and no implied-conflict ground is adopted.
+
+### Interstate water compact damages and prejudgment interest
+
+#### Kansas v. Colorado, 533 U.S. 1
+
+**Docket or dockets:** No. 105, Original.
+**Decided:** June 11, 2001.
+
+For Kansas's ownership of the claim and the Eleventh Amendment holding in Kansas v. Colorado, June 11, 2001, No. 105, Original, see Federal Courts — Sovereign ownership of interstate compact compensation.
+
+##### Additional compensation for delayed payment is legally available
+
+**Holding:** Unliquidated compact damages are not categorically ineligible for additional prejudgment interest compensating lost investment opportunities. Such compensation is available here beyond the appropriate inflation correction Colorado concedes, subject to the period fixed by the component judgment and a supported calculation that neither duplicates inflation nor awards speculative investment returns.
+
+**Proposition-level authority:** Part II of Stevens's opinion of the Court, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer, supplies six direct votes. O'Connor, Scalia and Thomas would deny this additional component on their separate Compact-contract ground.
+
+**Limits and questions not reached:** Availability of the additional lost-investment component does not establish automatic accrual from every injury, a fixed award or an assumed investment return. Historical-dollar principal and the conceded inflation correction remain distinct from additional interest.
+
+**Treatment of earlier authority:**
+
+- City of Milwaukee v. Cement Division, National Gypsum Co. — its compensatory reasoning is extended by analogy to this compact remedy; the maritime holding does not already decide interstate accrual.
+- Texas v. New Mexico, 482 U.S. 124 — applied to suitable compensation despite good-faith uncertainty; its postjudgment-interest treatment does not resolve this prejudgment component.
+- West Virginia v. United States, 479 U.S. 305 — applied to compensation with attention to the governments' actual interests.
+- Funkhouser v. J. B. Preston Co. — establishes that unliquidated damages could carry interest before the Compact; it does not make every period or return recoverable.
+
+##### The rate must measure the loss, without duplicate compensation
+
+**Holding:** Kansas's ownership of the recovery does not require replacing the Master's supported year-specific individual-loss rates with the State's lower borrowing rates. The individual-loss method may value the economic injury for periods in which additional interest is allowed, but the calculation must avoid recovering the same inflation twice and must measure supported lost use rather than speculative returns or punitive leverage.
+
+**Proposition-level authority:** Part III of Stevens's opinion of the Court, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer, supplies six direct votes. O'Connor, Scalia and Thomas do not reach an additional-interest rate because they would deny that component.
+
+**Material application:** The supported year-specific individual-loss approach values agricultural injury. The State's lower cost of borrowing does not measure that distinct deprivation. Ownership of the award does not dictate the rate.
+
+**Limits and questions not reached:** No particular annual schedule, compounding interval, inflation-subtraction formula or assumed farmer investment is adopted. Historical-dollar loss, inflation correction and additional lost use must remain distinguishable enough to avoid double recovery.
+
+**Treatment of earlier authority:**
+
+Texas v. New Mexico preserves the distinction between the sovereign's ownership of recovery and evidence measuring the injury; it does not validate any unsupported return.
+
+##### The crop-loss model has affirmative support for the specified exceptions
+
+**Holding:** The specified objections do not defeat the Master's crop-loss calculation where the accepted shortage connection, acreage and price evidence, published crop-specific water/yield studies and 25-percent adjustment for ordinary farming stresses affirmatively support the estimated loss. Kansas retains the burden of proving compensable injury; Colorado's abandonment of a competing model neither supplies that proof nor shifts the burden.
+
+**Proposition-level authority:** Part IV of Stevens's opinion of the Court is joined by all nine Justices, who directly overrule the specified crop-model exceptions.
+
+**Material application:** Colorado challenged the marginal water/yield estimates through the lack of supplemental drilling and comparisons involving new capital expenditures, arguing that the predicted gains implied farmers would have drilled profitable wells. The coefficients rest on published studies, accepted shortage attribution, acreage and prices, with a 25-percent stress adjustment. Capital and credit constraints, debt aversion and limited cost information explain why noninvestment does not itself refute seasonal-water value. Studies requiring new investment may address a different transaction from using additional water without that expenditure.
+
+**Limits and questions not reached:** Kansas retains the burden of proof. The ruling rejects the specified objections, not a perfect-model requirement, all future objections or a permanent accounting formula. No final compensable quantity follows from the earlier liability finding.
+
+**Treatment of earlier authority:**
+
+Kansas v. Colorado, May 15, 1995, is preserved: its pumping-liability and historical-use determinations did not settle damages. The present evidentiary ruling neither changes the liability proof standard nor fixes a new allocation.
+
+##### The Compact-specific grounds do not require accrual from the earliest losses
+
+**Holding:** Kansas is not entitled to additional lost-investment interest accruing before the Master's 1969 cutoff merely because compensable Compact losses began in 1950. In this remedial setting, the 1949 legal expectations, lack of awareness of a violation during the early years, extraordinary elapsed period and cumulative compounding consequences justify denying that earliest accrual without a finding of culpable Kansas delay; the conceded appropriate inflation correction remains available.
+
+**Proposition-level authority:** Part V-A of Stevens's opinion of the Court, joined by Kennedy, Souter, Ginsburg and Breyer, supplies five direct votes for these reasons. O'Connor, Scalia and Thomas additionally support the denial judgment on their different ground against all additional return. Stone-Zsela dissents from this limitation.
+
+**Limits and questions not reached:** The earliest-accrual denial concerns additional lost-investment interest, not the conceded appropriate inflation correction. It rests on the collective Compact-specific circumstances rather than unliquidated status or absence of formal demand alone. The five Justices adopting these reasons differ on the later commencement date.
+
+**Treatment of earlier authority:**
+
+- Kansas v. Colorado, May 15, 1995 — its rejection of an established inexcusable-delay basis for laches remains intact; the reserved remedy-stage equities are applied without finding culpable Kansas delay.
+- City of Milwaukee v. Cement Division, National Gypsum Co. — distinguished on commencement because its maritime setting does not determine the remedial expectations of this old compact.
+- West Virginia v. United States — its attention to actual governmental interests is applied, while its ordinary reimbursement setting is distinguished.
+- Texas v. New Mexico — preserves past-breach liability without preordaining each prejudgment-interest period.
+
+##### The component judgment requires the Master's 1969 commencement
+
+**Authority of the judgment:** The component judgments require additional interest from the Master's 1969 cutoff, never before the compensable loss. Stone-Zsela, Stevens, Souter, Ginsburg and Breyer allow accrual from that cutoff until December 16, 1985; Kennedy joins them for accrual thereafter. Eight Justices deny pre-1969 accrual, with Stone-Zsela dissenting. Stevens's Part V-B choosing 1969 has only Souter, Ginsburg and Breyer's joins. Stone-Zsela's loss-date rationale does not adopt the knowledge cutoff; Kennedy would use the initiating-request date, and O'Connor, Scalia and Thomas reject all additional interest. These rationales are not logical subsets merely because their dates nest, so no controlling Marks rationale chooses the exact cutoff.
+
+**Limits and questions not reached:** The binding component result creates no universal notice prerequisite. The Master's 1969 commencement is administered without inventing a day; December 16, 1985 is the initiating-request date, not January 1 or the later grant of leave. Ordinary postjudgment interest is outside these exceptions.
+
+**Operative remedy or transition:** The Master must calculate supported historical-dollar losses, conceded appropriate inflation and additional interest under the adopted method and periods, then prepare the judgment. No final amount, private distribution, new water-delivery requirement or revised Compact allocation is entered. Settled liability and the adopted component rules are not reopened.

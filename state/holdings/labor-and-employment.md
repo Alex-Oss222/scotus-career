@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Labor and Employment
 
@@ -2705,3 +2705,149 @@ No independent disclosure, benefits-reimbursement, contract, malpractice-preempt
 - **O'Connor v. Consolidated Coin Caterers Corp.:** Preserves the evidentiary significance of relative age without an under-forty replacement condition or a categorical result from workforce ages.
 
 For the whole-record Rule 50 standard, see Reeves v. Sanderson Plumbing Products, Inc., No. 99-536, June 12, 2000, under Federal Courts, judgment as a matter of law.
+
+### Labor arbitration and public policy
+
+#### Eastern Associated Coal Corp. v. United Mine Workers of America, 531 U.S. 57
+
+**Docket or dockets:** No. 99-1038.
+**Decided:** November 28, 2000.
+
+##### Public-policy review of the conditional reinstatement award
+
+**Holding:** Review requires an explicit, well-defined, dominant policy grounded in law and legal precedent and a conflict between that policy and what the award requires. The transportation regime permits rehabilitation and qualified return to safety-sensitive work; the actual award preserves those safeguards, so repeated past drug use and a general safety objection do not justify vacating its conditional reinstatement.
+
+**Proposition-level authority:** Breyer's unanimous Opinion of the Court.
+
+**Material application:** The arbitrator's delegated just-cause authority is unchallenged. The first award imposed a thirty-day unpaid suspension, substance-abuse-program participation, and discretionary testing by the employer or approved professional over five years. After four negative intervening tests and the second positive result, the second award imposed slightly more than three months' unpaid suspension, reimbursement to both employer and union for both arbitrations, continued program participation and random testing, and an undated signed resignation triggered by another positive test in the next five years. The trigger is not found to have occurred.
+
+**Operative remedy or transition:** Enforcement of the actual conditional award is affirmed. Safety-sensitive return separately requires professional evaluation of treatment need, professional certification of compliance with prescribed rehabilitation, a passed return-to-duty test, and at least six random tests during the first year after return. Treatment follows the assessment and prescription; the award's program-participation duty remains independently binding. Reinstatement proves neither completed compliance nor present entitlement to drive.
+
+**Limits and questions not reached:** There is no universal reinstatement entitlement or judicial permanent-discharge mandate. An award requiring performance contrary to governing legal policy remains reviewable. The Court does not decide whether every public-policy objection requires conduct directly forbidden by positive law. A positive drug test is not a finding of driving under the influence; the arbitrator's credibility and employment-history assessments are not retried.
+
+**Treatment of earlier authority:** Misco and W. R. Grace supply the law-grounded policy and actual-conflict inquiry rather than judicial substitution of preferred discipline. Enterprise Wheel preserves the arbitrator's entrusted contract and remedial function. First Options of Chicago, Inc. v. Kaplan preserves the distinction between contractual delegation and legal restraints; commercial-arbitration review does not replace section 301 labor law.
+
+
+### Employment arbitration and federal statutory coverage
+
+#### Circuit City Stores, Inc. v. Adams, 532 U.S. 105
+
+For the exclusion of retail and other employment contracts from FAA coverage, see Business and Commercial Law, Circuit City Stores, Inc. v. Adams, No. 99-1379, decided March 21, 2001. Independent state-law enforceability and the underlying employment claims were not decided.
+
+### ERISA beneficiary designations after divorce
+
+#### Egelhoff v. Egelhoff, 532 U.S. 141
+
+**Docket or dockets:** No. 99-1529.
+**Decided:** March 21, 2001.
+
+##### ERISA preemption of automatic divorce revocation for pension and already paid insurance benefits
+
+**Holding:** ERISA section 514 preempts Washington's divorce-revocation rule insofar as it substitutes a recipient for the operative plan beneficiary. Both the pension demand and recovery of already paid insurance fail when entitlement derives from that same preempted revocation; payment changes possession without creating an independent source of title, and the insurance ruling rests on section 514 rather than pension anti-alienation.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas: seven Justices.
+
+**Material application:** Neither the pension plan's invalid-designation fallback nor insurance-plan silence establishes adoption of the divorce rule, a continuing-marriage condition or an actual defect in the designation. That operation survives the statute's exceptions for an instrument expressly providing otherwise; a decree requiring a death-payable asset for the former spouse or children when no other nonprobate asset fulfills that requirement at death; and a decedent unable to revoke unilaterally immediately after the decree because of its terms or another reason.
+
+**Limits and questions not reached:** Ordinary capacity, execution, interpretation, inheritance and recipient-obligation rules are not categorically preempted. Killing disqualifications, simultaneous death, actual fraud, valid domestic-relations orders and independently arising postdistribution obligations are outside the claims. No beneficiary award, waiver, applicable exception, notice liability or federal survivor entitlement is established.
+
+**Operative remedy or transition:** Reverse and remand both claims to reject revocation-based entitlement and apply actual plan terms and federal protections, preserving properly presented independent grounds. No second plan payment, new administrator proceeding or particular monetary award is directed.
+
+**Treatment of earlier authority:** Travelers, Dillingham and De Buono retain their distinction between ordinary background effects and direct benefit or administrative commands. UNUM's concrete administrative-connection rule applies without preempting every interpretive principle. Boggs supplies attention to the source of entitlement but does not extend pension anti-alienation to insurance. Mackey preserves the distinction between pension restrictions and welfare benefits and leaves ordinary independent recipient obligations intact.
+
+### Title VII opposition and retaliation chronology
+
+#### Clark County School District v. Breeden, 532 U.S. 268
+
+**Docket or dockets:** No. 00-866.
+**Decided:** April 23, 2001.
+
+##### Reasonable-belief opposition based on the isolated report-review exchange
+
+**Holding:** Assuming protection for good-faith, objectively reasonable opposition before an actual Title VII violation is proved, this isolated exchange during assigned review of an applicant's psychological report does not support a reasonable belief that an unlawful hostile environment existed. The contextual ruling neither excludes every single incident nor requires an employee to wait until harassment is complete before reasonably objecting.
+
+**Proposition-level authority:** The Court's per curiam summary merits opinion; no numerical vote or individual lineup is publicly disclosed. The same opinion controls the transfer ground below.
+
+**Material application:** The objection concerned the supervisor's response, the coworker's offer of an explanation and their laughter, rather than required reading of the applicant's report. The record establishes neither an extremely serious act nor a continuing or threatened abusive condition.
+
+**Limits and questions not reached:** The general outer boundary of reasonable-belief opposition, a separate hostile-environment claim and any new exhaustion rule are not decided.
+
+**Treatment of earlier authority:** Harris supplies contextual objective and subjective hostility, severity or pervasiveness, without psychological injury or lost productivity prerequisites. Oncale supplies social context. Faragher's actual-authority and material-aid rule concerns attribution of an established wrong and cannot supply a missing hostile environment.
+
+##### Chronology alone and a transfer contemplated before knowledge of protected litigation
+
+**Holding:** Completing a transfer contemplated before the decisionmaker learned of suit does not establish retaliation by timing alone without evidence of retaliatory alteration or acceleration; the twenty-month interval from the earlier charge is likewise insufficient alone here. A preexisting plan is not conclusive immunity, and a long interval does not bar causation supported by other evidence.
+
+**Proposition-level authority:** The same per curiam opinion, without a disclosed tally or individual lineup.
+
+**Material application:** Transfer was contemplated on April 10, before April 11 service and before the knowledge stated in the unchallenged affidavit. The reply-only right-to-sue theory establishes neither decisionmaker knowledge nor a new protected employee act. The command to notify an employer within ten days of a charge does not prove actual receipt by these decisionmakers.
+
+**Limits and questions not reached:** No universal time cutoff, automatic notice presumption, categorical prior-plan defense or comprehensive causation formula is adopted. The formal administrative and litigation activity is assumed protected.
+
+**Operative remedy or transition:** Summary reversal restores the District's summary judgment on both unsupported retaliation theories. It gives no new opportunity to supply missing evidence and orders neither damages nor trial.
+
+### Labor arbitral factfinding and the limits of judicial remedies
+
+#### Major League Baseball Players Association v. Garvey, 532 U.S. 504
+
+**Docket or dockets:** No. 00-1210.
+**Decided:** May 14, 2001.
+
+##### Whether disagreement with submitted credibility findings permits vacatur and a court-directed recovery
+
+**Holding:** Courts may not replace a labor arbitrator's credibility and factual determinations within an accepted submission when the arbitrator is arguably applying the agreed framework, even if the court regards the assessment as seriously wrong. A contractual-authority departure or other recognized enforcement defect is required; this arbitrator applied the submitted offer-and-withdrawal criterion, so perceived credibility error does not justify vacatur.
+
+**Proposition-level authority:** Part II of the per curiam opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct joins.
+
+**Independent alternative holding:** Even a proper vacatur ordinarily does not transfer disputed contractual entitlement to the reviewing court or authorize the court's selected monetary outcome. Further arbitral proceedings require authority under the agreement; another hearing is neither automatic nor authorized without that contractual basis.
+
+**Proposition-level authority for alternative holding:** Part III, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; seven direct joins independently reject the directed award. Ginsburg withholds this additional ground.
+
+**Material application:** General club collusion does not establish the particular extension offer, and rejection of an aggregate account does not compel acceptance of every later individual assertion. The Court endorses no witness's accuracy and finds no corruption or separate enforcement defect.
+
+**Operative remedy or transition:** Summarily reverse and remand, 8-1, restoring the district court's denial of vacatur and the original arbitral denial. No second arbitration or evidentiary hearing is required for the asserted credibility mistake. Stevens's opposition is to summary decision, not an ultimate merits affirmance.
+
+**Treatment of earlier authority:** Misco protects submitted factfinding and separately restrains judicial replacement of the arbitral remedy. Enterprise Wheel retains the genuine contractual-authority boundary; American Manufacturing preserves the chosen tribunal's merits role. First Options concerns antecedent assent, Wright preserves independent statutory claims, and Eastern Associated Coal retains law-grounded enforcement limits. Circuit City's FAA employment exclusion and C & L's confirmation waiver concern different statutory and immunity questions.
+
+For Garvey's timely review of the necessary antecedent ruling, see Federal Courts, this case, May 14, 2001, No. 00-1210.
+
+### Professional employees and supervisory authority
+
+#### NLRB v. Kentucky River Community Care, Inc., 532 U.S. 706
+
+**Docket or dockets:** No. 99-1815.
+**Decided:** May 29, 2001.
+
+##### Who bears the burden of establishing supervisory exclusion
+
+**Holding:** The party asserting exclusion from NLRA employee protection on supervisory grounds must prove that status, whether that party is the employer, union or General Counsel. An employer's refusal to bargain to obtain review of the certified unit does not make the exclusion an unfair-labor-practice element that the General Counsel must disprove.
+
+**Proposition-level authority:** Breyer's Parts I and II, unanimous, control this allocation and the functional criteria below.
+
+**Limits and questions not reached:** The General Counsel retains its ordinary burden on unfair-labor-practice elements; no new quantum of proof, presumption or general exemption from agency proof duties is created.
+
+**Treatment of earlier authority:** Director, OWCP v. Greenwich Collieries preserves the proponent's persuasion burden while distinguishing proof of a genuine statutory exception.
+
+##### When professional direction constitutes independent supervisory authority
+
+**Holding:** The Board may distinguish ordinary professional or technical direction under employer-prescribed standards from authority, exercised in the employer's interest with independent judgment beyond routine or clerical action, to perform a statutory supervisory function. Any one listed function may suffice even when rarely exercised; professional skill neither conclusively establishes supervision nor excludes professional judgment from qualifying as independent judgment.
+
+**Proposition-level authority:** Breyer's Part II, unanimous.
+
+**Material application:** The alternative functions are hiring, transfer, suspension, layoff, recall, promotion, discharge, assignment, reward, discipline, responsible direction, grievance adjustment and effective recommendation of such action. Assignment or responsible direction does not require hiring, firing or disciplinary power. Possessed authority matters, not frequency alone; titles, credentials, highest on-site rank, patient-care responsibility and managerial absence are not conclusive. Continuing off-site authority is relevant but not automatically decisive.
+
+**Limits and questions not reached:** This is a permissible functional construction, not an occupational exemption or a compulsory construction for every future Board.
+
+**Treatment of earlier authority:** NLRB v. Health Care & Retirement Corp. of America retains its full functional scope and all alternative functions. Holly Farms Corp. v. NLRB requires independent attention to statutory boundaries followed by review of the agency's actual functional explanation.
+
+##### Whether the whole record supports the six nurses' employee classification
+
+**Holding:** A reviewing court must sustain the Board's employee classification when the Board applies the permissible functional distinction and its actual findings have whole-record support. The employer did not establish the six nurses' necessary independent supervisory authority here, so their inclusion and the existing bargaining order must receive effect.
+
+**Proposition-level authority:** Breyer's Part III, joined by Stone-Zsela, Stevens, Souter and Ginsburg. O'Connor, Scalia, Kennedy and Thomas join the rules in Parts I and II but reject this application and enforcement remedy.
+
+**Material application:** Prescribed staffing, voluntary and established replacement procedures, inability to compel attendance through discipline, independent managerial investigation and absence of effective personnel recommendations supplied a discernible functional rationale. The contrary memoranda, reassignment and send-home evidence did not require judicial displacement of that supported assessment. The holding rests neither on nonexercise alone nor on an occupational label or absence of hiring power.
+
+**Operative remedy or transition:** Reverse the refusal to enforce concerning these nurses and remand to effectuate the existing order, subject only to genuinely preserved remaining enforcement issues. No new classification hearing, bargaining terms or backpay are ordered; political-subdivision and rehabilitation-counselor rulings remain undisturbed.
+
+**Treatment of earlier authority:** Allentown Mack Sales & Service, Inc. v. NLRB requires the announced lawful standard and whole-record support while respecting fairly conflicting views. Health Care & Retirement and Holly Farms sustain an actual supported agency rationale, not reasons supplied by the reviewing court.

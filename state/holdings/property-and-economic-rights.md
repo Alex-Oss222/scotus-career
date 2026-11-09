@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Property and Economic Rights
 
@@ -1220,3 +1220,62 @@ For a section 1336 boundary dispute, section 1337(g)(5) credits the agreement ac
 **Treatment of earlier authority:**
 
 - United States v. Alaska, June 19, 1997: implemented through the original schedule, qualified relief and administrative terms. The normal-baseline and Dinkum holdings and the separate Petroleum Reserve and prestatehood Refuge title grounds remain unchanged. No new title determination or new assent to the prior reasoning follows from entry of the decree.
+
+
+### Finality, successor acquisition and retained use in regulatory takings
+
+#### Palazzolo v. Rhode Island
+
+**Docket or dockets:** No. 99-2047.
+**Decided:** June 28, 2001.
+
+##### Whether another materially equivalent application is required after a definitive use restriction
+
+**Holding:** When the responsible agency has definitively excluded the requested class of use and the established remaining use sufficiently defines the challenged restriction, an owner need not submit materially equivalent proposals to obtain a final decision. These denials and the governing private-filling restriction permit review of the existing compensation claim without another private-filling proposal; they do not fix every permissible upland use or the property's maximum value.
+
+**Proposition-level authority:** Thomas's Parts I–III, joined by Stone-Zsela, Stevens, O'Connor, Scalia and Kennedy; six direct joins.
+
+**Material application:** The denials definitively exclude ordinary private wetlands filling for lack of the required public purpose. The exception requires all three conditions: a compelling purpose benefiting the public as a whole through public infrastructure, a water-dependent activity producing substantial economic gain for the State, or broad public access to the shore; all reasonable measures to reduce environmental impacts or conflicts of use; and no reasonable alternative means or location to serve that purpose. Satisfying all three permits, but does not compel, an exception. The public-purpose denial supplies no separate findings on the other conditions.
+
+**Limits and questions not reached:** An application remains necessary if a different density, design or genuinely available exception could change the agency’s determination. Additional upland sites, access and maximum value remain unsettled; no universal two-denial rule applies.
+
+**Treatment of earlier authority:** Suitum separates final use determination from uncertain valuation. Lucas preserves reviewability of an established prohibition without deciding compensation.
+
+
+##### Whether acquisition after regulation extinguishes the claimant’s own takings challenge
+
+**Holding:** Acquisition after a regulation's enactment does not by itself bar the claimant's own takings challenge or turn that regulation into an antecedent limitation on property rights. Actual regulatory conditions and acquisition circumstances may bear on reasonable investment-backed expectations within the combined Penn Central inquiry, but notice alone does not extinguish the claim or decide that inquiry.
+
+**Proposition-level authority:** Thomas's Parts I–III, joined by Stone-Zsela, Stevens, O'Connor, Scalia and Kennedy; six direct joins.
+
+**Limits and questions not reached:** Notice creates neither a presumption against successors nor a price-paid compensation ceiling. The holding does not determine injury timing or transfer a predecessor’s accrued compensation claim with title.
+
+**Treatment of earlier authority:** Lucas requires genuine background property or nuisance limits, not regulation transformed into title law by transfer. Penn Central and Dodd permit actual regulatory and acquisition circumstances to bear on expectations within the combined inquiry, without making acquisition alone dispositive.
+
+
+##### Whether meaningful whole-parcel upland use defeats the complete-deprivation category
+
+**Holding:** The whole parcel's meaningful residential upland use defeats the Lucas category requiring complete deprivation of economically beneficial use. That conclusion does not defeat a partial-taking claim under Penn Central, and it requires no finding that one house or approximately $200,000 is the maximum remaining use or value.
+
+**Proposition-level authority:** Thomas's Parts I–III, joined by Stone-Zsela, Stevens, O'Connor, Scalia and Kennedy; six direct joins.
+
+**Material application:** One supported upland home and approximately $200,000 retained value are meaningful use, not findings of a maximum. The claimed subdivision value and loss percentage do not establish complete deprivation.
+
+**Limits and questions not reached:** The wetlands-only denominator was not presented below or in the petition. No universal parcel definition or automatic partial-taking result follows.
+
+**Operative remedy or transition:** The rejection of the whole-parcel complete-deprivation claim is affirmed.
+
+**Treatment of earlier authority:** Lucas requires total economic deprivation; Dodd preserves the distinction between profitable remaining use and a partial-taking claim.
+
+
+##### What inquiry governs the existing contextual compensation claim
+
+**Holding:** The existing compensation claim must be considered under Penn Central's combined inquiry into economic impact, reasonable investment-backed expectations and the character of governmental action, subject to actual preservation requirements and independently supported lawful grounds. Acquisition after enactment, retained value or a legitimate public purpose alone cannot substitute for that inquiry; no compensation result follows from the present remand.
+
+**Proposition-level authority:** Thomas's Part IV, joined by Stone-Zsela, O'Connor, Scalia and Kennedy; five directly adopt the remand. Stevens joins Parts I–III but rejects this remand on his own-injury ground; the three finality dissenters’ conditional merits views add no joins.
+
+**Limits and questions not reached:** Actual uses and value, expectations, background law, injury timing and claim ownership remain for lawful adjudication where material. No taking at enactment or in 1986, accrued-claim transfer, nuisance defense or preservation of every future theory is established.
+
+**Operative remedy or transition:** Categorical finality and post-regulation-acquisition barriers are reversed and the existing case is remanded under ordinary preservation rules. No compensation, permit, new trial or predetermined valuation is ordered.
+
+**Treatment of earlier authority:** Penn Central supplies the combined economic-impact, reasonable-expectations and governmental-character inquiry. Dodd rejects any single categorical shortcut while preserving proof of actual injury and duration.

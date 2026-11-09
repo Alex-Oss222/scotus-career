@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Immigration
 
@@ -424,6 +424,10 @@ Scalia, Kennedy and Thomas would instead vacate the appellate judgment and both 
 
 **Proposition-level authority:** Part II of the opinion of the Court; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer directly adopts this rule.
 
+**Current-force modification:** INS v. St. Cyr, June 25, 2001, resolves the separate eligible-plea and IIRIRA-repeal question without altering Goncalves's pending-application holding. Absent sufficiently clear contrary temporal direction, a lawful permanent resident whose deportable conviction resulted from a plea entered before the relevant 1996 change while eligible for former section 212(c) consideration retains that opportunity against both section 440(d) and section 304(b). Former eligibility restrictions and lawful agency discretion remain; no subjective-reliance finding or guaranteed waiver is required or supplied. Trial convictions, postchange pleas, ineligibility at the plea and unrelated later removal grounds remain outside that transaction class.
+
+**Later-authority backlinks:** INS v. St. Cyr, June 25, 2001 — former-law consideration for the defined eligible preenactment plea class, including the distinct IIRIRA repeal.
+
 ##### III. Agency interpretation cannot override this statutory conclusion
 
 **Holding:** Matter of Soriano receives no controlling weight on section 440(d)'s temporal application because ordinary interpretation resolves that question against the agency's construction; its reasoning is not persuasive enough to overcome the enacted distinctions. The Attorney General likewise cannot conclusively determine the district court's section 2241 jurisdiction, and the Board must decide the pending request without applying section 440(d) as an eligibility bar.
@@ -453,3 +457,103 @@ Scalia, Kennedy and Thomas would instead vacate the appellate judgment and both 
 
 
 For the other questions in Reno v. Goncalves, decided 1999-06-03, at the dockets stated above, see Federal Courts.
+
+
+### Citizenship after severance of a recognition deadline
+
+#### Tuan Anh Nguyen v. INS, 533 U.S. 53
+
+**Docket or dockets:** No. 99-2071.
+**Decided:** June 11, 2001.
+
+For the sex-equality holding in Tuan Anh Nguyen v. INS, June 11, 2001, No. 99-2071, see Civil Rights — Sex-based citizenship-transmission recognition deadlines.
+
+##### Sever the discriminatory deadline and apply the remaining citizenship statute
+
+**Holding:** The discriminatory age barrier is severed while the citizenship-transmission scheme and its lawful remaining conditions continue to operate. Nguyen may use his authorized election of former §1409(a), without its unconstitutional before-twenty-one limit but with its retained legitimation and applicable transmission requirements; if those requirements establish citizenship at birth, he must be recognized as a statutory citizen and removal on alienage grounds terminated, while failure of an independent valid condition receives its ordinary legal consequence.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, directly controls. Stevens, Scalia, Kennedy and Thomas dissent.
+
+**Material application:** Section 406's separability provision and the benefit-conferring scheme support removal of the age barrier while preserving valid transmission requirements, rather than withdrawal of maternal transmission. Nguyen was seventeen on November 14, 1986 and may elect former section 1409(a); that route retains legitimation and imposes no amended written-support promise.
+
+**Limits and questions not reached:** For his 1969 birth, the citizen parent must have at least ten prebirth years of United States or outlying-possession presence, including five after age fourteen. Honorable United States Armed Forces service, employment with the United States Government or an international organization defined in 22 U.S.C. section 288, and presence abroad as an unmarried dependent child in the household of a person performing such service or employment may count. The five-year/two-after-fourteen rule applies to births from November 14, 1986, and the mother's distinct one-year rule does not replace his conditions. The late order is not declared timely by construction and does not establish all requirements. This is enforcement of the corrected statute, not equitable naturalization or citizenship from DNA alone.
+
+**Operative remedy or transition:** The removal affirmance is vacated insofar as it depends on the discriminatory deadline. The authorized election and remaining requirements must be determined; established statutory citizenship requires recognition and termination of removal on alienage grounds. Failure of an independent valid condition has its ordinary consequence. No criminal conviction is disturbed and no damages are awarded.
+
+**Treatment of earlier authority:** Miller supplies no controlling remedial bar. Westcott supports benefit preservation after correction; Mathews preserves the alternative-remedy inquiry. Pangilinan’s restriction on equitable naturalization contrary to valid law is retained and distinguished from enforcement of the statute after constitutional severance.
+
+### Former-law eligibility after preenactment guilty pleas
+
+#### INS v. St. Cyr
+
+**Docket or dockets:** No. 00-767.
+**Decided:** June 25, 2001.
+
+##### Whether AEDPA section 440(d) and IIRIRA repeal remove eligibility attached to a completed eligible plea
+
+**Holding:** Absent sufficiently clear contrary temporal direction, AEDPA §440(d)'s new eligibility bar and IIRIRA §304(b)'s repeal of former §212(c) do not eliminate consideration under the former law for a lawful permanent resident whose deportable conviction resulted from a guilty plea entered before the relevant change while eligible for that relief. The protected consequence is the opportunity for lawful discretionary consideration, subject to the former eligibility conditions, not a favorable waiver or universal exemption for every preenactment conviction.
+
+**Proposition-level authority:** Parts II and III of Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct votes.
+
+**Material application:** St. Cyr's March 8, 1996 eligible plea surrendered trial rights before either amendment. Removing the opportunity for lawful consideration adds a consequence to that completed exchange even though relief was discretionary. The April 1, 1997 commencement and earlier-proceeding savings determine the procedural system for his April 10 proceeding, not this substantive consequence. No official immigration promise, subjective reliance, or proof that he would have elected trial is required.
+
+**Limits and questions not reached:** The rule does not decide trial convictions, postchange pleas, pleas entered while ineligible, unrelated later removal grounds or new disqualifications. Former conditions remain, including seven years of lawful unrelinquished domicile and the aggravated-felony bar when at least five years were served for the felony or felonies. No old-conviction exemption, constitutional invalidation or right to favorable discretion follows.
+
+**Treatment of earlier authority:** Landgraf supplies the temporal-direction and completed-event inquiry; Lindh requires provision-specific distinctions. Reyes-Hernandez supports protection of a surrendered option without requiring its particular deportability defense. Kolster's plea before eligibility is distinguished, preserving its rejection of universal subjective reliance. Goncalves's pending-application holding remains intact, while its eligible-plea and IIRIRA-repeal reservation is resolved. Goncalves and Mead permit no agency interpretation to override the statutory meaning reached by ordinary construction.
+
+##### What consideration and remedy the former-law eligibility judgment requires
+
+**Holding:** The Second Circuit's judgment recognizing habeas jurisdiction and preserving former-law eligibility is affirmed. The matter returns through the appropriate agency process for consideration of St. Cyr's request under the applicable former §212(c) criteria and, if those criteria are met, a lawful exercise of discretion; the 1996 changes cannot supply the categorical ineligibility ground rejected here.
+
+**Proposition-level authority:** Parts II and III of Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct votes.
+
+**Operative remedy or transition:** The Second Circuit judgment is affirmed. The agency must entertain the request under applicable former eligibility criteria and, if those are satisfied, exercise lawful discretion without the rejected 1996 bar. The Court awards no favorable waiver, release, termination, criminal retrial, extra hearing beyond lawful agency adjudication, removal or stay alteration.
+
+**Treatment of earlier authority:** Goncalves supplies the distinction between requiring consideration under lawful criteria and substituting judicial judgment for agency waiver discretion.
+
+For the jurisdiction question in INS v. St. Cyr, No. 00-767, decided June 25, 2001, see Federal Courts — Independent immigration habeas and legal eligibility.
+
+### Removal-purpose limits on detention after the removal period
+
+#### Zadvydas v. Davis; Ashcroft v. Ma
+
+**Docket or dockets:** Nos. 99-7791 and 00-38.
+**Decided:** June 28, 2001.
+
+##### How long §1231(a)(6) permits detention of the previously admitted persons presented
+
+**Holding:** For the previously admitted persons presented here, section 1231(a)(6) authorizes detention beyond the removal period only for a period reasonably necessary to accomplish removal. When there is no significant likelihood of removal in the reasonably foreseeable future, continued custody under that provision is unauthorized; a final removal order, past crime, danger or continuing diplomatic effort alone cannot supply permanent preventive authority detached from removal.
+
+**Proposition-level authority:** Breyer's Parts II and IV, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct joins.
+
+**Material application:** The ordinary ninety-day removal period starts at the latest of administrative finality, the final judicial order when review includes a removal stay, or release from nonimmigration confinement. Paragraph (2) requires detention during that period and separately forbids release of specified criminal and security categories. Paragraph (6) permits detention of ordered-removed persons inadmissible under §1182, removable under §1227(a)(1)(C), (a)(2) or (a)(4), or determined to pose community risk or likely noncompliance; release requires paragraph (3) supervision.
+
+**Limits and questions not reached:** The statute is construed, not independently invalidated. No universal psychiatric criterion, dangerousness burden or finding of harmlessness is adopted. Previously unadmitted entrants and independent criminal, civil-commitment or security regimes are outside the holding. Administrative review cannot replace lawful custody authority, but no facial invalidation of the review regulation is necessary.
+
+**Treatment of earlier authority:** National Center confines delegated discretion to statutory purpose. Foucha and Jackson require a continuing lawful ground related to custody’s nature and duration; Flores’s temporary juvenile-care regime is distinguished. Hendricks retains its actual as-applied punishment holding and noncontrolling diagnostic discussion, and Seling keeps punishment, current authority, conditions and relief distinct; no punishment finding is necessary here.
+
+
+##### How the rebuttable six-month presumption and removal-prospect burdens operate
+
+**Holding:** Six months is a presumptively reasonable period of removal detention, within the removal process rather than added after the ordinary ninety days. After that interval, a detainee who provides good reason to believe there is no significant likelihood of removal in the reasonably foreseeable future requires the government to furnish evidence sufficient to rebut that showing; six months alone neither compels release nor forecloses other properly supported unlawful-custody claims during the interval.
+
+**Proposition-level authority:** Breyer's Part III, joined by Stevens, O'Connor, Souter and Ginsburg; five direct joins. Stone-Zsela does not join this implementation, and his different approach is not combined with it under Marks.
+
+**Material application:** The government must answer a supported showing with sufficient evidence, not merely the removal order, danger, good faith or a theoretical possibility. The reasonably foreseeable future shortens as detention lengthens. Actual foreign responses, negotiations, travel documents, receiving arrangements, removal efforts and material detainee conduct matter, with appropriate leeway for supported executive judgments and foreign-policy expertise.
+
+**Limits and questions not reached:** Neither a treaty nor proof of permanent impossibility is required. Detention may continue after six months until absence of the required significant likelihood is determined; where removal remains reasonably foreseeable, crime and flight risks may justify custody within the reasonable interval. Other supported unlawful-custody claims remain possible during the presumed interval. The six-month presumption does not convert administrative review calendars into absolute deadlines or independent authority to detain beyond the removal purpose.
+
+**Operative remedy or transition:** Paragraph (1)(C) separately extends the period and permits detention for failure or refusal to apply timely and in good faith for necessary documents, or conspiracy or action preventing removal. Foreign refusal alone establishes none of those predicates. The provision requires its actual facts rather than presumed obstruction.
+
+
+##### What relief follows when the proper removal-prospect inquiry no longer supports detention
+
+**Holding:** Both appellate judgments must be vacated so the two records receive the required reasonably-foreseeable-removal inquiry, instead of permanent-impossibility or agreement-only proxies. When paragraph (6) no longer authorizes custody and no independent lawful basis applies, effective relief is supervised release; release preserves the removal order and supplies no new admission, immigration status, waiver or immunity from removal.
+
+**Proposition-level authority:** Breyer's Parts II and IV, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct joins.
+
+**Operative remedy or transition:** Both appellate judgments are vacated, each 6–3. Zadvydas’s effective district release and the stayed appellate mandate remain distinct from any proposed resumed custody; time at liberty is not detention and there is no fictional new first day or automatic six-month allowance. No universal restart, aggregation or tolling rule is decided. Ma’s actual elapsed confinement, negotiations and current removal prospects receive the same inquiry. Vacatur orders neither rearrest nor unconditional release regardless of that inquiry.
+
+**Limits and questions not reached:** Supervision requires periodic identification, necessary medical or psychiatric examinations at government expense, sworn information and reasonable written conduct restrictions. A violation or regulatory revocation ground supports renewed custody only with actual lawful authority and process; regulation cannot revive unlimited custody. No stay or release condition changes by implication, and terrorism or other special circumstances possibly supporting distinct preventive authority or heightened deference are not decided.
+
+**Treatment of earlier authority:** The purpose-bound construction rejects both permanent-impossibility and agreement-only proxies. Calcano-Martinez and St. Cyr retain an effective independent review channel; their removal-merits and discretionary limits remain intact.

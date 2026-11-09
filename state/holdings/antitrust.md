@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Antitrust
 
@@ -111,6 +111,8 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 **Proposition-level authority:** Blackmun's opinion, joined by Stone, White, Stevens, Kennedy and Souter; six Justices.
 
+**Current-force modification:** CSU, L.L.C. v. Xerox Corporation, June 4, 2001, resolves the previously open patent and copyright defense to a supported monopoly-maintenance claim. Protected exclusion retains substantial justificatory force but supplies no conclusive defense or exhaustive fraud, sham-litigation, tying, unlawful-acquisition or beyond-grant prerequisite. Kodak's distinct power, unlawful-conduct and injury requirements remain; no duty to supply rivals or finding of liability follows.
+
 **Current force:** Remains controlling as stated for evidentiary sufficiency and the distinct power and conduct requirements.
 
 **Material application:** The quality explanation must be tested against self-service exceptions and independent-service evidence; the inventory explanation against evidence that parts needs do not depend on the service provider; and free-riding claims against the restrictions' operation and alternative-supply obstacles. Kodak may prove legitimate reasons and defeat liability.
@@ -120,6 +122,8 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Operative remedy or transition:** Affirm reversal of summary judgment on the preserved §2 monopolization and attempt claims. No damages, final injunction or compulsory parts-supply order issues; respondents must prove each claim and recovery requirement.
 
 **Treatment of earlier authority:** *Grinnell*, 384 U.S. 563, distinguishes unlawful maintenance from lawful success. *Aspen Skiing Co. v. Aspen Highlands Skiing Corp.*, 472 U.S. 585, makes exclusion and business justification material without creating a universal supply duty. *Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc.*, 429 U.S. 477, retains the distinct antitrust-injury requirement. *Holmes v. Securities Investor Protection Corp.*, March 24, 1992, retains its RICO directness and SIPA holdings without deciding these Sherman Act elements or injury.
+
+**Later-authority backlinks:** CSU, L.L.C. v. Xerox Corporation, June 4, 2001 — patent and copyright exclusion as defenses to maintenance of monopoly power in a distinct service market.
 
 ### Attempted monopolization and legally defective verdict grounds
 
@@ -420,3 +424,46 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 
 
 For the RICO and fund-property holdings in Steamfitters, January 10, 2000, Third Circuit No. 98-1426, see Business and Commercial Law — Civil RICO directness and property injury.
+
+### Patent and copyright exclusion in service-market monopolization
+
+#### In re Independent Service Organizations Antitrust Litigation: CSU, L.L.C. v. Xerox Corporation
+
+**Docket or dockets:** Federal Circuit No. 99-1323; District of Kansas MDL-1021; judgment below, 203 F.3d 1322.
+**Decided:** June 4, 2001.
+
+##### Patent exclusion and monopoly maintenance
+
+**Holding:** A valid patent and unilateral refusal to supply protected parts neither establish monopolization nor conclusively defeat a supported claim that control of those inputs maintains monopoly power in a distinct service market. Without an additional prerequisite of procurement fraud, sham litigation or illegal tying, the plaintiff must prove relevant-market power, unlawful acquisition or maintenance, competitive injury and causation; lawful statutory exclusion and returns on invention retain substantive justificatory force.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer, supplies six direct votes for this proposition and the bounded remand. O'Connor, Scalia and Thomas dissent.
+
+**Material application:** The asserted aftermarket must rest on actual substitutes and constraints. End-user sales, selective verification, alternate-supply barriers and service effects require assessment; none establishes a violation. Statutory exclusion is a substantive legal entitlement, and an antitrust market boundary alone does not show conduct outside the patent grant. Quality, inventory, support, innovation returns and supported efficiencies remain relevant.
+
+**Limits and questions not reached:** Refusal, hostility to competitors, injury to CSU and a service-market label are insufficient. Competent documents, testimony and actual conduct can establish or defeat the elements; there is no universal econometric-study prerequisite. No general duty to assist rivals arises. Patent validity and infringement remain outside the accepted question.
+
+**Treatment of earlier authority:**
+
+- Eastman Kodak Co. v. Image Technical Services, Inc.: applies the distinct power, conduct and justification inquiries and its fact-supported aftermarket rule; the patent and copyright defense left open there is now resolved. Its tying holding creates no tying claim here.
+- United States v. Grinnell Corp.: preserves monopoly power and unlawful acquisition or maintenance as distinct requirements, with superiority, business acumen and accident outside the offense.
+- Aspen Skiing Co. v. Aspen Highlands Skiing Corp.: applies scrutiny of actual exclusion and business justification without a general duty to supply competitors.
+- Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc.: preserves its objectively-baseless-litigation prerequisite for the sham petitioning theory it addressed; that rule is not transplanted as immunity for commercial refusal.
+- TrafFix Devices, Inc. v. Marketing Displays, Inc.: its expired-patent functionality and trade-dress holding remains intact and supplies no disposition of valid patent or copyright exclusion here.
+
+##### Copyright justification and the required remand
+
+**Holding:** Copyright's exclusive rights provide a substantial justification for refusing protected manuals or diagnostic-software access, but do not conclusively defeat an objectively supported monopoly-maintenance claim merely because unlawful acquisition or extension beyond the copyright grant is absent. The same ordinary monopolization burdens apply; subjective pretext, rival injury or refusal alone cannot rebut the statutory justification, and every eventual remedy must fit a proved violation and causal injury while preserving lawful protected returns insofar as compatible with curing that violation.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer, supplies six direct votes for this proposition and the bounded remand. O'Connor, Scalia and Thomas dissent.
+
+**Material application:** The lower court treated copyright exclusion as presumptively justified and limited rebuttal to unlawful acquisition or extension beyond the grant. The Court preserves the justification's substance but removes that conclusive limitation. Protected rights, challenged conduct, competitive mechanism and supporting evidence must be identified separately.
+
+**Limits and questions not reached:** Actual market definition, durable power, unlawful exclusion, causation, antitrust injury and lawful relief remain to be established. Copyright ownership and infringement are outside review. No final misuse ruling follows; any consequence of removal of the lower court's patent-scope predicate requires its own preserved ground. Temporary settlement access establishes neither liability nor a right to forced access.
+
+**Operative remedy or transition:** The affected patent- and copyright-based antitrust summary judgments are vacated. Renewed summary judgment remains available on a supported failure of proof or lawful-exclusion ground. The mandate orders no discovery, hearing, trial, damages, parts supply or software license.
+
+**Treatment of earlier authority:**
+
+- California Dental Association v. Federal Trade Commission: applies restraint-specific consideration of effects and substantial explanations; no automatic full-market study or motive-only test follows.
+- NYNEX Corp. v. Discon, Inc.: preserves the distinction between injury to one supplier and injury to the competitive process; its section 1 categories are not converted into a new section 2 exemption.
+- Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc.: preserves the independent antitrust-injury requirement.

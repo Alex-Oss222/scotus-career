@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Administrative Law
 
@@ -1625,6 +1625,8 @@ For the other questions in AT&T Corp. v. Iowa Utilities Board, decided 1999-01-2
 
 **Proposition-level authority:** Kennedy's Part IV, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Breyer (seven Justices).
 
+**Current-force modification:** United States v. Mead Corp., June 18, 2001, resolves the reserved informal-letter question for the transaction-specific, revisable Customs classification mechanism at issue there. Such a letter lacks delegated controlling interpretive force, but its reasons require independent consideration for their actual persuasive value. Haggar's treatment of genuinely delegated regulations and independent judicial factfinding remains intact; Mead neither excludes every informal interpretation nor fixes the disputed tariff classification.
+
 **Limits and questions not reached:** The tariff requires United States fabricated components exported ready for assembly without further fabrication, retention of physical identity and no foreign advancement or improvement except assembly and incidental operations including cleaning, lubricating and painting. The allowance reduces duties by qualifying component cost or value, with proportional treatment of specific/compound rates; it does not exempt the entire article. Regulation §10.16(b) permits incidental operations before, during or after assembly, including ordinary final pressing/folding; §10.16(c)'s significant nonassembly processes and unrelated processes retain their introductory conditions despite chemical-treatment examples. Timing after sewing alone does not decide the issue. Informal letters and later administrative doctrines are not decided.
 
 **Operative remedy or transition:** Vacate and remand for the regulation's statutory fit and actual application without categorical nondeference. No regulatory validity, exemption, refund, duty amount, new hearing or finding of missing papers is established.
@@ -1636,6 +1638,8 @@ For the other questions in AT&T Corp. v. Iowa Utilities Board, decided 1999-01-2
 - MCI Telecommunications Corp. v. AT&T and National Credit Union Administration v. First National Bank require enforcement of enacted boundaries before deference.
 - AT&T Corp. v. Iowa Utilities Board separates general authority, particular rule validity and unresolved applications; it creates no automatic validation or universal remand rule.
 - NFFE/FLRA v. Department of the Interior distinguishes legally available discretion from its lawful exercise; its distinct remedy does not compel a new Customs proceeding.
+
+**Later-authority backlinks:** United States v. Mead Corp., June 18, 2001 — controlling authority and persuasive consideration of Customs classification letters under the mechanism reviewed.
 
 ### Telecommunications customer approval
 
@@ -1826,3 +1830,145 @@ For the compensatory-time use holding in Christensen, May 1, 2000, No. 98-1167, 
 - **McCarthy v. Madigan:** Applies statutory primacy and assessment of actual agency design and interests; its damages-only BOP exception is not transplanted.
 - **Darby v. Cisneros:** Preserves its APA-specific superior-review rule; it is not a blanket bar to all issue-exhaustion requirements.
 - **Shalala v. Illinois Council on Long Term Care, Inc.:** Preserves prescribed channels and meaningful review while distinguishing a claimant who has already completed the required route.
+
+### FOIA interested-claimant communications
+
+#### Department of the Interior v. Klamath Water Users Protective Association, 532 U.S. 1
+
+**Docket or dockets:** No. 99-1871.
+**Decided:** March 5, 2001.
+
+##### Whether interested-claimant exchanges satisfy FOIA Exemption 5 through federal trust representation
+
+**Holding:** Assuming without deciding that an outside adviser can sometimes function within an agency's deliberative process, communications between an agency and an outside claimant advancing its own scarce-resource entitlement against competing claimants are not inter-agency or intra-agency communications under Exemption 5 merely because the agency consults or represents that claimant. The rule reaches both the claimant's submissions and the agency's communication to representatives acting for that claimant in the same exchange.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous for both propositions.
+
+**Material application:** All seven communications concern tribes pursuing scarce water against competing claimants. The category fails in both directions, including the federal-authored communication to tribal counsel; a governmental sender does not make the interested recipient an internal agency participant.
+
+**Limits and questions not reached:** The general validity and outer reach of an outside-consultant construction are assumed, not decided. A viewpoint or incidental interest alone is not disqualifying; no general rule concerning later transmission of an independently internal paper is adopted. Water entitlements, trust-duty merits and tribal immunity remain outside review.
+
+##### Whether litigation protection can substitute for the agency-communication requirement
+
+**Holding:** Exemption 5 requires both an inter-agency or intra-agency communication and protection from disclosure to a nonagency party in litigation with the agency. Because all seven exchanges fail the first condition, possible deliberative-process or work-product protection cannot justify their withholding under this exemption, and no ruling on those privileges or their waiver is necessary.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous for both propositions.
+
+**Limits and questions not reached:** Actual deliberative-process or work-product protection and waiver are not reached because the category defect independently resolves Exemption 5.
+
+**Operative remedy or transition:** The judgment rejecting withholding of all seven communications is affirmed. Ordinary FOIA relief includes release of nonexempt and reasonably segregable material, subject only to independently supported and properly preserved other grounds; this decision establishes or revives none.
+
+**Treatment of earlier authority:**
+
+- Landano is applied for the particular-exemption burden and segregable disclosure; its Exemption 7(D) confidentiality rule supplies no Exemption 5 consultant holding.
+- Department of Defense v. FLRA is applied for preserving enacted FOIA boundaries despite an independent representational purpose; its privacy balance is not extended to these documents.
+- Tax Analysts's general disclosure entitlement and John Doe Agency's respect for enacted exemption requirements remain operative. Neither is overruled or converted into a privilege rule.
+
+### Review of a settled implementation framework
+
+#### Whitman v. American Trucking Associations, Inc. / American Trucking Associations, Inc. v. Whitman, 531 U.S. 457
+
+**Docket or dockets:** Nos. 99-1257 and 99-1426.
+**Decided:** February 27, 2001.
+
+For this decision of February 27, 2001, Nos. 99-1257 and 99-1426, Environmental Law contains standard-setting costs and implementation requirements; Constitutional Structure contains congressional guidance and the agency-cure question; Administrative Law contains the independent review routes.
+
+##### Whether the settled ozone implementation framework is final and ripe for review
+
+**Holding:** EPA's settled choice of the statutory implementation framework accompanying the final ozone standard is final action reviewable under section 307(b), and the present legal question is ripe. The determination selects the governing implementation obligations and has present legal consequences; tentative guidance, influence or planning expense alone does not satisfy this rule.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Material application:** After comment EPA completed its choice of the legal framework governing required state implementation and refused to reconsider it. Those legal consequences, rather than planning expense or persuasive influence alone, satisfy finality. The legal issue needs no further site-specific facts, and the statutory preenforcement channel does not require a sanction, approved plan or existing violation.
+
+**Limits and questions not reached:** The earlier proposal remained preliminary. Tentative guidance and unresolved future choices do not receive review under this rule. The authorized reviewability and implementation questions encompass their necessary subsidiary issue under Rule 14.1(a); that question-scope rule does not independently confer section 307 jurisdiction.
+
+**Independent alternative holding:** A court reviewing the concededly final ozone standard under section 307(b) may decide the implementation relationship actually placed in issue by industry's claim that Subpart 2 displaced the general implementation regime and therefore barred revision. That necessary statutory premise supplies an independently sufficient review route; it does not bring every future plan or implementation dispute into final-standard review.
+
+**Proposition-level authority for alternative holding:** Kennedy, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer adopt this independently sufficient route. Stone-Zsela supports the separate finality route without joining this ground.
+
+**Limits and questions not reached:** The alternative reaches only the implementation premise necessary to decide the actual challenge to the final standard, not every future plan or hypothetical choice. No plain-error enlargement is invoked.
+
+**Operative remedy or transition:** Implementation review in No. 99-1257 is sustained on both independent routes. The governing section 307(b) qualifications are preserved in the Environmental Law entry for this case.
+
+**Treatment of earlier authority:**
+
+- Bennett v. Spear: applies completed decisionmaking and legal consequences to the binding implementation-framework choice; no universal sanction prerequisite is added.
+- Ohio Forestry Association v. Sierra Club: distinguishes the deferred, fact-dependent logging-plan challenge; its limited ripeness holding does not bar this completed legal determination.
+
+
+### Interpretation of payroll-tax regulations
+
+#### United States v. Cleveland Indians Baseball Co., 532 U.S. 200
+
+For the application of Auer to Treasury's established interpretation of the separate employer-tax rate and annual-base regulations, see Federal Taxation, United States v. Cleveland Indians Baseball Co., No. 00-203, decided April 17, 2001. The seven-Justice ground rests on the lawful regulatory construction, not independent statutory compulsion or categorical binding force for revenue rulings.
+
+### Reviewability of binding agency guidance
+
+#### Appalachian Power Co. v. EPA
+
+**Docket or dockets:** D.C. Circuit Nos. 98-1512, 98-1536, 98-1537, 98-1538, 98-1540 and 98-1542; judgment below, 208 F.3d 1015.
+**Decided:** May 29, 2001.
+
+##### Whether EPA's settled national monitoring directive is presently reviewable
+
+**Holding:** EPA's completed 1998 Periodic Monitoring Guidance is final agency action reviewable under Clean Air Act section 307(b) because its implementation through the statutory permit-objection mechanism has present legal consequences: an objection prevents permit issuance. A disclaimer does not negate those consequences, and this facial legal challenge is ripe without an individual permit determination; the separate route for permit review does not displace review of the national action.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Expense, influence and expected compliance alone would not establish finality. The holding rests on the actual completed position and statutory permit consequences, not the document's label.
+
+**Treatment of earlier authority:** Bennett v. Spear supplies the separate completion and legal-consequence requirements. Whitman v. American Trucking Associations, Inc. applies those requirements to a settled Clean Air Act implementation framework before an individual sanction or plan decision.
+
+For Appalachian Power Co. v. EPA, decided May 29, 2001, D.C. Circuit Nos. 98-1512, 98-1536, 98-1537, 98-1538, 98-1540 and 98-1542, on the monitoring regulation's limits and whole-guidance vacatur, see Environmental Law - Periodic monitoring and substantive amendment by guidance.
+
+
+
+### Customs classification letters and judicial interpretive authority
+
+#### United States v. Mead Corp., 533 U.S. 218
+
+**Docket or dockets:** No. 99-1434.
+**Decided:** June 18, 2001.
+
+##### This ruling mechanism does not exercise authority to bind the reviewing court
+
+**Holding:** Controlling Chevron treatment requires congressional conferral, expressly or through the statutory scheme, of authority to make interpretations carrying the force of law and an interpretation issued in exercise of that authority. This transaction-specific, revisable Customs classification letter does not satisfy that requirement; general administrative responsibility, expertise and official institutional endorsement do not themselves confer controlling interpretive force on the mechanism.
+
+**Proposition-level authority:** Parts I and II of Kennedy's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg and Breyer, supply eight direct votes. Scalia does not join; Stone-Zsela's disagreement with the open remand does not qualify his join to these interpretive rules.
+
+**Material application:** The revisable, transaction-specific letters issue from many offices and do not govern unrelated importers as regulations do. Their place in protest and judicial review shows administration rather than delegated interpretive lawmaking. The Solicitor General's representation, cosigned by Treasury's General Counsel, establishes Customs' official position but does not establish congressional delegation to this mechanism.
+
+**Limits and questions not reached:** Formal rulemaking and adjudication are evidence of delegation, not exclusive prerequisites. A label or independent judicial factfinding does not alone defeat lawful deference. Later ruling-change procedures do not retroactively govern the 1993 action. Other statutory mechanisms and interpretation of an agency's own regulations remain outside the grant.
+
+**Treatment of earlier authority:**
+
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.: retained for reasonable choices within actual congressionally delegated interpretive authority; its threshold is applied to this Customs mechanism.
+- United States v. Haggar Apparel Co.: its actual-delegation and statutory-boundary requirements are applied; its reserved informal-letter issue is resolved for this mechanism, while its regulation and independent-factfinding holdings remain intact.
+- Christensen v. Harris County: its distinction between controlling authority and persuasive reasoning is extended to this classification letter without excluding every informal agency interpretation.
+- Appalachian Power Co. v. EPA: its operational-legal-consequence reviewability holding and prohibition on interpretive amendment remain distinct; reviewability does not itself establish authority to bind a court's statutory interpretation.
+
+##### Lack of controlling force does not eliminate persuasive consideration
+
+**Holding:** A court independently construing the tariff must consider this ruling letter's reasons according to their actual thoroughness, expertise, logic, consistency, commercial understanding and other persuasive force under Skidmore. No fixed weight or result follows; the Federal Circuit erred by excluding that consideration merely because the letter lacked controlling force.
+
+**Proposition-level authority:** Parts I and II of Kennedy's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg and Breyer, supply eight direct votes. Scalia does not join; Stone-Zsela's disagreement with the open remand does not qualify his join to these interpretive rules.
+
+**Material application:** Customs' dictionary, commercial-usage and ring-binding reasons must be evaluated. Changed treatment may weaken consistency without eliminating all persuasive force; expertise and official endorsement likewise establish neither persuasion nor the answer.
+
+**Limits and questions not reached:** Skidmore consideration is independent judgment, not a lesser mandatory deference or fixed weight. No choice between bound diaries and the residual duty-free category is made.
+
+**Treatment of earlier authority:**
+
+- Christensen v. Harris County: its distinction between controlling authority and persuasive reasoning is extended to this classification letter without excluding every informal agency interpretation.
+- Skidmore v. Swift & Co.: applied as an independent persuasive inquiry, with no predetermined weight or mandatory classification outcome.
+
+##### The judgment returns classification under the corrected rules
+
+**Holding:** The Federal Circuit judgment is vacated and the case remanded for independent classification of the imported planners with consideration of the ruling letter's reasons according to their actual persuasive force under Skidmore. The remand establishes neither the bound-diary classification nor the residual duty-free classification, and it directs no particular assessment, refund amount, new agency proceeding or rulemaking.
+
+**Proposition-level authority:** Part III has seven direct supporters: Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, including Kennedy. Stone-Zsela and Scalia oppose the open classification remand and would sustain the challenged classification on different grounds.
+
+**Limits and questions not reached:** Neither definitive classification commands a majority. The return rests on exclusion of permissible agency reasoning, not a missing product fact, a general right to first lower-court interpretation or a need for agency action. The distinct noncontrolling textual and deference grounds for sustaining the category do not combine into a Court construction.
+
+**Operative remedy or transition:** The Federal Circuit must independently classify the planners while considering the actual persuasive force of Customs' reasons. Any assessment or refund depends on that classification and entry calculations; no amount, new hearing, signature search or future rulemaking is required.

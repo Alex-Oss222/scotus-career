@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Federal Indian Law
 
@@ -589,6 +589,8 @@ For the other questions and complete operative scope in El Paso Natural Gas Co. 
 
 **Proposition-level authority:** Part IV of Stevens's Opinion of the Court, unanimous on both independent settlement approvals.
 
+**Current-force modification:** The supplemental decree of October 10, 2000 gives these approvals operative decree provisions, including the amended aggregate entitlements, California present-perfected-right entries and confined boundary-proviso exception. The approved releases and reservations remain intact; the decree adds no Fort Yuma award and adjudicates none of the reserved title or jurisdictional claims. The original settlement-approval holding remains controlling.
+
 **Material application:** **Fort Mojave terms:** The agreement specifies the reservation boundary near the Hay and Wood Reserve. It permits the lesser of an additional 3,022 acre-feet or enough water for 468 acres. The United States and Tribe may make no further reserved Colorado River water claims for lands within the Hay and Wood Reserve. Competing claims to title and jurisdiction over the bed of the last natural course of the Colorado River within that boundary remain reserved, as do private land claims, title and jurisdiction. Approval does not leave the specified reservation boundary wholly undetermined, but it does not decide those reserved riverbed and private rights.
 
 **Colorado River Reservation terms:** The agreement permits the lesser of an additional 2,100 acre-feet or enough water to irrigate 315 acres. The United States and Tribes may make no further reserved Colorado River water claims for reservation lands in California. The disputed boundary remains unadjudicated in this proceeding, including the competing ambulatory-west-bank and fixed-line theories; competing riverbed-title and jurisdiction claims remain reserved. The agreement requires both the Master's and Court's approval; the Court supplies its approval here on the Master's recommended agreement.
@@ -596,3 +598,151 @@ For the other questions and complete operative scope in El Paso Natural Gas Co. 
 **Limits and questions not reached:** No new release, additional water number, private-title adjudication, universal settlement framework or present final Fort Yuma decree follows. The Master shall continue the unresolved Fort Yuma proceedings and provide appropriate implementing decree provisions for the approved agreements, subject to the Court's further action. No objection deadline or final supplemental-decree text is entered by this decision.
 
 For the separate Arizona I forfeiture, Docket 320 preclusion holdings and Fort Yuma return, see Arizona v. California, No. 8, Original, June 19, 2000, under Federal Courts, preclusion in continuing original actions.
+
+**Later-authority backlinks:** Arizona v. California, No. 8, Original, October 10, 2000, conforming implementation and preservation of decree condition (5); see Federal Indian Law.
+
+### Reserved water rights and implementing decrees
+
+#### Arizona v. California, 531 U.S. 1
+
+**Docket or dockets:** No. 8, Original.
+**Decided:** October 10, 2000.
+
+##### Implementation of the approved Fort Mojave and Colorado River Reservation agreements
+
+**Holding:** The implementing decree must conform to the quantities, releases, and limits approved June 19, 2000, while preserving the reserved claims. Clauses A-G satisfy that requirement and amend the existing decrees without creating a new allocation rule or adjudicating the reserved rights.
+
+**Proposition-level authority:** The Court's unsigned supplemental decree, acting under retained original jurisdiction. The instrument publishes no numerical tally or individual joins.
+
+**Material application:** Article II(D)(4) now limits the Colorado River Reservation to the lesser of 719,248 acre-feet of annual mainstream diversions or the water required for irrigation of 107,903 acres and related uses. Its priority dates remain March 3, 1865, November 22, 1873, November 16, 1874 (except as later modified), May 15, 1876, and November 22, 1915, for the corresponding reserved lands. Article II(D)(5) limits Fort Mojave to the lesser of 132,789 acre-feet or the water for 20,544 acres and related uses, with September 19, 1890 and February 2, 1911 priorities for the corresponding lands. The separate California present-perfected-right entries remain distinct: Colorado River, 10,745 acre-feet/1,612 acres with November 22, 1873 priority; 40,241/6,037 with November 16, 1874 priority; and 5,860/879 with May 15, 1876 priority. Fort Mojave's California entry is 16,720 acre-feet/2,587 acres, with September 18, 1890 priority. The different September dates are inherited and preserved; their source or resolution is not adjudicated.
+
+**Limits and questions not reached:** Fort Mojave's approved increment remains the lesser of 3,022 acre-feet or water for 468 acres; the agreement fixes the specified boundary near the Hay and Wood Reserve and bars further reserved Colorado River water claims for those lands by the United States and Tribe. Claims to title and jurisdiction over the bed of the river's last natural course within that boundary, and private land claims, title, and jurisdiction, remain reserved. The Colorado River Reservation's increment remains the lesser of 2,100 acre-feet or water for 315 acres; the United States and Tribes may bring no further reserved Colorado River water claims for California reservation lands. Its disputed boundary, including ambulatory-west-bank and fixed-line theories, and competing riverbed-title and jurisdiction claims remain unadjudicated. Lack of objections enlarges no consent. Fort Yuma receives no additional award; title, cession, boundary, irrigable-acreage, and water-quantity predicates still require adjudication before additional water can be awarded.
+
+**Operative remedy or transition:** The supplemental decree takes effect October 10, 2000. Unamended portions of the 1964, 1979, and 1984 decrees remain operative. The Court retains jurisdiction to effectuate and supplement the decree; no new objection deadline or final Fort Yuma decree is entered.
+
+**Treatment of earlier authority:** Arizona v. California, June 19, 2000, 530 U.S. 392, is implemented with its approvals, releases, reservations, and separate Fort Yuma holdings intact. The March 9, 1964 decree, 376 U.S. 340, is amended only in the specified general-entitlement provisions; the January 9, 1979 decree, 439 U.S. 419, only in the identified proviso and California entries; and the April 16, 1984 decree, 466 U.S. 144, only to incorporate the specified Fort Mojave adjustment. Nebraska v. Wyoming, April 20, 1993, supplies the distinction between implementing established entitlements and seeking a new allocation requiring an injury showing.
+
+##### Scope of the exception to the 1979 boundary-adjustment proviso
+
+**Holding:** Clause C removes only the western California boundaries of the Fort Mojave and Colorado River reservations from the concluding boundary-adjustment proviso in the first sentence of introductory condition (5). It neither enlarges the settlement releases nor displaces that condition's remaining shortage, acreage-calculation, use, or priority rules.
+
+**Proposition-level authority:** Clauses C and F of the unsigned supplemental decree; no individual joins or tally are published.
+
+**Material application:** If the Secretary determines under Article II(B)(3) that mainstream water cannot satisfy present perfected rights, the specified rights of the Chemehuevi, Cocopah, Fort Yuma, Colorado River, and Fort Mojave reservations must first be satisfied in full, before other nonmiscellaneous present perfected rights. Those other rights retain priority-date order across state lines; miscellaneous rights 7-21 and 29-80 retain their unaffected priority order. Outside clause C's exception, boundary adjustments continue to use the Master's December 5, 1960 methods for net practicably irrigable acreage and diversion factors of 6.37 acre-feet per acre for Cocopah, 6.67 for Colorado River, 5.97 for Chemehuevi, 6.46 for Fort Mojave, and 6.67 for Fort Yuma. Irrigation measures quantity but does not require agricultural use. Other uses cannot exceed the consumptive use attributable to the specified irrigation diversions and equivalent supplements for that acreage and related uses. No priority is established for unspecified Indian claims.
+
+
+### Contractual waiver for arbitral confirmation
+
+#### C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma, 532 U.S. 411
+
+**Docket or dockets:** No. 00-292.
+**Decided:** April 30, 2001.
+
+##### Whether the integrated arbitration and judicial-enforcement undertaking clearly waives tribal immunity
+
+**Holding:** This agreement clearly consents to the contemplated state-court confirmation proceeding because it combines binding arbitration, express judicial entry of the award, incorporated enforcement rules and selection of a regime authorizing entry by a competent state court. No prescribed sovereign-immunity formula is necessary, but commercial activity, generic choice of law or arbitration alone does not supply this waiver.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The waiver is confined to the contemplated confirmation action. It creates no otherwise absent federal jurisdiction, execution authority against particular assets or consent to unrelated claims. Signatory authority, former 25 U.S.C. section 81, parity with state-waiver doctrine and delegation of arbitrability are not decided. Refusal to participate in arbitration establishes neither default nor correctness of the award.
+
+**Operative remedy or transition:** Reverse and remand. Immunity does not bar confirmation, but preserved award defenses and ordinary confirmation prerequisites remain; the Court confirms no particular award item and expands no recovery.
+
+**Treatment of earlier authority:** Kiowa's immunity for commercial and governmental contracts on or off reservation land remains, subject to clear waiver. Santa Clara Pueblo requires unequivocal relinquishment, not mandatory vocabulary; Potawatomi keeps substantive obligation separate from amenability to suit. First Options requires actual assent and instrument-specific scope, without enlarging its delegation holding.
+
+### Tribal taxation of nonmember fee-land transactions
+
+#### Atkinson Trading Co. v. Shirley, 532 U.S. 645
+
+**Docket or dockets:** No. 00-454.
+**Decided:** May 29, 2001.
+
+##### Whether either Montana exception authorizes the guest occupancy tax on these fee-land transactions
+
+**Holding:** Montana governs a tribal occupancy tax on nonmember guest transactions at a nonmember hotel on non-Indian fee land. Without superior federal authorization, the Tribe must show a qualifying consensual relationship meaningfully connected to the levy or conduct threatening or directly affecting tribal political integrity, economic security, health or welfare; neither exception is established here.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court; Kennedy, Souter and Thomas also join it fully. Their additional all-land starting-rule view has no controlling majority.
+
+**Material application:** Commercial dealings, contracts, leases or similar arrangements must connect meaningfully to the tax. General police, fire and medical services do not supply universal consent; a federal trader license is not a tribal tax agreement. The operator's unrelated business contacts fail even if considered. Ordinary revenue needs, services and business presence alone do not establish the second exception's qualifying tribal effect.
+
+**Limits and questions not reached:** The Court requires neither express tax consent nor privity universally and does not decide whether sufficient operator contacts could ever support a tax imposed on guests. A properly grounded particular-service fee is not adjudicated. No quantified tribal-effect threshold or reduction of every limb of the exception to a single formula is adopted. Reservation boundaries, taxes on members, qualifying tribal leases or transactions, and superior federal authority remain intact; no controlling all-land Montana rule is announced.
+
+**Treatment of earlier authority:** Montana v. United States supplies the fee-land framework and distinct exceptions. Merrion v. Jicarilla Apache Tribe preserves sovereign taxation rather than merely ownership rights, but its tribal-land lease setting supplies no unlimited fee-land tax power. Strate v. A-1 Contractors requires a governing source, meaningful nexus and separate tribal-effect analysis; title does not establish disestablishment or replace those inquiries.
+
+##### Whether the absence of taxing authority itself establishes unrestricted injunctive or monetary relief
+
+**Holding:** Relief implementing the no-authority ruling must satisfy the actual claims, lawful parties, immunity and ordinary equitable requirements. Reversal establishes neither an automatic refund cause of action nor every predicate for an injunction, and commerce, location or receipt of services establishes no general waiver of tribal immunity.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Operative remedy or transition:** The Tenth Circuit is reversed and the case remanded for conforming lawful relief; no automatic refund, unrestricted injunction or new tax arrangement is ordered.
+
+**Treatment of earlier authority:** Strate keeps sovereign governing power distinct from amenability to suit. C & L Enterprises, Inc. v. Citizen Band Potawatomi Indian Tribe of Oklahoma enforces its particular integrated contractual waiver; no comparable undertaking is present here.
+
+
+
+### Prestatehood retention of reservation submerged lands
+
+#### Idaho v. United States, 533 U.S. 262
+
+**Docket or dockets:** No. 00-189.
+**Decided:** June 18, 2001.
+
+##### Whether Congress retained the unceded Coeur d'Alene submerged estate against Idaho statehood
+
+**Holding:** Federal retention against future state ownership requires both clear inclusion of the submerged lands and clear intent to defeat future state title for an appropriate public purpose. With inclusion and congressional knowledge conceded here, Congress's enacted prestatehood treatment of the defined Coeur d'Alene Reservation as an estate protected pending consensual, compensated acquisition clearly retained its unceded beds and banks; Idaho did not acquire the disputed estate at admission on July 3, 1890.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six direct votes for retention and the bounded decree.
+
+**Material application:** The 1886 cession authority concerned land outside the existing reservation and required ratification. The 1888 railroad enactment preserved tribal tenure and conditioned rights on filed and approved survey plats, fixed and paid compensation, and tribal consent. The 1889 authority allowed consensual purchase only of nonagricultural portions chiefly valuable for minerals and timber, on just and equitable terms and subject to ratification. Together these enacted protections retained the identified unceded remainder. The admission disclaimer corroborates that result; neither unratified negotiations, water uses nor executive geography independently establishes it. The Senate's June 1890 vote was not law, and the 1891 ratification confirms rather than retroactively creates the retention.
+
+**Limits and questions not reached:** No title is adjudicated to the ceded northern lake, other aboriginal territory or the excluded Heyburn estate. The unadjudicated aboriginal-title theory and proposed ratification relation-back theory supply no alternative holding. Title does not establish fishing, taxing, environmental or nonmember regulatory jurisdiction; no general reservation exception or retroactive divestiture is recognized.
+
+**Operative remedy or transition:** The Ninth Circuit's affirmance of the August 14, 1998 decree stands. United States trustee title, the Tribe's beneficial interest and exclusive use, occupancy and quiet enjoyment, the injunction against Idaho's adverse title claim, and denial of its counterclaim apply only within the boundaries described by the March 3, 1891 and August 15, 1894 Acts. Waters and submerged lands claimed by Idaho within Heyburn State Park are expressly excluded. The Tribe's existing costs award and the United States' and Idaho's agreement to bear their own costs remain unchanged. No new boundary, conveyance, damages or general regulatory decree issues.
+
+**Treatment of earlier authority:** United States v. Alaska retains the independent clear-inclusion and clear-title-defeat requirements; its operative interim segregation supports examination of actual legal effect. Shively v. Bowlby supplies territorial retention power for a public purpose. Montana v. United States and Utah Division of State Lands v. United States preserve the state-title presumption and separate timely-intent requirement, without requiring fixed words. Idaho v. Coeur d'Alene Tribe decided immunity rather than this ownership or United States suit. Atkinson Trading Co. v. Shirley concerns nonmember fee-land taxation and supplies no regulatory consequence from title.
+
+### Tribal tort authority over state enforcement searches
+
+#### Nevada v. Hicks
+
+**Docket or dockets:** No. 99-1994.
+**Decided:** June 25, 2001.
+
+##### Whether retained trust land dispenses with the nonmember authority inquiry for these searches
+
+**Holding:** Montana's nonmember framework applies to the claimed civil authority over these state officers' execution of process on Hicks's retained trust allotment for an off-reservation state offense. Land status is material to that inquiry but does not by itself establish adjudicatory authority; the actual source and relationship must be examined.
+
+**Proposition-level authority:** Part I of Scalia's opinion of the Court, unanimous at this case-specific starting point; no unanimous ultimate-authority or immunity conclusion follows.
+
+**Material application:** The first Montana exception concerns a qualifying consensual commercial dealing, contract, lease or other arrangement connected to the authority claimed. The second concerns conduct threatening or directly affecting tribal political integrity, economic security, health or welfare. These are distinct inquiries; land status matters without supplying automatic authority.
+
+**Limits and questions not reached:** The holding does not decide every private nonmember transaction on retained land or establish universal state exclusivity.
+
+**Treatment of earlier authority:** Strate's public-highway setting is distinguished; Montana's source-and-relationship analysis applies here. Bourland preserves its specific displacement and residual authority. Atkinson's fee-land tax holding supplies meaningful-connection discipline without having already decided all retained-land activity.
+
+##### Whether the accepted tribal warrants establish authority over these personal-capacity tort claims
+
+**Holding:** The Tribe lacks civil authority over the personal-capacity tribal tort claims challenging these officers' execution of state process to investigate an off-reservation state offense. Their use of the identified tribal warrants does not establish a qualifying first-exception regulatory relationship for these claims, and the asserted injuries do not establish the qualifying tribal threat or direct effect under the second exception; the approval of tribal tort jurisdiction must be reversed.
+
+**Proposition-level authority:** Parts II and IV of Scalia's opinion of the Court, joined by Kennedy, Souter, Thomas and Ginsburg; five direct rationale votes. Stevens, O'Connor and Breyer would require a different Montana and early-defense remand, while Stone-Zsela would sustain the connected tort jurisdiction. Their positions do not expand this coalition.
+
+**Material application:** The officers actually sought and used tribal process; the first state warrant required tribal approval. The first tribal approval limited the search to the exterior and vehicles, while the second approval imposed no modification. This sovereign cooperation does not establish the qualifying regulatory undertaking, and alleged individual injury does not satisfy the separate tribal-threat exception. No universal express-consent-to-suit formula is imposed.
+
+**Limits and questions not reached:** The rule concerns execution of state process for an off-reservation offense. Express cooperative contracts, superior federal delegation and unrelated private conduct by officers remain outside it. The Court does not determine search legality, warrant excess, damage, causation, personal immunity or the Director's conduct; a motion to drop him is not a completed dismissal.
+
+**Treatment of earlier authority:** Montana's two exceptions remain independent. Strate's authority-source and meaningful-nexus requirements apply without equating factual warrant connection with a qualifying regulatory relationship. Personal-capacity pleading under Hafer avoids conflation with sovereign immunity but does not create a competent tribunal.
+
+##### Whether further tribal defense litigation is required after final rejection of authority
+
+**Holding:** The Ninth Circuit's approval of tribal tort jurisdiction and its direction for further tribal exhaustion of the officers' immunity objections are reversed at the scope of Part II. On remand the federal courts must give the no-authority conclusions their proper declaratory and prospective effect, subject to the actual claims, lawful parties, immunity limits and ordinary equitable requirements; this judgment does not itself issue an injunction or award personal immunity.
+
+**Proposition-level authority:** Parts II and IV of Scalia's opinion of the Court, joined by Kennedy, Souter, Thomas and Ginsburg; five direct rationale votes. Stevens, O'Connor and Breyer would require a different Montana and early-defense remand, while Stone-Zsela would sustain the connected tort jurisdiction. Their positions do not expand this coalition.
+
+**Limits and questions not reached:** Eight Justices reject unconditional further tribal exhaustion, but the three supporting an early-defense remand do not join the five's final no-authority rationale. No general merits-first immunity sequence, replacement immunity rule or immunity award follows.
+
+**Operative remedy or transition:** Federal declaratory or prospective relief must implement the settled authority conclusions with proper parties and applicable immunity and equitable predicates. Neither a further unresolved Montana inquiry nor defense litigation in the unauthorized forum is required. There is no automatic injunction, damages, State-immunity waiver, guaranteed alternate forum, tolling or new filing period.
+
+**Treatment of earlier authority:** National Farmers and Iowa Mutual retain ordinary initial tribal examination where authority may exist, but cannot confer absent authority. Strate supports ending litigation in the unauthorized forum. Neztsosie's source-specific federal priority does not create general removal or automatic relief. Saucier leaves Harlow and Anderson's objective defense and conduct-date inquiry intact; later forum decisions do not establish notice for the 1990-1991 searches.
+
+For the section 1983 forum question in Nevada v. Hicks, No. 99-1994, decided June 25, 2001, see Federal Courts — Federal civil-rights claims in tribal tribunals.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Federal Taxation
 
@@ -1091,3 +1091,113 @@ For the independent interest-refund, abatement-review and prospective-remedy thr
 **Decided:** May 30, 2000.
 
 For whether bankruptcy changes the ultimate persuasion burden assigned by the substantive law creating a tax claim, see the primary entry in Bankruptcy, under State tax claims and the burden of persuasion.
+
+### S corporation discharge income and shareholder basis
+
+#### Gitlitz v. Commissioner, 531 U.S. 206
+
+**Docket or dockets:** No. 99-1295
+**Decided:** January 9, 2001.
+
+##### Whether excluded debt-discharge income passes through and increases shareholder basis
+
+**Holding:** Under the Code version governing the 1991 returns, an insolvent S corporation's debt-discharge amount excluded from gross income by section 108(a) remains an item of income under section 1366(a)(1)(A), passes through in each shareholder's pro rata share and increases stock basis under section 1367(a)(1)(A). Losses and deductions are then limited by section 1366(d)(1), using that adjusted stock basis and the shareholder's qualifying debt basis; exclusion remains capped by the corporation's insolvency immediately before discharge and supplies no free-standing deduction entitlement.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg; eight Justices.
+
+**Limits and questions not reached:** The rule addresses the S corporation provisions governing the 1991 returns. Corporate-level exclusion and reduction remain operative. The statutory insolvency ceiling, ordinary stock and debt basis limits, and independent deduction requirements apply; no general economic-outlay prerequisite or universal rule for excluded receipts is created.
+
+##### Whether current-year shareholder tax is determined before corporate attribute reduction
+
+**Holding:** Section 108(b)(4)(A) requires the corporate tax-attribute reductions described in section 108(b)(2) after determination of the tax for the discharge year. For these S corporation returns, that determination includes the pass-through income, basis increase and otherwise allowable shareholder losses; only losses still disallowed under section 1366(d)(1) are treated by section 108(d)(7)(B) as a corporate net operating loss for this attribute-reduction calculation.
+
+**Proposition-level authority:** The same eight-Justice opinion: Kennedy, Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg.
+
+**Material application:** The shareholder calculation identifies the losses still disallowed after the permitted basis increase. Those remaining losses, rather than losses already allowable under adjusted basis, enter the corporate net-operating-loss attribute reduction.
+
+**Operative remedy or transition:** Reverse and remand for lawful deficiency and loss recomputation followed by the statutory corporate reduction. The claimed per-shareholder losses are not automatic awards. No final tax figure, new evidentiary hearing or reopening of settled tax facts is ordered; later statutory versions and different entities remain outside the decision.
+
+**Treatment of earlier authority:**
+
+- Bufferd v. Commissioner: applies the distinction between S corporation and shareholder statutory tax functions; its return-and-limitations holding is not converted into an answer it had already given to debt discharge.
+- United States v. Hill: applies its respect for distinct statutory tax accounts and retains its rejection of a general ban on multiple tax benefits; its mineral-basis rule is unchanged.
+- Atlantic Mutual Insurance Co. v. Commissioner: preserves deference within actual statutory interpretive room while distinguishing a construction that would contradict the express sequence; no general revenue-protection exception is adopted.
+- Commissioner v. Estate of Hubert: preserves the need to give operative statutory and regulatory qualifications independent work; it supplies no authority to replace this Code sequence with a categorical economic-outlay condition.
+
+### State taxation of federal cooperative banks
+
+#### Director of Revenue of Missouri v. CoBank ACB, 531 U.S. 316
+
+**Docket or dockets:** No. 99-1792
+**Decided:** February 20, 2001.
+
+##### Whether the 1985 amendment created immunity for cooperative-bank operating income
+
+**Holding:** Banks for cooperatives remain subject to otherwise applicable state income taxation under the Farm Credit Act's entity-specific arrangement after the 1985 removal of the federal-stock-linked exemption. The amendment deleted both the broad institutional exemption and its ownership condition; it did not create a permanent immunity for the bank's operating income, and CoBank cannot obtain the disputed 1991–1994 refunds on that federal-exemption theory.
+
+**Proposition-level authority:** Breyer’s unanimous opinion of the Court.
+
+**Limits and questions not reached:** Section 2134 retains its exemption for issued notes, debentures and other obligations and their principal and interest, excepting surtaxes, estate, inheritance and gift taxes and subjecting holder interest to federal income tax. Those obligation protections do not immunize operating income. The former federal-stock-linked institutional exemption and ownership condition were both deleted; its property-tax and holder-interest qualifications do not become a surviving unconditional institutional exemption. Sections 2023 and 2098 separately protect the specified Farm Credit Banks and land bank associations, with their own comparable-value real-estate and federal holder-income-tax exceptions. No broad constitutional rule about every federal instrumentality, statutory silence or deletion follows.
+
+**Operative remedy or transition:** Reverse Missouri’s federal-exemption and refund judgment and remand for independent state tax and refund requirements. No amount of liability or refund is fixed, and surviving obligation-holder exemptions remain intact.
+
+**Treatment of earlier authority:**
+
+- Arkansas v. Farm Credit Services of Central Arkansas: preserves its federal-forum holding and express reservation of substantive tax privileges; distinguishes this state-court review of the merits. Instrumentality status, substantive exemption and procedural privilege remain separate.
+- First Agricultural National Bank of Berkshire County v. State Tax Commission, 392 U.S. 339: applies its respect for the particular congressional tax allocation; does not extend one category's immunity to every federal bank or decide the broader constitutional question it left open.
+
+
+### Payment-year employer taxation of salary backpay
+
+#### United States v. Cleveland Indians Baseball Co., 532 U.S. 200
+
+**Docket or dockets:** No. 00-203.
+**Decided:** April 17, 2001.
+
+##### Payment-year employer taxation of salary backpay under Treasury's regulations
+
+**Holding:** Treasury's established, fair and considered interpretation of the separate rate and annual-base regulations puts these taxable salary awards in the employer's payment-year FICA and FUTA calculations. That interpretation is consistent with the regulations and statutes and controls under Auer; the Court does not hold that wage status alone determines timing or that statutory text independently and unambiguously compels the result.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer: seven Justices. Stone-Zsela and Scalia concur in the judgment on distinct grounds, neither joining this rationale. The same seven directly adopt the component applications below.
+
+**Limits and questions not reached:** Actual or constructive payment matters; an earlier due date is not itself constructive payment. No earlier payment or nonqualified deferred-compensation plan is established; the latter's separate statutes use the later of service performance and lapse of substantial forfeiture risk. The ruling concerns stipulated non-interest salary awards, not minor-cash deemed payments, other unpresented categories or employee benefit accounts. It does not decide the independent binding force of revenue rulings generally.
+
+**Treatment of earlier authority:** Auer governs the lawful considered interpretation of the agency's own regulations, and Thomas Jefferson University requires the agency's actual ground. Christensen preserves the distinction from advisory statutory views and forbids amendment of clear regulatory text by interpretation. Nierotko's wage classification and earlier-period benefit allocation survive in their benefit setting and do not control later employer-tax timing. Gitlitz's express classification and sequencing commands remain intact; stipulated wage status does not settle this different attribution question.
+
+##### Separate 1994 rates and annual wage bases
+
+**Holding:** Each payment-year rate and annual-base provision applies independently to these 1994 payments; an unchanged rate or dollar ceiling does not merge different years' wage accounts. Social Security uses 6.2 percent and a $60,600 base; Medicare uses 1.45 percent without the former ceiling; FUTA uses 6.2 percent and a $7,000 per-recipient base in this employer's annual account, with the statute controlling over the obsolete $3,000 regulatory figure.
+
+**Proposition-level authority:** The same seven-Justice opinion of the Court (Thomas).
+
+**Material application:** The earlier 5.7 percent Social Security rates, $42,000 and $43,800 bases and 6.0 percent FUTA rate do not govern. Medicare's unchanged percentage and FUTA's unchanged ceiling do not select an earlier annual account. The prior wage maxima and aggregate tax figures do not establish the exceptional recipient's final account.
+
+**Operative remedy or transition:** Reverse and remand the refund judgment insofar as it depends on attribution to 1986 or 1987. Implement the stated 1994 rules on settled payment facts; no final dollar award, new hearing, employee election or benefit recalculation is directed.
+
+
+
+### Consolidated product liability loss and carryback calculation
+
+#### United Dominion Industries, Inc. v. United States, 532 U.S. 822
+
+**Docket or dockets:** No. 00-157.
+**Decided:** June 4, 2001.
+
+##### The consolidated-return scheme supplies the initial product liability loss
+
+**Holding:** Under the Code and consolidated-return regulations governing the 1983–1986 returns, a group's product liability loss is initially the lesser of consolidated net operating loss and aggregate eligible product liability expenses. Positive separate taxable income does not independently exclude a member's eligible expenses, and the adjusted separate-loss measure for allocating consolidated losses to separate-return years supplies no initial member ceiling; the resulting product liability loss qualifies for the special ten-year carryback and cannot exceed the group's consolidated net operating loss.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer, directly adopts the complete computation and refund rule. Stevens dissents; Thomas's separate tax canon does not qualify his full join or become the Court's rule.
+
+**Material application:** Separate taxable income omits items relevant to net operating loss. The adjusted separate-loss definition in section 1.1502-79(a)(3) allocates group loss to separate-return years; it does not impose an initial member ceiling where the relevant carrybacks involve group-membership years. Because consolidated loss exceeds the eligible expenses, the expenses enter the group comparison notwithstanding positive member taxable income. The accounting dispute concerns carryback timing, not a second deduction.
+
+**Limits and questions not reached:** The rule governs the 1983–1986 returns. Later regulations and other liability-loss categories are not decided. Section 269 remains available on its own anti-abuse predicates, and Treasury may exercise lawful section 1502 rulemaking subject to temporal limits; predicted avoidance supplies neither an unpromulgated ceiling nor a finding of abuse.
+
+**Operative remedy or transition:** The Fourth Circuit is reversed. Refund accounting must use the group method without reopening agreed eligible expense figures; no exact refund is adjudicated.
+
+**Treatment of earlier authority:**
+
+- United States v. Haggar Apparel Co.: preserves enforceable delegated rules and their statutory boundaries; power to promulgate a different rule does not supply a limitation absent from this one.
+- Christensen v. Harris County: preserves the difference between interpretation and amendment of operative regulatory terms, without adopting a general bar to administrative interpretation.
+- Gitlitz v. Commissioner: preserves its express income classification and sequencing holdings and rejects a policy override of those terms; it does not decide this separate taxpayer-account question by analogy alone.
+- United States v. Cleveland Indians Baseball Co.: distinguishes the established permissible wage-allocation interpretation there from the proposed initial member ceiling here; its deference holding remains effective within its own predicates.

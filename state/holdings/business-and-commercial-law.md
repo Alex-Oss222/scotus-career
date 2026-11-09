@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1999
-**Processed through:** June 29, 2000, after all 104 completed OT1999 Court events and five admitted source events.
-**Edition:** November 3, 2026
+**Last completed October Term:** 2000
+**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
+**Edition:** November 9, 2026
 
 ## Business and Commercial Law
 
@@ -1996,3 +1996,166 @@ The 1999 unregistered-trade-dress nonfunctionality provision supplies no distinc
 - Roehm v. Horst supplies anticipatory-repudiation principles and the distinction between urging performance and surrendering a restoration election. It is applied to the essential future process, not every prospective administrative delay.
 - United States v. Behan supplies the distinction between recovery of value after prevented performance and proof of anticipated profits; independent obstacles to profitable production do not erase the restitution claim established here.
 - Pence v. Langdon supplies the distinction between preservation of a restoration right and conduct inconsistent with that election; the Court rejects waiver from the documented acts without assuming an unproved acceptance of significant substitute performance.
+
+### Effective financial access to arbitration
+
+#### Green Tree Financial Corp.-Alabama v. Randolph, 531 U.S. 79
+
+**Docket or dockets:** No. 99-1235.
+**Decided:** December 11, 2000.
+
+##### Cost silence, effective statutory vindication, and focused proceedings
+
+**Holding:** An agreement's silence about arbitral fees proves neither unenforceability nor affordability; genuinely prohibitive mandatory costs can obstruct effective enforcement of federal statutory rights. This undeveloped record requires vacatur of categorical cost-based invalidity and a focused opportunity to establish the likely forum, required charges, binding allocation, and the claimant's effective financial access before final resolution of the objection.
+
+**Proposition-level authority:** Part II-A of Stevens's Opinion of the Court is unanimous on cost silence and genuine statutory-access barriers. Part II-B's required focused proceedings are directly joined by Stevens, Stone-Zsela, Souter, Ginsburg, and Breyer; five Justices.
+
+**Material application:** Neither the contract nor the record identified likely fees or Randolph's share. Her assertion of inability to pay and silence in the contract establish no actual obstacle, but the missing information does not establish access. She must substantiate a real barrier in the ordered proceedings. A legally binding allocation or undertaking can remove it; a nonbinding appellate assurance cannot amend the agreement.
+
+**Operative remedy or transition:** The cost ruling is vacated for focused development, 5-4. If an obstacle is unproved or lawfully removed, this cost objection does not prevent arbitration. If it is established, enforcement must be withheld to the necessary extent, subject to a lawful binding solution. Properly presented independent grounds, including the unresolved class-action alternative, remain for adjudication. The judgment orders neither unconditional arbitration nor lender payment, consumer recovery, or class relief.
+
+**Limits and questions not reached:** The inquiry concerns likely mandatory access costs and the ability to pursue these statutory claims, without a universal right to costless adjudication. No earlier denied or exhausted discovery opportunity is found. TILA and ECOA merits, unrelated clauses, and whether the district court should originally have stayed the action remain undecided.
+
+**Treatment of earlier authority:** Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth and Gilmer v. Interstate/Johnson Lane Corp. preserve substantive federal rights in the chosen forum without establishing affordability here. Allied-Bruce Terminix Cos. v. Dobson preserves actual enforceability defenses after coverage. First Options of Chicago, Inc. v. Kaplan preserves the relevant antecedent judicial inquiry within consent and delegation limits, without deciding consent or coverage in this case.
+
+##### Whether a complete general initial-proof allocation controls beyond the remand
+
+**Authority of the judgment:** Five Justices require this focused opportunity, and all nine require a substantiated actual obstacle. No controlling general initial-proof rule governs the trigger, consequence of nonproduction, and unavailable information beyond those propositions; no logical-subset combination supplies one.
+
+**Limits and questions not reached:** Stone-Zsela's separate likelihood rule includes ordinary-procedure disclosure of material information held by the proponent and the present development opportunity. O'Connor, Scalia, Kennedy, and Thomas do not accept those qualifications and would reject this showing without mandatory development. Stevens, Souter, and Ginsburg reject deriving financial-access allocation from categorical statutory-arbitrability burdens but provide no complete replacement; Breyer reserves that broader critique. Similar burden terminology therefore supplies neither five identical operative agreements nor a comprehensive burden-shifting rule.
+
+For the unanimous finality holding, see this case, No. 99-1235, December 11, 2000, under Federal Courts, Appellate finality of arbitration dispositions.
+
+
+### Useful product features and trade-dress protection
+
+#### TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23
+
+**Docket or dockets:** No. 99-1571.
+**Decided:** March 20, 2001.
+
+##### Utility-patent evidence and functionality of the asserted dual-spring trade dress
+
+**Holding:** An expired utility patent provides strong evidence that an identified useful feature is functional. A feature essential to use or purpose, or affecting cost or quality, remains ineligible for trade-dress protection despite acquired source significance or workable alternative designs; a genuinely separate ornamental, incidental or arbitrary appearance requires its own evaluation.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** The patents and undisputed functional evidence establish the dual springs' contribution to stability and wind resistance. Considering the stand's combined appearance identifies no distinct nonfunctional feature; requiring concealment or rearrangement would still restrict the useful configuration.
+
+**Limits and questions not reached:** Patent coverage is not conclusive as to every appearance detail. The Court adopts neither a constitutional prohibition of all trade dress associated with expired patents nor a new aesthetic-functionality test. The temporal reach of the 1999 nonfunctionality-burden amendment and secondary meaning need not be decided.
+
+**Operative remedy or transition:** Reverse and remand to restore judgment for TrafFix on the asserted functional trade dress and implement dependent relief. The resolved claim cannot be reopened merely to compare alternatives. Independent word-mark relief survives; the judgment revives no sham-litigation counterclaim and awards no antitrust recovery.
+
+**Treatment of earlier authority:** Inwood supplies traditional utilitarian functionality. Qualitex's competitive-disadvantage discussion complements that rule and requires no additional competitive-necessity showing once utilitarian functionality is established. Wal-Mart's product-design distinctiveness rule and Two Pesos's protection of otherwise qualifying trade dress do not remove the separate nonfunctionality requirement.
+
+### Employment contracts and the Federal Arbitration Act exclusion
+
+#### Circuit City Stores, Inc. v. Adams, 532 U.S. 105
+
+**Docket or dockets:** No. 99-1379.
+**Decided:** March 21, 2001.
+
+##### Whether FAA section 1 excludes retail and other nontransportation employment contracts
+
+**Holding:** FAA section 1 excludes employment contracts of workers within the commerce reach asserted for the Act, rather than limiting its residual category to transportation workers. Adams's retail employment contract is excluded, so the Act cannot authorize compelled arbitration or an injunction against his state action.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Stevens, Souter, Ginsburg and Breyer: five Justices.
+
+**Limits and questions not reached:** Section 2 continues to govern otherwise covered commercial agreements. The Court does not decide independent state-law enforceability, independent-contractor classification, ordinary contract defenses, jury waiver or discrimination liability. Exclusion does not depend on first proving prohibitive arbitration costs.
+
+**Operative remedy or transition:** Affirm the Ninth Circuit; the federal compulsion and injunction order remains reversed. Independently applicable law and preserved defenses govern the state proceeding.
+
+**Treatment of earlier authority:** Allied-Bruce's actual-commerce and state-court rules survive for covered agreements; the employment exclusion it reserved is resolved here. Gilmer's securities-registration agreement does not decide the employment-contract category. First Options and Casarotto retain assent, delegation and general-defense rules without enlarging statutory coverage. Green Tree's finality, access and cost-development holdings and Eastern Associated Coal's section 301 award review retain their separate settings.
+
+### Securities fraud in an option sale
+
+#### Wharf (Holdings) Ltd. v. United International Holdings, Inc., 532 U.S. 588
+
+**Docket or dockets:** No. 00-347.
+**Decided:** May 21, 2001.
+
+##### Whether an oral option sold with a concealed contemporaneous intent not to honor it constitutes securities deception
+
+**Holding:** Selling an actual option for value while concealing an existing intention never to honor it constitutes deception connected to the sale of that security under section 10(b) and Rule 10b-5. Oral form alone does not exclude the proved option; the private plaintiff must still establish materiality, the required culpability, legally sufficient reliance, causation and recoverable loss.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Material application:** The option acquired for services is the purchased security, even though the contemplated later share transfer never occurred. The option finding and contemporaneous fraudulent intent distinguish the verdict from mere subsequent breach.
+
+**Limits and questions not reached:** The lower court's state-law enforceability determination is not reopened. Treatment of an agreement unenforceable under state law remains undecided, and state enforceability is not made an invariably separate federal element. Negligence, unfairness and nonperformance alone are insufficient. Foreign-transaction limits and the independent state punitive award lie outside review.
+
+**Operative remedy or transition:** The reviewed federal securities judgment is affirmed; the Court orders no share transfer, new trial or damages recalculation and preserves unreviewed state grounds.
+
+**Treatment of earlier authority:** Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz supplies the knowingly false undertaking/breach distinction, without defining options or compelling every transaction. United States v. O'Hagan supplies transaction-connected deception, leaving its source-deception dispute untouched. Blue Chip Stamps v. Manor Drug Stores is satisfied by the option purchase and adds no writing requirement. Santa Fe Industries, Inc. v. Green preserves deception beyond commercial unfairness. Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A. retains its distinct affirmative-assistance action, unnecessary to this primary seller fraud.
+
+
+
+### Collective-work copyright and electronic article databases
+
+#### New York Times Co. v. Tasini
+
+**Docket or dockets:** No. 00-201.
+**Decided:** June 25, 2001.
+
+##### What relationship to the collective work section 201(c) requires
+
+**Holding:** Absent an express transfer supplying different rights, §201(c) permits reproduction and distribution of a contribution as part of the particular collective work, a recognizable revision of that work, or a later collective work in the same series. Source identification alone does not permit separately offering the contribution in a new compendium; the actual presentation must retain the contribution's relationship to the collective work, regardless of medium.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Ginsburg; the same seven directly adopt all three questions and their product-specific applications.
+
+**Material application:** The compiler's selection and arrangement copyright coexists with the contributor's separate copyright. A revision can change format, layout or contents and need not preserve every item or exact typography. Electronic medium and search functionality alone are neutral. But bibliographic attribution supplies history, not present membership in the collective work, and cannot authorize an otherwise detached contribution.
+
+**Limits and questions not reached:** Section 201(d) transferability remains undecided because the uses exceed the substantive privilege even if transferable. Fair use was not asserted; public display is not adjudicated. Actual licenses and genuine electronic revisions remain possible on their own terms.
+
+**Treatment of earlier authority:** Stewart v. Abend preserves distinct ownership of underlying material without deciding this revision privilege. Campbell and Quality King require attention to the specific statutory right and limitation; neither supplies an unasserted fair-use or first-sale reproduction defense.
+
+##### Whether NEXIS, New York Times OnDisc and General Periodicals OnDisc satisfy that relationship
+
+**Holding:** NEXIS and New York Times OnDisc reproduce and distribute the articles as separately retrieved text outside a perceptible revision of their source issues; General Periodicals OnDisc preserves particular page images but likewise separates the article pages from the original issue as a collective whole. None of these proved uses is privileged by §201(c), and the contrary summary-judgment defense fails for each product.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Ginsburg; the same seven directly adopt all three questions and their product-specific applications.
+
+**Material application:** The first two products deliver individual text articles rather than a perceptible revised issue. GPO retains photographs, captions, advertisements and other matter on particular page images, but omits a navigable presentation of the issue as a whole. Its page context receives separate consideration. Unlike continuously reproduced microform, user retrieval of detached articles or possible assembly of issue contents does not establish that the publisher presents the article within a revision. An intact intermediate transfer does not validate different downstream reproductions.
+
+**Limits and questions not reached:** The Court requires neither physical page-turning nor an immutable facsimile. It decides the proved products and uses, not all digital archives, later interfaces or unpresented articles; no library exception, compilation-originality determination or contributory-liability rule is adopted.
+
+**Treatment of earlier authority:** Stewart's separate-ownership principle and Campbell's and Quality King's right-specific approach apply to the demonstrated reproduction and distribution uses; archival usefulness creates no additional statutory privilege.
+
+##### What the affirmed liability judgment requires and leaves for relief
+
+**Holding:** The Second Circuit's judgment rejecting the §201(c) defense and directing judgment for the authors on the challenged uses is affirmed. Damages and equitable relief remain for the lower courts under their applicable statutory and equitable requirements; an appropriate injunction may issue, but neither automatic deletion of all freelance material nor a compulsory license follows from this judgment.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Ginsburg; the same seven directly adopt all three questions and their product-specific applications.
+
+**Limits and questions not reached:** Newsday's contract defense was waived below and Time's was rejected; neither is pressed here or reopened. Whitford's written agreement remains background, without a new construction or a finding that all authors lacked contracts. No license entitlement or right to judgment on every unreviewed issue follows.
+
+**Operative remedy or transition:** The directed author judgment on the challenged uses stands. Lower courts apply the actual damages and equitable standards, including appropriate attention to archival public value, without enlarging the privilege or compelling a license. No fixed damages, willfulness determination, universal injunction, wholesale deletion mandate or new deadline is ordered.
+
+**Treatment of earlier authority:** Campbell and Quality King preserve the distinction between the settled statutory question and individualized relief under the remaining lawful record.
+
+### RICO distinctness between natural persons and corporations
+
+#### Cedric Kushner Promotions, Ltd. v. King, 533 U.S. 158
+
+**Docket or dockets:** No. 00-549.
+**Decided:** June 11, 2001.
+
+##### A natural owner or employee remains distinct from an incorporated enterprise
+
+**Holding:** A natural person and a legally separate corporation satisfy the person-enterprise distinction in 18 U.S.C. §1962(c), including when the person owns the corporation and conducts its affairs within corporate authority. Incorporation establishes distinct identity in that configuration; it establishes neither racketeering liability nor a right to relief without proof of the remaining statutory elements.
+
+**Proposition-level authority:** The unanimous Opinion of the Court, delivered by Scalia and joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer, directly controls this rule and its application.
+
+**Material application:** King's sole ownership, presidency and authorized corporate acts do not merge his legal identity with that of the incorporated enterprise. Corporate personality establishes distinctness, without a further economic-independence or outside-office requirement.
+
+**Limits and questions not reached:** The remaining RICO elements, causation, defenses and remedial predicates are unproved. Corporate defendants paired with associations including themselves, affiliated corporations, sole proprietorships and corporate vicarious liability are outside the question.
+
+**Operative remedy or transition:** The distinctness dismissal is reversed and the claim remanded for adjudication of the remaining elements and defenses. No liability, damages, fees or injunction is awarded.
+
+**Treatment of earlier authority:**
+
+- Reves v. Ernst & Young remains controlling on participation in directing enterprise affairs; distinctness does not establish that element.
+- National Organization for Women, Inc. v. Scheidler retains its rejection of an extra economic-motive requirement while preserving the enacted elements.
+- Holmes v. Securities Investor Protection Corp. retains factual and proximate causation for civil recovery.
+- United States v. Bestfoods supports separate corporate personality without supplying a RICO operator or vicarious-liability test.
+- Copperweld Corp. v. Independence Tube Corp. concerns the different antitrust conspiracy requirement and does not merge a natural person and corporate enterprise under §1962(c).
