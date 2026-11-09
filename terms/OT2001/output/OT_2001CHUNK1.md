@@ -740,7 +740,7 @@ Asgrow construes the former certificate saved-seed provision. It does not answer
 
 **Controlling explanation:** Under Asgrow, former §2543 permits reproductive sale only of seed genuinely saved for the farmer's own planting, produced from seed obtained with the owner's authority or its descendants. Seller and purchaser must primarily farm for nonreproductive crop sales, and the sale must comply with state seed-sale law. Changed planting plans may permit disposition of genuinely retained seed; intentional multiplication for marketing is not exempt. The independent protection for bona fide nonreproductive sales in customary channels remains; a buyer who diverts seed sold through those channels to planting is deemed to have section 2567 notice that the diversion infringes. Section 2544's exemption for use and reproduction for plant breeding or other bona fide research likewise belongs to that certificate regime.
 
-The 1994 amendments delete the former farmer-sales proviso for the amended regime from April 4, 1995. The Court makes no determination of a particular certificate's treatment under section 14(a). Section 14(b) permits refiling under amended terms while retaining the original filing date for §42. Section 14(c) requires identification of amended protection in a notice claiming it and retains sanctions for false or misleading claims or labels. These rules continue to govern the certificate right; none is converted into an exception to a separate utility patent. The Court makes no transaction-specific exception or transition finding.
+The 1994 amendments delete the former farmer-sales proviso for the amended regime from April 4, 1995. Except as section 14 itself provides through the refiling rule of section 14(b) and the notice rule of section 14(c) described next, section 14(a) keeps varieties with certificates issued before April 4, 1995, or with applications pending on that date, under the Plant Variety Protection Act as in effect the day before. Section 14(b) permits refiling under amended terms while retaining the original filing date for §42. Section 14(c) requires identification of amended protection in a notice claiming it and retains sanctions for false or misleading claims or labels. These rules continue to govern the certificate right; none is converted into an exception to a separate utility patent. The Court makes no transaction-specific exception or transition finding.
 
 **Precedent treatment:** Asgrow's saved-seed construction and former-law force are preserved; the statutory amendment's express transition remains unchanged.
 
@@ -1309,8 +1309,3 @@ The case returns through the Fifth Circuit for proceedings consistent with rejec
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., No. 99-1996 | The Render Input states that Pub. L. 103-349 section 14(a) preserves former law for earlier certificates and then-pending applications subject to express exceptions, but does not state those exceptions. Their terms are required to render that transition completely under the Holdings writing and completeness requirements. The incomplete transition rule is not stated as an unconditional entitlement; the unaffected portions are rendered. |
