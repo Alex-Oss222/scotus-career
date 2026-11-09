@@ -1,0 +1,1257 @@
+{
+  "scope": "Independent clerical validation of OT2001 chunk 1",
+  "completed_records": 16,
+  "explicit_stops": {},
+  "errors": [],
+  "human_review": [
+    {
+      "file": "terms\\OT2001\\records\\chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md",
+      "issue": "Judgment tally exists but named component support could not be parsed"
+    },
+    {
+      "file": "terms\\OT2001\\records\\chickasaw-nation-v-united-states_merits_2001-11-27.md",
+      "issue": "Judgment tally exists but named component support could not be parsed"
+    },
+    {
+      "file": "terms\\OT2001\\records\\searles-v-van-bebber_merits_2002-01-08.md",
+      "issue": "Judgment tally exists but named component support could not be parsed"
+    },
+    {
+      "file": "terms\\OT2001\\records\\united-states-postal-service-v-gregory_merits_2001-11-13.md",
+      "issue": "Partial or component lead joins require legal review of eligible scope"
+    },
+    {
+      "file": "terms\\OT2001\\records\\schrader-v-blackwell_merits_2001-12-10.md",
+      "issue": "Full lead joiners omitted from eligibility need express grounds: Ginsburg, Souter, Stevens, Stone"
+    },
+    {
+      "file": "terms\\OT2001\\records\\searles-v-van-bebber_merits_2002-01-08.md",
+      "issue": "Partial or component lead joins require legal review of eligible scope"
+    }
+  ],
+  "required_event_order": [
+    {
+      "number": 4,
+      "case": "Brown v. City of Oneonta",
+      "date": "2001-11-13",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 3,
+      "case": "Nebraska v. Wyoming",
+      "date": "2001-11-13",
+      "scheduled_type": "Original proceeding, decree"
+    },
+    {
+      "number": 2,
+      "case": "TRW Inc. v. Andrews",
+      "date": "2001-11-13",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 1,
+      "case": "United States Postal Service v. Gregory",
+      "date": "2001-11-13",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 7,
+      "case": "Adarand Constructors, Inc. v. Mineta",
+      "date": "2001-11-27",
+      "scheduled_type": "Disposition after merits submission"
+    },
+    {
+      "number": 6,
+      "case": "Chickasaw Nation v. United States",
+      "date": "2001-11-27",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 8,
+      "case": "Church of Scientology International v. Behar",
+      "date": "2001-11-27",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 5,
+      "case": "Correctional Services Corp. v. Malesko",
+      "date": "2001-11-27",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 10,
+      "case": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.",
+      "date": "2001-12-10",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 11,
+      "case": "Schrader v. Blackwell",
+      "date": "2001-12-10",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 9,
+      "case": "United States v. Knights",
+      "date": "2001-12-10",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 12,
+      "case": "Dusenbery v. United States",
+      "date": "2002-01-08",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 14,
+      "case": "Great-West Life & Annuity Insurance Co. v. Knudson",
+      "date": "2002-01-08",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 15,
+      "case": "Searles v. Van Bebber",
+      "date": "2002-01-08",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 13,
+      "case": "Toyota Motor Manufacturing, Kentucky, Inc. v. Williams",
+      "date": "2002-01-08",
+      "scheduled_type": "Merits decision"
+    },
+    {
+      "number": 16,
+      "case": "Chao v. Mallard Bay Drilling, Inc.",
+      "date": "2002-01-09",
+      "scheduled_type": "Merits decision"
+    }
+  ],
+  "assignment_audit": [
+    {
+      "record": "brown-v-city-of-oneonta_merits_2001-11-13.md",
+      "date": "2001-11-13",
+      "case": "Brown v. City of Oneonta; 221 F.3d 329 (2d Cir. 2000); no Supreme Court docket supplied",
+      "lead_authors_from_opinion_table": [
+        "O'Connor"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 0,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 0,
+        "Breyer": 0
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 0,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 0,
+        "Breyer": 0
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "none; this is the first counted event.",
+      "expected_last_counted_record": null
+    },
+    {
+      "record": "nebraska-v-wyoming_decree_2001-11-13.md",
+      "date": "2001-11-13",
+      "case": "Nebraska v. Wyoming; No. 108, Original",
+      "lead_authors_from_opinion_table": [],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 0,
+        "Breyer": 0
+      },
+      "declared_counts": {},
+      "count_status": "No signed lead identified; excluded pending any human form clarification"
+    },
+    {
+      "record": "trw-inc-v-andrews_merits_2001-11-13.md",
+      "date": "2001-11-13",
+      "case": "TRW Inc. v. Andrews; No. 00-1045",
+      "lead_authors_from_opinion_table": [
+        "Ginsburg"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 0,
+        "Breyer": 0
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 0,
+        "Breyer": 0
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Brown v. City of Oneonta, 2001-11-13.",
+      "expected_last_counted_record": "brown-v-city-of-oneonta_merits_2001-11-13.md"
+    },
+    {
+      "record": "united-states-postal-service-v-gregory_merits_2001-11-13.md",
+      "date": "2001-11-13",
+      "case": "United States Postal Service v. Gregory; No. 00-758",
+      "lead_authors_from_opinion_table": [
+        "Breyer"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 0
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 0
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "TRW Inc. v. Andrews, 2001-11-13.",
+      "expected_last_counted_record": "trw-inc-v-andrews_merits_2001-11-13.md"
+    },
+    {
+      "record": "adarand-constructors-inc-v-mineta_dig_2001-11-27.md",
+      "date": "2001-11-27",
+      "case": "Adarand Constructors, Inc. v. Mineta; No. 00-730",
+      "lead_authors_from_opinion_table": [],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {},
+      "count_status": "No signed lead identified; excluded pending any human form clarification"
+    },
+    {
+      "record": "chickasaw-nation-v-united-states_merits_2001-11-27.md",
+      "date": "2001-11-27",
+      "case": "Chickasaw Nation v. United States; No. 00-507; Chickasaw and Choctaw Nations",
+      "lead_authors_from_opinion_table": [
+        "Kennedy"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 0,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stevens.",
+      "last_counted_declaration": "United States Postal Service v. Gregory, 2001-11-13.",
+      "expected_last_counted_record": "united-states-postal-service-v-gregory_merits_2001-11-13.md"
+    },
+    {
+      "record": "church-of-scientology-international-v-behar_merits_2001-11-27.md",
+      "date": "2001-11-27",
+      "case": "Church of Scientology International v. Behar; 238 F.3d 168 (2d Cir. 2001); no Supreme Court docket supplied",
+      "lead_authors_from_opinion_table": [
+        "Kennedy"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 1,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 1,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Chickasaw Nation v. United States, 2001-11-27.",
+      "expected_last_counted_record": "chickasaw-nation-v-united-states_merits_2001-11-27.md"
+    },
+    {
+      "record": "correctional-services-corp-v-malesko_merits_2001-11-27.md",
+      "date": "2001-11-27",
+      "case": "Correctional Services Corp. v. Malesko; No. 00-860",
+      "lead_authors_from_opinion_table": [
+        "Stevens"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Church of Scientology International v. Behar, 2001-11-27.",
+      "expected_last_counted_record": "church-of-scientology-international-v-behar_merits_2001-11-27.md"
+    },
+    {
+      "record": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md",
+      "date": "2001-12-10",
+      "case": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.; No. 99-1996",
+      "lead_authors_from_opinion_table": [
+        "Souter"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 0,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "declared_pool": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "derived_pool": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Correctional Services Corp. v. Malesko, 2001-11-27.",
+      "expected_last_counted_record": "correctional-services-corp-v-malesko_merits_2001-11-27.md"
+    },
+    {
+      "record": "schrader-v-blackwell_merits_2001-12-10.md",
+      "date": "2001-12-10",
+      "case": "Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001)",
+      "lead_authors_from_opinion_table": [
+        "Thomas"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 0,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "O'Connor",
+        "Scalia",
+        "Thomas",
+        "Breyer"
+      ],
+      "additional_component_assignments": [
+        {
+          "component": "Threshold",
+          "eligible": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "declared_pool": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "derived_pool": [
+            "Stone",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "author": [
+            "Thomas"
+          ],
+          "assigner": [
+            "Stone"
+          ]
+        }
+      ],
+      "derived_pool": [
+        "O'Connor",
+        "Scalia",
+        "Thomas",
+        "Breyer"
+      ],
+      "assigner_text": "O'Connor.",
+      "last_counted_declaration": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., 2001-12-10.",
+      "expected_last_counted_record": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md"
+    },
+    {
+      "record": "united-states-v-knights_merits_2001-12-10.md",
+      "date": "2001-12-10",
+      "case": "United States v. Knights; No. 00-1260",
+      "lead_authors_from_opinion_table": [
+        "Scalia"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 0,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Schrader v. Blackwell, 2001-12-10.",
+      "expected_last_counted_record": "schrader-v-blackwell_merits_2001-12-10.md"
+    },
+    {
+      "record": "dusenbery-v-united-states_merits_2002-01-08.md",
+      "date": "2002-01-08",
+      "case": "Dusenbery v. United States; No. 00-6567",
+      "lead_authors_from_opinion_table": [
+        "Stone"
+      ],
+      "fresh_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 0,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "declared_pool": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "derived_pool": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "United States v. Knights, 2001-12-10.",
+      "expected_last_counted_record": "united-states-v-knights_merits_2001-12-10.md"
+    },
+    {
+      "record": "great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md",
+      "date": "2002-01-08",
+      "case": "Great-West Life & Annuity Insurance Co. v. Knudson; No. 99-1786",
+      "lead_authors_from_opinion_table": [
+        "Thomas"
+      ],
+      "fresh_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "declared_pool": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "derived_pool": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Dusenbery v. United States, 2002-01-08.",
+      "expected_last_counted_record": "dusenbery-v-united-states_merits_2002-01-08.md"
+    },
+    {
+      "record": "searles-v-van-bebber_merits_2002-01-08.md",
+      "date": "2002-01-08",
+      "case": "Searles v. Van Bebber; 251 F.3d 869 (10th Cir. 2001)",
+      "lead_authors_from_opinion_table": [
+        "Scalia"
+      ],
+      "fresh_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 2,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 2,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Great-West Life & Annuity Insurance Co. v. Knudson, 2002-01-08.",
+      "expected_last_counted_record": "great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md"
+    },
+    {
+      "record": "toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md",
+      "date": "2002-01-08",
+      "case": "Toyota Motor Manufacturing, Kentucky, Inc. v. Williams; No. 00-1089",
+      "lead_authors_from_opinion_table": [
+        "Ginsburg"
+      ],
+      "fresh_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 2,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 2,
+        "Ginsburg": 1,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Searles v. Van Bebber, 2002-01-08.",
+      "expected_last_counted_record": "searles-v-van-bebber_merits_2002-01-08.md"
+    },
+    {
+      "record": "chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md",
+      "date": "2002-01-09",
+      "case": "Chao v. Mallard Bay Drilling, Inc.; No. 00-927",
+      "lead_authors_from_opinion_table": [
+        "O'Connor"
+      ],
+      "fresh_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "declared_counts": {
+        "Stone": 1,
+        "Stevens": 1,
+        "O'Connor": 1,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "eligible": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "declared_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "derived_pool": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assigner_text": "Stone.",
+      "last_counted_declaration": "Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 2002-01-08.",
+      "expected_last_counted_record": "toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md"
+    }
+  ],
+  "explicit_vote_checks": [
+    {
+      "record": "brown-v-city-of-oneonta_merits_2001-11-13.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [],
+      "stated_tally": "9-0"
+    },
+    {
+      "record": "church-of-scientology-international-v-behar_merits_2001-11-27.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [],
+      "stated_tally": "9-0"
+    },
+    {
+      "record": "correctional-services-corp-v-malesko_merits_2001-11-27.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "stated_tally": "5-4"
+    },
+    {
+      "record": "dusenbery-v-united-states_merits_2002-01-08.md",
+      "supporting": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "opposing": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "stated_tally": "5-4"
+    },
+    {
+      "record": "great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md",
+      "supporting": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "opposing": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "stated_tally": "5-4"
+    },
+    {
+      "record": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md",
+      "supporting": [
+        "Stone",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "opposing": [
+        "Stevens",
+        "Breyer"
+      ],
+      "stated_tally": "7-2"
+    },
+    {
+      "record": "schrader-v-blackwell_merits_2001-12-10.md",
+      "supporting": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "opposing": [
+        "Stone",
+        "Stevens",
+        "Souter",
+        "Ginsburg"
+      ],
+      "stated_tally": "5-4"
+    },
+    {
+      "record": "toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [],
+      "stated_tally": "9-0"
+    },
+    {
+      "record": "trw-inc-v-andrews_merits_2001-11-13.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [],
+      "stated_tally": "9-0"
+    },
+    {
+      "record": "united-states-postal-service-v-gregory_merits_2001-11-13.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [],
+      "stated_tally": "9-0"
+    },
+    {
+      "record": "united-states-v-knights_merits_2001-12-10.md",
+      "supporting": [
+        "Stone",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [],
+      "stated_tally": "9-0"
+    }
+  ],
+  "relative_links_checked": 0,
+  "files_read": [
+    "terms\\OT2001\\records\\adarand-constructors-inc-v-mineta_dig_2001-11-27.md",
+    "terms\\OT2001\\records\\brown-v-city-of-oneonta_merits_2001-11-13.md",
+    "terms\\OT2001\\records\\chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md",
+    "terms\\OT2001\\records\\chickasaw-nation-v-united-states_merits_2001-11-27.md",
+    "terms\\OT2001\\records\\church-of-scientology-international-v-behar_merits_2001-11-27.md",
+    "terms\\OT2001\\records\\correctional-services-corp-v-malesko_merits_2001-11-27.md",
+    "terms\\OT2001\\records\\dusenbery-v-united-states_merits_2002-01-08.md",
+    "terms\\OT2001\\records\\great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md",
+    "terms\\OT2001\\records\\j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md",
+    "terms\\OT2001\\records\\nebraska-v-wyoming_decree_2001-11-13.md",
+    "terms\\OT2001\\records\\schrader-v-blackwell_merits_2001-12-10.md",
+    "terms\\OT2001\\records\\searles-v-van-bebber_merits_2002-01-08.md",
+    "terms\\OT2001\\records\\toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md",
+    "terms\\OT2001\\records\\trw-inc-v-andrews_merits_2001-11-13.md",
+    "terms\\OT2001\\records\\united-states-postal-service-v-gregory_merits_2001-11-13.md",
+    "terms\\OT2001\\records\\united-states-v-knights_merits_2001-12-10.md",
+    "terms\\OT2001\\render-inputs\\OT_2001CHUNK1.md"
+  ],
+  "unperformed": [
+    "No repository-history commands, commitment-order verification, or commit-object existence checks.",
+    "No locked directory was listed, searched, read, or followed through a link.",
+    "Legal compatibility, eligibility grounds and doubtful component topology require human review; the program decides no legal meaning.",
+    "Physical wall-clock assignment sequence is not inferred from file timestamps; declared counts are compared to required chronological and alphabetical event order.",
+    "External URLs and link anchors are not fetched or resolved by this program."
+  ]
+}

@@ -1,0 +1,11 @@
+# Toyota review-scope neutral validation
+
+The affected neutral/modeling context read `runtime/OT_2001CHUNK1_TOYOTA_SCOPE_NEUTRAL.md` against the previously authorized Toyota neutral packet, entering law and original independent commitment. It received no Toyota comparator, reconciliation, historical Court opinion, or private position. The control-extracted preservation fact is accepted under Engine §14 as an authenticated scope recitation; the original underlying functional evidence is unchanged.
+
+The clarification makes two distinct questions explicit. Review encompasses Williams's favorable partial summary judgment under the manual-tasks theory. Toyota's separate request to reinstate its own summary judgment is outside that accepted question. Accordingly, the packet's option to decide summary judgment for either party cannot authorize final employer judgment here. Vacating an employee's partial judgment need not establish that the employer is entitled to its own judgment.
+
+The clarification supplies no factual concession, waiver, outcome, disability rule or vote. It creates no conflict with Sutton, Murphy, Bragdon or the supplied procedural posture. It narrows the available remedial paths without changing the record used to assess Williams's judgment. The two live merits alternatives are sustaining Williams's partial judgment under the correct individualized standard or vacating it for application of that standard. Final reinstatement of Toyota's judgment is not a third available disposition under the accepted question.
+
+All eight original commitments already selected vacatur of Williams's partial judgment and an individualized remand, with no final employer entitlement. Their votes and adopted coverage rule therefore remain unchanged. The refreshed handoff expressly binds that remand to the accepted question and removes any possible reading that invites adjudication or reopening of an independent unreviewed coverage branch. No new evidentiary assumption or further research is necessary for this objective scope correction.
+
+The original B commitment file remains unchanged. `freeze/OT_2001CHUNK1_TOYOTA_SCOPE_COMMITMENTS.md` is the operative affected-case refresh for the next reconciliation stage; its matching runtime copy is a working copy only.

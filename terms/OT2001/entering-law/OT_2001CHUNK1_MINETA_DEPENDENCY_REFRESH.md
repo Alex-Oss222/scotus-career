@@ -1,0 +1,9 @@
+# Adarand Constructors v. Mineta — entering-law refresh
+
+The November 13, 2001 Brown decision is effective before Mineta's November 27 event. Its entire bounded public text was mechanically copied to [the effective public addendum](OT_2001CHUNK1_BROWN_EFFECTIVE_PUBLIC_ADDENDUM.md). The Record remains authoritative.
+
+Brown applies the common substantial-justification standard to deliberate investigative selection by race, without an additional hostility requirement. It permits justified use of concrete identifying information while requiring an evidence-supported relationship between the actual measure, burdens and lawful objective. It does not adjudicate a transportation contracting program, establish Mineta's standing, identify a different judgment under review, preserve an unpresented challenge or supply a missing program-specific record.
+
+The frozen Mineta disposition rests on the mismatch between the program adjudicated below and the distinct direct-procurement program urged in the presentation here. Brown changes none of those jurisdictional, preservation or vehicle predicates. Its rule therefore adds effective background law but no material change to the neutral vehicle question, relief or non-Stone commitments. The existing common racial-classification standard also remains available at its actual scope; dismissal of review does not approve either program or the lower court's constitutional reasoning.
+
+Control comparison under Engine §3G finds no materially changed decisional premise requiring affected remodeling. The frozen vehicle-only commitments remain applicable. No November 27 uncoordinated decision supplies another November 27 case's entering law. This refresh records current law and neutral procedure only; it supplies no new judicial vote or Court action.

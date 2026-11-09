@@ -1,0 +1,777 @@
+# Nebraska v. Wyoming — proposed operative terms
+
+Neutral source extraction. These are the operative paragraphs of the proposed Modified North Platte Decree submitted with the parties’ March 13, 2001 Final Settlement Stipulation, presented March 15, 2001. They are a proposal for consideration, not an entered OT2001 Court action. The reported instrument supplies supported recitation of the parties’ proposal under Engine §14. No adjudicative outcome or lineup is supplied.
+
+The proposal seeks replacement of the October 8, 1945 decree as modified June 15, 1953, approval of the stipulation, dismissal with prejudice of the submitted claims, counterclaims and cross-claims, and allocation of litigation costs by subsequent order. No underlying contested allegation is established by consent.
+
+The following text is copied mechanically from the saved official instrument; running page headers are removed. The complete operative paragraphs, definitions, accounting rules, exceptions and reserved jurisdiction remain. The separate settlement schedules and final report are not reproduced by this source.
+
+I. The State of Colorado, its ofﬁcers, attorneys, agents,
+and employees, be and they are hereby severally enjoined:
+(a) From diverting or permitting the diversion of water
+from the North Platte River and its tributaries for the irriga-
+tion of more than a total of 145,000 acres of land in Jackson
+County, Colorado, during any one irrigation season;
+(b) From storing or permitting the storage of more than a
+total amount of 17,000 acre-feet of water for irrigation pur-
+poses from the North Platte River and its tributaries in
+Jackson County, Colorado, between October 1 of any year
+and September 30 of the following year;
+(c) From exporting out of the basin of the North Platte
+River and its tributaries in Jackson County, Colorado, to
+any other stream basin or basins more than 60,000 acre-feet
+of water in any period of ten consecutive years reckoned
+in continuing progressive series beginning with October 1,
+1945.
+II. The State of Wyoming, its ofﬁcers, attorneys, agents,
+and employees, be and they are hereby severally enjoined:
+(a) From diverting or permitting the diversion of water
+for irrigation from the North Platte River and its tributaries,
+including water from hydrologically connected groundwater
+wells, upstream of Pathﬁnder Dam for the consumption in
+any period of ten consecutive years reckoned in continuing
+progressive series, of more than the largest amount of water
+consumed for irrigation from such sources in any ten consec-
+utive year period between 1952 and 1999, inclusive.
+This
+injunction becomes effective the ﬁrst full calendar year after
+the date of entry of this Modiﬁed Decree.
+The consumptive
+use of irrigation water in this area to be counted under this
+injunction shall include the following:
+(1) Water consumed for irrigation purposes on lands irri-
+gated with surface water diversions of natural ﬂow;
+(2) Water consumed for irrigation purposes on lands irri-
+gated with water stored pursuant to paragraph II(e);
+
+
+(3) Water consumed for irrigation purposes on lands irri-
+gated by water from hydrologically connected groundwater
+wells;
+(4) Water consumed for purposes other than irrigation
+under water rights transferred since October 8, 1945, from
+an irrigation use to another use;
+The largest amount of water consumed for irrigation from
+such sources in any ten consecutive year period between
+1952 and 1999, inclusive, has been determined by the parties
+pursuant to a methodology and procedures approved and
+adopted in the Final Settlement Stipulation to be 1,280,000
+acre-feet.
+For the purpose of determining compliance with
+this injunction, the amount of water consumed for irrigation
+from such sources shall be determined by the same method-
+ology and procedures.
+After ten years of administration,
+accounting, and reporting under this injunction, the method-
+ology and the ten consecutive year limit will be reviewed by
+the North Platte Decree Committee pursuant to procedures
+approved and adopted in the Final Settlement Stipulation to
+determine if there is a better methodology for calculating
+the largest amount of water consumed for irrigation in such
+ten consecutive year period and for determining compliance.
+In making such calculation, any acreage historically reported
+by the Wyoming State Engineer as irrigated by direct ﬂow
+surface water or stored water or as transfers, between 1952
+and 1999, inclusive, and used in the existing methodology,
+shall not be changed.
+In addition, the other acreage used in
+the existing methodology shall not be changed unless the
+North Platte Decree Committee agrees that such change re-
+sults in a more accurate determination of acres actually irri-
+gated between 1952 and 1999, inclusive.
+In any new meth-
+odology, to determine compliance with the consumptive use
+limit, the acreage above Pathﬁnder Dam, when combined
+with the acreage between Pathﬁnder Dam and Guernsey
+Reservoir, cannot exceed the 226,000 acreage limitation pur-
+suant to paragraph II(c).
+If Nebraska, Wyoming, and the
+
+
+United States agree on a new methodology and a new limit,
+they shall notify the Court and this paragraph will be modi-
+ﬁed accordingly.
+As provided in paragraph XIII, absent
+agreement on a new methodology and a new limit, Nebraska,
+Wyoming, or the United States may seek recourse to the
+Court to resolve these issues.
+(b) From diverting or permitting the diversion of water
+for irrigation from the North Platte River and its tributar-
+ies, including water from hydrologically connected ground-
+water wells, between Pathﬁnder Dam and Guernsey Reser-
+voir for the consumption in any period of ten consecutive
+years reckoned in continuing progressive series, exclusive
+of the Kendrick Project, of more than the largest amount of
+water consumed for irrigation from such sources in any ten
+consecutive year period between 1952 and 1999, inclusive.
+This injunction becomes effective the ﬁrst full calendar year
+after the entry of this Modiﬁed Decree.
+The consumptive
+use of irrigation water in this area to be counted under this
+injunction shall include the following:
+(1) Water consumed for irrigation purposes on lands irri-
+gated with surface water diversions of natural ﬂow;
+(2) Water consumed for irrigation purposes on lands irri-
+gated with water stored in reservoirs that store water from
+the tributaries between Pathﬁnder Dam and Guernsey
+Reservoir;
+(3) Water consumed for irrigation purposes on lands irri-
+gated by water from hydrologically connected groundwater
+wells;
+(4) Water consumed for purposes other than irrigation
+with water rights transferred since October 8, 1945, from an
+irrigation use to another use;
+The largest amount of water consumed for irrigation from
+such sources in any ten consecutive year period between
+1952 and 1999, inclusive, has been determined by the parties
+pursuant to a methodology and procedures approved and
+adopted in the Final Settlement Stipulation to be 890,000
+
+
+acre-feet.
+For the purpose of determining compliance with
+this injunction, the amount of water consumed for irriga-
+tion from such sources shall be determined by the same
+methodology and procedures.
+After ten years of adminis-
+tration, accounting, and reporting under this injunction, the
+methodology and the ten consecutive year limit will be re-
+viewed by the North Platte Decree Committee pursuant to
+procedures approved and adopted in the Final Settlement
+Stipulation to determine if there is a better methodology for
+calculating the largest amount of water consumed for irriga-
+tion in such ten consecutive year period and for determining
+compliance.
+In making such calculation, any acreage histor-
+ically reported by the Wyoming State Engineer as irrigated
+by direct ﬂow surface water or stored water or as transfers,
+between 1952 and 1999, inclusive, and used in the existing
+methodology, shall not be changed.
+In addition, the other
+acreage used in the existing methodology shall not be
+changed unless the North Platte Decree Committee agrees
+that such change results in a more accurate determination
+of acres actually irrigated between 1952 and 1999, inclusive.
+In any new methodology, to determine compliance with the
+consumptive use limit, the acreage above Pathﬁnder Dam,
+when combined with the acreage between Pathﬁnder Dam
+and Guernsey Reservoir, cannot exceed the 226,000 acreage
+limitation pursuant to paragraph II(c).
+If Nebraska, Wyo-
+ming, and the United States agree on a new methodology
+and a new limit, they shall notify the Court and this para-
+graph will be modiﬁed accordingly.
+As provided in para-
+graph XIII, absent agreement on a new methodology and a
+new limit, Nebraska, Wyoming, or the United States may
+seek recourse to the Court to resolve these issues.
+(c) From diverting or permitting the diversion of water
+from the North Platte River and its tributaries, including
+water from hydrologically connected groundwater wells, up-
+stream of Guernsey Reservoir for the intentional irrigation
+of more than a total of 226,000 acres of land in Wyoming
+
+
+during any one irrigation season, exclusive of the Kendrick
+Project.
+The acres in this area to be counted under this
+injunction shall include the following, provided that an in-
+tentionally irrigated acre that receives water from more than
+one source shall be counted only once:
+(1) Acres irrigated by surface water diversions of natural
+ﬂow;
+(2) Acres irrigated by water stored pursuant to para-
+graph II(e);
+(3) Acres irrigated by water stored in reservoirs that
+store water from the tributaries between Pathﬁnder Dam
+and Guernsey Reservoir;
+(4) Acres irrigated with water from hydrologically con-
+nected groundwater wells;
+(5) The equivalent of the acres found by order of the Wyo-
+ming State Board of Control to have been historically irri-
+gated and that formed the basis for the transfer of water
+rights where water rights on the North Platte River up-
+stream of Guernsey Reservoir or the tributaries upstream of
+Pathﬁnder Dam are transferred after October 8, 1945, from
+an irrigation use to another use; provided, however, that the
+amount of acres counted for a given year may be reduced
+proportionately to the extent that the actual diversion and
+use of water under the transferred water right during that
+year are less than the total diversion and use allowed by the
+order approving such transfer;
+(6) The equivalent of the acres found by order of the Wyo-
+ming State Board of Control to have been historically irri-
+gated and that formed the basis for the transfer of water
+rights where water rights on the tributaries entering the
+North Platte River between Pathﬁnder Dam and Guernsey
+Reservoir are transferred after January 1, 2001, from an irri-
+gation use to another use; provided, however, that the
+amount of acres counted for a given year may be reduced
+proportionately to the extent that the actual diversion and
+use of water under the transferred water right during that
+
+
+year are less than the total diversion and use allowed by the
+order approving such transfer;
+Ten years after the entry of this Modiﬁed Decree, the
+provision that enjoins Wyoming from intentionally irrigat-
+ing more than 226,000 acres upstream of Guernsey Reser-
+voir will be replaced with two injunctions, one that limits
+the number of acres that can be irrigated above Pathﬁnder
+Dam and one that limits the number of acres that can be
+irrigated between Pathﬁnder Dam and Guernsey Reservoir.
+Wyoming has the discretion to designate the irrigated acre-
+age limitation above Pathﬁnder Dam and the irrigated acre-
+age limitation between Pathﬁnder Dam and Guernsey Res-
+ervoir, so long as the total irrigated acreage limitation does
+not exceed 226,000 acres.
+After Wyoming makes such des-
+ignation, Nebraska, Wyoming, and the United States will so
+notify the Court and the Modiﬁed Decree will be modiﬁed
+accordingly.
+(d) From diverting or permitting the diversion of water
+from the Laramie River and its tributaries, including water
+from hydrologically connected groundwater wells, down-
+stream of the Wheatland Irrigation District’s Tunnel No. 2,
+exclusive of the area within the Wheatland Irrigation Dis-
+trict, for the intentional irrigation of more than a total of
+39,000 acres of land in Wyoming during any one irrigation
+season.
+The acres in this area to be counted under this in-
+junction shall include the following, provided that an inten-
+tionally irrigated acre that receives water from more than
+one source shall be counted only once:
+(1) Acres irrigated by surface water diversions of natural
+ﬂow;
+(2) Acres irrigated by stored irrigation water released
+from a reservoir;
+(3) Acres irrigated with water from hydrologically con-
+nected groundwater wells;
+(4) The equivalent of the acres found by order of the Wyo-
+ming State Board of Control to have been historically irri-
+
+
+gated and that formed the basis for the transfer of water
+rights where water rights are transferred after January 1,
+2001, from an irrigation use that is subject to the limitations
+of this paragraph II(d) to another use; provided, however,
+that the amount of acres counted for a given year may be
+reduced proportionately to the extent that the actual di-
+version and use of water under the transferred water right
+during that year are less than the total diversion and use
+allowed by the order approving such transfer;
+(e) From storing or permitting the storage of more than a
+total amount of 18,000 acre-feet of water for irrigation pur-
+poses from the North Platte River and its tributaries above
+Pathﬁnder Reservoir between October 1 of any year and
+September 30 of the following year, exclusive of Seminoe
+Reservoir.
+III. The State of Wyoming, its ofﬁcers, attorneys, agents,
+and employees, be and they are hereby severally enjoined
+from storing or permitting the storage of water in Path-
+ﬁnder, Guernsey, Seminoe, Alcova, and Glendo Reservoirs
+and the Inland Lakes otherwise than in accordance with the
+relative storage rights, as among themselves, of such reser-
+voirs, which are hereby deﬁned and ﬁxed as follows:
+First, Pathﬁnder Reservoir;
+Second, Inland Lakes with the same priority date as
+Pathﬁnder Reservoir;
+Third, Guernsey Reservoir;
+Fourth, Seminoe Reservoir;
+Fifth, Alcova Reservoir; and
+Sixth, Glendo Reservoir;
+Provided, however, that water accruing in priority to the
+storage right of a reservoir listed above, and water accru-
+ing to the Glendo Reservoir reregulating space pursuant
+to paragraph XVII(g), may be physically stored in, released
+from, or exchanged with another reservoir so long as the
+water is accounted in accordance with the foregoing rule of
+priority and only when such storage, release, or exchange
+
+
+will not materially interfere with the administration of water
+for irrigation purposes according to the priority decreed for
+the French Canal and the State Line Canals.
+Further, in
+accordance with the opinion of this Court dated April 20,
+1993 (507 U. S. 584), the United States has the right to divert
+46,000 acre-feet of water during the nonirrigation season
+months of October, November, and April for storage in the
+Inland Lakes.
+Historically, pursuant to annual agreements
+entered in the discretion of the parties, such diversions
+have occurred at a rate not exceeding 910 cubic feet per sec-
+ond from gains accruing to the river downstream of Alcova
+Reservoir.
+This right shall be administered in accordance
+with procedures to be reviewed and adopted annually by the
+North Platte Decree Committee.
+IV. The State of Wyoming, its ofﬁcers, attorneys, agents,
+and employees, be and they are hereby severally enjoined
+from storing or permitting the storage of water in Path-
+ﬁnder, Guernsey, Seminoe, Alcova, and Glendo Reservoirs,
+and from the diversion of natural ﬂow water through the
+Casper Canal for the Kendrick Project between and includ-
+ing May 1 and September 30 of each year otherwise than in
+accordance with the rule of priority in relation to the appro-
+priations of the Nebraska lands supplied by the French
+Canal and by the State Line Canals, which said Nebraska
+appropriations are hereby adjudged to be senior to said ﬁve
+reservoirs and said Casper Canal, and which said Nebraska
+appropriations are hereby identiﬁed and deﬁned, and their
+diversion limitations in second feet and seasonal limitations
+in acre-feet ﬁxed as follows:
+Limitation
+Seasonal
+in Sec.
+Limitation
+Lands
+Canal
+Feet
+in Acre-Feet
+Tract of 1,025 acres
+French
+15
+2,227
+Mitchell Irrigation District
+Mitchell
+195
+35,000
+Gering Irrigation District
+Gering
+193
+36,000
+Farmers Irrigation District
+Tri-State
+748
+183,050
+Ramshorn Irrigation District
+Ramshorn
+14
+3,000
+
+
+This paragraph limits the extent to which these canals
+may stop the federal reservoirs from storing water and
+the Casper Canal from diverting natural ﬂow water.
+It does
+not place any absolute ceilings or other restrictions on the
+quantities of water that these canals may actually divert.
+Nebraska v. Wyoming, 507 U. S., at 603; see also Nebraska v.
+Wyoming, 515 U. S., at 10.
+V. The natural ﬂow in the Guernsey Dam to Tri-State
+Dam section between and including May 1 and September 30
+of each year, including the contribution of Spring Creek, be
+and the same hereby is apportioned between Wyoming and
+Nebraska on the basis of twenty-ﬁve per cent to Wyoming
+and seventy-ﬁve per cent to Nebraska, with the right
+granted Nebraska to designate from time to time the por-
+tion of its share which shall be delivered into the Interstate,
+Fort Laramie, French, and Mitchell Canals for use on the
+Nebraska lands served by these canals.
+The natural ﬂow
+in a portion of certain tributaries and drains as deﬁned in
+paragraph V(a) shall also be included in the natural ﬂow
+apportioned by this paragraph.
+The State of Nebraska, its
+ofﬁcers, attorneys, agents, and employees, and the State of
+Wyoming, its ofﬁcers, attorneys, agents, and employees, are
+hereby enjoined and restrained from diversion or use con-
+trary to this apportionment, provided that in the apportion-
+ment of water in this section the ﬂow for each day, until
+ascertainable, shall be assumed to be the same as that of the
+preceding day, as shown by the measurements and computa-
+tions for that day.
+Provided further that:
+(a) Diversions under surface water rights for irrigation
+purposes from those parts of the tributaries and drains to
+the North Platte River that lie within the area bounded by
+Whalen Diversion Dam on the west, the Ft. Laramie Canal
+on the south, the Interstate Canal on the north, and the
+Wyoming-Nebraska state line on the east, excluding the
+drainage basins of the Laramie River and Horse Creek, shall
+be administered and accounted as diversions of natural ﬂow
+
+
+for the purposes of the foregoing percentage apportionment,
+unless the depletions to the North Platte River resulting
+from such diversions are replaced.
+The amount of such
+depletions, and the method for their replacement in the ordi-
+nary course of administration, shall be determined and im-
+plemented pursuant to procedures that have been approved
+and adopted in the Final Settlement Stipulation.
+(b) Diversions for irrigation purposes from wells with
+water right priorities between October 8, 1945, and including
+December 31, 2000, located within the area bounded by
+Whalen Diversion Dam on the west, 300 feet south of the
+Ft. Laramie Canal on the south, one mile north of the Inter-
+state Canal on the north, and the Wyoming-Nebraska state
+line on the east, shall be regulated as follows: To the extent
+the pumping of such wells results in depletions to the North
+Platte River between Whalen Diversion Dam and the state
+line or to the portions of tributaries described in paragraph
+V(a) between May 1 and September 30, such depletions shall
+be replaced or the pumping shall be regulated to prevent
+such depletions, unless such depletions occur when the natu-
+ral ﬂow in the Guernsey Dam to Tri-State Diversion Dam
+reach
+exceeds
+irrigation
+demands
+in
+that
+reach.
+The
+amount of such depletions, and the method for their replace-
+ment in the ordinary course of administration, shall be
+determined and implemented pursuant to procedures that
+have been approved and adopted in the Final Settlement
+Stipulation.
+(c) Diversions for irrigation purposes from wells with
+water right priorities after December 31, 2000, located
+within the area bounded by Whalen Diversion Dam on the
+west, 300 feet south of the Ft. Laramie Canal on the south,
+one mile north of the Interstate Canal on the north, and the
+Wyoming-Nebraska state line on the east, shall be regulated
+or subject to depletion replacement pursuant to procedures
+that have been approved and adopted in the Final Settle-
+ment Stipulation.
+
+
+(d) The river carriage and reservoir loss calculations es-
+tablished in the Decree of October 8, 1945, have been re-
+placed with administrative procedures attached to the North
+Platte Decree Committee Charter.
+These procedures may
+be modiﬁed from time to time by the North Platte Decree
+Committee.
+VI. This Modiﬁed Decree is intended to and does deal with
+and apportion only the natural ﬂow of the North Platte
+River.
+Storage water shall not be affected by this Modiﬁed
+Decree, and the owners of rights therein shall be permitted
+to distribute the same in accordance with any lawful con-
+tracts which they may have entered into or may in the future
+enter into without interference because of this Modiﬁed
+Decree.
+VII. Such additional gauging stations and measuring de-
+vices at or near the Wyoming-Nebraska state line, if any,
+as may be necessary for making any apportionment herein
+decreed, shall be constructed and maintained at the joint and
+equal expense of Wyoming and Nebraska to the extent that
+the costs thereof are not paid by others.
+VIII. The
+State
+of
+Wyoming, its
+ofﬁcers,
+attorneys,
+agents, and employees be and they are hereby severally en-
+joined from diverting or permitting the diversion of water
+from the North Platte River or its tributaries at or above
+Alcova Reservoir in lieu of or in exchange for return ﬂow
+water from the Kendrick Project reaching the North Platte
+River below Alcova Reservoir.
+IX. The State of Wyoming and the State of Colorado be
+and they are hereby each required to prepare and maintain
+complete and accurate records of the total area of land irri-
+gated and the storage and exportation of the water of the
+North Platte River and its tributaries within those portions
+of their respective jurisdictions covered by the provisions of
+paragraphs I, II(c), II(d), and II(e).
+The State of Wyoming
+is also required to prepare and maintain complete and accu-
+rate records of the total consumption of irrigation water in
+
+
+the portion of its jurisdiction covered by paragraphs II(a)
+and II(b).
+The record keeping and reporting required of the
+State of Wyoming by this paragraph shall be implemented
+in accordance with procedures that have been approved and
+adopted in the Final Settlement Stipulation.
+The records
+required by this paragraph shall be available for inspection
+at all reasonable times; provided, however, that such records
+shall not be required in reference to the water uses permit-
+ted by paragraphs X and XII(f).
+X. This Modiﬁed Decree shall not affect or restrict the
+use or diversion of water from the North Platte River and
+its tributaries in Colorado or Wyoming for ordinary and
+usual domestic, municipal, and stock watering purposes and
+consumption.
+XI. For the purposes of this Modiﬁed Decree:
+(a) “Season” or “seasonal” refers to the irrigation season,
+May 1 to September 30, inclusive;
+(b) The term “storage water” as applied to releases from
+reservoirs owned and operated by the United States is de-
+ﬁned as any water which is released from reservoirs for
+use on lands under canals having storage contracts in addi-
+tion to the water which is discharged through those reser-
+voirs to meet natural ﬂow uses permitted by this Modiﬁed
+Decree;
+(c) “Natural ﬂow water” shall be taken as referring to all
+water in the stream except storage water;
+(d) Return ﬂows from the Kendrick Project shall be
+deemed to be “natural ﬂow water” when they have reached
+the North Platte River, subject to the same diversion and
+use as any other natural ﬂow in the stream;
+(e) “Hydrologically connected groundwater wells” are de-
+ﬁned in procedures attached to the North Platte Decree
+Committee Charter as Exhibits 4, 6, and 12 approved and
+adopted in the Final Settlement Stipulation.
+The North
+Platte Decree Committee may modify such deﬁnition in ac-
+cordance with the Final Settlement Stipulation.
+
+
+XII. This Modiﬁed Decree shall not affect:
+(a) The relative rights of water users within any one of
+the States who are parties to this suit except as may be
+otherwise speciﬁcally provided herein;
+(b) Such claims as the United States has to storage water
+under Wyoming law nor will the Modiﬁed Decree in any way
+interfere with the ownership and operation by the United
+States of the various federal storage and power plants,
+works, and facilities;
+(c) The use or disposition of any additional supply or sup-
+plies of water that may be imported into the basin of the
+North Platte River from the watershed of an entirely sepa-
+rate stream or the return ﬂow from any such supply or
+supplies;
+(d) The apportionment heretofore made by this Court be-
+tween the States of Wyoming and Colorado of the waters of
+the Laramie River, a tributary of the North Platte River,
+down to and including the Wheatland Project.
+The waters
+of the Laramie River below the Wheatland Project are not
+apportioned by this Modiﬁed Decree.
+The only existing
+limitation in this Modiﬁed Decree on Wyoming’s use of the
+Laramie River is provided in paragraph II(d);
+(e) The apportionment made by the compact between the
+States of Nebraska and Colorado, apportioning the water of
+the South Platte River;
+(f) Water diverted for de minimis uses, deﬁned as:
+(1) Ponds with capacities of twenty acre-feet or less for
+purposes other than irrigated agriculture;
+(2) Wells with capacities less than or equal to twenty-ﬁve
+gallons per minute for a single project for purposes other
+than irrigated agriculture; and
+(3) Miscellaneous uses that withdraw or divert less than
+ﬁfty acre-feet per year for a single project other than stock
+watering, domestic or irrigated agriculture.
+XIII. Any of the parties may apply at the foot of this
+Modiﬁed Decree for its amendment or for further relief.
+
+
+Any dispute related to compliance or administration shall be
+submitted to and addressed by the North Platte Decree
+Committee before a party may seek leave of the Court to
+bring such dispute before the Court.
+The Court retains ju-
+risdiction of this suit for the purpose of any order, direction,
+or modiﬁcation of the decree, or any supplementary decree,
+that may at any time be deemed proper in relation to the
+subject matter in controversy.
+Further, the Court retains
+jurisdiction, upon proper showing, to adjudicate all matters
+for which authority or responsibility is granted to the North
+Platte Decree Committee by this Modiﬁed Decree or the
+Final Settlement Stipulation.
+Matters with reference to
+which further relief may hereafter be sought shall include,
+but shall not be limited to, the following:
+(a) The question of the applicability and effect of the Act
+of August 9, 1937 (50 Stat. 564, 595–596), upon the rights of
+Colorado and its water users;
+(b) The question of the effect upon the rights of upstream
+areas of the construction or threatened construction in down-
+stream areas of any projects not now existing or recognized
+in this Modiﬁed Decree;
+(c) The question of the effect of the construction or threat-
+ened construction of storage capacity not now existing on
+tributaries entering the North Platte River between Path-
+ﬁnder Reservoir and Guernsey Reservoir;
+(d) The question of the right to divert at or above the
+headgate of the Casper Canal any water in lieu of, or in ex-
+change for, any water developed by artiﬁcial drainage to the
+river of sump areas on the Kendrick Project;
+(e) Any question relating to the joint operation of Path-
+ﬁnder, Guernsey, Seminoe, Alcova, and Glendo Reservoirs
+whenever changed conditions make such joint operation
+possible;
+(f) Any change in conditions making modiﬁcation of the
+Modiﬁed Decree or the granting of further relief necessary
+or appropriate;
+
+
+(g) Failure of the North Platte Decree Committee, or the
+parties to the North Platte Decree Committee, to act upon,
+resolve or agree on a matter that has been submitted to the
+North Platte Decree Committee.
+XIV. The costs in the original cause were apportioned and
+paid pursuant to previous order of this Court.
+The costs in
+the present cause and the payment of the fees and expenses
+of the Special Master have been apportioned and paid accord-
+ing to previous orders of this Court with which the parties
+agree and the Court hereby conﬁrms.
+XV. The clerk of this Court shall transmit to the Gover-
+nors and Attorneys General of the States of Colorado, Wyo-
+ming, and Nebraska, the Solicitor General of the United
+States of America, and Basin Electric Power Cooperative,
+copies of this Modiﬁed Decree duly authenticated under the
+seal of this Court.
+XVI. Whatever claims or defenses the parties or any of
+them may have in respect to the application, interpretation,
+or construction of the Act of August 9, 1937 (50 Stat. 564,
+595–596), shall be determined without prejudice to any party
+arising because of any development of the Kendrick Project
+occurring subsequent to October 1, 1951.
+XVII. The following provisions are effective for the opera-
+tion of Glendo Dam and Reservoir:
+(a) The operation of the Glendo Project shall not impose
+any demand on areas at or above Seminoe Reservoir which
+will prejudice any rights that the States of Colorado or
+Wyoming might have to secure a modiﬁcation of the Modi-
+ﬁed Decree permitting an expansion of water uses in the
+natural basin of the North Platte River in Colorado or above
+Seminoe Reservoir in Wyoming.
+(b) The operation of Glendo Reservoir shall not affect the
+regime of the natural ﬂow of the North Platte River except
+that not more than 40,000 acre-feet of the natural ﬂow of
+the North Platte River and its tributaries which cannot be
+stored in upstream reservoirs under the provisions of this
+
+
+Modiﬁed Decree may be stored in Glendo Reservoir during
+any water year for disposition by the United States under
+contracts, in addition to evaporation losses on such storage,
+and further, the amount of water that may be held in storage
+at any one time for disposition by the United States under
+contracts, including carryover storage, shall never exceed
+100,000 acre-feet.
+Such storage water shall be disposed of
+in accordance with contracts executed or to be hereafter
+executed, in compliance with federal law, and may be used
+for any beneﬁcial purpose in Nebraska within the Platte
+River basin to the extent of 25,000 acre-feet annually and for
+any beneﬁcial purpose in Wyoming within the Platte River
+basin to the extent of 15,000 acre-feet annually.
+The above
+limitation on the amount of storage of natural ﬂow does not
+apply: (1) to ﬂood water which may be temporarily stored in
+any capacity allocated for ﬂood control in Glendo Reservoir;
+(2) to water originally stored in Pathﬁnder Reservoir which
+may be temporarily re-stored in Glendo Reservoir after its
+release from Pathﬁnder and before its delivery pursuant to
+contract; (3) to Inland Lakes account water temporarily
+stored in accordance with this Court’s Order of April 20,
+1993; (4) to water which may be impounded behind Glendo
+Dam, as provided in the Bureau of Reclamation Deﬁnite Plan
+Report for the Glendo Unit, Wyoming, dated December 1952,
+as revised through December 1959 (Glendo Deﬁnite Plan Re-
+port) for the purpose of creating a head for the development
+of water power; or (5) to water in Glendo Reservoir used for
+the purposes described in paragraph XVII(g).
+(c) Each State may substitute or supplement quantities
+of storage water obtained under other contractual arrange-
+ments with Glendo Reservoir storage supplies.
+Subject to
+contractual arrangements with the United States Bureau
+of Reclamation, including any required compliance with the
+Endangered Species Act, 16 U. S. C. §1531 et seq., and the
+National Environmental Policy Act, 42 U. S. C. §4321 et seq.,
+each State shall also enjoy unrestricted use of its respective
+
+
+storage allocation in Glendo Reservoir, so long as the use is
+below Glendo Reservoir and within the Platte River basin.
+(d) Glendo Reservoir storage water may be consumptively
+used in Wyoming by exchange or other means, upstream of
+Glendo Reservoir under the terms of this paragraph.
+For
+every two acre-feet of Glendo storage water diverted up-
+stream of Glendo Reservoir pursuant to such an exchange,
+all of which may be fully consumed, an additional acre-foot
+of Wyoming’s Glendo storage allocation shall be contracted
+at the same time for storage and release from Glendo Reser-
+voir and passed through Guernsey Reservoir to the North
+Platte River.
+Except as may be modiﬁed in accordance with
+paragraph XVII(e), or by agreement of the parties, such ad-
+ditional water shall be released from the reservoir at the
+same time and at a rate proportionate to the diversion of the
+water contracted for use upstream from Glendo Reservoir
+during the irrigation season.
+During the nonirrigation sea-
+son, due to operational constraints of the outlets at Guernsey
+Reservoir, such additional water will be held in the Glendo
+account and released prior to the ﬁrst of May as may be
+operationally practical.
+Except as provided in paragraph
+XVII(e), once released, such additional water shall be consid-
+ered natural ﬂow water for purposes of the 75/25 apportion-
+ment speciﬁed in paragraph V.
+(e) If the valid exercise or enforcement of federal law
+or authority requires Wyoming or a water user within Wyo-
+ming to cause the release of a portion of Wyoming’s Glendo
+allocation for environmental purposes downstream of Glendo
+Reservoir, the additional water contracted and released
+under paragraph XVII(d) may be dedicated to and used for
+that purpose.
+Any water released pursuant to such require-
+ment shall not be considered natural ﬂow but shall be admin-
+istered and protected as storage water in accordance with
+state law within both Wyoming and Nebraska until used for
+its intended purposes.
+
+
+(f) Storage water in Glendo Reservoir from either State’s
+allocation may be used for ﬁsh and wildlife purposes down-
+stream of Glendo Reservoir under contractual arrangements
+with the United States Bureau of Reclamation, subject to
+approval of Wyoming for contracts for water from Wyo-
+ming’s storage allocation and subject to approval of Ne-
+braska for contracts for water from Nebraska’s storage allo-
+cation.
+Any water released pursuant to such agreement
+shall not be considered natural ﬂow but shall be administered
+and protected as storage water in accordance with state
+law within both Wyoming and Nebraska until used for its
+intended purposes.
+(g) The United States Bureau of Reclamation has the
+discretion to hold water in Glendo Reservoir in excess of
+the limitations stated in paragraph XVII(b) in accordance
+with the operation of the reregulation space in Glendo Res-
+ervoir under Permit No. 5998 Res. and Certiﬁcate of Con-
+struction of Reservoir, as clariﬁed by Order of the Wyoming
+State Board of Control dated November 29, 2000.
+Such
+water may be used, subject to federal law, for the following
+purposes:
+(1) to replace water that passed the Wyoming-Nebraska
+state line in excess of the amount ordered by canals with
+storage contracts below the Wyoming-Nebraska state line
+as the unintended result of physical limitations on the ability
+to control water deliveries;
+(2) to replace evaporation from the storage ownership ac-
+counts of Pathﬁnder Reservoir, Guernsey Reservoir, Sem-
+inoe Reservoir, Alcova Reservoir, and Glendo Reservoir; and
+(3) to supplement the natural ﬂow that is available for
+apportionment pursuant to paragraph V.
+XVIII. The creation of the North Platte Decree Commit-
+tee is hereby approved and ratiﬁed.
+Procedures that have
+been approved and adopted in the Final Settlement Stip-
+ulation may be modiﬁed from time to time by the North
+
+
+Platte Decree Committee if the modiﬁcations are consistent
+with the Modiﬁed Decree.
+In the event of a conﬂict between
+any procedure, the Final Settlement Stipulation and the
+Modiﬁed Decree, the provisions of this Modiﬁed Decree
+shall control.

@@ -1,0 +1,33 @@
+# Later-eight published noncontrolling positions
+
+## J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc. — 2001-12-10
+
+Scalia concurs and joins the Court in full. Chakrabarty already authoritatively construed the general subject-matter language to reject the supposed ambiguity based on living subject matter. The plant-specific statutes therefore cannot merely be used to clarify that language into the opposite categorical exclusion; a claimed change must satisfy the more demanding inquiry into displacement of the existing rule. This canon explanation supplements rather than narrows the Court's eligibility and coexistence rationale.
+
+Stevens dissents, joined by Breyer, and would treat the plant-specific enactments as the exclusive protection for their covered plant categories. The 1930 Act expressly amended the general patent provision, conditioned protection on asexual reproduction and limited the reproduction right; the later variety statute supplied seed-reproduction protection with saved-seed and research limits. In their view, the utility route bypasses those particular congressional choices, and recodification did not undo them. Different eligibility thresholds do not explain why increased originality should eliminate protections Congress deliberately conferred on agricultural users. Chakrabarty's human-made microorganism lay outside those specialized categories, so the dissent preserves its holding and does not exclude all living inventions or independently qualifying processes. The dissent would reverse on the category defense.
+
+Source: records/j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md; published positions are noncontrolling except express joins in the Court opinion.
+
+## Schrader v. Blackwell — 2001-12-10
+
+Stevens dissents, joined by Stone-Zsela, Souter and Ginsburg, and would distinguish verified affiliation from the privileges and official representation of recognized-party nomination. Because the candidate has independently qualified and the party actually nominated him, the State must explain why every accurately qualified affiliation cue must be suppressed. Anderson-Burdick requires that fit even when the burden is less than severe; campaign speech does not eliminate the distinct ballot burden. Norman, Tashjian and Eu give weight to the real association and supported standard bearer. Timmons concerned fusion nomination and does not decide this separate informational burden. The dissent would permit the State to verify affiliation and choose accurate wording, and would recognize demonstrated administrative or effective-governing interests rather than impose a universal preferred-label right. It would remand for bounded prospective relief, preserving party-recognition thresholds and leaving the completed election intact.
+
+Source: records/schrader-v-blackwell_merits_2001-12-10.md; published positions are noncontrolling except express joins in the Court opinion.
+
+## Dusenbery v. United States — 2002-01-08
+
+Stevens dissents, joined by Souter, Ginsburg and Breyer, and agrees that due process does not guarantee receipt. It concludes that the government has not sufficiently demonstrated the final custodial handoff. A confined owner cannot supervise or replace the government's intermediary, so Mullane requires practical attention to how notice reaches that person, including reasonably available safeguards. Evidence of transmission between employees does not adequately establish the final inmate-directed protection. Greene and Mennonite emphasize practical communication; Good and West Covina preserve a meaningful opportunity to respond. The dissent does not infer nonreceipt from the denial or the missing old records, invent a failure rate, demand one particular signature form, or apply later prison practices retroactively. It would set aside the notice judgment and return for the proper consequences of the defect, without treating inadequate notice as proof of ownership or automatic entitlement to the property.
+
+Source: records/dusenbery-v-united-states_merits_2002-01-08.md; published positions are noncontrolling except express joins in the Court opinion.
+
+## Great-West Life & Annuity Insurance Co. v. Knudson — 2002-01-08
+
+Souter dissents, joined by Stevens, Ginsburg and Breyer, and would recognize the asserted return of benefits from a third-party recovery as the traditionally equitable restitution category. The claim is measured by alleged gain rather than the plan-loss compensation rejected in Mertens. A category need have been typically available in equity, not exclusive to equity, and direct possession should not control every restorative theory. Varity supports giving the redress provision practical effect within its limits, while Harris Trust recognizes that appropriate restoration can reach beyond fiduciaries. The government's trust-beneficiary analogy supports that characterization without establishing new property facts. The dissent would remove the categorical remedy bar and return plan interpretation and the actual remedial predicates for adjudication. It would award no reimbursement amount and would not adjudicate absent recipients' property.
+
+Source: records/great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md; published positions are noncontrolling except express joins in the Court opinion.
+
+## Toyota Motor Manufacturing, Kentucky, Inc. v. Williams — 2002-01-08
+
+Chief Justice Stone-Zsela concurs in the occupational-shortcut and mitigation propositions and in setting aside the partial judgment, but rejects a categorical severe-and-permanent threshold. He would assess individualized substantial limitation of important manual functioning through breadth, frequency, duration and practical effect. These are relevant considerations, not separate mandatory elements. Important work-related functions cannot be excluded because they occur at work, and retained household abilities do not automatically defeat coverage. Expected duration informs substantiality without making permanence indispensable. Sutton and Murphy preserve the underlying-impairment inquiry; the difference between working and manual tasks requires correction of the appellate shortcut, not a restriction to only the most pervasive daily-life limitations. His proposed standard still requires proof rather than diagnosis alone, preserves distinct qualification and accommodation issues, and would not grant Toyota automatic judgment. That broader standard is noncontrolling.
+
+Source: records/toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md; published positions are noncontrolling except express joins in the Court opinion.
