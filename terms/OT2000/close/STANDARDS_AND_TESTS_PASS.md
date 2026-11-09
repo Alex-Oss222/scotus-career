@@ -20,7 +20,7 @@ Garrett's Article I and section 5 grounds remain independently sufficient. Mead 
 
 ### Bounded source scope
 
-The Children's Healthcare Record, in both its controlling kernel and Public Projection, refers to the physical-care definition and religious-service/medical-provider ownership and affiliation restrictions without supplying all their terms. The candidate states the bounded constitutional permission, preserves supplied concrete conditions and exceptions, and makes actual institutional eligibility an independently required statutory predicate. It does not purport to supply a complete institutional-eligibility code or subsidy entitlement. A future complete eligibility instruction requires the exact applicable statutory definitions and prohibitions in an authorized controlling source. No missing term was inferred or imported, and no adjudication was changed. This limit does not prevent the bounded constitutional entry; it remains identified for the coordinated audit.
+The Children's Healthcare entry states the material statutory conditions retained by the controlling holdings, including the limits on nonmedical nursing and religious reliance, the prohibition on medical items and services, and the separate medical-provider ownership and affiliation rules and exceptions. Actual institutional eligibility remains an independently required statutory predicate; constitutional permission supplies neither an individual subsidy entitlement nor a finding of program compliance. Medicare's election exceptions and Medicaid's distinct conditions retain their separate scopes.
 
 ## Verification and operator handoff
 
@@ -32,7 +32,7 @@ The candidate uses CRLF, matching the opening register; existing close files rem
 
 Completed pre-navigation substance SHA-256: `ae7156ae3b9ef4c6719d309191b214a3c1755ffff18fca22410dea7e3ebec519`.
 
-Candidate SHA-256: `dd8dd0196e6db3bf68ee9c05c2b843b259f93e31cd447451f752a2c2f2f945af`.
+Candidate SHA-256: `3510075d3c274872c7d63de6ef3abe5e5f8573f96a65d52849ebe95553ea3b24`.
 
 ### Navigation-only title updates
 
@@ -101,7 +101,7 @@ Only `terms/OT2000/close/STANDARDS_AND_TESTS.candidate.md` and this pass note ar
 | 2001-04-18 | `Easley_v_Cromartie_Smallwood_v_Cromartie_merits_2001-04-18.md` | unchanged | Applies the existing design-only injury boundary after trial; ordinary factual review and preserved independent claims remain unchanged. |
 | 2001-04-18 | `Shaw_v_Murphy_merits_2001-04-18.md` | added | Adds the recurring legal-advice tier boundary and the complete carried Turner mechanics adopted by this Record; no application result. Entries: Legal-advice content in inmate correspondence |
 | 2001-04-23 | `Clark_County_School_District_v_Breeden_summary-disposition_2001-04-23.md` | no change | Both grounds are contextual evidentiary applications. Reasonable-belief protection is assumed, and the Record rejects a new temporal cutoff, conclusive prior-plan defense or comprehensive causation rule. |
-| 2001-04-23 | `Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md` | added | Adds limited religion-specific accommodation and recommendation/public-control construction with complete material statutory conditions copied from Record; no finding of current program compliance. The controlling kernel repeats, without completing, the physical-care definition and religious-service/medical-provider restriction references. The candidate therefore conditions constitutional permission on independently established statutory eligibility and does not purport to define the entire institutional-eligibility code; supplied concrete conditions and exceptions remain. Entries: Religious nonmedical-care accommodation and public coverage control |
+| 2001-04-23 | `Childrens_Healthcare_Is_a_Legal_Duty_v_Min_De_Parle_merits_2001-04-23.md` | added | Adds limited religion-specific accommodation and recommendation/public-control construction with material statutory conditions from the Record, including nonmedical care, the religious basis for excluding medical services, separate ownership and affiliation prohibitions and exceptions, and retained election, care and review requirements; no individual entitlement or finding of current program compliance. Entries: Religious nonmedical-care accommodation and public coverage control |
 | 2001-04-24 | `Alexander_v_Sandoval_merits_2001-04-24.md` | replaced | Replaces only the direct-action prohibition and preserves Powell's separate section 1983 holding, limits and finality. Entries: Private enforcement of Title VI disparate-impact regulations |
 | 2001-04-24 | `Atwater_v_City_of_Lago_Vista_merits_2001-04-24.md` | integrated | Additional station-house custody for a fine-only offense |
 | 2001-04-24 | `Sterling_v_Borough_of_Minersville_merits_2001-04-24.md` | incorporated | Adds the operative no-purpose ultimatum to the intimate-information home, preserving distinct completed-publication and coercive-surrender triggers; excludes fact-specific notice and routine Johnson review application. Entries: Official disclosure and compelled surrender of intimate information |
