@@ -1,0 +1,2959 @@
+NATIONAL RAILROAD PASSENGER CORPORATION 
+Petitioner, 
+
+
+Vv. 
+
+
+ABNER J. MORGAN, JR. 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR RESPONDENT 
+
+
+PAMELA Y. PRICE, ESQ. 
+Counsel of Record 
+
+
+PRICE AND ASSOCIATES 
+1617 Clay Street 
+
+
+Oakland, CA 94612 
+(510) 452-0292 
+
+
+HOWARD J. MOORE, JR., ESQ. 
+MOORE AND MOORE 
+
+445 Bellevue Avenue, 2™ Floor 
+Yakland, CA 94610 
+
+(510) 451-0105 
+
+
+WILLIAM MCNEILL, III, Esq. 
+
+JoRY C. STEELE, Esq. 
+
+Employment Law Center, A Project of 
+the Legal Aid Society of San Francisco 
+1663 Mission Street, Suite 400 
+
+
+San Francisco, CA 94103 
+(415) 864-8848 
+
+
+Attorneys for Respondent 
+
+
+Wright Appellate Services 1019 
+(215) 733-9870 @ (800) 507-9020 @ Fax (215) 733-9872 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTIONS PRESENTED 
+
+
+Where unlawful discrimination allegedly occurs within the 
+180/300 day charge filing period, may an employer also be 
+held liable for discrimination occurring prior to the charge 
+filing period if ‘he earlier discrimination was sufficiently like 
+or related to the discrimination occurring with the period that 
+the employer was on notice of the need to investigate those 
+earlier events? 
+
+
+Where a hostile work environment is claimed to exist 
+within the 180/300 day chargevfiiling period, must the trier of 
+fact consider acts of harassment and/or other discrimination 
+occurring outside of the charge filing period which may have 
+helped create the hostile environment in order to determine 
+the employer’s liability? 
+
+
+In a discrimination case, is the trier of fact permitted to 
+consider evidence of the employer’s conduct or acts of har- 
+assment occurring prior to the 180/300 day charge filing pe- 
+riod in order to determine the employer’s motive and intent, 
+or the existence of a hostile work environment with the 
+charge filing period? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+| ___ I CeennnEE i 
+sic ntinnersippcnnginddsnneencntgoneensnmonseent ii 
+TEED cniccrcctecnstetevevcensenscncnsesssssceeees vi 
+STATUTES AND REGULATIONS INVOLVED............... l 
+Te GO BD CUI eccccccccccccccveccccccesecsscccscccccccsece l 
+SUMMARY OF ARGUMENT ..........:::ccesscsesseeeeeseeeeneneeeees 7 
+
+
+I. 
+
+
+TITLE VII REQUIRES COURTS TO PROVIDE RE- 
+DRESS FOR DISCRIMINATION THAT OCCURRED 
+PRIOR TO THE CHARGE FILING PERIOD IF IT IS 
+PART OF A CONTINUING VIOLATION THAT CON- 
+TINUED INTO THE CHARGE-FILING PERIOD .....11 
+
+
+A. THE 180/300 DAY CHARGE FILING PERIOD IS 
+AN EXHAUSTION RULE NOT A LIMITATION 
+ON THE SCOPE OF THE EMPLOYER'S LIABIL- 
+TET dlissiuhintenesnnietisetciidebendatanaitieeciesedhnontaneannensicomancncnn 15 
+
+
+B. THE EXISTENCE OF THE TWO YEAR BACK 
+PAY RULE IN SECTION 706(g) DEMON- 
+STRATES THAT THE CHARGE FILING 
+
+PERIOD DOES NOT LIMIT THE SCOPE OF 
+LITE TT siksindetnnitagesecocseupincutenpetammnecensemseeessecetes 17 
+
+
+PERIOD DOES NOT LIMIT THE SCOPE OF 
+SURI WF enncttncentnstenecncusnessentacnsesenettnsnsienesnenmensenne 17 
+
+
+1. THE TEXT OF SECTION 706(g)(1) COM- 
+PELS THIS INTERPRETATION OF TITLE 
+
+
+2. THE PRIOR DECISIONS OF THIS COURT 
+TREAT THE TWO YEAR RULE, NOT THE 
+180/300 DAY CHARGE FILING PERIOD, 
+AS THE LIMIT ON BACK PAY............... 20 
+
+
+3. BASING THE AMOUNT OF BACK PAY 
+ON THE LENGTH OF THE CHARGE FIL- 
+ING PERIOD WOULD HAVE PECULIAR 
+AND INCONSISTENT 
+TE scnpansitinennsatscensenensnssestane 21 
+
+
+4. NEITHER THE 180/300 DAY CHARGE 
+FILING PERIOD NOR THE TWO YEAR 
+BACK PAY RULE LIMIT THE PERIOD 
+FOR WHICH COMPENSATORY AND/OR 
+PUNITIVE DAMAGES CAN BE 
+
+
+C. THE CONTINUING VIOLATION DOCTRINE 
+IS CONSISTENT WITH THE STATUTORY 
+LANGUAGE IN SECTION 706(e)(1) .............. 25 
+
+
+D. THE CONTINUING VIOLATION DOCTRINE 
+IS EMBODIED IN AN EEOC REGULATION 
+
+
+| | 
+
+
+AND MANAGEMENT DIRECTIVE ENTITLED A. The District Court Erred in Limiting Evidence of 
+
+
+TO CHEVRON DEFERENCE..................:000000+ 26 The Heatile Werk Gaviecament fem Outside the 
+
+
+E. THE INTERPRETATION OF OTHER STAT- 300-Day Charge Filing Period «0.0.0.0... 45 
+ae bn ae ane gl nt B. The District Court Erred in Limiting Evi- 
+THE NTINUIN dence of Intentional Discrimination from 
+
+
+DOCTRINE UNDER TITLE VII ........ccssc00000000 32 Outside the 300-Day Charge Filing Period.......... 46 
+
+
+F. WHERE THE DISCRIMINATION PRIOR TO V. THIS CASE SHOULD BE REMANDED TO 
+THE CHARGE FILING PERIOD IS SUFFI- 
+THE NINTH CIRCUIT TO ALLOW IT TO 
+CIENTLY LIKE OR RELATED TO THE DIS- 
+REVIEW THE DISTRICT COURT'S LIMI- 
+CRIMINATION OCCURRING WITHIN THE 
+TATION AND EXCLUSION OF EVIDENCE 
+PLOYER IS ON NOTICE OF THE NEED TO 
+
+
+SEEnGanE Ga maliadak’ caeinaae he meres ol 48 
+PLAINTIFFS SHOULD BE ALLOWED TO ESE ee Re ons OO 50 
+ESTABLISHLIABILITY FOR THE EARLIER 
+
+i 36 RESPONDENT'S SUPPLEMENTAL APPENDIX.........1sa 
+
+
+Il. IN DETERMINING WHETHER A HOSTILE WORK 
+ENVIRONMENT EXISTED WITHIN THE CHARGE 
+FILING PERIOD, THE TRIER OF FACT MUST CON- 
+SIDER EARLIER ACTS OF HARASSMENT OR 
+OTHER TYPES OF DISCRIMINATION WHICH MAY 
+HAVE CREATED THE HOSTILE 
+
+
+Ill. WHETHER MORGAN BELIEVED PRIOR TO 1995 
+THAT HE WAS THE VICTIM OF UNLAWFUL DIS- 
+CRIMINATION IS IRRELEVANT ................0::00c000000 43 
+
+
+IV. MORGAN IS ENTITLED TO A NEW TRIAL TO DE- 
+TERMINE AMTRAK'S LIABILITY WITHINTHE 
+CHARGE FILING PERIOD ..u..........0.00..0.sscesecrecseseeees 45 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES 
+
+Cases 
+Abramson v. University of Hawaii, 594 F.2d 202 
+
+ES ee 14 
+Agency Holding Corp. v. Malley -Duff & Associate, 
+
+RL Ee 32 
+Albemarle Paper Co. v. Moody, 422 U.S. 405 
+
+PUD dniciunicetmenamnaninnihinenesnietinnatiatepiiamipasmeadion 18, 20 
+Allen v. County of Montgomery, 788 F.2d 1485 
+
+ee CUED antirntnisnnnndinnpsensiniionadunmaintiinecnmnnpenitel 48 
+Anderson v. Zubieta, 180 F.3d 329 (D.C. Cir. 1999).......... 37 
+Ashley v. Boyle's Famous Corned Beef Co., Inc. 66 
+
+ek een 27 
+Batesole v. Stratford, 505 F.2d 804 (6th Cir. 1974) ............. 5 
+Beall v. Abbott Laboratories, 130 F.3d 614 (4th Cir. 
+
+PERU distinscssintcianinnantnidnenitagsininiemneseteniinstuniiigieiennenseinns 36 
+Berry v. Board of Supervisors of L.S.U., 715 F.2d 
+
+ee BD vatereecceneiiasianecempietnaiiniatiltiitetinivenesiend 43 
+Bonner v. Guccione, 178 F.3d 581 (2d Cir. 1999).............. 36 
+Burlington Industries, Inc., v. Ellerth, 524 U.S. 742 
+
+TED cniccrseniviciasencmensisiiniimncatvenieninintnetssiiaaeids 40, 41, 45 
+Burzynski v. Cohen, No. 99-4298, 2001 U.S. App. 
+
+LEXIS 18997 (6th Cir. Aug. 23, 2001) ...........00:0000 36 
+
+
+Cannon v. University of Chi., 441 U.S. 677 (1979)............ 24 
+
+
+vii 
+
+
+Chardon v. Fernandez, 454 U.S. 6 (1981) .......ccccccseeseseeees 
+
+
+Chevron, U.S.A., Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) ......ccccccccccceceeeee 9, 
+
+
+City of Los Angeles v. Manhart, 435 U.S. 702 
+ee en ee 
+
+
+Clark County School District v. Breeden, US. _, 
+Fe CED ccrnctescnsnantereventtnecsnsenetemapeneenenes 
+
+
+Coles v. Havens Realty Corp., 633 F.2d 384 (4th 
+SR ee 
+
+
+Commonwealth of Pa. v. Porter, 659 F.2d 306 (3d. 
+SE a on a ETC eD 
+
+
+Consumer Prod. Safety Comm'n v. GTE Sylvania, 
+ee 
+
+
+Cornwell v. Robinson, 23 F.3d 694 (2d Cir. 1994) ............ 
+
+
+Courtney v. La Salle University, 124 F.3d 499 (3d 
+iis I ell cicrlatincninnianindiinstaiicinisitinntinitiaiateaiassitainiiibiniadatatiegrtaeapass 
+
+
+Cox v. U.S. Gypsum Co., 284 F. Supp. 74 (N.D. Ind. 
+SEITE stiesnncthadaptbesednnntapinineneatesimnactesrpinnitiiinaneancminsnenne 
+
+
+Cuddyer v. The Stop & Shop Supermarket Co., 434 
+Mass. 521, 750 N.E.2d 928 (2001) .0......ccccccsseeseeeeeees 
+
+
+Culpepper v. Reynolds Metals Co., 296 F. Supp. 
+I IEE ciniittreninimepienseintnenatiinstisetaanines 
+
+
+viii 
+
+
+Delaware State College v. Ricks, 449 U.S. 250 
+
+
+GEITTEIE, sncsovcisonsionenntnssenisitmnnnscinszanstuguiinsesetanncsennmsemnsnenes 14 
+Douglass v. Eaton Corp., 956 F.2d 1339 (6th Cir. 
+
+BID <ccsscscstssssasesensnenesssesntsosessasscsenteensnesensesenacsenevesonseed 49 
+EEOC v. Dinuba Med. Clinic, 222 F.3d 580 (9th 
+
+FIED cccnsncenssrecscenpsinnnesesmsnssinistasstinnancssevesensessasieest 27 
+EEOC v. Farmer Bros. Co., 31 F.3d 891 (9th Cir. 
+
+Be cccoccscireciinnsscnnscssnneinenacinentencestimiapabinianenten sitnaieniil 49 
+EEOC v. Gen. Elec. Co., 532 F.2d 359 (4th Cir. 
+
+SITET covccsiecncransuedsiilitiriiidnsininiasanitiaiepamealaninenenatigitegien 38 
+EEOC v. Home Ins. Co., 553 F. Supp. 704 
+
+EET. Dee ccesdithnancanansceinnisdetesniiieiasrincsenmenions 37 
+EEOC v. Keco Indus., 748 F.2d 1097 (6th Cir. 
+
+BD cccennccssncentsnstisesensiitdeassenemesttensiinninsseteciateanieneees 37 
+EEOC v. Mitsubishi Motor Mfg. of Am., 990 F. 
+
+Sump. 1699 ECD. TD. 1GBG) ncccccccccscosccsccccccssscessosesscsees 37 
+EEOC v. Shell Oil Co., 466 U.S. 54 (1984) «0.00... 15, 16 
+EEOC v. W. Publishing Co., 502 F.2d 599 (8th Cir. 
+
+FI ciccictenscngnccemsscstsnnessnestistnansinaatanncentnecetamasneees 38 
+Estes v. Dick Smith Ford, Inc., 856 F.2d 1097 (8th 
+
+ie, GE ccncnteenscaniiasiontionscnescensststeconsnaseivessennessnseseni 48, 49 
+Faragher v. City of Boca Raton, 524 US. 775 
+
+SEP peransccesisusctntecbeapeninatecnnnenpepnnceapmeenercagusesotnentl passim 
+
+
+Fitzgerald v. Henderson, 251 F.3d 345 (2d Cir. 
+OD cciccicsncetiipaneccstitncntnicctaimasaineiiiieriailinictemegsmenians 36 
+
+
+ix 
+
+
+Franks v. Bowman Transportation Co., 424 U.S. 
+
+
+PPT CUTE ‘ccibintecinitacnsabinnsenstbestsinamesencemnermnenscemesenn 20 
+Galloway v. General Motors Service Parts Opera- 
+
+tions, 78 F.3d 1164 (7th Cir. 1996) o0......cccceceeees 27, 43 
+Gardner v. Morris, 72 F.2d 1271 (8th Cir. 1985) .............. 36 
+Glass v. IDS Fin. Servs., Inc., 778 F. Supp. 1029 
+
+NN i el latar ial aati 37 
+Glass v. Phila. Elec. Corp., 34 F.3d 188 (3d Cir. 
+
+Fe aicvsciteinetenticissctniinsinpcalbpasinimmiainintiiscmmiaseminenanienes 49 
+Gross v. United States, 676 F.2d 295 (8th Cir. 1982)......... 36 
+Haithcock v. Frank, 958 F.2d 671 (6th Cir. 1992) ............ 36 
+
+
+Harris v. Forklift Systems, Inc., 510 U.S. 17 (1993) 40, 41, 45 
+Havens Realty Corp. v. Coleman, 455 U.S. 363 
+
+
+UEPTIEE wincdssiiladibshinupinntesepeseatnttonnesnsecteamines 7, 11, 12, 34, 38 
+Heyne v. Caruso, 69 F.3d 1475 (9th Cir. 1995) oo... 49 
+Hicks v. ABT Associates, Inc., 572 F.2d 960 (3rd 
+
+EIR EE eco ae eee a 38 
+Hull v. Cuyahoga Valley Board Of Education, 926 
+
+Ee ee 36 
+Hunter v. Allis-Chalmers Corp., 797 F.2d 1417 (7th 
+
+SEE SSSR Siete oe ee 49 
+Hurley v. Atlantic City Police Department, 174 F.3d 
+
+SEITeETTIIINL: STINE snidlensitaiidiltcipiatahiuitntaiinienantnbenesindeatnionss 49 
+
+
+International Union of Electrical Radio & Ma- 
+chinWorkers v. Robbins & Myers, Inc., 429 
+
+
+RSE ae REE ee SE a 14 
+Jenkins v. Blue Cross Mutual Hospital Insurance, 
+
+me Ey ak | ee 38 
+Jenson v. Eveleth Taconite Co., 130 F.3d 1287 (8th 
+
+I TUE Ssesicsiciininiiticipdninenieciehiadihiieatintdatbatamtiblineiniinaadengasiiciiasial 36 
+
+
+Kaiser Aluminum & Chemical Corp. v. Bonjorno, 
+kN ss a eee 25 
+
+
+Klehr v. A.O. Smith Corp., 521 U.S. 179 (1997) ....32, 33, 34 
+Lang v. Tex. & Pacific Railway Co., 624 F.2d 1275 
+
+
+EE PIII vecrncniesiinninsiisineninnitaneniialeindainenaniniennienmnntnes 5 
+Lee v. Air Products and Chemical, Inc., 36 F.3d 
+
+EE HD sithctintdntscessinenintscnieianemninmninneiicinns 27 
+Lorance v. AT&T Technologies, Inc., 490 U.S. 900 
+
+ERE PT eRe See 14 
+Love v. Pullman Co., 404 U.S. 522 (1972) .......... ..0.0:. 16, 44 
+Macklin v. Spector Freight System Inc., 478 F.2d 
+
+Pe TEED sictienscennncnnetinitibinepinmpngidanen 38 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 
+
+SUI sticiecrineentimencententiiennittienessitiaaisilliaatntiiiniininin 10, 46 
+Melville Confections, Inc v. NLRB, 327 F.2d 689 
+
+EE SHED sehienrissnnsinincesierichaceirseninetinitaiiesiinionsaentanaionnipeinsih 34 
+
+
+Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986) 
+
+
+xl 
+Mills Music, Inc. v. Snyder, 469 US. £53, 164 
+(1985) (citations omitted) ..................ccccceeeeeeeeeees 
+
+
+Morgan v. National R.R. Passenger Corp., 232 F.3d 
+EE ATED cetirrndiatsnsenemsensenneninennendanente 
+
+
+Mullen v. Princess Anne Volunteer Fire Co., Inc., 
+853 F.2d 1130 (4th Cir. 1988) .0.............ceeeeeees 
+
+
+NLRB v. Pennwoven, Inc., 194 F.2d 521 (3d 
+SIE AS ie en Oe ane RCo 
+
+
+National R.R. Passenger Corp. v. Morgan, _ US. 
+ee ht tl eee 
+
+
+O'Rourke v. City of Providence, 235 F.3d 713 (lst 
+Cir. 2001) cossseeneensssssssesnssnessaesntsnerpaneentensenenneenens 
+
+
+Occidental Life Insurance Co. v. EEOC, 432 U.S. 
+PTE niatasidiccbtenitcninabviiiiniinenrermpmedeniatimans 
+
+
+Ong v. Cleland, 642 F.2d 316 (9th Cir. 1981) .......... 
+
+
+Patterson v. McLean Credit Union, 491 U.S. 164 
+I faite his iilenietitieadlaelatalensecicibiaidialiaaaneeaiinate 
+
+
+Perrin v. United States, 444 U.S. 37 (1979) ............. 
+
+
+Phillips v. Smalley Maint. Servs., Inc., 711 F.2d 
+a aa 
+
+
+Reeves v. Sanderson Plumbing Products, Inc., ___ 
+US. —_, FADS. CR. BOT (2D). ...00001 0000000020: ., 
+
+
+Riordan v. Kempiners, 831 F.2d 690 (7th Cir. 1987) 
+
+
+siseie 39 
+
+
+xii 
+Roberts v. N. America Rockwell Corp., 650 F.2d 
+Ey SIE cihisnnecnitbsniccistinatpaiiiniiatnnsmmnounssantitadditons 
+Rotella v. Wood, 528 U.S. 549 (2000) .0........ccccecceeeeeeeeeeeees 
+
+
+Rush v. Scott Specialty Gases, Inc., 113 F.3d 476 
+NG GEE censnanienevidineinniceinsaipapmanemnionmnchiiegtiis 
+
+
+Sanchez v. Standard Brands, Inc., 431 F.2d 455 (Sth 
+Ie, STEED cemsonsetinicctontinitetiesitaginamaiiesditieaninciititicatiinnadanedeaitiitiaste 
+
+
+Scott v. St. Paul Postal Service, 720 F.2d 524 (8th 
+ts SUID eciictintssitenisicineebeenabtiiarctietmaiiidelaniaitnainaneiatentiiaitiieg’ 
+
+
+Sendall v. Boeing Helicopters, 22 F.3d 303 (3d Cir. 
+SOIT issuteitdiianenneriastsiesiniinisbeaiiniecsiasimndiitepsiiivninbaniniiieedailiitiei 
+
+
+Skidmore v. Swift & Co., 323 U.S. 134 (1944) ............ 27, 
+
+
+Taylor v. Home Insurance Co., 777 F.2d 849 (4th 
+Gane TIIIEE -incinsscsessncineninisdtepiatelinittdestianiecainaaiiinitaenaliainiliiaaeiliaans 
+
+
+United Air Lines, Inc. v. Evans, 431 U.S. 553 
+ES EY See eee en eT See 
+
+
+United States Postal Service Board of Governors v. 
+Oe 
+
+
+United States v. Mead Corp., U.S._,21 5S. Ct. 2164 
+EE saticesieiicapecnaintngriiatinlatseataeblladiaineicatiaiaiptiadeabachiniiisiieti 
+
+
+Valentino v. U.S. Postal Service, 674 F.2d 56 (D.C. 
+Sy BE eiieariiosnnieresehsitscineneodianiictsatediniiiammcliaiecsibiliation 
+
+
+Varner v. National Super Markets, Inc., 94 F.3d 
+SED CI cicencinsccicngeentittisssicunsiailianttinavenininniinis 
+
+
+xill 
+
+
+Vimar Seguros y Reaseguros, S.A. v. M/V Sky 
+
+
+ne 24 
+Waltman v. International Paper Co., 875 F.2d 468 
+
+SEG DEINE <pnncnivcnnducdnimetaninnimnnisintpnencaninieninietel 39 
+West v. Gibson, 527 U.S. 212 (1999) .0..........ccccceeeeeeees 15, 31 
+West v. Phila. Electrical Co., 45 F.3d 744 (3d Cir. 
+
+PUI cdevisindetnnesilhidiipintcceinsiipticnsiiaiinibicingustudedesiiiecicantibenkinen 36, 39 
+Zenith Radio Corp. v. Hazeltine Research, Inc., 401 
+
+ED tenticdnnintevnnanttetiiieemmeinnininnents 33 
+Zipes v. Trans World Airlines Inc., 455 U.S. 385 
+
+SEE niininslisicsusievntihdeineiianitiendvntemsestininssanneisiaienetain 10, 16, 45 
+Statutes 
+ee eee 22 
+ee Fe ertencnsetemesapsitmnnsinanenentesningnennnetninesnitel 22 
+Br CIID siresedsciecnnsnintinvieichinmntieconteniniesemiaiantia 22 
+eee SED ectinicinisdnineccepsinmiineteniaconnsscsinapeusunniil 23 
+Se ID .sensscncnvcisinnteeniaiishenieninnnnmenmnnetath 23 
+EH EE Sticnininpidecctcesentiguninssanachiberrerapeuinhenintenniaens 23 
+Bie i IE naipuiisncenprepuninntpengsostbcenntatiensateetitmuniiiianisin 23 
+Be ae tr IID. ctecictinnicsncsesineninasnieneentnnininnienieerimmebinnnetpe 23 
+
+
+BD Te OF BD cernttitecrncsneepereenestavinnntmncnrseneemmmnnesen 9, 33 
+
+
+XIV 
+
+
+SUIT. 6 FOS secectecccecsensncantecssstnssnnisisinastanensenemnseciaten 23 
+PEI © TI cicsccentpnescmessiccsisijuientaititininginniviititaamsiiiiars 23 
+4B ULB... 6 Fc ccrcitnsrctcitincnsetnstncimnnmntinnnn 26 
+GB GEG. © Fe eicrcccrscccstecscensensvsnnmnesnmaanminetneia 26 
+GB UBL. 6 Fe i rccercsecvcccsssvccssssscnsssescateessscnenetiovsnies 26 
+42 U.S.C. § 200D]-S(]) 1)..............2ccccrseccseeceres 7, 17, 21, 25 
+GB ULB. 6 FRCP GD cccceccstctctonsnnensmieternemnsscesees 13, 26 
+GB UBL. 6 FED GRAD ccrcerecvcseccssscnciicsssssccennsssnssssssies 17 
+GBR ULE. © BIG cceresecsecsccsrssscrsrsnsninssnapetinecsnvstncmsanitits 35 
+GB URE. 6 TOG cccicvecesnrentitccecatsneantiitignncatingionsanes 26 
+GB UB. FID ceccctecensscrersstcncvenipanssinctstnensininnivnes 21 
+GO EEE, 0 i cercectrtnscteccttannsiivictevniniinnnaaniannin 21 
+GB UE. © FRB BOI cccccccesecenctessnstenesscssssscosssenmsenapins 28 
+ee, Bh, Br, GI cecctrscnscttscsnccsismnenscrsccssesssensesenciiumstnnsianias 47 
+Beat, BR, BG, GD ceccecsststinncncisescincnncspceneninnie viesiatnisesenamencienne 47 
+adh, BR. BhrG, GOGIID ccescccccccevcnccvsensccssetanscnsserictennmmmansects 47 
+Regulations 
+
+
+ZO CIE. B BGU6. DGG occccccccrccccccvesesssscesossosiosovcccoscsncsenrs 22 
+
+
+XV 
+
+es PEED ccaintinctsonsicianicnitnansitaiiaaninnniccditansicaineiiedll 22 
+es a ED cstnciccovessiiinicnininnabiiaainiende 29 
+el ek. OF I ticincsnceintonnictancsinititinaincanaiitciningiiiiha 22 
+ee © FD ccrcccrestiininititiinsernssninnapiniiniaseiini 28 
+Ge ce & ED crcnicenseittentecprcniiiaiantaiineaiinuniiianss 28 
+Miscellaneous 
+
+Black ’s Law Dictionary (6th ed. 1990).............c.cccc0ceeeeeees 26 
+Management Directive 110, at 
+http://www.eeoc.gov/federal/md1 10.html ..................2000064 30 
+1 EEOC Compliance Manual § 22.6(a) [BNA] (2001).....27 
+EEOC New Compliance Manual § 2................::ccsceseeeseeees 28 
+Webster ’s Ninth New Collegiate Dictionary (1991)......... 26 
+3 Wharton ’s Criminal Law (15th ed. 1995)...........cccc000000 35 
+
+
+STATUTES AND REGULATIONS INVOLVED 
+The full text of the following statutes can be found in Re- 
+spondent’s Supplemental Appendix. 
+15 U.S.C. § 15b. 
+42 U.S.C. § 2000e-5S(e)(1). 
+42 U.S.C. § 2000e-5(g)(1). 
+42 U.S.C. § 2000e-16(b) - (d). 
+29 C.F.R. § 1614.501(a){4). 
+29 C.F.R. § 1614.501(b)(3). 
+29 C.F.R. § 1614.501(c)(1). 
+STATEMENT OF THE CASE 
+
+
+Abner Morgan worked for Amtrak from August 1990 un- 
+til March 1995. Amended Declaration of Abner Morgan 
+(“Morgan Decl.”), Civil Docket (“CD”) No. 106 at 2, 6, 7.' 
+In August 1990, Amtrak was taking over the Oakland Yard 
+from Southern Pacific Railroad. Declaration (“Decl.”) of Joe 
+George, CD No. 98 at 1-2. Most of Morgan’s co_workers 
+were or had been Southern Pacific Railroad employees, in- 
+cluding most of his managers. /d. 
+
+
+' Whenever a declaration or deposition is referenced, it refers to a 
+
+Declaration or deposition filed in the District Court in Opposition 
+
+to Amtrak's Motion for Summary Judgment. The initial numbers 
+refer to the Civil Docket. Page numbers are to the actual pages in 
+
+the document. 
+
+
+2 
+
+
+On February 25, 1991, Morgan was asked to come to 
+a meeting with his supervisor, Jerry Denton, and the facilities 
+manager, Robert Vandenburg. Morgan Decl., CD No. 106 at 
+2. When Morgan refused to attend the meeting without union 
+representation, he was terminated for insubordination in vio- 
+lation of Rule L. /d.. After filing a union grievance, Morgan 
+was reinstated and the termination was reduced to a 10-day 
+suspension. Jd at 2-3. This was the harshest discipline im- 
+posed on any employee at the Yard for a Rule L violation 
+during the period between 1989 and 1992. Trial Tr. at 1651- 
+52. 
+
+
+During his tenure at Amtrak, Morgan was subjected to a 
+barrage of disciplinary charges, even though white employ- 
+ees were rarely, if ever, disciplined for comparable behavior. 
+CD No.93, Deposition (“Dep.”) of Gary A. Biemborn at 147- 
+50; CD No. 93, Dep. of Elwood Conley at 20-24, 28-29; CD 
+No. 93, Dep. of Glenn O. Fisher at 44-46, 50-53; CD No. 93, 
+Dep. of Greg Hourigan at 56-59; Decl. of Robert Ramirez, 
+CD No. 100 at 1-3. Racial epithets and disparate treatment 
+of African American employees were common, particular'y 
+of Morgan. Decl. of Michael Williams, CD No. 91 at 2; 
+Decl. of Meriola Gotthardt, CD No. 99 at 2; Decl. of Arthur 
+Elwood Conley, CD No. 92 at 2; Decl. of Joe George, CD 
+No. 98 at 2; CD No. 93, Conley Dep. at 20-24, 28-29. 
+
+
+Morgan was repeatedly denied access to training and 
+training opportunities. Morgan Decl, CD No. 106 at 3-5. 
+When he asked about receiving further training, he was told 
+he “stood a snowball’s chance in hell of becoming an electri- 
+cian in the Oaklana Yard.” Jd, at 3. He was also assigned 
+demeaning tasks outside of his craft that no white electrician 
+was ever assigned. /d.; Ramirez Decl., CD No. 100 at 1-2. 
+
+
+3 
+
+
+During Morgan’s tenure, the Yard was managed by a 
+small group of managers. Vandenburg, the top official at the 
+Yard, was heard to state that he didn’t want too many blacks 
+as supervisors because of “too many problems.” CD No. 93, 
+Conley Dep. at 23-24. His second-in command, Ray Borge, 
+was referred to by an African-American manager as “the 
+Mark Fuhrman of Oakland.” CD No. 93, Dep. of Raymond 
+P. Borge at 136-37. Borge had a habit of calling African- 
+Americans “shuffle-butt ni-ers” and even performed ‘the 
+shuffle-butt ni-er” dance for his co-supervisors, including 
+Vandenburg. CD No. 93, Conley Dep. at 21, 28-29. Other 
+managers, including Robert Bordenave, Joe Deely and Jerry 
+Denton were overheard using the “N” word at various times. 
+Williams Decl., CD No. 99 at 2; CD No. 93, Conley Dep. at 
+21, 28-29; Gotthardt Decl., CD No. 99 at 2. 
+
+
+Morgan repeatedly sought solace from Amtrak’s EEO of- 
+fice by complaining about the discrimination, retaliation and 
+harassment he experienced at Amtrak’s Oakland Yard. 
+Morgan Decl., CD No. 106 at 5, 7. This only exacerbated 
+the poor treatment he received. Despite his numerous letters 
+to Amtrak’s EEO office, little, if anything, was ever done to 
+change the behavior of these supervisors. Early on, they be- 
+gan a concerted campaign to fire him. 
+
+
+In July 1993, Vandenburg tried to coerce Ken Phillips 
+(Morgan’s coworker) into changing a statement regarding an 
+interaction involving Morgan and a union official at the Yard 
+to reflect negatively on Morgan. CD No. 93 Dep. of Ken- 
+neth Phillips at 60; Trial Tr. at 1043, 1052-1057. Vanden- 
+burg told Mr. Phillips that he could make Mr. Phillips’ life 
+better for him if Mr. Phillips would change his statement, 
+and that “they were going to fire [Morgan] anyways [sic].” 
+
+
+4 
+
+
+Trial Tr. at 1055. Mr. Phillips refused and was 
+thereafter subjected to retaliation himself. Trial Tr. at 1054- 
+55. 
+
+This campaign of harassment and retaliation culminated 
+in Morgan’s termination in 1995 for allegedly “threatening” 
+one of his supervisors. Thereafter, on February 27, 1995, 
+Morgan filed a broad charge with the EEOC alleging a con- 
+tinuing course of discriminatory conduct and retaliation 
+against him and other Black employees. Morgan Decl., CD 
+No. 106. 
+
+
+In a pretrial order, the district court dismissed Morgan’s 
+claims outside the 300 day charge filing period and a number 
+of claims within the relevant time period on summary judg- 
+ment. Order Granting in Part and Denying in Part Defen- 
+dant’s Motion for Summary Judgment, CD No. 119. The 
+district court’s summary judgment order limited the trial to 
+three discrete incidents within the charge filing period. /d. 
+
+The district court further excluded relevant evidence in 
+the Final Pretrial Order. It allowed Morgan to present evi- 
+dence of his work history at Amtrak outside the charge filing 
+period, but limited such evidence to “background” or “con- 
+text.” Final Pretrial Scheduling Order, CD No. 176. During 
+co settable “eee The first limiting 
+instruction came during the voir dire, and continued to be 
+made virtually every time any facts from outside the charge 
+filing period were presented. Trial Tr. at 23-24, 187-88, 
+310-14, 320-21, 431-33 The district court also issued these 
+
+
+5 
+
+
+same limiting instructions as final instructions to the jury.’ 
+Trial Tr. at 2729-31. 
+
+The district court further determined that evidence of dis- 
+crimination or retaliation against people besides Morgan 
+would be determined on a case-by-case basis. Trial Tr. at 
+86-93. A number of witnesses were not permitted to testify 
+to the discrimination they had witnessed against other Afri- 
+can Americans by Morgan’s supervisors. For example, tes- 
+timony by one of Morgan’s coworkers regarding the 
+disparate disciplinary actions levied by Amtrak supervisors 
+against African-Americans was excluded by the trial court 
+because it found the evidence to be “beyond the scope of this 
+case.” Trial Tr. at 922-26. 
+
+
+The district court also severely limited the presentation of 
+the hostile work environment evidence. Order re Hostile En- 
+vironment Claim (“HWE Order”), CD No. 194. It ruled that 
+although a hostile work environment claim remained after 
+the summary judgment order, the only evidence the jury 
+could consider was evidence from within the 300 day charge 
+filing period. Jd. 
+
+During its deliberations, the jury repeatedly submitted 
+questions to the court seeking clarification regarding the evi- 
+dence presented and the instructions given about the evi- 
+dence. Trial Tr. at 2847-49, 2851-59. The questions 
+indicate that th.c jury was totally confused about what weight 
+
+
+? The fact that Morgan’s counsel did not object directly to these 
+final instructions is of no consequence because there were re- 
+peated objections made to these instructions throughout the trial. 
+See Lang v. Tex. & Pac. Ry. Co., 624 F.2d 1275, 1279 (Sth Cir. 
+1980); Batesole v. Stratford, 505 F.2d 804, 808 (6" Cir. 1974). 
+
+
+6 
+
+
+to place on evidence from both inside and outside the 
+charge filing period. First, the jury asked two questions, the 
+first of which was, “Why was the time, May ‘94 through 
+February ‘95, chosen for deliberations? The bulk of the evi- 
+dence has been previous.” Trial Tr. at 2847. In response, 
+the district court invoked the 300 day charge filing period as 
+the limitations period for both liability and evidence. Trial 
+Tr. at 2847-48. 
+
+After receiving the district court’s initial response, the 
+jury deliberated further, but still unclear on the issues sur- 
+rounding the relevant time frame, asked another series of 
+questions. Trial Tr. at 2851. The first question was: “Do 
+plaintiff's complaints about discrimination have to have oc- 
+curred during the time period from May’94 to February 
+*95?” Id. The district court, after further oral argument 
+about what answer to give, responded esssentially not, but 
+again limited their consideration of the evidence to the 300 
+day charge filing period. Trial Tr. at 2858. 
+
+
+The jury, after receiving the answers to its questions, 
+found against Morgan. The verdict was delivered, however, 
+along with a note entitled “Jury Comments on Verdict” 
+which contained five (5) paragraphs. (Jury Comments on 
+Verdict, CD at 240. Paragraph Four of the note commented 
+on the retaliation claim; Paragraph 5 commented on the hos- 
+tile environment claim. 
+
+On appeal, the Ninth Circuit reversed the district court’s 
+interpretation of the continuing violation doctrine, but did 
+not reach the evidentiary issues. Morgan, 232 F.3d at 1017- 
+18. This Court granted review solely on the applicability and 
+interpretation of the continuing violation doctrine. Nat'l R.R. 
+
+
+Se : 
+
+
+Passenger Corp. v. Morgan, _ U.S. __; 121 S. Ct. 2547 
+(2001). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case presents three distinct issues: (1) whether and 
+under what circumstances an employer who engages in a 
+continuing pattern of discrimination which continues into the 
+charge filing period is immune for liability for acts occurring 
+prior to the charge filing period; (2) whether harassment oc- 
+curring prior to the charge filing period may be relied on by 
+a plaintiff to demonstrate the existence of a hostile environ- 
+ment during the charge filing period; and (3) whether proof 
+of intentional discrimination, including retaliation and/or an 
+actionable hostile environment during a charge filing period 
+can be based in part on evidence of discriminatory conduct 
+which occurred prior to the charge filing period. 
+
+
+In Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982), 
+a unanimous Court recognized that ongoing violations of 
+federal anti-discrimination laws must be treated differently 
+from discrete, isolated unlawful acts. The Court recognized 
+that where the plaintiff alleges a continuing violation, con- 
+cerns regarding staleness or prejudice to the defendant are 
+absent or diminished. Simply put, an employer that main- 
+tains a continuing violation neither deserves nor obtains the 
+repose afforded by the statute of limitations. Furthermore, 
+the “trigger” for the statute of limitations must be the last 
+occurrence of the unlawful practice. 
+
+
+The 180/300 day charge filing period in Section 706(e)(1) 
+does not limit the scope of recovery in an otherwise timely 
+Title VII action. 42 U.S.C. § 2000e-5(e)(1). The charge fil- 
+
+
+8 
+
+
+ing requirement is only a part of the administrative exhaus- 
+tion process. Congress’ concern in enacting the procedural 
+steps to secure enforcement of Title VII was to ensure 
+prompt notification to the employer. Although § 706(e)(1) 
+addresses the time limits for filing a charge with the EEOC, 
+it does not purport to delineate the scope of the relief that a 
+court might subsequently provide, or the temporal or sub- 
+stantive range of violations which a court might ultimately 
+address. Where an ongoing violation begins before and con- 
+tinues into the charge filing period, a charge filed within 
+180/300 days of the last occurrence constitutes adequate ex- 
+haustion for the entire violation. 
+
+
+Section 706(g)(1) of Title VII, which allows back pay 
+awards up to two years decisively demonstrates that the 
+charge filing period does not limit the period for which relief 
+can be obtained. This two year back pay rule would be 
+meaningless if the employer’s liability was to be determined 
+solely by reference to the shorter 180/300 day period estab- 
+lished by § 706(e)(1). Basing the amount of back pay on the 
+length of the charge filing period-would have peculiar and 
+inconsistent consequences in the variety of situations where 
+Congress has mandated relief pursuant to the remedial provi- 
+sions of Title VII. 
+
+
+The explicit language in Title VII referring to an “unlaw- 
+ful employment practice” provides a statutory basis for the 
+continuing violation doctrine. Section 706(e)(1) requires 
+that a charge be filed within a specified number of days of 
+the unlawful "practice." Unlike a discrete act of discrimina- 
+tion, like a dismissal, a practice can endure or recur over a 
+period of time. Petitioner’s contention that § 706(e)(1) must 
+always be construed to require the filing of a charge within 
+
+
+9 
+
+
+180/300 days of each “discrete act" without regard 
+to continuing violations is inconsistent with the wording, 
+purpose and intent of the statute. 
+
+
+The EEOC, having assumed the role once played by the 
+Civil Service Commission regarding administrative com- 
+plaints of discrimination by federal employee, has followed 
+and applied the continuing violation doctrine for at least 
+thirty (30) years. The EEOC’s federal sector regulation, 29 
+C.F.R. § 1614.105(c)(1), as well as Management Directive 
+110, which both codify the doctrine, are entitled to defer- 
+ence under Chevron, U.S.A., Inc. v. Natural Resources De- 
+fense Council, Inc., 467 U.S. 837 (1984). 
+
+
+Past interpretations of other statutes are of-little value in 
+construing Title VII’s particular language. The Clayton Act, 
+for example, provides that "[a]ny action . . . shall be forever 
+barred unless commenced within four years after the cause of 
+action accrued." 15 U.S.C. § 15(b). Title VII contains no 
+such express accrual rule. Similarly, the types of recurring 
+violations that occur under Title VII are virtually unknown in 
+NLRA cases and its provisions are materially different with 
+respect to the exhaustion requirements, limiting its preceden- 
+tial value. 
+
+
+The proper formulation of the continuing violation doc- 
+trine derives from the text of Title VII itself and from the 
+purposes of a statute of limitations. Thus, discrimination oc- 
+curring prior to the charge filing period may be redressed 
+where that earlier discrimination is sufficiently similar in 
+method or purpose to the discrimination alleged by the 
+charge to have occurred within the charge filing period that 
+the employer can fairly be said to have been put on notice of 
+the need to inquire into the relevant pre-charge filing period 
+
+
+10 
+
+
+events. This formulation strikes an appropriate 
+balance between the broad remedial-purpose of Title VII and 
+the notice purpose of the filing requirement. Zipes v. Trans 
+World Airlines Inc., 455 U.S. 385, 398 (1982). 
+
+
+Imposing a notice requirement on Title VII would focus 
+exclusively on the desire to encourage prompt filing of 
+claims and conflict with harassment victims’ entitlement to 
+the maximum benefit of the law. A desire to encourage 
+prompt filing of claims cannot undermine the broad remedial 
+purpose of the anti-discrimination law and destroy the bal- 
+ance created by this Court in Zipes. 
+
+
+There is a natural affinity between hostile environment 
+claims and continuing violations. In a hostile environment 
+case, it is the environment itself that constitutes the violation, 
+not the individual acts of harassment which cause that envi- 
+ronment. Pre-charge filing period harassment normally con- 
+tributes to establishing an unlawful hostile environment and 
+must be considered by the trier of fact in every circumstance. 
+The district court erred in holding that a plaintiff, in attempt- 
+ing to show the existence of a hostile environment within 
+300 days of his charge, could not rely on earlier acts of har- 
+assment. This error alone mandates affirmance of the Ninth 
+Circuit’s decision reversing the judgment in favor of Amtrak. 
+
+
+The district court also erred in forbidding the plaintiff to 
+present evidence of, or even to assert during trial that inten- 
+tional discrimination had occurred more than 300 days prior 
+to his Title VII charge. This Court has repeatedly held that 
+iatentional discrimination prior to the charge filing period 
+may be utilized to prove an employer's motive during that 
+period. See McDonnell Douglas Corp. v. Green, 411 U.S. 
+792 (1973). This error also mandates affirmance of the 
+
+
+11 
+
+
+Ninth Circuit’s decision reversing the judgment in 
+favor of Amtrak. 
+
+
+I. TITLE VII REQUIRES COURTS TO 
+PROVIDE REDRESS FOR 
+DISCRIMINATION THAT OCCURRED 
+PRIOR TO THE CHARGE FILING PERIOD 
+IF IT IS PART OF A CONTINUING 
+VIOLATION THAT CONTINUED INTO THE 
+CHARGE-FILING PERIOD 
+
+
+Nineteen years ago, Havens Realty Corp. v. Coleman, 455 
+U.S. 363 (1982) recognized that ongoing violations of fed- 
+eral anti-discrimination laws must be treated differently from 
+discrete, isolated unlawful acts. Havens Realty involved an 
+interpretation of § 812(a) of the Fair Housing Act, which re- 
+quires that certain actions under that statute be commenced 
+within 180 days of the unlawful practice. The Court rejected 
+the defendant’s contention that each instance of an ongoing 
+violation triggered a separate 180 day limitation period. 
+
+
+A unanimous Court held that a “continuing violation” of 
+the Fair Housing Act should be treated differently from one 
+discrete act of discrimination. /d. at 380. In Havens Realty, 
+the Fourth Circuit had permitted recovery for discrimination 
+occurring outside the limitations period by allowing plain- 
+tiffs Coleman and Willis to pursue all of their claims because 
+a single incident fell within the limitations period. Based 
+upon the single incident within the limitations period, the 
+Court held that none of the claims were barred. Jd. 
+
+
+It is conceded that each of the specific acts of the defen- 
+dants except the one of July 13 transpired more than 180 
+days before the complaint was filed. . . . The plaintiffs 
+
+
+12 
+
+
+contend that the “occurrence” is the 
+defendants’ continuing practice of racial steering and that the 
+180 days commences with the last act--in this case the viola- 
+tion of July 13. We agree with the plaintiffs and hold that 
+none of the allegations in the complaint are time-barred by 
+the 180-day provision. 
+
+
+Coles v. Havens Realty Corp., 633 F.2d 384, 391-92 (4th 
+Cir. 1980). 
+
+
+This Court agreed with the Fourth Circuit: [F]or purposes 
+of § 812(a), a “continuing violation" of the Fair Housing Act 
+should be treated differently from one discrete act of dis- 
+crimination. Statutes of limitations such as that contained in 
+§ 812(a) are intended to keep stale claims out of the courts. 
+See Chase Securities Corp. v. Donaldson, 325 U.S. 304, 314 
+(1945). Where the challenged violation is a continuing one, 
+the staleness concern disappears. Petitioners’ wooden ap- 
+plication of § 812(a), which ignores the continuing nature of 
+the alleged violation, only undermines the broad remedial 
+intent of Congress embodied in the Act, see Jones v. Alfred 
+H. Mayer Co., 392 U.S. 409, 417 (1968). Cf Zipes v. Trans 
+World Airlines, Inc., 455 U.S. at 398. 
+
+
+Havens Realty, 455 U.S. at 380 (emphasis added). Notably, 
+the Havens Realty Court cited Zipes v. Trans World Airlines 
+Inc., 455 U.S. 385 (1982), a Title VII case, where it struck a 
+balance between the remedial purpose of the legislation and the 
+notice purpose of the filing requirement. The Court further 
+held: 
+
+
+Applying this principle to the “neighborhood” claims 
+of Coleman and Willis, we agree with the Court of 
+Appeals that the 180-day statute of limitations is no 
+
+
+13 
+
+
+bar. . . . Plainly the claims, as currently alleged, are 
+based not solely on isolated incidents involving the 
+two respondents, but a continuing violation mani- 
+fested in a number of incidents--including at least one 
+(involving Coles) that is asserted to have occurred 
+within the 180-day period. Havens Realty, 455 U.S. at 
+381. Thus, the Court permitted recovery for discrimi- 
+nation occurring prior to the 180-day period because it 
+was part of a continuing violation that extended into 
+the period of limitations, and the action was filed 
+within 180 days of the last occurrence. Id. at 380.° 
+
+
+The decision in Zipes was issued on the same day as Havens 
+Realty on February 24, 1982.‘ In Zipes, the District Court pre- 
+sumed that the violation continued until the airline changed its 
+policy of grounding all female flight cabin attendants who be- 
+came mothers, while their male counterparts who became fa- 
+thers were permitted to continue flying, and granted the plaintiff 
+class’ motion for summary judgment. The Court of Appeals 
+affirmed the summary judgment on liability, but denied relief to 
+
+
+*In his dissenting opinion in United Air Lines, Inc. v. Evans, 431 U.S. 
+553 (1977), Justice Marshall pointed out that: “Title VII recognizes 
+that certain violations, once commenced, are continuing in nature. In 
+these instances, discriminatees can file charges at any time up to 180 
+days after the violation ceases. (They can, however, receive back pay 
+only for the two years preceding the filing of charges with the Equal 
+Employment Opportunity Commission. 42 U.S.C. § 2000e-5(g) 
+(1970 ed., Supp. V).)” Jd. at 561 (Marshall, J., dissenting) (emphasis 
+added). 
+
+‘Havens Realty was heard on December 1, 1981; Zipes was heard on 
+December 2, 1981. 
+
+
+14 
+
+
+most of the class members because they had never filed Title 
+VII charges. A unanimous Supreme Court reversed and agreed 
+that timely filing by each class member is not a prerequisite to 
+class-wide relief in a Title VII lawsuit. 455 U.S. at 393. 
+
+
+Prior decisions of this Court on which Petitioner relies did 
+not involve allegations of continuing violations, or of illegal 
+acts subsequent to the adverse employment decision which con- 
+stituted the basis of the claim. Delaware State College v. Ricks, 
+449 U.S. 250, 252 (1980); Chardon v. Fernandez, 454 U.S. 6, 8 
+(1981); Int'l Union of Elec. Radio & Mach. Workers v. Robbins 
+& Myers, Inc., 429 U.S. 229, 231-232 (1976). 
+
+
+In Ricks, 449 U.S. at 257, the Court specifically held that “{i}f 
+Ricks intended to complain of a discriminatory discharge, he 
+should have identified the alleged discriminatory acts that con- 
+tinued until, or occurred at the time of, the actual termination of 
+his employment. But the complaint alleges no such facts.” 
+Quoting the Ninth Circuit,” the Court held thatthe proper focus 
+_ is on the time of the discriminatory act. Jd. That admonition 
+was repeated by the Court a year later in Chardon v. Fernandez, 
+454 U.S. at 8, and then again, eight years later in 1989, in Lo- 
+rance v. AT&T Technologies, Inc., 490 U.S. 900, 907(1989) 
+
+
+In this case, we urge the Court to hold that under Title VII, as 
+under the Fair Housing Act, ongoing violations of the law must 
+be treated differently than discrete, unrelated acts of discrimina- 
+tion. Consistent with Havens Realty, the appropriate rule for 
+cases such as this one is to allow liability for a continuing viola- 
+tion where there is discrimination prior to the 180/300 day 
+
+
+> See Abramson v. University of Hawaii, 594 F.2d 202, 209 (9th 
+Cir. 1979). 
+
+
+15 
+
+
+charge filing period that is sufficiently similar in method or pur- 
+pose to the discrimination alleged by the charge to have oc- 
+curred within the charge filing period that the employer can 
+fairly be said to have been put on notice of the need to inquire 
+into the relevant pre-charge filing period events. 
+
+
+A. The 180/300 Day Charge Filing Period Is an 
+Exhaustion Rule Not a Limitation on the 
+Scope of the Employer’s Liability 
+
+
+Title VII establishes two deadlines which must be met as a 
+precondition of maintaining an action. First, the plaintiff must 
+have filed a charge within the requisite period--here 300 days-- 
+of the unlawful practice; the filing of that charge commences 
+the Title VII exhaustion process. Second, the plaintiff must file 
+suit within 90 days of receiving a right to sue letter from the 
+EEOC. Neither of these rules delineates the period of time for 
+which relief can be awarded to redress a continuing unlawful 
+practice. 
+
+
+“(A] charge of employment discrimination is not the equiva- 
+lent of a complaint initiating a lawsuit.” EEOC v. Shell Oil Co., 
+466 U.S. 54, 68 (1984). The filing of a charge does not com- 
+mence a formal adjudicatory process. Rather, the charge is the 
+first step of an informal administrative process. The charge 
+calls the existence of an alleged violation to the attention of the 
+EEOC, and sets in motion an investigation. Where the investi- 
+gation leads the Commission to hold that reasonable cause ex- 
+ists to conclude a violation has occurred, Title VII directs the 
+Commission to attempt to conciliate the dispute. The overarch- 
+ing purpose of this administrative process is to resolve employ- 
+ment discrimination claims without the necessity of litigation. 
+See West v. Gibson, 527 U.S. 212, 218-19 (1999). 
+
+
+16 
+
+
+The strictures that might be applied to a complaint in a civil 
+action are not imposed on a Title VII charge. The statutory re- 
+quirements regarding a Title VII charge are liberally construed, 
+in light of Congress’ awareness that these charges would ordi- 
+narily be filed by laymen without the assistance of counsel. 
+Love v. Pullman Co., 404 U.S. 522, 527 (1972). The scope of 
+the investigation the EEOC may pursue is not strictly limited by 
+the terms of the charge. EEOC v. Shell Oil Co., 466 U.S. at 68- 
+74. This Court has declined to require Title VII class members 
+to file any charges at all, reasoning that doing so would impose 
+an undue burden on discrimination victims. Zipes, 455 U.S. at 
+397; cf. Bazemore v. Friday, 478 U.S. 385, 405-06 (1986). 
+
+
+In Occidental Life Insurance Co. v. EEOC, 432 U.S. 355, 
+371-72 n.n.29 & 30 (1977), the Court recognized that Congress’ 
+concern for the need of time limitations in enacting the proce- 
+dural steps to secure enforcement of Title VII was “directed en- 
+tirely to the initial filing of a charge with the EEOC and prompt 
+notification thereafter to the alleged violator.” Title VII re- 
+quires the EEOC to give the employer prompt notice so “that he 
+would have the opportunity to gather and preserve the evidence 
+with which to sustain himself when formal charges are filed and 
+subsequent enforcement proceedings are instituted.” Jd. at 371 
+n.30 (quoting 117 Cong. Rec. 31972 (1971)). 
+
+
+Thus, although § 706(e)(1) addresses the time limits for filing 
+a charge with the EEOC, it does not purport to delineate the 
+scope of the relief that a court might subsequently provide, or 
+the temporal or substantive range of violations which a court 
+might ultimately address. Even with regard to the exhaustion 
+process itself, § 706(e)(1) does not purport to establish a stan- 
+
+
+17 
+
+
+within the charge filing period could fairly be said to have been 
+encompassed by a given charge. See Part F infra. 
+B. The Existence of the Two Year Back Pay Rule in 
+
+
+Section 706(g) Demonstrates That the Charge Filing 
+Period Does Not Limit the Scope of Liability 
+
+
+Section 706(e)(1) provides that "[a] charge under this section 
+shall be filed within" a specified number of days “after the al- 
+leged unlawful employment practice occurred." 42 U.S.C. § 
+2000e-5(e)(1). Section 706(g)(1) provides that “[bJjack pay li- 
+ability shall not accrue from a date more than two years prior to 
+the filing of a charge with the Commission." 42 U.S.C. 
+
+
+§ 2000e-5(g)(1). Since § 706(g)(1) limits back pay awards to 
+no more than two years prior to the filing of the charge, it is 
+clear that the 300 day charge filing period does not limit the pe- 
+riod for which liability can be established. 
+
+1. The Text of Section 706(g)(1) Compels this 
+Interpretation of Title Vii 
+
+
+The temporal scope of the claims for which a plaintiff can 
+obtain back pay in a Title VII action turns on the interrelation- 
+ship between § 706(e)(1) and § 706(g)(1). On the face of Title 
+VIL, it is § 706(g)(1), not § 706(e)(1), which delineates the point 
+in time for which monetary relief in the form of back pay can be 
+provided. It would have been nonsensical for Congress to cre- 
+ate a back pay provision (§ 706(g)(1)) that permits plaintiffs to 
+recover damages from their employer for a time period for 
+which the employer could not be held liable. 
+
+
+Section 706(g)({1) recognizes that back pay losses caused by 
+an unlawful practice could have been occurring for several years 
+
+
+18 
+
+
+prior to the filing of the charge, and provides that the employer 
+will only be liable for those losses suffered within two years be- 
+fore that charge.° Section 706(g)(1) necessarily means that in 
+appropriate cases, a plaintiff can seek to establish liability be- 
+yond the 180/300 day charge filing period since back pay could 
+only “accrue” if it were caused by an actionable violation. For 
+example, back pay could only be awarded for wages lost one 
+year prior to the charge filing if the plaintiff showed that the 
+discriminatory practice was occurring on or before that date. 
+
+
+Sections 706(e)(1) and 706(g)(1) thus address two distinct is- 
+sues that arise where a discriminatory practice spans a period of 
+time. Where a timely charge is filed (i.e., within 180 days of the 
+last occurrence), § 706(e)(1) is satisfied, and ceases to be of 
+relevance. Section 706(g)(1) delineates which injuries caused 
+by that ongoing practice can be redressed, limiting back pay to 
+amounts accruing later than two years before the charge. Read 
+together, these provisions treat an ongoing discriminatory prac- 
+
+
+® Until now, employers filing the amicus briefs in this Court had re- 
+peatedly insisted that the two-year rule in § 706(g)(1) governed the 
+beginning of the back pay period. Brief on Behalf of the Chamber of 
+Commerce of the United States at 36 n.53, Albemarle Paper Co. v. 
+Moody, 422 U.S. 405 (1975) (No. 74-389) (“[W]hen an employer is 
+charged with a Title VII violation, his potential liability for back pay 
+extends backwards two years prior to the date the charge is filed with 
+the Commission. (§ 706g).”); Brief of the Texas Association of Busi- 
+ness at 12 n.16, Occidental Life Ins. Co. v. EEOC, 432 U.S. 355 
+(1977) (No. 76-99) (“[BJack pay liability on all issues raised in the 
+EEOC’s lawsuit extends back to March 9, 1969, two years prior to the 
+filing of the original charge.”); See also Brief for Petitioner at 17 n.29, 
+Occidental (No. 76-99) (§ 706(g) provides a limitation on back pay 
+
+
+liability of two years prior to the filing of the charge). 
+
+
+19 
+
+
+tice as an ongoing violation, only part of which need occur 
+within the charge filing period in order for the entire period of 
+violation (subject to the two year back pay rule) to be subject to 
+judicial redress. 
+
+If, as Petitioner asserts, § 706(e)(1), means that a plaintiff 
+cannot obtain redress for discriminatory practices occurring 
+more than 300 days (or less) before the filing of the charge, the 
+two year limitation in § 706(g)(1) would be meaningless. Rec- 
+ognizing that § 706(e)(1) cannot be construed in a manner 
+which renders the two-year rule surplusage, the United States 
+contends the § 706(g)(1) two year rule would still have some 
+application even if § 706(e)(1) established a shorter 300 (or 
+less) day limitation. The examples hypothesized by the United 
+States are so implausible, however, as to confirm that its pro- 
+posed interpretation of § 706(e)(1) must be mistaken.’ 
+
+
+The existence, legislative history and manifest meaning of § 
+706(g)(1) make clear that the charge filing deadlines of § 
+
+
+’The United States urges, first, that the two year limitation would be 
+important in a case in which charge filing period had been tolled, so 
+that a charge about a long-past violation (e.g., a dismissal 4 years ear- 
+lier) would nonetheless be timely under § 706(e)(1). Br. for the 
+United States at 25. This explanation is an academic exercise in the 
+barely conceivable. For the two year rule to have any impact, the 
+charge filing period would have to be tolled for at least 550 days in a 
+non-deferral state (2 years minus 180 days), and no less than 430 days 
+in a deferral state (2 years minus 300 days). The government has not 
+identified any case in which this'unlikely circumstance occurred ei- 
+ther before or after the adoption in 1972 of § 706(g)(1). 
+
+
+20 
+
+
+706(e)(1) do not themselves limit the employer’s liability.* 
+Even § 706(g)(1) does not declare that a continuing violation is 
+not actionable to the extent that it occurred more than two years 
+before a charge. Rather, § 706(g)(1) only bars a particular type 
+of remedy--back pay--to redress continuing violations originat- 
+ing more than two years before a charge. 
+
+
+2. The Prior Decisions of this Court Treat the Two Year 
+Rule, Not the 180/300 Day Charge Filing Period, as the 
+Limit on Back Pay 
+
+
+The past decisions of this Court have repeatedly read § 
+706(g)(1) to mean that the two year rule defines the point in 
+time at which back pay can begin to accrue. In Franks v. Bow- 
+man Transportation Co., 424 U.S. 747, 791 n.9 (1976); Albe- 
+marle Paper Co. v. Moody, 422 U.S. 405, 412 n.13 (1975). 
+
+
+In the government’s view, Congress’ struggle over the lan- 
+guage of § 706(g)(1) was pointless, since the shorter § 706(e)(1) 
+charge filing period was actually the controlling provision. The 
+Court’s understanding is obviously inconsistent with Petitioner's 
+assumption that back pay awards have always been limited by 
+the charge filing period, which prior to 1972 was as short as 90 
+days. 
+
+
+In City of Los Angeles v. Manhart, 435 U.S. 702, 722 n.42 
+(1978), in describing the period of time that would be encom- 
+passed by an award of monetary relief, the Court used the two 
+year period in § 706(g) rather than the charge filing 
+
+
+period. 
+
+
+*The legislative history is described in the amicus brief of the NAACP 
+Legal Defense Fund filed in this case. 
+
+
+21 
+
+
+3. Basing the Amount of Back Pay on the Length of the 
+Charge Filing Period Would Have Peculiar and 
+Inconsistent Consequences 
+
+
+Petitioner and the United States assume that the charge filing 
+period is simply and always a standard 300 days; were that the 
+case all individuals who are victims of the same discrimination 
+and who file charges on the same date would receive the same 
+amount of back pay. In fact, the applicable charge filing period 
+in non-federal sector Title VII cases depends, in the first in- 
+stance, on whether the alleged violation occurred in a state or 
+political subdivision which has its own statute or ordinance pro- 
+hibiting employment discrimination, a so-called "deferral juris- 
+diction." Outside of deferral jurisdictions the charge filing 
+period is 180 days. 42 U.S.C.§ 2000e-5(e)(1). In a deferral 
+jurisdiction the charge filing period can be as much as 300 days. 
+Within deferral states, the actual period is often less. Aggrieved 
+individuals must file a charge with the EEOC within 300 days 
+of the last occurrence of the discriminatory practice, or within 
+30 days after termination of proceedings by the state or local 
+agency, whichever is less. /d. If the state or local proceedings 
+are not terminated before the 300th day, the complainant can 
+only file a charge with EEOC if he or she has earlier com- 
+menced proceedings with the state or local agency and waited 
+for 60 days. The combined effect of these provisions is to cre- 
+ate four different rules in deferral states. 
+
+
+With regard to the other statutory schemes which incorporate 
+Title VII remedies, it would often be impracticable to use a 
+charge filing period to determine the temporal scope of back 
+pay. In 1972, Congress amended Title VII to extend its protec- 
+tions to most employees of the executive branch. 42 U.S.C. § 
+
+
+22 
+
+
+2000e-16. But § 717 of Title VII, unlike § 706(e)(1), did not 
+establish any statutory charge filing deadline; rather, it author- 
+ized the Civil Service Commission (now the EEOC) to establish 
+an administrative complaint process. 
+
+
+The step most analogous to a Title VII EEOC charge in this 
+process is the filing of a "complaint" under 29 C.F.R. § 
+1614.106. The deadline for filing such a complaint is only 15 
+days, and it runs from the receipt of notice that pre-complaint 
+counseling has failed, not from the date of the discriminatory 
+practice. 29 C.F.R. § 1614.105(d). The deadline triggered by 
+the discriminatory practice itself is a 45-day period to contact on 
+EEO Counselor, a step which bears no resemblance to the filing 
+of a charge. 29 C.F.R. § 1614.105(a)(1). Both of these periods 
+are dramatically shorter than the Title VII charge filing periods 
+applicable to workers outside the federal government. Nonethe- 
+less, § 717 makes § 706(g) expressly applicable to any civil ac- 
+tion brought by such a federal employee. 42 U.S.C. § 2000e- 
+16(d). 
+
+
+The 1991 Civil Rights Act for the first time applied to certain 
+state and local political appointees the substantive protections of 
+Title VII, 2 U.S.C. § 1220(b)(1),” and established for them a 
+separate remedial process. 2 U.S.C. § 1202. Complaints must 
+be filed with the EEOC within 180 days of the alleged violation, 
+
+
+*This provision applies to a member of an elected official's “personal 
+staff,” an employee who serves an elected official “on the policymak- 
+ing level,” or one who serves an elected official “as an immediate ad- 
+visor with respect to the exercise of the constitutional or legal powers 
+of the office.” 2 U.S.C. § 1220(a). 
+
+
+23 
+
+
+but under this statutory scheme, those complaints initiate a for- 
+mal adjudicative process. There is no pre-complaint concilia- 
+tion process analogous to a Title VII EEOC charge. Again, 
+remedies are governed by § 706(g) of Title VII. 
+
+
+Under the Congressional Accountability Act of 1995, the 
+antidiscrimination prohibitions of Title VII apply to most legis- 
+lative employees. 2 U.S.C. § 1311(a)(1). There is no step com- 
+parable to the filing of an EEOC charge. Aggrieved 
+congressional employees must first request counseling from: the 
+Office of Compliance. 2 U.S.C. § 1402. Once counseling has 
+terminated, the worker has 15 days to request mediation by that 
+Office. 2 U.S.C. § 1403. At the end of the mediation period, 
+the worker has 90 days to file suit in federal district court. 
+
+
+2 U.S.C. § 1404. The remedy under the Act is "such remedy 
+as would be appropriate if awarded under section 706(g) of the 
+Civil Rights Act of 1964." 2 U.S.C. § 1311(b)(1)(A). 
+
+
+Finally, § 501 of the Rehabilitation Act forbids discrimina- 
+tion on the basis of disability in federal employment. 29 U.S.C. 
+§ 791. Although § 505 requires an aggrieved individual to 
+complain before bringing a civil action, it establishes no dead- 
+lines for the filing of such complaints. Section 505 of the Act 
+provides that the remedies for any violation will be those pro- 
+vided by §§ 706(f)-(k) of Title VII. 29 U.S.C. § 794a. 
+
+
+The evident purpose of Congress in incorporating the reme- 
+
+
+-dial provisions of § 706(g) into other statutes was to provide the 
+
+
+same remedies that would be accorded in an action brought un- 
+der Title VII. If the employer’s liability for back pay is gov- 
+erned by the two-year rule in § 706(g), the remedy afforded to 
+claimants who file timely charges will be the same, regardless 
+
+
+24 
+
+
+of the statutory scheme under which they proceed. If, as Peti- 
+tioner and the United States imply, the employer’s liability for 
+back pay is limited to the charge filing period, the remedies will 
+vary widely. 
+
+
+4. Neither the 180/300 Day Charge Filing Period Nor the 
+Two Year Back Pay Rule Limit the Period for Which 
+Compensatory And/or Punitive Damages Can Be 
+Awarded 
+
+
+Congress’ treatment of compensatory and punitive damages 
+awards under Title VII is expressly, and deliberately, different 
+than that of the back pay awards. Congress did not impose a 
+temporal limit on compensatory and punitive awards in the 1991 
+amendments, despite its knowledge of the two-year time limita- 
+tions on back pay awards. Cannon v. Univ. of Chi., 441 U.S. 
+677, 696-98 (1979) (stating that Congress is presumed to know 
+the existing laws and their interpretation while it is drafting new 
+legislation); see also Vimar Seguros y Reaseguros, S.A. v. M/V 
+Sky Reefer, 515 U.S. 528, 554 (1995). 
+
+
+The legislative history of § 706(g)(1) makes clear that the 
+primary concern of Congress in adopting the two year rule was 
+to protect employers from liability for back pay accruing over 
+many years or even decades. When Congress authorized 
+awards of compensatory and punitive damages in 1991, it rec- 
+ognized that such damages posed a similar risk of large awards. 
+With regard to compensatory and punitive damages, Congress 
+opted to solve the problem in a different manner, by imposing 
+caps on the total amount of such awards. 
+
+
+A temporal limitation on compensatory and punitive awards 
+would often be impracticable as well as ineffective. The pain 
+
+
+25 
+
+
+and suffering inflicted, for example, by sexual harassment can- 
+not in any meaningful manner be allocated to particular months 
+or weeks, and thus, could not effectively be limited by a rule 
+such as § 706(g)(1) or § 706(e)(1). Clearly, the courts are not at 
+liberty to add the very limitation which Congress declined to 
+utilize. 
+
+
+C. The Continuing Violation Doctrine Is Consistent 
+with the Statutory Language in Section 706(e)(1) 
+
+
+Petitioner urges this Court to hold that Title VII’s charge-° 
+filing requirement is triggered by each separate occurrence of 
+any “discrete act” of discrimination.'® Section 706(e)(1), how- 
+ever, does not require the filing of a charge within 180 or 300 
+days of each “discrete act.” Rather, the actual language in Title 
+VII requires the filing of a charge within the specified number 
+of days after an “unlawful employment practice” and provides a 
+statutory basis for the continuing violation doctrine. 42 U.S.C. 
+2000e-5(e)(1) (emphasis added). 
+
+
+This Court has repeatedly recognized that “[t}he starting 
+point for interpretation of a statute ‘is the language of the statute 
+itself. Absent a clearly expressed legislative intention to the 
+contrary, that language must ordinarily be regarded as conclu- 
+sive.’” Kaiser Aluminum & Chem. Corp. v. Bonjorno, 494 U.S. 
+827, 835 (1990) (quoting Consumer Prod. Safety Comm'n vy. 
+GTE Sylvania, Inc., 447 U.S. 102, 108 (1980)). When looking 
+to the explicit language of a federal statute, the words therein 
+should be “interpreted as taking their ordinary, contemporary, 
+common meaning,” unless those words are otherwise defined. 
+Perrin v. United States, 444 U.S. 37, 42 (1979). When constru- 
+
+
+'° Petitioner’s Brief at 2, 10, 11, 13 n.3, 14, 15 n.5, 22, 29. 
+
+
+26 
+
+
+ing the statute, “it is appropriate to assume that the ordinary 
+meaning of the language that Congress employed accurately 
+expresses the legislative purpose.” Mills Music, Inc. v. Snyder, 
+469 U.S. 153, 164 (1985) (citations omitted). 
+
+
+Title VII repeatedly refers to “unlawful employment prac- 
+tice(s/” in contexts where it clearly refers to an ongoing viola- 
+tion. 
+
+
+Nowhere does Title VII use the language “discrete acts” of 
+discrimination or any equivalent language. According to both 
+lay and legal definitions, the term “practice” includes a course 
+of recurring conduct, rather than only singular, discrete acts. 
+Webster's Ninth New Collegiate Dictionary 923 (1991) (defin- 
+ing “practice” as “a repeated or customary action”); Black's 
+Law Dictionary 1172 (6th ed. 1990) (defining “practice” as 
+“(rjepeated or customary action; habitual performance; a suc- 
+cession of acts of similar kind” (emphasis added)). 
+
+
+D. The Continuing Violation Doctrine Is Embodied 
+in an EEOC Regulation and Management Di- 
+rective Entitled to Chevron Deference 
+
+
+The Solicitor General notes in passing that the EEOC dis- 
+agrees with the position set forth in the government's brief. The 
+United States mentions only a single unreported April 2001 de- 
+cision by the EEOC. Br. for the United States at 23. This pass- 
+
+
+"For example, § 706(g)(1) itself authorizes relief where an employer 
+is “engaging in an unlawful employment practice,” a phrase which 
+necessarily refers to ongoing conduct rather than a single discrete act. 
+42 U.S.C. § 2000e-5(g); see also 42 U.S.C. §§ 2000e-2(h), 2000e-2(i), 
+2000e-2(k), 2000e-6(a). 
+
+
+27 
+
+
+ing reference -eriously understates the longevity, consistency 
+and legal sign. ance of the Commission's position. 
+
+
+For more than thirty years, the EEOC has maintained that 
+certain recurring discrimination, which it refers to as "continu- 
+ing violations," warrant distinct treatment for Title VII limita- 
+tions purposes. The EEOC has consistently taken the position, 
+both in its own cases and in amicus briefs, that redress can be 
+provided for pre-charging period discrimination that is part of a 
+continuing violation and that the two year back pay rule in § 
+706(g)(1) applies to such violations.'® The EEOC's understand- 
+ing of the law is codified in its Compliance Manual.'* The 
+
+
+” Culpepper v. Reynolds Metals Co., 296 F. Supp. 1232, 1235 n.1 
+(N.D. Ga. 1968); Cox v. U.S. Gypsum Co., 284 F. Supp. 74, 77 (N.D. 
+Ind. 1968). 
+
+
+"°F.g., Brief of the EEOC as Appellee at 42-46, EEOC v. Dinuba 
+Med. Clinic, 222 F.3d 580 (9th Cir. 2000) (No 98-16454) (sexual har- 
+assment a continuing violation); Brief of the EEOC as Amicus Curiae, 
+Ashley v. Boyle’s Famous Corned Beef Co., Inc., 66 F.3d 164 (8th 
+Cir. 1995) (No. 94-2174) (discrimination in salary and annual raises a 
+continuing violation); Brief of the EEOC as Amicus Curiae, Lee v. Air 
+Prods. and Chem., Inc., 36 F.3d 1093 (4th Cir. 1994) (No. 94-1119) 
+(repeated denials of promotion a continuing violation); Brief of the 
+EEOC as Amicus Curiae, Galloway v. Gen. Motors Serv. Parts Op- 
+erations, 78 F.3d 1164 (7th Cir. 1996) (No. 94-3993) (sexual harass- 
+ment a continuing violation); Brief of EEOC as Amicus Curiae, 
+Sendall v. Boeing Helicopters, 22 F.3d 303 (3d Cir. 1994) (No. 93- 
+1814) (salary discrimination as a continuing violation). 
+
+os 1 EEOC Compliance Manual § 22.6(a) [BNA] (2001) 
+(“When cause has been found andthe relief to which aggrieved per- 
+sons are entitled includes back pay, back pay should be sought for a 
+period from the [date of violation] or the beginning of a continuing 
+
+
+28 
+
+
+Manual includes a detailed explanation of the types of practices 
+which the Commission believes constitute a continuing viola- 
+tion.'> The EEOC's construction is, at the least, entitled to sub- 
+stantial deference under Skidmore v. Swift & Co., 323 U.S. 134 
+(1944). 
+
+
+Congress, however, has accorded to the EEOC an even more 
+authoritative role with regard to the application of Title VII to 
+federal employees or applicants. Title VII expressly accords to 
+the EEOC responsibility for adopting legislative regulations 
+governing claims of discrimination in federal employment. 42 
+U.S.C. § 2000e-16(b). That responsibility includes assuring that 
+victims of discrimination in federal employment receive the 
+remedies provided by § 706(g)(1). 42 U.S.C. § 2000e-16(d). 
+
+
+The Commission's regulations require that in any case in 
+which discrimination has been found, the victim must be 
+
+
+awarded "[p]ayment . . . on a make whole basis for any loss of. 
+
+
+earnings the person may have suffered as a result of the dis- 
+crimination,” 29 C.F.R. § 1614.501(a)(4) (emphasis added), 
+subject only to one limitation, that "back pay liability under title 
+VII . . . is limited to two years prior to the date the complaint 
+was filed." 29 C.F.R. § 1614.501(c)(1). In promulgating these 
+
+
+violation (but not more than two years before the charge filing date or 
+before the ADA applies) plus the period from the charge filing date 
+until an agreement is executed.”); Jd. § 22.5(a) (Where class discrimi- 
+nation is indicated, “[{i]f the alleged violation would constitute a con- 
+tinuing violation . . . identify persons for whom remedial relief may 
+be sought back to the beginning of the period of the violation. . . . 
+Generally, the period should extend back at least 2 years before the 
+filing of the charge.”). 
+
+ad EEOC New Compliance Manual § 2, part 2-IV(C)(2). 
+
+
+29 
+
+
+federal sector regulations, the EEOC has twice emphasized that 
+it regards discrimination victims as entitled to back pay from the 
+date two years prior to the date when the formal administrative 
+process was initiated.'® 
+
+
+e The Commission's comments were made in connection with 
+
+
+the provision, now found in 29 C.F.R. § 1614.204(1)(3), requiring in 
+the case of class complaints remedial action for any “policy or prac- 
+tice” in existence within “45 prior to [complainant's] initial contact 
+with the Counsellor.” Individuals aggrieved by alleged discrimination 
+must initiate the administrative process by contacting a counsellor 
+within 45 days of the discrimination. 
+
+When the Commission promulgated the 1992 version of these 
+regulations, it explained: 
+“[t}he 45-day time limit in this section defining the period for which 
+class-wide discrimination can be found is not intended to limit the 
+two-year time period for which back pay can be recovered by a class 
+member.” Federal Sector Equal Employment Opportunity, 57 Fed. 
+Reg. 12, 644 (Apr. 10, 1992). The Commission made this point again 
+when it amended the regulations two years ago. 
+
+
+“(T]he 45-day time limit in section 204(1)(3) defining 
+the period for which class-wide discrimination can be 
+found is not intended to limit the two-year time period for 
+which back pay can be recovered by a class member. . . . 
+Under the continuing violation theory, moreover, incidents 
+occurring earlier than 45 days before contact with the 
+counselor must also be remedied provided that the initial 
+contact with the counselor was timely and the earlier inci- 
+dents were part of the same continuing policy or practice 
+found to have been discriminatory. That is, where contact 
+with the counselor is timely as to one of the events com- 
+
+
+30 
+
+
+The Commission has also issued pursuant to its § 717 
+authority an order, Management Directive 110, instructing fed- 
+eral agencies how they are to administer the administrative 
+complaint process.'’ Management Directive 110 expressly re- 
+quires agency officials to treat complaints of continuing viola- 
+tions differently than charges of discrete violations: 
+
+[Incidents that occurred outside the 45-day time limit 
+should be investigated and remedied to the extent that 
+they are sufficiently interrelated to a timely raised in- 
+cident such that a continuing violation has been estab- 
+lished. A continuing violation is a series of related 
+acts, one or more of which falls within the limitations 
+period, that are tied together with a common theme 
+uniting the alleged discriminatory acts into a continu- 
+ous pattern. When determining if a continuing viola- 
+tion exists, the following information is relevant to, 
+but not necessarily dispositive of, the issue: whether 
+the same officials were involved in the incidents, 
+whether the incidents were similar in nature, and 
+whether they recurred or were of a more isolated na- 
+ture.(Ch. 5, part III(A)(3)). Both Management Direc- 
+
+
+tact is timely as to the entire violation.” 
+Federal Sector Equal Employment Opportunity, 64 Fed. Reg. 37,653 
+(July 12, 1999). 
+
+
+- See Management Directive 110, at 
+http://www.eeoc.gov/federal/md 1 10.htm!. 
+
+
+31 
+
+
+tive 110'* and the EEOC federal sector regulations 
+have the force of law and are binding on federal agen- 
+cies, including the Department of Justice, when they 
+implement the Title VII administrative process. The 
+brief submitted by the United States in this action ap- 
+pears to be an unacknowledged attack on the validity 
+of the regulations and Management Directive 110. 
+
+
+Under § 717(c) of Title VII, the Commission also engages in 
+formal adjudication of appeals from agency, decisions regarding 
+discrimination complaints by federal employees. See, e.g., West 
+v. Gibson, 527 U.S. at 216. The Commission's invocation of the 
+two year back pay is reflected as well in a large body of deci- 
+sions adjudicating the discrimination claims of federal employ- 
+ees. See Supplemental Appendix. Agencies litigating claims 
+before the EEOC expressly rely on the eg ty owe 
+ing the proper scope of a remedial order.'? The EEOC federal 
+
+
+- The transmission memorandum accompanying the issuance of 
+the 1999 revised Directive noted, “The Commission's instructions are 
+directive in nature, and heads of federal agencies are responsible for 
+prompt and effective compliance with Commission Management Di- 
+rectives . . . . Since the commission's guidance is binding in nature, 
+federal agencies are required to comply with it.” Memorandum to the 
+Heads of Federal Agencies (Oct. 28, 1999). 
+
+= E.g., Agency’s Request for Reconsideration at 5, Stone v. 
+O’Neill (Appeal No. 01A-02-572) (“The two-year period for which 
+back pay may be awarded begins on the date the Complainant files a 
+formal complaint with the commission. . .. Complainant filed the 
+EEOC complaint on December 18, 1997. . . . Therefore, Complainant 
+is not entitled to back pay [for the period before] December 18, 
+
+
+1995.”). (Bureau of the Publi: Debt, Department of the Treasury.) 
+
+
+32 
+
+
+sector adjudications are also replete with applications of the 
+Commission’s view of the continuing violation doctrine. 
+
+The EEOC federal sector regulations, Management Di- 
+rective 110 and the interpretation of Title VII embodied in the 
+Commission's formal adjudications, are all entitled to deference 
+under Chevron, U.S.A., Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837, 844 (1984). A similar degree of 
+deference is accorded where an agency elucidates a statute 
+through formal adjudication. United States v. Mead Corp., _ 
+US. ___ , 121 S. Ct. 2164, 2172-73 n.11 (2001). Certainly, 
+Chevron deference is warranted on both grounds. 
+
+
+E. The Interpretation of Other Statutes Does Not 
+Preclude Recognition of the Continuing Violation 
+Doctrine under Title VII 
+
+
+Petitioner relies heavily on this Court's decisions regarding 
+ongoing violations of the Clayton Act and RICO, insisting that 
+they establish a general rule of law__ “the accrual rule”--under 
+which the statute of limitations runs separately on each occasion 
+when a violation causes actionable injury. Pet. Br. 11, 20, 22. 
+The United States suggests these cases establish a general prin- 
+ciple of law regarding the legal definition and significance of a 
+“continuing violation." Br. for the United States at 12. The 
+RICO cases in question turn on the limitations rules for Clayton 
+Act cases, since RICO itself has no limitations period, and the 
+decisions of this Court have concluded that RICO cases should 
+be governed by the standard for Clayton Act claims.”° 
+
+
+- Klehr v. A.O. Smith Corp., 521 U.S. 179, 188-89 (1997); 
+
+
+Agency Holding Corp. v. Malley -Duff & Assoc., Inc., 483 U.S. 143, 
+156 (1987). Klehr also rejected the “last predicate act” rule because 
+
+
+33 
+
+
+The underlying Clayton Act cases indeed hold, as Petitioner 
+suggests, that the accrual of each claim is of critical importance; 
+whenever a statutory violation causes a discrete injury, a cause 
+of action accrues with regard to that harm, and an action must 
+be commenced within four years of the date of accrual. Zenith 
+Radio Corp. v. Hazeltine Research, Inc., 401 U.S. 321, 338 
+(1971). An ongoing violation of the Clayton Act results in a 
+series of actionable injuries; each of those claims in turn is ex- 
+tinguished if no action is commenced with four years’ after the 
+date of accrual. But the Clayton Act accrual rule (and the RICO 
+cases which incorporate it by reference) derives not from any 
+general principle of jurisprudence, but from the specific terms 
+of the Clayton Act limitations provision: ; 
+
+Any action to enforce any cause of action under . . . this title 
+
+
+shall be forever barred unless commenced within four years af- 
+ter the cause of action accrued. 
+
+
+15 U.S.C. § 15b (emphasis added). The date of accrual is of 
+controlling importance under the Clayton Act because the stat- 
+ute expressly so provides. The wording of § 15b expressly de- 
+
+
+under it the limitations period could be extended for several decades. 
+521 U.S. at 187-88; see Rotella v. Wood, 528 U.S. 549, 554 (2000). 
+That reasoning is clearly inapplicable to Title VII, since § 706(g)(1) 
+limits pre-charge back pay to two years, half the Clayton Act limita- 
+tions period. 
+
+= The four year rule in Clayton Act and RICO cases reflects a 
+congressional judgment that for that period of time, memories were 
+likely to be reliable and evidence still retained. See Klehr, 521 U.S. at 
+186. That judgment obviously undermines Petitioner’s contention 
+that Congress believed that in Title VII cases memories and evidence 
+would be unavailable after a mere 180 to 300 days. 
+
+
+34 
+
+
+lineates a limitation on the permissible scope of any civil action, 
+and expressly excludes redress for any claims which "accrued" 
+more than four years earlier. The terms of § 706(e)(1) are em- 
+phatically different.” 
+
+
+Cases under the National Labor Relations Act provides even 
+less support for Petitioner. This Court has invoked the NLRA 
+where there was under that statute a substantial body of experi- 
+ence prior to 1964, or a clear and authoritative interpretation of 
+the law. Neither are present here. In virtually all disputes aris- 
+ing under the NLRA, the unfair labor practice that gave rise to a 
+back pay claim was the dismissal of a worker; the types of re- 
+curring violations that occur under Title VII, such as salary or 
+hostile work environment discrimination claims, are virtually 
+unknown in NLRA litigation. Petitioner and the United States 
+can identify in the decades of pre-Title VII NLRA proceedings 
+only two cases that even arguably present an ongoing violation 
+of the rights of a complainant, and the parties in those cases did 
+not litigate the period of time for which back pay might be 
+awarded for a recurring violation.” The court of appeals in 
+
+
+- In Klehr, the plaintiffs relied on the continuing violation deci- 
+sion in Havens Realty and several lower court Title VII decisions. 
+Brief for Petitioners at 4, 7, Klehr v. A.O. Smith Corp., 521 U.S. 179 
+(1997) (No. 96-663). Neither party nor any of the numerous amici 
+questioned the propriety of applying the Havens P-alty continuing 
+violation doctrine in discrimination cases. This Court’s decision in 
+Klehr, which carefully avoided mention of Title VII or Fair Housing 
+Act cases, cannot plausibly be read to reject a line of decisions which 
+no party had questioned. 
+
+” In Melville Confections, Inc v. NLRB, 327 F.2d 689, 690 (7th 
+Cir. 1964), the Board had awarded only prospective injunctive relief. 
+
+
+35 
+
+
+NLRB v. Pennwoven, Inc., 194 F.2d 521, 525 (3d Cir. 1952), 
+concluded that no such recurring violation had even occurred. 
+This is far to thin a reed to support any inference about the in- 
+tent of Congress. 
+
+
+The provisions of the NLRA, moreover, are in several mate- 
+rial respects different than Title VII. First, the NLRA has no 
+two year (or other) back pay rule comparable to § 706(g)(1). 
+Second, unlike the NLRA, Title VII expressly permits enforce- 
+ment action in the absence of any timely predicate charge. 
+Congress clearly intended to bar any proceedings under the 
+NLRA that had not been the subject of a charge filed within 180 
+days of the alleged unfair labor practice; absent such a timely 
+predicate charge the General Counsel cannot institute proceed- 
+ings before the Board. But the 1964 provisions of Title VII ex- 
+pressly permitted the Department of Justice to bring a pattern 
+and practice suit regardless of whether there had ever been a 
+timely charge about the discrimination in question. 42 U.S.C. § 
+2000e-6. 
+
+
+On the other hand, Morgan’s proposed treatment of ongoing 
+violations is not unique to Title VII. In the criminal law, an on- 
+going conspiracy, larceny or embezzlement is dealt within the 
+same manner. So long as the last act of the ongoing offense oc- 
+curred within the limitations period, the perpetrator can be 
+prosecuted for the entire series of events. 3 Wharton's Criminal 
+Law §§ 93, 94, 370 (15th ed. 1995). 
+
+
+36 
+
+
+F. Where the Discrimination Prior to the Charge Filing 
+Period Is Sufficiently like or Related to the 
+Discrimination Occurring Within the Charge Filing 
+Period That the Employer Is on Notice of the Need to 
+Investigate Those Earlier Events, Plaintiffs Should 
+Be Allowed to Establish Liability for the Earlier Acts 
+
+
+The continuing violation doctrine was generally accepted in 
+the era when Congress adopted the 1972 amendments to Title 
+VII. Subsequent decisions applying that doctrine, and using a 
+standard similar to that of the Ninth Circuit below, can be found 
+in the Second,” Third,”* Fourth,”* Sixth,”’ Eighth,” and District 
+
+
+- See Fitzgerald v. Henderson, 251 F.3d 345, 359 (2d Cir. 
+2001); Bonner v. Guccione, 178 F.3d 581, 583-84 (2d Cir. 1999); 
+Cornwell v. Robinson, 23 F.3d 694, 704 (2d Cir. 1994). 
+
+- See Courtney v. La Salle Univ., 124 F.3d 499, 506 (3d Cir. 
+1997); Rush v. Scott Specialty Gases, Inc. 113 F.3d 476, 481-82 (3d 
+Cir. 1997); West v. Phila. Elec. Co., 45 F.3d 744, 754-55 (3d Cir. 
+1995). 
+
+- See Beall v. Abbott Labs., 130 F.3d 614, 620-21 (4th Cir. 
+1997); Taylor v. Home Ins. Co., 777 F.2d 849, 856 (4th Cir. 1985). 
+
+- See Burzynski v. Cohen, No. 99-4298, 2001 U.S. App. LEXIS 
+18997 (6th Cir. Aug. 23, 2001) (Title VII and ADEA); Haithcock v. 
+Frank, 958 F.2d 671, 677-78 (6th Cir. 1992) (Title VII); Hull v. 
+Cuyahoga Valley Bd. Of Educ., 926 F.2d 505, 510-11 (6th Cir. 1991); 
+Roberts v. N. Am. Rockwell Corp., 650 F.2d 823, 827-28 (6th Cir. 
+1981). 
+
+
+28 See Jenson v. Eveleth Taconite Co., 130 F.3d 1287, 1302-03 (8th 
+Cir. 1997); Varner v. Nat'l Super Mikts.,Inc., 94 F.3d 1209, 1214 (8th 
+Cir. 1996); Gardner v. Morris, 72 F.2d 1271, 1270 (8th Cir. 1985); 
+Scott v. St. Paul Postal Serv., 720 F.2d 524, 525 (8th Cir. 1983); 
+Gross v. United States, 676 F.2d 295, 299-300 (8th Cir. 1982). 
+
+
+37 
+
+
+of Columbia Circuits.””? Disputes about what constitutes a “con- 
+tinuing violation” are not about the inherent meaning of some 
+general legal phrase, like “res judicata” or “jurisdiction.” 
+Rather, in the Title VII context “continuing violation” denotes 
+those situations in which it is appropriate to permit a plaintiff to 
+obtain redress for pre-charge filing discrimination because it has 
+a sufficient connection to discrimination occurring within the 
+charge filing period.” 
+
+
+The proper formulation derives from the text of Title 
+VII itself and from the purposes of a statute of limita- 
+tions. So long as the pre- and post- charge filing pe- 
+riod discrimination can fairly be said to constitute the 
+same “practice,” the exhaustion requirements of § 
+706(e)(1) have been met. Decisions of this Court 
+have made clear that the scope of the subject matters 
+encompassed by Title VII charge will be broadly con- 
+strued. EEOC v. Shell Oil Co., 466 U.S. at 68-74."! 
+
+
+” See Anderson v. Zubieta, 180 F.3d 329, 337 (D.C. Cir. 1999); 
+
+Valentino v. U.S. Postal Serv., 674 F.2d 56, 65 (D.C. Cir. 1982). 
+
+- A number of district courts have recognized that where a con- 
+tinuing violation is alleged, concerrs as to a defendant’s prejudice are 
+absent or diminished and an employer maintaining an unlawful prac- 
+tice is in a less sympathetic position when seeking repose; the contin- 
+ued nature of the policy represents its affirmative perpetuation and is 
+susceptible to characterization as a conscious waiver of limitations 
+period protection. EEOC v. Home Ins. Co., 553 F. Supp. 704, 713 
+(S.D.N.Y. 1982); see also EEOC v. Mitsubishi Motor Mfg. of Am., 
+990 F. Supp. 1059, 1087 (C.D. Ill. 1998); Glass v. IDS Fin. Servs., 
+Inc., 778 F. Supp. 1029, 1054 n.41 (D. Minn. 1991). 
+
+- This is certainly the position of the overwhelming number of 
+circuit courts. See, e.g., EEOC v. Keco Indus., 748 F.2d 1097, 100-01 
+
+
+38 
+
+
+Whether several discriminatory acts ought be said to 
+involve a single “practice” should be resolved in light 
+of the central purpose of Title VII’s Charge Filing Re- 
+quirement, to provide a defendant with a reasonable 
+opportunity to preserve evidence and to interview wit- 
+nesses while their memories are still reliable. 
+
+
+We urge the Court to adopt the following standard to deline- 
+ate the scope of the continuing violation doctrine under Title 
+Vil: 
+
+
+Discrimination occurring prior to the charge filing pe- 
+riod may be redressed where that earlier discrimina- 
+tion is sufficiently similar in method or purpose to the 
+discrimination alleged by the charge to have occurred 
+within the charge filing period that the employer can 
+fairly be said to have been put on notice of the need to 
+inquire into the relevant pre-charge filing period 
+events. 
+
+
+This standard will ordinarily be met where the form of dis- 
+crimination is the same. E.g., Havens Realty, 455 U.S. at 380- 
+81 (racial steering). An employer which received a charge of 
+salary discrimination would readily understand what facts (be- 
+
+
+(6th Cir. 1984); Ong v. Cleland, 642 F.2d 316, 318-19 (9th Cir. 
+1981); Hicks v. ABT Assoc., Inc., 572 F.2d 960, 966 (3rd Cir. 1978); 
+EEOC v. Gen. Elec. Co., 532 F.2d 359, 365-67 (4th Cir. 1976); Jen- 
+kins v. Blue Cross Mut. Hosp. Ins., Inc., 538 F.2d 164, 167-68 (7th 
+Cir. 1976) (en banc); EEOC v. W. Publ’g Co., 502 F.2d 599, 602-03 
+(8th Cir. 1974); Macklin v. Spector Freight Sys. Inc., 478 F.2d 979, 
+987-88 (D.C. Cir. 1973); Sanchez v. Standard Brands, Inc., 431 F.2d 
+455, 465-66 (Sth Cir. 1970). 
+
+
+ele + 
+
+
+39 
+
+
+fore and during the charge filing period) should be looked into. 
+The particular purpose alleged in a charge (e.g. retaliation for 
+resisting sexual harassment) might also draw the employer's at- 
+tention to specific matters (i.e. the underlying harassment) ear- 
+lier in the two year period. 
+
+
+The Title VII charge in the instant case easily meets that 
+standard. EEOC Charge, Morgan Decl., CD No. 106. First, the 
+charge identified two specific forms of discrimination-- 
+unwarranted disciplinary measures and denials of training-- 
+which occurred both inside and prior to the charge filing period. 
+Second, the charge identified a specific purpose--retaliation-- 
+and made clear that the protected activity which had allegedly 
+triggered the repeated retaliation had occurred as far back as 
+1991. Third, the charge alleged a repeated array of discrimina- 
+tory practices likely to create a hostile work environment. Mor- 
+gan was clearly entitled to the benefit of the continuing 
+violation doctrine. 
+
+
+Il. IN DETERMINING WHETHER A HOSTILE WORK 
+ENVIRONMENT EXISTED WITHIN THE CHARGE 
+FILING PERIOD, THE TRIER OF FACT MUST 
+CONSIDER EARLIER ACTS OF HARASSMENT 
+OR OTHER TYPES OF DISCRIMINATION WHICH 
+MAY HAVE CREATED THE HOSTILE 
+ENVIRONMENT 
+
+
+There is a natural affinity between the continuing violation 
+doctrine and a claim of a hostile work environment. See Walt- 
+man v. Int'l Paper Co., 875 F.2d 468, 476 (Sth Cir. 1989); West 
+v. Phila. Elec. Co., 45 F.3d 744, 755 (3rd Cir. 1995); O’Rourke 
+v. City of Providence, 235 F.3d 713, 727-28 (1st Cir. 2001). In 
+
+
+40 
+
+
+2001). In the instant case, the district court’s ruling that Morgan 
+could not rely on acts of harassment or other discrimination that 
+occurred before May 3, 1994* to establish the existence of a 
+hostile work environment during the 180/300 day charge filing 
+period rested on a fundamental misunderstanding of the nature 
+of a hostile environment claim. Unlike a discriminatory hiring 
+or firing decision, an act of harassment is never actionable per 
+se.> Rather, in a hostile environment case, it is the existence of 
+the resulting environment--not the incidents that combined to 
+produce it--that constitutes the violation. In both Faragher v. 
+City of Boca Raton, 524 U.S. 775 (1998), and Burlington Indus- 
+tries, Inc., v. Ellerth, 524 U.S. 742 (1998), the carefully framed 
+standard for employer liability was predicated upon an action- 
+able hostile environment. This Court's decision in Harris v. 
+Forklift Systems, Inc., 510 U.S. 17, 18-19 (1993), concerned 
+“the definition of a discriminatorily ‘abusive work environment’ 
+(also known as a ‘hostile work environment’) under Title VII.” 
+
+
+That the hostile environment itself, not the incidents that 
+caused it, constitutes the actionable Title VII violation follows 
+
+
+This analysis discusses what would constitute a hostile envi- 
+
+
+ronment during the charge filing period. As we explain supra, where 
+a plaintiff demonstrates that a hostile environment which continued 
+into the charge filing period first came into existence on an earlier 
+date, the continuing violation doctrine also permits the plaintiff to ob- 
+tain relief for the pre-charge filing period violation. 
+
+- Many acts of discrimination, such as a discriminatory demo- 
+tion, could contribute to a hostile environment. Such an incident 
+would be actionable by itself insofar as the plaintiff sought back pay 
+or restoration to the lost position. But to the extent that the plaintiff 
+asserted the demotion had contributed to a hostile environment, only 
+the environment itself would be actionable. 
+
+
+41 
+
+
+from several aspects of harassment law. First, save in excep- 
+tional circumstances, a single incident of harassment cannot 
+create a hostile environment, and thus could not by itself create 
+an actionable claim. The cumulative effect of that first and later 
+incidents may do so, but those subsequent developments could 
+not render the first incident illegal nunc pro tunc. 
+
+
+Second, an actionable hostile environment claim only exists 
+if the victim perceives the environment as hostile or abusive. 
+Harris, 510 U.S. at 21-22. The victim's subsequent perception 
+however, could not alter retroactively the legality of the harass- 
+ment. Third, an employer can be liable under Title VII if it neg- 
+ligently failed to protect the victim from a hostile environment 
+created by harassment by fellow employees or customers. 
+Faragher, 524 U.S. at 789; Burlington Industries, 524 U.S. at 
+759. Yet such harassment by itself could ordinarily not violate 
+Title VII. 
+
+
+In harassment cases, as in any other, "the critical question is 
+whether any present violation exists." Evans, 431 U.S. at 558 
+(emphasis in original).** Once a hostile environment has been 
+
+
+*4 Where an employer unlawfully denies a plaintiff seniority, that de- 
+nial itself is a complete violation; the consequent “‘effect” or “impact” 
+of that violation, including resulting loss of employment, do not them- 
+selves constitute violations. Evans, 431 U.S. at 558. 
+
+
+But in a hostile environment case, incidents of harassment do not 
+themselves constitute a violation; a violation occurs only if and be- 
+cause those incidents combine to create a hostile environment. Har- 
+assment brings about an actionable claim where it has the “effect of . . 
+. creating an intimidating, hostile, or offensive working environment.” 
+Meritor Sav. Bank v. Vinson, 477 U.S. 57, 65 (1986); see id. at 66 
+
+
+42 
+
+
+created, that violation exists so long as that environment itself 
+endures. It would be nonsensical to suggest that a present hos- 
+tile environment violation exists only during those often fleeting 
+moments when new acts of harassment are occurring. 
+
+
+The district court thus erred in holding that acts of harass- 
+ment, i.e., those occurring before May 3, 1994, were “time 
+barred." Only violations can be time barred, not events which 
+may have brought them about. If incidents of harassment more 
+than 300 days prior to a charge could be "time barred", there 
+could never be an actionable hostile environment on the 300th 
+day, because there would not be any prior incidents on which a 
+plaintiff could rely. 
+
+
+In determining whether a hostile environment existed in that 
+period, the trier of fact must consider all the earlier harassment 
+or other acts of discrimination which might have contributed to 
+the existence of such an environment. The relevant restriction 
+on the significance of temporally more remote incidents is not 
+the statute of limitations, but the trier of fact's assessment of 
+causation. Incidents years prior to the 300th day may not to 
+contribute greatly to the existence of a hostile environment 
+within the charge filing period. In the absence of additional in- 
+cidents, a hostile environment might even dissipate over time.*® 
+
+
+(creating a hostile environment through discriminatory practices); id. 
+at 67 (creating a hostile work environment through harassment). Thus 
+in a hostile environment case, the effect of the harassment, far from 
+being a non-actionable incidental consequence, is an essential element 
+of the claim. 
+
+7 In some circumstances, of course, that would not occur. If a 
+victim had been sexually assaulted by a co-worker, a hostile environ- 
+
+
+43 
+
+
+But while the passage of time will reduce the impact of past in- 
+cidents of harassment, the assessment of the weight of such evi- 
+dence will ordinarily be a matter for the trier of fact, not for the 
+
+
+court on summary judgment. 
+
+In the instant case, the district court's order and subse- 
+quent jury instructions improperly precluded Morgan from us- 
+ing events occurring prior to May 3, 1994, to establish even the 
+existence of a hostile environment during the charge-filing pe- 
+riod. 
+
+Il. WHETHER MORGAN BELIEVED PRIOR TO 1995 
+THAT HE WAS THE VICTIM OF UNLAWFUL 
+DISCRIMINATION IS IRRELEVANT 
+
+
+The notice requirement -which Petitioner seeks to graft into 
+the “continuing violation doctrine” analysis is totally inapposite 
+to appropriate Title VII jurisprudence. This requirement that 
+the Fifth and Seventh Circuits impose upon plaintiffs improp- 
+erly shifts the inquiry from whether vel non there is a current 
+actionable Title VII violation by the employer to plaintiffs’ state 
+of mind at some point in the continuum of events or policies or 
+practices upon which the action is based. See Galloway v. Gen. 
+Motors Serv. Parts, 78 F.3d 1164 (7th Cir. 1996); Berry v. Bd. 
+of Supervisors of L.S.U . 715 F.2d 971, 981 (Sth Cir. 1983).*° 
+
+
+Rather, if a violation is alleged which occurred within the 
+300 day charge filing period, the question whether the plaintiff 
+
+
+ment would likely continue indefinitely if that assailant were permit- 
+ted to work in the same facility. 
+
+- But see Cuddyer v. The Stop & Shop Supermarket Co., 434 
+Mass. 521, 534-36, 750 N.E.2d 928, 938-39 (2001) (criticizing the 
+“revelatory standard” articulated in Galloway and Berry). 
+
+
+44 
+
+
+formed a belief that he was the victim of actionable employment 
+discrimination at an earlier time becomes moot. Indeed, requir- 
+ing plaintiffs to determine the legal ramifications of an em- 
+ployer’s actions flies in the face of the Congressional mandate 
+that this remedial statute be interpreted in a manner that pro- 
+vides for the maximum relief for aggrieved parties and must not 
+be countenanced by this Court. Cf Franks, 427 U.S. at 763-64; 
+Albemarle Paper Co., 422 U.S. at 418-22 (stating that Congres- 
+sional purpose concerning Title VII was to effectuate the high- 
+est national priority of providing complete relief for those 
+suffering from employment discrimination).”” 
+
+
+In Zipes, this Court defined the 180-300 day charge filing pe- 
+riod so as to “honor the remedial purpose of the legislation as a 
+whole without negating the particular purpose of the filing re- 
+quirement, to give prompt notice to the employer.” 455 U.S. 
+398. A desire to encourage prompt filing of claims cannot un- 
+
+
+- Any requirement that an aggrieved person make a binding 
+decision as to when further efforts at informal conciliation with his 
+employer would be futile places him in an impossible position. In- 
+deed, requiring such a determination by a lay person would be espe- 
+cially bothersome in the hostile atmosphere situation where even the 
+most cursory review of the reported authorities establishes the courts’ 
+continued inability to identify what degree of behavior is “severe” or, 
+more importantly here, “pervasive,” particularly where there is a con- 
+tinuing employment relationship. Moreover, if one is exhausting the 
+company’s grievance process as required by Ellerth and Faragher, the 
+employer can manipulate the requisite degree of “permanence” that an 
+employee must intuit. Thus, any such requirement would certainly 
+eviscerate this Court’s apt recognition of the persons normally filing a 
+charge and their limitations as lay persons to make any such determi- 
+nations. See Love v. Pullman Co., 404 U.S. at 527. 
+
+
+- — a 
+
+
+45 
+
+
+dermine the broad remedial purposes of Title VII - dating the 
+charge filing period from the first act or some intermediate act 
+(i.e., when the plaintiff realized that she had a claim) instead of 
+the last act destroys the balance created by this Court in Zipes. 
+
+
+IV. MORGAN IS ENTITLED TO A NEW TRIAL TO 
+DETERMINE AMTRAK’S LIABILITY WITHIN 
+THE CHARGE FILING PERIOD 
+
+
+During the course of the trial, the district court repeatedly 
+barred or severely limited the evidence from outside the 300- 
+day charge filing period which should have been used to deter- 
+mine Amérak’s liability for discrimination within the charge fil- 
+ing period. Morgan expressly raised these issues on appeal.”** 
+The Ninth Circuit, although expressing serious reservations 
+about the actions of the district court, stopped short of resolving 
+that aspect of the appeal. Morgan, 232 F.3d at 1018. 
+
+
+A. The District Court Erred in Limiting Evidence of The 
+Hostile Work Environment from Outside the 300-Day 
+Charge Filing Period 
+
+
+As set forth herein, the district court disregarded this Court’s 
+jurisprudence when it required the jury to look at discrete acts 
+rather than the environment as a whole to determine the hostile 
+environment claim. Faragher, 524 U.S. at 807; Burlington In- 
+dus., 524 U.S. at 765 (referring to an “actionable hostile envi- 
+ronment created by a supervisor”) (emphasis added). This 
+Court has clearly mandated that courts should consider a broad 
+range of conduct. See Harris, 510 U.S. at 22-23; Faragher, $24 
+U.S. at 787-88. Indeed, the Court articulated just last term that 
+
+
+- Appellant’s Opening Brief at 2-3. 
+
+
+46 
+
+
+“{w]orkplace conduct is not measured in isolation; instead, 
+‘whether an environment is sufficiently hostile or abusive’ must 
+be judged ‘by “looking at all the circumstances.””” Clark 
+County Sch. Dist. v. Breeden, U.S. __, 121 S. Ct. 1508, 1510 
+(2001) (internal citations. omitted). 
+
+In both Meritor and Faragher, this Court explicitly refer- 
+enced evidence of harassing conduct that occurred outside the 
+applicable limitations period. See Meritor, 477 U.S. at 59-60 
+(considering evidence spanning a number of years); Faragher, 
+524 U.S. at 782 (considering evidence spanning a five-year pe- 
+riod). 
+
+The district court below failed to heed this Court’s oft- 
+repeated guidance. It deprived the jury of the necessary oppor- 
+tunity to evaluate the nature of the overall environment to which 
+Morgan was subjected through a consideration of “all the cir- 
+cumstances.” Thus, the determination that the hostile environ- 
+ment was not “sufficiently severe or pervasive” is 
+fundamentally flawed and must be reversed. 
+
+B. The District Court Erred in Limiting Evidence of 
+Intentional Discrimination from Outside the 300-Day 
+
+
+Charge Filing Period 
+
+
+The district court also erred in its assessment of the legal 
+consequences of the expiration of the charge filing period re- 
+garding a particular discriminatory incident. Decisions of this 
+Court have long made clear that evidence of intentional dis- 
+crimination from outside the charge filing period can be crucial 
+for proving intentional discrimination. McDonnell Douglas 
+Corp. v. Green, 411 U.S. 792, 804-05 (1973) (evidence from 
+
+
+more than a year outside the charge filing period may be rele- 
+
+
+_ 
+
+
+47 
+
+
+vant to respondent’s claims); Patterson v. McLean Credit Un- 
+ion, 491 U.S. 164, 178 n.2 (1989) (examining manager’s dis- 
+criminatory behavior toward other African American 
+employees). 
+
+Similarly, in United States Postal Service Board of Gover- 
+nors v. Aikens, 460 U.S. 711, 714 n.2 (1983), this Court again 
+looked at evidence well outside the charge filing period. (“Aik- 
+ens showed that white persons were consistently promoted and 
+detailed over him and all other black persons between 1966 and 
+1974.”). Most recently, in Reeves v. Sanderson Plumbing 
+Products, Inc., __ U.S. ___, 120 S. Ct. 2097, 2111 (2000), this 
+Court found crucial support ‘for the plaintiff's claim of an un- 
+lawful 1995 dismissal in evidence suggesting that in 1993, the 
+employer had singled out plaintiff for investigation and dis- 
+cipline while ignoring a younger manager with a similar record. 
+
+The district court erred in its utter failure to correctly apply 
+the Federal Rules of] Evidence. Rule 401 defines relevant evi- 
+dence very broadly.*” Pursuant to Rules 401, 403 and 404, 
+courts have admitted evidence from outside the 300-day charge 
+filing period to prove motive and intent.” 
+
+
+- “Relevant Evidence’ means evidence having any tendency to 
+make the existence of any fact that is of consequence to the determi- 
+nation of the action more probable or less probable than it would be 
+without the evidence.” Fed. R. Evid. 401. 
+
+
+“© Commonwealth of Pa. v. Porter, 659 F.2d 306, 320 (3d. Cir. 
+1981) (en banc) (“Evidence of the prior actions was admitted, as the 
+trial court noted, under Fed. R. Evid. 404(b), to show motive [or] in- 
+tent.... The injunction was issued . . . because . . . a pattern or prac- 
+tice of violations occurred over a long period of time which extended 
+
+
+48 
+
+
+In the Final Pretrial Scheduling Order, the district court ruled 
+that although Mr. Morgan could testify to his work history, he 
+could not “characterize the events underlying his time-barred or 
+adjudicated claims as ‘discrimination’ or ‘retaliation,”” nor 
+could he “elicit such characterization from other witnesses.” 
+CD at 176. During the trial, beginning with the voir dire, the 
+court repeatedly issued limiting instructions indicating that this 
+evidence was only for context and background. For example, at 
+one point the court told the jury such evidence would “not be 
+part of anything you will be asked to decide in this case.” See 
+Trial Tr. at 431-33. Because the jury could not rely on all of the 
+admissible evidence, whatever interpretation the Court chooses 
+to adopt for the continuing violation doctrine, justice requires a 
+new trial in this case. 
+
+Vv. THIS CASE SHOULD BE REMANDED TO 
+THE NINTH CIRCUIT TO ALLOW IT TO 
+REVIEW THE DISTRICT COURT’S LIMI- 
+TATION AND EXCLUSION CF EVIDENCE 
+OF DISCRIMINATION AND HARASS- 
+MENT 
+
+
+well within the period of the statute of limitations, and was likely to 
+continue in the future.”) (internal citations omitted); see also Estes v. 
+Dick Smith Ford, Inc., 856 F.2d 1097, 1103 (8th Cir. 1998) (“A plain- 
+tiffs ability to prove discrimination indirectly, circumstantially, must 
+not be crippled by evidentiary rulings that keep out probative evi- 
+dence because of crabbed notions of relevance or excessive mistrust 
+of juries”(quoting Riordan v. Kempiners, 831 F.2d 690, 697-98 (7th 
+Cir. 1987))); Allen v. County of Montgomery, 788 F.2d 1485, 1488 
+(11th Cir. 1986). 
+
+
+49 
+
+
+In Breeden, 121 S. Ct. at 1509, and Faragher, 524 U.S. at 
+782, this Court subscribed to the view that evidence of harass- 
+ment against other members of the protected class is relevant to 
+a hostile work environment claim by explicitly referencing evi- 
+dence that the complainant’s supervisors had engaged in harass- 
+ing conduct directed toward other women in the workplace. See 
+also Aikens, 460 U.S. at 714 n.3. 
+
+
+Many circuit courts have interpreted the Federal Rules of 
+Evidence to evidence of harassment or discrimination against 
+other members of the protected class to establish plaintiff's in- 
+dividual claim of harassment. See, e.g., Hurley v. Atlantic City 
+Police Dep't, 174 F.3d 95, 110 (3d Cir. 1999).*' Numerous cir- 
+cuit courts have found that evidence of discriminatory conduct 
+directed at others in the workplace is relevant to a plaintiff's in- 
+dividual claim. See, e.g., Estes v. Dick Smith Ford, Inc., 856 
+F.2d 1097, 1103 (8th Cir. 1988); Mullen v. Princess Anne Vol- 
+unteer Fire Co., Inc., 853 F.2d 1130, 1134 (4th Cir. 1988). 
+
+
+The district court’s exclusion of evidence of discrimina- 
+tory behavior by Morgan’s supervisors inappropriately re- 
+stricted Morgan’s presentation of his case. Therefore, 
+regardless of this Court’s holding on the continuing violation 
+
+
+a See also Heyne v. Caruso, 69 F.3d 1475, 1480 (9th Cir. 
+1995); Glass v. Phila. Elec. Corp., 34 F.3d 188, 194 (3d Cir. 
+1994); Hunter v. Allis-Chalmers Corp., 797 F.2d 1417, 1423 
+(7th Cir. 1986). 
+
+= See also EEOC v. Farmer Bros. Co., 31 F.3d 891, 898 (9th 
+Cir. 1994); Douglass v. Eaton Corp., 956 F.2d 1339, 1344-45 (6th 
+Cir. 1992); Phillips v. Smalley Maint. Servs., Inc., 711 F.2d 1524, 
+1532 (11th Cir. 1983). 
+
+
+50 
+
+
+doctrine, the case should be remanded to the Ninth Circuit so 
+that it may rule on these unresolved evidentiary issues. __ 
+
+
+CONCLUSION 
+
+
+Continuous violations of Title VII are especially harmful to 
+public policy. They involve an ongoing pattern of discrimina- 
+tion rather than a single isolated act of discrimination. As such, 
+they are a matter of special concern, and some flexibility in in- 
+terpreting the charge filing requirement is warranted to stamp 
+them out. 
+
+
+Amtrak’s assertions that Title VII violations are less complex 
+than other unlawful practices or “easy to detect” are ludicrous. 
+Its assertion that hostile environment cases are “rare” is equally 
+ridiculous. To allow Amtrak to escape responsibility for the 
+three years of blatantly racist and unlawful conduct by its top 
+managers which occurred outside the 300 day limitations period 
+would be intolerable. It would severely compromise the goal of 
+Title VII to root out and eradicate entrenched and ingrained 
+forms of discrimination in the workplace. 
+
+
+For all of the reasons stated herein, the Ninth Circuit decision 
+should be affirmed. 
+
+
+Respectfully Submitted, 
+
+
+PAMELA Y. PRICE, Esq. 
+Counsel of Record 
+PRICE AND ASSOCIATES 
+1617 Clay Street 
+Oakland, CA 94612 
+(510) 452-0292 
+
+
+lsa 
+
+
+RESPONDENT’ S SUPPLEMENTAL APPENDIX 
+
+
+Additional Statutory Provisions Involved 
+15 U.S.C. § 15b. 
+
+
+Any action to enforce any cause of action under section 4, 
+4A, or 4C shall be forever barred unless commenced within 
+four years after the cause of action accrued. No cause of ac- 
+tion barred under existing law on the effective date of this 
+Act shall be revived by this Act. 
+
+
+42 U.S.C. § 2000e-5(e)(1). 
+
+
+(e) Time for filing charges; time for service of notice of 
+charge on respondent; filing of charge by Commission with 
+State or local agency. 
+
+
+(1) A charge under this section shall be filed within one 
+hundred and eighty days after the alleged unlawful employ- 
+ment practice occurred and notice of the charge (including 
+the date, place and circumstances of the alleged unlawful 
+employment practice) shall be served upon the person 
+against whom such charge is made within ten days thereaf- 
+ter, except that in a case of an unlawful employment practice 
+with respect to which the person aggrieved has initially insti- 
+tuted proceedings with a State or local agency with authority 
+to grant or seek relief from such practice or to institute 
+criminal proceedings with respect thereto upon receiving no- 
+tice thereof, such charge shall be filed by or on behalf of the 
+person aggrieved within three hundred days after the alleged 
+
+
+2sa 
+
+
+unlawful employment practice occurred, or within thirty 
+days after receiving notice that the State or local agency has 
+terminated the proceedings under the State or local law, 
+whichever is earlier, and a copy of such charge shall be filed 
+by the Commission with the State or local agency. 
+
+
+42 U.S.C. § 2000e-5(g)(1). 
+
+
+(g) Injunctions; affirmative action; equitable relief; accrual 
+of back pay; reduction of back pay; limitations on judicial 
+orders. 
+
+
+(1) If the court finds that the respondent has intention- 
+ally engaged in or is intentionally engaging jn an unlaw- 
+ful employment practice charged in the complaint, the 
+court may enjoin the respondent from engaging in such 
+unlawful employment practice, and order such affirma- 
+tive action as may be appropriate, which may include, 
+but is not limited to, reinstatement or hiring of employ- 
+ees, with or without back pay (payable by the employer, 
+employment agency, or labor organization, as the case 
+may be, responsible for the unlawful employment prac- 
+tice), or any other equitable relief as the court deems ap- 
+propriate. Back pay liability shall not accrue from a date 
+more than two years prior to the filing of a charge with 
+the Commission. Interim earnings or amounts earnable 
+with reasonable diligence by the person or persons dis- 
+criminated against shall operate to reduce the back pay 
+otherwise allowable. 
+
+
+3sa 
+
+
+42 U.S.C. § 2000e-16(b) - (d). 
+
+
+(b) Role of Civil Service Commission; compliance of de- 
+partments and agencies with rules and regulations. Except as 
+otherwise provided in this subsection, the Civil Service 
+Commission shall have authority to enforce the provisions of 
+subsection (a) through appropriate remedies, including rein- 
+statement or hiring of employees with or without back pay, 
+as will effectuate the policies of this section, and shall issue 
+such rules, regulations, orders and instructions as it deems 
+necessary and appropriate to carry out its responsibilities un- 
+der this section. The Civil Service Commission shall: | 
+
+
+(. ’ be responsible for the annual review and approval of 
+a national and regional equal employment opportunity plan 
+which each department and agency and each appropriate unit 
+referred to in subsection (a) of this section shall submit in 
+order to maintain an affirmative program of equal employ- 
+ment opportunity for all such employees and applicants for 
+employment; 
+
+
+(2) be responsible for the review and evaluation of the 
+operation of all agency equal employment opportunity pro- 
+grams, periodically obtaining and publishing (on at least a 
+semiannual basis) progress reports from each such depart- 
+ment, agency, or unit; and 
+
+
+(3) consult with and solicit the recommendations of in- 
+terested individuals, groups, and organizations relating to 
+equal employment opportunity. 
+
+
+4sa 
+
+
+The head of each such department, agency, or unit shall 
+comply with such rules, regulations, orders, and instructions 
+which shall include a provision that an employee or applicant 
+for employment shall be notified of any final action taken on 
+any complaint of discrimination filed by him thereunder. The 
+plan submitted by each department, agency, and unit shall 
+include, but not be limited to: 
+
+
+(1) provision for the establishment of training 
+and education programs designed to provide a 
+maximum opportunity for employees to advance so 
+as to perform at their highest potential; and 
+
+
+(2) a description of the qualifications in terms of 
+training and experience relating to equal employ- 
+ment opportunity for the principal and operating 
+officials of each such department, agency, or unit 
+responsible for carrying out the equal employment 
+opportunity program and of the allocation of per- 
+sonnel and resources proposed by such depariment, 
+agency, or unit to carry out its equal employment 
+
+
+opportunity program. 
+
+
+With respect to employment in the Library of Congress, au- 
+thorities granted in this subsection to the Civil Service 
+Commission shall be exercised by the Librarian of Congress. 
+
+
+(c) Civil action by party aggrieved. Within 90 days of re- 
+ceipt of notice of final action taken by a department, agency, 
+or unit referred to in subsection 717(a) [subsec. (a) of this 
+section], or by the Civil Service Commission upon an appeal 
+from a decision or order of such department, agency, or unit 
+on a complaint of discrimination based on race, color, relig- 
+
+
+5sa 
+
+
+ion, sex or national origin, brought pursuant to subsection (a) 
+of this section, Executive Order 11478 or any succeeding 
+Executive orders, or after one hundred and eighty days from 
+the filing of the initial charge with the department, agency, 
+or unit or with the Civil Service Commission on appeal from 
+a decision or order of such department, agency, or unit until 
+such time as final action may be taken by a department, 
+agency, or unit, an employee or applicant for employment, if 
+aggrieved by the final disposition of his complaint, or by the 
+failure to take final action on his complaint, may file a civil 
+action as provided in section 706, in which civil action the 
+head of the department, agency, or unit, as appropriate, shall 
+be the defendant. 
+
+
+(d) Application of certain provisions. The provisions of 
+section 706(f) through (k), as applicable, shall govern civil 
+actions brought hereunder, and the same interest to compen- 
+sate for delay in payment shall be available as in cases in- 
+volving nonpublic parties. 
+
+
+Additional Regulatory Provisions Involved 
+29 C.F.R. § 1614.501(a)(4). 
+
+
+(a) When an agency, or the Commission, in an individual 
+case of discrimination, finds that an applicant or an em- 
+ployee has been discriminated against, the agency shall pro- 
+vide full relief, which shall include the following elements in 
+appropriate circumstances .. . 
+
+
+(4) Payment to each identified victim of discrimina- 
+tion on a make whole basis for any loss of earn- 
+
+
+6sa 7sa 
+
+
+ings the person may have suffered as a result of EEOC Administrative Determinations 
+the discrimination ... . 
+Wood v. Richardson, 1998 WL 746368, at *7. 
+29 C.F.R. § 1614.501(b)(3). 
+Boykin v. Shalala, 1998 WL 745686, at *2. 
+(b) Relief for an applicant... . 
+
+
+Douglas v. West, 1997 WL 377511, at * 11. 
+
+
+(3) Back pay under this paragraph (6b) for complaints 
+under title VII or the Rehabilitation Act may not Carney v. Brown, 1996 WL 506285, at *9. 
+extend from a date earlier than two years prior to Carter v. Dalton, 1995 WL 619313, at *1. 
+the date on which the complaint was initially filed 
+by the applicant. Alexander v. Cisneros, 1995 WL 576911, at *8. 
+29 C.F.R. § 1614.501(c)(1). Malone v. Widnall, 1995 WL 576890, at *8. 
+(c) Relief for an employee. When an agency, or the Cotton v. Shalala, 1996 WL 33170688, at *6-*8. 
+Commission, finds that an employee of the agency ‘ 
+was discriminated agai the agency shall provide Davis v. Bentsen, 1994 WL 748457, at *4. 
+
+
+relief, which shall include, but need not be limitedto, | Miller v. Runyon, 1993 WL 1510049, at *9. 
+ore of the following actions: 
+— Joseph v. Runyon, 1993 WL 1509383, at *3. 
+
+
+ALS SEN: EL | 
+Cy ae, Wa Te PY | walter v. Gorden, 1993 WL 1907466. at °S. 
+
+
+computed in the manner prescribed by 5 CFR 
+
+
+550.805, unless clear and convincing evidence Brown v. Brown, 1993 WL 1507219. at *1. 
+contained in the record demonstrates that the per- 
+
+sonnel action would have been taken even absent Guess v. Barr, 1992 WL 1371923, at *1. 
+
+the discrimination. Interest on back pay shall be Brown y. Franklin. 1992 WL 1370975. at *1 
+included in the back pay computation where sov- ap perme cages 
+ereign immunity has been waived. The back pay Fitzgerald v. Runyon, 1990 WL 1108836, at *1. 
+
+
+liability under title VII or the Rehabilitation Act 
+is limited to two years prior to the date the dis- Caouette v. Frank, 1990 WL 2566, at *5 n.2. 
+crimination complaint was filed. King v. Cavazos, 1990 WL 1008026, *4. 
+
+
+8sa 
+
+
+Amador v. Abdnor, 1989 WL 1005970, at *1. 
+
+Mahan v. Frank, 1989 WL 1006514, at *4 n.2. 
+DuBose v. Derwinski, 1989 WL 1003984, at *2. 
+Caouette v. Frank, 1988 WL 918307, at *1. 
+
+Wewers v. Alderson, 1988 WL 918056, at *1. 
+
+Young v. Dep ‘t of the Navy, 1987 WL 768941, at *1. 
+Jackson v. U.S. Postal Serv., 1987 WL 775782, *1. 
+Russell v. Dep ‘t of the Army, 1987 WL 775164, at *4. 
+
+
+Cocciardi v. Defense Logistics Agency, 1987 WL 775472, at 
+*3. 
+
+
+Hickman v. Dep ‘t of the Army, 1985 WL 568695, at *4. 
+Graciano v. Dep ‘t of Justice, 1984 WL 485017, at *2. 
+Ahrens v. U.S. Postal Serv., 1983 WL 412373, at *3. 
+Appellant v. Agency, 1978 WL 181629, at *1. 
+
+

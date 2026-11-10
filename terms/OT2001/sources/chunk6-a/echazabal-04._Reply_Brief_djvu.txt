@@ -1,0 +1,651 @@
+Source: https://archive.org/download/micro_IA40385014_0454/micro_IA40385014_0454%2004.%20Reply%20Brief_djvu.txt
+
+Suprame Court, U.S. 
+FILED 
+
+
+\ 2 
+(w) | MAY =9 2001 
+
+
+No. 00-1406 | OFFICE OF THE CLERK = 
+
+
+In the Supreme Court of the Gnited States 
+
+
+CHEVRON U.S.A., INC., PETITIONER, 
+Vv. 
+
+
+MARIO ECHAZABAL, RESPONDENT. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Ninth Circuit 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+ROBERT P. DAVIS STEPHEN M. SHAPIRO 
+EVAN M. TAGER Counsel of Record 
+Mayer, Brown & Platt JAMES D. HOLZHAUER 
+1909 K Street, N.W. Mayer, Brown & Platt 
+Washington, D.C. 20006 190 South LaSalle Street 
+(202) 263-3000 Chicago, Illinois 60603 
+
+
+(312) 782-0600 
+JON P. KARDASSAKIS 
+Hawkins, Schnabel, Lindahl 
+& Beck LLP 
+600 South Figueroa Street 
+Suite 1500 
+Los Angeles, California 90017 
+(213) 488-3900 
+Counsel for Petitioner 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+CONCLUSION 
+
+
+ii 
+TABLE OF AUTHORITIES 
+Cases: Page 
+Albertson's, Inc. v. Kirkingburg, 527 U.S. 555 (1999) .. 6,8 
+
+
+Borgialli v. Thunder Basin Coal Co., 235 F.3d 1284 
+
+
+(10s Cie. SOG) . ow cccvcccceuccucnessuueee 3 
+Bragdon v. Abbott, 524 U.S. 624 (1998) .......... 6, 7, 10 
+Chevron, U.S.A., Inc. v. NRDC, 467 U.S. 837 (1984) ..... 8 
+Chiari v. City of League City, 920 F.2d 311 (Sth Cir. 
+
+|) 6,7 
+Daugherty v. City of El Paso, 56 F.3d 695 (Sth Cir. 
+
+i) I 3 
+Dothard v. Rawlinson, 433 U.S. 321 (1977) ............ | 
+
+
+EEOC v. Amego, Inc., 110 F.3d 135 (1st Cir. 1997) .... 5,6 
+
+
+EEOC v. Blue Cross Blue Shield, 30 F. Supp. 2d 296 
+(D. Comm. 1908) .. « cccccscscesuneeaseueeeee 3 
+
+
+EEOC v. Commercial Office Prods., 486 U.S. 107 
+(0 Perera ee 8 
+
+
+EEOC v. Exxon Corp., 203 F.3d 871 (Sth Cir. 2000) . 4, 5,6 
+
+
+FERC v. Martin Exploration Mgt., 486 U.S. 204 
+{I l 
+
+
+Fitzpatrick v. City of Atlanta, 2 F.3d 1112 (11th Cir. 
+
+
+PPE UU 9 
+
+
+ill 
+
+
+Foreman v. Babcock & Wilcox Co., 117 F.3d 800 (Sth 
+
+
+EEE ET ee 5 
+International Union v. Johnson Controls, Inc., 499 
+ee no ce ekeneeee ec 1 
+Knapp v. Northwestern Univ., 101 F.3d 473 (7th Cir. 
+Deca ce babawdeebe bdcedkecséees 6,7 
+Koshinski v. Decatur Foundry, Inc., 177 F.3d 599 
+gn cc eceeces 4, 5,6 
+LaChance v. Duffy's Draft House, Inc., 146 F.3d 832 
+le lead ce ceedbeuseceue 3 
+Lowe v. Alabama Power, 244 F.3d 1305 (11th Cir. 
+EEE a a ae 3,10 
+Moses v. American Nonwovens, Inc., 97 F.3d 446 
+ET Sates does Pad ceécctose'es 2,3 
+United States v. Title Ins. Co., 265 U.S. 472 (1924) ...... 4 
+Statutes and Regulations: 
+ee cc oceebeceéeees 6 
+i a ced ewe ceet 8,9 
+a ecu ceces 4 
+Cee a os ec ecees 4,8 
+EE ee 8 
+
+
+29 C.F.R. § 1614.203(aX(6) ..........0005- 
+
+
+Miscellaneous: 
+
+
+H.R. Rep. No. 101-485 (Pt. 2) (1990), 1 House 
+
+
+Comm. on Education and Labor, 101st Cong., 
+2d Sess., Legislative History of Pub. L. 101- 
+336, Americans with Disabilities Act (Comm. 
+
+
+PUES BSED GOS wccccccccccccces 
+
+
+W. Rehnquist, The Supreme Court (1987) ... 
+
+
+S. Rep. No. 101-116 (1989), 1 House Comm. on 
+Education and Labor, 101st Cong., 2d Sess., 
+
+
+Legislative History of Pub. L. 101-336, 
+
+
+Americans with Disabilities Act (Comm. Print 
+
+
+SOE MOED ccccccccceccecsececee 
+
+
+Be GEUED cecccccccesscessesecssesccsss 
+
+
+R. Stern, E. Gressman, S. Shapiro, & K. Geller, 
+
+
+Supreme Court Practice (7th ed. 1993) 
+
+
+“ese eee ee © © 
+
+
+Echazabal virtually concedes the certworthiness of this case, 
+which he acknowledges presents a “specific” and “basic legal” 
+issue concerning a key federal statute. Opp. 7, 8. He says 
+nothing to refute Judge Trott’s dissent, which demonstrated that 
+Judge Reinhardt’s majority opinion is a “bizarre” contortion of 
+the ADA that cannot be squared with Congress’s intent to 
+protect disabled persons. He admits (at 8) that the majority held 
+“invalid” a regulation of the EEOC, the agency charged with 
+implementing Title I of the ADA. That the Ninth Circuit’s 
+“Pickwickian ruling” struck down a longstanding and authorita- 
+tive administrative regulation makes review especially appro- 
+priate. E.g., FERC v. Martin Exploration Mgt., 486 U.S. 204, 
+208 (1988). 
+
+
+The question is not whether an employer may refuse to hire a 
+person whose health would deteriorate “at some indeterminate 
+point in the future.” Opp. 15. The district court found that 
+Chevron was entitled to rely on currently available medical 
+evidence, all of which showed that Echazabal would face a 
+“serious, immediate risk” in the plant helper job. Pet. App. 47a; 
+see Pet. 6. The Ninth Circuit did not disagree, basing its 
+decision instead on the unprecedented “legal” ground that 
+danger to the employee’s own health is simply irrelevant. Opp. 
+7. Consequently, nothing in the procedural posture of this case 
+requires this Court to accept as true the post hoc rationalizations 
+of the doctors Echazabal hired for this litigation. Opp. | n.1. 
+Given the rulings below, the only issue is whether a person who 
+is at imminent risk of serious harm from performing the 
+essential functions of the job must be hired under the ADA. 
+Like Judge Reinhardt, Echazabal asserts that the Ninth 
+Circuit’s decision was compelled by Johnson Controls and 
+Dothard. Pet. App. 10a, 15an.9. That serious misinterpretation 
+of this Court’s precedents only confirms the need for this 
+Court’s review. Those Title VII cases disapproved the use of 
+gender “stereotypes” that affected broad classes of persons on 
+an indiscriminate basis. This ADA case does not involve gender 
+or any use of stereotypes. Echazabal was found unfit for the job 
+
+
+2 
+
+
+he sought by his own physician and several specialists in 
+industrial medicine based on his particular health condition and 
+the unusual characteristics of the job. This Court should grant 
+review to correct a patent over-extension of its prior decisions. 
+
+
+Most astonishing is Echazabal’s claim (at 10) that there is 
+no “serious conflict” among the circuits. Even Judge Reinhardt 
+acknowledged the existence of a conflict. Pet. App. 6a. In argu- 
+ing there is none, Echazabal misapprehends the meaning of 
+“conflict.” “Cases are properly regarded as conflicting if it can 
+be said with confidence that another circuit would decide the 
+case differently because of language in an opinion in a case 
+having substantial factual similarity.” R. Stern et al., Supreme 
+Court Practice 355 (7th ed. 1993). Where a different legal 
+standard requiring a different ruling is announced in a “very 
+similar case coming from another lower court,” there is an 
+undeniable conflict. W. Rehnquist, The Supreme Court 265 
+(1987). Based on the clearly stated standard used in several 
+other circuits in closely similar circumstances, this Court can 
+conclude with confidence that the present case would be 
+decided differently in those circuits. Given the exceptional 
+practical importance of this conflict, which has caused wide- 
+spread confusion in the business community as to how to 
+comply with the ADA—as reflected in the three amicus curiae 
+briefs filed in this case—certiorari should be granted. 
+
+
+1. Echazabal concedes (at 13) that the Eleventh Circuit’s 
+decision in Moses is a “pure threat-to-self case” that directly 
+conflicts with the ruling below. The Ninth Circuit acknowl- 
+edged that conflict. Pet. App. 6a, 23a-24a. Echazabal’s assertion 
+that the conflict is not “serious” is baffling. The only nsk 
+identified in Moses was the “grave risk” to the epileptic plaintiff 
+from doing the job he sought; the court of appeals explicitly 
+relied on the EEOC’s “direct threat” regulation in holding that 
+“{ajn employer may fire a disabled employee if the disability 
+renders the employee a ‘direct threat’ to his own health or 
+safety”; and the court affirmed entry of summary judgment for 
+
+
+i 
+
+
+3 
+
+
+the employer on that basis. 97 F.3d at 447-448. Clearly, the 
+Eleventh Circuit would have decided the present case differ- 
+ently, and it treated the controlling EEOC regulation as authori- 
+tative, not “invalid” like the Ninth Circuit here. See also Blue 
+Cross Blue Shield, 30 F. Supp. 2d at 306-307 (direct threat 
+defense applied where the only risk was to the employee 
+himself). ' 
+
+
+2. Echazabal concedes as well (at 11) that the Fifth, Tenth, 
+and Eleventh Circuits have held that the direct threat defense 
+covers threats to “the health or safety of the individual or 
+others” in cases in which an employee’s medical condition 
+resulted in a threat to the employee and others. Borgialli, 235 
+F.3d at 1290-1294 (summary judgment for employer that fired 
+employee with psychiatric disorder who “threatened suicide and 
+perhaps injury to others,” citing Moses and EEOC’s regulation); 
+LaChance, 146 F.3d at 834-836 (summary judgment for 
+employer that fired epileptic cook whose use of slicing ma- 
+chines and hot items threatened “harm to himself or others”); 
+Daugherty, 56 F.3d at 698 (judgment for employer; “the ADA 
+by its terms recognizes the same” “personal safety requirement” 
+as the Rehabilitation Act—that an employee not “‘endange[r] 
+the health and safety of the individual or others’”’). 
+
+
+Echazabal’s assertion that these cases “create no meaningful 
+conflict” because they do not turn “solely on the basis” of a 
+threat to self is flatly incorrect. Opp. 11. These decisions rest on 
+a disjunctive test—harm to the individual or others—and were 
+thus decided on the basis of a legal rule that would dictate a 
+different result in the present case. Echazabal’s speculation that 
+these circuits might abandon this legal rule if faced with a case 
+involving a threat only to self finds no support in any of the 
+
+
+' Lowe v. Alabama Power, 244 F.3d 1305 (11th Cir. 2001), casts no 
+doubt on Moses. In Lowe, the plaintiff urged the court of appeals “to 
+reverse [its] holding in Moses,” but the court declined even to 
+consider that argument, ruling on other grounds. /d. at 1306. 
+
+
+4 
+
+
+opinions and ignores the EEOC’s unambiguous regulation. In 
+each case the threat to the employee himself provided the basis 
+for an alternative holding, and “where there are two grounds, 
+upon either of which an appellate court may rest its decision, 
+and it adopts both, * * * each is the judgment of the court.” 
+United States v. Title Ins. Co., 265 U.S. 472, 486 (1924). 
+
+
+3. Contrary to Echazabal’s suggestion (at 18), the Ninth 
+Circuit clearly held that the direct threat defense is the “exclu- 
+sive” way in which safety may be taken into account under the 
+ADA, reasoning that to take safety into account in other ways 
+“would undermine the clear language of the ADA’s direct threat 
+provision.” Pet. App. 14a, 16a n.10 (rejecting arguments “that 
+a personal safety requirement is a valid qualification standard” 
+and that a person is not a “qualified individual” “if her employ- 
+ment would pose ‘a reasonable probability of substantial harm’ 
+to her’). The petition (at 17-18) showed that this holding 
+conflicts with rulings of the First, Fifth, and Seventh Circuits 
+that “safety requirements are not exclusively cabined into the 
+direct threat test” (Exxon, 203 F.3d at 873), but may also 
+prevent a person from being “qualified” under § 12112(a) or 
+form the basis of § 12113(a) “qualification standards.” 
+
+
+In an effort to explain away the Seventh Circuit’s decision 
+in Koshinski, Echazabal falsely states that the employee there 
+was “presently unable to perform the tasks of his job” and was 
+unqualified for that reason. In fact, the employee could physi- 
+cally perform the job—with pain he said he was willing to bear. 
+But the “job required him to do all of the things his doctors 
+recommended he refrain from doing” because they would 
+“exacerbate his condition.” 177 F.3d at 601; see id. at 603 
+(“there was no way to do the job * * * without subjecting 
+himself to the very things his doctors recommended he stay 
+away from’’). The only reason the court identified why the 
+employee was not a “qualified individual” was doctors’ recom- 
+mendations that he avoid the vibration and repetitive tasks 
+necessarily involved in the job because these would “cause his 
+
+
+5 
+
+
+condition to worsen.” Jd. at 602-603. The Seventh Circuit 
+would have found Echazabal not “qualified” on the same basis. 
+Koshinski is in direct conflict with the Ninth Circuit’s ruling 
+that Echazabal’s liver condition did not prevent him from being 
+qualified for the plant helper job that would harm or kill him. 
+See also Foreman v. Babcock & Wilcox Co., 117 F.3d 800, 803, 
+807-808 (Sth Cir. 1997) (person not “qualified” for job around 
+high voltage electrical equipment that would interfere with his 
+heart pacemaker).’ 
+
+
+Echazabal’s attempted distinction (at 18-20) of Exxon and 
+Amego because they involve “risk to others” is erroneous. The 
+Fifth Circuit in Exxon rejected the contention that “the direct 
+threat test must be used in every case where a safety-based 
+requirement is at issue” (203 F.3d at 873, emphasis added), 
+holding in equally broad terms that “where an employer has 
+developed a general safety requirement for a position, safety is 
+a qualification standard no different from other requirements 
+defended under the ADA’s business necessity provision.” /d. at 
+874. The Fifth Circuit thus plainly would analyze as a “qualifi- 
+cation standard” an employer’s requirement that an employee 
+not pose a serious risk to his own health or life—the require- 
+ment Chevron imposed when it described the “physical/ 
+environmental demands” for the plant helper job to include 
+ability to work with specified liver toxins. See Pet. 5-6. The 
+First Circuit’s decision in Amego that posing a threat to others 
+rendered a person not “qualified” rested on the court’s determi- 
+nation that the meaning of “qualified” in the ADA is the same 
+
+
+? This case is not “directly analogous” to that of an employee who 
+1s fired “because his degenerative heart disease makes a future heart 
+attack inevitable,” a situation Koshinski distinguished. Opp. 17; 177 
+F.3d at 603. Here, the medical opinions showed that Echazabal’s 
+disease would be exacerbated by doing the particular job and that 
+contact with the chemicals in the plant would injure or kill him, 
+
+
+perhaps quite quickly. 
+
+
+6 
+
+
+as in the Rehabilitation Act and its implementing regulations. 
+110 F.3d at 143-144. The Rehabilitation Act definition excluded 
+persons who would “endange[r] the health and safety of the 
+individual.” 29 C.F.R. § 1614.203(a)(6), Pet. App. 61a. 
+
+
+Koshinski, Exxon and Amego conflict directly with the 
+Ninth Circuit’s refusal to consider safety issues outside the 
+confines of the “direct threat” defense. Because the Ninth 
+Circuit interpreted that defense to exclude risk to self, in the 
+Ninth Circuit even the most grievous medical risk to the 
+employee can never be a factor under the ADA. Pet. App. 16a 
+& n.10. This Court “questioned” the view that the direct threat 
+defense is the exclusive way that “safety-related qualification 
+standards” may be justiiied in Albertson's, 527 U.S. at 569 
+n.15. This case provides the ideal occasion to address that 
+question and the proper ADA analysis of risk to self. 
+
+
+4. Amego’s reliance on the Rehabilitation Act reflects the 
+fact that the statutes are to be construed in pari materia because 
+“existing language and standards from the Rehabilitation Act 
+were incorporated into the ADA.” Statement of President Bush, 
+1990 U.S.C.C.A.N. 601 (July 26, 1990); Bragdon, 524 U.S. at 
+645 (Congress in the ADA adopted the “administrative and 
+judicial interpretations” of the Rehabilitation Act). Echazabal 
+concedes (at 1 1-12) that Rehabilitation Act cases routinely hold 
+that a person who in doing a job would pose a substantial risk 
+to “the health or safety of the individual or others” is not 
+“qualified.” Those include cases in which the principal risk is 
+to the employee himself. E.g., Chiari, 920 F.2d at 317 (applying 
+the legal rule that “a significant risk of personal injury can 
+disqualify a handicapped individual from a job”). Furthermore, 
+the Seventh Circuit in Knapp squarely held a student with a 
+heart condition not “qualified” under the Rehabilitation Act for 
+a university’s sports program solely because of the risk he 
+would die. 101 F.3d 473. Echazabal seeks to distinguish Knapp 
+because it did not involve employment (Opp. 12 n.4), but 
+Rehabilitation Act § 504’s unitary concept of a “qualified” 
+
+
+7 
+
+
+n equally governs employment; Knapp relies primarily on 
+air te precedents, including Chiari (see101 F.3d at 483); 
+and Echazabal elsewhere recognizes that non-employment 
+precedents establish standards applicable in the employment 
+context. See Opp. 6 (Bragdon, a public accommodation case, 
+establishes the standards for determining if a direct threat 
+exists). Had Congress intended a different result under the ADA 
+it would have said so rather than making minor adjustments 
+—greatly over-dramatized by respondent (at 27)—that are fully 
+consistent with the Rehabilitation Act approach. The Ninth 
+Circuit’s express rejection of settled Rehabilitation Act law 
+(Pet. App. 16a n.10) provides a further reason for this Court’s 
+review. 
+
+
+5. The numerous decisions discussed above and in the 
+petition show that the problem of individuals seeking jobs that 
+will harm or even kill them is a frequently recurnng one. 
+Respondent’s quibbling distinctions of the cases cannot obscure 
+the pervasive confusion among the courts of appeals as to how 
+such a situation is to be analyzed under the ADA. That uncer- 
+tainty has profound implications for employers faced with 
+making decisions in life and death situations, who cannot be 
+expected to fathom the micro-distinctions urged by respondent. 
+As the amicus briefs filed on behalf of thousands of employers 
+attest, businesses with nationwide operatious do not know how 
+to operate when EEOC regulations and courts of appeals around 
+the country state that they may legitimately be concerned about 
+the life and health of their employees, but the Ninth Circuit 
+declares that such concerns are “paternalistic” and unlawful. The 
+predicament of employers is worsened by stringent OSHA and 
+state laws that severely punish employers who fail to protect 
+their workers. The intolerable legal uncertainty that arises from 
+the Ninth Circuit’s ruling, and the moral quandary in which it 
+places businesses that seek to protect employees from harm, 
+create a pressing need for clarification by this Court. 
+
+
+8 
+
+
+6. On the merits, Echazabal parrots the Ninth Circuit’s 
+expressio unius argument without coming to grips with the plain 
+language of ADA § 12113(b) that a qualification standard “may 
+include” a requirement that others not be put at risk. Echazabal 
+offers no response to decisions of this Court (see Pet. 22-23) 
+establishing that this sort of reference to one possible defense, 
+stated in non-exclusive terms, does not negate other defenses 
+available to the employer. We question, as this Court did in 
+Albertson's, whether the EEOC has any statutory basis for its 
+litigating position limiting consideration of safety qualifications 
+to the direct threat defense. But that is a different question from 
+whether it is reasonable for the EEOC to include threat to self in 
+the direct threat defense. The EEOC regulation providing that 
+one proper qualification standard is the absence of a “direct 
+threat” to self is a perfectly reasonable interpretation of 
+§ 12113(a) and (b) that is entitled to deference. EEOC v. 
+Commercial Office Prods., 486 U.S. 107, 115 (1988) (“EEOC’s 
+interpretation [of a statute] for which it has primary enforcement 
+responsibility * * * need only be reasonable to be entitled to 
+deference”); Chevron, 467 U.S. at 843 n.11; see Pet. 28-29. 
+
+
+Echazabal’s contention (at 23-25) that anyone who can 
+perform the tasks associated with a job is “qualified” — regard- 
+less of whether doing those tasks will seriously harm or kill 
+him—contorts the plain language of the ADA and Congress’s 
+purpose to protect persons with disabilities. A “qualified individ- 
+ual” is one who “can perform the essential functions” of the job. 
+§ 12111(8). The prospective focus of this language demonstrates 
+that someone who cannot perform essential functions on a 
+continuing basis because doing the job will sicken or kill him is 
+not “qualified.” At the very least, the statute is silent on the 
+question whether a person who cannot perform the job without 
+serious risk to his health or life is “qualified.” It is Echazabal 
+who would rewrite the law to say that a person is “qualified” if 
+he “can perform the essential functions of the job, whether or not 
+
+
+those functions would kill or injure him.” Congress did not so 
+declare. 
+
+
+9 
+
+
+Moreover, § 12111(8) mandates consideration of “the 
+employer’s judgment as to what functions of 4 job are essential, 
+especially as evidenced by a written job description (like the one 
+Chevron prepared here). There is no sign that Congress meant to 
+preclude an employer from stipulating that an essential function 
+of a position is the ability to perform it safely. At the time 
+Congress drafted this language, it had long been established that 
+“protecting employees from workplace hazards * * * qualiflies) 
+as an important business goal.” Fitzpatrick v. Atlanta, 2 F.3d 
+1112, 1119, 1127 (11th Cir. 1993) (reassigning firemen with a 
+disease that prevented them from shaving did not violate the 
+Rehabilitation Act; a clean shave was critical to the effective use 
+of breathing equipment and “/p/erforming the essential func- 
+tions of a job means * * * being able to perform those functions 
+without risk of serious physical harm to oneself”) (emphasis 
+added). Congress in the ADA allowed employers to adopt 
+“physical criteri{a]” that are “consistent with business necessity” 
+(S. Rep. No. 101-116, at 27), while outlawing discnmination 
+based on “patronizing attitudes, ignorance, (and) irrational 
+fears.” H.R. Rep. No. 101-485 (Pt. 2), at 30. The Ninth Circuit’s 
+insistence that denying employment to a person whom doctors 
+say will be hurt or killed by the job falls on the forbidden side of 
+that line makes nonsense of Congress’s overarching purpose to 
+help, not harm, disabled people. 
+
+
+7. Echazabal admits that this case does not tum on any 
+factual dispute: the Ninth Circuit’s ruling depends not on any 
+“fact-specific question” about whether he would really be 
+harmed in the plant helper position but on a “basic /egal” 
+question regarding the meaning of the ADA. Opp. 7. The 
+erroneous legal interpretation adopted by Judge Reinhardt made 
+injury to Echazabal wholly irrelevant. 
+
+
+Respondent nevertheless tries to minimize the danger he 
+faced by citing the post hoc conclusions of doctors hired by his 
+lawyer for this litigation. There is no doubt, however, that 
+Chevron’s decision was reasonably based on the objective 
+
+
+10 
+
+
+medical evidence available to it at the time—which the authori- 
+ties cited by respondent hold is all that is required. See Opp. 6; 
+Bragdon, 524 U.S. at 649-650 (the employer’s “risk assessment 
+must be * * * reasonable in light of the available medical 
+evidence”); Lowe, 244 F.3d at 1309 (“The key inquiry is whether 
+the employer made a reasonably informed and considered 
+decision * * * ‘based on particularized facts,” which includes 
+“justifiable reliance on a physician’s diagnosis”). As the district 
+court found and the court of appeals did not question, “{a]ll the 
+medical opinions which specifically contemplated Echazabal’s 
+employment in the position of plant helper, and which were 
+relied upon and available to Chevron at the time of its decision 
+*** regarded any exposure to hepatotoxic chemicals, including 
+those to which Echazabal would be exposed in the position of 
+plant helper, as posing a serious, immediate risk to him.” Pet. 
+App. 47a; see Pet. 6-7. Those included the opinions of three 
+Chevron physicians experienced in industrial medicine, who 
+concluded that small exposures to liver toxins over a long period 
+would worsen Echazabal’s condition and a large exposure from 
+a relief valve discharge or other event could “cause death.” Pet. 
+6. They also included the oral opinion of Echazabal’s own 
+doctor, which far from being “ambiguous” (Opp. 4 n.3), was 
+“that Echazabal should not be exposed to” “substances present 
+in the refinery.” Pet. App. 37a. Echazabal’s doctor subsequently 
+confirmed in writing that “of course” Echazabal should not 
+work in a “job [that] ‘may entail exposure to hepatotoxic 
+hydrocarbons.” Jbid. (emphasis added). Chevron had no basis 
+to doubt what occupational medicine specialist Dr. Tang 
+concluded a few weeks later: “exposure to liver toxins would 
+harm and probably kill Echazabal,” perhaps from “massive 
+hepatic failure in a few hours.” C.A. Supp. App. 41a-42a. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted. 
+
+
+ROBERT P. DAVIS 
+
+EVAN M. TAGER 
+
+Mayer, Brown & Platt 
+1909 K Street, N.W. 
+Washington, D.C. 20006 
+(202) 263-3000 
+
+
+JON P. KARDASSAKIS 
+Hawkins, Schnabel, Lindahl 
+
+& Beck LLP 
+
+600 South Figueroa Street 
+Suite 1500 
+
+Los Angeles, California 90017 
+(213) 488-3900 
+
+
+May 2001 
+
+
+STEPHEN M. SHAPIRO 
+
+Counsel of Record 
+JAMES D. HOLZHAUER 
+Mayer, Brown & Platt 
+190 South LaSalle Street 
+Chicago, Illinois 60603 
+(312) 782-0600 
+
+

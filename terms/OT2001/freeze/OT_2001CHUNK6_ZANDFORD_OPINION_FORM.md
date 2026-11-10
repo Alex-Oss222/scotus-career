@@ -1,0 +1,7 @@
+# Zandford — form fixed before assignment
+
+One signed Opinion of the Court after argument independently construes the securities-transaction connection and states the resulting remand. Part I holds that a broker's contemporaneously concealed plan to sell entrusted customer securities for personal appropriation supplies the required connection when actual liquidation executes that deceptive plan, with the ordinary duty, scienter, interstate-means and rule conditions retained. Part II reverses the categorical dismissal and leaves civil proof, issue preclusion and authorized remedies for reassessment. These are the question's legal rule and necessary procedural implementation, not an automatic civil judgment from wire-fraud convictions.
+
+All eight reconciled Associates and Stone's approved position support the complete ground and both parts. No separate opinion, partial join or divided authorship is warranted. The decision adopts no independently controlling agency-deference proposition: the supported statutory rule suffices, and formal-adjudication classification would be a different rationale requiring its own verified predicates. The Court does not reject that possibility or modify the existing deference doctrines. Section 17(a) sufficiency and the disclaimed excessive-trading theory are outside review. No Stone fallback is needed.
+
+This form and its governing propositions are recorded before counts or author selection. All nine participants are eligible to carry the whole opinion on their own substantive positions.

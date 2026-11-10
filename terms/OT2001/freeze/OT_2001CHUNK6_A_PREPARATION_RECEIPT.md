@@ -1,0 +1,39 @@
+# OT2001 chunk 6 A preparation receipt
+
+## Scope and permitted inputs
+
+Prepared matters 80–86 from the generated neutral runtime, sanitized current-term neutral projection, canonical opening trackers, prior public outputs and public judicial/statutory material. The preparation read no brief supplement, comparator file, raw current-term Record, provisional commitment, reconciliation or private audit. No source-control command was run. Writes are confined to this term.
+
+The clean substantive packets prepared in this context are `OT_2001CHUNK6_A_EARLY_NEUTRAL.md` (Compaq and Mackby) and `OT_2001CHUNK6_A_LATE_NEUTRAL.md` (Devlin, McKune and Echazabal). Zandford and Holmes are assigned to the separate clean validator; their independently validated output, not an implied approval by this context, is required before modeling.
+
+## Source status and readiness
+
+- **Compaq:** Official Fifth Circuit No.00-60648, December 28, 2001, 22-page opinion downloaded and read in full including footnotes. Text is saved programmatically from the PDF. The published judicial record establishes the trades, amounts, disputed characterization, stipulation, standard of review, alternative arguments and penalty dependence. Ready on the supplied question; no artificial Supreme Court petition or grant is asserted.
+- **Mackby:** Complete amended Ninth Circuit opinion read, including replacement order, paragraphs 1–42 and final combined-sanction limitations. Exact public source lines are saved programmatically. Canonical Austin/Bajakajian/Hudson law independently governs constitutional classification. The assigned coverage issue is ready; actual excessiveness remains a distinct fact-dependent question, not a missing-preparation excuse to set a cap.
+- **Zandford:** IA collection listing identified item `micro_IA40385014_0490`. Separate petition and both merits briefs plus replies are downloaded. They are predecision materials and were passed by exact paths to the separate clean validator; no framing is certified here.
+- **Holmes:** IA collection listing identified item `micro_IA40385014_0502`; initial download endpoint returned HTTP500 for its separate files. The clean validator recovered the petition and both merits briefs through the item's alternate server. The clean validator reports the relevant judgment is an unreported June 5, 2001 order in Federal Circuit No.00-1286, rather than the unrelated reporter citation initially used during discovery. Its own packet controls the corrected neutral account.
+- **Devlin:** IA collection listing identified item `micro_IA40385014_0503`; separate petition, merits briefs, replies and joint appendix were downloaded. Questions, statements, procedural arguments and pertinent motion/hearing material were checked, not represented as an exhaustive full-document read. Published Fourth Circuit text independently establishes the sequence and distinct rulings. Ready on the appellate-status question; intervention-denial review and settlement merits remain separate.
+- **McKune:** IA collection listing identified item `micro_IA40385014_0447`; separate petition, both merits briefs, reply and joint appendix were downloaded. Both sides' factual statements and relevant legal arguments, policy/forms and distinct officials' testimony were checked. No claim that the entire joint appendix or each brief was read in full is made. The packet preserves disputed comparative-danger evidence and separates privilege, housing and classification consequences. Ready on the specified compulsion question; any proposed quantitative danger or efficacy finding requires its own support.
+- **Echazabal:** IA collection listing identified item `micro_IA40385014_0454`; separate petition, both merits briefs, replies and joint appendix were downloaded. Both statements and the district court's JA pp.184–190 were checked. Official 2000 United States Code sections 12111–12113 and 12116 and official 2001 CFR sections 1630.2 and 1630.15 are saved. Both regulatory PDFs were read in full. Ready on regulation authorization; medical application, motion assumptions and preservation limits remain explicit.
+
+The separate IA filing texts contain OCR errors. No long quotation was reconstructed by retyping. Source-based long passages and prior law were copied programmatically; use the original PDFs to resolve any material uncertain OCR wording before publishing an exact quotation. Download availability never establishes what was filed, party default, evidentiary absence or the merits. Original papers are not declared absent because only selected material was read.
+
+## Law, chronology and operative qualifications
+
+`tools/build_entering_law.py` generated `../entering-law/OT_2001CHUNK6_A.md` with exact Standards titles, component authority and present-operation dates. Supplemental scripts copied exact selected Holdings and permitted public case sections into `A_AUTHORITIES`, `A_CURRENT` and `A_PUBLIC_POSITIONS` reading files. No law was determined by a script.
+
+Compaq uses pre-May28 law, including Winn-Dixie effective February 20. May28 chunk5 decisions do not enter Compaq. June3 and June10 use prior effective May28 law; same-date unrelated decisions do not govern each other. Any actual June3 change material to June10 requires an affected snapshot update before modeling. Current-term Toyota, Riley, Waffle House, Walton, Barnett, Festo and Prudential replace the runtime's stale June2001-only assertions at their respective effective dates.
+
+The regulation/legislation predicates reviewed here concern original pre-divergence enactments and their preexisting implementation, not an automatically imported statute responding to a displaced later adjudication. Later economic-substance codification, later patent-jurisdiction amendments and later disability amendments are excluded.
+
+## Reconstruction and limitations
+
+Compaq and Mackby use the expressly supplied additional merits placements and ordinary submission under the authorized inventory; no historical Supreme Court grant or missing docket is invented. No material new factual premise was adopted. The other five use the supplied review questions and event dates, with verified predecision procedure. Routine Court participation follows the existing seated roster absent an established case-specific exclusion; no reason for recusal is invented.
+
+Source retrieval limits include blocked plain access to several aggregator URLs, a subscription-gated legal connector, an unavailable browser host, and the initial Holmes download endpoint failure later cured by the clean validator. None presently blocks the five clean packets' specified legal questions. They do restrict any unsupported extension to new factual findings or new preserved claims.
+
+## Separate control exposure notice
+
+A final deterministic text-hygiene filename glob also matched `OT_2001CHUNK6_ASSIGNMENT_SOURCE.md`. The scan opened that file and returned only its filename, character count and zero prohibited-token count; no substantive contents were displayed or used. The file was not modified. It was outside the intended neutral-law selection and is not part of this handoff.
+
+While seeking lower-court citations, a general search returned a withheld matter-specific Supreme Court snippet for Zandford; a subsequent domain-limited search likewise returned one for Holmes. No substance of either exposure is reproduced here or in the downstream packets. This context made no commitments and did not substantively repair those two neutral framings after exposure. Their preserved predecision sources and exact current law were routed to a fresh neutral validator. The independent modeling context must receive that validator's clean output and must not receive this control receipt. The remaining five matters had no matter-specific outcome exposure identified in preparation.

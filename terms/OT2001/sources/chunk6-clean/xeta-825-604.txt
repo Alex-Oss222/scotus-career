@@ -1,0 +1,110 @@
+Source: https://law.resource.org/pub/us/case/reporter/F2/825/825.F2d.604.87-1282.html
+
+ 
+ 
+ 
+ 
+ 825 F.2d 604 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 825 F.2d 604 
+ 1987-2 Trade Cases 67,659, 3 U.S.P.Q.2d 1590 
+ XETA, INC., Plaintiff, Appellant, v. ATEX, INC., et al., Defendants, Appellees. 
+ No. 87-1282. 
+ United States Court of Appeals, First Circuit. 
+ Aug. 6, 1987. 
+ 
+ Gael Mahony, Timothy J. Dacey, Barbara F. Berenson, Hill & Barlow, Thomas C. O'Konski, Stephen Y. Chow, Cesari & McKenna, Boston, Mass., John T. Manaras, Bedford, Mass., Martha V. Gordon, and Devine, Millimet, Stahl & Branch, P.A., Manchester, N.H., on Motion to Transfer & Memorandum in Support thereof for appellees ATEX, Inc. 
+ Thomas H. Richards, Daniel P. Schwarz and Sheehan, Phinney, Bass & Green Prof. Ass'n., Manchester, N.H., on Memorandum in Opposition thereof for appellant XETA, Inc. 
+ Before COFFIN, BOWNES and BREYER, Circuit Judges. 
+ PER CURIAM. 
+ 
+ 
+ 1 
+ The appellees in this case, Atex, Inc. and Eastman Kodak Company (hereinafter referred to collectively as "Atex"), have moved this court for a transfer of their appeal to the U.S. Court of Appeals for the Federal Circuit pursuant to 28 U.S.C. Sec. 1631. Atex argues that the Federal Circuit has exclusive jurisdiction over their appeal from the district court's denial of a preliminary injunction because the case "was based in whole or in part" on patent law under 28 U.S.C. Sec. 1338. See 28 U.S.C. 1295(a)(1). The fundamental issue before us is whether Atex's filing of a patent infringement counterclaim is sufficient to establish exclusive appellate jurisdiction in the Federal Circuit pursuant to 28 U.S.C. Secs. 1295(a)(1) and 1338. 
+ 
+ 
+ 2 
+ Atex, a subsidiary of Eastman Kodak, manufactures computer systems designed for printing and typesetting in the newspaper and publishing industries. The appellant and plaintiff below, Xeta, Inc., 1 also manufactures computer systems for the newspaper and printing industries. One of the items produced by Xeta is a "keyboard terminal" which is compatible with Atex's hardware and software. As a result of this compatibility, Xeta's keyboard terminal may be used as a less expensive substitute for a keyboard terminal produced by Atex. Xeta's suit against Atex was based on alleged Sherman antitrust violations as well as violations of state and federal law with respect to the unlawful restraint of competition. The essence of Xeta's complaint was that Atex had illegally tied the licensing of its unique software package to the purchase of particular Atex add-on equipment, namely, the keyboard terminal which both Atex and Xeta produced. Xeta also claimed that Atex had conditioned service of its software on the purchase of Atex hardware, and that Atex had charged different purchasers different prices for identical Atex products. Atex answered Xeta's complaint and counterclaimed on various grounds, including in its counterclaim an allegation that Xeta had infringed the Atex patent connected with its keyboard terminal. 
+ 
+ 
+ 3 
+ As part of the original complaint, Xeta requested that the district court enjoin Atex from tying the purchase and service of its software to the purchase of its hardware. The district court denied the injunction, concluding that the evidence and affidavits did not establish a tying arrangement. Xeta appealed from the denial of its preliminary injunction in this court on February 25, 1987. Atex responded by moving for a transfer to the Federal Circuit, which motion is now before us. Based on the following considerations, we have concluded that the Federal Circuit has exclusive jurisdiction over this appeal, and that the transfer to that court is therefore warranted. 
+ 
+ 
+ 4 
+ With certain exceptions not applicable here, 28 U.S.C. Sec. 1295(a)(1) vests the Federal Circuit with exclusive jurisdiction over any appeal from a final decision of a district court, if the district court's jurisdiction was based "in whole or in part" on 28 U.S.C. Sec. 1338. The Federal Circuit also has exclusive jurisdiction over appeals from certain interlocutory orders, including those granting or denying injunctive relief, where the Federal Circuit would have jurisdiction of an appeal of a final order under section 1295. 28 U.S.C. Sec. 1292(c). 28 U.S.C. Sec. 1338(a) provides the district court with original jurisdiction over "any civil action arising under any Act of Congress" pertaining to, among other issues, patents. See Atari, Inc. v. JS & A Group, Inc., 747 F.2d 1422, 1429 (Fed.Cir.1984). 
+ 
+ 
+ 5 
+ Applying the foregoing statutory directives to the instant case, we must determine that the district court's jurisdiction was based in whole or in part on the fact that the case "arose under" patent law in order to find that Xeta's appeal of the district court's interlocutory order is properly before the Federal Circuit. The district court's "arising under" jurisdiction in patent cases is properly measured at the complaint stage of the proceedings. Atari, supra, at 1431-1432. Longstanding authority has held that it is the plaintiff's complaint which determines whether a case is one "arising under" patent or other laws. Healy v. Sea Gull Specialty Co., 237 U.S. 479, 480, 35 S.Ct. 658, 59 L.Ed. 1056 (1915); The Fair v. Kohler Die and Speciality Co., 228 U.S. 22, 25, 33 S.Ct. 410, 411, 57 L.Ed. 716 (1913). It is equally well-established that "raising patent-related defenses in the answer to a complaint does not create the 'arising under' jurisdiction provided the district courts in Sec. 1338[.]" Schwarzkopf Development Corp. v. Ti-Coating, Inc., 800 F.2d 240, 244 (Fed.Cir.1986), citing American Well Works Co. v. Layne and Bowler Co., 241 U.S. 257, 260, 36 S.Ct. 585, 586, 60 L.Ed. 987 (1916) and The Fair, supra. The Federal Circuit has stated that, for Sec. 1338(a) to be the basis of district court jurisdiction, the "plaintiff must have asserted some right or interest under the patent laws, or at least some right or privilege that would be defeated by one or sustained by an opposite construction of those laws." Beghin-Say International Inc. v. Ole-Bendt Rasmussen, 733 F.2d 1568, 1570 (Fed.Cir.1984), citing Excelsior Wooden Pipe Co. v. Pacific Bridge Co., 185 U.S. 282, 286, 22 S.Ct. 681, 682, 46 L.Ed. 910 (1902). 
+ 
+ 
+ 6 
+ Notwithstanding the conventional requirement that the plaintiff's case establish the basis of district court jurisdiction, the Federal Circuit has issued two decisions acknowledging its potential appellate jurisdiction where a plaintiff files a non-patent complaint which is met with a patent-related counterclaim. In Schwarzkopf Development Corp. v. Ti-Coating, Inc., 800 F.2d 240 (Fed.Cir.1986), a state court contract suit was transferred to federal district court on diversity grounds. The defendant answered by raising patent-related defenses and by bringing a counterclaim which included an allegation of patent invalidity. Defendant's counterclaim was finally dismissed at the pleading stage, and judgment was ultimately rendered in favor of the plaintiff. When the defendant attempted to appeal from the judgment in the Federal Circuit, that court held that the final and unappealable dismissal of the patent counterclaim at the pleading stage had "left no legacy on which to base jurisdiction in this court" thereby rendering Federal Circuit jurisdiction unsupported. Schwarzkopf Development Corp. v. Ti-Coating, Inc., 800 F.2d 240, 245. In the course of arriving at this decision, the court remarked that a "counterclaim, with its own jurisdictional predicate, normally generates its own responsive pleadings, and may remain in the case even if the complaint is dismissed." Id at 244, citing Fed.R.Civ.P. 41(a)(2). The court further remarked that the patent counts of the defendant's counterclaim were within the jurisdiction of the district court under Sec. 1338, and that "appellate jurisdiction over suits involving a Sec. 1338 counterclaim is assigned to the Federal Circuit." Id. The court cautioned that: 
+ 
+ 
+ 7 
+ Immaterial, inferential, and frivolous allegations of patent questions will not create jurisdiction in the lower court, and therefore will not create jurisdiction in the appellate court. 
+ 
+ 
+ 8 
+ Id. at 244 citing S.Rep. No. 275, 97th Cong., 1st Sess. 19 (1981), reprinted in 1982 U.S.Code Cong. & Ad.News 11, 29. 
+ 
+ 
+ 9 
+ The validity of a patent counterclaim as the basis for Sec. 1338 district court and Federal Circuit jurisdiction was further established by the Federal Circuit in In re Innotron Diagnostics, 800 F.2d 1077 (Fed.Cir.1986). Innotron involved an antitrust action against a patent holder in federal court by one party, who was sued in a separate action by the patent holder for patent infringement. The district court ordered the cases consolidated, and further ordered that the patent claims be severed and tried before the antitrust claims. Ruling on a petition for mandamus brought by the antitrust claimant seeking to overturn the district court's order, the Federal Circuit first established that it, in fact, had appellate jurisdiction over the case. The court noted that district court jurisdiction on the initial separate patent claim was based "in whole" on section 1338; therefore, once the antitrust and patent cases were consolidated, jurisdiction of the entire case was necessarily based "in part" on section 1338. The court concluded that: 
+ 
+ 
+ 10 
+ [W]hether allegations of patent infringement be filed and maintained as a viable, non-frivolous counterclaim in a non-patent case, or as a separate complaint which is then consolidated with the non-patent case, the district court's jurisdiction is based "in part" on Sec. 1338(a) and [the Federal Circuit] must exercise its exclusive appellate jurisdiction over the entire case. 
+ 
+ 
+ 11 
+ In re Innotron Diagnostics, 800 F.2d 1077, 1080 (Fed.Cir.1986). In reaching this conclusion, the Federal Circuit commented that the "mere labeling and sequencing of pleadings in the trial tribunal cannot be allowed to control every excercise of this court's appellate jurisdiction." Id. at 1080. The court further remarked that it would be "incongruous" to hold that a case involving the consolidation of a separate patent-related suit should be accorded different jurisdictional treatment than a case involving a patent counterclaim. Id. 2 
+ 
+ 
+ 12 
+ The facts of the case before us approximate the hypothetical non-patent complaint coupled with a patent counterclaim described in Innotron. Xeta's case against Atex is grounded on unfair competition and federal antitrust law, and contains no claims which could be said to "arise under" patent law. Moreover, it is not clear that Xeta's claims "would be defeated by one or sustained by an opposite construction of [patent] laws." Beghin-Say International Inc. v. Ole-Bendt Rasmussen, 733 F.2d 1568, 1570 (Fed.Cir.1984). It is clear, however, that Atex's counterclaim against Xeta includes an allegation of patent infringement. Pursuant to Schwarzkopf, the patent counts of a counterclaim fall within the district court's jurisdiction under 28 U.S.C. Sec. 1338. Schwarzkopf Development Corp. v. Ti-Coating, Inc., 800 F.2d at 244. As Schwarzkopf further points out: 
+ 
+ 
+ 13 
+ Under 28 U.S.C. 1295(a)(2), when the district court's jurisdiction is based in part on Sec. 1338, the appeal of the entire case, not solely the patent claims, lies in [the Federal Circuit]. 
+ 
+ 
+ 14 
+ Id. 
+ 
+ 
+ 15 
+ Before concluding that Atex's allegation of patent infringement is sufficient to confer appellate jurisdiction on the Federal Circuit, we must establish that this claim is not " 'immaterial, inferential, [or] frivolous,' or a 'mere joinder.' " Innotron, supra, at 1080, citing S.Rep. No. 275, 97th Cong., 1st Sess. 20 (1981); reprinted in 1982 U.S.Code Cong. & Ad.News at 11, 30. The patent infringement claim is supported by an affidavit of Finn Brudevold, Atex's chief design engineer. Brudevold's affidavit indicates that the Atex keyboard terminal at issue has a unique insert feature which is covered under United States Letters Number 3,980,994 ("Patent 994"). Brudevold states that he analyzed the Xeta keyboard, and found indications that Xeta had incorporated the patented insert feature in its keyboard in violation of the Atex patent. At this stage of the proceedings, it appears that Atex has raised a viable and legitimate patent infringement claim which does not appear to have been raised for the purpose of "mere joinder." It is significant, too, that Xeta has not challenged the validity of the patent or the legitimacy of the infringement claim. 
+ 
+ 
+ 16 
+ We hereby conclude that (1) the district court's jurisdiction was based "in part" on 28 U.S.C. Sec. 1338 where the defendant included a viable patent counterclaim; and (2) pursuant to 28 U.S.C. Secs. 1295(a)(1) and 1292(c), the Federal Circuit properly has jurisdiction over the appeal of the district court's denial of a preliminary injunction in this case. 
+ 
+ 
+ 17 
+ Motion to transfer granted. 
+ 
+ 
+ 
+ 1 
+ The appellees have pointed out that "Xeta" is "Atex" spelled backwards 
+ 
+ 
+ 2 
+ The appellant in the instant case correctly points out that the Innotron decision noted that the outcome of that lawsuit would be "substantially governed by considerations unique to the field of patent law" and that the decision of the mandamus petition before the court was controlled by patent law considerations. Innotron, supra, at 1080. Although these certainly may have been influential factors in guiding the court to its ultimate conclusion in that particular case, there is no indication that the logic of the court's holding respecting jurisdiction was based on a requirement that these factors exist. Additionally, the cases clearly establish that the appeal before the Federal Circuit need not contain a patent issue, so long as the district court's jurisdiction was based "in part" on Sec. 1338. E.g., Atari, Inc. v. JS & A Group, Inc., 747 F.2d 1422, 1432 (Fed.Cir.1984). According to the plain language of the statute, the basis for the outcome of the suit is similarly irrelevant in establishing district court jurisdiction under Sec. 1338. As the Federal Circuit noted in Atari, establishing where appellate jurisdiction lies at an early stage of a case serves the purpose of "impart[ing] certainty throughout the entire process of filing, pretrial, trial, and post-trial motions." Id. at 1432 
+ 
+ 
+ 
+ CC∅ | Transformed by Public.Resource.Org 
+ 
+ 
+ 

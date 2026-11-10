@@ -1,0 +1,2625 @@
+Source: https://archive.org/download/micro_IA40385014_0454/micro_IA40385014_0454%2007.%20Respondents%20Brief_djvu.txt
+
+No. 00-1406 
+
+
+In The 
+Supreme Court of the United States 
+
+
++ 
+
+
+CHEVRON U.S.A., INC., 
+
+
+Petitioner, 
+
+
+MARIO ECHAZABAL, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+S 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+S 
+Cual R. Fe_ps_um Larry MINsky 
+GEORGETOWN University Law Counsel of Record 
+CENTER Law Office OF 
+600 New Jersey Ave., N.W. Larry MINsky 
+Washington, DC 20001 18000 Studebaker Road, 
+(202) 662-9595 Suite 310 
+
+
+Cerritos, CA 90703-2681 
+
+
+SAMUEL R. BAGENSTOS (562) 809-9273 
+
+
+1545 Massachusetts Ave. 
+Cambridge, MA 02138 
+(617) 495-9299 
+
+
+COCKLE LAW BRIEF PRINTING CO., (890) 225-6964 
+OR CALL COLLECT (402) 42-2831 
+
+
+i 
+QUESTION PRESENTED 
+
+
+Whether the Americans with Disabilities Act permits 
+an employer to deny a job to an individual with a disabil- 
+ity who is able to perform all essential job tasks and who 
+poses no threat to the health or safety of others, but who 
+the employer believes will be harmed by the job at issue. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTION PRESENTED. ....cccccccccccccccsoscoes i 
+TABLE OF CONTEIIEG.... occccccvesccscstcccecctess ii 
+TABLE OF AUTHORITIES .......cccccccccccccceces iv 
+STATUTORY PROVISIONS INVOLVED............. 1 
+STATURGIIT o.oo cccccncccnescaccscsscneneanaennenen 1 
+A. Chevron’s Exclusion of Echazabal............ 1 
+B. What a Reasonable Inquiry Would Have 
+PSVOREOS ooo ccccccccscccescceseccusssseeennes 5 
+C. The District Court and Court of Appeals Opin- 
+ORD. oc ccccccceccoccececsesecsansenneuenenees 8 
+SUMMARY OF ARGUMENT.............-+50eee0e 8 
+ADTUIGEIT 2.0 ccccccccescncscsescssecnesueeeanee 11 
+I. In Crafting the “Direct Threat” Provision, Congress 
+Plainly Rejected Any Defense Based on a Risk to 
+the Employee’s Own Health or Safety........... 11 
+A. The ADA’s Text Makes Plain the Decision to 
+Eschew any Threat-to-Self Defense ........ 11 
+B. The Omission of a Threat-to-Self Defense 
+Reflects Congress’s Rejection of Paternalistic 
+Discrimination Against Individuals with 
+hemes... scccccccscccccsseeucousucete 16 
+II. The General “Qualification Standards” Defense 
+Cannot Justify Singling Out an Individual for 
+Exclusion Because of a Concern That His Dis- 
+ability Poses Risks to His Own Safety......... 22 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+A. The General “Qualification Standards” Pro- 
+vision May Not be Read to Undermine the 
+— Limitations Congress Placed on the 
+“Direct Threat” Defense .................. 
+
+
+B. By Its Terms, the General “Qualification 
+Standards” Defense Does Not Apply to an 
+Employer’s Decision to Single Out an Indi- 
+vidual with a Disability for Exclusion Based 
+on Asserted Safety Risks.................. 
+
+
+C. The Desire to Protect Employees from Pos- 
+ing Risks to Themselves Cannot Be Justified 
+as “Job-Related and Consistent with Busi- 
+mess Necessity”... ..........ccceeeeeeeeees 
+
+
+D. The Fear of Liability Does Not Justify Sin- 
+gling Out Individuals with Disabilities for 
+xclusion Based on Risks They Might Pose 
+
+to Themselves ........ 0... cceeeeeeeeeeeees 
+
+
+E. The EEOC’s Threat-to-Self Regulation is Not 
+Entitled to Deference .................555 
+
+
+F. Even Under the EEOC’s “Threat-to-Self” 
+Regulation, Chevron Has Not Established 
+that Echazabal Would Pose a Direct Threat 
+to His Own Safety ..... 2.22.5... eeeeeees 
+
+
+Ill. Echazabal is a Qualified Individual with a Dis- 
+Sn cecccceccccccsccscctbescccccccuccccces 
+
+
+26 
+
+
+33 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Albemarle Paper Co. v. Moody, 422 U.S. 405 (1975) .... 33 
+Albertson's, Inc. v. Kirkingburg, 527 U.S. 555 (1999). ... 36 
+
+
+Bragdon v. Abbott, 524 U.S. 624 (1998) ........ 12, 19, 43 
+Brown v. Gardner, 513 U.S. 115 (1994). ............... 41 
+Chevron U.S.A., Inc. v. Natural Resources Def. Coun- 
+
+Ch TB GRP Ge GE Gee occ ccccnceseccsesedces 40 
+Chickasaw Nation v. United States, 122 S. Ct. 528 
+
+GEE s cvcccccnscesccccned tecseseeseuneeceéucesess 15 
+City of Los Angeles, Dep't of Water & Power v. Man- 
+
+mare, GS UB. FEB CRIDER. oc ccccccccccccccce 26, 30, 31 
+Dothard v. Rawlinson, 433 U.S. 321 (1977)......... 18, 25 
+
+
+Eckles v. Consolidated Rail Corp., 94 F.3d 1041 (7th 
+Cir. 1996), cert. denied, 520 U.S. 1146 (1997) ...... 24 
+
+
+EEOC v. Exxon Corp., 203 F.3d 871 (Sth Cir. 2000) .... 32 
+Foreman v. Babcock & Wilcox Co., 117 F.3d 800 (5th 
+
+
+GE TESS cvcsccccencscdncccseccanusencbeaseued 22, 48 
+Frontiero v. Richardson, 411 U.S. 677 (1973)........... 17 
+Garcia-Ayala v. Lederle Parenterals, Inc., 212 F.3d 638 
+
+GEES GR BED vec cccccccccccevcscoscescesesecsesee 36 
+Granite Constr. Co. v. Superior Court, 197 Cal. Rptr. 
+
+D GER GD Tee cccccecccncuscesecessccedsoasees 38 
+Griggs v. Duke Power Co., 401 U.S. 424 (1971)..... 28, 33 
+
+
+HCSC-Laundry v. United States, 450 U.S. 1 (1981) 
+PEP GRR 2 oc ccncccacsscennspégencekscceesenete 23 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Industrial Union Dep't v. American Petroleum Inst., 
+448 US. G07 (1980)... ccc ccccccccccccccccccccces 37 
+International Union v. Johnson Controls, Inc., 499 ; 
+WB. BOF (IODA)... cc ccccccccccccccccccccccccccs passim 
+Jamison v. GSL Enters., Inc., 711 N.Y.S.2d 413 (App. 
+BR, FIED cc ccccccccccecccccccccccccesceccececescs 38 
+Mississippi Univ. for Women v. Hogan, 458 U.S. 718 
+GIDE oc ccccccccccccesoccccccccssscecsesseccccoses 17 
+Morales v. Trans World Airlines, Inc., 504 U.S. 374 
+BITE cc ccccscccdecccccccecccccossscesscocccoccees 23 
+Morse v. Republican Party of Virginia, 517 U.S. 186 
+CRIDED . cccccccccccccceccvcccescccevccccvcceseceses 30 
+Patterson v. Summers, 2000 WL 366113 (E.E.O.C. 
+Serre Tr 22 
+P v. Chicago Magnet Wire Corp., 534 N.E.2d 962 
+CHR. BOGDP. 2 nc ccccccccccccccsccccccccccccccesoccens 39 
+People v. Pymm, 563 N.E.2d 1 (N.Y. 1990).......----- 39 
+Russell v. Bush & Burchett, Inc., 2001 WL 1524554 
+(WV. BOB). occ cccccccccccccccccccccceccccescces 39 
+
+
+School Board v. Arline, 480 U.S. 273 (1987) ....13, 19, 27 
+Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999). .41, 47 
+Toyota Motor .. Kentucky, Inc. v. Williams, 122 
+
+
+S. Ct. 681 ( OD cddedensddnasnceusesdoctéeéueesor 42 
+TRW Inc. v. Andrews, 122 S. Ct. 441 (2001) .......... 25 
+Verity Corp. v. Howe, 516 U.S. 489 (1996) .........--- 23 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Wards Cove Packing Co., Inc. v. Atonio, 490 U.S. 642 
+GREED checcccccecosescoccecsossccecosessesesecoses 29 
+Whirlpool Corp. v. Marshall, 445 U.S. 1 (1980)........ 48 
+STATUTES AND REGULATIONS 
+BP Woe Op Gee cbedccccccdccctescensscvcccess 37 
+29 US.C. § FOG(EB) (1908)... 2. cece eccccccees 13 
+29 UBL. | FOGG) (BGGB)... occ ccccccccccccccccecs 13 
+BP Gs OP PSE Sec ccncncnccsecosssecosseece 13 
+Ge De © Fs scccccccccccecescecscasccsce 17 
+GD THe © Te od cvccsccsccccesccccescess 17, 20 
+GD TE © TR ces ccccccccccccccoscesceesess 27 
+GB De © BD ccccsccccccccscoscescecenscni 15, 24 
+Be edoaknvkccccansdiona 14, 45, 46, 49 
+SS Geis © FD sccvccdevccccececccsestesucecess 23 
+reer 40 
+Ge Gee © Te woccesecccnccccnscecsscss 11, 27, 30 
+Pe Baw Go de cteccersscccccccsetncesees 27 
+SS Geis © TD wc ccevcsvevccscesceceseoss 40 
+Se Fae 0 CD cc cvccccccdbessoscessi 27, 28, 33 
+Se ete HF Fe ceccceccccccccccvestbscsceéncesdés 45 
+Ge Die © ED occvccnnstctccconcasecnceces passim 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+42 U.S.C. § 12113(b) ..... 6... eee eee eee Jeccsces passim 
+GB UBC. © TEBBRED 2 cc ccccccccccccccccccccccscccees 12 
+GB UBL. © TABBED... oc ccccscccccccccccccccsccccess 20 
+42 U.S.C. § 2000e-2(a)(1)... 2... eee cece eee cece eee eens 30 
+Cal. Labor Code § 6402...........ccceeeveeeeeeeeees 38 
+Cal. Labor Code § 6306(a) ...........5.eeeeeeeeeees 38 
+Cal. Labor Code § 6401...........62 cece e cee eeeeeees 38 
+Cal. Labor Code § 6403(c) ..........---eeeeeee Leoden 38 
+Cal. Labor Code § 6406(d)............-- cee eeeeeeeee 38 
+N.Y. Labor Law § 200(1)...........2 5 cee eeee eee eees 38 
+28 C.F.R. § 42.540(/)(1) (1990) ........---- ee cece eee 14 
+29 C.F.R. § 1613.702(f) (1990).........-- eee eee e eee 14 
+29 C.E.R. § 1630.15(b).... 0.6... cece cece eee eee eens 29 
+29 CER. § 1630.15(b)(1) ......0.0cceececeeceececeess 29 
+I og cccinccavccncstbecessocccd 12 
+29 C.B.R. § 16390.1K(c) .... 2... cc cccccccccccccccesccees 29 
+29 CBR. S 169B.20e) 2... ccccccccccccccccccess 34, 43, 44 
+29 C.F.R. § 1977.12(b)(2) ... 2.2.2 cece cece eee eee eens 48 
+29 C.E.R. § 32.3 (1990) ........ 22 cece eee e eee eee eeees 14 
+SD SCOR. FO, MB vccccccccccccccccccccosccsescccess 29 
+
+
+45 C.FR. § 84.3(k)(1) (1990)... . 2.2.66. ee eee eee eee 14 
+
+
+viii 
+TABLE OF AUTHORITIES - Continued 
+
+
+MISCELLANEOUS 
+
+
+William M. Grove & Paul E. Meehl, Comparative 
+Efficiency of Informal (Subjective, Impressionistic) 
+and Formal (Mechanical, Algorithmic) Prediction 
+Procedures: The Clinical-Statistical Controversy, 2 
+
+
+Psychol. Pub. Pol’y & L. 293, 305-309, 314 (1996) .... 
+
+
+Philip Harvey, An Analysis of the Principal Strate- 
+gies That Have Influenced the Development of 
+American Employment and Social Welfare Law 
+During the 20th Century, 21 Berxeey J. Emptoy- 
+
+
+MENT & Las. L. 677, 733-737 (2000)............. 
+
+
+1 ArtHur Larson & Lex K. LArRson, Worxker’s Com- 
+
+
+PENSATION 1-9 to 1-11 (Desk ed. 2001)........... 
+
+
+MerRIAM-Wesster’s COLLEGIATE DicTIONARY 472 
+
+
+SE Ge HD ocecncdeesebdeesensedecenseneses 
+Nationa Sarety Counci., Injury Facts 54 (1999) .. 
+
+
+Mark A. Rornstein, OccuPATIONAL SAFETY AND 
+Heattu Law 207-208, 213-214, 215-216 (4th ed. 
+
+
+| =PPPYTTTTTTTITITTITIT TIT TTT TTT TTT Terri ire 
+
+
+Mark A. Rothstein, Employee Selection Based on 
+Susceptibility to Occupational Illness, 81 Mich. L. 
+
+
+Rev. 1379, 1417 (1983) .........-0 cc cccceeeeeees 
+
+
+Craig Zwerling, et al., Occupational Injuries among 
+Workers with Disabilities, in Emptoyment, Disasi.- 
+ITY, AND THE AMERICANS wiTH Disasiuities Act 315, 
+
+
+325 (Peter David Blanck, ed., 2000) ............ 
+
+
+Page 
+
+
+21 
+
+
+1 
+STATUTORY PROVISIONS INVOLVED 
+
+
+Relevant provisions of the Americans with Disabil- 
+ities Act are reproduced in an appendix to this brief. 
+
+
+STATEMENT 
+A. Chevron’s Exclusion of Echazabal 
+
+
+This case involves Chevron’s admittedly disability- 
+based decision to exclude Mario Echazabal in early 1996 
+from employment at its El Segundo, California, refinery - 
+a decision that was motivated solely by the fear that 
+Echazabal himself would suffer harm on the job in the 
+future. The issue first arose in 1992, when Echazabal 
+applied for a job with Chevron in the coker unit of the El 
+Segundo refinery. J.A. 117. When he filed that applica- 
+tion, Echazabal had worked at the refinery since 1972 
+(with a three-year break from 1976 through 1978), albeit 
+for various contractors retained by Chevron rather than 
+for the company itself. J.A. 117. During that time — and 
+“steadily for approximately 12 to 13 years” — Echazabal 
+had worked primarily at the coker unit. J.A. 117. 
+
+
+When Echazabal applied to Chevron in 1992, the 
+company extended him an offer of employment condi- 
+tioned on the results of a physical examination. J.A. 118. 
+Philip Baily, the company doctor who performed the 
+examination, concluded that Echazabal had an uncorrect- 
+able liver abnormality and should not be exposed “to 
+solvents or other liver toxic chemicals in order not to 
+exacerbate [that] problem.” J.A. 157. Baily reached that 
+conclusion on the basis of blood tests that showed ele- 
+vated levels of three specific enzymes that are released 
+into the bloodstream when liver cells are damaged. J.A. 
+158. But Baily made no attempt to ascertain what specific 
+
+
+2 
+
+
+hepatotoxic substances were present in the refinery, at 
+what levels, nor did he seek to determine whether those 
+substances, at those levels, would be harmful to a person 
+with Echazabal’s condition. J.A. 159-160. He simply deter- 
+mined that Echazabal should not be exposed to any hepa- 
+totoxins or solvents, J.A. 157-160, and Echazabal was 
+never hired, J.A. 197. 
+
+
+Although Chevron refused to place Echazabal on its 
+payroll, it made no effort to remove Echazabal from his 
+position working for Chevron’s contractor in the coker 
+unit. J.A. 118. Echazabal thus remained in the same posi- 
+tion as before, exposed to the same substances to which 
+he would have been exposed had Chevron hired him. J.A. 
+109, 118.1 In the meantime, Echazabal sought medical 
+treatment. J.A. 118. His blood tests continued to show 
+high levels of enzymes released due to liver damage, and 
+his doctors ultimately identified an infection with the 
+Hepatitis C virus as the source of the problem. J.A. 124.2 
+
+
+In the fall of 1995, Chevron advertised openings for 
+“plant helpers” in its El Segundo coker unit. J.A. 53-54. 
+Echazabal applied for this job and Chevron again 
+
+
+1 In 1994, Echazabal transferred to a plantwide “fire watch” 
+position for the same contractor. J.A. 117. In that position, 
+Echazabal worked throughout the refinery, including in the 
+coker unit. Ibid. 
+
+
+2 In April 1993, after it had become clear that Echazabal’s 
+enzyme levels were persistently high, but before Hepatitis C 
+had been identified as the source of the problem, one of 
+Echazabal’s doctors, Nga Ha, informed Chevron that Echazabal 
+was now “capable of carrying on with the work that he has 
+applied for and there is no restriction on his activity at work as 
+outlined by the working condition sheet GO-308 that was sent to 
+me.” J.A. 123. Chevron took no action to hire Echazabal after 
+this letter, however. 
+
+
+3 
+
+
+extended him an offer of employment conditioned on the 
+results of a physical examination. J.A. 55-56. In early 
+January 1996, Kenneth McGill (who had replaced Baily as 
+the company doctor), performed the examination. J.A. 38. 
+McGill was a self-described “generalist” with no board 
+certification whatsoever, who was “doing industrial med- 
+icine just through self-training.” J.A. 134; see also J.A. 
+36-37 (summarizing McGill’s resume). He concluded that 
+exposure to the hydrocarbons and other hepatotoxic sub- 
+stances at the refinery “could be fatal” to Echazabal - 
+whether through a single, catastrophic exposure as might 
+result from an explosion or fire, or on the basis of small 
+exposures over time. J.A. 39-40.° 
+
+
+McGill reached this conclusion without knowing 
+what specific chemicals were present, at what levels, in 
+the coker unit environment. J.A. 131-132, 139. He did not 
+consult the refinery’s industrial hygiene department or 
+anyone else to determine “what the actual exposures 
+would be to somebody employed as a plant helper work- 
+ing at the coker.” J.A. 132-133. Nor did he attempt to 
+determine what level of hydrocarbon exposure would be 
+safe for an individual with Echazabal’s condition - 
+despite the fact that hydrocarbons are ubiquitous in the 
+environment. J.A. 108, 140-141. Nor, despite his lack of 
+
+
+3 As for the long-term risk based on small exposures, 
+McGill could not predict when that risk might eventuate, if ever. 
+See J.A. 141 (declining to identify any “specific period of time” 
+in response to a question whether the risk would eventuate in 
+“Three weeks? Three months? Three years? Three decades?”). 
+The most McGill could say was his response when asked 
+whether he thought Echazabal’s “liver condition would change 
+in any manner if he continued to work in the refinery for the rest 
+of the year 1996”: “Yes, I thought it could.” J.A. 142. 
+
+
+4 
+
+
+training and experience in the area, did McGill contact a 
+doctor knowledgeable in liver disease.* Based solely on 
+McGill’s recommendation, which McGill cleared with 
+Chevron’s medical director in San Francisco, J.A. 44, the 
+human resources manager at the El Segundo refinery 
+decided in early February 1996 to withdraw the condi- 
+tional offer of employment. J.A. 32-33. The manager, Wil- 
+liam Saner, did not know what chemicals were present, in 
+what concentrations, at the coker unit. J.A. 143-144, 
+148-152. 
+
+After Chevron rescinded the job offer, the company 
+requested that Irwin Industries (the contractor for whom 
+
+
+* McGill did contact Zelman Weingarten, the HMO 
+physician then assigned to Echazabal — though McGill did so 
+only after he had decided that Echazabal should not work in the 
+refinery. J.A. 142-143. McGill informed Weingarten generally 
+that Echazabal sought a position that “may entail exposure to 
+hepatotoxic hydrocarbons.” J.A. 97; see also J.A. 164 (McGill 
+stating that, in telephone conversation with Weingarten, McGill 
+“had verbally either read the paragraph in my letter or 
+paraphrased it asking him to respond to our concern”). 
+Weingarten responded, equally generally, in two sentences: “In 
+your letter, it is mentioned that Mr. Echazabal has applied for 
+return of his job and it [is] mentioned that ‘this may entail 
+exposure to hepatotoxic hydrocarbons.’ This, of course, is 
+recommended not to be the case.” J.A. 98; see also J.A. 142 
+(stating that, in telephone conversation, Weingarten made 
+“[t]he same statement that’s in his letter”). But Weingarten did 
+not state that exposure to the hydrocarbons at the refinery — the 
+identity and concentrations of which he could not have known - 
+would pose a significant risk to Echazabal’s health. His 
+statement is entirely consistent with a simple desire that, all 
+other things being equal, his patient would generally take a 
+conservative approach to avoiding unnecessary exposures to 
+hydrocarbons. Because Chevron is the party that moved for 
+summary judgment, this ambiguity must be resolved in 
+Echazabal’s favor. 
+
+
+5 
+
+
+Echazabal was then working) “immediately remove Mr. 
+Echazabal from our Refinery or place him in a position 
+that eliminates his exposure to solvents/chemicals.” J.A. 
+58. In response, Irwin sent Echazabal to be examined at 
+the office of Dr. Brian Tang. J.A. 119-120. Tang determined 
+on the basis of the elevated liver enzyme levels that 
+Echazabal should not work in a position in which he 
+would be exposed to any amount of any hepatotoxic 
+substances. J.A. 80-82, 87, 89, 92-93. Like Chevron’s doc- 
+tors, Tang did not determine which precise hepatotoxins 
+were present, in which concentrations, in the refinery, for 
+he believed that even “trace amounts could blow out 
+{Echazabal’s] liver.” J.A. 87. But he could not quantify the 
+probability that Echazabal would experience such a 
+harmful result, J.A. 86-88, or even put a general time 
+frame on when it might occur. J.A. 83-84. Nonetheless, 
+Irwin removed Echazabal from the refinery in late Febru- 
+ary 1996. J.A. 198. 
+
+
+B. What a Reasonable Inquiry Would Have 
+Revealed 
+
+
+In early 1997, Echazabal filed this suit in state court. 
+The complaint alleged, inter alia, that Chevron’s 1996 
+decision to exclude Echazabal from the refinery violated 
+the Americans with Disabilities Act (ADA). J.A. 15-16. 
+Chevron removed the suit to federal court and soon 
+moved for summary judgment. J.A. 1. On the ADA claim, 
+Chevron’s motion argued that the company was entitled 
+to exclude Echazabal because his employment would 
+pose a “direct threat” to his own health or safety. J.A. 184 
+& n.6. 
+
+In response, Echazabal presented declarations from 
+two expert witnesses to describe what Chevron would 
+
+
+6 
+
+
+have learned had it examined information in its own 
+possession regarding the hepatotoxins in its coker unit 
+and conducted an inquiry into medical knowledge avail- 
+able at the time of its 1996 decision to exclude him from 
+the refinery. J.A. 99-116. One of these experts, Marion 
+Fedoruk, was a physician board certified in Occupational 
+Medicine, Industrial Hygiene, and Toxicology who had 
+taught at several medical and public health schools. J.A. 
+99-100. The other, Gary Gitnick, was chief of the Division 
+of Digestive Diseases at the UCLA School of Medicine 
+and a leading authority on liver disease who had been a 
+member of an early research team that described the 
+“non-A, non-B hepatitis later known as hepatitis C.” J.A. 
+110-111. Fedoruk and Gitnick testified that Chevron 
+could not reasonably have concluded that Echazabal 
+would pose a risk to himself in the coker unit. J.A. 99-116. 
+
+
+Fedoruk and Gitnick made two major points. The 
+first concerned Echazabal’s liver function. Although Hep- 
+atitis C begins to cause damage to liver cells soon after 
+infection, a chronic case like Echazabal’s can take decades 
+before it impairs liver function. J.A. 101, 112. The persis- 
+tently high levels of enzymes in Echazabal’s blood indi- 
+cated that cells in Echazabal’s liver were continuing to be 
+injured — that is, that Echazabal had a chronic case of 
+Hepatitis C. J.A. 102, 113-114. But those enzyme levels 
+could not indicate whether his liver was functioning prop- 
+erly in eliminating toxins from the body. J.A. 102, 113-114. 
+Rather, tests of blood albumin levels and prothrombin 
+time (the time it takes blood to form clots) represent “the 
+best and only true indicators of liver function.” J.A. 113.5 
+
+
+> Relying on a web page that is not in the record, Chevron 
+states that the NIH has “warn(ed]” against reliance on albumin 
+
+
+7 
+
+
+Those tests consistently showed “that Mr. Echazabal’s 
+liver is functioning properly.” J.A. 113; see J.A. 101, 114. 
+Gitnick thus concluded that “Mr. Echazabal’s liver is as 
+capable of detoxifying or metabolizing toxins that enter 
+his body as is any other person[’s]” and that “Mr. Echa- 
+zabal is in no greater risk of injuring himself and speci- 
+fically his I[i])ver by working in the refinery than other 
+employee[s].” J.A. 115. 
+
+The second point concerned the level of hepatotoxins 
+present in the refinery generally and the coker unit speci- 
+fically. A number of substances at the refinery might be 
+dangerous to Echazabal’s (or any employee’s) liver if 
+present in high enough concentrations. See Pet. Br. 5-7. 
+But Fedoruk concluded, based on Chevron’s own records 
+and information available at its refinery, that none of 
+these substances were present in high enough concentra- 
+tions to cause a significant risk to Echazabal or any other 
+employee. J.A. 102-110. He also concluded that Echazabal 
+faced no greater risk from catastrophic exposures such as 
+fires and explosions than did any other employee. J.A. 
+109. 
+
+
+levels and prothrombin time, because “those tests ‘are normal 
+until late-stage disease.’” Pet. Br. 9 n.5 (quoting National 
+Digestive Diseases Information Clearinghouse, Chronic Hepatitis 
+C: Current Disease Management (available at http:// 
+www.niddk.nih.gov/health/digest/pubs/chrnhepc/ 
+
+chrnhepc.htm)). But the NIH does not warn against using such 
+tests to determine liver function; rather, it says that they should 
+not be used to diagnose Hepatitis C. That is because liver 
+function (including the ability to process toxins — the function of 
+concern here) remains normal until late-stage disease. See 
+National Digestive Diseases Information Clearinghouse, supra. 
+
+
+8 
+
+
+C. The District Court and Court of Appeals Opin- 
+
+ions 
+
+The district court recognized that the Fedoruk and 
+Gitnick declarations “rais[ed] a genuine issue that despite 
+elevated liver enzyme levels, plaintiff's liver function was 
+normal, and that the substances to which he would be 
+exposed in the position of plant helper posed no greater a 
+danger to Echazabal than to other workers.” J.A. 186. But 
+because those declarations were not prepared “until after 
+the acts by Chevron and Irwin complained of by plain- 
+tiff,” J.A. 186, the district court held chat they could not 
+be considered to rebut the testimony of Dr. McGill, on 
+whose opinion Chevron had relied in rejecting Echazabal. 
+J.A. 186-190. Accordingly, the district court granted sum- 
+mary judgment to Chevron. J.A. 190. 
+
+On appeal, Echazabal argued that the district court 
+had improperly excluded the Fedoruk and Gitnick decla- 
+rations, which declarations established that he would not 
+have posed a significant risk to his own health or safety 
+had he continued working at the refinery. But the court of 
+appeals did not reach that question, because it concluded 
+that the ADA does not permit an employer to exclude an 
+individual with a disability based on a fear of on-the-job 
+harm to that individual. J.A. 207-212. It accordingly 
+reversed the grant of summary judgment to Chevron. J.A. 
+212. Judge Trott dissented. J.A. 213-217. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. This case presents the question whether an 
+employer may refuse to hire an individual with a disabil- 
+ity because it believes that his disability poses too great a 
+risk to his own health or safety. When Congress adopted 
+the Americans with Disabilities Act, it specifically 
+
+
+9 
+
+
+rejected any such threat-to-self justification for excluding 
+individuals with disabilities. The “direct threat” defense 
+of 42 U.S.C. § 12113(b) is by its terms limited to cases in 
+which the excluded individual “pose[s] a direct threat to 
+the health or safety of other individuals in the workplace.” 
+42 U.S.C. § 12113(b) (emphasis added). This language 
+marks a significant departure from the EEOC’s prior reg- 
+ulations implementing the Rehabilitation Act. By remov- 
+ing safety risk questions from the “qualified individual” 
+prong of the plaintiff’s case, and expressly limiting any 
+safety risk defense to cases involving risks to others, 
+Congress plainly rejected the EEOC’s earlier approval of 
+exclusions of individuals with disabilities based on risks 
+they may pose to themselves. 
+
+
+Congress’s rejection of a threat-to-self defense 
+reflects a general prohibition on paternalistic discrimina- 
+tion. Like similar restrictions imposed on women, restric- 
+tions imposed on individuals with disabilities for their 
+own “protection” have historically been a significant 
+means by which those individuals have been deprived of 
+opportunities. In its jurisprudence under Title VII of the 
+Civil Rights Act of 1964, this Court has held that 
+employers may not exclude women based solely on con- 
+cerns for their own safety. The ADA adopts the same rule 
+in the context of disability discrimination. Congress made 
+no exception for cases in which an employer’s paternalis- 
+tic concern for the safety of an individual with a disabil- 
+ity rests on a purportedly individualized medical 
+judgment. 
+
+II. Chevron relies on the ADA’s general defense for 
+“qualification standards” that are “job-related and consis- 
+
+
+tent with business necessity.” 42 U.S.C. § 12113(a). But the 
+general “qualification standards” defense, of which the 
+
+
+10 
+
+
+“direct threat” defense is a subset, cannot be read to 
+undermine the specific limitations that Congress wrote 
+into the “direct threat” provision. To recognize this is not, 
+contrary to Chevron’s argument, to ignore the inclusive 
+language of the direct threat provision. It is simply to 
+recognize that inclusive language is not necessarily all- 
+inclusive. Whatever else it embraces, the general “quali- 
+fication standards” defense cannot justify an employer’s 
+decision to single out an individual with a disability for 
+exclusion based on risks he poses to himself, for that 
+would render meaningless the specific threat-to-others 
+limitation that Congress carefully placed in the direct 
+threat provision. 
+
+
+Even if Congress had not foreclosed a threat-to-self 
+defense in the “direct threat” provision, the ADA’s text 
+and structure would not permit Chevron to assert such a 
+defense under the general “qualification standards” pro- 
+vision. First, Congress limited the “business necessity” 
+defense to cases where the application of neutral selection 
+criteria screens out an individual with a disability. There 
+is no business necessity defense to disparate treatment, as 
+occurred here when Chevron concluded, solely because 
+of his disabling impairment, that Echazabal posed too 
+great a risk to be hired. Second, the impact of injuries and 
+absences necessarily varies greatly from business to busi- 
+ness, and the ADA requires any business necessity 
+defense to be established on a job-specific, employer- 
+specific basis. But Chevron has made no attempt to 
+explain why a no-threat-to-self condition is necessary to 
+serve the interests of its particular business. Finally, 
+Chevron’s fears of liability for hiring an individual like 
+Echazabal are groundless. 
+
+
+11 
+
+
+For all of these reasons, the EEOC regulation that 
+adopts a threat-to-self defense is not a permissible con- 
+struction of the statute. Even under that regulation, how- 
+ever, Chevron was not entitled to summary judgment. 
+The record makes clear that Chevron did not conduct the 
+required inquiry into the most current medical knowl- 
+edge and the best available objective evidence when it 
+decided to exclude Echazabal. Had Chevron conducted 
+such an inquiry, it would have been forced to conclude 
+that Echazabal faced no significant risk from working at 
+the coker unit. 
+
+
+Ill. There is no doubt that Echazabal is a “qualified 
+individual with a disability.” The ADA defines “qualified 
+individual” solely in terms of an individual’s current 
+ability to perform tasks that are required of incumbents 
+in the job he seeks. Echazabal was fully capable of per- 
+forming all of the job tasks of the position for which he 
+applied in the coker unit. The chance that he might, at 
+some indeterminate point in the future, become unable to 
+perform those tasks because of a workplace illness simply 
+has no place in the “qualified individual” inquiry. 
+
+
+ARGUMENT 
+
+
+I. In Crafting the “Direct Threat” Provision, Congress 
+Plainly Rejected Any Defense Based on a Risk to the 
+Employee’s Own Health or Safety 
+
+
+A. The ADA’‘s Text Makes Plain the Decision to 
+Eschew any Threat-to-Self Defense 
+
+
+Title I of the ADA generally prohibits employers 
+from “discriminat[ing] against a qualified individual with 
+a disability because of the disability of such individual.” 
+42 U.S.C. § 12112(a). On its face, this prohibition clearly 
+
+
+12 
+
+
+embraces Chevron’s exclusion of Echazabal from employ- 
+ment based solely on his chronic liver disease - an 
+impairment that Chevron has conceded for present pur- 
+poses to be a “disability” (Pet. Br. 3 n.1). In defense of 
+that action, Chevron invokes the EEOC’s regulation that 
+permits an employer to exclude an individual with dis- 
+abilities who “pose[s] a direct threat to the health or 
+safety of the individual or others in the workplace.” 29 
+C.F.R. § 1630.15(b)(2) (emphasis added). But that regula- 
+tion is squarely inconsistent with the statute it purports 
+to implement. When Congress crafted the statutory 
+“direct threat” provision — which permits an employer to 
+exclude an individual with disabilities who “pose[s] a 
+direct threat to the health or safety of other individuals in 
+the workplace,” 42 U.S.C. § 12113(b) (emphasis added) - 
+it plainly rejected discrimination based on an asserted 
+threat to the individual with disabilities himself. 
+
+1. As this Court has observed, Congress modeled 
+the ADA to a significant extent on the Rehabilitation Act 
+of 1973 and its implementing regulations. See Bragdon v. 
+Abbott, 524 U.S. 624, 631-632 (1998). Contrary to Chev- 
+ron’s suggestion (Pet. Br. 19-20), however, Congress did 
+not incorporate the prior Rehabilitation Act rules whole- 
+sale. Congress intended the new statute to “grant at least 
+as much protection as provided by the regulations imple- 
+menting the Rehabilitation Act.” Id. at 632 (emphasis 
+added) (citing 42 U.S.C. § 12201(a), which provides that 
+nothing in the ADA “shall be construed to apply a lesser 
+standard” than the Rehabilitation Act or its regulations). 
+Where the ADA’s provisions accord greater protection to 
+people with disabilities than had been available under 
+the earlier law, it is those provisions, and not prior inter- 
+pretations of the Rehabilitation Act, that govern. 
+
+
+13 
+
+
+At the time the ADA was enacted, neither the Reha- 
+bilitation Act nor its implementing regulations contained 
+any specific defense for employers who could show that 
+an individual with a disability would pose a safety risk. 
+Instead, the statute and regulations addressed the issue in 
+the context of the plaintiff’s obligation to prove that he 
+was an “otherwise qualified individual with handicaps.” 
+29 U.S.C. § 794(a) (1988). The statute itself did not define 
+the crucial term “qualified,” but it expressly excluded 
+from the definition of “individual with handicaps” two 
+classes of people who posed a risk to others: (a) alcoholics 
+or drug abusers “whose employment, by reason of such 
+current alcohol or drug abuse, would constitute a direct 
+threat to property or the safety of others,” 29 U.S.C. 
+§ 706(8)(B) (1988); and (b) individuals with a “currently 
+contagious disease or infection,” who, “by reason of such 
+disease or infection, would constitute a direct threat to 
+the health or safety of other individuals,” 29 U.S.C. 
+§ 706(8)(C) (1988).° 
+
+These two provisions aside, the Rehabilitation Act 
+contained no more general discussion of safety risks in 
+employment, and the implementing regulations adopted 
+by various federal agencies differed in their treatment of 
+the question. For purposes of employment by agencies of 
+the federal government itself, EEOC regulations defined 
+“qualified handicapped person” to mean “a handicapped 
+person who, with or without reasonable accommodation, 
+can perform the essential functions of the position in 
+
+
+6 The latter provision effectively codified School Board v. 
+Arline, 480 U.S. 273, 287 n.16 (1987) (“A person who poses a 
+significant risk of communicating an infectious disease to others 
+in the workplace will not be otherwise qualified for his or her 
+job if reasonable accommodation will not eliminate that risk.”). 
+
+
+14 
+
+
+question without endangering the health or safety of the 
+individual or others.” 29 C.F.R. § 1613.702(f) (1990) 
+(emphasis added). As Chevron’s amicus points out, a 
+number of lower-court cases paid lip service to the 
+EEOC’s threat-to-self disqualification (see Chamber Br. 
+13), though none of the cited cases actually upheld the 
+exclusion of an individual based solely on a threat he 
+posed to himself. 
+
+
+In contrast to the EEOC, regulations issued by the 
+Departments of Justice, Labor, and Health and Human 
+Services to govern employment by recipients of federal 
+financial assistance contained no such “health or safety of 
+the individual” language. They simply defined “qualified 
+handicapped person” to mean “a handicapped person 
+who, with reasonable accommodation, can perform the 
+essential functions of the job in question.” 28 C.F.R. 
+42.540(1)(1) (1990) (Department of Justice); accord 45 
+C.F.R. § 84.3(k)(1) (1990) (Department of Health and 
+Human Services); see also 29 C.F.R. § 32.3 (1990) (Depart- 
+ment of Labor) (similar “essential functions” language). 
+
+
+2. Given this unsettled background, Congress could 
+not simply have carried forward prior understandings of 
+the Rehabilitation Act, for there was no single, consistent 
+understanding of how the statute treated safety risks. 
+Instead, Congress chose to address the issue of safety 
+risks squarely in the text of the ADA. It did so in a way 
+that plainly foreclosed a threat-to-self defense. 
+
+
+First, Congress added a new definition of “qualified 
+individual with a disability.” 42 U.S.C. § 12111(8). That 
+provision tracked the Rehabilitation Act regulations of 
+the Departments of Justice, Labor, and Health and 
+Human Services — but not those of the EEOC - by defin- 
+ing “qualified” solely in terms of the ability to “perform 
+
+
+15 
+
+
+the essential functions” of the job. Ibid. Congress thus 
+largely removed considerations of potential safety risks 
+from the “qualified individual” element of the plaintiff's 
+case and instead required the plaintiff to show only that 
+he is capable of performing the tasks required of 
+employees in the position he seeks. See Part III, infra. 
+
+
+Second, Congress added a new “direct threat” provi- 
+sion that explicitly permitted employers to justify dis- 
+crimination based on purported safety risks, but only as 
+an affirmative defense. See 42 U.S.C. § 12113(b). Congress 
+limited application of that defense to instances where the 
+employer could show a “significant risk” that could not 
+“be eliminated through reasonable accommodation.” 42 
+U.S.C. § 12111(3). And most pertinent here, it eliminated 
+the language of the prior EEOC regulations that permit- 
+ted discrimination against an individual who posed a risk 
+to his own safety. Instead, Congress limited the safety risk 
+defense to those individuals who would “pose a direct 
+threat to the health or safety of other individuals in the 
+workplace.” 42 U.S.C. § 12113(b) (emphasis added). Con- 
+gress repeated this limitation in its definition of “direct 
+threat,” which defined the term as “a significant risk to 
+the health or safety of others.” 42 U.S.C. § 12111(3) 
+(emphasis added). 
+
+
+Congress thus plainly rejected any “threat to self” 
+defense in the ADA. This Court has recently reem- 
+phasized that it “ordinarily will not assume that Congress 
+intended to enact statutory language that it has earlier 
+discarded in favor of other language.” Chickasaw Nation v. 
+United States, 122 S. Ct. 528, 534 (2001) (internal quotation 
+marks omitted). And this is not a case where Congress 
+merely failed to enact a legislative proposal containing a 
+“threat to self” defense. Congress made an affirmative 
+
+
+16 
+
+
+change to the existing statutory and regulatory defini- 
+tions of “qualified individual” under the Rehabilitation 
+‘ Act - a change that closed the definitional gap that had 
+permitted the EEOC to define “qualified” to exclude indi- 
+viduals who might endanger their own health or safety 
+and substituted a new statutory “direct threat” defense 
+that was expressly limited to risks to “others.” These 
+actions are plainly inconsistent with the recognition of a 
+“threat to self” defense in the ADA. 
+
+
+B. The Omission of a Threat-to-Self Defense 
+Reflects Congress’s Rejection of Paternalistic 
+Discrimination Against Individuals with Dis- 
+abilities 
+
+1. The clear textual difference between the EEOC’s 
+
+Rehabilitation Act regulations (which specifically permit- 
+ted exclusion based on threats to self) and the ADA’s 
+“direct threat” provision (which is limited to threats to 
+others) demonstrates that the omission of thr-at-to-self 
+language from the ADA did not reflect a merely cosmetic 
+desire to reassure the public that the statute would pro- 
+tect against threats to public safety. Cf. Pet. Br. 30 n.12. 
+That omission also reflected a substantive decision that 
+no threat-to-self defense would be permitted under the 
+ADA. Consideration of Congress’s articulated purposes 
+for the ADA bolsters this conclusion. 
+
+
+As Congress recognized, restrictions placed on indi- 
+viduals with disabilities for their own “protection” have 
+often led to unnecessary denial of opportunities. In the 
+hearings that preceded enactment of the ADA, witnesses 
+repeatedly identified paternalistic practices as one of the 
+most significant means by which people with disabilities 
+
+
+17 
+
+
+had experienced disadvantage.” Consistent with that tes- 
+timony, the statutory findings list “overprotective rules 
+and policies” as among the “forms of discrimination” 
+against people with disabilities that “continue to be a 
+serious and pervasive social problem.” 42 U.S.C. 
+§ 12101(a)(2), (5). 
+
+As this Court has noted, women have also been 
+deprived of countless opportunities because of restric- 
+tions imposed on them for their own “protection.” See, 
+e.g., Mississippi Univ. for Women v. Hogan, 458 U.S. 718, 7.25 
+& n.10 (1982); Frontiero v. Richardson, 411 U.S. 677, 684-685 
+(1973) (plurality opinion). Title VII of the Civil Rights Act 
+
+
+7 See, e.g., Americans with Disabilities Act: Hearing Before the 
+House Committee on Small Business, 101st Cong., 2d Sess. 126 
+(Feb. 22, 1990) (testimony of Arlene Mayerson) (“[L]ike women, 
+disabled people have identified ‘paternalism’ as a major 
+obstacle to economic and social advancement.”); Americans with 
+Disabilities Act: Hearings Before the Subcommittee on Surface 
+Transportation of the House Committee on Public Works and 
+Transportation, 101st Cong., 1st Sess. 288 (Sept. 20, 1989) 
+[hereinafter Public Works Hearing] (testimony of James Gashel) 
+(“Paternalism is the most common form of discrimination 
+against blind people.”); Americans with Disabilities Act of 1989: 
+Hearings Before the Senate Committee on Labor and Human 
+Resources, 101st Cong., 1st Sess. 12 (May 9, 1989) (testimony of 
+Dr. I. King Jordan) (“For deaf people, the problem was not so 
+much one of segregation, but one of paternalism and 
+communication isolation.”); see also Americans with Disabilities 
+Act of 1989: Hearings Before the House Committee on the Judiciary, 
+101ist Cong., 1st Sess. 41 (Aug. 3, 1989) (testimony of James 
+Brady); Public Works Hearing, supra, at 49 (testimony of Justin 
+Dart); Americans with Disabilities Act of 1988: Joint Hearing Before 
+the Subcommittee or. the Handicapped of the Senate Committee on 
+Labor and Human Resources and the Subcommittee on Select 
+Education of the House Committee on Education and Labor, 100th 
+Cong., 2d Sess. 75 (Sept. 27, 1988) (testimony of Judith 
+Heumann). 
+
+
+18 
+
+
+of 1964 — one of the models for ADA Title I — responds to 
+that problem by prohibiting an employer from excluding 
+women based on concerns for their own safety. Where an 
+employer has discriminated against women based on 
+well-established risks to the health or safety of others, that 
+conduct has often been upheld under Title VII's bona fide 
+occupational qualification (BFOQ) defense. See Interna- 
+tional Union v. Johnson Controls, Inc., 499 U.S. 187, 202-203 
+(1991) (citing cases); Dothard v. Rawlinson, 433 U.S. 321, 
+335-336 (1977) (upholding discrimination against female 
+prison guards on ground that the likelihood of inmate 
+assaults on such guards would pose a threat “to the basic 
+control of the penitentiary and protection of its inmates 
+and other security personnel”). But where an employer 
+excludes women based solely on concerns for their own 
+safety, the statute provides no defense. See Dothard, 433 
+U.S. at 335 (“In the usual case, the argument that a 
+particular job is too dangerous for women may appro- 
+priately be met by the rejoinder that it is the purpose of 
+Title VII to allow the individual woman to make that 
+choice for herself.”); see also Johnson Controls, 499 U.S. at 
+202 (reiterating Dothard’s suggestion that “danger to a 
+- woman herself does not justify discrimination”). Given 
+Congress’s recognition of the role of paternalism in limit- 
+ing opportunities for people with disabilities, the omis- 
+sion of threat-to-self language from the ADA’s “direct 
+threat” provision plainly reflects a decision to hew to the 
+same risk-to-self/risk-to-others distinction as applies 
+under Title VII - for the same reasons that it applies 
+under Title VII. 
+
+
+2. Contesting this point, Chevron devotes nearly six 
+pages of its brief (Pet. Br. 34-40) to a parsing of the ADA’s 
+legislative history. But Chevron cannot overcome the fact 
+
+
+19 
+
+
+that the several specific references to the threat-to-self 
+issue in the legislative history confirm what the text of 
+the statute makes clear: Because “[p]aternalism is perhaps 
+the most pervasive form of discrimination for people 
+with disabilities and has been a major barrier to such 
+inuividuals,” these references emphasize that “[i]t is criti- 
+cal that paternalistic concerns for the disabled person's 
+own Safety not be used to disqualify an otherwise quali- 
+fied applicant.” H. R. Rep. No. 485, Part 2, 101st Cong., 2d 
+Sess. 72, 74 (1990); accord H.R. Rep. No. 485, Part 3, 101st 
+Cong., 2d Sess. 34, 42 (1990); S. Rep. No. 116, 101st Cong., 
+lst Sess. 38 (1989); see also, e.g., 136 Cong. Rec. $9697 
+(July 13, 1990) (statement of Sen. Kennedy); 136 Cong. 
+Rec. H4623 (July 12, 1990) (statement of Rep. Owens); see 
+also 136 Cong. Rec. E1914 (June 13, 1990) (statement of 
+Rep. Hoyer). 
+
+Chevron suggests that Congress would not have con- 
+sidered an exclusion “paternalistic” if it was based on a 
+reasonable and individualized assessment of the plain- 
+tiff’s medical condition. Pet. Br. 35-38. But a decision can 
+be paternalistic — an effort by one person to decide what 
+is in the interest of another — without being wrong on the 
+merits. Had-Congress wished to permit paternalistic dis- 
+crimination in cases where an employer could satisfy a 
+court that the exclusion of a particular individual with a 
+disability was medically justified, it would have included 
+threat-to-self language in the “direct threat” provision, 
+which requires just such an individualized medical justi- 
+fication. See Bragdon, 524 U.S. at 649 (direct threat anal- 
+ysis requires a risk assessment “based on medical or 
+other objective evidence”); Arline, 480 U.S. at 287 (requir- 
+ing an individualized assessment). Chevron’s tenuous 
+inferences from a handful of passages in the legislative 
+
+
+20 
+
+
+history® cannot overcome Congress’s clear decision to 
+omit such threat-to-self language from the statute. 
+
+
+To be sure, Congress’s prohibition of paternalistic 
+discrimination reflects a conclusion that such conduct is 
+often “overprotective” — that it often rests on an incorrect 
+assessment of the risks that individuals with disabilities 
+would face. 42 U.S.C. § 12101(a)(5) (emphasis added). But 
+Congress soundly decided not to permit employers to 
+seek to persuade courts in individual cases that their 
+
+
+8 Chevron relies (Pet. Br. 36) on the statement that 
+“[gleneralized fear about risks from the employment 
+environment, such as exacerbation of the disability caused by 
+stress, cannot be used by an employer to disqualify a person 
+with a disability.” H.R. Rep. No. 485, Part 2, supra, at 74. But that 
+passage merely emphasizes that generalized fears of self-injury 
+are among the paternalistic concerns that may not be used to 
+justify discrimination; it does not say that particularized fears of 
+self-injury may justify discrimination. Chevron also reads two 
+passages suggesting that employers may sometimes exclude 
+applicants based on x-ray results (one of which refers to a risk of 
+“substantial harm” without clarifying whether harm to self or 
+harm to others was at issue) as supporting the existence of a 
+threat-to-self defense (see H.R. Rep. No. 485, Part 2, supra, at 
+73), for, Chevron contends, x-rays will rarely reveal conditions 
+that pose a risk to others (Pet. Br. 37). But x-rays will reveal 
+some conditions, such as tuberculosis, that can pose a risk to 
+others, and they can also reveal conditions that will prevent an 
+employee from performing the productive functions of the job 
+and thus make him un-“ qualified.” Finally, Chevron points (Pet. 
+Br. 38) to a statement in the House Judiciary Committee report 
+that an individual with a serious allergy to a particular paint 
+would be entitled to demand, as a reasonable accommodation, 
+that his employer not assign him to work with that paint. See 
+H.R. Rep. No. 485, Part 3, supra, at 29. That passage says nothing 
+about a case where the individual with a disability seeks to work 
+under conditions that his employer believes would pose a risk 
+to him. Cf. 42 U.S.C. § 12201(d). 
+
+
+21 
+
+
+protectivist determinations were correct. Even the most 
+“individualized” assessments of future safety risks are 
+typically probabilistic. It is the rarest of cases in which a 
+doctor can say, with absolute certainty, that a particular 
+individual with a particular diagnosis will experience 
+death or disabling injury within a given period of time - 
+and none of Chevron’s doctors ever made such a state- 
+ment here (see pp. 1-5, supra). The most a physician can 
+typically do is ieach an intuitive or statistical conclusion, 
+based on experience with other individuals with the same 
+diagnosis in similar environments, that the individual is 
+more likely to experience such harm. See Wiiliam M. 
+Grove & Paul E. Meehl, Comparative Efficiency of Informal 
+(Subjective, Impressionistic) and Formal (Mechanical, Algo- 
+rithmic) Prediction Procedures: The Clinical-Statistical Con- 
+troversy, 2 Psychol. Pub. Pol’y & L. 293, 305-309, 314 
+(1996). For this and other reasons, “the assessment of risk 
+to a given applicant or employee, even by the most 
+experienced physician, is no more than an educated 
+guess.” Mark A. Rothstein, Employee Selection Based on 
+Susceptibility to Occupational Illness, 81 Mich. L. Rev. 1379, 
+1417 (1983) (internal quotation marks omitted). 
+
+While it might be acceptable to rely on such proba- 
+bilistic judgments where risks to others are at issue, here it 
+is the individual with a disability himself who bears the 
+most direct and significant costs of an incorrect deter- 
+mination that a job is safe for him. When an individual 
+with a disability takes a job that his employer believes to 
+pose a risk to him, he is not, contrary to Chevron’s 
+suggestion (Pet. Br. 29), seeking the employer’s complic- 
+ity in “suicide.” At most, like an individual who refuses 
+to give up fatty foods or to quit smoking, he is simply 
+making a choice about the risks he is willing to tolerate. 
+
+
+22 
+
+
+Congress sensibly trusted people with disabilities not to 
+make suicidal decisions,’ and it sensibly refused to per- 
+mit employers to use an employee's disability as a justi- 
+fication for overriding his choices about the risks he is 
+willing to accept. 
+
+
+II. The General “Qualification Standards” Defense 
+Cannot Justify Singling Out an Individual for 
+Exclusion Because of a Concern That His Disability 
+Poses Risks to His Own Safety 
+
+
+A. The General “Qualification Standards” Provi- 
+sion May Not be Read to Undermine the Speci- 
+fic Limitations Congress Placed on the “Direct 
+Threat” Defense 
+
+
+Chevron does not rely on the statutory “direct 
+threat” provision to defend its exclusion of Echazabal. 
+The company instead stakes its case on the general “qual- 
+ification standards” defense in 42 U.S.C. § 12113(a), of 
+which Section 12113(b)’s “direct threat” defense is a sub- 
+set. Chevron argues (Pet. Br. 20-29) that the refusal to hire 
+an individual whose disability will pose a significant risk 
+
+
+° Both the record in this case and the examples cited by 
+Chevron (Pet. Br. 21) reveal what common sense suggests: 
+People with disabilities are no more likely than anyone else to 
+seek employment that will kill them. See, e.g., Foreman v. Babcock 
+& Wilcox Co., 117 F.3d 800, 803-804, 809-810 (5th Cir. 1997) 
+(employee whose pacemaker would malfunction if he worked 
+too close to high-voltage equipment requested, as a reasonable 
+accommodation, that he be assigned to a position that did not 
+require dangerous proximity to such equipment); Patterson v. 
+Summers, 2000 WL 366113 (E.E.O.C. 2000) (individual with 
+serious allergy to inks and dyes requested, as a reasonable 
+accommodation, that he be transferred to position that would 
+keep him away from those substances and permitted to use a 
+respirator when he was required to be near them). 
+
+
+23 
+
+
+to himself is a “qualification standard| |” that is inher- 
+ently “job-related and consistent with business necessity.” 
+Ibid. That argument is fundamentally flawed. 
+
+
+As we have shown, Congress in the “direct threat” 
+provision squarely rejected any defense that would per- 
+mit an employer to exclude an individual with a disabil- 
+ity based solely on a threat to that individual himself. 
+Given the specific attention Congress gave to the risk-to- 
+self issue in crafting the direct threat provision of Section 
+12113(b), Congress surely did not intend to permit 
+employers to evade the limitations of that provision by 
+asserting a threat-to-self defense under the general “qual- 
+ification standards” language of Section 12113(a). It is “a 
+commonplace of statutory construction that the specific 
+governs the general.” Morales v. Trans World Airlines, Inc., 
+504 U.S. 374, 384 (1992). That is particularly true where, 
+as here, the specific and the general provisions “are inter- 
+related and closely positioned” as part of the same sec- 
+tion of the statute, HCSC-Laundry v. United States, 450 U.S. 
+1, 6 (1981) (per curiam), and applying the general provi- 
+sion “would undermine limitations created by a more 
+specific provision.” Verity Corp. v. Howe, 516 U.S. 489, 511 
+(1996). 
+
+
+To recognize this point is not to disregard the inclu- 
+sive language of Section 12113(b). Cf. Pet. Br. 29-33. Inclu- 
+sive language is not necessarily all-inclusive. A provision 
+listing examples of what Congress included can also illus- 
+trate what it excluded. For example, lower courts have 
+consistently interpreted 42 U.S.C. § 12111(9), which pro- 
+vides that reasonable accommodations “may include 
+... reassignment to a vacant position” (emphasis added), 
+
+
+24 
+
+
+as implying that - whatever else the term “reasonable 
+accommodation” includes — it does not include accom- 
+modations that would remove other employees from their 
+jobs “in order to accommodate a disabled coworker.” E.g., 
+Eckles v. Consolidated Rail Corp., 94 F.3d 1041, 1047 (7th 
+Cir. 1996), cert. denied, 520 U.S. 1146 (1997). 
+
+
+The threat-to-others language in Section 12113(b) 
+serves a similar function. Section 12113(b)’s “direct 
+threat” provision plainly does not set forth the only 
+“qualification standard” that may be asserted under Sec- 
+tion 12113(a). Even if it set forth the only safety-based 
+qualification standard that an employer could assert, the 
+general Section 12113(a) defense would still be available 
+for a wide range of qualification standards employers 
+impose for reasons of productivity rather than safety 
+(such as a requirement that applicants be able to lift 50 
+pounds). And Section 12113(a) might also provide a 
+defense for the application of safety-based selection crite- 
+ria that are facially neutral (such as a requirement that 
+applicants for a lifeguard position tread water for thirty 
+minutes). That is the import of the inclusive language of 
+Section 12113(b)’s “direct threat” provision. But the gen- 
+eral “qualification standards” provision could not justify 
+the singling out of an individual for exclusion based on a 
+safety risk assertedly caused by his disability where the 
+terms of the statutory “direct threat” defense are not 
+satisfied. If it could, the limitations Congress specifically 
+wrote into that defense would be rendered meaningless. 
+
+
+An analogy illustrates the point. In addition to limit- 
+ing the “direct threat” defense to cases involving risks to 
+“others,” Congress also limited that defense to cases 
+involving “significant” risks. 42 U.S.C. § 12111(3). Hiring 
+an individual who poses an entirely fanciful risk to others 
+
+
+25 
+
+
+may, because of the irrational fears of co-workers, harm 
+company morale and impair workplace efficiency. Cf. Pet. 
+Br. 22-23 (arguing that harms to morale and efficiency 
+justify a threat-to-self defense). But surely an employer 
+could not justify exclusion of an individual who posed an 
+insignificant risk under the general “qualification stan- 
+dards” defense, for to do so would render meaningless 
+the specific “significant risk” limitation Congress care- 
+fully placed in the “direct threat” provision. So too with 
+individuals who pose risks only to themselves: To permit 
+discrimination against such individuals would render 
+meaningless the specific threat-to-others limitation Con- 
+gress carefully placed in the “direct threat” provision. 
+
+Indeed, Chevron’s broad interpretation of the “quali- 
+fication standards” provision turns the Section 12113(b) 
+direct threat provision into nothing more than surplus 
+language. If the refusal to hire someone whose disability 
+poses a direct threat to himself can always be justified 
+under Section 12113(a)’s general language as a “qualifica- 
+tion standard” that is “job-related and consistent with 
+business necessity,” then the refusal to hire someone 
+whose disability poses a direct threat to others can be 
+justified in exactly the same way. Employers plainly have 
+a stronger business interest in preventing their employees 
+from creating risks to others than they do in protecting 
+individual employees from themselves. See Johnson Con- 
+trols, 499 U.S. at 202-203; Dothard, 433 U.S. at 335. It is a 
+substantial strike against Chevron’s broad reading of the 
+general qualification standards provision that such a 
+reading would “in practical effect render” the specific 
+and carefully crafted direct threat provision “entirely 
+superfluous.” TRW Inc. v. Andrews, 122 S. Ct. 441, 447 
+(2001). 
+
+
+26 
+
+
+B. By Its Terms, the General “Qualification Stan- 
+dards” Defense Does Not Apply to an 
+Employer’s Decision to Single Out an Individ- 
+ual with a Disability for Exclusion Based on 
+Asserted Safety Risks 
+
+
+Even if Congress had not addressed the question in 
+the “direct threat” provision, an employer still could not 
+use the general “qualification standards” defense to jus- 
+tify the kind of conduct Chevron engaged in here - 
+intentional exclusion of an individual with a disability 
+because of a concern that his disability created a risk to 
+himself. The statute makes clear that Section 12113(a)’s 
+“qualification standards” provision affords a “business 
+necessity” defense only for neutral selection criteria that 
+incidentally exclude individuals with disabilities. That 
+provision affords no defense for an employer’s decision 
+to single out an individual for exclusion on the basis of 
+his disabling impairment. 
+
+1. Chevron’s exclusion of Echazabal was a classic 
+case of disparate treatment. Although the motivation for 
+that exclusion may have been to protect Echazabal’s 
+safety, his diagnosis with a disabling impairment was the 
+only reason that Chevron believed Echazabal would be in 
+danger. Chevron’s action “does not pass the simple test of 
+whether the evidence shows treatment of a person in a 
+manner which but for that person’s {diagnosis with a 
+disabling impairment] would be different.” City of Los 
+Angeles, Dep’t of Water & Power v. Manhart, 435 U.S. 702, 
+711 (1978) (internal quotation marks omitted).?° Chevron 
+
+
+10 Chevron’s attempt to distinguish Johnson Controls (Pet. 
+Br. 37 n.15) thus fails. The conclusion that the employer had 
+engaged in disparate treatment was the linchpin of the Johnson 
+Controls Court's analysis. See 499 U.S. at 197-200. 
+
+
+27 
+
+
+thus violated the ADA’s general prohibition on discrimi- 
+nating against an individual “because of the disability of 
+such individual.” 42 U.S.C. § 12112(a); see also 42 U.S.C. 
+§ 12112(b)(1) (prohibiting actions “that adversely affect{ ] 
+the opportunities or status of” an applicant or employee 
+“because of” that individual’s disability). This is true 
+even if Hepatitis C is not invariably a statutory “disabil- 
+ity.” Echazabal’s Hepatitis C is a “disability,” Chevron has 
+conceded, so the company’s exclusion was plainly 
+“because of” an “impairment” — that disease — that “sub- 
+stantially limits one or more of the major life activities of 
+[Echazabal as an] individual.” 42 U.S.C. § 12102(2)(A); see 
+Arline, 480 U.S. at 278, 281-286 (exclusion based on feared 
+risks of contagion was “solely by reason of [plaintiff's] 
+handicap” under the then-current language of the Reha- 
+bilitation Act, when plaintiff’s infection with a “hand- 
+icap”-ing case of tuberculosis was the sole basis for the 
+fear of contagion). 
+
+
+The ADA Title I provisions that prohibit discrimina- 
+tion “because of” disability, Sections 12112(a) and 
+12112(b)(1), contain no exception for discrimination that 
+is “job-related and consistent with business necessity.” 
+Such an exception appears only in the statute’s screening- 
+out provision, which defines discrimination to include (42 
+U.S.C. § 12112(b)(6) (emphasis added)): 
+
+using qualification standards, employment tests 
+
+or other selection criteria that screen out or tend 
+
+to screen out an individual with a disability or a 
+
+class of individuals with disabilities unless the 
+
+standard, test or other selection criteria, as used 
+
+by the covered entity, is shown to be job-related 
+
+for the position in question and is consistent 
+
+with business necessity. 
+
+
+28 
+
+
+This provision targets cases where a generally applied, 
+facially neutral job criterion has the effect of denying an 
+opportunity to an individual with a disability. Congress’s 
+use of the term “screen out” (instead of the “because of” 
+language that appears in the disparate treatment provi- 
+sions) makes this clear. Cf. Griggs v. Duke Power Co., 401 
+U.S. 424, 428 n.3 (1971) (using “screen out” language in 
+describing practices that have the effect of excluding par- 
+ticular individuals or classes). The paradigm case is of “a 
+physical criterion that an applicant be able to lift fifty 
+pounds.” H.R. Rep. No. 485, Part 2, supra, at 56. Such a 
+criterion does not reflect disparate treatment, for the 
+question whether an applicant has a disabling impair- 
+ment plays no part in the employer’s decisionmaking 
+process - unlike here, where the employer believed the 
+plaintiff disqualified solely because of his diagnosis with 
+such an impairment. But the criterion may nevertheless 
+exclude an individual who, as a result of a disability, is 
+unable to satisfy it. The screening-out provision in Sec- 
+tion 12112(b)(6) makes clear that such an exclusion is 
+unlawful under the ADA unless the criterion is job- 
+related and consistent with business necessity. 
+
+
+As both Chevron and the Solicitor General recognize 
+(Pet. Br. 3, 17; U.S. Br. 8-9), the Section 12113(a) “quali- 
+fication standards” defense walks in tandem with Section 
+12112(b)(6)’s screening-out prohibition. Both provisions 
+extend only to cases involving an application of “quali- 
+fication standards, tests, or selection criteria.” And both 
+provisions use the “screen out or tend to screen out” 
+language of discriminatory effect rather than the 
+“because of” language of the statute’s disparate treatment 
+provisions. Section 12113(a) adds to the earlier provision 
+by clarifying that the showing of job-relatedness and 
+business necessity is a “defense” on which the employer 
+
+
+~— 
+
+
+29 
+
+
+bears the burden of proof. 42 U.S.C. § 12113(a). Had 
+Congress not made that clarification, courts might well 
+have concluded, in light of this Court’s holding in Wards 
+Cove Packing Co., Inc. v. Atonio, 490 U.S. 642, 659 (1989) 
+(plaintiff bears the burden of persuasion on the business 
+justification issue in a Title VII disparate impact case), 
+that the burden of proof on that issue rested on the 
+plaintiff. Section 12113(a) thus simply establishes the bur- 
+den of proof on the “business necessity” issue in a case 
+where an individual has been screened out by a facially 
+neutral qualification standard. It provides no defense for 
+disparate treatment. The EEOC’s own regulations appear 
+to recognize this point. See 29 C.F.R. § 1630.15(b)(1), (c) 
+(limiting “business necessity” defense to cases of discrim- 
+inatory effect); 29 C.F.R. Pt. 1630 App. (interpretive guid- 
+ance to § 1630.15(b) and (c) headed “Disparate Impact 
+Defenses”). 
+
+2. This is not a mere technical point. Instead, it 
+shows why Chevron’s actions lie near the heart of tise 
+conduct Congress sought to prohibit in the ADA. As 
+Congress was aware, “the fear of injury, as well as 
+increased insurance or worker’s compensation costs” - 
+precisely the fears on which Chevron relies (Pet. Br. 
+23-24) - are “common barriers to employment for persons 
+with disabilities.” H.R. Rep. No. 485, Part 3, supra, at 31. 
+Such fears may well be justified for various classes of 
+people with disabilities in the aggregate. See Craig Zwer- 
+ling, et al., Occupational Injuries among Workers with Dis- 
+abilities, in EmpLoyMent, Disasiity, AND THE AMERICANS WITH 
+Disasitities Act 315, 325 (Peter David Blanck, ed., 2000) 
+(results of four nationally representative studies 
+“strongly support” the conclusion that “workers with a 
+range of disabilities are at increased risk for occupational 
+
+
+30 
+
+
+injuries”). But they will not eventuate for all of the indi- 
+viduals in those classes. If employers had been permitted 
+to rely on generalizations about the likely injury costs 
+that would attend hiring people with particular impair- 
+ments as a “business necessity” justification for excluding 
+them, the ADA’s protections would have been eviscerated 
+— as the statute’s key supporters recognized.!! Cf. Morse v. 
+Republican Party of Virginia, 517 U.S. 186, 235 (1996) 
+(Breyer, J., concurring in the judgment) (concluding that 
+Voting Rights Act covers political parties because “[i}n 
+1965, to have read this Act as excluding all political party 
+activity would have opened a loophole in the statute the 
+size of a mountain”). 
+
+
+Accordingly, when Congress crafted the ADA’s gen- 
+eral nondiscrimination provision, it used language that, 
+like the language of Title VII, is unambiguously 
+“focus[ed] on the individual.” Manhart, 435 U.S. at 708; 
+compare ibid. (“The statute makes it unlawful ‘to discrim- 
+inate against any individual with respect to his compensa- 
+tion, terms, conditions, or privileges of employment, 
+because of such individual's race, color, religion, sex, or 
+national origin.”) (quoting 42 U.S.C. § 2000e-2(a)(1); 
+emphasis in Manhart), with 42 U.S.C. § 12112(a) (making 
+it unlawful to “discriminate against a qualified individual 
+with a disability because of the disability of such individ- 
+ual in regard to job application procedures, the hiring, 
+advancement, or discharge of employees, employee com- 
+pensation, job training, and other terms, conditions, and 
+
+
+11 See 136 Cong. Rec. H4624 (July 12, 1990) (statement of 
+Rep. Edwards); 136 Cong. Rec. $9697 (July 13, 1990) (statement 
+of Sen. Kennedy). 
+
+
+31 
+
+
+privileges of employment”) (emphasis added). This lan- 
+guage prohibits employers from excluding people with a 
+given disabling impairment based on the probabilistic 
+risks faced by all individuals with the same diagnosis. As 
+under Title VII, “[e]ven a true generalization about the 
+class is an insufficient reason for disqualifying an indi- 
+vidual to whom the generalization does not apply.” Man- 
+hart, 435 U.S. at 708. 
+
+
+This case provides a perfect example of what Con- 
+gress sought to prohibit. Although Chevron claims to 
+have engaged in an “individualized” analysis (Pet. Br. 
+35), none of its witnesses could testify that Echazabal was 
+certain to experience a debilitating illness or death as a 
+result of working at the refinery. The most credentialed 
+witness to whom Chevron points, Dr. Tang, could not 
+even state that there was anything more than a one per 
+cent chance of such a result, and he could not say 
+whether it would occur in “a few hours” or in “months 
+and years.” J.A. 83-84, 86-88. The most he could say was 
+that “it’s individualistic, and it’s - all I know [is] it 
+occurs, and when it occurs, it’s the person that suffers 
+that gets hurt.” J.A. 86. But the fact (if it is one) that some 
+people with uncontrolled Hepatitis C will get hurt cannot 
+justify excluding all people with that condition. As with 
+women’s generally longer life expectancy, which Manhart 
+held insufficient to justify an employer’s assumption that 
+any individual woman would live longer than most men, 
+“there is no assurance that any individual” with Hepatitis 
+C “will actually fit [Dr. Tang’s] generalization.” Manhart, 
+435 U.S. at 708. 
+
+
+3. Recognizing that Congress limited the general 
+“qualification standards” defense to cases involving 
+neutral employment criteria also helps to explain why 
+
+
+32 
+
+
+Congress saw the need to state, in Section 12113(b), that 
+the “qualification standards” defense can be satisfied by a 
+showing that the plaintiff “pose[s] a direct threat to the 
+health or safety of other individuals.” 42 U.S.C. 
+§ 12113(b). Cf. p. 25, supra (noting that Chevron’s reading 
+gives the direct threat provision no independent mean- 
+ing). Although the general Section 12113(a) defense 
+applies only when employers enforce neutral job criteria 
+that apply to all employees regardless of impairment 
+status, the “direct threat” provision extends that defense 
+to a limited class of cases in which employers inten- 
+tionally discriminate based on the “individual” plaintiff's 
+disabling impairment, 42 U.S.C. § 12113(b). See EEOC v. 
+Exxon Corp., 203 F.3d 871, 873 (5th Cir. 2000) (difference in 
+language between Section 12113(a) and Section 12113(b) 
+suggests that “business necessity applies to across-the- 
+board rules, while direct threat addresses a standard 
+imposed on a particular individual”).12 Had Congress not 
+enacted Section 12113(b), employers could not have justi- 
+fied singling out individuals for disabilities for exclusion 
+based on proven safety risks to others. But in no event 
+can employers justify singling out individuals with dis- 
+‘abilities for exclusion based on purported risks to them- 
+selves. 
+
+
+12 To the extent that the Fifth Circuit’s opinion in Exxon 
+suggests that blanket exclusions of all individuals with a given 
+disability may be justified under the general “qualification 
+standards” provision (cf. Exxon, 203 F.3d at 875), that is 
+incorrect. Such exclusions are “because of” disability and thus 
+would violate the ADA’s disparate treatment provisions, to 
+which the “qualification standards” defense does not apply. 
+
+
+33 
+
+
+C. The Desire to Protect Employees from Posing 
+Risks to Themselves Cannot Be Justified as 
+“Job-Related and Consistent with Business 
+Necessity” 
+
+
+The EEOC’s threat-to-self defense has another fatal 
+flaw. As this Court has explained under Title VII, the 
+“business necessity” determination must be based on an 
+examination of the specific requirements of the job at issue 
+and the particular exigencies of the employer’s business. 
+See Albemarle Paper Co. v. Moody, 422 U.S. 405, 427 (1975) 
+(stating that the “question of job relatedness must be 
+viewed in the context of the [defendant's] plant’s opera- 
+tion”); Griggs, 401 U.S. at 431 (requiring, under business 
+necessity defense, that challenged test “bear a demonstra- 
+ble relationship to successful performance of the jobs for 
+which it was used”). The ADA similarly provides that 
+qualification standards that exclude individuals with dis- 
+abilities are impermissibly discriminatory unless they are, 
+at a minimum, “job-related for the position in question.” 42 
+U.S.C. § 12112(b)(6) (emphasis added). But Chevron does 
+not point to any imperatives specific to its own business 
+that justify excluding individuals who pose a threat to 
+themselves. Instead, relying on various articles from 
+human resources publications that refer generally to the 
+costs of workplace injuries (Pet. Br. 22-24, 28-29), Chevron 
+argues in the abstract that a no-threat-to-self condition is 
+always job-related and consistent with business necessity. 
+But examination of the business justifications proffered 
+for the threat-to-self defense demonstrates that such a 
+defense is not always — and has not been proven here to be 
+- “job-related and consistent with business necessity.” 
+
+
+The “ethical quandary” (Pet. Br. 28) faced by an 
+employer who believes that an individual with a disability 
+
+
+34 
+
+
+will harm himself by performing the job simply does not 
+satisfy the statutory test. The ADA “does not prevent the 
+employer from having a conscience.” Johnson Controls, 
+499 U.S. at 208. But it does prohibit exclusionary criteria 
+that are not “job-related.” A fear that an employee will 
+injure himself or become ill is not inherently “job- 
+related,” because injuries and illnesses do not necessarily 
+“affect an employee’s ability to do the job.” Id. at 201-202 
+(interpreting “occupational” element of Title VII’s “bona 
+fide occupational qualification” defense, which element 
+the Court described as limited to “job-related” qualifica- 
+tions). 
+
+
+Of course, in a particular case an injury may affect 
+the ability of an employee to perform the job by render- 
+ing him permanently unable to return to the job. Chevron 
+argues (Pet. Br. 22) that the threat-to-self defense is justi- 
+fied by the imperative to avoid the costs of job turnover 
+in such circumstances. But many injuries that would cre- 
+ate sufficiently “substantial harm” to trigger the EEOC’s 
+threat-to-self defense (see 29 C.F.R. § 1630.2(r)) — losing a 
+foot, for example, or contracting a chronic disease - 
+would not likely render an employee unable to do the 
+job. And even as applied to injuries and illnesses that 
+would make an employee unable to return to work, the 
+interest in assuring consistency in the workforce could 
+not satisfy the stringent “job-related and consistent with 
+business necessity” test unless the employer could show, 
+by reference to the operations of its own business, a 
+particularized need to assure that employees do not leave 
+their jobs within the time frame during which the risk to 
+the plaintiff would likely eventuate. 
+
+
+Employees constantly leave their jobs for reasons that 
+have nothing to do with workplace injuries. See Philip 
+
+
+35 
+
+
+Harvey, An Analysis of the Principal Strategies That Have 
+Influenced the Development of American Employment and 
+Social Welfare Law During the 20th Century, 21 Berxetey J. 
+EmpLoYMentT & Las. L. 677, 733-737 (2000) (collecting sta- 
+tistics showing rampant job turnover in the United 
+States). And workplace injuries are themselves wide- 
+spread: 5,100 workers died and 3.8 million experienced 
+disabling injuries on the job in 1998. Nationa. SaFety 
+Councit, Injury Facts 54 (1999). Employees in that year 
+missed a total of 125 million days of work due to on-the- 
+job injuries. Id. at 51. 
+
+
+The impact - whether on overall efficiency, on corpo- 
+rate reputation and morale, or on worker’s compensation 
+premiums! (cf. Pet. Br. 22-24) - of hiring an employee 
+with a disability who subsequently misses work because 
+of an injury is thus likely to vary widely. In some busi- 
+nesses (where job turnover and injury rates are low and 
+production processes do not readily accommodate 
+changes in or absences of employees), an employee who 
+misses work or cannot return to work could have a signif- 
+icant effect. In other businesses, an employee who misses 
+
+
+‘3 Worker’s compensation is not a liability regime but an 
+insurance scheme that guarantees a small benefit — far less than 
+in tort - to injured workers. See 1 ArrHur Larson & Lex K. 
+Larson, Worker's COMPENSATION 1-9 to 1-11 (Desk ed. 2001). 
+Several features of the worker’s compensation system cushion 
+the already limited financial impact of an award in this context: 
+notably, the institutionalized availability of insurance, see 3 id. 
+at 150-2 to 150-3, with regulation of the degree of experience 
+rating, see 3 id. at 150-17 to 150-19; and the availability of 
+“second-injury funds” and other devices to protect an employer 
+against full responsibility for providing compensation where an 
+on-the-job injury exacerbates a pre-existing disability, see 2 id. at 
+91-1 to 91-48. 
+
+
+36 
+
+
+work or cannot return to work may hardly be noticed. 
+The costs of employee injuries simply cannot justify the 
+EEOC’s threat-to-self defense across the board. Cf. Garcia- 
+Ayala v. Lederle Parenterals, Inc., 212 F.3d 638, 647-648 (1st 
+Cir. 2000) (whether an extended absence from work 
+makes the plaintiff unable to perform essential job func- 
+tions must be determined based on all the facts of the 
+case). 
+
+
+D. The Fear of Liability Does Not Justify Singling 
+Out Individuals with Disabilities for Exclusion 
+Based on Risks They Might Pose to Themselves 
+
+
+Nor can Chevron’s speculative fears of liability jus- 
+tify the EEOC’s threat-to-self defense. Chevron places 
+significant reliance (Pet. Br. 24-25) on the requirements of 
+the Occupational Safety and Health Act (OSH Act). If a 
+specific rule adopted by the Occupational Safety and 
+Health Administration (OSHA) required Chevron to 
+exclude people with Hepatitis C from areas containing 
+hydrocarbons, that rule would prevail. See Albertson's, 
+Inc. v. Kirkingburg, 527 U.S. 555, 570-578 (1999). But there 
+is no such OSHA rule here. 
+
+
+14 The general statement of “policy” issued by an OSHA 
+regional administrator in 1997 to the effect that “if an employee 
+can perform their job functions in a manner which does not pose 
+a safety hazard to themselves or others, the fact they have a 
+disability is irrelevant,” is not such a standard. Memorandum 
+for Area Directors and District Supervisors from Linda R. Anku 
+(Aug. 27, 1997) (available at http://www.osha-slic.gov/ 
+OshDoc/Interp data/119970827.html) (cited at Pet. Br. 24). Nor 
+do the various guidelines issued by the National Institute for 
+Occupational Safety and Health (NIOSH), which are not OSHA 
+rules carrying the force of law, support Chevron’s exclusion of 
+Echazabal. See Pet. Br. 6-7 & n.4 (citing various guidelines 
+
+
+37 
+
+
+Instead, Chevron relies on the OSH Act's “general 
+duty” clause, 29 U.S.C. § 654(a)(1). But the general duty 
+clause, like the OSH Act generally (see Industrial Union 
+Dep't v. American Petroleum Inst., 448 U.S. 607, 641 (1980) 
+(plurality opinion)), imposes only a duty of feasible pre- 
+vention. See Mark A. RotHsteIn, OcCUPATIONAL SAFETY AND 
+HeattH Law 207-208, 213-214, 215-216 (4th ed. 1998). 
+Where the ADA prevents an employer from excluding an 
+employee with increased susceptibility to occupational 
+harm, and the employer discloses the relevant risks to 
+that employee and takes all feasible steps to mitigate 
+those risks, the employer will face no prospect of liability 
+
+
+available at http://www.cdc.gov/niosh/chem-inx.html). Not a 
+single one of these guidelines states that people with chronic 
+liver disease should be excluded from all positions entailing 
+exposure to the substances that are present at the El Segundo 
+refinery. Some state that a determination of risk depends on 
+“the probable frequency, intensity, and duration of exposure, as 
+well as the nature and degree of the condition.” E.g., Benzene 
+Guideline 2 (1988); accord Inorganic Lead Guideline 2 (1988); see 
+also Napthalene Guideline 1 (1978) (describing “liver damage” as 
+a risk of “overexposure”); Ethylenediamine Guideline 1 (1978) 
+(same); Xylene Guideline 1 (1978) (same). Others state that the 
+relevant chemical “is not known as a liver toxin in humans,” but 
+that “the importance of this organ in the biotransformation and 
+detoxification of foreign substances should be considered 
+before exposing persons with impaired liver function.” Naptha 
+(Coal Tar) Guideline 1 (1978); accord Octane Guideline 1 (1978); 
+Heptane Guideline 1 (1978). Still others state that liver function 
+should be examined in a preplacement examination in order to 
+obtain a baseline for future monitoring. E.g., Toluene Guideline 1 
+(1978); Phenol Guideline 1 (1978); Manganese Guideline 1 (1978). 
+None of these guidelines justifies Chevron’s categorical 
+exclusion of Echazabal from any exposure to any of these 
+substances. 
+
+
+38 
+
+
+under that clause. Indeed, neither Chevron nor the gov- 
+ernment has identified a single case in which OSHA has 
+initiated a genera! duty clause enforcement action in such 
+circumstances. 
+
+
+Chevron’s fear of state-law liability that would over- 
+ride the exclusivity of worker’s compensation (Pet. Br. 
+25-28) is equally groundiess. None of the cases cited by 
+Chevron addresses a fact setting that is even remotely 
+comparable to the one presented here. And none of the 
+state workplace safety statutes cited by Chevron would 
+make an employer strictly liable simply because it hired 
+an employee whose disability presented a known risk to 
+himself and who was subsequently injured on the job. To 
+the contrary, all of these cases and statutes limit liability 
+to instances where the employer is at fault for failing to 
+eliminate the risk to the employee.'5 Where an employer, 
+
+
+15 Chevron (Pet. Br. 25-26) points to the California Labor 
+Code, which provides administrative, civil, and potentially 
+criminal sanctions for the failure to provide employees with an 
+employment setting that is “safe and healthful.” Cal. Labor 
+Code § 6402. But the code defines “safe” and “health” in fault- 
+based terms, as “such freedom from danger to the life, safety, or 
+health of employees as the nature of the employment reasonably 
+permits,” Id. § 6306(a) (emphasis added), and it requires 
+employers to take only those steps “reasonably necessary to 
+protect the life, safety, and health of employees,” Id. §§ 6401, 
+6403(c), 6406(d) (emphasis added). The New York workplace 
+safety statute, applied in Jamison v. GSL Enters., Inc., 711 
+N.Y.S.2d 413 (App. Div. 2000) (cited at Pet. Br. 26), is to similar 
+effect: Employers must provide “reasonable and adequate 
+protection” to their employees. N.Y. Labor Law § 200(1). And 
+prosecutions for manslaughter also require fault, as Granite 
+Constr. Co. v. Superior Court, 197 Cal. Rptr. 3, 5 (Ct. App. 1983) 
+(applying statute that criminalizes death caused by action taken 
+“without due caution and circumspection”) (cited at Pet. Br. 27), 
+
+
+39 
+
+
+complying with the ADA’s general prohibition on dis- 
+crimination against employees with disabilities, hires an 
+individual whose disability poses a risk to himself, 
+informs the individual of that risk, and takes all reason- 
+able steps to safeguard that individual’s health, a court 
+would have no basis for finding any fault on the part of 
+the employer. In precisely parallel circumstances, this 
+Court found the prospect of employer liability for fetal 
+harm “remote at best” and insufficient to justify exclud- 
+ing fertile women from jobs that might damage their 
+fetuses. Johnson Controls, 499 U.S. at 208. 
+
+
+In short, Chevron has not identified a single provi- 
+sion of state law that an employer would violate simply 
+by hiring an individual whose disability creates an 
+increased risk of workplace injury. If such a state law did 
+exist, it would be preempted, for a state cannot make 
+illegal a practice that is required by federal law. See 
+Johnson Controls, 499 U.S. at 209 (“When it is impossible 
+for an employer to comply with both state and federal 
+
+
+makes clear. Two criminal cases cited by Chevron do not deal 
+with the substantive standard of liability at all; they hold only 
+that the OSH Act does not preempt otherwise proper state 
+criminal prosecutions. See Pet. Br. 27 (citing People v. Chicago 
+Magnet Wire Corp., 534 N.E.2d 962, 965 (Ill. 1989); People v. 
+Pymm, 563 N.E.2d 1, 8 (N.Y. 1990)). Finally, the decision in 
+Russell v. Bush & Burchett, Inc., 2001 WL 1524554 (W.Va. 2001) 
+(cited at Pet. Br. 26), similarly does not address the standard for 
+employer liability. It simply reiterates that worker's 
+compensation is not the exclusive remedy in cases where the 
+employer has acted with “deliberate intention” to cause the 
+injury. Id. at *4. Contrary to Chevron’s suggestion (Pet. Br. 26 
+n.10), such intentional-injury exceptions to worker's 
+compensation exclusivity are generally read extremely 
+narrowly. See 2 Larson & Larson, supra, at 100-2 to 100-12, 103-1 
+to 103-46. 
+
+
+40 
+
+
+requirements, this Court has ruled that federal law pre- 
+empts that of the States.”). 
+
+
+Chevron effectively concedes that it can comply with 
+both the ADA’s nondiscrimination requirement and the 
+mandates of workplace safety laws. See Pet. Br. 27-28. Its 
+argument reduces to one of cost: Because the law imposes 
+on it a general obligation to take reasonable or feasible 
+steps to assure the safety of each individual it hires, 
+Chevron believes it would be cheaper simply to exclude 
+individuals whose disabilities might create an increased 
+risk of workplace injury than to hire those individuals 
+and take the steps the law requires to protect them. See 
+ibid. If Echazabal were seeking a reasonable accommoda- 
+tion of general work rules, such cost concerns would at 
+least be relevant - though Chevron would still have an 
+obligation to establish an “undue hardship” by reference 
+to the particulars of its operations, 42 U.S.C. §§ 12111(10), 
+12112(b)(5)(A). But where, as here, an individual with a 
+disability seeks to perform exactly the same job as his 
+coworkers, an employer cannot use a fear of the increased 
+costs of protection to justify singling him out for exclu- 
+sion on the basis of his disabling condition. As in Johnson 
+Controls, Chevron may not “resort[ ] to an exclusionary 
+policy” as “a method of diverting attention from [its] 
+obligation to police the workplace.” 499 U.S. at 210. 
+
+
+E. The EEOC’s Threat-to-Self Regulation is Not 
+Entitled to Deference 
+
+
+For all of these reasons, the EEOC’s interpretation of 
+the statutory “qualification standards” language to 
+authorize a threat-to-self defense must be rejected. An 
+agency interpretation of a statute is entitled to deference 
+only where the statute is ambiguous. Chevron U.S.A., Inc. 
+
+
+41 
+
+
+v. Natural Resources Def. Council, Inc., 467 U.S. 837, 843 
+(1984). Even if the term “qualification standards” could, 
+in the abstract, embrace a requirement that an employee 
+pose no risk to his own health or safety, “[a]mbiguity is a 
+creature not of definitional possibilities but of statutory 
+context.” Brown v. Gardner, 513 U.S. 115, 118 (1994). To 
+read the ADA’s “qualification standards” provision as 
+incorporating a threat-to-self defense is to ignore several 
+crucial features of the statutory context here: (1) Con- 
+gress’s clear decision, plainly expressed in the text of the 
+“qualified individual” provision, to eliminate the basis on 
+which the EEOC had earlier adopted a no-threat-to-self 
+condition for recovery under the Rehabilitation Act; (2) 
+Congress’s clear decision to limit the specific “direct 
+threat” defense to cases involving threats to others; (3) the 
+limitation of the statutory “qualification standards” 
+defense to cases that do not involve disparate treatment - 
+a limitation the EEOC itself recognizes elsewhere in its 
+regulations; and (4) the clear statutory command that the 
+“business necessity” issue must be resolved on an 
+employer- and job-specific basis. 
+
+“In sum, the text and reasonable inferences from it 
+give a clear answer against the Government, and that, as 
+{this Court has] said, is the end of the matter.” Brown v. 
+Gardner, 513 U.S. at 120 (internal quotation marks omit- 
+ted). Regardless of the level of deference generally 
+accorded to EEOC regulations interpreting the ADA, the 
+threat-to-self regulation incorporates an “impermissible 
+interpretation” of that statute and is not entitled to defer- 
+ence. Sutton v. United Air Lines, Inc., 527 U.S. 471, 482 
+(1999). 
+
+
+42 
+
+
+F. Even Under the Ei OC’s “Threat-to-Self” Regu- 
+lation, Chevron Has Not Established that Echa- 
+zabal Would Pose a Direct Threat to His Own 
+Safety 
+
+
+In its brief on the merits (Pet. Br. 40-42), Chevron 
+argues that this Court should affirm the district court's 
+conclusion that Echazabal’s continued employment 
+would pose a “direct threat” to his own safety. But Chev- 
+ron’s petition for certiorari presented only the legal ques- 
+tion “[wJhether a person who is unable to carry out the 
+essential functions of a job without incurring substantial 
+risks to the person’s own health or life is a ‘qualified 
+individual’ who satisfies ‘qualification standards’ for that 
+job within the meaning of the Americans with Disabilities 
+Act.” Pet. i. It did not pose the factbound question — one 
+that divided the parties below but that the court of 
+appeals did not reach - whether the district court cor- 
+rectly determined at summary judgment that Echazabal 
+was such a person. Indeed, Chevron’s reply brief in sup- 
+port of its petition (at 1) argued that, precisely because 
+the only question presented was the legal one of whether 
+an employer could exclude an employee based on a sig- 
+nificant risk to self, “nothing in the procedural posture of 
+this case requires this Court to accept as true” Echa- 
+zabal’s evidence, presented to overcome summary judg- 
+ment, that he in fact faced no significant risk. 
+Accordingly, “[t]he question whether petitioner was enti- 
+tled to summary judgment on the [direct threat] issue” 
+was not “ ‘fairly included’” within the question pre- 
+sented and is “not properly before” this Court. Toyota 
+Motor Mfg., Kentucky, Inc. v. Williams, 122 S. Ct. 681, 694 
+(2002) (quoting S. Ct. R. 14(1)(a)). 
+
+
+_—— 
+
+
+43 
+
+
+In any event, the district court improperly granted 
+summary judgment to Chevron on the threat-to-self issue. 
+The EEOC regulation on which Chevron relies requires 
+that any “direct threat” determination be made on the 
+basis of “a reasonable medical judgment that relies on the 
+most current medical knowledge and/or on the best avail- 
+able objective evidence.” 29 C.F.R. § 1630.2(r) (emphasis 
+added). This language plainly imposes a duty of inquiry 
+on employers who seek to exclude individuals based on 
+asserted safety risks. It is not enough that the employer 
+believe in good faith that the employee would pose a risk. 
+This Court applied a similar analysis in Bragdon, where it 
+held that an individual health care professional “had the 
+duty to assess the risk of infection based on the objective, 
+scientific information available to him and others in his 
+profession.” 524 U.S. at 649 (emphasis added). Although 
+employers may be able to “consult with individual physi- 
+cians as objective third-party experts,” id. at 650, they 
+may not evade their obligation to rely on the “most 
+current medical knowledge” and “best available objective 
+evidence” simply by hiring doctors who lack the training, 
+expertise, or inclination to seek out that knowledge and 
+evidence. 
+
+Chevron did not conduct the required inquiry when 
+it excluded Echazabal from its plant. See pp. 5-7, supra. 
+First, Chevron failed to examine the objective evidence in 
+its possession regarding the levels of hepatotoxins in the 
+coker unit. Had the company done so, Dr. Fedoruk testi- 
+fied, it would have been forced to conclude that “[t}]he 
+potential for exposure to hepatotoxins that could cause 
+liver injury is clinically insignificant and is the same for 
+Mr. Echazabal as it is for others performing similar tasks 
+at the Refinery.” J.A. 103. Nor did Dr. McGill, Chevron’s 
+
+
+44 
+
+
+non-board-certified company physician “doing industrial 
+medicine just through self-training” (J.A. 134), examine 
+the medical literature which showed that liver enzyme 
+tests are not a proper measure of liver functioning. J.A. 
+113-114. Had Dr. McGill done so, Dr. Gitnick testified, he 
+would have been forced to recognize that “[t]here is no 
+medical or scientific evidence which supports the conclu- 
+sion . . . that Mr. Echazabal’s health, and specifically his 
+liver condition, were or would be placed at any apprecia- 
+ble or clinically significant degree of risk” in the plant 
+helper job. J.A. 116.16 
+
+
+Contrary to Chevron’s argument, Echazabal had no 
+burden to present the Fedoruk and Gitnick declarations 
+to the company before it excluded him from the refin- 
+ery.’” It is Chevron’s burden to establish, as an affirma- 
+tive defense, that the company conducted a full inquiry 
+into the most current medical knowledge and the best 
+available objective evidence before it made its decision. 
+The Fedoruk and Gitnick declarations did not point to 
+any new scientific discoveries since Chevron’s decision in 
+early 1996. They simply established that Chevron’s deci- 
+sion to exclude Echazabal was plainly unreasonable 
+
+
+16 The Fedoruk and Gitnick declarations establish that even 
+without any accommodation, Echazabal faced no significant 
+risk. Even if Chevron could overcome those declarations, it 
+would still have to establish that no “reasonable 
+accommodation” (such as medical monitoring or the use of 
+personal protective equipment) could eliminate the risk. 29 
+C.F.R. § 1630.2(r). This Chevron has not done. 
+
+
+17 Chevron argues, for the first time in this Court, that the 
+Fedoruk and Gitnick declarations are contradicted by the 
+pronouncements of public health agencies. Pet. Br. 41 n.16. But 
+Chevron is incorrect, as we have explained. See pp. 6-7 n.5, pp. 
+36-37 n.14, supra. 
+
+
+45 
+
+
+based on medical knowledge and objective evidence 
+available at the time of the exclusion.!® lhe district court 
+thus incorrectly refused to consider those declarations 
+and improperly granted summary judgment to Chevron. 
+
+
+Ill. Echazabal is a Qualified Individual with a Dis- 
+
+ability 
+
+Chevron contends (Pet. Br. 42-50) that, wholly inde- 
+pendent of the affirmative “qualification standards” 
+defense set forth in Section 12113, an employee who 
+poses a risk to his own health or safety on the job cannot 
+satisfy the “qualified individual” element of the plain- 
+tiff’s case under ADA Title I. That argument ignores the 
+statutory definition of “qualified individual with a dis- 
+ability,” 42 U.S.C. § 12111(8), and treats the affirmative 
+“qualification standards” defense as entirely superfluous. 
+
+
+Title I defines “qualified individual with a disability” 
+as “an individual with a disability who, with or without 
+reasonable accommodation, can perform the essential 
+functions of the employment position that such individ- 
+ual holds or desires.” 42 U.S.C. § 12111(8). Two crucial 
+aspects of this statutory text are evident. First, the “quali- 
+fied individual” inquiry is limited to examination of the 
+plaintiff's ability to perform the actual tasks — “functions” 
+~ that incumbent employees perform in the position the 
+
+
+18 Although Chevron argues that the Fedoruk and Gitnick 
+declarations are irrelevant because they “were not reasonably 
+available to Chevron when it made its decision” (Pet. Br. 41), the 
+company continues to rely on the testimony of Dr. Tang, who 
+rendered no medical opinion until after Chevron made its 
+exclusion decision. See Pet. Br. 11. And it now cites publications 
+issued by public health agencies in 1997 and 1999. Id. at 9 n.5. 
+Chevron cannot have it both ways. 
+
+
+46 
+
+
+plaintiff seeks. See MERRIAM-WessTER’s COLLEGIATE DICTION- 
+ary 472 (10th ed. 1993) (“FUNCTION implies a definite 
+end or purpose that the one in question serves or a 
+particular kind of work it is intended to perform.”); see 
+also J.A. 209 (“Job functions are those acts or actions that 
+constitute a part of the performance of the job”). An 
+employer may impose other requirements on applicants 
+for a particular position - involving, for example, “the 
+physical abilities a person [has] to have to be qualified to 
+perform the job,” Pet. Br. 45 — but those requirements are 
+not “essential functions” of the job. A “function” of the 
+job is something incumbent employees do at work for 
+their employer, not a characteristic applicants must pos- 
+sess to satisfy the employer that they will be able to 
+perform the work if hired. The latter are quintessential 
+“selection criteria,” which an employer must justify 
+under the “job-related and consistent with business 
+necessity” defense afforded by Section 12113(a). See 42 
+U.S.C. § 12113(a) (referring to “qualification standards, 
+tests, or other selection criteria”).'9 If they were consid- 
+ered as part of the “qualified individual” inquiry, on 
+
+
+19 Chevron thus places entirely too much weight (Pet. Br. 
+45) on its written job description. To the extent that the 
+description sets forth the tasks incumbent employees perform, 
+it is relevant to the “qualified individual” inquiry — though only 
+as “evidence of the essential functions of the job,” not as 
+something that is presumptively entitled to deference. 42 U.S.C. 
+§ 12111(8). To the extent that the job description sets forth 
+physical criteria that Chevron believes are correlated to the 
+ability to perform job tasks, it is relevant only to the “job-related 
+and consistent with business necessity” defense for 
+“qualification standards” and other “selection criteria.” 
+
+
+47 
+
+
+which the plaintiff bears the burden of proof, the affirma- 
+
+
+_ tive “qualification standards” defense of Section 12113(a) 
+
+
+would be rendered entirely irrelevant. 
+
+
+Second, the language of the “qualified” definition is 
+phrased in the present tense. The provision asks whether 
+the plaintiff “can perform” the essential functions. Con- 
+trary to Chevron’s suggestion that a plaintiff must show 
+that he will continue to be able to perform essential job 
+functions indefinitely into the future (Pet. Br. 44), the 
+plaintiff satisfies his burden under the plain text of the 
+statute by showing that he “can,” at the time of the 
+challenged exclusion, perform essential functions (though 
+perhaps only with reasonable accommodation). Cf. Sut- 
+ton, 527 U.S. at 482 (“Because the phrase ‘substantially 
+limits’ appears in the Act in the present indicative verb 
+form, we think the language is properly read as requiring 
+that a person be presently - not potentially or hypo- 
+thetically — substantially limited in order to demonstrate 
+a disability.”). 
+
+The court of appeals was thus correct when it held 
+that “not posing a risk to one’s own health or safety 
+cannot in and of itself constitute an essential job func- 
+tion.” J.A. 211. Such an absence of risk is not a “function” 
+of the job at all. Cf. Johnson Controls, 499 U.S. at 207 (” ‘It 
+is word play to say that “the job” at Johnson [Controls] is 
+to make batteries without risk to fetuses in the same way 
+“the job” at Western Air Lines is to fly planes without 
+crashing.’ ”) (quoting International Union v. Johnson Con- 
+trols, 886 F.2d 871, 913 (7th Cir. 1989) (Easterbrook, J., 
+dissenting)). It is simply a characteristic that employers 
+find desirable in employees. If used as a criterion for 
+selecting employees, it may be defended, if at all, only 
+
+
+48 
+
+
+under the “job-related and consistent with business 
+necessity” test of Section 12113(a). 
+
+Given the statute’s focus on whether the plaintiff can 
+currently perform the essential functions of the job, a risk 
+that an employee will become injured on the job in the 
+future could make him un-“qualified” in only two classes 
+of cases. First, if an employee seeks a job in which he will 
+immediately die or suffer serious injury, he “cannot” 
+perform essential job tasks because the imminent death 
+or injury will prevent him from completing those tasks. 
+More realistically, an employee may refuse to perform 
+essential job tasks because they would pose too great a 
+risk to his health or safety. See Foreman, 117 F.3d at 
+809-810; Patterson, 2000 WL 366113. In such cases, the 
+plaintiff’s refusal to perform essential job functions ren- 
+ders him un-“qualified.”2° But where the plaintiff is cur- 
+rently willing and able to perform essential job functions, 
+and the employer’s only concern is that those functions 
+might, at some future point, cause injury that requires the 
+plaintiff to leave his job, the plaintiff has plainly satisfied 
+
+
+20 Contrary to the Chamber of Commerce’s imaginative 
+argument (Chamber Br. 19-20), such an individual could not 
+first seek a job that poses an irreducible risk to his own health 
+and then turn around and invoke OSHA’s work-refusal 
+regulation (29 C.F.R. § 1977.12(b)(2)) to shield himself from 
+adverse consequences for refusing to perform essential 
+functions of that job. As this Court made clear in Whirlpool Corp. 
+v. Marshall, 445 U.S. 1, 21 (1980), the work-refusal regulation 
+applies only when the employee acts reasonably and in good 
+faith. Where an employer has taken all feasible steps to protect 
+an employee short of excluding him, and the employee is the 
+one who demands to be placed in the environment that presents 
+a risk to himself, the employee’s subsequent refusal to work 
+could not reflect a reasonable, good-faith belief that the 
+employer is violating the OSH Act. See pp. 37-38, supra. 
+
+
+49 
+
+
+the statutory burden to show that he “can perform the 
+essential functions of the employment position.” 42 
+U.S.C. § 12111(8). Such a person, contrary to the Chamber 
+of Commerce’s argument, would never say, “ ‘I can’t do 
+[the job] because I would hurt myself if I did.’ ” Chamber 
+Br. 7-8. Any concern about whether such a person may 
+become unable to work in the future must be addressed 
+pursuant to a neutral qualification standard, which the 
+employer must defend as “job-related and consistent with 
+business necessity.” 
+
+
+At the time Chevron rejected him, Echazabal was 
+willing and able to perform the essential functions of the 
+plant helper position. As the court of appeals observed, 
+“Echazabal worked for Irwin at the coker unit, perform- 
+ing work similar to the job for which he applied, long 
+after he was diagnosed with hepatitis. There is no evi- 
+dence that the health of his liver ever affected his ability 
+to do the job.” J.A. 211. The most that Chevron can show, 
+even on the most generous reading of its evidence, is that 
+at some indeterminate point in the future - perhaps years 
+in the future - Echazabal might become seriously ill or 
+die on the job and thus no longer be able to work at his 
+position. See pp. 1-5, supra. But that prognostication does 
+not detract from Echazabal’s present ability to perform 
+the essential functions of the job. Accordingly, Echazabal 
+established that he is a “qualified individual” under the 
+ADA. 
+
+
+50 
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+
+
+Larry MINsky 
+
+Counsel of Record 
+
+Law OFFICE OF 
+
+600 New Jersey Ave., N.W. Larry MINsky 
+Washington, DC 20001 18000 Studebaker Road, 
+(202) 662-9595 Suite 310 
+
+Cerritos, CA 90703-2681 
+(562) 809-9273 
+
+
+Cua R. Fe_tps_um 
+GEORGETOWN UNIVERSITY 
+Law CENTER 
+
+
+SAMUEL R. BAGENSTOS 
+1545 Massachusetts Ave. 
+Cambridge, MA 02138 
+(617) 495-9299 
+
+
+— oo ee 
+
+
+App. 1 
+
+
+APPENDIX 
+Relevant Statutory Provisions 
+
+
+42 U.S.C. § 12101: 
+
+
+(a) Findings 
+The Congress finds that - 
+
+
+*?* 
+
+
+(2) historically, society has tended to isolate and segre- 
+gate individuals with disabilities, and, despite some 
+improvements, such forms of discrimination against indi- 
+viduals with disabilities continue to be a serious and 
+pervasive social problem; 
+
+
+(5) individuals with disabilities continually encounter 
+various forms of discrimination, including outright inten- 
+tional exclusion, the discriminatory effects of architec- 
+tural, transportation, and communication barriers, 
+overprotective rules and policies, failure to make mod- 
+ifications to existing facilities and practices, exclusionary 
+qualification standards and criteria, segregation, and 
+relegation to lesser services, programs, activities, bene- 
+fits, jobs, or other opportunities; 
+
+
+App. 2 
+
+
+42 U.S.C. § 12111: 
+As used in this subchapter: 
+
+
+*. 
+
+
+(3) Direct threat 
+
+
+The term “direct threat” means a significant risk to the 
+health or safety of others that cannot be eliminated by 
+reasonable accommodation. 
+
+
+(8) Qualified individual with a disability 
+
+The term “qualified individual with a disability” means 
+an individual with a disability who, with or without 
+reasonable accommodation, can perform the essential 
+functions of the employment position that such individ- 
+ual holds or desires. For the purposes of this subchapter, 
+consideration shall be given to the employer’s judgment 
+as to what functions of a job are essential, and if an 
+employer has prepared a written description before 
+advertising or interviewing applicants for the job, this 
+description shall be considered evidence of the essential 
+functions of the job. 
+
+
+42 U.S.C. § 12112: 
+(a) General rule 
+
+
+No covered entity shall discriminate against a qualified 
+individual with a disability because of the disability of 
+
+
+App. 3 
+
+
+such individual in regard to job application procedures, 
+the hiring, advancement, or discharge of employees, 
+employee compensation, job training, and other terms, 
+conditions, and privileges of employment. 
+
+
+(b) Construction 
+
+
+As used in subsection (a) of this section, the term “dis- 
+criminate” includes - 
+
+
+(1) limiting, segregating, or classifying a job applicant 
+or employee in a way that adversely affects the oppor- 
+tunities or status of such applicant or employee because 
+of the disability of such applicant or employee; 
+
+
+(6) using qualification standards, employment tests or 
+other selection criteria that screen out or tend to screen 
+out an individual with a disability or a class of individ- 
+uals with disabilities wnless the standard, test or other 
+selection criteria, as used by the covered entity, is shown 
+to be job-related for the position in question and is con- 
+sistent with business necessity; 
+
+
+*e2 
+
+
+42 USC. § 12113: 
+(a) In genera! 
+
+
+It may be a defense to a charge of discrimination under 
+
+
+this chapter that an alleged application of qualification 
+standards, tests, or selection criteria that screen out or 
+
+
+App. 4 
+
+
+tend to screen out or otherwise deny a job or benefit to an 
+individual with a disability has been shown to be job- 
+related and consistent with business necessity, and such 
+performance cannot be accomplished by reasonable 
+accommodation, as required under this subchapter. 
+
+
+(b) Qualification standards 
+
+
+The term “qualification standards” may include a 
+requirement that an individual shall not pose a direct 
+threat to the health or safety of other individuals in the 
+workplace. 
+
+
+*. 
+
+
+42 US.C. § 12201: 
+
+
+ss * 
+
+
+(d) Accommodations and services 
+
+
+Nothing in this chapter shall be construed to require an 
+individual with a disability to accept an accommodation, 
+aid, service, opportunity, or benefit which such individ- 
+wal chooses not to accept. 
+
+

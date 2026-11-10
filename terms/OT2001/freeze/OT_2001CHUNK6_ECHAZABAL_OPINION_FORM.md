@@ -1,0 +1,7 @@
+# Echazabal — form fixed before assignment
+
+One signed Court opinion after argument addresses three distinct legal tasks: Part I sustains the bounded regulation as an authorized formal exercise of delegated choice under the statute; Part II states every significant-risk, objective individual-assessment, business-necessity and accommodation condition; Part III reverses categorical invalidation and returns the actual medical-evidence issue within the motion's preservation limits. These parts follow the legal issues rather than counts.
+
+All eight Associates support the complete opinion. Stone supports the statutory result by independent construction and gives the regulation substantial persuasive weight, with actual delegated authority established. He joins the objective conditions and bounded remand in Parts II and III. A concurrence in part and in the judgment states his independent statutory ground for Part I rather than attributing an additional controlling-deference premise he has not approved. The separate position preserves a supplied legal distinction, not an invented disagreement with the regulation's validity or a rejection of delegated authority. No fallback is needed.
+
+Eight eligible Associates can carry the full lead opinion; no split authorship is necessary. No Justice's earlier disability-coverage view converts assumed coverage into a new finding, and no opinion revives accommodation against Chevron or reopens Irwin's separate judgment. This form precedes examination of counts or author selection.

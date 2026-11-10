@@ -1,0 +1,73 @@
+# Holmes Group v. Vornado — validated neutral preparation
+
+**Matter:** 83; No. 01-408; merits review under 28 U.S.C. §1254(1).
+**Event:** June 3, 2002; argument March 19, 2002. The calendar supplies no disposition.
+**Research cutoff:** June 3, 2002.
+**Function:** Fresh neutral framing and source validation; no commitment, assignment, predicted alignment, or eventual disposition.
+
+## 1. Questions and accurate judgment below
+
+The petition asks whether §1295(a)(1) gives the Federal Circuit jurisdiction over this Rule 54(b) trade-dress judgment when Holmes's complaint includes no claim arising under patent law, while Vornado's answer includes a patent-infringement counterclaim. It separately presents the significance of a final nonpatent judgment that did not adjudicate that counterclaim. The question is specialized appellate allocation, not whether the district court possessed any federal jurisdiction at all.
+
+The actual reviewed appellate disposition is an **unreported June 5, 2001 order in Federal Circuit No. 00-1286**, reproduced in petition appendix 1a–2a and joint appendix 33–34. It vacated the district court's March 27, 2000 judgment and remanded for consideration whether TrafFix supplied a change in law overcoming collateral estoppel, and, if appropriate, for merits consideration. The order states no independent jurisdictional reasoning. Respondent relies on the Federal Circuit's Aerojet line to defend its exercise of jurisdiction; that rationale must be attributed as precedent/advocacy rather than invented reasoning in the short order.
+
+The district court's March 8, 2000 memorandum is 93 F. Supp. 2d 1140, reproduced in petition appendix 3a–13a. On the parties' joint motion it entered a March 27 Rule 54(b) final judgment declaring that Holmes's products did not infringe any valid or enforceable asserted Vornado trade dress, finding no just reason for delay. The judgment rested on collateral estoppel from Vornado's prior Tenth Circuit litigation. It did not adjudicate patent validity or infringement.
+
+## 2. Record, current procedural limits, and preservation
+
+Holmes's December 8, 1999 complaint pleaded trade-dress declaratory relief, another Lanham Act claim, a Massachusetts statutory claim, and tortious-interference, defamation, unfair-competition and injurious-falsehood claims. It invoked federal-question, diversity, Lanham Act and supplemental jurisdiction. Vornado's December 30 answer asserted a patent-infringement counterclaim regarding a product also accused of trade-dress infringement. Vornado characterizes it as a nonfrivolous compulsory counterclaim. No independent finding of patent validity, infringement, or bad-faith pleading is supplied here.
+
+Holmes contested Federal Circuit jurisdiction and requested dismissal or transfer to the Tenth Circuit under §1631, alternatively affirmance. Vornado argues that Holmes's selective declaratory pleading controlled the order of claims while Rule 13 required Vornado to assert infringement. Claims of gamesmanship are advocacy, not judicial findings about motive.
+
+The **June 12, 2000 district order** is material and is reproduced at petition appendix 18a–20a. It conditionally dismisses Holmes's second through seventh causes, except insofar as they plead entitlement to the existing injunctive relief; it stays proceedings on Vornado's counterclaim. If the first-claim judgment is affirmed on appeal, the preliminary injunction becomes permanent, the bond is discharged, the conditional dismissals become with prejudice, and the counterclaim is dismissed with prejudice. If that judgment is reversed, either party may seek reinstatement by motion showing the reversal. Those conditional consequences are not already accomplished facts. The counterclaim is stayed, not withdrawn or adjudicated. A jurisdictional disposition must not silently deem a conditional event satisfied.
+
+The ITC proceeding and its termination provide background only. Respondent describes an agreement permitting attempted reinstitution without Holmes's objection if the appeal succeeds. No automatic ITC reopening or adjudication of that collateral proceeding follows from this case. The nonpatent complaint, the unadjudicated patent counterclaim, and the Rule 54(b) judgment remain distinct.
+
+## 3. Entering law
+
+The operative baseline includes effective OT2001 public law through May 28, 2002. Disregard the runtime sentence saying there are no completed current-term decisions. Read the relevant selections in [A standards](../entering-law/OT_2001CHUNK6_A.md), [opening holdings](../entering-law/OT_2001CHUNK6_A_AUTHORITIES.md), [current public law](../entering-law/OT_2001CHUNK6_A_CURRENT.md), and [public-position supplement](../entering-law/OT_2001CHUNK6_A_PUBLIC_POSITIONS.md).
+
+The then-operative §1295(a)(1) ties specialized jurisdiction to district-court jurisdiction based in whole or part on §1338, with its express copyright/mask-work/trademark-only exception. Section 1338(a) grants original jurisdiction over civil actions arising under the listed intellectual-property Acts and provides state-court exclusivity for its specified categories. Read the copied full statutory paragraphs, not later amended language. Rule 13's compulsory-claim requirement and Rule 54(b)'s partial-final-judgment mechanism do not themselves confer appellate jurisdiction. Section 1631 supplies transfer upon its own lack-of-jurisdiction, available-forum, filing-time and interest-of-justice conditions.
+
+**Christianson v. Colt, 486 U.S. 800 (1988),** is controlling surviving authority. Its unanimous opinion links §§1295 and 1338 to a well-pleaded claim created by patent law or necessarily requiring resolution of a substantial patent-law question. A patent defense and an alternative patent theory unnecessary to success of the claim do not suffice. Uniformity does not replace the enacted jurisdictional referent. The Court did not establish an actually consented constructive amendment on that record. Its transfer/law-of-the-case rules do not authorize a court conceding lack of jurisdiction to decide merits for efficiency. Its treatment of claims, defenses, amendments and time must be compared with the actual counterclaim presented here.
+
+**Rivet (February 24, 1998)** unanimously treats prior federal claim preclusion as a defense, distinguishing complete statutory preemption; a federal defense does not supply original arising-under jurisdiction. It does not itself decide whether a separately pleaded compulsory patent claim is merely a defense. **Caterpillar (December 10, 1996)** preserves a judgment only where actual diversity existed before trial and through judgment; convenience or consent is not a substitute. Its cured district-court defect differs from this appellate-allocation dispute.
+
+**Cardinal Chemical (May 17, 1993)** distinguishes a live independent invalidity counterclaim from a defense and holds that a Federal Circuit noninfringement affirmance does not by itself eliminate the counterclaim controversy. Its first two jurisdictional propositions were unanimous; its rejection of automatic discretionary vacatur had seven joins. That existing jurisdiction was not based solely on an original nonpatent complaint, so it must not be treated as having already decided today's allocation question. The precise reusable entry is **Live patent-invalidity counterclaims after noninfringement affirmance**, effective May 17, 1993, reproduced in the public-position supplement.
+
+TrafFix is effective substantive functionality law; Festo's May 28, 2002 patent holding is also effective. Neither supplies appellate jurisdiction by its substantive importance. No patent merits issue is decided in this Rule 54(b) judgment. If a path would reach the trade-dress merits after resolving jurisdiction, it must use actual simulated TrafFix law and the preserved merits record, not the parties' historical description of that decision.
+
+## 4. Supported alternatives and strongest objections
+
+**Complaint-based allocation.** Holmes argues that Congress incorporated the established arising-under rule, whose plaintiff-claim focus excludes a patent counterclaim. A compulsory-claim obligation changes pleading duties, not the jurisdictional wording. The contrary position would let a defendant redirect regional appellate jurisdiction over nonpatent claims. The strongest response is that a counterclaim is an affirmative claim with its own jurisdictional basis, not merely a defense, and the whole action may in ordinary usage arise partly under patent law.
+
+**Action-inclusive allocation.** Vornado reads the action and in-whole-or-part language to include a timely, viable patent counterclaim, particularly one Rule 13 makes compulsory. It invokes Cardinal Chemical's independent-claim distinction, declaratory-judgment examination of the underlying coercive action, and the uniformity/forum-shopping purpose of the specialized circuit. The strongest response is that §1295 expressly incorporates §1338's established source-of-claim rule; policy cannot simply rewrite that referent. Holmes's declaratory claim concerns trade dress, so the coercive suit corresponding to that claim must be distinguished from every other claim the defendant could bring.
+
+**Judgment-stage narrower allocation.** The Rule 54(b) judgment adjudicates no patent claim, and the patent counterclaim is stayed. One possible rule would resolve allocation for this nonpatent judgment while reserving an appeal actually adjudicating a patent counterclaim or an amended patent complaint. The objection is that §1295 speaks of district-court jurisdiction in the case rather than the legal theory necessary to a particular appealed judgment; an opinion must address that textual obstacle and the risk of split appellate routes.
+
+These alternatives remain legal hypotheses. No sentence here selects one, assumes that every counterclaim must be excluded, or treats uniformity as an independent jurisdictional grant.
+
+**Remedies.** A conclusion that specialized jurisdiction is absent can vacate the appellate judgment and return the matter for lawful allocation, including a §1631 transfer if its conditions are met. It does not erase ordinary district-court jurisdiction or decide trade-dress rights. A conclusion sustaining jurisdiction removes that threshold objection; it does not alone adjudicate the parties' broader patent and collateral-estoppel positions. Conditional district-order consequences require their actual triggering event.
+
+## 5. Justice-specific published anchors
+
+| Justice | Date-eligible legal position to test, without predicting a commitment |
+|---|---|
+| Stevens | Christianson concurrence distinguishes original and appellate timing and allows actual or constructively amended patent claims to matter; it still distinguishes claims from issues. Cardinal Chemical authored independent counterclaim and anti-automatic-vacatur grounds. Compare the unadjudicated counterclaim and Rule 54(b) posture explicitly. |
+| O'Connor | Joined Christianson's controlling framework and Cardinal Chemical's jurisdictional and discretionary holdings; joined Rivet and Caterpillar. Test whether the affirmative counterclaim changes the enacted jurisdictional basis. |
+| Scalia | Joined Christianson and Rivet; authored Rivet's complaint/defense distinction. Joined Cardinal Chemical's jurisdictional holdings while withholding its broader discretionary direction. The distinction between a counterclaim and a defense remains necessary. |
+| Kennedy | Joined Christianson, Cardinal Chemical's holdings, Rivet and Caterpillar. The actual statutory source and the procedural stage must each be addressed. |
+| Souter | Joined Cardinal Chemical's jurisdictional grounds while withholding the broader discretionary direction; joined Rivet and Caterpillar. Those separate subjects should not be collapsed into a generalized jurisdiction preference. |
+| Thomas | Joined Cardinal Chemical's jurisdictional and discretionary propositions, and Rivet and Caterpillar. This case must still establish its own §1338 basis. |
+| Ginsburg | Joined Rivet and Caterpillar. Those propositions require independent authority but do not decide the compulsory-counterclaim question by themselves. |
+| Breyer | Joined Rivet and Caterpillar. As a First Circuit judge he joined the per curiam Xeta v. Atex, 825 F.2d 604 (1987), transferring an appeal from an antitrust preliminary-injunction ruling because a viable patent counterclaim supplied partial §1338 jurisdiction. Xeta's claim/defense and legitimate-claim reasoning is direct adverse evidence that must be tested against later Christianson and the particular stayed/conditional posture; no personal authorship is asserted. |
+
+## 6. Source map and readiness
+
+Separate clean filings from archive item `micro_IA40385014_0502` are in `sources/chunk6-clean`: `holmes-02. Petition for Writ of Certiorari_djvu.txt`, `holmes-06. Petitioners Brief_djvu.txt`, and `holmes-07. Respondents Brief_djvu.txt`. The petition reproduces the actual appellate order, district memorandum, Rule 54(b) judgment, statutory paragraphs and June 12 conditional order. These sources support the relevant record without claiming independent inspection of every lodged-record page. Their competing descriptions are preserved as advocacy where appropriate.
+
+`christianson-486-800.txt` contains the prior opinion from Cornell, including Stevens's concurrence and the actual amendment reservation. `xeta-825-604.txt` contains the prior reporter opinion from Public.Resource.Org; the respondent brief independently identifies the panel and rationale. The [source extract](OT_2001CHUNK6_HOLMES_SOURCE_EXTRACT.md) copies the operative predecision documents from the petition OCR. OCR artifacts are preserved; a verbatim public quotation must be checked against the scan where recognition is doubtful.
+
+Validation corrects the appellate source identity, restores the June 12 conditional order, distinguishes an actual claim from a defense, and supplies the strongest contrary authorities and the direct Breyer/Stevens prior positions. The runtime phrase suggesting no effective functionality decision exists is not adopted. No new factual reconstruction premise or current outcome is supplied. All nine are seated at both milestones; no case-specific nonparticipation is established.
+
+**Readiness:** Ready for independent modeling of specialized appellate jurisdiction and its procedural remedy. A proposal to decide patent infringement, patent validity, or the trade-dress merits requires additional issue-specific merits work rather than assumption from this threshold packet.

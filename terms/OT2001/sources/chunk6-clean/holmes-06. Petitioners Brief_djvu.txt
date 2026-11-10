@@ -1,0 +1,1930 @@
+—_ 
+
+
+Supreme Court, U.S. 
+
+
+(4 FILED 
+
+
+No. 01-408 4 
+
+
+IN THE 
+
+
+Supreme Court of the Anite 
+
+
+CLERK 
+
+
+THE HOLMES GROUP, INC., 
+Petitioner, 
+—egainst— 
+VORNADO AIR CIRCULATION SYSTEMS, INC., 
+
+
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR PETITIONER 
+
+
+James W. DABNEY 
+Counsel for Petitioner 
+
+
+1155 Avenue of the Americas 
+New York, New York 10036 
+(212) 790-9090 
+Paut Izzo 
+Marcia H. Sundeen Timotny P. GALLOGLY 
+Carol M. Wilhelm Tue Homes Grovp, INc. 
+Pennie & Epmonps LLP Milford Massachusetts 
+New York, New York ARTHUR R. MILLER 
+Of Counsel 1755 Massachusetts Avenue 
+Cambridge, Massachusetts 
+January 4, 2002 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+Petitioner commenced this civil action in the United 
+States District Court for the District of Kansas. Petitioner’s 
+complaint sought injunctive, monetary, and declaratory 
+relief under 15 U.S.C. § 1125(a) and applicable state law. 
+In March 2000, the District Court granted summary judgment 
+in favor of Petitioner on its First Cause of Action, holding 
+that Petitioner’s “sale of its fan and heater products does not 
+infringe any valid or enforceable ‘trade dress’ claimed by 
+[Respondent] under 15 U.S.C. §§ 1051 et seq.” Final 
+judgment was then entered in favor of Petitioner pursuant to 
+Rule 54(b) of the Federal Rules of Civil Procedure. 
+
+
+Respondent timely filed a Notice of Appeal from the 
+District Court’s judgment; however, instead of appealing to 
+the Court of Appeals for the Tenth Circuit, Respondent 
+directed its appeal to the Court of Appeals for the Federal 
+Circuit. Respondent contended that the Federal Circuit had 
+appellate jurisdiction under 28 U.S.C. § 1295(a)(1), not based 
+on anything pleaded in Petitioner’s complaint or decided by 
+the District Court, but based on Respondent’s having 
+included, in its answer, a counterclaim against Petitioner for 
+alleged patent infringement. The Respondent’s counterclaim 
+was extraneous to the District Court’s jurisdiction to hear 
+Petitioner’s suit and formed no part of the judgment from 
+which Respondent had appealed. In its brief filed with the 
+Federal Circuit, Petitioner urged that Respondent’s appeal 
+be dismissed for lack of appellate jurisdiction or, 
+alternatively, transferred to the Tenth Circuit pursuant to 
+28 U.S.C. § 1631. 
+
+
+On June 5, 2001, the Federal Circuit summarily vacated 
+the District Court’s judgment and remanded for further 
+
+
+il 
+
+
+proceedings. In direct conflict with decisions of this Court, 
+the Federal Circuit has taken the position that a plaintiff’s 
+well-pleaded complaint does not determine whether a civil 
+action is one “arising under” federal patent law for purposes 
+of 28 U.S.C. §§ 1295(a)(1) and 1338(a). Rather, according 
+to the Federal Circuit, the answer of a defendant must be 
+consulted to determine whether a case is one “arising under” 
+federal patent law; and if a defendant’s answer includes a 
+patent law counterclaim against the plaintiff, then, as 
+
+
+exemplified by the decision below, the Federal Circuit rule — 
+
+
+is that the defendant’s pleading purportedly operates to 
+change the basis of a district court’s jurisdiction and cuts off 
+regional Circuit jurisdiction over the plaintiff’s suit. 
+
+
+The Federal Circuit’s interpretation of 28 U.S.C. 
+§§ 1295(a)(1) and 1338(a) purports to displace vast sectors 
+of regional Circuit jurisdiction and to vest in defendants, 
+rather than plaintiffs, control over what appellate court will 
+determine, and what law may govern, broad categories of 
+claims arising under copyright, trademark, antitrust, contract, 
+defamation, and other non-patent laws. . 
+
+
+The questions presented are: 
+
+
+1. Does 28 U.S.C. § 1295(a)(1) divest regional Circuits 
+of jurisdiction over cases in which the well-pleaded complaint 
+of the prevailing plaintiff does not allege any claim arising 
+under federal patent law? 
+
+
+2. Did the Court of Appeals for the Federal Ci. 1it err 
+in concluding that this action is a “patent case,” that is, a 
+
+
+“civil action arising under” federal patent law for purposes 
+of 28 U.S.C. §§ 1295(a)(1) and 1338(a)? 
+
+
+ill 
+CORPORATE DISCLOSURE STATEMENT 
+
+
+Petitioner hereby identifies Berkshire Partners L.L.C. as 
+a parent corporation owing 10% or more of Petitioner’s stock. 
+No publicly held company owns 10% or more of the stock 
+of the Petitioner. 
+
+
+iv 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ..............0.05. i 
+CORPORATE DISCLOSURE STATEMENT ..... ili 
+Pe EE c clccbcedencdeucéscaas iv 
+TABLE OF AUTHORITIES ................... Vv 
+| EGE ae eee ee l 
+STATEMENT OF JURISDICTION ............. | 
+STATUTORY PROVISIONS INVOLVED ....... | 
+STATEMENT OF THE CASE ................. | 
+SUMMARY OF ARGUMENT ................. 12 
+NE 1h obn0 0s cr cbs Kod incetewanssiecta 15 
+I FEDERAL CIRCUIT JURISDICTION 
+UNDER 28 U.S.C. § 1295(a)(1) IS LIMITED 
+TO CASES “ARISING UNDER” FEDERAL 
+DOES GAME. Soc déduacecacemens Gpumes 15 
+Il. THE FEDERAL CIRCUIT ERRED IN 
+DETERMINING THAT THIS CIVIL 
+ACTION IS A “PATENT CASE” FOR 
+PURPOSES OF 28 U.S.C. §§ 1338(a) AND 
+SES cb Cdsoacspedhicdsesualevens 23 
+
+
+GEE. cocccccveseesucnsbvucddnsiées 32 
+
+
+TABLE OF AUTHORITIES 
+Page 
+CASES 
+
+
+Aerojet-General Corp. v. Machine Tool Works, 
+Oerlikon-Buehrle Lid., 
+895 F.2d 736 (Fed. Cir. 1990) ... 25-26, 27, 28-29, 30 
+
+
+American Well Works Co. v. Layne & Bowler Co., 
+EET ducettdccacemeseteees és 13 
+
+
+Archer v. Arms Tech., Inc., 
+72 F. Supp. 2d 784 (E.D. Mich. 1999) ......... 20 
+
+
+Arkla, Inc. v. United States, 
+37 F.3d 621 (Fed. Cir. 1994), 
+cert. denied, 514 U.S. 1035 (1995) ........... 7 
+
+
+Atari, Inc. v. JS&A Group, Inc., 
+747 F.2d 1422 (Fed. Cir. 1984) 
+PERG che Feb cbavacveatocadecevecs 9-10, 24, 29 
+
+
+Bell Atlantic Mobile, Inc. v. Zoning Board of 
+
+
+Butler Township, 
+138 F. Supp. 2d 668 (W.D. Pa. 2001) ......... 20 
+
+
+Boone v. DuBose, 
+718 F. Supp. 479 (M.D. La. 1988) ............ 21 
+
+
+Cable Elec. Prods., Inc. v. Genmark, 
+770 F.2d 1015 (Fed. Cir. 1985) .............. 6 
+
+
+vi 
+
+
+Authorities 
+Page 
+
+Caterpillar Inc. v. Williams, 
+
+482 U.S. 386 (1987) ....... 12, 13, 19, 20, 21, 22, 23 
+Christianson v. Colt Indus. Operating Corp, 
+
+Ge es EEE cascdekdpbdsbecndccees passim 
+Christianson v. Colt Indus. Operating Corp., 
+
+609 F. Supp. 330 (N.D. Ill. 1985) ............ 16 
+Civil City of South Bend v. Consolidated Rail Corp., 
+
+880 F. Supp. 595 (N.D. Ind. 1995) ............ 20 
+Commercial Sales Network v. Sadler-Cisar, Inc., 
+
+755 F. Supp. 756 (N.D. Ohio 1991) ........... 21 
+Cook v. Georgetown Steel Corp., 
+
+770 F.2d 1272 (4th Cir. 1985) ............... 13, 20 
+DSC Communications Corp. v. Pulse 
+
+Communications, Inc., 
+
+170 F.3d 1354 (Fed. Cir.), 
+
+cert. denied, 528 U.S. 923 (1999) ............ 24-25 
+Duckson, Carlson, Bassinger, LLC v. Lake Bank, N.A., 
+
+139 F. Supp. 2d 1117 (D. Minn. 2001) ........ 20 
+FDIC v. Elefant, 
+
+790 F.2d 661 (7th Cir. 1986) ............055. 20 
+
+
+Fauntleroy v. Lum, 
+ST PED coccevcasbiachcesdanedvs 7 
+
+
+vil 
+
+
+Authorities 
+Page 
+
+
+Franchise Tax Board v. Construction Laborers Trust, 
+463 U.S. 1 (1983) .....-- eee eee 12, 18, 25, 27 
+
+
+Great Northern Ry. Co. v. Alexander, 
+246 U.S. 276 (1918) ...... 0c eee e eee cere 19, 22-23 
+
+
+Healy v. Sea Gull Specialty Co., 
+237 U.S. 479 (1915) ......----- 12, 19, 21-22, 24, 28 
+
+
+Hunter Douglas, Inc. v. Harmonic Designs, Inc., 
+153 F.3d 1318 (Fed. Cir. 1998), 
+cert. denied, 525 F.2d 1143 (1999) .......-+-: 10 
+
+
+Ident Corp. of America v. Wendt, 
+638 F. Supp. 116 (E.D. Mo. 1987) .....--.-+-: 21 
+
+
+In re Adams, 
+809 F.2d 1187 (Sth Cir. 1987) .......-- eee ee 20 
+
+
+In re Independent Service Organizations 
+Antitrust Litigation, 
+203 F.3d 1322 (Fed. Cir. 2000), 
+cert. denied, 121 S. Ct. 1077 (2001) ........-. 10 
+
+
+Jim Arnold Corp. v. Hydrotech Sys., Inc., 
+109 F.3d 1567 (Fed. Cir.), 
+cert. denied, 522 U.S. 933 (1997) ....--+++++ 14 
+
+
+Lear, Inc. v. Adkins, 
+395 U.S. 653 (1969) ... 2... cece eee eee 13 
+
+
+vill 
+Authorities 
+Page 
+
+Louisville & Nashville R. Co. v. Mottley, 
+
+ge RN rere 20 
+Marshall v. Gibson's Prods., Inc., 
+
+584 F.2d 784 (Sth Cir. 1978) ................ 20 
+McDonald v. Credithrift of America, Inc., 
+
+661 F.2d 69 (Sth Cir. 1981) ................. 21 
+Merrell Dow Pharm. Inc. v. Thompson, 
+
+478 U.S. 804 (1986) ................ 12, 19, 24, 28 
+Metro Ford Truck Sales, Inc. v. Ford Motor Co., 
+
+145 F.3d 320 (Sth Cir. 1998) ................ 20 
+Metropolitan Life Ins. Co. v. Taylor, 
+
+Se Ss PEE ned cvbantvedeebacedssacter 18 
+Midwest Indus., Inc. v. Karavan Trailers, Inc.., 
+
+175 F.3d 1356 (Fed. Cir.), 
+
+cert. denied, 528 U.S. 1019 (1999) ...... 6, 10, 24, 30 
+Nobelpharma AB v. Implant Innovations, Inc., 
+
+141 F.3d 1059 (Fed. Cir), 
+
+cert. denied, 525 U.S. 876 (1998) ............. 9,10 
+Pan American Petroleum Corp. v. Superior Court, 
+
+ee es GOED cu dvi bssencnbetiasd 12, 19, 20 
+
+
+Pratt v. Paris Gas Light & Coke Co., 
+SGD WE POTD 0b cosvineiusoudaceewece 13 
+
+
+ix 
+Authorities 
+Page 
+
+Price v. Alfa Mut. Ins. Co., 
+
+877 F. Supp. 597 (M.D. Ala. 1995) ........... 20-21 
+Rath Packing Co. v. Becker, 
+
+530 F.2d 1295 (9th Cir. 1975), 
+
+aff'd sub nom. Jones v. Rath Packing Co., 
+
+EE Sieh nk oscbhdsdesesecece 20 
+Reed v. Cohen, 
+
+876 F. Supp. 25 (E.D.N.Y. 1995) ...........45. 21 
+Rivet v. Regions Bank, 
+
+SE PEED b-0c doveeceseéesacevees 20 
+Saturday Evening Post Co. v. Rumbleseat Press, Inc., 
+
+816 F.2d 1191 (7th Cir. 1987) ............... 13, 20 
+Shamrock Oil Corp. v. Sheets, 
+
+i ne davsetsvhe'sedeéecsedees 27 
+Shannon v. Shannon, 
+
+965 F.2d 542 (7th Cir. 1992) .............45. 20 
+Speedco Inc. v. Estes, 
+
+853 F.2d 909 (Fed. Cir. 1988) ............... 29 
+Stone v. Williams, 
+
+792 F. Supp. 749 (M.D. Ala. 1992) ........... 21 
+Takeda v. Northwestern Nat'l Life Ins. Co., 
+
+765 F.2d 815 (9th Cir. 1985) ..............4.. 13, 20 
+
+
+Xx 
+
+
+Authorities 
+Page 
+
+Taylor v. Anderson, 
+
+ee PETE uk wad CaSeuennsedeesceeses 18 
+Texas v. Walker, 
+
+142 F.3d 813 (Sth Cir. 1998) ..............4.. 20, 21 
+The Fair v. Kohler Die & Specialty Co., 
+
+err 12, 19, 22, 28 
+TrafFix Devices v. Marketing Displays, Inc., 
+
+See ek Ee SE EE bo Kccebnedencsacc 6, 7, 11, 31 
+Van Dusen v. Barrack, 
+
+er Orr ee tree 24 
+Video Connection of America, Inc. v. Priority 
+
+Concepts, Inc., 
+
+625 F. Supp. 1549 (S.D.N.Y. 1986) ........... 21 
+Vornado Air Circulation Svs., Inc. v. 
+
+Duracraft Corp., 
+
+58 F.3d 1498 (10th Cir. 1995), 
+
+cert. denied, 516 U.S. 1067 (1996) .......... passim 
+Wallace v. Weidenbeck, 
+
+985 F. Supp. 288 (N.D.N.Y. 1998) ............ 20 
+Williams v. North Carolina, 
+
+Day WET GEE Wa cacakcccotececdceacwar 7 
+
+
+xi 
+Authorities 
+Page 
+
+Yamaha Corp. v. United States, 
+
+961 F.2d 245 (D.C. Cir. 1992), 
+
+cert. denied, 506 U.S. 1078 (1993) ........... 7 
+Zenith Electronics Corp. v. Elotouch Sys., Inc., 
+
+182 F.3d 1340 (Fed. Cir. 1999) .............. 10 
+STATUTES 
+Re ED. oc cin bc ccvnvecercescasosccesses 17 
+PB Teiis EEE Mv t vc cs cad ccdecccesecevececs 1,2 
+Ss OP EEE b vce descvscosvenveess i, 2, 3, 6, 10 
+a di pains ‘a 
+y pid To >. |) rere Terre rer Ter rrr l 
+FB UBC. © UZBSIAME) «nc ccccccccccccccccees passim 
+Ft 2b er eee rer eee ee 1, 2, 16 
+BE ULB. © RBGREED «occ cc cwecnsvesccccsccese 1,2 
+2B UB.C. § USSOLE) .. nc ccccccccccsccccccees passim 
+ye Error rrr rT Teer erie Te Ra 
+
+
+NE Fo ic icetcdbns ictus 24 
+
+
+xii 
+
+
+Authorities 
+Page 
+EEE cv ondhedds cd canddedkiekeriocs i, 11 
+ee EE cb ido bsdnarabeceecvces 3 
+SSE bocce vivecesnascuuuscses 16, 17, 28 
+Mass. Gen. L. ch. 93A, §§ 2and11............. 2 
+RULES 
+I ss a 12, 20 
+a ROSS PR AY SeREEr IT AE EREDE 20 
+Ps ee EE nd vccccocheckduncaecaaut 10 
+Ce RIE <a sk eeb@adie SWes i sca dsc 1, 8 
+CONGRESSIONAL MATERIALS 
+jn TE TE ins 35 6 Sne Chdhecdkl 24 
+eee Cae. DED. SRSES CIGBE) oo. vc ccvicncnccen 17 
+TREATISES 
+14B C. Wricut, A. Miter & E. Cooper, 
+FEDERAL PRACTICE AND PROCEDURE 
+Re NEN chs o 8 ee canis k does uae as 19, 26 
+
+
+18 J. Moore, Moore’s FEDERAL PRACTICE 
+§ 132.03[6}[aj (3d ed. 2000) ................ 7 
+
+
+] 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Court of Appeals is unreported and 
+appears in the Joint Appendix (“JA”) at JA33-34. The opinion 
+
+
+of the District Court is reported at 93 F. Supp. 2d 1140 and 
+
+
+appears at JA88-98. The final judgment of the District Court 
+appears at JA99-100. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The judgment of the Court of Appeals was entered on 
+June 5, 2001. No petition for rehearing was filed. This Court’s 
+
+
+jurisdiction is invoked under 28 U.S.C. § 1254(1). 
+
+
+The District Court had jurisdiction to hear Petitioner’s 
+claims under 15 U.S.C. § 1121 and 28 U.S.C. §§ 1331, 
+1332(a), and 1367. In the decision below, the Court of 
+Appeals for the Federal Circuit purported to exercise 
+appellate jurisdiction under 28 U.S.C. § 1295(a)(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+This case involves the scope of Federal Circuit appellate 
+jurisdiction under 28 U.S.C. § 1295(a)(1), which in turn is 
+governed by the “well-pleaded complaint rule” of 28 U.S.C. 
+§ 1338(a). The text of these statutory provisions is reprinted 
+at JA104-05. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioner manufactures and sells HOLMES® brand 
+consumer household products, including household fan and 
+heater fan products. Respondent is a competitor of Petitioner 
+in the United States fan and heater business. Both parties 
+
+
+2 
+
+
+manufacture and sell axial-flow fan and heater fan products 
+
+
+whose outlet grill structures incorporate a series of arcuate 
+or curved vanes for directing air flow. 
+
+
+In Vornado Air Circulation Sys., Inc. v. Duracraft Corp., 
+58 F.3d 1498 (10th Cir. 1995), cert. denied, 516 U.S. 1067 
+(1996) (“Vornado I’), the Court of Appeals for the Tenth 
+Circuit held that the “arcuate grill vane structure” 
+incorporated in certain fan and heater products sold 
+
+
+by Respondent “cannot be protected as trade dress” under © 
+
+
+15 U.S.C. § 1125(a). Id. at 1510 (Lodging [“L”] at L60). 
+Despite this holding, the Respondent, in late 1999, issued a 
+press release and otherwise publicly accused Petitioner of 
+“infringing” exactly the same alleged “trade dress” that had 
+been held invalid and unprotectable in Vornado I (JA47-48).' 
+
+
+Petitioner commenced this civil action on December 8, 
+1999, in the United States District Court for the District of 
+Kansas. Petitioner’s complaint (L1-86) set forth seven causes 
+of action against Respondent: (1) declaratory judgment 
+of non-liability under. 15 U.S.C. § 1125(a); (2) violation of 
+Mass. Gen. L. ch. 93A, §§ 2 and 11; (3) violation of 15 U.S.C. 
+§ 1125(a); (4) tortious interference with prospective 
+economic advantage; (5) defamation; (6) unfair competition; 
+and (7) injurious falsehood (L2-15). Petitioner’s complaint 
+invoked jurisdiction under “15 U.S.C. § 1121, 28 U.S.C. 
+$§ 1331 and 1332(a), and the principles of supplemental 
+jurisdiction codified in 28 U.S.C. § 1367” (L2). 
+
+
+. 1. Descriptions of the Respondent’s actions givin rise to 
+this action appear in the Declaration of Paul J. Powers, sworn to 
+December 17, 1999, the Declaration of Francis E. Marino, sworn 
+to December 17, 1999, and the Declaration of James W. Dabney sworn 
+to December 17, 1999, and filed with the District Court (JA13-15). 
+
+
+3 
+
+
+On December 17, 1999, Petitioner moved for a 
+preliminary injunction restraining Respondent from falsely 
+claiming, in commercial advertising or promotion, that 
+HOLMES? products sold by Petitioner purportedly infringed 
+“trade dress” rights claimed by Respondent under 15 U.S.C. 
+§ 1125(a) (JA13). On January 4, 2000, the District Court 
+issued an “Order Granting Preliminary Injunction” (JA84- 
+86) under which Respondent was “enjoined and restrained 
+from making or permitting to be made, in commercial 
+advertising or in the marketplace, directly or indirectly, any 
+claim ... to the effect that Holmes or any Holmes product 
+infringes any ostensible Vornado trade dress rights in spiral 
+grill designs. .. . ” (JA85-86).’ 
+
+
+On January 7, 2000, Petitioner moved for summary 
+judgment on its First Cause of Action seeking a declaratory 
+judgment that its sale of HOLMES® products does not 
+infringe any valid or enforceable “trade dress” rights claimed 
+by Respondent under 15 U.S.C. § 1125(a). Petitioner’s 
+motion was granted by Order dated March 8, 2000. Holmes 
+
+
+2. In addition to seeking preliminary injunctive relief against 
+false advertising by Respondent in the marketplace, Petitioner sought 
+an order under 28 U.S.C. § 1651(a) (L10) restraining Respondent 
+from attempting to re-litigate its purported “trade dress” claim in the 
+context of a quasi-judicial, administrative “investigation” proceeding 
+under 19 U.S.C. § 1337 before the International Trade Commission 
+(“ITC”), with which Respondent had lodged a complaint on 
+November 24, 1999 (L7-8, L61-86). The District Court denied the 
+latter aspect of Petitioner’s motion for preliminary injunctive relief 
+(JA86), ruling that “Vornado shall not be required to withdraw its 
+complaint lodged with the ITC nor enjoined from cooperating with 
+any future ITC investigation” (JA86). The ITC subsequently instituted 
+Investigation No. 337-TA-426 (the “ITC proceeding”). See 65 Fed. 
+Reg. 4260 (Jan. 26, 2000). The ITC proceeding was ultimately 
+terminated on July 20, 2000, with no action having been taken against 
+Petitioner. See 65 Fed. Reg. 45999 (July 26, 2000). - 
+
+
+4 
+
+
+Group, Inc. v. Vornado Air Circulation Systems, Inc., 
+93 F. Supp. 2d 1140 (D. Kan. 2000) (JA88-98). 
+
+
+The District Court concluded that the final judgment of 
+invalidity rendered in the Vornado I case collaterally estopped 
+Respondent from re-litigating the validity of the same alleged 
+“trade dress” that had been the subject of the earlier case: 
+
+
+[T}his Court previously entered a valid and final 
+judgment in Vornado J and the Tenth Circuit law 
+upon which that decision was based has not been 
+changed. Under principles of collateral estoppel, 
+the ruling in Vornado IJ bars Vornado from 
+re-litigating the same issue in this action. 
+Accordingly, Holmes is entitled as a matter of law 
+to judgment declaring that it has not infringed 
+Vornado’s asserted trade dress rights. 
+
+
+Id. at 1144-45 (JA98). 
+
+
+~ The District Court noted Respondent’s argument that the 
+Federal Circuit, rather than the Tenth Circuit, assertedly 
+would have appellate jurisdiction over this case based on 
+the contents of an answer that Respondent had served 
+in response to Petitioner’s complaint,’ but concluded: 
+
+
+3. In an Answer served December 30, 1999 (L87-147), 
+Respondent asserted a counterclaim against Petitioner (L98-100) 
+alleging that one of the products accused of “trade dress” infringement 
+assertedly infringed a patent owned by Respondent. Based on this 
+answer and counterclaim, the District Court noted that “it is possible 
+(although not entirely certain) that any appeal of this court’s judgment 
+will be to the Federal Circuit,” 93 F. Supp. 2d at 1143 (JA94), and 
+further noted that Petitioner had disputed Respondent’ suggestion 
+that its counterclaim ousted the Tenth Circuit of jurisdiction. Jd. at 
+1143 n.2 (JA95). 
+
+
+5 
+
+
+“This court does not need to stray into this procedural thicket 
+to decide the issue before it. Regardless of which Court of 
+Appeals would have jurisdiction, the court determines the 
+principles of collateral estoppel should be applied in this 
+case.” Jd. at 1143 n.2 (JA95). 
+
+
+The District Court viewed the legal effect of its prior 
+judgment in Vornado / as being a question of “Tenth Circuit 
+law.” Jd. at 1143-44 (JA95, 98). The District Court applied 
+the Tenth Circuit collateral estoppel standard and found that 
+“{t}]he elements of collateral estoppel are clearly satisfied in 
+this case”: 
+
+
+The trade dress now claimed by Vornado is 
+identical to that which it asserted in Vornado /, 
+Vornado I was decided on the merits; Vornado was 
+a party to the prior action; and Vornado had a full 
+and fair opportunity to litigate the issue in the prior 
+action. 
+
+
+Id. at 1142 n.1 (JA93). - 
+
+
+At oral argument before the District Court, counsel for 
+Respondent conceded (JA56) that the final judgment in 
+Vornado I remained valid and binding with respect to fan 
+and heater fan products being sold by Petitioner’s competitor, 
+Honeywell Inc. f/k/a Duracraft Corp, which had been the 
+prevailing party in Vornado /.* The District Court further 
+observed that “since Vornado /, Holmes and other companies 
+have manufactured various products in reliance upon the rule 
+
+
+4. See JAS6 (MR. GOWDEY: “I think Vornado has to live with 
+the results of the Tenth Circuit in terms of how it affected Duracraft 
+and in fact, Honeywell bought Duracraft so they get the benefit of 
+that. We cannot affect them, we have to live with that.”). 
+
+
+6 
+
+
+expressed in that case,” id. at 1144 n.3 (JA97), so that “failure 
+to apply collateral estoppel here would likely create a baffling 
+state of legal affairs insofar as manufacture of these products 
+is concerned.” /d. 
+
+
+The District Court rejected Respondent’s contention that 
+a 1999 decision of the Court of Appeals for the Federal Circuit 
+represented a “change in the law” warranting re-li’ yation of 
+whether the arcuate or “spiral” grill configuration embodied 
+in Vornado fan and heater products was eligible for protection 
+as “trade dress” under Section 43(a) of the Lanham Act, 
+15 U.S.C. § 1125(a). 93 F. Supp. 2d at 1143 (JA94-96). 
+The cited decision of the Federal Circuit did not represent 
+any “change” in substantive “trade dress” principles, even 
+within the Federal Circuit.° Equally important, the 
+
+
+5. In Midwest Indus., Inc. v. Karavan Trailers, Inc., 175 F.3d 
+1356 (Fed. Cir.), cert. denied, 528 U.S. 1019 (1999), overruled by 
+TrafFix Devices, Inc. v. Marketing Displays, Inc., 121 S. Ct. 1255 
+(2001), the Federal Circuit held that it would start applying “its own” 
+law, in place of regional Circuit law, in determining whether or to 
+what extent product configurations were protectable as “trade dress” 
+under Section 43(a) of the Lanham Act, 15 U.S.C. § 1125(a). Jd. at 
+1361, overruling Cable Elec. Prods., Inc. v. Genmark, 770 F.2d 1015, 
+1029 (Fed. Cir. 1985). The Federal Circuit then proceeded to reiterate 
+its long-standing view — which the Tenth Circuit had rejected in 
+Vornado I — that any product configuration could be protectable as 
+“trade dress” under the Lanham Act unless found to be “functional” 
+in a federal common law sense of having “such utility that its 
+protection would hinder competition.” Jd at 1361-62 (citing 
+authorities). 
+
+
+In TrafFix, this Court resolved the conflict that had existed 
+between the Midwest and Vornado / decisions, 121 S. Ct. at 1259, 
+and did so by (a) rejecting the standard of “functionality” articulated 
+by the Federal Circuit in Midwest, and (b) embracing a standard of 
+“functionality” that was and is fully consistent with both the reasoning 
+and the holding of the Tenth Circuit in Vornado J. Id. at 1261-62. 
+
+
+7 
+
+
+enforceability of a final judgment has never depended on 
+the state of the substantive law of a court or jurisdiction asked 
+to enforce the judgment: 
+
+
+The fact that the substantive law may be different 
+in the two jurisdictions does not affect the 
+application of issue preclusion. Therefore, 
+different interpretations of a statute between 
+circuit courts of appeal would not affect the 
+application of issue preclusion to a sister court’s 
+previously litigated issue. 
+
+
+18 J. Moore, Moore’s Feperar Practice § 132.03[6][a] 
+(3d ed. 2000). See, e.g., Arkla, Inc. v. United States, 37 F.3d 
+621, 626-27 (Fed. Cir. 1994), cert. denied, 514 U.S. 1035 
+(1995); Yamaha Corp. v. United States, 961 F.2d 245, 258 
+(D.C. Cir. 1992), cert. denied, 565 U.S. 1078 (1993).° 
+
+
+Thus, in the District Court’s view’, the long-standing (and 
+since resolved, see TrafFix, 121 S. Ct. 1261-62) “conflict in 
+the substantive law” between the Federal Circuit and 
+the Tenth Circuit “does not require, nor does it warrant, 
+a refusal to apply the law of collateral estoppel in this action.” 
+93 F. Supp. 2d at 1143 (JA95-96): 
+
+
+Vornado had a full and fair opportunity to litigate 
+its trade dress claim against another manufacturer, 
+
+
+6. Cf. Williams v. North Carolina, 317 U.S. 287, 294 (1942) 
+(judgment of divorce entitled to full faith and credit, notwithstanding 
+that grounds for divorce were not recognized in jurisdiction where 
+judgment was presented as defense); Fauntleroy v. Lum, 210 U.S. 
+230, 236-38 (1908) (judgment for money damages entitled to full 
+faith and credit, notwithstanding that claim would not be enforceable 
+if brought in jurisdiction where judgment sought to be enforced). 
+
+
+and that claim was ultimately decided against 
+Vornado by the Tenth Circuit. Vornado petitioned 
+the Supreme Court to review the ruling, but the 
+Court declined to do so, leaving intact this court’s 
+resulting judgment that Vornado was barred from 
+claiming trade dress rights in its grill design. The 
+Tenth Circuit law upon which that judgment was 
+based has not changed since Vornado I, and the 
+court sees nothing to substantiate Vornado’s 
+hopeful speculation that if the Tenth Circuit 
+were to revisit the issue “it would choose a 
+different path than it articulated in Vornado /.” 
+Def. Mem. at 5. 
+
+
+On March 27, 2000, the District Court entered a Final 
+Judgment under Fep. R. Civ. P. 54(b) that provided in 
+pertinent part (JA99-100): 
+
+
+Holmes is entitled as a matter of law to judgment 
+declaring that it has not infringed Vornado’s 
+asserted trade dress rights [Doc. 72, p. 1]; Plaintiff 
+Holmes’ Motion for Summary Judgment on 
+its first cause of action is hereby GRANTED 
+[Doc. 72, p. 12]; and Final Judgment is hereby 
+expressly entered in favor of Holmes and against 
+Vornado on Holmes’ first cause of action seeking 
+a declaratory judgment holding that Holmes’ sale 
+of its fan and heater products does not infringe 
+any valid or enforceable “trade dress” claimed 
+by defendant Vornado under 15 U.S.C. §§ 1051 
+et seq. [Doc. 72, p. 1]. 
+
+
+Notwithstanding that (1) Petitioner’s complaint did not 
+allege any claim arising under federal patent law, (2) the 
+
+
+9 
+
+
+District Court’s judgment did not adjudicate any claim that 
+arose under federal patent law, and (3) Respondent was 
+openly attempting to mount a collateral attack on a prior 
+judgment of the Tenth Circuit, Respondent filed a Notice of 
+Appeal directed to the Federal Circuit. The sole purported 
+basis of appellate jurisdiction in was the one noted by the 
+District Court: Respondent’s having included, in its answer 
+to Petitioner’s complaint, a counterclaim against Petitioner 
+for alleged patent infringement. | 
+
+
+According to Respondent, the service of its answer and 
+counterclaim had automatically transformed this civil action 
+into a “patent ... case,” 28 U.S.C. § 1338(a), with the 
+purported result that the Tenth Circuit was ousted of 
+jurisdiction over Petitioner’s suit by operation of 28 U.S.C. 
+§ 1295(a)(1) (L257-63). Respondent further argued that its 
+answer and counterclaim had effected a fundamental change 
+in the substantive law governing the merits of Petitioner’s 
+claims arising under both the Lanham Act and state law 
+(L168-70, L173-80).’ Respondent’s position thus was — and 
+
+
+7. Early in its history, the Federal Circuit justified taking an 
+expansive view of its jurisdiction under 28 U.S.C. § 1295(a)(1) 
+in part on the basis that it would be applying regional Circuit law 
+“in all but the substantive law fields assigned exclusively to this 
+court.” Atari, Inc. v. JS&A Group, Inc., 747 F.2d 1422, 1439 (Fed. 
+Cir. 1984) (en banc), overruled by Nobelpharma AB v. Implant 
+Innovations, Inc., 141 F.3d 1059, 1068 (Fed. Cir.), cert. denied, 525 
+U.S. 876 (1998). The Federal Circuit stated in 1984, relatively shortly 
+after the enactment of 28 U.S.C. § 1295(a)(1), that Congress’s 
+“passage” of that statute “reflect[ed] its expectation that this court 
+would not appropriate or usurp for itself a broad guiding role for the 
+district courts beyond its mandate to contribute to uniformity of the 
+substantive law of patents, plant variety, and the Little Tucker Act.” 
+
+
+Atari, 747 F.2d at 1438. The Federal Circuit further observed in 
+(Cont'd) 
+
+
+10 
+
+
+in this Court remains — that the Federal Circuit, rather than 
+the Tenth Circuit, should determine whether a prior judgment 
+of the Tenth Circuit operates to bar Respondent from 
+re-litigating the validity of a “trade dress” claim purportedly 
+grounded in Section 43(a) of the Lanham Act, simply because 
+Respondent’s answer to Petitioner’s complaint included a 
+patent law counterclaim.* 
+
+(Cont’d) 
+
+1984: “A district court judge should not be expected to look over his 
+
+
+shoulder to the law in this circuit, save as to those claims over which 
+our subject mattet jurisdiction is exclusive.” Jd. at 1439. 
+
+
+In the late 1990’s, however, the Federal Circuit abruptly reversed 
+field and held that it wov'd start fashioning “its own” substantive 
+liability rules for antitrust. “trade dress,” and other claims over which 
+it had only pendent or non-exclusive jurisdiction. E.g., In re 
+Independent Service Organizations Antitrust Litigation, 203 F.3d 
+1322, 1324-27 (Fed. Cir. 2000), cert. denied, 121 S. Ct. 1077 (2001); 
+Zenith Electronics Corp. v. Elotouch Sys., Inc., 182 F.3d 1340, 1354- 
+55 (Fed. Cir. 1999); Hunter Douglas, Inc. v. Harmonic Designs, Inc., 
+153 F.3d 1318, 1335-38 (Fed. Cir. 1998), cert. denied, 525 U.S. 1143 
+(1999), overruled by Midwest, 175 F.3d at 1359; Nobelpharma, 
+141 F.3d at 1439. The Federal Circuit justified its changed position 
+on the basis that it was, in its words, “the tribunal having sole 
+appellate responsibility for the development of patent law,” 175 F.3d 
+at 1360, which “responsibility” was further said to include 
+“decid[ing] what patent law permits and prohibits” when asserted as 
+a defense to a claim arising under non-patent law. /d. at 1360-61. 
+
+
+8. Although not germane to the jurisdictional questions before 
+this Court, it may be noted that the Respondent never has pursued its 
+counterclaim for alleged patent infringement. That counterclaim was 
+effectively withdrawn, and all proceedings relating to the 
+counterclaim were indefinitely stayed, as part of a conditional Order 
+of dismissal entered June 12, 2000, pursuant to Fep. R. Civ. P. 41(a)(2) 
+(JA101-102). In the event that the summary judgment in favor of 
+Petitioner is affirmed on appeal, the Respondent’s counterclaim will 
+be finally dismissed with prejudice (JA102). 
+
+
+11 
+
+
+As it had done in the District Court (JA42-43, JA94), 
+Petitioner filed a brief with the Federal Circuit (L203-45) 
+contesting that Court’s appellate jurisdiction and urging that 
+Respondent’s appeal be dismissed for lack of jurisdiction or 
+transferred to the Tenth Circuit pursuant to 28 U.S.C. § 1631 
+(L216, 228-34). In the alternative, Petitioner urged that the 
+District Court’s grant of summary judgment be affirmed 
+(L234-44). 
+
+
+On June 5, 2001, the Court of Appeals for the Federal 
+Circuit issued a two-page Order that simply stated 
+(JA33-34): 
+
+
+(1) The March 27, 2000 judgment of the 
+United States District Court for the District of 
+Kansas is vacated. 
+
+
+(2) The case is remanded to the United States 
+District Court for the District of Kansas for further 
+proceedings in light of the decision of the Supreme 
+Court of the United States in 7rafFix Devices v. 
+Marketing Displays, Inc., 121 S. Ct. 1255 (2001). 
+The district court is directed to consider whether 
+the “change in the law” exception to collateral 
+estoppel applies in view of the 7rafFix decision, 
+and if appropriate, then to consider the case on 
+the merits. 
+
+
+(3) Each side shall bear its own costs. 
+
+
+12 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A “civil action” is a legal proceeding “commenced by 
+filing a complaint with the court.” Fep R. Civ. P. 3. To fall 
+with the exclusive appellate jurisdiction of the Federal Circuit 
+under 28 U.S.C. § 1295(a)(1), a “civil action” must be a 
+_ “patent ... case,” that is, a “civil action arising under any 
+Act of Congress relating to patents, [or] plant variety 
+protection.” 28 U.S.C. § 1338(a). See Christianson v. Colt 
+Indus. Operating Corp, 486 U.S. 800, 807-810, 813-14 
+(1988). 
+
+
+Under Christianson, whether a “civil action” is one ~ 
+
+
+“arising under” federal patent law, and is thus a “patent case” 
+subject to exclusive Federal Circuit jurisdiction under 
+28 U.S.C. § 1295(a)(1), depends on whether “a well-pleaded 
+complaint establishes either that federal patent law creates 
+the cause of action or that the plaintiff’s right to relief 
+necessarily depends on resolution of a substantial question 
+of federal patent law, in that patent law is a necessary element 
+of one of the well-pleaded claims.” Jd. at 809. 
+
+
+The “well-pleaded complaint rule” is a “powerful 
+doctrine,” Franchise Tax Board v. Construction Laborers 
+Trust, 463 U.S. 1, 9 (1983), which has long provided that 
+“the plaintiff is absolute master of what jurisdiction he will 
+appeal to.” Healy v. Sea Gull Specialty Co, 237 U.S. 479, 
+480 (1915) (Holmes, J.), quoted in Merrell Dow Pharm. Inc. 
+v. Thompson, 478 U.S. 804, 809 n.6 (1986). See also 
+Caterpillar Inc. v. Williams, 482 U.S. 386, 392 (1987); 
+Pan American Petroleum Corp. v. Superior Court, 366 U.S. 
+656, 662 (1961); The Fair v. Kohler Die & Specialty Co., 
+228 U.S. 22, 25 (1913) (Holmes, J.). 
+
+
+13 
+
+
+The cases are legion holding that a counterclaim in a 
+defendant’s answer does not, and cannot, transform a “civil 
+action” into one “arising under” federal law for jurisdictional 
+purposes, even when a defendant’s counterclaim expressly 
+invokes federal law.’ Were the rule otherwise, “the plaintiff 
+would be master of nothing.” Caterpillar, 482 U.S. at 399. 
+
+
+The “well-pleaded complaint rule” often results in 
+regional Circuits or state courts deciding questions of federal 
+patent law. E.g., Christianson, 486 U.S. at 819 (regional 
+Circuit had jurisdiction to review antitrust judgment based 
+on alleged procurement of invalid patents); Lear, Inc. v. 
+Adkins, 395 U.S. 653 (1969) (state court had jurisdiction to 
+determine validity of patent in context of action for breach 
+of a license agreement); American Well Works Co. v. Layne 
+& Bowler Co., 241 U.S. 257 (1916) (state court had 
+jurisdiction to hear action for slander of title arising from 
+allegations of patent infringement); Pratt v. Paris Gas Light 
+& Coke Co., 168 U.S. 255 (1897) (state court had jurisdiction 
+to hear action for breach of undertaking to defend against 
+claim of alleged patent infringement). 
+
+
+The exclusive jurisdiction of the Federal Circuit under 
+28 U.S.C. § 1295(a)(1) thus excludes, by design, a substantial 
+number of cases in which questions and issues of federal 
+
+
+9. See, e.g., Saturday Evening Post Co. v. Rumbleseat Press, 
+Inc., 816 F.2d 1191, 1195 (7th Cir. 1987) (Posner, J.) (“That federal 
+jurisdiction depends on the complaint rather than on the answer, 
+counterclaim, or other subsequent pleadings is an aspect of the ‘well- 
+pleaded complaint’ rule. . . .”); Cook v. Georgetown Steel Corp., 770 
+F.2d 1272, 1275 (4th Cir. 1985) (no “arising under” jurisdiction when 
+only federal issue raised by counterclaim): Takeda v. Northwestern 
+Nat'l Life Ins. Co., 765 F.2d 815, 822 (9th Cir. 1985) (federal law 
+counterclaim did not support “arising under” jurisdiction as basis 
+for removal). ; 
+
+
+14 
+
+
+patent law are raised, as the Federal Circuit has itself 
+acknowledged on occasion.'® Preserving regional Circuit 
+jurisdiction over antitrust, copyright, “trade dress,” 
+defamation, and other cases such as the present one, in which 
+the plaintiff’s complaint does not depend on federal patent 
+law, is fully consistent with the careful balance that Congress 
+struck in (1) creating exclusive Federal Circuit jurisdiction 
+in 28 U.S.C. § 1295(a)(1), but (2) limiting that jurisdiction 
+to true “patent cases,” 28 U.S.C. § 1338(a), i.e., ones “arising 
+under” federal patent law within the meaning of this Court’s 
+“arising under’ jurisprudence.” Christianson, 486 U.S. at 
+808 n.2. 
+
+
+The instant case clearly is not a “patent case,” i.e., 
+a “civil action arising under any Act of Congress relating to 
+patents” within the meaning of 28 U.S.C. §§ 1338(a) and 
+1295(a)(1). It therefore was clear error for the Federal Circuit 
+to have taken appellate jurisdiction and vacated the District 
+Court’s derision in this case. As was done in Christianson, 
+the decision of the Federal Circuit should be reversed, and 
+the cause remanded to the Tenth Circuit for further 
+proceedings. Alternatively, the Court should affirm the 
+
+
+summary judgment the District Court entered in favor of 
+‘ Petitioner. 
+
+
+\ 
+
+
+10. Cf Jim Arnold Corp. v. Hydrotech Sys., Inc., 109 F.3d 1567, 
+1571-78 (Fed. Cir.), cert. denied, 522 U.S. 933 (1997) (action brought 
+by patent assignor was not one “arising under” federal patent law; 
+judgment vacated for lack of jurisdiction). 
+
+
+15 
+
+
+ARGUMENT 
+
+
+I. FEDERAL CIRCUIT JURISDICTION UNDER 
+
+
+28 U.S.C. § 1295(a)(1) IS LIMITED TO CASES 
+“ARISING UNDER” FEDERAL PATENT LAW. 
+
+
+28 U.S.C. § 1295(a)(1) provides that Federal Circuit shall 
+have exclusive jurisdiction (JA104): 
+
+
+(1) of an appeal from a final decision of a district 
+court of the United States . . . , if the jurisdiction 
+of that court was based, in whole or in part, on 
+section 1338 of this title, except that a case 
+involving a claim arising under any Act of 
+Congress relating to copyrights, exclusive rights 
+in mask works, or trademarks and no other claims 
+under section 1338(a) shall be governed by 
+sections 1291, 1292, and 1294 of this title. . . . 
+
+
+28 U.S.C. § 1338(a), in turn, provides (JA105): 
+
+
+The district courts shall have criginal jurisdiction 
+of any civil action arising under aay Act of 
+Congress relating to patents, plant variety 
+protection, copyrights and trademarks. Such 
+jurisdiction shall be exclusive of the courts of the 
+states in patent, plant variety protection and 
+
+
+copyright cases. 
+
+
+In Christianson v. Colt Indus. Operating Corp., 486 U.S. 
+800 (1988), this Court held that the “arising under” language 
+of 28 U.S.C. § 1338(a) both defined and limited the scope of 
+the Federal Circuit’s appellate jurisdiction under 28 U.S.C. 
+§ 1295(a). In particular, Christianson heid that: 
+
+
+16 
+
+
+(a) the “arising under” jurisprudence developed 
+under 28 U.S.C. § 1331 applies equally to 
+28 U.S.C. § 1338(a), 486 U.S. at 807-809, 813- 
+14, notwithstanding that “in this case our 
+interpretation of § 1338(a)’s ‘arising under’ 
+language will merely determine which of two 
+federal appellate courts will decide the appeal,” 
+id. at 808 n.2; 
+
+
+(b) the “well-pleaded complaint rule” governs 
+whether a civil action is one “arising under” 
+federal patent law, or not, id. at 808-09, 813-14; 
+and 
+
+
+(c) the Federal Circuit lacked jurisdiction over 
+the Christianson case, because the plaintiff’s 
+complaint in that case did not establish “either 
+that federal patent law create[d] the cause of action 
+or that the plaintiff’s right to relief necessarily 
+depends on resolution of a substantial question 
+of federal patent law, in that patent law is a 
+necessary element of one of the well-pleaded 
+claims,” id. at 809, 810-13. 
+
+
+In Christianson, this Court vacated a judgment of the 
+Federal Circuit and remanded with instructions to transfer 
+the case to the Court of Appeals for the Seventh Circuit, id. 
+at 819, even though the District Court in Christianson had 
+“invalidated nine of Colt’s patents,” id. at 806, and even 
+though the plaintiffs in Christianson had prevailed at trial 
+on claims alleging that the defendant had wrongfully procured 
+United States patents in alleged violation of the “best mode” 
+requirement of 35 U.S.C. § 112. See Christianson v. Colt 
+Indus. Operating Corp., 609 F. Supp. 330 (N.D. Ill. 1985). 
+
+
+17 
+
+
+Vacatur of the Federal Circuit’s judgment in Christianson 
+was required, this Court held, because “the district court’s 
+jurisdiction is determined by reference to the well-pleaded 
+complaint, not the well-tried case,” 486 U.S. at 814, 
+and neither of the two causes of action pleaded in the 
+Christianson plaintiffs’ complaint were ones “arising under” 
+federal patent law."’ _ 
+
+
+In support of its holding that “the well-pleaded 
+complaint, not the well-tried case, [is] the referent for 
+the Federal Circuit’s jurisdiction,” Christianson, 486 U.S. 
+at 814, this Court cited “[t]he legislative history of the Federal 
+Circuit’s jurisdictional provisions” as stating that “cases fall 
+within the Federal Circuit’s patent jurisdiction ‘in the same 
+sense that cases are said to ‘arise under’ federal law 
+for purposes of federal question jurisdiction.”” Jd. (quoting 
+H.R. Rep. No. 97-312 at 41 (1981)). The Court accordingly 
+had “no more authority to read § 1295(a)(1) as granting 
+the Federal Circuit jurisdiction over an appeal where the 
+
+
+11. The complaint in Christianson set forth two causes of action, 
+for federal antitrust liability under 15 U.S.C. § 15 and for tortious 
+interference with business relationships under state law. Both causes 
+of action were based, in part, on allegations that the defendant had 
+published false statements accusing the plaintiffs of misappropriating 
+trade secrets relating to M16 rifle parts that were, or had been, the 
+subject of issued patents. 486 U.S. at 804-06. The plaintiffs alleged 
+that the defendant’s liability was established, in part, by the 
+defendant’s having allegedly procured patents in violation of the 
+“best mode” requirement of 35 U.S.C. § 112; for if the defendant 
+had complied with that statute, the plaintiff's theory went, the 
+defendant could not have retained any trade secrets in the claimed 
+subject matter disclosed in the patents. The District Court had ruled 
+in favor of the petitioner in Christianson, “essentially relying on the 
+[35 U.S.C.] § 112 theory articulated above,” id. at 806, and had 
+“invalidated nine of Colt’s patents.” Jd. ; 
+
+
+18 
+
+
+well-pleaded complaint does not depend on patent law, than 
+to read § 1338(a) as granting a district court jurisdiction over 
+such a complaint.” 486 U.S. at 813-14. 
+
+
+The jurisdictional framework controlling the present case 
+is the same as it was in Christianson, id. at 807: 
+
+
+As relevant here, 28 U.S.C. § 1295(a)(1) grants 
+the Court of Appeals for the Federal Circuit 
+exclusive jurisdiction over “an appeal from a 
+final decision of a district court of the United 
+States ... if the jurisdiction of that court was 
+based, in whole or in part, on [28 U.S.C.] section 
+1338... .” Section 1338(a), in turn, provides in 
+relevant part that “(t]he district courts shall have 
+original jurisdiction of any civil action arising 
+under any Act of Congress relating to patents. . . .” 
+Thus, the jurisdictional issue before us turns on 
+whether this is a case “arising under” a federal 
+patent statute, for if it is then the jurisdiction of 
+the District Court was based at least “in part” on 
+§ 1338(a). 
+
+
+“The ‘well-pleaded complaint rule’ is the basic principle 
+marking the boundaries of the federal question jurisdiction 
+of the federal district courts.” Metropolitan Life Ins. Co. v. 
+Taylor, 481 U.S. 58, 63 (1987). “Under the well-pleaded 
+complaint rule, as appropriately adapted to § 1338(a), 
+whether a claim ‘arises under’ patent law must be determined 
+from what necessarily appears in the plaintiff's statement of 
+his own claim in the bill or declaration. . . .” Christianson, 
+486 U.S. at 809 (quoting Franchise Tax Board v. Construction 
+Laborers Vacation Trust, 463 U.S. 1, 10 (1983) (quoting 
+Taylor v. Anderson, 234 U.S. 74, 15-76 (1914))). 
+
+
+19 
+
+
+The “well-pleaded complaint rule” embodies a number 
+of long-established principles of federal court jurisdiction, 
+one of which is the “plaintiff’s traditional prerogative of 
+forum selection.” 14B C. Wricut, A. MiLter & E. Cooper, 
+FEDERAL PRACTICE AND Procepure § 3722, at 453 (3d 1998). 
+Time and time again, this Court has held that “the plaintiff 
+is absolute master of what jurisdiction he will appeal to,” 
+Healy v. Sea Gull Specialty Co., 237 U.S. 479, 480 (1915) 
+(Holmes, J.), such that “(t]he party who brings a suit is master 
+to decide what law he will rely upon and therefore does 
+determine whether he will bring a suit arising under the patent 
+or other law of the United States by his declaration or bill. 
+That question cannot depend upon the answer. . . .” The Fair 
+v. Kohler Die & Specialty Co., 228 U.S. 22, 25 (1913) 
+(Holmes, J.) (emphasis added).'? When a plaintiff chooses 
+not to invoke an available basis of federal court jurisdiction, 
+the plaintiff's choice is controlling: “Jurisdiction may not 
+be sustained on a theory that the plaintiff has not advanced.” 
+Merrell Dow Pharm. Inc. v. Thompson, 478 U.S. 804, 809 
+n.6 (1986). 
+
+
+“Thus, a case raising a federal patent-law defense does 
+not, for that reason alone, ‘arise under’ patent law.” 
+
+
+12. See Caterpillar Inc. v. Williams, 482 U.S. 386, 392 (1987) 
+(“the rule makes the plaintiff the master of the claim”); Pan American 
+Petroleum Corp. v. Superior Court, 366 U.S. 656, 662 (1961) 
+(“questions of exclusive federal jurisdiction ... depend on the 
+particular claims a suitor brings in a state court — how he casts his 
+action”); Great Northern Ry. Co. v. Alexander, 246 U.S. 276, 281-82 
+(1918) (jurisdictional status of civil action cannot be affected by 
+
+
+“subsequent pleadings by the defendant”). 
+
+
+13. The Petitioner’s complaint in this case does not invoke 
+jurisdiction under 28 U.S.C. § 1338(a) (L2), although it could have 
+done so. 
+
+
+\ 
+
+
+20 
+
+
+Christianson, 486 U.S. at 809. This principle has been applied 
+in a wide spectrum of contexts. See, e.g., Rivet v. Regions 
+Bank, 522 U.S. 470, 475 (1998); Caterpillar Inc. v. Williams, 
+482 U.S. 386, 399 (1987); Pan American Petroleum Corp. 
+v. Superior Court, 366 U.S. 656, 663 (1961); Louisville & 
+Nashville R. Co. v. Mottley, 211 U.S. 149, 152 (1908). 
+The cases are, likewise, legion that hold a counterclaim in a 
+defendant’s answer" is irrelevant to whether a civil action is 
+
+
+one “arising under” federal law for jurisdictional purposes.'*_ 
+
+
+14. Fep. R. Civ. P. 3 provides that “[a] civil action is commenced 
+by filing a complaint with the court.” Fep. R. Civ. P. 13 provides 
+that a “counterclaim” shall or may be “state[d]” as part of a “pleading” 
+permitted by the rules, including an answer. Thus, under the structure 
+of the Federal Rules of Civil Procedure, a “counterclaim” by 
+ae forms part of a “pleading” in an already-commenced “civil 
+action. 
+
+
+15. E.g., Metro Ford Truck Sales, Inc. v. Ford Motor Co., 
+
+145 F.3d 320, 326-27 (Sth Cir. 1998); Texas v. Walker, 142 F.3d 813, 
+816 n.2 (Sth Cir. 1998); Shannon v. Shannon, 965 F.2d 542, 545-46 
+(7th Cir. 1992); Saturday Evening Post Co. v. Rumbleseat Press, Inc., 
+816 F.2d 1191, 1195 (7th Cir. 1987); In re Adams, 809 F.2d 1187, 
+1188 n.1 (Sth Cir. 1987); FDIC v. Elefant, 790 F.2d 661, 667 (7th 
+Cir. 1986); Cook v. Georgetown Steel Corp., 770 F.2d 1272, 1275 
+(4th Cir. 1985); Takeda v. Northwestern Mut. Life Ins. Co., 765 F.2d 
+815, 822 (9th Cir. 1985); Marshall v. Gibson's Prods., Inc., 584 F.2d 
+784, 787 (SthCir. 1978); Rath Packing Co. v. Becker, 530 F.2d 1295, 
+1303 (9th Cir. 1975), aff'd sub nom. Jones v. Ruth Packing Co., 
+430 U.S. 519 (1977); Duckson, Carlson, Bassinger, LLC v. Lake Bank, 
+N.A., 139 F. Supp. 2d 1117, 1118 (D. Minn. 2001); Bell Atlantic 
+Mobile, Inc. v. Zoning Board of Butler Township, 138 F. Supp. 2d 
+668, 676 (W.D. Pa. 2001); Archer v. Arms Tech., Inc., 72 F. Supp. 2d 
+_ 34, 787 (E.D. Mich. 1999); Wallace v. Weidenbeck, 985 F. Supp. 
+288, 291 (N.D.N.Y. 1998); Civil City of South Bend v. Consolidated 
+Rail Corp., 880 F. Supp. 595, 598-99 (N.D. Ind. 1995); Price v. Alfa 
+; (Cont'd) 
+
+
+21 
+
+
+As a practical litigation matter, a counterclaim is part of a 
+defendant’s defense to a plaintiff’s suit,'® and the federal 
+courts have consistently held that “defenses” and 
+“counterclaims” are both and equally extraneous to the 
+existence of “arising under” jurisdiction (see note 15 supra). 
+“There has never been a suggestion that a defendant could, 
+by asserting an artful counterclaim, render a case removable 
+in violation of the well-pleaded complaint rule.” Texas v. 
+Walker, 142 F.3d 813, 816 n.2 (Sth Cir. 1998). 
+
+
+In Caterpillar Inc. v. Williams, 482 U.S. 386 (1987), 
+this Court reiterated that the “paramount policies embodied 
+in the well-pleaded complaint rule” include the principles 
+that (1) “the plaintiff is the master of the complaint” and 
+(2) “a federal question must appear on the face of the 
+
+
+-complaint.” Jd. at 398-99. These “bright line” principles are 
+
+
+basic to federal court plaintiffs’ long-established nghts to 
+decide both (1) “what jurisdiction [they] will appeal to”, 
+
+
+(Cont'd) 
+
+Mut. Ins. Co. 877 F. Supp. 597, 600 (M.D. Ala. 1995); Reed v. Cohen, 
+876 F. Supp. 25, 28 (E.D.N.Y. 1995); Stone v. Williams, 792 F. Supp. 
+749, 753 (M.D. Ala. 1992); Commercial Sales Network v. Sadler- 
+Cisar, Inc., 755 F. Supp. 756, 759 (N.D. Ohio 1991); Boone v. 
+DuBose, 718 F. Supp. 479, 486 (M.D. La. 1988); Jdent Corp. 
+of America v. Wendt, 638 F. Supp. 116, 117 (E.D. Mo. 1987); 
+Video Connection of America, Inc. v. Priority Concepts, Inc., 625 
+F. Supp. 1549, 1551 n.4 (S.D.N.Y. 1986). In addition to the reported 
+decisions cited above and in the text, numerous unreported decisions 
+(available in on-line search services) are to the same effeci, holding 
+that a defendant’s counterclaim cannot render a civil action one 
+“arising under” federal law. 
+
+
+16. “Part of the philosophy of every succes ful trial lawyer is “ 
+that ‘the best defense is a good offense.’” McDonald v. Credithrift of 
+America, Inc., 661 F.2d 69, 70 (Sth Cir. 1981) (Clark, J. dissenting). 
+
+{ 
+
+
+22 
+
+
+Healy, 237 U.S. at 480; and (2) “what law [they] will rely 
+upon”, The Fair, 228 U.S. at 28. If a defendant, by serving 
+an answer containing a counterclaim, could defeat a 
+plaintiff’s choice of law or forum, then, in the words of this 
+Court, “the plaintiff would be master of nothing.” Caterpillar, 
+482 U.S. at 399."’ It would also destroy the clarity and ease 
+of administration of long-standing jurisdictional principles. 
+
+
+The controlling significance of a plaintiff’s well-pleaded 
+complaint as the determinant of federal court jurisdiction, 
+both original and appellate, is also reflected in the principle 
+that a case “cannot be converted into a removable one by 
+evidence of the defendant or by an order of the court upon 
+any issue tried upon the merits, but that such conversion can 
+only be accomplished by the voluntary amendment of his 
+pleadings by the plaintiff. ...” Great Northern Ry. Co. v. 
+Alexander, 246 U.S. 276, 281 (1918), cited in Caterpillar, 
+482 U.S. at 392 n.7. In Great Northern, this Court held that 
+a state court retained jurisdiction to decide a case that was 
+non-removable based on the allegations of the plaintiff’s 
+well-pleaded complaint, even though the proofs at trial later 
+established that a basis for federal court jurisdiction had 
+existed all along: 
+
+} 
+
+
+[T}he plaintiff may by the allegations of his 
+complaint determine the status with respect to 
+removability of a case . . . when it is commenced, 
+
+
+17. Petitioner’s decision to commence this case in the District 
+Court for the District of Kansas was a deliberate choice, intended to 
+invoke both the jurisdiction and the law of the Court of Appeals for 
+the Tenth Circuit, including the final judgment of the Tenth Circuit 
+Se ny eo mated Gist the Renpentens ty Reaiiguastered 
+in Wichita, ich was i 
+—— on also the venue where it commenced 
+
+
+23 
+
+
+and . . . this power to determine the removability 
+of his case continues with the plaintiff throughout 
+the litigation, so that whether such a case 
+non-removable when commenced shall afterwards 
+become removable depends not upon what the 
+defendant may allege or prove or what the court 
+may, after hearing upon the merits, in vitum, order, 
+but solely upon the form which the plaintiff by 
+his voluntary action shall give to the pleadings in 
+the case as it progresses towards a conclusion. 
+
+
+246 U.S. at 282. 
+
+
+Il. THE FEDERAL CIRCUIT ERRED IN 
+DETERMINING THAT THIS CIVIL ACTION IS A 
+“PATENT CASE” FOR PURPOSES OF 28 U.S.C. 
+
+
+§§ 1338(a) AND 1295(a)(1). 
+
+
+It is undisputed that the Petitioner’s complaint in this 
+action (L1-86) does not plead any claim that “arises under” 
+federal patent law within the meaning of 28 U.S.C. § 1338(a), 
+as construed by this Court in Christianson. Yet the Federal 
+Circuit, over Petitioner’s objection (L216, L228-34), took 
+jurisdiction under 28 U.S.C. § 1295(a)(1) and summarily 
+vacated a final judgment rendered in Petitioner’s favor on a 
+claim arising under the Lanham Act. The Federal Circuit 
+apparently accepted, without comment (JA33-34), the 
+Respondent’s argument (L257-63) that its answer and 
+counterclaim had ousted the Tenth Circuit of jurisdiction over 
+Petitioner’s suit. 
+
+
+The decision of the Federal Circuit in this case is 
+antithetical to the “well-pleaded complaint rule” as 
+articulated in Christianson and innumerable other decisions 
+
+
+24 
+
+
+of this Court. If the Federal Circuit’s decision is allowed to 
+stand, plaintiffs who commence civil actions in federal court 
+will be anything but the “absolute master of what jurisdiction 
+[they] will appeal to.” Healy, 237 U.S. at 480, quoted in 
+Merrell Dow, 478 U.S. at 809 n.6 (1986). In reality, as this 
+case demonstrates, the Federal Circuit rule is that defendants 
+purportedly control — and can unilaterally change — both 
+the applicable law'* and the appellate court that will 
+determine any and every type of civil case — antitrust, 
+contract, copyright, trademark, trade secret, defamation, false 
+advertising, business tort, diversity — in which a defendant’s 
+answer might include a patent counterclaim of any nature, 
+and no matter how marginal it might be. 
+
+
+In DSC Communications Corp. v. Pulse 
+Communications, Inc., 170 F.3d 1354 (Fed. Cir.), cert. 
+denied, 528 U.S. 923 (1999), the Federal Circuit held that a 
+
+
+18. As noted above, the Federal Circuit has recently overruled 
+a number of its own decisions and held that it would start applying 
+“its own” law in determining various types of non-patent claims over 
+which it has only pendent or non-exclusive jurisdiction. The Federal 
+Circuit’s announcement in Midwest, supra, that it no longer 
+considered itself bound by regional Circuit law on product 
+configuration “trade dress” questions, was admittedly what prompted 
+this Respondent to attempt to mount a collateral attack on the final 
+judgment in Vornado I. 
+
+
+The Federal Circuit’s recently changed approach to choice-of- 
+law unquestionably — if not avowedly — gives rise to “forum shopping 
+opportunities between the Federal Circuit and the regional courts of 
+appeals on [non-patent] claims.” Atari, 747 F.2d at 1437 (quoting 
+S. Rep. No. 97-275 at 19-20 (1981)). Cf Van Dusen v. Barrack,.376 
+U.S. 612, 639 (1964) (when venue is transferred under 28 U.S.C. 
+§ 1404(a), transferee court must apply law that would have been 
+applied if there had been no transfer of venue). 
+
+
+25 
+
+
+defendant’s assertion of a permissive counterclaim for alleged 
+patent infringement was sufficient to bring a case within the 
+scope of the Federal Circuit’s exclusive jurisdiction under 
+28 U.S.C. § 1295(a)(1), regardless of whether a plaintiff’s 
+well-pleaded complaint alleges any claim “arising under” 
+federal patent law. Thus, according to the Federal Circuit, 
+a defendant can readily evade regional Circuit jurisdiction 
+by asserting any sort of patent counterclaim against a plaintiff, 
+including one that does not arise out of the same transactions 
+
+
+| or events that form the basis of the plaintiff’s suit. 
+
+
+The Federal Circuit’s interpretation of 28 U.S.C. 
+§ 1295(a)(1) purports to divest regional Circuits of 
+jurisdiction to determine the merits of broad categories of 
+civil actions commenced under federal or state laws having 
+nothing to do with patents, their interpretation, infringement, 
+or validity. Although “[i]t is possible to conceive of a rational 
+jurisdictional system in which the answer as well as the 
+complaint would be consulted before a determination is made 
+whether the case ‘urose under’ federal law,” such an approach 
+to “arising under” jurisdiction has simply never been adopted 
+by Congress or this Court, Franchise Tax Board v. 
+Construction Laborers Vacation Trust, 463 U.S. 1, 10 n.9 
+(1983), and was not adopted by Congress when it enacted 
+28 U.S.C. § 1295(a)(1). See Christianson, 486 U.S. at 
+813-14. 
+
+
+The Federal Circuit’s aberrant interpretation of the 
+“well-pleaded complaint rule” traces its decision in Aerojet- 
+General Corp. v. Machine Tool Works, Oerlikon-Buehrle Ltd., 
+895 F.2d 736 (Fed. Cir. 1990) (en banc). In Aerojet, 
+the Federal Circuit took up the question whether 28 U.S.C. 
+§ 1295(a)(1) extended to a case in which “the complaint was 
+not based on § 1338(a) but there is a counterclaim over which 
+
+
+26 
+
+
+the district court would have § 1338(a) jurisdiction if the 
+counterclaim had been a complaint.” Jd. at 738-39. 
+In answering this question in the affirmative, the Federal 
+Circuit held that the “well-pleaded complaint rule” was 
+“merely the name of the rule, not a statement of a principle 
+of law,” id. at 743, with the purported result that a defendant’s 
+answer containing a counterclaim could transform the basis 
+of a District Court’s jurisdiction and cut off regional Circuit 
+jurisdiction over a plaintiff’s suit: 
+
+
+It wouid seem at best incongruous to hold that we 
+have appellate jurisdiction when a well-pleaded 
+patent infringement claim is the basis of a pleading 
+labeled “complaint” but not when the identical 
+well-pleaded claim is the basis of pleading labeled 
+“counterclaim”. 
+
+
+Id. at 742. 
+
+
+But contrary to the Federal Circuit’s view, there is 
+nothing whatever “incongruous” about the “plaintiff’s 
+traditional prerogative of forum selection —. the 
+well-established principle that the plaintiff is the master of 
+_ the complaint.” 14B C. Wricut, A. Miter & E. Cooper, 
+FEDERAL PRACTICE AND PROCEDURE § 3722, at 453 (3d ed. 
+1998) (citing authorities).'? In Christianson, this Court 
+
+
+19. As noted above, the “well-pleaded complaint rule” often 
+results in state courts hearing federal law counterclaims 
+notwithstanding the federal courts’ presumed superior familiarity with 
+federal law questions. In all such cases involving a jurisdictionally 
+sufficient counterclaim, it could be said, as the Federal Circuit did in 
+Aerojet, that a defendant’s counterclaim, “had it been filed as a 
+complaint, would fully comply with the well-pleaded complaint rule.” 
+
+(Cont'd) 
+
+
+27 
+
+
+expressly held the Federal Circuit’s jurisdiction excluded cases 
+“whe-e the well-pleaded complaint does not depend on patent 
+law.” Christianson, 486 U.S. at 814 (emphasis added). 
+The Féderal Circuit has simply flouted Christianson’ clear 
+hoiding that the “well-pleaded complaint rule” applies with 
+full force to 28 U.S.C. §§ 1338(a) and 1295(a)(1), and entitles 
+plaintiffs to regional Circuit review when, as in Christianson 
+and in the present case, a plaintiff’s well-pleaded complaint does 
+not state any claim “arising under” federal patent law. 
+
+
+Aside from a suggestion that it would be “incongruous” 
+for regional Circuits to hear appeals in antitrust, copyright, 
+trademark, trade secret, or other non-patent cases in which a 
+defendant’s answer included a patent law counterclaim, the 
+Federal Circuit justified its decision to take exclusive 
+jurisdiction over all such cases on the ground that, in its view, 
+“the basic purpose” of the “well-pleaded complaint rule” was 
+merely to avoid “federal-state conflicts,” Aerojet, 895 F.2d 
+at 743-44 (quoting Franchise Tax, 463 U.S. at 10). From 
+this premise, the Federal Circuit reasoned: 
+
+
+No such conflicts are possible here, where we deal 
+only with the direction of an appeal in a case 
+already properly in the federal court system. 
+Similarly, the plaintiff’s right to choose a federal 
+trial forum has already been fully exercised. 
+
+
+Id. at 744 (emphasis added). 
+
+
+(Cont’d) 
+
+895 F.2d at 742. But outside the Federal Circuit, the federal courts 
+have consistently held that a defendant’s counterclaim does not 
+change the status of a civil action as being one “arising under,” 
+or not “arising under,” federal law for jurisdictional purposes. 
+Cf. Shamrock Oil Corp. v. Sheets, 313 U.S. 100, 104 (1941) 
+(counterclaim falling within federal court original jurisdiction did 
+not entitle plaintiff to remove case to federal court). 
+
+
+28 
+
+
+The above-quoted analysis was and is fundamentally at 
+odds with Christianson. As noted above, this Court in 
+Christianson specifically considered, and rejected, a 
+suggestion that “our ‘arising under’ jurisprudence might. . . 
+be inapposite” to the scope of the Federal Circuit’s 
+jurisdiction under 28 U.S.C. §§ 1338(a) and 1295(a)(1), for 
+in the latter context, “our interpretation . . . will merely 
+determine which of two federal appellate courts will hear 
+the appeal.” Christianson, 486 U.S. at 808 n.2. The plaintiffs 
+
+
+in Christianson were held entitled to regional Circuit review © 
+
+
+of a judgment finding liability and awarding injunctive and 
+damages relief under federal antitrust and state tort law, 
+notwithstanding that the District Court in Christianson had 
+invalidated nine (9) issued patents and had construed 
+paragraph (2) of 35 U.S.C. § 112 as applied to the defendant’s 
+challenged actions. Jd. at 807-14, 819. There was no “federal- 
+state conflict” in Christianson, but the “well-pleaded 
+complaint rule” was nevertheless held fully applicable and 
+a cause for vacating a judgment of the Federal 
+ircuit. 
+
+
+Equally contrary to this Court’s precedents was the 
+Federal Circuit’s suggestion that the “well-pleaded complaint 
+rule” confers on plaintiffs merely a right to choose a “federal 
+trial forum.” Aerojet, 895 F.2d at 744 (emphasis added). 
+The Federal Circuit did not cite, let alone distinguish, this 
+Court’s precedents holding that a plaintiff who files suit in 
+federal court is “master” to decide both (1) “what jurisdiction 
+he will appeal to””° and (2) “what law he will rely upon.”?' 
+
+
+4 Merrell Dow, 478 U.S. at 809 n.6 (quoting Healy, 237 U.S. 
+at " : , 
+
+
+21. Merrell Dow, 478 U.S. at 809 n.6 (quoting The Fair, 228 
+U.S. at 25). 
+
+
+29 
+
+
+Far from being “fully exercised,” id., these long-established 
+rights of federal court plaintiffs are effectively destroyed by 
+the jurisdictional rule applied by the Federal Circuit in this 
+case. 
+
+
+In further support of its conclusion that the “well-pleaded 
+complaint rule” should be construed, instead, as a “well- 
+pleaded complaint or well-pleaded answer and counterclaim 
+rule,” the Federal Circuit cited “Congress” goal of enhancing 
+predictability and certainty of the patent laws.” Jd. at 745. 
+But as the Federal Circuit has itself observed on occasion: 
+“Congress was not concerned that an occasional patent law 
+decision of a regional circuit court, or of a state court, would 
+defeat its goal of increased uniformity in the national law of 
+patents.” Speedco Inc. v. Estes, 853 F.2d 909, 914 (Fed. Cir. 
+1988) (quoting Atari, Inc. v. JS&A Group, 747 F.2d 1422, 
+1432 (Fed. Cir. 1984) (en banc)). 
+
+
+On the contrary, by circumscribing the Federal Circuit’s 
+appellate jurisdiction to cases “arising under” federal patent 
+law, as defined by the “well-pleaded complaint rule,” 
+Congress expressly provided that the goal of “uniformity” 
+in patent law jurisprudence would have to accommodate, and 
+be balanced against, traditional principles defining litigants’ 
+rights in federal court. A marginal and theoretical threat to 
+the “uniformity” of federal patent jurisprudence surely is not 
+so weighty an objective as to warrant jettisoning of the “well- 
+pleaded complaint rule” and thereby potentially diverting to 
+the Federal Circuit every conceivable type of case in which 
+a defendant might assert a patent law counterclaim, in 
+derogation of the appellate jurisdiction of the regional 
+Circuits and the uniformity of jurisprudence outside the 
+Federal Circuit. 
+
+
+30 
+
+
+The Aerojet decision also cited and relied on authorities 
+holding that, when a defendant’s answer includes a 
+counterclaim, jurisdiction to decide the counterclaim can be 
+“retained” notwithstanding that a plaintiff’s complaint 
+may be jurisdictionally defective or voluntarily dismissed. 
+895 F.2d at 742-43. But those authorities are patently 
+inapposite to whether a defendant’s answer or counterclaim 
+operates to change the jurisdictional basis of a civil action 
+commenced, as the present action was, by the filing of a well- 
+p/eaded complaint.” Under the numerous authorities cited 
+above (see note 15 supra), the answer to the latter question 
+is clearly “no.” 
+
+
+The decision below well illustrates how the Federal 
+Circuit’s interpretation — and de facto rejection — of the 
+“well-pleaded complaint rule” can lead not only to unfair 
+and unpredictable results, but to enormous waste of judicial 
+and party resources. The District Court found, in this case, 
+that as of March 2000, there was a “clear conflict” between 
+the law of the Federal Circuit and the law of the Tenth Circuit, 
+as reflected in their respective decisions in the Midwest and 
+Vornado I cases, 93 F. Supp. 2d at 1143 (JA95), but that this 
+conflict did not warrant “a refusal to apply the law of 
+collateral estoppel in this action,” in part because “[t]he Tenth 
+Circuit law upon which that [Vornado I] judgment was based 
+has not changed.” Jd. 
+
+
+22. When an answer and counterclaim has been pleaded to a 
+complaint that later is dismissed voluntarily or for lack of jurisdiction, 
+it is an entirely mechanical and ministerial exercise whether a District 
+Court takes up the counterclaim as pleaded or requires that the party 
+originally named as a defendant file a complaint alleging the 
+substance of the existing coun.*rclaim. Either way, the original 
+plaintiff’s choice of law or forum is not being disturbed, and the 
+defendant's cause of action is treated the same as it would have been 
+treated if the dismissed complaint had not been filed. 
+
+
+31 
+
+
+In TrafFix, this Court expressly resolved the “conflict” 
+that had existed between the law of the Tenth and Federal 
+Circuits, 121 S. Ct. at 1259, and did so by (1) rejecting the 
+standard of “functionality” articulated by the Federal Circuit 
+in Midwest, and (2) embracing a standard of “functionality” 
+that was fully consistent with both the holding and the 
+reasoning of the Tenth Circuit in Vornado I. Id. at 1261-62. 
+
+
+The 7rafFix decision eliminated any plausible argument 
+that the law of the Tenth Circuit had “changed” materially 
+since the judgment in Vornado J, yet Petitioner, the prevailing 
+plaintiff in the District Court, nevertheless had its judgment 
+of non-infringement summarily stripped away by a two-page 
+Order of the Federal Circuit that did not address, at all, any 
+of the jurisdictional or merits arguments made by either party 
+(JA33-34). Instead, the Federal Circuit summarily vacated 
+the summary judgment that had been awarded to Petitioner 
+and directed the District Court to consider whether, in view 
+of TrafFix, the law of the Tenth Circuit might have changed 
+in such a way as to permit a collateral attack on a prior 
+judgment of the Tenth Circuit in a case arising under federal 
+trademark law. 
+
+
+The Federal Circuit’s decision apparentiy contemplates 
+that, after the District Court attempts to divine how the Tenth 
+Circuit would regard the state of its own law in view of the 
+TrafFix decision, the case would return to the Federal Circuit 
+for additional divination efforts at determining the law of 
+the Tenth Circuit. The one court that will never, in the Federal 
+Circuit’s view, have the opportunity to determine the legal 
+effect of the judgment in Vornado I, is the court that issued 
+it: the Tenth Circuit. 
+
+
+32 
+
+
+It is not difficult to see how tlie interests of justice, 
+judicial economy and efficiency, and stability of prior final 
+judgments, have all been sacrificed in this case as a 
+consequence of the Federal Circuit’s aberrant interpretation 
+of 28 U.S.C. §§ 1295(a)(1) and 1338(a) and its refusal to 
+acknowledge, let alone faithfully apply, the “well-pleaded 
+complaint rule” as substantially limiting the scope of the 
+Federal Circuit’s appellate jurisdiction as directed by this 
+Court in Christianson. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, the judgment of the Court 
+of Appeals for the Federal Circuit should be reversed, and 
+the cause remanded to the Tenth Circuit for further 
+proceedings. Alternatively, the Court should affirm the 
+District Court’s award of summary judgment to Petitioner. 
+
+
+Respectfully submitted, 
+
+
+JaMEs W. DABNEY 
+
+Counsel for Petitioner 
+
+1155 Avenue of the Americas 
+New York, New York 10036 
+(212) 790-9090 
+
+
+Paut Izzo 
+Marcia H. Sundeen Timotny P. GALLOGLY 
+Carol M. Wilhelm Tue Homes Group, INc. 
+
+
+—, eT Milford Massachusetts 
+New York, New York ARTHUR R. MILLER 
+
+
+Of Counsel 1755 Massachusetts Avenue 
+Cambridge, Massachusetts 
+January 4, 2002 
+
+

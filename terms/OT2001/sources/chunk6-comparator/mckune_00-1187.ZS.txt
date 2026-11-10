@@ -1,0 +1,70 @@
+MCKUNE V. LILE
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+MCKUNE V. LILE (00-1187) 
+224 F.3d 1175, reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Concurrence
+ [ O’Connor ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+McKUNE, WARDEN, et al. v. LILE
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE TENTH CIRCUIT
+
+ 
+No. 00—1187.  Argued November 28, 2001–Decided June 10, 2002
+
+Respondent was convicted of rape and related crimes.  A few years before his scheduled release, prison officials ordered respondent to participate in a Sexual Abuse Treatment Program (SATP).  As part of the program, participating inmates are required to complete and sign an “Admission of Responsibility” form, in which they accept responsibility for the crimes for which they have been sentenced, and complete a sexual history form detailing all prior sexual activities, regardless of whether the activities constitute uncharged criminal offenses.  The information obtained from SATP participants is not privileged, and might be used against them in future criminal proceedings.  There is no evidence, however, that incriminating information has ever been disclosed under the SATP.  Officials informed respondent that if he refused to participate in the SATP, his prison privileges would be reduced, resulting in the automatic curtailment of his visitation rights, earnings, work opportunities, ability to send money to family, canteen expenditures, access to a personal television, and other privileges.  He also would be transferred to a potentially more dangerous maximum-security unit.  Respondent refused to participate in the SATP on the ground that the required disclosures of his criminal history would violate his Fifth Amendment privilege against compelled self-incrimination.  He brought this action for injunctive relief under 42 U.S. C. §1983.  The District Court granted him summary judgment.  Affirming, the Tenth Circuit held that the compelled self-incrimination prohibited by the Fifth Amendment can be established by penalties that do not constitute deprivations of protected liberty interests under the Due Process Clause; ruled that the automatic reduction in respondent’s prison privileges and housing accommodations was such a penalty because of its substantial impact on him; declared that respondent’s information would be sufficiently incriminating because an admission of culpability regarding his crime of conviction would create a risk of a perjury prosecution; and concluded that, although the SATP served Kansas’ important interests in rehabilitating sex offenders and promoting public safety, those interests could be served without violating the Constitution by treating inmate admissions as privileged or by granting inmates use immunity. 
+
+Held: The judgment is reversed, and the case is remanded.
+
+224 F.3d 1175, reversed and remanded.
+
+    Justice Kennedy, joined by The Chief Justice, Justice Scalia, and Justice Thomas, concluded that the SATP serves a vital penological purpose, and that offering inmates minimal incentives to participate does not amount to compelled self-incrimination prohibited by the Fifth Amendment.  Pp. 4—21.
+
+      (a) The SATP is supported by the legitimate penological objective of rehabilitation.  The SATP lasts 18 months; involves substantial daily counseling; and helps inmates address sexual addiction, understand the thoughts, feelings, and behavior dynamics that precede their offenses, and develop relapse prevention skills.  Pp. 4—7.
+
+      (b) The mere fact that Kansas does not offer legal immunity from prosecution based on statements made in the course of the SATP does not render the program invalid.  No inmate has ever been charged or prosecuted for any offense based on such information, and there is no contention that the program is a mere subterfuge for the conduct of a criminal investigation.  Rather, the refusal to offer use immunity serves two legitimate state interests: (1) The potential for additional punishment reinforces the gravity of the participants’ offenses and thereby aids in their rehabilitation; and (2) the State confirms its valid interest in deterrence by keeping open the option to prosecute a particularly dangerous sex offender.  Pp. 4—8.
+
+      (c) The SATP, and the consequences for nonparticipation in it, do not combine to create a compulsion that encumbers the constitutional right not to incriminate oneself.  Pp. 8—20.
+
+          (1) The prison context is important in weighing respondent’s constitutional claim: A broad range of choices that might infringe constitutional rights in free society fall within the expected conditions of confinement of those lawfully convicted.  The limitation on prisoners’ privileges and rights also follows from the need to grant necessary authority and capacity to officials to administer the prisons.  See, e.g., Turner v. Safley, 482 U.S. 78.  The Court’s holding in Sandin v. Conner, 515 U.S. 472, 484, that challenged prison conditions cannot give rise to a due process violation unless they constitute “atypical and significant hardship[s] on [inmates] in relation to the ordinary incidents of prison life,” may not provide a precise parallel for determining whether there is compelled self-incrimination, but does provide useful instruction.  A prison clinical rehabilitation program, which is acknowledged to bear a rational relation to a legitimate penological objective, does not violate the privilege against compelled self-incrimination if the adverse consequences an inmate faces for not participating are related to the program objectives and do not constitute atypical and significant hardships in relation to the ordinary incidents of prison life.  Cf., e.g., Baxter v. Palmigiano, 425 U.S. 308, 319—320.  Pp. 8—11.  
+
+          (2) Respondent’s decision not to participate in the SATP did not extend his prison term or affect his eligibility for good-time credits or parole.  He instead complains about his possible transfer from the medium-security unit where the program is conducted to a less desirable maximum-security unit.  The transfer, however, is not intended to punish prisoners for exercising their Fifth Amendment rights.  Rather, it is incidental to a legitimate penological reason: Due to limited space, inmates who do not participate in their respective programs must be moved out of the facility where the programs are held to make room for other inmates.  The decision where to house inmates is at the core of prison administrators’ expertise.  See Meachum v. Fano, 427 U.S. 215, 225.  Respondent also complains that his privileges will be reduced.  An essential tool of prison administration, however, is the authority to offer inmates various incentives to behave.  The Constitution accords prison officials wide latitude to bestow or revoke these perquisites as they see fit.  See Hewitt v. Helms, 459 U.S. 460, 467, n. 4.  Respondent fails to cite a single case from this Court holding that the denial of discrete prison privileges for refusal to participate in a rehabilitation program amounts to unconstitutional compulsion.  Instead, he relies on the so-called penalty cases, see, e.g., Spevack v. Klein, 385 U.S. 511, which involved free citizens given the choice between invoking the Fifth Amendment privilege and sustaining their economic livelihood, see, e.g., id., at 516.  Those cases did not involve legitimate rehabilitative programs conducted within prison walls, and they are not easily extended to the prison context, where inmates surrender their rights to pursue a livelihood and to contract freely with the State.  Pp. 11—13.  
+
+          (3) Determining what constitutes unconstitutional compulsion involves a question of judgment: Courts must decide whether the consequences of an inmate’s choice to remain silent are closer to the physical torture against which the Constitution clearly protects or the de minimis harms against which it does not.  The Sandin framework provides a reasonable means of assessing whether the response of prison administrators to correctional and rehabilitative necessities are so out of the ordinary that one could sensibly say they rise to the level of unconstitutional compulsion.  Pp. 13—14.
+
+      (d) Prison context or not, respondent’s choice is marked less by compulsion than by choices the Court has held give no rise to a self-incrimination claim.  The cost to respondent of exercising his Fifth Amendment privilege–denial of certain perquisites that make his life in prison more tolerable–is much less than that borne by the defendant in, e.g., McGautha v. California, 402 U.S. 183, 217, where the Court upheld a procedure that allowed statements made by a criminal defendant to mitigate his responsibility and avoid the death penalty to be used against him as evidence of his guilt.  The hard choices faced by the defendants in, e.g., Baxter v. Palmigiano, supra, at 313; Ohio Adult Parole Authority v. Woodard, 523 U.S. 272, 287—288; and Minnesota v. Murphy, 465 U.S. 420, 422, further illustrate that the consequences respondent faced did not amount to unconstitutional compulsion.  Respondent’s attempt to distinguish the latter cases on dual grounds–that (1) the penalty here followed automatically from his decision to remain silent, and (2) his participation in the SATP was involuntary–is unavailing.  Neither distinction would justify departing from this Court’s precedents.  Pp. 14—17.
+
+      (e) Were respondent’s position to prevail, there would be serious doubt about the constitutionality of the federal sex offender treatment program, which is comparable to the Kansas program.  Respondent is mistaken as well to concentrate on a so-called reward/penalty distinction and an illusory baseline against which a change in prison conditions must be measured.  Finally, respondent’s analysis would call into question the constitutionality of an accepted feature of federal criminal law, the downward adjustment of a sentence for acceptance of criminal responsibility.  Pp. 17—20. 
+
+      Justice O’Connor acknowledged that the Court is divided on the appropriate standard for evaluating compulsion for purposes of the Fifth Amendment privilege against self-incrimination in a prison setting, but concluded that she need not resolve this dilemma because this case indisputably involves burdens rather than benefits, and because the penalties assessed against respondent as a result of his failure to participate in the Sexual Abuse Treatment Program (SATP) are not compulsive on any reasonable test.  The Fifth Amendment’s text does not prohibit all penalties levied in response to a person’s refusal to incriminate himself or herself–it prohibits only the compulsion of such testimony.  The Court’s so-called “penalty cases” establish that the potential loss of one’s livelihood through, e.g., the loss of employment, Uniformed Sanitation Men Assn., Inc. v. Commissioner of Sanitation of City of New York, 392 U.S. 280, and the loss of the right to participate in political associations and to hold public office, Lefkowitz v. Cunningham, 431 U.S. 801, are capable of coercing incriminating testimony.  Such penalties, however, are far more significant that those facing respondent: a reduction in incentive level and a corresponding transfer from medium to maximum security.  In practical terms, these changes involve restrictions on respondent’s prison privileges and living conditions that seem minor.  Because the prison is responsible for caring for respondent’s basic needs, his ability to support himself is not implicated by the reduction of his prison wages.  While his visitation is reduced, he still retains the ability to see his attorney, his family, and clergy.  The limitation on his possession of personal items, as well as the amount he is allowed to spend at the canteen, may make his prison experience more unpleasant, but seems very unlikely to actually compel him to incriminate himself.  Because it is his burden to prove compulsion, it may be assumed that the prison is capable of controlling its inmates so that respondent’s personal safety is not jeopardized by being placed in maximum security, at least in the absence of proof to the contrary.  Finally, the mere fact that the penalties facing respondent are the same as those imposed for prison disciplinary violations does not make them coercive.  Thus, although the plurality’s failure to set forth a comprehensive theory of the Fifth Amendment privilege against self-incrimination is troubling, its determination that the decision below should be reversed is correct.  Pp. 1—7.
+
+    Kennedy, J., announced the judgment of the Court and delivered an opinion, in which Rehnquist, C. J., and Scalia and Thomas, JJ., joined.  O’Connor, J., filed an opinion concurring in the judgment.  Stevens, J., filed a dissenting opinion, in which Souter, Ginsburg, and Breyer, JJ., joined.

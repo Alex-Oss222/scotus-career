@@ -1,0 +1,2275 @@
+No. 01-651 : FEB 22 Am 
+
+
+IN THE 
+
+
+Supreme Court of the United States — — 
+
+
+THE CHASE MANHATTAN BANK, as Indenture Trustee, 
+
+
+under the Indenture, dated as of May 6, 1998, 
+Petitioner, 
+v. 
+
+
+TRAFFIC STREAM (BVI) 
+INFRASTRUCTURE LIMITED, 
+
+
+Respondent. 
+
+
+On Wait oF CERTIORARI TO THE 
+
+
+Unirep States Court OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+—— 
+
+
+BRIEF FOR RESPONDENT 
+
+
+Craic J. ALBERT 
+Counsel of Record 
+
+Leo G Kailas 
+
+LAUREN K. KLUGER 
+
+ReiTLeR Brown LLC 
+800 Third Avenue 
+New York, NY 10022 
+(212) 209-3050 
+
+
+Attorneys for Respondent 
+
+
+173036 
+
+
+COUNSEL PRESS 
+
+
+(800) 274-3321 + (R00) 359-0859 
+
+
+‘BEST AVAILABLE COPY 
+
+
+i 
+QUESTION PRESENTED 
+
+
+Whether corporations organized under the laws of the 
+British Virgin Islands and other United Kingdom Overseas 
+Territories are “citizens or subjects of a foreign state” for 
+purposes of alienage diversity jurisdiction under 28 U.S.C. 
+§ 1332(a)(2). 
+
+
+ii 
+CORPORATE DISCLOSURE STATEMENT 
+
+
+Pursuant to Rule 29.6 of the Supreme Court Rules, 
+Respondent Traffic Stream (BVI) Infrastructure Limited 
+states that its parent corporation is Traffic Stream (China) 
+Infrastructure Company Limited, and that no publicly held 
+corporation owns 10% or more of its stock. 
+
+
+ul 
+
+
+TABLE OF CONTENTS 
+
+
+i ce cee cabescnceseccccececcs 
+Corporate Disclosure Statement ................ 
+ee cece ke ceseeséccccees: 
+
+
+I CTT 
+
+
+I. The Alienage Diversity Statute Does Not 
+Create Jurisdiction Over Suits By And 
+Against Foreign Nationals Who Are Neither 
+Citizens Nor Subjects Of Foreign States ... 
+
+
+A. Congress’s Statutory Mechanism 
+Distinguishes Colonial Residents from 
+Foreign Citizens and Subjects. ....... 
+
+
+1. Eighteenth Century American 
+Political Theory Recognized the 
+
+
+Fluidity of the Labels of Citizen and 
+Ea deeneheesesscccecce. 
+
+
+2. The Judiciary Act of 1789 Extended 
+Alienage Jurisdiction to Its 
+Constitutional Limit ............ 
+
+
+Page 
+
+
+iv 
+Contents Contents 
+Page Page 
+3. Congress’s Intention to Deny A. Domestic Policies Are Advanced By The ‘ 
+Alienage Diversity Jurisdiction to Second Circuit’s Rule. ............. 
+Foreign Nationals Who Are Not El 
+Foreign Citizens or Subjects Can Be B. There Is No Discriminatory Treatment 
+Inferred From a Parallel Domestic of United Kingdom Citizens In This 
+Pl i wadeuweeccdadidekbeines 16 ! DED dovudacesvedeuesekavedesece 39 
+
+
+B. Congress’s Subsequent Enactment of the IV. Adoption Of The Rule Proposed By The 
+Alien “Seener sy Act Confirms Its Petitioners Undermines The International 
+
+
+Intention To Maintain A Class Policy Of Decolonization ............... 41 
+Distinction In The Judiciary Act. ..... 19 
+
+
+—— te age ore 
+
+
+ee auwe et ee 43 
+
+
+C. Subsequent Revisions of the Diversity 
+Statute Have Emphasized The 
+Distinctions Between Foreign Nationals 
+and Foreign Citizens or Subjects. ... .. 22 
+
+
+D. The Historical Record Makes Clear That 
+The Second Circuit Acted Properly.... 24 
+
+
+II. United Kingdom Law Creates A Distinction 
+Between Its Nationals And Its Citizens Which 
+Is Dispositive For Purposes Of Determining 
+FEED ccdcvoucdweeséeaveceae 25 
+
+
+Ill. The Policies That Led Congress To Create 
+Alienage Diversity Jurisdiction Are Not ~ 
+Thwarted By A Rule Requiring Colonial 
+Residents To Sue And Be Sued In State 
+RSE cand ovus cnedccatiembisbncaluews 31 
+
+
+vi 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Barney v. Baltimore City, 73 U.S. 280 (1867) ..... 17 
+Calvin's Case, 77 Eng. Rep. 377 (1608) ......... 10 
+Cherokee Nation v. Georgia, 5 Pet. 1 (1831)...... 17 
+Clarke v. Morey, 10 Johns R. 70 (N.Y. 1813) ..... 24 
+Corp. of New-Orleans v. Winter, 14 U.S. (1 Wheat.) 
+POSE ahaecdeccéddouaseedecsdeatedewts 17 
+Coxe v. Gulick, 10 N.J.L. 328 (1829) ............ 24 
+Elk v. Wilkins, 112 U.S. 94 (1884) .............. 17 
+Hepburn & Dundas v. Elizey, 6 U.S. (2 Cranch) 
+PEE 6 cenvnccsldanscéabesdcdecdcsedse 17 
+Inglis v. Trustees of the Sailor's Snug Harbour, 
+Be as BH FER Oe CURSED cc ccccccccscescccs 12 
+lowa Mutual Ins. Co. v. LaPlante, 480 U.S. 9 
+SRT weedesnctsduendssocnnedeedsetieséue 17 
+Johnson v. Eisentrager, 339 U.S. 763 (1950) ..... 20 
+
+
+Louisville C. & C.R. Co. v. Letson, 43 U.S. (2 How.) 
+DUPED sab dnde> cvedinaodoecdsusekéehes 26 
+
+
+vil 
+
+
+Cited Authorities 
+Page 
+Ludecke v. Watkins, 335 U.S. 160 (1948) ..-..... 20 
+Matimak Trading Co. v. Khalily, 118 F.3d 76 (2d Cir. 
+iE cwé cies cachaedeuenudeedreceséone 24, 33, 34 
+M’llvaine v. Coxe’s Lessee, 8 U.S. (4 Cranch) 
+Dt? cdiescécaundbdesseendsuassendacs 12 
+Mossman vy. Higgninson, 4 U.S. (4 Dall.) 12 (1800) 
+hee eerie bbedecedaskbeneeéis des 23 
+National Mut. Ins. Co. of District of Columbia v. 
+Tidewater Transfer Co., 337 U.S. 582 (1949) ... 17 
+Scanlan v. Wright, 30 Mass. 523 (1833) ......... 24 
+Strawbridge v. Curtiss, 7 U.S. (3 Cranch) 267 
+DE Sdecteetgecedeteesaeadebeasssneveens 23 
+Stuart v. City of Easton, 156 U.S. 46 (1895) ...... 33 
+United States v. Auffmordt, 122 U.S. 197 (1887) .. 24 
+United States ex rel. Schwarzkopf v. Uhl, 137 F.2d 
+en Cn ccnndetieeeses cec¥eceends 22, 31 
+United States Constitution: 
+Se Gs AO, Gs ae lh © we decconcccéccnces 7 
+
+
+vill 
+Cited Authorities 
+Page 
+Statutes: 
+Act of April 16, 1918, c. 55, 40 Stat. 531 ........ 20 
+Act of April 20, 1940, c. 117, 54 Stat. 143 ....... 18 
+Alien Enemies Act, ch. 66, § 1, 1 Stat. 577 (1798) ... 20 
+British Nationality Act 1948 ................... 27, 28 
+British Nationality Act 1981 ......... 25, 26, 27, 28, 29 
+British Overseas Territories Act 2002, cl. 8(2) 
+(available at <http:/www. legislation.hmso.gov.uk/ 
+acts/acts2002/20020008.htm>) .............. 29, 37 
+
+
+Judiciary Act of 1789, ch. 20, § 11, 1 Stat. 78 .... 
+San akcssteNheaLeckekudenidaabe 7, 8, 13, 17, 22 
+
+
+ID ch icah 2 Co. a 20 
+I i 14, 31 
+I BO on. dec dct vceksbdscinenasaceds 1 
+I RO titra icacusednds 14 
+SEUBL. GISMMNITD ooic cs ccccdccccncc: i, 2, 23, 26 
+BS fie oe 30 
+
+
+BE cect rie tet ae 20 
+
+
+ix 
+
+
+Cited Authorities 
+Page 
+Other Authorities: 
+1 Annals of Congress 922 (Joseph Gales ed., 
+DD. oi viawaceeeedeek bee vekednbasens 14, 15, 16 
+5 Annals of Congress 1983 (1798) .............. 35 
+Articles of Confederation, Art. XI .............. 35 
+1 Matthew Bacon, A New Abridgment of the Law 
+DE CEE ceotesnecbosoenekevceces? 7,8 
+1 William Blackstone, Commentaries on the Laws 
+of England 123 (1813 ed.) ...............4.. 8, 11 
+CIA World Factbook 2001 <http://www.cia.gov/cia/ 
+publications/factbook/geos/vi.html> .......... 39 
+Convention between the French Republic and the 
+United States of America, Sept. 30, 1800, art. VIII, 
+DETTE ccbdnsoaunsteseaceseeousedbeess 21 
+Declaration on the Granting of Independence to 
+Colonial Countries and Peoples, G.A. Res. 1514, 
+15th Sess., 947th mtg.<http://www.un.org/Depts/ 
+dpi/decolonization/docs/res1514.htm> ........ 41 
+Dissemination of Information on Decolonization, 
+DET dd db60d0 dee nabeesennsnsedessuess ons 42 
+
+
+x 
+
+
+Cited Authorities 
+
+Page 
+
+The Federalist No. 80 (Alexander Hamilton) (Clinton 
+PE , DED AGndcccscbiendiseenvends 14 
+
+6 Halsbury’s Laws of England 4 1105 (4th ed. 1991) 
+4 Chawendieneadaccheeeusienssdedeeteneus 8 
+
+Immigration & Nationality Directorate, BN3: 
+
+Information About British Subject Status <http:// 
+
+www.ind.homeoffice.gov.ukdefault.asp? 
+POE dantvevesesstectestensacnneua 27, 28 
+
+Implementation of the Declaration on the Granting 
+
+of Independence to Colonial Countries and 
+PEE binceckcubéuedtennenameedas 42 
+
+2 Journals of the Continental Congress 1774-1789 
+SC obvadeecdineeas seudancateadece 35 
+
+3 Journals of the Continental Congress 1774-1789 
+SY SE huss 2 incdbeckee wens taeee tees 33 
+
+James H. Kettner, The Development of American 
+Citizenship, 1608-1870 (1978) ..... 8, 10, 12, 21, 22 
+
+Ian A. MacDonald & Nicholas J. Blake, MacDonald’s 
+
+Immigration Law and Practice in the United 
+Kingdom 107 (3d ed. 1991) ..............4.. 25, 28 
+
+
+xi 
+
+
+Cited Authorities 
+Page 
+
+
+John D. McKinnon, Questioning the Books: 
+Congressional Probe to Examine Enron’s 
+Tax-Avoidance Strategies, Wall St. J., February 
+SIRS Ss icudbidednusenekdeuscseeuswuteds 36 
+
+
+Organization for Economic Cooperation and 
+Development, Towards Global Tax Cooperation 
+16-17 (2001) (listing British Virgin Islands as 
+among those jurisdictions meeting criteria for 
+harmful tax practices amounting to status as tax 
+haven) <http://www.oecd.org/pdf/M000014000/ 
+EE 62 cAucbus cipewkesnue tes wee 36 
+
+
+375 Parl. Deb., H.C. (Sth ser.) 478-80 (2001) (remarks 
+of Parliamentary Under-Secretary Of State For 
+Foreign & Commonwealth Affairs Ben Bradshaw) 
+<http:/www.publications.parliament.uk/pa/ 
+em200102/cemhansrd/cm011122/debtext/11122- 
+SES wevusekwt ws sadn deck eaaksan teases 29 
+
+
+Press Release GA/9488 (Dec. 8, 2000) .......... 42 
+
+
+Susan Pulliam, Heard on the Street: Reincorporating 
+Companies Find Bermuda A Place to Shed Some 
+of Those Extra Taxes, Wall St. J. February 19, 
+DE Loca eee R heer ee bkis eeseushessesaeses 36 
+
+
+xii 
+
+
+Cited Authorities 
+
+
+Report of the Special Committee on the Situation 
+with Regard to the Implementation of the 
+Declaration on the Granting of Independence 
+of Colonial Countries and Peoples for 2000, 
+U.N. GAOR, 55th Sess., Supp. No. 23 , U.N. Doc. 
+SUM Sk dwk si butisctcnddunge Sauces 
+
+
+Second International Decade for the Eradication of 
+Es in cee eu cana eeesuee 
+
+
+Secretary of State for Foreign and Commonwealth 
+Affairs, Partnership for Progress and Prosperity: 
+Britain and the Overseas Territories 72 (1999) 
+
+
+Treaty Concerning the Cayman Islands and Mutual 
+Legal Assistance in Criminal Matters, July 3, 
+1986, U.S.-U.K., 26 LL.M. 536 (1987) ........ 
+
+
+Treaty of Friendship (Pinckney’s Treaty), Oct. 27, 
+1795, U.S. Spain, art XIII, 8 Stat. 138 ......... 
+
+
+1783 Treaty of Paris (Article 4, relating to the 
+
+
+recovery of bona fide debts, and Article 5, relating 
+
+
+to restitution of property) ................... 
+
+
+Treaty Of Peace, Friendship, Limits, And Settlement 
+Between The United States Of America And The 
+United Mexican States (Treaty of Guadalupe 
+Hidalgo), Feb. 2, 1848, art XXII(1), 9 Stat. 922 
+
+
+ee 
+
+
+Page 
+
+
+32 
+
+
+xill 
+
+
+Cited Authorities 
+
+
+Treaty Relating to Mutual Legal Assistance Between 
+the U.S. and the United Kingdom concerning the 
+Cayman Islands, July 3, 1986, 26 I.L.M. 536 
+(entered into force as to British Virgin Islands 
+Tt Cn o vicccesueaceéeaeedee es ee 
+
+
+I EE Dh cas pubacireecuvcdceeens 
+Charles Warren, New Light on the History of the 
+
+
+Federal Judiciary Act of 1789, 37 Harv. L. Rev. 
+DE Crcan vas eee wdenaeNeedswenbees es 
+
+
+Page 
+
+
+—_- 
+
+
+l 
+
+
+STATEMENT OF THE CASE 
+
+
+In 1998, Respondent Traffic Stream (BVI) Infrastructure 
+Limited issued $119 million in notes, subject to an indenture 
+under which Petitioner Chase Manhattan Bank was the 
+trustee. (JA 25a).' Under the indenture, the parties agreed to 
+jurisdiction over any disputes over payment of the notes in 
+both the state and federal courts located in the Borough of 
+Manhattan, in the state of New York. (JA 85a-87a). 
+
+
+Petitioner is a New York corporation.’ It sued Respondent 
+in the United States District Court for the Southern District 
+of New York, claiming that Respondent had defaulted on its 
+obligations under the notes and indenture. The asserted basis 
+for subject matter jurisdiction was that Respondent was a 
+British Virgin Islands corporation with its “principal office” 
+in the British Virgin Islands (Complaint § 3, JA 8a), that the 
+amount in controversy exceeded $75,000 (Complaint 4 1, 
+JA 7a), and that there was therefore jurisdiction under 
+28 U.S.C. § 1332. 
+
+
+Respondent admitted the allegation of subject matter 
+jurisdiction. (Answer 41, JA 251a). Neither party raised the 
+issue of subject matter jurisdiction at any further stage of 
+the proceedings below. After Respondent answered, 
+Petitioner moved for summary judgment. The district court 
+rejected Respondent’s defenses and granted Petitioner’s 
+motion. (JA 263a-264a). Respondent appealed to the United 
+
+
+1 References hereinafter to “JA __” are to pages in the Joint 
+Appendix filed with the Supreme Court. 
+
+
+2. Petitioner did not allege the state of its principal place of 
+business, but instead alleged that its “Capital Markets Fiduciary 
+Services Office” was located in New York. (Complaint 4 2, JA 8a). 
+
+
+2 
+
+
+States Court of Appeals for the Second Circuit and, at oral 
+argument, the Court requested supplemental briefing on the 
+issue of whether subject matter jurisdiction might be absent. 
+(JA 265a-266a, 279a). After the supplemental briefing, the 
+Court of Appeals determined that Respondent was not a 
+foreign citizen or subject. It entered an order reversing the 
+district court’s judgment and directing it to dismiss the action 
+without prejudice. (Cert. App. 7a).’ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The United States Court of Appeals for the Second 
+Circuit was entirely correct in its determination that there 
+was no subject matter jurisdiction over this action. 
+Respondent is simply not a foreign citizen or foreign subject, 
+which are the only bases for the assertion of alienage diversity 
+jurisdiction under 28 U.S.C. § 1332(a)(2). It is incorporated 
+in the British Virgin Islands, which is not a foreign state. 
+The people of those islands were not regarded by their 
+colonial power (the United Kingdom of Great Britain and 
+Northern Ireland) at the time of the suit’s commencement as 
+citizens or subjects of the United Kingdom. The suit therefore 
+should never have been brought in a federal court. Instead, it 
+should have been brought in a state court (to which Petitioner 
+had already consented) or in a court of the British Virgin 
+Islands. 
+
+
+The alienage diversity statute, 28 U.S.C. § 1332(a)(2), 
+does more than simply divide the world into the United States 
+and everyone else. It also divides aliens into those who are 
+foreign citizens or subjects, on the one hand, and those who 
+are not. Only the former are welcome to litigate in federal 
+
+
+3. References to “Cert. App. __” are to pages in the Appendix 
+annexed to the Petition for Writ of Certiorari. 
+
+
+3 
+
+
+courts on the basis of diverse citizenship. The rule stands in 
+contrast to suits involving a federal question, in which all aliens 
+(regardless of citizenship or subjectship) are allowed to litigate 
+in federal courts. The rule finds its reason in the development 
+of the law of citizenship and subjectship in our Republic’s early 
+history. Irideed, without the concept, the founders of our nation 
+would have had no legal basis on which to claim that they were 
+absolved of their allegiance to the same United Kingdom which 
+today claims the allegiance of the residents of the Bntish Virgin 
+Islands. Congress’s intentions can be discerned from the little 
+evidence left behind in the legislative history of the statute, as 
+well as in its creation of a parallel set of restraints on the extent 
+of domestic diversity jurisdiction vis-a-vis United States 
+territories, the District of Columbia and Native Americans. In 
+addition, Congress expressed the same distinction in its 1798 
+enactment of the Alien Enemies Act. 
+
+
+The determination of whether British Virgin Islands 
+corporations are foreign citizens or subjects depends in the first 
+instance on how the United Kingdom of Great Britain and 
+Northern Ireland views the natural persons of the British Virgin 
+Islands for purposes of its own law. In that regard, the Second 
+Circuit acted properly. The record is clear that the United 
+Kingdom today views them only as “United Kingdom nationals” 
+and has specifically excluded them from the categories of 
+citizens or subjects. The matter is driven home even more 
+forcefully by virtue of an impending amendment to United 
+Kingdom law which will (in the future) confer United Kingdom 
+citizenship on those colonial citizens who request it, but will 
+withhold that citizenship from those who request it to be 
+withheld. Until that amendment takes effect, and until colonial 
+citizens choose to exercise their power to elect citizenship status, 
+they are not citizens or subjects of a foreign state. 
+
+
+4 
+
+
+None of the policies that were thought by the Framers of 
+the Constitution to justify the creation of alienage diversity 
+jurisdiction is implicated by this case. There is no domestic bias 
+against an innocent foreigner, because the party seeking to 
+invoke alienage diversity jurisdiction is a domestic plaintiff. 
+There is no adverse impact on foreign commerce because 
+colonial trade has always been outside the ordinary stream of 
+international commerce. Weighed against these considerations, 
+though, are an important set of domestic policies which are 
+promoted by limiting the scope of alienage diversity jurisdiction. 
+The policy encourages colonial residents to immigrate to the 
+United States, rather than to other nations. The policy 
+discourages American firms from expatriating their businesses 
+to foreign tax and bank havens. The policy discourages the use 
+of jurisdictions that have been associated with criminal 
+enterprises such as narcotics trafficking and money laundering. 
+
+
+The rule advocated by the Petitioner is not justified on the 
+ground that the colonial entities are being treated differently in 
+the United States from the way in which United States entities 
+would be treated in the colonies. Each is subject to the local 
+courts of the other. A United States entity could ask for nothing 
+more in the British Virgin Islands because there is no dual system 
+of federal courts in that jurisdiction. 
+
+
+Finally, there exists an international norm that would be 
+subverted by adoption of the rule proposed by Petitioner. 
+The international community has firmly expressed its opposition 
+to the continuation of colonial status. To adopt a rule that 
+eliminates one of the costs associated with maintaining colonies 
+can only serve to lengthen the time in which it takes to bring 
+about full decolonization and self-determination, as required 
+under the resolutions of the United Nations. 
+
+
+/ 
+
+
+5 
+
+
+ARGUMENT 
+I. 
+
+
+THE ALIENAGE DIVERSITY STATUTE DOES NOT 
+
+CREATE JURISDICTION OVER SUITS BY AND 
+
+AGAINST FOREIGN NATIONALS WHO ARE NEITHER 
+CITIZENS NOR SUBJECTS OF FOREIGN STATES 
+
+
+A. Congress’s Statutory Mechanism Distinguishes 
+Colonial Residents from Foreign Citizens and 
+Subjects. 
+
+
+Both in its creation and in its modern form, the statute 
+that created alienage diversity jurisdiction was flexible, 
+adapting to accommodate ever-changing notions of the 
+relation between person and state. Today, the statute operates 
+to exclude the people and corporations of the British Virgin 
+Islands from federal courts because (as discussed in Point II 
+below) they are simply not citizens or subjects of a foreign 
+state under the relevant United Kingdom law. The basis for 
+excluding them, though, is a function of the political choices 
+that Congress had to make in 1789 when fashioning a new 
+type of jurisdiction (diverse citizenship) for a new type of 
+court (federal), and the recognition that outside social and 
+political forces would necessarily have an effect on 
+Congress’s choice. 
+
+
+True to the theory embraced by this nation’s early judges 
+and political theorists, the relationship between England and 
+its colonial people did evolve, and the alienage diversity 
+statute has accommodated that evolution. The common law 
+notion that everyone born within the King of England’s 
+dominions was a full British subject gave way, by statute, to 
+
+
+6 
+
+
+a variety of subclasses of relations between person and nation, 
+only a few of which rose to the level of citizen or subject. 
+The remainder — including those having the status of the 
+Respondent in this case — are not amenable to alienage 
+diversity jurisdiction. Today, the people of the British Virgin 
+Islands* are “United Kingdom nationals” who were not born 
+or naturalized in the British Isles and do not pretend to enjoy 
+the full measure of civil and political rights afforded to those 
+born in England, Scotland, Wales or Northern Ireland. They 
+therefore cannot sue or be sued in the federal courts on the 
+basis of alienage diversity jurisdiction. Instead, those suits 
+must be heard in a state court or in a British Virgin Islands 
+court with jurisdiction over both the person and the subject 
+matter. 
+
+
+1. Eighteenth Century American Political Theory 
+Recognized the Fluidity of the Labels of Citizen 
+and Subject. 
+
+
+When Congress first enacted a statute to create diversity 
+jurisdiction (and its subset of alienage diversity jurisdiction’) 
+in 1789, it described the group allowed into the newly-created 
+federal courts as “aliens”, even though the constitutional grant 
+
+
+4. The formerly-designated “British Crown Colonies” in the 
+Caribbean include the British Virgin Islands, the Cayman Islands, 
+Montserrat and Turks and Caicos. They are now classed as Overseas 
+Territories along with Bermuda, Anguilla, Gibraltar, the Falkland Islands, 
+Pitcairn Island, St. Helena and dependencies, South Georgia and the 
+South Sandwich Islands, as well as the British Antarctic Territory, the 
+British Indian Ocean Territory and a military area on Cyprus. 
+
+
+5. Respondent refers here to “alienage diversity jurisdiction” 
+only because the name has been commonly used for many years. 
+As the argument makes plain, though, the name is not descriptive 
+because this form of diversity jurisdiction does not extend to all aliens. 
+
+
+a 
+
+
+- 
+
+
+of authority extended to “foreign . . . Citizens or Subjects.” 
+Compare U.S. Const. Art. III, § 2, Cl. 1 with Judiciary Act of 
+1789, ch. 20, § 11, 1 Stat. 78. That choice of language masked 
+a then-unresolved debate over who was an alien, and 
+what obligations flowed between a nation and its people. 
+The constitutional provision was flexible enough so that, as 
+the political relationship between nations and people abroad 
+evolved, the changing relationship could be reflected in the 
+United States’ treatment of those persons in federal courts. 
+Regardless of the labels used, though, the outer limit of 
+federal jurisdiction was set at foreign citizens and subjects, 
+and the statute therefore excluded those persons who, while 
+foreign nationals, are neither citizens nor subjects of foreign 
+states. 
+
+
+At first, Congress’s use of the word “aliens” in the 
+Judiciary Act of 1789, § 11, 1 Stat. 78, did not limit in any 
+way the number of foreigners who had access to federal courts 
+because the term “aliens” was indeed coextensive with the 
+combination of “foreign citizens” and “foreign subjects.” 
+Nevertheless, the delegates to the Constitutional Convention 
+and the members of the early Congresses recognized that the 
+terms were fluid. They were certainly aware of the traditional 
+view that many of their number were “natural-born subjects” 
+because their “parents, at the time of their birth, were under 
+the actual obedience of our king, and whose place of birth 
+was within his dominions.” See | Matthew Bacon, A New 
+Abridgment of the Law 125 (6th ed. 1807). They were also 
+aware that many others were “natural subjects” because they 
+were born within the king’s ligeance “in Ireland, Scotland, 
+or Wales, or any of the king’s plantations.” See id. at 126. 
+
+
+The colonists’ status was not on a par with subjects in 
+England though, for as they knew, the colonies in which they 
+
+
+lived were not part of the United Kingdom of Great Britain 
+and Ireland. 1 William Blackstone, Commentaries on the 
+Laws of England 123-24 (1813 ed.).° They also knew that 
+the United Kingdom’s laws and treaties offer no benefit or 
+protection to residents of colonies unless the law or treaty 
+specifically provided so. See 6 Halsbury’s Laws of England 
+{ 1105 at 554-55 (4th ed. 1991). Colonial residents were 
+therefore in the unenviable position of being subject to the 
+King’s command, yet lacking the ordinary recourse of any 
+natural-born subject residing in England. 
+
+
+Petitioner’s argument for reversal is inconsistent with 
+the political reality faced by the men who drafted the 
+Constitution and the Judiciary Act of 1789. In contrast with 
+the reality that the relationship between person and nation 
+was evolving, Petitioner’s argument for reversal depends on 
+the assumption that the terms “citizen” and “subject” are 
+Static terms whose meaning was fixed in 1789 and cannot 
+evolve. (Petitioner Br. at 14; US Amicus Br. at 15).’ Without 
+
+
+6. The colonists also knew that there were other persons who, 
+while denominated “subjects” nevertheless occupied a second-class 
+legal status. These were the “denizens,” people who became subjects 
+by a Royal charter rather than by naturalization under an act of 
+Parliament. | Matthew Bacon, A New Abridgment of the Law 129 
+(6th ed. 1807). Denizens were a step above aliens in that they could 
+own land, but below full subjects in that they could not inherit, or 
+hold office. /d. Thus, while they were technically “subjects” in 1789 
+in that they owed obedience to the King, their status was unlike (and 
+inferior to) every natural-born British subject. See James H. Kettner, 
+The Development of American Citizenship, 1608-1870 at 5 (1978) 
+(tracing degrees of subjectship under English law). 
+
+
+7. References to “Petitioner Br.__” are to pages in the Brief of 
+Petitioner. References to “US Amicus Br. __” are to pages in the 
+Brief for the United States as Amicus Curiae Supporting Petitioner. 
+
+
+ly 
+! 
+
+
+9 
+
+
+that assumption of stagnation, Petitioner cannot advance the 
+argument that a colonist occupied exactly the place in 1789 
+British law as a British Dependent Territories Citizen 
+occupies in 2002. That assumption has no basis in the law. 
+Instead, the constitutional and statutory provisions at issue 
+were drafted when the political and legal theorists knew that 
+the concepts of citizenship and allegiance were in a state of 
+flux, and that a static definition would be useless. 
+
+
+Petitioner’s proposed interpretation of the critical terms 
+in the alienage diversity statute can be supported only by an 
+outdated application of England’s medieval common law. 
+That early view is documented in the authorities so ably 
+collected by the United States. (US Amicus Br. at 15). Under 
+that early view, the nation to which the American colonists 
+were subordinate — the United Kingdom of Great Britain 
+and Ireland — had many overseas possessions, dominions, 
+colonies, territories and plantations, each of which had been 
+settled in a variety of ways by British subjects. Each separate 
+entity had to account for the status of the natives who had 
+been born there both before and after British rule and the 
+English view was that each person born within the King’s 
+dominions was indeed a subject. 
+
+
+Unfortunately for Petitioner’s argument, the medieval 
+perspective only marks a starting point of the inquiry as to 
+what Congress created in 1789. To complete the inquiry, one 
+must necessarily refer to the subsequent development of the 
+law of subjectship and citizenship in both the United States 
+and the United Kingdom. : 
+
+
+In fact, the medieval view that underlies the Petitioner’s 
+argument did not enjoy American support, and its theoretical 
+underpinnings evaporated in the United Kingdom during the 
+
+
+10 
+
+
+late eighteenth century.’ For example, despite the common 
+law’s teaching with respect to ligeance, the American 
+colonists were painfully aware of their inferior political 
+status. Lord Blackstone had already explained the attenuated 
+connection between the American colonies and plantations, 
+on the one hand, and England on the other, as follows: 
+
+
+[O]ur most distant plantations in America, and 
+elsewhere, are in some respect subject to the 
+English laws. Plantations or colonies, in distant 
+countries, are either such where the lands are 
+claimed by right of occupancy only by finding 
+them desart and uncultivated, and peopling them 
+from the mother country; or where, when already 
+cultivated, they have been either gained by 
+conquest, or ceded to us by treaties. And both these 
+rights are founded upon the law of nature, or at 
+least upon that of nations. . .. But in conquered 
+or ceded countries, that have already laws of their 
+own, the king may indeed alter and change those 
+laws; but, till he actually does change them, the 
+ancient laws of the country remain, unless such 
+as are against the law of God, as in an infidel 
+
+
+8 The history of the development of both American and English 
+views of subjectship and citizenship is traced in James H. Kettner, 
+The Development of American Citizenship, 1608-1870 (1978). 
+See also Clive Parry, British Nationality 5-7 (1951) (tracing the 
+development of subjectship, citizenship and nationality after Calvin's 
+Case, 77 Eng. Rep. 377 (1608)). Notable among Professor Kettner’s 
+findings are the early abandonment in England of the strictest view 
+of subjectship as reflected originally by Lord Coke in Calvin's Case, 
+and relaxed in the writings of John Locke. See Kettner, supra, at 53- 
+61. He explains in great detail the historical basis for the plain 
+conclusion that the medieval English view was inapposite to life in 
+the colonies. /d. at 153-71. - 
+
+
+11 
+
+
+country. Our American plantations are principally 
+of this latter sort, being obtained in the last century 
+either by right of conquest and driving out the 
+natives, with what natural justice I shall not 
+at present inquire, or by treaties. And therefore 
+the common law of England, as such, has no 
+allowance or authority there; they being no part 
+of the mother country, but distinct, though 
+dependent, dominions. They are subject, however, 
+to the control of parliament; though, like Ireland, 
+Man, and the rest, not bound by any acts of 
+parliament, unless particularly named. 
+
+
+1 William Blackstone, Commentaries on the Laws of England 
+123-24 (1813 ed.) (emphasis added). It was clear, therefore, 
+that these distant colonies simply were not a component part 
+of the United Kingdom. In the view of the Americans, the 
+land and its products, and by extension the people who lived 
+there, were treated by England as part of its property, but not 
+its polity. 
+
+
+The actual conflict between the English view of 
+allegiance and the American view was joined in the 
+Revolution. The English common law view of perpetual 
+allegiance was starkly at odds with the American view of 
+volitional allegiance, which held instead that the King had 
+an *ffirmative obligation to provide protection, and that if 
+the King violated his obligation, then his people would no 
+longer owe him allegiance. The dichotomy between the 
+medieval English and the modern (Revolutionary-era) 
+American views has been summarized by the leading scholar 
+of the historical development of American citizenship: 
+
+
+The central purpose of American polemicists and 
+pamphleteers in the years before independence 
+
+
+12 
+
+
+was to defend the rights of the colonial communities 
+against the encroaching power of the imperial 
+authorities in London. As colonial spokesmen 
+developed their arguments they steadily moved away 
+from the traditional ideas of allegiance that still 
+permeated British legal and constitutional thought. 
+By 1776 American theorists had rejected the concept 
+that the colonists were perpetually bound by their 
+subjectship. Philosophy, law, and common sense had 
+convinced them that subjects owed obedience only 
+in return for protection of their fundamental rights. 
+Allegiance was contractual, and contracts could be 
+broken or annulled. 
+
+
+James H. Kettner, The Development of American Citizenship, 
+1608-1870 at 173 (1978). 
+
+
+There are numerous examples, especially in the early 
+reported cases involving pleas in abatement, of the changing 
+American view. See, e.g., Inglis v. Trustees of the Sailor's Snug 
+Harbour, 28 U.S. (3 Pet.) 99, 156-64 (1830) (Story, J., 
+concurring in part and dissenting in part); M ‘Jlvaine v. Coxe’ 
+Lessee, 8 U.S. (4 Cranch) 209, 211 (1808) (Mem.). Indeed, /nglis 
+is especially apposite, for the United States relies upon the case 
+for its citation to the traditional definition of subjectship, while 
+omitting Justice Story’s extensive discussion of how the concept 
+has changed since the traditional view was expressed.’ See Inglis 
+v. Trustees of the Sailor's Snug Harbour, 28 U.S. (3 Pet.) at 
+156-57. 
+
+
+9. There is clear documentary evidence of the break in political 
+theory in the Declaration of Independence. The litany of offenses 
+that the Continental Congress set forth constituted the reasons why 
+the King no longer protected the colonies. The conclusion marked 
+the assertion that allegiance was not perpetual: “these United Colonies 
+are ... Absolved from all Allegiance to the British Crown. .. .” 
+
+
+13 
+
+
+The scant documentary record relied upon by Petitioner in 
+support of its English common law medieval view reflects the 
+wholesale absence of any discussion at all of the critical 
+distinctions between different classes of foreigners. Those 
+distinctions are important because they support the notion that 
+“aliens” and “foreign citizens and subjects” would not always 
+be synonymous. Petitioner’s argument is that the dearth of 
+discussion and the seemingly interchangeable use of the terms 
+“aliens” and “foreigners” reflects a conscious decision on the 
+part of Congress and the delegates to the Constitutional 
+Convention to extend diversity jurisdiction to everyone born in 
+a foreign land. (Petitioner Br. at 13). That argument, though, is 
+a weak one because it fails to account for the questions that 
+permeated the minds of the colonial lawyers who learned the 
+English common law, including whether subjects could shed 
+their allegiance and associate to form a new government. The 
+mechanism that the Constitutional Convention chose allowed 
+the jurisdiction of federal courts to adapt to the then-evolving 
+notions of citizenship. Subsequent political developments 
+abroad made the wisdom of that choice apparent.'° 
+
+
+2. The Judiciary Act of 1789 Extended Alienage 
+Jurisdiction to Its Constitutional Limit. 
+
+
+When Congress inserted the word “alien” into four separate 
+sections of the Judiciary Act of 1789, ch. 20, §§ 9, 11, 12, 13, 1 
+Stat. 78, it did so knowing that (at that time) all aliens were 
+either foreign subjects or citizens.'' It does not follow, however, 
+
+
+10. One immediate application of the theory of volitional 
+allegiance justified the French Revolution of 1789. 
+
+
+11. There is no dispute as to the reasons why the Constitution 
+includes a provision authorizing the Congress to create federal courts 
+(Cont’d) 
+
+
+14 
+
+
+that either the Constitutional Convention or the First 
+Congress decided that foreign citizens and subjects would 
+always exhaust the class the aliens, nor that all aliens needed 
+perpetual access to the federal! courts in order to promote the 
+nation’s policies. 
+
+
+Petitioner appears to attribute, without any support 
+whatsoever, the choice of words to mere happenstance. 
+(Petitioner Br. at 13). While the documentary records of the 
+deliberations leading to the Judiciary Act of 1789 are cryptic 
+and incomplete,'? there are nevertheless some clues that 
+
+
+(Cont’d) 
+with jurisdiction over suits between United States citizens and 
+“foreign ... Citizens or Subjects”. The foreign entanglements 
+
+
+justification and the commerce justification are old and familiar. 
+In this regard, both Petitioner and amicus United States rely on 
+Hamilton’s writing in the Federalist No. 80 to support the idea. 
+(Petitioner Br. at 11; US Amicus Br. at 14). A critical reading of the 
+last sentence of that passage, though, reveals that it is an argument 
+for exclusive federal jurisdiction over claims by and against foreigners 
+involving a federal question and is therefore better suited to a case 
+arising under 28 U.S.C. § 1331 than under 28 U.S.C. § 1332(a). See The 
+Federalist No. 80 (Alexander Hamilton) (Clinton Rossiter ed., 1961). 
+
+
+12. Since there is no verbatim transcript of the Senate’s 
+proceedings of that era, and the reports of the House proceedings 
+are both unofficial and spotty (see 1 Annals of Congress 922 (Joseph 
+Gales ed., 1834) (reporting “some time being spent” on the Judiciary 
+bill without reporting the substance of the debate)), it is quite difficult 
+to infer precisely what the intention of the legislature was in this 
+case where no record was ever kept. Charles Warren’s seminal article 
+on the Judiciary Act’s history was based on archival materials that 
+he had found in the attic and basement of the Capitol, as well as in 
+newspapers of 1789, but his article offers no insight into the reasons 
+for the choice of words describing alienage diversity jurisdiction that 
+
+(Cont'd) 
+
+
+15 
+
+
+members knew that the definitions of the day were fluid. 
+For example, one supporter of the Judiciary Act argued that 
+
+
+[hje wished ... to see justice so equally 
+distributed, as that every citizen of the United 
+States should be fairly dealt by, and so impartially 
+administered, that every subject or citizen of the 
+world, whether foreigner or alien, friend or foe, 
+should be alike satisfied; by this means, the doors 
+of justice would be thrown wide open, emigration 
+would be encouraged from all countries into your 
+own, and, in short, the United States of America 
+would be made not only an asylum of liberty, but 
+a sanctuary of Justice. 
+
+
+1 Annals of Congress 853 (Joseph Gales ed., 1834) (remarks 
+of Rep. Vining) (emphasis added). His comments evidence 
+an understanding that there was a difference between the term 
+“foreigner” and that of “alien”, and further that the terms 
+“citizen” and “subject” themselves had separate meaning. 
+Another representative asked whether the jurisdiction over 
+alienage diversity claims ought to be expanded and made 
+exclusive, stating that 
+
+
+[i]f it is the right of an alien or foreigner to sue or 
+be sued only in the courts of the United States, 
+then they have a right to that jurisdiction complete, 
+
+
+(Cont'd) 
+
+Congress made in section 11. Charles Warren, New Light on the 
+History of the Federal Judiciary Act of 1789, 37 Harv. L. Rev. 49 
+(1923). Either Professor Warren could not find anything on the subject 
+in the hodgepodge of materials to which he had access, or he found 
+it and decided that it was not significant enough to include in his 
+article. 
+
+
+16 
+
+
+and then Congress must institute courts for taking 
+exclusive cognizance of all cases pointed out in 
+the constitution; but this would be contrary to the 
+principle of the bill, which proposes to establish 
+the inferior courts with concurrent jurisdiction 
+with the State courts. 
+
+
+1 Annals of Congress 841 (Joseph Gales ed., 1834) (remarks 
+of Rep. Stone). 
+
+
+Shortly after the Judiciary Act wes enacted, the House 
+of Representatives delegated to the Attorney General the task 
+of reporting on the judiciary system and to propose a plan of 
+revisions. Among the revisions proposed was to eliminate 
+the reference to “aliens” and adopt the constitutional language 
+of “foreign ... citizens, or subjects.” 37 American State 
+Papers Miscellaneous 29. He viewed the needed revisions 
+as “merely temporary; because he trusts that the necessity of 
+a federal code is too striking to escape the attention of the 
+House.” /d. at 36. It cannot be argued, then, that the choice 
+of words was irrelevant. Instead, the choice had consequences 
+whose import was simply not felt immediately. 
+
+
+3. Congress’s Intention to Deny Alienage Diversity 
+Jurisdiction to Foreign Nationals Who Are Not 
+Foreign Citizens or Subjects Can Be Inferred 
+From a Parallel Domestic Policy. 
+
+
+There was nothing odd or incongruous in Congress’s 
+decision to divide prospectively foreigners into two classes, 
+only one of which would have access to the newly-created 
+federal courts. Congress did exactly the same thing with a 
+
+
+13. Unfortunately, though, the Congress did not address the 
+problem for another eighty-five years, when the Revised Statutes 
+were compiled. 
+
+
+17 
+
+
+large class of domestic residents, excluding them from the 
+domestic diversity jurisdiction it created in the same section 
+11 of the Judiciary Act of 1789. 
+
+
+Residents of the District of Columbia were, from the 
+earliest times, held not to be citizens of a “State” and therefore 
+not amenable to diversity jurisdiction. Hepburn & Dundas 
+v. Ellzey, 6 U.S. (2 Cranch) 445, 452-53 (1805); Barney v. 
+Baltimore City, 73 U.S. 280, 287-88 (1867). Residents of 
+American territories were not citizens of a “State” and 
+therefore not amenable to diversity jurisdiction. Corp. of 
+New-Orleans v. Winter, 14 U.S. (1 Wheat.) 91, 94 (1816). 
+And, finally, Native Americans were not citizens of a State, 
+and therefore were not amenable to diversity jurisdiction. 
+
+
+See Iowa Mutual Ins. Co. v. LaPlante, 480 U.S. 9, 17-18 
+
+
+(1987) (dictum) (relying on Indians’ status as non-State 
+citizens nor citizens of foreign state under Cherokee Nation 
+v. Georgia, 5 Pet. 1, 15-18 (1831) and Elk v. Wilkins, 112 
+U.S. 94, 102-103 (1884)). Yet, notwithstanding the fact 
+that they were not State citizens (and, in the case of many 
+Native Americans and territorial residents, not United States 
+citizens either) each of these classes plainly was not foreign. 
+They each occupied a unique sphere, with rights below that 
+of an American citizen and above that of an alien. Congress 
+has long known the difference between what we would today 
+call “nationals” and its subset of “citizens”. 
+
+
+In response to each of the well-established limitations 
+on domestic diversity jurisdiction, the course of action was 
+exactly the same. After over a century of acquiescence in the 
+Court’s determinations, Congress decided to extend, by statute, 
+the jurisdiction of the federal courts in diversity cases 
+involving residents of the District of Columbia and of the 
+territories. See National Mut. Ins. Co. of District of Columbia 
+v. Tidewater Transfer Co., 337 U.S. 582 (1949) (plurality 
+
+
+18 
+
+
+opinion) (upholding constitutionality of statute creating 
+diversity jurisdiction over suits between District of Columbia 
+citizens and citizens of states). 
+
+
+Since Congress recognized the domestic difference 
+between its citizens and its nationals, and it permitted only 
+the former to have access to the new federal courts on the 
+ground of diversity of citizenship, what reason is there to 
+surmise that Congress created a broader right of access to 
+federal courts for non-citizen nationals of other countries 
+than it created for non-citizen nationals of our own country? 
+There is nothing in the legislative record to suggest that 
+Congress ever intended to draw such a distinction. A far more 
+reasonable construction would be to interpret the two 
+diversity provisions (alienage and domestic) in tandem with 
+one another, and infer that if Congress intended to exclude 
+non-citizen American nationals, then it intended the same 
+treatment for non-citizen foreign nationals as well.'* 
+
+
+Once again, the near-contemporaneous documentary 
+record supports the view that Congress took a consistent 
+approach, standing in stark opposition to the Petitioner’s 
+contention. In 1805, a group of British merchants petitioned 
+the Congress to eliminate the “amount in controversy” limit 
+on alienage diversity actions. The committee to which the 
+petition was referred issued a negative report. It noted first 
+that there was no justification for treating foreign claims 
+differently from domestic claims (“Every consideration, 
+opposed to such a measure in relation to the former 
+
+
+14. Strictly speaking, the distinction was drawn by this Court, 
+and Congress acquiesced in the Court’s determination. Residents of 
+the District of Columbia and United States territories did not gain 
+access to federal courts for diversity suits until 1940. Act of April 
+20, 1940, c. 117, 54 Stat. 143. 
+
+
+19 
+
+
+[domestic] cases, must resist the idea with at least equal force, 
+when applied to the cases last mentioned [regarding aliens}.”’) 
+37 American State Papers Miscellaneous 420. It noted second 
+that it would convey to foreigners a superior right to that 
+enjoyed by domestic litigants, which would disfavor domestic 
+litigants. 
+
+
+To grant the prayer of the petitioners merely 
+on this ground of complaint, would be to 
+oppress a considerable number of citizens, for the 
+accommodation of a much smaller number who 
+are not citizens. A principle which would justify 
+this step is a sort of principle totally inadmissible 
+by this committee as a rule by which to decide on 
+what is just and proper. 
+
+
+Id. 
+
+
+Congress declined the invitation of the British merchants 
+to give them greater access to the federal courts in diversity 
+actions than it afforded to American citizens. In light of that 
+action, it defies logic to assume that Congress nevertheless 
+decided silently to grant the residents of Britain’s colonial 
+territories greater access to the federal courts in diversity 
+actions than it afforded to the residents of the United States’ 
+territories. 
+
+
+B. Congress’s Subsequent Enactment of the Alien 
+Enemies Act Confirms Its Intention To Maintain A 
+Class Distinction In The Judiciary Act. 
+
+
+A scant nine years after the adoption of the Judiciary 
+Act, Congress again addressed the problem of classifying 
+foreigners. It did so in a way that rebuts the Petitioner’s 
+
+
+20 
+
+
+contention in this case because its choice of words 
+demonstrates that it knew how to denominate foreign 
+nationals who were neither foreign citizens nor foreign 
+subjects. 
+
+
+Congress needed to group all foreign nationals together 
+in order to promote a domestic policy in the Republic’s early 
+history when it enacted the Alien Enemies Act in 1798. 
+In that statute, Congress identified the relevant enemy as 
+“foreign nation or government” and then identified four 
+classes of males over the age of fourteen who could (in the 
+event of a Presidential proclamation) be “apprehended, 
+restrained, secured and removed, as alien enemies.” They 
+were “natives, citizens, denizens or subjects of the hostile 
+nation or government.” Alien Enemies Act, ch. 66, § 1, 
+1 Stat. 577 (1798). Congress provided further that such aliens 
+(using the description of “natives, citizens, denizens or 
+subjects”) who were not charged with “actual hostility, or 
+other crime against the public safety” would be permitted 
+time to accumulate their property and leave the country, in 
+accordance either with a treaty or (in the absence of a treaty) 
+“according to the dictates of humanity and national 
+hospitality.” Jd. That distinction continues to this day, having 
+been substantially re-enacted in the Revised Statutes, 
+R.S. § 4067, amended to exclude enemy females as well as 
+males in 1918 (Act of April 16, 1918, c. 55, 40 Stat. 531), 
+and is now codified at 50 U.S.C. § 21." 
+
+
+15. The Alien Enemy Act has been relatively uncontroversial, 
+in distinction with the Alien Act adopted less than two weeks earlier. 
+Compare Ludecke v. Watkins, 335 U.S. 160, 162 (1948) (Alien Enemy 
+Act has been re-enacted without substantial change) with Johnson 
+v. Eisentrager, 339 U.S. 763, 774 n.6 (1950) (Alien Act faced 
+substantial opposition). 
+
+
+21 
+
+
+Congress’s designation of subclasses of foreign nationals 
+was important both in its description of the domestic view 
+of foreigners and in its recognition of the United States’ treaty 
+obligations. By conceding that the United States would abide 
+by its treaty obligations with respect to non-hostile foreign 
+“natives, citizens, denizens or subjects”, Congress recognized 
+that our treaty obligations might distinguish between and 
+among those subclasses, and that foreign nations might wish 
+(for their own purposes) to distinguish among those 
+subclasses. In fact, treaties of that era did distinguish between 
+the property rights of combatants and non-combatants. 
+See, e.g., Treaty of Friendship (Pinckney’s Treaty), Oct. 27, 
+1795, U.S. Spain, art XIII, 8 Stat. 138; Convention between 
+the French Republic and the United States of America, Sept. 
+30, 1800, art. VIII, 8 Stat. 178; Treaty Of Peace, Friendship, 
+Limits, And Settlement Between The United States Of 
+America And The United Mexican States (Treaty of 
+Guadalupe Hidalgo), Feb. 2, 1848, art XXII(1), 9 Stat. 922. 
+
+
+Congress’s choice of words in the Alien Enemies Act 
+was especially important in that it reflected the new nation’s 
+collective view of the status of persons both under British 
+law and under the evolving American law. The medieval 
+English view — that the world was divided into subjects 
+and aliens, and that any person born within the King’s 
+dominions was a subject — found two bases for allegiance: 
+connection to the land and the ties of blood. Those who lacked 
+either were aliens, and they could become subjects through 
+either naturalization or denization. The American view was 
+more subtle, though, for it recognized that since denizens 
+had no inheritable blood, they should be accounted for 
+separately, and that natives whose tie was to the land rather 
+than to the person of the King might also have a different set 
+of incentives for loyalty. See generally Kettner, supra, at 173- 
+
+
+22 
+
+
+209 (tracing the history of the concept of volitional allegiance 
+through development of colonial and early state statutes and 
+cases.) 
+
+
+The consequence of the American view of British status 
+is that it recognizes the inherent class distinctions in foreign 
+countries’ treatment of their nationals, and then applies those 
+distinctions in interpreting domestic law. The distinction is 
+both important and not accidental. In United States ex rel. 
+Schwarzkopf v. Uhl, 137 F.2d 898 (2d Cir. 1943), for example, 
+the issue was whether the United States could deport, as a 
+German citizen, an Austrian Jew living in the United States 
+solely by virtue of the fact that the United States’ enemy, 
+Germany, had annexed Austria and therefore claimed 
+Austrians as its citizens.'® By relying upon the subclass 
+distinctions set forth in the statute, the court ignored the label 
+applied to the prospective deportee in that case and therefore 
+advanced a domestic interest in preserving human rights 
+against a genocidalregime. 
+
+
+C. Subsequent Revisions of the Diversity Statute Have 
+Emphasized The Distinctions Between Foreign 
+Nationals and Foreign Citizens or Subjects. 
+
+
+Petitioner’s search for support in the sequence of 
+amendments to the Judiciary Act of 1789 is fruitless, for the 
+record actually undercuts the Petitioner’s claim. (Petitioner 
+Br. at 14). Petitioner’s argument is that Congress intended 
+
+
+16. The Second Circuit observed that the term “natives” means 
+those who were born on the soil of the foreign enemy. 137 F.2d at 
+903 n.3. That definition therefore permits detention of those who 
+might have a natural affinity for the enemy by virtue of their 
+connection tu the land, even if they were not citizens, subjects or 
+denizens. 
+
+
+23 
+
+
+no substantive change when it removed the word “aliens” 
+from the statute, and that the Court should therefore fashion 
+a rule extending diversity jurisdiction to a!l aliens, despite 
+the plain language of both the Constitution and 28 U.S.C. 
+§ 1332(a)(2). 
+
+
+The slim reed of legislative history does not support the 
+weight of the Petitioner’s argument. There is no mention of 
+any reason for the change in language in any of the legislative 
+debates of the day. Yet, there is nothing remarkable in this 
+dearth of legislative history because the provision at issue 
+affected only the modest number of colonial residents. 
+It would not likely be the subject of debate in Congress when 
+more important matters (such as the revision and compilation 
+of the entire existing body of American statutes) needed to 
+be discussed. Nevertheless, when the Revised Statutes were 
+adopted the Congress did substitute the narrower “foreign 
+citizens or subjects” language for the broader “aliens” 
+language, just as the Attorney General had suggested some 
+eighty-three years earlier. 
+
+
+Petitioner dismisses the significance of the amendment 
+by suggesting that Congress was addressing a different 
+problem: to clarify that federal courts lack jurisdiction over 
+suits between aliens. (Petitioner Br. at 14). That argument 
+makes little sense, for there was no confusion on the point 
+in 1873. The issue had been settled seventy-five years earlier, 
+in Mossman v. Higgninson, 4 U.S. (4 Dall.) 12 (1800). 
+One might expect that if Congress had taken the time to 
+codify a rule attendant to diversity jurisdiction, then the 
+natural choice would have been the complete diversity rule 
+of Strawbridge v. Curtiss, 7 U.S. (3 Cranch) 267 (1806). 
+We should be entitled to take Congress at its word, and 
+
+
+24 
+
+
+therefore assume that changing the language to conform to 
+the constitution was designed to have a real effect.'’ 
+
+
+D. The Historical Record Makes Clear That The Second 
+Circuit Acted Properly. 
+
+
+It is indeed surprising to see Petitioner suggest that the 
+Second Circuit’s course of decisions beginning with Matimak 
+Trading Co. v. Khalily, 118 F.3d 76 (2d Cir. 1997) represented 
+a departure from over two centuries of jurisprudence. 
+(Petitioner Br. at 15). The argument suggests that the Second 
+Circuit somehow disturbed a long-standing line of cases in 
+which the residents of British colonies had routinely sued 
+and been sued in federal courts on the basis of alienage 
+diversity jurisdiction. Nothing could be further from the truth. 
+
+
+If the law were as Petitioner suggests it should be, then 
+one would expect that 213 years of reported federal decisions 
+would include a wealth of cases involving alienage diversity 
+jurisdiction over colonial residents. Such a search would be 
+futile, although there are many cases reported in the state 
+courts where alienage is offered as a plea in abatement. 
+See, e.g., Scanlan v. Wright, 30 Mass. 523 (1833); Coxe v. 
+Gulick, 10 N.J.L. 328 (1829); Clarke v. Morey, 10 Johns R. 
+70 (N.Y. 1813). The reality is that either colonial residents 
+have sued and been sued in state courts of general jurisdiction, 
+where subject matter jurisdiction is not generally subject to 
+question, that the cases have not been removed to federal 
+courts, or that the problem is truly insignificant. 
+
+
+17. In this instance, where Congress changed the language to 
+that contained in the Constitution, the change would appear to be 
+immune from the charge of error or surplusage. See United States v. 
+Auffmordt, 122 U.S. 197, 210 (1887) (1875 revision corrected errors 
+and omissions in the 1873 Revised Statutes). 
+
+
+25 
+
+
+UNITED KINGDOM LAW CREATES A DISTINCTION 
+
+BETWEEN ITS NATIONALS AND ITS CITIZENS 
+
+WHICH IS DISPOSITIVE FOR PURPOSES OF 
+DETERMINING ALIENAGE DIVERSITY 
+
+
+The law of the United Kingdom today marks a clear 
+distinction between “nationals”, on the one hand, and 
+“citizens” or “subjects” on the other.'* Petitioner asks this 
+Court to ignore the plain language of the United Kingdom’s 
+statute (the British Nationality Act 1981), to ignore the reason 
+behind that statute, and instead to expand the jurisdiction of 
+federal courts beyond that intended by Congress. There is 
+no basis for granting Petitioner’s request. 
+
+
+The Petitioner’s argument is that the United Kingdom 
+of Great Britain and Northern Ireland today has a group of 
+persons (both natural and juridical) under its “protection” 
+beyond the British Isles, that these persons are United 
+Kingdom “nationals” and that these persons should therefore 
+be deemed “citizens or subjects” for purposes of the diversity 
+alienage statute.'? (Petitioner Br. at 20-24). That argument 
+in turn relies upon the analysis of United Kingdom law 
+
+
+18. Indeed, the evolution of the United Kingdom's treatment 
+of its colonial residents makes clear that the colonial residents have 
+lost any claim they may have once had to proceed as parties in federal 
+courts under alienage diversity. 
+
+
+19. A British Protected Person cannot in any sense be deemed 
+a subject because that status belongs to those “people who had placed 
+themselves under the protection of the British Crown, without 
+becoming the subject of the Sovereign.” Ian A. MacDonald & 
+Nicholas J. Blake, MacDonald’s Immigration Law and Practice in 
+the United Kingdom 107 (3d ed. 1991). 
+
+
+26 
+
+
+offered in the amicus brief of the United Kingdom. 
+(UK Amicus Br. at 9-30).*° Even accepting the United 
+Kingdom’s own interpretation of its law, though, the 
+argument does not support the conclusion. 
+
+
+First, as to natural persons, the term “United Kingdom 
+national” includes the two groups who are amenable to 
+28 U.S.C. § 1332(a)(2): “British citizens” and “British 
+subjects under Part IV of the [British Nationality Act of 
+1981]}”. (Lodging at L-31).”’ But the term also includes four 
+groups of United Kingdom nationals who do not fall within 
+the statute’s reach: British Dependent Territories citizens, 
+British Nationals (Overseas), British Overseas citizens and 
+British protected persons. /d. British Dependent Territories 
+Citizenship (which is applicable to the British Virgin Islands) 
+is, under the statute, entirely separate from British 
+Citizenship. British Nationality Act 1981, cl. 15-25. 
+
+
+Second, corporations were never entitled to citizenship 
+or subjectship, so they fell under the broader term of “United 
+Kingdom nationals.” /d.; see Clive Parry, British Nationality 
+5 (1951). Under that doctrine, there could and should be no 
+alienage diversity jurisdiction over suits by and against 
+corporations chartered in one of the British Dependent 
+Territories because the assumptions underlying the fiction 
+of domestic diversity jurisdiction for corporations are 
+inapposite. The domestic theory, espoused in Louisville C. 
+& C.R. Co. v. Letson, 43 U.S. (2 How.) 497, 553-55 (1844) 
+
+
+20. References to “UK Amicus Br. __” are to pages in the Brief 
+of the Government of the United Kingdom of Great Britain and 
+Northern Ireland as Amicus Curiae in Support of Petitioner. 
+
+
+21. References to “Lodging __” are to pages in the Lodging 
+submitted jointly to the Supreme Court by the parties. 
+
+
+27 
+
+
+(Mem.), is that shareholders opt to charter their corporation 
+in a state to take advantage of the laws of that state, and it ~ 
+should therefore be presumed conclusively that all of the 
+corporation’s shareholders are citizens of that chosen state. 
+Applying that same presumption to a corporation chartered 
+in a British Dependent Territory means that the shareholders 
+(regardless of where they actually resided) opted to 
+incorporate in a jurisdiction whose people were not citizens 
+of the United Kingdom. The conclusive presumption should 
+therefore be that the corporation is not a United Kingdom 
+citizen, but merely a national, just like its people. 
+
+
+We therefore need look no further than the British statute. 
+The United Kingdom has decided under the British 
+Nationality Act 1981 that certain of its people are neither 
+citizens nor subjects, but instead fall into a class called 
+“nationals” whom it protects and for whom it is 
+internationally responsible. Under the plain language of the 
+British statute, Petitioner’s argument fails. 
+
+
+If the plain language of the British law were not 
+compelling enough, then the evolution of that law provides 
+irrefutable proof that the United Kingdom has, over time, 
+reduced the status of its colonial residents to the point where 
+they no longer are amenable to diversity jurisdiction. 
+The United Kingdom has made clear in its amicus brief that 
+it maintains today a set of internal distinctions between its 
+nationals, just as it did over two centuries ago, but that the 
+residents of its colonies are no longer citizens or subjects, 
+even if they once had that status. 
+
+
+Before 1983, all Commonwealth Citizens were also 
+British subjects. The British Nationality Act 1948 had created 
+a status known as “British subject without citizenship”, so 
+that British subjects could be either citizens or non-citizens. 
+See Immigration & Nationality Directorate, BN3: Information 
+
+
+28 
+
+
+About British Subject Status <http://www.ind.homeoffice. 
+gov.uk/default.asp?Pageld=147>. Under the 1948 statute, all 
+Commonwealth Citizens (including the residents of colonies) 
+would have been subject to alienage diversity jurisdiction 
+because they were subjects, even though they lacked 
+citizenship and therefore had no right of abode in the 
+United Kingdom. Ian A. MacDonald & Nicholas J. Blake, 
+MacDonald’s Immigration Law and Practice in the United 
+Kingdom 107 (3d ed. 1991). The British Nationality Act 1981 
+changed the legal landscape. It eliminated the general status 
+of “British subject” and applied it instead to a limited class 
+of persons, and also created new classes who were neither 
+subjects nor citizens. Such is the status of Respondent. 
+As explained in a leading treatise on British nationality law, 
+
+
+The purpose of dividing up CUKCs [Citizens of 
+the United Kingdom and Colonies in the British 
+Nationality Act 1981] into what are in fact quite 
+complicated sub-divisions is all to do with 
+immigration and the attempt to create a British 
+citizenship which automatically gives the right of 
+abode in the UK. This, however, has only been 
+achieved by separating off into different 
+citizenships those former CUKCs who were not 
+partial under the Immigration Act 1971. 
+
+
+On paper the category of British Dependent 
+Territories citizen sounds like the creation of a 
+new national unit parallel to that represented by 
+British citizens. It is not. There is no common 
+travel area matching what appears to be acommon 
+citizenship. Whereas British citizens have more 
+
+
+29 
+
+
+or less free access to come and go to the UK, the 
+1981 Act gives no such right to British Dependent 
+Territory citizens in Dependent Territory. 
+
+
+Id. 
+
+
+The United Kingdom’s argument that it stands poised, in 
+the near future, to change the status of colonial residents yet 
+again to full citizens only lends weight to the argument that 
+there is no alienage diversity jurisdiction over Petitioner’s claims 
+today. (UK Amicus Br. at 28). It also establishes that the United 
+Kingdom, by its unilateral legislative act, can create a right of 
+access to federal courts in the future.” 
+
+
+22. After the Petitioner’s brief and the amici briefs were served, 
+the bill to which it appears the United Kingdom refers indeed received 
+the Royal Assent. The new law, entitled the British Overseas Territories 
+Act 2002 makes it clear that, in the future, the United Kingdom will 
+offer British citizenship to the current British Dependent Territories 
+citizens. However, the day for that offer has not arrived, as the new law 
+only becomes effective once the Secretary of State for the Foreign 
+and Commonwealth Affairs declares a date of commencement. 
+British Overseas Territories Act 2002, cl. 8(2) (available at <http:// 
+www. .legislation.hmso. gov.uk/acts/acts2002/20020008.htm>). That date 
+may not come soon, for it will only come about “once [Her Majesty’s 
+Government] are satisfied that the practicalities for implementation of 
+the citizenship provisions are in place. For instance, we need to ensure 
+that arrangements for passport issue are agreed and that the staff who 
+will deal with passport and nationality questions are properly trained.” 
+375 Parl. Deb., H.C. (5th ser.) 478-80 (2001) (remarks of Parliamentary 
+Under-Secretary Of State For Foreign & Commonwealth Affairs Ben 
+Bradshaw) <http://www.publications.parliament.uk/pa/cm200102/ 
+cmhansrd/cm011122/debtext/11122-10.htm>). Thus, the law is neither 
+self-executing, nor does it mean that every British Virgin Islands citizen 
+is automatically a citizen of the United Kingdom. Once the law 
+commences, future diversity cases will need to be decided on a case-by- 
+case basis, depending on whether the alien party has decided whether to 
+accept or to renounce British citizenship. /d. 
+
+
+30 
+
+
+The United Kingdom further concedes that its citizenship 
+statutes do not apply to corporations. (UK Amicus Br. at 12- 
+13). Instead, that government refers again to the overall group 
+of “nationals” and seeks to apply the law of nationality, rather 
+than the law of citizenship or subjectship. For purposes of 
+determining whether diversity exists, the fact that a British 
+Virgin Islands corporation is a “United Kingdom national” 
+(just as an English corporation would be a United Kingdom 
+national) is merely the first step in the inquiry. If there were 
+any analogy to the proceedings in the case of domestic 
+corporations (and there is not, as explained in this Point 
+above), then the next step would be to apply the conclusive 
+presumption, contained in 28 U.S.C. § 1332(c)(1), that a 
+corporation is deemed a citizen both of the jurisdiction of its 
+place of incorporation and of its principal place of business. 
+Under that rule, then, Respondent is deemed to be a “British 
+Dependent Territories citizen” and would not be a British 
+citizen for purposes of alienage diversity jurisdiction. 
+
+
+Finally, the second class status of United Kingdom 
+colonials is amply shown by reference to the examples that 
+the United Kingdom itself has offered to this Court. Each of 
+the examples of a bilateral treaty cited by the United Kingdom 
+is an instance in which the treaty would have been 
+inapplicable to the colony at issue had the obligation merely 
+been one between the United Kingdom and the United States. 
+Instead, when the United States seeks to bind one of the 
+United Kingdom colonies, it must negotiate with the United 
+Kingdom for a separate agreement extending the treaty to 
+the colony in question. One such example is the Treaty 
+Concerning the Cayman Islands and Mutual Legal Assistance 
+in Criminal Matters, July 3, 1986, U.S.-U.K., 26 LL.M. 536 
+(1987). Treaties offer a mechanism whereby, through bilateral 
+action, the United Kingdom can assure its coionial residents 
+
+
+31 
+
+
+access to the federal courts. There is no need to rewrite the 
+alienage diversity statute by overruling the Second Circuit. 
+
+
+In sum, there is nothing novel or surprising about 
+the need or desire of nations to decide who among 
+their number “have the rights and privileges of citizenship”, 
+see Schwarzkopf, 137 F.2d at 903, and those who do not. 
+The choices that those nations make, though, have 
+consequences for the treatment of those persons under the 
+statutes and treaties of the United States. In the case of the 
+United Kingdom, its choices lead inexorably to the 
+conclusion that its nationals who are neither British citizens 
+nor subjects simply do not have access to the federal courts 
+on the basis of alienage diversity jurisdiction.” 
+
+
+THE POLICIES THAT LED CONGRESS TO CREATE 
+ALIENAGE DIVERSITY JURISDICTION ARE NOT 
+THWARTED BY A RULE REQUIRING COLONIAL 
+RESIDENTS TO SUE AND BE SUED IN STATE COURTS 
+
+
+A. Domestic Policies Are Advanced By The Second 
+Circuit’s Rule. 
+
+
+The two policies identified by Petitioner as underlying 
+diversity jurisdiction and alienage diversity jurisdiction are 
+not implicated at all by this case. (Petitioner Br. at 25, 31). 
+
+
+23. We have no quarrel here with the idea that there would be 
+jurisdiction over a suit against any foreign national (assuming 
+personal jurisdiction exists) involving a federal question under 
+28 U.S.C. § 1331. That issue is not presented in this case. 
+
+
+32 
+
+
+First, with respect to policy of preventing bias by 
+domestic courts against foreigners, the argument is simply 
+irrelevant. That policy is designed to protect the foreigner 
+against the possible bias that the foreigner might suffer if 
+forced to litigate in a state court. That is not an issue here 
+because Petitioner, a New York corporation with its principal 
+place of business in New York, is the party that opted for a 
+federal forum. Respondent was the foreign defendant, so it 
+would be the only party with cause to complain of anti- 
+foreigner bias. Petitioner simply has no basis to invoke a 
+claim of bias that Respondent does not advance.” Petitioner 
+ignored the option of suing Respondent in Petitioner’s home 
+court and in the courts of the British Virgin Islands, opting 
+
+
+24. The policy argument of home-court bias would only be 
+persuasive (if at all) in a case where a foreign plaintiff sued a domestic 
+defendant in the defendant’s home state. Such is not the case here. 
+The bias argument is even weaker in the case of alienage diversity 
+jurisdiction than it is in the case of domestic diversity jurisdiction 
+because under alienage diversity jurisdiction the foreign party litigates 
+in a United States courtroom against a domestic party. The argument 
+of national bias (as opposed to home state bias) would apply with 
+equal force regardless of whether the United States court were state 
+or federal. Even if the Framers might have been thinking of a bias 
+problem with respect to foreigners, then, their concern was plainly 
+unfounded. A far more persuasive argument — which holds no vitality 
+today — is that the newly-established federal courts could be relied 
+upon to decide a critical subclass of cases (those concerning the 
+collection of pre-Revolution debts owed to British loyalists) in favor 
+of the foreigners, while state courts had demonstrated that they could 
+not be relied upon to do so. Thus, two critical aspect of the 1783 
+Treaty of Paris (Article 4, relating to the recovery of bona fide debts, 
+and Article 5, relating to restitution of property) depended for their 
+success upon the availability of a forum to resolve legal issues. 
+Indeed, Article 5 draws precisely the distinction at issue here, 
+elevating the interests of “real British subjects” over those of “persons 
+resident in districts in the possession on his Majesty's arms.” 
+
+
+33 
+
+
+inexplicably to proceed in federal court despite plain Second 
+Circuit authority that there was no subject matter jurisdiction. 
+
+
+Second, with respect to the policy of promoting the 
+development of foreign commerce, the argument is inapposite 
+because Britain, like every other colonial power, maintained 
+a degree of exclusivity over trade with its colonies, taking 
+them out of the usual stream of foreign commerce. (Petitioner 
+Br. at 31). During the Revolution, for example, Congress 
+included the West Indies colonies in their effort to restrain 
+the trade in British goods. See, e.g., 3 Journals of the 
+Continental Congress 1774-1789 at 475-80 (GP.O. 1905). 
+After the War of 1812, the United Kingdom’s act of closing 
+its West Indies colonies to American trade vessels constituted 
+a bitter point of contention between the two nations. 
+See, e.g., 5 American State Papers Foreign Relations 2-11, 12- 
+13, 81-90, 226-240, 510; 6 American State Papers Foreign 
+Relations 294-95, 963-85. 
+
+
+The Second Circuit’s decision in Matimak Trading Co. 
+v. Khalily, 118 F.3d 76 (2d Cir. 1997) did nothing whatsoever 
+to undercut the policies associated with alienage diversity 
+jurisdiction. The Second Circuit’s rule was a practical one. 
+As an initial matter, the complaint itself must assert 
+a basis for the exercise of subject matter jurisdiction. 
+In Matimak Trading, as in this case, the plaintiff charged 
+that the defendant was a citizen of something that, by any 
+account, is not a “foreign State”. Hong Kong was not a foreign 
+state in 1996, nor is the British Virgin Islands a foreign state 
+today. Cf. Stuart v. City of Easton, 156 U.S. 46 (1895) (Mem.) 
+(dismissing, as insufficient to invoke alienage diversity 
+jurisdiction, a complaint alleging that the defendant was a 
+“citizen of London, England”). 
+
+
+34 
+
+
+If there is to be any quarrel at all with the Second Circuit's 
+opinion in Matimak Trading, it is surely one of style rather 
+than substance. When it characterized the corporate and 
+natural residents of the British Virgin Islands as “stateless”, 
+and thereby not entitled to invoke alienage diversity 
+jurisdiction, it mischaracterized their status. Those persons 
+are under the paternalistic protection of a state (the United 
+Kingdom), but their state does not extend to them the full 
+measure of rights of a citizen or subject. Since their rights 
+are derivative of the British Crown, and dispensed by the 
+Crown as a matter of grace, they are not automatically entitled 
+to invoke the jurisdiction of federal courts, and they are 
+instead required to have their claims heard in any of the fifty 
+state courts with jurisdiction over both the person and the 
+subject matter. The Court’s conclusion, though — that the 
+residents of Hong Kong occupied a nether region that simply 
+did not rise to the level of being a “citizen” or “subject” — 
+was exactly correct. It was in accord with principles of this 
+nation’s jurisprudence that stretch back to the earliest times. 
+
+
+Far from creating a category of statelessness which would 
+(in Petitioner’s words) “have been incomprehensible to the 
+Framers” (Petitioner Br. at 14), the Second Circuit gave voice 
+to a status with which the Framers were intimately familiar: 
+colonial government in which political, economic and 
+diplomatic power is wielded from afar, and a corresponding 
+inability of the colonists to treaty with other nations for 
+reciprocal advantage in trade and access to courts. The fact 
+that the Framers had managed to fight for and win their own 
+freedom did not change in any way the status of those West 
+Indies colonists who chose not to fight the Crown, nor did it 
+
+
+35 
+
+
+change the political reality that only the Crown could treaty 
+on behalf of its West Indies colonists.” 
+
+
+There is an additional set of policy implications to the 
+alienage diversity rule that are promoted by a rule excluding 
+foreign nationals who are neither citizens nor subjects. 
+
+
+First, the policy encourages immigration to the United 
+States. The difference between American and British 
+immigration policy was a consideration in the Congress that 
+drafted the Alien Enemies Act. Albert Gallatin, who was a 
+both a delegate to the Constitutional Convention and a 
+Representative from Pennsylvania in the Fifth Congress, 
+noted in his criticism of the bill that one of the Colonies’ 
+complaints against the King as expressed in the Declaration 
+vf Independence was that Britain had endeavored to suppress 
+the population of the colonies, prevented foreigners from 
+being naturalized and discouraged foreign migration to the 
+American Colonies. 5 Annals of Congress 1983 (1798). 
+
+
+25. Certainly with respect to the West Indies colonies, the 
+Framers’ experience was both unpleasant and different from the 
+experience with the settlement colony in Canada. Our Continental 
+Congress courted the favor of the Canadian colonists while pushing 
+away those in the West Indies. See 2 Journals of the Continental 
+Congress 1774-1789 at 68-70 (GP.O. 1905) (entreating Canadians 
+to resist British overtures and warning of risk of West Indies conflict). 
+The Articles of Confederation therefore drew a plain distinction 
+between the United States’ policy toward Canada and that toward 
+other colonies. Articles of Confederation, Art. XI (“Canada acceding 
+to this confederation, and adjoining in the measures of the United 
+States, shall be admitted into, and entitled to all the advantages of 
+this Union; but no other colony shall be admitted into the same, unless 
+such admission be agreed to by nine States.”) To assume that Congress 
+immediately decided to reverse its policy without receiving anything 
+in return simply defies reason. 
+
+
+36 
+
+
+The Second Circuit’s rule promotes the national policy 
+because it confers an advantage on those colonial residents 
+who would immigrate and thereby become citizens of the 
+United States. 
+
+
+Second, the policy discourages the expatriation of United 
+States businesses to offshore tax and bank havens. In this 
+regard, the arguments of Petitioner and amici provide cogent 
+evidence. United States corporations that surrender their 
+domestic charters to reincorporate in t~~ havens such as the 
+British Dependent Territories do so at no cost if they retain 
+their ability to litigate in the federal courts.”* Indeed, 
+reincorporation abroad would actually increase the burden 
+on the federal courts of diversity cases because it would be 
+easier for the reincorporated entity to satisfy the complete 
+diversity requirement in litigation against American citizens 
+if the corporation were deemed to be a foreign citizen, rather 
+than a citizen of one or two of the American states. 
+
+
+26. The phenomenon of American corporations using the British 
+Dependent Territories as havens to reincorporate and avoid United 
+States taxes has recently become an important issue. See, e.g., Susan 
+Pulliam, Heard on the Street: Reincorporating Companies Find 
+Bermuda A Place to Shed Some of Those Extra Taxes, Wall St. J. 
+February 19, 2002, at Al (citing exampies of 20 U.S. publicly-held 
+corporations which have reincorporated in Bermuda to avoid U.S. 
+tax on foreign-source income); John D. McKinnon, Questioning the 
+Books: Congressional Probe to Examine Enron’s Tax-Avoidance 
+Strategies, Wall St. J., February 19, 2002, at A6 (citing example of 
+Enron’s use of tax haven subsidiaries in Cayman Islands and 
+Bermuda); Organization for Economic Cooperation and 
+Development, Towards Global Tax Cooperation 16-17 (2001) (listing 
+British Virgin Islands as among those jurisdictions meeting criteria 
+for harmful tax practices amounting to status as tax haven) <http:// 
+www.oecd.org/pdf/M0000 14000/M00014130.pdf>. 
+
+
+37 
+
+
+Third, the policy tends to discourage the development 
+of criminal enterprises that affect the United States. 
+The commerce-based argument offered by the Petitioners and 
+amici amounts to an assertion that, because the British 
+Dependent Territories are now important financial centers, 
+their corporations should not be denied access to the federal 
+courts for lack of diversity. (Petitioner Br. at 31; US Amicus 
+Br. at 24; UK Amicus Br. at 3). That argument ignores the 
+reason for why those territories became important financial 
+centers in the first place. Each of them attracted a substantial 
+number of banks in the early 1990s following the colonies’ 
+adoption of bank secrecy and tax laws that rendered the 
+islands impervious to scrutiny by American taxing 
+authorities, criminal enforcement authorities and civil 
+litigants. The problem was highlighted by the United 
+Kingdom’s government in the White Paper that formed the 
+basis for the policy in the new British Overseas Territories 
+Act 2002: 
+
+
+We shall also press Overseas Territory governments 
+to introduce legislation to improve regulation of 
+company formation and management because, for 
+example, in the absence of proper regulation, 
+complex company structures can be used to disguise 
+the proceeds of crime and other regulatory abuse as 
+well as providing limited liability. There is increasing 
+evidence that companies, incorporated in an 
+Overseas Territory but based elsewhere, have been 
+used as vehicles to disguise money laundering and 
+financial fraud. Company formation agents and 
+company managers need to be required by law to 
+hold key information about the companies for which 
+they have responsibility and to disclose that 
+information to a regulator on request. This will help 
+
+
+38 
+
+
+ensure a properly documented paper trail for 
+criminal and regulatory investigatons. 
+
+
+Secretary of State for Foreign and Commonwealth Affairs, 
+Partnership for Progress and Prosperity: Britain and 
+the Overseas Territories 72 (1999); see also Report of the 
+Special Committee on the Situation with Regard to the 
+Implementation of the Declaration on the Granting of 
+Independence of Colonial Countries and Peoples for 2000, 
+U.N. GAOR, 55th Sess., Supp. No. 23, at 96-97, U.N. Doc. 
+A/55/23 (2001) (noting need for cooperation to combat drug 
+trafficking and money laundering in British Virgin Islands 
+and Cayman Islands). 
+
+
+Since laws passed by the United Kingdom Parliament 
+have no effect in those territories unless specifically provided, 
+and since the treaty obligations of the United Kingdom do 
+not automatically bind the territories, the United Kingdom’s 
+bilateral relationship with the United States has not improved 
+
+
+the ability of the United States to root out financial fraud~ 
+
+
+and narcotics trafficking in those territories. In the case of 
+the British Virgin Islands, for example, the United States did 
+not obtain a treaty on mutual legal assistance until 1990, 
+see Treaty Relating to Mutual Legal Assistance Between the 
+U.S. and the United Kingdom concerning the Cayman 
+Islands, July 3, 1986, 26 I.L.M. 536 (entered into force as to 
+British Virgin Islands November 9, 1990), it had to negotiate 
+for that treaty separately from its treaties with the United 
+Kingdom. By depriving the territories of automatic access 
+to the federal courts, the United States retains an important 
+incentive that can be traded by treaty with the United 
+Kingdom (after the Senate consents) for closer scrutiny by 
+the United States of transactions in the British Dependent 
+Territories. 
+
+
+39 
+
+
+The argument advanced by Petitioner and amici that the 
+Second Circuit’s rule has an adverse impact on foreign trade 
+is odd. (Petitioner Br. at 31). There is no trade at issue, except 
+on paper. As Petitioner explains in the case of the British 
+Virgin Islands, for example, each of the more than half million 
+international business companies incorporated there (over 
+24 corporations for each man, woman and child’) is “required 
+to conduct its business outside the British Virgin Islands.” 
+(Petitioner Br. at 31). The substantive transactions therefore 
+occur either in other nations or in the United States. If a 
+British Virgin Islands corporation were to reincorporate in 
+the place of its principal place of business, then it could 
+typically avail itself of either traditional alienage diversity 
+jurisdiction or (in most instances) domestic alienage diversity. 
+
+
+B. There Is No Discriminatory Treatment of United 
+Kingdom Citizens In This Policy. 
+
+
+The United Kingdom’s argument that it suffers some 
+discriminatory treatment without automatic access to federal 
+courts rings hollow because the United Kingdom offers only 
+a local court system to American litigants who have disputes 
+with United Kingdom nationals. (UK Br. at 2). The United 
+Kingdom lacks a federal system, so local courts — be they in 
+the British Virgin Islands or in England — afford the only 
+mechanism whereby a United States citizen can adjudicate 
+claims against a United Kingdom national. The access to federal 
+courts has no basis in a reciprocal advantage conferred on United 
+States citizens by the United Kingdom, and therefore provides 
+no equitable reason to fashi » a rule of access. 
+
+
+27. The British Virgin Islands has an estimated population 
+of 20,812 as of July 2001. CIA World Factbook 2001 <http:// 
+www.cia.gov/cia/publications/factbook/geos/vi.html>. 
+
+
+40 
+
+
+In particular, the basis for the United Kingdom’s objection 
+appears to be based upon a fundamental misunderstanding of 
+our dual system of state and federal courts. The United 
+Kingdom’s two “Diplomatic Notes” appear to ignore the fact 
+that British Dependent Territories citizens have recourse to our 
+state courts. (UK Amicus Br. at 3-4). Those state courts, which 
+have concurrent jurisdiction with the federal courts over civil 
+actions “vith an appropriate amount in controversy, are certainly 
+adept :o resolve any disputes in which British Dependent 
+Territories citizens become involved. If the dispute involves a 
+federal question, then the federal courts are available as well. 
+
+
+In any event, it is insufficient for Petitioner that the statute 
+should be interpreted so as to suit the desires of the United 
+Kingdom when the text of both the United States law and the 
+United Kingdom law command a different result. Thus, the State 
+Department’s plea to the Judiciary to extend jurisdiction in cases 
+such as this is simply directed to the wrong forum, for the 
+President, the United Kingdom government and the Congress 
+hold the key to the relief that the State Department seeks. 
+The United Kingdom holds the key to its fate in that it could 
+unilaterally extend full British citizenship to all residents of 
+Overseas Territories.” The President holds a key because he 
+could agree with the United Kingdom, by treaty, to extend 
+jurisdiction to those persons, subject to the advice and consent 
+of the Senate. Finally, Congress holds a key in that it could 
+amend the legislation in question, just as it did when issues of 
+equity arose with respect to residents of the District of Columbia 
+and territories. In each of those instances, though, the issue is 
+plainly one that is committed to a co-ordinate branch of 
+government, and should therefore not be addressed by this Court. 
+
+
+28. As noted above, that key now sits in the hand of the United 
+Kingdom’s Secretary of State for Foreign and Commonwealth Affairs. 
+
+
+4] 
+
+
+IV. 
+
+
+ADOPTION OF THE RULE PROPOSED BY THE 
+PETITIONERS UNDERMINES THE INTERNATIONAL 
+POLICY OF DECOLONIZATION 
+
+
+The United Nations Charter, to which both the United 
+States and the United Kingdom are parties, has established a 
+reporting requirement with respect to the treatment of non- 
+self-governing territories (UN Charter, Article 73) in aid of 
+a worldwide policy to eliminate the vestiges of colonialism | 
+and to provide for self-government.”’ In large measure, the 
+efforts of Western nations to bring about self-government 
+and decolonization have been successful, but there are 
+exceptions. The two remaining nations with any substantial 
+colonial power remain the United Kingdom and the United 
+States. Without minimizing at all the supreme effort that the 
+United Kingdom has made in the post-World War II era to 
+decolonize, that nation’s status as the leader among remaining 
+colonial powers is beyond dispute.*° 
+
+
+Regrettably, though, the vestiges of colonialism have 
+been difficult to eradicate, primarily because two nations — 
+the United States and the United Kingdom — have clung 
+steadfastly to colonial possessions. Thus, in the most recently 
+concluded session of the General Assembly, three resolutions 
+
+
+29. See Declaration on the Granting of Independence to Colonial 
+Countries and Peoples, G.A. Res. 1514, 15th Sess., 947th mtg.<http:/ 
+/www.un.org/Depts/dpi/decolonization/docs/res1514.htm>. 
+
+
+30. Of the world’s seventeen remaining colonies, the United 
+Nations credits the United Kingdom with responsibility for ten non- 
+self-governing territories, and the United States with three, as of 1999. 
+<http://www.un.org/Depts/dpi/decolonization/trust3 .htm>. 
+
+
+42 
+
+
+carrying out the work of the United Nations’ Fourth 
+Committee*' on colonization were carried overwhelmingly, 
+over the negative votes of only the United Kingdom and the 
+United States.” 
+
+
+While we do not quarrel with the power of the 
+governments of the United States and the United Kingdom 
+to declare their resistance to the international norm favoring 
+decolonization, those governments cannot hide from the 
+consequences of the policies which maintain a small number 
+of people — the residents of their colonies — in a condition 
+that lacks both internal and international political power. 
+To the extent that the United Kingdom extends the offer of 
+citizenship to its colonial people without giving them the 
+opportunity to choose self-determination instead, then the 
+alienage diversity puzzle will be solved, but to the detriment 
+of the right of those people to determine their political destiny. 
+
+
+31. The “Fourth Committee” is the Special Committee on the 
+Situation with Regard to the Implementation of the Declaration on 
+the Granting of Independence to Colonial Countries and Peoples. 
+
+
+32. Dissemination of Information on Decolonization, 55/145; 
+Second International Decade for the Eradication of Colonialism, 
+55/146; Implementation of the Declaration on the Granting of 
+Independer.ce to Colonial Countries and Peoples, 55/147; Press 
+Release GA/9488 (Dec. 8, 2000) (reporting vote totals). 
+
+
+43 
+
+
+CONCLUSION 
+
+
+For all of the reasons set forth herein, the decision of the 
+
+
+United States Court of Appeals for the Second Circuit should 
+be affirmed. 
+
+
+Respectfully submitted, 
+
+
+CRaic J. ALBERT 
+Counsel of Record 
+Leo G Kalas 
+LAUREN K. KLUGER 
+REITLER Brown LLC 
+800 Third Avenue 
+New York, NY 10022 
+(212) 209-3050 
+
+
+Attorneys for Respondent 
+
+

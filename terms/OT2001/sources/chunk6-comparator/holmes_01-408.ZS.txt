@@ -1,0 +1,57 @@
+HOLMES GROUP, INC. V. VORNADO AIRCIRCULATION SYSTEMS, INC.
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+HOLMES GROUP, INC. V. VORNADO AIRCIRCULATION SYSTEMS, INC. (01-408) 
+13 Fed. Appx. 961, vacated and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Opinion of Stevens ]Concurrence
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+HOLMES GROUP, INC. v. VORNADO AIR 
+CIRCULATION SYSTEMS, INC.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+ 
+No. 01—408.  Argued March 19, 2002–Decided June 3, 2002
+
+Petitioner filed a federal-court action, seeking, inter alia, a declaratory judgment that its products did not infringe respondent’s trade dress and an injunction restraining respondent from accusing it of such infringement.  Respondent’s answer asserted a compulsory patent-infringement counterclaim.  The District Court ruled in petitioner’s favor.  Respondent appealed to the Federal Circuit, which, notwithstanding petitioner’s challenge to its jurisdiction, vacated the District Court’s judgment and remanded the case.
+
+Held: The Federal Circuit cannot assert jurisdiction over a case in which the complaint does not allege a patent-law claim, but the answer contains a patent-law counterclaim.  Pp. 3—8.
+
+    (a) The Federal Circuit’s jurisdiction is fixed with reference to that of the district court, 28 U.S. C. §1295(a)(1), and turns on whether the action is one “arising under” federal patent law, §1338(a).  Because §1338(a) uses the same operative language as §1331, which confers general federal-question jurisdiction, the well-pleaded-complaint rule governing whether a case arises under §1331 also governs whether a case arises under §1338(a).  As adapted to §1338(a), the rule provides that whether a case arises under patent law is determined by what appears in the plaintiff’s well pleaded complaint.  Christianson v. Colt Industries Operating Corp., 486 U.S. 800, 809.  Because petitioner’s well pleaded complaint asserted no claim arising under patent law, the Federal Circuit erred in asserting jurisdiction over this appeal.  Pp. 3—4.
+
+      (b) The well-pleaded-complaint rule does not allow a counterclaim to serve as the basis for a district court’s “arising under” jurisdiction.  To rule otherwise would contravene the face-of-the-complaint principle set forth in this Court’s prior cases, see, e.g., Caterpillar Inc. v. Williams, 482 U.S. 386, 392, and the longstanding policies furthered by that principle: It would leave acceptance or rejection of a state forum to the master of the counterclaim rather than to the plaintiff; it would radically expand the class of removable cases; and it would undermine the clarity and ease of administration of the well-pleaded-complaint doctrine.  Pp. 4—6.
+
+      (c) As for respondent’s alternative argument, that reading §§1295(a)(1) and 1338(a) to confer appellate jurisdiction on the Federal Circuit whenever a patent-law counterclaim is raised is necessary to effectuate Congress’s goal of promoting patent-law uniformity: This Court’s task is not to determine what would further Congress’s goal, but to determine what the statute’s words must fairly be understood to mean.  It would be impossible to say that §1338(a)’s “arising under” language means the well-pleaded-complaint rule when read on its own, but respondent’s complaint-or-counterclaim rule when referred to by §1295(a)(1).  Pp. 6—7.
+
+13 Fed. Appx. 961, vacated and remanded.
+
+    Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Kennedy, Souter, Thomas, and Breyer, JJ., joined, and in which Stevens, J., joined as to Parts I and II—A.  Stevens, J., filed an opinion concurring in part and concurring in the judgment.  Ginsburg, J., filed an opinion concurring in the judgment, in which O’Connor, J., joined.

@@ -1,0 +1,572 @@
+Source: https://archive.org/download/micro_IA40385014_0490/micro_IA40385014_0490%2005.%20Reply%20Brief_djvu.txt
+
+7 
+
+
+| Supreme Court, U — 
+
+
+A 
+
+
+J 
+
+
+No. 01-147 
+
+
+In the Supreme Court of the United States 
+
+
+SECURITIES AND EXCHANGE COMMISSION, PETITIONER 
+Vv. 
+
+
+CHARLES ZANDFORD 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+Der-rtment of Justice 
+Wushington, D.C. 20530-0901 
+(202) 514-2217 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+
+Affiliated Ute Citizens v. United States, 406 U.S. 128 
+
+(1972) 7 
+Chiarella v. United States, 445 U.S, 222 (1980) .......0000000 7 
+David Barroso, Jr., Exchange Act Release 
+
+No. 43,386, 73 SEC Docket 1396 (Sept. 29, 2000) 9 
+Thomas V. Conwell, Exchange Act Release 
+
+No. 43,006, 72 SEC Docket 2500 (July 3, 2000) . 9 
+Shan Michael Hefley, Exchange Act Release ; 
+
+No. 42,625, 72 SEC Docket 259 (Apr. 5, 2000) ..........:ss000+s 9 
+Douglas J. Hopwood, Exchange Act Release 
+
+No. 43,353, 72 SEC Docket 1125 (Sept. 26, 2000) ............ 9 
+Janney Montgomery Scott, LLC & Norman 7. 
+
+Wilde, Jr. Exchange Act Release No. 43,050, 
+
+72 SEC Docket 2663 (July 18, 2000) 5 9 
+Donald J. Martineau, Exchange Act Release 
+
+No. 42,422, 71 SEC Docket 1994 (Feb. 14, 2000) 9-10 
+Cheryl A. Rodgers, Exchange Act Release J 
+
+No. 43,351, 78 SEC Docket 1121 (Sept. 26, 2000) 9 
+SEC v. Bulas, Litigation Release No. 16,337, 
+
+70 SEC Docket 2887 (Oct. 15, 1999) . . 10 
+SEC v. Christie, Litigation Release No. 16,724, 
+
+73 SEC Docket 1348 (Sept. 26, 2000) ........csssssvscvseesessessn 9 
+SEC v. Conwell, Litigation Release No. 16,420, 
+
+71 SEC Docket 1675 (Feb. 1, 2000) . . . 10 
+SEC v. Hefley, Litigation Release No. 16,479, 
+
+71 SEC Docket 2839 (Mar. 21, 2000) 9 
+SEC v. Martineau, Litigation Release No. 16 406, 
+
+71 SEC Docket 1304 (Jan. 10, 2000) : * 10 
+SEC v. Meridian Asset Mgmt., Inc., Litigation 
+
+Release No. 16,638, 72 SEC Docket 3064 (July 31, 
+
+. —̃ —ſñ—— 9 
+SEC v. Smith, Litigation Release No. 16,698, 
+
+73 SEC Docket 910 (Sept. 12, 2000) . . . 9 
+
+
+(I) 
+
+
+II 
+
+
+Cases—Continued: Page 
+SEC v. Sunpoint Sec., Inc., Litigation Release 
+No. 16,366, 71 SEC Docket 464 (Nov. 19, 1999) . 10 
+SEC v. Tropeano, Litigation Release No. 16,327, 
+70 SEC Docket 2502 (Oct. 5, 1999) 10 
+Superintendent of Ins. v. Bankers Life & Cas. Co., 
+404 U.S. 6 (1971) 1,7, 10 
+United States v. Kendrick, 692 F.2d 1262 (9th Cir. 
+1982), cert. denied, 461 U.S. 914 (1983) 1,7,8 
+United States v. O Hagan, 521 U.S. 642 (1997) cececececesesees 6,9 
+Statute and regulation: 
+Securities Exchange Act of 1934, 15 U.S.C. 78a et geg.: 
+§ 10(b), 15 U.S.C. 78j(b) 1, 2, 3, 4, 7, 8, 9 
+§ 28(a), 15 U.S.C. 78bb(a) (1994 & Supp. V 1999) .......... a 10 
+17 C. F. R. 240.10b-5 1, 2, 3, 4, 9 
+Miscellaneous: 
+Restatement (Second) of Agency (1958) 6 
+
+
+In the Supreme Court of the United States 
+
+
+No. 01-147 
+
+
+SECURITIES AND EXCHANGE COMMISSION, PETITIONER 
+V. 
+CHARLES ZANDFORD 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+This case presents the question whether a stock- 
+broker violates Section 10(b) of the Securities Ex- 
+change Act of 1934, 15 U.S.C. 78j(b), and Securities 
+Exchange Commission (SEC) Rule 10b-5, 17 C. F. R. 
+240.10b-5, when he “sells his customer’s securities for 
+his own benefit and uses the proceeds for himself, with- 
+out disclosure to his customer and without authori- 
+zation to do so.” Pet. i. The court of appeals held that 
+such conduct does not violate Section 10(b) and Rule 
+10b-5. Its decision conflicts with this Court’s decision in 
+Superintendent of Insurance v. Bankers Life & Casu- 
+alty Co., 404 U.S. 6 (1971), as well as the decision of the 
+Ninth Circuit in United States v. Kendrick, 692 F.2d 
+1262 (1982), cert. denied, 461 U.S. 914 (1983). For those 
+reasons, and because the decision in this case, if allowed 
+to stand, will significantly impair the SEC’s ability to 
+enforce the securities laws for the protection of in- 
+vestors, this Court’s review is warranted. 
+
+
+(1) 
+
+
+2 
+
+
+1. a. Respondent contends (Br. in Opp. 9-12) that 
+the petition for a writ of certiorari should be denied 
+because (he asserts) the SEC is asking this Court to 
+decide a different question than the one decided by the 
+court of appeals. Specifically, respondent argues that 
+the court of appeals decided whether the “in connection 
+with” requirement of Section 10(b) is satisfied by the 
+charges in the indictment that led to respondent's 
+criminal conviction, while the SEC seeks review of 
+whether that requirement is satisfied by the allegations 
+in the SEC’s civil complaint. Respondent is wrong. 
+
+The court of appeals summarized in its opinion th 
+the charges in the indictment and the allegations in the 
+civil complaint, without suggesting that the facts in the 
+criminal case differ in any material respect from the 
+allegations in the civil complaint. See Pet. App. 2a 
+(indictment); id. at 3a (complaint); see also id. at 5a. 
+Then, in the pertinent portion of its opinion, the court of 
+appeals stated that the “precise issue before [the 
+court)” was whether the fraud alleged by the SEC— 
+that “[respondent) defrauded the Woods by failing to 
+inform them that he intended to sell their securities in 
+order to obtain the proceeds for himself“ —“ is suffi- 
+ciently connected to a securities transaction” to consti- 
+tute a violation of Section 10(b) and Rule 10b-5. Id. at 
+8a. That is the very same question presented in the 
+petition for a writ of certiorari. See Pet. i. Because the 
+court of appeals resolved that question against the SEC 
+as a matter of law, the court remandled] with direc- 
+tions to dismiss the case.” Pet. App. 2a; see also id. at 
+14a. Respondent’s assertion (Br. in Opp. 9) that It hhe 
+issue presented for review was neither pressed by the 
+
+
+3 
+
+
+SEC below nor passed upon by the court of appeals” is 
+thus simply wrong. 
+
+b. Respondent also errs in contending (Br. in Opp. 
+12-16) that, if this Court grants the petition, it will have 
+to determine whether to decide the case based on the 
+facts alleged in the SEC’s complaint or the (purportedly 
+different) facts charged in the criminal indictment. The 
+petition presents no question concerning the collateral 
+estoppel effect of respondent’s indictment and convic- 
+tion on this civil case, and there is in any event no dif- 
+ference between the indictment and the complaint that 
+
+
+' Respondent creates some confusion by taking issue (Br. in 
+Opp. 9, 10) with the statement in a footnote in the petition that the 
+court of appeals “dismissed the Commission's complaint for failure 
+to state a claim.” Pet. 7 n.2. Respondent contends (Br. in Opp. 10) 
+that the court of appeals’ decision should instead be characterized 
+as a sua sponte grant of summary judgment in favor of respondent. 
+That contention finds no support in the pertinent portion of the 
+court’s opinion, which begins by explaining what is necessary it jo 
+state a claim” (Pet. App. 6a (emphasis added)) under Section 10(b) 
+and Rule 10b-5, then recites that the issue before the court is 
+“whether [respondent’s) alleged fraud is sufficiently connected to a 
+securities transaction” (id. at 8a (emphasis added)), and concludes 
+by holding that respondent’s “alleged fraudulent activities were not 
+sufficiently connected to a securities transaction to merit liability” 
+(id. at 14a (emphasis added)) and directing the district court to 
+“dismiss” the case (ibid. (emphasis added)). 
+
+In any event, it is irrelevant for present purposes how the court 
+of appeals’ disposition of the case is characterized. The critical 
+point is that the court held that respondent’s conduct, as alleged by 
+the SEC, was outside the scope of Section 10(b) and Rule 10b-5 as 
+a matter of law. Thus, contrary to respondent’s assertion (Br. in 
+Opp. 9, 10 n.6, 11), the government’s contention is not that the 
+court of appeals’ disposition of the case is procedurally unfair to 
+the SEC because the court, after having issued its ruling on the 
+merits, should then have remanded the case to the district court 
+rather than dismissing it outright. The contention is that the court 
+of appeals’ ruling on the merits is substantively incorrect, and that 
+its judgment ordering dismissal should be reversed on that ground. 
+
+
+4 
+
+
+has any bearing on the resolution of the question pre- 
+sented. 
+
+i. Respondent’s focus on the indictment stems from 
+his failure to recognize that the court of appeals’ de- 
+cision consisted of two separate rulings, only one of 
+which is before this Court. In its first ruling, the court 
+reversed the district court’s grant of summary judg- 
+ment for the SEC, holding that respondent’s criminal 
+conviction did not, under the doctrine of collateral 
+estoppel, establish all of the legal elements of the 
+violations of Section 10(b) and Rule 10b-5 alleged in the 
+complaint. Pet. App. 4a-5a. In its second ruling, the 
+court went on to hold that the facts alleged by the SEC 
+in its complaint do not even state a claim under Section 
+
+
+10(b) and Rule 10b-5. Id. at 8a-14a. In that portion of 
+
+
+its opinion, the court made no mention at all of the 
+indictment or criminal conviction—which had been 
+submitted by the SEC with its motion for summary 
+judgment to prove what had only been alleged in the 
+complaint—and instead properly focused on what the 
+SEC has “alleged,” which obviously requires reference 
+to the complaint. See note 1, supra; see also Pet. App. 
+3a (court summarizes allegations in SEC’s complaint); 
+id. at 28a-29a (relevant portions of complaint). 
+
+The petition for a writ of certiorari seeks review of 
+only the latter ruling, not the court’s holding that re- 
+spondent’s criminal conviction did not establish all of 
+the legal elements of a violation of Section 10(b) and 
+Rule 10b-5 under the doctrine of collateral estoppel. 
+For that reason, and contrary to respondent’s con- 
+tention (Br. in Opp. 15-16, 19-20), there is no occasion 
+for this Court to consider any issues concerning collat- 
+eral estoppel or the facts set forth in the indictment or 
+proven at trial in the criminal case. 
+
+The only facts that this Court need consider in decid- 
+ing the question presented are those on which the court 
+
+
+— — 
+
+
+5 
+
+
+of appeals itself relied. The court of appeals succinctly 
+stated those facts, based on what the SEC “alleges”: 
+that respondent “defrauded the Woods by failing to 
+inform them that he intended to sell their securities in 
+order to obtain the proceeds for himself.” Pet. App. 8a. 
+
+ii. In any event, nothing in the court of appeals’ 
+opinion suggests that the allegations in the SEC’s com- 
+plaint differ in any material respect from those on 
+which the charges in the indictment or respondent’s 
+criminal conviction were based. Respondent identifies 
+only one supposed difference—that the indictment 
+“refers to only one investment account” but the “com- 
+plaint contains several allegations regarding a mutual 
+fund account.” Br. in Opp. 13-14. The court of appeals, 
+however, expressly stated its understanding that the 
+“first count [of the indictment] maintained that [re- 
+spondent] sold the Woods’ shares of a mutual fund in 
+order to use the proceeds for his own benefit.” Pet. 
+App. 2a. Indeed, that was how the court of appeals had 
+previously described the first count of the indictment 
+when it affirmed respondent’s conviction. See id. at 35a 
+(“The first count related to money [respondent] ob- 
+tained from selling the Woods’ shares in a mutual 
+fund.”). 
+
+Even if the indictment had not encompassed respon- 
+dent’s fraudulent sales of the mutual fund shares but 
+only his fraudulent sales of the Woods’ other securities 
+in their brokerage account, that would have no bearing 
+on the resolution of the legal issue decided by the court 
+of appeals and presented by the petition for certiorari. 
+Respondent contends (Br. in Opp. 14-15) that the differ- 
+ence is “critical” because the court of appeals noted that 
+the Woods’ account was a discretionary one, 
+in which respondent could trade securities without ob- 
+taining the Woods’ prior approval. See Pet. App. 10a. 
+Respondent also implies (without actually stating) that 
+
+
+6 
+
+
+he did not have comparable authority over the Woods’ 
+mutual fund holdings. See Br. in Opp. 15. In fact, 
+nothing in the record suggests that respondent's 
+authority over the Woods’ mutual fund holdings was 
+any different than his authority over the brokerage 
+account, and the SEC does not contend that it was.. 
+
+Moreover, whether respondent had discretionary 
+authority to sell the Woods’ securities (including their 
+mutual funds) or first had to obtain their permission for 
+any sales has no bearing on the question whether re- 
+spondent’s deception concerning his intent to misap- 
+propriate the sales proceeds was “in connection with” 
+his sale of the Woods’ securities. The requisite con- 
+nection was present because the sale of the securities 
+was the means by which respondent generated the cash 
+he stole, and his deception concerning his intent in 
+selling the securities left the Woods without informa- 
+tion that would have enabled them to act to prevent 
+those sales. See Pet. 9. 
+
+Nor does respondent's diseretionary authority to 
+trade without obtaining prior approval from the Woods 
+render his conduct any less fraudulent and unauthor- 
+ized. Respondent’s discretionary authority to trade 
+was limited to transactions for the Woods’ benefit. See 
+Restatement (Second) of Agency § 387 (1958) (“Unless 
+otherwise agreed, an agent is subject to a duty to his 
+principal to act solely for the benefit of the principal in 
+all matters connected with his agency.”). Absent dis- 
+closure to and consent by the Woods, respondent could 
+not exercise his discretionary authority by selling their 
+securities in order to use the proceeds to enrich himself. 
+Cf. United States v. O’Hagan, 521 U.S. 642, 654-655 
+(1997). 
+
+2. Respondent is also incorrect in asserting (Br. in 
+Opp. 17-22) that the court of appeals’ decision does not 
+conflict with any decision of this Court or any court of 
+
+
+7 
+
+
+appeals. As explained in the petition (at 13-17), the 
+decision in this case conflicts both with this Court’s de- 
+cision in Superintendent of Insurance v. Bankers Life 
+E Casualty Co., 404 U.S. 6 (1971), and with the Ninth 
+Circuit’s decision in United States v. Kendrick, 692 F. 2d 
+1262 (1982), cert. denied, 461 U.S. 914 (1983). 
+
+a. Respondent attempts to distinguish Bankers Life 
+by arguing (Br. in Opp. 19) that it involved a misrepre- 
+sentation that induced the securities sale. The facts in 
+this case, however, are not materially different. As 
+noted by the court of appeals, the SEC alleged that re- 
+spondent defrauded the Woods in connection with 
+securities sales by failing to inform them that he in- 
+tended to sell their securities in order to misappropri- 
+ate the proceeds. See Pet. App. 8a. Respondent’s 
+failure to disclose his plans deprived the Woods of the 
+opportunity to prevent the sales. Thus, respondent’s 
+failure to disclose was instrumental to the sales in this 
+case just as much as the misrepresentation in Bankers 
+Life was instrumental to the sale in that case. Whether 
+the deception that causes a securities transaction is 
+accomplished through an omission or an affirmative 
+misrepresentation has no legal significance with regard 
+to whether the deception is “in connection with the pur- 
+chase or sale of any security,” as required by Section 
+10(b). See Pet. 14-15; Affiliated Ute Citizens v. United 
+States, 406 U.S. 128, 153 (1972); Chiarella v. United 
+States, 445 U.S. 222, 228 (1980). 
+
+Respondent also cannot distinguish Bankers Life on 
+the ground that the court of appeals “correctly con- 
+cluded” that his “fraudulent activities were not suffi- 
+ciently connected to a securities transaction where the 
+evidence established by the SEC based on its collateral 
+estoppel theory only established that funds were 
+converted from a securities account and the actual role 
+of securities in the fraud is not established” (Br. in Opp. 
+
+
+8 
+
+
+19-20). As explained above (see pp. 3-5, supra), the 
+question of — the SEC affirmatively established (not 
+merely alleged on respondent's criminal 
+conviction is ant Mn in the certiorari petition. 
+Furthermore, the distinction that respondent would 
+draw rests on a mischaracterization of the basis for the 
+court of appeals’ decision. The decision did not rest on a 
+factual conclusion that the SEC failed to establish the 
+role of securities in respondent’s fraud, but on a legal 
+conclusion that respondent did not violate Section 10(b) 
+even if, as the SEC alleged, he “defrauded the Woods 
+by failing to inform them that he intended to sell their 
+securities in order to obtain the proceeds for himself.” 
+Pet. App. 8a. 
+
+b. Respondent’s attempt (Br. in Opp. 20) to explain 
+away the conflict with the Ninth Circuit’s decision in 
+Kendrick is based on the irrelevant distinction that 
+Kendrick “involved securities in non-discretionary mar- 
+gin accounts.” As discussed above, whether the securi- 
+ties sales occurred in a discretionary or a non-dis- 
+cretionary account has no bearing on the legal issue in 
+this case. See p. 6, supra. Respondent also incorrectly 
+contends (Br. in Opp. 20) that, in Kendrick, there was 
+a “direct link” with the securities transaction that is 
+lacking in this case. Just as Kendrick was engaged 
+in fraud when he “caused Dean Witter to issue the 
+checks” on the margin account in order to convert the 
+money to his own use (692 F.2d at 1265), so too re- 
+spondent was engaged in fraud when he caused the 
+Woods’ securities to be liquidated in order to convert to 
+his own use the money “generated” by the sales (Pet. 
+App. 2a; see also id. at 28a, 41a). 
+
+e. Contrary to respondent’s contention (Br. in Opp. 
+18), the petition’s reliance on O Hagan (see Pet. 9-13) 
+
+does not wrenchl] O Hagan from the context in which 
+it was decided.” The rationale of this Court in finding 
+
+
+9 
+
+
+that O’Hagan’s fraudulent conduct was “in connection 
+with” his securities transactions applies to this case. 
+See Pet. 9-10. This Court stated in O’Hagan that the 
+“in connection with” element “is satisfied because the 
+fiduciary’s fraud is consummated * * when the 
+fiduciary, * * * without disclosure to his principal,” 
+uses the principal’s confidential information in trading 
+securities for personal profit. 521 U.S. at 656. Simi- 
+larly, in this case, respondent’s fraud was consummated 
+when he sold the securities of his principals and con- 
+verted the proceeds for his own benefit, without dis- 
+closing his intentions to them. 
+
+8. Finally, contrary to respondent’s assertions (Br. 
+in Opp. 22-28), the holding of the court of appeals that a 
+stockbroker’s fraudulent conversion of securities +. d 
+their proceeds does not violate Section 10(b) and Rule 
+10b-5 will significantly impair the SEC’s ability to pro- 
+tect investors. In fiscal year 2000 alone, the SEC used 
+those general antifraud provisions to bring 16 admini- 
+strative proceedings and civil actions against securities 
+firms and their personnel for fraudulently misappropri- 
+ating customer property. 
+
+
+2 David Barroso, Jr., Exchange Act Release No. 43,386, 73 
+SEC Docket 1396 (Sept. 29, 2000); Douglas J. Hopwood, Exchange 
+Act Release No. 43,353, 78 SEC Docket 1125 (Sept. 26, 2000); 
+Cheryl A. Rodgers, Exchange Act Release No. 43,351, 73 SEC 
+Docket 1121 (Sept. 26, 2000); SEC v. Christie, Litigation Release 
+No. 16,724, 78 SEC Docket 1348 (Sept. 26, 2000); SEC v. Smith, 
+Litigation Release No. 16,698, 73 SEC Docket 910 (Sept. 12, 2000); 
+SEC v. Meridian Asset Mgmt., Inc., Litigation Release No. 16,638, 
+72 SEC Docket 3064 (July 31, 2000); Janney Montgomery Scott 
+LLC & Norman T. Wilde, Jr., Exchange Act Release No. 43,050, 
+72 SEC Docket 2663 (July 18, 2000); Thomas V. Conwell, Ex- 
+change Act Release No. 43,006, 72 SEC Docket 2500 (July 3, 2000); 
+Shan Michael Hefley, Exchange Act Release No. 42,625, 72 SEC 
+Docket 259 (Apr. 5, 2000); SEC v. Hefley, Litigation Release No. 
+16,479, 71 SEC Docket 2839 (Mar. 21, 2000); Donald J. Martineau, 
+
+
+10 
+
+
+Although it is true, as respondent points out (Br. in 
+Opp. 22), that actions against brokers who fraudulently 
+convert securities or securities proceeds from broker- 
+age accounts could also be brought by persons or en- 
+tities other than the SEC under other state and federal 
+laws, this Court and Congress have made clear that the 
+existence of remedies under other laws does not pre- 
+clude the existence of an action under the federal se- 
+curities laws. Bankers Life, 404 U.S. at 12; 15 U.S.C. 
+78bb(a) (1994 & Supp. V 1999) (subject to limited excep- 
+tions not relevant here, “the rights and remedies 
+provided by [the Securities Exchange Act] shall be in 
+addition to any and all other rights and remedies that 
+may exist in law and equity”). It is essential that the 
+agency principally responsible for enforcing the federal 
+securities laws be able to take action to protect broker- 
+age firm customers from fraudulent conversions of their 
+assets. 
+
+* * * * * 
+
+
+For the reasons stated above and in the petition for a 
+writ of certiorari, the petition should be granted. 
+
+
+Respectfully submitted. 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+
+
+OCTOBER 2001 
+
+
+Exchange Act Release No. 42,422, 71 SEC Docket 1994 (Feb. 14, 
+2000); SEC_v. Conwell, Litigation Release No. 16,420, 71 SEC 
+Docket 1675 (Feb. 1, 2000); SEC v. Martineau, Litigation Release 
+No. 16,406, 71 SEC Docket 1304 (Jan. 10, 2000); SEC v. Sunpoint 
+Sec., Inc., Litigation Release No. 16,366, 71 SEC Docket 464 (Nov. 
+19, 1999); SEC v. Bulas, Litigation Release No. 16,337, 70 SEC 
+Docket 2887 (Oct. 15, 1999); SEC v. Tropeano, Litigation Release 
+No. 16,327, 70 SEC Docket 2502 (Oct. 5, 1999). 
+
+

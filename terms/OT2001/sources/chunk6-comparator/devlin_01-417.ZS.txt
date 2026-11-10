@@ -1,0 +1,52 @@
+DEVLIN V. SCARDELLETTI
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+DEVLIN V. SCARDELLETTI (01-417) 
+265 F.3d 195, reversed and remanded.
+Syllabus
+ Opinion
+ [ O’Connor ]Dissent
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+DEVLIN v. SCARDELLETTI et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+
+ 
+No. 01—417.  Argued March 26, 2002–Decided June 10, 2002
+
+Petitioner retiree participates in a defined benefits pension plan (Plan) that was amended in 1991 to add a cost of living increase (COLA).  Because the Plan could not support such a large benefits increase, its trustees ultimately eliminated the COLA in 1997 and filed a class action in the Maryland Federal District Court, seeking a declaratory judgment that the 1997 amendment was binding on all Plan members or that the 1991 COLA was void.  Petitioner’s separate challenge to the 1997 amendment was dismissed by a New York Federal District Court, which found that the Maryland court should resolve the matter.  By this time, the Maryland court had already conditionally certified a class under Federal Rule of Civil Procedure 23(b)(1).  After the trustees asked the court to approve their settlement with the class representatives, petitioner moved to intervene.  The District Court denied his motion as untimely.  It then heard objections to the settlement, including those advanced by petitioner, and approved the settlement.  Petitioner appealed.  The Fourth Circuit affirmed the District Court’s denial of intervention and held that, because petitioner was not a named class representative and because he had been properly denied the right to intervene, he lacked standing to challenge the settlement.
+
+Held: Nonnamed class members like petitioner who have objected in a timely manner to approval of a settlement at a fairness hearing have the power to bring an appeal without first intervening.  Pp. 4—12.
+
+    (a) This issue, though framed by the Fourth Circuit as one of standing, does not implicate the jurisdiction of the courts, as petitioner satisfies both constitutional and prudential standing requirements.  What is at issue is whether petitioner is a “party” for purposes of appealing the settlement approval, for only a lawsuit’s parties, or those that properly become parties, may appeal an adverse judgment.  This Court has never restricted the right to appeal to named parties.  Petitioner’s interest in the settlement approval is similar to those of the nonnamed parties this Court has allowed to appeal in the past.  He objected to the settlement at the fairness hearing, as permitted by the Federal Rules of Civil Procedure.  And the settlement’s approval notwithstanding his objections amounted to a final decision of his right or claim sufficient to trigger his right to appeal.  That right cannot be effectively accomplished through the named class representative–once the named parties reach a settlement that is approved over the petitioner’s objections, petitioner’s interests diverge from those of the class representative.  Marino v. Ortiz, 484 U.S. 301, in which white police officers who were not members of the class of minority officers who had brought a racial discrimination suit were not allowed to appeal the settlement, is not to the contrary.  Although the settlement affected them, the District Court’s decision did not dispose of any right or claim they might have had because they were not class members.  Nor does considering nonnamed class members as parties for the purpose of bringing an appeal conflict with any other aspect of class action procedure.  Such members may be parties for some purposes and not for others.  What is important here is that they are parties in the sense of being bound by the settlement.  Allowing them to appeal a settlement approval when they have objected at the fairness hearing preserves their own interests in a settlement that will bind them, despite their expressed objections before the trial court.  Allowing such appeals will not undermine the class action goal of preventing multiple suits.  Restricting the power to appeal to those members who objected at the fairness hearing limits the class of potential appellants considerably.  Pp. 4—9.
+
+      (b) This Court rejects the Government’s argument that class members should be required to intervene for purposes of appeal.  Nor does the Court agree with the Government that the structure of class action procedural rules requires intervention for purposes of appeal.  A procedure that allows nonnamed class members to object to a settlement at the fairness hearing without first intervening should similarly allow them to appeal the district court’s decision to disregard their objections.  Moreover, no statute or procedural rule directly addresses the question of who may appeal from approval of class action settlements, while the right to appeal from an action that finally disposes of one’s rights has a statutory basis.  28 U.S. C. 1291.  Pp. 9—12.
+
+265 F.3d 195, reversed and remanded.
+
+    O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, Souter, Ginsburg, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion, in which Kennedy and Thomas, JJ., joined.

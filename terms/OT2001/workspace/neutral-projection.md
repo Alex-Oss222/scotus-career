@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-79 scheduled Court events in chunks 1–5 are completed; 45 inventory matters remain open. The latest processed event date is 2002-05-28. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
+94 scheduled Court events in chunks 1–6 are completed; 30 inventory matters remain open. The latest processed event date is 2002-06-17. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -608,7 +608,97 @@ Title VI's direct prospective action and §1983's individual-right inquiry remai
 
 Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#South-Camden-Citizens-in-Action-v-New-Jersey-Department-of-Environmental-Protection-Merits-2002-05-28).
 
-The next scheduled inventory matter is row 80, Compaq Computer Corp. v. Commissioner, in chunk 6 on May 28, 2002. It uses the common baseline immediately before May 28; the six May 28 chunk 5 decisions do not enter that baseline. Their signed leads remain subject to the separate effective-date and alphabetical assignment count rule.
+The next eligible scheduled group is 2002-06-17: Carey v. Saffold; Horn v. Banks; Leventhal v. Knapek; Ticknor v. Choice Hotels International, Inc.; United States v. Drayton; United States v. Emerson; United States v. Fior D'Italia, Inc.; United States v. Hooper. Those uncoordinated matters use the baseline immediately before that date. Opinion assignments separately follow effective date and alphabetical case order.
+
+### Compaq Computer Corp. v. Commissioner — 2002-05-28
+
+From May 28, 2002, profit analysis of a dividend transaction with established ownership and foreign tax liability must treat the gross dividend and the legally available credit consistently. This demonstrated market arrangement satisfies substance and purpose, and its reviewed sham-dependent adjustment and penalty cannot stand. The decision adds that application to the existing substance doctrine without replacing it with a nominal-profit threshold, an ownership-only safe harbor or a universal test for cases with different economic findings. Independent statutory qualification requirements retain their force. The 1997 holding-period rule supplies no governing standard for this 1992 transaction.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#compaq-computer-corp-v-commissioner-merits-2002-05-28).
+
+### Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc. — 2002-06-03
+
+A patent counterclaim alone cannot supply the incorporated arising-under basis for the Federal Circuit's patent allocation under the governing statutes, even if compulsory. The rule preserves the independent controversy a counterclaim presents and leaves materially amended plaintiff pleadings to their own jurisdictional record. Here the proper regional forum receives the timely appeal through mandatory transfer after all §1631 conditions have been established; the jurisdictional disposition leaves the merits and conditional district-order triggers for their lawful stages.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#holmes-group-inc-v-vornado-air-circulation-systems-inc-merits-2002-06-03).
+
+### SEC v. Zandford — 2002-06-03
+
+Section 10(b) and Rule 10b-5 reach actual securities sales that execute a contemporaneous concealed plan to appropriate customer assets when the ordinary duty, scienter, deception, interstate-means and transaction conditions are met. Fair market price and discretionary authority create no categorical exception. The rule excludes a nexus based only on status, custody or independently conceived later theft, and preserves civil proof and remedial requirements. The independent statutory construction supplies the decision without resolving a further claim to controlling deference for the SEC's early adjudications.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#sec-v-zandford-merits-2002-06-03).
+
+### United States v. Mackby — 2002-06-03
+
+This combined FCA penalty-and-treble-damages recovery is a covered fine even though it also compensates the Government. Gross disproportionality to the actual offense governs the aggregate assessment, with supported facts and lawful compensatory functions retained. The constitutional evaluation receives independent appellate review and factual findings receive clear-error review. No fixed ratio, cost ceiling, indispensable-deterrence requirement or automatic invalidation follows from coverage. The character of an isolated treble award or materially different combination lies outside the presented question.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#united-states-v-mackby-merits-2002-06-03).
+
+### Chevron U.S.A. Inc. v. Echazabal — 2002-06-10
+
+Original ADA Title I permits the EEOC own-health defense under the broader qualification provision, subject to every statutory and regulatory condition stated above. Employers bear the defense burden; diagnosis, professional sincerity and general welfare concerns are insufficient. Regulatory validity does not establish a particular employer's evidence, and it does not broaden the issues preserved on summary judgment.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#chevron-usa-inc-v-echazabal-merits-2002-06-10).
+
+### Devlin v. Scardelletti — 2002-06-10
+
+A timely objector in a mandatory class may appeal approval disposing of his own rights without intervening, solely in that limited capacity and subject to ordinary appellate requirements. Felzen's derivative-shareholder rule remains intact. The decision gives neither general control of representative litigation nor a merits entitlement.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#devlin-v-scardelletti-merits-2002-06-10).
+
+### Franconia Associates v. United States — 2002-06-10
+
+On the future-prepayment undertaking assumed here, §2501 runs from a legally effective election to treat repudiation as breach or from due performance wrongly refused or otherwise breached, rather than categorically from 1988 enactment or implementation. The constitutional claim requires its own completed-injury analysis. These rules remove the reviewed temporal grounds without establishing actual contract formation, liability, finality, taking, timeliness for every borrower or compensation.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#franconia-associates-v-united-states-merits-2002-06-10).
+
+### JPMorgan Chase Bank v. Traffic Stream (BVI) Infrastructure Ltd. — 2002-06-10
+
+A BVI corporation falls within §1332(a)(2)'s United Kingdom subject category through the established sovereign relationship. The rule does not rest on the territory's separate statehood, personal nationality classifications, consent or retroactive legislation. Other diversity requirements and materially different territorial arrangements remain governed by their own predicates.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#jpmorgan-chase-bank-v-traffic-stream-bvi-infrastructure-ltd-merits-2002-06-10).
+
+### McKune v. Lile — 2002-06-10
+
+Real incriminating exposure continues during imprisonment. This automatic combination of transfer and material restrictions cannot be used to extract unprotected disclosures, even without extra sentence days or a separate entitlement to preferred conditions. Treatment candor, independent classification, protected disclosures and genuinely voluntary programs remain available. Neither the majority nor the opposing severity grounds establishes a universal rule for every minor incentive or prison condition.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#mckune-v-lile-merits-2002-06-10).
+
+### National Railroad Passenger Corp. v. Morgan — 2002-06-10
+
+Known discrete acts retain separate filing periods despite related timely conduct. One hostile environment is timely as a practice when a contributing act falls within the window, subject to actual continuity, substantive proof, existing attribution law and distinct remedial limits. The two-year backpay ceiling does not revive stale discrete liability. Traditional equity and background evidence retain their separate functions. Concealed-act discovery timing remains undecided because the record presents known discrimination.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#national-railroad-passenger-corp-v-morgan-merits-2002-06-10).
+
+### United States v. Bollin — 2002-06-10
+
+Section 853(e) cannot restrain an untainted potential substitute asset solely because §853(p) may later make it forfeitable. The rule governs a continuing §853(e) order as well as its original statutory basis; a request made after conviction does not eliminate the property limitation. Actual substitute forfeiture and protection of property already ordered forfeited remain governed separately by §§853(p) and 853(g). State exemption law cannot defeat authorized federal forfeiture, and federal supremacy cannot create an omitted grant. The present IRA restraint must be removed absent a distinct valid order; the broader appellate-counsel claim and the unpreserved intermediary issue remain outside the holding.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#united-states-v-bollin-merits-2002-06-10).
+
+### United States v. Faasse — 2002-06-10
+
+The original §228 prohibition remains valid for willful post-enactment default on an operative, legally fixed support obligation owed across State lines and satisfying either statutory delinquency threshold. The different-State relationship supplies the constitutional connection without an added travel, completed-transfer, bank-instrument or evasion-motive requirement. State authority over creation and modification of the underlying duty remains intact. This decision applies the existing rule and does not enlarge it to intrastate support or authorize punishment absent the actual elements.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#united-states-v-faasse-merits-2002-06-10).
+
+### United States v. Farmer — 2002-06-10
+
+A supported, specific claim that continuing civil seizure prevents use of potentially legitimate assets for trial counsel triggers a prompt focused hearing. The initial substantial showing remains distinct from the preponderance showing for release. The defendant bears the confined burden on both legitimacy and actual need, subject to the government's opportunity to contest resources and show probable cause of taint. Successful proof requires access to the legitimate funds needed unless an independently established lawful ground prevents release. This rule does not shift the ultimate forfeiture burden or convert every seizure into a counsel violation. The hearing entitlement has nine direct votes, the Mathews explanation eight votes excluding Scalia, and the complete release allocation eight votes excluding Stone-Zsela.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#united-states-v-farmer-merits-2002-06-10).
+
+### Barnes v. Gorman — 2002-06-17
+
+Punitive damages are unavailable under the Title VI remedies incorporated for these §504 and Title II private actions. Appropriate compensation and equitable correction remain governed by their own requirements. Title II's broader substantive coverage does not change its express remedial incorporation. The decision supplies neither a universal contract-only remedial code nor a change to distinct statutory punitive authority, attorney-fee authority or recipient attribution.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#barnes-v-gorman-merits-2002-06-17).
+
+### Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton — 2002-06-17
+
+The broad advance-registration and permit system cannot govern the reviewed ordinary noncommercial religious and political advocacy. Free, routine issuance reduces some burdens but does not establish adequate fit for compulsory public identification and loss of spontaneous access to willing listeners. The rule preserves resident-controlled exclusion and targeted enforcement, and establishes neither a universal ban on permits nor an independent religious-exercise rule.
+
+Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#watchtower-bible-tract-society-v-village-of-stratton-merits-2002-06-17).
 
 ## Material published noncontrolling positions
 
@@ -1144,6 +1234,64 @@ Chief Justice Stone-Zsela concurs in the §1983 rejection and direct prospective
 
 Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#South-Camden-Citizens-in-Action-v-New-Jersey-Department-of-Environmental-Protection-Merits-2002-05-28).
 
+### Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc. — 2002-06-03
+
+Ginsburg, joined by O'Connor, concurs in Part II and in the judgment. She would allow the Federal Circuit to review a compulsory patent counterclaim actually adjudicated by the district court, together with the other determinations in that case. A counterclaim is an independent affirmative patent claim, and the appellate allocation differs from the plaintiff's original choice of trial forum. Cardinal Chemical's independent-controversy principle and the statutory purpose of uniform appellate patent adjudication support that distinction in her view. Here the Rule 54(b) judgment adjudicated only the trade-dress claim, while the patent counterclaim remained stayed. The Federal Circuit therefore lacked the asserted jurisdiction even under her approach. She joins the definite transfer and its statutory conditions; her alternative jurisdictional rule is noncontrolling.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#holmes-group-inc-v-vornado-air-circulation-systems-inc-merits-2002-06-03).
+
+### Chevron U.S.A. Inc. v. Echazabal — 2002-06-10
+
+Stone-Zsela concurs in Parts II and III and in the judgment. He reads §12113(a)'s general qualification defense, its accommodation condition and subsection (b)'s nonexclusive example as independently authorizing the bounded own-health defense. The EEOC has actual rulemaking authority, and its significant-risk, objective-evidence and accommodation safeguards receive substantial persuasive weight because they implement the statutory limits. His conclusion does not depend on treating the agency's choice as independently controlling. Bragdon's objective method and the separation of coverage from qualification prevent a generalized paternalistic veto; Chevron must prove the actual conditions on the preserved medical record.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#chevron-usa-inc-v-echazabal-merits-2002-06-10).
+
+### Devlin v. Scardelletti — 2002-06-10
+
+Thomas, joined by Scalia and Kennedy, dissents. A mandatory class may bind its members through a representative without making each member an independent litigant. Felzen distinguishes participation in settlement supervision from authority to continue litigation, and Marino and Rule 24 supply the ordinary route to personal party status. Devlin's own pension interest and inability to opt out establish the force of the judgment, but in their view do not eliminate that procedural requirement. The right to challenge an actual intervention denial supplies a separate avenue; it does not undo the denial already affirmed here. They would affirm the status dismissal, without deciding settlement fairness, adequate representation or the pension merits, and without adopting a universal prohibition on every nonparty appeal.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#devlin-v-scardelletti-merits-2002-06-10).
+
+### McKune v. Lile — 2002-06-10
+
+O'Connor dissents, joined by Scalia, Kennedy and Thomas. All four recognize real incriminating exposure and reject immunity inferred from confidentiality or nonprosecution. They would reverse the Fifth Amendment injunction because these actual restrictions, within an unchanged lawful sentence and without lost credits or proved particular danger, do not exert sufficiently severe pressure. They accept that existing conditions are taken away automatically; automatic linkage proves the connection to silence but does not itself prove substantial compulsion. Garrity and the employment, licensing and contracting cases involve materially different consequences. Woodard and Baxter preserve the distinction between a difficult choice and compelled testimony without directly authorizing every automatic sanction. O'Connor rejects an exclusive atypical-and-significant-hardship prerequisite, a freestanding-entitlement prerequisite, or a rule making sentence lengthening necessary. Criminal-process consequences cannot simply supply a universal magnitude threshold for extraprocess efforts to obtain testimony. Her rule leaves serious penalties, compelled waivers, sentence extensions and criminal use of compelled answers unresolved.
+
+Kennedy also dissents, joined by Scalia and Thomas, adopting the common actual-severity ground and adding the importance of ordinary custody and rehabilitative incentives. Lawful imprisonment supplies the context for assessing these conditions; every prison benefit cannot be equated with outside employment or livelihood. Their Sandin dissent informs that position but does not govern the Fifth Amendment inquiry or displace current Sandin law. Kennedy's Mitchell no-inference join addressed proof of initial criminal punishment, unlike this unchanged sentence; Scalia's and Thomas's Mitchell positions distinguish compulsion from noncompulsory incentives. Their Woodard joins preserve actual compulsion as a separate limit. They do not find inevitable safety equivalence, sole effective treatment, fictional immunity, or categorical permission for every ordinary confinement sanction. O'Connor does not join this additional writing.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#mckune-v-lile-merits-2002-06-10).
+
+### National Railroad Passenger Corp. v. Morgan — 2002-06-10
+
+O'Connor concurs in part and dissents in part. In Part I of her separate opinion, joined by Breyer alone, she expresses the view that a notice or reasonable-discovery rule should apply to discrete acts, while recognizing that this known-discrimination record does not require deciding its operation. That observation creates no controlling discovery exception. Scalia and Kennedy do not join it.
+
+In Part II, joined by Scalia and Kennedy, she would limit hostile-environment liability to occurrences within the charge window while permitting older conduct to establish the character, severity or discriminatory cause of timely conditions. Their position limits liability for the older occurrences; exclusion of compensation follows from that limit rather than from a damages-only cap. They accept harassment as a collective wrong and do not demand that each incident independently meet the severe-or-pervasive standard. Harris's totality inquiry does not itself erase the deadline once a known actionable injury is complete. They reject Amtrak's suggestion that early knowledge extinguishes a later new violation, but would reverse the broader environment revival as well as discrete revival. Preserved evidentiary and instructional objections still require appellate consideration; they do not seek automatic restoration of the defense verdict. Breyer does not join Part II.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#national-railroad-passenger-corp-v-morgan-merits-2002-06-10).
+
+### United States v. Farmer — 2002-06-10
+
+**Scalia, concurring in part and in the judgment.** Justice Scalia joins Parts I and III: immediate review, the supported hearing threshold and its application, the defendant's confined preponderance burden, and the conditional release consequence. He does not join Part II's Mathews rationale. His sufficient ground is the distinction between preliminary seizure and the meaningful later adversary opportunity in this continuing civil-seizure setting. His Good position accepted the sufficiency of preliminary procedures on that different record; it did not authorize a warrant to eliminate the later contest altogether. Monsanto left this hearing question open. The prolonged civil custody, particular claim of legitimate property, immediate trial-counsel need and government's conditional acceptance of a hearing support the focused opportunity here. He rejects an open-ended balancing license to redesign all criminal restraint procedures; he agrees that the hearing neither decides the indictment nor authorizes spending proved proceeds.
+
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief Justice joins Parts I and II and the order requiring a prompt hearing. Farmer's specific sworn showing meets the threshold; the time-sensitive defense interest, concrete risk of error and value of bounded testing satisfy Mathews. He agrees that Farmer must establish actual need for the identified funds by a preponderance. He dissents from Part III because, once taint is materially contested, he would require the government to justify continued restraint through the applicable probable-cause connection to forfeiture or another independently valid basis. Probable cause of an offense does not establish the taint of every asset. In his view, requiring the owner to disprove the government's case through inaccessible information improperly allocates that part of the hearing. He would affirm the hearing entitlement with modified instructions and require release of the needed amount lacking that support. He does not claim access to proved forfeitable proceeds or extend this counsel-focused appeal to living expenses, interest or final forfeiture merits. His allocation is noncontrolling.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#united-states-v-farmer-merits-2002-06-10).
+
+### Barnes v. Gorman — 2002-06-17
+
+Stevens concurs in the judgment, joined by Ginsburg and Breyer. The commissioners are sued in official capacities, so the punitive award falls on the municipal entity. Newport's established municipal-punishment limitation excludes that award absent clear congressional displacement, which the incorporated disability remedies do not supply. Compensation for the plaintiff's loss remains distinct from punishment borne by the public. This ground neither grants immunity to every individual wrongdoer nor reopens the separate ruling that the Police Board is not an arm of the State.
+
+The three expressly acknowledge that Newport was neither raised nor decided below. They nevertheless reach this existing defendant-specific legal limit within the presented punitive-remedy question because official-capacity status is established and no new evidentiary finding or retrial is needed, avoiding the broader question of private-recipient remedies. Newport's own treatment of a defaulted question arose in different circumstances, including lower-court consideration of its merits, and does not automatically excuse this nonpreservation. Stevens's earlier procedural dissent in Newport remains a caution about default, not a reason to misdescribe the ground as preserved. This confined choice creates no general exception to preservation.
+
+They withhold the Court's general statutory exclusion. Franklin's appropriate-remedy principle, the distinct recipient responsibility discussed in Davis, and their objections to added remedy restrictions in Kolstad and Great-West counsel against using a funding analogy to decide the entire range of private-recipient relief. They need not adopt a general affirmative punitive-availability rule to resolve this municipal award. They therefore support removal of this punitive component, preserve compensation and seek no punitive-culpability or amount-review remand.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#barnes-v-gorman-merits-2002-06-17).
+
+### Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton — 2002-06-17
+
+Thomas concurs in the judgment. His McIntyre concurrence grounds anonymous advocacy in the historical protection of anonymous pamphleteering; his Buckley concurrence applies strict scrutiny to direct burdens on speech. The advance personal registration and permission required here directly burden that protected activity and are not narrowly fitted to the asserted interests. Actual fraud, trespass and resident-controlled exclusion provide materially more targeted means than licensing all peaceful religious and political advocacy. He also agrees that the ordinance fails the Court's less demanding fit inquiry, but that alternative conclusion does not replace his strict-scrutiny framework or make him a full joiner in the Court's method. His Thomas v. Chicago Park District join preserves genuinely fitted shared-space administration. The result rests on the objective speech burden, not a speaker's subjective religious or patriotic refusal to comply, and creates no independent free-exercise holding or immunity from lawful owner exclusion.
+
+Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#watchtower-bible-tract-society-v-village-of-stratton-merits-2002-06-17).
+
 ## Court, seniority and participation
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
@@ -1235,6 +1383,38 @@ US Airways, Inc. v. Barnett: All nine Justices participate at argument and decis
 
 **South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
 
+### Completed chunk 6 participation
+
+**Compaq Computer Corp. v. Commissioner:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in the submission and decision.
+
+**Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.:** All nine Justices participated at argument and decision.
+
+**SEC v. Zandford:** All nine Justices participated at argument and decision.
+
+**United States v. Mackby:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision.
+
+**Chevron U.S.A. Inc. v. Echazabal:** All nine Justices participated at argument and decision.
+
+**Devlin v. Scardelletti:** All nine Justices participated at argument and decision.
+
+**Franconia Associates v. United States:** All nine Justices participated at argument and decision.
+
+**JPMorgan Chase Bank v. Traffic Stream (BVI) Infrastructure Ltd.:** All nine Justices participated at argument and decision.
+
+**McKune v. Lile:** All nine Justices participated at argument and decision.
+
+**National Railroad Passenger Corp. v. Morgan:** All nine Justices participated at argument and decision.
+
+**United States v. Bollin:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision.
+
+**United States v. Faasse:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision.
+
+**United States v. Farmer:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision.
+
+**Barnes v. Gorman:** All nine Justices participated at argument and decision.
+
+**Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton:** All nine Justices participated at argument and decision.
+
 ## Circuit allotments
 
 The August 3, 1994 order remains in force.
@@ -1287,6 +1467,8 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 45 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 30 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
 Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.
+
+The next eligible scheduled group is 2002-06-17: Carey v. Saffold; Horn v. Banks; Leventhal v. Knapek; Ticknor v. Choice Hotels International, Inc.; United States v. Drayton; United States v. Emerson; United States v. Fior D'Italia, Inc.; United States v. Hooper. Those uncoordinated matters use the baseline immediately before that date. Opinion assignments separately follow effective date and alphabetical case order.

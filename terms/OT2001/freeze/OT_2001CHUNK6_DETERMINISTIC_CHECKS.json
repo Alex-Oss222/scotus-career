@@ -1,0 +1,15 @@
+{
+  "tool": "check_term",
+  "term": "OT2001",
+  "git_invocations": 0,
+  "infrastructure_modified": false,
+  "mode": "explicit no-Git adaptation",
+  "unverified_commit_references": [
+    "241f3d783",
+    "251f3d869"
+  ],
+  "unperformed_checks": [
+    "Existence of referenced Git commit objects"
+  ],
+  "exit_code": 0
+}

@@ -1,0 +1,52 @@
+CHEVRON U.S. A. INC. V. ECHAZABAL
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+CHEVRON U.S. A. INC. V. ECHAZABAL (00-1406) 
+226 F.3d 1063, reversed and remanded.
+Syllabus
+ Opinion
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CHEVRON U.S. A. INC. v. ECHAZABAL
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 00—1406.  Argued February 27, 2002–Decided June 10, 2002
+
+Respondent Echazabal worked for independent contractors at one of petitioner Chevron U. S A. Inc.’s oil refineries until Chevron refused to hire him because of a liver condition–which its doctors said would be exacerbated by continued exposure to toxins at the refinery–and the contractor employing him laid him off in response to Chevron’s request that it reassign him to a job without exposure to toxins or remove him from the refinery.  Echazabal filed suit, claiming, among other things, that Chevron’s actions violated the Americans with Disabilities Act of 1990 (ADA).  Chevron defended under an Equal Employment Opportunity Commission (EEOC) regulation permitting the defense that a worker’s disability on the job would pose a direct threat to his health.  The District Court granted Chevron summary judgment, but the Ninth Circuit reversed, finding that the regulation exceeded the scope of permissible rulemaking under the ADA.
+
+Held: The ADA permits the EEOC’s regulation.  Pp. 3—13.
+
+    (a) The ADA’s discrimination definition covers a number of things an employer might do to block a disabled person from advancing in the workplace, such as “using qualification standards … that screen out or tend to screen out [such] an individual,” 42 U.S.C. § 12112(b)(6).  And along with §12113(a), the definition creates an affirmative defense for action under a qualification standard “shown to be job-related … and … consistent with business necessity,” which “may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace,” §12113(b).  The EEOC’s regulation carries the defense one step further, allowing an employer to screen out a potential worker with a disability for risks on the job to his own health or safety.  Pp. 3—5.
+
+      (b) Echazabal relies on the canon expressio unius exclusio alterius–expressing one item of an associated group excludes another left unmentioned–for his argument that the ADA, by recognizing only threats to others, precludes the regulation as a matter of law.  The first strike against the expression-exclusion rule here is in the statute, which includes the threat-to-others provision as an example of legitimate qualifications that are “job-related and consistent with business necessity.”  These spacious defensive categories seem to give an agency a good deal of discretion in setting the limits of permissible qualification standards.  And the expansive “may include” phrase points directly away from the sort of exclusive specifications that Echazabal claims.  Strike two is the failure to identify any series of terms or things that should be understood to go hand in hand, which are abridged in circumstances supporting a sensible inference that the term left out must have been meant to be excluded.  Echazabal claims that Congress’s adoption only of the threat-to-others exception in the ADA was a deliberate omission of the threat-to-self exception included in the EEOC’s regulation implementing the precursor Rehabilitation Act of 1973, which has language identical to that in the ADA.  But this is not an unequivocal implication of congressional intent.  Because the EEOC was not the only agency interpreting the Rehabilitation Act, its regulation did not establish a clear, standard pairing of threats to self and others.  And, it is likely that Congress used such language in the ADA knowing what the EEOC had made of that language under the earlier statute.  The third strike is simply that there is no apparent stopping point to the argument that, by specifying a threat-to-others defense, Congress intended a negative implication about those whose safety could be considered.  For example, Congress could not have meant that an employer could not defend a refusal to hire when a worker’s disability would threaten others outside the workplace.  Pp. 5—9.
+
+      (c) Since Congress has not spoken exhaustively on threats to a worker’s own health, the regulation can claim adherence under the rule in Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 843, so long as it makes sense of the statutory defense for qualification standards that are “job-related and consistent with business necessity.”  Chevron’s reasons for claiming that the regulation is reasonable include, inter alia, that it allows Chevron to avoid the risk of violating the Occupational Safety and Health Act of 1970 (OSHA).  Whether an employer would be liable under OSHA for hiring an individual who consents to a job’s particular dangers is an open question, but the employer would be courting trouble under OSHA.  The EEOC’s resolution exemplifies the substantive choices that agencies are expected to make when Congress leaves the intersection of competing objectives both imprecisely marked and subject to administrative leeway.  Nor can the EEOC’s resolution be called unreasonable as allowing the kind of workplace paternalism the ADA was meant to outlaw.  The ADA was trying to get at refusals to give an even break to classes of disabled people, while claiming to act for their own good in reliance on untested and pretextual stereotypes.  This sort of sham protection is just what the regulation disallows, by demanding a particularized enquiry into the harms an employee would probably face.  Finally, that the threat-to-self defense reasonably falls within the general “job related” and “business necessity” standard does not reduce the “direct threat” language to surplusage.  The provision made a conclusion clear that might otherwise have been fought over in litigation or administrative rulemaking.  Pp. 10—13.
+
+226 F.3d 1063, reversed and remanded.
+
+    Souter, J., delivered the opinion for a unanimous Court.

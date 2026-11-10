@@ -1,0 +1,1783 @@
+No.  01-455
+In the Supreme Court of the United States
+FRANCONIA ASSOCIATES, ET AL., PETITIONERS
+v.
+UNITED STATES OF AMERICA
+GRASS VALLEY TERRACE, ET AL., PETITIONERS
+v.
+UNITED STATES OF AMERICA
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+BRIEF FOR THE UNITED STATES
+PAUL D. CLEMENT
+Acting Solicitor General
+Counsel of Record
+ROBERT D. MCCALLUM, JR.
+Assistant Attorney General
+JAMES A. FELDMAN
+Assistant to the Solicitor
+General
+DAVID M. COHEN
+MARK L. JOSEPHS
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+(I)
+QUESTIONS PRESENTED
+1. Whether a breach of contract claim accrues for
+purposes of 28 U.S.C. 2501 when Congress enacts a
+statute alleged to abridge a contractual right to free-
+dom from regulatory covenants upon prepayment of
+government mortgage loans.
+2. Whether a Fifth Amendment takings claim
+accrues for purposes of 28 U.S.C. 2501 when Congress
+enacts a statute alleged to abridge a contractual right
+to freedom from regulatory covenants upon prepay-
+ment of government mortgage loans.
+
+(III)
+TABLE  OF  CONTENTS
+Page
+Opinions below ................................................................................
+1
+Jurisdiction ......................................................................................
+2
+Statement ........................................................................................
+2
+Summary of argument ..................................................................
+11
+Argument:
+I.
+Petitioner’s contract claims accrued upon en-
+actment of ELIHPA .....................................................
+14
+A.
+Section 2501 requires that claims be brought
+within six years after they first accrued ...........
+14
+B.
+The claims in this case first accrued when
+Congress enacted the ELIHPA .........................
+17
+C.
+ELIHPA was not an anticipatory repudia-
+tion ............................................................................
+22
+D.
+The court of appeals’ result is supported
+both by the purposes of the anticipatory
+repudiation doctrine and by those of
+Section 2501 ............................................................
+26
+E.
+This Court’s decision in Mobil does not
+support petitioners’ claim that ELIHPA
+was an anticipatory repudiation .........................
+30
+F.
+Petitioners’ other arguments should be
+rejected ....................................................................
+32
+II.
+Petitioners’ claims under the Just Compensa-
+tion Clause also accrued upon enactment of
+ELIHPA .........................................................................
+34
+Conclusion .......................................................................................
+41
+TABLE  OF  AUTHORITIES
+Cases:
+Bay Area Laundry & Dry Cleaning Pension Trust
+Fund  v.  Ferbar Corp.,  522 U.S. 192 (1997) ....................
+17
+Beach  v.  Ocwen Fed. Bank,  523 U.S. 410 (1998) ..............
+16
+
+IV
+Cases—Continued:
+Page
+Block  v.  North Dakota,  461 U.S. 273 (1983) .....................
+15
+Central Trust Co.  v.  Chicago Auditorium Ass’n,
+240 U.S. 581 (1916) ................................................................
+23
+Chardon  v.  Fernandez,  454 U.S. 6 (1981) .........................
+28
+Delaware State Coll.  v.  Ricks,  449 U.S. 250 (1980) .........
+28
+Finn  v.  United States,  123 U.S. 227 (1887) .......................
+15
+Frietsch  v.  Refco, Inc.,  56 F.3d 825 (7th Cir. 1995) .........
+25
+Grass Valley Terrace  v.  United States,  51 Fed. Cl.
+436 (2002) .................................................................................
+18
+Greenbrier  v.  United States,  193 F.3d 1348 (Fed. Cir.
+1999), cert. denied, 530 U.S. 1274 (2000) .........................
+38-39
+Hodel  v.  Virginia Surface Mining & Reclamation
+Ass’n.,  452 U.S. 264 (1981) ..................................................
+37
+Home Sav. of Am.  v.  United States,  51 Fed. Cl.
+487 (2002) .................................................................................
+35
+Kimberly Assoc.  v.  United States,  261 F.3d 864
+(9th Cir. 2001) .........................................................................
+18
+Kinsey  v.  United States,   852 F.2d 556 (Fed. Cir.
+1988) .....................................................................................
+17, 26
+Lane  v.  Pena,  518 U.S. 187 (1996) ......................................
+15
+Lujan  v.  G & G Fire Sprinklers, Inc.,  532 U.S. 189
+(2001) ........................................................................................
+35
+Marathon Oil Co.  v.  United States,  16 Cl. Ct. 332
+(1989) ........................................................................................
+35
+Market Co.  v.  Hoffman,  101 U.S. 112 (1879) ....................
+17
+McMahon  v.  United States,  342 U.S. 25 (1951) ................
+29
+Mobil Oil Exploration & Producing S.E., Inc.  v.
+United States,  530 U.S. 604 (2000) ...........................
+13, 30, 31
+Office of Pers. Mgmt.  v.  Richmond,  496 U.S. 414
+(1990) ........................................................................................
+15
+Parkridge Investors Ltd.  v.  Farmers Home Admin.,
+13 F.3d 1192 (8th Cir.), cert. denied, 511 U.S. 1142
+(1994) ........................................................................................
+18
+Raygor  v.  Regents of the Univ. of Minn.,  122 S. Ct.
+999 (2002) .................................................................................
+15
+Soriano  v.  United States,  352 U.S. 270 (1957) ..............
+15, 29
+
+V
+Case—Continued:
+Page
+Sun Oil Co.  v.  United States,   572 F.2d 786 (Ct. Cl.
+1978) .........................................................................................
+35
+TRW, Inc.  v.  Andrews,  122 S. Ct. 441 (2001) ....................
+17
+Transpace Carriers, Inc.  v.  United States,  27 Fed. Cl.
+269 (1992) .................................................................................
+35
+U.S. Phillips Corp.  v.  Sears Roebuck & Co.,  55 F.3d
+592 (Fed. Cir.), cert. denied, 516 U.S. 1010 (1995) ...........
+40
+United States  v.  Campos-Serrano,  404 U.S. 293
+(1971) ........................................................................................
+17
+United States  v.  King,  395 U.S. 1 (1969) ...........................
+15
+United States  v.  Kubrick,  444 U.S. 111 (1979) .................
+15
+United States  v.  Mitchell,  445 U.S. 535 (1980) .................
+15
+United States  v.  Mottaz,  476 U.S. 834 (1986) ....................
+15
+United States  v.  Riverside Bayview Homes, Inc.,
+474 U.S. 121 (1985) ................................................................
+37
+United States  v.  Testan,  424 U.S. 392 (1976) ....................
+15
+White Mountain Apache Tribe  v.  United States,
+9 Cl. Ct. 32 (1985) ...................................................................
+25
+Constitution, statutes and regulations:
+U.S. Const. Amend. V (Just Compensation
+Clause) ...........................................................................
+14, 34, 35
+Act of Mar. 3, 1863, ch. 92, § 10, 12 Stat. 767 .......................
+28
+Act of Apr. 4, 1996, Pub. L. No. 104-127, Tit. VII,
+110 Stat. 1108 :
+2
+§ 747(b)(3), 110 Stat. 1128 ................................................
+2
+§ 753(b)(2), 110 Stat. 1131 ................................................
+2
+Department of Agriculture Reorganization Act of
+1994, Pub. L. No. 103-354, Tit. II, § 233, 108 Stat.
+3219 ...........................................................................................
+2
+Emergency Low Income Housing Preservation Act of
+1987, Pub. L. No. 100-242, 101 Stat. 1877 ..........................
+5
+§ 202, 101 Stat. 1878 ..........................................................
+10
+§ 241:
+101 Stat. 1886 ...............................................................
+5, 21
+101 Stat. 1886-1887 .....................................................
+5
+
+VI
+Statutes and regulations—Continued:
+Page
+101 Stat. 1887 ...............................................................
+5
+101 Stat. 1889 ...............................................................
+6
+Housing Act of 1949, 42 U.S.C. 1441 et seq.:
+42 U.S.C. 1472(c) (1994 & Supp. V 1999) ...........................
+6
+42 U.S.C. 1472(c)(4)(A) .........................................................
+21
+42 U.S.C. 1472(c)(5)(A) .........................................................
+7
+42 U.S.C. 1472(c)(5)(A)(i) .................................................
+21, 39
+42 U.S.C. 1472(c)(5)(A)(ii) ....................................................
+21
+42 U.S.C. 1472(c)(5)(G)(ii)(II) ..........................................
+21, 26
+42 U.S.C. 1485 (§ 515) .......................
+2-3, 4, 5, 6, 7, 11, 18, 36
+42 U.S.C. 1490a (1994 & Supp. V 1999) (§ 521) .................
+2-3
+Housing and Community Development Act of 1980,
+Pub. L. No. 96-399, 94 Stat. 1614 ........................................
+4
+§ 514, 94 Stat. 1671-1672 ..................................................
+4
+Housing and Community Development Act of 1992,
+Pub. L. No. 102-550, 106 Stat. 3672 (42 U.S.C. 5301
+et seq.) ......................................................................................
+6
+§ 712, 106 Stat. 3841 ..........................................................
+6
+Housing and Community Development Amendments
+of 1979, Pub. L. No. 96-153, 93 Stat. 1101 .........................
+3-4
+§ 503(b), 93 Stat. 1134-1135 .............................................
+4
+Outer Banks Protection Act, Pub. L. No. 101-380,
+§ 6003, 104 Stat. 555 ..............................................................
+30
+Tucker Act, 28 U.S.C. 2501 ...............................................
+passim
+42 U.S.C. 1437 ............................................................................
+4
+7 C.F.R.:
+Section 1965.90 (1989) ...........................................................
+6
+Section 1965.210 .....................................................................
+7
+Section 1965.215 .....................................................................
+7, 26
+Section 1965.215(a) ................................................................
+7
+Miscellaneous:
+4 A. Corbin, Corbin on Contracts (1951) ..........................
+26, 27
+C. Corman, Limitation of Actions (1991):
+Vol. 1 ........................................................................................
+17
+Vol. 2 ........................................................................................
+26
+53 Fed. Reg. 13,245 (1988) .......................................................
+6
+
+VII
+Miscellaneous—Continued:
+Page
+H.R. Rep. No. 34, 37th Cong., 2d Sess. (1862) .....................
+29
+H.R. Rep. No. 154, 96th Cong., 1st Sess. (1979) ..................
+3
+H.R. Rep. No. 122, 100th Cong., 1st Sess. (1987) ................
+5
+18 W. Jaeger, Williston on Contracts (3d ed. 1978) ...........
+26
+3 Restatement (Second) of Contracts (1979) .......................
+32
+
+(1)
+In the Supreme Court of the United States
+No.  01-455
+FRANCONIA ASSOCIATES, ET AL., PETITIONERS
+v.
+UNITED STATES OF AMERICA
+GRASS VALLEY TERRACE, ET AL., PETITIONERS
+v.
+UNITED STATES OF AMERICA
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+BRIEF FOR THE UNITED STATES
+OPINIONS BELOW
+The opinion of the court of appeals in Franconia
+Associates, et al. v. United States (Pet. App. A1-A16) is
+reported at 240 F.3d 1358.  The opinions of the Court of
+Federal Claims in Franconia (Pet. App. A17-A44) are
+reported at 43 Fed. Cl. 702 and 44 Fed. Cl. 315
+(reconsideration). No opinion was issued by the court of
+appeals in Grass Valley, et al. v. United States.  The
+opinion of the Court of Federal Claims in Grass Valley
+(Pet. App. A45-A68) is reported at 46 Fed. Cl. 629.
+
+2
+JURISDICTION
+The judgment of the court of appeals in Franconia
+was entered on February 15, 2001. A petition for
+rehearing was denied on June 12, 2001 (Pet. App. A69-
+A70).  The judgment of the court of appeals in Grass
+Valley was entered on May 17, 2001.  On July 31, 2001,
+the Chief Justice extended the time within which to file
+a petition for a writ of certiorari in Grass Valley to and
+including September 14, 2001.  The petition for a writ of
+certiorari was filed on September 10, 2001.  The petition
+was granted on January 4, 2002.  This Court’s
+jurisdiction is invoked under 28 U.S.C. 1254(1).
+STATEMENT
+1. Under Sections 515 and 521 of the Housing Act of
+1949, 42 U.S.C. 1485, 1490a (1994 & Supp. V 1999), the
+Farmers Home Administration (FmHA) makes direct
+loans to private, non-profit entities to develop and/or
+construct rural housing designed to serve the elderly
+and low- or middle-income individuals and families.1
+Section 515 loans require the borrower, inter alia, to
+execute various loan documents, including a loan agree-
+ment, a promissory note, and a real estate mortgage.
+Before December 21, 1979, each petitioner entered
+into a loan agreement with the FmHA under Sections
+                                                           
+1 Since 1994, the program has been entrusted to the Rural
+Housing Service.  See Pet. App. A2 n.1.  The Secretary of Agricul-
+ture was authorized to establish the Rural Housing and Commu-
+nity Development Service by the Department of Agriculture Reor-
+ganization Act of 1994, Pub. L. No. 103-354, Tit. II, § 233, 108 Stat.
+3219; as amended by the Act of Apr. 4, 1996, Pub. L. No. 104-127,
+Tit. VII, §§ 747(b)(3), 753(b)(2), 110 Stat. 1128, 1131.  See also 7
+C.F.R. 2003.18 (functional organization of RHS).  For convenience,
+references in this brief to the Farmers Home Administration
+should be understood to refer to that agency and its successor.
+
+3
+515 and 521, “in order to provide rental housing and
+related facilities for eligible occupants  *  *  *  in rural
+areas.”  Pet. App. A165.  In the loan agreements, each
+petitioner certified that it was unable to obtain a
+comparable loan in the commercial market.  See id. at
+A177.  In addition, the loan agreements contained
+various provisions designed to ensure that the projects
+were affordable for persons and families with low
+incomes.  Those provisions included restrictions as to
+eligible tenants, the rents petitioners could charge, and
+the rate of return petitioners could realize, as well as
+requirements regarding the maintenance and financial
+operations of each project.  See id. at A165-A174.  Each
+loan agreement also specified the length of the loan,
+which was generally 40 or 50 years.  Id. at A3.
+The promissory notes executed by petitioners speci-
+fied that petitioners must pay the principal on the
+mortgage in scheduled installments, plus interest.  See
+Pet. App. A176-177.  Those notes also contained the
+prepayment provision that has been affected by the
+legislation in this case:  “Prepayments of scheduled
+installments, or any portion thereof, may be made at
+any time at the option of the Borrower.”  Id. at A176.
+No other provision of the loan documents addressed
+prepayment.
+2. In 1979, Congress found that many Section 515
+participants had prepaid their mortgages, thus threat-
+ening the continued availability of rural low- and
+moderate-income housing.  Finding that it had been
+“the clear intent of Congress that these projects be
+available to low and moderate income families for the
+entire original term of the loan,” Congress amended the
+National Housing Act to preclude the loss of low-cost
+rural housing due to prepayments.  H.R. Rep. No. 154,
+96th Cong., 1st Sess. 43 (1979).  In the Housing and
+
+4
+Community Development Amendments of 1979, Pub. L.
+No. 96-153, 93 Stat. 1101, Congress prohibited the
+FmHA from accepting prepayment of any loan made
+before or after the date of enactment unless the owner
+agreed to maintain the low-income use of the rental
+housing for either a 15-year or 20-year period from the
+date of the loan.  § 503(b), 93 Stat. 1134-1135.  That
+requirement could be avoided if the FmHA determined
+that there was no longer a need for the low-cost housing
+or if Federal or other financial assistance provided to
+residents would no longer be provided.  Ibid.
+In 1980, Congress further amended the National
+Housing Act to eliminate retroactive application of the
+Section 515 prepayment changes enacted in the 1979
+legislation.  The Housing and Community Development
+Act of 1980, Pub. L. No. 96-399, 94 Stat. 1614, provided
+that the prepayment restrictions included in the 1979
+legislation would apply only to loans entered into after
+December 21, 1979, the date of enactment of that
+legislation.   § 514, 94 Stat. 1671-1672.  The 1980 Act
+also required the Secretary of Agriculture to report to
+Congress about any adverse effects of the repeal upon
+the availability of low-income housing.  Pub. L. No. 96-
+399, § 514, 94 Stat. 1671-1672.
+3. By 1987, Congress had again become concerned
+about the dwindling supply of low- and moderate-in-
+come rural housing in the face of increasing prepay-
+ments of mortgages under Section 515.2  A House of
+Representatives Committee found that owners were
+                                                           
+2 In 1986, Congress had passed a temporary moratorium that
+precluded Section 515 prepayments in most cases.  The morato-
+rium originally was to expire in 1987, but it was extended into 1988
+by another temporary measure.  See 42 U.S.C. 1437 note (citing
+and quoting temporary measures).
+
+5
+“prepay[ing] or  *  *  *  refinanc[ing] their FmHA loans,
+without regard to the low income and elderly tenants in
+these projects.”  H.R. Rep. No. 122, 100th Cong., 1st
+Sess. 53 (1987).
+In response, Congress passed the Emergency Low
+Income Housing Preservation Act of 1987, Pub. L. No.
+100-242, 101 Stat. 1877 (ELIHPA), which amended the
+Housing Act of 1949 to impose permanent restrictions
+upon prepayment of Section 515 mortgages that were
+entered into before December 21, 1979.  That legis-
+lation, enacted on February 5, 1988, requires that
+before FmHA can accept an offer to prepay a mortgage
+entered into before December 21, 1979,
+the [FmHA] shall make reasonable efforts to enter
+into an agreement with the borrower under which
+the borrower will make a binding commitment to
+extend the low income use of the assisted housing
+and related facilities for not less than the 20-year
+period beginning on the date on which the agree-
+ment is executed.
+Pub. L. No. 100-242, § 241, 101 Stat. 1886.  The legis-
+lation further provides that the FmHA may include
+incentives in such an agreement, including an increase
+in the rate of return on investment, reduction of the
+interest rate on the loan, and an additional loan to the
+borrower.  § 241, 101 Stat. 1886-1887.
+Under ELIHPA, if the FmHA determines after a
+“reasonable period” that an agreement cannot be
+reached, the FmHA must require the owner to offer to
+sell the housing to “any qualified nonprofit organization
+or public agency at a fair market value determined by 2
+independent appraisers.”  Pub. L. No. 100-242, § 241,
+101 Stat. 1887.  If an offer to buy is not made by a
+nonprofit organization or agency within 180 days, the
+
+6
+FmHA may accept the owner’s offer to prepay or
+request refinancing.  Ibid.  The offer-for-sale
+requirement does not apply if the owner agrees to
+utilize the housing for the purposes set out in Section
+515 for a period designated by the FmHA and then
+offer to sell the housing to a nonprofit organization or
+public agency. The offer-for-sale requirement also does
+not apply if the FmHA determines that housing
+opportunities for minorities “will not be materially
+affected” by prepayment and either (1) the tenants will
+not be displaced by prepayment or (2) there is an
+“adequate supply” of “affordable” housing in the
+market area and “sufficient actions have been taken to
+ensure” that such housing “will be made available” to
+displaced tenants.   § 241, 101 Stat. 1889.  After
+ELIHPA, the FmHA may not allow prepayments
+without following the detailed provisions of the Act.
+The FmHA promulgated regulations to implement
+ELIHPA on April 22, 1988, and the regulations became
+effective on May 23, 1988.  53 Fed. Reg. 13,245 (1988),
+codified at 7 C.F.R. 1965.90 (1989).
+In 1992, Congress passed the Housing and Commu-
+nity Development Act of 1992.  Pub. L. No. 102-550, 106
+Stat. 3672 (codified in relevant part at 42 U.S.C. 1472(c)
+(1994 & Supp. V. 1999)) (the “1992 legislation”).  That
+legislation had no effect whatever on petitioners’ loans.
+See Pet. App. A13.  It did, however, extend ELIHPA’s
+restrictions to loans that were made after those of peti-
+tioners, i.e., loans made from December 21, 1979,
+through 1989.  Pub. L. No. 102-550, § 712, 106 Stat.
+3841.
+Current regulations governing Section 515 prepay-
+ments establish a process by which the FmHA ad-
+dresses prepayment requests, including detailed proce-
+dures and requirements regarding whether housing
+
+7
+opportunities for minorities will be affected by pre-
+payment and whether other housing has been made
+available for tenants displaced by prepayment.  7
+C.F.R. 1965.215.  The regulations also provide that,
+with respect to “develop[ing] an incentive offer,” that
+“[a] reasonable effort must be made to enter into an
+agreement with the borrower to maintain the housing
+for low-income use that takes into consideration the
+economic loss the borrower may suffer by foregoing
+prepayment.”  7 C.F.R. 1965.210.  In addition, the regu-
+lations clarify that the determinations required by 42
+U.S.C. 1472(c)(5)(A) before prepayment can be
+accepted—regarding the effect on minority housing
+opportunities, the displacement of tenants, and the
+supply of affordable housing in the market—will not be
+made unless and until the FmHA is unable to reach an
+agreement with a borrower on extending the bor-
+rower’s participation in the Section 515 program.
+7 C.F.R. 1965.215(a).
+4. Petitioners in Franconia filed this action in the
+Court of Federal Claims on May 30, 1997.  Plaintiffs in
+the case included both petitioners—all of whom had
+entered into loan agreements before December 21,
+1979, and were therefore subject to ELIHPA—and
+other plaintiffs, who had entered into loan agreements
+after December 21, 1979, and were therefore unaffected
+by ELIHPA.  See Pet. App. A3 n.2.  Petitioners’
+complaint in Franconia alleged that the prepayment
+provisions of their promissory notes gave them a
+“contractual right  *  *  *  to terminate their contracts
+by prepaying their [mortgages] at any time at their
+option.”  Id. at A126.  They claimed that ELIHPA
+“repudiated the contractual right of [petitioners] to
+terminate their contracts at any time at their option.”
+Ibid.
+
+8
+The Court of Federal Claims granted the govern-
+ment’s motion to dismiss petitioners’ claims, on the
+ground that they were barred by the six-year statute of
+limitations in 28 U.S.C. 2501.  Pet. App. A17-A44.
+Section 2501 provides:
+Every claim of which the United States Court of
+Federal Claims has jurisdiction shall be barred
+unless the petition thereon is filed within six years
+after such claim first accrues.
+The court held that petitioners’ contract claims accrued
+on May 23, 1988, the effective date of regulations imple-
+menting ELIHPA, and, because petitioners did not file
+their action until 1997, their claims did not fall within
+the six-year statute of limitations in 28 U.S.C. 2501.
+Pet. App. A34.
+The court rejected petitioners’ contention that the
+relevant legislation should be treated as merely an
+anticipatory repudiation, which does not trigger the
+commencement of the limitations period unless the
+owner chooses to treat it as a breach.  Pet. App. A30.
+The court reasoned that the prepayment provision in
+the loan contracts by its terms promised petitioners an
+“unfettered prepayment right,” that “[n]o conditions
+[were] attached to this promise,” and that it “extend[s]
+throughout the life of the loan agreements.”  Id. at A31-
+A32 (emphasis in original).  The court held that
+ELIHPA “withdrew this promise” so that “borrowers
+could no longer prepay their contracts without first
+going through lengthy and onerous procedures.”  Id. at
+A31. Because “[w]ith the 1988 legislation, the
+government broke its promise, ending its performance
+under the contract,” the “breach  *  *  *  occurred at the
+time of the legislation.”  Id. at A32.
+
+9
+The court also, sua sponte, dismissed petitioners’
+taking claims.  Pet. App. A34.  The court noted that
+petitioners asserted that the “[government’s] conduct
+constitutes a taking of their property.”  Ibid.  The court
+observed that “[t]here is only one instance of [govern-
+ment] conduct at issue—Congress’s change of the
+prepayment option.”  Ibid.  Accordingly, “[a]s this
+action is alleged to have constituted a taking, the claim
+would have accrued at the time of the 1988 legislation,
+which  *  *  *  was when Congress by law changed the
+plaintiffs’ prepayment rights.”  Ibid.  The court
+explained that “[t]he discussion  *  *  *  relevant to the
+breach of contract claim *  *  *  is equally applicable to
+the takings claim.”  Ibid.
+5. The Federal Circuit affirmed the lower court’s
+dismissal of the Franconia petitioners’ claims.  Pet.
+App. A1-A14.  The court agreed with the Court of
+Federal Claims that the prepayment provision of peti-
+tioners’ loan agreements “gave [petitioners] an unfet-
+tered right to prepay their loans at any time.”  Id. at
+A10.  It “did not require any performance on the part of
+the government because it constituted an unconditional
+promise on the part of FmHA to allow borrowers to
+prepay their loans, an obligation which extended for the
+life of the loan.”  Ibid.  Accordingly, “[i]f that continuing
+duty was breached, the breach occurred immediately
+upon enactment of ELIHPA because, by its terms,
+ELIHPA took away the borrowers’ unfettered right of
+prepayment.”  Ibid.  Although the court of appeals thus
+disagreed with the Court of Federal Claims’ conclusion
+that petitioners’ action accrued upon the effective date
+of the regulations implementing ELIHPA, see id. at
+A12 n.3, that disagreement was of no consequence,
+because petitioners’ suit was time-barred when
+
+10
+measured against either ELIHPA’s effective date or
+the effective date of the implementing regulations.
+The court acknowledged the anticipatory breach
+doctrine and its application to the government.  The
+court stated that “if the enactment of ELIHPA was not
+a breach, but simply an act of anticipatory repudiation,
+then [petitioners’] claims did not accrue until some
+subsequent action by the government brought about an
+actual breach, although [petitioners] had the right to
+bring suit immediately upon the government’s repudia-
+tion of its obligation under the loan contracts.”  Pet.
+App. A10.  The court held, however, that “[t]he doctrine
+of anticipatory repudiation does not apply in this case,
+*  *  *  because  *  *  *  [t]he government contracted to
+allow borrowers the unfettered right to prepay their
+loans and breached that promise, if at all, through the
+enactment of ELIHPA.”  Id. at A10-A11.
+The court also rejected petitioners’ claim that the
+action accrued only upon the enactment of the 1992
+legislation.  Petitioners argued that “language in
+[ELIHPA] prohibits the 1988 legislation from serving
+as the date of breach because the elimination of pre-
+payment rights was only temporary.”  Pet. App. A13.
+The court explained, however, that although “parts of
+ELIHPA were ‘interim measures,’ the section relating
+to FmHA loans was wholly permanent.”  Ibid. (quoting
+ELIHPA, Pub. L. No. 100-242, § 202, 101 Stat. 1878).
+The court noted that the 1992 legislation, on which
+petitioners sought to rely, “impacted only post Decem-
+ber 21, 1979 borrowers,” and thus had no effect on
+them.  Id. at A13 n.4.
+The court of appeals also affirmed the trial court’s
+dismissal of petitioners’ taking claims.  Pet. App. A13-
+A14.  The court stated that “[t]he government’s liability
+for a takings claim becomes fixed when the property at
+
+11
+issue is taken,” and that “[c]ontract rights are a form of
+property that may be appropriated by the govern-
+ment.”  Id. at A14.  The court held, however, that
+“[b]ecause [petitioners] brought this suit in May of
+1997, more than six years after ELIHPA effected an
+appropriation of their contract right, their takings
+claims are barred by the statute of limitations.”  Ibid.
+6. On September 16, 1998, the Grass Valley
+petitioners—all of whom had entered into Section 515
+loan agreements before December 21, 1979—and other
+plaintiffs filed an action in the Court of Federal Claims
+virtually identical to the Franconia action.  On April 12,
+2000, that court granted the government’s motion to
+dismiss petitioners’ claims, essentially for the same rea-
+sons that it had dismissed the claims of the Franconia
+petitioners.  Pet. App. A45-A68. On May 17, 2001, the
+United States Court of Appeals for the Federal Circuit
+affirmed without opinion.  Pet. App. A15-A16.
+SUMMARY OF ARGUMENT
+I. This case concerns the application of the statute of
+limitations in 28 U.S.C. 2501, which provides that any
+claim in the Court of Federal Claims must be filed
+“within six years after such claim first accrues,” to peti-
+tioners’ claims that ELIHPA restricted their prepay-
+ment rights in violation of their contracts.  As a waiver
+of sovereign immunity, Section 2501 must be strictly
+construed in favor of the government.  The emphasis on
+promptness conveyed by the terms of the statute (“first
+accrued”) is supported not only by the need to avoid
+stale claims that supports any statute of limitations, but
+also by the particular need of Congress to have rea-
+sonably prompt notice if a statute breaches government
+contracts.
+
+12
+It is settled law that claims first accrue when
+plaintiffs are first able to file suit. Plaintiffs alleged that
+their loan documents gave them an unfettered right to
+prepay their loans at their option any time during the
+40- or 50-year terms of their loans.  The terms of
+ELIHPA, however, eliminated that unfettered right,
+replacing it with a substantially more limited and
+uncertain possibility of prepayment, subject to what
+petitioners describe as lengthy, cumbersome, and costly
+procedures.  Accordingly, as the Federal Circuit recog-
+nized, the government breached its promise, if at all,
+when ELIHPA eliminated petitioners’ unfettered pre-
+payment right, and petitioners could have filed suit at
+any time after ELIHPA was enacted.  Because peti-
+tioners instead waited nine or ten years after ELIHPA
+to file suit, their claims are time-barred.
+Petitioners invoke the doctrine of “anticipatory
+repudiation,” under which a party’s mere statement of
+intent to commit a breach in the future does not start
+the statute of limitations running until such later time
+as an actual breach occurs.  The anticipatory breach
+doctrine is inapplicable in this case, because ELIHPA is
+not a mere statement of intent to commit a breach by a
+private actor or government contracting officer.  It is a
+duly enacted law that immediately and permanently
+prevented the FmHA from performing its alleged
+contractual obligations.  Moreover, the purpose of the
+anticipatory breach doctrine is to permit the non-
+breaching party to await the time of performance to file
+suit, thereby giving the repudiating party the opportu-
+nity to change its mind and comply with its contractual
+obligations in the end.  Treating ELIHPA as merely an
+anticipatory breach would not serve that purpose.
+After ELIHPA, no federal official could simply decide
+to accept a tendered prepayment from petitioners.
+
+13
+Petitioners argue that Mobil Oil Exploration &
+Producing Southeast, Inc. v. United States, 530 U.S.
+604 (2000), established that ELIHPA was merely an
+anticipatory repudiation, not an actual breach.  That
+case, however, had nothing to do with either the
+distinction between an anticipatory repudiation and a
+present breach or the date of accrual of a claim under a
+statute of limitations.  Accordingly, the Court in Mobil
+had no occasion to—and did not—examine the differ-
+ence between an anticipatory repudiation and a present
+breach.  To the contrary, the Court in Mobil referred to
+the statute at issue there both as an anticipatory
+statement of intent not to perform and as a present
+breach, and nothing turned on which characterization
+was correct.
+More generally, petitioners err in asserting that the
+court of appeals’ decision exempts the government from
+standard contract law principles applicable to private
+parties.  An Act of Congress (such as ELIHPA) does
+not have the same effect as a mere statement of intent
+not to perform a contract.  Moreover, an Act of Con-
+gress could not constitute an anticipatory repudiation of
+a non-government contract, so the search for an exact
+parallel in contracts solely between private parties is
+futile.  In addition, the rules requiring strict construc-
+tion of a statute of limitations that is a condition of a
+waiver of sovereign immunity do not apply to statutes
+of limitations governing private contracts.  The court of
+appeals based its decision not on a principle that
+ordinary rules of contract law are inapplicable to the
+government, but rather on the resolution of the particu-
+lar issues that arise in interpreting ELIHPA and
+applying Section 2501—a statute that has no application
+to claims against private parties—to petitioners’ breach
+of contract claims.
+
+14
+II.
+The court of appeals correctly held that any
+taking claims petitioners may have under the Just
+Compensation Clause are time-barred for the same
+reasons as their contract claims.  Petitioners’ taking
+claims are not independently viable in any event,
+because damages for breach of their contracts would
+eliminate any taking claims by providing sufficient
+compensation for any property rights that could have
+been taken.  But even if that were not true, their taking
+claims would be entirely parasitic on their contract
+claims, in the sense that if there was no breach of
+contract, there was also no taking; petitioners could not
+complain that the government had imposed restrictions
+on their properties that constituted a taking if they
+themselves had agreed to those restrictions and
+received (and continue to receive) consideration for that
+agreement.
+Because petitioners’ taking claims are, at best, com-
+pletely dependent on petitioners’ contract claims, the
+taking claims should be treated as having accrued at
+the same time as the contract claims.  Otherwise, those
+in petitioners’ position would be able to plead them-
+selves out of the time bar imposed by Section 2501
+simply by reformulating their contract claims as taking
+claims.
+ARGUMENT
+I.
+PETITIONERS’ CONTRACT CLAIMS ACCRUED
+UPON ENACTMENT OF ELIHPA
+A.
+Section 2501 Requires That Claims Be Brought
+Within Six Years After They First Accrued
+Under 28 U.S.C. 2501, “[e]very claim of which the
+United States Court of Federal Claims has jurisdiction
+shall be barred unless the petition thereon is filed
+within six years after such claim first accrues.”  The
+
+15
+principles requiring a strict construction of Section 2501
+in favor of the sovereign are not in doubt and have been
+repeatedly and recently reaffirmed by this Court.
+Section 2501 “makes it a condition or qualification of
+the right to a judgment against the United States that
+*  *  *  the claim must be put in suit  *  *  *  within six
+years after suit could be commenced thereon against
+the Government.”  Finn v. United States, 123 U.S. 227,
+232 (1887).  Such provisions are “ ‘a central condition’ of
+the sovereign’s waiver of immunity.”  Raygor v.
+Regents of the Univ. of Minn., 122 S. Ct. 999, 1005
+(2002) (quoting United States v. Mottaz, 476 U.S. 834,
+843 (1986)); see also Block v. North Dakota, 461 U.S.
+273, 287 (1983). It is a fundamental principle that “[a]
+waiver of sovereign immunity ‘cannot be implied but
+must be unequivocally expressed.’ ”  United States v.
+Mitchell, 445 U.S. 535, 538 (1980) (quoting United
+States v. King, 395 U.S. 1, 4 (1969)); see also United
+States v. Testan, 424 U.S. 392, 399 (1976).  Accordingly,
+“a waiver of the Government’s sovereign immunity will
+be strictly construed, in terms of its scope, in favor of
+the sovereign.”  Lane v. Pena, 518 U.S. 187, 192 (1996);
+see also Office of Pers. Mgmt. v. Richmond, 496 U.S.
+414, 432 (1990) (noting “many precedents establishing
+that authorizations for suits against the Government
+must be strictly construed in its favor”); United States
+v. Kubrick, 444 U.S. 111, 117-118 (1979) (applying
+principle to statute of limitations). Almost fifty years
+ago, Soriano v. United States, 352 U.S. 270, 276 (1957),
+specifically applied that rule of construction to Section
+2501, noting that the Court “has long decided that
+limitations and conditions upon which the Government
+consents to be sued must be strictly observed.”
+Two related textual features of Section 2501
+reinforce the conclusion that its limitations period must
+
+16
+be strictly construed.  First, Congress provided in
+Section 2501 for a generous six-year period in which to
+bring claims.  That is ample time for even the most
+hesitant plaintiffs to learn of a governmental action that
+may lead to a claim and to commence an action.  More-
+over, extending suits beyond that period would defeat
+Congress’s strong interest in protecting the govern-
+ment from stale claims, lost memories, and missing
+documents.  See Beach v. Ocwen Fed. Bank, 523 U.S.
+410, 415-416 (1998).
+Extending the six-year period also would interfere
+with the government’s distinctive interest in preserv-
+ing its ability to have reasonably prompt notice of the
+fiscal implications of past enactments and to take into
+account the costs of those past actions in making future
+budgetary and programmatic decisions.  In a case like
+this, in which the claim is that a statute has caused a
+breach of contract, the rule of strict construction of
+statutes of limitations has special force, because it
+serves the salutary purpose of ensuring that a Congress
+close to the one that enacted the statute—rather than a
+Congress serving perhaps many decades later—may
+and must address the consequences of the statute, by
+increasing taxes, reducing spending, or revisiting the
+wisdom of the enactment. A contrary rule in this case
+could delay the final reckoning of the fiscal impact of
+ELIHPA for 40 or more years.  The government’s in-
+terests in allowing a reasonably prompt accounting for
+the consequences of government action make it particu-
+larly important that limitations periods that are con-
+ditions on waivers of sovereign immunity, such as the
+six-year period in Section 2501, be strictly construed.
+Second, the text of Section 2501 itself provides an
+indication that Congress intended a strict construction
+of its provisions.  Section 2501 provides not merely that
+
+17
+a claim must be brought within six years of accrual, but
+that it must be brought within six years of when the
+claim “first” accrues.  It is “a cardinal principle of statu-
+tory construction” that “a statute ought, upon the
+whole, to be so construed that, if it can be prevented, no
+clause, sentence, or word shall be superfluous, void, or
+insignificant.”  TRW, Inc. v. Andrews, 122 S. Ct. 441,
+449 (2001); United States v. Campos-Serrano, 404 U.S.
+293, 301 n.14 (1971); Market Co. v. Hoffman, 101 U.S.
+112, 115-116 (1879).  In Section 2501, the term “first”
+serves the function of emphasizing Congress’s interest
+in seeing to it that the commencement of the generous
+six-year period for bringing claims must be the earliest
+possible date on which the claim accrued.
+B.
+The Claims In This Case First Accrued When Con-
+gress Enacted ELIHPA
+1. A claim accrues “when the plaintiff has ‘a com-
+plete and present cause of action.’ ”  Bay Area Laundry
+& Dry Cleaning Pension Trust Fund v. Ferbar Corp.,
+522 U.S. 192, 201 (1997).  “[A] cause of action does not
+become ‘complete and present’ for limitations purposes
+until the plaintiff can file suit and obtain relief.”  Ibid.
+For a breach of contract claim, that generally occurs at
+the time of the alleged breach.  1 C. Corman, Limi-
+tation of Actions § 7.2.1, at 485-486 (1991) (“The statute
+of limitations for a breach of contract begins to run at
+the time of such breach, even when the extent of actual
+damages is not then ascertainable.”); see also Kinsey v.
+United States, 852 F.2d 556, 557 (Fed. Cir. 1988) (cause
+of action accrues under Section 2501 “when all the
+events have occurred which fix the liability of the
+Government”).  Accordingly, to determine when peti-
+tioners’ claims accrued, it must be determined when the
+alleged breach of contract occurred.
+
+18
+2. To determine when a breach of contract occurs, it
+is essential to identify the promise that was breached.
+For purposes of this case, it may be assumed that the
+allegations of petitioners’ complaints—including the
+allegations regarding the promises contained in their
+contracts—are true.  In ruling on claims of other plain-
+tiffs in Franconia, the Court of Federal Claims found
+that the Section 515 loan documents, when read as a
+whole and in light of applicable canons of construction,
+cannot be construed to include a promise to permit
+other plaintiffs to prepay even in the face of a federal
+statute modifying prepayment rights.  See Pet. App.
+A35-A43 (Franconia).3  At least one other court of
+appeals has reached a similar conclusion.  See, e.g.,
+Parkridge Investors Ltd. v. Farmers Home Admin., 13
+F.3d 1192, 1198 (8th Cir.), cert. denied, 511 U.S. 1142
+(1994); but cf. Kimberly Assoc. v. United States, 261
+F.3d 864, 869-870 (9th Cir. 2001) (disagreeing about
+applicable contract interpretation principles).  If that is
+correct, then there was no breach of contract, and peti-
+tioners would not prevail on the merits.  Nonetheless,
+for purposes of this case, it may be assumed that peti-
+tioners obtained precisely the promise that they allege
+—a promise that permits them an unfettered right to
+prepay.
+3. The promise allegedly at issue in this case there-
+fore is, in the terms used by both courts below,
+petitioners’ “unfettered right to prepay their loans at
+any time” over the life of those loans.  Pet. App. A10;
+see id. at A31, A55.  The prepayment provisions of their
+                                                           
+3 The Court of Federal Claims in Grass Valley initially reached
+the same conclusion. Pet. App. A58-A67.  The court has subse-
+quently reconsidered that ruling. Grass Valley Terrace v. United
+States, 51 Fed. Cl. 436 (2002).
+
+19
+documents provided that “[p]repayments of scheduled
+installments or any portion thereof, may be made at any
+time at the option of Borrower.”  Id. at A122 (Franco-
+nia complaint); see id. at A176 (loan document). Peti-
+tioners’ complaints alleged that under those provisions,
+petitioners “were entitled  *  *  *  to terminate their
+contracts by prepaying their mortgages at any time at
+their option.”  Id. at A123; see id. at A112 (“optional
+termination rights could be exercised by [petitioners]
+‘at any time’ prior to the termination of the forty (40) or
+fifty (50) year terms of their contracts”); A137 (same).
+Petitioners thus alleged that, before ELIHPA, when-
+ever a borrower tendered the total amount due on the
+loan, the encumbrance on that borrower’s property had
+to be removed.  In petitioners’ terms, they were “con-
+tractually entitled to terminate their participation in
+the Government’s housing program by exercising their
+option to prepay at any time.”  Pet. App. A112.  To be
+sure, it is likely that the prepayment provision would
+have required the borrower in each case to submit to
+certain formalities designed to ensure that the correct
+amount was in fact paid.  But, aside from those formali-
+ties, in petitioners’ view, the prepayment provision
+gave the government no right whatever to refuse the
+prepayment or to refuse to take reasonable steps to
+remove the encumbrance on the borrower’s property.
+As the court of appeals held, “ELIHPA took away
+the borrowers’ unfettered right of prepayment.”  Pet.
+App. A10.  ELIHPA essentially precluded a borrower
+from prepaying the loan at any time at the borrower’s
+option.  As the complaints alleged, ELIHPA provided
+for “forced sales of  *  *  *  owners’ properties” under
+“lengthy, cumbersome, and costly procedures” if the
+
+20
+owners wanted to prepay their loans.  Id. at A127.4   The
+complaints alleged that, when prepayments were
+tendered, “[t]he Government has in every instance
+refused to accept prepayment  *  *  *  pursuant to the
+provisions of [the] contracts.”  Id. at A129.  As a result,
+petitioners “have suffered  *  *  *  diminutions in the
+fair market value of their properties as a  *  *  *  result
+of  *  *  *  the extended restrictions on the profitable
+use of their properties,” “the costs associated with con-
+tinuing to operate under and comply with rules and
+regulations associated with the Government’s housing
+programs,” and “the lost opportunity costs associated
+with investment and business opportunities [peti-
+tioners] have been foreclosed from pursuing.”  Id. at
+A131.  Petitioners alleged that ELIHPA “has deprived
+and will deprive each [of petitioners] of its contractual
+right to terminate its contract at any time at its option.”
+Id. at A132.
+Those allegations are based on the plain terms of
+ELIHPA. Under ELIHPA, the FmHA cannot allow
+prepayment until it has “ma[d]e reasonable efforts to
+enter into an agreement with the borrower under which
+the borrower will make a binding commitment to
+extend the low income use of the assisted housing” for
+at least 20 years.  42 U.S.C. 1472(c)(4)(A).  Moreover, if
+                                                           
+4 This and other allegations in the complaint referred to the
+1992 legislation, not to ELIHPA itself, which was enacted in 1988.
+The court of appeals correctly held, however, that the 1992 legis-
+lation had no effect whatever on petitioners and imposed no new
+restrictions on their prepayment or other rights.  See Pet. App.
+A13 n.4.  Petitioners have not challenged that ruling before this
+Court.  See p. 10, supra.  Accordingly, for purposes of construing
+petitioners’ complaint, this brief treats petitioners’ allegations
+regarding the 1992 legislation as regarding ELIHPA, unless other-
+wise indicated.
+
+21
+“after a reasonable period,” no such agreement is
+possible, FmHA must require the borrower “to offer to
+sell the assisted housing” to “any qualified nonprofit
+organization or public agency at a fair market value
+determined by 2 independent appraisers.”  42 U.S.C.
+1472(c)(5)(A)(i).  Finally, if no agency accepts that offer
+after 180 days, see 42 U.S.C. 1472(c)(5)(A)(ii), or if the
+FmHA determines “that housing opportunities of
+minorities will not be materially affected as a result of
+the prepayment,” that “there is an adequate supply of
+safe, decent, and affordable rental housing within the
+market area,” and that “sufficient actions have been
+taken to ensure that the rental housing will be made
+available to each tenant upon displacement,” 42 U.S.C.
+1472(c)(5)(G)(ii)(II), it may accept the offer to prepay.
+In short, before ELIHPA, petitioners had an unfet-
+tered legal right to prepay at any time, granted in their
+loan documents.  After ELIHPA, petitioners no longer
+had that right, because Congress had eliminated it and
+substituted a far more limited and uncertain possibility
+of prepayment—subject to what petitioners describe as
+“lengthy, cumbersome, and costly procedures” and the
+possibility of losing their properties entirely through
+what they allege would have been a “forced sale” at less
+than a market-determined price.  Accordingly,
+ELIHPA “took away the borrowers’ unfettered right of
+prepayment,” Pet. App. A10, and the government thus
+“breached [its] promise, if at all, through the enactment
+of ELIHPA.”  Id. at A11.
+ELIHPA was enacted on February 5, 1988.  See Pub.
+L. No. 100-242, § 241, 101 Stat. 1886.  As petitioners
+themselves appear to concede (Br. 27), they could have
+filed their claims on that date.  Under Section 2501,
+therefore, their claims “first accrued” on that date, and
+petitioners had six years thereafter in which to bring
+
+22
+suit. Instead they waited nine years (in Franconia) and
+ten years (in Grass Valley) to file their claims.  Those
+claims were therefore barred by Section 2501.
+C.
+ELIHPA Was Not An Anticipatory Repudiation
+Petitioners invoke the doctrine of “anticipatory
+repudiation” to argue (Br. 27) that they had the option
+of filing their claims either when ELIHPA was enacted
+or at whatever later time each petitioner elected to
+tender prepayment and was denied the right to prepay
+its loan.  The court of appeals, however, correctly held
+that the enactment of ELIHPA was not an anticipatory
+repudiation and did not therefore permit them to wait
+as long as they wished before filing suit.
+1. The court of appeals recognized the doctrine of
+anticipatory repudiation and held that doctrine applica-
+ble to the government.  The court explained that
+[a]n anticipatory repudiation occurs when an obligor
+communicates to an obligee that he will commit a
+breach in the future  * * *.  In such a situation, the
+normal rule is that the statute of limitations begins
+to run from the date of performance specified in the
+contract unless the obligee elects to sue earlier for
+anticipatory repudiation.
+Pet. App. A10.  The court further noted that
+if the enactment of ELIHPA was not a breach, but
+simply an act of anticipatory repudiation, then ap-
+pellants’ claims did not accrue until some subse-
+quent action by the government brought about an
+actual breach, although [petitioners] had the right to
+bring suit immediately upon the government’s re-
+pudiation of its obligation under the loan contracts.
+Ibid.; see Central Trust Co. v. Chicago Auditorium
+Association, 240 U.S. 581, 589 (1916).  Petitioners do
+
+23
+not appear to disagree with that general statement of
+the doctrine, its effect on the statute of limitations, or
+its application to the government.
+Petitioners may not take advantage of the anticipa-
+tory breach doctrine in this case, because ELIHPA
+effected a breach of their contract, not a mere repudia-
+tion.  Pet. App. A10-A11.  To paraphrase the court of
+appeals, ELIHPA did not merely “communicate[] that
+[the government] will commit a breach in the future.”
+Id. at A10.  Because ELIHPA was a statute duly
+enacted by Congress, it eliminated, as a matter of law,
+petitioners’ unfettered contractual right to prepay their
+loans at any time.  The answer to the question whether
+petitioners had an unfettered right to prepay was
+unambiguous immediately after ELIHPA’s enactment.
+According to petitioners’ own allegations, ELIHPA
+substituted for an unfettered right to prepay a much
+different and inferior ability to seek to obtain govern-
+ment permission to prepay under narrow conditions
+after a substantial waiting period and subject to numer-
+ous and burdensome conditions.  Because it unambigu-
+ously eliminated their unfettered legal right to pre-
+payment, ELIHPA was a breach of their contract, not a
+mere repudiation.
+Petitioners attempt to rely (Br. 28) on the inapposite
+principle “that a party’s statement that it will not honor
+the terms of an option contained in a contract consti-
+tutes an anticipatory repudiation, such that the option-
+holder need not bring suit until after it attempts to
+exercise the option and the repudiating party fails to
+perform by accepting the tender.”  The cases cited by
+petitioners (see Br. 28) for that proposition all concern
+private options contracts, in which one private party
+simply manifested its intent not to perform.  Those
+cases presumably would apply in a government case as
+
+24
+well, if a contracting officer simply informed a private
+contracting party that the government did not intend to
+perform a future contractual obligation.  Any such
+statement by the contracting officer could not alter the
+private party’s legal right under the contract to con-
+tinuing performance, and the private party accordingly
+could wait for the performance to come due before filing
+suit.  In this case, however, it is an Act of Congress that
+affected (and allegedly eliminated) petitioners’ contrac-
+tual rights, not a mere statement by a private individ-
+ual or even by a federal contracting officer.  The law
+fundamentally altered the legal rights of the parties
+and, according to petitioners, eliminated their unfet-
+tered right to prepay at any time.  Accordingly, under
+petitioners’ view of the case, that law constituted a
+breach of contract, not a mere statement of intent not
+to perform in the future.
+2. Petitioners argue extensively (Br. 32-37) that
+ELIHPA in fact preserved their prepayment right in
+some respects.  Insofar as ELIHPA did so, that simply
+limits the scope of the alleged breach.  Petitioners’
+complaints were based on the ways in which ELIHPA
+allegedly breached their contractual rights, not the fact
+that it honored their rights in some respects.5  They
+                                                           
+5 In this regard, it is significant that petitioners did not allege
+that they went through the entire ELIHPA process to determine
+ultimately whether they would be permitted to prepay, and it is
+not known on this record whether any of them would ultimately
+have been permitted to prepay.  Instead, petitioners simply al-
+leged that some (but not all) of them tendered prepayment—with-
+out going through the ELIHPA process—and “[t]he Government
+has in every instance refused to accept prepayment.”   Pet. App.
+A129. Thus, the gravamen of their complaint is that the very act of
+being relegated to the process required by ELIHPA violates their
+contractual rights.
+
+25
+alleged that ELIHPA “provides for forced sales of said
+owners’ properties” and “required” them to follow
+“lengthy, cumbersome, and costly procedures.”  Pet.
+App. A127.  They also alleged that “[a]ll plaintiffs have
+suffered  *  *  *  damages,” including “diminutions in the
+fair market value of their properties.”  Id. at A131.
+Thus, because the only breach of which petitioners com-
+plain is the requirement that they go through the
+ELIHPA procedures—and because ELIHPA unambi-
+guously imposed those procedures and unambiguously
+eliminated any unfettered right to prepay—the fact
+that ELIHPA to some degree preserves their ability to
+prepay does not somehow make petitioners’ claims
+timely.6
+                                                           
+In their motion for reconsideration in the Court of Federal
+Claims, petitioners for the first time submitted the affidavit of
+Phoebe Perri, upon which petitioners rely in their brief here.  See
+Pet. Br. 47-49.  Neither court below adverted to that affidavit.
+Because it was not offered until petitioners’ motion for recon-
+sideration in the trial court, and there was no reason it could not
+have been offered earlier, it should not be considered.  See White
+Mountain Apache Tribe v. United States, 9 Cl. Ct. 32, 34 (1985)
+(“Courts are particularly unreceptive to factual assertions  *  *  *
+that were available during initial briefing, but which surface on
+reconsideration.”); see also Frietsch v. Refco, Inc., 56 F.3d 825, 828
+(7th Cir. 1995) (refusing to consider affidavit submitted for first
+time with motion for reconsideration of decision granting motion to
+dismiss).  In any event, the affidavit simply states that the affiant
+tendered prepayment and that it was denied; it does not assert
+that the affiant went through the ELIHPA process, including
+offering the property to nonprofit organizations.
+6 Moreover, even the provision of ELIHPA permitting prepay-
+ment on which petitioners place their primary reliance (Br. 34)
+requires not merely that the FmHA make certain findings
+regarding the adequacy of the stock of low-income housing before
+permitting prepayment, but also that “sufficient actions have been
+taken to ensure that the rental housing will be made available to
+
+26
+D. The Court Of Appeals’ Result Is Supported Both By
+The Purposes Of The Anticipatory Repudiation
+Doctrine And By Those Of Section 2501
+1. The conclusion that petitioners’ claim accrued
+when ELIHPA was enacted is reinforced by the
+underlying purposes of the anticipatory repudiation
+doctrine.  Petitioners themselves explain (Pet. 23) that,
+in the ordinary case in which a statement by a private
+individual is treated as an anticipatory repudiation,
+“[a]llowing the obligee to defer suit until the time for
+performance arrives provides the obligor an opportu-
+nity to retract its wrongful repudiation and perform as
+promised, thereby eliminating the need for a lawsuit.”
+Professor Corbin similarly explained that the doctrine
+is based on the principle that “[t]he plaintiff should not
+be penalized for leaving to the defendant an opportu-
+nity to retract his wrongful repudiation; and he would
+be so penalized if the statutory period of limitation is
+held to begin to run against him immediately.”  4
+Corbin on Contracts, supra, § 989, at 967; see Pet. Br.
+                                                           
+each tenant upon displacement.”  42 U.S.C. 1472(c)(5)(G)(ii)(II).
+See also 7 C.F.R. 1965.215 (detailing procedures). There is no pro-
+vision of ELIHPA that gives petitioners an unfettered right to
+prepay.  Moreover, even if ELIHPA is only a partial breach of the
+government’s promise of unfettered prepayment rights, such a
+partial breach commences the statutory limitation period.  See 2 C.
+Corman, Limitation of Actions § 6.1, at 376-377 (1991) (“Because a
+cause of action subsists when the right exists to demand compen-
+sation for injury done to person or property, no matter how slight
+that injury, it is reasoned that the suit can be instituted at once
+even though the full amount of damages is not yet apparent.”); see
+also Kinsey, 852 F.2d at 558 (statute begins to run immediately if
+“the breach is not wholly anticipatory because it involves some
+contractual nonperformance”) (citing 18 W. Jaeger, Williston on
+Contracts § 2027B, at 796 (3d ed. 1978)); 4 A. Corbin, Corbin on
+Contracts § 989, at 967 (1951)).
+
+27
+24 (quoting Corbin).  That is the correct rationale for
+the doctrine.
+That rationale, however, does not apply when Con-
+gress, as here, enacts a law that precludes performance.
+A repudiating party—whether a private individual or a
+federal contracting officer—may have an opportunity to
+reconsider when the alleged repudiation is simply a
+communicated intent not to perform a contractual obli-
+gation.  Despite any such communication, the promisor
+on the contract, whether private or governmental, re-
+mains free to change its mind and render the requisite
+performance.  But when an intervening Act of Congress
+precludes performance, the contracting officer is not
+free to reconsider.  The breach is unequivocal.
+The terms of ELIHPA at issue here illustrate that
+point.  The provisions of ELIHPA applicable to FmHA
+loans are the law of the land; they are not open to
+reconsideration by FmHA.  Nor are the provisions tem-
+porary.  Indeed, the court of appeals rejected peti-
+tioners’ argument—not renewed in this Court—that no
+final breach occurred until the 1992 legislation, because
+congressional findings at the time ELIHPA was en-
+acted in 1988 referred to “interim measures.”  The court
+of appeals correctly explained that, “while this lan-
+guage indicates that parts of ELIHPA were ‘interim
+measures,’ the section relating to FmHA loans was
+wholly permanent.”  Pet. App. A13 (emphasis added).
+In this respect, the provisions applicable to FmHA
+loans contrasted with other ELIHPA provisions, appli-
+cable to HUD-insured loans, that had a two-year sunset
+provision.  Ibid.; see id. at A5-A6 (discussing time limit
+on HUD-insured loans).  The enactment of ELIHPA
+immediately and permanently prevented the FmHA
+
+28
+from performing its alleged obligations under the
+contractual language at issue.7
+2. The conclusion that petitioners had six years from
+the enactment of ELIHPA in 1988 to file suit also is
+supported by the purposes of Section 2501 and this
+Court’s cases  First, Section 2501 provides plaintiffs
+with a generous six years from when the action “first
+accrues.”  Here, petitioners clearly could have sued
+immediately after the passage of ELIHPA. Whatever
+rights petitioners might have to sue long after an action
+against a private party based on a non-legislative
+statement of intent to repudiate would have “first
+accrued,” the plain language of Section 2501 limits peti-
+tioners to six years after the passage of ELIHPA under
+the circumstances here.
+The underlying purpose of Section 2501 and its role
+as a waiver of sovereign immunity further support the
+conclusion that petitioners had six years to bring their
+challenge to ELIHPA.  When Section 2501 was enacted
+in 1863, see Act of Mar. 3, 1863, ch. 92, § 10, 12 Stat. 767,
+the House Report emphasized not merely the substan-
+tial importance of statutes of limitations generally, but
+also the centrality of a strictly construed limitations
+                                                           
+7 Other cases in related areas confirm that a statutory limita-
+tions period may commence at the time a cause of action may first
+be brought, even if that would prevent the plaintiff from waiting to
+determine whether the defendant would change its mind before
+filing suit.  In Delaware State Coll. v. Ricks, 449 U.S. 250 (1980),
+and Chardon v. Fernandez, 454 U.S. 6 (1981) (per curiam), public
+employees were informed that they had been denied tenure and
+that their employment would terminate at a particular date in the
+future.  The Court held in each case that the applicable limitation
+periods on the plaintiffs’ civil rights claims ran from the date they
+had been informed of the challenged action, not the date on which
+their employment was actually to terminate.
+
+29
+period to the overall purpose of permitting claimants to
+sue the government.  The Report stated:
+All claims against the government are barred unless
+prosecuted in six years.  We think this provision
+highly important to the government.  A man who
+neglects his business for six years cannot complain
+of the government for refusing his suit; and there is
+no doubt that a statute of limitation is even more
+demanded in justice to the government than it is to
+private individuals.
+H.R. Rep. No. 34, 37th Cong., 2d Sess. 3 (1862) (empha-
+sis added).  That is fully in accord with this Court’s
+historic recognition that conditions on waivers of
+sovereign immunity, specifically including those found
+in statutes of limitations, must be construed strictly.
+See p. 15, supra; Soriano v. United States, 352 U.S. 270,
+276 (1957) (applying that principle to Section 2501).
+Petitioners had an ample six-year period in which to
+bring their claims.  They waited, however, nine years or
+more to do so, and now claim that they could have
+waited decades longer.  Having “neglected their busi-
+ness for six years,” they “cannot complain of the gov-
+ernment for refusing [their] suit.”  H.R. Rep. No. 34,
+supra, at 3.
+Petitioners argue that they were entitled, at their
+sole discretion, to wait as long as they wished—perhaps
+for decades, until near the expiration of their 40-year or
+50-year mortgages—to bring suit on their claim that
+ELIHPA constituted a breach of their contract.  In
+McMahon v. United States, 342 U.S. 25 (1951), this
+Court rejected a similar claim in the context of an
+analogous statute of limitations applicable to actions
+against the government. Under the claimant’s theory in
+that case, “he would have it in his power, by delaying
+
+30
+*  *  *  filing, to postpone indefinitely commencement of
+the running of the statute of limitations and thus to
+delay indefinitely knowledge by the Government that a
+claim existed.”  Id. at 27.  The Court rejected that
+theory, stating that it “cannot construe the Act as
+giving claimants an option as to when they will choose
+to start the period of limitation of an action against the
+United States.”  Ibid.  The same principle is applicable
+here. As in McMahon, adoption of petitioners’ argu-
+ment that their claims do not first accrue until they
+subjectively decide to prepay would effectively cede the
+jurisdiction of the Court of Federal Claims, and the
+extent of the congressional waiver of sovereign immu-
+nity, to petitioners.
+E.
+This Court’s Decision In Mobil Does Not Support
+Petitioners’ Claim That ELIHPA 
+Was 
+An
+Anticipatory Repudiation
+Contrary to petitioners’ claims (Br. 24-28), this
+Court’s decision in Mobil Oil Exploration & Producing
+Southeast, Inc. v. United States, 530 U.S. 604 (2000),
+provides no support for their argument that ELIHPA
+was an anticipatory repudiation, rather than a breach.
+In Mobil, plaintiffs held leases with the government
+under which they possessed certain qualified rights to
+drill for oil and/or gas in the outer continental shelf.  By
+their terms, the leases were subject to certain statutes
+and regulations requiring the lessees to obtain regu-
+latory approvals before drilling.  Id. at 609.  After
+plaintiffs had executed the leases, Congress passed the
+Outer Banks Protection Act (OBPA), Pub. L. No. 101-
+380, § 6003, 104 Stat. 555, which added additional regu-
+latory approval requirements beyond those set forth in
+the statutes and regulations to which the lessees agreed
+to be subject.  530 U.S. at 611.  The Court accordingly
+
+31
+“conclude[d] that the Government violated the con-
+tracts.”  Id. at 618.
+Mobil has no relevance to this case.  First, neither
+the date of accrual of plaintiffs’ claims nor the statute of
+limitations was at issue in Mobil.  OBPA had been en-
+acted in 1990, and the lawsuit was commenced in 1992.
+See 530 U.S. at 611, 612.  Accordingly, the plaintiffs’
+claims were well within the statute of limitations, and
+the Court had no occasion to consider the date on which
+their action accrued or to apply the principle of strict
+construction of waivers of sovereign immunity.
+Second, the Court in Mobil did not in fact determine
+whether there had been an anticipatory repudiation or
+a present breach in that case, but instead referred to
+the statute at issue disjunctively as either anticipatory
+or a present breach.  See 530 U.S. at 608 (“[I]f the
+Government said it would break, or did break, an
+important contractual promise,  *  *  *  then  *  *  *  the
+Government must give the companies their money back
+[as restitution].”) (emphasis added); accord id. at 614
+(noting that the government “concedes, as it must, that
+relevant contract law entitles a contracting party to
+restitution if the other party ‘substantially’ breached a
+contract or communicated its intent to do so”) (empha-
+sis added).  The Court interchangeably labeled the
+statute a “violation,” a “breach,” and a “repudiation”
+throughout its opinion.  See, e.g., id. at 618 (“We con-
+clude *  *  *  that the Government violated the con-
+tracts.”); id. at 621 (“The breach was ‘substantia[l],’ de-
+priving the companies of the benefit of their bargain.”);
+id. at 620 (referring to “repudiation”).
+Third, and related to the above, the Court in Mobil
+had no occasion to address the distinction between an
+anticipatory repudiation and a present breach because
+nothing in that case turned on the differences between
+
+32
+them. Petitioners argue in a footnote (Br. 25 n.29) that
+“[t]he Court’s conclusion [in Mobil] that the legislation
+constituted a repudiation of the contracts at issue, as
+opposed to a full breach, was key to its holding that
+*  *  *  restitution was available.”  That contention is
+wrong, because, as the Restatement of Contracts
+explains, restitution “is available [to the injured party]
+regardless of whether the breach is by non-perfor-
+mance or by repudiation.”  3 Restatement (Second) of
+Contracts § 373, Cmt. a (1979).  Indeed, on the very
+page of the Mobil opinion cited by petitioners, the
+Court gave a single example of the circumstances when
+restitution is available.  That example—derived from
+the Restatement—is clearly an example of present
+breach, not repudiation; it provides that restitution is
+available if “A contracts to sell a tract of land to B for
+$100,000” and “[a]fter B has made a part payment of
+$20,000, A wrongfully refuses to transfer title.” 530
+U.S. at 608.
+Because either repudiation or a present breach would
+support restitution, Mobil can be understood as con-
+cluding that because there was at least a repudiation,
+there was no reason to go further and inquire whether
+the OBPA effected an outright breach. In short, Mobil
+had to do with whether the government had fulfilled its
+contractual commitments; it had nothing to do with—
+and did not decide any question concerning —the date
+of accrual of a claim or whether the statute in that case
+was an actual breach or an anticipatory repudiation.
+F.
+Petitioners’ Other Arguments Should Be Rejected
+1. Petitioners argue (Br. 29-30) that the court of
+appeals failed to recognize ELIHPA as an anticipatory
+breach because that court erroneously held that
+“FmHA’s only duty under the contracts was to
+
+33
+“continue to allow petitioners to prepay,” when, in fact,
+“FmHA’s obligation was to accept prepayment re-
+quests made by owners.”  The court of appeals did not
+distinguish between a duty to allow petitioners to
+prepay and a duty to accept tendered prepayments, and
+any such distinction would be without significance.  The
+language cited by petitioners, in context, simply made
+the point that the prepayment clause did not require
+any government performance besides permitting peti-
+tioners to prepay at any time; it nowhere stated that
+the government did not have a contractual duty to
+accept a properly tendered prepayment and thereafter
+take steps to remove any encumbrances on the
+borrowers’ property.
+In any event, petitioners’ reliance upon a duty to
+accept prepayment misses the point.  The language of
+petitioners’ loan documents focused upon the bor-
+rowers’ discretion, and the government’s duty under
+this language was to allow that discretion throughout
+the term of the contract, which, of course, included
+permitting (and accepting) prepayment if tendered.  By
+imposing restrictions upon the prepayment option,
+ELIHPA effected, under petitioners’ theory, an imme-
+diate breach of the only relevant contractual term
+—regardless of whether that is phrased in terms of
+petitioners’ unfettered right to prepay or the govern-
+ment’s obligation to accept any prepayment tendered.
+2. Finally, petitioners argue (Br. 21) that the court
+of appeals “exempted the government from standard
+contract law principles.”  For the reasons given above,
+that is not correct.  This Court has never held that a
+statute enacted by Congress has the same effect as a
+statement by an individual—governmental or private
+—of an intent not to perform a contractual obligation.
+
+34
+Any such conclusion would be mistaken, for two
+reasons.
+First, this Court has never suggested that a statute
+of limitations that is a condition of waiver of the
+government’s sovereign immunity should be construed
+under precisely the same principles as a statute of
+limitations applicable to private parties.  To the con-
+trary, the Court has made quite clear that conditions on
+waivers of sovereign immunity—including the specific
+limitation provision found in Section 2501—must be
+strictly construed, to ensure that it is Congress rather
+than the courts that authorizes the government’s
+liability.
+Second, a statute simply cannot result in an anticipa-
+tory breach of a contract not involving the government.
+A statute can make performance of a private contract
+impossible, but it cannot embody a private party’s
+intent to repudiate a contract.  Accordingly, the search
+for an exact analogy in the law of private party con-
+tracting is futile.  This is a special situation that arises
+only when the government is a contracting party.  The
+special considerations that underlie sovereign immunity
+and the text of Section 2501 provide ample support for a
+rule that does not allow a party to challenge an Act of
+Congress at any time during a 40-50 year mortgage.
+II.
+PETITIONERS’ CLAIMS UNDER THE JUST
+COMPENSATION CLAUSE ALSO ACCRUED
+UPON ENACTMENT OF ELIHPA
+Petitioners claim that the government has taken
+their property without just compensation, in violation
+of the Just Compensation Clause of the Fifth Amend-
+ment.  It is highly doubtful that any such claims are
+viable, because such claims are not distinct from peti-
+tioners’ contract claims and because compensation for
+
+35
+any breach would in any event provide sufficient “just
+compensation.”8  But, even if petitioners had viable
+claims for just compensation, those claims are at least
+entirely parasitic on their claims of breach of contract,
+in the sense that petitioners could show that there had
+been a taking only if they could show that there was a
+breach of contract as well.  In those circumstances, the
+constitutional claims, if any, must have accrued on the
+same date as the contract claims.  Both courts below
+therefore properly held that petitioners’ taking claims
+are time-barred for the same reasons as are their
+contract claims.
+1. Petitioners’ claims under the Just Compensation
+Clause are entirely parasitic on their contract claims, in
+the sense that the government could not be found to
+have taken their property unless it breached their con-
+tracts.  In their contracts with the government,
+                                                           
+8 The government’s failure to perform under a contract is a
+breach, not a taking, even if the contract has to do with real prop-
+erty.  See, e.g., Sun Oil Co. v. United States, 572 F.2d 786, 818 (Ct.
+Cl. 1978) (“[I]nterference with  *  *  *  contractual rights generally
+gives rise to a breach claim not a taking claim.”); Transpace
+Carriers, Inc. v. United States, 27 Fed. Cl. 269, 274 (1992) (same);
+Marathon Oil Co. v. United States, 16 Cl. Ct. 332, 338 (1989) (“The
+clear thrust of the authorities  *  *  *  is that where the government
+possesses property under the color of legal right, as by an express
+contract, there is seldom a taking in violation of the fifth amend-
+ment.”). Even if that failure were a taking, however, the contract
+damages available in the Court of Claims for breach of contract
+would be sufficient to provide just compensation to petitioners.
+Cf., e.g., Lujan v. G & G Fire Sprinklers, Inc., 532 U.S. 189, 196
+(2001) (“Though we assume for purposes of decision here that G &
+G has a property interest in its claim for payment,  *  *  *  it is an
+interest  *  *  *  that can be fully protected by an ordinary breach-
+of-contract suit.”); Home Sav. of Am. v. United States, 51 Fed. Cl.
+487, 494-496 (2002).
+
+36
+petitioners agreed to encumber their property and to
+use it in certain ways for so long as their loans were
+outstanding.  If the government did not breach their
+contracts, then petitioners could have no taking claim;
+they could not complain that the government has taken
+their property when they themselves agreed to the
+restrictions upon its use and received (and continue to
+receive) consideration for that agreement.9  Thus, the
+only conceivable taking claim that petitioners could
+assert would be entirely dependent on a showing that
+the government had breached their contracts.
+Because the validity of any taking claims would be
+entirely dependent on whether the government had
+breached its contracts with petitioners, any taking
+claim that was viable would have to accrue at the same
+time—and be time-barred at the same time—as the
+contract claim.  Common sense and the interest in or-
+derly proceedings support that result.  To hold other-
+wise would, in petitioners’ terms, create truly “unwork-
+able and illogical rules.”  Pet. Br. 46.  A plaintiff who
+failed to file a timely claim for breach of contract would
+be able to revive the claim simply by pleading it as a
+taking claim.  In other words, petitioners are correct
+(Br. 47) that requiring two suits to be brought at two
+separate times “would generate immense judicial inef-
+ficiencies by requiring courts to address the same facts
+and issues in separate suits that could be brought years,
+even decades, apart.” Thus, where a taking claim (if it
+                                                           
+9 Petitioners suggest (Br. 6-7) that they received virtually no
+benefits from their participation in the Section 515 program.  That
+contention has nothing to do with the statute of limitations ques-
+tion before the Court in this case. In addition, petitioners’ conten-
+tion is incorrect. Petitioners concede that their loans are at very
+low effective interest rates.  See Pet. Br. 7 n.10.  They also concede
+that they received substantial tax benefits.  See Pet. Br. 5 n.8.
+
+37
+exists at all) is entirely parasitic on a contract claim, the
+two should be held to first accrue at the same time.
+2. The court of appeals’ holding that the contract
+and taking claims accrued at the same time is consistent
+with this Court’s precedent.  Petitioners rely (Br. 39) on
+regulatory taking cases in which this Court has held
+that a taking claim “based on a statute or regulation
+that allows for an agency decision on the scope of per-
+missible use of the property at issue is not ripe for
+review until the agency renders a decision.”  None of
+the cases on which petitioners rely, however, had any-
+thing to do with a taking claim that was parasitic upon
+—or, indeed, in any way related to—a breach of con-
+tract claim.
+Petitioners cite (Br. 40), for example, United States
+v. Riverside Bayview Homes, Inc., 474 U.S. 121 (1985).
+In that case, the plaintiffs alleged that a federal statute,
+if construed to limit the use of their land, would con-
+stitute a taking.  The Court stated that “[t]he mere
+assertion of regulatory jurisdiction by a governmental
+body does not constitute a regulatory taking,” because
+“[o]nly when a permit is denied and the effect of the
+denial is to prevent ‘economically viable’ use of the land
+in question can it be said that a taking has occurred.”
+Id. at 126, 127.  In Riverside Bayview, however, the
+plaintiffs had never agreed, in a contract or otherwise,
+to the restrictions of which they complained, and the
+viability of their taking claim thus had nothing to do
+with any contract claim.
+Similarly, in Hodel v. Virginia Surface Mining &
+Reclamation Association, 452 U.S. 264 (1981), the
+Court rejected a claim by owners of coal mining lands
+that the mere enactment of a statute limiting their
+mining activities constituted a taking of their property.
+There was no allegation in Hodel that the plaintiffs had
+
+38
+ever agreed to the limitations embodied in the statute,
+and, again, the viability of their taking claim had
+nothing to do with any contract claim.
+In short, each of the cases upon which petitioners
+rely involved alleged takings of real estate interests
+separate and apart from any contractual relationship
+with the government.  The rules applicable to the
+accrual of such claims have little to do with the rules
+applicable to accrual of taking claims such as those at
+issue here, which—insofar as they are viable at all—
+are at least entirely dependent on the breach of the
+promises embodied in petitioners’ contracts.
+3. Petitioners contend (Br. 44-45) that they have dis-
+tinct taking claims that could have accrued indepen-
+dently of their contract claims, because they did not
+claim a taking of their contractual rights, but a taking
+“of their state-created real estate interests.”  They
+identify (Br. 45 n.48) those “real estate interests” as
+“the right to economically productive use and enjoy-
+ment, the right to exclusive possession, and the rights
+to transfer, devise, and dispose of their properties.”
+But the precise terms in which petitioners pleaded their
+claims make no difference for present purposes.  Any
+limits on the use of their properties were granted by
+petitioners in their loan agreements.  Thus, as noted
+above, if the government has not breached those agree-
+ments, there has been no taking.  If the government has
+breached those agreements, then any taking claim
+remaining was likely eliminated by their opportunity to
+obtain damages for breach of contract.  In any event,
+even if the taking claim were not eliminated, at the
+very least it had to have accrued at the time of the
+breach.
+4. The court of appeals’ decision does not conflict
+with its own prior decision in Greenbrier v. United
+
+39
+States, 193 F.3d 1348 (Fed. Cir. 1999), cert. denied, 530
+U.S. 1274 (2000).  In Greenbrier, the court held that the
+claims of owners of HUD-insured (but not HUD-fi-
+nanced) housing alleging that ELIHPA and other
+legislation effected a taking were not ripe because
+plaintiffs had not applied to the agency to prepay their
+loans.  Id. at 1360.  Unlike in this case, the plaintiffs in
+Greenbrier “were not in privity of contract with respect
+to the notes’ prepayment,” because the government
+was not a party to the prepayment provisions of the
+notes.  Id. at 1355.  Whatever private contracts they
+had signed concerning their prepayment rights were
+thus necessarily conditioned by the possibility of
+legislation that subjected their prepayment rights to
+some degree of government regulation.  Because the
+plaintiffs claimed a “regulatory taking,” see id. at 1357,
+their claim that their contract rights had been subject
+to a taking was not ripe until the precise restriction
+imposed upon their prepayment rights by the gov-
+ernment regulation became clear.10
+                                                           
+10 Even if petitioners had viable taking claims and those claims
+somehow did not have to be brought within six years of ELIHPA’s
+enactment, they could not simply be brought at any time, without
+exhausting ELIHPA’s procedures that may provide constitu-
+tionally just compensation.  As petitioners themselves have em-
+phasized (Br. 32-37), ELIHPA substitutes for an unfettered right
+to prepay a procedural mechanism that may result in the property
+owner receiving “fair market value” for the property, 42 U.S.C.
+1472(c)(5)(A)(i), or being able to prepay.  The procedures allegedly
+interfered with petitioners’ alleged unfettered right to prepay, and
+petitioners’ challenge therefore accrued upon enactment.  But to
+the extent that petitioners try to base a taking claim on something
+beyond the very existence of those ELIHPA provisions, then
+under settled law they would have to exhaust the ELIHPA proce-
+dures before their claim is even ripe.  Their complaints suggest
+
+40
+This case arises in the very different setting in which
+both petitioners and the government were parties to
+the contracts at issue, including the prepayment provi-
+sions.  Unlike the plaintiffs in Greenbrier, petitioners
+obtained a clause in a loan agreement with the govern-
+ment granting them (in their view) an “unfettered right
+to prepay.”  That contract right differed substantially
+from the private contract right at issue in Greenbrier.11
+Accordingly, while the regulatory taking claim in
+Greenbrier was not ripe until the scope of the regula-
+tory restriction on the private contract became clear,
+the taking claim in this case became ripe as soon as the
+government enacted ELIHPA, which itself eliminated
+petitioners’ alleged contractual right to be free of
+government-imposed conditions upon their prepay-
+ments.
+                                                           
+that they have not done so.  See Pet. App. A129, A152; see also
+note 4, supra.
+11 Petitioners’ estoppel argument (see Pet. Br. 42 n.44) must be
+rejected, because the facts of Greenbrier (and therefore the gov-
+ernment’s argument in that case) were substantially different from
+those here.  Judicial estoppel contemplates the existence of the
+same parties and facts as the case in which the previous argument
+was made.  See U.S. Phillips Corp. v. Sears Roebuck & Co., 55
+F.3d 592, 596 (Fed. Cir.), cert. denied, 516 U.S. 1010 (1995).  Peti-
+tioners do not cite a single case in which this theory has been
+applied against the government.
+
+41
+CONCLUSION
+The judgment of the court of appeals should be
+affirmed.
+Respectfully submitted.
+PAUL D. CLEMENT
+Acting Solicitor General*
+ROBERT D. MCCALLUM, JR.
+Assistant Attorney General
+JAMES A. FELDMAN
+Assistant to the Solicitor
+General
+DAVID M. COHEN
+MARK L. JOSEPHS
+Attorneys
+MARCH 2002
+                                                           
+* The Solicitor General is recused in this case.

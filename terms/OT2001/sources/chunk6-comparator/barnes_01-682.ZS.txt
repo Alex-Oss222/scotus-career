@@ -1,0 +1,50 @@
+BARNES V. GORMAN
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+BARNES V. GORMAN (01-682) 
+257 F.3d 738, reversed.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Souter ]Concurrence
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BARNES, IN HER OFFICIAL CAPACITY AS MEMBER OF THE BOARD OF POLICE COMMISSIONERS OF KANSAS CITY MISSOURI, et al. v. GORMAN
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+ 
+No. 01—682.  Argued April 23, 2002–Decided June 17, 2002
+
+Respondent, a paraplegic, suffered serious injuries that left him unable to work full time when, after arrest, he was transported to a Kansas City police station in a van that was not equipped to accommodate the disabled.  He sued petitioner police officials and officers for discriminating against him on the basis of his disability, in violation of §202 of the Americans with Disabilities Act of 1990 (ADA) and §504 of the Rehabilitation Act of 1973, by failing to maintain appropriate policies for the arrest and transportation of persons with spinal cord injuries.  A jury awarded him compensatory and punitive damages, but the District Court vacated as to punitive damages, holding that they are unavailable in private suits brought under §202 of the ADA and §504 of the Rehabilitation Act.  In reversing, the Eighth Circuit found punitive damages available under the “general rule” of Franklin v. Gwinnett County Public Schools, 503 U.S. 60, 70—71, that “absent clear direction to the contrary by Congress, the federal courts have the power to award any appropriate relief” for violation of a federal right.
+
+Held: Punitive damages may not be awarded in private suits brought under §202 of the ADA and §504 of the Rehabilitation Act.  These sections are enforceable through private causes of action, whose remedies are coextensive with those available in a private action under Title VI of the Civil Rights Act of 1964.  See §203 of the ADA and §505(a)(2) of the Rehabilitation Act.  Title VI invokes Congress’s Spending Clause power to place conditions on the grant of federal funds.  This Court has regularly applied a contract-law analogy in defining the scope of conduct for which funding recipients may be held liable in money damages, and in finding a damages remedy available, in private suits under Spending Clause legislation.  The same analogy applies in determining the scope of damages remedies.  A remedy is appropriate relief only if the recipient is on notice that, by accepting federal funding, it exposes itself to such liability.  A funding recipient is generally on notice that it is subject not only to those remedies explicitly provided in the relevant legislation but also to those traditionally available in breach of contract suits.  Title VI mentions no remedies; and punitive damages are generally not available for breach of contract.  Nor could it be said that Title VI funding recipients have, merely by accepting funds, implicitly consented to a remedy which is not normally available for contract actions, and the indeterminate magnitude of which could produce liability exceeding the level of federal funding.  Because punitive damages may not be awarded in private suits under Title VI, it follows that they may not be awarded in suits under §202 of the ADA and §504 of the Rehabilitation Act.  Pp. 3—9.
+
+257 F.3d 738, reversed.
+
+    Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, and Thomas, JJ., joined.  Souter, J., filed a concurring opinion, in which O’Connor, J., joined.  Stevens, J., filed an opinion concurring in the judgment, in which Ginsburg and Breyer, JJ., joined.

@@ -1,0 +1,2677 @@
+Source: https://archive.org/download/micro_IA40385014_0490/micro_IA40385014_0490%2006.%20Petitioners%20Brief_djvu.txt
+
+RECEIVED 
+
+
+» | 
+
+
+JAN 0 3 2002 | | 
+| . ato . 01-147 | OE 26 * 
+
+
+In the Supreme Court of the Unifed States 
+
+
+SECURITIES AND EXCHANGE COMMISSION, PETITIONER 
+
+
+CHARLES ZANDFORD 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE 
+SECURITIES AND EXCHANGE COMMISSION 
+
+
+DAVID M. BECKER 
+General Counsel 
+
+
+JACOB H. STILLMAN 
+Solicitor 
+
+RICHARD M. HUMES 
+Associate General Counsel 
+
+
+KATHARINE B. GRESHAM 
+Assistant General Counsel 
+
+
+SUSAN S. MCDONALD 
+Senior Litigation Counsel 
+
+
+PHILIP J. HOLMES 
+Senior Counsel 
+Securities and Exchange 
+Commission 
+Washington, D.C. 20549 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General 
+Counsel of Record 
+
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+
+MATTHEW D. ROBERTS 
+Assistant to the Solicitor 
+General 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether a stockbroker’s fraud is “in connection with 
+the * * * sale” of securities under Section 10(b) of the 
+Securities Exchange Act of 1934, 15 U.S.C. 78 (b), and 
+Rule 10b-5 of the Securities and Exchange Commission, 
+17 C.F.R. 240.10b-5, when the stockbroker sells his 
+customer’s securities for his own benefit and uses the 
+proceeds for himself, without disclosure to his customer 
+and without authorization to do so. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+Jurisdiction 
+Statute and rule involved 
+Statement 
+Summary of argument 
+Argument: 
+Section 10(b) and Rule 10b-5 prohibit a stockbroker 
+from fraudulently selling his customer’s securities 
+for his own benefit and misappropriating Lie 
+proceeds 
+A. Astockbroker’s fraudulent sale of customer 
+securities and his misappropriation of the 
+proceeds fall within Section 10(b)’s coverage 
+of “deceptive devices” employed “in connection 
+with” securities transactions 
+1. Astockbroker commits frand when he 
+secretly sells his customer’s securities 
+for his own benefit and when he mis- 
+appropriates the proceeds of the sales 
+2. A stockbroker’s conversion of customer 
+securities by means of fraudulent sales and 
+his misappropriation of the sales proceeds 
+are “in connection with” the sales 
+B. Stockbroker liability for fraudulent mis- 
+appropriation of customer securities and 
+their proceeds furthers important policies 
+of the securities laws 
+C. Precedent supports stockbroker liability for mis- 
+appropriation of customer securities and 
+securities proceeds 
+
+
+(IIT) 
+
+
+4w we = 
+
+
+11 
+
+
+13 
+
+
+15 
+
+
+19 
+
+
+IV 
+
+
+Table of Contents—Continued: 
+
+
+1. 
+
+
+This Court’s decision in Bankers Life 
+supports the conclusion that Section 
+10(b) and Rule 10b-5 are violated when 
+
+a stockbroker fraudulently misappropriates 
+
+
+D. The SEC’s contemporaneous and consistent 
+interpretation of Section 10(b) and Rule 10b-5 — 
+
+
+Cases: 
+
+
+is entitled to deference 
+
+
+The court of appeals erred in engrafting on Section 
+10(b) and Rule 10b-5 limitations that do not 
+
+
+appear in their text 
+1. 
+
+
+Section 10(b) and Rule 10b-5 are not limited 
+to misrepresentations about particular 
+securities or the value or other attributes 
+of particular securities 
+Applying Section 10(b) and Rule 10b-5 to 
+
+a stockbroker’s fraudulent conversion of cus- 
+not improperly federalize state law 
+
+
+TABLE OF AUTHORITIES 
+
+
+AT. Brod & Co. v. Perlow, 375 U.S. 398 (2d Cir. 
+1967) 
+Abrams v. Oppenheimer Gov't Sec., Inc., 787 F 2d 
+
+
+582 (7th Cir. 1984) 
+
+
+Affiliated Ute Citizens v. United States, 406 U.S. 
+
+
+128 (1972) 
+
+
+8 & 
+
+
+13, 40 
+
+
+19 
+
+
+13, 30 
+
+
+V 
+Alley v. Miramon, 614 F 2d 1372 (Sth Cir. 1980) 19 
+Allico Nat'l Corp. v. Amalgamated Meat Cutters 
+of North America, 397 F. 2d 727 (7th Cir. 1988) 31-32 
+
+
+Angelastro v. Prudential-Bache Sec., Inc., 
+764 F 2d 939 (3d Cir.), cert. denied, 474 U.S. 935 
+
+
+(1985) 23, 41, 43 
+Arrington v. Merrill Lynch, Pierce, Fenner & Smith, 
+
+651 F 2d 615 (9th Cir. 1981) 41-42 
+David Barroso, Jr., Exchange Act Release 
+
+No. 43,386, 73 SEC Docket 1396 (Sept. 29, 2000) 25 
+Basic Inc. v. Levinson, 485 U.S. 224 (1988) 24-25 
+
+
+Kenneth Leo Bauer, 26 S. E. C. 770 (1947) . 7, 12, 13, 35, 36, 48 
+Stuart F. Beck, Exchange Act Release No. 19,916, 
+
+
+28 SEC Docket 303 (June 27, 1983) 36 
+Blue Chip Stamps v. Manor Drug Stores, 421 US. 
+
+723 (1975) 15 
+Brown v. Ivie, 661 F 2d 62 (5th Cir. 1981), 
+
+cert. denied, 455 U.S. 990 (1982) 19 
+
+
+Buttrey v. Merrill Lynch, Pierce, Fenner & Smith, 
+Inc., 410 F.2d 135 (7th Cir.), cert. denied, 396 
+
+
+U.S. 838 (1969) 33-34 
+Calvert Sec. Corp., 35 S.E.C. 141 (1953) 36 
+Carpenter v. United States, 484 US. 19 (1987) . 8, 16 
+Central Bank of Denver, N.A. v. First Interstate 
+
+Bank of Denver, N.A., 511 U.S. 164 (1994) 14 
+Charles Hughes & Co. v. SEC, 139 F 2d 437 
+
+(2d Cir. 1948), cert. denied, 321 U.S. 786 (1949) ............... 12 
+
+
+Chemical Bank v. Arthur Andersen & Co., 
+726 F. 2d 980 (2d Cir.), cert. denied, 469 U.S. 
+884 (1984) 
+
+Chevron "'S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) 
+
+Chiarella v. United States, 445 U.S. 222 (1980) 
+
+Thomas V. Conwell, Exchange Act Release 
+No. 43,006, 72 SEC Docket 2500 (July 3, 2000) ................ 
+
+
+Cases—Continued: Page 
+Cooper v. North Jersey Trust Co., 226 F. Supp. 
+
+972 (S.D.N.Y. 1964) 32, 35 
+D.S. Waddy & Co., 30 S.E.C. 367 (1949) 36 
+Davis v. United States, 495 U.S. 472 (1990) . 10, 38, 39 
+Dirks v. SEC, 681 F.2d 824 (D.C. Cir. 1982), rev'd 
+
+on other grounds, 463 U.S. 646 (1983) 12 
+EEOC v. Assoc. Dry Goods Corp., 449 U.S. 590 
+
+(1981) 38-39 
+Edward's Lessee v. Darby, 25 U.S. (12 Wheat.) 
+
+206 (1827) 38 
+Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976)... 13-14, 41 
+Fey v. Walston & Co., 493 F.3d 1036 (7th Cir. 
+
+1974) 42 
+Flickinger v. Harold C. Brown & Co., 947 F 2d 
+
+595 (1991) 34 
+Globe Sec. Co., 10 S.E.C. 1105 (1942) 35 
+Good Samaritan Hosp. v. Shalala, 508 US. 402 
+
+(1993) 38 
+Grin v. Shine, 187 U.S. 181 (1902) 16-17, 19 
+Hartford Fire Ins. Co. v. California, 509 US. 
+
+764 (1993) 7 
+Shan Michael Hefley, Exchange Act Release 
+
+No. 42,625, 72 SEC Docket 259 (Apr. 5, 2000) 26 
+Herman & MacLean v. Huddleston, 459 US. 
+
+375 (1983) 14, 25, 27, 41 
+Douglas J. Hopwood, Exchange Act Release 
+
+No. 43,353, 73 SEC Docket 1125 (Sept. 26, 2000) 25 
+Hunt v. Robinson, 852 F 2d 786 (4th Cir. 1988). 6, 34 
+Janney Montgomery Scott LLC, Exchange Act 
+
+Release No. 43,050, 72 SEC Docket 2663 (July 
+
+18, 2000) 26 
+Madison Consultants v. FDIC, 710 F.2d 57 
+
+(2d Cir. 1983) 46 
+Mansbach v. Prescott, Ball & Turben, 598 F 2d 
+
+1017 (6th Cir. 1979) 33 
+
+
+Vil 
+Cases—Continued: Page 
+
+Marbury Mgmt., Inc. v. Kohn, 629 F.2d 705 
+
+(2d Cir.), cert. denied, 449 U.S. 1011 (1980) 41 
+Donald J. Martineau, Exchange Act Release 
+
+No. 42,422, 71 SEC Docket 1994 (Feb. 14, 2000) 26 
+Mihara v. Dean Witter & Co., 619 F.2d 814 
+
+(9th Cir. 1980) 23-24, 43 
+Moore v. United States, 160 U.S. 268 (1865) 17 
+Norwegian Nitrogen Prods. Co. v. United States, 
+
+288 U.S. 294 (1933) 38 
+Press v. Chemical Inv. Servs. Corp., 166 F.3d 
+
+529 (2d Cir. 1999) 41 
+Pross v. Katz, 784 F.2d 455 (1986) 34 
+Richardson v. MacArthur, 451 F. 2d 35 (10th Cir. 
+
+1971) 33 
+Cheryl A. Rodgers, Exchange Act Release No. 
+
+43,351, 73 SEC Docket 1121 (Sept. 26, 2000) 25 
+
+
+Rolf v. Blyth, Eastman Dillon & Co., 424 F. Supp. 
+1021 (S.D.N.Y. 1977), aff'd, 570 F.2d 38 (2d Cir.), 
+
+
+cert. denied, 439 U.S. 1039 (1978) 11, 23, 24 
+Rubin v. United States, 449 U.S. 424 (1981) — 832 
+Santa Fe Indus., Inc. v. Green, 430 U.S. 462 
+
+(1977) 7, 9, 19, 27, 29, 45, 47 
+SEC v. Blavin, 760 F.2d 706 (6th Cir. 1985) 15 
+SEC v. Bulas, Litigation Release No. 16,337, 
+
+70 SEC Docket 2887 (Oct. 15, 1999) 26 
+SEC v. Christie, Litigation Release No. 16,724, 
+
+73 SEC Docket 1348 (Sept. 26, 2000) 25 
+SEC v. Clark, 915 F.2d 439 (9th Cir. 1990) 19 
+SEC v. Conwell, Litigation Release No. 16,420, 
+
+71 SEC Docket 1675 (Feb. 1, 2000) 26 
+SEC v. Drysdale Sec. Corp., 785 F 2d 38 (2d Cir.), 
+
+cert. denied, 476 U.S. 1171 (1986) 21, 42 
+SEC v. Faitos, Litigation Release No. 12,786, 
+
+48 SEC Docket 528 (Feb. 27, 1991) 36-37 
+
+
+SEC v. Harris, Litigation Release No. 16,954, 
+74 SEC Docket 2058 (Apr. 6, 2001) 37 
+
+
+VIII 
+
+
+Cases Continued: Page 
+
+SEC v. Hefley, Litigation Release No. 16,479, 
+
+71 SEC Docket 2839 (Mar. 21, 2000) 26 
+SEC v. Jakubowski, 150 F.3d 675 (7th Cir. 1998), cert. 
+
+denied, 525 U.S. 1108 (1999) 40, 41 
+SEC v. Lauer, 52 F.3d 667 (7th Cir. 1995) 47-48 
+SEC v. Lawson, 24 F. Supp. 360 (D. Md. 1938) ................ 35 
+SEC v. Manor Nursing Ctrs., Inc., 458 F 2d 1082 
+
+(2d Cir. 1972) 33 
+SEC v. Martineau, Litigation Release No. 16,406, 
+
+71 SEC Docket 1304 (Jan. 10, 2000) 26 
+
+
+SEC v. Meridian Asset Mgmt., Inc., Litigation 
+Release No. 16,638, 72 SEC Docket 3064 (July 
+
+
+31, 2000) 25-26 
+SEC v. Rana Research, Inc., 8 F.3d 1358 (9th Cir. 
+
+1993) 15 
+SEC v. Smith, Litigation Release No. 16,698, 
+
+73 SEC Docket 910 (Sept. 12, 2000) 25 
+SEC v. Sunpoint Sec., Inc., Litigation Release 
+
+No. 16,366, 71 SEC Docket 464 (Nov. 19, 1999) - 26 
+SEC v. Tropeano, Litigation Release No. 16,327, 
+
+70 SEC Docket 2502 (Oct. 5, 1999) 26 
+Sherman v. State, 124 Tex. Crim. 205 (1933) 18 
+Shushan v. United States, 117 F.2d 110 (5th Cir.), 
+
+cert. denied, 313 U.S. 574 (1941) 17 
+Southeastern Sec. Corp., 29 S. E. C. 609 (1949) ......... 12, 13, 36 
+Superintendent of Ins. v. Bankers Life & Cas. Co., 
+
+404 U.S. 6 (1971) passim 
+Taussig v. Hart, 58 N.Y. 425 (1874) 18 
+The Wharf (Holdings) Lid. v. United Intl Holdings, 
+
+Inc., 121 S. Ct. 1776 (2001) 44-45, 47 
+Thomas Jefferson Univ. v. Shalala, 512 U.S. 504 
+
+(1994) 10, 37 
+Udall v. Tallman, 380 U.S. 1 (1965) : 39 
+United States v. Corona-Sanchez, 234 F.3d 449 
+
+(9th Cir. 2000) 44 
+
+
+IX 
+Cases—Continued: Page 
+United States v. Dunn, 268 U.S. 121 (1925) 18 
+United States v. Kendrick, 692 F.2d 1262 (9th 
+
+Cir. 1982) 10, 32, 33 
+United States v. Mead Corp., 121 S. Ct. 2164 
+
+(2001) 10, 37, 38 
+United States v. Naftalin, 441 U.S. 768 (1979) 9, 25, 
+
+27, 40, 41 
+United States v. O Hagan, 521 U.S. 642 (1997) passim 
+United States v. Procter & Gamble Co., 47 F. Supp. 
+
+676 (D. Mass. 1942) 17 
+United States v. Rowe, 56 F. 2d 747 (2d Cir. 1932) ........... 18 
+United States v. Zandford, Crim. No. WN-94-0165 
+
+(D. Md. July 19, 1995) 16 
+
+_ Virginia Bankshares, Inc. v. Sandberg, 501 U.S. 
+1083 (1991) 11, 44, 45-46 
+Statutes and regulations: 
+Private Securities Litigation Reform Act of 1995, 
+
+Pub. L. No. 104-67, 109 Stat. 737 15 
+Securities Act of 1933, § 17(a), 15 U.S.C. 77q(a) ......... 4, 27, 40 
+Securities Exchange Act of 1934, 15 U.S.C. 78a 
+
+et seq.: 
+
+§ 2,15 U.S.C. 786 9, 26, 27 
+§ 10(b), 15 U.S.C. 78j(b) passim 
+§ 15(b)(4), 15 U.S.C. 780(b)(4) 28 
+§ 15(b)(4)(D), 15 U.S.C. 780(b)(4)(D) 38 
+§ 15(b)(6), 15 U.S.C. 780(b)(6) 28 
+§ 15(b)(6)(A)(i), 15 U.S.C. 780(b)(6)(A (i) 38 
+§ 15(c), 15 U.S.C. 780(e) (1994 & Supp. V 1999) 27 
+§ 21(d)(1), 15 U.S.C. 78u(d\(1) 28 
+§ 21(f), 15 U.S.C. 78u(f) 28 
+§ 21C, 15 U.S.C. 78u-3 28 
+§ 28(a), 15 U.S.C. 78bb(a) (Supp. V 1999) 46 
+18 U.S.C. 1343 3 
+17 C.F.R. 240.10b-5 (SEC Rule 10b-5) 2, 4, 5, 
+
+
+a 
+S 
+— 
+S 
+— 
+> 
+2 
+
+
+Miscellaneous: . Page 
+
+
+In the Supreme Court of the Gnited States 
+
+
+A. Bromberg & L. Lowenfels, Securities Fraud and 
+Commodities Fraud: K 
+Vol. 1 (2d ed. 2000) 34 
+Vol. 4 (2d ed. 2001) 34 
+H.R. Rep. No. 1383, 73d Cong., 2d Sess. (1934) 37, 43 
+A. Jacobs, Litigation and Practice Under Rule i 
+10b-5: 
+Vol. 5A (1996) ; 46-47 
+ee — ¾⅛—ͤ—ü— ——— 3⁴ 
+Vol. 5C (1999) 34 
+A. Jacobs, The Impact of Securities Exchange Act 
+Rule 10b-5 on Broker-Dealers, 57 Cornell L. Rev. 
+869 (1972) 12 
+D. Langevoort, Fraud and Deception by Securities 
+Professionals, 61 Tex. L. Rev. 1247 (1983) ............ 11, 12, 21 
+L. Loss & J. Seligman, Securities Regulation 
+(3d ed. 1991): 
+Vol. 7 10, 26, 34 
+Vol. 8 12 
+L. Lowenfels & A. Bromberg, Rule 10b-5’s “In Connec- 
+tion With”: A Nexus for Securities Fraud, 
+
+
+No. 01-147 
+
+
+SECURITIES AND EXCHANGE COMMISSION, PETITIONER 
+Vv. 
+
+
+CHARLES ZANDFORD 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE 
+SECURITIES AND EXCHANGE COMMISSION 
+
+
+OPINIONS BELOW 
+The opinion of the court of appeals (Pet. App. la-14a) 
+
+
+Ol Maen The Leed teal — — 0 is reported at 238 F.3d 559. The memorandum and 
+Exchange (1981) ' 11, 12, 16, 18, 19 order of the district court granting the Securities and 
+
+R. Pozen, Financial Institutions: Cases, Materials Exchange Commission’s motion for summary judgment 
+and Problems on Investment Management (1978) 11 (Pet. App. 15a-24a) is unreported. 
+
+Restatement (Second) of 1958 15, 16 
+
+Restatement Gecend) of Teeate C900) - 16 — 
+
+Restatement (Second) of Torts (1977 43-44 The judgment of the court of appeals was entered on 
+
+
+January 26, 2001. A petition for rehearing was denied 
+on March 26, 2001 (Pet. App. 51a). On June 16, 2001, 
+the Chief Justice extended the time within which to file 
+a petition for a writ of certiorari to and including July 
+24, 2001. The petition was filed on that date and was 
+granted on November 8, 2001. The jurisdiction of this 
+Court rests on 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+STATUTE AND RULE INVOLVED 
+
+
+The texts of 15 U.S.C. 78j(b) and 17 C. F. R. 240.10b-5 
+are reproduced in the appendix to the petition for a 
+writ of certiorari (Pet. App. 52a-53a). 
+
+
+STATEMENT 
+
+
+1. Section 10(b) of the Securities Exchange Act of 
+1934, 15 U.S.C. 78j(b), makes it unlawful It lo use or 
+employ, in connection with the purchase or sale of any 
+security * * *, any manipulative or deceptive device 
+or contrivance in contravention of such rules and regu- 
+lations as the [Securities and Exchange] Commission 
+[SEC] may prescribe as necessary or appropriate in the 
+public interest or for the protection of investors.” 
+15 U.S.C. 78j(b) (reprinted in full at Pet. App. 52a). 
+SEC Rule 10b-5 implements Section 10(b) by declaring 
+it unlawful, “in connection with the purchase or sale of 
+any security,” (a) [tlo employ any device, scheme, or 
+
+
+artifice to defraud, (b) Itlo make any untrue statement 
+
+
+of a material fact or to omit to state a material fact 
+necessary in order to make the statements made, in the 
+light of the circuiastances under which they were made, 
+not misleading, or (e) [t]o engage in any act, practice, or 
+course of business which operates or would operate as a 
+fraud or deceit upon any person.” 17 C. F. R. 240.10b-5 
+(reprinied in full at Pet. App. 52a-53a). 
+
+2. In 1987, respondent Charles Zandford, a stock- 
+broker, convinced William Wood to open a joint broker- 
+age account for Wood and his daughter, Diane Wood 
+Okstulski. Wood was an elderly man in poor health, 
+and his daughter was both mentally retarded and men- 
+tally ill. Wood and Okstulski (the Woods) entrusted 
+respondent with $419,255 to “conservatively invest” in 
+his discretion. Respondent, however, methodically si- 
+phoned money from the Woods’ investment account to 
+
+
+3 
+
+
+accounts that respondent owned or controlled. He did 
+so by repeatedly selling securities in the Woods’ ac- 
+count so that he could acquire the proceeds. He never 
+disclosed his activities to the Woods. By September 
+1990, all of the Woods’ funds were gone. Pet. App. 2a, 
+10a, 28a-29a, 34a, 4la-42a. 
+
+In April 1995, a federal grand jury in the District of 
+Maryland indicted respondent on thirteen counts of 
+wire fraud in violation of 18 U.S.C. 1343. Pet. App. 2a; 
+see id. at 40a-50a (Superseding Indictment). The indict- 
+ment charged respondent with “devis[ing] a scheme 
+and artifice to defraud and to obtain money and prop- 
+erty from [the Woods] by means of false and fraudulent 
+pretenses, representations, and promises.” Id. at Ala. 
+Specifically, it alleged that respondent had “caused 
+checks to be issued against the security positions of [the 
+Woods] and made payable to [himself], thereby causing 
+their securities to be liquidated.” Ibid. The indictment 
+further alleged that respondent “sold securities in [the 
+Woods’] joint investment account * * * and then made 
+personal use of the money.“ Id. at 42a. A jury found 
+respondent guilty of all of the wire fraud charges, and 
+the district court sentenced him to 52 months in prison 
+and ordered him to make restitution in the amount of 
+$10,800. Jd. at 2a. The United States Court of Appeals 
+for the Fourth Circuit, finding “ample direct and cir- 
+cumstantial evidence showing that [respondent! had 
+engaged in a scheme to defraud the Woods” (id. at 36a), 
+affirmed his convictions and sentence. Id. at 33a-39a. 
+
+3. In September 1995, the SEC brought this civil 
+law enforcement action against respondent in the 
+United States District Court for the District of Mary- 
+land. Pet. App. 25a-32a. The Commission’s complaint 
+alleged that, between May and June 1988, without the 
+Woods’ knowledge or consent, respondent issued 
+
+
+4 
+
+
+checks to himself drawn on the Woods’ joint mutual 
+fund account, and that the funds to pay the checks were 
+obtained through the sale of mutual fund shares in that 
+account. Jd. at 28a. The complaint further alleged that, 
+on several occasions between July 1988 and June 1990, 
+respondent sold mutual fund shares or other securities 
+owned by the Woods without their knowledge or 
+consent and misappropriated the proceeds of the sales. 
+Id. at 29a. The complaint charged that respondent 
+thereby violated Section 10(b) and Rule 10b-5. Id. at 
+30a-3la. The Commission sought injunctive relief, 
+including an order enjoining respondent from violating 
+Section 10(b) and Rule 10b-5 and requiring him to 
+disgorge the proceeds of his fraudulent conduct. Id. at 
+25a-32a. 
+
+In April 1998, the Commission filed a motion for 
+summary judgment in which it relied on the collateral 
+estoppel effect of respondent’s criminal convictions to 
+establish that he intentionally defrauded the Woods. 
+Respondent filed a motion to conduct discovery, but he 
+did not move for summary judgment. In March 1999, 
+the district court denied respondent’s motion for dis- 
+covery, granted the Commission’s motion for summary 
+judgment, enjoined respondent from future violations 
+of the antifraud provisions, and ordered him to disgorge 
+$343,000 in illegally obtained funds. Pet. App. 3a, 15a- 
+24a. 
+
+
+1 The Commission’s complaint also alleged that respondent 
+violated Section 17(a) of the Securities Act of 1933, 15 U.S.C. 
+T7q(a). Pet. App. 25a, 30a-3la. The Commission did not seek this 
+Court’s review of the question whether the complaint stated a 
+claim under Section 17(a) because it did not identify a square 
+conflict between the decision of the court of appeals in this case 
+and decisions of this Court or other courts of appeals on that 
+question. That question is therefore not before the Court. 
+
+
+{ 
+
+
+5 
+
+
+4. Respondent appealed. The United States Court 
+of Appeals for the Fourth Circuit not only reversed the 
+district court’s grant of summary judgment in favor of 
+the SEC, but also remanded the case with directions to 
+dismiss the complaint. Pet. App. la-14a. As an initial 
+matter, the court held that the district court had erred 
+in granting summary judgment for the SEC based on 
+collateral estoppel. Jd. at 4a-5a. The court ruled that 
+respondent’s criminal conviction did not establish all 
+the legal elements of the violations of Section 10(b) and 
+Rule 10b-5 alleged in the Commission’s civil complaint. 
+In particular, the court noted that, in order to find 
+respondent guilty of wire fraud, the jury did not need to 
+determine that his fraud was “in connection with the 
+purchase or sale of securities.” Id. at 5a. Thus, the 
+court reasoned, even if “the criminal trial established 
+the fact that [respondent] sold securities as part of a 
+scheme to misappropriate proceeds,” respondent’s 
+criminal convictions did not collaterally estop him from 
+contesting the district court’s “legal conclusion” that 
+“such a scheme satisfies the ‘in connection with’ 
+requirement” of Section 10(b). bid. 
+
+Next, in the portion of the opinion relevant to the 
+issue now before this Court, the court of appeals con- 
+cluded that the SEC’s allegations concerning respon- 
+dent’s scheme to sell the Woods’ securities and mis- 
+appropriate the proceeds did not state a claim for relief 
+under Section 10(b) and Rule 10b-5. Pet. App. 5a-14a. 
+The court of appeals first explained that, “to state a 
+claim under § 10(b) of the Exchange Act and Rule 10b- 
+5,” the Commission must show that respondent’s fraud 
+was “in connection with” the purchase or sale of any 
+security. Id. at 6a (quoting 15 U.S.C. 78j(b)). The court 
+noted that the SEC “allege[d] that [respondent] 
+defrauded the Woods by failing to inform them that he 
+
+
+6 
+
+
+intended to sell their securities in order to obtain the - 
+
+
+proceeds for himself.” Jd. at 8a. The court further 
+noted that the SEC argued that this omission was 
+fraudulent because respondent, as the Woods’ agent, 
+had a duty to disclose material information to them, and 
+that the omission was in connection with respondent’s 
+sale of the Woods’ securities. bid. 
+
+The court of appeals concluded that respondent’s 
+“alleged fraudulent activities were not sufficiently con- 
+nected to a securities transaction.” Pet. App. 14a. In 
+the court’s view, respondent’s “securities sales were 
+incidental to his scheme to defraud. [His] fraud lay in 
+absconding with the proceeds of the sales. The record 
+contains no suggestion that the sales themselves were 
+conducted in anything other than a routine and custom- 
+ary fashion.” Id. at 9a. In explaining why it deter- 
+mined that respondent’s conduct was not “in connection 
+with” any securities transaction, the court stated that 
+respondent did not mislead “the Woods about the 
+relative merits or value of particular securities.” Ibid. 
+The court further noted that respondent’s fraudulent 
+“statements or omissions were not about a particular 
+security” (id. at 13a), “did not make any reference to 
+the attributes of a specific security” (id. at 10a), and did 
+not “induce the Woods or anyone else to buy or sell a 
+particular stock” (id. at 13a). The court also expressed 
+the view that “the goal of § 10(b) would not be served 
+by expanding its scope to include ‘claims amounting to 
+breach of contract or common law fraud which have 
+long been the staples of state law.“ Id. at 8a (quoting 
+Hunt v. Robinson, 852 F.2d 786, 787-788 (4th Cir. 
+1988)). Finally, the court observed that, “while [respon- 
+dent] breached a fiduciary duty to the Woods, the 
+Supreme Court has emphasized that the federal securi- 
+ties laws are not an open-ended breach of fiduciary duty 
+
+
+7 
+
+
+ban.” Id. at 14a (citing United States v. O Hagan, 521 
+U.S. 642, 655 (1997); Santa Fe Indus., Inc. v. Green, 430 
+U.S. 462 (1977)). The court of appeals accordingly 
+remanded the case to the district court “with directions 
+to dismiss it.” Ibid.’ 
+
+SUMMARY OF ARGUMENT 
+
+
+A stockbroker violates Section 10(b) and Rule 10b-5 
+when, without authorization or disclosure, he sells 
+customer securities for his own benefit and converts the 
+proceeds to his own use. The SEC has so interpreted 
+Section 10(b) and Rule 10b-5 for over fifty years, since 
+the Commission first promulgated Rule 10b-5, and its 
+interpretation is consistent with the critical role of 
+stockbrokers in the securities markets and the trust 
+and reliance that customers place in them. See, e.g., 
+Kenneth Leo Bauer, 26 S.E.C. 770 (1947). 
+
+The Commission’s interpretation follows directly 
+from the text of Section 10(b) and Rule 10b-5. Section 
+10(b) prohibits the use, “in connection with the pur- 
+chase or sale of any security,” of “any manipulative or 
+deceptive device or contrivance” in violation of rules 
+promulgated by the Commission “in the public interest 
+or for the protection of investors.“ 15 U.S.C. 78j(b). 
+Rule 10b-5 in turn prohibits “any person” from “em- 
+ployl[ing] any device, scheme, or artifice to defraud,” 
+makling] any untrue [or misleading] statement of a 
+material fact,” or “engag{ing] in any act [or] practice” 
+
+
+2 Because the court of appeals, rather than merely reversing 
+the district court’s grant of summary judgment, dismissed the 
+Commission’s complaint for failure to state a claim, this Court 
+must assume that the allegations in the complaint are true and can 
+affirm the dismissal only if the Commission could prove no set of 
+facts that would entitle it to relief. See Hartford Fire Ins. Co. v. 
+California, 509 U.S. 764, 811 (19938). 
+
+
+8 
+
+
+that “operates or would operate as a fraud or deceit 
+upon any person” “in connection with the purchase or 
+sale of any security.” 17 C.F.R. 240.10b-5. In short, 
+Section 10(b) and Rule 10b-5 encompass “(1) using any 
+deceptive device (2) in connection with the purchase or 
+sale of securities.” United States v. O Hagan, 521 U.S. 
+642, 651 (1997). 
+
+A stockbroker’s fraudulent sales of his customer’s 
+securities and fraudulent conversion of the proceeds 
+satisfy both of those elements. Feigning loyalty to 
+one’s principal while secretly converting the principal’s 
+property to one’s own use is a well recognized form of 
+fraud. See O’Hagan, 521 U.S. at 655-656; Carpenter v. 
+United States, 484 U.S. 19, 27 (1987). Thus, a stock- 
+broker commits a fraud against his customers both 
+when he secretly sells his customers’ securities for his 
+own benefit rather than for theirs, and when, while 
+continuing his pretense of investing funds as a loyal 
+agent and fiduciary, he embezzles the proceeds from 
+the sales, rather than preserving his fiduciary’s 
+pro ; 
+Both the fraudulent sales of the securities and the 
+fraudulent misappropriation of the proceeds of the sales 
+satisfy Section 10(b)’s requirement that the fraud or 
+deception be “in connection with the purchase or sale of 
+any security.” See Superintendent of Ins. v. Bankers 
+Life & Cas. Co., 404 U.S. 6, 9-13 (1971); O’Hagan, 521 
+U.S. at 655-656. The frauds and the sales are part of 
+the same scheme. With respect to the fraudulent sales, 
+it is self-evident that, when a sale is itself fraudulent, 
+the fraud is committed in connection with the sale: the 
+wrongful sale constitutes and consummates the fraud. 
+As regards the misappropriation of the proceeds, the 
+sales are the means by which the stockbroker generates 
+the cash that he intends to embezzle. Moreover, in both 
+
+
+9 
+
+
+cases, the stockbroker’s deception directly furthers his 
+ability to make the sales because it deprives the cus- 
+tomers of information that could prompt them to act to 
+prevent the sales. Finally, the stockbroker has access 
+to the customers’ assets in the first place only because 
+they have entrusted them to him so that he can 
+purchase and sell securities. 
+
+Interpreting the federal securities laws to prohibit 
+this type of fundamental fraud on investors also serves 
+the broader purposes of those laws. A principal pur- 
+pose of the securities laws is “to insure honest securi- 
+ties markets and thereby promote investor confidence.” 
+O’Hagan, 521 U.S. at 658. Ensuring that stockbrokers 
+adhere to basic standards of honesty in their dealings 
+with customer assets is critical to that goal. Preventing 
+stockbrokers from misappropriating customer securi- 
+ties and their proceeds also furthers the closely related 
+purpose of the securities laws to protect investors from 
+fraud. See United States v. Naftalin, 441 U.S. 768, 775 
+(1979); 15 U.S.C. 78j(b). There would be a serious gap 
+in investor protection if stockbrokers could engage in 
+fraud against their customers that is so central to the 
+securities trading process without violating the securi- 
+ties laws, which are designed to regulate the entire 
+trading process. See 15 U.S.C. 78b. Moreover, per- 
+mitting deception as basic as a stockbroker’s feigning 
+loyalty to his customer, while actually converting the 
+customer’s securities to his own purposes and misap- 
+propriating the proceeds of the securities sales, would 
+create a significant hole in the full-disclosure regime on 
+which the securities laws are based. See Santa Fe 
+Indus., Inc. v. Green, 430 U.S. 462, 477 (1977). 
+
+Decisions of this Court and other precedent confirm 
+that violations of Section 10(b) and Rule 10b-5 may be 
+based on fraudulent sales of securities and misappro- 
+
+
+10 
+
+
+priation of the proceeds of securities sales. Most 
+notably, in Bankers Life, this Court held that a com- 
+plaint that alleged the fraudulent misappropriation of 
+the proceeds of a securities sale stated a cause of action 
+under Section 10(b). 404 U.S. at 9-13. See also, e. g., 
+United States v. Kendrick, 692 F.2d 1262 (9th Cir. 
+1982); 7 L. Loss & J. Seligman, Securities Regulation 
+3530 & n.189 (3d ed. 1991). Because the.Commission 
+has consistently interpreted the statute and the rule to 
+prohibit fraudulent sales of securities and misappro- 
+priation of sales proceeds, an interpretation which it 
+has articulated in the exercise of its adjudicatory 
+authority since shortly after the rule was first promul- 
+gated, the Commission’s interpretation is entitled to 
+deference from the courts. See United States v. Mead 
+Corp., 121 S. Ct. 2164, 2171-2172 (2001); Thomas Jeffer- 
+son Univ. v. Shalala, 512 U.S. 504, 512 (1994); Davis v. 
+United States, 495 U.S. 472, 484 (1990). 
+
+The court of appeals erred in rejecting the SEC’s 
+interpretation based on the court’s view that Section 
+10(b) and Rule 10b-5 prohibit only misrepresentations 
+about particular securities and their attributes. Such a 
+limitation is unsupported by the text of the statute and 
+rule, is inconsistent with precedent, and would frus- 
+trate the purposes of the securities laws. See O’Hagan, 
+521 U.S. at 655-656; Bankers Life, 404 U.S. at 9-10. The 
+court of appeals also erred in concluding that recogniz- 
+ing liability under Section 10(b) and Rule 10b-5 for 
+fraudulent conversions of securities and embezzlement 
+of securities proceeds would improperly federalize state 
+law. Section 10(b) and Rule 10b-5 are properly under- 
+stood to prohibit such conduct because it involves 
+deception connected with securities transactions—the 
+express concern of those federal provisions. See 
+
+
+11 
+
+
+O Hagan, 521 U.S. at 655; cf. Virginia Bankshares, Inc. 
+v. Sandberg, 501 U.S. 1083, 1093 n.6 (1991). 
+
+
+ARGUMENT 
+
+
+SECTION 10(b) AND RULE 10b-5 PROHIBIT A 
+STOCKBROKER FROM FRAUDULENTLY SELLING 
+HIS CUSTOMER’S SECURITIES FOR HIS OWN 
+BENEFIT AND MISAPPROPRIATING THE PRO- 
+CEEDS ° 
+
+
+Stockbrokers like respondent play a critical role in 
+the investment marketplace. See D. Langevoort, 
+Fraud and Deception by Securities Professionals, 61 
+Tex. L. Rev. 1247, 1280 (1983). They are intermediaries 
+through whom information about the market and 
+securities flows to individual investors. Ibid. & n.135; 
+R. Pozen, Financial Institutions: Cases, Materials and 
+Problems on Investment Management 175-185 (1978). 
+The complexity of investment decision-making often 
+requires reliance on their expertise. Langevoort, 
+supra, at 1282. In addition, the stockbroker “is the 
+person who actually trades securities for the investing 
+public,” and he “conducts himself and carries out his 
+daily routine through the instrumentalities of the 
+national seeurities exchanges and the over-the-counter 
+market.” Rolf v. Blyth, Eastman Dillon & Co., 424 F. 
+Supp. 1021, 1036 (S.D.N.Y. 1977), aff’d, 570 F.2d 38 (2d 
+Cir.), cert. denied, 439 U.S. 1039 (1978). 
+
+Even before the federal securities laws were enacted, 
+state law recognized that a stockbroker generally acted 
+as the customer’s agent in executing the customer’s 
+orders for the purchase or sale of securities. C.H. 
+Meyer, The Law of Stockbrokers and Stock Exchanges 
+§ 39, at 249 (1931). The law further recognized that the 
+agency relationship between the stockbroker and 
+customer was fiduciary in nature. Id. § 40, at 251. 
+
+
+12 
+
+
+Consequently, the stockbroker was required to act in 
+the customer’s interest and not for his own benefit, and 
+“with the utmost good faith and integrity.” Id. at 253. 
+
+Because of the critical role that stockbrokers play in 
+securities transactions and the special relationship 
+between stockbrokers and investors, the federal securi- 
+ties laws impose extensive strictures on stockbroker 
+conduct. See Langevoort, supra, at 1280 & n.135; A. 
+Jacobs, The Impact of Securities Exchange Act Rule 
+106-5 on Broker-Dealers, 57 Cornell L. Rev. 869, 871, 
+876-881 (1972). “There is no identifiable segment of the 
+securities industry whose ethical conduct is more 
+crucial to the attainment of Congress’ goals than the 
+ethical conduct of broker-dealers.” Dirks v. SEC, 681 
+F.2d 824, 841 (D.C. Cir. 1982), rev'd on other grounds, 
+463 U.S. 646 (1983). 
+
+Against that background, the Securities and Ex- 
+change Commission, since shortly after it promulgated 
+Rule 10b-5 in 1942, has interpreted Section 10(b) and 
+Rule 10b-5 to prohibit a stockbroker from fraudulently 
+misappropriating customers’ securities and the pro- 
+ceeds of their security sales. See, e.g., Kenneth Leo 
+Bauer, 26 S.E.C. 770 (1947); Southeastern Sec. Corp., 29 
+S.E.C. 609 (1949). That interpretation reflects the 
+
+
+When a brokerage firm sells securities owned by the firm to a 
+customer, the firm acts as a principal rather than an agent in the 
+sale and would not necessarily be a fiduciary with respect to the 
+sale. Although in this case respondent was acting as the Woods’ 
+agent, see p. 15, infra, the Commission and the courts have long 
+recognized that, even when brokerage firms act as principals, they 
+implicitly represent that they will deal with clients honestly and in 
+accordance with trade custom. See 8 L. Loss & J. Seligman, Secu- 
+rities Regulation 3772-3777 (3d ed. 1991); Charles Hughes & Co. v. 
+SEC, 139 F.2d 434, 435-437 (2d Cir. 1943), cert. denied, 321 U.S. 
+
+786 (1944). 
+
+
+13 
+
+
+“agency relationship” between stockbrokers and cus- 
+tomers, the customers’ implicit understanding that 
+stockbrokers will execute their transactions “honestly 
+and in accordance with trade custom,” and the “fiduci- 
+ary” relationship arising out of the “trust and confi- 
+dence” that customers place in their stockbrokers. 
+Kenneth Leo Bauer, 26 S. E. C. at 774, 776; Southeastern 
+Sec. Corp., 29 S.E.C. at 613-614. The court of appeals 
+erred in failing to defer to the SEC’s interpretation, 
+which follows from the text of Section 10(b) and Rule 
+10b-5, promotes their underlying purposes, and finds 
+support in substantial precedent. 
+
+
+A. A Stockbroker’s Fraudulent Sale Of Customer 
+Securities And His Misappropriation Of The Proceeds 
+Fall Within Section 10(b)’s Coverage Of “Deceptive 
+Devices” Employed “In Connection With” Securities 
+Transactions 
+
+
+Section 10(b) prohibits the use, “in connection with 
+the purchase or sale of any security,” of “any mani- 
+pulative or deceptive device or contrivance” in violation 
+of rules promulgated by the Commission “in the public 
+interest or for the protection of investors.” 15 U.S.C. 
+78j(b). Section 10(b) does not require that the decep- 
+tion take a particular form; it prohibits all fraudulent 
+schemes in connection with the purchase or sale of 
+securities, whether the artifices employed involve a 
+garden type variety of fraud, or present a unique form 
+of deception.” Superintendent of Ins. v. Bankers Life & 
+Cas. Co., 404 U.S. 6, 11 n.7 (quoting A. T. Brod & Co. v. 
+Perlow, 375 F.2d 393, 397 (2d Cir. 1967)); see Affiliated 
+Ute Citizens v. United States, 406 U.S. 128, 151 (1972). 
+Section 10(b) was framed as a “catch-all” provision to 
+reach all “cunning devices” related to securities trans- 
+actions. Ernst & Ernst v. Hochfelder, 425 U.S. 185, 202 
+
+
+14 
+
+
+(1976); accord Herman & MacLean v. Huddleston, 459 
+U.S. 375, 386-387 (1983); Central Bank of Denver, N.A. 
+v. First Interstate Bank of Denver, N.A., 511 U.S. 164, 
+174 (1994). 
+
+Rule 10b-5 in turn prohibits “any person” from “em- 
+ployling] any device, scheme, or artifice to defraud,” 
+makling] any untrue [or misleading] statement of a 
+material fact,” or “engag[ing] in any act [or] practice” 
+that “operates or would operate as a fraud or deceit 
+upon any person” “in connection with the purchase or 
+sale of any security.” 17 C.F.R. 240.10b-5. Thus, Sec- 
+tion 10(b) and Rule 10b-5 encompass “(1) using any 
+deceptive device (2) in connection with the purchase or 
+sale of securities.” United States v. O’Hagan, 521 U.S. 
+642, 651 (1997) (emphasis added). 
+
+Both those elements are satisfied here. The Com- 
+mission’s complaint in this case alleges that respondent, 
+without the Woods’ knowledge or consent, issued 
+checks to himself drawn on a mutual fund account held 
+by the Woods, and that the funds to pay the checks 
+were obtained through the sale of mutual fund shares in 
+that account. Pet. App. 28a. The Commission further 
+alleges that on several occasions respondent sold 
+mutual fund shares or other securities owned by the 
+Woods without their knowledge or consent and mis- 
+appropriated the proceeds of the sales. Jd. at 29a. See 
+also id. at 4la-42a (Superseding Indictment) (making 
+similar allegations). That course of conduct establishes 
+both elements of a Section 10(b) violation—(1) fraud 
+(2) in connection with the sale of securities. 
+
+
+In a private action under Section 10(b), the plaintiff must 
+establish not only fraud in connection with a securities transaction 
+but also other elements. In particular, a private plaintiff (but not 
+
+
+15 
+
+
+J. A stockbroker commits fraud when he secretly 
+sells his customer’s securities for his own benefit 
+and when he misappropriates the proceeds of the 
+sales 
+
+
+Although the court of appeals did not dispute that 
+respondent’s alleged conduct constituted fraud, under- 
+standing the nature of respondent’s fraud is important 
+in understanding how it was connected to securities 
+sales. Respondent’s conduct was fraudulent because he 
+deceived the Woods by pretending to act as their loyal 
+agent and fiduciary while, at the same time, he con- 
+verted their assets to his own use. His fraudulent 
+scheme involved two distinct fraudulent conversions of 
+the Woods’ property—the conversion of their securities 
+by selling them for his own benefit rather than theirs, 
+and the misappropriation of the proceeds of those 
+security sales. 
+
+The Woods entrusted their assets to respondent for 
+him to invest for their benefit in his discretion. See Pet. 
+App. 2a; 27a-28a; see also 41a. Thus, respondent was 
+their agent and fiduciary. See Pet. App. 14a (noting 
+respondent’s “fiduciary duty” to the Woods). As the 
+Woods’ agent and fiduciary, respondent owed them a 
+duty of loyalty and had authority to use their assets 
+solely for their benefit and not to enrich himself. See 
+Restatement (Second) of Agency § 387 (1958); 
+Restatement (Second) of Trusts § 170 (1959); see also 
+
+
+the government) must establish reliance (or causation) and dam- 
+
+
+ages. SEC v. Rana Research, Inc., 8 F.3d 1358, 1364 (9th Cir. 
+
+
+1993); SEC v. Blavin, 760 F.2d 706, 711 (6th Cir. 1985). A private 
+plaintiff seeking damages must also establish standing under Blue 
+Chip Stamps v. Manor Drug Stores, 421 U.S. 723 (1975), as a pur- 
+chaser or seller, and satisfy the pleading requirements of the 
+Private Securities Litigation Reform Act of 1995, Pub. L. No. 104- 
+67, 109 Stat. 737. 
+
+
+16 
+
+
+Restatement (Second) of Agency § 383 (duty to act only 
+as authorized). Furthermore, respondent owed the 
+Woods a duty to give them all information relevant to 
+the affairs entrusted to him. See id. § 381.° 
+
+When, without disclosure to the Woods, respondent 
+acted beyond the scope of his authority and in breach of 
+his duty of loyalty, respondent committed fraud. As 
+this Court explained in O’Hagan, Ja] fiduciary who 
+‘pretends] loyalty to his principal while secretly 
+converting the principal’s [property] for personal gain’ 
+* * * ‘dupes’ or ‘defrauds’ the principal.” 521 U.S. at 
+653-654 (internal citation and quotation marks omitted) 
+(second brackets added). The fiduciary’s conduct con- 
+stitutes embezzlement of the property entrusted to 
+him, which has long been recognized as a form of fraud. 
+See Carpenter v. United States, 484 U.S. 19, 27 (1987) 
+(“The concept of ‘fraud’ includes the act of embezzle- 
+ment, which is ‘the fraudulent appropriation to one’s 
+own use of the money or goods entrusted to one’s care 
+by another.“) (quoting Grin v. Shine, 187 U.S. 181, 189 
+(1902)). See also Grin, 187 U.S. at 189 (“it is impossible 
+for a person to embezzle the money of another without 
+
+
+5 The existence of an agency and fiduciary relationship was par- 
+ticularly explicit in this case, because, as both the court of appeals 
+(Pet. App. 10a) and respondent (Br. in Opp. 13) note, respondent 
+had discretion to engage in securities transactions on behalf of the 
+Woods for their benefit without their prior approval. See also 8 Tr. 
+33-34, United States v. Zandford, Crim. No. WN-94-0165 (D. Md. 
+July 19, 1995) (respondent’s testimony and evidence that he had a 
+general power of attorney over the affairs of William Wood). “A 
+relationship of this sort, involving such broad authority over the 
+customer’s property, is a fiduciary one of extreme delicacy.” 
+Meyer, supra, § 39, at 306. Even absent such discretionary author- 
+ity, however, respondent, as a stockbroker, would have a duty to 
+his customers to adhere to his implicit representation of honest 
+dealing. See note 3, supra. 
+
+
+17 
+
+
+committing a fraud upon him”); Moore v. United States, 
+160 U.S. 268, 269 (1895) (“Embezzlement is the fraudu- 
+lent appropriation of property by a person to whom 
+such property has been intrusted.”). Such “misappro- 
+priation is a ‘garden variety’ type of fraud” that is 
+proscribed by Section 10(b). See Bankers Life, 404 U.S. 
+at 11 n.7. 
+
+As in the case of the fraudulent misappropriation of 
+confidential information at issue in Carpenter and 
+O’Hagan, the deception entailed in a fiduciary’s mis- 
+appropriation of securities or securities proceeds is 
+inherent, because the success of the scheme depends on 
+the agent’s lulling the principal into believing that the 
+agent is trustworthy. “The actual deception that is 
+practised is in the continued representation of the 
+[agent] to the [principal] that he is honest and loyal to 
+the [principal’s] interests.” United States v. Procter & 
+Gamble Co., 47 F. Supp. 676, 678 (D. Mass. 1942). The 
+agent’s fraud can be seen either as an omission of a 
+material fact necessary in order to make other state- 
+ments made not misleading, which is prohibited by Rule 
+10b-5(b), or as fraudulent conduct, which is prohibited 
+by Rule 10b-5(a) (“any device, scheme, or artifice to 
+defraud”) and Rule 10b-5(c) (“any act, practice, or 
+course of business which operates or would operate as a 
+fraud or deceit upon any person”). Deceptive acts, as 
+well as deceptive statements and omissions, have long 
+been understood to constitute fraud. See Shushan v. 
+United States, 117 F.2d 110, 115 (5th Cir.) (“A scheme 
+to get money unfairly by obtaining and then betraying 
+the confidence of another * * * would be a scheme to 
+defraud though no lies were told.”), cert. denied, 313 
+U.S. 574 (1941). Section 10(b) and Rule 10b-5 therefore 
+readily apply to the fraudulent sale by a stockbroker of 
+customer securities with which he has been entrusted 
+
+
+18 
+
+
+and to the stockbroker’s misappropriation of the sale 
+proceeds. The stockbroker’s conduct constitutes fraud 
+because it violates the implicit representation that he 
+will not convert the customer’s property to his own use. 
+Cf. O’Hagan, 521 U.S. at 654 (implicit promise not to 
+misuse confidential information becomes a sham when 
+agent does so without disclosure to his principal). 
+Indeed, respondent’s alleged conduct involved two 
+distinct fraudulent conversions of the Woods’ assets. 
+Respondent’s sale of the Woods’ securities for the un- 
+disclosed purpose of benefitting himself (by furthering 
+his plan to misappropriate the proceeds) was a fraudu- 
+
+
+lent conversion and embezzlement of the securities 
+
+
+themselves. See Meyer, supra, § 136, at 552 (wrongful 
+sale of customer’s securities is a conversion); Taussig v. 
+Hart, 58 N.Y. 425 (1874) (same); Sherman v. State, 124 
+Tex. Crim. 205, 208 (1933) (per curiam) (agent’s sale of 
+stock with intent to misappropriate proceeds consti- 
+tutes embezzlement of the stock itself). That conduct 
+constituted fraud independently of whether respondent 
+ultimately misappropriated the proceeds. See United 
+States v. Dunn, 268 U.S. 121, 131 (1925) (fiduciary’s 
+“exercise of his power of disposition for his own benefit 
+without more” is fraud); United States v. Rowe, 56 F. 2d 
+747, 749 (2d Cir. 1932) (L. Hand, J.) (“A man is none the 
+less cheated out of his property, when he is induced to 
+part with it by fraud, because he gets a quid pro quo of 
+equal value.”); Meyer, supra, § 136, at 554 (damages for 
+wrongful sale of customer’s securities are measured by 
+highest market value of securities within reasonable 
+time after customer learns of sale, less amount credited 
+to customer as a result of sale); id. at 557 (in stating 
+that rule, courts “assume that the customer has been 
+credited with the proceeds of the sale”). In addition, 
+respondent’s misappropriation of the proceeds of the 
+
+
+19 
+
+
+securities sales, while he pretended to act as a loyal 
+agent and fiduciary, was a fraudulent conversion of that 
+money. See Bankers Life, 404 U.S. at 10 & n.7; Meyer, 
+supra, § 40, at 252; see generally Grin, 187 U.S. at 189 
+(misappropriation of money entrusted to one’s care by 
+another is a fraud). 
+
+
+2. A stockbroker’s conversion of customer securities 
+by means of fraudulent sales and his misappro- 
+priation of the sales proceeds are “in connection 
+with” the sales 
+
+Respondent’s alleged conduct also satisfies the 
+requirement of Section 10(b) and Rule 10b-5 that the 
+fraud be “in connection with the purchase or sale of any 
+security.” By its plain terms, that language requires 
+only that there be a nexus or relationship between the 
+fraud and a securities transaction. See Bankers Life, 
+404 U.S. at 12 (paraphrasing “in connection with” as 
+“touching”); Santa Fe Indus., Inc. v. Green, 430 U.S. 
+462, 476 (1977) (quoting the “touching” language from 
+Bankers Life with approval); SEC v. Clark, 915 F.2d 
+439, 449 (9th Cir. 1990) (“some nexus”); Abrams v. 
+Oppenheimer Gov't Sec., Inc., 737 F.2d 582, 593 (7th Cir. 
+1984) (“some nexus but not necessarily a direct and 
+close relationship”); Brown v. Ivie, 661 F.2d 62, 65 (5th 
+Cir. 1981) (“a nexus”), cert. denied, 455 U.S. 990 (1982). 
+The necessary connection exists “when the proscribed 
+conduct and the sale are part of the same fraudulent 
+scheme.” Alley v. Miramon, 614 F.2d 1372, 1378 n.11 
+(5th Cir. 1980) (Wisdom, J.). Both respondent’s fraudu- 
+lent conversion of the Woods’ securities by selling them 
+
+
+for his own benefit and his subsequent misappropria- 
+
+
+tion of the proceeds satisfy that standard. 
+a. As regards the fraudulent conversion of the 
+securities themselves, there can be no question that the 
+
+
+20 
+
+
+fraud was “in connection with” the sales, because the 
+sales were themselves fraudulent vis-a-vis the Woods. 
+The sales (for the undisclosed purpose of benefitting 
+respondent) consummated the fraud because they 
+constituted the breach of respondent’s duty of loyalty 
+to the Woods and the fraudulent conversion of their 
+securities. The connection between that fraud and the 
+securities transactions is thus inherent, like the 
+
+
+connection between the fraudulent misappropriation of - 
+
+
+confidential information and the securities transactions 
+involved in O’Hagan. O’Hagan committed fraud by 
+stealing information entrusted to him by his employer, 
+to which he owed a fiduciary duty, and secretly using 
+the information for personal profit by trading in securi- 
+
+ties. The Court explained that the “in connection with” 
+requirement was satisfied in that case because “the 
+fiduciary’s fraud is consummated, not when the fiduci- 
+ary gains the confidential information, but when, with- 
+out disclosure to his principal, he uses the information 
+to purchase or sell securities.” 521 U.S. at 656. In this 
+case, as in O’Hagan, the “securities transaction and the 
+breach of duty thus coincide.” Ibid. 
+
+In some respects, respondent’s fraud was even more 
+closely connected to the purchase or sale of securities 
+than O’Hagan’s. First, unlike O’Hagan, respondent did 
+not misappropriate information and then use that in- 
+formation to profit from securities sales; respondent 
+misappropriated the securities themselves, and he did 
+so by the very act of selling them. Second, respondent 
+deceived the owners of the securities, who were parties 
+to the securities sales that he transacted. O’Hagan, on 
+the other hand, deceived the owner of the confidential 
+information, who was neither the buyer nor the seller in 
+O’Hagan’s securities transactions. See O’Hagan, 521 
+U.S. at 656 (holding that, under the misappropriation 
+
+
+21 
+
+
+theory of insider trading, the securities transaction and 
+the breach of duty to disclose coincide “even though the 
+person or entity defrauded is not the other party to the 
+{securities} trade” (emphasis added)). Because 
+O’Hagan’s fraud was “in connection with the purchase 
+or sale” of securities, respondent’s fraudulent sale of 
+the Woods’ securities necessarily also had the requisite 
+connection. 
+
+Respondent's fraudulent conversion of the securities 
+was also connected to the sales because the sales were 
+the “direct result” of his deception. SEC v. Drysdale 
+Sec. Corp., 785 F.2d 38, 42-43 (2d Cir.), cert. denied, 476 
+U.S. 1171 (1986). If a stockbroker who was selling his 
+customer’s securities for his own benefit disclosed his 
+intentions and actions to his customer, his customer 
+could take steps to prevent the sales. See Langevoort, 
+supra, at 1282 n.148 (describing the deception in stock- 
+broker conversion cases as the “nondisclosure of facts 
+sufficient to allow the client to protect his own interests 
+by legal action or business response”). Thus, respon- 
+dent’s deception directly furthered his ability to make 
+the security sales. 
+
+b. The securities sales were also an integral part of 
+respondent’s fre dulent scheme to misappropriate the 
+proceeds of the sales. The sales were the means by 
+which respondent accomplished the goal of that scheme. 
+The complaint alleges that checks that respondent 
+issued to himself drawn on the Woods’ mutual fund 
+account triggered the sale of mutual fund shares in the 
+
+
+The court of appeals attempted to distinguish O Hagan as 
+limited to insider trading. See Pet. App. lla. Nothing in O Hagan. 
+however, suggests that the Court’s analysis of the “in connection 
+with” requirement was limited to insider trading cases. And noth- 
+ing in the phrase “in connection with” suggests that the phrase has 
+a special meaning in that context. 
+
+
+account. Pet. App. 28a. The complaint further alleges 
+that, on repeated occasions, respondent sold mutual 
+fund shares or other securities belonging to the Woods, 
+caused checks to be issued in the aimo.int of the pro- 
+ceeds of the sales, and deposited these checks in ac- 
+counts under his control. Id. at 29a. In those instances, 
+as the complaint alleges (and the court of appeals 
+assumed), the sales were the means by which respon- 
+dent “generated” the cash that he embezzled. Ibid.; id. 
+at 2a. Thus, the fraud (the embezzlement) was “in 
+connection with” the sales. 
+
+Indeed, respondent’s fraudulent concealment of his 
+intention to misappropriate the proceeds directly 
+furthered his ability to make the sales that were 
+necessary to generate those proceeds. The allegations 
+in the complaint (which must be assumed to be true at 
+this stage of the case, see n.2, swpra) show that respon- 
+dent had that intention at the time he made the sales. 
+In the case of the mutual fund sales, the sales were 
+directly and automatically triggered by respondent’s 
+act of cashing checks that he had made out to himself 
+and that were drawn on the mutual fund account. Pet. 
+App. 28a; see also id. at 41a (alleging that respondent 
+“caused checks to be issued against the securities 
+positions of [the Woods] and made payable to [himself] 
+thereby causing their securities to be liquidated”). In 
+the case of the other securities sales, respondent re- 
+peatedly sold securities and deposited checks repre- 
+senting the corresponding amounts of the proceeds into 
+his personal accounts. Jd. at 29a. The repetitive nature 
+of the sales and subsequent conversions demonstrates 
+that respondent intended to misappropriate the pro- 
+ceeds at the time that he made the sales. 
+
+The court of appeals was incorrect when it suggested 
+(Pet. App. 12a) that respondent’s misappropriation of 
+
+
+23 
+
+
+the proceeds of the sales of the Woods’ securities is 
+comparable to the hypothetical discussed in the opinion 
+in O’Hagan of someone who “defrauded a bank into 
+giving him a loan or embezzled cash from another, and 
+then used the proceeds of the misdeed to purchase 
+securities.” O’Hagan, 521 U.S. at 656. The securities 
+purchase in the hypothetical was neither necessary to 
+nor part of the fraud. The perpetrator in the hypotheti- 
+cal could have used the proceeds of his fraudulent 
+scheme to make any other purchase. In this case, in 
+contrast, the securities transactions were integral to 
+respondent’s fraudulent scheme. Respondent could not 
+have accomplished his fraud without the securities 
+sales, which generated the cash that he misappropri- 
+ated. Moreover, it is implicit in the hypothetical that 
+the subsequent purchase of securities is the only 
+securities transaction with which the fraud could be 
+connected. The Court did not suggest that, if the funds 
+embezzled were the proceeds of securities sales, the 
+fraud could not be “in connection with” those sales. 
+
+c. There is a particularly strong connection between 
+fraud and securities transactions when stockbrokers 
+like respondent misappropriate securities and securi- 
+ties proceeds from brokerage accounts, because the 
+very purpose of the stockbroker/customer relationship 
+and of the brokerage account is to carry out purchases 
+and sales of securities. The stockbroker is the critical 
+intermediary between investors and the securities 
+markets; it is he who “actually trades securities for the 
+investing public.” Rolf, 424 F. Supp. at 1036; see p. 11, 
+
+“Investors maintain accounts with 
+brokerage firms for the very purpose of trading in 
+securities.” Angelastro v. Prudential-Bache Sec., Inc., 
+764 F.2d 939, 944 (3d Cir.), cert. denied, 474 U.S. 933 
+(1985); see also Mihara v. Dean Witter & Co., 619 F.2d 
+
+
+24 
+
+
+814, 824 (9th Cir. 1980) (upholding, in a churning case, a 
+jury instruction stating that “a broker’s activities are of 
+necessity connected with the purchase and sale of 
+securities”); Rolf, 424 F. Supp. at 1036 (broker’s “very 
+employment is ‘in connection with the purchase and 
+sale of securities.’”). The stockbroker/customer 
+relationship involves an implicit representation that the 
+stockbroker will invest the customer’s assets in 
+securities, not convert them. See p. 18 & note 3, supra. 
+The court of appeals was therefore incorrect in 
+concluding that “(t]he misappropriated proceeds might 
+as well have come from the unlawful sale of a car which 
+the Woods had entrusted to [respondent’s] care.” Pet. 
+App. 12a. The fact that the proceeds came from 
+securities sales was not happenstance. Respondent had 
+access to the Woods’ assets only because they had 
+entrusted those assets to him to engage in securities 
+transactions. See id. at 2a. Thus, when respondent 
+fraudulently misappropriated their securities and the 
+proceeds of their securities sales, his fraud was 
+necessarily connected to securities transactions. 
+
+
+B. Stockbroker Liability For Fraudulent Misappropria- 
+tion Of Customer Securities And Their Proceeds 
+Furthers Important Policies Of The Securities Laws 
+
+
+Interpreting Section 10(b) and Rule 10b-5 to prohibit 
+stockbrokers from misappropriating their customer’s 
+securities and securities proceeds furthers the funda- 
+mental purposes of the federal securities laws. As this 
+Court explained in O’Hagan, a principal purpose of 
+those laws is “to insure honest securities markets and 
+thereby promote investor confidence.” 521 U.S. at 658. 
+The securities laws seek to achieve those goals by 
+promoting “a high standard of business ethics in the 
+securities industry.” Basic Inc. v. Levinson, 485 U.S. 
+
+
+25 
+
+
+224, 234 (1988); see Herman & MacLean, 459 U.S. at 
+388-389; United States v. Naftalin, 441 U.S. 768, 775 
+(1979). Ensuring that stockbrokers adhere to basic 
+standards of honesty in their dealings with customer 
+assets is critical to that effort. As noted above, stock- 
+brokers play a central role in enabling the participation 
+of investors in the securities markets. Frauds by 
+stockbrokers that impair customer assets erode in- 
+vestor confidence and undermine the operation of the 
+markets. 
+
+A closely related purpose of the securities laws is to 
+protect “[djefrauded investors.” Herman & MacLean, 
+459 U.S. at 390; see Naftalin, 441 U.S. at 775 (“(pjre- 
+vention of frauds against investors was surely a key 
+part” of Congress’s program to regulate the securities 
+industry); 15 U.S.C. 78j(b) (authorizing Commission to 
+define the scope of Section 10(b) through rules 
+“necessary or appropriate * * * for the protection of 
+investors”). Fraudulent misappropriation of customer 
+assets by stockbrokers is a serious and all-too-frequent 
+form of fraud. There would be a significant gap in 
+investor protection if stockbrokers could engage in that 
+conduct without violating the securities laws. In fiscal 
+year 2000 alone, the Commission brought 16 actions 
+under Rule 10b-5 against stockbrokers for fraudulent 
+conversion of customers’ property, including securities 
+and proceeds of sales of securities.’ 
+
+
+See David Barroso, Jr., Exchange Act Release No. 43,386, 73 
+SEC Docket 1396 (Sept. 29, 2000); Douglas J. Hopwood, Exchange 
+Act Release No. 43,353, 73 SEC Docket 1125 (Sept. 26, 2000); 
+Cheryl A. Rodgers, Exchange Act Release No. 43,351, 73 SEC 
+Docket 1121 (Sept. 26, 2000); SEC v. Christie, Litigation Release 
+No. 16,724, 73 SEC Docket 1348 (Sept. 26, 2000); SEC v. Smith, 
+Litigation Release No. 16,698, 73 SEC Docket 910 (Sept. 12, 2000); 
+SEC v. Meridian Asset Mgmt., Inc., Litigation Release No. 16,638, 
+
+
+26 
+
+
+As the comprehensiveness of the Exchange Act 
+makes clear, Congress intended to protect investors by 
+regulating the entire securities trading process. Indeed, 
+the Act expressly states that “transactions in securities 
+* * * are affected with a national public interest” that 
+makes it “necessary to provide for regulation and con- 
+trol of such transactions and of practices and matters 
+related thereto,” including the system for “settlement of 
+securities transactions and the safeguarding of 
+securities and the funds related thereto.” See 15 U.S.C. 
+78b (emphasis added). Because the handling by stock- 
+brokers of customer funds and securities is a critical 
+part of the trading process, the Act “contains a number 
+of provisions, in the nature of substantive regulation, 
+that are designed to protect customers’ funds and 
+securities in the hands of broker-dealers.” 7 L. Loss & 
+J. Seligman, Securities Regulation 3107 (3d ed. 1991). 
+It would make no sense to interpret Section 10(b), the 
+“catch-all” antifraud provision in an act designed to 
+regulate the entire securities trading process, including 
+the handling by broker-dealers of customer assets, to 
+
+
+72 SEC Docket 3064 (July 31, 2000); Janney Montgomery Scott 
+LLC, Exchange Act Release No. 43,050, 72 SEC Docket 2663 (July 
+18, 2000); Thomas V. Conwell, Exchange Act Release No. 43,006, 
+72 SEC Docket 2500 (July 3, 2000); Shan Michael Hefley, Ex- 
+change Act Release No. 42,625, 72 SEC Docket 259 (Apr. 5, 2000); 
+SEC v. Hefley, Litigation Release No. 16,479, 71 SEC Docket 2839 
+(Mar. 21, 2000); Donald J. Martineau, Exchange Act Release No. 
+42,422, 71 SEC Docket 1994 (Feb. 14, 2000); SEC v. Conwell, 
+Litigation Release No. 16,420, 71 SEC Docket 1675 (Feb. 1, 2000); 
+SEC v. Martineau, Litigation Release No. 16,406, 71 SEC Docket 
+1304 (Jan. 10, 2000); SEC v. Sunpoint Sec., Inc., Litigation Release 
+No. 16,366, 71 SEC Docket 464 (Nov. 19, 1999); SEC v. Bulas, 
+
+Release No. 16,337, 70 SEC Docket 2887 (Oct. 15, 1999); 
+SEC v. Tropeano, Litigation Release No. 16,327, 70 SEC Docket 
+2502 (Oct. 5, 1999). 
+
+
+27 
+
+
+exclude frauds about matters as potentially disruptive 
+of that process as a stockbroker’s scheme to misap- 
+propriate customer securities and securities proceeds. 
+
+Further, “the fundamental purpose of the 1934 Act 
+‘to substitute a philosophy of full disclosure for the 
+philosophy of caveat emptor would also be eroded by 
+the court of appeals’ exclusion of respondent’s fraud 
+from the scope of Section 10(b). Santa Fe, 430 U.S. at 
+477 (citation omitted). Permitting deception on matters 
+so central to securities transactions as those involved 
+here—a stockbroker’s feigning loyalty to his customer, 
+while actually using the customer’s securities for his 
+own purposes and misappropriating the proceeds of the 
+securities sales—would create a significant hole in the 
+full disclosure regime. 
+
+Congress expressly stated in the Exchange Act itself 
+that its intent in passing the Act, which includes 
+Section 10(b), was to “make [securities] regulation and 
+control reasonably complete and effective.” Herman & 
+MacLean, 459 U.S. at 386 (quoting 15 U.S.C. 78b). 
+Interpreting Section 10(b) to prohibit the kinds of fraud 
+involved in this case is critical to that goal because no 
+other provision of the federal securities laws provides 
+an equally effective alternative to police stockbrokers 
+who fraudulently misappropriate customer property. 
+And the Commission’s ability to take action against 
+
+
+Although Section 17(a) of the Securities Act of 1933, 15 U.S.C. 
+77q(a), on which the Commission also relied below (see note 1, 
+supra), prohibits fraud “in” the sale of securities, the conduct at 
+issue here would not be prohibited by Section 17(a) if it is not 
+covered by Section 10(b). See United States v. Naftalin, 441 U.S. 
+at 773 n.4 (discussed at p. 41, infra). Section 15(c) of the Exchange 
+Act, 15 U.S.C. 780(c) (1994 & Supp. V 1999), prohibits brokers or 
+dealers from engaging in fraudulent conduct only with respect to 
+transactions in the over-the-counter market, not on exchanges. 
+
+
+28 
+
+
+stockbrokers absent a violation of the securities laws is 
+limited.’ | 
+C. Precedent Supports Stockbroker Liability For Mis- 
+
+
+appropriation of Customer Securities And Securities 
+Proceeds * 
+
+
+1. This Court 's decision in Bankers Life supports the 
+conclusion that Section 10(b) and Rule 10b-5 are vio- 
+lated when a stockbroker fraudulently misappropri- 
+ates customer securities and securities proceeds 
+
+
+In Bankers Life, the Court held that a complaint that 
+alleged the fraudulent misappropriation of the proceeds 
+of a securities sale stated a cause of action under 
+Section 10(b). The defendants in that case led a com- 
+pany’s board of directors to believe that the company 
+would receive the proceeds from a proposed sale of 
+Treasury bonds, when in fact the defendants (who were 
+corporate insiders and thus fiduciaries) intended to 
+misappropriate the proceeds for their own use. 404 
+U.S. at 9. This Court reversed a decision of the Court 
+of Appeals for the Second Circuit in which that court, 
+
+
+9 Section 21(d)(1) of the Exchange Act, 15 U.S.C. 78u(d)(1), 
+authorizes the Commission, in some circumstances, to bring an 
+injunctive action based on a violation of the rules of a securities 
+industry self-regulatory organization, such as the National Asso- 
+ciation of Securities Dealers. Section 21(f), 15 U.S.C. 78u(f), how- 
+ever, states that the Commission “shall not bring any action 
+pursuant to subsection (d) * * * for violation of * * * the rules 
+of a self-regulatory organization unless” the Commission finds that 
+the self regulatory organization “is unable or unwilling to take 
+appropriate action” or it is otherwise necessary or appropriate in 
+the public interest for the Commission to bring such an action. The 
+Commission also can bring administrative proceedings against 
+brokerage firms and their personnel under Section 15(b)(4) and 
+(6) and Section 21C of the Exchange Act, 15 U.S.C. 780(b)(4) and 
+(6), 78u-3, but only based on a violation of a provision of the 
+securities laws, such as Section 10(b), or a criminal conviction. 
+
+
+29 
+
+
+much like the Fourth Circuit here, held that Section 
+10(b) did not apply to misappropriation of the proceeds 
+
+
+of a sale of securities because “[t]here is a structural 
+
+
+difference between the sale of the corporation’s bonds 
+at a concededly fair price and the subsequent fraudu- 
+lent misappropriation of the proceeds received.” 430 
+F.2d at 360. This Court rejected that reasoning, 
+holding that the “in connection with” requirement was 
+satisfied when the board of directors was deceived 
+about the reason for the sale of its securities, regardless 
+of whether “the proceeds of the sale * * * were 
+misappropriated.” 404 U.S. at 10. 
+
+Although the Second Circuit in Bankers Life had 
+acknowledged that, if the board had known that the 
+defendants “intended to misappropriate the proceeds 
+for their own use[,] it undoubtedly would not have 
+authorized the sale,” the court nonetheless held, like the 
+
+
+Fourth Circuit in this case, that the fraud was not in 
+
+
+connection with the sale of a security. 430 F. ad at 360. 
+As the Fourth Circuit did here, the Second Circuit in 
+Bankers Life reasoned that the “deception did not 
+infect the subsequent sales transaction.” Jbid. Com- 
+pare Pet. App. 9a (“The record contains no suggestion 
+that the sales themselves were conducted in anything 
+other than a routine and customary fashion.”). This 
+Court rejected that reasoning and held that, although 
+“the full market price was paid for thle] bends,” 
+because the board had been “duped into believing that 
+it * * * would receive the proceeds,” [wle cannot 
+agree * * * that the ‘purity of the security transaction 
+and the purity of the trading process were unsullied.’” 
+404 U.S. at 9-10. 
+
+The court of appeals in this case attempted to 
+distinguish Bankers Life on the ground that, in that 
+case, it was the defendants’ misrepresentation, rather 
+
+
+30 
+
+
+than an omission, that induced the securities sale. Pet. 
+App. 13a. That purported distinction does not with- 
+stand scrutiny. Although Bankers Life may have 
+involved a misrepresentation rather than, as in this 
+case, silence in the face of a duty to disclose, that 
+distinction is of no legal significance. Omissions are 
+treated the same as false statements under Section 
+10(b) and Rule 10b-5 as long as there is a duty to 
+disclose the information. See Chiarella v. United 
+States, 445 U.S. 222, 230 (1980) (“silence in connection 
+with the purchase or sale of securities may operate as a 
+fraud actionable under §10(b)” when there is “a duty to 
+disclose arising from a relationship of trust and confi- 
+dence”); Affiliated Ute Citizens v. United States, 406 
+U.S. 128, 153 (1972) (finding liability under Section 
+10(b) even though “these defendants may have made no 
+positive representation or recommendation,” because 
+the “sellers had the right to know that the defendants 
+were in a position to gain financially from their sales”). 
+Moreover, as a practical matter, the only reason there 
+was a misrepresentation in Bankers Life and an omis- 
+sion here is that the board needed to authorize the sale 
+in Bankers Life, but the Woods had given respondent 
+discretion to engage in securities transactions on their 
+behalf. Accordingly, a rule that prohibited misrepre- 
+sentations but not omissions would leave unprotected 
+those brokerage customers most in need of the law’s 
+protection. 
+
+Because respondent had a fiduciary duty to the 
+Woods, he also had a duty to disclose to them that he 
+was selling the securities they had entrusted to him and 
+using the proceeds for his own benefit. Further, as 
+explained above, see p. 21, respondent’s failure to 
+disclose his plans and actions deprived the Woods of the 
+opportunity to prevent the sales. Thus, respondent’s 
+
+
+31 
+
+
+failure to disclose was instrumental to the sales in this 
+case just as the misrepresentation in Bankers Life was 
+instrumental to the sale in that case. Finally, the court 
+of appeals’ attempt to distinguish Bankers Life on the 
+ground that respondent’s deception was not “about a 
+particular security” (Pet. App. 13a) is misplaced. The 
+relationship between the deception and particular 
+securities is no different here than in Bankers Life.” In 
+any event, the scope of Section 10(b) is not restricted to 
+misrepresentations about particular securities and their 
+attributes. See pp. 39-43, infra. 
+
+Bankers Life also indicates that the fraudulent mis- 
+appropriation of securities in connection with a 
+securities transaction violates Section 10(b). In support 
+of its holding in Bankers Life, this Court cited, 404 U.S. 
+at 10-11 n.7, two lower court decisions that so held. In 
+the first of those cases, Allico Nat’l Corp. v. Amalga- 
+mated Meat Cutters of North America, 397 F.2d 727 
+(7th Cir. 1968), the court of appeals “held sufficient 
+under § 10(b) and Rule 10b-5 a complaint which charged 
+that defendant union * * * breached a prior 
+agreement to sell 100% of the stock in a wholly owned 
+* * company to plaintiffs.” 404 U.S. at 10 n. 7. As 
+this Court explained, the court of appeals in Allico 
+“placed primary reliance on the fact that * * * the 
+union misappropriated some 25,000 shares of the * * * 
+stock which had previously been sold to plaintiffs for 
+
+
+10 Although the deceptions in both this case and Bankers Life 
+did not concern the attributes of particular securities, the decep- 
+tions in both this case and Bankers Life did concern transactions 
+in particular securities. Respondent deceived the Woods with 
+respect to each sale of their securities, because, with respect to 
+each sale, he maintained the pretense that he was acting for their 
+benefit rather than his own and that the proceeds would be used 
+for their benefit rather than his benefit. 
+
+
+32 
+
+
+cash, but which were being held in escrow pending 
+consummation of the agreement.” Ibid. In the second 
+of the two cases cited in the Bankers Life footnote, 
+Cooper v. North Jersey Trust Co., 226 F. Supp. 972 
+(S.D.N.Y. 1964), the district court held that “a conspir- 
+acy to loan plaintiff money to buy securities, followed 
+by the misappropriation of the purchased securities 
+when they were pledged to secure the loan, * * * 
+violate[d] § 10(b) and Rule 10b-5.” 404 U.S. at 11 n. 7. 
+
+
+2. Other precedent supports stockbroker liability for 
+fraudulently misappropriating customer securities 
+and their proceeds 
+
+Several other courts of appeals have recognized that 
+
+fraudulent conversion of securities and the proceeds of 
+securities sales violates Section 10(b). For example, in 
+United States v. Kendrick, 692 F.2d 1262 (1982), the 
+Ninth Circuit held that a stockbroker who converted to 
+his own use money that he obtained from customer 
+margin accounts that were secured by the pledge of 
+securities engaged in fraud in connection with the sale 
+of securities. Jd. at 1264-1266. The stockbroker in 
+Kendrick wrote checks payable to himself on the 
+margin accounts, and those transactions were recorded 
+as loans to the customers secured by the pledged 
+securities. Jd. at 1264. After explaining that a pledge 
+of securities to secure a loan is a sale of securities 
+within the meaning of the securities laws, see Rubin v. 
+United States, 449 U.S. 424, 431 (1981), the court held 
+that a sale of securities occurred each time a check was 
+issued, because the brokerage firm each time acquired 
+an additional interest in the pledged securities. 692 
+F.2d at 1265. The court next explained that the 
+stockbroker engaged in fraud because he “failed to 
+disclose to his customers * * * that he was acting 
+
+
+33 
+
+
+beyond his authority in using customer funds for his 
+own use.” Id. at 1265-1266. Finally, the court con- 
+cluded that the fraud was “in connection with” the sales 
+because the stockbroker was engaged in the fraud at 
+the time he caused the brokerage firm to issue the 
+checks on the margin accounts, which was the time at 
+which the sales occurred. Ibid. 
+
+Other courts of appeals have found Section 10(b) 
+violations in similar circumstances. See Mansbach v. 
+Prescott, Ball & Turben, 598 F.2d 1017, 1027-1029 (6th 
+Cir. 1979) (brokerage firm’s fraudulent conversion of 
+bonds that customer had pledged to the firm as collat- 
+eral violated Section 10(b)); SEC v. Manor Nursing 
+Ctrs., Inc., 458 F.2d 1082, 1094-1095 (2d Cir. 1972) (Sec- 
+tion 10(b) violated by “misappropriation of the pro- 
+ceeds” of an initial public offering by retaining funds 
+paid by investors when the precondition for retaining 
+the proceeds had not been met); Richardson v. 
+MacArthur, 451 F.2d 35, 39 (10th Cir. 1971) (seller’s 
+scheme to defraud buyer by converting stock after the 
+sale violates Section 10(b)); Buttrey v. Merrill Lynch, 
+Pierce, Fenner & Smith, Inc., 410 F.2d 135, 144 (7th 
+Cir.) (allegation that brokerage firm knew of and 
+facilitated another stockbroker’s scheme to convert the 
+securities investment funds of its customers states a 
+claim under Section 10(b)), cert. denied, 396 U.S. 838 
+(1969). a 
+
+
+The Second Circuit has held that a fiduciary’s fraudulent 
+conversion of stock several months or years after the stock is 
+purchased is not “in connection with” the earlier purchase. See 
+
+
+_ Flickinger v. Harold C. Brown & Co., 947 F. 2d 595 (1991); Pross v. 
+
+
+Katz, 784 F. 2d 455 (1986). Even if we assume, arguendo, that those 
+decisions were correct, they differ significantly from this case be- 
+cause respondent’s fraudulent conversion of the Woods’ securities 
+was consummated by their sale. See p. 20, supra. In any event, 
+
+
+34 
+
+
+The leading commentators also agree that Section 
+10(b) is violated by a stockbroker’s fraudulent sale of a 
+customer’s securities or conversion of the proceeds of 
+securities sales. See 7 L. Loss & J. Seligman, Securities 
+Regulation 3530 & n.189 (3d ed. 1991); 5B A. Jacobs, 
+Litigation and Practice Under Rule 10b-5 & 38.01[b], at 
+2- 55 (1996); 5C A. Jacobs, Litigation and Practice 
+Under Rule 10b-5 § 67.02, at 3-760 to 3-761 (1999); id. 
+§ 213.02, at 9-187 to 9-192, 9-197 (2001); 4 A. Bromberg 
+& L. Lowenfels, Securities Fraud and Commodities 
+Fraud, § 15.07(215)(3), at 15:162 (2d ed. 2000). See also 
+L. Lowenfels & A. Bromberg, Rule 10b-5’s “In Con- 
+nection With”: A Nexus for Securities Fraud, 57 Busi- 
+ness Lawyer 1, 16 (2001) (noting, in discussing this case, 
+that “(i]t is hard to understand how [respondent’s] 
+activities did not constitute fraud ‘in connection with’ 
+the sale of a security”). 
+
+
+D. The SEC’s Contemporaneous And Consistent Inter- 
+
+
+pretation Of Section 10(b) And Rule 10b-5 Is Entitled 
+To Deference 
+
+
+The SEC has interpreted Section 10(b) and Rule 10b- 
+5 to prohibit the fraudulent misappropriation by 
+
+
+the mere passage of time between the securities transaction and 
+the misappropriation does not preclude Section 10(b) liability. See 
+1 A. Bromberg & L. Lowenfels, Securities Fraud and 
+Commodities Fraud § 4.7(574)(3), at 88.35 (2d ed. 2001) (necessary 
+
+
+connection exists “if the plaintiff can trace the proceeds or showa - 
+
+
+plan to misappropriate conceived at or near the sale”). In Hunt v. 
+Robinson, 852 F.2d 786, 787 (1988), the Fourth Circuit held that an 
+alleged fraudulent stock transaction was not actionable under 
+Section 10(b) because the claim amounted to “common law fraud.” 
+As discussed below, however, the fact that an alleged fraud in 
+connection with a securities transaction is also redressable under 
+state law does not preclude liability under Section 10(b). See pp. 
+46-48, infra. 
+
+
+35 
+
+
+broker-dealers and their employees of customer 
+securities and the proceeds of securities sales since the 
+Commission first promulgated Rule 10b-5 in 1942. As 
+the Commission emphasized in its brief amicus curiae in 
+Bankers Life, “almost since the Commission was 
+established, application of the antifraud provisions of 
+the Securities Act and the Securities Exchange Act to 
+the misappropriation of investors’ funds has been 
+
+y prominent in its regulation of brokers and 
+dealers registered with it.” SEC Br. at 19-20. See also 
+Cooper v. North Jersey Trust Co., 226 F. Supp. 972, 978 
+(S. D. N. V. 1964) (discussed in Bankers Life, 404 U.S. at 
+11 n.7, and at p. 32, supra) (“such activity has been 
+consistently viewed by the SEC as a violation of 
+Section 10(b) and Rule 10b-5”).” - 
+
+For example, in Kenneth Leo Bauer, 26 S.E.C. 770 
+(1947), the Commission found a violation of Rule 10b-5 
+because the firm misappropriated to its own use 
+securities and the proceeds of the sales of securities 
+that customers had entrusted to the firm with the 
+understanding that they would be sold and the money 
+transmitted to the customers, as well as money 
+customers had entrusted to the firm for the purpose of 
+
+ing securities. Id. at 773, 775. The Commission 
+noted that the firm was acting as the agent of the 
+customers. Id. at 774. It characterized the firm’s con- 
+duct as “the crudest and most flagrant type of scheme 
+to obtain customers’ funds and securities under false 
+
+
+12 Even before the promulgation of Rule 10b-5, the Commission 
+had interpreted Section 17(a) of the Securities Act of 1933 to prohi- 
+bit such stockbroker fraud. See SEC v. Lawson, 24 F. Supp. 360 
+D. Md. 1988); Globe Sec. Co., 10 S.E.C. 1105, 1109, 1110 (1942). As 
+noted above, Section 17(a) is not directly at issue here, and 
+respondent’s conduct would not be prohibited by Section 17(a) if it 
+is not covered by Section 10(b). See notes 1, 8, supra. 
+
+
+* 
+
+
+pretenses.” Id. at 776. And it held that the misap- 
+propriations “violated the implicit representation that 
+the firm] would either execute transactions honestly 
+and in accordance with trade custom or return the 
+customers’ funds.” Ibid. 
+
+Similarly, in Southeastern Securities Corporation, 29 
+S.E.C. 609 (1949), the Commission found a violation of 
+Rule 10b-5 because the president and director of a 
+brokerage firm sold a customer’s securities without her 
+knowledge or consent and converted the proceeds of 
+the sale to his own use. Id. at 611-612. The Commission 
+noted that the relationship between the stockbroker 
+and the customer was founded on “trust and confi- 
+dence” and that his “duty as a fiduciary was to exert his 
+most diligent and conscientious efforts in her interests 
+and to subordinate his own.” Id. at 613-614. Although 
+the stockbroker argued that his conduct was authorized 
+because he had discretion over the customer’s affairs by 
+virtue of a general power of attorney, the Commission 
+rejected that argument. Id. at 614. The Commission 
+explained that, “[e]ven assuming the existence and 
+validity of the alleged power of attorney, [the stock- 
+broker’s] use of [the customer’s] money for his purely 
+personal benefit would not be authorized by that 
+instrument in the absence of a showing of full and 
+specific disclosure to, and understanding and consent 
+by,” the customer. bid. The Commission therefore 
+concluded that the stockbroker’s “taking and sale of 
+[the customer’s] securities and his use of the proceeds 
+constituted a willful abuse of his trust” and a violation 
+of Section 10(b) and Rule 10b-5. Ibid.“ 
+
+
+18 See also, e. g., D.S. Waddy & Co., 30 S.E.C. 367 (1949); Calvert 
+Sec. Corp., 35 S. E. C. 141, 143 (1953); Stuart F. Beck, Exchange Act 
+Release No. 19,916, 28 SEC Docket 303 (June 27, 1983); SEC v. 
+
+
+37 
+
+
+The interpretation of Section 10(b) and Rule 10b-5 
+embodied in those and similar adjudicatory decisions by 
+the SEC is entitled to deference. Section 1000) is not 
+self-executing, but rather provides that the use of 
+deceptive devices in connection with securities trans- 
+actions is unlawful when it is “in contravention of such 
+rules and regulations as the Commission may prescribe 
+as necessary or appropriate in the public interest or for 
+the protection of investors.” 15 U.S.C. 78j(b). Thus, 
+Congress did not itself attempt to catalogue all the 
+deceptive and manipulative devices and practices pro- 
+hibited under Section 10(b), but vested “broad discre- 
+tionary powers in the [SEC]” to define that conduct. 
+H.R. Rep. No. 1383, 73d Cong., 2d Sess. 7 (1934). The 
+SEC has exercised that broad authority by promulgat- 
+ing Rule 10b-5. See 17 C. F. R. 240.10b-5. The construc- 
+tion of Section 10(b) reflected in Rule 10b-5 “is binding 
+in the courts unless procedurally defective, arbitrary or 
+capricious in substance, or manifestly contrary to the 
+statute.” See United States v. Mead Corp., 121 S. Ct. 
+2164, 2171 (2001). The SEC’s interpretation of Rule 
+10b-5 must in turn “be given controlling weight unless 
+it is plainly erroneous or inconsistent with the regula- 
+
+
+tion.“ Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 
+
+
+512 (1994) (quotation marks omitted). 
+
+In addition to giving the Commission express 
+authority to define the scope of Section 10(b) through 
+rulemaking, Congress has authorized the SEC to 
+interpret Section 10(b) and Rule 10b-5 through adjud- 
+ication. The Exchange Act authorizes the Commission 
+to determine through formal adjudication whether 
+
+
+Faitos, Litigation Release No. 12,786, 48 SEC Docket 528 (Feb. 27, 
+1991); SEC v. Harris, Litigation Release No. 16,954, 74 SEC 
+Docket 2058 (Apr. 6, 2001). 
+
+
+38 
+
+
+brokers and dealers have willfully violated the federal 
+securities laws and the rules and regulations promul- 
+gated thereunder. See 15 U.S.C. 780(b)(4)(D) and 
+(6)(A)G). “It is fair to assume that Congress contem- 
+plates administrative action with the effect of law when 
+it provides for a relatively formal administrative pro- 
+cedure tending to foster the fairness and deliberation 
+that should underlie a pronouncement of such force.” 
+Mead, 121 S. Ct. at 2172. Thus, the SEC’s reasonable 
+interpretation of Section 10(b) and Rule 10b-5 “promul- 
+gated in the exercise of that authority” must be given 
+effect by the courts. Id. at 2171, 2172. See generally 
+Chevron U.S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837, 843-844 (1984). 
+
+Substantial deference to the Commission’s interpre- 
+tation would be warranted here even absent the 
+delegations of authority in Section 10(b) and other 
+provisions of the Exchange Act to issue interpretations 
+having the force of law. As noted above, the Com- 
+mission adopted its interpretation in the years immedi- 
+ately following the promulgation in 1942 of Rule 10b-5, 
+and the Commission has consistently adhered to that 
+interpretation since that time. Considerable weight is 
+due “a contemporaneous construction of a statute by 
+the men charged with the responsibility of setting its 
+machinery in motion, of making the parts work effi- 
+ciently and smoothly while they are yet untried and 
+new.” Norwegian Nitrogen Prods. Co. v. United States, 
+288 U.S. 294, 315 (1933). See, eg., Good Samaritan 
+Hosp. v. Shalala, 508 U.S. 402, 414 (1993); Davis v. 
+United States, 495 U.S. 472, 484 (1990); Edward’s 
+Lessee v. Darby, 25 U.S. (12 Wheat.) 206, 210 (1827). 
+“Moreover, such a contemporaneous construction 
+deserves special deference when it has remained 
+consistent over a long period of time.” EEOC v. Assoc. 
+
+
+39 
+
+
+Dry Goods Corp., 449 U.S. 590, 600 n.17 (1981); see 
+Davis, 495 U.S. at 484. See also, e.g., Udall v. Tallman, 
+380 U.S. 1, 15 (1965) (applying same principle to inter- 
+pretation of regulation). There is no reason to depart 
+now from the Commission’s contemporaneous and 
+longstanding interpretation of Section 10(b) and Rule 
+10b-5, which, as described above, is consistent with the 
+text and purposes of those provisions, as well as this 
+Court’s precedent. 
+
+E. The Court Of Appeals Erred In Engrafting On Section 
+
+
+10(b) And Rule 10b-5 Limitations That Do Not Appear 
+In Their Text 
+
+
+1. Section 10(b) and Rule 10b-5 are not limited to 
+misrepresentations about particular securities or the 
+value or other attributes of particular securities 
+
+
+The court of appeals erred in reasoning that respon- 
+dent’s fraud did not have the requisite connection to a 
+securities transaction because respondent did not 
+mislead “the Woods about the relative merits or value 
+of particular securities” (Pet. App. 9a), his mis- 
+representations “did not make any reference to the 
+attributes of a specific security” (id. at 10a), and they 
+“were not about a particular security” (id. at 13a). As 
+explained above, respondent deceived the Woods with 
+respect to each sale of their securities. See p. 31 & note 
+10, supra. Moreover, Section 10(b) and Rule 10b-5 
+require only that fraud be “in connection with” a 
+securities transaction. That language does not impose a 
+limitation on the subject matter of the prohibited 
+deception. 
+
+“Neither § 10(b) nor Rule 10b-5 contains any lan- 
+guage which would indicate that those provisions were 
+intended to deal only with fraud as to the ‘investment 
+value’ of securities, and, indeed, it is established that a 
+
+
+40 
+
+
+10b-5 action will survive even though the fraudulent 
+scheme or device is unrelated to investment value.“ 
+A. T. Brod & Co., 375 F.2d at 396-397." See SEC v. 
+Jakubowski, 150 F.3d 675, 679-680 (1998) (Easterbrook, 
+J.), cert. denied, 525 U.S. 1103 (1999). Thus, in 
+O’Hagan, the misrepresentation was (like the mis- 
+representation in this case) the fiduciary’s false 
+profession of his intent to honor his duty of loyalty to 
+his principal, 521 U.S. at 653-654. In Bankers Life, the 
+misrepreséntation was that the seller of the securities 
+would receive the sales proceeds, which is also an 
+implicit misrepresentation in this case. 404 U.S. at 9-10. 
+In neither O’Hagan nor Bankers Life did the deception 
+concern the value or other attributes of a particular 
+security. 
+
+Similarly, in Naftalin, this Court held that the 
+defendant’s misrepresentation about his intention and 
+ability to sell securities violated Section 17(a) of the 
+Securities Act of 1933, which prohibits fraud “in the 
+offer or sale of any securities.“ 15 U.S.C. 77q(a). The 
+defendant falsely represented that he owned stock that 
+he entered into a contract with a broker-dealer to sell; 
+in fact, he did not own the stock, and he was unable to 
+deliver it because the price rose before the settlement 
+date. 441 U.S. at 770-771 . The Court’s conclusion that a 
+misrepresentation concerning the ability and intention 
+to deliver stock can form the basis for liability under 
+Section 17(a) is instructive with respect to the scope of 
+Section 10(b), because Section 17(a)’s prohibition on 
+
+
+4 The Court in Bankers Life discussed this aspect of A T. Brod 
+& Co., noting with apparent approval that the Second Circuit had 
+reversed the dismissal of the complaint even though “no fraud 
+[was] alleged as to the investment value of the securities.” 404 
+USS. at 11 n.7 (quoting 375 F. 2d at 396). 
+
+
+41 
+
+
+fraud “in the offer or sale of any securities” is analogous 
+to Section 10(b)’s prohibition on fraud “in connection 
+with the purchase or sale of securities.” See Herman & 
+MacLean, 459 U.S. at 383 (characterizing Naftalin as 
+“applying § 17(a) of the 1933 Act to conduct also 
+prohibited by § 10(b)”); Naftalin, 441 U.S. at 773 n.4 
+(suggesting that “in” and “in connection with” are 
+coterminous); Hochfelder, 425 U.S. at 213 n.32 (noting 
+substantial overlap between text of Rule 10b-5 and 
+Section 17). The broad language of Section 10(b) and 
+Rule 10b-5, like the broad language in Section 17(a), is 
+“expansive enough to encompass the entire selling 
+process” and “does not require that the fraud occur in 
+any particular phase of the selling transaction.” 
+Naftalin, 441 U.S. at 773. 
+
+Consistent with the statutory and regulatory texts, 
+as well as this Court’s precedent, the courts of appeals 
+also have frequently found the “in connection with” 
+requirement satisfied in cases in which the misrep- 
+resentation did not concern the value or any other 
+attribute of a particular security. See Press v. Chemi- 
+cal Inv. Servs. Corp., 166 F.3d 529 (2d Cir. 1999) 
+(broker-dealer’s failure to disclose to a customer pur- 
+chasing a Treasury note that funds from the maturing 
+note would not be available on the maturity date); 
+Jakubowski, 150 F.3d at 679 (purchaser’s misrepre- 
+sentation of his identity); Angelastro v. Prudential- 
+Bache Sec., Inc., 764 F.2d 989 (3d Cir.) (misrepresenta- 
+tions about the interest rates on a margin account), 
+cert. denied, 474 U.S. 935 (1985); Marbury Mgmt., Inc. 
+v. Kohn, 629 F.2d 705 (2d Cir.) (securities salesman’s 
+fraudulent representation that he was a licensed 
+registered representative when he was only a trainee), 
+cert. denied, 449 U.S. 1011 (1980); Arrington v. Merrill 
+Lynch, Pierce, Fenner & Smith, 651 F.2d 615 (9th Cir. 
+
+
+42 
+
+
+1981) (misrepresentation of the risks of buying 
+securities on margin in a declining market); Fey v. 
+Walston & Co., 493 F.2d 1036 (7th Cir. 1974) (churning 
+of customer accounts). 
+
+Congress’s purposes in enacting a broad antifraud 
+provision like Section 10(b) would be seriously under- 
+mined by a rule that Section 10(b) encompasses only 
+misrepresentations about the value or another attribute 
+of a particular security. Such an interpretation would 
+remove from the statute’s purview many pernicious 
+forms of fraud. For example, it would call into question 
+
+
+the misappropriation theory of insider trading upheld in _ 
+
+
+O’Hagan. Moreover, it would exempt from Section 
+10(b)’s coverage many types of fraud perpetrated by 
+stockbrokers against their customers, in addition to 
+fraudulent misappropriation of customer securities and 
+their proceeds. As indicated by the cases cited above, 
+deceptive conduct by stockbrokers frequently includes 
+churning customer accounts and other misrepresenta- 
+tions about the trading process. See, e.g., Angelastro, 
+764 F.2d at 943 (relying on decisions including “fraud 
+involving the [securities] trading process” as within 
+“the scope of section 10(b) and Rule 10b-5” to conclude 
+
+
+15 In Chemical Bank v. Arthur Andersen & Co., 726 F.2d 930 
+(2d Cir.), cert. denied, 469 U.S. 884 (1984), on which the court of 
+appeals in this case relied (Pet. App. 7a, 10a), the Second Circuit 
+suggested that only misrepresentations about the securities 
+involved in a particular transaction could be “in connection with 
+the purchase or sale” of securities. See 726 F.2d at 943. In subse- 
+quent cases, however, the Second Circuit has made clear that the 
+“in connection with” requirement does not place a subject matter 
+limitation on the misrepresentations that are actionable under 
+Section 10(b). See, e.g., Drysdale Sec. Corp., 785 F.2d at 42-43 
+(holding that a misrepresentation about the financial condition of 
+the seller was actionable under Section 10(b) when “securities 
+were transferred as a direct result of [the] misrepresentation”). 
+
+
+43 
+
+
+that a stockbroker’s misrepresentation of the interest 
+rates on a margin account violates Section 10(b)); 
+Mihara, 619 F.2d at 824 (rejecting contention that, in a 
+churning case, fraud must be shown in connection with 
+each trade). Exempting those frauds from Section 
+10(b)’s coverage would directly frustrate Congress’s 
+intent to protect investors, achieve the highest 
+standard of honesty in the securities industry, and 
+safeguard securities and funds related to securities 
+transactions. See pp. 24-27, supra. It would also be 
+contrary to Congress’s expressed concern in enacting 
+the Exchange Act to remedy the “disregard of trust 
+relationships by those whom the law should regard as 
+fiduciaries” in the context of securities transactions. 
+Bankers Life, 404 U.S. at 11-12 (quoting H.R. Rep. No. 
+1383, 73d Cong., 2d Sess. 6 (1934)). 
+
+
+2. Applying Section 10(b) and Rule 10b-5 to a 
+stockbroker’s fraudulent conversion of customer 
+securities and their proceeds would not improperly 
+ſederalize state law 
+
+
+a. The court of appeals also erred in concluding that 
+respondent’s fraudulent sales of the Woods’ securities 
+and embezzlement of the proceeds of the sales con- 
+stituted only conversion or theft, in violation of state 
+law, and not securities fraud. See Pet. App. 12a, 14a. A 
+stockbroker’s embezzlement or fraudulent misappro- 
+priation of securities and their proceeds differs from 
+simple conversion or theft, because the stockbroker’s 
+actions involve fraud or deception in connection with a 
+securities transaction. See pp. 15-19, supra. Conver- 
+sion or theft, in contrast, need not involve deception but 
+only the taking of property belonging to another. See 
+Restatement (Second) of Torts § 222A(1) (1977) (“Con- 
+version is an intentional exercise of dominion or control 
+
+
+> 
+
+
+44 
+
+
+over a chattel which so seriously interferes with the 
+right of another to control it that the actor may justly 
+be required to pay the other the full value of the 
+chattel.”); United States v. Corona-Sanchez, 234 F.3d 
+449, 454 (9th Cir. 2000) (noting that It he contempo- 
+rary crime of ‘theft’ stems from the common law crime 
+of larceny,” which was “when one person misappropri- 
+ated another’s property by means of taking it from his 
+possession without his consent”). Because Section 10(b) 
+“trains on conduct involving manipulation or deception” 
+“in connection with the purchase or sale of any secu- 
+rity,” a Section 10(b) action that is premised on decept- 
+ion does not improperly federalize state law. O’Hagan, 
+521 U.S. at 655. 
+
+In O Hagan, the Court held that a fiduciary’s mis- 
+appropriation of his principal’s confidential information 
+is a violation of Section 10(b) when the fiduciary 
+“feign(s] fidelity” to the principal. 521 U.S. at 655. As 
+in O’Hagan, respondent here feigned fidelity to his 
+principals while, at the same time, he misappropriated 
+the property they had entrusted to him. See pp. 15-19, 
+supra. Thus, like the conduct in O’Hagan, respondent’s 
+fraud falls squarely within the conduct prohibited by 
+Section 10(b) and Rule 10b-5. 
+
+Other decisions of this Court confirm that situations 
+that are generally the concern of state law also become 
+the special concern of the federal securities laws when 
+they involve deception connected with securities trans- 
+actions. For example, in Virginia Bankshares, Inc. v. 
+Sandberg, 501 U.S. 1083, 1090-1098 (1991), the Court 
+held that misrepresentations about internal corporate 
+affairs may be actionable under the federal securities 
+laws when deception i is involved, even though corporate 
+mismanagement i is generally governed by state law. In 
+addition, in The Wharf (Holdings) Limited v. United 
+
+
+45 
+
+
+International Holdings, Inc., 121 S. Ct. 1776, 1782 
+(2001), the Court rejected the argument that a claim 
+that a corporation sold an option contract with the 
+secret intent not to honor the option was an “ordinary 
+state breach-of-contract claim * * * outside the 
+Exchange] Act’s basic objectives.” 
+
+Santa Fe Industries, Inc. v. Green, 430 U.S. 462 
+(1977), on which the court of appeals relied here (Pet. 
+App. 14a), is not to the contrary. As this Court ex- 
+plained in O’Hagan, there was no deception in Santa 
+Fe. See 521 U.S. at 655. Santa Fe involved a claim that 
+the defendant majority shareholder, although it made 
+full disclosure, breached its fiduciary duty to minority 
+shareholders in a freeze-out merger. The Court ruled 
+that that claim, standing alone, did not state a cause of 
+action under Section 10(b). The primary basis for that 
+holding was not that the case involved issues tradition- 
+ally governed by state law, but that “the transaction, if 
+carried out as alleged in the complaint, was neither 
+deceptive nor manipulative.” 430 U.S. at 474. The 
+Court in Santa Fe pointed out the difference between 
+the situation there, which involved only a breach of 
+fiduciary duty by the majority shareholders, and cases 
+“in which the breaches of fiduciary duty held violative 
+of Rule 10b-5 included some element of deception.” Id. 
+at 474-475 & n.15 (citing, inter alia, Bankers Life). 
+
+In distinguishing Santa Fe in Virginia Bankshares, 
+the Court explained that, although state law governs 
+internal corporate affairs, Section 14(a) of the Exchange 
+Act, which governs proxy solicitations, “does impose 
+responsibility for false and misleading proxy state- 
+ments.” 501 U.S. at 1093 n.6. The Court further ex- 
+plained that, a llthough a corporate transaction’s ‘fair- 
+ness’ is not, as such, a federal concern, a proxy state- 
+ment’s claim of fairness presupposes a factual integrity 
+
+
+46 
+
+
+that federal law is expressly concerned to preserve.” 
+Ibid. The same analysis applies to Section 10(b) actions 
+involving conversion: Simple conversions of money and 
+property, as such, are not the concern of Section 10(b). 
+When those conversions involve deception in connec- 
+tion with a securities transaction, however, they 
+become the concern of Section 10(b), because that pro- 
+vision is expressly designed to prohibit fraud connected 
+with securities transactions. 
+
+b. When a stockbroker embezzles customer prop- 
+erty, the customer likely has a state law claim for fraud 
+as well as a claim under Section 10(b). The court of 
+appeals erred, however, in suggesting that the exis- 
+tence of a fraud remedy under state law precludes 
+liability under Section 10(b). See Pet. App. 8a, 14a. 
+Section 10(b) and Rule 10b-5 contain no language ex- 
+cluding from their coverage frauds that are actionable 
+under state law. In addition, Section 28(a) of the 
+Exchange Act expressly provides that, with certain 
+exceptions not relevant here, “(t]he rights and remedies 
+provided by [the Act] shall be in addition to any and all 
+other rights and remedies that may exist at law or in 
+equity.” 15 U.S.C. 78bb(a) (Supp. V 1999). 
+
+More fundamentally, creating an exception from 
+liability under Section 10(b) for common law fraud 
+would eliminate Section 10(b) as a meaningful check on 
+securities fraud, because most allegations of deception 
+
+
+in connection with the purchase or sale of securities also 
+
+
+support state law fraud claims. See Madison Con- 
+sultants v. FDIC, 710 F.2d 57, 66 (2d Cir. 1983) 
+
+
+(observing that if Rule 10b-5 provide[d] relief only 
+
+
+when state remedies are unavailable” it “would eviscer- 
+ate the Rule” because state common law remedies 
+permit recovery in most if not all areas covered by Rule 
+10b-5); 5A A. Jacobs, Litigation and Practice Under 
+
+
+47 
+
+
+Rule 10b-5, § 11.01, at 1-323 (1996) (“Common law and 
+10b-5 both provide relief for the same wrong—in other 
+words, * * * that common law permits recovery will 
+not bar a 10b-5 suit.”). 
+
+Although the Court in Santa Fe expressed concern 
+over the unwarranted encroachment of federal law into 
+areas traditionally regulated by state law, that concern 
+arose from the prospect of federal regulation absent 
+deceptive conduct. See 430 U.S. at 478-479 (absent 
+deception, federal action could “interfere” with or 
+“overrid(e]” state law and policies). The Court recog- 
+nized that “the existence of a particular state-law 
+remedy is not dispositive of the question whether Con- 
+gress meant to provide a similar federal remedy.” Id. 
+at 478. 
+
+Thus, the Court has repeatedly found violations of 
+Section 10(b) and Rule 10b-5 in cases in which there 
+were also likely fraud remedies under state law. See 
+The Wharf (Holdings) Ltd., 121 S. Ct. at 1780; 
+O’Hagan, 521 U.S. at 655; Bankers Life, 404 U.S. at 12. 
+In those cases, as in this one, Is lince there was a ‘sale’ 
+of a security and since fraud was used ‘in connection 
+with’ it, there is redress under [Section] 10(b), what- 
+ever might be available as a remedy under state law.” 
+Ibid. 
+
+Finally, it would make little sense to interpret the 
+federal securities laws to cover highly technical 
+fraudulent schemes that might not be reached by state 
+common law but not to cover bold, straightforward 
+fraudulent schemes long forbidden by state law. The 
+primary federal role in regulating the national securi- 
+ties markets would be compromised by a regime that 
+precluded the federal government from attacking the 
+most outrageous and obvious frauds. See SEC v. 
+Lauer, 52 F.3d 667, 670 (7th Cir. 1995) (Posner, J.) (“It 
+
+
+48 
+
+
+would be a considerable paradox if the worse the 
+securities fraud, the less applicable the securities 
+laws.”). In 1947, the Commission recognized that 
+schemes like respondent’s are “the crudest and most 
+flagrant type of scheme to obtain customers’ funds and 
+securities under false pretenses.” Kenneth Leo Bauer, 
+26 S.E.C. at 776. Over 50 years later, that conduct still 
+violates the federal securities laws. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted. 
+
+
+PAUL D. CLEMENT 
+Acting Solicitor General” 
+— — EDWINS. KNEEDLER 
+JACOB H. STILLMAN 
+
+
+Solicit MATTHEW D. ROBERTS 
+
+
+Assistant to the Solicitor 
+RICHARD M. HUMES Generel 
+
+
+Associate General Counsel 
+
+
+KATHARINE B. GRESHAM 
+Assistant General Counsel 
+
+
+SUSAN S. MCDONALD 
+Senior Litigation Counsel 
+
+
+PHILIP J. HOLMES 
+Senior Counsel 
+Securities and Exchange 
+Commission 
+
+
+DECEMBER 2001 
+
+
+N The Solicitor General is recused in this case. 
+
+

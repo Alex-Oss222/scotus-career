@@ -1,0 +1,3382 @@
+Suureme Court, US. 
+ILED 
+S) FEB 19 2002 
+No. 01-455 | 
+In the — bcm ‘ a 
+
+
+Supreme Court of the United States 
+
+
+FRANCONIA ASSOCIATES, et ai., 
+
+
+Petitioners, 
+Vs. 
+
+
+UNITED STATES, 
+
+
+Respondent. 
+0 
+GRASS VALLEY TERRACE, et ai., 
+Petitioners, 
+VS. 
+UNITED STATES, 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR PETITIONERS 
+
+
+Jeff H. Eckland 
+
+Counsel of Record 
+William L. Roberts 
+Mark J. Blando 
+FAEGRE & BENSON LLP 
+2200 Wells Fargo Center 
+90 South Seventh Street 
+Minneapolis, Minnesota 55402 
+(612) 766-7000 
+
+
+Counsel for Petitioners 
+
+
+2002 - Bachman Legal Printing & (612) 339-9518 @ 1-800-715-3582 @ Fax (612) 337-8053 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether a breach of contract claim accrues for 
+purposes of 28 U.S.C. § 2501 when Congress enacts a statute 
+alleged to abridge a contractual right to freedom from 
+regulatory covenants upon prepayment of government 
+mortgage loans. 
+
+
+2. Whether a Fifth Amendment takings claim accrues 
+for purposes of 28 U.S.C. § 2501 when Congress enacts a 
+statute alleged to abridge a contractual right to freedom 
+
+
+from regulatory covenants upon prepayment of government 
+mortgage loans. 
+
+
+PARTIES TO THE PROCEEDING 
+AND RULE 29.6 STATEMENT 
+
+
+The following parties are petitioners in Franconia 
+Associates v. United States: 
+
+
+Dublin Plaza, Inc. 
+
+Evergreen Manor Associates 
+
+Fox Ridge Phase II 
+
+Franconia Associates 
+
+Marilyn Graham 
+
+Greenway of Altoona Associates, Phase I 
+Greenway of Newton Associates, Phase I 
+David A. Hodges, Sr. 
+
+David A. Hodges, Sr. and Joanne M. Hodges 
+Phoebe J. Perri 
+
+Pine Needles Apartments 
+
+Prairie Village of Altoona Associates 
+Prairie Village of Grimes Associates 
+Prairie Village of Huxley Associates 
+Prairie Village of LaPorte City Associates 
+Prairie Village of Slater Associates 
+Prairie Village of State Center Associates 
+R.C. Getty Apartments 
+
+R.C. Mo Apartments 
+
+R.C. Pierre Apartments 
+
+R.C. Springs Apartments 
+
+Scenic Valley Associates 
+
+Timberbrook Properties 
+
+Valley Associates 
+
+Brian E. Wells 
+
+
+The following parties are petitioners in Grass Valley 
+Terrace v. United States: 
+
+
+Margorie W. Kassner 
+Eileen R. Kothe 
+NRCB Limited Partnership 
+
+
+oo Tne dee Ree (2 SRR nll IIT II 
+
+
+Peters, Williams & Kubota 
+
+Pine Needle Apartments Limited Partnership 
+Richard and Beatrice Schmidtbauer 
+
+The Highlands, a Limited Partnership 
+
+
+The following parties are plaintiffs in the trial court 
+action in Franconia Associates v. United States, but were not 
+appellants before the Federal Circuit and are not petitioners 
+herein: 
+
+
+Eastwood Apartments 
+
+Greenway of Altoona Associates, Phase II 
+Prairie Village of Adel Associates 
+
+Prairie Village of Parkersburg Associates 
+Tucker Properties 
+
+Tucker Properties II 
+
+
+The following parties are plaintiffs in the trial court 
+action in Grass Valley Terrace v. United States, but were not 
+appellants before the Federal Circuit and are not petitioners 
+herein: 
+
+
+Grass Valley Terrace 
+Jefferson Commons 
+
+Ripon Manor 
+
+Rural Community Builders 
+Waterloo Glen 
+
+
+Pursuant to Rule 29.6, petitioners state that of the forty- 
+three parties listed above, only one, Dublin Plaza, Inc., is a 
+corporate entity. All other petitioners and parties to the 
+proceedings below are either individuals, partnerships, or 
+limited partnerships. There are no parent corporations or 
+publicly held companies that own ten percent or more of the 
+stock of Dublin Plaza, Inc. 
+
+
+TABLE OF CONTENTS 
+
+
+CED FSS I crccnseensanserecnensensecnemnensnsnmmnnnsemensesneens i 
+
+PARTIES TO THE PROCEEDING AND RULE 29.6 
+OF , e ii 
+FARE Gr CICS aD ccereczsccsecsssesssscsssarssensncscsmmaumsseseneenaeussns iv 
+FARE GP AIF CIR ACES cccnceessssensseneereenscessessecsssmemensessseue Vii 
+CORSE ED Ge APT, ccrecnresseseenscsseseeemeenenees xv 
+TEXT OF STATUTES AND REGULATIONG................200000: xvii 
+OU 1 
+ee 1 
+pe 1 
+STATUTES AND REGULATIONS INVOLVED...............2.0000 1 
+or ge be 1 
+SE FIR ccecccnenssensnsnmnensesesnsnrerserncsreeenssessenmenenesens 3 
+A. Tine Section SBS Pangea ......ccceccccccccsescscccesssccscscessecenssese 3 
+B. Subsequent Legislation..................sssssssssseseresenensnenenens 8 
+
+1. Early Congressional Attempts to Restrict the 
+Agency's Acceptance of Prepayment Requests ............. 9 
+2. The 1988 Legislation: ELIHPA..............0++00+0+e0eeeeeees 10 
+
+3. The 1992 Legislation and its Implementing 
+
+aI xenccczccnsnzenececneseseeancereesenetuanesesennesinenneneneneses 12 
+C. Application of the Legislation .................seseseseees 13 
+GE, Prmcmediingg Bebe 00 .nncccccccsccccescsssscezcesecececesasonssesesassssenevesesass 14 
+A. Proceedings Before the Court of Federal Claims......14 
+B. Proceedings Before the Federal Circuit...................... 17 
+
+
+1V 
+
+
+-_—— —_ - 
+
+
+[_—_— 
+
+
+SUMMARY OF ARGUMENT.............:c:cesessssssssseseeseenserensnseenens 18 
+RETTIG cxccsszsnenescsnssmnsemeenseescemnennvesnannsnsquesenenenesnaneinssemsenyeens 21 
+I. The Federal Circuit Exempted The Government 
+
+
+From Standard Contract Law Principles By Holding 
+That Petitioners’ Contract Claims Accrued For 
+Purposes Of 28 U.S.C. § 2501 Immediately Upon 
+Enactment Of The 1988 Legislation. ...................c00ceseseseees 21 
+
+
+A. The 1988 Legislation Constituted An Anticipatory 
+Repudiation Of Petitioners’ Termination Option, 
+
+
+Which Did Not Start The Statute Of Limitations. ......22 
+1. The Law Of Anticipatory Repudiation......................00- 22 
+
+
+2. The 1988 Legislation Constitutes An Anticipatory 
+Repudiation Of The FmHA’‘s Contract Obligations. ..24 
+B. The Federal Circuit Created Contract Rules 
+
+
+Applicable Only To The Government. ..................00-+ 28 
+1. The Law Of Anticipatory Repudiation As Applied 
+
+BO CERES CTI cccsccanceesennnnenessmmmseesemmemenn 28 
+2. The FmHA’s Obligation Under The Contracts Was 
+
+To “Accept” Prepayment Requests Submitted By 
+
+CQUIIB ID, cxrcsrcesessnserseetsenrememnssansemenneenanennenneeeneeaneeeees 29 
+
+
+C. The Federal Circuit Erroneously Held That 
+Congress Retroactively “Eliminated” Petitioners’ 
+
+
+Contract Rights By Legislative Fiat, Thereby 
+
+Triggering The Statute Of Limitations. ...................... 32 
+
+1. Congress Did Not Even Attempt To “Eliminate” 
+Petitioners’ Contract Right. ..............000sseseeeeeseees 33 
+
+
+2. Congress Avoided Unnecessary Disputes And 
+Constitutional Challenges By Refraining From 
+Retroactively Eliminating Petitioners’ Rights............ 36 
+
+
+Il. The Federal Circuit Deemed Petitioners’ Takings 
+Claims To Accrue For Purposes of 28 U.S.C. § 2501 
+
+
+A. The 1988 Legislation Demands An “As Applied,” 
+Rather Than A “Facial,” Takings Analysis. ............... 39 
+B. The Decision Below Sidesteps This Court's 
+Precedent By Ignoring The Language Of The 
+Statute And Misstating Petitioners’ Claims............... 42 
+
+
+III. The Decision Below Creates Unworkable And 
+Illogical Rules Governing The Accrual Of Claims 
+Against The Government Under 28 U.S.C. § 2501. ......... 46 
+
+
+TABLE OF AUTHORITIES 
+
+
+Federal Cases 
+
+ACE INA Holdings, Inc. v. Kane, 1999 WL 
+
+SS ei PU cctronnecennsreintesiesnensensanseemnsnesetsemtnemnneectens 28 
+Adams v. United States, 42 Fed. Cl. 463 (1998) ..0.........ccccceoe0es 38 
+Agins v. Tiburon, 447 U.S. 255 (1980) ...........ccccccsseseseserereeeeeseees 39 
+Alaska Pulp Corp. v. United States, 48 Fed. Cl 
+
+SE Qe ccresecnnsssvtenscsmnsmnsenneamncnsssamsensesmmemmmmensenenes 23, 26, 27, 38 
+Alder Terrace v. United States, 161 F.3d 1372 
+
+PE Ge, HU cereccncascncnsneesazencsnscssseesneenmensseanes SUSUDSUUSURASOSASREDEEDS 25 
+Bank of America v. United States, 51 Fed. Cl. 500 
+
+Fe ccternesionsessncnsecnnnevensnsonseenneneneansnnnasasuseemsnssecesesniinmnamantenanee 25 
+Bayou des Familles Development v. United States, 
+ey Ge CR rerrcttncnntrecnneeneneenennssmemetimanes 46 
+Biddison v. Chicago, 921 F.2d 724 (7th Cir. 
+
+Gi bcasecenrsnessnsesnsenenenesensemantnsanesesenanasesassedeemenmmnsmmasemennteatensns 41 
+Bingaman v. Department of the Treasury, 127 
+
+a I a CE hccrerecscncenciensnanenennsttinenenscnssnmmnetinnmmemns 47 
+Board of Regents v. Tomanio, 446 U.S. 478 (1980)................0000« 50 
+Chicago, B. & Q.R. Co. v. Chicago, 166 U.S. 226 
+ee 43 
+
+
+Cienega Gardens v. United States, 38 Fed. Cl. 64 
+(1997), rev'd on other grounds, 162F.3d1123 — 
+
+
+i Ge, Be cctreereenreicereienenennsecinnnnssennncsstcscanersarmcnessanteemmecmaseses 7 
+Cienega Gardens v. United States, 265 F.3d 1237 
+
+Ps a Sa cererccnsenenenessnncnesnatunnneneacenmneneessescemenesenmesenies 39, 42 
+Clearfield Trust Co. v. United States, 318 US. 
+
+Be PD cccsnrserennsnnsnssnnsseenesmnnanmesenmsesenmmsenscsscesmanssensecsuememsascnsstes 21 
+Connolly v. Pension Benefit Guaranty Corp., 475 
+
+Se Cn Qe ercreccenectnsnanicenndannenmnanistensssnsaastemnnsenmennetsennsntssnies 37 
+
+vil 
+
+
+Conoco Inc. v. United States, 35 Fed. Cl. 309 
+
+
+CBD) ecccscscacesscscscecscsenenensscsensscasssssaqnasnmnnnnesnusesesssssnnseanneseneenes 24, 26 
+Cooke v. United States, 91 U.S. 389 (1875).........csessessesererereneees 21 
+Data General Corp. v. Johnson, 78 F.3d 1556 
+
+eG, Gila. BEBE cccscsssssssenscnnsssersseseasmsscnsssscetnessssnsssnsenesses seasaensnsnens 42 
+Dingley v. Olger, 117 U.S. 490 (1886)..........seserereressenseenensneees 22 
+Dow Chemical Company v. United States, 226 
+
+F.3d 1334 (Fed. Cir. 2000)...........cccsccsssssesessssserssssesersesnsesesnseseseees 22 
+Eastern Enterprises v. Apfel, 524 U.S. 498 (1998)...........0resesees 36 
+Far West Federal Bank v. Office of Thrift 
+
+Supervision, 119 F.3d 1358 (9th Cir. 1997) ..........cccceceeneneeseees 26 
+
+
+Franconia Associates v. United States, 43 Fed. 
+Cl. 702 (1999), recons. denied, 44 Fed. Cl. 315 
+(1999), aff d, 240 F.3d 1358 (Fed. Cir. 2001), reh. 
+
+
+denied, No. 99-5123 (Fed. Cir. June 12, 2001) ...........c000+0+ passim 
+General Dynamics v. United States, 47 Fed. Cl. 
+
+BD GE canennserenasnsscessnsenscnssenccccsensnssnennsssasncscamassnesinenententeeae 37, 38 
+Gilbert v. Cambridge, 932 F.2d 51 (Ist Cir. 1991) ............c0esee 40 
+
+
+Grass Valley Terrace v. United States, 46 Fed. Cl. 
+629 (2000), aff'd, No. 00-5094 (Fed. Cir. May 
+
+
+) Ay __| RE NE TET TET TET passim 
+Grass Valley Terrace v. United States, 51 Fed. Cl. 
+GBG BOG, Ce, TD ccccccsscececsccesccsccecesccssscsccsssesssnasccsncsscesssse 5, 37, 38 
+Greenbrier v. United States, 193 F.3d 1348 (Fed. 
+Cle, TD DD, cncessenscecesseesecesessenssesnsssncscsnensssnsssensscnsscososssiesessseees passim 
+Gulf Power Co. v. FCC, 208 F.3d 1263 (11th Cir. 
+SBI vccccccccasesceccneslascenssnsnsansesneasasensettsnTtnsteastntsneetneseaaestseseseneeneeesees 40 
+
+
+Hermanowski v. Acton Corp., 580 F. Supp. 140 
+(E.D.N.Y. 1983), aff'd in relevant part, 729 F.2d 
+SBE GB Cle. BIBI) ccccccccasecesccescsasescenensssnesssssssonscesosonecosssosesses 28, 29 
+
+
+vill 
+
+
+‘Hodel v. Virginia Surface Mining and 
+
+
+Reclamation Association, Inc., 452 U.S. 264 
+
+
+(GPIIUD <asecesnssncscnssessnsnenssescasscenssanesenssensnssaussnsnssoscsessonenenescscsneess 40, 45 
+Holm v. CalEnergy Co., 229 F.3d 1157, 2000 WL 
+
+GOTT COMED Galle GUID cxsesesunecosesessnnsencersssssenenenesesscessnssescessees 28, 31 
+Keystone Bituminous Coal Association v. 
+
+DeBenedictis, 480 U.S. 470 (1987) ........c:ccccsssereseseeseesseeeeenenenenenes 43 
+Kimberly Associates v. United States, 261 F.3d 
+
+SD Ge Ge FI D cccececcsnsessncsncnsncsncsessocssccssssecsessesssssossscscesses 37, 38 
+Kinsey v. United States, 852 F.2d 556 (Fed. Cir. 
+
+TID p-ccnsecennsscapsoscsonsesusssscsssenesesesestesanscssenssensnsnasssscsnessssssassessentneess 23 
+Lampf v. Gilbertson, 501 U.S. 350 (1991) .......cccccccccseseseeesereeeneees 50 
+Levald v. City of Palm Desert, 998 F.2d 680 (9th 
+
+GFR, Ti casnnssesesscesnsarssovenannesesscenensnesessnessnensnsassosscsscnscaneneseeses 40, 41 
+
+
+Liberty Mutual Insurance Co. v. Louisiana 
+Department of Insurance, 62 F.3d 115 (5th Cir. 
+
+
+[Uta ccnrcennssdnesecnsacsentsntncscanvesnsutanssesussecenasensasennssesenesssencsncscstnnssiatte 40 
+
+Louisville Joint Stock Land Bank v. Radford, 295 
+
+See BP GUD ccvenencnnnscnzosescsnennssasnssenecenenencensssscssenseessssenessenesienes 37 
+
+Lucas v. South Carolina Coastal Council, 505 
+
+Se a OID ccersecnnscnnctnemsensessenesssosnecsnssenssscaseseuesessenscanesensenette 39 
+
+Lucente v. IBM Corp., 146 F. Supp. 2d 298 
+
+MEAs Oo AIUD cevsecsrsseccscncenssscessncssseassnancennensesenssscscscessnensncsceaenete 31 
+
+Lynch v. United States, 292 U.S. 571 (1934) ......cccceceee 21, 37, 38 
+
+MacDonald, Sommer & Frates v. Yolo County, 
+
+FG Ca i I eecerensneserncenesnnesncnsenanrsszctnnssssmssscssssnesssenmnanennins 39 
+
+Mobil Oil Exploration & Producing Southeast, Inc. 
+
+v. United States, 530 U.S. 604 (2000)........... 21, 22, 24-27, 30, 38 
+
+Montana v. United States, 440 U.S. 147 (1979) .0......ccceccecessenees 47 
+
+National Adver. Co. v. Raleigh, 947 F.2d 1158 
+
+SN Ba cccnsicaeseccenensacesensescecssonmemnanscssnesnesssessesncstensnsmasnente 40 
+Ix 
+
+
+Norco Construction v. King County, 801 F.2d 
+
+
+BBG CRs Cle. BOI ccccceccenscsecssennencsvecsccesocsensscsenesvssconsssssesaseseeses 41 
+Palazzolo v. Rhode Island, 121 S. Ct. 2448 (2001) ..........0c-cceseeees 39 
+Pennell v. San Jose, 485 US. 1 (1988).......-..ssssssscssssessssecesceceeeees 45 
+Perry v. United States, 294 U.S. 330 (1935) ......ecececeeseerenenenene 21 
+Plaintiffs in Winstar-Related Cases v. United 
+
+Santen, BF Deak. Ga, FAS ae i cceresensescsevessssensseensmmennses 23, 25, 41 
+Priebe & Sons, Inc. v. United States, 332 U.S. 407 
+
+DEPP ccccecenscenscssecscensenssenansncsetnenceeeteeeeststnnaneeeerte eet eee teOSeNENNE 21 
+Resolution Trust Corp. v. FSLIC, 34 F.3d 982 
+
+SE GS, TID ccesscccsnsesscmsssecsenmsncrestemenemennnggeemmnneasennie 37 
+Roehm v. Horst, 178 U.S. 1 (1900)........:ccccccccccseceesesseeseesenees 22, 23 
+Saewitz v. Epstein, 6 F. Supp. 2d 151 (N.D.N.Y. 
+
+I ccesccsnnsenstceseciiesntcnssinsantinninmescesenssnmsesermmsannesrcoensinnectne 31 
+
+
+Schism v. United States, 239 F.3d 1280 (Fed. 
+Cir-:), vacated on reh’g en banc, 252 F.3d 1354 
+
+
+CIID cccocusrnsesccnsinsuesansasesensenavennnmnssnanneasiatesnenyaestinstnentenenieseenenseneen 26 
+Stone Forrest Industrial v. United States, 973 
+
+DDE TEED Be. Cie, TEI ce ccccesncssvcesncevesscssnsscsssenvessosccenevscsssasees 26 
+Suitum v. Tahoe Reg'l Planning Agency, 520 
+
+CEB, FE QGP cccrsccssernscsnensensnsennsssinnsessenssenaanesnssnncenssessenenaetesene 39 
+Tabb Lakes, Ltd. v. United States, 10 F.3d 796 
+
+BG, Gis, FEED ccccenscecsnsecncmersemncsssmnsssessemsmnesenansveensesnsesmnctaceaneann 14 
+Terteling v. United States, 334 F.2d 250 (Ct. Cl. 
+
+DG scecrcececececscscscecsrensecseneeneaieneteseeqntesesenesetnsecentermeenannsenenenenenenetes 46 
+
+
+Thetford Properties IV, L.P. v. Department of 
+Housing and Urban Dev., 907 F.2d 445 (4th Cir. 
+
+
+Fir svnnctncnsncsososccasennceneenssanausenesnsssnsscnenaseenesutenieninemeananesinsanegenine 37 
+
+U.S. Philips Corp. v. Sears Roebuck & Co., 55 
+
+DDG GES BOG, Cie, BOT cccrcesesescseversccnsscscsoccenesesesersonsnsarsenansssees 42 
+xX 
+
+
+United States v. Allegheny County, 322 U.S. 174 
+
+
+[FPP ihtstocthsctascicpneeinieesibsibitinaabanalibaiaisnidiaiibdibtsiantitiindiaineteasianpiaianai 21 
+United States v. Riverside Bayview Homes, Inc., 
+
+ee ne a wiiiinsiciicinasiiciitaciieiiipinsadinnistitnantiaiianiaiaias 40, 45 
+United States v. Security Industrial Bank, 459 
+
+SSPE) Ua TIT corsenesinnevcssientanadeitiasabtibashdesensmaheinsdisbseeesenmiansesdessanies 43 
+United States v. Winstar Corp., 518 U.S. 839 
+
+Fea cectccnsnssiiceaceiipinnnsetsitninaninieciinisittinineseatinneneieeees 21, 30, 32, 38 
+Walker v. Hutchinson, 352 U.S. 112 (1956)..........cccssscsesesseseeeeeee 44 
+Warth v. Selden, 422 U.S. 490 (1975) .........cccececessecseseesesseesescneens 3 
+
+
+Waste Management, Inc. v. Metropolitan 
+Government of Nashville and Davidson County, 
+
+
+ee aE I cctrceeenensciiiciniresenscinsionenseoonnisetnnsemedein 40 
+
+Williamson County Reg'! Planning Commission 
+
+v. Hamilton Bank, 473 U.S. 172 (1985) .........c0c0sceceseesesseevene 39, 49 
+
+Yee v. City of Escondido, 503 U.S. 519 (1992) .........ccccccceceseseeeee 43 
+
+Yuba Goldfields, Inc. v. United States, 723 F.2d 
+
+ey TID SII shrceinessevesatsonsunctnnenintndammistenineniiintisosibisiits 43 
+
+State Cases 
+
+Fullington v. M. Penn Phillips Co., 395 P.2d 124 
+
+GRP Tee rvssisncssscensiccsseisceentinendnsndeichansasitdbessamssssvencenbetanenenimsetenns 29 
+
+Rossi v. Oristian, 376 N.Y.S.2d 295 (N.Y. App. 
+
+See Se UI cesniisisennienennenteninstnsnecaimnsnitidagenipieiiesasstenemnesscniemeientes 28 
+
+Other Cases 
+
+Horchster v. De la Tour, 118 Eng. Rep. 922 (Q.B. 
+
+Ina cvocrsichesisvatthesnsinenetuiniecensiteensdatsbnsineaisaabinntatttiiectseseteneseneies 22 
+
+42 Op. Att'y Gen. 417 (Dec. 29, 1969) ..........ccceccesessecsesssseeseeneeee 8 
+XI 
+
+
+Federal Statutes, Regulations, and Rules 
+
+
+28 U.S.C. § 1254(1) (1994) .escccssssssssssseseseeeeeeeecees oe cid ete 1 
+a lading 14 
+dC nes eRe Roe Mer oe passim 
+I I oaisincnsrclacscnisttessinicteinliocna 8 
+42 U.S.C. § 1472(b)(4) (1994) sccscssseseccesssessssssssnnnnnensesseseseeesennses O 
+Ce ET ae 1,30 
+42 U.S.C. § 1472(c)(4)(A) (1994) cossssssssssssssssssssssssneeseeee 11, 30, 34 
+42 U.S.C. § 1472(c)(5) (1994) sesecssscscccsseccecescescessseceseesseseeseseeeeeees 11 
+42 U.S.C. § 1472(c)(5)(A) (1994) cococccssccccccsscecceseesceseseesseeseeseeeees 30 
+42 U.S.C. § 1472(c)(5)(G)(ii) (1994).........sscccccccceeeee 11, 12, 34,41 - 
+SR, CO I cscs 12 
+PL, ee 7 |, ee 10 
+I a asaeiinnbnanies 3 
+I I iis ins scsi 12 
+i LT TOT n 
+LTT RIE COTE h 
+CATT TE TE Te 31 
+7 C.E.R. § 1866.3 (1983) .......-.-- OPE PRR EN 31 
+LT Re at 8 
+I ii iscctentnnentinciceiinatil 13 
+i iiicssiamittsnbibiaaiiaasitanis 6 
+FTE ON ocecceecinicensnieeessecscecnincirninsszeni 30 
+7 CE.R. § 1965.90(€) (1983) ...ssscssssssccssssssececcecsssesseceeeceeceeessssseees 31 
+I -s oiicsiestiiissainiiiatnnatisiaiaiiens 6 
+PE I a cscnictnsnisinicnieasscctiiiisnaccatit 1 
+
+
+xi 
+
+
+Manatees = 
+
+
+7 C.F.R. § 1965.215(a)-(2000) ....cscccccsssssssssssssessneseseseeeeveeeeee 13, 34 
+
+
+7 C.F.R. § 1965.215(b) (2000) ....cccccccccssscccssssocsssecssssessseseeseeeeseeee 13 
+7 C.F.R. § 1965.215(c) (2000) .occcssssscscsesessssesessesseesenssene 13, 34, 41 
+7 C.F.R. § 1965.215(€) (2000) ..ecceovccccssscsessesessssssssssnssssssesesssseees 13 
+7 C.F.R. § 1965 Ex. E (1989) ..cccccssscsssssscssssscsssssssessessessssesecceseseesees 6 
+53 Fed. Reg. 13244 (April 22, 1988)....ccccccccssssssssssssssssssssssssesee 12 
+55 Fed. Reg. 4985 (Feb. 13, 1990) ...ccccscsscssssssssssssssssssssnsesesssesee 12 
+a 24 
+
+
+Legislative Materials 
+
+
+i 5 
+H.R. Rep. No. 100-122(I), 100th Cong., 1st 
+
+Sess. at 53 (1987), 1987 U.S.C.C.A.N. 3369 .0.....ccccccsscseseseseseenees 5 
+H.R. Rep. No. 96-154, 96th Cong., 1st Sess. at 
+ees BO ccncctenietensnescatessineemnansscinsnntaaee 9 
+S. Rep. No. 84, 81st Cong., Ist Sess. (1949), 
+
+ea CU seteeeincishennseinecihseneiccincnssitneninncnetecntaiainntenets 3 
+Pub. L. No. 96-153, § 503(b), 93 Stat. 1134 
+
+(1979), codified at 42 U.S.C. § 1472(c)(1),(2) .......cccceseceseeeees 9, 30 
+Pub. L. No. 96-399, § 514, 94 Stat. 1671 (1980) ..0............ceces00 9 
+Emergency Low Income Housing 
+
+
+Preservation Act, Pub. L. No. 100-242, tit. IL, 
+101 Stat. 1877 (1988), codified as amended at 42 
+ees PUTT iciccsitiepniisopedtdensinigbidiincetiteeiaadttieiastinininaesibaaiiias passim 
+
+
+Housing and Community Development Act 
+
+of 1992, Pub. L. No. 102-550, §§ 2, 712, 106 
+
+Stat. 3681, 3841 (1992), codified in relevant part 
+
+et I pecierrcncesnecinncigpetemincnccinenmesaniincatinnnntennsinaniis 13 
+
+
+Xill 
+
+
+- Housing Opportunity Program Extension Act 
+of 1996, Pub. L. 104-120, § 2, 110 Stat. 834 
+
+
+CI ccc cnnesnctencnenennnstnnenaeneesesnenmanenesaianenatenasmnansentmanasanmneninnrtennines 27 
+Treatises 
+
+Aa, Dan. BE; Cane GI cccenccssscrsscenensnenempnmansnnenneen 22 
+Cetin, CAG cccrcenscsestenissremnnempennsnes 31 
+Corbin, CONTRACTS (1964) ..........ccccscsesseseeseseeeseeeees 22, 24, 28, 32 
+Corman, LIMITATION OF ACTIONS (1991).........c:ccsssceseeseseseeees 23 
+Jaeger, WILLISTON ON CONTRACTS (3d ed. 
+
+Se scccencnscnnevienmsinincnnnienntssninetansemnenesininatcnnnanesmmneneneen 22, 23, 32 
+Murray, CONTRACTS (3d ed. 1990) ...........ceccceseseseeeeees 22, 23, 27 
+Nichols, EMINENT DOMAIN (2000) ...........s::ssssssscssesesseeseneenenees 45 
+Restatement (First) of Contracts (1932) ...........:cccssssseeeseeeeeees 22 
+Restatement (Second) of Contracts (1981).............:.0:00000 23, 27 
+Rotunda & Nowak, TREATISE ON 
+
+CONSTITUTIONAL LAW (3d ed. 1986) ..........-s:ssssessessesseseeeneeneens 37 
+Books and Articles 
+
+Belden & Wiener, HOUSING IN RURAL 
+
+RE eccterenccieiemmnnnnumnnmmnnmemmen 3, 4, 6-9 
+Black’s Law Dictionary (7th ed. 1999) ..............csscsseeseseneeeeneees 24 
+Burton, CONTRACTUAL GOOD FAITH (1995) ..........:cceeeseeeesees 23 
+
+
+Rowley, A Brief History Of Anticipatory 
+Repudiation In American Contract Law, 69 U. 
+
+
+Clan, ©, Giere. BD GIG ccccencenncsvsccevssnnsssnssecsesssnsnsnnesansesenssenaseass 22 
+Stein, Regulatory Takings and Ripeness in the 
+Federal Courts, 48 Vand. L. Rev. 1 (Jam. 1995) ............cccsceeseeee 43 
+
+
+XIV 
+
+
+CONTENTS OF APPENDIX 
+
+
+Relevant Decisions and Orders 
+
+
+Decision of the Federal Circuit in Franconia 
+
+
+Associates v. United States (Feb. 15, 2001) ............:.ccccccsceseeseeseeees 1 
+Order of the Federal Circuit in Grass Valley 
+Terrace v. United States (May 17, 2001) ..........ccccccccseseseeeeeeeeeeees 15 
+
+
+Decision of the Court of Federal Claims in 
+Franconia Associates v. United States (May 6, 
+
+
+Decision of the Court of Federal Claims in 
+Grass Valley Terrace v. United States (April 12, 
+
+
+Order of the Federal Circuit Denying 
+Rehearing in Franconia Associates v. United 
+RE en 69 
+
+
+Text of Relevant Legislation and Regulations 
+
+
+Emergency Low Income Housing 
+
+Preservation Act, Pub. L. No. 100-242, tit. II, 
+
+ee i CU IID eectcnncieneiccssinienintninennineneninmmarenteneonseneanens 71 
+
+Se es I IED cssceicasorsnsvvisnsennssevosmmeennsessenenactsenescasesunel 82 
+
+ls 1b I ED cecctensessncssmnenscenessnssnnesezsesescennssnmneeneet 83 
+
+Fa a> Op NE GD ccccnnerevecctnmmnennsscensseseneiensenmenenesesemenenn 91 
+
+Pleadings Below 
+
+First Amended Complaint in Franconia 
+
+Associates v. United States (June 25, 1997) ...........ccccececeeseeeeees 106 
+
+Complaint in Grass Valley Terrace v. United 
+
+I, Cty CO ninninrnsrevpnaseniemntconeanmmnpomavsesesonennesscessencesees 135 
+Xv 
+
+
+Other Materials 
+
+
+Declaration of P.J. Perri in Franconia Associates 
+v. United States (May 18, 1999) (with exhibits)..............0-:0++ 
+
+
+Loan Agreement for Pine Needle Apartments 
+(Jar. 24, 1979).....sessvessessessnssnsenessnsensennennennesnnssnssnssnnsnnecnnennsennenness 
+
+
+Promissory Note for Wishing Well Associates 
+(Dec. 31, 1975)......ssssessssessessssnssnesnsnnensnnennenssnsenssnsnnsensansnnensennennes 
+
+
+Real Estate Mortgage for Wishing Well 
+Associates (Dec. 31, 1975) ........sesssssssesnsensensnnsnnsnnsnnennennennennennes 
+
+
+Xvi 
+
+
+TEXT OF STATUTES AND REGULATIONS 
+
+
+The pertinent text of the statutes and regulations at issue 
+in this matter is reproduced in the Appendix (“App.”) 
+attached to the Petition for Writ of Certiorari. See App. 71- 
+105. The provisions most significant to the disposition of 
+this petition are as follows: 
+
+
+28 U.S.C. § 2501 (1994) 
+
+
+Time for filing suit 
+
+
+Every claim of which the United States Court of Federal 
+Claims has jurisdiction shall be barred unless the petition 
+thereon is filed within six years after such claim first accrues. 
+
+
+42 U.S.C. § 1472(c) (1994) 
+
+
+Prepayment and refinancing provisions 
+
+
+* * * 
+
+
+(4)(A) Aereement by borrower to extend low income use. 
+
+
+Before accepting any offer to prepay, or requesting 
+refinancing in accordance with subsection (b)(3) of this 
+section of, any loan made or insured under section 1484 or 
+1485 of this title pursuant to a contract entered into prior to 
+December 15, 1989, the Secretary shall make reasonable 
+efforts to enter into an agreement with the borrower under 
+which the borrower will make a binding commitment to 
+extend the low income use of the assisted housing and 
+related facilities involved for not less than the 20-year period 
+beginning on the date on which the agreement is executed. 
+
+
+. o * 
+
+
+XVil 
+
+
+(5)(A) Offer to sell to nonprofit organizations and public 
+
+agencies 
+
+(i) In general | 
+
+If the Secretary determines after a reasonable period that 
+
+an agreement will not be entered into with a borrower under 
+paragraph (4), the Secretary shall require the borrower 
+(excépt as provided in subparagraph (G)) to offer to sell the 
+assisted housing and related facilities . . . 
+
+
+(G) Exception 
+
+
+This paragraph shall not apply to any offer to prepay, or 
+any request to refinance in accordance with subsection (b)(3) 
+of this section, any loan made or insured under section 1484 
+or 1485 of this title pursuant to a contract entered into prior 
+to December 15, 1989, if - 
+
+
+* * a 
+
+
+(ii) the Secretary determines that housing 
+opportunities of minorities will not be materially affected as 
+a result of the prepayment or refinancing, and that - 
+
+
+(I) the borrower (and any successor in interest 
+thereof) are obligated to ensure that tenants of the housing 
+and related facilities financed with the loan will not be 
+displaced due to a change in the use of the housing, or to an 
+increase in rental or other charges, as a result of the 
+
+
+prepayment or refinancing; or 
+
+(II) there is an adequate supply of safe, decent, 
+and affordable rental housing within the market area of the 
+housing and related facilities and sufficient actions have 
+been taken to ensure that the rental housing will be made 
+available to each tenant upon displacement. 
+
+
+XVII 
+
+
+ee 
+
+
+in Lr... 
+
+
+7 C.F.R. § 1965.215 (2000) 
+
+
+Borrower rejection of incentive offer - 
+approving/disapproving prepayment 
+
+
+* * o 
+
+
+(c) Conditions under which prepayment may be approved. In 
+certain instances, prepayment may be approved after a 
+borrower has rejected the incentive offer... . To determine 
+whether a prepayment offer can be approved, the following 
+decision steps must be followed by the Servicing Office: 
+
+
+(1) The loan is not currently subject to restrictive-use 
+provisions nor prohibition on prepayment. To determine 
+whether a loan not subject to restrictive-use provisions or 
+prohibition on prepayment may prepay, and if so, what 
+restrictions must be inserted in the release documents, the 
+following determinations must be made. 
+
+
+* * * 
+
+
+(iii) If the Servicing Office determines that 
+housing opportunities to minorities will not be materially 
+affected as a result of prepayment, and that there is an 
+adequate supply of safe, decent, and affordable rental 
+housing within the market area for the foreseeable future, 
+the borrower may prepay without restrictions. The 
+provisions of paragraph (c)(3) of this section will apply. 
+
+
++ a * 
+
+
+(3) It is determined by FmHA or its successor agency 
+under Public Law 103-354 that restrictions are not needed. If 
+actions in accordance with § 1965.206(b)(2) of this subpart 
+and paragraph (e)(3) of this section have been taken to 
+ensure that alternative rental housing will be made available 
+to each tenant upon displacement, the prepayment may be 
+accepted without restrictions if: 
+
+
+XIX 
+
+
+(iii) Regardless of whether or not the loan is 
+subject to restrictive-use provisions, a determination is made 
+by FmHA or its successor agency under Public Law 103-354 
+that there is no longer a need for the housing (in accordance 
+with exhibit E of this subpart). 
+
+
+BRIEF FOR PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+Franconia Associates v. United States, No. 97-381C, 43 Fed. 
+Cl. 702 (May 9, 1999), recons. denied, 44 Fed. Cl. 315 (July 21, 
+1999), aff'd, No. 99-5123, 240 F.3d 1358 (Fed. Cir. Feb. 15, 
+2001), reh. denied (Fed. Cir. June 12, 2001) (“Franconia”). 
+
+
+Grass Valley Terrace v. United States, No. 98-726C, 46 Fed. 
+Cl. 629 (Apr. 12, 2000), aff'd, No. 00-5094 (Fed. Cir. May 17, 
+2001) (per curiam) (“Grass Valley”). 
+
+
+JURISDICTION 
+
+
+Petitioners seek reversal of two closely-related decisions 
+of the Federal Circuit. The Federal Circuit issued its opinion 
+in Franconia on February 15, 2001. Petitioners timely filed a 
+Petition for Rehearing En Banc, which the Federal Circuit 
+denied on June 12, 2001. In the interim, the Federal Circuit 
+issued a per curiam decision in Grass Valley on May 17, 2001. 
+
+
+This Court has jurisdiction under 28 U.S.C. § 1254(1). 
+Petitioners filed a Consolidated Petition for Writ of 
+Certiorari (the “Petition”) on September 10, 2001 addressing 
+both cases. The Petition was granted on January 4, 2002. 
+
+
+STATUTES AND REGULATIONS INVOLVED 
+
+
+28 US.C. § 2501 (1994) (App. 82); Emergency Low 
+Income Housing Preservation Act, Pub. L. No. 100-242, tit. II, 
+101 Stat. 1877 (1988) (App. 71-81); 42 U.S.C. § 1472(c) (1994) 
+(App. 83-90); 7 C.F.R. § 1965.215 (2000) (App. 91-105). 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners are owners of properties located throughout 
+rural areas of the United States that currently are operated as 
+affordable housing projects financed by mortgage loans 
+
+
+issued by the Farmer's Home Administration (“FmHA”)! 
+pursuant to Section 515 of the Housing Act of 1949 (the 
+“Section 515 program”). This case involves an attempt by 
+Congress to alter, by statute, the terms of petitioners’ 
+agreements in order to limit the FmHA’s ability to permit 
+petitioners to terminate their participation in the program. 
+The narrow questions presented are when petitioners’ 
+contract and takings claims accrued for purposes of the six- 
+year statute of limitations set forth at 28 U.S.C. § 2501. The 
+answers to these questions require an understanding of the 
+nature of the program, the terms of the parties’ contracts, 
+and the impact of the subsequent legislation on petitioners. 
+
+
+The Section 515 program was intended by the 
+government to develop rental housing in rural populations 
+not normally served by conventional lenders. Designed to 
+be used as affordable housing only during that period of 
+time that the housing is financed by a government mortgage 
+loan, the government by contract required each owner to 
+prepay its loan when commercial financing became 
+available. In addition, each owner had the contractual 
+option to terminate the use of its property as affordable 
+housing by prepaying its loan at a time of its own choosing 
+during the term of its mortgage. In either case, prepayment 
+enabled the owners to use their properties as conventional 
+housing. The monies from prepayment could then be used 
+by the government to finance alternative affordable housing 
+needs in rural communities. Thus, prepayment helped the 
+government achieve the ultimate goal of developing both 
+affordable and conventional housing in rural America. 
+
+
+Petitioners are aggrieved by the FmHA’s application of 
+subsequent legislation that authorizes the agency to permit 
+owners to terminate their participation in the program only 
+
+
+1 The FmHA was created as an agency within the United States 
+Department of Agriculture. Although the agency is now known as the 
+Rural Housing Service, this brief, like the opinions below, will refer to the 
+
+
+agency by its original name. 
+
+
+ee st 
+
+
+oO SO RS. SE ee 
+
+
+—_—— 
+
+
+when certain conditions are met. The legislation also 
+prohibits the FmHA from accepting any prepayment that it 
+otherwise may have required any owner to make unless 
+those conditions are met. The restrictions imposed by the 
+legislation arguably have frustrated the FmHA’s ultimate 
+goal of stimulating the growth of all types of housing in 
+rural America to the detriment of both owners and tenants. 
+For obvious reasons, however, petitioners focus on the 
+legislation’s impact upon their own individual situations. 
+
+I. Statement of Facts? 
+
+A. The Section 515 Program 
+
+
+Beginning in the 1960s, Congress established several 
+programs encouraging private citizens to construct, own, 
+and manage federally assisted affordable housing units. See 
+Belden & Wiener, HOUSING IN RURAL AMERICA 114 (1999). 
+The Section 515 program at issue here was one such 
+program. Section 515 of the Housing Act of 1949 (codified at 
+42 U.S.C. § 1485), added to the Act in 1962, authorized the 
+FmHA to enter into contracts with private owners to make 
+loans for the purpose of developing housing for low- and 
+moderate-income and elderly tenants in rural areas.3 
+
+
+2 The facts set forth herein are based primarily on the well pleaded 
+allegations of petitioners’ pleadings, which must be accepted as true for 
+the purpose of this appeal. See Warth v. Selden, 422 U.S. 490, 501 (1975) 
+(holding that in ruling on a motion to dismiss, both the trial court and 
+reviewing courts must accept as true all allegations in the complaint and 
+must construe the complaint in favor of the complaining party). 
+
+
+* Rural housing programs under the Housing Act of 1949 initially 
+consisted of public housing projects that were developed and operated by 
+local housing authorities. See S. Rep. No. 84, 81st Cong., Ist Sess. (1949), 
+1949 U.S.C.C.A.N. 1550, 1566. By contrast, the Section 515 program and 
+other contemporaneous housing programs were “private sector subsidy 
+programs . . . that sought to involve private developers, both profit- 
+motivated and nonprofit, in the production of rental housing.” Belden & 
+Wiener at 114. Initially, only nonprofit borrowers could obtain direct 
+government loans, while for-profit owners could obtain insured non- 
+subsidized loans. Id. The complexion of the program changed in 1972 
+
+
+3 
+
+
+The terms of each owner's contract with the FmHA were 
+set forth in three documents: a loan agreement, a mortgage, 
+and a promissory note. App. 165-81.4 Owners retained title 
+to their properties while in the program, but were bound to 
+various “regulatory covenants” set forth in the loan 
+agreement. Owners were required to accept only eligible 
+persons as tenants, to charge no higher rents than those 
+permitted by FmHA, to maintain cash reserves, and to 
+comply with certain regulations not inconsistent with the 
+terms of their contracts. App. 169-73, 177, 181. These 
+regulatory covenants remained in force only during the 
+pendency of the loan obligations, and thus would expire 
+upon the loan’s maturity date or upon such date as a 
+prepayment might be made. App. 170, 176.° 
+
+
+Chief among the program’s restrictions was a “return on 
+investment” limitation. Under this provision, the only profit 
+that an owner could earn while in the program was a 
+maximum of eight percent of its “initial investment,” i.e., its 
+down payment. App. 170. For example, an owner who 
+made a $91,237 down payment on a project with a $1,238,000 
+mortgage would earn only a maximum of $7,299 per year so 
+long as it remained in the program. Id. This maximum 
+return remained the same regardless of how much equity 
+
+
+when the agency also made subsidized loans available to for-profit 
+owners. Id. at 116. It was after this policy shift that all of the petitioners in 
+this action entered the program. App. 114-20, 140-42. 
+
+
+4 Petitioners have moved to dispense with the filing of a joint appendix 
+in this case. Accordingly, references herein are to the appendix filed with 
+the petition for writ of certiorari. 
+
+5 The parties’ contracts described themselves as “contractually 
+binding” and could be changed only by written agreement between the 
+parties (a common provision in commercial contracts). App. 173. In 
+addition, the loans were subject only to Section 515 of the Housing Act of 
+1949 and related regulations, which were specified to encompass only 
+those regulations that were in existence at the time the contracts were 
+executed and those future regulations that were “not inconsistent with the 
+express provisions” of the contracts. App. 165-66, 177, 181. 
+
+
+4 
+
+
+the owner built up in the property and regardless of how 
+much the property’s market value increased over time.® 
+
+
+Mortgage loans under the program had terms of up to 
+fifty years.” Obviously, none of the petitioners intended to 
+stay in the program and abide by its restrictions for that far 
+into the future, by which time few of them would still be 
+alive. App. 128, 150-51, 158 (“My intent upon prepayment 
+was to invest the proceeds . . . to fund my retirement.”). 
+Indeed, given the economic realities of the program, 
+remaining in the program for fifty years would prove to be a 
+“horrendous long term investment.” See Grass Valley v. 
+United States, 51 Fed. Cl. 436, 442 (Fed. Cl. 2002).8 
+
+
+Thus, petitioners secured a contractual “termination 
+option” —the right to free themselves from the regulatory 
+covenants by prepaying their loans at a time of their own 
+
+
+¢ Asimple example illustrates the increasing severity of this limitation 
+as time passes. Suppose the owner described above entered into the 
+program in 1979. See id. Assuming that after twenty years, by 1999, the 
+owner had built up $1,000,000 of equity in the property and the market 
+value of the property as a conventional apartment complex had risen to 
+$2,000,000, the owner still would receive at most $7,299 per year, which by 
+that time would amount to only 0.73% of its equity and only 0.36% of the 
+property’s fair market value. See Declaration of G. Morosani $26 (in trial 
+court docket in Grass Valley, No. 98-726C). Thus, so long as owners 
+remained in the program, their return was similar to that of an annuity. 
+Unlike an annuity, however, investment in the Section 515 program 
+required owners to take on the additional burden and expense of 
+
+
+developing and operating a housing project. 
+
+7 While certain petitioners held mortgages with fifty-year terms (A 
+PP- 
+
+165, 176, 178), other mortgages under the program had terms of forty 
+
+years. For simplicity, this brief will refer to the maximum fifty-year term. 
+
+
+* Certain tax benefits initially were available under the program, but 
+those benefits ran out as each project's depreciation schedule expired. See 
+125 Cong. Rec. 18204 (1979) (“The tax advantage in this type of project 
+looks toward a maximum term of about 10 years.”); H.R. Rep. No. 100- 
+122(1), 100% Cong., 1% Sess. at 53 (1987), 1987 U.S.C.C.A.N. at 3369 (noting 
+that “the exhaustion of many tax benefits available to Section 515 
+a was ‘driving owners to prepay or refinance their FmHA 
+oans’”). 
+
+
+choosing, thereby terminating their participation in the 
+program. See App. 112, 137. As with many commercial real 
+estate mortgages, the promissory notes that petitioners 
+signed included a prepayment clause, which provided that: 
+
+
+Prepayments of scheduled installments, or any 
+portion thereof, may be made at any time at the 
+option of Borrower. (App. 176).° 
+
+
+The terms of this clause were incorporated into 
+contemporaneous FmHA regulations. 7 C.F.R. § 1822.95(c) 
+(1978). Other regulations, in existence when petitioners 
+entered into their contracts and later promulgated, detailed 
+the procedures that the parties were required to follow in 
+submitting and processing prepayment requests. Among 
+other things, owners were subject to a waiting period and 
+were permitted to prepay only if the agency determined that 
+they were able to obtain adequate commercial financing. 
+See, e.g., 7 C.F.R. § 1965.90 (1983); 7 C.F.R. § 1965 Ex. E (1989); 
+7 C.F.R. § 1965.211 (1993). If all applicable requirements 
+were met, the agency was required to approve the request, 
+execute the necessary releases, and return the security (ie., 
+the property) to the owner. 7 C.F.R. § 1866.2 (1978). 
+
+
+Because the regulatory covenants imposed by the 
+program remained in effect only “[s]o long as the loan 
+obligations remainfed] unsatisfied,” see App. 170, the 
+prepayment clause served as the vehicle for owners to 
+exercise their right to leave the program and be freed of 
+those covenants. See Belden & Wiener at 115 (“Where 
+prepayment occurred, not only was the [FmHA] financing 
+retired, but borrowers were released from enforceable 
+agreements in the Section 515 notes or security instruments 
+
+
+9 Congress vested the FmHA with the authority to draft the terms of its 
+
+
+agreements with owners. 42 U.S.C. § 1472(b)(4) (providing that the loan 
+instrument “shall . . . be in such form and contain such covenants as the 
+Secretary shall prescribe . . . .”). Thus, the FmHA included the 
+prepayment clause in the promissery notes pursuant to the express 
+authority delegated to it by Congress. 
+
+
+6 
+
+
+—— _— 
+
+
+that enabled [FmHA] to control the use of the housing”). 
+Upon exercising their termination option, owners could 
+realize the economic potential of their properties by either 
+raising their rents to the rates that the market would bear or 
+selling the properties based on their fair market value as 
+conventional rental properties. App. 112-13, 138. 
+
+
+The termination option was a critical component of the 
+Section 515 program from the perspectives of both the 
+owners and the FmHA. None of the petitioners would have 
+signed its contract absent the right to prepay and leave the 
+program at some time before the expiration of its mortgage 
+term. App. 128, 150; see also Cienega Gardens v. United 
+States, 38 Fed. Cl. 64, 75 (1997) (finding that, under parallel 
+HUD housing program, prepayment served as one of the 
+“primary incentives,” an “essential aspect” of the program, 
+and an “enticement” without which the owners would not 
+have entered into the program), rev'd on other grounds, 162 
+F.3d 1123 (Fed. Cir. 1998). By the same token, from the 
+government's perspective, the ability of owners to prepay 
+and ultimately use their properties as market-rate 
+investments served as a chief inducement to recruit private 
+parties to enter into the program as originally created. Id; 
+Belden & Wiener at 122 (noting that the Section 515 program 
+was “predicated on the assumption that private, profit- 
+motivated owners could be enticed to build, own and 
+operate low-income rental housing” and that “prepayment 
+is wholly consistent” with this strategy). Thus, both the 
+
+
+10 Petitioners did not, as the courts below assumed, invest in the Section 
+515 program for the purpose of obtaining a low-interest rate loan. See 
+App. 3, 17, 46. While owners were able to enter into the program with a 
+modest down payment, the stated interest rates on the loans (which were 
+not in fact low, see, e.g., App. 176) provided the owners no direct benefit. 
+This is because the only profit owners could receive while in the program 
+was the minimal annual return on investment described above. Although 
+government subsidies helped to produce an effectively low interest rate 
+on the loans, the impact of those subsidies was to permit rents to remain 
+low —a benefit that directly inured not to owners, but to the tenants. 
+
+
+7 
+
+
+petitioners and the government understood that petitioners 
+entered into the program with specific investment goals that 
+could not be achieved absent the right to be freed from the 
+program’s regulatory covenants. See App. 123, 128-29. 
+
+
+In fact, the privatization of properties in the Section 515 
+program—referred to by the FmHA as the : graduation 
+requirement or policy —was fully consistent with the goals 
+of the program. 7 C.F.R. § 1865.2(c) (1979) (stating that by 
+FmHA’s policy, “graduation” by voluntary means is 
+“desirable” and “[b]orrowers should by inspired to graduate 
+as a mark of success in their financial affairs”). Indeed, 
+every contract contained a provision requiring owners to 
+prepay their loans upon FmHA’s demand as soon as 
+commercial financing on similar terms became available. 
+App. 173, 177, 180; 42 USC. § 1472(b)(3) (requiring all 
+section 515 loans instruments to contain this provision); 7 
+C.F.R. § 1865.2(c) (1979) (“When voluntary graduation by 
+refinancing cannot be accomplished, there is a legal basis for 
+enforcing the refinancing provisions . . . .”); Belden & Wiener 
+at 114-15. The monies received through prepayment or 
+“graduation” could then be used to finance additional 
+affordable housing under the program, see 42 Op. Att'y Gen. 
+417, 419 (Dec. 29, 1969), which could be constructed to better 
+accommodate then-current needs in each rural community. 
+
+
+B. Subsequent Legislation 
+
+As time passed, many owners began to exercise their 
+termination option, prepaying their loans to realize the 
+investment returns to which their contracts entitled them. 
+
+
+By “graduating” loans from the government as lender to lenders in 
+the private sector, the Section 515 program would achieve its ultimate 
+goal of developing both affordable and conventional rental housing in 
+rural America. See Declaration of D. Greenwalt, 447-9 (in trial court 
+docket in Grass Valley, No. 98-726C); see also Belden & Wiener, supra, at 114 
+(explaining that the Section 515 program “was intended to stimulate 
+rental housing within markets and for populations not normally served 
+by conventional lenders”). 
+
+
+See H.R. Rep. No. 96-154, 96th Cong., Ist Sess. at 43 (1979), 
+1979 US.C.C.A.N. at 2359. The FmHA maintained that it 
+was obligated to accept such prepayments despite concern 
+that doing so would reduce the supply of affordable 
+housing. Id. (noting that FmHA “believes it must honor 
+requests to prepay or refinance these loans”).!2 
+
+
+1. Early Congressional Attempts to Restrict the 
+
+Agency’s Acceptance of Prepayment Requests 
+To reduce this potential loss of housing, Congress 
+initially responded by passing a statute in 1979 that 
+specifically prohibited the FmHA from accepting certain 
+prepayments of Section 515 loans. Pub. L. No. 96-153, § 503, 
+93 Stat. 1134 (1979). During the debates over the 1979 
+legislation, however, some in Congress “argued that owners’ 
+property rights were paramount - that retroactivity was a 
+breach of contract and unconstitutional.” Belden & Wiener 
+at 117. In response to the political uproar caused by this 
+repudiation of the owners’ rights, Congress repealed the 
+statute in 1980 and restored the contractual termination 
+option for loans issued prior to 1979. The 1980 legislation 
+also required new owners to agree to operate their 
+properties as low-income housing for a minimum of 15 or 20 
+
+years. Pub. L. No. 96-399, § 514, 94 Stat. 1671 (1980).13 
+
+
+2 ~The FmHA informed Congress in 1979 that it had “acted without 
+sufficient foresight in 1972 when it authorized provision of subsidized 
+loans to limited-profit sponsors.” Belden & Wiener at 118. However, 
+given the agency's decision to encourage for-profit owners to enter into 
+the Section 515 program, while permitting and even compelling them to 
+pay off their loans and privatize the housing, the increasing number of 
+owners exercising their termination option was a natural progression of 
+the program. Id. at 116-17 (noting that the agency “opened the front door 
+to limited-profit borrowers without closing the back door”). 
+
+
+3 This change in the governing law is the basis for the two classes of 
+plaintiffs in the original actions below - owners with claims based on pre- 
+1979 contracts, whose original termination rights were restored by the 
+1980 legislation, and owners with claims based on post-1979 contracts, 
+whose termination rights have always been exercisable only after a 
+
+
+9 
+
+
+After repeal of the 1979 legislation, prepayments by 
+owners under pre-1979 contracts resumed. FmHA accepted 
+prepayments of pre-1979 loans, as required by the contracts, 
+for the ensuing six years. Then, on October 18, 1986, 
+Congress imposed a moratorium prohibiting, with limited 
+exceptions, the use of appropriated, funds to process 
+applications for prepayments under either pre- or post-1979 
+_contracts. Originally scheduled ta expire in mid-1987, this 
+moratorium was twice extended through March 15, 1988. 
+See 42 U.S.C. § 1472 note. 
+
+
+2. The 1988 Legislation: ELIHPA 
+
+
+Before the last moratorium expired, on February 5, 1988, 
+Congress enacted the Emergency Low Income Housing 
+Preservation Act, Pub. L. No. 100-242, tit. II, 101 Stat. 1877 
+(1988), codified as amended at 42 U.S.C. § 1472(c) (“ELIHPA”) 
+(App. 71-81). Like the 1979 legislation, ELIHPA was 
+designed to curb the loss of affordable housing that was 
+resulting from prepayment.* To reach this goal, Congress 
+devised a new scheme for the FmHA to apply in 
+determining whether to grant owner requests to prepay. 
+Whereas the owners’ contracts and contemporaneous 
+regulations obligated the FmHA to accept prepayment 
+requests made by owners “at any time at [their] option,” 
+ELIHPA limited the circumstances under which the agency 
+was authorized to “accept” such requests. Consistent with 
+
+
+minimum of 15 or 20 years. Petitioners are all “ pre-1979” owners, due to 
+the fact that ELIHPA addressed only pre-1979 contracts and, as a result, 
+only the pre-1979 claims were dismissed by the lower courts as untimely. 
+
+
+4 ELIHPA was addressed not only to rural housing under the Section 
+515 program, but also to urban housing under sections 221 and 236 of the 
+National Housing Act, which comes under the jurisdiction of the 
+Department of Housing and Urban Development (“HUD”). The statute 
+‘created similar changes for both FmHA and HUD housing. In both cases, 
+ELIHPA authorized the relevant agency to accept prepayment requests 
+where, among other things, it could make a determination that the 
+housing was no longer needed or that tenants would noi» displaced. 
+Compare ELIHPA § 225 with ELIHPA § 241. 
+
+
+10 
+
+
+its goal of preserving only needed affordable housing, 
+however, Congress did not prevent the FmHA from 
+accepting prepayment and releasing an owner from the 
+regulatory covenants when it determined that it no longer 
+needed the housing. 
+
+
+The new scheme under ELIHPA involves a multi-step 
+process for the agency to follow in making a decision on a 
+prepayment request. First, the FmHA is required, “[b]efore 
+accepting an offer to prepay,” to attempt to persuade the 
+owner to give up its termination option and keep its 
+property in the program for at least an additional twenty 
+years in exchange for certain “incentives.” 42 U.S.C. 
+§ 1472(c)(4)(A) (App. 74, 83). Second, if an owner will not 
+surrender its termination option and agree to extend the 
+low-income use of the property, ELIHPA compels the 
+owner, before exercising that option, to offer the property 
+for sale to any qualified nonprofit organization or public 
+agency for a six month period. Id. § 1472(c)(5) (App. 75-55, 
+84-87). A buyer can be “qualified” by the FmHA only if it 
+agrees to maintain the low-income use of the property, and 
+no sale can be completed unless the agency approves the 
+purchase price. Id.'5 Third, if an owner is unwilling either to 
+extend its participation in the program or subject itself to the 
+forced-sale process, the agency can accept the owner's 
+prepayment request (and thereby release the owner from the 
+regulatory covenants) only if the owner agrees to maintain 
+the low-income rental rates until the current tenants 
+voluntarily move out. Id. § 1472(c)(5)(G)(ii)(1) (App. 89). 
+
+
+Finally, ELIHPA provides one exception that, while 
+narrow, is key to the outcome of this matter. If une FmHA 
+determines that there is no longer a need for affordable 
+housing in the area where the subject property is located, 
+
+
+yf Although a hapless owner theoretically could prepay at the end of 
+this “forced-sale” period if no “qualified” buyer emerges, the owner first 
+has to gamble that its property will not be snatched away at a price not 
+determined on the open market. App. 131. 
+
+
+and that housing opportunities for minorities will not be 
+adversely affected, the agency must accept the prepayment 
+request. Id. § 1472(c)(5)(G)(ii) (App. 89). Thus, the statute 
+does not in all cases prohibit withdrawal from the program. 
+Instead, if the statutory conditions may be satisfied when the 
+request is made, the agency must accept the owner's 
+prepayment request without restriction, thereby freeing the 
+owner from the covenants set forth in the loan agreement. 
+
+ELIHPA also gave owners reason to believe that these 
+restrictions on the FmHA’s authority to accept prepayment 
+requests were only temporary in nature. App. 124-26, 146- 
+48. Congress entitled the statute an “emergency” Act and 
+specifically found that, before a permanent solution could be 
+devised, a major review of alternative responses to the 
+threatened loss of low-income housing was required. See 
+ELIHPA § 202(a)(9),(10) (App. 71-73, 124). The measures set 
+forth in the statute were therefore described as “interim 
+measures” to be applied by the agency “until the Congress 
+[could] act on recommendations that [would] emerge from 
+this review.” Id. Certain petitioners were also led “to 
+believe that permanent legal and/or regulatory changes 
+currently under review would be made which would 
+remove or significantly liberalize the temporary prepayment 
+restrictions.” App. 130. Congress thus advised any owner 
+w. ) might have been following the legislation to await the 
+government's final word on the matter.'® 
+
+
+3. The 1992 Legislation and its Implemen.ing 
+Regulations 
+
+
+% The 1988 islati i required the issuance of “final 
+regulations” hye age gare interim” requirements. ELIHPA § 241, 
+codified in relevant part at 42 U.S.C. § 1472(c)(5)0) (Add. 28-29); but see 
+42 US.C. § 1490n (granting FmHA discretion to issue regulations on an 
+“emergency basis” in lieu of promulgating final regulations). Final 
+regulations were never issued before Congress spoke again. Instead, 
+during the continuing Congressional review of prepayment issues, the 
+FmHA issued a series of interim “emergency basis” regulations. See 53 
+Fed. Reg. 13244, 13245 (April 22, 1988); 55 Fed. Reg. 4985 (Feb. 13, 1990). 
+
+
+12 
+
+
+The final word came more than four years later, on 
+October 28, 1992, when Congress enacted its final solution to 
+the perceived problem resulting from the ability of Section 
+515 owners to exercise their termination option. Housing 
+and Community Development Act of 1992, Pub. L. No. 102- 
+550, §§ 2, 712, 106 Stat. 3681, 3841 (1992), codified in relevant 
+part at 42 U.S.C. § 1472(c) (“the 1992 legislation”). The 1992 
+legislation made clear that the restrictions imposed by 
+ELIHPA upon the FmHA’s ability to accept prepayments 
+from pre-1979 owners were permanent, and imposed the 
+same restrictions upon the agency with respect to requests 
+made by post-1979 owners. 
+
+
+The FmHA then issued regulations to implement the 
+1992 legislation. See 7 C.F.R. Pt. 1965-E (2000) (App. 91-105). 
+The regulations set forth detailed procedures for the agency 
+to follow in “approving or disapproving prepayments.” Id. 
+§ 1965.215(a) (App. 91). Under the regulations, consistent 
+with the 1988 and 1992 legislation, the agency can “accept” 
+an owner's request to prepay only if, among other things, 
+there is an adequate supply of alternative affordable housing 
+in the area where the property is located. Id. § 
+1965.215(c)(1)(iii),(3)(iii) (App. 92-94). The regulations also 
+set forth procedures for the agency to follow in determining 
+whether this exception has been met and detail nine actions 
+that the agency must take to process its “acceptance of 
+prepayment,” including releasing the owner's security 
+instruments. Id. § 1965.215(b),(e) (App. 91, 95-103). 
+
+
+C. Application of the Legislation 
+
+
+At some point following the passage of ELIHPA, each of 
+the petitioners determined that the time was ripe - based on 
+their own financial circumstances, their retirement plans, 
+current market conditions, and the housing demand in the 
+area ~ to exercise their respective termination options. App. 
+128, 150-51, 158. Many petitioners filed written prepayment 
+requests with the FmHA, which the agency denied based on 
+the continuing need for affordable housing in the subject 
+
+
+13 
+
+
+market area. See App. 129, 157. Other petitioners who 
+decided to prepay were informed by the agency and others 
+that, based on market conditions in the area of their 
+properties, any prepayment request would be denied under 
+the requirements of the new statute, and that submitting a 
+request therefore would be futile. App. 129-30. 
+
+
+Thus, none of the petitioners was able, at the time it 
+desired to exercise its termination option, to satisfy the 
+statutory conditions authorizing the agency to accept its 
+prepayment request. Consequently, petitioners all remain 
+chained to the Section 515 program and subject to its severe 
+income restrictions to this day, and likely will remain so 
+until their fifty-year mortgage terms expire, despite their 
+original intent and present desire to leave the program and 
+regain their freedom from the program’s regulatory 
+covenants. App. 129-32, 152-54. 
+
+
+Il. Proceedings Below 
+
+A. Proceedings Before the Court of Federal Claims 
+
+Petitioners filed suit in the Court of Federal Claims 
+under the Tucker Act, 28 U.S.C. § 1491, in 1997 in Franconia 
+and 1998 in Grass Valley, seeking damages resulting from 
+their inability to terminate their participation in the program 
+upon their intended prepayment dates.” App. 128, 131. 
+Petitioners asserted two counts: a contract claim alleging 
+that ELIHPA constituted an anticipatory repudiation of the 
+agency’s contractual obligations and a takings claim alleging 
+that the legislation, as applied to their properties, effected 
+
+
+7 As in any case brought under the Tucker Act, petitioners seek 
+recovery of the damages suffered as a result of the government's actions 
+and are not here seeking to invalidate ELIHPA on any constitutional 
+ground. App. 112; see Tabb Lakes, Ltd. v. United States, 10 F.3d 796, 802 
+(Fed. Cir. 1993). Petitioners seek damages for being compelled to remain 
+in the program for their full mortgage terms and thus will calculate their 
+damages based on the period of time after they desired to leave the 
+program and were prevented from doing so by the agency. App. 131. 
+
+
+14 
+
+
+me eee 
+ea 
+
+
+takings of their real property interests. * App. 112, 129-32. 
+All petitioners filed suit within six years after the date that 
+they desired to leave the program. 
+
+The Court of Federal Claims issued its decision in 
+Franconia on May 6, 1999, granting the government's motion 
+to dismiss petitioners’ contract claims on_ limitations 
+grounds. The court held that ELIHPA constituted an 
+immediate breach of petitioners’ contracts and that their 
+contract claims accrued on the date that the agency issued 
+regulations implementing the statute. App. 28-29. To reach 
+this conclusion, the court determined that the prepayment 
+clause of petitioners’ contracts imposed no duty of 
+performance on the government whatsoever: 
+
+
+A careful reading of this clause reveals that no 
+performance by the government is required - it is 
+merely a promise to allow the borrower to prepay at 
+any time during the life of the loan. 
+
+
+App. 31; see also App. 32 (finding that “there was no 
+performance due by the government under the contract”). 
+The court concluded that the contracts imposed on the 
+government nothing more than a continuing obligation to 
+“keep its promise,” and that the contracts therefore were 
+breached when the government ceased keeping its promise 
+by changing the law. Id. The court thus rejected petitioners’ 
+argument that the statute amounted to only an anticipatory 
+repudiation of the FmHA’s contractual obligations. Id. 
+
+
+Although the government did not move to dismiss 
+petitioners’ takings claims, '? and although there had been 
+
+
+Although the complaints were filed up to five years ago, to date, no 
+discovery has taken place on any of the petitioners’ claims. 
+
+
+'% The government's decision not to seek dismissal of petitioners’ 
+takings claims on limitations grounds was understandable, given its 
+contrary position in related litigation. Any argument by the government 
+that the takings claims of the FmHA owners, like their contract claims, 
+were filed too late because they accrued upon enactment of the legislation 
+
+
+15 
+
+
+no discovery or briefing with respect to those claims, the 
+trial court went on to dismiss petitioners’ takings claims sua 
+sponte, finding that those claims accrued on the same date as 
+the contract claims. Without any citation to the pleadings, 
+the court characterized plaintiffs’ allegations as asserting 
+that a taking occurred when the government “passed the 
+legislation because the mere passing of the legislation, ipso 
+facto, deprives plaintiffs of their vested right to prepay.” 
+App. 24. Thus, the court deemed petitioners’ takings claims 
+to allege solely a “facial” taking of their contractual right to 
+prepay, which would have accrued upon the passage of the 
+legislation (or, as the court held, upon issuance of the 
+implementing regulations). App. 34.” 
+
+
+Following Franconia, the Court of Federal Claims issued 
+a nearly identical decision on the contract claims of the 
+petitioners in Grass Valley on April 12, 2000. The Grass Valley 
+court agreed that the only performance due by the 
+government under the prepayment clause was “to keep its 
+promise to allow borrowers” to prepay at any time. App. 56; 
+see also id. at 55 (rejecting argument that the contracts 
+obligated the government “to accept prepayment”). 
+However, unlike the Franconia court, the Grass Valley court 
+dismissed only those claims on which the government had 
+moved, i.e., petitioners’ contract claims. 
+
+
+would have been inconsistent with its argument that the takings claims of 
+HUD owners were premature because they accrued only upon the 
+agency's application of the legislation. See, e.g., Greenbrier v. United States, 
+193 F.3d 1348 (Fed. Cir. 1999). 
+
+
+2 Petitioners sought reconsideration of the court's opinion on a number 
+of grounds, including the fact that the court had mistakenly assumed that 
+none of the petitioners had requested to prepay. As an example, 
+petitioners submitted a declaration from petitioner Phoebe Perri in which 
+she detailed her attempts to prepay and the FmHA’s denial of her request. 
+App. 157-58. Because there has been no discovery on the subject claims, 
+Ms. Perri’s declaration stands as the only evidence in the record on appeal 
+concerning petitioners’ efforts to prepay. The court acknowledged that it 
+had misstated the facts, but denied the motion. See 44 Fed. Cl. 315 (1999). 
+
+
+16 
+
+
+B. Proceedings Before the Federal Circuit 
+
+
+On appeal in Franconia, the Federal Circuit affirmed, 
+holding that ELIHPA immediately “took away” and 
+“eliminated” petitioners’ contract rights. App. 10, 14. The 
+court thus held that petitioners’ contract claims accrued on 
+the day that the statute was enacted (rather than when the 
+regulations were issued, as the trial court held) and became 
+time-barred in February 1994, six years after ELIHPA’s 
+enactment.?! App. 10. The Federal Circuit adopted the trial 
+court's reasoning that “the note’s prepayment provision did 
+not require any performance on the part of the government” 
+and that the government thus had no more than an 
+intransitive duty “to continue to allow borrowers the 
+unfettered right to prepay their loans at any time.” Id. 
+
+
+The court then applied a similar analysis to petitioners’ 
+takings claims. The court defined petitioners’ takings claims 
+—contrary to their allegations —as asserting solely a taking 
+of their “unfettered right to prepay” (id. at 14), rather than a 
+regulatory taking of their real property interests. By 
+characterizing petitioners’ claims in this manner, the court 
+proceeded to the conclusion that this right “was eliminated 
+by the government with the passage of ELIHPA” and that 
+petitioners’ takings claims thus accrued upon enactment of 
+the statute. Id. In so holding, the court made no mention of 
+the fact that the statute vests the agency with authority to 
+grant prepayment requests in certain circumstances.” 
+
+
+21 The question whether, under the lower court's reasoning, the 
+limitations period commences on the date that ELIHPA was enacted or 
+the date that its implementing regulations were promulgated is not at 
+issue here, since petitioners filed suit more than six years after either date. 
+Further, under the facts presented here, the anticipatory repudiation 
+doctrine, described below, would apply to either event. 
+
+
+2 Petitioners sought rehearing in Franconia, based in part on the Federal 
+Circuit's prior opinion in Greenbrier v. United States, 193 F.3d 1348 (Fed. 
+
+
+Cir. 1999), where it held that the takings claims of HUD owners accrued 
+not upon the enactment of ELIHPA, but at the later date when the agency 
+
+
+17 
+
+
+Following the issuance of the Federal Circuit's decision 
+in Franconia, but before it denied rehearing in that case, the 
+court issued a per curium decision in Grass Valley in which it 
+affirmed without comment the dismissal of petitioners’ 
+contract claims on statute of limitations grounds. App. 15. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+These cases come to this Court as the result of the 
+Federal Circuit's determination that petitioners’ claims are 
+time-barred, a conclusion that it reached in total disregard of 
+two of the most well-established precepts of law pertaining 
+to actions for damages against the United States: (1) that the 
+government is bound by the law governing contracts 
+between private citizens when it enters into contracts, and 
+(2) that a regulatory takings claim based on the application 
+of a statute that allows for an agency decision on the scope 
+of permissible use of the property in question is not ripe for 
+judicial review until the agency renders such a decision. By 
+ignoring these bedrock principles, the Federal Circuit 
+permitted the government to obtain dismissal of petitioners’ 
+claims on statute of limitations grounds, depriving them of a 
+hearing on the merits. The proper application of the law, 
+however, demonstrates that petitioners’ claims were filed in 
+a timely manner. 
+
+
+Accrual of Petitioners’ Contract Claims. There is no 
+question that if this were a contract dispute between two 
+private parties, petitioners’ claims would be deemed timely 
+and heard on the merits. Under the doctrine of anticipatory 
+repudiation, petitioners’ contract claims did not accrue upon 
+the enactment of the legislation by Congress, but rather 
+when the agency, applying the new restrictions set forth in 
+the statute, breached its contractual obligation by refusing to 
+accept petitioners’ prepayment requests. This comports 
+
+
+rendered a final decision on a prepayment request from each owner. The 
+court denied the petition for rehearing. App. 70. 
+
+
+18 
+
+
+with the precedent of this Court recognizing the distinction 
+between the enactment of legislation by Congress as a 
+repudiation of the government's contractual obligations and 
+the application of that law by the relevant agency as an actual 
+breach. This Court should hold the government accountable 
+to standard contract law principles and hold that ELIHPA 
+amounted only to an anticipatory repudiation of the 
+government's contract obligations, which did not result in 
+the automatic triggering of the statute of limitations. 
+
+
+Contrary to these principles, the Federal Circuit 
+presumed that the legislation “eliminated” petitioners’ 
+contract rights, thus causing the statute of limitations to 
+commence to run immediately. Even a cursory review of 
+the statute reveals, however, that Congress did not even 
+attempt to “eliminate” petitioners’ termination option. 
+Rather, the FmHA retains authority to accept prepayment 
+requests in certain circumstances, thereby releasing Section 
+515 owners from the regulatory covenants set forth in their 
+agreements. By only restricting the agency’s ability to accept 
+owners’ requests to exercise their termination option, 
+Congress avoided larger constitutional problems it would 
+have encountered had it completely eliminated petitioners’ 
+rights under their contracts with the government. 
+
+
+The Federal Circuit avoided this dispositive feature of 
+the statute by devising a fictional account of the FmHA’s 
+duty of performance under the contracts. The court 
+interpreted the government's obligation as encompassing 
+only a duty to “continue to allow” petitioners to prepay, 
+rather than as the performance of a contractual obligation to 
+accept prepayments when tendered. The court. thus 
+concluded that petitioners’ contract claims accrued when the 
+government, by passing ELIHPA, ceased continuing to 
+“allow” prepayments. However, the parties’ contracts, the 
+governing statutes and regulations, and the common law of 
+contracts all make clear that the government was obligated 
+not merely to allow owners to prepay, but to accept 
+
+
+19 
+
+
+prepayment requests submitted by owners. Indeed, absent 
+such a reciprocal duty of acceptance, the contracts would be 
+rendered illusory. The lower court's attempt to absolve the 
+government from its contract obligations, in order to justify 
+its conclusion that any breach occurred automatically upon 
+enactment of the statute, should not be permitted to stand. 
+
+
+Accrual of Petitioners’ Takings Claims. This Court has held 
+time and again that a regulatory takings claim challenging a 
+statute that holds open the possibility that the property 
+owner may be permitted to use its property as desired is not 
+ripe for judicial review until the agency charged with 
+implementing the statute renders a decision on the 
+permitted use of the property. By its terms, ELIHPA grants 
+the FmHA the authority to accept prepayment requests and 
+thereby free owners from the program’s regulatory 
+covenants in specified circumstances. 
+
+
+As a result, the statute clearly calls for an “as-applied” 
+takings analysis, rather than the “facial” analysis that the 
+lower courts appeared to adopt. This holds true whether the 
+property right at issue is viewed as a state-created real estate 
+interest, as petitioners pled, or as a contractual right to 
+prepay, as the courts below characterized it. By holding that 
+the statute of limitations on petitioners’ takings claims 
+commenced upon enactment of the statute, the Federal 
+Circuit effectively held that petitioners’ claims accrued before 
+they became ripe for review. This cannot be the law. 
+
+
+Finally, the Federal Circuit's analysis, if permitted to 
+stand, will spawn judicial inefficiencies and unfairness to 
+
+
+litigants. In order to maintain logical and consistent rules © 
+
+
+governing the accrual of claims against the government, this 
+Court should not view petitioners’ contract and takings 
+claims in isolation from one another. The Court should hold 
+that because the statute leaves open the possibility that 
+owners will be freed from the regulatory covenants upon 
+their request to leave the program, neither petitioners’ 
+
+
+20 
+
+
+contract claims nor their takings claims accrued immediately 
+upon the enactment of ELIHPA. 
+
+
+ARGUMENT 
+
+
+I. The Federal Circuit Exempted The Government From 
+Standard Contract Law Principles By Holding That 
+Petitioners’ Contract Claims Accrued For Purposes Of 
+28 U.S.C. § 2501 Immediately Upon Enactment Of The 
+1988 Legislation. 
+
+
+“When the United States enters into contract relations, its 
+rights and duties therein are governed generally by the law 
+applicable to contracts between private individuals.” See 
+Mobil Oil Exploration & Producing Southeast, Inc. v. United 
+States, 530 U.S. 604, 607 (2000) (“Mobil”) (internal quotations 
+and citations omitted); accord United States v. Winstar Corp., 
+518 U.S. 839, 895 (1996) (“Winstar”); Clearfield Trust Co. v. 
+United States, 318 U.S. 363, 369 (1943) (“The United States 
+does business on business terms.”); Perry v. United States, 294 
+US. 330, 352 (1935); Lynch v. United States, 292 U.S. 571, 579 
+(1934); Cooke v. United States, 91 U.S. 389, 398 (1875) (when 
+the United States “comes down from its position of 
+sovereignty, and enters the domain of commerce, it submits 
+itself to the same laws that govern individuals there”). * 
+
+
+As this Court held in Winstar, holding the government 
+accountable to such standards is essential to protect “the 
+Government's own long-run interest as a reliable contracting 
+partner in the myriad workaday transactions of its 
+agencies.” 518 U.S. at 883. By contrast, a rule “expanding 
+the Government's opportunities for contractual abrogation” 
+would have “the certain result of undermining the 
+Government's credibility at the bargaining table and 
+increasing the cost of its engagements.” Id. at 884. The 
+
+
+2 Government contracts are controlled by the federal common law of 
+contracts, see United States v. Allegheny County, 322 U.S. 174, 183 (1944), 
+which, in turn, is informed by “the principles of general contract law,” 
+Priebe & Sons, Inc. v. United States, 332 U.S. 407, 411 (1947). 
+
+
+21 
+
+
+Federal Circuit's decision in this case creates that very 
+danger, in that it rejects contract claims against the 
+government as time-barred when indistinguishable claims 
+brought against a private party would be deemed timely. 
+
+
+A. The 1988 Legislation Constituted An Anticipatory 
+Repudiation Of Petitioners’ Termination Option, 
+Which Did Not Start The Statute Of Limitations. 
+
+1. The Law Of Anticipatory Repudiation 
+
+One basic principle of contract law is the doctrine of 
+anticipatory repudiation, set forth in the Restatement 
+(Second) of Contracts § 250 (“Restatement”) (1981). See 
+Mobil, 530 U.S. at 608.4 The Restatement defines a 
+repudiation as a “statement by the obligor to the obligee 
+indicating that the obligor will commit a breach that would 
+of itself give the obligee a claim for damages for total 
+breach.” Restatement § 250. An anticipatory repudiation 
+occurs where one party to a contract impairs the other 
+
+
+xpectati i for 
+‘se tion of performance before the time 
+et ali arrives. 2 Id. at 271. Such a statement of 
+
+
+% The doctrine of anticipatory repudiation can be traced back to the 
+landmark case of Horchster v. De la Tour, 118 Eng. Rep. 922 (Q.B. $608). See 
+Roehm v. Horst, 178 U.S. 1 (1900); Dingley v. Olger, 117 U.S. 490 ae aoe 
+Chemical Company v. United States, 226 F.3d 1334, 1344 (Fed. Cir. oy bt 
+Am. Jur. 2d, Contracts § 448 (1990); Corbin, CONTRACTS §§ 959, 1053 one 
+(“Corbin”); Jaeger, WILLISTON ON CONTRACTS §§ 824, 1300 et ~ rn 
+(3d ed. 1968) (‘Williston’); Murray, CONTRACTS § 109 (3d - oar 
+(“Murray”); Restatement (First) of Contracts § 318 (1932); ~~ on 
+History Of Anticipatory Repudiation In American Contract Law, 69 U. Cox . 
+L. REV. 565 (2001). Applications of the doctrine can arise in pe 
+situations.” Murray, § 109(A); see also Corbin, § 1053 (“It is not at ; 
+uncommon for a contractor to repudiate the contract before the time for 
+performance arrives.”). 
+
+
+octrine thus recognizes that a breach does not occur until the 
+ry pene nn arrives and the obligor fails to perform. See 
+Restatement § 250, illus. 1; Williston, § 1300 (“One who contracts to oa 
+certain thing on a certain contingency or at a certain time does not a 
+indeed cannot break that promise unless the contingency happens or 
+
+
+22 
+
+
+AED LL FS 
+
+
+=~ 
+
+
+prospective non-performance can consist of either a 
+statement by the obligor of its intention not to perform 
+under any circumstances or a statement of “intention not to 
+perform except on conditions going beyond the contract.” 
+Restatement § 250, cmt. b; Murray, § 109(C).% 
+
+
+The fact that an action amounts to a repudiation rather 
+than a breach has important consequences for the statute of 
+limitations. In response to an anticipatory repudiation, the 
+obligee may either sue immediately or await the time that 
+the obligor’s performance under the contract comes due. 
+Williston, § 1337; Roehm, 178 US. at 10 (finding it 
+“reasonable to allow an option to the injured party, either to 
+sue immediately, or to wait till the time when the act was to 
+be done”). If the obligee elects to wait, the statute of 
+limitations on a claim for breach does not commence to run 
+until the time for performance arrives and the obligor 
+actually fails to perform. Kinsey v. United States, 852 F.2d 
+956, 558 (Fed. Cir. 1988); Plaintiffs in Winstar-Related Cases v. 
+United States, 37 Fed. Cl. 174, 183 (1997); Corman, 
+LIMITATION OF ACTIONS § 7.2.1 (1991). 
+
+
+By granting the non-repudiating party these options, the 
+doctrine serves an important policy interest. Allowing the 
+obligee to defer suit until the time for performance arrives 
+provides the obligor an opportunity to retract its wrongful 
+repudiation and perform as promised, thereby eliminating 
+the need for a lawsuit. Murray, § 109(E)(5); Williston, § 
+2027B. As Professor Corbin explains: 
+
+
+time arrives.”); Burton, CONTRACTUAL Goop FAITH § 6.3.1 (1995) (while a 
+breach impairs a party’s interest in “present performance” under the 
+contract, a repudiation impairs the interest in “future performance”). 
+
+°° See also Alaska Pulp v. United States, 48 Fed. Cl. 655, 659 (2001) (“The 
+archetypal repudiation, therefore, occurs when one party to a contract 
+
+
+attempts to unilaterally alter the contract or to condition his performance 
+on terms that were not part of the bargain.”). 
+
+
+23 
+
+
+The plaintiff should not be penalized for leaving to 
+the defendant an opportunity to retract his wrongful 
+repudiation; and he would be so penalized if the 
+statutory period of limitation is held to begin to run 
+against him immediately. (Corbin, § 989). 
+2. The 1988 Legislation Constitutes An Anticipatory 
+Repudiation Of The FmHA’‘s Contract Obligations. 
+
+
+This Court’s decision in Mobil makes clear how the 
+doctrine of anticipatory repudiation applies in the context of 
+legislation passed by Congress that alters an agency's 
+contract obligations.” There, the government was obligated 
+under contracts with oil companies to approve oil 
+exploration plans submitted by the companies, if proper, 
+within thirty days after submission. 530 U.S. at 609-10. 
+Subsequent legislation placed conditions on that approval, 
+making it impossible for the government to approve plans 
+submitted by the companies within the promised time 
+frame. Id. at 611-12; see also Conoco Inc. v. United States, 35 
+Fed. Cl. 309, 318 (1996). 
+
+
+The trial court found, based on these facts, that the 
+legislation constituted an “anticipatory repudiation” of the 
+contracts. Conoco, Inc., 35 Fed. Cl. at 327. This Court agreed, 
+holding that “the Government's communication of its intent 
+to commit [a] breach amounted to a repudiation of the 
+contracts.” Mobil, 530 U.S. at 621; see also id. at 619 (noting 
+that “if legislation passed by Congress and signed by the 
+
+
+27 Although Mobil was decided after this case was fully briefed to the 
+Federal Circuit in Franconia, petitioners notified the court of the decision 
+pursuant to Fed. R. App. P. 28(j). The Federal Circuit, however, failed to 
+discuss or reference the case in its decision. 
+
+
+2% A “repudiation” as discussed by the Court is no different from an 
+“anticipatory repudiation.” See Restatement § 250 (“repudiation” defined 
+as a “statement .. . that the obligor will commit a breach”), quoted in Mobil, 
+530 U.S. at 608; id. illus. 1; Black’s Law Dictionary 1306 (7th ed. 1999) 
+(“repudiation” defined as “words or actions that indicate an intention not 
+to perform the contract in the future; a threatened breach of contract”). 
+
+
+24 
+
+
+wom 
+
+
+President is not a ‘statement by the obligor,’ it is difficult to 
+imagine what would constitute such a statement”). Thus, 
+the legislation did not constitute an immediate failure to 
+perform under the contracts, but rather a statement of the 
+government's intent to breach the contracts in the future - a 
+classic anticipatory repudiation. This was true even though 
+the statute left no doubt that the government would not 
+comply with its contractual obligations. Id. at 611-12, 618.2 
+
+
+Courts addressing the anticipatory repudiation doctrine 
+in cases involving the question whether a legislative act 
+immediately triggers the statute of limitations similarly have 
+held that the enactment of the legislation at issue amounts to 
+an anticipatory repudiation of affected contracts. These 
+courts also have held that the limitations period does not 
+commence to run until the later implementation of that 
+legislation by the contracting agency results in an actual 
+breach. See Bank of America v. United States, 51 Fed. Cl. 500, 
+506, 510 (2002) (claim accrued upon agency's “application” 
+of statute, which gave plaintiffs “full notice” of breach); 
+Plaintiffs in Winstar-Related Cases, 37 Fed. Cl. at 183 (applying 
+Winstar to hold that “FIRREA was essentially a legally 
+binding forecast of a future breach” and thus “falls well 
+within the definition of an anticipatory repudiation”). 
+
+
+% The Court's conclusion that the legislation constituted a repudiation 
+of the contracts at issue, as opposed to a full breach, was key to its holding 
+that the remedy of restitution was available to the contractors. Id. at 608. 
+
+
+% = The Federal Circuit's decision in Alder Terrace v. United States, 161 
+F.3d 1372 (Fed. Cir. 1998) is not to the contrary. There, the court held that 
+an HUD owner's claim accrued upon its “20-year anniversary” — the date 
+when the owner first became eligible under its contract to prepay — which 
+in that case came after both the date of ELIHPA’s enactment and the date 
+on which the agency denied the owner's request to prepay. /d. at 1375, 
+1379. Because the owner filed suit more than six years after HUD’s denial, 
+its claim would have been untimely even under the doctrine of 
+anticipatory repudiation. As a result, the owner did not rely on the 
+doctrine and the court did not address it. Any interpretation of Alder 
+Terrace as holding that the owner's claims accrued immediately upon the 
+
+
+25 
+
+
+Other cases have also recognized this distinction 
+between legislation as a “repudiation” and agency 
+enforcement as a “breach.” See Schism v. United States, 239 
+F.3d 1280, 1290 (Fed. Cir.), vacated on reh’g en banc, 252 F.3d 
+1354 (2001); Far West Fed. Bank v. Office of Thrift 
+Supervision, 119 F.3d 1358, 1365 (9th Cir. 1997) (quoting 
+Restatement § 253); Alaska Pulp Corp., 48 Fed. Cl. at 659 
+(statute was statement of “prospective nonperformance” 
+and agency implementation resulted in breach); Conoco, Inc., 
+35 Fed. Cl. at 327; see also Stone Forrest Indus., Inc. v. United 
+States, 973 F.2d 1548, 1552 (Fed. Cir. 1993). Underlying these 
+cases is the principle that Congress does not breach contracts 
+by passing laws; rather, a breach occurs when the agency 
+with whom the plaintiff contracted takes some action in 
+derogation of the contract based on the strictures of the law. 
+
+
+The Federal Circuit's holding that ELIHPA constituted 
+an immediate breach of petitioners’ contracts cannot be 
+squared with this precedent. Just as the contracts in Mobil 
+obligated the government to approve proper exploration 
+plans submitted by the contractors, the contracts here 
+obligated the FmHA to accept requests by owners to 
+terminate their participation in the program. And just as the 
+legislation in Mobil announced that the government would 
+not approve exploration plans according to the terms of the 
+contracts, ELIHPA announced that the government would 
+not approve prepayment requests in accordance with 
+petitioners’ contracts. In both cases, the government's 
+legislative act of placing extra-contractual conditions on its 
+future obligations amounted to a repudiation of the 
+contracts, which ripened into an actual breach only when the 
+time for performance by the agency arrived.*! 
+
+
+enactment of ELIHPA would be directly at odds, not only with the facts of 
+the case itself, but also with Mobil and the other decisions cited above 
+
+
+applying the doctrine of anticipatory repudiation. 
+31 This case thus presents a repudiation consisting of a statement by the 
+obligor that it will perform its future obligations only “on conditions that 
+
+
+26 
+
+
+Mobil and its progeny thus dispel any notion that 
+legislation cannot fit the bill of an anticipatory repudiation. 
+See 530 U.S. at 619. It is also worth noting that a legislative 
+repudiation, like any other repudiation, can be retracted. See 
+id. at 621 (noting that the government did not argue that it 
+“retracted” its legislative repudiation). In fact, the 
+government had earlier repudiated petitioners’ contracts by 
+passing a law in 1979 that restricted the ability of the FmHA 
+to accept prepayment, but then retracted that repudiation by 
+passing another law in 1980 that restored the agency's 
+authority. See supra at 9; see also Housing Opportunity 
+Program Extension Act of 1996, Pub. L. 104-120, § 2, 110 Stat. 
+834 (1996) (restoring prepayment right of owners under 
+HUD housing program). 
+
+
+Because ELIHPA constituted an anticipatory repudiation 
+of the FmHA’s contractual obligations, petitioners had the 
+option of either suing immediately upon the repudiation or 
+waiting until the time for performance arrived. Petitioners 
+opted to wait, providing the agency with the opportunity to 
+perform by releasing petitioners from the program’s 
+regulatory covenants upon their request. Indeed, given the 
+fact that ELIHPA continued to compel the agency to perform 
+this obligation in certain circumstances, it was certainly 
+reasonable for petitioners to defer suit until they decided to 
+exercise their termination option, submitted a request to the 
+agency, and obtained a decision. Under the doctrine of 
+anticipatory repudiation, petitioners cannot be penalized for 
+
+
+go beyond the contract.” See Restatement § 250 cmt. b; Murray, § 10%(C); 
+App. 126-28. In such a case—no less than in the case where the obligor 
+states that it will not perform under any circumstances —the doctrine of 
+anticipatory repudiation provides the obligor an opportunity to retract its 
+repudiation. Moreover, the possibility also remains in such a case that the 
+newly imposed conditions will be met when the time for performance 
+arrives, causing the obligor to perform as originally promised. See Motil, 
+530 US. at 621-22 (obligee “’does not change the effect of a repudiation by 
+urging the repudiator to perform in spite of his repudiation’”) (quoting 
+Restatement § 257); accord Alaska Pulp Corp., 48 Fed. Cl. at 668. 
+
+
+27 
+
+
+making i iti all filed 
+ing this choice. See _orbin, § 989. As petitioners 
+suit within six years after their intended prepayment dates, 
+their claims are timely under 28 U.S.C. § 2501.* 
+B. The Federal Circuit Created Contract Rules 
+Applicable Only To The Government. 
+
+
+1. The Law Of Anticipatory Repudiation 
+As Applied To Contractual Options 
+
+
+is were a dispu te between private parties, there 
+aia question as to how these principles apply. a 
+law is clear that a party’s statement that it will not honor 
+terms of an option contained in a contract conslliains && 
+anticipatory repudiation, such that the option-holder 
+not bring suit until after it attempts to exercise ee 
+and the repudiating party fails to perform by yn hy 
+tender. See Holm v. CalEnergy Co., 229 F.3d 1157, 
+975177 at *1-2 (9th Cir. 2000) (table case); oe v. 
+Acton Corp., 580 F. Supp. 140, 143 (E.D.N.Y. 1983), f in 
+relevant part, 729 F.2d 921 (2d Cir. 1984); ACE INA Holdings, 
+Inc. v. Kane, 1999 WL 959812 at *3 (E.D. Pa. 1999) (party’ s 
+statement that it would not comply with stock = 
+contract was an anticipatory repudiation because time _ 
+performance” had not yet arrived); Rossi v. Oristian, “< 
+N.YS.2d 295, 297 (N.Y. App. Div. 1975) (a claim for bre = 
+of a stock option contract “which provides that plain’ 
+might exercise the option at any time, presents a situation 
+where the Statute of Limitations does not a run 
+until the person granted the option demands the stoc ). 
+
+
+32 Even if the doctrine of anticipatory repudiation did not apply in this 
+case, the result would be the same. The doctrine permits plaintiffs 
+before the time for performance arrives . See supra at 23. a 
+petitioners decided to await the time for performance under 
+contracts and brought suit only after the agency's actual breach. 
+a. ? intone ese Canal lard ) 
+Ne ee damn Ge ae tion of the doctrine . a 
+simply serves to illustra ao Gao fact that becouse tho agitation eee 
+ici in nature, it did not, as the court below held, amount 
+
+
+immediate breach of petitioners’ contracts. 
+
+
+28 
+
+
+This conclusion is mandated by the very nature of a 
+contractual option, which vests the option-holder with the 
+right to choose at which point during the promised period it 
+wishes to exercise the option. A contrary rule allowing the 
+limitations period to commence upon the defendant's 
+repudiation “would permit the defendant to select the date 
+of breach and thus rob the plaintiff of the value of his 
+option.” Hermanowski, 580 F. Supp. at 143; see also Fullington 
+v. M. Penn Phillips Co., 395 P.2d 124, 125 (Ore. 1964) (the 
+“very privilege” for which an option holder bargains is “the 
+assurance that he will have the entire option period in which 
+to make his decision”). 
+
+The result should be no different here. Petitioners’ 
+contracts granted them the option to terminate their 
+participation in the program at any time that they desired 
+during their fifty-year mortgage terms. As a result, the 
+statute of limitations on petitioners’ contract claims did not 
+begin to run until each owner requested to terminate and the 
+government failed to perform by accepting each owner's 
+tender. The Federal Circuit's contrary holding that all 
+
+Section 515 owners affected by ELIHPA were required to file 
+suit within six years after its enactment, regardless of 
+whether they attempted or even desired to prepay during 
+that window of time, improperly permitted the government, 
+rather than petitioners, to set the date of breach. In granting 
+this power to the government, the court exempted it from 
+standard principles of anticipatory repudiation. 
+
+2. The FmHA’s Obligation Under The Contracts Was To 
+“Accept” Prepayment Requests Submitted By Owners. 
+
+The Federal Circuit circumvented the application of the 
+anticipatory repudiation doctrine here by finding that the 
+agency had no duty under the contracts to perform by 
+accepting prepayment requests. App. 10 (holding that “the 
+note’s prepayment provision did not require any 
+performance on the part of the government”). Instead, the 
+court held that the FmHA’s only duty under the contracts 
+
+
+29 
+
+
+was to “continue to allow” petitioners to prepay. Id.; see also 
+App. 8-9 (noting that petitioners’ position was “premised 
+upon the proposition that the FmHA’s obligation under the 
+loan contracts was to accept prepayment rather than allow 
+prepayment”). The lower court's assessment of the FmHA’s 
+duty of performance, however, is contrary to both the terms 
+of the contracts and the applicable statutes and regulations. 
+
+
+Petitioners’ contracts, and the consistent regulations 
+incorporated by reference therein, entitled them to prepay 
+and free themselves from the program’s regulatory 
+covenants at any time. In particular, the contracts state that 
+prepayments “may be made at any time” (emphasis added). 
+This clause necessarily encompasses both an entitlement on 
+the part of owners to submit prepayment requests and a 
+reciprocal obligation on the part of the government to accept 
+such requests when made. Any other interpretation would 
+render the contracts illusory, in that absent a government 
+obligation to accept prepayment, the owners’ contractual 
+right to prepay would be meaningless. Mobil, 530 US. at 620 
+(finding government consideration of plans submitted by 
+contractors to be a “necessary reciprocal obligation” without 
+which the contracts would be rendered “illusory”; see also 
+Winstar, 518 U.S. at 921 (Scalia, J., concurring) (government 
+contracts should not be read in a manner that renders 
+government obligations “ illusory”). 
+
+
+The statutes and regulations governing the Section 515 
+program confirm that the FmHA’s obligation was to accept 
+prepayment requests made by owners and thereupon return 
+the security (i.e., the property) to the owner. ELIHPA and its 
+implementing regulations are addressed to the FmHA's 
+duty to “accept” prepayment. 42 U.S.C. 4 1472(c)(4)(A), 
+(5)(A); 7 C.F.R. § 1965.90(b) (1987). The 1979 legislation 
+similarly was directed to the “rr am yy ng 
+
+yment requests. Pub. L. No. 96-153, , tat. 
+1134 (1979), codified at 42 U.S.C. § 1472(c)(1){2) (describing 
+when Secretary “may not accept an offer to prepay” and 
+
+
+30 
+
+
+when Secretary “shall accept such offer”).3° None of these 
+provisions would make any sense unless the government 
+actually had an obligation to “accept” prepayment requests. 
+
+
+Further, cases involving contractual option provisions 
+consistently hold that once an option-holder exercises its 
+option, the other party has a duty to perform by accepting 
+the tender. Holm, 2000 WL 975177 at *1 (“obligation” to sell 
+stock arose when option-holder “tendered the option 
+price”); Saewitz v. Epstein, 6 F.Supp.2d 151, 157 (N.D.N.Y. 
+1998) (“the actual exercise of an option contract by the 
+optionee is the performance of a condition precedent to the 
+optionor’s duty to perform”) (citing 4 Corbin, CONTRACTS § 
+264 (1951)); see also Lucente v. IBM Corp., 146 F.Supp.2d 298, 
+309 (S.D.N.Y. 2001) (option-holder “has sole power to decide 
+when (or if) the optionor must perform”). Here, too, the 
+government was obligated to perform by accepting 
+prepayment if and when each owner tendered a request, and 
+then releasing the security held by the government. 
+
+
+By finding that the contracts obligated the government to 
+do no more than simply “continue to allow” owners to 
+prepay, the court was able to hold that the only promise the 
+government made under the contracts was to keep its 
+promise. See App. 10; see also App. 31. This reasoning, if 
+generally applied, would write the doctrine of anticipatory 
+repudiation out of the law, in that any statement by a party 
+of its intention not to perform under a contract could be 
+converted into a breach of the duty to “keep the promise,” so 
+
+
+3 Petitioners’ contracts incorporate by reference regulations that also 
+illustrate that the government's duty entailed not only an obligation to 
+accept the owner's tender of prepayment, but also to complete a litany of 
+tasks necessary to authorize and process the final payment, release the 
+security, and permit the owner to exit the program. 7 C.F.R. § 1965.90(e) 
+(1983) (outlining procedures for final payment and release); id. § 1866.2 
+(1983) (authorizing County Supervisor to execute the necessary releases to 
+return the security to the borrower); id. § 1866.3 (1983) (detailing 
+procedures for the county office to follow in handling final payment and 
+delivering of documents to the borrower). 
+
+
+31 
+
+
+that the statute of limitations would begin to run 
+immediately when the statement is made. Fortunately, the 
+law of anticipatory repudiation avoids such absurd results 
+by providing that the limitations period commences only 
+when the time for performance arrives and the repudiating 
+party actually fails to perform. See supra at 23-24. 
+
+
+Indeed, the notion of a promise to keep one’s promise 
+(i.e., a promise not to repudiate) is merely a legal fiction, 
+since no such promise is ever expressly made. See Corbin, 
+-§ 1053 (“A forbearance to repudiate is never specifically 
+promised.”); Williston § 1309 (“If the defendant promised to 
+employ the plaintiff upon June 1, the breach must be that he 
+did not do that. A statement in May by the defendant that 
+he is not going to employ the plaintiff upon June 1 can be a 
+breach only of a contract not to make such statements.”). 
+Remarkably, the Federal Circuit converted this legal fiction 
+into the government's only duty under the contracts. 
+
+
+* + * 
+
+
+The presumption underlying the government's 
+arguments appears to be the notion that, notwithstanding 
+this Court’s repeated admonitions that the government is 
+bound to standard contract law principles when it enters 
+into private contracts, the government is still somehow 
+different. This is the same flawed logic that the government 
+pressed, unsuccessfully, in Winstar and Mobil. This Court 
+should reverse the decision of the Federal Circuit to hold the 
+government accountable to standard contract law and 
+protect “the Government's own long-run interest as a 
+reliable contracting partner in the myriad workaday 
+transactions of its agencies.” Winstar, 518 U.S. at 883. 
+
+
+C. The Federal Circuit Erroneously Held That 
+Congress Retroactively “Eliminated” Petitioners’ 
+Contract Rights By Legislative Fiat, Thereby 
+Triggering The Statute Of Limitations. 
+
+
+32 
+
+
+The Federal Circuit avoided the bedrock principles of 
+contract law set forth above that render petitioners’ claims 
+timely by also holding that ELIHPA immediately “took 
+away, “eliminated,” and “conclusively abolished a material 
+contract right.” App. 10, 12 n.3, 13, 14. Based on this 
+reading of the statute, the court concluded that petitioners’ 
+contract claims must have accrued upon its enactment. App. 
+10. The language of the statute, however, leaves no doubt 
+that Congress specifically refrained from such a retroactive 
+abrogation of the government's own contractual obligations. 
+Instead, Congress restricted the FmHA’s ability to perform 
+its future obligation of accepting a prepayment request if 
+and when made, such that a breach of contract claim, if any, 
+would accrue only upon the agency’s actual denial of a 
+prepayment request. 
+
+
+1. Congress Did Not Even Attempt To “Eliminate” 
+Petitioners’ Contract Rights. 
+
+
+An exhaustive review of the provisions of ELIHPA 
+reveals no support for the Federal Circuit's holding that the 
+statute “eliminated the allowance of [unfettered] 
+prepayments” (App. 12 n3) and thereby triggered the 
+immediate accrual of the statute of limitations. In fact, 
+ELIHPA specifically “allows” prepayment without any 
+restrictions under certain circumstances. Congress clearly 
+envisioned that owners would continue to submit 
+prepayment requests and that the agency would continue to 
+accept such requests in some cases. Indeed, detailed 
+procedures for both the submission of prepayment requests 
+by owners and the acceptance of such requests by the FmHA 
+have existed throughout the Section 515 program’s history. 
+See supra at 6, 31 n.33. Through ELIHPA, Congress set forth 
+further procedures for the agency to follow in determining 
+whether to accept future prepayment requests. 
+
+
+For example, ELIHPA states that “before accepting any 
+offer to prepay,” the agency must make efforts to persuade 
+the owner to remain in the program for another twenty 
+
+
+33 
+
+
+years or more. 42 U.S.C. § 1472(c)(4)(A) (emphasis added) 
+(App. 83). The statute also requires the agency to accept 
+owner requests to prepay when it determines, among other 
+things, that there is no longer a need for affordable housing 
+in the area where the property is located. 42 USC. § 
+1472(c)(5)(G)(ii) (App. 89). The regulations promulgated 
+under ELIHPA similarly provide that “prepayment can be 
+accepted” where the agency makes this determination. 7 
+C.F.R. § 1965.215(a),(c) (App. 91-93). 
+
+
+Congress could have undertaken to immediately 
+“eliminate” petitioners’ contract rights had it enacted 
+legislation simply prohibiting owners from submitting 
+requests to prepay, or prohibiting the FmHA from accepting 
+such requests under any circumstances.* It did neither. 
+Rather, Congress simply chose to alter the agency's 
+authority to accept future requests by owners to prepay their 
+mortgages. This is precisely what petitioners alleged: that 
+the statute restricted the agency's obligation to permit 
+owners to exercise their termination option. App. 112 
+(alleging that the legislation repudiated the government's 
+“obligation to permit FmHA contract holders to terminate 
+their contracts at any time at their option”).*° Thus, the 
+
+
+™& Irrespective of which approach Congress may have chosen, the 
+analysis contained in Section I.A and IB above makes clear that the statute 
+of limitations would not begin to run until the time for government 
+performance under petitioners’ contracts arrives. Thus, even if Congress 
+had altered the conditions under which petitioners could submit a 
+prepayment request (as opposed to altering the conditions under which 
+the agency could accept such a request), the limitations period would not 
+start unless and until that request was denied, or the petitioner 
+established that, at the time it desired to leave the program, it would have 
+been futile even to submit a prepayment request because the conditions 
+required for agency approval simply did not exist. 
+
+
+35 See also App. 129 (“The Government's repudiation does not constitute 
+a failure to carry out any immediate duty of present performance unless 
+and until the date of Government performance required by each contract 
+arrives, i.e., the date that any FmHA contract holder would have achieved 
+its option of terminating its contract but for the Government's 
+
+
+34 
+
+
+Federal Circuit's holding that ELIHPA effected an 
+immediate elimination of petitioners’ contract rights 
+disregards not only the text of the statute, but also 
+petitioners’ allegations. 
+
+
+The Federal Circuit's erroneous holding that ELIHPA 
+eliminated petitioners’ contract rights, as opposed to having 
+restricted the agency’s authority to accept prepayments, is 
+also contrary to its own prior decision in Greenbrier v. United 
+States, 193 F.3d 1348 (Fed. Cir. 1999). There, the court 
+analyzed the sections of ELIHPA applicable to HUD and 
+another statute passed in 1990.% The court concluded that 
+the statutes do not disallow owners from prepaying, but 
+rather impose conditions on the agency’s ability to approve 
+requests to prepay. Id. at 1357 (holding that “neither statute 
+denies an owner the ability to prepay its mortgage loan; 
+rather, both statutes provide that an owner may prepay, 
+albeit in accordance with a plan of action approved by the 
+Secretary”). There is no basis for the Federal Circuit to have 
+reached the opposite conclusion in this case. 
+
+
+In sum, ELIHPA does not prohibit owners from 
+requesting to prepay and does not in all instances prohibit 
+the FmHA from accepting those requests. Rather, the 
+possibility always remains under ELIHPA that the right of 
+owners to be freed from the program’s regulatory covenants 
+upon prepayment will be achieved. As a result, the statute 
+cannot possibly be understood as “eliminating” petitioners’ 
+rights. The Federal Circuit reached the contrary conclusion 
+only by ignoring the terms of the statute. Accordingly, the 
+Federal Circuit's holding that petitioners’ contract claims 
+
+
+repudiation.”); App. 126-28 (detailing the extra-contractual procedures the 
+FmHA must follow under the 1988 and 1992 legislation in response to an 
+owner's request to exercise its termination option). 
+
+% As explained above, the provisions of ELIHPA applicable to HUD, 
+like those applicable to the FmHA, continue to authorize prepayment 
+
+
+where the agency determines that there is no longer a need for the subject 
+housing. See supra at 10 n.14. 
+
+
+35 
+
+
+accrued immediately upon the enactment of the statute 
+should be reversed. 
+
+
+2. Congress Avoided Unnecessary Disputes And 
+Constitutional Challenges By Refraining From 
+Retroactively Eliminating Petitioners’ Rights. 
+
+
+Faced with the task of limiting the loss of housing in the 
+Section 515 program, Congress of course had a number of 
+options before it. For example, it could have taken title to 
+the properties through its power of eminent domain, after 
+which the housing could have been operated and managed 
+by the federal government. Congress also could have 
+-revoked the authority of the FmHA to consider any 
+prepayment requests in the future, directing that any 
+requests submitted be denied outright. It also might have 
+declared the prepayment language in the owners’ contracts 
+null and void, or passed a law making it unlawful for 
+owners even to submit prepayment requests to the agency. 
+
+
+Instead of taking any of these more extreme measures, 
+which would have resulted in the immediate conscription of 
+petitioners’ properties or the abolition of their contract 
+rights, Congress chose to set up a scheme that continues to 
+permit owners to submit requests to terminate their 
+participation in the program and authorizes the agency to 
+grant such requests in certain circumstances. In this manner, 
+Congress avoided potential disputes where: (1) the agency 
+no longer needs the housing at the time the owner requests 
+to terminate, or (2) the owner never decides to leave the 
+program for some reason, and thus never submits a request. 
+
+
+By stopping short of eliminating petitioners’ contract 
+rights, Congress also avoided certain constitutional 
+challenges. For example, under the circumstances here, an 
+absolute and wholesale destruction of preexisting contract 
+rights likely would have been invalidated as an 
+impermissibly retroactive impairment in violation of either 
+the Takings Clause or substantive due process. See Easiern 
+
+
+36 
+
+
+Enters. v. Apfel, 524 U.S. 498, 529 (1998); Louisville Joint Stock 
+Land Bank v. Radford, 295 U.S. 555, 601-602 (1935).37 Congress 
+steered clear of such challenges by devising a regime that 
+continues to permit owners to exercise their termination 
+option in some cases. As a result, no owner can establish 
+that its right to be freed from the program’s regulatory 
+covenants upon prepayment has been impaired until it 
+attempts to exercise that option and is denied. Cf. Thetford 
+Properties IV L.P. v. Department of Housing and Urban Dev., 
+907 F.2d 445, 449 (4th Cir. 1990) (holding that owners under 
+HUD housing program could not raise substantive due 
+process challenge to ELIHPA until they complied with 
+prepayment procedures set forth in statute). 
+
+
+Finally, had Congress drafted ELIHPA in a manner that 
+truly “took away and conclusively abolished a material 
+contract right” (App. 14), its actions would have raised 
+deeper concerns about its authority to extinguish the 
+government's own contractual obligations ipse dixit by 
+passing legislation. It is important to note, in this regard, 
+that because ELIHPA was targeted at Section 515 owners, 
+that statute did not qualify as a “public and general” act 
+within the protection of the sovereign acts defense.* 
+
+
+7” While Congress may have some latitude to enact legislation 
+impairing contracts between private parties without running afoul of the 
+Constitution, see, e.g., Connolly v. Pension Ben. Guaranty Corp., 475 U.S. 211 
+(1986), it is held to a much higher level of scrutiny when it attempts to 
+modify its own contractual obligations. See Rotunda & Nowak, TREATISE 
+ON CONSTITUTIONAL LAW § 15.9(a) (3d ed. 1986) (explaining that this Court 
+“has used a higher level of review to legislation that modifies the 
+government's own contractual obligations than it does to federal 
+legislation that alters or regulates private contracts”) (citing Lynch v. 
+United States, 292 U.S. 571 (1934)). 
+
+
+% Petitioners further note that because ELIHPA does not qualify for 
+protection under the sovereign acts defense, the unmistakability doctrine 
+has no application in this case. See Kimberly Assocs., 261 F.3d at 869; 
+Resolution Trust Corp. v. FSLIC, 34 F.3d 982, 984 (10th Cir. 1994); Grass 
+Valley, 51 Fed. Cl. at 440; General Dynamics v. United States, 47 Fed. Cl. 513, 
+543 (2000). Further, even if the unmistakability doctrine did apply here, 
+
+
+37 
+
+
+Kimberly Assocs. v. United States, 261 F.3d 864, 869 (9th Cir. 
+2001) (finding it “unquestionable” that “the government was 
+not acting in a ‘public and general’ capacity” when it passed 
+ELIHPA, which “constituted a narrow, targeted piece of 
+legislation aimed at relieving the government from onerous 
+provisions contained in a finite number of specific contracts 
+it had already entered”); Grass Valley, 51 Fed. Cl. at 443; 
+Adams v. United States, 42 Fed. Cl. 463, 480 (1998) (sovereign 
+acts defense inapplicable because ELIHPA “specifically 
+targeted the termination options found in FmHA’s 
+contracts”).2? Thus, rather than undertaking the “™bious 
+task of legislatively abolishing rights under contracts which 
+the government has entered into in its proprietary capacity, 
+Congress focused its attention on the scope of the 
+contracting agency’s authority to perform under the 
+contracts. In this manner, Congress left it to the agency to 
+determine, in individual cases, whether owners will be 
+permitted to exercise their right to leave the program. 
+
+
+In short, Congress avoided doing through ELIHPA 
+precisely what the Federal Circuit held that it did, ie., 
+“eliminating” petitioners’ contractual right to prepay. 
+Under the statute’s scheme, petitioners’ right to be freed 
+
+
+the terms of petitioners’ contracts satisfy the requirements of the doctrine. 
+App. 176 (setting forth right to prepay in unambiguous terms); App. 173 
+(stating that agreement is “contractually binding” and can be changed 
+only by written agreement); App. 165-66, 177, 181 (subjecting contract 
+only to the governing statute as enacted and immunizing ownefs from 
+inconsistent future regulations); see also Winstar, 518 U.S. at 887; Lynch, 292 
+U.S. at 580; General Dynamics, 47 Fed. Cl. at 546-48. 
+
+
+_* — See also Mobil, 530 U.S. at 619-20 (where sovereign acts defense not 
+raised, government actions in passing legislation analyzed under standard 
+contract principles: “the fact that [the government's] repudiation rested 
+upon the enactment of a new statute makes fo significant difference”); 
+Alaska Pulp Corp., 48 Fed. Cl. at 659 (rules applicable to a party's 
+repudiation of a contract are “no different where the government as a 
+party to the contract commits this same sin through subsequent 
+legislation”). Here, as in Mobil, the government cannot rely on the 
+sovereign acts defense, having failed to raise the argument below. 
+
+
+38 
+
+
+~~ 
+
+
+from the program's regulatory covenants can still be realized 
+in certain circumstances. As a result, no breach or 
+“elimination” of rights can be said to have occurred upon 
+enactment of the statute, and the statute of limitations 
+cannot be deemed to have accrued at that time. 
+
+
+Il. The Federal Circuit Deemed Petitioners’ Takings 
+Claims To Accrue For Purposes of 28 U.S.C. § 2501 
+Before, Under This Court’s Precedent, Those Claims 
+Became Ripe For Review. 
+
+
+A. The 1938 Legislation Demands An “As Applied,” 
+Rather Than A “Facial,” Takings Analysis. 
+
+
+This Court has long held that a takings claim based on a 
+statute or regulation that allows for an agency decision on 
+the scope of permissible use of the property at issue is not 
+ripe for review until the agency renders such a decision. 
+Palazzolo v. Rhode Island, 121 S. Ct. 2448, 2458 (2001); Suitum 
+v. Tahoe Reg'l Planning Agency, 520 U.S. 725, 735-39 (1997) 
+(chronicling prior decisions); MacDonald, Sommer & Frates v. 
+County of Yolo, 477 U.S. 340, 348 (1986); Williamson County 
+Reg'l Planning Comm'n v. Hamilton Bank, 473 U.S. 172, 193 
+(1985) (as-applied takings claim accrues when the 
+government makes a final decision on “how it will apply the 
+regulations” to the property); Agins v. Tiburon, 447 U.S. 255, 
+260-63 (1980). Thus, where federal legislation regulates the 
+use of property but provides an escape hatch permitting the 
+agency to exempt certain property from its requirements, a 
+
+
+# It is also well-settled that a property owner need not request an 
+agency decision when doing so would be futile. Suitum, 520 U.S. at 738- 
+40; Lucas v. South Carolina Coastal Council, 505 U.S. 1003, 1012 n.3 (1992); 
+Cienega Gardens v. United States, 265 F.3d 1237, 1246-48 (Fed. Cir. 2001). 
+Because there has not yet been any discovery on petitioners’ claims, there 
+is no evidence in the record as to which petitioners have obtained a final 
+agency decision and which can satisfy the futility doctrine. For simplicity, 
+petitioners will at times refer herein to the need for an agency decision 
+before a takings claim can become ripe, but expressly preserve their 
+argument that certain petitioners will be able to establish that their claims 
+satisfy the futility exception to the ripeness requirement. 
+
+
+39 
+
+
+takings claim is not ripe until the agency applies the 
+legislation to the property in question. Otherwise, the 
+agency's exercise of the authority granted to it under the 
+statute to determine whether the owner will be permitted to 
+use the property as desired would be undermined. 
+
+
+In Hodel v. Virginia Surface Mining and Reclamation Ass‘n, 
+Inc., 452 US. 264, 295 (1981), for example, owners of coal 
+mining lands alleged that the “mere enactment” of the 
+Surface Mining Control and Reclamation Act effected a 
+taking of their properties. Noting that the statute did not 
+“categorically prohibit” the owners’ intended use of the 
+property, the Court held that the owners’ takings claims 
+were unripe. Id. at 297. The Court added that its holding 
+did not preclude the owners from arguing that the statute 
+“as applied” to their property resulted in a taking. Id. at 297 
+n.40; see also United States v. Riverside Bayview Homes, Inc., 474 
+US. 121, 126-27 (1985) (government's mere assertion of 
+jurisdi over wetlands did not amount to a taking 
+because under the permitting scheme created, “permission - 
+may be granted, leaving the landowner free to use the 
+property as desired”).* 
+
+
+“ The Courts of Appeal uniformly have recognized these principles and 
+applied them in a variety of contexts, including both takings of real 
+property interests (such as the case at hand) and cases involving purely 
+monetary interests. See, e.g., Gulf Power Co. v. FCC, 208 F.3d 1263, 1271-72 
+(11th Cir. 2000); Greenbrier v. United States, 193 F.3d at 1358 (alleged taking 
+of contractual prepayment right); Waste Management, Inc. v. Metropolitan 
+Government of Nashville and Davidson County, 130 F.3d 731, 738 (6th Cir. 
+1997) (takings claim challenging waste disposal fee ordinance); Liberty 
+~Mutual Insurance Co. v. Louisiana Department of Insurance, 62 F.3d 115, 118 
+(Sth Cir. 1995) (takings claim challenging insurance rate regulation); Levald 
+v. City of Palm Desert, 998 F.2d 680, 689 (9th Cir. 1993) (takings claim 
+ing rent control ordinance); Gilbert v. Cambridge, 932 F.2d 51, 55-57 
+(1st Cir. 1991) (claim held unripe where scheme created by ordinance left 
+open possibility “that landlords may be granted leave to use their 
+as they wish”); cf. National Adver. Co. v. Raleigh, 947 F.2d 1158, 
+1166 (4th Cir. 1991) (takings claim accrued upon enactment of ordinance 
+that demanded “immediate compliance without exception”). 
+
+
+40 
+
+
+. The application of this precedent to the 1988 legislation 
+is clear-cut. As detailed above, ELIHPA provides that the 
+FmHA must accept requests by owners to terminate their 
+participation in the program when it determines, among 
+other things, that “there is an adequate supply of safe, 
+decent, and affordable rental housing within the market area 
+of the housing and related facilities and sufficient actions 
+have been taken to ensure that the rental housing will be 
+made available to each tenant upon displacement.” 42 
+US.C. § 1472(c)(5)(G)(ii) (App. 89).2 If the agency makes 
+these determinations, the restrictions imposed by ELIHPA 
+do not apply and the owner will be freed from the 
+regulatory covenants imposed by the program. Thus, under 
+the precedent of this Court, there can be no doubt that 
+petitioners’ takings claims did not accrue upon the “mere 
+enactment” of ELIHPA. Because the statute grants the 
+FmHA the power to grant owner requests to be freed from 
+me nee covenants in certain circumstances, 
+tioners’ takings claims present “as-applied” takings 
+ne become ripe for review only pon hemes age 
+new requirements by the a . As suc iti ; 
+tuphietibanemnettiteens akin 
+
+
+a Regulations issued under the statute similarly provide that “[i}n 
+certain instances, prepayment may be approved” without any restrictions 
+imposed on the owner. 7 C_F.R. § 1965.215(c). In particular, “prepayment 
+may be accepted without restrictions” where, among other things, “there 
+is no longer a need for the housing.” Id. § 1965.215(c)(1),(3). App. 92-94. 
+
+
+© _ It goes without saying that petitioners’ takings claims could not have 
+accrued until they became ripe for review. Levald, Inc., 998 F.2d at 687 
+(“Determining when the cause of action accrued is merely the corollary to 
+the ripeness inquiry.”); Biddison v. Chicago, 921 F.2d 724, 728-29 (7th Cir 
+1991) (“[A] taking accrues at the same time that it ripens.”); Norco Constr., 
+Inc. v. King County, 801 F.2d 1143, 1146 (9th Cir. 1986) (Kennedy, J.) (“[T]he 
+same considerations that render a claim premature prevent accrual of a 
+claim for limitations purposes.”); cf. Plamtiffs in Winstar-Related Cases, 37 
+Fed. Cl. at 182 (“For a cause of action to accrue and the statute of 
+limitations to run, the claim must be ripe. Common sense, as much as 
+case law, dictates this maxim, for the alternative would lead plaintiffs into 
+
+
+41 
+
+
+The Federal Circuit recognized as much in Greenbrier v. 
+United States, 193 F.3d 1348 (Fed. Cir. 1999). There, HUD 
+owners asserted a takings claim based on ELIHPA and a 
+1990 statute that restricted the agency's ability to approve 
+prepayment requests. Noting that the legislation “expressly 
+granted [HUD] authority to approve prepayment proposals” 
+in some cases, the court held that the owners’ takings claims 
+were unripe because none of them had alleged that they 
+sought HUD’s approval. Id. at 1358-59; see also Cienega 
+Gardens v. United States, 265 F.3d 1237, 1248 (Fed. Cir. 2001). 
+Thus, while the court held that the takings claims of the 
+HUD owners in Greenbrier were filed too early, it held that 
+
+
+the materially indistinguishable takings claims of the FmHA, 
+
+
+owners in Franconia were filed too late. There is no 
+justification for the Federal Circuit's decision to follow this 
+Court’s precedent in Greenbrier and then ignore it in this 
+case.“ 
+
+B. The Decision Below Sidesteps This Court's 
+Precedent By Ignoring The Language Of The 
+Statute And Misstating Petitioners’ Claims. 
+
+The Federal Circuit avoided these firmly entrenched 
+principles of takings law only by turning a blind eye to the 
+terms of the statute. In particular, the court disregarded the 
+provisions of ELIHPA that require the FmHA to accept 
+
+
+a conundrum in which their claims could be time-barred before even 
+becoming amenable to judicial resolution”). 
+
+
+“ Having prevailed in Greenbrier on its argument that each owner's 
+takings claim would accrue only upon the agency's denial of a request to 
+prepay, the government should have been estopped from taking the 
+opposite position in this case simply because its interests have changed. 
+The doctrine of judicial estoppel provides that “where a party successfully 
+urges a particular position in a legal proceeding, it is estopped from 
+taking a contrary position in a subsequent i where its interests 
+have changed.” Data Gen. Corp. v. Johnson, 78 F.3d 1556, 1565 (Fed. Cir. 
+1996); see also U.S. Philips Corp. v. Sears Roebuck & Co., 55 F.3d 592, 596 
+(Fed. Cir. 1995) (judicial estoppel preserves the integrity of the judicial 
+process by preventing litigants from playing “fast and loose” with courts). 
+
+
+42 
+
+
+_ ewer 
+
+
+owner requests to terminate their participation in the 
+program where the agency determines that there is no 
+longer a need for the housing at the time the request is 
+made. Had the court heeded the fact that the statute permits 
+owners to be freed from the program's regulatory covenants 
+in some cases, it would have had no choice but to analyze 
+petitioners’ takings claims on an as-applied basis. 
+
+By reading this exception out of the statute, the court 
+was able to conclude, similar to what it held with respect to 
+petitioners’ contract claims, that the statute “took away and 
+conclusively abolished” petitioners’ property interests. App. 
+14. The court thus treated petitioners’ claims as asserting 
+only a facial taking, and treated the legislation as effecting 
+an outright conscription of petitioners’ property rights. As 
+explained above, however, Congress specifically avoided 
+taking any action that would effect an immediate abrogation 
+of rights. See supra at 33-39. Indeed, had ELIHPA resulted 
+in an immediate confiscation of affected properties, as the 
+Federal Circuit suggested, the government no doubt would 
+have been held liable for a total taking of every Section 515 
+property in the country. See United States v. Security Indus. 
+Bank, 459 U.S. 70, 78 (1982); Chicago, B. & Q.R. Co. v. Chicago, 
+166 US. 226, 235 (1897); cf Yuba Goldfields, Inc. v. United 
+States, 723 F.2d 884, 891 (Fed. Cir. 1983) (government argued 
+that it “was careful to refrain from exercising its power of 
+eminent domain, an act that would have unquestionably 
+required it to pay the just compensation required by the 
+
+
+“The court thus upset the fundamental distinction between “facial” 
+and “as-applied” takings claims. See Keystone Bituminous Coal Ass‘n v. 
+DeBenedictis, 480 US. 470, 494 (1987) (recognizing the “important 
+distinction between a claim that the mere enactment of a statute 
+constitutes a taking and a claim that the particular impact of government 
+action on a specific piece of property requires the payment of just 
+compensation”); Yee v. City of Escondido, 503 US. 519, 533-34 (1992) 
+(distinguishing “facial” and “as applied” takings claims and explaining 
+that only the former ripens upon enactment of the challenged legislation); 
+Stein, Regulatory Takings and Ripeness in the Federal Courts, 48 Vand. L. Rev. 
+1, 19 & nn.67, 70 (Jan. 1995). 
+
+
+43 
+
+
+Constitution”). Such an action also would have required the 
+government to provide notice to every Section 515 owner of 
+its action and provide just compensation to each of them. 
+See Walker v. Hutchinson, 352 U.S. 112, 115 (1956). 
+
+
+The Federal Circuit overlooked not only the terms of the 
+statute and its own precedent, but also petitioners’ 
+allegations. Petitioners pled that a taking of their properties 
+occurred as of the date that petitioners actually would have 
+terminated their participation in the program and achieved 
+freedom from the regulatory covenants but for the 
+restrictions imposed by the legislation.“ Thus, petitioners 
+alleged that the agency's application of the legislation, and 
+not its mere enactment, effected a taking. 
+
+
+The court's analysis is not saved by its characterization 
+of petitioners’ claims as alleging a taking of their contractual 
+prepayment right” App. 14. First, the notion that the 
+property interest upon which petitioners base their takings 
+claims is an “unfettered right to prepay” finds no source in 
+petitioners’ pleadings. Rather, the record makes clear that 
+petitioners, as title owners of the land and buildings at issue, 
+
+
+# See App. 132, 155 (“As of the date of Government performance 
+required by each contract entered into between defendant and the 
+plaintiffs, defendant's conduct constitutes a taking of plaintiffs’ properties 
+for public use . . .”); App. 132, 154 (identifying the “date of Government 
+performance” as “the date that each plaintiff would terminate its contract 
+but for the Government's repudiation”); App. 157-58 (statement of 
+petitioner Phoebe J. Perri that she did not suffer any damages before her 
+unsuccessful attempt to prepay her mortgage). 
+
+ad WE Go mens of Gomn en Gy Co Sus ae 
+im of the legislation on petitioners’ “contractual right,” it a 
+recognizes that the true interest at isu is the ” “right to freedom from 
+regulatory covenants.” The prepayment clause of petitioners’ contracts is 
+simply the vehicle by which petitioners can obtain that freedom, regain 
+their full original fee simple interests in their properties, and use their 
+properties as they desire. 
+
+
+assert takings of their state-created real estate interests. 
+Second, as the Federal Circuit recognized in Greenbrier, 193 
+F.3d at 1356-59, even if petitioners had pled solely a taking 
+of a contractual right to prepay, the possibility that 
+termination requests may be accepted in some cases 
+precluded the court from limiting its inquiry to whether the 
+mere enactment of the statute amounted to a taking. 
+
+
+Moreover, even if petitioners had not alleged as-applied 
+takings of their real property interests, the Federal Circuit 
+still would have been bound by the nature of the statute to 
+employ an as-applied analysis. In cases where a facial 
+takings claim is precluded by the fact that the statute does 
+not categorically prohibit an owner's desired use of the 
+property, the proper inquiry is whether the claim is ripe 
+under an as-applied analysis. See, e.g., Hodel, 452 U.S. at 295- 
+97 & nA40; Pennell v. San Jose, 485 US. 1, 9-10 (1988); 
+Greenbrier, 193 F.3d at 1358-59 (rejecting facial takings claim 
+and then proceeding to an as-applied takings analysis); see 
+also Riverside Bayview Homes, Inc., 474 U.S. at 126-27. In this 
+case, however, the Federal Circuit improperly ignored the 
+language of the statute, applied only a facial takings 
+analysis, and concluded that the claims are time-barred. 
+
+
+The Federal Circuit held that petitioners—and, by 
+extension, every owner in the Section 515 program — should 
+have filed their claims by February 1994, regardless of 
+whether they had any intention of terminating their 
+
+
+’ participation in the program by that time. In so holding, the 
+
+
+decision creates a new accrual standard for takings claims, 
+providing that a statute can effect a taking before it has any 
+
+
+* See App. 112 (alleging takings of petitioners’ “ properties”); App. 129 
+(alleging that the government effected “a taking of plaintiffs’ properties 
+for public use” by, among other things, “ requiring plaintiffs to house low- 
+income tenants”); App. 131 (alleging diminution in fair market value of 
+properties). Petitioners’ interests in their properties include the right to 
+economically productive use and enjoyment, the right to exclusive 
+possession, and the rights to transfer, devise, and dispose of their 
+properties. See generally 5 Nichols, EMINENT DOMAIN, § 5.01(5) (2000). 
+
+
+45 
+
+
+impact on the use of the property at issue. Under the court's 
+ruling, owners will now have to choose between either filing 
+early and risking dismissal on ripeness grounds or filing 
+later and risking dismissal on limitations grounds. Bayou des 
+Familles Dev. v. United States, 130 F.3d 1034, 1037-38 (Fed. Cir. 
+1997) (noting that the government “uses the ripeness 
+doctrine as both a sword and a shield”). Surely, the Takings 
+Clause should not be the subject of such gamesmanship. 
+
+
+III. The Decision Below Creates Unworkable And Illogical 
+Rules Governing The Accrual Of Claims Against The 
+Government Under 28 U.S.C. § 2501. 
+
+
+The Federal Circuit's holding has created unjust and 
+unmanageable results. Take for example a typical owner 
+who entered into the program in 1979 and who, after twenty 
+years, desired to leave the program in 1999. Assuming that 
+the conditions for prepaying without restrictions could not 
+be met at that time, the agency would deny the owner's 
+request. If the owner then desired to file suit in 1999 against 
+the government for its failure to honor the terms of the 
+contract, the owner would find that its contract claim had 
+already become time-barred in February 1994, six years after 
+the enactment of ELIHPA. The decision below thus would 
+compel this owner to file suit by 1994, five years before it 
+even had any desire to exercise its prepayment option, and, 
+consequently, before it suffered any damages. See Terteling 
+v. United States, 334 F.2d 250, 254 (Ct. Cl. 1964) (“a claim does 
+not accrue until the claimant has suffered damages”). 
+
+
+# Ironically, the rule advocated by the government would seem to 
+render it liable in other cases for damages in an amount greater than the 
+rule petitioners advance. By asserting that any breach or taking occurred 
+upon enactment of the statute, the government becomes vulnerable to 
+liability for damages going back to that date. Petitioners, however, are 
+only seeking damages for that period of time during which they actually 
+were harmed: starting from when they desired to leave the program and 
+were prevented by the agency from doing so. See supra at 14n.17. 
+
+
+46 
+
+
+Even more peculiar results arise when petitioners’ 
+takings claims are considered. The owner described above 
+clearly would not have a ripe takings claim until 1999, upon 
+the agency’s denial of its prepayment request (though the 
+Federal Circuit apparently would hold otherwise). As a 
+result, the owner would have to bring its contract claim 
+between 1988 and 1994 and then bring its takings claim in a 
+separate suit brought between 1999 and 2005. This would 
+leave a span of seventeen years within which the two suits, 
+based on nearly identical facts, could be brought. Not only 
+would this result be prejudicial to the parties bringing and 
+defending against such suits, it would generate immense 
+judicial inefficiencies by requiring courts to address the 
+same facts and issues in separate suits that could be brought 
+years, even decades, apart. © 
+
+
+This scenario is similar to the plight of the only petitioner 
+with respect to whom there is any evidence in the record on 
+appeal concerning prepayment. See App. 157-58. Petitioner 
+Phoebe J. Perri owns an apartment ‘building in Palmyra, 
+Wisconsin that has been in the Section 515 program since 
+1978. Ms. Perri decided to prepay and leave the program in 
+1993, and submitted a request to the FmHA in November of 
+that year. Id. Her request was deemed complete as of 
+March 1994 and was denied by the agency thereafter. Thus, 
+Ms. Perri’s takings claim became ripe after March 1994 upon 
+the agency’s denial. Id. Under the Federal Circuit's 
+reasoning, however, both her contract and takings claims 
+already would have become time-barred in February 1994. 
+Thus, the Federal Circuit held that Ms. Perri’s claims were 
+time-barred before they could even be considered ripe for 
+
+
+% The fact that the owner would be forced to file separate suits to assert 
+its contract and takings claims would lead to the further problem that the 
+owner might be faced with a res judicata or collateral estoppel challenge in 
+the second suit because the two actions would involve the same operative 
+facts, even though it had no choice but to bring its claims in separate 
+actions. Montana v. United States, 440 U.S. 147, 153 (1979); Bingaman v. 
+
+
+- Department of the Treasury, 127 F.3d 1431, 1436-37 (Fed. Cir. 1997). 
+
+
+47 
+
+
+review under this Court's precedent. That same untenable 
+result would hold true for any Section 515 owner who did 
+not desire to prepay, or did not obtain a final agency- 
+decision on a request to terminate, prior to February 1994. 
+
+
+It is also useful to consider Ms. Perri’s plight in 1988. 
+Had she analyzed the 1988 legislation at that time, she 
+would have had no reason to believe that her contract had 
+been breached or her property taken. If able to parse 
+through the lengthy provisions of the new law, she would 
+first conclude that the statute had no immediate impact on 
+her use cf the property. Rather, it would be apparent that 
+the new conditions on her ability to leave the program 
+would come into play only after she decided to prepay and 
+submitted a request to the agency. She would also see that if 
+and when she submitted a request to prepay, the agency 
+would evaluate her request according to the procedures set 
+forth in the statute, which might or might not result in her 
+being freed from the regulatory covenants contained in her 
+agreement with the government. 
+
+
+Thus, in February 1988, Ms. Perri had no way of 
+knowing whether she ultimately would be permitted to exit 
+the program if and when she decided to exercise her 
+prepayment option. She also did not know whether the 
+government might, as it had before in 1980, repeal the 
+prepayment restrictions before she decided to prepay. A 
+reasonable owner in Ms. Perri’s shoes should conclude that 
+the prudent course of action is to wait until it actually was 
+ready to exit the program, submit a prepayment request at 
+that time, and await the agency’s decision. If the agency 
+accepted the request and agreed to terminate the regulatory 
+covenants, the owner would have no reason to sue. If the 
+agency denied the request, the time would then be ripe to 
+bring an action for damages. 
+
+
+Indeed, consider what would have happened if Ms. Perri 
+had decided not to wait and sued immediately in 1988 for 
+breach of contract and a taking of her property. At that time, 
+
+
+48 
+
+
+VAR? gees 26 COTE TTR, 
+
+
+she would not have been able to allege truthfully that, 
+absent the legislation, she would already have requested to 
+prepay. Nor would she necessarily have been able to prove 
+at that time that her request would have been denied if 
+submitted to the agency. Thus, the suit no doubt would 
+have been challenged, and dismissed, as premature. See 
+Williamson County, 473 U.S. at 193; Greenbrier, 193 F.3d at 
+1358-59. Moreover, if she had sued before or during the 
+pendency of her prepayment request, and the agency later 
+accepted rather than denied her request, she may have 
+found herself accused of commencing a frivolov's action. 
+
+
+The threat of these dire consequences is_ real. 
+Unjustifiable results already are emanating from the lower 
+courts. As discussed in Part II.A, supra, the Federal Circuit 
+has held that the takings claims of HUD owners accrued, not 
+when ELIHPA was passed, but at the later time when the 
+agency applied the legislation to each property. See 
+Greenbrier, 193 F.3d at 1358-59. As a result, the claims of 
+hundreds of HUD owners have been dismissed as 
+premature because they sued before invoking the agency's 
+procedures for submitting a request to prepay. Id. At the 
+same time, the claims of hundreds of FmHA owners have 
+been dismissed as untimely because they waited to sue until 
+after requesting to prepay. 
+
+The Federal Circuit's inconsistent opinions in Greenbrier 
+and Franconia have given the government carte blanche to 
+defeat owners’ claims on whatever ground best suits its 
+needs. Only those owners with the good fortune to have 
+claims that could be challenged neither as unripe nor as 
+Overripe can be heard on the merits. The government has 
+been playing fast and loose in these housing cases, and the 
+courts below have chosen not to intervene. This Court 
+should correct the decisional flip-flop by the Federal Circuit 
+and prevent the government from successfully arguing 
+directly contrary positions in different cases to defeat 
+otherwise meritorious claims. 
+
+
+49 
+
+
+Statutes of limitation are designed to promote judicial 
+efficiency and fairness. See Lampf v. Gilbertson, 501 U.S. 350, 
+357 (1991) (“limitations periods in general promote 
+important considerations of fairness”); Board of Regents v. 
+Tomanio, 446 U.S. 478, 487-88 (1980) (statutes of limitation 
+“have long been respected as fundamental to a well-ordered 
+judicial system”). Limitations rules that are logical and 
+predictable create a level playing field in which plaintiffs can 
+fairly obtain relief in the courts and putative defendants can 
+be aware of when they may be subject to suit. Here, neither 
+the government nor the petitioners could know whether the 
+FmHA would permit any given owner to terminate its 
+participation in the Section 515 program until that date upon 
+which each owner decided to submit a prepayment request 
+and either (1) learned that the agency had denied the 
+request, or (2) concluded that, under the circumstances at 
+issue, the agency had no authority to grant the request. 
+Because every petitioner filed suit within six years of that 
+date, fundamental considerations of fairness require that 
+their claims be deemed timely and heard on the merits. 
+
+
+CONCLUSION 
+
+
+This Court should reverse the decision of the Federal 
+Circuit, hold that petitioners’ contract and takings claims 
+were filed in a timely manner under 28 U.S.C. § 2501, and 
+permit petitioners’ claims to proceed to trial. 
+
+
+February 19, 2002 Respectfully submitted, 
+
+
+Jeff H. Eckland, Counsel of Record 
+William L. Roberts 
+
+Mark J. Blando 
+
+FAEGRE & BENSON LLP 
+
+2200 Wells Fargo Center 
+
+90 South Seventh Street 
+Minneapolis, MN 55402 
+Telephone: 612-766-7000 
+Counsel for Petitioners 
+
+
+50 
+
+

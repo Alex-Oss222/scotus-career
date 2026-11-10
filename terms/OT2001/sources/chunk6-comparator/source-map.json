@@ -1,0 +1,188 @@
+[
+  {
+    "case": "zandford",
+    "url": "https://www.law.cornell.edu/supct/html/01-147.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/zandford_01-147.ZS.txt",
+    "chars": 4785
+  },
+  {
+    "case": "zandford",
+    "url": "https://www.law.cornell.edu/supct/html/01-147.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/zandford_01-147.ZO.txt",
+    "chars": 23483
+  },
+  {
+    "case": "holmes",
+    "url": "https://www.law.cornell.edu/supct/html/01-408.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/holmes_01-408.ZS.txt",
+    "chars": 4278
+  },
+  {
+    "case": "holmes",
+    "url": "https://www.law.cornell.edu/supct/html/01-408.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/holmes_01-408.ZO.txt",
+    "chars": 15686
+  },
+  {
+    "case": "holmes",
+    "url": "https://www.law.cornell.edu/supct/html/01-408.ZC.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/holmes_01-408.ZC.txt",
+    "chars": 11554
+  },
+  {
+    "case": "holmes",
+    "url": "https://www.law.cornell.edu/supct/html/01-408.ZC1.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/holmes_01-408.ZC1.txt",
+    "chars": 2744
+  },
+  {
+    "case": "devlin",
+    "url": "https://www.law.cornell.edu/supct/html/01-417.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/devlin_01-417.ZS.txt",
+    "chars": 5690
+  },
+  {
+    "case": "devlin",
+    "url": "https://www.law.cornell.edu/supct/html/01-417.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/devlin_01-417.ZO.txt",
+    "chars": 23199
+  },
+  {
+    "case": "devlin",
+    "url": "https://www.law.cornell.edu/supct/html/01-417.ZD.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/devlin_01-417.ZD.txt",
+    "chars": 17907
+  },
+  {
+    "case": "mckune",
+    "url": "https://www.law.cornell.edu/supct/html/00-1187.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/mckune_00-1187.ZS.txt",
+    "chars": 13391
+  },
+  {
+    "case": "mckune",
+    "url": "https://www.law.cornell.edu/supct/html/00-1187.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/mckune_00-1187.ZO.txt",
+    "chars": 41166
+  },
+  {
+    "case": "mckune",
+    "url": "https://www.law.cornell.edu/supct/html/00-1187.ZC.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/mckune_00-1187.ZC.txt",
+    "chars": 12190
+  },
+  {
+    "case": "mckune",
+    "url": "https://www.law.cornell.edu/supct/html/00-1187.ZD.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/mckune_00-1187.ZD.txt",
+    "chars": 39546
+  },
+  {
+    "case": "echazabal",
+    "url": "https://www.law.cornell.edu/supct/html/00-1406.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/echazabal_00-1406.ZS.txt",
+    "chars": 6578
+  },
+  {
+    "case": "echazabal",
+    "url": "https://www.law.cornell.edu/supct/html/00-1406.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/echazabal_00-1406.ZO.txt",
+    "chars": 26286
+  },
+  {
+    "case": "traffic-stream",
+    "url": "https://www.law.cornell.edu/supct/html/01-651.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/traffic-stream_01-651.ZS.txt",
+    "chars": 5575
+  },
+  {
+    "case": "traffic-stream",
+    "url": "https://www.law.cornell.edu/supct/html/01-651.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/traffic-stream_01-651.ZO.txt",
+    "chars": 21372
+  },
+  {
+    "case": "morgan",
+    "url": "https://www.law.cornell.edu/supct/html/00-1614.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/morgan_00-1614.ZS.txt",
+    "chars": 9668
+  },
+  {
+    "case": "morgan",
+    "url": "https://www.law.cornell.edu/supct/html/00-1614.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/morgan_00-1614.ZO.txt",
+    "chars": 39547
+  },
+  {
+    "case": "morgan",
+    "url": "https://www.law.cornell.edu/supct/html/00-1614.ZX.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/morgan_00-1614.ZX.txt",
+    "chars": 10896
+  },
+  {
+    "case": "franconia",
+    "url": "https://www.law.cornell.edu/supct/html/01-455.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/franconia_01-455.ZS.txt",
+    "chars": 9688
+  },
+  {
+    "case": "franconia",
+    "url": "https://www.law.cornell.edu/supct/html/01-455.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/franconia_01-455.ZO.txt",
+    "chars": 35636
+  },
+  {
+    "case": "watchtower",
+    "url": "https://www.law.cornell.edu/supct/html/00-1737.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZS.txt",
+    "chars": 7318
+  },
+  {
+    "case": "watchtower",
+    "url": "https://www.law.cornell.edu/supct/html/00-1737.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZO.txt",
+    "chars": 35687
+  },
+  {
+    "case": "watchtower",
+    "url": "https://www.law.cornell.edu/supct/html/00-1737.ZC.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZC.txt",
+    "chars": 3752
+  },
+  {
+    "case": "watchtower",
+    "url": "https://www.law.cornell.edu/supct/html/00-1737.ZC1.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZC1.txt",
+    "chars": 2267
+  },
+  {
+    "case": "watchtower",
+    "url": "https://www.law.cornell.edu/supct/html/00-1737.ZD.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZD.txt",
+    "chars": 18682
+  },
+  {
+    "case": "barnes",
+    "url": "https://www.law.cornell.edu/supct/html/01-682.ZS.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZS.txt",
+    "chars": 4129
+  },
+  {
+    "case": "barnes",
+    "url": "https://www.law.cornell.edu/supct/html/01-682.ZO.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZO.txt",
+    "chars": 17390
+  },
+  {
+    "case": "barnes",
+    "url": "https://www.law.cornell.edu/supct/html/01-682.ZC.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZC.txt",
+    "chars": 1328
+  },
+  {
+    "case": "barnes",
+    "url": "https://www.law.cornell.edu/supct/html/01-682.ZC1.html",
+    "file": "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZC1.txt",
+    "chars": 6164
+  }
+]

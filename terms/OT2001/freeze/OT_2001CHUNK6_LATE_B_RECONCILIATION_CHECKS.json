@@ -1,0 +1,42 @@
+{
+  "justice_rows": {
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 7,
+    "Souter": 7,
+    "Thomas": 7,
+    "Ginsburg": 7,
+    "Breyer": 7
+  },
+  "tables": 7,
+  "exact_subhandoffs_in_aggregate": [
+    true,
+    true
+  ],
+  "absolute_local_paths_in_handoffs": false,
+  "original_commitments_unchanged": true,
+  "sha256": {
+    "terms/OT2001/freeze/OT_2001CHUNK6_LATE_B_JUNE10_RECONCILED.md": "a3dc104abe09a80eadf6dd820b269862c7621c7f9d7f6a3bf34f4fcd88ddb2ad",
+    "terms/OT2001/freeze/OT_2001CHUNK6_LATE_B_JUNE17_RECONCILED.md": "6de69a10e34e7ee71a1baf5a3d7e4feba73403630238bee5d50ce56f199ac496",
+    "terms/OT2001/freeze/OT_2001CHUNK6_LATE_B_RECONCILED.md": "d45a4e016527d68f50432fed5587e3f730dcf07b9a4975ba809d5c69edd88850",
+    "terms/OT2001/runtime/OT_2001CHUNK6_LATE_B_COMPARATOR.md": "4ef8e8318ae40316e87973be108e68649f2807aa503f471c467466c37ee90235",
+    "terms/OT2001/entering-law/OT_2001CHUNK6_THROUGH_MAY28_PUBLIC.md": "cfdc6ea24ebc6fbe67bf7545a4744d61f9cb9090973531e55d43297e0cad69f6",
+    "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZC.txt": "14e379608cad3b3b6577c8617f26138e8c466490fdd483783a57d1a920445ac7",
+    "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZC1.txt": "3329350b20686e624db1f4e7b556c7755ab0c54be8fe86016bd17c17d110c956",
+    "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZO.txt": "203e6ee6ad2b1a35c687b24439bc70a95537f8400a7315ac339106292ddcadf9",
+    "terms/OT2001/sources/chunk6-comparator/barnes_01-682.ZS.txt": "c486690ee43c68e9bb9604fc29f20f77100c111660a814f1988507a3b4f5c4b9",
+    "terms/OT2001/sources/chunk6-comparator/morgan_00-1614.ZO.txt": "a9f44a70d2ae94ec43f82f5b26ee8627bb6f619996f041483e4fc2d03a3be96e",
+    "terms/OT2001/sources/chunk6-comparator/morgan_00-1614.ZS.txt": "488fa7a4c7392c96f06dad0bbe927cc558da70d4e71706c6ed772c5efbb0ebc6",
+    "terms/OT2001/sources/chunk6-comparator/morgan_00-1614.ZX.txt": "890373b296f1d1d0c28018395ffb676b659bba4dd498f89b960bcef984b75432",
+    "terms/OT2001/sources/chunk6-comparator/newport_453-247.pdf": "513b07c0877b3208f23446bd4e30d22457f8d81f9d9b2887a4c3b681b68b9405",
+    "terms/OT2001/sources/chunk6-comparator/newport_453-247.txt": "2b6725f505800c998609861adca2a3942db510c943d852ad79ac98e5c80573cc",
+    "terms/OT2001/sources/chunk6-comparator/traffic-stream_01-651.ZO.txt": "b9cd8fc35ccd5caf2c4d96309f7696b85d001da5f552fa27d9b4e76ce4014d1b",
+    "terms/OT2001/sources/chunk6-comparator/traffic-stream_01-651.ZS.txt": "4365ed8a609a7714b43147a80f48eec0df7d9701a7753afa03f5caace968f514",
+    "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZC.txt": "5a15e42708d261a9680b4c2876cfb6d74aa487aac72121dd3ca0baf75ec6bd2b",
+    "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZC1.txt": "45bef3fdf0a30eb5c2163d8be99a715b02c7b625956b34b61da445c49a5dd1e3",
+    "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZD.txt": "5ed67ea69bc406c03d4de2c77aeeccad31a99b2d0c1a96d45dca1f7bc34a2992",
+    "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZO.txt": "384fc3c7dca2bacf9436bf4822f6343892363f4d8a637b029bcfa4658f538e14",
+    "terms/OT2001/sources/chunk6-comparator/watchtower_00-1737.ZS.txt": "87adaf6aa5c8de46f1b4a77398af5256c90538e6a22b256f49e5631c3c97255d"
+  }
+}

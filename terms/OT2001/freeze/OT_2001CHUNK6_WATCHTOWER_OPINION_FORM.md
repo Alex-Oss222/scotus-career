@@ -1,0 +1,7 @@
+# Watchtower — form fixed before assignment
+
+One signed opinion resolves the objective burden and insufficient fit of the broad advance registration/permit prerequisite for the reviewed noncommercial religious and political advocacy. Stone-Zsela and seven reconciled Associates support its complete lesser-standard-sufficient ground and confined relief. Thomas supports the same judgment on his distinct anonymous-speech and strict-scrutiny method, with an alternative failure-of-fit observation, and writes separately without a full method join.
+
+The common formulation omits subjective religious or patriotic refusal to obey an otherwise valid license as an independent defect, preserving Scalia's express join condition. It makes no universal anti-permit rule. The actual public registration, permit face, mandatory issuance subject to section 116.06, real commercial-fraud evidence, narrowed administration and owner-controlled section 116.07 remain distinct. The carry/display requirement is addressed only as dependent enforcement of the reviewed prerequisite.
+
+One complete holding includes the qualified rule and remedy; no part division or redundant historical concurrence is necessary. All nine reverse and remand. The eight full common-rationale joiners are eligible for the lead; Thomas's judgment support does not qualify him. No Stone fallback applies. This legal form precedes counts and author choice, and Barnes enters only the assignment count, not merits law.

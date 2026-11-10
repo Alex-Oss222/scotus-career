@@ -1,0 +1,179 @@
+# Mackby lower-court source reading
+
+Additional source lines copied to complete the reading:
+L116: 【39†¶18】
+L117: Mackby argues that the falsity of the claims submitted by Asher Clinic depends "solely upon the technical interpretation of the instructions for the claims" because the claims accurately describe physical therapy services that were actually rendered. However, the fact that physical therapy services were actually rendered does not negate Asher Clinic's false representation that Dr. Mackby performed the services described on the claim forms or that those services were rendered incident to Dr.
+L118: Mackby's supervision. It is the representation of Dr. Mackby's involvement that is "false," and that falsity is sufficient to satisfy the first element of an 【17†FCA】 claim. See Peterson, 508 F.2d at 52 (a Medicare claim may be false even if services were provided).
+L119: 【40†¶19】
+L120: Mackby also argues that to sustain an 【17†FCA】 action, a claim must be found to be false under "any plausible interpretation," citing 【41†United States v. Race】, 【42†632 F.2d 1114, 1120】 (4th Cir. 1980) and 【43†United States v. Anderson】, 【44†579 F.2d 455, 460】 (8th Cir. 1978).
+L121: These cases state that in a criminal 【17†FCA】 proceeding, when there are ambiguities as to the falseness of a claim, "the government must negative any reasonable interpretation that would make the defendant's statement factually correct." Anderson, 579 F.2d at 460. The Race and Anderson cases are distinguishable from the present case in that they are criminal cases.
+L122: In those cases, the government had to prove falsity "beyond a reasonable doubt." In contrast, the burden of proof in the present case is a "preponderance of the evidence."
+L123: 【45†¶20】
+L124: Furthermore, Anderson specifically noted that its standard applied in light of ambiguities in the language of the defendant's certifications to the government. 579 F.2d at 459-60.
+L125: And, in Race, the court held that the government in effect had conceded that the defendant's construction of the contract language was reasonable; as a result, the government could not negate "any reasonable interpretation that would make the defendant's statement factually correct." Race, 632 F.2d at 1120 (quoting Anderson, 579 F.2d at 460).
+L126: In the present case, the government did not concede that Mackby's interpretation was reasonable, and the district court did not find any ambiguity as to what Mackby claimed. The district court found that the instructions for box 24k required the PIN of the performing physician or supplier, that those for box 33 required the PIN of the billing entity and the identifying information for the physician or supplier, and that Dr. Mackby's PIN did not satisfy either requirement.
+L127: These findings by the district court are not clearly erroneous.
+L128: B. Causation
+L129: 
+L130: 【46†¶21】
+L131: 
+L132: The causation element under 【47†31 U.S.C. § 3729】 is satisfied if a person "presents, or causes to be presented," a false or fraudulent claim to the United States for payment or approval. 【32†31 U.S.C. § 3729(a)(1)】 (1994). The 【17†FCA】 reaches
+L133: 
+L134: 【48†¶22】
+L135: "any person who knowingly assisted in causing the government to pay claims which were grounded in fraud, without regard to whether that person had direct contractual relations with the government." United 【49†States ex rel. Marcus v. Hess】, 【49†317 U.S. 537, 544】-45 (1943) (emphasis added). Thus, a person need not be the one who actually submitted the claim forms in order to be liable. See 【50†United States v. Krizek】, 【51†111 F.3d 934, 942】 (D.C. Cir.
+L136: 1997) (holding that a doctor was liable for false claims prepared by his wife, where he"delegated to his wife authority to submit claims on his behalf " and "utterly" failed to review the false submissions).
+L137: 【52†¶23】
+L138: Mackby argues that by instructing Medicom, Asher Clinic's Medicare billing service, and Ms. Barnett, Asher Clinic's office manager, to use Dr. Mackby's PIN, he did not "cause" the claims to be submitted to Medicare because he did not tell Medicom or Ms. Barnett where to place Dr. Mackby's PIN number on the forms. This argument lacks merit. Mackby told Medicom and Ms. Barnett to "substitute" Dr. Mackby's PIN for Leary's. In so doing, he caused the claims to be submitted with false information.
+
+Source: https://openjurist.org/261/f3d/821
+
+L40: COUNSEL: Patric Hooper, Los Angeles, California, for the appellant.
+L41: 
+L42: Gail Killefer, Assistant United States Attorney, San Francisco, California, for the appellee.
+L43: 
+L44: Appeal from the 【14†United States District Court for the Northern District of California】, Saundra B. Armstrong, District Judge, Presiding, D.C. No. CV-98-01310-SBA
+L45: 
+L46: Before: David R. Thompson, Diarmuid F. O'Scannlain, and A. Wallace Tashima, Circuit Judges.
+L47: 
+L48: ORDER
+L49: The government's petition for rehearing is granted. The opinion filed March 21, 2001 and published at 【15†243 F.3d 1159】 (9th Cir. 2001), is withdrawn. In its stead, the panel substitutes the opinion filed contemporaneously with this order.
+L50: 
+L51: OPINION
+L52: 
+L53: THOMPSON, Circuit Judge:
+L54: 
+L55: 【16†¶1】
+L56: Peter Mackby, the owner and managing director of a physical therapy clinic called Asher Clinic, appeals the district court's civil judgment in favor of the United States under the 【17†False Claims Act】, 31 U.S.C. §§ 3729-3733 (1994).
+L57: After a three-day bench trial, the district court found that Mackby knowingly caused false claims to be submitted to Medicare between 1992 and 1996 by instructing the clinic's billing company and office manager to use his physician father's Provider Identification Number (PIN) on claim forms to bill for physical therapy services provided at the clinic.
+L58: 【18†¶2】
+L59: 
+L60: The court awarded the United States a judgment of $729,454.92, based on a $5,000 civil penalty for one Medicare beneficiary claim per patient for each patient for whom Asher Clinic submitted Medicare claims which exceeded the annual monetary limit (111 claims x $5,000 = $555,000), plus treble damages for Medicare overpayments of $58,151.64 ($58,151.64 x 3 = $174,454.92).
+L61: 
+L62: 【19†¶3】
+L63: We affirm the judgment of the district court as to the violation of the 【17†False Claims Act】, but remand to the district court for its consideration of whether the statutory penalty and the treble damages awarded are unconstitutionally excessive under the 【20†Eighth Amendment】.
+L64: 
+L65: I.
+L66: 
+L67: 【21†¶4】
+L68: The Medicare Program is administered by the United States Department of Health and Human Services, through the Health Care Financing Administration (HCFA). Medicare Part A, which is not at issue here, provides hospital insurance benefits to the elderly and disabled. Medicare Part B is a federally subsidized, voluntary insurance program that pays a portion of the cost of certain medical and other health services not covered by the Part A program, including some physical therapy services.
+L69: Reimbursement for Medicare claims is made by the United States through HCFA. HCFA, in turn, contracts with private insurance carriers to administer and pay claims from the Medicare Trust Fund. In this capacity, the carriers act as fiscal intermediaries on behalf of HCFA. The Medicare fiscal intermediary involved in this case was Blue Shield of California.
+L70: 【22†¶5】
+L71: Medicare pays for physical therapy services under Part B "when rendered by a physician, by a qualified employee of a physician or physician-directed clinic (whose services are rendered `incident-to' a physician's services), or by a qualified physical therapist in independent practice." Medicare Bulletin (Chico, CA), Mar. 1993, at 22.
+L72: A "physical therapist in independent practice" (PTIP) is defined in relevant part as one who "render[s] services free from the administrative and professional control of an employer such as a physician, institution, agency, etc." Id. at 23; see also 42 C.F.R. § 410.60(c)(1)(ii) (1996). Medicare caps the amount it will pay a PTIP on behalf of any one Medicare beneficiary in any calendar year. From 1992 through 1993, the limit was $750 per year. From 1994 through 1996, the limit was $900 per year. 42 C.F.R.
+L73: § 410.60(c)(2)(iii) & (iv) (1996). There is no payment limit on physical therapy services furnished by or under the supervision of a physician or incident to a physician's services.
+L74: 【23†¶6】
+L75: 
+L76: In 1982, defendant Peter Mackby entered into a partnership with Michael Leary, a licensed physical therapist, for the purposes of owning and operating Asher Clinic in Larkspur, California. During the partnership, Asher Clinic billed Medicare Part B for services provided to Medicare patients by various physical therapists employed by Asher Clinic, using Leary's PIN. Medicare checks were sent to Asher Clinic made payable to Michael Leary, RPT.
+L77: 
+L78: 【24†¶7】
+L79: In June 1988, Mackby bought Leary's interest in the clinic. He incorporated the business under the name "M1 Enterprises," and became the sole shareholder of the corporation as well as its President, Chief Financial Officer, Treasurer and Secretary. Mackby, a layperson, did not provide any physical therapy or other services to patients.
+L80: 
+L81: 【25†¶8】
+L82: After he assumed sole control of the clinic, Mackby instructed Medicom, the clinic's billing service, to substitute the PIN of his father, M. Judson Mackby, M.D. (Dr. Mackby), for Leary's PIN on Asher Clinic's Medicare Part B claims. Mackby also told Maridy Barnett, the clinic's office manager, to use his father's PIN in billing third-party payers, including Medicare.
+L83: 
+L84: 【26†¶9】
+L85: The court found that Dr. Mackby did not know that his PIN was being used by Asher Clinic to bill Medicare for physical therapy services. It is undisputed that Dr. Mackby never provided medical services at or for Asher Clinic, never referred any patients to the clinic and was never involved with the care or treatment of its patients. A little over a year after M1 Enterprises became the owner of Asher Clinic, Dr. Mackby became the corporation's Secretary. Before then, he had no affiliation with the clinic.
+L86: 【27†¶10】
+L87: Approximately twenty percent of Asher Clinic's patients were Medicare patients. From 1988, when Mackby's corporation became sole owner of the clinic, until 1996, Asher Clinic submitted claims to Medicare for physical therapy services using Dr. Mackby's PIN. That PIN was placed in boxes 24k and 33 of HCFA 1500, the Medicare claim form used to request reimbursement. Medicare reimbursement checks were made payable to "M. Judson Mackby, M.D." and sent to the Asher Clinic address.
+L88: Asher Clinic used a rubber endorsement stamp containing Dr. Mackby's name to endorse and deposit Medicare payments to its bank account. The Explanation of Medicare Benefits ("EOMBs") sent by Medicare to its beneficiaries identified Dr. Mackby as the rendering provider of the services. EOMBs, Medicare Bulletins and Medicare audit inquiries were sent to Asher Clinic and addressed to Dr. Mackby as well.
+L89: 【28†¶11】
+L90: 
+L91: The district court found that Mackby's testimony that he relied on the advice of a lawyer in using his father's PIN was not credible. The court further found that because Dr. Mackby's PIN was placed in boxes 24k and 33 of the reimbursement form, Medicare was led to believe that Dr. Mackby was providing the physical therapy services for which Asher Clinic was billing, or at the very least that such services were rendered "incident to" his supervision.
+L92: 
+L93: 【29†¶12】
+L94: In March 1996, Medicare wrote to Dr. Mackby using the Asher Clinic address and requested medical records for purposes of an audit. The district court found that shortly thereafter, Mackby expended considerable effort to have Asher Clinic meet the conditions of Medicare Part A eligibility as a "rehabilitation agency," which required the clinic to take on additional administrative expenses. The clinic was surveyed by Medicare in July 1996 and accepted as a rehabilitation agency in September of that year.
+L95: Thereafter, Asher Clinic no longer billed for its physical therapy services under Medicare Part B, but instead billed for such services under Part A as a "rehabilitation agency."
+L96: 【30†¶13】
+L97: 
+L98: M1 Enterprises sold Asher Clinic in May 1997 for $1,675,000. The complaint in this case was filed in March 1998, the bench trial ended with a judgment entered in March 1999, and this appeal followed. Mackby challenges his liability and the amount of the district court's money judgment. We discuss each in turn.
+L99: 
+L100: II.
+L101: 
+L102: 【31†¶14】
+L103: To establish a cause of action under the 【17†False Claims Act】 (【17†FCA】), 【32†31 U.S.C. § 3729(a)(1)】, the government must prove three elements: (1) a "false or fraudulent " claim; (2) which was presented, or caused to be presented, by the defendant to the United States for payment or approval; (3) with knowledge that the claim was false. 【32†31 U.S.C. § 3729(a)(1)】 (1994).
+L104: 
+L105: A. Falsity of Claim
+L106: 
+L107: 【33†¶15】
+L108: The parties do not dispute that a claim for Medicare payment is a "claim" under the 【17†FCA.】 See United States ex rel 【34†Aflatooni v. Kitsap Physicians Servs.】, 【34†163 F.3d 516】 (9th Cir. 1999). The 【17†FCA】 does not define what types of claims are "false." However, a claim may be false even if the services billed were actually provided, if the purported provider did not actually render or supervise the service. See 【35†Peterson v. Weinberger】, 【36†508 F.2d 45, 52】 (5th Cir.
+L109: 1975) (holding that a defendant was liable under the 【17†FCA】 although services billed to Medicare were performed by qualified people, where the claim forms falsely certified that the defendant was the provider); S. Rep. No. 99-345, at 9 (1986), reprinted in 1986 U.S.C.C.A.N. 5266, 5274 (citing Peterson to support the proposition that a false claim for Medicare reimbursement is actionable).
+L110: 【37†¶16】
+L111: According to the Medicare fiscal intermediary's bulletins, and as found by the district court, box 24k on the HCFA-1500 form is to be filled in with the assigned PIN for the performing physician or supplier. Medicare Special Notice (Medicare Publications, San Francisco, CA), Aug. 1995, at 5; Medicare Bulletin (Chico, CA), Mar. 1993, at 18.
+L112: Box 33 is for the PIN of the billing entity, which can be either an individual or group, and is labeled "Physician's, Supplier's Billing Name, Address, ZIP Code & Phone #; PIN #, GRP #. " Medicare Special Notice (Medicare Publications, San Francisco, CA), Aug. 1995, at 6; Medicare Bulletin (Chico, CA), Mar. 1993, at 19-20; HCFA-1500 (Dec. 1990). The district court found, and the parties do not dispute, that Dr. Mackby's PIN was inserted in boxes 24k and 33 on the Asher Clinic forms.
+L113: 【38†¶17】
+L114: While the purpose of box 24k is not specified on the form itself, Medicare bulletins sent to Asher Clinic state that the box is to be used for the PIN of the performing physician or supplier. Placing Dr. Mackby's PIN in box 24k indicated that Dr. Mackby was the performing physician or supplier and therefore constituted a false statement. Box 33 is clearly labeled as requiring the PIN or group number of the physician or supplier providing the treatment, and Dr. Mackby was neither of these.
+L115: Therefore, placing his PIN number in this box was a false statement as well.
+L139: Medicom and Ms. Barnett acted pursuant to Mackby's instructions, just as the doctor's wife acted pursuant to the doctor's instruction in Krizek. The causation element was established by a preponderance of the evidence.
+L140: C. Knowledge of the Claims' Falsity
+L141: 
+L142: 【53†¶24】
+L143: Under the 【17†FCA】, " `knowing' and `knowingly' mean that a person, with respect to information -(1) has actual knowledge of the information; (2) acts in 【54†deliberate ignorance】 of the truth or falsity of the information; or (3) acts in reckless disregard of the truth or falsity of the information, and no proof of specific intent to defraud is required." 【55†31 U.S.C. § 3729(b)】 (1994). See also 【56†United States ex rel. Hochman v. Nackman】, 【56†145 F.3d 1069, 1073】 (9th Cir. 1998).
+L144: "The requisite intent is the knowing presentation of what is known to be false." 【57†United States ex rel. Hagood v. Sonoma County Water 11015.Agency】, 【57†929 F.2d 1416, 1421】 (9th Cir. 1991)."Known to be false" does not mean scientifically untrue, but"a lie." United 【58†States ex rel. Anderson v. N. Telecom, Inc.】, 【58†52 F.3d 810, 815】-16 (9th Cir. 1995) (quoting 【59†Wang v. FMC Corp.】 , 【59†975 F.2d 1412, 1421】 (9th Cir. 1992)) (internal quotation marks omitted).
+L145: 【60†¶25】
+L146: 
+L147: "Protection of the public fisc requires that those who seek public funds act with scrupulous regard for the requirements of law . . . ." 【61†Heckler v. Cmty. Health Servs. of Crawford County, Inc.】, 【61†467 U.S. 51, 63】 (1984). Participants in the Medicare program have a duty to familiarize themselves with the legal requirements for payment. 【62†Id. at 64】.
+L148: 
+L149: 【63†¶26】
+L150: The evidence established that Mackby was the managing director of the clinic. He was responsible for day-to-day operations, long-term planning, lease and build-out negotiations, personnel, and legal and accounting oversight. It was his obligation to be familiar with the legal requirements for obtaining reimbursement from Medicare for physical therapy services, and to ensure that the clinic was run in accordance with all laws.
+L151: His claim that he did not know of the Medicare requirements does not shield him from liability. By failing to inform himself of those requirements, particularly when twenty percent of Asher Clinic's patients were Medicare beneficiaries, he acted in reckless disregard or in deliberate ignorance of those requirements, either of which was sufficient to charge him with knowledge of the falsity of the claims in question.
+L152: See Krizek, 【51†111 F.3d at 942】 (in failing "utterly" to review false submissions prepared by his wife, doctor acted with reckless disregard).
+L153: 【64†¶27】
+L154: Mackby argues he did not disregard the truth or falsity of the claims, but rather asked Ms. Barnett, his office manager, to contact Medicare in 1988 when he bought the business from Leary, to find out the appropriate payment rules. In addition, Mackby points out, in 1991 Ms. Barnett inquired about changing Asher Clinic's billing number to that of a physical therapist who worked at the clinic, a request which was denied by Blue Shield, the clinic's Medicare fiscal intermediary.
+L155: She made a second request in 1995, which was also denied. These arguments do not negate the fact that Mackby was required to operate Asher Clinic in a legal manner at all times. The clinic's sporadic efforts to change its billing practices does not justify the clinic's eight year improper use of Dr. Mackby's PIN on Medicare claim forms.
+L156: 【65†¶28】
+L157: Mackby also argues he had no wrongful motive in representing that his father provided the services reflected on the claim forms. He points out that because Blue Shield believed the physical therapy services were provided by a physician, it did not inform the clinic when the physical therapy cap for PTIPs had been reached for particular patients. Therefore, he argues, Asher Clinic was actually deprived of the opportunity to bill its patients at its full rates. This argument fails.
+L158: If Asher Clinic had been held to the billing cap and had tried to bill its patients directly for amounts in excess of the cap, the patients could have, and it seems reasonable that they very well would have, left to seek services from physicians or physician-run clinics where the cap did not apply, so that they could receive Medicare benefits covering the full amount of physical therapy services, rather than pay Asher Clinic out of their own pockets the amounts billed in excess of the cap.
+L159: 【66†¶29】
+L160: Mackby's argument that he had no motive to present false claims because he could have easily given an ownership interest to one of Asher Clinic's physical therapists also fails. Even if giving a physical therapist an ownership interest in the clinic could have qualified Asher Clinic for Medicare billing as a PTIP, that status would have required a cap on reimbursement. In contrast, Asher Clinic's status as an apparently physician-run practice enabled it to avoid the cap altogether.
+L161: The district court did not clearly err by finding that Mackby knowingly presented false Medicare claims.
+L162: 【67†¶30】
+L163: 
+L164: Because the evidence established all of the elements of Mackby's violation of the 【17†FCA】, the district court properly concluded that he violated 【17†that statute】. We turn next to a consideration of the district court's computation of the money judgment, and whether the amount of that judgment violates the Excessive Fines Clause of the 【20†Eighth Amendment】.
+L165: 
+L166: 【68†¶31】
+L167: 
+L168: D. Application of the Excessive Fines Clause
+L169: 
+L170: 【69†¶32】
+L171: In its money judgment, the district court included a civil penalty of $555,000. Mackby contends this penalty violates the Excessive Fines Clause of the 【20†Eighth Amendment】.
+L172: 
+L173: 【70†¶33】
+L174: A fine is unconstitutionally excessive if (1) the payment to the government constitutes punishment for an offense, and (2) the payment is grossly disproportionate to the gravity of the defendant's offense. 【71†United States v. Bajakajian】, 【72†524 U.S. 321, 327】-28, 334 (1998). Bajakajian did not deal with a 【73†civil sanction】 but rather with the criminal forfeiture of property involved in the unreported transportation of over $10,000 in currency out of the country.
+L175: However, prior to Bajakajian, the Supreme Court held that civil fines fall within the scope of the 【20†Eighth Amendment】. See 【74†Hudson v. United States】, 【74†522 U.S. 93, 103】 (1997) ("The 【20†Eighth Amendment】 protects against excessive civil fines, including forfeitures.") (citing 【75†Alexander v. United States】 , 【75†509 U.S. 544】 (1993) and 【10†Austin v. United States】, 【10†509 U.S. 602】 (1993)).
+L176: In addition, we have applied the first part of Bajakajian's rule, examining the punitive or remedial nature of a penalty, to civil sanctions. See 【76†Louis v. Comm'r of Internal Revenue】, 【77†170 F.3d 1232, 1236】 (9th Cir. 1999) (quoting Austin , 【78†509 U.S. at 610】, and citing Bajakajian, 【79†524 U.S. at 329】 n.4).
+L177: We have held that "a civil sanction that cannot fairly be said solely to serve a remedial purpose, but rather can only be explained as also serving either retributive or deterrent purposes, is punishment." 【80†Wright v. Riveland】, 【80†219 F.3d 905, 915】 (quoting Austin, 【78†509 U.S. at 610】).
+L178: In determining whether a civil sanction is punitive or remedial, "the court considers factors such as the language of the statute creating the sanction, the sanction's purpose(s), the circumstances in which the sanction can be imposed, and the historical understanding of the sanction." Louis, 【81†170 F.3d at 1236】 (citing Bajakajian , 524 U.S. at 32732).
+L179: 【82†¶34】
+L180: The language of the 【17†FCA】 does not specify whether its sanction of $5,000 to $10,000 per claim is meant to be punitive or remedial. See 31 U.S.C. §§ 3729-3733 (1994). However, the sanction clearly has a punitive purpose. No damages to the government need be shown. Hagood, 929 F.2d at 1421 (citing 【83†Rex Trailer Co. v. United States】, 【84†350 U.S. 148, 153】 n.5 (1956)).
+L181: Furthermore, in addition to the sanction, treble damages are recoverable, demonstrating that the sanction's purpose is not to provide a form of damages.
+L182: See Wright, 【85†219 F.3d at 915】 (stating that deductions from inmates' funds which were made "regardless of whether an inmate committed an offense for which restitution is appropriate and regardless of whether the inmate had already been ordered to pay court-ordered restitution at sentencing" served the goal of deterrence and therefore constituted punishment for Excessive Fines Clause purposes).
+L183: In addition, the legislative history of the 【86†False Claims Amendments】 Act of 1986 indicates that the statute has a deterrent purpose. For example, the Senate Report states that the 【17†FCA】 "is a much more powerful tool in deterring fraud" than common-law contract remedies. S. Rep. No. 99-345, at 4 (1986), reprinted in 1986 U.S.C.C.A.N. 5266, 5269.
+L184: 【87†¶35】
+L185: The fact that the 【17†FCA】's purpose is at least in part punitive has been recognized by the Supreme Court. In 【88†United States v. Bornstein】, 【88†423 U.S. 303, 309】 n.5 (1976) (citations omitted), the Court stated, "According to its sponsor, the 【17†False Claims Act】 was adopted `for the purpose of punishing and preventing . . . frauds.' " Additionally, in Austin , 509 U.S.
+L186: at 619, the Court noted that an "innocent owner" defense was one factor in the Court's determination that the statute in question was in part punitive and therefore subject to the Excessive Fines Clause.
+L187: 【89†¶36】
+L188: We conclude the civil sanctions provided by the 【17†False Claims Act】 are subject to analysis under the Excessive Fines Clause because the sanctions represent a payment to the government, at least in part, as punishment. Inquiry must be made, therefore, to determine whether the payment required by the district court is so grossly disproportionate to the gravity of Mackby's violation as to violate the 【20†Eighth Amendment】. See Bajakajian, 524 U.S. at 327-28, 334.
+L189: For purposes of that inquiry, the record must be further developed by the district court. For example, one of the factors to be considered is whether a fine as large as that imposed by the district court is required to achieve the desired deterrence. That and other factors that may be relevant to the inquiry should be addressed in the first instance by the district court.
+L190: Accordingly, we remand this case to the district court for a determination of whether the $555,000 fine was unconstitutionally excessive. See Wright, 219 F.3d at 918-19 (remanding to the district court for a "fact-intensive inquiry" to determine the issue of excessiveness).
+L191: 【90†¶37】
+L192: That brings us to the final issue whether the district court's treble damage award is also subject to an Excessive Fines Clause analysis. Although the Supreme Court has not directly addressed the question whether treble damages under the 【17†FCA】 are punitive, thus requiring an Excessive Fines Clause analysis, it has stated that "[t]he very idea of treble damages reveals an intent to punish past, and deter future, unlawful conduct." Texas Indus., 【91†Inc. v. Radcliff Materials, Inc.】, 【91†451 U.S.
+L193: 630, 639】 (1981). Although that statement was made in the context of an antitrust case, it was later cited by the 【92†Supreme Court in Vermont Agency of Natural Res. v. United States ex rel. Stevens】, 【92†529 U.S. 765, 784】-86, 【93†120 S. Ct. 1858, 1869】-70 (2000), to support the Court's argument that treble damages under the 【17†FCA】, at least in combination with the Act's civil penalty provision, are "essentially punitive in nature," for the purposes of determining state liability in a quitam suit.
+L194: 【94†¶38】
+L195: Moreover, the Supreme Court has held numerous times that treble damages pursuant to antitrust statutes are not purely remedial. See, e.g., 【8†Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth】, Inc., 【95†473 U.S. 614, 635】 (1985) ("The treble-damages provision wielded by the private litigant is a chief tool in the antitrust enforcement scheme, posing a crucial deterrent to potential violators," citing 【96†Perma Life Mufflers, Inc. v. Int'l Parts Corp.】, 【97†392 U.S. 134, 138】-39 (1968)); Am.
+L196: Soc' y of Mech. Eng'rs, 【98†Inc. v. Hydrolevel Corp.】 , 【98†456 U.S. 556, 575】 (1982) ("[A]ntitrust treble damages were designed in part to punish past violations of the antitrust laws . . . . [T]reble damages were also designed to deter future anti-trust violations.") (citing Texas Indus., 【99†451 U.S. at 639】). 【100†But cf. Atlantic Richfield Co. v. USA Petroleum Co.】, 【101†495 U.S. 328, 331】 n.1 (1990) (stating that the treble damages provision of the 【102†Clayton Act】 is a "remedial provision").
+L197: 【103†¶39】
+L198: 
+L199: We conclude that the 【17†FCA】's treble damages provision, at least in combination with the Act's statutory penalty provision, is not solely remedial and therefore is subject to an Excessive Fines Clause analysis under the 【20†Eighth Amendment】. Accordingly, we remand to the district court for its consideration the question whether a treble damage award in this case would be unconstitutionally excessive. See Wright, 219 F.3d at 918-19.
+L200: 
+L201: 【104†¶40】
+L202: In remanding this case to the district court to apply an excessive fines analysis to the civil penalty and treble damages portions of the case, we recognize that the amount of the civil penalty and the amount of treble damages need not be considered in isolation as if the other did not exist. To the contrary, the amount of one will no doubt bear upon the district court's excessive fines analysis with regard to the other.
+L203: We express no opinion as to whether such an analysis would be appropriate in a case where only treble damages were awarded, or where the civil penalty was not of such a substantial magnitude as it presently is in this case.
+L204: III.
+L205: 
+L206: 【105†¶41】
+L207: 
+L208: The district court's finding that Mackby violated the 【17†False Claims Act】 is AFFIRMED. The case is REMANDED to the district court for further development of the record to determine whether the civil penalty and treble damages presently contained in the district court's judgment violate the Excessive Fines Clause of the 【20†Eighth Amendment】. Each party shall bear its own costs for this appeal.
+L209: 
+L210: 【106†¶42】
+L211: 
+L212: AFFIRMED in part and REMANDED.

@@ -1,0 +1,721 @@
+{
+  "before_date": "2002-06-17",
+  "before_case": "Barnes v. Gorman",
+  "counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 9,
+    "O'Connor": 10,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 9,
+    "Thomas": 10,
+    "Ginsburg": 9,
+    "Breyer": 10
+  },
+  "last_event_counted": {
+    "date": "2002-06-10",
+    "case": "United States v. Farmer; review of 274 F.3d 800 (4th Cir. 2001). No Supreme Court docket supplied.",
+    "file": "united-states-v-farmer_merits_2002-06-10.md",
+    "authors": [
+      "Kennedy"
+    ]
+  },
+  "counted": [
+    {
+      "date": "2001-11-13",
+      "case": "Brown v. City of Oneonta; 221 F.3d 329 (2d Cir. 2000); no Supreme Court docket supplied",
+      "file": "brown-v-city-of-oneonta_merits_2001-11-13.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2001-11-13",
+      "case": "TRW Inc. v. Andrews; No. 00-1045",
+      "file": "trw-inc-v-andrews_merits_2001-11-13.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2001-11-13",
+      "case": "United States Postal Service v. Gregory; No. 00-758",
+      "file": "united-states-postal-service-v-gregory_merits_2001-11-13.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Chickasaw Nation v. United States; No. 00-507; Chickasaw and Choctaw Nations",
+      "file": "chickasaw-nation-v-united-states_merits_2001-11-27.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Church of Scientology International v. Behar; 238 F.3d 168 (2d Cir. 2001); no Supreme Court docket supplied",
+      "file": "church-of-scientology-international-v-behar_merits_2001-11-27.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Correctional Services Corp. v. Malesko; No. 00-860",
+      "file": "correctional-services-corp-v-malesko_merits_2001-11-27.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2001-12-10",
+      "case": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.; No. 99-1996",
+      "file": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2001-12-10",
+      "case": "Schrader v. Blackwell; 241 F.3d 783 (6th Cir. 2001)",
+      "file": "schrader-v-blackwell_merits_2001-12-10.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2001-12-10",
+      "case": "United States v. Knights; No. 00-1260",
+      "file": "united-states-v-knights_merits_2001-12-10.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Dusenbery v. United States; No. 00-6567",
+      "file": "dusenbery-v-united-states_merits_2002-01-08.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Great-West Life & Annuity Insurance Co. v. Knudson; No. 99-1786",
+      "file": "great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Searles v. Van Bebber; 251 F.3d 869 (10th Cir. 2001)",
+      "file": "searles-v-van-bebber_merits_2002-01-08.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Toyota Motor Manufacturing, Kentucky, Inc. v. Williams; No. 00-1089",
+      "file": "toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-01-09",
+      "case": "Chao v. Mallard Bay Drilling, Inc.; No. 00-927",
+      "file": "chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-01-09",
+      "case": "Kelly v. South Carolina; No. 00-9280; 534 U.S. 246.",
+      "file": "kelly-v-south-carolina_merits_2002-01-09.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-01-09",
+      "case": "Riley v. St. Luke's Episcopal Hospital; 252 F.3d 749 (5th Cir. 2001) (en banc); no Supreme Court docket supplied.",
+      "file": "riley-v-st-lukes-episcopal-hospital_merits_2002-01-09.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-01-15",
+      "case": "EEOC v. Waffle House, Inc.; No. 99-1823; 534 U.S. 279.",
+      "file": "eeoc-v-waffle-house-inc_merits_2002-01-15.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-01-15",
+      "case": "In re Cybernetic Services, Inc.; 252 F.3d 1039 (9th Cir. 2001); no Supreme Court docket supplied.",
+      "file": "in-re-cybernetic-services-inc_merits_2002-01-15.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-01-15",
+      "case": "Thomas v. Chicago Park District; No. 00-1249; 534 U.S. 316.",
+      "file": "thomas-v-chicago-park-district_merits_2002-01-15.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-01-15",
+      "case": "United States v. Arvizu; No. 00-1519; 534 U.S. 266.",
+      "file": "united-states-v-arvizu_merits_2002-01-15.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-01-16",
+      "case": "National Cable & Telecommunications Assn., Inc. v. Gulf Power Co.; Nos. 00-832 and 00-843",
+      "file": "national-cable-telecommunications-assn-inc-v-gulf-power-co_merits_2002-01-16.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-01-22",
+      "case": "Kansas v. Crane; No. 00-957",
+      "file": "kansas-v-crane_merits_2002-01-22.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-01-22",
+      "case": "Lee v. Kemna; No. 00-6933",
+      "file": "lee-v-kemna_merits_2002-01-22.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-01-22",
+      "case": "United States v. Microsoft Corp.; D.C. Circuit Nos. 00-5212 and 00-5213; no Supreme Court docket supplied",
+      "file": "united-states-v-microsoft-corp_merits_2002-01-22.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Barnhart v. Sigmon Coal Co.; No. 00-1307",
+      "file": "barnhart-v-sigmon-coal-co_merits_2002-02-19.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Igartua De La Rosa v. United States; 229 F.3d 80 (1st Cir. 2000); no Supreme Court docket supplied",
+      "file": "igartua-de-la-rosa-v-united-states_merits_2002-02-19.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Owasso Independent School District No. I-011 v. Falvo; No. 00-1073",
+      "file": "owasso-independent-school-district-no-i-011-v-falvo_merits_2002-02-19.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Romeu v. Cohen; 265 F.3d 118 (2d Cir. 2001); lower-court Nos. 00-6287 and 00-6303",
+      "file": "romeu-v-cohen_merits_2002-02-19.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-02-20",
+      "case": "Winn-Dixie Stores, Inc. v. Commissioner; 254 F.3d 1313 (11th Cir. 2001); Tax Court No. 05382-97; no Supreme Court docket supplied",
+      "file": "winn-dixie-stores-inc-v-commissioner_merits_2002-02-20.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-02-20",
+      "case": "Wisconsin Department of Health and Family Services v. Blumer; No. 00-952",
+      "file": "wisconsin-department-of-health-and-family-services-v-blumer_merits_2002-02-20.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-02-26",
+      "case": "Porter v. Nussle; No. 00-853",
+      "file": "porter-v-nussle_merits_2002-02-26.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-02-26",
+      "case": "Swierkiewicz v. Sorema N.A.; No. 00-1853",
+      "file": "swierkiewicz-v-sorema-na_merits_2002-02-26.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-02-27",
+      "case": "Guest v. Leis; consolidated Sixth Circuit subscriber appeals reported at 255 F.3d 325; no Supreme Court docket supplied.",
+      "file": "guest-v-leis_merits_2002-02-27.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-02-27",
+      "case": "Raygor v. Regents of University of Minnesota; No. 00-1514.",
+      "file": "raygor-v-regents-of-university-of-minnesota_merits_2002-02-27.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-03-04",
+      "case": "Delaney v. DeTella; reviewed Seventh Circuit No. 00-4145; 256 F.3d 679",
+      "file": "delaney-v-detella_merits_2002-03-04.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-03-04",
+      "case": "New York v. FERC / Enron Power Marketing, Inc. v. FERC; Nos. 00-568 and 00-809; 535 U.S. 1",
+      "file": "new-york-v-ferc-enron-power-marketing-inc-v-ferc_merits_2002-03-04.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-03-04",
+      "case": "Ruiz v. United States (Ruiz v. Johnson); Fifth Circuit No. 99-20228; 243 F.3d 941; no Supreme Court docket supplied.",
+      "file": "ruiz-v-united-states-ruiz-v-johnson_merits_2002-03-04.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-03-04",
+      "case": "United States v. Vonn; No. 00-973; 535 U.S. 55",
+      "file": "united-states-v-vonn_merits_2002-03-04.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-03-04",
+      "case": "Young v. United States; No. 00-1567; 535 U.S. 43",
+      "file": "young-v-united-states_merits_2002-03-04.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Edelman v. Lynchburg College; No. 00-1072.",
+      "file": "edelman-v-lynchburg-college_merits_2002-03-19.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Milstein v. Cooley; Ninth Circuit No. 99-56682; 257 F.3d 1004.",
+      "file": "milstein-v-cooley_merits_2002-03-19.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Ragsdale v. Wolverine World Wide, Inc.; No. 00-6029.",
+      "file": "ragsdale-v-wolverine-world-wide-inc_merits_2002-03-19.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Zahrey v. Coffey; 221 F.3d 342 (2d Cir. 2000); no Supreme Court docket supplied.",
+      "file": "zahrey-v-coffey_merits_2002-03-19.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-03-26",
+      "case": "Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker; Nos. 00-1770 and 00-1781.",
+      "file": "department-of-housing-and-urban-development-v-rucker-oakland-housing-authority-v-rucker_merits_2002-03-26.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-03-26",
+      "case": "S.S. ex rel. Jervis v. McMullen; reviewed judgment, 225 F.3d 960 (8th Cir. 2000); no Supreme Court docket supplied.",
+      "file": "s-s-ex-rel-jervis-v-mcmullen_merits_2002-03-26.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Barnhart v. Walton; No. 00-1937",
+      "file": "barnhart_v_walton_merits_2002-03-27.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Hoffman Plastic Compounds, Inc. v. NLRB; No. 00-1595.",
+      "file": "hoffman-plastic-compounds-inc-v-nlrb_merits_2002-03-27.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Mickens v. Taylor; No. 00-9285",
+      "file": "mickens_v_taylor_merits_2002-03-27.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-04-01",
+      "case": "Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas; 257 F.3d 937",
+      "file": "venetian_casino_resort_v_local_joint_executive_board_merits_2002-04-01.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-04-16",
+      "case": "Ashcroft v. Free Speech Coalition, No. 00-795",
+      "file": "ashcroft_v_free_speech_coalition_merits_2002-04-16.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-04-17",
+      "case": "United States v. Craft, No. 00-1831",
+      "file": "united_states_v_craft_merits_2002-04-17.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-04-23",
+      "case": "A&M Records, Inc. v. Napster, Inc.; review of 239 F.3d 1004",
+      "file": "a_and_m_records_v_napster_merits_2002-04-23.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-04-23",
+      "case": "Michigan v. Environmental Protection Agency; review of 213 F.3d 663",
+      "file": "michigan_v_environmental_protection_agency_merits_2002-04-23.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-04-23",
+      "case": "Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, No. 00-1167",
+      "file": "tahoe_sierra_preservation_council_v_tahoe_regional_planning_agency_merits_2002-04-23.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-04-23",
+      "case": "Universal City Studios, Inc. v. Corley; review of 273 F.3d 429",
+      "file": "universal_city_studios_v_corley_merits_2002-04-23.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-04-29",
+      "case": "Thompson v. Western States Medical Center; No. 01-344.",
+      "file": "thompson_v_western_states_medical_center_merits_2002-04-29.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-04-29",
+      "case": "US Airways, Inc. v. Barnett; No. 00-1250.",
+      "file": "us_airways_v_barnett_merits_2002-04-29.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Ashcroft v. American Civil Liberties Union; No. 00-1293; 535 U.S. 564.",
+      "file": "ashcroft_v_aclu_merits_2002-05-13.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-05-13",
+      "case": "City of Los Angeles v. Alameda Books, Inc.; No. 00-799.",
+      "file": "city_of_los_angeles_v_alameda_books_merits_2002-05-13.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Henderson v. Norris; reviewed Eighth Circuit No. 00-2203, 258 F.3d 706 (2001); no Supreme Court docket supplied.",
+      "file": "henderson_v_norris_merits_2002-05-13.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Lapides v. Board of Regents of University System of Georgia; No. 01-298; 535 U.S. 613.",
+      "file": "lapides_v_board_of_regents_merits_2002-05-13.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Verizon Communications Inc. v. FCC; Nos. 00-511, 00-555, 00-587, 00-590 and 00-602; 535 U.S. 467.",
+      "file": "verizon_communications_v_fcc_merits_2002-05-13.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Voting Integrity Project, Inc. v. Keisling; reviewed judgment 259 F.3d 1169 (9th Cir. 2001); no Supreme Court docket supplied.",
+      "file": "voting_integrity_project_v_keisling_merits_2002-05-13.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Alabama v. Shelton; No. 00-1214; 535 U.S. 654.",
+      "file": "alabama_v_shelton_merits_2002-05-20.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Brown v. Gilmore; reviewed judgment 258 F.3d 265 (4th Cir. 2001); no Supreme Court docket supplied.",
+      "file": "brown_v_gilmore_merits_2002-05-20.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-05-20",
+      "case": "United States v. Cotton; No. 01-687; 535 U.S. 625.",
+      "file": "united_states_v_cotton_merits_2002-05-20.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Verizon Maryland Inc. v. Public Service Commission of Maryland; United States v. Public Service Commission of Maryland; Nos. 00-1531 and 00-1711; 535 U.S. 635.",
+      "file": "verizon_maryland_v_public_service_commission_merits_2002-05-20.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Bell v. Cone; No. 01-400; 535 U.S. 685.",
+      "file": "Bell_v_Cone_Merits_2002-05-28.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Compaq Computer Corp. v. Commissioner; review of 277 F.3d 778 (5th Cir. 2001), No. 00-60648. No Supreme Court docket is assigned in the supplied record.",
+      "file": "compaq-computer-corp-v-commissioner_merits_2002-05-28.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Federal Maritime Commission v. South Carolina State Ports Authority; No. 01-46; 535 U.S. 743.",
+      "file": "Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.; No. 00-1543; 535 U.S. 722.",
+      "file": "Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Gisbrecht v. Barnhart; No. 01-131; 535 U.S. 789.",
+      "file": "Gisbrecht_v_Barnhart_Merits_2002-05-28.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "In re Prudential Insurance Co. of America Sales Practice Litigation; review of 261 F.3d 355 (3d Cir. 2001). No Supreme Court docket supplied.",
+      "file": "In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-05-28",
+      "case": "South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied.",
+      "file": "South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-06-03",
+      "case": "Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.; No. 01-408.",
+      "file": "holmes-group-inc-v-vornado-air-circulation-systems-inc_merits_2002-06-03.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-06-03",
+      "case": "SEC v. Zandford; No. 01-147.",
+      "file": "sec-v-zandford_merits_2002-06-03.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-06-03",
+      "case": "United States v. Mackby; review of 261 F.3d 821 (9th Cir. 2001), No. 99-15605. No Supreme Court docket is supplied.",
+      "file": "united-states-v-mackby_merits_2002-06-03.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "Chevron U.S.A. Inc. v. Echazabal; No. 00-1406.",
+      "file": "chevron-usa-inc-v-echazabal_merits_2002-06-10.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "Devlin v. Scardelletti; No. 01-417.",
+      "file": "devlin-v-scardelletti_merits_2002-06-10.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "Franconia Associates v. United States; No. 01-455; related specified Grass Valley petitioners; reviewed Federal Circuit Nos. 99-5123 and 00-5094.",
+      "file": "franconia-associates-v-united-states_merits_2002-06-10.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "JPMorgan Chase Bank v. Traffic Stream (BVI) Infrastructure Ltd.; No. 01-651.",
+      "file": "jpmorgan-chase-bank-v-traffic-stream-bvi-infrastructure-ltd_merits_2002-06-10.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "McKune v. Lile; No. 00-1187.",
+      "file": "mckune-v-lile_merits_2002-06-10.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "National Railroad Passenger Corp. v. Morgan; No. 00-1614.",
+      "file": "national-railroad-passenger-corp-v-morgan_merits_2002-06-10.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "United States v. Bollin; Gormley's asset-restraint component; review of 264 F.3d 391 (4th Cir. 2001). No Supreme Court docket supplied.",
+      "file": "united-states-v-bollin_merits_2002-06-10.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "United States v. Faasse; review of 265 F.3d 475 (6th Cir. 2001) (en banc). No Supreme Court docket supplied.",
+      "file": "united-states-v-faasse_merits_2002-06-10.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2002-06-10",
+      "case": "United States v. Farmer; review of 274 F.3d 800 (4th Cir. 2001). No Supreme Court docket supplied.",
+      "file": "united-states-v-farmer_merits_2002-06-10.md",
+      "authors": [
+        "Kennedy"
+      ]
+    }
+  ],
+  "excluded_nonleads": [
+    "adams_v_florida_power_corp_dig_2002-04-01.md",
+    "adarand-constructors-inc-v-mineta_dig_2001-11-27.md",
+    "mathias_v_worldcom_technologies_dig_2002-05-20.md",
+    "nebraska-v-wyoming_decree_2001-11-13.md",
+    "sao_paulo_v_american_tobacco_summary_2002-04-01.md",
+    "steele_v_hamilton_county_dig_2002-03-27.md"
+  ]
+}

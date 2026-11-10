@@ -1,0 +1,2736 @@
+Rus, 09, Bort OO | RE 
+
+
+No. 00-1614 AUG 29 2001 
+OFFICE OF TH? CLERK 
+IN THE 
+Supreme Court of the Anited States 
+
+
+NATIONAL RAILROAD PASSENGER CORPORATION, 
+
+
+Petitioner, 
+Vv . 
+
+
+ABNER MORGAN, JR.., - 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+
+
+United States Court of Appeals 
+for the Ninth Circuit 
+
+BRIEF FOR PETITIONER 
+MELISSA B. ROGERS ROY T. ENGLERT, JR. * 
+NATIONAL RAILROAD ROBBINS, RUSSELL, ENGLERT, 
+
+PASSENGER CORPORATION ORSECK & UNTEREINER LLP 
+60 Massachusetts Ave., N.E. 1801 K Street, N.W. 
+Washington, D.C. 20002 Suite 411 
+(202) 906-3191 Washington, D.C. 20006 
+(202) 775-4503 
+
+
+* Counsel of Record 
+
+
+Counsel for Petitioner 
+
+
+WILSON-EPES PRINTING Co., INC. — (202) 789-0096 — WASHINGTON, D.C. 20001 
+
+
+® Ee: 20 sp 
+
+
+\\ \ 
+\y 
+
+
+QUESTION PRESENTED 
+
+
+Whether the United States Court of Appeals for the Ninth 
+Circuit correctly held that a plaintiff who has knowingly 
+allowed the statute of limitations to lapse on alleged violations 
+of federal anti-discrimination statutes may nevertheless sue on 
+such time-barred claims whenever incidents within the 
+limitations period are “sufficiently related” to the otherwise 
+time-barred claims. 
+
+
+ii 
+RULE 14.1(b) AND 29.6 STATEMENT 
+
+
+The following are the parties to the proceeding in the 
+United States Court of Appeals for the Ninth Circuit: 
+
+
+1. National Railroad Passenger Corporation, a federally 
+chartered corporation, dba Amtrak, defendant-appellee; 
+and 
+
+
+2. Abner Morgan, Jr., plaintiff-appellant. 
+
+
+Petitioner National Railroad Passenger Corporation is fed- 
+erally chartered and is not a publicly traded corporation. The 
+United States of America owns 100% of the preferred shares 
+under the name of the Secretary of Transportation. The follow- 
+ing companies each own10% or more of the corporation’s com- 
+mon stock: Burlington Northern Santa Fe Corporation and 
+American Premier Underwriters (successor to the Penn Central 
+Railroad). 
+
+
+TABLE OF CONTENTS 
+
+Page 
+iD acocesecccececceccoescoces i 
+RULE 14.1(b) AND 29.6 STATEMENT .............. il 
+TABLE OF AUTHORITIES ............20eceeeeeees v 
+TT cckdneceaddeeecoccceccoceccece l 
+DTT Detcb ee eeoeeefegeoccccceccocccces l 
+STATUTORY PROVISION INVOLVED ............. l 
+hs cee e cease edecsececcoccceecces l 
+SUMMARY OF ARGUMENT .............6.055005: 8 
+ie teceeesseeeeseetcececececes 10 
+
+
+I. IN A TITLE Vil CASE, A CAUSE OF ACTION 
+ACCRUES AND SECTION 706(e)’s LIMITATIONS 
+PERIOD RUNS FROM THE DATE OF THE 
+DISCRETE ALLEGEDLY DISCRIMINATORY ACT 
+
+
+Serves Important Purposes ................. 10 
+
+
+B. A Title VII Cause of Action Accrues and Section 
+706(e)’s Limitations Period Is Triggered By a 
+Discrete Adverse Employment Act ........... 14 
+
+
+C. Title VII’s Notice Accrual Rule Is Consistent With 
+The Traditional Federal Discovery Accrual 
+en ccc ccccoceces 22 
+
+
+iv 
+
+
+1. The Traditional Federal Discovery Accrual Rule 
+Applies To Cases Arising Under the NLRA 23 
+
+
+2. The Court Has Rejected Less Demanding Accrual 
+Rules In the Context of Civil RICO Cases... 25 
+
+
+D. The Ninth Circuit’s “Sufficiently Related” Test 
+Ignores Title VII's Notice Accrual Rule ....... 29 
+
+
+II THE CONTINUING VIOLATION DOCTRINE IS 
+APPLICABLE, IF AT ALL, ONLY IN CASES 
+INVOLVING HOSTILE ENVIRONMENT 
+CERES cccccccvcccccesccccecsccscesesceess 30 
+
+
+A. Equitable Tolling Doctrines, Including the 
+Continuing Violation Doctrine, Extend the 
+Limitations Period In Rare Cases ............ 31 
+
+
+B. The Continuing Violation Doctrine Should Apply 
+Only In Hostile Environment Cases Where The 
+Plaintiff Reasonably Did Not Know The Conduct Was 
+Discriminatory Or Where The Discriminatory Nature 
+Of The Conduct Is Recognized As Discriminatory 
+Only In Light Of Later Occurring Events ...... 38 
+
+
+1. The “Notice” Limitation On The Continuing 
+Violation Doctrine Is Consistent With The Notice 
+Accrual Rule, Effectuates Title VII’s Remedial 
+Purpose Of Eradicating Discrimination, And 
+Results In Predictable Outcomes ......... 40 
+
+
+2. The Ninth Circuit’s “Sufficiently Related” Test 
+Cannot Be Reconciled With The Court’s 
+ES ee 
+
+Vil Cases, Undermines Title VII's Remedial 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+Page(s) 
+Cases 
+Albemarle Paper Co. v. Moody, 422 U.S. 405 (1975) . 24, 28 
+
+
+Alexander v. Gardner-Denver Co., 
+
+
+SPE nab ckubandedéceceaveswes passim 
+Alldread v. City of Grenada, 988 F.2d 1425 
+
+Dt vckachieekenauneseitaddecedees 32 
+Amini v. Oberlin Coll., _F.3d___, 
+
+2001 WL 867422 (6th Cir. Aug. 2,2001) ...... 15, 32 
+Anderson v. Reno, 190 F.3d 930 (9th Cir. 1999) ...... 7, 47 
+Ansom v. Hiram Walker & Sons, Inc., 
+
+248 F.26 300 (7a Cir. 1957) 2... cc ccccccccess 23, 24 
+Armco Inc. v. NLRB, 83 F.3d 357 (6th Cir. 1988) ....... 23 
+Ashley v. Boyle's Famous Corned Beef Co., 
+
+SE EEE cocosecescsococccces 15 
+Baldwin County Welcome Center v. Brown, 
+
+SE En dncncécnccetcesceece 6 32, 33 
+Bazemore v. Friday, 478 U.S. 385 (1986) ........ 8, 19, 21 
+Benson v. General Motors Co., 
+
+po Be eee 23 
+Berry v. Board of Supervisors, 
+
+715 F.2d 971 (Sth Cir. 1983) ........... 6, 39, 45, 46 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Bosley v. Merit Systems Protection Bd., 
+BGS PSO GES Bae. Gat TREE cccccccccccscccccs 39 
+Bullington v. United Air Lines, Inc., 
+186 F.3d 1301 (10th Cir. 1999) ............0006. 15 
+Burlington Indus. v. Ellerth, . 
+PE PEED o vaccdScscacececvenas 7, 28, 48 
+
+
+Burnett v. New York Central R.R., 380 U.S. 424 (1965) .. 12 
+
+
+Cada v. Baxter Healthcare Corp., 920 F.2d 446 
+CREBGER, TEED ccccccccccccccedeccccccsceeses 32 
+
+
+Caminetti v. United States, 242 U.S. 470 (1917) ........ 13 
+
+
+Cedeck v. Hamiltonian Federal Savings and Loan Ass'n, 
+551 F.2d 1136 (8th Cir. 1977) .......... cee eenes 31 
+
+
+Chardon v. Fernandez, 454 U.S.6(1981) ... 14, 30,35, 36 
+
+
+Cox v. United States Gypsum Co., 409 F.2d 289 
+CG GRD ccc decndcnesedccenchanesétione 31 
+
+
+Crown, Cork & Seal Co. v. Parker, 462 U.S. 345 (1983) . 34 
+
+
+Dasgupta v. University of Wisconsin Bd. of Regents, 
+121 F.2d 1138 (7th Cir. 1997) .........20ceeeees 44 
+
+
+Delaware State Coll. v. Ricks, 449 U.S. 250 (1981) .. passim 
+
+
+Draper v. Coeur Rochester, Inc., 147 F.3d 1104 
+SG BEY Ac cancdcbbesddwasineecuetdess 7, 47 
+
+
+vii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Dumas v. Town of Mt. Vernon, 612 F.2d 974 
+DATE cakdehétddneghseéchdcsececesece 38 
+
+
+Exploration Co. v. United States, 247 U.S. 437 (1918) ... 22 
+Faragher v. City of Boca Raton, 524 U.S. 775 (1998) 28, 48 
+
+
+Fielder v. UAL Corp., 218 F.3d 973 (9th Cir. 2000), 
+petition for cert. pending, No. 00-1397 ....... passim 
+
+
+Fitzgerald v. Henderson, 251 F.3d 345 
+ST hl hiks cdueeewedes cocecesseies 39, 40 
+
+
+Ford Motor Co. v. EEOC, 458 U.S. 219 (1982) .. 23, 28, 48 
+
+
+Galloway v. General Motors Serv. Parts Operations, 
+78 F.3d 1164 (7th Cir. 1996) ..............4.. passim 
+
+
+Garrison v. Burke, 165 F.3d 565 (7th Cir. 1999) ....... 44 
+Gebser v. Lago Vista School Dist., 524 U.S. 274 (1998) . 48 
+
+
+Griffin v. Oceanic Contractors, Inc., 
+
+
+IE ere 13 
+Griggs v. Duke Power Co., 401 U.S. 429 (1971) ....... 28 
+Guaranty Trust Co. v. United States, 7 
+
+SE ee oe 11 
+Hallstrom v. Tillamook Cty., 493 U.S. 20 (1989) ....... 13 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+
+Hanover Shoe, Inc. v. United Shoe Machinery Corp., 
+ED onc cht vendeeeeeds obese 20, 21 
+Harris v. Forklift Sys., 510 U.S. 17 (1993) ............ 45 
+
+
+Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982) .. 30 
+
+
+High v. University of Minnesota, 
+236 F.3d 909 (8th Cir. 2000) ........... ccc eee 15 
+
+
+Holmberg v. Armbrecht, 327 U.S. 392 (1946) ......... 22 
+Huckabay v. Moore, 142 F.3d 233 (Sth Cir. 1998) ... 15,45 
+
+
+International Union of Electrical Radio Machine 
+Workers, AFL-CIO v. Robbins & Myers, Inc., 
+
+
+GP ED 6.0.0 cc case vencets.ccccses passim 
+Irwin v. Department of Veterans Affairs, 
+GIB SED bc ceccccbesdsdce sevens 32, 33, 34 
+
+
+Johnson v. Railway Express, 421 U.S. 454(1975) 10, 35, 36 
+Klehr v. A.O. Smith Corp., 52. U.S. 179 (1997) .... passim 
+
+
+Landrau-Romero v. Banco Popular de Puerto Rico, 
+
+
+212 F.3d 607 (IstCir. 2000) ..... 20... .. cece eee 43 
+Lorance v. AT&T Technologies, Inc., 
+
+Be PEED oc vcedes veocevcccceces passim 
+Lorillard v. Pons, 434 U.S. 575, 581 (1978) ........... 25 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+McDonnell Douglas Corp. v. Green, 
+
+EE Cece ndaccdeseaccotevescets 7 
+Meritor Sav. Bank v. Vinson, 477 U.S. 57 (1986) ..... 7, 45 
+Metz v. Tootsie Roll Industries, Inc., 715 F.2d 299 
+
+PT Sxndontdcdeceondescdereesecoess 23 
+Miller v. American Family Mutual Ins. Co., 
+
+203 F.3d 997 (7th Cir. 2000) ........... cece eee 44 
+Mohasco Corp. v. Silver, 477 U.S. 807 (1980) ......... 33 
+NLRB v. Don Burgess Constr. Co., 596 F.2d 378 
+
+(9th Cir.), cert. denied, 444 U.S. 940 (1979) ....... 23 
+
+
+NLRB v. Pennwoven, Inc., 194 F.2d 521 (3d Cir. 1952) .. 24 
+
+
+NLRB v. Textile Machine Works, Inc., 214 F.2d 929 
+DD -cGtin ducuseuadcsececesdcsestee 24 
+
+
+Order of Railway Telegraphers v. 
+Railway Express Agency, Inc., 321 U.S. 342 (1944) . 12 
+
+
+O'Rourke v. City of Providence, 235 F.3d 713 
+
+
+SC 5 RT PET Te Te TTT TTT Tee 31,44 
+Provencher v. CVS Pharmacy, 145 F.3d 5 
+Ps oc e be edeewe oeeseteeceecs 42, 44 
+Richard v. McDonnell Douglas Co., 
+
+
+469 F.2d 1249 (8th Cir. 1972) ..... 06... e eee ees 31 
+
+
+x 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Roberts v. Gadsden Mem. Hosp., 835 F.2d 793, 
+modified, 850 F.2d 1549 (11th Cir. 1988) .......... 6 
+Rotella v. Wood, 528 U.S. 549 (2000) ............. passim 
+Rush v. Scott Specialty Gases, Inc., 113 F.3d 476 
+SP onc bdnbdeencedebcccteeess ces 15, 45 
+
+
+Sabree v. United Brotherhood of Carpenters and Joiners, 
+Local No. 33, 921 F.2d 396 (ist Cir. 1990) .. 39, 41, 42 
+
+
+Speer v. Rand McNally & Co., 123 F.3d 658 
+
+
+PE. cdndbastudietd bnncdednnwetesa es 44 
+Stewart v. Booker T. Washington Ins., 
+
+SSb CDG OOS CLIC, BOGE) oc vieccccccccccccese 15 
+Taylor v. FDIC, 132 ¥.3d 753 (D.C. Cir. 1997) ........ 21 
+
+
+United Air Lines, Inc. v. Evans, 431 U.S. 553 (1977) . passim 
+
+
+United States v. Kubrick, 444 U.S. 111 (1979) ... 12, 22,27 
+
+
+United States v. Mottaz, 476 U.S. 834 (1986) .......... 22 
+United States v. Ron Pair Enterprises, Inc., 
+
+SEP Wes SOO GIEED cc cbvccccucesices veakewese 13 
+Urie v. Thompson, 337 U.S. 163 (1949) .............. 22 
+
+
+West v. Philadelphia Electric Co., 45 F.3d 744 
+SE GED 6 ce nese cdkbnetdudanweebunsd bent 15 
+
+
+xi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+
+
+_ Williams v. City of New York, 2001 WL 770933 
+
+
+GENE Cc SUE DUR SUED ccccccccccccccscccsese 15 
+
+
+Wilson v. Chrysler Co., 172 F.3d 500 (7th Cir. 1999).... 44 
+
+
+Wilson v. Garcia, 471 U.S. 261 (1985) ...........66.. 26 
+Wood v. Carpenter, 101 U.S. 135 (1879) ............. 12 
+Zenith Radio Corp. v. Hazeltine Research, Inc., 
+
+ee PPE cd sbecdeccccccenvecetes 20, 21 
+Zipes v. Trans World Airlines, Inc., 
+
+SE ED nb kG bbedscccsccosccndswe 13, 32 
+Constitution and Statutes 
+SPUD we dcectcccanseeseons ie al serve Ol 
+SSPE TOT OTT TT OCTET TTT TTT TTT 11 
+ee MD pd vecdncaccccncsescccececeseces | 
+a ec icsnsvnncacavecs 1 
+Ps EE bwin 66. Ce hes cc se cecesccecanscaces 23 
+GURL. BARS OGED cece cccccccvccsccccece passim 
+42 U.S.C. § 200De-S(ENZ) 2... cece reece ccccccecs 10 
+GEV, BASS GEED ccc sccccccssccccccccscccs 11 
+
+
+xii 
+TABLE OF AUTHORITIES—Continued 
+
+
+SERED oud 064 00dkede odabusecdedewecusinhe 3 
+Miscellaneous 
+
+
+2 P. AREEDA & H. HOVENKAMP, ANTITRUST LAW 4 338b 
+GE Ss ci aides Wadtledesibincdchetenens 20 
+
+
+1 CALVIN CORMAN, LIMITATION OF ACTIONS § 6.5.2 
+SA EE sn esundaccheuteeedescdbaces caané 14, 15 
+
+
+T. Crivens, The Continuing Violation Theory and 
+Systematic Discrimination: In Search of a 
+Judicial Standard for Timely Filing, 
+41 VAND. L. REV. 1171 (1988) ................. 38 
+
+
+D. Laycock, Continuing Violations, Disparate Impact in 
+Compensation, and Other Title VII Issues, LAW & 
+
+
+CONTEMP. PROBS., Autumn 1986, at 53 (1986) ..... 20 
+2 B. LINDEMANN & P. GROSSMAN, EMPLOYMENT 
+
+DISCRIMINATION LAW 1349 (3d ed. 1996) ....... 14, 38 
+C. MCCORMICK, LAW OF DAMAGES 127 (1935) ..... 48, 49 
+
+
+Note, Continuing Confusion: The Application of the 
+Continuing Violation Doctrine to Sexual Harassment 
+Law, 79 Tex. L. REV. 531 (2000) ............. 38, 43 
+
+
+Note, The Charge-Filing Requirements of The Age 
+Discrimination in Employment Act: Accrual and 
+Equitable Modification, 
+
+Fe RENE, EGE VUEEEOED Ces cccccccoesceséee 32 
+
+
+xiii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+
+
+R.L. Paetzold & A.M. O’Leary-Kelly, Continuing Violation 
+and Hostile Environment Sexual Harassment: 
+
+
+When is Enough, Enough?, 
+Fe FEE Be Bak Fee OE 6 cc cccvccesseccevces 38 
+
+
+BRIEF FOR PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+™ » opinion of the court of appeals (Pet. App. 1a-22a) is 
+reporteu at 232 F.3d 1008. The order of the court denying 
+rehearing and rehearing en banc (Pet. App. 23a-24a) is 
+unreported. The district court’s opinion granting partial sum- 
+mary judgment to petitioner (Pet. App. 25a-52a) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+November 8, 2000. Pet. App. la. A petition for rehearing and 
+rehearing en banc was denied on January 22, 2001. Pet. 
+App. 23a-24a. The petition for writ of certiorari was filed on 
+April 23, 2001, and was granted on June 25, 2001. J.A. lla. 
+The jurisdiction of this Court rests on 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+Section 706(e) of Title VII, 42 U.S.C. § 2000e-5(e)(1), 
+- provides: 
+A charge under this section shall be filed [with the Equal 
+Employment Opportunity Commission (“EEOC’’)} within 
+one hundred and eighty days after the alleged unlawful 
+employment practice occurred * * *, except [when] the 
+person aggrieved has initially instituted proceedings with a 
+State or local agency with authority to grant or seek relief 
+from such practice * * *, such charge shall be filed [with 
+the EEOC] * * * within three hundred days after the alleged 
+unlawful employment practice occurred * * *. 
+STATEMENT 
+1. Petitioner is the National Railroad Passenger Cor- 
+poration, colloquially known as “Amtrak.” Respondent 
+Abner J. Morgan, Jr. (“Morgan”), an African-American male, 
+worked at Amtrak from August 1990 to March 1995, and filed 
+
+
+2 
+
+
+his only administrative charge alleging violations of Title VII on 
+February 27, 1995. The question before this Court is whether 
+Morgan’s EEOC charge allows him to bring suit only on the 
+events that occurred within the 300 days preceding February 27, 
+1995, or instead allows him to reach back to the entire period of 
+his employment with Amtrak. The district court dismissed all 
+the counts of the complaint based on time-barred incidents, but 
+held a jury trial — at which Amtrak prevailed — on the allegations 
+that stated a claim for violation of Title VII during the 300 days 
+preceding February 27, 1995. The Ninth Circuit reversed, 
+holding that a jury could conclude that all of the incidents were 
+part of a “continuing violation.” 
+
+
+Morgan began working at Amtrak in August 1990 as an 
+electrician’s helper in the Oakland Maintenance Yard (the 
+“Yard”). Pet. App. 7a. Morgan claimed that he believed that he 
+was being hired as an electrician, that he performed the work of 
+an electrician, and that less qualified Caucasians were hired as 
+electricians. Jbid. According to Morgan, his job was not reclas- 
+sified, nor was his pay increased, until April 1992. Jbid. 
+
+
+Morgan claims that, shortly after he began working at 
+Amtrak, he was subjected to a pattern of racially discriminatory 
+and retaliatory acts perpetrated by a group of Amtrak managers, 
+specifically Robert Vandenburg, the Facility Manager of the 
+Yard, Jerry Denton, Mike Bordenave, Ray Borge, and Earl 
+Geske. Pet. App. 6a. That conduct allegedly continued 
+throughout his employment with Amtrak and culminated in his 
+termir.ation in March 1995. Ibid. 
+
+
+Morgan testified that the first discriminatory act occurred 
+in February 1991, when he was charged with violating a 
+disciplinary rule for refusing to attend a meeting without union 
+representation. Pet. App. 7a. Under applicable work rules, an 
+employee is entitled to union representation at any meeting that 
+might lead to disciplinary action. /d. at 7a n.4. Morgan was 
+ordered to attend a meeting with Vandenburg and Denton the 
+
+
+3 
+
+
+day after he had called in sick. Believing that the meeting might 
+lead to disciplinary action, Morgan refused to attend. On 
+March 22, 1991, following a full investigatory hearing into the 
+incident, Morgan was terminated. /bid.' The termination later 
+was reduced to a ten-day suspension, and Morgan received 
+backpay for all but ten days. /bid. 
+
+
+Morgan claims that he requested entrance into the elec- 
+trician apprentice program in August 1991. Pet. App. 7a-8a. He 
+claims that he received no official response from Amtrak’s 
+personnel office, but that Vandenburg told him that he stood “a 
+snowball’s chance in hell of becoming an electrician.” /d. at 8a. 
+
+
+Morgan recognized early in his employment that the alleged 
+conduct of his supervisors and co-workers could be grounds for 
+legal action. In October 1991, following the termina- 
+tion/suspension and the alleged denial of training, Morgan first 
+complained about racial discrimination at Amtrak. Pet. App. 8a. 
+Morgan filed a written complaint with Amtrak’s internal EEO 
+office citing “blatant racism” and offering specific instances of 
+allegedly discriminatory conduct. Jbid. He sent a copy of that 
+letter to Congressman Ron Dellums. /bid. Morgan testified that 
+he never received a formal response to his complaint. /bid. 
+
+
+Throughout the remainder of Morgan’s employment at 
+Amtrak, he continued to make complaints of racial discrimina- 
+
+
+' Morgan's employment was covered by a collective bargaining agree- 
+ment. Pet. App. 27a. Therefore, before he could be disciplined for rules 
+infractions, he was entitled to be notified of the charges against him and to 
+have a full investigatory hearing at which he would be represented by his 
+union and could present evidence and cross-examine witnesses. /d. at 27a 
+n.4. The hearing is conducted by a Hearing Officer, who determines whether 
+the charges are proven. If the charges are proven, the Hearing Officer's 
+decision is forwarded to the department head, who imposes discipline. /bid. 
+These determinations are subject to multi-layered review and ultimately can 
+be appealed to the National Railroad Adjustment Board established by 
+Section 3 of the Railway Labor Avt, 45 U.S.C. § 153. 
+
+
+4 
+
+
+tion and retaliation both internally to Amtrak’s EEO office and 
+externally. Morgan and a group of other Amtrak employees met 
+with Congresswoman Barbara Boxer to express their concerns 
+about discriminatory conditions at the Yard in late 1991. Pet. 
+App. 8a. In response to the complaint, Congresswoman Boxer 
+contacted Amtrak’s Inspector General, Fred Weiderhold. /d. at 
+40a. Weiderhold visited the Yard three times in 1992. Jbid. On 
+one of those occasions, Weiderhold met Morgan. /bid. Morgan 
+claims that he “tried repeatedly to bring the continuing 
+discriminatory and retaliatory practices at Amtrak to 
+[Weiderhold’s] attention.” /bid. 
+
+
+Morgan also continued to complain about racial discrim- 
+ination to Amtrak’s EEO office. In May 1993, Morgan filed 
+two separate internal complaints alleging racial discrimination 
+and retaliation with Amtrak’s EEO office. Pet. App. 29a, 30a. 
+Morgan claimed that in October 1993 Vandenburg assaulted 
+him by placing his hands on Morgan’s shoulders, pushing down, 
+and whispering in his ear. /d. at 10a. Morgan reported the 
+alleged assault to the police and filed a formal complaint with 
+Amtrak’s EEO office. Jd. at 31a. Morgan testified that Amtrak 
+did not investigate his complaint. In January 1994, Morgan 
+again complained about racial discrimination to Amtrak’s EEO 
+office following the cancellation of scheduled training. Jd. at 
+lla. Again, Morgan claims that Amtrak did not formally 
+respond to the complaint. /bid. In October 1994, Morgan made 
+his last complaint of racial discrimination to Amtrak’s EEO 
+office and again, according to Morgan, no response was 
+forthcoming. /bid. In sum, by the time Morgan was suspended 
+in February 1995 and terminated in March 1995, he had 
+complained about racial discrimination or retaliation at least 
+nine times over the course of four years. 
+
+
+Morgan claims that he was subjected to discriminatory or 
+retaliatory discipline on at least ten occasions between October 
+1991 and the end of his employment in March 1995. Pet. App. 
+8a-12a. The discipline consisted of being issued written and 
+
+
+5 
+
+
+oral counselings; being charged, allegedly unfairly, with rules 
+violations; being suspended; and ultimately having his employ- 
+ment terminated. In addition, he claims that he was unfairly 
+denied training on four occasions. ° 
+
+Although Morgan believed that the alleged conduct was 
+discriminatory and unlawful, he nevertheless refrained from 
+filing an administrative charge until February 27, 1995, two 
+days after he was suspended. Pet. App. 13a. At that time, he 
+filed a charge alleging discrimination and retaliation with the 
+EEOC and cross-filed with the California Department of Fair 
+Employment and Housing. /bid. On March 3, 1995, following 
+a full investigatory hearing, Morgan was terminated. /d. at 12a. 
+On March 8, 1995, Morgan amended his charge to allege that 
+this termination constituted unlawful discrimination and 
+retaliation. /d. at 37a. At the time he filed his administrative 
+charge in February 1995, only six allegedly discriminatory 
+incidents fell within the 300-day limitations period (May 3, 
+1994, to February 27, 1995). 
+
+2. The district court granted partial summary judgment in 
+Amtrak’s favor on all acts of alleged discrimination that 
+occurred more than 300 days before Morgan filed his adminis- 
+trative charge of discrimination. Pet. App. 38a-40a. The court 
+also granted partial summary judgment on three of Morgan’s six 
+timely claims of alleged discrimination: (1) denial of pay for 
+jury duty in June 1994 and January and February 1995, 
+(2) denial of access to review his work file in December 1994, 
+and (3) denial of union representation during a December 1994 
+meeting; the court ruled that Morgan failed to establish a prima 
+facie case of discrimination with respect to each of those claims. 
+Id. at 49a-50a, S5la. The court held that Morgan failed to 
+establish a prima facie case of discrimination for denial of pay 
+for jury duty becau ¢ he offered no evidence that the action was 
+discriminatory or retaliatory. Jd. at 49a-50a. The court held that 
+Morgan failed to establish a prima facie case of discrimination 
+relating to the alleged refusal to allow him to review his work 
+
+
+6 
+
+
+file because he could not identify an adverse employment action 
+flowing from that denial. /d. at Sla. The court also held that 
+Morgan could not recover for the alleged denial of union 
+representation at a December 1994 meeting because he never 
+addressed that claim in his opposition to Amtrak’s summary 
+judgment motion. Jbid 
+
+In rejecting Morgan’s argument that the “continuing viola- 
+tion doctrine” resuscitated all of his claims dating back to 1991, 
+the district court relied on Galloway v. General Motors Service 
+_ Parts Operations, 78 F.3d 1164, 1167 (7th Cir. 1996); Roberts 
+v. Gadsden Memorial Hosp., 835 F.2d 793, modified, 850 F.2d 
+1549 (11th Cir. 1988); and Berry v. Board of Supervisors, 715 
+
+
+F.2d 971, 981 (Sth Cir. 1983). Pet. App. 38a-40a. The court, 
+
+
+quoting Galloway, held that a plaintiff may not base a suit on 
+conduct that “occurred outside the statute of limitations unless 
+it would have been unreasonable to expect the plaintiff to sue 
+before the statute ran on that conduct, as in a case in which the 
+conduct could constitute, or be recognized, as actionable 
+harassment only in light of events that occurred later, within the 
+period of the statute of limitations.” /d. at 39a (quoting 78 F.3d 
+at 1167). The court held that Morgan was not entitled to invoke 
+the continuing violation doctrine because as early as 1991 he 
+claimed to be the victim of discrimination and retaliation by 
+Amtrak and yet he did not file his administrative charge until 
+1995. Id. 39a-40a. The court did, however, permit Morgan to 
+present evidence at trial of acts occurring before the limitations 
+period to the extent they were relevant to his timely claims of 
+discrimination and retaliation. Jd. 40a n.9. 
+
+
+The remaining claims of alleged discrimination — suspen- 
+sion in September 1994, denial of training in October 1994, 
+suspension in February 1995, and termination in March 1995 — 
+were tried before a jury. Pet. App. 13a. During the trial, 
+Morgan introduced evidence spanning the entire period of his 
+employment at Amtrak. The jury returned a unanimous verdict 
+in favor of Amtrak. Jbid. 
+
+
+7 
+
+
+3. The court of appeals reversed the district court’s grant of 
+partial summary judgment, holding that the lower court 
+erroneously relied on Galloway to reject Morgan’s reliance on 
+the continuing violation doctrine. Pet. App. 15a. The Ninth 
+Circuit did not cite a single decision of this Court dealing with 
+limitations issues.?_ But the Ninth Circuit held that it “has never 
+adopted a strict notice requirement as a litmus test for applica- 
+tion of the continuing violation doctrine.” /bid. Citing its own 
+decisions in Fielder v. UAL Corp., 218 F.3d 973 (9th Cir. 2000), 
+Anderson v. Reno, 190 F.3d 930, 936 (9th Cir. 1999), and 
+Draper v. Coeur Rochester, Inc., 147 F.3d 1104, 1007 (9th Cir. 
+1998), the court of appeals stated that the only relevant inquiry 
+in determining whether the continuing violation doctrine applies 
+is whether the pre-limitations conduct at issue is “sufficiently 
+related” to the post-limitations conduct. Pet. App. 16a. Using 
+that test, the court of appeals analyzed Morgan’s “three distinct 
+Title VII claims”: “discrimination, hostile environment, and 
+retaliation.” Jd. at 17a. “In light of the totality of the circum- 
+stances” (id. at 18a), the court held that Morgan could rely on 
+the continuing violation doctrine with respect to each of his 
+three claims. /d. at 18a-20a. The court of appeals vacated the 
+grant of partial summary judgment and the judgment on the 
+
+
+2 The only decisions of this Court that the Ninth Circuit cited at all (Pet. 
+App. 18a, 19a) were McDonnell Douglas Corp. v. Green, 411 U.S. 792 
+(1973), which deals with the framework for evaluating discrimination claims, 
+and Meritor Savings Bank, FSB v. Vinson, 477 U.S. 57 (1986), which was 
+the first case in this Court to deem harassment actionable “discnimination” 
+under Title VII. In the principal predecessor to the decision below, Fielder 
+v. UAL Corp., 218 F.3d 973 (9th Cir. 2000), petition for cert. pending, 
+No. 00-1397, the majority opinion cited only one decision of this Court, 
+Burlington Industries v. Ellerth, 524 U.S. 742 (1998), cited at 218 F.3d at 
+984. The dissent in Fielder, by contrast, relied heavily on this Court's 
+decision in Delaware State College v. Ricks, 449 U.S. 250 (1981), which 
+does deal with Title VII's statute of limitations. See 218 F.3d at 991, 999- 
+
+
+1000 (Kleinfeld, J., dissenting). 
+
+
+verdict and granted Morgan a new trial on all three of his claims. 
+Id. at 22a. 
+
+
+SUMMARY OF ARGUMENT 
+
+The limitations period in Section 706(e) runs from the date 
+of a discrete allegedly discriminatory act, not from the date the 
+last effect of that act is felt. In multiple Title VII cases, this 
+Court has upheld a statute-of-limitations defense against em- 
+ployees who brought an EEOC charge or filed suit within the 
+requisite time period after some adverse action, but sought to 
+challenge an earlier, related act as discriminatory. Lorance v. 
+AT&T Technologies, Inc., 490 U.S. 900 (1989), superseded on 
+other grounds by 42 U.S.C. § 2000e-5(e)(2); Delaware State 
+Coll. v. Ricks, 449 U.S. 250 (1981); United Air Lines, Inc. v. 
+Evans, 431 U.S. 553 (1977); Int'l Union of Elec. Radio Mach. 
+Workers, AFL-CIO v. Robbins & Myers, Inc., 429 U.S. 22 
+(1976). The result should be no different here. 
+
+
+In Bazemore v. Friday, 478 U.S. 385 (1986), the plaintiffs 
+did prevail over a statute-of-limitations defense, but on grounds 
+not applicable here. The discriminatory salary structure at issue 
+in that case resulted in a new violation of Title VII with each 
+week’s paycheck. The statute of limitations thus constantly 
+began to run anew. Similarly, the statute of limitations begins 
+to run anew in antitrust cases every time a transaction takes 
+place at a fixed price, even if the price-fixing agreement was 
+reached many years ago. But the damages are still limited by 
+the statute of limitations, and events that took place uefore the 
+
+
+limitations period have no present legal consequences. 
+
+
+This accrual rule that a statute of limitations begins to run 
+no later than the time when the plaintiff has notice of his injury 
+is applied under many statutes. Most pertinent here is its con- 
+sistent application under the National Labor Relations Act, on 
+which Title VII’s limitations provision was patterned. Indeed, 
+the rule was settled under the NLRA at the time Title VII was 
+passed, making it particularly apparent that the rule is incor- 
+
+
+9 
+
+
+porated into Section 706(e). Recent decisions of this Court 
+under civil RICO likewise show that the Ninth Circuit went too 
+far and that statutes of limitations have consequences when 
+plaintiffs sleep on their rights. The Ninth Circuit’s “sufficiently 
+related” test, by contrast, attaches no limitations consequence to 
+the various discrete acts of which Morgan now belatedly com- 
+plains. It cannot be reconciled with this Court’s cases. 
+
+
+A continuing violation doctrine does, however, have a 
+proper role to play in some Title VII cases. In some hostile 
+environment cases, only over time will the employee’s treatment 
+rise to the level of actionable conduct. Those are archetypal 
+“continuing violations,” in which the employee truly is blame- 
+less for not bringing suit earlier. The equitable tolling principles 
+that this Court has read into all statutes of limitations, including 
+Title VII's, in the absence of a contrary direction from Congress 
+are a vehicle to allow such plaintiffs to sue on events occurring 
+more than 300 days before they filed an EEOC charge, though 
+the use of those principles must be sparing and must not protect 
+those who have knowingly failed to file sustainable claims on a 
+timely basis. 
+
+
+Three approaches to the continuing violation doctrine have 
+developed in the lower courts. One approach, championed par- 
+ticularly by the First and Seventh Circuits, best comports with 
+these principles and should be adopted by this Court. That 
+approach provides great predictability without denying relief — 
+either as a theoretical matter or, as case law shows, as a practical 
+matter — to those deserving plaintiffs who did not sleep on their 
+rights. Furthermore, by providing employees with an incentive 
+to act quickly after violations occur, it serves Title VII’s primary 
+purpose of eradicating discrimination from the workplace. The 
+Fifth Circuit’s multi-factor approach likewise soundly 
+emphasizes the plaintiff's diligence, and thus is far more con- 
+sistent with this Court’s decisions than the Ninth Circuit’s 
+approach, but does not provide the same desirable predictability 
+as does the approach of the First and Seventh Circuits. Nor is 
+
+
+10 
+
+
+it clear that anything is gained from the Fifth Circuit’s approach, 
+since its factors other than notice boil down to the same things 
+taken into account in defining the substantive violation of 
+Title VII. The Ninth Circuit’s approach, under which it is ir- 
+relevant that the plaintiff did not act diligently, has nothing to be 
+said for it except that it prevents (old) Title V1i violations from 
+going unremedied. But that “benefit” is nothing more than 
+naked hostility to the whole limitations concept, and thus cannot 
+be reconciled with either Congress’s decision to place a limita- 
+tions period in Title VII or this Court’s many decisions recog- 
+nizing the important interests that statutes of limitations serve. 
+
+
+ARGUMENT 
+
+
+I. IN A TITLE VII CASE, A CAUSE OF ACTION 
+ACCRUES AND SECTION 706(e)’s LIMITATIONS 
+PERIOD RUNS FROM THE DATE OF THE 
+DISCRETE ALLEGEDLY DISCRIMINATORY ACT 
+
+
+A. Section 706(e) Was Drafted With Precision And 
+Serves Important Purposes 
+
+
+Title VII was enacted to “assure equality of employment 
+opportunities by eliminating those practices and devices that 
+discriminate on the basis of race.” Alexander v. Gardner- 
+Denver Co., 415 U.S. 36, 44 (1974). It creates a comprehensive 
+
+
+statutory system to vindicate civil rights. Johnson v. Ry. - 
+
+
+Express, 421 U.S. 454, 455 (1975). That system includes a 
+limitations period: Section 706(e). Section 706(e) requires em- 
+ployees who believe that they have been subjected to unlawful 
+discrimination to file a claim with an administrative agency 
+before proceeding to court. 42 U.S.C. § 2000e-S(e)(1). A claim 
+is time barred unless the employee files a charge of discrimina- 
+tion with the Equal Employment Opportunity Commission 
+(“EEOC”) within 180 days of the alleged unlawful occurrence, 
+or within 300 days of the allegedly unlawful occurrence if the 
+employee first files the charge with a state or local agency, as 
+respondent did in this case. Ibid; United Air Lines, Inc. v. 
+
+
+11 
+
+
+Evans, 431 U.S. 553, 555 n.4 (1977) (“[t]imely filing is a pre- 
+requisite to maintenance of a Title VII action”). If, after 180 
+days, the EEOC is not successful in obtaining voluntary compli- 
+ance from the employer and elects not to file suit on behalf of 
+the employee, the employee may demand a right-to-sue letter 
+and institute a private action against the employer. 42 U.S.C. 
+§ 2000e-5(f)(1). The employee must institute the lawsuit within 
+90 days after receiving the right-to-sue letter or lose his claim. 
+Alexander, 415 U.S. at 47. 
+
+
+The Ninth Circuit effectively nullified Title VII’s limita- 
+tions period by permitting recovery for discrete acts of alleged 
+discrimination years after the expiration of the limitations 
+period. There is no statutory basis for this interpretation of Sec- 
+tion 706(e). Moreover, the lower court’s decision conflicts with 
+the rule that a Title VII cause of action accrues and the limita- 
+tions period begins to run when a discrete allegedly discrimina- 
+tory act occurs. This notice accrual rule is implicit in the 
+Court’s cases applying Section 706(e)’s limitation period, is de- 
+rived from the traditional federal discovery accrual rule, and is 
+consistent with the discovery accrual rule applied in the context 
+of other remedial statutes, including the Clayton Act, 15 U.S.C. 
+§§ 12-27, civil RICO, 18 U.S.C. § 1961 et seq., and the National 
+Labor Relations Act (“NLRA”), 29 U.S.C. § 158 et seq. 
+
+
+It is fair to say that the Ninth Circuit’s decision in this case, 
+and the Ninth Circuit precedents on which it relies, demonstrate 
+— if not outright hostility to the limitations defense — at least a 
+lack of enthusiasm for allowing limitations to get in the way of 
+whai might be an otherwise meritorious claim by a plaintiff. 
+But this Court has consistently shown a very different attitude. 
+Statutes of limitations have been characterized as a “meritorious 
+defense, in itself serving a public interest.” Guar. Trust Co. v. 
+United States, 304 U.S. 126, 136 (1938). “Statutes of limita- 
+tions, which ‘are found and approved in all systems of enlight- 
+ened jurisprudence,’ represent a pervasive legislative judgment 
+that it is unjust to fail to put the adversary on notice” of the right 
+
+
+12 
+
+
+to defend himself. United States v. Kubrick, 444 U.S. 111, 117 
+(1979) (citing Wood v. Carpenter, 101 U.S. 135, 139 (1879)). 
+Statutes of limitations are “statutes of repose” that balance 
+plaintiffs’ needs for sufficient time to pursue claims with 
+defendants’ and courts’ rights to be free of stale claims. /d. at 
+117; Burnett v. New York Cent. R.R., 380 U.S. 424, 428 (1965); 
+Order of Ry. Telegraphers v. Ry. Express Agency, Inc., 321 U.S. 
+342, 348-49 (1944). 
+
+
+This Court has described the purposes behind statutes of 
+limitations as “promot[ing] justice by preventing surprises 
+through the revival of claims that have been allowed to slumber 
+until evidence has been lost, memories have faded, and 
+witnesses have disappeared. * * * [E]ven if one has a just claim 
+it is unjust not to put the adversary on notice to defend within 
+the period of limitation and that the right to be free of stale 
+claims in time comes to prevail over the right to prosecute 
+them.” Order of Ry. Telegraphers, 321 U.S. at 348-49; see also 
+Kubrick, 444 U.S. at 124 (“It goes without saying that statutes 
+of limitations often make it impossible to enforce what were 
+otherwise perfectly valid claims. But that is their very purpose, 
+and they remain as ubiquitous as the statutory rights or other 
+rights to which they are attached or are applicable.”). This 
+Court’s decisions have instructed that statutes of limitations in 
+general, and Section 706(e) in particular, are to be strictly 
+enforced, subject only to narrow exceptions that apply when 
+consistent with the overall purpose of the statute. 
+
+
+Congress defined Title VII’s jurisdictional prerequisites 
+“with precision.” Alexander, 415 U.S. at 47. An EEOC charge 
+must be filed within the specified number of days “after the 
+alleged unlawful employment practice occurred.” 42 U.S.C. 
+§ 2000e-5(e)(1). The sole textual extension of Section 706(e)’s 
+limitations period — undisputedly applicable here, but in no way 
+supportive of the Ninth Circuit’s holding — occurs when the 
+“person aggrieved has initially instituted proceedings with a 
+State or local agency with authority to grant or seek relief from” 
+
+
+13 
+
+
+the alleged discriminatory practice. 42 U.S.C. § 2000e-5(e)(1); 
+Robbins & Myers, Inc., 429 U.S. at 240. 
+
+
+When a statute’s language is plain, “the sole function of the 
+courts is to enforce it according to its terms.” Caminetti v. 
+United States, 242 U.S. 470, 485 (1917); see also United States 
+v. Ron Pair Enterprises, Inc., 489 U.S. 235, 242 (1989) (quoting 
+Griffin v. Oceanic Contractors, Inc., 458 U.S. 564, 571 (1982)) 
+(holding the terms of the statute applicable because this “is not 
+one of the rare cases in which ‘the literal application of the 
+statute will produce a result demonstrably at odds with the 
+intentions of its drafters’”); Hallstrom v. Tillamook Cty., 493 
+U.S. 20, 28 (1989) (noting that the words of the statute are 
+conclusive). The language of Section 706(e) is plain — it 
+provides that a charge of discrimination “shall be filed” with the 
+EEOC within 180 days of the alleged unlawful employment 
+practice. 42 U.S.C. § 2000e-5(e)(1). As this Court noted, “{a]s 
+a general rule, if an action is barred by the terms of a statute, it 
+must be dismissed.” Hallstrom, 493 U.S. at 31.° 
+
+
+Thus, to assess the timeliness of an administrative charge 
+challenging an allegedly unlawful employment practice, courts 
+are required to identify the complained-of unlawful employment 
+practice with precision. Lorance, 490 U.S. at 904. In cases in 
+which a discrete act such as a termination, failure to promote, 
+denial of transfer, or refusal to hire occurs, identifying the 
+“alleged unlawful employment practice” (42 U.S.C. § 2000e- 
+5(e)(1)) is simple, and the limitations period runs from the date 
+
+
+> However, most statutes of limitations — and Title VII's in particular — 
+are not “jurisdictional.” Zipes v. Trans World Airlines, Inc., 455 U.S. 385, 
+393 (1982). Therefore, even if the discrete act triggering the limitations 
+period has been correctly identified and the plaintiff did not sue or file an ad- 
+ministrative charge within the statutory period, waiver, estoppel, or equitabl= 
+tolling may excuse the untimely filing. /bid. There is no contention, how- 
+ever, that waiver or estoppel has any relevance to this case or to “continuing 
+violation” cases in general. The applicability of principles of equitable toll- 
+ing to “continuing violation” cases is explored in Part II, infra. 
+
+
+14 
+
+
+of the discrete act. In hostile environment cases in which there 
+is no discrete allegedly discriminatory act, we submit that the 
+cause of action accrues and the limitations period runs, at the 
+latest, from the time when the employee knew or should have 
+known of acts sufficient to constitute a violation of Title VII.‘ 
+
+
+B. A Title VII Cause Of Action Accrues and Section 
+706(e)’s Limitations Period Is Triggered By A 
+Discrete Adverse Employment Action 
+
+
+| 1. The Court repeatedly has ruled that Section 706(e)’s 
+limitations period runs from the date of the discrete allegedly 
+discriminatory act, not from the date the last effect of that act is 
+felt. Evans, 431 U.S. at 558; Ricks, 449 U.S. at 257-58; 
+Chardon v. Fernandez, 454 U.S. 6, 8 (1981) (“the proper focus 
+is on the time of the discriminatory act, not at the point at which 
+the consequences of the act become painful”); Robbins & 
+Myers, 429 U.S. at 234; 2 B. LINDEMANN & P. GROSSMAN, EmM- 
+PLOYMENT DISCRIMINATION LAW 1349 (3d ed. 1996) (this 
+Court’s cases “seem to establish a relatively simple ‘notice’ rule 
+as to when discrimination ‘occurs’ (so as to start the running of 
+the charge-filing period)”); see also 1 CALVIN CORMAN, LIMITA- 
+TION OF ACTIONS § 6.5.2 (Supp. 1993) (“In determining the date 
+
+
+* This case presents no occasion to choose between an “injury” rule of 
+accrual and an “injury discovery” rule of accrual in the Title VII context. C/ 
+Klehr v. A.O. Smith Corp., 521 U.S. 179, 196-202 (1997) (Scalia, J., con- 
+curring in part and concurring in the judgment) (advocating rejection of 
+“injury discovery” rule in RICO context in favor of “injury” accrual rule 
+derived from Clayton Act). There is no allegation of any time lag between 
+any allegedly unlawful acts and respondent’s discovery of them, so the dates 
+of accrual would be the same under either rule. Indeed, it would be the rare 
+Title VII case (and one probably resolvable under the doctrine of equitable 
+tolling) in which an employee suffered discrimination or harassment but was 
+unaware of it. Accordingly, the distinction between “injury” and “injury dis- 
+covery” accrual rules, much debated in this Court’s RICO cases, has played 
+little Lz no role in the development of Title VII limitations jurisprudence in 
+the lower courts. 
+
+
+15 
+
+
+of accrual of the cause of action, a distinction must be made 
+between Title VII employment discrimination and breach of an 
+at-will employment contract. In the former, the wrongful act 
+* * * is the time of the commission of the unlawful act of dis- 
+crimination, regardless of whether loss of employment ensues 
+as a result thereof.””). Accordingly, this Court has rejected at- 
+tempts to extend the limitations period when a discrete allegedly 
+discriminatory act has put the plaintiff on notice of a potential 
+claim.* 
+
+
+* With the exception of the Ninth Circuit, the courts of appeals have 
+followed this Court’s precedents and have held that discrete acts trigger the 
+running of Title VII’s limitations period even when plaintiff alleges sub- 
+sequent discriminatory acts. See, e.g., Amini v. Oberlin Coll., F.3d__, 
+2001 WL 867422, *4 (6th Cir. Aug. 2, 2001) (“we reaffirm our practice of 
+running the Title VII and ADEA limitations provisions from the date on 
+which the alleged discriminatory act * * * was communicated to the plain- 
+tiff’); High v. Univ. of Minnesota, 236 F.34 909 (8th Cir. 2000) (failure to 
+promote is a discrete event triggering the limitations period); Stewart v. 
+Booker T. Washington Ins., 232 F.3d 844, 850 (11th Cir. 2000) (precluding 
+use of continuing violation doctrine as denial of transfer is a discrete event 
+triggering the limitations period); Bullington v. United Air Lines, Inc., 186 
+F.3d 1301, 1310 (10th Cir. 1999) (refusal to hire is a discrete event 
+triggering limitations period; claim could not be revived by combining it 
+with timely refusal-to-hire claim); Huckabay v. Moore, 142 F.3d 233, 239-40 
+(Sth Cir. 1998) (preventing combining stale demotion and failure-to-promote 
+claims with timely harassment claims as “demotion is the sort of discrete and 
+salient event that should put an employee on notice that a cause of action has 
+accrued”); Rush v. Scott Specialty Gases, Inc., 113 F.3d 476, 483-84 (3d Cir. 
+1997) (failure to promote and denial of training are discrete events that 
+“cannot be regarded as having been timely by reason of [plaintiff's] other 
+allegations of discriminatory treatment”); Ashley v. Boyle's Famous Corned 
+Beef Co., 66 F.3d 164, 167 (8th Cir. 1995) (en banc); see also Williams v. 
+City of New York, 2001 WL 770933, at *3 (S.D.N.Y. July 10, 2001) 
+(“Transfers, demotions, and failures to promote are considered completed, 
+discrete acts that do not constitute continuing violations. Any holding to the 
+contrary would read the statute of limitations period out of the statute.”) 
+(citations omitted); cf. West v. Philadelphia Electric Co., 45 F.3d 744, 756 
+(3d Cir. 1995) (“[T]he harassment did not cause a discrete event such as a 
+lost job or a denied promotion and, thus, it did not trigger a duty of the 
+
+
+16 
+
+
+This Court articulated the notice accrual rule in the Title VII 
+context in United Air Lines, Inc. v. Evans, 431 U.S. 553. The 
+plaintiff in Evans was terminated pursuant to a discriminatory 
+“no-marriage” policy for female flight attendants. Evans, 431 
+U.S. at 554. Although the policy-was facially discriminatory, 
+the plaintiff did not file an administrative charge following her 
+dismissal. Jd. at 555. The discriminatory policy was later 
+abolished, and the plaintiff was re-hired. She was not credited 
+with seniority for her prior service, however, because of a 
+provision in the collective bargaining agreement that seniority 
+was irrevocably lost when an employee resigned or was 
+terminated for cause. Jd. at 555 n.6. The plaintiff argued that 
+the seniority system gave present effect to past discrimination 
+and therefore, constituted a continuing violation. Jd. at 558. 
+The Court rejected that argument, holding that “the critical 
+question is whether any present violation exists.” Jbid. The 
+Court described the plaintiff's earlier termination as “merely an 
+unfortunate event in history which has no present legal 
+consequences.” /bid. 
+
+
+In Robbins & Myers, the plaintiff believed that she was 
+fired because of her race in violation of both the applicable 
+collective bargaining agreement and Title VII. She promptly 
+filed a grievance with the union alleging unfair action, but wait- 
+ed until after the expiration of Title VII’s limitations period to 
+file her charge with the EEOC. 429 U.S. at 229. The plaintiff 
+conceded that filing her grievance did not prevent her from 
+immediately filing an EEOC charge. /d. at 238 n.10. She ar- 
+gued, however, that her charge was timely filed because the al- 
+leged unlawful employment practice occurred at the conclusion 
+of the grievance-arbitration proceedings, not on the date of her 
+termination. Jd. at 238. This Court rejected the plaintiff's 
+argument, holding that the accrual date for purposes of the lim- 
+itations period was the date of her termination. /d. at 234-35. 
+
+
+plaintiff to assert his rights arising from the deprivation.”). 
+
+
+17 
+
+
+Likewise, in Ricks, this Court rejected a plaintiff's attempt 
+to use the continuing violation doctrine to extend the limitations 
+period to resuscitate his time-barred discrimination claim. 449 
+U.S. at 257-58. In Ricks, a black Liberian college professor was 
+denied tenure in February 1973. /d. at 252. Following a denial 
+of an appeal of the tenure decision, the college’s Board of Trus- 
+tees offered Ricks a one-year terminal contract. /d. at 253. 
+Ricks accepted the contract and worked until its expiration in 
+June 1975. Id. at 253-54. In April 1975, Ricks filed a charge 
+with the EEOC alleging discrimination based on national origin. 
+Id. at 254. The district court held that Ricks’s claim was time 
+barred because the denial of tenure occurred more than 180 days 
+before the filing of the EEO charge. /d. at 254-55. The court of 
+appeals reversed the district court, holding that the limitations 
+period did not begin to run until June 1975 upon the expiration 
+of the one-year contract. /d. at 255-56. This Court in turn 
+reversed and held that, for purposes of the limitations period, the 
+inquiry must focus on the date of the allegedly unlawful conduct 
+— the denial of tenure. /d. at 256-57. This Court held that the 
+limitations period normally commences when the employer’s 
+decision is made, even when the effects of that decision linger 
+for some time. /d. at 261. 
+
+
+In Lorance, the Court applied Section 706(e)’s limitations 
+period to bar claims brought by female employees challenging 
+AT&T’s alleged!» discriminatory seniority system. 490 U.S. at 
+905. To determine when the limitations period began running, 
+the Court analyzed plaintiffs’ claims and held that the 
+complained-of unfair employment practice was the adoption of 
+the facially neutral seniority system in 1979. Jd. at 904-05. The 
+seniority system neither treated similarly situated employees dif- 
+ferently nor had been operated in an intentionally discriminatory 
+manner. /d. at 905. The plaintiffs asserted, however, that the 
+purpose of its adoption in 1979 was “to protect incumbent male 
+testers and to discourage women from promoting into the 
+traditionally-male tester jobs.” /d. at 903 (internal quotation 
+
+
+18 
+
+
+marks omitted). The female employees did not file charges with 
+the EEOC until 1983, when they themselves were demoted as a 
+result of the application of the seniority system adopted in 1979. 
+Id. at 902. The employees argued that their charges were timely 
+filed because they filed within 300 days of being demoted. The 
+Court rejected that argument and cle that the employees’ 
+claims were time barred because they failed to file charges 
+within 300 days of the adoption of the allegedly discriminatory 
+seniority system. /d. at 905-06. 
+
+
+The Court “recognized, of course, that it is possible to 
+establish a different theoretical construct: to regard the employer 
+as having been guilty of a continuing violation which ‘oc- 
+curred,’ for purposes of § 706(e), not only when the contractual 
+right was eliminated but also when each of the concrete effects 
+of the elimination was felt.” 490 U.S. at 906. But “[t}he an- 
+swer” to that approach was “that our cases have rejected” it. 
+Ibid.; see also 490 U.S. at 913 (Stevens, J., concurring) (“the 
+Court has correctly applied” its precedents “to the case at 
+hand”). “The continuing violation theory is contradicted most 
+clearly,” this Court stated, by Ricks and Evans. 490 U.S. at 906 
+(emphasis added). 
+
+One struggles in vain to figure out why Ms. Evans, 
+Ms. Guy (the complainant in Robbins & Myers), Professor 
+Ricks, and Ms. Lorance lost substantial rights by not filing an 
+EEOC charge within the statutory period after the discrim- 
+inatory events affecting them, yet Mr. Morgan (according to the 
+Ninth Circuit) lost nothing by failing to follow up with a timely 
+EEOC charge after “alleged unlawful employment practice[s]} 
+occurred” (42 U.S.C. § 2000e-5S(e)(1)) in 1991 and 1993. The 
+distinction cannot be merely that “sufficiently related” (Pet. 
+App. 16a) conduct occurred later, because each of the losing 
+plaintiffs in this Court’s earlier cases filed an EEOC charge 
+within the statutory period following employer conduct closely 
+related to the actions of which they complained. 
+
+
+19 
+
+
+2. Plaintiffs do not always lose limitations cases in this 
+Court. When they do win, however, there is a reason other than 
+hostility to the limitations defense. In particular, defendants 
+have been known to overreach in their identification of the dis- 
+crete event that triggered the plaintiff's duty to file in certain 
+cases (or to advance meritless objections to the application of 
+equitable tolling, see Part II, infra). The limitations cases in 
+which plaintiffs have prevailed, however, lend no support to the 
+Ninth Circuit’s “continuing violation” theory. 
+
+In Bazemore v. Friday, 478 U.S. 385 (1986), the Court held 
+that the defendants violated Title VII because they failed to 
+eradicate all vestiges of a pre-Title VII discriminatory salary 
+structure. The Court held that Title VII was violated by the 
+issuance of each week’s paycheck, stating, “[eJach week’s 
+paycheck that delivers less to a black than to a similarly situated 
+white is a wrong actionable under Title VII.” /d. at 395. 
+
+Consistent with all the rest of this Court’s jurisprudence, 
+Bazemore demonstrates that a new violation triggers a new stat- 
+ute of limitations even if the violation is identical to, even rooted 
+in, past practices that are themselves beyond challenge because 
+of the statute of limitations — what Justice Stevens for the Court 
+in Evans called “unfortunate event(s] in history which ha[ve] no 
+present legal consequences,” 431 U.S. at 558. That this is the 
+correct interpretation of Bazemore can be seen from the 
+language of the Court itself (identifying a recurring “wrong 
+actionable under Title VII"); from the Court’s subsequent 
+refusal in Lorance, 490 U.S. at 912 n.3, to interpret Bazemore as 
+support for allowing plaintiffs demoted in 1983 to challenge a 
+seniority system adopted in 1979; and from this Court’s antitrust 
+jurisprudence, which identifies a theory of recurring wrongs 
+exactly like the one applied in Bazemore yet cxplicitly contra- 
+dicts the Ninth Circuit’s theory in this case.® 
+
+
+* Antitrust law has a particularly well-developed jurisprudence regarding 
+
+
+20 
+
+
+In antitrust, each separate violation triggers the limitations 
+period on that separate violation. See, e.g., Zenith Radio Corp. 
+v. Hazeltine Research, Inc., 401 U.S. 321, 338-39 (1970); 
+Hanover Shoe, Inc. v. United Shoe Mach. Corp., 392 U.S. 481, 
+502 (1968). Each overt act that is part of a violation and that 
+injures the plaintiff starts the statutory limitations period 
+running again regardless of the plaintiff's knowledge of the 
+alleged illegality at earlier times. Klehr, 521 U.S. at 189 
+(quoting 2 P. AREEDA & H. HOVENKAMP, ANTITRUST LAW 4 
+338b, at 145 (rev. ed. 1995)). In Zenith, 401 U.S. at 338-39 
+(emphasis added), the Court reiterated the basic accrual rule for 
+a continuing or recurring violation: 
+
+Generally, a cause of action accrues and the statute begins 
+to run when a defendant commits an act that injures a 
+plaintiff's business. * * * In the context of a [continuing 
+or recurring violation] this has usually been understood to 
+mean that each time a plaintiff is injured by an act of the 
+defendants a cause of action accrues to him to recover the 
+damages caused by that act, and that, as to those damages, 
+the statute of limitations runs from the commission of the 
+act. * * * To recover those damages, he must sue within 
+the requisite [time] from the accrual of the action. 
+
+
+This accrual rule is exemplified in Hanover Shoe. The 
+plaintiff in Hanover Shoe filed suit in 1955, alleging that 
+
+
+violations that have continued over an extended period of time. Accordingly, 
+Professor Laycock soundly suggested some time ago that antitrust law's 
+treatment of such “continuing violations” can serve as a guide for Title VII 
+cases. See Douglas Laycock, Continuing Violations, Disparate Impact in 
+Compensation, and Other Title VII Issues, LAW & CONTEMP. PROBS., 
+Autumn 1986, at 53, 55 (1986) (“Part of the problem is that this debate [on 
+the application of the continuing violation doctrine] has been carried on in 
+a Title VII vacuum, without regard to continuing violation law in other 
+substantive areas. There is a well-developed continuing violation 
+jurisprudence, especially in antitrust law, and Title VII lawyers ought to look 
+at it.”). 
+
+
+21 
+
+
+United’s restrictive system of distributing shoe machinery 
+violated the antitrust laws. United argued that Hanover’s claim 
+was barred because it had applied the unlawful system to 
+Hanover for more than forty years. 392 U.S. at 502 n.15. The 
+Court concluded that, although United could not continue its 
+unlawful conduct forever merely because it had gone un- 
+challenged since before World War I, neither could Hanover 
+recover for more than 40 years of damages. The Court held that 
+the plaintiff could sue but could recover only for damages 
+suffered during the limitations period. /d. at 502. 
+
+
+In Bazemore as in these antitrust cases, the result of apply- 
+ing the separate accrual rule was that each separate violation, 
+i.e., the issuance of each week’s paycheck, gave rise to a cause 
+of action and triggered Section 706(e)’s limitations period.’ 
+
+
+’ It might clarify analysis to abandon the “continuing violation” termi- 
+nology with respect to cases like Bazemore and Zenith and Hanover Shoe 
+and refer instead to “recurring violations,” saving usage of the phrase 
+“continuing violation” for the types of cases discussed in Part II, infra. But 
+cf. Klehr, 521 U.S. at 189 (referring to “a ‘continuing violation,’ say, a price- 
+fixing conspiracy that brings about a series of unlawfully high priced sales 
+over a period of years”). The substance — as opposed to the terminology — 
+of this Court’s antitrust jurisprudence makes it clear that calling something 
+a “continuing violation” may defeat a statute-of-limitations defense if the 
+period, but never allows the plaintiff to resuscitate challenges to events that 
+occurred before the limitations period. See also Lorance, 490 U.S. at 912 
+n.3 (“a facially discriminatory system * * * by definition discriminates each 
+time it is applied”) (emphasis added). True “continuing violations,” such as 
+patterns of harassment that develop over time and become actionable only 
+once they cross a threshold of severity or pervasiveness, have different legal 
+consequences. See Taylor v. FDIC, 132 F.3d 753, 765 (D.C. Cir. 1997) 
+(Williams, J.) (“For statute of limitations purposes, a continuing violation is 
+‘one that could not reasonably have been expected to be made the subject of 
+a lawsuit when it first occurred because its character as a violation did not 
+become clear until it was repeated during the limitations period,’ typically 
+because it is only its cumulative impact (as in the case of a hostile work 
+enviroament) that reveals its illegality.”) (citations omitted). 
+
+
+22 
+
+
+That result is consistent with the Court’s holdings in Evans, 
+Robbins & Myers, and Ricks. The notice accrual rule is also 
+consistent with the traditional federal discovery accrual rule that 
+is grafted onto statutes of limitations in federal question cases in 
+the absence of a contrary directive by Congress. 
+
+
+C. Title VII’s Notice Accrual Rule Is Consistent With 
+The Traditional Federal Discovery Accrual Rule 
+
+
+Title VII’s notice accrual rule is an iteration of the tradi- 
+tional federal discovery accrual rule. Rotella v. Wood, 528 U.S. 
+549, 555 (2000) (federal courts generally apply a discovery 
+accrual rule when a statute is silent on the issue); see Holmberg 
+v. Armbrecht, 327 U.S. 392, 397 (1946) (claim for equitable 
+relief under the Federal Farm Loan Act); United States v. 
+Mottaz, 476 U.S. 834, 842-43 (1986) (claim under the Quiet 
+Title Act); Kubrick, 444 U.S. 111, 120-22 & n.7 (claim under 
+Federal Tort Claims Act); Urie v. Thompson, 337 U.S. 163, 170 
+(1949)(claim under Federal Employer’s Liability Act); 
+Exploration Co. v. United States, 247 U.S. 437, 447 (1918) 
+(bankruptcy fraud claim). The discovery component of the 
+federal accrual rule is tied to discovery of the injury, not to 
+discovery of each element of a claim. As the Court explained in 
+Rotella, 528 U.S. at 555, “in applying a discovery accrual rule, 
+we have been at pains to explain that discovery of the injury, not 
+discovery of other elements of a claim, is what starts the clock.” 
+In a Title VII case, generally because of the nature of the 
+discrete acts involved — termination, demotion, failure to 
+promote — the plaintiff's knowledge of his injury is contem- 
+poraneous with his knowledge of the discrete allegedly 
+discriminatory act. See note 4, supra. It is particularly relevant 
+that this traditional discovery accrual rule is applied in National 
+Labor Relations Act cases because Title VII’s remedial 
+provisions are based on the NLRA’s parallel provisions. 
+
+
+23 
+
+
+1. The Traditional Federal Discovery Accrual 
+Rule Applies To Cases Arising Under The 
+
+
+NLRA 
+
+
+Title VII’s remedial provisions, including Section 706(e)’s 
+limitations period, are expressly modeled on the analogous 
+remedial provisions in the National Labor Relations Act 
+(“NLRA”). 29 U.S.C. § 160(b); Lorance, 490 U.S. at 909-10; 
+Zipes, 455 U.S. at 394-95. Reliance on NLRA decisions is par- 
+ticularly appropriate in interpreting Section 706(e)’s limitations 
+period, “since the highly unusual feature of requiring an admin- 
+istrative complaint before a civil action can be filed against a 
+private party is common to both statutes.” Lorance, 490 U.S. at 
+909 (noting that the NLRA’s limitations period is “substantially 
+similar” to Title VII’s limitations period). Thus, principles 
+developed under the NLRA provide guidance on interpreting 
+Title VII. Lorance, 490 U.S. at 909; Ford Motor Co. v. EEOC, 
+458 U.S. 219, 226 n.8 (1982). 
+
+
+Under the NLRA, the courts apply the traditional federal 
+discovery accrual rule that the limitations period begins to run 
+when the employee knew or in the exercise of reasonable 
+diligence should have known of the acts constituting the alleged 
+violation. Armco Inc. v. NLRB, 83 F.3d 357, 362 (6th Cir. 
+1988); Metz v. Tootsie Roll Industries, Inc., 715 F.2d 299, 304 
+(7th Cir. 1983); Benson v. Gen. Motors Co., 716 F.2d 862, 864 
+(11th Cir. 1983) (“For the purpose of determining when the 
+[NLRA] §10(b) period begins to run, we look to when plaintiffs 
+either were or should have been aware of the injury itself, not to 
+when plaintiffs became aware of one of the injury’s many mani- 
+festations”); NLRB v. Don Burgess Constr. Co., 596 F.2d 378, 
+382 (9th Cir.), cert. denied, 444 U.S. 940 (1979). In instances 
+in which a discrete act such as a discharge or discriminatory 
+refusal to reinstate is at issue, the NLRA’s limitations period 
+runs from the date of that act. Ansom v. Hiram Walker & Sons, 
+Inc., 248 F.2d 380, 382 (7th Cir. 1957); NLRB v. Textile 
+
+
+24 
+
+
+Machine Works, Inc., 214 F.2d 929 (3d Cir. 1954); NLRB v. 
+Pennwoven, Inc., 194 F.2d 521 (3d Cir. 1952). 
+
+
+The plaintiffs in Ansom had been discharged three years 
+before they filed a charge challenging the discharge. Ansom, 
+248 F.2d at 381. The Seventh Circuit rejected their attempt to 
+rely on the continuing violation doctrine to save their claim of 
+wrongful discharge, holding, “plaintiffs make a direct averment 
+that they had been wrongfully discharged in 1952. Their cause 
+of action arose then.” /d. at 382. 
+
+
+Likewise, in Pennwoven, the Third Circuit rejected the 
+plaintiffs’ attempt to invoke a continuing violation doctrine 
+based on a continuing tort theory akin to nuisance to save their 
+claims of discriminatory refusal to reinstate. 194 F.2d at 524- 
+25. Noting that “Congress inserted this limitation provision be- 
+cause there had been complaints that people were being brought 
+to book upon stale claims,” the court reasoned that permitting 
+the plaintiffs to rely on a continuing violation doctrine would 
+thwart the limitations provision because the employee’s case 
+then would “never be closed until it is finally litigated.” Ibid. 
+Thus, the court held that the limitations period began to run 
+from the date that the employer refused to reinstate the employ- 
+ees and “they knew it and knew, or thought they knew, why they 
+had not been called back.” Jd. at 525; see also Textile Machine 
+Works, Inc., 214 F.2d 929 (holding that claims of employees 
+who sought reinstatement were barred, but permitting claims of 
+applicants for employment that had been unlawfully denied 
+employment during the lirnitations period to proceed). 
+
+
+The NLRA’s discovery accrual rule was established before 
+Congress passed Title VII. It can be assumed that Congress was 
+aware of the rule and approved of its use in the Title VII context 
+when it used the NLRA’s remedial provisions as a model. See 
+Albemarle Paper Co. v. Moody, 422 U.S. 405, 419-20 (1975) 
+(assuming Congress was aware of the Board’s provision of 
+backpay when it used the NLRA’s remedial provisions as a 
+
+
+25 
+
+
+model for Title VII); cf Lorillard v. Pons, 434 U.S. 575, 581 
+(1978) (“When * * * Congress adopts a new law incorporating 
+a section of a prior law, Congress normally can be presumed to 
+have knowledge of the interpretation given to the incorporated 
+law, at least insofar as it affects the new statute.”). Thus, 
+application of the notice accrual rule to Title VII cases is 
+grounded in the application of the discovery rule to NLRA 
+
+
+cases. 
+
+
+2. The Court Has Rejected Less Demanding 
+Accrual Rules In The Context of Civil RICO 
+
+
+Cases 
+
+
+This traditional discovery accrual rule has been applied in 
+the context of remedial statutes like Title VII. Indeed, the Court 
+has held that the discovery accrual rule furthers the remedial 
+purposes of statutes that encourage civil actions by individuals 
+to supplement the government’s efforts to deter or to eradicate 
+unlawful behaviors. Accordingly, the Court has rejected less de- 
+manding accrual rules in the context of civil RICO claims, rea- 
+soning that such rules are inconsistent with the statute’s 
+
+
+remedial purpose. 
+
+
+In Klehr and Rotella, the Court addressed the appropriate 
+accrual rule for civil RICO actions. In Klehr, the Court rejected 
+plaintiffs’ attempts to rely on a last-predicate-act rule of accrual 
+to salvage their otherwise untimely civil RICO claim. Klehr, 
+521 U.S. 179. The dairy farmer plaintiffs in Klehr purchased a 
+silo to store cattle feed from defendant in 1974. The plaintiffs 
+claimed that they purchased the silo based on what later proved 
+to be false representations about the fresh and healthful condi- 
+tion in which the silo would maintain the cattle feed. Jd. at 183- 
+84. The plaintiffs alleged that they discovered the poor state of 
+the cattle feed stored in the silo and consequent falsehood of the 
+representations by defendant in 1991, so that their action filed 
+in 1993 was brought within the four-year limitations period. Jd. 
+at 185. This Court, however, held that the plaintiffs’ suit was 
+
+
+26 
+
+
+untimely. The Court rejected the Third Circuit’s last-predicate- 
+act rule of accrual, which would have provided that the limita- 
+tions period ran from the time the plaintiff knew or should have 
+known of the /ast injury or last predicate act that is part of the 
+pattern of racketeering. /d. at 186. That accrual rule — like the 
+version of the continuing violation doctrine espoused by the 
+Ninth Circuit in this case — permits a plaintiff to recover not 
+only for harm caused by acts committed within the limitations 
+period, but also for all acts that make up the total pattern of 
+racketeering activity regardless of when he knew or in the 
+exercise of due diligence should have known about the injury. 
+Id. at 186-87. 
+
+
+“The Clayton Act help[ed]” the Court to decide Klehr 
+“because it ma[de] clear precisely where, and how, the Third 
+Circuit’s rule [went] too far.” 521 U.S. at 189. The Court com- 
+pared the last-predicate-act accrual rule to continuing violation 
+(or recurring violation) jurisprudence under the Clayton Act, 
+noting that in antitrust cases the plaintiff cannot use a later 
+predicate act as a bootstrap to recover injuries caused by earlier 
+predicate acts that took place outside the limitations period. Jd. 
+at 189-90. Accordingly, the Court unanimously rejected the 
+last-predicate-act accrual rule, reasoning that “the rule would 
+permit plaintiffs who know of the defendant’s pattern of activity 
+simply to wait ‘sleeping on their rights,’ as the pattern continues 
+and treble damages accumulate, perhaps bringing suit only long 
+after the ‘memories of witnesses have faded or evidence lost.’” 
+Id. at 187 (citing Wilson v. Garcia, 471 U.S. 261, 271 (1985)). 
+
+
+In Rotella, the Court had a second opportunity to consider 
+the appropriate accrual rule for causes of action in civil RICO. 
+This time, the Court unanimously rejected the “injury-and- 
+pattern-discovery” rule, under which a civil RICO claim accrues 
+only when the claimant discovers or should have discovered 
+both an injury and a pattern or RICO activity, in favor of the 
+“injury discovery” rule under which a civil RICO claim accrues, 
+at the latest, when a plaintiff knew or should have known of his 
+
+
+27 
+
+
+injury. 528 U.S. at 555. The Court rejected the injury-and- 
+pattern-discovery rule because a pattern discovery rule — like the 
+continuing violation doctrine applied by the Ninth Circuit in this 
+case — would allow proof of defendant’s acts that are remote 
+from the time of trial and would foster “litigation even more at 
+odds with the basic principles of all limitations provisions: 
+repose, elimination of stale claims, and certainty about a 
+plaintiff's opportunity for recovery and a defendant’s potential 
+liabilities.” Jd. at 554. The Court noted that a plaintiff who is 
+aware of the fact of the injury has the responsibility to 
+investigate and determine whether he should bring a claim 
+within the limitations period. Jd. at 556-57. 
+
+
+There is no basis for requiring of Title VII plaintiffs a lesser 
+degree of responsibility to pursue claims promptly than is re- 
+quired of plaintiffs bringing actions to enforce civil RICO, anti- 
+trust laws, the FTCA, the NLRA, or any of the other federal stat- 
+utes that apply the discovery accrual rule. See Rotella, 528 U.S. 
+at 556-57; Kubrick, 444 U.S. at 122, 124. Indeed, there is less 
+complexity in determining whether an employer’s actions might 
+be discriminatory than there is in discovering racketeering 
+activity that by its very nature may be concealed (as in Rotella) 
+or in identifying medical malpractice that may require resort to 
+expert opinion (as in Kubrick). Nevertheless, the Court has 
+adopted injury discovery rules in both these contexts. In Ro- 
+tella, the Court reasoned that any less stringent accrual rule 
+“would patently disserve the congressional objective of a civil 
+enforcement scheme * * * aimed at rewarding the swift who un- 
+dertake litigation in the public good.” Rotella, 528 U.S. at 559. 
+The challenged acts under Title VII are less complex than those 
+challenged under civil RICO, and a fortiori there can be no 
+justification for a less stringent accrual rule in Title VII cases. 
+
+
+Moreover, like civil RICO, Title VII primarily serves a re- 
+medial purpose. It is designed to eradicate employment dis- 
+crimination by “achiev[ing] equality of employment oppor- 
+tunities and remov[ing] barriers that have operated in the past to 
+
+
+28 
+
+
+favor an identifiable group * * * over other employees.” 
+Albemarle Paper Co., 422 U.S. at 417 (quoting Griggs v. Duke 
+Power Co., 401 U.S. 429-30 (1971)); Ford Motor Co., 458 U.S. 
+at 227; 230. Compensation to victims of employment 
+discrimination is “Title VII’s secondary, fallback purpose.” 
+Ford Motor Co., 458 U.S. at 230. To accomplish Title VII's 
+primary deterrent goal, the Court has recognized that legal rules 
+fashioned to implement Title VII should be designed to 
+encourage employers to end discrimination, id. at 228, and has 
+adopted such rules. See, e.g., Ford Motor Co., 458 U.S. 219 
+(recognizing rule that further acciual of backpay liability is 
+tolled when the defendant offers the claimant the job originally 
+sought); Faragher v. City of Boca Raton, 524 U.S. 775, 805-07 
+(1998); Ellerth, 524 U.S. at 764 (recognizing an affirmative 
+defense for employers in hostile environment sexual harassment 
+cases where the hostile environment is caused by an immediate 
+supervisor if the employer can demonstrate that (1) it exercised 
+reasonable care to prevent and promptly correct any sexually 
+harassing behavior, and (2) the employee unreasonably failed to 
+take advantage of corrective measures or otherwise avoid harm). 
+
+
+Strict application of statutory limitations periods is 
+particularly appropriate in cases involving remedial statutes — 
+like Title VII — because prompt filing of claims promotes the 
+societal interests at the heart of these statutes. See, e.g., 
+Alexander, 415 U.S. at 45 (“Congress gave private individuals 
+a significant role in the enforcement process of Title VII. * * * 
+[T]he private litigant not only redresses his own injury but also 
+vindicates the important congressional policy against discrimi- 
+natory employment practices.”’) (citations omitted); Rotella, 528 
+US. at 558 (“[i]t would * * * be strange to provide an unusually 
+long basic limitations period that could only have the effect of 
+postponing whatever public benefit civil RICO might realize”). 
+
+
+29 
+
+
+D. The Ninth Circuit’s “Sufficiently Related” Test 
+Ignores Title VII’s Notice Accrual Rule 
+
+
+Under the Ninth Circuit’s test, a plaintiff is permitted to 
+recover damages for untimely claims provided that they are _ 
+“sufficiently related” to any act occurring within the limitations 
+period. Pet. App. 16a. The Ninth Circuit’s “sufficiently relat- 
+ed” test disregards the traditional accrual rules applicable to 
+Title VII because it ignores the existence of a discrete act as the 
+trigger for the running of the limitations period. 
+
+
+In this case, the first alleged act of discrimination occurred 
+in February 1991, when Amtrak terminated Morgan. Pet. App. 
+7a. Shortly after that termination (which was reduced to a 
+suspension), Morgan complained that he was the victim of racial 
+discrimination and specifically cited the termination as an 
+example of discrimination. /d. at 8a. The February 1991 termi- 
+nation triggered the running of Section 706(e)’s limitations 
+period. Morgan, however, failed to file a timely charge. He did 
+not file a charge until four years later. 
+
+
+Thus, the February 1991 termination — like the other 
+discrete events that were not the subject of timely charges — “is 
+merely an unfortunate event in history which has no present 
+legal consequences,” Evans, 431 U.S. at 558, and Amtrak “is 
+entitled to treat the past act as lawful.” Jbid. The Ninth Circuit, 
+however, held that, because acts occurring within the limitations 
+period were sufficiently related to untimely acts, Morgan should 
+be permitted to recover damages for all past acts including the 
+1991 termination. Pet. App. 18a-20a. The result of the Ninth 
+Circuit’s “sufficiently related” test is that the notice accrual rule 
+is abolished and the limitations period for discrete, allegedly 
+discriminatory acts is extended indefinitely. The Ninth Circuit’s 
+“sufficiently related” test for a continuing violation cannot be 
+
+
+30 
+
+
+reconciled with Evans, Ricks, Bazemore, or the broader body of 
+this Court’s statute-of-limitations jurisprudence.*® 
+
+
+Il. THE CONTINUING VIOLATION DOCTRINE IS 
+APPLICABLE, IF AT ALL, ONLY IN CASES 
+INVOLVING HOSTILE ENVIRONMENT CLAIMS 
+
+
+Nearly every Title VII case involves some discrete alleged- 
+ly discriminatory act that triggers the running of the limitations 
+
+
+* Despite the reasons to apply statute-of-limitations jurisprudence across 
+different statutory schemes, this Court has allowed Fair Housing Act statute- 
+of-limitations jurisprudence to develop independently of its Title VII 
+jurisprudence. In Havens Realty Corp. v. Coleman, 455 U.S. 363, 380-81 
+(1982), the Court addressed a “continuing violation” question without 
+mention of its decision earlier the same Term in Chardon v. Fernandez, its 
+decision the prior Term in Delaware State Coll. v. Ricks, its five-year-old 
+decision in United Air Lines v. Evans, or its six-year-old decision in Robbins 
+& Myers. Similarly, when the Court addressed an important Title VII 
+statute-of-limitations issue in Lorance, the brief for the United States and the 
+Equal Employment Opportunity Commission as Amici Curiae Supporting 
+Petitioners, in footnote 14 and its accompanying text, invited the Court to 
+link its Title VII and Fair Housing Act jurisprudence and asserted that 
+“Havens Realty seems clearly to indicate” that the Title VII statute of 
+limitations had not expired in that case. Yet the Court held that the statute 
+of limitations had expired, and in so holding did not find it necessary to 
+mention or distinguish Havens Realty. To the extent the two bodies of case 
+law can or need to be reconciled, it appears that this Court conceives of the 
+underlying violation in certain Fair Housing Act cases differently than it 
+conceives of a Title VII violation. The Court afforded standing to certain 
+plaintiffs in Havens Realty based on “an adverse impact on the neighborhood 
+in which the plaintiff resides resulting from the steering of persons other than 
+the plaintiff.” 455 U.S. at 375. With respect to those “‘neighborhood’ 
+claims,” id. at 381, and only with respect to the neighborhood claims, the 
+Court thought the violation to consist of “petitioners’ continuing pattern, 
+practice, and policy of unlawful racial steering” (ibid.) rather than any single 
+act or even series of acts specifically directed against the plaintiffs. With 
+respect to the plaintiff who did make untimely allegations of acts specifically 
+directed against her, however, the Court actually reversed the decision of the 
+court of appeals that had allowed her to proceed on a “continuing violation” 
+theory. /bid. 
+
+
+31 
+
+
+period. In rare cases, however, the Title VII violation is a 
+hostile environment claim composed only of a pattern of harass- 
+ment extending over time or a pattern of harassment that cul- 
+minates in a discrete allegedly discriminatory act that apprises 
+the employee for the first time that the prior conduct might have 
+been discriminatory. See, e.g., O'Rourke v. City of Providence, 
+235 F.3d 713 (1st Cir. 2001); Galloway v. Gen. Motors Serv. 
+Parts Operations, 78 F.3d 1164 (7th Cir. 1996). These are 
+archetypal “continuing violations.” Title VII’s notice accrual 
+rule should be applied to these cases with the result that the 
+cause of action accrues when an employee knows or in the 
+exercise of reasonable diligence should have known that the acts 
+constituted harassment. The application of the notice accrual 
+rule to hostile environment claims, in some cases, will result in 
+plaintiffs’ being able to recover damages for acts that otherwise 
+would be time barred. Consistent application of the notice 
+accrual rule to hostile environment cases leads in most instances 
+to the same results as application of the judicially created equit- 
+able tolling rule known as the continuing violation doctrine. 
+
+
+A. Equitable Tolling Doctrines, Including the Continu- 
+ing Violation Doctrine, Extend The Limitations 
+Period In Rare Cases 
+
+
+Shortly after the passage of Title VII, the courts began to 
+recognize a judicially created continuing violation exception to 
+Title VII’s short limitations period in cases in which a defen- 
+dant’s conduct was deemed continuing in nature. See, e.g., 
+Cedeck v. Hamiltonian Fed. Sav. & Loan Ass'n, 551 F.2d 1136 
+(8th Cir. 1977); Richard v. McDonnell Douglas Co., 469 F.2d 
+1249 (8th Cir. 1972); Cox v. United States Gypsum Co., 409 
+F.2d 289, 290-91 (7th Cir. 1969). In these cases, the courts used 
+the continuing violation doctrine to allow plaintiffs to recover 
+based on acts that otherwise would be time-barred. The 
+continuing violation doctrine is premised on the equitable notion 
+that the statute of limitations should not begin to run until a 
+reasonable person would be aware that his or her rights have 
+
+
+32 
+
+
+been violated. Alldread v. City of Grenada, 988 F.2d 1425, 
+1432 (Sth Cir. 1993); see also Zipes, 455 U.S. at 393 (Section 
+706(e)’s limitations period is “subject to waiver, estoppel, and 
+equitable tolling”). 
+
+Equitable tolling doctrines, like the continuing violation 
+doctrine, may be used to extend the limitations period in cases 
+in which the limitations period has run before the plaintiff ob- 
+tained information essential to deciding whether he had a claim. 
+Note, The Charge-Filing Requirements of The Age Discrimina- 
+tion in Employment Act: Accrual and Equitable Modification, 
+91 MicH. L. REv. 798, 807-10 (1993) (discussing Supreme 
+Court doctrine with respect to accrual and equitable modifica- 
+tion of Title VII’s limitation period); see also Cada v. Baxter 
+Healthcare Corp., 920 F.2d 446 (7th Cir. 1990) (discussing 
+accrual and equitable modification of ADEA’s limitations peri- 
+od). Equitable relief from statutes of limitations, however, is 
+rare. Rotella, 528 U.S. at 561 (“[t}he virtue of relying on equit- 
+able tolling lies in the very nature of such tolling as the 
+exception, not the rule”); Jrwin v. Dept. of Veterans Affairs, 498 
+U.S. 89, 96 (1990) (“[flederal courts have extended equitable 
+relief only sparingly”): Baldwin County Welcome Center v. 
+Brown, 466 U.S. 147 (1984). Equitable tolling rules cannot be 
+used by a plaintiff who knowingly fails to file within the 
+limitations period. See Irwin, 498 U.S. at 458 (“We have gen- 
+erally been much less forgiving in receiving late filings where 
+the claimant failed to exercise due diligence in preserving his 
+legal rights.”); Baldwin County Welcome Center, 466 U.S. at 
+152 (“One who fails to act diligently cannot invoke equitable 
+principles to excuse that lack of diligence.”); Amini, 2001 WL 
+867422, at *5-*7 (“equitable tolling relief should be granted 
+only sparingly,” and plaintiff who could have filed earlier but 
+did not was “far from diligent”). 
+
+
+In Baldwin County Welcome Center, the plaintiff received 
+a right-to-sue notice from the EEOC and mailed the notice to the 
+district court along with a request for appointment of counsel. 
+
+
+33 
+
+
+466 U.S. at 148. The district court received the right-to-sue 
+notice within 90 days after the plaintiff had received it from the 
+EEOC. Ibid. The district court, nevertheless, dismissed the case 
+because the right-to-sue notice did not meet the requirements for 
+a complaint under Rule 8, including a factual statement to 
+support the discrimination claim. /d. at 149. The court of 
+appeals reversed, citing the remedial purposes of Title VII, and 
+held that the filing of the right-to-sue notice tolled the running 
+of the limitations period. This Court in turn reversed, agreeing 
+with the district court that the right-to-sue notice did not 
+constitute an adequate complaint. It also rejected the application 
+of equitable tolling premised on the plaintiff s “diligent efforts.” 
+Ibid. The Court listed cases in which equitable tolling might be 
+appropriate, including those in which the plaintiff received 
+inadequate notice; there is a motion for appointment of counsel 
+pending; the court led the plaintiff to believe that she had done 
+everything required of her; or there was affirmative misconduct 
+by the defendant that lulled the plaintiff into inaction. /d. at 
+151-52. The Court noted that none of those factors justifying 
+application of equitable tolling was present, and rejected 
+plaintiff's argument that the lack of prejudice to the defendant 
+should be a factor justifying equitable tolling of Section 706(e)’s 
+limitations period. /d. at 152. The Court stated (ibid.), 
+
+
+Procedural requirements established by Congress for 
+gaining access to the federal courts are not to be 
+disregarded by courts out of a vague sympathy for 
+particular litigants. As we stated in Mohasco Corp. v. 
+Silver, 477 U.S. 807, 826 (1980), * * * “[I}n the long run, 
+experience teaches that strict adherence to the procedural 
+requirements specified by the legislature is the best 
+guarantee of evenhanded administration of the law.” 
+
+
+Likewise, in /rwin, the Court rejected a plaintiff's attempt 
+to rely on equitable tolling to extend the 30-day period in which 
+he was required to file suit after receiving his nght-to-sue letter 
+from the EEOC. /rwin, 498 U.S. at 96. The plaintiff argued that 
+
+
+34 
+
+
+his attorney was absent from the office when his right-to-sue 
+letter was delivered and that he had filed suit within 30 days of 
+actually receiving the letter. The Court observed that equitable 
+tolling is appropriate in cases where the plaintiff actively pur- 
+sued his judicial remedies by filing a defective pleading during 
+the statutory period, or where the plaintiff has been induced or 
+tricked by his adversary’s misconduct into allowing the filing 
+deadline to pass. Jbid. The Court characterized the delay in 
+Irwin, by contrast, as “garden variety * * * excusable neglect” 
+and found no extraordinary or exceptional circumstances 
+warranting equitable tolling. Ibid. 
+
+
+The sparing use of equitable tolling doctrines to extend 
+statutory limitations periods applies with full force to Title VII 
+claims. This Court repeatedly has recognized that the Title VII 
+limitations period facilitates the delicate balance among the in- 
+terests of the employee in protecting his civil rights; the societal 
+interest in promoting prompt filing of discrimination claims, 
+thereby enhancing the likelihood of accurate determinations; and 
+the employer’s interest in being protected from untimely claims. 
+Crown, Cork & Seal Co. v. Parker, 462 U.S. 345, 352 (1983) 
+(limitations periods are “intended to put defendants on notice of 
+adverse claims and to prevent plaintiffs from sleeping on their 
+rights.”); Ricks, 449 U.S. at 259-60 (“it should not be forgotten 
+that time-limitations provisions themselves promote important 
+interests; ‘the period allowed for instituting suit inevitably 
+reflects a value judgment concerning the point at which the 
+interests in favor of protecting valid claims are outweighed by 
+the interests in prohibiting the prosecution of stale ones’”) 
+(citation omitted); Evans, 454 U.S. at 559 (employer is “entitled 
+to treat that past [discriminatory] act as lawful after [the 
+employee] failed to file a charge of discrimination” within the 
+limitations period); Robbins & Myers, 429 U.S. at 240 
+(“[ajdherence to the limitations period assures prompt 
+notification to the employer of a charge of an alleged violation 
+of Title VIT’). 
+
+
+35 
+
+
+Thus, this Court has expressly rejected equitable tolling 
+rules that would extend the limitations period for plaintiffs who 
+knowingly fail to assert their rights pursuant to Section 706(e). 
+Ricks, 449 U.S. at 257-58; Chardon, 454 U.S. at 8; Evans, 431 
+U.S. at 558; Robbins & Myers, 429 U.S. at 239-40. 
+
+
+In Robbins & Myers, this Court rejected an employee’s 
+argument that the Title VII limitations period was toiled during 
+the pendency of a grievance procedure challenging her allegedly 
+discriminatory and unfair termination. 429 U.S. 229. The 
+employee filed a grievance pursuant to the applicable collective 
+bargaining agreement two days after her termination challenging 
+it as “unfair.” However, she waited until after the grievance 
+procedure was complete and after the Title VII limitations 
+period had run to file her charge with the EEOC. /d. at 231-32. 
+In arguing that Title VII’s statutory limitations period should be 
+tolled during the pendency of grievance/arbitration proceedings, 
+the employee noted that any delay would be slight and that 
+failure to permit such tolling might force an employee into court 
+prematurely. This Court, citing Alexander, 415 U.S. 36, and 
+Johnson, 421 U.S. 454, reaffirmed the independence of rem- 
+
+
+% Likewise, this Court has rejected an equitable tolling rule when a plain- 
+tiff tried to rely on Title VII to extend the limitations period for his Section 
+1981 claim. In Johnson v. Ry. Express Agency, Inc., 421 U.S. 454, the 
+plaintiff filed a timely charge with the EEOC alleging race discrimination. 
+More than three years later, the EEOC issued a right-to-sue letter. The plain- 
+tiff filed suit alleging violations of both Title VII and Section 1981. He 
+argued that the one-year limitations period applicable to his Section 1981 
+claim was tolled during the pendency of the processing of his Title VII claim 
+by the EEOC. This Court rejected the plaintiff’ s arguments and held that the 
+one-year limitations period on his Section 1981 claim had expired. This 
+Court held, “plaintiff has slept on his § 1981 rights. The facts that his slum- 
+ber may have been induced by faith in the adequacy of his Title VII remedy 
+is of little relevance inasmuch as the two remedies are truly independent. 
+* ** We find no policy reason that excuses petitioner’s failure to take the 
+minimal steps necessary to preserve each claim independently.” 421 U.S. at 
+466. 
+
+
+36 
+
+
+edies under a collective bargaining agreement and Title VII and 
+held that “Congress has already spoken with respect to what it 
+considers acceptable delay when it established a 90-day limita- 
+tions period, and gave no indication that it considered a ‘slight’ 
+delay followed ny 90 days equally acceptable. In defining Title 
+VII's jurisdictional prerequisites ‘with precision,’ Congress did 
+not leave to courts the decision as to which delays might or 
+might not be ‘slight.”” Jd. at 240 (citation omitted). 
+
+
+This Court also has rejected attempts by plaintiffs who 
+knowingly let the limitations period expire to use the continuing 
+
+
+violation doctrine to salvage stale claims. As discussed above, — 
+
+
+the Court rejected the plaintiff's attempt to use the continuing 
+violation doctrine to extend Title VII’s limitations period in 
+Ricks. 449 U.S. 252. The plaintiff argued that the continuing 
+violation doctrine should apply to save his claim of discrimina- 
+tory denial of tenure in part because a number of “unusual inci- 
+dents” — including an alleged assault by the department chair- 
+man — occurred between the denial of tenure and his termination 
+more than a year later. /d. at257n.8. This Court noted, “{tJhe 
+limitations periods, while guaranteeing the protection of the 
+civil rights laws to those who promptly assert their rights, also 
+protects employers from the burden of defending claims arising 
+from employment decisions that are long past.” Jd. at 256-57. 
+Accordingly, this Court rejected the plaintiff's reliance on the 
+continuing violation doctrine and held that his claim was time 
+barred.'® Of course, the Ninth Circuit would have reached the 
+opposite result, deeming the assault and other unusual incidents 
+capable of being interpreted as retaliatory and thus “sufficiently 
+
+
+'° — See also Evans, 431 U.S. 553 (rejecting plaintiff's reliance on con- 
+tinuing violation doctrine to save discriminatory seniority claim where the 
+claim was based on the current effects of the past policy); cf Chardon, 454 
+U.S. at 7-8 (rejecting plaintiffs’ reliance on termination date as date on which 
+of their terminations). 
+
+
+—— 
+
+
+37 
+
+
+related” to allow litigation over the denial of tenure. See 
+Fielder, 218 F.3d at 986-87 (ostensibly unrelated verbal 
+reprimand long after incidents of alleged harassment could be 
+considered both retaliatory and related, and thus entire case, 
+including otherwise time-barred harassment claims, must go to 
+jury). But it is this Court’s decisions that bind the Ninth Circuit, 
+not the other way around. 
+
+
+In Lorance, the Court rejected plaintiffs’ reliance on the 
+continuing violation doctrine to extend Section 706(e)’s limita- 
+tions period. 490 U.S. at 906. The Lorance plaintiffs failed to 
+challenge the imposition of a discriminatory seniority system 
+within 300 days. They did, however, file administrative charges 
+within 300 days of being demoted pursuant to that seniority 
+system. Jd. at 903-04. The plaintiffs did not claim that they 
+were unaware of the adoption of the discriminatory seniority 
+system, but rather argued that under a continuing violation 
+theory the discriminatory conduct occurred when they were 
+demoted, not when the seniority system went into effect. /d. at 
+906. The Court rejected that argument, holding that plaintiffs’ 
+claims were wholly dependent on discriminatory conduct 
+occurring outside the limitations period and that the demotions 
+were merely inevitable consequences of the prior discriminatory 
+conduct. Jd. at 907-08. 
+
+
+Thus, in the Title VII context, the Court consistently has 
+rejected the use of the continuing violation doctrine to extend 
+the statutory limitations period when a plaintiff knowingly fails 
+to pursue his claims in a timely fashion. Nothing, however, 
+prevents the sparing use of the continuing violation doctrine, 
+like other equitable tolling approaches, to protect those few 
+Title VII plaintiffs who could not reasonably have been ex- 
+pected to bring an EEOC charge within 180 or 300 days of the 
+first act or acts that in retrospect appear discriminatory. We tum 
+now to an examination of the approaches that have been 
+developed in the courts of appeals to see which is most 
+consistent with this Court’s precedents. 
+
+
+38 
+
+
+B. The Continuing Violation Doctrine Should Apply 
+Only In Hostile Environment Cases Where The 
+Plaintiff Reasonably Did Not Know The Conduct 
+Was Discriminatory Or Where The Discriminatory 
+Nature Of The Conduct Is Recognized As Discrim- 
+inatory Only In Light Of Later Occurring Events 
+
+
+Early development of the continuing violation doctrine was 
+aptly described as “inconsistent and confusing.” Dumas v. 
+Town of Mt. Vernon, 612 F.2d 974, 977 (Sth Cir. 1980). That 
+confusion continues today. The courts of appeals have inter- 
+preted the doctrine in widely divergent ways and apply different 
+standards to interpret similar facts, resulting in contradictory 
+outcomes. The widespread inconsistency and confusion has 
+been recognized by both the courts and commentators. See 
+Galloway, 78 F.3d at 1165 (“The question when conduct 
+occurring outside the statute of limitations may, by virtue of its 
+link with recent conduct, be made a basis for a legal claim is a 
+vexing one * * *.”); Note, Continuing Confusion: The Applica- 
+tion of the Continuing Violation Doctrine to Sexual Harassment 
+Law, 79 Tex. L. REV. 531 (2000) (describing the “increasingly 
+complex and divergent application of the continuing violation 
+doctrine in sexual harassment and other types of employment 
+discrimination cases”); 2 B. LINDEMANN & P. GROSSMAN, EM- 
+PLOYMENT DISCRIMINATION LAW 1351 (3d ed. 1996) (citing the 
+continuing violation doctrine as “the most muddled area in all 
+of employment discrimination law:”); R.L. Paetzold & A.M. 
+O’Leary-Kelly, Continuing Violation and Hostile Environment 
+Sexual Harassment: When is Enough, Enough?, 31 AM. BUS. 
+L.J. 365, 382-83 (1993) (“{bJecause of the limited guidance 
+from the U.S. Supreme Court, the federal circuits have adopted 
+different standards for implementing the continuing violation 
+doctrine”); T. Crivens, The Continuing Violation Theory and 
+Systematic Discrimination: In Search of a Judicial Standard for 
+Timely Filing, 41 VAND. L. REV. 1171, 1172 (1988) (the 
+
+
+39 
+
+
+continuing violation doctrine is “one of the most confusing 
+theories in employment discrimination law”). 
+
+
+Three different approaches to the continuing violation doc- 
+trine have emerged. The Seventh Circuit’s approach articulated 
+by Judge Posner in Galloway, 78 F.3d 1164, limits the applica- 
+tion of the continuing violation doctrine to cases in which “it 
+would have been unreasonable to expect the plaintiff to sue 
+before the statute ran on that conduct, as in a case in which the 
+conduct could constitute, or be recognized, as actionable harass- 
+ment only in the light of events that occuired later, within the 
+period of the statute of limitations.” Galloway, 78 F.3d at 1167. 
+The First and Federal Circuits use the same approach. See 
+Sabree v. United Bhd. of Carpenters and Joiners, Local 33,921 
+F.2d 396 (1st Cir. 1990); Bosley v. Merit Systems Protection 
+Bd., 162 F.3d 665, 667 (Fed. Cir. 1998) (Bryson, J.); see also 
+Fitzgerald v. Henderson, 251 F.3d 345, 372 (2d Cir. 2001) 
+(Korman, J., dissenting). 
+
+
+The Fifth Circuit’s approach articulated in Berry v. Board 
+of Supervisors, 715 F.2d 971 (1983), permits use of the con- 
+tinuing violation doctrine to save otherwse time-barred claims 
+if the alleged acts are similar, if they ar* recurring, and if the un- 
+timely acts did not have the “degrse of permanence which 
+would trigger an employee’s awareness of and duty to assert his 
+rights.” Jd. at 981. The third factor, “permanence,” is con- 
+sidered most important. Jbid. Therefore, if the early untimely 
+act is sufficiently “permanent” in nature, a plaintiff may not rely 
+on the continuing violation doctrine. The Fifth Circuit identi- 
+fied these three factors as relevant, not exhaustive. /bid. 
+
+
+The third approach, advocated by the Ninth Circuit in this 
+case and in Fielder, rejects both the Galloway and Berry analy- 
+ses and permits use of the continuing violation doctrine to defeat 
+a statute-of-limitations defense and recover damages for pre- 
+limitations conduct so long as any act occurring outside the lim- 
+itations period is “sufficiently related” to allegedly discrimina- 
+
+
+40 
+
+
+tory conduct occurring within the limitations period. Pet. App. 
+15a, 18a; see also Fitzgerald, 251 F.3d 345.'' This approach 
+ignores controlling precedent, effectively nullifies Section 
+706(e)’s limitations period, and undermines Title VII’s remedial 
+purpose of eradicating discrimination. 
+
+
+1. The “Notice” Limitation On The Continuing 
+Violation Doctrine Is Consistent With The 
+Notice Accrual Rule, Effectuates Title VII’s 
+Remedial Purpose Of Eradicating Discrimina- 
+tion, And Results In Predictable Outcomes 
+
+
+The Galloway approach to the continuing violation doctrine 
+is consistent with both the notice accrual rule applicable to 
+Title VII cases and Title VII’s remedial purpose of eradicating 
+discrimination. Moreover, the Galloway approach, which 
+requires a focused inquiry into the facts of each case, results in 
+predictable outcomes. 
+
+
+In Galloway, the Seventh Circuit recognized that equitable 
+tolling doctrines including the continuing violation doctrine 
+should be applied to save hostile environment claims from the 
+Catch-22 of either filing prematurely or filing after the limita- 
+tions period has run. The Galloway court stated that equitable 
+tolling was appropriate in certain sexual harassment cases 
+because “[i]n its early stages it may not be diagnosable as sex 
+discrimination, or may not cross the threshold that separates the 
+nonactionable from the actionable, or may not cause sufficient 
+distress to be worth making a federal case out of, or may not 
+have gone on for long enough to charge the employer with 
+knowledge and a negligent failure to take effective remedial 
+
+
+'! The 2-1 decision in Fitzgerald, which was rendered after the petition 
+for a writ of certiorari in this case was filed, appears to put the Second 
+Circuit on the same side of the widespread circuit split as the Ninth Circuit, 
+though the majority opinion in Fitzgerald makes little effort to analyze its 
+consistency with other circuits’ jurisprudence. 
+
+
+41 
+
+
+measures.” Galloway, 78 F.3d at 1166. To avoid encouraging 
+premature or precipitate litigation, the Seventh Circuit held that 
+conduct that is not the subject of an immediate complaint is not 
+time barred provided “the victim of sexual harassment sues as 
+soon as harassment becomes sufficiently palpable that a reason- 
+able person would realize that she had a substantial claim under 
+Title VII.” Jbid. Ifa plaintiff does so “then she sues in time and 
+can allege as unlawful conduct the entire course of conduct that 
+in its cumulative effect has made her working conditions 
+
+
+unbearable.” Jbid. 
+
+
+The Galloway court, however, rejected the use of equitable 
+doctrines in cases in which it was evident long before the plain- 
+tiff sued that she was a victim of actionable harassment. 78 F.3d 
+at 1166. In such cases — as in Bazemore and the antitrust cases 
+— the plaintiff is permitted to sue provided that the last act 
+occurred within the limitations period, but she is not permitted 
+to reach back and base her suit on or recover for damages 
+incurred outside the limitations period. 78 F.3d at 1167. Thus, 
+the court concluded that “a plaintiff may not base her * * * suit 
+on conduct that occurred outside the statute of limitations unless 
+it would have been unreasonable to expect the plaintiff to sue 
+before the statue ran on that conduct.” /bid. In arriving at that 
+conclusion, the Seventh Circuit reconciled the social interest in 
+“encouraging the prompt filing of claims[,] and by doing so of 
+enhancing the likelihood of accurate determinations and remov- 
+ing debilitating uncertainty about legal liabilities,” with the 
+equitable interest in protecting a plaintiff who files a Title VII 
+charge as soon as he is or reasonably should be aware of an 
+actionable injury. /d. at 1165, 1166. 
+
+
+In Sabree, the First Circuit applied a similar analysis, hold- 
+ing that the critical inquiry in determining whether a continuing 
+violation tolled the limitations period is “what the plaintiff knew 
+or should have known at the time of the discriminatory act.” 
+Sabree, 921 F.2d at 402. Consistent with the notice accrual rule 
+applicable to Title VII cases, the Sabree court held, 
+
+
+42 
+
+
+What matters is whether, when and to what extent the 
+plaintiff was on inquiry notice. A claim arising out of an 
+injury which is “continuing” only because a putative 
+plaintiff knowingly fails to seek relief is exactly the sort of 
+claim that Congress intended to bar by the [300] day 
+limitation period. It is this factor that is the undoing of 
+Sabree, for he has admitted that he believed, at every turn, 
+that he was being discriminated against. A knowing plain- 
+tiff has an obligation to file promptly or lose his claim. This 
+can be distinguished from a plaintiff who is unable to 
+appreciate that he is being discriminated against until he has 
+lived through a series of acts and thereby is able to perceive 
+the overall discriminatory pattern. After all, [e]mployers as 
+well as employees are entitled to procedural safeguards in 
+the precincts patrolled by Title VII. 
+
+
+Ibid. (emphasis added; internal quotations and citations 
+omitted).'” 
+
+
+This notice limitation on the continuing violation doctrine 
+is consistent with Title VII’s notice accrual rule because it 
+requires a knowing plaintiff to file his administrative charge 
+promptly or lose his claim. It recognizes that the application of 
+equitable principles, including the continuing violation doctrine, 
+is appropriate when extraordinary or exceptional circumstances 
+have prevented the plaintiff from recognizing that he is the 
+victim of discrimination until some period of time has elapsed. 
+Thus, the notice limitation on the continuing violation doctrine 
+
+
+‘2 The court “flou}nd the permanence factor [i.e., the notice factor] dis- 
+positive of Sabree’s case,” and therefore “express[ed] no opinion as to the 
+viability of * * * other factors” that other courts have taken into account. 
+921 F.2d at 402 n.12. Subsequent First Circuit cases have likewise 
+pretermitted inquiry into any other factors when the plaintiff was on notice 
+and did not file a charge within 300 days. E.g., Provencher v. CVS 
+Pharmacy, 145 F.3d 5, 15 (ist Cir. 1998). The First Circuit’s approach, 
+which is identical to the Seventh and Federal Circuits’ approach, thus is 
+
+
+pointedly not a balancing test. 
+
+
+43 
+
+
+is consistent with and a logical adjunct to this Court’s rulings 
+interpreting Section 706(e)’s limitations period. 
+
+
+Moreover, the notice limitation effectuates Title VII’s pri- 
+mary policy of eradicating discrimination without compromising 
+its secondary, “fallback” policy of compensating victims of 
+discrimination. Galloway, 78 F.3d at 1167. Prompt filing of an 
+administrative charge alleging discrimination “is almost certain 
+to stop the [discrimination], so that unlike certain cases of 
+nuisance the plaintiff will not be put to the expense of bringing 
+successive suits. What is more, she can always seek injunctive 
+relief against a continuation of the unlawful conduct.” Jbid. 
+Indeed, a plaintiff loses his claim and opportunity for 
+compensation only when — like respondent Morgan — he fails to 
+file within 300 days of the alleged violation. The notice 
+limitation preserves the claims of employees who, in the 
+exercise of due diligence, do not immediately appreciate the 
+wrongful nature of the treatment they receive. 
+
+
+Statutes of limitations are designed to afford some predicta- 
+bility for both defendants and plaintiffs. The notice limitation 
+on the continuing violation doctrine leads to predictable — yet 
+not unduly harsh — results. 
+
+
+In cases involving hostile environment claims, courts apply- 
+ing the notice limitation routinely decide that the continuing 
+violation doctrine cannot be used by plaintiffs who admit that 
+they knew of the alleged discrimination before the limitations 
+period.'? See Landrau-Romero v. Banco Popular de Puerto 
+Rico, 212 F.3d 607, 612 (1st Cir. 2000) (handwritten note by 
+plaintiff identifying acts as discriminatory written more than a 
+
+
+‘3 Though critical of the case law placing weight on this factor, the author 
+of Note, Continuing Confusion: The Application of the Continuing Violation 
+Doctrine to Sexual Harassment Law, 79 TEX. L. REV. 531, acknowledges 
+that “courts have consistently rejected the continuing violation theory where 
+plaintiffs have admitted to being aware of the sexual or discriminatory nature 
+of the untimely acts.” /d. at 553. 
+
+
+44 
+
+
+year before the charge filed precluded plaintiff from relying on 
+the continuing violation doctrine); Provencher, 145 F.3d at 15 
+(plaintiff's admission that he knew he was being harassed long 
+before he filed charge precluded invocation of the continuing 
+violation doctrine); Dasgupta v. Univ. of Wis. Bd. of Regents, 
+121 F.2d 1138, 1140 (7th Cir. 1997) (allegations of outright dis- 
+crimination in pay and promotion, coupled with the defendant’s 
+failure to protect employee from gross harassment, were suffi- 
+cient to support a Title VII claim years before the employee 
+filed suit, thereby precluding him from relying on the continuing 
+violation doctrine); Speer v. Rand McNally & Co., 123 F.3d 
+658, 663-64 (7th Cir. 1997) (plaintiff's admission that she knew 
+of the nature of alleged sexual harassment at the time it occurred 
+and complained about it long before the limitations period 
+expired precluded her from relying on the continuing violation 
+doctrine); Garrison v. Burke, 165 F.3d 565, 570 (7th Cir. 1999) 
+(sexual assault would have put any reasonable person on notice 
+that she had a substantial claim under the law and therefore she 
+could not rely on the continuing violation doctrine to defeat the 
+statute of limitations); Miller v. Am. Family Mut. Ins. Co., 203 
+F.3d 997, 1004 (7th Cir. 2000) (plaintiff who confronted super- 
+visor with suspicion of pregnancy discrimination more than a 
+year before filing an administrative charge could not rely on 
+continuing violation doctrine). 
+
+
+By contrast, in cases in which the plaintiffs are able to 
+identify the discriminatory conduct only in light of later events, 
+the courts routinely decide that the continuing violation doctrine 
+applies and the plaintiffs are permitted to reach back to 
+otherwise time-barred conduct. See, e.g., O'Rourke, 235 F.3d 
+at 732-33 (continuing violation doctrine applied where the 
+complained-of conduct was discriminatory only because of 
+sheer volume and repetition); Wilson v. Chrysler Co., 172 F.3d 
+500, 510 (7th Cir. 1999) (continuing violation applied to save at 
+least a portion of plaintiff's claim); Galloway, 78 F.3d at 1167 
+(continuing violation doctrine applied where the complained-of 
+
+
+45 
+
+
+verbal conduct was not of the kind that it would be reasonable 
+to expect an employee to base a suit on the first time it 
+
+
+occurred). 
+
+
+The Berry test for determining the application of the contin- 
+uing violation doctrine recognizes the importance of notice to 
+the plaintiff and thus is not inconsistent with Title VII’s notice 
+accrual rule. However, Berry's three-pronged test, augmented 
+at times with unspecified additional factors, provides very little 
+concrete guidance to courts or prospective litigants, particularly 
+in cases in which the three factors point in different directions. 
+Thus, application of the Berry test can lead to inconsistent 
+results as the lower courts engage in fact-specific inquiries that 
+“turn[{] on the facts and context of each particular case.” 715 
+F.2d at 981. 
+
+
+Moreover, both the first and second Berry factors — con- 
+nectedness and frequency — are virtually foregone conclusions 
+in hostile environment cases, in which a plaintiff has an 
+actionable claim only when the complained-of conduct is severe 
+and pervasive. Meritor Sav. Bank, 477 U.S. 57; Harris v. 
+Forklift Sys., 510 U.S. 17, 21-22 (1993); see Rush, 113 F.3d at 
+483 (“failure to claim harassment in the 1991 EEOC charge 
+does not destroy [plaintiff's] claim, because the evidence shows 
+that the harassment intensified after the charge was filed, and 
+moreover, she did not realize early on how pervasive or severe 
+the harassment was”); see also Huckabay, 142 F.3d at 239 
+(tolling of statute of limitations was justified where “pattern of 
+harassment was not the kind of violation that * * * would put a 
+worker on notice that his rights had been violated”). 
+Accordingly, in the context of hostile environment cases, 
+Berry’s three factors can be distilled to the notice factor alone. 
+
+
+Under either Galloway or Berry, respondent’s claims relat- 
+ing to events occurring before the limitations period would have 
+been considered time barred becavse his admission that he was 
+on notice of the allegedly discriminatory nature of petitioner’s 
+
+
+46 
+
+
+conduct bars his reliance on the continuing violation doctrine. 
+Only under the Ninth Circuit’s “sufficiently related” test is re- 
+spondent or any other plaintiff who knowingly sits on his or her 
+rights able to invoke an equitable continuing violation doctrine 
+to save time-barred claims. 
+
+
+2. The Ninth Circuit’s “Sufficiently Related” Test 
+Cannot Be Reconciled With The Court’s Appli- 
+cation Of The Notice Accrual Rule in Title VII 
+Cases, Undermines Title VII’s Remedial Pur- 
+pose Of Eradicating Discrimination, and Yields 
+Unpredictable Results 
+
+
+The Ninth Circuit’s approach to the continuing violation 
+doctrine articulated in Fielder and reaffirmed in this case rejects 
+both Galloway and Berry. Pet. App. 15a. The lower court held 
+that Ninth Circuit precedent “precludes * * * a notice limitation 
+on the continuing violation doctrine.” /bid. The result is a form- 
+less, limitless test for applying a continuing violation exception 
+that asks only if the otherwise time-barred acts are “sufficiently 
+related” to any allegedly discriminatory act occurring within the 
+limitations period.'* Under the Ninth Circuit test, the continuing 
+violation exception has swallowed the statute of limitations rule. 
+Indeed, the Ninth Circuit compounded its error by applying its 
+“sufficiently related” test to respondent’s discrimination and 
+retaliation claims, not just his hostile environment claim, and 
+concluding that he could rely on the continuing violation 
+doctrine with respect to each of those three claims. Pet. App. 
+18a-20a. As discussed above, that result contradicts this Court’s 
+holdings in Evans, Ricks, and Lorance, which require applica- 
+tion of the notice accrual rule to all Title VII claims. 
+
+
+‘* — Furthermore, the Ninth Circuit requires juries, not judges, to apply the 
+“sufficiently related” “test.” Fielder, 218 F.3d at 986-87 (“If a jury finds that 
+Bibler’s reprimand was an act of retaliation, it becomes an issue of fact 
+whether the retaliation was of the same kind alleged before the 300-day 
+period.”). The mind boggles at how juries in such cases are to be instructed. 
+
+
+47 
+
+
+The Ninth Circuit’s “sufficiently related” test cannot be 
+reconciled with this Court’s rulings limiting use of equitable 
+tolling rules, including the continuing violation doctrine, to un- 
+knowing plaintiffs. This Court’s statute of limitations and 
+equitable tolling cases have successfully reconciled the rights of 
+defendants to be free of stale claims, the societal interest in 
+promoting prompt adjudication of claims, and plaintiffs’ interest 
+in being able to pursue legal remedies. Using the continuing 
+violation doctrine, the Ninth Circuit puts its thumb on the scale 
+and tips it in favor of allowing plaintiffs to combine timely and 
+untimely claims with little regard to the existence of the limita- 
+tions period. Indeed, the lower court would permit a plaintiff 
+who knew that his rights were being violated to sit on his nghts 
+indefinitely, allowing damages to pile up rather than seeking to 
+rectify the situation. But see Klehr, 521 U.S. at 187 (criticizing 
+a rule that “would permit plaintiffs who know of the defendant’s 
+pattern of activity simply to wait ‘sleeping on their rights,’ as 
+the pattern continues and * * * damages accumulate”). 
+
+In both this case and Fielder, the employees admitted to be- 
+lieving that they were being discriminated against years before 
+they filed administrative charges. Pet. App. 28a; Fielder, 218 
+F.3d at 979. As Judge Kleinfeld noted in his dissent in Fielder, 
+“(t]he practical consequence of the majority opinion is to keep 
+alive incidents of claimed [discrimination] permanently, with no 
+statute of limitations at all.” 218 F.3d at 990; see also 
+Anderson, 190 F.3d at 936-37 (permitting recovery for more 
+than 11 years of allegedly discriminatory conduct without 
+reference to whether plaintiff knew or should have known of 
+conduct at some prior time); Draper, 147 F.3d at 1108-10 
+(permitting plaintiff to rely on continuing violation doctrine 
+even though she complained to management about allegedly 
+discriminatory conduct more than a year before filing an 
+administrative charge). 
+
+
+Not only is the “sufficiently related” test at odds with con- 
+trolling precedent, but the Ninth Circuit’s continuing violation 
+
+
+48 
+
+
+rule is so indeterminate that it cannot be applied in a consistent 
+manner. Under the lower court’s approach, the district courts — 
+and juries — are vested with unlimited discretion to determine in 
+individual cases which acts are “sufficiently related” with 
+respect to their subject matter and temporal proximity. The 
+threshold of relatedness is low. In this case, the lower court 
+permitted respondent to revive time-barred claims of harassment 
+including an alleged assault, allegedly unfair discipline, denial 
+of training, and a prior termination by pointing to three discrete 
+events including cancellation of training, a suspension, and a 
+suspension leading to termination. Pet. App. 18a-20a. In 
+Fielder, the plaintiff was permitted to revive time-barred claims 
+of sexual harassment involving a coworker by pointing to two 
+discrete instances of alleged retaliation by her supervisor. 218 
+F.3d at 987-88. In light of these results, it is difficult to imagine 
+two separate acts of discrimination that the court of appeals 
+would not allow a jury to find to be “sufficiently related” for 
+purposes of applying the continuing violation doctrine. 
+Finally, the Ninth Circuit’s approach undermines 
+Title VII's primary remedial purpose of eradicating discrimina- 
+tion. Instead of encouraging prompt filing of claims with the 
+benefit of eradicating discrimination, the Ninth Circuit’s 
+approach encourages putative victims to endure discriminatory 
+treatment for as long as possible in order to maximize their 
+potential damages.'* Not only is that result unfair to employers, 
+
+
+' — This result is antithetical to the avoidable consequences doctrine that 
+Title VII borrows from tort law. Ellerth, 524 U.S. at 764 (citing Ford Motor 
+Co., 458 U.S. at 232 n.15). Under that doctrine, “‘{w]here one person has 
+committed a tort, breach of contract, or other legal wrong against another, it 
+is incumbent upon the latter to use such means as are reasonable under the 
+circumstances to avoid or minimize the damages. The person wronged 
+cannot recover for any itezn of damage which could thus have been 
+avoided.’” Ford Motor Co., 458 U.S. at 232 n.15 (quoting C. MCCORMICK, 
+LAW OF DAMAGES 127 (1935)); see also Faragher, 524 U.S. at 807; Gebser 
+v. Lago Vista Sch. Dist., 524 U.S. 274, 307 (1998) (Ginsburg, J., dissenting) 
+
+
+49 
+
+
+but it dilutes any positive societal benefit flowing from 
+Title VII. 
+
+
+In the final analysis, there is nothing to be said for the Ninth 
+Circuit’s rule — and the Ninth Circuit has made no serious 
+attempt to justify it, other than to cite its own precedents and be- 
+little the approaches of other circuits — except that it allows 
+plaintiffs to win more often and thus lets employers “get away 
+with” fewer violations of Title VII. But, of course, that could be 
+said about any excuse for ignoring the statute of limitations. 
+Furthermore, employees like Morgan have the means to avoid 
+any ill consequences of the statute of limitations just by filing 
+EEOC charges within 300 days of what they believe to be acts 
+of discrimination. For those who do not have that ability 
+because a charge would be dismissed as premature, the Gallo- 
+way/Sabree rule provides the needed protection. The “continu- 
+ing violation doctrine” has a legitimate role to play in protecting 
+such employees, but not in protecting Abner Morgan or the 
+others whom the Ninth Circuit would relieve of the avoidable 
+consequences of their own decisions not to pursue Title VII 
+
+
+remedies. 
+
+
+(“to the extent that a plaintiff unreasonably fail{s) to avail herself of * * * 
+preventative and remedial measures, and consequently suffer{s} avoidable 
+harm, she would not qualify for Title [X relief”) (citing MCCORMICK, supra, 
+at 127-159). 
+
+
+50 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted, 
+
+
+MELISSA B. ROGERS Roy T. ENGLERT, JR.* 
+
+National Railroad Passenger Robbins, Russell, Englert, 
+
+Corporation Orseck & Untereiner LLP 
+
+60 Massachusetts Ave., N.E. 1801 K Street, N.W. 
+
+Washington, D.C. 20002 Suite 41] 
+
+(202) 906-3191 Washington, D.C. 20006 
+(202) 775-4503 
+
+
+* Counsel of Record 
+Counsel for Petitioner 
+
+
+AUGUST 2001 
+
+

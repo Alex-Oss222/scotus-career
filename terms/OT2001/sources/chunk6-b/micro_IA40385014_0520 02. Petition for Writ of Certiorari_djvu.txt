@@ -1,0 +1,4368 @@
+, , Supreme Court, 0.8 
+IA FILED 
+O01 682 NOV 0 8 2001 
+
+
+No. 
+
+
+ee Pel 
+
+
+In the Supreme Court of the Anited States 
+
+
+KAY BARNES, IN HER OFFICIAL CAPACITY AS 
+MEMBER OF THE BOARD OF POLICE COMMISSIONERS 
+OF KANSAS CITY, MISSOURI, ET AL., 
+
+
+Petitioners, 
+
+
+JEFFREY GORMAN, 
+
+
+Respondent. 
+
+
+Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Eighth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+DALE H. CLOSE LAWRENCE S. ROBBINS* 
+LISA S. MORRIS ALAN E. UNTEREINER 
+DANIEL J. HAUS Robbins, Russell, Englert, 
+Legal Advisor’s Office Orseck & Untereiner LLP 
+Kansas City Police Department 1801 K Street, N.W. 
+
+1125 Locust Street Suite 411 
+
+Kansas City, MO 64106 Washington, D.C. 20006 
+(816) 234-5056 (202) 775-4500 
+
+
+* Counsel of Record 
+
+
+Counsel for Petitioners 
+
+
+eee ee es -- 
+
+
+QUESTION PRESENTED 
+
+
+Section 504 of the Rehabilitation Act, 29 U.S.C. § 794(a), 
+prohibits disability-based discrimination in any public program 
+or activity receiving federal funds. Section 202 of the 
+Americans with Disabilities Act, 42 U.S.C. § 12132, more 
+generally prohibits disability-based discrimination in any public 
+program, activity or service regardless of the receipt of federal 
+funds. The question presented in this case is: 
+
+
+Whether the Eighth Circuit, in agreement with the Fourth 
+Circuit but in conflict with the Third and Sixth Circuits, 
+correctly held that punitive damages may be awarded against a 
+municipal government in an implied private cause of action 
+brought under Section 504 of the Rehabilitation Act or Section 
+202 of the ADA. 
+
+
+(i) 
+
+
+ii 
+RULE 14.1(b) STATEMENT 
+
+
+Pursuant to Rule 14.1(b), petitioner Kay Barnes states that 
+the other parties in the court of appeals were the following 
+defendants named in their official capacities as members of the 
+Board of Police Commissioners of Kansas City, Missouri: Dr. 
+Stacey Daniels- Young, Jeffrey J. Simon, Joseph J. Mulvihill 
+and Dennis C. Eckhold. Although the Eighth Circuit’s caption 
+also lists as defendants Richard Easley, in his official capacity 
+as Chief of Police of the Kansas City, Missouri Police 
+Department, and Neil Becker, in his official capacity as a 
+member of the Kansas City Police Department, both were in 
+fact dismissed from the case by the trial court prior to the entry 
+of judgment. See note 4, infra. In this Court, the petitioners in 
+addition to Commissioner Barnes are Commissioner Daniels- 
+Young, Commissioner Eckhold, and Commissioner Karl Zobrist 
+(who has succeeded to the office previously held by Jeffrey J. 
+Simon, see S. Ct. Rule 35.3), all in their official capacities. 
+Commissioner Mulvihill resigned from the Board of Police 
+Commissioners effective on May 26, 2001; his successor has 
+not yet been named, but will become a petitioner once he or she 
+takes office. S. Ct. Rule 35.3. 
+
+
+TABLE OF CONTENTS 
+
+
+Page(s) 
+
+cds cence gpadsedesececece i 
+
+RULE 14.1(b) STATEMENT ..............- 2000005. i 
+
+edt cacuccesdeccecceocss iv 
+
+ee eee esos Seencsescccecces | 
+
+aes ccd cceavcetecoseececs | 
+
+STATUTORY PROVISIONS INVOLVED ............ | 
+
+Cees eke deaabesecscceeccececs | 
+A. The Statutory Framework and This Court’s 
+
+_ POCHRIOR PR FTORRTR 20. nce ccc cccscccceces 2 
+
+B. The Events Underlying This Lawsuit .......... 5 
+
+C. The Proceedings Below ..............0e005: 6 
+
+REASONS FOR GRANTING THE PETITION ......... 9 
+
+
+A. THE EIGHTH CIRCUIT'S DECISION 
+DEEPENS AN ENTRENCHED CIRCUIT 
+SESE ceccscseccveccccce Deceecccecs 10 
+
+
+DED cubcescecscececoccccccccces 17 
+
+
+DET Sdacbecccedscccococscescees 20 
+
+
+iV 
+TABLE OF AUTHORITIES 
+Page(s) 
+Cases: 
+Ability Center of Greater Toledo v. Sandusky, 
+
+133 F. Supp. 2d 589 (N.D. Ohio 2001) ........... 13 
+Alexander v. Choate, 469 U.S. 287 (1985) ............ 11 
+Alexander v. Sandoval, 121 S. Ct. 1511 (2001) ........ 19 
+Atascadero State Hosp. v. Scanlon, 473 U.S. 234 
+
+SEE cnasenbdachénccadustesedectateasendens 3 
+
+
+Bayon v. State University of New York at Buffalo, 
+2001 WL 135817 (W.D.N.Y. Feb. 15, 2001) . 14, 18, 25 
+
+
+Booker v. City of Boston, 2000 WL 1868180 
+(D. Mass. Dec. 12, 2000) ..........ceeceeeeeeee 18 
+
+
+Burns-Vidlak v. Chandler, 980 F. Supp. 1144 
+(D. Haw. 1997), appeal dismissed, 
+FP errr ee 15 
+
+
+Cannon v. University of Chicago, 441 U.S. 677 
+SPUD ececenscescndcescuceusekenseioon< 4, 19, 28 
+
+
+Canty v. Old Rochester Regional School Dist., 
+66 F. Supp. 2d 114 (D. Mass. 1999) .............. 19 
+
+
+City of Newport v. Fact Concerts, Inc., 453 U.S. 247 
+EEE ccccedcdsccesuscccucséébsodbeabedées passim 
+
+
+Collier v. William Penn School Dist., 956 
+F. Supp. 1209 (E.D. Pa. 1997) ...........00.. 18, 19 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+
+Consolidated Rail Corp. v. Darrone, 465 U.S. 624 
+
+SE hesdseds odudedesbdbdbeddshéedsneceess 19 
+Crawford v. School of Dist. of Philadelphia, 
+
+1998 WL 288288 (E.D. Pa. June 3, 1998) ......... 18 
+Davis v. Monroe County Board of Education, 
+
+PE dcacuududsadeutsdccacceuase 19 
+Davison v. Santa Barbara High School Dist., 
+
+48 F. Supp. 2d 1225 (C.D. Cal. 1998) ............ 18 
+DeLeo v. City of Stamford, 919 F. Supp 70 
+
+GE ED, 6600se60bna beds sddnds beces 14, 28 
+Dertz v. City of Chicago, 1997 WL 85169 
+
+SE Gs CU ED ck biddkdneedakececdinnds 15 
+Doe v. County of Centre, 242 F.3d 437 
+
+PD ob ocekadeuneesedesencceus 12, 25, 27 
+Doe v. Division of Youth and Family Services, 
+
+148 F. Supp. 2d 462 (D.N.J. 2001) ............... 19 
+Doe v. Londonderry School Dist., 970 
+
+F. Supp. 64 (D.N.H.), modified in 
+
+other respects, 32 F. Supp. 2d 1360 (1997) ........ 18 
+
+
+Doe v. Oyster River Co-op. School Dist., 
+992 F. Supp. 467 (D.N.H. 1997)........... 14, 19, 28 
+
+
+Dorsey v. City of Detroit, 157 F. Supp. 2d 729 
+(E.D. Mich. 2001) .............0ccecceeceecees 13 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Eastman v. Virginia Polytechnic Inst. & State 
+University, 939 F.2d 204 (4th Cir. 1991) ........-. 12 
+Franklin v. Gwinnett County Public Schools, . 
+503 U.S. 60 (1992) ..........- eb iokinee passim 
+Garrett v. Chicago School Reform Board of 
+Trustees, 1996 WL 411319 - 
+(N.D. Ill. July 19, 1996) .. 2.0... e ee eee eee eee 
+Gebser v. Lago Vista Independent School Dist., 
+524 U.S. 274 (1998) ..... 2.6. c eee ee eee ences passim 
+Gorman v. Bartch, 123 F.3d 1126 (8th Cir. 1997) ...... 29 
+Gorman v. Bartch, 925 F. Supp. 653 . 
+(W.D. Mo. 1996) ........0 eee e eee erence renee 
+Gorman v. Bishop, 919 F. Supp. 326 7 
+(W.D. Mo. 1996) 0.0.22. - 2c eee creer eee e eens 
+3 
+
+
+Grove City College v. Bell, 465 U.S. 555 (1984) ......-- 
+
+
+Guardians Ass'n v. Civil Service Comm'n 
+
+
+of the City of New York, 463 U.S. 582 (1983) .... 4,19 
+Harrelson v. Elmore County, 859 F. Supp. 1465 - 
+
+(MLD. Ala. 1994) ........05 5 eee eee ee eeeees 15, 
+Henkle v. Gregory, 150 F. Supp. 2d 1067 - 
+
+
+(D. Nev. 2001) ....... cece eee cece e rece eneees 
+
+
+Vil 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Hernandez v. City of Hartford, 959 F. Supp. 125 
+DEE Cad cvécddaseneuadeesscaeeked, 14 
+Hunt v. Meharry Medical College, 2000 WL 739551 
+CBDDILY. Fame ©, BOG) ow. ccc cccccccccccccccs 14 
+International Bhd. of Elec. Workers v. Foust, 
+EE 5 a 22, 29 
+
+
+Jim C. v. United States, 235 F.3d 1079 (8th Cir. 2000) 
+
+
+(en banc), cert. denied, 121 S. Ct. 2591 (2001) .-... 19 
+Johnson v. City of Saline, 151 F.3d 564 
+
+SE SEE Sawer decddewds Kodadcuiecs 16, 17, 18 
+Kedra v. Nazareth Hosp., 868 F. Supp. 733 
+
+ST hcbaheeae GU scduadeccecacdeske 25 
+Key v. Grayson, 2001 WL 1083714 
+
+(E.D. Mich. Sept. 5, 2001) .................006. 13 
+Kilroy v. Husson College, 959 F. Supp. 22 
+
+PE St bedddvadiududddededcechebbces 14 
+Knapp v. Eagle Property Management Corp., 
+
+54 F.3d 1272 (7th Cir. 1995) ................... 17 
+Kolstad v. American Dental Ass'n, 
+
+EE EE ee 25, 26 
+
+
+Kuntz v. City of New Haven, 1993 WL 276945 
+GD. Comm. Bar. 3, 1903)... cc ccc ccc ccccccccccce 14 
+
+
+vill 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Land v. Dollar, 330 U.S. 731 tC) ee 30 
+: 08 
+Landon v. Oswego Unit School Dist. No. 308, 
+
+143 F. Supp. 2d 1011 (N.D. Ill. 2001) ...--- eee ee 18 
+Lane v. Pena, 518 U.S. 187 (1996)... -- ee eee 19, 23, 24 
+Lau v. Nichots, 414 U.S. 563 (1974) ...- eee e erect 19 
+Levier v. Scarborough Police Dep't, 
+
+2000 WL 761003 (D. Me. May 8, 2000) ..---++++> 14 
+McKay v. Winthrop Board of Education, 
+
+1997 WL 816505 (D. Me. June 6, 1997) .... 2-2 ees 14 
+Moreno v. Consolidated Rail Corp.. - 
+
+99 F.3d 782 (1996) (en banc) ....--eee eee passim 
+Morlock v. West Central Education Dist., 
+
+46 F. Supp. 2d 892 (D. Minn. 1999) ....---05s9° 18 
+
+Pacific Mutual Life Ins. Co. v. Haslip, : 
+
+499 US. 1 (1991) ..-e cere rere errr 
+
+Pandazides v. Virginia Board of Education, — 
+13 F.3d 823 (4th Cir. 1994) ...----eerrrreeee ; 
+
+Patricia N. v. Lemahieu, \41 F. Supp. 2d 1243 i 
+(D. Haw. 2001) ...---eeeeerececsreerne 
+
+
+Penney v. Town of Middleton, 888 F. Supp. 332 i 
+(D.N.H. 1994) ....--eeeeeere re sereseee ee 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Pennhurst State School and Hosp. v. Halderman, 
+SP DEED Sebcnec vesvestecovesceces 28 
+Pennsylvania Dep't of Corrections v. Yeskey, 
+Fe , EEOED ecciccccccececccccces 9, 10, 19 
+Proctor v. Prince George's Hosp. Center, 
+32 F. Supp. 2d 820 (D. Md. 1998) ............ 13,14 
+Reich v. Cambridgeport Air Systems, Inc., 
+26 F.3d 1187 (ist Cir. 1994). ...........0005. 16, 17 
+Roberts v. Progressive Independence, Inc., 
+183 F.3d 1215 (10th Cir. 1999) .............. 13, 15 
+Simenson v. Hoffman, 1995 WL 631804 
+(N.D. Ill. Oct. 24, 1995) 2.0... ccc eee eee ees 15 
+Sims v. Unified Government of Wyandotte County, 
+120 F. Supp. 2d 938 (D. Kan. 2000) .............. 18 
+Singh v. Superintending Sch. Comm., 
+601 F. Supp. 865 (D. Maine 1985) ........... i8, 28 
+Tafoya v. Bobroff, 865 F. Supp. 743 (D.N.M. 1994), 
+aff'd mem., 74 F.3d 1250 (10th Cir. 1996) ........ 15 
+Tolbert v. Queens College, 242 F.3d 58 
+8 | PPT TTTTTI TIT TT irre 13, 28 
+Turner v. First Hosp. Corp. of Norfolk, 
+772 F. Supp. 284 (E.D. Va. 1991) ..........2.65- 13 
+
+
+x 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+United States v. Forest Dale, Inc., 818 F. Supp. 954 
+(N.D. Tex. 1993)... 0.00. cece eee eee eees 15 
+United States v. General Motors Corp., 
+323 U.S. 373 (1945) 20... cee eee eee eee eee eeee 30 
+Winfrey v. City of Chicago, 957 F. Supp. 1014 
+(N.D. Ill. 1997) 2.0... cece eee eee teens 15 
+Zaffino v. Surles, 1995 WL 146207 
+(S.D.N.Y. Mar. 31, 1995) .... 6.6 eee cere eee ees 14 
+Statutes and Rules: 
+20 U.S.C. § 1681(a) 2... cee eee eee eee eee 3,18 
+20 U.S.C. § 1682 22... cece eee e eee e eee e neces 23 
+29 U.S.C. § 660(C) . 0... cece eee eee eee teen eens 17 
+yO RS OM) ) 2, 4, 24 
+29 U.S.C. § 794(a) 2... cee cece eee eee eee eee 2, 3,6 
+29 U.S.C. § 794(b) 2.6 cece eee ee eee eee eens 17 
+2D U.S.C. § TOMR 2. cc ccccccscccccccecccscceces 24, 26 
+29 U.S.C. § 794a(al(2) 0... cece eee eee ee eens 3 
+
+
+42 U.S.C. § 1437f(t)(1 KB)... ee eee eens 17 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+CIE lei ei ed Dieta eins dies tet 25, 26 
+i IEE IE TO Oe 4,24 
+eee ee 4,24 
+SUE ied cet es pet 13, 20, 26 
+UII kt ge ag a al 3,17 
+GE CBA. § BURIOG . . 5 ccc cccnccccccccccccccecs 3,4 
+Ps PTE s bv'ncseedwedenesccewcseds 3 
+RE Se eS ee 4, 25 
+OL OE Oe eee TE 17 
+SR ER eee St en eee aL passim 
+CII oie el G De rt 4, 24, 26 
+Pub. L. No. 93-112, 87 Seat. 35S 2.0... ccc ccc cence 2 
+Pub. L. No. 95-602, Title I, § 120(a), 92 Stat. ae 3 
+Publ. L. No. 100-259, 102 Stat.28 ................... 3 
+Publ. L. No. 102-166, Title I, § 102, 105 Stat. 1072 ...... 4 
+
+
+xii 
+TABLE OF AUTHORITIES—Continued 
+Page(s) 
+
+
+Miscellaneous: 
+
+
+1 B. LINDEMANN & P. GROSSMAN, EMPLOYMENT 
+
+
+DISCRIMINATION LAW (2000 Cum. Supp.) ..------> 15 
+
+
+ilani, Living i k at the 
+Milani, Living in the World: A New Loo 
+Disabled in the Law of Torts, 48 CATH. U.L. 
+
+
+REV. 323 (1999) ....---ecercceccccerrerererre® 
+
+
+Remedies — Punitive Damages — Americans with 
+Disabilities Act — Rehabilitation Act, FED. 
+
+
+LITIGATOR, Sept. 2001, at 236 ...-----++s000: , 
+
+
+RESTATEMENT (SECOND) OF CONTRACTS (1981) .....-- 
+
+
+Tucker, Access to Health Care for Individuals 
+with Hearing Impairments, 37 HOUSTON L. 
+
+
+REV. 1101 (2000) .....-- cece reer rrerrettt 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (App., infra, 1a-20a) is 
+reported at 257 F.3d 738. The order denying rehearing en banc 
+(Bowman and Loken, JJ., dissenting) and panel rehearing 
+(App., infra, 52a) is unreported. A previous opinion of the 
+court of appeals (id. at 35a-51la) is reported at 152 F.3d 907. 
+The opinion of the district court vacating the punitive damages 
+award (App., infra, 21a-32a) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on June 
+13, 2001, and rehearing was denied on August 20, 2001 (App., 
+infra, 52a). This Court’s jurisdiction is invoked under 28 
+U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Pertinent provisions of the Rehabilitation Act of 1973, the 
+Americans with Disabilities Act of 1990, the Civil Rights Act 
+of 1991, Title VI of the Civil Rights Act of 1964, and Title LX 
+of the Education Amendments of 1972, all as amended, are set 
+forth at App., infra, 53a-56a. 
+
+
+STATEMENT 
+
+
+This long-running case arises out of the 1992 arrest of a 
+patron of a Kansas City nightclub who got into an altercation 
+with a bar employee, was forcibly ejected from the bar, and 
+then, once outside the bar, refused to honor a request to leave 
+made by several off-duty police officers serving as security 
+guards. After being placed under arrest for trespassing, the 
+patron, who is paraplegic and confined to a wheelchair, was 
+transported to the police station in a van that was equipped with 
+a bench. Despite precautions taken to secure the patron in an 
+upright position, he fell from the bench during the trip after he 
+loosened his seatbelt and another belt that had been used to 
+secure him somehow came undone. On the basis of injuries 
+allegedly sustained in the fall, the patron — respondent Jeffrey 
+
+
+2 
+
+
+Gorman — sued several members of the Kansas City police 
+department and Board of Police Commissioners, alleging 
+violations of Section 504 of the Rehabilitation Act, 29 U.S.C. 
+§ 794(a), and Section 202 of the Americans with Disabilities 
+
+
+Act, 42 U.S.C. § 12132. 
+
+
+The jury awarded Gorman more than a $1 se = da 
+compensatory damages as well as punitive damages of = : 
+million. Although the district court vacated the $1.2 mi — 
+penalty as legally impermissible, the court of appeals re 
+In holding that punitive damages could be recovered 7 we - 
+municipal government under these provisions of the ns 
+civil rights laws, the Eighth Circuit placed itself squarely in 
+conflict with decisions of the Third and Sixth Circuits. 
+Tellingly, the Eighth Circuit acknowledged that : ee 
+“sympathetic” to the Sixth Circuit's contrary view (whic ae 
+on concerns that were “hardly misplaced ) and had reached e 
+opposite conclusion “not with great satisfaction. App., nite 
+12a, 13a, 15a. Nevertheless, the Eighth Circuit deemed itse 
+“compel{led]” by this Court’s decision in F ranklin v. Gwinnett 
+County Public Schools, 503 U.S. 60 (I 992), to part[) — 
+with our sister circuit” and to recognize an implied judicia 
+remedy of punitive damages. App., infra, 13a, 15a-16a. 
+
+
+A. The Statutory Framework and This Court’s Decision in 
+Franklin 
+
+
+The Rehabilitation Act of 1973, Pub. L. No. 93-112, 87 
+Stat. 355, authorizes funding of vocational and other 
+rehabilitation services for the disabled and imposes certain 
+conditions on the recipients of federal funds. Among other 
+things, the Act (in § 504) bars discrimination against persons 
+with disabilities under federal grants and programs and 
+§ 501) places certain obligations on federal agencies ne 
+respect to the employment of the disabled. See 29 U.S.C. 
+
+
+§§ 791, 794(a). Section 504 provides that “[nJo otherwise - 
+
+
+hs ting ;, py 
+lified individual with a disability in the United States 
+
+shall solely by reason of her or his disability, be excluded from 
+
+the participation in, be denied the benefits of, or be subjected to 
+
+
+3 
+
+
+discrimination under any program or activity receiving Federal 
+financial assistance.” 29 U.S.C. § 794(a). 
+
+
+In 1978, Congress amended the Rehabilitation Act by 
+adding a provision (§ 505) clarifying the procedures and 
+remedies applicable to Section 504. Pub. L. No. 95-602, Title I, 
+§ 120(a), 92 Stat. 2982. It provides that “(t]he remedies, 
+procedures, and rights set forth in title VI of the Civil Rights 
+Act of 1964 shall be available to any person aggrieved by any 
+act or failure to act by any recipient of Federal 
+assistance * * * under section 794 of this title.” 29 U.S.C. 
+§ 794a(a)(2). Title VI of the Civil Rights Act of 1964, 42 
+U.S.C. § 2000d et seq. (“Title VI’), prohibits discrimination on 
+the basis of race, color, or national origin “under any program 
+or activity receiving Federal financial assistance.” 
+
+
+In 1986, in response to Atascadero State Hosp. v. Scanlon, 
+473 U.S. 234 (1985), Congress abrogated the States’ Eleventh 
+Amendment immunity with respect to suits based on violations 
+of Section 504 of the Rehabilitation Act, Title VI, and Title LX 
+of the Education Amendments of 1972, 20 U.S.C. § 1681(a) 
+(“Title IX”), which prohibits sex discrimination in educational 
+activities and programs that receive federal funding. See 42 
+U.S.C. § 2000d-7(a)(1). 
+
+
+In 1987, Congress passed the Civil Rights Restoration Act, 
+Pub. L. No. 100-259, 102 Stat. 28, which overturned Grove City 
+College v. Bell, 465 U.S. 555 (1984), by defining “program or 
+activity” in Title VI, Section 504 of the Rehabilitation Act, and 
+related statutes to include “all of the operations” of an entity, 
+“any part of which is extended Federal financial assistance.” 42 
+U.S.C. § 2000d-4a. 
+
+
+In 1990, Congress passed the Americans with Disabilities 
+Act (“ADA”). Section 202 of the ADA provides that “no 
+qualified individual with a disability shall, by reason of such 
+disability, be excluded from participation in or be denied the 
+benefits of the services, programs, or activities of a public 
+entity, or be subjected to discrimination by any such entity.” 42 
+
+
+i 
+
+
+U.S.C. § 12132. Section 203 of the ADA, in turn, specifies that 
+“(t]he remedies, procedures, and rights set forth in section 794a 
+of Title 29 [Section 504 of the Rehabilitation Act] shall be the 
+remedies, procedures, and rights this subchapter provides to any 
+person alleging discrimination on the basis of disability in 
+violation of section 12132 of this title.” 42 U.S.C. § 12133. 
+
+
+In enacting Title VI, Title IX, Section 504 of the 
+Rehabilitation Act, and Section 202 of the ADA, Congress did 
+not expressly provide for a private cause of action. This Court, 
+however, has ruled that implied rights of action exist under 
+Title LX (Cannon v. University of Chicago, 441 U.S. 677, 704- 
+05 (1979)), and Title VI (Guardians Ass'n v. Civil Service 
+Comm'n of the City of New York, 463 U.S. 582 (1983)). 
+
+
+Following enactment of the ADA, Congress passed the 
+Civil Rights Act of 1991, Pub. L. No. 102-166, Title I, § 102, 
+105 Stat. 1072, which, among other things, created a limited 
+right to recover punitive damages (subject to specified 
+monetary caps) in certain actions brought under Section 501 of 
+the Rehabilitation Act, 29 U.S.C. § 791, and Section 102 of 
+ADA, 42 U.S.C. § 12112. See 42 U.S.C. § 1981a(a)(2). The 
+punitive damages provision does not apply to Section 504 of the 
+Rehabilitation Act or to Section 202 of the ADA. The 1991 Act 
+also provides that the newly authorized punitive damages 
+remedy may, not be recovered from any “government, 
+government agency or political subdivision.” Jd. § 1981a(b)(1). 
+
+
+In Franklin v. Gwinnett County Public Schools, 503 U.S. 
+60 (1992), the Court held that an implied right of action under 
+Title [X supports a claim for “monetary damages.” Id. at 63. 
+The Court reaffirmed the “general rule” that, “absent clear 
+direction to the contrary by Congress, the federal courts have 
+the power to award any appropriate relief ina cognizable cause 
+of action brought pursuant to a federal statute.” Jd. at 70-71 
+(emphasis added). Based on its review, the Court found no 
+evidence that Congress had intended to depart from this 
+presumption. /d. at 72-73. Finally, the Court examined but 
+
+
+5 
+
+
+rejected several other arguments why an award of com 
+pensato 
+damages would be inappropriate. /d. at 73-76. 7 
+
+
+B. The Events Underlying This Lawsuit 
+
+
+Respondent Jeffrey Gorman was rendered legi 
+auto accident that occurred in 1988. Ona eee tae 
+May 1992, Gorman and a friend were out drinking at a country- 
+and-western nightclub in Kansas City, Missouri, when they got 
+into an altercation with a bouncer.’ As a result, Gorman was 
+forcibly expelled from the bar. Outside, he approached several 
+police officers in the hope that they would intercede on his 
+behalf. The officers, who were off duty and working as private 
+security, instead told Gorman that he had to leave. When 
+Gorman refused, he was placed under arrest for trespass. 
+Gorman was subsequently convicted of one count of misde- 
+
+
+meanor trespass. 
+
+
+While waiting for a police van that would transport him to 
+the station for booking, Gorman told the off-duty officers that 
+he had to go to the restroom to empty his full urine bag.’ The 
+off-duty officers (whom Gorman sued in a separate lawsuit, 
+which was settled) told Gorman to wait until he got to the 
+Station. Sometime thereafter, a police van arrived driven by 
+Officer Neil Becker. The van was equipped with a bench but 
+lacked wheelchair locks, which would have permitted Gorman’ s 
+transportation in his chair. Gorman testified at trial that he told 
+
+
+! 
+
+As the court appeals correctly noted, “[a}lmost every element of what 
+happened that night was contested by the defendants, whose testimony 
+was that Gorman did not instruct the officers how to transport him, 
+offered no input whatsoever, and was thoroughly drunk and belligerent.” 
+App., infra, 3an.2. Like the court of appeals, we present here Gorman’s 
+version of events because he prevailed below. /bid. 
+
+
+* “Gorman * * * lacks voluntary control over hi 
+
+man | oluntary er his lower torso and legs, 
+including his bladder. His inability to steady himself with his abdominal 
+muscles and legs confines him to a wheelchair specially designed to keep 
+him upnght. He must also wear a catheter attached to a urine bag around 
+his waist * * *.” App., infra, 2a. 
+
+
+6 
+
+
+the officers that he was unable to stay upright without his 
+wheelchair and could not ride in the van without risking a fall 
+from the bench. Nevertheless, the officers placed Gorman on 
+the bench and i:sec' a seatbelt to strap him in. The seatbelt did 
+not properly ho!d Gorman upright, and it lay across his already 
+full urine bag. According to Gorman’s testimony, the officers 
+loosened the seatbelt after he complained about it. As an extra 
+precaution, however, the officers also used Gorman’s own belt 
+to strap him to the wire mesh behind the bench to secure him in 
+an upright position. 
+
+Officer Becker, the only on-duty officer, then drove the van 
+to the police station. As some point during the ride, Gorman 
+released his seatbelt out of concern over the pressure it was 
+placing on the urine bag. Eventually, the other belt also came 
+undone and Gorman fell to the floor, causing the urine bag to 
+rupture. Officer Becker stopped the van but was unable to lift 
+Gorman by himself, so he fastened Gorman to a support in the 
+back of the van for the duration of the trip. After arriving at the 
+station, Gorman was booked, processed, and released. 
+
+
+C. The Proceedings Below 
+
+
+1. On May 30, 1995, Gorman filed an action in the United 
+States District Court for the Western District of Missouri 
+alleging that, “by reason of” his disability, he had been discrim- 
+inated against and had been “excluded from participation in” or 
+“denied the benefits of” the “programs” or “activities” of the 
+Kansas City Police Department, in violation of Section 504 of 
+the Rehabilitation Act, 29 U.S.C. § 794(a), and Section 202 of 
+the ADA, 42 U.S.C. § 12132. Gorman named as defendants 
+Officer Becker, then-Chief of Police Steven Bishop, and various 
+current or former members of the Board of Police Commission- 
+ers of Kansas City (“the Board”), including the Mayor of 
+Kansas City, Missouri (who by virtue of that position 
+automatically serves as a Member of the Board).’ 
+
+
+’ The Board members named in the original complaint were Mayor 
+
+
+; 
+
+
+Following an initial dismissal by the district 
+Gorman v. Bishop, 919 F. Supp. 326(W.D. Mo. 00: Ge 
+v. Bartch, 925 F. Supp. 653 (W.D. Mo. 1996)), the court of 
+appeals remanded the case for a trial of respondent’s claims 
+against petitioners in their official capacity. App., infra, 35a- 
+Sla. A jury thereafter returned a verdict in respondent's favor 
+awarding him compensatory damages of $1,034,817.33 and 
+punitive damages of $1,200,000.00. /d. at 4a.‘ 
+
+
+2. Relying (App., infra, 24a-27a) on the Sixth Circuit’ 
+banc decision in Moreno v. Consolidated Rail gt 3d 
+782 (1996), the district court set aside the award of punitive 
+damages. App.. infra, 2\a-34a. The court explained that its 
+
+first task, under the framework articulated in this Court’s 
+Franklin decision, was “to determine whether there is a clear 
+indication that Congress imposed limits on the scope of relief.” 
+App., infra, 25a. The court found such a clear indication in the 
+three amendments made to Section 504 of the Rehabilitation 
+Act in 1986, 1987, and 1991, as well in the “backdrop of 
+judicial decisions” that existed at the time these amendments 
+occurred. Id. at 25a-26a. Although “Congress amended 
+portions of the Rehabilitation Act three times ( including section 
+
+
+Emanuel Cleaver Il, John Dillingham, Jack Headley, Jacqueli 
+
+Balius Tate, Donna Boley, and Albert Riederer. Resp. CA. aon an te 
+
+an amended complaint filed on November 6, 1995, respondent added 
+Stacey Daniels{- Young] and James F. Ralls, Jr., and omitted 
+
+defendant Riederer. Resp. C.A. App. 29; see also Pet. ii: note 4, infra. 
+
+
+* At the close of Gorman’s case, the trial court dismissed the claims 
+against Police Chief Easley and Officer Becker in their official 
+capacities, thus leaving only the individual Board members as 
+defendants. See 4/5/99 Tr. 495-496; Resp. C.A. App. 45 (jury instruction 
+explaining dismissal ). The district court’s judgment was entered against 
+Mayor Cleaver and Commissioners Stacey Daniels-Young, Jeffrey J 
+Simon, Joseph J. Mulvihill and Dennis C. Eckhold, all in their official 
+eet of the Board. While this case was on appeal, 
+y succeeded Emanut! 
+ee -—~ | Cleaver II as Mayor of Kansas 
+
+
+8 
+
+
+504 twice) and the ADA once, * * * at no time did Congress 
+take steps to alter the consensus of judicial decisions” holding 
+that punitive damages “were not available.” /d. at 25a-27a. 
+“*The only inference of congressional intent that can be drawn 
+from the three pieces of legislation is that Congress intended 
+§ 504 remedies to remain in status quo — i.e., no punitive 
+damages.” /d. at 27a (quoting Moreno, 99 F.3d at 791). 
+
+
+3. The court of appeals affirmed in part and reversed in 
+part. App., infra, 1a-20a. Although the panel stated that it was 
+“sympathetic” to the Sixth Circuit's view that punitive damages 
+are unavailable under Section 504 (id. at 8a, 12a), and even 
+acknowledged that the “concerns” animating the Sixth Circuit 
+were “hardly misplaced” (id. at 13a), it nevertheless ruled (“not 
+with great satisfaction”) that the Sixth Circuit's approach was 
+“foreclosed by controlling precedent” (id. at 8a, 15a) — in 
+particular, this Court’s decision in Franklin. 
+
+As the Eighth Circuit read Franklin, there is a presumption 
+that all “appropriate remedies” will be available in an implied 
+cause of action, which can be overcome only if Congress 
+“expressly limit[s] the remedies available.” App., infra, | la- 
+12a. In the court of appeals’ view, because this Court had “long 
+made clear that punitive damages are an integral part of the 
+common law tradition and the judicial arsenal,” punitive 
+damages “fall within the panoply of remedies usually available 
+to American courts.” Jd. at 10a (emphasis added) (citing 
+Pacific Mutual Life Ins. Co. v. Haslip, 499 U.S. 1 (1991)). 
+“Given an implied cause of action,” the Eighth Circuit 
+reasoned, Franklin “compels the conclusion” that a plaintiff 
+may recover “all appropriate remedies, including punitive 
+damages” — unless there is an “express congressional statement 
+to the contrary.” /bid. 
+
+Unlike the Sixth Circuit — whose “methodology and 
+conclusions” the court below explicitly rejected (App., infra, 
+12a) — the Eighth Circuit could not discern the requisite 
+congressional intent to foreclose a punitive damages remedy. 
+The court recognized that its analysis “turns * * * on its head” 
+
+
+9 
+
+
+Congress’s understanding, evident in the “text and history of the 
+1991 Act” (which added a limited punitive damages remedy) 
+that in so doing Congress “intended to expand, and not to 
+contract, the available remedies” under the Rehabilitation Act 
+and ADA, and “considered the new language necessary to 
+create a punitive damages remedy under the acts.” /d. at 15a. 
+But that evidence was not sufficiently “express” to persuade the 
+court of appeals that Congress intended to preclude resort to 
+
+
+Punitive damages as a remedy in cases not covered by the 
+narrow 1991 provision. 
+
+
+. The court of appeals then remanded the case for a deter- 
+mination (purportedly under Franklin) whether an award of 
+Punitive damages was “appropriate” in this “specific case.” 
+App.. infra, 16a. Again, the panel flatly disagreed with the 
+Sixth Circuit. As a categorical matter, that court had held that 
+“given the legislative and judicial backdrop” and a number of 
+policy considerations, punitive damages are “not ‘appropriate’ 
+as required by Franklin” in any action brought under Section 
+504 of the Rehabilitation Act. /d. at 16 n.10 (citing Moreno, 99 
+F.3d at 791-92). In the Eighth Circuit’s view, the question 
+whether a remedy is “appropriate” under Franklin is a case- 
+specific (not statute-specific) inquiry. App., infra, 16a & n.10. 
+The court therefore remanded for consideration of whether the 
+punitive award in this case was supported by sufficient evidence 
+and not constitutionally excessive. 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+This case presents the Court with a valuable opportunity to 
+resolve an important question of federal law on which the cir- 
+cuits are sharply divided: whether punitive damages are an 
+appropriate implied remedy in private disability discrimination 
+lawsuits brought against municipal governments (and perhaps 
+other defendants) under Section 504 of the Rehabilitation Act 
+and Section 202 of the ADA. Because those provisions apply 
+to a wide array of public “programs,” “activities,” and (in the 
+case of the ADA) “services,” see Pennsylvania Dep't of 
+
+
+10 
+
+
+Corrections v. Yeskey, 524 U.S. 206 (1998), the question pre- 
+sented in this case has arisen with great frequency. 
+
+
+Much of the confusion in the lower courts boils down to 
+disagreements over the meaning of Franklin v. Gwinnett 
+County Public Schools, 503 U.S. 60 (1992), which only this 
+Court can clarify. Perhaps for that reason, and because it felt 
+“compel{led]” by its reading of Franklin (App, infra, 13a) to 
+reach a result it regarded as questionable (id. at 8a, 12a), the 
+Eighth Circuit all but invited this Court to review its decision. 
+See id. at 15a-16a (“Perhaps our parting —_ with os oe 
+circuit will prompt the Supreme Court or Congress 
+additional clarity into this area.”). The Court should accept that 
+invitation, correct the serious errors made by the Eighth Circuit, 
+and ensure that Franklin is not used as a vehicle for working 
+future incursions into the traditional immunity of municipalities 
+from punitive liability, see City of Newport v. Fact Concerts, 
+Inc., 453 U.S. 247 (1981). 
+
+
+A. THE EIGHTH CIRCUIT’S DECISION DEEPENS AN 
+ENTRENCHED CIRCUIT CONFLICT 
+
+
+In holding that punitive damages were recoverable, the 
+Eighth Circuit expressly disagreed with the Sixth Circuit's en 
+
+
+ilitation Act and Section 202 of the ADA. To resolve the mature 
+conflict in the circuits on the question of punitive damages. and 
+to clarify the meaning of Franklin, further review is warranted. 
+
+
+1. In Moreno, the Sixth Circuit squarely held that punitive 
+damages are not an appropriate remedy in an implied cause of 
+action under Section 504. The en banc majority conducted an 
+
+
+extensive review of the amendments made to the Rehabilitation 
+Act between 1986 and 1991 as well as “the background against 
+which Congress was legislating.” 99 F.3d at 789. At the time 
+these amendments were made, the Sixth Circuit explained, 
+“punitive damages had never been awarded under § 504 and 
+were widely believed to be unavailable under that section” as 
+well as “under Title VI.” /d. at 790-91 (citing cases). “In fact, 
+it is not until 1994 that we find a single case where punitive 
+damages were awarded under § 504.” /d. at 790. Moreover, in 
+neither the 1986 nor 1987 amendments (see page 3, supra) “did 
+Congress indicate any desire to change the established 
+understanding that punitive damages were not available.” /bid. 
+Finally, the Civil Rights Act of 1991, which “made punitive 
+damages available — for the first time - under § 501 of the 
+Rehabilitation Act,” pointedly failed to “extend the new puni- 
+tive damages provision to § 504.” /bid. “The only inference of 
+congressional intent that can be drawn from the three pieces of 
+legislation is that Congress intended § 504 remedies to remain 
+in statu quo — i.e., no punitive damages.” /d. at 791. 
+
+
+The Sixth Circuit also concluded (99 F.3d at 791) that “pu- 
+nitive damages are not ‘appropriate’ under § 504 in any event” 
+~ as that court understood the word “appropriate” in Franklin. 
+“It would be highly anomalous” the court explained, “to let a 
+plaintiff asserting an implied right of action under § 504 recover 
+more in punitive damages than could be recovered by a plaintiff 
+asserting the statutory remedy created for § 501.” /bid. 
+Moreover, the court noted, “Congress has chosen other ways to 
+‘punish’ those who violate § 504” (99 F.3d at 791), in particular 
+the termination of funding through administrative procedures. 
+Finally, “judicial creation of a punitive damages remedy” would 
+have the effect of “expand[ing] § 504 beyond all ‘manageable 
+bounds’” (id. at 792 (quoting Alexander v. Choate, 469 U.S. 
+287, 299 (1985))), thereby “upset| ting] a long-standing balance 
+that the courts, absent some contrary directive by Congress, 
+should be vigilant to preserve.” /bid. 
+
+
+12 
+
+
+The Eighth Circuit in this case sharply disagreed with both 
+the result in Moreno and what it termed the Sixth Circuit's 
+“methodology.” App., infra, 12a. In so doing, the court below 
+essentially cast its lot with the two members of the Sixth Circuit 
+who dissented from the 11-2 en banc opinion. See Moreno, 99 
+F.3d at 793-96 (opinions of Judges Martin and Daughtrey, 
+
+
+concurring in part and dissenting in part). 
+
+
+2. Contrary to the Eighth Circuit’s suggestion, the Sixth 
+
+Circuit is not the only-court of appeals to have resolved the 
+issue presented in this case. The Fourth Circuit has also held — 
+albeit somewhat obliquely — that punitive damages may be re- 
+covered in an action brought under Section 504 of the Rehab- 
+ilitation Act. In Pandazides v. Virginia Board of Education, \3 
+F.3d 823 (4th Cir. 1994), the court was faced with the question 
+whether a plaintiff suing under Section 504 is entitled to a jury 
+trial under the Seventh Amendment. To resolve that issue, the 
+Fourth Circuit examined “whether the remedy available 
+is * * * legal or equitable in nature.” 13 F.3d at 828-29. In 
+considering “the character of the damages available under 
+§ 504,” the Fourth Circuit observed that the “lower courts are 
+split over the availability of * * * punitive damages” in this 
+setting. /d. at 829-30. It went on to rule that its prior decision 
+in Eastman v. Virginia Polytechnic Inst. & State University, 939 
+F.2d 204 (4th Cir. 1991), which held that punitive damages 
+“were unavailable under § 504,” was “no longer * * * good 
+law” in light of Franklin. 13 F.3d at 830. Because, in its view, 
+Franklin requires that “a full panoply of legal remedies” (in- 
+cluding punitive damages) be available under Section 504, see 
+13 F.3d at 830-32, the Fourth Circuit held that “a jury trial is 
+constitutionally mandated under § 504.” /d. at 832. : 
+
+
+The Third Circuit recently took sides in this debate as well. 
+In Doe v. County of Centre, 242 F.3d 437 (3d Cir. 2001), it held 
+~ consistent with the Sixth Circuit’s decision in Moreno but in 
+conflict with Pandazides and the Eighth Circuit’s decision 
+below - that punitive damages are not recoverable in an action 
+brought against a municipal government under Section 504 of 
+
+
+13 
+
+
+the Rehabilitation Act and Section 202 of the ADA. Relying 
+primarily on City of Newport v. Fact Concerts, Inc., 453 U.S 
+247 (1981), which rejected municipal liability for punitive 
+damages under 42 U.S.C. § 1983, the Third Circuit rejected the 
+argument (accepted by the Eighth Circuit in this case) that 
+Franklin requires a different result. /d. at 456-58. The Third 
+Circuit recognized (id. at 456) that “the Fourth Circuit held in 
+Pandazides” that a “plaintiff could seek punitive damages under 
+Section 504,” but pointedly refused to follow the Fourth Cir- 
+cuit’s lead.” The Third Circuit also acknowledged (ibid.) the 
+conflict between Pandazides and Moreno. | 
+
+
+3. Although the remaining circuits have yet to issue 
+definitive rulings on the question presented, the existence of a 
+circuit conflict has not gone unnoticed. The Tenth Circuit. in 
+expressly reserving the issue “whether punitive damages are 
+available under Section 504,” has acknowledged the conflict 
+between Moreno and Pandazides. Roberts v. Progressive Inde- 
+pendence, Inc., 183 F.3d 1215, 1223 (10th Cir. 1999). So, too 
+has the Second Circuit in recently declining to decide the 
+availability of punitive damages under Title VI. Tolbert v 
+Queens College, 242 F.3d 58, 75-76 (2d Cir. 2001).’ And not 
+
+
+* District courts in the Fourth Circuit have followed ides’ i 
+concerning the availability of punitive damages. Cpr eey 
+Prince George's Hosp. Center, 32 F. Supp. 2d 820, 829 (D. Md. 1998) 
+a argument “that punitive damages are not available under the 
+ehabilitation Act” on ground that it “directly contradicts Pandazides’’) 
+Cf. Turner v. First Hosp. Corp. of Norfolk, 772 F. Supp. 284, 287-88 
+
+
+(E.D. Va. 1991) (holdin iti : ; —s 
+dating Pandazides). g punitive damages unavailable in decision pre- 
+
+
+6 eae . . . . 
+
+; District —_ in the Sixth Circuit have since applied Moreno in a 
+
+rong _ ty 7 See, e.g., Dorsey v. City of Detroit, 157 F. Supp. 2d 
+
+Kenai 4, ah Gen 2 eee v. Grayson, 2001 WL 1083714, at *6 
+-D. Mich. b & 1); Ability Center of Greater T. 
+
+Sandusky, 133 F. Supp. 2d 589 (N.D. Ohio can i sacsast 
+
+
+” Many distri 
+y district courts have likewise taken note of the circuit conflict. 
+
+
+14 
+
+
+surprisingly, in the absence of dispositive circuit court rulings, 
+district uae outside the Third, Fourth, Sixth, and Eighth 
+Circuits have reached conflicting results since Franklin on the 
+question whether punitive damages may be recovered in an 
+action brought under Section 504 of the Rehabilitation Act or 
+
+
+Section 202 of the ADA: 
+
+
+© In the First Circuit, district courts generally have allowed 
+punitive damages claims to proceed. See Levier v. Scar- 
+borough Police Dep’t, 2000 WL 761003, at *1 (D. Me. 
+May 10, 2000) (Section 504 and Section 202); Kilroy v. 
+Husson College, 959 F. Supp. 22, 24 (D. Me. 1997) 
+(Section 504); McKay v. Winthrop Board of Education, 
+1997 WL 816505, at *1, *2 (D. Me. June 6, 1997) (both 
+provisions); Penney v. Town of Middleton, 888 F. Supp. 
+332, 342 (D.N.H. 1994) (Section 504). 
+
+
+© Inthe Second Circuit, district courts have reached conflict- 
+ing results. Compare Bayon v. State University of New 
+York at Buffalo, 2001 WL 135817, at *4 (W.D.N.Y. Feb. 
+15, 2001) (punitive damages not available under Section 
+202), and Kuntz v. City of New Haven, 1993 WL 276945, 
+at *18 (D. Conn. Mar. 3, 1993) (same under Section 504), 
+with Hunt v. Meharry Medical College, 2000 WL 73955 l, 
+at *4 (S.D.N.Y. June 8, 2000) (punitive damages available 
+under Section 504), and Hernandez v. City of Hartford, 
+959 F. Supp. 125, 133-34 (D. Conn. 1997) (same under 
+Sections 202 and 504), and Zaffino v. Surles, 1995 WL 
+146207, at *1-3 (S.D.N.Y. Mar. 311, 1995) (same under 
+Section 504), and DeLeo v. City of Stamford, 919 F. Supp. 
+70, 72-74 (D. Conn. 1995) (same). 
+
+
+@ In the Fifth Circuit, one district court has ruled that 
+punitive damages may not be recovered under Section 504. 
+
+
+See, e.g., Proctor, 32 F. Supp. 2d at 829-30 (conflict between Moreno 
+and Pandazides); Doe v. Oyster River Co-op. School Dist., 992 F. Supp. 
+467, 482 n.15 (D.N.H. 1997) (same); Kilroy v. Husson College, 959 
+F. Supp. 22, 24 (D. Me. 1997) (same). 
+
+
+15 
+
+
+See United States v. Forest Dale, Inc., 818 F. Supp. 954, 
+970 (N.D. Tex. 1993). 
+
+
+@ In the Seventh Circuit, district courts have reached con- 
+flicting decisions. Compare Winfrey v. City of Chicago, 
+957 F. Supp. 1014, 1024-25 (N.D. Ill. 1997) (punitive 
+damages not recoverable under Section 202), and Dertz v. 
+City of Chicago, 1997 WL 85169, at *20(N.D. Ill. Feb. 24, 
+1997) (same under Section 202 and Section 504), with 
+Garrett v. Chicago School Reform Board of Trustees, 1996 
+WL 411319, at *3-4 (N.D. Ill. July 19, 1996) (punitive 
+damages available under Section 202 and Section 504), and 
+Simenson v. Hoffman, 1995 WL 631804, at *6-7 (N.D. Ill. 
+Oct. 24, 1995) (same under Section 504). 
+
+
+@ In the Ninth Circuit, district courts have allowed punitive 
+damages claims. See Henkle v. Gregory, 150 F. Supp. 2d 
+1067, 1077-78 (D. Nev. 2001) (Section 504); Patricia N. v. 
+Lemahieu, 141 F. Supp. 2d 1243, 1252-53 (D. Haw. 2001) 
+(Section 202 and Section 504); Burns-Vidlak v. Chandler, 
+980 F. Supp. 1144, 1146-52 (D. Haw. 1997), appeal 
+dismissed, 165 F.3d 1257 (9th Cir. 1999). 
+
+
+@ In the Tenth Circuit, one district court has ruled that 
+punitive damages may not be recovered under Section 504. 
+See Tafoya v. Bobroff, 865 F. Supp. 743, 748, 751 (D.N.M. 
+1994), aff'd mem., 74 F.3d 1250 (10th Cir. 1996); cf. 
+Roberts, 183 F.3d at 1223 (reserving issue). 
+
+
+@ In the Eleventh Circuit, one district court has ruled that 
+punitive damages may not be recovered against a mu- 
+nicipal government on a claim brought under Section 202 
+of the ADA. See Harrelson v. Elmore County, 859 
+F. Supp. 1465, 1468-69 (M.D. Ala. 1994).® 
+
+
+* The division of authority has not escaped the notice of commentators. 
+See, e.g., | B. LINDEMANN & P. GROSSMAN, EMPLOYMENT DISCRIMINA- 
+TION LAW 224, 227 (2000 Cum. Supp.); Remedies — Punitive Damages 
+~ Americans with Disabilities Act — Rehabilitation Act, FED. LITIGATOR, 
+
+
+16 
+
+
+4. This Court should intervene now to resolve the 2-2 
+circuit conflict and bring uniformity to this important area of 
+federal law. Federal law should not impose punitive liability 
+under Section 504 of the Rehabilitation Act and Section 202 of 
+the ADA on municipal governments (and other defendants) in 
+Arkansas, lowa, Maryland, Minnesota, Missouri, Nebraska, 
+North Carolina, North Dakota, South Carolina, South Dakota, 
+Virginia, and West Virginia but not on similarly situated 
+defendants in Delaware, Kentucky, Michigan, New Jersey, 
+Ohio, Pennsylvania, Tennessee, and the Virgin Islands. 
+
+
+Nor is there any realistic possibility that the entrenched 
+conflict in the circuits will disappear. The Sixth Circuit’s deci- 
+sion in Moreno was rendered by an en banc court and has since 
+been extended to claims brought under Section 202 of the ADA. 
+Johnson v. City of Saline, 151 F.3d 564, 573 (6th Cir. 1998). 
+And the Eighth Circuit in this case declined (over the dissenting 
+votes of Judges Bowman and Loken) to rehear this case en 
+banc, notwithstanding the acknowledged conflict with the Sixth 
+Circuit. App., infra, 52a. The panel itself pleaded for 
+clarification by this Court. Jd. at !5a-16a. 
+
+
+Finally, the entrenched conflict in the circuits comes down, 
+
+
+in the end, to a fundamental disagreement over the meaning of 
+Franklin. As noted above, that disagreement is apparent ina 
+comparison of Moreno and the Eighth Circuit’s decision in this 
+case. Even in cases not involving the federal statutes governing 
+
+
+disability, race, or gender discrimination in the provision of 
+
+
+public services, courts of appeals have adopted vastly different 
+understandings of what Franklin requires. Compare Reich v. 
+Cambridgeport Air Systems, Inc., 26 F.3d 1187, 1190-92, 1194 
+
+
+Sept. 2001, at 236, 237 (noting circuit split); Milani, Living in the World: 
+A New Look at the Disabled in the Law of Torts, 48 CATH. U.L. REV. 
+323, 415 & n.425 (1999) (“courts remain split on the availability of 
+punitive damages claims under section 504”) (collecting cases); Tucker, 
+Access to Health Care for Individuals with Hearing Impairments, 37 
+
+
+HOUSTON L. REV. 1101, 1128-29 (2000). 
+
+
+17 
+
+
+( Ist Cir. 1994) (relying on the “broad and unequivocal language 
+in Franklin” as a basis for construing the statutory phrase “all 
+appropriate relief” in Section 1 1(c) of the OSH Act, 29 U.S.C 
+§ 660(c), as authorizing a punitive award of double backpay 
+damages), with Knapp v. Eagle Property Management Corp 
+
+$4 F.3d 1272, 1277-79 (7th Cir. 1995) (refusing to read 
+Franklin as “dictating the conclusion that a// monetary damages 
+are recoverable in every implied cause of action,” and dis- 
+allowing certain forms of compensatory damages in discrimina- 
+tion action brought by participant in federal rent assistance 
+program under 42 U.S.C. § 1437f(t)(1)(B)). Because only this 
+Court can clarify Franklin’s meaning, and its relationship to the 
+principles underlying City of Newport, further review is needed. 
+
+
+B. THE ISSUES RAISED ARE IMPO 
+saat RTANT AND 
+
+
+Whether the courts should recognize a punitive dam 
+remedy under Section 504 of the Rehabilitation Act and Sestion 
+202 of the ADA is an important question of federal law. As the 
+many Cases cited above make clear, this issue has arisen with 
+great frequency in the federal courts (and indeed has the 
+potential to arise in virtually any case brought under these 
+statutory provisions). That is a substantial category of litigation 
+because each of these provisions has an exceedingly broad 
+reach. See pages 9-10, supra. See also 42 U.S.C. § 12131(1) 
+(ADA provision broadly defining “public entity”); 29 U.S.C. 
+§ 794(b) (defining “programs” and “activities” subject to 
+Section 504 as including “‘all of the operations of” a broad range 
+of entities). As the Sixth Circuit has correctly observed (and as 
+this case graphically illustrates), “the phrase ‘services, programs 
+or activities’” in Section 202 of the ADA “encompasses 
+virtually everything that a public entity does.” Johnson v City 
+of Saline, 151 F.3d 564, 569 (6th Cir. 1998). | 
+
+
+Moreover, because the Rehabilitation Act (li 
+
+over, | ike other stat- 
+utes) specifically borrows the remedies available under Title VI 
+of the Civil Rights Act of 1964, 42 U.S.C. § 2000d, the proper 
+resolution of this case is likely to affect the availability of puni- 
+
+
+18 
+
+
+tive damages under Title V1 as well as other closely related pro- 
+visions of federal civil rights laws, including Title IX of the 
+Education Amendments of 1972, 20 U.S.C. § 1681(a). This 
+close linkage is confirmed by the Eighth Circuit's decision, 
+which rested on the premise that punitive damages are also 
+available under Title VI. App., infra, 11a (“we must * * * con- 
+clude that Congress assumed the availability of all remedies, in- 
+cluding punitive damages, under Title VI"); id. at 13a(Franklin 
+“compel[s]” this conclusion). As this Court is well aware, the 
+volume of litigation brought under these related federal civil 
+rights laws is also quite substantial. See, e.g., Gebser v. Lago 
+Vista Independent School Dist., 524 U.S. 274, 292 (1 998) (“The 
+number of reported [Title IX] cases concerning sexual harass- 
+ment of students in schools confirms that harassment is an all 
+too common aspect of the educational experience.”). It there- 
+fore comes as no surprise that, since Franklin, numerous lower 
+courts have considered whether punitive damages are recover- 
+able in cases brought under Title VI° or Title [X."° 
+
+
+* See. e.g., Bayon v. State University of New York at Buffalo, 2001 WL 
+135817, at *4(W.D.N.Y. Feb. 15, 2001) (punitive damages unavailable 
+under Title VI); Sims v. Unified Government of Wyandotte County, 120 
+F. Supp. 2d 938, 947 (D. Kan. 2000) (same); see also Singh v. 
+Superintending Sch. Comm., 601 F. Supp. 865, 867 (D. Maine 1985) 
+(same) (pre-Franklin). But see Davison v. Santa Barbara High School 
+Dist., 48 F. Supp. 2d 1225, 1233 (C.D. Cal. 1998) (punitive damages 
+available under Title VI). Cf. also Tolbert v. Queens College, 242 F.3d 
+58, 75-76 (2d Cir. 2001) (declining to decide issue). 
+
+
+'© See, e.g., Landon v. Oswego Unit School Dist. No. 308, 143 
+F. Supp. 2d 1011, 1013-14 (N.D. Ill. 2001) (punitive damages 
+unavailable under Title [X); Booker v. City of Boston, 2000 WL 
+
+
+1868180, at *4 (D. Mass. Dec. 12, 2000) (same); Morlock v. West 
+
+
+Central Education Dist., 46 F. Supp. 2d 892, 924 (D. Minn. 1999) 
+(same); Crawford v. School Dist. of Philadelphia, 1998 WL 288288, at 
+*2 (E.D. Pa. June 3, 1998) (same); Doe v. Londonderry School Dist., 970 
+F. Supp. 64, 75-76 (D.N.H.) (same), modified in other respects, 32 
+F. Supp. 2d 1360 (1997); Collier v. William Penn School Dist., 956 
+F. Supp.1209, 1217 (E.D. Pa. 1997) (same), rev’d mem., 191 F.3d 444 
+
+
+19 
+
+
+In recent years, this Court has repeatedly granted review to 
+resolve conflicts over the meaning of these important federal 
+Statutes (as well as the related provisions in Title VI and 
+Title IX). See, e.g., Alexander v. Sandoval, 121 S. Ct. 1511 
+(2001); Davis v. Monroe County Board of Education, 526 U.S. 
+629 (1999); Gebser, supra; Pennsylvania Dep't of Corrections 
+v. Yeskey, 524 U.S. 206 (1998); Lane v. Pefia, 518 U.S. 187 
+(1996); Franklin, supra. Most of these cases, moreover, have 
+involved the scope of liability or remedies under implied rights 
+of action. See also Consolidated Rail Corp. v. Darrone, 465 
+U.S. 624 (1984); Guardians Ass'n v. Civil Service Comm'n of 
+the City of New York, 463 U.S. 582 (1983); Cannon v. Univer- 
+sity of Chicago, 441 U.S. 677 (1979); Lau v. Nichols, 414 U.S. 
+563 (1974). The Court's extensive activity in this area demon- 
+strates not only the complex nature of this body of law and the 
+Court's special role in defining implied rights of action but also 
+the national importance of questions arising under the federal 
+civil rights laws. 
+
+
+Finally, the issues raised in this case have special im- 
+portance for municipal governments.'' If review is granted, 
+petitioners will argue not only that punitive damages are gen- 
+
+
+(1999). See also Doe v. Oyster River Co-op. School Dist., 992 F. Supp. 
+467, 481-84 (D.N.H. 1997) (discussing issue without resolving it). But 
+see Canty v. Old Rochester Regional School Dist., 66 F. Supp. 2d 114, 
+118 (D. Mass. 1999) (plaintiff may recover punitive damages, but only 
+upon a showing that school district “continues to commit egregious 
+violations of Title IX” at time of trial “with no sign of relenting”). 
+
+
+. They also have significance for the States, which have been held to 
+waive their Eleventh Amendment immunity from suit under Section 504 
+of the Rehabilitation Act when they accept federal funds. See Jim C. v. 
+United States, 235 F.3d 1079, 1081-82 (8th Cir. 2000) (en banc), cert. 
+denied, 121 S. Ct. 2591 (2001). Moreover, the lower courts are divided 
+over whether Congress validly abrogated the States’ Eleventh 
+Amendment immunity under Title II of the ADA, which includes Section 
+202. See Doe-v. Division of Youth & Family Servs., 148 F. Supp. 2d 462 
+
+485-86 (D.N.J. 2001) (collecting cases); App., infra, Sa. 
+
+
+20 
+
+
+erally unavailable under the relevant provisions of the Rehabili- 
+tation Act and ADA, but also that, at a minimum, punitive dam- 
+ages are unavailable on claims asserted against municipal gov- 
+ernments. This case accordingly is important because of its po- 
+tential to clarify the applicability of the principles underlying 
+City of Newport v. Fact Concerts, Inc., 453 U.S. 247 (1981), 
+outside the context of 42 U.S.C. § 1983. Moreover, the 
+ramifications for municipal treasuries can hardly be overstated. 
+In this case, respondent (in addition to being fully compensated) 
+was awarded punitive damages of $1.2 million. And, of course, 
+the mere availability of punitive damages will have the obvious 
+effect of raising settlement values in cases brought under the 
+relevant civil rights laws, with attendant, adverse consequences 
+for government treasuries (and therefore for taxpayers). 
+
+
+C. THE DECISION BELOW IS MANIFESTLY 
+INCORRECT 
+
+
+Further review is also warranted because the Eighth 
+Circuit’s decision is seriously flawed. The court of appeals has 
+upheld the availability of punitive damages under the Rehabilli- 
+tation Act even though — as the lower court candidly acknow- 
+ledged — there was “near unanimity” in the federal courts in the 
+first two decades of that statute’s life that it would not support 
+a claim for punitive damages (and neither would Title VI or 
+Title IX). App., infra, 12a. The Eighth Circuit approved puni- 
+tive liability even while acknowledging that, when Congress in 
+1991 amended other provisions of the Rehabilitation Act and 
+the ADA to allow a limited punitive damages remedy subject to 
+a cap, it “considered the new language necessary to create a pu- 
+nitive damages remedy under the acts” and “intended to expand, 
+and not contract, the available remedies.” /d. at 15a. And the 
+lower court reached that result in a case involving a municipal 
+defendant, even though “municipal immunity from punitive 
+damages” was firmly “established at common law” more than 
+a century ago and “has persisted to the present day in the vast 
+majority of jurisdictions.” City of Newport v. Fact Concerts, 
+
+Inc., 453 U.S. 247, 258-61 (1981). 
+
+
+21 
+
+
+Why? In the Eighth Circuit’s view, this stark break with 
+tradition was “compel{led]” by this Court’s decision in Frank- 
+lin. App., infra, 10a. In the lower court’s view, Franklin 
+created a “one-way ratchet” under which, “once a cause of ac- 
+tion is discovered, it automatically entitles a plaintiff to ail 
+appropriate remedies,” including punitive damages — “and that 
+finding then extends those remedies to all other interrelated 
+statutes.” App., infra, 14a (emphasis added). Moreover, unless 
+Congress “expressly limit[s] the remedies available” (id. at 12a) 
+. which is no small feat given that the private right of actior. is 
+implied (as well as subsequently defined by the judiciary) — 
+courts must ignore other, telling evidence of congressional 
+intent, such as the legislative intent underlying amendments 
+made to the statute, the backdrop of judicial interpretation at the 
+time such amendments are made, and even principles of 
+governmental immunity that have been settled for more than a 
+century. The consequence of that sweeping approach to implied 
+rights of action, perversely enough, is that “the most 
+questionable of private rights will also be the most expansively 
+remediable.” Franklin, 503 U.S. at 78 (Scalia, J., joined by 
+Rehnquist, C.J., and Thomas, J., concurring in the judgment). 
+There is absolutely no basis for that result. 
+
+
+. 1. To begin with, Franklin is simply not the judicial strait- 
+jacket the court of appeals thought it to be. As the Sixth Circuit 
+correctly recognized, Franklin invites courts to “engage in a 
+two-part inquiry”: first, “whether there is any clear indication 
+of congressional intent to limit the presumption in favor of any 
+and all appropriate damage remedies; and second, absent any 
+such indication, * * * whether the remedy in question is ‘appro- 
+priate.” Moreno v. Consolidated Rail Corp., 99 F.3d 782, 789 
+(6th Cir.1996) (en banc). But there is nothing in Franklin that 
+forbids courts, during the first step of that inquiry, to consider 
+legislative amendments, the “background against which Con- 
+gress was legislating” (id. at 789), and any other evidence that 
+might shed light on whether Congress lacked an intent to autho- 
+nize a particular remedy. Similarly, there is no basis on which 
+to interpret Franklin’s reference to “appropriate” remedies nar- 
+
+
+22 
+
+
+rowly as meaning “appropriate” in a specific case” (App.., in- 
+fra, \6a (emphasis added)). A remedy may be “inappropriate” 
+for a particular statutory scheme, or because it undercuts well- 
+established principles of law, and not just because it does not fit 
+the conduct at issue in a particular lawsuit. See /nternational 
+Bhd. of Elec. Workers v. Foust, 442 U.S. 42, 48-52 (1979) (re- 
+jecting implied remedy of punitive damages under the Railway 
+Labor Act as inconsistent with national labor policy). 
+
+
+2. Several of this Court's decisions since Franklin demon- 
+strate the error of the Eighth Circuit’s approach. In Gebser v. 
+Lago Vista Independent School Dist., 524 U.S. 274 (1998), this 
+Court rejected an argument predicated on an expansive reading 
+of Franklin. In that case, which (like Franklin itself) involved 
+a Title LX action for damages brought against a school district, 
+the Court pointed out that it had “made no effort in Franklin” 
+to specify “the circumstances in which a damages remedy 
+should lie.” /d. at 284. Moreover, the Court emphasized that, 
+[because the private right of action under Title IX is judicially 
+implied, we have a measure of latitude to shape a sensible re- 
+medial scheme that best comports with the statute.” /bid. 
+Franklin’s “general rule” concerning the availability of all 
+appropriate relief, the Court observed, must “yield[] where 
+necessary to carry out the intent of Congress or to avoid frus- 
+trating the purposes of the statute involved.” /d. at 285 (internal 
+quotations omitted). 
+
+
+_ Applying those principles, the Court held that it would 
+frustrate the purposes of Title IX to allow recovery against a 
+school district on the basis of respondeat superior or a theory 
+of constructive notice. Gebser, 524 U.S. at 285. In words 
+equally applicable to this case, the Court emphasized that, 
+“{w]hen Title IX was enacted in 1972, the principal civil rights 
+statutes containing an express right of action did not provide for 
+recovery of monetary damages at all, instead allowing only 
+injunctive and equitable relief.” /bid. The Court also reasoned 
+that the “implied damages remedy should be fashioned along 
+the same lines” as Title [X’s “express remedial scheme,” which 
+
+
+23 
+
+
+allows for suspension or termination of federal funding and “is 
+predicated upon notice to an ‘appropriate person’ and an oppor- 
+tunity to rectify any violation, 20 U.S.C. § 1682.” /d. at 290. 
+The Court relied as well on the fact that “[i}t was not until 1991 
+that Congress made damages available under Title VII, and 
+even then, Congress carefully limited the amount recoverable 
+in any individual case.” /d. at 286. “Adopting petitioner's posi- 
+tion,” the Court explained, “would amount * * * to allowing un- 
+limited recovery of damages under Title IX where Congress has 
+not spoken on the subject of either the right or the remedy, and 
+in the face of evidence that when Congress expressly consid- 
+ered both in Title VII it restricted the amount of damages 
+available.” /bid. 
+
+
+Here, as in Gebser, the Eighth Circuit should have taken 
+account of the fact that when the Rehabilitation Act was enacted 
+in 1973 — and when it was amended in 1986, 1987, and 1991 - 
+there was “near unanimity” (App., infra, 12a) in the federal 
+courts about the unavailability of punitive damages (and similar 
+unanimity existed at that time with respect to Title VI and 
+Title IX). See also Moreno, 99 F.3d at 789-91 (discussing this 
+history and background understanding and concluding that it 
+provided “a pretty clear indication” that “Congress did not in- 
+tend to allow” punitive damages). Here, as in Gebser, the 
+Eighth Circuit should have recognized that it possessed a “mea- 
+sure of latitude” in applying Franklin and should have consid- 
+ered the implications of Congress’s creation in 1991 of a limit- 
+ed punitive damages remedy applicable to other provisions of 
+the Rehabilitation Act (and inapplicable to municipal govern- 
+ments). And here, as in Gebser, the Eighth Circuit should have 
+recognized that any inquiry into Congress's intent under Frank- 
+lin must be informed by such considerations as the Rehabilita- 
+tion Act’s “express remedial scheme” and whether punitive 
+damages would be consistent with the purposes underlying the 
+statutes. The Eighth Circuit, however, did none of this. 
+
+
+The error in the court of appeals’ analysis is also demon- 
+strated by Lane v. Peria, 518 U.S. 187 (1996), where this Court 
+
+
+24 
+
+
+held that a private plaintiff suing under Section 504 of the Re- 
+habilitation Act may not recover monetary damages against the 
+federal government. Rejecting another argument that F) ranklin 
+mandated a contrary result, the Court explained that Franklin 
+“involved an action against nonfederal defendants under 
+Title IX” and could not be applied “wholesale” to actions 
+against the federal government given the federal government's 
+traditional immunity. 518 U.S. at 196-97. Here, as in Lane, 
+any inquiry into available remedies and Congress’s intent 
+should have taken into account the backdrop of well-settled 
+governmental immunities. City of Newport, supra. The Eighth 
+Circuit failed to do so, contrary to the teachings of Lane. 
+
+
+3. Had the Eighth Circuit’s taken account of these consid- 
+erations, rather than applying a cramped and incorrect interpre- 
+tation of Franklin, it would have found ample evidence that 
+Congress never intended to authorize the recovery of punitive 
+damages under Section 504 of the Rehabilitation Act or Section 
+202 of the ADA (and that such a remedy was wholly inappro- 
+priate). We outline below several of the most obvious consider- 
+ations pointing toward this conclusion. 
+
+
+a. As the lower court correctly noted, “Congress extended 
+the remedies available under Title VI to section 504 in 1978, 29 
+U.S.C. § 794a, and then to section 202 [of the ADA] in 1990, 
+42 U.S.C. § 12133.” App., infra, 12a. Congress made further 
+amendments to the Rehabilitation Act in 1986, 1987, and 1991. 
+See pages 3-4, supra. At the time Congress enacted these 
+remedial provisions and further amendments, “punitive 
+damages had never been awarded under § 504 and were widely 
+believed to be unavailable under that section” as well as “under 
+Title VI.” Moreno, 99 F.3d at 790 (citing cases); see also App., 
+infra, 13a-14a & n.9 (same). “The repeated 4 nding amendments 
+to the Rehabilitation Act without altering the existing 
+understanding that punitive damages were not available under 
+§ 504 [are] a pretty clear indication * * * that Congress did not 
+intend to allow such damages.” Moreno, 99 F.3d at 791; accord 
+Gebser, 524 U.S. at 285. 
+
+
+25 
+
+
+b. The Civil Rights Act of 1991 strongly confirms Con- 
+gress’s lack of intent to authorize (and the inappropriateness of) 
+punitive damages in actions brought under Section 504 of the 
+Rehabilitation Act and Section 202 of the ADA. The 1991 Act 
+created a limited and carefully defined right to recover punitive 
+damages (subject to specified monetary caps based on the size 
+of the offending employer) in certain actions brought for inten- 
+tional discrimination in employment. The punitive damages 
+provision applied to actions brought under Section 501 of the 
+Rehabilitation Act, 29 U.S.C. § 791, and Section 102 of Title I 
+of the ADA, 42 U.S.C. § 12112. It did not apply to actions 
+brought under Section 504 or 202. Moreover, the 1991 Act ex- 
+pressly exempts from punitive liability under its new provisions 
+any “government, government agency or political subdivision.” 
+42 U.S.C. § 1981a(b)(1); see County of Centre, 242 F.3d at 457. 
+
+
+As the Eighth Circuit recognized in this case, but inexplic- 
+ably failed to credit, the “text and history of the 1991 Act” 
+make clear that in enacting these provisions “Congress intended 
+to expand, and not to contract, the available remedies” under the 
+Rehabilitation Act and ADA. App., infra, 15a; see also ibid. 
+(making same observation about legislation proposed, but not 
+enacted, in 1992). See generally Kolstad v. American Dental 
+Ass'n, 527 U.S. 533, 534 (1999) (“Congress provided for 
+additional remedies, including punitive damages for certain 
+classes of Title VII and ADA violations.”) (emphasis added). 
+Moreover, as several courts have recognized,'? the mere 
+juxtaposition, without more, of the limited punitive damages 
+provisions of the 1991 Act (42 U.S.C. § 1981a) on the one 
+
+
+See, e.g., Bayon v. State University of New York at Buffalo, 2001 WL 
+135817, at *4(W.D.N.Y. Feb. 15, 2001) (1991 Act’s creation of punitive 
+damages remedy under Title 1 of ADA “counsels against any inference 
+that punitive damages are available under Title II”): Harrelson v. Elmore 
+County, 859 F. Supp. 1465, 1468 (M.D. Ala. 1994) (same). But see 
+Kedra v. Nazareth Hosp., 868 F. Supp. 733, 740 (E.D. Pa. 1994) (relying 
+on 1991 Act’s creation of punitive damages remedy under Title VII as 
+reason for permitting punitive damages under Section 504). 
+
+
+26 
+
+
+hand, and the remedial provision governing Section 504 and 
+Section 202 (29 U.S.C. § 794a; 42 U.S.C. § 12133) on the other, 
+provides structural evidence of an intent on Congress ’s part not 
+to authorize punitive damages under the latter provisions. See 
+also Kolstad, 527 U.S. at 534 (“The very structure of § 1981la 
+suggests a congressional intent to authorize punitive damages 
+only in a subset of cases involving intentional discrimination ). 
+Finally, Congress’s express exemption of governmental entities 
+from punitive liability under the 1991 Act provides powerful 
+evidence of Congress’s intent not to permit punitive liability in 
+a case such as this. See also Gebser, 524 U.S. at 285 (refusing 
+to “allow[] unlimited recovery of damages under Title IX where 
+Congress has not spoken on the subject of either the right or the 
+remedy, and in the face of evidence [in the 1991 Act] that when 
+Congress expressly considered both in Title VII it restricted the 
+amount of damages available’’). 
+
+
+c. In City of Newport v. Fact Concerts, Inc., 453 USS. 247 
+(1981), this Court detailed the long tradition in American law 
+— continuing to this day — of affording municipal governments 
+immunity from punitive damages. /d. at 259-63. Next, the 
+Court scoured the legislative history of the Civil Rights Act of 
+1871, 42 U.S.C. § 1983, for evidence that Congress “intended 
+to disturb the settled common-law immunity,” of which Con- 
+gress was presumptively aware. 453 U.S. at 263-266. F inally, 
+the Court examined “whether considerations of public policy 
+dictate” recognition of a punitive damages remedy against mu- 
+nicipalities despite the longstanding immunity and the absence 
+of evidence of congressional intent to impose such novel 
+liability. Jd. at 267-71. 
+
+
+In holding that Section 1983 does not impose punitive li- 
+ability on municipal governments, this Court explained that the 
+deterrent and retributive objectives underlying punitive dam- 
+ages are not served by imposing them on municipalities. “Re- 
+garding retribution,” the Court stated, “it remains true that an 
+award of punitive damages against a municipality ‘punishes 
+only the taxpayers, who took no part in the commission of the 
+
+
+27 
+
+
+tort.” 453 U.S. at 267. Punitive damages in this setting, the 
+Court added, “are in effect a windfall to a fully compensated 
+plaintiff, and are likely accompanied byan increase in taxes or 
+a reduction of public services for citizens footing the bill.” Jbid. 
+The Court explained that the goal of deterrence is not served by 
+the imposition of punitive damages. /d. at 268-70. Finally, the 
+Court expressed concern over the “very real” costs and risks 
+associated with allowing private individuals to visit punish- 
+ments upon municipal governments. See id. at 270-71. 
+
+
+As the Third Circuit recognized in its conflicting decision 
+in County of Centre, 242 F.3d at 456, “(t]he principles derived 
+from City of Newport are directly applicable to” Section 504 of 
+the Rehabilitation Act and Section 202 of the ADA. In deter- 
+mining whether Congress intended to allow punitive damages 
+against municipalities under these statutes, as well as whether 
+such damages are “appropriate” within the meaning of Frank- 
+lin, the Eighth Circuit should have taken into account the long 
+history and compelling policy rationales described in City of 
+Newport. Moreover, it should have asked whether there was 
+any evidence of congressional intent to depart not from Frank- 
+lin’s general rule concerning the availability of all appropriate 
+relief, but rather from the general immunity enjoyed by munici- 
+palities. County of Centre, 242 F.3d at 456. Its failure to do so 
+was error. That error is further confirmed, moreover, by the 
+1991 Act’s exemption of municipalities and other government 
+entities from punitive liability under other provisions -of the 
+Rehabilitation Act and the ADA." 
+
+
+d. In Gebser, this Court reasoned that the “implied dam- 
+ages remedy” under Title IX “should be fashioned along the 
+same lines” as the statute’s “express remedial scheme,” which 
+
+
+* In the Eighth Circuit, petitioners maintained that the Board was an 
+“arm of the state” and thus entitled to Eleventh Amendment immunity. 
+The court of appeals, however, rejected that submission. App., infra, Sa- 
+8a. As this case comes to the Court, therefore, it can be assumed that the 
+Board is, in essence, a municipal entity. 
+
+
+28 
+
+
+allows for suspension or termination of federal funding. 524 - 
+
+
+U.S. at 290. In this case, in contrast, the Eighth Circuit read 
+Franklin as barring any inference that could be drawn about the 
+availability of punitive damages from Congress’s inclusion of 
+administrative remedies to guard against fund recipients’ viola- 
+tions of the Section 504 of the Rehabilitation Act or Section 202 
+of the ADA. App., infra, 10a n.6 (under Franklin, “administra- 
+tive and private causes of action” must be treated as “separate 
+and distinct”). That, too, was error. 
+
+
+Had the Eighth Circuit examined the “express remedial 
+scheme” applicable to Section 504 of the Rehabilitation Act, it 
+would have concluded — as the Sixth Circuit did in Moreno — 
+that “Congress has chosen other ways to ‘punish’ those who 
+violate § 504.” 99 F.3d at 791. In particular, “a punishment of 
+cutoff of federal funds is one of the remedies available” under 
+the statute.” Singh v. Superintending Sch. Comm., 601 F. Supp. 
+865, 867 (D. Maine 1985) (citing this as a ground for dis- 
+allowing punitive damages in case brought under Title VI); see 
+also Moreno, 99 F.3d at 791-92; DeLeo v. City of Stamford, 919 
+F. Supp 70, 74 n.7 (D. Conn. 1995). Indeed, one reason for this 
+Court’s recognition under Title IX of a private right of action 
+was to provide an alternative to the “severe” remedy of funding 
+termination. See Cannon v. University of Chicago, 441 U.S. 
+677, 704-05 (1979); see also Doe v. Oyster River Co-op. School 
+Dist., 992 F. Supp. 467, 482-83 (D.N.H. 1997) (surveying 
+legislative history of Title IX and identifying evidence that 
+“Congress was leery of giving private litigants the power to 
+threaten grant recipients with large, punitive sanctions”). 
+
+
+e. Finally, in enacting Section 504 of the Rehabilitation 
+Act, Congress acted pursuant to its Spending Clause powers. 
+“(L]egislation enacted pursuant to the spending power Is much 
+in the nature of a contract: in return for federal funds, the States 
+agree to comply with federally imposed conditions.” Pennhurst 
+State School and Hosp. v. Halderman, 451 U.S. 1, 17 (1981). 
+To “enable the States to exercise their choice knowingly, 
+cognizant of the consequences of their participation,” this Court 
+
+
+29 
+
+
+has “insist{[ed] that Congress speak with a clear voice” when 
+imposing conditions on the receipt of federal funds. /bid. 
+Moreover, this Court made clear in Gebser that the “contractual 
+nature” of Spending Clause statutes “has implications for our 
+construction of the scope of the available remedies.” 524 U.S. 
+at 287. Because the common law generally does not recognize 
+punitive damages as remedy for breach of contract; see 
+RESTATEMENT (SECOND) OF CONTRACTS § 355 (1981), it is 
+doubtful that punitive damages should ever be awarded as a 
+remedy in cases involving Spending Clause legislation. At a 
+minimum, courts should require an unequivocal statement of 
+congressional intent before allowing such a remedy. This the 
+Eighth Circuit failed to do.'* 
+
+
+Taken together, these serious errors in the Eighth Circuit’s 
+analysis provide further reason why this Court should accept 
+the court of appeals’ invitation “to inject additional clarity into 
+this area” of law. App., infra, 16a. And there is no good reason 
+not to accept that invitation now. The fact that the court of 
+appeals remanded to the district with instructions to determine 
+whether the punitive damages award was “appropriate” in this 
+“specific case” (ibid.) is no reason to delay review of this long- 
+running case, which has already taken three trips to the Eighth 
+Circuit. See id. at 2a, 39a & n.4; Gorman v. Bartch, 123 F.3d 
+1126 (8th Cir. 1997); see also Foust, 442 U.S. at 45 (exercising 
+review to decide analogous issue despite court of appeals’ 
+remand for excessiveness review). Moreover, the panel 
+squarely rejected the argument that punitive damages are 
+unavailable as a matter of law in implied actions brought under 
+
+
+“It is especially difficult, moreover, to see how petitioners could have 
+understood in 1992 that a condition placed on the Board’s receipt of 
+federal funds was the potential l:ability for punitive damages, since (1) 
+it was “not until 1994” (several years after respondent's arrest) that there 
+was even “a single case where punitive damages were awarded under 
+§ 504” (Moreno, 99 F.3d at 790), and (2) it was unclear that the relevant 
+statutes even applied in this situation, as the court of appeals explained 
+in upholding qualified immunity in a prior appeal (App., infra, 46a-50a). 
+
+
+30 
+
+
+Section 504 of the Rehabilitation Act and Section 202 of the 
+ADA; and it gave the word “appropriate” an unduly narrow 
+(and in our view incorrect) interpretation that will govern any 
+remand proceedings and limit petitioners’ ability to demonstrate 
+inappropriateness. Because the important and clear-cut legal 
+issues decided by the panel are fundamental to the conduct of 
+any future proceedings on remand — and because they will 
+continue to have sweeping implications for a wide array of 
+other cases, regardless of the outcome of this particular dispute 
+~ review should not be delayed. See Land v. Dollar, 330 US. 
+731, 734 n.2 (1947); United States v. General Motors Corp., 
+323 U.S. 373, 377 (1945). 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted, 
+
+DALE H. CLOSE LAWRENCE S. ROBBINS* 
+LIsA S. MORRIS ALAN E. UNTEREINER 
+DANIEL J. HAUS Robbins, Russell, Englert, 
+Legal Advisor's Office Orseck & Untereiner LLP 
+Kansas City Police Department 1801 K Street, N.W. 
+1125 Locust Street Suite 41] 
+Kansas City, MO 64106 Washington, D.C. 20006 
+(816) 234-5056 (202) 775-4500 
+
+
+* Counsel of Record 
+Counsel for Petitioners 
+
+
+NOVEMBER 2001 
+
+
+APPENDICES 
+
+
+APPENDIX A 
+
+
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+No. 00-1029/00-1030 
+
+
+Jeffrey Gorman, Appellant/Cross-Appellee, 
+
+
+Vv. 
+
+
+Richard Easley, in his official capacity as Chief of Police of 
+the Kansas City, Missouri Police Department; Dr. Stacey 
+Daniels-Y oung, in her official capacity as member of the 
+
+Board of Police Commissioners of Kansas City, Missouri; 
+Jeffrey J. Simon, in his official capacity as member of the 
+Board of Police Commissioners of Kansas City, Missouri; 
+
+Joseph J. Mulvihill, in his official capacity as member of the 
+Board of Police Commissioners of Kansas City, Missouri; 
+
+Dennis C. Eckhold, in his official capacity as member of the 
+Board of Police Commissioners of Kansas City, Missouri; 
+
+Kay Barnes, in her official capacity as member of the Board 
+of Police Commissioners of Kansas City, Missouri; Neil 
+Becker, in his official capacity as a member of the Kansas 
+
+City Police Department, Appellees/Cross-Appellants. 
+
+
+Appeal from the United States District Court 
+for the Western District of Missouri 
+
+
+Submitted: January 8, 2001 
+Filed: June 13, 2001 
+
+
+—EEE 
+
+
+2a 
+
+
+Before BEAM, MORRIS SHEPPARD ARNOLD, Circuit 
+Judges and ALSOP,' District Judge. 
+
+
+BEAM, Circuit Judge. 
+
+
+We have twice before heard appeals in this case. It has 
+now been tried before a jury, which rendered a verdict against 
+the defendant appellees (collectively “the Police Board” or “the 
+Board”). Jeffrey Gorman now appeals the district court’s post- 
+trial ruling that punitive damages are not available under the 
+Rehabilitation Act and the Americans with Disability Act. The 
+Board, for its part, asserts Eleventh Amendment immunity, and 
+appeals various trial court rulings. We reverse and remand for 
+
+
+further proceedings. 
+>. 
+
+
+A January 1988 auto accident left Jeffrey Gorman a 
+paraplegic. He lacks voluntary control over his lower torso and 
+legs, including his bladder. His inability to steady himself with 
+his abdominal muscles and legs confines him to a a 
+
+ially desi to keep him upright. He must wear a 
+pened or a torn around his waist, which must be 
+emptied in order to prevent urine from backing up into his body 
+and causing an infection or a kidney disorder. 
+
+
+One Saturday night in May 1992, Gorman and a friend 
+were in the Westport area of Kansas City, Missouri, where they 
+entered a dance club called “Guitars and Cadillacs.” While in 
+the club, the two became involved in an altercation with a 
+bouncer, which ultimately resulted in Gorman’s forceful 
+ejection from the premises. Outside, Gorman approached 
+several police officers, hoping they would intercede on his 
+
+
+' The Honorable Donald D. Alsop, United States District Judge for the 
+District of Minnesota, sitting by designation. 
+
+
+3a 
+
+
+behalf. In fact, the officers were off-duty and working as 
+private security for Westport. The officers told Gorman that he 
+had to leave. When he refused, they placed him under arrest for 
+
+
+trespass. 
+
+
+While waiting for the police van, Gorman told the officers 
+that he had to go to the restroom to empty his full urine bag, but 
+was told to wait until he got to the station. When the van 
+arrived it lacked wheelchair locks, which would have permitted 
+Gorman’s transportation in his chair. Rather, it contained only 
+a narrow bench. Gorman told the officers that he could not 
+possibly ride in it. Given his inability to stay upright without 
+his wheelchair, Gorman thought he would fall from the bench. 
+Gorman testified that he told the officers this, that he to.d them 
+how to lift him from his chair, and that he needed his molded 
+cushion. Regardless, the officers placed Gorman on the bench 
+and used a seatbelt to strap him in. The seatbelt did not properly 
+hold Gorman upright, and it lay across his already full urine 
+bag. Gorman testified that after he complained about the 
+seatbelt, the officers loosened it, and used Gorman’s own belt 
+to strap him to the mesh behind the bench in order to hold him 
+upright. The officers were unable to fold the wheelchair, and 
+placed it, unfolded, in the back of the van.’ 
+
+
+Officer Becker, the van driver and only on-duty officer 
+involved, then drove the van away from the scene. Gorman 
+testified that his body swayed with every turn and acceleration. 
+Gorman admitted that he released his seatbelt out of concern 
+over the pressure it was placing on his urine bag. Eventually, 
+the other belt also came undone and Gorman fell to the van 
+floor. The impact from the fall exploded Gorman’s urine bag, 
+
+
+* Almost every element of what happened that night was contested by the 
+defendants, whose testimony was that Gorman did not instruct the 
+officers how to transport him, offered no input whatsoever, and was 
+thoroughly drunk and belligerent. As Gorman prevailed below, we 
+present his version of events. 
+
+
+4a 
+
+
+soaking him with his own urine. Noticing that Gorman had 
+fallen, Officer Becker stopped the van. Unable to lift Gorman 
+by himself, Officer Becker tied him to a support in the back of 
+the van for the duration of the trip. The trip also damaged the 
+wheelchair. After arriving at the station, Gorman was booked, 
+processed and released. He was subsequently convicted of 
+misdemeanor trespass. 
+
+
+After these events, Gorman began having medical 
+difficulties. He suffered a bladder infection from urine backing 
+up into his system and began suffering serious lower back pain. 
+Whereas prior to that night he had been active and pain-free, his 
+injuries left him unable to work a full day, suffering frequent 
+pain, uncontrollable spasms in his paralyzed areas, and shoulder 
+problems. Expert testimony suggested that these injuries and 
+the resulting pain are permanent. 
+
+
+Gorman sued the Police Board under Title V, section 504 
+of the Rehabilitation Act, 29 U.S.C. § 794 (“section 504”), and 
+Title II, section 202 of the Americans with Disabilities Act 
+(“ADA”), 42 U.S.C. § 12132 (“section 202”). Section 504 
+prohibits disability-based discrimination in any public program 
+receiving federal funds. Section 202 more generally prohibits 
+disability-based discrimination in any public program or 
+services regardless of the receipt of federal funds. In Gorman 
+v. Bartch, 152 F.3d 907, 912-13 (8th Cir.1998), we held that 
+despite Gorman’s involuntary participation in the public 
+services provided to detainees, he could pursue his claim under 
+sections 504 and 202. After a trial, a jury found the defendants 
+liable and awarded Gorman actual damages of $1,034,817.33 
+and punitive damages of $1,200,000.’ This appeal followed. 
+
+
+> The district court submitted Gorman’s ADA and Rehabilitation Act 
+claims in a unified instruction. Gorman can therefore prevail if the 
+evidence supports the jury’s finding under either Act. 
+
+
+Sa 
+Il. 
+
+
+We begin with the Police Board’s claim of sovereign 
+
+immunity. The Board interposes as dispositive our holding in 
+Alsbrook v. City of Maumelle, 184 F.3d 999 (8th Cir. 1999), cert. 
+denied sub nom., Alsbrook v. Arkansas, 529 U.S. 1001, 120 
+S.Ct. 1265, 146 L.Ed.2d 215 (2000), that the Eleventh 
+Amendment bars suits against the states in federal court under 
+section 202. Gorman argues the Police Board’s failure to 
+similarly address his section 504 claim renders that argumeit 
+moot. However, the Eleventh Amendment implicates our 
+jurisdiction, which we are obliged to explore even where the 
+parties fail to do so. Long v. Bureau of Reclamation, 236 F.3d 
+910, 916 (8th Cir.2001). We are therefore bound to consider 
+whether sovereign immunity prevents Gorman from bringing a 
+claim against the Police Board under either statute. A/sbrook 
+alone does not dispose of that issue, for it leaves us with two 
+questions: whether sovereign immunity similarly bars suits 
+against a state in federal court under section 504; and whether 
+the Police Board constitutes an arm of the state entitled to 
+sovereign immunity. Because we resolve the latter question in 
+the negative, we do not reach the former. 
+
+
+Sovereign immunity extends to states and “arms” of the 
+state, but not to local governments. Alden v. Maine, 527 U.S. 
+706, 756, 119 S.Ct. 2240, 144 L.Ed.2d 636-(1999); Merrill 
+Lynch, Pierce, Fenner and Smith, Inc. v. Nixon, 210 F.3d 814, 
+819 (8th Cir.), cert. denied, 531 U.S. 958, 121 S.Ct. 383, 148 
+L.Ed.2d 295 (2000). Whether an entity constitutes such an 
+“arm” turns on its relationship to the state under state law.‘ 
+
+
+* Gorman argues that the denial of Eleventh Amendment immunity to bi- 
+State agencies organized under federal law in Hess v. Port Authority 
+Trans-Hudson Corp., 513 U.S. 30, 38 & n. 8, 115 S.Ct. 394, 130 L.Ed.2d 
+245 (1994), undercuts the Police Board’s claim to immunity as a creature 
+of state law. This argument could not be more wrong. Organization 
+under state law, rather than federal law, makes it more likely that an 
+
+
+6a 
+
+
+430-31 & n. 
+Regents of the Univ. of Cal. v. Doe, 519 U.S. 425, } 
+5, 11 7 S.Ct. 900, 137 L.Ed.2d 55 (1997); Mt. Healthy City Sch. 
+Dist. Bd. of Educ. v. Doyle, 429 U.S. 274, 280, 97 S.Ct. 568, 50 
+
+
+L.Ed.2d 471 (1977). 
+
+
+In our own “arm of the state” jurisprudence, we have 
+looked generally to three factors: (1) an agency’s powers and 
+characteristics under state law; (2) an agency’s relationship to 
+the state — its autonomy from the state and degree of control 
+over its own affairs, and (3) whether any award would flow 
+from the state treasury. 7releven v. University of Minn., 73 F.3d 
+816, 818 (8th Cir.1996); accord Hadley v. North Ark. Cmty. 
+Tech. Coll., 76 F.3d 1437 (8th Cir.1996) (finding community 
+college to be an arm of the state based upon the state’s ultimate 
+financial liability and the institution’s status under state law); 
+Greenwood v. Ross, 778 F.2d 448 (8th Cir.1985) (directing 
+inquiry to degree of local autonomy and control and whether 
+suit will draw payment from the state treasury). Because a state 
+may only waive its immunity upon an “unequivocally expressed 
+... Clear declaration” of an-intent to do so, we give particular 
+heed to a state’s treatment of its subdivisions under its own 
+laws. College Savs. Bank v. Florida Prepaid Postsecondary 
+Educ. Expense Bd., 527 U.S. 666, 676, 119 S.Ct. 2219, 144 
+L.Ed.2d 605 (1999) (citations omitted). Likewise, we give 
+substantial weight to whether litigation against a particular 
+entity would draw on the public fisc. Hess v. Port Auth. Trans- 
+Hudson Corp., 513 U.S. 30, 38, 115 S.Ct. 394, 130 L.Ed.2d 245 
+(1994); Regents, 519 U.S. at 430, 117 S.Ct. 900. 
+
+
+Our resolution of this issue in this case is amped two 
+holdings. The first is the Supreme Court’s ruling in Aver v. 
+Robbins, 519 U.S. 452, 456 n. 1, 117 S.Ct. 905, 137 L.Ed.2d 79 
+(1997), that the St. Louis Board of Police is not “an arm of the 
+state.” There, the Court noted that “[w]hile the Governor 
+appoints four of the board’s five members, the city of St. Louis 
+
+
+agency is an arm of the state. 
+
+
+7a 
+
+
+is responsible forthe board’s financial liabilities, and the board 
+is not subject to the State’s direction or control in any other 
+respect. It is therefore not an ‘arm of the State’ for Eleventh 
+Amendment purposes.” /d. (citations omitted). 
+
+
+The elements relied upon by the Supreme Court in Auer 
+were recently reaffirmed in Smith v. Missouri, No. W.D. 58882, 
+2001 WL 471937, at 1 (Mo.Ct.App. May 7, 2001), where the 
+Missouri Court of Appeals addressed the question whether 
+members of the St. Louis Police Board and police officers with 
+the City of St. Louis were entitled to coverage under the 
+Missouri State Legal Expense Fund. That fund makes money 
+available for payment of damages levied against any state 
+agency or officer or employee thereof. /d. at 2. The court 
+undertook a rigorous analysis of the St. Louis Board of Police 
+in order to determine whether it was the sort of state agency the 
+creators of the Legal Expense Fund had intended to include 
+under its coverage. The court noted that the Board is a creature 
+of state, and not local law. Jd. at 4. Moreover, it noted that the 
+Board was intentionally set up to be above local political 
+influence, and to that end, as the Supreme Court noted, four of 
+the Board’s five members are appointed by the Missouri 
+Governor. /d. at 3-4. However, the court went on to note that 
+the State’s funding mechanism ensures that the St. Louis Board 
+is funded by the people of St. Louis. Jd. at 5-6. Finally, the 
+court examined the St. Louis Board’s functions and purpose, 
+whictrrelate primarily to the city.’ In particular, the court noted 
+that the state has no day-to-day control over the St. Louis Board. 
+Id. at 7-8. In sum, the Missouri Court of Appeals concluded 
+that at best, the St. Louis Board is a “hybrid agency.” /d. at 6-8. 
+As regards the Legal Expense Fund, the court concluded that 
+“the legislature’s intent in creating and maintaining the Fund is 
+to provide coverage to those agencies and employees whose 
+
+
+* A geographically-limited scope of responsibility does not necessarily 
+deprive an entity of Eleventh Amendment immunity. See, e.g., Power v. 
+Summers, 226 F.3d 815, 818 (7th Cir. 2000). 
+
+
+a an 
+
+
+cn i LE ED 
+
+
+8a 
+
+
+duties and actions directly impact the whole state and over 
+which the state retains more direct control.” /d. at 8. The St. 
+Louis Board not being such an entity, the court concluded the 
+state has no obligation to pay judgments against its members or 
+officers. /d. at 11. 
+
+
+The Kansas City Board, at issue in this case, is similarly a 
+creature of Missouri state law, and is managed in a substantially 
+similar manner. Mo. Ann. Stat. §§ 84.350-84.870. Its functions 
+are primarily local. Its structure mirrors that which the Supreme 
+Court found in Auer to not be an arm of the state. Moreover, as 
+the Missouri Court of Appeals confirmed in Smith, and as the 
+Supreme Court stated in Aver, Board members are not subject 
+to reimbursement from the state treasury for any money 
+judgments rendered against them. Because for the purposes at 
+issue in this case relevant state law treats entities such as the 
+Board as not being a state agency, and because the state 1s not 
+responsible for judgments against it, we conclude that the 
+Kansas City Board does not constitute an arm of the state for 
+purposes of Eleventh Amendment immunity. 
+
+
+II. 
+
+
+Gorman appeals the district court’s post-trial ruling that 
+neither section 504 nor section 202 permits punitive damages. 
+We have twice permitted monetary remedies under section 504, 
+Rodgers v. Magnet Cove Pub. Schs., 34 F.3d 642 (8th 
+Cir.1994); Miener v. Missouri, 673 F.2d 969 (8th Cir. 1982), but 
+the availability of punitive damages remains an open question, 
+Gorman v. Bartch, 152 F.3d 907, 910 n.2 (8th Cir.1998). This 
+raises a question that only one other circuit has addressed. See 
+Moreno v. Consolidated Rail Corp., 99 F.3d 782 (6th Cir.1996) 
+(holding that punitive damages are not available under section 
+504). While we are sympathetic to the Sixth Circuit’s 
+conclusion, we find it foreclosed by controlling precedent. 
+
+
+9a 
+
+
+Sections 504 and 202 both borrow their remedies from 
+Title VI of the 1964 Civil Rights Act. 29 U.S.C. § 794a(a)(2); 
+42 U.S.C. § 12133. The pertinent question, therefore, is what 
+remedies Title VI permits. Unfortunately, Title VI expressly 
+provides neither a private cause of action nor remedies for such 
+an action. See 42 U.S.C. §§ 2000d et seg. In Cannon v. 
+University of Chicago, 441 U.S. 677, 694-703, 99 S.Ct. 1946, 
+60 L.Ed.2d 560 (1979), however, the Supreme Court held that 
+Title IX of the Education Amendments of 1972 created an 
+implied cause of action in its protected class. In doing so, the 
+Supreme Court relied heavily on the fact that Title LX had been 
+modeled on Title VI. The Court assumed Congress knew that 
+Title VI had been interpreted by some lower courts to contain an 
+implied cause of action. /d. at 696-97, 99 S.Ct. 1946. 
+Therefore, the Court concluded, Congress must have intended 
+Title IX to similarly include an implied cause of action. This 
+reading has since been turned around to conclude that Title V! 
+must also contain an implied cause of action. Lane v. Pena, 518 
+U.S. 187, 191, 116 S.Ct. 2092, 135 L.Ed.2d 486 (1996); 
+Guardians Ass'n v. Civil Serv. Comm'n, 463 U.S. 582, 597, 
+612, 615-16, 635-36, 103 S.Ct. 3221, 77 L.Ed.2d 866 (1983) 
+(seven members of the court recognizing implied action in Title 
+VI in fragmented opinions). For our part, we have twice 
+permitted damages under section 504, thereby corroborating, 
+albeit without discussion, the notion that Title VI contains an 
+implied cause of action. Rodgers, 34 F.3d 642; Miener, 673 
+F.2d 969. 
+
+
+We turn next to Franklin v. Gwinnett County Public 
+Schools, 503 U.S. 60, 112 S.Ct. 1028, 117 L.Ed.2d 208 (1992), 
+which considered the remedies available under the cause of 
+action implied in Title IX. There, the Court affirmed the rule, 
+articulated earlier in Bell v. Hood, 327 U.S. 678, 684, 66 S.Ct. 
+773, 90 L.Ed. 939 (1946), that “absent clear direction to the 
+contrary by Congress, the federal courts have the power to 
+award any appropriate relief in a cognizable cause of action 
+brought pursuant to a federal statute.” Franklin, 503 U.S. at 70- 
+
+
+ee i A a lB +>. 
+
+
+eS RR 
+
+
+10a 
+
+
+71, 112 S.Ct. 1028. The Supreme Court has long made clear 
+that punitive damages are an integral part of the common law 
+tradition and the judicial arsenal. See Pacific Mut. Life Ins. Co. 
+v. Haslip, 499 U.S. 1, 15-18, 111 S.Ct. 1032, 113 L.Ed.2d 1 
+(1991) (reviewing history of punitive damages from Blackstone 
+through the English and American courts); Day v. Woodworth, 
+54 U.S. (13 How.) 363, 370, 14 L.Ed. 181 (1852) (noting well 
+established common law principle that juries may exact 
+“exemplary, punitive or vindictive” damages). Punitive 
+damages, therefore, fall within the panoply of remedies usually 
+available to American courts. Given an implied cause of action 
+in Title VI, Franklin compels the conclusion that absent express 
+congressional statement to the contrary, Title VI also affords all 
+appropriate remedies, including punitive damages.° 
+
+
+The Court in Franklin next took up “whether Congress 
+intended to limit application of this general principle in the 
+enforcement of Title IX.” 503 U.S. at 71, 112 S.Ct. 1028. 
+Because the cause of action in question was implied rather than 
+expressed, the Court put aside what it considered a pointless 
+discussion of legislative history.’ /d. Rather, it looked to the 
+judicial backdrop against which Congress had legislated. The 
+
+
+° The availability of additional remedies is not precluded by Congress’ 
+express provision in Title VI of administrative remedies. It is an 
+elemental canon of statutory construction that where a statute expressly 
+provides a particular remedy or remedies, a court must be chary of 
+reading others into it. Transamerica Mortgage Advisors, Inc. (TAMA) v. 
+Lewis, 444 U.S. 11, 19, 100 S.Ct. 242, 62 L.Ed.2d 146 (1979). However, 
+Title IX uses the same textual structure and remedies, yet in Franklin the 
+Court found the implied private cause of action to sustain an award of 
+monetary damages. This follows only if the administrative and private 
+causes of action are separate and distinct such that a limitation on one 
+does not operate against the other. 
+
+
+’ That the cause of action was implied did not preclude the availability 
+of remedies as the latter is analytically distinct from the question of 
+whether a cause of action exists at all. Franklin, 503 U.S. at 65-66, 112 
+S.Ct. 1028. 
+
+
+lla 
+
+
+Court observed that “[i]n the years before and after Congress 
+enacted this statute, the Court followed a common-law tradition 
+and regarded the denial of a remedy as the exception rather than 
+the rule.” /d. (quotation and brackets omitted). Once again 
+indulging the assumption that Congress legislates in light of 
+prevailing precedent, the Court found Congress to have intended 
+the availability of all remedies. The Court then reviewed 
+Congress’ subsequent treat:nent of Title LX. In both 1986 and 
+1987, Congress amended Title IX without disturbing either the 
+Court’s holding in Cannon, that Title LX afforded a private 
+remedy, or limiting the availability of remedies thereunder. In 
+fact, the language of the 1986 amendment impliedly recognized 
+the existence of a private cause of action. /d. at 72-73, 112 S.Ct. 
+
+1028. The Court concluded, “[oJur reading of the two 
+amendments to Title IX enacted after Cannon leads us to 
+
+conclude that Congress did not intend to limit the\remedies 
+
+available in a suit brought under Title [X.” /d. at 72, 112 S.Ct. 
+
+1028. 
+
+
+Application of Franklin’s methodology to this case must 
+begin with the enactment of Title VI in 1964. Cannon and our 
+own holdings in Rodgers and Miener compel the conclusion that 
+in 1964 Congress created an implied cause of action in Title 
+VL* At that time, the rule in Bell, relied on in Franklin, that a 
+cause of action affords all appropriate remedies unless expressly 
+limited, was alive and well. As in Franklin, we must therefore 
+conclude that Congress assumed the availability of all remedies, 
+including punitive damages, under Title VI. Congress has not 
+
+
+* When a court “implies” a cause of action it does not “create” it, but 
+rather “discovers” it in an act of statutory construction: See, e.g., 
+Franklin, 503 U.S. 71-72, 112 S.Ct. 1028; J. Case Co. v. Borak, 377 
+U.S. 426, 430-31, 84 S.Ct. 1555, 12 L.Ed.2d 423 (1964). The upshot of 
+this understanding is that the cause of action has always existed, despite 
+having lain dormant. This logic holds for any judicial statutory 
+interpretation — even those which change pre-existing interpretations. 
+Regardless of the merits of this understanding, it flows from our judicial 
+interpretive, as opposed to legislative, function. 
+
+
+ae ee ee 
+
+
+12a 
+
+
+since amended Title VI to limit any cause of action implied 
+thereunder, nor the remedies that might accompany such a cause 
+of action. Congress extended the remedies available under Title 
+VI to section 504 in 1978, 29 U.S.C. § 794a, and then to section 
+202 in 1990, 42 U.S.C. § 12133. Congress has never expressly 
+limited the remedies available under those sections either. 
+Therefore, logic dictates, the full panoply of remedies available 
+under Title VI, including punitive damages, must be available 
+under sections 504 and 202. 
+
+
+The Sixth Circuit reached the contrary conclusion in 
+Moreno, 99 F.3d 782. It relied largely on two concerns. First, 
+it noted that since the enactment of these various sections, lower 
+federal courts have been in near unanimity that they do not 
+support punitive awards. /d. at 789-91. Second, given this fact, 
+
+
+_it pointed to the Civil Rights Act of 1991 as proof that Congress 
+
+
+itself did not intend the availability of punitive damages. /d. at 
+790. It additionally pointed to this same evidence to support the 
+proposition that punitive damages would not be “appropriate” 
+in that case. Jd. at 791- 92. 
+
+
+We are sympathetic to the Sixth Circuit’s concerns, but 
+find its methodology and conclusions foreclosed by Cannon and 
+Franklin. The Sixth Circuit first pointed to the 1986, 1987 and 
+1991 amendments to the Rehabilitation Act and the ADA, 
+wherein Congress amended these acts but did not disturb 
+decisions ruling punitive damages unavailable under sections 
+504 and 202. Noting the assumption, made in Franklin and 
+Cannon, that Congress legislates in light of then-prevailing 
+judicial interpretations, the Sixth Circuit concluded “[t}he only 
+inference of congressional intent that can be drawn from [the 
+amendments] is that Congress intended § 504 remedies to 
+remain in statu quo — i.e., no punitive damages,” Jd. at 791. 
+
+
+l3a 
+
+
+This reasoning, however, misapplies the Supreme Court’s 
+methodology in Franklin and also undermines basic principles 
+of statutory construction. Franklin first requires the 
+determination of what remedies a statutory cause of action 
+afforded at its enactment. It then permits reference to 
+subsequent amendments only to see whether Congress later 
+altered that initial understanding. This comports with the 
+general rule that a statute adopts its meaning at the time of its 
+enactment, and not at some later point by negative inference. In 
+this case, because sections 504 and 202 draw their remedies 
+from Title VI, the inquiry must start with the enactment of Title 
+VI in 1964. As discussed above, Cannon and Franklin compel 
+the conclusion that punitive damages were available as a 
+remedy to a private cause of action under Title VI in 1964, and 
+it is that assumption which provides the baseline against which 
+subsequent amendments must be gauged. Therefore, the 1986, 
+1987 and 1991 amendments must be read as having not affected 
+the status quo — that punitive damages are available under 
+sections 504 and 202. To draw a contrary conclusion from 
+those amendments would be to hold that Congress’ 
+understanding of section 504 in 1986 and 1987, and its 
+understanding of sections 504 and 202 in 1991 trumped 
+Congress’ intent regarding those statutes when they were 
+originally enacted, and in this way retroactively amended them. 
+See Brown & Williamson Tobacco Corp. v. FDA., 153 F.3d 
+155, 167 (4th Cir. 1998) (noting that a statute’s intent at the time 
+of its enactment governs over subsequent congressional 
+understandings) (citing MC/ Telecomm. Corp. v. AT & T, 512 
+U.S. 218, 222, 114 S.Ct. 2223, 129 L.Ed.2d 182 (1994)), aff'd, 
+529 U.S. 120, 120 S.Ct. 1291, 146 L.Ed.2d 121 (2000). 
+
+
+Despite our conclusion, the Sixth Circuit’s concerns are 
+hardly misplaced. When Congress enacted the Rehabilitation 
+Act and at the time of the subsequent amendments, courts 
+generally agreed Title VI and section 504 did not afford 
+monetary damages, and were in near unanimity that they did not 
+
+
+l4a 
+
+
+permit punitive damages.” However, the governing statutes and 
+precedents in this case operate as a one-way ratchet: once a 
+cause of action is discovered, it automatically entitles a plaintiff 
+to all appropriate remedies; and that finding then extends those 
+remedies to all other interrelated statutes. This now precludes 
+consideration of what Congress intended through consideration 
+of these earlier court decisions. 
+
+
+This tension becomes particularly clear in the context of 
+the 1991 Civil Rights Act. The product of extensive 
+compromise between President George Herbert Walker Bush 
+and Congress, that Act amended the ADA and the 
+Rehabilitation Act to permit limited punitive damages. 
+
+
+® See, e.g., Americans Disabled for Accessible Pub. Transp. v. SkyWest 
+Airlines, Inc., 762 F.Supp. 320 (D.Utah 1991) (finding no punitive or 
+compensatory damage remedy under section 504); Doe v. Southeastern 
+Univ., 732 F.Supp. 7 (D.D.C.1990) (limiting section 504 to equitable 
+remedies); Robinson v. University of Pa., No. 87-2476, 1988 WL 
+120738 (E.D.Pa. Nov.8, 1988) (holding neither punitive nor 
+compensatory damages available under Title VI); Singh v. 
+Superintending Sch. Comm., 601 F.Supp. 865 (D.Maine 1985) 
+(permitting compensatory remedy but not punitive remedy under Title 
+V1); Moreno v. Texas S. Univ., 573 F.Supp. 73 (S.D.Tex. 1983) (finding 
+no private cause of action for compensatory or punitive damages under 
+Title VI); Rendon v. Utah State Dep't of Employment Sec. Job Serv., 
+454 F.Supp. 534 (D.Utah 1978) (same). But see Neighborhood Action 
+Coalition v. City of Canton, 882 F.2d 1012.(6th Cir.1989) (permitting 
+Title VI action for compensatory and punitive damages to continue 
+without addressing their availability); Hutchings v. Erie City & County 
+Library Bd. of Directors, 516 F.Supp. 1265 (W.D.Pa.1981) (permitting 
+damages remedies under section 504 in suit where plaintiff sought 
+punitive damages); Patton v. Dumpson, 498 F Supp. 933 (S.D.N.Y.1980) 
+(finding section 504 to afford compensatory damages), Gilliam v. City 
+of Omaha, 388 F.Supp. 842 (D.Neb.1975) (recognizing action for 
+monetary damages under Title VI), aff'd on other grounds, 524 F.2d 
+1013 (8th Cir.1975). Since Franklin, courts have begun to re-evaluate 
+these holdings. See, e.g., Burns-Vidlak v. Chandler, 980 F.Supp. 1144 
+(D.Haw.1997) (finding punitive and compensatory damages available 
+under sections 504 and 202). 
+
+
+lSa 
+
+
+Specifically, it permitted employees suing under section 107(a) 
+of the ADA and section 501 of the Rehabilitation Act to recover 
+compensatory and punitive damages subject to statutory caps 
+ranging from $50,000 to $300,000. 42 U.S.C. § 1981la. It did 
+not, however, affect sections 504 or 202. The text and history 
+of the 1991 Act suggest Congress intended to expand, and not 
+to contract, the available remedies. Congress provided that a 
+“complaining party may recover compensatory and punitive 
+damages,” using broadening, and not limiting language. 42 
+U.S.C. § 1981a(a)(2). Legislative history corroborates this 
+interpretation. See, e.g., H.R.Rep. No. 102-40(I & II) (1991), 
+reprinted in 1991 U.S.C.C.A.N. 549, 673 (discussing punitive 
+damage provisions as an expansion of remedies). The following 
+year, those who had pushed for the inclusion of punitive 
+damages in the 1991 Act introduced a bill to remove its 
+damages caps. The proposed bill would have deleted 42 U.S.C. 
+§ 198la(b)(3), which contains the caps, but would not have 
+removed the language authorizing punitive and compensatory 
+damages, suggesting that even then, they considered the new 
+language necessary to create a punitive damage remedy under 
+the acts. See Equal Remedies Act, S.Rep. No. 102-286 (1992), 
+
+1992 WL 113471 (Leg.Hist.); see also Kolstad v. American 
+Dental Ass'n, 527 U.S. 526, 534, 119 S.Ct. 2118, 144 L.Ed.2d 
+494 (1999) (“With the passage of the 1991 Act, Congress 
+provided for additional remedies, including punitive damages, 
+for certain classes of ... violations.”). 
+
+
+Applying the Supreme Court’s reasoning in Franklin turns 
+this understanding on its head. Cannon, Rodgers and Miener 
+postulate the creation of a private cause of action in Title VI in 
+1964. Under Franklin we are to assume that action to have 
+provided all remedies. Absent any subsequent contrary 
+instruction, we are to assume those remedies to remain available 
+under sections 504 and 202 today. We therefore rule, albeit not 
+with great satisfaction, that these sections permit an award of 
+punitive damages. Perhaps our parting ways with our sister 
+
+
+——— — —— 
+- — - 
+
+
+16a 
+
+
+circuit will prompt the Supreme Court or Congress to inject 
+additional clarity into this area. 
+
+
+Our analysis thus far does not entirely conclude this 
+matter, as an award of damages must be “appropriate” in a 
+specific case.'° District courts must undertake an independent 
+review of the evidence to determine whether it supports punitive 
+damages. Grabinski v. Blue Springs Ford Sales, Inc., 203 F.3d 
+1024, 1025 (8th Cir.), cert. denied, 531 U.S. 825, 121 S.Ct. 70, 
+148 L.Ed.2d 35 (2000); accord Browning-Ferris Indus. of Vt., 
+Inc. v. Kelco Disposal Inc., 492 U.S. 257, 109 S.Ct. 2909, 106 
+L.Ed.2d 219 (1989). The defendant’s conduct must be shown 
+to have been “motivated by evil motive or intent, or ... reckless 
+or callous indifference to the federally protected rights of 
+others.” Smith v. Wade, 461 U.S. 30, 56, 103 S.Ct. 1625, 75 
+L.Ed.2d 632 (1983); see also Kolstad, 527 U.S. 526, 119 S.Ct. 
+2118, 144 L.Ed.2d 494 (discussing punitive damages scheme 
+under 42 U.S.C. § 1981a). Punitive damages may also not be 
+excessive. Watkins v. Lundell, 169 F.3d 540, 545 (8th Cir.), 
+cert. denied, 528 U.S. 928, 120 S.Ct. 324, 145 L.Ed.2d 253 
+(1999). We have a subsequent obligation to review the district 
+court’s finding. At oral argument, Gorman’s counsel admitted 
+this to be the case and conceded that the district court did not do 
+so, as it found punitive damages precluded as a matter of law. 
+The facts in this case were hotly contested. We therefore 
+remand for consideration of this point. 
+
+
+'° The Moreno court also argued that given the legislati tes er 
+itive were not “appropriate” as 
+ey rey, poy tr We do not think the word 
+“appropriate” to have been writ so large, and do not think the Court 
+intended to create an escape hatch for all foregoing judicial 
+interpretations. In his concurring opinion, Justice Scalia opined that 
+given an action’s implied nature, implied limitations on remedies ought 
+also be considered. Franklin, 503 U.S. at 77-78 (Scalia, J. concurring in 
+the judgment). Justice Scalia’s comments underscore the breadth of the 
+
+
+Court’s holding. 
+
+
+17a 
+
+
+IV. 
+
+
+The Police Board next appeals whether Gorman is a 
+qualified individual with a disability under the ADA. The Police 
+Board argues that while at the time of trial, our law clearly 
+established that disability should be gauged without reference 
+to corrective devices, subsequent Supreme Court decisions have 
+required an individualized assessment of disability including 
+consideration of available corrective devices. See, e.g., Murphy 
+v. UPS, Inc., 527 U.S. 516, 119 S.Ct. 2133, 144 L.Ed.2d 484 
+(1999); Sutton v. United Airlines, Inc., 527 U.S. 471, 119 S.Ct. 
+2139, 144 L.Ed.2d 450 (1999). It seeks a remand to litigate this 
+issue. 
+
+
+This argument is well off the mark. In Sutton, the Court 
+concluded that a person with severe myopia, whose vision could 
+be corrected with eyeglasses to the point that the disability did 
+not severely impede a major life activity was not a qualified 
+individual. 527 U.S. at 481-83, 119 S.Ct. 2139. Gorman’s 
+wheelchair permits him some mobility, but hardly replaces his 
+legs. Moreover, the events challenged in this lawsuit center 
+largely on his removal from the wheelchair and placement in the 
+back of a police van, where he had no corrective device. No 
+corrective device — no issue. We see little need to further 
+
+
+V. 
+
+
+The Police Board next raises two challenges to the jury 
+instructions. The Board asserts that the jury was not instructed 
+as to each element of an action under sections 504 and 202, and 
+also objects to an instruction that the Board had an obligation to 
+provide “safe” transportation. A jury instruction must, when 
+taken as a whole and viewed in light of the evidence and 
+applicable law, fairly and adequately submit the issues in the 
+case to the jury. Horstmyer v. Black & Decker, (U.S.), Inc., 151 
+F.3d 765, 771 (8th Cir.1998). Where a party fails to object to an 
+
+
+18a 
+
+
+instruction before the district court, we will review only for 
+plain error. Jd. 
+
+
+In instruction 16, the district court instructed the jury that 
+liability would lie under the Rehabilitation Act and the ADA 
+upon proof of all the following elements: 
+
+
+First, that the defendants failed to provide plaintiff 
+appropriate transportation that reasonably accommodated 
+his disability after he was arrested, and 
+
+
+Second, that as a direct result of the defendants’ failure, 
+plaintiff sustained damages. 
+
+
+The district court then instructed the jury in its instruction 
+number 17 that “for purposes of Instruction No. 16, making a 
+‘reasonable accommodation’ for the plaintiff means making 
+modifications to the defendants’ practices for transporting the 
+plaintiff after he was arrested so that he would be transported in 
+a manner that was safe and appropriate consistent with his 
+disability.” 
+
+
+The Board failed to object at trial to the form of instruction 
+16, as given at trial. In fact, the Board agreed to its text and 
+stated an intention to not object. We will therefore reverse only 
+for plain error. We have previously held that in order to prevail 
+under section 202, a plaintiff must prove that “1) he is a 
+qualified individual with a disability; 2) he was ... denied the 
+benefits of a public entity’s services ...; and 3) that such ... 
+denial... was by reason of his disability.” Layton v. Elder, 143 
+F.3d 469, 472 (8th Cir.1998). Such language, however, is not 
+sacrosanct. Rather, an instruction must fairly and accurately 
+submit the issue in light of the evidence and the law. 
+Horstmyer, 151 F.3d at 771. In this case, the court’s 
+instructions resulted from lengthy negotiations between the 
+court and the parties during which the parties agreed to drop 
+certain elements from the instructions. Moreover, the language 
+
+
+19a 
+
+
+used fairly captures the elements of the actions. Section 202 
+requires reasonable transportation modifications if necessary. 
+The court’s instruction that damages flow from a failure to 
+reasonably accommodate a disability implicitly requires a 
+finding of denial and disability. The instruction similarly covers 
+the essential elements of section 504. In light of the facts of this 
+case and the language used, we sustain the instruction given. '' 
+
+
+The Board also takes issue with the district court’s use of 
+the word “safe” in instruction 17 as an incorrect statement of the 
+law, and expresses the fear that it required the Board to insure 
+the safety of future detainees. The district court quoted the 
+word “safe” from our prior opinion in this case. See Gorman, 
+152 F.3d at 913. We agree with the Police Board that in 
+Gorman we did not impose an obligation of providing “safe” 
+transportation. We also, however, do not think that the district 
+court’s instruction warrants the interpretation given it by the 
+Police Board. The instruction required transportation safe and 
+appropriate consistent with Gorman’'s disability. This seems the 
+essence of a reasonable accommodation — the police cannot 
+reasonably accommodate a disabled detainee by placing him in 
+a position where, by virtue of his disability, he is left helpless. 
+The district court did not require the Police Board to insure 
+Gorman against other harms, such as a crash on the way to the 
+station or a self-imposed injury. On this reading, we approve 
+the instruction. 
+
+
+Vi. 
+
+
+The Board also challenges the district court’s denial of its 
+motion for a new trial, on the basis that the verdict was against 
+the weight of the evidence, along with various evidentiary 
+rulings. After reviewing the record we affirm the district court 
+on these points. 
+
+
+'! In the future, the district court should separate out instructions under 
+different acts and more carefully parse elements, for clarity on appeal. 
+
+
+20a 
+
+
+We remand to the district court for further proceedings 
+consistent with this opinion. 
+
+
+2la 
+
+
+APPENDIX B 
+
+
+[File-Stamp 
+Omitted] 
+
+
+IN THE UNITED STATE DISTRICT COURT FOR THE 
+WESTERN DISTRICT OF MISSOURI 
+WESTERN DIVISION 
+
+
+JEFFREY GORMAN, 
+
+
+Plaintiff, 
+
+
+) 
+) 
+) 
+) 
+v. ) Case No. 95-0475-CV-W-3 
+) 
+RICHARD D. EASLEY, etal., ) 
+
+) 
+
+) 
+
+
+Defendants. 
+
+
+I. INTRODUCTION 
+
+
+A jury returned a verdict in favor of Plaintiff on his claims 
+under the Americans with Disabilities Act (the “ADA” ) and the 
+Rehabilitation Act. The jury awarded Plaintiff (1) $42,566.33 
+for medical expenses, (2) $342,251.00 for lost past wages, (3) 
+$500,000.00 for lost future wages, (4) $150,000 for pain and 
+suffering, and (5) $1.2 million in punitive damages. Pending is 
+Defendants’ Motion for judgment as a Matter of Law or in the 
+Alternative for New Trial. The Court agrees that punitive 
+damages are not available as a matter of law under either the 
+
+
+- - ene a a ne 
+
+
+— ener 
+
+
+22a 
+
+
+ADA or the Rehabilitation Act, so the punitive damage award 
+is vacated. Defendants’ Motion is denied in all other respects. ° 
+
+
+Il. DISCUSSION 
+A. Standards 
+
+
+When considering a Motion for Judgment as a Matter of 
+Law, the Court is not permitted to consider the credibility of 
+witnesses and must consider the evidence in the light most 
+favorable to the prevailing party. E.g., Gardner v. Buerger, 82 
+F.3d 248, 251 (8th Cir. 1996). The Motion can be granted only 
+if the evidence “point[s] unswervingly to only one reasonable 
+conclusion.” Jd. It can also be granted, as in this case, if the 
+law does not permit the result reached by the jury. 
+
+
+The Court’s discretion to grant a new trial is broader than 
+that described above. “The district court may order a new trial 
+where it is convinced that the verdict goes against the clear 
+weight of the evidence or where a miscarriage of justice will 
+result. While the district court’s discretion is not boundless, it 
+
+
+2 During trial, the Court indicated its uncertainty as to whether future 
+lost wages were to be determined by the jury or the Court and invited the 
+parties to brief the issue in their post-trial motions. They did not do so. 
+
+
+The Eighth Circuit has interpreted the language of Title VII of the 
+Civil Rights Act as directing that future lost wages are to be determined 
+by the court and not the jury. Newhouse v. McCormick & Co., I 10 F.3d 
+635, 640 (8th Cir. 1997). As will be discussed in Part II.B of this Order, 
+Plaintiff's remedies in this case are not based on Title VII of the Civil 
+Rights Act so Newhouse is not directly on point. Moreover, there is no 
+statutory language governing the remedies in this case, so there is no 
+language to interpret. 
+
+
+Given that the parties have not raised the issue, the Court deems it 
+inappropriate to reach a definitive ruling on the matter. Instead, the 
+Court will simply enter a judgment for front pay based on the jury’s 
+findings. 
+
+
+= 
+
+
+23a 
+
+
+can rely on its own reading of the evidence in determining 
+whether the verdict goes against the clear weight of the 
+evidence.” Mears v. Nationwide Mut. Ins. Co., 91 F.3d 1118, 
+1123 (8th Cir. 1996). 
+
+
+B. Availability of Punitive Damages 
+
+
+Defendants have raised a series of arguments that attack 
+the award of punitive damages. The Court agrees with 
+Defendants that punitive damages were not available as a matter 
+of law, making it unnecessary to address Defendants’ remaining 
+
+
+arguments. 
+
+
+Plaintiff's ADA claim was brought pursuant to 42 U.S.C. 
+§ 12132, which appears in Subchapter II of the ADA and 
+declares that “no qualified individual with a disability shall, by 
+reason of such disability, be excluded from participation in or 
+be denied the benefits. . . of a public entity, or be subjected to 
+discrimination by such entity.” The ADA specifies that the 
+remedies found in section 794a of Title 29 are to be used in 
+cases based on this provision. 42 U.S.C. § 12133. Section 794a 
+of Title 29 sets forth the remedies available for violations of the 
+Rehabilitation Act, so the remedies available to Plaintiff under 
+the two statutory schemes is [sic] co-extensive. 
+
+
+Section 794a contains two provisions for remedies. 
+Section 794(a)(1) applies in employment situations, so it does 
+not apply in this case. Section 794(a)(2) applies to persons who 
+have been “aggrieved by any act or failure to act by any 
+recipient of Federal assistance or Federal provider of such 
+assistance. . .” and is the provision applicable to this case. 
+Section 794a(a)(2) declares that the applicable remedies are 
+those found in Title V1 of the Civil Rights Act of 1964, which 
+appears at 42 U.S.C. § 2000d. Unfortunately, the trail turns cold 
+at this point because section 2000d does not provide for a 
+private cause of action, much less set forth the remedies 
+
+
+‘24a 
+
+
+available in private lawsuits. See Moreno v. Consolidated Rail 
+Corp., 99 F.3d 782, 788 (6th Cir. 1996) (en banc). 
+
+
+Nonetheless, all courts to consider the issue have held that 
+a private right of action under the Rehabilitation Act does exist. 
+E.g., Consolidated Rail Corp. v. Darrone, 465 US. 624, 630 
+(1984) (holding that back pay is recoverable under section 504); 
+see also Rogers v. Magnet Cove Pub. Schools, 34 F 3d 642, 
+643-44 (8th Cir. 1994). The difficulty comes in determining 
+precisely what remedies are available. Plaintiff contends that 
+punitive damages must be available because the Eighth Circuit 
+declared in Rodgers that “all legal and equitable remedies are 
+available” under both Title VI of the Civil Rights Act and the 
+
+
+Rehabilitation Act. 34 F.3d at 644-45. This Court does not 
+
+
+agree with Plaintiffs conclusion that the issue has been decided. 
+Close examination of the Rodgers’ court’s discussion reveals 
+that the full range of legal and equitable remedies is available to 
+“make good the wrong” or, in other words, to compensate 
+plaintiffs for their injuries. Punitive damages do not “make 
+good the wrong” but rather punish and deter. Contrary to 
+Plaintiff's characterization of the case, Rodgers did not 
+specifically discuss punitive damages. Finally, the Eighth 
+Circuit does not think it has settled the issue; four years after 
+Rodgers was decided it observed that “{t]his court has not 
+addressed whether punitive damages are available under Title 
+Il of the ADA and § 504 [of the Rehabilitation Act] . . . - 
+Gorman v. Bartch, 152 F.3d 907, 910 n.2 (8th Cir. 1998)."° 
+
+
+Plaintiff also finds support in Franklin v. Gwinnett County 
+Public Schools, 503 U.S. 60 (1992), which addressed remedies 
+available under Title LX of the Education Amendments of 1972. 
+Once again, contrary to Plaintiff's characterization, Franklin did 
+not specifically address the availability of punitive damages. 
+See Moreno, 99 F.3d at 789 & n.3. Nonetheless, Franklin does 
+
+
+3. Section 504 of the Rehabilitation Act is codified at 29 U.S.C. § 794 
+and provides the basis for Plaintiff's Rehabilitation Act claim. 
+
+
+25a 
+
+
+provide a framework for discussion of the issue in the present 
+case — a framework that was employed by the Sixth Circuit and 
+led that court to conclude that punitive damages are not 
+available under the Rehabilitation Act. The Court is persuaded 
+by the Sixth Circuit’s reasoning and elects to follow it. 
+
+
+Having concluded that a private right of action exists, the 
+first task is to determine whether there is a clear indication that 
+Congress imposed limits on the scope of relief. Franklin, 503 
+U.S. at 71; Moreno, 99 F.3d at 789. “In this case, as in 
+Franklin, the usual sources of legislative history — 
+contemporaneous committee-reports, floor debates and the like 
+— are of little help, the cause of action having been created by 
+the courts and not by Congress.” Moreno, 99 F.3d at 789. 
+Similarly, resort to the statutory language is unhelpful because 
+there is not statutory language addressing the issue. In order to 
+divine Congress’ intent the Court must look to the state of the 
+law at the time the Rehabilitation Act was passed and the course 
+of events that followed its passage and determine whether any 
+meaningful conclusions can be made. Franklin, 503 U.S. at 71- 
+73; Moreno, 99 F.3d at 789-91. 
+
+
+Following the Supreme Court’s decision in Darrone most 
+courts held that punitive damages were not available under 
+either section 504 of the Rehabilitation Act or under Title VI of 
+the Civil Rights Act (which, as noted earlier, provides the 
+Rehabilitation Act’s remedies). See Moreno, 99 F.3d at 789-90 
+(discussing cases). It was against this backdrop of judicial 
+decisions that Congress amended the Rehabilitation Act three 
+times. 
+
+
+In 1986 Congress passed the Civil Rights Equalization 
+Act, 42 U.S.C. § 2000d-7(a), making the states subject to 
+§ 504 - and to Title IX, Title VI, and the Age 
+Discrimination Act — to the same extent as private parties. 
+In the following year Congress passed the Civil Rights 
+Restoration Act, strengthening the protections of § 504 and 
+
+
+26a 
+
+
+the other anti-discrimination provisions by overturning 
+Grove City College v. Bell, 465 U.S. 555, 104 S.Ct. 1211, 
+79 L.Ed.2d 516 (1984). In neither of these pieces of 
+legislation did Congress indicate any desire to change the 
+established understanding that punitive damages were not 
+available under § 504. 
+
+
+Four years after enacting the 1987 Civil Rights Act, 
+Congress passed the Civil Rights Act of 1991. The 1991 
+Act was the result of an extensive legislative compromise 
+between President Bush and Congress. Subject to a 
+monetary cap that could not exceed $300,000, the new act 
+made punitive damages available — for the first time — 
+under § 501 of the Rehabilitation Act, Title VII of the 
+Civil Rights Act of 1964, and the Americans with 
+Disabilities Act, 42 U.S.C. §§ 12101-12213. The 1991 
+Act did not extend the new punitive damages provision to 
+§ 504. - 
+
+
+Id. at 790 (footnote omitted).'* 
+
+
+The Court draws the same conclusion from this sequence 
+of events as did the Sixth Circuit. Congress did not specifically 
+declare that punitive damages were available under section 504, 
+and the courts considering the issue held that they were not 
+available. With this judicial landscape in place Congress 
+amended portions of the Rehabilitation Act three times 
+
+
+'* Moreno’s statement that the Civil Rights Act of 1991 allowed for 
+punitive damages under the ADA is broader than it should be. The 1991 
+Act amended and created a new variety wd menae Aaeme oe be 
+vision applicable to the ADA appears in the new 
+
+19818 of Title 42, which in subsection (b) declares thet punitive damages 
+area available in cases brought under section 12117(a) of Title 42. 
+Section 12117(a) appears in Subchapter I of the ADA and applies solely 
+to employment cases; the 1991 Act did not affect 42 U.S.C. § 12133, 
+which applies the enforcement mechanism for cases ansing under 
+Subchapter II of the ADA — such as the case at bar. 
+
+
+27a 
+
+
+(including section 504 twice) and the ADA once, but at no time 
+did Congress take steps to alter the consensus of judicial 
+decisions. “The only inference of congressional intent that can 
+be drawn from the three pieces of legislation is that Congress 
+intended § 504 remedies to remain in status quo — i.e., no 
+punitive damages.” /d. at 791 (footnote omitted). 
+
+
+C. Ride Meet habetied 
+
+
+During the trial, the jury heard evidence that Defendants 
+did not have a plan for compliance with the Rehabilitation Act, 
+which was required by the Act and its attendant regulations. 
+Instruction No. 21 advised the jury that it could not consider this 
+evidence in deciding whether Plaintiff's rights had been 
+violated, but could consider the evidence “only to help you 
+decide whether to award plaintiff punitive damages under 
+Instruction No. 20.” Defendants suggest that the jury ignored 
+this limitation and supports this conclusion by reasoning that 
+there was no other way the jury could have found in Plaintiff's 
+favor. The Court disagrees. First, the law presumes that the 
+jury will follow the jury instructions; the fact that Plaintiff won 
+his case does not, of its own force, prove that the presumption 
+is unwarranted in this instance. Moreover, there was evidence 
+that, if believed by the jury, supported the verdict in Plaintiff's 
+favor. At the risk of omitting important details in the interest of 
+brevity, the Court notes that there was evidence demonstrating 
+
+
+_ that Plaintiff told the officers how he could be safely transported 
+
+
+and that his instructions were not heeded. There was evidence 
+that Plaintiff was lifted from his chair and placed on a bench in 
+the police van; his belt was removed and used to “support” him 
+by wrapping the belt around Plaintiff's waist and attaching it to 
+the mesh screen behind the bench. There was evidence 
+permitting the jury to find that this method failed to properly 
+support Plaintiff and that he was unable to maintain his balance. 
+Plaintiff's inability to support himself, coupled with the force 
+exerted upon the belt, caused the belt to break. Plaintiff was 
+then left to literally bounce around in the van while he was 
+
+
+28a 
+
+
+transported. In short, the Court holds that there was sufficient 
+evidence to support the jury's verdict and there is no basis for 
+concluding that the jury disobeyed Instruction No. 21. 
+
+
+D. Evidentiary Issues 
+
+
+Defendants revisit a variety of evidentiary issues. These 
+issues involve evidence of Plaintiffs prior history of 
+intoxication the circumstances of the 1988 we = 
+that originally lyzed Plaintiff. The Court will not elve into 
+these ~somn apm detail, as the matters have been discussed 
+in the Court’s Order in Limine and on the record during trial. 
+Briefly stated, evidence of intoxication at times other than the 
+incident in question is not “habit” evidence as that concept ts 
+commonly understood, nor is it proper evidence of character. 
+To the extent that the fact a person was intoxicated at some time 
+unrelated to the present case bears on this character, the Court 
+concludes that the inference is unduly prejudicial and is 
+excludable under Rule 403 of the Federal Rules of Evidence. 
+Finally, the court does not believe that intoxication at times 
+other than the incident in question bears on credibility. 
+Intoxication bears on credibility insofar as it bears on a witness’ 
+ability to perceive events, and Defendants were allowed to 
+introduce evidence that Plaintiff was intoxicated on this 
+occasion. The fact that he was intoxicated at times in the past 
+was irrelevant. 
+
+
+Similarly, the circumstances of the 1988 accident = 
+namely, that it resulted from his attempt to flee pursuing police 
+officers — is also inappropriate character evidence and the 
+probative value of the evidence is outweighed by the risk of 
+improper prejudice. It also does not bear on credibility. 
+Defendants seem to suggest that the fact he was fleeing from the 
+
+
+'S Because the award of punitive damages is vacated on other legal 
+grounds, there is no need to consider whether evidence about the lack of 
+
+
+a compliance plan was properly admissible on this issue. 
+
+
+29a 
+
+
+police indicates bias on Plaintiff's part, but the Court believes 
+that the evidence Defendants wished to introduce posed a 
+substantial risk that the jury could consider the fact that Plaintiff 
+had previously fled from the police in evaluating his veracity 
+instead of considering the more subtle argument that Plaintiff 
+blamed the police for his original paralyzing injury and 
+therefore was biased against them. This would have been an 
+improper basis for impeaching Plaintiff, so the risk of unfair 
+prejudice outweighed the probative value of the evidence. 
+
+
+In their Motion Defendants identified another evidentiary 
+issue they wanted the Court to consider: the prohibition on 
+evidence that Plaintiff settled other claims with non-police 
+officers. These claims related to a bar’s decision to remove 
+Plaintiff from his premises and involves events leading to his 
+arrest. The issue is unreviewable at this juncture because 
+Defendants’ Suggestions in Support of their Motion (Doc. #181) 
+makes no mention of the issue so the Court has not been 
+presented with legal support for Defendant’s position. The 
+Court permitted Defendant to introduce evidence that the bar’s 
+personnel were responsible for Plaintiff's injuries, see April 2, 
+1999 Order in Limine, but the admissibility of Plaintiff's 
+settlement on those claims is unclear and unestablished. 
+
+
+E. Instructional Error 
+
+
+Defendants contend the verdict director (Instruction No. 
+16) incorrectly stated his law in that it did not ask the jury to 
+decide whether Plaintiff was a qualified individual with a 
+disability. There was no doubt that Plaintiff was disabled within 
+the meaning of the act, he was paralyzed and confined to a 
+wheelchair. Cf. Sutton v. United Air Lines, Inc., 119 S. Ct. 
+2139, 2149 (1999) (“individuals who use prosthetic limbs or 
+wheelchairs may be mobile and capable of functioning in 
+society but still be disabled because of a substantial limitation 
+
+
+30a 
+
+
+on their ability to walk or run.”).'® The issue of whether he was 
+a qualified person with a disability was answered by the Eighth 
+Circuit in the fist appeal in this case. Gorman, 152 F.3d at 912- 
+13. Finally, the Court's notes reflect that after the noon recess 
+on the third day of trial (April 7, 1999) Defendants’ counsel 
+agreed that the issue did not need to be included in the jury 
+instructions. 
+
+
+Defendants also contend that the use of both Instruction 
+No. 16 and Instruction No. 17 was confusing and inconsistent. 
+The Court disagrees. Instruction No. 16 contained, as the first 
+element, “that the defendants failed to provide plaintiff 
+appropriate accommodation that reasonably accommodated his 
+disability after he was arrested.” Instruction No. 17 states as 
+follows: 
+
+
+For purposes of Instruction No. 16, making a “reasonable 
+accommodation” for the plaintiff means making 
+modifications to the defendants’ practices for transporting 
+the plaintiff after he was arrested so that he would be 
+transported in a manner that was safe and appropriate 
+consistent with his disability. 
+
+
+In deciding whether any accommodations were reasonable, 
+you should consider all the facts and circumstances 
+surrounding the events of May 31, 1992. 
+
+
+‘© This also addresses Defendants’ suggestion, raised in their 
+Supplemented and Renewed Motion for Judgment as a Matter of Law or 
+in the Alternative Motion for New Trial, that Plaintiff was not a 
+“disabled” within the meaning of the ADA or the Rehabilitation Act. 
+There was no serious dispute on this issue at trial. 
+
+: } 
+
+
+3la 
+
+
+Instruction No. |7 is a definitional instruction; the fact that 
+it uses words different than those used in Instruction No. 16 is 
+to be expected and is not fatal.'’ 
+
+
+Defendants’ remaining arguments about the content of 
+Instruction No. 16 were addressed on the record during trial and 
+need not be addressed again. In this regard, the Court wishes to 
+briefly address one issue; namely, the failure to specifically 
+instruct the jury that it could find for Plaintiff only if it found 
+the Defendants discriminated against him based on his 
+disability. The Court’s notes from the discussion held on the 
+fourth day of trial (April 8, 1999) reflect that the discussion 
+about the director focused upon Plaintiff's ability to elect to 
+pursue a claim based on either (1) discrimination based on 
+handicap or (2) failure to accommodate his handicap. It was 
+agreed that Plaintiff could pursue either legal theory, and it was 
+quite clear that Plaintiff elected the latter course. Once Plaintiff 
+made this election the conversation focused on the proper 
+manner for instructing the jury about Defendants’ obligation to 
+provide reasonable accommodation, but at no time did 
+Defendants suggest that the proper method required 
+discrimination-type language. Thus, the Court does believe that 
+(1) Defendants are incorrect as a matter of law based on 
+Plaintiff's chosen legal theory, and (2) Defendants did not raise 
+the issue. 
+
+
+F. Sufficiency of the Evidence 
+
+
+ee 
+Defendants argue that there was insufficient evidence to 
+support the verdict, but offer no real explanations as to why this 
+conclusion should be credited. Other than speculating on the 
+effect of the evidence about the lack of a compliance plan (see 
+Part II.C, above), Defendants offer no arguments in support. 
+
+
+'’ The Court notes that Defendant has not argued that Instruction No. 17 
+is an incorrect statement of law. 
+
+
+32a 
+
+
+The Court has already discussed the fact that there was 
+sufficient evidence to support the jury’s findings of liability. 
+
+
+The Motion also identifies the lack of evidence to support 
+the damage awards as an issue Defendants wish to raise. 
+However, Defendants’ Suggestions in Support (Doc. #181) fails 
+to raise any arguments relevant to the damage calculation. 
+Consequently, Defendants have not presented anything for the 
+Court to review. 
+
+
+Ill. CONCLUSION 
+
+
+For the foregoing reasons, Defendant's Renewed Motion 
+for Judgment as a Matter of Law, or, in the Alternative for New 
+Trial is granted in part and denied in part. The award of 
+punitive damages is vacated; the Motion is denied in all other 
+
+
+respects. 
+IT IS SO ORDERED. 
+
+
+s/Ortrie D. Smith 
+
+
+ORTRIE D. SMITH, JUDGE 
+UNITED STATES DISTRICT COURT 
+
+
+DATE: 10/28/99 
+
+
+33a 
+
+
+APPENDIX C 
+[File-Stamp 
+Omitted] 
+
+
+UNITED STATE DISTRICT COURT 
+WESTERN DISTRICT OF MISSOURI 
+
+
+JEFFREY GORMAN, ** 2% AMENDED ** 
+Plaintiff, JUDGMENT IN A CIVIL CASE 
+
+
+Vv. 
+
+
+RICHARD EASLEY, et al., 
+Defendants. CASE NUMBER: 95-0475-CV-W-3 
+
+
+O Jury Verdict. This action came before the Court for a trial by 
+jury. The issues have been tried and the jury has rendered its verdict. 
+
+
+® Decision by Court. This action came to trial or hearing before the 
+Court. The issues have been considered and a decision has been 
+rendered. 
+
+
+IT IS ORDERED AND ADJUDGED on the 
+discrimination claim of plaintiff Jeffrey Gorman against 
+defendants in their official capacities as members of the Board 
+of Police Commissioners of Kansas City, Missouri as submitted 
+in Instruction No. 16, we find in favor of Plaintiff Jeffrey 
+Gorman. We find Plaintiff Jeffrey Gorman’s damages as 
+defined in Instructio[n] No. 18 to be: $1,034,817.33. We, the 
+Jury, have awarded damages for each of the categories listed in 
+Instruction No. 18 as set forth: $43,566. for wages; 
+$150,000.00 for physical pain, suffering, humiliation, 
+inconvenience or emotional anguish. 
+
+
+Defendant’s Renewed Motion for Judgment as a Matter of 
+Law, or, in the Alternative For New Trial is granted in part and 
+
+
+34a 
+
+
+denied in part. The award of punitive damages is vacated; the 
+Motion is denied in all other respects. 
+
+
+Plaintiff's Motion for an award of attorney fees and costs 
+is granted in part and denied in part. Defendants are ordered to 
+pay Plaintiff's attorney fees in the amount of $278,292.00 and 
+Plaintiff's costs in the amount of $11,621.40. In accordance 
+with the parties’ agreement on this matter, the award shall 
+accrue interest at the post-judgment rate. See 28 U.S.C. § 1961. 
+
+
+November 5, 1999 Patricia L. Brune 
+Date Clerk 
+E. Well 
+—o Nov 8 1999 s/ ells 
+(By) Deputy Clerk 
+
+
+35a 
+
+
+APPENDIX D 
+
+
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+No. 97-4323 
+
+
+Jeffrey Gorman, Plaintiff-Appellant, 
+V. 
+
+
+Floyd Bartch; Steven Bishop, Chief, Kansas City Missouri 
+Police Department; Emanuel Cleaver II; John Dillingham; 
+Jack Headley; Jacqueline Paul; Bailus 
+Tate; Donna Boley; Neil Becker; Stacey Daniels, Dr.; 
+James F. Ralls, Jr., Defendants-Appellees. 
+
+
+Appeal from the United States District Court 
+for the Western District of Missouri 
+
+
+Submitted: May 18, 1998 
+
+
+Decided: August 20, 1998 
+
+
+Before BEAM, LOKEN, and MURPHY, Circuit Judges. 
+
+
+MURPHY, Circuit Judge. 
+
+
+36a 
+
+
+Jeffrey Gorman, a paraplegic who uses a wheelchair, was 
+injured while being transported after his arrest by Kansas City 
+police officers. He brought this action against the members of 
+the Kansas City Board of Police Commissioners, the chief of 
+police, and the officer who drove the transport vehicle, claiming 
+discrimination based on his disability in violation of Title II of 
+the Americans With Disabilities Act (ADA), 42 U.S.C. § 12132, 
+and § 504 of the Rehabilitation Act, 29 U.S.C. § 794(a).' The 
+district court granted summary judgment to the defendants, and 
+Gorman appeals from the judgment. We affirm in part and 
+reverse in part. 
+
+
+Each side characterizes the facts in the record quite 
+differently, but on our de novo review of the grant of summary 
+judgment, we state them in the light most favorable to Gorman, 
+the non-moving party. Gerdes v. Swift-Eckrich, Inc., 125 F.3d 
+634, 637 (8th Cir.1997). A severe spinal cord injury requires 
+Gorman to use a wheelchair, and in the early hours of May 31, 
+1992 he became involved in a disagreement at a Kansas City bar 
+known as Guitars and Cadillacs. When he and a friend began 
+descending the steps to the dance floor, a bar employee told him 
+he could not go down onto the dance floor. Gorman protested 
+that he was entitled to go there, but the employee told him 
+“you're out of here” and began to pull his wheelchair up the 
+steps. Gorman was evicted from the bar. When he demanded 
+to be readmitted, employees at the door refused. Gorman then 
+approached two police officers to tell them what had happened 
+and to request their help in getting back into the bar. He began 
+to argue with them, and they eventually arrested him for 
+
+
+' He also alleged negligence, but his negligence claims were dismissed 
+by the district court and he has not discussed them in his briefing or 
+argument on appeal. They are therefore considered abandoned. 
+Jasperson v. Purolator Courier Co., 765 F.2d 736, 740-41 (8th 
+Cir. 1985). 
+
+
+37a 
+
+
+trespassing and called for transportation to take him to the 
+police station. 
+
+
+In response to the call officer Neil Becker arrived with a 
+patrol wagon that was not equipped with a wheelchair lift or 
+wheelchair restraints. Gorman told the police that the van was 
+not properly equipped for him to ride in it, and that due to his 
+use of a urine bag it would be necessary for him to go to the 
+bathroom before he was transported. The officers lifted Gorman 
+from his chair and placed him on a bench inside the van. 
+Gorman states that they complied with his instructions on how 
+to lift him from his chair, but not with his requests that he be 
+allowed to go to the bathroom prior to transport or that they 
+place the seat cushion from his wheelchair underneath him to 
+help support his legs. Because of his paraplegia Gorman was 
+not independently able to maintain himself upright on the bench, 
+and the police tied him with his belt to a mesh wall behind the 
+bench and also fastened a seatbelt around him. During the drive 
+to the station the belts came loose, and Gorman fell to the floor. 
+The fall injured his shoulders and back severely enough to 
+require surgery and also broke his urine bag, leaving him soaked 
+in his own urine. 
+
+
+Gorman filed this action, alleging violation of his rights 
+under the ADA and the Rehabilitation Act and negligence in his 
+handling. Gorman sued police chief Steven Bishop; 
+commissioners Emmanuel Cleaver, John Dillingham, Jack 
+Headley, Jacqueline Paul, and Bailus Tate; and police officer 
+Neil Becker. Donna Boley, Stacy Daniels, and James Ralls were 
+added when they replaced Paul, Dillingham, and Tate as 
+members of the board of police commissioners, as was Floyd 
+Bartch when he succeeded Bishop as chief of police. Gorman 
+alleged that the board members and the chief failed to provide 
+a proper transportation vehicle to accommodate his condition, 
+to modify department policies and procedures dealing with 
+arrest and transportation to accommodate individuals with 
+spinal cord injuries, and to institute proper training for Kansas 
+
+
+38a 
+
+
+City police officers on how to handle such arrestees. He 
+claimed that the manner of his post-arrest handling and 
+transportation evidenced unlawful discrimination by all the 
+defendants, including Becker who drove the police van that took 
+him to the station. His complaint sought compensatory damages 
+for physical and mental injuries, punitive damages, injunctive 
+relief compelling the defendants to comply with the statutes, 
+and attorney fees and costs. 
+
+
+The defendants filed several motions in the district court, 
+including motions for summary judgment, and the parties 
+submitted affidavits and deposition testimony from Gorman, 
+several defendants, and other witnesses. The district court 
+dis:wosed of the issues on summary judgment in two separate 
+orders. The first order dismissed all the negligence claims;’ 
+dismissed all claims against the defendants in their individual 
+Capacities on the basis of qualified immunity; and dismissed all 
+other claims against former commissioners Dillingham, Paul, 
+and Tate, as well as former police chief Bishop.’ The only 
+claims which remained after the first order were therefore the 
+Statutory claims against the remaining defendants in their 
+
+
+> The court held the negligence claims failed under Missouri law. It 
+reasoned that the defendants in their individual capacities were engaged 
+in discretionary acts and that the official capacity claims were by 
+sovereign immunity because they did not fit statutory exceptions for 
+negligent operation of a motor vehicle in the course of official duty or for 
+maintaining dangerous conditions on public property. See Mo.Rev.Stat. 
+§ 537.600. 
+
+
+It is not clear from the complaint whether the claim for punitive 
+damages was based only on negligence. This court has not addressed 
+whether punitive damages are available under Title II of the ADA and § 
+504, but the Sixth Circuit has ruled they are not. See Moreno v. 
+Consolidated Rail Corp., 99 F.3d 782, 792 (6th Cir.1996). 
+
+
+* The order specified that Floyd Bartch would be substituted for Bishop 
+as to any official capacity claims. 
+
+
+39a 
+
+
+official capacities. The second order concluded that the two 
+federal statutes did not cover Gorman’s claims because he did 
+not fit the ADA definition of a “qualified individual with a 
+disability.” Such a qualified individual must meet “the essential 
+eligibility requirements for the receipt of services” of the public 
+entity, and the court construed this statutory language to mean 
+services voluntarily sought, which would not include those 
+incident to an arrest. The court also reasoned that Congress had 
+not shown it intended to extend the statute to a core state 
+function such as police work, citing in support 7orcasio v. 
+Murray, 57 F.3d 1340 (4th Cir.1995) (qualified immunity for 
+state prison officials sued under the ADA). A final judgment 
+was not entered until after Gorman’s initial attempt to appeal,’ 
+and the court’s order for judgment added a citation to Aswegan 
+v. Bruhl, 113 F.3d 109 (8th Cir.1997), cert denied sub nom 
+Aswegan v. Emmett, 522 U.S. 956, 118 S.Ct. 383, 139 L.Ed.2d 
+299 (1997) (leaving open the question of whether the ADA 
+applied to state prisons, but rejecting the claim that an 
+individual cable television hookup in an infirmary cell was a 
+public service to which the plaintiff was entitled where cable 
+television was available in the infirmary recreation area adjacent 
+to his cell). 
+
+
+On appeal Gorman argues that he is a qualified individual 
+with a disability, that the statutes do not distinguish between 
+public services that are voluntarily sought and those that are not, 
+that transporting arrestees is a program or activity covered by 
+the ADA and the Rehabilitation Act, that he was discriminated 
+against by not receiving transportation that was safe in light of 
+his disability, and that the defendants are not entitled to 
+qualified immunity since the applicable law was clearly 
+established at the time of his arrest and transportation.° 
+
+
+* See Gorman v. Bartch, 123 F.3d 1126 (8th Cir.1997). 
+
+
+* The United States was initially permitted to intervene in the district 
+court because of a constitutional challenge to Title II as void for 
+
+
+40a 
+
+
+The police defendants argue in response that Gorman is 
+not a qualified individual with a disability since he did not 
+voluntarily seek police transportation, that such transportation 
+is not a service or activity covered by the statutes, that Gorman 
+was not discriminated against based on his disability, and that 
+they are entitled to qualified immunity. 
+
+
+The task before this court then is essentially twofold: to 
+determine (1) whether Gorman has presented claims cognizable 
+under the ADA and the Rehabilitation Act, and (2) whether the 
+defendants sued in their individual capacities are entitled to 
+qualified immunity. 
+
+
+Il. 
+
+
+Analysis of whether Gorman’s allegations can be pursued 
+under Title II of the ADA and § 504 of the Rehabilitation Act 
+must begin with the language of the statutes themselves, Watt 
+v. Alaska, 451 U.S. 259, 101 S.Ct. 1673, 1677, 68 L.Ed.2d 80 
+(1981), and their plain language must be given effect. 
+Connecticut National Bank v. Germain, 503 U.S. 249, 112 S.Ct. 
+1146, 1149, 117 L.Ed.2d 391 (1992). 
+
+
+The Rehabilitation Act became effective in 1973, and § 
+504 of the act provides that “[n]o otherwise qualified individual 
+with a disability” shall “be excluded from the participation in, 
+be denied the benefits of, or be subjected to discrimination 
+under any program or activity receiving Federal financial 
+assistance.” 29 U.S.C. § 794(a). The reach of this statutory 
+language is.demonstrated by the definition of “program or 
+
+
+vagueness, and it has filed an amicus brief on this appeal which argues 
+that Title II of the ADA and § 504 of the Rehabilitation Act apply to all 
+operations of a police department and to the type of allegations raised by 
+Gorman. The district court’s ruling upholding the constitutionality of the 
+statute has not been appealed. 
+
+
+4la 
+
+
+activity” to include “all of the operations of a department, 
+agency, Special purpose district, or other instrumentality of a 
+State or of a local government.” 29-U.S.C. § 794(b). To prevail 
+on a claim under § 504, a plaintiff must demonstrate that: (1) he 
+is a qualified individual with a disability; (2) he was denied the 
+benefits of a program or activity of a public entity which 
+receives federal funds,° and (3) he was discriminated against 
+based on his disability. 29 U.S.C. § 794(a); Layton v. Elder, 
+143 F.3d 469, 472 (8th Cir.1998). Defendants may demonstrate 
+as an affirmative defense that a requested accommodation 
+would constitute an undue burden. 29 U.S.C. § 794a(a)(1); 
+Barth v. Gelb, 2 F.3d 1180, 1183 (D.C.Cir.1993). Plaintiffs 
+who prevail on Rehabilitation Act claims are entitled to the full 
+spectrum of legal and equitable remedies needed to redress their 
+injuries. Lue v. Moore, 43 F.3d 1203, 1205 (8th Cir. 1994); 
+Rodgers v. Magnet Cove Public Schools, 34 F.3d 642, 644 (8th 
+Cir. 1994), 
+
+
+The ADA consists of three titles addressing discrimination 
+against the disabled in different contexts. Title I prohibits 
+employment discrimination, 42 U.S.C. § 12112, Title Il 
+prohibits discrimination in the services of public entities, 42 
+U.S.C.-§ 12132, and Title III prohibits discrimination by public 
+accommodations involved in interstate commerce such as 
+hotels, restaurants, and privately operated transportation 
+services, 42 U.S.C. §§ 12182, 12184. Title II took effect in 
+January of 1992 and provides that “no qualified individual with 
+a disability shall, by reason of such disability, be excluded from 
+participation in or be denied the benefits of the services, 
+programs, or activities of a public entity, or be subjected to 
+discrimination by any such entity.” 42 U.S.C. § 12132. A 
+“qualified individual with a disability” is broadly defined as any 
+person who “meets the essential eligibility requirements for the 
+
+
+° No argument has been raised in this case that the Kansas City police 
+department does not receive federal funds, and Bishop testified in his 
+deposition that it did. 
+
+
+42a 
+
+
+receipt of services or the participation in programs or activities 
+provided by a public entity.” 42 U.S.C. § 12131(2). The term 
+“public entity” is defined to be “any department, agency, special 
+purpose district, or other instrumentality of a State or States or 
+local government.” 42 U.S.C. § 12131(1). 
+
+
+The ADA has no federal funding requirement, but it is 
+otherwise similar in substance to the Rehabilitation Act, and 
+“cases interpreting either are applicable and interchangeable.” 
+Allison v. Department of Corrections, 94 F.3d 494, 497 (8th 
+Cir.1996). The statute itself states that “(t]he remedies, 
+procedures, and rights” under § 504 are also available under 
+Title I]. 42 U.S.C. § 12133; see also Layton, 143 F.3d at 472; 
+Hoekstra v. Independent School Dist. No. 283, 103 F.3d 624, 
+626-27 (8th Cir.1996). A plaintiff under Title II of the ADA 
+must therefore similarly show that he is a qualified individual 
+with a disability denied participation in, or the benefits of, the 
+services, programs, or activities of a public entity because of his 
+disability. Layton, 143 F.3d at 472. The defendants may also 
+raise as an affirmative defense that the requested 
+accommodation of the plaintiff's disability would constitute an 
+undue burden, requiring “a fundamental alteration in the nature 
+of a service, program, or activity or in undue financial or 
+administrative burdens.” See 28 C.F.R. § 35.150(a)(3). 
+
+
+Our task in considering whether Gorman’s allegations 
+come under the ambit of the federal statutes has been made 
+easier by the Supreme Court’s unanimous decision on June 15 
+in Pennsylvania Department of Corrections v. Yeskey, 524U.S. 
+206, 118 S.Ct. 1952, 141 L.Ed.2d 215 (1998). In applying Title 
+II of the ADA to state prisons and prison services, Justice Scalia 
+emphasized the broad language used by Congress and its choice 
+not to include exceptions. /d. 524 U.S. at ----, 118 S.Ct. at 
+1954. State prisons “fall squarely within the statutory definition 
+of ‘public entity’” since § 12131(1)(B) defines public entity as 
+“any department, agency, special purpose district, or other 
+instrumentality of a State or States or local government.” /d. 
+
+
+43a 
+
+
+524 US. at ----, 118 S.Ct. at 1954-55. The Court categorically 
+rejected the argument that the statutory prohibition against 
+excluding a qualified individual with a disability from 
+participating in or receiving the “benefits of the services, 
+programs, or activities of a public entity” does not apply to 
+prison services because they do not fit the common 
+understanding of “benefits” or “services,” for “[t}he text of the 
+ADA provides no basis for distinguishing these programs, 
+services, and activities.” /d. 524 U.S. at ----, 118 S.Ct. at 1955. 
+
+
+Application of Yeskey to the claims in this case shows that 
+they also fit under the ADA. A local police department falls 
+“squarely within the statutory definition of ‘public entity,” /d. 
+524 U.S. at ----, 118 S.Ct. at 1954, just like a state prison. The 
+fact that Gorman may not have “volunteered” to be arrested 
+does not mean he was not eligible to receive transportation 
+service to the police station. Covered programs or services do 
+not need to be voluntary, for “the words [of the statute] do not 
+connote voluntariness.” /d. 524 U.S. at ----, 118 S.Ct. at 1955. 
+A qualified individual may participate in a service on either a 
+voluntary or a mandatory basis, as illustrated by Justice Scalia’s 
+example of a drug addict required to participate in a treatment 
+program. /d. Transportation of an arrestee to the station house 
+is thus a service of the police within the meaning of the ADA. 
+The fact that the statute can be “applied in situations not 
+expressly anticipated by Congress does not demonstrate 
+ambiguity. It demonstrates breadth.” /d. 524 U.S. at ----, 118 
+S.Ct. at 1956 (internal citations omitted). It was therefore error 
+to conclude that Gorman was not a “qualified individual with a 
+disability” who “meets the essential eligibility requirements for 
+the receipt of services.”’ 42 U.S.C. § 12131. 
+
+
+” Yeskey also undercuts the point made by the district court in reliance on 
+Torcasio that the ADA does not indicate that it applies to core state 
+functions such as prisons. Justice Scalia emphasized that the statutory 
+language “plainly covers state institutions without any exception that 
+could cast the coverage of prisons into doubt.” Yeskey, 524 U.S. at ----, 
+
+
+44a 
+
+
+The stated purpose of the ADA also demonstrates its 
+applicability to transportation of arrestees. In the statement of 
+findings and purpose at the beginning of the statute, Congress 
+noted that “discrimination against individuals with disabilities 
+persists in such critical areas as ... transportation . 
+institutionalization ... and access to public services” and that 
+disabled individuals face the discriminatory effects of “failure 
+to make modifications to existing facilities and practices.” 42 
+U.S.C. 12101(a). Congress enacted the ADA to “provide a clear 
+and comprehensive national mandate for the elimination of 
+discrimination against individuals with disabilities.” 42 U.S.C. 
+§ 12101(b). 
+
+
+The regulations promulgated to guide implementation of 
+the statute are also instructive. The Department of Justice 
+specified that the statutory term “program” includes “the 
+operations cf the agency or organizational unit of government 
+receiving or substantially benefitting from the Federal assistance 
+awarded, e.g., a police department or department of 
+corrections.” 28 C.F.R. § 42.540. The regulations also indicate 
+that “benefit” includes “provision of services, financial aid, or 
+disposition (i.e., handling, decision, sentencing, confinement, or 
+other prescription of conduct).” /d. The commentary also made 
+clear that “[t}he general regulatory obligation to modify 
+policies, practices, or procedures requires law enforcement to 
+make changes in policies that result in discriminatory arrests or 
+abuse of individuals with disabilities.” 28 C.F.R. § 35, App. A, 
+Subpart B. 
+
+
+Gorman’s allegations that the defendants denied him the 
+benefit of post-arrest transportation appropriate in light of his 
+disability fall within the framework of both Title II of the ADA 
+and § 504 of the Rehabilitation Act. The defendants are 
+representatives of the Kansas City police establishment, a 
+department of local government and a public entity. Arrestee 
+
+
+118 S.Ct. at 1954 (emphasis in original). 
+
+
+45a 
+
+
+transportation is a program or service of the department as 
+shown by record evidence that vehicles are dispatched by the 
+department to transport arrestees. The statutes must be 
+interpreted broadly to include the ordinary operations of a 
+public entity in order to carry out the purpose of prohibiting 
+discrimination. Innovative Health Systems v. City of White 
+Plains, 117 F.3d 37, 44-45 (2nd Cir.1997). The “benefit” 
+Gorman sought in this case was to be handled and transported 
+in a safe and appropriate manner consistent with his disability. 
+See 28 C.F.R. § 35.130(b)(1) (public entity may not provide 
+services in a manner denying disabled individuals equal benefit 
+of the service). His allegations are different from cases in 
+which plaintiffs sought unique benefits or services. See e.g., 
+Aswegan, 113 F.3d at 110; Lue v. Moore, 43 F.3d 1203, 1206 
+(8th Cir.1994) (Rehabilitation Act did not require creation of 
+new prison vocational training program). 
+
+
+Because Gorman’s allegations pass the threshold required 
+to bring a case under the ADA and the Rehabilitation Act, the 
+district court’s ruling to the contrary must be reversed and the 
+case remanded for further proceedings. It remains to be 
+determined whether Gorman can prove he was discriminated 
+against or denied a benefit or service because of his disability or 
+whether the defendants can show they made reasonable 
+accommodations of his disability or if further accommodation 
+would have been an undue burden. 29 U.S.C. § 794a(a)(1); 42 
+U.S.C. § 12133. The facts of what actually occurred on the 
+night of the arrest are contested. The defendants dispute 
+Gorman’s version. They have produced evidence that he was 
+intoxicated, that he repeatedly wheeled his chair into the street 
+and yelled profanities, that he did not tell the police how to 
+transport him safely, and that he fell to the floor of the van 
+because he released his seatbelt. We resolve only the threshold 
+issue at this time, and we are not in a position to assess what the 
+evidence shows about relevant details of Gorman’s condition or 
+about the information and options available to the police. The 
+factual record will need to be further developed on remand 
+
+
+46a 
+
+
+before the remaining issues of potential liability and possible 
+relief are determined. 
+
+
+Ill. 
+
+
+Gorman also challenges the district court’s determination 
+that the defendants are entitled to qualified immunity in their 
+individual capacities. The district court granted summary 
+judgment on the claims against the defendants in their 
+individual capacities based on its conclusion that the 
+applicability of Title II of the ADA and § 504 of the 
+Rehabilitation Act to the transportation of an arrestee was not 
+clearly established at the time of Gorman’s arrest. Gorman 
+concedes on appeal that defendants Bartch, Boley, Daniels, and 
+Ralls are not subject to liability in their individual capacities 
+because they assumed their positions after the events giving rise 
+to his claims and they were therefore sued only in their official 
+capacities. He argues that the district court erred in dismissing 
+the individual capacity claims against the remaining defendants, 
+however, because the applicability of the statutes to his 
+transportation was clearly established. The defendants argue in 
+response that their conduct did not violate clearly established 
+rights under the statutes." We review de novo the decision 
+granting qualified immunity. Rowe v. Lamb, 130 F.3d 812, 814 
+(8th Cir. 1997). 
+
+
+Claims against government actors in their individual 
+capacities differ from those in their official capacities as to the 
+type of conduct that is actionable and as to the type of defense 
+that is available. See Hafer v. Melo, 502 U.S. 21, 112 S.Ct. 358, 
+116 L.Ed.2d 301 (1991). Claims against individuals in their 
+official capacities are equivalent to claims against the entity for 
+
+
+* Since the defendants did not appeal the district court’s conclusion that 
+they were sued in both their official and individual capacities, they have 
+waived any argument about the correctness of that determination. /n re 
+Sherman, 67 F.3d 1348, 1357 n. 10 (8th Cir.1995). 
+
+
+47a 
+
+
+which they work; they require proof that a policy or custom of 
+the entity violated the plaintiff's rights, and the only type of 
+immunity available is one belonging to the entity itself. /d., 502 
+U.S. at 24-27, 112 S.Ct. at 361-62 (1991). Personal capacity 
+claims, on the other hand, are those which allege personal 
+liability for individual actions by officials in the course of their 
+duties; these claims do not require proof of any policy and 
+qualified immunity may be raised as a defense. /d., 502 U.S. at 
+25-27, 112 S.Ct. at 362. 
+
+
+The defense of qualified immunity gives government 
+officials engaged in discretionary activities immunity from 
+liability unless their conduct violates “clearly established 
+statutory or constitutional rights.” Harlow v. Fitzgerald, 457 
+U.S. 800, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982). The 
+availability of the defense should ordinarily be resolved at the 
+earliest opportunity to avoid unnecessary cost and excessive 
+interference with government operations. /d. Whether the 
+controlling legal principle has been clearly established is not to 
+be determined at the most general level of legal abstraction, but 
+by consideration of whether a reasonable official would have 
+known the conduct in question was unlawful in light of 
+information available at the time. Anderson v. Creighton, 483 
+U.S. 635, 107 S.Ct. 3034, 3039-40, 97 L.Ed.2d 523 (1987). 
+
+
+The factual record before the court on the summary 
+judgment motion based on qualified immunity consisted of 
+affidavits and portions of depositions. | Commissioner 
+Dillingham testified in his deposition that shortly after the ADA 
+was passed, the commissioners were notified by a police 
+department representative that the law had been enacted and that 
+it might apply to the operations of the department. He did not 
+recall any formal discussion of the impact of the law on 
+department operations, however, or of any perceived need for an 
+official policy to ensure compliance with the law or information 
+about how other police departments were responding. 
+Dillingham testified that the commissioners relied on the 
+
+
+48a 
+
+
+department to develop procedures to comply with the new law 
+and that board minutes would have disclosed if there had been 
+discussion of the ADA or any policy under it. Commissioner 
+Headley testified that when the board was informed of a new 
+law by its legal department, it would commonly wait for 
+appropriate procedures to be developed by the police 
+department; the board’s role was to review and approve policy. 
+Suzanne Owen, an assistant to the board, reviewed minutes of 
+the meetings prior to Gorman’s arrest and found no discussion 
+about the design or provision of patrol wagons. 
+
+
+Chief Steven Bishop stated in his deposition that he had 
+been aware of the existence of the ADA, but that he was not 
+familiar with the Rehabilitation Act and that he did not know 
+the effective date of either statute. While department officials 
+had attended some training sessions on the ADA, he had 
+delegated responsibility for developing department procedures 
+to comply with the law to a deputy chief and he was not aware 
+of any training that had been conducted for rank and file police 
+officers. Major Dean Kelly, the director of personnel, testified 
+that in September of 1991 a committee had been created which 
+made a series of recommendations on how to achieve 
+compliance with the ADA. These recommendations dealt 
+primarily with reconfiguring department job descriptions and 
+other employment issues, however, and Kelly was not aware of 
+any dealing with arrest and transportation procedures. 
+Commander Thomas Daly of the planning and research division 
+testified that the department had conducted training on how to 
+handle wheelchairs, but that he did not recall when. Officers are 
+trained to handle arrestees “in whatever state we find them,” but 
+Daly was not aware of any specific written policies on handling 
+arrestees in wheelchairs or any meetings discussing the 
+applicability of the ADA to arrest and transportation. Pete 
+Richardson, manager of fleet operations for the department, 
+testified that none of its vehicles had been equipped to handle 
+wheelchairs at the time of Gorman’s arrest, but that they have 
+all since been fitted with “hold downs” which permit a 
+
+
+49a 
+
+
+wheelchair to be transported without removing the arrestee from 
+the chair. 
+
+
+Officer Neil Becker testified in his deposition that he had 
+been a patrol officer with the department for over twenty years 
+and that he had received no special training to operate a patrol 
+wagon. Any officer could be assigned to drive one during a 
+particular shift. He recalled that he and the other officers on the 
+scene asked Gorman some questions about the logistics of 
+transporting him, but he did not remember exactly what Gorman | 
+said he needed or whether he asked to have his seat cushion 
+under him for support. He did not recall receiving any training 
+prior to Gorman’s arrest on compliance with the ADA or 
+handling arrestees with spinal cord injuries and was not aware 
+of any department policies or procedures for the handling of 
+arrestees with disabilities. 
+
+
+At the time of Gorman’s arrest in May of 1992, Title II of 
+the ADA had only been in effect for some four months. Despite 
+the clear language of the statute, there was uncertainty about the 
+extent of its coverage. There were no cases addressing its 
+possible application to government agencies like police 
+departments or to the transportation of arrestees. Although 
+there were some cases applying the Rehabilitation Act to 
+prisons, there were none dealing with facts similar to those 
+alleged by Gorman. See Harris v. Thigpen, 941 F.2d 1495 (11th 
+Cir.1991) (HIV positive inmates seeking access to prison 
+programs); Bonner v. Lewis, 857 F.2d 559 (9th Cir.1988) 
+(prisoner’s claim for qualified interpreter in disciplinary 
+hearings). In the intervening years until the Supreme Court 
+decided Yeskey, courts divided on the applicability of the ADA 
+and Rehabilitation Act to state prisons. Compare Yeskey v. 
+Commonwealth of Pennsylvania Dept. of Corrections, 118 F.3d 
+168 (3rd Cir.1997) (participation in prison boot camp program 
+covered), Crawford v. Indiana Dept. of Corrections, 115 F.3d 
+481 (7th Cir.1997) (blind inmate’s access to prison education 
+and recreation programs covered), with White v. Colorado, 82 
+
+
+50a 
+
+
+F.3d 364 (10th Cir.1996) (denial of surgery for prisoner’s 
+preexisting injury not covered), Torcasio, 57 F.3d 1340 (4th 
+Cir. 1995) (application to obese prisoner’s claim for larger cell 
+and alternative recreation not clearly established). Moreover, 
+much of the early attention to the ADA was focused on 
+employment and physical access igsues. 
+
+
+Under the circumstances it cannot be said that reasonable 
+police officials in May of 1992 would have known that the 
+actions alleged against the individual defendants in respect to 
+the transportation of a disabled arrestee were subject to, and in 
+violation of, Title II of the ADA or § 504 of the Rehabilitation 
+Act. The defendants are therefore entitled to qualified 
+immunity in their individual capacities, and we affirm that 
+ruling by the district court. 
+
+
+IV. 
+
+
+The district court ultimately dismissed all of Gorman’s 
+claims for damages and injunctive relief by concluding that his 
+claims against the defendants in their official capacities could 
+not go forward since the statutes did not apply to arrestee 
+transportation by a police department. As already discussed, 
+Gorman’s complaint passes the statutory threshold under Yeskey 
+and the claims against the defendants in their official capacities 
+must be remanded ‘for further development. It remains to be 
+seen whether he can show he was discriminated against or 
+denied a benefit because of his disability or that the defendants 
+had a policy or custom that violated his rights under the ADA 
+or the Rehabilitation Act, and the defendants can also raise 
+issues of reasonable accommodation and undue burden. 
+
+
+The judgment dismissing all claims is vacated, and the 
+conclusion of the district court that the ADA and the 
+Rehabilitation Act do not cover Gorman’s allegations is 
+reversed. We affirm the dismissal of the claims against the 
+defendants in their individual capacities on the basis of qualified 
+
+
+Sla 
+
+
+immunity, and remand the official capacity claims against 
+Bartch, Cleaver, Headley, Boley, Daniels, Ralls, and Becker” 
+for further proceedings not inconsistent with this opinion. 
+
+
+* Officer Becker is not alleged to have had any policy making function, 
+and it is unclear what liability he might have in his official capacity, but 
+the district court indicated that he was also sued in this capacity, and he 
+has not appealed this determination. 
+
+
+52a 53a 
+APPENDIX E APPENDIX F 
+United States Court of Appeals Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. 
+for the Eighth Circuit § 794(a), as amended, provides in pertinent part: 
+
+
+No. 00-1029/00-1030 
+
+
+Jeffrey GORMAN, Appellant/Cross-appellee, 
+
+
+Vv. 
+
+
+No otherwise qualified individual with a disability in the 
+United States * * * shall, solely by reason of her or his 
+disability, be excluded from the participation in, be 
+denied the benefits of, or be subjected to discrimination 
+under any program or activity receiving Federal 
+financial assistance * * * . 
+
+
+Section 505 of the Rehabilitation Act, as amended in 
+
+
+1978, 29 U.S.C. § 794a, provides in relevant part (29 U.S.C. § 
+Richard EASLEY, et al., Appellees/Cross-appellants. 794a(a)(2)): 
+
+
+Order Denying Petition for Rehearing 
+and Rehearing En Banc 
+
+
+August 20, 2001 
+
+
+The petition for rehearing en banc is denied. Judge 
+Bowman and Judge Loken would grant the petition. 
+
+
+The petition for rehearing by the panel is also denied. 
+
+
+full: 
+
+
+The remedies, procedures, and rights set forth in title VI 
+of the Civil Rights Act of 1964 shall be available to any 
+person aggrieved by any act or failure to act by any 
+recipient of Federal assistance or Federal provider of 
+such assistance under section 794 of this title. 
+
+
+Section 202 of the Americans with Disabilities Act of 
+
+
+1990, 42 U.S.C. § 12132, provides in full: 
+
+
+Subject to the provisions of this subchapter, no qualified 
+individual with a disability shall, by reason of such 
+disability, be excluded from participation in or be denied 
+the benefits of the services, programs, or activities of a 
+public entity, or be subjected to discrimination by any 
+such entity. 
+
+
+Section 203 of the ADA, 42 U.S.C. § 12133, provides in 
+
+
+The remedies, procedures, and rights set forth in section 
+794a of Title 29 shall be the remedies, procedures, and 
+
+
+54a 
+rights this subchapter provides to any person alleging 
+discrimination on the basis of disability in violation of 
+section 12132 of this title. 
+
+
+Section 601 of Title VI of the Civil Rights Act of 1964, 
+
+
+42 U.S.C. § 2000d, provides in full: 
+
+
+U.S.C. 
+
+
+No person in the United States shall, on the ground of 
+race, color, or national origin, be excluded from 
+participation in, be denied the benefits of, or be 
+subjected to discrimination under any program or 
+activity receiving Federal financial assistance. 
+
+
+Title IX of the Educational Amendments of 1972, 20 
+§ 1681(a), provides in pertinent part: 
+
+
+No person in the United States shall, on the basis of sex, 
+be excluded from participation in, be denied the benefits 
+of, or be subjected to discrimination under any 
+education program or activity receiving Federal 
+financial assistance * * * . 
+
+
+The Civil Rights Act of 1991, 42 U.S.C. § 198la, 
+
+
+provides in pertinent part: 
+
+
+(a) Right of recovery 
+
+
+* * * 
+
+
+(2) Disability 
+
+
+In an action brought by a complaining party under the 
+powers, remedies, and procedures set forth in section 
+706 or 717 of the Civil Rights Act of 1964 (as provided 
+in section 107(a) of the Americans with Disabilities Act 
+of 1990 (42 U.S.C. 12117(a)), and section 794a(a)(1) of 
+Title 29, respectively) against a respondent who engaged 
+
+
+5Sa 
+
+
+in unlawful intentional discrimination (not an 
+employment practice that is unlawful because of its 
+disparate impact) under section 791 of Title 29 and the 
+regulations implementing section 791 of Title 29, or 
+who violated the requirements of section 791 of Title 29 
+or the regulations implementing section 791 of Title 29 
+concerning the provision of a_ reasonable 
+accommodation, or section 102 of the Americans with 
+Disabilities Act of 1990 (42 U.S.C. 12112), or 
+committed a violation of section 102(b)(5) of the Act, 
+against an individual, the complaining party may 
+recover compensatory and punitive damages as allowed 
+in subsection (b) of this section, in addition to any relief 
+authorized by section 706(g) of the Civil Rights Act of 
+1964, from the respondent. 
+
+
+(b) Compensatory and punitive damages 
+(1) Determination of punitive damages 
+
+
+A complaining party may recover punitive damages 
+under this section against a respondent (other than a 
+government, government agency or political 
+subdivision) if the complaining party demonstrates that 
+the respondent engaged in a discriminatory practice or 
+discriminatory practices with malice or with reckless 
+indifference to the federally protected rights of an 
+aggrieved individual. 
+
+
+7 * * 
+(3) Limitations 
+
+
+The sum of the amount of compensatory damages 
+awarded under this section for future pecuniary losses, 
+
+
+56a 
+
+
+emotional pain, suffering, inconvenience, mental 
+anguish, loss of enjoyment of life, and other 
+nonpecuniary losses, and the amount of punitive 
+damages awarded under this section, shall not exceed, 
+for each complaining party-- 
+
+
+(A) in the case of a respondent who has more 
+than 14 and fewer than 101 employees in each of 
+20 or more calendar weeks in the current or 
+
+
+preceding calendar year, $50,000; 
+
+
+(B) in the case of a respondent who has more 
+than 100 and fewer than 201 employees in each 
+of 20 or more calendar weeks in the current or 
+preceding calendar year, $100,000; and 
+
+
+(C) in the case of a respondent who has more 
+than 200 and fewer than 501 employees in each 
+of 20 or more calendar weeks in the current or 
+preceding calendar year, $200,000; and 
+
+
+(D) in the case of a respondent who has more 
+than 500 employees in each of 20 or more 
+calendar weeks in the current or preceding 
+calendar year, $300,000. 
+
+

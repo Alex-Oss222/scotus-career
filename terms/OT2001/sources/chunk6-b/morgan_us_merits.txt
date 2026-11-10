@@ -1,0 +1,528 @@
+Source URL: https://www.justice.gov/osg/brief/national-rr-passenger-corp-v-morgan-amicus-curiae-merits
+
+
+
+ Office of the Solicitor General |  National R.R. Passenger Corp. v. Morgan - Amicus Curiae (Merits) | United States Department of Justice
+
+        Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+Official websites use .gov
+
+              A 
+.gov
+ website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+
+              A 
+lock
+ (   
+
+Lock
+
+Locked padlock
+
+ ) or 
+https://
+ means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+DOJ Menu
+
+U.S. Department
+                            of Justice
+
+About
+
+The Attorney General
+
+Organizational Chart
+
+Budget & Performance
+
+History & Museum
+
+Privacy Program
+
+Our Work
+
+News
+
+Press Releases
+
+Speeches
+
+Videos
+
+Photo Galleries
+
+Blogs
+
+Podcasts
+
+Resources
+
+Guidance Documents
+
+Forms
+
+Publications
+
+Information for Victims in Large Cases
+
+Justice Manual
+
+Business and Contracts
+
+Grants
+
+Employment
+
+Why Justice ?
+
+Benefits
+
+DOJ Vacancies
+
+Legal Careers at DOJ
+
+Our Offices
+
+Find Help
+
+Contact Us
+
+Utilities
+
+Our Offices
+
+Find Help
+
+Contact Us
+
+Search
+
+Menu
+
+Close
+
+About
+
+About
+
+Solicitors General 1870 - Present
+
+The Solicitor General in Historical Context
+
+Briefs
+
+Employment Opportunities
+
+FOIA
+
+Contact
+
+Our Offices
+
+Find Help
+
+Contact Us
+
+Main Menu
+
+U.S. Department of Justice
+
+About
+
+                         title="About"
+
+About
+
+The Attorney General
+
+Organizational Chart
+
+Budget & Performance
+
+History & Museum
+
+Privacy Program
+
+Our Work
+
+News
+
+                         title="News"
+
+News
+
+Press Releases
+
+Speeches
+
+Videos
+
+Photo Galleries
+
+Blogs
+
+Podcasts
+
+Resources
+
+                         title="Guidance & Resources"
+
+Resources
+
+Guidance Documents
+
+Forms
+
+Publications
+
+Information for Victims in Large Cases
+
+Justice Manual
+
+Business and Contracts
+
+Grants
+
+Employment
+
+Employment
+
+Why Justice ?
+
+Benefits
+
+DOJ Vacancies
+
+Legal Careers at DOJ
+
+Our Offices
+
+Find Help
+
+Contact Us
+
+Search
+
+Breadcrumb
+
+Justice.gov
+
+Office of the Solicitor General
+
+Briefs
+
+National R.R. Passenger Corp. V. Morgan - Amicus Curiae (Merits)
+
+Brief
+
+National R.R. Passenger Corp. v. Morgan - Amicus Curiae (Merits)
+
+Share
+
+Facebook
+
+X
+
+LinkedIn
+
+Email
+
+Docket Number
+
+No. 00-1614
+
+Supreme Court Term
+
+2001 Term
+
+Type
+
+Merits Stage Amicus Brief
+
+Court Level
+
+Supreme Court
+
+No. 00-1614
+
+In the Supreme Court of the United States
+
+NATIONAL RAILROAD PASSENGER CORPORATION, PETITIONER
+
+v.
+
+ABNER MORGAN, JR.
+
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES 
+ AS AMICUS CURIAE SUPPORTING PETITIONER
+
+THEODORE B. OLSON
+ Solicitor General
+ Counsel of Record
+ STUART E. SCHIFFER
+ Acting Assistant Attorney
+ General
+ PAUL D. CLEMENT
+ Deputy Solicitor General
+ AUSTIN C. SCHLICK 
+ Assistant to the Solicitor
+ General
+ MARLEIGH D. DOVER
+ JOHN C. HOYLE
+ Attorneys
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+
+QUESTION PRESENTED
+
+Whether the court of appeals erred in holding that a plaintiff may recover under Title VII of the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq., for unlawful employment practices that are outside the statutory charge-filing period, if the practices were "sufficiently related" to unlawful practices that occurred within the period.
+
+In the Supreme Court of the United States
+
+No. 00-1614
+
+NATIONAL RAILROAD PASSENGER CORPORATION, PETITIONER
+
+v.
+
+ABNER MORGAN, JR.
+
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES 
+ AS AMICUS CURIAE SUPPORTING PETITIONER
+
+INTEREST OF THE UNITED STATES
+
+Title VII of the Civil Rights Act of 1964, Pub. L. No.  88-352, 78 Stat. 253 (42 U.S.C. 2000e et seq.), prohibits employment discrimination on the basis of race, color, religion, sex, or national origin, and authorizes equitable remedies against both public and private employers that discriminate. The Civil Rights Act of 1991, Pub. L. No. 102-166, § 102, 105 Stat. 1072-1074 (42 U.S.C. 1981a), authorizes, in cases of intentional discrimination, the additional remedies of compensatory damages and (in suits against private employers) punitive damages.  The Attorney General of the United States shares responsibility for enforcing Title VII with the Equal Employment Opportunity Commission (EEOC).  See 42 U.S.C. 2000e-5(f), 2000e-6 & note.  In addition, Title VII applies to the federal government in its capacity as the nation's largest employer.  42 U.S.C. 2000e-16 (1994 & Supp. V 1999).
+
+This case concerns the timeliness of charges filed with  the EEOC pursuant to Title VII.  Petitioner challenges the court of appeals' holding that a Title VII claimant who alleges an unlawful employment practice that continued into the charge-filing period may recover even for violations that otherwise would be time-barred.  The resolution of that issue will directly affect the government's responsibilities for enforcing Title VII against private-sector and state and municipal employers, and implicates the remedies that may be awarded against the federal government as a Title VII defendant.
+
+STATEMENT
+
+1.	Section 706(e) of Title VII provides that an employment discrimination charge may be filed with the EEOC "within one hundred and eighty days after the alleged unlawful employment practice occurred."  When there is a state fair employment practice agency with overlapping jurisdiction (as is the case in most States), however, a charge may be filed with the EEOC "within three hundred days after the alleged unlawful employment practice occurred."  42 U.S.C. 2000e-5(e)(1).  If a complainant submits a charge  of discrimination to the EEOC based on employment practices that occurred in such a State, the 300-day filing period applies and the EEOC refers the discrimination charge to the appropriate state or local agency for processing.  See 29 C.F.R. 1601.13.  In Zipes v. TWA, 455 U.S. 385 (1982), this Court held that Section 706(e)'s requirement of filing a timely charge of discrimination with the EEOC operates as a statute of limitations.  Id. at 392-398.
+
+2.	In August 1990, petitioner hired respondent, an African-American male, as an electrician's helper at petitioner's Oakland Maintenance Yard.  Pet. App. 6a-7a, 26a. Respondent alleged that petitioner hired similarly qualified and less-qualified white workers as electricians at a higher rate of pay.  Id. at 7a, 26a-27a; see 8/4/98 Pl.'s Opp'n to Mot. for Summ. J. 1.1  Respondent filed a union grievance, and he was reclassified as an electrician in April 1992.  Pet.  App. 26a.
+
+Respondent alleged that petitioner "continuously discriminated against [him] during the entire time that he worked for [respondent] in violation of Title VII."  Compl. para. 7. Specifically, respondent claimed that in March 1991 he was discriminatorily disciplined and ultimately lost ten days of pay after he refused to attend a meeting with a supervisor without having a union representative present.  Pet. App. 7a, 27a-28a.  Respondent also asserted that in August 1991 he was denied an equal opportunity to be considered for admission to petitioner's apprenticeship program for employees seeking to become electricians.  Id. at 7a-8a, 28a.  On October 4, 1991, respondent sent a letter complaining of race discrimination to petitioner's Equal Employment Opportunity (EEO) office.  Id. at 8a, 28a.  On October 16, 1991, respondent received written counseling for ignoring a direct order to stop helping a co-worker.  Ibid.  Respondent protested the counseling as racially motivated.  Ibid.
+
+In late 1991, respondent and other employees met with their congressional representative to complain about discrimination at the Oakland Maintenance Yard.  Pet. App. 8a. Shortly thereafter, respondent received counseling for being argumentative and threatening.  Ibid.
+
+On September 17, 1992, respondent received counseling about absenteeism from Robert Vandenberg (the senior manager at the Oakland yard) and from another superior.  Respondent asserted that some of the leave in question had been approved in advance.  Pet. App. 8a, 28a; 8/4/98 Pl.'s Opp'n to Mot. for Summ. J. 3.  In September and November 1992 respondent was ordered to do clean-up work that was outside his job description.  On December 1, 1992, respondent received written counseling for failing to fulfill the November assignment.  Pet. App. 9a, 29a. 
+
+On May 21, 1993, respondent asked Vandenberg why his name had been removed from a list of employees scheduled for training. Vandenberg allegedly responded that respondent lacked the mental capacity for the training.  Pet. App. 29a.  On May 25, 1993, respondent filed a complaint with petitioner's EEO office alleging racial discrimination and retaliation.  On May 30, 1993, respondent filed another complaint with the EEO office.  Id. at 9a-10a, 29a-30a.
+
+On July 14, 1993, petitioner suspended respondent for 15 days for taking a day of leave without permission in May. After respondent filed a complaint with the EEO office and a grievance with his union, however, he was awarded back pay and the suspension was ordered expunged from his record. Pet. App. 9a, 29a-30a.
+
+In October 1993, respondent was charged with making improper remarks to a union representative.  The charges were dropped after a hearing and the incident was ordered expunged from respondent's file.  Pet. App. 10a, 30a.  Respondent offered testimony that Vandenberg had asked another employee to lie about the incident to support punishment of respondent, saying that respondent was "going to be fired anyway[]."  Id. at 31a.  Also in October 1993, respondent accused Vandenberg of pushing him.  Respondent filed a complaint with petitioner's EEO office based on that incident but he did not receive a response.  Id. at 10a, 31a.
+
+In December 1993, respondent's scheduled training was canceled. Respondent complained to the EEO office about the cancellation but he again received no response.  Pet. App. 11a, 31a.
+
+In January 1994, respondent had a dispute with his supervisors about returning from sick leave.  After respondent filed a grievance, petitioner paid him for three days of work that he lost as a result of the dispute.  Pet. App. 11a, 31a-32a.
+
+On September 9, 1994, respondent was charged with a violation of work rules for failing to complete a work assignment.  After a hearing, respondent was suspended for 15 days.  Respondent alleged that petitioner did not discipline a white electrician who failed to finish a similar assignment given at the same time, and that his own suspension violated petitioner's disciplinary policy.  Pet. App. 11a, 32a-33a.  In October 1994, respondent was again denied training, again complained to petitioner's EEO office, and again received no response.  Id. at 11a, 35a.
+
+On February 5, 1995, a foreman reported that respondent threatened him. Respondent alleged that a supervisor then told him to get his "black ass" into the supervisor's office. Respondent refused to discuss the matter with the supervisor without a union representative and left work.  After a hearing, respondent was terminated from his job because of that incident.  Pet. App. 11a-12a, 33a-34a.
+
+In addition to the specific incidents discussed above, respondent alleged that employees and supervisors at the Oakland facility made racial jokes and derogatory comments and directed racial slurs and epithets at African-Americans. Pet. App. 12a.
+
+3.	On February 27, 1995-before the hearing that resulted in termination of respondent's employment- respondent filed charges against petitioner with the EEOC, alleging discrimination and retaliation.  Respondent also filed charges with the California Department of Fair Employment and Housing.  Pet. App. 13a, 36a-37a.  On July 3, 1996, the EEOC issued respondent a notice of right to sue.  On October 2, 1996, respondent filed suit in the United States District Court for the Northern District of California.  Id. at 13a, 37a; see generally 42 U.S.C. 2000e-5(f).  In his complaint, respondent sought compensatory and punitive damages, reinstatement, back pay, front pay, expungement of records from his file, and attorney's fees.  Compl. 4-5.
+
+The district court granted in part and denied in part petitioner's motion for summary judgment.  Pet. App. 25a-52a.  The district court held that, under Section 706(e) of Title VII, 42 U.S.C. 2000e-5(e), respondent could not recover for conduct that occurred before May 3, 1994 (300 days before February 27, 1995, when respondent filed his charge with the EEOC).  Pet. App. 38a-40a, 51a-52a.  The district court found that respondent "believed as early as 1991 that [petitioner] and its managers were discriminating against him on the basis of his race and retaliating against him for his complaints," and that throughout 1992, 1993, and 1994, respondent complained of discrimination and retaliation.  Id. at 39a-40a.  The district court also invoked Galloway v. General Motors Service Parts Operations, 78 F.3d 1164 (1996), in which the Seventh Circuit held that a Title VII plaintiff may not recover for conduct that occurred outside the charge-filing period unless "it would have been unreasonable to expect the plaintiff to sue before the statute ran on that conduct, as in a case in which the conduct could constitute, or be recognized, as actionable  *  *  *  only in the light of events that occurred later, within the period of the statute of limitations."  Id. at 1167.  Based on its factual findings and the reasoning of Galloway, the district court concluded that respondent's claims for the period before May 3, 1994, were time-barred because respondent's awareness of the alleged violations "triggered  *  *  *  [a] duty to assert his rights."  Pet. App. 38a-39a.  The court emphasized, however, that its ruling only precluded respondent from recovering for acts before the limitations period.  It did not entirely preclude respondent's suit and respondent could "present[] evidence of acts that occurred prior to the limitations period if they are relevant to his timely claims of discrimination and retaliation."  Id. at 40a-41a n.9.
+
+The district court then rejected respondent's allegations which, although timely, were not embraced within respon-dent's EEOC charges.  Pet. App. 41a-44a.  The district court dismissed other timely claims because respondent failed to present facts that would support them.  Id. at 49a-51a.  But the district court allowed respondent to proceed to trial on claims relating to his September 1994 suspension for failing to complete a work assignment, the October 1994 cancellation of training, and the February 1995 discharge.  Id. at 44a-49a, 52a.  The jury returned a verdict for petitioner on each of those claims.  Id. at 13a.
+
+4.	The court of appeals reversed and remanded for a new trial because it concluded the "pre-limitations period conduct should have been presented to the jury not merely as background information, but also for purposes [of] liability."  Pet. App. 21a.
+
+The court of appeals rested its decision on the continuing violation doctrine, which, it said, "allows courts to consider conduct that would ordinarily be time barred 'as long as the untimely incidents represent an ongoing unlawful employment practice.'"  Pet. App. 14a (quoting Anderson v. Reno, 190 F.3d 930, 936 (9th Cir. 1999)).  The court of appeals rejected (id. at 14a-15a) the district court's reliance on Galloway, stating that the Seventh Circuit's approach was inconsistent with Ninth Circuit cases that rejected "a strict notice requirement as the litmus test for application of the continuing violation doctrine."  Id. at 15a; see Fielder v. UAL Corp., 218 F.3d 973, 987 n.10 (9th Cir. 2000), petition for cert. pending, No. 00-1397 (filed Mar. 7, 2001).
+
+The court of appeals also rejected (Pet. App. 15a) the approach to the continuing violation doctrine developed by the Fifth Circuit in Berry v. Board of Supervisors of L.S.U., 715 F.2d 971 (1983), which several other circuits have followed, see O'Rourke v. City of Providence, 235 F.3d 713, 731 (1st Cir. 2001) (citing cases).  In Berry, the Fifth Circuit identified factors that it deemed relevant to whether a Title VII plaintiff may recover for an occurrence outside the limitations period by virtue of its relationship to occurrences within the limitations period.  One factor, "perhaps of most importance," is whether the acts that occurred prior to the limitations period had a "degree of permanence" that should have put the plaintiff on notice of his claim.  715 F.2d at 981.  The court of appeals in this case rejected consideration of that factor.  In the Ninth Circuit, the court stated, the continuing violation doctrine applies "[e]ven though  *  *  *  a reasonable person would have been on notice" before the limitations period "that her rights were violated."  Pet. App. 15a.
+
+The court of appeals concluded that the alleged violations of Title VII before May 3, 1994, were actionable because they were "sufficiently related to the post-limitations conduct to invoke the continuing violation doctrine."  Pet. App. 18a-21a.  In addition, the court of appeals vacated the jury's verdict in favor of petitioner on claims within the limitations period.  Ibid.  The court suggested (id. at 21a-22a) that the jury's verdict might have been tainted by evidentiary rulings that arose from the district court's exclusion of claims outside the limitations period.  Accordingly, the court of appeals remanded for a new trial encompassing alleged violations both before and after the May 3, 1994, limitations date.
+
+SUMMARY OF ARGUMENT
+
+1.	As applied in antitrust, torts, and contracts, the continuing violation doctrine allows a plaintiff to recover for a violation that occurs within the limitations period even if he knew or should have known of the defendant's illegal course of conduct much earlier.  There must, however, be an actionable violation within the limitations period, and the plaintiff may not recover for violations, even related ones, that occurred outside the limitations period.
+
+The plain language of Section 706(e)-which directs Title VII claimants to file their charges with the EEOC within either 180 days or 300 days "after the alleged unlawful employment practice occurred," 42 U.S.C. 2000e-5(e)(1) -accords with the traditional continuing violation doctrine.  That doctrine, moreover, has been applied under Section 10(b) of the National Labor Relations Act (NLRA), ch. 372, 49 Stat. 453-454 (29 U.S.C. 160(b)), which Congress used as its model for Title VII's remedial provisions.  And that doctrine is consistent with this Court's decisions applying Section 706(e), which allow recovery for discrimination that occurs within the charge-filing period despite earlier notice of the allegedly unlawful practice, but do not allow recovery for violations that occurred outside the charge-filing period.
+
+The traditional rule furthers the remedial purposes underlying Title VII and balances the interests of Title VII plaintiffs and defendants.  Employers always have an incentive to comply with Title VII, because their ongoing violations remain actionable.  Prohibiting recovery on pre-limitations claims, however, encourages potential plaintiffs to bring their claims promptly and protects employers against having to defend against stale claims.
+
+2.	Nothing in Title VII is inconsistent with the traditional continuing violation doctrine.  Section 706(g), which provides that "[b]ack pay liability shall not accrue from a date more than two years prior to the filing of a charge with the Commission," 42 U.S.C. 2000e-5(g)(1), sets an outer limit on back pay but does not prohibit application of a limitations period of less than two years.  The legislative history of Section 706(g) does not suggest that Congress meant to foreclose application of the traditional continuing violation rule.  Finally, the two-year restriction is not surplusage even if recovery generally is limited to violations that occurred within the charge-filing period; the 300-day limitation may sometimes be equitably tolled, and it does not apply to  \suits by the Attorney General under Section 707, 42 U.S.C. 2000e-6.  There similarly is no inconsistency between the dollar caps that Congress placed on compensatory and punitive damages in Title VII cases, see 42 U.S.C. 1981a, and a temporal requirement restricting recovery to violations that occurred within the limitations period.
+
+3.	The court of appeals' holding in this case is inconsistent with the traditional continuing violation doctrine.  Contrary to the Ninth Circuit's analysis, respondent may not recover for alleged violations that occurred outside the 300-day limitations period (i.e., before May 3, 1994), although those actions may be relevant evidence about respondent's conduct during the limitations period.
+
+ARGUMENT
+
+A TITLE VII CLAIMANT MAY RECOVER FOR A VIOLATION THAT OCCURRED WITHIN THE CHARGE-FILING PERIOD DESPITE EARLIER NOTICE OF THE UNLAWFUL EMPLOYMENT PRACTICE, BUT MAY NOT RECOVER FOR A VIOLATION THAT OCCURRED OUTSIDE THE CHARGE-FILING PERIOD
+
+A.	Title VII Violations That Continue Into The Charge-Filing Period Remain Actionable Despite The Claimant's Prior Notice Of The Violation 
+
+A claimant's prior notice of an ongoing Title VII violation does not deprive the claimant of the ability to recover for violations that continue into the charge-filing period.  It is well-settled in antitrust, tort, and contract cases that a private plaintiff may recover for a violation that continues into the limitations period, even if the plaintiff knew or should have known of the illegal course of conduct much earlier and outside the limitations period.  The text of Title VII and its legislative history are consistent with that traditional rule.  Section 706(e) states simply that the potential plaintiff shall file any charge with the EEOC within 180 or 300 days "after the alleged unlawful employment practice occurred." 42 U.S.C. 2000e-5(e).  Nothing in the language or history of Section 706(e) indicates that Congress intended to preclude suits that challenge ongoing violations.  Accordingly, when an unlawful employment practice continues into the applicable charge-filing period, the plaintiff may seek redress for that violation, without regard to when the plaintiff knew or should have known of the practice.
+
+1.	In its usual form, the so-called continuing violation doctrine allows a suit that might otherwise be barred by the statute of limitations to proceed, although the plaintiff may not recover for injury that occurred outside the limitations period.  In the case of an ongoing antitrust violation, such as a price-fixing conspiracy, "'each overt act that is part of the violation and that injures the plaintiff,' e.g., each sale to the plaintiff, 'starts the statutory [limitations] period running again, regardless of the plaintiff's knowledge of the alleged illegality at much earlier times.'  *  *  *  But the commission of a separate new overt act generally does not permit the plaintiff to recover for the injury caused by the old overt acts outside the limitations period."  Klehr v. A.O. Smith Corp., 521 U.S. 179, 189 (1997) (quoting 2 P. Areeda & H. Hovenkamp, Antitrust Law ¶ 338b, at 145 (rev. ed. 1995)); see Hanover Shoe, Inc. v. United Shoe Mach. Corp., 392 U.S. 481, 502 & n.15 (1968) ("Although Hanover could have sued [under the Sherman Act] in 1912 for the injury then being inflicted, it was equally entitled to sue in 1955" for damages within the limitations period.).  The continuing violation doctrine therefore provides that each successive illegal act resets the date at which the statute of limitations begins to run.  See Zenith Radio Corp. v. Hazeltine Research, Inc., 401 U.S. 321, 338-339 (1971).2
+
+A similar rule applies in tort law.  See Restatement (Second) of Torts § 899, at 441-444, cmts. c, d (1979).  In nuisance cases, for instance, "each day's continuance of a temporary nuisance creates a new cause of action," and, therefore, "the statute of limitations begins to run day by day, and plaintiff may at any time recover for the nuisance committed during the statutory period next before the bringing of the action."  1 F. Harper et al., The Law of Torts § 1.30, at 1:139 (3d ed. 1996); see also W. Prosser, Handbook of the Law of Torts 616 (3d ed. 1964) (noting that "a continuing trespass, such as the erection of a structure on the plaintiff's land, affords a continuing cause of action, which can hardly be distinguished from nuisance") (footnote omitted).
+
+So too, in contracts, the applicable statute of limitations generally begins to run as soon as each claim accrues, and the occurrence of similar or continuing breaches does not revive untimely claims.  For instance, if performance is required in discrete parts over a period of time, and a timely action is not brought to challenge an initial breach, future recovery for the initial breach is barred, although recovery on later breaches that occurred within the limitations period is possible.  See generally 18 W. Jaeger, Williston on Contracts §§ 2026-2029, at 782-817 (3d ed. 1978).
+
+Of particular relevance is the rule's application under Section 10(b) of the National Labor Relations Act (NLRA), ch. 372, 49 Stat. 453-454 (29 U.S.C. 160(b)).  Just as other remedial provisions of Title VII were modeled on the NLRA, see Albemarle Paper Co. v. Moody, 422 U.S. 405, 419 & n.11 (1975), Section 706(e) has its origin in Section 10(b) of the NLRA.  See Lorance v. AT&T Techs., Inc., 490 U.S. 900, 909-910 (1989).3  This Court has held that the time limitations of Section 706(e) should be treated in the same manner as those contained in the NLRA.  Zipes v. TWA, 455 U.S. 385, 395 n.11 (1982).  "Such reliance is particularly appropriate in the context presented here, since the highly unusual feature of requiring an administrative complaint before a civil action can be filed against a private party is common to the two statutes."  Lorance, 490 U.S. at 909. And when interpreting Section 706(e), "reference must be made to actual operation and experience *  *  *  in administering the [NLRA]." Franks v. Bowman Transp. Co., 424 U.S. 747, 774-775 n.34 (1976); cf. Pollard v. E.I. du Pont de Nemours & Co., 121 S. Ct. 1946, 1950 (2001) (construction of NLRA Section 10(c) before enactment of Civil Rights Act of 1964 provides "guidance as to the proper meaning of the same language in § 706(g) of Title VII").
+
+By 1964, when Congress looked to the NLRA in drafting Title VII, it was established that Section 10(b)'s six-month limitations period was subject to the traditional continuing violation doctrine.  An unfair labor practice that occurred within the six-month period could be challenged even if a charge alleging the same violation, or a similar and related violation, could have been brought before the six-month period.4  But a charge could not be brought outside the limitations period when the alleged unfair labor practice was "fully consummated" and caused injury more than six months before the charge was filed.  Bowen Prods. Corp., 113 N.L.R.B. 731, 732 (1955); see, e.g., Local Lodge No. 1424, Int'l Ass'n of Machinists v. NLRB (Bryan Mfg.), 362 U.S. 411, 422-423 (1960); NLRB v. Pennwoven, Inc., 194 F.2d 521, 525 (3d Cir. 1952).
+
+Although termed the "continuing violation" doctrine, the doctrine applied under the NLRA did not mean that violations that occurred outside the limitations period were revived and became actionable because a course of violations continued into the limitations period.  Rather, relief was awarded only for violations within the six-month period.  See, e.g., Melville Confections, Inc., 327 F.2d at 692.  Remedies such as back pay "would only start from the day six months before the filing of the charge[]," and were not available to remedy related violations outside the six-month period.  Pennwoven, Inc., 194 F.2d at 525; see id. at 524 (discussing National Labor Relations Board's position); see also Pennwoven, Inc., 94 N.L.R.B. 175, 192 (1951) (trial examiner's decision).5
+
+2.	In 1972, eight years after it drew on the NLRA precedent in drafting Section 706 of the Civil Rights Act, Congress amended Title VII by, among other things, expanding the limitations period to 180 or 300 days, rather than the 90 or 210 days it had specified in 1964.  See generally Mohasco Corp. v. Silver, 447 U.S. 807, 818-824 (1980).  That amendment did not, however, signal a departure from the NLRA model.  To the contrary, the House and Senate committee reports on the 1972 amendments referred to the new 180-day limitations period as being "similar to" or "identical to" the six-month limitations period that applied under Section 10(b) of the NLRA.  S. Rep. No. 415, 92d Cong., 1st Sess. 37 (1971); H.R. Rep. No. 238, 92d Cong., 1st Sess. 65 (1971) (Minority Views).
+
+The drafters of the 1972 amendments were aware that courts had applied the continuing violation doctrine under Title VII since 1964, and they approved of those decisions.  See 118 Cong. Rec. 7166, 7167 (1972) (section-by-section analysis of final bill, submitted on Senate floor, stating that "[e]xisting case law which has determined that certain types of violations are continuing in nature, thereby measuring the running of the required time period from the last occurrence of the discrimination and not from the first occurrence is continued"); id. at 4940, 4941 (summary of Senate bill, stating same).  The history of Section 706(e) therefore can be read as ratifying the fundamental principle, already recognized by the courts, that when unlawful employment practices under Title VII "involve a pattern of conduct extending over a period of time, a 'continuing' violation rather than a single incident,  *  *  *  the [limitations] requirement is satisfied if the charge is filed with the EEOC while such conduct or pattern of conduct continues or within 90 [now 180 or 300] days after it ceases."  Jamison v. Olga Coal Co., 335 F. Supp. 454, 458 (S.D. W. Va. 1971); see, e.g., Watson v. Limbach Co., 333 F. Supp. 754, 765-766 (S.D. Ohio 1971) (citing cases); Sciaraffa v. Oxford Paper Co., 310 F. Supp. 891, 896 (D. Me. 1970) (same).  Furthermore, the "[e]xisting case law" referenced by legislators, 118 Cong. Rec. at 7167, commonly allowed suits to proceed when it was apparent that the plaintiff had notice of the unlawful practice more than 90 days before the plaintiff filed with the EEOC.  See, e.g., Mixson v. Southern Bell Tel. & Tel. Co., 334 F. Supp. 525 (N.D. Ga. 1971); Watson, 333 F. Supp. at 765; Tippet v. Liggett & Myers Tobacco Co., 316 F. Supp. 292, 294-296 (M.D.N.C. 1970); Sciaraffa, 310 F. Supp. at 894, 896-897; Culpepper v. Reynolds Metals Co., 296 F. Supp. 1232, 1234-1236 (N.D. Ga. 1968), rev'd in part on other grounds, 421 F.2d 888 (5th Cir. 1970).
+
+3.	This Court's decisions confirm that a Title VII plaintiff may recover for discrimination that occurs within the charge-filing period despite having notice of a violation outside the period, but may not recover for violations that occurred outside the period.  In Bazemore v. Friday, 478 U.S. 385 (1986), the Court ruled that a continuing practice of salary discrimination that began before Title VII's effective date was actionable, but only "to the extent [the] employer continued to engage in that act or practice."  Id. at 395 (Brennan, J., joined by all other Members of the Court, concurring in part).  The Court explained that acts that are the subject of time-barred claims "ha[ve] 'no present legal consequences,'" and that "[t]he 'critical question'  *  *  *  'is whether any present violation exists.'"  Id. at 396 n.6 (quoting United Air Lines, Inc. v. Evans, 431 U.S. 553, 558 (1977)).  In Bazemore there was a present violation, because "[e]ach week's paycheck that delivers less to a black than to a similarly situated white is a wrong actionable under Title VII, regardless of the fact that this pattern was begun prior to the effective date of Title VII."  Id. at 395-396.
+
+In Lorance v. AT&T Technologies, Inc., supra, the Court again suggested that notice of a continuing violation does not preclude a plaintiff from recovering for violations within the limitations period.  The Court held that an employer's adoption of a facially neutral seniority system with discriminatory intent does not constitute an ongoing violation that can be challenged after the limitations period runs.  490 U.S. at 905-911.  The Court noted, however, that a facially discriminatory seniority system "discriminates each time it is applied," and therefore "can be challenged at any time," even though discrimination may have been obvious at its adoption.  Id. at 912 & n.5.  See also Delaware State College v. Ricks, 449 U.S. 250, 257, 259-260 (1980) (finding action time-barred where plaintiff failed to identify discriminatory acts that continued into the limitations period); Evans, 431 U.S. at 558 (same).6
+
+Havens Realty Corp. v. Coleman, 455 U.S. 363 (1982), is consistent with those decisions.  In Havens Realty, the Court permitted plaintiffs to seek relief under the Fair Housing Act, 42 U.S.C. 3604, for racial "steering," some of which occurred within the limitations period, but some of which was outside the limitations period.  The Court rejected the landlord's argument that the suit could not go forward because the plaintiffs "were fully apprised of the facts and of their rights" before the six-month limitations period.  Pet. Br. at 33, Havens Realty Corp., supra (No. 80-988).  The Court held, instead, that the plaintiffs could sue because they had alleged "an unlawful practice that continue[d] into the limitations period," 455 U.S. at 381 (footnote omitted), and that caused current injury, see id. at 379, 381, 382.  At the same time, the plaintiffs could not maintain claims that related solely to incidents outside the limitations period.  Id. at 381.  The Court did not address the appropriate measure of relief.  Rather, it noted that the parties had entered into an agreement that, if approved by the district court, would have liquidated the plaintiffs' monetary damages and made quantification unnecessary.  See id. at 371.
+
+4.	Allowing recovery for discrimination within the charge-filing period without regard to whether the plaintiff had prior notice of the unlawful practice-but not for violations that occurred before the charge-filing period-furthers the remedial purposes of Title VII.  "[T]he primary objective" of Title VII "was a prophylactic one."  Albemarle Paper Co. v. Moody, 422 U.S. 405, 417 (1975).  Although Congress wanted individuals who are targets of discrimination to be made whole for those violations that are actionable, see id. at 418, Congress above all wanted "to achieve equality of employment opportunities and remove barriers that ha[d] operated in the past to favor an identifiable group of white employees over other employees," id. at 417 (quoting Griggs v. Duke Power Co., 401 U.S. 424, 429-430 (1971)).  It would undermine that "dominant purpose  *  *  *  to root out discrimination in employment," EEOC v. Shell Oil Co., 466 U.S. 54, 77 (1984), if persons who are subjected to ongoing employment discrimination could not sue within the charge-filing period because they were or should have been on prior notice of the violation. 
+
+Allowing private plaintiffs to sue on all violations that occur within the charge-filing period, without regard to notice, also serves Congress's objective of encouraging conciliation and informal resolution of disputes.  Congress wanted "to promote conciliation rather than litigation in the Title VII context," Burlington Indus., Inc. v. Ellerth, 524 U.S. 742, 764 (1998), and accomplishment of that objective requires employees promptly to report possible discrimination to their employer.  The Court has recognized, for example, that Title VII's objectives are served when employees are encouraged to report sexual harassment to their employer before it becomes severe or pervasive.  Ibid.  If an employee who reported harassment in its early stages (1) were deemed to have demonstrated knowledge of her claim and (2) consequently became disabled from suing if the harassment continued, Title VII's limitations rules could become an obstacle to informal and early termination of discriminatory conduct.  Employees would be discouraged from giving their employer prompt notice of harassment and from attempting to resolve disputes informally.  And, to the extent that employees attempted to protect their Title VII claims by filing a charge with the EEOC after each indication of conceivably actionable harassment, the EEOC and the courts would be burdened by a flood of incident-specific suits.  Cf. Heard v. Sheahan, 253 F.3d 316, 320 (7th Cir. 2001) (Section 1983 claim).7
+
+Finally, allowing suits for unlawful practices that occur within the limitations period effectuates Congress's policy  of "protect[ing] employers from the burden of defending claims arising from employment decisions that are long past."  Ricks, 449 U.S. at 256-257.  Although staleness concerns generally "disappear[]" when suit is brought on a violation within the limitations period, Havens Realty, 455 U.S. at 380, permitting a plaintiff to challenge related violations that occurred outside the limitations period would threaten injustice by reviving "claims that have been allowed to slumber until evidence has been lost, memories have faded, and witnesses have disappeared."  Order of R.R. Telegraphers v. Railway Express Agency, Inc., 321 U.S. 342, 349 (1944).
+
+By permitting suits for violations within the limitations period, and foreclosing suits for violations outside the limitations period, Congress has balanced the competing interests of employees, employers, and the public.  Allowing Title VII claimants to sue within the limitations period even if they had earlier notice of the unlawful employment practice safeguards the important role of private suits in promoting compliance and in obtaining compensation for the victims of discrimination, and ensures that employers have an ongoing incentive to comply with Title VII.  Prohibiting suit on pre-limitations claims encourages potential plaintiffs to bring their claims promptly and protects employers against the unfairness of defending against stale claims.  Neither the open-ended liability allowed by the court of appeals in this case, nor strict enforcement of a notice rule to bar suits that challenge ongoing violations, would be consistent with Congress's balance or with the analogous rules developed in other areas of law. 
+
+5.	Although notice outside the limitations period should not be a complete bar to recovery, notice is relevant in continuing violation cases, as in other contexts.  This Court held in Zipes that the filing deadlines of Section 706(e) are "subject to waiver, estoppel, and equitable tolling."  455 U.S. at 393.  A Title VII plaintiff therefore could recover for conduct that occurred outside the limitations period when, for example, the employer's misconduct prevented the plaintiff from receiving notice of the violation.  See generally Baldwin County Welcome Ctr. v. Brown, 466 U.S. 147, 151 (1984) (per curiam) (discussing equitable doctrines); Cada v. Baxter Healthcare Corp., 920 F.2d 446, 450-453 (7th Cir. 1990), cert. denied, 501 U.S. 1261 (1991) (same); Wolin v. Smith Barney Inc., 83 F.3d 847, 851-853 (7th Cir. 1996) (same).
+
+Moreover, some courts have applied the discovery rule to determine when a claim accrues in Title VII cases.  Under such a rule, the charge-filing period begins to run with respect to a particular incident when the potential plaintiff learns (or with diligence should have learned) of his injury. See, e.g., Oshiver v. Levin, Fishbein, Sedran & Berman, 38 F.3d 1380, 1385-1387 (3d Cir. 1994); Cada, supra; see generally 2 P. Cox, Employment Discrimination ¶ 22.02, at 22-14 to 22-15.0 (3d ed. 2000) (discussing cases); 2 B. Lindemann et. al., Employment Discrimination Law 1347-1350 (3d ed. 1996) (same).  That approach makes notice an aspect of claim-accrual.
+
+B.	Neither Caps On Back Pay Nor Damages Provisions Demonstrate That Congress Intended To Allow Recovery For Unlawful Practices That Occurred Outside The Charge-Filing Period
+
+The language and history of Section 706(e), and the policies underlying Title VII, thus support application of  the traditional rule that each act in furtherance of a wrongful scheme begins a new limitations period, but does not revive claims based on violations outside the limitations period.  Nonetheless, the court of appeals in this case applied a rule that "contrasts sharply with the principle applied to continuous courses of wrongful conduct in other areas of the law," Johnson v. Nyack Hosp., 891 F. Supp. 155, 162 n.5 (S.D.N.Y. 1995), aff'd, 86 F.3d 8 (2d Cir. 1996), and allows the plaintiff to recover for conduct outside the limitations period as long as it is closely related to conduct within the period.  Pet. App. 14a-20a.  Other lower courts also allow challenges to pre-limitations conduct under certain circumstances.  E.g., Sabree v. United Bhd. of Carpenters Local No. 33, 921 F.2d 396, 399-402 (1st Cir. 1990); Berry v. Board of Supervisors of L.S.U., 715 F.2d 971, 979-981 (5th Cir. 1983).  The EEOC adheres to that approach as well.  See, e.g., Anisman v. O'Neill, Appeal. No. 01994634, 2001 WL 402493, at *5 (EEOC Apr. 12, 2001).  Nothing in Title VII supports such disregard for Section 706(e)'s incorporation of the traditional continuing violation doctrine.
+
+1.	One argument for deviating from the traditional rule focuses on Section 706(g), which has provided since 1972 that "[b]ack pay liability shall not accrue from a date more than two years prior to the filing of a charge with the Commission."  42 U.S.C. 2000e-5(g)(1).  A two-year limitation on back pay, the argument goes, would not have been needed if the charge-filing deadlines of Section 706(e) limited recovery (including back pay) to violations that occurred within 300 days of the filing of the charge.  See, e.g., Sabree, 921 F.2d at 401.
+
+That argument is not persuasive.  Whereas the limitations language of Section 706(e) speaks directly to when suit must be brought, Section 706(g) merely sets an outer limit on back pay that, on its face, does not foreclose application of a shorter limitations period.  Nor does the legislative history of Section 706(g) suggest that Congress meant to foreclose application of the traditional rule developed in antitrust, tort, contract, and labor cases.
+
+Section 706(g)'s two-year limitation arose initially out of a concern that employers could, absent such a limitation, be subject to large back pay awards in federal "pattern or practice" suits brought under Section 707, 42 U.S.C. 2000e-6, which did not have any time limitation (other than that an action could not reach conduct before the effective date of the 1964 Act).  See H.R. Rep. No. 238, supra, at 65-66 (Minority Views).  The inclusion of current Section 707(e),  42 U.S.C. 2000e-6(e), in the 1972 legislation lessened (but did not completely eliminate, see p. 25, infra) that concern because it applied the procedures of Section 706 to EEOC actions under Section 707.  Nevertheless, the two-year cap on back pay was included in the final version of the 1972 amendments as well.  Supporters of the two-year provision urged that it was needed because the EEOC and some courts were not interpreting the 90-day charge-filing period as a limitation on recovery under Section 706.  See 117 Cong. Rec. 31,973, 31,974, 31,981 (1971) (Rep. Erlenborn); id. at 31,979 (Rep. Dent).  The supporters did not endorse those decisions, however, and other contemporaneous court decisions placed a 90-day limitation on back pay in light of the charge-filing deadline.  See United States v. Georgia Power Co., Civ. No. 12355, 1971 WL 162, at *27, *28-*29 (N.D. Ga. June 30, 1971) (Sections 706 and 707), rev'd in part, 474 F.2d 906 (5th Cir. 1973); Johnson v. Goodyear Tire & Rubber Co., 349 F. Supp. 3, 18 n.8 (S.D. Tex. 1972), rev'd in part, 491 F.2d 1364 (5th Cir. 1974).  In the end, the 1972 amendments did not include any language stating whether recovery was or was not available beyond the limitations period, but simply ensured that, however the courts answered that question, back pay would not be available for more than two years beyond the filing of the charge.  42 U.S.C. 2000e-5(g)(1).
+
+This Court's decision in Evans further undercuts any argument that the 1972 amendments ratified awards of back pay beyond the limitations period.  To the extent that courts made such awards before the 1972 amendments, they generally did so under the so-called "effects theory," which held that "if an act originating in the past operates to discriminate against the complainant at the present time, there is a continuous violation."  Note, Employment Discrimination and Title VII of the Civil Rights Act of 1964, 84 Harv. L. Rev. 1109, 1210 (1971).  The Evans Court rejected the effects theory in 1977.  431 U.S. at 557-558; see J. Carty, The Continuing Violation Theory of Title VII After United Air Lines, Inc. v. Evans, 31 Hastings L.J. 929, 936-949 (1980).  Congress has not overruled the holding of Evans through legislation.  Accordingly, it cannot persuasively be argued that Congress has validated back pay awards that were made under a theory of liability that Evans rejected.  See D. Laycock, Continuing Violations, Disparate Impact in Compensation, and Other Title VII Issues, 49 Law & Contemp. Probs. 53, 58 (1986).
+
+Finally, a general rule limiting recovery to violations within the limitations period does not render the two-year limitation on back pay superfluous.  Equitable doctrines may extend the charge-filing period (and thus the recovery period) beyond 300 days, so that the two-year limitation might apply.  See D. Laycock, supra, at 58.  Moreover, the United States has long taken the position that the charge-filing periods of Section 706(e) are not relevant to investigations and suits by the Attorney General (rather than the EEOC) under Section 707. The concern about federal pattern or practice suits that initially motivated legislators to propose a two-year restriction on back pay thus remains relevant, and Section 706(g) serves as a restriction on relief in some Section 707 actions.  See United States v. Fresno Unified Sch. Dist., 592 F.2d 1088, 1096 & n.5 (9th Cir.), cert. denied, 444 U.S. 832 (1979).
+
+2.	Congress's authorization of capped awards of compensatory damages (relating to non-pecuniary losses) and punitive damages under the Civil Rights Act of 1991, Pub. L. No. 102-166, § 102, 105 Stat. 1072-1074 (42 U.S.C. 1981a), likewise is consistent with the traditional rule that limits recovery to violations occurring within the limitations period.  Dollar limits on damages are compatible with temporal limits on recovery, and the two restrictions implicate different considerations.  The dollar caps were part of a legislative compromise in 1991 that made compensatory and punitive damages available for the first time, but subjected them to statutory caps.  The 1991 Act, however, did not modify Section 706(e)'s limitations period, nor did it otherwise change the recovery previously available under the Civil Rights Act of 1964 and the 1972 amendments.  See Pollard, 121 S. Ct. at 1951-1952.
+
+3.	Finally, there is no practical obstacle to applying the traditional continuing violation doctrine to Title VII cases. Awarding relief for only the later violations in a series of related violations is not unworkable.  To be sure, fixing the precise amount of damages due for those violations that are within the limitations period may sometimes prove difficult.  For example, although it may be straightforward for a jury to determine whether particular out-of-pocket costs such as moving and job-search expenses flow from a violation within the limitations period, it may be more difficult to decide whether medical or psychiatric treatments, or pain and suffering, are attributable to violations after the limitations period began to run, rather than before.  But such problems of proof are not unique to Title VII, and they can be addressed through the "[c]onventional rules of civil litigation" that apply to Title VII claims.  Price Waterhouse v. Hopkins, 490 U.S. 228, 253 (1989) (opinion of Brennan, J.).  Those "conventional rules" draw a "clear distinction between the measure of proof necessary to establish the fact that [a plaintiff] had sustained some damage, and the measure of proof necessary to enable the jury to fix the amount."  Ibid. (quoting Story Parchment Co. v. Paterson Parchment Paper Co., 282 U.S. 555, 562 (1931)).  The plaintiff need not establish the amount of damages with exactitude, but is required only to establish "a basis for a reasonable inference as to the extent of the damages."  Anderson v. Mt. Clemens Pottery Co., 328 U.S. 680, 688 (1946).
+
+C.	Respondent May Not Recover For Discrimination That  Occurred Outside the 300-Day Charge-Filing Period
+
+It follows from the principles set forth above that the court of appeals in this case erred when it held that petitioner's "pre-limitations period conduct should have been presented to the jury  *  *  *  for purposes [of] liability."  Pet. App. 21a.  Evidence about respondent's conduct was, rather, "relevant background evidence," Evans, 431 U.S. at 558, particularly insofar as it "tend[ed] reasonably to show the purpose and character of" allegedly discriminatory acts that occurred within the limitations period, FTC v. Cement Inst., 333 U.S. 683, 705 (1948).  This rule of evidence is particularly significant as applied to respondent's post-limitations hostile work environment claim, which must be evaluated based on the totality of the circumstances.  See Harris v. Forklift Sys., Inc., 510 U.S. 17, 23 (1993); cf. Van Steenburgh v. Rival Co., 171 F.3d 1155, 1159 (8th Cir. 1999) ("An incident within the limitations period need not satisfy the definition of sexual harassment under Title VII when viewed in isolation.  Rather, the jury must be capable of perceiving the incident as 'discriminatory' in light of all the prior incidents of sexual harassment.") (citations omitted).  But see, e.g., Sowell v. Alumina Ceramics, Inc., 251 F.3d 678, 682-683 (8th Cir. 2001); Minor v. Ivy Tech State College, 174 F.3d 855, 857 (7th Cir. 1999).
+
+The district court acknowledged the relevance of pre-limitations conduct in its decision granting partial summary judgment for petitioner.  Pet. App. 40a-41a n.9.  Respondent has suggested, however, that the district court's instructions to the jury took too narrow a view of the use that could be made of the evidence.  Id. at 6a; see C.A. E.R. 464 ("You will not consider this evidence for any purpose other than providing context."); id. at 878 (pre-limitations evidence "will help you understand the context in which [the post-limitations occurrences] happened, who the players were and all of that.").  That issue is not implicated by the question presented, but it could be considered by the court of appeals on remand.  See Pet. App. 21a ("In light of our ruling, we need not specifically rule on the evidentiary issues raised by Morgan.").
+
+CONCLUSION
+
+The judgment of the court of appeals should be reversed. 
+
+Respectfully submitted.
+
+THEODORE B. OLSON
+ Solicitor General
+ STUART E. SCHIFFER
+ Acting Assistant Attorney
+ General
+ PAUL D. CLEMENT
+ Deputy Solicitor General
+ AUSTIN C. SCHLICK 
+ Assistant to the Solicitor
+ General
+ MARLEIGH D. DOVER
+ JOHN C. HOYLE
+ Attorneys
+
+AUGUST 2001
+
+1	The court of appeals in this case reversed the district court's grant of partial summary judgment in favor of petitioner.  See Pet. 6a, 21a.  Accordingly, "inferences to be drawn from the underlying facts  .  .  .  must be viewed in the light most favorable to [respondent]."  Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986) (quoting United States v. Diebold, Inc., 369 U.S. 654, 655 (1962)).
+
+2	Different limitations rules apply in criminal conspiracy cases.  See Local Lodge No. 1424, Int'l Ass'n of Machinists v. NLRB (Bryan Mfg.), 362 U.S. 411, 423-424 n.15 (1960); Agency Holding Corp. v. Malley-Duff & Assocs., Inc., 483 U.S. 143, 155-156 (1987) (RICO).
+
+3	Section 10(b) of the NLRA provides, in relevant part, that "[n]o complaint shall issue based upon any unfair labor practice occurring more than six months prior to the filing of [a] charge with the [National Labor Relations] Board and the service of a copy thereof upon the person against whom such charge is made."  29 U.S.C. 160(b).
+
+4	E.g., NLRB v. Carpenters Local Union No. 1028, 232 F.2d 454, 456 (10th Cir.) (discriminatory enforcement of closed-shop agreement during limitations period satisfies Section 10(b)), cert. denied, 352 U.S. 839 (1956); NLRB v. Dallas Gen. Drivers, Local Union 745, 228 F.2d 702, 705 (5th Cir. 1956) ("[I]f the contract provision giving the Union sole power to settle seniority disputes violated the Act, or if the Union exercised that power discriminatorily, each time it did so constituted a separate and distinct act, whether or not the decision so to act was made outside the six-month period."), cert. denied, 361 U.S. 814 (1959); NLRB v. International Bhd. of Teamsters, 225 F.2d 343, 345-346 (8th Cir. 1955) (rejecting argument that employees had notice of discriminatory seniority system before the limitations period); NLRB v. F.H. McGraw & Co., 206 F.2d 635, 639 (6th Cir. 1953) (finding a "continuing offense" where "the unfair labor practice alleged in the complaint was not the execution of this contract, but its enforcement and implementation  *  *  *  within the period of limitations"); Katz v. NLRB, 196 F.2d 411, 415 (9th Cir. 1952) ("continued and continuous enforcement" of illegal union shop agreement constituted continuing violation); Melville Confections, Inc., 142 N.L.R.B. 1334, 1335 & n.1, 1337-1339 (1963) (finding that a profit-sharing plan adopted in 1957 "and made known to [the company's] employees at all times thereafter" warranted relief when charge was filed in September 1962), enforced, 327 F.2d 689, 692 (7th Cir.), cert. denied, 377 U.S. 933 (1964).
+
+5	Without rejecting the Board's legal approach to continuing violation cases, the Third Circuit held in Pennwoven that the facts presented did not establish a new violation within the charge-filing period.  194 F.2d at 524-526.
+
+6	In 1991, Congress legislatively overruled the narrow holding of Lorance and allowed challenges to the application of facially neutral but intentionally discriminatory seniority systems after their adoption.  Civil Rights Act of 1991, Pub. L. No. 102-166, § 112, 105 Stat. 1078-1079 (42 U.S.C. 2000e-5(e)(2)).  Congress, however, did not alter the general rule that one-time acts of discrimination are not actionable outside the limitations period, even if their effects are still being felt. 
+
+7	In harassment cases, "duration is often necessary to convert what is merely offensive behavior  *  *  *  into an actionable alteration in the plaintiff's working conditions."  Dasgupta v. University of Wis. Bd. of Regents, 121 F.3d 1138, 1139 (7th Cir. 1997) (citations omitted).  Confusingly, courts sometimes refer to claims that take a long time to accrue as continuing violations.  See, e.g., Frazier v. Delco Elecs. Corp., No. 99-2710, 2001 WL 964933, at *2 (7th Cir. Aug. 24, 2001); Freeman v. Madison Metro. Sch. Dist., 231 F.3d 374, 381 (7th Cir. 2000).  When it remanded respondent's pre-limitations hostile environment claims for trial, however, the court of appeals in this case did not rely on a theory that respondent's cause of action had not yet accrued as of May 3, 1994.  See Pet. App. 19a-20a.
+
+Brief
+
+              2000-1614.mer.ami.pdf
+
+  [PDF, 
+
+]
+
+Updated October 21, 2014
+
+Office of the Solicitor General
+
+950 Pennsylvania Ave. NW
+Washington DC 20530-0001
+
+202-514-2203
+
+Signup for Email Updates
+
+Social Media
+
+About
+
+Budget & Performance
+
+Archives
+
+FOIA
+
+Accessibility
+
+Legal Policies & Disclaimers
+
+Privacy
+
+For Employees
+
+Office of the Inspector General
+
+No FEAR Act Data
+
+EEO Policy Statement
+
+Vulnerability Disclosure
+
+Multilingual
+
+Vote.gov
+
+Have a question about Government Services?
+
+Contact USA.gov
+
+        Top
+

@@ -1,0 +1,56 @@
+NATIONAL RAILROAD PASSENGER CORPORATIONV. MORGAN
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+NATIONAL RAILROAD PASSENGER CORPORATIONV. MORGAN (00-1614) 
+232 F.3d 1008, affirmed in part, reversed in part, and remanded.
+Syllabus
+ Opinion
+ [ Thomas ]Other
+ [ Opinion of O’Connor ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+NATIONAL RAILROAD PASSENGER CORPORATION v. MORGAN
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 00—1614.  Argued January 9, 2002–Decided June 10, 2002
+
+Under Title VII of the Civil Rights Act of 1964, a plaintiff “shall” file an employment discrimination charge with the Equal Employment Opportunity Commission (EEOC) either 180 or 300 days after an “alleged unlawful employment practice occurred.” 42 U.S. C. §2000e—5(e)(1).  Respondent Morgan, a black male, filed a charge of discrimination and retaliation with the EEOC against petitioner National Railroad Passenger Corporation (Amtrak), and cross-filed with the California Department of Fair Employment and Housing.  He alleged that he had been subjected to discrete discriminatory and retaliatory acts and had experienced a racially hostile work environment throughout his employment.  The EEOC issued a “Notice of Right to Sue,” and Morgan filed this lawsuit.  While some of the allegedly discriminatory acts occurred within 300 days of the time that Morgan filed his EEOC charge, many took place prior to that time period.  The District Court granted Amtrak summary judgment in part, holding that the company could not be liable for conduct occurring outside of the 300-day filing period. The Ninth Circuit reversed, holding that a plaintiff may sue on claims that would ordinarily be time barred so long as they either are “sufficiently related” to incidents that fall within the statutory period or are part of a systematic policy or practice of discrimination that took place, at least in part, within the period.
+
+Held: A Title VII plaintiff raising claims of discrete discriminatory or retaliatory acts must file his charge within the appropriate 180- or 300-day period, but a charge alleging a hostile work environment will not be time barred if all acts constituting the claim are part of the same unlawful practice and at least one act falls within the filing period; in neither instance is a court precluded from applying equitable doctrines that may toll or limit the time period.  Pp. 5—20. 
+
+    (a) Strict adherence to Title VII’s timely filing requirements is the best guarantee of evenhanded administration of the law.  Mohasco Corp. v. Silver, 447 U.S. 807, 826.  In a State having an entity authorized to grant or seek relief with respect to the alleged unlawful practice, an employee who initially files a grievance with that agency must file the charge with the EEOC within 300 days of the employment practice; in all other States, the charge must be filed within 180 days.  §2000e—5(e)(1).  The operative statutory terms of §2000e—5(e)(1),  the charge filing provision, are “shall,” “after … occurred,” and “unlawful employment practice.”  “[S]hall” makes the act of filing a charge within the specified time period mandatory.  “[O]ccurred” means that the practice took place or happened in the past.  The requirement, therefore, that the charge be filed “after” the practice “occurred” means that a litigant has up to 180 or 300 days after the unlawful practice happened to file with the EEOC.  The critical questions for both discrete discriminatory acts and hostile work environment claims are: What constitutes an “unlawful employment practice” and when has that practice “occurred”?  The answer varies with the practice.  Pp. 5—7. 
+
+      (b) A party must file a charge within either 180 or 300 days of the date  that a discrete retaliatory or discriminatory act “occurred” or lose the ability to recover for it.  Morgan asserts that the term “practice” provides a statutory basis for the Ninth Circuit’s continuing violation doctrine because it connotes an ongoing violation that can endure or recur over a period of time.  This argument is unavailing, however, given that §2000e—2 explains in great detail the sorts of actions that qualify as “[u]nlawful employment practices,” including among them numerous discrete acts, without indicating in any way that the term “practice” converts related discrete acts into a single unlawful practice for timely filing purposes.  And the Court has repeatedly interpreted the term “practice” to apply to a discrete act of single “occurence,” even where it has a connection to other acts.  Several principals may be derived from Electrical Workers v. Robbins & Myers, Inc., 429 U.S. 229, 234—235; United Air Lines, Inc. v. Evans, 431 U.S. 553, 558; and Delaware State College v. Ricks, 449 U.S. 250, 257.  First, discrete discriminatory acts are not actionable if time barred, even when they are related to acts alleged in timely filed charges.  Because each discrete act starts a new clock for filing charges alleging that act, the charge must be filed within the 180- or 300-day period after the act occurred.  The existence of past acts and the employee’s prior knowledge of their occurrence, however, does not bar employees from filing charges about related discrete acts so long as the acts are independently discriminatory and charges addressing those acts are themselves timely filed.  Nor does the statute bar an employee from using the prior acts as background evidence to support a timely claim.  In addition, the time period for filing a charge remains subject to application of equitable doctrines such as waiver, estoppel, and tolling.  See Zipes v. Trans World Airlines, Inc., 455 U.S. 385, 393.  While Morgan alleged that he suffered from numerous discriminatory and retaliatory acts from the date he was hired through the date he was fired, only those acts that occurred within the applicable 300-day filing period are actionable.  All prior discrete discriminatory acts are untimely filed and no longer actionable.  Pp. 7—12.
+
+        (c) Hostile work environment claims are different in kind from discrete acts.  Because their very nature involves repeated conduct, the “unlawful employment practice,” §2000e—5(e)(1), cannot be said to occur on any particular day.  It occurs over a series of days or perhaps years and, in direct contrast to discrete acts, a single act of harassment may not be actionable on its own.  See Harris v. Forklift Systems, Inc., 510 U.S. 17, 21.  Determining whether an actionable hostile environment claim exists requires an examination of all the circumstances, including the frequency of the discriminatory conduct; its severity; whether it is physically threatening or humiliating, or a mere offensive utterance; and whether it unreasonably interferes with an employee’s work performance.  Id., at 23.  The question whether a court may, for purposes of determining liability, review all such conduct, including those acts that occur outside the filing period, turns on the statutory requirement that a charge be filed within a certain number of days “after the alleged unlawful employment practice occurred.”  Because such a claim is composed of a series of separate acts that collectively constitute one “unlawful employment practice,” it does not matter that some of the component acts fall outside the statutory time period.  Provided that an act contributing to the claim occurs within the filing period, the entire time period of the hostile environment may be considered for the purposes of determining liability.  That act need not be the last act.  Subsequent events may still be part of the one claim, and a charge may be filed at a later date and still encompass the whole.  Therefore, a court’s task is to determine whether the acts about which an employee complains are part of the same actionable hostile work environment practice, and if so, whether any act falls within the statutory time period.  To support his hostile environment claim, Morgan presented evidence that managers made racial jokes, performed racially derogatory acts, and used various racial epithets.  Although many of these acts occurred outside the 300-day filing period, it cannot be said that they are not part of the same actionable hostile environment claim.  Pp. 12—18.  
+
+      (d) The Court’s holding does not leave employers defenseless when a plaintiff unreasonably delays filing a charge.  The filing period is subject to waiver, estoppel, and equitable tolling when equity so requires, Zipes, supra, at 398, and an employer may raise a laches defense if the plaintiff unreasonable delays in filing and as a result harms the defendant, see, e.g., Albemarle Paper Co. v. Moody, 422 U.S. 405, 424—425.  Pp. 19—20. 
+
+232 F.3d 1008, affirmed in part, reversed in part, and remanded.
+
+    Thomas, J., delivered the opinion of the Court, in which Stevens, Souter, Ginsburg, and Breyer, JJ., joined, and in which Rehnquist, C. J., and O’Connor, Scalia, and Kennedy, JJ., joined as to Part II—A.  O’Connor, J., filed an opinion concurring in part and dissenting in part, in which Rehnquist, C. J., joined, in which Scalia and Kennedy, JJ., joined as to all but Part I, and in which Breyer, J., joined as to Part I.

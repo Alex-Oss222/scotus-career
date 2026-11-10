@@ -1,0 +1,2078 @@
+fi Supreme Court, U.S 
+FILED 
+
+
+No. 01-651 erg 1 9 2002 
+
+
+OFFICE OF FHE SLORM 
+
+
+« 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+THE CHASE MANHATTAN BANK, as Indenture Trustee, 
+under the Indenture, dated as of May 6, 1998, 
+
+
+Petitioner, 
+v. 
+TRAFFIC STREAM (BVI) 
+INFRASTRUCTURE LIMITED, 
+Respondent. 
+
+
+On Writ oF CERTIORARI TO THE 
+Unitep States Court OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+BRIEF FOR PETITIONER 
+Epwarb H. TILLincuast, III SARAH L. REID 
+Coupert BrotHers LLP Counsel of Record 
+
+
+1114 Avenue ofthe Americas JosepH N. FROEHLICH 
+New York, New York 10036 Kettey Drve & WARREN LLP 
+(212) 626-4400 101 Park Avenue 
+New York, New York 10178 
+(212) 808-7800 
+
+
+Attorneys for Petitioner 
+
+
+172420 g 
+
+
+COUNSEL PRESS 
+(800) 274-3321 + (800) 359-6859 
+
+
+QUESTION PRESENTED 
+
+
+Whether corporations organized under the laws of the 
+British Virgin Islands and other United Kingdom overseas 
+territories are “citizens or subjects of a foreign state” for 
+the purposes of alienage jurisdiction under 28 U.S.C. 
+§ 1332(a)(2)? 
+
+
+ii 
+CORPORATE DISCLOSURE STATEMENT 
+
+
+Pursuant to Rule 29.6 of the Supreme Court Rules, 
+Petitioner The JPMorgan Chase Bank, formerly known as 
+The Chase Manhattan Bank, states that it is wholly-owned 
+by J.P. Morgan Chase & Co., a publicly-owned company. 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+ees tcc ee ce cessces 
+
+
+Corporate Disclosure Statement ................ 
+
+
+Teen eT eT ee sc ccccces 
+
+
+ccc ccc ccccces 
+
+
+EEE e ere cccscbcccecccsccccess 
+
+
+* 
+
+
+EEE 
+
+
+Constitutional and Statutory Provisions Involved . . 
+
+
+Ne ccc cecces 
+
+
+Bemmmmary OF ATMUNOME 2... ccc ccc cece cess 
+
+
+eee eee eee ees ecccccccccccccs 
+
+
+Il. 
+
+
+The Historical Basis for Alienage Jurisdiction 
+and the Framers’ Intent to Ensure Aliens 
+Access to the Federal Courts Confirm the 
+Propriety of Alienage Jurisdiction in This 
+eee cece ck eeccccccccces 
+
+
+The Matimak Decision is Based on 
+an Incorrect Interpretation of the Law 
+of the United States and the United Kingdom 
+and Should Be Reversed ................ 
+
+
+Page 
+
+
+10 
+
+
+iv 
+
+
+Contents 
+
+
+Ill. The Negative Effects of Matimak Are Clear 
+and Mandate Reversal in This Case ....... 
+
+
+A. 
+
+
+Conclusion 
+
+
+The Matimak Line of Cases Has Led to 
+a Foreign Entanglement with the United 
+Kingdom and Could Cause Entangle- 
+ments With Other Allies ............ 
+
+
+The Matimak Line of Decisions 
+Adversely Impacts Commerce ....... 
+
+
+Page 
+
+
+31 
+
+
+35 
+
+
+Vv 
+
+
+- TABLE OF CITEDAUTHORITIES 
+
+
+Page 
+Cases: ° 
+
+
+ART 57 Properties, Inc. v. 57 BB Property, L.L.C., 
+No. 99-10385 (Sth Cir.), a}f'd, 212 F.3d 596 
+SE eT SIR eS 27, 29 
+
+
+Autocephalous Greek Orthodox Church of Cyprus 
+v. Goldberg & Feldman Fine Arts, Inc., 917 F.2d 
+PES GED 6kticdndacedecaucencens 28 
+
+
+Bank of the United States v. Deveaux, 9 U.S. 
+PP Gc GED. Sc ccevddnccecsenses 14 
+
+
+Favour Mind Ltd. v. Pacific Shores, Inc., No. 98 Civ. 
+7038(SAS), 1999 WL 1115217 (S.D.N.Y. Dec. 7, 
+SE 54 ssechnssbudeadauddcheennebuacedss 17,24 
+
+
+General Star Indem. Co. v. Platinum Indem. Ltd. 
+Bank of Am., No. 00 Civ. 4960(LMM), 2001 WL 
+40763 (S.D.N.Y. Jan. 17, 2001) .............. 25 
+
+
+Harisiades v. Shaughnessy, 342 U.S. 580(1952) .. 29 
+
+
+In re Oil Spill by the Amoco Cadiz, 954 F.2d 1279 
+SS DEE neavecéececcscedasdesteceotas 28 
+
+
+Inarco Int'l. Bank N.V. v. Lazard Freres & Co., 
+No. 97 Civ. 0378(DAB), 1998 WL 427618 
+Se See CUED sé cddcnctnecosences 30 
+
+
+Iwanowa v. Ford Motor Co., 67 F. Supp. 2d 424 
+Ss GEE ducduodunesuccdeeacdecnesaces 28 
+
+
+vi 
+Cited Authorities 
+
+Page 
+
+Kantor v. Wellesley Galleries, Ltd., 704 F.2d 1088 
+iid éeindenedbestentienadnees 16 
+
+Klein v. Marriott Int'l., Inc., 34 F. Supp. 2d 176 
+SE ES cus cdkdeeeentbbaneducsseude 25 
+
+Koehler v. Bank of Bermuda (New York) Ltd., 209 
+
+F.3d 130 (2d Cir.), amended by 229 F.3d 424 (2d 
+
+Cir.), reh'g en banc denied, 229 F.3d 187 (2d Cir. 
+EE wDeeSocccecectencosetcstesncnvacess passim 
+
+Koehler v. Dodwell, 152 F.3d 304 (4th Cir. 1998) 
+eEnmaa dies Ghubes deenaeseeoesheéuanotads 15 
+
+Ligi v. Regnery Gateway, Inc., 689 F. Supp. 159 
+dc. ccscgsigeneseecssseotens 16 
+
+
+Lucky Yeh Int'l, Ltd. v. Happiness Express, Inc., 
+No. 96 Civ. 3365(SJ), 1999 WL 147095 (E.D.N_Y. 
+PD sa0beebdcuuedeseeennnedess 25 
+
+
+Matimak Trading Co. v. Khalily, 118 F.3d 76 (2d Cir. 
+1997), cert. denied, 522 U.S. 1091 (1998) .... passim 
+
+
+New Heaven Properties Ltd. v. Grinberg, No. 99 Civ. 
+11546 (LMM), 2000 WL 64842 (S.D.N.Y. Jan. 26, 
+BED e6bUde dbtubaccenctgenseesnceseseses 25 
+
+
+Peregrine Myanmar Lid. v.- Segal, 89 F.3d 41 
+Ph PD ccebeskécevede deunessceuceus 6, 15 
+
+
+ae 
+
+
+vil 
+Cited Authorities 
+Page 
+RCA Records v. Hanks, 548 F. Supp. 979 (S.D.N-Y. 
+
+Dy. ssunnavesnu hud bannsasabdcuveesceues 16 
+Regan v. Wald, 468 U.S. 222 (1984) ............ 29 
+Sadat v. Mertes, 615 F.2d 1176 (7th Cir. 1980) .... 16 
+Shoemaker v. Malaxa, 241 F.2d 129 (2d Cir. 1957) 
+
+LuGddeheheueadeasbocendusxabekecneeusess 16 
+Southern Cross Overseas Agencies, Inc. v. Wah 
+
+Kwong Shipping Group Lid., 181 F.3d 410 (3d Cir. 
+
+DEE Kbdevekave stcuepeusecenss 13, 15, 24, 29, 31 
+Standing Rock Sioux Indian Tribe v. Dorgan, 
+
+505 F.2d 1135 (8th Cir. 1974) ............... 16 
+Ill Fin. Ltd. v. Aegis Consumer Funding Group, Inc., 
+
+No. 99 Civ. 2579(DC), 1999 WL 1080371 
+
+Ss EG OEE SOD ccnsccebdcccecceenes 25,27 
+United States v. Wong Kim Ark, 169 U.S. 649 
+
+DER Cbicdibebnnedecksbedddeunekekeseces 28 
+United States Fid. & Guar. Co. v. Braspetro Oil Servs. 
+
+Co., No. 97 Civ. 6124(JGK), 1999 WL 307666 
+
+(S.D.N.Y. May 17, 1999), aff'd, 199 F.3d 94 
+
+DD uo.sndndgeesedetouesausaesodus 25 
+
+
+vill 
+Cited Authorities 
+Page 
+
+Universal Reinsurance Co., Ltd. v. St. Paul Fire & 
+
+Marine Insurance Co., 224 F.3d 139 (2d Cir. 
+
+a ee ee i, al a ee ee 5, 8, 25 
+Wilson v. Humphreys (Cayman) Ltd., 916 F.2d 1239 
+
+(7th Cir. 1990), cert. denied, 499 U.S. 947 
+
+ST Nc eccinnusenebedeneseseseebesines 15, 23 
+United States Constitution: 
+DT <cduccccudecddneceundsbuneeneweent 6 
+Ce ere 2, 10 
+Statutes: 
+PPD covbeccscucsbdébenkosaeves 2 
+i ED vincocngdegsasenunendeunenel 4,24 
+I oi cearyinndeweonees 2 
+28 U.S.C. § 1332(ap(2) .............. i, 5, 8, 15, 17, 28 
+PP ED o chines sesensebiccbssteces 2 
+British Companies Act 1948 ..............000565 18, 19 
+British Nationality Act 1981 .............000005 19, 20 
+Companies (Northern Ireland) Order 1986, No. 1032, 
+
+TEED n.ccuducdénndendsds Geadeseudecus 19 
+
+
+oo eter te 
+
+
+- 
+
+
+ix 
+
+
+Cited Authorities 
+
+
+International Business Companies Act § 5(1) (BVI) 
+
+
+Judiciary Act of 1789, ch. 20, § 11, 1 Stat. 73 .... 
+
+
+Virgin Islands (Appeals to Privy Council Order) 1967 
+(S.1. 1967 No. 234), as amended by the Anguilla, 
+Montserrat, and Virgin Islands (Supreme Court) 
+Order 1983 (S.I. 1983 No. 1108), Article3 ..... 
+
+
+Virgin Islands (Constitution) Order 1976, No. 2145, 
+DPE advedededcésarsnawiadecevkéecasuene 
+
+
+West Indies Associated States Supreme Court Act, 
+Chapter 80, § 68 of the laws of the British Virgin 
+DD awdadedewisesndinsbedbéncavesecwens 
+
+
+Rule: 
+8 RR een e ene ree ee = 
+Other Authorities: 
+
+
+AMS Group, British Virgin Islands: More Than Just 
+IBC'’s, AMS Group Offshore Update Newsletter 
+(July 2000), available at http://www.amsbvi.com 
+149BVImorethanibes.htm ................... 
+
+
+Associated Press, The British Government 
+Decriminalizes Homosexuality in Caribbean 
+Territories (January 5, 2001) ................ 
+
+
+Page 
+
+
+x 
+
+
+Cited Authorities 
+
+
+Suzanne Attewell, Find Your Very Own Island in the 
+Sun, Sunday Times (London), February 10, 
+Bt cece es eunk weeks adeaukes ceeewareren 
+
+
+Mark Baker, Lost in the Judicial Wilderness: The 
+Stateless Corporation after Matimak Trading, 
+19 Nw. J. Int’] L. & Bus. 130 (1998) .......... 
+
+
+Central Intelligence Agency, The World Factbook: 
+Cayman Islands (2001), available at http:/ 
+www.cia.gov/cia/publications/factbook/geos/ 
+CRD oo vveuvccthdtanvesesbasenseencnenes 
+
+
+Central Intelligence Agency, The World Factbook: 
+British Virgin Islands (2001), available at http:/ 
+www.cia.gov/cia/publications/factbook/geos/ 
+GRD WG eee 6 eeneescessendetecereseas us 
+
+
+Constitutions of Dependencies and Special 
+Sovereignties (Blaustein ed., 1997) ........... 
+
+
+Consular Convention between United States and the 
+United Kingdom, June 6, 1951, Art. 2, § 4(a), 
+I a le el te 
+
+
+Jennifer L. Coviello, Access Denied: A Case 
+Comment on Matimak Trading Co. v. Khalily, 
+18 N.Y.L. Sch. J. Int’! & Comp. L. 435 (1999) .. 
+
+
+Page 
+
+
+31 
+
+
+31 
+
+
+23 
+
+
+21 
+
+
+21 
+
+
+8 
+
+
+xi 
+
+
+Cited Authorities 
+Page 
+Debates in the Several State Conventions on the 
+Adoption of the Federal Constitution (Jonathan 
+a, HD 6h aS obnncdss-vdbinewnnnedees 12, 13 
+Diplomatic Note No. 13/2000 from the British 
+Embassy in Washington, D.C. to the United States 
+State Department, Feb. 2, 2000 ....... 26, 27, 28, 32 
+Diplomatic Note No. 90/2001 from the Britisn 
+Embassy in Washington, D.C. to the United States 
+State Department, Oct. 5, 2001 .............. 26, 28 
+The Documentary History of the Ratification of the 
+ERE FS A I 12 
+The Federalist No. 80 (Alexander Hamilton) (Clinton 
+Pn Pn onsets ke Web Wein babs webs 11,12 
+Henry Friendly, Federal Jurisdiction: A General 
+PEE Seale ndte Cf cUbeuaNasihdasceene 7 
+Wythe Holt, The Origins of Alienage Jurisdiction, 
+14 Okla. City U. L. Rev. 547 (1989) .......... 13 
+E.A.J. Johnson, The Foundations of American 
+Economic Freedom: Government and Enterprise 
+in the Age of Washington (1973) ............. 13 
+
+
+xil 
+
+
+Cited Authorities 
+| Page 
+
+
+Kevin R. Johnson, Why Alienage Jurisdiction? 
+Historical Foundations and Modern Justifications 
+for Federal Jurisdiction Over Disputes Involving 
+Noncitizens, 21 Yale J. Int’| L. 1 (1996) ....... 
+© Gund beseh 0euewseenteneneedes 6, 7, 10, 11, 14, 32 
+
+
+, 
+
+
+Frank Eric Marchetti, Alienage Jurisdiction Over 
+Stateless Corporations: Revealing the Folly of 
+Matimak Trading Company v. Khalily, 36 San 
+Diego L. Rev. 249 (1999) ............ceeeeee 8, 11 
+
+
+Teresa M. Mozina, Why Is There Any Question? 
+Hong Kong and Alienage Jurisdiction: A Critical 
+Analysis of Matimak Trading Co. v. Khalily and 
+D.A.Y., 10 Pace Int’! L. Rev. 575 (1998) ....... 8 
+
+
+Privy Council Office: Judicial Committee, at http:// 
+www.privy-council.org.uk/judicialcommittee/ 
+index.htm (last visited Feb. 14, 2002) ......... 22 
+
+
+Thomas D. Rowe, SJr., Abolishing Diversity 
+Jurisdiction: Positive Side Effects and Potential 
+for Further Reforms, 92 Harv. L. Rev. 963 (1979) 
+
+
+Jonathan Shafter, Original Intentions and 
+International Reality: States, Sovereignty, and the 
+Misinterpretation of Alienage Jurisdiction in 
+Matimak v. Khalily, 39 Colum. J. Transnat’! L. 729 
+DE cide cduens (ocneenasueuaecessendaeas 8, 13 
+
+
+: 
+: 
+| 
++ 
+3 
+, 
+i 
+j 
+
+
+xill 
+
+
+Cited Authorities 
+Page 
+
+
+United Kingdom Government’s Diplomatic Service 
+Procedure Manual, Vol. 7, Annex 1 (Mar. 1996) 
+
+
+United Kingdom of Great Britain and Northern 
+Ireland (on Behalf of the British Virgin Islands) 
+and the United States of America: Exchange of 
+Letters Constituting a Narcotics Cooperation 
+Agreement with Respect to the British Virgin 
+Islands, April 14, 1987, 1681 U.N.T.S. 28491 .. 23 
+
+
+tee ae ——— 
+
+
+; 
+. 
+-3 
+) 
+3 
+
+
+es 
+
+
+l 
+
+
+OPINIONS BELOW 
+
+
+The Per Curiam Opinion of the United States Court of 
+Appeals for the Second Circuit in The Chase Manhattan 
+Bank, as Indenture Trustee, under the Indenture, dated as of 
+May 6, 1998 v. Traffic Stream (BVI) Infrastructure Limited 
+is reported at 251 F.3d 334 (2d Cir. 2001) (Cert. App. la- 
+7Ta).! 
+
+
+The Memorandum Opinion and Order of the United 
+States District Court for the Southern District of New York 
+in The Chase Manhattan Bank, as Indenture Trustee, under 
+the Indenture, dated as of May 6, 1998 v. Traffic Stream (BVI) 
+Infrastructure Limited is reported at 2000 WL 573232 
+(S.D.N.Y. May 8, 2000) (Cert. App. 8a-14a). 
+
+
+The Opinion and Order of the United States District 
+Court for the Southern District of New York in The Chase 
+Manhattan Bank, as Indenture Trustee, under the Indenture, 
+dated as of May 6, 1998 v. Traffic Stream (BVI) Infrastructure 
+Limited is reported at 86 F. Supp. 2d 244 (S.D.N.Y. 2000) 
+(Cert. App. 15a-54a). 
+
+
+BASIS FOR JURISDICTION 
+
+
+The United States Court of Appeals for the Second 
+Circuit reversed the final judgment of the District Court for - 
+the Southern District of New York on May 24, 2001 (Cert. 
+App. la-7a). On July 24, 2001, the United States Court of 
+Appeals for the Second Circuit denied The JPMorgan Chase 
+Bank’s timely-filed petition for rehearing en banc (Cert. App. 
+
+
+1. References hereinafter to “Cert. App. _” are to pages in the 
+Appendix attached to the Petition for Writ of Certiorari. 
+
+
+2 
+
+
+55a-56a). The petition for a writ of certiorari was filed within 
+90 days from the date of the denial of the petition for 
+rehearing en banc on October 18, 2001. 28 U.S.C. § 2101(c); 
+Sup. Cr. R. 13.3. Certiorari was granted on January 4, 2002. 
+
+
+The jurisdiction of this Court is invoked pursuant to the 
+provisions of 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+United States Constitution, Article III, Section 2: 
+
+
+The judicial Power shall extend to all Cases, 
+in Law and Equity, arising under this Constitution, 
+the Laws of the United States, and Treaties made, 
+or which shall be made, under their Authority; — 
+to all Cases affecting Ambassadors, other public 
+Ministers and Consuls; — to all Cases of 
+admiralty and maritime Jurisdiction; — to 
+Controversies to which the United States shall be 
+a Party; — to Controversies between two or more 
+States; — between a State and Citizens of another 
+State; — between citizens of different States; — 
+between Citizens of the same State claiming Lands 
+under Grants of different States, and between a 
+State, or the Citizens thereof, and foreign States, 
+Citizens or Subjects. 
+
+
+28 U.S.C. § 1332(a): 
+The district courts shall have original 
+
+
+jurisdiction of all civil actions where the matter 
+in controversy exceeds the sum or value of 
+
+
+3 
+
+
+$75,000, exclusive of interest and costs, and is 
+between — 
+
+
+(1) ciizens of different States; 
+
+
+(2) citizens of a State and citizens or 
+subjects of a foreign state; 
+
+
+(3) citizens of different States and in 
+which citizens or subjects of a foreign 
+state are additional parties; and 
+
+
+(4) a foreign state, defined in section 
+1603(a) of this title, as plaintiff and 
+citizens of a State or of different States. 
+
+
+For the purposes of this section, section 1335, and 
+section 1441, an alien admitted to the United 
+States for permanent residence shall be deemed a 
+citizen of the State in which such alien is 
+domiciled. 
+
+
+STATEMENT OF THE CASE 
+
+
+In May 1998, Traffic Stream (BVI) Infrastructure Limited 
+(“Traffic Stream”), a corporation organized under the laws 
+of the Dritish Virgin Islands (JA 8a, 40a),? raised 
+$119,000,000 in the United States debt markets by entering 
+into an Indenture, pursuant to which Traffic Stream issued 
+its 14%% Senior Secured Notes due 2006, to holders of the 
+Notes. The JPMorgan Chase Bank (“Chase”), a corporation 
+existing under and by the laws of the State of New York and 
+
+
+2. References hereinafter to “JA __™ are to pages in the Joint 
+Appendix filed with the Supreme Court. 
+
+
+4 
+
+
+authorized to exercise trust powers, entered into the Indenture 
+with Traffic Stream and agreed to serve as Trustee. (JA 8a). 
+The Indenture states that “[Traffic Stream] irrevocably 
+submits to the jurisdiction of any court of the State of New 
+York or any United States federal court sitting in the Borough 
+of Manhattan, New York «stv, New York, United States. . . .” 
+(JA 85a). 
+
+
+Beginning in January 1999, Traffic Stream committed 
+multiple “Events of Default”, as defined in the Indenture, 
+including the failure to pay the semi-annual interest payment 
+due in May 1999. (JA 16a-20a). Chase commenced this action 
+on June 4, 1999, in the United States District Court for the 
+Southern District of New York, seeking, among other things, 
+a turnover of certain funds in New Yosk that were held as 
+security by Chase, as Trustee, and a deficiency judgment. 
+(JA 23a). Subject matter jurisdiction was based upon 
+the alienage provisions of 28 U.S.C. § 1332. (JA 7a, ¥ 1). 
+Traffic Stream, in its amended answer, admitted jurisdiction 
+(JA 25la, 4 1) and admitted the Events of Default (JA 255a- 
+256a, ¥§ 22-31) but asserted that its obligation to pay any 
+amount under the Indenture was excused based on the 
+impossibility defense (JA 259a-26la, 44 53-64). Chase 
+moved for summary judgment. (2d Cir. App. 196-242).° 
+
+
+Summary judgment was granted by the district court in 
+an opinion and order dated January 31, 2000. Chase 
+Manhattan Bank v. Traffic Stream (BV1) Infrastructure Ltd., 
+86 F. Supp. 2d 244 (S.D.N.Y. 2000) (Hon. Shira Scheindlin) 
+(Cert. App. 15a-54a). The district court ordered Chase 
+to foreclose on the collateral accounts, which exceeded 
+
+
+3. References hereinafter to “2d Cir. App. _” are to pages in 
+the Joint Appendix which was filed in the Second Circuit Court of 
+
+
+Appeals. 
+
+
+ew hee ee Pm 
+
+
+ale etn Ae ee ee Me Cte le Be tee SOE Be ee i OR em 
+
+
+5 
+
+
+forty-seven million dollars, before submitting its proposed 
+deficiency judgment. /d. at 262. The district court issued a 
+second opinion on May 8, 2000, in order to resolve certain 
+disputes about the appropriate deficiency judgment. Chase 
+Manhattan Bank v. Traffic Stream (BVI) Infrastructure Ltd., 
+No. 99 Civ. 4056 (SAS), 2000 WL 573232 (S.D.N.Y. May 8, 
+2000) (Cert. App. 8a-14a). 
+
+
+Traffic Stream appealed to the Second Circuit, raising 
+only the issues regarding the impossibility defense in its brief. 
+At the oral argument before the Second Circuit on December 
+1, 2000, the panel raised sua sponte the issue of whether 
+subject matter jurisdiction ex sted under 28 U.S.C. 
+§ 1332(a)(2) in light of the fact that the defendant Traffic 
+Stream was incorporated in an United Kingdom Overseas 
+Territory, namely the British Virgin Islands. The panel 
+referred the parties to three recent cases in which the Second 
+Circuit had found that residents and corporations from other 
+United Kingdom Overseas Territories, namely Hong Kong 
+(prior to its transfer to the People’s Republic of China) and 
+Bermuda, were not “citizens or subjects of a foreign state” 
+for purposes of alienage jurisdiction.‘ 
+
+
+After the parties submitted supplemental briefing on this 
+issue (JA 256a-269a, 277a-298a and Lodging), the Second 
+Circuit, on May 24, 2001, held that there was no alienage 
+jurisdiction for residents or corporations from the British 
+Virgin Islands because such residents or entities were 
+
+
+4. The three cases were: Matimak Trading Co. v. Khalily, 118 
+F.3d 76 (2d Cir. 1997), cert. denied, 522 U.S. 1091 (1998); Koehler 
+v. Bank of Bermuda (New York) Lid., 209 F.3d 130 (2d Cir.), amended 
+by 229 F.3d 424 (2d Cir.), reh'g en banc denied, 229 F.3d 187 
+(2d Cir. 2000); and Universal Reinsurance Co., Ltd. v. St. Paul Fire 
+& Marine Insurance Co., 224 F.3d 139 (2d Cir. 2000). 
+
+
+6 
+
+
+“stateless” due to the fact that the United States does not 
+regard the British Virgin Islands as an independent, sovereign 
+political entity. (Cert. App. la-7a). The Second Circuit 
+rejected the argument that the residents and corporations from 
+the British Virgin Islands were citizens or subjects of the 
+United Kingdom. The Second Circuit did not address 
+materials that were submitted by Chase which demonstrated 
+the United Kingdom’s and the United States Department of 
+State’s positions that the residents and corporations from the 
+United Kingdom Overseas Territories are citizens or subjects 
+of the United Kingdom, and should be recognized as such 
+for purposes of alienage jurisdiction. The Second Circuit also 
+did not address the overruling of its 1996 decision in 
+Peregrine Myanmar Ltd. v. Segal, 89 F.3d 41, 45 n.4 (2d Cir. 
+1996), which had upheld alienage jurisdiction in a case 
+involving a resident of the British Virgin Islands. 
+
+
+On June 7, 2001, Chase filed a petition for rehearing 
+en banc with the Second Circuit. This petition was denied 
+on July 24, 2001. (JA 6a, Cert. App. 55a-S6a). Chase duly 
+filed its petition for a writ of certiorari on October 18, 2001. 
+On January 4, 2002, this Court granted a writ of certiorari. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Framers of the Constitution (“Framers”) included 
+provisions for alienage jurisdiction of federal courts in Article 
+[Il of the Constitution and the original Judiciary Act of 1789 
+because of concern over issues of foreign policy and 
+international trade.’ In determining that foreign litigants 
+
+
+5. Alienage jurisdiction is distinct from ordinary diversity 
+jurisdiction because alienage jurisdiction implicates issues of foreign 
+relationships and international trade. See Kevin R. — 4 
+
+(Cont'd) 
+
+
+eee ests mutha etl 
+
+
+eh ne leita oleate ented eee 
+
+
+7 
+
+
+should be entitled to bring suit in a neutral federal forum, 
+the Framers had two overarching concerns: first, the 
+prevention of foreign policy entanglements with foreign 
+nations whose citizens believed themselves to have been 
+unfairly treated by a biased state court; and, second, the 
+promotion of foreign investment and trade in the fledgling 
+republic. Over two hundred years later, these concerns are 
+still valid, and indeed, for the past two centuries, the law 
+surrounding alienage jurisdiction was uncontroversial. 
+
+
+This changed in 1997 when a divided panel of the Court 
+of Appeals for the Second Circuit in Matimak Trading Co. v. 
+Khalily, 118 F.3d 76 (2d Cir. 1997), cert. denied, 522 U.S. 
+1091 (1998), held that residents and corporations from Hong 
+Kong, then an United Kingdom Overseas Territory,’ were 
+
+
+(Cont'd) 
+
+Alienage Jurisdiction? Historical Foundations and Modern 
+Justifications for Federal Jurisdiction Over Disputes Involving 
+Noncitizens, 21 Yale J. Int’! L. 1, 4 (1996) (“alienage jurisdiction differs 
+in salient respects from ordinary diversity jurisdiction”). Thus, even those 
+who advocate the withdrawal of ordinary diversity jurisdiction have 
+recognized the necessity of alienage jurisdiction. See, e.g., Henry 
+Friendly, Federal Jurisdiction: A General View 149-50 (1973); Thomas 
+D. Rowe, Jr., Abolishing Diversity Jurisdiction: Positive Side Effects 
+and Potential for Further Reforms, 92 Harv. L. Rev. 963, 966-68 (1979). 
+
+
+6. The United Kingdom Overseas Territories were formerly referred 
+to as the British Dependent Territories. The United Kingdom Overseas 
+Territories presently include Anguilla, Bermuda, British Antarctic 
+Territory, British Indian Ocean Territory, the British Virgin Islands, the 
+Cayman Islands, the Sovereign Base Areas in Cyprus, the Falkland 
+Islands, Gibraltar, Montserrat, the Pitcairn Islands, Saint Helena and 
+dependencies, South Georgia and the South Sandwich Islands, and the 
+Turks and Caicos Islands. See Brief of the Government of the United 
+Kingdom of Great Britain and Northern Ireland as Amicus Curiae in 
+Support of Petitioner, dated November 21, 2001, at 2 n.2. 
+
+
+8 
+
+
+“stateless”, and, thus, not subject to alienage jurisdiction 
+under 28 U.S.C. § 1332(a)(2). In making its ruling, the 
+Second Circuit sought to determine whether, under the 
+law of the United Kingdom, a resident corporation from Hong 
+Kong was a citizen or subject of the United Kingdom. 
+Focusing on only two British statutes (the British Companies 
+Act 1948 and the British Nationality Act 1981), the Matimak 
+court concluded that a Hong Kong corporation was not a 
+citizen or subject of the United Kingdom, and, thus, was 
+stateless because Hong Kong was not recognized as a 
+sovereign state by the United States. The Matimak decision 
+was severely criticized.’ However, in spring 2000, the Second 
+Circuit extended Matimak when it dismissed claims in 
+two cases involving Bermuda corporations and Bermuda 
+individuals, citing Matimak as controlling authority. 
+See Koehler v. Bank of Bermuda (New York) Lid., 209 F.3d 
+130 (2d Cir.), amended by 229 F.3d 424 (2d Cir.), reh'g en 
+banc denied, 229 F.3d 187 (2d Cir. 2000); Universal 
+Reinsurance Co., Ltd. v. St. Paul Fire & Marine Insurance 
+Co., 224 F.3d 139 (2d Cir. 2000). This case follows. 
+
+
+7. See, e.g., Jonathan Shafter, Original Intentions and 
+International Reality: States, Sovereignty, and the Misinterpretation 
+of Alienage Jurisdiction in Matimak v. Khalily, 39 Colum. J. 
+Transnat’! L. 729 (2001); Frank Eric Marchetti, Alienage Jurisdiction 
+Over Stateless Corporations: Revealing the Folly of Matimak Trading 
+Company v. Khalily, 36 San Diego L. Rev. 249 (1999); Jennifer L. 
+Coviello, Access Denied: A Case Comment on Matimak Trading Co. 
+v. Khalily, 18 N.Y.L. Sch. J. Int’l & Comp. L. 435 (1999); Mark 
+Baker, Lost in the Judicial Wilderness: The Stateless Corporation 
+after Matimak Trading, 19 Nw. J. Int’ L. & Bus. 130 (1998); Teresa 
+M. Mozina, Why Is There Any Question? Hong Kong and Alienage 
+Jurisdiction: A Critical Analysis of Matimak Trading Co. v. Khalily 
+and D.A.Y., 10 Pace Int’] L. Rev. 575 (1998). 
+
+
+TT ee ee ee ee 
+
+
+9 
+
+
+As the United Kingdom clearly demonstrates in its 
+amicus brief, the Matimak court, which did not have the 
+benefit of any briefing by the United Kingdom, misinterpreted 
+that country’s law and therefore erred in its holding that there 
+was no legal relationship between the United Kingdom 
+and the residents and corporations of its overseas territories. 
+In extending the Matimak decision to residents and 
+corporations of the British Virgin Islands, the Second Circuit 
+ignored the numerous indicia which demonstrate that 
+residents and corporations of those islands are indeed under 
+the sovereignty of the United Kingdom. In doing so, the 
+Second Circuit refused to extend any deference to the position 
+of the Executive Branch which recognizes that the United 
+Kingdom exercises sovereignty over the British Virgin 
+Islands. 
+
+
+The Matimak decision, in its implementation, violates 
+the Framers’ intent. It creates a clear entanglement with the 
+United States’ closest ally, the United Kingdom, which has 
+issued two Diplomatic Notes protesting the Second Circuit’s 
+decisions. The failure to provide comity and deference to 
+the United Kingdom’s own determination of its subjects 
+has caused difficulties for the United States government. 
+The failure by the judicial branch of the United States 
+government to defer to the Department of State in a matter 
+involving recognition of the United Kingdom’s sovereignty 
+over the British Virgin Islands is equally troubling. Finally, 
+the Matimak line of cases adversely impacts international 
+trade with residents and corporations from United Kingdom 
+Overseas Territories, many of which have become centers 
+for substantial capital markets and other financial transactions 
+involving literally billions of U.S. dollars. The Second 
+Circuit’s decision has a profound impact on thousands of 
+British Virgin Islands companies which have incorporated 
+
+
+10 
+
+
+under the International Business Companies Act to transact 
+business exclusively outside the British Virgin Islands and have 
+raised capital in the capital markets of the United States, as 
+well as on such companies’ creditors. Under all these 
+circumstances, the decision of the Second Circuit should be 
+reversed and alienage jurisdiction upheld. 
+
+
+ARGUMENT 
+I. 
+
+
+THE HISTORICAL BASIS FOR ALIENAGE 
+JURISDICTION AND THE FRAMERS’ INTENT 
+TO ENSURE ALIENS ACCESS TO THE FEDERAL 
+COURTS CONFIRM THE PROPRIETY OF 
+ALIENAGE JURISDICTION IN THIS CASE 
+
+
+Matimak (and the subsequent extension of Matimak to this 
+case) vitiates the very reasons the Framers made specific 
+provision for alienage jurisdiction in the Constitution and the 
+original Judiciary Act of 1789. After the Revolutionary War and 
+prior to the adoption of the Constitution, the state courts, fueled 
+by a mixture of anti-British and anti-creditor sentiment, made 
+it difficult for British creditors to collect debts from local debtors. 
+See Kevin R. Johnson, Why Alienage Jurisdiction? Historical 
+Foundations and Modern Justifications For Federal 
+Jurisdiction Over Disputes Involving Noncitizens, 21 Yale J. 
+Int’! L. 1, 6 (1996). Alienage jurisdiction was seen as a means 
+of addressing this problem by providing foreign litigants with a 
+neutral federal forum. See id. Thus, the Constitution specifically 
+provided that “(t]he judicial Power shall extend ... to 
+Controversies . . . between a State, or the Citizens thereof, and 
+foreign States, Citizens or Subjects.” U.S. Const. art. III, § 2. 
+The writings of the Framers demonstrate that two predominant 
+reasons were the basis for alienage jurisdiction. 
+
+
+ee ve WR 
+
+
+a Me ek. 
+
+
+1] 
+
+
+The first of these reasons was to prevent entanglements 
+with foreign governments that became aggrieved when their 
+citizens were unfairly treated by a less-than-neutral state court 
+either as plaintiff or defendant.* Alexander Hamilton set forth 
+this concern in The Federalist No. 80: 
+
+
+[T]he peace of the WHOLE ought not be left at the 
+disposal of a PART. The Union will undoubtedly be 
+answerable to foreign powers for the conduct of its 
+members. And the responsibility for an injury ought 
+ever to be accompanied with the faculty of 
+preventing it. As the denial or perversion of justice 
+by the sentences of courts, as well as in any other 
+manner, is with reason classed among the just causes 
+of war, it will follow that the federal judiciary ought 
+to have cognizance of all causes in which the citizens 
+of other countries are concerned. This is not less 
+essential to the preservation of the public faith than 
+to the security of the public tranquility. A distinction 
+may perhaps be imagined between cases arising upon 
+treaties and the laws of nations and those which may 
+stand merely on the footing of the municipal law. 
+The former kind may be supposed proper for the 
+federal jurisdiction, the latter for that of the States. 
+But it is at least problematical whether an unjust 
+sentence against a foreigner, where the subject of 
+controversy was wholly relative to the /ex loci, would 
+not, if unredressed, be an aggression upon his 
+sovereign, as well as one which violated the 
+
+
+8. This was especially fitting for the young republic, which 
+found that the state courts’ refusal to allow private British creditors 
+to collect on their debts made it difficult for the new nation to meet 
+its obligations under the Treaty of Paris of 1783. See Johnson, supra, 
+at 8; Marchetti, supra, at 255. 
+
+
+12 
+
+
+stipulations in a treaty or the general law of nations. 
+And astill greater objection to the distinction would 
+result from the immense difficulty, if not 
+impossibility, of a practical discrimination between 
+the cases of one complexion and those of the other. 
+So great a proportion of the cases in which foreigners 
+are parties involve national questions that it is by 
+far most safe and most expedient to refer all those 
+in which they are concerned to the national tribunals. 
+
+
+The Federalist No. 80, at 476-77 ( Alexander Hamilton) (Clinton 
+Rossiter ed., 1961). This foreign relations aspect of alienage 
+jurisdiction is set forth not only in The Federalist, but also in 
+the writings of several of the other Framers. 
+
+
+[T]here is a particular & very cogent reason for 
+securing to foreigners a trial . . . in a federal court. 
+With respect to foreigners, all the states form but 
+one nation. This nation is responsible for the conduct 
+of all its members towards foreign nations, their 
+citizens & subjects; and therefore ought to possess 
+the power of doing justice to the latter. Without this 
+power, a single state, or one of its citizens, might 
+embroil the whole union in a foreign war. 
+
+
+Letter from Timothy Pickering to Charles Tillinghast (Dec. 24, 
+1787), in 14 The Documentary History of the Ratification of 
+the Constitution 204 (1983).° 
+
+
+9. See also 4 Debates in the Several State Conventions on the 
+Adoption of the Federal Constitution 158-59 (Jonathan Elliot ed., 
+1888) (Comments of William Davie of North Carolina); 3 id. at 533- 
+34 (Comments of James Madison of Virginia); 2 id. at 492-93 
+(Comments of James Wilson of Pennsylvania). 
+
+
+13 
+
+
+The second of the major purposes behind alienage 
+jurisdiction was to promote foreign investment in and trade with 
+the fledgling republic. The Framers recognized that the ill 
+treatment of foreigners who sued or were sued in the state courts 
+could discourage foreign investment. James Madison, in 
+particular, noted this aspect of the need for alienage jurisdiction: 
+“We well know, sir, that foreigners cannot get justice done them 
+in [state] courts, and this has prevented many wealthy gentlemen 
+from trading or residing among us.” 3 Elliot, supra, at 583. 
+Such a concern was a clear priority as the United States, at that 
+time, was in an economic crisis largely due to a monetary 
+shortage. E.A.J. Johnson, The Foundations of American 
+Economic Freedom: Government and Enterprise in the Age 
+of Washington 123 (1973); Wythe Holt, The Origins of 
+Alienage Jurisdiction, 14 Okla. City U. L. Rev. 547, 558 (1989) 
+(“[T]he new nation teetered on the brink of economic disaster.’’); 
+see also Jonathan Shafter, Original Intentions and International 
+Reality: States, Sovereignty, and the Misinterpretation of 
+Alienage Jurisdiction in Matimak vy. Khalily, 39 Colum. J. 
+Transnat’! L. 729, 745-47 (2001) (asserting that the economic 
+reasons for alienage jurisdiction were as important to the Framers 
+as the foreign policy reasons). 
+
+
+Moreover, Congress codified this grant of alienage 
+jurisdiction in Section 11 of the Judiciary Act of 1789, which 
+provided for federal court jurisdiction in cases in which 
+“an alien is a party, or the suit is between a citizen of the State 
+where the suit is brought, and a citizen of another. State.” 
+Judiciary Act of 1789, ch. 20, § 11, 1 Stat. 73, 78. Apparently 
+the Framers of the Constitution and drafters of this first Judiciary 
+Act used the terms foreigners and aliens interchangeably when ' 
+referring to non-United States citizens or subjects. Southern 
+Cross Overseas Agencies, Inc. v. Wah Kwong Shipping Group 
+Ltd., 181 F.3d 410, 416 (3d Cir. 1999). 
+
+
+14 - 
+
+
+In 1875, Congress amended the alienage jurisdiction 
+provisions by replacing the term “alien” with the current 
+“citizens or subjects” language. This change, however, was 
+not made in order to narrow.the meaning of “alien”, but rather 
+was intended to have the statute mirror the Constitution in 
+order to make it clear that the federal courts did not have 
+jurisdiction over disputes between aliens. See Johnson, supra, 
+at 21. “[T]}he drafters of the Constitution chose the words 
+‘citizens’ or ‘subjects’ to refer to the broad category of those 
+under the authority of a foreign power.” Koehler, 229 F.3d at 
+191 (Sotomayor, J., dissenting) (citing Bank of the United 
+States v. Deveaux, 9 U.S. (5 Cranch) 61, 87 (1809) (Marshall, 
+C.J.)). 
+
+
+As set forth hereafter at Point III, the Second Circuit’s 
+holding in this case, that the residents and corporations from 
+the British Virgin Islands are “stateless” and unable to 
+participate in a federal forum under the alienage jurisdiction 
+provisions, completely undercuts the express intent of the 
+Framers to prevent foreign entanglements aiid to promote 
+trade. By narrowing the scope of the terms “citizens” and 
+“subjects”, the Second Circuit also contradicts the Framers’ 
+intention and understanding that alienage jurisdiction broadly 
+encompassed all those who were under the authority of a 
+foreign power. In doing so, the Second Circuit has declared 
+literally millions of individuals and corporations around the 
+world to be “stateless”, a situation which would have been 
+incomprehensible to the Framers. 
+
+
+15 
+
+
+THE MATIMAK DECISION IS BASED ON AN 
+INCORRECT INTERPRETATION OF THE LAW 
+OF THE UNITED STATES AND THE UNITED 
+KINGDOM AND SHOULD BE REVERSED 
+
+
+In 1997, after two centuries of alienage jurisprudence,'° 
+a divided panel of the Court of Appeals for the Second Circuit 
+in Matimak Trading Co. v. Khalily held in a case involving a 
+Hong Kong corporation that residents and corporations from 
+the United Kingdom Overseas Territories were “stateless”, 
+and, thus, not subject to alienage jurisdiction under 28 U.S.C. 
+§ 1332(a)(2). 118 F.3d at 88. Judge Altimari, in a strongly 
+worded dissent, concluded that Hong Kong, like the other 
+United Kingdom Overseas Territories, was “inexorably 
+linked” to the United Kingdom and, thus, its residents should 
+
+
+10. The Second Circuit, in Peregrine Myanmar Lid. v. Segal, 
+89 F.3d 41, 45 n.4 (2d Cir. 1996), upheld jurisdiction in an action 
+between a New York corporation and a British Virgin Islands 
+corporation. The sudden change in Matimak, just a year later, was 
+not precipitated by a change in the Judiciary Act or the legal status 
+of United Kingdom Overseas Territory residents by the United 
+Kingdom. Instead, this change was simply a change in interpretation 
+— an interpretation with which all other circuits deciding this issue 
+have disagreed (see, e.g., Southern Cross Overseas Agencies, 181 
+F.3d at 417-19; Wilson v. Humphreys (Cayman) Ltd., 916 F.2d 1239, 
+1242-43 (7th Cir. 1990), cert. denied, 499 U.S. 947 (1991); Koehler 
+v. Dodwell, 152 F.3d 304, 308 (4th Cir. 1998)), and indeed many 
+members of the Second Circuit judiciary disagree (see, e.g., Matimak, 
+118 F.3¢ at 89 (Altimari, J. dissenting); Koehler, 229 F.3d at 187 
+(Judges Sotomayor, Leval and Calabresi dissenting); Koehler, 229 
+F.3d at 424-25 (Judges Cardamone and Newman stating that were 
+the question open, they “would rule that citizens of Bermuda and 
+other British Dependant territories are sufficiently subject to the 
+sovereignty of the United Kingdom to satisfy the alienage clause”’). 
+
+
+16 
+
+
+be considered “citizens or subjects” of the United Kingdom 
+for alienage jurisdiction purposes. /d. at 91-92. 
+
+
+Underlying the majority decision in Matimak was a 
+willingness to broadly apply the concept of “statelessness” 
+to foreign corporations, which was not well supported in the 
+law. While asserting that the “notion of statelessness is now 
+well embedded in international law”, the Matimak court then 
+cited to six cases that only raised “statelessness” issues for 
+individuals. /d. at 86, 87. None of these cases involved 
+corporations.'' The reason for this is simple: as Judge 
+Altimari wrote in his dissent, “[a] stateless corporation is an 
+oxymoron.” /d. at 89. The majority in Matimak failed to 
+acknowledge that corporations are creations of law and, 
+accordingly, failed to correctly analyze the indicia that pertain 
+to a corporation. As Judge Sotomayer noted in her dissent in 
+Koehler, “In such cases, when our Department of State 
+determines that a country is not a sovereign state, the more 
+
+
+11. Kantor v. Wellesley Galleries, Lid., 704 F.2d 1088, 1089- 
+90 (9th Cir. 1983) (involving individual who had his Soviet Union 
+citizenship revoked); Sadat v. Mertes, 615 F.2d 1176, 1178-1181 (7th 
+Cir. 1980) (holding a United States naturalized citizen who claimed 
+dual citizenship and who was living abroad at the time of the suit 
+could not invoke alienage jurisdiction); Standing Rock Sioux Indian 
+Tribe v. Dorgan, 505 F.2d 1135, 1140 (8th Cir. 1974) (in an Eleventh 
+Amendment case, court noted that members of Native American tribes 
+are not state citizens because of the Federal Indian Law of 1972); 
+Shoemaker v. Malaxa, 241 F.2d 129, 129 (2d Cir. 1957) (involving 
+individual who had his Romanian citizenship revoked); Ligi v. 
+Regnery Gateway, Inc., 689 F. Supp. 159, 161-62 (E.D.N.Y. 1988) 
+(involving issue of whether Romanian individual properly revoked 
+his citizenship, jurisdiction upheld); RCA Records v. Hanks, 548 F. 
+Supp. 979, 982 (S.D.N.Y. 1982) (involving issue of whether 
+individual from the Netherlands had revoked his citizenship, 
+jurisdiction upheld). 
+
+
+17 
+
+
+reasonable conclusion is not that its corporations are 
+“stateless,” but rather that they are subject to some other 
+sovereign.” 229 F.3d at 193. By extending “statelessness” 
+concepts for individuals to corporations, the Matimak court’s 
+reasoning was flawed from the outset. 
+
+
+The Second Circuit’s analysis in Matimak began with the 
+principle that the term “foreign state” in 28 U.S.C. § 1332(a)(2) 
+refers only to nations formally recognized by the executive 
+branch. Matimak, 118 F.3d at 79. Since Hong Kong was a British 
+Overseas Territory that was not recognized by the Executive 
+Branch as a “foreign state” unto itself, the Second Circuit 
+concluded that alienage jurisdiction could not be invoked by a 
+“citizen or subject” of Hong Kong.'? /d. at 82-83. The Second 
+Circuit then analyzed whether a corporation or resident of Hong 
+Kong was a “citizen or subject” of the United Kingdom. After 
+first stating that “[w]e begin with the truism that a foreign state 
+is entitled to define who are its citizens and subjects”, the 
+Matimak court then tried to determine whether the United 
+Kingdom considered residents and corporations from its 
+territories as citizens. /d. at 85. Looking at two British statutes, 
+the British Companies Act 1948 and the British Nationality Act 
+1981, the Matimak court concluded that residents and 
+corporations from the United Kingdom’s Overseas Territories 
+were not citizens or subjects of the United Kingdom, and, thus, 
+were stateless. /d. at 85-86. As the United Kingdom has 
+authoritatively pointed out in its subsequent filings and in the 
+
+
+12. The Matimak case concerned a citizen of Hong Kong, which 
+in 1996 was an United Kingdom Overseas Territory. In a case brought 
+in 1999, after Hong Kong became a Special Administrative Region of 
+the People’s Republic of China (the “PRC’’), the district court held that 
+a Hong Kong citizen could now sue or be sued in federal court as a 
+citizen of the PRC. Favour Mind Lid. v. Pacific Shores, Inc., No. 98 
+Civ. 7038(SAS), 1999 WL 1115217 at *6-7 (S.D.N_Y. Dec. 7, 1999). 
+
+
+18 
+
+
+brief it is filing on this appeal, the Matimak court misinterpreted 
+the law of the United Kingdom and improperly applied the 
+British Companies Act 1948 and the British Nationality Act 
+1981. (See L 16-19)."° Equally important, however, the court 
+failed to recognize that the United States had repeatedly 
+recognized the United Kingdom as having sovereignty ove 
+its Overseas Territories. By failing to look first to the position 
+of the United States and the Department of State before 
+attempting an analysis of United Kingdom law, the court was 
+led into error which was compounded by its misreading of 
+United Kingdom law. 
+
+
+The Matimak court regarded a company incorporated 
+under the British Companies Act 1948 (which the Matimak 
+court failed to recognize was replaced by the Companies Act 
+1985) as the paradigm British company for purposes of 
+alienage jurisdiction. Such an interpretation, however, is 
+wrong. The Companies Act that the Matimak court focused 
+on only covered certain law districts of the United Kingdom. 
+The United Kingdom, as an international entity, is composed 
+of multiple law districts. These districts, most of which have 
+their own Companies legislation, not only include England, 
+Wales and Scotland (the areas for which the Companies 
+Act 1985 applies), but also Northern Ireland, each of the 
+Overseas Territories and each of the Crown Dependencies." 
+
+
+13. References hereinafterto“L __” are to pages in the Lodging 
+filed with the Supreme Court. 
+
+
+14. The United Kingdom has explained the concept of law 
+districts: 
+
+
+The United Kingdom consists of a number of law districts 
+for the purpose of conflict of laws. The metropolitan 
+(Cont'd) 
+
+
+19 
+
+
+(L 12, 17-18). The Matimak court improperly elevated the 
+companies legislation of one law district over that of another, 
+rather as if a foreign court were to find a corporation could 
+only properly be called a United States corporation if it were 
+incorporated in Delaware and not in another state. Under the 
+Matimak court’s reasoning, companies from Northern Ireland 
+would also be “stateless” because they are not formed under 
+the British Companies Act 1948 (now 1985) but rather under 
+the company law of Northern Ireland in the Companies 
+(Northern Ireland) Order 1986, No. 1032, ch. 6 (N. Ir.). 
+Of course, such a result is clearly contrary to the United 
+Kingdom’s exercise of sovereignty over such companies. 
+The Matimak court’s reliance on the British Companies Act 
+1948 was, thus, erroneous and misplaced. . 
+
+
+Equally misplaced was the Matimak court’s reliance on 
+the British Nationality Act 1981. Although the Matimak court 
+recognized that this act “applies only to natural persons, not 
+corporations”, it went on to hold that the Nationality Act 
+“distinguishes between citizens of the United Kingdom and 
+
+
+(Cont'd) 
+
+
+United Kingdom consists of three separate law districts: 
+England and Wales, Scotland, and Northern Ireland. 
+The Overseas Territories and Crown Dependencies are 
+each separate law districts. As such, they are entitled to 
+enact their own laws in accordance with their 
+constitutions. These separate law districts have separate 
+laws, but they all belong to one State: the United 
+Kingdom. It follows that, in international law, the United 
+Kingdom Overseas Territories are not independent 
+States, but are parts of the United Kingdom, and are 
+subject to United Kingdom sovereignty. 
+
+
+(L 12). 
+
+
+20 
+
+
+citizens of ‘British Dependant Territories’.” Matimak, 118 
+F.3d at 86. As the United Kingdom has repeatedly pointed 
+out, such a conclusion is wrong. (L 18). 
+
+
+The United Kingdom recognizes six categories of 
+nationality under the British Nationality Act 1981. However, 
+every one of those categories is entitled to the protection of 
+the United Kingdom in the international forum. See United 
+Kingdom Government’s Diplomatic Service Procedure 
+Manual, Vol. 7, Annex 1, § 2 (Mar. 1996) [hereinafter “United 
+Kingdom Diplomatic Service Procedure Manual”] (located 
+at L 31). There is no such category as “citizen of the United 
+Kingdom”, ahd the Matimak court’s reference to such is 
+simply wrong. For purposes of consular protection and 
+international claims, the United Kingdom has defined the 
+term “United Kingdom national,” which includes the citizens 
+of the United Kingdom Overseas Territories. /d. 
+
+
+The fact that one category of nationality provides the 
+right to live in the “metropolitan United Kingdom” (England, 
+Wales, Scotland and Northern Ireland) or in an Overseas 
+Territory while another does not is a matter of United 
+Kingdom immigration policy. Alienage jurisdiction should 
+not turn on categorization or terminology adopted and 
+amended by the United Kingdom. Instead, the Matimak court 
+should have looked to the plethora of indicia that show that 
+residents and corporations from the United Kingdom 
+Overseas Territories are under the sovereignty and protection 
+of the United Kingdom, and, thus, should be considered 
+“citizens or subjects” for alienage jurisdiction purposes." 
+
+
+15. The Court is respectfully referred to the amicus curiae brief 
+of the Government of the United Kingdom of Great Britain and 
+Northern Ireland filed herein for a complete and authoritative 
+discussion of these indicia. 
+
+
+21 
+
+
+There is vast evidence that the United Kingdom is 
+internationally responsible for the residents and corporations 
+from its overseas territories and that such residents and 
+corporations are subject to United Kingdom sovereignty. 
+For example, under the United Kingdom Government’s 
+Diplomatic Service Procedure Manual, the term “United 
+Kingdom national” is defined to include “British Dependent 
+Terntories Citizens” and “[c]ompanies incorporated under the 
+law of the United Kingdom or of any territory for which the 
+United Kingdom is internationally responsible.” United 
+Kingdom Diplomatic Service Procedure Manual, supra, § 2, 
+Rule 1(a)(2) and 1(b) (located at L 31). Further, in the Consular 
+Convention between the United States and the United Kingdom, 
+the term “nationals”, as it regards the United Kingdom, is defined 
+to include “‘all juridical entities duly created under the law of 
+any of [the Overseas Territories.” Consular Convention between 
+United States and the United Kingdom, June 6, 1951, at Art. 2, 
+§ 4(a), 3 U.S.T. 3426. | 
+
+
+The fact that the United Kingdom considers the residents 
+and corporations from its territories as its “nationals” (and that 
+the United States recognizes such in the Consular Convention) 
+should be no surprise when one considers the relationship 
+between the British Virgin Islands and United Kingdom. The 
+Constitution of the British Virgin Islands recognizes that the 
+United Kingdom continues to have sovereignty over that 
+Overseas Territory. See Virgin Islands (Constitution) Order 1976, 
+No. 2145, § 71 [hereinafter “BVI Const.”] (“There is reserved 
+to Her Majesty full power to make laws for the peace, order and 
+good government of the Virgin Islands.”).'° The Governor of 
+
+
+16. The British Virgin Islands (Constitution) Order 1976 is 
+reprinted in Constitutions of Dependencies and Special Sovereignties 
+(Blaustein ed., 1997). 
+
+
+22 
+
+
+the British Virgin Islands, who is appointed by the Queen, is 
+responsible for core government functions including internal 
+security, public service and court administration. (L 20; see 
+also BV1 Const., supra, §§ 3-6, 19). Similarly, any bill passed 
+by the Legislative Council of the British Virgin Islands must 
+be approved by the Governor and the Queen, with such 
+procedure including a careful review by the United 
+Kingdom’s Foreign and Commonwealth Office.'’ (L 20-21; 
+see also BVI Const., supra, § 42). In fact, the members of 
+the Legislative Council must swear or affirm their allegiance 
+to the Crown prior to taking part in any of the Council’s 
+proceedings. BVI Const., supra, § 36. 
+
+
+In the area of law, the final appeal from the courts of the 
+British Virgin Islands is to the Judicial Committee of the 
+Privy Council, which is comprised of members of the House 
+of Lords and senior judges of the United Kingdom and the 
+Commonwealth. Virgin Islands (Appeals to Privy Council 
+Order) 1967 (S.1. 1967 No. 234), as amended by the Anguilla, 
+Montserrat, and Virgin Islands (Supreme Court) Order 1983 
+(S.I. 1983 No. 1108), Article 3; see also Privy Council Office: 
+Judicial Committee, at http://www.privy-council.org.uk/ 
+judicialcommittee/index.htm (last visited Feb. 14, 2002). In 
+addition, barristers who are called to the English, Scottish 
+and Northern Ireland Bar, as well as solicitors, may practice 
+law in the British Virgin Islands provided that they submit 
+proof of their training and pay a fee. See West Indies 
+
+
+17. The oversight of the laws passed by the Legislative Council 
+of the British Virgin Islands is not unique among the United Kingdom 
+Overseas Territories. Judge Sotomayor, in her dissent from the denial 
+of a rehearing en banc in the Koehler case, stated: “All authority to 
+make laws for the ‘peace, order, welfare and good government’ of 
+Bermuda is granted to the Bermuda legislature solely by the United 
+Kingdom, which regulates Bermuda lawmaking.” 229 F.3d at 192. 
+
+
+23 
+
+
+Associated States Supreme Court Act, Chapter 80, § 68 of 
+the laws of the British Virgin Islands. 
+
+
+It is also clear that the United Kingdom controls the 
+foreign policy of the Overseas Territories. The United 
+Kingdom not only provides for the Overseas Territories’ 
+military defense, but also acts on their behalf in regards to 
+foreign diplomatic relations.'* In addition, the United 
+Kingdom not only negotiates international treaties on behalf 
+of the British Virgin Islands, but also executes them on behalf 
+of the British Virgin Islands.'* See, e.g., United Kingdom of 
+Great Britain and Northern Ireland (on Behalf of the British 
+Virgin Islands) and the United States of America: Exchange 
+of Letters Constituting a Narcotics Cooperation Agreement 
+with Respect to the British Virgin Islands, April 14, 1987, 
+1681 U.N.T.S. 28491. 
+
+
+The British Virgin Islands are similarly bound by treaties 
+to which the United Kingdom is a party and which the United 
+Kingdom has extended to the British Virgin Islands. 
+For example, the United Kingdom recently exercised its 
+sovereign authority over the Overseas Territories when the 
+
+
+18. See, e.g., Central Intelligence Agency, The World Factbook: 
+British Virgin Islands (2001), available at http:/www.cia.gov/cia/ 
+publications/factbook/geos/vi.html (listing Diplomatic Representation 
+as “none (overseas territory of UK)” and Military as “defense is the 
+responsibility of the UK”). 
+
+
+19. The oversight of foreign policy interests of the British Virgin 
+Islands is not unique among the United Kingdom Overseas Territories. 
+In Wilson v. Humphrey's (Cayman) Limited the Seventh Circuit, in 
+holding that alienage jurisdiction applied to a company from the 
+Cayman Islands, stated that “(t]he United Kingdom represents 
+
+
+Caymanian diplomatic interests and is responsible for its military , 
+defense.” 916 F.2d at 1242. 
+
+
+24 
+
+
+Queen in Council overrode local legislatures and amended the 
+laws of certain United Kingdom Overseas Territories (including 
+the British Virgin Islands) to fulfill the United Kingdom’s 
+obligations under the European Convention on Human Rights 
+and the United Nations International Covenant on Civil and 
+Political Rights. Associated Press, The British Government 
+Decriminalizes Homosexuality in Caribbean Territories 
+(January 5, 2001). 
+
+
+The British Virgin Islands has stated that its citizens and 
+corporations are subject to the sovereignty of the United 
+Kingdom. The Attorney General for the British Virgin Islands, 
+Cherno S. Jallow, issued a statement, dated February 3, 2000, 
+that fully supports the conclusion that residents and corporations 
+of the British Virgin Islands are subjects of the United Kingdom. 
+(See L 35-36 (“On behalf of the Government of the British Virgin 
+Islands, | fully support the arguments and conclusions presented 
+in the Brief of the United Kingdom.”)). In this instance, where 
+the three relevant entities (the United Kingdom, the British 
+Virgin Islands and the United States) all have opined that the 
+residents of the British Virgin Islands are subjects of the United 
+Kingdom, there can be no reasoned argument which would allow 
+a court to reach a different conclusion. See Favour Mind itd., 
+1999 WL 1115217 at *6-7 & n.12 (holding that corporations 
+from post-reversion Hong Kong were subjects of the PRC based 
+on the uniferm positions of the PRC, Hong Kong Special 
+Administrative Region and the United States). As the Third 
+Circuit wrote in upholding alienage jurisdiction over a Hong 
+Kong corporation post-Matimak, “[w]e do not believe that 
+executive authority in foreign policy matters is limited to the 
+definition of “foreign state” for § 1332 purposes. Executive 
+competence also extends to the definition of “citizens or 
+subjects,” at a minimum in cases where the proper interpretation 
+is unclear and the outcome may affect our foreign policy.” 
+Southern Cross Overseas Agencies, 181 F.3d at 418. 
+
+
+25 
+
+
+a THE NEGATIVE EFFECTS OF MATIMAK 
+ARE CLEAR AND MANDATE REVERSAL 
+IN THIS CASE 
+
+
+A. The Matimak Line of Cases Has Led to a Foreign 
+Entanglement with the United Kingdom and Could 
+Cause Entanglements With Other Allies 
+
+
+The Second Circuit’s opinion in Matimak and its 
+extension to other cases involving other residents and 
+corporations from the United Kingdom Overseas Territories” 
+
+
+20. The courts of the Second Circuit have extended Matimak 
+to other United Kingdom Overseas Territories on at least nine 
+occasions including this one. See, e.g., Koehler, 209 F.3d at 139 
+(dismissing action against Bermuda defendants); Universal 
+Reinsurance Co., Ltd., 224 F.3d at 141 (holding there would be no 
+alienage jurisdiction for a domiciliary of Bermuda); General Star 
+Indem. Co. v. Platinum Indem. Ltd. Bank of Am., No. 00 Civ. 
+4960(LMM), 2001 WL 40763 at *1-2 (S.D.N.Y. Jan. 17, 2001) 
+(holding that there was no subject matter jurisdiction because the 
+defendant is a Bermuda corporation); New Heaven Properties Ltd. v. 
+Grinberg, No. 99 Civ. 11546 (LMM), 2000 WL 64842 at *1-3 
+(S.D.N.Y. Jan. 26, 2000) (dismissing a British Virgin Islands 
+corporation’s complaint); ///] Fin. Ltd. v. Aegis Consumer Funding 
+Group, Inc., No. 99 Civ. 2579(DC), 1999 WL 1080371 at *3-4 
+(S.D.N.Y. Nov. 30, 1999) (granting defendant’s motion to dismiss 
+because the plaintiff was a Cayman Islands corporation); United 
+States Fid. & Guar. Co. v. Braspetro Oil Servs. Co., No. 97 Civ. 
+6124(JGK), 1999 WL 307666 at *3-4 (S.D.N.Y. May 17, 1999) 
+(dismissing action against a Cayman Islands defendant), aff'd, 199 
+F.3d 94 (2d Cir. 1999); Lucky Yeh Int'l, Ltd. v. Happiness Express, 
+Inc., No. 96 Civ. 3365(SJ), 1999 WL 147095 at *3 (E.D.N.Y. March 
+12, 1999) (dismissing Hong Kong corporation’s complaint); Klein v. 
+Marriott Int'l., Inc., 34 F. Supp. 2d 176, 178-80 (S.D.N.Y. 1999) 
+(dismissing complaint against Bermuda defendant). 
+
+
+26 
+
+
+has created an entanglement with one of the United States’ 
+greatest allies, the United Kingdom. The irony of this 
+situation was not lost on Judge Sotomayor in her dissent from 
+the Second Circuit’s refusal to consider the Matimak issue 
+en banc: 
+
+
+Paradoxically, the country we offend by these 
+holdings is not only a strong ally, but the very 
+country the drafters of the alienage jurisdiction 
+provision had in mind more than two hundred 
+years ago when they sought to open the federal 
+courts to foreign litigants. 
+
+
+Koehler, 229 F.3d at 188-89 (Sotomayor, J., dissenting). 
+Indeed, the United States appears as amicus curiae in this 
+matter because of the seriousness of the issues raised by the 
+Matimak holding. 
+
+
+Since Matimak, the United Kingdom has issued two 
+separate Diplomatic Notes that expressed its “concern about 
+a number of judicial decisions which have denied 
+corporations of United Kingdom Overseas Territories access 
+to United States Federal Courts.” See Diplomatic Note No. 
+13/2000 from the British Embassy in Washington, D.C. to 
+the United States State Department, Feb. 2, 2000 at 1 (located 
+at L 29-30) [hereinafter “Feb. 2000 Diplomatic Note”); 
+Diplomatic Note No. 90/2001 from the British Embassy in 
+Washington, D.C. to the United States State Department, Oct. 
+5, 2001 at 1 (attached as Appendix A to the Brief of the 
+Government of the United Kingdom of Great Britain and 
+Northern Ireland as Amicus Curiae in Support of Petitioner, 
+dated November 21, 2001) [hereinafter “Oct. 2001 
+Diplomatic Note”]. The Feb. 2000 Diplomatic Note 
+specifically stated: “The United Kingdom ... views with 
+great concern the potential application of the Matimak 
+
+
+27 
+
+
+rationale to individual Overseas Territories residents, as well 
+
+
+as to commercial enterprises.””' Feb. 2000 Diplomatic Note, 
+supra, at 1. 
+
+
+The United Kingdom, in the two Diplomatic Notes, raises 
+substantial issues of international comity and reciprocity. 
+Both Diplomatic Notes state: 
+
+
+The United Kingdom notes that all corporations 
+validly incorporated under the laws of the United 
+States and its territories are entitled to sue and be 
+sued in the courts of the United Kingdom and its 
+Overseas Territories. As a matter of international 
+comity and reciprocity, the United Kingdom 
+considers that United States Federal Courts should 
+be open to corporations established in United 
+Kingdom Overseas Territories. 
+
+
+See Feb. 2000 Diplomatic Note, supra, at 1; Oct. 2001 
+Diplomatic Note, supra, at 2. In this instance, the United 
+
+
+21. The United Kingdom has proven that it takes this issue very 
+seriously by submitting briefs to various courts that have addressed this 
+issue, asserting that the residents and corporations of the United Kingdom 
+Overseas Territories are its “citizens or subjects”. Besides its submission 
+to this Court of amicus briefs in support of Chase (at both the petition 
+for a writ of certiorari stage and on the merits), the United Kingdom has 
+also submitted amicus briefs in the following matters: (1) in support of 
+a petition for a writ of certiorari to the Supreme Court in Matimak, (2) 
+in support of the plaintiff’s opposition to a motion to dismiss in the 
+matter captioned /// Finance Ltd. v. Aegis Consumer Funding Group, 
+Inc., No. 99 Civ. 2579 (DC) (S.D.N.Y.) (decision rez orted ai 1999 WL 
+1080371 (S.D.N.Y. Nov. 30, 1999)), and (3) in support of appellant in 
+the matter captioned ART 57 Properties, Inc. v. 57 BB Property, L.L.C., 
+No. 99-10385 (Sth Cir.) (affirmance reported at 212 F.3d 596 (Sth Cir. 
+2000)) (see L i-36). 
+
+
+28 
+
+
+Kingdom has clearly explained the proper interpretation of 
+its ly » regarding companies and nationality.” See Brief of 
+the Government of the United Kingdom of Great Britain and 
+Northern Ireland as Amicus Curiae in support of Petitioner, 
+dated February 19, 2002. Deference should be given to a 
+foreign land that provides a court of the United States with 
+an interpretation of its own law. See Jn re Oil Spill by the 
+Amoco Cadiz, 954 F.2d 1279, 1312 (7th Cir. 1992); Jwanowa 
+v. Ford Motor Co., 67 F. Supp. 2d 424, 490 (D.N.J. 1999). 
+This is especially true in matters where a foreign nation has 
+defined its own citizens and subjects. See United States v. 
+Wong Kim Ark, 169 U.S. 649, 668 (1898). (“Nor can it be 
+doubted that it is the inherent right of every independent 
+nation to determine for itself, and according to its own 
+constitution and laws, what classes of persons shall be entitled 
+to its citizenship.”); Autocephalous Greek Orthodox Church 
+of Cyprus v. Goldberg & Feldman Fine Arts, Inc., 917 F.2d 
+278, 285 (7th Cir. 1991) (“Generally accepted test for 
+determining whether a person is a foreign citizen for purposes 
+
+
+of 28 U.S.C. § 1332(a)(2) is whether the country in which - 
+
+
+citizenship is claimed would so recognize him.”). 
+
+
+The United States Department of State has also made 
+multiple submissions to various courts, urging that the 
+
+
+22. The Oct. 2001 Diplomatic Note states: 
+
+
+The United Kingdom believes that Matimak was wrongly 
+decided, primarily because it was based on an incorrect 
+interpretation of United Kingdom company and 
+nationality law, as well as on a misapprehension of the _ 
+constitutional relationship between the United Kingdom 
+and its Overseas Territories. 
+
+
+Oct. 2001 Diplomatic Note, supra, at 1. 
+
+
+29 
+
+
+residents of the United Kingdom Overseas Territories be 
+treated as citizens or subjects of the United Kingdom for 
+purposes of alienage jurisdiction.”* In this instance, where 
+issues of foreign policy are involved, courts should “take 
+heed of the State Department’s position.” Southern Cross 
+Overseas Agencies, 181 F.3d at 418 (“Just as the executive 
+is best positioned to make the determination that recognition 
+of a sovereign is appropriate, the executive is best situated 
+to conclude that Hong Kong was, at the time suit was filed, 
+so closely connected to the United Kingdom that its 
+corporations were United Kingdom subjects.”); see also 
+Regan v. Wald, 468 U.S. 222, 242 (1984) (“Matters relating 
+‘to the conduct of foreign relations ... are so exclusively 
+entrusted to the political branches of government as to be 
+largely immune from judicial inquiry or interference.’”) 
+(quoting Harisiades v. Shaughnessy, 342 U.S. 580, 589 
+(1952)). The reasoning of the court in Southern Cross shows 
+an appreciation of the proper balance between the Executive 
+and the Judiciary in this area: by deferring to the Executive 
+Branch, one avoids the conflict present in this case where 
+the United States recognizes the United Kingdom as the 
+sovereign over the British Virgin Islands, but the Second 
+Circuit does not. 
+
+
+23. Like the United Kingdom, the United States has submitted 
+amicus briefs to this Court in support of Chase at both the petition 
+for a writ of certiorari stage and on the merits. Additionally, the United 
+States submitted an amicus curiae brief to the Second Circuit in the 
+Matimak matter (see Matimak, 118 F.3d at 86 (noting Department of 
+Justice’s position), to the Fifth Circuit in the ART 57 Properties, Inc. 
+matter (see L 37-63) and to the Third Circuit in the Southern Cross 
+Overseas Agencies, Inc. matter (see 181 F.3d at 417 (noting the State 
+Department’s brief)). 
+
+
+30 
+
+
+Although Matimak has only been applied to territories 
+of the United Kingdom, there are other nations which also 
+have overseas territories that would be potentially subject to 
+the same restriction on alienage jurisdiction set forth in 
+Matimak.** One district court in the Second Circuit has 
+recognized that the argument may be extended to corporations 
+and residents of Aruba, which is a Dutch dependency. /narco 
+Int'l. Bank N.V. v. Lazard Freres & Co., No. 97 Civ. 
+0378(DAB), 1998 WL 427618 at *1-2 (S.D.N.Y. July 29, 
+1998) (recognizing that defendant sought to dismiss an 
+Aruban bank’s complaint because Aruba was a Dutch 
+dependency, but then dismissing complaint on another 
+jurisdictional bases). It is very likely that the United States 
+Department of State would receive similar protests from other 
+nations, as the residents and corporations from these other 
+nations’ territories are deemed “stateless”. 
+
+
+By declaring that the residents and corporations from 
+the United Kingdom Overseas Territories are “stateless”, the 
+Matimak decision and its progeny, including the Second 
+Circuit’s decision in this case, have clearly offended the 
+United Kingdom and jeopardized its relations with the United 
+States. Although the Matimak court claimed there was no 
+sovereign to offend (118 F.3d at 87), the position of the United 
+Kingdom in this case shows that the Matimak court was 
+clearly in error. 
+
+
+24. These nations, which also have overseas territories, include 
+France, the Netherlands, Australia, New Zealand, Denmark and 
+Norway. See Brief for the United States as Amicus Curiae Supporting 
+Petitioner, at 9 n.3. 
+
+
+3] 
+
+
+B. The Matimak Line of Decisions Adversely Impacts 
+Commerce 
+
+
+The economic impact of shutting out United Kingdom 
+Overseas Territories residents and corporations from federal 
+court should not be underestimated. The United Kingdom 
+Overseas Territories, like the British Virgin Islands, are 
+emerging economic and financial centers. Because of 
+favorable tax and corporate law, the Overseas Territories have 
+been referred to as “the international equivalent of Delaware 
+or Nevada.” Southern Cross Overseas Agencies, 181 F.3d at 
+416. 
+
+
+For example, almost 500,000 international business 
+companies have been incorporated in the British Virgin 
+Islands since 1984. See AMS Group, British Virgin Islands: 
+More Than Just IBC’s, AMS Group Offshore Update 
+Newsletter (July 2000), available at http://www.amsbvi.com/ 
+149BVImorethanibcs.htm. Each of these companies, by 
+statute, is required to conduct its business outside the British 
+Virgin Islands (except professional contacts with lawyers, 
+accountants, trust companies or investment advisors), so they 
+are all cross-border or multinational corporations. British 
+Virgin Islands International Business Companies Act § 5(1). 
+The Cayman Islands, which has incorporated more than 
+40,000 companies, includes almost 600 banks and trust 
+companies, with assets exceeding $500 billion.** See Central 
+Intelligence Agency, The World Factbook: Cayman Islands 
+(2001), available at http:/www.cia.gov/cia/publications/ 
+factbook/geos/cj.html. In a recent estimate, Bermuda was 
+
+
+25. The Cayman Islands has been referred to as the world’s 
+fifth largest banking center. Suzanne Attewell, Find Your Very Own 
+Island in the Sun, Sunday Times (London), February 10, 2002, 
+features section. 
+
+
+32 
+
+
+stated to be the home of 1,400 insurance companies and 6,824 
+business companies.”° (L 26). 
+
+
+Rather than promote economic investment and trade 
+between the United States and these emerging financial centers, 
+Matimak (and any extension of Matimak) adversely affects it. 
+There is no doubt that under Matimak, a considerable number 
+of foreign entities and individuals are deprived of an opportunity 
+to have their claims heard in federal courts. Even today, foreign 
+entities and individuals still are leery, as the Framers pointed 
+out, of possible partiality on the part of the state courts. 
+See Johnson, supra, at 33 (“Many foreign corporations and 
+business associations have fears similar to those of their British 
+predecessors.”). The ct. 2001 Diplomatic Note from the United 
+Kingdom explicitly notes the adverse economic impact: 
+
+
+The United Kingdom wishes to restate its position 
+that corporations incorporated under the laws of any 
+of its Overseas Territories are subjects of the United 
+Kingdom. The United Kingdom is therefore of the 
+view that such corporations ought to be amenable 
+to the alienage jurisdiction of the United States 
+Federal Courts under 28 U.S.C. § 1332(a)(2), 
+whether as plaintiffs or defendants. Court decisions 
+which fail to recognise such jurisdiction may have a 
+serious detrimental effect on the trading relationship 
+between the United States and the United Kingdom 
+Overseas Territories. 
+
+
+Oct. 2001 Diplomatic Note, supra, at 1-2. 
+
+
+26. The Turks and Caicos Islands, another United Kingdom 
+Overseas Territory, was also estimated to have incorporated 1911 
+insurance companies and 11,000 business companies. (L 26). 
+
+
+33 
+
+
+Although the United Kingdom Overseas Territories are 
+becoming large economic and financial centers, if companies 
+from these territories are unable to avail themselves of 
+alienage jurisdiction and a federal forum, such companies 
+may be less willing to do business in the United States. 
+This is especially problematic when one considers that many 
+commercial contracts and financial instruments, like the 
+Indenture in this case, call for a forum in New York, 
+traditionally the financial center of the United States. 
+Petitioner is trustee under numerous sophisticated debt 
+indentures collectively concerning billions of dollars, which 
+contain consent to jurisdiction clauses similar to the one at 
+issue here, signed by United Kingdom Overseas Corporations 
+as part of major debt offerings issued in this country. 
+Corporations and residents from the United Kingdom 
+Overseas Territories, knowing they cannot avail themselves 
+of the stability and certainty of a federal forum, will be less 
+willing to do business in and with the United States. 
+Moreover, the United States financial institutions who invest 
+billions of dollars in such overseas territories companies will 
+also be reluctant to invest in such entities if they cannot avail 
+themselves of the stability, certainty and uniformity of a 
+federal forum. Such a result further defeats the purposes 
+behind alienage jurisdiction. 
+
+
+*_**# * * 
+
+
+In sum, while the Matimak court properly recognized 
+the need for deference in the interpretation of foreign law 
+and properly identified one of the purposes of alienage 
+jurisdiction (i.e., avoiding foreign policy entanglements), 
+the Matimak court reached a conclusion that is simply 
+wrong. The Matimak court, without the benefit of the 
+United Kingdom’s authoritative briefing, completely 
+
+
+34 
+
+
+misinterpreted the law of the United Kingdom. Through this 
+misinterpretation, the Matimak court created an entanglement 
+with “a strong ally [and] the very country the drafters of the 
+alienage jurisdiction provision had in mind more than two 
+hundred years ago.” Koehler, 229 F.3d at 189 (Sotomayor, 
+J., dissenting). The Matimak decision in its rush to render 
+residents of United Kingdom Overseas Territories “stateless” 
+has “given rise to precisely the sort of damage to foreign 
+relations the statute was meant to avoid.” /d. 
+
+
+In this case, the Second Circuit has inexcusably 
+compounded its error in Matimak by refusing to look at any 
+of the indicia that clearly demonstrate that residents and 
+corporations from the British Virgin Islands are under the 
+sovereignty of the United Kingdom or to accord any weight 
+to the position of the United States in this matter. A review 
+of the Constitution of the British Virgin Islands shows that 
+the United Kingdom retains full sovereignty over the islands, 
+remains responsible for core government functions, and has 
+the right to review all laws passed by a legislature that has 
+sworn its allegiance to the United Kingdom. In light of the 
+foregoing, as Judge Sotomayor has pointed out, “[t]he people 
+of Bermuda [and the other United Kingdom Overseas 
+Territories] would undoubtedly be surprised to learn that they 
+are ‘stateless.”” Jd. at 188. This is especially true for the 
+British Virgin Islands, whose own Attorney General has 
+opined that the residents and corporations are subjects of the 
+United Kingdom. (L 35-36). Defining millions of people and 
+corporations from the United Kingdom’s (and other nation’s) 
+territories as “stateless” contradicts basic notions of western 
+jurisprudence, violates the intent of the Framers of the 
+Constitution, and unsettles an area of law which has been 
+applied without incident for two centuries. 
+
+
+35 
+
+
+CONCLUSION 
+
+
+For all the reasons set forth herein, the decision of the 
+United States Court of Appeals for the Second Circuit should 
+be reversed, and the matter remanded to the Second Circuit 
+for a decision on the merits of Traffic Stream’s appeal. 
+
+
+Dated: February 19, 2002 
+Respectfully submitted, 
+
+
+SARAH L. Reip 
+
+Counsel of Record 
+
+JosepH N. FROEHLICH 
+
+Ke_.tey Dave & Warren LLP 
+101 Park Avenue 
+
+New York, New York 10178 
+(212) 808-7800 
+
+
+Epwarb H. Ticumeuast, III 
+Coupert BrotHers LLP 
+
+1114 Avenue of the Americas 
+New York, New York 10036 
+(212) 626-4400 
+
+
+Attorneys for Petitioner 
+
+

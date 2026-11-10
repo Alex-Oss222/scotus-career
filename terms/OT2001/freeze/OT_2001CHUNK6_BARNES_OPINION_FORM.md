@@ -1,0 +1,7 @@
+# Barnes — form fixed before assignment
+
+One signed opinion states the incorporated statutory punitive-damages bar for both section 504 and Title II, with a remedy-specific notice and contractual-expectations explanation that preserves Franklin compensation and rejects a universal literal-contract remedy code. Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas directly support every proposition and the confined reversal. The statutory chain, limits and remedy form one connected holding; no part split is needed.
+
+Stevens, Ginsburg and Breyer concur only in the judgment on the established municipal-defendant limitation, expressly reaching that narrower ground despite its acknowledged nonpreservation. They withhold the general statutory rationale and do not adopt their original proposed availability rule or punitive-review remand as an operative result. Their separate writing must explain the precise preservation choice and broader-rationale objection. The compensatory judgment and unreviewed liability survive under both grounds.
+
+All nine support reversal of the punitive component; six support the controlling rule. The six full statutory joiners alone are eligible for the lead. The common explanation incorporates Souter's and O'Connor's remedial limit, so no redundant separate writing is created from historical topology. No Stone fallback applies. This form precedes any count or author selection.

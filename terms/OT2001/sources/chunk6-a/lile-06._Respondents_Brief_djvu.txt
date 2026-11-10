@@ -1,0 +1,2229 @@
+Source: https://archive.org/download/micro_IA40385014_0447/micro_IA40385014_0447%2006.%20Respondents%20Brief_djvu.txt
+
+| In The 
+
+
+| CLERK 
+
+
+Supreme Court of the United States- 
+
+
+¢ 
+
+
+DAVID R. MCKUNE, Warden 
+and CHARLES SIMMONS, Secretary, 
+Kansas Department of Corrections, 
+
+
+Petitioners, 
+V. 
+
+
+ROBERT G. LILE, 
+Respondent. 
+
+
+S 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Tenth Circuit 
+
+
+e 
+
+
+BRIEF FOR RESPONDENT 
+* 
+
+
+MatrtHew J. WitTANGeR 
+(Counsel of Record) 
+
+Paut W. Resin 
+
+-- MattHew C. MILier 
+SHoox, Harpy & Bacon L.L.P. 
+10801 Mastin, Suite 1000 
+Overland Park, Kansas 66210 
+Telephone: 913/451-6060 
+Facsimile: 913/451-8879 
+
+
+Counsel for Robert G. Lile 
+
+
+QUESTION PRESENTED 
+
+
+Whether, upon an inmate's invocation of his Fifth 
+Amendment right against self-incrimination, transferring 
+him to maximum security and imposing corresponding 
+sanctions constitutes compulsion? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTION PRESENTED. ..cccsccccscecccscessceses i 
+TABLE OF AUTROOIIEEED oc cccccccccccccccccssesss iv 
+STATEMENT OF THE CASE..............cceseseees 1 
+1. Natewe oF Gre Caee occ ccccccpsesccveseecssesten 1 
+2. Prison Policies and Classifications.............. 1 
+SUMMARY OF THE ARGUMENT ................ 6A 8 
+ABIL ..n cc cccsocesscccsccscencsssseuneeneeee 8 
+
+I. The State’s Operation of SATP Amounts to 
+Unconstitutional Compulsion ................ 8 
+
+A. A Fifth Amendment claim does not 
+require a liberty interest ................ 9 
+
+B. The State penalizes Mr. Lile for invoking 
+his Fifth Amendment rights ............. 14 
+
+C. A bright-line rule is impractical and 
+URNGCSRINY . oo os cccvcccvesceesessechenne 17 
+
+Il. The Prison Conditions in Question Constitute 
+ee ee 20 
+
+A. Fifth Amendment case law does not sup- 
+port the State’s position................. 20 
+
+B. Courts analyze ex post facto and Fifth 
+Amendment claims differently........... 26 
+
+Ill. The Tenth Circuit’s Decision is Consistent with 
+
+
+the History and Origins of the Fifth Amend- 
+TROD. oo vcccesecoeseesecusyessesnnnn nnn 
+
+
+iii 
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+IV. The Factors Set Forth in Turner v. Safley Offer 
+the Best Test of Deference and Reinforce the 
+
+
+Unconstitutionality of SATP ................. 31 
+A. Application of Turner................64.. 32 
+B. Timing of the Turner Application......... 33 
+C. Application of the Turner Factors ........ 34 
+
+
+1. There is a rational connection between 
+SATP and interests in therapy ....... 34 
+
+
+2. There are no other ways for Mr. Lile to 
+exercise his Fifth Amendment rights... 35 
+
+
+3. There will be little impact to the State 
+if it accommodates Mr. Lile’s rights.. 36 
+
+
+4. There are workable alternatives for the 
+
+
+in ccccccececececcecces 37 
+
+V. The State’s Interests Do Not Warrant Denying 
+Mr. Lile His Fifth Amendment Rights........ 38 
+EEE EEE I EOP PEEP EEE EET EE 44 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Allah v. Seiverling, 229 F.3d 220 (3d Cir. 2000)....... 12 
+Asherman v. Meachum, 957 F.2d 978 (2d Cir. 1992) 
+50d0Gkébebesencosuedehasnnsteansoneaseanene: 25, 26, 37 
+Babcock v. White, 102 F.3d 267 (7th Cir. 1996)........ 12 
+Baxter v. Palmigiano, 425 U.S. 308 (1976).......... 23, 26 
+Boyd v. Petsock, 795 F. Supp. 743 (W.D. Pa. 1992) .... 34 
+Brady v. United States, 397 U.S. 742 (1970)........... 41 
+Brooker v. Warden, No. 98-466, 1999 WL 813893 
+EY , Ws ndndvantconeccsusessesceees 28 
+Buise v. Hudkins, 584 F.2d 223 (7th Cir. 1978)..... 11, 18 
+Carlu v. Gunter, 520 F.2d 1293 (ist Cir. 1975) ........ 18 
+Collins v. Youngblood, 497 U.S. 37 (1990)............. 26 
+Estelle v. Smith, 451 U.S. 454 (1981) ..............405. 5 
+Frazier v. DuBois, 922 F.2d 560 (10th Cir. 1990) ...10, 11 
+Furtado v. Bishop, 604 F.2d 80 (Ist Cir. 1979)......... 10 
+Gardner v. Broderick, 392 U.S. 273 (1968)............. 37 
+Garrity v. New Jersey, 385 U.S. 493 (1967)............ 15 
+OD GP GE, Se Ge Ob PD da cicucadssciccccessesss 8 
+Greenholtz v. Inmates of the Nebraska Penal and Cor- 
+rectional Complex, 442 U.S. 1 (1979)...........0045. 43 
+Guilkey v. Holden, 865 F.2d 258, 1988 WL 134526 
+Gas GO GR, TE Ge vc cccsccccecccccsssccscdves 40 
+Hoffman v. United States, 341 U.S. 479 (1951).......... 8 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Jackson v. Cain, 864 F.2d 1235 (5th Cir. 1989) ........ 11 
+Johnson v. New Jersey, 384 U.S. 719 (1966) ............ 8 
+Kansas v. Hendricks, 521 U.S. 346 (1997) .......... 26, 28 
+Kastigar v. United States, 406 U.S. 441 (1972)......... 37 
+Keenan v. Hall, 83 F.3d 1083 (9th Cir. 1996).......... 13 
+Kerr v. Farrey, 95 F.3d 472 (7th Cir. 1996)............ 19 
+Kimberlin v. Quinlan, 199 F.3d 496 (D.C. Cir. 1999) .... 12 
+Lees v. United States, 150 U.S. 476 (1893) ............ 31 
+Lefkowitz v. Cunningham, 431 U.S. 801 (1977)..15, 16, 30 
+Lefkowitz v. Turley, 414 U.S. 70 (1973)............. 15, 16 
+Mace v. Amestoy, 765 F. Supp. 847 (D. Vt. 1991) ..16, 40 
+Malloy v. Hogan, 378 U.S. 1 (1964). ............645. > & 
+Maness v. Meyers, 419 U.S. 449 (1975) ............6.5.. 8 
+McDonald v. Hall, 610 F.2d 16 (1st Cir. 1979) ........ 11 
+McMorrow v. Little, 109 F.3d 432 (1997)......... 2, 5, 38 
+Meachum v. Fano, 427 U.S. 215 (1976).......... 9, 10, 11 
+Meriwether v. Coughlin, 879 F.2d 1037 (2d Cir. 1989) .... 11 
+Minnesota v. Murphy, 465 U.S. 420 (1984)........ passim 
+Mitchell v. United States, 526 U.S. 314 (1999)......... 43 
+Montana v. Fuller, 915 P.2d 809 (Mont. 1996)......... 39 
+Montanye v. Haymes, 427 U.S. 236 (1976).......... 10, 11 
+
+
+Murphy v. Waterfront Comm'n of New York Harbor, 
+ee Ge Ce I hecsccdccnccccecccesscnssccndees 31 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+Neal v. Shimoda, 131 F.3d 818 (9th Cir. 1997)......... 28 
+O'Lone v. Estate of Shabazz, 482 U.S. 342 (1987)...... 33 
+Ohio Adult Parole Authority v. Woodard, 523 U.S. 
+
+Gs + cccncdsddsunseneathadvasnerdanesee passim 
+Olim v. Wakinekona, 461 U.S. 238 (1983) ............. 10 
+Oregon v. Tenbusch, 886 P.2d 1077 (Or. Ct. App. 
+
+FOUEe ccccacncesccesneccescenecesccccescesececoess 40 
+Orellana v. Kyle, 65 F.3d 29 (Sth Cir. 1995)........... 13 
+Pratt v. Rowland, 65 F.3d 802 (9th Cir. 1995)......... 12 
+Reed v. McKune, No. 98-3418, 2000 WL 1278488 (D. 
+
+Ram. Salty GF, FERED oc cccccccccccccccccccescccccces 28 
+Rimmer-Bey v. Brown, 62 F.3d 789 (6th Cir. 1995)..... 13 
+Sandin v. Conner, 515 U.S. 472 (1995)............ passim 
+Seling v. Young, 531 U.S. 250 (2001) ................. 27 
+Shaw v. Murphy, 121 S. Ct. 1475 (2001)........... 33, 35 
+Spevack v. Klein, 385 U.S. 511 (1967).......... 14, 31, 38 
+State v. Lile, 699 P.2d 456 (Kan. 1985) ................ 1 
+Tedder v. Francke, 931 F.2d 897, 1991 WL 65497 (9th 
+
+COR BOR BE, Beeeie ce ccsccccccccccccccccscsoesecees 40 
+Thornburgh v. Abbott, 490 U.S. 401 (1989)............ 33 
+Turner v. Safley, 482 U.S. 78 (1987) .............. passim 
+
+
+Ullmann v. United States, 350 U.S. 422 (1956) ..... 30, 37 
+
+
+Uniformed Sanitation Men Ass‘n, Inc. v. Commis- 
+sioner of Sanitation, 392 U.S. 280 (1968)............ 15 
+
+
+vii 
+TABLE OF AUTHORITIES - Continued 
+Page 
+United States v. Parker, 903 F.2d 91 (2d Cir. 1990) .... 42 
+United States v. Rogers, 921 F.2d 975 (10th Cir. 1990) .... 43 
+
+
+United States v. Wade, 388 U.S. 218 (1967) ........... 30 
+Vermont v. Cate, 683 A.2d 1010 (Vt. 1996)............ 40 
+Washington v. Harper, 494 U.S. 210 (1990)............ 32 
+
+
+ConstTiTuTION & STATUTES 
+
+
+Se I GE Wondcdincwacidcenesesaccencs passim 
+a A I i 39 
+Ram. Stat. Amn. 21-SI0G(GMe) ... 2... cece cece cccccs 39 
+ey ee ers inc cid eavdwsincncaedce 6 
+ey SD A SP actccaveeececncddddeseenssces 38 
+Ry. Rev. Stat. Amm. § 197.460. ........ccccccccccceces 41 
+Gee, AG Glee. Bile. DOG... cc cccccccccccccseess 6 
+
+
+STATEMENT OF THE CASE 
+1. Nature of the Case. 
+
+
+Respondent Robert Lile is an inmate in medium secu- 
+rity at the Lansing Correctional Facility in Lansing, Kan- 
+sas. He refuses to incriminate himself by participating in 
+Kansas’ sexual abuse treatment program (“SATP”). The 
+State violates Mr. Lile’s Fifth Amendment right against 
+self-incrimination because it demands incriminating 
+information. The State, despite contending that SATP is 
+voluntary, compels such admissions by threatening sanc- 
+tions.' Mr. Lile can choose to admit crimes and face 
+prosecution or remain quiet and be punished for his 
+silence. 
+
+
+2. Prison Policies and Classifications. 
+
+
+Mr. Lile was convicted of rape, aggravated sodomy, 
+and aggravated kidnapping in 1983. State v. Lile, 699 P.2d 
+456, 457 (Kan. 1985). Mr. Lile pled not guilty and testified 
+at trial. Because Mr. Lile was convicted of a sex offense, 
+the State added SATP to his Inmate Program Agreement 
+
+
+' Mr. Lile also objected to the State’s use of penile 
+plethysmograph testing in SATP. The State's penile 
+plethysmograph testing involves “a pressure-sensitive ring 
+which is placed around a subject’s penis to measure and record 
+increases in penis size in response to various audio recordings 
+of projective sexual scenarios presented from the perspective of 
+a person committing a sexual offense.” Petitioners’ Appendix 
+(“Pet. App.”) 47a. Mr. Lile argued that this intrusion violated his 
+right to privacy. Id. The District Court disagreed, Pet. App. 54a, 
+and the Tenth Circuit found Mr. Lile’s claim moot once it found 
+in his favor on his Fifth Amendment claim. Pet. App. 32a. 
+
+
+in 1994. Pet. App. 3a-4a. As part of SATP, the State 
+demanded that Mr. Lile sign a form entitled “Admission 
+of Guilt” which acknowledges that he committed the 
+crimes for which he is in prison. Joint Appendix (“J.A.”) 
+30.? 
+
+
+The State also provided Mr. Lile with an “Abbrevi- 
+ated Sexual History Form,” which asked him to list every 
+victim “you have molested or otherwise offended 
+against.” J.A. 32-33. The form also asked Mr. Lile to “[b]e 
+sure and list every different act you did with this vic- 
+tim(s). Did you have any intercourse, oral sex, digital 
+penetration and/or any other combination, etc.” J.A. 32. 
+The form also asked for the victim’s name, age, relation- 
+ship to the inmate, and where the act occurred, and “to be 
+explicit in detail... . ” J.A. 32. In case he needed to 
+catalog additional sexual offenses, the State provided 
+additional forms. J.A. 32. If Mr. Lile had completed this 
+sexual history form, the State would then have checked 
+his statements through polygraph testing. Pet. App. 35a. 
+
+
+When Mr. Lile invoked his Fifth Amendment rights 
+and refused to sign the forms, he automatically became 
+subject to the State’s Internal Management Policy and 
+Procedure system (“IMPP”). Under the terms of IMPP, 
+Mr. Lile would have moved from Level III to Level | 
+because of his invocation. J.A. 19; Petitioners’ Brief (“Pet. 
+Brief”) 6. Transfer to Level I is mandatory for an inmate 
+who refuses to participate in “recommended programs.” 
+
+
+2 Asa result of Mr. Lile’s lawsuit, the State changed the title 
+of its “Admission of Guilt” form to “Admission of 
+Responsibility” and added that SATP was a volvsiary program. 
+Pet. App. 34a. 
+
+
+J.A. 19. This is the same sanction imposed for anyone 
+who, while in prison, is charged with a felony or receives 
+a disciplinary conviction for theft, arson, assault, battery, 
+or an aggravated sexual act. J.A. 19-20. 
+
+
+Inmates moved from Level III to Level I receive the 
+following sanctions: (1) they are limited to what they may 
+keep in their cell; (2) they are ineligible to participate in 
+certain prison programming and activities; (3) they can- 
+not receive authorization to send out more than $30.00 
+per pay period; (4) they are limited to how much they can 
+spend at the canteen; (5) they are limited to how much 
+they can earn per day; and (6) the State restricts their 
+Visitation (i.e., instead of receiving visits from anyone, 
+inmates kept at Level I can only receive visits from attor- 
+neys, clergy, law enforcement officials, and immediate 
+family). J.A. 27-28. 
+
+
+Petitioner Charles Simmons, the Secretary of the 
+State’s Department of Corrections, acknowledges that 
+transfer to Level I is punishment: 
+
+
+Q. Are inmates who don’t obey the rules at the 
+Lansing Correctional Facility punished? 
+
+
+A. Yes. 
+
+
+Q. And how - in what ways are they pun- 
+ished? 
+
+
+A. Well, they’re — depends on the classification 
+of the disciplinary rule that they violate. 
+There are three classifications. Level I is the 
+- or Severity Level I is the most severe 
+violations and Level III the least severe, and 
+
+
+there are sanctions that go with each of 
+these. 
+
+
+J.A. 91. 
+
+
+Not only did Mr. Lile face a move to Level I, he also 
+would have been moved from medium security to maxi- 
+mum security. Pet. Brief 6-7. Mr. Lile has fairly free move- 
+ment within his medium security unit; he maintains a key 
+to his cell and can move throughout his unit between 5:30 
+p.m. and 8 p.m. J.A. 42-43. In maximum security, the State 
+restricts this movement. J.A. 42. He would be permitted 
+to leave his cell only for scheduled programs, work, 
+meals, or for previously scheduled time in the prison 
+library or grounds. J.A. 42. 
+
+
+Petitioner Simmons recognizes that a transfer to max- 
+imum security is punishment: 
+
+
+Q. So you would agree, then, that a change ina 
+person’s housing inside the institution is 
+used as a form of punishment? 
+
+
+A. Through the disciplinary process, it is, yes. 
+
+
+* * * 
+
+
+Q. Has anyone - have you ever had an inmate 
+who was punished in the disciplinary sys- 
+tem by being moved from a medium secu- 
+rity facility . . . to a maximum security 
+facility? 
+
+
+A. Very definitely. A serious disciplinary viola- 
+tion will —- we use the term “bust your cus- 
+tody.” It will cost you your custody. And by 
+our classification procedure, you get suffi- 
+cient points with that disciplinary violation 
+that it will result in your classification being 
+
+
+moved from minimum to maybe even maxi- 
+mum security, but certainly from medium 
+to maximum if you get that sort of disci- 
+plinary violation. 
+
+
+J.A. 92, 94. Moreover, the State admits violence or danger 
+is more likely in maximum security because “more vio- 
+lent inmates” are housed there. J.A. 96-97. 
+
+
++ 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The Fifth Amendment provides that “[n]o per- 
+son .. . Shall be compelled in any criminal case to be a 
+witness against himself.” U.S. Const. amend V. It guaran- 
+tees a person's right “to remain silent unless he chooses 
+to speak in the unfettered exercise of his own will, and to 
+suffer no penalty . . . for such silence.” Estelle v. Smith, 451 
+U.S. 454, 468 (1981) (quoting Malloy v. Hogan, 378 U.S. 1, 8 
+(1964) (emphasis added)). 
+
+
+The State suggests that SATP does not violate the 
+Fifth Amendment because it is a voluntary program. It 
+makes this assertion while at the same time acknowledg- 
+ing that should Mr. Lile invoke his Fifth Amendment 
+rights, the State will transfer him to maximum security 
+and punish him with penalties imposed for only the 
+“most severe violations” in prison. When applied to 
+inmates outside SATP, these sanctions are viewed as pun- 
+ishments; when someone in SATP invokes his constitu- 
+tional rights, the State suggests that these same 
+punishments are merely the State’s way of encouraging 
+participation. 
+
+
+Indeed, Mr. Lile would like to participate in SATP 
+today. He has participated in prison programs before and 
+has benefitted from them. But for Mr. Lile to participate 
+to the State’s satisfaction in SATP, he must admit that he 
+committed the crimes for which he was convicted, 
+despite his insistence that he is not guilty. Furthermore, 
+he must list, in exacting detail, all other sexual offenses 
+fot.which he has never been charged. The State would 
+then gauge the veracity of any such statements through 
+polygraph testing. 
+
+
+If Mr. Lile states that he committed the crime for 
+which he was convicted, the State can prosecute him for 
+perjury. He would also lose any chance he might have for 
+a new trial based upon newly-discovered evidence. If he 
+admits to any previously uncharged sexual offense 
+involving a child, prison officials must report him. 
+
+
+The State concedes that it seeks incriminating infor- 
+mation from Mr. Lile. It attempts to minimize this by 
+making two points, both flawed. The first is that, to the 
+best of its knowledge, the State has never prosecuted 
+anyone for a previously unreported crime (although the 
+State has conceded that it will report any prosecutable 
+information). Pet. App. 7a.> The second is that SATP is 
+
+
+* Whether an inmate has been charged or prosecuted for 
+previously undisclosed crimes is irrelevant. See Pet. Brief. 4. 
+Perhaps no inmate in SATP has ever committed a sexual offense 
+for which he is not currently incarcerated. Perhaps no inmate 
+has decided to be open with such information. The critical point 
+is that the State seeks this incriminating information, and, if it 
+gets it, the State has no discretion in deciding whether to report 
+it. See Kan. Stat. Ann. 38-1522 (2000). See also Op. Kan. Att’y 
+Gen. No. 94-67 (clarifying any ambiguities within this statute by 
+
+
+not designed to uncover such information, but is directed 
+at the notion that sexual offender therapy cannot be 
+beneficial unless the prisoner admits responsibility. 
+
+
+There are workable solutions that would enable the 
+State to meet its goals of rehabilitation. As both the 
+District Court and Tenth Circuit ruled, the State can 
+immunize Mr. Lile for any incriminating statements he 
+makes. This protection would ensure the candid exchange 
+that the State claims it needs for SATP. Then, if Mr. Lile 
+chose not to participate, the State could exact the penal- 
+ties they seek here. 
+
+
+Alternatively, the State could place all sex offenders 
+in maximum security and Level I the moment they arrive 
+at prison. If an inmate wanted to better his situation, he 
+could take part in SATP. Doing so might mean that the 
+inmate could move to Level III and minimum or medium 
+security, thereby eliminating the punitive nature of SATP. 
+
+
+Both solutions would uphold the Constitution and 
+allow the State to operate SATP to achieve its stated goals 
+of rehabilitation, without exacting any penalty for Mr. 
+Lile’s invocation of his Fifth Amendment rights. The 
+Tenth Circuit’s decision was correct, and Mr. Lile respect- 
+fully requests that this Court affirm it. 
+
+
+S 
+
+
+stating that a psychologist employed at a state treatment facility 
+must report any disclosures and communications made during 
+a .vurt-ordered examination by a convicted sex offender 
+regarding the sex offender's suspected sexual abuse or 
+molestation of a child). J.A. 167. 
+
+
+ARGUMENT 
+
+
+I. The State’s Operation of SATP Amounts to Uncon- 
+stitutional Compulsion. 
+
+
+The Fifth Amendment right against self-incrimina- 
+tion is “the mainstay of our adversary system of criminal 
+justice.” Johnson v. New Jersey, 384 U.S. 719, 729 (1966). It 
+is to be “broadly applied and generously implemented in 
+accordance with the teaching of the history of the privi- 
+lege and its great office in mankind’s battle for freedom.” 
+In re Gault, 387 U.S. 1, 50 (1967); see also Maness v. Meyers, 
+419 U.S. 449, 461 (1975) (“This Cow _aas always broadly 
+construed its protection to assure that an individual is not 
+compelled to produce evidence which later may be used 
+against him as an accused in a criminal action.”). 
+
+
+Mr. Lile agrees with the State that this case hinges on 
+whether the State’s system of sanctions amounts to 
+unconstitutional compulsion under the Fifth Amendment. 
+Hoffman v. United States, 341 U.S. 479, 486 (1951) (quoting 
+Feldman v. United States, 322 U.S. 487, 489 (1944)) (cita- 
+tions omitted) (“This guarantee against testimonial com- 
+pulsion, like other provisions of the Bill of Rights, must 
+be accorded liberal construction in favor of the right it 
+was intended to secure.”). 
+
+
+In this case, Mr. Lile faces compulsion. The State 
+demands participation in SATP and, at the same time, 
+demands that Mr. Lile surrender his Fifth Amendment 
+rights. It forces compliance through sanctions and the 
+real prospect of personal violence. This Court should not 
+permit the State to punish inmates like Mr. Lile, espe- 
+cially when simple alternatives exist that would not only 
+
+
+preserve the Fifth Amendment but improve the efficiency 
+of SATP. 
+
+
+A. A Fifth Amendment claim does not require a 
+liberty interest. 
+
+
+The State argues that this Court should employ its 
+liberty interest test under the Due Process Clause of the 
+Fourteenth Amendment from Sandin v. Conner, 515 U.S. 
+472 (1995), when analyzing “compulsion” within the self- 
+incrimination privilege of the Fifth Amendment. In 
+Sandin, this Court held that prison segregation does not 
+rise to the level of a protected liberty interest under the 
+Due Process Clause unless it imposes “atypical” and “sig- 
+nificant” hardships on the inmate in relation to the ordi- 
+nary incidents of prison life. Id. at 486. 
+
+
+This Court in Sandin reasserted its central holding 
+from Meachum v. Fano, 427 U.S. 215 (1976), that the Due 
+Process Clause of the Fourteenth Amendment does not 
+require a hearing before a prisoner is transferred from 
+one state prison to another having harsher conditions, 
+unless a state law or practice creates a liberty interest in 
+continued confinement at the first prison. Sandin, 515 US. 
+at 483. Leaping from Sandin’s due process analysis to self- 
+incrimination, the State, in turn, urges that “the touch- 
+stone for unconstitutional compulsion in the prison set- 
+ting is the imposition of atypical hardships.” Pet. Brief 15. 
+Courts considering analogous claims have reached the 
+opposite conclusion. 
+
+
+For example, in analyzing Meachum, the First Circuit 
+Court of Appeals declined to rely on the dicta cited by 
+the State in its brief that “prison officials have discretion 
+
+
+10 
+
+
+to transfer [prisoners] for whatever reason or no reason at 
+all.” Furtado v. Bishop, 604 F.2d 80, 87 n.6 (ist Cir. 1979). 
+The court explained that “we understand this statement 
+to describe the applicable Massachusetts law in that case 
+and not to constitute a pronouncement that a transfer can 
+never violate the Constitution.” Id. The court in Furtado 
+held that nothing in this Court’s due process decisions 
+“expressly ruled out a challenge to a transfer to segrega- 
+tion on the ground that it violated constitutional rights 
+other than the right to procedural due process of law.” Id. 
+at 87. 
+
+
+In fact, in the sister case to Meachum that was before 
+this Court at the same time, Montanye v. Haymes, 427 U.S. 
+236 (1976), this Court noted that “[a]s long as the condi- 
+tions or degree of confinement to which the prisoner is 
+subjected is within the sentence imposed upon him and is 
+not otherwise violative of the Constitution, the Due Process 
+Clause does not in itself subject an inmate's treatment by 
+prison authorities to judicial oversight.” Id. at 242 
+(emphasis added); see also Olim v. Wakinekona, 461 U.S. 
+238, 248 n.9 (1983) (citing Montanye, this Court reiterated 
+that a state may place an-inmate in any penal institution 
+unless “the reason for confining the inmate in a particular 
+institution is constitutionally impermissible”). 
+
+
+Other courts have interpreted Meachum similarly. As 
+the Tenth Circuit Court of Appeals noted in Frazier v. 
+DuBois, “Meachum addressed only the Due Process 
+Clause, and it did not preclude the possibility that a 
+transfer might violate other constitutional provisions.” 
+922 F.2d 560, 561 (10th Cir. 1990). 
+
+
+11 
+
+
+“While a prisoner enjoys no constitutional right 
+to remain in a particular institution and gener- 
+ally is not entitled to due process protections 
+prior to such a transfer, prison officials do not 
+have the discretion to punish an inmate for exer- 
+cising his first amendment rights by transferring 
+him to a different institution.” 
+
+
+Id. at 561-62 (citing Murphy v. Missouri Dep't of Corr., 769 
+F.2d 502, 503 (8th Cir. 1985)).4 
+
+
+In Buise v. Hudkins, 584 F.2d 223 (7th Cir. 1978), an 
+inmate claimed that the state transferred him to another, 
+less desirable prison because he was performing legal 
+services for other inmates. As the State does in its brief, 
+Indiana argued that it could transfer an inmate “for what- 
+ever reason or for no reason at all.” The Seventh Circuit 
+disagreed, noting that “while plaintiff may not have a 
+due process interest or expectation in remaining at the 
+
+
+4 See also Meriwether v. Coughlin, 879 F.2d 1037, 1045 (2d Cir. 
+1989) (citing Meachum and Montanye, the court stated that while 
+officials have discretion to transfer prisoners, “[t]hey may not, 
+however, transfer them solely in retaliation for the exercise of 
+their constitutional rights.”); Jackson v. Cain, 864 F.2d 1235, 1248 
+n.3 (Sth Cir. 1989) (“It is important to note that the prison 
+officials could have transferred Jackson to any job for almost 
+any reason or no reason at all, and he would have had no claim. 
+But while this decision may be arbitrary, it may not be 
+retaliatory against Jackson's exercise of constitutional rights.” ); 
+McDonald v. Hall, 610 F.2d 16, 18 (1st Cir. 1979) (holding that “[a]} 
+prisoner does not have a right to a hearing before being 
+transferred; indeed he can be transferred for no reason at all... . 
+However, he may nevertheless establish a claim under § 1983 if 
+the decision to transfer him was made by reason of his exercise 
+of constitutionally protected First Amendment freedoms, . . . “). 
+
+
+12 
+
+
+same institution, he does have a First Amendment inter- 
+est or expectation in not being punished for the exercise 
+of activity protected under that provision.” Id. at 229-30. 
+See also Kimberlin v. Quinlan, 199 F.3d 496, 501 (D.C. Cir. 
+1999) (“Sandin did not change the law regarding whether 
+a prison official violates a prisoner’s right under the First 
+Amendment by segregating the prisoner because of the 
+content of a prisoner's communication with the 
+media... . ”).° 
+
+
+As the discussion above illustrates, the State’s asser- 
+tion that a liberty interest under the Due Process Clause 
+must be at stake in order to find any constitutional viola- 
+tion has been repeatedly rejected by courts considering 
+that issue. Most compelling, though, is the passage in 
+Sandin that rejects just such an assertion: 
+
+
+Prisoners such as Conner, of course, retain other 
+protection from arbitrary state action even within 
+the expected conditions of confinement. They may 
+invoke the First and Eighth Amendments and the 
+Equal Protection Clause of the Fourteenth Amend- 
+ment where appropriate, and may draw upon 
+internal prison grievance procedures and state 
+judicial review where available. 
+
+
+Sandin, 515 U.S. 472, 487 n.11. 
+
+
+5 See also Allah v. Seiverling, 229 F.3d 220, 224 (3d Cir. 2000) 
+(rejecting attempt to extend Sandin to non-due process claim: 
+“Nor does Sandin preclude Allah’s claim alleging that he was 
+kept in administrative segregation in retaliation for filing civil 
+rights suits against prison officials. . . . Retaliation may be 
+actionable, however, even when that the retaliatory action does 
+not involve a liberty interest.”); Babcock v. White, 102 F.3d 267, 
+275 (7th Cir. 1996); Pratt v. Rowland, 65 F.3d 802, 806-807 (9th Cir. 
+1995). 
+
+
+13 
+
+
+Notwithstanding this Court’s own conclusion that its 
+Sandin test will not apply to claims beyond the realm of 
+the Due Process Clause, the State cites Sandin to support 
+its assertion that: “Changing or withholding prison privi- 
+leges in which an inmate has no constitutionally pro- 
+tected liberty interest, or subjecting an inmate to prison 
+conditions that are not atypical, generally cannot violate 
+the Constitution.” Pet. Brief 11. The Tenth Circuit rightly 
+rejected the State’s attempt to expand Sandin’s liberty 
+interest test to the arena of the self-incrimination privi- 
+lege: “[NJowhere in the relevant jurisprudence does the 
+Supreme Court even hint that an individual attempting to 
+show a violation of his Fifth Amendment privilege must 
+have a protected liberty interest for compulsion to occur.” 
+Pet. App. 14a. 
+
+
+Because many lawsuits filed by prisoners involve 
+allegations of multiple constitutional violations, courts 
+have separately analyzed the due process claims under 
+Sandin but reviewed the non-due process claims accord- 
+ing to this Court’s past rulings on those individual 
+claims.® The Tenth Circuit accordingly noted: “From our 
+
+
+© See, e.g., Keenan v. Hall, 83 F.3d 1083 (9th Cir. 1996) 
+(analyzing due process claim under Sandin, examining First 
+Amendment and Eighth Amendment claims without resorting 
+to Sandin); Orellana v. Kyle, 65 F.3d 29, 32 (5th Cir. 1995) 
+(analyzing prisoner's due process claim under Sandin but not 
+analyzing his claim of a violation of the ex post facto clause under 
+Sandin, stating “while, as Sandin noted, prisoners retain 
+constitutional remedies under the Fifst and Eighth 
+Amendments and the Equal Protection Clause of the Fourteenth 
+Amendment, .. . the ambit of their potential Fourteenth 
+Amendment due process liberty claims has been dramatically 
+narrowed.”); Rimmer-Bey v. Brown, 62 F.3d 789, 791 n.4 (6th Cir. 
+
+
+14 
+
+
+review of the cases, Sandin has not been expressly used to 
+analyze any kind of constitutional right claimed by a 
+prisoner other than a due process violation.” Pet. Brief 
+14a. 
+
+
+Even one of this Court’s most recent decisions on the 
+Fifth Amendment underscores the State’s misplaced 
+reliance on Sandin. This Court’s 1998 decision in Ohio 
+Adult Parole Authority v. Woodard, 523 U.S. 272, 283 (1998), 
+involved both a due process claim and a Fifth Amend- 
+ment self-incrimination claim raised in the context of a 
+prison setting. This Court used Sandin solely for its anal- 
+ysis of the due process claim, not for Mr. Woodard’s Fifth 
+Amendment claim of self-incrimination. The Woodard 
+Court might have reasoned that because Mr. Woodard 
+had no liberty interest in clemency, there was no self- 
+incrimination violation, but it did not. 
+
+
+There is no precedent, nor any reason, for this Court 
+to adopt a liberty interest standard for Fifth Amendment 
+claims. 
+
+
+B. The State penalizes Mr. Lile for invoking his 
+Fifth Amendment rights. 
+
+
+The sanctions involved are plainly penalties. As this 
+Court explained in Spevack v. Klein, 385 U.S. 511, 515 
+(1967), “ ‘penalty’ is not restricted to fine or imprison- 
+ment. It means, as we said in Griffin v. California, the 
+imposition of any sanction which makes the assertion of 
+the Fifth Amendment privilege ‘costly.’” See also 
+
+
+1995) (using Sandin to analyze procedural due process claim but 
+not for prisoner's substantive due process claim). 
+
+
+15 
+
+
+Lefkowitz v. Turley, 414 U.S. 70, 82 (1973) (holding that 
+penalties include the loss of employment); Uniformed San- 
+itation Men Ass'n, Inc. v. Commissioner of Sanitation, 392 
+U.S. 280, 283-85 (1968) (holding that discharge for invok- 
+ing right against self-incrimination impaired Fifth 
+Amendment privilege); Garrity v. New Jersey, 385 U.S. 493, 
+500 (1967) (holding that penalty of discharge for reliance 
+on right to remain silent compelled policemen’s incrimi- 
+nating testimony because it foreclosed a free choice to 
+remain silent); Lefkowitz v. Cunningham, 431 U.S. 801, 808 
+(1977) (depriving attorney of position as an unpaid politi- 
+cal party officer would “impinge on his right to partici- 
+pate in private, voluntary political associations”). 
+
+
+The Fifth Amendment would have a different place 
+in jurisprudence and history if its protections were potent 
+only in the face of torture. See infra, Section III. This Court 
+has explained that a “free and voluntary” statement 
+“must not be extracted by any sort of threats or violence, 
+nor obtained by any direct or implied promises, however 
+slight, nor by the exertion of any improper influence.” 
+Malloy v. Hogan, 378 U.S. 1, 7 (1964) (quoting Bram v. 
+United States, 168 U.S. 532, 542-43 (1897)). 
+
+
+The State acknowledges that this Court has found 
+Fifth Amendment violations even though torture and 
+imprisonment were not involved, but it attempts to dis- 
+tinguish those cases by suggesting that its interests over- 
+ride those of Mr. Lile. This Court has rejected similar 
+claims made by government officials. See Turley, 414 U.S. 
+at 78 (“claims of overriding interests are not unusual in 
+Fifth Amendment litigation and they have not fared 
+well”). 
+
+
+16 
+
+
+In fact, in Cunningham, Chief Justice Burger, speaking 
+for the Court, repeated the reasoning from Turley that the 
+Fifth Amendment privilege against self-incrimination will 
+rarely, if ever, yield to an overriding government interest: 
+
+
+We have already rejected the notion that citizens 
+may be forced to incriminate themselves 
+because it serves a government need. Govern- 
+ment has a compelling interest in maintaining 
+an honest police force and civil service, but this 
+Court did not permit those interests to justify 
+infringement of Fifth Amendment rights in Gar- 
+rity, Gardner, and Sanitation Men, where alterna- 
+tive methods of promoting state aims were no 
+more apparent than here. 
+
+
+Cunningham, 431 U.S. at 803 (citations omitted). 
+
+
+The State suggests that because Mr. Lile is an inmate, 
+this Court must review his Fifth Amendment claim under 
+a lesser standard. However, the State's interest in Mace v. 
+Amestoy, 765 F. Supp. 847 (D. Vt. 1991), identical to the 
+one claimed here, did not fare well: 
+
+
+[T]he state’s rehabilitative purpose in compel- 
+ling [Mace] to admit [his crimes] . . . is mis- 
+placed, because what is at issue is the 
+disclosure, not the purpose of the disclosure. 
+Certainly the state has a legitimate rehabilitative 
+purpose in demanding full disclosure, but that 
+does not make the disclosure any less incrimi- 
+nating. 
+
+
+Mace, 765 F. Supp. at 852. 
+
+
+If Mr. Lile’s status as an inmate changes this Court's 
+Fifth Amendment analysis, this Court's decision in Turner 
+v. Safley, 482 U.S. 78 (1987), aptly addresses this. The 
+
+
+17 
+
+
+State’s concern that Mr. Lile’s claims should be viewed 
+differently because of his status as an inmate is handled 
+ably by this Court’s four-factored analysis set forth in 
+Turner. See infra, Section IV. 
+
+
+C. A bright-line rule is impractical and unnecessary. 
+
+
+The State urges this Court to set a bright-line rule so 
+prison officials may run their programs without fear of 
+litigation. The State asks this Court to adopt a “liberty 
+interest” standard from Sandin and apply it to self-incrim- 
+ination claims in a prison. 
+
+
+The State criticizes the Tenth Circuit’s ruling for 
+adding unwanted “new layers” to Sandin. Pet. Brief 22. 
+However, because Sandin involved a due process viola- 
+tion and Mr. Lile did not raise any due process claims, 
+there cannot be any “new layers” added to Sandin. More- 
+over, a bright-line rule under which constitutional viola- 
+tions could not exist in prison absent a finding of a liberty 
+interest contradicts Sandin. Again, even though the 
+inmate had no liberty interest to support his due process 
+claim, he would still be able to “invoke the First and 
+Eighth Amendments and the Equal Protection Clause of 
+the Fourteenth Amendment where appropriate .. . ,” 
+he could “draw upon internal prison grievance pro- 
+cedures and state judicial review where available.” 
+Sandin, 515 U.S. at 487 n.11 (1995). 
+
+
+and 
+
+
+Arguing that a liberty interest rule is especially 
+appropriate when the sanctions imposed upon Mr. Lile 
+are nonpunitive, the State forgets that its sanctions are 
+
+
+18 
+
+
+punitive.? Moving Mr. Lile to maximum security and 
+Level I is punishment, and the State’s witnesses concede 
+that important fact. J.A. 91-92, 94, 96-97. The State also 
+recognizes the high value inmates place on a preferred 
+housing assignment in the prison, lending even further 
+weight that a housing assignment can be coercive of an 
+inmate’s decision to waive his Fifth Amendment rights 
+and enter into SATP. In a March 23, 1995, internal mem- 
+orandum to all prisoners, Petitioner McKune wrote: 
+
+
+Indeed, the Medium Facility has long been rec- 
+ognizec as a preferred housing location for 
+inmates with medium custody due in part to the 
+nice gymnasium, open yard area, and the indi- 
+vidual rooms within the pods K-L-M Units. It 
+seems quite reasonable to expect that inmates 
+who are responsible enough to live there to be 
+responsible enough to participate in their pro- 
+gram agreements and or program plans. 
+
+
+J.A. 83. 
+
+
+7 Allowing the State to determine whether its actions are 
+“punitive” for considerations of the Fifth Amendment is self- 
+serving, and this Court should look beyond such transparent 
+labels. See, e.g., Buise v. Hudkins, 584 F.2d 223, 229 n.8 (7th Cir. 
+1978) (“The test for whether a transfer is sufficiently punitive 
+would not be whether the prison officials deemed it punitive. 
+Rather it would be an inquiry into, among other things, the 
+relative conditions in the institutions and the harm of 
+dislocation itself, and how the inmate perceived them.”); Carlo 
+v. Gunter, 520 F.2d 1293, 1294 (1st Cir. 1975) (“The fact that [the 
+inmate's] transfer was denominated an administrative 
+reclassification rather than a punitive transfer is of no moment 
+where the impact on the inmate is the same.”). 
+
+
+—_——~ 
+
+
+19 
+
+
+In Kerr v. Farrey, 95 F.3d 472, 479-80 (7th Cir. 1996), 
+prison officials transferred an inmate from a minimum- 
+security facility to a medium-security facility for refusing 
+to participate in a Narcotics Anonymous (“NA”) reha- 
+bilitation program. The Seventh Circuit ruled that “signif- 
+icant penalties” were meted out by the prison because the 
+inmate raised First Amendment freedom of religion 
+objections to the prison’s NA program and refused to 
+participate in the rehabilitative program: 
+
+
+On the record as it comes to us, it is also undis- 
+puted that [the inmate] was subject to signifi- 
+cant penalties if he refused to attend the NA 
+meetings: classification to a higher security risk 
+category and adverse notations in his prison 
+record that could affect his chances for parole. 
+
+
+Kerr, 95 F.3d at 479 (emphasis added). The Seventh Cir- 
+cuit said that it “easily” found the State was “coercing” 
+the inmate to enter into the rehabilitation program. Id. 
+Mr. Lile is coerced no less by the State. 
+
+
+The State asks for a workable test to protect its ability 
+to administer SATP and other prison programs.® This 
+Court has provided such a framework in Turner. If the 
+prison maintains a program that impinges upon constitu- 
+tional rights, it may still operate that program “if it is 
+reasonably related to legitimate penological interests.” 
+Turner, 482 U.S. at 89. This is the best approach to a 
+
+
+8 The State wrongly suggests that the Tenth Circuit's 
+decision could undermine its ability to administer “other 
+programs” in the prison. The State has never presented 
+evidence that other prison programs like alcohol and narcotic 
+rehabilitation or GED training require an admission of guilt or 
+confession of uncharged offenses. 
+
+
+20 
+
+
+constitutional claim in the penal system. There are hun- 
+dreds of prisons in the country and even more organized 
+programs within those facilities. These programs have 
+different goals and interests and will attempt to achieve 
+those goals through different ways. There should be no 
+“bright-line” or “one-size-fits-all” constitutional test here. 
+The Turner analysis provides the flexibility needed for 
+challenged prison regulations, while giving appropriate 
+deference to prison officials. 
+
+
+Il. The Prison Conditions in Question Constitute 
+Compulsion. 
+
+
+A. Fifth Amendment case law does not support 
+the State’s position. 
+
+
+In Ohio Adult Parole Authority v. Woodard, 523 U.S. 272 
+(1998), this Court determined that Ohio’s clemency pro- 
+cedures for death row inmates did not violate the Fifth 
+Amendment right against self-incrimination. In Woodard, 
+an inmate sentenced to death in Ohio could request a 
+clemency hearing 45 days prior to his scheduled date of 
+execution. Id. at 276. Before that hearing, the inmate 
+could meet with a parole board member for an interview. 
+Id. at 277. 
+
+
+Mr. Woodard objected that the voluntary interview 
+violated his Fifth Amendment rights because it did not 
+permit him to bring counsel or grant him immunity for 
+his statements. Id. at 285. This Court, though it assumed 
+that parole officials would draw adverse inferences from 
+his silence, ruled that this clemency interview was volun- 
+tary. Id. at 286. 
+
+
+21 
+
+
+Here, respondent has the same choice of provid- 
+ing information to the Authority — at the risk of 
+damaging his case for clemency or for post- 
+conviction relief - or of remaining silent. But 
+this pressure to speak in the hope of improving 
+his chance of being granted clemency does not 
+make the interview compelled. 
+
+
+Id. at 287-88 (emphasis added). 
+
+
+It was also important that Ohio was under no obliga- 
+tion to offer any such clemency review to death row 
+inmates. Ohio’s constitution “gives the Governor the 
+power to grant clemency upon such conditions as he 
+thinks proper.” Id. at 276. If Ohio wanted to base clem- 
+ency soley on what the governor and his advisor thought, 
+the constitution would not be offended. That Ohio sought 
+to do more - to extend a sizeable benefit to inmates - 
+distinguishes Woodard from the present case. 
+
+
+In SATP, the State imposes penalties rather than 
+offering benefits. Inmates who participate subject them- 
+selves to additional criminal charges and are kept in the 
+same level and place in the prison. Those who do not 
+participate are punished - sent to maximum security and 
+dropped to Level I. Woodard cannot justify the sanctions 
+imposed by the State for not participating in SATP.? 
+
+
+The State is stunned that the Tenth Circuit ruled 
+SATP unconstitutional when this Court found no Fifth 
+
+
+° If the State wants to rely on Woodard, it should make 
+participation in SATP truly voluntary, without sanctions, and 
+allow inmates to better their position in prison with promised 
+benefits, not threatened punishments. See infra, Section IV.c. 
+
+
+22 
+
+
+Amendment violation in Woodard even though Mr. Wood- 
+ard faced a loss of life. Pet. Brief 23-24. Undoubtedly, 
+there can be no argument that suffering a transfer to 
+maximum security and resultant sanctions pale in com- 
+parison to the loss of life. However, while this is a dra- 
+matic claim, the State ignores that Mr. Woodard would 
+have received a possible benefit for participating in the 
+clemency interview. The Tenth Circuit correctly noted 
+that Mr. Woodard could improve his stay if he took part in 
+the interview, and, even if he did not take part, clemency 
+did not hinge on this refusal. Pet. App. 20a-21a. Mr. Lile 
+receives no incentive to participate in SATP; instead, he is 
+punished for invoking the Fifth Amendment.'° 
+
+
+The Tenth Circuit also correctly distinguished Minne- 
+sota v. Murphy, 465 U.S. 420 (1984), finding that Mr. Mur- 
+phy was not required to disclose incriminating 
+information. Pet. App. 22a. In Murphy, this Court found 
+no Fifth Amendment violation because Mr. Murphy never 
+invoked his Fifth Amendment privilege against self- 
+incrimination, but spoke freely: 
+
+
+Thus it is that a witness confronted with ques- 
+tions that the government should reasonably 
+expect to elicit incriminating evidence must 
+assert the privilege rather than answer if he 
+desires not to incriminate himself. . . . [I]f he 
+
+
+10 Furthermore, Mr. Woodard, despite his unwillingness to 
+participate in a clemency interview, was still considered for 
+clemency through Ohio’s clemency review process. Woodard, 
+523 U.S. at 276. In fact, at stake for Mr. Woodard was not the loss 
+of his life, but rather, as this Court noted, the loss of the 
+opportunity to “improve his chances of being granted 
+clemency.” Id. at 287-88. 
+
+
+i 
+
+
+23 
+
+
+chooses to answer, his choice is considered to be 
+voluntary since he was free to claim the privi- 
+
+
+lege and would suffer no penalty as a result of his 
+decision to do so. 
+
+
+Id. at 429 (emphasis added). 
+
+
+The State argues that “atypical prison conditions” 
+should be the touchstone of compulsion analysis, citing 
+Murphy for its proposition that a “threat of revocation of 
+parole” does not “amount to unconstitutional compul- 
+sion.” Pet. Brief 12. The State, however, misreads Murphy, 
+which held just the opposite: 
+
+
+Our decisions have made clear that the State 
+could not constitutionally carry out a threat to 
+revoke probation for the legitimate exercise of 
+the Fifth Amendment privilege. It is not surpris- 
+ing, then, that neither the State court nor any 
+State officer has suggested otherwise. Indeed, in 
+its brief in this Court, the State submits that it 
+would not, and legally could not, revoke proba- 
+tion for refusing to answer questions calling for 
+information that would incriminate in separate 
+criminal proceedings. 
+
+
+Murphy, 465 U.S. at 438. 
+
+
+Mr. Murphy’s situation was dramatically different 
+than Mr. Lile’s because Mr. Murphy never invoked his 
+rights. In contrast, Mr. Lile invoked his rights, refused to 
+sign the Admission of Guilt or to catalog his prior 
+offenses, and chose to remain silent. 
+
+
+Similarly, in Baxter v. Palmigiano, 425 U.S. 308 (1976), 
+Mr. Palmigiano was not punished solely for his refusal to 
+testify at his disciplinary hearing. Instead, the disciplin- 
+ary board merely weighed his silence against him: 
+
+
+24 
+
+
+[A] prison inmate in Rhode Island electing to 
+remain silent during his disciplinary hearing, as 
+respondent Palmigiano did here, is not in conse- 
+quence of his silence automatically found guilty 
+of the infraction with which he has been 
+charged. . . . It is thus undisputed that an 
+inmate’s silence in and of itself is insufficient ' 
+support an adverse decision by the Disciplinary 
+board. 
+
+
+Id. at 317. The Tenth Circuit was correct in suggesting that 
+Mr. Lile’s claim was substantially different than Mr. Pal- 
+migiano’s. Pet. App. 19a. Mr. Lile’s refusal to provide 
+incriminating information automatically results in a trans- 
+fer to maximum security and other sanctions; there is no 
+other possible result. 
+
+
+The State urges that it is not Mr. Lile’s invocation 
+alone that leads to transfer, but the fact that he is (1) a 
+convicted sex offender (2) who should participate in 
+SATP but (3) who refuses to give away his Fifth Amend- 
+ment rights. It is this combination of factors that leads to 
+sanctions. Pet. Brief 26. The reasoning is specious; one’s 
+status as a convicted sex offender would thereby subject 
+the inmate to any and all recommended programs, no 
+matter how awful their constitutional infirmities. 
+
+
+Furthermore, the State’s notion that it punished Mr. 
+Lile because of his refusal to participate in programming 
+and not because he invoked his rights is not supported by 
+the facts of this case. The State seeks the right to self-label 
+its own conduct so that it can get around the constitu- 
+tional violation. The Tenth Circuit rejected this argument. 
+
+
+—_- 
+
+
+OMA be ee 
+
+
+25 
+
+
+Pet. App. 19a (“Plaintiff's refusal to submit to the interroga- 
+tion — to disclose the required information about his sex- 
+ual history - standing alone, would certainly result in the 
+transfer to [maximum security] and the corresponding 
+loss and restrictions of many privileges.”) (emphasis 
+added); Pet. Brief 20a (the State “would impose sanctions 
+solely because Plaintiff wishes to remain silent and 
+invoke his Fifth Amendment right against self-incrimina- 
+re. | 
+
+
+The State’s reliance on McMorrow v. Little, 109 F.3d 
+432, 436 (8th Cir. 1997), is similarly misplaced. In McMor- 
+row, the court found no violation because the law regard- 
+ing Mr. McMorrow’s claims was not clearly established at 
+the time of the alleged violation; as a result, qualified 
+immunity protected prison officials. Id. at 434, 436. More- 
+over, the court noted that Mr. McMorrow’s complaint 
+stated that he was being sanctioned for refusing to admit 
+guilt, not because of his invocation of rights. Id. at 436." 
+In the present case, the State acknowledges that Mr. Lile’s 
+claims arise because he has invoked his Fifth Amendment 
+rights. Pet. Brief 2. 
+
+
+Similarly, Asherman v. Meachum, 957 F.2d 978 (2d Cir. 
+1992) is equally distinguishable. Mr. Asherman was not 
+told or threatened at the time he asserted his Fifth 
+Amendment right that he would lose his home release 
+status if he refused to answer questions about his crime; a 
+prison disciplinary board decided this only after he 
+
+
+"! Also in McMorrow, the sanctions imposed upon were 
+truly incentives. Had he participated in SATP, he could have 
+become eligible for work release and for “less restrictive 
+confinement.” McMorrow, 109 F.3d at 434. 
+
+
+26 
+
+
+refused to incriminate himself. Id. at 980-81. “In pursuing 
+the inquiry, the Commissioner took no action to impair 
+Asherman’s self-incrimination privilege.” Id. at 983. 
+Unlike the state in Asherman, the State readily concedes 
+that, for Mr. Lile, any refusal to answer incriminating 
+questions during SATP will automatically result in losing 
+his security level and will be moved to Level I.'? 
+
+
+B. Courts analyze ex post facto and Fifth Amend- 
+ment claims differently. 
+
+
+The ex post facto clause concerns laws that “retroac- 
+tively alter the definition of crimes or increase the pun- 
+ishment for criminal acts.” Collins v. Youngblood, 497 U.S. 
+37, 43 (1990). The State suggests that what is considered 
+“punishment” under the ex post facto clause should also 
+be considered punishment for purposes of the Fifth 
+Amendment. Because Mr. Lile’s sentence is not increased 
+because of invoking his Fifth Amendment rights, the 
+State suggests he has suffered no punishment. 
+
+
+The State relies upon Kansas v. Hendricks, 521 U.S. 346 
+(1997), in which this Court rejected both double jeopardy 
+and ex post facto claims. In its analysis of Mr. Hendricks’ 
+
+
+12 Asherman and McMorrow (as well as Murphy, Baxter, and 
+Woodard) are further distinguishable from Mr. Lile’s case 
+because the sole issue in each was the requirement that they 
+discuss only the underlying crime for which they had been 
+convicted - not other past offenses that they had not been 
+charged with. Because of the sexual offense history form in the 
+SATP, Mr. Lile faces a far more incriminating situation and far 
+more severe penalties of additional time to serve if the State 
+prosecutes him for any uncharged offenses listed on his sexual 
+history form. 
+
+
+te ee oR. _. eet on Fee 
+
+
+27 
+
+
+double jeopardy claim, this Court noted that the Double 
+Jeopardy Clause prohibits the state from “punishing 
+twice, or attempting a second time to punish criminally, 
+for the same offense.” Id. at 369 (citing to Witte v. United 
+States, 515 U.S. 389, 396 (1995)). This Court rejected Mr. 
+Hendricks’ double jeopardy claim, because the civil com- 
+mitment proceedings did not amount to a second pros- 
+ecution; as a result, there could be no second punishment 
+or possibility for additional criminal time. Id. at 369-70. 
+Having determined there was no additional prosecution 
+or punishment possible, this Court dismissed the ex post 
+facto claim. Id. at 370-71; see also Seling v. Young, 531 U.S. 
+250 (2001) (rejecting inmate’s double jeopardy and ex post 
+facto claims regarding Washington’s sexually violent 
+predator statute). 
+
+
+The State concludes, apparently, that so long as an 
+inmate’s sentence is not extended, there can be no “pun- 
+ishment.” Accordingly, the State believes it may change 
+the nature of the prisoner’s confinement with impunity 
+once he invokes his Fifth Amendment rights. All it may 
+not do is keep him in prison for a longer period of time. 
+
+
+Yet, this Court has never held that a prisoner’s Fifth 
+Amendment rights are so circumscribed,'* and the cases 
+
+
+'* This Court in Murphy specifically noted that a person’s 
+Fifth Amendment rights are not affected by the fact he is in 
+prison: 
+
+A defendant does not lose this protection by reason of 
+
+his conviction of a crime; notwithstanding that a 
+
+defendant is imprisoned or on probation at the time he 
+
+makes the incriminating statements, if those statements 
+
+are compelled they are inadmissible in a subsequent 
+
+
+28 
+
+
+that the State cites do not support this reading of the Fifth 
+Amendment. The court in Reed v. McKune, No. 98-3418, 
+2000 WL 1278488, at *7-8 (D. Kan. July 17, 2000), rejected 
+the inmate’s ex post facto and Fifth Amendment chal- 
+lenges to SATP. It did not, however, dismiss the inmate's 
+Fifth Amendment claim under the theory that what is 
+punishment for the ex post facto clause is punishment for 
+Fifth Amendment claims. Id. 
+
+
+Similarly, in Neal v. Shimoda, 131 F.3d 818, 827 (9th 
+Cir. 1997), the Ninth Circuit, relying upon Hendricks, 
+found no ex post facto violation regarding Hawaii's sex 
+offender treatment program. The court also rejected 
+plaintiffs’ Fifth Amendment claim, but not because the 
+inmates faced no possibility of additional time in prison 
+as a result of their invocation. Id. at 833. There was no 
+Fifth Amendment claim, the court ruled, because the state 
+conceded that no incriminating statements could be used 
+against the inmates in a future criminal proceeding, nor 
+were the inmates required to admit unreported crimes. Id. 
+at 833 & n.18. Similarly, in Brooker v. Warden, No. 98-466, 
+1999 WL 813893 (D.N.H. June 22, 1999), the court rejected 
+the inmate’s ex post facto and Fifth Amendment claims, 
+but did so for different reasons, not because it considered 
+additional prison time the barometer for the claims.'* 
+
+
+trial for a crime other than that for which he has been 
+convicted. 
+
+
+465 U.S. at 426 (emphasis added). 
+
+
+14 Indeed, the court’s analysis in Brooker supports Mr. Lile’s 
+claim here. Mr. Brooker took part in sex offender treatment in 
+the hope that he would reduce his security status and increase 
+his chances for parole. The court found that this did not amount 
+to a Fifth Amendment violation. Brooker, 1999 WL 813893, at "5 
+
+
+Oe ee 
+
+
+ee ee ee eee ey 
+
+
+: ee a ee ee ee 
+
+
+29 
+
+
+Just as the State asks for a bright-line rule based 
+upon a liberty interest analysis, it once again asks for 
+another rule that says “punishment” can only take but 
+one form - additional time served. Whether it be through 
+a liberty interest or ex post facto analysis, the State’s 
+insistence on a bright-line rule for Fifth Amendment 
+claims is troublesome. If the Court adopts such a rule in 
+this case, it may encourage the State to pursue incriminat- 
+ing information from any inmate it chooses. 
+
+
+Working from its belief that an admission of guilt is 
+beneficial to an inmate’s rehabilitation, the State could 
+begin asking other inmates to admit they committed the 
+crime for which they are in prison as well as all other 
+reported crimes. For example, the State could require all 
+those inmates who committed a violent crime to enroll in 
+an anger management class. Part of the class would 
+require admissions such as the State seeks here. If the 
+inmates do not participate, the State could punish them in 
+
+
+any fashion short of an atypical hardship or increased 
+prison time. 
+
+
+Mr. Lile agrees that the penalties at issue will not 
+extend his time in prison. Neither will they affect his 
+eligibility for parole. However, there is nothing in this 
+Court’s decisions, and none in those decisions cited by 
+the State, that suggests that what is punishment for ex 
+post facto claims should be the same as a penalty under 
+the Fifth Amendment. 
+
+
+(“Offering the possibility of earning a benefit is certainly an 
+incentive to participate, but it is not coercion. In other words, 
+the possibility of parole is a carrot, not a stick.”). 
+
+
+30 
+
+
+Ill. The Tenth Circuit’s Decision is Consistent with the 
+History and Origins of the Fifth Amendment. 
+
+
+The State’s argument that the Tenth Circuit’s decision 
+does not comport with the history and origins of the Fifth 
+Amendment is baseless. Under its view, only those pun- 
+ishments akin to “incarceration, banishment, or mutila- 
+tion” would constitute impermissible compulsion. Pet. 
+Brief 30-31. Contrary to the State’s position, “(t]he roots 
+of the privilege are deeper than the rack and the screw 
+used to extort confessions. They go to the nature of a free 
+man and to his relationship to the state.” United States v. 
+Wade, 388 U.S. 218, 261 (1967) (Fortas, J., concurring in 
+part and dissenting in part). Indeed, this Court noted in 
+Ullmann v. United States, 350 U.S. 422 (1956), that the 
+privilege against self-incrimination “was aimed at a more 
+far-reaching evil - a recurrence of the Inquisition and the 
+Star Chamber, even if not in their stark brutality.” Id- at 
+
+
+427-28. 
+
+
+Courts routinely apply the Fifth Amendment to pun- 
+ishments of all varieties. As this Court noted in Lefkowitz 
+v. Cunningham, 431 U.S. 801, 806 (1977), “the touchstone 
+of the Fifth Amendment is compulsion, and direct eco- 
+nomic sanctions and imprisonment are not the only pen- 
+alties capable of forciag the self-incrimination which the 
+Amendment forbids.” 
+
+
+The privilege serves many important purposes: 
+
+
+It reflects many of our fundamental values and 
+most noble aspirations: our unwillingness to 
+subject those suspected of crime to the cruel 
+trilemma of self-accusation, perjury or con- 
+tempt; our preference for an accusatorial rather 
+
+
+Ot Poe tale ee 
+
+
+Pe ee ee ee ee 
+
+
+id riety dn di 
+
+
+31 
+
+
+than an inquisitorial system of criminal justice; 
+our fear that self-incriminating statements will 
+be elicited by inhumane treatment and abuses: 
+our sense of fair play . . . our distrust of self- 
+deprecatory statements; and our realization that 
+the privilege, while sometimes “a shelter to the 
+guilty,” is often “a protection to the innocent.” 
+
+
+Murphy v. Waterfront Comm'n of New York Harbor, 378 U.S. 
+52, 55 (1964) (citations omitted). 
+
+
+‘This Court unhe ‘tatingly applies the privilege 
+against self-incrimination to compulsions likely deemed 
+trifling in a day of banishment or mutilation. In Spevack v. 
+Klein, 385 U.S. 511 (1967), for example, this Court deter- 
+mined that “[t]he threat of disbarment and the loss of 
+professional standing, professional reputation, and of 
+livelihood” constituted compulsion sufficient to uphold 
+the invocation of the Fifth Amendment. Id. at 516. See also 
+Lees v. United States, 150 U.S. 476, 480-81 (1893) (applying 
+Fifth Amendment privilege against self-incrimination to 
+$1,000 penalty for importation of illegal aliens). 
+
+
+To Mr. Lile, the sanctions threatened by the State 
+make the assertion of his privilege costly. A Fifth Amend- 
+ment that protects only against dismemberment or ban- 
+ishment is of little present value to our democracy. 
+
+
+IV. The Factors Set Forth in Turner v. Safley Offer the 
+Best Test of Deference and Reinforce the Uncon- 
+Stitutionality of SATP. 
+
+
+| Mr. Lile agrees that prison officials, faced with man- 
+aging the most difficult section of society, deserve some 
+deference in the decisions they make and programs they 
+
+
+32 
+
+
+conduct. Mr. Lile also agrees that Turner v. Safley, 482 US. 
+78 (1987), creates a unique standard of review for consti- 
+tutional violations relating to rehabilitative prison pro- 
+gramming. However, it is unclear what level of 
+deferential review the State would like this Court to 
+employ when reviewing the constitutional claims of 
+inmates. 
+
+
+A. Application of Turner. 
+
+
+When the State argues that Turner makes sense only 
+when dealing with prison regulations affecting the First 
+Amendment, Pet. Brief 36, the State overlooks the follow- 
+ing pronouncement of this Court: 
+
+
+Our earlier determination to adopt this standard 
+of review was based upon the need to reconcile 
+our longstanding adherence to the principle that 
+inmates retain at least some constitutional rights 
+despite incarceration with the recognition that 
+prison authorities are best equipped to make 
+difficult decisions regarding prison administra- 
+tion. . .. We made quite clear that the standard 
+of review we adopted in Turner applies to all 
+circumstances in which the needs of prison 
+administration implicate constitutional rights. 
+
+
+Washington v. Harper, 494 U.S. 210, 223-24 (1990) 
+(emphasis added). 
+
+
+Mr. Lile agrees with the State that this Court has 
+never ruled that the application of factors from Turner is 
+required to determine whether a state’s program is rea- 
+sonably related to its avowed interest in rehabilitation. 
+This Court has suggested, however, that what Turner did, 
+
+
+Oe ee eee ee eee 
+
+
+wee 
+
+
+33 
+
+
+in part, was “identify several factors relevant to this 
+reasonableness determination.” O’Lone v. Estate of Shab- 
+azz, 482 U.S. 342, 350 (1987); Thornburgh v. Abbott, 490 U.S. 
+401, 414 (1989) (“The Court in Turner identified several 
+factors that are relevant to, and that serve to channel, the 
+reasonableness inquiry.”). As each case involving the con- 
+stitutionality of prison regulations is typically fact-speci- 
+fic, it makes sense to turn to the Turner factors to 
+determine whether the questioned regulation meets the 
+standard of reasonableness. See Shaw v. Murphy, 121 S. Ct. 
+1475, 1479 (2001) (noting that, when employing Turner, 
+“courts should consider” the Turner factors). Id.15 
+
+
+B. Timing of the Turner Application. 
+
+
+The State suggests that the Tenth Circuit erred in 
+applying Turner only upon finding a constitutional viola- 
+tion. Pet. Brief 37-38. Instead, it argues the Tenth Circuit 
+should have considered the issue of deference while 
+determining whether Mr. Lile’s rights were violated. The 
+specific language of Turner suggests otherwise: “[W]hen a 
+prison regulation impinges on inmates’ constitutional 
+rights, the regulation is valid if it is reasonably related to 
+legitimate penological interests.” Turner, 482 U.S. at 89. 
+Thus, the Tenth Circuit’s approach of finding the consti- 
+tutional violation before employing Turner appears 
+
+
+1S This Court’s decision in Shaw does not, however, entirely 
+resolve the issue of what claims merit Turner review. While 
+noting that the Turner analysis applies to constitutional claims, 
+this Court also stated that Turner provided “the test for 
+
+
+evaluating prisoners’ First Amendment challenges,. ... ” Shaw, 
+121 S. Ct. at 1479. 
+
+
+34 
+
+
+appropriate. See also Boyd v. Petsock, 795 F. Supp. 743, 745 
+n.5 (W.D. Pa. 1992) (“Turner presupposes a constitutional 
+violation and judges the validity of a regulation which 
+has already been found violative of a prisoner’s constitu- 
+tional rights.”).'¢ 
+
+
+C. Application of the Turner Factors. 
+
+
+1. There is a rational connection between 
+SATP and interests in therapy.’” 
+
+
+The Tenth Circuit correctly noted that there is a ratio- 
+nal connection between SATP and the State’s interest in 
+treating sex offenders. However, there is nothing to sug- 
+gest, as the State does, that the Tenth Circuit failed to give 
+this factor sufficient weight.'® The State would like the 
+Turner analysis to end at this point. It does not. The 
+Turner analysis does not end once a court finds in favor of 
+
+
+16 In its brief, the State seems to suggest that Turner should 
+not be applied until a Fifth Amendment violation is found: 
+“Nor, absent any Fifth Amendment violation, is there any 
+reason to engage in a balancing of interests under Turner... . “ 
+Pet. Brief 12. 
+
+
+17 The State sets forth the factors from Turner at page 35 of 
+its brief. 
+
+
+18 Mr. Lile’s claim of innocence presents a dilemma. No one 
+would contest the State’s repeated position that an admission of 
+responsibility for a crime makes therapy easier to accomplish. 
+However, it is unclear what the State’s position is on therapy if 
+the inmate is innocent. Acknowledging the cliché that there are 
+no guilty inmates, Mr. Lile nevertheless maintains the crimes for 
+which he was convicted were the result of consensual sexual 
+activity. The State has not addressed how its arguments and 
+analysis might change if Mr. Lile cannot, as opposed to will not, 
+accept responsibility for the crimes for which he was convicted. 
+
+
+Teh os pe tthe DRO 
+
+
+Pee oO er ee ee te ee Pe ete 
+
+
+35 
+
+
+the state on this first factor. Indeed, had the Tenth Circuit 
+found in favor of Mr. Lile on this factor, it could have 
+ended the Turner analysis. See Shaw v. Murphy, 121 S. Ct. 
+1475, 1479 (2001) (“If the connection between the regula- 
+tion and the asserted goal is ‘arbitrary or irrational,’ then 
+the regulation fails, irrespective of whether the other 
+factors tilt in its favor.”). There is nothing to suggest that 
+the converse is true. 
+
+
+It remains unclear how notions of deterrence mesh 
+with the State’s interest in rehabilitation. Attorneys Gen- 
+eral Amicus Brief at 11. It is true that deterrence is an 
+important function of the penal system, but it is unclear - 
+how additional punishment for inmates will advance 
+therapeutic goals. 
+
+
+2. There are no other ways for Mr. Lile to 
+exercise his Fifth Amendment rights. 
+
+
+Mr. Lile cannot both participate in SATP and pre- 
+serve his Fifth Amendment rights. The manner in which 
+SATP is structured prevents this. The states’ attorneys 
+general suggest that this factor favors the State because 
+Mr. Lile is not being compelled to incriminate himself. 
+Because SATP is a “voluntary” program, they argue, he 
+has the option of not participating in SATP. At the outset, 
+the argument is circular. According to the states’ attor- 
+neys general, Mr. Lile has the “voluntary” choice not to 
+participate, and thus exercises his right to remain silent. 
+Unfortunately, the states’ attorneys general ignore the 
+fact that the State punishes this so-called “voluntary 
+choice” with transfer to maximum security. 
+
+
+36 
+
+
+The states’ attorneys general do not address a funda- 
+mental question of this Turner factor: whether there are 
+other ways for Mr. Lile to exercise his Fifth Amendment 
+rights while participating in SATP. Turner, 482 U.S. at 90 
+(noting that the issue is whether there are “other ave- 
+nues” available to the inmate to express his rights while 
+complying with the questioned programming). Because 
+the State will neither permit immunity nor modify its 
+program and treat without forcing an admission of guilt, 
+the answer is “no.” 
+
+
+3. There will be little impact to the State if it 
+accommodates Mr. Lile’s rights. 
+
+
+Immunity will not adversely affect the operation of 
+SATP, but would likely improve it. Accommodating Mr. 
+Lile’s rights (and the Fifth Amendment rights of others) 
+will actually increase the chance that more inmates will 
+become rehabilitated. Without the fear of incriminating 
+themselves, more inmates will be inclined to be forthcom- 
+ing about their sexual offenses. If the State desires “mean- 
+ingful participation,” see Pet. Brief at 11-12, then 
+providing immunity better serves their asserted goals. 
+
+
+The states’ attorneys general suggest that because 
+other inmates would not be given the same protection, 
+tensions may increase at the prison. However, other 
+inmates are not faced with the same choice: surrender the 
+Fifth Amendment or be dispatched to maximum security 
+confinement and Level I status. If the State chooses to 
+compel incriminating information from other prisoners, it 
+can provide them the same protection - and ward off the 
+chaos. 
+
+
+37 
+
+
+4. There are workable alternatives for the 
+State to consider. 
+
+
+The State repeats that its main goal is to provide 
+therapy for sex offenders. Mr. Lile agrees that sex 
+offenders would benefit from treatment. However, when 
+presented with a manageable way to secure the therapy it 
+seeks, the State balks. 
+
+
+It is incorrect to suggest that immunity provides a 
+sex offender blanket protection from future prosecution. 
+Immunity will limit the State’s ability to prosecute a sex 
+offender for a past crime, but will not preclude it. As this 
+Court noted in Kastigar v. United States: 
+
+
+The privilege has never been construed to mean 
+that one who invokes it cannot subsequently be 
+prosecuted. Its sole concern is to afford protec- 
+tion against being “forced to give testimony 
+leading to the infliction of ‘penalties affixed 
+to... criminal acts.” Immunity from the use of 
+compelled testimony, as well as evidence 
+derived directly and indirectly therefrom, 
+affords this protection. 
+
+
+406 U.S. 441, 453 (1972) (quoting Ullman v. United States, 
+350 U.S. 422, 438-39 (1956)). The State could »rosecute Mr. 
+Lile, but could not use the “compelled testimony or its 
+fruits” in any subsequent criminal prosecution against 
+him. See Gardner v. Broderick, 392 U.S. 273, 276 (1968).19 
+
+
+'% Immunized disclosures would also equip the State with a 
+powerful way to make sure that such inmates are not permitted 
+to avoid responsibility for their past crimes. If an inmate - even 
+one given immunity - admitted past uncharged sex offenses, the 
+State could use these against the inmate in a civil commitment 
+
+
+38 
+
+
+Another alternative the State can use at a de minimis 
+cost to SATP is to turn the State’s sanctions into benefits. 
+The State could maintain SATP - without providing 
+immunity - if it placed newly-convicted sex offenders in 
+maximum security upon arrival to prison. Then, SATP 
+would operate as a true incentive program. If Mr. Lile 
+wanted out of maximum security, the State would allow 
+him to do so only upon full participation in SATP. If not, 
+he would remain in maximum security. This would be in 
+keeping with the philosophy that Mr. Lile should not 
+suffer “any sanction” for invoking his Fifth Amendment 
+rights. Spevack v. Klein, 385 U.S. 511, 515 (1967); see also 
+McMorrow v. Little, 109 F.3d 422, 434 (1997) (discussing 
+treatment program that gave incentives of work release 
+and “less restrictive confinement” as inducements to par- 
+ticipate).2° If the State cannot strip Mr. Lile of anything, 
+the State would not be sanctioning him for exercising his 
+Fifth Amendment rights. See also infra, Section V. 
+
+
+V. The State’s Interests Do Not Warrant Denying Mr. 
+Lile His Fifth Amendment Rights. 
+
+
+The State’s concern that Mr. Lile will be unfairly 
+occupying the bed of an inmate who wants to participate 
+
+
+hearing under the Kansas Sexual Predator Act. See Kan. Stat. 
+Ann. 59-29a01 et seq. (1999). Such admissions would be a 
+powerful tool for the State to keep dangerous or repeat sex 
+offenders away from society and to continue to provide further 
+rehabilitation. 
+
+
+20 Similarly, the State could offer sex offenders in medium 
+security a chance to get to minimum security or could award 
+good-time credits for those who complete SATP. 
+
+
+39 
+
+
+unconditionally in SATP will not exist if this Court 
+affirms the Tenth Circuit decision. If this Court affirms, 
+Mr. Lile will participate unconditionally in SATP. He will 
+make any admission requested by the State. He will par- 
+ticipate in frank group therapy discussions. His participa- 
+tion in the program will be no different than any other 
+inmate taking part in SATP. The operation of SATP will 
+remain unchanged. Furthermore, the State can prosecute 
+Mr. Lile for past crimes notwithstanding immunity,?' it 
+can use his admissions in civil commitment hearings, and 
+it can punish him if he still refuses to participate in SATP. 
+See supra, Section IV. 
+
+
+The State minimizes the grave consequences of pro- 
+viding incriminating information during SATP. Although 
+the State apparently has yet to bring charges against 
+anyone from information obtained in SATP, it has made 
+clear that it will indeed forward information about pros- 
+ecutable offenses to the authorities. Pet. App. 7a. That 
+prosecution has not happened in Kansas does not mean it 
+
+
+cannot happen. 
+
+
+Certainly, other states have used incriminating state- 
+ments from their sex offender treatment programs to 
+bring additional charges against those undergoing treat- 
+ment. See, e.g., Montana v. Fuller, 915 P.2d 809, 811 (Mont. 
+
+
+21 It is misplaced to suggest, as the State does, that 
+prosecution for Mr. Lile’s past crimes is unlikely based upon 
+statute of limitation issues. Pet. Brief 41 n.12. There is no statute 
+of limitation for murder. See Kan. Stat. Ann. 21-3106(1) (2000). 
+Moreover, the State would have two years from the time Mr. Lile 
+admitted a sexual offense to prosecute if he took any affirmative 
+
+
+steps to conceal the crime See Kan. Stat. Ann. 21-3106(8)(c) 
+(2000). 
+
+
+40 
+
+
+1996) (noting that the state prosecuted defendant for two 
+counts of sexual assault and one count of rape after 
+presenting information on his sexual history during sex 
+offender treatment program); Vermont v. Cate, 683 A.2d 
+1010, 1018 (Vt. 1996) (noting that the prosecutor stated at 
+oral argument that he would charge defendant with per- 
+jury if he signed the admission of responsibility form 
+used in state’s sex offender treatment program); Oregon v. 
+Tenbusch, 886 P.2d 1077 (Or. Ct. App. 1994) (prosecuting 
+defendant for two counts of sexual abuse based on state- 
+ments made during a polygraph test used in his sex abuse 
+treatment program). 
+
+
+The State has a number of options and need not 
+abandon its rehabilitative programs. As the Tenth Circuit 
+noted — and as several other courts addressing this issue 
+have noted - the State could provide immunity for 
+incriminating statements made during SATP. Pet. App. 
+30a (calling this option “the most obvious and easy alter- 
+native to the challenged policy,” and noting that some 
+states already attach the privilege to such statements 
+through statutes); see also Mace v. Amestoy, 765 F. Supp. 
+847, 851-52 (D. Vt. 1991); Cate, 683 A.2d at 1019.72 
+
+
+22 Two cases cited by the State in its Petition for Certiorari 
+for the proposition that there is no Fifth Amendment violation 
+here actually support the concept of immunity or 
+confidentiality. Tedder v. Francke, 931 F.2d 897, 1991 WL 65497, at 
+**2 (9th Cir. Apr. 24, 1991) (“An inmate patient's disclosures to a 
+treating therapist are unavailable to the state or federal 
+government to use in a court proceeding. If he chose to undergo 
+the treatment, [plaintiff] would not be providing the state with 
+incriminating evidence.”); Guilkey v. Holden, 865 F.2d 258, 1988 
+WL 134526, at **1 (6th Cir. Dec. 16, 1988) (dismissing plaintiff's 
+Fifth Amendment claim because “plaintiff's admission would 
+
+
+41 
+
+
+Alternatively, the State could make SATP truly volun- 
+tary, without any penalties or sanctions for invoking Fifth 
+Amendment rights, premising participation upon a sys- 
+tem of benefits. In reviewing a Fifth Amendment chal- 
+
+
+lenge regarding guilty pleas, this Court noted in Brady v. 
+United States, 397 U.S. 742 (1970): 
+
+
+We cannot hold that it is unconstitutional for the 
+State to extend a benefit to a defendant who in 
+turn extends a substantial benefit to the State 
+and who demonstrates by his plea that he is 
+ready and willing to admit his crime and to 
+enter the correctional system in a frame of mind 
+that affords hope for success in rehabilitation 
+over a shorter period of time than might other- 
+wise be necessary. 
+
+
+Id. at 753.23 
+
+
+be a privileged communication not subject to disclosure in any 
+civil or criminal proceeding”). See also Ky. Rev. Stat. Ann. 
+§ 197.440 (2000) (“Communications made in the application for 
+or in the course of a sexual offender’s diagnosis and treatment 
+in the program between a sexual offender or member of the 
+offender’s family and any employee of the department who is 
+assigned to work in the program, . . . shall be privileged from 
+disclosure in any civil or criminal proceeding, . . . ”). 
+
+
+*° The United States, in its amicus brief, is wary that a 
+ruling from this Court upholding the decision of the Tenth 
+Circuit will harm its federal sex offender treatment program. 
+United States’ Brief 26-27. It will not. The Federal Bureau of 
+Prisons’ program is truly voluntary. If inmates do not want to 
+Participate in the program, nothing happens to them. Id. If they 
+decide to participate, they are transferred to a facility in North 
+Carolina for treatment. Id. If officials subsequently remove them 
+from the program, the inmates return to their previous facility. 
+Id. As a result, prison officials do not make an inmate’s situation 
+
+
+42 
+
+
+Similarly, as the Federal Sentencing Guidelines pro- 
+vide, if defendants “acknowledge their responsibility” for 
+their crimes, they can receive a lesser sentence (i.e., they 
+can earn a reward or receive a benefit as opposed to 
+suffering a punishment or penalty). The Second Circuit, 
+in analyzing whether the Sentencing Guidelines Section 
+3E1.1 violated the Fifth Amendment, noted that “one of 
+the goals of sentencing is rehabilitation, and a defen- 
+dant’s admission of responsibility or expression of contri- 
+tion ‘is often a significant first step towards his 
+rehabilitation and, for that reason, deserving of a possible 
+reward in the form of a lessened sentence.’ ” United States 
+v. Parker, 903 F.2d 91, 105 (2d Cir. 1990) (quoting Smith v. 
+Wainwright, 664 F.2d 1194, 1996 (11th Cir. 1981)) 
+(emphasis added). 
+
+
+When considering the Federal Sentencing Guideline’s 
+provision of a lesser sentence for admitting responsibility 
+for a crime, the Tenth Circuit noted the difference 
+between a “penalty” for invoking one’s Fifth Amendment 
+rights versus a “reward”: 
+
+
+[T]he denial of a downward adjustment under 
+§ 3E1.1 does not constitute a penalty or an 
+enhancement of a sentence. There is a difference 
+between increasing the severity of a sentence for 
+failure to demonstrate remorse and refusing to 
+grant a reduction from the prescribed base 
+offense level. “It is one thing to extend leniency 
+to a defendant who is willing to cooperate with 
+the government; it is quite another thing to 
+
+
+in the prison system worse if he refuses to participate in 
+treatment. 
+
+
+43 
+
+
+administer additional punishment to a defen- 
+dant who by his silence has committed no addi- 
+tional offense.” 
+
+
+United States v. Rogers, 921 F.2d 975, 982-83 (10th Cir. 
+1990) (quoting United States v. Stratton, 820 F.2d 562, 564 
+(2d Cir. 1987)).24 
+
+
+The rehabilitation of sex offenders is an important 
+goal. However, it need not and should not come at a high 
+constitutional price. SATP is unconstitutional; it violates 
+Mr. Lile’s Fifth Amendment right against self-incrimina- 
+tion. But, it is easily repaired. If the State will grant 
+immunity to its participants, it may continue its reha- 
+bilitative program and continue its ability to commit and 
+prosecute those involved with sexual offenses. Constitu- 
+tional rights can thereby coexist with the State’s goals of 
+
+
+-therapy and deterrence. They need not be in conflict. 
+
+
+As this Court recently reiterated in Mitchell v. United 
+States, 526 U.S. 314, 329 (1999), “the central purpose of the 
+privilege — to protect a defendant from being the unwill- 
+ing instrument of his or her own condemnation — remains 
+of vital importance.” Here, Mr. Lile will be the “unwilling 
+instrument of his own condemnation” if this Court allows 
+the State to force him into SATP. 
+
+
+¢ 
+
+
+24 This Court has recognized that there are distinct 
+differences between granting benefits like parole versus 
+revoking parole. “ ‘[T]here is a human difference between 
+losing what one has and not getting what one wants.’ ” 
+Greenholtz v. Inmates of the Nebraska Penal and Correctional 
+Complex, 442 U.S. 1, 10 (1979) (quoting Friendly, Some Kind of 
+Hearing, 123 U. Pa. L. Rev. 1267, 1296 (1975)). 
+
+
+44 
+
+
+CONCLUSION 
+
+
+Mr. Lile respectfully requests that this Court affirm 
+the decision of the United States Court of Appeals for the 
+Tenth Circuit. 
+
+
+Respectfully submitted, 
+
+
+_ MattHew J. WILTANGER 
+(Counsel of Record) 
+Pau W> ReseIn 
+MattHew C. MILLER 
+SHooK, Harpy & 
+Bacon L.L.P. 
+10801 Mastin, Suite 1000 
+Overland Park, Kansas 66210 
+913/451-6060 
+FAX 913/451-8879 
+Counsel for Respondent 
+
+
+August 2001 
+
+

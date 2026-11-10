@@ -1,0 +1,5 @@
+# Traffic Stream — form fixed before assignment
+
+One signed opinion states a unanimous statutory subjecthood rule and its bounded appellate remedy. All nine join the complete ground: this corporation's BVI incorporation rests on United Kingdom sovereignty, bringing it within the foreign-subject category at commencement. The territory need not itself be a recognized independent state. Individual nationality, party consent, completed litigation and a later enactment do not replace that actual jurisdictional predicate.
+
+The sovereign relationship is established, so the reversal needs no jurisdictional-fact remand; unresolved appellate matters remain below. Other diversity requirements, the separate reach of section 1332(c), other territories and natural-person nationality remain outside the necessary holding. There is one connected controlling proposition, no separate writing and no Stone fallback. All nine are eligible for the complete opinion. This legal form precedes counts and author selection.

@@ -1,0 +1,6 @@
+import subprocess,sys
+headings=['Punitive forfeiture and Excessive Fines review','Primary securities fraud through source deception','Knowing false best-execution undertakings in securities transactions','Knowing sham sales of securities options','Federal claim preclusion as a removal defense','Diversity cured before trial after erroneous removal','Intervention before a shareholder’s derivative-settlement appeal','Constitutional authority to bind absent litigants','Certification of settlement-only classes','Mandatory limited-fund settlement classes','State-created liberty in prison discipline','Protected silence concerning disputed sentencing facts','Self-incrimination privilege despite professed innocence','Objective assessment of an ADA direct threat','Mitigating measures in actual ADA disability','Delegated Customs interpretation and independent tariff review','Persuasive weight of a nonbinding agency advisory interpretation','SSDI representations in ADA qualification proof','Federal driving standards and experimental ADA waivers','Perceived occupational breadth under the original ADA']
+args=[sys.executable,'-B','tools/build_entering_law.py','terms/OT2001/entering-law/OT_2001CHUNK6_A.md']
+for h in headings:args+=['--standard-heading',h]
+args+=['--standing-heading','1. Current Court']
+subprocess.run(args,check=True)

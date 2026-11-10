@@ -1,0 +1,46 @@
+SEC V. ZANDFORD
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+SEC V. ZANDFORD (01-147) 
+238 F.3d 559, reversed and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION v. ZANDFORD
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+
+ 
+No. 01—147.  Argued March 18, 2002–Decided June 3, 2002
+
+Respondent broker persuaded William Wood, an elderly man, to open a joint investment account for himself and his mentally retarded daughter.  The Woods gave respondent discretion to manage the account and a general power of attorney to engage in securities transactions without their prior approval.  When Mr. Wood died a few years later, all of the money he had entrusted to respondent was gone.  Respondent was subsequently indicted on federal wire fraud charges for, inter alia, selling securities in the Woods’ account and making personal use of the proceeds.  The Securities and Exchange Commission (SEC) then filed a civil complaint in the same District Court, alleging that respondent had violated §10 of the Securities Exchange Act of 1934 (Act) and the SEC’s Rule 10b—5 by engaging in a scheme to defraud the Woods and misappropriating their securities without their knowledge or consent.  After respondent’s conviction in the criminal case, the District Court granted the SEC summary judgment in the civil case.  The Fourth Circuit reversed and directed the District Court to dismiss the complaint, holding that neither the criminal conviction nor the allegations in the complaint established that respondent’s fraud was “in connection with the purchase or sale of any security.”  Because the scheme was to steal the Woods’ assets, not to manipulate a particular security, and it had no relationship to market integrity or investor understanding, the court held that there was no §10(b) violation.  
+
+Held: Assuming that the complaint’s allegations are true, respondent’s conduct was “in connection with the purchase or sale of any security.”  Among Congress’ objectives in passing the Act was to ensure honest securities markets and thereby promote investor confidence after the 1929 market crash.  Congress sought “ ‘to substitute a philosophy of full disclosure for the philosophy of caveat emptor and thus to achieve a high standard of business ethics in the securities industry.’ ”  Affiliated Ute Citizens of Utah v. United States, 406 U.S. 128, 151.  To effectuate its remedial purposes, the Act should be construed flexibly, not technically and restrictively.  The SEC has consistently adopted a broad reading of “in connection with the purchase or sale of any security,” maintaining that a broker who accepts payment for securities that he never intends to deliver, or who sells securities with intent to misappropriate the proceeds, violates §10(b) and Rule 10(b)—5.  This interpretation of the statute’s ambiguous text in the context of formal adjudication is entitled to deference.  See United States v. Mead, 533 U.S. 218, 229—230.  Neither the SEC nor this Court has ever held that there must be a misrepresentation about a particular security’s value in order to run afoul of the Act.  This Court disagrees with respondent’s claim that his misappropriation of the proceeds, though fraudulent, does not have the requisite connection with the sales, which were perfectly lawful.  The securities sales and respondent’s practices were not independent events.  Taking the complaint’s allegations as true, each sale was made to further his fraudulent scheme; and each was deceptive because it was neither authorized by, nor disclosed to, the Woods.  In the aggregate, the sales are properly viewed as a course of business that operated as a fraud or deceit on a stockbroker’s customer.  As in Superintendent of Ins. of N. Y. v. Bankers Life & Casualty Co., 404 U.S. 6; Wharf (Holdings) Ltd. v. United Int’l Holdings, Inc., 532 U.S. 588; and United States v. O’Hagan, 521 U.S. 642, all cases in which this Court found a §10(b) violation, the SEC complaint here describes a fraudulent scheme in which the securities transactions and breaches of fiduciary duty coincide.  Those breaches were therefore “in connection with” securities sales within §10(b)’s meaning.  Pp. 5—12.
+
+238 F.3d 559, reversed and remanded.
+
+    Stevens, J., delivered the opinion for a unanimous Court.

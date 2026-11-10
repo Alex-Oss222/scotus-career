@@ -1,0 +1,7 @@
+# Morgan — form fixed before assignment
+
+One signed opinion has three related parts: I, the discrete-act filing rule (nine joins); II, the same-environment practice rule (Stone-Zsela, Stevens, Souter, Thomas, Ginsburg and Breyer); III, equity, evidence and the required remaining appellate work (nine joins to those propositions, while the three Part II dissenters also would reverse that component). The related statutory questions and common factual remand belong in one opinion; the six full joiners can carry every proposition, so no divided authorship is warranted.
+
+O'Connor's separate writing has two distinct portions: a noncontrolling discovery observation joined by Breyer, and the hostile-environment liability disagreement joined by Scalia and Kennedy. No additional discovery exception is adopted. The three dissenters limit liability for out-of-window occurrences, not merely damages, while permitting contextual proof and timely collective harassment without requiring each incident independently to satisfy the severe-or-pervasive test.
+
+The disposition reverses discrete revival, affirms the connected-environment route, and remands the actual vacatur/new-trial judgment for application and preserved evidentiary/instructional objections. No automatic defense-verdict restoration or unconditional new trial follows. No Stone fallback applies. The six complete joiners are eligible for the entire opinion. This form precedes counts and author selection.

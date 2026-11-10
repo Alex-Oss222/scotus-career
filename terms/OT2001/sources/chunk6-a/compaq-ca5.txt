@@ -1,0 +1,751 @@
+                               UNITED STATES COURT OF APPEALS
+                                        FOR THE FIFTH CIRCUIT
+
+                                      _______________________
+                                                No. 00-60648
+
+                                      _______________________
+
+                  COMPAQ COMPUTER CORPORATION AND SUBSIDIARIES,
+                                                                                Petitioner-Appellant,
+
+                                                     versus
+                             COMMISSIONER OF INTERNAL REVENUE,
+
+                                                                                 Respondent-Appellee.
+_________________________________________________________________
+
+                                      Appeal from a Decision
+                               of the United States Tax Court
+_________________________________________________________________
+
+                                           December 28, 2001
+Before JONES, SMITH, and DeMOSS, Circuit Judges.
+EDITH H. JONES, Circuit Judge:
+
+                  In this case, Compaq Computer Corporation engaged in a
+foreign stock transaction involving the purchase and resale of
+American Depository Receipts (ADRs). The Tax Court held that
+because the ADR transaction lacked economic substance, the
+transaction should be disregarded for federal income tax purposes.
+113 T.C. 214 (1999). The Eighth Circuit recently decided the same
+question and concluded as a matter of law that ADR transactions of
+the sort at issue here have economic substance and a business
+purpose. We agree with the Eighth Circuit's conclusion and
+reverse.
+
+                                                  BACKGROUND
+                  The facts are stated in the opinion of the Tax Court and
+are set out only briefly here. An ADR is a trading unit, issued by
+a trust, that represents ownership of stock in a foreign
+corporation. Foreign stocks are customarily traded on U.S. stock
+exchanges using ADRs. An ADR transaction of the kind at issue in
+this case begins with the purchase of ADRs with the settlement date
+at a time when the purchaser is entitled to a declared dividend --
+that is, before or on the record date of the dividend. The
+transaction ends with the immediate resale of the same ADR with the
+settlement date at a time when the purchaser is no longer entitled
+to the declared dividend -- that is, after the record date. In the
+terminology of the market, the ADR is purchased "cum dividend" and
+resold "ex dividend."
+                  Twenty-First Securities Corporation, an investment firm
+specializing in arbitrage transactions, proposed to Compaq that
+Compaq engage in an ADR transaction. Compaq's assistant treasurer,
+James Tempesta, and treasurer, John Foster, had a one-hour meeting
+with Twenty-First to discuss this possibility. After a discussion
+among Tempesta, Foster, and Compaq's chief financial officer,
+Darryl White, it was decided to go forward with an ADR transaction.
+Tempesta did not perform a cash-flow analysis before agreeing to
+
+                                                          2
+the transaction. His investigation of the transaction and of
+Twenty-First was limited to telephoning a reference and reviewing
+a Twenty-First spreadsheet analyzing the transaction.
+
+                  The securities chosen for the transaction were ADR shares
+of Royal Dutch Petroleum Company. Compaq knew little or nothing
+about Royal Dutch other than generally available market
+information. Without involving Compaq, Twenty-First chose both the
+sizes and prices of the trades and the identity of the company that
+would sell the ADRs to Compaq.
+
+                  On September 16, 1992, Twenty-First, acting on Compaq's
+behalf, bought ten million Royal Dutch ADRs from the designated
+seller, which was another client of Twenty-First. Twenty-First
+immediately sold the ADRs back to the seller. The trades were made
+in 46 separate New York Stock Exchange (NYSE) floor transactions --
+23 purchase transactions and 23 corresponding resale transactions
+-- of about 450,000 ADRs each and were all completed in a little
+over an hour. Any trader on the floor was able to break up any of
+these transactions by taking part or all of the trade; but none, it
+appears, did. Because the trades were completed at market prices,
+no trader had an incentive to break up the transaction. The
+aggregate purchase price was about $887.6 million, cum dividend.
+The aggregate resale price was about $868.4 million, ex dividend.
+Commissions, margin account interest, and fees were about $1.5
+million. Pursuant to special NYSE settlement terms, the purchase
+
+                                                          3
+trades were formally settled on September 17. Pursuant to regular
+NYSE terms, the resale trades were settled on September 21. Compaq
+used a margin account with Bear Stearns & Co., a well known
+securities brokerage firm. Compaq was the shareholder of record of
+the ADRs on the dividend record date and was therefore entitled to
+a gross dividend of about $22.5 million. About $3.4 million in
+Netherlands tax was withheld from Compaq's dividend by Royal Dutch
+and paid to the Netherlands government. The net dividend, about
+$19.2 million, was paid directly to Compaq.
+
+                  On its 1992 U.S. income tax return, Compaq reported about
+$20.7 million in capital losses on the purchases and resales, about
+$22.5 million in gross dividend income, and a foreign tax credit of
+about $3.4 million for the Netherlands tax withheld from the gross
+dividend. Compaq used the capital loss to offset part of a capital
+gain of about $231.7 million that Compaq had realized in 1992 from
+the sale of stock in another company.
+
+                  The Commissioner sent a notice of deficiency to Compaq
+for its federal income taxes that cited, among other things, the
+Royal Dutch transaction. Compaq filed a petition in the Tax Court
+for redetermination of the deficiencies and of an accuracy-related
+penalty for negligence asserted for 1992 under Internal Revenue
+Code (26 U.S.C.) § 6662. Concluding that the transaction should be
+disregarded for U.S. income tax purposes, the court upheld the
+deficiencies and the negligence penalty. The court disallowed the
+
+                                                          4
+gross dividend income, the foreign tax credit, and the capital
+losses reported by Compaq on its tax return. Compaq then argued
+that it should at least be allowed to deduct the out of pocket
+losses -- commissions, margin account interest, and fees -- that it
+had incurred in the course of the transaction, but the court held
+that the expenses could not be deducted. Compaq appealed.
+
+                                          STANDARD OF REVIEW
+                  This court reviews the Tax Court's conclusions of law de
+novo and its factual findings for clear error. See Frank Lyon Co.
+v. United States, 435 U.S. 561, 581 n.16, 98 S. Ct. 1291, 1302 n.16
+(1978); Chamberlain v. Comm'r, 66 F.3d 729, 732 (5th Cir. 1995).
+The Tax Court's determinations of mixed questions of law and fact
+are subject to de novo review. See Jones v. Comm'r, 927 F.2d 849,
+852 (5th Cir. 1991). In particular, "legal conclusion[s]" that
+transactions are shams in substance are reviewed de novo.
+Killingsworth v. Comm'r, 864 F.2d 1214, 1217 (5th Cir. 1989). See
+Frank Lyon Co., 435 U.S. at 581 n.16, 98 S. Ct. at 1302 n.16 ("The
+general characterization of a transaction for tax purposes is a
+question of law subject to review. The particular facts from which
+the characterization is to be made are not so subject.").1 This is
+
+1  Decisions such as Freytag v. Comm'r, 904 F.2d 1011, 1015-16 (5th Cir.
+
+1990), aff'd on other grounds, 501 U.S. 868, 111 S. Ct. 2631 (1991), state that
+
+this court reviews findings that transactions are shams for clear error. In
+
+keeping with Frank Lyon Co., we read such statements as referring only to genuine
+
+factual findings (e.g., a finding that a transaction was a "sham in fact," that
+
+is, that the transaction never occurred, see Killingsworth, 864 F.2d at 1216 &
+
+n.3; James v. Comm'r, 899 F.2d 905, 908 n.4 (10th Cir. 1990)), not to conclusions
+
+of law. See Killingsworth, 864 F.2d at 1217; Sacks v. Comm'r, 69 F.3d 982, 986
+
+   5
+true even though the Tax Court has characterized some of its
+determinations as "ultimate findings of fact." 113 T.C. at 219.
+See Ratanesan v. Cal. Dep't of Human Servs., 11 F.3d 1467, 1469 (9th
+Cir. 1993).
+
+                                                  DISCUSSION
+                  "[W]here . . . there is a genuine multiple-party
+transaction with economic substance which is compelled or
+encouraged by business or regulatory realities, is imbued with
+tax-independent considerations, and is not shaped solely by
+tax-avoidance features that have meaningless labels attached, the
+Government should honor the allocation of rights and duties
+effectuated by the parties." Frank Lyon Co., 435 U.S. at 583-84,
+98 S. Ct. at 1303-04. See Holladay v. Comm'r, 649 F.2d 1176, 1179
+(5th Cir. Unit B Jul. 1981) ("[T]he existence of a tax benefit
+resulting from a transaction does not automatically make it a sham
+as long as the transaction is imbued with tax-independent
+considerations."), cited in Merryman v. Comm'r, 873 F.2d 879, 881
+(5th Cir. 1989). The Government has stipulated that aside from its
+contention that the Royal Dutch transaction lacked economic
+substance, it has no objection to how Compaq chose to report its
+tax benefits and liabilities concerning the transaction.
+
+(9th Cir. 1995); James, 899 F.2d at 909 & n.5.
+
+                                                          6
+                           In Rice's Toyota World, Inc. v. Comm'r, 752 F.2d 89
+(4th Cir. 1985), the court held that after Frank Lyon Co., it is
+appropriate for a court to engage in a two-part inquiry to
+determine whether a transaction has economic substance or is a sham
+that should not be recognized for income tax purposes. "To treat
+a transaction as a sham, the court must find that the taxpayer was
+motivated by no business purposes other than obtaining tax benefits
+in entering the transaction, and that the transaction has no
+economic substance because no reasonable possibility of a profit
+exists." Id. at 91 (emphasis added). See id. ("[S]uch a test
+properly gives effect to the mandate of the Court in Frank Lyon
+that a transaction cannot be treated as a sham unless the
+transaction is shaped solely by tax avoidance considerations.")
+(emphasis added). Other courts have said that business purpose and
+reasonable possibility of profit are merely factors to be
+considered in determining whether a transaction is a sham. See,
+e.g., ACM Partnership v. Comm'r, 157 F.3d 231, 247 (3d Cir. 1998)
+("[T]hese distinct aspects of the economic sham inquiry do not
+constitute discrete prongs of a `rigid two-step analysis,' but
+rather represent related factors both of which inform the analysis
+of whether the transaction had sufficient substance, apart from its
+tax consequences, to be respected for tax purposes.") (citation
+omitted); James v. Comm'r, 899 F.2d 905, 908-09 (10th Cir. 1990).
+Because we conclude that the ADR transaction in this case had both
+
+                                                          7
+economic substance and a business purpose, we do not need to decide
+today which of these views to adopt.
+
+                  The Tax Court reasoned that Compaq's ADR transaction had
+neither economic substance nor a non-tax business purpose. The
+court first concluded that Compaq had no reasonable opportunity for
+profit apart from the income tax consequences of the transaction.
+The court reached this conclusion by employing a curious method of
+calculation: in computing what it called Compaq's net "cash flow"
+from the transaction, the court assessed neither the transaction's
+pre-tax profitability nor its post-tax profitability. Instead, the
+court assessed profitability by looking at the transaction after
+Netherlands tax had been imposed but before considering U.S. income
+tax consequences. The court subtracted Compaq's $20.7 million in
+capital losses, not from the $22.5 million gross dividend, but from
+the $19.2 million net dividend.2 The court then ignored the $3.4
+million U.S. foreign tax credit that Compaq claimed corresponding
+to the $3.4 million Netherlands tax. Put otherwise, in determining
+whether the ADR transaction was profitable, the court treated the
+Netherlands tax as a cost of the transaction, but did not treat the
+corresponding U.S. tax credit as a benefit of the transaction. The
+
+2           The Tax Court did this even though the Government had admitted that
+
+according to generally accepted accounting principles (to which the Government
+
+cited no exceptions), the entire amount of the gross dividend must be reported
+
+as income.
+
+            8
+result of this half pre-tax, half after-tax calculation was a net
+
+loss figure of roughly $1.5 million.
+
+                  The court rejected Compaq's argument that it had a profit
+
+prior to the assessment of tax.
+
+                  [Compaq] used tax reporting strategies to give the
+                  illusion of profit, while simultaneously claiming a tax
+                  credit in an amount (nearly $3.4 million) that far
+                  exceeds the U.S. tax (of $640,000) attributed to the
+                  alleged profit, and thus is available to offset tax on
+                  unrelated transactions. . . . By reporting the gross
+                  amount of the dividend, when only the net amount was
+                  received, petitioner created a fictional $1.9 million
+                  profit as a predicate for a $3.4 million tax credit.
+
+113 T.C. at 222. The court said that the intention and effect of
+
+the transaction were to capture a tax credit, not substantive
+
+ownership of Royal Dutch ADRs, and that the transaction had been
+
+arranged so as to minimize the risks associated with it. See id.
+
+at 223-24.
+
+                  As for Compaq's business purpose, the Tax Court concluded
+
+that Compaq was motivated only by the expected tax benefits of the
+
+ADR transaction. Among other things, the court said, Compaq had
+
+not engaged in a businesslike evaluation of the transaction. See
+
+id. at 224-25.
+
+                  The Tax Court's decision is in conflict with IES Indus.,
+
+Inc. v. United States, 253 F.3d 350 (8th Cir. 2001).3 In IES, the
+
+3  The Tax Court's decision in this case has been subject to extensive
+
+commentary, friendly and not so friendly. See, e.g., Marc D. Teitelbaum, Compaq
+
+Computer and IES Industries -- The Empire Strikes Back, 20 Tax Notes Int'l 791
+
+(2000) (disagreeing sharply with Tax Court); David P. Hariton, Sorting Out the
+
+Tangle of Economic Substance, 52 Tax Law. 235, 273 (1999) (". . . I am not sure
+
+   9
+court held as a matter of law that an ADR transaction identical to
+this one was not a sham transaction for income tax purposes.4
+Undertaking the two-part inquiry set out in Rice's Toyota World,
+752 F.2d at 91-92, the court declined to decide whether a
+transaction would be a sham if either economic substance or
+business purpose, but not both, was present. See IES, 253 F.3d at
+353-54. Instead, the court concluded that both economic substance
+and business purpose were present in the transaction before it.
+
+                  Turning first to economic substance, the court rejected
+the argument that the taxpayer purchased only the right to the net
+dividend, not the gross dividend. "[T]he economic benefit to IES
+was the amount of the gross dividend, before the foreign taxes were
+paid. IES was the legal owner of the ADRs on the record date. As
+such, it was legally entitled to retain the benefits of ownership,
+
+Compaq is getting away with enough in this transaction for a court to disallow
+
+the results for lack of economic substance; to find otherwise might represent too
+
+great an incursion into our objective system for determining tax liabilities.");
+
+Peter C. Canellos, A Tax Practitioner's Perspective on Substance, Form and
+
+Business Purpose in Structuring Business Transactions and in Tax Shelters, 54 SMU
+
+L. Rev. 47, 54 (2001) ("Transactions involving . . . foreign tax-credits on
+
+dividend-stripping transactions exist in the hinterland between merely aggressive
+
+transactions and tax shelters, the border crossed as artificiality increases and
+
+tax benefits become more unreasonable.") (footnote omitted); George K. Yin,
+
+Getting Serious About Corporate Tax Shelters: Taking a Lesson From History, 54
+
+SMU L. Rev. 209, 222 (2001) (answer to question whether Compaq transaction should
+
+be disallowed for tax purposes "may not be so easy after all"); David P. Hariton,
+
+Tax Benefits, Tax Administration, and Legislative Intent, 53 Tax Law. 579, 609
+
+(2000) (Compaq was "rightly decided [by the Tax Court] perhaps, but without a
+
+clear analysis"); Daniel N. Shaviro, Economic Substance, Corporate Tax Shelters,
+
+and the Compaq Case, 88 Tax Notes 221 (2000) (generally endorsing Tax Court's
+
+approach); David A. Weisbach, The Failure of Disclosure as an Approach to
+
+Shelters, 54 SMU L. Rev. 73, 79 (2001) ("I think the[ Compaq] transaction[] w[as]
+
+clearly in the shelter camp.").
+
+4  The Commissioner concedes that the transaction at issue in IES is
+
+identical to that at issue in this case.
+
+                                 10
+that is, the dividends due on the record date." Id. at 354. The
+court said that the part of the gross dividend withheld as taxes by
+the Dutch government was as much income to the taxpayer as the net
+dividend remaining after taxes. The court relied on the venerable
+principle, articulated in Old Colony Trust Co. v. Comm'r, 279 U.S.
+716, 729, 49 S. Ct. 499, 504 (1929), that "[t]he discharge by a
+third person of an obligation to him is equivalent to receipt by
+the person taxed." In Old Colony Trust Co., the Supreme Court held
+that when an employer pays an employee's income taxes, the payment
+of the taxes constitutes income to the employee. Similarly, in
+Diedrich v. Comm'r, 457 U.S. 191, 199-200, 102 S. Ct. 2414, 2420
+(1982), the Court held that when a donor of a gift of property
+conditions the gift on the donee's paying the gift tax owed by the
+donor on the gift, the donee's payment of the donor's gift tax
+obligation constituted income to the donor.
+
+                  The IES court saw no reason why the Old Colony Trust Co.
+principle should not apply to the payment of foreign tax by
+withholding. "The foreign corporation's withholding and payment of
+the tax on IES's behalf is no different from an employer['s]
+withholding and paying to the government income taxes for an
+employee: the full amount before taxes are paid is considered
+income to the employee." IES, 253 F.3d at 354. When the full
+amount of the gross dividend was counted as income to the taxpayer,
+the transaction resulted in a profit to the taxpayer. See id.
+
+                                                         11
+                  As for business purpose, the court said that "[a]
+taxpayer's subjective intent to avoid taxes . . . will not by
+itself determine whether there was a business purpose to a
+transaction." Id. at 355. Compare Holladay, 649 F.2d at 1179.
+The court rejected the Government's argument that because the ADR
+transaction carried no risk of loss, it was a sham. The court
+noted that some risk, minimal though it may have been, attended the
+transaction. That the taxpayer had tried to reduce the risks did
+not make it a sham. "We are not prepared to say that a transaction
+should be tagged a sham for tax purposes merely because it does not
+involve excessive risk. IES's disinclination to accept any more
+risk than necessary in these circumstances strikes us as an
+exercise of good business judgment consistent with a subjective
+intent to treat the ADR trades as money-making transactions." IES,
+253 F.3d at 355.
+
+                  The court further noted that the ADR transactions had not
+been conducted by alter egos or by straw entities created by the
+taxpayer simply for the purpose of facilitating the transactions.
+Instead, "[a]ll of the parties involved . . . were entities
+separate and apart from IES, doing legitimate business before IES
+started trading ADRs and (as far as we know) continuing such
+legitimate business after that time." Id. Each individual ADR
+trade was an arm's-length transaction. See id. at 356.
+
+                                                         12
+                  We agree with the IES court and conclude that the Tax
+Court erred as a matter of law by disregarding the gross amount of
+the Royal Dutch dividend and thus ignoring Compaq's pre-tax profit
+on the ADR transaction. We add the following comments.
+
+                  First, as to economic substance: the Commissioner does
+not explain why the Old Colony Trust Co. principle does not apply
+here. That the tax was imposed by the Netherlands rather than by
+the United States, or that it was withheld rather than paid at the
+end of the tax year, is irrelevant to how the part of the dividend
+corresponding to the tax should be treated for U.S. income tax
+purposes. Pre-tax income is pre-tax income regardless of the
+timing or origin of the tax. See Old Colony Trust Co., 279 U.S. at
+729, 49 S. Ct. at 504 ("It is . . . immaterial that the taxes were
+directly paid over to the government [by the taxpayer's employer,
+rather than by the taxpayer]."); Riggs Nat'l Corp. v. Comm'r, 163
+F.3d 1363, 1365 (D.C. Cir. 1999) ("In calculating his United States
+tax liability, the lender must include in gross income the interest
+payment he receives from the borrower and the Brazilian tax paid
+(on his behalf) by the borrower to the Brazilian tax collector.");
+Reading & Bates Corp. v. United States, 40 Fed. Cl. 737, 750 (1998)
+("The indemnification agreement at issue results in taxable income
+to plaintiff because it contractually discharges plaintiff's
+
+                                                         13
+Egyptian tax obligation.").5 Because Compaq was entitled to
+payment of the dividend as of the record date, Compaq was liable
+for payment of tax on the dividend; accordingly, the payment of
+Compaq's Netherlands tax obligation by Royal Dutch was income to
+Compaq. See 113 T.C. at 219 ($3.4 million payment to Netherlands
+"represent[ed] withholding amounts for dividends paid to U.S.
+residents" under treaty between U.S. and Netherlands); IES, 253
+F.3d at 351-52, 354; Treas. Reg. § 1.901-2(f)(1) ("The person by
+whom tax is considered paid for purposes of [the foreign tax credit
+provisions of the Revenue Code] is the person on whom foreign law
+imposes legal liability for such tax, even if another person (e.g.,
+a withholding agent) remits such tax."); Treas. Reg. §
+1.901-2(f)(2)(i) ("Tax is considered paid by the taxpayer even if
+another party to a direct or indirect transaction with the taxpayer
+agrees, as a part of the transaction, to assume the taxpayer's
+foreign tax liability."). Indeed, the Commissioner admitted in
+this case that according to generally accepted accounting
+principles, the entire amount of Compaq's gross dividend must be
+reported as income. If the $3.4 million had been paid to the
+United States (whether by withholding or at the end of the tax
+year) instead of the Netherlands, there would have been no argument
+
+5  Indeed, the Internal Revenue Service has stated in a revenue ruling
+
+that "United States shareholders of foreign corporations should report, for
+
+Federal income tax purposes, the gross amount of dividends received from such
+
+corporations without reduction for withholding of the foreign income tax
+
+thereon." Rev. Rul. 57-516, 1957-2 C.B. 435.
+
+   14
+that this money was not income to Compaq. It follows that the
+gross Royal Dutch dividend, not the dividend net of Netherlands
+tax, should have been used to compute Compaq's pre-tax profit.
+
+                  The Tax Court also erred by failing to include Compaq's
+$3.4 million U.S. tax credit when it calculated Compaq's after-tax
+profit. 113 T.C. at 223. This omission taints the court's
+conclusion that the "net economic loss" from the transaction after
+tax was about $1.5 million. If the effects of tax law, domestic or
+foreign, are to be accounted for when they subtract from a
+transaction's net cash flow, tax law effects should be counted when
+they add to cash flow. To be consistent, the analysis should
+either count all tax law effects or not count any of them. To
+count them only when they subtract from cash flow is to stack the
+deck against finding the transaction profitable.6 During this
+litigation, the I.R.S. has consciously chosen to try to stack the
+deck this way. See I.R.S. Notice 98-5, 1998-1 C.B. 334 ("In
+general, reasonably expected economic profit will be determined by
+taking into account foreign tax consequences (but not U.S. tax
+consequences) [of transactions]. . . . In general, expected
+
+6  The Tax Court's assertion that "[i]f we follow [Compaq]'s logic, .
+
+. . we would conclude that [Compaq] paid approximately $4 million in worldwide
+
+income taxes on . . . $1.9 million in profit" suffers from the same flaw. 113
+
+T.C. at 222. When Compaq's $3.4 million U.S. tax credit is counted in the
+
+calculation, Compaq's net worldwide tax liabilities arising from the transaction
+
+amount only to $644,000. In addition, the assertion ignores the fact that only
+
+about $644,000 of the $4 million was paid on Compaq's $1.9 million pre-tax
+
+profit. The rest of the $4 million was not paid on the profit; rather, the tax
+
+was paid (to the Netherlands) on the gross amount of the Royal Dutch dividend.
+
+   15
+economic profit will be determined by taking into account expenses
+associated with an arrangement, without regard to whether such
+expenses are deductible in determining taxable income. For
+example, in determining economic profit, foreign taxes will be
+treated as an expense."). The Commissioner, however, has provided
+no reason to endorse its approach and ignore Old Colony Trust Co.7
+That the Government would get more money from taxpayers does not
+suffice.
+
+                  To un-stack the deck and include the foreign tax credit
+in calculating Compaq's after-tax profit from the Royal Dutch
+transaction does not give Compaq a windfall. The purpose of the
+Revenue Code's foreign tax credit provisions is to reduce
+international double taxation. See, e.g., Norwest Corp. v. Comm'r,
+69 F.3d 1404, 1407 (8th Cir. 1995). Compaq reported its gross Royal
+Dutch dividend income to both the United States and the
+Netherlands. Without the tax credit, Compaq would be required to
+pay tax twice -- first to the Netherlands through withholding on
+the gross dividend, and then to the United States -- on the same
+dividend income. Taking the tax credit into account, Compaq owed
+roughly $644,000 more in worldwide income tax liability as a result
+of the transaction than it would have owed had the transaction not
+occurred. Although the United States lost $2.7 million in tax
+
+7  At oral argument, counsel for the Government admitted that he had
+
+found no case supporting the proposition that foreign tax on a transaction should
+
+be treated as an expense in determining whether the transaction was profitable.
+
+   16
+revenues as a result of the transaction, that is only because the
+Netherlands gained $3.4 million in tax revenues.
+
+                  If the effects of the transaction are computed
+consistently, Compaq made both a pre-tax profit and an after-tax
+profit from the ADR transaction. Subtracting Compaq's capital
+losses from the gross dividend rather than the net dividend results
+in a net pre-tax profit of about $1.894 million. Compaq's U.S. tax
+on that net pre-tax profit was roughly $644,000. Subtracting
+$644,000 from the $1.894 million results in an after-tax profit of
+about $1.25 million. The transaction had economic substance.
+
+                  Second, as to business purpose: even assuming that Compaq
+sought primarily to get otherwise unavailable tax benefits in order
+to offset unrelated tax liabilities and unrelated capital gains,
+this need not invalidate the transaction. See Frank Lyon Co., 435
+U.S. at 580, 98 S. Ct. at 1302 ("The fact that favorable tax
+consequences were taken into account by Lyon on entering into the
+transaction is no reason for disallowing those consequences. We
+cannot ignore the reality that the tax laws affect the shape of
+nearly every business transaction.") (footnote omitted); Holladay,
+649 F.2d at 1179; ACM Partnership, 157 F.3d at 248 n.31 ("[W]here
+a transaction objectively affects the taxpayer's net economic
+position, legal relations, or non-tax business interests, it will
+not be disregarded merely because it was motivated by tax
+considerations."); Helvering v. Gregory, 69 F.2d 809, 810 (2d Cir.
+
+                                                         17
+1934) (Hand, J. Learned) ("Any one may so arrange his affairs that
+his taxes shall be as low as possible; he is not bound to choose
+that pattern which will best pay the Treasury; there is not even a
+patriotic duty to increase one's taxes."), aff'd, 293 U.S. 465, 55
+S. Ct. 266 (1935).8 Yet the evidence in the record does not show
+that Compaq's choice to engage in the ADR transaction was solely
+motivated by the tax consequences of the transaction. Instead, the
+evidence shows that Compaq actually and legitimately also sought
+
+8  In particular, the fact that Compaq had a large unrelated capital
+
+gain in 1992 does not mean that Compaq had an impermissible motive in seeking to
+
+engage in the transaction. The capital gain, of course, made it possible for
+
+Compaq to obtain an otherwise unavailable tax benefit from the ADR transaction
+
+by offsetting its $20.7 million in capital losses from the transaction against
+
+the gain. 26 U.S.C. § 1211(a) (corporation's "losses from sales or exchanges of
+
+capital assets shall be allowed only to the extent of gains from such sales or
+
+exchanges"); Circle K Corp. v. United States, 23 Cl. Ct. 665, 670 (1991). If
+
+Compaq had had no capital gain whatsoever in 1992, it would still have had to pay
+
+tax on the gross amount of its $22.5 million dividend from Royal Dutch, which --
+
+in the absence of a capital gain against which to offset its capital losses --
+
+would have resulted in a substantial after-tax loss to Compaq. But cf. 26 U.S.C.
+
+§ 1212 (allowing for certain carrybacks and carryovers of capital losses against
+
+capital gains realized in years different from the years in which the losses were
+
+realized); Circle K Corp., 23 Cl. Ct. at 670. Put otherwise, the availability
+
+of a capital gain against which to offset the capital losses from the ADR
+
+transaction was a necessary precondition to the profitability of the transaction
+
+on an after-tax basis. A sensible taxpayer would have engaged in such a
+
+transaction only if it had a capital gain against which to offset the capital
+
+losses that the taxpayer knew would result from the transaction. All this is
+
+unremarkable and is no evidence that Compaq had an impermissible motive.
+
+                     According to the Commissioner, tax-exempt organizations with no use
+for U.S. income tax credits have an incentive to loan out their ADRs to
+non-tax-exempt persons in transactions of the kind at issue in this case. The
+non-exempt persons can use the capital losses and tax credits resulting from ADR
+transactions to offset unrelated capital gains and tax liabilities. The fact
+that the differing tax attributes of investors make ADRs more valuable for some
+investors than for others does not deprive ADR transactions of economic substance
+for purposes of the tax laws. The possible benefits from ADR transactions for
+investors with unrelated capital gains and tax liabilities are analogous to the
+benefits that taxpaying investors (especially investors with high incomes), but
+not tax-exempt persons, get from the purchase of tax-exempt bonds with lower
+yields than the pre-tax yields available from non-exempt bonds. See Yin, supra,
+at 222-23. In both instances the benefits would not exist were it not for the
+investors' individual tax attributes.
+
+   18
+the (pre-tax) $1.9 million profit it would get from the Royal Dutch
+dividend of approximately $22.5 million less the $20.7 million or
+so in capital losses that Compaq would incur from the sale of the
+ADRs ex dividend.
+
+                  Although, as the Tax Court found, the parties attempted
+to minimize the risks incident to the transaction, those risks did
+exist and were not by any means insignificant. The transaction
+occurred on a public market, not in an environment controlled by
+Compaq or its agents. The market prices of the ADRs could have
+changed during the course of the transaction (they in fact did
+change, 113 T.C. at 218); any of the individual trades could have
+been broken up or, for that matter, could have been executed
+incorrectly; and the dividend might not have been paid or might
+have been paid in an amount different from that anticipated by
+Compaq. See IES, 253 F.3d at 355. The absence of risk that can
+legitimately be eliminated does not make a transaction a sham, see
+id.; but in this case risk was present. In light of what we have
+said about the nature of Compaq's profit, both pre-tax and post-
+tax, we conclude that the transaction had a sufficient business
+purpose independent of tax considerations.9
+
+9  In IES, the court noted the Tax Court's assertion in this case that
+
+in light of Compaq's limited investigation of the risks of the Royal Dutch
+
+transaction, Compaq had had no non-tax business purpose in agreeing to the
+
+transaction. 253 F.3d at 355. Even if we agreed with the Tax Court that Compaq
+
+had not adequately investigated the risks, it would not make a difference to the
+
+outcome of this case. Though Compaq could have done more to evaluate the risks
+
+of the transaction, the process it used does not alone prove a lack of business
+
+purpose for a transaction that had real risks. It should also be noted that in
+
+   19
+                  Because the Royal Dutch ADR transaction had both economic
+substance and a non-tax business purpose, it should have been
+recognized as valid for U.S. income tax purposes. This court's
+decisions applying the economic substance doctrine to disregard
+various transactions are not to the contrary. Without enumerating
+all of the decisions, we mention some to give a flavor of the
+differences between the facts at issue in the decisions and in this
+case. In Freytag v. Comm'r, 904 F.2d 1011 (5th Cir. 1990), aff'd
+on other grounds, 501 U.S. 868, 111 S. Ct. 2631 (1991), this court
+affirmed a Tax Court decision disallowing losses allegedly incurred
+as a result of investments in a commodity straddle program. The
+taxpayers' investment agent had "absolute authority over the
+pricing and timing of the transactions" at issue, which "occurred
+in [a] self-contained market of its own making." 904 F.2d at
+1016.10 In Merryman, a business partnership was disregarded for tax
+purposes because "the formation and role of the partnership served
+no other purpose except tax avoidance;" a number of facts found by
+the Tax Court indicated that the partnership lacked economic
+
+this case, as in IES, the taxpayer declined to go forward with all of the
+
+transactions that Twenty-First had proposed. See 113 T.C. at 216; IES, 253 F.3d
+
+at 355.
+
+10       Similarly, in Fender v. United States, 577 F.2d 934, 937 (5th Cir.
+
+1978), the taxpayers' sale-and-repurchase transactions involving bonds were not
+
+recognized where the taxpayers had "sufficient influence" over the other party
+
+to the transaction to "remove any substantial risk" that they would be unable to
+
+recapture their apparent losses from the sale of the bonds by repurchasing the
+
+bonds. And in Salley v. Comm'r, 464 F.2d 479 (5th Cir. 1972), this court held
+
+that interest payments made by the taxpayers on loans from an insurance company
+
+that they controlled were not deductible. See id. at 480.
+
+         20
+reality and was a mere formality. See id. at 881-83. In
+Killingsworth, this court affirmed a Tax Court decision concluding
+that a scheme of option hedge or option straddle transactions
+lacked economic substance. We relied on Revenue Code section 108,
+a provision that is not relevant to this case, and noted that the
+transactions "appear[ed] to be devoid of profit making potential."
+864 F.2d at 1218. In Holladay, this court affirmed the Tax Court's
+decision to disallow half of certain tax benefits that an agreement
+between two joint venturers allocated to only one of the venturers.
+The allocation had no valid non-tax business purpose. 649 F.2d at
+1180. Compare Boynton v. Comm'r, 649 F.2d 1168, 1173-74 (5th Cir.
+Unit B Jul. 1981).
+
+                  In this case, by contrast, the ADR transaction had both
+a reasonable possibility of profit attended by a real risk of loss
+and an adequate non-tax business purpose. The transaction was not
+a mere formality or artifice but occurred in a real market subject
+to real risks. And, as has been discussed, the transaction gave
+rise to a real profit whether one looks at the transaction prior to
+the imposition of tax or afterwards.
+
+                  For the foregoing reasons, the Tax Court erred as a
+matter of law in disallowing Compaq's identification of gross
+dividend income, a foreign tax credit, and capital losses
+associated with the Royal Dutch ADR arbitrage transaction. It is
+unnecessary to reach the alternative arguments for reversal offered
+
+                                                         21
+by Compaq: first, that the statutory foreign tax credit regime
+implicitly displaces the economic substance doctrine; and second,
+that a 1997 amendment to the foreign tax credit scheme, which added
+what is now Internal Revenue Code § 901(k), implies that ADR
+transactions that took place before the amendment are to be
+recognized for tax purposes. Because we reverse the Tax Court's
+decision concerning the underlying transaction, it follows that the
+court erred in imposing the negligence penalty and that the court's
+holding that Compaq was not entitled to deduct its out of pocket
+losses becomes superfluous.
+
+                  The decision of the Tax Court is REVERSED.
+
+                                                         22
+

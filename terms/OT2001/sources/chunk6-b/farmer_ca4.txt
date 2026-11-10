@@ -1,0 +1,333 @@
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+ 
+
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v.
+No. 00-4580
+
+WILLIAM HASKELL FARMER,
+Defendant-Appellant. 
+Appeal from the United States District Court
+for the District of South Carolina, at Columbia.
+Dennis W. Shedd, District Judge.
+(CR-00-385)
+Argued: October 29, 2001
+Decided: December 12, 2001
+Before WILKINSON, Chief Judge, GREGORY, Circuit Judge,
+and Malcolm J. HOWARD, United States District Judge
+for the Eastern District of North Carolina,
+sitting by designation.
+Vacated and remanded by published opinion. Chief Judge Wilkinson
+wrote the opinion, in which Judge Gregory and Judge Howard joined.
+COUNSEL
+ARGUED: E. E. Edwards, III, Nashville, Tennessee, for Appellant.
+Marvin Jennings Caughman, Assistant United States Attorney,
+Columbia, South Carolina, for Appellee. ON BRIEF: C. Rauch Wise,
+Greenwood, South Carolina, for Appellant. Scott N. Schools, United
+States Attorney, Columbia, South Carolina, for Appellee. 
+
+OPINION
+WILKINSON, Chief Judge: 
+Defendant William Farmer seeks a hearing to determine whether
+he is entitled to fund his criminal defense using some or all of the
+assets seized pursuant to civil forfeiture statutes prior to his indict-
+ment. The district court denied Farmer’s request for a hearing.
+Because Farmer made a substantial showing that some of the seized
+assets may be both legitimate and necessary to hire an attorney, we
+vacate the judgment and remand with directions to hold a hearing for
+the limited purpose of determining whether untainted assets have
+been seized and whether Farmer requires those assets to hire counsel.
+I.
+On July 16, 1998, United States Customs Agents executed search
+warrants at Defendant William Farmer’s residence and warehouse.
+These warrants were obtained upon a showing of probable cause that
+Farmer was engaged in illegal counterfeiting of clothing trademarks
+in violation of federal law. During these and subsequent searches, the
+agents seized, inter alia, numerous documents, ten motor vehicles, a
+big screen television, over 3,000 boxes of merchandise, $160,000 in
+cashier’s checks, and more than $380,000 in cash pursuant to civil
+forfeiture statutes. 
+In August 1998, Farmer made a motion in the district court for the
+return of the seized property. The district court denied Farmer’s
+motion without a hearing. In an attempt to trigger a civil forfeiture
+proceeding, Farmer then filed a claim and posted a $5,000 cost bond
+pursuant to 19 U.S.C. § 1608. Farmer also moved a second time for
+the return of the property. In August 1999, the district court denied
+Farmer’s second motion, concluding that the government was pro-
+ceeding diligently and that requiring it to return the seized property
+or institute a forfeiture action could interfere with the government’s
+ongoing criminal investigation of Farmer. No civil forfeiture action
+was ever commenced. 
+On May 2, 2000, almost two years after the government seized Far-
+mer’s assets, a ten count indictment was handed down against Farmer.
+2
+UNITED STATES v. FARMER
+
+The indictment charged Farmer with, inter alia, conspiracy to traffic
+in clothing bearing counterfeit trademarks in violation of 18 U.S.C.
+§ 371, conspiracy to engage in unlawful financial transactions in vio-
+lation of 18 U.S.C. § 1956(h), and trafficking in counterfeit clothing
+and money laundering in violation of 18 U.S.C. §§ 2320 and 1957. In
+addition, pursuant to 18 U.S.C. § 982, the indictment sought forfeiture
+of the property previously seized. The indictment indicated that the
+property was subject to forfeiture as either instruments or proceeds of
+Farmer’s alleged trademark and money laundering violations. 
+On July 21, 2000, Farmer filed a motion for an immediate adver-
+sary hearing to determine if a portion of the seized funds should be
+released so that he could pay defense costs. Farmer alleged that the
+government seized all of his substantial assets in 1998, put him out
+of business in the process, and prevented him from using his own
+legitimate assets to fund his criminal defense. Farmer argued that he
+had a Sixth Amendment right to use his legitimate property to hire the
+attorney of his choice and that he had been deprived of that right
+without a meaningful opportunity to be heard in violation of the Due
+Process Clause. Farmer emphasized that the magistrate judge had
+concluded at arraignment that Farmer was entitled to appointed coun-
+sel because he was effectively rendered indigent by the government’s
+seizure of his property. The magistrate reached this conclusion based
+on Farmer’s affidavit and testimony under oath. Furthermore, Farmer
+argued that Customs officials had admitted that at least some of the
+merchandise seized was untainted. In response, the United States dis-
+puted that Farmer had no substantial assets with which to hire coun-
+sel. The government also stressed that Farmer had not challenged the
+probable cause determination underlying the search warrants used to
+seize his assets. 
+On August 10, 2000, the district court summarily denied Farmer’s
+motion for an adversary hearing. Farmer appeals.1 
+1Farmer’s appeal is before this court pursuant to 28 U.S.C. § 1291 and
+the collateral order doctrine of Cohen v. Beneficial Industrial Loan
+Corp., 337 U.S. 541, 546-47 (1949). See, e.g., United States v. Michelle’s
+Lounge, 39 F.3d 684, 693-94 (7th Cir. 1994) (collecting cases where
+courts have reviewed similar orders under the collateral order doctrine);
+United States v. Jones, 160 F.3d 641, 644 (10th Cir. 1998). 
+3
+UNITED STATES v. FARMER
+
+II.
+The Supreme Court has made clear that a criminal defendant has
+no Sixth Amendment right to use illegally obtained funds to hire an
+attorney. In Caplin & Drysdale v. United States, 491 U.S. 617 (1989),
+the Court concluded that any Sixth Amendment right to obtain coun-
+sel of choice does not extend beyond the individual’s right to spend
+his own legitimate, nonforfeitable assets. Caplin, 491 U.S. at 624-33.
+The Court explicitly rejected "any notion of a constitutional right to
+use the proceeds of crime to finance an expensive defense." Id. at 630.
+And the Court stressed that "there is a strong governmental interest
+in obtaining full recovery of all forfeitable assets, an interest that
+overrides any Sixth Amendment interest in permitting criminals to
+use assets adjudged forfeitable to pay for their defense." Id. at 631.
+Furthermore, in Caplin’s companion case, the Court held that the pre-
+trial restraint of a criminal defendant’s assets does not violate the
+Constitution as long as the assets are restrained based upon a finding
+of probable cause that they are subject to forfeiture. United States v.
+Monsanto, 491 U.S. 600, 615-16 (1989). 
+However, Caplin and Monsanto expressly left open the issue of
+whether a defendant has a Fifth Amendment right to a pretrial hearing
+to determine whether some or all of the seized assets may properly
+be used to fund his criminal defense. In Monsanto, the Supreme Court
+stated: 
+ We do not consider today, however, whether the Due Pro-
+cess Clause requires a hearing before a pretrial restraining
+order can be imposed. . . . 
+ Though the United States petitioned for review of the
+Second Circuit’s holding that such a hearing was required,
+Farmer raises various other claims, among them that he is entitled to
+a release of funds for basic living expenses and that he is entitled to
+accrued interest on the seized property. However, these matters are
+beyond the scope of the basic trial right Farmer asserts in this appeal,
+namely his right to hire the counsel of his choice with his own legiti-
+mately obtained assets. 
+4
+UNITED STATES v. FARMER
+
+. . . given that the Government prevailed in the District
+Court notwithstanding the hearing, it would be pointless for
+us now to consider whether a hearing was required by the
+Due Process Clause. 
+Monsanto, 491 U.S. at 615 n.10. 
+Prior to Caplin and Monsanto, this court addressed a criminal
+defendant’s due process right to a hearing when his assets are seized
+pursuant to criminal forfeiture statutes. In United States v. Harvey,
+814 F.2d 905 (4th Cir. 1987), we stated that "the issuance of ex parte
+restraining orders after indictment without any post-deprivation hear-
+ing other than a criminal trial . . . violates fifth amendment due pro-
+cess guarantees" when all of a defendant’s substantial assets have
+been restrained and the defendant seeks to utilize restrained assets to
+fund his legal defense. Harvey, 814 F.2d at 913, 928-29.2 
+Our sister circuits have agreed with the conclusion in Harvey. They
+have held that due process requires a pretrial adversary hearing when
+a defendant claims that a portion of the assets restrained pursuant to
+criminal forfeiture statues are untainted and that he has no other funds
+from which to secure the counsel of his choice. See, e.g., United
+States v. Jones, 160 F.3d 641, 645-49 (10th Cir. 1998); United States
+v. Monsanto, 924 F.2d 1186, 1191-98 (2d Cir. 1991) ("Monsanto
+IV"); United States v. Moya-Gomez, 860 F.2d 706, 725-30 (7th Cir.
+1988); United States v. Lewis, 759 F.2d 1316, 1324-25 (8th Cir.
+1985); United States v. Crozier, 777 F.2d 1376, 1383-84 (9th Cir.
+1985); United States v. Long, 654 F.2d 911, 915-16 (3d Cir. 1981).
+But see United States v. Register, 182 F.3d 820, 835 (11th Cir. 1999)
+(recognizing that the Eleventh Circuit is the "only circuit holding that,
+although pre-trial restraint of assets needed to retain counsel impli-
+cates the Due Process Clause, the trial itself satisfies this require-
+ment"). At least one circuit has also concluded that due process
+requires an adversary hearing on probable cause "when the district
+2The court in In re Forfeiture Hearing as to Caplin & Drysdale, 837
+F.2d 637 (4th Cir. 1988) (en banc), did not grant rehearing en banc on
+this Fifth Amendment issue in Harvey. See 837 F.2d at 641. And the
+Supreme Court explicitly reserved the issue in Monsanto. See 491 U.S.
+at 615 n.10. 
+5
+UNITED STATES v. FARMER
+
+court has found that the government has seized through civil forfei-
+ture all of the assets a criminal defendant needs to obtain counsel."
+United States v. Michelle’s Lounge, 39 F.3d 684, 700-01 (7th Cir.
+1994). 
+III.
+Due process requires that a person not be deprived of property
+without notice and an opportunity for a hearing "at a meaningful time
+and in a meaningful manner." Fuentes v. Shevin, 407 U.S. 67, 80
+(1972) (internal quotation omitted). When identifying the specific dic-
+tates of due process, three factors must be considered: (1) "the private
+interest that will be affected by the official action;" (2) "the risk of an
+erroneous deprivation of such interest through the procedures used,
+and the probable value, if any, of additional or substitute procedural
+safeguards;" and (3) "the Government’s interest, including the . . .
+administrative burdens that the additional or substitute procedural
+requirement would entail." Mathews v. Eldridge, 424 U.S. 319, 334-
+35 (1976). Courts have consistently used this Mathews analysis to
+determine if a defendant is entitled to a postseizure, pretrial adversary
+hearing. See, e.g., Harvey, 814 F.2d at 928; Jones, 160 F.3d at 645-
+47; Michelle’s Lounge, 39 F.3d at 697-701; Monsanto IV, 924 F.2d
+at 1193-98.
+First, Farmer has advanced a "private interest" in obtaining a pre-
+trial hearing. See, e.g., Jones, 160 F.3d at 646; Michelle’s Lounge, 39
+F.3d at 697-98; Monsanto IV, 924 F.2d at 1193-95. While Caplin
+made absolutely clear that there is no Sixth Amendment right for a
+defendant to obtain counsel using tainted funds, Farmer still possesses
+a qualified Sixth Amendment right to use wholly legitimate funds to
+hire the attorney of his choice. See, e.g., Caplin, 491 U.S. at 624-25;
+Powell v. Alabama, 287 U.S. 45, 53 (1932). Farmer’s assets were
+seized pursuant to civil forfeiture, based on the same allegedly illegal
+activities underlying his current criminal indictment. This places Far-
+mer "in the same position as a criminal defendant whose assets are
+seized pursuant to criminal forfeiture." Michelle’s Lounge, 39 F.3d at
+697. Therefore, Harvey and the cases from our sister circuits that
+found a private interest in a hearing when assets were restrained pur-
+suant to criminal forfeiture statutes are analogous.
+6
+UNITED STATES v. FARMER
+
+This private interest would be absent if Farmer possessed the
+means to hire an attorney independently of assets that were seized.
+Farmer has previously declared under oath that, due to the govern-
+ment’s seizure of his property, he does not have funds to hire counsel
+for his criminal defense. And the magistrate judge concluded, based
+on Farmer’s "affidavit and [Farmer’s] answers to [his] questions," that
+Farmer was effectively rendered indigent by the government’s seizure
+of his property. While the adversary hearing Farmer seeks may call
+his protestations of indigency into question, the magistrate’s explicit
+finding constitutes a threshold showing that Farmer is without funds
+to hire the attorney of his choice. If a defendant does not make such
+a threshold showing of need to use wrongly seized assets to pay his
+attorneys, "then the private interest of the Mathews calculus drops out
+of the picture, tipping the balance of interests against a post-restraint
+hearing." Jones, 160 F.3d at 647; see also Michelle’s Lounge, 39 F.3d
+at 701 (requiring this threshold determination before due process enti-
+tles the defendant to a hearing); Moya-Gomez, 860 F.2d at 730
+(same). In sum, a defendant must "show a bona fide need to utilize
+[seized] assets . . . to conduct his defense" in order to be entitled to
+a hearing. United States v. Kirschenbaum, 156 F.3d 784, 792 (7th Cir.
+1998) (internal quotation omitted). 
+Second, under the circumstances of this case, there is a risk of erro-
+neous deprivation of Farmer’s interest in the absence of any hearing.
+It is true, as the government notes, that the search warrants were
+issued in this case upon a showing of probable cause to believe that
+the assets were tainted and that Farmer has failed to challenge the
+issuance of the search warrants at any point. However, that is not the
+end of the story. To begin with, there has been no civil forfeiture pro-
+ceeding commenced, in which Farmer could have contested the legiti-
+macy of the assets, in the nearly two years between the seizure of the
+assets and Farmer’s indictment. Further, one of Farmer’s attorneys
+has submitted an affidavit under oath stating that Customs officials
+personally admitted to him that many of the items seized were legiti-
+mate dry goods which were not counterfeit and had no unauthorized
+trademarks. The attorney’s affidavit reads as follows: 
+4. In a conversation held shortly before March 5, 1999,
+Agent Pharis related to [me] that customs had determined
+that 30 pallets containing NFL jackets, raincoats, boots, key
+7
+UNITED STATES v. FARMER
+
+chains and Super Bowl hats were in fact legitimate goods.
+Agent Pharis further stated that a substantial quantity of
+Tommy Hilfiger merchandise [was] legitimate but they
+wanted to check to see if any of that merchandise had been
+taken from Dillard’s as that store had incurred a major theft.
+An attorney’s declaration under oath that government agents person-
+ally admitted to him that legitimate assets were seized is not a matter
+we can summarily discount. Allowing Farmer to rebut the govern-
+ment’s showing of probable cause "would afford [him] an important
+opportunity to be heard before his assets to pay attorneys are, in
+effect, permanently seized." Michelle’s Lounge, 39 F.3d at 700; see
+also Jones 160 F.3d at 646-47; Monsanto IV, 924 F.2d at 1195. 
+Finally, the government would not be unduly burdened by the hear-
+ing Farmer seeks. See, e.g., Jones, 160 F.3d at 647; Michelle’s
+Lounge, 39 F.3d at 700. The fact that Farmer’s representations of
+indigency were credited by the magistrate judge and that his attorney
+averred under oath that the government’s own agents have conceded
+the legitimate character of at least a portion of the seized assets does
+not mark this as a case that will open the floodgates to hearings on
+flimsy or insubstantial grounds. Such threshold showings "protect the
+government and its resources from frivolous challenges" to forfei-
+tures. Jones, 160 F.3d at 647. Furthermore, at oral argument the gov-
+ernment conceded that it is not opposed to giving Farmer a hearing
+if he shows that he lacks the ability to hire an attorney. The govern-
+ment merely disputes the conclusion that Farmer has made a suffi-
+cient initial showing regarding his need to use seized assets to hire
+counsel. 
+Considering the three Mathews factors as they apply to Farmer, we
+conclude that due process requires a hearing for him to challenge
+probable cause. We stress, however, that this is a hearing for limited
+purposes. See Jones, 160 F.3d at 647-48 (noting limited nature of
+hearing); Michelle’s Lounge, 39 F.3d at 701 (same). When assets are
+seized pursuant to civil forfeiture, the hearing right applies "only inso-
+far as the civil seizures affect a defendant’s right to select his counsel
+of choice in a related criminal case, not in the civil forfeiture case
+itself." Michelle’s Lounge, 39 F.3d at 704 (Flaum, J., concurring); see
+also id. at 698. And the hearing is certainly not the forum to reach a
+8
+UNITED STATES v. FARMER
+
+definitive conclusion on the legality of each asset seized. Instead, a
+brief hearing will provide an opportunity for Farmer to prove by a
+preponderance of the evidence that the government seized untainted
+assets without probable cause and that he needs those same assets to
+hire counsel. See, e.g., Michelle’s Lounge, 39 F.3d at 701; Monsanto
+IV, 924 F.2d at 1194. The government for its part may present evi-
+dence that Farmer has other substantial assets with which to hire
+attorneys and/or evidence of probable cause to believe that the seized
+assets are tainted and forfeitable. 
+"Due process does not automatically require a hearing and a defen-
+dant may not simply ask for one." Jones, 160 F.3d at 647. District
+courts enjoy broad discretion to determine the need for hearings of
+this sort, and appellate courts remain properly respectful of the trial
+courts’ supervision of such pretrial proceedings. Here, however,
+because the magistrate judge credited Farmer’s initial representations
+that the government had seized all of his substantial assets, and
+because counsel has sworn in a detailed affidavit that the govern-
+ment’s own agents acknowledged that many seized assets were legiti-
+mate, we hold that the Due Process Clause requires an adversary
+hearing for the purpose described above. 
+IV.
+For the foregoing reasons, we vacate the judgment of the district
+court and remand with directions to hold a hearing to determine
+whether there are untainted, legitimate assets in the government’s
+possession and whether those assets are necessary for Farmer to hire
+counsel for his criminal defense.
+VACATED AND REMANDED
+9
+UNITED STATES v. FARMER
